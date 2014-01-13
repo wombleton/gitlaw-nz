@@ -1,5 +1,5 @@
 Reprint  
-as at 5 December 2013
+as at 18 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -143,11 +143,11 @@ This Act is administered by the Ministry of Defence.
 
 [50][59][][59][Malingering][59]
 
-[Offences involving alcoholic liquor and drugs][60]
+[Offences involving alcohol and drugs][60]
 
 [51][61][][61][Drunkenness and being under the influence of drugs][61]
 
-[52][62][][62][Being in possession of alcoholic liquor in a ship, establishment, camp, or base][62]
+[52][62][][62][Being in possession of alcohol in a ship, establishment, camp, or base][62]
 
 [False statements, documents, and corruption][63]
 
@@ -893,11 +893,13 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     _airman_ has the meaning assigned to that term by [section 2(1)][402] of the Defence Act 1990 
     
+    _alcohol_ has the meaning given by [section 5(1)][404] of the Sale and Supply of Alcohol Act 2012
+    
     _Allied force_ means a force or part of a force of another country acting in co-operation with a part of the Armed Forces
     
     _Armed Forces_ means the Navy, the Army, and the Air Force collectively; and includes any branch, corps, command, formation, unit, or other part of the Armed Forces; but does not include any part of the cadet forces
     
-    _Armed Forces Canteen Council_ means the Armed Forces Canteen Council constituted under the [Armed Forces Canteens Act 1948][404]
+    _Armed Forces Canteen Council_ means the Armed Forces Canteen Council constituted under the [Armed Forces Canteens Act 1948][405]
     
     _armoured fighting vehicle_ includes a track-based self-propelled gun or missile
     
@@ -911,17 +913,17 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     _before the enemy_, in relation to any person subject to this Act, means that he is in the presence or vicinity of the enemy, or is engaged in any action or operation against the enemy, or is under orders to be prepared for any action or operation by or against the enemy
     
-    _cadet forces_ means the cadet forces raised and maintained under [Part 6][405] of the Defence Act 1990
+    _cadet forces_ means the cadet forces raised and maintained under [Part 6][406] of the Defence Act 1990
     
     _Chief Judge_ means the Chief Judge of the Court Martial
     
-    _Chief of Defence Force_ means the officer appointed under [section 8][406] of the Defence Act 1990
+    _Chief of Defence Force_ means the officer appointed under [section 8][407] of the Defence Act 1990
     
     _civil court_ in relation to any offence, means a court exercising ordinary criminal jurisdiction in New Zealand
     
     _civil custody_ means the custody of the Police or other civil authority authorised to retain persons in civil custody; and includes confinement in a civil prison
     
-    _claim of right_ has the same meaning as it has in [section 2(1)][407] of the Crimes Act 1961
+    _claim of right_ has the same meaning as it has in [section 2(1)][408] of the Crimes Act 1961
     
     _commanding officer_---
         
@@ -939,7 +941,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
         
         *   (vi) the officer who is in command of a battalion or regiment:
         
-        *   (vii) an officer of a force of another State that is declared to be serving together with a New Zealand force under [section 23B][408] of the Defence Act 1990, who is for the time being appointed or authorised to be a commanding officer for the purposes of this Act by a superior commander; but
+        *   (vii) an officer of a force of another State that is declared to be serving together with a New Zealand force under [section 23B][409] of the Defence Act 1990, who is for the time being appointed or authorised to be a commanding officer for the purposes of this Act by a superior commander; but
         
         
     
@@ -957,19 +959,19 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     *   (c) does not include any chaplain
     
-    _controlled drug_ means a controlled drug within the meaning of the [Misuse of Drugs Act 1975][409]
+    _controlled drug_ means a controlled drug within the meaning of the [Misuse of Drugs Act 1975][410]
     
     _corps_ means such part of the Army as may from time to time be declared by Defence Force Order to be a corps for the purposes of this Act
     
-    _Court Martial_ means the Court Martial of New Zealand established under [section 8][410] of the Court Martial Act 2007
+    _Court Martial_ means the Court Martial of New Zealand established under [section 8][411] of the Court Martial Act 2007
     
     _decoration_ means the insignia of any decoration or order, or any medal, clasp, or good conduct badge; and includes any miniature of any of them
     
     _defence area_ has the meaning assigned to that term by [section 2(1)][402] of the Defence Act 1990
     
-    _Defence Force Orders_ means orders issued under [section 206][387] of this Act or [section 27][411] of the Defence Act 1990
+    _Defence Force Orders_ means orders issued under [section 206][387] of this Act or [section 27][412] of the Defence Act 1990
     
-    _dental practitioner_ means a health practitioner who is, or is deemed to be, registered with the Dental Council established by [section 114(2)][412] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of dentistry
+    _dental practitioner_ means a health practitioner who is, or is deemed to be, registered with the Dental Council established by [section 114(2)][413] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of dentistry
     
     _Deputy Chief Judge_ means a Deputy Chief Judge of the Court Martial
     
@@ -1007,7 +1009,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     _is liable_ means is liable on conviction by the Court Martial
     
-    _joint force_ means a joint force established under [section 12(1)][413] of the Defence Act 1990
+    _joint force_ means a joint force established under [section 12(1)][414] of the Defence Act 1990
     
     _Judge_---
         
@@ -1021,7 +1023,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     _leading aircraftman_ includes an aircraftman, a general service hand, and an air force cadet
     
-    _medical practitioner_ means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by [section 114(1)(a)][412] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
+    _medical practitioner_ means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by [section 114(1)(a)][413] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
     
     _member of the Armed Forces_ means a person subject to this Act by virtue of [section 6][8], or [section 9][11], or [section 10][12], or [section 11][13]
     
@@ -1041,7 +1043,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     _mutiny_ means a combination between 2 or more persons subject to service law, or between persons of whom at least 2 are persons subject to service law, to overthrow or resist lawful authority in a part of the Armed Forces or in a force of another country acting in co-operation with a part of the Armed Forces
     
-    _naval establishment_ and _naval ship_ have the meanings assigned to those terms by [section 2(1)][414] of the Defence Act 1990
+    _naval establishment_ and _naval ship_ have the meanings assigned to those terms by [section 2(1)][415] of the Defence Act 1990
     
     _Navy_ means the New Zealand Naval Forces constituted under [section 11(3)][401] of the Defence Act 1990
     
@@ -1055,11 +1057,11 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     _part of the Commonwealth_ means a country (other than New Zealand) which is a member of the Commonwealth of Nations; and includes every territory for whose international relations the Government of any such country is responsible
     
-    _prescribed_ means prescribed by this Act, or by rules of procedure or regulations made under this Act, or by regulations made under the [Defence Act 1990][415] or by Defence Force Orders issued under this Act or the Defence Act 1990
+    _prescribed_ means prescribed by this Act, or by rules of procedure or regulations made under this Act, or by regulations made under the [Defence Act 1990][416] or by Defence Force Orders issued under this Act or the Defence Act 1990
     
     _president_ means the president of a court of inquiry
     
-    _prison_ means any prison established or deemed to be established under the [Corrections Act 2004][416]
+    _prison_ means any prison established or deemed to be established under the [Corrections Act 2004][417]
     
     _private_ includes a gunner, trooper, sapper, signalman, driver, or craftsman
     
@@ -1079,7 +1081,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     _Registrar_ means the Registrar of the Summary Appeal Court
     
-    _relative rank_ means the appropriate rank prescribed under [section 17][417] of the Defence Act 1990
+    _relative rank_ means the appropriate rank prescribed under [section 17][418] of the Defence Act 1990
     
     _rules of procedure_ means rules of procedure made under [section 150][273]
     
@@ -1103,13 +1105,13 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     _soldier_ has the meaning assigned to that term by [section 2(1)][402] of the Defence Act 1990
     
-    _stealing_ has the meaning assigned to that term by [section 219][418] of the Crimes Act 1961
+    _stealing_ has the meaning assigned to that term by [section 219][419] of the Crimes Act 1961
     
     _subject to this Act_, in relation to any person, means that he is subject to the law established by this Act
     
     _subordinate commander_ means an officer to whom all or any of the powers to act as a disciplinary officer have been delegated under [section 106][146]
     
-    _Summary Appeal Court_ means the Summary Appeal Court of New Zealand established under [section 118][419]
+    _Summary Appeal Court_ means the Summary Appeal Court of New Zealand established under [section 118][420]
     
     _superior commander_---
         
@@ -1137,7 +1139,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
             
             
         
-        *   (viii) an officer of a force of another State that is declared to be serving together with a New Zealand force under [section 23B][408] of the Defence Act 1990 who is not below the relative rank of captain in the Navy, colonel in the Army, or group captain in the Air Force and who is authorised by the Chief of Defence Force to act as a disciplinary officer under [Part 5][140] in respect of charges against other officers who---
+        *   (viii) an officer of a force of another State that is declared to be serving together with a New Zealand force under [section 23B][409] of the Defence Act 1990 who is not below the relative rank of captain in the Navy, colonel in the Army, or group captain in the Air Force and who is authorised by the Chief of Defence Force to act as a disciplinary officer under [Part 5][140] in respect of charges against other officers who---
                 
             *   (A) are not below the rank of lieutenant commander in the Navy, major in the Army, or squadron leader in the Air Force; and
             
@@ -1165,7 +1167,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
         
         
     
-    _visiting force_ has the same meaning as in [section 4][420] of the Visiting Forces Act 2004
+    _visiting force_ has the same meaning as in [section 4][421] of the Visiting Forces Act 2004
     
     _warrant officer_ has the meaning assigned to that term by [section 2(1)][402] of the Defence Act 1990\.
     
@@ -1179,9 +1181,9 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     *   (c) pursuant to an order, or to a custom of the service which pertains to the office or appointment.
     
-    (4) In this Act, a reference to the relationship between rank grades is a reference to the relationship that is to be regarded as existing between those rank grades as prescribed under [section 17][417] of the Defence Act 1990\.
+    (4) In this Act, a reference to the relationship between rank grades is a reference to the relationship that is to be regarded as existing between those rank grades as prescribed under [section 17][418] of the Defence Act 1990\.
     
-    (5) In this Act, a reference to this Act includes, unless the context otherwise requires, a reference to the [Court Martial Act 2007][421].
+    (5) In this Act, a reference to this Act includes, unless the context otherwise requires, a reference to the [Court Martial Act 2007][422].
     
     (6) In this Act, a reference to counsel for an accused includes, unless the context otherwise requires, a reference to a member of the Armed Forces who undertakes the defence of an accused in the Court Martial.
     
@@ -1197,185 +1199,187 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     Section 2(1) **able rank**: substituted, on 1 January 1986, by section 2(1) of the Armed Forces Discipline Amendment Act 1985 (1985 No 199).
     
-    Section 2(1) **Air Force**: amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 2(1) **Air Force**: amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
     
-    Section 2(1) **Air Force base**: amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 2(1) **Air Force base**: amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
     
-    Section 2(1) **aircraft**: amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 2(1) **aircraft**: amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
     
-    Section 2(1) **airman**: amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 2(1) **airman**: amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
     
-    Section 2(1) **Army**: amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 2(1) **alcohol**: inserted, on 18 December 2013, by [section 417(1)][424] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
     
-    Section 2(1) **Army camp**: amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 2(1) **Army**: amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
     
-    Section 2(1) **Authority**: inserted, on 1 July 2009, by [section 4(13)][423] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 2(1) **Army camp**: amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
     
-    Section 2(1) **basic pay**: substituted, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 2(1) **Authority**: inserted, on 1 July 2009, by [section 4(13)][425] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 2(1) **cadet forces**: amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 2(1) **basic pay**: substituted, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 2(1) **Chief Judge**: inserted, on 1 July 2009, by [section 4(13)][423] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 2(1) **cadet forces**: amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
     
-    Section 2(1) **Chief of Defence Force**: inserted, on 28 July 1997, by [section 2][425] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 2(1) **Chief Judge**: inserted, on 1 July 2009, by [section 4(13)][425] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 2(1) **civil court**: amended, on 1 July 2013, by [section 413][426] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 2(1) **Chief of Defence Force**: inserted, on 28 July 1997, by [section 2][427] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
     
-    Section 2(1) **claim of right**: inserted, on 1 October 2003, by [section 34][427] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 2(1) **civil court**: amended, on 1 July 2013, by [section 413][428] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 2(1) **colour of right**: repealed, on 1 October 2003, by [section 34][427] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 2(1) **claim of right**: inserted, on 1 October 2003, by [section 34][429] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 2(1) **commanding officer**: substituted, on 1 July 2009, by [section 4(2)][423] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 2(1) **colour of right**: repealed, on 1 October 2003, by [section 34][429] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 2(1) **competent service authority**: substituted, on 1 July 2009, by [section 4(3)][423] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 2(1) **commanding officer**: substituted, on 1 July 2009, by [section 4(2)][425] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 2(1) **competent service authority** paragraph (ab): inserted, on 7 July 2010, by [section 4][428] of the Armed Forces Discipline Amendment Act 2010 (2010 No 48).
+    Section 2(1) **competent service authority**: substituted, on 1 July 2009, by [section 4(3)][425] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    
+    Section 2(1) **competent service authority** paragraph (ab): inserted, on 7 July 2010, by [section 4][430] of the Armed Forces Discipline Amendment Act 2010 (2010 No 48).
     
     Section 2(1) **constable**: repealed, on 27 May 1988, by section 2(1) of the Armed Forces Discipline Amendment Act 1988 (1988 No 89).
     
     Section 2(1) **controlled drug**: inserted, on 1 January 1986, by section 2(4) of the Armed Forces Discipline Amendment Act 1985 (1985 No 199).
     
-    Section 2(1) **convening officer**: repealed, on 1 July 2009, by [section 4(1)][423] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 2(1) **convening officer**: repealed, on 1 July 2009, by [section 4(1)][425] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 2(1) **corps**: amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 2(1) **corps**: amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 2(1) **Court Martial**: substituted, on 1 July 2009, by [section 4(4)][423] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 2(1) **Court Martial**: substituted, on 1 July 2009, by [section 4(4)][425] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 2(1) **deal summarily with**: repealed, on 1 July 2009, by [section 4(1)][423] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 2(1) **deal summarily with**: repealed, on 1 July 2009, by [section 4(1)][425] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 2(1) **defence area**: amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 2(1) **defence area**: amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
     
-    Section 2(1) **Defence Council**: repealed, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 2(1) **Defence Council**: repealed, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 2(1) **Defence Force Orders**: inserted, on 1 July 2009, by [section 4(13)][423] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 2(1) **Defence Force Orders**: inserted, on 1 July 2009, by [section 4(13)][425] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 2(1) **dental practitioner**: inserted, on 18 September 2004, by [section 175(1)][429] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 2(1) **dental practitioner**: inserted, on 18 September 2004, by [section 175(1)][431] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 2(1) **Deputy Chief Judge**: inserted, on 1 July 2009, by [section 4(13)][423] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 2(1) **Deputy Chief Judge**: inserted, on 1 July 2009, by [section 4(13)][425] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 2(1) **detachment commander**: substituted, on 1 July 2009, by [section 4(5)][423] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 2(1) **detachment commander**: substituted, on 1 July 2009, by [section 4(5)][425] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 2(1) **detainee**: substituted, on 1 July 2009, by [section 4(6)][423] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 2(1) **detainee**: substituted, on 1 July 2009, by [section 4(6)][425] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 2(1) **Director of Military Prosecutions**: inserted, on 1 July 2009, by [section 4(13)][423] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 2(1) **Director of Military Prosecutions**: inserted, on 1 July 2009, by [section 4(13)][425] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 2(1) **disciplinary officer**: inserted, on 1 July 2009, by [section 4(13)][423] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 2(1) **disciplinary officer**: inserted, on 1 July 2009, by [section 4(13)][425] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 2(1) **Discipline Committee**: inserted, on 1 July 2009, by [section 4(13)][423] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 2(1) **Discipline Committee**: inserted, on 1 July 2009, by [section 4(13)][425] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 2(1) **dismissed from Her Majesty's Service**: amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 2(1) **dismissed from Her Majesty's Service**: amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 2(1) **enemy**: amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 2(1) **enemy**: amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
     
-    Section 2(1) **is liable**: amended, on 1 July 2009, by [section 4(7)][423] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 2(1) **is liable**: amended, on 1 July 2009, by [section 4(7)][425] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
     Section 2(1) **joint force**: inserted, on 27 May 1988, by section 2(2) of the Armed Forces Discipline Amendment Act 1988 (1988 No 89).
     
-    Section 2(1) **joint force**: amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 2(1) **joint force**: amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
     
-    Section 2(1) **joint force**: amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 2(1) **joint force**: amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 2(1) **Judge**: inserted, on 1 July 2009, by [section 4(13)][423] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 2(1) **Judge**: inserted, on 1 July 2009, by [section 4(13)][425] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 2(1) **lawyer**: inserted, on 1 July 2009, by [section 4(13)][423] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 2(1) **lawyer**: inserted, on 1 July 2009, by [section 4(13)][425] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
     Section 2(1) **leading aircraftman**: substituted, on 1 January 1986, by section 2(5) of the Armed Forces Discipline Amendment Act 1985 (1985 No 199).
     
-    Section 2(1) **medical practitioner**: inserted, on 18 September 2004, by [section 175(1)][429] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 2(1) **medical practitioner**: inserted, on 18 September 2004, by [section 175(1)][431] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 2(1) **member of the Armed Forces**: inserted, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 2(1) **member of the Armed Forces**: inserted, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 2(1) **member of the Court Martial**: inserted, on 1 July 2009, by [section 4(13)][423] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 2(1) **member of the Court Martial**: inserted, on 1 July 2009, by [section 4(13)][425] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 2(1) **military member**: inserted, on 1 July 2009, by [section 4(13)][423] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 2(1) **military member**: inserted, on 1 July 2009, by [section 4(13)][425] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 2(1) **military tribunal**: inserted, on 1 July 2009, by [section 4(13)][423] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 2(1) **military tribunal**: inserted, on 1 July 2009, by [section 4(13)][425] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
     Section 2(1) **narcotic**: repealed, on 1 January 1986, by section 2(6) of the Armed Forces Discipline Amendment Act 1985 (1985 No 199).
     
-    Section 2(1) **naval establishment** and **naval ship **: amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 2(1) **naval establishment** and **naval ship **: amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
     
-    Section 2(1) **Navy**: amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 2(1) **Navy**: amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
     
-    Section 2(1) **New Zealand force** or **force**: substituted, on 1 July 2004, by [section 26][430] of the Visiting Forces Act 2004 (2004 No 59).
+    Section 2(1) **New Zealand force** or **force**: substituted, on 1 July 2004, by [section 26][432] of the Visiting Forces Act 2004 (2004 No 59).
     
-    Section 2(1) **non-commissioned officer**: amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 2(1) **non-commissioned officer**: amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
     
-    Section 2(1) **officer**: amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 2(1) **officer**: amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
     
-    Section 2(1) **officer exercising summary powers**: repealed, on 1 July 2009, by [section 4(1)][423] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 2(1) **officer exercising summary powers**: repealed, on 1 July 2009, by [section 4(1)][425] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 2(1) **penal institution**: repealed, on 1 June 2005, by [section 206][431] of the Corrections Act 2004 (2004 No 50).
+    Section 2(1) **penal institution**: repealed, on 1 June 2005, by [section 206][433] of the Corrections Act 2004 (2004 No 50).
     
-    Section 2(1) **prescribed**: substituted, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 2(1) **prescribed**: substituted, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
     
-    Section 2(1) **president**: substituted, on 1 July 2009, by [section 4(8)][423] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 2(1) **president**: substituted, on 1 July 2009, by [section 4(8)][425] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 2(1) **prison**: inserted, on 1 June 2005, by [section 206][431] of the Corrections Act 2004 (2004 No 50).
+    Section 2(1) **prison**: inserted, on 1 June 2005, by [section 206][433] of the Corrections Act 2004 (2004 No 50).
     
     Section 2(1) **private**: amended, on 1 January 1986, by section 2(7) of the Armed Forces Discipline Amendment Act 1985 (1985 No 199).
     
-    Section 2(1) **provost officer**: substituted, on 1 July 2009, by [section 4(9)][423] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 2(1) **provost officer**: substituted, on 1 July 2009, by [section 4(9)][425] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 2(1) **rank**: amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 2(1) **rank**: amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 2(1) **rating**: amended, on 1 April 1990, pursuant to [section 105(2)][424] of the Defence Act 1990 (1990 No 28).
+    Section 2(1) **rating**: amended, on 1 April 1990, pursuant to [section 105(2)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 2(1) **Registrar**: inserted, on 1 July 2009, by [section 4(13)][423] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 2(1) **Registrar**: inserted, on 1 July 2009, by [section 4(13)][425] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 2(1) **relative rank**: inserted, on 1 July 2004, by [section 26][430] of the Visiting Forces Act 2004 (2004 No 59).
+    Section 2(1) **relative rank**: inserted, on 1 July 2004, by [section 26][432] of the Visiting Forces Act 2004 (2004 No 59).
     
-    Section 2(1) **reviewing authority**: repealed, on 1 July 2009, by [section 4(1)][423] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 2(1) **reviewing authority**: repealed, on 1 July 2009, by [section 4(1)][425] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
     Section 2(1) **service**: amended, on 27 May 1988, by section 2(3) of the Armed Forces Discipline Amendment Act 1988 (1988 No 89).
     
-    Section 2(1) **service penal establishment**: amended, on 1 April 1990, by section [105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 2(1) **service penal establishment**: amended, on 1 April 1990, by section [105(1)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 2(1) **service prisoner**: amended, on 1 July 2009, by [section 4(10)][423] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 2(1) **service prisoner**: amended, on 1 July 2009, by [section 4(10)][425] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 2(1) **serviceman**: repealed, on 1 April 1990, by section [105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 2(1) **serviceman**: repealed, on 1 April 1990, by section [105(1)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 2(1) **ship**: amended, on 1 April 1990, pursuant to [section 105(2)][424] of the Defence Act 1990 (1990 No 28).
+    Section 2(1) **ship**: amended, on 1 April 1990, pursuant to [section 105(2)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 2(1) **soldier**: amended, on 1 April 1990, pursuant to [section 105(2)][424] of the Defence Act 1990 (1990 No 28).
+    Section 2(1) **soldier**: amended, on 1 April 1990, pursuant to [section 105(2)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 2(1) **stealing**: amended, on 1 October 2003, by [section 34][427] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 2(1) **stealing**: amended, on 1 October 2003, by [section 34][429] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 2(1) **subordinate commander**: inserted, on 1 July 2009, by [section 4(13)][423] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 2(1) **subordinate commander**: inserted, on 1 July 2009, by [section 4(13)][425] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 2(1) **Summary Appeal Court**: inserted, on 1 July 2009, by [section 4(13)][423] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 2(1) **Summary Appeal Court**: inserted, on 1 July 2009, by [section 4(13)][425] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 2(1) **superior commander**: substituted, on 1 July 2009, by [section 4(11)][423] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 2(1) **superior commander**: substituted, on 1 July 2009, by [section 4(11)][425] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 2(1) **superior officer**: substituted, on 1 July 2009, by [section 4(12)][423] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 2(1) **superior officer**: substituted, on 1 July 2009, by [section 4(12)][425] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 2(1) **try summarily**: repealed, on 1 July 2009, by [section 4(1)][423] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 2(1) **try summarily**: repealed, on 1 July 2009, by [section 4(1)][425] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 2(1) **visiting force**: inserted, on 1 July 2004, by [section 26][430] of the Visiting Forces Act 2004 (2004 No 59).
+    Section 2(1) **visiting force**: inserted, on 1 July 2004, by [section 26][432] of the Visiting Forces Act 2004 (2004 No 59).
     
-    Section 2(1) **warrant officer**: amended, on 1 April 1990, pursuant to [section 105(2)][424] of the Defence Act 1990 (1990 No 28).
+    Section 2(1) **warrant officer**: amended, on 1 April 1990, pursuant to [section 105(2)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 2(4): added, on 1 July 2009, by [section 4(14)][423] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 2(4): added, on 1 July 2009, by [section 4(14)][425] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 2(5): added, on 1 July 2009, by [section 4(14)][423] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 2(5): added, on 1 July 2009, by [section 4(14)][425] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 2(6): added, on 1 July 2009, by [section 4(14)][423] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 2(6): added, on 1 July 2009, by [section 4(14)][425] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 2(7): added, on 1 July 2009, by [section 4(14)][423] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 2(7): added, on 1 July 2009, by [section 4(14)][425] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 3 Special provisions relating to the interpretation, etc, of Part 2
     
-*   (1) All the provisions of [Part 3][432] of the Crimes Act 1961, so far as they are applicable and with any necessary modifications, shall apply in respect of every offence against this Act as if it were a crime within the meaning of [section 2][407] of that Act.
+*   (1) All the provisions of [Part 3][434] of the Crimes Act 1961, so far as they are applicable and with any necessary modifications, shall apply in respect of every offence against this Act as if it were a crime within the meaning of [section 2][408] of that Act.
     
-    (1A) The following provisions of the [Sentencing Act 2002][433] apply to proceedings under this Act and to proceedings on appeal from any decision under this Act:
+    (1A) The following provisions of the [Sentencing Act 2002][435] apply to proceedings under this Act and to proceedings on appeal from any decision under this Act:
         
-    *   (a) [section 6][434] (which provides that penal enactments are not to have retrospective effect to the disadvantage of an offender):
+    *   (a) [section 6][436] (which provides that penal enactments are not to have retrospective effect to the disadvantage of an offender):
     
-    *   (b) [sections 102 to 104][435] (which relate to the sentencing of offenders convicted of murder).
+    *   (b) [sections 102 to 104][437] (which relate to the sentencing of offenders convicted of murder).
     
     (2) Where an accused charged with an offence against this Act relies for his defence on any excuse, exception, exemption, or qualification contained in the provision creating the offence, whether or not the excuse, exception, exemption, or qualification accompanies the description of the offence charged, the accused shall, in order to establish the defence, prove the excuse, exception, exemption, or qualification on a balance of probabilities; and this subsection shall apply notwithstanding that the charge contains an allegation negativing the excuse, exception, exemption, or qualification.
     
-    Section 3(1A): substituted, on 1 July 2009, by [section 5(1)][436] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 3(1A): substituted, on 1 July 2009, by [section 5(1)][438] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 4 Extraterritorial operation of this Act
     
@@ -1413,9 +1417,9 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     Section 5(1)(c): added, on 1 January 1986, by section 4 of the Armed Forces Discipline Amendment Act 1985 (1985 No 199).
     
-    Section 5(2): substituted, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 5(2): substituted, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 5(4): substituted, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 5(4): substituted, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
 
 ## Part 1  
 Jurisdiction
@@ -1440,7 +1444,7 @@ Jurisdiction
         
         *   (v) absent on leave or without leave from any naval ship, aircraft, vehicle, or establishment, or from any work being performed by them for the Navy; or
         
-        *   (vi) declared liable for continuous service pursuant to a Proclamation issued under [section 39][437] or [section 40][438] of the Defence Act 1990; or
+        *   (vi) declared liable for continuous service pursuant to a Proclamation issued under [section 39][439] or [section 40][440] of the Defence Act 1990; or
         
         *   (vii) called out under any enactment in aid of the civil power; or
         
@@ -1472,7 +1476,7 @@ Jurisdiction
         
         *   (v) absent on leave or without leave from any army camp, unit, ship, aircraft, or vehicle, or from any work being performed by them for the Army; or
         
-        *   (vi) declared liable for continuous service pursuant to a Proclamation issued under [section 39][437] or [section 40][438] of the Defence Act 1990; or
+        *   (vi) declared liable for continuous service pursuant to a Proclamation issued under [section 39][439] or [section 40][440] of the Defence Act 1990; or
         
         *   (vii) called out under any enactment in aid of the civil power; or
         
@@ -1504,7 +1508,7 @@ Jurisdiction
         
         *   (v) absent on leave or without leave from any Air Force base, unit, ship, aircraft, or vehicle, or from any work being performed by them for the Air Force; or
         
-        *   (vi) declared liable for continuous service pursuant to a Proclamation issued under [section 39][437] or [section 40][438] of the Defence Act 1990; or
+        *   (vi) declared liable for continuous service pursuant to a Proclamation issued under [section 39][439] or [section 40][440] of the Defence Act 1990; or
         
         *   (vii) called out under any enactment in aid of the civil power; or
         
@@ -1520,29 +1524,29 @@ Jurisdiction
     
     Compare: 1950 No 39 ss 2, 3; 1950 No 40 ss 2, 3; 1954 No 53 ss 31, 32; Army Act 1955 ss 205, 211 (UK); Air Force Act 1955 ss 205, 211 (UK); Naval Discipline Act 1957 s 111 (UK)
     
-    Section 6(1)(a): amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 6(1)(a): amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
     
-    Section 6(1)(c)(vi): amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 6(1)(c)(vi): amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
     
-    Section 6(1)(d): amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 6(1)(d): amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
     
-    Section 6(2)(a): amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 6(2)(a): amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
     
-    Section 6(2)(c)(vi): amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 6(2)(c)(vi): amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
     
-    Section 6(2)(d): amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 6(2)(d): amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
     
-    Section 6(3)(a): amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 6(3)(a): amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
     
-    Section 6(3)(c)(vi): amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 6(3)(c)(vi): amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
     
-    Section 6(3)(d): amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 6(3)(d): amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
 
 ##### 7 Provisions of Act may be modified, etc, in relation to certain classes of persons
     
 *   \[Repealed\]
     
-    Section 7: repealed, on 1 July 2009, by [section 6][439] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 7: repealed, on 1 July 2009, by [section 6][441] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 8 Members of the Armed Forces attached to forces of another country remain subject to this Act
     
@@ -1550,13 +1554,13 @@ Jurisdiction
     
     Compare: Naval Discipline Act 1957 s 121 (UK)
     
-    Section 8 heading: amended, on 1 April 1990, pursuant to [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 8 heading: amended, on 1 April 1990, pursuant to [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 8: amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 8: amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
 
 ##### 9 Members of other forces attached to Armed Forces under section 23A of Defence Act 1990
     
-*   (1) A member of the armed forces of another State who is attached to the Armed Forces of New Zealand under [section 23A][440] of the Defence Act 1990 is, subject to any express provision in the law of that other State to the contrary, subject to this Act.
+*   (1) A member of the armed forces of another State who is attached to the Armed Forces of New Zealand under [section 23A][442] of the Defence Act 1990 is, subject to any express provision in the law of that other State to the contrary, subject to this Act.
     
     (2) However, the Governor-General may, by Order in Council,---
         
@@ -1564,9 +1568,9 @@ Jurisdiction
     
     *   (b) modify any of the provisions of this Act so far as they relate to all or any class of the persons specified in subsection (1).
     
-    Section 9: substituted, on 1 July 2004, by [section 26][430] of the Visiting Forces Act 2004 (2004 No 59).
+    Section 9: substituted, on 1 July 2004, by [section 26][432] of the Visiting Forces Act 2004 (2004 No 59).
     
-    Section 9(2): added, on 1 July 2009, by [section 7][441] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 9(2): added, on 1 July 2009, by [section 7][443] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 10 Volunteers
     
@@ -1580,9 +1584,9 @@ Jurisdiction
     
     Compare: Naval Discipline Act 1957 s 111(5) (UK)
     
-    Section 10(1): amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 10(1): amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
     
-    Section 10(2): amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 10(2): amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
 
 ##### 11 Trainees
     
@@ -1596,13 +1600,13 @@ Jurisdiction
     
     Compare: Naval Discipline Act 1957 s 111(6) (UK)
     
-    Section 11(1): amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 11(1): amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
     
-    Section 11(2): amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 11(2): amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
 
 ##### 12 Prisoners of war
     
-*   (1) Subject to the provisions of the [Geneva Conventions Act 1958][442] and of subsection (2), a prisoner of war in the custody of any part of the Armed Forces shall be subject to this Act.
+*   (1) Subject to the provisions of the [Geneva Conventions Act 1958][444] and of subsection (2), a prisoner of war in the custody of any part of the Armed Forces shall be subject to this Act.
     
     (2) The following sections of this Act do not apply to prisoners of war:
         
@@ -1634,11 +1638,11 @@ Jurisdiction
     
     Section 13: substituted, on 1 January 1986, by section 6 of the Armed Forces Discipline Amendment Act 1985 (1985 No 199).
     
-    Section 13(a): substituted, on 1 July 2009, by [section 8][443] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 13(a): substituted, on 1 July 2009, by [section 8][445] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 13(b): substituted, on 1 July 2009, by [section 8][443] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 13(b): substituted, on 1 July 2009, by [section 8][445] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 13(ba): inserted, on 1 July 2009, by [section 8][443] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 13(ba): inserted, on 1 July 2009, by [section 8][445] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 14 Commanding officer in relation to prisoners of war and spies
     
@@ -1720,7 +1724,7 @@ Jurisdiction
     
     Section 16(4)(c): amended, on 1 December 1983, by section 4 of the Armed Forces Discipline Amendment Act 1981 (1981 No 48).
     
-    Section 16(6): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 16(6): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
     Section 16(7)(a): repealed, on 27 May 1988, by section 3 of the Armed Forces Discipline Amendment Act 1988 (1988 No 89).
     
@@ -1730,15 +1734,15 @@ Jurisdiction
     
     Section 16(7)(d): amended, on 1 January 1986, by section 7(a) of the Armed Forces Discipline Amendment Act 1985 (1985 No 199).
     
-    Section 16(7)(d) proviso: amended, on 1 July 2009, by [section 9(1)][444] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 16(7)(d) proviso: amended, on 1 July 2009, by [section 9(1)][446] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
     Section 16(7)(d) proviso: amended, on 1 January 1986, by section 7(b) of the Armed Forces Discipline Amendment Act 1985 (1985 No 199).
     
     Section 16(7)(d) proviso: amended, on 1 December 1983, by section 3 of the Armed Forces Discipline Amendment Act 1981 (1981 No 48).
     
-    Section 16(7)(e): substituted, on 1 July 2009, by [section 9(2)][444] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 16(7)(e): substituted, on 1 July 2009, by [section 9(2)][446] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 16(7)(f): substituted, on 1 July 2009, by [section 9(2)][444] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 16(7)(f): substituted, on 1 July 2009, by [section 9(2)][446] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 17 Certain persons sentenced under this Act to remain subject to this Act
     
@@ -1754,15 +1758,15 @@ Jurisdiction
     
     Compare: 1950 No 39 s 127(2); 1950 No 40 s 127(2); Army Act 1955 s 131 (UK); Air Force Act 1955 s 131 (UK); Naval Discipline Act 1957 s 119 (UK)
     
-    Section 17(1): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 17(1): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
     Section 17(1): amended, on 1 January 1986, by section 8 of the Armed Forces Discipline Amendment Act 1985 (1985 No 199).
     
-    Section 17(1)(a): substituted, on 1 July 2009, by [section 10(1)][445] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 17(1)(a): substituted, on 1 July 2009, by [section 10(1)][447] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 17(2): amended, on 1 July 2009, by [section 10(2)][445] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 17(2): amended, on 1 July 2009, by [section 10(2)][447] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 17(2): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 17(2): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
 
 ##### 18 Trial and punishment of person who has ceased to be subject to this Act
     
@@ -1784,11 +1788,11 @@ Jurisdiction
     
     Compare: 1950 No 39 s 127(1); 1950 No 40 s 127(1); Army Act 1955 s 131 (UK); Air Force Act 1955 s 131 (UK); Naval Discipline Act 1957 s 51 (UK)
     
-    Section 18(1): amended, on 1 July 2009, by [section 11][446] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 18(1): amended, on 1 July 2009, by [section 11][448] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 18(3)(b): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 18(3)(b): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 18(4): amended, on 1 July 2009, by [section 11][446] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 18(4): amended, on 1 July 2009, by [section 11][448] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 19 Status and rank of person deemed to be subject to this Act when imprisoned or detained
     
@@ -1804,11 +1808,11 @@ Jurisdiction
     
     Compare: Army Act 1955 s 131 (UK); Air Force Act 1955 s 131 (UK); Naval Discipline Act 1957 s 119 (UK)
     
-    Section 19(a): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 19(a): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 19(b): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 19(b): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 19(c): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 19(c): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
 
 ##### 20 Limitation of time within which charges may be dealt with summarily or tried under this Act
     
@@ -1888,27 +1892,27 @@ Jurisdiction
     
     Compare: 1950 No 39 s 129; 1950 No 40 s 129; Army Act 1955 s 132 (UK); Air Force Act 1955 s 132 (UK); Naval Discipline Act 1957 s 52 (UK)
     
-    Section 20(1): substituted, on 1 July 2009, by [section 12(1)][447] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 20(1): substituted, on 1 July 2009, by [section 12(1)][449] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 20(1A): inserted, on 1 July 2009, by [section 12(1)][447] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 20(1A): inserted, on 1 July 2009, by [section 12(1)][449] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 20(2): amended, on 1 July 2009, by [section 12(2)][447] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 20(2): amended, on 1 July 2009, by [section 12(2)][449] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 20(3)(b): amended, on 1 July 2013, by [section 413][426] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 20(3)(b): amended, on 1 July 2013, by [section 413][428] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 20(4): amended, on 1 July 2009, by [section 12(3)][447] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 20(4): amended, on 1 July 2009, by [section 12(3)][449] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 20(4)(a): substituted, on 1 July 2009, by [section 12(4)][447] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 20(4)(a): substituted, on 1 July 2009, by [section 12(4)][449] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 20(5): amended, on 1 July 2009, by [section 12(5)][447] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 20(5): amended, on 1 July 2009, by [section 12(5)][449] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 20(5): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 20(5): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
     Section 20(5): amended, on 1 December 1983, by section 3 of the Armed Forces Discipline Amendment Act 1981 (1981 No 48).
     
-    Section 20(5)(a): substituted, on 1 July 2009, by [section 12(6)][447] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 20(5)(a): substituted, on 1 July 2009, by [section 12(6)][449] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 20(6): amended, on 1 July 2009, by [section 12(3)][447] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 20(6): amended, on 1 July 2009, by [section 12(3)][449] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 21 Person may not be tried under this Act and under the civil law in respect of same act or omission
     
@@ -1956,19 +1960,19 @@ Jurisdiction
     
     Section 21(1): amended, on 1 January 1986, by section 9(1) of the Armed Forces Discipline Amendment Act 1985 (1985 No 199).
     
-    Section 21(1)(a): amended, on 1 July 2009, by [section 13(1)][448] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 21(1)(a): amended, on 1 July 2009, by [section 13(1)][450] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 21(1)(b): amended, on 1 July 2009, by [section 13(2)][448] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 21(1)(b): amended, on 1 July 2009, by [section 13(2)][450] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
     Section 21(1)(b): amended, on 1 December 1983, by section 5(1) of the Armed Forces Discipline Amendment Act 1981 (1981 No 48).
     
-    Section 21(1)(c): amended, on 1 July 2009, by [section 13(1)][448] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 21(1)(c): amended, on 1 July 2009, by [section 13(1)][450] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 21(3): substituted, on 1 July 2009, by [section 13(3)][448] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 21(3): substituted, on 1 July 2009, by [section 13(3)][450] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 21(4): substituted, on 1 July 2009, by [section 13(3)][448] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 21(4): substituted, on 1 July 2009, by [section 13(3)][450] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 21(5): added, on 1 July 2009, by [section 13(3)][448] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 21(5): added, on 1 July 2009, by [section 13(3)][450] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 22 Persons cannot be tried under this Act for offences already disposed of
     
@@ -1992,7 +1996,7 @@ Jurisdiction
     
     *   (b) a person must not be regarded as having had another offence taken into consideration if the sentence passed on him or her is subsequently quashed, or if the decision to take the offence into consideration has been annulled, by an appellate court.
     
-    Section 22: substituted, on 1 July 2009, by [section 14][449] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 22: substituted, on 1 July 2009, by [section 14][451] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ## Part 2  
 Offences
@@ -2049,7 +2053,7 @@ Offences
     
     Compare: 1950 No 39 ss 24(a), (d)--(i), 25(g); 1950 No 40 ss 24(a), (d)--(i), 25(g); Army Act 1955 s 24 (UK); Air Force Act 1955 s 24 (UK); Naval Discipline Act 1957 ss 2(b)--(e), 3, 5(c) (UK)
     
-    Section 23(1): amended, on 26 December 1989, by [section 5(2)][450] of the Abolition of the Death Penalty Act 1989 (1989 No 119).
+    Section 23(1): amended, on 26 December 1989, by [section 5(2)][452] of the Abolition of the Death Penalty Act 1989 (1989 No 119).
 
 ##### 24 Communication with the enemy
     
@@ -2069,11 +2073,11 @@ Offences
     
     Compare: 1950 No 39 ss 24(c), 25(d); 1950 No 40 ss 24(c), 25(d); Army Act 1955 s 25 (UK); Air Force Act 1955 s 25 (UK); Naval Discipline Act 1957 s 5(a), (b) (UK)
     
-    Section 24(1): amended, on 26 December 1989, by [section 5(3)][450] of the Abolition of the Death Penalty Act 1989 (1989 No 119).
+    Section 24(1): amended, on 26 December 1989, by [section 5(3)][452] of the Abolition of the Death Penalty Act 1989 (1989 No 119).
 
 ##### 25 Unauthorised disclosure of information
     
-*   Every person subject to this Act commits an offence, and is liable to imprisonment for a term not exceeding 2 years, who knowingly, and with knowledge that he is acting without proper authority, communicates to any other person any official information (as defined in [section 78A][451] of the Crimes Act 1961), not being official information that is publicly available, or delivers to any other person any object (as defined in that provision of that Act), knowing that the communication of that information or the delivery of that object is likely---
+*   Every person subject to this Act commits an offence, and is liable to imprisonment for a term not exceeding 2 years, who knowingly, and with knowledge that he is acting without proper authority, communicates to any other person any official information (as defined in [section 78A][453] of the Crimes Act 1961), not being official information that is publicly available, or delivers to any other person any object (as defined in that provision of that Act), knowing that the communication of that information or the delivery of that object is likely---
         
     *   (a) to prejudice the security or defence of New Zealand; or
     
@@ -2103,7 +2107,7 @@ Offences
     
     Compare: 1950 No 39 s 27(b); 1950 No 40 s 27(b); Naval Discipline Act 1957 ss 3, 6, 94 (UK)
     
-    Section 27: amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 27: amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
     Section 27: amended, on 1 January 1986, by section 13 of the Armed Forces Discipline Amendment Act 1985 (1985 No 199).
 
@@ -2175,7 +2179,7 @@ Offences
     
 *   Every person subject to this Act commits an offence, and is liable to imprisonment for life, who takes part in any mutiny.
     
-    Section 32: substituted, on 26 December 1989, by [section 5(5)][450] of the Abolition of the Death Penalty Act 1989 (1989 No 119).
+    Section 32: substituted, on 26 December 1989, by [section 5(5)][452] of the Abolition of the Death Penalty Act 1989 (1989 No 119).
 
 ##### 33 Failure to suppress or report mutiny
     
@@ -2291,7 +2295,7 @@ Offences
     
     Compare: 1950 No 39 s 31; 1950 No 40 s 31; Army Act 1955 s 36 (UK); Air Force Act 1955 s 36 (UK); Naval Discipline Act 1957 s 7 (UK)
     
-    Section 39(a): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 39(a): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
 
 ##### 40 Failure to comply with directions given by the captain of a ship or aircraft
     
@@ -2305,7 +2309,7 @@ Offences
     
     Compare: 1950 No 39 s 59(3); 1950 No 40 s 59(3)
     
-    Section 40: amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 40: amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
 
 ##### 41 Ill-treatment of person of lower rank
     
@@ -2369,9 +2373,9 @@ Offences
     
     Compare: 1950 No 39 s 30; 1950 No 40 s 30; Army Act 1955 s 55 (UK); Air Force Act 1955 s 55 (UK)
     
-    Section 44(1): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 44(1): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 44(2): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 44(2): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
 
 ##### 45 Escape from custody
     
@@ -2387,7 +2391,7 @@ Offences
     
     *   (b) fails without reasonable excuse to attend personally at any time and place to which, during the course of the proceedings, the hearing has been adjourned
     
-    Section 45A: inserted, on 1 July 2009, by [section 15][452] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 45A: inserted, on 1 July 2009, by [section 15][454] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 46 Permitting the escape of prisoners
     
@@ -2409,9 +2413,9 @@ Offences
     
     Compare: 1950 No 39 s 41; 1950 No 40 s 41; Army Act 1955 s 54 (UK); Air Force Act 1955 s 54 (UK); Naval Discipline Act 1957 s 17(1) (UK)
     
-    Section 46(2)(c): amended, on 1 June 2005, by [section 206][431] of the Corrections Act 2004 (2004 No 50).
+    Section 46(2)(c): amended, on 1 June 2005, by [section 206][433] of the Corrections Act 2004 (2004 No 50).
     
-    Section 46(2)(c)(i): amended, on 1 June 2005, by [section 206][431] of the Corrections Act 2004 (2004 No 50).
+    Section 46(2)(c)(i): amended, on 1 June 2005, by [section 206][433] of the Corrections Act 2004 (2004 No 50).
 
 #### Desertion, absence, and malingering
 
@@ -2471,7 +2475,9 @@ Offences
     
     Compare: 1950 No 39 s 38(a)--(c); 1950 No 40 s 38(a)--(c); Army Act 1955 s 42 (UK); Air Force Act 1955 s 42 (UK); Naval Discipline Act 1957 s 27 (UK)
 
-#### Offences involving alcoholic liquor and drugs
+#### Offences involving alcohol and drugs
+    
+*   Heading: amended, on 18 December 2013, by [section 417(1)][424] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
 
 ##### 51 Drunkenness and being under the influence of drugs
     
@@ -2485,17 +2491,23 @@ Offences
     
     Compare: 1950 No 39 s 39; 1950 No 40 s 39; Army Act 1955 s 43 (UK); Air Force Act 1955 s 43 (UK); Naval Discipline Act 1957 s 28 (UK)
 
-##### 52 Being in possession of alcoholic liquor in a ship, establishment, camp, or base
+##### 52 Being in possession of alcohol in a ship, establishment, camp, or base
     
-*   (1) Every person subject to this Act commits an offence, and is liable to imprisonment for a term not exceeding 6 months, who, knowingly and without authority, is in possession of alcoholic liquor within the bounds of any naval ship or defence area, or any other place where members of the Armed Forces are quartered, stationed, or serving, or are undergoing exercises or training.
+*   (1) Every person subject to this Act commits an offence, and is liable to imprisonment for a term not exceeding 6 months, who, knowingly and without authority, is in possession of alcohol within the bounds of any naval ship or defence area, or any other place where members of the Armed Forces are quartered, stationed, or serving, or are undergoing exercises or training.
     
-    (2) Where any person is convicted of an offence under subsection (1), the liquor in respect of which the offence was committed, together with the receptacles containing it, shall be forfeited to the Crown, and may be disposed of by public auction or private contract as the Chief of Defence Force directs, and the proceeds of the sale shall be paid into an appropriate bank account in accordance with the [Public Finance Act 1989][453].
+    (2) Where any person is convicted of an offence under subsection (1), the alcohol in respect of which the offence was committed, together with the receptacles containing it, shall be forfeited to the Crown, and may be disposed of by public auction or private contract as the Chief of Defence Force directs, and the proceeds of the sale shall be paid into an appropriate bank account in accordance with the [Public Finance Act 1989][455].
     
     Compare: 1950 No 39 s 40; 1950 No 40 s 40
     
-    Section 52(1): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 52(1) heading: amended, on 18 December 2013, by [section 417(1)][424] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
     
-    Section 52(2): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 52(1): amended, on 18 December 2013, by [section 417(1)][424] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
+    
+    Section 52(1): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
+    
+    Section 52(2): amended, on 18 December 2013, by [section 417(1)][424] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
+    
+    Section 52(2): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
 
 #### False statements, documents, and corruption
 
@@ -2593,11 +2605,11 @@ Offences
     
     knowing the property to have been stolen or fraudulently misapplied.
     
-    (2) The provisions of [section 246(2) to (5)][454] of the Crimes Act 1961, with all necessary modifications, shall apply in respect of the receiving by any person subject to this Act of any property to which this section relates.
+    (2) The provisions of [section 246(2) to (5)][456] of the Crimes Act 1961, with all necessary modifications, shall apply in respect of the receiving by any person subject to this Act of any property to which this section relates.
     
     Compare: 1950 No 39 s 38(e); 1950 No 46 s 38(e); Army Act 1955 ss 44(1)(b), 45(b) (UK); Air Force Act 1955 ss 44(1)(b), 45(b) (UK); Naval Discipline Act 1957 s 29(b) (UK)
     
-    Section 58(2): amended, on 1 October 2003, by [section 34][427] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 58(2): amended, on 1 October 2003, by [section 34][429] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 59 Unlawful possession of service property or property of comrade
     
@@ -2623,9 +2635,9 @@ Offences
     
     Compare: 1950 No 39 s 60(1)(a); 1950 No 40 s 60(1)(a)
     
-    Section 60(1): amended, on 1 October 2003, by [section 34][427] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 60(1): amended, on 1 October 2003, by [section 34][429] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 60(2): amended, on 1 October 2003, by [section 34][427] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 60(2): amended, on 1 October 2003, by [section 34][429] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 61 Destruction of or damage to service property or property of comrade
     
@@ -2665,7 +2677,7 @@ Offences
     
     Compare: 1950 No 39 s 45(c); 1950 No 40 s 45(c); Army Act 1955 s 46(g) (UK); Air Force Act 1955 s 46(g) (UK); Naval Discipline Act 1957 s 31(1)(b) (UK)
     
-    Section 63(1): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 63(1): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
 
 #### Offences involving ships, aircraft, vehicles, etc
 
@@ -2751,9 +2763,9 @@ Offences
     
     Compare: 1950 No 39 s 42; 1950 No 40 s 42; Army Act 1955 s 53 (UK); Air Force Act 1955 s 53 (UK); Naval Discipline Act 1957 s 46(1) (UK)
     
-    Section 69(1)(b): substituted, on 1 July 2009, by [section 16(1)][455] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 69(1)(b): substituted, on 1 July 2009, by [section 16(1)][457] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 69(2A): inserted, on 1 July 2009, by [section 16(2)][455] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 69(2A): inserted, on 1 July 2009, by [section 16(2)][457] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 70 Offences relating to proceedings of military tribunal or court of inquiry
     
@@ -2799,7 +2811,7 @@ Offences
     
     *   (b) in the case of any other person subject to this Act, to a fine not exceeding $1,000\.
     
-    Section 70: substituted, on 1 July 2009, by [section 17][456] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 70: substituted, on 1 July 2009, by [section 17][458] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 71 False evidence
     
@@ -2809,7 +2821,7 @@ Offences
     
     Compare: 1950 No 39 s 51; 1950 No 40 s 51; Army Act 1955 s 58 (UK); Air Force Act 1955 s 58 (UK)
     
-    Section 71(1): amended, on 1 July 2009, by [section 18][457] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 71(1): amended, on 1 July 2009, by [section 18][459] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### Miscellaneous offences
 
@@ -2827,11 +2839,11 @@ Offences
     
     Compare: 1950 No 39 s 38(d); 1950 No 40 s 38(d)
     
-    Section 72(1): amended, on 18 September 2004, by [section 175(1)][429] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 72(1): amended, on 18 September 2004, by [section 175(1)][431] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 72(1)(a): amended, on 18 September 2004, by [section 175(1)][429] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 72(1)(a): amended, on 18 September 2004, by [section 175(1)][431] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 72(2): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 72(2): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
 
 ##### 73 Conduct prejudicial to service discipline
     
@@ -2861,13 +2873,13 @@ Offences
     
     Compare: 1950 No 39 s 61; 1950 No 40 s 61; Army Act 1955 s 69 (UK); Air Force Act 1955 s 69 (UK); Naval Discipline Act 1957 s 39 (UK)
     
-    Section 73(1)(b): amended, on 1 July 2009, by [section 19(1)][458] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 73(1)(b): amended, on 1 July 2009, by [section 19(1)][460] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 73(1)(c): added, on 1 July 2009, by [section 19(1)][458] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 73(1)(c): added, on 1 July 2009, by [section 19(1)][460] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 73(1)(d): added, on 1 July 2009, by [section 19(1)][458] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 73(1)(d): added, on 1 July 2009, by [section 19(1)][460] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 73(3): substituted, on 1 July 2009, by [section 19(2)][458] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 73(3): substituted, on 1 July 2009, by [section 19(2)][460] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 74 Offences against the civil law of New Zealand
     
@@ -2887,7 +2899,7 @@ Offences
         
         
     
-    (2A) Notwithstanding anything in subsection (2), no person who is convicted of an offence against this section shall be liable to any punishment of a kind that is not specified in [clause 1][459] of Schedule 2, or [clause 1][460] of Schedule 3\.
+    (2A) Notwithstanding anything in subsection (2), no person who is convicted of an offence against this section shall be liable to any punishment of a kind that is not specified in [clause 1][461] of Schedule 2, or [clause 1][462] of Schedule 3\.
     
     (3) Where a person is charged with an offence against this section and the corresponding civil offence is one in respect of which, if he were tried for the civil offence before a civil court in New Zealand, that court could convict him of a civil offence other than the one charged, he may nevertheless be convicted of an offence against this section in respect of that other civil offence, and may be sentenced to the punishment prescribed in respect of that other civil offence in accordance with the provisions of subsection (2).
     
@@ -2901,7 +2913,7 @@ Offences
     
     Section 74(2A): inserted, on 1 January 1986, by section 18 of the Armed Forces Discipline Amendment Act 1985 (1985 No 199).
     
-    Section 74(4): amended, on 1 July 2009, by [section 20][461] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 74(4): amended, on 1 July 2009, by [section 20][463] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
     Section 74(4): amended, on 27 May 1988, by section 4 of the Armed Forces Discipline Amendment Act 1988 (1988 No 89).
 
@@ -2935,7 +2947,7 @@ Offences
     
     Compare: Naval Discipline Act 1957 s 41 (UK)
     
-    Section 75(7): substituted, on 26 April 2005, by [section 7][462] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 75(7): substituted, on 26 April 2005, by [section 7][464] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 76 Attempts to commit offences against this Act
     
@@ -2949,7 +2961,7 @@ Offences
     
     Compare: Naval Discipline Act 1957 s 40 (UK)
     
-    Section 76(4): substituted, on 26 December 1989, by [section 5(6)][450] of the Abolition of the Death Penalty Act 1989 (1989 No 119).
+    Section 76(4): substituted, on 26 December 1989, by [section 5(6)][452] of the Abolition of the Death Penalty Act 1989 (1989 No 119).
 
 ##### 77 Accessories after the fact
     
@@ -2963,14 +2975,14 @@ Offences
     
     (3) No person subject to this Act who is married or in a civil union and whose spouse or civil union partner has been a party to an offence becomes an accessory after the fact to that offence by doing any act to which this section applies in order to enable the spouse or civil union partner (or the spouse, civil union partner, and any other person who has been a party to the offence) to escape after arrest or to avoid arrest or conviction.
     
-    Section 77(1)(a): amended, on 26 December 1989, by [section 5(7)][450] of the Abolition of the Death Penalty Act 1989 (1989 No 119).
+    Section 77(1)(a): amended, on 26 December 1989, by [section 5(7)][452] of the Abolition of the Death Penalty Act 1989 (1989 No 119).
     
-    Section 77(3): substituted, on 26 April 2005, by [section 7][462] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 77(3): substituted, on 26 April 2005, by [section 7][464] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ## Part 3  
 Jurisdiction of Court Martial and punishment of offenders
     
-*   Part 3 heading: amended, on 1 July 2009, by [section 21][463] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Part 3 heading: amended, on 1 July 2009, by [section 21][465] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 78 Jurisdiction of Court Martial
     
@@ -2978,9 +2990,9 @@ Jurisdiction of Court Martial and punishment of offenders
     
     Compare: Army Act 1955 s 85(1) (UK); Air Force Act 1955 s 85(1) (UK); Naval Discipline Act 1957 s 48(1) (UK)
     
-    Section 78 heading: amended, on 1 July 2009, by [section 22(1)][464] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 78 heading: amended, on 1 July 2009, by [section 22(1)][466] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 78: amended, on 1 July 2009, by [section 22(2)][464] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 78: amended, on 1 July 2009, by [section 22(2)][466] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 79 Court Martial to pass 1 sentence only
     
@@ -2990,11 +3002,11 @@ Jurisdiction of Court Martial and punishment of offenders
     
     Compare: SR 1951/255 r 92; SR 1951/256 r 92
     
-    Section 79 heading: amended, on 1 July 2009, by [section 23(1)][465] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 79 heading: amended, on 1 July 2009, by [section 23(1)][467] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 79: amended, on 1 July 2009, by [section 23(2)][465] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 79: amended, on 1 July 2009, by [section 23(2)][467] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 79: amended, on 1 July 2009, by [section 23(3)][465] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 79: amended, on 1 July 2009, by [section 23(3)][467] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 80 Discretion of Court Martial as to punishment
     
@@ -3006,23 +3018,23 @@ Jurisdiction of Court Martial and punishment of offenders
     
     Compare: 1950 No 39 s 64(3); 1950 No 40 s 64(3); Naval Discipline Act 1957 s 43 (UK)
     
-    Section 80 heading: amended, on 1 July 2009, by [section 24(1)][466] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 80 heading: amended, on 1 July 2009, by [section 24(1)][468] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 80(1): amended, on 1 July 2009, by [section 24(2)][466] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 80(1): amended, on 1 July 2009, by [section 24(2)][468] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 80(1): amended, on 1 July 2009, by [section 24(3)][466] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 80(1): amended, on 1 July 2009, by [section 24(3)][468] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 80(2): repealed, on 26 December 1989, by [section 5(1)][450] of the Abolition of the Death Penalty Act 1989 (1989 No 119).
+    Section 80(2): repealed, on 26 December 1989, by [section 5(1)][452] of the Abolition of the Death Penalty Act 1989 (1989 No 119).
     
     Section 80(3): substituted, on 1 December 1983, by section 3(1) of the Armed Forces Discipline Amendment Act 1980 (1980 No 37).
     
-    Section 80(3): amended, on 1 July 2009, by [section 24(4)][466] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 80(3): amended, on 1 July 2009, by [section 24(4)][468] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 81 Consent of Governor-General required before sentence of death can be carried out
     
 *   \[Repealed\]
     
-    Section 81: repealed, on 26 December 1989, by [section 5(1)][450] of the Abolition of the Death Penalty Act 1989 (1989 No 119).
+    Section 81: repealed, on 26 December 1989, by [section 5(1)][452] of the Abolition of the Death Penalty Act 1989 (1989 No 119).
 
 ##### 81A Effect of period spent in custody before being sentenced
     
@@ -3034,15 +3046,15 @@ Jurisdiction of Court Martial and punishment of offenders
     
     Section 81A: inserted, on 27 May 1988, by section 5 of the Armed Forces Discipline Amendment Act 1988 (1988 No 89).
     
-    Section 81A heading: amended, on 27 September 2001, by [section 3(1)][467] of the Armed Forces Discipline Amendment Act 2001 (2001 No 55).
+    Section 81A heading: amended, on 27 September 2001, by [section 3(1)][469] of the Armed Forces Discipline Amendment Act 2001 (2001 No 55).
     
-    Section 81A(1): amended, on 1 July 2009, by [section 25(1)][468] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 81A(1): amended, on 1 July 2009, by [section 25(1)][470] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 81A(1): amended, on 27 September 2001, by [section 3(2)][467] of the Armed Forces Discipline Amendment Act 2001 (2001 No 55).
+    Section 81A(1): amended, on 27 September 2001, by [section 3(2)][469] of the Armed Forces Discipline Amendment Act 2001 (2001 No 55).
     
-    Section 81A(2): amended, on 1 July 2009, by [section 25(2)][468] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 81A(2): amended, on 1 July 2009, by [section 25(2)][470] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 81A(2): amended, on 27 September 2001, by [section 3(3)][467] of the Armed Forces Discipline Amendment Act 2001 (2001 No 55).
+    Section 81A(2): amended, on 27 September 2001, by [section 3(3)][469] of the Armed Forces Discipline Amendment Act 2001 (2001 No 55).
 
 ##### 82 Dismissal from service and reduction in rank
     
@@ -3058,17 +3070,17 @@ Jurisdiction of Court Martial and punishment of offenders
     
     Compare: 1950 No 39 ss 64(7), (8), 141(2); 1950 No 40 ss 64(7), (8), 141(2); Army Act 1955 ss 71(7), 72(5), (6) (UK); Air Force Act 1955 ss 71(7), 72(5), (6) (UK); Naval Discipline Act 1957 ss 7, 44(1)--(4) (UK)
     
-    Section 82(1): amended, on 1 July 2009, by [section 26(1)][469] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 82(1): amended, on 1 July 2009, by [section 26(1)][471] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 82(2): amended, on 1 July 2009, by [section 26(1)][469] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 82(2): amended, on 1 July 2009, by [section 26(1)][471] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
     Section 82(3): substituted, on 1 January 1986, by section 19(1) of the Armed Forces Discipline Amendment Act 1985 (1985 No 199).
     
-    Section 82(3): amended, on 1 July 2009, by [section 26(1)][469] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 82(3): amended, on 1 July 2009, by [section 26(1)][471] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 82(4): repealed, on 1 July 2009, by [section 26(2)][469] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 82(4): repealed, on 1 July 2009, by [section 26(2)][471] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 82(5): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 82(5): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
     Section 82(5): amended, on 1 January 1986, by section 19(2) of the Armed Forces Discipline Amendment Act 1985 (1985 No 199).
 
@@ -3078,7 +3090,7 @@ Jurisdiction of Court Martial and punishment of offenders
     
     Compare: Naval Discipline Act 1957 s 44(4) (UK)
     
-    Section 83: amended, on 1 July 2009, by [section 27][470] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 83: amended, on 1 July 2009, by [section 27][472] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 84 Reduction in rank and forfeiture and stay of seniority of service
     
@@ -3090,15 +3102,15 @@ Jurisdiction of Court Martial and punishment of offenders
     
     Compare: 1950 No 39 s 64(1)(e), (f), (2)(e), (f), (11); 1950 No 40 s 64(1)(e), (f), (2)(e), (f), (11); Naval Discipline Act 1957 s 44(7) (UK)
     
-    Section 84(1): amended, on 1 July 2009, by [section 28(1)][471] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 84(1): amended, on 1 July 2009, by [section 28(1)][473] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 84(1): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 84(1): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 84(2): amended, on 1 July 2009, by [section 28(1)][471] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 84(2): amended, on 1 July 2009, by [section 28(1)][473] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 84(2): amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 84(2): amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
     
-    Section 84(3): added, on 1 July 2009, by [section 28(2)][471] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 84(3): added, on 1 July 2009, by [section 28(2)][473] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 85 Punishment by fine
     
@@ -3120,15 +3132,15 @@ Jurisdiction of Court Martial and punishment of offenders
     
     Compare: 1950 No 39 s 64(1)(h), (2)(h); 1950 No 40 s 64(1)(h), (2)(h); SR 1951/272 rr 66(2), 67(1)(c); SR 1968/233 rr 14(c), 15(1)(c); Naval Discipline Act 1957 s 43(1)(i) (UK)
     
-    Section 85(2)(a): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 85(2)(a): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 85(3): amended, on 1 July 2009, by [section 29(1)][472] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 85(3): amended, on 1 July 2009, by [section 29(1)][474] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 85(3)(a): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 85(3)(a): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
     Section 85(3)(b): amended, on 1 January 1986, by section 20 of the Armed Forces Discipline Amendment Act 1985 (1985 No 199).
     
-    Section 85(4): added, on 1 July 2009, by [section 29(2)][472] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 85(4): added, on 1 July 2009, by [section 29(2)][474] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 86 Compensation for loss of or damage to property
     
@@ -3138,7 +3150,7 @@ Jurisdiction of Court Martial and punishment of offenders
     
     (3) The provisions of [sections 85][103] (except subsection (3)) and [185][334] shall apply with respect to any payment ordered under this section as if it were a fine imposed for an offence.
     
-    (3A) When determining the amount of compensation to be paid, the Court Martial must take into account any offer, agreement, response, measure, or action as described in [section 10][473] of the Sentencing Act 2002\.
+    (3A) When determining the amount of compensation to be paid, the Court Martial must take into account any offer, agreement, response, measure, or action as described in [section 10][475] of the Sentencing Act 2002\.
     
     (4) Except as provided in subsection (2), the total amount of compensation awarded by the Court Martial shall not exceed---
         
@@ -3150,17 +3162,17 @@ Jurisdiction of Court Martial and punishment of offenders
     
     Compare: Naval Discipline Act 1957 s 76 (UK)
     
-    Section 86(1): amended, on 1 July 2009, by [section 30(2)][474] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 86(1): amended, on 1 July 2009, by [section 30(2)][476] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 86(1): amended, on 7 May 1999, by [section 3][475] of the Armed Forces Discipline Amendment Act 1999 (1999 No 28).
+    Section 86(1): amended, on 7 May 1999, by [section 3][477] of the Armed Forces Discipline Amendment Act 1999 (1999 No 28).
     
-    Section 86(2): amended, on 1 July 2009, by [section 30(3)][474] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 86(2): amended, on 1 July 2009, by [section 30(3)][476] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 86(3A): inserted, on 1 July 2009, by [section 30(1)][474] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 86(3A): inserted, on 1 July 2009, by [section 30(1)][476] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 86(4): amended, on 1 July 2009, by [section 30(2)][474] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 86(4): amended, on 1 July 2009, by [section 30(2)][476] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 86(4)(a): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 86(4)(a): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
     Section 86(4)(b): amended, on 1 January 1986, by section 21 of the Armed Forces Discipline Amendment Act 1985 (1985 No 199).
 
@@ -3184,27 +3196,27 @@ Jurisdiction of Court Martial and punishment of offenders
     
     Compare: 1950 No 39 s 135; 1950 No 40 s 135; Army Act 1955 s 138(1)--(8) (UK); Air Force Act 1955 s 138(1)--(8) (UK); Naval Discipline Act 1957 s 76 (UK)
     
-    Section 87(1): amended, on 1 July 2009, by [section 31(1)][476] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 87(1): amended, on 1 July 2009, by [section 31(1)][478] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 87(1): amended, on 1 July 2009, by [section 31(2)][476] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 87(1): amended, on 1 July 2009, by [section 31(2)][478] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 87(2): amended, on 1 July 2009, by [section 31(2)][476] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 87(2): amended, on 1 July 2009, by [section 31(2)][478] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 87(2): amended, on 1 July 2009, by [section 31(3)][476] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 87(2): amended, on 1 July 2009, by [section 31(3)][478] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
     Section 87(2): amended, on 1 December 1983, by section 4 of the Armed Forces Discipline Amendment Act 1980 (1980 No 37).
     
-    Section 87(3): amended, on 1 July 2009, by [section 31(2)][476] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 87(3): amended, on 1 July 2009, by [section 31(2)][478] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 87(3): amended, on 1 July 2009, by [section 31(3)][476] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 87(3): amended, on 1 July 2009, by [section 31(3)][478] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 87(4): amended, on 1 July 2009, by [section 31(2)][476] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 87(4): amended, on 1 July 2009, by [section 31(2)][478] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 87(4): amended, on 1 July 2009, by [section 31(3)][476] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 87(4): amended, on 1 July 2009, by [section 31(3)][478] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 87A Suspension of compensation and restitution orders made by Court Martial, etc
     
-*   (1) Where the Court Martial makes an order for compensation under [section 86][104], or an order for restitution under [section 87][105] (with or without compensation under subsection (3) of that section), or convicts anyone of an offence to which subsection (1) of [section 26][477] of the Sale of Goods Act 1908 applies, the operation of that order or the provisions of that subsection shall be suspended to such extent as may be prescribed in the rules of procedure pending---
+*   (1) Where the Court Martial makes an order for compensation under [section 86][104], or an order for restitution under [section 87][105] (with or without compensation under subsection (3) of that section), or convicts anyone of an offence to which subsection (1) of [section 26][479] of the Sale of Goods Act 1908 applies, the operation of that order or the provisions of that subsection shall be suspended to such extent as may be prescribed in the rules of procedure pending---
         
     *   (a) the completion of such proceedings; or
     
@@ -3216,31 +3228,31 @@ Jurisdiction of Court Martial and punishment of offenders
     
     as may be so prescribed.
     
-    (2) Without limiting [section 160][296] of this Act or [section 19][478] of the Court Martial Appeals Act 1953, where the operation of any such order or the operation of the said provisions is so suspended, the order or provisions shall not take effect if the conviction is quashed on review or appeal.
+    (2) Without limiting [section 160][296] of this Act or [section 19][480] of the Court Martial Appeals Act 1953, where the operation of any such order or the operation of the said provisions is so suspended, the order or provisions shall not take effect if the conviction is quashed on review or appeal.
     
     (3) Subsection (1), with any necessary modifications, applies to---
         
-    *   (a) a finding of guilty made by a disciplinary officer, being a finding to which [section 26(1)][477] of the Sale of Goods Act 1908 applies:
+    *   (a) a finding of guilty made by a disciplinary officer, being a finding to which [section 26(1)][479] of the Sale of Goods Act 1908 applies:
     
     *   (b) an order for compensation or restitution made by a disciplinary officer under [section 86][104] or [87][105].
     
-    (4) If the operation of an order for compensation or restitution or the operation of [section 26(1)][477] of the Sale of Goods Act 1908 is suspended by virtue of subsection (3), the order or provisions must not take effect if the finding of guilty is quashed on appeal.
+    (4) If the operation of an order for compensation or restitution or the operation of [section 26(1)][479] of the Sale of Goods Act 1908 is suspended by virtue of subsection (3), the order or provisions must not take effect if the finding of guilty is quashed on appeal.
     
-    (5) Subsection (4) does not limit [section 134][479].
+    (5) Subsection (4) does not limit [section 134][481].
     
     Section 87A: inserted, on 1 December 1983, by section 5 of the Armed Forces Discipline Amendment Act 1980 (1980 No 37).
     
-    Section 87A heading: amended, on 1 July 2009, by [section 32(1)][480] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 87A heading: amended, on 1 July 2009, by [section 32(1)][482] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 87A(1): amended, on 1 July 2009, by [section 32(2)][480] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 87A(1): amended, on 1 July 2009, by [section 32(2)][482] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 87A(2): amended, on 1 July 2009, by [section 32(3)][480] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 87A(2): amended, on 1 July 2009, by [section 32(3)][482] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 87A(3): added, on 1 July 2009, by [section 32(4)][480] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 87A(3): added, on 1 July 2009, by [section 32(4)][482] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 87A(4): added, on 1 July 2009, by [section 32(4)][480] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 87A(4): added, on 1 July 2009, by [section 32(4)][482] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 87A(5): added, on 1 July 2009, by [section 32(4)][480] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 87A(5): added, on 1 July 2009, by [section 32(4)][482] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ## Part 4  
 Arrest and search
@@ -3287,15 +3299,15 @@ Arrest and search
     
     and it shall be the duty of every member of the Armed Forces to whom any such order has been given to carry out the order forthwith.
     
-    (4) A member of a force of another State that is for the time being declared to be serving together with a New Zealand force under [section 23B][408] of the Defence Act 1990 has over members of the New Zealand force the powers of arrest of a member of the Armed Forces of a relative rank.
+    (4) A member of a force of another State that is for the time being declared to be serving together with a New Zealand force under [section 23B][409] of the Defence Act 1990 has over members of the New Zealand force the powers of arrest of a member of the Armed Forces of a relative rank.
     
     Compare: 1950 No 39 s 65; 1950 No 40 s 65; Army Act 1955 s 74 (UK); Air Force Act 1955 s 74 (UK); Naval Discipline Act 1957 s 45 (UK)
     
-    Section 88(1): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 88(1): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 88(3): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 88(3): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 88(4): added, on 1 July 2004, by [section 26][430] of the Visiting Forces Act 2004 (2004 No 59).
+    Section 88(4): added, on 1 July 2004, by [section 26][432] of the Visiting Forces Act 2004 (2004 No 59).
 
 ##### 89 Arrest under warrant
     
@@ -3315,13 +3327,13 @@ Arrest and search
     
     Compare: 1950 No 39 s 66; 1950 No 40 s 66; Naval Discipline Act 1957 s 103 (UK)
     
-    Section 89(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][481] of the Policing Act 2008 (2008 No 72).
+    Section 89(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][483] of the Policing Act 2008 (2008 No 72).
     
-    Section 89(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][481] of the Policing Act 2008 (2008 No 72).
+    Section 89(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][483] of the Policing Act 2008 (2008 No 72).
     
-    Section 89(5): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][481] of the Policing Act 2008 (2008 No 72).
+    Section 89(5): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][483] of the Policing Act 2008 (2008 No 72).
     
-    Section 89(6): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][481] of the Policing Act 2008 (2008 No 72).
+    Section 89(6): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][483] of the Policing Act 2008 (2008 No 72).
 
 ##### 89A Arrest of members of visiting forces
     
@@ -3337,9 +3349,9 @@ Arrest and search
     
     (4) The provisions of this section are in addition to those of [section 92A][114].
     
-    Section 89A: inserted, on 1 July 2004, by [section 26][430] of the Visiting Forces Act 2004 (2004 No 59).
+    Section 89A: inserted, on 1 July 2004, by [section 26][432] of the Visiting Forces Act 2004 (2004 No 59).
     
-    Section 89A(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][481] of the Policing Act 2008 (2008 No 72).
+    Section 89A(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][483] of the Policing Act 2008 (2008 No 72).
 
 ##### 90 Arrest of spies, etc, abroad
     
@@ -3349,9 +3361,9 @@ Arrest and search
     
     Compare: Naval Discipline Act 1957 s 95 (UK)
     
-    Section 90(1): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 90(1): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 90(2): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 90(2): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
 
 ##### 91 Arrest of person unlawfully at large
     
@@ -3363,13 +3375,13 @@ Arrest and search
     
     Compare: 1950 No 39 s 73(6); 1950 No 40 s 73(6); Naval Discipline Act 1957 s 104 (UK)
     
-    Section 91(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][481] of the Policing Act 2008 (2008 No 72).
+    Section 91(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][483] of the Policing Act 2008 (2008 No 72).
     
-    Section 91(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][481] of the Policing Act 2008 (2008 No 72).
+    Section 91(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][483] of the Policing Act 2008 (2008 No 72).
     
-    Section 91(2): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 91(2): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 91(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][481] of the Policing Act 2008 (2008 No 72).
+    Section 91(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][483] of the Policing Act 2008 (2008 No 72).
 
 ##### 92 Arrest of deserters and absentees
     
@@ -3379,13 +3391,13 @@ Arrest and search
     
     Compare: 1950 No 39 s 67(a); 1950 No 40 s 67(a); Army Act 1955 s 186 (UK); Air Force Act 1955 s 186 (UK); Naval Discipline Act 1957 s 105 (UK)
     
-    Section 92(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][481] of the Policing Act 2008 (2008 No 72).
+    Section 92(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][483] of the Policing Act 2008 (2008 No 72).
     
-    Section 92(1): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 92(1): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 92(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][481] of the Policing Act 2008 (2008 No 72).
+    Section 92(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][483] of the Policing Act 2008 (2008 No 72).
     
-    Section 92(2): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 92(2): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
 
 ##### 92A Arrest of deserters from other armed forces
     
@@ -3403,9 +3415,9 @@ Arrest and search
     
     (4) [Section 101(3) to (5)][126] does not apply to any person to whom subsection (2) applies.
     
-    Section 92A: inserted, on 1 July 2004, by [section 26][430] of the Visiting Forces Act 2004 (2004 No 59).
+    Section 92A: inserted, on 1 July 2004, by [section 26][432] of the Visiting Forces Act 2004 (2004 No 59).
     
-    Section 92A(4): amended, on 7 July 2010, by [section 5][482] of the Armed Forces Discipline Amendment Act 2010 (2010 No 48).
+    Section 92A(4): amended, on 7 July 2010, by [section 5][484] of the Armed Forces Discipline Amendment Act 2010 (2010 No 48).
 
 ##### 93 Detention in civil custody of arrested persons
     
@@ -3419,15 +3431,15 @@ Arrest and search
     
     Compare: Army Act 1955 ss 190, 202 (UK); Air Force Act 1955 ss 190, 202 (UK); Naval Discipline Act 1957 s 103 (UK)
     
-    Section 93(1): amended, on 1 July 2004, by [section 26][430] of the Visiting Forces Act 2004 (2004 No 59).
+    Section 93(1): amended, on 1 July 2004, by [section 26][432] of the Visiting Forces Act 2004 (2004 No 59).
     
-    Section 93(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][481] of the Policing Act 2008 (2008 No 72).
+    Section 93(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][483] of the Policing Act 2008 (2008 No 72).
     
-    Section 93(2): amended, on 1 June 2005, by [section 206][431] of the Corrections Act 2004 (2004 No 50).
+    Section 93(2): amended, on 1 June 2005, by [section 206][433] of the Corrections Act 2004 (2004 No 50).
     
-    Section 93(3): added, on 1 July 2004, by [section 26][430] of the Visiting Forces Act 2004 (2004 No 59).
+    Section 93(3): added, on 1 July 2004, by [section 26][432] of the Visiting Forces Act 2004 (2004 No 59).
     
-    Section 93(4): added, on 1 July 2004, by [section 26][430] of the Visiting Forces Act 2004 (2004 No 59).
+    Section 93(4): added, on 1 July 2004, by [section 26][432] of the Visiting Forces Act 2004 (2004 No 59).
 
 ##### 93A Detention in service custody of person charged by civil authority
     
@@ -3451,7 +3463,7 @@ Arrest and search
     
     Section 93A: inserted, on 1 December 1983, by section 7 of the Armed Forces Discipline Amendment Act 1981 (1981 No 48).
     
-    Section 93A(2)(b): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 93A(2)(b): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
 
 ##### 93B Detention in service custody of members of visiting force
     
@@ -3465,7 +3477,7 @@ Arrest and search
     
     (3) The provisions of subsections (3) to (7) of [section 101][126] do not apply to any person to whom subsection (1) applies.
     
-    Section 93B: inserted, on 1 July 2004, by [section 26][430] of the Visiting Forces Act 2004 (2004 No 59).
+    Section 93B: inserted, on 1 July 2004, by [section 26][432] of the Visiting Forces Act 2004 (2004 No 59).
 
 ##### 93C Police not to deliver custody of arrested person without consent of Minister of Justice in certain cases
     
@@ -3473,11 +3485,11 @@ Arrest and search
         
     *   (a) a sentence of death; or
     
-    *   (b) a punishment that would, if carried out by a member of the Armed Forces of New Zealand, constitute an offence against the [Crimes of Torture Act 1989][483].
+    *   (b) a punishment that would, if carried out by a member of the Armed Forces of New Zealand, constitute an offence against the [Crimes of Torture Act 1989][485].
     
     (2) If this section applies, the Police must not deliver that person into the custody of the visiting force or, as the case may be, the authorities of the other State without the written consent of the Minister of Justice.
     
-    Section 93C: inserted, on 1 July 2004, by [section 26][430] of the Visiting Forces Act 2004 (2004 No 59).
+    Section 93C: inserted, on 1 July 2004, by [section 26][432] of the Visiting Forces Act 2004 (2004 No 59).
 
 ##### 94 Reasonable force may be used to arrest or search
     
@@ -3511,7 +3523,7 @@ Arrest and search
     
     (5) For the purposes of this section, the term _premises_ includes any defence area, ship, vehicle, or aircraft.
     
-    Section 95(4): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 95(4): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
 
 ##### 96 Searches to prevent smuggling, etc
     
@@ -3523,11 +3535,11 @@ Arrest and search
     
     (2) If on any such search a member of the Armed Forces has reasonable grounds to suspect that any goods in the possession of the person searched are being smuggled or trafficked, or are controlled drugs, he may take possession of them, in which event they shall be disposed of in accordance with [section 99][124].
     
-    Section 96(1): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 96(1): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
     Section 96(1): amended, on 1 January 1986, by section 22 of the Armed Forces Discipline Amendment Act 1985 (1985 No 199).
     
-    Section 96(2): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 96(2): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
     Section 96(2): amended, on 27 May 1988, by section 8 of the Armed Forces Discipline Amendment Act 1988 (1988 No 89).
 
@@ -3545,7 +3557,7 @@ Arrest and search
     
     (4) Where a woman is to be searched pursuant to this Part, that search may be carried out only by another woman; and where a man is to be searched pursuant to this Part, that search may be carried out only by another man.
     
-    Section 98(2): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 98(2): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
 
 ##### 99 Disposal of property taken in search
     
@@ -3563,19 +3575,19 @@ Arrest and search
     
     *   (b) an appeal to the Court Martial Appeal Court, as part of the sentence imposed on the offender.
     
-    Section 99(1)(a): amended, on 1 July 2009, by [section 33(1)][484] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 99(1)(a): amended, on 1 July 2009, by [section 33(1)][486] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 99(1)(b): amended, on 1 July 2009, by [section 33(1)][484] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 99(1)(b): amended, on 1 July 2009, by [section 33(1)][486] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 99(1)(b): amended, on 1 July 2009, by [section 33(2)][484] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 99(1)(b): amended, on 1 July 2009, by [section 33(2)][486] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 99(1)(b): amended, on 25 January 2005, pursuant to [section 65R(3)][485] of the Public Finance Act 1989 (1989 No 44).
+    Section 99(1)(b): amended, on 25 January 2005, pursuant to [section 65R(3)][487] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 99(1)(b): amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 99(1)(b): amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
     
-    Section 99(1) proviso: amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 99(1) proviso: amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 99(2): substituted, on 1 July 2009, by [section 33(3)][484] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 99(2): substituted, on 1 July 2009, by [section 33(3)][486] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 100 Duty of persons arresting
     
@@ -3613,13 +3625,13 @@ Arrest and search
     
     Compare: 1950 No 39 s 65; 1950 No 40 s 65; Army Act 1955 s 75 (UK); Air Force Act 1955 s 75 (UK); Naval Discipline Act 1957 s 46 (UK)
     
-    Section 101(4): substituted, on 1 July 2009, by [section 34][486] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 101(4): substituted, on 1 July 2009, by [section 34][488] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 101(5): substituted, on 1 July 2009, by [section 34][486] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 101(5): substituted, on 1 July 2009, by [section 34][488] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 101(6): repealed, on 1 July 2009, by [section 34][486] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 101(6): repealed, on 1 July 2009, by [section 34][488] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 101(7): repealed, on 1 July 2009, by [section 34][486] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 101(7): repealed, on 1 July 2009, by [section 34][488] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 101A Judge Advocate General may grant bail pending trial
     
@@ -3635,7 +3647,7 @@ Arrest and search
     
     (4) In determining whether to grant bail under this section, the Judge Advocate General---
         
-    *   (a) must take into account the considerations set out in [section 8(1) and (4)][487] of the Bail Act 2000 and all of the following considerations:
+    *   (a) must take into account the considerations set out in [section 8(1) and (4)][489] of the Bail Act 2000 and all of the following considerations:
             
         *   (i) the seriousness of the alleged offence:
         
@@ -3645,13 +3657,13 @@ Arrest and search
         
         
     
-    *   (b) may take into account the considerations set out in [section 8(2)][487] of the Bail Act 2000; and
+    *   (b) may take into account the considerations set out in [section 8(2)][489] of the Bail Act 2000; and
     
     *   (c) must not grant bail unless satisfied on the balance of probabilities that it would be in the interests of justice in the particular case to do so.
     
-    Section 101A: inserted, on 1 July 2009, by [section 35][488] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 101A: inserted, on 1 July 2009, by [section 35][490] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 101A(4)(a): amended, on 5 December 2013, by [section 4][489] of the Armed Forces Discipline Amendment Act 2013 (2013 No 108).
+    Section 101A(4)(a): amended, on 5 December 2013, by [section 4][491] of the Armed Forces Discipline Amendment Act 2013 (2013 No 108).
 
 ##### 101B Issue of warrant to arrest person absconding or breaching bail condition
     
@@ -3697,7 +3709,7 @@ Arrest and search
     
     *   (c) if he or she is not in uniform, produce evidence that he or she is one of the persons referred to in subsection (2)(b).
     
-    Section 101B: inserted, on 1 July 2009, by [section 35][488] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 101B: inserted, on 1 July 2009, by [section 35][490] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 101C Person arrested under warrant for absconding or breaching bail condition must be brought before Judge Advocate General
     
@@ -3709,7 +3721,7 @@ Arrest and search
     
     *   (b) had contravened or failed to comply with any condition of bail.
     
-    Section 101C: inserted, on 1 July 2009, by [section 35][488] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 101C: inserted, on 1 July 2009, by [section 35][490] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 101D Restrictions in relation to midshipmen, officer cadets, and chaplains
     
@@ -3729,12 +3741,12 @@ Arrest and search
     
     (3) A chaplain may not be authorised or ordered by a commanding officer to exercise any of the powers conferred on a commanding officer by [section 95(1)][120].
     
-    Section 101D: inserted, on 1 July 2009, by [section 35][488] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 101D: inserted, on 1 July 2009, by [section 35][490] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ## Part 4A  
 Director of Military Prosecutions
     
-*   Part 4A: inserted, on 1 July 2009, by [section 36][490] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Part 4A: inserted, on 1 July 2009, by [section 36][492] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 101E Appointment of Director of Military Prosecutions
     
@@ -3748,7 +3760,7 @@ Director of Military Prosecutions
     
     (3) The Chief of Defence Force must arrange for notice of an appointment under subsection (1) to be published in the _Gazette_ as soon as practicable after the appointment.
     
-    Section 101E: inserted, on 1 July 2009, by [section 36][490] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 101E: inserted, on 1 July 2009, by [section 36][492] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 101F Functions and duties of Director of Military Prosecutions
     
@@ -3770,7 +3782,7 @@ Director of Military Prosecutions
     
     *   (h) to perform any other functions or duties imposed by this Act or any other enactment.
     
-    Section 101F: inserted, on 1 July 2009, by [section 36][490] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 101F: inserted, on 1 July 2009, by [section 36][492] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 101G Power of Director of Military Prosecutions to direct investigation
     
@@ -3782,7 +3794,7 @@ Director of Military Prosecutions
     
     (2) A provost officer must comply with a direction given under subsection (1).
     
-    Section 101G: inserted, on 1 July 2009, by [section 36][490] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 101G: inserted, on 1 July 2009, by [section 36][492] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 101H Power of Director of Military Prosecutions to stay proceedings
     
@@ -3796,7 +3808,7 @@ Director of Military Prosecutions
     
     *   (c) the accused in question.
     
-    Section 101H: inserted, on 1 July 2009, by [section 36][490] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 101H: inserted, on 1 July 2009, by [section 36][492] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 101I Director of Military Prosecutions to perform functions and duties, and exercise powers, independently of ministerial control and of command
     
@@ -3806,25 +3818,25 @@ Director of Military Prosecutions
     
     *   (b) the command of any other officer.
     
-    (2) Subsection (1) applies despite [sections 7][491] and [8][406] of the Defence Act 1990\.
+    (2) Subsection (1) applies despite [sections 7][493] and [8][407] of the Defence Act 1990\.
     
     (3) To avoid doubt, subsection (1) does not limit or affect the command relationship that exists between the Director of Military Prosecutions and any member of the Armed Forces in respect of any of the Director's functions and duties other than those that are specified in [section 101F][133].
     
-    Section 101I: inserted, on 1 July 2009, by [section 36][490] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 101I: inserted, on 1 July 2009, by [section 36][492] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 101J Director of Military Prosecutions must report annually to Attorney-General on performance of functions and duties, and exercise of powers
     
 *   The Director of Military Prosecutions must, not later than 30 June in each year, report to the Attorney-General on the performance of any functions and duties, and the exercise of any powers, imposed or conferred on the Director under this Act.
     
-    Section 101J: inserted, on 1 July 2009, by [section 36][490] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 101J: inserted, on 1 July 2009, by [section 36][492] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 101K Director of Military Prosecutions must act under general supervision of Solicitor-General
     
-*   (1) In performing functions or duties, or exercising powers, imposed or conferred by this Act, by the [Court Martial Act 2007][421], or by the [Court Martial Appeals Act 1953][492], the Director of Military Prosecutions must act under the general supervision of the Solicitor-General in the same manner and to the same extent as a Crown Solicitor.
+*   (1) In performing functions or duties, or exercising powers, imposed or conferred by this Act, by the [Court Martial Act 2007][422], or by the [Court Martial Appeals Act 1953][494], the Director of Military Prosecutions must act under the general supervision of the Solicitor-General in the same manner and to the same extent as a Crown Solicitor.
     
-    (2) However, subsection (1) does not apply if the Director of Military Prosecutions considers that compliance with that subsection is or would be inconsistent with any provisions of this Act, the [Court Martial Act 2007][421], or the [Court Martial Appeals Act 1953][492].
+    (2) However, subsection (1) does not apply if the Director of Military Prosecutions considers that compliance with that subsection is or would be inconsistent with any provisions of this Act, the [Court Martial Act 2007][422], or the [Court Martial Appeals Act 1953][494].
     
-    Section 101K: inserted, on 1 July 2009, by [section 36][490] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 101K: inserted, on 1 July 2009, by [section 36][492] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 101L Delegation of functions, duties, or powers of Director of Military Prosecutions
     
@@ -3846,16 +3858,16 @@ Director of Military Prosecutions
     
     *   (b) affect the responsibility of the Director of Military Prosecutions for the actions of any person acting under the delegation.
     
-    Section 101L: inserted, on 1 July 2009, by [section 36][490] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 101L: inserted, on 1 July 2009, by [section 36][492] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ## Part 5  
 Investigation and summary trial of charges
     
-*   Part 5: substituted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Part 5: substituted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ### Subpart 1---General provisions
     
-*   Subpart 1: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Subpart 1: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 102 Investigation of charges
     
@@ -3867,7 +3879,7 @@ Investigation and summary trial of charges
     
     (2) In this Part, a matter or thing is done in the _prescribed manner_ if it is done in accordance with, and in the manner prescribed by, this Part and the rules of procedure.
     
-    Section 102: substituted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 102: substituted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 103 Disposal of charges by commanding officers
     
@@ -3875,7 +3887,7 @@ Investigation and summary trial of charges
     
     (2) However, a commanding officer may stay proceedings on a charge before him or her, or before a detachment commander or a subordinate commander, for any time that he or she considers necessary if satisfied that proceedings for the matters to which the charge relates could be, and in the interests of the better administration of justice should be, taken against the accused otherwise than under this Act.
     
-    Section 103: substituted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 103: substituted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 104 Disposal of charges by superior commanders
     
@@ -3883,7 +3895,7 @@ Investigation and summary trial of charges
     
     (2) However, a superior commander may stay proceedings on a charge before him or her for any time that he or she considers necessary if satisfied that proceedings for the matters to which the charge relates could be, and in the interests of the better administration of justice should be, taken against the accused otherwise than under this Act.
     
-    Section 104: substituted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 104: substituted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 105 Disposal of charges by detachment commanders
     
@@ -3891,7 +3903,7 @@ Investigation and summary trial of charges
     
     (2) Subsection (1) is subject to any limitations or restrictions that may be imposed by, or in accordance with, orders of the Chief of Defence Force.
     
-    Section 105: substituted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 105: substituted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 106 Disposal of charges by subordinate commanders
     
@@ -3909,13 +3921,13 @@ Investigation and summary trial of charges
     
     *   (c) in this Part.
     
-    Section 106: substituted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 106: substituted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 106A Suspension of compensation and restitution orders made summarily, etc
     
 *   \[Repealed\]
     
-    Section 106A: repealed, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 106A: repealed, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 107 Effect of delegation
     
@@ -3927,11 +3939,11 @@ Investigation and summary trial of charges
     
     (4) A power delegated under [section 106][146] may be revoked by the commanding officer of the subordinate commander.
     
-    Section 107: substituted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 107: substituted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### When officer is empowered to act as disciplinary officer
     
-*   Heading: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Heading: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 108 Officer is empowered to act as disciplinary officer
     
@@ -3971,15 +3983,15 @@ Investigation and summary trial of charges
     
     *   (e) the officer otherwise has a personal interest in the charge that is likely to influence his or her judgment.
     
-    Section 108: substituted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 108: substituted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ### Subpart 2---Preliminary procedures and investigation of charges
     
-*   Subpart 2: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Subpart 2: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### Initial referral of charges
     
-*   Heading: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Heading: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 109 Charge must be referred to subordinate commander in certain circumstances
     
@@ -4001,7 +4013,7 @@ Investigation and summary trial of charges
     
     *   (b) another person to act as the disciplinary officer in relation to the charge.
     
-    Section 109: substituted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 109: substituted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 110 Charge must be referred to commanding officer, superior commander, or detachment commander in certain circumstances
     
@@ -4031,7 +4043,7 @@ Investigation and summary trial of charges
     
     *   (b) another person to act as the disciplinary officer in relation to the charge.
     
-    Section 110: substituted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 110: substituted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 111 Accused must be remanded for trial in Court Martial and charge must be referred to Director of Military Prosecutions in certain circumstances
     
@@ -4041,11 +4053,11 @@ Investigation and summary trial of charges
     
     *   (b) the charge must be referred to the Director of Military Prosecutions.
     
-    Section 111: substituted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 111: substituted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### Certification and amendment of charges
     
-*   Heading: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Heading: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 112 Charge must be certified if disciplinary officer may impose certain punishments or make certain compensation orders
     
@@ -4095,13 +4107,13 @@ Investigation and summary trial of charges
     
     *   (c) is otherwise correct in law.
     
-    Section 112: substituted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 112: substituted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 112 heading: amended, on 7 July 2010, by [section 6(1)][494] of the Armed Forces Discipline Amendment Act 2010 (2010 No 48).
+    Section 112 heading: amended, on 7 July 2010, by [section 6(1)][496] of the Armed Forces Discipline Amendment Act 2010 (2010 No 48).
     
-    Section 112(1): substituted, on 7 July 2010, by [section 6(2)][494] of the Armed Forces Discipline Amendment Act 2010 (2010 No 48).
+    Section 112(1): substituted, on 7 July 2010, by [section 6(2)][496] of the Armed Forces Discipline Amendment Act 2010 (2010 No 48).
     
-    Section 112(3)(a): substituted, on 7 July 2010, by [section 6(3)][494] of the Armed Forces Discipline Amendment Act 2010 (2010 No 48).
+    Section 112(3)(a): substituted, on 7 July 2010, by [section 6(3)][496] of the Armed Forces Discipline Amendment Act 2010 (2010 No 48).
 
 ##### 113 Amendment of charge
     
@@ -4119,11 +4131,11 @@ Investigation and summary trial of charges
     
     *   (c) if requested by the accused to do so, adjourn the proceedings for that purpose.
     
-    Section 113: substituted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 113: substituted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### Assignment of defending and presenting officers
     
-*   Heading: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Heading: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 114 Assistance to accused
     
@@ -4147,7 +4159,7 @@ Investigation and summary trial of charges
     
     *   (b) the disciplinary officer considers that it is necessary to do so, having regard to the exigencies of the service.
     
-    Section 114: substituted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 114: substituted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 115 Assignment of presenting officer
     
@@ -4165,17 +4177,17 @@ Investigation and summary trial of charges
     
     (3) The officer or non-commissioned officer assigned as presenting officer may be changed at any time by the disciplinary officer if the disciplinary officer considers that it is necessary or desirable to do so.
     
-    Section 115: substituted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 115: substituted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 115A Punishments of detention may be suspended
     
 *   \[Repealed\]
     
-    Section 115A: repealed, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 115A: repealed, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### Arraignment
     
-*   Heading: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Heading: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 116 Arraignment by disciplinary officer
     
@@ -4191,11 +4203,11 @@ Investigation and summary trial of charges
     
     *   (e) ask the accused whether he or she pleads guilty or not guilty to the charge.
     
-    Section 116: substituted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 116: substituted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### Plea of guilty
     
-*   Heading: substituted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Heading: substituted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117 Plea of guilty
     
@@ -4215,7 +4227,7 @@ Investigation and summary trial of charges
     
     *   (c) the disciplinary officer is not satisfied of any of the matters referred to in subsection (1)(a) to (c).
     
-    Section 117: substituted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117: substituted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117A Subordinate commander may punish accused or refer charge to commanding officer or detachment commander
     
@@ -4247,7 +4259,7 @@ Investigation and summary trial of charges
     
     (5) This section is subject to [sections 117G][174] and [117H][175].
     
-    Section 117A: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117A: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117B Commanding officer, detachment commander, or superior commander who receives guilty plea or receives referral must consider certain matters
     
@@ -4267,7 +4279,7 @@ Investigation and summary trial of charges
     
     *   (b) he or she is empowered to act as a disciplinary officer in relation to the charge.
     
-    Section 117B: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117B: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117C Consideration of whether accused who pleads guilty should be given right to elect trial by Court Martial
     
@@ -4281,7 +4293,7 @@ Investigation and summary trial of charges
     
     *   (c) have regard to [sections 117W][196] and [117ZA][201].
     
-    Section 117C: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117C: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117D Accused who pleads guilty must be informed if he or she has right to elect trial by Court Martial
     
@@ -4301,7 +4313,7 @@ Investigation and summary trial of charges
     
     (2) The period of adjournment under subsection (1)(b) must be at least 24 hours if the accused wishes it.
     
-    Section 117D: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117D: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117E Accused who pleads guilty must be punished in certain circumstances
     
@@ -4327,7 +4339,7 @@ Investigation and summary trial of charges
     
     (3) This section is subject to [sections 117G][174] and [117H][175].
     
-    Section 117E: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117E: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117F Accused must be remanded for trial in Court Martial and charge must be referred to Director of Military Prosecutions in certain circumstances
     
@@ -4345,11 +4357,11 @@ Investigation and summary trial of charges
     
     (2) However, if the accused is given the right to an election under [section 117D][170] and elects trial by the Court Martial, the disciplinary officer must not act under subsection (1) during the 24 hours following the accused's election.
     
-    Section 117F: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117F: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### Other matters relating to pleas
     
-*   Heading: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Heading: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117G Procedure following mixed pleas
     
@@ -4371,7 +4383,7 @@ Investigation and summary trial of charges
     
     (5) This section is subject to [section 117ZF][210] and the rules of procedure.
     
-    Section 117G: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117G: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117H Change or amendment of plea
     
@@ -4387,11 +4399,11 @@ Investigation and summary trial of charges
     
     (6) If the disciplinary officer acts under subsection (5), the disciplinary officer must, so far as is necessary, proceed as if the accused had originally pleaded not guilty.
     
-    Section 117H: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117H: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### Investigation following plea of not guilty
     
-*   Heading: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Heading: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117I Procedure following plea of not guilty
     
@@ -4407,7 +4419,7 @@ Investigation and summary trial of charges
     
     *   (b) a reasonable opportunity to obtain adequate facilities to prepare a defence.
     
-    Section 117I: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117I: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117J Disciplinary officer must determine whether prima facie case is made out after hearing of evidence in support of charge
     
@@ -4437,11 +4449,11 @@ Investigation and summary trial of charges
     
     (4) If the disciplinary officer is not satisfied that a prima facie case has been made out, he or she must dismiss the charge, record the finding, and inform the accused.
     
-    Section 117J: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117J: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### Disciplinary officer must consider certain matters
     
-*   Heading: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Heading: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117K Disciplinary officer must consider whether he or she has sufficient powers of punishment and whether he or she can act as disciplinary officer
     
@@ -4467,11 +4479,11 @@ Investigation and summary trial of charges
     
     (4) If the disciplinary officer is a commanding officer, a detachment commander, or a superior commander who considers under this section that he or she has insufficient powers of punishment or is not empowered to act as a disciplinary officer in relation to the charge, he or she must remand the accused for trial in the Court Martial and refer the charge to the Director of Military Prosecutions.
     
-    Section 117K: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117K: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### Right to elect trial by Court Martial
     
-*   Heading: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Heading: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117L Disciplinary officer must consider whether accused should be given right to elect trial by Court Martial
     
@@ -4487,7 +4499,7 @@ Investigation and summary trial of charges
     
     (3) If the disciplinary officer considers that he or she should not give the accused the right to elect trial by the Court Martial, he or she must try the accused summarily under [subpart 3][185].
     
-    Section 117L: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117L: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117M Disciplinary officer must inform accused if accused has right to elect trial by Court Martial
     
@@ -4507,7 +4519,7 @@ Investigation and summary trial of charges
     
     (2) The period of adjournment under subsection (1)(b) must be at least 24 hours if the accused wishes it.
     
-    Section 117M: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117M: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117N Disciplinary officer must remand accused for trial in Court Martial or try charge summarily
     
@@ -4525,11 +4537,11 @@ Investigation and summary trial of charges
     
     *   (b) trial by the Court Martial, but withdraws his or her election in the prescribed manner.
     
-    Section 117N: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117N: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ### Subpart 3---Trying charges summarily
     
-*   Subpart 3: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Subpart 3: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117O Disciplinary officer must advise accused and hear evidence on behalf of accused
     
@@ -4555,7 +4567,7 @@ Investigation and summary trial of charges
     
     (5) The disciplinary officer may put questions to each witness that the disciplinary officer considers necessary to ensure that he or she fully understands the witness's evidence.
     
-    Section 117O: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117O: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117P Presenting officer and disciplinary officer may call or recall witnesses
     
@@ -4569,7 +4581,7 @@ Investigation and summary trial of charges
     
     (3) If the disciplinary officer calls or recalls a witness under subsection (2), the disciplinary officer may allow the presenting officer, the accused, or both to put questions to the witness that the disciplinary officer may allow as proper.
     
-    Section 117P: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117P: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117Q Disciplinary officer must determine whether accused is guilty or not guilty
     
@@ -4581,11 +4593,11 @@ Investigation and summary trial of charges
     
     *   (c) inform the accused.
     
-    Section 117Q: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117Q: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ### Subpart 4---Punishment
     
-*   Subpart 4: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Subpart 4: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117R Procedures to be followed before imposing punishment
     
@@ -4623,11 +4635,11 @@ Investigation and summary trial of charges
     
     *   (c) a fine of an amount that exceeds the offender's basic pay for a period of 7 days.
     
-    (4) In this section, _victim_ has the same meaning as in [section 4][495] of the Victims' Rights Act 2002\.
+    (4) In this section, _victim_ has the same meaning as in [section 4][497] of the Victims' Rights Act 2002\.
     
-    Section 117R: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117R: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 117R(3)(c): amended, on 7 July 2010, by [section 7][496] of the Armed Forces Discipline Amendment Act 2010 (2010 No 48).
+    Section 117R(3)(c): amended, on 7 July 2010, by [section 7][498] of the Armed Forces Discipline Amendment Act 2010 (2010 No 48).
 
 ##### 117S Disciplinary officer may impose punishment, order offender to appear for punishment if called on, or discharge offender
     
@@ -4649,7 +4661,7 @@ Investigation and summary trial of charges
     
     *   (b) notify the offender of the offender's right of appeal under [Part 5A][226].
     
-    Section 117S: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117S: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117T Order to come up for punishment if called on
     
@@ -4661,7 +4673,7 @@ Investigation and summary trial of charges
     
     (4) The disciplinary officer may make orders under [section 117ZA][201] in combination with an order under subsection (1).
     
-    Section 117T: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117T: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117U Offender to come up for punishment
     
@@ -4671,7 +4683,7 @@ Investigation and summary trial of charges
     
     *   (b) fails to comply with any other order referred to in [section 117T(4)][192]; or
     
-    *   (c) fails to comply with any agreement, or fails to take any measure or action, of a kind referred to in [section 10(1)(b), (d), or (e) ][473]of the Sentencing Act 2002 that was brought to the attention of the disciplinary officer at the time the disciplinary officer made the order under [section 117T][192].
+    *   (c) fails to comply with any agreement, or fails to take any measure or action, of a kind referred to in [section 10(1)(b), (d), or (e) ][475]of the Sentencing Act 2002 that was brought to the attention of the disciplinary officer at the time the disciplinary officer made the order under [section 117T][192].
     
     (2) An offender's commanding officer may, at any time within the period specified in the order made under [section 117T][192], order the offender to appear before the commanding officer or another disciplinary officer to be dealt with for the original offence.
     
@@ -4685,11 +4697,11 @@ Investigation and summary trial of charges
     
     (5) This section is subject to [section 117X][197].
     
-    Section 117U: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117U: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### Summary punishments
     
-*   Heading: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Heading: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117V Types and maximum amounts of summary punishments
     
@@ -4707,7 +4719,7 @@ Investigation and summary trial of charges
     
     (4) Subsection (3) does not limit the power of a disciplinary officer to discharge an offender without imposing a punishment on him or her or to order that person to appear for punishment if called on to do so.
     
-    Section 117V: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117V: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117W Certain punishments must not be imposed unless offender was given right to elect trial by Court Martial
     
@@ -4725,13 +4737,13 @@ Investigation and summary trial of charges
     
     *   (b) in the case of a superior commander, impose on the offender, to the extent authorised by column 3 of [Schedule 5][395], any punishment or punishments that the superior commander considers just.
     
-    Section 117W: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117W: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117X Punishment must be imposed for all offences of which person is found guilty
     
 *   If a person tried summarily, or otherwise dealt with, under this Part in respect of 2 or more charges contained in the same charge report is found guilty of the offences charged, or at least 2 of them if there are more than 2, any punishment or punishments imposed on him or her must be in respect of all of the offences of which he or she has been found guilty.
     
-    Section 117X: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117X: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117Y Provisions relating to punishment of detention
     
@@ -4749,7 +4761,7 @@ Investigation and summary trial of charges
     
     *   (b) does not include open arrest.
     
-    Section 117Y: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117Y: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117Z Reduction of punishments
     
@@ -4761,11 +4773,11 @@ Investigation and summary trial of charges
     
     (2) A commanding officer may reduce, but not increase, a punishment imposed by a detachment commander or by a subordinate commander.
     
-    Section 117Z: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117Z: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### Compensation and restitution
     
-*   Heading: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Heading: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117ZA Orders for compensation and restitution
     
@@ -4785,17 +4797,17 @@ Investigation and summary trial of charges
     
     (3) The disciplinary officer must ensure that he or she has received a specified certificate if he or she intends to order the offender to pay an amount by way of compensation that exceeds the offender's basic pay for a period of 7 days.
     
-    Section 117ZA: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117ZA: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 117ZA(3): added, on 7 July 2010, by [section 8][497] of the Armed Forces Discipline Amendment Act 2010 (2010 No 48).
+    Section 117ZA(3): added, on 7 July 2010, by [section 8][499] of the Armed Forces Discipline Amendment Act 2010 (2010 No 48).
 
 ### Subpart 5---Miscellaneous matters
     
-*   Subpart 5: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Subpart 5: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### Rights under New Zealand Bill of Rights Act 1990
     
-*   Heading: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Heading: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117ZB Accused deemed to have waived certain rights in certain circumstances
     
@@ -4819,11 +4831,11 @@ Investigation and summary trial of charges
     
     (2) The rights are---
         
-    *   (a) the right that the accused had or has under [section 24(c)][498] of the New Zealand Bill of Rights Act 1990 to the extent that it relates to the right to legal representation; and
+    *   (a) the right that the accused had or has under [section 24(c)][500] of the New Zealand Bill of Rights Act 1990 to the extent that it relates to the right to legal representation; and
     
-    *   (b) the right that the accused had or has under [section 25(a)][499] of that Act to the extent that it relates to the right to a hearing by an independent court.
+    *   (b) the right that the accused had or has under [section 25(a)][501] of that Act to the extent that it relates to the right to a hearing by an independent court.
     
-    Section 117ZB: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117ZB: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117ZC Implications of election must be explained to accused
     
@@ -4839,7 +4851,7 @@ Investigation and summary trial of charges
     
     (4) The disciplinary officer must take reasonable steps to ensure that the accused has read the election before the accused signs it.
     
-    Section 117ZC: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117ZC: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117ZD Accused does not have certain rights if accused is tried summarily or otherwise dealt with under this Part
     
@@ -4849,21 +4861,21 @@ Investigation and summary trial of charges
     
     *   (b) the accused does not have, in relation to the relevant charge, the right to a hearing by an independent court.
     
-    Section 117ZD: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117ZD: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### Recording of proceedings
     
-*   Heading: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Heading: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117ZE Recording proceedings before disciplinary officer
     
 *   A disciplinary officer must comply with any requirements of the rules of procedure to ensure that an audio recording, or a written summary, is made of the proceedings before the disciplinary officer.
     
-    Section 117ZE: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117ZE: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### Referral of charges
     
-*   Heading: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Heading: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117ZF Referral of charge must include referral of related charges
     
@@ -4873,7 +4885,7 @@ Investigation and summary trial of charges
     
     *   (b) any other charge against the accused for an offence arising from the same incident or series of incidents.
     
-    Section 117ZF: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117ZF: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117ZG Documents and information to be provided to accused and Director of Military Prosecutions
     
@@ -4897,7 +4909,7 @@ Investigation and summary trial of charges
     
     *   (b) a statement containing the superior commander's opinion as to whether prosecution of the charge is in the interests of the service.
     
-    Section 117ZG: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117ZG: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117ZH Reference back of charge by Director of Military Prosecutions
     
@@ -4931,7 +4943,7 @@ Investigation and summary trial of charges
     
     (7) The Director of Military Prosecutions must inform the accused of any action that is taken in respect of the accused under this section.
     
-    Section 117ZH: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117ZH: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117ZI Director of Military Prosecutions may lay charge before Court Martial
     
@@ -4939,11 +4951,11 @@ Investigation and summary trial of charges
     
     (2) If the accused pleaded guilty under [section 116][164] in relation to a charge referred to the Director of Military Prosecutions under this Part, that plea must not be taken into account by the Court Martial when making a finding on the charge.
     
-    Section 117ZI: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117ZI: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### Procedures for certain persons
     
-*   Heading: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Heading: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117ZJ Procedures for prisoners of war, spies, midshipmen, officer cadets, and chaplains
     
@@ -4965,11 +4977,11 @@ Investigation and summary trial of charges
     
     *   (d) in the case of a chaplain Class IV, were a lieutenant in the Navy, a captain in the Army, or a flight lieutenant in the Air Force.
     
-    Section 117ZJ: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117ZJ: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### Evidence
     
-*   Heading: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Heading: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117ZK Relevant evidence admissible unless excluded
     
@@ -4987,7 +4999,7 @@ Investigation and summary trial of charges
     
     (5) The disciplinary officer or the Summary Appeal Court may, subject to subsections (1) to (4) and [section 150B][276], require a witness to answer a question that is put to them in proceedings under this Part or [Part 5A][226] (whether by the disciplinary officer, the court, a presenting officer, a defending officer, or any other counsel appearing in the proceedings).
     
-    Section 117ZK: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117ZK: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117ZL Taking of evidence on oath
     
@@ -5011,7 +5023,7 @@ Investigation and summary trial of charges
     
     (6) Every oath or affirmation required to be administered under this Part or [Part 5A][226] must be administered in accordance with the rules of procedure.
     
-    Section 117ZL: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117ZL: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117ZM Admission in evidence of written statements instead of oral evidence
     
@@ -5035,7 +5047,7 @@ Investigation and summary trial of charges
     
     (6) A document or object accompanying a written statement tendered as evidence and referred to in the statement as an exhibit must be treated as if it had been produced as an exhibit and identified in evidence by the maker of the statement.
     
-    Section 117ZM: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117ZM: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117ZN Disciplinary officers and Summary Appeal Court to take judicial notice of certain matters
     
@@ -5047,17 +5059,17 @@ Investigation and summary trial of charges
     
     (2) The disciplinary officer may also take judicial notice of matters that may fairly be regarded as being within the general service knowledge of the disciplinary officer.
     
-    Section 117ZN: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117ZN: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### Other miscellaneous matters
     
-*   Heading: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Heading: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117ZO General power to make orders or give directions
     
 *   A disciplinary officer may, in respect of any proceedings under this Part, make or give any order or direction, not inconsistent with this Act or the rules of procedure, that seems to him or her best calculated to do justice.
     
-    Section 117ZO: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117ZO: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117ZP Construction of charges
     
@@ -5065,7 +5077,7 @@ Investigation and summary trial of charges
     
     (2) In respect of a charge, the statement of the alleged offence and the statement of the particulars of every act or omission constituting the alleged offence must be read and construed together.
     
-    Section 117ZP: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117ZP: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117ZQ Replacement of disciplinary officer
     
@@ -5085,7 +5097,7 @@ Investigation and summary trial of charges
     
     *   (b) this Part otherwise provides for a different procedure to be followed in the event that the disciplinary officer is unable to continue to act as the disciplinary officer in relation to the charge.
     
-    Section 117ZQ: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117ZQ: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 117ZR Objection relating to personal interest
     
@@ -5099,16 +5111,16 @@ Investigation and summary trial of charges
     
     (3) However, subsection (2) does not apply if a provision of this Part provides for a different procedure to be followed in the event that a disciplinary officer considers that he or she is personally interested in a charge or is otherwise not empowered to act as a disciplinary officer in relation to a charge.
     
-    Section 117ZR: inserted, on 1 July 2009, by [section 37][493] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 117ZR: inserted, on 1 July 2009, by [section 37][495] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ## Part 5A  
 Summary Appeal Court of New Zealand
     
-*   Part 5A: inserted, on 1 July 2009, by [section 38][500] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Part 5A: inserted, on 1 July 2009, by [section 38][502] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### Establishment of Summary Appeal Court of New Zealand
     
-*   Heading: substituted, on 1 July 2009, by [section 38][500] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Heading: substituted, on 1 July 2009, by [section 38][502] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 118 Summary Appeal Court of New Zealand established
     
@@ -5118,7 +5130,7 @@ Summary Appeal Court of New Zealand
     
     (3) The Summary Appeal Court is to have a seal, which is to be judicially noticed by all courts and for all purposes.
     
-    Section 118: substituted, on 1 July 2009, by [section 38][500] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 118: substituted, on 1 July 2009, by [section 38][502] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 119 Constitution of Summary Appeal Court
     
@@ -5126,7 +5138,7 @@ Summary Appeal Court of New Zealand
     
     (2) The Summary Appeal Court's jurisdiction is not affected by a vacancy in the number of Judges of the Court Martial.
     
-    Section 119: substituted, on 1 July 2009, by [section 38][500] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 119: substituted, on 1 July 2009, by [section 38][502] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 120 Summary Appeal Court must sit in divisions
     
@@ -5136,7 +5148,7 @@ Summary Appeal Court of New Zealand
     
     (3) A division of the Summary Appeal Court may exercise any powers of the court even though 1 or more divisions of the court is exercising any powers of the court at the same time.
     
-    Section 120: substituted, on 1 July 2009, by [section 38][500] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 120: substituted, on 1 July 2009, by [section 38][502] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 121 Registrar, clerks, and other officers of Summary Appeal Court
     
@@ -5148,7 +5160,7 @@ Summary Appeal Court of New Zealand
     
     (4) A person appointed under this section must not undertake any other paid employment or hold any other office (whether paid or not) unless the Judge Advocate General or Registrar (as the case may be) is satisfied that the employment or other office is compatible with that person's appointment.
     
-    Section 121: substituted, on 1 July 2009, by [section 38][500] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 121: substituted, on 1 July 2009, by [section 38][502] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 122 Chief Judge may delegate to Registrar duty to assign Judges
     
@@ -5168,7 +5180,7 @@ Summary Appeal Court of New Zealand
     
     (4) If the Registrar appears to act under subsection (1), he or she is presumed to be acting in accordance with the terms of delegation in the absence of evidence to the contrary.
     
-    Section 122: substituted, on 1 July 2009, by [section 38][500] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 122: substituted, on 1 July 2009, by [section 38][502] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 123 Registrar may delegate functions, duties, or powers to clerk or officer of Summary Appeal Court
     
@@ -5192,11 +5204,11 @@ Summary Appeal Court of New Zealand
     
     (4) A clerk or any other officer of the Summary Appeal Court who appears to act under a delegation is presumed to be acting in accordance with its terms in the absence of evidence to the contrary.
     
-    Section 123: substituted, on 1 July 2009, by [section 38][500] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 123: substituted, on 1 July 2009, by [section 38][502] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### Right of appeal
     
-*   Heading: inserted, on 1 July 2009, by [section 38][500] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Heading: inserted, on 1 July 2009, by [section 38][502] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 124 Right of appeal
     
@@ -5210,7 +5222,7 @@ Summary Appeal Court of New Zealand
     
     *   (d) an order made under [section 117T][192].
     
-    Section 124: substituted, on 1 July 2009, by [section 38][500] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 124: substituted, on 1 July 2009, by [section 38][502] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 125 Notice of appeal
     
@@ -5242,7 +5254,7 @@ Summary Appeal Court of New Zealand
     
     *   (b) a period of 21 days commencing with the day after the day on which the finding of guilty by the disciplinary officer is recorded if the charge is tried summarily, or otherwise dealt with, under [Part 5][140] in New Zealand.
     
-    Section 125: substituted, on 1 July 2009, by [section 38][500] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 125: substituted, on 1 July 2009, by [section 38][502] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 126 Registrar and disciplinary officer must provide copies of documents
     
@@ -5252,7 +5264,7 @@ Summary Appeal Court of New Zealand
     
     (3) The Registrar must, within 7 days of receiving the documents under subsection (2), send a copy of those documents to the Director of Military Prosecutions and to the appellant.
     
-    Section 126: substituted, on 1 July 2009, by [section 38][500] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 126: substituted, on 1 July 2009, by [section 38][502] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 127 Abandonment of appeal
     
@@ -5262,11 +5274,11 @@ Summary Appeal Court of New Zealand
     
     (3) The signature of the appellant or his or her representative to a notice of abandonment must be witnessed by a member of a specialist legal branch or corps in the Armed Forces, or the appellant's commanding officer, or an officer not below the rank of lieutenant commander in the Navy, major in the Army, or squadron leader in the Air Force.
     
-    Section 127: substituted, on 1 July 2009, by [section 38][500] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 127: substituted, on 1 July 2009, by [section 38][502] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### Sittings, etc, of courts-martial
     
-*   Heading: repealed, on 1 July 2009, by [section 86][501] of the Court Martial Act 2007 (2007 No 101).
+*   Heading: repealed, on 1 July 2009, by [section 86][503] of the Court Martial Act 2007 (2007 No 101).
 
 ##### 128 Effect of appeal on punishments and orders
     
@@ -5276,11 +5288,11 @@ Summary Appeal Court of New Zealand
     
     *   (b) the Summary Appeal Court directs that the punishment, the combination of punishments, or the order is suspended.
     
-    Section 128: substituted, on 1 July 2009, by [section 38][500] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 128: substituted, on 1 July 2009, by [section 38][502] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### Special reference by Judge Advocate General
     
-*   Heading: inserted, on 1 July 2009, by [section 38][500] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Heading: inserted, on 1 July 2009, by [section 38][502] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 129 Special references to Summary Appeal Court
     
@@ -5308,7 +5320,7 @@ Summary Appeal Court of New Zealand
     
     (4) If a person has been found guilty of an offence by a disciplinary officer, any person (including the person found guilty) may, in the prescribed manner, petition the Judge Advocate General to refer to the Summary Appeal Court under this section 1 or more of the matters referred to in subsection (1)(a) to (d).
     
-    Section 129: substituted, on 1 July 2009, by [section 38][500] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 129: substituted, on 1 July 2009, by [section 38][502] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 130 Person found guilty must be informed of reference and may comment
     
@@ -5336,11 +5348,11 @@ Summary Appeal Court of New Zealand
     
     (3) In this section, _prescribed period_ means a period of 21 days commencing on the day after the day that the notice under subsection (1)(b) is sent to the person found guilty of the offence.
     
-    Section 130: substituted, on 1 July 2009, by [section 38][500] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 130: substituted, on 1 July 2009, by [section 38][502] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### Powers of Summary Appeal Court
     
-*   Heading: inserted, on 1 July 2009, by [section 38][500] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Heading: inserted, on 1 July 2009, by [section 38][502] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 131 Appeals to proceed by way of rehearing and general power of Summary Appeal Court
     
@@ -5348,13 +5360,13 @@ Summary Appeal Court of New Zealand
     
     (2) The Summary Appeal Court has, for the purposes of this Act, full power to determine, under this Act, any question necessary to be determined for the purpose of doing justice in any case before the court.
     
-    Section 131: substituted, on 1 July 2009, by [section 38][500] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 131: substituted, on 1 July 2009, by [section 38][502] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 131A Special provisions in cases involving sexual violation
     
 *   \[Repealed\]
     
-    Section 131A: repealed, on 1 July 2009, by [section 86][501] of the Court Martial Act 2007 (2007 No 101).
+    Section 131A: repealed, on 1 July 2009, by [section 86][503] of the Court Martial Act 2007 (2007 No 101).
 
 ##### 132 Power of Summary Appeal Court in respect of finding of guilty
     
@@ -5398,11 +5410,11 @@ Summary Appeal Court of New Zealand
     
     (5) In conducting a new trial of the charge, the disciplinary officer or the Court Martial (as the case may be) must have regard to the Summary Appeal Court's reasons for making an order under subsection (3)(b)(ii), and to the court's directions under subsection (4).
     
-    Section 132: substituted, on 1 July 2009, by [section 38][500] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 132: substituted, on 1 July 2009, by [section 38][502] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### Findings, etc, of courts-martial
     
-*   Heading: repealed, on 1 July 2009, by [section 86][501] of the Court Martial Act 2007 (2007 No 101).
+*   Heading: repealed, on 1 July 2009, by [section 86][503] of the Court Martial Act 2007 (2007 No 101).
 
 ##### 133 Power of Summary Appeal Court in respect of punishments
     
@@ -5440,7 +5452,7 @@ Summary Appeal Court of New Zealand
     
     *   (b) has effect as if imposed on the day on which the original punishment, or combination of punishments, was imposed.
     
-    Section 133: substituted, on 1 July 2009, by [section 38][500] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 133: substituted, on 1 July 2009, by [section 38][502] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 134 Power of Summary Appeal Court in respect of orders for compensation and restitution and orders to come up for punishment if called on
     
@@ -5506,7 +5518,7 @@ Summary Appeal Court of New Zealand
     
     *   (b) has effect as if made on the day on which the original order was made.
     
-    Section 134: substituted, on 1 July 2009, by [section 38][500] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 134: substituted, on 1 July 2009, by [section 38][502] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 135 Supplementary powers of Summary Appeal Court
     
@@ -5524,11 +5536,11 @@ Summary Appeal Court of New Zealand
     
     *   (c) issue any warrants necessary for enforcing the orders of, or punishments imposed by, the court.
     
-    Section 135: substituted, on 1 July 2009, by [section 38][500] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 135: substituted, on 1 July 2009, by [section 38][502] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### Decisions of Summary Appeal Court
     
-*   Heading: inserted, on 1 July 2009, by [section 38][500] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Heading: inserted, on 1 July 2009, by [section 38][502] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 136 Decisions of Summary Appeal Court final
     
@@ -5536,11 +5548,11 @@ Summary Appeal Court of New Zealand
     
     (2) The Summary Appeal Court must state its reasons in writing for a decision on any appeal under this Part.
     
-    Section 136: substituted, on 1 July 2009, by [section 38][500] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 136: substituted, on 1 July 2009, by [section 38][502] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### Sittings of Summary Appeal Court
     
-*   Heading: inserted, on 1 July 2009, by [section 38][500] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Heading: inserted, on 1 July 2009, by [section 38][502] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 137 Sittings of Summary Appeal Court
     
@@ -5556,7 +5568,7 @@ Summary Appeal Court of New Zealand
     
     (3) A sitting of the Summary Appeal Court may be adjourned from time to time and from place to place.
     
-    Section 137: substituted, on 1 July 2009, by [section 38][500] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 137: substituted, on 1 July 2009, by [section 38][502] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 138 When Summary Appeal Court must hold proceedings in closed court
     
@@ -5570,7 +5582,7 @@ Summary Appeal Court of New Zealand
     
     *   (b) any other persons authorised by the Judge.
     
-    Section 138: substituted, on 1 July 2009, by [section 38][500] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 138: substituted, on 1 July 2009, by [section 38][502] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 139 Summary Appeal Court may limit scope of open court
     
@@ -5624,11 +5636,11 @@ Summary Appeal Court of New Zealand
     
     *   (c) if it is made permanently, may be reviewed by the Summary Appeal Court at any time.
     
-    Section 139: substituted, on 1 July 2009, by [section 38][500] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 139: substituted, on 1 July 2009, by [section 38][502] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### Miscellaneous procedural provisions
     
-*   Heading: substituted, on 1 July 2009, by [section 38][500] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Heading: substituted, on 1 July 2009, by [section 38][502] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 140 Right of appellant to present his or her case in writing and restricted right of appellant to be present
     
@@ -5646,7 +5658,7 @@ Summary Appeal Court of New Zealand
     
     (5) A power of the Summary Appeal Court under this Part may be exercised despite the absence of the appellant.
     
-    Section 140: substituted, on 1 July 2009, by [section 38][500] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 140: substituted, on 1 July 2009, by [section 38][502] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 141 Defence of appeals and representation of appellant
     
@@ -5654,7 +5666,7 @@ Summary Appeal Court of New Zealand
     
     (2) An appellant under this Part may be represented by a lawyer.
     
-    Section 141: substituted, on 1 July 2009, by [section 38][500] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 141: substituted, on 1 July 2009, by [section 38][502] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 142 Costs of appeal
     
@@ -5670,21 +5682,21 @@ Summary Appeal Court of New Zealand
     
     *   (d) the expenses of any person appointed as assessor to the Summary Appeal Court.
     
-    Section 142: substituted, on 1 July 2009, by [section 38][500] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 142: substituted, on 1 July 2009, by [section 38][502] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 143 Removal of prisoners for purposes of proceedings under this Part
     
-*   Provision may be made by orders made by the Chief of Defence Force, or by regulations made under the [Corrections Act 2004][416], as to the manner in which an appellant, when in custody, is to be---
+*   Provision may be made by orders made by the Chief of Defence Force, or by regulations made under the [Corrections Act 2004][417], as to the manner in which an appellant, when in custody, is to be---
         
     *   (a) taken to, kept in custody at, and brought back from any place at which he or she is entitled to be present for the purposes of this Part; or
     
     *   (b) taken to any place to which the Summary Appeal Court may order him or her to be taken for the purpose of any hearing or proceedings of the court.
     
-    Section 143: substituted, on 1 July 2009, by [section 38][500] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 143: substituted, on 1 July 2009, by [section 38][502] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### Contempt of courts-martial
     
-*   Heading: repealed, on 1 July 2009, by [section 86][501] of the Court Martial Act 2007 (2007 No 101).
+*   Heading: repealed, on 1 July 2009, by [section 86][503] of the Court Martial Act 2007 (2007 No 101).
 
 ##### 144 Duties of Registrar with respect to appeals
     
@@ -5698,41 +5710,41 @@ Summary Appeal Court of New Zealand
     
     (2) Every person in charge of a place referred to in subsection (1)(c) must cause the forms and instructions to be placed at the disposal of persons detained in that place who desire to lodge a notice of appeal under this Part.
     
-    Section 144: substituted, on 1 July 2009, by [section 38][500] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 144: substituted, on 1 July 2009, by [section 38][502] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ## Part 6  
 Courts-martial
 
 \[Repealed\]
     
-*   Part 6: repealed, on 1 July 2009, by [section 86][501] of the Court Martial Act 2007 (2007 No 101).
+*   Part 6: repealed, on 1 July 2009, by [section 86][503] of the Court Martial Act 2007 (2007 No 101).
 
 ## Part 7  
 Other provisions relating to proceedings generally
     
-*   Part 7 heading: substituted, on 1 July 2009, by [section 39][502] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Part 7 heading: substituted, on 1 July 2009, by [section 39][504] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 145 Application of subpart 3 of Part 5 of the Criminal Procedure Act 2011 to proceedings under this Act
     
-*   [Subpart 3][503] of Part 5 of the Criminal Procedure Act 2011 applies to the extent that it is applicable and with all necessary modifications, to proceedings under this Act and to proceedings on appeal from any decision under this Act.
+*   [Subpart 3][505] of Part 5 of the Criminal Procedure Act 2011 applies to the extent that it is applicable and with all necessary modifications, to proceedings under this Act and to proceedings on appeal from any decision under this Act.
     
-    Section 145: substituted, on 1 July 2009, by [section 40][504] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 145: substituted, on 1 July 2009, by [section 40][506] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 145 heading: amended, on 5 March 2012 (applying in relation to a proceeding for an offence that was commenced before that date), by [section 393][505] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 145 heading: amended, on 5 March 2012 (applying in relation to a proceeding for an offence that was commenced before that date), by [section 393][507] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 145: amended, on 5 March 2012 (applying in relation to a proceeding for an offence that was commenced before that date), by [section 393][505] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 145: amended, on 5 March 2012 (applying in relation to a proceeding for an offence that was commenced before that date), by [section 393][507] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 146 Witnesses may be compelled to attend courts-martial, etc
     
 *   \[Repealed\]
     
-    Section 146: repealed, on 1 July 2009, by [section 41][506] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 146: repealed, on 1 July 2009, by [section 41][508] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 147 Evidence in proceedings under this Act
     
 *   \[Repealed\]
     
-    Section 147: repealed, on 1 July 2009, by [section 41][506] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 147: repealed, on 1 July 2009, by [section 41][508] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 148 Evidence of civil conviction or acquittal
     
@@ -5752,11 +5764,11 @@ Other provisions relating to proceedings generally
     
 *   \[Repealed\]
     
-    Section 149: repealed, on 1 July 2009, by [section 42][507] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 149: repealed, on 1 July 2009, by [section 42][509] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### Rules of procedure
     
-*   Heading: inserted, on 1 July 2009, by [section 43][508] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Heading: inserted, on 1 July 2009, by [section 43][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 150 Rules of procedure
     
@@ -5774,7 +5786,7 @@ Other provisions relating to proceedings generally
     
     *   (f) providing for the withdrawal of an election for trial by the Court Martial, including providing for when and how that withdrawal may be made and how that withdrawal must be dealt with:
     
-    *   (g) prescribing information, documents, and forms for the purposes of any provision of this Act, the rules of procedure, or the [Court Martial Act 2007][421]:
+    *   (g) prescribing information, documents, and forms for the purposes of any provision of this Act, the rules of procedure, or the [Court Martial Act 2007][422]:
     
     *   (h) authorising the Chief of Defence Force to prescribe the information, documents, and forms referred to in paragraph (g):
     
@@ -5790,33 +5802,33 @@ Other provisions relating to proceedings generally
     
     *   (n) providing for the recording of pleas in relation to charges before the Court Martial (including the recording of a plea of guilty before a Judge sitting alone) and the circumstances in which a plea may be accepted:
     
-    *   (o) providing for the procedure to be observed in new trials by disciplinary officers or the Court Martial directed to be held under any provision of this Act or of the [Court Martial Appeals Act 1953][492]:
+    *   (o) providing for the procedure to be observed in new trials by disciplinary officers or the Court Martial directed to be held under any provision of this Act or of the [Court Martial Appeals Act 1953][494]:
     
     *   (p) empowering the Director of Military Prosecutions, with the leave of a Judge, in such cases and to such extent as the rules specify, to amend a charge before the Court Martial:
     
     *   (q) specifying any matter referred to in [section 87A(1)][106] in relation to the suspension of orders for compensation; and providing for the retention of deductions from pay made pursuant to any order for compensation while the order is suspended:
     
-    *   (r) specifying any matter referred to in [section 87A(1)][106] in relation to the suspension of orders for restitution and the suspension in certain cases of the provisions of [section 26(1)][477] of the Sale of Goods Act 1908; and providing for the retention and safe custody of any property to which any order for restitution or those provisions apply while the order or the operation of those provisions is suspended:
+    *   (r) specifying any matter referred to in [section 87A(1)][106] in relation to the suspension of orders for restitution and the suspension in certain cases of the provisions of [section 26(1)][479] of the Sale of Goods Act 1908; and providing for the retention and safe custody of any property to which any order for restitution or those provisions apply while the order or the operation of those provisions is suspended:
     
     *   (s) \[Repealed\]
     
     *   (t) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect, in relation to the investigation, trial, and punishment of offences against this Act.
     
-    Section 150: substituted, on 1 July 2009, by [section 43][508] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 150: substituted, on 1 July 2009, by [section 43][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 150(k): substituted, on 7 July 2010, by [section 9(1)][509] of the Armed Forces Discipline Amendment Act 2010 (2010 No 48).
+    Section 150(k): substituted, on 7 July 2010, by [section 9(1)][511] of the Armed Forces Discipline Amendment Act 2010 (2010 No 48).
     
-    Section 150(s): repealed, on 7 July 2010, by [section 9(2)][509] of the Armed Forces Discipline Amendment Act 2010 (2010 No 48).
+    Section 150(s): repealed, on 7 July 2010, by [section 9(2)][511] of the Armed Forces Discipline Amendment Act 2010 (2010 No 48).
 
 #### Protection from civil liability, privileges, and immunities
     
-*   Heading: inserted, on 1 July 2009, by [section 43][508] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Heading: inserted, on 1 July 2009, by [section 43][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 150A Protection from civil liability
     
 *   No civil proceedings may be brought against a military tribunal or court of inquiry and, as the case may be, any of its members for anything done or omitted to be done, or for any words spoken or written, in good faith, at, or for the purposes of, any proceedings before that tribunal or court of inquiry under this Act.
     
-    Section 150A: inserted, on 1 July 2009, by [section 43][508] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 150A: inserted, on 1 July 2009, by [section 43][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 150B Privileges and immunities of witnesses and of certain other persons appearing before military tribunals and courts of inquiry
     
@@ -5832,11 +5844,11 @@ Other provisions relating to proceedings generally
     
     *   (e) every interpreter appearing before a military tribunal or court of inquiry.
     
-    Section 150B: inserted, on 1 July 2009, by [section 43][508] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 150B: inserted, on 1 July 2009, by [section 43][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### Power to summon witnesses
     
-*   Heading: inserted, on 1 July 2009, by [section 43][508] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Heading: inserted, on 1 July 2009, by [section 43][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 150C Power to summon witnesses
     
@@ -5866,7 +5878,7 @@ Other provisions relating to proceedings generally
         
         
     
-    Section 150C: inserted, on 1 July 2009, by [section 43][508] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 150C: inserted, on 1 July 2009, by [section 43][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 150D Service of summons
     
@@ -5884,11 +5896,11 @@ Other provisions relating to proceedings generally
     
     (3) If the summons is posted by registered letter, it is deemed for the purposes of subsection (2)(b) to be served at the time when the letter would be delivered in the ordinary course of post.
     
-    Section 150D: inserted, on 1 July 2009, by [section 43][508] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 150D: inserted, on 1 July 2009, by [section 43][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### Contempt
     
-*   Heading: inserted, on 1 July 2009, by [section 43][508] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Heading: inserted, on 1 July 2009, by [section 43][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 150E Contempt of military tribunal or court of inquiry
     
@@ -5918,7 +5930,7 @@ Other provisions relating to proceedings generally
     
     *   (i) interrupts the proceedings of the military tribunal or court of inquiry or otherwise misbehaves during the proceedings.
     
-    Section 150E: inserted, on 1 July 2009, by [section 43][508] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 150E: inserted, on 1 July 2009, by [section 43][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 150F District Court may deal with person who has committed contempt
     
@@ -5946,7 +5958,7 @@ Other provisions relating to proceedings generally
     
     (5) The penalty for contempt of a military tribunal or court of inquiry is imprisonment for a term not exceeding 1 month or a fine not exceeding $1,000, or both.
     
-    Section 150F: inserted, on 1 July 2009, by [section 43][508] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 150F: inserted, on 1 July 2009, by [section 43][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 150G Contempt by counsel
     
@@ -5968,12 +5980,12 @@ Other provisions relating to proceedings generally
     
     (2) This section does not limit [sections 150E][281] and [150F][282].
     
-    Section 150G: inserted, on 1 July 2009, by [section 43][508] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 150G: inserted, on 1 July 2009, by [section 43][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ## Part 8  
 Reconsideration of sentences of imprisonment or detention
     
-*   Part 8: substituted, on 1 July 2009, by [section 44][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Part 8: substituted, on 1 July 2009, by [section 44][512] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 151 Reconsidering Authority established
     
@@ -5989,7 +6001,7 @@ Reconsideration of sentences of imprisonment or detention
     
     (4) The powers of the Authority are not affected by any vacancy in its membership.
     
-    Section 151: substituted, on 1 July 2009, by [section 44][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 151: substituted, on 1 July 2009, by [section 44][512] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 152 Functions and powers of Authority
     
@@ -6007,7 +6019,7 @@ Reconsideration of sentences of imprisonment or detention
     
     (5) Subsection (4) does not limit or affect [section 177][322] or [179][325].
     
-    Section 152: substituted, on 1 July 2009, by [section 44][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 152: substituted, on 1 July 2009, by [section 44][512] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 153 Petition for reconsideration
     
@@ -6021,7 +6033,7 @@ Reconsideration of sentences of imprisonment or detention
     
     (3) The officer in charge of that place must forward the petition to the Authority as soon as practicable after receiving it.
     
-    Section 153: substituted, on 1 July 2009, by [section 44][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 153: substituted, on 1 July 2009, by [section 44][512] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 154 Authority must consider petition for reconsideration
     
@@ -6029,9 +6041,9 @@ Reconsideration of sentences of imprisonment or detention
     
     (2) However, if the Authority remits a punishment or part of a punishment, it must not make a decision that has the effect of imposing a punishment more severe than the punishment that had effect before that remission.
     
-    Section 154: substituted, on 1 July 2009, by [section 44][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 154: substituted, on 1 July 2009, by [section 44][512] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 154(2): substituted, on 7 July 2010, by [section 10][511] of the Armed Forces Discipline Amendment Act 2010 (2010 No 48).
+    Section 154(2): substituted, on 7 July 2010, by [section 10][513] of the Armed Forces Discipline Amendment Act 2010 (2010 No 48).
 
 ##### 155 Procedure for reconsideration
     
@@ -6051,7 +6063,7 @@ Reconsideration of sentences of imprisonment or detention
     
     (4) If the service prisoner or detainee does not request a hearing under subsection (2)(a), the Authority must conduct the reconsideration of the sentence by way of a hearing on the papers.
     
-    Section 155: substituted, on 1 July 2009, by [section 44][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 155: substituted, on 1 July 2009, by [section 44][512] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 156 Authority may call for written reports and hear evidence
     
@@ -6061,7 +6073,7 @@ Reconsideration of sentences of imprisonment or detention
     
     *   (b) may hear evidence if a hearing is held.
     
-    Section 156: substituted, on 1 July 2009, by [section 44][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 156: substituted, on 1 July 2009, by [section 44][512] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 157 Authority may regulate its procedure
     
@@ -6069,7 +6081,7 @@ Reconsideration of sentences of imprisonment or detention
     
     (2) If it is necessary for the Authority to vote on any matter in order to reach a decision, each member of the Authority has 1 vote and the matter must be decided by a majority of votes.
     
-    Section 157: substituted, on 1 July 2009, by [section 44][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 157: substituted, on 1 July 2009, by [section 44][512] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 158 Power of Authority to remit whole or part of sentence
     
@@ -6085,7 +6097,7 @@ Reconsideration of sentences of imprisonment or detention
     
     (3) A decision of the Authority takes effect from the date of its promulgation.
     
-    Section 158: substituted, on 1 July 2009, by [section 44][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 158: substituted, on 1 July 2009, by [section 44][512] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 159 Chief Judge may delegate to Registrar of Court Martial duty to appoint Judge to Authority
     
@@ -6105,16 +6117,16 @@ Reconsideration of sentences of imprisonment or detention
     
     (4) If the Registrar of the Court Martial appears to act under subsection (1), he or she is presumed to be acting in accordance with the terms of delegation in the absence of evidence to the contrary.
     
-    Section 159: substituted, on 1 July 2009, by [section 44][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 159: substituted, on 1 July 2009, by [section 44][512] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ## Part 8A  
 Armed Forces Discipline Committee
     
-*   Part 8A: inserted, on 1 July 2009, by [section 44][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Part 8A: inserted, on 1 July 2009, by [section 44][512] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### Establishment of Armed Forces Discipline Committee
     
-*   Heading: inserted, on 1 July 2009, by [section 44][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Heading: inserted, on 1 July 2009, by [section 44][512] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 160 Armed Forces Discipline Committee established
     
@@ -6154,19 +6166,19 @@ Armed Forces Discipline Committee
     
     (5) The powers of the Discipline Committee are not affected by any vacancy in its membership.
     
-    Section 160: substituted, on 1 July 2009, by [section 44][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 160: substituted, on 1 July 2009, by [section 44][512] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 160A Reviewing authority to review decision to take other offences into consideration
     
 *   \[Repealed\]
     
-    Section 160A: repealed, on 1 July 2009, by [section 44][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 160A: repealed, on 1 July 2009, by [section 44][512] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 161 Purpose of Discipline Committee
     
 *   The purpose of the Discipline Committee is to produce sentencing guidelines for offences against this Act in order to ensure consistency in the sentencing practice of the Court Martial.
     
-    Section 161: substituted, on 1 July 2009, by [section 44][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 161: substituted, on 1 July 2009, by [section 44][512] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 162 Functions of Discipline Committee
     
@@ -6190,23 +6202,23 @@ Armed Forces Discipline Committee
     
     (2) In performing its functions, the Discipline Committee must ensure that any sentencing guidelines it produces are, to the extent that they are applicable, consistent with the following:
         
-    *   (a) the [Sentencing Act 2002][433]; and
+    *   (a) the [Sentencing Act 2002][435]; and
     
-    *   (b) any guidelines published by the Sentencing Council established under the [Sentencing Council Act 2007][512].
+    *   (b) any guidelines published by the Sentencing Council established under the [Sentencing Council Act 2007][514].
     
     (3) The Discipline Committee must carry out its functions independently of the Minister.
     
-    Section 162: substituted, on 1 July 2009, by [section 44][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 162: substituted, on 1 July 2009, by [section 44][512] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 163 Chief of Defence Force must publish sentencing guidelines
     
 *   The Chief of Defence Force must publish any sentencing guidelines produced by the Discipline Committee under this Part as Defence Force Orders.
     
-    Section 163: substituted, on 1 July 2009, by [section 44][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 163: substituted, on 1 July 2009, by [section 44][512] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### Administrative provisions relating to Discipline Committee
     
-*   Heading: inserted, on 1 July 2009, by [section 44][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Heading: inserted, on 1 July 2009, by [section 44][512] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 164 Appointed member
     
@@ -6224,7 +6236,7 @@ Armed Forces Discipline Committee
     
     (5) An appointed member may at any time be removed from office by written notice from the Judge Advocate General for inability to perform the functions of office, neglect of duty, or misconduct.
     
-    Section 164: substituted, on 1 July 2009, by [section 44][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 164: substituted, on 1 July 2009, by [section 44][512] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 165 Remuneration of members
     
@@ -6232,13 +6244,13 @@ Armed Forces Discipline Committee
     
     (2) An appointed member is entitled to receive the fees, allowances, and expenses for services as a member that are fixed or determined by or in accordance with regulations made under [section 205(1)(c)][386].
     
-    Section 165: substituted, on 1 July 2009, by [section 44][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 165: substituted, on 1 July 2009, by [section 44][512] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 166 Procedure of Discipline Committee generally
     
 *   The Discipline Committee may regulate its own procedures.
     
-    Section 166: substituted, on 1 July 2009, by [section 44][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 166: substituted, on 1 July 2009, by [section 44][512] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 166A Quorum for meetings
     
@@ -6250,13 +6262,13 @@ Armed Forces Discipline Committee
     
     (2) No business may be transacted at a meeting of the Discipline Committee if a quorum is not present.
     
-    Section 166A: inserted, on 1 July 2009, by [section 44][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 166A: inserted, on 1 July 2009, by [section 44][512] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 166B Other procedure at meetings
     
-*   Every written report submitted by the senior military member of the Court Martial under [section 34][513] of the Court Martial Act 2007 must be presented to the Discipline Committee at its next meeting after the date of the report.
+*   Every written report submitted by the senior military member of the Court Martial under [section 34][515] of the Court Martial Act 2007 must be presented to the Discipline Committee at its next meeting after the date of the report.
     
-    Section 166B: inserted, on 1 July 2009, by [section 44][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 166B: inserted, on 1 July 2009, by [section 44][512] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 166C Voting at meetings
     
@@ -6266,13 +6278,13 @@ Armed Forces Discipline Committee
     
     (3) A decision whether or not to finalise any sentencing guidelines must be decided by a majority vote of the Chief of Defence Force, the Judge Advocate General, and any other members present.
     
-    Section 166C: inserted, on 1 July 2009, by [section 44][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 166C: inserted, on 1 July 2009, by [section 44][512] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 166D Protection from liability
     
 *   No member of the Discipline Committee is personally liable for any act done or omitted to be done by the Committee in good faith in the performance or intended performance of its functions.
     
-    Section 166D: inserted, on 1 July 2009, by [section 44][510] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 166D: inserted, on 1 July 2009, by [section 44][512] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ## Part 9  
 Provisions relating to the carrying out of punishments
@@ -6281,13 +6293,13 @@ Provisions relating to the carrying out of punishments
 
 \[Repealed\]
     
-*   Heading: repealed, on 26 December 1989, pursuant to [section 5(1)][450] of the Abolition of the Death Penalty Act 1989 (1989 No 119).
+*   Heading: repealed, on 26 December 1989, pursuant to [section 5(1)][452] of the Abolition of the Death Penalty Act 1989 (1989 No 119).
 
 ##### 167 Execution of sentences of death
     
 *   \[Repealed\]
     
-    Section 167: repealed, on 26 December 1989, by [section 5(1)][450] of the Abolition of the Death Penalty Act 1989 (1989 No 119).
+    Section 167: repealed, on 26 December 1989, by [section 5(1)][452] of the Abolition of the Death Penalty Act 1989 (1989 No 119).
 
 #### Imprisonment and detention
 
@@ -6295,7 +6307,7 @@ Provisions relating to the carrying out of punishments
     
 *   (1) Every service prisoner sentenced to imprisonment under this Act shall serve the sentence in a prison, a service prison, detention quarter, or other service custody, or partly in one and partly in another.
     
-    (2) The [Parole Act 2002][514] does not apply to a service prisoner serving a sentence of imprisonment in a prison, except that [section 55][515] of that Act, which relates to deportation, does apply to such a service prisoner.
+    (2) The [Parole Act 2002][516] does not apply to a service prisoner serving a sentence of imprisonment in a prison, except that [section 55][517] of that Act, which relates to deportation, does apply to such a service prisoner.
     
     (2A) The sentence of a service prisoner who is serving a sentence of imprisonment in a prison must be reconsidered from time to time in accordance with [Part 8][284].
     
@@ -6313,21 +6325,21 @@ Provisions relating to the carrying out of punishments
     
     Compare: 1950 No 39 s 68(2), (3); 1950 No 40 s 68(2), (3); Naval Discipline Act 1957 s 81(1), (2) (UK)
     
-    Section 168(1): amended, on 1 June 2005, by [section 206][431] of the Corrections Act 2004 (2004 No 50).
+    Section 168(1): amended, on 1 June 2005, by [section 206][433] of the Corrections Act 2004 (2004 No 50).
     
-    Section 168(2): substituted, on 30 June 2002, by [section 125][516] of the Parole Act 2002 (2002 No 10).
+    Section 168(2): substituted, on 30 June 2002, by [section 125][518] of the Parole Act 2002 (2002 No 10).
     
-    Section 168(2): amended, on 1 June 2005, by [section 206][431] of the Corrections Act 2004 (2004 No 50).
+    Section 168(2): amended, on 1 June 2005, by [section 206][433] of the Corrections Act 2004 (2004 No 50).
     
-    Section 168(2A): inserted, on 30 June 2002, by [section 125][516] of the Parole Act 2002 (2002 No 10).
+    Section 168(2A): inserted, on 30 June 2002, by [section 125][518] of the Parole Act 2002 (2002 No 10).
     
-    Section 168(2A): amended, on 1 July 2009, by [section 45(1)][517] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 168(2A): amended, on 1 July 2009, by [section 45(1)][519] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 168(2A): amended, on 1 June 2005, by [section 206][431] of the Corrections Act 2004 (2004 No 50).
+    Section 168(2A): amended, on 1 June 2005, by [section 206][433] of the Corrections Act 2004 (2004 No 50).
     
-    Section 168(3): amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 168(3): amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
     
-    Section 168(3)(c): amended, on 1 July 2009, by [section 45(2)][517] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 168(3)(c): amended, on 1 July 2009, by [section 45(2)][519] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 169 Committal, removal, release, etc, of servicemen serving imprisonment or detention
     
@@ -6359,7 +6371,7 @@ Provisions relating to the carrying out of punishments
     
     *   (c) for the delivery into service custody of a service prisoner or service detainee.
     
-    (4) Without limiting the provisions of subsections (1) to (3), where any person has been convicted by the Court Martial under this Act and sentenced to imprisonment or detention or to be punished in any other manner, the Chief of Defence Force may, on the production to him of the original record of the proceedings of the Court Martial or of any copy certified in accordance with [section 76 ][518]of the Court Martial Act 2007, by warrant under his hand, order the person so convicted to be imprisoned, detained, or otherwise punished in accordance with the sentence.
+    (4) Without limiting the provisions of subsections (1) to (3), where any person has been convicted by the Court Martial under this Act and sentenced to imprisonment or detention or to be punished in any other manner, the Chief of Defence Force may, on the production to him of the original record of the proceedings of the Court Martial or of any copy certified in accordance with [section 76 ][520]of the Court Martial Act 2007, by warrant under his hand, order the person so convicted to be imprisoned, detained, or otherwise punished in accordance with the sentence.
     
     (5) Where the sentence of any service prisoner or detainee is remitted, he shall be released as soon as practicable thereafter by order of a competent service authority.
     
@@ -6369,27 +6381,27 @@ Provisions relating to the carrying out of punishments
     
     Section 169(1): substituted, on 1 December 1983, by section 14 of the Armed Forces Discipline Amendment Act 1980 (1980 No 37).
     
-    Section 169(1)(a): amended, on 1 June 2005, by [section 206][431] of the Corrections Act 2004 (2004 No 50).
+    Section 169(1)(a): amended, on 1 June 2005, by [section 206][433] of the Corrections Act 2004 (2004 No 50).
     
-    Section 169(2): amended, on 1 July 2009, by [section 46(1)][519] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 169(2): amended, on 1 July 2009, by [section 46(1)][521] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 169(3)(a)(i): amended, on 1 June 2005, by [section 206][431] of the Corrections Act 2004 (2004 No 50).
+    Section 169(3)(a)(i): amended, on 1 June 2005, by [section 206][433] of the Corrections Act 2004 (2004 No 50).
     
-    Section 169(3)(a)(ii): amended, on 1 June 2005, by [section 206][431] of the Corrections Act 2004 (2004 No 50).
+    Section 169(3)(a)(ii): amended, on 1 June 2005, by [section 206][433] of the Corrections Act 2004 (2004 No 50).
     
-    Section 169(3)(a)(iii): amended, on 1 June 2005, by [section 206][431] of the Corrections Act 2004 (2004 No 50).
+    Section 169(3)(a)(iii): amended, on 1 June 2005, by [section 206][433] of the Corrections Act 2004 (2004 No 50).
     
-    Section 169(3)(a)(iv): amended, on 1 June 2005, by [section 206][431] of the Corrections Act 2004 (2004 No 50).
+    Section 169(3)(a)(iv): amended, on 1 June 2005, by [section 206][433] of the Corrections Act 2004 (2004 No 50).
     
-    Section 169(3)(a)(v): amended, on 1 June 2005, by [section 206][431] of the Corrections Act 2004 (2004 No 50).
+    Section 169(3)(a)(v): amended, on 1 June 2005, by [section 206][433] of the Corrections Act 2004 (2004 No 50).
     
-    Section 169(4): amended, on 1 July 2009, by [section 46(2)(a)][519] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 169(4): amended, on 1 July 2009, by [section 46(2)(a)][521] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 169(4): amended, on 1 July 2009, by [section 46(2)(b)][519] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 169(4): amended, on 1 July 2009, by [section 46(2)(b)][521] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 169(4): amended, on 1 July 2009, by [section 46(2)(c)][519] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 169(4): amended, on 1 July 2009, by [section 46(2)(c)][521] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Seciton 169(4): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Seciton 169(4): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
 
 ##### 170 Duty of prison managers, etc, to receive service prisoners
     
@@ -6399,13 +6411,13 @@ Provisions relating to the carrying out of punishments
     
     Compare: 1950 No 39 s 72; 1950 No 40 s 72; Army Act 1955 s 129 (UK); Air Force Act 1955 s 129 (UK); Naval Discipline Act 1957 s 107 (UK)
     
-    Section 170 heading: amended, on 1 June 2005, pursuant to [section 206][431] of the Corrections Act 2004 (2004 No 50).
+    Section 170 heading: amended, on 1 June 2005, pursuant to [section 206][433] of the Corrections Act 2004 (2004 No 50).
     
-    Section 170(1): amended, on 1 June 2005, by [section 206][431] of the Corrections Act 2004 (2004 No 50).
+    Section 170(1): amended, on 1 June 2005, by [section 206][433] of the Corrections Act 2004 (2004 No 50).
     
-    Section 170(2): amended, on 1 October 2008, pursuant to[section 116(a)(iv)][481] of the Policing Act 2008 (2008 No 72).
+    Section 170(2): amended, on 1 October 2008, pursuant to[section 116(a)(iv)][483] of the Policing Act 2008 (2008 No 72).
     
-    Section 170(2): amended, on 1 June 2005, by [section 206][431] of the Corrections Act 2004 (2004 No 50).
+    Section 170(2): amended, on 1 June 2005, by [section 206][433] of the Corrections Act 2004 (2004 No 50).
 
 ##### 171 Places in which sentences of imprisonment or detention may be served
     
@@ -6439,17 +6451,17 @@ Provisions relating to the carrying out of punishments
     
     Compare: 1950 No 39 s 69; 1950 No 40 s 69; Army Act 1955 s 127 (UK); Air Force Act 1955 s 127 (UK); Naval Discipline Act 1957 s 81 (UK)
     
-    Section 171(3) proviso: amended, on 1 July 2009, by [section 47][520] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 171(3) proviso: amended, on 1 July 2009, by [section 47][522] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 171(3) proviso: amended, on 1 June 2005, by [section 206][431] of the Corrections Act 2004 (2004 No 50).
+    Section 171(3) proviso: amended, on 1 June 2005, by [section 206][433] of the Corrections Act 2004 (2004 No 50).
     
-    Section 171(4)(a) proviso: amended, on 1 June 2005, by [section 206][431] of the Corrections Act 2004 (2004 No 50).
+    Section 171(4)(a) proviso: amended, on 1 June 2005, by [section 206][433] of the Corrections Act 2004 (2004 No 50).
 
 ##### 172 Imprisonment and detention of members of other forces attached to Armed Forces
     
 *   (1) This section applies if---
         
-    *   (a) a member of the armed forces of another State is attached to any Service under [section 23A][440] of the Defence Act 1990 and is sentenced by the Court Martial under this Act to imprisonment or detention; and
+    *   (a) a member of the armed forces of another State is attached to any Service under [section 23A][442] of the Defence Act 1990 and is sentenced by the Court Martial under this Act to imprisonment or detention; and
     
     *   (b) an arrangement is for the time being in force with the appropriate authority of that State that enables the return of the member for the purpose of serving any such sentence in that State.
     
@@ -6461,15 +6473,15 @@ Provisions relating to the carrying out of punishments
     
     (5) Any such member may during his or her transfer from one place to another, whether on board a ship or an aircraft or other means of transport, be subjected only to such restraint as may be necessary to ensure his or her safe conduct and removal.
     
-    Section 172: substituted, on 1 July 2004, by [section 26][430] of the Visiting Forces Act 2004 (2004 No 59).
+    Section 172: substituted, on 1 July 2004, by [section 26][432] of the Visiting Forces Act 2004 (2004 No 59).
     
-    Section 172(1)(a): amended, on 1 July 2009, by [section 48][521] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 172(1)(a): amended, on 1 July 2009, by [section 48][523] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 173 Imprisonment and detention of members of Armed Forces attached to other forces
     
 *   (1) This section applies if---
         
-    *   (a) a member of the Armed Forces is attached to the forces of another State under [section 23][522] of the Defence Act 1990 and is sentenced by court-martial of those forces to imprisonment or detention; and
+    *   (a) a member of the Armed Forces is attached to the forces of another State under [section 23][524] of the Defence Act 1990 and is sentenced by court-martial of those forces to imprisonment or detention; and
     
     *   (b) an arrangement is for the time being in force with the appropriate authority in that State that enables the return of the member to serve his or her sentence---
             
@@ -6483,11 +6495,11 @@ Provisions relating to the carrying out of punishments
     
     (2) The provisions of this Act apply to that member in all respects, with the necessary modifications, as if the member had been sentenced by the Court Martial under this Act.
     
-    Section 173: substituted, on 1 July 2004, by [section 26][430] of the Visiting Forces Act 2004 (2004 No 59).
+    Section 173: substituted, on 1 July 2004, by [section 26][432] of the Visiting Forces Act 2004 (2004 No 59).
     
-    Section 173(1)(b)(ii): amended, on 1 June 2005, by [section 206][431] of the Corrections Act 2004 (2004 No 50).
+    Section 173(1)(b)(ii): amended, on 1 June 2005, by [section 206][433] of the Corrections Act 2004 (2004 No 50).
     
-    Section 173(2): amended, on 1 July 2009, by [section 49][523] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 173(2): amended, on 1 July 2009, by [section 49][525] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 174 Interim custody of serviceman serving imprisonment or detention
     
@@ -6495,7 +6507,7 @@ Provisions relating to the carrying out of punishments
     
     Compare: 1950 No 39 s 70; 1950 No 40 s 70; Naval Discipline Act 1957 s 81(3) (UK)
     
-    Section 174: amended, on 1 June 2005, by [section 206][431] of the Corrections Act 2004 (2004 No 50).
+    Section 174: amended, on 1 June 2005, by [section 206][433] of the Corrections Act 2004 (2004 No 50).
 
 ##### 175 Establishment and regulation of service prisons and detention quarters
     
@@ -6539,21 +6551,21 @@ Provisions relating to the carrying out of punishments
     
     *   (k) for such matters as are contemplated by or necessary for the administration of any service penal establishment.
     
-    (3) All the provisions of the regulations made under the [Corrections Act 2004][416] as to the duties of prison managers and medical officers, and all the provisions of that Act and of the [Coroners Act 2006][524] and of any regulations made under those Acts as to the duties of coroners with respect to inquests in prisons, shall be contained in orders made under this section, so far as they can be made applicable.
+    (3) All the provisions of the regulations made under the [Corrections Act 2004][417] as to the duties of prison managers and medical officers, and all the provisions of that Act and of the [Coroners Act 2006][526] and of any regulations made under those Acts as to the duties of coroners with respect to inquests in prisons, shall be contained in orders made under this section, so far as they can be made applicable.
     
     Compare: 1950 No 39 s 73; 1950 No 40 s 73; Army Act 1955 s 122 (UK); Air Force Act 1955 s 122 (UK); Naval Discipline Act 1957 s 82 (UK)
     
-    Section 175(1): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 175(1): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 175(2): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 175(2): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 175(2)(a): amended, on 1 July 2009, by [section 50][525] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 175(2)(a): amended, on 1 July 2009, by [section 50][527] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 175(2)(g): amended, on 1 June 2005, by [section 206][431] of the Corrections Act 2004 (2004 No 50).
+    Section 175(2)(g): amended, on 1 June 2005, by [section 206][433] of the Corrections Act 2004 (2004 No 50).
     
-    Section 175(3): amended, on 1 July 2007, by [section 146][526] of the Coroners Act 2006 (2006 No 38).
+    Section 175(3): amended, on 1 July 2007, by [section 146][528] of the Coroners Act 2006 (2006 No 38).
     
-    Section 175(3): amended, on 1 June 2005, by [section 206][431] of the Corrections Act 2004 (2004 No 50).
+    Section 175(3): amended, on 1 June 2005, by [section 206][433] of the Corrections Act 2004 (2004 No 50).
 
 ##### 176 Provisions as to service prisons and detention quarters outside New Zealand
     
@@ -6561,7 +6573,7 @@ Provisions relating to the carrying out of punishments
     
     Compare: 1950 No 39 s 74; 1950 No 40 s 74
     
-    Section 176: amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 176: amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
 
 ##### 177 Commencement of sentences
     
@@ -6585,29 +6597,29 @@ Provisions relating to the carrying out of punishments
     
     Compare: 1950 No 39 s 68; 1950 No 40 s 68; Army Act 1955 s 118 (UK); Air Force Act 1955 s 118 (UK); Naval Discipline Act 1957 s 85 (UK)
     
-    Section 177(1): substituted, on 1 July 2009, by [section 51(1)][527] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 177(1): substituted, on 1 July 2009, by [section 51(1)][529] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 177(1A): inserted, on 1 July 2009, by [section 51(1)][527] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 177(1A): inserted, on 1 July 2009, by [section 51(1)][529] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 177(2): amended, on 1 June 2005, by [section 206][431] of the Corrections Act 2004 (2004 No 50).
+    Section 177(2): amended, on 1 June 2005, by [section 206][433] of the Corrections Act 2004 (2004 No 50).
     
     Section 177(3): added, on 1 January 1986, by section 32 of the Armed Forces Discipline Amendment Act 1985 (1985 No 199).
     
-    Section 177(3)(a): amended, on 1 July 2009, by [section 51(2)][527] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 177(3)(a): amended, on 1 July 2009, by [section 51(2)][529] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 177A Effect of period spent in custody before being sentenced
     
-*   (1) For the purpose of determining the date on which an offender will become eligible for remission of sentence, the offender shall be deemed to have been serving the sentence during the whole of any period that the offender was held in custody, as is required to be specified on the committal order by the Court Martial under [section 81A][99] or by a disciplinary officer under [section 117Y][528].
+*   (1) For the purpose of determining the date on which an offender will become eligible for remission of sentence, the offender shall be deemed to have been serving the sentence during the whole of any period that the offender was held in custody, as is required to be specified on the committal order by the Court Martial under [section 81A][99] or by a disciplinary officer under [section 117Y][530].
     
     (2) Nothing in this section shall limit or affect the provisions of [section 177][322] or [section 179][325].
     
     Section 177A: inserted, on 27 May 1988, by section 19(1) of the Armed Forces Discipline Amendment Act 1988 (1988 No 89).
     
-    Section 177A heading: amended, on 27 September 2001, by [section 7(1)][529] of the Armed Forces Discipline Amendment Act 2001 (2001 No 55).
+    Section 177A heading: amended, on 27 September 2001, by [section 7(1)][531] of the Armed Forces Discipline Amendment Act 2001 (2001 No 55).
     
-    Section 177A(1): amended, on 1 July 2009, by [section 52][530] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 177A(1): amended, on 1 July 2009, by [section 52][532] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 177A(1): amended, on 27 September 2001, by [section 7(2)][529] of the Armed Forces Discipline Amendment Act 2001 (2001 No 55).
+    Section 177A(1): amended, on 27 September 2001, by [section 7(2)][531] of the Armed Forces Discipline Amendment Act 2001 (2001 No 55).
 
 ##### 178 Consecutive sentences
     
@@ -6649,27 +6661,27 @@ Provisions relating to the carrying out of punishments
     
     Section 178: substituted, on 1 January 1986, by section 33 of the Armed Forces Discipline Amendment Act 1985 (1985 No 199).
     
-    Section 178(1): amended, on 1 July 2009, by [section 53(1)][531] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 178(1): amended, on 1 July 2009, by [section 53(1)][533] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 178(1): amended, on 1 July 2009, by [section 53(2)][531] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 178(1): amended, on 1 July 2009, by [section 53(2)][533] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 178(2): amended, on 1 July 2009, by [section 53(3)][531] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 178(2): amended, on 1 July 2009, by [section 53(3)][533] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 178(2)(a): amended, on 1 July 2009, by [section 53(4)][531] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 178(2)(a): amended, on 1 July 2009, by [section 53(4)][533] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 178(3): amended, on 1 July 2009, by [section 53(3)][531] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 178(3): amended, on 1 July 2009, by [section 53(3)][533] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 178(3)(a): amended, on 1 July 2009, by [section 53(4)][531] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 178(3)(a): amended, on 1 July 2009, by [section 53(4)][533] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 178(4): amended, on 1 July 2009, by [section 53(5)][531] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 178(4): amended, on 1 July 2009, by [section 53(5)][533] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 178(5): amended, on 1 July 2009, by [section 53(6)][531] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 178(5): amended, on 1 July 2009, by [section 53(6)][533] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 178(5)(a): amended, on 1 July 2009, by [section 53(4)][531] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 178(5)(a): amended, on 1 July 2009, by [section 53(4)][533] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 178(6): amended, on 1 July 2009, by [section 53(6)][531] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 178(6): amended, on 1 July 2009, by [section 53(6)][533] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 178(6)(a): amended, on 1 July 2009, by [section 53(4)][531] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 178(6)(a): amended, on 1 July 2009, by [section 53(4)][533] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 179 Limitation of term of detention under 1 or more sentences
     
@@ -6687,7 +6699,7 @@ Provisions relating to the carrying out of punishments
     
     Compare: 1950 No 39 s 64(5); 1950 No 40 s 64(5); Army Act 1955 s 72(10), (11) (UK); Air Force Act 1955 s 72(10), (11) (UK); Naval Discipline Act 1957 s 89 (UK)
     
-    Section 179(2): amended, on 1 July 2009, by [section 54][532] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 179(2): amended, on 1 July 2009, by [section 54][534] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 180 Periods of unlawful absence
     
@@ -6699,25 +6711,25 @@ Provisions relating to the carrying out of punishments
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 July 2009, by [section 55][533] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Heading: repealed, on 1 July 2009, by [section 55][535] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 181 Effect of suspension of sentences
     
 *   \[Repealed\]
     
-    Section 181: repealed, on 1 July 2009, by [section 55][533] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 181: repealed, on 1 July 2009, by [section 55][535] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 182 Termination of suspension of sentence
     
 *   \[Repealed\]
     
-    Section 182: repealed, on 1 July 2009, by [section 55][533] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 182: repealed, on 1 July 2009, by [section 55][535] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 183 Offender under suspended sentence convicted or found guilty of further offence
     
 *   \[Repealed\]
     
-    Section 183: repealed, on 1 July 2009, by [section 55][533] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 183: repealed, on 1 July 2009, by [section 55][535] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### Prison officers, etc
 
@@ -6727,7 +6739,7 @@ Provisions relating to the carrying out of punishments
     
     Compare: Army Act 1955 s 142 (UK); Air Force Act 1955 s 142 (UK)
     
-    Section 184: amended, on 1 October 2008, pursuant to[section 116(a)(ii)][481] of the Policing Act 2008 (2008 No 72).
+    Section 184: amended, on 1 October 2008, pursuant to[section 116(a)(ii)][483] of the Policing Act 2008 (2008 No 72).
 
 #### Fines
 
@@ -6737,17 +6749,17 @@ Provisions relating to the carrying out of punishments
     
     (1A) Subsection (1) does not limit [section 85][103].
     
-    (2) Once a certificate under subsection (1) is filed, the fine may be enforced in accordance with [Part 3][534] of the Summary Proceedings Act 1957\.
+    (2) Once a certificate under subsection (1) is filed, the fine may be enforced in accordance with [Part 3][536] of the Summary Proceedings Act 1957\.
     
     Compare: 1950 No 39 s 156; 1950 No 40 s 156; 1954 No 53 s 56
     
-    Section 185 heading: amended, on 1 April 1980, pursuant to [section 18(2)][535] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 185 heading: amended, on 1 April 1980, pursuant to [section 18(2)][537] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 185(1): substituted, on 1 July 2009, by [section 56(1)][536] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 185(1): substituted, on 1 July 2009, by [section 56(1)][538] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 185(1A): inserted, on 1 July 2009, by [section 56(1)][536] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 185(1A): inserted, on 1 July 2009, by [section 56(1)][538] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 185(2): replaced, on 1 July 2013, by [section 413][426] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 185(2): replaced, on 1 July 2013, by [section 413][428] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 186 Fines to be paid into Crown Bank Account
     
@@ -6755,9 +6767,9 @@ Provisions relating to the carrying out of punishments
     
     Compare: 1950 No 39 s 157(1); 1950 No 40 s 157; 1954 No 53 s 57
     
-    Section 186 heading: amended (with effect from 1 July 1989), on 26 July 1989, pursuant to [section 83(7)][537] of the Public Finance Act 1989 (1989 No 44).
+    Section 186 heading: amended (with effect from 1 July 1989), on 26 July 1989, pursuant to [section 83(7)][539] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 186: amended, on 25 January 2005, pursuant to [section 83(7)][537] of the Public Finance Act 1989 (1989 No 44).
+    Section 186: amended, on 25 January 2005, pursuant to [section 83(7)][539] of the Public Finance Act 1989 (1989 No 44).
     
     Section 186: amended, on 1 December 1983, by section 2(2) of the Armed Forces Discipline Amendment Act 1976 (1976 No 13).
 
@@ -6775,35 +6787,35 @@ Provisions relating to the carrying out of punishments
     
     (4) An award of compensation under this section shall not affect the right of the person entitled to it---
         
-    *   (a) to receive compensation under the [Injury Prevention, Rehabilitation, and Compensation Act 2001][538]; and
+    *   (a) to receive compensation under the [Injury Prevention, Rehabilitation, and Compensation Act 2001][540]; and
     
-    *   (b) subject to [section 317][539] of that Act, to recover by civil proceedings damages in excess of the amount of the award.
+    *   (b) subject to [section 317][541] of that Act, to recover by civil proceedings damages in excess of the amount of the award.
     
     Section 186A: inserted, on 1 December 1983, by section 2(1) of the Armed Forces Discipline Amendment Act 1976 (1976 No 13).
     
-    Section 186A heading: amended, on 1 July 2009, by [section 57(1)][540] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 186A heading: amended, on 1 July 2009, by [section 57(1)][542] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 186A(1): substituted, on 1 July 2009, by [section 57(2)][540] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 186A(1): substituted, on 1 July 2009, by [section 57(2)][542] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 186A(2): substituted, on 1 July 2009, by [section 57(2)][540] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 186A(2): substituted, on 1 July 2009, by [section 57(2)][542] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 186A(4)(a): amended, on 1 April 2002, by [section 337(1)][541] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
+    Section 186A(4)(a): amended, on 1 April 2002, by [section 337(1)][543] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
     
-    Section 186A(4)(b): amended, on 1 April 2002, by [section 337(1)][541] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
+    Section 186A(4)(b): amended, on 1 April 2002, by [section 337(1)][543] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
 
 ## Part 10  
 Special provisions for dealing with mentally impaired persons
     
-*   Part 10 heading: amended, on 1 September 2004, by [section 51][542] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+*   Part 10 heading: amended, on 1 September 2004, by [section 51][544] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
 *   Part 10 heading: amended, on 1 January 1986, by section 35 of the Armed Forces Discipline Amendment Act 1985 (1985 No 199).
 
 ##### 187 Interpretation of terms used in this Part
     
 *   (1) In this Part, unless the context otherwise requires,---
     
-    _compulsory treatment order_ means a compulsory treatment order made under [Part 2][543] of the Mental Health (Compulsory Assessment and Treatment) Act 1992
+    _compulsory treatment order_ means a compulsory treatment order made under [Part 2][545] of the Mental Health (Compulsory Assessment and Treatment) Act 1992
     
-    _mentally disordered_ has the same meaning as it has in the [Mental Health (Compulsory Assessment and Treatment) Act 1992][544]
+    _mentally disordered_ has the same meaning as it has in the [Mental Health (Compulsory Assessment and Treatment) Act 1992][546]
     
     _patient_ means a person who is, or is deemed to be, subject to a compulsory treatment order
     
@@ -6827,25 +6839,25 @@ Special provisions for dealing with mentally impaired persons
         
         
     
-    (2) Where any person is ordered or directed under the provisions of this Act to be detained as a special patient or as a patient, the provisions of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][545] shall, subject to [section 192][345] of this Act, apply to that person as if that person were a special patient or a patient within the meaning of that Act.
+    (2) Where any person is ordered or directed under the provisions of this Act to be detained as a special patient or as a patient, the provisions of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][547] shall, subject to [section 192][345] of this Act, apply to that person as if that person were a special patient or a patient within the meaning of that Act.
     
-    Section 187(1) **compulsory treatment order**: inserted, on 1 November 1992, by [section 140(2)][546] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
+    Section 187(1) **compulsory treatment order**: inserted, on 1 November 1992, by [section 140(2)][548] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
     
-    Section 187(1) **mentally disordered**: substituted, on 1 November 1992, by [section 140(2)][546] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
+    Section 187(1) **mentally disordered**: substituted, on 1 November 1992, by [section 140(2)][548] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
     
-    Section 187(1) **patient**: inserted, on 1 November 1992, by [section 140(2)][546] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
+    Section 187(1) **patient**: inserted, on 1 November 1992, by [section 140(2)][548] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
     
-    Section 187(1) **psychiatric hospital**: repealed, on 1 November 1992, by [section 140(2)][546] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
+    Section 187(1) **psychiatric hospital**: repealed, on 1 November 1992, by [section 140(2)][548] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
     
-    Section 187(1) **qualified medical practitioner**: substituted, on 18 September 2004, by [section 175(1)][429] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 187(1) **qualified medical practitioner**: substituted, on 18 September 2004, by [section 175(1)][431] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 187(1) **qualified medical practitioner** paragraph (b): substituted, on 1 July 2009, by [section 58][547] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 187(1) **qualified medical practitioner** paragraph (b): substituted, on 1 July 2009, by [section 58][549] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
     Section 187(1) **under disability**: repealed, on 1 December 1983, by section 16(1) of the Armed Forces Discipline Amendment Act 1980 (1980 No 37).
     
-    Section 187(1A): substituted, on 1 September 2004, by [section 51][542] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 187(1A): substituted, on 1 September 2004, by [section 51][544] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 187(2): substituted, on 1 November 1992, by [section 140(2)][546] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
+    Section 187(2): substituted, on 1 November 1992, by [section 140(2)][548] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
 
 ##### 188 When Court may find accused unfit to stand trial
     
@@ -6861,23 +6873,23 @@ Special provisions for dealing with mentally impaired persons
     
     (6) If the Court is satisfied of the matter specified in subsection (2), the Court must record a finding to that effect, and proceed to determine the matters specified in [section 188A][340].
     
-    Section 188: substituted, on 1 September 2004, by [section 51][542] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 188: substituted, on 1 September 2004, by [section 51][544] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 188 heading: amended, on 1 July 2009, by [section 59(1)][548] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 188 heading: amended, on 1 July 2009, by [section 59(1)][550] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 188(1): amended, on 1 July 2009, by [section 59(2)][548] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 188(1): amended, on 1 July 2009, by [section 59(2)][550] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 188(2): amended, on 1 July 2009, by [section 59(1)][548] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 188(2): amended, on 1 July 2009, by [section 59(1)][550] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 188(3): amended, on 1 July 2009, by [section 59(1)][548] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 188(3): amended, on 1 July 2009, by [section 59(1)][550] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 188(4): amended, on 1 July 2013, by [section 413][426] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 188(4): amended, on 1 July 2013, by [section 413][428] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 188(4): amended, on 1 July 2009, by [section 59(1)][548] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 188(4): amended, on 1 July 2009, by [section 59(1)][550] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 188(5): repealed, on 1 July 2013, by [section 413][426] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 188(5): repealed, on 1 July 2013, by [section 413][428] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 188(6): amended, on 1 July 2009, by [section 59(1)][548] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 188(6): amended, on 1 July 2009, by [section 59(1)][550] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 188A Determining if accused unfit to stand trial
     
@@ -6897,19 +6909,19 @@ Special provisions for dealing with mentally impaired persons
     
     (5) The jurisdiction conferred on the Court Martial by this section and by [section 188][339] may be exercised by the Court in the absence of the accused if the Court is satisfied by medical evidence that the accused is too mentally impaired to be brought before the Court Martial.
     
-    Section 188A: inserted, on 1 September 2004, by [section 51][542] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 188A: inserted, on 1 September 2004, by [section 51][544] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 188A(1): amended, on 1 July 2009, by [section 60(1)(a)][549] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 188A(1): amended, on 1 July 2009, by [section 60(1)(a)][551] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 188A(1): amended, on 1 July 2009, by [section 60(1)(b)][549] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 188A(1): amended, on 1 July 2009, by [section 60(1)(b)][551] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 188A(2): amended, on 1 July 2009, by [section 60(2)][549] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 188A(2): amended, on 1 July 2009, by [section 60(2)][551] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 188A(3): repealed, on 1 July 2009, by [section 60(3)][549] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 188A(3): repealed, on 1 July 2009, by [section 60(3)][551] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 188A(5): amended, on 1 July 2009, by [section 60(4)(a)][549] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 188A(5): amended, on 1 July 2009, by [section 60(4)(a)][551] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 188A(5): amended, on 1 July 2009, by [section 60(4)(b)][549] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 188A(5): amended, on 1 July 2009, by [section 60(4)(b)][551] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 188B Court Martial may postpone finding as to unfitness to stand trial
     
@@ -6917,13 +6929,13 @@ Special provisions for dealing with mentally impaired persons
     
     (2) In any case where a finding is postponed under subsection (1), the Court may not make a finding on the matter if the accused is acquitted of every offence with which he or she is charged.
     
-    Section 188B: inserted, on 1 September 2004, by [section 51][542] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 188B: inserted, on 1 September 2004, by [section 51][544] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 188B heading: amended, on 1 July 2009, by [section 61(1)][550] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 188B heading: amended, on 1 July 2009, by [section 61(1)][552] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 188B(1): amended, on 1 July 2009, by [section 61(2)][550] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 188B(1): amended, on 1 July 2009, by [section 61(2)][552] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 188B(2): amended, on 1 July 2009, by [section 61(3)][550] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 188B(2): amended, on 1 July 2009, by [section 61(3)][552] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 189 When plea of not guilty may be substituted for plea of guilty
     
@@ -6941,31 +6953,31 @@ Special provisions for dealing with mentally impaired persons
     
     *   (b) the prosecution agrees that the only reasonable verdict is not guilty on account of insanity; and
     
-    *   (c) the Court Martial is satisfied on the basis of expert evidence that the accused was insane within the meaning of [section 23][551] of the Crimes Act 1961 at the time of the commission of the offence.
+    *   (c) the Court Martial is satisfied on the basis of expert evidence that the accused was insane within the meaning of [section 23][553] of the Crimes Act 1961 at the time of the commission of the offence.
     
     (2) If, on the trial by the Court Martial of any person charged with an offence, the accused person pleads insanity and the Court finds him not guilty, the Court shall be required to declare whether or not it has acquitted the accused person on account of his insanity.
     
-    (3) Nothing in this section shall limit or affect the power of the Judge to leave to the military members the question of whether an accused person was insane (within the meaning of [section 23][551] of the Crimes Act 1961) notwithstanding that the accused person has not pleaded insanity nor put the question of his sanity in issue, where it appears in evidence that he may have been insane at the time of the commission of the offence.
+    (3) Nothing in this section shall limit or affect the power of the Judge to leave to the military members the question of whether an accused person was insane (within the meaning of [section 23][553] of the Crimes Act 1961) notwithstanding that the accused person has not pleaded insanity nor put the question of his sanity in issue, where it appears in evidence that he may have been insane at the time of the commission of the offence.
     
     Section 190: substituted, on 1 January 1986, by section 38 of the Armed Forces Discipline Amendment Act 1985 (1985 No 199).
     
-    Section 190(1): amended, on 1 July 2009, by [section 62(1)(a)][552] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 190(1): amended, on 1 July 2009, by [section 62(1)(a)][554] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 190(1): amended, on 1 July 2009, by [section 62(1)(b)][552] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 190(1): amended, on 1 July 2009, by [section 62(1)(b)][554] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 190(1A): inserted, on 1 September 2004, by [section 51][542] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 190(1A): inserted, on 1 September 2004, by [section 51][544] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 190(1A): amended, on 1 July 2009, by [section 62(2)(a)][552] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 190(1A): amended, on 1 July 2009, by [section 62(2)(a)][554] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 190(1A)(c): amended, on 1 July 2009, by [section 62(2)(b)][552] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 190(1A)(c): amended, on 1 July 2009, by [section 62(2)(b)][554] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 190(2): amended, on 1 July 2009, by [section 62(3)(a)][552] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 190(2): amended, on 1 July 2009, by [section 62(3)(a)][554] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 190(2): amended, on 1 July 2009, by [section 62(3)(b)][552] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 190(2): amended, on 1 July 2009, by [section 62(3)(b)][554] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 190(3): amended, on 1 July 2009, by [section 62(4)(a)][552] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 190(3): amended, on 1 July 2009, by [section 62(4)(a)][554] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 190(3): amended, on 1 July 2009, by [section 62(4)(b)][552] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 190(3): amended, on 1 July 2009, by [section 62(4)(b)][554] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 191 Order to be made if person unfit to stand trial or insane
     
@@ -6989,7 +7001,7 @@ Special provisions for dealing with mentally impaired persons
     
     (4) Where a person is found unfit to stand trial or is acquitted on account of his or her insanity, the Court may, instead of exercising immediately any of its powers under subsections (1) and (2), adjourn and refer the matter to the Director of Military Prosecutions for the purpose of having enquiries made to determine the most suitable method of dealing with the case pursuant to this section.
     
-    (4A) An order made by the Court under subsection (2)(a) shall be deemed for the purposes of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][545] to be a compulsory treatment order, and the provisions of that Act shall apply accordingly.
+    (4A) An order made by the Court under subsection (2)(a) shall be deemed for the purposes of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][547] to be a compulsory treatment order, and the provisions of that Act shall apply accordingly.
     
     (5) Where, in respect of any person found unfit to stand trial, the Court makes an order under paragraph (a) or paragraph (b) of subsection (2), or decides under paragraph (c) of that subsection not to make any order under this section, the proceedings against that person in the course of which the finding was made shall be stayed, and no further proceedings shall be taken against the person in respect of any offence charged in those proceedings.
     
@@ -7001,55 +7013,55 @@ Special provisions for dealing with mentally impaired persons
     
     Section 191: substituted, on 1 January 1986, by section 38 of the Armed Forces Discipline Amendment Act 1985 (1985 No 199).
     
-    Section 191 heading: amended, on 1 September 2004, by [section 51][542] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 191 heading: amended, on 1 September 2004, by [section 51][544] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 191(1): amended, on 1 July 2009, by [section 63(1)(a)][553] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 191(1): amended, on 1 July 2009, by [section 63(1)(a)][555] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 191(1): amended, on 1 July 2009, by [section 63(1)(b)][553] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 191(1): amended, on 1 July 2009, by [section 63(1)(b)][555] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 191(1): amended, on 1 November 1992, by [section 140(2)][546] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
+    Section 191(1): amended, on 1 November 1992, by [section 140(2)][548] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
     
-    Section 191(1)(a): amended, on 1 September 2004, by [section 51][542] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 191(1)(a): amended, on 1 September 2004, by [section 51][544] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 191(2): amended, on 1 July 2009, by [section 63(2)][553] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 191(2): amended, on 1 July 2009, by [section 63(2)][555] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 191(2): amended, on 1 July 2009, by [section 63(3)][553] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 191(2): amended, on 1 July 2009, by [section 63(3)][555] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 191(2): amended, on 1 September 2004, by [section 51][542] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 191(2): amended, on 1 September 2004, by [section 51][544] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 191(2)(a): amended, on 1 November 1992, by [section 140(2)][546] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
+    Section 191(2)(a): amended, on 1 November 1992, by [section 140(2)][548] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
     
-    Section 191(3): amended, on 1 July 2009, by [section 63(3)][553] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 191(3): amended, on 1 July 2009, by [section 63(3)][555] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 191(4): amended, on 1 July 2009, by [section 63(3)][553] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 191(4): amended, on 1 July 2009, by [section 63(3)][555] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 191(4): amended, on 1 July 2009, by [section 63(4)][553] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 191(4): amended, on 1 July 2009, by [section 63(4)][555] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 191(4): amended, on 1 September 2004, by [section 51][542] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 191(4): amended, on 1 September 2004, by [section 51][544] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 191(4A): inserted, on 1 November 1992, by [section 140(2)][546] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
+    Section 191(4A): inserted, on 1 November 1992, by [section 140(2)][548] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
     
-    Section 191(4A): amended, on 1 July 2009, by [section 63(3)][553] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 191(4A): amended, on 1 July 2009, by [section 63(3)][555] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 191(5): amended, on 1 July 2009, by [section 63(3)][553] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 191(5): amended, on 1 July 2009, by [section 63(3)][555] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 191(5): amended, on 1 September 2004, by [section 51][542] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 191(5): amended, on 1 September 2004, by [section 51][544] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 191(6): amended, on 1 September 2004, by [section 51][542] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 191(6): amended, on 1 September 2004, by [section 51][544] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 191(6): amended, on 1 November 1992, by [section 140(2)][546] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
+    Section 191(6): amended, on 1 November 1992, by [section 140(2)][548] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
     
-    Section 191(6): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 191(6): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 191(7): amended, on 1 July 2009, by [section 63(5)][553] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 191(7): amended, on 1 July 2009, by [section 63(5)][555] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 191(7): amended, on 1 September 2004, by [section 51][542] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 191(7): amended, on 1 September 2004, by [section 51][544] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 191(7): amended, on 1 November 1992, by [section 140(2)][546] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
+    Section 191(7): amended, on 1 November 1992, by [section 140(2)][548] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
     
-    Section 191(8): amended, on 1 June 2005, by [section 206][431] of the Corrections Act 2004 (2004 No 50).
+    Section 191(8): amended, on 1 June 2005, by [section 206][433] of the Corrections Act 2004 (2004 No 50).
     
-    Section 191(8): amended, on 1 November 1992, by [section 140(2)][546] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
+    Section 191(8): amended, on 1 November 1992, by [section 140(2)][548] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
 
 ##### 192 Duration of order for detention as special patient where defendant unfit to stand trial
     
@@ -7059,7 +7071,7 @@ Special provisions for dealing with mentally impaired persons
     
     *   (b) a period from the date of the making of the order pursuant to [section 191(1)][344] equal to half the maximum term of imprisonment to which the accused person was liable on conviction of the offence charged or (if the defendant was charged with more than 1 offence) of the offence punishable by the longer or longest term of imprisonment, in any other case.
     
-    (2) If an order is made by the Court Martial pursuant to [section 191(1)][344] in respect of an accused person who has been found to be unfit to stand trial, the order shall, subject to [sections 84][554] and [128][555] of the Mental Health (Compulsory Assessment and Treatment) Act 1992, continue in force until---
+    (2) If an order is made by the Court Martial pursuant to [section 191(1)][344] in respect of an accused person who has been found to be unfit to stand trial, the order shall, subject to [sections 84][556] and [128][557] of the Mental Health (Compulsory Assessment and Treatment) Act 1992, continue in force until---
         
     *   (a) he is brought before the Court Martial pursuant to a direction given under this section; or
     
@@ -7067,17 +7079,17 @@ Special provisions for dealing with mentally impaired persons
     
     (3) Notwithstanding anything in subsection (1), where, in any case to which that subsection applies, every charge against the person concerned is withdrawn, the order made by the Court under [section 191(1)(a)][344] shall be deemed to be cancelled.
     
-    (4) If at any time before the expiry of the maximum period of detention as a special patient a certificate of clinical review is given by the responsible clinician under [section 77][556] of the Mental Health (Compulsory Assessment and Treatment) Act 1992, or a certificate of Tribunal review is given by the Review Tribunal under [section 80][557] of that Act, that the person is no longer unfit to stand trial, the Attorney-General shall either direct that the person be placed in service custody for trial by the Court Martial or direct that the person shall thereafter be held as a patient.
+    (4) If at any time before the expiry of the maximum period of detention as a special patient a certificate of clinical review is given by the responsible clinician under [section 77][558] of the Mental Health (Compulsory Assessment and Treatment) Act 1992, or a certificate of Tribunal review is given by the Review Tribunal under [section 80][559] of that Act, that the person is no longer unfit to stand trial, the Attorney-General shall either direct that the person be placed in service custody for trial by the Court Martial or direct that the person shall thereafter be held as a patient.
     
-    (5) If at any time before the expiry of the maximum period of detention as a special patient a certificate of clinical review is given by the responsible clinician under [section 77][556] of the Mental Health (Compulsory Assessment and Treatment) Act 1992, or a certificate of Tribunal review is given by the Review Tribunal under [section 80][557] of that Act, that it is no longer necessary that the person, though still unfit to stand trial, should be subject to the order, the Minister of Health, acting with the concurrence of the Attorney-General, may direct that the person shall thereafter be held as a patient.
+    (5) If at any time before the expiry of the maximum period of detention as a special patient a certificate of clinical review is given by the responsible clinician under [section 77][558] of the Mental Health (Compulsory Assessment and Treatment) Act 1992, or a certificate of Tribunal review is given by the Review Tribunal under [section 80][559] of that Act, that it is no longer necessary that the person, though still unfit to stand trial, should be subject to the order, the Minister of Health, acting with the concurrence of the Attorney-General, may direct that the person shall thereafter be held as a patient.
     
     (6) If no direction is given under subsection (4) or subsection (5) before the expiry of the maximum period of detention as a special patient, the following provisions shall apply on the expiry of that period:
         
-    *   (a) if a certificate of clinical review is given by the responsible clinician under [section 77][556] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 or a certificate of Tribunal review is given under [section 80][557] of that Act, that the defendant is no longer unfit to stand trial, the Attorney-General shall either direct that the person be placed in service custody for trial by the Court Martial or direct that the person shall thereafter be held as a patient; or
+    *   (a) if a certificate of clinical review is given by the responsible clinician under [section 77][558] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 or a certificate of Tribunal review is given under [section 80][559] of that Act, that the defendant is no longer unfit to stand trial, the Attorney-General shall either direct that the person be placed in service custody for trial by the Court Martial or direct that the person shall thereafter be held as a patient; or
     
     *   (b) if no such certificate is given, the Attorney-General shall direct that the person shall thereafter be held as a patient.
     
-    (6A) A direction that the person shall be held as a patient shall be deemed for the purposes of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][545] to be a compulsory treatment order, and the provisions of that Act shall apply accordingly.
+    (6A) A direction that the person shall be held as a patient shall be deemed for the purposes of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][547] to be a compulsory treatment order, and the provisions of that Act shall apply accordingly.
     
     (7) On the giving under this section of any direction that the person shall be held as a patient, the proceedings in which the order for detention was made shall be stayed, and no further proceedings shall be taken against the person in respect of any offence charged in those proceedings.
     
@@ -7085,47 +7097,47 @@ Special provisions for dealing with mentally impaired persons
     
     Section 192: substituted, on 1 January 1986, by section 38 of the Armed Forces Discipline Amendment Act 1985 (1985 No 199).
     
-    Section 192 heading: amended, on 1 September 2004, by [section 51][542] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 192 heading: amended, on 1 September 2004, by [section 51][544] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 192(1): amended, on 1 July 2009, by [section 64(1)][558] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 192(1): amended, on 1 July 2009, by [section 64(1)][560] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 192(1): amended, on 1 September 2004, by [section 51][542] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 192(1): amended, on 1 September 2004, by [section 51][544] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 192(1)(a): amended, on 1 September 2004, by [section 51][542] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 192(1)(a): amended, on 1 September 2004, by [section 51][544] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 192(2): amended, on 1 July 2009, by [section 64(1)][558] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 192(2): amended, on 1 July 2009, by [section 64(1)][560] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 192(2): amended, on 1 September 2004, by [section 51][542] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 192(2): amended, on 1 September 2004, by [section 51][544] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 192(2): amended, on 1 November 1992, by [section 140(2)][546] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
+    Section 192(2): amended, on 1 November 1992, by [section 140(2)][548] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
     
-    Section 192(2)(a): amended, on 1 July 2009, by [section 64(1)][558] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 192(2)(a): amended, on 1 July 2009, by [section 64(1)][560] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 192(2)(b): amended, on 1 November 1992, by [section 140(2)][546] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
+    Section 192(2)(b): amended, on 1 November 1992, by [section 140(2)][548] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
     
-    Section 192(3): amended, on 1 July 2009, by [section 64(2)][558] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 192(3): amended, on 1 July 2009, by [section 64(2)][560] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 192(4): substituted, on 1 November 1992, by [section 140(2)][546] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
+    Section 192(4): substituted, on 1 November 1992, by [section 140(2)][548] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
     
-    Section 192(4): amended, on 1 July 2009, by [section 64(3)][558] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 192(4): amended, on 1 July 2009, by [section 64(3)][560] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 192(4): amended, on 1 September 2004, by [section 51][542] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 192(4): amended, on 1 September 2004, by [section 51][544] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 192(5): substituted, on 1 November 1992, by [section 140(2)][546] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
+    Section 192(5): substituted, on 1 November 1992, by [section 140(2)][548] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
     
-    Section 192(5): amended, on 1 September 2004, by [section 51][542] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 192(5): amended, on 1 September 2004, by [section 51][544] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 192(6): substituted, on 1 November 1992, by [section 140(2)][546] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
+    Section 192(6): substituted, on 1 November 1992, by [section 140(2)][548] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
     
-    Section 192(6)(a): amended, on 1 July 2009, by [section 64(1)][558] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 192(6)(a): amended, on 1 July 2009, by [section 64(1)][560] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 192(6)(a): amended, on 1 July 2009, by [section 64(4)][558] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 192(6)(a): amended, on 1 July 2009, by [section 64(4)][560] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 192(6)(a): amended, on 1 September 2004, by [section 51][542] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 192(6)(a): amended, on 1 September 2004, by [section 51][544] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 192(6A): inserted, on 1 November 1992, by [section 140(2)][546] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
+    Section 192(6A): inserted, on 1 November 1992, by [section 140(2)][548] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
     
-    Section 192(7): amended, on 1 November 1992, by [section 140(2)][546] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
+    Section 192(7): amended, on 1 November 1992, by [section 140(2)][548] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
 
 ##### 193 Duration of order for detention as special patient when person acquitted on account of his insanity
     
@@ -7135,29 +7147,29 @@ Special provisions for dealing with mentally impaired persons
     
     *   (b) that person is discharged pursuant to a direction given under this section.
     
-    (2) If at any time while the order continues in force a certificate of clinical review is given by the responsible clinician under [section 77][556] of the Mental Health (Compulsory Assessment and Treatment) Act 1992, or a certificate of Tribunal review is given under [section 80][557] of that Act, that the person's mental condition no longer requires, either in the person's own interest or for the safety of any person or class of person or the public, that he or she should be subject to the order, the Minister of Health may direct that the person shall thereafter be held as a patient, or that the person be discharged.
+    (2) If at any time while the order continues in force a certificate of clinical review is given by the responsible clinician under [section 77][558] of the Mental Health (Compulsory Assessment and Treatment) Act 1992, or a certificate of Tribunal review is given under [section 80][559] of that Act, that the person's mental condition no longer requires, either in the person's own interest or for the safety of any person or class of person or the public, that he or she should be subject to the order, the Minister of Health may direct that the person shall thereafter be held as a patient, or that the person be discharged.
     
-    (3) A direction that the person shall be held as a patient shall be deemed for the purposes of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][545] to be a compulsory treatment order, and the provisions of that Act shall apply accordingly.
+    (3) A direction that the person shall be held as a patient shall be deemed for the purposes of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][547] to be a compulsory treatment order, and the provisions of that Act shall apply accordingly.
     
     Section 193: substituted, on 1 January 1986, by section 38 of the Armed Forces Discipline Amendment Act 1985 (1985 No 199).
     
-    Section 193(1): amended, on 1 July 2009, by [section 65][559] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 193(1): amended, on 1 July 2009, by [section 65][561] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 193(1)(a): amended, on 1 November 1992, by [section 140(2)][546] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
+    Section 193(1)(a): amended, on 1 November 1992, by [section 140(2)][548] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
     
-    Section 193(2): substituted, on 1 November 1992, by [section 140(2)][546] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
+    Section 193(2): substituted, on 1 November 1992, by [section 140(2)][548] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
     
-    Section 193(2): amended, on 1 September 2004, by [section 51][542] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 193(2): amended, on 1 September 2004, by [section 51][544] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 193(3): added, on 1 November 1992, by [section 140(2)][546] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
+    Section 193(3): added, on 1 November 1992, by [section 140(2)][548] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
 
 ##### 194 Power of Court Martial to commit to hospital on conviction
     
 *   (1) If the Court Martial (whether in New Zealand or elsewhere) convicts a person of an offence that is punishable by imprisonment, the Court may, if satisfied of the matters specified in subsection (1A),---
         
-    *   (a) sentence the person to a term of imprisonment and also order that the person be detained in a hospital as a special patient under the [Mental Health (Compulsory Assessment and Treatment) Act 1992][545]; or
+    *   (a) sentence the person to a term of imprisonment and also order that the person be detained in a hospital as a special patient under the [Mental Health (Compulsory Assessment and Treatment) Act 1992][547]; or
     
-    *   (b) instead of passing sentence, order that the person be treated as a patient under the [Mental Health (Compulsory Assessment and Treatment) Act 1992][545].
+    *   (b) instead of passing sentence, order that the person be treated as a patient under the [Mental Health (Compulsory Assessment and Treatment) Act 1992][547].
     
     (1A) For the purposes of subsection (1), the Court must be satisfied, by a certificate of 1 qualified medical practitioner,---
         
@@ -7167,57 +7179,57 @@ Special provisions for dealing with mentally impaired persons
     
     (2) No order shall be made under this section in respect of a person who is, at the time of the conviction, subject to a sentence of imprisonment or detention.
     
-    (2A) An order made under subsection (1)(b) shall be deemed for the purposes of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][545] to be a compulsory treatment order, and the provisions of that Act shall apply accordingly.
+    (2A) An order made under subsection (1)(b) shall be deemed for the purposes of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][547] to be a compulsory treatment order, and the provisions of that Act shall apply accordingly.
     
     (3) Every such person shall be removed to a hospital as soon as practicable thereafter.
     
     Section 194: substituted, on 1 January 1986, by section 38 of the Armed Forces Discipline Amendment Act 1985 (1985 No 199).
     
-    Section 194 heading: amended, on 1 July 2009, by [section 66(1)][560] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 194 heading: amended, on 1 July 2009, by [section 66(1)][562] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 194(1): substituted, on 1 July 2009, by [section 66(2)][560] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 194(1): substituted, on 1 July 2009, by [section 66(2)][562] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 194(1A): inserted, on 1 September 2004, by [section 51][542] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 194(1A): inserted, on 1 September 2004, by [section 51][544] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 194(1A): amended, on 1 July 2009, by [section 66(3)][560] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 194(1A): amended, on 1 July 2009, by [section 66(3)][562] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 194(2A): inserted, on 1 November 1992, by [section 140(2)][546] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
+    Section 194(2A): inserted, on 1 November 1992, by [section 140(2)][548] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
     
-    Section 194(2A): amended, on 1 September 2004, by [section 51][542] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 194(2A): amended, on 1 September 2004, by [section 51][544] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 194(3): amended, on 1 July 2009, by [section 66(4)][560] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 194(3): amended, on 1 July 2009, by [section 66(4)][562] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 194(3): amended, on 1 November 1992, by [section 140(2)][546] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
+    Section 194(3): amended, on 1 November 1992, by [section 140(2)][548] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
 
 ##### 195 Notice to be sent to Public Trustee of certain orders
     
 *   \[Repealed\]
     
-    Section 195: repealed, on 1 November 1992, by [section 140(1)][546] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
+    Section 195: repealed, on 1 November 1992, by [section 140(1)][548] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
 
 ##### 196 Insanity of certain persons while serving sentences of imprisonment under this Act
     
-*   (1) Notwithstanding anything to the contrary in the [Mental Health (Compulsory Assessment and Treatment) Act 1992][545], every service penal establishment in New Zealand shall be deemed to be a prison for the purposes of [section 45][561] of that Act.
+*   (1) Notwithstanding anything to the contrary in the [Mental Health (Compulsory Assessment and Treatment) Act 1992][547], every service penal establishment in New Zealand shall be deemed to be a prison for the purposes of [section 45][563] of that Act.
     
-    (2) If a person under sentence of imprisonment or detention under this Act who is serving his sentence outside New Zealand becomes mentally disordered, then, without prejudice to any other provision for dealing with him, the Attorney-General may, on a certificate to that effect by a qualified medical practitioner, order his removal to a hospital in New Zealand; and every such order shall have effect for the purposes of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][545] as if it were a compulsory treatment order under that Act.
+    (2) If a person under sentence of imprisonment or detention under this Act who is serving his sentence outside New Zealand becomes mentally disordered, then, without prejudice to any other provision for dealing with him, the Attorney-General may, on a certificate to that effect by a qualified medical practitioner, order his removal to a hospital in New Zealand; and every such order shall have effect for the purposes of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][547] as if it were a compulsory treatment order under that Act.
     
-    Section 196(1): substituted, on 1 November 1992, by [section 140(2)][546] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
+    Section 196(1): substituted, on 1 November 1992, by [section 140(2)][548] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
     
-    Section 196(1): amended, on 1 June 2005, by [section 206][431] of the Corrections Act 2004 (2004 No 50).
+    Section 196(1): amended, on 1 June 2005, by [section 206][433] of the Corrections Act 2004 (2004 No 50).
     
-    Section 196(2): amended, on 1 November 1992, by [section 140(2)][546] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
+    Section 196(2): amended, on 1 November 1992, by [section 140(2)][548] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
 
 ##### 197 Substitution of finding and quashing of sentence where accused was insane
     
 *   \[Repealed\]
     
-    Section 197: repealed, on 1 July 2009, by [section 67][562] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 197: repealed, on 1 July 2009, by [section 67][564] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 198 Powers of reviewing authority if person found unfit to stand trial
     
 *   \[Repealed\]
     
-    Section 198: repealed, on 1 July 2009, by [section 67][562] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 198: repealed, on 1 July 2009, by [section 67][564] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ## Part 11  
 Miscellaneous provisions
@@ -7254,7 +7266,7 @@ Miscellaneous provisions
     
     *   (b) any report or comment made by the court and attached to the record of the evidence.
     
-    Section 200: substituted, on 1 July 2009, by [section 68][563] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 200: substituted, on 1 July 2009, by [section 68][565] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 200A Courts of inquiry may be assembled
     
@@ -7266,9 +7278,9 @@ Miscellaneous provisions
     
     *   (b) must report and comment on those matters, if required to do so by the assembling authority.
     
-    (3) A court of inquiry may be assembled to perform the functions and duties, and exercise the powers, of a competent tribunal under Article 5 of [Schedule 3][564] of the Geneva Conventions Act 1958\.
+    (3) A court of inquiry may be assembled to perform the functions and duties, and exercise the powers, of a competent tribunal under Article 5 of [Schedule 3][566] of the Geneva Conventions Act 1958\.
     
-    Section 200A: inserted, on 1 July 2009, by [section 68][563] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 200A: inserted, on 1 July 2009, by [section 68][565] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 200B Composition of court of inquiry
     
@@ -7290,7 +7302,7 @@ Miscellaneous provisions
     
     (4) A counsel appointed under subsection (3) is not a member of the court of inquiry, but may advise the court on questions of law and procedure and may ask questions of witnesses attending before the court for the purpose of assisting the court.
     
-    Section 200B: inserted, on 1 July 2009, by [section 68][563] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 200B: inserted, on 1 July 2009, by [section 68][565] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 200C Order assembling court of inquiry
     
@@ -7302,7 +7314,7 @@ Miscellaneous provisions
     
     (2) The assembling authority may, at any time, revoke, vary, or suspend the order.
     
-    Section 200C: inserted, on 1 July 2009, by [section 68][563] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 200C: inserted, on 1 July 2009, by [section 68][565] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 200D Rank and seniority of members
     
@@ -7312,7 +7324,7 @@ Miscellaneous provisions
     
     *   (b) at least 1 member must be of superior rank.
     
-    Section 200D: inserted, on 1 July 2009, by [section 68][563] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 200D: inserted, on 1 July 2009, by [section 68][565] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 200E Terms of reference
     
@@ -7322,7 +7334,7 @@ Miscellaneous provisions
     
     *   (b) state whether any report or comment is required upon the matter under investigation.
     
-    Section 200E: inserted, on 1 July 2009, by [section 68][563] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 200E: inserted, on 1 July 2009, by [section 68][565] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 200F Court of inquiry to sit in private
     
@@ -7350,7 +7362,7 @@ Miscellaneous provisions
     
     *   (b) the president approves the person who is affected or is likely to be affected by the inquiry being legally represented.
     
-    Section 200F: inserted, on 1 July 2009, by [section 68][563] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 200F: inserted, on 1 July 2009, by [section 68][565] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 200G Assembly and procedure
     
@@ -7364,7 +7376,7 @@ Miscellaneous provisions
     
     (3) The president must lay the order and the terms of reference before the court and the court must then proceed to collect and record evidence in accordance with [section 200K][367].
     
-    Section 200G: inserted, on 1 July 2009, by [section 68][563] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 200G: inserted, on 1 July 2009, by [section 68][565] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 200H Sittings of court of inquiry
     
@@ -7374,7 +7386,7 @@ Miscellaneous provisions
     
     (3) Despite subsections (1) and (2), the assembling authority may, at any time, direct the court to reassemble for any purpose that the assembling authority may specify.
     
-    Section 200H: inserted, on 1 July 2009, by [section 68][563] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 200H: inserted, on 1 July 2009, by [section 68][565] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 200I Attendance of witnesses
     
@@ -7402,7 +7414,7 @@ Miscellaneous provisions
     
     (4) Subsection (3) is subject to [section 200N][370].
     
-    Section 200I: inserted, on 1 July 2009, by [section 68][563] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 200I: inserted, on 1 July 2009, by [section 68][565] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 200J Witness to be sworn
     
@@ -7418,7 +7430,7 @@ Miscellaneous provisions
     
     (4) The making of an affirmation under subsection (3) has the same force and effect, and has the same consequences, as the taking of an oath.
     
-    Section 200J: inserted, on 1 July 2009, by [section 68][563] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 200J: inserted, on 1 July 2009, by [section 68][565] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 200K Collecting and recording of evidence
     
@@ -7442,7 +7454,7 @@ Miscellaneous provisions
     
     (6) Each witness must initial all alterations and must then sign the record of his or her evidence at the end and initial each page of it.
     
-    Section 200K: inserted, on 1 July 2009, by [section 68][563] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 200K: inserted, on 1 July 2009, by [section 68][565] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 200L Interpreters and recorders
     
@@ -7454,7 +7466,7 @@ Miscellaneous provisions
     
     (4) The making of an affirmation under subsection (3) has the same force and effect, and has the same consequences, as the taking of an oath.
     
-    Section 200L: inserted, on 1 July 2009, by [section 68][563] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 200L: inserted, on 1 July 2009, by [section 68][565] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 200M Procedure if conduct of superior officer may be in question
     
@@ -7466,7 +7478,7 @@ Miscellaneous provisions
     
     (4) Subsection (3) does not affect the power of the president to make a further report under subsection (1) if the evidence justifies that course of action.
     
-    Section 200M: inserted, on 1 July 2009, by [section 68][563] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 200M: inserted, on 1 July 2009, by [section 68][565] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 200N Rights of person who may be affected by inquiry
     
@@ -7494,7 +7506,7 @@ Miscellaneous provisions
     
     (4) This section does not apply to an inquiry under [section 201][377] into the absence of a member of the Armed Forces.
     
-    Section 200N: inserted, on 1 July 2009, by [section 68][563] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 200N: inserted, on 1 July 2009, by [section 68][565] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 200O Matters president must take into account in determining whether person affected by inquiry may be legally represented
     
@@ -7512,7 +7524,7 @@ Miscellaneous provisions
     
     *   (f) the need for fairness as between that person and all persons who may appear before the court.
     
-    Section 200O: inserted, on 1 July 2009, by [section 68][563] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 200O: inserted, on 1 July 2009, by [section 68][565] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 200P What happens if person affected by inquiry wishes to call witness
     
@@ -7522,7 +7534,7 @@ Miscellaneous provisions
     
     (3) Despite subsection (1), if the attendance of a witness is requested by the person affected or likely to be affected and the court of inquiry is satisfied that the attendance of that witness is not properly required by that person, any cost incurred by the Crown in procuring the attendance of the witness may be charged to, and recovered as a debt due by, the person affected or likely to be affected.
     
-    Section 200P: inserted, on 1 July 2009, by [section 68][563] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 200P: inserted, on 1 July 2009, by [section 68][565] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 200Q Exhibits
     
@@ -7542,7 +7554,7 @@ Miscellaneous provisions
     
     (4) If an exhibit is not attached to or kept with the record of proceedings, the president must ensure its safe custody pending the directions of the assembling authority for the ultimate disposal of the exhibit.
     
-    Section 200Q: inserted, on 1 July 2009, by [section 68][563] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 200Q: inserted, on 1 July 2009, by [section 68][565] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 200R Signing and dispatch of record of proceedings
     
@@ -7562,7 +7574,7 @@ Miscellaneous provisions
     
     (5) However, if the content of the record of proceedings does not warrant a security classification, the record of proceedings must be given an appropriate In Confidence privacy marking.
     
-    Section 200R: inserted, on 1 July 2009, by [section 68][563] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 200R: inserted, on 1 July 2009, by [section 68][565] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 200S Admissibility of record of proceedings, etc
     
@@ -7574,11 +7586,11 @@ Miscellaneous provisions
         
     *   (a) under [section 71][85] with making a false statement; or
     
-    *   (b) under [section 109][565] of the Crimes Act 1961 with perjury.
+    *   (b) under [section 109][567] of the Crimes Act 1961 with perjury.
     
     (4) Subsection (1) is subject to subsections (2) and (3).
     
-    Section 200S: inserted, on 1 July 2009, by [section 68][563] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 200S: inserted, on 1 July 2009, by [section 68][565] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 200T Record of proceedings not to be disclosed
     
@@ -7594,7 +7606,7 @@ Miscellaneous provisions
         
         
     
-    Section 200T: inserted, on 1 July 2009, by [section 68][563] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 200T: inserted, on 1 July 2009, by [section 68][565] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 201 Inquiry on absence of member of the Armed Forces
     
@@ -7606,15 +7618,15 @@ Miscellaneous provisions
     
     Compare: 1950 No 39 s 138; 1950 No 40 s 138; Army Act 1955 s 155 (UK); Air Force Act 1955 s 155 (UK)
     
-    Section 201 heading: amended, on 1 April 1990, pursuant to[section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 201 heading: amended, on 1 April 1990, pursuant to[section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 201(1): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 201(1): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 201(2): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 201(2): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 201(3): amended, on 1 July 2009, by [section 69][566] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 201(3): amended, on 1 July 2009, by [section 69][568] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 201(3): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 201(3): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
 
 #### Pay, etc, of deserters and absentees
 
@@ -7628,17 +7640,17 @@ Miscellaneous provisions
     
     (2A) The pay and allowances that are to be forfeited under subsection (1) may, without limiting any other mode of recovery, be recovered from such person by the Crown---
         
-    *   (a) by deduction from any pay and allowances that would otherwise have been payable to him in respect of the whole or any part of the period during which he was in desertion or absent without leave, but which have been withheld from him in accordance with regulations made under the [Defence Act 1990][415]; and
+    *   (a) by deduction from any pay and allowances that would otherwise have been payable to him in respect of the whole or any part of the period during which he was in desertion or absent without leave, but which have been withheld from him in accordance with regulations made under the [Defence Act 1990][416]; and
     
-    *   (b) to the extent that such pay and allowances (if any) are insufficient to meet the pay and allowances that are to be forfeited, by deduction from any other pay and allowances or other money due, owing, or payable to such person by the Crown in relation to his service in the Armed Forces, not being an amount due, owing, or payable to him or on his death under the [Government Superannuation Fund Act 1956][567].
+    *   (b) to the extent that such pay and allowances (if any) are insufficient to meet the pay and allowances that are to be forfeited, by deduction from any other pay and allowances or other money due, owing, or payable to such person by the Crown in relation to his service in the Armed Forces, not being an amount due, owing, or payable to him or on his death under the [Government Superannuation Fund Act 1956][569].
     
     (3) Subject to any regulations or Defence Force Orders made under this Act, where any person subject to this Act is absent without leave and any of that person's personal belongings are in the possession or custody, or come into the possession, of the Armed Forces, those belongings shall be disposed of as follows:
         
-    *   (a) all money standing to that person's credit at the date of the commencement of that person's absence shall be held on that person's behalf by the Chief of Defence Force for a period of 6 months from and including that date; and, if the person remains absent at the expiration of that period, the Chief of Defence Force shall cause the money to be deposited with the Treasury, and subsections (2) to (6) of [section 74][568] of the Public Finance Act 1989 shall apply to any money so deposited as if it were so deposited pursuant to subsection (1) of that section:
+    *   (a) all money standing to that person's credit at the date of the commencement of that person's absence shall be held on that person's behalf by the Chief of Defence Force for a period of 6 months from and including that date; and, if the person remains absent at the expiration of that period, the Chief of Defence Force shall cause the money to be deposited with the Treasury, and subsections (2) to (6) of [section 74][570] of the Public Finance Act 1989 shall apply to any money so deposited as if it were so deposited pursuant to subsection (1) of that section:
     
     *   (b) all returnable service property in the possession or custody of that person shall, unless sooner required for the purposes of the Armed Forces, be kept in safe custody on that person's behalf for a period of 6 months from and including the date of the commencement of that person's absence, and shall then, if that person remains absent at the expiration of that period, be returned to service stores and be disposed of in the same manner as if that person had been discharged from the service to which that person belongs:
     
-    *   (c) all chattels belonging to or reputedly belonging to that person shall be kept in safe custody on that person's behalf for a period of 6 months from and including the date of the commencement of that person's absence; and, if that person remains absent at the expiration of that period, the Chief of Defence Force may cause the chattels to be sold by auction, and the proceeds of sale shall be deposited with the Treasury, and subsections (2) to (6) of [section 74][568] of the Public Finance Act 1989 shall apply to any money so deposited as if it were so deposited pursuant to subsection (1) of that section:
+    *   (c) all chattels belonging to or reputedly belonging to that person shall be kept in safe custody on that person's behalf for a period of 6 months from and including the date of the commencement of that person's absence; and, if that person remains absent at the expiration of that period, the Chief of Defence Force may cause the chattels to be sold by auction, and the proceeds of sale shall be deposited with the Treasury, and subsections (2) to (6) of [section 74][570] of the Public Finance Act 1989 shall apply to any money so deposited as if it were so deposited pursuant to subsection (1) of that section:
     
     provided that, if the person ceases to be absent before the expiration of that period of 6 months, the Chief of Defence Force shall forthwith cause the chattels referred to in this paragraph to be returned to that person.
     
@@ -7652,23 +7664,23 @@ Miscellaneous provisions
     
     Compare: Naval Discipline Act 1957 s 75 (UK)
     
-    Section 202(1): substituted, on 1 July 2009, by [section 70(1)][569] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 202(1): substituted, on 1 July 2009, by [section 70(1)][571] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 202(1A): inserted, on 1 July 2009, by [section 70(1)][569] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 202(1A): inserted, on 1 July 2009, by [section 70(1)][571] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
     Section 202(2A): inserted, on 1 December 1983, by section 19(2) of the Armed Forces Discipline Amendment Act 1980 (1980 No 37).
     
-    Section 202(2A)(a): amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 202(2A)(a): amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
     
-    Section 202(3): substituted, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 202(3): substituted, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 202(3) proviso: amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 202(3) proviso: amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
     
-    Section 202(4): amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 202(4): amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
     
     Section 202(5): added, on 1 December 1983, by section 19(3) of the Armed Forces Discipline Amendment Act 1980 (1980 No 37).
     
-    Section 202(5)(a): substituted, on 1 July 2009, by [section 70(2)][569] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 202(5)(a): substituted, on 1 July 2009, by [section 70(2)][571] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### Judge Advocate General
 
@@ -7676,7 +7688,7 @@ Miscellaneous provisions
     
 *   (1) The Governor-General may from time to time by warrant appoint a barrister or solicitor of the High Court who has held a practising certificate as such for not less than 7 years, whether or not he holds or has held any judicial office, to be Judge Advocate General of the Armed Forces.
     
-    (2) The Judge Advocate General may not be removed from office except in accordance with [section 16][570] of the Court Martial Act 2007; and that section applies accordingly with any necessary modifications.
+    (2) The Judge Advocate General may not be removed from office except in accordance with [section 16][572] of the Court Martial Act 2007; and that section applies accordingly with any necessary modifications.
     
     (2A) The Judge Advocate General must retire from office on attaining the age of 75 years.
     
@@ -7686,17 +7698,17 @@ Miscellaneous provisions
     
     Section 203(1): amended, on 1 December 1983, by section 20 of the Armed Forces Discipline Amendment Act 1980 (1980 No 37).
     
-    Section 203(2): substituted, on 1 July 2009, by [section 71(1)][571] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 203(2): substituted, on 1 July 2009, by [section 71(1)][573] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 203(2A): inserted, on 1 July 2009, by [section 71(1)][571] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 203(2A): inserted, on 1 July 2009, by [section 71(1)][573] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 203(3): repealed, on 1 July 2009, by [section 71(2)][571] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 203(3): repealed, on 1 July 2009, by [section 71(2)][573] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 203A Deputy Judge Advocate General
     
 *   (1) The Governor-General may from time to time by warrant appoint a barrister or solicitor of the High Court who has held a practising certificate for not less than 7 years, whether or not the person holds or has held any judicial office, to be Deputy Judge Advocate General of the Armed Forces.
     
-    (2) The Deputy Judge Advocate General may not be removed from office except in accordance with [section 16][570] of the Court Martial Act 2007; and that section applies accordingly with any necessary modifications.
+    (2) The Deputy Judge Advocate General may not be removed from office except in accordance with [section 16][572] of the Court Martial Act 2007; and that section applies accordingly with any necessary modifications.
     
     (2A) The Deputy Judge Advocate General must retire from office on attaining the age of 70 years.
     
@@ -7708,9 +7720,9 @@ Miscellaneous provisions
     
     Section 203A: inserted, on 15 December 1988, by section 2 of the Armed Forces Discipline Amendment Act (No 2) 1988 (1988 No 176).
     
-    Section 203A(2): substituted, on 1 July 2009, by [section 72][572] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 203A(2): substituted, on 1 July 2009, by [section 72][574] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 203A(2A): inserted, on 1 July 2009, by [section 72][572] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 203A(2A): inserted, on 1 July 2009, by [section 72][574] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 #### Discipline in respect of convoys
 
@@ -7728,7 +7740,7 @@ Miscellaneous provisions
     
     Compare: Naval Discipline Act 1957 s 131 (UK)
     
-    Section 204(1): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 204(1): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
 
 #### Regulations and Defence Council Orders
 
@@ -7780,7 +7792,7 @@ Miscellaneous provisions
     
     (1A) In subsection (1)(a) the term _civil court_, in relation to any offence, means a court exercising ordinary criminal jurisdiction whether in New Zealand or elsewhere; and includes a court of summary jurisdiction.
     
-    (1B) No regulations made under subsection (1) shall make any provision contrary to or inconsistent with [section 92][573] of the Government Superannuation Fund Act 1956\.
+    (1B) No regulations made under subsection (1) shall make any provision contrary to or inconsistent with [section 92][575] of the Government Superannuation Fund Act 1956\.
     
     (2) All regulations made under this Act shall come into force on the date of their notification in the _Gazette_, or on such later date as may be specified in the regulations.
     
@@ -7788,33 +7800,33 @@ Miscellaneous provisions
     
     Compare: 1950 No 39 s 17; 1950 No 40 s 16
     
-    Section 205(1)(a): substituted, on 1 July 2009, by [section 74(1)][574] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 205(1)(a): substituted, on 1 July 2009, by [section 74(1)][576] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 205(1)(aa): substituted, on 1 July 2009, by [section 74(1)][574] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 205(1)(aa): substituted, on 1 July 2009, by [section 74(1)][576] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
     Section 205(1)(b): substituted, on 1 December 1983, by section 21(1) of the Armed Forces Discipline Amendment Act 1980 (1980 No 37).
     
-    Section 205(1)(b): amended, on 1 July 2009, by [section 74(2)][574] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 205(1)(b): amended, on 1 July 2009, by [section 74(2)][576] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
     Section 205(1)(c): substituted, on 15 December 1988, by section 3 of the Armed Forces Discipline Amendment Act (No 2) 1988 (1988 No 176).
     
-    Section 205(1)(c): amended, on 3 June 1998, by [section 2(a)][575] of the Armed Forces Discipline Amendment Act 1998 (1998 No 27).
+    Section 205(1)(c): amended, on 3 June 1998, by [section 2(a)][577] of the Armed Forces Discipline Amendment Act 1998 (1998 No 27).
     
-    Section 205(1)(c): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 205(1)(c): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 205(1)(c)(i): substituted, on 1 July 2009, by [section 74(3)][574] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 205(1)(c)(i): substituted, on 1 July 2009, by [section 74(3)][576] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 205(1)(c)(ii): substituted, on 1 July 2009, by [section 74(3)][574] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 205(1)(c)(ii): substituted, on 1 July 2009, by [section 74(3)][576] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 205(1)(c)(iii): substituted, on 1 July 2009, by [section 74(3)][574] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 205(1)(c)(iii): substituted, on 1 July 2009, by [section 74(3)][576] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 205(1)(c)(iv): substituted, on 1 July 2009, by [section 74(3)][574] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 205(1)(c)(iv): substituted, on 1 July 2009, by [section 74(3)][576] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 205(1)(c)(v): substituted, on 1 July 2009, by [section 74(3)][574] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 205(1)(c)(v): substituted, on 1 July 2009, by [section 74(3)][576] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 205(1)(c)(vi): added, on 1 July 2009, by [section 74(3)][574] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 205(1)(c)(vi): added, on 1 July 2009, by [section 74(3)][576] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 205(1)(ca): inserted, on 1 July 2009, by [section 74(4)][574] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 205(1)(ca): inserted, on 1 July 2009, by [section 74(4)][576] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
     Section 205(1A): inserted, on 1 December 1983, by section 17 of the Armed Forces Discipline Amendment Act 1981 (1981 No 48).
     
@@ -7824,7 +7836,7 @@ Miscellaneous provisions
 
 ##### 206 Defence Force Orders
     
-*   (1) The Chief of Defence Force may from time to time make and issue orders, not inconsistent with this Act or the [Defence Act 1990][415], for all or any of the following purposes:
+*   (1) The Chief of Defence Force may from time to time make and issue orders, not inconsistent with this Act or the [Defence Act 1990][416], for all or any of the following purposes:
         
     *   (a) determining the nature and content of the punishments of stay of seniority, confinement to ship or barracks, extra work and drill, stoppage of leave, and extra duty:
     
@@ -7878,61 +7890,61 @@ Miscellaneous provisions
     
     (3) Any such orders may make different provision for different services, commands, branches, corps, formations, units, and ranks of the Armed Forces.
     
-    Section 206 heading: amended, on 1 July 2009, by [section 75(1)][576] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 206 heading: amended, on 1 July 2009, by [section 75(1)][578] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 206 heading: amended, on 1 April 1990, pursuant to [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 206 heading: amended, on 1 April 1990, pursuant to [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 206(1): amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 206(1): amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
     
-    Section 206(1): amended, on 1 April 1990, by [section 105(1)][424] of the Defence Act 1990 (1990 No 28).
+    Section 206(1): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
-    Section 206(1)(a): substituted, on 1 July 2009, by [section 75(2)][576] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 206(1)(a): substituted, on 1 July 2009, by [section 75(2)][578] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 206(1)(ab): inserted, on 1 July 2009, by [section 75(2)][576] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 206(1)(ab): inserted, on 1 July 2009, by [section 75(2)][578] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 206(1)(ac): inserted, on 1 July 2009, by [section 75(2)][576] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 206(1)(ac): inserted, on 1 July 2009, by [section 75(2)][578] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 206(1)(ad): inserted, on 1 July 2009, by [section 75(2)][576] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 206(1)(ad): inserted, on 1 July 2009, by [section 75(2)][578] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 206(1)(ae): inserted, on 1 July 2009, by [section 75(2)][576] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 206(1)(ae): inserted, on 1 July 2009, by [section 75(2)][578] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 206(1)(af): inserted, on 1 July 2009, by [section 75(2)][576] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 206(1)(af): inserted, on 1 July 2009, by [section 75(2)][578] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 206(1)(ag): inserted, on 1 July 2009, by [section 75(2)][576] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 206(1)(ag): inserted, on 1 July 2009, by [section 75(2)][578] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 206(1)(ah): inserted, on 1 July 2009, by [section 75(2)][576] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 206(1)(ah): inserted, on 1 July 2009, by [section 75(2)][578] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 206(1)(b): amended, on 1 July 2009, by [section 75(3)(a)][576] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 206(1)(b): amended, on 1 July 2009, by [section 75(3)(a)][578] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 206(1)(b): amended, on 1 July 2009, by [section 75(3)(b)][576] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 206(1)(b): amended, on 1 July 2009, by [section 75(3)(b)][578] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 206(1)(b): amended, on 1 July 2009, by [section 75(3)(c)][576] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 206(1)(b): amended, on 1 July 2009, by [section 75(3)(c)][578] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 206(1)(c): amended, on 1 July 2009, by [section 75(4)][576] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 206(1)(c): amended, on 1 July 2009, by [section 75(4)][578] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 206(1)(e): substituted, on 1 July 2009, by [section 75(5)][576] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 206(1)(e): substituted, on 1 July 2009, by [section 75(5)][578] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 206(1)(ea): inserted, on 1 July 2009, by [section 75(5)][576] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 206(1)(ea): inserted, on 1 July 2009, by [section 75(5)][578] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 206(1)(eb): inserted, on 1 July 2009, by [section 75(5)][576] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 206(1)(eb): inserted, on 1 July 2009, by [section 75(5)][578] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 206(1)(ec): inserted, on 1 July 2009, by [section 75(5)][576] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 206(1)(ec): inserted, on 1 July 2009, by [section 75(5)][578] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 206(1)(g): amended, on 1 September 2004, by [section 51][542] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 206(1)(g): amended, on 1 September 2004, by [section 51][544] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 206(1)(g): amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 206(1)(g): amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
     
-    Section 206(2): amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 206(2): amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
 
 #### Repeals, amendments, and savings
     
-*   Heading: substituted, on 28 July 1997, by [section 3][577] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+*   Heading: substituted, on 28 July 1997, by [section 3][579] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
 
 ##### 207 Transitional provisions
     
 *   \[Repealed\]
     
-    Section 207: repealed, on 28 July 1997, by [section 3][577] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Section 207: repealed, on 28 July 1997, by [section 3][579] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
 
 ##### 208 Repeals, amendments, and savings
     
@@ -7957,7 +7969,7 @@ Civilians subject to this Act
 
 *   1 Persons serving outside New Zealand, or otherwise employed, in such capacities connected with the Navy, the Army, or the Air Force as are specified for the purposes of this schedule by Defence Force Orders, being persons serving or employed under Her Majesty's Government in New Zealand.
     
-    Schedule 1 clause 1: amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Schedule 1 clause 1: amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
 
 *   2 Persons who are employed by, or in the service of, any naval, army, or air force organisation so specified to which Her Majesty's Government in New Zealand is a party and are employed by or in the service of that organisation by reason of that Government being a party thereto.
 
@@ -7965,7 +7977,7 @@ Civilians subject to this Act
 
 *   4 Persons who, for the purposes of their profession or employment, are attached to or accompany any part of the Navy, the Army, or the Air Force, pursuant to an authorisation granted by or on behalf of the Chief of Defence Force.
     
-    Schedule 1 clause 4: amended, on 28 July 1997, by [section 4][422] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
+    Schedule 1 clause 4: amended, on 28 July 1997, by [section 4][423] of the Armed Forces Discipline Amendment Act 1997 (1997 No 34).
 
 *   5 Persons forming part of the family of members of any part of the Navy, the Army, or the Air Force and residing with those members or about to reside or departing after residing with them.
 
@@ -7984,7 +7996,7 @@ Scale of punishments which may be imposed by Court Martial
 
 [ss 79][96], [80][97]
 
-*   Schedule 2 heading: amended, on 1 July 2009, by [section 76(1)][578] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Schedule 2 heading: amended, on 1 July 2009, by [section 76(1)][580] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 *   1 The punishments that may be imposed on an offender convicted by the Court Martial are as follows:
         
@@ -8008,9 +8020,9 @@ Scale of punishments which may be imposed by Court Martial
     
     *   (j) a reprimand.
     
-    Schedule 2 clause 1: amended, on 1 July 2009, by [section 76(2)][578] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Schedule 2 clause 1: amended, on 1 July 2009, by [section 76(2)][580] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Schedule 2 clause 1(a): repealed, on 26 December 1989, by [section 5(10)][450] of the Abolition of the Death Penalty Act 1989 (1989 No 119).
+    Schedule 2 clause 1(a): repealed, on 26 December 1989, by [section 5(10)][452] of the Abolition of the Death Penalty Act 1989 (1989 No 119).
 
 *   2 Except as provided in clauses 3 and 4, a punishment specified in any paragraph of the scale prescribed by clause 1 shall be regarded as less severe than any of the punishments that are specified in the preceding paragraphs of that scale.
 
@@ -8031,7 +8043,7 @@ Scale of authorised summary punishments
 
 [s 117V][195]
 
-*   Schedule 3 heading: amended, on 1 July 2009, by [section 77(1)][579] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Schedule 3 heading: amended, on 1 July 2009, by [section 77(1)][581] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 *   1 The punishments that may be imposed on an offender by a disciplinary officer are as follows:
         
@@ -8057,9 +8069,9 @@ Scale of authorised summary punishments
     
     *   (k) a caution.
     
-    Schedule 3 clause 1: amended, on 1 July 2009, by [section 77(2)(a)][579] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Schedule 3 clause 1: amended, on 1 July 2009, by [section 77(2)(a)][581] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Schedule 3 clause 1(i): repealed, on 1 July 2009, by [section 77(2)(b)][579] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Schedule 3 clause 1(i): repealed, on 1 July 2009, by [section 77(2)(b)][581] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 *   2 Except as provided in clauses 3 and 4, a punishment specified in any paragraph of the scale prescribed by clause 1 shall be regarded as less severe than any of the punishments that are specified in the preceding paragraphs of that scale.
 
@@ -8078,7 +8090,7 @@ Summary punishments that may be imposed by commanding officer, detachment comman
 
 [ss 117V][195], [117W][196]
 
-*   Schedule 4: substituted, on 1 July 2009, by [section 78][580] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Schedule 4: substituted, on 1 July 2009, by [section 78][582] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 **Column 1** **Column 2** **Column 3**
 
@@ -8169,7 +8181,7 @@ Summary punishments that may be imposed by superior commander acting as discipli
 
 [ss 117V][195], [117W][196]
 
-*   Schedule 5: substituted, on 1 July 2009, by [section 78][580] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Schedule 5: substituted, on 1 July 2009, by [section 78][582] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 **Rank of offender** **If offender was given right to elect trial by Court Martial** **If offender was not given right to elect trial by Court Martial**
 
@@ -8192,11 +8204,11 @@ For the purposes of this schedule, a superior commander is not empowered to impo
 ## Schedule 6  
 Alternative offences of which accused may be convicted by court-martial
 
-[s 135(4)][581]
+[s 135(4)][583]
 
 \[Repealed\]
     
-*   Schedule 6: repealed, on 1 July 2009, by [section 79][582] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+*   Schedule 6: repealed, on 1 July 2009, by [section 79][584] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ---
 
@@ -8207,15 +8219,15 @@ Enactments amended
 
 ##### Courts Martial Appeals Act 1953 (1953 No 100)
 
-_Amendment(s) incorporated in the [Act(s)][492]_.
+_Amendment(s) incorporated in the [Act(s)][494]_.
 
 ##### Crimes Act 1961 (1961 No 43)
 
-_Amendment(s) incorporated in the [Act(s)][583]_.
+_Amendment(s) incorporated in the [Act(s)][585]_.
 
 ##### Geneva Conventions Act 1958 (1958 No 19)
 
-_Amendment(s) incorporated in the [Acts(s)][584]_.
+_Amendment(s) incorporated in the [Acts(s)][586]_.
 
 ##### Police Offences Act 1927 (1927 No 35)
 
@@ -8223,7 +8235,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Wills Amendment Act 1955 (1955 No 94)
 
-_Amendment(s) incorporated in the [Act(s)][585]_.
+_Amendment(s) incorporated in the [Act(s)][587]_.
 
 ---
 
@@ -8309,7 +8321,7 @@ Commencementsee section 2
     
 *   (1) _Amendment(s) incorporated in the Act(s)._
     
-    (2) Despite subsection (1), [section 104][586] of the Sentencing Act 2002 does not apply to the sentencing of an offender under the principal Act if the offender is sentenced on or after the commencement of this section for the crime of murder committed before that commencement.
+    (2) Despite subsection (1), [section 104][588] of the Sentencing Act 2002 does not apply to the sentencing of an offender under the principal Act if the offender is sentenced on or after the commencement of this section for the crime of murder committed before that commencement.
 
 #### Transitional provisions
 
@@ -8321,9 +8333,9 @@ Commencementsee section 2
         
     *   (a) the charge must be referred to the Director of Military Prosecutions; and
     
-    *   (b) the accused may be remanded for trial in the Court Martial (as established by the [Court Martial Act 2007][421]); and
+    *   (b) the accused may be remanded for trial in the Court Martial (as established by the [Court Martial Act 2007][422]); and
     
-    *   (c) the charge must then be dealt with in accordance with the principal Act (as amended by this Act) and the [Court Martial Act 2007][421]; and
+    *   (c) the charge must then be dealt with in accordance with the principal Act (as amended by this Act) and the [Court Martial Act 2007][422]; and
     
     *   (d) [sections 117ZF to 117ZI][210] of the principal Act (as substituted by this Act) apply with all necessary modifications for the purpose of giving effect to paragraphs (a) to (c).
     
@@ -8337,7 +8349,7 @@ Commencementsee section 2
     
 *   (1) Conduct that is alleged to have occurred before the commencement of this section may be dealt with under the principal Act, as amended by this Act, if the disciplinary officer concerned is satisfied that an investigation and proceeding under [Part 5][140] of the principal Act, as it was in force immediately before the commencement of this section, has not been commenced in relation to the conduct before that commencement.
     
-    (2) This section does not limit [section 82][587].
+    (2) This section does not limit [section 82][589].
 
 #### 
 
@@ -8351,59 +8363,61 @@ Commencementsee section 2
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][588] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][589] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][590] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][591] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][590] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][591] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][592] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][593] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [Armed Forces Discipline Amendment Act][592] 2013 (2013 No 108)
+*   [Armed Forces Discipline Amendment Act][594] 2013 (2013 No 108)
     
-    Criminal Procedure Act 2011 (2011 No 81): [sections 393][505], [413][426]
+    Sale and Supply of Alcohol Act 2012 (2012 No 120): [section 417(1)][424]
     
-    [Armed Forces Discipline Amendment Act 2010][593] (2010 No 48)
+    Criminal Procedure Act 2011 (2011 No 81): [sections 393][507], [413][428]
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii), (iv)][481]
+    [Armed Forces Discipline Amendment Act 2010][595] (2010 No 48)
     
-    Court Martial Act 2007 (2007 No 101): [section 86][501]
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii), (iv)][483]
     
-    [Armed Forces Discipline Amendment Act (No 2) 2007][594] (2007 No 98)
+    Court Martial Act 2007 (2007 No 101): [section 86][503]
     
-    Coroners Act 2006 (2006 No 38): [section 146][526]
+    [Armed Forces Discipline Amendment Act (No 2) 2007][596] (2007 No 98)
     
-    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][462]
+    Coroners Act 2006 (2006 No 38): [section 146][528]
     
-    Visiting Forces Act 2004 (2004 No 59): [section 26][430]
+    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][464]
     
-    Corrections Act 2004 (2004 No 50): [section 206][431]
+    Visiting Forces Act 2004 (2004 No 59): [section 26][432]
     
-    Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115): [section 51][542]
+    Corrections Act 2004 (2004 No 50): [section 206][433]
     
-    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][429]
+    Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115): [section 51][544]
     
-    Crimes Amendment Act 2003 (2003 No 39): [section 34][427]
+    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][431]
     
-    Parole Act 2002 (2002 No 10): [section 125][516]
+    Crimes Amendment Act 2003 (2003 No 39): [section 34][429]
     
-    [Armed Forces Discipline Amendment Act 2001][595] (2001 No 55)
+    Parole Act 2002 (2002 No 10): [section 125][518]
     
-    Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49): [section 337(1)][541]
+    [Armed Forces Discipline Amendment Act 2001][597] (2001 No 55)
     
-    [Armed Forces Discipline Amendment Act 1999][596] (1999 No 28)
+    Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49): [section 337(1)][543]
     
-    [Armed Forces Discipline Amendment Act 1998][597] (1998 No 27)
+    [Armed Forces Discipline Amendment Act 1999][598] (1999 No 28)
     
-    [Armed Forces Discipline Amendment Act 1997][598] (1997 No 34)
+    [Armed Forces Discipline Amendment Act 1998][599] (1998 No 27)
     
-    Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46): [section 140][546]
+    [Armed Forces Discipline Amendment Act 1997][600] (1997 No 34)
     
-    Defence Act 1990 (1990 No 28): [section 105(1)][424]
+    Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46): [section 140][548]
     
-    Abolition of the Death Penalty Act 1989 (1989 No 119): [section 5(1)--(7), (10)][450]
+    Defence Act 1990 (1990 No 28): [section 105(1)][426]
     
-    Public Finance Act 1989 (1989 No 44): [sections 65R(3)][485], [83(7)][537]
+    Abolition of the Death Penalty Act 1989 (1989 No 119): [section 5(1)--(7), (10)][452]
+    
+    Public Finance Act 1989 (1989 No 44): [sections 65R(3)][487], [83(7)][539]
     
     Armed Forces Discipline Amendment Act (No 2) 1988 (1988 No 176)
     
@@ -8419,7 +8433,7 @@ Commencementsee section 2
     
     Armed Forces Discipline Amendment Act 1980 (1980 No 37)
     
-    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][535]
+    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][537]
     
     Armed Forces Discipline Amendment Act 1976 (1976 No 13)
 
@@ -8829,198 +8843,200 @@ Commencementsee section 2
 [401]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM205891
 [402]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM204978
 [403]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM204983
-[404]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM249672
-[405]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM206474
-[406]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM205885
-[407]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM327394
-[408]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM206014
-[409]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM436100
-[410]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1001934
-[411]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM206023
-[412]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM204329
-[413]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM205893
-[414]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM205832
-[415]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM204972
-[416]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM294848
-[417]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM206001
-[418]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM329897
-[419]: http://www.legislation.govt.nz/act/public/1971/0053/latest/whole.html#DLM403461
-[420]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM302487
-[421]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1001889
-[422]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM409940
-[423]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034015
-[424]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM206946
-[425]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM409938
-[426]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM3360714
-[427]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM200436
-[428]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM3039905
-[429]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM205009
-[430]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM302851
-[431]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM297136
-[432]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM328213
-[433]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM135341
-[434]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM135540
-[435]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM136497
-[436]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034064
-[437]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM206060
-[438]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM206062
-[439]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034066
-[440]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM206012
-[441]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034067
-[442]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM318001
-[443]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034068
-[444]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034069
-[445]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034070
-[446]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034071
-[447]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034072
-[448]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034073
-[449]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034074
-[450]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM193582
-[451]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM328528
-[452]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034077
-[453]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM160808
-[454]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM330408
-[455]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034079
-[456]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034080
-[457]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034082
-[458]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034083
-[459]: http://www.legislation.govt.nz/act/public/1971/0053/latest/whole.html#DLM404257
-[460]: http://www.legislation.govt.nz/act/public/1971/0053/latest/whole.html#DLM404264
-[461]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034084
-[462]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM333795
-[463]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034086
-[464]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034087
-[465]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034088
-[466]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034089
-[467]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM110948
-[468]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034090
-[469]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034091
-[470]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034092
-[471]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034093
-[472]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034094
-[473]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM135548
-[474]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034095
-[475]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM23922
-[476]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034096
-[477]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM174646
-[478]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM283290
-[479]: http://www.legislation.govt.nz/act/public/1971/0053/latest/whole.html#DLM403606
-[480]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034097
-[481]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1102349
-[482]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM3039907
-[483]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM192817
-[484]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034099
-[485]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM162942
-[486]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034100
-[487]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM68904
-[488]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034101
-[489]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM5619807
-[490]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034107
-[491]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM205884
-[492]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM282966
-[493]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034118
-[494]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM3039908
-[495]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM157820
-[496]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM3039909
-[497]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM3039910
-[498]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM225526
-[499]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM225527
-[500]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034210
-[501]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1002054
-[502]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034249
-[503]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM3360327
-[504]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034250
-[505]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM3865810
-[506]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034252
-[507]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034253
-[508]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034254
-[509]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM3039911
-[510]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034268
-[511]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM3039912
-[512]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM410028
-[513]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1001969
-[514]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM137631
-[515]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM138868
-[516]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM140118
-[517]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034295
-[518]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1002035
-[519]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034296
-[520]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034297
-[521]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034298
-[522]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM206010
-[523]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034299
-[524]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM377056
-[525]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034300
-[526]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM378303
-[527]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034301
-[528]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM2096926
-[529]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM110952
-[530]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034302
-[531]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034303
-[532]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034304
-[533]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034305
-[534]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM311863
-[535]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM35085
-[536]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034306
-[537]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM163167
-[538]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM99493
-[539]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM103473
-[540]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034307
-[541]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM104117
-[542]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM224534
-[543]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM263029
-[544]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM262720
-[545]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM262175
-[546]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM264254
-[547]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034309
-[548]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034310
-[549]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034311
-[550]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034312
-[551]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM328219
-[552]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034313
-[553]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034314
-[554]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM263809
-[555]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM264234
-[556]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM263482
-[557]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM263801
-[558]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034315
-[559]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034316
-[560]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034317
-[561]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM263090
-[562]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034318
-[563]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034320
-[564]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM318535
-[565]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM328796
-[566]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034350
-[567]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM446000
-[568]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM163141
-[569]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034351
-[570]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1001943
-[571]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034352
-[572]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034353
-[573]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM447924
-[574]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034355
-[575]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM426237
-[576]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034356
-[577]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM409939
-[578]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034357
-[579]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034358
-[580]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034359
-[581]: http://www.legislation.govt.nz/act/public/1971/0053/latest/whole.html#DLM403608
-[582]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034360
-[583]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM327381
-[584]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM318007
-[585]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM293352
-[586]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM136802
-[587]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034364
-[588]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM2998516
-[589]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM2998515
-[590]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM2998532
-[591]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[592]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM5619802
-[593]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM3039900
-[594]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034007
-[595]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM110942
-[596]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM23915
-[597]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM426231
-[598]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM409932
+[404]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM3339341
+[405]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM249672
+[406]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM206474
+[407]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM205885
+[408]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM327394
+[409]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM206014
+[410]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM436100
+[411]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1001934
+[412]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM206023
+[413]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM204329
+[414]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM205893
+[415]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM205832
+[416]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM204972
+[417]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM294848
+[418]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM206001
+[419]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM329897
+[420]: http://www.legislation.govt.nz/act/public/1971/0053/latest/whole.html#DLM403461
+[421]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM302487
+[422]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1001889
+[423]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM409940
+[424]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM3339984
+[425]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034015
+[426]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM206946
+[427]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM409938
+[428]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM3360714
+[429]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM200436
+[430]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM3039905
+[431]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM205009
+[432]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM302851
+[433]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM297136
+[434]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM328213
+[435]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM135341
+[436]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM135540
+[437]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM136497
+[438]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034064
+[439]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM206060
+[440]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM206062
+[441]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034066
+[442]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM206012
+[443]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034067
+[444]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM318001
+[445]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034068
+[446]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034069
+[447]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034070
+[448]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034071
+[449]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034072
+[450]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034073
+[451]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034074
+[452]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM193582
+[453]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM328528
+[454]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034077
+[455]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM160808
+[456]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM330408
+[457]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034079
+[458]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034080
+[459]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034082
+[460]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034083
+[461]: http://www.legislation.govt.nz/act/public/1971/0053/latest/whole.html#DLM404257
+[462]: http://www.legislation.govt.nz/act/public/1971/0053/latest/whole.html#DLM404264
+[463]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034084
+[464]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM333795
+[465]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034086
+[466]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034087
+[467]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034088
+[468]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034089
+[469]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM110948
+[470]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034090
+[471]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034091
+[472]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034092
+[473]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034093
+[474]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034094
+[475]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM135548
+[476]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034095
+[477]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM23922
+[478]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034096
+[479]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM174646
+[480]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM283290
+[481]: http://www.legislation.govt.nz/act/public/1971/0053/latest/whole.html#DLM403606
+[482]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034097
+[483]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1102349
+[484]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM3039907
+[485]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM192817
+[486]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034099
+[487]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM162942
+[488]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034100
+[489]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM68904
+[490]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034101
+[491]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM5619807
+[492]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034107
+[493]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM205884
+[494]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM282966
+[495]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034118
+[496]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM3039908
+[497]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM157820
+[498]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM3039909
+[499]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM3039910
+[500]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM225526
+[501]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM225527
+[502]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034210
+[503]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1002054
+[504]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034249
+[505]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM3360327
+[506]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034250
+[507]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM3865810
+[508]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034252
+[509]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034253
+[510]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034254
+[511]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM3039911
+[512]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034268
+[513]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM3039912
+[514]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM410028
+[515]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1001969
+[516]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM137631
+[517]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM138868
+[518]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM140118
+[519]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034295
+[520]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1002035
+[521]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034296
+[522]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034297
+[523]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034298
+[524]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM206010
+[525]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034299
+[526]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM377056
+[527]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034300
+[528]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM378303
+[529]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034301
+[530]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM2096926
+[531]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM110952
+[532]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034302
+[533]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034303
+[534]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034304
+[535]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034305
+[536]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM311863
+[537]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM35085
+[538]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034306
+[539]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM163167
+[540]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM99493
+[541]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM103473
+[542]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034307
+[543]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM104117
+[544]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM224534
+[545]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM263029
+[546]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM262720
+[547]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM262175
+[548]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM264254
+[549]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034309
+[550]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034310
+[551]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034311
+[552]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034312
+[553]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM328219
+[554]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034313
+[555]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034314
+[556]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM263809
+[557]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM264234
+[558]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM263482
+[559]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM263801
+[560]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034315
+[561]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034316
+[562]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034317
+[563]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM263090
+[564]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034318
+[565]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034320
+[566]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM318535
+[567]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM328796
+[568]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034350
+[569]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM446000
+[570]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM163141
+[571]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034351
+[572]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1001943
+[573]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034352
+[574]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034353
+[575]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM447924
+[576]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034355
+[577]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM426237
+[578]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034356
+[579]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM409939
+[580]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034357
+[581]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034358
+[582]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034359
+[583]: http://www.legislation.govt.nz/act/public/1971/0053/latest/whole.html#DLM403608
+[584]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034360
+[585]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM327381
+[586]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM318007
+[587]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM293352
+[588]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM136802
+[589]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034364
+[590]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM2998516
+[591]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM2998515
+[592]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM2998532
+[593]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[594]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM5619802
+[595]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM3039900
+[596]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM1034007
+[597]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM110942
+[598]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM23915
+[599]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM426231
+[600]: http://www.legislation.govt.nz/act/public/1971/0053/latest/link.aspx?id=DLM409932
