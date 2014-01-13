@@ -1,5 +1,5 @@
 Reprint  
-as at 28 November 2013
+as at 16 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -48,272 +48,417 @@ This Act is administered by the Ministry of Business, Innovation, and Employment
 
 [3F][12][][12][Application of Act to loaned employees][12]
 
-[4][13][][13][Act not to affect other legislation][13]
+[3G][13][][13][Provisions affecting application of amendments to this Act][13]
 
-[5][14][][14][Object of Act][14]
+[4][14][][14][Act not to affect other legislation][14]
 
-[Part 2][15]  
-[Duties relating to health and safety in employment][15]
+[5][15][][15][Object of Act][15]
 
-[General duties of employers][16]
+[Part 2][16]  
+[Duties relating to health and safety in employment][16]
 
-[6][17][][17][Employers to ensure safety of employees][17]
+[General duties of employers][17]
 
-[Duties of employers in relation to hazard management][18]
+[6][18][][18][Employers to ensure safety of employees][18]
 
-[7][19][][19][Identification of hazards][19]
+[Duties of employers in relation to hazard management][19]
 
-[8][20][][20][Significant hazards to employees to be eliminated if practicable][20]
+[7][20][][20][Identification of hazards][20]
 
-[9][21][][21][Significant hazards to employees to be isolated where elimination impracticable][21]
+[8][21][][21][Significant hazards to employees to be eliminated if practicable][21]
 
-[10][22][][22][Significant hazards to employees to be minimised, and employees to be protected, where elimination and isolation impracticable][22]
+[9][22][][22][Significant hazards to employees to be isolated where elimination impracticable][22]
 
-[Duties of employers in relation to information][23]
+[10][23][][23][Significant hazards to employees to be minimised, and employees to be protected, where elimination and isolation impracticable][23]
 
-[11][24][][24][Employees to be given results of monitoring][24]
+[Duties of employers in relation to information][24]
 
-[12][25][][25][Information for employees generally and health and safety representatives][25]
+[11][25][][25][Employees to be given results of monitoring][25]
 
-[Duties of employers in relation to training and supervision][26]
+[12][26][][26][Information for employees generally and health and safety representatives][26]
 
-[13][27][][27][Training and supervision][27]
+[Duties of mine operators in relation to information][27]
 
-[Duties of employers in relation to Police vetting of employees at limited child care centres][28]
+[12A][28][][28][Mine workers to be given results of monitoring][28]
 
-[13A][29][][29][Limited child care centre employees must be suitable][29]
+[12B][29][][29][Information for site health and safety representatives][29]
 
-[13B][30][][30][Police vetting of employees at limited child care centres][30]
+[Duties of employers in relation to training and supervision][30]
 
-[13C][31][][31][Police vetting of contractors and their employees who work at limited child care centres][31]
+[13][31][][31][Training and supervision][31]
 
-[13D][32][][32][Police vet must be obtained before person has unsupervised access to children][32]
+[Duties of mine operators in relation to training and supervision][32]
 
-[13E][33][][33][Procedures relating to Police vets under section 13B or 13C][33]
+[13AA][33][][33][Training and supervision of mine workers][33]
 
-[14][34][][34][Employers to involve employees in development of health and safety procedures][34] \[Repealed\]
+[Duties of employers in relation to Police vetting of employees at limited child care centres][34]
 
-[Other duties][35]
+[13A][35][][35][Limited child care centre employees must be suitable][35]
 
-[15][36][][36][Duties of employers to people who are not employees][36]
+[13B][36][][36][Police vetting of employees at limited child care centres][36]
 
-[16][37][][37][Duties of persons who control places of work][37]
+[13C][37][][37][Police vetting of contractors and their employees who work at limited child care centres][37]
 
-[17][38][][38][Duties of self-employed people][38]
+[13D][38][][38][Police vet must be obtained before person has unsupervised access to children][38]
 
-[18][39][][39][Duties of principals][39]
+[13E][39][][39][Procedures relating to Police vets under section 13B or 13C][39]
 
-[18A][40][][40][Duties of persons selling or supplying plant for use in place of work][40]
+[14][40][][40][Employers to involve employees in development of health and safety procedures][40] \[Repealed\]
 
-[19][41][][41][Duties of employees][41]
+[Other duties][41]
 
-[Part 2A][42]  
-[Employee participation][42]
+[15][42][][42][Duties of employers to people who are not employees][42]
 
-[19A][43][][43][Purpose of Part 2A][43]
+[16][43][][43][Duties of persons who control places of work][43]
 
-[19B][44][][44][General duty to involve employees in health and safety matters][44]
+[17][44][][44][Duties of self-employed people][44]
 
-[19C][45][][45][Development of employee participation system][45]
+[18][45][][45][Duties of principals][45]
 
-[19D][46][][46][Provisions that apply if employer and employees fail to develop system for employee participation][46]
+[18A][46][][46][Duties of persons selling or supplying plant for use in place of work][46]
 
-[19E][47][][47][Training of health and safety representatives][47]
+[19][47][][47][Duties of employees][47]
 
-[19F][48][][48][Calculation of maximum total number of days' paid leave for health and safety training][48]
+[Part 2A][48]  
+[Employee participation][48]
 
-[19G][49][][49][Minister may approve occupational health and safety training][49]
+[19A][49][][49][Purpose of Part 2A][49]
 
-[19H][50][][50][System for employee participation in Armed Forces][50]
+[19B][50][][50][General duty to involve employees in health and safety matters][50]
 
-[19I][51][][51][Meaning of employee in sections 19C(1) and 19F(1)][51]
+[19C][51][][51][Development of employee participation system][51]
 
-[Part 3][52]  
-[Standards][52]
+[19D][52][][52][Provisions that apply if employer and employees fail to develop system for employee participation][52]
 
-[Codes of practice][53]
+[19E][53][][53][Training of health and safety representatives][53]
 
-[20][54][][54][Codes of practice][54]
+[19F][54][][54][Calculation of maximum total number of days' paid leave for health and safety training][54]
 
-[Regulations][55]
+[19G][55][][55][Minister may approve occupational health and safety training][55]
 
-[21][56][][56][Regulations][56]
+[19H][56][][56][System for employee participation in Armed Forces][56]
 
-[22][57][][57][Application of regulations][57]
+[19I][57][][57][Meaning of employee in sections 19C(1) and 19F(1)][57]
 
-[23][58][][58][Other provisions relating to regulations][58]
+[19J][58][][58][Relationship of this Part with Part 2B][58]
 
-[24][59][][59][Saving of regulations made under certain repealed enactments][59]
+[Part 2B][59]  
+[Worker participation in health and safety in mining sector][59]
 
-[Part 4][60]  
-[General provisions][60]
+[19K][60][][60][Purpose of Part][60]
 
-[Accidents][61]
+[19L][61][][61][Interpretation][61]
 
-[25][62][][62][Recording and notification of accidents and serious harm][62]
+[19M][62][][62][Meaning of mining operation][62]
 
-[25A][63][][63][Transfer of accident information][63]
+[19N][63][][63][Meaning of quarrying operation][63]
 
-[26][64][][64][No interference at accident scene][64]
+[19O][64][][64][Meaning of tunnelling operation][64]
 
-[27][65][][65][Inquiry into cause of accident][65]
+[19P][65][][65][Governor-General may, by Order in Council, exclude operations from section 19O][65]
 
-[28][66][][66][Coroner may call for report on fatal accident][66]
+[19Q][66][][66][General duty to involve mine workers in health and safety matters][66]
 
-[Right of employees to refuse to perform work likely to cause serious harm][67]
+[Worker participation system][67]
 
-[28A][68][][68][Employees may refuse to perform work likely to cause serious harm][68]
+[19R][68][][68][Development of worker participation system][68]
 
-[Enforcement by other agencies][69]
+[19S][69][][69][Training of site health and safety representatives ][69]
 
-[28B][70][][70][Enforcement by other agencies][70]
+[19T][70][][70][Review and replacement of worker participation systems][70]
 
-[Inspectors][71]
+[19U][71][][71][Prescribed provisions apply if no scheme in place][71]
 
-[29][72][][72][Inspectors][72]
+[Site health and safety representatives][72]
 
-[30][73][][73][Functions of inspectors][73]
+[19V][73][][73][Election of site health and safety representatives][73]
 
-[31][74][][74][Powers of entry and inspection][74]
+[19W][74][][74][Functions of site health and safety representatives][74]
 
-[32][75][][75][Inspectors to prove identity][75]
+[19X][75][][75][No duty on site health and safety representatives][75]
 
-[33][76][][76][Powers to take samples and other objects and things][76]
+[Powers of site health and safety representatives][76]
 
-[Departmental medical practitioners][77]
+[19Y][77][][77][Competency requirements for exercise of certain powers][77]
 
-[34][78][][78][Appointment of departmental medical practitioners][78]
+[19Z][78][][78][Power of site health and safety representative to attend interview][78]
 
-[35][79][][79][Powers of entry and inspection of departmental medical practitioners][79]
+[19ZA][79][][79][Power of site health and safety representative to enter and inspect mining operation][79]
 
-[36][80][][80][Departmental medical practitioners may require medical examinations of employees][80]
+[19ZB][80][][80][Power of site health and safety representative to examine and copy documents][80]
 
-[37][81][][81][Departmental medical practitioners may suspend employees in certain cases][81]
+[19ZC][81][][81][Power to require assistance][81]
 
-[38][82][][82][Administrative provisions][82]
+[19ZD][82][][82][Power of site health and safety representative to accompany inspector][82]
 
-[Improvement and prohibition notices][83]
+[19ZE][83][][83][Site health and safety representative may consult inspector][83]
 
-[39][84][][84][Inspectors may issue improvement notices][84]
+[19ZF][84][][84][Trained site health and safety representatives may issue hazard notices][84]
 
-[40][85][][85][How improvement notices to be given][85]
+[19ZG][85][][85][Power of site health and safety representative to give notice requiring suspension of mining operation][85]
 
-[41][86][][86][Inspectors may issue prohibition notices][86]
+[19ZH][86][][86][Power of site health and safety representative to require mining operation to stop in case of imminent serious harm][86]
 
-[42][87][][87][Service of prohibition notices][87]
+[19ZI][87][][87][Inspector may cancel order to suspend mining operation][87]
 
-[43][88][][88][Compliance with prohibition notices][88]
+[19ZJ][88][][88][Workers must do other work][88]
 
-[44][89][][89][How notices to be addressed][89]
+[19ZK][89][][89][Work not to restart until no likelihood of serious harm][89]
 
-[45][90][][90][Matters may be completed by different inspectors][90]
+[19ZL][90][][90][Protection of site health and safety representatives performing functions or exercising powers][90]
 
-[Appeals][91]
+[19ZM][91][][91][Functions and powers for health and safety purposes only][91]
 
-[46][92][][92][Appeals against notices][92]
+[19ZN][92][][92][Information to be used for health and safety purposes only][92]
 
-[Hazard notices][93]
+[19ZO][93][][93][Health and safety representative not to unnecessarily impede production][93]
 
-[46A][94][][94][Trained health and safety representatives may issue hazard notices][94]
+[19ZP][94][][94][Protection from civil and criminal liability][94]
 
-[Duties in respect of inspectors][95]
+[19ZQ][95][][95][Obligations of mine operators][95]
 
-[47][96][][96][Duty of assistance][96]
+[Removal of site health and safety representative][96]
 
-[48][97][][97][Obstruction, etc][97]
+[19ZR][97][][97][WorkSafe may remove site health and safety representative][97]
 
-[Offences and penalties][98]
+[19ZS][98][][98][Election of another site health and safety representative][98]
 
-[49][99][][99][Offences likely to cause serious harm][99]
+[19ZT][99][][99][Site health and safety representative may appeal against removal][99]
 
-[50][100][][100][Other offences][100]
+[Industry health and safety representatives][100]
 
-[51][101][][101][Actions taken to prevent harm][101]
+[19ZU][101][][101][Appointment of industry health and safety representatives][101]
 
-[51A][102][][102][Sentencing criteria][102]
+[19ZV][102][][102][Notice to WorkSafe of appointment or cessation of appointment of representative][102]
 
-[52][103][][103][Failure to comply with section 14][103] \[Repealed\]
+[19ZW][103][][103][Functions and powers of industry health and safety representatives][103]
 
-[53][104][][104][Proof of intention not required][104]
+[19ZX][104][][104][Further provision concerning scope of functions and powers of industry health and safety representatives][104]
 
-[54][105][][105][Notification to Secretary of interest in knowing of enforcement action taken by inspector][105]
+[19ZY][105][][105][Identity cards][105]
 
-[54A][106][][106][Filing charging document][106]
+[19ZZ][106][][106][Production or display of identity card][106]
 
-[54B][107][][107][Time limit for filing charging document][107]
+[19ZZA][107][][107][Removal of industry health and safety representative][107]
 
-[54C][108][][108][Extension of time for person other than inspector to file charging document][108]
+[19ZZB][108][][108][Register of industry health and safety representatives][108]
 
-[54D][109][][109][Extension of time if inspector needs longer to decide whether to file charging document][109]
+[19ZZC][109][][109][Alterations to register][109]
 
-[54E][110][][110][Continuing or repeated matters][110]
+[19ZZD][110][][110][Search of register][110]
 
-[55][111][][111][Other provisions relating to offences][111]
+[Part 3][111]  
+[Standards][111]
 
-[56][112][][112][Offences by bodies corporate or Crown organisations][112]
+[Codes of practice][112]
 
-[Infringement offences][113]
+[20][113][][113][Codes of practice][113]
 
-[56A][114][][114][Infringement offences][114]
+[20A][114][][114][Code to be approved by Minister][114]
 
-[56B][115][][115][Infringement notices][115]
+[20B][115][][115][Court may have regard to code][115]
 
-[56C][116][][116][Prior warning of infringement offence][116]
+[20C][116][][116][Codes to be made available][116]
 
-[56D][117][][117][Inspector may require information][117]
+[Competencies in mining industry][117]
 
-[56E][118][][118][Procedural requirements for infringement notices][118]
+[20D][118][][118][New Zealand Mining Board of Examiners][118]
 
-[56F][119][][119][Infringement fees][119]
+[20E][119][][119][Functions of Board][119]
 
-[56G][120][][120][Payment of infringement fee][120]
+[20F][120][][120][Membership of Board][120]
 
-[56H][121][][121][Effect of infringement notice][121]
+[20G][121][][121][Proceedings of Board][121]
 
-[Insurance against fines unlawful and of no effect][122]
+[20H][122][][122][Board levy][122]
 
-[56I][123][][123][Insurance against fines unlawful and of no effect][123]
+[Regulations][123]
 
-[Proof of notices][124]
+[21][124][][124][Regulations][124]
 
-[57][125][][125][Proof of notices][125]
+[22][125][][125][Application of regulations][125]
 
-[Personation of inspectors][126]
+[23][126][][126][Other provisions relating to regulations][126]
 
-[58][127][][127][Personation of inspectors][127]
+[24][127][][127][Saving of regulations made under certain repealed enactments][127]
 
-[Funding of administration][128]
+[Part 4][128]  
+[General provisions][128]
 
-[59][129][][129][Funding][129]
+[Accidents][129]
 
-[Information provided by Accident Rehabilitation and Compensation Insurance Corporation][130]
+[25][130][][130][Recording and notification of accidents and serious harm][130]
+
+[25A][131][][131][Transfer of accident information][131]
+
+[26][132][][132][No interference at accident scene][132]
+
+[27][133][][133][Inquiry into cause of accident][133]
+
+[28][134][][134][Coroner may call for report on fatal accident][134]
+
+[Right of employees to refuse to perform work likely to cause serious harm][135]
+
+[28A][136][][136][Employees may refuse to perform work likely to cause serious harm][136]
+
+[Enforcement by other agencies][137]
+
+[28B][138][][138][Enforcement by other agencies][138]
+
+[Inspectors][139]
+
+[29][140][][140][Inspectors][140]
+
+[30][141][][141][Functions of inspectors][141]
+
+[31][142][][142][Powers of entry and inspection][142]
+
+[32][143][][143][Inspectors to prove identity][143]
+
+[33][144][][144][Powers to take samples and other objects and things][144]
+
+[Health and safety medical practitioners][145]
+
+[34][146][][146][Appointment of health and safety medical practitioners][146]
+
+[35][147][][147][Powers of entry and inspection of health and safety medical practitioners][147]
+
+[36][148][][148][Health and safety medical practitioners may require medical examinations of employees][148]
+
+[37][149][][149][Health and safety medical practitioners may suspend employees in certain cases][149]
+
+[38][150][][150][Administrative provisions][150]
+
+[Improvement and prohibition notices][151]
+
+[39][152][][152][Inspectors may issue improvement notices][152]
+
+[39A][153][][153][Inspectors may issue improvement notices in relation to mining operation][153]
+
+[40][154][][154][How improvement notices to be given][154]
+
+[41][155][][155][Inspectors may issue prohibition notices][155]
+
+[41A][156][][156][Inspectors may issue prohibition notices in relation to mining operation][156]
+
+[42][157][][157][Service of prohibition notices][157]
+
+[43][158][][158][Compliance with prohibition notices][158]
+
+[44][159][][159][How notices to be addressed][159]
+
+[45][160][][160][Matters may be completed by different inspectors][160]
+
+[Appeals][161]
+
+[46][162][][162][Appeals against notices][162]
+
+[Hazard notices][163]
+
+[46A][164][][164][Trained health and safety representatives may issue hazard notices][164]
+
+[Duties in respect of inspectors][165]
+
+[47][166][][166][Duty of assistance][166]
+
+[48][167][][167][Obstruction, etc][167]
+
+[Offences and penalties][168]
+
+[49][169][][169][Offences likely to cause serious harm][169]
+
+[50][170][][170][Other offences][170]
+
+[51][171][][171][Actions taken to prevent harm][171]
+
+[51A][172][][172][Sentencing criteria][172]
+
+[52][173][][173][Failure to comply with section 14][173] \[Repealed\]
+
+[53][174][][174][Proof of intention not required][174]
+
+[54][175][][175][Notification to WorkSafe of interest in knowing of enforcement action taken by inspector][175]
+
+[54A][176][][176][Filing charging document][176]
+
+[54B][177][][177][Time limit for filing charging document][177]
+
+[54C][178][][178][Extension of time for person other than inspector to file charging document][178]
+
+[54D][179][][179][Extension of time if inspector needs longer to decide whether to file charging document][179]
+
+[54E][180][][180][Continuing or repeated matters][180]
+
+[55][181][][181][Other provisions relating to offences][181]
+
+[56][182][][182][Offences by bodies corporate or Crown organisations][182]
+
+[Infringement offences][183]
+
+[56A][184][][184][Infringement offences][184]
+
+[56B][185][][185][Infringement notices][185]
+
+[56C][186][][186][Prior warning of infringement offence][186]
+
+[56D][187][][187][Inspector may require information][187]
+
+[56E][188][][188][Procedural requirements for infringement notices][188]
+
+[56F][189][][189][Infringement fees][189]
+
+[56G][190][][190][Payment of infringement fee][190]
+
+[56H][191][][191][Effect of infringement notice][191]
+
+[Insurance against fines unlawful and of no effect][192]
+
+[56I][193][][193][Insurance against fines unlawful and of no effect][193]
+
+[Proof of notices][194]
+
+[57][195][][195][Proof of notices][195]
+
+[Personation of inspectors][196]
+
+[58][197][][197][Personation of inspectors][197]
+
+[Funding of administration][198]
+
+[59][199][][199][Funding][199]
+
+[Information provided by Accident Rehabilitation and Compensation Insurance Corporation][200]
 
 \[Repealed\]
 
-[60][131][][131][Accident Rehabilitation and Compensation Insurance Corporation may provide information][131] \[Repealed\]
+[60][201][][201][Accident Rehabilitation and Compensation Insurance Corporation may provide information][201] \[Repealed\]
 
-[Non-compliance with other enactments][132]
+[Non-compliance with other enactments][202]
 
-[61][133][][133][Inspectors to notify local authority][133]
+[61][203][][203][Inspectors to notify local authority][203]
 
-[Amendments, repeals, revocations, and savings][134]
+[Amendments, repeals, revocations, and savings][204]
 
-[62][135][][135][Consequential amendments, repeals, revocations, and savings][135]
+[62][205][][205][Consequential amendments, repeals, revocations, and savings][205]
 
-[Schedule 1][136]  
-[Serious harm][136]
+[63][206][][206][Application, savings, and transitional provisions][206]
 
-[Schedule 1A][137]  
-[Employee participation system][137]
+[Schedule 1AA][207]  
 
-[Schedule 2][138]  
-[Consequential amendments][138]
+[Schedule 1][208]  
+[Serious harm][208]
 
-[Schedule 3][139]  
-[Enactments repealed][139]
+[Schedule 1A][209]  
+[Employee participation system][209]
 
-[Schedule 4][140]  
-[Orders in Council and notices revoked][140]
+[Schedule 2][210]  
+[Consequential amendments][210]
+
+[Schedule 3][211]  
+[Enactments repealed][211]
+
+[Schedule 4][212]  
+[Orders in Council and notices revoked][212]
 
 ---
 
@@ -338,25 +483,27 @@ Preliminary
     
     *   (b) in different circumstances, might have caused any person to be harmed
     
-    _approved code of practice_ means a statement, for the time being approved under [section 20][54]; but where any amendment of the statement has been approved under that section, means the statement as amended
+    _approved code of practice_ means a code of practice for the time being approved under [section 20A][114]; but where any amendment of the code of practice has been approved under that section, means the code of practice as amended
     
-    _Armed Forces_ has the same meaning as in [section 2(1)][141] of the Defence Act 1990
+    _Armed Forces_ has the same meaning as in [section 2(1)][213] of the Defence Act 1990
     
     _at work_, in relation to any person, means present, for gain or reward, in the person's place of work
     
-    _coastal cargo_ has the same meaning as in [section 198(6)][142] of the Maritime Transport Act 1994
+    _Board_ means the New Zealand Mining Board of Examiners established under [section 20D][118]
     
-    _compliance order_ means an order made under [section 137][143] of the Employment Relations Act 2000
+    _coal_ has the meaning given to it in [section 19L][61]
+    
+    _coastal cargo_ has the same meaning as in [section 198(6)][214] of the Maritime Transport Act 1994
+    
+    _compliance order_ means an order made under [section 137][215] of the Employment Relations Act 2000
     
     _contractor_ means a person engaged by any person (otherwise than as an employee) to do any work for gain or reward
     
-    _Crown organisation_ has the same meaning as in [section 4][144] of the Crown Organisations (Criminal Liability) Act 2002
+    _Crown organisation_ has the same meaning as in [section 4][216] of the Crown Organisations (Criminal Liability) Act 2002
     
-    _demise charter_ has the same meaning as in [section 2(1)][145] of the Ship Registration Act 1992
+    _demise charter_ has the same meaning as in [section 2(1)][217] of the Ship Registration Act 1992
     
     _department_ means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
-    
-    _departmental medical practitioner_ means a person for the time being appointed under [section 34(1)][78]
     
     _employee_, subject to [sections 3C to 3F][9], means any person of any age employed by an employer to do any work (other than residential work) for hire or reward under a contract of service and, in relation to any employer, means an employee of the employer
     
@@ -408,9 +555,11 @@ Preliminary
         
         
     
-    _hazard notice_ has the meaning set out in [section 46A(1)][94]
+    _hazard notice_ has the meaning given to it in [section 19ZF(1)][84] or [46A(1)][164], as applicable
     
     _health and safety committee_ means a committee established to support the ongoing improvement of health and safety in a place of work
+    
+    _health and safety medical practitioner_ means a person for the time being appointed under [section 34(1)][146]
     
     _health and safety representative_ means an employee elected, as an individual or as a member of a health and safety committee or both, to represent the views of employees in relation to health and safety at work
     
@@ -418,11 +567,13 @@ Preliminary
     
     _home_ means a place occupied as a dwellinghouse; and includes any garden, yard, garage, outhouse, or other appurtenance, of a home
     
-    _improvement notice_ means a notice under subsection (1) or subsection (2) of [section 39][84]
+    _improvement notice_ means a notice under [section 39(1) or (2)][152] or [39A][153]
     
-    _infringement notice_ means a notice given under [section 56B][115]
+    _industry health and safety representative_ has the meaning given to it in [section 19L][61]
     
-    _inspector_ means a health and safety inspector for the time being appointed under [section 29(1)][72]
+    _infringement notice_ means a notice given under [section 56B][185]
+    
+    _inspector_ means a health and safety inspector for the time being appointed under [section 29(1)][140]
     
     _inspector's notice_ means an improvement notice or a prohibition notice
     
@@ -440,19 +591,29 @@ Preliminary
     
     *   (b) a lifting machine, a lifting vehicle, a machine whose motive power is wholly or partly generated by the human body, and a tractor
     
-    _matter_, in [sections 54][105], [54A][106], [54C][108], [54E][110], [56B][115], and [56C][116], means---
+    _matter_, in [sections 54][175], [54A][176], [54C][178], [54E][180], [56B][185], and [56C][186], means---
         
     *   (a) a failure to comply with this Act or regulations made under this Act; or
     
     *   (b) a series of such associated failures arising out of, or relating to, the same incident, situation, or set of circumstances
     
-    _medical practitioner_ means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by [section 114(1)(a)][146] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
+    _medical practitioner_ means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by [section 114(1)(a)][218] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
+    
+    _mine operator_ has the meaning given to it in [section 19L][61]
+    
+    _mine worker_ has the meaning given to it in [section 19L][61]
+    
+    _mineral_ has the meaning given to it in [section 19L][61]
+    
+    _mining operation_ has the meaning given to it in [section 19L][61]
     
     _Minister_ means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
     
     _New Zealand_ includes all airspace within the territorial limits of New Zealand
     
-    _New Zealand ship_ has the same meaning as in [section 2(1)][145] of the Ship Registration Act 1992
+    _New Zealand ship_ has the same meaning as in [section 2(1)][217] of the Ship Registration Act 1992
+    
+    _permit operator_ has the meaning given to it in [section 19L][61]
     
     _person_ includes the Crown
     
@@ -482,7 +643,9 @@ Preliminary
     
     _principal_ means a person who or that engages any person (otherwise than as an employee) to do any work for gain or reward
     
-    _prohibition notice_ means a notice under [section 41(1)][86]
+    _prohibition notice_ means a notice under [section 41(1)][155] or [41A][156]
+    
+    _quarrying operation_ has the meaning given to it in [section 19N][63]
     
     _residential work_, in relation to the occupier of a home, means---
         
@@ -504,7 +667,7 @@ Preliminary
     
     _serious harm_, subject to subsection (4), means death, or harm of a kind or description declared by the Governor-General by Order in Council to be serious for the purposes of this Act; and _seriously harmed_ has a corresponding meaning
     
-    _ship_ has the same meaning as in [section 2(1)][145] of the Ship Registration Act 1992
+    _ship_ has the same meaning as in [section 2(1)][217] of the Ship Registration Act 1992
     
     _significant hazard_ means a hazard that is an actual or potential cause or source of---
         
@@ -514,15 +677,25 @@ Preliminary
     
     *   (c) harm that does not usually occur, or usually is not easily detectable, until a significant time after exposure to the hazard
     
+    _site health and safety committee_ has the meaning given to it in section 19L
+    
+    _site health and safety representative_ has the meaning given to it in section 19L
+    
+    _site senior executive_ has the meaning given to it in [section 19L][61]
+    
     _subcontractor_ means a person engaged (otherwise than as an employee) by any contractor or subcontractor to do for gain or reward any work the contractor or subcontractor has been engaged (as contractor or subcontractor) to do
     
     _substance_ includes a thing that is an organic material, whether living or not
     
-    _suspension notice_ means a notice under [section 37(1)][81]
+    _suspension notice_ means a notice under [section 37(1)][149]
     
-    _trained health and safety representative_ has the meaning set out in [section 46A(1)][94]
+    _tourist mining operation_ has the meaning given to it in [section 19L][61]
     
-    _union_ has the same meaning as in [section 5][147] of the Employment Relations Act 2000
+    _trained health and safety representative_ has the meaning set out in [section 46A(1)][164]
+    
+    _tunnelling operation_ has the meaning given to it in [section 19O][64]
+    
+    _union_ has the same meaning as in [section 5][219] of the Employment Relations Act 2000
     
     _volunteer_---
         
@@ -534,7 +707,9 @@ Preliminary
         
         
     
-    *   (b) does not include a person who is in a place of work for the purpose of receiving on the job training or gaining work experience.
+    *   (b) does not include a person who is in a place of work for the purpose of receiving on the job training or gaining work experience
+    
+    _WorkSafe_ means WorkSafe New Zealand established by [section 5][220] of the WorkSafe New Zealand Act 2013\.
     
     (2) For the avoidance of doubt, it is hereby declared that---
         
@@ -550,75 +725,113 @@ Preliminary
     
     *   (b) itself moves.
     
-    (4) Until the commencement of the first Order in Council made under this Act declaring harm of any kind or description to be serious for the purposes of this Act, harm of any of the kinds and descriptions specified in [Schedule 1][136] shall be deemed to be serious harm.
+    (4) Until the commencement of the first Order in Council made under this Act declaring harm of any kind or description to be serious for the purposes of this Act, harm of any of the kinds and descriptions specified in [Schedule 1][208] shall be deemed to be serious harm.
     
-    Section 2(1) **all practicable steps**: repealed, on 5 May 2003, by [section 4(1)][148] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 2(1) **all practicable steps**: repealed, on 5 May 2003, by [section 4(1)][221] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 2(1) **approved code of practice**: amended, on 18 March 1998, by [section 3(2)(a)][149] of the Health and Safety in Employment Amendment Act 1998 (1998 No 3).
+    Section 2(1) **approved code of practice**: replaced, on 16 December 2013, by [section 4(2)][222] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
     
-    Section 2(1) **Armed Forces**: inserted, on 5 May 2003, by [section 4(2)][148] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 2(1) **Armed Forces**: inserted, on 5 May 2003, by [section 4(2)][221] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 2(1) **coastal cargo**: inserted, on 5 May 2003, by [section 4(3)][148] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 2(1) **Board**: inserted, on 16 December 2013, by [section 4(1)][222] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
     
-    Section 2(1) **compliance order**: inserted, on 5 May 2003, by [section 4(4)][148] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 2(1) **coal**: inserted, on 16 December 2013, by [section 4(1)][222] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
     
-    Section 2(1) **crew**: repealed, on 5 May 2003, by [section 4(4)][148] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 2(1) **coastal cargo**: inserted, on 5 May 2003, by [section 4(3)][221] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 2(1) **Crown organisation**: inserted, on 18 October 2002, by [section 23(1)][150] of the Crown Organisations (Criminal Liability) Act 2002 (2002 No 37).
+    Section 2(1) **compliance order**: inserted, on 5 May 2003, by [section 4(4)][221] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 2(1) **demise charter**: inserted, on 5 May 2003, by [section 4(4)][148] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 2(1) **crew**: repealed, on 5 May 2003, by [section 4(4)][221] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 2(1) **employee**: substituted, on 5 May 2003, by [section 4(5)][148] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 2(1) **Crown organisation**: inserted, on 18 October 2002, by [section 23(1)][223] of the Crown Organisations (Criminal Liability) Act 2002 (2002 No 37).
     
-    Section 2(1) **employer**: substituted, on 18 October 2002, by [section 23(2)][150] of the Crown Organisations (Criminal Liability) Act 2002 (2002 No 37).
+    Section 2(1) **demise charter**: inserted, on 5 May 2003, by [section 4(4)][221] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 2(1) **employer**: amended, on 5 May 2003, by [section 4(6)][148] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 2(1) **departmental medical practitioner**: repealed, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 2(1) **enforcement action**: inserted, on 5 May 2003, by [section 4(7)][148] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 2(1) **employee**: substituted, on 5 May 2003, by [section 4(5)][221] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 2(1) **enforcement action** paragraph (a)(i): replaced, on 1 July 2013, by [section 413][151] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 2(1) **employer**: substituted, on 18 October 2002, by [section 23(2)][223] of the Crown Organisations (Criminal Liability) Act 2002 (2002 No 37).
     
-    Section 2(1) **enforcement action** paragraph (b)(i): replaced, on 1 July 2013, by [section 413][151] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 2(1) **employer**: amended, on 5 May 2003, by [section 4(6)][221] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 2(1) **harm**: substituted, on 5 May 2003, by [section 4(8)][148] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 2(1) **enforcement action**: inserted, on 5 May 2003, by [section 4(7)][221] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 2(1) **hazard**: substituted, on 5 May 2003, by [section 4(8)][148] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 2(1) **enforcement action** paragraph (a)(i): replaced, on 1 July 2013, by [section 413][225] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 2(1) **hazard notice**: inserted, on 5 May 2003, by [section 4(8)][148] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 2(1) **enforcement action** paragraph (b)(i): replaced, on 1 July 2013, by [section 413][225] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 2(1) **health and safety committee**: inserted, on 5 May 2003, by [section 4(8)][148] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 2(1) **harm**: substituted, on 5 May 2003, by [section 4(8)][221] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 2(1) **health and safety representative**: inserted, on 5 May 2003, by [section 4(8)][148] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 2(1) **hazard**: substituted, on 5 May 2003, by [section 4(8)][221] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 2(1)**infringement notice**: inserted, on 5 May 2003, by [section 4(9)][148] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 2(1) **hazard notice**: replaced, on 16 December 2013, by [section 4(3)][222] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
     
-    Section 2(1) **limited child care centre**: inserted, on 21 December 2010, by [section 4][152] of the Health and Safety in Employment Amendment Act 2010 (2010 No 135).
+    Section 2(1) **health and safety committee**: inserted, on 5 May 2003, by [section 4(8)][221] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 2(1) **limited child care service provider**: inserted, on 21 December 2010, by [section 4][152] of the Health and Safety in Employment Amendment Act 2010 (2010 No 135).
+    Section 2(1) **health and safety medical practitioner**: inserted, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 2(1) **matter**: inserted, on 5 May 2003, by [section 4(10)][148] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 2(1) **health and safety representative**: inserted, on 5 May 2003, by [section 4(8)][221] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 2(1) **medical practitioner**: inserted, on 18 September 2004, by [section 175(1)][153] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 2(1) **improvement notice**: replaced, on 16 December 2013, by [section 4(4)][222] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
     
-    Section 2(1) **New Zealand**: inserted, on 5 May 2003, by [section 4(11)][148] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 2(1) **industry health and safety representative**: inserted, on 16 December 2013, by [section 4(1)][222] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
     
-    Section 2(1) **New Zealand ship**: inserted, on 5 May 2003, by [section 4(11)][148] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 2(1)**infringement notice**: inserted, on 5 May 2003, by [section 4(9)][221] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 2(1) **petroleum operations**: inserted, on 1 February 1995, by [section 203][154] of the Maritime Transport Act 1994 (1994 No 104).
+    Section 2(1) **limited child care centre**: inserted, on 21 December 2010, by [section 4][226] of the Health and Safety in Employment Amendment Act 2010 (2010 No 135).
     
-    Section 2(1) **place of work**: amended, on 5 May 2003, by [section 4(12)][148] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 2(1) **limited child care service provider**: inserted, on 21 December 2010, by [section 4][226] of the Health and Safety in Employment Amendment Act 2010 (2010 No 135).
     
-    Section 2(1) **registered medical practitioner**: repealed, on 18 September 2004, by [section 175(1)][153] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 2(1) **matter**: inserted, on 5 May 2003, by [section 4(10)][221] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 2(1) **ship**: inserted, on 5 May 2003, by [section 4(13)][148] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 2(1) **medical practitioner**: inserted, on 18 September 2004, by [section 175(1)][227] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 2(1) **trained health and safety representative**: added, on 5 May 2003, by [section 4(14)][148] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 2(1) **mine operator**: inserted, on 16 December 2013, by [section 4(1)][222] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
     
-    Section 2(1) **union**: added, on 5 May 2003, by [section 4(14)][148] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 2(1) **mine worker**: inserted, on 16 December 2013, by [section 4(1)][222] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
     
-    Section 2(1) **volunteer**: added, on 5 May 2003, by [section 4(14)][148] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 2(1) **mineral**: inserted, on 16 December 2013, by [section 4(1)][222] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
     
-    Section 2(3): substituted, on 5 May 2003, by [section 4(15)][148] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 2(1) **mining operation**: inserted, on 16 December 2013, by [section 4(1)][222] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+    
+    Section 2(1) **New Zealand**: inserted, on 5 May 2003, by [section 4(11)][221] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    
+    Section 2(1) **New Zealand ship**: inserted, on 5 May 2003, by [section 4(11)][221] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    
+    Section 2(1) **permit operator**: inserted, on 16 December 2013, by [section 4(1)][222] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+    
+    Section 2(1) **petroleum operations**: inserted, on 1 February 1995, by [section 203][228] of the Maritime Transport Act 1994 (1994 No 104).
+    
+    Section 2(1) **place of work**: amended, on 5 May 2003, by [section 4(12)][221] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    
+    Section 2(1) **prohibition notice**: replaced, on 16 December 2013, by [section 4(5)][222] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+    
+    Section 2(1) **quarrying operation**: inserted, on 16 December 2013, by [section 4(1)][222] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+    
+    Section 2(1) **registered medical practitioner**: repealed, on 18 September 2004, by [section 175(1)][227] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    
+    Section 2(1) **ship**: inserted, on 5 May 2003, by [section 4(13)][221] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    
+    Section 2(1) **site health and safety committee**: inserted, on 16 December 2013, by [section 4(1)][222] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+    
+    Section 2(1) **site health and safety representative**: inserted, on 16 December 2013, by [section 4(1)][222] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+    
+    Section 2(1) **site senior executive**: inserted, on 16 December 2013, by [section 4(1)][222] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+    
+    Section 2(1) **tourist mining operation**: inserted, on 16 December 2013, by [section 4(1)][222] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+    
+    Section 2(1) **trained health and safety representative**: added, on 5 May 2003, by [section 4(14)][221] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    
+    Section 2(1) **tunnelling operation**: inserted, on 16 December 2013, by [section 4(1)][222] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+    
+    Section 2(1) **union**: added, on 5 May 2003, by [section 4(14)][221] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    
+    Section 2(1) **volunteer**: added, on 5 May 2003, by [section 4(14)][221] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    
+    Section 2(1) **WorkSafe**: inserted, on 16 December 2013, by [section 4(1)][222] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+    
+    Section 2(3): substituted, on 5 May 2003, by [section 4(15)][221] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 ##### 2A All practicable steps
     
@@ -636,7 +849,7 @@ Preliminary
     
     (2) To avoid doubt, a person required by this Act to take all practicable steps is required to take those steps only in respect of circumstances that the person knows or ought reasonably to know about.
     
-    Section 2A: inserted, on 5 May 2003, by [section 5][155] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 2A: inserted, on 5 May 2003, by [section 5][229] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 ##### 3 Application of Act to the Crown
     
@@ -652,17 +865,17 @@ Preliminary
             
         *   (i) against the Crown organisation in its own name and do not cite the Crown as a defendant; and
         
-        *   (ii) in accordance with the [Crown Organisations (Criminal Liability Act) 2002][156].
+        *   (ii) in accordance with the [Crown Organisations (Criminal Liability Act) 2002][230].
         
         
     
     (3) The Crown may not be prosecuted for an offence against this Act, except to the extent and in the manner provided in subsection (2).
     
-    Section 3(1): amended, on 18 October 2002, by [section 24(1)][157] of the Crown Organisations (Criminal Liability) Act 2002 (2002 No 37).
+    Section 3(1): amended, on 18 October 2002, by [section 24(1)][231] of the Crown Organisations (Criminal Liability) Act 2002 (2002 No 37).
     
-    Section 3(2): substituted, on 18 October 2002, by [section 24(2)][157] of the Crown Organisations (Criminal Liability) Act 2002 (2002 No 37).
+    Section 3(2): substituted, on 18 October 2002, by [section 24(2)][231] of the Crown Organisations (Criminal Liability) Act 2002 (2002 No 37).
     
-    Section 3(3): added, on 18 October 2002, by [section 24(2)][157] of the Crown Organisations (Criminal Liability) Act 2002 (2002 No 37).
+    Section 3(3): added, on 18 October 2002, by [section 24(2)][231] of the Crown Organisations (Criminal Liability) Act 2002 (2002 No 37).
 
 ##### 3A Application of Act to aircraft
     
@@ -684,11 +897,11 @@ Preliminary
     
     (3) For the purposes of subsection 2(c), an aircraft operating in New Zealand as part of a flight beginning or ending outside New Zealand must be treated as operating outside New Zealand.
     
-    (4) [Section 16][37] does not apply to an aircraft while it is taking off, flying, or landing.
+    (4) [Section 16][43] does not apply to an aircraft while it is taking off, flying, or landing.
     
     (5) To avoid doubt, where this Act applies outside New Zealand, the provisions relating to offences apply even though an act or omission that constitutes an offence occurred in respect of an aircraft outside New Zealand.
     
-    Section 3A: inserted, on 5 May 2003, by [section 6][158] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 3A: inserted, on 5 May 2003, by [section 6][232] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 ##### 3B Application of Act to ships
     
@@ -698,7 +911,7 @@ Preliminary
             
         *   (i) employed or engaged under an employment agreement or contract for services governed by New Zealand law to work on board a New Zealand ship or on board a foreign ship carrying coastal cargo while the foreign ship is on demise charter to a New Zealand-based operator; or
         
-        *   (ii) performing work on a foreign ship while it is carrying out petroleum operations in New Zealand continental waters (as defined in [section 222(1)][159] of the Maritime Transport Act 1994); and
+        *   (ii) performing work on a foreign ship while it is carrying out petroleum operations in New Zealand continental waters (as defined in [section 222(1)][233] of the Maritime Transport Act 1994); and
         
         
     
@@ -708,11 +921,11 @@ Preliminary
     
     (2) Where this Act applies in respect of a New Zealand ship, it applies whether the ship is operating inside or outside New Zealand.
     
-    (3) [Section 16][37] does not apply to a ship while it is at sea.
+    (3) [Section 16][43] does not apply to a ship while it is at sea.
     
     (4) To avoid doubt, where this Act applies outside New Zealand, the provisions relating to offences apply even though an act or omission that constitutes an offence occurred in respect of a ship outside New Zealand.
     
-    Section 3B: inserted, on 5 May 2003, by [section 6][158] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 3B: inserted, on 5 May 2003, by [section 6][232] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 ##### 3C Application of certain provisions to volunteers doing regular work
     
@@ -724,7 +937,7 @@ Preliminary
     
     *   (c) the work is an integral part of the business of the employer or self-employed person.
     
-    (2) When this section applies, [sections 6 to 12][17], [19][41], and [Part 4][60] apply with all necessary modifications,---
+    (2) When this section applies, [sections 6 to 12][18], [19][47], and [Part 4][128] apply with all necessary modifications,---
         
     *   (a) as if the volunteer were an employee of the other person; and
     
@@ -750,7 +963,7 @@ Preliminary
     
     *   (d) providing care for another person in the volunteer's home.
     
-    Section 3C: inserted, on 5 May 2003, by [section 6][158] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 3C: inserted, on 5 May 2003, by [section 6][232] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 ##### 3D Protections for other volunteers
     
@@ -760,13 +973,13 @@ Preliminary
     
     (3) If an inspector becomes aware of a significant hazard relating to the work activity, the inspector must, as soon as practicable, contact the person for whom the volunteer is doing the work activity (or the person's representative) to discuss means of eliminating, isolating, or minimising the hazard.
     
-    (4) If this section applies, [sections 39][84], [41][86], and [49][99] do not apply.
+    (4) If this section applies, [sections 39][152], [41][155], and [49][169] do not apply.
     
-    Section 3D: inserted, on 5 May 2003, by [section 6][158] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 3D: inserted, on 5 May 2003, by [section 6][232] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 ##### 3E Application of Act to persons receiving on the job training or gaining work experience
     
-*   (1) This Act, except for [Part 2A][42], applies when a person who is not an employee is in a place of work for the purpose of receiving on the job training or gaining work experience (_person A_).
+*   (1) This Act, except for [Part 2A][48], applies when a person who is not an employee is in a place of work for the purpose of receiving on the job training or gaining work experience (_person A_).
     
     (2) For the purposes of this Act,---
         
@@ -776,11 +989,11 @@ Preliminary
     
     *   (c) person A must be treated as if he or she were at work when in the place of work for the purposes set out in subsection (1).
     
-    Section 3E: inserted, on 5 May 2003, by [section 6][158] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 3E: inserted, on 5 May 2003, by [section 6][232] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 ##### 3F Application of Act to loaned employees
     
-*   (1) This Act, except for [Part 2A][42], applies when---
+*   (1) This Act, except for [Part 2A][48], applies when---
         
     *   (a) an employer or principal (_person A_) places an employee (the _loaned employee_) at the disposal of another person (_person B_, being an employer or a self-employed person) to do work for person B; and
     
@@ -796,7 +1009,13 @@ Preliminary
     
     *   (d) the loaned employee must be treated as if he or she were at work when doing work for person B.
     
-    Section 3F: inserted, on 5 May 2003, by [section 6][158] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 3F: inserted, on 5 May 2003, by [section 6][232] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+
+##### 3G Provisions affecting application of amendments to this Act
+    
+*   [Schedule 1AA][207] contains application, transitional, and savings provisions that affect other provisions of this Act as from time to time amended, repealed, or repealed and replaced (_see_ [section 63][206]).
+    
+    Section 3G: inserted, on 16 December 2013, by [section 5][234] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
 
 ##### 4 Act not to affect other legislation
     
@@ -828,7 +1047,7 @@ Preliminary
     
     *   (h) prohibiting persons from being indemnified or from indemnifying others against the cost of fines and infringement fees for failing to comply with the Act.
     
-    Section 5: substituted, on 5 May 2003, by [section 7][160] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 5: substituted, on 5 May 2003, by [section 7][235] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 ## Part 2  
 Duties relating to health and safety in employment
@@ -869,7 +1088,7 @@ Duties relating to health and safety in employment
     
     *   (c) regularly assessing each hazard identified, and determining whether or not it is a significant hazard.
     
-    (2) Where there occurs any accident or harm in respect of which an employer is required by [section 25(1)][62] to record particulars, the employer shall take all practicable steps to ensure that the occurrence is so investigated as to determine whether it was caused by or arose from a significant hazard.
+    (2) Where there occurs any accident or harm in respect of which an employer is required by [section 25(1)][130] to record particulars, the employer shall take all practicable steps to ensure that the occurrence is so investigated as to determine whether it was caused by or arose from a significant hazard.
 
 ##### 8 Significant hazards to employees to be eliminated if practicable
     
@@ -943,15 +1162,15 @@ Duties relating to health and safety in employment
     
     (6) Nothing in subsections (4) or (5) derogates from the responsibility of the employer under subsection (2)(b).
     
-    Section 10(2)(b): amended, on 5 May 2003, by [section 8(1)][161] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 10(2)(b): amended, on 5 May 2003, by [section 8(1)][236] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 10(3): added, on 5 May 2003, by [section 8(2)][161] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 10(3): added, on 5 May 2003, by [section 8(2)][236] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 10(4): added, on 5 May 2003, by [section 8(2)][161] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 10(4): added, on 5 May 2003, by [section 8(2)][236] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 10(5): added, on 5 May 2003, by [section 8(2)][161] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 10(5): added, on 5 May 2003, by [section 8(2)][236] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 10(6): added, on 5 May 2003, by [section 8(2)][161] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 10(6): added, on 5 May 2003, by [section 8(2)][236] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 #### Duties of employers in relation to information
 
@@ -963,7 +1182,7 @@ Duties relating to health and safety in employment
     
     *   (b) if---
             
-        *   (i) the monitoring was undertaken by or on behalf of a department (within the meaning of the [State Sector Act 1988][162]); and
+        *   (i) the monitoring was undertaken by or on behalf of a department (within the meaning of the [State Sector Act 1988][237]); and
         
         *   (ii) the results have been given to an employer.
         
@@ -987,7 +1206,9 @@ Duties relating to health and safety in employment
     
     *   (b) there are omitted from all results to which this section applies given to any group of employees all information that identifies, or discloses anything about, any employee.
     
+    (4) An employer is not required under this section to give an employee the results of monitoring to the extent that those results have already been provided to the employee under [section 12A][28].
     
+    Section 11(4): inserted, on 16 December 2013, by [section 6][238] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
 
 ##### 12 Information for employees generally and health and safety representatives
     
@@ -1003,11 +1224,49 @@ Duties relating to health and safety in employment
     
     (2) An employer must ensure that all health and safety representatives in a place of work have ready access to sufficient information about health and safety systems and health and safety issues in the place of work to enable the representatives to perform their functions effectively.
     
-    Section 12 heading: amended, on 5 May 2003, by [section 9(1)][163] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 12 heading: amended, on 5 May 2003, by [section 9(1)][239] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 12(1): amended, on 5 May 2003, by [section 9(2)][163] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 12(1): amended, on 5 May 2003, by [section 9(2)][239] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 12(2): added, on 5 May 2003, by [section 9(3)][163] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 12(2): added, on 5 May 2003, by [section 9(3)][239] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+
+#### Duties of mine operators in relation to information
+    
+*   Heading: inserted, on 16 December 2013, by [section 7][240] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 12A Mine workers to be given results of monitoring
+    
+*   (1) This section applies to the results of any monitoring of any mine worker or any mining operation undertaken in compliance with this Act or regulations made under this Act if the monitoring was---
+        
+    *   (a) undertaken by or on behalf of a mine operator; or
+    
+    *   (b) undertaken by or on behalf of a department (within the meaning of the [State Sector Act 1988][237]) or WorkSafe and the results have been given to a mine operator.
+    
+    (2) Subject to subsection (3), every mine operator must ensure that---
+        
+    *   (a) every mine worker is given all results to which this section applies of monitoring of the mine worker (whether as an individual or as one of a number of mine workers) in relation to health or safety; and
+    
+    *   (b) all mine workers are given all results to which this section applies of general monitoring of---
+            
+        *   (i) conditions in the mining operation; or
+        
+        *   (ii) the health or safety of mine workers there.
+        
+        
+    
+    (3) Every mine operator must ensure that---
+        
+    *   (a) there are omitted from all results to which this section applies given to any individual mine worker all information that identifies, or discloses anything about, any other individual mine worker; and
+    
+    *   (b) there are omitted from all results to which this section applies given to any group of mine workers all information that identifies, or discloses anything about, any individual mine worker.
+    
+    Section 12A: inserted, on 16 December 2013, by [section 7][240] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 12B Information for site health and safety representatives
+    
+*   A mine operator must ensure that all site health and safety representatives in the mining operation have ready access to sufficient information about health and safety systems and health and safety issues in the mining operation to enable the representatives to perform their functions and exercise their powers effectively.
+    
+    Section 12B: inserted, on 16 December 2013, by [section 7][240] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
 
 #### Duties of employers in relation to training and supervision
 
@@ -1027,15 +1286,29 @@ Duties relating to health and safety in employment
     
     
 
+#### Duties of mine operators in relation to training and supervision
+    
+*   Heading: inserted, on 16 December 2013, by [section 8][241] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 13AA Training and supervision of mine workers
+    
+*   Every mine operator must take all practicable steps to ensure that every mine worker who does work of any kind, or uses plant of any kind, or deals with a substance of any kind, in a mining operation---
+        
+    *   (a) has, or is so supervised by a person who has, such knowledge and experience of similar places, and work, plant, or substances of that kind, as to ensure that the mine worker's doing the work, using the plant, or dealing with the substance is not likely to cause harm to the mine worker or other people; and
+    
+    *   (b) is adequately trained in the safe use of all plant, objects, substances, and protective clothing and equipment that the mine worker is or may be required to use or handle.
+    
+    Section 13AA: inserted, on 16 December 2013, by [section 8][241] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
 #### Duties of employers in relation to Police vetting of employees at limited child care centres
     
-*   Heading: inserted, on 21 December 2010, by [section 6][164] of the Health and Safety in Employment Amendment Act 2010 (2010 No 135).
+*   Heading: inserted, on 21 December 2010, by [section 6][242] of the Health and Safety in Employment Amendment Act 2010 (2010 No 135).
 
 ##### 13A Limited child care centre employees must be suitable
     
 *   A limited child care service provider must take all practicable steps to ensure every employee employed to care for children in a limited child care centre is suitable for that role.
     
-    Section 13A: inserted, on 21 December 2010, by [section 6][164] of the Health and Safety in Employment Amendment Act 2010 (2010 No 135).
+    Section 13A: inserted, on 21 December 2010, by [section 6][242] of the Health and Safety in Employment Amendment Act 2010 (2010 No 135).
 
 ##### 13B Police vetting of employees at limited child care centres
     
@@ -1047,7 +1320,7 @@ Duties relating to health and safety in employment
     
     *   (c) who is not a registered teacher or holder of a limited authority to teach.
     
-    Section 13B: inserted, on 21 December 2010, by [section 6][164] of the Health and Safety in Employment Amendment Act 2010 (2010 No 135).
+    Section 13B: inserted, on 21 December 2010, by [section 6][242] of the Health and Safety in Employment Amendment Act 2010 (2010 No 135).
 
 ##### 13C Police vetting of contractors and their employees who work at limited child care centres
     
@@ -1055,19 +1328,19 @@ Duties relating to health and safety in employment
     
     (2) In this section, contractor means a person who, under contract (other than an employment contract), works at a limited child care centre.
     
-    Section 13C: inserted, on 21 December 2010, by [section 6][164] of the Health and Safety in Employment Amendment Act 2010 (2010 No 135).
+    Section 13C: inserted, on 21 December 2010, by [section 6][242] of the Health and Safety in Employment Amendment Act 2010 (2010 No 135).
 
 ##### 13D Police vet must be obtained before person has unsupervised access to children
     
-*   (1) A Police vet required under [section 13B][30] or [13C][31] must be obtained before the person has, or is likely to have, unsupervised access to children at the centre during normal opening hours.
+*   (1) A Police vet required under [section 13B][36] or [13C][37] must be obtained before the person has, or is likely to have, unsupervised access to children at the centre during normal opening hours.
     
-    (2) The service provider of a limited child care centre that is required under [section 13B][30] or [13C][31] to obtain a Police vet of a person must apply for the vet no later than 2 weeks after the person begins work at the centre.
+    (2) The service provider of a limited child care centre that is required under [section 13B][36] or [13C][37] to obtain a Police vet of a person must apply for the vet no later than 2 weeks after the person begins work at the centre.
     
-    Section 13D: inserted, on 21 December 2010, by [section 6][164] of the Health and Safety in Employment Amendment Act 2010 (2010 No 135).
+    Section 13D: inserted, on 21 December 2010, by [section 6][242] of the Health and Safety in Employment Amendment Act 2010 (2010 No 135).
 
 ##### 13E Procedures relating to Police vets under section 13B or 13C
     
-*   The service provider of a limited child care centre that applies for a Police vet of a person under [section 13B][30] or [13C][31]---
+*   The service provider of a limited child care centre that applies for a Police vet of a person under [section 13B][36] or [13C][37]---
         
     *   (a) must ensure that strict confidentiality is observed for Police vets; and
     
@@ -1079,13 +1352,13 @@ Duties relating to health and safety in employment
         
         
     
-    Section 13E: inserted, on 21 December 2010, by [section 6][164] of the Health and Safety in Employment Amendment Act 2010 (2010 No 135).
+    Section 13E: inserted, on 21 December 2010, by [section 6][242] of the Health and Safety in Employment Amendment Act 2010 (2010 No 135).
 
 ##### 14 Employers to involve employees in development of health and safety procedures
     
 *   \[Repealed\]
     
-    Section 14: repealed, on 5 May 2003, by [section 10][165] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 14: repealed, on 5 May 2003, by [section 10][243] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 #### Other duties
 
@@ -1159,7 +1432,7 @@ Duties relating to health and safety in employment
     
     (6) The oral advice required by subsection (3)(c)(ii) must be given by the person who will be working in the place of work or by that person's employer.
     
-    Section 16: substituted, on 18 March 1998, by [section 2][166] of the Health and Safety in Employment Amendment Act 1998 (1998 No 3).
+    Section 16: substituted, on 18 March 1998, by [section 2][244] of the Health and Safety in Employment Amendment Act 1998 (1998 No 3).
 
 ##### 17 Duties of self-employed people
     
@@ -1203,24 +1476,24 @@ Duties relating to health and safety in employment
     
     (5) In subsection (4)(b), _as is_ means that the plant is sold without any representations or warranties about its quality, durability, or fitness, and with the entire risk in those respects to be borne by the buyer.
     
-    (6) This section does not limit the [Consumer Guarantees Act 1993][167].
+    (6) This section does not limit the [Consumer Guarantees Act 1993][245].
     
-    Section 18A: inserted, on 5 May 2003, by [section 11][168] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 18A: inserted, on 5 May 2003, by [section 11][246] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 ##### 19 Duties of employees
     
 *   Every employee shall take all practicable steps to ensure---
         
-    *   (a) the employee's safety while at work (including by using suitable protective clothing and suitable protective equipment provided by the employer or, if [section 10(4)][22] applies, suitable protective clothing provided by the employee himself or herself); and
+    *   (a) the employee's safety while at work (including by using suitable protective clothing and suitable protective equipment provided by the employer or, if [section 10(4)][23] applies, suitable protective clothing provided by the employee himself or herself); and
     
     *   (b) that no action or inaction of the employee while at work causes harm to any other person.
     
-    Section 19(a): amended, on 5 May 2003, by [section 12][169] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 19(a): amended, on 5 May 2003, by [section 12][247] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 ## Part 2A  
 Employee participation
     
-*   Part 2A: inserted, on 5 May 2003, by [section 13][170] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+*   Part 2A: inserted, on 5 May 2003, by [section 13][248] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 ##### 19A Purpose of Part 2A
     
@@ -1230,13 +1503,13 @@ Employee participation
     
     *   (b) when making decisions that affect employees and their work, an employer has information from employees who face the health and safety issues in practice.
     
-    Section 19A: inserted, on 5 May 2003, by [section 13][170] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 19A: inserted, on 5 May 2003, by [section 13][248] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 ##### 19B General duty to involve employees in health and safety matters
     
 *   (1) Every employer must provide reasonable opportunities for the employer's employees to participate effectively in ongoing processes for improvement of health and safety in the employees' places of work.
     
-    (2) Without limiting subsection (1), ongoing processes for improvement of health and safety include the matters referred to in [sections 6 to 13][17].
+    (2) Without limiting subsection (1), ongoing processes for improvement of health and safety include the matters referred to in [sections 6 to 13][18].
     
     (3) In complying with this Part, an employer must take into account any approved code of practice for employee participation in workplace health and safety.
     
@@ -1258,7 +1531,7 @@ Employee participation
     
     *   (g) the overriding duty to act in good faith.
     
-    Section 19B: inserted, on 5 May 2003, by [section 13][170] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 19B: inserted, on 5 May 2003, by [section 13][248] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 ##### 19C Development of employee participation system
     
@@ -1268,7 +1541,7 @@ Employee participation
     
     *   (b) 30 or more employees, whether or not at a single location.
     
-    (2) The following persons must co-operate in good faith to seek to develop, agree, implement, and maintain a system that sets out the ways in which the employer must seek to comply with [section 19B(1)][44]:
+    (2) The following persons must co-operate in good faith to seek to develop, agree, implement, and maintain a system that sets out the ways in which the employer must seek to comply with [section 19B(1)][50]:
         
     *   (a) the employer:
     
@@ -1276,19 +1549,19 @@ Employee participation
     
     *   (c) a union or unions representing any of the employees.
     
-    (3) A system must specify a process by which it must be reviewed, but otherwise may include any matters on which the employer, employees, and any union representing them, agree complies with this Part; provided that in doing so they must take into account [Part 1][171] of Schedule 1A and [Part 2][172] of Schedule 1A; and provided further that, at any time after the expiry of 12 months from the date the system is agreed, 1 or more employees or a union on their behalf may initiate the development of a new employee participation system in accordance with this Act.
+    (3) A system must specify a process by which it must be reviewed, but otherwise may include any matters on which the employer, employees, and any union representing them, agree complies with this Part; provided that in doing so they must take into account [Part 1][249] of Schedule 1A and [Part 2][250] of Schedule 1A; and provided further that, at any time after the expiry of 12 months from the date the system is agreed, 1 or more employees or a union on their behalf may initiate the development of a new employee participation system in accordance with this Act.
     
     (4) A system may include a provision increasing or decreasing the maximum---
         
-    *   (a) number of days' paid leave that the employer is required to allow a health and safety representative to take for health and safety training under [section 19E(1)][47]:
+    *   (a) number of days' paid leave that the employer is required to allow a health and safety representative to take for health and safety training under [section 19E(1)][53]:
     
-    *   (b) total number of days' paid leave that the employer is required to allow health and safety representatives to take for health and safety training under [sections 19E(2)][47] and [19F][48].
+    *   (b) total number of days' paid leave that the employer is required to allow health and safety representatives to take for health and safety training under [sections 19E(2)][53] and [19F][54].
     
     (5) A system may allow for more than 1 health and safety representative or health and safety committee and, in that case, each representative or committee may represent a particular type of work, or place of work of the employer, or another grouping.
     
     (6) Subsection (2) is complied with if a system of employee participation in health and safety in the place of work is in existence that was implemented before the commencement of this section and if---
         
-    *   (a) it complies with [section 19B][44] or is amended to comply with section 19B; and
+    *   (a) it complies with [section 19B][50] or is amended to comply with section 19B; and
     
     *   (b) it specifies a process for its review or is amended to specify a process for its review; and
     
@@ -1296,39 +1569,39 @@ Employee participation
     
     (7) If a system is no longer in place, or functioning, a new system must be developed, agreed, implemented, and maintained in accordance with this section.
     
-    Section 19C: inserted, on 5 May 2003, by [section 13][170] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 19C: inserted, on 5 May 2003, by [section 13][248] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 ##### 19D Provisions that apply if employer and employees fail to develop system for employee participation
     
-*   [Part 3][173] of Schedule 1A applies if an employer is required to seek to develop a system for employee participation under [section 19C][45] and a system is not developed within the relevant time period set out in Part 3 of Schedule 1A.
+*   [Part 3][251] of Schedule 1A applies if an employer is required to seek to develop a system for employee participation under [section 19C][51] and a system is not developed within the relevant time period set out in Part 3 of Schedule 1A.
     
-    Section 19D: inserted, on 5 May 2003, by [section 13][170] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 19D: inserted, on 5 May 2003, by [section 13][248] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 ##### 19E Training of health and safety representatives
     
-*   (1) An employer must allow a health and safety representative 2 days' paid leave each year to attend health and safety training approved under [section 19G][49].
+*   (1) An employer must allow a health and safety representative 2 days' paid leave each year to attend health and safety training approved under [section 19G][55].
     
-    (2) The number of days' paid leave that an employer must allow a health and safety representative to take in a year is subject to the maximum total number of days' paid leave that that employer is required to allow under [section 19F][48].
+    (2) The number of days' paid leave that an employer must allow a health and safety representative to take in a year is subject to the maximum total number of days' paid leave that that employer is required to allow under [section 19F][54].
     
-    (3) [Sections 78][174] and [79][175] of the Employment Relations Act 2000 apply when a health and safety representative is proposing to take, and is taking, the leave as if---
+    (3) [Sections 78][252] and [79][253] of the Employment Relations Act 2000 apply when a health and safety representative is proposing to take, and is taking, the leave as if---
         
     *   (a) the representative were an eligible employee; and
     
     *   (b) the leave were employment relations education leave.
     
-    (4) In this section and [section 19F][48], _year_---
+    (4) In this section and [section 19F][54], _year_---
         
     *   (a) means a period of 12 months beginning on 1 April and ending on the close of 31 March; and
     
     *   (b) includes the period beginning on 5 May 2003 and ending on the close of 31 March 2004\.
     
-    (5) Subsections (1) and (2) are subject to [section 19C(4)][45].
+    (5) Subsections (1) and (2) are subject to [section 19C(4)][51].
     
-    Section 19E: inserted, on 5 May 2003, by [section 13][170] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 19E: inserted, on 5 May 2003, by [section 13][248] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 ##### 19F Calculation of maximum total number of days' paid leave for health and safety training
     
-*   (1) The maximum total number of days' paid leave that an employer is required to allow in a year under [section 19E][47] is based on the number of employees employed by the employer as at the specified date in the year, and is determined in accordance with the following table:
+*   (1) The maximum total number of days' paid leave that an employer is required to allow in a year under [section 19E][53] is based on the number of employees employed by the employer as at the specified date in the year, and is determined in accordance with the following table:
     
     **Employees as at the specified date in a year****Maximum total number of days' paid leave that employer is required to allow to be taken**
     
@@ -1346,9 +1619,9 @@ Employee participation
     
     *   (b) for the period beginning on 5 May 2003 and ending on the close of 31 March 2004, includes 5 May 2003\.
     
-    (3) This section is subject to [section 19C(4)(b)][45].
+    (3) This section is subject to [section 19C(4)(b)][51].
     
-    Section 19F: inserted, on 5 May 2003, by [section 13][170] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 19F: inserted, on 5 May 2003, by [section 13][248] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 ##### 19G Minister may approve occupational health and safety training
     
@@ -1362,11 +1635,15 @@ Employee participation
     
     (3) The Minister may delegate his or her power under subsection (1) to 1 or more persons.
     
-    (4) To avoid doubt, a course approved under this section may be a course that is also approved under [section 72][176] of the Employment Relations Act 2000\.
+    (4) To avoid doubt, a course approved under this section may be a course that is also approved under [section 72][254] of the Employment Relations Act 2000\.
     
-    Section 19G: inserted, on 5 May 2003, by [section 13][170] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    (5) For the purposes of [Part 2B][59], the reference to a health and safety representative in [section 19G(2)(b)][55] means a site health and safety representative.
     
-    Section 19G(1): amended, on 1 December 2004, by [section 3][177] of the Health and Safety in Employment Amendment Act 2004 (2004 No 87).
+    Section 19G: inserted, on 5 May 2003, by [section 13][248] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    
+    Section 19G(1): amended, on 1 December 2004, by [section 3][255] of the Health and Safety in Employment Amendment Act 2004 (2004 No 87).
+    
+    Section 19G(5): inserted, on 16 December 2013, by [section 9][256] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
 
 ##### 19H System for employee participation in Armed Forces
     
@@ -1374,17 +1651,702 @@ Employee participation
     
     (2) The Chief of Defence Force must develop and implement a system for employee participation in workplace health and safety for members of the Armed Forces.
     
-    (3) The system must be consistent with [section 19B][44].
+    (3) The system must be consistent with [section 19B][50].
     
-    (4) The Chief of Defence Force must consult with the Secretary when developing the system.
+    (4) The Chief of Defence Force must consult with WorkSafe when developing the system.
     
-    Section 19H: inserted, on 5 May 2003, by [section 13][170] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 19H: inserted, on 5 May 2003, by [section 13][248] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    
+    Section 19H(4): amended, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 ##### 19I Meaning of employee in sections 19C(1) and 19F(1)
     
-*   In [sections 19C(1)][45] and [19F(1)][48], an _employee_ means an employee who has worked for his or her employer for at least 180 hours over the previous 12-month period.
+*   In [sections 19C(1)][51] and [19F(1)][54], an _employee_ means an employee who has worked for his or her employer for at least 180 hours over the previous 12-month period.
     
-    Section 19I: inserted, on 5 May 2003, by [section 13][170] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 19I: inserted, on 5 May 2003, by [section 13][248] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+
+##### 19J Relationship of this Part with Part 2B
+    
+*   Except as provided in this Part or [Part 2B][59], nothing in this Part applies to a mining operation.
+    
+    Section 19J: inserted, on 16 December 2013, by [section 10][257] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+## Part 2B  
+Worker participation in health and safety in mining sector
+    
+*   Part 2B: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19K Purpose of Part
+    
+*   The purpose of this Part is to require the participation of mine workers in processes relating to health and safety in a mining operation so that---
+        
+    *   (a) all persons with relevant knowledge and expertise can help make the mining operation healthy and safe; and
+    
+    *   (b) when making decisions that affect mine workers and their work, a mine operator has information from mine workers who face the health and safety issues in practice.
+    
+    Section 19K: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19L Interpretation
+    
+*   In this Act,---
+    
+    _alluvial mining operation_ means a mining operation carried out above ground and associated with---
+        
+    *   (a) the extraction of gold from river deposits of sand or gravel:
+    
+    *   (b) the extraction of ironsand from sand or gravel
+    
+    _coal_ means anthracite, bituminous coal, sub-bituminous coal, and lignite, and---
+        
+    *   (a) includes every other substance worked or normally worked with coal; but
+    
+    *   (b) does not include coal in the form of peat
+    
+    _industry health and safety representative_ means a person appointed in accordance with section 19ZU
+    
+    _licence or other permission_ means a lease, licence, or other instrument under which a person with an interest in land (including, for example, the owner of the land) permits another person to carry out a mining operation on the land
+    
+    _mine operator_ means,---
+        
+    *   (a) in respect of a mining operation carried out under a permit granted under the [Crown Minerals Act 1991][259],---
+            
+        *   (i) the person appointed by the permit operator to manage and control the mining operation; or
+        
+        *   (ii) the permit operator, if no such person has been appointed:
+        
+        
+    
+    *   (b) in respect of a mining operation (not being a mining operation described in paragraph (a)) carried out under a licence or other permission,---
+            
+        *   (i) the person appointed to manage and control the mining operation by the person who holds the licence or other permission to carry out mining operations; or
+        
+        *   (ii) the person who holds the licence or other permission to carry out mining operations, if no such person has been appointed:
+        
+        
+    
+    *   (c) in any other case,---
+            
+        *   (i) the person appointed to manage and control the mining operation by the owner of the land where the mining operation is being carried out; or
+        
+        *   (ii) the owner of the land where the mining operation is being carried out, if no such person has been appointed
+        
+        
+    
+    _mine worker_ means a person who works in a mining operation, either as an employee or as a self-employed person
+    
+    _mineral_ means a naturally occurring inorganic substance beneath or at the surface of the earth, and---
+        
+    *   (a) includes metallic minerals, non-metallic minerals, and precious stones; but
+    
+    *   (b) does not include clay, coal, gravel, limestone, sand, or stone
+    
+    _mining operation_ has the meaning given to it in [section 19M][62]
+    
+    _peat_ means combustible, soft, porous, or compressed sedimentary deposit of plant origin with a high water content
+    
+    _permit operator_ has the same meaning as in [section 2][260] of the Crown Minerals Act 1991
+    
+    _quarrying operation_ has the meaning given to it in [section 19N][63]
+    
+    _site health and safety committee_ means a committee established to support the ongoing improvement of health and safety in a mining operation
+    
+    _site health and safety representative_ means a mine worker elected as a site health and safety representative, as an individual or as a member of a site health and safety committee, or both
+    
+    _site senior executive_ means the person appointed as the site senior executive by the mine operator
+    
+    _tourist mining operation_ means an operation that has the purpose of---
+        
+    *   (a) mine education; or
+    
+    *   (b) mine research; or
+    
+    *   (c) mine tourism
+    
+    _tunnelling operation_ has the meaning given to it in [section 19O][64].
+    
+    Section 19L: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19M Meaning of mining operation
+    
+*   In this Act, _mining operation_--- 
+        
+    *   (a) means the extraction of coal and minerals and the place at which the extraction is carried out; and
+    
+    *   (b) includes any of the following activities and the place at which they are carried out:
+            
+        *   (i) exploring for coal:
+        
+        *   (ii) mining for coal or minerals:
+        
+        *   (iii) processing coal or minerals associated with a mine:
+        
+        *   (iv) producing or maintaining tailings, spoil heaps, and waste dumps:
+        
+        *   (v) the excavation, removal, handling, transport, and storage of coal, minerals, substances, contaminants, and wastes at the place where the activities described in subparagraphs (i) to (iv) are carried out:
+        
+        *   (vi) the construction, operation, maintenance, and removal of plant and buildings at the place where the activities described in subparagraphs (i) to (iv) are carried out:
+        
+        *   (vii) preparatory, maintenance, and repair activities associated with the activities described in subparagraphs (i) to (iv); and
+        
+        
+    
+    *   (c) includes---
+            
+        *   (i) a tourist mining operation:
+        
+        *   (ii) a tunnelling operation; but
+        
+        
+    
+    *   (d) does not include---
+            
+        *   (i) exploring for minerals:
+        
+        *   (ii) an alluvial mining operation:
+        
+        *   (iii) a mining operation wholly on or under the seabed on the seaward side of the mean high-water mark:
+        
+        *   (iv) a quarrying operation.
+        
+        
+    
+    Section 19M: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19N Meaning of quarrying operation
+    
+*   (1) In this Act, _quarrying operation_---
+        
+    *   (a) means an activity carried out above ground for the purpose of---
+            
+        *   (i) extracting any material, other than any coal or any mineral, from the earth; or
+        
+        *   (ii) processing any material, other than any coal or any mineral, at the place where the material is extracted; and
+        
+        
+    
+    *   (b) includes the place where an activity described in paragraph (a) is carried out; and
+    
+    *   (c) includes any place in which any material extracted or processed in a quarry is crushed or screened.
+    
+    (2) Subsection (1) applies whether or not the material is to be extracted or processed for commercial gain and whether or not the material is extracted or processed by the use of explosives.
+    
+    Section 19N: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19O Meaning of tunnelling operation
+    
+*   In this Act, _tunnelling operation_---
+        
+    *   (a) means an operation involving extraction of fill with the purpose of creating a tunnel or shaft or enlarging or extending any tunnel or shaft; and
+    
+    *   (b) includes the place where an operation described in paragraph (a) is carried out; but
+    
+    *   (c) excludes any tunnelling operation of a kind declared under [section 19P][65] not to be a tunnelling operation.
+    
+    Section 19O: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19P Governor-General may, by Order in Council, exclude operations from section 19O
+    
+*   The Governor-General may, by Order in Council made on the recommendation of the Minister, declare that certain operations or classes of operation are not tunnelling operations for the purposes of [section 19O][64].
+    
+    Section 19P: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19Q General duty to involve mine workers in health and safety matters
+    
+*   (1) Every mine operator must ensure that there is, for a mining operation, a documented worker participation system that provides reasonable opportunities for the mine workers to participate effectively in ongoing processes for the improvement of health and safety in the mining operation.
+    
+    (2) Without limiting subsection (1), _ongoing processes for the improvement of health and safety _include the matters referred to in [sections 6 to 13AA][18].
+    
+    (3) In complying with this Part, a mine operator must take into account any relevant approved code of practice.
+    
+    (4) If a site health and safety committee or a site health and safety representative makes a recommendation regarding health and safety in a mining operation, the mine operator must either adopt the proposal or provide a written statement to the site health and safety committee or site health and safety representative setting out the reasons for not adopting the proposal.
+    
+    (5) In subsection (1), _reasonable opportunities_ means opportunities that are reasonable in the circumstances, having regard to relevant matters such as---
+        
+    *   (a) the number of mine workers in the mining operation; and
+    
+    *   (b) the likely potential sources or causes of harm in the mining operation; and
+    
+    *   (c) the nature of the work that is performed and the way that it is arranged or managed by the mine operator; and
+    
+    *   (d) the nature of the employment arrangements or contracting arrangements, including the extent and regularity of employment or engagement of temporary mine workers; and
+    
+    *   (e) the willingness of mine workers and unions to develop worker participation systems; and
+    
+    *   (f) in relation to employers and employees, the overriding duty to act in good faith.
+    
+    Section 19Q: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+#### Worker participation system
+    
+*   Heading: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19R Development of worker participation system
+    
+*   (1) The following persons must co-operate in good faith to seek to develop, agree, implement, and maintain a worker participation system that sets out the ways in which the mine operator must seek to comply with [section 19Q(1)][66]:
+        
+    *   (a) the mine operator:
+    
+    *   (b) the mine workers who wish to be involved:
+    
+    *   (c) a union or unions representing any of the mine workers.
+    
+    (2) A worker participation system may include any matters that the mine operator, mine workers, and any union representing them, agree comply with this Part.
+    
+    (3) If the system includes provision for site health and safety representatives, those representatives must be elected by the mine workers in the mining operation.
+    
+    (4) If 1 or more mine workers request that the system include provision for site health and safety representatives, there must be provision for the election of at least 1 site health and safety representative.
+    
+    (5) A system may allow for more than 1 site health and safety representative or 1 site health and safety committee and, in that case, each representative or committee may represent a particular type of work of the mine operator, or another grouping agreed in, or determined in accordance with, the system.
+    
+    Section 19R: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19S Training of site health and safety representatives 
+    
+*   (1) [Sections 19E to 19G][53] apply to any site health and safety representative under this Part who is an employee.
+    
+    (2) A worker participation system may include a provision increasing or decreasing the maximum---
+        
+    *   (a) number of days' paid leave that the employers of mine workers are required to allow site health and safety representatives who are employees to take for health and safety training under [section 19E(1)][53] (as applied by subsection (1)):
+    
+    *   (b) total number of days' paid leave that employers of mine workers are required to allow site health and safety representatives and health and safety representatives to take for health and safety training under [sections 19E(2)][53] and [19F][54] (as applied by subsection (1)).
+    
+    (3) Despite subsection (2) and [section 19E(1) and (2)][53] (as applied by subsection (1)), a worker participation system must ensure that every site health and safety representative who is an employee has sufficient paid leave to attend training reasonably required to attain the competency requirements for site health and safety representatives prescribed by or under regulations made under this Act.
+    
+    Section 19S: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19T Review and replacement of worker participation systems
+    
+*   (1) A worker participation system must specify a process by which it must be reviewed.
+    
+    (2) At any time after the expiry of 12 months from the date the system is agreed, 1 or more mine workers or a union on their behalf may initiate the development of a new system in accordance with this Act.
+    
+    (3) If a system is no longer in place, or functioning, a new system must be developed, agreed, implemented, and maintained in accordance with [section 19R][68].
+    
+    Section 19T: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19U Prescribed provisions apply if no scheme in place
+    
+*   (1) The provisions prescribed in regulations made under this Act apply if a worker participation system is not developed---
+        
+    *   (a) within 3 months of the date on which a mining operation begins; or
+    
+    *   (b) if [section 19T(3)][70] applies, within 3 months of the date on which any person initiates the development of a new system.
+    
+    (2) If the prescribed provisions apply, and have applied continuously for a period of 6 months or more, 1 or more mine workers or a union on their behalf may initiate the development of a new system in accordance with [section 19R][68].
+    
+    Section 19U: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+#### Site health and safety representatives
+    
+*   Heading: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19V Election of site health and safety representatives
+    
+*   If a worker participation system provides for the election of 1 or more site health and safety representatives, but does not provide for the conduct of those elections, the requirements for the conduct of elections prescribed in regulations made under this Act apply.
+    
+    Section 19V: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19W Functions of site health and safety representatives
+    
+*   The functions of a site health and safety representative are, in relation to the mining operation in respect of which the representative is appointed,---
+        
+    *   (a) to represent mine workers in matters relating to health and safety:
+    
+    *   (b) to investigate complaints from mine workers regarding health and safety:
+    
+    *   (c) if requested by a mine worker, to represent the worker in relation to a matter relating to health and safety (including a complaint):
+    
+    *   (d) to identify hazards in the mining operation and bring them to the attention of the mine operator or site senior executive:
+    
+    *   (e) to monitor measures taken by the mine operator that are relevant to health and safety:
+    
+    *   (f) to provide feedback to the mine operator or site senior executive about whether the requirements of this Act or regulations made under this Act are being complied with:
+    
+    *   (g) to promote the interests of mine workers who have been harmed at work, including in relation to arrangements for harmed workers' rehabilitation and return to work.
+    
+    Section 19W: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19X No duty on site health and safety representatives
+    
+*   Nothing in this Act imposes a duty on a site health and safety representative in that capacity.
+    
+    Section 19X: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+#### Powers of site health and safety representatives
+    
+*   Heading: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19Y Competency requirements for exercise of certain powers
+    
+*   A site health and safety representative must not exercise any power under [section 19ZA][79], [19ZG][85], or [19ZH][86] unless he or she meets the competency requirements for site health and safety representatives prescribed by or under regulations made under this Act.
+    
+    Section 19Y: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19Z Power of site health and safety representative to attend interview
+    
+*   With the consent of the mine worker, a site health and safety representative may attend any interview relating to health and safety that the worker has with the mine operator, the site senior executive or any other representative of the mine operator, or an inspector.
+    
+    Section 19Z: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19ZA Power of site health and safety representative to enter and inspect mining operation
+    
+*   (1) A site health and safety representative may enter and inspect any area of a mining operation at any reasonable time to perform the functions of the site health and safety representative.
+    
+    (2) Before exercising the power under this section, the site health and safety representative must give reasonable notice to the site senior executive.
+    
+    (3) In exercising the power under this section, the site health and safety representative must comply with any reasonable procedures and requirements applying in the mining operation that relate to health and safety.
+    
+    Section 19ZA: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19ZB Power of site health and safety representative to examine and copy documents
+    
+*   A site health and safety representative may examine and copy any documents relevant to health and safety that are held by the mine operator, if the site health and safety representative has reason to believe that the documents contain information required to assess whether procedures at the mining operation are sufficient to achieve compliance with this Act and any regulations made under this Act.
+    
+    Section 19ZB: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19ZC Power to require assistance
+    
+*   A site health and safety representative may require the site senior executive or person in charge of the relevant part or aspect of a mining operation to give the site health and safety representative reasonable assistance in the exercise of a power under [section 19ZA][79] or [19ZB][80].
+    
+    Section 19ZC: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19ZD Power of site health and safety representative to accompany inspector
+    
+*   (1) A site health and safety representative may accompany an inspector who has, under section 31, entered a mining operation.
+    
+    (2) An inspector may refuse to allow a site health and safety representative accompanying the inspector under this section to be present---
+        
+    *   (a) during any discussion in which personal information may be disclosed (unless the person who is the subject of the information has expressly consented to the site health and safety representative being present):
+    
+    *   (b) if the inspector believes that the presence of the site health and safety representative would prejudice the maintenance of the law, including the investigation and prosecution of offences.
+    
+    (3) In this section, _personal information_ has the meaning given to it in[section 2(1)][261] of the Privacy Act 1993\.
+    
+    Section 19ZD: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19ZE Site health and safety representative may consult inspector
+    
+*   A site health and safety representative may consult with an inspector on any health and safety issue.
+    
+    Section 19ZE: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19ZF Trained site health and safety representatives may issue hazard notices
+    
+*   (1) In this section,---
+    
+    _hazard notice_ means a notice that---
+        
+    *   (a) describes a hazard identified in a mining operation; and
+    
+    *   (b) is in the prescribed form; and
+    
+    *   (c) may set out suggested steps to deal with the hazard
+    
+    _trained site health and safety representative_ means a site health and safety representative who has achieved a level of competency in health and safety practice specified by the Minister by notice in the _Gazette_ or who has completed an appropriate course approved under [section 19G][55].
+    
+    (2) Subsection (3) applies if a trained site health and safety representative---
+        
+    *   (a) believes on reasonable grounds that there is a hazard in the mining operation; and
+    
+    *   (b) has brought the hazard to the attention of the site senior executive; and
+    
+    *   (c) has discussed or attempted to discuss with the site senior executive steps for dealing with the hazard.
+    
+    (3) The trained site health and safety representative may give the site senior executive on behalf of the mine operator a hazard notice if---
+        
+    *   (a) the site senior executive refuses to discuss, or take steps to deal with, the hazard; or
+    
+    *   (b) the site senior executive and representative do not agree on the steps that must be taken, or the time within which the steps must be taken, to deal with the hazard; or
+    
+    *   (c) the representative believes on reasonable grounds that the mine operator or site senior executive has failed to meet the requirements of this Act or regulations made under this Act in relation to the hazard within a time agreed during the discussion.
+    
+    (4) If a hazard notice has been given by a trained site health and safety representative, the site senior executive must notify WorkSafe of that fact.
+    
+    Section 19ZF: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19ZG Power of site health and safety representative to give notice requiring suspension of mining operation
+    
+*   (1) This section applies if a site health and safety representative---
+        
+    *   (a) believes on reasonable grounds that the whole, or a part or an aspect, of a mining operation is likely to cause serious harm to any person; and
+    
+    *   (b) has discussed or attempted to discuss the matter likely to cause serious harm with the site senior executive.
+    
+    (2) The site health and safety representative may give a written notice to the site senior executive ordering the suspension of the whole, or a part or an aspect, of the mining operation.
+    
+    (3) The notice must set out the reasons for the site health and safety representative's belief.
+    
+    (4) If the site senior executive receives a notice under subsection (2), the site senior executive must stop the mining operation, or the part or aspect of the mining operation, mentioned in the notice.
+    
+    (5) If a notice ordering the suspension of the whole, or a part or an aspect, of the mining operation has been given by a site health and safety representative, the site senior executive must notify WorkSafe of that fact.
+    
+    Section 19ZG: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19ZH Power of site health and safety representative to require mining operation to stop in case of imminent serious harm
+    
+*   (1) This section applies if a site health and safety representative believes on reasonable grounds that serious harm to any person is likely to be caused imminently by the whole, or a part or an aspect, of a mining operation.
+    
+    (2) The site health and safety representative may---
+        
+    *   (a) stop the whole, or a part or an aspect, of the mining operation and immediately advise the person in charge of the operation or part or aspect of the operation; or
+    
+    *   (b) require the person in charge of the operation or part or aspect of the operation to stop the operation.
+    
+    (3) If a site health and safety representative requires a person to stop the whole, or a part or an aspect, of a mining operation, that person must do so.
+    
+    (4) The site health and safety representative must, as soon as practicable after exercising the power under subsection (2), advise the site senior executive of the action taken under that subsection and the reasons for the action taken.
+    
+    (5) If a site health and safety representative has advised the site senior executive of action taken under subsection (2), the site senior executive must notify WorkSafe of that fact.
+    
+    Section 19ZH: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19ZI Inspector may cancel order to suspend mining operation
+    
+*   An inspector may cancel the whole or part of a notice given under [section 19ZG][85] (whether or not mining operations have stopped pursuant to the notice) or an action taken by a site health and safety representative under [section 19ZH(2)][86] if the inspector does not consider that the operation or the part or aspect of the mining operation concerned is likely to cause serious harm to any person.
+    
+    Section 19ZI: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19ZJ Workers must do other work
+    
+*   If the whole or a part or an aspect of a mining operation is stopped under [section 19ZG][85] or [19ZH][86], a mine worker who is an employee and who was working in the operation or part or aspect of the operation must do any other work within the scope of the worker's employment agreement that the employee's employer reasonably requests.
+    
+    Section 19ZJ: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19ZK Work not to restart until no likelihood of serious harm
+    
+*   The site senior executive must ensure that the operation or part or aspect of the mining operation stopped because a notice is given under [section 19ZG][85], or stopped or required to be stopped under [section 19ZH][86], is not restarted until the site senior executive is satisfied that it is not likely to cause serious harm to any person.
+    
+    Section 19ZK: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19ZL Protection of site health and safety representatives performing functions or exercising powers
+    
+*   A mine operator or site senior executive must not---
+        
+    *   (a) prevent or attempt to prevent a site health and safety representative from performing his or her functions or exercising his or her powers; or
+    
+    *   (b) penalise a site health and safety representative for performing his or her functions or exercising his or her powers.
+    
+    Section 19ZL: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19ZM Functions and powers for health and safety purposes only
+    
+*   A site health and safety representative must not perform a function or exercise a power under this Part for a purpose other than a health and safety purpose.
+    
+    Section 19ZM: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19ZN Information to be used for health and safety purposes only
+    
+*   (1) This section applies to any information obtained by a site health and safety representative in the performance of the site health and safety representative's functions or the exercise of the site health and safety representative's powers under this Act.
+    
+    (2) A site health and safety representative may---
+        
+    *   (a) disclose or use the information,---
+            
+        *   (i) if the information is about a person, only with the person's consent:
+        
+        *   (ii) only to the extent necessary for the performance of the site health and safety representative's functions or the exercise of the site health and safety representative's powers under this Act:
+        
+        
+    
+    *   (b) disclose the information---
+            
+        *   (i) to WorkSafe or a person authorised by WorkSafe only if WorkSafe reasonably believes the disclosure is necessary for administering, monitoring, or enforcing compliance with this Act or any relevant health and safety legislation (as defined in [section 3][262] of the WorkSafe New Zealand Act 2013):
+        
+        *   (ii) only if the disclosure is authorised or required by law.
+        
+        
+    
+    (3) In subsection (2), _disclose_ includes to give any person access to information.
+    
+    Section 19ZN: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19ZO Health and safety representative not to unnecessarily impede production
+    
+*   A site health and safety representative must not unnecessarily impede production at a mining operation when performing functions or exercising powers under this Part.
+    
+    Section 19ZO: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19ZP Protection from civil and criminal liability
+    
+*   A site health and safety representative is protected from civil and criminal liability for any act that he or she does or omits to do--- 
+        
+    *   (a) in the performance or intended performance of his or her functions or the exercise or intended exercise of his or her powers under this Act; and
+    
+    *   (b) in good faith.
+    
+    Section 19ZP: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19ZQ Obligations of mine operators
+    
+*   A mine operator must---
+        
+    *   (a) allow a site health and safety representative to spend such time as is reasonably necessary to perform his or her functions and exercise his or her powers; and
+    
+    *   (b) provide a site health and safety representative with such access to facilities that is reasonably necessary or prescribed in regulations made under this Act to enable the representative to perform his or her functions and exercise his or her powers.
+    
+    Section 19ZQ: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+#### Removal of site health and safety representative
+    
+*   Heading: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19ZR WorkSafe may remove site health and safety representative
+    
+*   (1) WorkSafe may, by notice in writing, remove a site health and safety representative from office if WorkSafe considers that the site health and safety representative has failed to perform his or her functions or exercise his or her powers satisfactorily (for example, if the representative has exercised his or her powers for an improper purpose in breach of [section 19ZM][91] or disclosed information in breach of [section 19ZN][92]).
+    
+    (2) The notice under subsection (1) must set out the reasons for WorkSafe's opinion.
+    
+    Section 19ZR: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19ZS Election of another site health and safety representative
+    
+*   (1) If a site health and safety representative is removed from office by WorkSafe, another site health and safety representative may be elected.
+    
+    (2) Except as provided for in subsection (3), no election for a site health and safety representative to replace the representative who has been removed may be held until the expiry of the period for appeal under [section 19ZT][99] or, if an appeal is lodged, until a decision is made on the appeal.
+    
+    (3) One or more mine workers may initiate the election of a temporary site health and safety representative to replace the representative who has been removed.
+    
+    (4) The term of office of any temporary site health and safety representative ends on the expiry of the period for appeal under [section 19ZT][99] or, if an appeal is lodged, when a decision is made on the appeal.
+    
+    (5) A temporary health and safety representative has the functions and powers set out in [sections 19W][74] and [19Z to 19ZH][78], and those sections and [sections 19X][75], [19Y][77], and [19ZI to 19ZQ][87] apply with any necessary modifications.
+    
+    Section 19ZS: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19ZT Site health and safety representative may appeal against removal
+    
+*   (1) A site health and safety representative may appeal to a District Court against a decision of WorkSafe to remove him or her.
+    
+    (2) The appeal must be brought within 28 days of the date of the notice under [section 19ZR][97].
+    
+    Section 19ZT: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+#### Industry health and safety representatives
+    
+*   Heading: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19ZU Appointment of industry health and safety representatives
+    
+*   (1) This section and [sections 19ZV to 19ZZD][102] apply only to---
+        
+    *   (a) a mining operation associated with the extraction of coal and where any person works below ground (_underground coal mining operation_):
+    
+    *   (b) mine workers who work in an underground coal mining operation:
+    
+    *   (c) any union that represents mine workers who work in an underground coal mining operation.
+    
+    (2) A union or group of mine workers may, in any manner determined by the union or group, appoint a person to be an industry health and safety representative.
+    
+    (3) The person appointed must meet the competency requirements for industry health and safety representatives prescribed in regulations made under this Act.
+    
+    (4) The union or group of mine workers that appoints an industry health and safety representative must meet the costs of the representative.
+    
+    Section 19ZU: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19ZV Notice to WorkSafe of appointment or cessation of appointment of representative
+    
+*   A union or group of mine workers that appoints an industry health and safety representative must---
+        
+    *   (a) give notice to WorkSafe of that appointment; and
+    
+    *   (b) provide the prescribed information in relation to that appointment, and a photograph of the representative authenticated in accordance with any prescribed requirements; and
+    
+    *   (c) give notice to WorkSafe within 14 days after the date on which the person ceases to be a representative.
+    
+    Section 19ZV: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19ZW Functions and powers of industry health and safety representatives
+    
+*   (1) An industry health and safety representative has, in respect of any mining operation and any mine worker, the functions and powers set out in [sections 19W][74] and [19Z to 19ZH][78], and those sections and [sections 19X][75] and [19ZI to 19ZP][87] apply with any necessary modifications.
+    
+    (2) In addition to the functions and powers referred to in subsection (1), an industry health and safety representative has the following functions:
+        
+    *   (a) to participate in investigations into accidents in mining operations that resulted, or could have resulted, in serious harm:
+    
+    *   (b) to assist with industry-wide initiatives to improve health and safety in mining operations.
+    
+    Section 19ZW: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19ZX Further provision concerning scope of functions and powers of industry health and safety representatives
+    
+*   An industry health and safety representative may perform his or her functions and exercise his or her powers in relation to any mining operation or mine worker whether or not,---
+        
+    *   (a) in the case of a representative appointed by a union, any worker in the mine, or the relevant mine worker, as the case may be, is a member of that union; or
+    
+    *   (b) in the case of a representative appointed by a group of mine workers, any worker in the mine, or relevant mine worker, as the case may be, is a member of that group.
+    
+    Section 19ZX: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19ZY Identity cards
+    
+*   (1) WorkSafe must give each industry health and safety representative an identity card.
+    
+    (2) The identity card must be in the prescribed form.
+    
+    (3) A person who ceases to be an industry health and safety representative must return his or her identity card to WorkSafe as soon as possible, but within 14 days, after the date on which the person ceases to be a representative.
+    
+    Section 19ZY: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19ZZ Production or display of identity card
+    
+*   (1) Before an industry health and safety representative exercises a power under this Part in relation to any person, the representative must---
+        
+    *   (a) produce his or her identity card to the person; or
+    
+    *   (b) display the identity card so it is clearly visible to that person.
+    
+    (2) An industry health and safety representative who exercises a power under [section 19ZA][79] must---
+        
+    *   (a) produce his or her identity card to the person apparently in charge of the part of the mining operation being entered; or
+    
+    *   (b) display the identity card so it is clearly visible to that person.
+    
+    (3) If the representative is unable, despite reasonable efforts, to comply with subsection (2), the representative must, before leaving the mining operation, leave a written notice stating---
+        
+    *   (a) the representative's identity; and
+    
+    *   (b) the address of a place where the representative may be contacted; and
+    
+    *   (c) the date and time of entry onto the mining operation; and
+    
+    *   (d) the representative's reasons for entering onto the mining operation.
+    
+    Section 19ZZ: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19ZZA Removal of industry health and safety representative
+    
+*   [Sections 19ZR][97] and [19ZT][99] apply to an industry health and safety representative with any necessary modifications.
+    
+    Section 19ZZA: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19ZZB Register of industry health and safety representatives
+    
+*   (1) WorkSafe must keep and maintain a register of industry health and safety representatives.
+    
+    (2) The purpose of the register is to enable members of the public to know the names and contact details of industry health and safety representatives.
+    
+    (3) The register may be kept in any manner that WorkSafe thinks fit.
+    
+    (4) The register must contain the prescribed information.
+    
+    Section 19ZZB: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19ZZC Alterations to register
+    
+*   WorkSafe may at any time make any amendments to the register that are necessary to reflect any changes in the information referred to in [section 19ZZB(4)][108].
+    
+    Section 19ZZC: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 19ZZD Search of register
+    
+*   (1) A person may search the register for a purpose set out in [section 19ZZB(2)][108].
+    
+    (2) WorkSafe must---
+        
+    *   (a) make the register available for public inspection, without fee, at reasonable hours at the head office of WorkSafe; and
+    
+    *   (b) supply to any person, on request and on payment of a reasonable charge, a copy of the register or any extract from it.
+    
+    Section 19ZZD: inserted, on 16 December 2013, by [section 11][258] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
 
 ## Part 3  
 Standards
@@ -1393,17 +2355,15 @@ Standards
 
 ##### 20 Codes of practice
     
-*   (1AA) The Minister may direct the Secretary to prepare, and submit for the Minister's approval in accordance with this section, a statement, amendment, or revocation referred to in subsection (1) that relates to a particular health and safety issue.
-    
-    (1) The Secretary may from time to time publish in the _Gazette_ notice that the Secretary has asked the Minister to approve---
+*   (1) WorkSafe may from time to time issue any instrument (a _code of practice_) that is---
         
-    *   (a) a statement of preferred work practices or arrangements; or
+    *   (a) a statement of preferred work practices or arrangements; or 
     
-    *   (aa) a statement of preferred aims, arrangements, practices, or principles (or any 2 or more of those matters) for the design of plant, protective clothing, or protective equipment, of any kind or description; or
+    *   (b) a statement of preferred aims, arrangements, practices, or principles (or any 2 or more of those matters) for the design of plant, protective clothing, or protective equipment, of any kind or description; or
     
-    *   (ab) a statement of preferred arrangements, characteristics, components, configurations, elements, or states (or any 2 or more of those matters) for manufactured plant, manufactured protective clothing, or manufactured protective equipment, of any kind or description; or
+    *   (c) a statement of preferred arrangements, characteristics, components, configurations, elements, or states (or any 2 or more of those matters) for manufactured plant, manufactured protective clothing, or manufactured protective equipment, of any kind or description; or
     
-    *   (ac) a statement of preferred characteristics for any manufactured or processed substance used or capable of being used---
+    *   (d) a statement of preferred characteristics for any manufactured or processed substance used or capable of being used---
             
         *   (i) in or in connection with any protective clothing or protective equipment; or
         
@@ -1411,97 +2371,177 @@ Standards
         
         
     
-    *   (ad) a statement of preferred practices or arrangements relating to employee participation in health and safety in the place of work; or
+    *   (e) a statement of preferred practices or arrangements relating to employee participation in health and safety in the place of work; or
     
-    *   (b) the amendment or revocation of an approved code of practice.
+    *   (f) a statement of preferred practices or arrangements relating to worker participation in a mining operation.
     
-    (2) A notice that the Secretary has asked the Minister to approve a statement under subsection (1) shall include a description of the general purport of the statement; and a notice that the Secretary has asked the Minister to approve the amendment of an approved code of practice shall include a description of the general purport of the amendment.
+    (2) WorkSafe may issue any amendment or revocation of a code of practice.
     
-    (3) Subject to subsection (13), if---
+    (3) Subject to subsection (4), a code of practice may incorporate, adopt, or apply, with or without modification, all or any part of any other document prepared or issued by any body or authority, including the Environmental Protection Authority established by section 7 of the Environmental Protection Authority Act 2011\.
+    
+    (4) WorkSafe must not issue or amend a code of practice in a way that adopts with modification any document previously approved by another Minister of the Crown or any compliance document (within the meaning of the [Building Act 2004][263]) without the consent of the other Minister or the chief executive of the department of State responsible for the administration of the Building Act 2004 (as relevant).
+    
+    Section 20: replaced, on 16 December 2013, by [section 12][264] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 20A Code to be approved by Minister
+    
+*   (1) A code of practice, an amendment to a code of practice, or a revocation of a code of practice has no force or effect until it has been approved by the Minister.
+    
+    (2) The Minister must not approve any code, amendment, or revocation, unless---
         
-    *   (a) at least a month has passed since the publication of a notice under subsection (1); and
+    *   (a) at least 28 days have passed since the publication in the _Gazette_ of a notice of the intention of WorkSafe to apply for approval; and
     
-    *   (b) the Minister has---
-            
-        *   (i) consulted all persons affected, or reasonably likely to be affected, by the statement, amendment, or revocation concerned (or representatives of those persons); and
+    *   (b) the Minister has consulted any persons that will be affected by the code, amendment, or revocation (or representatives of those persons), and they have had the opportunity to consider its possible effects and to comment on the effects to the Minister; and
+    
+    *   (c) the Minister has considered any comments made to the Minister concerning the effects.
+    
+    (3) However, the Minister may approve a code, amendment, or revocation without complying with the requirements of subsection (2)(a) or (b) if the Minister is satisfied that sufficient consultation has already taken place in respect of the matters in the code, amendment, or revocation.
+    
+    (4) When the Minister approves a code, amendment, or revocation, the Minister must---
         
-        *   (ii) given them a reasonable time within which to comment; and---
-        
-        *   (iii) considered all written comments (from any person) received within that time,---
-        
-        
+    *   (a) publish a notice of the approval in the _Gazette_; and
     
-    the Minister may, by notice in the _Gazette_, approve the statement, amendment, or revocation.
+    *   (b) show the date of the approval on the code, amendment, or revocation and publish it in any manner the Minister thinks fit.
     
-    (4) A notice under subsection (3) shall come into force on the later of the following days:
-        
-    *   (a) the 28th day after the date of its publication in the _Gazette_:
+    (5) The fact that the Minister has published a notice of approval in the _Gazette_ under subsection (4)(a) is conclusive proof that the requirements of this section have been complied with in respect of the approval.
     
-    *   (b) a day specified in the notice.
+    Section 20A: inserted, on 16 December 2013, by [section 12][264] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 20B Court may have regard to code
     
-    (5) The publication by the Minister of a notice in the _Gazette_ approving a statement, amendment, or revocation is conclusive proof that subsection (3)(b) has been complied with in respect of the notice.
-    
-    (6) The Secretary shall ensure that at all reasonable times copies of approved codes of practice are available at every office of the department that deals with matters relating to health and safety in employment for inspection and copying by the public.
-    
-    (7) The Secretary may charge any person a reasonable fee for---
-        
-    *   (a) providing the person with a copy of an approved code of practice; or
-    
-    *   (b) allowing the person to use equipment under the Secretary's control to copy all or any part of an approved code of practice.
-    
-    (8) Nothing in subsection (6) or subsection (7) requires the Secretary to allow any person to use equipment under the Secretary's control to copy all or any part of an approved code of practice.
-    
-    (9) A court may, in determining whether or not a person charged with failing to comply with any provision of this Act has complied with the provision, have regard to any approved code of practice that---
+*   (1) A court may, in determining whether or not a person charged with failing to comply with any provision of this Act has complied with the provision, have regard to any approved code of practice that---
         
     *   (a) was in force at the time of the alleged failure; and
     
     *   (b) in the form in which it was then in force, related to matters of a kind to which the provision relates.
     
-    (10) In the absence of proof to the contrary, a document purporting to be an approved code of practice, or an amendment of an approved code of practice, issued by the Secretary shall in any proceedings be deemed to be an approved code of practice or an amendment of an approved code of practice.
+    (2) In any proceedings, a document purporting to be an approved code of practice, or an amendment of an approved code of practice, issued by WorkSafe is, in the absence of proof to the contrary, deemed to be an approved code of practice or an amendment of an approved code of practice.
     
-    (11) Nothing in subsection (10) limits any method of proof of an approved code of practice or an amendment of an approved code of practice.
+    (3) Subsection (2) does not affect any other method of proof of an approved code of practice or an amendment of an approved code of practice.
     
-    (12) Subject to subsection (13), an approved code of practice may incorporate, adopt, or apply, with or without modification, all or any part of any other document prepared or issued by any body or authority, including the Environmental Protection Authority established by [section 7][178] of the Environmental Protection Authority Act 2011\.
+    Section 20B: inserted, on 16 December 2013, by [section 12][264] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 20C Codes to be made available
     
-    (13) The Minister shall not---
+*   (1) WorkSafe must ensure that every approved code of practice is, at all reasonable times, made available to the public for inspection free of charge---
         
-    *   (a) adopt with modification---
+    *   (a) in hard copy at every office of WorkSafe; and
+    
+    *   (b) on an Internet site maintained by, or on behalf of, WorkSafe.
+    
+    (2) WorkSafe may charge any person a reasonable fee for---
+        
+    *   (a) providing the person with a hard copy of an approved code of practice; or
+    
+    *   (b) allowing the person to use equipment under WorkSafe's control to copy all or any part of an approved code of practice.
+    
+    (3) Nothing in this section requires WorkSafe to allow any person to use equipment under WorkSafe's control to copy all or any part of an approved code of practice.
+    
+    Section 20C: inserted, on 16 December 2013, by [section 12][264] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+#### Competencies in mining industry
+    
+*   Heading: inserted, on 16 December 2013, by [section 12][264] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 20D New Zealand Mining Board of Examiners
+    
+*   WorkSafe must establish a board to be known as the New Zealand Mining Board of Examiners.
+    
+    Section 20D: inserted, on 16 December 2013, by [section 12][264] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 20E Functions of Board
+    
+*   The Board has the following functions:
+        
+    *   (a) to advise WorkSafe on competency requirements for mine workers:
+    
+    *   (b) to examine applicants, or have applicants examined, for certificates of competence:
+    
+    *   (c) to issue, renew, cancel, and suspend certificates of competence:
+    
+    *   (d) any other function relating to training and competency requirements for participants in the extractives industry conferred on the Board by regulations made under this Act.
+    
+    Section 20E: inserted, on 16 December 2013, by [section 12][264] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 20F Membership of Board
+    
+*   (1) WorkSafe may at any time appoint a member of the Board.
+    
+    (2) The appointment of a member of the board must be for a specified period.
+    
+    (3) WorkSafe must appoint one of the members of the Board as the chairperson of the board.
+    
+    (4) When appointing a member of the Board, WorkSafe must have regard to the need to ensure that the Board has among its members knowledge and experience of---
+        
+    *   (a) mining operations:
+    
+    *   (b) health and safety inspection in the mining industry:
+    
+    *   (c) mining education:
+    
+    *   (d) mining industry training.
+    
+    (5) Without limiting subsection (4), the Board may include 1 or more employees of WorkSafe.
+    
+    (6) A member of the board may resign by notice in writing to WorkSafe.
+    
+    (7) [Clause 15][265] of Schedule 5 of the Crown Entities Act 2004 (_Schedule 5_) applies to the members of the Board as if they were members of a committee appointed under [clause 14][266] of Schedule 5 by the board of a Crown entity.
+    
+    Section 20F: inserted, on 16 December 2013, by [section 12][264] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 20G Proceedings of Board
+    
+*   The Board may determine its own procedure.
+    
+    Section 20G: inserted, on 16 December 2013, by [section 12][264] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+##### 20H Board levy
+    
+*   (1) The Governor-General may, by Order in Council, in accordance with a recommendation of the Minister, make regulations imposing a levy on mine operators to fund the direct and indirect costs incurred by the Board in performing the Board's functions to the extent they relate to mining operations.
+    
+    (2) The regulations must---
+        
+    *   (a) specify how the levy rate or rates are calculated:
+    
+    *   (b) specify the mine operators or classes of mine operators responsible for paying the levy:
+    
+    *   (c) specify, if the levy is to be paid at different rates, the mine operators, mining operations, thing being extracted, or other things or the classes of mine operators, mining operations, thing being extracted, or other things to which the different rates apply:
+    
+    *   (d) specify when and how the levy is to be paid:
+    
+    *   (e) specify the persons or classes of persons, if any, exempt from paying the levy.
+    
+    (3) Without limiting subsections (1) and (2), the regulations may---
+        
+    *   (a) specify the returns to be made to WorkSafe or some other person or body for the purpose of enabling or assisting the determination of amounts of levy payable:
+    
+    *   (b) specify the circumstances in which, and conditions subject to which, persons may be allowed extensions of time for paying the levy:
+    
+    *   (c) for the purpose of ascertaining whether the regulations are being complied with,---
             
-        *   (i) any document previously approved by another Minister of the Crown; or
+        *   (i) require the keeping of accounts, statements, and records of a specified class or description by either or both of WorkSafe and the persons responsible for paying the levy; and
         
-        *   (ii) any acceptable solution or verification method (within the meaning of the [Building Act 2004][179]); or
+        *   (ii) require the retention of the accounts, statements, and records for a specified period:
         
         
     
-    *   (b) approve any amendment of any part of a code of practice that comprises a document referred to in paragraph (a),---
+    *   (d) provide for the establishment of a dispute resolution process for disputes relating to levies, including---
+            
+        *   (i) the appointment of persons to resolve the disputes; and
+        
+        *   (ii) the procedures to be followed by the persons; and
+        
+        *   (iii) the remuneration of the persons.
+        
+        
     
-    without the consent of the other Minister (or the the chief executive of the department of State responsible for the administration of the [Building Act 2004][179]).
+    (4) Before making a recommendation under this section, the Minister must---
+        
+    *   (a) receive advice from WorkSafe on the proposed levy; and
     
-    Section 20(1AA): inserted, on 5 May 2003, by [section 14(1)][180] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    *   (b) consult the people responsible for paying the proposed levy.
     
-    Section 20(1)(aa): inserted, on 18 March 1998, by [section 3(1)][149] of the Health and Safety in Employment Amendment Act 1998 (1998 No 3).
-    
-    Section 20(1)(ab): inserted, on 18 March 1998, by [section 3(1)][149] of the Health and Safety in Employment Amendment Act 1998 (1998 No 3).
-    
-    Section 20(1)(ac): inserted, on 18 March 1998, by [section 3(1)][149] of the Health and Safety in Employment Amendment Act 1998 (1998 No 3).
-    
-    Section 20(1)(ad): inserted, on 5 May 2003, by [section 14(2)][180] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
-    
-    Section 20(2): amended, on 18 March 1998, by [section 3(2)(b)][149] of the Health and Safety in Employment Amendment Act 1998 (1998 No 3).
-    
-    Section 20(12): amended, on 1 July 2011, by [section 53(1)][181] of the Environmental Protection Authority Act 2011 (2011 No 14).
-    
-    Section 20(12): amended for all other purposes, on 2 July 2001, by [section 149][182] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
-    
-    Section 20(12): amended for those items relating to new organisms, on 29 July 1998, by [section 149][182] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
-    
-    Section 20(13): amended, on 31 March 2005, by [section 414][183] of the Building Act 2004 (2004 No 72).
-    
-    Section 20(13)(a): substituted, on 31 March 2005, by [section 414][183] of the Building Act 2004 (2004 No 72).
-    
-    Section 20(13)(a)(ii): amended, on 28 November 2013, by [section 78][184] of the Building Amendment Act 2013 (2013 No 100).
-    
-    Section 20(13)(b): amended, on 31 March 2005, by [section 414][183] of the Building Act 2004 (2004 No 72).
+    Section 20H: inserted, on 16 December 2013, by [section 12][264] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
 
 #### Regulations
 
@@ -1521,23 +2561,61 @@ Standards
         
         
     
-    *   (b) providing for any other matters contemplated by, or necessary for giving full effect to, this Act.
+    *   (b) without limiting paragraph (a), imposing duties relating to the health or safety of mine workers on---
+            
+        *   (i) mine operators:
+        
+        *   (ii) mine workers:
+        
+        *   (iii) site senior executives:
+        
+        
+    
+    *   (c) the default worker participation system for the purpose of section 19U:
+    
+    *   (d) the requirements for conducting elections of site health and safety representatives for the purpose of [section 19V(1)][73]:
+    
+    *   (e) the form of the identity card to be held by an industry health and safety representative:
+    
+    *   (f) prescribing the information to be provided to WorkSafe for the purpose of [section 19ZV(b)][102] and any requirements concerning the authentication of any photograph provided under that section:
+    
+    *   (g) prescribing the information to be contained in the register kept under [section 19ZZB][108]:
+    
+    *   (h) prescribing functions of the New Zealand Mining Board of Examiners for the purpose of [section 20E(d)][119]:
+    
+    *   (i) providing for any other matters contemplated by this Act and necessary for its administration or necessary for giving it full effect.
     
     (2) The Minister shall not recommend the making of any regulations without first consulting all persons and organisations the Minister thinks appropriate, having regard to the regulations' content.
     
-    (3) The Minister, before recommending the making of any regulations relating to hazardous substances or new organisms, must consult the Environmental Protection Authority established by [section 7][178] of the Environmental Protection Authority Act 2011 about the contents of such regulations, and shall take into account any submissions made by that Authority.
+    (3) The Minister, before recommending the making of any regulations relating to hazardous substances or new organisms, must consult the Environmental Protection Authority established by [section 7][267] of the Environmental Protection Authority Act 2011 about the contents of such regulations, and shall take into account any submissions made by that Authority.
     
-    Section 21(1)(a)(iv): added, on 5 May 2003, by [section 15][185] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 21(1)(a)(iv): added, on 5 May 2003, by [section 15][268] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 21(3): brought into force for all other purposes, on 2 July 2001, by [clause 2][186] of the Hazardous Substances and New Organisms Act Commencement Order (No 2) 2001 (SR 2001/171).
+    Section 21(1)(b): replaced, on 16 December 2013, by [section 13][269] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
     
-    Section 21(3): added for those items relating to new organisms, on 29 July 1998, by [section 149][182] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
+    Section 21(1)(c): inserted, on 16 December 2013, by [section 13][269] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
     
-    Section 21(3): amended, on 1 July 2011, by [section 53(1)][181] of the Environmental Protection Authority Act 2011 (2011 No 14).
+    Section 21(1)(d): inserted, on 16 December 2013, by [section 13][269] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+    
+    Section 21(1)(e): inserted, on 16 December 2013, by [section 13][269] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+    
+    Section 21(1)(f): inserted, on 16 December 2013, by [section 13][269] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+    
+    Section 21(1)(g): inserted, on 16 December 2013, by [section 13][269] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+    
+    Section 21(1)(h): inserted, on 16 December 2013, by [section 13][269] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+    
+    Section 21(1)(i): inserted, on 16 December 2013, by [section 13][269] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+    
+    Section 21(3): brought into force for all other purposes, on 2 July 2001, by [clause 2][270] of the Hazardous Substances and New Organisms Act Commencement Order (No 2) 2001 (SR 2001/171).
+    
+    Section 21(3): added for those items relating to new organisms, on 29 July 1998, by [section 149][271] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
+    
+    Section 21(3): amended, on 1 July 2011, by [section 53(1)][272] of the Environmental Protection Authority Act 2011 (2011 No 14).
 
 ##### 22 Application of regulations
     
-*   Regulations under [section 21(1)(a)][56] may impose duties---
+*   (1) Regulations under [section 21(1)(a)][124] may impose duties---
         
     *   (a) on all employers or other persons who or that control places of work:
     
@@ -1557,11 +2635,29 @@ Standards
     
     *   (i) in respect of places of work, plant, processes, activities, or substances, of a particular kind or description.
     
+    (2) Regulations under [section 21(1)(b)][124] may impose duties---
+        
+    *   (a) on all mine operators:
     
+    *   (b) on mine operators of a particular kind or description:
+    
+    *   (c) on all site senior executives:
+    
+    *   (d) on site senior executives of a particular kind or description:
+    
+    *   (e) on all mine workers:
+    
+    *   (f) on mine workers of a particular kind or description:
+    
+    *   (g) in relation to all mining operations:
+    
+    *   (h) in relation to mining operations of a particular class or description.
+    
+    Section 22(2): inserted, on 16 December 2013, by [section 14][273] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
 
 ##### 23 Other provisions relating to regulations
     
-*   (1) Regulations made under [section 21(1)(a)][56] may provide for all or any of the following matters:
+*   (1) Regulations made under [section 21(1)(a) or (b)][124] may provide for all or any of the following matters:
         
     *   (a) the registration, licensing, or certification of plant, and places of work:
     
@@ -1573,7 +2669,17 @@ Standards
     
     *   (e) persons engaged in particular work or activities to hold, or employ people holding, certificates of competence or registration:
     
+    *   (ea) the competency requirements to be met by site health and safety representatives and industry health and safety representatives:
+    
     *   (f) the issue, renewal, cancellation, and suspension of certificates of competence, and the examination of applicants for certificates of competence:
+    
+    *   (fa) the prescribing by WorkSafe, by notice in the _Gazette_, of---
+            
+        *   (i) requirements to be met for the granting of certificates of competence:
+        
+        *   (ii) other competency requirements for mine workers, site senior executives, site health and safety representatives, and industry health and safety representatives:
+        
+        
     
     *   (g) the recognition and withdrawal of recognition of organisations issuing certificates empowering other organisations, and individuals, to undertake functions and tasks:
     
@@ -1593,11 +2699,11 @@ Standards
     
     *   (l) the approval, and withdrawal of approval, of testing institutions:
     
-    *   (m) the procedures of inquiries under [section 27][65]:
+    *   (m) the procedures of inquiries under [section 27][133]:
     
     *   (n) the provision of accommodation for employees, contractors, subcontractors, or employees of contractors or subcontractors.
     
-    (2) Regulations made under [section 21(1)(a)][56] may incorporate by reference all or any part of any---
+    (2) Regulations made under [section 21(1)(a) or (b)][124] may incorporate by reference all or any part of any---
         
     *   (a) New Zealand Standard:
     
@@ -1609,11 +2715,23 @@ Standards
     
     (4) A copy of all material incorporated in regulations by reference shall be made available at the Head Office of the department for inspection by the public free of charge.
     
-    (5) Regulations made under [section 21(1)(a)][56] may impose prohibitions.
+    (5) Regulations made under [section 21(1)(a) or (b)][124] may impose prohibitions.
     
-    (6) Regulations made under [section 21(1)(a)][56] may apply differently to people of a differing age or health status, and may apply only to people of a particular age or health status.
+    (6) Regulations made under [section 21(1)(a) or (b)][124] may apply differently to people of a differing age or health status, and may apply only to people of a particular age or health status.
     
     (7) The fact that any provision of any regulations made under this Act contains an example does not limit or affect the generality of any other provision of those regulations.
+    
+    Section 23(1): amended, on 16 December 2013, by [section 15(1)][274] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+    
+    Section 23(1)(ea): inserted, on 16 December 2013, by [section 15(2)][274] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+    
+    Section 23(1)(fa): inserted, on 16 December 2013, by [section 15(3)][274] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+    
+    Section 23(2): amended, on 16 December 2013, by [section 15(1)][274] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+    
+    Section 23(5): amended, on 16 December 2013, by [section 15(1)][274] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+    
+    Section 23(6): amended, on 16 December 2013, by [section 15(1)][274] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
 
 ##### 24 Saving of regulations made under certain repealed enactments
     
@@ -1684,41 +2802,45 @@ General provisions
         
     *   (a) serious harm in respect of which an employer, self-employed person, or principal is required by this section to record particulars; and
     
-    *   (b) accidents of a kind or description required by regulations made under [section 21][56] to be notified to the Secretary.
+    *   (b) accidents of a kind or description required by regulations made under [section 21][124] to be notified to WorkSafe.
     
     (3) If there occurs any serious harm or accident to which this subsection applies, the employer, self-employed person, or principal concerned must,---
         
-    *   (a) as soon as possible after the occurrence becomes known to the employer, self-employed person, or principal, notify the Secretary of the occurrence; and
+    *   (a) as soon as possible after the occurrence becomes known to the employer, self-employed person, or principal, notify WorkSafe of the occurrence; and
     
-    *   (b) within 7 days after the occurrence, or, if the occurrence is not known to the employer, self-employed person, or principal within that period, as soon as possible after it becomes known, give the Secretary written notice, in the prescribed manner, of the circumstances of the occurrence.
+    *   (b) within 7 days after the occurrence, or, if the occurrence is not known to the employer, self-employed person, or principal within that period, as soon as possible after it becomes known, give WorkSafe written notice, in the prescribed manner, of the circumstances of the occurrence.
     
     (4) Notification of an accident in accordance with either or both of the following provisions is compliance with subsection (3)(a):
         
-    *   (a) [section 17(3)][187] of the Gas Act 1992:
+    *   (a) [section 17(3)][275] of the Gas Act 1992:
     
-    *   (b) [section 16(3)][188] of the Electricity Act 1992\.
+    *   (b) [section 16(3)][276] of the Electricity Act 1992\.
     
-    Section 25(1A): inserted, on 5 May 2003, by [section 16(1)][189] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 25(1A): inserted, on 5 May 2003, by [section 16(1)][277] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 25(1B): inserted, on 5 May 2003, by [section 16(1)][189] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 25(1B): inserted, on 5 May 2003, by [section 16(1)][277] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 25(1C): inserted, on 5 May 2003, by [section 16(1)][189] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 25(1C): inserted, on 5 May 2003, by [section 16(1)][277] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 25(2)(a): amended, on 5 May 2003, by [section 16(2)][189] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 25(2)(a): amended, on 5 May 2003, by [section 16(2)][277] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 25(3): substituted, on 5 May 2003, by [section 16(3)][189] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 25(2)(b): amended, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 25(4): added, on 5 December 2006, by [section 4][190] of the Health and Safety in Employment Amendment Act 2006 (2006 No 72).
+    Section 25(3): substituted, on 5 May 2003, by [section 16(3)][277] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    
+    Section 25(3)(a): amended, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    
+    Section 25(3)(b): amended, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    
+    Section 25(4): added, on 5 December 2006, by [section 4][278] of the Health and Safety in Employment Amendment Act 2006 (2006 No 72).
 
 ##### 25A Transfer of accident information
     
-*   The Secretary must, as soon as practicable after he or she is notified of an accident under [section 25][62], provide the notice or information that has been given to the Secretary to---
-        
-    *   (a) the person who must be notified of the particulars of an accident under [section 17(3)][187] of the Gas Act 1992 if the Secretary is of the opinion that section 17 of that Act applies to the accident; and
+*   (1) If WorkSafe is notified of an accident under [section 25][130] and the accident relates to a specified matter, WorkSafe must provide the notice and any particulars that WorkSafe has received to the Secretary.
     
-    *   (b) the person who must be notified of the particulars of an accident under [section 16(3)][188] of the Electricity Act 1992 if the Secretary is of the opinion that section 16 of that Act applies to the accident.
+    (2) In this section, _specified matter_ means a matter that is specified in a _Gazette_ notice under [section 5A(2)][279] of the Electricity Act 1992 or section 6A(2) of the Gas Act 1992\.
     
-    Section 25A: inserted, on 5 December 2006, by [section 5][191] of the Health and Safety in Employment Amendment Act 2006 (2006 No 72).
+    Section 25A: replaced, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 ##### 26 No interference at accident scene
     
@@ -1734,13 +2856,13 @@ General provisions
         
     *   (a) an accident involving a motor vehicle on a public highway; or
     
-    *   (b) an accident being investigated under Part 8 of the Shipping and Seamen Act 1952, the [Armed Forces Discipline Act 1971][192], the [Civil Aviation Act 1990][193], the [Transport Accident Investigation Commission Act 1990][194], the [Electricity Act 1992][195], or the [Gas Act 1992][196]; or
+    *   (b) an accident being investigated under Part 8 of the Shipping and Seamen Act 1952, the [Armed Forces Discipline Act 1971][280], the [Civil Aviation Act 1990][281], the [Transport Accident Investigation Commission Act 1990][282], the [Electricity Act 1992][283], or the [Gas Act 1992][284]; or
     
     *   (c) an accident being investigated by a constable.
     
-    Section 26(2)(b): amended, on 1 April 1993, by [section 173(2)][197] of the Electricity Act 1992 (1992 No 122).
+    Section 26(2)(b): amended, on 1 April 1993, by [section 173(2)][285] of the Electricity Act 1992 (1992 No 122).
     
-    Section 26(2)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][198] of the Policing Act 2008 (2008 No 72).
+    Section 26(2)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][286] of the Policing Act 2008 (2008 No 72).
 
 ##### 27 Inquiry into cause of accident
     
@@ -1750,13 +2872,13 @@ General provisions
     
     (3) The Judge may hold the inquiry at any times and places the Judge appoints, and shall report on the cause of the accident to the Minister.
     
-    (4) The Judge has all the powers of a Commission of Inquiry under the [Commissions of Inquiry Act 1908][199]; and subject to subsections (2) and (3), that Act shall apply accordingly.
+    (4) The Judge has all the powers of a Commission of Inquiry under the [Commissions of Inquiry Act 1908][287]; and subject to subsections (2) and (3), that Act shall apply accordingly.
     
-    (5) Nothing in subsection (1) applies to an accident or occurrence that is being (or has been) investigated under the [Armed Forces Discipline Act 1971][192].
+    (5) Nothing in subsection (1) applies to an accident or occurrence that is being (or has been) investigated under the [Armed Forces Discipline Act 1971][280].
     
-    Section 27(1): amended, on 1 October 2003, pursuant to [section 14(1)][200] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 27(1): amended, on 1 October 2003, pursuant to [section 14(1)][288] of the State Sector Amendment Act 2003 (2003 No 41).
     
-    Section 27(1): amended, on 1 July 1995, by [section 10(1)][201] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 27(1): amended, on 1 July 1995, by [section 10(1)][289] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
 
 ##### 28 Coroner may call for report on fatal accident
     
@@ -1764,7 +2886,7 @@ General provisions
 
 #### Right of employees to refuse to perform work likely to cause serious harm
     
-*   Heading: inserted, on 5 May 2003, by [section 17][202] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+*   Heading: inserted, on 5 May 2003, by [section 17][290] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 ##### 28A Employees may refuse to perform work likely to cause serious harm
     
@@ -1792,15 +2914,15 @@ General provisions
         
     *   (a) in situations to which this section applies, the employer, employee, and health and safety representative must deal with each other in good faith; and
     
-    *   (b) a question about the application of this section to a particular situation is an employment relationship problem for the purposes of the [Employment Relations Act 2000][203].
+    *   (b) a question about the application of this section to a particular situation is an employment relationship problem for the purposes of the [Employment Relations Act 2000][291].
     
     (9) Subsection (8)(b) does not apply to members of the Armed Forces.
     
-    Section 28A: inserted, on 5 May 2003, by [section 17][202] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 28A: inserted, on 5 May 2003, by [section 17][290] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 #### Enforcement by other agencies
     
-*   Heading: inserted, on 5 May 2003, by [section 17][202] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+*   Heading: inserted, on 5 May 2003, by [section 17][290] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 ##### 28B Enforcement by other agencies
     
@@ -1810,7 +2932,7 @@ General provisions
     
     (3) A copy of the policy direction must be presented to the House of Representatives within 10 working days after the date that it is given to the chief executive.
     
-    (4) This Act applies as if references to the Secretary were references to the chief executive of the agency.
+    (4) This Act applies as if references to WorkSafe were references to the chief executive of the agency.
     
     (5) In this section,---
     
@@ -1818,7 +2940,7 @@ General provisions
         
     *   (a) a government department:
     
-    *   (b) a Crown entity within the meaning of [section 2(1)][204] of the Public Finance Act 1989:
+    *   (b) a Crown entity within the meaning of [section 2(1)][292] of the Public Finance Act 1989:
     
     *   (c) the New Zealand Police:
     
@@ -1826,17 +2948,25 @@ General provisions
     
     _chief executive_ includes the Commissioner of Police and the Chief of Defence Force.
     
-    Section 28B: inserted, on 5 May 2003, by [section 17][202] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 28B: inserted, on 5 May 2003, by [section 17][290] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    
+    Section 28B(4): amended, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 #### Inspectors
 
 ##### 29 Inspectors
     
-*   (1) The Secretary may appoint any person who has passed the prescribed examinations or acquired the prescribed experience to be a health and safety inspector for the purposes of this Act.
+*   (1) WorkSafe may appoint any person who has passed the prescribed examinations or acquired the prescribed experience to be a health and safety inspector for the purposes of this Act.
     
-    (2) An inspector shall perform and exercise the functions and powers of an inspector subject to the directions and conditions (if any) for the time being imposed by the Secretary.
+    (2) An inspector shall perform and exercise the functions and powers of an inspector subject to the directions and conditions (if any) for the time being imposed by WorkSafe.
     
-    (3) Every inspector shall have a certificate of appointment, in a form approved by the Secretary.
+    (3) Every inspector shall have a certificate of appointment, in a form approved by WorkSafe.
+    
+    Section 29(1): amended, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    
+    Section 29(2): amended, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    
+    Section 29(3): amended, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 ##### 30 Functions of inspectors
     
@@ -1850,7 +2980,7 @@ General provisions
     
     *   (d) all other functions conferred on inspectors by this Act or any other enactment.
     
-    Section 30(b): amended, on 5 May 2003, by [section 18][189] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 30(b): amended, on 5 May 2003, by [section 18][277] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 ##### 31 Powers of entry and inspection
     
@@ -1906,7 +3036,7 @@ General provisions
     
     may issue to an inspector named in it a warrant to enter any part of the home that is, or is the only practicable means through which the inspector may enter, the place of work.
     
-    (4) Notwithstanding subsection (1), an inspector shall not enter a defence area (within the meaning of [section 2(1)][141] of the Defence Act 1990) except in accordance with a written agreement between the Secretary and the Chief of Defence Force entered into for the purposes of this section and for the time being in force.
+    (4) Notwithstanding subsection (1), an inspector shall not enter a defence area (within the meaning of [section 2(1)][213] of the Defence Act 1990) except in accordance with a written agreement between WorkSafe and the Chief of Defence Force entered into for the purposes of this section and for the time being in force.
     
     (5) Notwithstanding subsection (1)(e), if all or any part of a document, or of any information, relates to any person's health status and identifies the person, no inspector shall, without the person's consent,---
         
@@ -1920,9 +3050,15 @@ General provisions
     
     (6) No person is required on examination or inquiry under this section to give any answer or information tending to incriminate the person.
     
-    Section 31(1A): inserted, on 5 May 2003, by [section 19(1)][205] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    (7) In this section, a reference to an employee includes any mine worker and a reference to an employer includes any mine operator.
     
-    Section 31(2): amended, on 5 May 2003, by [section 19(2)][205] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 31(1A): inserted, on 5 May 2003, by [section 19(1)][293] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    
+    Section 31(2): amended, on 5 May 2003, by [section 19(2)][293] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    
+    Section 31(4): amended, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    
+    Section 31(7): inserted, on 16 December 2013, by [section 16][294] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
 
 ##### 32 Inspectors to prove identity
     
@@ -1942,7 +3078,7 @@ General provisions
 
 ##### 33 Powers to take samples and other objects and things
     
-*   (1) An inspector who enters a place of work or a former place of work under [section 31][74] may take or remove a sample of a substance or thing for analysis, or seize and retain any material, substance, or thing, for the purpose of---
+*   (1) An inspector who enters a place of work or a former place of work under [section 31][142] may take or remove a sample of a substance or thing for analysis, or seize and retain any material, substance, or thing, for the purpose of---
         
     *   (a) monitoring conditions in the place; or
     
@@ -1976,31 +3112,49 @@ General provisions
     
     (3) This section does not allow an inspector to take a sample from a person's body unless the inspector has that person's informed consent to the taking of the sample.
     
-    Section 33(1): substituted, on 5 May 2003, by [section 20(1)][206] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    (4) In this section, a reference to an employer includes any mine operator.
     
-    Section 33(3): added, on 5 May 2003, by [section 20(2)][206] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 33(1): substituted, on 5 May 2003, by [section 20(1)][295] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    
+    Section 33(3): added, on 5 May 2003, by [section 20(2)][295] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    
+    Section 33(4): inserted, on 16 December 2013, by [section 17][296] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
 
-#### Departmental medical practitioners
+#### Health and safety medical practitioners
+    
+*   Heading: replaced, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
-##### 34 Appointment of departmental medical practitioners
+##### 34 Appointment of health and safety medical practitioners
     
-*   (1) The Secretary may appoint any medical practitioner to be a departmental medical practitioner.
+*   (1) WorkSafe may appoint any medical practitioner to be a health and safety medical practitioner.
     
-    (2) A departmental medical practitioner shall exercise the powers of a departmental medical practitioner subject to the directions and conditions (if any) for the time being imposed by the Secretary.
+    (2) A health and safety medical practitioner shall exercise the powers of a health and safety medical practitioner subject to the directions and conditions (if any) for the time being imposed by WorkSafe.
     
-    (3) Every departmental medical practitioner shall have a certificate of appointment, in a form approved by the Secretary.
+    (3) Every health and safety medical practitioner shall have a certificate of appointment, in a form approved by WorkSafe.
     
-    (4) A departmental medical practitioner ceases to be a departmental medical practitioner on ceasing to be a medical practitioner.
+    (4) A health and safety medical practitioner ceases to be a health and safety medical practitioner on ceasing to be a medical practitioner.
     
-    Section 34(1): amended, on 18 September 2004, by [section 175(1)][153] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 34 heading: amended, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 34(4): substituted, on 18 September 2004, by [section 175(1)][153] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 34(1): replaced, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    
+    Section 34(2): amended, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    
+    Section 34(3): amended, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    
+    Section 34(4): substituted, on 18 September 2004, by [section 175(1)][227] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    
+    Section 34(4): amended, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
-##### 35 Powers of entry and inspection of departmental medical practitioners
+##### 35 Powers of entry and inspection of health and safety medical practitioners
     
-*   For the purposes of this Act, any departmental medical practitioner may at any reasonable time enter any place of work and do anything specified in any of paragraphs (a), (b), (c), and (e) of [section 31(1)][74] as if the departmental medical practitioner is an inspector; and subsections (2) to (4), and (6) of section 31, and [section 32][75] shall have effect accordingly.
+*   For the purposes of this Act, any health and safety medical practitioner may at any reasonable time enter any place of work and do anything specified in any of paragraphs (a), (b), (c), and (e) of [section 31(1)][142] as if the health and safety medical practitioner is an inspector; and subsections (2) to (4), and (6) of section 31, and [section 32][143] shall have effect accordingly.
+    
+    Section 35 heading: amended, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    
+    Section 35: amended, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
-##### 36 Departmental medical practitioners may require medical examinations of employees
+##### 36 Health and safety medical practitioners may require medical examinations of employees
     
 *   If satisfied that---
         
@@ -2016,13 +3170,13 @@ General provisions
         
         
     
-    a departmental medical practitioner may, by notice in writing to the employee, require the employee---
+    a health and safety medical practitioner may, by notice in writing to the employee, require the employee---
         
     *   (c) to---
             
         *   (i) be examined by a medical practitioner; and
         
-        *   (ii) provide to the departmental medical practitioner a certificate from the medical practitioner as to the employee's fitness for work; or
+        *   (ii) provide to the health and safety medical practitioner a certificate from the medical practitioner as to the employee's fitness for work; or
         
         
     
@@ -2032,17 +3186,25 @@ General provisions
         
         *   (ii) have the sample tested or analysed by a person (or person of a kind) specified in the notice in a manner specified in the notice; and
         
-        *   (iii) provide the departmental medical practitioner with a written report from the person who tests or analyses the sample on the results of the tests and analyses done; or
+        *   (iii) provide the health and safety medical practitioner with a written report from the person who tests or analyses the sample on the results of the tests and analyses done; or
         
         
     
     *   (e) both.
     
-    Section 36(c)(i): amended, on 18 September 2004, by [section 175(1)][153] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 36 heading: amended, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 36(c)(ii): amended, on 18 September 2004, by [section 175(1)][153] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 36: amended, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    
+    Section 36(c)(i): amended, on 18 September 2004, by [section 175(1)][227] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    
+    Section 36(c)(ii): amended, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    
+    Section 36(c)(ii): amended, on 18 September 2004, by [section 175(1)][227] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    
+    Section 36(d)(iii): amended, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
-##### 37 Departmental medical practitioners may suspend employees in certain cases
+##### 37 Health and safety medical practitioners may suspend employees in certain cases
     
 *   (1) If satisfied on reasonable grounds that---
         
@@ -2050,29 +3212,37 @@ General provisions
             
         *   (i) is, has been, or may have been, exposed to a significant hazard while at work; and
         
-        *   (ii) has failed or refused, without reasonable cause, to comply with a notice under [section 36][80]; or
+        *   (ii) has failed or refused, without reasonable cause, to comply with a notice under [section 36][148]; or
         
         
     
     *   (b) an employee has been so harmed by exposure to a significant hazard while at work that the employee should not continue to be exposed to the hazard,---
     
-    the departmental medical practitioner may, by written notice to the employee (a copy of which the departmental medical practitioner shall give to the employer),---
+    the health and safety medical practitioner may, by written notice to the employee (a copy of which the health and safety medical practitioner shall give to the employer),---
         
-    *   (c) require the employee to cease doing anything specified in the notice that, in the departmental medical practitioner's opinion, constitutes, causes, or enhances the employee's exposure to the hazard; and
+    *   (c) require the employee to cease doing anything specified in the notice that, in the health and safety medical practitioner's opinion, constitutes, causes, or enhances the employee's exposure to the hazard; and
     
     *   (d) require the employer to ensure that the employee ceases doing the thing or things specified in the notice.
     
     (2) Every employee and employer shall comply with a suspension notice.
+    
+    Section 37 heading: amended, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    
+    Section 37(1): amended, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    
+    Section 37(1)(c): amended, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 ##### 38 Administrative provisions
     
-*   [Sections 44 to 48][89], [57][125], and [58][127] shall have effect in relation to departmental medical practitioners and suspension notices as if---
+*   [Sections 44 to 48][159], [57][195], and [58][197] shall have effect in relation to health and safety medical practitioners and suspension notices as if---
         
-    *   (a) every reference to an inspector is a reference to a departmental medical practitioner; and
+    *   (a) every reference to an inspector is a reference to a health and safety medical practitioner; and
     
     *   (b) every reference to a notice is a reference to a suspension notice.
     
+    Section 38: amended, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
+    Section 38(a): amended, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
 #### Improvement and prohibition notices
 
@@ -2102,6 +3272,28 @@ General provisions
     
     (5) Every person to whom or to which an improvement notice is given or posted shall comply with it.
 
+##### 39A Inspectors may issue improvement notices in relation to mining operation
+    
+*   (1) An inspector may, in relation to a mining operation, give a person written notice to comply with a provision of this Act or of regulations made under this Act, if the inspector believes on reasonable grounds that the person is failing to comply with that provision or is likely to fail to comply with that provision.
+    
+    (2) An improvement notice must state that the inspector concerned believes that the person to whom or which it relates is failing, or is likely to fail, to comply with the provision, and must specify---
+        
+    *   (a) the provision; and
+    
+    *   (b) the inspector's reasons for believing that the person is failing, or is likely to fail, to comply with the provision; and
+    
+    *   (c) the nature of the failure or likely failure; and
+    
+    *   (d) a day before which compliance is to be completed.
+    
+    (3) An improvement notice may specify steps that could be taken to ensure compliance with the provision concerned.
+    
+    (4) Every person to whom or to which an improvement notice is given or posted must comply with it.
+    
+    (5) Nothing in this section limits the power of an inspector under [section 39][152].
+    
+    Section 39A: inserted, on 16 December 2013, by [section 18][297] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
 ##### 40 How improvement notices to be given
     
 *   (1) An improvement notice may be---
@@ -2128,15 +3320,61 @@ General provisions
     
     (4) A prohibition notice may specify steps that could be taken to eliminate the hazard concerned or minimise the likelihood that the hazard will be a source of harm.
 
+##### 41A Inspectors may issue prohibition notices in relation to mining operation
+    
+*   (1) This section applies if, in relation to a mining operation,---
+        
+    *   (a) an inspector believes that there is a likelihood of serious harm to any person because of a failure to comply with any provision of this Act or of regulations made under this Act; or
+    
+    *   (b) an inspector believes on reasonable grounds that it is likely that a person will fail to comply with any provision of this Act or of regulations made under this Act and that failure would be likely to cause serious harm to any person.
+    
+    (2) The inspector may give written notice to stop, or not start, the carrying on, continuing, operating, storing, transporting, or use of the activity, building, place of work, plant, process, situation, structure, or substance, that the inspector believes to constitute the hazard that is likely to cause serious harm until an inspector is satisfied that measures sufficient to eliminate the hazard, or minimise the likelihood that the hazard will be a source of harm, have been taken.
+    
+    (3) A prohibition notice must specify---
+        
+    *   (a) the hazard to which it relates; and
+    
+    *   (b) the inspector's reasons for believing that the hazard is likely to cause serious harm.
+    
+    (4) A prohibition notice may require the withdrawal of all mine workers of a specified kind or description except such mine workers as may be necessary to deal with the hazard.
+    
+    (5) A prohibition notice may specify steps that could be taken to eliminate the hazard or minimise the likelihood that the hazard will be a source of harm.
+    
+    (6) Nothing in this section limits the power of an inspector under [section 41][155].
+    
+    Section 41A: inserted, on 16 December 2013, by [section 19][298] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
 ##### 42 Service of prohibition notices
     
-*   (1) The inspector who gives a prohibition notice shall fix it to or near the part of the place of work or plant to which it relates; and no person shall remove it unless authorised by an inspector.
+*   (1) The inspector who gives a prohibition notice under [section 41][155] shall fix it to or near the part of the place of work or plant to which it relates; and no person shall remove it unless authorised by an inspector.
     
-    (2) The inspector shall give a copy of the notice to any person apparently in charge of the activity, building, place of work, plant, process, situation, structure, or substance, that the inspector believes to constitute the hazard that has caused or is likely to cause the harm concerned.
+    (2) The inspector shall give a copy of the notice under [section 41][155] to any person apparently in charge of the activity, building, place of work, plant, process, situation, structure, or substance, that the inspector believes to constitute the hazard that has caused or is likely to cause the harm concerned.
+    
+    (3) An inspector who gives a prohibition notice under [section 41A][156] may---
+        
+    *   (a) fix the notice to or near the part of the place of work or plant to which it relates and give a copy of it to the site senior executive, or another representative of the mine operator, on behalf of the mine operator; or
+    
+    *   (b) give the notice to the site senior executive, or another representative of the mine operator, on behalf of the mine operator.
+    
+    (4) No person may remove a notice under [section 41A][156] served in accordance with subsection (3)(a) unless authorised by an inspector.
+    
+    Section 42(1): amended, on 16 December 2013, by [section 20(1)][299] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+    
+    Section 42(2): amended, on 16 December 2013, by [section 20(2)][299] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+    
+    Section 42(3): inserted, on 16 December 2013, by [section 20(3)][299] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+    
+    Section 42(4): inserted, on 16 December 2013, by [section 20(3)][299] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
 
 ##### 43 Compliance with prohibition notices
     
-*   Every person to whom a prohibition notice is given, and every person who controls a place of work or any plant to which a prohibition notice relates, shall ensure that no action is taken in contravention of it.
+*   (1) Every person to whom a prohibition notice under [section 41][155] is given, and every person who controls a place of work or any plant to which a prohibition notice relates, shall ensure that no action is taken in contravention of it.
+    
+    (2) A mine operator to whom a prohibition notice under [section 41A][156] is given must ensure that no action is taken in contravention of it.
+    
+    Section 43(1): amended, on 16 December 2013, by [section 21(1)][300] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+    
+    Section 43(2): inserted, on 16 December 2013, by [section 21(2)][300] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
 
 ##### 44 How notices to be addressed
     
@@ -2156,7 +3394,7 @@ General provisions
     
     (2) This section does not apply to an infringement notice.
     
-    Section 45(2): added, on 5 May 2003, by [section 21][207] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 45(2): added, on 5 May 2003, by [section 21][301] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 #### Appeals
 
@@ -2178,7 +3416,7 @@ General provisions
 
 #### Hazard notices
     
-*   Heading: inserted, on 5 May 2003, by [section 22][208] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+*   Heading: inserted, on 5 May 2003, by [section 22][302] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 ##### 46A Trained health and safety representatives may issue hazard notices
     
@@ -2192,7 +3430,7 @@ General provisions
     
     *   (c) may set out suggested steps to deal with the hazard
     
-    _trained health and safety representative_ means a health and safety representative who has achieved a level of competency in health and safety practice specified by the Minister by notice in the _Gazette_ or who has completed an appropriate course approved under [section 19G][49].
+    _trained health and safety representative_ means a health and safety representative who has achieved a level of competency in health and safety practice specified by the Minister by notice in the _Gazette_ or who has completed an appropriate course approved under [section 19G][55].
     
     (2) Subsection (3) applies if a trained health and safety representative---
         
@@ -2208,7 +3446,7 @@ General provisions
     
     *   (b) the employer and representative do not agree on the steps that must be taken or the time within which the steps must be taken to deal with the hazard; or
     
-    *   (c) the representative believes on reasonable grounds that the employer has failed to meet the requirements of [section 6][17] in relation to the hazard within a time agreed during the discussion.
+    *   (c) the representative believes on reasonable grounds that the employer has failed to meet the requirements of [section 6][18] in relation to the hazard within a time agreed during the discussion.
     
     (4) If a hazard notice has been given by a trained health and safety representative, the representative may notify an inspector of that fact.
     
@@ -2216,7 +3454,7 @@ General provisions
     
     (6) In this section, _employer_ includes a representative of the employer.
     
-    Section 46A: inserted, on 5 May 2003, by [section 22][208] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 46A: inserted, on 5 May 2003, by [section 22][302] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 #### Duties in respect of inspectors
 
@@ -2268,39 +3506,41 @@ General provisions
     
     *   (c) both.
     
-    (4) A person charged with an offence under this section may be convicted of an offence against [section 50][100] as if the person had been charged under that section.
+    (4) A person charged with an offence under this section may be convicted of an offence against [section 50][170] as if the person had been charged under that section.
     
-    Section 49(3)(a): substituted, on 5 May 2003, by [section 23][209] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 49(3)(a): substituted, on 5 May 2003, by [section 23][303] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 49(3)(b): substituted, on 5 May 2003, by [section 23][209] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 49(3)(b): substituted, on 5 May 2003, by [section 23][303] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 ##### 50 Other offences
     
 *   (1) Every person commits an offence, and is liable on conviction to a fine not exceeding $250,000, who fails to comply with the requirements of---
         
-    *   (a) a provision of [Part 2][15] other than [section 16(3)][37]; or
+    *   (a) a provision of [Part 2][16] other than [section 16(3)][43]; or
     
-    *   (b) [section 19B][44], [section 25][62], [section 26][64], [section 37(2)][81], [section 39(5)][84], [section 42(1)][87], [section 43][88], [section 47][96], [section 48][97], [section 56I(2)][123], [section 58][127], or [clause 6][210] of Schedule 1A; or
+    *   (b) [section 19B][50], [section 19Q(1)][66], [section 19ZN(2)][92], [section 19ZG(4)][85], [section 19ZH(3)][86], [section 19ZL][90], [section 25][130], [section 26][132], [section 37(2)][149], [section 39(5)][152], [section 42(1)][157], [section 43][158], [section 47][166], [section 48][167], [section 56I(2)][193], [section 58][197], or [clause 6][304] of Schedule 1A; or
     
-    *   (c) a provision of any regulations made under this Act, or continued in force by [section 24][59], declared by the regulations to be a provision to which this section applies.
+    *   (c) a provision of any regulations made under this Act, or continued in force by [section 24][127], declared by the regulations to be a provision to which this section applies.
     
-    (2) Every person who fails to comply with [section 16(3)][37] commits an offence, and is liable on conviction to a fine not exceeding $10,000\.
+    (2) Every person who fails to comply with [section 16(3)][43] commits an offence, and is liable on conviction to a fine not exceeding $10,000\.
     
-    Section 50(1): substituted, on 5 May 2003, by [section 24][211] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 50(1): substituted, on 5 May 2003, by [section 24][305] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 50(1): amended, on 1 July 2013, by [section 413][151] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 50(1): amended, on 1 July 2013, by [section 413][225] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 50(2): added, on 18 March 1998, by [section 4(2)][212] of the Health and Safety in Employment Amendment Act 1998 (1998 No 3).
+    Section 50(1)(b): amended, on 16 December 2013, by [section 22][306] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
     
-    Section 50(2): amended, on 1 July 2013, by [section 413][151] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 50(2): added, on 18 March 1998, by [section 4(2)][307] of the Health and Safety in Employment Amendment Act 1998 (1998 No 3).
+    
+    Section 50(2): amended, on 1 July 2013, by [section 413][225] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 51 Actions taken to prevent harm
     
-*   Notwithstanding [sections 49][99] and [50][100], where any employee harms any person by taking any action necessary for the protection of that person or any other person from harm,---
+*   Notwithstanding [sections 49][169] and [50][170], where any employee harms any person by taking any action necessary for the protection of that person or any other person from harm,---
         
-    *   (a) the employee does not thereby commit an offence against [section 19][41]; and
+    *   (a) the employee does not thereby commit an offence against [section 19][47]; and
     
-    *   (b) the employee's employer does not thereby commit an offence against [section 15][36].
+    *   (b) the employee's employer does not thereby commit an offence against [section 15][42].
     
     
 
@@ -2308,15 +3548,15 @@ General provisions
     
 *   (1) This section applies when the court is determining how to sentence or otherwise deal with a person convicted of an offence under this Act.
     
-    (2) The court must apply the [Sentencing Act 2002][213] and must have particular regard to---
+    (2) The court must apply the [Sentencing Act 2002][308] and must have particular regard to---
         
-    *   (a) [sections 7 to 10][214] of that Act; and
+    *   (a) [sections 7 to 10][309] of that Act; and
     
-    *   (b) the requirements of [sections 35][215] and [40][216] of that Act relating to the financial capacity of the person to pay any fine or sentence of reparation imposed; and
+    *   (b) the requirements of [sections 35][310] and [40][311] of that Act relating to the financial capacity of the person to pay any fine or sentence of reparation imposed; and
     
     *   (c) the degree of harm, if any, that has occurred; and
     
-    *   (d) the safety record of the person (which includes but is not limited to warnings and notices referred to in [section 56C][116]) to the extent that it shows whether any aggravating factor is absent; and
+    *   (d) the safety record of the person (which includes but is not limited to warnings and notices referred to in [section 56C][186]) to the extent that it shows whether any aggravating factor is absent; and
     
     *   (e) whether the person has---
             
@@ -2330,43 +3570,51 @@ General provisions
         
         
     
-    (3) This section does not limit the [Sentencing Act 2002][213].
+    (3) This section does not limit the [Sentencing Act 2002][308].
     
-    Section 51A: inserted, on 5 May 2003, by [section 25][217] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 51A: inserted, on 5 May 2003, by [section 25][312] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 ##### 52 Failure to comply with section 14
     
 *   \[Repealed\]
     
-    Section 52: repealed, on 5 May 2003, by [section 26][218] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 52: repealed, on 5 May 2003, by [section 26][313] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 ##### 53 Proof of intention not required
     
-*   In a matter involving an infringement notice or in a prosecution for an offence against [section 50][100], it is not necessary to prove that the defendant---
+*   In a matter involving an infringement notice or in a prosecution for an offence against [section 50][170], it is not necessary to prove that the defendant---
         
     *   (a) intended to take the action alleged to constitute the infringement offence or offence; or
     
     *   (b) intended not to take the action, the failure to take which is alleged to constitute the infringement offence or offence.
     
-    Section 53: substituted, on 5 May 2003, by [section 27][219] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 53: substituted, on 5 May 2003, by [section 27][314] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
-##### 54 Notification to Secretary of interest in knowing of enforcement action taken by inspector
+##### 54 Notification to WorkSafe of interest in knowing of enforcement action taken by inspector
     
-*   (1) A person may notify the Secretary in the prescribed manner that the person has an interest in knowing whether a particular matter has been, is, or is to be, subject to the taking of enforcement action by an inspector.
+*   (1) A person may notify WorkSafe in the prescribed manner that the person has an interest in knowing whether a particular matter has been, is, or is to be, subject to the taking of enforcement action by an inspector.
     
-    (2) The Secretary must ensure that the person who sent the notice is notified of---
+    (2) WorkSafe must ensure that the person who sent the notice is notified of---
         
     *   (a) any decision already made, or subsequently made, by an inspector as to whether or not to take enforcement action in respect of the matter, but not the reasons for the decision; and
     
-    *   (b) any information that the Secretary is aware of relating to whether an enforcement authority has taken prosecution action as described in [section 54A(2)(b)][106].
+    *   (b) any information that WorkSafe is aware of relating to whether an enforcement authority has taken prosecution action as described in [section 54A(2)(b)][176].
     
-    (3) In this section and [section 54A][106], _enforcement authority_ includes the New Zealand Police, the Civil Aviation Authority, the New Zealand Transport Agency, and Maritime New Zealand.
+    (3) In this section and [section 54A][176], _enforcement authority_ includes the New Zealand Police, the Civil Aviation Authority, the New Zealand Transport Agency, and Maritime New Zealand.
     
-    Section 54: substituted, on 5 May 2003, by [section 27][219] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 54 heading: amended, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 54(3): amended, on 1 August 2008, by [section 50(1)][220] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 54: substituted, on 5 May 2003, by [section 27][314] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 54(3): amended, on 1 July 2005, by [section 11(3)][221] of the Maritime Transport Amendment Act 2004 (2004 No 98).
+    Section 54(1): amended, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    
+    Section 54(2): amended, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    
+    Section 54(2)(b): amended, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    
+    Section 54(3): amended, on 1 August 2008, by [section 50(1)][315] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    
+    Section 54(3): amended, on 1 July 2005, by [section 11(3)][316] of the Maritime Transport Amendment Act 2004 (2004 No 98).
 
 ##### 54A Filing charging document
     
@@ -2378,7 +3626,7 @@ General provisions
     
     *   (b) an enforcement authority has not taken prosecution action under any other Act against any possible defendant in respect of the same incident, situation, or set of circumstances; and
     
-    *   (c) any person has received notification from the Secretary under [section 54(2)][105] that an inspector has not and will not take enforcement action against any possible defendant in respect of the same matter.
+    *   (c) any person has received notification from WorkSafe under [section 54(2)][175] that an inspector has not and will not take enforcement action against any possible defendant in respect of the same matter.
     
     (3) Despite subsection (2)(b), a person may file a charging document even though an enforcement authority has taken prosecution action if---
         
@@ -2386,29 +3634,31 @@ General provisions
     
     *   (b) subsection (2)(a) and (c) is complied with.
     
-    Section 54A: inserted, on 5 May 2003, by [section 27][219] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 54A: inserted, on 5 May 2003, by [section 27][314] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 54A heading: replaced, on 1 July 2013, by [section 413][151] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 54A heading: replaced, on 1 July 2013, by [section 413][225] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 54A(1): amended, on 1 July 2013, by [section 413][151] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 54A(1): amended, on 1 July 2013, by [section 413][225] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 54A(2): amended, on 1 July 2013, by [section 413][151] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 54A(2): amended, on 1 July 2013, by [section 413][225] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 54A(3): amended, on 1 July 2013, by [section 413][151] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 54A(2)(c): amended, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 54A(3)(a): amended, on 1 July 2013, by [section 413][151] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 54A(3): amended, on 1 July 2013, by [section 413][225] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 54A(3)(a): amended, on 1 July 2013, by [section 413][225] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 54B Time limit for filing charging document
     
-*   (1) Despite anything to the contrary in [section 25][222] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 6 months after the earlier of---
+*   (1) Despite anything to the contrary in [section 25][317] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 6 months after the earlier of---
         
     *   (a) the date when the incident, situation, or set of circumstances to which the offence relates first became known to an inspector; or
     
     *   (b) the date when the incident, situation, or set of circumstances to which the offence relates should reasonably have become known to an inspector.
     
-    (2) This section is subject to [sections 54C][108] and [54D][109].
+    (2) This section is subject to [sections 54C][178] and [54D][179].
     
-    Section 54B: replaced, on 1 July 2013, by [section 413][151] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 54B: replaced, on 1 July 2013, by [section 413][225] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 54C Extension of time for person other than inspector to file charging document
     
@@ -2416,19 +3666,19 @@ General provisions
         
     *   (a) an inspector or another person has not taken enforcement action in respect of a matter; and
     
-    *   (b) the Secretary has notified relevant persons under [section 54(2)(a)][105] that an inspector has not and will not take enforcement action against any possible defendant in respect of the matter.
+    *   (b) WorkSafe has notified relevant persons under [section 54(2)(a)][175] that an inspector has not and will not take enforcement action against any possible defendant in respect of the matter.
     
     (2) On application, the District Court may extend the time for a person other than an inspector to file a charging document.
     
-    (3) An application under subsection (2) must be made within 1 month after receiving notice from the Secretary under subsection (1)(b).
+    (3) An application under subsection (2) must be made within 1 month after receiving notice from WorkSafe under subsection (1)(b).
     
     (4) The court must not grant an extension of time unless it is satisfied---
         
     *   (a) that another person wishes to decide whether to file a charging document in respect of that matter; and
     
-    *   (b) it is unreasonable, having regard to the time taken by an inspector to respond to the matter, to expect, or to have expected, the person to make that decision before the 6-month period referred to in [section 54B][107] expires; and
+    *   (b) it is unreasonable, having regard to the time taken by an inspector to respond to the matter, to expect, or to have expected, the person to make that decision before the 6-month period referred to in [section 54B][177] expires; and
     
-    *   (c) an application under [section 54D][109] has not been made.
+    *   (c) an application under [section 54D][179] has not been made.
     
     (5) The court must give the following persons an opportunity to be heard:
         
@@ -2436,21 +3686,25 @@ General provisions
     
     *   (b) any proposed defendant:
     
-    *   (c) any other person who has an interest in whether or not a charging document should be filed, being a person described in [section 54(1)][105].
+    *   (c) any other person who has an interest in whether or not a charging document should be filed, being a person described in [section 54(1)][175].
     
-    Section 54C: inserted, on 5 May 2003, by [section 27][219] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 54C: inserted, on 5 May 2003, by [section 27][314] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 54C heading: amended, on 1 July 2013, by [section 413][151] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 54C heading: amended, on 1 July 2013, by [section 413][225] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 54C(2): amended, on 1 July 2013, by [section 413][151] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 54C(1)(b): amended, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 54C(4)(a): amended, on 1 July 2013, by [section 413][151] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 54C(2): amended, on 1 July 2013, by [section 413][225] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 54C(5)(c): amended, on 1 July 2013, by [section 413][151] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 54C(3): amended, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    
+    Section 54C(4)(a): amended, on 1 July 2013, by [section 413][225] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 54C(5)(c): amended, on 1 July 2013, by [section 413][225] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 54D Extension of time if inspector needs longer to decide whether to file charging document
     
-*   (1) This section applies if an inspector considers that he or she will not be able to file a charging document by the end of the 6-month period referred to in [section 54B][107].
+*   (1) This section applies if an inspector considers that he or she will not be able to file a charging document by the end of the 6-month period referred to in [section 54B][177].
     
     (2) On application, the District Court may extend the time for filing a charging document.
     
@@ -2472,29 +3726,29 @@ General provisions
     
     *   (b) the proposed defendant:
     
-    *   (c) any other person who has an interest in whether or not a charging document should be filed, being a person described in [section 54(1)][105].
+    *   (c) any other person who has an interest in whether or not a charging document should be filed, being a person described in [section 54(1)][175].
     
-    Section 54D: inserted, on 5 May 2003, by [section 27][219] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 54D: inserted, on 5 May 2003, by [section 27][314] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 54D heading: amended, on 1 July 2013, by [section 413][151] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 54D heading: amended, on 1 July 2013, by [section 413][225] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 54D(1): amended, on 1 July 2013, by [section 413][151] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 54D(1): amended, on 1 July 2013, by [section 413][225] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 54D(2): amended, on 1 July 2013, by [section 413][151] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 54D(2): amended, on 1 July 2013, by [section 413][225] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 54D(4)(a): amended, on 1 July 2013, by [section 413][151] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 54D(4)(a): amended, on 1 July 2013, by [section 413][225] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 54D(4)(c): amended, on 1 July 2013, by [section 413][151] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 54D(4)(c): amended, on 1 July 2013, by [section 413][225] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 54D(4)(d): amended, on 1 July 2013, by [section 413][151] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 54D(4)(d): amended, on 1 July 2013, by [section 413][225] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 54D(5)(c): amended, on 1 July 2013, by [section 413][151] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 54D(5)(c): amended, on 1 July 2013, by [section 413][225] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 54E Continuing or repeated matters
     
 *   Nothing in this Act prevents the taking of enforcement action by an inspector or another person in respect of a matter, despite enforcement action having been taken in respect of the matter, if the matter is continuing or repeated.
     
-    Section 54E: inserted, on 5 May 2003, by [section 27][219] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 54E: inserted, on 5 May 2003, by [section 27][314] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 ##### 55 Other provisions relating to offences
     
@@ -2512,23 +3766,23 @@ General provisions
     
     (4) In addition to any penalty imposed, a court may require a person convicted of an offence against this Act to remedy any matter in respect of which the person was convicted.
     
-    (5) An inspector may file a charging document for an offence against the Department of Labour, or any other agency designated under [section 28B][70] to administer this Act, only with the authority of the Solicitor-General.
+    (5) An inspector may file a charging document for an offence against the Department of Labour, or any other agency designated under [section 28B][138] to administer this Act, only with the authority of the Solicitor-General.
     
     (6) If the Solicitor-General gives authority under subsection (5), the inspector must be represented in the proceedings by the Crown Solicitor.
     
-    Section 55(1): replaced, on 1 July 2013, by [section 413][151] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 55(1): replaced, on 1 July 2013, by [section 413][225] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 55(2)(b): amended, on 1 July 2013, by [section 413][151] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 55(2)(b): amended, on 1 July 2013, by [section 413][225] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 55(3): amended, on 1 July 2013, by [section 413][151] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 55(3): amended, on 1 July 2013, by [section 413][225] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 55(3A): inserted, on 18 October 2002, by [section 26][223] of the Crown Organisations (Criminal Liability) Act 2002 (2002 No 37).
+    Section 55(3A): inserted, on 18 October 2002, by [section 26][318] of the Crown Organisations (Criminal Liability) Act 2002 (2002 No 37).
     
-    Section 55(5): added, on 5 May 2003, by [section 28(1)][224] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 55(5): added, on 5 May 2003, by [section 28(1)][319] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 55(5): amended, on 1 July 2013, by [section 413][151] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 55(5): amended, on 1 July 2013, by [section 413][225] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 55(6): added, on 5 May 2003, by [section 28(1)][224] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 55(6): added, on 5 May 2003, by [section 28(1)][319] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 ##### 56 Offences by bodies corporate or Crown organisations
     
@@ -2536,19 +3790,19 @@ General provisions
     
     (2) If a Crown organisation fails to comply with a provision of this Act, any of its officers, directors, agents, or employees concerned in the management of the organisation who directed, authorised, assented to, acquiesced in, or participated in the failure is a party to, and guilty of, the failure and is liable on conviction to the punishment provided for the offence, whether or not the Crown organisation has been prosecuted or convicted.
     
-    Section 56 heading: amended, on 18 October 2002, by [section 27(1)][225] of the Crown Organisations (Criminal Liability) Act 2002 (2002 No 37).
+    Section 56 heading: amended, on 18 October 2002, by [section 27(1)][320] of the Crown Organisations (Criminal Liability) Act 2002 (2002 No 37).
     
-    Section 56(2): added, on 18 October 2002, by [section 27(2)][225] of the Crown Organisations (Criminal Liability) Act 2002 (2002 No 37).
+    Section 56(2): added, on 18 October 2002, by [section 27(2)][320] of the Crown Organisations (Criminal Liability) Act 2002 (2002 No 37).
 
 #### Infringement offences
     
-*   Heading: inserted, on 5 May 2003, by [section 29][226] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+*   Heading: inserted, on 5 May 2003, by [section 29][321] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 ##### 56A Infringement offences
     
-*   In [sections 56B to 56H][115], an _infringement offence_ means an offence described in [section 50(1)][100].
+*   In [sections 56B to 56H][185], an _infringement offence_ means an offence described in [section 50(1)][170].
     
-    Section 56A: inserted, on 5 May 2003, by [section 29][226] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 56A: inserted, on 5 May 2003, by [section 29][321] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 ##### 56B Infringement notices
     
@@ -2556,15 +3810,15 @@ General provisions
         
     *   (a) the inspector believes on reasonable grounds that the person is committing, or has committed, an infringement offence; and
     
-    *   (b) the person has had prior warning of the infringement offence under [section 56C][116]; and
+    *   (b) the person has had prior warning of the infringement offence under [section 56C][186]; and
     
     *   (c) an inspector or another person has not taken enforcement action against the same defendant in respect of the same matter.
     
-    (2) An inspector may revoke an infringement notice before the infringement fee is paid, or an order for payment of a fine is made or deemed to be made by a court under [section 21][227] of the Summary Proceedings Act 1957\.
+    (2) An inspector may revoke an infringement notice before the infringement fee is paid, or an order for payment of a fine is made or deemed to be made by a court under [section 21][322] of the Summary Proceedings Act 1957\.
     
     (3) An infringement notice is revoked by giving written notice to the person to whom it was issued that the notice is revoked.
     
-    Section 56B: inserted, on 5 May 2003, by [section 29][226] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 56B: inserted, on 5 May 2003, by [section 29][321] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 ##### 56C Prior warning of infringement offence
     
@@ -2584,7 +3838,7 @@ General provisions
     
     *   (g) a compliance order.
     
-    Section 56C: inserted, on 5 May 2003, by [section 29][226] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 56C: inserted, on 5 May 2003, by [section 29][321] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 ##### 56D Inspector may require information
     
@@ -2599,6 +3853,12 @@ General provisions
         *   (ii) an employee:
         
         *   (iii) a self-employed person:
+        
+        *   (iiia) a mine operator:
+        
+        *   (iiib) a mine worker:
+        
+        *   (iiic) a site senior executive:
         
         *   (iv) a principal:
         
@@ -2622,6 +3882,8 @@ General provisions
             
         *   (i) an employer:
         
+        *   (ia) a mine operator:
+        
         *   (ii) a principal:
         
         *   (iii) a contractor:
@@ -2634,7 +3896,15 @@ General provisions
     
     *   (c) the postal address of the body corporate.
     
-    Section 56D: inserted, on 5 May 2003, by [section 29][226] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 56D: inserted, on 5 May 2003, by [section 29][321] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    
+    Section 56D(1)(b)(iiia): inserted, on 16 December 2013, by [section 23(1)][323] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+    
+    Section 56D(1)(b)(iiib): inserted, on 16 December 2013, by [section 23(1)][323] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+    
+    Section 56D(1)(b)(iiic): inserted, on 16 December 2013, by [section 23(1)][323] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+    
+    Section 56D(2)(b)(ia): inserted, on 16 December 2013, by [section 23(2)][323] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
 
 ##### 56E Procedural requirements for infringement notices
     
@@ -2658,7 +3928,7 @@ General provisions
     
     *   (d) the time within which the infringement fee must be paid; and
     
-    *   (e) a summary of the provisions of [section 21(10)][227] of the Summary Proceedings Act 1957; and
+    *   (e) a summary of the provisions of [section 21(10)][322] of the Summary Proceedings Act 1957; and
     
     *   (f) a statement that the person served with the notice has a right to request a hearing; and
     
@@ -2666,19 +3936,19 @@ General provisions
     
     *   (h) any other prescribed matters.
     
-    (5) If an infringement notice has been issued, proceedings in respect of the infringement offence to which the notice relates may be commenced in accordance with [section 21][227] of the Summary Proceedings Act 1957 and, in that case,---
+    (5) If an infringement notice has been issued, proceedings in respect of the infringement offence to which the notice relates may be commenced in accordance with [section 21][322] of the Summary Proceedings Act 1957 and, in that case,---
         
     *   (a) reminder notices may be prescribed under regulations made under this Act; and
     
-    *   (b) in all other respects, [section 21][227] of the Summary Proceedings Act 1957 applies with all necessary modifications.
+    *   (b) in all other respects, [section 21][322] of the Summary Proceedings Act 1957 applies with all necessary modifications.
     
-    Section 56E: inserted, on 5 May 2003, by [section 29][226] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 56E: inserted, on 5 May 2003, by [section 29][321] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 56E(3): amended, on 1 July 2013, by [section 413][151] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 56E(3): amended, on 1 July 2013, by [section 413][225] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 56F Infringement fees
     
-*   (1) The fee to be specified by an inspector in an infringement notice for any infringement offence except for a failure to comply with [section 7(1)][19] must be not less than $100 and not more than $3,000 (as a multiple of $100).
+*   (1) The fee to be specified by an inspector in an infringement notice for any infringement offence except for a failure to comply with [section 7(1)][20] must be not less than $100 and not more than $3,000 (as a multiple of $100).
     
     (2) In determining the amount of a fee under subsection (1), an inspector must take into account---
         
@@ -2692,9 +3962,9 @@ General provisions
     
     *   (e) the financial circumstances of the person; and
     
-    *   (f) the safety record of the person (which includes but is not limited to warnings and notices referred to in [section 56C][116]).
+    *   (f) the safety record of the person (which includes but is not limited to warnings and notices referred to in [section 56C][186]).
     
-    (3) The fee to be specified by an inspector in an infringement notice for a failure to comply with [section 7(1)][19] must be not less than $800 and not more than $4,000 (as a multiple of $100).
+    (3) The fee to be specified by an inspector in an infringement notice for a failure to comply with [section 7(1)][20] must be not less than $800 and not more than $4,000 (as a multiple of $100).
     
     (4) In determining the amount of a fee under subsection (3), an inspector must take into account---
         
@@ -2702,17 +3972,19 @@ General provisions
     
     *   (b) the financial circumstances of the employer; and
     
-    *   (c) the safety record of the employer (which includes but is not limited to warnings and notices referred to in [section 56C][116]).
+    *   (c) the safety record of the employer (which includes but is not limited to warnings and notices referred to in [section 56C][186]).
     
-    Section 56F: inserted, on 5 May 2003, by [section 29][226] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 56F: inserted, on 5 May 2003, by [section 29][321] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 ##### 56G Payment of infringement fee
     
-*   The Secretary must pay all infringement fees received into a Crown Bank Account.
+*   WorkSafe must pay all infringement fees received into a Crown Bank Account.
     
-    Section 56G: inserted, on 5 May 2003, by [section 29][226] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 56G: inserted, on 5 May 2003, by [section 29][321] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 56G: amended, on 25 January 2005, pursuant to [section 65R(3)][228] of the Public Finance Act 1989 (1989 No 44).
+    Section 56G: amended, on 16 December 2013, by [section 22][224] of the WorkSafe New Zealand Act 2013 (2013 No 94).
+    
+    Section 56G: amended, on 25 January 2005, pursuant to [section 65R(3)][324] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 56H Effect of infringement notice
     
@@ -2720,11 +3992,11 @@ General provisions
     
     (2) Subsection (1) does not prevent a court being told, for the purpose of sentencing a person convicted of an offence under this Act, that the person has paid, or is obliged to pay, an infringement fee for a particular infringement offence.
     
-    Section 56H: inserted, on 5 May 2003, by [section 29][226] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 56H: inserted, on 5 May 2003, by [section 29][321] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 #### Insurance against fines unlawful and of no effect
     
-*   Heading: inserted, on 5 May 2003, by [section 29][226] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+*   Heading: inserted, on 5 May 2003, by [section 29][321] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 ##### 56I Insurance against fines unlawful and of no effect
     
@@ -2732,7 +4004,7 @@ General provisions
         
     *   (a) the policy or contract is of no effect; and
     
-    *   (b) no court or tribunal has jurisdiction to grant relief in respect of the policy or contract, whether under [section 7][229] of the Illegal Contracts Act 1970 or otherwise.
+    *   (b) no court or tribunal has jurisdiction to grant relief in respect of the policy or contract, whether under [section 7][325] of the Illegal Contracts Act 1970 or otherwise.
     
     (2) A person must not---
         
@@ -2750,7 +4022,7 @@ General provisions
     
     *   (b) this section does not prevent the parties to it agreeing to the refund of an amount of the premium.
     
-    Section 56I: inserted, on 5 May 2003, by [section 29][226] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 56I: inserted, on 5 May 2003, by [section 29][321] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 #### Proof of notices
 
@@ -2776,21 +4048,31 @@ General provisions
     
 *   (1) In this section,---
     
-    _the applicable Act_ means the [Accident Compensation Act 2001][230]
+    _the applicable Act_ means the [Accident Compensation Act 2001][326]
     
-    _earner_, _earnings_, _earnings as a self-employed person_, and _Corporation_ have the same meanings as in [section 6][231] of the applicable Act
+    _certain Crown costs_ means the expected cost to the Crown of---
+        
+    *   (a) WorkSafe carrying out its functions under any enactment:
+    
+    *   (b) any agency designated under [section 28B][138] of this Act carrying out functions under this Act and enforcing the [Hazardous Substances and New Organisms Act 1996][327] in places of work:
+    
+    *   (c) the Crown administering the relevant health and safety legislation (within the meaning of [section 3][262] of the WorkSafe New Zealand Act 2013):
+    
+    *   (d) collecting the funding levy
+    
+    _earner_, _earnings_, _earnings as a self-employed person_, and _Corporation_ have the same meanings as in [section 6][328] of the applicable Act
     
     _funding levy_ means the levy required to be paid by subsection (2)
     
-    _Work Account levy_ means the levy payable under [section 168][232], [168A][233], [168B][234], or [211][235] of the applicable Act.
+    _Work Account levy_ means the levy payable under [section 168][329], [168A][330], [168B][331], or [211][332] of the applicable Act.
     
-    (2) For the purpose of recovering the expected cost to the Crown of the administration of this Act, there is payable---
+    (2) For the purpose of recovering certain Crown costs, there is payable---
         
     *   (a) by every employer, on the amount of earnings paid or deemed to have been paid by the employer to the employer's employees, a levy at a rate or rates prescribed by regulations made, on the recommendation of the Minister, under this Act; and
     
     *   (b) by every earner who has earnings as a self-employed person, on the amount of earnings as a self-employed person derived or deemed to have been derived by the earner, a levy at a rate or rates prescribed by regulations made, on the recommendation of the Minister, under this Act; and
     
-    *   (c) by every shareholder-employee to whom [section RD 3(2) to (4)][236] of the Income Tax Act 2007 applies, on the amount of earnings derived or deemed to have been derived by the shareholder-employee, a levy at a rate or rates prescribed by regulations made, on the recommendation of the Minister, under this Act.
+    *   (c) by every shareholder-employee to whom [section RD 3(2) to (4)][333] of the Income Tax Act 2007 applies, on the amount of earnings derived or deemed to have been derived by the shareholder-employee, a levy at a rate or rates prescribed by regulations made, on the recommendation of the Minister, under this Act.
     
     (3) The funding levy must be added to, and is deemed part of, the Work Account levy; and---
         
@@ -2802,33 +4084,39 @@ General provisions
     
     (4) The Corporation must, by the 20th day of the month after the month in which the Corporation receives any funding levy from the Commissioner of Inland Revenue, pay that funding levy to the Secretary.
     
-    (5) The Corporation may charge the Secretary a fee for collecting the funding levy.
+    (5) The Corporation may charge WorkSafe a fee for collecting the funding levy.
     
     (6) The Secretary must pay into a Crown Bank Account all of the funding levy the Corporation pays to the Secretary.
     
     (7) The Minister must not recommend the making of regulations for the purposes of subsection (2) without first consulting the Corporation.
     
-    (8) Subsection (7) does not limit the generality of [section 21(2)][56].
+    (8) Subsection (7) does not limit the generality of [section 21(2)][124].
     
-    Section 59: substituted, on 1 April 2002, by [section 337(1)][237] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
+    Section 59: substituted, on 1 April 2002, by [section 337(1)][334] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
     
-    Section 59(1) **the applicable Act**: amended, on 3 March 2010, pursuant to [section 5(1)(b)][238] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 59(1) **the applicable Act**: amended, on 3 March 2010, pursuant to [section 5(1)(b)][335] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 59(1) **Residual Claims levy**: repealed, on 3 March 2010, by [section 49][239] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 59(1) **certain Crown costs**: inserted, on 16 December 2013, by [section 24(1)][336] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
     
-    Section 59(1) **Work Account levy**: added, on 3 March 2010, by [section 49][239] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 59(1) **Residual Claims levy**: repealed, on 3 March 2010, by [section 49][337] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 59(2)(c): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][240] of the Income Tax Act 2007 (2007 No 97).
+    Section 59(1) **Work Account levy**: added, on 3 March 2010, by [section 49][337] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 59(3): amended, on 3 March 2010, by [section 49][239] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 59(2): amended, on 16 December 2013, by [section 24(2)][336] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
     
-    Section 59(3)(a): amended, on 3 March 2010, by [section 49][239] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 59(2)(c): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][338] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 59(3)(b): amended, on 3 March 2010, by [section 49][239] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 59(3): amended, on 3 March 2010, by [section 49][337] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 59(3)(c): amended, on 3 March 2010, by [section 49][239] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 59(3)(a): amended, on 3 March 2010, by [section 49][337] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 59(6): amended, on 25 January 2005, pursuant to [section 65R(3)][228] of the Public Finance Act 1989 (1989 No 44).
+    Section 59(3)(b): amended, on 3 March 2010, by [section 49][337] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    
+    Section 59(3)(c): amended, on 3 March 2010, by [section 49][337] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    
+    Section 59(5): amended, on 16 December 2013, by [section 24(3)][336] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+    
+    Section 59(6): amended, on 25 January 2005, pursuant to [section 65R(3)][324] of the Public Finance Act 1989 (1989 No 44).
 
 #### Information provided by Accident Rehabilitation and Compensation Insurance Corporation
 
@@ -2852,17 +4140,74 @@ General provisions
 
 ##### 62 Consequential amendments, repeals, revocations, and savings
     
-*   (1) The enactments specified in [Schedule 3][139] are hereby repealed.
+*   (1) The enactments specified in [Schedule 3][211] are hereby repealed.
     
-    (2) The enactments specified in [Schedule 2][138] are hereby consequentially amended in the manner indicated in that schedule.
+    (2) The enactments specified in [Schedule 2][210] are hereby consequentially amended in the manner indicated in that schedule.
     
-    (3) The Orders in Council and notices specified in [Schedule 4][140] are hereby revoked.
+    (3) The Orders in Council and notices specified in [Schedule 4][212] are hereby revoked.
     
     (4) Every reference in any enactment passed before the repeal of the Factories and Commercial Premises Act 1981 to a factory within the meaning of that Act shall have effect as if that Act is still in force.
     
     (5) \[Repealed\]
     
-    Section 62(5): repealed, on 2 July 2001, by [section 150(1)][241] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
+    Section 62(5): repealed, on 2 July 2001, by [section 150(1)][339] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
+
+##### 63 Application, savings, and transitional provisions
+    
+*   The application, savings, and transitional provisions set out in [Schedule 1AA][207] have effect for the purposes of this Act.
+    
+    Section 63: inserted, on 16 December 2013, by [section 25(1)][340] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+---
+
+## Schedule 1AA  
+
+[s 63][206]
+
+*   Schedule 1AA: inserted, on 16 December 2013, by [section 25(2)][340] of the Health and Safety in Employment Amendment Act 2013 (2013 No 95).
+
+## Part 1  
+Transitional provisions relating to Health and Safety in Employment Amendment Act 2013
+
+##### 1 Existing mining operations
+    
+*   (1) This clause applies to any mining operation that was in operation immediately before the date on which the [Health and Safety in Employment Amendment Act 2013][341] came into force.
+    
+    (2) Nothing in [sections 12A][28], [13AA][33], [39A][153], or [41A][156] of the principal Act, as inserted by the [Health and Safety in Employment Amendment Act 2013][341], applies in respect of the mining operation until 1 January 2015\.
+    
+    (3) The mine operator may, but is not required to, comply with [section 19Q(1)][66] of the principal Act, as inserted by the Health and Safety in Employment Amendment Act 2013, before 1 January 2015\.
+    
+    (4) [Section 19J][58] of the principal Act, as inserted by the [Health and Safety in Employment Amendment Act 2013][341], applies in respect of the mining operation from the earlier of---
+        
+    *   (a) the date on which the mine operator complies with [section 19Q(1)][66] of the principal Act, as inserted by the [Health and Safety in Employment Amendment Act 2013][341]; and
+    
+    *   (b) 1 January 2015\.
+    
+    (5) If, on 1 January 2015, the mining operation does not have a documented worker participation system referred to in [section 19Q(1)][66] of the principal Act, as inserted by the [Health and Safety in Employment Amendment Act 2013][341], the prescribed provisions referred to in [section 19U(1)][71] of the principal Act, as inserted by the [Health and Safety in Employment Amendment Act 2013][341], apply.
+    
+    (6) Nothing in subclause (3) limits the application of [sections 19ZU to 19ZZ][101] of the principal Act, as inserted by the [Health and Safety in Employment Amendment Act 2013][341], in respect of the mining operation.
+
+##### 2 Notices, etc, before site senior executive appointed for existing mining operation
+    
+*   (1) This clause applies to any mining operation to which [clause 1][342] applies before the mine operator has appointed a site senior executive for the first time in accordance with regulations made under [section 21][124] of the principal Act.
+    
+    (2) Any notice required or enabled by the Act to be given to the site senior executive of the mining operation may be given to the mine operator or a representative of the mine operator.
+    
+    (3) [Sections 19ZF][84], [19ZG][85], [19ZH][86], and [19ZK][89] of the principal Act, as inserted by the [Health and Safety in Employment Amendment Act 2013][341], apply, with any necessary modifications, as if references to the site senior executive were references to the mine operator or a representative of the mine operator.
+
+##### 3 Exemptions of mining operations from regulations for limited period
+    
+*   (1) Regulations made under [section 21(1)(b)][124] of the principal Act may provide for the granting by WorkSafe of an exemption (unconditionally or subject to conditions) in respect of any particular mining operation (whether or not it is one to which [clause 1][342] applies) from 1 or more obligations or requirements under the regulations for any specified period, or periods, of up to a total of 36 months and ending not later than 31 December 2017\.
+    
+    (2) The regulations must---
+        
+    *   (a) specify the reasons for which exemptions may be granted; and
+    
+    *   (b) require WorkSafe to specify in an exemption the reasons for which the exemption is granted.
+    
+    (3) An exemption granted under the regulations is not a disallowable instrument for the purposes of the [Legislation Act 2012][343] and does not have to be presented to the House of Representatives under [section 41][344] of that Act.
+    
+    (4) Nothing in this clause limits [section 23(1)(k)][126] of the principal Act.
 
 ---
 
@@ -2877,13 +4222,13 @@ Serious harm
 
 *   3 Burns requiring referral to a specialist medical practitioner or specialist outpatient clinic.
     
-    Schedule 1 clause 3: amended, on 18 September 2004, by [section 175(1)][153] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Schedule 1 clause 3: amended, on 18 September 2004, by [section 175(1)][227] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
 
 *   4 Loss of consciousness from lack of oxygen.
 
 *   5 Loss of consciousness, or acute illness requiring treatment by a medical practitioner, from absorption, inhalation, or ingestion, of any substance.
     
-    Schedule 1 clause 5: amended, on 18 September 2004, by [section 175(1)][153] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Schedule 1 clause 5: amended, on 18 September 2004, by [section 175(1)][227] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
 
 *   6 Any harm that causes the person harmed to be hospitalised for a period of 48 hours or more commencing within 7 days of the harm's occurrence.
 
@@ -2892,16 +4237,16 @@ Serious harm
 ## Schedule 1A  
 Employee participation system
 
-[ss 19C(3)][45], [19D][46]
+[ss 19C(3)][51], [19D][52]
 
-*   Schedule 1A: inserted, on 5 May 2003, by [section 30][242] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+*   Schedule 1A: inserted, on 5 May 2003, by [section 30][345] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
 
 ## Part 1  
 Examples of matters that may be included in agreed system for employee participation
 
 ##### 1 Examples of matters that may be included in agreed system for employee participation
     
-*   The following matters are examples of matters that the parties may wish to consider including in an employee participation system developed under [section 19C][45]:
+*   The following matters are examples of matters that the parties may wish to consider including in an employee participation system developed under [section 19C][51]:
         
     *   (a) electing health and safety representatives, whether to act independently or as members of a health and safety committee:
     
@@ -2914,7 +4259,7 @@ Functions of health and safety representatives
 
 ##### 2 Functions of health and safety representatives
     
-*   The following functions of health and safety representatives are examples of functions that the parties may wish to consider including in an agreed employee participation system developed under [section 19C][45] but are mandatory functions for a health and safety representative elected under [Part 3][52] of this schedule:
+*   The following functions of health and safety representatives are examples of functions that the parties may wish to consider including in an agreed employee participation system developed under [section 19C][51] but are mandatory functions for a health and safety representative elected under [Part 3][111] of this schedule:
         
     *   (a) to foster positive health and safety management practices in the place of work:
     
@@ -2926,7 +4271,7 @@ Functions of health and safety representatives
     
     *   (e) to carry out any functions conferred on the representative by---
             
-        *   (i) a system of employee participation (if a system is developed under [section 19C][45]); or
+        *   (i) a system of employee participation (if a system is developed under [section 19C][51]); or
         
         *   (ii) the employer with the agreement of the representative or a union representing the representative, including any functions referred to in a code of practice.
         
@@ -2941,19 +4286,19 @@ Provisions that apply if failure to develop system for employee participation
     
 *   (1) This clause applies if---
         
-    *   (a) 1 or more employees, or a union representing them, requires the development of a system for employee participation under [section 19C(1)(a)][45]; and
+    *   (a) 1 or more employees, or a union representing them, requires the development of a system for employee participation under [section 19C(1)(a)][51]; and
     
     *   (b) a system is not agreed and implemented within 6 months after the employees request it to be developed.
     
-    (2) The employees, together with any unions representing them, must hold an election for at least 1 health and safety representative to carry out the functions in [Part 2][172] of this schedule.
+    (2) The employees, together with any unions representing them, must hold an election for at least 1 health and safety representative to carry out the functions in [Part 2][250] of this schedule.
     
-    (3) This clause is subject to [clauses 6][210] and [7][243].
+    (3) This clause is subject to [clauses 6][304] and [7][346].
 
 ##### 4 Effect of failure to develop system if 30 employees or more
     
 *   (1) This clause applies if---
         
-    *   (a) the development of a system for employee participation is required under [section 19C(1)(b)][45]; and
+    *   (a) the development of a system for employee participation is required under [section 19C(1)(b)][51]; and
     
     *   (b) a system is not agreed and implemented within 6 months after the later of---
             
@@ -2965,25 +4310,25 @@ Provisions that apply if failure to develop system for employee participation
     
     (2) The employees, together with any unions representing them, must hold an election for---
         
-    *   (a) at least 1 health and safety representative (which may include 1 or more health and safety representatives elected for each particular type of work, or place of work of the employer, or other grouping referred to in [section 19C(5)][45]) to carry out the functions in [Part 2][172] of this schedule independently; or
+    *   (a) at least 1 health and safety representative (which may include 1 or more health and safety representatives elected for each particular type of work, or place of work of the employer, or other grouping referred to in [section 19C(5)][51]) to carry out the functions in [Part 2][250] of this schedule independently; or
     
     *   (b) up to a maximum of 5 health and safety representatives to be members of a health and safety committee (and the representatives must comprise at least half of the committee).
     
-    (3) This clause is subject to [clauses 6][210] and [7][243].
+    (3) This clause is subject to [clauses 6][304] and [7][346].
 
 ##### 5 Filling vacancy for health and safety representative
     
 *   (1) The employees, together with any unions representing them, must hold an election if a vacancy arises in a position of health and safety representative.
     
-    (2) This clause is subject to [clauses 6][210] and [7][243].
+    (2) This clause is subject to [clauses 6][304] and [7][346].
 
 ##### 6 Employees or union may require employer to hold election for health and safety representative
     
-*   (1) Instead of holding an election as required by [clause 3][244], [clause 4][245], or [clause 5][246], the employees, together with any unions representing them, may notify the employer that they require the employer to hold the election.
+*   (1) Instead of holding an election as required by [clause 3][347], [clause 4][348], or [clause 5][349], the employees, together with any unions representing them, may notify the employer that they require the employer to hold the election.
     
     (2) The employer must hold the election within 2 months of receiving notification.
     
-    (3) This clause is subject to [clause 7][243].
+    (3) This clause is subject to [clause 7][346].
 
 ##### 7 Method of electing health and safety representative
     
@@ -2999,7 +4344,7 @@ Provisions that apply if failure to develop system for employee participation
     
     *   (b) be conducted through a secret ballot; and
     
-    *   (c) give all employees, or all employees in a relevant grouping for the purposes of [section 19C(5)][45], a reasonable opportunity to vote; and
+    *   (c) give all employees, or all employees in a relevant grouping for the purposes of [section 19C(5)][51], a reasonable opportunity to vote; and
     
     *   (d) be determined by the wishes of the majority of those who vote.
     
@@ -3016,7 +4361,7 @@ Provisions that apply if failure to develop system for employee participation
 ## Schedule 2  
 Consequential amendments
 
-[s 62(2)][135]
+[s 62(2)][205]
 
 ##### Boilers, Lifts, and Cranes Act 1950 (1950 No 53) (RS Vol 1, p 377)
 
@@ -3024,11 +4369,11 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Disabled Persons Community Welfare Act 1975 (1975 No 122) (RS Vol 26, p 143)
 
-_Amendment(s) incorporated in the [Act(s)][247]_.
+_Amendment(s) incorporated in the [Act(s)][350]_.
 
 ##### Machinery Act 1950 (1950 No 52) (RS Vol 18, p 409)
 
-_Amendment(s) incorporated in the [Act(s)][248]_.
+_Amendment(s) incorporated in the [Act(s)][351]_.
 
 ##### Marine Pollution Act 1974 (1974 No 14) (RS Vol 24, p 499)
 
@@ -3036,14 +4381,14 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Wages Protection Act 1983 (1983 No 143)
 
-_Amendment(s) incorporated in the [Act(s)][249]_.
+_Amendment(s) incorporated in the [Act(s)][352]_.
 
 ---
 
 ## Schedule 3  
 Enactments repealed
 
-[s 62(1)][135]
+[s 62(1)][205]
 
 ##### Accident Rehabilitation and Compensation Insurance Act 1992 (1992 No 13)
 
@@ -3051,7 +4396,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Age of Majority Act 1970 (1970 No 137) (RS Vol 21, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][250]_.
+_Amendment(s) incorporated in the [Act(s)][353]_.
 
 ##### Agricultural Workers Act 1977 (1977 No 43) (RS Vol 22, p 1)
 
@@ -3105,11 +4450,11 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Conservation Act 1987 (1987 No 65)
 
-_Amendment(s) incorporated in the [Act(s)][251]_.
+_Amendment(s) incorporated in the [Act(s)][354]_.
 
 ##### Conservation Law Reform Act 1990 (1990 No 31)
 
-_Amendment(s) incorporated in the [Act(s)][252]_.
+_Amendment(s) incorporated in the [Act(s)][355]_.
 
 ##### Construction Act 1959 (1959 No 32) (RS Vol 23, p 227)
 
@@ -3143,7 +4488,7 @@ _Amendment(s) incorporated in the [Act(s)][252]_.
 
 ##### Crown Minerals Act 1991 (1991 No 70)
 
-_Amendment(s) incorporated in the [Act(s)][253]_.
+_Amendment(s) incorporated in the [Act(s)][259]_.
 
 ##### Electricity Operators Act 1987 (1987 No 109)
 
@@ -3161,15 +4506,15 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Fair Trading Act 1986 (1986 No 121)
 
-_Amendment(s) incorporated in the [Act(s)][254]_.
+_Amendment(s) incorporated in the [Act(s)][356]_.
 
 ##### Family Proceedings Act 1980 (1980 No 94)
 
-_Amendment(s) incorporated in the [Act(s)][255]_.
+_Amendment(s) incorporated in the [Act(s)][357]_.
 
 ##### Finance Act (No 2) 1988 (1988 No 128)
 
-_Amendment(s) incorporated in the [Act(s)][256]_.
+_Amendment(s) incorporated in the [Act(s)][358]_.
 
 ##### Geothermal Energy Act 1953 (1953 No 102) (Reprinted 1975, Vol 3, p 2019)
 
@@ -3189,11 +4534,11 @@ _Amendment(s) incorporated in the [Act(s)][256]_.
 
 ##### Health Act 1956 (1956 No 65) (RS Vol 19, p 493)
 
-_Amendment(s) incorporated in the [Act(s)][257]_.
+_Amendment(s) incorporated in the [Act(s)][359]_.
 
 ##### Judicature Amendment Act 1991 (1991 No 60)
 
-_Amendment(s) incorporated in the [Act(s)][258]_.
+_Amendment(s) incorporated in the [Act(s)][360]_.
 
 ##### Local Government Act 1979 (1979 No 59) (RS Vol 25, p 609)
 
@@ -3201,7 +4546,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Machinery Act 1950 (1950 No 52) (RS Vol 18, p 309)
 
-_Amendment(s) incorporated in the [Act(s)][248]_.
+_Amendment(s) incorporated in the [Act(s)][351]_.
 
 ##### Machinery Amendment Act 1956 (1956 No 17) (RS Vol 18, p 441)
 
@@ -3243,19 +4588,19 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Ministry of Energy (Abolition) Act 1989 (1989 No 140)
 
-_Amendment(s) incorporated in the [Act(s)][259]_.
+_Amendment(s) incorporated in the [Act(s)][361]_.
 
 ##### National Development Act Repeal Act 1986 (1986 No 122)
 
-_Amendment(s) incorporated in the [Act(s)][260]_.
+_Amendment(s) incorporated in the [Act(s)][362]_.
 
 ##### National Parks Act 1980 (1980 No 66)
 
-_Amendment(s) incorporated in the [Act(s)][261]_.
+_Amendment(s) incorporated in the [Act(s)][363]_.
 
 ##### Official Information Amendment Act 1987 (1987 No 8)
 
-_Amendment(s) incorporated in the [Act(s)][262]_.
+_Amendment(s) incorporated in the [Act(s)][364]_.
 
 ##### Petroleum Act 1937 (1937 No 27) (RS Vol 7, p 647)
 
@@ -3271,21 +4616,21 @@ _Amendment(s) incorporated in the [Act(s)][262]_.
 
 ##### Public Finance Act 1989 (1989 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][263]_.
+_Amendment(s) incorporated in the [Act(s)][365]_.
 
 ##### Quarries and Tunnels Act 1982 (1982 No 18)
 
 ##### Reserves and Other Lands Disposal Act 1982 (1982 No 133)
 
-_Amendment(s) incorporated in the [Act(s)][264]_.
+_Amendment(s) incorporated in the [Act(s)][366]_.
 
 ##### Resource Management Act 1991 (1991 No 69)
 
-_Amendment(s) incorporated in the [Act(s)][265]_.
+_Amendment(s) incorporated in the [Act(s)][367]_.
 
 ##### Sale of Liquor Act 1989 (1989 No 63)
 
-_Amendment(s) incorporated in the [Act(s)][266]_.
+_Amendment(s) incorporated in the [Act(s)][368]_.
 
 ##### Shearers Act 1962 (1962 No 136) (RS Vol 9, p 575)
 
@@ -3293,7 +4638,7 @@ _Amendment(s) incorporated in the [Act(s)][266]_.
 
 ##### State-Owned Enterprises Act 1986 (1986 No 124)
 
-_Amendment(s) incorporated in the [Act(s)][267]_.
+_Amendment(s) incorporated in the [Act(s)][369]_.
 
 ##### State-Owned Enterprises Amendment Act 1987 (1987 No 117)
 
@@ -3301,7 +4646,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### State Sector Act 1988 (1988 No 20)
 
-_Amendment(s) incorporated in the [Act(s)][162]_.
+_Amendment(s) incorporated in the [Act(s)][237]_.
 
 ##### Survey Act 1986 (1986 No 123)
 
@@ -3309,7 +4654,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Territorial Sea and Exclusive Economic Zone Act 1977 (1977 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][268]_.
+_Amendment(s) incorporated in the [Act(s)][370]_.
 
 ##### Transit New Zealand Act 1989 (1989 No 75)
 
@@ -3317,14 +4662,14 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Weights and Measures Act 1987 (1987 No 15)
 
-_Amendment(s) incorporated in the [Act(s)][269]_.
+_Amendment(s) incorporated in the [Act(s)][371]_.
 
 ---
 
 ## Schedule 4  
 Orders in Council and notices revoked
 
-[s 62(3)][135]
+[s 62(3)][205]
 
 ##### Agricultural Workers Accommodation Regulations 1963 (SR 1963/79)
 
@@ -3440,7 +4785,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Health and Safety in Employment Amendment Act 2002][270].
+*   (1) This Act is the [Health and Safety in Employment Amendment Act 2002][372].
     
     (2) In this Act, the Health and Safety in Employment Act 1992 is called ""the principal Act"".
 
@@ -3506,63 +4851,65 @@ Amendments to principal Act
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][271] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][272] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][373] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][374] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][273] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][274] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][375] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][376] ![](/images/external_link.gif).
 
 ###### 5 Amendments incorporated in this reprint (most recent first)
     
-*   Building Amendment Act 2013 (2013 No 100): [section 78][184]
+*   [Health and Safety in Employment Amendment Act 2013][341] (2013 No 95)
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][151]
+    WorkSafe New Zealand Act 2013 (2013 No 94): [section 22][224]
     
-    Environmental Protection Authority Act 2011 (2011 No 14): [section 53(1)][181]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][225]
     
-    [Health and Safety in Employment Amendment Act 2010][275] (2010 No 135)
+    Environmental Protection Authority Act 2011 (2011 No 14): [section 53(1)][272]
     
-    Accident Compensation Amendment Act 2010 (2010 No 1): [sections 5(1)(b)][238], [49][239]
+    [Health and Safety in Employment Amendment Act 2010][377] (2010 No 135)
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][198]
+    Accident Compensation Amendment Act 2010 (2010 No 1): [sections 5(1)(b)][335], [49][337]
     
-    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][220]
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][286]
     
-    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][240]
+    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][315]
     
-    [Health and Safety in Employment Amendment Act 2006][276] (2006 No 72)
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][338]
     
-    Maritime Transport Amendment Act 2004 (2004 No 98): [section 11(3)][221]
+    [Health and Safety in Employment Amendment Act 2006][378] (2006 No 72)
     
-    [Health and Safety in Employment Amendment Act 2004][277] (2004 No 87)
+    Maritime Transport Amendment Act 2004 (2004 No 98): [section 11(3)][316]
     
-    Building Act 2004 (2004 No 72): [section 414][183]
+    [Health and Safety in Employment Amendment Act 2004][379] (2004 No 87)
     
-    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][153]
+    Building Act 2004 (2004 No 72): [section 414][380]
     
-    State Sector Amendment Act 2003 (2003 No 41): [section 14(1)][200]
+    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][227]
     
-    [Health and Safety in Employment Amendment Act 2002][270] (2002 No 86)
+    State Sector Amendment Act 2003 (2003 No 41): [section 14(1)][288]
     
-    Crown Organisations (Criminal Liability) Act 2002 (2002 No 37): [sections 23][150], [24][157], [26][223], [27][225]
+    [Health and Safety in Employment Amendment Act 2002][372] (2002 No 86)
     
-    Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49): [section 337(1)][237]
+    Crown Organisations (Criminal Liability) Act 2002 (2002 No 37): [sections 23][223], [24][231], [26][318], [27][320]
     
-    Hazardous Substances and New Organisms Act Commencement Order (No 2) 2001 (SR 2001/171): [clause 2][186]
+    Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49): [section 337(1)][334]
+    
+    Hazardous Substances and New Organisms Act Commencement Order (No 2) 2001 (SR 2001/171): [clause 2][270]
     
     Accident Insurance Act 1998 (1998 No 114): section 415(1)
     
-    [Health and Safety in Employment Amendment Act 1998][278] (1998 No 3)
+    [Health and Safety in Employment Amendment Act 1998][381] (1998 No 3)
     
-    Hazardous Substances and New Organisms Act 1996 (1996 No 30): [sections 149][182], [150(1)][241]
+    Hazardous Substances and New Organisms Act 1996 (1996 No 30): [sections 149][271], [150(1)][339]
     
-    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(1)][201]
+    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(1)][289]
     
-    Maritime Transport Act 1994 (1994 No 104): [section 203][154]
+    Maritime Transport Act 1994 (1994 No 104): [section 203][228]
     
-    Electricity Act 1992 (1992 No 122): [section 173(2)][197]
+    Electricity Act 1992 (1992 No 122): [section 173(2)][285]
     
-    Public Finance Act 1989 (1989 No 44): [section 65R(3)][228]
+    Public Finance Act 1989 (1989 No 44): [section 65R(3)][324]
 
 
 
@@ -3579,269 +4926,372 @@ Amendments to principal Act
 [10]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279197
 [11]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279199
 [12]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279203
-[13]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279208
-[14]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279209
-[15]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279211
-[16]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279212
-[17]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279213
-[18]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279214
-[19]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279215
-[20]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279216
-[21]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279217
-[22]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279218
-[23]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279221
-[24]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279222
-[25]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279223
-[26]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279227
-[27]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279228
-[28]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM3557406
-[29]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM3557407
-[30]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM3557408
-[31]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM3557409
-[32]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM3557410
-[33]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM3557411
-[34]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279229
-[35]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279231
-[36]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279232
-[37]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279233
-[38]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279235
-[39]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279236
-[40]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279237
-[41]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279239
-[42]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279241
-[43]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279243
-[44]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279245
-[45]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279248
-[46]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279250
-[47]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279252
-[48]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279255
-[49]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279260
-[50]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279263
-[51]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279265
-[52]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279268
-[53]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279269
-[54]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279270
-[55]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279279
-[56]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279280
-[57]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279283
-[58]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279284
-[59]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279285
-[60]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279286
-[61]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279287
-[62]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279288
-[63]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279293
-[64]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279295
-[65]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279297
-[66]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279299
-[67]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279600
-[68]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279602
-[69]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279604
-[70]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279606
-[71]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279612
-[72]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279613
-[73]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279614
-[74]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279616
-[75]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279619
-[76]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279620
-[77]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279623
-[78]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279624
-[79]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279627
-[80]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279628
-[81]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279630
-[82]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279631
-[83]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279632
-[84]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279633
-[85]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279634
-[86]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279635
-[87]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279636
-[88]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279637
-[89]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279638
-[90]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279639
-[91]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279641
-[92]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279642
-[93]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279643
-[94]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279645
-[95]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279652
-[96]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279653
-[97]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279654
-[98]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279655
-[99]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279656
-[100]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279658
-[101]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279662
-[102]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279663
-[103]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279665
-[104]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279667
-[105]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279669
-[106]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279675
-[107]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279677
-[108]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279679
-[109]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279681
-[110]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279683
-[111]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279685
-[112]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279688
-[113]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279691
-[114]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279693
-[115]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279695
-[116]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279697
-[117]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279699
-[118]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279901
-[119]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279903
-[120]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279905
-[121]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279907
-[122]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279909
-[123]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279911
-[124]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279913
-[125]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279914
-[126]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279915
-[127]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279916
-[128]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279917
-[129]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279918
-[130]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279935
-[131]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279936
-[132]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279938
-[133]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279939
-[134]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279940
-[135]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279941
-[136]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279943
-[137]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279952
-[138]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279964
-[139]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279968
-[140]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279969
-[141]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM204978
-[142]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM336787
-[143]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM60387
-[144]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM156453
-[145]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM275032
-[146]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM204329
-[147]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM58337
-[148]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM181987
-[149]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM424111
-[150]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM156493
-[151]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM3360714
-[152]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM3561607
-[153]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM205009
-[154]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM336920
-[155]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182626
-[156]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM156440
-[157]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM156498
-[158]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182628
-[159]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM336955
-[160]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182640
-[161]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182642
-[162]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM129109
-[163]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182643
-[164]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM3561613
-[165]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182644
-[166]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM424110
-[167]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM311052
-[168]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182645
-[169]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182647
-[170]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182648
-[171]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279954
-[172]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279956
-[173]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279958
-[174]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM59957
-[175]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM59960
-[176]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM59947
-[177]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM316642
-[178]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM3366850
-[179]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM306035
-[180]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182663
-[181]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM3366997
-[182]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM385160
-[183]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM309090
-[184]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM3957687
-[185]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182664
-[186]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM59548
-[187]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM285763
-[188]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM282438
-[189]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182665
-[190]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM396761
-[191]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM396762
-[192]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM401062
-[193]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM214686
-[194]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM219710
-[195]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM281857
-[196]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM285411
-[197]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM284137
-[198]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM1102349
-[199]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM139130
-[200]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM201378
-[201]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM367235
-[202]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182666
-[203]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM58316
-[204]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM160819
-[205]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182676
-[206]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182677
-[207]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182678
-[208]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182679
-[209]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182687
-[210]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279962
-[211]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182688
-[212]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM424112
-[213]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM135341
-[214]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM135543
-[215]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM136002
-[216]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM136009
-[217]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182689
-[218]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182691
-[219]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182692
-[220]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM1313622
-[221]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM322600
-[222]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM3360067
-[223]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM157101
-[224]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM183301
-[225]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM157102
-[226]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM183302
-[227]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM311346
-[228]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM162942
-[229]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM396459
-[230]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM99493
-[231]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM100103
-[232]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM101876
-[233]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM101878
-[234]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM101883
-[235]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM102814
-[236]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM1519941
-[237]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM104117
-[238]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM2773701
-[239]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM2417572
-[240]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM1523176
-[241]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM385161
-[242]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM183314
-[243]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279963
-[244]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279959
-[245]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279960
-[246]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279961
-[247]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM436789
-[248]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM260930
-[249]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM74807
-[250]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM396478
-[251]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM103609
-[252]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM207911
-[253]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM242535
-[254]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM96438
-[255]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM39722
-[256]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM136124
-[257]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM305839
-[258]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM230212
-[259]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM194753
-[260]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM97361
-[261]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM36962
-[262]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM101320
-[263]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM160808
-[264]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM64715
-[265]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM230264
-[266]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM165115
-[267]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM97376
-[268]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM442578
-[269]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM102241
-[270]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM181978
-[271]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM2998516
-[272]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM2998515
-[273]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM2998532
-[274]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[275]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM3561600
-[276]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM396754
-[277]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM316636
-[278]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM424104
+[13]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834159
+[14]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279208
+[15]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279209
+[16]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279211
+[17]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279212
+[18]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279213
+[19]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279214
+[20]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279215
+[21]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279216
+[22]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279217
+[23]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279218
+[24]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279221
+[25]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279222
+[26]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279223
+[27]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834162
+[28]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834165
+[29]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834167
+[30]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279227
+[31]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279228
+[32]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834169
+[33]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834173
+[34]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM3557406
+[35]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM3557407
+[36]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM3557408
+[37]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM3557409
+[38]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM3557410
+[39]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM3557411
+[40]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279229
+[41]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279231
+[42]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279232
+[43]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279233
+[44]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279235
+[45]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279236
+[46]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279237
+[47]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279239
+[48]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279241
+[49]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279243
+[50]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279245
+[51]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279248
+[52]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279250
+[53]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279252
+[54]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279255
+[55]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279260
+[56]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279263
+[57]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279265
+[58]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834176
+[59]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834179
+[60]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834180
+[61]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834181
+[62]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834314
+[63]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834316
+[64]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834318
+[65]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834320
+[66]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834321
+[67]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834324
+[68]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834325
+[69]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834326
+[70]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834327
+[71]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834328
+[72]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834329
+[73]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834330
+[74]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834331
+[75]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834332
+[76]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834333
+[77]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834334
+[78]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834335
+[79]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834336
+[80]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834337
+[81]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834338
+[82]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834339
+[83]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834341
+[84]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834342
+[85]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834347
+[86]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834348
+[87]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834349
+[88]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834350
+[89]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834351
+[90]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834352
+[91]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834353
+[92]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834354
+[93]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834356
+[94]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834357
+[95]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834358
+[96]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834359
+[97]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834360
+[98]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834361
+[99]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834362
+[100]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834363
+[101]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834364
+[102]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834366
+[103]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834367
+[104]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834368
+[105]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834369
+[106]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834370
+[107]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834371
+[108]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834372
+[109]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834373
+[110]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834374
+[111]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279268
+[112]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279269
+[113]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279270
+[114]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834632
+[115]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834633
+[116]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834634
+[117]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834635
+[118]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834636
+[119]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834637
+[120]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834638
+[121]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834640
+[122]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834641
+[123]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279279
+[124]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279280
+[125]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279283
+[126]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279284
+[127]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279285
+[128]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279286
+[129]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279287
+[130]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279288
+[131]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279293
+[132]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279295
+[133]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279297
+[134]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279299
+[135]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279600
+[136]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279602
+[137]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279604
+[138]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279606
+[139]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279612
+[140]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279613
+[141]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279614
+[142]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279616
+[143]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279619
+[144]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279620
+[145]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279623
+[146]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279624
+[147]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279627
+[148]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279628
+[149]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279630
+[150]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279631
+[151]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279632
+[152]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279633
+[153]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834674
+[154]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279634
+[155]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279635
+[156]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834676
+[157]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279636
+[158]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279637
+[159]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279638
+[160]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279639
+[161]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279641
+[162]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279642
+[163]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279643
+[164]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279645
+[165]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279652
+[166]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279653
+[167]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279654
+[168]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279655
+[169]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279656
+[170]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279658
+[171]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279662
+[172]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279663
+[173]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279665
+[174]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279667
+[175]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279669
+[176]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279675
+[177]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279677
+[178]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279679
+[179]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279681
+[180]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279683
+[181]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279685
+[182]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279688
+[183]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279691
+[184]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279693
+[185]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279695
+[186]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279697
+[187]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279699
+[188]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279901
+[189]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279903
+[190]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279905
+[191]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279907
+[192]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279909
+[193]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279911
+[194]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279913
+[195]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279914
+[196]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279915
+[197]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279916
+[198]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279917
+[199]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279918
+[200]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279935
+[201]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279936
+[202]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279938
+[203]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279939
+[204]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279940
+[205]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279941
+[206]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834694
+[207]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834696
+[208]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279943
+[209]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279952
+[210]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279964
+[211]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279968
+[212]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279969
+[213]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM204978
+[214]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM336787
+[215]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM60387
+[216]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM156453
+[217]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM275032
+[218]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM204329
+[219]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM58337
+[220]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM5302049
+[221]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM181987
+[222]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM5709110
+[223]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM156493
+[224]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM5302071
+[225]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM3360714
+[226]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM3561607
+[227]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM205009
+[228]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM336920
+[229]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182626
+[230]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM156440
+[231]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM156498
+[232]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182628
+[233]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM336955
+[234]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM5709153
+[235]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182640
+[236]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182642
+[237]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM129109
+[238]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM5709155
+[239]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182643
+[240]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM5709156
+[241]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM5709160
+[242]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM3561613
+[243]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182644
+[244]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM424110
+[245]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM311052
+[246]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182645
+[247]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182647
+[248]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182648
+[249]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279954
+[250]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279956
+[251]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279958
+[252]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM59957
+[253]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM59960
+[254]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM59947
+[255]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM316642
+[256]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM5709163
+[257]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM5709164
+[258]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM5709166
+[259]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM242535
+[260]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM242543
+[261]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM296645
+[262]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM5302026
+[263]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM306035
+[264]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM5709263
+[265]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM331148
+[266]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM331147
+[267]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM3366850
+[268]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182664
+[269]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM5709276
+[270]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM59548
+[271]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM385160
+[272]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM3366997
+[273]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM5709277
+[274]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM5709278
+[275]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM285763
+[276]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM282438
+[277]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182665
+[278]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM396761
+[279]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM5834220
+[280]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM401062
+[281]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM214686
+[282]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM219710
+[283]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM281857
+[284]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM285411
+[285]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM284137
+[286]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM1102349
+[287]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM139130
+[288]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM201378
+[289]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM367235
+[290]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182666
+[291]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM58316
+[292]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM160819
+[293]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182676
+[294]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM5709279
+[295]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182677
+[296]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM5709280
+[297]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM5709281
+[298]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM5709283
+[299]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM5709285
+[300]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM5709286
+[301]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182678
+[302]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182679
+[303]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182687
+[304]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279962
+[305]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182688
+[306]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM5709287
+[307]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM424112
+[308]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM135341
+[309]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM135543
+[310]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM136002
+[311]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM136009
+[312]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182689
+[313]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182691
+[314]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM182692
+[315]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM1313622
+[316]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM322600
+[317]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM3360067
+[318]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM157101
+[319]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM183301
+[320]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM157102
+[321]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM183302
+[322]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM311346
+[323]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM5709288
+[324]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM162942
+[325]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM396459
+[326]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM99493
+[327]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM381221
+[328]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM100103
+[329]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM101876
+[330]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM101878
+[331]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM101883
+[332]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM102814
+[333]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM1519941
+[334]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM104117
+[335]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM2773701
+[336]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM5709289
+[337]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM2417572
+[338]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM1523176
+[339]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM385161
+[340]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM5709292
+[341]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM5709101
+[342]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM5834698
+[343]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM2997643
+[344]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM2998573
+[345]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM183314
+[346]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279963
+[347]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279959
+[348]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279960
+[349]: http://www.legislation.govt.nz/act/public/1992/0096/latest/whole.html#DLM279961
+[350]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM436789
+[351]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM260930
+[352]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM74807
+[353]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM396478
+[354]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM103609
+[355]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM207911
+[356]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM96438
+[357]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM39722
+[358]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM136124
+[359]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM305839
+[360]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM230212
+[361]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM194753
+[362]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM97361
+[363]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM36962
+[364]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM101320
+[365]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM160808
+[366]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM64715
+[367]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM230264
+[368]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM165115
+[369]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM97376
+[370]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM442578
+[371]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM102241
+[372]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM181978
+[373]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM2998516
+[374]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM2998515
+[375]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM2998532
+[376]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[377]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM3561600
+[378]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM396754
+[379]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM316636
+[380]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM309090
+[381]: http://www.legislation.govt.nz/act/public/1992/0096/latest/link.aspx?id=DLM424104
