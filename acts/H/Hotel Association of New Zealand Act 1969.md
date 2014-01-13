@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 18 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Justice.
 
@@ -87,6 +87,8 @@ An Act to constitute the Hotel Association of New Zealand and to provide for the
     
 *   In this Act, unless the context otherwise requires,---
     
+    _alcohol_ has the meaning given by [section 5(1)][26] of the Sale and Supply of Alcohol Act 2012
+    
     _association_ means the Hotel Association of New Zealand established by this Act
     
     _disciplinary committee_ means the Disciplinary Committee of the Association
@@ -95,19 +97,25 @@ An Act to constitute the Hotel Association of New Zealand and to provide for the
         
     *   (a) lodging; and
     
-    *   (b) liquor, meals, and refreshments for consumption on the premises
+    *   (b) alcohol, meals, and refreshments for consumption on the premises
     
     _hotel industry_ includes the business of operating hotels, taverns, and tourist-houses; and includes any other business or activity that may lawfully be conducted in conjunction therewith
     
     _Minister_ means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
     
-    _tavern_ means any premises used or intended to be used in the course of business principally for the provision to the public of liquor and other refreshments; but does not include an airport bar
+    _tavern_ means any premises used or intended to be used in the course of business principally for the provision to the public of alcohol and other refreshments; but does not include an airport bar
     
     _tourist-house_ means a hotel in which liquor is sold to members of the public only if they are lodging on the premises, or are on the premises for the purpose of having a meal.
     
-    Section 2: substituted, on 1 July 1994, by [section 2][26] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
+    Section 2: substituted, on 1 July 1994, by [section 2][27] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
     
-    Section 2 **Minister**: substituted, on 1 October 1995, by [section 10(3)][27] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 2 **alcohol**: inserted, on 18 December 2013, by [section 417(1)][28] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
+    
+    Section 2 **hotel** paragraph (b): amended, on 18 December 2013, by [section 417(1)][28] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
+    
+    Section 2 **Minister**: substituted, on 1 October 1995, by [section 10(3)][29] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    
+    Section 2 **tavern**: amended, on 18 December 2013, by [section 417(1)][28] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
 
 #### Hotel Association of New Zealand
 
@@ -121,11 +129,11 @@ An Act to constitute the Hotel Association of New Zealand and to provide for the
     
     *   (b) an off-licence; or
     
-    *   (c) a general manager's certificate---
+    *   (c) a manager's certificate---
     
-    granted under the [Sale of Liquor Act 1989][28] in respect of a hotel, a tavern, or a tourist-house, is eligible to be a member of the association.
+    granted under the [Sale and Supply of Alcohol Act 2012][30] in respect of a hotel, a tavern, or a tourist-house, is eligible to be a member of the association.
     
-    (3) Every member of the association who ceases to hold such a licence or general manager's certificate shall cease to be a member of the association, unless he retains his membership in accordance with its rules.
+    (3) Every member of the association who ceases to hold such a licence or manager's certificate shall cease to be a member of the association, unless he retains his membership in accordance with its rules.
     
     (4) The association shall be a body corporate with perpetual succession and a common seal, and with power to sue and be sued and to hold real and personal property and to do and suffer all that bodies corporate may do and suffer.
     
@@ -145,15 +153,19 @@ An Act to constitute the Hotel Association of New Zealand and to provide for the
     
     *   (g) to establish branches of the association in such parts of New Zealand as it thinks fit and to provide for the constitution and powers of such branches.
     
-    Section 3(2): substituted, on 1 July 1994, by [section 3(1)][29] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
+    Section 3(2): substituted, on 1 July 1994, by [section 3(1)][31] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
     
-    Section 3(3): amended, on 1 July 1994, by [section 3(2)][29] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
+    Section 3(2): amended, on 18 December 2013, by [section 417(1)][28] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
+    
+    Section 3(2)(c): amended, on 18 December 2013, by [section 417(1)][28] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
+    
+    Section 3(3): amended, on 18 December 2013, by [section 417(1)][28] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
 
 ##### 4 Right to elect against membership
     
 *   \[Repealed\]
     
-    Section 4: repealed, on 1 July 1994, by [section 5][30] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
+    Section 4: repealed, on 1 July 1994, by [section 5][32] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
 
 ##### 5 Administration of the association
     
@@ -167,15 +179,15 @@ An Act to constitute the Hotel Association of New Zealand and to provide for the
     
     (5) \[Repealed\]
     
-    Section 5(1): amended, on 1 July 1994, by [section 6(1)][31] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
+    Section 5(1): amended, on 1 July 1994, by [section 6(1)][33] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
     
-    Section 5(2): substituted, on 1 July 1994, by [section 6(2)][31] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
+    Section 5(2): substituted, on 1 July 1994, by [section 6(2)][33] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
     
-    Section 5(3): amended, on 1 July 1994, by [section 6(3)][31] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
+    Section 5(3): amended, on 1 July 1994, by [section 6(3)][33] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
     
-    Section 5(4): amended, on 1 July 1994, by [section 6(3)][31] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
+    Section 5(4): amended, on 1 July 1994, by [section 6(3)][33] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
     
-    Section 5(5): repealed, on 1 July 1994, by [section 6(4)][31] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
+    Section 5(5): repealed, on 1 July 1994, by [section 6(4)][33] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
 
 ##### 6 Powers of the association
     
@@ -193,9 +205,9 @@ An Act to constitute the Hotel Association of New Zealand and to provide for the
     
     *   (f) to do all things which are reasonably necessary or expedient to carry out the purposes of the association.
     
-    Section 6(c): amended, on 1 July 1994, by [section 7][32] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
+    Section 6(c): amended, on 1 July 1994, by [section 7][34] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
     
-    Section 6(d): amended, on 1 July 1994, by [section 7][32] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
+    Section 6(d): amended, on 1 July 1994, by [section 7][34] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
 
 ##### 7 Form of contracts
     
@@ -245,9 +257,9 @@ An Act to constitute the Hotel Association of New Zealand and to provide for the
     
     (3) All sums payable pursuant to rules made under paragraph (h) of subsection (1) shall be debts due from the member to the association, and shall be recoverable accordingly.
     
-    Section 8(1)(b): substituted, on 1 July 1994, by [section 8(1)][33] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
+    Section 8(1)(b): substituted, on 1 July 1994, by [section 8(1)][35] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
     
-    Section 8(1)(k): substituted, on 1 July 1994, by [section 8(2)][33] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
+    Section 8(1)(k): substituted, on 1 July 1994, by [section 8(2)][35] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
 
 #### Disciplinary provisions
 
@@ -271,19 +283,19 @@ An Act to constitute the Hotel Association of New Zealand and to provide for the
     
     (6) Except as otherwise provided by this Act, the disciplinary committee shall regulate its own procedure.
     
-    Section 9(2)(a): amended, on 1 July 1994, by [section 9(1)][34] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
+    Section 9(2)(a): amended, on 1 July 1994, by [section 9(1)][36] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
     
-    Section 9(2)(a): amended, on 1 April 1980, pursuant to [section 12][35] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 9(2)(a): amended, on 1 April 1980, pursuant to [section 12][37] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 9(2)(c): amended, on 1 July 1994, by [section 9(1)][34] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
+    Section 9(2)(c): amended, on 1 July 1994, by [section 9(1)][36] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
     
-    Section 9(3): amended, on 1 July 1994, by [section 9(2)(a)][34] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
+    Section 9(3): amended, on 1 July 1994, by [section 9(2)(a)][36] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
     
-    Section 9(3): amended, on 1 July 1994, by [section 9(2)(b)][34] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
+    Section 9(3): amended, on 1 July 1994, by [section 9(2)(b)][36] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
 
 ##### 10 Charges before disciplinary committee
     
-*   (1) Where a charge has been made to the disciplinary committee by any person that any person has, while a member of the association, failed to fulfil that member's responsibilities under any of the provisions of the [Sale of Liquor Act 1989][28], or has committed any breach of the code of ethics or of any other rules in force under this Act, the disciplinary committee may, whether or not that person is still a member of the association, inquire into the charge.
+*   (1) Where a charge has been made to the disciplinary committee by any person that any person has, while a member of the association, failed to fulfil that member's responsibilities under any of the provisions of the [Sale and Supply of Alcohol Act 2012][30], or has committed any breach of the code of ethics or of any other rules in force under this Act, the disciplinary committee may, whether or not that person is still a member of the association, inquire into the charge.
     
     (2) If, after inquiring into the charge, the disciplinary committee is satisfied that it is established, it may if it thinks fit do any 1 or more of the following things:
         
@@ -301,9 +313,11 @@ An Act to constitute the Hotel Association of New Zealand and to provide for the
     
     (5) The association may in its discretion use the whole or part of any sum recovered as a penalty under this section to reimburse or compensate any member of the public for expenditure, loss, or inconvenience occasioned to him as a result of the conduct of the person charged in the matter giving rise to the charge.
     
-    Section 10(1): substituted, on 1 July 1994, by [section 10(1)][36] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
+    Section 10(1): substituted, on 1 July 1994, by [section 10(1)][38] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
     
-    Section 10(2)(d): repealed, on 1 July 1994, by [section 10(2)][36] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
+    Section 10(1): amended, on 18 December 2013, by [section 417(1)][28] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
+    
+    Section 10(2)(d): repealed, on 1 July 1994, by [section 10(2)][38] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
 
 ##### 11 Right of person affected to be heard
     
@@ -321,7 +335,7 @@ An Act to constitute the Hotel Association of New Zealand and to provide for the
     
     (5) No decision of the disciplinary committee shall take effect while the person to whom the decision relates remains entitled to appeal against it under this section or while any such appeal by that person awaits determination by the District Court.
     
-    Section 12: substituted, on 1 July 1994, by [section 11][37] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
+    Section 12: substituted, on 1 July 1994, by [section 11][39] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
 
 ##### 13 Publication of decisions in disciplinary proceedings
     
@@ -331,9 +345,9 @@ An Act to constitute the Hotel Association of New Zealand and to provide for the
     
     (3) This section shall not affect any rights of publication otherwise existing.
     
-    Section 13(1): amended, on 1 July 1994, by [section 12(1)][38] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
+    Section 13(1): amended, on 1 July 1994, by [section 12(1)][40] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
     
-    Section 13(2): amended, on 1 July 1994, by [section 12(2)][38] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
+    Section 13(2): amended, on 1 July 1994, by [section 12(2)][40] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
 
 ##### 14 Witnesses may be required to attend and give evidence
     
@@ -343,7 +357,7 @@ An Act to constitute the Hotel Association of New Zealand and to provide for the
     
     (3) Every person who without lawful justification refuses or fails to attend and give evidence when required to do so by the disciplinary committee, or to answer truly and fully any question put to him by a member of the disciplinary committee, or to produce to the disciplinary committee any book or document required of him, commits an offence against this Act and shall be liable on conviction to a fine not exceeding $100\.
     
-    Section 14(3): amended, on 1 July 2013, by [section 413][39] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 14(3): amended, on 1 July 2013, by [section 413][41] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 15 Immunity of witnesses and counsel
     
@@ -355,7 +369,7 @@ An Act to constitute the Hotel Association of New Zealand and to provide for the
     
     (2) Subject to any order made by the disciplinary committee as to the payment of costs or expenses, all such witnesses' expenses shall be paid by the association.
     
-    Section 16(1): amended, on 1 April 1980, pursuant to [section 18(2)][40] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 16(1): amended, on 1 April 1980, pursuant to [section 18(2)][42] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 17 Fees, travelling expenses, and costs of proceedings
     
@@ -369,7 +383,7 @@ An Act to constitute the Hotel Association of New Zealand and to provide for the
     
 *   \[Repealed\]
     
-    Section 18: repealed, on 1 July 1994, by [section 13][41] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
+    Section 18: repealed, on 1 July 1994, by [section 13][43] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
 
 ##### 19 Protection of association and other bodies and persons
     
@@ -377,9 +391,11 @@ An Act to constitute the Hotel Association of New Zealand and to provide for the
 
 ##### 20 Jurisdiction of other authorities not to be limited
     
-*   Except as expressly provided in this Act, nothing in this Act shall be construed to limit the jurisdiction of any court or of the Licensing Authority or any District Licensing Agency, or to limit the liability of any person to be prosecuted for any offence against the [Sale of Liquor Act 1989][28] or any other enactment.
+*   Except as expressly provided in this Act, nothing in this Act shall be construed to limit the jurisdiction of any court or of the Licensing Authority or any licensing committee, or to limit the liability of any person to be prosecuted for any offence against the [Sale of Liquor Act 1989][44] or any other enactment.
     
-    Section 20: substituted, on 1 July 1994, by [section 14][42] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
+    Section 20: substituted, on 1 July 1994, by [section 14][45] of the Hotel Association of New Zealand Amendment Act 1994 (1994 No 38).
+    
+    Section 20: amended, on 18 December 2013, by [section 417(1)][28] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
 
 ##### 21 Consequential amendments and saving
     
@@ -409,90 +425,49 @@ Commencement1 July 1994
 
 ##### 1 Short Title
     
-*   This Act may be cited as the [Hotel Association of New Zealand Amendment Act 1994][43], and shall be read together with and deemed part of the Hotel Association of New Zealand Act 1969 (hereinafter referred to as ""the principal Act"").
+*   This Act may be cited as the [Hotel Association of New Zealand Amendment Act 1994][46], and shall be read together with and deemed part of the Hotel Association of New Zealand Act 1969 (hereinafter referred to as ""the principal Act"").
 
 ##### 4 Transitional provision as to membership
     
 *   Notwithstanding the provisions of section 3(2) of the principal Act (as substituted by section 3 of this Act), any person who was a member of the association immediately before the commencement of this Act shall, subject to this Act, be deemed to continue to be a member after the commencement of this Act.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Hotel Association of New Zealand Act 1969\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][44] ![](/images/external_link.gif).
+*   This is a reprint of the Hotel Association of New Zealand Act 1969 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][45] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][47] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][48] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][46] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][49] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][50] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][47] and [17E][48] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Sale and Supply of Alcohol Act 2012 (2012 No 120): [section 417(1)][28]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][41]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][29]
     
+    [Hotel Association of New Zealand Amendment Act 1994][46] (1994 No 38)
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][42]
     
-*   Criminal Procedure Act 2011 (2011 No 81): [section 413][39]
-    
-    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][27]
-    
-    [Hotel Association of New Zealand Amendment Act 1994][43] (1995 No 38)
-    
-    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][40]
-    
-    Judicature Amendment Act 1979 (1979 No 124): [section 12][35]
+    Judicature Amendment Act 1979 (1979 No 124): [section 12][37]
     
     Sale of Liquor Amendment Act 1977 (1977 No 88): section 6(4)(b)
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1969/0139/latest/whole.html#DLM394330
 [2]: http://www.legislation.govt.nz/act/public/1969/0139/latest/whole.html#DLM394332
 [3]: http://www.legislation.govt.nz/act/public/1969/0139/latest/whole.html#DLM394333
@@ -518,26 +493,28 @@ Commencement1 July 1994
 [23]: http://www.legislation.govt.nz/act/public/1969/0139/latest/whole.html#DLM394390
 [24]: http://www.legislation.govt.nz/act/public/1969/0139/latest/whole.html#DLM394391
 [25]: http://www.legislation.govt.nz/act/public/1969/0139/latest/whole.html#DLM394393
-[26]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM331598
-[27]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM367235
-[28]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM165115
-[29]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM331599
-[30]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM331801
-[31]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM331802
-[32]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM331803
-[33]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM331804
-[34]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM331805
-[35]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM35049
-[36]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM331806
-[37]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM331807
-[38]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM331808
-[39]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM3360714
-[40]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM35085
-[41]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM331809
-[42]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM331810
-[43]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM331592
-[44]: http://www.pco.parliament.govt.nz/reprints/
-[45]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM195439
-[46]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[47]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM195468
-[48]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM195470
+[26]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM3339341
+[27]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM331598
+[28]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM3339984
+[29]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM367235
+[30]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM3339302
+[31]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM331599
+[32]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM331801
+[33]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM331802
+[34]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM331803
+[35]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM331804
+[36]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM331805
+[37]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM35049
+[38]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM331806
+[39]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM331807
+[40]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM331808
+[41]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM3360714
+[42]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM35085
+[43]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM331809
+[44]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM165115
+[45]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM331810
+[46]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM331592
+[47]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM2998516
+[48]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM2998515
+[49]: http://www.legislation.govt.nz/act/public/1969/0139/latest/link.aspx?id=DLM2998532
+[50]: http://www.pco.parliament.govt.nz/editorial-conventions/
