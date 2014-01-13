@@ -1,5 +1,5 @@
 Reprint  
-as at 18 July 2013
+as at 18 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Department of Corrections.
 
@@ -2332,7 +2332,7 @@ Corrections system
     
     *   (c) inflammable; or
     
-    *   (d) intoxicating liquor; or
+    *   (d) alcohol; or
     
     *   (e) a controlled drug (within the meaning of the [Misuse of Drugs Act 1975][370]); or
     
@@ -2349,6 +2349,8 @@ Corrections system
     *   (b) the prisoner cannot be identified or located.
     
     Compare: SR 2000/81 r 120
+    
+    Section 45(1)(d): replaced, on 18 December 2013, by [section 417(1)][452] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
 
 ##### 45A Rules about authorised property
     
@@ -2380,9 +2382,9 @@ Corrections system
     
     *   (c) must arrange for the rules to be made available and published in accordance with subsection (1)(c) to (e).
     
-    (3) Rules made under subsection (1) or (2) are deemed to be regulations for the purposes of the [Regulations (Disallowance) Act 1989][452] but not for the purposes of the [Acts and Regulations Publication Act 1989][453].
+    (3) Rules made under subsection (1) or (2) are deemed to be regulations for the purposes of the [Regulations (Disallowance) Act 1989][453] but not for the purposes of the [Acts and Regulations Publication Act 1989][454].
     
-    Section 45A: inserted, on 4 June 2013, by [section 13][454] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 45A: inserted, on 4 June 2013, by [section 13][455] of the Corrections Amendment Act 2013 (2013 No 5).
 
 #### Trust account and purchasing system
 
@@ -2728,17 +2730,17 @@ Corrections system
     
     *   (b) if the prisoner is assessed to be at risk of self-harm, at least twice per day.
     
-    (6) In this section, _scope of practice_ has the same meaning as in [section 5(1)][455] of the Health Practitioners Competence Assurance Act 2003\.
+    (6) In this section, _scope of practice_ has the same meaning as in [section 5(1)][456] of the Health Practitioners Competence Assurance Act 2003\.
     
-    Section 60(1): amended, on 4 June 2013, by [section 14(1)][456] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 60(1): amended, on 4 June 2013, by [section 14(1)][457] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 60(1A): inserted, on 4 June 2013, by [section 14(2)][456] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 60(1A): inserted, on 4 June 2013, by [section 14(2)][457] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 60(4): amended, on 4 June 2013, by [section 14(3)][456] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 60(4): amended, on 4 June 2013, by [section 14(3)][457] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 60(5): replaced, on 4 June 2013, by [section 14(4)][456] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 60(5): replaced, on 4 June 2013, by [section 14(4)][457] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 60(6): inserted, on 4 June 2013, by [section 14(4)][456] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 60(6): inserted, on 4 June 2013, by [section 14(4)][457] of the Corrections Amendment Act 2013 (2013 No 5).
 
 ##### 61 Accommodation to be provided if segregation direction in force
     
@@ -2904,7 +2906,7 @@ Corrections system
     
     (4) Any work in which a prisoner is employed under this section must be carried out in accordance with any prescribed requirements.
     
-    Section 66A: inserted, on 4 June 2013, by [section 15][457] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 66A: inserted, on 4 June 2013, by [section 15][458] of the Corrections Amendment Act 2013 (2013 No 5).
 
 ##### 67 Earnings of employed prisoner
     
@@ -2922,11 +2924,11 @@ Corrections system
     
     Compare: 1954 No 51 s 21C(1), (3)
     
-    Section 67(2): replaced, on 4 June 2013, by [section 16][458] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 67(2): replaced, on 4 June 2013, by [section 16][459] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 67(3): inserted, on 4 June 2013, by [section 16][458] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 67(3): inserted, on 4 June 2013, by [section 16][459] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 67(4): inserted, on 4 June 2013, by [section 16][458] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 67(4): inserted, on 4 June 2013, by [section 16][459] of the Corrections Amendment Act 2013 (2013 No 5).
 
 ##### 68 Application of money
     
@@ -2950,11 +2952,11 @@ Corrections system
     
     Compare: 1954 No 51 s 21C(4)
     
-    Section 68(a): amended, on 4 June 2013, by [section 17(1)][459] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 68(a): amended, on 4 June 2013, by [section 17(1)][460] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 68(b): amended, on 4 June 2013, by [section 17(2)][459] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 68(b): amended, on 4 June 2013, by [section 17(2)][460] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 68(ba): inserted, on 4 June 2013, by [section 17(3)][459] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 68(ba): inserted, on 4 June 2013, by [section 17(3)][460] of the Corrections Amendment Act 2013 (2013 No 5).
 
 #### Minimum entitlements
 
@@ -3014,7 +3016,7 @@ Corrections system
     
     Compare: SR 2000/81 r 42
     
-    Section 69(4)(aa): inserted, on 4 June 2013, by [section 18][460] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 69(4)(aa): inserted, on 4 June 2013, by [section 18][461] of the Corrections Amendment Act 2013 (2013 No 5).
 
 #### Exercise
 
@@ -3056,9 +3058,9 @@ Corrections system
     
     Compare: SR 2000/81 r 56
     
-    Section 72(1): amended, on 4 June 2013, by [section 19(1)][461] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 72(1): amended, on 4 June 2013, by [section 19(1)][462] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 72(3): amended, on 4 June 2013, by [section 19(2)][461] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 72(3): amended, on 4 June 2013, by [section 19(2)][462] of the Corrections Amendment Act 2013 (2013 No 5).
 
 #### Visiting
 
@@ -3158,7 +3160,7 @@ Corrections system
     
     (2) The Crown is not required to provide a prisoner with any of the education referred to in subsection (1)(c) free of charge unless---
         
-    *   (a) there is an entitlement to receive that education free of charge (whether under the [Education Act 1989][462] or under another enactment); or
+    *   (a) there is an entitlement to receive that education free of charge (whether under the [Education Act 1989][463] or under another enactment); or
     
     *   (b) the education is---
             
@@ -3186,7 +3188,7 @@ Corrections system
     
     Compare: SR 2000/81 r 45
     
-    Section 79(3): added, on 3 April 2009, by [section 6][463] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 79(3): added, on 3 April 2009, by [section 6][464] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ##### 80 Needs relating to particular cultures
     
@@ -3230,7 +3232,7 @@ Corrections system
     
     *   (d) the chief executive is satisfied that there are appropriate facilities available to accommodate the child's placement.
     
-    (3) In considering whether placing the child with the mother is in the best interests of the child, the chief executive must have regard to the principles in [section 5][464] of the Care of Children Act 2004 to the extent that those principles are relevant.
+    (3) In considering whether placing the child with the mother is in the best interests of the child, the chief executive must have regard to the principles in [section 5][465] of the Care of Children Act 2004 to the extent that those principles are relevant.
     
     (4) The chief executive must---
         
@@ -3246,7 +3248,7 @@ Corrections system
     
     (6) In this section and [sections 81B][114] and [81C][115], unless the context otherwise requires, _child's placement_ or _placement_ means the placement of a child with his or her mother in prison in accordance with this section.
     
-    Section 81A: inserted, on 19 September 2011, by [section 5][465] of the Corrections (Mothers with Babies) Amendment Act 2008 (2008 No 88).
+    Section 81A: inserted, on 19 September 2011, by [section 5][466] of the Corrections (Mothers with Babies) Amendment Act 2008 (2008 No 88).
 
 ##### 81B Parenting agreements
     
@@ -3280,7 +3282,7 @@ Corrections system
         
         
     
-    Section 81B: inserted, on 19 September 2011, by [section 5][465] of the Corrections (Mothers with Babies) Amendment Act 2008 (2008 No 88).
+    Section 81B: inserted, on 19 September 2011, by [section 5][466] of the Corrections (Mothers with Babies) Amendment Act 2008 (2008 No 88).
 
 ##### 81C Accommodation and feeding of children placed with their mothers
     
@@ -3292,7 +3294,7 @@ Corrections system
     
     *   (b) if the child is fed by other means, provided sufficient opportunity to be fed.
     
-    Section 81C: inserted, on 19 September 2011, by [section 5][465] of the Corrections (Mothers with Babies) Amendment Act 2008 (2008 No 88).
+    Section 81C: inserted, on 19 September 2011, by [section 5][466] of the Corrections (Mothers with Babies) Amendment Act 2008 (2008 No 88).
 
 #### Living conditions
 
@@ -3332,7 +3334,7 @@ Corrections system
     
     (3) If an officer or staff member uses physical force in dealing with any prisoner, the prisoner must, as soon as practicable after the application of that force, be examined by a registered health professional, unless that application of force is limited to the use of handcuffs of a kind that have been authorised for use as a mechanical restraint.
     
-    (4) Nothing in this section limits or affects any other provision in this Act or any other enactment that authorises an officer or staff member to use physical force, or any provision of the [Crimes Act 1961][466], or any rule of law, that makes any specified circumstances---
+    (4) Nothing in this section limits or affects any other provision in this Act or any other enactment that authorises an officer or staff member to use physical force, or any provision of the [Crimes Act 1961][467], or any rule of law, that makes any specified circumstances---
         
     *   (a) a justification or excuse for the use of force; or
     
@@ -3340,7 +3342,7 @@ Corrections system
     
     Compare: 1954 No 51 s 17C
     
-    Section 83(3): amended, on 4 June 2013, by [section 20][467] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 83(3): amended, on 4 June 2013, by [section 20][468] of the Corrections Amendment Act 2013 (2013 No 5).
 
 ##### 84 Provoking prisoners
     
@@ -3392,7 +3394,7 @@ Corrections system
     
     (4) If subsection (3) applies, a firearm---
         
-    *   (a) may only be used by an officer or staff member who holds a current firearms licence under [section 24][468] of the Arms Act 1983 and in accordance with that Act; and
+    *   (a) may only be used by an officer or staff member who holds a current firearms licence under [section 24][469] of the Arms Act 1983 and in accordance with that Act; and
     
     *   (b) must not be used while prisoners are present; and
     
@@ -3400,15 +3402,15 @@ Corrections system
     
     Compare: 1954 No 51 s 19B
     
-    Section 86 heading: amended, on 3 April 2009, by [section 7(1)][463] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 86 heading: amended, on 3 April 2009, by [section 7(1)][464] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 86(1): substituted, on 3 April 2009, by [section 7(2)][463] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 86(1): substituted, on 3 April 2009, by [section 7(2)][464] of the Corrections Amendment Act 2009 (2009 No 3).
     
     Section 86(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][396] of the Policing Act 2008 (2008 No 72).
     
-    Section 86(3): added, on 3 April 2009, by [section 7(3)][463] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 86(3): added, on 3 April 2009, by [section 7(3)][464] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 86(4): added, on 3 April 2009, by [section 7(3)][463] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 86(4): added, on 3 April 2009, by [section 7(3)][464] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ##### 87 Restraint of prisoners
     
@@ -3452,9 +3454,9 @@ Corrections system
     
     Compare: 1954 No 51 s 19
     
-    Section 87(5): replaced, on 4 June 2013, by [section 21][469] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 87(5): replaced, on 4 June 2013, by [section 21][470] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 87(5A): inserted, on 4 June 2013, by [section 21][469] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 87(5A): inserted, on 4 June 2013, by [section 21][470] of the Corrections Amendment Act 2013 (2013 No 5).
 
 ##### 88 Reporting on use of force, weapons, and mechanical restraints
     
@@ -3528,13 +3530,13 @@ Corrections system
     
     Compare: 1954 No 51 s 21E
     
-    Section 90(2)(f): replaced, on 4 June 2013, by [section 22(1)][470] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 90(2)(f): replaced, on 4 June 2013, by [section 22(1)][471] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 90(2)(g): added, on 3 April 2009, by [section 8(1)][471] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 90(2)(g): added, on 3 April 2009, by [section 8(1)][472] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 90(3): replaced, on 4 June 2013, by [section 22(2)][470] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 90(3): replaced, on 4 June 2013, by [section 22(2)][471] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 90(4): repealed, on 4 June 2013, by [section 22(2)][470] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 90(4): repealed, on 4 June 2013, by [section 22(2)][471] of the Corrections Amendment Act 2013 (2013 No 5).
 
 ##### 91 Definition of scanner search
     
@@ -3618,7 +3620,7 @@ Corrections system
     
     Compare: 1954 No 51 s 21I
     
-    Section 96(7): added, on 3 April 2009, by [section 9][472] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 96(7): added, on 3 April 2009, by [section 9][473] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ##### 97 Use of dogs for searching
     
@@ -3738,25 +3740,25 @@ Corrections system
     
     Compare: 1954 No 51 s 21K
     
-    Section 98(6)(b): amended, on 4 June 2013, by [section 23(1)][473] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 98(6)(b): amended, on 4 June 2013, by [section 23(1)][474] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 98(6)(g): amended, on 3 April 2009, by [section 10(1)][474] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 98(6)(g): amended, on 3 April 2009, by [section 10(1)][475] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 98(6)(g)(iv): added, on 3 April 2009, by [section 10(2)][474] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 98(6)(g)(iv): added, on 3 April 2009, by [section 10(2)][475] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 98(6)(j): added, on 3 April 2009, by [section 10(3)][474] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 98(6)(j): added, on 3 April 2009, by [section 10(3)][475] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 98(7)(b): replaced, on 4 June 2013, by [section 23(2)][473] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 98(7)(b): replaced, on 4 June 2013, by [section 23(2)][474] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 98(7A): inserted, on 4 June 2013, by [section 23(3)][473] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 98(7A): inserted, on 4 June 2013, by [section 23(3)][474] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 98(7B): inserted, on 4 June 2013, by [section 23(3)][473] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 98(7B): inserted, on 4 June 2013, by [section 23(3)][474] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 98(8): amended, on 3 April 2009, by [section 10(4)][474] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 98(8): amended, on 3 April 2009, by [section 10(4)][475] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 98(8)(a): amended, on 4 June 2013, by [section 23(4)][473] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 98(8)(a): amended, on 4 June 2013, by [section 23(4)][474] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 98(8)(b): amended, on 4 June 2013, by [section 23(5)][473] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 98(8)(b): amended, on 4 June 2013, by [section 23(5)][474] of the Corrections Amendment Act 2013 (2013 No 5).
 
 ##### 99 Search of persons other than prisoners
     
@@ -3802,7 +3804,7 @@ Corrections system
     
     *   (b) be allowed to be present during that search if he or she wishes unless, in the opinion of the prison manager, deferring the search until the person can attend will involve an unacceptable delay.
     
-    Section 100(1): substituted, on 3 April 2009, by [section 11][475] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 100(1): substituted, on 3 April 2009, by [section 11][476] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ##### 101 Search of vehicles
     
@@ -3864,7 +3866,7 @@ Corrections system
     
     *   (b) for the purposes of paragraph (a), use any physical force (and no more) that is reasonably necessary in the circumstances.
     
-    (2) An officer may detain a person under this section only for the purpose of obtaining the attendance of a constable who is entitled to exercise any power conferred by [section 18][423] of the Misuse of Drugs Act 1975 or [section 13][476] or [section 13A][424] of the Misuse of Drugs Amendment Act 1978 or [section 23][425] of the Search and Surveillance Act 2012\.
+    (2) An officer may detain a person under this section only for the purpose of obtaining the attendance of a constable who is entitled to exercise any power conferred by [section 18][423] of the Misuse of Drugs Act 1975 or [section 13][477] or [section 13A][424] of the Misuse of Drugs Amendment Act 1978 or [section 23][425] of the Search and Surveillance Act 2012\.
     
     (3) An officer who detains a person under this section must---
         
@@ -3896,7 +3898,7 @@ Corrections system
     
     *   (b) a staff member authorised by the manager, in writing, to read correspondence for the purpose of [section 107][147].
     
-    Section 103A: replaced, on 4 June 2013, by [section 24][477] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 103A: replaced, on 4 June 2013, by [section 24][478] of the Corrections Amendment Act 2013 (2013 No 5).
 
 ##### 104 General considerations relating to mail
     
@@ -3916,7 +3918,7 @@ Corrections system
     
     Compare: SR 2000/81 r 96
     
-    Section 104: amended, on 4 June 2013, by [section 25][478] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 104: amended, on 4 June 2013, by [section 25][479] of the Corrections Amendment Act 2013 (2013 No 5).
 
 ##### 105 Restriction on sending mail to other prisoners
     
@@ -3938,7 +3940,7 @@ Corrections system
     
     Compare: SR 2000/81 r 100
     
-    Section 106(2): replaced, on 4 June 2013, by [section 26][479] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 106(2): replaced, on 4 June 2013, by [section 26][480] of the Corrections Amendment Act 2013 (2013 No 5).
 
 ##### 107 Reading of correspondence
     
@@ -3954,11 +3956,11 @@ Corrections system
     
     Compare: SR 2000/81 r 101
     
-    Section 107(1): substituted, on 3 April 2009, by [section 15(1)][480] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 107(1): substituted, on 3 April 2009, by [section 15(1)][481] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 107(1): amended, on 4 June 2013, by [section 27(1)][481] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 107(1): amended, on 4 June 2013, by [section 27(1)][482] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 107(2): amended, on 4 June 2013, by [section 27(2)][481] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 107(2): amended, on 4 June 2013, by [section 27(2)][482] of the Corrections Amendment Act 2013 (2013 No 5).
 
 ##### 108 Withholding mail
     
@@ -3992,13 +3994,13 @@ Corrections system
     
     Compare: SR 2000/81 r 102
     
-    Section 108(1)(d): amended, on 3 April 2009, by [section 16(1)][482] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 108(1)(d): amended, on 3 April 2009, by [section 16(1)][483] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 108(1)(d)(iv): amended, on 3 April 2009, by [section 16(2)][482] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 108(1)(d)(iv): amended, on 3 April 2009, by [section 16(2)][483] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 108(1)(d)(v): added, on 3 April 2009, by [section 16(2)][482] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 108(1)(d)(v): added, on 3 April 2009, by [section 16(2)][483] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 108(1)(d)(vi): added, on 3 April 2009, by [section 16(2)][482] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 108(1)(d)(vi): added, on 3 April 2009, by [section 16(2)][483] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ##### 109 Mail between prisoners, official agencies, and members of Parliament
     
@@ -4010,7 +4012,7 @@ Corrections system
     
     *   (c) is from an official agency or member of Parliament to a prisoner, and accompanied by a covering letter addressed to the prison manager stating that the agency or member of Parliament is acting in an official capacity in respect of the prisoner.
     
-    Section 109: replaced, on 4 June 2013, by [section 28][483] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 109: replaced, on 4 June 2013, by [section 28][484] of the Corrections Amendment Act 2013 (2013 No 5).
 
 ##### 110 Mail between prisoners and legal advisers
     
@@ -4052,9 +4054,9 @@ Corrections system
     
     Compare: SR 2000/81 r 104
     
-    Section 110(1): replaced, on 4 June 2013, by [section 29(1)][484] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 110(1): replaced, on 4 June 2013, by [section 29(1)][485] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 110(2): amended, on 4 June 2013, by [section 29(2)][484] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 110(2): amended, on 4 June 2013, by [section 29(2)][485] of the Corrections Amendment Act 2013 (2013 No 5).
 
 ##### 110A Restrictions on disclosure of mail
     
@@ -4072,25 +4074,25 @@ Corrections system
     
     *   (b) the authorised person believes on reasonable grounds that the disclosure---
             
-        *   (i) is necessary to avoid prejudice to the maintenance of the law by a public sector agency (within the meaning of the [Privacy Act 1993][485]), including the prevention, detection, investigation, prosecution, and punishment of offences; or
+        *   (i) is necessary to avoid prejudice to the maintenance of the law by a public sector agency (within the meaning of the [Privacy Act 1993][486]), including the prevention, detection, investigation, prosecution, and punishment of offences; or
         
         *   (ii) is necessary for the conduct of proceedings (already commenced or reasonably in contemplation) before a court or tribunal; or
         
         *   (iii) is necessary to prevent or lessen a serious and imminent threat to public health, public safety, or the life or health of any person; or
         
-        *   (iv) has been authorised by the Privacy Commissioner under [section 54(1)][486] of the Privacy Act 1993; or
+        *   (iv) has been authorised by the Privacy Commissioner under [section 54(1)][487] of the Privacy Act 1993; or
         
         
     
     *   (c) the disclosure is required by any enactment or rule of law.
     
-    Section 110A: inserted, on 3 April 2009, by [section 19][487] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 110A: inserted, on 3 April 2009, by [section 19][488] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 110A: amended, on 4 June 2013, by [section 30(1)][488] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 110A: amended, on 4 June 2013, by [section 30(1)][489] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 110A(a): amended, on 4 June 2013, by [section 30(1)][488] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 110A(a): amended, on 4 June 2013, by [section 30(1)][489] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 110A(b): amended, on 4 June 2013, by [section 30(2)][488] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 110A(b): amended, on 4 June 2013, by [section 30(2)][489] of the Corrections Amendment Act 2013 (2013 No 5).
 
 ##### 110B Warnings in relation to mail
     
@@ -4106,13 +4108,13 @@ Corrections system
     
     *   (b) about the types of correspondence that are exempted from being opened, read, and withheld, and the extent to which the exemptions apply.
     
-    Section 110B: inserted, on 3 April 2009, by [section 19][487] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 110B: inserted, on 3 April 2009, by [section 19][488] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ##### 110C Application of Privacy Act 1993
     
-*   The [Privacy Act 1993][485] applies to any activity authorised under any of [sections 104 to 110B][144] relating to correspondence to or from a prisoner.
+*   The [Privacy Act 1993][486] applies to any activity authorised under any of [sections 104 to 110B][144] relating to correspondence to or from a prisoner.
     
-    Section 110C: inserted, on 3 April 2009, by [section 19][487] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 110C: inserted, on 3 April 2009, by [section 19][488] of the Corrections Amendment Act 2009 (2009 No 3).
 
 #### Telephone calls may be monitored
 
@@ -4232,7 +4234,7 @@ Corrections system
         
         *   (iv) the Privacy Commissioner; or
         
-        *   (v) a member of the Human Rights Commission continued by [section 4][489] of the Human Rights Act 1993, or an employee of the Commission; or
+        *   (v) a member of the Human Rights Commission continued by [section 4][490] of the Human Rights Act 1993, or an employee of the Commission; or
         
         *   (vi) a member of the Independent Police Conduct Authority; or
         
@@ -4312,13 +4314,13 @@ Corrections system
     
     (2) An authorised person may disclose a prisoner call if the authorised person believes on reasonable grounds that the disclosure---
         
-    *   (a) is necessary to avoid prejudice to the maintenance of the law by a public sector agency (within the meaning of the [Privacy Act 1993][485]), including the prevention, detection, investigation, prosecution, and punishment of offences; or
+    *   (a) is necessary to avoid prejudice to the maintenance of the law by a public sector agency (within the meaning of the [Privacy Act 1993][486]), including the prevention, detection, investigation, prosecution, and punishment of offences; or
     
     *   (b) is necessary for the conduct of proceedings (already commenced or reasonably in contemplation) before a court or tribunal; or
     
     *   (c) is necessary to prevent or lessen a serious and imminent threat to public health, public safety, or the life or health of any person; or
     
-    *   (d) has been authorised by the Privacy Commissioner under [section 54(1)][486] of the Privacy Act 1993\.
+    *   (d) has been authorised by the Privacy Commissioner under [section 54(1)][487] of the Privacy Act 1993\.
     
     (3) An authorised person may disclose a prisoner call to the prisoner concerned.
     
@@ -4332,7 +4334,7 @@ Corrections system
 
 ##### 118 Restrictions on disclosure of information
     
-*   (1) An authorised person must not knowingly disclose a prisoner call otherwise than under [section 117][161] or in accordance with the [Privacy Act 1993][485].
+*   (1) An authorised person must not knowingly disclose a prisoner call otherwise than under [section 117][161] or in accordance with the [Privacy Act 1993][486].
     
     (2) An authorised person who is listening to a prisoner call must not knowingly allow any other person to listen to it, except under [section 117][161].
     
@@ -4344,7 +4346,7 @@ Corrections system
 
 ##### 119 Application of Privacy Act 1993
     
-*   The [Privacy Act 1993][485] applies to the monitoring of prisoner calls under [sections 112 to 122][156].
+*   The [Privacy Act 1993][486] applies to the monitoring of prisoner calls under [sections 112 to 122][156].
     
     Compare: 1954 No 51 s 21V
 
@@ -4360,7 +4362,7 @@ Corrections system
         
         *   (iii) required for evidence in a prosecution or possible prosecution for an offence, or in disciplinary proceedings, or in proceedings against a prisoner for a disciplinary offence; or
         
-        *   (iv) required to be disclosed under the [Privacy Act 1993][485]; or
+        *   (iv) required to be disclosed under the [Privacy Act 1993][486]; or
         
         
     
@@ -4368,13 +4370,13 @@ Corrections system
     
     (1A) If a recording of a prisoner call is held by the chief executive for any reason specified in subsection (1)(a), the chief executive must, as soon as he or she is satisfied that the information contained in the recording is no longer likely to be required for that reason, take all practicable steps to ensure the recording is destroyed or completely erased.
     
-    (2) Despite subsection (1), if the Privacy Commissioner has notified the chief executive in writing that a complaint has been made under the [Privacy Act 1993][485] in relation to the recording, the recording must not be destroyed or erased in accordance with that subsection until the Privacy Commissioner has notified the chief executive in writing that the complaint has---
+    (2) Despite subsection (1), if the Privacy Commissioner has notified the chief executive in writing that a complaint has been made under the [Privacy Act 1993][486] in relation to the recording, the recording must not be destroyed or erased in accordance with that subsection until the Privacy Commissioner has notified the chief executive in writing that the complaint has---
         
     *   (a) not been proceeded with; or
     
     *   (b) been finally disposed of.
     
-    (3) The Commissioner of Police or, as the case may be, the chief executive of a department of State specified in [Schedule 1][490] of the State Sector Act 1988 must take all practicable steps to ensure that every recording of a prisoner call held by the Police or that department that was obtained by the monitoring of the call under this Act is destroyed, or completely erased, as soon as it appears that no proceedings or disciplinary proceedings (or no further proceedings or disciplinary proceedings) will be taken in which any information contained in it would be likely to be required to be produced in evidence.
+    (3) The Commissioner of Police or, as the case may be, the chief executive of a department of State specified in [Schedule 1][491] of the State Sector Act 1988 must take all practicable steps to ensure that every recording of a prisoner call held by the Police or that department that was obtained by the monitoring of the call under this Act is destroyed, or completely erased, as soon as it appears that no proceedings or disciplinary proceedings (or no further proceedings or disciplinary proceedings) will be taken in which any information contained in it would be likely to be required to be produced in evidence.
     
     (4) Nothing in subsections (1) and (3) applies to any record of any information adduced in proceedings in any court or tribunal.
     
@@ -4390,9 +4392,9 @@ Corrections system
     
     Compare: 1954 No 51 s 21W
     
-    Section 120(1): replaced, on 4 June 2013, by [section 31][491] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 120(1): replaced, on 4 June 2013, by [section 31][492] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 120(1A): inserted, on 4 June 2013, by [section 31][491] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 120(1A): inserted, on 4 June 2013, by [section 31][492] of the Corrections Amendment Act 2013 (2013 No 5).
 
 ##### 121 Notice to be given of intention to produce evidence of recording
     
@@ -4418,7 +4420,7 @@ Corrections system
     
     *   (b) but for the monitoring, would have been privileged by virtue of---
             
-        *   (i) any provision of [Part 3][492] of the Evidence Amendment Act (No 2) 1980; or
+        *   (i) any provision of [Part 3][493] of the Evidence Amendment Act (No 2) 1980; or
         
         *   (ii) any rule of law conferring privilege on communications of a professional character between a barrister or solicitor and a client.
         
@@ -4478,13 +4480,13 @@ Corrections system
     
     Compare: 1954 No 51 ss 36BB, 45(22)--(23A)
     
-    Section 124(1): amended, on 5 March 2013, by [section 32(1)][493] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 124(1): amended, on 5 March 2013, by [section 32(1)][494] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 124(2)(a): amended, on 5 March 2013, by [section 32(2)][493] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 124(2)(a): amended, on 5 March 2013, by [section 32(2)][494] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 124(2)(c)(i): amended, on 3 April 2009, by [section 20(1)][494] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 124(2)(c)(i): amended, on 3 April 2009, by [section 20(1)][495] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 124(2)(d): added, on 3 April 2009, by [section 20(2)][494] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 124(2)(d): added, on 3 April 2009, by [section 20(2)][495] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ##### 125 Obligations of persons carrying out procedure
     
@@ -4510,7 +4512,7 @@ Corrections system
     
     Compare: 1954 No 51 s 36BB(4)
     
-    Section 125(a)(iii): amended, on 4 June 2013, by [section 33][495] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 125(a)(iii): amended, on 4 June 2013, by [section 33][496] of the Corrections Amendment Act 2013 (2013 No 5).
 
 ##### 126 Prisoner must be informed of result of procedure
     
@@ -4588,7 +4590,7 @@ Corrections system
     
     Compare: 1954 No 51 s 32(1), (2)
     
-    Section 128(1)(d): amended, on 3 April 2009, by [section 21][496] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 128(1)(d): amended, on 3 April 2009, by [section 21][497] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ##### 129 Offences by prisoners relating to drugs, alcohol, and smoking
     
@@ -4616,15 +4618,15 @@ Corrections system
     
     Compare: 1954 No 51 s 32A(1)
     
-    Section 129 heading: amended, on 5 March 2013, by [section 34(2)][497] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 129 heading: amended, on 5 March 2013, by [section 34(2)][498] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 129(a): amended, on 4 June 2013, by [section 34(1)][497] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 129(a): amended, on 4 June 2013, by [section 34(1)][498] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 129(a): amended, on 3 April 2009, by [section 22][498] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 129(a): amended, on 3 April 2009, by [section 22][499] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 129(aa): inserted, on 5 March 2013, by [section 34(3)][497] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 129(aa): inserted, on 5 March 2013, by [section 34(3)][498] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 129(c): replaced, on 4 June 2013, by [section 34(4)][497] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 129(c): replaced, on 4 June 2013, by [section 34(4)][498] of the Corrections Amendment Act 2013 (2013 No 5).
 
 ##### 130 Offences committed by persons while on temporary release from custody under section 62
     
@@ -4638,7 +4640,7 @@ Corrections system
     
     Compare: 1954 No 51 s 32A(2)--(4)
     
-    Section 130(1): amended, on 4 June 2013, by [section 35][499] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 130(1): amended, on 4 June 2013, by [section 35][500] of the Corrections Amendment Act 2013 (2013 No 5).
 
 ##### 131 Attempting or aiding commission of offence against discipline
     
@@ -4694,11 +4696,11 @@ Corrections system
     
     Compare: 1954 No 51 s 34(1)--(3)
     
-    Section 133(3)(a): amended, on 4 June 2013, by [section 36(1)][500] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 133(3)(a): amended, on 4 June 2013, by [section 36(1)][501] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 133(3A): inserted, on 4 June 2013, by [section 36(2)][500] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 133(3A): inserted, on 4 June 2013, by [section 36(2)][501] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 133(4)(a): substituted, on 3 April 2009, by [section 23][501] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 133(4)(a): substituted, on 3 April 2009, by [section 23][502] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ##### 134 Decision as to who is to hear charge
     
@@ -4814,11 +4816,11 @@ Corrections system
     
     Compare: 1954 No 51 s 33
     
-    Section 137(3)(a): amended, on 4 June 2013, by [section 37(1)][502] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 137(3)(a): amended, on 4 June 2013, by [section 37(1)][503] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 137(3A): inserted, on 4 June 2013, by [section 37(2)][502] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 137(3A): inserted, on 4 June 2013, by [section 37(2)][503] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 137(4)(a): substituted, on 3 April 2009, by [section 24][503] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 137(4)(a): substituted, on 3 April 2009, by [section 24][504] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ##### 138 Reference of case from Visiting Justice to hearing adjudicator
     
@@ -4898,33 +4900,33 @@ Corrections system
     
     Compare: 1954 No 51 s 44(1), (2)
     
-    Section 141 heading: amended, on 3 April 2009, by [section 25(1)][504] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 141 heading: amended, on 3 April 2009, by [section 25(1)][505] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 141(1): amended, on 3 April 2009, by [section 25(2)(a)][504] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 141(1): amended, on 3 April 2009, by [section 25(2)(a)][505] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 141(1): amended, on 3 April 2009, by [section 25(2)(b)][504] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 141(1): amended, on 3 April 2009, by [section 25(2)(b)][505] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 141(1)(e): amended, on 3 April 2009, by [section 25(3)][504] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 141(1)(e): amended, on 3 April 2009, by [section 25(3)][505] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 141(1)(f): amended, on 3 April 2009, by [section 25(4)][504] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 141(1)(f): amended, on 3 April 2009, by [section 25(4)][505] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 141(1)(g): substituted, on 3 April 2009, by [section 25(5)][504] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 141(1)(g): substituted, on 3 April 2009, by [section 25(5)][505] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 141(1)(h): added, on 3 April 2009, by [section 25(5)][504] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 141(1)(h): added, on 3 April 2009, by [section 25(5)][505] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 141(1A): inserted, on 3 April 2009, by [section 25(6)][504] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 141(1A): inserted, on 3 April 2009, by [section 25(6)][505] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 141(1B): inserted, on 3 April 2009, by [section 25(6)][504] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 141(1B): inserted, on 3 April 2009, by [section 25(6)][505] of the Corrections Amendment Act 2009 (2009 No 3).
     
     Section 141(1B): amended, on 1 July 2013, by [section 6][414] of the Corrections Amendment Act 2011 (2011 No 84).
     
-    Section 141(1C): inserted, on 3 April 2009, by [section 25(6)][504] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 141(1C): inserted, on 3 April 2009, by [section 25(6)][505] of the Corrections Amendment Act 2009 (2009 No 3).
     
     Section 141(1C): amended, on 1 July 2013, by [section 6][414] of the Corrections Amendment Act 2011 (2011 No 84).
     
-    Section 141(3): amended, on 3 April 2009, by [section 25(7)(a)][504] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 141(3): amended, on 3 April 2009, by [section 25(7)(a)][505] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 141(3): amended, on 3 April 2009, by [section 25(7)(b)][504] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 141(3): amended, on 3 April 2009, by [section 25(7)(b)][505] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ##### 141A Unauthorised use or possession of electronic communication device by prisoner
     
@@ -4936,7 +4938,7 @@ Corrections system
     
     (2) A prisoner who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 3 months, to a fine not exceeding $5,000, or to both.
     
-    Section 141A: inserted, on 3 April 2009, by [section 26][505] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 141A: inserted, on 3 April 2009, by [section 26][506] of the Corrections Amendment Act 2009 (2009 No 3).
     
     Section 141A(2): amended, on 1 July 2013, by [section 6][414] of the Corrections Amendment Act 2011 (2011 No 84).
 
@@ -4974,17 +4976,17 @@ Corrections system
     
     Compare: 1954 No 51 s 44(2A), (2B)
     
-    Section 143(1): amended, on 3 April 2009, by [section 27(1)][506] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 143(1): amended, on 3 April 2009, by [section 27(1)][507] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 143(2A): inserted, on 3 April 2009, by [section 27(2)][506] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 143(2A): inserted, on 3 April 2009, by [section 27(2)][507] of the Corrections Amendment Act 2009 (2009 No 3).
     
     Section 143(2A): amended, on 1 July 2013, by [section 6][414] of the Corrections Amendment Act 2011 (2011 No 84).
     
-    Section 143(2B): inserted, on 3 April 2009, by [section 27(2)][506] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 143(2B): inserted, on 3 April 2009, by [section 27(2)][507] of the Corrections Amendment Act 2009 (2009 No 3).
     
     Section 143(2B): amended, on 1 July 2013, by [section 6][414] of the Corrections Amendment Act 2011 (2011 No 84).
     
-    Section 143(3)(a): amended, on 3 April 2009, by [section 27(3)][506] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 143(3)(a): amended, on 3 April 2009, by [section 27(3)][507] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ##### 144 Pretending to be security officer or employee of department
     
@@ -5012,11 +5014,11 @@ Corrections system
     
     Compare: 1954 s 21U(5)
     
-    Section 146 heading: amended, on 3 April 2009, by [section 28(1)][507] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 146 heading: amended, on 3 April 2009, by [section 28(1)][508] of the Corrections Amendment Act 2009 (2009 No 3).
     
     Section 146: amended, on 1 July 2013, by [section 6][414] of the Corrections Amendment Act 2011 (2011 No 84).
     
-    Section 146: amended, on 3 April 2009, by [section 28(2)][507] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 146: amended, on 3 April 2009, by [section 28(2)][508] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ##### 147 Injuring, interfering with, or obstructing dog used for searching
     
@@ -5046,7 +5048,7 @@ Corrections system
     
     *   (b) in the case of a body corporate, to a fine not exceeding $50,000\.
     
-    Compare: 2002 No 33 [ss 101][508], [104][509]
+    Compare: 2002 No 33 [ss 101][509], [104][510]
     
     Section 148(4): amended, on 1 July 2013, by [section 6][414] of the Corrections Amendment Act 2011 (2011 No 84).
 
@@ -5078,7 +5080,7 @@ Corrections system
     
     Section 150(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][396] of the Policing Act 2008 (2008 No 72).
     
-    Section 150(3): added, on 3 April 2009, by [section 29][510] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 150(3): added, on 3 April 2009, by [section 29][511] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ### Subpart 6---Complaints, investigations, and inspections
 
@@ -5172,7 +5174,7 @@ Corrections system
             
             *   (C) serving a sentence of community detention:
             
-            *   (D) on parole subject to residential restrictions imposed under [section 15][511] of the Parole Act 2002; or
+            *   (D) on parole subject to residential restrictions imposed under [section 15][512] of the Parole Act 2002; or
             
             
         
@@ -5262,7 +5264,7 @@ Corrections system
     
     *   (d) any other matter that the Chief Ombudsman and the chief executive agree should be included in a protocol.
     
-    (2) Subsection (1) does not limit the powers of the ombudsmen under the [Ombudsmen Act 1975][512].
+    (2) Subsection (1) does not limit the powers of the ombudsmen under the [Ombudsmen Act 1975][513].
 
 ### Subpart 7---Miscellaneous
 
@@ -5298,9 +5300,9 @@ Corrections system
 
 ##### 162A Crimes of Torture Act 1989 not limited
     
-*   Nothing in this Act limits the operation of [Part 2][513] of the Crimes of Torture Act 1989\.
+*   Nothing in this Act limits the operation of [Part 2][514] of the Crimes of Torture Act 1989\.
     
-    Section 162A: inserted, on 5 December 2006, by [section 9][514] of the Crimes of Torture Amendment Act 2006 (2006 No 68).
+    Section 162A: inserted, on 5 December 2006, by [section 9][515] of the Crimes of Torture Amendment Act 2006 (2006 No 68).
 
 #### Identification of certain persons
 
@@ -5328,7 +5330,7 @@ Corrections system
 
 #### Health records
     
-*   Heading: replaced, on 4 June 2013, by [section 38][515] of the Corrections Amendment Act 2013 (2013 No 5).
+*   Heading: replaced, on 4 June 2013, by [section 38][516] of the Corrections Amendment Act 2013 (2013 No 5).
 
 ##### 165 Health records
     
@@ -5342,7 +5344,7 @@ Corrections system
     
     *   (c) the health record of any prisoner or former prisoner at the prison is not treated as part of the prison records of that prisoner or former prisoner, as the case may be.
     
-    Section 165: replaced, on 4 June 2013, by [section 38][515] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 165: replaced, on 4 June 2013, by [section 38][516] of the Corrections Amendment Act 2013 (2013 No 5).
 
 #### Escort services and courtroom custodial services
 
@@ -5400,9 +5402,9 @@ Corrections system
         
     *   (a) comply with the requirements of this Act, any regulations made under this Act, and any instructions issued under [section 196][290] in so far as those requirements are applicable to the services to be provided by the security contractor under the contract, and take into account any guidelines issued under section 196; and
     
-    *   (b) comply with the requirements of the [New Zealand Bill of Rights Act 1990][516], as if the security contractor and any security officers employed by the security contractor were employees of the chief executive; and
+    *   (b) comply with the requirements of the [New Zealand Bill of Rights Act 1990][517], as if the security contractor and any security officers employed by the security contractor were employees of the chief executive; and
     
-    *   (c) comply with the requirements of [sections 56(1) and (2)][517] and [58(1) and (3)][518] of the State Sector Act 1988 (which relate to personnel and equal employment policies), as if the security contractor were the chief executive of a department within the meaning of that Act.
+    *   (c) comply with the requirements of [sections 56(1) and (2)][518] and [58(1) and (3)][519] of the State Sector Act 1988 (which relate to personnel and equal employment policies), as if the security contractor were the chief executive of a department within the meaning of that Act.
     
     (4) A security contract may contain any other provision that is agreed between the chief executive and the security contractor that is not inconsistent with---
         
@@ -5544,35 +5546,35 @@ Corrections system
 
 ##### 175 Application of Ombudsmen Act 1975 and Official Information Act 1982 to contract prisons, security contractors, and security officers
     
-*   (1) For the purposes of the [Ombudsmen Act 1975][512] and the [Official Information Act 1982][519], every contract prison is to be treated as part of the department.
+*   (1) For the purposes of the [Ombudsmen Act 1975][513] and the [Official Information Act 1982][520], every contract prison is to be treated as part of the department.
     
-    (2) In relation to the carrying out of escort duties and courtroom custodial duties under this Act, every security contractor, and every security officer employed by a security contractor, is to be treated, for the purposes of the [Ombudsmen Act 1975][512] and the [Official Information Act 1982][519], as an employee of the department.
+    (2) In relation to the carrying out of escort duties and courtroom custodial duties under this Act, every security contractor, and every security officer employed by a security contractor, is to be treated, for the purposes of the [Ombudsmen Act 1975][513] and the [Official Information Act 1982][520], as an employee of the department.
     
     Compare: 1954 No 51 s 41C
 
 ##### 176 Application of New Zealand Bill of Rights Act 1990 to contract prisons, security contractors, and security officers
     
-*   (1) For the purposes of [section 3][520] of the New Zealand Bill of Rights Act 1990, acts done by staff members of a contract prison are to be treated as acts done by the executive branch of the Government of New Zealand.
+*   (1) For the purposes of [section 3][521] of the New Zealand Bill of Rights Act 1990, acts done by staff members of a contract prison are to be treated as acts done by the executive branch of the Government of New Zealand.
     
-    (2) In relation to the carrying out of escort duties and courtroom custodial duties under this Act, acts done by security contractors, or security officers employed by security contractors, are to be treated, for the purposes of [section 3][520] of the New Zealand Bill of Rights Act 1990, as acts done by the executive branch of the Government of New Zealand.
+    (2) In relation to the carrying out of escort duties and courtroom custodial duties under this Act, acts done by security contractors, or security officers employed by security contractors, are to be treated, for the purposes of [section 3][521] of the New Zealand Bill of Rights Act 1990, as acts done by the executive branch of the Government of New Zealand.
     
     Compare: 1954 No 51 s 41E
 
 ##### 177 Application of Public Works Act 1981
     
-*   For the purposes of the [Public Works Act 1981][521], the construction, management, operation, and maintenance of a prison or community work centre, including the acquisition of land and buildings, or an estate or interest in land, for that purpose, is a Government work and a public work within the meaning of that Act, whether or not the prison or community work centre, or proposed prison or community work centre, is, or is to be, constructed, managed, operated, or maintained by the Crown.
+*   For the purposes of the [Public Works Act 1981][522], the construction, management, operation, and maintenance of a prison or community work centre, including the acquisition of land and buildings, or an estate or interest in land, for that purpose, is a Government work and a public work within the meaning of that Act, whether or not the prison or community work centre, or proposed prison or community work centre, is, or is to be, constructed, managed, operated, or maintained by the Crown.
     
     Compare: 1954 No 51 s 41D
 
 ##### 178 Application of Resource Management Act 1991
     
-*   For the purposes of [Part 8][522] of the Resource Management Act 1991, the construction, management, operation, and maintenance of a prison (other than a Police jail) or community work centre is to be treated as a public work for which the Minister has financial responsibility, whether or not the prison or community work centre, or proposed prison or community work centre, is, or is to be, constructed, managed, operated, or maintained by the Crown.
+*   For the purposes of [Part 8][523] of the Resource Management Act 1991, the construction, management, operation, and maintenance of a prison (other than a Police jail) or community work centre is to be treated as a public work for which the Minister has financial responsibility, whether or not the prison or community work centre, or proposed prison or community work centre, is, or is to be, constructed, managed, operated, or maintained by the Crown.
     
     Compare: 1954 No 51 s 41F
 
 ##### 179 Application of certain Acts to various office holders
     
-*   No person is deemed to be employed in the service of the Crown for the purposes of the [State Sector Act 1988][409] or the [Government Superannuation Fund Act 1956][523] by reason only---
+*   No person is deemed to be employed in the service of the Crown for the purposes of the [State Sector Act 1988][409] or the [Government Superannuation Fund Act 1956][524] by reason only---
         
     *   (a) of that person's appointment or engagement under [section 11(2) or (4)][16], [section 17(2)][22], or [section 24(2)][31]; or
     
@@ -5586,33 +5588,33 @@ Corrections system
 
 #### Status of certain rules and regulations relating to smoking in prisons
     
-*   Heading: inserted, on 5 March 2013, by [section 39][524] of the Corrections Amendment Act 2013 (2013 No 5).
+*   Heading: inserted, on 5 March 2013, by [section 39][525] of the Corrections Amendment Act 2013 (2013 No 5).
 
 ##### 179AA Status of certain rules and regulations relating to smoking in prisons
     
-*   (1) On and from 12 February 2013, the following rules and regulations must be treated as if they were made after [Part 3][525] of the Corrections Amendment Act 2013 came into force:
+*   (1) On and from 12 February 2013, the following rules and regulations must be treated as if they were made after [Part 3][526] of the Corrections Amendment Act 2013 came into force:
         
     *   (a) any rule made before 12 February 2013 by a prison manager under [section 33][43] that forbids prisoners to smoke tobacco or any other substance, or forbids prisoners to possess tobacco or any tobacco-related item; and
     
-    *   (b) [regulations 4][526] and [6][527] of the Corrections Amendment Regulations 2012\.
+    *   (b) [regulations 4][527] and [6][528] of the Corrections Amendment Regulations 2012\.
     
     (2) On and from 12 February 2013, no proceedings may be brought against the Crown questioning the validity of any rules or regulations referred to in subsection (1).
     
     (3) Nothing in this section affects proceedings commenced before 12 February 2013 to the extent that any relief sought or granted in those proceedings relates only to the period before 12 February 2013\.
     
-    Section 179AA: inserted, on 5 March 2013, by [section 39][524] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 179AA: inserted, on 5 March 2013, by [section 39][525] of the Corrections Amendment Act 2013 (2013 No 5).
 
 #### Emergency management
     
-*   Heading: inserted, on 3 April 2009, by [section 30][528] of the Corrections Amendment Act 2009 (2009 No 3).
+*   Heading: inserted, on 3 April 2009, by [section 30][529] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ##### 179A Detention of prisoners eligible for release during outbreak or spread of infectious disease
     
-*   (1) A prisoner who is eligible for release under the [Parole Act 2002][383] may be detained beyond his or her statutory release date in any part of the prison if that detention is pursuant to any order or requirement under [section 70][529] or [79][530] of the Health Act 1956\.
+*   (1) A prisoner who is eligible for release under the [Parole Act 2002][383] may be detained beyond his or her statutory release date in any part of the prison if that detention is pursuant to any order or requirement under [section 70][530] or [79][531] of the Health Act 1956\.
     
-    (2) In this section, _statutory release date_ has the meaning given to it in [section 4(1)][531] of the Parole Act 2002\.
+    (2) In this section, _statutory release date_ has the meaning given to it in [section 4(1)][532] of the Parole Act 2002\.
     
-    Section 179A: inserted, on 3 April 2009, by [section 30][528] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 179A: inserted, on 3 April 2009, by [section 30][529] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ##### 179B No compensation for detention in prison under Health Act 1956
     
@@ -5624,7 +5626,7 @@ Corrections system
     
     *   (b) affect any cause of action relating to unlawful arrest or detention.
     
-    Section 179B: inserted, on 3 April 2009, by [section 30][528] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 179B: inserted, on 3 April 2009, by [section 30][529] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ##### 179C Interpretation
     
@@ -5638,7 +5640,7 @@ Corrections system
     
     *   (b) in respect of which the chief executive reasonably believes that the corrections system is no longer able to fulfil its purpose in [section 5(1)(a)][6] in relation to the prison or prisoners affected
     
-    _epidemic notice_ means a notice under [section 5][532] of the Epidemic Preparedness Act 2006
+    _epidemic notice_ means a notice under [section 5][533] of the Epidemic Preparedness Act 2006
     
     _failure_ means any failure described in [section 179E(1)(b)][246]
     
@@ -5652,11 +5654,11 @@ Corrections system
     
     _state of emergency affecting a prison or prisoners_ means a state of emergency---
         
-    *   (a) within the meaning of [section 4][533] of the Civil Defence Emergency Management Act 2002; and
+    *   (a) within the meaning of [section 4][534] of the Civil Defence Emergency Management Act 2002; and
     
     *   (b) in respect of which the chief executive reasonably believes that the corrections system is no longer able to fulfil its purpose in [section 5(1)(a)][6] in relation to the prison or prisoners affected.
     
-    Section 179C: inserted, on 3 April 2009, by [section 30][528] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 179C: inserted, on 3 April 2009, by [section 30][529] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ##### 179D Notification of emergency
     
@@ -5690,13 +5692,13 @@ Corrections system
     
     *   (c) specify the actions taken in respect of the emergency.
     
-    Section 179D: inserted, on 3 April 2009, by [section 30][528] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 179D: inserted, on 3 April 2009, by [section 30][529] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ##### 179E Exclusion of liability while epidemic notice in force or during emergency
     
 *   (1) There is no cause of action against the Crown, a Minister of the Crown, an officer or employee of a Minister of the Crown, the chief executive, an employee of the department, a contractor, or an independent contractor, to recover damages for any harm or loss that is due directly or indirectly to---
         
-    *   (a) any act or omission by any person that occurs while carrying out his or her functions or duties or exercising his or her powers under a provision of this Act or the regulations that has been modified by Order in Council under the [Epidemic Preparedness Act 2006][534] while an epidemic notice is in force; or
+    *   (a) any act or omission by any person that occurs while carrying out his or her functions or duties or exercising his or her powers under a provision of this Act or the regulations that has been modified by Order in Council under the [Epidemic Preparedness Act 2006][535] while an epidemic notice is in force; or
     
     *   (b) any failure by any person to comply (or comply fully) with any provision of this Act or the regulations if---
             
@@ -5722,39 +5724,39 @@ Corrections system
         
     *   (a) prevents the Crown from making any _ex gratia_ payment it considers justifiable on the basis of hardship or fairness:
     
-    *   (b) limits the operation of [section 86][535] of the State Sector Act 1988:
+    *   (b) limits the operation of [section 86][536] of the State Sector Act 1988:
     
     *   (c) affects any cause of action relating to unlawful arrest or detention.
     
-    Section 179E: inserted, on 3 April 2009, by [section 30][528] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 179E: inserted, on 3 April 2009, by [section 30][529] of the Corrections Amendment Act 2009 (2009 No 3).
 
 #### Disclosure of prisoner information
     
-*   Heading: substituted, on 9 April 2008, by [section 5][536] of the Corrections (Social Assistance) Amendment Act 2008 (2008 No 24).
+*   Heading: substituted, on 9 April 2008, by [section 5][537] of the Corrections (Social Assistance) Amendment Act 2008 (2008 No 24).
 
 ##### 180 Purpose of section 180A
     
 *   (1) The purpose of [section 180A][249] is to facilitate the disclosure of information, by the chief executive to the requesting department, for the purposes of the operation of all or any of the following provisions:
         
-    *   (a) [section 76(1)][537] of the Social Security Act 1964 (under which a benefit is, in general, not payable in respect of any period during which a beneficiary is imprisoned or detained in, or is an escaper from, a prison, pursuant to a sentence of imprisonment):
+    *   (a) [section 76(1)][538] of the Social Security Act 1964 (under which a benefit is, in general, not payable in respect of any period during which a beneficiary is imprisoned or detained in, or is an escaper from, a prison, pursuant to a sentence of imprisonment):
     
-    *   (b) [sections 86][538] and [86A][539] of the Social Security Act 1964 (which provide for the recovery of debts due to the Crown within the meaning of [section 85A][540] of that Act):
+    *   (b) [sections 86][539] and [86A][540] of the Social Security Act 1964 (which provide for the recovery of debts due to the Crown within the meaning of [section 85A][541] of that Act):
     
-    *   (c) [section 307B][541] of the Education Act 1989 (which provides for the recovery of debts in respect of the payment to a person of allowances, student loans, or other money to which he or she was not, or is no longer, entitled):
+    *   (c) [section 307B][542] of the Education Act 1989 (which provides for the recovery of debts in respect of the payment to a person of allowances, student loans, or other money to which he or she was not, or is no longer, entitled):
     
-    *   (d) [regulation 28][542] of the Student Allowances Regulations 1998 (under which a student imprisoned or detained in a prison, pursuant to a sentence of imprisonment is not entitled to receive any payment under those regulations in respect of any period of any such imprisonment):
+    *   (d) [regulation 28][543] of the Student Allowances Regulations 1998 (under which a student imprisoned or detained in a prison, pursuant to a sentence of imprisonment is not entitled to receive any payment under those regulations in respect of any period of any such imprisonment):
     
     *   (e) [section 180C][251].
     
     (2) _Requesting department_, in subsection (1) and [sections 180A][249] and [180C][251], means---
         
-    *   (a) the department for the time being responsible for the administration of the [Social Security Act 1964][543], in relation to information requested for the purposes of the operation of a provision of that Act:
+    *   (a) the department for the time being responsible for the administration of the [Social Security Act 1964][544], in relation to information requested for the purposes of the operation of a provision of that Act:
     
-    *   (b) the department for the time being responsible for the administration of [Part 25][544] of the Education Act 1989, in relation to information requested for the purposes of the operation of [section 307B][541] of that Act, or [regulation 28][542] of the Student Allowances Regulations 1998\.
+    *   (b) the department for the time being responsible for the administration of [Part 25][545] of the Education Act 1989, in relation to information requested for the purposes of the operation of [section 307B][542] of that Act, or [regulation 28][543] of the Student Allowances Regulations 1998\.
     
     Compare: 1954 No 51 s 36F
     
-    Section 180: substituted, on 9 April 2008, by [section 5][536] of the Corrections (Social Assistance) Amendment Act 2008 (2008 No 24).
+    Section 180: substituted, on 9 April 2008, by [section 5][537] of the Corrections (Social Assistance) Amendment Act 2008 (2008 No 24).
 
 ##### 180A Prisoner information may be disclosed for social assistance purposes
     
@@ -5774,7 +5776,7 @@ Corrections system
     
     Compare: 1954 No 51 s 36F
     
-    Section 180A: inserted, on 9 April 2008, by [section 5][536] of the Corrections (Social Assistance) Amendment Act 2008 (2008 No 24).
+    Section 180A: inserted, on 9 April 2008, by [section 5][537] of the Corrections (Social Assistance) Amendment Act 2008 (2008 No 24).
 
 ##### 180B Information that may be requested and disclosed
     
@@ -5788,7 +5790,7 @@ Corrections system
     
     Compare: 1954 No 51 s 36F
     
-    Section 180B: inserted, on 9 April 2008, by [section 5][536] of the Corrections (Social Assistance) Amendment Act 2008 (2008 No 24).
+    Section 180B: inserted, on 9 April 2008, by [section 5][537] of the Corrections (Social Assistance) Amendment Act 2008 (2008 No 24).
 
 ##### 180C Social assistance may be suspended immediately if discrepancy discovered
     
@@ -5804,27 +5806,27 @@ Corrections system
     
     (2) In this section and [section 180D][252],---
     
-    _adverse action_ has the same meaning as in [section 97][545] of the Privacy Act 1993
+    _adverse action_ has the same meaning as in [section 97][546] of the Privacy Act 1993
     
-    _allowance_ means an allowance established (whether established for the first time or continued) by regulations made under [section 303][546] of the Education Act 1989
+    _allowance_ means an allowance established (whether established for the first time or continued) by regulations made under [section 303][547] of the Education Act 1989
     
-    _benefit_ has the same meaning as in [section 3(1)][547] of the Social Security Act 1964
+    _benefit_ has the same meaning as in [section 3(1)][548] of the Social Security Act 1964
     
-    _discrepancy_ has the same meaning as in [section 97][545] of the Privacy Act 1993
+    _discrepancy_ has the same meaning as in [section 97][546] of the Privacy Act 1993
     
-    _student loan_ has the meaning given to it by [section 4(1)][548] of the Student Loan Scheme Act 2011
+    _student loan_ has the meaning given to it by [section 4(1)][549] of the Student Loan Scheme Act 2011
     
-    _working day_ has the same meaning as in [section 2(1)][549] of the Privacy Act 1993\.
+    _working day_ has the same meaning as in [section 2(1)][550] of the Privacy Act 1993\.
     
-    (3) A notice under subsection (1) may also be used to give the person concerned notice under [section 103(1)][550] of the Privacy Act 1993 in relation to some proposed adverse action other than the suspension or suspensions concerned; but in that case that section applies to the taking of that action.
+    (3) A notice under subsection (1) may also be used to give the person concerned notice under [section 103(1)][551] of the Privacy Act 1993 in relation to some proposed adverse action other than the suspension or suspensions concerned; but in that case that section applies to the taking of that action.
     
-    (4) Subsection (1) overrides [section 103(1)][550] of the Privacy Act 1993\.
+    (4) Subsection (1) overrides [section 103(1)][551] of the Privacy Act 1993\.
     
-    (5) Nothing in this section prevents any adverse action from being taken in respect of benefits, allowances, or student loans in accordance with [section 103(1)][550] of the Privacy Act 1993 instead of this section.
+    (5) Nothing in this section prevents any adverse action from being taken in respect of benefits, allowances, or student loans in accordance with [section 103(1)][551] of the Privacy Act 1993 instead of this section.
     
-    Section 180C: inserted, on 9 April 2008, by [section 5][536] of the Corrections (Social Assistance) Amendment Act 2008 (2008 No 24).
+    Section 180C: inserted, on 9 April 2008, by [section 5][537] of the Corrections (Social Assistance) Amendment Act 2008 (2008 No 24).
     
-    Section 180C(2) **student loan**: amended, on 1 April 2012, by [section 223][551] of the Student Loan Scheme Act 2011 (2011 No 62).
+    Section 180C(2) **student loan**: amended, on 1 April 2012, by [section 223][552] of the Student Loan Scheme Act 2011 (2011 No 62).
 
 ##### 180D Notice required by section 180C(1)(d)
     
@@ -5854,11 +5856,11 @@ Corrections system
     
     *   (b) in proving the delivery it is sufficient to prove that the letter was properly addressed and posted.
     
-    Section 180D: inserted, on 9 April 2008, by [section 5][536] of the Corrections (Social Assistance) Amendment Act 2008 (2008 No 24).
+    Section 180D: inserted, on 9 April 2008, by [section 5][537] of the Corrections (Social Assistance) Amendment Act 2008 (2008 No 24).
 
 #### Disclosure of offender information
     
-*   Heading: inserted, on 9 April 2008, by [section 6][552] of the Corrections (Social Assistance) Amendment Act 2008 (2008 No 24).
+*   Heading: inserted, on 9 April 2008, by [section 6][553] of the Corrections (Social Assistance) Amendment Act 2008 (2008 No 24).
 
 ##### 181 Offender information may be disclosed for immigration purposes
     
@@ -5902,13 +5904,13 @@ Corrections system
 
 #### Information sharing about highest-risk offenders
     
-*   Heading: inserted, on 3 April 2009, by [section 31][553] of the Corrections Amendment Act 2009 (2009 No 3).
+*   Heading: inserted, on 3 April 2009, by [section 31][554] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ##### 181A Disclosure of information relating to highest-risk offenders
     
-*   (1) A specified agency that enters into an information sharing agreement under [section 182D][554] (as modified by subsection (5)) with another specified agency is authorised to disclose to that agency any personal information about a highest-risk offender, but only if the disclosure is for, or relates to, a purpose listed in subsection (3).
+*   (1) A specified agency that enters into an information sharing agreement under [section 182D][555] (as modified by subsection (5)) with another specified agency is authorised to disclose to that agency any personal information about a highest-risk offender, but only if the disclosure is for, or relates to, a purpose listed in subsection (3).
     
-    (2) Nothing in subsection (1) limits the operation of the [Privacy Act 1993][485] or [section 182][257] of this Act.
+    (2) Nothing in subsection (1) limits the operation of the [Privacy Act 1993][486] or [section 182][257] of this Act.
     
     (3) The purposes for which personal information about highest-risk offenders may be disclosed under an information sharing agreement between specified agencies are---
         
@@ -5932,7 +5934,7 @@ Corrections system
     
     *   (b) the New Zealand Police:
     
-    *   (c) any public sector agency (as that term is defined in [section 2][549] of the Privacy Act 1993) that the Minister of Justice, after consultation with the Privacy Commissioner, identifies as a specified agency for the purposes of this section by notice in the _Gazette_.
+    *   (c) any public sector agency (as that term is defined in [section 2][550] of the Privacy Act 1993) that the Minister of Justice, after consultation with the Privacy Commissioner, identifies as a specified agency for the purposes of this section by notice in the _Gazette_.
     
     (5) [Sections 182D][262] and [182E][263] apply to information sharing agreements about highest-risk offenders as if every reference in those sections to a child sex offender were a reference to a highest-risk offender.
     
@@ -5940,7 +5942,7 @@ Corrections system
     
     (7) This section does not limit or affect any information sharing agreement under [section 182D][262] in relation to a child sex offender who is also a highest-risk offender.
     
-    Section 181A: inserted, on 3 April 2009, by [section 31][553] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 181A: inserted, on 3 April 2009, by [section 31][554] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ##### 182 Offender information may be disclosed to facilitate monitoring of persons on temporary release
     
@@ -5970,19 +5972,19 @@ Corrections system
     
     (6) \[Repealed\]
     
-    Section 182 heading: amended, on 3 April 2009, by [section 32(1)][555] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 182 heading: amended, on 3 April 2009, by [section 32(1)][556] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 182(1)(b): repealed, on 3 April 2009, by [section 32(2)][555] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 182(1)(b): repealed, on 3 April 2009, by [section 32(2)][556] of the Corrections Amendment Act 2009 (2009 No 3).
     
     Section 182(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][396] of the Policing Act 2008 (2008 No 72).
     
-    Section 182(3)(b): repealed, on 3 April 2009, by [section 32(3)][555] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 182(3)(b): repealed, on 3 April 2009, by [section 32(3)][556] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 182(4): repealed, on 3 April 2009, by [section 32(4)][555] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 182(4): repealed, on 3 April 2009, by [section 32(4)][556] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 182(5): amended, on 3 April 2009, by [section 32(5)][555] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 182(5): amended, on 3 April 2009, by [section 32(5)][556] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 182(6): repealed, on 3 April 2009, by [section 32(6)][555] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 182(6): repealed, on 3 April 2009, by [section 32(6)][556] of the Corrections Amendment Act 2009 (2009 No 3).
 
 #### Information sharing about child sex offenders
     
@@ -5992,7 +5994,7 @@ Corrections system
     
 *   (1) A specified agency that enters into an information sharing agreement under [section 182D][262] with another specified agency is authorised to disclose to that agency any personal information about a child sex offender, but only if the disclosure is for, or relates to, a purpose listed in subsection (3).
     
-    (2) Nothing in subsection (1) limits the operation of the [Privacy Act 1993][485] or [section 182][257] of this Act.
+    (2) Nothing in subsection (1) limits the operation of the [Privacy Act 1993][486] or [section 182][257] of this Act.
     
     (3) The purposes for which personal information about a child sex offender may be disclosed under an information sharing agreement between specified agencies are:
         
@@ -6008,17 +6010,17 @@ Corrections system
     
     Section 182A: inserted, on 7 July 2004, by [section 14(5)][367] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
     
-    Section 182A heading: amended, on 7 July 2004, by [section 32(1)][555] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 182A heading: amended, on 7 July 2004, by [section 32(1)][556] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
     
     Section 182A(3)(a): substituted, on 1 October 2007, by [section 58][401] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 182A(4): added, on 3 April 2009, by [section 33][556] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 182A(4): added, on 3 April 2009, by [section 33][557] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ##### 182B Definition of child sex offender
     
 *   (1) For the purposes of [section 182A][259], _child sex offender_ means a person who---
         
-    *   (a) has been convicted of a relevant offence as defined in [section 107B(1)][557] of the Parole Act 2002 (other than where the offence is one referred to in section 107B(3) (pornography offences)); and
+    *   (a) has been convicted of a relevant offence as defined in [section 107B(1)][558] of the Parole Act 2002 (other than where the offence is one referred to in section 107B(3) (pornography offences)); and
     
     *   (b) whose sentence for the relevant offence has not been quashed or otherwise set aside; and
     
@@ -6050,7 +6052,7 @@ Corrections system
     
     *   (e) the New Zealand Police:
     
-    *   (f) any public sector agency (as that term is defined in [section 2][549] of the Privacy Act 1993) that the Minister of Justice, after consultation with the Privacy Commissioner, identifies as a specified agency by notice in the _Gazette_.
+    *   (f) any public sector agency (as that term is defined in [section 2][550] of the Privacy Act 1993) that the Minister of Justice, after consultation with the Privacy Commissioner, identifies as a specified agency by notice in the _Gazette_.
     
     Section 182C: inserted, on 7 July 2004, by [section 14(5)][367] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
 
@@ -6064,7 +6066,7 @@ Corrections system
     
     *   (b) specify the manner in which the information may be disclosed; and
     
-    *   (c) set out how the information privacy principles, as set out in [section 6][558] of the Privacy Act 1993, will be complied with.
+    *   (c) set out how the information privacy principles, as set out in [section 6][559] of the Privacy Act 1993, will be complied with.
     
     (3) Before an information sharing agreement is concluded, reviewed, or substantially amended, the specified agencies concerned must consult with the Privacy Commissioner.
     
@@ -6132,7 +6134,7 @@ Corrections system
         
     *   (a) must have regard to any behaviour of the applicant that directly or indirectly contributed to the loss or damage, and to any failure by the applicant to take reasonable steps to avoid or mitigate the loss or damage; and
     
-    *   (b) must deduct any payments received by the applicant by way of compensation or damages from the escaper or any person on the escaper's behalf, or under the [Injury Prevention, Rehabilitation, and Compensation Act 2001][559], in respect of the loss or damage; and
+    *   (b) must deduct any payments received by the applicant by way of compensation or damages from the escaper or any person on the escaper's behalf, or under the [Injury Prevention, Rehabilitation, and Compensation Act 2001][560], in respect of the loss or damage; and
     
     *   (c) must deduct any payments received by, or payable to, the applicant under any policy of insurance in respect of the property; and
     
@@ -6166,7 +6168,7 @@ Corrections system
     
     Compare: 1954 No 51 s 41A(8), (10)
     
-    Section 187(2)(c): amended, on 25 January 2005, pursuant to [section 65R(3)][560] of the Public Finance Act 1989 (1989 No 44).
+    Section 187(2)(c): amended, on 25 January 2005, pursuant to [section 65R(3)][561] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 188 Hearing of claims
     
@@ -6210,17 +6212,17 @@ Corrections system
 
 #### Detection, interception, etc, of radiocommunications within prison boundaries
     
-*   Heading: inserted, on 3 April 2009, by [section 34][561] of the Corrections Amendment Act 2009 (2009 No 3).
+*   Heading: inserted, on 3 April 2009, by [section 34][562] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ##### 189A Interpretation
     
 *   In this section and [sections 189B][276] and [189C][277], unless the context otherwise requires,---
     
-    _harmful interference_ has the meaning given to it in [section 2(1)][562] of the Radiocommunications Act 1989
+    _harmful interference_ has the meaning given to it in [section 2(1)][563] of the Radiocommunications Act 1989
     
-    _interference_ has the meaning given to it in [section 2(1)][562] of the Radiocommunications Act 1989
+    _interference_ has the meaning given to it in [section 2(1)][563] of the Radiocommunications Act 1989
     
-    _radiocommunications_ has the meaning given to it in [section 2(1)][562] of the Radiocommunications Act 1989
+    _radiocommunications_ has the meaning given to it in [section 2(1)][563] of the Radiocommunications Act 1989
     
     _unauthorised electronic communication_---
         
@@ -6228,7 +6230,7 @@ Corrections system
     
     *   (b) includes any electronic communication received on an electronic communication device that the prisoner uses or possesses in contravention of that section.
     
-    Section 189A: inserted, on 3 April 2009, by [section 34][561] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 189A: inserted, on 3 April 2009, by [section 34][562] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ##### 189B Detection, interception, etc, of radiocommunications within prison boundaries
     
@@ -6238,7 +6240,7 @@ Corrections system
     
     *   (b) no interference may be made under this section that would result in harmful interference outside prison boundaries.
     
-    Section 189B: inserted, on 3 April 2009, by [section 34][561] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 189B: inserted, on 3 April 2009, by [section 34][562] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ##### 189C Recordings of unauthorised communications
     
@@ -6248,11 +6250,11 @@ Corrections system
     
     *   (b) to the chief executive or any other employee of the department.
     
-    Section 189C: inserted, on 3 April 2009, by [section 34][561] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 189C: inserted, on 3 April 2009, by [section 34][562] of the Corrections Amendment Act 2009 (2009 No 3).
 
 #### Information associated with seized electronic communication devices
     
-*   Heading: inserted, on 4 June 2013, by [section 40][563] of the Corrections Amendment Act 2013 (2013 No 5).
+*   Heading: inserted, on 4 June 2013, by [section 40][564] of the Corrections Amendment Act 2013 (2013 No 5).
 
 ##### 189D Chief executive may require electronic communications company to provide information to access contents of seized device
     
@@ -6268,13 +6270,13 @@ Corrections system
     
     _electronic communications company_ means any person who provides any service in New Zealand that enables or facilitates electronic communication devices to communicate with each other.
     
-    Section 189D: inserted, on 4 June 2013, by [section 40][563] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 189D: inserted, on 4 June 2013, by [section 40][564] of the Corrections Amendment Act 2013 (2013 No 5).
 
 #### Annual report of department
 
 ##### 190 Matters to be included in annual report
     
-*   (1) The department's annual report under [section 43][564] of the Public Finance Act 1989 must---
+*   (1) The department's annual report under [section 43][565] of the Public Finance Act 1989 must---
         
     *   (a) include a report on the way in which the chief executive has carried out his or her functions under [section 8(1)(k)][12] and the way in which prison managers have undertaken their functions under [section 12(d)][17], during the year to which the report relates; and
     
@@ -6338,11 +6340,11 @@ Corrections system
     
     Compare: 1954 No 51 ss 4K, 36ZI
     
-    Section 190(1): amended, on 25 January 2005, by [section 37(1)][565] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 190(1): amended, on 25 January 2005, by [section 37(1)][566] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 190(1)(b)(i): amended, on 15 December 2005, by [section 5][566] of the Corrections Amendment Act 2005 (2005 No 97).
+    Section 190(1)(b)(i): amended, on 15 December 2005, by [section 5][567] of the Corrections Amendment Act 2005 (2005 No 97).
     
-    Section 190(3)(a)(i): amended, on 5 March 2013, by [section 41][567] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 190(3)(a)(i): amended, on 5 March 2013, by [section 41][568] of the Corrections Amendment Act 2013 (2013 No 5).
     
     Section 190(3)(a)(i): amended, on 8 December 2009, by [section 8(1)][394] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
     
@@ -6358,9 +6360,9 @@ Corrections system
     
     (2) In approving any contribution, the Minister may impose any conditions that the Minister thinks fit with respect to its expenditure and accounting for that expenditure.
     
-    Compare: 1985 No 120 [s 147][568]
+    Compare: 1985 No 120 [s 147][569]
     
-    Section 190A: inserted, on 1 July 2013, by [section 5][569] of the Corrections Amendment Act 2011 (2011 No 84).
+    Section 190A: inserted, on 1 July 2013, by [section 5][570] of the Corrections Amendment Act 2011 (2011 No 84).
 
 #### Requisitioning of land and buildings for use as temporary corrections prisons
 
@@ -6368,7 +6370,7 @@ Corrections system
     
 *   (1) This section applies if---
         
-    *   (a) a state of emergency is in force under the [Civil Defence Emergency Management Act 2002][570] or there is an emergency (within the meaning of [section 4][533] of that Act); and
+    *   (a) a state of emergency is in force under the [Civil Defence Emergency Management Act 2002][571] or there is an emergency (within the meaning of [section 4][534] of that Act); and
     
     *   (b) in the opinion of the Minister the action authorised by this section is necessary for the safe custody and welfare of prisoners because 1 or more prisons are unable to operate as a prison as a result of the state of emergency or emergency as the case may be.
     
@@ -6384,11 +6386,11 @@ Corrections system
     
     (7) Any land or building that is subject to a direction under this section may only be used as a prison in accordance with a declaration under [section 32(4)][42].
     
-    Compare: 2002 No 33 [s 90][571]
+    Compare: 2002 No 33 [s 90][572]
 
 ##### 192 Direction not to be inconsistent with applicable civil defence emergency management plan
     
-*   No direction may be given under [section 191][284] that is inconsistent with the provisions of any applicable civil defence emergency management plan (within the meaning of [section 4][533] of the Civil Defence Emergency Management Act 2002) that is in force at the time the direction is given.
+*   No direction may be given under [section 191][284] that is inconsistent with the provisions of any applicable civil defence emergency management plan (within the meaning of [section 4][534] of the Civil Defence Emergency Management Act 2002) that is in force at the time the direction is given.
 
 ##### 193 Compensation if property requisitioned
     
@@ -6406,7 +6408,7 @@ Corrections system
     
     (5) For the purposes of this section the Minister, or a person authorised by the Minister, ceases to be in control of a requisitioned property once a declaration is made in respect of that property by the Minister under [section 32(5)(b)][42].
     
-    Compare: 2002 No 33 [s 107][572]
+    Compare: 2002 No 33 [s 107][573]
 
 ##### 194 Duties of chief executive
     
@@ -6434,7 +6436,7 @@ Corrections system
     
     (4) Nothing in this section prevents the Crown from making any _ex gratia_ payment it considers justifiable on the basis of hardship or fairness.
     
-    Compare: 2002 No 33 [ss 109(9)][573], [110][574]
+    Compare: 2002 No 33 [ss 109(9)][574], [110][575]
 
 #### Chief executive and Commissioner of Police may issue guidelines and instructions
 
@@ -6488,7 +6490,7 @@ Corrections system
     
     Compare: 1954 No 51 s 4A
     
-    Section 198: substituted, on 8 December 2009, by [section 5][575] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
+    Section 198: substituted, on 8 December 2009, by [section 5][576] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
 
 ##### 199 Requirements of prison management contracts
     
@@ -6540,13 +6542,13 @@ Corrections system
         
     *   (a) the requirements of this Act, of any regulations made under this Act, and of any instructions or guidelines issued by the chief executive under [section 196][290], in so far as those requirements are applicable to contract prisons; and
     
-    *   (b) the requirements of the [New Zealand Bill of Rights Act 1990][516], as if the prison were a prison managed by the department; and
+    *   (b) the requirements of the [New Zealand Bill of Rights Act 1990][517], as if the prison were a prison managed by the department; and
     
-    *   (c) the requirements of the [Public Records Act 2005][576], as if records relating to the prison and to prisoners in the prison were records created or received by the department; and
+    *   (c) the requirements of the [Public Records Act 2005][577], as if records relating to the prison and to prisoners in the prison were records created or received by the department; and
     
     *   (d) all relevant international obligations and standards; and
     
-    *   (e) the requirements of [sections 56(1) and (2)][517] and [58(3)][518] of the State Sector Act 1988 (which relate to personnel and equal employment policies), as if the contractor were the chief executive of a department within the meaning of that Act and as if those requirements applied, not only in respect of employees of a contractor, but in respect of all staff members of a contract prison.
+    *   (e) the requirements of [sections 56(1) and (2)][518] and [58(3)][519] of the State Sector Act 1988 (which relate to personnel and equal employment policies), as if the contractor were the chief executive of a department within the meaning of that Act and as if those requirements applied, not only in respect of employees of a contractor, but in respect of all staff members of a contract prison.
     
     (3) A prison management contract may contain other provisions, as agreed between the chief executive and the contractor, that are not inconsistent with---
         
@@ -6558,7 +6560,7 @@ Corrections system
     
     Compare: 1954 No 51 s 4B
     
-    Section 199: substituted, on 8 December 2009, by [section 5][575] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
+    Section 199: substituted, on 8 December 2009, by [section 5][576] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
 
 ##### 199AA Delegation of powers and functions of chief executive to contractor
     
@@ -6574,7 +6576,7 @@ Corrections system
     
     (6) A delegation under this section does not affect the exercise of any function or power by the chief executive or the responsibility of the chief executive for the actions of any person acting under the delegation.
     
-    Section 199AA: inserted, on 5 March 2013, by [section 42][577] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 199AA: inserted, on 5 March 2013, by [section 42][578] of the Corrections Amendment Act 2013 (2013 No 5).
 
 ##### 199AB Delegation of powers and functions of chief executive to subcontractor 
     
@@ -6588,7 +6590,7 @@ Corrections system
     
     (5) [Section 199AA(5) and (6)][296] apply to a delegation under this section.
     
-    Section 199AB: inserted, on 5 March 2013, by [section 42][577] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 199AB: inserted, on 5 March 2013, by [section 42][578] of the Corrections Amendment Act 2013 (2013 No 5).
 
 ##### 199A Delegation of powers and functions of contractor
     
@@ -6600,7 +6602,7 @@ Corrections system
     
     Compare: 1954 No 51 s 3A
     
-    Section 199A: inserted, on 8 December 2009, by [section 5][575] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
+    Section 199A: inserted, on 8 December 2009, by [section 5][576] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
 
 ##### 199B Liability of contractor
     
@@ -6616,7 +6618,7 @@ Corrections system
     
     Compare: 1954 No 51 s 4C
     
-    Section 199B: inserted, on 8 December 2009, by [section 5][575] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
+    Section 199B: inserted, on 8 December 2009, by [section 5][576] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
 
 ##### 199C Subcontractors
     
@@ -6628,7 +6630,7 @@ Corrections system
     
     Compare: 1954 No 51 s 4E
     
-    Section 199C: inserted, on 8 December 2009, by [section 5][575] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
+    Section 199C: inserted, on 8 December 2009, by [section 5][576] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
 
 ##### 199D Reporting responsibilities
     
@@ -6694,11 +6696,11 @@ Corrections system
     
     Compare: 1954 No 51 s 4F
     
-    Section 199D: inserted, on 8 December 2009, by [section 5][575] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
+    Section 199D: inserted, on 8 December 2009, by [section 5][576] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
     
-    Section 199D(1A): inserted, on 5 March 2013, by [section 43][578] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 199D(1A): inserted, on 5 March 2013, by [section 43][579] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 199D(1B): inserted, on 5 March 2013, by [section 43][578] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 199D(1B): inserted, on 5 March 2013, by [section 43][579] of the Corrections Amendment Act 2013 (2013 No 5).
 
 ##### 199E Monitors
     
@@ -6732,7 +6734,7 @@ Corrections system
     
     Compare: 1954 No 51 s 4G
     
-    Section 199E: inserted, on 8 December 2009, by [section 5][575] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
+    Section 199E: inserted, on 8 December 2009, by [section 5][576] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
 
 ##### 199F Accommodation and access
     
@@ -6772,15 +6774,15 @@ Corrections system
     
     Compare: 1954 No 51 s 4H
     
-    Section 199F: inserted, on 8 December 2009, by [section 5][575] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
+    Section 199F: inserted, on 8 December 2009, by [section 5][576] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
     
-    Section 199F(2A): inserted, on 5 March 2013, by [section 44][579] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 199F(2A): inserted, on 5 March 2013, by [section 44][580] of the Corrections Amendment Act 2013 (2013 No 5).
 
 ##### 199G Monitors to report on certain matters
     
 *   (1) Without limiting [section 199E(3)][302], the monitor appointed in respect of a contract prison under section 199E(1)(a) must, for the purposes of the report under section 199E(3)(b), review the following matters:
         
-    *   (a) determinations made under [Part 1][580] of the Parole Act 2002 of---
+    *   (a) determinations made under [Part 1][581] of the Parole Act 2002 of---
             
         *   (i) the start date, expiry date, non-parole period, and release date of sentences; and
         
@@ -6788,9 +6790,9 @@ Corrections system
         
         
     
-    *   (b) calculations made under [Part 1][580] of the Parole Act 2002 of how much time an offender has served under a sentence of imprisonment, including records and determinations of how much time an offender has spent in pre-sentence detention:
+    *   (b) calculations made under [Part 1][581] of the Parole Act 2002 of how much time an offender has served under a sentence of imprisonment, including records and determinations of how much time an offender has spent in pre-sentence detention:
     
-    *   (c) reports made by the manager of the prison for the purposes of [section 43(1)][581] of the Parole Act 2002:
+    *   (c) reports made by the manager of the prison for the purposes of [section 43(1)][582] of the Parole Act 2002:
     
     *   (d) in respect of [sections 57 to 61][76] of this Act,---
             
@@ -6810,7 +6812,7 @@ Corrections system
         
         
     
-    *   (g) decisions of officers of the prison to apply, under [section 45][582] of the Mental Health (Compulsory Assessment and Treatment) Act 1992, for an assessment of a prisoner:
+    *   (g) decisions of officers of the prison to apply, under [section 45][583] of the Mental Health (Compulsory Assessment and Treatment) Act 1992, for an assessment of a prisoner:
     
     *   (h) the procedures in place to assess---
             
@@ -6830,9 +6832,9 @@ Corrections system
     
     Compare: 1954 No 51 s 4I
     
-    Section 199G: inserted, on 8 December 2009, by [section 5][575] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
+    Section 199G: inserted, on 8 December 2009, by [section 5][576] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
     
-    Section 199G(1)(i): amended, on 5 March 2013, by [section 45][583] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 199G(1)(i): amended, on 5 March 2013, by [section 45][584] of the Corrections Amendment Act 2013 (2013 No 5).
 
 ##### 199H Control of contract prison in emergency
     
@@ -6872,7 +6874,7 @@ Corrections system
     
     Compare: 1954 No 51 s 4J
     
-    Section 199H: inserted, on 8 December 2009, by [section 5][575] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
+    Section 199H: inserted, on 8 December 2009, by [section 5][576] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
 
 ##### 199I Prison management contracts to be presented to House of Representatives
     
@@ -6882,13 +6884,13 @@ Corrections system
     
     Compare: 1954 No 51 s 4L
     
-    Section 199I: inserted, on 8 December 2009, by [section 5][575] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
+    Section 199I: inserted, on 8 December 2009, by [section 5][576] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
 
 ##### 199J Release of prisoner information to and by contract prisons
     
-*   (1) For the purposes of enabling the chief executive or any staff member of the department to exercise or perform any of his or her powers, duties, or functions, the chief executive or any staff member of the department may access any information that is held (or deemed for the purposes of the [Official Information Act 1982][519] to be held) by a contract prison and that relates to that contract prison or to any prisoner.
+*   (1) For the purposes of enabling the chief executive or any staff member of the department to exercise or perform any of his or her powers, duties, or functions, the chief executive or any staff member of the department may access any information that is held (or deemed for the purposes of the [Official Information Act 1982][520] to be held) by a contract prison and that relates to that contract prison or to any prisoner.
     
-    (2) For the purposes of enabling any staff member of a contract prison to exercise or perform any of his or her powers, duties, or functions, any staff member of a contract prison may have access to any information that is held (or deemed for the purposes of the [Official Information Act 1982][519] to be held) by the department and that relates to any prisoner.
+    (2) For the purposes of enabling any staff member of a contract prison to exercise or perform any of his or her powers, duties, or functions, any staff member of a contract prison may have access to any information that is held (or deemed for the purposes of the [Official Information Act 1982][520] to be held) by the department and that relates to any prisoner.
     
     (3) If the department is authorised by any enactment to access or to disclose information relating to any prisoner,---
         
@@ -6898,7 +6900,7 @@ Corrections system
     
     Compare: 1954 No 51 s 41G
     
-    Section 199J: inserted, on 8 December 2009, by [section 5][575] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
+    Section 199J: inserted, on 8 December 2009, by [section 5][576] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
 
 ##### 199K Transferring staff who are contributors to Government Superannuation Fund
     
@@ -6906,27 +6908,27 @@ Corrections system
         
     *   (a) is employed by a contractor to work in a contract prison; and
     
-    *   (b) immediately before that employment was a contributor to the Government Superannuation Fund under [Part 2][584] or [2A][585] of the Government Superannuation Fund Act 1956\.
+    *   (b) immediately before that employment was a contributor to the Government Superannuation Fund under [Part 2][585] or [2A][586] of the Government Superannuation Fund Act 1956\.
     
-    (2) A person to whom subsection (1) applies is deemed to continue to be employed in the Government service, for the purposes of the [Government Superannuation Fund Act 1956][523], for so long as that person continues to work in a contract prison.
+    (2) A person to whom subsection (1) applies is deemed to continue to be employed in the Government service, for the purposes of the [Government Superannuation Fund Act 1956][524], for so long as that person continues to work in a contract prison.
     
-    (3) The provisions of the [Government Superannuation Fund Act 1956][523] apply to a person described in subsections (1) and (2) in all respects as if service with a contractor were Government service.
+    (3) The provisions of the [Government Superannuation Fund Act 1956][524] apply to a person described in subsections (1) and (2) in all respects as if service with a contractor were Government service.
     
     (4) This subsection applies to any person who---
         
     *   (a) is employed by a contractor to work in a contract prison; and
     
-    *   (b) immediately before that employment was a contributor to the Government Superannuation Fund under [Part 6B][586] of the Government Superannuation Fund Act 1956\.
+    *   (b) immediately before that employment was a contributor to the Government Superannuation Fund under [Part 6B][587] of the Government Superannuation Fund Act 1956\.
     
-    (5) A person to whom subsection (4) applies is deemed to continue to be a member of the prisons service, for the purposes of the [Government Superannuation Fund Act 1956][523], for so long as that person continues to work in a contract prison.
+    (5) A person to whom subsection (4) applies is deemed to continue to be a member of the prisons service, for the purposes of the [Government Superannuation Fund Act 1956][524], for so long as that person continues to work in a contract prison.
     
-    (6) The provisions of the [Government Superannuation Fund Act 1956][523] apply to a person described in subsections (4) and (5) in all respects as if service with a contractor were service as a member of the prisons service.
+    (6) The provisions of the [Government Superannuation Fund Act 1956][524] apply to a person described in subsections (4) and (5) in all respects as if service with a contractor were service as a member of the prisons service.
     
-    (7) Subject to the [Government Superannuation Fund Act 1956][523], nothing in subsections (1) to (6) entitles a person to become a contributor to the Government Superannuation Fund after that person has ceased to be a contributor.
+    (7) Subject to the [Government Superannuation Fund Act 1956][524], nothing in subsections (1) to (6) entitles a person to become a contributor to the Government Superannuation Fund after that person has ceased to be a contributor.
     
-    (8) For the purposes of applying the [Government Superannuation Fund Act 1956][523] to a person who is a contributor to the Government Superannuation Fund, and who is in the service of a contractor, the term _controlling authority_, in relation to that person, means that contractor.
+    (8) For the purposes of applying the [Government Superannuation Fund Act 1956][524] to a person who is a contributor to the Government Superannuation Fund, and who is in the service of a contractor, the term _controlling authority_, in relation to that person, means that contractor.
     
-    Section 199K: inserted, on 8 December 2009, by [section 5][575] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
+    Section 199K: inserted, on 8 December 2009, by [section 5][576] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
 
 #### Regulations
 
@@ -6984,7 +6986,7 @@ Corrections system
     
     Compare: 1954 No 51 s 45
     
-    Section 200(1)(b)(v): added, on 15 December 2005, by [section 6][587] of the Corrections Amendment Act 2005 (2005 No 97).
+    Section 200(1)(b)(v): added, on 15 December 2005, by [section 6][588] of the Corrections Amendment Act 2005 (2005 No 97).
 
 ##### 201 Regulations relating to good management of corrections system
     
@@ -7082,7 +7084,7 @@ Corrections system
     
     Compare: 1954 No 51 s 45(1)
     
-    Section 202(ma): inserted, on 5 March 2013, by [section 46][588] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 202(ma): inserted, on 5 March 2013, by [section 46][589] of the Corrections Amendment Act 2013 (2013 No 5).
 
 ##### 203 Regulations relating to treatment of prisoners
     
@@ -7090,7 +7092,7 @@ Corrections system
         
     *   (a) requiring different regimes for different classes of prisoners (for example, provisions designed to ensure the safety and welfare of young persons in prisons or persons detained solely as a consequence of a warrant or other order issued under the [Immigration Act 2009][381]):
     
-    *   (b) requiring persons detained solely as a consequence of a warrant or other order issued under the [Immigration Act 1987][589] to be treated as a prisoner on remand for the purposes of any specified provision:
+    *   (b) requiring persons detained solely as a consequence of a warrant or other order issued under the [Immigration Act 1987][590] to be treated as a prisoner on remand for the purposes of any specified provision:
     
     *   (c) prescribing conditions relating to the care of children of female prisoners who are allowed to remain with or visit their mothers in prison:
     
@@ -7106,25 +7108,25 @@ Corrections system
     
     Section 203(a): amended, at 2 am on 29 November 2010, by [section 406(1)][400] of the Immigration Act 2009 (2009 No 51).
     
-    Section 203(c): substituted, on 19 September 2011, by [section 6][590] of the Corrections (Mothers with Babies) Amendment Act 2008 (2008 No 88).
+    Section 203(c): substituted, on 19 September 2011, by [section 6][591] of the Corrections (Mothers with Babies) Amendment Act 2008 (2008 No 88).
 
 #### Amendment to Immigration Act 1987
 
 ##### 204 New section 141AC inserted
     
-*   _Amendment(s) incorporated in the [Act(s)][589]_.
+*   _Amendment(s) incorporated in the [Act(s)][590]_.
 
 #### Amendment to Privacy Act 1993
 
 ##### 205 Amendments to Privacy Act 1993
     
-*   _Amendment(s) incorporated in the [Act(s)][485]_.
+*   _Amendment(s) incorporated in the [Act(s)][486]_.
 
 #### Other amendments and repeals
 
 ##### 206 Acts amended
     
-*   The Acts set out in [Schedule 2][591] are amended in the manner set out in that schedule.
+*   The Acts set out in [Schedule 2][592] are amended in the manner set out in that schedule.
 
 ##### 207 Regulations amended
     
@@ -7132,9 +7134,9 @@ Corrections system
 
 ##### 208 Repeals and revocations
     
-*   (1) The enactments set out in [Part 1][592] of Schedule 4 are repealed.
+*   (1) The enactments set out in [Part 1][593] of Schedule 4 are repealed.
     
-    (2) The regulations set out in [Part 2][593] of Schedule 4 are revoked.
+    (2) The regulations set out in [Part 2][594] of Schedule 4 are revoked.
 
 ## Part 3  
 Transitional provisions
@@ -7143,79 +7145,79 @@ Transitional provisions
 
 \[Repealed\]
     
-*   Heading: repealed, on 8 December 2009, by [section 6][594] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
+*   Heading: repealed, on 8 December 2009, by [section 6][595] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
 
 ##### 209 Existing management contracts must not be extended
     
 *   \[Repealed\]
     
-    Section 209: repealed, on 8 December 2009, by [section 6][594] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
+    Section 209: repealed, on 8 December 2009, by [section 6][595] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
 
 ##### 210 Delegation of powers and functions of contractor
     
 *   \[Repealed\]
     
-    Section 210: repealed, on 8 December 2009, by [section 6][594] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
+    Section 210: repealed, on 8 December 2009, by [section 6][595] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
 
 ##### 211 References in existing management contracts altered
     
 *   \[Repealed\]
     
-    Section 211: repealed, on 8 December 2009, by [section 6][594] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
+    Section 211: repealed, on 8 December 2009, by [section 6][595] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
 
 ##### 212 Liability of contractor
     
 *   \[Repealed\]
     
-    Section 212: repealed, on 8 December 2009, by [section 6][594] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
+    Section 212: repealed, on 8 December 2009, by [section 6][595] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
 
 ##### 213 Subcontractors
     
 *   \[Repealed\]
     
-    Section 213: repealed, on 8 December 2009, by [section 6][594] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
+    Section 213: repealed, on 8 December 2009, by [section 6][595] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
 
 ##### 214 Reporting responsibilities
     
 *   \[Repealed\]
     
-    Section 214: repealed, on 8 December 2009, by [section 6][594] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
+    Section 214: repealed, on 8 December 2009, by [section 6][595] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
 
 ##### 215 Monitors
     
 *   \[Repealed\]
     
-    Section 215: repealed, on 8 December 2009, by [section 6][594] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
+    Section 215: repealed, on 8 December 2009, by [section 6][595] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
 
 ##### 216 Accommodation and access
     
 *   \[Repealed\]
     
-    Section 216: repealed, on 8 December 2009, by [section 6][594] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
+    Section 216: repealed, on 8 December 2009, by [section 6][595] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
 
 ##### 217 Monitors to report on certain matters
     
 *   \[Repealed\]
     
-    Section 217: repealed, on 8 December 2009, by [section 6][594] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
+    Section 217: repealed, on 8 December 2009, by [section 6][595] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
 
 ##### 218 Control of contract prison in emergency
     
 *   \[Repealed\]
     
-    Section 218: repealed, on 8 December 2009, by [section 6][594] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
+    Section 218: repealed, on 8 December 2009, by [section 6][595] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
 
 ##### 219 Variation to management contracts to be presented to House of Representatives
     
 *   \[Repealed\]
     
-    Section 219: repealed, on 8 December 2009, by [section 6][594] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
+    Section 219: repealed, on 8 December 2009, by [section 6][595] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
 
 ##### 220 Release of prisoner information to contract prisons
     
 *   \[Repealed\]
     
-    Section 220: repealed, on 8 December 2009, by [section 6][594] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
+    Section 220: repealed, on 8 December 2009, by [section 6][595] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
 
 #### Provision of escort services or courtroom custodial services under contract
 
@@ -7275,17 +7277,17 @@ Transitional provisions
 
 ##### 228 Most other appointments preserved
     
-*   (1) This section applies to any person (other than a Visiting Justice who is not a Judge) who, immediately before the commencement of this section, holds office (including a position of any kind) as a consequence of any appointment, engagement, or designation under the [Criminal Justice Act 1985][595] or the Penal Institutions Act 1954\.
+*   (1) This section applies to any person (other than a Visiting Justice who is not a Judge) who, immediately before the commencement of this section, holds office (including a position of any kind) as a consequence of any appointment, engagement, or designation under the [Criminal Justice Act 1985][596] or the Penal Institutions Act 1954\.
     
     (2) Every person to whom this section applies is, on the commencement of this section, deemed to have been appointed to, or engaged or designated as the holder of, the office referred to in subsection (1)---
         
-    *   (a) under the provision of this Act that, with or without modification, corresponds to the provision in the [Criminal Justice Act 1985][595], or the Penal Institutions Act 1954, that it replaces; and
+    *   (a) under the provision of this Act that, with or without modification, corresponds to the provision in the [Criminal Justice Act 1985][596], or the Penal Institutions Act 1954, that it replaces; and
     
     *   (b) on the same terms and conditions that applied immediately before the commencement of this section.
     
     (3) This section is subject to [sections 226][347] and [227][348].
     
-    (4) This section does not limit [section 21][596] of the Interpretation Act 1999\.
+    (4) This section does not limit [section 21][597] of the Interpretation Act 1999\.
 
 ##### 229 Certain Visiting Justices cease to hold office
     
@@ -7382,7 +7384,7 @@ Substantive amendments to Schedule 5 of Privacy Act 1993
 
 [s 205][317]
 
-_Amendment(s) incorporated in the [Act(s)][597]_.
+_Amendment(s) incorporated in the [Act(s)][598]_.
 
 ---
 
@@ -7393,7 +7395,7 @@ Amendments to other Acts
 
 ##### Alcoholism and Drug Addiction Act 1966 (1966 No 97)
 
-_Amendment(s) incorporated in the [Act(s)][598]_.
+_Amendment(s) incorporated in the [Act(s)][599]_.
 
 ##### Armed Forces Discipline Act 1971 (1971 No 53)
 
@@ -7401,151 +7403,151 @@ _Amendment(s) incorporated in the [Act(s)][388]_.
 
 ##### Bail Act 2000 (2000 No 38)
 
-_Amendment(s) incorporated in the [Act(s)][599]_.
+_Amendment(s) incorporated in the [Act(s)][600]_.
 
 ##### Burial and Cremation Act 1964 (1964 No 75)
 
-_Amendment(s) incorporated in the [Act(s)][600]_.
+_Amendment(s) incorporated in the [Act(s)][601]_.
 
 ##### Child Support Act 1991 (1991 No 142)
 
-_Amendment(s) incorporated in the [Act(s)][601]_.
+_Amendment(s) incorporated in the [Act(s)][602]_.
 
 ##### Children, Young Persons, and their Families Act 1989 (1989 No 24)
 
-_Amendment(s) incorporated in the [Act(s)][602]_.
+_Amendment(s) incorporated in the [Act(s)][603]_.
 
 ##### Commissions of Inquiry Act 1908 (1908 No 25)
 
-_Amendment(s) incorporated in the [Act(s)][603]_.
+_Amendment(s) incorporated in the [Act(s)][604]_.
 
 ##### Coroners Act 1988 (1988 No 111)
 
-_Amendment(s) incorporated in the [Act(s)][604]_.
+_Amendment(s) incorporated in the [Act(s)][605]_.
 
 ##### Courts Martial Appeals Act 1953 (1953 No 100)
 
-_Amendment(s) incorporated in the [Act(s)][605]_.
+_Amendment(s) incorporated in the [Act(s)][606]_.
 
 ##### Courts Security Act 1999 (1999 No 115)
 
-_Amendment(s) incorporated in the [Act(s)][606]_.
+_Amendment(s) incorporated in the [Act(s)][607]_.
 
 ##### Credit (Repossession) Act 1997 (1997 No 85)
 
-_Amendment(s) incorporated in the [Act(s)][607]_.
+_Amendment(s) incorporated in the [Act(s)][608]_.
 
 ##### Crimes Act 1961 (1961 No 43)
 
-_Amendment(s) incorporated in the [Act(s)][608]_.
+_Amendment(s) incorporated in the [Act(s)][609]_.
 
 ##### Crimes of Torture Act 1989 (1989 No 106)
 
-_Amendment(s) incorporated in the [Act(s)][609]_.
+_Amendment(s) incorporated in the [Act(s)][610]_.
 
 ##### Criminal Investigations (Bodily Samples) Act 1995 (1995 No 55)
 
-_Amendment(s) incorporated in the [Act(s)][610]_.
+_Amendment(s) incorporated in the [Act(s)][611]_.
 
 ##### Criminal Justice Act 1985 (1985 No 120)
 
-_Amendment(s) incorporated in the [Act(s)][611]_.
+_Amendment(s) incorporated in the [Act(s)][612]_.
 
 ##### Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115)
 
-_Amendment(s) incorporated in the [Act(s)][612]_.
+_Amendment(s) incorporated in the [Act(s)][613]_.
 
 ##### Criminal Records (Clean Slate) Act 2004 (2004 No 36)
 
-_Amendment(s) incorporated in the [Act(s)][613]_.
+_Amendment(s) incorporated in the [Act(s)][614]_.
 
 ##### District Courts Act 1947 (1947 No 16)
 
-_Amendment(s) incorporated in the [Act(s)][614]_.
+_Amendment(s) incorporated in the [Act(s)][615]_.
 
 ##### Electoral Act 1993 (1993 No 87)
 
-_Amendment(s) incorporated in the [Act(s)][615]_.
+_Amendment(s) incorporated in the [Act(s)][616]_.
 
 ##### Electricity Industry Reform Act 1998 (1998 No 88)
 
-_Amendment(s) incorporated in the [Act(s)][616]_.
+_Amendment(s) incorporated in the [Act(s)][617]_.
 
 ##### Extradition Act 1999 (1999 No 55)
 
-_Amendment(s) incorporated in the [Act(s)][617]_.
+_Amendment(s) incorporated in the [Act(s)][618]_.
 
 ##### Government Superannuation Fund Act 1956 (1956 No 47)
 
-_Amendment(s) incorporated in the [Act(s)][618]_.
+_Amendment(s) incorporated in the [Act(s)][619]_.
 
 ##### Government Superannuation Fund Amendment Act 1962 (1962 No 130)
 
-_Amendment(s) incorporated in the [Act(s)][619]_.
+_Amendment(s) incorporated in the [Act(s)][620]_.
 
 ##### Habeas Corpus Act 2001 (2001 No 31)
 
-_Amendment(s) incorporated in the [Act(s)][620]_.
+_Amendment(s) incorporated in the [Act(s)][621]_.
 
 ##### Health Act 1956 (1956 No 65)
 
-_Amendment(s) incorporated in the [Act(s)][621]_.
+_Amendment(s) incorporated in the [Act(s)][622]_.
 
 ##### Health and Disability Services (Safety) Act 2001 (2001 No 93)
 
-_Amendment(s) incorporated in the [Act(s)][622]_.
+_Amendment(s) incorporated in the [Act(s)][623]_.
 
 ##### Human Tissue Act 1964 (1964 No 19)
 
-_Amendment(s) incorporated in the [Act(s)][623]_.
+_Amendment(s) incorporated in the [Act(s)][624]_.
 
 ##### Immigration Act 1987 (1987 No 74)
 
-_Amendment(s) incorporated in the [Act(s)][624]_.
+_Amendment(s) incorporated in the [Act(s)][625]_.
 
 ##### Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49)
 
-_Amendment(s) incorporated in the [Act(s)][625]_.
+_Amendment(s) incorporated in the [Act(s)][626]_.
 
 ##### Intellectual Disability (Compulsory Care and Rehabilitation Act 2003 (2003 No 116)
 
-_Amendment(s) incorporated in the [Act(s)][626]_.
+_Amendment(s) incorporated in the [Act(s)][627]_.
 
 ##### International Crimes and International Criminal Court Act 2000 (2000 No 26)
 
-_Amendment(s) incorporated in the [Act(s)][627]_.
+_Amendment(s) incorporated in the [Act(s)][628]_.
 
 ##### International War Crimes Tribunal Act 1995 (1995 No 27)
 
-_Amendment(s) incorporated in the [Act(s)][628]_.
+_Amendment(s) incorporated in the [Act(s)][629]_.
 
 ##### Juries Act 1981 (1981 No 23)
 
-_Amendment(s) incorporated in the [Act(s)][629]_.
+_Amendment(s) incorporated in the [Act(s)][630]_.
 
 ##### Law Practitioners Act 1982 (1982 No 123)
 
-_Amendment(s) incorporated in the [Act(s)][630]_.
+_Amendment(s) incorporated in the [Act(s)][631]_.
 
 ##### Legal Services Act 2000 (2000 No 42)
 
-_Amendment(s) incorporated in the [Act(s)][631]_.
+_Amendment(s) incorporated in the [Act(s)][632]_.
 
 ##### Medicines Act 1981 (1981 No 118)
 
-_Amendment(s) incorporated in the [Act(s)][632]_.
+_Amendment(s) incorporated in the [Act(s)][633]_.
 
 ##### Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46)
 
-_Amendment(s) incorporated in the [Act(s)][633]_.
+_Amendment(s) incorporated in the [Act(s)][634]_.
 
 ##### Misuse of Drugs Act 1975 (1975 No 116)
 
-_Amendment(s) incorporated in the [Act(s)][634]_.
+_Amendment(s) incorporated in the [Act(s)][635]_.
 
 ##### Misuse of Drugs Amendment Act 1978 (1978 No 65)
 
-_Amendment(s) incorporated in the [Act(s)][635]_.
+_Amendment(s) incorporated in the [Act(s)][636]_.
 
 ##### Motor Vehicle Dealers Act 1975 (1975 No 127)
 
@@ -7553,71 +7555,71 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Mutual Assistance in Criminal Matters Act 1992 (1992 No 86)
 
-_Amendment(s) incorporated in the [Act(s)][636]_.
+_Amendment(s) incorporated in the [Act(s)][637]_.
 
 ##### Parole Act 2002 (2002 No 10)
 
-_Amendment(s) incorporated in the [Act(s)][531]_.
+_Amendment(s) incorporated in the [Act(s)][532]_.
 
 ##### Pitcairn Trials Act 2002 (2002 No 83)
 
-_Amendment(s) incorporated in the [Act(s)][637]_.
+_Amendment(s) incorporated in the [Act(s)][638]_.
 
 ##### Police Act 1958 (1958 No 109)
 
-_Amendment(s) incorporated in the [Act(s)][638]_.
+_Amendment(s) incorporated in the [Act(s)][639]_.
 
 ##### Privacy Act 1993 (1993 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][597]_.
+_Amendment(s) incorporated in the [Act(s)][598]_.
 
 ##### Private Investigators and Security Guards Act 1974 (1974 No 48)
 
-_Amendment(s) incorporated in the [Act(s)][639]_.
+_Amendment(s) incorporated in the [Act(s)][640]_.
 
 ##### Residential Tenancies Act 1986 (1986 No 120)
 
-_Amendment(s) incorporated in the [Act(s)][640]_.
+_Amendment(s) incorporated in the [Act(s)][641]_.
 
 ##### Sale of Liquor Act 1989 (1989 No 63)
 
-_Amendment(s) incorporated in the [Act(s)][641]_.
+_Amendment(s) incorporated in the [Act(s)][642]_.
 
 ##### Sentencing Act 2002 (2002 No 9)
 
-_Amendment(s) incorporated in the [Act(s)][642]_.
+_Amendment(s) incorporated in the [Act(s)][643]_.
 
 ##### Smoke-free Environments Act 1990 (1990 No 108)
 
-_Amendment(s) incorporated in the [Act(s)][643]_.
+_Amendment(s) incorporated in the [Act(s)][644]_.
 
 ##### Social Security Act 1964 (1964 No 136)
 
-_Amendment(s) incorporated in the [Act(s)][644]_.
+_Amendment(s) incorporated in the [Act(s)][645]_.
 
 ##### Statistics Act 1975 (1975 No 1)
 
-_Amendment(s) incorporated in the [Act(s)][645]_.
+_Amendment(s) incorporated in the [Act(s)][646]_.
 
 ##### Summary Offences Act 1981 (1981 No 113)
 
-_Amendment(s) incorporated in the [Act(s)][646]_.
+_Amendment(s) incorporated in the [Act(s)][647]_.
 
 ##### Summary Proceedings Act 1957 (1957 No 87)
 
-_Amendment(s) incorporated in the [Act(s)][647]_.
+_Amendment(s) incorporated in the [Act(s)][648]_.
 
 ##### Te Ture Whenua Maori Act 1993 (1993 No 4)
 
-_Amendment(s) incorporated in the [Act(s)][648]_.
+_Amendment(s) incorporated in the [Act(s)][649]_.
 
 ##### Victims' Rights Act 2002 (2002 No 39)
 
-_Amendment(s) incorporated in the [Act(s)][649]_.
+_Amendment(s) incorporated in the [Act(s)][650]_.
 
 ##### War Pensions Act 1954 (1954 No 54)
 
-_Amendment(s) incorporated in the [Act(s)][650]_.
+_Amendment(s) incorporated in the [Act(s)][651]_.
 
 ---
 
@@ -7628,47 +7630,47 @@ Regulations amended
 
 ##### Accident Insurance (""Counsellor"") Regulations 1999 (SR 1999/166)
 
-_Amendment(s) incorporated in the [regulations][651]_.
+_Amendment(s) incorporated in the [regulations][652]_.
 
 ##### Arms Regulations 1992 (SR 1992/346)
 
-_Amendment(s) incorporated in the [regulations][652]_.
+_Amendment(s) incorporated in the [regulations][653]_.
 
 ##### Bail Rules 2000 (SR 2000/248)
 
-_Amendment(s) incorporated in the [rules][653]_.
+_Amendment(s) incorporated in the [rules][654]_.
 
 ##### Child Support Rules 1992 (SR 1992/58)
 
-_Amendment(s) incorporated in the [rules][654]_.
+_Amendment(s) incorporated in the [rules][655]_.
 
 ##### Children, Young Persons, and Their Families Rules 1989 (SR 1989/295)
 
-_Amendment(s) incorporated in the [rules][655]_.
+_Amendment(s) incorporated in the [rules][656]_.
 
 ##### Domestic Violence Rules 1996 (SR 1996/148)
 
-_Amendment(s) incorporated in the [rules][656]_.
+_Amendment(s) incorporated in the [rules][657]_.
 
 ##### Extradition Regulations 1999 (SR 1999/238)
 
-_Amendment(s) incorporated in the [regulations][657]_.
+_Amendment(s) incorporated in the [regulations][658]_.
 
 ##### Immigration Regulations 1999 (SR 1999/284)
 
-_Amendment(s) incorporated in the [regulations][658]_.
+_Amendment(s) incorporated in the [regulations][659]_.
 
 ##### International War Crimes Tribunals Regulations 1995 (SR 1995/138)
 
-_Amendment(s) incorporated in the [regulations][659]_.
+_Amendment(s) incorporated in the [regulations][660]_.
 
 ##### Parole Regulations 2002 (SR 2002/179)
 
-_Amendment(s) incorporated in the [regulations][660]_.
+_Amendment(s) incorporated in the [regulations][661]_.
 
 ##### Private Investigators and Security Guards Regulations 1975 (SR 1975/188)
 
-_Amendment(s) incorporated in the [regulations][661]_.
+_Amendment(s) incorporated in the [regulations][662]_.
 
 ##### Protection of Personal and Property Rights Rules 1988 (SR 1988/213)
 
@@ -7676,15 +7678,15 @@ _Amendment(s) incorporated in the rules_.
 
 ##### Sentencing Regulations 2002 (SR 2002/178)
 
-_Amendment(s) incorporated in the [regulations][662]_.
+_Amendment(s) incorporated in the [regulations][663]_.
 
 ##### Student Allowances Regulations 1998 (SR 1998/277)
 
-_Amendment(s) incorporated in the [regulations][542]_.
+_Amendment(s) incorporated in the [regulations][543]_.
 
 ##### Summary Proceedings Regulations 1958 (SR 1958/38 and SR 1980/84)
 
-_Amendment(s) incorporated in the [regulations][663]_.
+_Amendment(s) incorporated in the [regulations][664]_.
 
 ---
 
@@ -7698,23 +7700,23 @@ Enactments repealed
 
 ##### Coroners Act 1988 (1988 No 111)
 
-_Amendment(s) incorporated in the [Act(s)][604]_.
+_Amendment(s) incorporated in the [Act(s)][605]_.
 
 ##### Crimes Amendment Act (No 2) 1997 (1997 No 93)
 
-_Amendment(s) incorporated in the [Act(s)][664]_.
+_Amendment(s) incorporated in the [Act(s)][665]_.
 
 ##### Criminal Justice Act 1985 (1985 No 120)
 
-_Amendment(s) incorporated in the [Act(s)][595]_.
+_Amendment(s) incorporated in the [Act(s)][596]_.
 
 ##### Department of Justice (Restructuring) Act 1995 (1995 No 39)
 
-_Amendment(s) incorporated in the [Act(s)][665]_.
+_Amendment(s) incorporated in the [Act(s)][666]_.
 
 ##### Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96)
 
-_Amendment(s) incorporated in the [Act(s)][666]_.
+_Amendment(s) incorporated in the [Act(s)][667]_.
 
 ##### Health Practitioners Competence Assurance Act 2003 (2003 No 48)
 
@@ -7722,15 +7724,15 @@ _Amendment(s) incorporated in the [Act(s)][386]_.
 
 ##### Human Rights Amendment Act 2001 (2001 No 96)
 
-_Amendment(s) incorporated in the [Act(s)][667]_.
+_Amendment(s) incorporated in the [Act(s)][668]_.
 
 ##### Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49)
 
-_Amendment(s) incorporated in the [Act(s)][559]_.
+_Amendment(s) incorporated in the [Act(s)][560]_.
 
 ##### International Crimes and International Criminal Court Act 2000 (2000 No 26)
 
-_Amendment(s) incorporated in the [Act(s)][668]_.
+_Amendment(s) incorporated in the [Act(s)][669]_.
 
 ##### Parole Act 2002 (2002 No 10)
 
@@ -7753,7 +7755,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Corrections (Contract Management of Prisons) Amendment Act 2009][669] ![](/images/external_link.gif).
+*   This Act is the [Corrections (Contract Management of Prisons) Amendment Act 2009][670] ![](/images/external_link.gif).
 
 ##### 2 Commencement
     
@@ -7768,92 +7770,51 @@ Transitional provision and consequential amendments
     
     (2) Despite subsection (1), the contractor and the chief executive, in the name and on behalf of the Crown, may make any arrangements that they consider necessary or desirable to determine the respective liabilities of the Crown and the contractor in relation to any matter referred to in subsection (1).
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Corrections Act 2004\. The reprint incorporates all the amendments to the Act as at 18 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][670] ![](/images/external_link.gif).
+*   This is a reprint of the Corrections Act 2004 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][671] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][671] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][672] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][672] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][673] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][674] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
-    
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][673] and [17E][674] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
-    
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+###### 4 Amendments incorporated in this reprint
     
 *   Psychoactive Substances Act 2013 (2013 No 53): [section 110(1)][430]
     
     [Corrections Amendment Act 2013][675] (2013 No 5)
     
+    Sale and Supply of Alcohol Act 2012 (2012 No 120): [section 417(1)][452]
+    
     Search and Surveillance Act 2012 (2012 No 24): [section 324][428]
     
     [Corrections Amendment Act 2011][676] (2011 No 84)
     
-    Student Loan Scheme Act 2011 (2011 No 62): [section 223][551]
+    Student Loan Scheme Act 2011 (2011 No 62): [section 223][552]
     
     [Corrections (Use of Court Cells) Amendment Act 2009][677] (2009 No 60)
     
-    [Corrections (Contract Management of Prisons) Amendment Act 2009][669] ![](/images/external_link.gif) (2009 No 59)
+    [Corrections (Contract Management of Prisons) Amendment Act 2009][678] (2009 No 59)
     
     Immigration Act 2009 (2009 No 51): [section 406(1) ][400]
     
-    [Corrections Amendment Act 2009][678] (2009 No 3)
+    [Corrections Amendment Act 2009][679] (2009 No 3)
     
-    [Corrections (Mothers with Babies) Amendment Act 2008][679] (2008 No 88)
+    [Corrections (Mothers with Babies) Amendment Act 2008][680] (2008 No 88)
     
     Policing Act 2008 (2008 No 72): [sections 116(a)(ii)][396], [130(1)][448]
     
-    [Corrections (Social Assistance) Amendment Act 2008][680] (2008 No 24)
+    [Corrections (Social Assistance) Amendment Act 2008][681] (2008 No 24)
     
     Court Martial Act 2007 (2007 No 101): [section 87][392]
     
@@ -7861,27 +7822,27 @@ Transitional provision and consequential amendments
     
     Sentencing Amendment Act 2007 (2007 No 27): [section 58][401]
     
-    Crimes of Torture Amendment Act 2006 (2006 No 68): [section 9][514]
+    Crimes of Torture Amendment Act 2006 (2006 No 68): [section 9][515]
     
     Insolvency Act 2006 (2006 No 55): [section 445][413]
     
     Lawyers and Conveyancers Act 2006 (2006 No 1): [section 348][399]
     
-    [Corrections Amendment Act 2005][681] (2005 No 97)
+    [Corrections Amendment Act 2005][682] (2005 No 97)
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][397]
     
     [Corrections Act Commencement Order 2005][366] (SR 2005/52)
     
-    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][565]
+    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][566]
     
     Parole (Extended Supervision) Amendment Act 2004 (2004 No 67): [section 14][367]
     
-    Public Finance Act 1989 (1989 No 44): [section 65R(3)][560]
+    Public Finance Act 1989 (1989 No 44): [section 65R(3)][561]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2004/0050/latest/whole.html#DLM294852
 [2]: http://www.legislation.govt.nz/act/public/2004/0050/latest/whole.html#DLM294853
 [3]: http://www.legislation.govt.nz/act/public/2004/0050/latest/whole.html#DLM294854
@@ -8333,233 +8294,234 @@ Transitional provision and consequential amendments
 [449]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035943
 [450]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035944
 [451]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035945
-[452]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM195534
-[453]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM195097
-[454]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035946
-[455]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM203321
-[456]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035950
-[457]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035955
-[458]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035957
-[459]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035958
-[460]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035959
-[461]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035960
-[462]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM175958
-[463]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098323
-[464]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM317241
-[465]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1131603
-[466]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM327381
-[467]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035961
-[468]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM72923
-[469]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035962
-[470]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035963
-[471]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098325
-[472]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1485303
-[473]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035964
-[474]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098326
-[475]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098327
-[476]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM23462
-[477]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035966
-[478]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035968
-[479]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035969
-[480]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098334
-[481]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4777709
-[482]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098335
-[483]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035970
-[484]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035972
-[485]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM296638
-[486]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM297419
-[487]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098338
-[488]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4777710
-[489]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM304269
-[490]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM130706
-[491]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4777711
-[492]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM36085
-[493]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035973
-[494]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098342
-[495]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035974
-[496]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098343
-[497]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035975
-[498]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098344
-[499]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035976
-[500]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035977
-[501]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1485304
-[502]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035978
-[503]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1485305
-[504]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098345
-[505]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098346
-[506]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098348
-[507]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098349
-[508]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM151416
-[509]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM151419
-[510]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098350
-[511]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM138471
-[512]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM430983
-[513]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM192866
-[514]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM393148
-[515]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035979
-[516]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM224791
-[517]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM129719
-[518]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM129733
-[519]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM64784
-[520]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM224799
-[521]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM45426
-[522]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM236204
-[523]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM446000
-[524]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM5016201
-[525]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM5016204
-[526]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4770207
-[527]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4770216
-[528]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098351
-[529]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM307083
-[530]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM307246
-[531]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM137641
-[532]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM404483
-[533]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM149796
-[534]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM404458
-[535]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM130371
-[536]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1149894
-[537]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM363957
-[538]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM364809
-[539]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM364857
-[540]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM364804
-[541]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM187034
-[542]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM260373
-[543]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM359106
-[544]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM186837
-[545]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM297916
-[546]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM186860
-[547]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM359124
-[548]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM3179936
-[549]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM296645
-[550]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM297962
-[551]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM3180446
-[552]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1149913
-[553]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098373
-[554]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM296587
-[555]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098380
-[556]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098381
-[557]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM139607
-[558]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM297038
-[559]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM99493
-[560]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM162942
-[561]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098382
-[562]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM195581
-[563]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4777712
-[564]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM162464
-[565]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM328867
-[566]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM361180
-[567]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035982
-[568]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM79118
-[569]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4057612
-[570]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM149788
-[571]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM151403
-[572]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM151423
-[573]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM151425
-[574]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM151430
-[575]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1888320
-[576]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM345528
-[577]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035983
-[578]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035985
-[579]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035986
-[580]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM137638
-[581]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM138835
-[582]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM263090
-[583]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035987
-[584]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM446395
-[585]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM446842
-[586]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM447789
-[587]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM361181
-[588]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4777720
-[589]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM108017
-[590]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1131610
-[591]: http://www.legislation.govt.nz/act/public/2004/0050/latest/whole.html#DLM297181
-[592]: http://www.legislation.govt.nz/act/public/2004/0050/latest/whole.html#DLM298003
-[593]: http://www.legislation.govt.nz/act/public/2004/0050/latest/whole.html#DLM298016
-[594]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1888326
-[595]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM76615
-[596]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM31490
-[597]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM298798
-[598]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM380331
-[599]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM68944
-[600]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM355858
-[601]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM254340
-[602]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM152948
-[603]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM139182
-[604]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM134196
-[605]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM283298
-[606]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM43435
-[607]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM414326
-[608]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM327394
-[609]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM192817
-[610]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM368913
-[611]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM76639
-[612]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM223893
-[613]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM280848
-[614]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM243201
-[615]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM307525
-[616]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM428639
-[617]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM25661
-[618]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM446007
-[619]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM340795
-[620]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM91782
-[621]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM306636
-[622]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM120536
-[623]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM350956
-[624]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM111387
-[625]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM101492
-[626]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM224585
-[627]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM64111
-[628]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM365030
-[629]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM44604
-[630]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM63215
-[631]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM72798
-[632]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM55484
-[633]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM262181
-[634]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM436239
-[635]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM24025
-[636]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM273063
-[637]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM170214
-[638]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM322248
-[639]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM414678
-[640]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM95000
-[641]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM165193
-[642]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM135504
-[643]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM223196
-[644]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM361221
-[645]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM430711
-[646]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM53353
-[647]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM311316
-[648]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM289881
-[649]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM158502
-[650]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM286032
-[651]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM286712
-[652]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM169140
-[653]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM2039217
-[654]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM153293
-[655]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM132804
-[656]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM213450
-[657]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM289932
-[658]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM292719
-[659]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM201602
-[660]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM132917
-[661]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM47240
-[662]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM131787
-[663]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM11457
-[664]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM418002
-[665]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM367211
-[666]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM428891
-[667]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM121284
-[668]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM63090
-[669]: file://C:/epicuser/doctypes/NZAct/fragxyxz_DLM1888300.xml
-[670]: http://www.pco.parliament.govt.nz/reprints/
-[671]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM195439
-[672]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[673]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM195468
-[674]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM195470
+[452]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM3339984
+[453]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM195534
+[454]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM195097
+[455]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035946
+[456]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM203321
+[457]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035950
+[458]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035955
+[459]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035957
+[460]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035958
+[461]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035959
+[462]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035960
+[463]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM175958
+[464]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098323
+[465]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM317241
+[466]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1131603
+[467]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM327381
+[468]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035961
+[469]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM72923
+[470]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035962
+[471]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035963
+[472]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098325
+[473]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1485303
+[474]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035964
+[475]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098326
+[476]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098327
+[477]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM23462
+[478]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035966
+[479]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035968
+[480]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035969
+[481]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098334
+[482]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4777709
+[483]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098335
+[484]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035970
+[485]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035972
+[486]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM296638
+[487]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM297419
+[488]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098338
+[489]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4777710
+[490]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM304269
+[491]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM130706
+[492]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4777711
+[493]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM36085
+[494]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035973
+[495]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098342
+[496]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035974
+[497]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098343
+[498]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035975
+[499]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098344
+[500]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035976
+[501]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035977
+[502]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1485304
+[503]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035978
+[504]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1485305
+[505]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098345
+[506]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098346
+[507]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098348
+[508]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098349
+[509]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM151416
+[510]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM151419
+[511]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098350
+[512]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM138471
+[513]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM430983
+[514]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM192866
+[515]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM393148
+[516]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035979
+[517]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM224791
+[518]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM129719
+[519]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM129733
+[520]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM64784
+[521]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM224799
+[522]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM45426
+[523]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM236204
+[524]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM446000
+[525]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM5016201
+[526]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM5016204
+[527]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4770207
+[528]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4770216
+[529]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098351
+[530]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM307083
+[531]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM307246
+[532]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM137641
+[533]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM404483
+[534]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM149796
+[535]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM404458
+[536]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM130371
+[537]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1149894
+[538]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM363957
+[539]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM364809
+[540]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM364857
+[541]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM364804
+[542]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM187034
+[543]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM260373
+[544]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM359106
+[545]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM186837
+[546]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM297916
+[547]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM186860
+[548]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM359124
+[549]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM3179936
+[550]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM296645
+[551]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM297962
+[552]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM3180446
+[553]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1149913
+[554]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098373
+[555]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM296587
+[556]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098380
+[557]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098381
+[558]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM139607
+[559]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM297038
+[560]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM99493
+[561]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM162942
+[562]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098382
+[563]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM195581
+[564]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4777712
+[565]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM162464
+[566]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM328867
+[567]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM361180
+[568]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035982
+[569]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM79118
+[570]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4057612
+[571]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM149788
+[572]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM151403
+[573]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM151423
+[574]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM151425
+[575]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM151430
+[576]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1888320
+[577]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM345528
+[578]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035983
+[579]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035985
+[580]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035986
+[581]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM137638
+[582]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM138835
+[583]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM263090
+[584]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035987
+[585]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM446395
+[586]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM446842
+[587]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM447789
+[588]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM361181
+[589]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4777720
+[590]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM108017
+[591]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1131610
+[592]: http://www.legislation.govt.nz/act/public/2004/0050/latest/whole.html#DLM297181
+[593]: http://www.legislation.govt.nz/act/public/2004/0050/latest/whole.html#DLM298003
+[594]: http://www.legislation.govt.nz/act/public/2004/0050/latest/whole.html#DLM298016
+[595]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1888326
+[596]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM76615
+[597]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM31490
+[598]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM298798
+[599]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM380331
+[600]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM68944
+[601]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM355858
+[602]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM254340
+[603]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM152948
+[604]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM139182
+[605]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM134196
+[606]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM283298
+[607]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM43435
+[608]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM414326
+[609]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM327394
+[610]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM192817
+[611]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM368913
+[612]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM76639
+[613]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM223893
+[614]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM280848
+[615]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM243201
+[616]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM307525
+[617]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM428639
+[618]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM25661
+[619]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM446007
+[620]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM340795
+[621]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM91782
+[622]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM306636
+[623]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM120536
+[624]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM350956
+[625]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM111387
+[626]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM101492
+[627]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM224585
+[628]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM64111
+[629]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM365030
+[630]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM44604
+[631]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM63215
+[632]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM72798
+[633]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM55484
+[634]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM262181
+[635]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM436239
+[636]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM24025
+[637]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM273063
+[638]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM170214
+[639]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM322248
+[640]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM414678
+[641]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM95000
+[642]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM165193
+[643]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM135504
+[644]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM223196
+[645]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM361221
+[646]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM430711
+[647]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM53353
+[648]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM311316
+[649]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM289881
+[650]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM158502
+[651]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM286032
+[652]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM286712
+[653]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM169140
+[654]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM2039217
+[655]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM153293
+[656]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM132804
+[657]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM213450
+[658]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM289932
+[659]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM292719
+[660]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM201602
+[661]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM132917
+[662]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM47240
+[663]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM131787
+[664]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM11457
+[665]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM418002
+[666]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM367211
+[667]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM428891
+[668]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM121284
+[669]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM63090
+[670]: file://C:/epicuser/doctypes/NZAct/fragxyxz_DLM1888300.xml
+[671]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM2998516
+[672]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM2998515
+[673]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM2998532
+[674]: http://www.pco.parliament.govt.nz/editorial-conventions/
 [675]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4035902
 [676]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM4057603
 [677]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM2581000
-[678]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098300
-[679]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1131493
-[680]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1149884
-[681]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM361172
+[678]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1888300
+[679]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098300
+[680]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1131493
+[681]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1149884
+[682]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM361172
