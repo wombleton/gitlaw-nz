@@ -1,7 +1,7 @@
 Reprint  
-as at 1 January 2008
+as at 18 December 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Innkeepers Act 1962Public Act1962 No 140
 
@@ -13,11 +13,11 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-**This Act is administered by the Ministry of Justice.**
+This Act is administered by the Ministry of Justice.
 
 ---
 
@@ -25,41 +25,41 @@ A general outline of these changes is set out in the notes at the end of this re
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
 [Innkeepers' liability][4]
 
-[3][5] [Replacement of existing law][5]
+[3][5][][5][Replacement of existing law][5]
 
-[4][6] [Liability of innkeeper][6]
+[4][6][][6][Liability of innkeeper][6]
 
-[5][7] [Travellers to whom innkeeper liable][7]
+[5][7][][7][Travellers to whom innkeeper liable][7]
 
-[6][8] [General defences][8]
+[6][8][][8][General defences][8]
 
-[7][9] [No liability in respect of vehicles or animals][9]
+[7][9][][9][No liability in respect of vehicles or animals][9]
 
-[8][10] [Monetary limit of liability][10]
+[8][10][][10][Monetary limit of liability][10]
 
-[9][11] [Liability not affected by agreement][11]
+[9][11][][11][Liability not affected by agreement][11]
 
 [Distraint and seizure][12]
 
-[10][13] [Property of guests and other persons not to be distrained][13]
+[10][13][][13][Property of guests and other persons not to be distrained][13]
 
 [Innkeepers' powers of sale][14]
 
-[11][15] [Power of sale to recover debt][15]
+[11][15][][15][Power of sale to recover debt][15]
 
-[12][16] [Power to sell unclaimed goods][16]
+[12][16][][16][Power to sell unclaimed goods][16]
 
-[13][17] [Disposal of unclaimed surplus proceeds of sale][17]
+[13][17][][17][Disposal of unclaimed surplus proceeds of sale][17]
 
 [Repeals][18]
 
-[14][19] [Repeals][19]
+[14][19][][19][Repeals][19]
 
 ---
 
@@ -79,11 +79,11 @@ An Act to amend the law relating to inns and innkeepers
     
     _inn_ means any house or place whose proprietor or licensee holds out that, to the extent of his available accommodation, he will provide, without special contract, sleeping accommodation for any traveller presenting himself who appears able and willing to pay a reasonable sum for the services and facilities provided and is in a fit state to be received; and includes any licensed hotel
     
-    _innkeeper_, in relation to a licensed hotel, means the holder of the on-licence for the time being in force under the [Sale of Liquor Act 1989][20] in respect of the hotel; and, in relation to any other inn, means the proprietor of the inn
+    _innkeeper_, in relation to a licensed hotel, means the holder of the on-licence for the time being in force under the [Sale and Supply of Alcohol Act 2012][20] in respect of the hotel; and, in relation to any other inn, means the proprietor of the inn
     
-    _licensed hotel_ means any hotel in respect of which an on-licence is for the time being in force under the [Sale of Liquor Act 1989][20].
+    _licensed hotel_ means any hotel in respect of which an on-licence is for the time being in force under the [Sale and Supply of Alcohol Act 2012][20].
     
-    (2) While any on-licence continues in force under the [Sale of Liquor Act 1989][20] in respect of any hotel, that hotel shall be deemed to be an inn, and the holder of the licence shall be deemed to be an innkeeper.
+    (2) While any on-licence continues in force under the [Sale and Supply of Alcohol Act 2012][20] in respect of any hotel, that hotel shall be deemed to be an inn, and the holder of the licence shall be deemed to be an innkeeper.
     
     Compare: 1908 No 104 ss 4, 172; 1948 No 74 s 67(6); 1961 No 135 s 74(6)(a); Hotel Proprietors Act 1956 s 1(3) (UK)
     
@@ -91,9 +91,15 @@ An Act to amend the law relating to inns and innkeepers
     
     Section 2(1) **innkeeper**: substituted, on 1 April 1990, by [section 230(1)][21] of the Sale of Liquor Act 1989 (1989 No 63).
     
+    Section 2(1) **innkeeper**: amended, on 18 December 2013, by [section 417(1)][22] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
+    
     Section 2(1) **licensed hotel**: substituted, on 1 April 1990, by [section 230(1)][21] of the Sale of Liquor Act 1989 (1989 No 63).
     
+    Section 2(1) **licensed hotel**: amended, on 18 December 2013, by [section 417(1)][22] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
+    
     Section 2(2): substituted, on 1 April 1990, by [section 230(1)][21] of the Sale of Liquor Act 1989 (1989 No 63).
+    
+    Section 2(2): amended, on 18 December 2013, by [section 417(1)][22] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
 
 #### Innkeepers' liability
 
@@ -103,7 +109,7 @@ An Act to amend the law relating to inns and innkeepers
     
     (2) \[Repealed\]
     
-    Section 3(2): repealed, on 1 January 2008, by [section 365(4)(a)][22] of the Property Law Act 2007 (2007 No 91).
+    Section 3(2): repealed, on 1 January 2008, by [section 365(4)(a)][23] of the Property Law Act 2007 (2007 No 91).
 
 ##### 4 Liability of innkeeper
     
@@ -171,9 +177,9 @@ An Act to amend the law relating to inns and innkeepers
     
     Compare: 1908 No 104 ss 172, 173
     
-    Section 10(1): amended, on 1 January 2008, by [section 364(1)][23] of the Property Law Act 2007 (2007 No 91).
+    Section 10(1): amended, on 1 January 2008, by [section 364(1)][24] of the Property Law Act 2007 (2007 No 91).
     
-    Section 10(2): amended, on 1 April 1980, pursuant to [section 18(2)][24] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 10(2): amended, on 1 April 1980, pursuant to [section 18(2)][25] of the District Courts Amendment Act 1979 (1979 No 125).
 
 #### Innkeepers' powers of sale
 
@@ -193,7 +199,7 @@ An Act to amend the law relating to inns and innkeepers
     
 *   (1) Any innkeeper may sell and dispose of, by public auction, any property left in his charge, if the person who left it does not reclaim it within 6 months.
     
-    (2) The provisions of subsection (3) of [section 11][25] shall apply to every such sale.
+    (2) The provisions of subsection (3) of [section 11][26] shall apply to every such sale.
     
     (3) The innkeeper shall, on demand made by the person who left the property, pay to that person any surplus proceeds of the sale remaining after payment of the costs and expenses of the advertising and sale.
     
@@ -201,19 +207,19 @@ An Act to amend the law relating to inns and innkeepers
 
 ##### 13 Disposal of unclaimed surplus proceeds of sale
     
-*   (1) Where within 3 months after any sale under [section 11][25] or [section 12][26] the surplus proceeds of the sale are not claimed by the owner of the property, the innkeeper shall pay the amount of those proceeds to the Commissioner of Inland Revenue, and shall thereafter be relieved from all liability in respect of the money so paid.
+*   (1) Where within 3 months after any sale under [section 11][26] or [section 12][27] the surplus proceeds of the sale are not claimed by the owner of the property, the innkeeper shall pay the amount of those proceeds to the Commissioner of Inland Revenue, and shall thereafter be relieved from all liability in respect of the money so paid.
     
     (2) All money payable to the Commissioner of Inland Revenue under subsection (1) shall be recoverable as a debt due to the Crown.
     
-    (3) Any money paid to the Commissioner of Inland Revenue under this section shall be deemed to have been so paid as unclaimed money, and the provisions of [section 11][27] of the Unclaimed Money Act 1971 shall apply thereto.
+    (3) Any money paid to the Commissioner of Inland Revenue under this section shall be deemed to have been so paid as unclaimed money, and the provisions of [section 11][28] of the Unclaimed Money Act 1971 shall apply thereto.
     
-    Section 13(1): amended, on 1 June 1971, by [section 14(2)(a)][28] of the Unclaimed Money Act 1971 (1971 No 28).
+    Section 13(1): amended, on 1 June 1971, by [section 14(2)(a)][29] of the Unclaimed Money Act 1971 (1971 No 28).
     
-    Section 13(2): amended, on 1 June 1971, by [section 14(2)(a)][28] of the Unclaimed Money Act 1971 (1971 No 28).
+    Section 13(2): amended, on 1 June 1971, by [section 14(2)(a)][29] of the Unclaimed Money Act 1971 (1971 No 28).
     
-    Section 13(3): amended, on 1 June 1971, by [section 14(2)(a)][28] of the Unclaimed Money Act 1971 (1971 No 28).
+    Section 13(3): amended, on 1 June 1971, by [section 14(2)(a)][29] of the Unclaimed Money Act 1971 (1971 No 28).
     
-    Section 13(3): amended, on 1 June 1971, by [section 14(2)(b)][28] of the Unclaimed Money Act 1971 (1971 No 28).
+    Section 13(3): amended, on 1 June 1971, by [section 14(2)(b)][29] of the Unclaimed Money Act 1971 (1971 No 28).
 
 #### Repeals
 
@@ -221,15 +227,7 @@ An Act to amend the law relating to inns and innkeepers
     
 *   Sections 172 to 176 of the Licensing Act 1908 are hereby repealed.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
@@ -237,66 +235,33 @@ An Act to amend the law relating to inns and innkeepers
 
 ###### 1 General
     
-*   This is a reprint of the Innkeepers Act 1962\. The reprint incorporates all the amendments to the Act as at 1 January 2008, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
+*   This is a reprint of the Innkeepers Act 1962 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][29] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][30] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][31] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ http://www.pco.parliament.govt.nz/legislation/reprints.shtml or Part 8 of the _Tables of Acts and Ordinances and Statutory Regulations, and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][32] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][33] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][30] and [17E][31] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Sale and Supply of Alcohol Act 2012 (2012 No 120): [section 417(1)][22]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Property Law Act 2007 (2007 No 91): [sections 364(1)][23], [365(4)(a)][22]
+    Property Law Act 2007 (2007 No 91): [sections 364(1)][24], [365(4)(a)][23]
     
     Sale of Liquor Act 1989 (1989 No 63): [section 230(1)][21]
     
     Innkeepers Amendment Act 1980 (1980 No 117) : section 2
     
-    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][24]
+    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][25]
     
-    Unclaimed Money Act 1971 (1971 No 28): [section 14(2)][28]
+    Unclaimed Money Act 1971 (1971 No 28): [section 14(2)][29]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1962/0140/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1962/0140/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1962/0140/latest/whole.html#DLM345310
 [2]: http://www.legislation.govt.nz/act/public/1962/0140/latest/whole.html#DLM345312
 [3]: http://www.legislation.govt.nz/act/public/1962/0140/latest/whole.html#DLM345313
@@ -316,15 +281,17 @@ An Act to amend the law relating to inns and innkeepers
 [17]: http://www.legislation.govt.nz/act/public/1962/0140/latest/whole.html#DLM345340
 [18]: http://www.legislation.govt.nz/act/public/1962/0140/latest/whole.html#DLM1676004
 [19]: http://www.legislation.govt.nz/act/public/1962/0140/latest/whole.html#DLM345345
-[20]: http://www.legislation.govt.nz/act/public/1962/0140/latest/link.aspx?id=DLM165115
+[20]: http://www.legislation.govt.nz/act/public/1962/0140/latest/link.aspx?id=DLM3339302
 [21]: http://www.legislation.govt.nz/act/public/1962/0140/latest/link.aspx?id=DLM167530
-[22]: http://www.legislation.govt.nz/act/public/1962/0140/latest/link.aspx?id=DLM969645
-[23]: http://www.legislation.govt.nz/act/public/1962/0140/latest/link.aspx?id=DLM969644
-[24]: http://www.legislation.govt.nz/act/public/1962/0140/latest/link.aspx?id=DLM35085
-[25]: http://www.legislation.govt.nz/act/public/1962/0140/latest/link.aspx?id=DLM345338
-[26]: http://www.legislation.govt.nz/act/public/1962/0140/latest/link.aspx?id=DLM345339
-[27]: http://www.legislation.govt.nz/act/public/1962/0140/latest/link.aspx?id=DLM398462
-[28]: http://www.legislation.govt.nz/act/public/1962/0140/latest/link.aspx?id=DLM398471
-[29]: http://www.legislation.govt.nz/act/public/1962/0140/latest/link.aspx?id=DLM195439
-[30]: http://www.legislation.govt.nz/act/public/1962/0140/latest/link.aspx?id=DLM195468
-[31]: http://www.legislation.govt.nz/act/public/1962/0140/latest/link.aspx?id=DLM195470
+[22]: http://www.legislation.govt.nz/act/public/1962/0140/latest/link.aspx?id=DLM3339984
+[23]: http://www.legislation.govt.nz/act/public/1962/0140/latest/link.aspx?id=DLM969645
+[24]: http://www.legislation.govt.nz/act/public/1962/0140/latest/link.aspx?id=DLM969644
+[25]: http://www.legislation.govt.nz/act/public/1962/0140/latest/link.aspx?id=DLM35085
+[26]: http://www.legislation.govt.nz/act/public/1962/0140/latest/link.aspx?id=DLM345338
+[27]: http://www.legislation.govt.nz/act/public/1962/0140/latest/link.aspx?id=DLM345339
+[28]: http://www.legislation.govt.nz/act/public/1962/0140/latest/link.aspx?id=DLM398462
+[29]: http://www.legislation.govt.nz/act/public/1962/0140/latest/link.aspx?id=DLM398471
+[30]: http://www.legislation.govt.nz/act/public/1962/0140/latest/link.aspx?id=DLM2998516
+[31]: http://www.legislation.govt.nz/act/public/1962/0140/latest/link.aspx?id=DLM2998515
+[32]: http://www.legislation.govt.nz/act/public/1962/0140/latest/link.aspx?id=DLM2998532
+[33]: http://www.pco.parliament.govt.nz/editorial-conventions/
