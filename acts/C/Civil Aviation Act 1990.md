@@ -1,5 +1,5 @@
 Reprint  
-as at 5 December 2013
+as at 18 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -687,7 +687,7 @@ This Act is administered by the Ministry of Transport.
 [Part 11][323]  
 [Miscellaneous provisions][323]
 
-[96][324][][324][Sale of liquor at international airports][324]
+[96][324][][324][Sale of alcohol at international airports][324]
 
 [96A][325][][325][Minister may prohibit smoking on international air routes][325]
 
@@ -4546,7 +4546,7 @@ Unruly passenger offences
     
     *   (b) subsection (1)(b) is liable on conviction to a fine not exceeding $3,000\.
     
-    (3) For the purposes of this section, a person is _intoxicated_ if the pilot-in-command (or senior flight attendant authorised by the pilot-in-command for this purpose) has reasonable grounds to believe that the person is under the influence of an intoxicating liquor, or substance to such an extent as to---
+    (3) For the purposes of this section, a person is _intoxicated_ if the pilot-in-command (or senior flight attendant authorised by the pilot-in-command for this purpose) has reasonable grounds to believe that the person is under the influence of alcohol (within the meaning of [section 5(1)][505] of the Sale and Supply of Alcohol Act 2012) or an intoxicating substance to such an extent as to---
         
     *   (a) be incapable of properly looking after himself or herself; or
     
@@ -4567,6 +4567,8 @@ Unruly passenger offences
     Section 65I(2)(a): amended, on 1 July 2013, by [section 413][471] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 65I(2)(b): amended, on 1 July 2013, by [section 413][471] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 65I(3): amended, on 18 December 2013, by [section 417(1)][506] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
 
 ##### 65J Non-compliance with commands given by pilot-in-command
     
@@ -4734,7 +4736,7 @@ Unruly passenger offences
     
     Section 65R: inserted, on 1 June 2004, by [section 28][498] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 65R(2): amended, on 25 January 2005, pursuant to [section 65R(3)][505] of the Public Finance Act 1989 (1989 No 44).
+    Section 65R(2): amended, on 25 January 2005, pursuant to [section 65R(3)][507] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 65S Filing of notices
     
@@ -4744,7 +4746,7 @@ Unruly passenger offences
     
     *   (b) the Director has not by then received at the address specified in the notice a notice requesting a hearing in respect of that offence.
     
-    (2) If an infringement notice under [section 65P][162] has been issued and served under this section, the [Summary Proceedings Act 1957][506] applies as if that notice were a reminder notice served under [section 21(2)][494] of that Act, and the provisions of that Act apply, with all necessary modifications, to the alleged offence as if---
+    (2) If an infringement notice under [section 65P][162] has been issued and served under this section, the [Summary Proceedings Act 1957][508] applies as if that notice were a reminder notice served under [section 21(2)][494] of that Act, and the provisions of that Act apply, with all necessary modifications, to the alleged offence as if---
         
     *   (a) the reference in [section 21(1)(b)][494] to providing particulars of a reminder notice under that section were a reference to providing particulars of the infringement notice under subsection (1) of this section; and
     
@@ -4764,13 +4766,13 @@ Unruly passenger offences
     
     *   (i) the reference in [section 21(6)(b)][494] and in section 21(10)(a) to a period of 28 days after the service of a reminder notice were a reference to the period of 14 days after the service of the infringement notice; and
     
-    *   (j) each reference in [section 21A][507] and [section 78B][508] to a reminder notice were a reference to an infringement notice and each reference in section 21A and section 78B to the reminder notice were a reference to the infringement notice; and
+    *   (j) each reference in [section 21A][509] and [section 78B][510] to a reminder notice were a reference to an infringement notice and each reference in section 21A and section 78B to the reminder notice were a reference to the infringement notice; and
     
-    *   (k) the references to reminder notices in the definition of defendant in [section 2][509], and in [section 212][510], and in any other relevant provisions of that Act or in any regulations made under that Act, were references to the infringement notice.
+    *   (k) the references to reminder notices in the definition of defendant in [section 2][511], and in [section 212][512], and in any other relevant provisions of that Act or in any regulations made under that Act, were references to the infringement notice.
     
     (3) \[Repealed\]
     
-    (4) Despite [section 203(1)][511] of the Summary Proceedings Act 1957, an infringement notice under [section 65P][162] may be issued and served on a Sunday.
+    (4) Despite [section 203(1)][513] of the Summary Proceedings Act 1957, an infringement notice under [section 65P][162] may be issued and served on a Sunday.
     
     (5) For the purpose of subsection (1), an infringement notice sent by post is deemed to have been served on the defendant when it was posted.
     
@@ -4841,39 +4843,39 @@ Rights of appeal
     
     *   (j) to amend an AOC with ANZA privileges or withdraw those privileges under [section 11I(3)][26].
     
-    Section 66: substituted, on 1 June 2002, by [section 14][512] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 66: substituted, on 1 June 2002, by [section 14][514] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 66(5)(e): added, on 24 February 2006, by [section 29(1)][513] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 66(5)(e): added, on 24 February 2006, by [section 29(1)][515] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 66(5)(f): added, on 24 February 2006, by [section 29(1)][513] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 66(5)(f): added, on 24 February 2006, by [section 29(1)][515] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 66(5)(g): added, on 24 February 2006, by [section 29(1)][513] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 66(5)(g): added, on 24 February 2006, by [section 29(1)][515] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 66(5)(h): added, on 24 February 2006, by [section 29(1)][513] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 66(5)(h): added, on 24 February 2006, by [section 29(1)][515] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 66(5)(i): added, on 24 February 2006, by [section 29(1)][513] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 66(5)(i): added, on 24 February 2006, by [section 29(1)][515] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 66(5)(j): added, on 30 March 2007, by [section 29(2)][513] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 66(5)(j): added, on 30 March 2007, by [section 29(2)][515] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 67 Procedure
     
 *   \[Repealed\]
     
-    Section 67: repealed, on 1 June 2002, by [section 14][512] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 67: repealed, on 1 June 2002, by [section 14][514] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 68 Decision of Director to continue in force pending appeal, etc
     
 *   \[Repealed\]
     
-    Section 68: repealed, on 1 June 2002, by [section 15][514] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 68: repealed, on 1 June 2002, by [section 15][516] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 69 Appeal to High Court on question of law
     
 *   (1) Every party to an appeal under [section 66][168] may appeal to the High Court on a question of law.
     
-    (2) The [High Court Rules][515] and [sections 74 to 78][516] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under [section 72][517] of that Act.
+    (2) The [High Court Rules][517] and [sections 74 to 78][518] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under [section 72][519] of that Act.
     
-    Section 69(2): substituted, on 24 November 2003, by [section 4][518] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 69(2): substituted, on 24 November 2003, by [section 4][520] of the District Courts Amendment Act 2002 (2002 No 63).
 
 ##### 70 Further appeal to Court of Appeal
     
@@ -4895,7 +4897,7 @@ Rights of appeal
     
     *   (c) the production of a certificate signed by the Director or any other employee of the Authority authorised in that behalf by the Director to the effect that on a specified date a person or organisation was or was not the holder of any aviation document or any specified type of aviation document shall be sufficient evidence of the matter certified, until the contrary is proved:
     
-    *   (ca) the production of a written statement signed by the Director to the effect that on a specified date a person was or was not the holder of a medical certificate issued under [Part 2A][54], or the rules before the commencement of the [Civil Aviation (Medical Certification) Amendment Act 2001][519], is sufficient evidence of the matter stated, until the contrary is proved:
+    *   (ca) the production of a written statement signed by the Director to the effect that on a specified date a person was or was not the holder of a medical certificate issued under [Part 2A][54], or the rules before the commencement of the [Civil Aviation (Medical Certification) Amendment Act 2001][521], is sufficient evidence of the matter stated, until the contrary is proved:
     
     *   (cb) the production of a certified copy of material incorporated by reference is, in the absence of evidence to the contrary, sufficient evidence that the material produced is the material incorporated by reference in a rule:
     
@@ -4911,23 +4913,23 @@ Rights of appeal
     
     shall, in the absence of proof to the contrary, be sufficient evidence of the rule and of the fact that it has been made in accordance with the provisions of that Part.
     
-    Section 71(1)(a): amended, on 10 August 1992, by [section 30(a)][520] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 71(1)(a): amended, on 10 August 1992, by [section 30(a)][522] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
     Section 71(1)(b): amended, on 13 August 1996, by section 23(1) of the Civil Aviation Amendment Act 1996 (1996 No 91).
     
-    Section 71(1)(b): amended, on 10 August 1992, by [section 30(b)][520] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 71(1)(b): amended, on 10 August 1992, by [section 30(b)][522] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 71(1)(c): amended, on 10 August 1992, by [section 30(c)][520] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 71(1)(c): amended, on 10 August 1992, by [section 30(c)][522] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 71(1)(ca): inserted, on 1 April 2002, by [section 10(1)][521] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 71(1)(ca): inserted, on 1 April 2002, by [section 10(1)][523] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
     
-    Section 71(1)(cb): inserted, on 1 August 2010, by [section 11][522] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
+    Section 71(1)(cb): inserted, on 1 August 2010, by [section 11][524] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
     
-    Section 71(1)(d): amended, on 10 August 1992, by [section 30(d)][520] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 71(1)(d): amended, on 10 August 1992, by [section 30(d)][522] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
     Section 71(1)(e): added, on 13 August 1996, by section 23(2) of the Civil Aviation Amendment Act 1996 (1996 No 91).
     
-    Section 71(2): added, on 20 August 1993, by [section 6][523] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 71(2): added, on 20 August 1993, by [section 6][525] of the Civil Aviation Amendment Act 1993 (1993 No 90).
 
 ##### 72 Evidence of air traffic services provider
     
@@ -4942,25 +4944,25 @@ Rights of appeal
 ## Part 6A  
 Civil Aviation Authority of New Zealand
     
-*   Part 6A: inserted, on 10 August 1992, by [section 31][524] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+*   Part 6A: inserted, on 10 August 1992, by [section 31][526] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 72A Civil Aviation Authority of New Zealand established
     
 *   (1) There is hereby established an authority to be known as the Civil Aviation Authority of New Zealand.
     
-    (1A) The Authority is a Crown entity for the purposes of [section 7][525] of the Crown Entities Act 2004\.
+    (1A) The Authority is a Crown entity for the purposes of [section 7][527] of the Crown Entities Act 2004\.
     
-    (1B) The [Crown Entities Act 2004][526] applies to the Authority except to the extent that this Act expressly provides otherwise.
+    (1B) The [Crown Entities Act 2004][528] applies to the Authority except to the extent that this Act expressly provides otherwise.
     
-    (2) The Authority shall consist of 5 members appointed in accordance with [section 28(1)(a)][527] of the Crown Entities Act 2004\.
+    (2) The Authority shall consist of 5 members appointed in accordance with [section 28(1)(a)][529] of the Crown Entities Act 2004\.
     
-    (2A) Members of the Authority are the board for the purposes of the [Crown Entities Act 2004][526].
+    (2A) Members of the Authority are the board for the purposes of the [Crown Entities Act 2004][528].
     
     (3) \[Repealed\]
     
     (4) The Minister shall appoint as members persons who the Minister considers will represent the public interest in civil aviation.
     
-    (4A) Subsection (4) does not limit [section 29][528] of the Crown Entities Act 2004\.
+    (4A) Subsection (4) does not limit [section 29][530] of the Crown Entities Act 2004\.
     
     (5) Before appointing 2 of the members, the Minister shall request, from such organisation or organisations as the Minister considers represent those who have a substantial interest in the civil aviation industry in New Zealand, the names of persons such organisation or organisations consider proper candidates for appointment to the Authority.
     
@@ -4972,13 +4974,13 @@ Civil Aviation Authority of New Zealand
     
     (9) The Authority is owned by the Crown.
     
-    (10) The Authority is hereby deemed to be a Crown entity for the purposes of the [Public Finance Act 1989][529].
+    (10) The Authority is hereby deemed to be a Crown entity for the purposes of the [Public Finance Act 1989][531].
     
     (11) \[Repealed\]
     
     (12) The provisions of [Schedule 3][356] shall apply in relation to the Authority.
     
-    Section 72A: inserted, on 10 August 1992, by [section 31][524] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 72A: inserted, on 10 August 1992, by [section 31][526] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
     Section 72A(1A): inserted, on 25 January 2005, by [section 200][376] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -4986,7 +4988,7 @@ Civil Aviation Authority of New Zealand
     
     Section 72A(2): amended, on 25 January 2005, by [section 200][376] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 72A(2): amended, on 1 June 2004, by [section 30][530] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 72A(2): amended, on 1 June 2004, by [section 30][532] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
     Section 72A(2A): inserted, on 25 January 2005, by [section 200][376] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -5002,15 +5004,15 @@ Civil Aviation Authority of New Zealand
     
     Section 72A(9): substituted, on 25 January 2005, by [section 200][376] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 72A(10): amended, on 21 December 1992, by [section 42][531] of the Public Finance Amendment Act 1992 (1992 No 142).
+    Section 72A(10): amended, on 21 December 1992, by [section 42][533] of the Public Finance Amendment Act 1992 (1992 No 142).
     
-    Section 72A(11): repealed, on 20 August 1993, by [section 7(b)][532] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 72A(11): repealed, on 20 August 1993, by [section 7(b)][534] of the Civil Aviation Amendment Act 1993 (1993 No 90).
 
 ##### 72AA Objective of Authority
     
 *   The objective of the Authority is to undertake its safety, security, and other functions in a way that contributes to the aim of achieving an integrated, safe, responsive, and sustainable transport system.
     
-    Section 72AA: inserted, on 1 December 2004, by [section 7][533] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 72AA: inserted, on 1 December 2004, by [section 7][535] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
 
 ##### 72B Functions of Authority
     
@@ -5026,7 +5028,7 @@ Civil Aviation Authority of New Zealand
     
     *   (ca) to establish and continue a service to be called the Aviation Security Service:
     
-    *   (d) to investigate and review civil aviation accidents and incidents in its capacity as the responsible safety and security authority, subject to the limitations set out in [section 14(3)][534] of the Transport Accident Investigation Commission Act 1990:
+    *   (d) to investigate and review civil aviation accidents and incidents in its capacity as the responsible safety and security authority, subject to the limitations set out in [section 14(3)][536] of the Transport Accident Investigation Commission Act 1990:
     
     *   (e) to notify the Transport Accident Investigation Commission in accordance with [section 27][53] of accidents and incidents notified to the Authority:
     
@@ -5056,7 +5058,7 @@ Civil Aviation Authority of New Zealand
         
     *   (a) are conferred on it by this Act or any other Act; and
     
-    *   (b) the Minister may direct in accordance with [section 112][535] of the Crown Entities Act 2004\.
+    *   (b) the Minister may direct in accordance with [section 112][537] of the Crown Entities Act 2004\.
     
     (3A) The Authority may provide such administrative support services for the Aviation Security Service, and on such terms and conditions, as are agreed between the Director and the General Manager.
     
@@ -5064,37 +5066,37 @@ Civil Aviation Authority of New Zealand
     
     (4) \[Repealed\]
     
-    Section 72B: inserted, on 10 August 1992, by [section 31][524] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 72B: inserted, on 10 August 1992, by [section 31][526] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 72B(1): repealed, on 1 December 2004, by [section 8(1)][536] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 72B(1): repealed, on 1 December 2004, by [section 8(1)][538] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 72B(2): amended, on 1 December 2004, by [section 8(2)][536] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 72B(2): amended, on 1 December 2004, by [section 8(2)][538] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 72B(2)(a): substituted, on 1 December 2004, by [section 8(3)][536] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 72B(2)(a): substituted, on 1 December 2004, by [section 8(3)][538] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 72B(2)(b): substituted, on 1 December 2004, by [section 8(3)][536] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 72B(2)(b): substituted, on 1 December 2004, by [section 8(3)][538] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 72B(2)(c): repealed, on 1 December 2004, by [section 8(3)][536] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 72B(2)(c): repealed, on 1 December 2004, by [section 8(3)][538] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 72B(2)(ca): inserted, on 20 August 1993, by [section 8(1)][537] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 72B(2)(ca): inserted, on 20 August 1993, by [section 8(1)][539] of the Civil Aviation Amendment Act 1993 (1993 No 90).
     
-    Section 72B(2)(i): substituted, on 1 December 2004, by [section 8(4)][536] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 72B(2)(i): substituted, on 1 December 2004, by [section 8(4)][538] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 72B(2)(ia): inserted, on 1 December 2004, by [section 8(4)][536] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 72B(2)(ia): inserted, on 1 December 2004, by [section 8(4)][538] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 72B(2)(j): added, on 24 February 2006, by [section 31][538] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 72B(2)(j): added, on 24 February 2006, by [section 31][540] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 72B(2A): substituted, on 1 December 2004, by [section 8(5)][536] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 72B(2A): substituted, on 1 December 2004, by [section 8(5)][538] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 72B(3): substituted, on 1 December 2004, by [section 8(6)][536] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 72B(3): substituted, on 1 December 2004, by [section 8(6)][538] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
     Section 72B(3)(b): amended, on 25 January 2005, by [section 200][376] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 72B(3A): inserted, on 20 August 1993, by [section 8(2)][537] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 72B(3A): inserted, on 20 August 1993, by [section 8(2)][539] of the Civil Aviation Amendment Act 1993 (1993 No 90).
     
-    Section 72B(3B): inserted, on 20 August 1993, by [section 8(2)][537] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 72B(3B): inserted, on 20 August 1993, by [section 8(2)][539] of the Civil Aviation Amendment Act 1993 (1993 No 90).
     
-    Section 72B(4): repealed, on 1 December 2004, by [section 8(1)][536] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 72B(4): repealed, on 1 December 2004, by [section 8(1)][538] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
 
 ##### 72C Authority to comply with policy directions
     
@@ -5106,7 +5108,7 @@ Civil Aviation Authority of New Zealand
     
 *   If the Minister of Finance is satisfied at any time that in any financial year the Aviation Security Service has a surplus of funds, he or she may, after consultation with the Minister, direct the Authority to pay to the Crown a sum equal to the whole or any part of that surplus, as the Minister of Finance thinks fit.
     
-    Section 72CA: inserted, on 20 August 1993, by [section 9][539] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 72CA: inserted, on 20 August 1993, by [section 9][541] of the Civil Aviation Amendment Act 1993 (1993 No 90).
 
 ##### 72D Authority to have powers of natural person
     
@@ -5118,11 +5120,11 @@ Civil Aviation Authority of New Zealand
     
 *   Subject to this Act, the Authority shall, in the course of performing its functions and powers, consider whether it could most efficiently and effectively perform those functions and powers by means of its own operations or by delegating or contracting out those operations to appropriate persons selected after an appropriate competitive process.
     
-    Section 72E: inserted, on 10 August 1992, by [section 31][524] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 72E: inserted, on 10 August 1992, by [section 31][526] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 72F Extra information to be included in statement of intent
     
-*   (1) The Authority must include the following information in its statement of intent prepared under [section 139][540] of the Crown Entities Act 2004:
+*   (1) The Authority must include the following information in its statement of intent prepared under [section 139][542] of the Crown Entities Act 2004:
         
     *   (a) a statement of any new borrowings or financial leases, or similar liabilities the Authority intends to incur during that year; and
     
@@ -5134,7 +5136,7 @@ Civil Aviation Authority of New Zealand
         
         
     
-    (2) The Minister may direct the Authority to amend any provision that is included in the statement of intent under this section, and [section 147][541] of the Crown Entities Act 2004 applies accordingly.
+    (2) The Minister may direct the Authority to amend any provision that is included in the statement of intent under this section, and [section 147][543] of the Crown Entities Act 2004 applies accordingly.
     
     (3) No provision specifying any liabilities the Authority intends to incur may be included in a statement of intent without the concurrence of the Minister of Finance.
     
@@ -5164,17 +5166,17 @@ Civil Aviation Authority of New Zealand
     
     (7) Nothing in the service charter shall limit or restrict any right to make any complaint or to bring any proceedings under any Act or rule of law.
     
-    Section 72G: inserted, on 10 August 1992, by [section 31][524] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 72G: inserted, on 10 August 1992, by [section 31][526] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 72G(5): amended, on 20 August 1993, by [section 11][542] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 72G(5): amended, on 20 August 1993, by [section 11][544] of the Civil Aviation Amendment Act 1993 (1993 No 90).
 
 ##### 72H Use of words Civil Aviation Authority
     
-*   (1) No company or other body shall be incorporated or registered under a name that contains the words ""Civil Aviation Authority"" or under any name that, in the opinion of the Registrar of Companies, or the appropriate registering authority within the meaning of [section 2][543] of the Flags, Emblems, and Names Protection Act 1981, so resembles such a name as to be likely to deceive.
+*   (1) No company or other body shall be incorporated or registered under a name that contains the words ""Civil Aviation Authority"" or under any name that, in the opinion of the Registrar of Companies, or the appropriate registering authority within the meaning of [section 2][545] of the Flags, Emblems, and Names Protection Act 1981, so resembles such a name as to be likely to deceive.
     
     (2) Nothing in subsection (1) shall apply to the Authority or to any person who is appropriately authorised by the Authority.
     
-    Section 72H: inserted, on 10 August 1992, by [section 31][524] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 72H: inserted, on 10 August 1992, by [section 31][526] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 72I Director of Civil Aviation
     
@@ -5240,31 +5242,31 @@ Civil Aviation Authority of New Zealand
     
     in respect of any particular case, the Director shall act independently and shall not be responsible to the Minister or the Authority for the performance or exercise of such functions or powers.
     
-    Section 72I: inserted, on 10 August 1992, by [section 31][524] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 72I: inserted, on 10 August 1992, by [section 31][526] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
     Section 72I(2): amended, on 25 January 2005, by [section 200][376] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 72I(3)(b): amended, on 1 December 2004, by [section 9][544] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 72I(3)(b): amended, on 1 December 2004, by [section 9][546] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 72I(3)(b): amended, on 1 June 2002, by [section 16(1)][545] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 72I(3)(b): amended, on 1 June 2002, by [section 16(1)][547] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 72I(3)(c): added, on 1 December 2004, by [section 9][544] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 72I(3)(c): added, on 1 December 2004, by [section 9][546] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 72I(3)(d): added, on 1 December 2004, by [section 9][544] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 72I(3)(d): added, on 1 December 2004, by [section 9][546] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
     Section 72I(3A): inserted, on 13 August 1996, by section 26 of the Civil Aviation Amendment Act 1996 (1996 No 91).
     
-    Section 72I(3A): amended, on 1 June 2002, by [section 16(2)][545] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 72I(3A): amended, on 1 June 2002, by [section 16(2)][547] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 72I(3B): substituted, on 1 June 2002, by [section 16(3)][545] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 72I(3B): substituted, on 1 June 2002, by [section 16(3)][547] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 72I(3C): inserted, on 1 June 2002, by [section 16(3)][545] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 72I(3C): inserted, on 1 June 2002, by [section 16(3)][547] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 72I(3D): inserted, on 30 March 2007, by [section 32][546] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 72I(3D): inserted, on 30 March 2007, by [section 32][548] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 72I(4): substituted, on 20 August 1993, by [section 12][547] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 72I(4): substituted, on 20 August 1993, by [section 12][549] of the Civil Aviation Amendment Act 1993 (1993 No 90).
     
-    Section 72I(4)(aa): inserted, on 1 April 2002, by [section 10(2)][521] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 72I(4)(aa): inserted, on 1 April 2002, by [section 10(2)][523] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
 
 ##### 72J Acting Director of Civil Aviation
     
@@ -5280,17 +5282,17 @@ Civil Aviation Authority of New Zealand
     
     (3) No person employed within the Aviation Security Service shall be given any direction or appointment by the Authority under this section without the prior written approval of the Minister.
     
-    Section 72J: inserted, on 10 August 1992, by [section 31][524] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 72J: inserted, on 10 August 1992, by [section 31][526] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 72J(3): added, on 20 August 1993, by [section 13][548] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 72J(3): added, on 20 August 1993, by [section 13][550] of the Civil Aviation Amendment Act 1993 (1993 No 90).
 
 ##### 72K Powers of Director in relation to examinations, etc
     
 *   For the purposes of granting or renewing aviation documents under this Act, the Director may set, conduct, and administer examinations and tests, conduct flight testing, and carry out such other functions in relation to such examinations, tests, and flight testing as may be necessary.
     
-    Section 72K: inserted, on 10 August 1992, by [section 31][524] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 72K: inserted, on 10 August 1992, by [section 31][526] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 72K: amended, on 1 June 2002, by [section 17][549] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 72K: amended, on 1 June 2002, by [section 17][551] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 72L General Manager of Aviation Security Service
     
@@ -5300,7 +5302,7 @@ Civil Aviation Authority of New Zealand
     
     (3) The General Manager shall, in performing any functions or exercising any powers conferred or imposed on the General Manager by this Act or any other Act, or by regulations or rules made under this Act or any other Act, (including any functions or powers relating to enforcement of the aviation security provisions of this Act or any other Act, or regulations or rules made under this Act or any other Act), in respect of any particular case, act independently and shall not be responsible to the Minister, the Authority, or the Director for the performance of such functions or the exercise of such powers.
     
-    Section 72L: inserted, on 20 August 1993, by [section 14][550] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 72L: inserted, on 20 August 1993, by [section 14][552] of the Civil Aviation Amendment Act 1993 (1993 No 90).
     
     Section 72L(2): amended, on 25 January 2005, by [section 200][376] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -5318,15 +5320,15 @@ Civil Aviation Authority of New Zealand
     
     (2) No such direction or appointment, and no acts done by any employee or other person acting pursuant to any such direction or appointment, shall in any proceedings be questioned on the ground that the occasion for the direction or appointment had not arisen or had ceased, or on the ground that the employee or other person has not been appointed to any position to which the direction or appointment relates.
     
-    Section 72M: inserted, on 20 August 1993, by [section 14][550] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 72M: inserted, on 20 August 1993, by [section 14][552] of the Civil Aviation Amendment Act 1993 (1993 No 90).
 
 ##### 72N Use of words Aviation Security Service
     
-*   (1) No company or other body shall be incorporated or registered under a name that contains the words ""Aviation Security Service"" or under any name that, in the opinion of the Registrar of Companies, or the appropriate registering authority within the meaning of [section 2][543] of the Flags, Emblems, and Names Protection Act 1981, so resembles such a name as to be likely to deceive.
+*   (1) No company or other body shall be incorporated or registered under a name that contains the words ""Aviation Security Service"" or under any name that, in the opinion of the Registrar of Companies, or the appropriate registering authority within the meaning of [section 2][545] of the Flags, Emblems, and Names Protection Act 1981, so resembles such a name as to be likely to deceive.
     
     (2) Nothing in subsection (1) shall apply to the Aviation Security Service or the Authority or to any person who is appropriately authorised by the Authority.
     
-    Section 72N: inserted, on 20 August 1993, by [section 14][550] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 72N: inserted, on 20 August 1993, by [section 14][552] of the Civil Aviation Amendment Act 1993 (1993 No 90).
 
 ##### 72O References to Director to be read as General Manager of Aviation Security Service in certain circumstances
     
@@ -5336,7 +5338,7 @@ Civil Aviation Authority of New Zealand
     
     (3) No act, omission, or proceeding shall be called into question or declared invalid on the ground that the Director or the General Manager was not the appropriate person to be involved in the act, omission, or proceeding if it is clear that either the Director or the General Manager was the appropriate person to be so involved.
     
-    Section 72O: inserted, on 20 August 1993, by [section 14][550] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 72O: inserted, on 20 August 1993, by [section 14][552] of the Civil Aviation Amendment Act 1993 (1993 No 90).
 
 ## Part 7  
 Registries and information services
@@ -5381,7 +5383,7 @@ Registries and information services
     
     *   (h) the current service charter:
     
-    *   (i) the current statement of intent under [section 139][540] of the Crown Entities Act 2004\.
+    *   (i) the current statement of intent under [section 139][542] of the Crown Entities Act 2004\.
     
     (3) Documents kept at the Registry shall be made available by the Authority, in accordance with the provisions of the [Official Information Act 1982][391], for inspection by the public free of charge.
     
@@ -5391,19 +5393,19 @@ Registries and information services
     
     Section 74(2)(a): substituted, on 13 August 1996, by section 27(1) of the Civil Aviation Amendment Act 1996 (1996 No 91).
     
-    Section 74(2)(ab): inserted, on 30 March 2007, by [section 33(1)][551] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 74(2)(ab): inserted, on 30 March 2007, by [section 33(1)][553] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
     Section 74(2)(ca): inserted, on 13 August 1996, by section 27(2) of the Civil Aviation Amendment Act 1996 (1996 No 91).
     
     Section 74(2)(da): inserted, on 13 August 1996, by section 27(3) of the Civil Aviation Amendment Act 1996 (1996 No 91).
     
-    Section 74(2)(h): added, on 10 August 1992, by [section 32][552] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 74(2)(h): added, on 10 August 1992, by [section 32][554] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
     Section 74(2)(i): substituted, on 25 January 2005, by [section 200][376] of the Crown Entities Act 2004 (2004 No 115).
     
     Section 74(3): amended, on 10 August 1992, by [section 40(1)][384] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 74(4): added, on 1 June 2004, by [section 33(2)][551] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 74(4): added, on 1 June 2004, by [section 33(2)][553] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 75 Information services
     
@@ -5420,7 +5422,7 @@ Aviation security
 
 ##### 76 Aviation security
     
-*   The prevention of the commission of crimes against the [Aviation Crimes Act 1972][553] at any security designated aerodrome or security designated navigation installation, and the protection of persons and property from dangers arising from the commission or attempted commission of such crimes, shall be the joint responsibility of the New Zealand Police and any authorised provider of aviation security services at that aerodrome or installation.
+*   The prevention of the commission of crimes against the [Aviation Crimes Act 1972][555] at any security designated aerodrome or security designated navigation installation, and the protection of persons and property from dangers arising from the commission or attempted commission of such crimes, shall be the joint responsibility of the New Zealand Police and any authorised provider of aviation security services at that aerodrome or installation.
     
     Compare: 1964 No 68 s 21A; 1976 No 153 s 4
 
@@ -5528,17 +5530,17 @@ Aviation security
     
     (8) Nothing in this section empowers the Minister to exercise the Director's powers under [section 77B][201].
     
-    Section 77A: inserted, on 1 June 2002, by [section 18][554] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 77A: inserted, on 1 June 2002, by [section 18][556] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 77A heading: amended, on 18 January 2008, by [section 9(1)][555] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 77A heading: amended, on 18 January 2008, by [section 9(1)][557] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 77A(1): substituted, on 18 January 2008, by [section 9(2)][555] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 77A(1): substituted, on 18 January 2008, by [section 9(2)][557] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 77A(1A): inserted, on 18 January 2008, by [section 9(2)][555] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 77A(1A): inserted, on 18 January 2008, by [section 9(2)][557] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 77A(2): amended, on 18 January 2008, by [section 9(3)][555] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 77A(2): amended, on 18 January 2008, by [section 9(3)][557] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 77A(2)(b): amended, on 18 January 2008, by [section 9(4)][555] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 77A(2)(b): amended, on 18 January 2008, by [section 9(4)][557] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
     Section 77A(5): replaced, on 5 August 2013, by [section 77(3)][447] of the Legislation Act 2012 (2012 No 119).
     
@@ -5636,15 +5638,15 @@ Aviation security
     
     (7) Subject to subsection (4), a direction remains in effect until it is rescinded.
     
-    Section 77B: inserted, on 1 June 2002, by [section 18][554] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 77B: inserted, on 1 June 2002, by [section 18][556] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 77B heading: amended, on 18 January 2008, by [section 10(1)][556] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 77B heading: amended, on 18 January 2008, by [section 10(1)][558] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 77B(1): substituted, on 18 January 2008, by [section 10(2)][556] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 77B(1): substituted, on 18 January 2008, by [section 10(2)][558] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 77B(1A): inserted, on 18 January 2008, by [section 10(2)][556] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 77B(1A): inserted, on 18 January 2008, by [section 10(2)][558] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 77B(2): amended, on 18 January 2008, by [section 10(3)][556] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 77B(2): amended, on 18 January 2008, by [section 10(3)][558] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
     Section 77B(5): replaced, on 5 August 2013, by [section 77(3)][447] of the Legislation Act 2012 (2012 No 119).
     
@@ -5656,7 +5658,7 @@ Aviation security
     
     (2) For the purposes of this section, _security sensitive information_ means information that would prejudice the national security interests of New Zealand if disclosed.
     
-    Section 77BA: inserted, on 18 January 2008, by [section 11][557] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 77BA: inserted, on 18 January 2008, by [section 11][559] of the Civil Aviation Amendment Act 2007 (2007 No 89).
 
 ##### 77C Transitional provisions for screening
     
@@ -5664,7 +5666,7 @@ Aviation security
     
     (2) A person carrying out the screening of domestic aircraft passenger services under a direction to do so made before 1 June 2002 (or a search in accordance with such a direction) is entitled to continue to carry out that screening (or search) until 1 September 2002, on which date the entitlement expires.
     
-    Section 77C: inserted, on 1 June 2002, by [section 18][554] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 77C: inserted, on 1 June 2002, by [section 18][556] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 77F Powers and duties of Director relating to security checks
     
@@ -5680,7 +5682,7 @@ Aviation security
     
     (4) For the purpose of determining whether a person poses a threat to aviation security, the Director may---
         
-    *   (a) seek and receive any information that the Director considers relevant, including (but not limited to) a recommendation made by the New Zealand Security Intelligence Service under [section 4(1)(bb)][558] of the New Zealand Security Intelligence Service Act 1969; and
+    *   (a) seek and receive any information that the Director considers relevant, including (but not limited to) a recommendation made by the New Zealand Security Intelligence Service under [section 4(1)(bb)][560] of the New Zealand Security Intelligence Service Act 1969; and
     
     *   (b) give weight to any component of the information as the Director considers appropriate in the circumstances.
     
@@ -5718,11 +5720,11 @@ Aviation security
     
     (8) Nothing in this section limits the power of the Director to grant an exemption under [section 37][86].
     
-    Section 77F: inserted, on 26 September 2007, by [section 12(2)][559] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 77F: inserted, on 26 September 2007, by [section 12(2)][561] of the Civil Aviation Amendment Act 2007 (2007 No 89).
 
 ##### 77G Review procedures for security check determinations
     
-*   (1) If the Director makes an adverse security check determination with respect to a New Zealand person based on a recommendation made by the New Zealand Security Intelligence Service under [section 4(1)(bb)][558] of the New Zealand Security Intelligence Service Act 1969, the Director must advise the New Zealand person that the person may lodge a complaint regarding the recommendation with the Inspector-General of Intelligence and Security in accordance with [sections 11][560] and [16][561] of the Inspector-General of Intelligence and Security Act 1996\.
+*   (1) If the Director makes an adverse security check determination with respect to a New Zealand person based on a recommendation made by the New Zealand Security Intelligence Service under [section 4(1)(bb)][560] of the New Zealand Security Intelligence Service Act 1969, the Director must advise the New Zealand person that the person may lodge a complaint regarding the recommendation with the Inspector-General of Intelligence and Security in accordance with [sections 11][562] and [16][563] of the Inspector-General of Intelligence and Security Act 1996\.
     
     (2) If the Director proposes to make an adverse security check determination with respect to a person based on information other than a recommendation made by the New Zealand Security Intelligence Service, the Director must---
         
@@ -5776,11 +5778,11 @@ Aviation security
     
     (5) For the purposes of this section,---
     
-    _Inspector-General of Intelligence and Security_ means the person holding office under [section 5][562] of the Inspector-General of Intelligence and Security Act 1996
+    _Inspector-General of Intelligence and Security_ means the person holding office under [section 5][564] of the Inspector-General of Intelligence and Security Act 1996
     
-    _New Zealand person_ has the same meaning as in [section 2(1)][563] of the Inspector-General of Intelligence and Security Act 1996\.
+    _New Zealand person_ has the same meaning as in [section 2(1)][565] of the Inspector-General of Intelligence and Security Act 1996\.
     
-    Section 77G: inserted, on 26 September 2007, by [section 12(2)][559] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 77G: inserted, on 26 September 2007, by [section 12(2)][561] of the Civil Aviation Amendment Act 2007 (2007 No 89).
 
 ##### 77H Offence to carry out activity while authorisation withdrawn or after authorisation revoked
     
@@ -5792,7 +5794,7 @@ Aviation security
     
     (2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $5,000\.
     
-    Section 77H: inserted, on 26 September 2007, by [section 12(2)][559] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 77H: inserted, on 26 September 2007, by [section 12(2)][561] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
     Section 77H(2): amended, on 1 July 2013, by [section 413][471] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -5806,7 +5808,7 @@ Aviation security
     
     (2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $10,000\.
     
-    Section 77I: inserted, on 26 September 2007, by [section 12(2)][559] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 77I: inserted, on 26 September 2007, by [section 12(2)][561] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
     Section 77I(2): amended, on 1 July 2013, by [section 413][471] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -5814,7 +5816,7 @@ Aviation security
     
 *   \[Repealed\]
     
-    Section 78: repealed, on 20 August 1993, by [section 8(3)(a)][537] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 78: repealed, on 20 August 1993, by [section 8(3)(a)][539] of the Civil Aviation Amendment Act 1993 (1993 No 90).
 
 ##### 79 Authorised aviation security service providers
     
@@ -5840,7 +5842,7 @@ Aviation security
     
     (4) Any appointment made by the Minister under subsection (3) shall have effect for a period specified by the Minister, being not more than 10 days.
     
-    Section 79A: inserted, on 20 August 1993, by [section 15][564] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 79A: inserted, on 20 August 1993, by [section 15][566] of the Civil Aviation Amendment Act 1993 (1993 No 90).
 
 ##### 80 Powers, functions, and duties of Aviation Security Service
     
@@ -5878,21 +5880,21 @@ Aviation security
     
     Compare: 1964 No 68 s 21B; 1976 No 153 s 4
     
-    Section 80 heading: amended, on 26 September 2007, by [section 13(1)][565] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 80 heading: amended, on 26 September 2007, by [section 13(1)][567] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 80: amended, on 26 September 2007, by [section 13(2)][565] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 80: amended, on 26 September 2007, by [section 13(2)][567] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 80(a): substituted, on 1 June 2002, by [section 19][566] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 80(a): substituted, on 1 June 2002, by [section 19][568] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 80(a)(ii): amended, on 26 September 2007, by [section 13(3)][565] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 80(a)(ii): amended, on 26 September 2007, by [section 13(3)][567] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 80(ab): inserted, on 1 June 2002, by [section 19][566] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 80(ab): inserted, on 1 June 2002, by [section 19][568] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
     Section 80(d): amended, on 20 August 1993, by [section 17][483] of the Civil Aviation Amendment Act 1993 (1993 No 90).
     
-    Section 80(ea): inserted, on 24 March 2004, by [section 36][567] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 80(ea): inserted, on 24 March 2004, by [section 36][569] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 80(eb): inserted, on 1 December 2004, by [section 10][568] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 80(eb): inserted, on 1 December 2004, by [section 10][570] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
 
 ##### 80A Powers and duties of aviation security officer relating to dangerous goods
     
@@ -5914,19 +5916,19 @@ Aviation security
     
     (6) The aviation security officer must report the detection of dangerous goods in accordance with the rules or, in the absence of rules, as the Director may direct.
     
-    Section 80A: inserted, on 1 June 2002, by [section 20][569] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 80A: inserted, on 1 June 2002, by [section 20][571] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 80B Power of aviation security officers to search for and seize certain items or substances to be carried on aircraft or into sterile areas
     
-*   (1) Without limiting [section 80][211] of this Act or [section 12(1)][570] of the Aviation Crimes Act 1972, an aviation security officer may, for the purpose of detecting any item or substance specified in a direction given under [section 77A(1)][200] or [77B(1)][201], screen or search any person, item, substance, or vehicle---
+*   (1) Without limiting [section 80][211] of this Act or [section 12(1)][572] of the Aviation Crimes Act 1972, an aviation security officer may, for the purpose of detecting any item or substance specified in a direction given under [section 77A(1)][200] or [77B(1)][201], screen or search any person, item, substance, or vehicle---
         
     *   (a) before the person, item, substance, or vehicle enters a sterile area:
     
     *   (b) present in a sterile area.
     
-    (2) A search undertaken under subsection (1) must be carried out in accordance with the requirements for searches specified in [section 12(2) to (8)][570] of the Aviation Crimes Act 1972\.
+    (2) A search undertaken under subsection (1) must be carried out in accordance with the requirements for searches specified in [section 12(2) to (8)][572] of the Aviation Crimes Act 1972\.
     
-    (3) If an item or substance specified in [section 11(1)][571] of the Aviation Crimes Act 1972 or a direction under [section 77A(1)][200] or [77B(1)][201] is detected in a search undertaken under subsection (1) or [section 80][211] of this Act or [section 12][570] of the Aviation Crimes Act 1972, and an aviation security officer has reasonable grounds to believe that there is no lawful authority or reasonable excuse for the item or substance to be carried on an aircraft or into a sterile area, the aviation security officer may seize and detain the item or substance for the purpose of determining whether there is lawful authority or reasonable excuse for the item or substance to be carried on an aircraft or into a sterile area.
+    (3) If an item or substance specified in [section 11(1)][573] of the Aviation Crimes Act 1972 or a direction under [section 77A(1)][200] or [77B(1)][201] is detected in a search undertaken under subsection (1) or [section 80][211] of this Act or [section 12][572] of the Aviation Crimes Act 1972, and an aviation security officer has reasonable grounds to believe that there is no lawful authority or reasonable excuse for the item or substance to be carried on an aircraft or into a sterile area, the aviation security officer may seize and detain the item or substance for the purpose of determining whether there is lawful authority or reasonable excuse for the item or substance to be carried on an aircraft or into a sterile area.
     
     (4) If the aviation security officer determines that the item or substance may be lawfully carried into, or remain in, an aircraft or a sterile area, the aviation security officer must,---
         
@@ -5946,7 +5948,7 @@ Aviation security
     
     (7) Despite anything in this section, if the aviation security officer has reasonable grounds to believe that an item or substance poses an imminent risk to safety, the aviation security officer may destroy or otherwise dispose of the item or substance.
     
-    Section 80B: inserted, on 26 September 2007, by [section 14(1)][572] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 80B: inserted, on 26 September 2007, by [section 14(1)][574] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
     Section 80B(5)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii) ][374]of the Policing Act 2008 (2008 No 72).
     
@@ -5954,15 +5956,15 @@ Aviation security
 
 ##### 80C Powers and duties of aviation security officers relating to security enhanced areas
     
-*   (1) Without limiting [section 80][211], an aviation security officer may, for the purpose of detecting any item or substance specified in [section 11(1)][571] of the Aviation Crimes Act 1972 or a direction given under [section 77A(1)][200] or [77B(1)][201], screen or search any person, item, substance, or vehicle---
+*   (1) Without limiting [section 80][211], an aviation security officer may, for the purpose of detecting any item or substance specified in [section 11(1)][573] of the Aviation Crimes Act 1972 or a direction given under [section 77A(1)][200] or [77B(1)][201], screen or search any person, item, substance, or vehicle---
         
     *   (a) before the person, item, substance, or vehicle enters a security enhanced area:
     
     *   (b) present in a security enhanced area.
     
-    (2) A search undertaken under subsection (1) must be carried out in accordance with the requirements for searches specified in [section 12(2) to (8)][570] of the Aviation Crimes Act 1972\.
+    (2) A search undertaken under subsection (1) must be carried out in accordance with the requirements for searches specified in [section 12(2) to (8)][572] of the Aviation Crimes Act 1972\.
     
-    (3) If an item or substance specified in [section 11(1)][571] of the Aviation Crimes Act 1972 or a direction under [section 77A(1)][200] or [77B(1)][201] is detected in a search undertaken under subsection (1) or [section 80][211] of this Act or [section 12][570] of the Aviation Crimes Act 1972, and the aviation security officer has reasonable grounds to believe that there is no lawful authority or reasonable excuse for the item or substance to be carried into or remain in the security enhanced area, the aviation security officer may seize and detain the item or substance for the purpose of determining whether there is lawful authority or reasonable excuse for the item or substance to be carried into or remain in the security enhanced area.
+    (3) If an item or substance specified in [section 11(1)][573] of the Aviation Crimes Act 1972 or a direction under [section 77A(1)][200] or [77B(1)][201] is detected in a search undertaken under subsection (1) or [section 80][211] of this Act or [section 12][572] of the Aviation Crimes Act 1972, and the aviation security officer has reasonable grounds to believe that there is no lawful authority or reasonable excuse for the item or substance to be carried into or remain in the security enhanced area, the aviation security officer may seize and detain the item or substance for the purpose of determining whether there is lawful authority or reasonable excuse for the item or substance to be carried into or remain in the security enhanced area.
     
     (4) If the aviation security officer determines that there is no lawful authority or reasonable excuse for the item or substance to be carried into or remain in the security enhanced area, the aviation security officer---
         
@@ -5988,7 +5990,7 @@ Aviation security
     
     (6) Despite anything in this section, if the aviation security officer has reasonable grounds to believe that the item or substance poses an imminent risk to safety, the aviation security officer may destroy or otherwise dispose of the item or substance.
     
-    Section 80C: inserted, on 18 January 2008, by [section 14(2)][572] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 80C: inserted, on 18 January 2008, by [section 14(2)][574] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
     Section 80C(4)(a)(i): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][374] of the Policing Act 2008 (2008 No 72).
 
@@ -6002,7 +6004,7 @@ Aviation security
     
     (2) To avoid doubt, an item, substance, or vehicle may be screened or searched without consent if it is unattended.
     
-    Section 80D: inserted, on 18 January 2008, by [section 14(2)][572] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 80D: inserted, on 18 January 2008, by [section 14(2)][574] of the Civil Aviation Amendment Act 2007 (2007 No 89).
 
 ##### 80E Persons who refuse to consent to be screened or searched
     
@@ -6046,15 +6048,15 @@ Aviation security
     
     *   (c) detain a person under subsection (3).
     
-    Compare: 2004 No 16 [s 54][573]
+    Compare: 2004 No 16 [s 54][575]
     
-    Section 80E: inserted, on 18 January 2008, by [section 14(2)][572] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 80E: inserted, on 18 January 2008, by [section 14(2)][574] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
     Section 80E(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][374] of the Policing Act 2008 (2008 No 72).
 
 ##### 80F Searches of persons refusing consent to be searched
     
-*   (1) If a person refuses to consent to the screening or searching under [section 80C(1)][214], a constable may, without a warrant, search the person and any item, substance, or vehicle in the person's possession, and may detain the person for the purposes of the search, and may take possession of any item or substance found in the course of the search that is specified in [section 11(1)][571] of the Aviation Crimes Act 1972, if the constable has reasonable grounds to suspect that---
+*   (1) If a person refuses to consent to the screening or searching under [section 80C(1)][214], a constable may, without a warrant, search the person and any item, substance, or vehicle in the person's possession, and may detain the person for the purposes of the search, and may take possession of any item or substance found in the course of the search that is specified in [section 11(1)][573] of the Aviation Crimes Act 1972, if the constable has reasonable grounds to suspect that---
         
     *   (a) an offence against the Aviation Crimes Act 1972 has been, is being, or is likely to be committed, whether by that person or by any other person; and
     
@@ -6072,9 +6074,9 @@ Aviation security
     
     (4) If a constable exercises the power of search under subsection (1), he or she must, within 3 days after the day on which he or she exercises the power, furnish to the Commissioner of Police a written report on the exercise of the power and the circumstances in which it came to be exercised.
     
-    Compare: 2004 No 16 [s 55][574]
+    Compare: 2004 No 16 [s 55][576]
     
-    Section 80F: inserted, on 18 January 2008, by [section 14(2)][572] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 80F: inserted, on 18 January 2008, by [section 14(2)][574] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
     Section 80F(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][374] of the Policing Act 2008 (2008 No 72).
     
@@ -6132,7 +6134,7 @@ Aviation security
         
         
     
-    Section 80G: inserted, on 18 January 2008, by [section 14(2)][572] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 80G: inserted, on 18 January 2008, by [section 14(2)][574] of the Civil Aviation Amendment Act 2007 (2007 No 89).
 
 ##### 80H Power to require drivers to stop vehicles in security enhanced areas for screening or searching
     
@@ -6152,9 +6154,9 @@ Aviation security
     
     *   (b) the burden of proving that the defendant had lawful authority or a reasonable excuse lies on the defendant.
     
-    Compare: 1998 No 110 [s 114][575]
+    Compare: 1998 No 110 [s 114][577]
     
-    Section 80H: inserted, on 18 January 2008, by [section 14(2)][572] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 80H: inserted, on 18 January 2008, by [section 14(2)][574] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
     Section 80H(3): amended, on 1 July 2013, by [section 413][471] of the Criminal Procedure Act 2011 (2011 No 81).
     
@@ -6168,9 +6170,9 @@ Aviation security
     
     *   (b) the exercise of powers or the performance of duties under this Act.
     
-    Compare: 1949 No 19 [s 13][576]
+    Compare: 1949 No 19 [s 13][578]
     
-    Section 80I: inserted, on 18 January 2008, by [section 14(2)][572] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 80I: inserted, on 18 January 2008, by [section 14(2)][574] of the Civil Aviation Amendment Act 2007 (2007 No 89).
 
 ##### 81 Functions and duties of other aviation security service providers
     
@@ -6228,37 +6230,37 @@ Aviation security
     
     Compare: 1964 No 68 s 21E; 1976 No 153 s 4
     
-    Section 84 heading: amended, on 18 January 2008, by [section 15(1)][577] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 84 heading: amended, on 18 January 2008, by [section 15(1)][579] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 84(1): amended, on 18 January 2008, by [section 15(2)][577] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 84(1): amended, on 18 January 2008, by [section 15(2)][579] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 84(1): amended, on 10 August 1992, by [section 33][578] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 84(1): amended, on 10 August 1992, by [section 33][580] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 84(1A): inserted, on 18 January 2008, by [section 15(3)][577] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 84(1A): inserted, on 18 January 2008, by [section 15(3)][579] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 84(2): substituted, on 18 January 2008, by [section 15(4)][577] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 84(2): substituted, on 18 January 2008, by [section 15(4)][579] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
     Section 84(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][374] of the Policing Act 2008 (2008 No 72).
     
-    Section 84(3): amended, on 18 January 2008, by [section 15(5)][577] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 84(3): amended, on 18 January 2008, by [section 15(5)][579] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 84(4): amended, on 18 January 2008, by [section 15(6)][577] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 84(4): amended, on 18 January 2008, by [section 15(6)][579] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 84(5): amended, on 18 January 2008, by [section 15(7)][577] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 84(5): amended, on 18 January 2008, by [section 15(7)][579] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
     Section 84(6): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][374] of the Policing Act 2008 (2008 No 72).
     
-    Section 84(7): substituted, on 18 January 2008, by [section 15(8)][577] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 84(7): substituted, on 18 January 2008, by [section 15(8)][579] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 84(8): added, on 18 January 2008, by [section 15(8)][577] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 84(8): added, on 18 January 2008, by [section 15(8)][579] of the Civil Aviation Amendment Act 2007 (2007 No 89).
 
 ##### 85 Powers of arrest and seizure of items or substances
     
 *   (1) Every aviation security officer is justified in arresting without warrant any person on or in the vicinity of any security designated aerodrome or security designated navigation installation if he or she has reasonable grounds to believe that an offence has been or is being committed by that person against any of the following enactments:
         
-    *   (a) [sections 3][579], [4][580], [5][581], [5A][582], and [11][571] of the Aviation Crimes Act 1972:
+    *   (a) [sections 3][581], [4][582], [5][583], [5A][584], and [11][573] of the Aviation Crimes Act 1972:
     
-    *   (b) [section 45][583] of the Arms Act 1983 (which relates to unlawful carriage of firearms, ammunition, or explosives).
+    *   (b) [section 45][585] of the Arms Act 1983 (which relates to unlawful carriage of firearms, ammunition, or explosives).
     
     (1A) An aviation security officer may---
         
@@ -6294,23 +6296,23 @@ Aviation security
     
     Compare: 1964 No 68 s 21F; 1976 No 153 s 4
     
-    Section 85 heading: amended, on 26 September 2007, by [section 16(1)][584] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 85 heading: amended, on 26 September 2007, by [section 16(1)][586] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 85(1)(a): amended, on 26 September 2007, by [section 16(2)][584] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 85(1)(a): amended, on 26 September 2007, by [section 16(2)][586] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 85(1A): inserted, on 26 September 2007, by [section 16(3)][584] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 85(1A): inserted, on 26 September 2007, by [section 16(3)][586] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 85(1B): inserted, on 26 September 2007, by [section 16(3)][584] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 85(1B): inserted, on 26 September 2007, by [section 16(3)][586] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 85(1C): inserted, on 26 September 2007, by [section 16(3)][584] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 85(1C): inserted, on 26 September 2007, by [section 16(3)][586] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 85(1D): inserted, on 26 September 2007, by [section 16(3)][584] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 85(1D): inserted, on 26 September 2007, by [section 16(3)][586] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
     Section 85(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][374] of the Policing Act 2008 (2008 No 72).
     
-    Section 85(3): amended, on 26 September 2007, by [section 16(4)][584] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 85(3): amended, on 26 September 2007, by [section 16(4)][586] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 85(4): added, on 26 September 2007, by [section 16(5)][584] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 85(4): added, on 26 September 2007, by [section 16(5)][586] of the Civil Aviation Amendment Act 2007 (2007 No 89).
 
 ##### 86 Arrest of persons delivered to Police
     
@@ -6369,9 +6371,9 @@ International air services licensing
     
     Section 87A: inserted, on 13 August 1996, by section 28 of the Civil Aviation Amendment Act 1996 (1996 No 91).
     
-    Section 87A **scheduled international air service**: amended, on 1 June 2002, by [section 22(1)][585] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 87A **scheduled international air service**: amended, on 1 June 2002, by [section 22(1)][587] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 87A **seventh freedom service**: added, on 1 June 2002, by [section 22(2)][585] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 87A **seventh freedom service**: added, on 1 June 2002, by [section 22(2)][587] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 87B Scheduled international air service not to be carried on except pursuant to licence
     
@@ -6379,7 +6381,7 @@ International air services licensing
     
     Section 87B: inserted, on 13 August 1996, by section 28 of the Civil Aviation Amendment Act 1996 (1996 No 91).
     
-    Section 87B heading: amended, on 1 June 2002, by [section 23][586] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 87B heading: amended, on 1 June 2002, by [section 23][588] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 87C Application for licence
     
@@ -6575,7 +6577,7 @@ International air services licensing
     
     Section 87P: inserted, on 13 August 1996, by section 28 of the Civil Aviation Amendment Act 1996 (1996 No 91).
     
-    Section 87P(2): amended, on 1 June 2002, by [section 24][587] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 87P(2): amended, on 1 June 2002, by [section 24][589] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 87Q Variation of terms and conditions of scheduled international air service licence
     
@@ -6765,7 +6767,7 @@ International air services licensing
 
 ##### 87ZG This Part not in force in Tokelau
     
-*   Except as may be provided in regulations made under [section 4][588] of the Tokelau Act 1948, this Part shall not be in force in Tokelau.
+*   Except as may be provided in regulations made under [section 4][590] of the Tokelau Act 1948, this Part shall not be in force in Tokelau.
     
     Section 87ZG: inserted, on 13 August 1996, by section 28 of the Civil Aviation Amendment Act 1996 (1996 No 91).
 
@@ -6852,7 +6854,7 @@ International air carriage competition
 
 ##### 91 Application of Commerce Act 1986
     
-*   (1) Nothing in [sections 27 to 29][589] of the Commerce Act 1986 shall apply to or in respect of---
+*   (1) Nothing in [sections 27 to 29][591] of the Commerce Act 1986 shall apply to or in respect of---
         
     *   (a) the negotiation or conclusion of any contract, arrangement, or understanding so far as it contains a provision relating to international carriage by air, so long as that provision is not given effect to before its authorisation under [section 88][270]; or
     
@@ -6865,7 +6867,7 @@ International air carriage competition
 ## Part 9A  
 International carriage by air
     
-*   Part 9A: inserted, on 1 December 1999, by [section 3][590] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+*   Part 9A: inserted, on 1 December 1999, by [section 3][592] of the Civil Aviation Amendment Act 1999 (1999 No 70).
 
 ##### 91A Interpretation
     
@@ -6897,11 +6899,11 @@ International carriage by air
     
     Compare: 1967 No 151 s 5; 1990 No 102 s 2
     
-    Section 91A: inserted, on 1 December 1999, by [section 3][590] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91A: inserted, on 1 December 1999, by [section 3][592] of the Civil Aviation Amendment Act 1999 (1999 No 70).
     
-    Section 91A **court**: substituted, on 4 November 2003, by [section 25(1)][591] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91A **court**: substituted, on 4 November 2003, by [section 25(1)][593] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91A **Montreal Convention**: inserted, on 4 November 2003, by [section 25(2)][591] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91A **Montreal Convention**: inserted, on 4 November 2003, by [section 25(2)][593] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 91B Application of Guadalajara Convention
     
@@ -6909,7 +6911,7 @@ International carriage by air
     
     Compare: 1967 No 151 s 6
     
-    Section 91B: inserted, on 1 December 1999, by [section 3][590] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91B: inserted, on 1 December 1999, by [section 3][592] of the Civil Aviation Amendment Act 1999 (1999 No 70).
 
 ##### 91C Conventions to have force of law
     
@@ -6925,19 +6927,19 @@ International carriage by air
     
     Compare: 1967 No 151 s 7(1)
     
-    Section 91C: inserted, on 1 December 1999, by [section 3][590] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91C: inserted, on 1 December 1999, by [section 3][592] of the Civil Aviation Amendment Act 1999 (1999 No 70).
     
-    Section 91C(1): amended, on 4 November 2003, by [section 26(1)(a)][592] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91C(1): amended, on 4 November 2003, by [section 26(1)(a)][594] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91C(1): amended, on 4 November 2003, by [section 26(1)(b)][592] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91C(1): amended, on 4 November 2003, by [section 26(1)(b)][594] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91C(2): amended, on 4 November 2003, by [section 26(2)][592] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91C(2): amended, on 4 November 2003, by [section 26(2)][594] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91C(3): amended, on 4 November 2003, by [section 26(3)][592] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91C(3): amended, on 4 November 2003, by [section 26(3)][594] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91C(4): amended, on 4 November 2003, by [section 26(4)][592] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91C(4): amended, on 4 November 2003, by [section 26(4)][594] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91C(5): amended, on 4 November 2003, by [section 26(5)][592] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91C(5): amended, on 4 November 2003, by [section 26(5)][594] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 91D Inconsistency between French and English texts
     
@@ -6963,17 +6965,17 @@ International carriage by air
     
     Compare: 1967 No 151 s 7(2)
     
-    Section 91D: inserted, on 1 December 1999, by [section 3][590] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91D: inserted, on 1 December 1999, by [section 3][592] of the Civil Aviation Amendment Act 1999 (1999 No 70).
 
 ##### 91E Fatal accidents
     
-*   References in [section 4][593] of the Deaths by Accidents Compensation Act 1952 to a wrongful act, neglect, or default, include references to any occurrence which gives rise to a liability under Article 17(1) of the Montreal Convention or Article 17 of the amended Convention.
+*   References in [section 4][595] of the Deaths by Accidents Compensation Act 1952 to a wrongful act, neglect, or default, include references to any occurrence which gives rise to a liability under Article 17(1) of the Montreal Convention or Article 17 of the amended Convention.
     
     Compare: 1967 No 151 s 9
     
-    Section 91E: inserted, on 1 December 1999, by [section 3][590] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91E: inserted, on 1 December 1999, by [section 3][592] of the Civil Aviation Amendment Act 1999 (1999 No 70).
     
-    Section 91E: amended, on 4 November 2003, by [section 27][594] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91E: amended, on 4 November 2003, by [section 27][596] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 91F Contributory negligence
     
@@ -6981,9 +6983,9 @@ International carriage by air
     
     Compare: 1967 No 151 s 12
     
-    Section 91F: inserted, on 1 December 1999, by [section 3][590] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91F: inserted, on 1 December 1999, by [section 3][592] of the Civil Aviation Amendment Act 1999 (1999 No 70).
     
-    Section 91F: amended, on 4 November 2003, by [section 28][595] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91F: amended, on 4 November 2003, by [section 28][597] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 91G Limitation of liability
     
@@ -7011,27 +7013,27 @@ International carriage by air
     
     Compare: 1967 No 151 s 10(1), (2), (3), (5)
     
-    Section 91G: inserted, on 1 December 1999, by [section 3][590] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91G: inserted, on 1 December 1999, by [section 3][592] of the Civil Aviation Amendment Act 1999 (1999 No 70).
     
-    Section 91G(1): amended, on 4 November 2003, by [section 29(1)][596] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91G(1): amended, on 4 November 2003, by [section 29(1)][598] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91G(1)(b): amended, on 4 November 2003, by [section 29(2)(a)][596] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91G(1)(b): amended, on 4 November 2003, by [section 29(2)(a)][598] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91G(1)(b): amended, on 4 November 2003, by [section 29(2)(b)][596] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91G(1)(b): amended, on 4 November 2003, by [section 29(2)(b)][598] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91G(2): amended, on 1 December 2004, by [section 11(1)][597] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 91G(2): amended, on 1 December 2004, by [section 11(1)][599] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 91G(2): amended, on 4 November 2003, by [section 29(3)][596] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91G(2): amended, on 4 November 2003, by [section 29(3)][598] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91G(2)(a): amended, on 1 December 2004, by [section 11(1)][597] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 91G(2)(a): amended, on 1 December 2004, by [section 11(1)][599] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 91G(2)(a): amended, on 4 November 2003, by [section 29(4)(a)][596] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91G(2)(a): amended, on 4 November 2003, by [section 29(4)(a)][598] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91G(2)(a): amended, on 4 November 2003, by [section 29(4)(b)][596] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91G(2)(a): amended, on 4 November 2003, by [section 29(4)(b)][598] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91G(3): substituted, on 1 December 2004, by [section 11(2)][597] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 91G(3): substituted, on 1 December 2004, by [section 11(2)][599] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 91G(5): amended, on 4 November 2003, by [section 29(6)][596] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91G(5): amended, on 4 November 2003, by [section 29(6)][598] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 91H Value of special drawing right
     
@@ -7055,11 +7057,11 @@ International carriage by air
     
     Compare: 1967 No 151 s 10(4), (4A), (5); 1990 No 102 s 4
     
-    Section 91H: inserted, on 1 December 1999, by [section 3][590] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91H: inserted, on 1 December 1999, by [section 3][592] of the Civil Aviation Amendment Act 1999 (1999 No 70).
     
-    Section 91H(1): amended, on 4 November 2003, by [section 30(1)][598] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91H(1): amended, on 4 November 2003, by [section 30(1)][600] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91H(4): amended, on 4 November 2003, by [section 30(2)][598] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91H(4): amended, on 4 November 2003, by [section 30(2)][600] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 91I Time for bringing proceedings
     
@@ -7081,29 +7083,29 @@ International carriage by air
     
     (6) Subsections (7) and (8) (which determine the time at which an arbitration is deemed to have commenced) apply for the purposes of subsection (5).
     
-    (7) An arbitration (whether under an enactment or under an arbitration agreement) must be treated as being commenced in the same manner as provided in Article 21 of [Schedule 1][599] of the Arbitration Act 1996\.
+    (7) An arbitration (whether under an enactment or under an arbitration agreement) must be treated as being commenced in the same manner as provided in Article 21 of [Schedule 1][601] of the Arbitration Act 1996\.
     
     (8) If the High Court orders that an award be set aside, it may also order that the period between the commencement of the arbitration and the date of the setting aside order must be excluded in computing the time prescribed by this section for the commencement of civil proceedings (including arbitration) with respect to the dispute referred.
     
-    (9) Subsections (6) to (8) do not limit or affect [section 39][600] of the Limitation Act 2010\.
+    (9) Subsections (6) to (8) do not limit or affect [section 39][602] of the Limitation Act 2010\.
     
     Compare: 1967 No 151 s 11
     
-    Section 91I: inserted, on 1 December 1999, by [section 3][590] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91I: inserted, on 1 December 1999, by [section 3][592] of the Civil Aviation Amendment Act 1999 (1999 No 70).
     
-    Section 91I(3): substituted, on 4 November 2003, by [section 31(1)][601] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91I(3): substituted, on 4 November 2003, by [section 31(1)][603] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91I(4): amended, on 4 November 2003, by [section 31(2)][601] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91I(4): amended, on 4 November 2003, by [section 31(2)][603] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91I(5): substituted, on 1 January 2011, by [section 58][602] of the Limitation Act 2010 (2010 No 110).
+    Section 91I(5): substituted, on 1 January 2011, by [section 58][604] of the Limitation Act 2010 (2010 No 110).
     
-    Section 91I(6): added, on 1 January 2011, by [section 58][602] of the Limitation Act 2010 (2010 No 110).
+    Section 91I(6): added, on 1 January 2011, by [section 58][604] of the Limitation Act 2010 (2010 No 110).
     
-    Section 91I(7): added, on 1 January 2011, by [section 58][602] of the Limitation Act 2010 (2010 No 110).
+    Section 91I(7): added, on 1 January 2011, by [section 58][604] of the Limitation Act 2010 (2010 No 110).
     
-    Section 91I(8): added, on 1 January 2011, by [section 58][602] of the Limitation Act 2010 (2010 No 110).
+    Section 91I(8): added, on 1 January 2011, by [section 58][604] of the Limitation Act 2010 (2010 No 110).
     
-    Section 91I(9): added, on 1 January 2011, by [section 58][602] of the Limitation Act 2010 (2010 No 110).
+    Section 91I(9): added, on 1 January 2011, by [section 58][604] of the Limitation Act 2010 (2010 No 110).
 
 ##### 91J Actions against High Contracting Parties
     
@@ -7119,7 +7121,7 @@ International carriage by air
     
     Compare: 1967 No 151 s 14
     
-    Section 91J: inserted, on 1 December 1999, by [section 3][590] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91J: inserted, on 1 December 1999, by [section 3][592] of the Civil Aviation Amendment Act 1999 (1999 No 70).
 
 ##### 91JA Actions against Parties to Montreal Convention
     
@@ -7131,7 +7133,7 @@ International carriage by air
     
     (4) Nothing in this section authorises the issue of execution against the property of any Party to the Montreal Convention.
     
-    Section 91JA: inserted, on 4 November 2003, by [section 32][603] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91JA: inserted, on 4 November 2003, by [section 32][605] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 91K Designation of Parties
     
@@ -7169,13 +7171,13 @@ International carriage by air
     
     Compare: 1967 No 151 s 8(1), (3), (4), (5)
     
-    Section 91K: inserted, on 1 December 1999, by [section 3][590] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91K: inserted, on 1 December 1999, by [section 3][592] of the Civil Aviation Amendment Act 1999 (1999 No 70).
     
-    Section 91K(1)(a)(viii): added, on 4 November 2003, by [section 33(1)][604] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91K(1)(a)(viii): added, on 4 November 2003, by [section 33(1)][606] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91K(1)(b): amended, on 4 November 2003, by [section 33(2)][604] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91K(1)(b): amended, on 4 November 2003, by [section 33(2)][606] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91K(4): amended, on 4 November 2003, by [section 33(3)][604] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91K(4): amended, on 4 November 2003, by [section 33(3)][606] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 91L Article 40A of amended Convention
     
@@ -7185,7 +7187,7 @@ International carriage by air
     
     Compare: 1967 No 151 s 8(2)
     
-    Section 91L: inserted, on 1 December 1999, by [section 3][590] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91L: inserted, on 1 December 1999, by [section 3][592] of the Civil Aviation Amendment Act 1999 (1999 No 70).
 
 ##### 91M Power to exclude aircraft in use for military purposes
     
@@ -7195,13 +7197,13 @@ International carriage by air
     
     Compare: 1967 No 151 s 13
     
-    Section 91M: inserted, on 1 December 1999, by [section 3][590] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91M: inserted, on 1 December 1999, by [section 3][592] of the Civil Aviation Amendment Act 1999 (1999 No 70).
     
-    Section 91M(2): amended, on 4 November 2003, by [section 34][605] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91M(2): amended, on 4 November 2003, by [section 34][607] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 #### Transitional provisions
     
-*   Heading: inserted, on 1 December 1999, by [section 3][590] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+*   Heading: inserted, on 1 December 1999, by [section 3][592] of the Civil Aviation Amendment Act 1999 (1999 No 70).
 
 ##### 91N Occurrences before commencement of this Part
     
@@ -7209,7 +7211,7 @@ International carriage by air
     
     Compare: 1967 No 151 s 15(1)
     
-    Section 91N: inserted, on 1 December 1999, by [section 3][590] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91N: inserted, on 1 December 1999, by [section 3][592] of the Civil Aviation Amendment Act 1999 (1999 No 70).
 
 ##### 91O High Contracting Parties not Party to Hague Protocol
     
@@ -7229,7 +7231,7 @@ International carriage by air
     
     Compare: 1967 No 151 s 15(2), (3)
     
-    Section 91O: inserted, on 1 December 1999, by [section 3][590] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91O: inserted, on 1 December 1999, by [section 3][592] of the Civil Aviation Amendment Act 1999 (1999 No 70).
 
 ##### 91P High Contracting Parties not Party to Montreal Protocols
     
@@ -7237,7 +7239,7 @@ International carriage by air
     
     (2) If this subsection applies, the law applicable to any carriage by air is the law which would have been applicable if Part 1 and Schedules 1 and 2 of the Carriage by Air Act 1967 (as they read immediately before their repeal) had continued in force.
     
-    Section 91P: inserted, on 1 December 1999, by [section 3][590] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91P: inserted, on 1 December 1999, by [section 3][592] of the Civil Aviation Amendment Act 1999 (1999 No 70).
 
 ##### 91Q High Contracting Parties not Party to Protocol No 4
     
@@ -7245,7 +7247,7 @@ International carriage by air
     
     (2) If this subsection applies, the law applicable to any carriage by air is the law which would have been applicable if the amended Convention had not included the amendments inserted by Protocol No 4\.
     
-    Section 91Q: inserted, on 1 December 1999, by [section 3][590] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91Q: inserted, on 1 December 1999, by [section 3][592] of the Civil Aviation Amendment Act 1999 (1999 No 70).
 
 ##### 91R High Contracting Parties not Party to Protocol No 2
     
@@ -7253,7 +7255,7 @@ International carriage by air
     
     (2) If this subsection applies, the law applicable to any carriage by air is the law which would have been applicable if the amended Convention had not included the amendments inserted by Protocol No 2\.
     
-    Section 91R: inserted, on 1 December 1999, by [section 3][590] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91R: inserted, on 1 December 1999, by [section 3][592] of the Civil Aviation Amendment Act 1999 (1999 No 70).
 
 ##### 91RA High Contracting Party or Party not Party to Montreal Convention
     
@@ -7261,7 +7263,7 @@ International carriage by air
     
     (2) If this subsection applies and the High Contracting Party or Party referred to in subsection (1) is a party to the Warsaw Convention or to the Hague Protocol or to Additional Protocol No 1 or Additional Protocol No 2 or to Protocol 4, the law applicable to any carriage by air is the law referred to in whichever of the following sections that is applicable to that High Contracting Party or Party:
         
-    *   (a) [sections 91A to 91M][275] (as they read immediately before the commencement of [sections 25 to 37][591] of the Civil Aviation Amendment Act 2002); or
+    *   (a) [sections 91A to 91M][275] (as they read immediately before the commencement of [sections 25 to 37][593] of the Civil Aviation Amendment Act 2002); or
     
     *   (b) [section 91O][291]; or
     
@@ -7279,17 +7281,17 @@ International carriage by air
     
     *   (b) each version of Article 22 of the amended Convention set out in [Schedule 4][357] applies in the circumstances outlined in the heading of that version.
     
-    Section 91RA: inserted, on 4 November 2003, by [section 35][606] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91RA: inserted, on 4 November 2003, by [section 35][608] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 91S Currency equivalent notices
     
 *   (1) The Minister of Finance may from time to time, by notice in the _Gazette_, specify the respective amounts which for the purpose of Article 22 of the Warsaw Convention (as amended by the Hague Protocol and as set out in Schedule 1 of the Carriage by Air Act 1967), and in particular of paragraph 5 of that Article, are to be taken as equivalent to the sums expressed in francs which are mentioned in that Article.
     
-    (2) The [Carriage by Air (New Zealand Currency Equivalents) Notice (No 2) 1998][607] (SR 1998/347) continues in force as if it had been made under subsection (1) until replaced under that subsection.
+    (2) The [Carriage by Air (New Zealand Currency Equivalents) Notice (No 2) 1998][609] (SR 1998/347) continues in force as if it had been made under subsection (1) until replaced under that subsection.
     
     Compare: 1967 No 151 s 10(4)
     
-    Section 91S: inserted, on 1 December 1999, by [section 3][590] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91S: inserted, on 1 December 1999, by [section 3][592] of the Civil Aviation Amendment Act 1999 (1999 No 70).
 
 ##### 91T Regulations
     
@@ -7307,22 +7309,22 @@ International carriage by air
     
     (3) The Governor-General may from time to time, by Order in Council, make regulations providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Part and for its due administration.
     
-    Section 91T: inserted, on 1 December 1999, by [section 3][590] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91T: inserted, on 1 December 1999, by [section 3][592] of the Civil Aviation Amendment Act 1999 (1999 No 70).
     
-    Section 91T(1)(a): substituted, on 4 November 2003, by [section 36][608] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91T(1)(a): substituted, on 4 November 2003, by [section 36][610] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91T(1)(b): substituted, on 4 November 2003, by [section 36][608] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91T(1)(b): substituted, on 4 November 2003, by [section 36][610] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91T(1)(c): substituted, on 4 November 2003, by [section 36][608] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91T(1)(c): substituted, on 4 November 2003, by [section 36][610] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91T(1)(d): substituted, on 4 November 2003, by [section 36][608] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91T(1)(d): substituted, on 4 November 2003, by [section 36][610] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
     Section 91T(2): replaced, on 5 August 2013, by [section 77(3)][447] of the Legislation Act 2012 (2012 No 119).
 
 ## Part 9B  
 Domestic carriage by air
     
-*   Part 9B: inserted, on 1 June 2004, by [section 37][609] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+*   Part 9B: inserted, on 1 June 2004, by [section 37][611] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91U Interpretation
     
@@ -7368,7 +7370,7 @@ Domestic carriage by air
     
     Compare: 1967 No 151 s 18
     
-    Section 91U: inserted, on 1 June 2004, by [section 37][609] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91U: inserted, on 1 June 2004, by [section 37][611] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91V Application of this Part
     
@@ -7388,7 +7390,7 @@ Domestic carriage by air
     
     Compare: 1967 No 151 s 19(1)
     
-    Section 91V: inserted, on 1 June 2004, by [section 37][609] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91V: inserted, on 1 June 2004, by [section 37][611] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91W Exclusions
     
@@ -7398,7 +7400,7 @@ Domestic carriage by air
     
     Compare: 1967 No 151 s 19(3), (4)
     
-    Section 91W: inserted, on 1 June 2004, by [section 37][609] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91W: inserted, on 1 June 2004, by [section 37][611] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91X Provisions if carriage performed by actual carrier
     
@@ -7422,7 +7424,7 @@ Domestic carriage by air
     
     Compare: 1967 No 151 s 20
     
-    Section 91X: inserted, on 1 June 2004, by [section 37][609] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91X: inserted, on 1 June 2004, by [section 37][611] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91Y Provisions if carriage performed by successive carriers
     
@@ -7430,7 +7432,7 @@ Domestic carriage by air
     
     Compare: 1967 No 151 s 21
     
-    Section 91Y: inserted, on 1 June 2004, by [section 37][609] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91Y: inserted, on 1 June 2004, by [section 37][611] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91Z Liability of carrier in respect of delay
     
@@ -7454,7 +7456,7 @@ Domestic carriage by air
     
     Compare: 1967 No 151 s 25
     
-    Section 91Z: inserted, on 1 June 2004, by [section 37][609] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91Z: inserted, on 1 June 2004, by [section 37][611] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91ZA Avoidance of liability
     
@@ -7466,15 +7468,15 @@ Domestic carriage by air
     
     Compare: 1967 No 151 s 26
     
-    Section 91ZA: inserted, on 1 June 2004, by [section 37][609] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91ZA: inserted, on 1 June 2004, by [section 37][611] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91ZB Contributory negligence
     
-*   If the carrier proves that the damage was caused, or contributed to, by the negligence of the passenger, the court may, in accordance with the [Contributory Negligence Act 1947][610], exonerate the carrier wholly or partly from liability.
+*   If the carrier proves that the damage was caused, or contributed to, by the negligence of the passenger, the court may, in accordance with the [Contributory Negligence Act 1947][612], exonerate the carrier wholly or partly from liability.
     
     Compare: 1967 No 151 s 27
     
-    Section 91ZB: inserted, on 1 June 2004, by [section 37][609] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91ZB: inserted, on 1 June 2004, by [section 37][611] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91ZC Limitation of liability
     
@@ -7490,7 +7492,7 @@ Domestic carriage by air
     
     Compare: 1967 No 151 s 28
     
-    Section 91ZC: inserted, on 1 June 2004, by [section 37][609] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91ZC: inserted, on 1 June 2004, by [section 37][611] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91ZD Contracting out
     
@@ -7500,7 +7502,7 @@ Domestic carriage by air
     
     Compare: 1967 No 151 s 30
     
-    Section 91ZD: inserted, on 1 June 2004, by [section 37][609] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91ZD: inserted, on 1 June 2004, by [section 37][611] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91ZE Wilful or reckless misconduct
     
@@ -7520,7 +7522,7 @@ Domestic carriage by air
     
     Compare: 1967 No 151 s 31
     
-    Section 91ZE: inserted, on 1 June 2004, by [section 37][609] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91ZE: inserted, on 1 June 2004, by [section 37][611] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91ZF Servants or agents of carrier
     
@@ -7534,7 +7536,7 @@ Domestic carriage by air
     
     Compare: 1967 No 151 s 32
     
-    Section 91ZF: inserted, on 1 June 2004, by [section 37][609] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91ZF: inserted, on 1 June 2004, by [section 37][611] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91ZG Aggregation of damages
     
@@ -7542,7 +7544,7 @@ Domestic carriage by air
     
     Compare: 1967 No 151 s 33
     
-    Section 91ZG: inserted, on 1 June 2004, by [section 37][609] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91ZG: inserted, on 1 June 2004, by [section 37][611] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91ZH Aggregate liability
     
@@ -7550,7 +7552,7 @@ Domestic carriage by air
     
     Compare: 1967 No 151 s 34
     
-    Section 91ZH: inserted, on 1 June 2004, by [section 37][609] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91ZH: inserted, on 1 June 2004, by [section 37][611] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91ZI Just and equitable orders and awards
     
@@ -7568,7 +7570,7 @@ Domestic carriage by air
     
     Compare: 1967 No 151 s 35
     
-    Section 91ZI: inserted, on 1 June 2004, by [section 37][609] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91ZI: inserted, on 1 June 2004, by [section 37][611] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91ZJ Tortfeasors
     
@@ -7584,7 +7586,7 @@ Domestic carriage by air
     
     Compare: 1967 No 151 s 36
     
-    Section 91ZJ: inserted, on 1 June 2004, by [section 37][609] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91ZJ: inserted, on 1 June 2004, by [section 37][611] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91ZK Relationship between carriers
     
@@ -7596,7 +7598,7 @@ Domestic carriage by air
     
     Compare: 1967 No 151 s 37
     
-    Section 91ZK: inserted, on 1 June 2004, by [section 37][609] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91ZK: inserted, on 1 June 2004, by [section 37][611] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91ZL Limitation of actions
     
@@ -7634,7 +7636,7 @@ Domestic carriage by air
     
     Compare: 1967 No 151 s 39
     
-    Section 91ZL: inserted, on 1 June 2004, by [section 37][609] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91ZL: inserted, on 1 June 2004, by [section 37][611] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91ZM Combined carriage
     
@@ -7642,7 +7644,7 @@ Domestic carriage by air
     
     Compare: 1967 No 151 s 40
     
-    Section 91ZM: inserted, on 1 June 2004, by [section 37][609] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91ZM: inserted, on 1 June 2004, by [section 37][611] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ## Part 10  
 Aerodromes, facilities, and joint venture airports
@@ -7657,7 +7659,7 @@ Aerodromes, facilities, and joint venture airports
     
 *   (1) The Minister may for the purposes of civil aviation establish, maintain, and operate aerodromes and services and facilities in connection with the operation of any aerodrome or with the operation of aircraft engaged in civil aviation.
     
-    (2) All works undertaken under the authority of this section shall be public works within the meaning of the [Public Works Act 1981][611].
+    (2) All works undertaken under the authority of this section shall be public works within the meaning of the [Public Works Act 1981][613].
     
     (3) Subject to the provisions of this Act, the Minister may do all that is necessary, convenient, or incidental to the establishment, maintenance, and operation of any aerodrome under his or her complete or partial control or of any services or facilities in connection with the operation of any such aerodrome in all respects as if the operation of the aerodrome or of the services or facilities were a commercial undertaking, and, in particular, may himself or herself carry out any work or undertaking in respect of which he or she is authorised to enter into any agreement under [section 94][321].
     
@@ -7699,7 +7701,7 @@ Aerodromes, facilities, and joint venture airports
     
     (3) Any agreement entered into under subsection (1) may from time to time be varied by the parties to the agreement or may be terminated in accordance with the terms of the agreement.
     
-    (4) Any agreement relating to the development or reconstruction of an aerodrome entered into by the Crown under [section 224][612] of the Public Works Act 1981 may include any provision referred to in subsection (2).
+    (4) Any agreement relating to the development or reconstruction of an aerodrome entered into by the Crown under [section 224][614] of the Public Works Act 1981 may include any provision referred to in subsection (2).
     
     Compare: 1964 No 68 s 12(3)--(6)
 
@@ -7715,38 +7717,40 @@ Aerodromes, facilities, and joint venture airports
     
     (5) If any money withdrawn under subsection (4) is paid by an airport authority, pursuant to the liability of the airport authority under any enactment, deed, or agreement, to any other body or person, it may be used for such purposes (whether or not related to the airport) as the body or person receiving it thinks fit.
     
-    Compare: 1964 No 68 s 13B; 1986 No 128 s 8(4); 1987 No 195 [s 15][613]
+    Compare: 1964 No 68 s 13B; 1986 No 128 s 8(4); 1987 No 195 [s 15][615]
     
-    Section 95(1): amended, on 25 January 2005, pursuant to [section 65R(3)][505] of the Public Finance Act 1989 (1989 No 44).
+    Section 95(1): amended, on 25 January 2005, pursuant to [section 65R(3)][507] of the Public Finance Act 1989 (1989 No 44).
 
 ## Part 11  
 Miscellaneous provisions
 
-##### 96 Sale of liquor at international airports
+##### 96 Sale of alcohol at international airports
     
-*   (1) Liquor may be sold at international airports to passengers on aircraft departing from or arriving in New Zealand, being passengers who have attained the age of 18 years, but any liquor so sold shall not be delivered by or on behalf of the purchaser to any other person within New Zealand or consumed within New Zealand unless it has been entered by the passenger for home consumption in accordance with the [Customs and Excise Act 1996][614].
-    
-    (2) The Governor-General may, from time to time, by Order in Council, make regulations for either or both of the following purposes:
+*   (1) Alcohol may be sold at any international airport to any passenger on an aircraft departing from or arriving in New Zealand if---
         
-    *   (a) prescribing the circumstances and conditions relating to the control of the sale of liquor at international airports to passengers on aircraft departing from or arriving in New Zealand, being passengers who have attained the age of 18 years:
+    *   (a) in the case of alcohol bought for consumption off the airport premises, the passenger is of or over the age stated in [section 5][505] of the Sale and Supply of Alcohol Act 2012; and
+    
+    *   (b) in the case of alcohol bought for consumption on the airport premises, the passenger is of or over the age stated in [section 5][505] of the Sale and Supply of Alcohol Act 2012\.
+    
+    (2) Unless alcohol sold under the authority of subsection (1) has been entered by the passenger concerned for home consumption in accordance with the [Customs and Excise Act 1996][616], a person must not deliver it by or on behalf of the buyer to any other person within New Zealand, or consume it within New Zealand.
+    
+    (3) The Governor-General may, from time to time, by Order in Council, make regulations for either or both of the following purposes:
+        
+    *   (a) prescribing the circumstances and conditions relating to the control of the sale of alcohol at international airports to passengers on aircraft departing from or arriving in New Zealand who are of or over the age referred to in subsection (1)(a) or (b) (as the case requires):
     
     *   (b) prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under this section, and prescribing fines, not exceeding $1,000, that may, on conviction, be imposed in respect of any such offence.
     
-    (3) Every person who does any act in contravention of this section commits an offence and is liable on conviction to a fine not exceeding $1,000\.
+    (4) A person commits an offence who---
+        
+    *   (a) sells alcohol at any international airport to any passenger on an aircraft departing from or arriving in New Zealand who is under the age referred to in subsection (1)(a) or (b) (as the case requires); or
     
-    (4) Nothing in the [Sale of Liquor Act 1989][615] shall apply to the sale of liquor pursuant to the authority of this section or of any regulations made under this section.
+    *   (b) fails to comply with subsection (2).
     
-    Compare: 1964 No 68 s 25; 1989 No 146 s 2
+    (5) A person who commits an offence against subsection (4) is liable on conviction to a fine not exceeding $1,000\.
     
-    Section 96(1): amended, on 1 April 2000, by [section 119][616] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    (6) Nothing in the [Sale and Supply of Alcohol Act 2012][617] applies to the sale of alcohol under the authority of this section or of any regulations made under it.
     
-    Section 96(1): amended, on 1 October 1996, by [section 289(1)][617] of the Customs and Excise Act 1996 (1996 No 27).
-    
-    Section 96(2)(a): amended, on 1 April 2000, by [section 119][616] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
-    
-    Section 96(2)(b): amended, on 1 July 2013, by [section 413][471] of the Criminal Procedure Act 2011 (2011 No 81).
-    
-    Section 96(3): amended, on 1 July 2013, by [section 413][471] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 96: replaced, on 18 December 2013, by [section 417(1)][506] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
 
 ##### 96A Minister may prohibit smoking on international air routes
     
@@ -7838,13 +7842,13 @@ Miscellaneous provisions
     
     the owner shall be entitled to be indemnified by that other person against any claim in respect of the damage or loss.
     
-    (5) Where damage or loss is contributed to by the fault of the person by whom the same was suffered, the provisions of the [Contributory Negligence Act 1947][610] as to apportionment shall apply.
+    (5) Where damage or loss is contributed to by the fault of the person by whom the same was suffered, the provisions of the [Contributory Negligence Act 1947][612] as to apportionment shall apply.
     
     (6) Damages shall not be recoverable under subsection (4) from the owner of an aircraft in respect of damage or loss caused by a person descending from the aircraft by parachute. Damages shall be recoverable from the person descending and the provisions of subsection (4) shall, with the necessary modifications, apply as if the person descending were the owner of the aircraft. This subsection shall not apply in respect of damage or loss caused by a person descending from an aircraft by parachute where the descent is required to avoid injury or death.
     
     (7) Where an aircraft has been hired out to any other person by the owner thereof, for a period greater than 28 days and no pilot, commander, navigator, or operative member of the crew of the aircraft is in the employment of the owner, this section shall apply as though every reference to the owner were a reference to the person to whom the aircraft has been so hired out.
     
-    (8) For the purposes of this section, the term _fault_ means negligence, breach of statutory duty, or other act or omission which gives rise to a liability in tort or would, apart from the [Contributory Negligence Act 1947][610], give rise to the defence of contributory negligence.
+    (8) For the purposes of this section, the term _fault_ means negligence, breach of statutory duty, or other act or omission which gives rise to a liability in tort or would, apart from the [Contributory Negligence Act 1947][612], give rise to the defence of contributory negligence.
     
     Compare: 1964 No 68 s 23
 
@@ -11566,6 +11570,8 @@ Miscellaneous provisions
     
 *   Companies Amendment Act 2013 (2013 No 111): [section 14][373]
     
+    Sale and Supply of Alcohol Act 2012 (2012 No 120): [section 417(1)][616]
+    
     Legislation Act 2012 (2012 No 119): [section 77(3)][447]
     
     Search and Surveillance Act 2012 (2012 No 24): [section 210][434]
@@ -11576,7 +11582,7 @@ Miscellaneous provisions
     
     [Civil Aviation (Montreal Convention) Order 2010][657] (SR 2010/367)
     
-    Limitation Act 2010 (2010 No 110): [section 58][602]
+    Limitation Act 2010 (2010 No 110): [section 58][604]
     
     [Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010][651] (2010 No 42)
     
@@ -11598,19 +11604,19 @@ Miscellaneous provisions
     
     Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][371]
     
-    District Courts Amendment Act 2002 (2002 No 63): [section 4][518]
+    District Courts Amendment Act 2002 (2002 No 63): [section 4][520]
     
     Civil Defence Emergency Management Act 2002 (2002 No 33): [section 117][622]
     
     [Civil Aviation Amendment Act 2002][661] (2002 No 15)
     
-    [Civil Aviation (Medical Certification) Amendment Act 2001][519] (2001 No 87)
+    [Civil Aviation (Medical Certification) Amendment Act 2001][521] (2001 No 87)
     
     Transport Accident Investigation Commission Amendment Act 1999 (1999 No 113): [section 10][433]
     
-    Sale of Liquor Amendment Act 1999 (1999 No 92): [section 119][616]
+    Sale of Liquor Amendment Act 1999 (1999 No 92): [section 119][662]
     
-    [Civil Aviation Amendment Act 1999][662] (1999 No 70)
+    [Civil Aviation Amendment Act 1999][663] (1999 No 70)
     
     District Courts Amendment Act 1998 (1998 No 76): [section 7][375]
     
@@ -11618,19 +11624,19 @@ Miscellaneous provisions
     
     Civil Aviation Amendment Act 1996 (1996 No 91)
     
-    Customs and Excise Act 1996 (1996 No 27) [section 289(1)][617]
+    Customs and Excise Act 1996 (1996 No 27) [section 289(1)][664]
     
-    [Civil Aviation Amendment Act 1993][663] (1993 No 90)
+    [Civil Aviation Amendment Act 1993][665] (1993 No 90)
     
     Te Ture Whenua Maori Act 1993 (1993 No 4): [section 362(2)][436]
     
-    Public Finance Amendment Act 1992 (1992 No 142): [section 42][531]
+    Public Finance Amendment Act 1992 (1992 No 142): [section 42][533]
     
-    [Civil Aviation Amendment Act 1992][664] (1992 No 75)
+    [Civil Aviation Amendment Act 1992][666] (1992 No 75)
     
-    [Civil Aviation Amendment Act 1991][665] (1991 No 116)
+    [Civil Aviation Amendment Act 1991][667] (1991 No 116)
     
-    Public Finance Act 1989 (1989 No 44): [section 65R(3)][505]
+    Public Finance Act 1989 (1989 No 44): [section 65R(3)][507]
 
 
 
@@ -12139,119 +12145,119 @@ Miscellaneous provisions
 [502]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM53538
 [503]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM53587
 [504]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM372295
-[505]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM162942
-[506]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM310742
-[507]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311371
-[508]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311858
-[509]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM310749
-[510]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM314098
-[511]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM314068
-[512]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143159
-[513]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240043
-[514]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143162
-[515]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM147653
-[516]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM243909
-[517]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM243795
-[518]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM168713
-[519]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM116891
-[520]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM269401
-[521]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM117853
-[522]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3005729
-[523]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311033
-[524]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM269402
-[525]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM329641
-[526]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM329630
-[527]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM329954
-[528]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM329955
-[529]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM160808
-[530]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240045
-[531]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM289849
-[532]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311034
-[533]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM321243
-[534]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM221842
-[535]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM330360
-[536]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM321245
-[537]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311035
-[538]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240046
-[539]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311036
-[540]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM330540
-[541]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM330548
-[542]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311038
-[543]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM51363
-[544]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM321246
-[545]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143163
-[546]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240047
-[547]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311039
-[548]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311040
-[549]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143164
-[550]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311041
-[551]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240048
-[552]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM269403
-[553]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM409116
-[554]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143165
-[555]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968815
-[556]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968816
-[557]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968817
-[558]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM391804
-[559]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968819
-[560]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM392526
-[561]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM392534
-[562]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM392519
-[563]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM392290
-[564]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311042
-[565]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968830
-[566]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143169
-[567]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240051
-[568]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM321247
-[569]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143170
-[570]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM409204
-[571]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM409201
-[572]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968831
-[573]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM241850
-[574]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM241851
-[575]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM435105
-[576]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM256236
-[577]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968841
-[578]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM269404
-[579]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM409172
-[580]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM409173
-[581]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM409174
-[582]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM409176
-[583]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM72984
-[584]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968842
-[585]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143173
-[586]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143176
-[587]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143177
-[588]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM248025
-[589]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM88263
-[590]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM30801
-[591]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143178
-[592]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143183
-[593]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM265858
-[594]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143184
-[595]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143185
-[596]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143186
-[597]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM321248
-[598]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143189
-[599]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM405711
-[600]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2033251
-[601]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143190
-[602]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2033287
-[603]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143191
-[604]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143193
-[605]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143194
-[606]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143195
-[607]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM264488
-[608]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143197
-[609]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240052
-[610]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM242491
-[611]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM45426
-[612]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM48325
-[613]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM125644
-[614]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM377336
-[615]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM165115
-[616]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM33168
-[617]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM380185
+[505]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3339341
+[506]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3339984
+[507]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM162942
+[508]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM310742
+[509]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311371
+[510]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311858
+[511]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM310749
+[512]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM314098
+[513]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM314068
+[514]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143159
+[515]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240043
+[516]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143162
+[517]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM147653
+[518]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM243909
+[519]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM243795
+[520]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM168713
+[521]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM116891
+[522]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM269401
+[523]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM117853
+[524]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3005729
+[525]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311033
+[526]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM269402
+[527]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM329641
+[528]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM329630
+[529]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM329954
+[530]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM329955
+[531]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM160808
+[532]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240045
+[533]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM289849
+[534]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311034
+[535]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM321243
+[536]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM221842
+[537]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM330360
+[538]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM321245
+[539]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311035
+[540]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240046
+[541]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311036
+[542]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM330540
+[543]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM330548
+[544]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311038
+[545]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM51363
+[546]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM321246
+[547]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143163
+[548]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240047
+[549]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311039
+[550]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311040
+[551]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143164
+[552]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311041
+[553]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240048
+[554]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM269403
+[555]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM409116
+[556]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143165
+[557]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968815
+[558]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968816
+[559]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968817
+[560]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM391804
+[561]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968819
+[562]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM392526
+[563]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM392534
+[564]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM392519
+[565]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM392290
+[566]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311042
+[567]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968830
+[568]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143169
+[569]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240051
+[570]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM321247
+[571]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143170
+[572]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM409204
+[573]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM409201
+[574]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968831
+[575]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM241850
+[576]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM241851
+[577]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM435105
+[578]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM256236
+[579]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968841
+[580]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM269404
+[581]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM409172
+[582]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM409173
+[583]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM409174
+[584]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM409176
+[585]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM72984
+[586]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968842
+[587]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143173
+[588]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143176
+[589]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143177
+[590]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM248025
+[591]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM88263
+[592]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM30801
+[593]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143178
+[594]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143183
+[595]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM265858
+[596]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143184
+[597]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143185
+[598]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143186
+[599]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM321248
+[600]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143189
+[601]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM405711
+[602]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2033251
+[603]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143190
+[604]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2033287
+[605]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143191
+[606]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143193
+[607]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143194
+[608]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143195
+[609]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM264488
+[610]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143197
+[611]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240052
+[612]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM242491
+[613]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM45426
+[614]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM48325
+[615]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM125644
+[616]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM377336
+[617]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3339302
 [618]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240089
 [619]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240091
 [620]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM269405
@@ -12296,7 +12302,9 @@ Miscellaneous provisions
 [659]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM321223
 [660]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM239441
 [661]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143133
-[662]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM30593
-[663]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311023
-[664]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268567
-[665]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM250156
+[662]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM33168
+[663]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM30593
+[664]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM380185
+[665]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311023
+[666]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268567
+[667]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM250156
