@@ -1,5 +1,5 @@
 Reprint  
-as at 5 December 2013
+as at 18 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -7682,13 +7682,15 @@ Youth justice
     
     *   (ba) an infringement offence against the [Psychoactive Substances Act 2013][847]; or
     
-    *   (c) a traffic offence not punishable by imprisonment---
+    *   (c) a traffic offence not punishable by imprisonment; or
+    
+    *   (d) an infringement offence against the [Sale and Supply of Alcohol Act 2012][848] or the [Summary Offences Act 1981][849], or section 239A of the Local Government Act 2002\.
     
     shall be brought before a Youth Court to be dealt with in accordance with the provisions of this Act.
     
     (4) If a young person is charged with murder or manslaughter, [section 275][384] applies.
     
-    (5) Notwithstanding subsection (3)(ba) or (c), where a young person is charged with an infringement offence referred to in subsection (3)(ba) or a traffic offence not punishable by imprisonment, a Youth Court shall hear and determine that charge if---
+    (5) Notwithstanding subsection (3)(ba) or (c) or (d), where a young person is charged with an infringement offence referred to in subsection (3)(ba) or a traffic offence not punishable by imprisonment or an infringement offence referred to in subsection (3)(d), a Youth Court shall hear and determine that charge if---
         
     *   (a) the young person is charged with any other offence, being an offence in respect of which the young person is required to be brought before a Youth Court to be dealt with; and
     
@@ -7704,31 +7706,39 @@ Youth justice
     
     Compare: 1974 No 72 s 25(2)--(4); 1977 No 126 s 5
     
-    Section 272 heading: amended, on 1 October 2010, by [section 14(1)][848] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 272 heading: amended, on 1 October 2010, by [section 14(1)][850] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
-    Section 272(1): substituted, on 1 October 2010, by [section 14(2)][848] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 272(1): substituted, on 1 October 2010, by [section 14(2)][850] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
     Section 272(1): amended, on 1 July 2013, by [section 4][712] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2011 (2011 No 83).
     
-    Section 272(1A): inserted, on 1 October 2010, by [section 14(2)][848] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 272(1A): inserted, on 1 October 2010, by [section 14(2)][850] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
-    Section 272(1B): inserted, on 1 October 2010, by [section 14(2)][848] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 272(1B): inserted, on 1 October 2010, by [section 14(2)][850] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
     Section 272(1B)(b): amended, on 1 July 2013, by [section 4][712] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2011 (2011 No 83).
     
     Section 272(2): replaced, on 1 July 2013, by [section 4][712] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2011 (2011 No 83).
     
-    Section 272(2A): inserted, on 1 October 2010, by [section 14(2)][848] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 272(2A): inserted, on 1 October 2010, by [section 14(2)][850] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
     Section 272(2A): amended, on 1 July 2013, by [section 4][712] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2011 (2011 No 83).
     
     Section 272(3): amended, on 1 July 2013, by [section 4][712] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2011 (2011 No 83).
     
-    Section 272(3)(ba): inserted, on 18 July 2013, by [section 109(2)][849] of the Psychoactive Substances Act 2013 (2013 No 53).
+    Section 272(3)(ba): inserted, on 18 July 2013, by [section 109(2)][851] of the Psychoactive Substances Act 2013 (2013 No 53).
+    
+    Section 272(3)(c): amended, on 18 December 2013, by [section 416(2)][852] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
+    
+    Section 272(3)(d): inserted, on 18 December 2013, by [section 416(2)][852] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
     
     Section 272(4): replaced, on 1 July 2013, by [section 4][712] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2011 (2011 No 83).
     
-    Section 272(5): amended, on 18 July 2013, by [section 109(3)][849] of the Psychoactive Substances Act 2013 (2013 No 53).
+    Section 272(5): amended, on 18 December 2013, by [section 416(3)(a)][852] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
+    
+    Section 272(5): amended, on 18 December 2013, by [section 416(3)(b)][852] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
+    
+    Section 272(5): amended, on 18 July 2013, by [section 109(3)][851] of the Psychoactive Substances Act 2013 (2013 No 53).
     
     Section 272(5): amended, on 1 July 2013, by [section 4][712] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2011 (2011 No 83).
 
@@ -7760,7 +7770,7 @@ Youth justice
     
     (6) \[Repealed\]
     
-    Section 272A: inserted, on 1 October 2010, by [section 15][850] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 272A: inserted, on 1 October 2010, by [section 15][853] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
     Section 272A(1)(b): replaced, on 1 July 2013, by [section 4][712] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2011 (2011 No 83).
     
@@ -7814,9 +7824,9 @@ Youth justice
     
     (2) All applicable pre-trial processes must take place before a Youth Court, up to and including---
         
-    *   (a) in the case of a charge relating to a category 3 offence or category 4 offence (other than murder or manslaughter), transferring to the trial court after an adjournment for trial callover in accordance with [section 57(3)(b)][851] of the Criminal Procedure Act 2011; and
+    *   (a) in the case of a charge relating to a category 3 offence or category 4 offence (other than murder or manslaughter), transferring to the trial court after an adjournment for trial callover in accordance with [section 57(3)(b)][854] of the Criminal Procedure Act 2011; and
     
-    *   (b) in the case of a charge of murder or manslaughter, transferring the proceeding to the High Court in accordance with [section 36(2)][852] of the Criminal Procedure Act 2011\.
+    *   (b) in the case of a charge of murder or manslaughter, transferring the proceeding to the High Court in accordance with [section 36(2)][855] of the Criminal Procedure Act 2011\.
     
     (3) For the purposes of the pre-trial processes referred to in subsection (2),---
         
@@ -7824,9 +7834,9 @@ Youth justice
     
     *   (b) the Youth Court must be presided over by a Youth Court Judge, or, in the absence of a Youth Court Judge, by a District Court Judge.
     
-    (4) In this section, applicable pre-trial processes include all applicable processes under [subparts 1 to 4][853] of Part 3 of the Criminal Procedure Act 2011, any other provisions of that Act referred to in subsection (5); and those processes apply with the necessary modifications.
+    (4) In this section, applicable pre-trial processes include all applicable processes under [subparts 1 to 4][856] of Part 3 of the Criminal Procedure Act 2011, any other provisions of that Act referred to in subsection (5); and those processes apply with the necessary modifications.
     
-    (5) For the purpose of subsection (4), [sections 60 to 62(1)][854], [62(3) to 65][855], and [116][856] of that Act (which relate to sentence indications) apply despite [Schedule 1][687] of this Act.
+    (5) For the purpose of subsection (4), [sections 60 to 62(1)][857], [62(3) to 65][858], and [116][859] of that Act (which relate to sentence indications) apply despite [Schedule 1][687] of this Act.
     
     (6) This section is subject to [section 276][385].
     
@@ -7842,7 +7852,7 @@ Youth justice
     
     *   (b) a young person charged with a category 3 or 4 offence, other than murder or manslaughter, elects trial by jury.
     
-    (2) The child or young person may, without leave of the court, withdraw that election at any time before the proceeding is transferred to the trial court after an adjournment for trial callover in accordance with [section 57(3)(b)][851] of the Criminal Procedure Act 2011 and, if the child or young person does so, the proceedings continue in the Youth Court as if he or she had not made that election.
+    (2) The child or young person may, without leave of the court, withdraw that election at any time before the proceeding is transferred to the trial court after an adjournment for trial callover in accordance with [section 57(3)(b)][854] of the Criminal Procedure Act 2011 and, if the child or young person does so, the proceedings continue in the Youth Court as if he or she had not made that election.
     
     (3) If the Youth Court proposes to adjourn the proceeding for trial callover, or the child or young person at any time before the proceeding is adjourned for trial callover indicates to the court that he or she wishes to plead guilty to the offence, the Youth Court must give that child or young person the opportunity of forgoing the right to trial by jury and of electing to have the charge heard and determined in a Youth Court by a Youth Court Judge.
     
@@ -7884,13 +7894,13 @@ Youth justice
         
     *   (a) any sentence imposed or order made must be one that could have been imposed or made if that defendant had been convicted following a trial in a District Court; and
     
-    *   (b) that defendant must for all purposes, including [section 184][857] of the Criminal Procedure Act 2011, be deemed to have been convicted in a District Court.
+    *   (b) that defendant must for all purposes, including [section 184][860] of the Criminal Procedure Act 2011, be deemed to have been convicted in a District Court.
     
     (10) If an adult is tried with a child or young person in the Youth Court under subsection (6)(b) or (7), the following apply in respect of the adult, with the necessary modifications:
         
-    *   (a) all applicable pre-trial processes under [subparts 1 to 3][853] of Part 3 of the Criminal Procedure Act 2011; and
+    *   (a) all applicable pre-trial processes under [subparts 1 to 3][856] of Part 3 of the Criminal Procedure Act 2011; and
     
-    *   (b) [sections 60 to 62(1)][854], [62(3) to 65][855], and [116][856] of that Act (which relate to sentence indications).
+    *   (b) [sections 60 to 62(1)][857], [62(3) to 65][858], and [116][859] of that Act (which relate to sentence indications).
     
     (11) This section is subject to [sections 272A][381], [274][383], and [275][384].
     
@@ -7904,11 +7914,11 @@ Youth justice
     
     (3) If the offence with which the young person is charged is a category 3 offence,---
         
-    *   (a) the level of trial court is a District Court, unless an order is made under [section 68][858] or [70][859] of the Criminal Procedure Act 2011 that the trial be held in the High Court; and
+    *   (a) the level of trial court is a District Court, unless an order is made under [section 68][861] or [70][862] of the Criminal Procedure Act 2011 that the trial be held in the High Court; and
     
     *   (b) the place of trial is,---
             
-        *   (i) in the case of a District Court trial, the District Court nearest to the Youth Court that adjourned the proceeding for trial callover in accordance with [section 57(3)(b)][851] of the Criminal Procedure Act 2011 that has jurisdiction to conduct jury trials; or 
+        *   (i) in the case of a District Court trial, the District Court nearest to the Youth Court that adjourned the proceeding for trial callover in accordance with [section 57(3)(b)][854] of the Criminal Procedure Act 2011 that has jurisdiction to conduct jury trials; or 
         
         *   (ii) in the case of a High Court trial, the High Court at the place nearest to the Youth Court that dealt with the pre-trial processes in accordance with [section 275(2)][384].
         
@@ -7916,11 +7926,11 @@ Youth justice
     
     (4) This section is subject to---
         
-    *   (a) any order made under [section 4A][860] of the District Courts Act 1947 or [section 157][861] of the Criminal Procedure Act 2011; and
+    *   (a) any order made under [section 4A][863] of the District Courts Act 1947 or [section 157][864] of the Criminal Procedure Act 2011; and
     
-    *   (b) [section 139(1)][862] of the Criminal Procedure Act 2011; and
+    *   (b) [section 139(1)][865] of the Criminal Procedure Act 2011; and
     
-    *   (c) any regulations made under [section 387][863] of the Criminal Procedure Act 2011 that prescribe a different place of trial.
+    *   (c) any regulations made under [section 387][866] of the Criminal Procedure Act 2011 that prescribe a different place of trial.
     
     Section 277A: inserted, on 1 July 2013, by [section 4][712] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2011 (2011 No 83).
 
@@ -7940,7 +7950,7 @@ Youth justice
     
     Section 278(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][709] of the Policing Act 2008 (2008 No 72).
     
-    Section 278(1): amended, on 30 June 1998, by [section 7][864] of the District Courts Amendment Act 1998 (1998 No 76).
+    Section 278(1): amended, on 30 June 1998, by [section 7][867] of the District Courts Amendment Act 1998 (1998 No 76).
     
     Section 278(3): amended, on 1 July 2013, by [section 4][712] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2011 (2011 No 83).
 
@@ -7996,7 +8006,7 @@ Youth justice
     
     (6) Nothing in this section limits or affects the application to a child, in accordance with [section 272(2A)][380], of [section 280][390], insofar as the child may be in need of care or protection on a ground other than that specified in [section 14(1)(e)][23].
     
-    Section 280A: inserted, on 1 October 2010, by [section 20][865] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 280A: inserted, on 1 October 2010, by [section 20][868] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
     Section 280A heading: amended, on 1 July 2013, by [section 4][712] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2011 (2011 No 83).
     
@@ -8032,13 +8042,13 @@ Youth justice
     
     (3) The provisions of [sections 250 to 269][355] (other than [section 259][364]) shall apply, so far as applicable and with all necessary modifications, to every family group conference directed to be convened pursuant to subsection (2).
     
-    Section 281(2)(a): substituted, on 1 October 2010, by [section 21][866] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 281(2)(a): substituted, on 1 October 2010, by [section 21][869] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
-    Section 281(2)(b): substituted, on 1 October 2010, by [section 21][866] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 281(2)(b): substituted, on 1 October 2010, by [section 21][869] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
-    Section 281(2)(c): substituted, on 1 October 2010, by [section 21][866] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 281(2)(c): substituted, on 1 October 2010, by [section 21][869] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
-    Section 281(2)(d): repealed, on 1 October 2010, by [section 21][866] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 281(2)(d): repealed, on 1 October 2010, by [section 21][869] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ##### 281A Court to consider whether family group conference should be held
     
@@ -8050,7 +8060,7 @@ Youth justice
     
     as the case may be, consider whether or not a family group conference should nevertheless be held in relation to the matter.
     
-    Section 281A: inserted, on 8 January 1995, by [section 38][867] of the Children, Young Persons, and Their Families Amendment Act 1994 (1994 No 121).
+    Section 281A: inserted, on 8 January 1995, by [section 38][870] of the Children, Young Persons, and Their Families Amendment Act 1994 (1994 No 121).
     
     Section 281A(a): amended, on 1 July 2013, by [section 4][712] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2011 (2011 No 83).
 
@@ -8060,7 +8070,7 @@ Youth justice
     
     (2) The provisions of [sections 250 to 269][355] shall apply with all necessary modifications with respect to the convening of a family group conference for the purposes of this section.
     
-    Section 281B: inserted, on 8 January 1995, by [section 38][867] of the Children, Young Persons, and Their Families Amendment Act 1994 (1994 No 121).
+    Section 281B: inserted, on 8 January 1995, by [section 38][870] of the Children, Young Persons, and Their Families Amendment Act 1994 (1994 No 121).
 
 ##### 282 Power of court to discharge charge
     
@@ -8092,7 +8102,7 @@ Youth justice
     
     *   (c) order that the young person come before the court, if called upon within 12 months after the order is made, so that the court may take further action under this section:
     
-    *   (d) impose a fine that could have been imposed by a District Court if the young person were an adult and had been convicted of the offence following a trial in a District Court, and exercise any of the powers conferred on a District Court by [sections 81][868] and [83][869] of the Summary Proceedings Act 1957 (other than the power to impose a period of imprisonment in default of payment):
+    *   (d) impose a fine that could have been imposed by a District Court if the young person were an adult and had been convicted of the offence following a trial in a District Court, and exercise any of the powers conferred on a District Court by [sections 81][871] and [83][872] of the Summary Proceedings Act 1957 (other than the power to impose a period of imprisonment in default of payment):
     
     *   (e) order the young person or, in the case of a young person who is under the age of 16 years, any parent or guardian of the young person to pay a sum towards the cost of the prosecution:
     
@@ -8104,17 +8114,17 @@ Youth justice
         
         
     
-    *   (g) order the young person or, in the case of a young person who is under the age of 16 years, a parent or guardian of the young person to make restitution in accordance with [section 377][870] of the Criminal Procedure Act 2011:
+    *   (g) order the young person or, in the case of a young person who is under the age of 16 years, a parent or guardian of the young person to make restitution in accordance with [section 377][873] of the Criminal Procedure Act 2011:
     
     *   (h) make an order for the forfeiture of property to the Crown if the forfeiture of that property would have been obligatory or could have been ordered under an enactment applicable to the offence if the young person were an adult and had been convicted of that offence by a District Court:
     
     *   (i) make an order under [section 293A][410] (which relates to disqualification from driving):
     
-    *   (j) make an order that could have been made by a court other than a Youth Court under [section 128][871] or [129][872] of the Sentencing Act 2002 (which relate to confiscation of motor vehicles) if the young person were an adult and had been convicted of the offence in a court other than a Youth Court, and, if the court makes the order, the following sections of that Act apply (to the extent they are applicable and subject to any necessary modifications):
+    *   (j) make an order that could have been made by a court other than a Youth Court under [section 128][874] or [129][875] of the Sentencing Act 2002 (which relate to confiscation of motor vehicles) if the young person were an adult and had been convicted of the offence in a court other than a Youth Court, and, if the court makes the order, the following sections of that Act apply (to the extent they are applicable and subject to any necessary modifications):
             
-        *   (i) [section 128][871] or [129][872] (as the case may be):
+        *   (i) [section 128][874] or [129][875] (as the case may be):
         
-        *   (ii) [sections 129EA][873], [130][874], [131 to 136][875], [137][876], and [138 to 142][877]:
+        *   (ii) [sections 129EA][876], [130][877], [131 to 136][878], [137][879], and [138 to 142][880]:
         
         
     
@@ -8158,15 +8168,15 @@ Youth justice
     
     Compare: 1974 No 72 s 36(1); 1977 No 126 s 10; 1983 No 129 s 8(1)
     
-    Section 283: substituted, on 1 October 2010, by [section 23][878] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 283: substituted, on 1 October 2010, by [section 23][881] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
     Section 283(d): amended, on 1 July 2013, by [section 4][712] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2011 (2011 No 83).
     
     Section 283(g): amended, on 1 July 2013, by [section 4][712] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2011 (2011 No 83).
     
-    Section 283(j): replaced, on 1 August 2012, by [section 5][879] of the Children, Young Persons, and Their Families Amendment Act 2011 (2011 No 33).
+    Section 283(j): replaced, on 1 August 2012, by [section 5][882] of the Children, Young Persons, and Their Families Amendment Act 2011 (2011 No 33).
     
-    Section 283(o): replaced, on 1 July 2013, by [section 4][870] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2011 (2011 No 83).
+    Section 283(o): replaced, on 1 July 2013, by [section 4][873] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2011 (2011 No 83).
 
 ##### 284 Factors to be taken into account on sentencing
     
@@ -8198,7 +8208,7 @@ Youth justice
     
     (2) The court shall not make an order under any of paragraphs (k) to (o) of [section 283][397] merely because the court considers that the young person is in need of care or protection (as defined in [section 14][23]).
     
-    Section 284(1)(i): added, on 1 October 2010, by [section 24][880] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 284(1)(i): added, on 1 October 2010, by [section 24][883] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ##### 285 Restrictions on power of court to make certain orders under section 283
     
@@ -8254,7 +8264,7 @@ Youth justice
     
     Section 285(5)(c): amended, on 30 June 2002, by [section 186][722] of the Sentencing Act 2002 (2002 No 9).
     
-    Section 285(6): substituted, on 1 October 2010, by [section 25][881] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 285(6): substituted, on 1 October 2010, by [section 25][884] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
     Section 285(6): amended, on 1 July 2013, by [section 4][712] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2011 (2011 No 83).
     
@@ -8264,7 +8274,7 @@ Youth justice
     
 *   No order shall be made under paragraph (k) or paragraph (m) of [section 283][397], or under [section 296G][423], placing a young person under the supervision of any person (other than the chief executive), or any organisation, unless that person or organisation agrees to supervise that young person pursuant to that order.
     
-    Section 286: amended, on 1 October 2010, by [section 26][882] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 286: amended, on 1 October 2010, by [section 26][885] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
     Section 286: amended, on 1 October 1999, by [section 13][705] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
 
@@ -8282,13 +8292,13 @@ Youth justice
     
     (3) An order to which this section applies may be made subject to any conditions the court thinks fit and specifies in the order.
     
-    Section 286A: inserted, on 1 October 2010, by [section 27][883] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 286A: inserted, on 1 October 2010, by [section 27][886] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ##### 287 Reparation limited to direct loss
     
 *   Any sum ordered to be paid pursuant to [section 283(f)][397] in respect of the loss of or damage to property shall be limited to the cost of replacement or (as the case may require) the cost of repair, and shall not include any loss or damage of a consequential nature.
     
-    Compare: [1985 No 120][884] s [22(5)][748]; 1987 No 168 s 4
+    Compare: [1985 No 120][887] s [22(5)][748]; 1987 No 168 s 4
 
 ##### 288 Order in respect of parent or guardian or other person having care not to be made without first informing of proposal to make order and giving opportunity to make representations
     
@@ -8300,7 +8310,7 @@ Youth justice
     
     Compare: 1974 No 72 s 36(5)
     
-    Section 288: substituted, on 1 October 2010, by [section 28][885] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 288: substituted, on 1 October 2010, by [section 28][888] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ##### 289 Court must impose least restrictive outcome adequate in circumstances
     
@@ -8330,15 +8340,15 @@ Youth justice
     
     *   (b) substitutes under [section 316(2)(b)][460] any other order under [section 283][397] that it could have made when the supervision with residence order was made.
     
-    Compare: 2002 No 9 [s 8(g)][886]
+    Compare: 2002 No 9 [s 8(g)][889]
     
-    Section 289: substituted, on 1 October 2010, by [section 28][885] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 289: substituted, on 1 October 2010, by [section 28][888] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ##### 290 Judge must record in writing reasons for supervision with residence or transfer order
     
 *   A Judge exercising the jurisdiction of the court to make an order under [section 283(n) or (o)][397] must when making the order record in writing his or her reasons for doing so.
     
-    Section 290: substituted, on 1 October 2010, by [section 28][885] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 290: substituted, on 1 October 2010, by [section 28][888] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ##### 290A Restriction on who may provide residential component of specified programme or activity
     
@@ -8360,7 +8370,7 @@ Youth justice
     
     *   (b) with, and under the control of, the provider.
     
-    Section 290A: inserted, on 1 October 2010, by [section 28][885] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 290A: inserted, on 1 October 2010, by [section 28][888] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ##### 291 Transfer of other charges to District Court or High Court for sentence
     
@@ -8394,21 +8404,21 @@ Youth justice
     
 *   (1) Where a charge against a young person is proved before a Youth Court, and the offence or the circumstances in which it was committed are such that a District Court would, on entering a conviction for that offence,---
         
-    *   (a) be empowered under [section 124][887] of the Sentencing Act 2002 to make an order disqualifying the offender from holding or obtaining a driver's licence; or
+    *   (a) be empowered under [section 124][890] of the Sentencing Act 2002 to make an order disqualifying the offender from holding or obtaining a driver's licence; or
     
     *   (b) be required or empowered under the [Land Transport Act 1998][701] to make an order disqualifying the offender from holding or obtaining a driver's licence; or
     
-    *   (c) be required to make an order under [section 65][888] of the Land Transport Act 1998 requiring the offender to attend an Assessment Centre and disqualifying the person from holding or obtaining a driver's licence,---
+    *   (c) be required to make an order under [section 65][891] of the Land Transport Act 1998 requiring the offender to attend an Assessment Centre and disqualifying the person from holding or obtaining a driver's licence,---
     
     then the Youth Court may make such order (being an order of any of the kinds referred to in any of paragraphs (a) to (c)) as would have been obligatory or could have been ordered under any of those sections if the young person were an adult and had been convicted of the offence in a court other than a Youth Court.
     
-    (2) Where a Youth Court makes an order pursuant to subsection (1)(a), the provisions of [sections 124 to 126][887] of the Sentencing Act 2002 shall apply accordingly.
+    (2) Where a Youth Court makes an order pursuant to subsection (1)(a), the provisions of [sections 124 to 126][890] of the Sentencing Act 2002 shall apply accordingly.
     
-    (3) Subject to subsection (5), where a Youth Court makes an order pursuant to subsection (1)(b) or (c), [Parts 5 to 7][889] of the Land Transport Act 1998 shall apply, so far as applicable and with any necessary modifications, as if the order had been made under that Act.
+    (3) Subject to subsection (5), where a Youth Court makes an order pursuant to subsection (1)(b) or (c), [Parts 5 to 7][892] of the Land Transport Act 1998 shall apply, so far as applicable and with any necessary modifications, as if the order had been made under that Act.
     
-    (4) In determining, for the purposes of paragraph (b) or paragraph (c) of subsection (1), whether any order would have been obligatory or could have been ordered under any of the sections referred to in either of those paragraphs, a finding (whether made before or after the commencement of this section), by a Children and Young Persons Court or a Youth Court, that a young person is proved to have committed an offence referred to in [section 32(1)][890] or [section 65(1)][888] of the Land Transport Act 1998 (not being an offence in respect of which an order has been made under [section 282][396] of this Act or section 35 of the Children and Young Persons Act 1974) shall be deemed to be a conviction for that offence.
+    (4) In determining, for the purposes of paragraph (b) or paragraph (c) of subsection (1), whether any order would have been obligatory or could have been ordered under any of the sections referred to in either of those paragraphs, a finding (whether made before or after the commencement of this section), by a Children and Young Persons Court or a Youth Court, that a young person is proved to have committed an offence referred to in [section 32(1)][893] or [section 65(1)][891] of the Land Transport Act 1998 (not being an offence in respect of which an order has been made under [section 282][396] of this Act or section 35 of the Children and Young Persons Act 1974) shall be deemed to be a conviction for that offence.
     
-    (5) Where a Youth Court makes an order pursuant to subsection (1)(c) in respect of a young person, that young person shall not be required to pay the Assessment Centre fee payable under [section 65(4)][888] of the Land Transport Act 1998 in respect of that order unless the Youth Court, being satisfied that the young person has the capacity to pay that fee within a period of 12 months from the date on which the fee is payable, so orders.
+    (5) Where a Youth Court makes an order pursuant to subsection (1)(c) in respect of a young person, that young person shall not be required to pay the Assessment Centre fee payable under [section 65(4)][891] of the Land Transport Act 1998 in respect of that order unless the Youth Court, being satisfied that the young person has the capacity to pay that fee within a period of 12 months from the date on which the fee is payable, so orders.
     
     Section 293A: inserted, on 1 April 1990, by [section 35(3)][719] of the Social Welfare (Transitional Provisions) Act 1990 (1990 No 26).
     
@@ -8432,15 +8442,15 @@ Youth justice
         
     *   (a) a charge against a young person is proved before a Youth Court; and
     
-    *   (b) the offence is such that, if the offender were convicted in a District Court, the New Zealand Transport Agency would be obliged under [section 88][891] of the Land Transport Act 1998 to record demerit points in respect of the offender,---
+    *   (b) the offence is such that, if the offender were convicted in a District Court, the New Zealand Transport Agency would be obliged under [section 88][894] of the Land Transport Act 1998 to record demerit points in respect of the offender,---
     
-    the young person is, unless the charge is discharged under [section 282][396], deemed, for the purposes of [sections 88 to 91][891] of the Land Transport Act 1998 and of any regulations made under [section 167(1)(g)][892] of that Act, to have been convicted of that offence, and the provisions of those sections of that Act and those regulations apply accordingly with all necessary modifications.
+    the young person is, unless the charge is discharged under [section 282][396], deemed, for the purposes of [sections 88 to 91][894] of the Land Transport Act 1998 and of any regulations made under [section 167(1)(g)][895] of that Act, to have been convicted of that offence, and the provisions of those sections of that Act and those regulations apply accordingly with all necessary modifications.
     
     Section 294: substituted, on 1 March 1999, by [section 215(1)][710] of the Land Transport Act 1998 (1998 No 110).
     
     Section 294: amended, on 1 July 2013, by [section 4][712] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2011 (2011 No 83).
     
-    Section 294(b): amended, on 1 August 2008, by [section 50(1)][893] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 294(b): amended, on 1 August 2008, by [section 50(1)][896] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 295 Recall to come before court
     
@@ -8492,29 +8502,29 @@ Youth justice
         
     *   (a) an order specified in subsection (1)(a) to (i) and made on or after 1 October 2010; or
     
-    *   (b) an order specified in subsection (1)(j) or (k) and made after the date on which the [Children, Young Persons, and Their Families Amendment Act 2012][894] comes into force.
+    *   (b) an order specified in subsection (1)(j) or (k) and made after the date on which the [Children, Young Persons, and Their Families Amendment Act 2012][897] comes into force.
     
     (3) The order expires (if it does not expire sooner) 6 months after the young person in respect of whom it is made attains the age of 17 years if it is an order specified in subsection (1)(a) to (i) and made before 1 October 2010\.
     
-    (4) The order expires under [section 108][132] if it is an order specified in subsection (1)(j) and (k) and made before the date on which the [Children, Young Persons, and Their Families Amendment Act 2012][894] comes into force.
+    (4) The order expires under [section 108][132] if it is an order specified in subsection (1)(j) and (k) and made before the date on which the [Children, Young Persons, and Their Families Amendment Act 2012][897] comes into force.
     
-    Section 296: substituted, on 1 October 2010, by [section 29][895] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 296: substituted, on 1 October 2010, by [section 29][898] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
-    Section 296(1)(i): amended, on 12 December 2012, by [section 4(1)][896] of the Children, Young Persons, and Their Families Amendment Act 2012 (2012 No 99).
+    Section 296(1)(i): amended, on 12 December 2012, by [section 4(1)][899] of the Children, Young Persons, and Their Families Amendment Act 2012 (2012 No 99).
     
-    Section 296(1)(j): inserted, on 12 December 2012, by [section 4(1)][896] of the Children, Young Persons, and Their Families Amendment Act 2012 (2012 No 99).
+    Section 296(1)(j): inserted, on 12 December 2012, by [section 4(1)][899] of the Children, Young Persons, and Their Families Amendment Act 2012 (2012 No 99).
     
-    Section 296(1)(k): inserted, on 12 December 2012, by [section 4(1)][896] of the Children, Young Persons, and Their Families Amendment Act 2012 (2012 No 99).
+    Section 296(1)(k): inserted, on 12 December 2012, by [section 4(1)][899] of the Children, Young Persons, and Their Families Amendment Act 2012 (2012 No 99).
     
-    Section 296(2): replaced, on 12 December 2012, by [section 4(2)][896] of the Children, Young Persons, and Their Families Amendment Act 2012 (2012 No 99).
+    Section 296(2): replaced, on 12 December 2012, by [section 4(2)][899] of the Children, Young Persons, and Their Families Amendment Act 2012 (2012 No 99).
     
-    Section 296(3): replaced, on 12 December 2012, by [section 4(2)][896] of the Children, Young Persons, and Their Families Amendment Act 2012 (2012 No 99).
+    Section 296(3): replaced, on 12 December 2012, by [section 4(2)][899] of the Children, Young Persons, and Their Families Amendment Act 2012 (2012 No 99).
     
-    Section 296(4): inserted, on 12 December 2012, by [section 4(2)][896] of the Children, Young Persons, and Their Families Amendment Act 2012 (2012 No 99).
+    Section 296(4): inserted, on 12 December 2012, by [section 4(2)][899] of the Children, Young Persons, and Their Families Amendment Act 2012 (2012 No 99).
 
 #### Failure to comply with, and variation and cancellation of, specified orders
     
-*   Heading: inserted, on 1 October 2010, by [section 29][895] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+*   Heading: inserted, on 1 October 2010, by [section 29][898] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ##### 296A Orders to which sections 296B and 296E apply
     
@@ -8536,7 +8546,7 @@ Youth justice
     
     (2) [Section 296E][420] also applies to a parenting education programme order under [section 298(ja)][437] requiring the parent or guardian or other person having the care of the young person in respect of whom the order is made to attend a specified parenting education programme.
     
-    Section 296A: inserted, on 1 October 2010, by [section 29][895] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 296A: inserted, on 1 October 2010, by [section 29][898] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ##### 296B Failure to comply
     
@@ -8564,7 +8574,7 @@ Youth justice
     
     (5) Subsection (3) is subject to [section 289(2)][404] (on the court imposing the least restrictive outcome that is adequate in the circumstances).
     
-    Section 296B: inserted, on 1 October 2010, by [section 29][895] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 296B: inserted, on 1 October 2010, by [section 29][898] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ##### 296C Warrant to have young person arrested and brought before court
     
@@ -8582,9 +8592,9 @@ Youth justice
     
     *   (b) the breach application has been served on that young person, but he or she has failed to appear before that court.
     
-    Compare: 2002 No 9 [s 72(3)][897]
+    Compare: 2002 No 9 [s 72(3)][900]
     
-    Section 296C: inserted, on 1 October 2010, by [section 29][895] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 296C: inserted, on 1 October 2010, by [section 29][898] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ##### 296D Execution of warrant under section 296C
     
@@ -8596,9 +8606,9 @@ Youth justice
     
     (4) [Sections 445A][646] (person executing warrant to produce evidence of authority and identity) and [445B][647] (authority to use facsimile copy of warrant) apply to the warrant.
     
-    Compare: 2000 No 38 [s 36(2)--(4)][898]; 2002 No 9 [s 72(4)][897]
+    Compare: 2000 No 38 [s 36(2)--(4)][901]; 2002 No 9 [s 72(4)][900]
     
-    Section 296D: inserted, on 1 October 2010, by [section 29][895] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 296D: inserted, on 1 October 2010, by [section 29][898] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ##### 296E Variation and cancellation
     
@@ -8634,7 +8644,7 @@ Youth justice
     
     (5) If the application is for the suspension or variation of a condition of an order under [section 283(k)][397], [296G][423], or [307][447], the chief executive (if the order places the young person under the supervision of the chief executive), or (in any other case) the person or organisation specified in the order, may suspend the condition until the application has been heard and disposed of by the court.
     
-    Section 296E: inserted, on 1 October 2010, by [section 29][895] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 296E: inserted, on 1 October 2010, by [section 29][898] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ##### 296F Interim suspension order
     
@@ -8648,25 +8658,25 @@ Youth justice
     
     (3) If the court makes an interim suspension order under this section in respect of an order specified in [section 296A(1)][416], the court may also exercise, in respect of the young person, any power conferred by [section 238(1)(a) to (e)][340].
     
-    Section 296F: inserted, on 1 October 2010, by [section 29][895] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 296F: inserted, on 1 October 2010, by [section 29][898] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
-    Section 296F(3): amended, on 12 December 2012, by [section 5][899] of the Children, Young Persons, and Their Families Amendment Act 2012 (2012 No 99).
+    Section 296F(3): amended, on 12 December 2012, by [section 5][902] of the Children, Young Persons, and Their Families Amendment Act 2012 (2012 No 99).
 
 #### Intensive supervision orders
     
-*   Heading: inserted, on 1 October 2010, by [section 29][895] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+*   Heading: inserted, on 1 October 2010, by [section 29][898] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ##### 296G Intensive supervision order in response to young person's non-compliance with judicially monitored condition of supervision or supervision with activity order
     
 *   In the situation specified in [section 296B(3)(c)][417], the court may make an order placing the young person under the supervision of the chief executive or such person or organisation as may be specified in the order for a period specified in the order and of not more than 12 months.
     
-    Section 296G: inserted, on 1 October 2010, by [section 29][895] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 296G: inserted, on 1 October 2010, by [section 29][898] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ##### 296H Duty of chief executive to provide for supervision under intensive supervision order
     
 *   If, under [section 296G][423], a young person is placed under the supervision of the chief executive, the chief executive must from time to time appoint a social worker to supervise the young person on behalf of the chief executive.
     
-    Section 296H: inserted, on 1 October 2010, by [section 29][895] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 296H: inserted, on 1 October 2010, by [section 29][898] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ##### 296I Conditions of intensive supervision order
     
@@ -8690,7 +8700,7 @@ Youth justice
     
     *   (f) a condition (if the court under this paragraph imposes one) that the young person undertake any specified programme or activity.
     
-    Section 296I: inserted, on 1 October 2010, by [section 29][895] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 296I: inserted, on 1 October 2010, by [section 29][898] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ##### 296J Additional conditions imposing curfew with or without electronic monitoring of compliance
     
@@ -8732,9 +8742,9 @@ Youth justice
     
     (7) A Judge exercising the jurisdiction of the court to impose an electronic monitoring condition under subsection (6) must when imposing the condition record in writing his or her reasons for doing so.
     
-    Compare: 2002 No 9 [ss 69B(3)--(5)][900], [69E(1)(a)][901], (1)(e), (2)
+    Compare: 2002 No 9 [ss 69B(3)--(5)][903], [69E(1)(a)][904], (1)(e), (2)
     
-    Section 296J: inserted, on 1 October 2010, by [section 29][895] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 296J: inserted, on 1 October 2010, by [section 29][898] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ##### 296K Electronic monitoring
     
@@ -8762,11 +8772,11 @@ Youth justice
     
     (6) [Section 41(3), (5), and (7)][772] of the State Sector Act 1988 apply with all necessary modifications to a delegation under subsection (5); but nothing in this section limits or affects [section 41][772] of that Act or its application to the functions or powers that may be delegated under subsection (5).
     
-    (7) Functions or powers delegated under subsection (5) must be regarded as functions or powers of the Commissioner of Police for the purposes of [section 17(1)][902] of the Policing Act 2008\.
+    (7) Functions or powers delegated under subsection (5) must be regarded as functions or powers of the Commissioner of Police for the purposes of [section 17(1)][905] of the Policing Act 2008\.
     
-    Compare: 2002 No 9 [s 69F][903]
+    Compare: 2002 No 9 [s 69F][906]
     
-    Section 296K: inserted, on 1 October 2010, by [section 29][895] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 296K: inserted, on 1 October 2010, by [section 29][898] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ##### 296L Powers to detain and return, and arrest, young person breaching curfew condition
     
@@ -8782,9 +8792,9 @@ Youth justice
     
     *   (b) refusing or neglecting to return to the curfew address.
     
-    (3) A young person to whom this section applies does not, by reason only of an act or omission referred to in subsection (1) or (2), commit an offence against [section 120][904] of the Crimes Act 1961\.
+    (3) A young person to whom this section applies does not, by reason only of an act or omission referred to in subsection (1) or (2), commit an offence against [section 120][907] of the Crimes Act 1961\.
     
-    Section 296L: inserted, on 1 October 2010, by [section 29][895] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 296L: inserted, on 1 October 2010, by [section 29][898] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ##### 296M Review of intensive supervision order
     
@@ -8818,7 +8828,7 @@ Youth justice
     
     *   (b) if the court considers the report furnished under subsection (2), or the revised plan, or both, to be inadequate, direct the person who prepared the report to furnish to the court a further report, or a further revised plan, or both, ensuring that the direction to that person indicates any specific matter that it requires to be dealt with in that report or plan.
     
-    Section 296M: inserted, on 1 October 2010, by [section 29][895] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 296M: inserted, on 1 October 2010, by [section 29][898] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 #### Powers of court where young person already subject to order made under this Part
 
@@ -8834,7 +8844,7 @@ Youth justice
 
 #### Parenting education programme orders
     
-*   Heading: inserted, on 1 October 2010, by [section 30][905] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+*   Heading: inserted, on 1 October 2010, by [section 30][908] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ##### 297A Written statements of terms, and how court may respond to failures to comply
     
@@ -8856,11 +8866,11 @@ Youth justice
     
     (5) The care and protection co-ordinator must comply with, and [Part 2][19] applies with all necessary modifications to a conference convened in accordance with, a direction under subsection (4).
     
-    Section 297A: inserted, on 1 October 2010, by [section 30][905] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 297A: inserted, on 1 October 2010, by [section 30][908] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 #### Alcohol or drug rehabilitation programme orders
     
-*   Heading: inserted, on 1 October 2010, by [section 30][905] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+*   Heading: inserted, on 1 October 2010, by [section 30][908] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ##### 297B Nature of programmes, who may consent to medical treatment, and related custody orders
     
@@ -8892,9 +8902,9 @@ Youth justice
     
     *   (b) [section 365][529] (which would empower the chief executive to place the young person in a residence established under [section 364][526]) does not apply to the young person.
     
-    Section 297B: inserted, on 1 October 2010, by [section 30][905] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 297B: inserted, on 1 October 2010, by [section 30][908] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
-    Section 297B(7): replaced, on 12 December 2012, by [section 6][906] of the Children, Young Persons, and Their Families Amendment Act 2012 (2012 No 99).
+    Section 297B(7): replaced, on 12 December 2012, by [section 6][909] of the Children, Young Persons, and Their Families Amendment Act 2012 (2012 No 99).
 
 #### Community work order
 
@@ -8918,7 +8928,7 @@ Youth justice
     
     Compare: 1974 No 72 s 36(1)(ia); 1977 No 126 s 10(2)
     
-    Section 298(1): amended, on 1 October 2010, by [section 31][907] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 298(1): amended, on 1 October 2010, by [section 31][910] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
     Section 298(2)(b)(ii): amended, on 1 October 1999, by [section 13][705] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
 
@@ -8926,27 +8936,27 @@ Youth justice
     
 *   \[Repealed\]
     
-    Section 299: repealed, on 1 October 2010, by [section 32][908] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 299: repealed, on 1 October 2010, by [section 32][911] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ##### 300 Variation or cancellation of community work order
     
 *   \[Repealed\]
     
-    Section 300: repealed, on 1 October 2010, by [section 32][908] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 300: repealed, on 1 October 2010, by [section 32][911] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ##### 301 Procedural provisions relating to application under section 300
     
 *   \[Repealed\]
     
-    Section 301: repealed, on 1 October 2010, by [section 32][908] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 301: repealed, on 1 October 2010, by [section 32][911] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ##### 302 Application of Accident Compensation Act 2001 to young persons performing work under community work order
     
 *   When a young person performs any service or does any work for the purposes of a community work order, the following provisions apply:
         
-    *   (a) if the young person suffers any personal injury for which he or she has cover under the [Accident Compensation Act 2001][909] arising out of and in the course of performing that service or doing that work,---
+    *   (a) if the young person suffers any personal injury for which he or she has cover under the [Accident Compensation Act 2001][912] arising out of and in the course of performing that service or doing that work,---
             
-        *   (i) the personal injury is deemed, for the purposes of [section 97][910] of that Act only, to be a work-related personal injury; and
+        *   (i) the personal injury is deemed, for the purposes of [section 97][913] of that Act only, to be a work-related personal injury; and
         
         *   (ii) the Crown is liable to pay compensation to which the young person is entitled under that section:
         
@@ -8956,11 +8966,11 @@ Youth justice
     
     Section 302: substituted, on 1 April 2000, by section 9(1) of the Accident Insurance Amendment Act 2000 (2000 No 6).
     
-    Section 302 heading: amended, on 3 March 2010, pursuant to [section 5(1)(b)][911] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 302 heading: amended, on 3 March 2010, pursuant to [section 5(1)(b)][914] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 302(a): amended, on 3 March 2010, pursuant to [section 5(1)(b)][911] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 302(a): amended, on 3 March 2010, pursuant to [section 5(1)(b)][914] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 302(a)(i): amended, on 1 April 2002, by [section 337(1)][912] of the Accident Compensation Act 2001 (2001 No 49).
+    Section 302(a)(i): amended, on 1 April 2002, by [section 337(1)][915] of the Accident Compensation Act 2001 (2001 No 49).
 
 ##### 303 Effect of subsequent sentence
     
@@ -8972,7 +8982,7 @@ Youth justice
     
     the community work order shall be deemed to be cancelled unless the court imposing that sentence otherwise orders.
     
-    Compare: 1985 No 120 [s 63(1)][913]
+    Compare: 1985 No 120 [s 63(1)][916]
     
     Section 303(b): amended, on 1 October 2007, by [section 58][813] of the Sentencing Amendment Act 2007 (2007 No 27).
     
@@ -9074,9 +9084,9 @@ Youth justice
     
     *   (b) [section 365][529] (which would empower the chief executive to place the young person in a residence established under [section 364][526]) does not apply to the young person.
     
-    Section 307: substituted, on 1 October 2010, by [section 33][914] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 307: substituted, on 1 October 2010, by [section 33][917] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
-    Section 307(6): replaced, on 12 December 2012, by [section 7][915] of the Children, Young Persons, and Their Families Amendment Act 2012 (2012 No 99).
+    Section 307(6): replaced, on 12 December 2012, by [section 7][918] of the Children, Young Persons, and Their Families Amendment Act 2012 (2012 No 99).
 
 ##### 308 Conditions of supervision with activity order
     
@@ -9114,7 +9124,7 @@ Youth justice
     
     *   (b) given reasonable written notice of any replacement times the court specifies.
     
-    Section 308A: inserted, on 1 October 2010, by [section 34][916] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 308A: inserted, on 1 October 2010, by [section 34][919] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ##### 308B Effect of judicial monitoring direction
     
@@ -9128,7 +9138,7 @@ Youth justice
     
     (3) If a young person does not appear in answer to a summons that has been served under this section, a Youth Court Judge or District Court Judge may direct that a warrant to arrest that young person and bring that young person before the court be issued.
     
-    Section 308B: inserted, on 1 October 2010, by [section 34][916] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 308B: inserted, on 1 October 2010, by [section 34][919] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ##### 308C Progress reports
     
@@ -9144,21 +9154,21 @@ Youth justice
     
     (4) The social worker must prepare and furnish to the court further progress reports at specified intervals of not less than 3 months if directed to do so by the court.
     
-    Compare: 2002 No 9 [s 80ZJ][917]
+    Compare: 2002 No 9 [s 80ZJ][920]
     
-    Section 308C: inserted, on 1 October 2010, by [section 34][916] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 308C: inserted, on 1 October 2010, by [section 34][919] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ##### 309 Failure to observe conditions of supervision order or supervision with activity order
     
 *   \[Repealed\]
     
-    Section 309: repealed, on 1 October 2010, by [section 35][918] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 309: repealed, on 1 October 2010, by [section 35][921] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ##### 310 Suspension, cancellation, and variation of supervision order or supervision with activity order
     
 *   \[Repealed\]
     
-    Section 310: repealed, on 1 October 2010, by [section 35][918] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 310: repealed, on 1 October 2010, by [section 35][921] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 #### Supervision with residence orders
 
@@ -9194,9 +9204,9 @@ Youth justice
     
     *   (c) that the young person reside at an address specified by the court.
     
-    Section 311: substituted, on 1 October 2010, by [section 36][919] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 311: substituted, on 1 October 2010, by [section 36][922] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
-    Section 311(2A)(a): replaced, on 5 December 2013, by [section 5][920] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2013 (2013 No 110).
+    Section 311(2A)(a): replaced, on 5 December 2013, by [section 5][923] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2013 (2013 No 110).
 
 ##### 312 Effect of supervision with residence order
     
@@ -9206,7 +9216,7 @@ Youth justice
     
     *   (b) except to the extent that they are preserved by the court in any order made under [section 313][457], all the rights, powers, and duties of every other person having custody of the young person shall be suspended and shall have no effect; and
     
-    *   (c) for the purposes of [section 91][921] of the Care of Children Act 2004,---
+    *   (c) for the purposes of [section 91][924] of the Care of Children Act 2004,---
             
         *   (i) the order constitutes an order about the role of providing day-to-day care for the child or young person; and
         
@@ -9228,7 +9238,7 @@ Youth justice
     
     Section 312(2): amended, on 1 October 1999, by [section 13][705] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
     
-    Section 312(3): amended, on 1 October 2010, by [section 37][922] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 312(3): amended, on 1 October 2010, by [section 37][925] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
     Section 312(3): amended, on 1 October 1999, by [section 13][705] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
 
@@ -9256,13 +9266,13 @@ Youth justice
     
     (2) The chief executive must, as soon as practicable before the date on which under [section 311(2A)(a)][455] the court will consider early release under this section, prepare for, and furnish to, the court a report addressing the matters specified in subsection (1)(a) to (c).
     
-    Section 314: substituted, on 1 October 2010, by [section 38][923] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 314: substituted, on 1 October 2010, by [section 38][926] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
-    Section 314(1): amended, on 5 December 2013, by [section 6(1)][924] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2013 (2013 No 110).
+    Section 314(1): amended, on 5 December 2013, by [section 6(1)][927] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2013 (2013 No 110).
     
-    Section 314(1): amended, on 5 December 2013, by [section 6(2)][924] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2013 (2013 No 110).
+    Section 314(1): amended, on 5 December 2013, by [section 6(2)][927] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2013 (2013 No 110).
     
-    Section 314(2): amended, on 5 December 2013, by [section 6(3)][924] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2013 (2013 No 110).
+    Section 314(2): amended, on 5 December 2013, by [section 6(3)][927] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2013 (2013 No 110).
 
 ##### 315 Supervision with residence order to cease to run if young person absconds
     
@@ -9286,9 +9296,9 @@ Youth justice
     
     Section 316(1): amended, on 1 October 1999, by [section 13][705] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
     
-    Section 316(2)(a): amended, on 1 October 2010, by [section 39(1)][925] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 316(2)(a): amended, on 1 October 2010, by [section 39(1)][928] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
-    Section 316(4): added, on 1 October 2010, by [section 39(2)][925] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 316(4): added, on 1 October 2010, by [section 39(2)][928] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ##### 317 When supervision with residence order ceases to have effect
     
@@ -9308,13 +9318,13 @@ Youth justice
     
     Compare: 1974 No 72 s 49(1)--(7), (9); 1983 No 129 s 13
     
-    Section 317(1): amended, on 5 December 2013, by [section 7(1)][926] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2013 (2013 No 110).
+    Section 317(1): amended, on 5 December 2013, by [section 7(1)][929] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2013 (2013 No 110).
     
     Section 317(1): amended, on 1 October 1999, by [section 13][705] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
     
-    Section 317(1A): inserted, on 5 December 2013, by [section 7(2)][926] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2013 (2013 No 110).
+    Section 317(1A): inserted, on 5 December 2013, by [section 7(2)][929] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2013 (2013 No 110).
     
-    Section 317(1B): inserted, on 5 December 2013, by [section 7(2)][926] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2013 (2013 No 110).
+    Section 317(1B): inserted, on 5 December 2013, by [section 7(2)][929] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2013 (2013 No 110).
 
 ##### 318 Search without warrant
     
@@ -9360,7 +9370,7 @@ Youth justice
 
 #### Review of orders for periods of at least 8 months
     
-*   Heading: inserted, on 1 October 2010, by [section 40][927] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+*   Heading: inserted, on 1 October 2010, by [section 40][930] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ##### 319A Orders must be reviewed
     
@@ -9402,7 +9412,7 @@ Youth justice
     
     *   (b) if the court considers the report furnished under subsection (3), or the revised plan, or both, to be inadequate, direct the person who prepared the report to furnish to the court a further report, or a further revised plan, or both, ensuring that the direction to that person indicates any specific matter that it requires to be dealt with in that report or plan.
     
-    Section 319A: inserted, on 1 October 2010, by [section 40][927] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 319A: inserted, on 1 October 2010, by [section 40][930] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 #### Reports on effectiveness of orders
 
@@ -9440,17 +9450,17 @@ Youth justice
     
     *   (c) the barrister or solicitor or youth advocate representing that young person.
     
-    Section 320(1A): inserted, on 1 October 2010, by [section 41(1)][928] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 320(1A): inserted, on 1 October 2010, by [section 41(1)][931] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
-    Section 320(2): amended, on 1 October 2010, by [section 41(2)][928] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 320(2): amended, on 1 October 2010, by [section 41(2)][931] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
-    Section 320(2): amended, on 1 October 2010, by [section 41(3)][928] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 320(2): amended, on 1 October 2010, by [section 41(3)][931] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
     Section 320(2): amended, on 1 October 1999, by [section 13][705] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
     
     Section 320(3): amended, on 1 October 1999, by [section 13][705] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
     
-    Section 320(4): substituted, on 1 October 2010, by [section 41(4)][928] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 320(4): substituted, on 1 October 2010, by [section 41(4)][931] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ## Part 5  
 Provisions relating to procedure in Youth Court
@@ -9461,7 +9471,7 @@ Provisions relating to procedure in Youth Court
     
 *   (1) Subject to the provisions of this Act, the provisions set out in [Schedule 1][687] shall apply, with such modifications as are indicated in that schedule or are necessary, to Youth Courts and to proceedings in such courts, as the case may require.
     
-    (2) For the purposes of [section 293][409] every Youth Court and its officers shall have all the powers and duties of a District Court and its officers respectively, and [Part 3][929] of the Summary Proceedings Act 1957 shall apply accordingly with all necessary modifications and the following specific modification, namely, that where any child or young person is examined as to the means of that child or young person under that Part of that Act any parent or guardian or other person having the care of that child or young person may be present.
+    (2) For the purposes of [section 293][409] every Youth Court and its officers shall have all the powers and duties of a District Court and its officers respectively, and [Part 3][932] of the Summary Proceedings Act 1957 shall apply accordingly with all necessary modifications and the following specific modification, namely, that where any child or young person is examined as to the means of that child or young person under that Part of that Act any parent or guardian or other person having the care of that child or young person may be present.
     
     (3) In any provisions so applied, _District Court Judge_, _Judge_, and _judicial officer_, for the purposes of this Act, mean a Youth Court Judge exercising jurisdiction in a Youth Court.
     
@@ -9479,9 +9489,9 @@ Provisions relating to procedure in Youth Court
     
     Section 321(3): replaced, on 1 July 2013, by [section 4][712] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2011 (2011 No 83).
     
-    Section 321(5): added, on 8 January 1995, by [section 40][930] of the Children, Young Persons, and Their Families Amendment Act 1994 (1994 No 121).
+    Section 321(5): added, on 8 January 1995, by [section 40][933] of the Children, Young Persons, and Their Families Amendment Act 1994 (1994 No 121).
     
-    Section 321(5): amended, on 30 June 1998, by [section 7][864] of the District Courts Amendment Act 1998 (1998 No 76).
+    Section 321(5): amended, on 30 June 1998, by [section 7][867] of the District Courts Amendment Act 1998 (1998 No 76).
 
 ##### 322 Time for instituting proceedings
     
@@ -9685,9 +9695,9 @@ Provisions relating to procedure in Youth Court
     
     (2) Without limiting the provisions of subsection (1), the court may obtain a psychiatric or psychological report under this section in respect of a young person for the purpose of assisting the court in determining---
         
-    *   (a) whether the young person is unfit to stand trial within the meaning of [section 4][931] of the Criminal Procedure (Mentally Impaired Persons) Act 2003; or
+    *   (a) whether the young person is unfit to stand trial within the meaning of [section 4][934] of the Criminal Procedure (Mentally Impaired Persons) Act 2003; or
     
-    *   (b) if the young person is insane within the meaning of [section 23][932] of the Crimes Act 1961; or
+    *   (b) if the young person is insane within the meaning of [section 23][935] of the Crimes Act 1961; or
     
     *   (c) the type and duration of any order that it is empowered to make under [Part 4][298]; or
     
@@ -9719,9 +9729,9 @@ Provisions relating to procedure in Youth Court
     
     Compare: 1974 No 72 s 41(3), (5); 1982 No 135 s 9(1)
     
-    Section 334(2): amended, on 1 October 2010, by [section 42(a)][933] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 334(2): amended, on 1 October 2010, by [section 42(a)][936] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
-    Section 334(2): amended, on 1 October 2010, by [section 42(b)][933] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 334(2): amended, on 1 October 2010, by [section 42(b)][936] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ##### 335 Report to be accompanied by plan
     
@@ -9737,9 +9747,9 @@ Provisions relating to procedure in Youth Court
     
     *   (b) by a social worker in any other case.
     
-    Section 335(1): amended, on 1 October 2010, by [section 43(a)][934] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 335(1): amended, on 1 October 2010, by [section 43(a)][937] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
-    Section 335(1): amended, on 1 October 2010, by [section 43(b)][934] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 335(1): amended, on 1 October 2010, by [section 43(b)][937] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
     Section 335(1)(a): amended, on 1 October 1999, by [section 13][705] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
     
@@ -9757,9 +9767,9 @@ Provisions relating to procedure in Youth Court
     
 *   The provisions of [section 188][228] shall apply with such modifications as may be necessary with respect to every report furnished to the court pursuant to [section 296M][429] or [section 308C][451] or [section 314][458] or [section 319A][465] or [section 320][467] or [section 333][488] or [section 334][489] or [section 336][491].
     
-    Section 338: amended, on 12 December 2012, by [section 8][935] of the Children, Young Persons, and Their Families Amendment Act 2012 (2012 No 99).
+    Section 338: amended, on 12 December 2012, by [section 8][938] of the Children, Young Persons, and Their Families Amendment Act 2012 (2012 No 99).
     
-    Section 338: amended, on 1 October 2010, by [section 44][936] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 338: amended, on 1 October 2010, by [section 44][939] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ##### 339 Access to reports and plans under this Part
     
@@ -9769,13 +9779,13 @@ Provisions relating to procedure in Youth Court
     
     *   (b) every plan furnished to the court pursuant to [section 296M][429] or [section 319A][465] or [section 335][490].
     
-    Section 339(a): amended, on 12 December 2012, by [section 9(1)][937] of the Children, Young Persons, and Their Families Amendment Act 2012 (2012 No 99).
+    Section 339(a): amended, on 12 December 2012, by [section 9(1)][940] of the Children, Young Persons, and Their Families Amendment Act 2012 (2012 No 99).
     
-    Section 339(a): amended, on 1 October 2010, by [section 45(1)][938] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 339(a): amended, on 1 October 2010, by [section 45(1)][941] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
-    Section 339(b): amended, on 12 December 2012, by [section 9(2)][937] of the Children, Young Persons, and Their Families Amendment Act 2012 (2012 No 99).
+    Section 339(b): amended, on 12 December 2012, by [section 9(2)][940] of the Children, Young Persons, and Their Families Amendment Act 2012 (2012 No 99).
     
-    Section 339(b): amended, on 1 October 2010, by [section 45(2)][938] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 339(b): amended, on 1 October 2010, by [section 45(2)][941] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 #### Written statement of terms of orders
 
@@ -9803,9 +9813,9 @@ Provisions relating to procedure in Youth Court
     
     (4) If it is not practicable to supply a written statement to the young person before the young person leaves the court, the statement must be supplied to the young person, and to the barrister or solicitor or youth advocate representing that young person, as soon as practicable.
     
-    Compare: 1985 No 120 [s 58][939]
+    Compare: 1985 No 120 [s 58][942]
     
-    Section 340: substituted, on 1 October 2010, by [section 46][940] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 340: substituted, on 1 October 2010, by [section 46][943] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ## Part 6  
 Appeals
@@ -9828,21 +9838,21 @@ Appeals
     
     (4) An appeal under this section may be from the whole or part of the decision or order concerned.
     
-    Section 341: substituted, on 24 November 2003, by [section 4][941] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 341: substituted, on 24 November 2003, by [section 4][944] of the District Courts Amendment Act 2002 (2002 No 63).
 
 ##### 342 Procedure for bringing appeal
     
 *   \[Repealed\]
     
-    Section 342: repealed, on 24 November 2003, by [section 4][941] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 342: repealed, on 24 November 2003, by [section 4][944] of the District Courts Amendment Act 2002 (2002 No 63).
 
 ##### 343 Notice of appeal to be given to local principal manager
     
 *   Except where the appellant is the chief executive, notice of the fact that an appeal has been lodged under [section 341(2)][499] shall be given forthwith by the Registrar of the High Court to the principal manager of the department for the area in which the court appealed from is situated.
     
-    Section 343 heading: amended, on 1 April 1992, pursuant to [section 4(f)][942] of the Social Security Amendment Act 1992 (1992 No 15).
+    Section 343 heading: amended, on 1 April 1992, pursuant to [section 4(f)][945] of the Social Security Amendment Act 1992 (1992 No 15).
     
-    Section 343: amended, on 24 November 2003, by [section 4][941] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 343: amended, on 24 November 2003, by [section 4][944] of the District Courts Amendment Act 2002 (2002 No 63).
     
     Section 343: amended, on 1 October 1999, by [section 13][705] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
 
@@ -9850,7 +9860,7 @@ Appeals
     
 *   Except where the court making the order appealed from otherwise directs, the operation of an order made under this Act shall not be suspended by an appeal under [section 341][499], and every order made under this Act may be enforced in the same manner in all respects as if no appeal under that section were pending.
     
-    Compare: 1980 No 94 [s 174(9)][943]
+    Compare: 1980 No 94 [s 174(9)][946]
 
 ##### 345 Interim custody order pending appeal
     
@@ -9862,19 +9872,19 @@ Appeals
     
     (4) The High Court may at any time on the application of any party to the appeal or of its own motion vary, modify, or revoke any order made under subsection (1) or vary, modify, or revoke any term or condition of the order.
     
-    Section 345(1): amended, on 24 November 2003, by [section 4][941] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 345(1): amended, on 24 November 2003, by [section 4][944] of the District Courts Amendment Act 2002 (2002 No 63).
 
 ##### 346 Procedure on appeal
     
-*   (1) The [High Court Rules][944] and [sections 74 to 77][945] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under [section 341][499] as if it were an appeal under [section 72][946] of that Act.
+*   (1) The [High Court Rules][947] and [sections 74 to 77][948] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under [section 341][499] as if it were an appeal under [section 72][949] of that Act.
     
-    (2) On the _ex parte_ application of the appellant, the Family Court may order that the appellant must not be required under [section 74(1)][945] of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
+    (2) On the _ex parte_ application of the appellant, the Family Court may order that the appellant must not be required under [section 74(1)][948] of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
     
     (3) [Sections 156][191], [157][192], and [166 to 169][204], with all necessary modifications, apply to the hearing in the High Court of an appeal under [section 341][499].
     
     (4) Subsections (2) and (3) and [sections 207O][268] and [207U][275] override subsection (1).
     
-    Section 346: substituted, on 24 November 2003, by [section 4][941] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 346: substituted, on 24 November 2003, by [section 4][944] of the District Courts Amendment Act 2002 (2002 No 63).
 
 ##### 347 Appeal to Court of Appeal
     
@@ -9882,7 +9892,7 @@ Appeals
     
     (2) On the appeal, the Court of Appeal has the same power to adjudicate the High Court had.
     
-    Section 347: substituted, on 1 January 2004, by [section 47][947] of the Supreme Court Act 2003 (2003 No 53).
+    Section 347: substituted, on 1 January 2004, by [section 47][950] of the Supreme Court Act 2003 (2003 No 53).
 
 ##### 348 Determination of appeals
     
@@ -9892,15 +9902,15 @@ Appeals
     
     (3) \[Repealed\]
     
-    Section 348(1): repealed, on 24 November 2003, by [section 4][941] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 348(1): repealed, on 24 November 2003, by [section 4][944] of the District Courts Amendment Act 2002 (2002 No 63).
     
-    Section 348(3): repealed, on 1 January 2004, by [section 48(2)][948] of the Supreme Court Act 2003 (2003 No 53).
+    Section 348(3): repealed, on 1 January 2004, by [section 48(2)][951] of the Supreme Court Act 2003 (2003 No 53).
 
 ##### 349 Court may refer appeals back for reconsideration
     
 *   \[Repealed\]
     
-    Section 349: repealed, on 24 November 2003, by [section 4][941] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 349: repealed, on 24 November 2003, by [section 4][944] of the District Courts Amendment Act 2002 (2002 No 63).
 
 ##### 350 Decision of High Court and Family Court to be sent to chief executive
     
@@ -9936,7 +9946,7 @@ Appeals
     
     Compare: 1974 No 72 s 53(1), (2); 1980 No 87 s 2
     
-    Section 351(1A): inserted, on 1 October 2010, by [section 47][949] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 351(1A): inserted, on 1 October 2010, by [section 47][952] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ##### 352 Appeal by parents or guardians or other persons having care of young person
     
@@ -9960,13 +9970,13 @@ Appeals
     
     Compare: 1974 No 72 s 54; 1982 No 135 s 12
     
-    Section 352(ab): inserted, on 1 October 2010, by [section 48(1)][950] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 352(ab): inserted, on 1 October 2010, by [section 48(1)][953] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
-    Section 352(ac): inserted, on 1 October 2010, by [section 48(1)][950] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 352(ac): inserted, on 1 October 2010, by [section 48(1)][953] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
-    Section 352(ad): inserted, on 1 October 2010, by [section 48(1)][950] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 352(ad): inserted, on 1 October 2010, by [section 48(1)][953] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
-    Section 352(e): added, on 1 October 2010, by [section 48(2)][950] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 352(e): added, on 1 October 2010, by [section 48(2)][953] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ##### 353 Appeal by persons other than young person dealt with in Youth Court
     
@@ -9996,7 +10006,7 @@ Appeals
 
 ##### 355 Application of Part 6 of Criminal Procedure Act 2011
     
-*   (1) The provisions of [Part 6][951] of the Criminal Procedure Act 2011,---
+*   (1) The provisions of [Part 6][954] of the Criminal Procedure Act 2011,---
         
     *   (a) so far as they relate to appeals against conviction and sentence, apply as far as applicable with the necessary modifications to every appeal under [section 351][510], [352][511], or [353][512] of this Act:
     
@@ -10004,7 +10014,7 @@ Appeals
     
     (2) Subsection (1) is subject to this Part.
     
-    (3) In the application of the provisions of [Part 6][951] of that Act, those provisions must be read as if---
+    (3) In the application of the provisions of [Part 6][954] of that Act, those provisions must be read as if---
         
     *   (a) references to a District Court were references to a Youth Court; and 
     
@@ -10024,7 +10034,7 @@ Appeals
     
     Section 356(2): amended, on 1 October 1999, by [section 13][705] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
     
-    Section 356(3): amended, on 5 December 2013, by [section 8][952] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2013 (2013 No 110).
+    Section 356(3): amended, on 5 December 2013, by [section 8][955] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2013 (2013 No 110).
 
 ##### 357 Application of section 329 to hearing of appeal
     
@@ -10072,7 +10082,7 @@ Appeals
     
     Compare: 1974 No 72 s 62
     
-    Section 360 heading: amended, on 1 April 1992, pursuant to [section 4(f)][942] of the Social Security Amendment Act 1992 (1992 No 15).
+    Section 360 heading: amended, on 1 April 1992, pursuant to [section 4(f)][945] of the Social Security Amendment Act 1992 (1992 No 15).
     
     Section 360(1): amended, on 1 October 1999, by [section 13][705] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
     
@@ -10085,7 +10095,7 @@ Appeals
 ## Part 7  
 Children and young persons in care of chief executive or other persons or bodies
     
-*   Part 7 heading: amended, on 1 October 1999, pursuant to [section 11(3)][953] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
+*   Part 7 heading: amended, on 1 October 1999, pursuant to [section 11(3)][956] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
 
 ##### 361 Application of sections 362, 364, 365, 387, 390 to 392, 394, and 395
     
@@ -10135,7 +10145,7 @@ Children and young persons in care of chief executive or other persons or bodies
     
     Section 361(h): amended, on 1 October 1999, by [section 13][705] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
     
-    Section 361(ha): inserted, on 12 December 2012, by [section 10][954] of the Children, Young Persons, and Their Families Amendment Act 2012 (2012 No 99).
+    Section 361(ha): inserted, on 12 December 2012, by [section 10][957] of the Children, Young Persons, and Their Families Amendment Act 2012 (2012 No 99).
     
     Section 361(i): amended, on 1 October 1999, by [section 13][705] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
     
@@ -10193,19 +10203,19 @@ Children and young persons in care of chief executive or other persons or bodies
     
     Section 363(3): amended, on 8 January 1995, by [section 46][736] of the Children, Young Persons, and Their Families Amendment Act 1994 (1994 No 121).
     
-    Section 363(4): added, on 24 August 2010, by [section 4(1)][955] of the Children, Young Persons, and Their Families Amendment Act 2010 (2010 No 102).
+    Section 363(4): added, on 24 August 2010, by [section 4(1)][958] of the Children, Young Persons, and Their Families Amendment Act 2010 (2010 No 102).
     
-    Section 363(5): added, on 27 September 2010, by [section 4(2)][955] of the Children, Young Persons, and Their Families Amendment Act 2010 (2010 No 102).
+    Section 363(5): added, on 27 September 2010, by [section 4(2)][958] of the Children, Young Persons, and Their Families Amendment Act 2010 (2010 No 102).
     
-    Section 363(6): added, on 27 September 2010, by [section 4(2)][955] of the Children, Young Persons, and Their Families Amendment Act 2010 (2010 No 102).
+    Section 363(6): added, on 27 September 2010, by [section 4(2)][958] of the Children, Young Persons, and Their Families Amendment Act 2010 (2010 No 102).
     
-    Section 363(6): amended, on 24 October 2012, by [section 3][956] of the Children, Young Persons, and Their Families (Indexation---Budget Measures) Amendment Act 2012 (2012 No 78).
+    Section 363(6): amended, on 24 October 2012, by [section 3][959] of the Children, Young Persons, and Their Families (Indexation---Budget Measures) Amendment Act 2012 (2012 No 78).
     
-    Section 363(7): added, on 27 September 2010, by [section 4(2)][955] of the Children, Young Persons, and Their Families Amendment Act 2010 (2010 No 102).
+    Section 363(7): added, on 27 September 2010, by [section 4(2)][958] of the Children, Young Persons, and Their Families Amendment Act 2010 (2010 No 102).
     
-    Section 363(8): added, on 27 September 2010, by [section 4(2)][955] of the Children, Young Persons, and Their Families Amendment Act 2010 (2010 No 102).
+    Section 363(8): added, on 27 September 2010, by [section 4(2)][958] of the Children, Young Persons, and Their Families Amendment Act 2010 (2010 No 102).
     
-    Section 363(9): added, on 27 September 2010, by [section 4(2)][955] of the Children, Young Persons, and Their Families Amendment Act 2010 (2010 No 102).
+    Section 363(9): added, on 27 September 2010, by [section 4(2)][958] of the Children, Young Persons, and Their Families Amendment Act 2010 (2010 No 102).
 
 #### Residences
 
@@ -10223,7 +10233,7 @@ Children and young persons in care of chief executive or other persons or bodies
     
     *   (d) the provision of secure care.
     
-    (3) It is hereby declared that every residence that the chief executive is authorised to establish under this Act is a public work within the meaning of the [Public Works Act 1981][957].
+    (3) It is hereby declared that every residence that the chief executive is authorised to establish under this Act is a public work within the meaning of the [Public Works Act 1981][960].
     
     Compare: 1974 No 72 s 69
     
@@ -10237,13 +10247,13 @@ Children and young persons in care of chief executive or other persons or bodies
     
 *   \[Repealed\]
     
-    Section 364A: repealed, on 1 April 1991, by [section 4(1)][958] of the Social Welfare (Transitional Provisions) Amendment Act 1991 (1991 No 4).
+    Section 364A: repealed, on 1 April 1991, by [section 4(1)][961] of the Social Welfare (Transitional Provisions) Amendment Act 1991 (1991 No 4).
 
 ##### 364B Functions of residence management committees
     
 *   \[Repealed\]
     
-    Section 364B: repealed, on 1 April 1991, by [section 4(1)][958] of the Social Welfare (Transitional Provisions) Amendment Act 1991 (1991 No 4).
+    Section 364B: repealed, on 1 April 1991, by [section 4(1)][961] of the Social Welfare (Transitional Provisions) Amendment Act 1991 (1991 No 4).
 
 ##### 365 Chief executive may place children and young persons in residences
     
@@ -10269,13 +10279,13 @@ Children and young persons in care of chief executive or other persons or bodies
     
     Section 365(2): amended, on 1 October 1999, by [section 13][705] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
     
-    Section 365(3): added, on 1 October 2010, by [section 49][959] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 365(3): added, on 1 October 2010, by [section 49][962] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
-    Section 365(4): added, on 1 October 2010, by [section 49][959] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 365(4): added, on 1 October 2010, by [section 49][962] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
-    Section 365(5): added, on 1 October 2010, by [section 49][959] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 365(5): added, on 1 October 2010, by [section 49][962] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
-    Section 365(5): amended, on 12 December 2012, by [section 11][960] of the Children, Young Persons, and Their Families Amendment Act 2012 (2012 No 99).
+    Section 365(5): amended, on 12 December 2012, by [section 11][963] of the Children, Young Persons, and Their Families Amendment Act 2012 (2012 No 99).
 
 ##### 366 Closing of residences and transfer of residents
     
@@ -10287,7 +10297,7 @@ Children and young persons in care of chief executive or other persons or bodies
     
     Section 366(1): amended, on 1 October 1999, by [section 13][705] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
     
-    Section 366(2): added, on 1 October 2010, by [section 50][961] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 366(2): added, on 1 October 2010, by [section 50][964] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 #### Secure care
 
@@ -10315,7 +10325,7 @@ Children and young persons in care of chief executive or other persons or bodies
     
     *   (c) the physical, mental, or emotional well-being of the child or young person is likely to be harmed if the child or young person absconds from the residence.
     
-    Section 368: substituted, on 8 January 1995, by [section 41][962] of the Children, Young Persons, and Their Families Amendment Act 1994 (1994 No 121).
+    Section 368: substituted, on 8 January 1995, by [section 41][965] of the Children, Young Persons, and Their Families Amendment Act 1994 (1994 No 121).
 
 ##### 369 Notice to be given where child or young person placed in secure care
     
@@ -10475,13 +10485,13 @@ Children and young persons in care of chief executive or other persons or bodies
     
     Section 373(1)(i): amended, on 1 October 1999, by [section 13][705] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
     
-    Section 373(1)(ka): inserted, on 18 May 2009, by [section 7(1)][963] of the Children, Young Persons, and Their Families Amendment Act 2008 (2008 No 76).
+    Section 373(1)(ka): inserted, on 18 May 2009, by [section 7(1)][966] of the Children, Young Persons, and Their Families Amendment Act 2008 (2008 No 76).
     
-    Section 373(1A): inserted, on 18 May 2009, by [section 7(2)][963] of the Children, Young Persons, and Their Families Amendment Act 2008 (2008 No 76).
+    Section 373(1A): inserted, on 18 May 2009, by [section 7(2)][966] of the Children, Young Persons, and Their Families Amendment Act 2008 (2008 No 76).
     
-    Section 373(2): amended, on 18 May 2009, by [section 7(3)][963] of the Children, Young Persons, and Their Families Amendment Act 2008 (2008 No 76).
+    Section 373(2): amended, on 18 May 2009, by [section 7(3)][966] of the Children, Young Persons, and Their Families Amendment Act 2008 (2008 No 76).
     
-    Section 373(3): substituted, on 18 May 2009, by [section 7(4)][963] of the Children, Young Persons, and Their Families Amendment Act 2008 (2008 No 76).
+    Section 373(3): substituted, on 18 May 2009, by [section 7(4)][966] of the Children, Young Persons, and Their Families Amendment Act 2008 (2008 No 76).
 
 ##### 374 Right to make representations
     
@@ -10531,11 +10541,11 @@ Children and young persons in care of chief executive or other persons or bodies
     
     (4) Subject to subsection (5), an approval granted under subsection (1) shall be valid for a period of 14 days commencing on the day on which it is granted, or such shorter period as the court may specify.
     
-    (5) Notwithstanding subsection (4), where an application under [section 371][536] relates to a child or young person who is remanded, by the High Court or a District Court, in the custody of the chief executive pursuant to [section 173(2)][964], [174(1)][965], or [175(2)][966] of the Criminal Procedure Act 2011, the court may grant an approval under subsection (1) for such period (being more than 14 days but not more than 28 days) as the court shall specify, in any case where the court is satisfied that, because of the length of time for which the child or young person is likely to be detained in the chief executive's custody, the public interest so requires. Any approval so granted shall be valid for the specified period commencing on the day on which it is granted.
+    (5) Notwithstanding subsection (4), where an application under [section 371][536] relates to a child or young person who is remanded, by the High Court or a District Court, in the custody of the chief executive pursuant to [section 173(2)][967], [174(1)][968], or [175(2)][969] of the Criminal Procedure Act 2011, the court may grant an approval under subsection (1) for such period (being more than 14 days but not more than 28 days) as the court shall specify, in any case where the court is satisfied that, because of the length of time for which the child or young person is likely to be detained in the chief executive's custody, the public interest so requires. Any approval so granted shall be valid for the specified period commencing on the day on which it is granted.
     
-    Section 376(4): amended, on 8 January 1995, by [section 42(1)][967] of the Children, Young Persons, and Their Families Amendment Act 1994 (1994 No 121).
+    Section 376(4): amended, on 8 January 1995, by [section 42(1)][970] of the Children, Young Persons, and Their Families Amendment Act 1994 (1994 No 121).
     
-    Section 376(5): added, on 8 January 1995, by [section 42(2)][967] of the Children, Young Persons, and Their Families Amendment Act 1994 (1994 No 121).
+    Section 376(5): added, on 8 January 1995, by [section 42(2)][970] of the Children, Young Persons, and Their Families Amendment Act 1994 (1994 No 121).
     
     Section 376(5): amended, on 1 July 2013, by [section 4][712] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2011 (2011 No 83).
     
@@ -10561,7 +10571,7 @@ Children and young persons in care of chief executive or other persons or bodies
     
     Section 377(1): amended, on 1 October 1999, by [section 13][705] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
     
-    Section 377(5): substituted, on 8 January 1995, by [section 43][968] of the Children, Young Persons, and Their Families Amendment Act 1994 (1994 No 121).
+    Section 377(5): substituted, on 8 January 1995, by [section 43][971] of the Children, Young Persons, and Their Families Amendment Act 1994 (1994 No 121).
 
 ##### 378 Notification of decision of court
     
@@ -10645,7 +10655,7 @@ Children and young persons in care of chief executive or other persons or bodies
     
 *   Any authority conferred by or under any of [sections 367 to 383][532] for the detention of a child or young person in secure care in a residence shall, unless it sooner expires, continue only for so long as the authority to detain that child or young person in that residence continues.
     
-    Section 383A: inserted, on 8 January 1995, by [section 44][969] of the Children, Young Persons, and Their Families Amendment Act 1994 (1994 No 121).
+    Section 383A: inserted, on 8 January 1995, by [section 44][972] of the Children, Young Persons, and Their Families Amendment Act 1994 (1994 No 121).
 
 #### Discipline
 
@@ -10663,7 +10673,7 @@ Children and young persons in care of chief executive or other persons or bodies
 
 #### Searches
     
-*   Heading: inserted, on 25 June 2001, by [section 4][970] of the Children, Young Persons, and Their Families Amendment Act 2001 (2001 No 3).
+*   Heading: inserted, on 25 June 2001, by [section 4][973] of the Children, Young Persons, and Their Families Amendment Act 2001 (2001 No 3).
 
 ##### 384A Interpretation
     
@@ -10727,7 +10737,7 @@ Children and young persons in care of chief executive or other persons or bodies
     
     *   (b) that may not be lawfully possessed by any child or young person in the residence.
     
-    Section 384A: inserted, on 25 June 2001, by [section 4][970] of the Children, Young Persons, and Their Families Amendment Act 2001 (2001 No 3).
+    Section 384A: inserted, on 25 June 2001, by [section 4][973] of the Children, Young Persons, and Their Families Amendment Act 2001 (2001 No 3).
 
 ##### 384B Inspection of mail
     
@@ -10741,7 +10751,7 @@ Children and young persons in care of chief executive or other persons or bodies
     
     *   (d) any material that would be likely to be offensive or harmful to the person for whom the mail was intended.
     
-    Section 384B: inserted, on 25 June 2001, by [section 4][970] of the Children, Young Persons, and Their Families Amendment Act 2001 (2001 No 3).
+    Section 384B: inserted, on 25 June 2001, by [section 4][973] of the Children, Young Persons, and Their Families Amendment Act 2001 (2001 No 3).
 
 ##### 384C Child or young person may be searched to detect unauthorised items
     
@@ -10763,7 +10773,7 @@ Children and young persons in care of chief executive or other persons or bodies
     
     (4) Nothing in subsection (3) requires that a member of staff make a request if the same request has been made to the child or young person within the previous hour.
     
-    Section 384C: inserted, on 25 June 2001, by [section 4][970] of the Children, Young Persons, and Their Families Amendment Act 2001 (2001 No 3).
+    Section 384C: inserted, on 25 June 2001, by [section 4][973] of the Children, Young Persons, and Their Families Amendment Act 2001 (2001 No 3).
 
 ##### 384D Use of dogs for searching
     
@@ -10777,7 +10787,7 @@ Children and young persons in care of chief executive or other persons or bodies
     
     *   (b) prevents the dog coming into physical contact with the child or young person during the search.
     
-    Section 384D: inserted, on 25 June 2001, by [section 4][970] of the Children, Young Persons, and Their Families Amendment Act 2001 (2001 No 3).
+    Section 384D: inserted, on 25 June 2001, by [section 4][973] of the Children, Young Persons, and Their Families Amendment Act 2001 (2001 No 3).
     
     Section 384D(2): amended, on 1 October 2008, by [section 130(1)][815] of the Policing Act 2008 (2008 No 72).
 
@@ -10791,7 +10801,7 @@ Children and young persons in care of chief executive or other persons or bodies
     
     (2) A child or young person required to undress or remove any clothing and underclothing under subsection (1) may be required to remain undressed or partly undressed only as long as is reasonably necessary for the purposes of the search.
     
-    Section 384E: inserted, on 25 June 2001, by [section 4][970] of the Children, Young Persons, and Their Families Amendment Act 2001 (2001 No 3).
+    Section 384E: inserted, on 25 June 2001, by [section 4][973] of the Children, Young Persons, and Their Families Amendment Act 2001 (2001 No 3).
 
 ##### 384F Explanation of purpose and consequences of inspections and searches
     
@@ -10813,7 +10823,7 @@ Children and young persons in care of chief executive or other persons or bodies
     
     (2) The explanation required by subsection (1) need not be given if the member of staff has reasonable grounds for believing that the situation involves a serious and immediate risk to the safety of the child or young person or of any other person.
     
-    Section 384F: inserted, on 25 June 2001, by [section 4][970] of the Children, Young Persons, and Their Families Amendment Act 2001 (2001 No 3).
+    Section 384F: inserted, on 25 June 2001, by [section 4][973] of the Children, Young Persons, and Their Families Amendment Act 2001 (2001 No 3).
     
     Section 384F(1)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][709] of the Policing Act 2008 (2008 No 72).
 
@@ -10839,7 +10849,7 @@ Children and young persons in care of chief executive or other persons or bodies
     
     (5) A person who conducts a pat down search or a strip search must conduct the search with decency and sensitivity and in a manner that affords the child or young person being searched the greatest degree of privacy and dignity consistent with the purpose of the search.
     
-    Section 384G: inserted, on 25 June 2001, by [section 4][970] of the Children, Young Persons, and Their Families Amendment Act 2001 (2001 No 3).
+    Section 384G: inserted, on 25 June 2001, by [section 4][973] of the Children, Young Persons, and Their Families Amendment Act 2001 (2001 No 3).
     
     Section 384G(4)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][709] of the Policing Act 2008 (2008 No 72).
 
@@ -10849,7 +10859,7 @@ Children and young persons in care of chief executive or other persons or bodies
     
     (2) A member of staff who uses force for the purpose referred to in subsection (1) must use no more than the minimum amount of force that is reasonably necessary in the circumstances.
     
-    Section 384H: inserted, on 25 June 2001, by [section 4][970] of the Children, Young Persons, and Their Families Amendment Act 2001 (2001 No 3).
+    Section 384H: inserted, on 25 June 2001, by [section 4][973] of the Children, Young Persons, and Their Families Amendment Act 2001 (2001 No 3).
 
 ##### 384I Recording of inspections and searches
     
@@ -10859,13 +10869,13 @@ Children and young persons in care of chief executive or other persons or bodies
     
     *   (b) in the case of a search carried out under [section 384C][555] or [section 384E][557], the details of any physical force used for the purpose of carrying out the search, and of the circumstances giving rise to the use of force.
     
-    Section 384I: inserted, on 25 June 2001, by [section 4][970] of the Children, Young Persons, and Their Families Amendment Act 2001 (2001 No 3).
+    Section 384I: inserted, on 25 June 2001, by [section 4][973] of the Children, Young Persons, and Their Families Amendment Act 2001 (2001 No 3).
 
 ##### 384J Child or young person may make complaint
     
 *   A child or young person who has had his or her mail inspected under [section 384B][554] or has been searched under [section 384C][555] or [section 384E][557] may make a complaint about that inspection or search in accordance with the regulations.
     
-    Section 384J: inserted, on 25 June 2001, by [section 4][970] of the Children, Young Persons, and Their Families Amendment Act 2001 (2001 No 3).
+    Section 384J: inserted, on 25 June 2001, by [section 4][973] of the Children, Young Persons, and Their Families Amendment Act 2001 (2001 No 3).
 
 ##### 384K Power to seize articles, etc, found on inspection or search
     
@@ -10883,7 +10893,7 @@ Children and young persons in care of chief executive or other persons or bodies
     
     (4) The manager must ensure that a record is made in the daily log kept in accordance with the regulations of the details of the seizure of any unauthorised item and of the action taken in respect of it.
     
-    Section 384K: inserted, on 25 June 2001, by [section 4][970] of the Children, Young Persons, and Their Families Amendment Act 2001 (2001 No 3).
+    Section 384K: inserted, on 25 June 2001, by [section 4][973] of the Children, Young Persons, and Their Families Amendment Act 2001 (2001 No 3).
 
 #### Absconding by children and young persons
 
@@ -10901,7 +10911,7 @@ Children and young persons in care of chief executive or other persons or bodies
     
     (2) Any child or young person to whom this section applies may be detained without warrant by any constable or a social worker and returned to any residence or to the care of any person or organisation, as the case may be, or otherwise dealt with in accordance with this Act.
     
-    (3) A child or young person to whom this section applies, unless that child or young person was being detained pursuant to [section 238(1)(d)][340] or (e) or section 34A of the Corrections Act 2004, does not, by reason only of an act or omission referred to in subsection (1), commit an offence against [section 120][904] of the Crimes Act 1961\.
+    (3) A child or young person to whom this section applies, unless that child or young person was being detained pursuant to [section 238(1)(d)][340] or (e) or section 34A of the Corrections Act 2004, does not, by reason only of an act or omission referred to in subsection (1), commit an offence against [section 120][907] of the Crimes Act 1961\.
     
     (4) For the purpose of detaining without warrant any child or young person who leaves or is taken without authority from a residence under this Act, every member of the staff of any such residence shall, if it is administered by the Crown, have the powers conferred on a social worker by subsection (2).
     
@@ -10913,7 +10923,7 @@ Children and young persons in care of chief executive or other persons or bodies
 
 ##### 386 Search warrants
     
-*   (1) An issuing officer (within the meaning of [section 3][738] of the Search and Surveillance Act 2012) who, on application in writing verified in accordance with [section 99][971] of that Act by any constable or a social worker, is satisfied that there are reasonable grounds for suspecting that a child or young person to whom [section 385][565] applies is for the time being at any known premises or place, may issue a warrant authorising any constable or social worker to---
+*   (1) An issuing officer (within the meaning of [section 3][738] of the Search and Surveillance Act 2012) who, on application in writing verified in accordance with [section 99][974] of that Act by any constable or a social worker, is satisfied that there are reasonable grounds for suspecting that a child or young person to whom [section 385][565] applies is for the time being at any known premises or place, may issue a warrant authorising any constable or social worker to---
         
     *   (a) enter and search, by force if necessary, any such premises or place specified in the warrant; and
     
@@ -11023,9 +11033,9 @@ Children and young persons in care of chief executive or other persons or bodies
 
 ##### 392 Manager may be appointed under Protection of Personal and Property Rights Act 1988 to manage property of children and young persons subject to guardianship or custody order
     
-*   (1) A Family Court shall have jurisdiction under [Part 3][972] of the Protection of Personal and Property Rights Act 1988 to appoint a manager in respect of the property, or any specified part of the property, of any child or young person to whom this section applies, and the provisions of that Act shall apply accordingly.
+*   (1) A Family Court shall have jurisdiction under [Part 3][975] of the Protection of Personal and Property Rights Act 1988 to appoint a manager in respect of the property, or any specified part of the property, of any child or young person to whom this section applies, and the provisions of that Act shall apply accordingly.
     
-    (2) For the purposes of [section 25][973] of the Protection of Personal and Property Rights Act 1988, a child or young person to whom this section applies shall be deemed to lack the competence to manage his or her own affairs in relation to his or her property.
+    (2) For the purposes of [section 25][976] of the Protection of Personal and Property Rights Act 1988, a child or young person to whom this section applies shall be deemed to lack the competence to manage his or her own affairs in relation to his or her property.
     
     Compare: 1974 No 72 s 52
 
@@ -11035,7 +11045,7 @@ Children and young persons in care of chief executive or other persons or bodies
     
 *   \[Repealed\]
     
-    Section 393: repealed, on 1 July 1992, by [section 244][974] of the Child Support Act 1991 (1991 No 142).
+    Section 393: repealed, on 1 July 1992, by [section 244][977] of the Child Support Act 1991 (1991 No 142).
 
 #### Limitation on tortious liability
 
@@ -11093,7 +11103,7 @@ Children and young persons in care of chief executive or other persons or bodies
     
     *   (c) where the child or young person was, at the time of his or her death, residing in a residence established under [section 364][526], the person in charge of that residence shall, on learning of that death, forthwith notify a constable.
     
-    Compare: 1974 No 72 ss 69A, 82; [1988 No 111][975] [s 46][976]
+    Compare: 1974 No 72 ss 69A, 82; [1988 No 111][978] [s 46][979]
     
     Section 395(a): amended, on 8 January 1995, by [section 46][736] of the Children, Young Persons, and Their Families Amendment Act 1994 (1994 No 121).
     
@@ -11114,7 +11124,7 @@ Provisions relating to iwi social services, cultural social services, child and 
 
 #### Iwi social services, cultural social services, and child and family support services
     
-*   Heading: substituted, on 8 January 1995, by [section 45(1)][977] of the Children, Young Persons, and Their Families Amendment Act 1994 (1994 No 121).
+*   Heading: substituted, on 8 January 1995, by [section 45(1)][980] of the Children, Young Persons, and Their Families Amendment Act 1994 (1994 No 121).
 
 ##### 396 Approval of iwi social services, cultural social services, and child and family support services
     
@@ -11126,7 +11136,7 @@ Provisions relating to iwi social services, cultural social services, child and 
     
     (4) The chief executive may grant an approval under this section subject to such conditions as the chief executive thinks fit.
     
-    Section 396: substituted, on 8 January 1995, by [section 45(1)][977] of the Children, Young Persons, and Their Families Amendment Act 1994 (1994 No 121).
+    Section 396: substituted, on 8 January 1995, by [section 45(1)][980] of the Children, Young Persons, and Their Families Amendment Act 1994 (1994 No 121).
     
     Section 396(1): amended, on 1 October 1999, by [section 13][705] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
     
@@ -11478,7 +11488,7 @@ Miscellaneous provisions
 
 ##### 423 Appointment of care and protection co-ordinators
     
-*   (1) The chief executive shall, from time to time, for the purposes of this Act, appoint under the [State Sector Act 1988][978] a sufficient number of care and protection co-ordinators.
+*   (1) The chief executive shall, from time to time, for the purposes of this Act, appoint under the [State Sector Act 1988][981] a sufficient number of care and protection co-ordinators.
     
     (2) A person shall not be appointed to be a care and protection co-ordinator unless that person is, by reason of his or her personality, training, and experience, suitably qualified to exercise or perform the functions, duties, and powers conferred or imposed on a care and protection co-ordinator by or under this Act.
     
@@ -11508,7 +11518,7 @@ Miscellaneous provisions
 
 ##### 425 Appointment of youth justice co-ordinators
     
-*   (1) The chief executive shall, from time to time, for the purposes of this Act, appoint under the [State Sector Act 1988][978] a sufficient number of youth justice co-ordinators.
+*   (1) The chief executive shall, from time to time, for the purposes of this Act, appoint under the [State Sector Act 1988][981] a sufficient number of youth justice co-ordinators.
     
     (2) A person shall not be appointed to be a youth justice co-ordinator unless that person is, by reason of his or her personality, training, and experience, suitably qualified to exercise or perform the functions, duties, and powers conferred or imposed on a youth justice co-ordinator by or under this Act.
     
@@ -11604,9 +11614,9 @@ Miscellaneous provisions
 
 ##### 432 Fees and allowances
     
-*   (1) Every care and protection resource panel is hereby declared to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][979].
+*   (1) Every care and protection resource panel is hereby declared to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][982].
     
-    (2) There may be paid out of funds appropriated by Parliament for the purpose to the members of any care and protection resource panel remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][979], and the provisions of that Act shall apply accordingly.
+    (2) There may be paid out of funds appropriated by Parliament for the purpose to the members of any care and protection resource panel remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][982], and the provisions of that Act shall apply accordingly.
 
 #### Youth Courts
 
@@ -11630,7 +11640,7 @@ Miscellaneous provisions
     
     (7) The Principal Youth Court Judge is responsible for ensuring the orderly and expeditious discharge of the business of the court in consultation with the Chief District Court Judge.
     
-    Section 434: substituted, on 20 May 2004, by [section 3][980] of the Children, Young Persons, and Their Families Amendment Act 2004 (2004 No 39).
+    Section 434: substituted, on 20 May 2004, by [section 3][983] of the Children, Young Persons, and Their Families Amendment Act 2004 (2004 No 39).
 
 ##### 435 Designation of Youth Court Judges
     
@@ -11654,9 +11664,9 @@ Miscellaneous provisions
     
     (5) In exercising his or her powers under this section, the Principal Youth Court Judge must consult with the Chief District Court Judge.
     
-    (6) This section is subject to [section 9][981] of the [District Courts Act 1947][982].
+    (6) This section is subject to [section 9][984] of the [District Courts Act 1947][985].
     
-    Section 435A: inserted, on 20 May 2004, by [section 5][983] of the Children, Young Persons, and Their Families Amendment Act 2004 (2004 No 39).
+    Section 435A: inserted, on 20 May 2004, by [section 5][986] of the Children, Young Persons, and Their Families Amendment Act 2004 (2004 No 39).
 
 ##### 436 District Court Judge may exercise jurisdiction in absence of Youth Court Judge
     
@@ -11688,13 +11698,13 @@ Miscellaneous provisions
 
 ##### 437A Publication of reports of proceedings under Part 2, Part 3A, or section 371
     
-*   [Sections 11B to 11D][984] of the Family Courts Act 1980 apply to the publication of a report of any proceedings under [Part 2][19], [Part 3A][249], or [section 371][536]---
+*   [Sections 11B to 11D][987] of the Family Courts Act 1980 apply to the publication of a report of any proceedings under [Part 2][19], [Part 3A][249], or [section 371][536]---
         
     *   (a) in a Family Court:
     
     *   (b) in any other court, in which case references in those sections to the Family Court or court must be read as references to that other court.
     
-    Section 437A: inserted, on 18 May 2009, by [section 8][985] of the Children, Young Persons, and Their Families Amendment Act 2008 (2008 No 76).
+    Section 437A: inserted, on 18 May 2009, by [section 8][988] of the Children, Young Persons, and Their Families Amendment Act 2008 (2008 No 76).
 
 ##### 438 Publication of reports of proceedings under Part 4
     
@@ -11736,19 +11746,19 @@ Miscellaneous provisions
     
     *   (b) in the case of a body corporate, to a fine not exceeding $10,000\.
     
-    Compare: 1974 No 72 s 24; 1980 No 94 [s 169][986]; 1982 No 135 s 6
+    Compare: 1974 No 72 s 24; 1980 No 94 [s 169][989]; 1982 No 135 s 6
     
-    Section 438 heading: substituted, on 18 May 2009, by [section 9(1)][987] of the Children, Young Persons, and Their Families Amendment Act 2008 (2008 No 76).
+    Section 438 heading: substituted, on 18 May 2009, by [section 9(1)][990] of the Children, Young Persons, and Their Families Amendment Act 2008 (2008 No 76).
     
-    Section 438(1): amended, on 18 May 2009, by [section 9(2)][987] of the Children, Young Persons, and Their Families Amendment Act 2008 (2008 No 76).
+    Section 438(1): amended, on 18 May 2009, by [section 9(2)][990] of the Children, Young Persons, and Their Families Amendment Act 2008 (2008 No 76).
     
-    Section 438(2)(a)(ii): amended, on 18 May 2009, by [section 9(3)(a)][987] of the Children, Young Persons, and Their Families Amendment Act 2008 (2008 No 76).
+    Section 438(2)(a)(ii): amended, on 18 May 2009, by [section 9(3)(a)][990] of the Children, Young Persons, and Their Families Amendment Act 2008 (2008 No 76).
     
-    Section 438(2)(a)(ii): amended, on 18 May 2009, by [section 9(3)(b)][987] of the Children, Young Persons, and Their Families Amendment Act 2008 (2008 No 76).
+    Section 438(2)(a)(ii): amended, on 18 May 2009, by [section 9(3)(b)][990] of the Children, Young Persons, and Their Families Amendment Act 2008 (2008 No 76).
     
-    Section 438(3): amended, on 18 May 2009, by [section 9(4)][987] of the Children, Young Persons, and Their Families Amendment Act 2008 (2008 No 76).
+    Section 438(3): amended, on 18 May 2009, by [section 9(4)][990] of the Children, Young Persons, and Their Families Amendment Act 2008 (2008 No 76).
     
-    Section 438(3)(d): amended, on 18 May 2009, by [section 9(5)][987] of the Children, Young Persons, and Their Families Amendment Act 2008 (2008 No 76).
+    Section 438(3)(d): amended, on 18 May 2009, by [section 9(5)][990] of the Children, Young Persons, and Their Families Amendment Act 2008 (2008 No 76).
     
     Section 438(5): amended, on 1 July 2013, by [section 4][712] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2011 (2011 No 83).
 
@@ -11756,9 +11766,9 @@ Miscellaneous provisions
     
 *   (1) No conviction or order or direction or other process or proceedings or action taken shall be held invalid by reason only that it related to a person who was not a child or young person if there were, at the time of conviction, order, direction, process, proceedings, or action, reasonable grounds for believing that that person was a child or young person.
     
-    (2) Despite subsection (1), on the application of either party, a rehearing of a charge may be granted under [section 177][988] of the Criminal Procedure Act 2011\.
+    (2) Despite subsection (1), on the application of either party, a rehearing of a charge may be granted under [section 177][991] of the Criminal Procedure Act 2011\.
     
-    (3) For the purposes of this section, [section 177][988] of that Act must be treated as applying in relation to all offence categories.
+    (3) For the purposes of this section, [section 177][991] of that Act must be treated as applying in relation to all offence categories.
     
     (4) If the proceedings should have been dealt with in a District Court or the High Court, the proceedings must be remitted to a District Court or the High Court, as the case may require, to be reheard in that court.
     
@@ -11842,11 +11852,11 @@ Miscellaneous provisions
     
     Section 445A: inserted, on 2 September 1996, by section 2(1) of the Children, Young Persons, and Their Families Amendment Act 1996 (1996 No 112).
     
-    Section 445A: amended, on 1 October 2012, by [section 208(1)(a)][989] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 445A: amended, on 1 October 2012, by [section 208(1)(a)][992] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 445A: amended, on 1 October 2012, by [section 208(1)(b)][989] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 445A: amended, on 1 October 2012, by [section 208(1)(b)][992] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 445A: amended, on 1 October 2010, by [section 51][990] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 445A: amended, on 1 October 2010, by [section 51][993] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
     Section 445A: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][709] of the Policing Act 2008 (2008 No 72).
     
@@ -11874,23 +11884,23 @@ Miscellaneous provisions
     
     (5) A facsimile copy of a warrant in respect of which an authorisation granted under this section is in force shall be treated, for all purposes, as if it were the warrant, and the provisions of this Act (including, without limitation, [sections 445A][646] and [445C][648] and [section 446(1)(a)][651] and [(b)][651]) shall apply accordingly with all necessary modifications.
     
-    (6) Without limiting any other enactment or rule of law, it is hereby declared that [section 44][991] of the Policing Act 2008 (which relates to protection of Police employees for acts pursuant to process) applies in relation to a facsimile copy of a warrant in respect of which an authorisation granted under this section is in force as if that facsimile copy were the warrant.
+    (6) Without limiting any other enactment or rule of law, it is hereby declared that [section 44][994] of the Policing Act 2008 (which relates to protection of Police employees for acts pursuant to process) applies in relation to a facsimile copy of a warrant in respect of which an authorisation granted under this section is in force as if that facsimile copy were the warrant.
     
     Section 445B: inserted, on 2 September 1996, by section 2(1) of the Children, Young Persons, and Their Families Amendment Act 1996 (1996 No 112).
     
-    Section 445B(2): substituted, on 20 September 2007, by [section 4][992] of the Children, Young Persons, and Their Families Amendment Act 2007 (2007 No 46).
+    Section 445B(2): substituted, on 20 September 2007, by [section 4][995] of the Children, Young Persons, and Their Families Amendment Act 2007 (2007 No 46).
     
-    Section 445B(2): amended, on 1 October 2012, by [section 208(2)][989] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 445B(2): amended, on 1 October 2012, by [section 208(2)][992] of the Search and Surveillance Act 2012 (2012 No 24).
     
     Section 445B(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][709] of the Policing Act 2008 (2008 No 72).
     
-    Section 445B(2A): inserted, on 20 September 2007, by [section 4][992] of the Children, Young Persons, and Their Families Amendment Act 2007 (2007 No 46).
+    Section 445B(2A): inserted, on 20 September 2007, by [section 4][995] of the Children, Young Persons, and Their Families Amendment Act 2007 (2007 No 46).
     
-    Section 445B(2B): inserted, on 20 September 2007, by [section 4][992] of the Children, Young Persons, and Their Families Amendment Act 2007 (2007 No 46).
+    Section 445B(2B): inserted, on 20 September 2007, by [section 4][995] of the Children, Young Persons, and Their Families Amendment Act 2007 (2007 No 46).
     
-    Section 445B(3): amended, on 30 June 1998, by [section 7][864] of the District Courts Amendment Act 1998 (1998 No 76).
+    Section 445B(3): amended, on 30 June 1998, by [section 7][867] of the District Courts Amendment Act 1998 (1998 No 76).
     
-    Section 445B(4): amended, on 30 June 1998, by [section 7][864] of the District Courts Amendment Act 1998 (1998 No 76).
+    Section 445B(4): amended, on 30 June 1998, by [section 7][867] of the District Courts Amendment Act 1998 (1998 No 76).
     
     Section 445B(6): amended, on 1 October 2008, by [section 130(1)][815] of the Policing Act 2008 (2008 No 72).
 
@@ -11904,9 +11914,9 @@ Miscellaneous provisions
 
 ##### 445D Certain provisions of Search and Surveillance Act 2012 apply to some warrants
     
-*   [Sections 101][993] and [105][994] of the Search and Surveillance Act 2012 apply, with any necessary modifications, in respect of any warrant applied for or issued under [section 39][52], [40][53], or [386][566].
+*   [Sections 101][996] and [105][997] of the Search and Surveillance Act 2012 apply, with any necessary modifications, in respect of any warrant applied for or issued under [section 39][52], [40][53], or [386][566].
     
-    Section 445D: inserted, on 1 October 2012, by [section 209][995] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 445D: inserted, on 1 October 2012, by [section 209][998] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### Offences
 
@@ -11962,7 +11972,7 @@ Miscellaneous provisions
     
     (4) [Section 446B][653] applies to a child or young person who is the subject of protection proceedings registered in a court under [section 207X][279].
     
-    Section 446A: inserted, on 1 November 1999, by [section 4][996] of the Children, Young Persons, and Their Families (Trans-Tasman Transfer of Protection Orders and Proceedings) Amendment Act 1999 (1999 No 116).
+    Section 446A: inserted, on 1 November 1999, by [section 4][999] of the Children, Young Persons, and Their Families (Trans-Tasman Transfer of Protection Orders and Proceedings) Amendment Act 1999 (1999 No 116).
 
 ##### 446B Offences available if child or young person is subject of certain protection orders or proceedings under Part 3A
     
@@ -11980,7 +11990,7 @@ Miscellaneous provisions
     
     (3) The Attorney-General must be consulted before a prosecution is commenced for an offence against [section 446][651] that is alleged to have occurred partly or wholly outside New Zealand.
     
-    Section 446B: inserted, on 1 November 1999, by [section 4][996] of the Children, Young Persons, and Their Families (Trans-Tasman Transfer of Protection Orders and Proceedings) Amendment Act 1999 (1999 No 116).
+    Section 446B: inserted, on 1 November 1999, by [section 4][999] of the Children, Young Persons, and Their Families (Trans-Tasman Transfer of Protection Orders and Proceedings) Amendment Act 1999 (1999 No 116).
 
 #### Regulations
 
@@ -12036,15 +12046,15 @@ Miscellaneous provisions
     
     Compare: 1974 No 72 s 105; 1983 No 129 s 15
     
-    Section 447(aa): inserted, on 1 November 1999, by [section 5][997] of the Children, Young Persons, and Their Families (Trans-Tasman Transfer of Protection Orders and Proceedings) Amendment Act 1999 (1999 No 116).
+    Section 447(aa): inserted, on 1 November 1999, by [section 5][1000] of the Children, Young Persons, and Their Families (Trans-Tasman Transfer of Protection Orders and Proceedings) Amendment Act 1999 (1999 No 116).
     
-    Section 447(ab): inserted, on 1 November 1999, by [section 5][997] of the Children, Young Persons, and Their Families (Trans-Tasman Transfer of Protection Orders and Proceedings) Amendment Act 1999 (1999 No 116).
+    Section 447(ab): inserted, on 1 November 1999, by [section 5][1000] of the Children, Young Persons, and Their Families (Trans-Tasman Transfer of Protection Orders and Proceedings) Amendment Act 1999 (1999 No 116).
     
-    Section 447(ac): inserted, on 1 November 1999, by [section 5][997] of the Children, Young Persons, and Their Families (Trans-Tasman Transfer of Protection Orders and Proceedings) Amendment Act 1999 (1999 No 116).
+    Section 447(ac): inserted, on 1 November 1999, by [section 5][1000] of the Children, Young Persons, and Their Families (Trans-Tasman Transfer of Protection Orders and Proceedings) Amendment Act 1999 (1999 No 116).
     
-    Section 447(ad): inserted, on 1 October 2010, by [section 53][998] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 447(ad): inserted, on 1 October 2010, by [section 53][1001] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
-    Section 447(ca): inserted, on 25 June 2001, by [section 5][999] of the Children, Young Persons, and Their Families Amendment Act 2001 (2001 No 3).
+    Section 447(ca): inserted, on 25 June 2001, by [section 5][1002] of the Children, Young Persons, and Their Families Amendment Act 2001 (2001 No 3).
     
     Section 447(e)(ii): amended, on 1 November 1989, by section 5 of the Children, Young Persons, and Their Families Amendment Act 1989 (1989 No 70).
     
@@ -12056,11 +12066,11 @@ Miscellaneous provisions
     
     (2) Rules may be made regulating the practice and procedure of courts (other than Youth Courts) under this Act,---
         
-    *   (a) in the case of the High Court, under [section 51C][1000] of the Judicature Act 1908:
+    *   (a) in the case of the High Court, under [section 51C][1003] of the Judicature Act 1908:
     
-    *   (b) in the case of District Courts, under [section 122][1001] of the District Courts Act 1947:
+    *   (b) in the case of District Courts, under [section 122][1004] of the District Courts Act 1947:
     
-    *   (c) in the case of Family Courts, under [section 16A][1002] of the Family Courts Act 1980\.
+    *   (c) in the case of Family Courts, under [section 16A][1005] of the Family Courts Act 1980\.
     
     Section 448: substituted, on 13 September 2002, by [section 6][749] of the Family Courts Amendment Act 2000 (2000 No 65).
 
@@ -12095,7 +12105,7 @@ Amendments to other enactments, repeals, savings, and transitional provisions
     
 *   \[Repealed\]
     
-    Section 451: repealed, on 1 April 1990, by [section 33(2)(e)][1003] of the Social Welfare (Transitional Provisions) Act 1990 (1990 No 26).
+    Section 451: repealed, on 1 April 1990, by [section 33(2)(e)][1006] of the Social Welfare (Transitional Provisions) Act 1990 (1990 No 26).
 
 ##### 452 Local Government Act 1974 consequentially amended
     
@@ -12105,11 +12115,11 @@ Amendments to other enactments, repeals, savings, and transitional provisions
 
 ##### 453 Summary Offences Act 1981 amended
     
-*   _Amendment(s) incorporated in the [Act(s)][1004]_.
+*   _Amendment(s) incorporated in the [Act(s)][849]_.
 
 ##### 454 Criminal Justice Act 1985 amended
     
-*   _Amendment(s) incorporated in the [Act(s)][884]_.
+*   _Amendment(s) incorporated in the [Act(s)][887]_.
 
 ##### 455 Child Care Regulations 1985 consequentially amended
     
@@ -12123,17 +12133,17 @@ Amendments to other enactments, repeals, savings, and transitional provisions
     
 *   (1) The enactments specified in [Schedule 3][689] are hereby repealed.
     
-    (2) The repeal of the Children and Young Persons Amendment Act 1982 by subsection (1) shall not affect the amendment made by [section 20][1005] of that Act to the [Department of Social Welfare Act 1971][1006].
+    (2) The repeal of the Children and Young Persons Amendment Act 1982 by subsection (1) shall not affect the amendment made by [section 20][1007] of that Act to the [Department of Social Welfare Act 1971][1008].
 
 #### 2010 Amendment Act
     
-*   Heading: inserted, on 1 October 2010, by [section 54][1007] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+*   Heading: inserted, on 1 October 2010, by [section 54][1009] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
 
 ##### 456A Purpose and application
     
-*   (1) The purpose of [Part 1][1008] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 is to amend this Act to---
+*   (1) The purpose of [Part 1][1010] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 is to amend this Act to---
         
-    *   (a) enable proceedings to be commenced under the [Summary Proceedings Act 1957][1009] or the [Criminal Procedure Act 2011][802] against---
+    *   (a) enable proceedings to be commenced under the [Summary Proceedings Act 1957][1011] or the [Criminal Procedure Act 2011][802] against---
             
         *   (i) a child aged 12 or 13 years who is alleged to have committed an offence (other than murder or manslaughter) for which the maximum penalty available is or includes imprisonment for life or for at least 14 years; or
         
@@ -12141,11 +12151,11 @@ Amendments to other enactments, repeals, savings, and transitional provisions
         
         
     
-    *   (b) require to be brought before a Youth Court to be dealt with in accordance with this Act, and provide certain protections for, a child of that kind against whom proceedings under the [Summary Proceedings Act 1957][1009] or the [Criminal Procedure Act 2011][802] have been commenced for an offence of that kind; and
+    *   (b) require to be brought before a Youth Court to be dealt with in accordance with this Act, and provide certain protections for, a child of that kind against whom proceedings under the [Summary Proceedings Act 1957][1011] or the [Criminal Procedure Act 2011][802] have been commenced for an offence of that kind; and
     
     *   (c) strengthen and expand the orders available to a Youth Court sentencing or otherwise dealing with a child or young person against whom a charge is proved before a Youth Court, including by ensuring that measures for dealing with offending address the causes underlying the offending.
     
-    (2) A child aged 12 or 13 years is a previous offender for the purposes of subsection (1)(a)(ii) if, in accordance with [section 272(1A) or (1B)][380] (as substituted by [section 14(2)][848] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010), he or she has been---
+    (2) A child aged 12 or 13 years is a previous offender for the purposes of subsection (1)(a)(ii) if, in accordance with [section 272(1A) or (1B)][380] (as substituted by [section 14(2)][850] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010), he or she has been---
         
     *   (a) proved before a Family Court to have committed an offence for which the maximum penalty available is or includes imprisonment for life or for at least 10 years; or
     
@@ -12167,9 +12177,9 @@ Amendments to other enactments, repeals, savings, and transitional provisions
         
     *   (a) the offence is one of the kind specified in [section 272(1)(c)][380] and one committed or alleged to have been committed by a child aged 12 or 13 years; and
     
-    *   (b) proceedings under the [Summary Proceedings Act 1957][1009] or the [Criminal Procedure Act 2011][802] against the child for the offence have been or are to be commenced in accordance with [section 272(1)(c)][380].
+    *   (b) proceedings under the [Summary Proceedings Act 1957][1011] or the [Criminal Procedure Act 2011][802] against the child for the offence have been or are to be commenced in accordance with [section 272(1)(c)][380].
     
-    Section 456A: inserted, on 1 October 2010, by [section 54][1007] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
+    Section 456A: inserted, on 1 October 2010, by [section 54][1009] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
     Section 456A(1)(a): amended, on 1 July 2013, by [section 4][712] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2011 (2011 No 83).
     
@@ -12247,17 +12257,17 @@ Amendments to other enactments, repeals, savings, and transitional provisions
 
 ##### 467A Building Act 2004
     
-*   (1) Where any person making inspections under this Act believes that any building or sitework does not comply with the [Building Act 2004][1010], that person shall by notice in writing give to the appropriate territorial authority details of the respects in which the building or sitework is believed not to comply.
+*   (1) Where any person making inspections under this Act believes that any building or sitework does not comply with the [Building Act 2004][1012], that person shall by notice in writing give to the appropriate territorial authority details of the respects in which the building or sitework is believed not to comply.
     
-    (2) For the purposes of this section, the terms _building_, _sitework_, and _territorial authority_ have the meanings ascribed to them by the [Building Act 2004][1010].
+    (2) For the purposes of this section, the terms _building_, _sitework_, and _territorial authority_ have the meanings ascribed to them by the [Building Act 2004][1012].
     
     Section 467A: inserted, on 1 July 1992, by section 92(1) of the Building Act 1991 (1991 No 150).
     
-    Section 467A heading: amended, on 31 March 2005, by [section 414][1011] of the Building Act 2004 (2004 No 72).
+    Section 467A heading: amended, on 31 March 2005, by [section 414][1013] of the Building Act 2004 (2004 No 72).
     
-    Section 467A(1): amended, on 31 March 2005, by [section 414][1011] of the Building Act 2004 (2004 No 72).
+    Section 467A(1): amended, on 31 March 2005, by [section 414][1013] of the Building Act 2004 (2004 No 72).
     
-    Section 467A(2): amended, on 31 March 2005, by [section 414][1011] of the Building Act 2004 (2004 No 72).
+    Section 467A(2): amended, on 31 March 2005, by [section 414][1013] of the Building Act 2004 (2004 No 72).
 
 ##### 468 Agreements for assumption of care of child or young person by manager of home or recognised system of foster care
     
@@ -12278,7 +12288,7 @@ Transitional and savings provisions relating to amendments to this Act
 
 [s 2A][4]
 
-*   Schedule 1AA: inserted, on 5 December 2013, by [section 9][1012] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2013 (2013 No 110).
+*   Schedule 1AA: inserted, on 5 December 2013, by [section 9][1014] of the Children, Young Persons, and Their Families Amendment Act (No 2) 2013 (2013 No 110).
 
 ##### 1 Application of sections 311, 314, and 317 (supervision with residence orders: early release from custody)
     
@@ -12292,7 +12302,7 @@ Transitional and savings provisions relating to amendments to this Act
 
 ##### 2 Adjournment date of pre-commencement supervision with residence orders
     
-*   [Section 314][1013] as amended by the [Children, Young Persons, and Their Families Amendment Act (No 2) 2013][723] applies to an order specified in clause (1)(a) as if the adjournment date under section 311(2A)(a) (as in force before that Act's commencement) were the adjournment date under [section 311(2A)(a)][455] (as in force after that commencement).
+*   [Section 314][1015] as amended by the [Children, Young Persons, and Their Families Amendment Act (No 2) 2013][723] applies to an order specified in clause (1)(a) as if the adjournment date under section 311(2A)(a) (as in force before that Act's commencement) were the adjournment date under [section 311(2A)(a)][455] (as in force after that commencement).
 
 ---
 
@@ -12305,9 +12315,9 @@ Provisions applied to Youth Courts and to proceedings in such courts
 
 *   1 The District Courts Act 1947, except that---
         
-    *   (a) where any provisions of this Act conflict with any of the provisions of the [District Courts Act 1947][982], the provisions of this Act prevail:
+    *   (a) where any provisions of this Act conflict with any of the provisions of the [District Courts Act 1947][985], the provisions of this Act prevail:
     
-    *   (b) nothing in [section 22][1014] of the District Courts Act 1947 applies in respect of Youth Court Judges or the business of Youth Courts.
+    *   (b) nothing in [section 22][1016] of the District Courts Act 1947 applies in respect of Youth Court Judges or the business of Youth Courts.
     
     
 
@@ -12317,39 +12327,39 @@ Provisions applied to Youth Courts and to proceedings in such courts
     
     *   (b) unless a District Court Judge orders otherwise, charges that are within the jurisdiction of the Youth Court must be heard and determined in the Youth Court that is a division of the District Court in which the charging document is filed:
     
-    *   (c) [section 35][1015] of that Act does not apply:
+    *   (c) [section 35][1017] of that Act does not apply:
     
-    *   (d) [sections 37(4)][1016], [38][1017], and [40][1018] of that Act do not apply:
+    *   (d) [sections 37(4)][1018], [38][1019], and [40][1020] of that Act do not apply:
     
-    *   (e) [section 53][1019] of that Act does not apply:
+    *   (e) [section 53][1021] of that Act does not apply:
     
-    *   (f) [sections 54 to 57][1020] of that Act apply to a proceeding only if, and to the extent that, a Youth Court Judge directs that those provisions apply:
+    *   (f) [sections 54 to 57][1022] of that Act apply to a proceeding only if, and to the extent that, a Youth Court Judge directs that those provisions apply:
     
-    *   (g) [sections 60 to 62(1)][854], [62(3) to 65][855], and [116][856] of that Act (which relate to sentence indications) apply at the discretion of the Judge:
+    *   (g) [sections 60 to 62(1)][857], [62(3) to 65][858], and [116][859] of that Act (which relate to sentence indications) apply at the discretion of the Judge:
     
-    *   (h) [section 106][1021] of that Act does not apply:
+    *   (h) [section 106][1023] of that Act does not apply:
     
-    *   (i) [section 137][1022] of that Act applies as if the proving of a charge were a conviction:
+    *   (i) [section 137][1024] of that Act applies as if the proving of a charge were a conviction:
     
-    *   (j) [section 114(1)][1023] of that Act does not apply, but section 114(2) of that Act applies only in respect of a defendant who pleads guilty to a charge of murder or manslaughter:
+    *   (j) [section 114(1)][1025] of that Act does not apply, but section 114(2) of that Act applies only in respect of a defendant who pleads guilty to a charge of murder or manslaughter:
     
-    *   (k) [sections 119][1024] and [121 to 130][1025] of that Act (which relate to a defendant who does not appear) do not apply:
+    *   (k) [sections 119][1026] and [121 to 130][1027] of that Act (which relate to a defendant who does not appear) do not apply:
     
-    *   (l) [sections 139(2)][862] and [140][1026] of that Act do not apply:
+    *   (l) [sections 139(2)][865] and [140][1028] of that Act do not apply:
     
-    *   (m) [section 147(5)][1027] of that Act does not apply:
+    *   (m) [section 147(5)][1029] of that Act does not apply:
     
-    *   (n) [section 177][1028] of that Act applies to all offence categories as if the proving of a charge were a conviction:
+    *   (n) [section 177][1030] of that Act applies to all offence categories as if the proving of a charge were a conviction:
     
-    *   (o) [section 178][1029] of that Act applies as if the proving of a charge were a conviction:
+    *   (o) [section 178][1031] of that Act applies as if the proving of a charge were a conviction:
     
-    *   (p) [section 184][857] of that Act does not apply.
+    *   (p) [section 184][860] of that Act does not apply.
     
     
 
 *   3 Part 3 of the Bail Act 2000 except that---
         
-    *   (a) neither a Justice nor a Community Magistrate may exercise any of the powers conferred by [section 33][1030]:
+    *   (a) neither a Justice nor a Community Magistrate may exercise any of the powers conferred by [section 33][1032]:
     
     *   (b) the provisions of [section 30][831] apply as if there were inserted in that section, as subsections (1A) and (1B), the following subsections:
     
@@ -12374,11 +12384,11 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Criminal Justice Act 1985 (1985 No 120)
 
-_Amendment(s) incorporated in the [Act(s)][884]._
+_Amendment(s) incorporated in the [Act(s)][887]._
 
 ##### District Courts Act 1947 (1947 No 16) (RS Vol 5, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][982]._
+_Amendment(s) incorporated in the [Act(s)][985]._
 
 ##### Education Act 1964 (1964 No 135) (RS Vol 34, p 355)
 
@@ -12386,7 +12396,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Family Courts Act 1980 (1980 No 161)
 
-_Amendment(s) incorporated in the [Act(s)][1031]._
+_Amendment(s) incorporated in the [Act(s)][1033]._
 
 ##### Guardianship Act 1968 (1968 No 63)
 
@@ -12394,11 +12404,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Higher Salaries Commission Act 1977 (1977 No 110) (RS Vol 35, p 307)
 
-_Amendment(s) incorporated in the [Act(s)][1032]_.
+_Amendment(s) incorporated in the [Act(s)][1034]_.
 
 ##### Immigration Act 1987 (1987 No 74)
 
-_Amendment(s) incorporated in the [Act(s)][1033]._
+_Amendment(s) incorporated in the [Act(s)][1035]._
 
 ##### Legal Aid Act 1969 (1969 No 47) (Reprinted 1975, Vol 3, p 2111)
 
@@ -12414,15 +12424,15 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)
 
-_Amendment(s) incorporated in the [Act(s)][1034]._
+_Amendment(s) incorporated in the [Act(s)][1036]._
 
 ##### Social Security Act 1964 (1964 No 136)
 
-_Amendment(s) incorporated in the [Act(s)][1035]._
+_Amendment(s) incorporated in the [Act(s)][1037]._
 
 ##### Summary Proceedings Act 1957 (1957 No 87) (RS Vol 9, p 583)
 
-_Amendment(s) incorporated in the [Act(s)][1009]._
+_Amendment(s) incorporated in the [Act(s)][1011]._
 
 ##### Wanganui Computer Centre Act 1976 (1976 No 19)
 
@@ -12451,7 +12461,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Disabled Persons Community Welfare Act 1975 (1975 No 122)
 
-_Amendment(s) incorporated in the [Act(s)][1036]_.
+_Amendment(s) incorporated in the [Act(s)][1038]_.
 
 ##### Education Amendment Act 1986 (1986 No 28)
 
@@ -12459,15 +12469,15 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Local Government Amendment Act 1979 (1979 No 59)
 
-_Amendment(s) incorporated in the [Act(s)][1037]_.
+_Amendment(s) incorporated in the [Act(s)][1039]_.
 
 ##### Social Security Amendment Act 1987 (1987 No 106)
 
-_Amendment(s) incorporated in the [Act(s)][1038]_.
+_Amendment(s) incorporated in the [Act(s)][1040]_.
 
 ##### State Sector Act 1988 (1988 No 20)
 
-_Amendment(s) incorporated in the [Act(s)][1039]_.
+_Amendment(s) incorporated in the [Act(s)][1041]_.
 
 ##### Summary Offences Act 1981 (1981 No 113)
 
@@ -12483,13 +12493,13 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Children, Young Persons, and Their Families Amendment Act (No 2) 2011][1040].
+*   This Act is the [Children, Young Persons, and Their Families Amendment Act (No 2) 2011][1042].
 
 ##### 2 Commencement
     
 *   This Act comes into force on the day that is 2 years after the date on which this Act receives the Royal assent unless it is brought into force on an earlier date appointed by the Governor-General by Order in Council.
     
-    Section 2: this Act brought into force, on 1 July 2013, by the [Children, Young Persons, and Their Families Amendment Act (No 2) 2011 Commencement Order 2013][1041] (SR 2013/158).
+    Section 2: this Act brought into force, on 1 July 2013, by the [Children, Young Persons, and Their Families Amendment Act (No 2) 2011 Commencement Order 2013][1043] (SR 2013/158).
 
 ##### 3 Principal Act amended
     
@@ -12511,11 +12521,11 @@ Commencementsee section 2
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1042] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][1043] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1044] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][1045] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][1044] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][1045] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][1046] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][1047] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
@@ -12523,35 +12533,37 @@ Commencementsee section 2
     
     Bail Amendment Act 2013 (2013 No 66): [section 41][816]
     
-    Psychoactive Substances Act 2013 (2013 No 53): [section 109][849]
+    Psychoactive Substances Act 2013 (2013 No 53): [section 109][851]
     
-    [Children, Young Persons, and Their Families Amendment Act 2012][1046] (2012 No 99)
+    Sale and Supply of Alcohol Act 2012 (2012 No 120): [section 416][852]
     
-    [Children, Young Persons, and Their Families (Indexation---Budget Measures) Amendment Act 2012][1047] (2012 No 78)
+    [Children, Young Persons, and Their Families Amendment Act 2012][1048] (2012 No 99)
+    
+    [Children, Young Persons, and Their Families (Indexation---Budget Measures) Amendment Act 2012][1049] (2012 No 78)
     
     Search and Surveillance Act 2012 (2012 No 24): [sections 207--209][739]
     
     Road User Charges Act 2012 (2012 No 1): [section 94][721]
     
-    [Children, Young Persons, and Their Families Amendment Act (No 2) 2011][1040] (2011 No 83)
+    [Children, Young Persons, and Their Families Amendment Act (No 2) 2011][1042] (2011 No 83)
     
-    [Children, Young Persons, and Their Families Amendment Act 2011][1048] (2011 No 33)
+    [Children, Young Persons, and Their Families Amendment Act 2011][1050] (2011 No 33)
     
     Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13): [section 100(3)][823]
     
-    [Children, Young Persons, and Their Families Amendment Act 2010][1049] (2010 No 102)
+    [Children, Young Persons, and Their Families Amendment Act 2010][1051] (2010 No 102)
     
-    [Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010][1050] (2010 No 2)
+    [Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010][1052] (2010 No 2)
     
     Immigration Act 2009 (2009 No 51): [section 406(1)][832]
     
-    [Children, Young Persons, and Their Families Amendment Act 2008][1051] (2008 No 76)
+    [Children, Young Persons, and Their Families Amendment Act 2008][1053] (2008 No 76)
     
     Policing Act 2008 (2008 No 72): [sections 116(a)(i), (ii), (b), (d)][709], [130(1)][815]
     
-    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][893]
+    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][896]
     
-    [Children, Young Persons, and Their Families Amendment Act 2007][1052] (2007 No 46)
+    [Children, Young Persons, and Their Families Amendment Act 2007][1054] (2007 No 46)
     
     Sentencing Amendment Act 2007 (2007 No 27): [section 58][813]
     
@@ -12561,31 +12573,31 @@ Commencementsee section 2
     
     Care of Children Act 2004 (2004 No 90): [section 151][711]
     
-    Building Act 2004 (2004 No 72): [section 414][1011]
+    Building Act 2004 (2004 No 72): [section 414][1013]
     
     Corrections Act 2004 (2004 No 50): [section 206][716]
     
-    [Children, Young Persons, and Their Families Amendment Act 2004][1053] (2004 No 39)
+    [Children, Young Persons, and Their Families Amendment Act 2004][1055] (2004 No 39)
     
     Children's Commissioner Act 2003 (2003 No 121): [section 37][690]
     
     Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115): [section 51][717]
     
-    Supreme Court Act 2003 (2003 No 53): [sections 47][947], [48(2)][948]
+    Supreme Court Act 2003 (2003 No 53): [sections 47][950], [48(2)][951]
     
     Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][713]
     
     Local Government Act 2002 (2002 No 84): [section 262][817]
     
-    District Courts Amendment Act 2002 (2002 No 63): [section 4][941]
+    District Courts Amendment Act 2002 (2002 No 63): [section 4][944]
     
     Sentencing Act 2002 (2002 No 9): [sections 163][830], [186][722]
     
     Health and Disability Services (Safety) Act 2001 (2001 No 93): [section 58(1)][730]
     
-    Accident Compensation Act 2001 (2001 No 49): [section 337(1)][912]
+    Accident Compensation Act 2001 (2001 No 49): [section 337(1)][915]
     
-    [Children, Young Persons, and Their Families Amendment Act 2001][1054] (2001 No 3)
+    [Children, Young Persons, and Their Families Amendment Act 2001][1056] (2001 No 3)
     
     New Zealand Public Health and Disability Act 2000 (2000 No 91): [section 111(1)][776]
     
@@ -12597,13 +12609,13 @@ Commencementsee section 2
     
     Children's Health Camps Board Dissolution Act 1999 (1999 No 141): [section 8][718]
     
-    [Children, Young Persons, and Their Families (Trans-Tasman Transfer of Protection Orders and Proceedings) Amendment Act 1999][1055] (1999 No 116)
+    [Children, Young Persons, and Their Families (Trans-Tasman Transfer of Protection Orders and Proceedings) Amendment Act 1999][1057] (1999 No 116)
     
-    Department of Child, Youth, and Family Services Act 1999 (1999 No 82): [sections 11(3)][953], [13][705]
+    Department of Child, Youth, and Family Services Act 1999 (1999 No 82): [sections 11(3)][956], [13][705]
     
     Land Transport Act 1998 (1998 No 110) [section 215(1)][710]
     
-    District Courts Amendment Act 1998 (1998 No 76): [section 7][864]
+    District Courts Amendment Act 1998 (1998 No 76): [section 7][867]
     
     Guardianship Amendment Act 1998 (1998 No 48): section 8
     
@@ -12613,19 +12625,19 @@ Commencementsee section 2
     
     Domestic Violence Act 1995 (1995 No 86): [section 131][782]
     
-    [Children, Young Persons, and Their Families Amendment Act 1994][1056] (1994 No 121)
+    [Children, Young Persons, and Their Families Amendment Act 1994][1058] (1994 No 121)
     
     Transport Amendment Act (No 2) 1992 (1992 No 67): section 36
     
-    Social Security Amendment Act 1992 (1992 No 15): [section 4(f)][942]
+    Social Security Amendment Act 1992 (1992 No 15): [section 4(f)][945]
     
     Building Act 1991 (1991 No 150): section 92(1), (2)
     
-    Child Support Act 1991 (1991 No 142): [section 244][974]
+    Child Support Act 1991 (1991 No 142): [section 244][977]
     
-    Social Welfare (Transitional Provisions) Amendment Act 1991 (1991 No 4): [section 4(1)][958]
+    Social Welfare (Transitional Provisions) Amendment Act 1991 (1991 No 4): [section 4(1)][961]
     
-    Social Welfare (Transitional Provisions) Act 1990 (1990 No 26): [sections 33(2)(e)][1003], [35(1)(d), (2), (3)][719]
+    Social Welfare (Transitional Provisions) Act 1990 (1990 No 26): [sections 33(2)(e)][1006], [35(1)(d), (2), (3)][719]
     
     Children, Young Persons, and Their Families Amendment Act 1989 (1989 No 70)
     
@@ -13481,212 +13493,214 @@ Commencementsee section 2
 [845]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM311786
 [846]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360100
 [847]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM5042900
-[848]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837944
-[849]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM5043147
-[850]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837947
-[851]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3865730
-[852]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3865717
-[853]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360081
-[854]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360114
-[855]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360117
-[856]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360203
-[857]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360317
-[858]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360130
-[859]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360133
-[860]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM242941
-[861]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360268
-[862]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360229
-[863]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360606
-[864]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM427920
-[865]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837949
-[866]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837951
-[867]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM344630
-[868]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM311883
-[869]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM311891
-[870]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360594
-[871]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM136850
-[872]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM136853
-[873]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM4640203
-[874]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM136859
-[875]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM136860
-[876]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM136866
-[877]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM136867
-[878]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837952
-[879]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3555802
-[880]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837954
-[881]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837955
-[882]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837956
-[883]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837957
-[884]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM76615
-[885]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837959
-[886]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM135544
-[887]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM136832
-[888]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM434820
-[889]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM434634
-[890]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM434641
-[891]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM435009
-[892]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM435407
-[893]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1313622
-[894]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM4989442
-[895]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837963
-[896]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM4989457
-[897]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM136086
-[898]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM68958
-[899]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM4989458
-[900]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM136069
-[901]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM136072
-[902]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1102196
-[903]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM136073
-[904]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM329014
-[905]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837981
-[906]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM4989459
-[907]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1805202
-[908]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837987
-[909]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM99493
-[910]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM101448
-[911]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM2773701
-[912]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM104117
-[913]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM77913
-[914]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837988
-[915]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM4989460
-[916]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837990
-[917]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM136437
-[918]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837994
-[919]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837995
-[920]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM5621010
-[921]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM317683
-[922]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM2581883
-[923]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837997
-[924]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM5621011
-[925]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM2581884
-[926]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM5621012
-[927]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837999
-[928]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1839103
-[929]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM311863
-[930]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM344633
-[931]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM223825
-[932]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM328219
-[933]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1839104
-[934]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1839105
-[935]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM4989461
-[936]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1839106
-[937]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM4989462
-[938]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1839107
-[939]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM77893
-[940]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1839108
-[941]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM168713
-[942]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM259673
-[943]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM41865
-[944]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM147655
-[945]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM243909
-[946]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM243795
-[947]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM214520
-[948]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM214522
-[949]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1839110
-[950]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1839111
-[951]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360366
-[952]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM5621014
-[953]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM31413
-[954]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM4989463
-[955]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM2827316
-[956]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM4766806
-[957]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM45426
-[958]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM228376
-[959]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1839112
-[960]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM4989464
-[961]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM2581886
-[962]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM344634
-[963]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1301910
-[964]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360302
-[965]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360303
-[966]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360304
-[967]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM344635
-[968]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM344636
-[969]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM344637
-[970]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM85915
-[971]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM2136790
-[972]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM127002
-[973]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM127004
-[974]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM257703
-[975]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM134196
-[976]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM135060
-[977]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM344638
-[978]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM129109
-[979]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM264952
-[980]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM293753
-[981]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM242978
-[982]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM242775
-[983]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM293756
-[984]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM2061203
-[985]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1301911
-[986]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM41856
-[987]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1301913
-[988]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3865762
-[989]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3330256
-[990]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM2581887
-[991]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1102245
-[992]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM968127
-[993]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM2136792
-[994]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM2136797
-[995]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3132300
-[996]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM43936
-[997]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM43939
-[998]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM2581889
-[999]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM85948
-[1000]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM146607
-[1001]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM244468
-[1002]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM42296
-[1003]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM204509
-[1004]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM53347
-[1005]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM405007
-[1006]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM404806
-[1007]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1839113
-[1008]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837936
-[1009]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM310742
-[1010]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM306035
-[1011]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM309090
-[1012]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM5621015
-[1013]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM154012
-[1014]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM243255
-[1015]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360079
-[1016]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3865718
-[1017]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3865719
-[1018]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3865721
-[1019]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360103
-[1020]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3865726
-[1021]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360173
-[1022]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360227
-[1023]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360201
-[1024]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360209
-[1025]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM4059604
-[1026]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3865756
-[1027]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360237
-[1028]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3361368
-[1029]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3865763
-[1030]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM68953
-[1031]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM42253
-[1032]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM15636
-[1033]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM108017
-[1034]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM430983
-[1035]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM359106
-[1036]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM437093
-[1037]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM34682
-[1038]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM118750
-[1039]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM130770
-[1040]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM4057503
-[1041]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM5193536
-[1042]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM2998516
-[1043]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM2998515
-[1044]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM2998532
-[1045]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[1046]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM4989452
-[1047]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM4766800
-[1048]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3555803
-[1049]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM2827300
-[1050]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837916
-[1051]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1301902
-[1052]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM968120
-[1053]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM293747
-[1054]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM85908
-[1055]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM43453
-[1056]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM343888
+[848]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3339302
+[849]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM53347
+[850]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837944
+[851]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM5043147
+[852]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3339982
+[853]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837947
+[854]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3865730
+[855]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3865717
+[856]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360081
+[857]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360114
+[858]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360117
+[859]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360203
+[860]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360317
+[861]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360130
+[862]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360133
+[863]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM242941
+[864]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360268
+[865]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360229
+[866]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360606
+[867]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM427920
+[868]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837949
+[869]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837951
+[870]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM344630
+[871]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM311883
+[872]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM311891
+[873]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360594
+[874]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM136850
+[875]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM136853
+[876]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM4640203
+[877]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM136859
+[878]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM136860
+[879]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM136866
+[880]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM136867
+[881]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837952
+[882]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3555802
+[883]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837954
+[884]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837955
+[885]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837956
+[886]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837957
+[887]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM76615
+[888]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837959
+[889]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM135544
+[890]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM136832
+[891]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM434820
+[892]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM434634
+[893]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM434641
+[894]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM435009
+[895]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM435407
+[896]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1313622
+[897]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM4989442
+[898]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837963
+[899]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM4989457
+[900]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM136086
+[901]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM68958
+[902]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM4989458
+[903]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM136069
+[904]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM136072
+[905]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1102196
+[906]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM136073
+[907]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM329014
+[908]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837981
+[909]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM4989459
+[910]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1805202
+[911]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837987
+[912]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM99493
+[913]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM101448
+[914]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM2773701
+[915]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM104117
+[916]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM77913
+[917]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837988
+[918]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM4989460
+[919]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837990
+[920]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM136437
+[921]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837994
+[922]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837995
+[923]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM5621010
+[924]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM317683
+[925]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM2581883
+[926]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837997
+[927]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM5621011
+[928]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM2581884
+[929]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM5621012
+[930]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837999
+[931]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1839103
+[932]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM311863
+[933]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM344633
+[934]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM223825
+[935]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM328219
+[936]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1839104
+[937]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1839105
+[938]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM4989461
+[939]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1839106
+[940]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM4989462
+[941]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1839107
+[942]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM77893
+[943]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1839108
+[944]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM168713
+[945]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM259673
+[946]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM41865
+[947]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM147655
+[948]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM243909
+[949]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM243795
+[950]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM214520
+[951]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM214522
+[952]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1839110
+[953]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1839111
+[954]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360366
+[955]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM5621014
+[956]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM31413
+[957]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM4989463
+[958]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM2827316
+[959]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM4766806
+[960]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM45426
+[961]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM228376
+[962]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1839112
+[963]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM4989464
+[964]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM2581886
+[965]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM344634
+[966]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1301910
+[967]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360302
+[968]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360303
+[969]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360304
+[970]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM344635
+[971]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM344636
+[972]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM344637
+[973]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM85915
+[974]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM2136790
+[975]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM127002
+[976]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM127004
+[977]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM257703
+[978]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM134196
+[979]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM135060
+[980]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM344638
+[981]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM129109
+[982]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM264952
+[983]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM293753
+[984]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM242978
+[985]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM242775
+[986]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM293756
+[987]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM2061203
+[988]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1301911
+[989]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM41856
+[990]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1301913
+[991]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3865762
+[992]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3330256
+[993]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM2581887
+[994]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1102245
+[995]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM968127
+[996]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM2136792
+[997]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM2136797
+[998]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3132300
+[999]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM43936
+[1000]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM43939
+[1001]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM2581889
+[1002]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM85948
+[1003]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM146607
+[1004]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM244468
+[1005]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM42296
+[1006]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM204509
+[1007]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM405007
+[1008]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM404806
+[1009]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1839113
+[1010]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837936
+[1011]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM310742
+[1012]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM306035
+[1013]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM309090
+[1014]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM5621015
+[1015]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM154012
+[1016]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM243255
+[1017]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360079
+[1018]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3865718
+[1019]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3865719
+[1020]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3865721
+[1021]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360103
+[1022]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3865726
+[1023]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360173
+[1024]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360227
+[1025]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360201
+[1026]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360209
+[1027]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM4059604
+[1028]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3865756
+[1029]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3360237
+[1030]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3361368
+[1031]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3865763
+[1032]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM68953
+[1033]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM42253
+[1034]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM15636
+[1035]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM108017
+[1036]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM430983
+[1037]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM359106
+[1038]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM437093
+[1039]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM34682
+[1040]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM118750
+[1041]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM130770
+[1042]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM4057503
+[1043]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM5193536
+[1044]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM2998516
+[1045]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM2998515
+[1046]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM2998532
+[1047]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[1048]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM4989452
+[1049]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM4766800
+[1050]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM3555803
+[1051]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM2827300
+[1052]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1837916
+[1053]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM1301902
+[1054]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM968120
+[1055]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM293747
+[1056]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM85908
+[1057]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM43453
+[1058]: http://www.legislation.govt.nz/act/public/1989/0024/latest/link.aspx?id=DLM343888
