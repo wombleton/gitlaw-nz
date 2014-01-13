@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 18 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -437,6 +437,8 @@ An Act---
         
         
     
+    _alcohol_ has the meaning given by [section 5(1)][167] of the Sale and Supply of Alcohol Act 2012
+    
     _approved code of broadcasting practice_ means a code of broadcasting practice---
         
     *   (a) developed and issued under [section 21(1)(f)][29]; or
@@ -475,9 +477,7 @@ An Act---
     
     *   (b) in [Part 6][107], has the meaning given to it by [section 69][108]
     
-    _individual_ has the same meaning as in [section 2(1)][167] of the Privacy Act 1993
-    
-    _liquor_ has the meaning given to that term by [section 2][168] of the Sale of Liquor Act 1989
+    _individual_ has the same meaning as in [section 2(1)][168] of the Privacy Act 1993
     
     _Minister_ means, in relation to a Part of this Act, the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the Part
     
@@ -527,19 +527,21 @@ An Act---
     
     Section 2(1) **advertising programme**: substituted, on 8 July 1993, by [section 2][170] of the Broadcasting Amendment Act 1993 (1993 No 69).
     
-    Section 2(1) **approved financial reporting standard**: repealed, on 1 July 2011, by [section 12][171] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 2(1) **alcohol**: inserted, on 18 December 2013, by [section 417(1)][171] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
     
-    Section 2(1) **broadcaster**: substituted, on 28 August 1990, by [section 3(1)][172] of the Broadcasting Amendment Act (No 2) 1990 (1990 No 103).
+    Section 2(1) **approved financial reporting standard**: repealed, on 1 July 2011, by [section 12][172] of the Financial Reporting Amendment Act 2011 (2011 No 22).
     
-    Section 2(1) **content**: inserted, on 14 March 2008, by [section 4][173] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 2(1) **broadcaster**: substituted, on 28 August 1990, by [section 3(1)][173] of the Broadcasting Amendment Act (No 2) 1990 (1990 No 103).
     
-    Section 2(1) **election programme**: inserted, on 20 December 2007, by [section 4][174] of the Broadcasting Amendment Act (No 2) 2007 (2007 No 112).
+    Section 2(1) **content**: inserted, on 14 March 2008, by [section 4][174] of the Broadcasting Amendment Act 2008 (2008 No 3).
     
-    Section 2(1) **individual**: inserted, on 1 July 2000, by [section 3(1)][175] of the Broadcasting Amendment Act 2000 (2000 No 3).
+    Section 2(1) **election programme**: inserted, on 20 December 2007, by [section 4][175] of the Broadcasting Amendment Act (No 2) 2007 (2007 No 112).
     
-    Section 2 **liquor**: amended, on 1 April 1990, pursuant to [section 230(2)][176] of the Sale of Liquor Act 1989 (1989 No 63).
+    Section 2(1) **individual**: inserted, on 1 July 2000, by [section 3(1)][176] of the Broadcasting Amendment Act 2000 (2000 No 3).
     
-    Section 2(1) **Minister**: substituted, on 1 July 2000, by [section 3(2)][175] of the Broadcasting Amendment Act 2000 (2000 No 3).
+    Section 2(1) **liquor**: repealed, on 18 December 2013, by [section 417(1)][171] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
+    
+    Section 2(1) **Minister**: substituted, on 1 July 2000, by [section 3(2)][176] of the Broadcasting Amendment Act 2000 (2000 No 3).
     
     Section 2(1) **series**: inserted, on 1 July 1996, by [section 2][177] of the Broadcasting Amendment Act 1996 (1996 No 53).
     
@@ -547,11 +549,11 @@ An Act---
     
     Section 2(1) **total revenue**: inserted, on 20 September 2007, by [section 4(2) ][178]of the Broadcasting Amendment Act 2007 (2007 No 42).
     
-    Section 2(1) **total revenue**: amended, on 1 July 2011, by [section 12][171] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 2(1) **total revenue**: amended, on 1 July 2011, by [section 12][172] of the Financial Reporting Amendment Act 2011 (2011 No 22).
     
-    Section 2(1) **transmit on demand**: inserted, on 14 March 2008, by [section 4][173] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 2(1) **transmit on demand**: inserted, on 14 March 2008, by [section 4][174] of the Broadcasting Amendment Act 2008 (2008 No 3).
     
-    Section 2(2): added, on 28 August 1990, by [section 3(3)][172] of the Broadcasting Amendment Act (No 2) 1990 (1990 No 103).
+    Section 2(2): added, on 28 August 1990, by [section 3(3)][173] of the Broadcasting Amendment Act (No 2) 1990 (1990 No 103).
 
 ##### 3 Act to bind the Crown
     
@@ -1082,7 +1084,7 @@ Broadcasting Standards Authority
         
         *   (iv) safeguards against the portrayal of persons in programmes in a manner that encourages denigration of, or discrimination against, sections of the community on account of sex, race, age, disability, or occupational status or as a consequence of legitimate expression of religious, cultural, or political beliefs:
         
-        *   (v) restrictions on the promotion of liquor:
+        *   (v) restrictions on the promotion of alcohol:
         
         *   (vi) presentation of appropriate warnings in respect of programmes, including programmes that have been classified as suitable only for particular audiences:
         
@@ -1108,19 +1110,21 @@ Broadcasting Standards Authority
     
     *   (b) any other Act that expressly provides for the functions, powers, or duties of the Authority (other than the [Crown Entities Act 2004][210]).
     
-    Section 21(1)(b): substituted, on 20 December 2007, by [section 7][213] of the Broadcasting Amendment Act (No 2) 2007 (2007 No 112).
+    Section 21(1)(b): replaced, on 20 December 2007, by [section 7][213] of the Broadcasting Amendment Act (No 2) 2007 (2007 No 112).
     
     Section 21(1)(ba): inserted, on 20 December 2007, by [section 7][213] of the Broadcasting Amendment Act (No 2) 2007 (2007 No 112).
     
-    Section 21(1)(e)(vii): added, on 1 July 2000, by [section 4(1)][214] of the Broadcasting Amendment Act 2000 (2000 No 3).
+    Section 21(1)(e)(v): amended, on 18 December 2013, by [section 417(1)][171] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
+    
+    Section 21(1)(e)(vii): inserted, on 1 July 2000, by [section 4(1)][214] of the Broadcasting Amendment Act 2000 (2000 No 3).
     
     Section 21(2): amended, on 14 March 2008, by [section 14][180] of the Broadcasting Amendment Act 2008 (2008 No 3).
     
-    Section 21(3): added, on 1 July 1993, by [section 5][215] of the Broadcasting Amendment Act 1993 (1993 No 69).
+    Section 21(3): inserted, on 1 July 1993, by [section 5][215] of the Broadcasting Amendment Act 1993 (1993 No 69).
     
-    Section 21(4): added, on 1 July 2000, by [section 4(2)][214] of the Broadcasting Amendment Act 2000 (2000 No 3).
+    Section 21(4): inserted, on 1 July 2000, by [section 4(2)][214] of the Broadcasting Amendment Act 2000 (2000 No 3).
     
-    Section 21(5): added, on 25 January 2005, by [section 200][211] of the Crown Entities Act 2004 (2004 No 115).
+    Section 21(5): inserted, on 25 January 2005, by [section 200][211] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 22 Notification and publication of approved codes of broadcasting practice
     
@@ -2973,13 +2977,15 @@ Regulations and orders revoked
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][222]
+*   Sale and Supply of Alcohol Act 2012 (2012 No 120): [section 417(1)][171]
+    
+    Legislation Act 2012 (2012 No 119): [section 77(3)][222]
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][200]
     
     Electoral (Administration) Amendment Act 2011 (2011 No 57): [section 53][253]
     
-    Financial Reporting Amendment Act 2011 (2011 No 22): [section 12][171]
+    Financial Reporting Amendment Act 2011 (2011 No 22): [section 12][172]
     
     Electoral (Administration) Amendment Act 2010 (2010 No 26): [section 32(2)(b)][260]
     
@@ -3034,8 +3040,6 @@ Regulations and orders revoked
     Commerce Amendment Act 1990 (1990 No 41): [section 46][306]
     
     Broadcasting Amendment Act 1990 (1990 No 2)
-    
-    Sale of Liquor Act 1989 (1989 No 63): [section 230(2)][176]
 
 
 
@@ -3206,16 +3210,16 @@ Regulations and orders revoked
 [164]: http://www.legislation.govt.nz/act/public/1989/0025/latest/whole.html#DLM158999
 [165]: http://www.legislation.govt.nz/act/public/1989/0025/latest/whole.html#DLM159200
 [166]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM184021
-[167]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM296645
-[168]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM165121
+[167]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM3339341
+[168]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM296645
 [169]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM324982
 [170]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM303777
-[171]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM3701759
-[172]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM222618
-[173]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1123212
-[174]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1093328
-[175]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM53452
-[176]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM167530
+[171]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM3339984
+[172]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM3701759
+[173]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM222618
+[174]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1123212
+[175]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1093328
+[176]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM53452
 [177]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM392909
 [178]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM968037
 [179]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM312894
