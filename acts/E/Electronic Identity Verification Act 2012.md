@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 18 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Department of Internal Affairs.
 
@@ -251,6 +251,8 @@ The Parliament of New Zealand enacts as follows:
     (3) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
     
     Section 2(1): Parts 2 and 3 (except sections 67 to 72) and Schedules 1 and 2 brought into force, on 2 April 2013, by the Electronic Identity Verification Act Commencement Order 2013 (SR 2013/8).
+    
+    Section 2(2): Sections 67 to 72 brought into force, on 18 December 2013, by [section 2(2)][104].
 
 ## Part 1  
 Preliminary provisions
@@ -379,13 +381,13 @@ Preliminary provisions
         
     *   (a) means any or all of the following:
             
-        *   (i) adoption information, birth information, death information, marriage information, civil union information, and name change information under the [Births, Deaths, Marriages, and Relationships Registration Act 1995][104]:
+        *   (i) adoption information, birth information, death information, marriage information, civil union information, and name change information under the [Births, Deaths, Marriages, and Relationships Registration Act 1995][105]:
         
-        *   (ii) citizenship information (within the meaning of [section 26A(6)][105] of the Citizenship Act 1977):
+        *   (ii) citizenship information (within the meaning of [section 26A(6)][106] of the Citizenship Act 1977):
         
-        *   (iii) identifying information (within the meaning of [section 303(8)][106] of the Immigration Act 2009, except that it also includes the expiry date of any visa granted to the individual (if applicable)):
+        *   (iii) identifying information (within the meaning of [section 303(8)][107] of the Immigration Act 2009, except that it also includes the expiry date of any visa granted to the individual (if applicable)):
         
-        *   (iv) New Zealand travel document information of a kind referred to in [section 37][107] of the Passports Act 1992:
+        *   (iv) New Zealand travel document information of a kind referred to in [section 37][108] of the Passports Act 1992:
         
         
     
@@ -409,27 +411,27 @@ Preliminary provisions
     
     _organisation_ includes---
         
-    *   (a) a person as defined in [section 29][108] of the Interpretation Act 1999; and
+    *   (a) a person as defined in [section 29][109] of the Interpretation Act 1999; and
     
     *   (b) a partnership; and
     
-    *   (c) a government department named in [Part 1][109] of Schedule 1 of the Ombudsmen Act 1975; and
+    *   (c) a government department named in [Part 1][110] of Schedule 1 of the Ombudsmen Act 1975; and
     
-    *   (d) a Crown entity as defined in [section 10(1)][110] of the Crown Entities Act 2004
+    *   (d) a Crown entity as defined in [section 10(1)][111] of the Crown Entities Act 2004
     
     _participating agency_ means a body, office, or officer declared by the Governor-General, by regulations made under [section 67][90], to be a participating agency for the purposes of this Act
     
-    _personal information_ has the meaning given to it by [section 2][111] of the Privacy Act 1993
+    _personal information_ has the meaning given to it by [section 2][112] of the Privacy Act 1993
     
     _photograph_ includes any electronic record of the photograph
     
     _pre-commencement electronic identity credential_ has the meaning given to it by [section 73][97]
     
-    _Privacy Commissioner_ means the Privacy Commissioner appointed under [section 12][112] of the Privacy Act 1993
+    _Privacy Commissioner_ means the Privacy Commissioner appointed under [section 12][113] of the Privacy Act 1993
     
-    _record of usage history_ means the record that the chief executive is required to keep under [section 44][113] about the usage history of each electronic identity credential
+    _record of usage history_ means the record that the chief executive is required to keep under [section 44][114] about the usage history of each electronic identity credential
     
-    _Registrar-General_ has the meaning given to it by [section 2][114] of the Births, Deaths, Marriages, and Relationships Registration Act 1995
+    _Registrar-General_ has the meaning given to it by [section 2][115] of the Births, Deaths, Marriages, and Relationships Registration Act 1995
     
     _Service_ means the Electronic Identity Verification Service described in [section 55][70]
     
@@ -445,7 +447,7 @@ Preliminary provisions
     
     *   (c) an offence against any other enactment involving a computer system on which the operation of the Service database relies
     
-    _State services_ has the meaning given to it by [section 2][115] of the State Sector Act 1988
+    _State services_ has the meaning given to it by [section 2][116] of the State Sector Act 1988
     
     _status_, in relation to an electronic identity credential, means the currency, expiry, amendment, cancellation, suspension, or revocation of the electronic identity credential
     
@@ -475,7 +477,7 @@ Preliminary provisions
     
     *   (b) in relation to the use of an electronic identity credential by a participating agency, means to use the credential to obtain or verify information about the identity of an individual by electronic means.
     
-    Section 7 **conviction on indictment**: repealed, on 1 July 2013, by [section 413][116] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 7 **conviction on indictment**: repealed, on 1 July 2013, by [section 413][117] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 2  
 Electronic identity verification
@@ -520,7 +522,7 @@ Electronic identity verification
     
     *   (c) other names the individual has used before applying for an electronic identity credential to be issued or renewed:
     
-    *   (d) other names the individual may use while an electronic identity credential is current (for example, a name change registered under [section 21B][117] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 or under a corresponding provision in overseas legislation)
+    *   (d) other names the individual may use while an electronic identity credential is current (for example, a name change registered under [section 21B][118] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 or under a corresponding provision in overseas legislation)
     
     Sex 
     
@@ -528,7 +530,7 @@ Electronic identity verification
         
     *   (a) the individual's sex as recorded at birth:
     
-    *   (b) the individual's nominated sex if the individual can provide to the chief executive evidence of a sex change (for example, a declaration of the Family Court under [section 28][118] or [29][119] of the Births, Deaths, Marriages, and Relationships Registration Act 1995)
+    *   (b) the individual's nominated sex if the individual can provide to the chief executive evidence of a sex change (for example, a declaration of the Family Court under [section 28][119] or [29][120] of the Births, Deaths, Marriages, and Relationships Registration Act 1995)
     
     Date of birth May include day, month, and year of birth
     
@@ -566,7 +568,7 @@ Electronic identity verification
 
 ##### 12 Exception to section 11 for certain individuals with new identity information
     
-*   (1) [Section 11][15] does not apply to an individual who is specified in subsection (2) for whom new identity information has been created under [section 65][120] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (which relates to the protection of certain witnesses, undercover police officers, and other protected persons).
+*   (1) [Section 11][15] does not apply to an individual who is specified in subsection (2) for whom new identity information has been created under [section 65][121] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (which relates to the protection of certain witnesses, undercover police officers, and other protected persons).
     
     (2) An individual referred to in subsection (1) (a _specified individual_) is a person who is, has been, or will be---
         
@@ -596,15 +598,15 @@ Electronic identity verification
     
     (9) In this section,---
         
-    *   (a) _Director of Security_ has the meaning given to it by [section 2][114] of the Births, Deaths, Marriages, and Relationships Registration Act 1995; and
+    *   (a) _Director of Security_ has the meaning given to it by [section 2][115] of the Births, Deaths, Marriages, and Relationships Registration Act 1995; and
     
-    *   (b) **employee**, **officer**, and **undercover Police officer** have the meanings given to them by [section 65(5)][120] of that Act.
+    *   (b) **employee**, **officer**, and **undercover Police officer** have the meanings given to them by [section 65(5)][121] of that Act.
     
     
 
 ##### 13 Limits of exception in section 12
     
-*   (1) The following individuals for whom new identity information has been created under [section 65][120] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 do not come within the exception set out in [section 12][16]:
+*   (1) The following individuals for whom new identity information has been created under [section 65][121] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 do not come within the exception set out in [section 12][16]:
         
     *   (a) an individual who is, has been, or will be a witness in any proceeding and who is not a specified individual:
     
@@ -726,7 +728,7 @@ Electronic identity verification
         
         
     
-    (6) In interpreting subsection (5)(d)(i), reference may be made to [sections 6][121] and [22(1)(a)][122] of the Electronic Transactions Act 2002\.
+    (6) In interpreting subsection (5)(d)(i), reference may be made to [sections 6][122] and [22(1)(a)][123] of the Electronic Transactions Act 2002\.
 
 ##### 20 Effect of change in status of electronic identity credential
     
@@ -798,7 +800,7 @@ Electronic identity verification
 
 ##### 25 Access to record of usage history via search warrant
     
-*   A District Court Judge or Justice or Community Magistrate or Registrar who is not a constable may issue a search warrant under the [Summary Proceedings Act 1957][123] to access an individual's record of usage history.
+*   A District Court Judge or Justice or Community Magistrate or Registrar who is not a constable may issue a search warrant under the [Summary Proceedings Act 1957][124] to access an individual's record of usage history.
 
 #### Applications 
 
@@ -898,11 +900,11 @@ Electronic identity verification
     
     *   (b) an individual's core identity information has changed as a result of the individual's adoption under any of the following:
             
-        *   (i) an adoption order under the [Adoption Act 1955][124]:
+        *   (i) an adoption order under the [Adoption Act 1955][125]:
         
         *   (ii) an adoption order that has the same operation and effect as an adoption order under that Act:
         
-        *   (iii) an adoption to which [section 17][125] of that Act or [section 11][126] of the Adoption (Intercountry) Act 1997 applies; or
+        *   (iii) an adoption to which [section 17][126] of that Act or [section 11][127] of the Adoption (Intercountry) Act 1997 applies; or
         
         
     
@@ -988,11 +990,11 @@ Electronic identity verification
         
     *   (a) the core identity information of the individual to whom it has been issued has changed as a result of the individual's adoption under any of the following:
             
-        *   (i) an adoption order under the [Adoption Act 1955][124]:
+        *   (i) an adoption order under the [Adoption Act 1955][125]:
         
         *   (ii) an adoption order that has the same operation and effect as an adoption order under that Act:
         
-        *   (iii) an adoption to which [section 17][125] of that Act or [section 11][126] of the Adoption (Intercountry) Act 1997 applies; or
+        *   (iii) an adoption to which [section 17][126] of that Act or [section 11][127] of the Adoption (Intercountry) Act 1997 applies; or
         
         
     
@@ -1100,11 +1102,11 @@ Electronic identity verification
     
     *   (b) the chief executive of each department of State that, for the time being, is responsible for the administration of any of the following Acts:
             
-        *   (i) the [Citizenship Act 1977][127]:
+        *   (i) the [Citizenship Act 1977][128]:
         
-        *   (ii) the [Immigration Act 2009][128]:
+        *   (ii) the [Immigration Act 2009][129]:
         
-        *   (iii) the [Passports Act 1992][129].
+        *   (iii) the [Passports Act 1992][130].
         
         
     
@@ -1134,7 +1136,7 @@ Electronic identity verification
     
 *   (1) The chief executive may keep and maintain information produced by a comparison undertaken in accordance with [section 39(4)][49] for use in auditing the access and use of that information by the Service or employees of the department for the purposes of this Act.
     
-    (2) This section applies despite [rule 6][130] of the information matching rules set out in Schedule 4 of the Privacy Act 1993\.
+    (2) This section applies despite [rule 6][131] of the information matching rules set out in Schedule 4 of the Privacy Act 1993\.
 
 #### Functions of chief executive
 
@@ -1196,7 +1198,7 @@ Electronic identity verification
     
     *   (b) with information withheld---
             
-        *   (i) for reasons in the [Official Information Act 1982][131]; or
+        *   (i) for reasons in the [Official Information Act 1982][132]; or
         
         *   (ii) to protect the security or integrity of the Service.
         
@@ -1362,7 +1364,7 @@ Electronic identity verification
     
     (6) A person who appears to act under a delegation is presumed to be acting in accordance with its terms in the absence of evidence to the contrary.
     
-    (7) This section does not limit or affect the chief executive's power of delegation under [section 41][132] of the State Sector Act 1988\.
+    (7) This section does not limit or affect the chief executive's power of delegation under [section 41][133] of the State Sector Act 1988\.
 
 ##### 51 Chief executive may enter into agreement with third party for performance of functions and duties, or exercise of powers, under this Act
     
@@ -1384,7 +1386,7 @@ Electronic identity verification
     
     *   (b) a third party with whom the chief executive has entered into an agreement under [section 51(1)(b)][64] for the performance of the chief executive's functions and duties, or the exercise of the chief executive's powers, under this Act.
     
-    (2) For the purposes of the [Ombudsmen Act 1975][133] and the [Official Information Act 1982][131], a person or third party to whom this section applies is to be treated as part of the department when performing the chief executive's functions and duties, or exercising the chief executive's powers, under this Act.
+    (2) For the purposes of the [Ombudsmen Act 1975][134] and the [Official Information Act 1982][132], a person or third party to whom this section applies is to be treated as part of the department when performing the chief executive's functions and duties, or exercising the chief executive's powers, under this Act.
 
 #### Reconsideration of decisions
 
@@ -1497,9 +1499,9 @@ Miscellaneous provisions
 
 ##### 58 Official Information Act 1982
     
-*   The following provisions apply to the relationship between this Act and the [Official Information Act 1982][131] (_OIA_):
+*   The following provisions apply to the relationship between this Act and the [Official Information Act 1982][132] (_OIA_):
         
-    *   (a) [sections 21 to 24][27] are given precedence by [section 52(3)(a) and (b)][134] of the OIA:
+    *   (a) [sections 21 to 24][27] are given precedence by [section 52(3)(a) and (b)][135] of the OIA:
     
     *   (b) [section 43(3)(b)(i)][55] incorporates by reference provisions of the OIA:
     
@@ -1509,25 +1511,25 @@ Miscellaneous provisions
 
 ##### 59 Privacy Act 1993
     
-*   (1) In this section, _PA_ means the [Privacy Act 1993][135].
+*   (1) In this section, _PA_ means the [Privacy Act 1993][136].
     
-    (2) When an individual's application to amend his or her electronic identity credential is refused, the right in [section 30(6)][37] applies instead of information privacy principle 7(3) in [section 6][136] of the PA.
+    (2) When an individual's application to amend his or her electronic identity credential is refused, the right in [section 30(6)][37] applies instead of information privacy principle 7(3) in [section 6][137] of the PA.
     
     (3) [Section 40(2)][50] excludes a provision of the PA.
     
-    (4) If regulations are made under [section 70(3)][93], the regulations apply instead of information privacy principle 9 in [section 6][136] of the PA.
+    (4) If regulations are made under [section 70(3)][93], the regulations apply instead of information privacy principle 9 in [section 6][137] of the PA.
     
-    (5) If core identity information held in electronic identity credentials, photographs, and records of usage history held in accordance with the provisions of this Act are to be disclosed, the disclosure is made in accordance with this Act, instead of information privacy principle 11 in [section 6][136] of the PA, as required by the precedence given to this Act by [section 7(1) and (2)][137] of the PA.
+    (5) If core identity information held in electronic identity credentials, photographs, and records of usage history held in accordance with the provisions of this Act are to be disclosed, the disclosure is made in accordance with this Act, instead of information privacy principle 11 in [section 6][137] of the PA, as required by the precedence given to this Act by [section 7(1) and (2)][138] of the PA.
     
-    (6) For the purposes of the PA, [Part 8][138], a person is taken to have breached an information privacy principle under its [section 66(1)(a)(i)][139] if the person contravenes a provision of this Act that---
+    (6) For the purposes of the PA, [Part 8][139], a person is taken to have breached an information privacy principle under its [section 66(1)(a)(i)][140] if the person contravenes a provision of this Act that---
         
     *   (a) imposes a prohibition or restriction in relation to the use or availability of personal information; or
     
     *   (b) regulates the manner in which personal information may be obtained, used, or made available.
     
-    (7) [Section 65(2)][86] saves the PA, [Part 8][138], from the exclusion of civil liability.
+    (7) [Section 65(2)][86] saves the PA, [Part 8][139], from the exclusion of civil liability.
     
-    (8) Neither the Service database nor the record of usage history is a public register within the meaning of [section 58][140] of the PA.
+    (8) Neither the Service database nor the record of usage history is a public register within the meaning of [section 58][141] of the PA.
 
 #### Offences and penalties
 
@@ -1573,7 +1575,7 @@ Miscellaneous provisions
     
     *   (b) if an organisation, a fine not exceeding $1,000,000\.
     
-    Section 60(3): amended, on 1 July 2013, by [section 413][116] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 60(3): amended, on 1 July 2013, by [section 413][117] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 61 Offence relating to improper issue
     
@@ -1581,7 +1583,7 @@ Miscellaneous provisions
     
     (2) A person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 10 years, or to a fine not exceeding $250,000, or to both.
     
-    Section 61(2): amended, on 1 July 2013, by [section 413][116] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 61(2): amended, on 1 July 2013, by [section 413][117] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 62 Offences relating to improper access and use
     
@@ -1617,7 +1619,7 @@ Miscellaneous provisions
     
     *   (b) if an organisation, a fine not exceeding $200,000\.
     
-    Section 62(4): amended, on 1 July 2013, by [section 413][116] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 62(4): amended, on 1 July 2013, by [section 413][117] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 63 Offences involving statements or documentation
     
@@ -1631,7 +1633,7 @@ Miscellaneous provisions
     
     (2) A person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 5 years, or to a fine not exceeding $50,000, or to both.
     
-    Section 63(2): amended, on 1 July 2013, by [section 413][116] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 63(2): amended, on 1 July 2013, by [section 413][117] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Court orders
 
@@ -1663,7 +1665,7 @@ Miscellaneous provisions
     
     *   (b) purporting to perform functions or duties or exercise powers under this Act.
     
-    (2) The persons referred to in subsection (1) are subject to [Part 8][138] of the Privacy Act 1993 in respect of the act or omission, but---
+    (2) The persons referred to in subsection (1) are subject to [Part 8][139] of the Privacy Act 1993 in respect of the act or omission, but---
         
     *   (a) have no other civil liability for the act or omission; and
     
@@ -1707,11 +1709,11 @@ Miscellaneous provisions
     
 *   (1) The Governor-General may, by Order in Council, make regulations declaring any of the following to be a participating agency for the purposes of this Act:
         
-    *   (a) a government department named in [Part 1][109] of Schedule 1 of the Ombudsmen Act 1975:
+    *   (a) a government department named in [Part 1][110] of Schedule 1 of the Ombudsmen Act 1975:
     
-    *   (b) an organisation named in [Part 2][141] of Schedule 1 of the Ombudsmen Act 1975:
+    *   (b) an organisation named in [Part 2][142] of Schedule 1 of the Ombudsmen Act 1975:
     
-    *   (c) a local organisation named in [Part 3][142] of Schedule 1 of the Ombudsmen Act 1975:
+    *   (c) a local organisation named in [Part 3][143] of Schedule 1 of the Ombudsmen Act 1975:
     
     *   (d) any other organisation, whether part of the State services or not:
     
@@ -1940,31 +1942,31 @@ Identity information checks
 
 ## Contents
 
-[Preliminary][143]
+[Preliminary][144]
 
-[1 ][144][][144][Purpose of schedule][144]
+[1 ][145][][145][Purpose of schedule][145]
 
-[2 ][145][][145][Interpretation][145]
+[2 ][146][][146][Interpretation][146]
 
-[Identity information checks][146]
+[Identity information checks][147]
 
-[3 ][147][][147][Conditions for carrying out identity information check][147]
+[3 ][148][][148][Conditions for carrying out identity information check][148]
 
-[4 ][148][][148][How identity information check is carried out][148]
+[4 ][149][][149][How identity information check is carried out][149]
 
-[Confirmation agreements][149]
+[Confirmation agreements][150]
 
-[5 ][150][][150][Parties to confirmation agreement][150]
+[5 ][151][][151][Parties to confirmation agreement][151]
 
-[6 ][151][][151][Form and content of confirmation agreement][151]
+[6 ][152][][152][Form and content of confirmation agreement][152]
 
-[7 ][152][][152][Standard terms or conditions for confirmation agreement][152]
+[7 ][153][][153][Standard terms or conditions for confirmation agreement][153]
 
-[8 ][153][][153][Periodic review of terms or conditions of confirmation agreements generally][153]
+[8 ][154][][154][Periodic review of terms or conditions of confirmation agreements generally][154]
 
-[Information requirements][154]
+[Information requirements][155]
 
-[9 ][155][][155][List of agencies][155]
+[9 ][156][][156][List of agencies][156]
 
 ---
 
@@ -1998,7 +2000,7 @@ Identity information checks
     
     *   (c) also includes any information about the status of any other recorded information referred to in paragraph (b) 
     
-    _identity information check_ means a check that is carried out for the purpose described in [clause 1][144]
+    _identity information check_ means a check that is carried out for the purpose described in [clause 1][145]
     
     _recorded information_ means information that is recorded in or on an agency's database.
     
@@ -2014,7 +2016,7 @@ Identity information checks
     
     *   (b) the chief executive has given the agency an assurance (in written or electronic form) that the individual has consented to the check; and
     
-    *   (c) the chief executive and the agency are parties to a confirmation agreement that complies with [clause 6][151]; and
+    *   (c) the chief executive and the agency are parties to a confirmation agreement that complies with [clause 6][152]; and
     
     *   (d) the check is carried out in accordance with the agreement; and
     
@@ -2084,7 +2086,7 @@ Identity information checks
     
     (3) In addition, a confirmation agreement must specify the following terms or conditions:
         
-    *   (a) the conditions for carrying out identity information checks, including the conditions specified in [clause 3][147]; and
+    *   (a) the conditions for carrying out identity information checks, including the conditions specified in [clause 3][148]; and
     
     *   (b) the manner in which the chief executive may obtain an individual's consent for an identity information check; and
     
@@ -2102,7 +2104,7 @@ Identity information checks
     
     *   (i) the process for monitoring the parties' compliance with the terms or conditions of the agreement, including the requirement for the parties to keep, for monitoring purposes, records in respect of identity information checks and the requirement to provide those records to the Privacy Commissioner if requested; and
     
-    *   (j) the requirement that the chief executive must consult the Privacy Commissioner about the terms or conditions of confirmation agreements, including the consultation requirements in [clause 7][152].
+    *   (j) the requirement that the chief executive must consult the Privacy Commissioner about the terms or conditions of confirmation agreements, including the consultation requirements in [clause 7][153].
     
     (4) A confirmation agreement may specify any other terms or conditions that the parties consider to be appropriate.
     
@@ -2134,7 +2136,7 @@ Identity information checks
     
 *   (1) The Privacy Commissioner may, at intervals not shorter than 12 months, require the chief executive to---
         
-    *   (a) review the terms or conditions of any confirmation agreement (whether or not they are standard terms or conditions developed under [clause 7][152]); and
+    *   (a) review the terms or conditions of any confirmation agreement (whether or not they are standard terms or conditions developed under [clause 7][153]); and
     
     *   (b) report on the outcome of the review to the Privacy Commissioner.
     
@@ -2164,9 +2166,9 @@ Consequential amendments
 ## Part 1  
 Amendments to Acts
 
-##### [Criminal Procedure Act 2011][156] (2011 No 81)
+##### [Criminal Procedure Act 2011][157] (2011 No 81)
 
-[Schedule 3][157]: insert:
+[Schedule 3][158]: insert:
 
 > ##### "Electronic Identity Verification Act 2012 (2012 No 123) 
 > 
@@ -2180,13 +2182,13 @@ Amendments to Acts
 > 
 > "Section 63(2): omit "'on indictment'"."
 
-##### [Privacy Act 1993][135] (1993 No 28)
+##### [Privacy Act 1993][136] (1993 No 28)
 
-[Schedule 3][158]: insert in its appropriate alphabetical order:
+[Schedule 3][159]: insert in its appropriate alphabetical order:
 
 Electronic Identity Verification Act 2012Section 39
 
-##### [Search and Surveillance Act 2012][159] (2012 No 24)
+##### [Search and Surveillance Act 2012][160] (2012 No 24)
 
 New section 239A: insert:
 
@@ -2198,9 +2200,9 @@ New section 239A: insert:
 > 
 > 
 
-##### [Summary Proceedings Act 1957][123] (1957 No 87)
+##### [Summary Proceedings Act 1957][124] (1957 No 87)
 
-[Part 2][160] of Schedule 1: insert in its appropriate alphabetical order:
+[Part 2][161] of Schedule 1: insert in its appropriate alphabetical order:
 
 Electronic Identity Verification Act 201260 
 
@@ -2221,9 +2223,9 @@ Offences involving statements or documentation
 ## Part 2  
 Amendment to regulations
 
-##### [Customs and Excise Regulations 1996][161] (SR 1996/232)
+##### [Customs and Excise Regulations 1996][162] (SR 1996/232)
 
-[Regulation 74(3)(b)][162]: revoke and substitute:
+[Regulation 74(3)(b)][163]: revoke and substitute:
 
 > *   "(b) any of the following:
 >         
@@ -2239,15 +2241,7 @@ Amendment to regulations
 > 
 > 
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
@@ -2255,60 +2249,27 @@ Amendment to regulations
 
 ###### 1 General
     
-*   This is a reprint of the Electronic Identity Verification Act 2012\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][163] ![](/images/external_link.gif).
+*   This is a reprint of the Electronic Identity Verification Act 2012 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][164] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][164] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][165] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][165] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][166] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][167] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
-    
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][166] and [17E][167] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
-    
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+###### 4 Amendments incorporated in this reprint
     
 *   [Electronic Identity Verification Act Commencement Order 2013][168] (SR 2013/8)
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][116]
+    Electronic Identity Verification Act 2012 (2012 No 123): [section 2(2)][2]
+    
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][117]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2012/0123/latest/whole.html#DLM1777805
 [2]: http://www.legislation.govt.nz/act/public/2012/0123/latest/whole.html#DLM1777806
 [3]: http://www.legislation.govt.nz/act/public/2012/0123/latest/whole.html#DLM1777807
@@ -2412,68 +2373,68 @@ Amendment to regulations
 [101]: http://www.legislation.govt.nz/act/public/2012/0123/latest/whole.html#DLM1777925
 [102]: http://www.legislation.govt.nz/act/public/2012/0123/latest/whole.html#DLM3967949
 [103]: http://www.legislation.govt.nz/act/public/2012/0123/latest/whole.html#DLM3967954
-[104]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM359368
-[105]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM444014
-[106]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM2391029
-[107]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM278329
-[108]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM31803
-[109]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM431205
-[110]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM329649
-[111]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM296645
-[112]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM297053
-[113]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM1777896
-[114]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM359378
-[115]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM129117
-[116]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM3360714
-[117]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM1805769
-[118]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM364150
-[119]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM364151
-[120]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM364720
-[121]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM154812
-[122]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM154837
-[123]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM310742
-[124]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM292660
-[125]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM293196
-[126]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM423030
-[127]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM443683
-[128]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM1440300
-[129]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM277432
-[130]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM298795
-[131]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM64784
-[132]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM129566
-[133]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM430983
-[134]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM65917
-[135]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM296638
-[136]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM297038
-[137]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM297046
-[138]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM297439
-[139]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM297441
-[140]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM297424
-[141]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM431296
-[142]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM431685
-[143]: http://www.legislation.govt.nz/act/public/2012/0123/latest/whole.html#DLM3967950
-[144]: http://www.legislation.govt.nz/act/public/2012/0123/latest/whole.html#DLM3885835
-[145]: http://www.legislation.govt.nz/act/public/2012/0123/latest/whole.html#DLM3885803
-[146]: http://www.legislation.govt.nz/act/public/2012/0123/latest/whole.html#DLM3967951
-[147]: http://www.legislation.govt.nz/act/public/2012/0123/latest/whole.html#DLM3885836
-[148]: http://www.legislation.govt.nz/act/public/2012/0123/latest/whole.html#DLM3885837
-[149]: http://www.legislation.govt.nz/act/public/2012/0123/latest/whole.html#DLM3967952
-[150]: http://www.legislation.govt.nz/act/public/2012/0123/latest/whole.html#DLM3885840
-[151]: http://www.legislation.govt.nz/act/public/2012/0123/latest/whole.html#DLM3885841
-[152]: http://www.legislation.govt.nz/act/public/2012/0123/latest/whole.html#DLM3885843
-[153]: http://www.legislation.govt.nz/act/public/2012/0123/latest/whole.html#DLM3885845
-[154]: http://www.legislation.govt.nz/act/public/2012/0123/latest/whole.html#DLM3967953
-[155]: http://www.legislation.govt.nz/act/public/2012/0123/latest/whole.html#DLM3885848
-[156]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM3359902
-[157]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM3360935
-[158]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM298748
-[159]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM2136500
-[160]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM314314
-[161]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM220030
-[162]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM221275
-[163]: http://www.pco.parliament.govt.nz/reprints/
-[164]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM195439
-[165]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[166]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM195468
-[167]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM195470
+[104]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM1777806
+[105]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM359368
+[106]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM444014
+[107]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM2391029
+[108]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM278329
+[109]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM31803
+[110]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM431205
+[111]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM329649
+[112]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM296645
+[113]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM297053
+[114]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM1777896
+[115]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM359378
+[116]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM129117
+[117]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM3360714
+[118]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM1805769
+[119]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM364150
+[120]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM364151
+[121]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM364720
+[122]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM154812
+[123]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM154837
+[124]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM310742
+[125]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM292660
+[126]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM293196
+[127]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM423030
+[128]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM443683
+[129]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM1440300
+[130]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM277432
+[131]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM298795
+[132]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM64784
+[133]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM129566
+[134]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM430983
+[135]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM65917
+[136]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM296638
+[137]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM297038
+[138]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM297046
+[139]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM297439
+[140]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM297441
+[141]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM297424
+[142]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM431296
+[143]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM431685
+[144]: http://www.legislation.govt.nz/act/public/2012/0123/latest/whole.html#DLM3967950
+[145]: http://www.legislation.govt.nz/act/public/2012/0123/latest/whole.html#DLM3885835
+[146]: http://www.legislation.govt.nz/act/public/2012/0123/latest/whole.html#DLM3885803
+[147]: http://www.legislation.govt.nz/act/public/2012/0123/latest/whole.html#DLM3967951
+[148]: http://www.legislation.govt.nz/act/public/2012/0123/latest/whole.html#DLM3885836
+[149]: http://www.legislation.govt.nz/act/public/2012/0123/latest/whole.html#DLM3885837
+[150]: http://www.legislation.govt.nz/act/public/2012/0123/latest/whole.html#DLM3967952
+[151]: http://www.legislation.govt.nz/act/public/2012/0123/latest/whole.html#DLM3885840
+[152]: http://www.legislation.govt.nz/act/public/2012/0123/latest/whole.html#DLM3885841
+[153]: http://www.legislation.govt.nz/act/public/2012/0123/latest/whole.html#DLM3885843
+[154]: http://www.legislation.govt.nz/act/public/2012/0123/latest/whole.html#DLM3885845
+[155]: http://www.legislation.govt.nz/act/public/2012/0123/latest/whole.html#DLM3967953
+[156]: http://www.legislation.govt.nz/act/public/2012/0123/latest/whole.html#DLM3885848
+[157]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM3359902
+[158]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM3360935
+[159]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM298748
+[160]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM2136500
+[161]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM314314
+[162]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM220030
+[163]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM221275
+[164]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM2998516
+[165]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM2998515
+[166]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM2998532
+[167]: http://www.pco.parliament.govt.nz/editorial-conventions/
 [168]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM5018300
