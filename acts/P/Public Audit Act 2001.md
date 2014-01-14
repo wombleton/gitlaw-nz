@@ -1,5 +1,5 @@
 Reprint  
-as at 28 November 2013
+as at 18 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -1044,7 +1044,7 @@ Airport companies authorised by the [Airport Authorities Act 1966][131] to exerc
 
 Community trusts continued in existence by [section 298][132] of the Local Government Act 2002\.
 
-Community trusts established or amalgamated under [Part 9A][133] of the Sale of Liquor Act 1989\.
+Community trusts established or amalgamated under [Part 3][133] of the Sale and Supply of Alcohol Act 2012\.
 
 Companies named in [Schedule 4A][134] of the Public Finance Act 1989
 
@@ -1060,7 +1060,7 @@ Energy companies which are public entities under [section 45(1)][138] of the Ene
 
 Intelligence and security departments as defined by [section 2(1)][95] of the Public Finance Act 1989\.
 
-Licensing trusts constituted by [section 185][139] of the Sale of Liquor Act 1989 or specified in [Schedule 3][140] of that Act.
+Licensing trusts constituted by [section 234][139] of the Sale and Supply of Alcohol Act 2012 or specified in [Schedule 1][140] of that Act.
 
 Local authorities means local authorities as defined in [section 5(1)][97] of the Local Government Act 2002\.
 
@@ -1081,13 +1081,16 @@ State enterprises as listed in [Schedule 1][94] of the State-Owned Enterprises A
 Trustees as defined in [section 2][147] of the Burial and Cremation Act 1964\.
     
 *   Schedule 1 Community trusts continued in existence by section 298 of the Local Government Act 2002: amended, on 1 July 2003, by [section 262][101] of the Local Government Act 2002 (2002 No 84).
-*   Schedule 1 Community trusts established or amalgamated under Part 9A of the Sale of Liquor Act 1989: inserted, on 1 October 2004, by [section 8(2)][148] of the Sale of Liquor Amendment Act 2004 (2004 No 21).
+*   Schedule 1 Community trusts established or amalgamated under Part 3 of the Sale and Supply of Alcohol Act 2012: inserted, on 18 December 2013, by [section 417(1)][148] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
+*   Schedule 1 Community trusts established or amalgamated under Part 9A of the Sale of Liquor Act 1989: repealed, on 18 December 2013, by [section 417(1)][148] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
 *   Schedule 1 Companies named in Schedule 4A of the Public Finance Act 1989: inserted, on 18 July 2013, by [section 57][117] of the Public Finance Amendment Act 2013 (2013 No 50)
 *   Schedule 1 Council-controlled organisations: inserted, on 1 July 2003, by [section 262][101] of the Local Government Act 2002 (2002 No 84).
 *   Schedule 1 Crown entities: amended, on 25 January 2005, by [section 200][149] of the Crown Entities Act 2004 (2004 No 115).
 *   Schedule 1 Educational bodies: inserted, on 25 January 2005, by [section 200][149] of the Crown Entities Act 2004 (2004 No 115).
 *   Schedule 1 Electricity trusts: repealed, on 8 August 2001, by [section 22(1)][150] of the Electricity Amendment Act 2001 (2001 No 40).
 *   Schedule 1 Intelligence and security departments: inserted, on 25 January 2005, by [section 37(1)][105] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Schedule 1 Licensing trusts constituted by section 185 of the Sale of Liquor Act 1989: repealed, on 18 December 2013, by [section 417(1)][148] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
+*   Schedule 1 Licensing trusts constituted by section 234 of the Sale and Supply of Alcohol Act 2012: inserted, on 18 December 2013, by [section 417(1)][148] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
 *   Schedule 1 Local authorities: amended, on 1 July 2003, by [section 262][101] of the Local Government Act 2002 (2002 No 84).
 *   Schedule 1 Local authority trading enterprises: repealed, on 1 July 2003, by [section 262][101] of the Local Government Act 2002 (2002 No 84).
 *   Schedule 1 Maori Trust Boards: repealed, on 16 September 2011, by [section 8(2)][151] of the Maori Trust Boards Amendment Act 2011 (2011 No 75).
@@ -1798,6 +1801,8 @@ _Amendment(s) incorporated in the regulations_.
     
     Public Finance Amendment Act 2013 (2013 No 50): [section 57][117]
     
+    Sale and Supply of Alcohol Act 2012 (2012 No 120): [section 417(1)][148]
+    
     Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45): [section 11][152]
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][119]
@@ -1832,7 +1837,7 @@ _Amendment(s) incorporated in the regulations_.
     
     Local Government (Auckland) Amendment Act 2004 (2004 No 57): [section 48(1)(c)][128]
     
-    Sale of Liquor Amendment Act 2004 (2004 No 21): [section 8(2)][148]
+    Sale of Liquor Amendment Act 2004 (2004 No 21): [section 8(2)][253]
     
     Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Act 2003 (2003 No 21): [section 60][161]
     
@@ -1848,7 +1853,7 @@ _Amendment(s) incorporated in the regulations_.
     
     Cadastral Survey Act 2002 (2002 No 12): [section 68(1)][168]
     
-    [Public Audit (West Coast Development Trust) Order 2002][253] (SR 2002/17)
+    [Public Audit (West Coast Development Trust) Order 2002][254] (SR 2002/17)
     
     Electricity Amendment Act 2001 (2001 No 40): [section 22][150]
     
@@ -1989,14 +1994,14 @@ _Amendment(s) incorporated in the regulations_.
 [130]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM444310
 [131]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM379823
 [132]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM174229
-[133]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM167231
+[133]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM3339827
 [134]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM5466801
 [135]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM329641
 [136]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM130706
 [137]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM175958
 [138]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM267772
-[139]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM166657
-[140]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM167912
+[139]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM3339731
+[140]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM3340037
 [141]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM276326
 [142]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM163652
 [143]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM163544
@@ -2004,7 +2009,7 @@ _Amendment(s) incorporated in the regulations_.
 [145]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM246958
 [146]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM394158
 [147]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM355084
-[148]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM243522
+[148]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM3339984
 [149]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM331111
 [150]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM97748
 [151]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM4009727
@@ -2109,4 +2114,5 @@ _Amendment(s) incorporated in the regulations_.
 [250]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM2998515
 [251]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM2998532
 [252]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[253]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM109392
+[253]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM243522
+[254]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM109392
