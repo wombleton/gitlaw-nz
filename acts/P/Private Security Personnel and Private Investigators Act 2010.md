@@ -1,5 +1,5 @@
 Reprint  
-as at 5 December 2013
+as at 18 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -601,9 +601,9 @@ Preliminary provisions
         
     *   (a) guarding a specific person or persons; or
     
-    *   (b) guarding a specific person or persons and keeping order at any place (not being premises or a conveyance licensed under the [Sale of Liquor Act 1989][198]) where the person or persons being guarded may be.
+    *   (b) guarding a specific person or persons and keeping order at any place (not being premises or a conveyance licensed under the [Sale and Supply of Alcohol Act 2012][198]) where the person or persons being guarded may be.
     
-    
+    Section 10(b): amended, on 18 December 2013, by [section 417(1)][199] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
 
 ##### 11 Meaning of crowd controller
     
@@ -707,9 +707,9 @@ Preliminary provisions
         
     *   (a) guards a specific person or persons; or
     
-    *   (b) guards a specific person or persons and keeps order at any place (not being premises or a conveyance licensed under the [Sale of Liquor Act 1989][198]) where the person or persons being guarded may be.
+    *   (b) guards a specific person or persons and keeps order at any place (not being premises or a conveyance licensed under the [Sale and Supply of Alcohol Act 2012][198]) where the person or persons being guarded may be.
     
-    
+    Section 18(b): amended, on 18 December 2013, by [section 417(1)][199] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
 
 ##### 19 Meaning of crowd controller employee
     
@@ -743,7 +743,7 @@ Preliminary provisions
         
     *   (a) has consulted the persons or organisations that, in the opinion of the Minister, have an interest in the proposed declaration and is satisfied that there is no material benefit to be gained by requiring the persons concerned to hold certificates of approval; or
     
-    *   (b) is satisfied that the benefit to be gained by requiring the persons concerned to hold certificates of approval is outweighed by the public interest in ensuring that there are sufficient persons doing the work described in [sections 17 to 19][18] available to work at a major event declared under [section 7][199] of the Major Events Management Act 2007, or events (whether or not organised by the major event organiser) associated with the major event.
+    *   (b) is satisfied that the benefit to be gained by requiring the persons concerned to hold certificates of approval is outweighed by the public interest in ensuring that there are sufficient persons doing the work described in [sections 17 to 19][18] available to work at a major event declared under [section 7][200] of the Major Events Management Act 2007, or events (whether or not organised by the major event organiser) associated with the major event.
     
     
 
@@ -802,7 +802,7 @@ Licences and certificates
     
     *   (b) in the case of a body corporate, to a fine not exceeding $60,000\.
     
-    Section 23(2): amended, on 1 July 2013, by [section 413][200] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 23(2): amended, on 1 July 2013, by [section 413][201] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Applying for licence
 
@@ -1082,7 +1082,7 @@ Licences and certificates
     
     (5) Every licensee who contravenes subsection (1) or (4) commits an offence against this Act.
     
-    Compare: 1974 No 48 [s 31][201]
+    Compare: 1974 No 48 [s 31][202]
 
 ##### 40 Persons not to act as officers of licensed company without consent of Licensing Authority
     
@@ -1102,11 +1102,11 @@ Licences and certificates
     
     (6) Every licensee who, being a company, employs any person or permits any person to act as an officer of the company in contravention of subsection (1), commits an offence and is liable on conviction to a fine not exceeding $20,000\.
     
-    Compare: 1974 No 48 [s 32][202]
+    Compare: 1974 No 48 [s 32][203]
     
-    Section 40(5): amended, on 1 July 2013, by [section 413][200] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 40(5): amended, on 1 July 2013, by [section 413][201] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 40(6): amended, on 1 July 2013, by [section 413][200] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 40(6): amended, on 1 July 2013, by [section 413][201] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 41 Amendment of licence
     
@@ -1174,7 +1174,7 @@ Licences and certificates
     
     (3) This section is subject to section 61\.
     
-    Section 44(2): amended, on 1 July 2013, by [section 413][200] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 44(2): amended, on 1 July 2013, by [section 413][201] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 45 Offences by licensees, etc, relating to requirements to hold certificate of approval
     
@@ -1188,7 +1188,7 @@ Licences and certificates
     
     (5) This section is subject to [section 61][81].
     
-    Section 45(3): amended, on 1 July 2013, by [section 413][200] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 45(3): amended, on 1 July 2013, by [section 413][201] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Applying for certificate of approval
 
@@ -1240,7 +1240,7 @@ Licences and certificates
     
     (2) The application must not be heard before the expiry of 7 days after subsection (1) has been complied with.
     
-    Section 48(2): amended, on 5 December 2013, by [section 4][203] of the Private Security Personnel and Private Investigators Amendment Act 2013 (2013 No 128).
+    Section 48(2): amended, on 5 December 2013, by [section 4][204] of the Private Security Personnel and Private Investigators Amendment Act 2013 (2013 No 128).
 
 #### Objections
 
@@ -1252,7 +1252,7 @@ Licences and certificates
     
     (3) The Licensing Authority must serve a copy of the notice of objection on the applicant within 7 days after it is filed with the Licensing Authority.
     
-    Section 49(1): replaced, on 5 December 2013, by [section 5][204] of the Private Security Personnel and Private Investigators Amendment Act 2013 (2013 No 128).
+    Section 49(1): replaced, on 5 December 2013, by [section 5][205] of the Private Security Personnel and Private Investigators Amendment Act 2013 (2013 No 128).
 
 #### Hearing of application
 
@@ -1454,37 +1454,37 @@ Licences and certificates
         
     *   (a) has been ordered by a court to be detained in a hospital owing to his or her mental condition and is currently subject to such an order; or
     
-    *   (b) has ever had an order made in relation to him or her under [section 34(1)(b)][205] of the Criminal Procedure (Mentally Impaired Persons) Act 2003, [section 118][206] of the Criminal Justice Act 1985, or section 39J of the Criminal Justice Act 1954 (being an order imposed, instead of passing sentence, that the offender be treated or cared for in a manner that the offender's mental impairment requires, either in the offender's interest, or for the safety of the public, or for the safety of a person or class of person); or
+    *   (b) has ever had an order made in relation to him or her under [section 34(1)(b)][206] of the Criminal Procedure (Mentally Impaired Persons) Act 2003, [section 118][207] of the Criminal Justice Act 1985, or section 39J of the Criminal Justice Act 1954 (being an order imposed, instead of passing sentence, that the offender be treated or cared for in a manner that the offender's mental impairment requires, either in the offender's interest, or for the safety of the public, or for the safety of a person or class of person); or
     
     *   (c) has ever been ordered by a court to be detained in a penal institution following conviction for an offence and that conviction or order has not been quashed on appeal; or
     
-    *   (d) has ever been convicted of a specified offence as defined in [section 4][207] of the Criminal Records (Clean Slate) Act 2004; or
+    *   (d) has ever been convicted of a specified offence as defined in [section 4][208] of the Criminal Records (Clean Slate) Act 2004; or
     
-    *   (e) has ever been disqualified from driving under [section 65][208] of the Land Transport Act 1998 or an earlier equivalent provision; or
+    *   (e) has ever been disqualified from driving under [section 65][209] of the Land Transport Act 1998 or an earlier equivalent provision; or
     
     *   (f) has, within the preceding 7 years, been convicted of any---
             
-        *   (i) offence under the [Arms Act 1983][209]; or
+        *   (i) offence under the [Arms Act 1983][210]; or
         
-        *   (ii) offence under any of [sections 216H to 216J][210] of the Crimes Act 1961; or
+        *   (ii) offence under any of [sections 216H to 216J][211] of the Crimes Act 1961; or
         
-        *   (iii) offence under [section 10][211], [11][212], [13][213], [16][214], [19][215], [21][216], [24][217], [47F][218], or [47J][219] of the Fair Trading Act 1986; or
+        *   (iii) offence under [section 10][212], [11][213], [13][214], [16][215], [19][216], [21][217], [24][218], [47F][219], or [47J][220] of the Fair Trading Act 1986; or
         
-        *   (iv) offence under [section 8][220] or [25][221] of the Harassment Act 1997; or
+        *   (iv) offence under [section 8][221] or [25][222] of the Harassment Act 1997; or
         
-        *   (v) offence against [section 6][222] of the Misuse of Drugs Act 1975 in relation to a Class A controlled drug, a Class B controlled drug, or a Class C controlled drug, in relation to which the amount, level, or quantity at and over which the drug is presumed to be for supply is specified in [Schedule 5][223] of that Act; or
+        *   (v) offence against [section 6][223] of the Misuse of Drugs Act 1975 in relation to a Class A controlled drug, a Class B controlled drug, or a Class C controlled drug, in relation to which the amount, level, or quantity at and over which the drug is presumed to be for supply is specified in [Schedule 5][224] of that Act; or
         
         *   (vi) offence of dishonesty; or
         
         *   (vii) offence of violence; or
         
-        *   (viii) offence under this Act of working while not holding a licence or relevant certificate of approval or employing or engaging a person without a relevant certificate of approval, or an offence under [section 16][224], [34][225], or [52][226] of the Private Investigators and Security Guards Act 1974; or
+        *   (viii) offence under this Act of working while not holding a licence or relevant certificate of approval or employing or engaging a person without a relevant certificate of approval, or an offence under [section 16][225], [34][226], or [52][227] of the Private Investigators and Security Guards Act 1974; or
         
         
     
     *   (g) holds a licence or certificate of approval that has been suspended; or
     
-    *   (h) has, within the preceding 7 years, had a licence or certificate of approval cancelled under this Act or the [Private Investigators and Security Guards Act 1974][227]; or
+    *   (h) has, within the preceding 7 years, had a licence or certificate of approval cancelled under this Act or the [Private Investigators and Security Guards Act 1974][228]; or
     
     *   (i) does not meet the requirements prescribed in regulations made under [section 114(1)(h)][152]; or
     
@@ -1500,21 +1500,21 @@ Licences and certificates
         
     *   (a) the company has, within the preceding 7 years, been convicted of any---
             
-        *   (i) offence under [section 10][211], [11][212], [12][228], [16][214], [19][215], [21][216], [24][217], [47F][218], or [47J][219] of the Fair Trading Act 1986; or
+        *   (i) offence under [section 10][212], [11][213], [12][229], [16][215], [19][216], [21][217], [24][218], [47F][219], or [47J][220] of the Fair Trading Act 1986; or
         
         *   (ii) offence of dishonesty; or
         
-        *   (iii) offence against [section 6][222] of the Misuse of Drugs Act 1975 in relation to a Class A controlled drug, a Class B controlled drug, or a Class C controlled drug, in relation to which the amount, level, or quantity at and over which the drug is presumed to be for supply is specified in [Schedule 5][223] of that Act; or
+        *   (iii) offence against [section 6][223] of the Misuse of Drugs Act 1975 in relation to a Class A controlled drug, a Class B controlled drug, or a Class C controlled drug, in relation to which the amount, level, or quantity at and over which the drug is presumed to be for supply is specified in [Schedule 5][224] of that Act; or
         
-        *   (iv) offence under this Act of operating while unlicensed or employing or engaging a person without a certificate of approval, or an offence under [section 16][224], [34][225], or [52][226] of the Private Investigators and Security Guards Act 1974; or
+        *   (iv) offence under this Act of operating while unlicensed or employing or engaging a person without a certificate of approval, or an offence under [section 16][225], [34][226], or [52][227] of the Private Investigators and Security Guards Act 1974; or
         
         
     
     *   (b) the company holds a licence that has been suspended; or
     
-    *   (c) the company has, within the preceding 7 years, had a licence cancelled under this Act or the [Private Investigators and Security Guards Act 1974][227]; or
+    *   (c) the company has, within the preceding 7 years, had a licence cancelled under this Act or the [Private Investigators and Security Guards Act 1974][228]; or
     
-    *   (d) an officer of the company was, or is, an officer of another company (whether or not that other company is still in existence) that, within the preceding 7 years, had a licence cancelled under this Act or the [Private Investigators and Security Guards Act 1974][227]; or
+    *   (d) an officer of the company was, or is, an officer of another company (whether or not that other company is still in existence) that, within the preceding 7 years, had a licence cancelled under this Act or the [Private Investigators and Security Guards Act 1974][228]; or
     
     *   (e) any of the grounds of disqualification in [section 62(a) to (h)][84] apply to any officer of the company; or
     
@@ -1557,9 +1557,9 @@ Responsibilities of licensees and certificate holders
     
     (3) A licensee who knowingly contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $2,000\.
     
-    Compare: 1974 No 48 [s 45][229]
+    Compare: 1974 No 48 [s 45][230]
     
-    Section 65(3): amended, on 1 July 2013, by [section 413][200] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 65(3): amended, on 1 July 2013, by [section 413][201] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 66 Production of certificate of approval
     
@@ -1577,9 +1577,9 @@ Responsibilities of licensees and certificate holders
     
     (3) A certificate holder who knowingly contravenes subsection (1) or (2) commits an offence and is liable on conviction to a fine not exceeding $2,000\.
     
-    Compare: 1974 No 48 [s 46][230]
+    Compare: 1974 No 48 [s 46][231]
     
-    Section 66(3): amended, on 1 July 2013, by [section 413][200] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 66(3): amended, on 1 July 2013, by [section 413][201] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 67 Requirement to wear identification badge
     
@@ -1593,7 +1593,7 @@ Responsibilities of licensees and certificate holders
     
     (5) A licensee or certificate holder who intentionally contravenes this section commits an offence and is liable on conviction to a fine not exceeding $2,000\.
     
-    Section 67(5): amended, on 1 July 2013, by [section 413][200] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 67(5): amended, on 1 July 2013, by [section 413][201] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 68 Identification badge
     
@@ -1615,7 +1615,7 @@ Responsibilities of licensees and certificate holders
     
 *   A licensee or certificate holder or person who employs or engages any crowd controller employee commits an offence and is liable on conviction to a fine not exceeding $2,000 who fails without reasonable excuse to comply with any requirement to keep records that is prescribed in regulations made under [section 114][152].
     
-    Section 69: amended, on 1 July 2013, by [section 413][200] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 69: amended, on 1 July 2013, by [section 413][201] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 70 Access by Police and Complaints, Investigation, and Prosecution Unit to records
     
@@ -1633,7 +1633,7 @@ Responsibilities of licensees and certificate holders
     
     (3) A licensee or certificate holder or person who employs or engages any crowd controller employee commits an offence and is liable on conviction to a fine not exceeding $2,000 if the licensee or certificate holder or person fails without reasonable excuse to comply with subsection (1).
     
-    Section 70(3): amended, on 1 July 2013, by [section 413][200] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 70(3): amended, on 1 July 2013, by [section 413][201] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 71 Updating certificate information
     
@@ -1665,7 +1665,7 @@ Responsibilities of licensees and certificate holders
     
     (4) A licensee who knowingly contravenes subsection (1) or (3) commits an offence.
     
-    Compare: 1974 No 48 [s 48][231]
+    Compare: 1974 No 48 [s 48][232]
 
 ## Part 4  
 Discipline
@@ -1696,7 +1696,7 @@ Discipline
     
     (6) The complainant must, within 7 days after filing the complaint with the Licensing Authority, serve a copy of the complaint on the licensee.
     
-    Compare: 1974 No 48 [s 53][232]
+    Compare: 1974 No 48 [s 53][233]
 
 ##### 74 Complaint against certificate holder
     
@@ -1776,7 +1776,7 @@ Discipline
     
     (9) The Licensing Authority may at any time, on its own motion or on the application of the licensee or the certificate holder, revoke an order of suspension made under this section.
     
-    Compare: 1974 No 48 [s 55][233]
+    Compare: 1974 No 48 [s 55][234]
 
 #### Disciplinary hearing
 
@@ -1908,7 +1908,7 @@ Discipline
     
     *   (b) a person specified in subsection (2) has been convicted of an offence under any of the provisions specified in [Schedule 1][171]:
     
-    *   (c) a person specified in subsection (2) in the course of carrying on the business to which the licence relates uses any dog and, in respect of that dog, is convicted of an offence against any of the provisions of the [Dog Control Act 1996][234]:
+    *   (c) a person specified in subsection (2) in the course of carrying on the business to which the licence relates uses any dog and, in respect of that dog, is convicted of an offence against any of the provisions of the [Dog Control Act 1996][235]:
     
     *   (d) a person specified in subsection (2), having been convicted of an offence against this Act is, within 3 years after the date of the conviction, again convicted of an offence against this Act:
     
@@ -2010,7 +2010,7 @@ Discipline
     
     *   (b) the certificate holder has been convicted of an offence under any of the provisions specified in [Schedule 1][171]:
     
-    *   (c) the certificate holder, in the course of carrying on the business to which the certificate relates, uses any dog and, in respect of that dog, is convicted of an offence against any of the provisions of the [Dog Control Act 1996][234]:
+    *   (c) the certificate holder, in the course of carrying on the business to which the certificate relates, uses any dog and, in respect of that dog, is convicted of an offence against any of the provisions of the [Dog Control Act 1996][235]:
     
     *   (d) the certificate holder, having been convicted of an offence against this Act is, within 3 years after the date of the conviction, again convicted of an offence against this Act:
     
@@ -2036,7 +2036,7 @@ Discipline
     
 *   For the purposes of any proceedings under this Part, a certificate containing the substance of the conviction of any person of any offence purporting to be signed by the Registrar of the Court by which the person was convicted is sufficient evidence of that conviction without proof of the signature or official character of the person appearing to have signed the certificate.
     
-    Compare: 1974 No 48 [s 61][235]
+    Compare: 1974 No 48 [s 61][236]
 
 ##### 85 Cancelled and suspended licences and certificates of approval must be returned to Licensing Authority
     
@@ -2063,7 +2063,7 @@ Licensing Authority and Complaints, Investigation, and Prosecution Unit
     
     (2) Subject to [section 89(2)][122], the office of Licensing Authority may be held concurrently with any other office.
     
-    Compare: 1974 No 48 [s 5][236]
+    Compare: 1974 No 48 [s 5][237]
 
 ##### 88 Functions of Authority
     
@@ -2083,7 +2083,7 @@ Licensing Authority and Complaints, Investigation, and Prosecution Unit
     
     (2) No public servant may hold office as the Licensing Authority.
     
-    Compare: 1974 No 48 [s 6][237]
+    Compare: 1974 No 48 [s 6][238]
 
 ##### 90 Term of office of Licensing Authority
     
@@ -2097,7 +2097,7 @@ Licensing Authority and Complaints, Investigation, and Prosecution Unit
     
     (3) The Governor-General may, on the recommendation of the responsible Minister, at any time remove the Licensing Authority for inability to perform the functions of office, bankruptcy, neglect of duty, or misconduct, and the person removed is not entitled to compensation.
     
-    Compare: 1974 No 48 [s 7][238]
+    Compare: 1974 No 48 [s 7][239]
 
 ##### 91 Deputy Private Security Personnel Licensing Authority
     
@@ -2119,37 +2119,37 @@ Licensing Authority and Complaints, Investigation, and Prosecution Unit
     
     (7) No appointment of a deputy under this section, and no act done by him or her when acting as Licensing Authority, may be questioned in any proceedings on the grounds that the occasion for the appointment had not arisen or had ceased.
     
-    Compare: 1974 No 48 [s 8][239]
+    Compare: 1974 No 48 [s 8][240]
 
 ##### 92 Remuneration, and status under certain Acts
     
 *   (1) The Licensing Authority and any Deputy Licensing Authority must be paid fees and expenses in accordance with the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies, as if the Licensing Authority were the chairperson of a statutory body and any Deputy Licensing Authority were a member of that body.
     
-    (2) For the purposes of the [State Sector Act 1988][240] and the [Government Superannuation Fund Act 1956][241], a Licensing Authority or Deputy Licensing Authority is not, by reason merely of that appointment, employed in the service of the Crown.
+    (2) For the purposes of the [State Sector Act 1988][241] and the [Government Superannuation Fund Act 1956][242], a Licensing Authority or Deputy Licensing Authority is not, by reason merely of that appointment, employed in the service of the Crown.
     
-    Compare: 1974 No 48 [s 9][242]
+    Compare: 1974 No 48 [s 9][243]
 
 ##### 93 Licensing Authority to be Commission of Inquiry for certain purposes
     
-*   (1) Where under this Act the Licensing Authority has the function of hearing or determining any matter, the Licensing Authority has the same powers as are conferred on a Commission of Inquiry by [sections 4][243], [4B][244], [4C][245], [4D][246], [10][247], and [11][248] of the Commissions of Inquiry Act 1908 in respect of an inquiry under that Act.
+*   (1) Where under this Act the Licensing Authority has the function of hearing or determining any matter, the Licensing Authority has the same powers as are conferred on a Commission of Inquiry by [sections 4][244], [4B][245], [4C][246], [4D][247], [10][248], and [11][249] of the Commissions of Inquiry Act 1908 in respect of an inquiry under that Act.
     
-    (2) Subject to the other provisions of this Act, the provisions of the [Commissions of Inquiry Act 1908][249] referred to in subsection (1) and [sections 5][250], [6][251], [7][252], [9][253], [12][254], and [14][255] of that Act apply.
+    (2) Subject to the other provisions of this Act, the provisions of the [Commissions of Inquiry Act 1908][250] referred to in subsection (1) and [sections 5][251], [6][252], [7][253], [9][254], [12][255], and [14][256] of that Act apply.
     
     (3) At the hearing of any matter under any of [sections 31][38], [41][52], [42][53], [51][67], [58][76], and [59][77], the Licensing Authority may receive as evidence any statement, document, information, or matter that in his or her opinion may assist him or her to deal with the matter, whether or not it would be otherwise admissible in a court of law.
     
-    Compare: 1974 No 48 [s 10][256]
+    Compare: 1974 No 48 [s 10][257]
 
 ##### 94 Protection of Licensing Authority and Deputy Licensing Authorities
     
 *   Neither the Licensing Authority nor any Deputy Licensing Authority is personally liable for any act done or omission made by him or her while acting in good faith while performing or exercising his or her functions, powers, and duties under this Act.
     
-    Compare: 1974 No 48 [s 11][257]
+    Compare: 1974 No 48 [s 11][258]
 
 ##### 95 Administrative and secretarial services
     
 *   The chief executive of the responsible department must provide for the Licensing Authority and any Deputy Licensing Authorities the administrative and secretarial services that may be necessary to enable those persons to exercise their functions and powers, and perform their duties, under this Act.
     
-    Compare: 1974 No 48 [s 12][258]
+    Compare: 1974 No 48 [s 12][259]
 
 ##### 96 Delegations
     
@@ -2219,7 +2219,7 @@ Licensing Authority and Complaints, Investigation, and Prosecution Unit
     
     (4) The Licensing Authority must determine the form of the registers, and may amend the form from time to time as he or she considers necessary, providing that the content of the registers is as required by subsections (2) and (3).
     
-    Compare: 1974 No 48 [s 13][259]
+    Compare: 1974 No 48 [s 13][260]
 
 ##### 98 Inspection of registers
     
@@ -2245,7 +2245,7 @@ Licensing Authority and Complaints, Investigation, and Prosecution Unit
     
     *   (b) a statement as to any entry in a register.
     
-    Compare: 1974 No 48 [s 15][260]
+    Compare: 1974 No 48 [s 15][261]
 
 #### Complaints, Investigation, and Prosecution Unit
 
@@ -2302,7 +2302,7 @@ General and miscellaneous provisions
     
     (3) The appeal---
         
-    *   (a) must be made by way of originating application in accordance with the [District Courts Rules 2009][261]; and
+    *   (a) must be made by way of originating application in accordance with the [District Courts Rules 2009][262]; and
     
     *   (b) must be filed in the office of the District Court nearest to the registered office of the licensee (if a company) or principal place of business of the licensee (if not a company), or to the place of employment or engagement of the certificate holder, as the case may require.
     
@@ -2316,7 +2316,7 @@ General and miscellaneous provisions
     
     (5) Subject to any order of the court, every decision of the Licensing Authority against which an appeal is made continues in force and has effect according to its tenor pending the determination of the appeal.
     
-    Compare: 1974 No 48 [s 64][262]
+    Compare: 1974 No 48 [s 64][263]
 
 ##### 103 Appeals to High Court on questions of law only
     
@@ -2342,7 +2342,7 @@ General and miscellaneous provisions
     
     (5) A person who commits an offence under this section is liable on conviction to a fine not exceeding $20,000\.
     
-    Section 104(5): amended, on 1 July 2013, by [section 413][200] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 104(5): amended, on 1 July 2013, by [section 413][201] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 105 Providing false information
     
@@ -2352,7 +2352,7 @@ General and miscellaneous provisions
     
     *   (b) gives false information knowing that it is false or being reckless as to whether it is false.
     
-    Section 105: amended, on 1 July 2013, by [section 413][200] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 105: amended, on 1 July 2013, by [section 413][201] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 106 Liability of officers of company for offences
     
@@ -2362,7 +2362,7 @@ General and miscellaneous provisions
     
 *   A person who commits an offence under this Act, or against any regulations made under this Act, for which no penalty is otherwise provided by this Act or by the regulations, is liable on conviction to a fine not exceeding $2,000\.
     
-    Section 107: amended, on 1 July 2013, by [section 413][200] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 107: amended, on 1 July 2013, by [section 413][201] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 108 Defence to charges involving failure to show or make copy of document, or show or make available any thing
     
@@ -2392,9 +2392,9 @@ General and miscellaneous provisions
     
     (3) Every person who contravenes subsection (2) commits an offence and is liable on conviction to a fine not exceeding $20,000\.
     
-    Compare: 1974 No 48 [s 66][263]
+    Compare: 1974 No 48 [s 66][264]
     
-    Section 109(3): amended, on 1 July 2013, by [section 413][200] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 109(3): amended, on 1 July 2013, by [section 413][201] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 110 Misleading conduct
     
@@ -2412,7 +2412,7 @@ General and miscellaneous provisions
     
     (3) Every person who contravenes subsection (2) commits an offence against this Act.
     
-    Section 110(3): amended, on 5 December 2013, by [section 6][264] of the Private Security Personnel and Private Investigators Amendment Act 2013 (2013 No 128).
+    Section 110(3): amended, on 5 December 2013, by [section 6][265] of the Private Security Personnel and Private Investigators Amendment Act 2013 (2013 No 128).
 
 ##### 111 Lost licences and certificates of approval
     
@@ -2422,7 +2422,7 @@ General and miscellaneous provisions
     
     *   (b) on receipt of a photograph of the holder that, in the opinion of the Licensing Authority, complies with the requirements (if any) of any regulations made under this Act.
     
-    Compare: 1974 No 48 [s 67][265]
+    Compare: 1974 No 48 [s 67][266]
 
 ##### 112 Voluntary surrender of licence or certificate of approval
     
@@ -2440,7 +2440,7 @@ General and miscellaneous provisions
     
     *   (c) for any act done or default or omission made before the date of surrender.
     
-    Compare: 1974 No 48 [s 68][266]
+    Compare: 1974 No 48 [s 68][267]
 
 ##### 113 Change of place of business
     
@@ -2456,7 +2456,7 @@ General and miscellaneous provisions
     
     (3) If the Licensing Authority grants the application, the Authority must endorse the licence accordingly and return it to the licensee, and must also notify the Commissioner of Police in writing of that fact.
     
-    Compare: 1974 No 48 [s 69][267]
+    Compare: 1974 No 48 [s 69][268]
 
 ##### 114 Regulations
     
@@ -2546,33 +2546,33 @@ General and miscellaneous provisions
     
     (5) Where under this Act any notice or other document is to be given to or served on the Police, it may be given to or served on the senior member, for the time being, of the police in the district or place of residence of the applicant, or holder of the licence or certificate of approval, to whom the notice or other document relates.
     
-    Compare: 1974 No 48 [s 72][268]
+    Compare: 1974 No 48 [s 72][269]
 
 ##### 117 Photographs
     
 *   If under this Act any photograph is to be submitted to the Licensing Authority, the Licensing Authority may require that the photograph comply with the requirements of any regulations made under this Act.
     
-    Compare: 1974 No 48 [s 72B][269]
+    Compare: 1974 No 48 [s 72B][270]
 
 ##### 118 Civil remedies not affected
     
 *   Nothing in this Act affects any civil remedy that any person may have against a holder of a licence or certificate of approval in respect of any matter.
     
-    Compare: 1974 No 48 [s 73][270]
+    Compare: 1974 No 48 [s 73][271]
 
 #### Repeals, revocations, and amendments
 
 ##### 119 Repeals
     
-*   The [Private Investigators and Security Guards Act 1974][227] is repealed.
+*   The [Private Investigators and Security Guards Act 1974][228] is repealed.
 
 ##### 120 Revocations
     
 *   The following enactments are revoked:
         
-    *   (a) the [Private Investigators and Security Guards Act Commencement Order 1975][271] (SR 1975/187):
+    *   (a) the [Private Investigators and Security Guards Act Commencement Order 1975][272] (SR 1975/187):
     
-    *   (b) the [Private Investigators and Security Guards Regulations 1975][272] (SR 1975/188).
+    *   (b) the [Private Investigators and Security Guards Regulations 1975][273] (SR 1975/188).
     
     
 
@@ -2586,19 +2586,19 @@ General and miscellaneous provisions
 
 ##### 122 Existing licences
     
-*   (1) A person who, immediately before the commencement of this Act, held a licence as a security guard under the [Private Investigators and Security Guards Act 1974][227] for the classes of business described in [section 4(1)(a) or (e)][273] of that Act is deemed to hold a licence under this Act as a property guard and a confidential document destruction agent.
+*   (1) A person who, immediately before the commencement of this Act, held a licence as a security guard under the [Private Investigators and Security Guards Act 1974][228] for the classes of business described in [section 4(1)(a) or (e)][274] of that Act is deemed to hold a licence under this Act as a property guard and a confidential document destruction agent.
     
-    (2) A person who, immediately before the commencement of this Act, held a licence as a security guard under the [Private Investigators and Security Guards Act 1974][227] for the classes of business described in [section 4(1)(b) or (c)][273] of that Act is deemed to hold a licence under this Act as a security technician.
+    (2) A person who, immediately before the commencement of this Act, held a licence as a security guard under the [Private Investigators and Security Guards Act 1974][228] for the classes of business described in [section 4(1)(b) or (c)][274] of that Act is deemed to hold a licence under this Act as a security technician.
     
-    (3) A person who, immediately before the commencement of this Act, held a licence as a security guard under the [Private Investigators and Security Guards Act 1974][227] for the class of business described in [section 4(1)(d)][273] of that Act is deemed to hold a licence under this Act as a security consultant.
+    (3) A person who, immediately before the commencement of this Act, held a licence as a security guard under the [Private Investigators and Security Guards Act 1974][228] for the class of business described in [section 4(1)(d)][274] of that Act is deemed to hold a licence under this Act as a security consultant.
     
-    (4) A person who, immediately before the commencement of this Act, held a licence as a private investigator under the [Private Investigators and Security Guards Act 1974][227] is deemed to hold a licence under this Act as a private investigator.
+    (4) A person who, immediately before the commencement of this Act, held a licence as a private investigator under the [Private Investigators and Security Guards Act 1974][228] is deemed to hold a licence under this Act as a private investigator.
 
 ##### 123 Application of Act to, and expiry of, existing licences
     
 *   (1) This section applies to a licence that is deemed by [section 122][162] to be held under this Act.
     
-    (2) Any matters specified on the licence under [section 26(3)][274] or [28(2)][275] of the Private Investigators and Security Guards Act 1974 are deemed to be conditions imposed under [section 33(7)][41] of this Act.
+    (2) Any matters specified on the licence under [section 26(3)][275] or [28(2)][276] of the Private Investigators and Security Guards Act 1974 are deemed to be conditions imposed under [section 33(7)][41] of this Act.
     
     (3) Nothing in [section 43][54] applies in respect of the licence.
     
@@ -2612,11 +2612,11 @@ General and miscellaneous provisions
 
 ##### 124 Existing certificates of approval
     
-*   (1) A person who, immediately before the commencement of this Act, held a certificate of approval as a responsible employee in relation to a security guard licensed under the [Private Investigators and Security Guards Act 1974][227] to carry on the classes of business described in [section 4(1)(a) or (e)][273] of that Act is deemed to hold a certificate of approval under this Act as a property guard employee and a confidential document destruction agent employee.
+*   (1) A person who, immediately before the commencement of this Act, held a certificate of approval as a responsible employee in relation to a security guard licensed under the [Private Investigators and Security Guards Act 1974][228] to carry on the classes of business described in [section 4(1)(a) or (e)][274] of that Act is deemed to hold a certificate of approval under this Act as a property guard employee and a confidential document destruction agent employee.
     
-    (2) A person who, immediately before the commencement of this Act, held a certificate of approval as a responsible employee in relation to a security guard licensed under the [Private Investigators and Security Guards Act 1974][227] to carry on the classes of business described in [section 4(1)(b) or (c)][273] of that Act is deemed to hold a certificate of approval under this Act as a security technician employee.
+    (2) A person who, immediately before the commencement of this Act, held a certificate of approval as a responsible employee in relation to a security guard licensed under the [Private Investigators and Security Guards Act 1974][228] to carry on the classes of business described in [section 4(1)(b) or (c)][274] of that Act is deemed to hold a certificate of approval under this Act as a security technician employee.
     
-    (3) A person who, immediately before the commencement of this Act, held a certificate of approval as a responsible employee in relation to a security guard licensed under the [Private Investigators and Security Guards Act 1974][227] to carry on the class of business described in [section 4(1)(d)][273] of that Act is deemed to hold a certificate of approval under this Act as a security consultant employee.
+    (3) A person who, immediately before the commencement of this Act, held a certificate of approval as a responsible employee in relation to a security guard licensed under the [Private Investigators and Security Guards Act 1974][228] to carry on the class of business described in [section 4(1)(d)][274] of that Act is deemed to hold a certificate of approval under this Act as a security consultant employee.
     
     (4) A person who, immediately before the commencement of this Act, held a certificate of approval as a responsible employee in relation to a private investigator is deemed to hold a certificate of approval under this Act as a private investigator employee.
 
@@ -2646,23 +2646,23 @@ General and miscellaneous provisions
 
 ##### 127 Applications in progress
     
-*   (1) This section applies to any application for a licence or certificate of approval made under the [Private Investigators and Security Guards Act 1974][227] that, immediately before the commencement of this Act, was not yet determined.
+*   (1) This section applies to any application for a licence or certificate of approval made under the [Private Investigators and Security Guards Act 1974][228] that, immediately before the commencement of this Act, was not yet determined.
     
-    (2) The [Private Investigators and Security Guards Act 1974][227] continues to apply to the application as if it had not been repealed.
+    (2) The [Private Investigators and Security Guards Act 1974][228] continues to apply to the application as if it had not been repealed.
     
     (3) If an application to which this section applies is granted, [section 122][162] or [124][164] applies to the licence or certificate of approval as if the licence or certificate had been in force immediately before the commencement of this Act.
 
 ##### 128 Disciplinary proceedings in progress
     
-*   (1) This section applies to any complaint made against a licensee or certificate holder under [section 53][232] of the Private Investigators and Security Guards Act 1974 that, immediately before the commencement of this section, was not yet determined.
+*   (1) This section applies to any complaint made against a licensee or certificate holder under [section 53][233] of the Private Investigators and Security Guards Act 1974 that, immediately before the commencement of this section, was not yet determined.
     
-    (2) The [Private Investigators and Security Guards Act 1974][227] continues to apply in respect of the complaint as if it had not been repealed.
+    (2) The [Private Investigators and Security Guards Act 1974][228] continues to apply in respect of the complaint as if it had not been repealed.
 
 ##### 129 Provisions relating to Registrar
     
-*   (1) The Registrar under the [Private Investigators and Security Guards Act 1974][227] remains in office until the close of 31 October 2011 to determine the applications and proceedings referred to in [sections 127][167] and [128][168].
+*   (1) The Registrar under the [Private Investigators and Security Guards Act 1974][228] remains in office until the close of 31 October 2011 to determine the applications and proceedings referred to in [sections 127][167] and [128][168].
     
-    (2) For the purposes of [sections 127][167] and [128][168], the Registrar has all the necessary powers and may exercise, despite the repeal of the [Private Investigators and Security Guards Act 1974][227] by this Act, the powers conferred on the Registrar by that Act.
+    (2) For the purposes of [sections 127][167] and [128][168], the Registrar has all the necessary powers and may exercise, despite the repeal of the [Private Investigators and Security Guards Act 1974][228] by this Act, the powers conferred on the Registrar by that Act.
     
     (3) After 31 October 2011, any applications or proceedings still to be completed must be referred to the Licensing Authority, and [sections 127][167] and [128][168] apply.
     
@@ -2670,13 +2670,13 @@ General and miscellaneous provisions
         
     *   (a) all information that the Registrar holds in respect of applications and proceedings in progress; and
     
-    *   (b) the registers kept under [section 13][259] of the Private Investigators and Security Guards Act 1974\.
+    *   (b) the registers kept under [section 13][260] of the Private Investigators and Security Guards Act 1974\.
     
-    (5) To avoid doubt, nothing in this Act entitles the Registrar to any compensation in respect of the repeal of the [Private Investigators and Security Guards Act 1974][227], including for any salary or allowances that would otherwise be payable for the remainder of the term of an appointment affected by the repeal.
+    (5) To avoid doubt, nothing in this Act entitles the Registrar to any compensation in respect of the repeal of the [Private Investigators and Security Guards Act 1974][228], including for any salary or allowances that would otherwise be payable for the remainder of the term of an appointment affected by the repeal.
 
 ##### 130 Savings provision for Order in Council
     
-*   The [Private Investigators (Exclusion of Occupations) Order 1976][276] (SR 1976/128) continues to have effect and may be amended, revoked, or replaced under [section 12][13].
+*   The [Private Investigators (Exclusion of Occupations) Order 1976][277] (SR 1976/128) continues to have effect and may be amended, revoked, or replaced under [section 12][13].
 
 ---
 
@@ -2700,7 +2700,7 @@ Amendments to Acts
 
 ##### Dog Control Act 1996 (1996 No 13)
 
-Definition of _working dog_ in [section 2][277]: repeal paragraph (b)(v) and substitute:
+Definition of _working dog_ in [section 2][278]: repeal paragraph (b)(v) and substitute:
 
 > *   "(v) owned by a property guard as defined in section 9 of the Private Security Personnel and Private Investigators Act 2010 or a property guard employee as defined in section 17 of that Act, and kept solely or principally for the purpose of doing the things specified in section 9(1)(a) to (c) of that Act; or".
 > 
@@ -2708,15 +2708,15 @@ Definition of _working dog_ in [section 2][277]: repeal paragraph (b)(v) and sub
 
 ##### Financial Transactions Reporting Act 1996 (1996 No 9)
 
-[Section 3(2)][278]: omit ""security guard within the meaning of section 4 of the Private Investigators and Security Guards Act 1974"" and substitute ""security technician, security consultant, confidential document destruction agent, or property guard within the meaning of the Private Security Personnel and Private Investigators Act 2010"".
+[Section 3(2)][279]: omit ""security guard within the meaning of section 4 of the Private Investigators and Security Guards Act 1974"" and substitute ""security technician, security consultant, confidential document destruction agent, or property guard within the meaning of the Private Security Personnel and Private Investigators Act 2010"".
 
 ##### Ombudsmen Act 1975 (1975 No 9)
 
-[Part 2][279] of Schedule 1: insert in its appropriate alphabetical order: ""Private Security Personnel Licensing Authority"".
+[Part 2][280] of Schedule 1: insert in its appropriate alphabetical order: ""Private Security Personnel Licensing Authority"".
 
 ##### Privacy Act 1993 (1993 No 28)
 
-[Schedule 2][280]: insert in its appropriate alphabetical order the following item:
+[Schedule 2][281]: insert in its appropriate alphabetical order the following item:
 
 > Private Security Personnel and Private Investigators Act 2010 Section 97
 > 
@@ -2724,7 +2724,7 @@ Definition of _working dog_ in [section 2][277]: repeal paragraph (b)(v) and sub
 
 ##### Resource Management Act 1991 (1991 No 69)
 
-[Section 38(2)(a)][281]: repeal and substitute:
+[Section 38(2)(a)][282]: repeal and substitute:
 
 > *   "(a) the holder of a licence as a property guard issued under section 34 of the Private Security Personnel and Private Investigators Act 2010; or".
 > 
@@ -2739,7 +2739,7 @@ s 121(2)
 
 ##### Domestic Violence (Public Registers) Regulations 1998 (SR 1998/342)
 
-[Schedule 1][282]: Insert in the appropriate alphabetical order the following item:
+[Schedule 1][283]: Insert in the appropriate alphabetical order the following item:
 
 > Private Security Personnel and Private Investigators Act 2010 Section 97
 > 
@@ -2747,15 +2747,15 @@ s 121(2)
 
 ##### Land Transport (Driver Licensing) Rule 1999 (SR 1999/100)
 
-[Rule 26(2)(f)(iii)][283]: omit ""security guard"" and substitute ""personal guard"".
+[Rule 26(2)(f)(iii)][284]: omit ""security guard"" and substitute ""personal guard"".
 
-[Rule 26(3)][283]: revoke the definition of _security guard_ and substitute:
+[Rule 26(3)][284]: revoke the definition of _security guard_ and substitute:
 
 > "_personal guard_ has the meaning given to it in section 10 of the Private Security Personnel and Private Investigators Act 2010".
 
 ##### Land Transport (Road User) Rule 2004 (SR 2004/427)
 
-[Rule 7.4(4)(c)][284]: omit ""security guard's licence issued under the Private Investigators and Security Guards Act 1974"" and substitute ""licence as a property guard under the Private Security Personnel and Private Investigators Act 2010"".
+[Rule 7.4(4)(c)][285]: omit ""security guard's licence issued under the Private Investigators and Security Guards Act 1974"" and substitute ""licence as a property guard under the Private Security Personnel and Private Investigators Act 2010"".
 
 #### 
 
@@ -2769,17 +2769,19 @@ s 121(2)
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][285] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][286] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][286] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][287] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][287] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][288] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][288] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][289] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [Private Security Personnel and Private Investigators Amendment Act 2013][289] (2013 No 128)
+*   [Private Security Personnel and Private Investigators Amendment Act 2013][290] (2013 No 128)
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][200]
+    Sale and Supply of Alcohol Act 2012 (2012 No 120): [section 417(1)][199]
+    
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][201]
 
 
 
@@ -2981,95 +2983,96 @@ s 121(2)
 [195]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM320630
 [196]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM1102132
 [197]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM313301
-[198]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM165115
-[199]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM413043
-[200]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM3360714
-[201]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414705
-[202]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414706
-[203]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM5623808
-[204]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM5623809
-[205]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM224504
-[206]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM78549
-[207]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM280848
-[208]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM434820
-[209]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM72621
-[210]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM329855
-[211]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM96904
-[212]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM96905
-[213]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM96908
-[214]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM96923
-[215]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM96945
-[216]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM96947
-[217]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM96950
-[218]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM97335
-[219]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM97343
-[220]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM417733
-[221]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM417765
-[222]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM436222
-[223]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM436784
-[224]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414675
-[225]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414717
-[226]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414749
-[227]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414295
-[228]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM96906
-[229]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414736
-[230]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414737
-[231]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414742
-[232]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414752
-[233]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414755
-[234]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM374409
-[235]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414772
-[236]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414659
-[237]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414660
-[238]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414661
-[239]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414662
-[240]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM129109
-[241]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM446000
-[242]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414663
-[243]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM139145
-[244]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM139153
-[245]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM139155
-[246]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM139157
-[247]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM139170
-[248]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM139172
-[249]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM139130
-[250]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM139159
-[251]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM139161
-[252]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM139163
-[253]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM139167
-[254]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM139174
-[255]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM139191
-[256]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414664
-[257]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414667
-[258]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414668
-[259]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414670
-[260]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414673
-[261]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM2300100
-[262]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414777
-[263]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414786
-[264]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM5623810
-[265]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414788
-[266]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414789
-[267]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414791
-[268]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414796
-[269]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414799
-[270]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414801
-[271]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM46673
-[272]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM46682
-[273]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414652
-[274]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414697
-[275]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414701
-[276]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM49178
-[277]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM374415
-[278]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM373873
-[279]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM431296
-[280]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM298476
-[281]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM233057
-[282]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM264449
-[283]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM281374
-[284]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM303622
-[285]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM2998516
-[286]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM2998515
-[287]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM2998532
-[288]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[289]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM5623800
+[198]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM3339302
+[199]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM3339984
+[200]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM413043
+[201]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM3360714
+[202]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414705
+[203]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414706
+[204]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM5623808
+[205]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM5623809
+[206]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM224504
+[207]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM78549
+[208]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM280848
+[209]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM434820
+[210]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM72621
+[211]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM329855
+[212]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM96904
+[213]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM96905
+[214]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM96908
+[215]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM96923
+[216]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM96945
+[217]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM96947
+[218]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM96950
+[219]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM97335
+[220]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM97343
+[221]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM417733
+[222]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM417765
+[223]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM436222
+[224]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM436784
+[225]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414675
+[226]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414717
+[227]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414749
+[228]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414295
+[229]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM96906
+[230]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414736
+[231]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414737
+[232]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414742
+[233]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414752
+[234]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414755
+[235]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM374409
+[236]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414772
+[237]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414659
+[238]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414660
+[239]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414661
+[240]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414662
+[241]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM129109
+[242]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM446000
+[243]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414663
+[244]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM139145
+[245]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM139153
+[246]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM139155
+[247]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM139157
+[248]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM139170
+[249]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM139172
+[250]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM139130
+[251]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM139159
+[252]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM139161
+[253]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM139163
+[254]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM139167
+[255]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM139174
+[256]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM139191
+[257]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414664
+[258]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414667
+[259]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414668
+[260]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414670
+[261]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414673
+[262]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM2300100
+[263]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414777
+[264]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414786
+[265]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM5623810
+[266]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414788
+[267]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414789
+[268]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414791
+[269]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414796
+[270]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414799
+[271]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414801
+[272]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM46673
+[273]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM46682
+[274]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414652
+[275]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414697
+[276]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM414701
+[277]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM49178
+[278]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM374415
+[279]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM373873
+[280]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM431296
+[281]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM298476
+[282]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM233057
+[283]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM264449
+[284]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM281374
+[285]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM303622
+[286]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM2998516
+[287]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM2998515
+[288]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM2998532
+[289]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[290]: http://www.legislation.govt.nz/act/public/2010/0115/latest/link.aspx?id=DLM5623800
