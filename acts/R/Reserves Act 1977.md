@@ -1,5 +1,5 @@
 Reprint  
-as at 25 October 2013
+as at 18 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -3727,7 +3727,7 @@ Miscellaneous provisions
     
     *   (e) the control of all persons, horses, dogs, and other animals, and vehicles or boats or aircraft or hovercraft of any description using or frequenting a reserve:
     
-    *   (f) prohibiting the bringing into a reserve or the possession or consumption in a reserve of intoxicating liquor, either generally or on specified occasions or during specified periods:
+    *   (f) prohibiting the bringing into a reserve or the possession or consumption in a reserve of alcohol (within the meaning of [section 5(1)][337] of the Sale and Supply of Alcohol Act 2012), either generally or on specified occasions or during specified periods:
     
     *   (g) prescribing the safety devices to be fitted to any machinery or devices operating in a reserve under the authority of any agreement, lease, or licence, and regulating the operation and maintenance of such machinery or devices:
     
@@ -3745,7 +3745,9 @@ Miscellaneous provisions
     
     Compare: 1953 No 69 s 53
     
-    Section 106(1)(c): substituted, on 10 April 1990, by [section 104][337] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 106(1)(c): replaced, on 10 April 1990, by [section 104][338] of the Conservation Law Reform Act 1990 (1990 No 31).
+    
+    Section 106(1)(f): amended, on 18 December 2013, by [section 417(1)][339] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
     
     Section 106(2A): inserted, on 27 December 1983, by section 13 of the Reserves Amendment Act 1983 (1983 No 43).
 
@@ -3785,7 +3787,7 @@ Miscellaneous provisions
     
     Compare: 1953 No 69 s 96; 1971 No 25 s 245
     
-    Section 109(3): amended, on 1 April 1988, pursuant to [section 52(1)][338] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 109(3): amended, on 1 April 1988, pursuant to [section 52(1)][340] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
 
 #### General provisions
 
@@ -3813,7 +3815,7 @@ Miscellaneous provisions
         
         *   (ii) a licence to use the vehicle issued for the current licensing year is attached to it,---
         
-        the administering body or the Commissioner, as the case may be, may give not less than 14 days' written notice to the person last registered under [Part 17][339] of the Land Transport Act 1998 in respect of the vehicle of its or his intention to sell or destroy the vehicle, by delivering the notice to him personally or by posting it to him by registered letter addressed to him at his last-known place of abode or business in New Zealand.
+        the administering body or the Commissioner, as the case may be, may give not less than 14 days' written notice to the person last registered under [Part 17][341] of the Land Transport Act 1998 in respect of the vehicle of its or his intention to sell or destroy the vehicle, by delivering the notice to him personally or by posting it to him by registered letter addressed to him at his last-known place of abode or business in New Zealand.
     
     (4) Unless before the expiry of the notice given under subsection (3) the owner of the vehicle or boat---
         
@@ -3829,13 +3831,13 @@ Miscellaneous provisions
     
     (7) In this section---
     
-    expressions defined in the [Land Transport Act 1998][340] have, in relation to any motor vehicle, the meanings so defined
+    expressions defined in the [Land Transport Act 1998][342] have, in relation to any motor vehicle, the meanings so defined
     
     _moored_, in relation to any boat, includes being left aground or on land.
     
-    Section 110(3)(b): amended, on 1 May 2011, by [section 35(4)][341] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 110(3)(b): amended, on 1 May 2011, by [section 35(4)][343] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 110(7): amended, on 1 May 2011, by [section 35(4)][341] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 110(7): amended, on 1 May 2011, by [section 35(4)][343] of the Land Transport Amendment Act 2009 (2009 No 17).
 
 ##### 111 Road reserve may be dedicated as a road
     
@@ -3849,7 +3851,7 @@ Miscellaneous provisions
     
 *   (1) No District Land Registrar shall without special authority of law register or otherwise give effect under the [Land Transfer Act 1952][231] to any dealing with any reserve except in conformity with the trusts upon which the reserve is held for the time being.
     
-    (2) Subsections (1), (2), (3), and (5) of [section 129][342] of the Land Transfer Act 1952 shall apply not only to land set apart or reserved by the Crown as reserves, but also to any other land that is a reserve as defined in this Act, and the notification provided for by the said subsection (2) shall in the case of that other land be made by the administering body in which that other land is vested, and may be made by its inclusion in any memorandum of transfer of that other land to the administering body, or in any application to bring that land under the provisions of the [Land Transfer Act 1952][231].
+    (2) Subsections (1), (2), (3), and (5) of [section 129][344] of the Land Transfer Act 1952 shall apply not only to land set apart or reserved by the Crown as reserves, but also to any other land that is a reserve as defined in this Act, and the notification provided for by the said subsection (2) shall in the case of that other land be made by the administering body in which that other land is vested, and may be made by its inclusion in any memorandum of transfer of that other land to the administering body, or in any application to bring that land under the provisions of the [Land Transfer Act 1952][231].
     
     Compare: 1953 No 69 s 99
 
@@ -3865,27 +3867,27 @@ Miscellaneous provisions
     
     (5) If any person who has been granted a lease or licence fails to sign his lease or licence within 1 month after being required by written notice so to do, the administering body may declare the right of that person to obtain a lease or licence to be cancelled, and thereupon the amount paid in terms of the grant and the sum paid for the preparation and registration of the lease or licence shall, unless the administering body otherwise determines, be deemed to be forfeited.
     
-    (6) Nothing in the foregoing provisions of this section shall apply with respect to any lease over any government purpose reserve for railway purposes, and the appropriate provisions of the [New Zealand Railways Corporation Act 1981][343] shall apply with respect to such leases.
+    (6) Nothing in the foregoing provisions of this section shall apply with respect to any lease over any government purpose reserve for railway purposes, and the appropriate provisions of the [New Zealand Railways Corporation Act 1981][345] shall apply with respect to such leases.
     
     Compare: 1953 No 69 s 30
     
-    Section 113(1): amended, on 1 July 1996, by [section 16(1)][344] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 113(1): amended, on 1 July 1996, by [section 16(1)][346] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 113(2): substituted, on 1 July 1996, by [section 16(2)][344] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 113(2): substituted, on 1 July 1996, by [section 16(2)][346] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 113(5): amended, on 1 July 1996, by [section 16(3)(a)][344] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 113(5): amended, on 1 July 1996, by [section 16(3)(a)][346] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 113(5): amended, on 1 July 1996, by [section 16(3)(b)][344] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 113(5): amended, on 1 July 1996, by [section 16(3)(b)][346] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 113(6): amended, on 1 April 1982, pursuant to [section 120(1)][345] of the New Zealand Railways Corporation Act 1981 (1981 No 119).
+    Section 113(6): amended, on 1 April 1982, pursuant to [section 120(1)][347] of the New Zealand Railways Corporation Act 1981 (1981 No 119).
 
 ##### 114 Variation of covenants, terms, and conditions in leases and licences
     
-*   (1) Subject to [section 17ZC][346] of the Conservation Act 1987 (in the case of a reserve other than a reserve vested in an administering body), the covenants, terms, conditions, and restrictions expressed or implied in any agreement, concession, lease, or licence under this Act may at any time be expressly varied, negatived, or added to by a memorandum of variation containing such particulars as may be necessary in the circumstances of the case.
+*   (1) Subject to [section 17ZC][348] of the Conservation Act 1987 (in the case of a reserve other than a reserve vested in an administering body), the covenants, terms, conditions, and restrictions expressed or implied in any agreement, concession, lease, or licence under this Act may at any time be expressly varied, negatived, or added to by a memorandum of variation containing such particulars as may be necessary in the circumstances of the case.
     
     (2) The memorandum of variation shall be executed by the administering body and by the lessee or licensee, and, if the lease or licence is registered with the District Land Registrar, shall be registered with the District Land Registrar, who shall enter an appropriate memorial on the register book copy of the lease or licence and on the outstanding copy thereof:
     
-    provided that, notwithstanding anything to the contrary in [section 66][347] of the Land Transfer Act 1952, a memorial of variation of any lease in respect of which a certificate of title has been issued under that section shall be entered on all relevant instruments and on that certificate of title, which shall have full validity, subject to that variation.
+    provided that, notwithstanding anything to the contrary in [section 66][349] of the Land Transfer Act 1952, a memorial of variation of any lease in respect of which a certificate of title has been issued under that section shall be entered on all relevant instruments and on that certificate of title, which shall have full validity, subject to that variation.
     
     (3) If the interest of the lessee or licensee is at the time of registration of the memorandum of variation subject to a mortgage, the memorandum shall not be binding on the mortgagee unless he has consented in writing thereto in the memorandum.
     
@@ -3893,15 +3895,15 @@ Miscellaneous provisions
     
     (5) This section applies only to reserves vested in an administering body under [section 26][37].
     
-    Section 114(1): amended, on 1 July 1996, by [section 17(1)(a)][348] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 114(1): amended, on 1 July 1996, by [section 17(1)(a)][350] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 114(1): amended, on 1 July 1996, by [section 17(1)(b)][348] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 114(1): amended, on 1 July 1996, by [section 17(1)(b)][350] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 114(2): amended, on 1 July 1996, by [section 17(1)(c)][348] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 114(2): amended, on 1 July 1996, by [section 17(1)(c)][350] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 114(4): amended, on 1 April 1982, pursuant to [section 120(1)][345] of the New Zealand Railways Corporation Act 1981 (1981 No 119).
+    Section 114(4): amended, on 1 April 1982, pursuant to [section 120(1)][347] of the New Zealand Railways Corporation Act 1981 (1981 No 119).
     
-    Section 114(5): added, on 1 July 1996, by [section 17(2)][348] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 114(5): added, on 1 July 1996, by [section 17(2)][350] of the Reserves Amendment Act 1996 (1996 No 3).
 
 ##### 115 Transfers, subleases, and mortgages
     
@@ -3913,27 +3915,27 @@ Miscellaneous provisions
     
     (4) \[Repealed\]
     
-    (5) Nothing in the foregoing provisions of this section shall apply with respect to any lease over any government purpose reserve for railway purposes, and the appropriate provisions of the [New Zealand Railways Corporation Act 1981][343] shall apply with respect to transfers, subleases, and mortgages of such leases.
+    (5) Nothing in the foregoing provisions of this section shall apply with respect to any lease over any government purpose reserve for railway purposes, and the appropriate provisions of the [New Zealand Railways Corporation Act 1981][345] shall apply with respect to transfers, subleases, and mortgages of such leases.
     
     (6) This section applies only to reserves vested in an administering body under [section 26][37].
     
-    Section 115(1): amended, on 1 July 1996, by [section 18(1)(a)][349] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 115(1): amended, on 1 July 1996, by [section 18(1)(a)][351] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 115(2): amended, on 1 July 1996, by [section 18(1)(b)][349] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 115(2): amended, on 1 July 1996, by [section 18(1)(b)][351] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 115(3): amended, on 1 July 1996, by [section 18(1)(c)][349] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 115(3): amended, on 1 July 1996, by [section 18(1)(c)][351] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 115(4): repealed, on 1 July 1996, by [section 18(1)(d)][349] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 115(4): repealed, on 1 July 1996, by [section 18(1)(d)][351] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 115(5): amended, on 1 April 1982, pursuant to [section 120(1)][345] of the New Zealand Railways Corporation Act 1981 (1981 No 119).
+    Section 115(5): amended, on 1 April 1982, pursuant to [section 120(1)][347] of the New Zealand Railways Corporation Act 1981 (1981 No 119).
     
-    Section 115(6): added, on 1 July 1996, by [section 18(2)][349] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 115(6): added, on 1 July 1996, by [section 18(2)][351] of the Reserves Amendment Act 1996 (1996 No 3).
 
 ##### 116 Certificate of title in respect of reserves
     
 *   (1) The District Land Registrar for the land registration district in which is situated any reserve vested in the Crown shall, on the written request of the Commissioner, issue a certificate or certificates of title under the [Land Transfer Act 1952][231] in the name of Her Majesty the Queen in respect of any land for the time being comprised in that reserve.
     
-    (2) In any case where the survey of the reserve is inadequate for the issue of an ordinary certificate of title, the District Land Registrar may issue a certificate of title limited as to description of parcels, and the provisions of [Part 12][350] of the Land Transfer Act 1952 as to certificates of title limited as to description of parcels shall, as far as they are applicable and with any necessary modifications, apply with respect to that certificate of title.
+    (2) In any case where the survey of the reserve is inadequate for the issue of an ordinary certificate of title, the District Land Registrar may issue a certificate of title limited as to description of parcels, and the provisions of [Part 12][352] of the Land Transfer Act 1952 as to certificates of title limited as to description of parcels shall, as far as they are applicable and with any necessary modifications, apply with respect to that certificate of title.
     
     (3) Where any District Land Registrar issues any certificate of title under this section, he shall not prepare a duplicate thereof, and the copy of the certificate of title embodied in the register shall be noted accordingly.
     
@@ -3989,7 +3991,7 @@ Miscellaneous provisions
         
         provided also that where under this subsection a notification is required to be published in a newspaper circulating in the area in which the reserve or proposed reserve is situated and there is no such newspaper, the notification shall be published once in the _Gazette_.
     
-    (2) Subject, in relation to Maori land owned in multiple ownership, to [section 181][351] of Te Ture Whenua Maori Act 1993, a notice required by this Act to be given to any person may be sent by registered post to the last-known place of abode or business of that person, and shall be deemed to have been delivered when in the ordinary course of post it would be delivered. If any such person is absent from New Zealand, the notice may be sent to his agent, and, if he has no known agent, the notice may be given to him by publishing it in a newspaper circulating in the district in which the land the subject matter of the notice is situated.
+    (2) Subject, in relation to Maori land owned in multiple ownership, to [section 181][353] of Te Ture Whenua Maori Act 1993, a notice required by this Act to be given to any person may be sent by registered post to the last-known place of abode or business of that person, and shall be deemed to have been delivered when in the ordinary course of post it would be delivered. If any such person is absent from New Zealand, the notice may be sent to his agent, and, if he has no known agent, the notice may be given to him by publishing it in a newspaper circulating in the district in which the land the subject matter of the notice is situated.
     
     (3) Every notice by the Minister under this Act shall come into force on the day of the date thereof or on such later date as may be specified in the notice.
     
@@ -4031,7 +4033,7 @@ Miscellaneous provisions
 
 ##### 122 Special provisions as to reserves administered under Tourist and Health Resorts Control Act 1908
     
-*   (1) [Section 8][352] of the Tourist and Health Resorts Control Act 1908 shall, with respect to reserves administered under that Act, be deemed to---
+*   (1) [Section 8][354] of the Tourist and Health Resorts Control Act 1908 shall, with respect to reserves administered under that Act, be deemed to---
         
     *   (a) confer on the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the [Tourist and Health Resorts Control Act 1908][185] the powers conferred by this Act on the Minister of Conservation for leasing a reserve of that classification:
         
@@ -4051,43 +4053,43 @@ Miscellaneous provisions
     
     *   (d) apply to those reserves, with such modifications as may be necessary, the provisions of [sections 106 to 108][144]; and every reference in those sections to the Minister shall be deemed to be a reference to the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the [Tourist and Health Resorts Control Act 1908][185].
     
-    (2) Nothing in this section shall be construed to affect or modify the provisions of [section 7][353] of the Tourist and Health Resorts Control Act 1908 as to money received in respect of reserves administered under that Act, and in particular the provisions of [section 88][118] of this Act as to statements of assets and liabilities and accounts shall not apply with respect to those reserves.
+    (2) Nothing in this section shall be construed to affect or modify the provisions of [section 7][355] of the Tourist and Health Resorts Control Act 1908 as to money received in respect of reserves administered under that Act, and in particular the provisions of [section 88][118] of this Act as to statements of assets and liabilities and accounts shall not apply with respect to those reserves.
     
     (3) The powers conferred by this section shall be in addition to and not in substitution for any existing powers in respect of reserves administered under the [Tourist and Health Resorts Control Act 1908][185].
     
     Compare: 1953 No 69 s 105
     
-    Section 122(1)(a): amended, on 1 November 1991, by [section 18(2)][354] of the New Zealand Tourism Board Act 1991 (1991 No 110).
+    Section 122(1)(a): amended, on 1 November 1991, by [section 18(2)][356] of the New Zealand Tourism Board Act 1991 (1991 No 110).
     
     Section 122(1)(a): amended, on 1 April 1987, by [section 65(1)][189] of the Conservation Act 1987 (1987 No 65).
     
-    Section 122(1)(a) first proviso: amended, on 1 July 1996, by [section 19(a)][355] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 122(1)(a) first proviso: amended, on 1 July 1996, by [section 19(a)][357] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 122(1)(a) first proviso: amended, on 1 July 1996, by [section 19(b)][355] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 122(1)(a) first proviso: amended, on 1 July 1996, by [section 19(b)][357] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 122(1)(a) first proviso: amended, on 1 November 1991, by [section 18(2)][354] of the New Zealand Tourism Board Act 1991 (1991 No 110).
+    Section 122(1)(a) first proviso: amended, on 1 November 1991, by [section 18(2)][356] of the New Zealand Tourism Board Act 1991 (1991 No 110).
     
-    Section 122(1)(a) second proviso: amended, on 1 July 1996, by [section 19(c)][355] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 122(1)(a) second proviso: amended, on 1 July 1996, by [section 19(c)][357] of the Reserves Amendment Act 1996 (1996 No 3).
     
     Section 122(1)(a) second proviso: amended, on 1 April 1987, by [section 65(1)][189] of the Conservation Act 1987 (1987 No 65).
     
-    Section 122(1)(b): amended, on 1 November 1991, by [section 18(2)][354] of the New Zealand Tourism Board Act 1991 (1991 No 110).
+    Section 122(1)(b): amended, on 1 November 1991, by [section 18(2)][356] of the New Zealand Tourism Board Act 1991 (1991 No 110).
     
-    Section 122(1)(b) proviso: amended, on 1 July 1996, by [section 19(d)][355] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 122(1)(b) proviso: amended, on 1 July 1996, by [section 19(d)][357] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 122(1)(b) proviso: amended, on 1 November 1991, by [section 18(2)][354] of the New Zealand Tourism Board Act 1991 (1991 No 110).
+    Section 122(1)(b) proviso: amended, on 1 November 1991, by [section 18(2)][356] of the New Zealand Tourism Board Act 1991 (1991 No 110).
     
-    Section 122(1)(c): amended, on 1 July 1996, by [section 19(e)][355] of the Reserves Amendment Act 1996 (1996 No 3).
+    Section 122(1)(c): amended, on 1 July 1996, by [section 19(e)][357] of the Reserves Amendment Act 1996 (1996 No 3).
     
-    Section 122(1)(c): amended, on 1 November 1991, by [section 18(2)][354] of the New Zealand Tourism Board Act 1991 (1991 No 110).
+    Section 122(1)(c): amended, on 1 November 1991, by [section 18(2)][356] of the New Zealand Tourism Board Act 1991 (1991 No 110).
     
-    Section 122(1)(d): amended, on 1 November 1991, by [section 18(2)][354] of the New Zealand Tourism Board Act 1991 (1991 No 110).
+    Section 122(1)(d): amended, on 1 November 1991, by [section 18(2)][356] of the New Zealand Tourism Board Act 1991 (1991 No 110).
 
 ##### 122A Control of dogs
     
-*   (1) Nothing in this Act derogates from the provisions of [Part 5C][356] of the Conservation Act 1987, which provides for the control of dogs and which, subject to paragraphs (b) and (c) of section 26ZT of that Act, authorises the declaration as either a controlled dog area or an open dog area of any part or parts of any land managed and administered under this Act by the Minister of Conservation or the Department of Conservation.
+*   (1) Nothing in this Act derogates from the provisions of [Part 5C][358] of the Conservation Act 1987, which provides for the control of dogs and which, subject to paragraphs (b) and (c) of section 26ZT of that Act, authorises the declaration as either a controlled dog area or an open dog area of any part or parts of any land managed and administered under this Act by the Minister of Conservation or the Department of Conservation.
     
-    (2) Paragraphs (b) and (c) of [section 26ZT][357] of the Conservation Act 1987 provide that an open dog area may not include---
+    (2) Paragraphs (b) and (c) of [section 26ZT][359] of the Conservation Act 1987 provide that an open dog area may not include---
         
     *   (a) any part of a reserve classified---
             
@@ -4115,9 +4117,9 @@ Miscellaneous provisions
     
     (2) Without limiting the general authority to make regulations conferred by subsection (1), regulations may be made under that subsection providing for the expulsion from reserves of persons acting thereon in contravention of any Act relating to betting or gaming.
     
-    Section 123(1)(b): amended, on 25 October 2013, by [section 17(a)][358] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    Section 123(1)(b): amended, on 25 October 2013, by [section 17(a)][360] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
     
-    Section 123(1)(b): amended, on 25 October 2013, by [section 17(b)][358] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
+    Section 123(1)(b): amended, on 25 October 2013, by [section 17(b)][360] of the Conservation (Natural Heritage Protection) Act 2013 (2013 No 89).
 
 ##### 124 Amendments
     
@@ -4441,7 +4443,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Counties Amendment Act 1961 (1961 No 131) (Reprinted 1969, Vol 2, p 1343)
 
-_Amendment(s) incorporated in the [Act(s)][359]._
+_Amendment(s) incorporated in the [Act(s)][361]._
 
 ##### Hauraki Gulf Maritime Park Act 1967 (1967 No 131)
 
@@ -4453,19 +4455,19 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Local Authorities (Members' Interests) Act 1968 (1968 No 147) (Reprinted 1974, Vol 3, p 2399) 
 
-_Amendment(s) incorporated in the [Act(s)][359]._
+_Amendment(s) incorporated in the [Act(s)][361]._
 
 ##### Local Government Act 1974 (1974 No 66)
 
-_Amendment(s) incorporated in the [Act(s)][359]._
+_Amendment(s) incorporated in the [Act(s)][361]._
 
 ##### Municipal Corporations Act 1954 (1954 No 76) (Reprinted 1969, Vol 4, p 2439)
 
-_Amendment(s) incorporated in the [Act(s)][359]._
+_Amendment(s) incorporated in the [Act(s)][361]._
 
 ##### Public Bodies Meetings Act 1962 (1962 No 113) (Reprinted 1975, Vol 3, p 2269)
 
-_Amendment(s) incorporated in the [Act(s)][359]._
+_Amendment(s) incorporated in the [Act(s)][361]._
 
 ---
 
@@ -4523,7 +4525,7 @@ _Amendment(s) incorporated in the Act(s)._
 ## Schedule 4  
 Land that may be held as reserve
     
-*   Schedule 4: added, on 13 March 1996, by [section 20][360] of the Reserves Amendment Act 1996 (1996 No 3).
+*   Schedule 4: added, on 13 March 1996, by [section 20][362] of the Reserves Amendment Act 1996 (1996 No 3).
 *   Schedule 4 heading: substituted, on 21 October 2000, by [section 22][295] of the Forests (West Coast Accord) Act 2000 (2000 No 45).
 
 **Land** **Category A or B** **Boundary documents**
@@ -4554,35 +4556,37 @@ Paynes Gully Extension Wildlife Management Reserve Category B
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][361] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][362] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][363] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][364] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][363] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][364] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][365] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][366] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Conservation (Natural Heritage Protection) Act 2013 (2013 No 89): [Part 3][365]
+*   Conservation (Natural Heritage Protection) Act 2013 (2013 No 89): [Part 3][367]
     
-    [Reserves Amendment Act 2013][366] (2013 No 17)
+    [Reserves Amendment Act 2013][368] (2013 No 17)
+    
+    Sale and Supply of Alcohol Act 2012 (2012 No 120): [section 417(1)][339]
     
     Search and Surveillance Act 2012 (2012 No 24): [section 299][320]
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][324]
     
-    [Reserves Amendment Act 2010][367] (2010 No 20)
+    [Reserves Amendment Act 2010][369] (2010 No 20)
     
-    Land Transport Amendment Act 2009 (2009 No 17): [section 35(4)][341]
+    Land Transport Amendment Act 2009 (2009 No 17): [section 35(4)][343]
     
     Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60): [section 17][279]
     
     New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30): [section 38][249]
     
-    [Reserves Amendment Act 2008][368] (2008 No 17)
+    [Reserves Amendment Act 2008][370] (2008 No 17)
     
     Protected Objects Amendment Act 2006 (2006 No 37): [section 35][190]
     
-    [Reserves Amendment Act 2005][369] (2005 No 68)
+    [Reserves Amendment Act 2005][371] (2005 No 68)
     
     Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][266]
     
@@ -4606,7 +4610,7 @@ Paynes Gully Extension Wildlife Management Reserve Category B
     
     Conservation Amendment Act (No 2) 1996 (1996 No 14): section 9
     
-    [Reserves Amendment Act 1996 ][370](1996 No 3)
+    [Reserves Amendment Act 1996 ][372](1996 No 3)
     
     Reserves Amendment Act 1994 (1994 No 110)
     
@@ -4622,11 +4626,11 @@ Paynes Gully Extension Wildlife Management Reserve Category B
     
     Public Finance Amendment Act 1992 (1992 No 142): [section 42][314]
     
-    New Zealand Tourism Board Act 1991 (1991 No 110): [section 18(2)][354]
+    New Zealand Tourism Board Act 1991 (1991 No 110): [section 18(2)][356]
     
-    Resource Management Act 1991 (1991 No 69): [sections 362][234], [373][371]
+    Resource Management Act 1991 (1991 No 69): [sections 362][234], [373][373]
     
-    Conservation Law Reform Act 1990 (1990 No 31): [sections 91--96][191], [100][288], [102][290], [104][337]
+    Conservation Law Reform Act 1990 (1990 No 31): [sections 91--96][191], [100][288], [102][290], [104][338]
     
     Survey Amendment Act (No 3) 1989 (1989 No 139): section 9(2)
     
@@ -4634,7 +4638,7 @@ Paynes Gully Extension Wildlife Management Reserve Category B
     
     Reserves Amendment Act 1988 (1988 No 137)
     
-    Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48): [section 52(1)][338]
+    Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48): [section 52(1)][340]
     
     State Sector Act 1988 (1988 No 20): section [90(a)][225]
     
@@ -4648,7 +4652,7 @@ Paynes Gully Extension Wildlife Management Reserve Category B
     
     Reserves Amendment Act 1983 (1983 No 43)
     
-    New Zealand Railways Corporation Act 1981 (1981 No 119): [section 120(1)][345]
+    New Zealand Railways Corporation Act 1981 (1981 No 119): [section 120(1)][347]
     
     Public Works Act 1981 (1981 No 35): [section 248(1)][195]
     
@@ -4670,7 +4674,7 @@ Paynes Gully Extension Wildlife Management Reserve Category B
     
     Local Government Amendment Act 1978 (1978 No 43): section [3(5)][257]
     
-    Forests Act 1949 (1949 No 19): [section 2(2)(a)][372]
+    Forests Act 1949 (1949 No 19): [section 2(2)(a)][374]
 
 
 
@@ -5011,39 +5015,41 @@ Paynes Gully Extension Wildlife Management Reserve Category B
 [334]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM4425527
 [335]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM135593
 [336]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM163137
-[337]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM209170
-[338]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM131677
-[339]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2214226
-[340]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM433612
-[341]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2015063
-[342]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM271212
-[343]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM57005
-[344]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373392
-[345]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM58277
-[346]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM104664
-[347]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM270475
-[348]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373393
-[349]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373394
-[350]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM271699
-[351]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM291805
-[352]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM175087
-[353]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM175085
-[354]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM249395
-[355]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373395
-[356]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM106041
-[357]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM106047
-[358]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM5469516
-[359]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM390002
-[360]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373396
-[361]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2998516
-[362]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2998515
-[363]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2998532
-[364]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[365]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM4425525
-[366]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM5138103
-[367]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2853500
-[368]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM1209230
-[369]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM348957
-[370]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373372
-[371]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM239827
-[372]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM255632
+[337]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM3339341
+[338]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM209170
+[339]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM3339984
+[340]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM131677
+[341]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2214226
+[342]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM433612
+[343]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2015063
+[344]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM271212
+[345]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM57005
+[346]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373392
+[347]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM58277
+[348]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM104664
+[349]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM270475
+[350]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373393
+[351]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373394
+[352]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM271699
+[353]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM291805
+[354]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM175087
+[355]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM175085
+[356]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM249395
+[357]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373395
+[358]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM106041
+[359]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM106047
+[360]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM5469516
+[361]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM390002
+[362]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373396
+[363]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2998516
+[364]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2998515
+[365]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2998532
+[366]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[367]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM4425525
+[368]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM5138103
+[369]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM2853500
+[370]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM1209230
+[371]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM348957
+[372]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM373372
+[373]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM239827
+[374]: http://www.legislation.govt.nz/act/public/1977/0066/latest/link.aspx?id=DLM255632
