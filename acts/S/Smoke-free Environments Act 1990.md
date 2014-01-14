@@ -1,5 +1,5 @@
 Reprint  
-as at 5 December 2013
+as at 18 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -293,27 +293,29 @@ Title \[Repealed\]
     
     _aircraft_ has the same meaning as in [section 2][113] of the Civil Aviation Act 1990
     
+    _approved evidence of age document_ has the meaning given by [section 5(1)][114] of the Sale and Supply of Alcohol Act 2012
+    
     _automatic vending machine_ means any self-service machine that,---
         
     *   (a) on the insertion of a coin or token or by any other means, dispenses by way of sale tobacco products, whether automatically or with the assistance of the purchaser; and
     
     *   (b) does not require replenishment between each sale
     
-    _casino_ means a casino for which a casino venue licence is in force under [section 122][114] or [section 137][115] of the Gambling Act 2003
+    _casino_ means a casino for which a casino venue licence is in force under [section 122][115] or [section 137][116] of the Gambling Act 2003
     
-    _casino operator's licence_ means a licence granted under [section 130][116] of the Gambling Act 2003
+    _casino operator's licence_ means a licence granted under [section 130][117] of the Gambling Act 2003
     
-    _class 4 gambling venue licence_ means a class 4 venue licence within the meaning of [section 4(1)][117] of the Gambling Act 2003
+    _class 4 gambling venue licence_ means a class 4 venue licence within the meaning of [section 4(1)][118] of the Gambling Act 2003
     
-    _coastal cargo_ has the meaning given to it by [section 198(6)][118] of the Maritime Transport Act 1994
+    _coastal cargo_ has the meaning given to it by [section 198(6)][119] of the Maritime Transport Act 1994
     
-    _company name_ includes any corporate name, firm name, or business name, whether or not it is registered or registrable under the [Companies Act 1993][119] or any other enactment
+    _company name_ includes any corporate name, firm name, or business name, whether or not it is registered or registrable under the [Companies Act 1993][120] or any other enactment
     
     _craft_ means---
         
     *   (a) an aircraft:
     
-    *   (b) a ship (as defined in [section 2(1)][120] of the Maritime Transport Act 1994)
+    *   (b) a ship (as defined in [section 2(1)][121] of the Maritime Transport Act 1994)
     
     _dedicated smoking room_ means an internal area in a hospital care institution, a residential disability care institution, or a rest home that is used solely to enable patients or residents who smoke to smoke, or to socialise with each other in a place where smoking is permitted
     
@@ -321,7 +323,7 @@ Title \[Repealed\]
     
     _distributor_ means a person engaged in the business of selling tobacco products, or (as the case may be) herbal smoking products, otherwise than at retail only
     
-    _early childhood education and care centre_ has the meaning given to it by [section 309][121] of the Education Act 1989
+    _early childhood education and care centre_ has the meaning given to it by [section 309][122] of the Education Act 1989
     
     _employee_ means any person of any age employed under a contract of service by an employer to do any work for hire or reward
     
@@ -335,7 +337,7 @@ Title \[Repealed\]
     
     _foreign ship_ means a ship that is not a New Zealand ship
     
-    _gambling_ has the meaning set out in [section 4(1)][117] of the Gambling Act 2003
+    _gambling_ has the meaning set out in [section 4(1)][118] of the Gambling Act 2003
     
     _gambling area_, in relation to a casino venue, means the area of the venue in which gambling is conducted
     
@@ -347,7 +349,7 @@ Title \[Repealed\]
     
     *   (c) contains no tobacco
     
-    _hospital care institution_ has the meaning given to that term by [section 58(4)][122] of the Health and Disability Services (Safety) Act 2001
+    _hospital care institution_ has the meaning given to that term by [section 58(4)][123] of the Health and Disability Services (Safety) Act 2001
     
     _internal area_, in relation to any premises or vehicle, means an area within or on the premises or vehicle that, when all its doors, windows, and other closeable openings are closed, is completely or substantially enclosed by---
         
@@ -375,15 +377,15 @@ Title \[Repealed\]
     
     *   (b) contains a term providing for the product to be delivered by or on behalf of the seller to, or to a place or person chosen by, the purchaser
     
-    _licensed premises_ means any premises, or any part of any premises, on which liquor may be sold pursuant to a licence under the [Sale of Liquor Act 1989][123]
+    _licensed premises_ means any premises, or any part of any premises, on which alcohol is sold pursuant to a licence under the [Sale and Supply of Alcohol Act 2012][124]
     
     _managers_, in relation to a school, or premises to which [section 7A(4)][13] applies, means all the people who control and manage the school or premises, whether or not they have a proprietary interest in the school or premises
     
-    _manufacturer_ includes any company with which a manufacturer is associated within the meaning of [subpart YB][124] of the Income Tax Act 2007
+    _manufacturer_ includes any company with which a manufacturer is associated within the meaning of [subpart YB][125] of the Income Tax Act 2007
     
     _Minister_ means the Minister of Health
     
-    _New Zealand continental waters_ has the meaning given to it by [section 222(1)][125] of the Maritime Transport Act 1994
+    _New Zealand continental waters_ has the meaning given to it by [section 222(1)][126] of the Maritime Transport Act 1994
     
     _New Zealand resident_ means---
         
@@ -393,7 +395,7 @@ Title \[Repealed\]
     
     *   (c) a company incorporated in New Zealand
     
-    _New Zealand ship_ has the meaning given to it by [section 2(1)][126] of the Ship Registration Act 1992
+    _New Zealand ship_ has the meaning given to it by [section 2(1)][127] of the Ship Registration Act 1992
     
     _of the same kind_ means not differing in a manner stated in subsection (2)
     
@@ -423,7 +425,7 @@ Title \[Repealed\]
     
     _package_ means a pack, carton, wrapping, or other container in which tobacco products, or (as the case may be) herbal smoking products, are customarily sold at retail
     
-    _passenger service vehicle_ and _small passenger service vehicle_ have the same meaning as in [section 2][127] of the Land Transport Act 1998
+    _passenger service vehicle_ and _small passenger service vehicle_ have the same meaning as in [section 2][128] of the Land Transport Act 1998
     
     _point of sale_---
         
@@ -431,7 +433,7 @@ Title \[Repealed\]
     
     *   (b) includes a till or cashbox, where tobacco products may be bought, even if it is not at or part of a checkout
     
-    _prescribed petroleum operations_ means petroleum operations prescribed for the purposes of the [Health and Safety in Employment Act 1992][128] by regulations made under that Act
+    _prescribed petroleum operations_ means petroleum operations prescribed for the purposes of the [Health and Safety in Employment Act 1992][129] by regulations made under that Act
     
     _publish_ means---
         
@@ -441,7 +443,7 @@ Title \[Repealed\]
     
     *   (c) deliver to any person or leave upon premises in the occupation of any person; or
     
-    *   (d) broadcast within the meaning of the [Broadcasting Act 1989][129]; or
+    *   (d) broadcast within the meaning of the [Broadcasting Act 1989][130]; or
     
     *   (e) include in any film or video recording; or
     
@@ -455,11 +457,11 @@ Title \[Repealed\]
     
     *   (i) bring to the notice of the public in New Zealand in any other manner
     
-    _registered school_ has the meaning given to it by [section 2(1)][130] of the Education Act 1989
+    _registered school_ has the meaning given to it by [section 2(1)][131] of the Education Act 1989
     
-    _residential disability care institution_ has the meaning given to that term by [section 58(4)][122] of the Health and Disability Services (Safety) Act 2001
+    _residential disability care institution_ has the meaning given to that term by [section 58(4)][123] of the Health and Disability Services (Safety) Act 2001
     
-    _rest home_ has the meaning given to it by [section 58(4)][122] of the Health and Disability Services (Safety) Act 2001
+    _rest home_ has the meaning given to it by [section 58(4)][123] of the Health and Disability Services (Safety) Act 2001
     
     _restaurant_ means any premises, or any part of any premises, where the principal business is the selling of meals or refreshments to the general public for consumption on the premises, whether or not liquor is or may be sold on those premises or that part of those premises; and includes any room or area on a ship or train where meals or refreshments are provided for passengers to consume
     
@@ -477,13 +479,13 @@ Title \[Repealed\]
         
         
     
-    _ship_ has the meaning given to it by [section 2(1)][126] of the Ship Registration Act 1992
+    _ship_ has the meaning given to it by [section 2(1)][127] of the Ship Registration Act 1992
     
-    _ship on demise charter to a New Zealand-based operator_ has the meaning given to it by [section 4][131] of the Ship Registration Act 1992
+    _ship on demise charter to a New Zealand-based operator_ has the meaning given to it by [section 4][132] of the Ship Registration Act 1992
     
     _smoking accessory_ means any article or substance that is used in conjunction with smoking, including cigarette papers, pipe cleaners, cigarette lighters, lighter fuel, and ashtrays; and includes the packaging, carton, wrapping, or other container in which smoking accessories are customarily sold at retail
     
-    _taxi_ has the same meaning as in [section 2(1)][127] of the Land Transport Act 1998
+    _taxi_ has the same meaning as in [section 2(1)][128] of the Land Transport Act 1998
     
     _to smoke_---
         
@@ -501,7 +503,7 @@ Title \[Repealed\]
     
     *   (b) does not contain other tobacco packages within it
     
-    _tobacco product_ means any product manufactured from tobacco and intended for use by smoking, inhalation, or mastication; and includes nasal and oral snuff; but does not include any medicine (being a medicine in respect of which there is in force a consent or provisional consent given under [section 20][132] or [section 23][133] of the Medicines Act 1981) that is sold or supplied wholly or principally for use as an aid in giving up smoking
+    _tobacco product_ means any product manufactured from tobacco and intended for use by smoking, inhalation, or mastication; and includes nasal and oral snuff; but does not include any medicine (being a medicine in respect of which there is in force a consent or provisional consent given under [section 20][133] or [section 23][134] of the Medicines Act 1981) that is sold or supplied wholly or principally for use as an aid in giving up smoking
     
     _tobacco product advertisement_ means any words, whether written, printed, or spoken, including on film, video recording, or other medium, broadcast or telecast, and any pictorial representation, design, or device, used to encourage the use or notify the availability or promote the sale of any tobacco product or to promote smoking behaviour; and includes---
         
@@ -519,7 +521,7 @@ Title \[Repealed\]
     
     *   (b) cannot be smoked, is not confectionery, and has a primary purpose other than to help people stop smoking
     
-    _trade mark_ includes any trade mark whether or not it is registered or registrable as such under the [Trade Marks Act 2002][134]; and also includes---
+    _trade mark_ includes any trade mark whether or not it is registered or registrable as such under the [Trade Marks Act 2002][135]; and also includes---
         
     *   (a) any brand name:
     
@@ -601,147 +603,149 @@ Title \[Repealed\]
     
     (3) For the purposes of paragraph (e)(vii) of the definition of workplace in subsection (1), no part of a ship is capable of being a dwellinghouse occupied by an employer.
     
-    Section 2(1) **additive**: inserted, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **additive**: inserted, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(1) **aircraft**: amended, on 1 September 1990, pursuant to [section 101(1)][136] of the Civil Aviation Act 1990 (1990 No 98).
+    Section 2(1) **aircraft**: amended, on 1 September 1990, pursuant to [section 101(1)][137] of the Civil Aviation Act 1990 (1990 No 98).
     
-    Section 2(1) **area health board**: repealed, on 1 July 1993, by [section 32][137] of the Health Sector (Transfers) Act 1993 (1993 No 23).
+    Section 2(1) **approved evidence of age document**: inserted, on 18 December 2013, by [section 417(1)][138] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
     
-    Section 2(1) **automatic vending machine**: inserted, on 29 July 1997, by [section 2(1)][138] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
+    Section 2(1) **area health board**: repealed, on 1 July 1993, by [section 32][139] of the Health Sector (Transfers) Act 1993 (1993 No 23).
     
-    Section 2(1) **casino**: substituted, on 1 July 2004, by [section 374][139] of the Gambling Act 2003 (2003 No 51).
+    Section 2(1) **automatic vending machine**: inserted, on 29 July 1997, by [section 2(1)][140] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
     
-    Section 2(1) **casino operator's licence**: substituted, on 1 July 2004, by [section 374][139] of the Gambling Act 2003 (2003 No 51).
+    Section 2(1) **casino**: substituted, on 1 July 2004, by [section 374][141] of the Gambling Act 2003 (2003 No 51).
     
-    Section 2(1) **children's product**: repealed, on 23 July 2012, by [section 7(1)][140] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 2(1) **casino operator's licence**: substituted, on 1 July 2004, by [section 374][141] of the Gambling Act 2003 (2003 No 51).
     
-    Section 2(1) **class 4 gambling venue licence**: inserted, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **children's product**: repealed, on 23 July 2012, by [section 7(1)][142] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 2(1) **coastal cargo**: inserted, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **class 4 gambling venue licence**: inserted, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(1) **code of practice** or **code**: repealed, on 11 December 1998, by [section 7(3)(a)][141] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
+    Section 2(1) **coastal cargo**: inserted, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(1) **company name**: amended, on 5 December 2013, by [section 14][142] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 2(1) **code of practice** or **code**: repealed, on 11 December 1998, by [section 7(3)(a)][143] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
     
-    Section 2(1) **company name**: amended, on 1 July 1994, by [section 2][143] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 2(1) **company name**: amended, on 5 December 2013, by [section 14][144] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 2(1) **Council**: repealed, on 1 July 2012, by [section 14(2)][144] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
+    Section 2(1) **company name**: amended, on 1 July 1994, by [section 2][145] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
-    Section 2(1) **craft** paragraph (b): amended, on 1 February 1995, pursuant to [section 202(1)][145] of the Maritime Transport Act 1994 (1994 No 104).
+    Section 2(1) **Council**: repealed, on 1 July 2012, by [section 14(2)][146] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
     
-    Section 2(1) **dedicated smoking room**: inserted, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **craft** paragraph (b): amended, on 1 February 1995, pursuant to [section 202(1)][147] of the Maritime Transport Act 1994 (1994 No 104).
     
-    Section 2(1) **Director**: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
+    Section 2(1) **dedicated smoking room**: inserted, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(1) **distributor**: substituted, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **Director**: repealed, on 25 January 2005, by [section 200][148] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 2(1) **early childhood centre**: repealed, on 1 December 2008, by [section 60(1)][147] of the Education Amendment Act 2006 (2006 No 19).
+    Section 2(1) **distributor**: substituted, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(1) **early childhood education and care centre**: inserted, on 1 December 2008, by [section 60(1)][147] of the Education Amendment Act 2006 (2006 No 19).
+    Section 2(1) **early childhood centre**: repealed, on 1 December 2008, by [section 60(1)][149] of the Education Amendment Act 2006 (2006 No 19).
     
-    Section 2(1) **employer**: substituted, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **early childhood education and care centre**: inserted, on 1 December 2008, by [section 60(1)][149] of the Education Amendment Act 2006 (2006 No 19).
     
-    Section 2(1) **enforcement officer**: inserted, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **employer**: substituted, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(1) **face**: repealed, on 23 July 2012, by [section 7(1)][140] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 2(1) **enforcement officer**: inserted, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(1) **foreign ship**: inserted, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **face**: repealed, on 23 July 2012, by [section 7(1)][142] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 2(1) **gambling**: inserted, on 1 July 2004, by [section 374][139] of the Gambling Act 2003 (2003 No 51).
+    Section 2(1) **foreign ship**: inserted, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(1) **gambling area**: inserted, on 1 July 2004, by [section 374][139] of the Gambling Act 2003 (2003 No 51).
+    Section 2(1) **gambling**: inserted, on 1 July 2004, by [section 374][141] of the Gambling Act 2003 (2003 No 51).
     
-    Section 2(1) **gaming**: repealed, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **gambling area**: inserted, on 1 July 2004, by [section 374][141] of the Gambling Act 2003 (2003 No 51).
     
-    Section 2(1) **gaming area**: repealed, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **gaming**: repealed, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(1) **herbal smoking product**: inserted, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **gaming area**: repealed, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(1) **hospital**: repealed, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **herbal smoking product**: inserted, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(1) **hospital care institution**: inserted, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **hospital**: repealed, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(1) **internal area**: inserted, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **hospital care institution**: inserted, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(1) **Internet sale**: inserted, on 23 July 2012, by [section 7(2)][140] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 2(1) **internal area**: inserted, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(1) **licensed premises**: substituted, on 10 December 2004, by [section 3(2)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **Internet sale**: inserted, on 23 July 2012, by [section 7(2)][142] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 2(1) **managers**: inserted, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **licensed premises**: replaced, on 18 December 2013, by [section 417(1)][138] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
     
-    Section 2(1) **manufacturer**: amended, on 1 April 2010, by [section 861][148] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 2(1) **managers**: inserted, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    
+    Section 2(1) **manufacturer**: amended, on 1 April 2010, by [section 861][150] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 2(1) **manufacturer**: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by section ZA 2(1) of the Income Tax Act 2007 (2007 No 97).
     
-    Section 2(1) **New Zealand continental waters**: inserted, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **New Zealand continental waters**: inserted, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(1) **New Zealand resident** paragraph (b): amended, on 1 July 1994, pursuant to [section 284][149] of the Electoral Act 1993 (1993 No 87).
+    Section 2(1) **New Zealand resident** paragraph (b): amended, on 1 July 1994, pursuant to [section 284][151] of the Electoral Act 1993 (1993 No 87).
     
-    Section 2(1) **New Zealand ship**: inserted, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **New Zealand ship**: inserted, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(1) **of the same kind**: inserted, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **of the same kind**: inserted, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(1) **open area**: inserted, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **open area**: inserted, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(1) **operating taxi**: inserted, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **operating taxi**: inserted, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(1) **package**: substituted, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **package**: substituted, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(1) **passenger service vehicle** and **small passenger service vehicle**: amended, on 1 October 2007, by [section 95(6)][150] of the Land Transport Amendment Act 2005 (2005 No 77).
+    Section 2(1) **passenger service vehicle** and **small passenger service vehicle**: amended, on 1 October 2007, by [section 95(6)][152] of the Land Transport Amendment Act 2005 (2005 No 77).
     
-    Section 2(1) **permitted smoking area**: repealed, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **permitted smoking area**: repealed, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(1) **point of sale**: inserted, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **point of sale**: inserted, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(1) **pouch pack**: repealed, on 23 July 2012, by [section 7(1)][140] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 2(1) **pouch pack**: repealed, on 23 July 2012, by [section 7(1)][142] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 2(1) **prescribed petroleum operations**: inserted, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **prescribed petroleum operations**: inserted, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(1) **prison**: repealed, on 5 March 2013, by [section 48(2)][151] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 2(1) **prison**: repealed, on 5 March 2013, by [section 48(2)][153] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 2(1) **publish** paragraph (ha): inserted, on 29 July 1997, by [section 2(2)][138] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
+    Section 2(1) **publish** paragraph (ha): inserted, on 29 July 1997, by [section 2(2)][140] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
     
-    Section 2(1) **registered school**: inserted, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **registered school**: inserted, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(1) **residential disability care institution**: inserted, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **residential disability care institution**: inserted, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(1) **rest home**: substituted, on 1 October 2002, by [section 58(1)][122] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
+    Section 2(1) **rest home**: substituted, on 1 October 2002, by [section 58(1)][123] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
     
-    Section 2(1) **retailer**: substituted, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **retailer**: substituted, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(1) **school premises**: inserted, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **school premises**: inserted, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(1) **ship**: inserted, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **ship**: inserted, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(1) **ship on demise charter to a New Zealand-based operator**: inserted, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **ship on demise charter to a New Zealand-based operator**: inserted, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(1) **taxi**: substituted, on 1 January 2009, by [section 63(2)][152] of the Public Transport Management Act 2008 (2008 No 87).
+    Section 2(1) **taxi**: substituted, on 1 January 2009, by [section 63(2)][154] of the Public Transport Management Act 2008 (2008 No 87).
     
-    Section 2(1) **to smoke**: substituted, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **to smoke**: substituted, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(1) **tobacco carton**: inserted, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **tobacco carton**: inserted, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(1) **tobacco package**: inserted, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **tobacco package**: inserted, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(1) **tobacco packages in a visible stack**: repealed, on 23 July 2012, by [section 7(1)][140] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 2(1) **tobacco packages in a visible stack**: repealed, on 23 July 2012, by [section 7(1)][142] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 2(1) **tobacconist's shop**: repealed, on 23 July 2012, by [section 7(1)][140] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 2(1) **tobacconist's shop**: repealed, on 23 July 2012, by [section 7(1)][142] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 2(1) **toy tobacco product**: inserted, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **toy tobacco product**: inserted, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(1) **trade mark**: amended, on 20 August 2003, by [section 201][153] of the Trade Marks Act 2002 (2002 No 49).
+    Section 2(1) **trade mark**: amended, on 20 August 2003, by [section 201][155] of the Trade Marks Act 2002 (2002 No 49).
     
-    Section 2(1) **variant**: inserted, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **variant**: inserted, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(1) **volunteer**: inserted, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **volunteer**: inserted, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(1) **workplace**: substituted, on 11 December 2003, by [section 3(1)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(1) **workplace**: substituted, on 11 December 2003, by [section 3(1)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(1) **workplace** paragraph (e)(vi): repealed, on 5 March 2013, by [section 48(3)][151] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 2(1) **workplace** paragraph (e)(vi): repealed, on 5 March 2013, by [section 48(3)][153] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 2(2): added, on 11 December 2003, by [section 3(3)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(2): added, on 11 December 2003, by [section 3(3)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 2(3): added, on 11 December 2003, by [section 3(3)][135] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 2(3): added, on 11 December 2003, by [section 3(3)][136] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
 
 ##### 3 Act binds the Crown
     
@@ -761,12 +765,12 @@ Title \[Repealed\]
     
     (2) Subsection (1) does not limit or affect the particular purposes, stated in [sections 4][7] and [21][32], of Parts 1 and 2\.
     
-    Section 3A: inserted, on 23 July 2011, by [section 8][154] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 3A: inserted, on 23 July 2011, by [section 8][156] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
 
 ## Part 1  
 Smoke-free workplaces and public areas
     
-*   Part 1 heading: substituted, on 11 December 2003, by [section 4][155] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+*   Part 1 heading: substituted, on 11 December 2003, by [section 4][157] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
 
 ##### 4 Purposes of this Part
     
@@ -778,11 +782,11 @@ Smoke-free workplaces and public areas
     
     *   (c) to prevent the detrimental effect of other people's smoking on the health of young people who are being taught or cared for in registered schools or early childhood education and care centres.
     
-    Section 4: substituted, on 11 December 2003, by [section 4][155] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 4: substituted, on 11 December 2003, by [section 4][157] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 4(b): amended, on 1 December 2008, by [section 60(1)][147] of the Education Amendment Act 2006 (2006 No 19).
+    Section 4(b): amended, on 1 December 2008, by [section 60(1)][149] of the Education Amendment Act 2006 (2006 No 19).
     
-    Section 4(c): amended, on 1 December 2008, by [section 60(1)][147] of the Education Amendment Act 2006 (2006 No 19).
+    Section 4(c): amended, on 1 December 2008, by [section 60(1)][149] of the Education Amendment Act 2006 (2006 No 19).
 
 ##### 5 Smoking in workplaces prohibited
     
@@ -794,7 +798,7 @@ Smoke-free workplaces and public areas
     
     (2) No employee or volunteer may smoke at any time in a workplace that is not a vehicle in which smoking is permitted under [section 5A][9].
     
-    Section 5: substituted, on 10 December 2004, by [section 5][156] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 5: substituted, on 10 December 2004, by [section 5][158] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
 
 ##### 5A Employer may permit smoking in vehicle with consent of users
     
@@ -818,7 +822,7 @@ Smoke-free workplaces and public areas
         
         
     
-    Section 5A: inserted, on 10 December 2004, by [section 5][156] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 5A: inserted, on 10 December 2004, by [section 5][158] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
 
 ##### 6 Dedicated smoking rooms in hospital care institutions, residential disability care institutions, and rest homes
     
@@ -850,19 +854,19 @@ Smoke-free workplaces and public areas
     
     *   (b) does not authorise a person who is not a patient or resident of the institution or home concerned to smoke in a dedicated smoking room.
     
-    Section 6: substituted, on 10 December 2004, by [section 5][156] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 6: substituted, on 10 December 2004, by [section 5][158] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
 
 ##### 6A Smoking in prison cells
     
 *   \[Repealed\]
     
-    Section 6A: repealed, on 5 March 2013, by [section 48(4)][151] of the Corrections Amendment Act 2013 (2013 No 5).
+    Section 6A: repealed, on 5 March 2013, by [section 48(4)][153] of the Corrections Amendment Act 2013 (2013 No 5).
 
 ##### 7 Duties of employer
     
 *   \[Repealed\]
     
-    Section 7: repealed, on 10 December 2004, by [section 5][156] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 7: repealed, on 10 December 2004, by [section 5][158] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
 
 ##### 7A Smoking prohibited at schools and early childhood education and care centres
     
@@ -902,17 +906,17 @@ Smoke-free workplaces and public areas
         
         
     
-    Section 7A: inserted, on 1 January 2004, by [section 6(1)][157] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 7A: inserted, on 1 January 2004, by [section 6(1)][159] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 7A heading: amended, on 1 December 2008, by [section 60(1)][147] of the Education Amendment Act 2006 (2006 No 19).
+    Section 7A heading: amended, on 1 December 2008, by [section 60(1)][149] of the Education Amendment Act 2006 (2006 No 19).
     
-    Section 7A(3)(a): amended, on 1 December 2008, by [section 60(1)][147] of the Education Amendment Act 2006 (2006 No 19).
+    Section 7A(3)(a): amended, on 1 December 2008, by [section 60(1)][149] of the Education Amendment Act 2006 (2006 No 19).
     
-    Section 7A(3)(b): amended, on 1 December 2008, by [section 60(1)][147] of the Education Amendment Act 2006 (2006 No 19).
+    Section 7A(3)(b): amended, on 1 December 2008, by [section 60(1)][149] of the Education Amendment Act 2006 (2006 No 19).
     
-    Section 7A(4)(a): amended, on 1 December 2008, by [section 60(1)][147] of the Education Amendment Act 2006 (2006 No 19).
+    Section 7A(4)(a): amended, on 1 December 2008, by [section 60(1)][149] of the Education Amendment Act 2006 (2006 No 19).
     
-    Section 7A(4)(b): amended, on 1 December 2008, by [section 60(1)][147] of the Education Amendment Act 2006 (2006 No 19).
+    Section 7A(4)(b): amended, on 1 December 2008, by [section 60(1)][149] of the Education Amendment Act 2006 (2006 No 19).
 
 ##### 8 Smoking prohibition on aircraft
     
@@ -920,7 +924,7 @@ Smoke-free workplaces and public areas
     
     (2) \[Repealed\]
     
-    Section 8(2): repealed, on 1 June 2004, by [section 41(3)][158] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 8(2): repealed, on 1 June 2004, by [section 41(3)][160] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 9 Smoking restricted in passenger service vehicles
     
@@ -934,11 +938,11 @@ Smoke-free workplaces and public areas
     
     (3) Nothing in this section shall apply to any small passenger service vehicle (other than an operating taxi) where the driver and every passenger in the vehicle agree that smoking shall be permitted.
     
-    Section 9(1A): inserted, on 10 December 2004, by [section 7(1)][159] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 9(1A): inserted, on 10 December 2004, by [section 7(1)][161] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 9(1B): inserted, on 10 December 2004, by [section 7(1)][159] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 9(1B): inserted, on 10 December 2004, by [section 7(1)][161] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 9(3): amended, on 10 December 2004, by [section 7(2)][159] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 9(3): amended, on 10 December 2004, by [section 7(2)][161] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
 
 ##### 10 Application of Act to ships
     
@@ -956,7 +960,7 @@ Smoke-free workplaces and public areas
     
     *   (c) a foreign ship that is carrying out prescribed petroleum operations in New Zealand continental waters.
     
-    Section 10: substituted, on 10 December 2004, by [section 8][160] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 10: substituted, on 10 December 2004, by [section 8][162] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
 
 ##### 11 Smoking prohibited in certain travel premises
     
@@ -970,7 +974,7 @@ Smoke-free workplaces and public areas
     
     (3) No person may smoke in an area to which this section applies.
     
-    Section 11: substituted, on 10 December 2004, by [section 8][160] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 11: substituted, on 10 December 2004, by [section 8][162] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
 
 ##### 12 Smoking on licensed premises
     
@@ -980,7 +984,7 @@ Smoke-free workplaces and public areas
     
     (3) No person may smoke at any time in a part of any licensed premises that is not an open area.
     
-    Section 12: substituted, on 10 December 2004, by [section 8][160] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 12: substituted, on 10 December 2004, by [section 8][162] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
 
 ##### 13 Smoking in restaurants
     
@@ -990,7 +994,7 @@ Smoke-free workplaces and public areas
     
     (3) No person may smoke at any time in any part of a restaurant that is not an open area.
     
-    Section 13: substituted, on 10 December 2004, by [section 8][160] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 13: substituted, on 10 December 2004, by [section 8][162] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
 
 ##### 13A Smoking in casinos
     
@@ -1000,7 +1004,7 @@ Smoke-free workplaces and public areas
     
     (3) No person may smoke at any time in any part of a casino that is not an open area.
     
-    Section 13A: substituted, on 10 December 2004, by [section 8][160] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 13A: substituted, on 10 December 2004, by [section 8][162] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
 
 ##### 13B Smoking in certain gaming machine venues
     
@@ -1010,19 +1014,19 @@ Smoke-free workplaces and public areas
     
     (3) No person may smoke at any time in any part of a place in respect of which a class 4 gambling venue licence is held that is not an open area.
     
-    Section 13B: inserted, on 10 December 2004, by [section 8][160] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 13B: inserted, on 10 December 2004, by [section 8][162] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
 
 ##### 14 Enforcement officers
     
 *   (1) The Director-General must appoint to enforce this Part and [Part 2][31] people who are---
         
-    *   (a) employees of the Ministry of Health, a local authority under the [Local Government Act 1974][161], or a District Health Board under the [New Zealand Public Health and Disability Act 2000][162]; or
+    *   (a) employees of the Ministry of Health, a local authority under the [Local Government Act 1974][163], or a District Health Board under the [New Zealand Public Health and Disability Act 2000][164]; or
     
     *   (b) employees or officers of some other person or body; or
     
-    *   (c) officers designated under [section 7A][163] of the Health Act 1956; or
+    *   (c) officers designated under [section 7A][165] of the Health Act 1956; or
     
-    *   (d) inspectors appointed under the [Health and Safety in Employment Act 1992][128].
+    *   (d) inspectors appointed under the [Health and Safety in Employment Act 1992][129].
     
     (2) A person may be appointed by name, or as the holder for the time being of a particular position.
     
@@ -1066,7 +1070,7 @@ Smoke-free workplaces and public areas
     
     *   (c) all limitations and restrictions on his or her exercise of enforcement powers imposed under subsection (5)(c).
     
-    Section 14: substituted, on 10 March 2004, by [section 9][164] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 14: substituted, on 10 March 2004, by [section 9][166] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
 
 ##### 15 Complaints relating to workplace smoking
     
@@ -1082,13 +1086,13 @@ Smoke-free workplaces and public areas
     
     (6) If within 40 working days after receiving the complaint the employer is unable to investigate it and resolve it by agreement, the employer must refer it, in writing, to the Director-General.
     
-    Section 15 heading: amended, on 10 December 2004, by [section 10(1)][165] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 15 heading: amended, on 10 December 2004, by [section 10(1)][167] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 15(1): amended, on 1 July 1993, by [section 32][137] of the Health Sector (Transfers) Act 1993 (1993 No 23).
+    Section 15(1): amended, on 1 July 1993, by [section 32][139] of the Health Sector (Transfers) Act 1993 (1993 No 23).
     
-    Section 15(4): amended, on 10 December 2004, by [section 10(2)][165] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 15(4): amended, on 10 December 2004, by [section 10(2)][167] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 15(6): substituted, on 10 December 2004, by [section 10(3)][165] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 15(6): substituted, on 10 December 2004, by [section 10(3)][167] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
 
 ##### 16 Complaints to Director-General
     
@@ -1114,23 +1118,23 @@ Smoke-free workplaces and public areas
     
     (5) The person investigating the complaint may, on investigation, try to settle the cause of the complaint and obtain a satisfactory assurance against repetition of the cause of the complaint.
     
-    (6) Where no such settlement and assurance can be obtained, or if the cause of complaint is in breach of a previously given assurance, a charging document may be filed under [section 14][166] of the Criminal Procedure Act 2011 in respect of the relevant offence.
+    (6) Where no such settlement and assurance can be obtained, or if the cause of complaint is in breach of a previously given assurance, a charging document may be filed under [section 14][168] of the Criminal Procedure Act 2011 in respect of the relevant offence.
     
-    Section 16 heading: substituted, on 29 July 1997, by [section 4][167] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
+    Section 16 heading: substituted, on 29 July 1997, by [section 4][169] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
     
-    Section 16(1): amended, on 1 July 1993, by [section 32][137] of the Health Sector (Transfers) Act 1993 (1993 No 23).
+    Section 16(1): amended, on 1 July 1993, by [section 32][139] of the Health Sector (Transfers) Act 1993 (1993 No 23).
     
-    Section 16(2): amended, on 1 July 1993, by [section 32][137] of the Health Sector (Transfers) Act 1993 (1993 No 23).
+    Section 16(2): amended, on 1 July 1993, by [section 32][139] of the Health Sector (Transfers) Act 1993 (1993 No 23).
     
-    Section 16(2)(a): amended, on 1 July 1993, by [section 32][137] of the Health Sector (Transfers) Act 1993 (1993 No 23).
+    Section 16(2)(a): amended, on 1 July 1993, by [section 32][139] of the Health Sector (Transfers) Act 1993 (1993 No 23).
     
-    Section 16(2)(a)(ii): amended, on 11 December 2003, by [section 11][168] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 16(2)(a)(ii): amended, on 11 December 2003, by [section 11][170] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 16(2)(a)(iii): amended, on 29 July 1997, by [section 4][167] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
+    Section 16(2)(a)(iii): amended, on 29 July 1997, by [section 4][169] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
     
-    Section 16(3): amended, on 1 July 1993, by [section 32][137] of the Health Sector (Transfers) Act 1993 (1993 No 23).
+    Section 16(3): amended, on 1 July 1993, by [section 32][139] of the Health Sector (Transfers) Act 1993 (1993 No 23).
     
-    Section 16(6): amended, on 1 July 2013, by [section 413][169] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 16(6): amended, on 1 July 2013, by [section 413][171] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 17 Offences in respect of smoking
     
@@ -1158,7 +1162,7 @@ Smoke-free workplaces and public areas
     
     (9) A person who smokes in contravention of [section 8(2)][14] commits an offence.
     
-    Section 17: substituted, on 10 December 2004, by [section 12][170] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 17: substituted, on 10 December 2004, by [section 12][172] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
 
 ##### 17A Penalties
     
@@ -1182,15 +1186,15 @@ Smoke-free workplaces and public areas
     
     (4) A person who commits an offence against [section 17(9)][25] is liable to a fine not exceeding $400\.
     
-    Section 17A: inserted, on 10 December 2004, by [section 12][170] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 17A: inserted, on 10 December 2004, by [section 12][172] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
 
 ##### 18 Prosecution of offences
     
 *   (1) Every prosecution for an offence against this Part must be commenced by a person appointed under [section 14][22].
     
-    (2) Despite anything to the contrary in [section 25][171] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Part ends on the date that is 12 months after the date on which the offence was committed.
+    (2) Despite anything to the contrary in [section 25][173] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Part ends on the date that is 12 months after the date on which the offence was committed.
     
-    Section 18: replaced, on 1 July 2013, by [section 413][169] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 18: replaced, on 1 July 2013, by [section 413][171] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 19 Protection of persons acting under authority of Act
     
@@ -1198,26 +1202,26 @@ Smoke-free workplaces and public areas
 
 ##### 20 Saving of powers to make bylaws
     
-*   Nothing in this Part shall limit or affect the powers of a local authority under [section 145(b)][172] of the Local Government Act 2002, to make bylaws providing greater protection from tobacco smoke than is provided by this Part.
+*   Nothing in this Part shall limit or affect the powers of a local authority under [section 145(b)][174] of the Local Government Act 2002, to make bylaws providing greater protection from tobacco smoke than is provided by this Part.
     
-    Section 20: amended, on 1 July 2003, by [section 262][173] of the Local Government Act 2002 (2002 No 84).
+    Section 20: amended, on 1 July 2003, by [section 262][175] of the Local Government Act 2002 (2002 No 84).
     
-    Section 20: amended, on 1 July 1993, by [section 32][137] of the Health Sector (Transfers) Act 1993 (1993 No 23).
+    Section 20: amended, on 1 July 1993, by [section 32][139] of the Health Sector (Transfers) Act 1993 (1993 No 23).
 
 ##### 20A Health and Safety in Employment Act 1992 not affected
     
 *   Nothing in this Part, and no steps taken in compliance or purported compliance with this Part, limits or affects---
         
-    *   (a) the [Health and Safety in Employment Act 1992][128]; or
+    *   (a) the [Health and Safety in Employment Act 1992][129]; or
     
     *   (b) the obligations of any person under that Act.
     
-    Section 20A: inserted, on 11 December 2003, by [section 13][174] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 20A: inserted, on 11 December 2003, by [section 13][176] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
 
 ## Part 2  
 Control of smoking products
     
-*   Part 2 heading: substituted, on 11 December 2003, by [section 14][175] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+*   Part 2 heading: substituted, on 11 December 2003, by [section 14][177] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
 
 ##### 21 Purpose of this Part
     
@@ -1237,9 +1241,9 @@ Control of smoking products
     
     *   (c) to facilitate the harmonisation of the laws of New Zealand and Australia relating to the labelling of tobacco products (including, without limitation, requirements relating to the display of health messages).
     
-    Section 21: substituted, on 29 July 1997, by [section 6][176] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
+    Section 21: substituted, on 29 July 1997, by [section 6][178] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
     
-    Section 21(a)(iii): added, on 11 December 2003, by [section 15][177] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 21(a)(iii): added, on 11 December 2003, by [section 15][179] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
 
 #### Promotion and advertising
 
@@ -1265,7 +1269,7 @@ Control of smoking products
     
     (4) Subsections (2) and (3) do not limit the generality of subsection (1) or of the definition in [section 2(1)][3] of the term tobacco product advertisement.
     
-    Section 22: replaced, on 23 July 2012, by [section 9][178] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 22: replaced, on 23 July 2012, by [section 9][180] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
 
 ##### 22A Exemptions from advertising prohibition for specified publications
     
@@ -1295,7 +1299,7 @@ Control of smoking products
         
         
     
-    Section 22A: inserted, on 23 July 2012, by [section 9][178] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 22A: inserted, on 23 July 2012, by [section 9][180] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
 
 ##### 23 Exemptions from advertising prohibition for retailers, vending machines, and Internet sellers
     
@@ -1337,7 +1341,7 @@ Control of smoking products
     
     *   (b) complies with any regulations for the time being in force under [section 39(1)(id)][74].
     
-    Section 23: replaced, on 23 July 2012, by [section 9][178] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 23: replaced, on 23 July 2012, by [section 9][180] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
 
 ##### 23A Display of tobacco products in or from sales outlets or vending machines generally prohibited
     
@@ -1365,7 +1369,7 @@ Control of smoking products
     
     (6) Subsections (1) and (2) do not, however, apply to a tobacco product, tobacco package, or tobacco carton that is visible in a way that complies with any relevant temporary transitional exemption regulations for the time being in force under [section 39(1)(if)][74].
     
-    Section 23A: replaced, on 23 July 2012, by [section 9][178] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 23A: replaced, on 23 July 2012, by [section 9][180] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
 
 ##### 23B Transitional exemption regulations expire 12 months after section 23A comes into force
     
@@ -1375,11 +1379,11 @@ Control of smoking products
     
     *   (b) all regulations under [section 39(1)(if)][74] that are in force immediately before the end of that period.
     
-    (2) The 12-month transition period ends at the close of the period of 12 months that starts on the day on which [section 23A][37] (as substituted by [section 9][178] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011) comes into force.
+    (2) The 12-month transition period ends at the close of the period of 12 months that starts on the day on which [section 23A][37] (as substituted by [section 9][180] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011) comes into force.
     
     (3) On their expiry those enactments are repealed or, as the case requires, revoked.
     
-    Section 23B: replaced, on 23 July 2012, by [section 9][178] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 23B: replaced, on 23 July 2012, by [section 9][180] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
 
 ##### 24 Use of trade marks, etc, on goods other than tobacco products, or in relation to sponsored events
     
@@ -1439,7 +1443,7 @@ Control of smoking products
     
     *   (c) makes, before the activity is to take place, or during or after the time that it takes place, any financial or non-financial contribution to any other person in respect of the organisation or promotion, by that other person, of, or the participation, by that other person, in, some or all of the activity.
     
-    Section 25: replaced, on 23 July 2012, by [section 10][179] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 25: replaced, on 23 July 2012, by [section 10][181] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
 
 ##### 25A Sponsoring activity involving exclusive supply arrangement
     
@@ -1449,9 +1453,9 @@ Control of smoking products
     
     (3) Subsection (2) does not limit subsection (1).
     
-    (4) This section operates in parallel with (that is, is not subject to, and does not override) the [Commerce Act 1986][180].
+    (4) This section operates in parallel with (that is, is not subject to, and does not override) the [Commerce Act 1986][182].
     
-    Section 25A: inserted, on 23 July 2012, by [section 10][179] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 25A: inserted, on 23 July 2012, by [section 10][181] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
 
 ##### 26 Exemptions for participants in certain events
     
@@ -1573,11 +1577,11 @@ Control of smoking products
     
     purchases or attempts to purchase any tobacco product.
     
-    Section 28: substituted, on 29 July 1997, by [section 8][181] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
+    Section 28: substituted, on 29 July 1997, by [section 8][183] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
     
-    Section 28(1A): inserted, on 10 December 2004, by [section 19(1)][182] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 28(1A): inserted, on 10 December 2004, by [section 19(1)][184] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 28(3): repealed, on 11 December 2003, by [section 19(2)][182] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 28(3): repealed, on 11 December 2003, by [section 19(2)][184] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
 
 ##### 28A Arrangements conflicting with Act have no effect
     
@@ -1591,9 +1595,9 @@ Control of smoking products
     
     (3) Subsection (2) does not limit subsection (1).
     
-    (4) A person who is, or is claiming through or under, a party to the arrangement may (regardless of whether it is a contract) seek relief under the [Illegal Contracts Act 1970][183] (which applies with the necessary modifications) as if compliance with the term were performance, in a way that gives rise to illegality, of a provision of a contract.
+    (4) A person who is, or is claiming through or under, a party to the arrangement may (regardless of whether it is a contract) seek relief under the [Illegal Contracts Act 1970][185] (which applies with the necessary modifications) as if compliance with the term were performance, in a way that gives rise to illegality, of a provision of a contract.
     
-    Section 28A: inserted, on 23 July 2011, by [section 11][184] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 28A: inserted, on 23 July 2011, by [section 11][186] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
 
 ##### 29 Tobacco product not to be advertised or labelled as suitable for chewing, etc
     
@@ -1611,7 +1615,7 @@ Control of smoking products
     
     *   (b) complies with any regulations for the time being in force under [section 39(1)(ig)][74].
     
-    Section 29AA: inserted, on 23 July 2012, by [section 12][185] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 29AA: inserted, on 23 July 2012, by [section 12][187] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
 
 ##### 29AAB Internet-sales health information or warnings
     
@@ -1623,7 +1627,7 @@ Control of smoking products
     
     *   (b) must comply with any regulations for the time being in force under [section 39(1)(ih)][74].
     
-    Section 29AAB: inserted, on 23 July 2012, by [section 12][185] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 29AAB: inserted, on 23 July 2012, by [section 12][187] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
 
 ##### 29A Sale of tobacco products with other products prohibited
     
@@ -1641,7 +1645,7 @@ Control of smoking products
     
     *   (c) in the case of a retailer, supply a tobacco product to which subsection (1) applies to another person for the purpose of that retailer's business.
     
-    Section 29A: inserted, on 10 December 2004, by [section 20][186] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 29A: inserted, on 10 December 2004, by [section 20][188] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
 
 ##### 29B Restriction on use of automatic vending machines
     
@@ -1659,7 +1663,7 @@ Control of smoking products
     
     (3) For the purposes of this Act, a person who activates an automatic vending machine so that a sale of a tobacco product or herbal smoking product to another person occurs is a party to the sale of that product to the other person.
     
-    Section 29B: inserted, on 10 December 2004, by [section 20][186] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 29B: inserted, on 10 December 2004, by [section 20][188] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
 
 ##### 30 Sale, and sellers' arranging or effecting delivery, of tobacco products and herbal smoking products to people under 18 prohibited
     
@@ -1667,7 +1671,7 @@ Control of smoking products
     
     (2) It is a defence to a charge in respect of a contravention of subsection (1) if the person charged proves that the contravention occurred without his or her knowledge and that he or she took reasonable precautions and exercised due diligence to prevent the contravention of that subsection.
     
-    (2A) For the purposes of subsection (2), a person charged in respect of a contravention of subsection (1) who proves that he or she sighted an evidence of age document (within the meaning of [section 2A][187] of the Sale of Liquor Act 1989) of the person to whom the product concerned was sold, indicating that the person was of or over the age of 18 years, proves that the contravention occurred without his or her knowledge and that he or she took reasonable precautions and exercised due diligence to prevent the contravention of that subsection.
+    (2A) For the purposes of subsection (2), a person charged in respect of a contravention of subsection (1) who proves that he or she sighted an evidence of age document of the person to whom the product concerned was sold, indicating that the person was of or over the age of 18 years, proves that the contravention occurred without his or her knowledge and that he or she took reasonable precautions and exercised due diligence to prevent the contravention of that subsection.
     
     (2B) Subsection (2A) does not affect the generality of subsection (2).
     
@@ -1691,21 +1695,23 @@ Control of smoking products
     
     *   (b) comply with any regulations for the time being in force under [section 39(1)(ij)][74].
     
-    Section 30: substituted, on 11 December 2003, by [section 21][188] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 30: substituted, on 11 December 2003, by [section 21][189] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 30 heading: amended, on 23 July 2011, by [section 13(1)][189] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 30 heading: amended, on 23 July 2011, by [section 13(1)][190] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 30(1): amended, on 23 July 2011, by [section 13(2)][189] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 30(1): amended, on 23 July 2011, by [section 13(2)][190] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 30(6): replaced, on 23 July 2012, by [section 13(3) ][189]of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 30(2A): amended, on 18 December 2013, by [section 417(1)][138] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
     
-    Section 30(6A): inserted, on 23 July 2012, by [section 13(3) ][189]of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 30(6): replaced, on 23 July 2012, by [section 13(3) ][190]of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 30(6B): inserted, on 23 July 2012, by [section 13(3) ][189]of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 30(6A): inserted, on 23 July 2012, by [section 13(3) ][190]of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    
+    Section 30(6B): inserted, on 23 July 2012, by [section 13(3) ][190]of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
 
 ##### 30AA Supplying tobacco products or herbal smoking products to people under 18 prohibited
     
-*   (1) No person may, in a public place (within the meaning of [section 2][190] of the Summary Offences Act 1981),---
+*   (1) No person may, in a public place (within the meaning of [section 2][191] of the Summary Offences Act 1981),---
         
     *   (a) supply a tobacco product or herbal smoking product to a person younger than 18 years; or
     
@@ -1713,7 +1719,7 @@ Control of smoking products
     
     (2) It is a defence to a charge in respect of a contravention of subsection (1) if the person charged proves that he or she had no reasonable grounds to suspect that the person supplied was younger than 18 years.
     
-    (3) For the purposes of subsection (2), a person charged in respect of a contravention of subsection (1) who proves that he or she sighted an evidence of age document (within the meaning of [section 2A][187] of the Sale of Liquor Act 1989) of the person to whom the product concerned was supplied, indicating that the person was of or over the age of 18 years, proves that he or she had no reasonable grounds to suspect that the person supplied was younger than 18 years.
+    (3) For the purposes of subsection (2), a person charged in respect of a contravention of subsection (1) who proves that he or she sighted an evidence of age document of the person to whom the product concerned was supplied, indicating that the person was of or over the age of 18 years, proves that he or she had no reasonable grounds to suspect that the person supplied was younger than 18 years.
     
     (4) It is not a defence to a charge in respect of a contravention of subsection (1)---
         
@@ -1723,7 +1729,9 @@ Control of smoking products
     
     (5) Subsection (1) applies irrespective of any liability that may attach to a person who has sold the product concerned to any other person.
     
-    Section 30AA: inserted, on 11 December 2003, by [section 21][188] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 30AA: inserted, on 11 December 2003, by [section 21][189] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    
+    Section 30AA(3): amended, on 18 December 2013, by [section 417(1)][138] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
 
 ##### 30AB Certain repeat offenders may be ordered not to sell tobacco products
     
@@ -1731,7 +1739,7 @@ Control of smoking products
         
     *   (a) if a person---
             
-        *   (i) has been convicted of and is to be sentenced in respect of an offence against [section 30(1)][53] committed after the commencement of [section 21][188] of the Smoke-free Environments Amendment Act 2003 (the _repeat offence_); and
+        *   (i) has been convicted of and is to be sentenced in respect of an offence against [section 30(1)][53] committed after the commencement of [section 21][189] of the Smoke-free Environments Amendment Act 2003 (the _repeat offence_); and
         
         *   (ii) within the 2 years before the conviction for the repeat offence was entered, had been convicted of an offence against [section 30(1)][53] (whether committed before or after that commencement); or
         
@@ -1771,7 +1779,7 @@ Control of smoking products
     
     *   (b) the date it expires (which must be a date at least 4 weeks and no more than 3 months after the date it takes effect).
     
-    Section 30AB: inserted, on 10 March 2004, by [section 22][191] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 30AB: inserted, on 10 March 2004, by [section 22][192] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
 
 ##### 30A Restrictions on sale of certain tobacco products in small quantities
     
@@ -1803,7 +1811,7 @@ Control of smoking products
     
     (4) Nothing in subsection (2) or subsection (3)(a) applies in respect of cigars (other than cigarillos).
     
-    Section 30A: inserted, on 29 July 1997, by [section 9][192] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
+    Section 30A: inserted, on 29 July 1997, by [section 9][193] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
 
 ##### 31 Limits on harmful constituents
     
@@ -1813,9 +1821,9 @@ Control of smoking products
     
     *   (b) contains, or generates in its smoke, harmful constituents in excess of the limits prescribed by regulations made under this Part, as determined in accordance with any tests so prescribed.
     
-    Section 31: substituted, on 29 July 1997, by [section 10][193] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
+    Section 31: substituted, on 29 July 1997, by [section 10][194] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
     
-    Section 31: amended, on 1 February 2005, by [section 23][194] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 31: amended, on 1 February 2005, by [section 23][195] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
 
 ##### 32 Labelling and health messages for tobacco products
     
@@ -1855,7 +1863,7 @@ Control of smoking products
     
     (4) Subsection (3) does not authorise or excuse a contravention of [section 29B][52].
     
-    Section 32: substituted, on 10 December 2004, by [section 24][195] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 32: substituted, on 10 December 2004, by [section 24][196] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
 
 ##### 32AA Labelling and health messages for herbal smoking products
     
@@ -1889,7 +1897,7 @@ Control of smoking products
     
     (4) Subsection (3) does not authorise or excuse a contravention of [section 29B][52].
     
-    Section 32AA: inserted, on 10 December 2004, by [section 24][195] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 32AA: inserted, on 10 December 2004, by [section 24][196] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
 
 #### Testing, reports, and returns
 
@@ -1913,7 +1921,7 @@ Control of smoking products
     
     *   (c) herbal smoking products of any kind.
     
-    Section 33: substituted, on 10 December 2004, by [section 24][195] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 33: substituted, on 10 December 2004, by [section 24][196] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
 
 ##### 34 Director-General may require further testing
     
@@ -1927,7 +1935,7 @@ Control of smoking products
     
     (3) In any year, the Director-General must not require tests under this section in respect of more than 10% of the brands of products to which [section 33][61] applies sold by a particular manufacturer or importer.
     
-    Section 34: substituted, on 10 December 2004, by [section 24][195] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 34: substituted, on 10 December 2004, by [section 24][196] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
 
 ##### 35 Returns and reports
     
@@ -1951,7 +1959,7 @@ Control of smoking products
     
     *   (b) may publish or make publicly available in any other way all or any part of any such return or report.
     
-    Section 35: substituted, on 1 February 2004, by [section 25][196] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 35: substituted, on 1 February 2004, by [section 25][197] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
 
 #### Offences
 
@@ -2067,43 +2075,43 @@ Control of smoking products
     
     commits an offence and is liable to a fine not exceeding $10,000\.
     
-    Section 36 heading: amended, on 23 July 2011, by [section 15(1)][197] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 36 heading: amended, on 23 July 2011, by [section 15(1)][198] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 36(1A): replaced, on 23 July 2012, by [section 15(2)][197] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 36(1A): replaced, on 23 July 2012, by [section 15(2)][198] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 36(3): amended, on 23 July 2012, by [section 15(3)][197] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 36(3): amended, on 23 July 2012, by [section 15(3)][198] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 36(3A): inserted, on 23 July 2012, by [section 15(4)][197] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 36(3A): inserted, on 23 July 2012, by [section 15(4)][198] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 36(4A): inserted, on 11 December 2003, by [section 26(3)][198] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 36(4A): inserted, on 11 December 2003, by [section 26(3)][199] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 36(5AA): inserted, on 23 July 2012, by [section 15(5)][197] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 36(5AA): inserted, on 23 July 2012, by [section 15(5)][198] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 36(5AAB): inserted, on 23 July 2012, by [section 15(5)][197] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 36(5AAB): inserted, on 23 July 2012, by [section 15(5)][198] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 36(5A): inserted, on 10 December 2004, by [section 26(4)][198] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 36(5A): inserted, on 10 December 2004, by [section 26(4)][199] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 36(5B): inserted, on 10 December 2004, by [section 26(4)][198] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 36(5B): inserted, on 10 December 2004, by [section 26(4)][199] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 36(6): substituted, on 23 July 2011, by [section 15(6)][197] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 36(6): substituted, on 23 July 2011, by [section 15(6)][198] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 36(6A): inserted, on 23 July 2011, by [section 15(6)][197] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 36(6A): inserted, on 23 July 2011, by [section 15(6)][198] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 36(6B): inserted, on 23 July 2011, by [section 15(6)][197] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 36(6B): inserted, on 23 July 2011, by [section 15(6)][198] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 36(7): substituted, on 23 July 2011, by [section 15(6)][197] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 36(7): substituted, on 23 July 2011, by [section 15(6)][198] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 36(7AAA): inserted, on 23 July 2011, by [section 15(6)][197] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 36(7AAA): inserted, on 23 July 2011, by [section 15(6)][198] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 36(7AA): inserted, on 10 March 2004, by [section 26(6)][198] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 36(7AA): inserted, on 10 March 2004, by [section 26(6)][199] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 36(7A): inserted, on 29 July 1997, by [section 12][199] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
+    Section 36(7A): inserted, on 29 July 1997, by [section 12][200] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
     
-    Section 36(8): substituted, on 29 July 1997, by [section 12][199] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
+    Section 36(8): substituted, on 29 July 1997, by [section 12][200] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
     
-    Section 36(9A): inserted, on 10 December 2004, by [section 26(7)][198] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 36(9A): inserted, on 10 December 2004, by [section 26(7)][199] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 36(10): amended, on 10 December 2004, by [section 26(8)][198] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 36(10): amended, on 10 December 2004, by [section 26(8)][199] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
 
 ##### 36A Toy tobacco products
     
@@ -2113,7 +2121,7 @@ Control of smoking products
     
     (3) It is a defence to a charge in respect of a contravention of subsection (1) if the person charged proves that the contravention occurred without his or her knowledge and that he or she took reasonable precautions and exercised due diligence to prevent the contravention of that subsection.
     
-    (4) For the purposes of subsection (3), a person charged in respect of a contravention of subsection (1) who proves that he or she sighted an evidence of age document (within the meaning of [section 2A][187] of the Sale of Liquor Act 1989) of the person to whom the product concerned was sold, indicating that the person was of or over the age of 18 years, proves that the contravention occurred without his or her knowledge and that he or she took reasonable precautions and exercised due diligence to prevent the contravention of that subsection.
+    (4) For the purposes of subsection (3), a person charged in respect of a contravention of subsection (1) who proves that he or she sighted an evidence of age document of the person to whom the product concerned was sold, indicating that the person was of or over the age of 18 years, proves that the contravention occurred without his or her knowledge and that he or she took reasonable precautions and exercised due diligence to prevent the contravention of that subsection.
     
     (5) Subsection (4) does not affect the generality of subsection (3).
     
@@ -2123,7 +2131,9 @@ Control of smoking products
     
     *   (b) that the person charged believed on reasonable grounds that the person to whom the product concerned was sold was buying it for or on behalf of, or as agent for, a person of or over the age of 18 years.
     
-    Section 36A: inserted, on 11 December 2003, by [section 27][200] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 36A: inserted, on 11 December 2003, by [section 27][201] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    
+    Section 36A(4): amended, on 18 December 2013, by [section 417(1)][138] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
 
 ##### 37 Enforcement
     
@@ -2131,11 +2141,11 @@ Control of smoking products
     
     (2) Every prosecution for an offence against this Part must be commenced by the Director-General or a person authorised by the Director-General.
     
-    (3) Despite anything to the contrary in [section 25][171] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Part ends on the date that is 12 months after the date on which the offence was committed.
+    (3) Despite anything to the contrary in [section 25][173] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Part ends on the date that is 12 months after the date on which the offence was committed.
     
-    Section 37(2): replaced, on 1 July 2013, by [section 413][169] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 37(2): replaced, on 1 July 2013, by [section 413][171] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 37(3): replaced, on 1 July 2013, by [section 413][169] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 37(3): replaced, on 1 July 2013, by [section 413][171] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 38 Liability of employees, employers, agents, and principals
     
@@ -2145,7 +2155,7 @@ Control of smoking products
     
     (3) Anything done by a person as the agent of another person is, for the purposes of an offence against [section 36(6)][65] in respect of a contravention of [section 30(1)][53], to be treated as done by that other person as well as by the first-mentioned person, unless it is done without that other person's express or implied authority, precedent or subsequent.
     
-    Section 38: substituted, on 29 July 1997, by [section 13][201] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
+    Section 38: substituted, on 29 July 1997, by [section 13][202] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
 
 ##### 38A Infringement offences
     
@@ -2181,45 +2191,45 @@ Control of smoking products
     
     *   (k) [section 36A(2)][66] (which relates to contravening [section 36A(1)][66], which prohibits sale of a toy tobacco product to a person younger than 18 years)---maximum infringement fee amount $400\.
     
-    Compare: 1989 No 63 [s 162A][202]
+    Compare: 1989 No 63 [s 162A][203]
     
-    Section 38A: inserted, on 23 July 2011, by [section 16(1)][203] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 38A: inserted, on 23 July 2011, by [section 16(1)][204] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 38A **infringement offence** paragraph (a): replaced, on 23 July 2012, by [section 16(2)][203] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 38A **infringement offence** paragraph (a): replaced, on 23 July 2012, by [section 16(2)][204] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 38A **infringement offence** paragraph (b): replaced, on 23 July 2012, by [section 16(2)][203] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 38A **infringement offence** paragraph (b): replaced, on 23 July 2012, by [section 16(2)][204] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 38A **infringement offence** paragraph (c): replaced, on 23 July 2012, by [section 16(2)][203] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 38A **infringement offence** paragraph (c): replaced, on 23 July 2012, by [section 16(2)][204] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 38A **infringement offence** paragraph (d): replaced, on 23 July 2012, by [section 16(2)][203] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 38A **infringement offence** paragraph (d): replaced, on 23 July 2012, by [section 16(2)][204] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 38A **infringement offence** paragraph (e): replaced, on 23 July 2012, by [section 16(2)][203] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 38A **infringement offence** paragraph (e): replaced, on 23 July 2012, by [section 16(2)][204] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 38A **infringement offence** paragraph (f): replaced, on 23 July 2012, by [section 16(2)][203] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 38A **infringement offence** paragraph (f): replaced, on 23 July 2012, by [section 16(2)][204] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 38A **infringement offence** paragraph (g): replaced, on 23 July 2012, by [section 16(2)][203] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 38A **infringement offence** paragraph (g): replaced, on 23 July 2012, by [section 16(2)][204] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 38A **infringement offence** paragraph (h): inserted, on 23 July 2012, by [section 16(2)][203] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 38A **infringement offence** paragraph (h): inserted, on 23 July 2012, by [section 16(2)][204] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 38A **infringement offence** paragraph (i): inserted, on 23 July 2012, by [section 16(2)][203] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 38A **infringement offence** paragraph (i): inserted, on 23 July 2012, by [section 16(2)][204] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 38A **infringement offence** paragraph (j): inserted, on 23 July 2012, by [section 16(2)][203] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 38A **infringement offence** paragraph (j): inserted, on 23 July 2012, by [section 16(2)][204] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 38A **infringement offence** paragraph (k): inserted, on 23 July 2012, by [section 16(2)][203] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 38A **infringement offence** paragraph (k): inserted, on 23 July 2012, by [section 16(2)][204] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
 
 ##### 38B Commission of infringement offences
     
 *   A person who is alleged to have committed an infringement offence may either---
         
-    *   (a) be proceeded against for the alleged offence by filing a charging document under [section 14][166] of the Criminal Procedure Act 2011; or
+    *   (a) be proceeded against for the alleged offence by filing a charging document under [section 14][168] of the Criminal Procedure Act 2011; or
     
     *   (b) be served with an infringement notice as provided for in [section 38C][71].
     
-    Compare: 1989 No 63 [s 162B][204]
+    Compare: 1989 No 63 [s 162B][205]
     
-    Section 38B: inserted, on 23 July 2011, by [section 16(1)][203] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 38B: inserted, on 23 July 2011, by [section 16(1)][204] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 38B(a): amended, on 1 July 2013, by [section 413][169] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 38B(a): amended, on 1 July 2013, by [section 413][171] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 38C Infringement notices
     
@@ -2239,7 +2249,7 @@ Control of smoking products
     
     *   (d) the time within which the infringement fee must be paid; and
     
-    *   (e) a summary of the provisions of [section 21(10)][205] of the Summary Proceedings Act 1957; and
+    *   (e) a summary of the provisions of [section 21(10)][206] of the Summary Proceedings Act 1957; and
     
     *   (f) a statement that the person served with the notice has a right to request a hearing; and
     
@@ -2247,21 +2257,21 @@ Control of smoking products
     
     *   (h) any other particulars that may be prescribed.
     
-    (5) If an infringement notice has been issued under this section, the procedure under [section 21][205] of the Summary Proceedings Act 1957 may be used in respect of the offence to which the infringement notice relates; and, in that case, the provisions of that section apply with all necessary modifications.
+    (5) If an infringement notice has been issued under this section, the procedure under [section 21][206] of the Summary Proceedings Act 1957 may be used in respect of the offence to which the infringement notice relates; and, in that case, the provisions of that section apply with all necessary modifications.
     
-    Compare: 1989 No 63 [s 162C][206]
+    Compare: 1989 No 63 [s 162C][207]
     
-    Section 38C: inserted, on 23 July 2011, by [section 16(1)][203] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 38C: inserted, on 23 July 2011, by [section 16(1)][204] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 38C(3): amended, on 1 July 2013, by [section 413][169] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 38C(3): amended, on 1 July 2013, by [section 413][171] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 38D Payment of infringement fees
     
 *   All infringement fees paid in respect of infringement offences must be paid into a Crown Bank Account.
     
-    Compare: 1989 No 63 [s 162D][207]
+    Compare: 1989 No 63 [s 162D][208]
     
-    Section 38D: inserted, on 23 July 2011, by [section 16(1)][203] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 38D: inserted, on 23 July 2011, by [section 16(1)][204] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
 
 #### Miscellaneous provisions
 
@@ -2311,7 +2321,7 @@ Control of smoking products
     
     *   (ik) prescribing for the purposes of [section 38A][69] the infringement fee or infringement fees payable in respect of different kinds of infringement offences:
     
-    *   (il) prescribing for the purposes of (and for the purposes of the procedure in [section 21][205] of the Summary Proceedings Act 1957 as modified and applied by) [section 38C][71] the form of infringement notices and reminder notices for infringement offences, and any other particulars to be contained in infringement notices and reminder notices:
+    *   (il) prescribing for the purposes of (and for the purposes of the procedure in [section 21][206] of the Summary Proceedings Act 1957 as modified and applied by) [section 38C][71] the form of infringement notices and reminder notices for infringement offences, and any other particulars to be contained in infringement notices and reminder notices:
     
     *   (j) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Part or its due administration.
     
@@ -2373,7 +2383,7 @@ Control of smoking products
     
     *   (e) any official attribution (which may, without limitation, be or include ""Ministry of Health Warning"") that that information is, or that those warnings are, to contain.
     
-    (7) This subsection applies to regulations under this section if they are the first regulations made after the commencement of [section 28][208] of the Smoke-free Environments Amendment Act 2003 that (substantively, or by amending existing regulations)---
+    (7) This subsection applies to regulations under this section if they are the first regulations made after the commencement of [section 28][209] of the Smoke-free Environments Amendment Act 2003 that (substantively, or by amending existing regulations)---
         
     *   (a) require tobacco products sold or offered for sale to display a photograph or picture intended to have effect as a warning relating to the effects of their use on health; or
     
@@ -2413,77 +2423,77 @@ Control of smoking products
     
     (9) If regulations to which subsection (7) applies are made after 30 June in any year and before 1 February in the next year, they must come into force no sooner than 1 February in the year after that next year.
     
-    Section 39(1)(a): substituted, on 29 July 1997, by [section 14(1)][209] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
+    Section 39(1)(a): substituted, on 29 July 1997, by [section 14(1)][210] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
     
-    Section 39(1)(c): repealed, on 23 July 2012, by [section 17(1)][210] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
+    Section 39(1)(c): repealed, on 23 July 2012, by [section 17(1)][211] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
     
-    Section 39(1)(d): repealed, on 11 December 1998, by [section 7(3)(b)][141] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
+    Section 39(1)(d): repealed, on 11 December 1998, by [section 7(3)(b)][143] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
     
-    Section 39(1)(e): amended, on 10 December 2004, by [section 28(1)(a)][208] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 39(1)(e): amended, on 10 December 2004, by [section 28(1)(a)][209] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 39(1)(f): amended, on 10 December 2004, by [section 28(1)(b)][208] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 39(1)(f): amended, on 10 December 2004, by [section 28(1)(b)][209] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 39(1)(g): substituted, on 29 July 1997, by [section 14(3)][209] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
+    Section 39(1)(g): substituted, on 29 July 1997, by [section 14(3)][210] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
     
-    Section 39(1)(g): amended, on 10 December 2004, by [section 28(1)(c)][208] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 39(1)(g): amended, on 10 December 2004, by [section 28(1)(c)][209] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 39(1)(ga): inserted, on 29 July 1997, by [section 14(3)][209] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
+    Section 39(1)(ga): inserted, on 29 July 1997, by [section 14(3)][210] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
     
-    Section 39(1)(ga): amended, on 10 December 2004, by [section 28(1)(d)][208] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 39(1)(ga): amended, on 10 December 2004, by [section 28(1)(d)][209] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 39(1)(h): amended, on 10 December 2004, by [section 28(1)(e)][208] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 39(1)(h): amended, on 10 December 2004, by [section 28(1)(e)][209] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 39(1)(ia): replaced, on 23 July 2012, by [section 17(2)][210] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 39(1)(ia): replaced, on 23 July 2012, by [section 17(2)][211] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 39(1)(ib): inserted, on 23 July 2012, by [section 17(2)][210] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 39(1)(ib): inserted, on 23 July 2012, by [section 17(2)][211] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 39(1)(ic): inserted, on 23 July 2012, by [section 17(2)][210] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 39(1)(ic): inserted, on 23 July 2012, by [section 17(2)][211] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 39(1)(id): inserted, on 23 July 2012, by [section 17(2)][210] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 39(1)(id): inserted, on 23 July 2012, by [section 17(2)][211] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 39(1)(ie): inserted, on 23 July 2012, by [section 17(2)][210] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 39(1)(ie): inserted, on 23 July 2012, by [section 17(2)][211] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 39(1)(if): inserted, on 23 July 2012, by [section 17(2)][210] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 39(1)(if): inserted, on 23 July 2012, by [section 17(2)][211] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 39(1)(ig): inserted, on 23 July 2012, by [section 17(2)][210] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 39(1)(ig): inserted, on 23 July 2012, by [section 17(2)][211] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 39(1)(ih): inserted, on 23 July 2012, by [section 17(2)][210] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 39(1)(ih): inserted, on 23 July 2012, by [section 17(2)][211] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 39(1)(ii): inserted, on 23 July 2012, by [section 17(2)][210] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 39(1)(ii): inserted, on 23 July 2012, by [section 17(2)][211] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 39(1)(ij): inserted, on 23 July 2012, by [section 17(2)][210] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 39(1)(ij): inserted, on 23 July 2012, by [section 17(2)][211] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 39(1)(ik): inserted, on 23 July 2011, by [section 17(4)][210] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 39(1)(ik): inserted, on 23 July 2011, by [section 17(4)][211] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 39(1)(il): inserted, on 23 July 2011, by [section 17(4)][210] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 39(1)(il): inserted, on 23 July 2011, by [section 17(4)][211] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 39(2): repealed, on 29 July 1997, by [section 14(4)][209] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
+    Section 39(2): repealed, on 29 July 1997, by [section 14(4)][210] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
     
-    Section 39(3): repealed, on 23 July 2012, by [section 17(3)(a)][210] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
+    Section 39(3): repealed, on 23 July 2012, by [section 17(3)(a)][211] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
     
-    Section 39(4): repealed, on 23 July 2012, by [section 17(3)(a)][210] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
+    Section 39(4): repealed, on 23 July 2012, by [section 17(3)(a)][211] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
     
-    Section 39(5): repealed, on 23 July 2012, by [section 17(3)(a)][210] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
+    Section 39(5): repealed, on 23 July 2012, by [section 17(3)(a)][211] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
     
-    Section 39(6): added, on 10 December 2004, by [section 28(3)][208] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 39(6): added, on 10 December 2004, by [section 28(3)][209] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 39(6): amended, on 23 July 2012, by [section 17(3)(b)][210] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
+    Section 39(6): amended, on 23 July 2012, by [section 17(3)(b)][211] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
     
-    Section 39(6A): inserted, on 23 July 2012, by [section 17(5)][210] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
+    Section 39(6A): inserted, on 23 July 2012, by [section 17(5)][211] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
     
-    Section 39(6B): inserted, on 23 July 2012, by [section 17(5)][210] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
+    Section 39(6B): inserted, on 23 July 2012, by [section 17(5)][211] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
     
-    Section 39(6C): inserted, on 23 July 2012, by [section 17(5)][210] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
+    Section 39(6C): inserted, on 23 July 2012, by [section 17(5)][211] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
     
-    Section 39(6D): inserted, on 23 July 2012, by [section 17(5)][210] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
+    Section 39(6D): inserted, on 23 July 2012, by [section 17(5)][211] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
     
-    Section 39(6E): inserted, on 23 July 2012, by [section 17(5)][210] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
+    Section 39(6E): inserted, on 23 July 2012, by [section 17(5)][211] of the Smoke-free Environments Amendment Act 1997 (1997 No 32).
     
-    Section 39(7): added, on 10 December 2004, by [section 28(3)][208] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 39(7): added, on 10 December 2004, by [section 28(3)][209] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 39(8): added, on 10 December 2004, by [section 28(3)][208] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 39(8): added, on 10 December 2004, by [section 28(3)][209] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 39(9): added, on 10 December 2004, by [section 28(3)][208] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 39(9): added, on 10 December 2004, by [section 28(3)][209] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
 
 ##### 40 Transitional provisions
     
@@ -2521,17 +2531,17 @@ Control of smoking products
     
     (5), (6) _Amendment(s) incorporated in the regulations._
     
-    Section 41(1): repealed, on 2 July 2001, by [section 150(1)][211] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
+    Section 41(1): repealed, on 2 July 2001, by [section 150(1)][212] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
     
-    Section 41(2): repealed, on 2 July 2001, by [section 150(1)][211] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
+    Section 41(2): repealed, on 2 July 2001, by [section 150(1)][212] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
     
-    Section 41(3): repealed, on 2 July 2001, by [section 150(1)][211] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
+    Section 41(3): repealed, on 2 July 2001, by [section 150(1)][212] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
     
-    Section 41(4): repealed, on 2 July 2001, by [section 150(1)][211] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
+    Section 41(4): repealed, on 2 July 2001, by [section 150(1)][212] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
 
 ##### 41AA Purposes of Smoke-free Environments (Controls and Enforcement) Amendment Act 2011
     
-*   (1) The purpose of [Part 1][212] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 is to amend this Act so that it---
+*   (1) The purpose of [Part 1][213] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 is to amend this Act so that it---
         
     *   (a) generally prohibits the display of tobacco products in or at the outside of retail and other sales outlets, but also provides for temporary transitional exemptions from compliance during a 12-month transition period:
     
@@ -2549,18 +2559,18 @@ Control of smoking products
     
     *   (h) is adjusted by related amendments and repeals.
     
-    (2) The purpose of [Part 2][213] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 is to amend this Act so that---
+    (2) The purpose of [Part 2][214] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 is to amend this Act so that---
         
     *   (a) it makes an infringement notice scheme available to enforce specified prohibitions, including the prohibitions on the sale of tobacco products and herbal smoking products to people younger than 18 years:
     
     *   (b) its provisions relating to offences, regulations, and amendments are adjusted in the light of the amendments made to it by that Amendment Act.
     
-    Section 41AA: inserted, on 23 July 2011, by [section 19][214] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 41AA: inserted, on 23 July 2011, by [section 19][215] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
 
 ## Part 2A  
 Powers of enforcement officers
     
-*   Part 2A: inserted, on 10 March 2004, by [section 29][215] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+*   Part 2A: inserted, on 10 March 2004, by [section 29][216] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
 
 ##### 41A Powers of entry and inspection
     
@@ -2602,9 +2612,9 @@ Powers of enforcement officers
     
     *   (b) with the consent of an occupier.
     
-    Section 41A: inserted, on 10 March 2004, by [section 29][215] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 41A: inserted, on 10 March 2004, by [section 29][216] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 41A(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][216] of the Policing Act 2008 (2008 No 72).
+    Section 41A(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][217] of the Policing Act 2008 (2008 No 72).
 
 ##### 41B Requirement to give identifying information
     
@@ -2622,15 +2632,15 @@ Powers of enforcement officers
     
     (3) An enforcement officer who suspects that a person is younger than 17 years must not under subsection (1)(b) require the person to give the officer the name and address of (or name and other identifying information relating to) any other person if the other person is in the place concerned and appears to be 17 years old or older.
     
-    Section 41B: inserted, on 10 March 2004, by [section 29][215] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 41B: inserted, on 10 March 2004, by [section 29][216] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 41B(1): amended, on 23 July 2011, by [section 20(1)][217] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 41B(1): amended, on 23 July 2011, by [section 20(1)][218] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 41B(1): amended, on 23 July 2011, by [section 20(2)][217] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 41B(1): amended, on 23 July 2011, by [section 20(2)][218] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 41B(1)(a): amended, on 23 July 2011, by [section 20(3)][217] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 41B(1)(a): amended, on 23 July 2011, by [section 20(3)][218] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
     
-    Section 41B(1)(b): amended, on 23 July 2011, by [section 20(3)][217] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 41B(1)(b): amended, on 23 July 2011, by [section 20(3)][218] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
 
 ##### 41C Purposes for which powers may be used
     
@@ -2646,9 +2656,9 @@ Powers of enforcement officers
     
     (3) This section does not prevent an enforcement officer from using in proceedings for an offence against this Act evidence obtained during the lawful exercise of any of the powers given by [sections 41A][79] and [41B][80].
     
-    Section 41C: inserted, on 10 March 2004, by [section 29][215] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 41C: inserted, on 10 March 2004, by [section 29][216] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 41C(2): substituted, on 23 July 2011, by [section 21][218] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
+    Section 41C(2): substituted, on 23 July 2011, by [section 21][219] of the Smoke-free Environments (Controls and Enforcement) Amendment Act 2011 (2011 No 53).
 
 ##### 41D Duties of enforcement officers
     
@@ -2664,7 +2674,7 @@ Powers of enforcement officers
     
     *   (b) if asked by the person to do so, must produce to the person evidence of identity, his or her instrument of appointment as an enforcement officer, or both.
     
-    Section 41D: inserted, on 10 March 2004, by [section 29][215] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 41D: inserted, on 10 March 2004, by [section 29][216] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
 
 ##### 41E Offences in respect of enforcement officers
     
@@ -2676,9 +2686,9 @@ Powers of enforcement officers
     
     *   (c) when required under [section 41B][80] to give information, gives information the person knows to be false or misleading.
     
-    Section 41E: inserted, on 10 March 2004, by [section 29][215] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 41E: inserted, on 10 March 2004, by [section 29][216] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 41E: amended, on 1 July 2013, by [section 413][169] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 41E: amended, on 1 July 2013, by [section 413][171] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 41F Enforcement
     
@@ -2686,174 +2696,174 @@ Powers of enforcement officers
     
     (2) Every prosecution for an offence against this Part must be commenced by the Director-General or a person authorised by the Director-General.
     
-    (3) Despite anything to the contrary in [section 25][171] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Part ends on the date that is 12 months after the date on which the offence was committed.
+    (3) Despite anything to the contrary in [section 25][173] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Part ends on the date that is 12 months after the date on which the offence was committed.
     
     (4) \[Repealed\]
     
-    Section 41F: inserted, on 10 March 2004, by [section 29][215] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
+    Section 41F: inserted, on 10 March 2004, by [section 29][216] of the Smoke-free Environments Amendment Act 2003 (2003 No 127).
     
-    Section 41F(2): replaced, on 1 July 2013, by [section 413][169] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 41F(2): replaced, on 1 July 2013, by [section 413][171] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 41F(3): replaced, on 1 July 2013, by [section 413][169] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 41F(3): replaced, on 1 July 2013, by [section 413][171] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 41F(4): repealed, on 1 July 2013, by [section 413][169] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 41F(4): repealed, on 1 July 2013, by [section 413][171] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 3  
 Health Sponsorship Council
 
 \[Repealed\]
     
-*   Part 3: repealed, on 1 July 2012, by [section 14(3)][144] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
+*   Part 3: repealed, on 1 July 2012, by [section 14(3)][146] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
 
 ##### 42 Meaning of sponsorship
     
 *   \[Repealed\]
     
-    Section 42: repealed, on 1 July 2012, by [section 14(3)][144] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
+    Section 42: repealed, on 1 July 2012, by [section 14(3)][146] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
 
 ##### 43 Council established
     
 *   \[Repealed\]
     
-    Section 43: repealed, on 1 July 2012, by [section 14(3)][144] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
+    Section 43: repealed, on 1 July 2012, by [section 14(3)][146] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
 
 ##### 44 Principal functions of Council
     
 *   \[Repealed\]
     
-    Section 44: repealed, on 1 July 2012, by [section 14(3)][144] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
+    Section 44: repealed, on 1 July 2012, by [section 14(3)][146] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
 
 ##### 45 Membership of Council
     
 *   \[Repealed\]
     
-    Section 45: repealed, on 1 July 2012, by [section 14(3)][144] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
+    Section 45: repealed, on 1 July 2012, by [section 14(3)][146] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
 
 ##### 46 Term of office of members of Council
     
 *   \[Repealed\]
     
-    Section 46: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
+    Section 46: repealed, on 25 January 2005, by [section 200][148] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 47 Meetings of Council
     
 *   \[Repealed\]
     
-    Section 47: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
+    Section 47: repealed, on 25 January 2005, by [section 200][148] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 48 Conflict of interest
     
 *   \[Repealed\]
     
-    Section 48: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
+    Section 48: repealed, on 25 January 2005, by [section 200][148] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 49 Council to appoint chief executive
     
 *   \[Repealed\]
     
-    Section 49: repealed, on 1 July 2012, by [section 14(3)][144] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
+    Section 49: repealed, on 1 July 2012, by [section 14(3)][146] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
 
 ##### 50 Other staff
     
 *   \[Repealed\]
     
-    Section 50: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
+    Section 50: repealed, on 25 January 2005, by [section 200][148] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 51 Council may appoint advisory and technical committees
     
 *   \[Repealed\]
     
-    Section 51: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
+    Section 51: repealed, on 25 January 2005, by [section 200][148] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 52 Council may co-opt specialist advice
     
 *   \[Repealed\]
     
-    Section 52: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
+    Section 52: repealed, on 25 January 2005, by [section 200][148] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 53 Remuneration and allowances for members of Council and committees
     
 *   \[Repealed\]
     
-    Section 53: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
+    Section 53: repealed, on 25 January 2005, by [section 200][148] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 54 Salaries, etc, to be paid out of funds of Council
     
 *   \[Repealed\]
     
-    Section 54: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
+    Section 54: repealed, on 25 January 2005, by [section 200][148] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 55 Powers of Council
     
 *   \[Repealed\]
     
-    Section 55: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
+    Section 55: repealed, on 25 January 2005, by [section 200][148] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 56 Council to provide alternative sponsorship
     
 *   \[Repealed\]
     
-    Section 56: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
+    Section 56: repealed, on 25 January 2005, by [section 200][148] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 57 Minister may give Council directions
     
 *   \[Repealed\]
     
-    Section 57: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
+    Section 57: repealed, on 25 January 2005, by [section 200][148] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 58 Council to submit annual budget and plans for Minister's approval
     
 *   \[Repealed\]
     
-    Section 58: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
+    Section 58: repealed, on 25 January 2005, by [section 200][148] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 59 Funds of Council
     
 *   \[Repealed\]
     
-    Section 59: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
+    Section 59: repealed, on 25 January 2005, by [section 200][148] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 60 Further provisions relating to funds
     
 *   \[Repealed\]
     
-    Section 60: repealed, on 1 July 2012, by [section 14(3)][144] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
+    Section 60: repealed, on 1 July 2012, by [section 14(3)][146] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
 
 ##### 61 Liability of Council and members
     
 *   \[Repealed\]
     
-    Section 61: repealed, on 1 July 2012, by [section 14(3)][144] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
+    Section 61: repealed, on 1 July 2012, by [section 14(3)][146] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
 
 ##### 62 Accounts
     
 *   \[Repealed\]
     
-    Section 62: repealed, on 21 December 1992, by [section 42][219] of the Public Finance Amendment Act 1992 (1992 No 142).
+    Section 62: repealed, on 21 December 1992, by [section 42][220] of the Public Finance Amendment Act 1992 (1992 No 142).
 
 ##### 62A Crown entity
     
 *   \[Repealed\]
     
-    Section 62A: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
+    Section 62A: repealed, on 25 January 2005, by [section 200][148] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 63 Annual reports
     
 *   \[Repealed\]
     
-    Section 63: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
+    Section 63: repealed, on 25 January 2005, by [section 200][148] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 64 Ombudsmen Act 1975 amended
     
 *   \[Repealed\]
     
-    Section 64: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
+    Section 64: repealed, on 25 January 2005, by [section 200][148] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 65 Films Act 1983 amended
     
 *   \[Repealed\]
     
-    Section 65: repealed, on 1 October 1994, by [section 150(2)][220] of the Films, Videos, and Publications Classification Act 1993 (1993 No 94).
+    Section 65: repealed, on 1 October 1994, by [section 150(2)][221] of the Films, Videos, and Publications Classification Act 1993 (1993 No 94).
 
 #### 
 
@@ -2867,67 +2877,69 @@ Health Sponsorship Council
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][221] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][222] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][222] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][223] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][223] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][224] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][224] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][225] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Companies Amendment Act 2013 (2013 No 111): [section 14][142]
+*   Companies Amendment Act 2013 (2013 No 111): [section 14][144]
     
-    Corrections Amendment Act 2013 (2013 No 5): [section 48][151]
+    Corrections Amendment Act 2013 (2013 No 5): [section 48][153]
     
-    New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41): [section 14][144]
+    Sale and Supply of Alcohol Act 2012 (2012 No 120): [section 417(1)][138]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][169]
+    New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41): [section 14][146]
     
-    [Smoke-free Environments (Controls and Enforcement) Amendment Act 2011][225] (2011 No 53)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][171]
     
-    Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34): [section 861][148]
+    [Smoke-free Environments (Controls and Enforcement) Amendment Act 2011][226] (2011 No 53)
     
-    Public Transport Management Act 2008 (2008 No 87): [section 63(2)][152]
+    Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34): [section 861][150]
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][216]
+    Public Transport Management Act 2008 (2008 No 87): [section 63(2)][154]
     
-    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][226]
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][217]
     
-    Education Amendment Act 2006 (2006 No 19): [section 60(1)][147]
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][227]
     
-    Land Transport Amendment Act 2005 (2005 No 77): [section 95(6)][150]
+    Education Amendment Act 2006 (2006 No 19): [section 60(1)][149]
     
-    Crown Entities Act 2004 (2004 No 115): [section 200][146]
+    Land Transport Amendment Act 2005 (2005 No 77): [section 95(6)][152]
     
-    Civil Aviation Amendment Act 2004 (2004 No 8): [section 41(3)][158]
+    Crown Entities Act 2004 (2004 No 115): [section 200][148]
     
-    [Smoke-free Environments Amendment Act 2003][227] (2003 No 127)
+    Civil Aviation Amendment Act 2004 (2004 No 8): [section 41(3)][160]
     
-    Gambling Act 2003 (2003 No 51): [section 374][139]
+    [Smoke-free Environments Amendment Act 2003][228] (2003 No 127)
     
-    Local Government Act 2002 (2002 No 84): [section 262][173]
+    Gambling Act 2003 (2003 No 51): [section 374][141]
     
-    Trade Marks Act 2002 (2002 No 49): [section 201][153]
+    Local Government Act 2002 (2002 No 84): [section 262][175]
     
-    Health and Disability Services (Safety) Act 2001 (2001 No 93): [section 58(1)][122]
+    Trade Marks Act 2002 (2002 No 49): [section 201][155]
     
-    [Smoke-free Environments Amendment Act 1997][228] (1997 No 32)
+    Health and Disability Services (Safety) Act 2001 (2001 No 93): [section 58(1)][123]
     
-    Hazardous Substances and New Organisms Act 1996 (1996 No 30): [section 150(1)][211]
+    [Smoke-free Environments Amendment Act 1997][229] (1997 No 32)
     
-    Maritime Transport Act 1994 (1994 No 104): [section 202(1)][145]
+    Hazardous Substances and New Organisms Act 1996 (1996 No 30): [section 150(1)][212]
     
-    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][143]
+    Maritime Transport Act 1994 (1994 No 104): [section 202(1)][147]
     
-    Films, Videos, and Publications Classification Act 1993 (1993 No 94): [section 150(2)][220]
+    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][145]
     
-    Electoral Act 1993 (1993 No 87): [section 284][149]
+    Films, Videos, and Publications Classification Act 1993 (1993 No 94): [section 150(2)][221]
     
-    Health Sector (Transfers) Act 1993 (1993 No 23): [section 32][137]
+    Electoral Act 1993 (1993 No 87): [section 284][151]
+    
+    Health Sector (Transfers) Act 1993 (1993 No 23): [section 32][139]
     
     Smoke-free Environments Amendment Act 1993 (1993 No 5)
     
-    Public Finance Amendment Act 1992 (1992 No 142): [section 42][219]
+    Public Finance Amendment Act 1992 (1992 No 142): [section 42][220]
     
     Smoke-free Environments Amendment Act 1991 (1991 No 35)
     
@@ -3049,118 +3061,119 @@ Health Sponsorship Council
 [111]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3640003
 [112]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3640004
 [113]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM214692
-[114]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM208691
-[115]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM209309
-[116]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM209300
-[117]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM207804
-[118]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM336787
-[119]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM319569
-[120]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM334667
-[121]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM187091
-[122]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM120905
-[123]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM165115
-[124]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM1522997
-[125]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM336955
-[126]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM275032
-[127]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM433619
-[128]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM278828
-[129]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM155364
-[130]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM175965
-[131]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM275939
-[132]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM55054
-[133]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM55061
-[134]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM164239
-[135]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM234946
-[136]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM218728
-[137]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM295182
-[138]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM409915
-[139]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM210735
-[140]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3418518
-[141]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM409920
-[142]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM5620822
-[143]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM328986
-[144]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM4484092
-[145]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM336918
-[146]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM331111
-[147]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM373082
-[148]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM1401902
-[149]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM310833
-[150]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM353501
-[151]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM5016205
-[152]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM1180107
-[153]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM165256
-[154]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3640007
-[155]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235532
-[156]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235535
-[157]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235540
-[158]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM240092
-[159]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235542
-[160]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235543
-[161]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM415531
-[162]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM80050
-[163]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM306518
-[164]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235550
-[165]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235553
-[166]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3360057
-[167]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM409917
-[168]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235554
-[169]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3360714
-[170]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235555
-[171]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3360067
-[172]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM172978
-[173]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM174088
-[174]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235558
-[175]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235561
-[176]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM409919
-[177]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235562
-[178]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3418526
-[179]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3640012
-[180]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM87622
-[181]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM409922
-[182]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235568
-[183]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM396434
-[184]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3418531
-[185]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3418534
-[186]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235569
-[187]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM165334
-[188]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235572
-[189]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3418536
-[190]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM53353
-[191]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235575
-[192]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM409923
-[193]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM409924
-[194]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235579
-[195]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235580
-[196]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235587
-[197]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3418541
-[198]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235589
-[199]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM409927
-[200]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235590
-[201]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM409928
-[202]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM166374
-[203]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3418543
-[204]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM166380
-[205]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM311346
-[206]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM166382
-[207]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM166384
-[208]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235592
-[209]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM409929
-[210]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3418553
-[211]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM385161
-[212]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3418514
-[213]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3418537
-[214]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3418556
-[215]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235593
-[216]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM1102349
-[217]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM223977
-[218]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM223984
-[219]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM289849
-[220]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM314425
-[221]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM2998516
-[222]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM2998515
-[223]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM2998532
-[224]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[225]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3418502
-[226]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM1523176
-[227]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM234939
-[228]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM409909
+[114]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3339341
+[115]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM208691
+[116]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM209309
+[117]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM209300
+[118]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM207804
+[119]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM336787
+[120]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM319569
+[121]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM334667
+[122]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM187091
+[123]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM120905
+[124]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3339302
+[125]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM1522997
+[126]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM336955
+[127]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM275032
+[128]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM433619
+[129]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM278828
+[130]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM155364
+[131]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM175965
+[132]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM275939
+[133]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM55054
+[134]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM55061
+[135]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM164239
+[136]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM234946
+[137]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM218728
+[138]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3339984
+[139]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM295182
+[140]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM409915
+[141]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM210735
+[142]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3418518
+[143]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM409920
+[144]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM5620822
+[145]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM328986
+[146]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM4484092
+[147]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM336918
+[148]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM331111
+[149]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM373082
+[150]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM1401902
+[151]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM310833
+[152]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM353501
+[153]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM5016205
+[154]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM1180107
+[155]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM165256
+[156]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3640007
+[157]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235532
+[158]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235535
+[159]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235540
+[160]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM240092
+[161]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235542
+[162]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235543
+[163]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM415531
+[164]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM80050
+[165]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM306518
+[166]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235550
+[167]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235553
+[168]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3360057
+[169]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM409917
+[170]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235554
+[171]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3360714
+[172]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235555
+[173]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3360067
+[174]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM172978
+[175]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM174088
+[176]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235558
+[177]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235561
+[178]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM409919
+[179]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235562
+[180]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3418526
+[181]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3640012
+[182]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM87622
+[183]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM409922
+[184]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235568
+[185]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM396434
+[186]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3418531
+[187]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3418534
+[188]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235569
+[189]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235572
+[190]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3418536
+[191]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM53353
+[192]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235575
+[193]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM409923
+[194]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM409924
+[195]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235579
+[196]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235580
+[197]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235587
+[198]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3418541
+[199]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235589
+[200]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM409927
+[201]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235590
+[202]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM409928
+[203]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM166374
+[204]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3418543
+[205]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM166380
+[206]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM311346
+[207]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM166382
+[208]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM166384
+[209]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235592
+[210]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM409929
+[211]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3418553
+[212]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM385161
+[213]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3418514
+[214]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3418537
+[215]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3418556
+[216]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM235593
+[217]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM1102349
+[218]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM223977
+[219]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM223984
+[220]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM289849
+[221]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM314425
+[222]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM2998516
+[223]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM2998515
+[224]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM2998532
+[225]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[226]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM3418502
+[227]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM1523176
+[228]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM234939
+[229]: http://www.legislation.govt.nz/act/public/1990/0108/latest/link.aspx?id=DLM409909
