@@ -1,5 +1,5 @@
 Reprint  
-as at 26 September 2013
+as at 18 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -8513,11 +8513,11 @@ All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] an
 
 [Resource Management Act 1991][920] [334(1)][921] Constable or enforcement officer may obtain and execute search warrant if issuing officer is satisfied that there are reasonable grounds for believing that at, in, on, over, or under any place or vehicle there is any thing in respect of which imprisonable offence under [Resource Management Act 1991][920] or any regulations made under that Act has been committed or any thing that is evidence of such offence or that is intended to be used to commit such offence All (except that [sections 118][166] and [119][168] apply to constables only)
 
-[Sale of Liquor Act 1989][925] [177(1)][926] Constable may obtain and execute search warrant if issuing officer is satisfied that there are reasonable grounds for believing that certain contraventions of [Sale of Liquor Act 1989][925] are occurring All
+[Sale and Supply of Alcohol Act 2012][1084] [270][1085] Constable may obtain and execute search warrant if issuing officer is satisfied that there are reasonable grounds for believing that certain contraventions of [Sale and Supply of Alcohol Act 2012][1084] are occurring All
 
-[Tax Administration Act 1994][927] [16][929] Commissioner of Inland Revenue or authorised employee of Inland Revenue Department may have full and free access to things described in [section 16][929] of Tax Administration Act 1994 for purpose of inspection as described in that section, including making extracts and copies [Subparts 1][127], [3][138], [4][154], [7][230], [9][241], and [10][249] (except [sections 102][1084], [103(3)(b)(ii)][1085], [103(4)(g)][1085], [103(7)][1085], [115(1)(b)][1086], [118][1087], [119][168], and [130(4)][187])
+[Tax Administration Act 1994][927] [16][929] Commissioner of Inland Revenue or authorised employee of Inland Revenue Department may have full and free access to things described in [section 16][929] of Tax Administration Act 1994 for purpose of inspection as described in that section, including making extracts and copies [Subparts 1][127], [3][138], [4][154], [7][230], [9][241], and [10][249] (except [sections 102][1086], [103(3)(b)(ii)][1087], [103(4)(g)][1087], [103(7)][1087], [115(1)(b)][1088], [118][1089], [119][168], and [130(4)][187])
 
-[16C(2)][930] Commissioner of Inland Revenue or authorised employee of Inland Revenue Department may obtain and execute warrant to remove books and documents from place and retain them for full and complete inspection if issuing officer is satisfied that this may be required to enable applicant to exercise his or her functions under [section 16][929] of Tax Administration Act 1994 [Subparts 1][127], [3][138], [4][154], [7][230], [9][241], and [10][249] (except [sections 102][1084], [103(3)(b)(ii)][1085], [103(4)(g)][1085], [103(7)][1085], [115(1)(b)][1086], [118][1087], [119][168], and [130(4)][187])
+[16C(2)][930] Commissioner of Inland Revenue or authorised employee of Inland Revenue Department may obtain and execute warrant to remove books and documents from place and retain them for full and complete inspection if issuing officer is satisfied that this may be required to enable applicant to exercise his or her functions under [section 16][929] of Tax Administration Act 1994 [Subparts 1][127], [3][138], [4][154], [7][230], [9][241], and [10][249] (except [sections 102][1086], [103(3)(b)(ii)][1087], [103(4)(g)][1087], [103(7)][1087], [115(1)(b)][1088], [118][1089], [119][168], and [130(4)][187])
 
 [Trade in Endangered Species Act 1989][933] [37(1)][934] Officer who has reasonable grounds to believe that breach of [Trade in Endangered Species Act 1989][933] or of any regulations made under that Act has occurred may exercise certain entry, inspection, and related powers All (except [subpart 3][138])
 
@@ -8553,10 +8553,11 @@ All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] an
 
 [68][964] Property seized under search warrant issued under [section 65][961] of Wine Act 2003 may be disposed of [Subparts 1][127], [5][194], [6][213], [7][230], [9][241], and [10][249]
 
-*   Schedule: amended, on 1 September 2013, by [section 164][1088] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013(2013 No 52).
-*   Schedule: amended, on 18 July 2013, by [section 110(1)][1089] of the Psychoactive Substances Act 2013 (2013 No 53).
-*   Schedule: amended, on 28 June 2013, by [section 177][1090] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72).
-*   Schedule: amended, on 24 May 2013, by [section 65][1091] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+*   Schedule: amended, on 18 December 2013, by [section 417(1)][1090] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
+*   Schedule: amended, on 1 September 2013, by [section 164][1091] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013(2013 No 52).
+*   Schedule: amended, on 18 July 2013, by [section 110(1)][1092] of the Psychoactive Substances Act 2013 (2013 No 53).
+*   Schedule: amended, on 28 June 2013, by [section 177][1093] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72).
+*   Schedule: amended, on 24 May 2013, by [section 65][1094] of the Crown Minerals Amendment Act 2013 (2013 No 14).
 
 #### 
 
@@ -8570,11 +8571,11 @@ All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] an
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1092] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][1093] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1095] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][1096] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][1094] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][1095] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][1097] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][1098] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
@@ -8582,17 +8583,19 @@ All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] an
     
     [Search and Surveillance Act Commencement Order 2013][550] (SR 2013/302)
     
-    Psychoactive Substances Act 2013 (2013 No 53): [sections 108][606], [110(1)][1089]
+    Psychoactive Substances Act 2013 (2013 No 53): [sections 108][606], [110(1)][1092]
     
-    Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52): [section 164][1088]
+    Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52): [section 164][1091]
     
-    Crown Minerals Amendment Act 2013 (2013 No 14): [section 65][1091]
+    Crown Minerals Amendment Act 2013 (2013 No 14): [section 65][1094]
     
     Electronic Identity Verification Act 2012 (2012 No 123): [section 76][753]
     
-    Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72): [section 177][1090]
+    Sale and Supply of Alcohol Act 2012 (2012 No 120): [section 417(1)][1090]
     
-    [Search and Surveillance Act Commencement Order 2012][1096] (SR 2012/229)
+    Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72): [section 177][1093]
+    
+    [Search and Surveillance Act Commencement Order 2012][1099] (SR 2012/229)
 
 
 
@@ -9680,16 +9683,19 @@ All (except [subparts 2][131], [3][138], and [8][236] and [sections 118][166] an
 [1081]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM201206
 [1082]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM201224
 [1083]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM1607314
-[1084]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM354640
-[1085]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM354649
-[1086]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM354959
-[1087]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM354965
-[1088]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5166179
-[1089]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5043149
-[1090]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4670824
-[1091]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5081570
-[1092]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2998516
-[1093]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2998515
-[1094]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2998532
-[1095]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[1096]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4686441
+[1084]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3339302
+[1085]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3339787
+[1086]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM354640
+[1087]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM354649
+[1088]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM354959
+[1089]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM354965
+[1090]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM3339984
+[1091]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5166179
+[1092]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5043149
+[1093]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4670824
+[1094]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM5081570
+[1095]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2998516
+[1096]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2998515
+[1097]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM2998532
+[1098]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[1099]: http://www.legislation.govt.nz/act/public/2012/0024/latest/link.aspx?id=DLM4686441
