@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 18 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Justice.
 
@@ -1825,7 +1825,7 @@ Offences
     
     *   (c) on his or her own or through another person.
     
-    (3) Every person who is the holder of a licence for the retail sale of liquor (within the meaning of the [Sale of Liquor Act 1989][236]) commits the offence of treating who, before or during the voting period, knowingly supplies any food, drink, entertainment, or provision---
+    (3) Every person who is the holder of a licence for the retail sale of alcohol (within the meaning of the [Sale and Supply of Alcohol Act 2012][236]) commits the offence of treating who, before or during the voting period, knowingly supplies any food, drink, entertainment, or provision---
         
     *   (a) to any person when the supply is demanded for the purpose of treating; or
     
@@ -1836,6 +1836,8 @@ Offences
     (5) Every person who commits the offence of treating is guilty of a corrupt practice for the purposes of the [Electoral Act 1993][132].
     
     Compare: 1997 No 13 [s 57][237]
+    
+    Section 72(3): amended, on 18 December 2013, by [section 417(1)][238] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
 
 ##### 73 Undue influence
     
@@ -1861,7 +1863,7 @@ Offences
     
     (4) Every person who commits the offence of undue influence is guilty of a corrupt practice for the purposes of the [Electoral Act 1993][132].
     
-    Compare: 1997 No 13 [s 58][238]
+    Compare: 1997 No 13 [s 58][239]
 
 ##### 74 Voting
     
@@ -1885,7 +1887,7 @@ Offences
     
     (3) Every person who, except for a lawful purpose, interferes with or attempts to interfere with a voter marking his or her voting paper at the referendum commits an offence and is liable on conviction to a fine not exceeding $5,000\.
     
-    Compare: 1997 No 13 [s 59][239]
+    Compare: 1997 No 13 [s 59][240]
     
     Section 74(1): amended, on 1 July 2013, by [section 413][229] of the Criminal Procedure Act 2011 (2011 No 81).
     
@@ -1907,7 +1909,7 @@ Offences
     
     (3) Every person who commits, or aids, abets, counsels, or procures the commission of, the offence of personation is guilty of a corrupt practice for the purposes of the [Electoral Act 1993][132].
     
-    Compare: 1997 No 13 [s 60][240]
+    Compare: 1997 No 13 [s 60][241]
 
 ##### 76 Processing
     
@@ -1923,7 +1925,7 @@ Offences
     
     (4) Every person who commits an offence against subsection (3) is guilty of a corrupt practice for the purposes of the [Electoral Act 1993][132].
     
-    Compare: 1997 No 13 [s 61][241]
+    Compare: 1997 No 13 [s 61][242]
     
     Section 76(1): amended, on 1 July 2013, by [section 413][229] of the Criminal Procedure Act 2011 (2011 No 81).
     
@@ -1935,7 +1937,7 @@ Offences
     
 *   In any prosecution for an offence in relation to any voting paper or any envelope containing any voting paper, the property in the voting paper or envelope may be stated as being in the Returning Officer.
     
-    Compare: 1997 No 13 [s 62][242]
+    Compare: 1997 No 13 [s 62][243]
 
 ## Part 8  
 Miscellaneous provisions
@@ -1966,7 +1968,7 @@ Miscellaneous provisions
     
     *   (d) to make such other provision for the case as the Governor-General thinks fit.
     
-    Compare: 1997 No 13 [s 63][243]
+    Compare: 1997 No 13 [s 63][244]
 
 ##### 79 Two or more referenda
     
@@ -1988,15 +1990,15 @@ Miscellaneous provisions
     
     *   (f) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
     
-    (2) Rules of court may be made in the manner prescribed by the [Judicature Act 1908][244] for the purposes of this Part.
+    (2) Rules of court may be made in the manner prescribed by the [Judicature Act 1908][245] for the purposes of this Part.
     
-    Compare: 1997 No 13 [s 65][245]
+    Compare: 1997 No 13 [s 65][246]
 
 ##### 81 Enactments amended
     
 *   The enactments specified in [Schedule 2][128] are amended in the manner indicated in that schedule.
     
-    Compare: 1997 No 13 [s 64][246]
+    Compare: 1997 No 13 [s 64][247]
 
 ## Part 9  
 Amendments to Citizens Initiated Referenda Act 1993
@@ -2007,63 +2009,63 @@ Amendments to Citizens Initiated Referenda Act 1993
 
 ##### 83 Interpretation
     
-*   _Amendment(s) incorporated in the [Act(s)][247]._
+*   _Amendment(s) incorporated in the [Act(s)][248]._
 
 ##### 84 Part heading substituted
     
-*   _Amendment(s) incorporated in the [Act(s)][248]._
+*   _Amendment(s) incorporated in the [Act(s)][249]._
 
 ##### 85 Prohibitions
     
-*   _Amendment(s) incorporated in the [Act(s)][249]._
+*   _Amendment(s) incorporated in the [Act(s)][250]._
 
 ##### 86 New sections 22 to 22AB substituted
     
-*   _Amendment(s) incorporated in the [Act(s)][250]._
+*   _Amendment(s) incorporated in the [Act(s)][251]._
 
 ##### 87 Part heading substituted
     
-*   _Amendment(s) incorporated in the [Act(s)][251]._
+*   _Amendment(s) incorporated in the [Act(s)][252]._
 
 ##### 88 New sections 24 to 26C substituted
     
-*   _Amendment(s) incorporated in the [Act(s)][251]._
+*   _Amendment(s) incorporated in the [Act(s)][252]._
 
 ##### 89 Endorsement and return of the writ
     
-*   _Amendment(s) incorporated in the [Act(s)][252]._
+*   _Amendment(s) incorporated in the [Act(s)][253]._
 
 ##### 90 New sections 40 and 40AA substituted
     
-*   _Amendment(s) incorporated in the [Act(s)][253]._
+*   _Amendment(s) incorporated in the [Act(s)][254]._
 
 ##### 91 New Part heading substituted
     
-*   _Amendment(s) incorporated in the [Act(s)][254]._
+*   _Amendment(s) incorporated in the [Act(s)][255]._
 
 ##### 92 Publicity for indicative referendum
     
-*   _Amendment(s) incorporated in the [Act(s)][254]._
+*   _Amendment(s) incorporated in the [Act(s)][255]._
 
 ##### 93 Returns in relation to advertisements
     
-*   _Amendment(s) incorporated in the [Act(s)][255]._
+*   _Amendment(s) incorporated in the [Act(s)][256]._
 
 ##### 94 Duty of Chief Electoral Officer
     
 *   \[Repealed\]
     
-    Section 94: repealed, on 28 February 2002, by [section 101(5)][256] of the Electoral Amendment Act 2002 (2002 No 1).
+    Section 94: repealed, on 28 February 2002, by [section 101(5)][257] of the Electoral Amendment Act 2002 (2002 No 1).
 
 ##### 95 Return to be open for public inspection
     
 *   \[Repealed\]
     
-    Section 95: repealed, on 28 February 2002, by [section 101(5)][256] of the Electoral Amendment Act 2002 (2002 No 1).
+    Section 95: repealed, on 28 February 2002, by [section 101(5)][257] of the Electoral Amendment Act 2002 (2002 No 1).
 
 ##### 96 Part heading substituted
     
-*   _Amendment(s) incorporated in the [Act(s)][257]._
+*   _Amendment(s) incorporated in the [Act(s)][258]._
 
 ##### 97 New headings and sections 48 to 51G substituted
     
@@ -2071,27 +2073,27 @@ Amendments to Citizens Initiated Referenda Act 1993
 
 ##### 98 New Part heading substituted
     
-*   _Amendment(s) incorporated in the [Act(s)][258]._
+*   _Amendment(s) incorporated in the [Act(s)][259]._
 
 ##### 99 Part heading substituted
     
-*   _Amendment(s) incorporated in the [Act(s)][259]._
+*   _Amendment(s) incorporated in the [Act(s)][260]._
 
 ##### 100 New section 55 substituted
     
-*   _Amendment(s) incorporated in the [Act(s)][259]._
+*   _Amendment(s) incorporated in the [Act(s)][260]._
 
 ##### 101 New section 58A inserted
     
-*   _Amendment(s) incorporated in the [Act(s)][260]._
+*   _Amendment(s) incorporated in the [Act(s)][261]._
 
 ##### 102 Schedule amended
     
 *   (1) \[Repealed\]
     
-    (2) _Amendment(s) incorporated in the [Act(s)][261]._
+    (2) _Amendment(s) incorporated in the [Act(s)][262]._
     
-    Section 102(1): repealed, on 28 February 2002, by [section 101(5)][256] of the Electoral Amendment Act 2002 (2002 No 1).
+    Section 102(1): repealed, on 28 February 2002, by [section 101(5)][257] of the Electoral Amendment Act 2002 (2002 No 1).
 
 ##### 103 Consequential repeals
     
@@ -2238,7 +2240,7 @@ Enactments amended
 
 ##### Summary Proceedings Act 1957 (1957 No 87)
 
-_Amendment(s) incorporated in the [Act(s)][262]._
+_Amendment(s) incorporated in the [Act(s)][263]._
 
 ---
 
@@ -2249,7 +2251,7 @@ New form inserted
 
 \[Repealed\]
     
-*   Schedule 3: repealed, on 28 February 2002, by [section 101(5)][256] of the Electoral Amendment Act 2002 (2002 No 1).
+*   Schedule 3: repealed, on 28 February 2002, by [section 101(5)][257] of the Electoral Amendment Act 2002 (2002 No 1).
 
 ---
 
@@ -2258,17 +2260,9 @@ New form substituted
 
 [s 102(2)][125]
 
-_Amendment(s) incorporated in the [Act(s)][261]._
+_Amendment(s) incorporated in the [Act(s)][262]._
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
@@ -2276,54 +2270,21 @@ _Amendment(s) incorporated in the [Act(s)][261]._
 
 ###### 1 General
     
-*   This is a reprint of the Referenda (Postal Voting) Act 2000\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][263] ![](/images/external_link.gif).
+*   This is a reprint of the Referenda (Postal Voting) Act 2000 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][264] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][264] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][265] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][265] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][266] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][267] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][266] and [17E][267] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Sale and Supply of Alcohol Act 2012 (2012 No 120): [section 417(1)][238]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Criminal Procedure Act 2011 (2011 No 81): [section 413][229]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][229]
     
     Electoral (Administration) Amendment Act 2011 (2011 No 57): [section 60][144]
     
@@ -2337,7 +2298,7 @@ _Amendment(s) incorporated in the [Act(s)][261]._
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2000/0048/latest/whole.html#DLM73884
 [2]: http://www.legislation.govt.nz/act/public/2000/0048/latest/whole.html#DLM73885
 [3]: http://www.legislation.govt.nz/act/public/2000/0048/latest/whole.html#DLM73886
@@ -2573,35 +2534,35 @@ _Amendment(s) incorporated in the [Act(s)][261]._
 [233]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408910
 [234]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408911
 [235]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408912
-[236]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM165115
+[236]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM3339302
 [237]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408914
-[238]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408915
-[239]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408916
-[240]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408917
-[241]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408918
-[242]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408920
-[243]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408922
-[244]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM144692
-[245]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408924
-[246]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408923
-[247]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM317198
-[248]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318457
-[249]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318458
-[250]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318486
-[251]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318602
-[252]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318659
-[253]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318662
-[254]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318674
-[255]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318680
-[256]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM131139
-[257]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318810
-[258]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318843
-[259]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318858
-[260]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318862
-[261]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318885
-[262]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM310742
-[263]: http://www.pco.parliament.govt.nz/reprints/
-[264]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM195439
-[265]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[266]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM195468
-[267]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM195470
+[238]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM3339984
+[239]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408915
+[240]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408916
+[241]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408917
+[242]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408918
+[243]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408920
+[244]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408922
+[245]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM144692
+[246]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408924
+[247]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408923
+[248]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM317198
+[249]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318457
+[250]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318458
+[251]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318486
+[252]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318602
+[253]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318659
+[254]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318662
+[255]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318674
+[256]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318680
+[257]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM131139
+[258]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318810
+[259]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318843
+[260]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318858
+[261]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318862
+[262]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318885
+[263]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM310742
+[264]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM2998516
+[265]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM2998515
+[266]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM2998532
+[267]: http://www.pco.parliament.govt.nz/editorial-conventions/
