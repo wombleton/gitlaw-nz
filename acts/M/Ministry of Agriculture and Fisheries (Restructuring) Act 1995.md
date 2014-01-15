@@ -1,7 +1,7 @@
 Reprint  
-as at 20 April 2010
+as at 1 January 2014
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Ministry of Agriculture and Fisheries (Restructuring) Act 1995Public Act1995 No 31
 
@@ -13,11 +13,11 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-This Act is administered by the Ministry of Agriculture and Forestry and the Ministry of Fisheries.
+This Act is administered by the Ministry for Primary Industries.
 
 ---
 
@@ -25,38 +25,38 @@ This Act is administered by the Ministry of Agriculture and Forestry and the Min
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
 [Part 1][4]  
 [Restructuring of Ministry of Agriculture and Fisheries][4]
 
 [Repeal of Ministry of Agriculture and Fisheries Act 1953][5]
 
-[3][6] [Abolition of Ministry of Agriculture and Fisheries][6]
+[3][6][][6][Abolition of Ministry of Agriculture and Fisheries][6]
 
-[4][7] [Repeals][7]
+[4][7][][7][Repeals][7]
 
-[5][8] [Enactments amended][8]
+[5][8][][8][Enactments amended][8]
 
 [Savings][9]
 
-[6][10] [Savings relating to references and proceedings][10]
+[6][10][][10][Savings relating to references and proceedings][10]
 
-[7][11] [Saving of existing appointment][11]
+[7][11][][11][Saving of existing appointment][11]
 
-[8][12] [Savings relating to brands, stamps, marks, etc][12]
+[8][12][][12][Savings relating to brands, stamps, marks, etc][12]
 
 [Transfer of employees from Ministry of Agriculture and Fisheries][13]
 
-[9][14] [Transfer of employees][14]
+[9][14][][14][Transfer of employees][14]
 
-[10][15] [Protection of conditions of employment upon transfer][15]
+[10][15][][15][Protection of conditions of employment upon transfer][15]
 
-[11][16] [Employment of transferred employee deemed to be continuous][16]
+[11][16][][16][Employment of transferred employee deemed to be continuous][16]
 
-[12][17] [Membership of Government Superannuation Fund][17]
+[12][17][][17][Membership of Government Superannuation Fund][17]
 
 [Part 2][18]  
 [Administrative provisions][18]
@@ -65,31 +65,31 @@ This Act is administered by the Ministry of Agriculture and Forestry and the Min
 
 \[Repealed\]
 
-[13][20] [Contracting out][20] \[Repealed\]
+[13][20][][20][Contracting out][20] \[Repealed\]
 
 [Intellectual property][21]
 
-[14][22] [Intellectual property][22]
+[14][22][][22][Intellectual property][22]
 
 [Miscellaneous provisions][23]
 
-[15][24] [Appointment of Inspectors][24]
+[15][24][][24][Appointment of Inspectors][24]
 
-[16][25] [Employees to act under direction of chief executive][25]
+[16][25][][25][Employees to act under direction of chief executive][25]
 
-[17][26] [Delegation of all chief executive's powers under any enactment][26]
+[17][26][][26][Delegation of all chief executive's powers under any enactment][26]
 
-[18][27] [Failure to pay statutory fees, etc][27] \[Repealed\]
+[18][27][][27][Failure to pay statutory fees, etc][27] \[Repealed\]
 
-[19][28] [Ministry to deduct costs of collecting levies][28] \[Repealed\]
+[19][28][][28][Ministry to deduct costs of collecting levies][28] \[Repealed\]
 
-[20][29] [Regulations][29]
+[20][29][][29][Regulations][29]
 
-[20A][30] [Expiry of section 20(c)][30]
+[20A][30][][30][Expiry of section 20(c)][30]
 
-[21][31] [Advisory and technical committees][31]
+[21][31][][31][Advisory and technical committees][31]
 
-[22][32] [Transfer of southern scallop quota][32]
+[22][32][][32][Transfer of southern scallop quota][32]
 
 [Schedule][33]  
 [Enactments amended][33]
@@ -140,9 +140,13 @@ An Act---
         
     *   (a) a Saturday, a Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
     
+    *   (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    
     *   (b) a day in the period commencing with 20 December in any year and ending with 15 January in the following year.
     
     Section 2 **agency**: amended, on 1 March 1998, pursuant to [section 5(1)(c)][37] of the Ministries of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100).
+    
+    Section 2 **working day** paragraph (ab): inserted, on 1 January 2014, by [section 8][38] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
 
 ## Part 1  
 Restructuring of Ministry of Agriculture and Fisheries
@@ -161,7 +165,7 @@ Restructuring of Ministry of Agriculture and Fisheries
     
     *   (b) the Ministry of Agriculture and Fisheries Amendment Act 1972:
     
-    *   (c) _Amendment(s) incorporated in the [Act(s)][38]_.
+    *   (c) _Amendment(s) incorporated in the [Act(s)][39]_.
     
     *   (d) the Ministry of Agriculture and Fisheries Amendment Act 1989:
     
@@ -205,13 +209,13 @@ Restructuring of Ministry of Agriculture and Fisheries
 
 ##### 7 Saving of existing appointment
     
-*   (1) The person who, immediately before the date of commencement of this Act, held office as the Director-General of Agriculture and Fisheries shall be deemed to have been appointed under the [State Sector Act 1988][39] to the office of chief executive of the Ministry of Agriculture and that appointment shall be deemed to be on the same terms and conditions of employment applying to that person immediately before that date.
+*   (1) The person who, immediately before the date of commencement of this Act, held office as the Director-General of Agriculture and Fisheries shall be deemed to have been appointed under the [State Sector Act 1988][40] to the office of chief executive of the Ministry of Agriculture and that appointment shall be deemed to be on the same terms and conditions of employment applying to that person immediately before that date.
     
     (2) The term of office of the person deemed by subsection (1) to have been appointed to the office of chief executive of the Ministry of Agriculture shall expire on the date on which, but for the passing of this Act, his or her term would have expired under the employment contract applying to him or her.
 
 ##### 8 Savings relating to brands, stamps, marks, etc
     
-*   Notwithstanding anything in the [Flags, Emblems, and Names Protection Act 1981][40], all names, brands, stamps, logos, emblems, marks, forms, and other representations or documents in use by the Ministry of Agriculture and Fisheries immediately before the date of commencement of this Act---
+*   Notwithstanding anything in the [Flags, Emblems, and Names Protection Act 1981][41], all names, brands, stamps, logos, emblems, marks, forms, and other representations or documents in use by the Ministry of Agriculture and Fisheries immediately before the date of commencement of this Act---
         
     *   (a) shall continue to have effect in relation to anything done before that date; and
     
@@ -223,7 +227,7 @@ Restructuring of Ministry of Agriculture and Fisheries
 
 ##### 9 Transfer of employees
     
-*   (1) Notwithstanding anything in [section 61A][41] of the State Sector Act 1988, every person employed in the Ministry of Agriculture and Fisheries immediately before the date of commencement of this Act who was carrying out duties that on or after that date are to be carried out (in whole or in part) by another agency shall, subject to subsection (2), be deemed to have transferred to that other agency on that date.
+*   (1) Notwithstanding anything in [section 61A][42] of the State Sector Act 1988, every person employed in the Ministry of Agriculture and Fisheries immediately before the date of commencement of this Act who was carrying out duties that on or after that date are to be carried out (in whole or in part) by another agency shall, subject to subsection (2), be deemed to have transferred to that other agency on that date.
     
     (2) No employee shall be deemed by subsection (1) to have been transferred to an agency other than the Ministry of Agriculture unless the chief executive (or chief executive designate) of that other agency agreed, subject to the provisions referred to in subsection (3), to the transfer of the employee to that other agency.
     
@@ -249,7 +253,7 @@ Restructuring of Ministry of Agriculture and Fisheries
 
 ##### 12 Membership of Government Superannuation Fund
     
-*   Every person who, immediately before becoming an employee of an agency by virtue of [section 9][14], was an officer or employee of the Ministry of Agriculture and Fisheries and was a contributor to the Government Superannuation Fund under the [Government Superannuation Fund Act 1956][42] shall, for the purposes of that Act, be deemed to be employed in the Government service for so long as that person continues to be employed by a government department or Crown Research Institute and that Act shall be deemed to apply to that person in all respects as if that person's service with the Government service is continuous.
+*   Every person who, immediately before becoming an employee of an agency by virtue of [section 9][14], was an officer or employee of the Ministry of Agriculture and Fisheries and was a contributor to the Government Superannuation Fund under the [Government Superannuation Fund Act 1956][43] shall, for the purposes of that Act, be deemed to be employed in the Government service for so long as that person continues to be employed by a government department or Crown Research Institute and that Act shall be deemed to apply to that person in all respects as if that person's service with the Government service is continuous.
 
 ## Part 2  
 Administrative provisions
@@ -258,13 +262,13 @@ Administrative provisions
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 October 2001, pursuant to [section 314(2)(v)][43] of the Fisheries Act 1996 (1996 No 88).
+*   Heading: repealed, on 1 October 2001, pursuant to [section 314(2)(v)][44] of the Fisheries Act 1996 (1996 No 88).
 
 ##### 13 Contracting out
     
 *   \[Repealed\]
     
-    Section 13: repealed, on 1 October 2001, by [section 314(2)(v)][43] of the Fisheries Act 1996 (1996 No 88).
+    Section 13: repealed, on 1 October 2001, by [section 314(2)(v)][44] of the Fisheries Act 1996 (1996 No 88).
 
 #### Intellectual property
 
@@ -304,7 +308,7 @@ Administrative provisions
     
     (3) In addition to the powers and authorities exercisable by the Inspector under any such enactment, every employee of the Ministry of Agriculture and Forestry who is so appointed as an Inspector shall have all such powers and authorities as may be necessary for the enforcement of any Order in Council made under section 48 of the Customs Act 1966 which, for the purpose of preventing the introduction of any disease affecting stock or plant life, prohibits the importation into New Zealand of any goods.
     
-    Section 15(1): repealed, on 1 October 1996 (with effect on 1 July 1995), by [section 316(1)][44] of the Fisheries Act 1996 (1996 No 88).
+    Section 15(1): repealed, on 1 October 1996 (with effect on 1 July 1995), by [section 316(1)][45] of the Fisheries Act 1996 (1996 No 88).
     
     Section 15(3): amended, on 1 March 1998, pursuant to [section 5(1)(c)][37] of the Ministries of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100).
 
@@ -316,7 +320,7 @@ Administrative provisions
     
     Section 16(1): amended, on 1 March 1998, pursuant to [section 5(1)(c)][37] of the Ministries of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100).
     
-    Section 16(1): amended, on 1 October 1996 (with effect on 1 July 1995), by [section 316(1)][44] of the Fisheries Act 1996 (1996 No 88).
+    Section 16(1): amended, on 1 October 1996 (with effect on 1 July 1995), by [section 316(1)][45] of the Fisheries Act 1996 (1996 No 88).
 
 ##### 17 Delegation of all chief executive's powers under any enactment
     
@@ -324,19 +328,19 @@ Administrative provisions
     
     Section 17: amended, on 1 March 1998, pursuant to [section 5(1)(c)][37] of the Ministries of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100).
     
-    Section 17: amended, on 1 October 1996 (with effect on 1 July 1995), by [section 316(1)][44] of the Fisheries Act 1996 (1996 No 88).
+    Section 17: amended, on 1 October 1996 (with effect on 1 July 1995), by [section 316(1)][45] of the Fisheries Act 1996 (1996 No 88).
 
 ##### 18 Failure to pay statutory fees, etc
     
 *   \[Repealed\]
     
-    Section 18: repealed, on 20 April 2010, by [section 4][45] of the Ministry of Agriculture and Fisheries (Restructuring) Amendment Act 2010 (2010 No 19).
+    Section 18: repealed, on 20 April 2010, by [section 4][46] of the Ministry of Agriculture and Fisheries (Restructuring) Amendment Act 2010 (2010 No 19).
 
 ##### 19 Ministry to deduct costs of collecting levies
     
 *   \[Repealed\]
     
-    Section 19: repealed, on 20 April 2010, by [section 5][46] of the Ministry of Agriculture and Fisheries (Restructuring) Amendment Act 2010 (2010 No 19).
+    Section 19: repealed, on 20 April 2010, by [section 5][47] of the Ministry of Agriculture and Fisheries (Restructuring) Amendment Act 2010 (2010 No 19).
 
 ##### 20 Regulations
     
@@ -350,7 +354,7 @@ Administrative provisions
     
     *   (d) providing for such matters as may be contemplated by or necessary for giving full effect to this Act and for its administration.
     
-    Section 20(b): repealed, on 1 October 1996 (with effect on 1 July 1995), by [section 316(1)][44] of the Fisheries Act 1996 (1996 No 88).
+    Section 20(b): repealed, on 1 October 1996 (with effect on 1 July 1995), by [section 316(1)][45] of the Fisheries Act 1996 (1996 No 88).
     
     Section 20(c): expired, on 1 July 1996, by [section 20A][30].
 
@@ -358,13 +362,13 @@ Administrative provisions
     
 *   [Section 20(c)][29] shall expire 12 months after the date of commencement of this Act and, as from the close of that date, shall be deemed to have been repealed.
     
-    Section 20A: inserted, on 1 July 1995, by [section 316(1)][44] of the Fisheries Act 1996 (1996 No 88).
+    Section 20A: inserted, on 1 July 1995, by [section 316(1)][45] of the Fisheries Act 1996 (1996 No 88).
 
 ##### 21 Advisory and technical committees
     
 *   (1) The Minister of Agriculture and the Minister of Fisheries each have power to appoint from time to time advisory or technical committees, and to define the functions of any such committee.
     
-    (2) If the responsible Minister so directs, there may be paid out of money appropriated by Parliament for the purpose to the members of any such committee remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][47], and the provisions of that Act shall apply accordingly as if the committee were a statutory Board within the meaning of that Act.
+    (2) If the responsible Minister so directs, there may be paid out of money appropriated by Parliament for the purpose to the members of any such committee remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][48], and the provisions of that Act shall apply accordingly as if the committee were a statutory Board within the meaning of that Act.
 
 ##### 22 Transfer of southern scallop quota
     
@@ -372,39 +376,39 @@ Administrative provisions
     
     (2) \[Repealed\]
     
-    (3) Te Ohu Kai Moana Trustee Limited shall hold the quota to be allocated to Ngati Toa Rangatira for the use and benefit of Ngati Toa Rangatira; and, for that purpose, Te Ohu Kai Moana Trustee Limited may lease any part of that quota to any other quota holder named in [Part 5][48] of Schedule 1D of the Fisheries Act 1983\.
+    (3) Te Ohu Kai Moana Trustee Limited shall hold the quota to be allocated to Ngati Toa Rangatira for the use and benefit of Ngati Toa Rangatira; and, for that purpose, Te Ohu Kai Moana Trustee Limited may lease any part of that quota to any other quota holder named in [Part 5][49] of Schedule 1D of the Fisheries Act 1983\.
     
-    (3A) However, as soon as reasonably practicable after Te Ohu Kai Moana Trustee Limited has recognised the mandated iwi organisation of Ngati Toa Rangatira under [section 13(1)][49] of the Maori Fisheries Act 2004, or its recognised iwi organisation under [section 27][50] of the Maori Fisheries Act 2004, Te Ohu Kai Moana Trustee Limited must transfer to the organisation the quota referred to in subsection (3).
+    (3A) However, as soon as reasonably practicable after Te Ohu Kai Moana Trustee Limited has recognised the mandated iwi organisation of Ngati Toa Rangatira under [section 13(1)][50] of the Maori Fisheries Act 2004, or its recognised iwi organisation under [section 27][51] of the Maori Fisheries Act 2004, Te Ohu Kai Moana Trustee Limited must transfer to the organisation the quota referred to in subsection (3).
     
-    (3B) Except as provided for in subsection (3A), the provisions of the [Maori Fisheries Act 2004][51] do not apply to the quota referred to in subsection (3).
+    (3B) Except as provided for in subsection (3A), the provisions of the [Maori Fisheries Act 2004][52] do not apply to the quota referred to in subsection (3).
     
-    (3C) To avoid doubt, the quota referred to in subsection (3) is not quota that is included in the existing undertaking as defined in [section 189][52] of the Maori Fisheries Act 2004\.
+    (3C) To avoid doubt, the quota referred to in subsection (3) is not quota that is included in the existing undertaking as defined in [section 189][53] of the Maori Fisheries Act 2004\.
     
-    (4) [Section 74][53] of the Fisheries Act 1996 does not prevent Te Ohu Kai Moana Trustee Limited from holding the quota referred to in subsection (3) for the purpose of this section.
+    (4) [Section 74][54] of the Fisheries Act 1996 does not prevent Te Ohu Kai Moana Trustee Limited from holding the quota referred to in subsection (3) for the purpose of this section.
     
     (4A) In this section,---
     
-    _mandated iwi organisation_ has the meaning given to it in [section 5][54] of the Maori Fisheries Act 2004
+    _mandated iwi organisation_ has the meaning given to it in [section 5][55] of the Maori Fisheries Act 2004
     
-    _recognised iwi organisation_ has the meaning given to it in [section 5][54] of the Maori Fisheries Act 2004
+    _recognised iwi organisation_ has the meaning given to it in [section 5][55] of the Maori Fisheries Act 2004
     
-    _Te Ohu Kai Moana Trustee Limited_ has the meaning given to it in [section 5][54] of the Maori Fisheries Act 2004\.
+    _Te Ohu Kai Moana Trustee Limited_ has the meaning given to it in [section 5][55] of the Maori Fisheries Act 2004\.
     
-    Section 22(1): repealed, on 29 November 2004, by [section 214][55] of the Maori Fisheries Act 2004 (2004 No 78).
+    Section 22(1): repealed, on 29 November 2004, by [section 214][56] of the Maori Fisheries Act 2004 (2004 No 78).
     
-    Section 22(2): repealed, on 29 November 2004, by [section 214][55] of the Maori Fisheries Act 2004 (2004 No 78).
+    Section 22(2): repealed, on 29 November 2004, by [section 214][56] of the Maori Fisheries Act 2004 (2004 No 78).
     
-    Section 22(3): amended, on 29 November 2004, by [section 214][55] of the Maori Fisheries Act 2004 (2004 No 78).
+    Section 22(3): amended, on 29 November 2004, by [section 214][56] of the Maori Fisheries Act 2004 (2004 No 78).
     
-    Section 22(3A): inserted, on 29 November 2004, by [section 214][55] of the Maori Fisheries Act 2004 (2004 No 78).
+    Section 22(3A): inserted, on 29 November 2004, by [section 214][56] of the Maori Fisheries Act 2004 (2004 No 78).
     
-    Section 22(3B): inserted, on 29 November 2004, by [section 214][55] of the Maori Fisheries Act 2004 (2004 No 78).
+    Section 22(3B): inserted, on 29 November 2004, by [section 214][56] of the Maori Fisheries Act 2004 (2004 No 78).
     
-    Section 22(3C): inserted, on 29 November 2004, by [section 214][55] of the Maori Fisheries Act 2004 (2004 No 78).
+    Section 22(3C): inserted, on 29 November 2004, by [section 214][56] of the Maori Fisheries Act 2004 (2004 No 78).
     
-    Section 22(4): substituted, on 29 November 2004, by [section 214][55] of the Maori Fisheries Act 2004 (2004 No 78).
+    Section 22(4): substituted, on 29 November 2004, by [section 214][56] of the Maori Fisheries Act 2004 (2004 No 78).
     
-    Section 22(4A): added, on 29 November 2004, by [section 214][55] of the Maori Fisheries Act 2004 (2004 No 78).
+    Section 22(4A): added, on 29 November 2004, by [section 214][56] of the Maori Fisheries Act 2004 (2004 No 78).
 
 ---
 
@@ -415,15 +419,15 @@ Enactments amended
 
 ##### Fisheries Act 1983 (1983 No 14) (RS Vol 27, p 137)
 
-_Amendment(s) incorporated in the [Act(s)][56]._
+_Amendment(s) incorporated in the [Act(s)][57]._
 
 ##### Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)
 
-_Amendment(s) incorporated in the [Act(s)][57]._
+_Amendment(s) incorporated in the [Act(s)][58]._
 
 ##### State Sector Act 1988 (1988 No 20) (RS Vol 33, p 715)
 
-_Amendment(s) incorporated in the [Act(s)][39]._
+_Amendment(s) incorporated in the [Act(s)][40]._
 
 ---
 
@@ -435,7 +439,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Ministry of Agriculture and Fisheries (Restructuring) Amendment Act 2010][58].
+*   This Act is the [Ministry of Agriculture and Fisheries (Restructuring) Amendment Act 2010][59].
 
 ##### 2 Commencement
     
@@ -445,82 +449,41 @@ Commencementsee section 2
     
 *   Any amount that is payable under section 18 of the principal Act immediately before the commencement of this Act remains payable as if that section had not been repealed.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995\. The reprint incorporates all the amendments to the Act as at 20 April 2010, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][59] ![](/images/external_link.gif).
+*   This is a reprint of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][60] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][60] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][61] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][61] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][62] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][63] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][62] and [17E][63] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][38]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    [Ministry of Agriculture and Fisheries (Restructuring) Amendment Act 2010][59] (2010 No 19)
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   [Ministry of Agriculture and Fisheries (Restructuring) Amendment Act 2010][58] (2010 No 19)
-    
-    Maori Fisheries Act 2004 (2004 No 78): [section 214][55]
+    Maori Fisheries Act 2004 (2004 No 78): [section 214][56]
     
     Ministries of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100): [section 5(1)(c)][37]
     
-    Fisheries Act 1996 (1996 No 88): [sections 314(2)(v)][44], [316(1)][44]
+    Fisheries Act 1996 (1996 No 88): [sections 314(2)(v)][45], [316(1)][45]
     
     Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31): [section 20A][30]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1995/0031/latest/whole.html#DLM366816
 [2]: http://www.legislation.govt.nz/act/public/1995/0031/latest/whole.html#DLM366818
 [3]: http://www.legislation.govt.nz/act/public/1995/0031/latest/whole.html#DLM366819
@@ -558,29 +521,29 @@ Commencementsee section 2
 [35]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM281070
 [36]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM345633
 [37]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM418619
-[38]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM101358
-[39]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM129109
-[40]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM51357
-[41]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM129741
-[42]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM446000
-[43]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM399971
-[44]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM399975
-[45]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM2853307
-[46]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM2853308
-[47]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM264952
-[48]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM70565
-[49]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM312053
-[50]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM312075
-[51]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM311463
-[52]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM313078
-[53]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM396517
-[54]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM311475
-[55]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM313622
-[56]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM66581
-[57]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM430983
-[58]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM2853302
-[59]: http://www.pco.parliament.govt.nz/reprints/
-[60]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM195439
-[61]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[62]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM195468
-[63]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM195470
+[38]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM4929207
+[39]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM101358
+[40]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM129109
+[41]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM51357
+[42]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM129741
+[43]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM446000
+[44]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM399971
+[45]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM399975
+[46]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM2853307
+[47]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM2853308
+[48]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM264952
+[49]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM70565
+[50]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM312053
+[51]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM312075
+[52]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM311463
+[53]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM313078
+[54]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM396517
+[55]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM311475
+[56]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM313622
+[57]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM66581
+[58]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM430983
+[59]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM2853302
+[60]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM2998516
+[61]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM2998515
+[62]: http://www.legislation.govt.nz/act/public/1995/0031/latest/link.aspx?id=DLM2998532
+[63]: http://www.pco.parliament.govt.nz/editorial-conventions/
