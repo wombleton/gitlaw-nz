@@ -1,5 +1,5 @@
 Reprint  
-as at 23 October 2013
+as at 18 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -6611,7 +6611,7 @@ Sentences, orders, and related matters
     
 *   (1) Subject to [section 138][308], as soon as practicable after a motor vehicle is delivered into a Registrar's custody under [section 132][297], the Registrar must arrange for the sale of the motor vehicle by public auction or in any other manner that the Registrar, subject to any direction by the court, thinks fit.
     
-    (2) The Registrar, or any officer of the Ministry of Justice authorised by the Registrar, may conduct the auction even if the Registrar or that officer does not hold a licence under the [Auctioneers Act 1928][762] or the Motor Vehicle Dealers Act 1975\.
+    (2) \[Repealed\]
     
     (3) Subject to subsection (4), the proceeds of the sale must be applied in the following manner and order of priority:
         
@@ -6627,17 +6627,17 @@ Sentences, orders, and related matters
     
     *   (f) in payment of any fine or court costs payable by the offender:
     
-    *   (fa) in payment of any fees and accident insurance levies prescribed under [section 242(2)(b)][763] of the Land Transport Act 1998 that are outstanding in respect of the vehicle:
+    *   (fa) in payment of any fees and accident insurance levies prescribed under [section 242(2)(b)][762] of the Land Transport Act 1998 that are outstanding in respect of the vehicle:
     
-    *   (fb) in payment of any road user charges under the [Road User Charges Act 2012][764] that are outstanding in respect of the vehicle:
+    *   (fb) in payment of any road user charges under the [Road User Charges Act 2012][763] that are outstanding in respect of the vehicle:
     
     *   (g) to the offender or, as the case requires, the substitute for the offender.
     
-    (3A) If any proceeds of sale are required to be applied to 2 or more security interests under subsection (3)(c), those proceeds must be applied in the order of priority determined for those security interests by [Part 7][765] or [8][766] of the Personal Property Securities Act 1999\.
+    (3A) If any proceeds of sale are required to be applied to 2 or more security interests under subsection (3)(c), those proceeds must be applied in the order of priority determined for those security interests by [Part 7][764] or [8][765] of the Personal Property Securities Act 1999\.
     
     (4) If the proceeds arise out of the sale of a motor vehicle owned by a substitute for the offender or in which the substitute had an interest, the proceeds must be applied in the manner and order of priority specified in subsection (3), except that the payment described in paragraphs (d) to (f) of that subsection are limited to sums imposed in respect of offences committed by the offender in a motor vehicle that, at the material time, was owned by the substitute or in which the substitute had an interest.
     
-    (5) A motor vehicle may be sold under this section even though it fails to comply in any respect with [section 242][763] of the Land Transport Act 1998, and the purchaser of that motor vehicle---
+    (5) A motor vehicle may be sold under this section even though it fails to comply in any respect with [section 242][762] of the Land Transport Act 1998, and the purchaser of that motor vehicle---
         
     *   (a) is, despite that Act or any other enactment, entitled to tow the motor vehicle to any appropriate place; and
     
@@ -6649,15 +6649,13 @@ Sentences, orders, and related matters
     
     (7) The person to whom a motor vehicle is sold under this section obtains, by virtue of this section, good title to the motor vehicle free of all ownership interests and other proprietary interests held in the motor vehicle before that sale.
     
-    Compare: 1985 No 120 [s 87(1)--(3)][767]
+    Compare: 1985 No 120 [s 87(1)--(3)][766]
     
-    Section 137(1): amended, on 1 December 2009, by [section 15(1)][768] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 137(1): amended, on 1 December 2009, by [section 15(1)][767] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 137(2): amended, on 1 August 2012, by [section 27(1)][769] of the Sentencing Amendment Act 2011 (2011 No 47).
+    Section 137(2): repealed, on 18 December 2013, by [section 27][768] of the Auctioneers Act 2013 (2013 No 148).
     
-    Section 137(2): amended, on 1 October 2003, pursuant to [section 14(1)][482] of the State Sector Amendment Act 2003 (2003 No 41).
-    
-    Section 137(3): substituted, on 1 December 2009, by [section 15(2)][768] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 137(3): substituted, on 1 December 2009, by [section 15(2)][767] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
     Section 137(3)(c): replaced, on 1 August 2012, by [section 27(2)][769] of the Sentencing Amendment Act 2011 (2011 No 47).
     
@@ -6669,7 +6667,7 @@ Sentences, orders, and related matters
     
     Section 137(3A): inserted, on 1 August 2012, by [section 27(5)][769] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 137(4): added, on 1 December 2009, by [section 15(2)][768] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 137(4): added, on 1 December 2009, by [section 15(2)][767] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
     Section 137(4): amended, on 1 August 2012, by [section 27(6)][769] of the Sentencing Amendment Act 2011 (2011 No 47).
     
@@ -6779,7 +6777,7 @@ Sentences, orders, and related matters
     
     *   (b) as the case may require, [section 94][781] of the District Courts Act 1947\.
     
-    Compare: 1985 No 120 [s 87(4)][767]
+    Compare: 1985 No 120 [s 87(4)][766]
     
     Section 139 heading: amended, on 1 August 2012, by [section 32(1)][782] of the Sentencing Amendment Act 2011 (2011 No 47).
     
@@ -6855,7 +6853,7 @@ Sentences, orders, and related matters
     
     *   (b) directing that party to sell the motor vehicle and account for the proceeds of sale in accordance with [section 141B][315].
     
-    (3A) If 2 or more secured parties have applied for an order under subsection (3), then the court must transfer the motor vehicle to the secured party with the highest-ranking security interest under the order of priority determined by [Part 7][765] or [8][766] of the Personal Property Securities Act 1999\.
+    (3A) If 2 or more secured parties have applied for an order under subsection (3), then the court must transfer the motor vehicle to the secured party with the highest-ranking security interest under the order of priority determined by [Part 7][764] or [8][765] of the Personal Property Securities Act 1999\.
     
     (4) Subsection (3) is subject to [section 141A][314].
     
@@ -8065,7 +8063,9 @@ Commencementsee section 2
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Administration of Community Sentences and Orders Act 2013 (2013 No 88): [sections 38][573], [43][575]
+*   Auctioneers Act 2013 (2013 No 148): [section 27][768]
+    
+    Administration of Community Sentences and Orders Act 2013 (2013 No 88): [sections 38][573], [43][575]
     
     Bail Amendment Act 2013 (2013 No 66): [section 42][450]
     
@@ -8913,13 +8913,13 @@ Commencementsee section 2
 [759]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2470232
 [760]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558538
 [761]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558567
-[762]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM205305
-[763]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3701427
-[764]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3394800
-[765]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM46724
-[766]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM46763
-[767]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM78246
-[768]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2470235
+[762]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3701427
+[763]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3394800
+[764]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM46724
+[765]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM46763
+[766]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM78246
+[767]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2470235
+[768]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM5788557
 [769]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558569
 [770]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM2470236
 [771]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM3558539
