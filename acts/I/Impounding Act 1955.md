@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 18 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Department of Internal Affairs.
 
@@ -810,13 +810,15 @@ Procedure for disposing of unclaimed, suffering, or worthless impounded stock
     
 *   (1) Sales of impounded stock shall be held at the time and place specified in the notice referred to in subsection (2) of [section 46][60], and at any such sale not more than 10 sheep or goats nor more than 5 pigs nor more than 1 head of any other kind of stock shall be sold in 1 lot.
     
-    (2) At every such sale the poundkeeper or any other person authorized by the local authority shall act as auctioneer, but in respect of the sale shall not be required to take out an auctioneer's licence.
+    (2) At every such sale the poundkeeper or any other person authorized by the local authority shall act as auctioneer, and any such auctioneer is not required to be an auctioneer registered under the [Auctioneers Act 2013][99].
     
     (3) The local authority or any poundkeeper employed by the local authority or any person conducting the sale on its behalf shall not either in person or through an agent purchase any stock at any such sale, or have any interest of any kind in the stock so purchased.
     
     (4) Any sale of impounded stock by public auction notified to be subject to a reserved or upset price shall be subject to a reserved or upset price not exceeding the amount of costs and charges to which the local authority is entitled under this Act.
     
     Compare: 1908 No 79 s 41
+    
+    Section 50(2): amended, on 18 December 2013, by [section 28(3)][100] of the Auctioneers Act 2013 (2013 No 148).
     
     Section 50(4): inserted, on 25 November 1968, by section 4 of the Impounding Amendment Act 1968 (1968 No 32).
 
@@ -850,7 +852,7 @@ Procedure for disposing of unclaimed, suffering, or worthless impounded stock
     
     (3) Any proceeds from the sale of a carcass of an animal destroyed under subsection (1) must be dealt with in the same manner as is provided in [sections 54][69], [55][70], and [65][82] in respect of the proceeds of the sale of impounded stock.
     
-    Section 52: replaced, on 1 January 2000, by [section 194][99] of the Animal Welfare Act 1999 (1999 No 142).
+    Section 52: replaced, on 1 January 2000, by [section 194][101] of the Animal Welfare Act 1999 (1999 No 142).
 
 ##### 53 Disposal of unsold stock
     
@@ -874,7 +876,7 @@ Procedure for disposing of unclaimed, suffering, or worthless impounded stock
     
     (4) Every application to a District Court under this section shall be made by way of originating application in accordance with the rules of that court, and the fees prescribed by those rules in respect of originating applications shall be payable.
     
-    Compare: 1943 No 20 [s 16][100]
+    Compare: 1943 No 20 [s 16][102]
     
     Section 55(1): amended, on 1 April 1980, pursuant to [section 18(2)][94] of the District Courts Amendment Act 1979 (1979 No 125).
     
@@ -1026,7 +1028,7 @@ Miscellaneous
     
     (2) \[Repealed\]
     
-    Section 67(2): repealed, on 19 December 1989, by [section 11][101] of the Regulations (Disallowance) Act 1989 (1989 No 143).
+    Section 67(2): repealed, on 19 December 1989, by [section 11][103] of the Regulations (Disallowance) Act 1989 (1989 No 143).
 
 ##### 68 Repeals, savings, and consequential amendments
     
@@ -1036,7 +1038,7 @@ Miscellaneous
     
     (3) \[Repealed\]
     
-    Section 68(3): repealed, on 1 February 1982, by [section 248(1)][102] of the Public Works Act 1981 (1981 No 35).
+    Section 68(3): repealed, on 1 February 1982, by [section 248(1)][104] of the Public Works Act 1981 (1981 No 35).
 
 ---
 
@@ -1083,7 +1085,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Statutes Amendment Act 1939 (1939 No 39)
 
-_Amendment(s) incorporated in the [Act(s)][103]._
+_Amendment(s) incorporated in the [Act(s)][105]._
 
 ##### Statutes Amendment Act 1941 (1941 No 26)
 
@@ -1091,78 +1093,37 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Statutes Amendment Act 1943 (1943 No 20)
 
-_Amendment(s) incorporated in the [Act(s)][104]._
+_Amendment(s) incorporated in the [Act(s)][106]._
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Impounding Act 1955\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][105] ![](/images/external_link.gif).
+*   This is a reprint of the Impounding Act 1955 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][106] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][107] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][108] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][107] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][109] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][110] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][108] and [17E][109] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Auctioneers Act 2013 (2013 No 148): [section 28(3)][100]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Criminal Procedure Act 2011 (2011 No 81): [section 413][96]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][96]
     
     Local Government Act 2002 (2002 No 84): [section 262][93]
     
-    Animal Welfare Act 1999 (1999 No 142): [section 194][99]
+    Animal Welfare Act 1999 (1999 No 142): [section 194][101]
     
-    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][101]
+    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][103]
     
     Summary Offences Act 1981 (1981 No 113): [section 51(1)][98]
     
@@ -1182,7 +1143,7 @@ _Amendment(s) incorporated in the [Act(s)][104]._
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1955/0108/latest/whole.html#DLM293866
 [2]: http://www.legislation.govt.nz/act/public/1955/0108/latest/whole.html#DLM293868
 [3]: http://www.legislation.govt.nz/act/public/1955/0108/latest/whole.html#DLM293869
@@ -1281,14 +1242,15 @@ _Amendment(s) incorporated in the [Act(s)][104]._
 [96]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM3360714
 [97]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM420620
 [98]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM53759
-[99]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM51965
-[100]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM236441
-[101]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM195558
-[102]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM48604
-[103]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM228224
-[104]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM236420
-[105]: http://www.pco.parliament.govt.nz/reprints/
-[106]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM195439
-[107]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[108]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM195468
-[109]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM195470
+[99]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM5788503
+[100]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM5788558
+[101]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM51965
+[102]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM236441
+[103]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM195558
+[104]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM48604
+[105]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM228224
+[106]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM236420
+[107]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM2998516
+[108]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM2998515
+[109]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM2998532
+[110]: http://www.pco.parliament.govt.nz/editorial-conventions/
