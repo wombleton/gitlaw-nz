@@ -1,5 +1,5 @@
 Reprint  
-as at 5 December 2013
+as at 18 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -648,11 +648,13 @@ Trustee companies
 
 ##### 27 Sale of goods by auction
     
-*   Where any trustee company is realising the goods, chattels, and effects of any estate administered by it, and those goods, chattels, and effects are not in the opinion of the company of greater value than $5,000, or such higher amount as is prescribed by regulations, and are situated at a distance of more than 10 miles from the usual place of business of a licensed auctioneer, those goods, chattels, and effects may be offered for sale by auction by some person to be appointed by the company; and that person, for the purpose of the sale, shall not require to take out an auctioneer's licence.
+*   Where any trustee company is realising the goods, chattels, and effects of any estate administered by it, and those goods, chattels, and effects are not in the opinion of the company of greater value than $5,000, or such higher amount as is prescribed by regulations, and are situated at a distance of more than 10 miles from the usual place of business of a registered auctioneer, those goods, chattels, and effects may be offered for sale by auction by some person to be appointed by the company; and that person, for the purpose of the sale, shall not be required to be a registered auctioneer.
     
     Compare: 1957 No 36 s 102
     
-    Section 27: amended, on 27 November 2002, by [section 4][106] of the Trustee Companies Amendment Act 2002 (2002 No 48).
+    Section 27: amended, on 18 December 2013, by [section 28(3)][106] of the Auctioneers Act 2013 (2013 No 148).
+    
+    Section 27: amended, on 27 November 2002, by [section 4][107] of the Trustee Companies Amendment Act 2002 (2002 No 48).
 
 ##### 28 Conditions on which tenant for life may be allowed into possession
     
@@ -745,7 +747,7 @@ Group Investment Funds
     
     Section 31: replaced, on 19 March 1990, by section 2 of the Trustee Companies Amendment Act 1990 (1990 No 16).
     
-    Section 31(1)(b): amended, on 1 December 2002, by [section 30][107] of the Securities Markets Amendment Act 2002 (2002 No 44).
+    Section 31(1)(b): amended, on 1 December 2002, by [section 30][108] of the Securities Markets Amendment Act 2002 (2002 No 44).
 
 ##### 31A Capital valuation of Fund comprising investments in real estate
     
@@ -769,7 +771,7 @@ Group Investment Funds
     
     (2) A trustee company must make such initial disclosure and ongoing disclosure of any reimbursement of expenses as is prescribed by regulations made under this Act.
     
-    Section 32: replaced, on 1 July 2003, by [section 5(1)][108] of the Trustee Companies Amendment Act 2002 (2002 No 48).
+    Section 32: replaced, on 1 July 2003, by [section 5(1)][109] of the Trustee Companies Amendment Act 2002 (2002 No 48).
 
 ##### 32A Management fees
     
@@ -781,7 +783,7 @@ Group Investment Funds
     
     *   (b) regulations made under this Act dispense with the requirement for initial disclosure; or
     
-    *   (c) an investment statement in relation to the investment of that money in the Fund has been issued in accordance with the requirements of [sections 33][109] and [37A][110] of the Securities Act 1978 and regulations made under that Act.
+    *   (c) an investment statement in relation to the investment of that money in the Fund has been issued in accordance with the requirements of [sections 33][110] and [37A][111] of the Securities Act 1978 and regulations made under that Act.
     
     (3) A trustee company must make ongoing disclosure of any management fee charged or retained in accordance with regulations made under this Act.
     
@@ -789,7 +791,7 @@ Group Investment Funds
     
     (5) In this section, _estate money_ means money that is part of any property administered or held, managed, or controlled by the trustee company, whether as administrator or other trustee or as guardian, committee, manager, liquidator, receiver, agent, or attorney, or in any other capacity.
     
-    Section 32A: inserted, on 1 July 2003, by [section 5(1)][108] of the Trustee Companies Amendment Act 2002 (2002 No 48).
+    Section 32A: inserted, on 1 July 2003, by [section 5(1)][109] of the Trustee Companies Amendment Act 2002 (2002 No 48).
 
 ##### 33 Powers of trustee company in respect of Funds
     
@@ -803,13 +805,13 @@ Group Investment Funds
 
 ##### 33B Powers of trustee company or manager to adjust interest in trust property of Fund that is portfolio investment entity
     
-*   Where any investments and funds comprising a Group Investment Fund are employed in an activity that the trustee company is empowered or authorised to carry on as a portfolio investment entity, the trustee company or the manager of the Fund may adjust the interests of the beneficiaries in the property in the way required by [section HL 7][111] of the Income Tax Act 2004 despite any other provision in this Act or in any instrument creating the trust under which the investments and funds are held.
+*   Where any investments and funds comprising a Group Investment Fund are employed in an activity that the trustee company is empowered or authorised to carry on as a portfolio investment entity, the trustee company or the manager of the Fund may adjust the interests of the beneficiaries in the property in the way required by [section HL 7][112] of the Income Tax Act 2004 despite any other provision in this Act or in any instrument creating the trust under which the investments and funds are held.
     
-    Section 33B: inserted, on 1 October 2007, by [section 244][112] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Section 33B: inserted, on 1 October 2007, by [section 244][113] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
 
 ##### 34 Examination of Group Investment Funds
     
-*   The provisions of [section 83A][113] of the Trustee Act 1956 (which section was enacted by section 10 of the Trustee Amendment Act 1957) shall apply to every Group Investment Fund as if it were a trust estate:
+*   The provisions of [section 83A][114] of the Trustee Act 1956 (which section was enacted by section 10 of the Trustee Amendment Act 1957) shall apply to every Group Investment Fund as if it were a trust estate:
     
     provided that any examination made under that section shall be restricted to an examination of the investments and funds comprising the Group Investment Fund, and the income of the Fund, and the expenses payable out of the Fund, and the proportion to which the person who required the examination, or the estate in which he is a beneficiary, is entitled; and access to the company's books and vouchers shall be restricted accordingly.
     
@@ -846,11 +848,11 @@ Elections to administer and certificates of administration
     
     (7) If after filing any such election as aforesaid the gross value of the property situated in New Zealand to be administered is found to exceed the sum of $150,000, or such higher amount as is prescribed by regulations, the trustee company shall as soon as practicable thereafter file in the registry of the High Court in which the election to administer was filed a memorandum under the seal of the company or of a local or special Board of Directors of the company stating the fact; and shall thereupon proceed in the ordinary manner to obtain a grant of administration in New Zealand; and for that purpose may uplift from the court any will or exemplification filed with the election.
     
-    (8) An election may be filed under this section relating to a written informal will to which [subpart 3 of Part 2][114] of the Wills Act 2007 or the [Wills Amendment Act 1955][115] applies. This section does not apply to any other informal will.
+    (8) An election may be filed under this section relating to a written informal will to which [subpart 3 of Part 2][115] of the Wills Act 2007 or the [Wills Amendment Act 1955][116] applies. This section does not apply to any other informal will.
     
     Compare: 1957 No 36 s 72
     
-    Section 36(1): amended, on 27 November 2002, by [section 6(1)][116] of the Trustee Companies Amendment Act 2002 (2002 No 48).
+    Section 36(1): amended, on 27 November 2002, by [section 6(1)][117] of the Trustee Companies Amendment Act 2002 (2002 No 48).
     
     Section 36(1): amended, on 1 April 1980, pursuant to [section 12][71] of the Judicature Amendment Act 1979 (1979 No 124).
     
@@ -858,11 +860,11 @@ Elections to administer and certificates of administration
     
     Section 36(6): amended, on 1 April 1980, pursuant to [section 12][71] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 36(7): amended, on 27 November 2002, by [section 6(2)][116] of the Trustee Companies Amendment Act 2002 (2002 No 48).
+    Section 36(7): amended, on 27 November 2002, by [section 6(2)][117] of the Trustee Companies Amendment Act 2002 (2002 No 48).
     
     Section 36(7): amended, on 1 April 1980, pursuant to [section 12][71] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 36(8): replaced, on 1 November 2007, by [section 41][117] of the Wills Act 2007 (2007 No 36).
+    Section 36(8): replaced, on 1 November 2007, by [section 41][118] of the Wills Act 2007 (2007 No 36).
 
 ##### 37 Elections in respect of unadministered balance of an estate
     
@@ -876,11 +878,11 @@ Elections to administer and certificates of administration
     
     Compare: 1957 No 36 s 73
     
-    Section 37(1): amended, on 27 November 2002, by [section 7(1)][118] of the Trustee Companies Amendment Act 2002 (2002 No 48).
+    Section 37(1): amended, on 27 November 2002, by [section 7(1)][119] of the Trustee Companies Amendment Act 2002 (2002 No 48).
     
     Section 37(1): amended, on 1 April 1980, pursuant to [section 12][71] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 37(4): amended, on 27 November 2002, by [section 7(2)][118] of the Trustee Companies Amendment Act 2002 (2002 No 48).
+    Section 37(4): amended, on 27 November 2002, by [section 7(2)][119] of the Trustee Companies Amendment Act 2002 (2002 No 48).
     
     Section 37(4): amended, on 1 April 1980, pursuant to [section 12][71] of the Judicature Amendment Act 1979 (1979 No 124).
 
@@ -977,15 +979,15 @@ Trustee companies protection
 
 ##### 45 Certificate to accompany applications for and transfers of shares
     
-*   Every application for shares in a trustee company to which this Part applies, and every transfer of shares in any such trustee company that is lodged with the trustee company for registration, shall be accompanied by a certificate by the applicant or transferee (as the case may be) in [form 1][119] of Schedule 2 or to the effect thereof, and no shares in any such trustee company shall be allotted, nor shall any transfer of shares in any such trustee company be registered, unless the application or transfer, as the case may be, is accompanied by such a certificate.
+*   Every application for shares in a trustee company to which this Part applies, and every transfer of shares in any such trustee company that is lodged with the trustee company for registration, shall be accompanied by a certificate by the applicant or transferee (as the case may be) in [form 1][120] of Schedule 2 or to the effect thereof, and no shares in any such trustee company shall be allotted, nor shall any transfer of shares in any such trustee company be registered, unless the application or transfer, as the case may be, is accompanied by such a certificate.
     
     Compare: 1934--35 No 52 s 4
 
 ##### 46 Voting at general meetings of shareholders
     
-*   (1) At any general meeting of shareholders in a trustee company to which this Part applies, the chairman of the meeting may, before calling for a show of hands or taking a poll, require each shareholder or any shareholder or shareholders present in person to sign and lodge with him a certificate in writing in [form 2][120] of Schedule 2\. No shareholder who, upon being required by the chairman of the meeting to sign and lodge such a certificate, refuses or neglects so to do, or refrains from so doing, shall be entitled to vote either upon a show of hands or upon a poll on any resolution submitted to that meeting.
+*   (1) At any general meeting of shareholders in a trustee company to which this Part applies, the chairman of the meeting may, before calling for a show of hands or taking a poll, require each shareholder or any shareholder or shareholders present in person to sign and lodge with him a certificate in writing in [form 2][121] of Schedule 2\. No shareholder who, upon being required by the chairman of the meeting to sign and lodge such a certificate, refuses or neglects so to do, or refrains from so doing, shall be entitled to vote either upon a show of hands or upon a poll on any resolution submitted to that meeting.
     
-    (2) No vote by any person acting on behalf of any shareholder at any general meeting of shareholders in a trustee company to which this Part applies shall be valid unless the vote is given under the authority of a proxy in writing under the hand of that shareholder complying with the constitution of the trustee company, accompanied by a certificate by that shareholder in [form 3][121] of Schedule 2\.
+    (2) No vote by any person acting on behalf of any shareholder at any general meeting of shareholders in a trustee company to which this Part applies shall be valid unless the vote is given under the authority of a proxy in writing under the hand of that shareholder complying with the constitution of the trustee company, accompanied by a certificate by that shareholder in [form 3][122] of Schedule 2\.
     
     (3) In the case of shares in a trustee company to which this Part applies belonging to the estate of any deceased person, or to any estate which is being administered under the Mental Health Act 1969, or the [Protection of Personal and Property Rights Act 1988][84], the registered holder or other persons entitled to vote in respect of the shares shall not be deemed, for the purposes of any certificate to be signed by him under this section, to have given any undertaking or to be under any obligation to the beneficiary or beneficiaries of the estate as to the exercise of his voting or other rights or powers in respect of the shares.
     
@@ -999,7 +1001,7 @@ Trustee companies protection
     
     Section 46(3): amended, on 1 April 1970, pursuant to section 129(1) of the Mental Health Act 1969 (1969 No 16).
     
-    Section 46(4): amended, on 1 July 2013, by [section 413][122] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 46(4): amended, on 1 July 2013, by [section 413][123] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 47 Certificates for purposes of this Part not to constitute notice of any trust
     
@@ -1038,13 +1040,13 @@ Miscellaneous provisions
     
     *   (d) prescribe acceptable manners of notification, and prescribe when notification will be treated as having been received:
     
-    *   (e) make special provision in relation to existing funds within the meaning of [section 5(2)][108] of the Trustee Companies Amendment Act 2002\.
+    *   (e) make special provision in relation to existing funds within the meaning of [section 5(2)][109] of the Trustee Companies Amendment Act 2002\.
     
-    Section 47A: inserted, on 27 November 2002, by [section 8][123] of the Trustee Companies Amendment Act 2002 (2002 No 48).
+    Section 47A: inserted, on 27 November 2002, by [section 8][124] of the Trustee Companies Amendment Act 2002 (2002 No 48).
 
 ##### 48 Repeals
     
-*   The enactments specified in [Schedule 3][124] are hereby repealed.
+*   The enactments specified in [Schedule 3][125] are hereby repealed.
 
 ---
 
@@ -1055,10 +1057,10 @@ Deposits by trustee companies
 
 **Name of company****Nature and amount of deposit**
 
-*   Schedule 1: amended, on 1 May 2002, by [section 16(1)][125] of the Trustees Executors Limited Act 2002 (2002 No 2 (P)).
-*   Schedule 1: amended, on 1 September 1991, by [section 14(1)][126] of the New Zealand Permanent Trustees Limited Act 1991 (1991 No 2 (P)).
+*   Schedule 1: amended, on 1 May 2002, by [section 16(1)][126] of the Trustees Executors Limited Act 2002 (2002 No 2 (P)).
+*   Schedule 1: amended, on 1 September 1991, by [section 14(1)][127] of the New Zealand Permanent Trustees Limited Act 1991 (1991 No 2 (P)).
 *   Schedule 1: amended, on 1 May 1989, by [section 19(3)][76] of the PGG Trust Limited Act 1989 (1989 No 1 (P)).
-*   Schedule 1: amended, on 1 April 1988, by [section 14(1)][127] of the AMP Perpetual Trustee Company Act 1988 (1988 No 1 (P)).
+*   Schedule 1: amended, on 1 April 1988, by [section 14(1)][128] of the AMP Perpetual Trustee Company Act 1988 (1988 No 1 (P)).
 *   Schedule 1: amended, on 1 April 1983, by [section 20(3)][78] of the New Zealand Guardian Trust Company Act 1982 (1982 No 3 (P)).
 
 ---
@@ -1163,7 +1165,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Unit Trusts Act 1960 (1960 No 99)
 
-_Amendment(s) incorporated in the [Act(s)][128]._
+_Amendment(s) incorporated in the [Act(s)][129]._
 
 ---
 
@@ -1175,7 +1177,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Trustee Companies Amendment Act 2002][129].
+*   (1) This Act is the [Trustee Companies Amendment Act 2002][130].
     
     (2) In this Act, the Trustee Companies Act 1967 is called ""the principal Act"".
 
@@ -1185,7 +1187,7 @@ Commencementsee section 2
     
     (2) Section 5 comes into force on a day to be fixed by the Governor-General by Order in Council.
     
-    Section 2(2): section 5 brought into force, on 1 July 2003, by the [Trustee Companies Amendment Act Commencement Order 2003][130] (SR 2003/120).
+    Section 2(2): section 5 brought into force, on 1 July 2003, by the [Trustee Companies Amendment Act Commencement Order 2003][131] (SR 2003/120).
 
 ##### 5 New sections 32 and 32A substituted
     
@@ -1215,25 +1217,27 @@ Commencementsee section 2
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][131] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][132] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][132] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][133] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][133] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][134] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][134] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][135] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Companies Amendment Act 2013 (2013 No 111): [section 14][103]
+*   Auctioneers Act 2013 (2013 No 148): [section 28(3)][106]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][122]
+    Companies Amendment Act 2013 (2013 No 111): [section 14][103]
+    
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][123]
     
     Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10): [section 76][92]
     
     Property Law Act 2007 (2007 No 91): [section 364(1)][99]
     
-    Wills Act 2007 (2007 No 36): [section 41][117]
+    Wills Act 2007 (2007 No 36): [section 41][118]
     
-    Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81): [sections 243][73], [244][112]
+    Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81): [sections 243][73], [244][113]
     
     Insolvency Act 2006 (2006 No 55): [section 445][94]
     
@@ -1241,9 +1245,9 @@ Commencementsee section 2
     
     Local Government Act 2002 (2002 No 84): [section 266][93]
     
-    [Trustee Companies Amendment Act 2002][129] (2002 No 48)
+    [Trustee Companies Amendment Act 2002][130] (2002 No 48)
     
-    Securities Markets Amendment Act 2002 (2002 No 44): [section 30][107]
+    Securities Markets Amendment Act 2002 (2002 No 44): [section 30][108]
     
     Trustees Executors Limited Act 2002 (2002 No 2 (P)): sections 16(1)
     
@@ -1255,7 +1259,7 @@ Commencementsee section 2
     
     Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][72]
     
-    New Zealand Permanent Trustees Limited Act 1991 (1991 No 2 (P)): [sections 14][126], [16][75]
+    New Zealand Permanent Trustees Limited Act 1991 (1991 No 2 (P)): [sections 14][127], [16][75]
     
     Trustee Companies Amendment Act 1990 (1990 No 16)
     
@@ -1265,7 +1269,7 @@ Commencementsee section 2
     
     Protection of Personal and Property Rights Act 1988 (1988 No 4): [section 113][91]
     
-    AMP Perpetual Trustee Company Act 1988 (1988 No 1 (P)): [sections 14][127], [15][77]
+    AMP Perpetual Trustee Company Act 1988 (1988 No 1 (P)): [sections 14][128], [15][77]
     
     Trust Companies Amendment Act 1983 (1983 No 25)
     
@@ -1391,32 +1395,33 @@ Commencementsee section 2
 [103]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM5620822
 [104]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM30504
 [105]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM271211
-[106]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM164225
-[107]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM162198
-[108]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM164226
-[109]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM28187
-[110]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM28351
-[111]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM264600
-[112]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM401914
-[113]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM305807
-[114]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM413545
-[115]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM293352
-[116]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM164233
-[117]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM413569
-[118]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM164234
-[119]: http://www.legislation.govt.nz/act/public/1967/0035/latest/whole.html#DLM381757
-[120]: http://www.legislation.govt.nz/act/public/1967/0035/latest/whole.html#DLM381759
-[121]: http://www.legislation.govt.nz/act/public/1967/0035/latest/whole.html#DLM381761
-[122]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM3360714
-[123]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM164235
-[124]: http://www.legislation.govt.nz/act/public/1967/0035/latest/whole.html#DLM381763
-[125]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM121354
-[126]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM115325
-[127]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM113263
-[128]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM325263
-[129]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM164218
-[130]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM191066
-[131]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM2998516
-[132]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM2998515
-[133]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM2998532
-[134]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[106]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM5788558
+[107]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM164225
+[108]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM162198
+[109]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM164226
+[110]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM28187
+[111]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM28351
+[112]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM264600
+[113]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM401914
+[114]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM305807
+[115]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM413545
+[116]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM293352
+[117]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM164233
+[118]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM413569
+[119]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM164234
+[120]: http://www.legislation.govt.nz/act/public/1967/0035/latest/whole.html#DLM381757
+[121]: http://www.legislation.govt.nz/act/public/1967/0035/latest/whole.html#DLM381759
+[122]: http://www.legislation.govt.nz/act/public/1967/0035/latest/whole.html#DLM381761
+[123]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM3360714
+[124]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM164235
+[125]: http://www.legislation.govt.nz/act/public/1967/0035/latest/whole.html#DLM381763
+[126]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM121354
+[127]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM115325
+[128]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM113263
+[129]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM325263
+[130]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM164218
+[131]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM191066
+[132]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM2998516
+[133]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM2998515
+[134]: http://www.legislation.govt.nz/act/public/1967/0035/latest/link.aspx?id=DLM2998532
+[135]: http://www.pco.parliament.govt.nz/editorial-conventions/
