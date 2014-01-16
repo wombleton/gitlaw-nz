@@ -1,5 +1,5 @@
 Reprint  
-as at 5 December 2013
+as at 18 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -183,7 +183,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     *   (f) any insurance office or company carrying on business in New Zealand, including the Government Life Insurance Corporation:
     
-    *   (g) any auctioneer within the meaning of the [Auctioneers Act 1928][27], whether or not a company, in respect of any balance of proceeds of any auction sale:
+    *   (g) any person registered as an auctioneer under the [Auctioneers Act 2013][27]:
     
     *   (h) any agent within the meaning of the [Real Estate Agents Act 2008][28], whether or not a company, in respect of money held in a trust account:
     
@@ -209,15 +209,17 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     Section 5(1)(f): amended, on 1 April 1987, pursuant to section 34(3) of the Government Life Insurance Corporation Act 1987 (1987 No 70).
     
-    Section 5(1)(h): amended, on 16 November 2009, by [section 173][34] of the Real Estate Agents Act 2008 (2008 No 66).
+    Section 5(1)(g): replaced, on 18 December 2013, by [section 28(3)][34] of the Auctioneers Act 2013 (2013 No 148).
     
-    Section 5(1)(ha): inserted, on 1 August 2008, by [section 348][35] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
+    Section 5(1)(h): amended, on 16 November 2009, by [section 173][35] of the Real Estate Agents Act 2008 (2008 No 66).
     
-    Section 5(1)(j): replaced, on 1 October 1996, by [section 23][36] of the New Zealand Institute of Chartered Accountants Act 1996 (1996 No 39).
+    Section 5(1)(ha): inserted, on 1 August 2008, by [section 348][36] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
     
-    Section 5(1)(j): amended, on 7 July 2010, by [section 10][37] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
+    Section 5(1)(j): replaced, on 1 October 1996, by [section 23][37] of the New Zealand Institute of Chartered Accountants Act 1996 (1996 No 39).
     
-    Section 5(1)(k): replaced, on 15 December 2003, by [section 145][38] of the Motor Vehicle Sales Act 2003 (2003 No 12).
+    Section 5(1)(j): amended, on 7 July 2010, by [section 10][38] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
+    
+    Section 5(1)(k): replaced, on 15 December 2003, by [section 145][39] of the Motor Vehicle Sales Act 2003 (2003 No 12).
 
 ##### 6 Register to be kept
     
@@ -231,9 +233,9 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (2) Nothing in this section shall apply to any unclaimed money in respect of which special provisions are made by or under any other Act, or to any unclaimed money which, pursuant to the proviso to subsection (1) of [section 4][5], ceases to be unclaimed money.
     
-    Compare: 1908 No 201 s 3; 1932 No 11 [s 27][39]
+    Compare: 1908 No 201 s 3; 1932 No 11 [s 27][40]
     
-    Section 6(1) proviso paragraph (a): amended, on 1 April 1980, pursuant to [section 18(2)][40] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 6(1) proviso paragraph (a): amended, on 1 April 1980, pursuant to [section 18(2)][41] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 7 Holder to notify Commissioner and owners of entries in register of unclaimed money
     
@@ -243,7 +245,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (3) Nothing in this section shall apply to any unclaimed money in respect of which special provisions are made by or under any other Act.
     
-    Compare: 1932 No 11 [s 28][41]
+    Compare: 1932 No 11 [s 28][42]
 
 ##### 8 Payment of unclaimed money to Commissioner
     
@@ -257,9 +259,9 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (4) Where unclaimed money is paid by a holder to the Commissioner in accordance with this Act, the holder shall thereafter be relieved of all further liability to any claimant in respect of the money so paid.
     
-    Compare: 1932 No 11 [s 30][42]
+    Compare: 1932 No 11 [s 30][43]
     
-    Section 8(3): amended, on 25 January 2005, pursuant to [section 83(7)][43] of the Public Finance Act 1989 (1989 No 44).
+    Section 8(3): amended, on 25 January 2005, pursuant to [section 83(7)][44] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 9 Special arrangements may be made by Commissioner
     
@@ -273,7 +275,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (3) Every person shall, without fee, from time to time as required by the Commissioner or any officer of the Department authorised by him in that behalf furnish in writing any information or produce any books or documents which may be in his knowledge, or his possession or control, as the case may be, and which relate to money which is or may be unclaimed money.
     
-    Compare: 1932 No 11 [s 31(1)--(4)][44]
+    Compare: 1932 No 11 [s 31(1)--(4)][45]
 
 ##### 11 Commissioner may make payment to claimant
     
@@ -295,9 +297,9 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     Compare: 1908 No 201 ss 8, 9
     
-    Section 11(1)(b): amended, on 25 January 2005, pursuant to [section 83(7)][43] of the Public Finance Act 1989 (1989 No 44).
+    Section 11(1)(b): amended, on 25 January 2005, pursuant to [section 83(7)][44] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 11(2): amended, on 25 January 2005, pursuant to [section 83(7)][43] of the Public Finance Act 1989 (1989 No 44).
+    Section 11(2): amended, on 25 January 2005, pursuant to [section 83(7)][44] of the Public Finance Act 1989 (1989 No 44).
     
     Section 11(2): amended, on 1 April 1987, by section 16(4) of the State Services Conditions of Employment Amendment Act 1987 (1987 No 17).
     
@@ -317,11 +319,11 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (2) Every person who wilfully acts in contravention of the provisions of this section is liable on conviction before a District Court Judge to imprisonment for a term not exceeding 6 months or to a fine not exceeding $200\.
     
-    Compare: 1932 No 11 [s 31(4), (5)][44]
+    Compare: 1932 No 11 [s 31(4), (5)][45]
     
-    Section 12(2): amended, on 1 July 2013, by [section 413][45] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 12(2): amended, on 1 July 2013, by [section 413][46] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 12(2): amended, on 1 April 1980, pursuant to [section 18(2)][40] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 12(2): amended, on 1 April 1980, pursuant to [section 18(2)][41] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 13 Offences
     
@@ -331,9 +333,9 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     *   (b) being a director, manager, secretary, or other officer of the holder, authorises or permits that failure to comply.
     
-    Compare: 1932 No 11 [ss 29(1)][46], [31(5)][44]
+    Compare: 1932 No 11 [ss 29(1)][47], [31(5)][45]
     
-    Section 13: amended, on 1 July 2013, by [section 413][45] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 13: amended, on 1 July 2013, by [section 413][46] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 14 Consequential amendments
     
@@ -347,9 +349,9 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (6) Subject to [section 11][12], the enactments amended by this section shall continue to apply, as if this Act had not been passed, to all money which before the commencement of this Act has become unclaimed money under any provision of any such enactment.
     
-    Section 14(3): repealed, on 1 April 1983, by [section 193(1)][47] of the Law Practitioners Act 1982 (1982 No 123).
+    Section 14(3): repealed, on 1 April 1983, by [section 193(1)][48] of the Law Practitioners Act 1982 (1982 No 123).
     
-    Section 14(4): repealed, on 1 April 1983, by [section 193(1)][47] of the Law Practitioners Act 1982 (1982 No 123).
+    Section 14(4): repealed, on 1 April 1983, by [section 193(1)][48] of the Law Practitioners Act 1982 (1982 No 123).
     
     Section 14(5): repealed, on 1 July 1994, by section 63 of the Companies Amendment Act 1993 (1993 No 108).
 
@@ -395,27 +397,29 @@ Unclaimed money paid to owner: \[_date _\] \[_amount_\]
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][48] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][49] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][49] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][50] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][50] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][51] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][51] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][52] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Companies Amendment Act 2013 (2013 No 111): [section 14][26]
+*   Auctioneers Act 2013 (2013 No 148): [section 28(3)][34]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][45]
+    Companies Amendment Act 2013 (2013 No 111): [section 14][26]
     
-    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][37]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][46]
     
-    Real Estate Agents Act 2008 (2008 No 66): [section 173][34]
+    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][38]
     
-    Lawyers and Conveyancers Act 2006 (2006 No 1): [section 348][35]
+    Real Estate Agents Act 2008 (2008 No 66): [section 173][35]
     
-    Motor Vehicle Sales Act 2003 (2003 No 12): [section 145][38]
+    Lawyers and Conveyancers Act 2006 (2006 No 1): [section 348][36]
     
-    New Zealand Institute of Chartered Accountants Act 1996 (1996 No 39): [section 23][36]
+    Motor Vehicle Sales Act 2003 (2003 No 12): [section 145][39]
+    
+    New Zealand Institute of Chartered Accountants Act 1996 (1996 No 39): [section 23][37]
     
     Income Tax Act 1994 (1994 No 164): section YB 1
     
@@ -425,7 +429,7 @@ Unclaimed money paid to owner: \[_date _\] \[_amount_\]
     
     Unclaimed Money Amendment Act 1990 (1990 No 65)
     
-    Public Finance Act 1989 (1989 No 44): [section 83(7)][43]
+    Public Finance Act 1989 (1989 No 44): [section 83(7)][44]
     
     Unclaimed Money Amendment Act 1988 (1988 No 9)
     
@@ -435,9 +439,9 @@ Unclaimed money paid to owner: \[_date _\] \[_amount_\]
     
     Constitution Act 1986 (1986 No 114): [section 29(2)][18]
     
-    Law Practitioners Act 1982 (1982 No 123): [section 193(1)][47]
+    Law Practitioners Act 1982 (1982 No 123): [section 193(1)][48]
     
-    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][40]
+    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][41]
 
 
 
@@ -468,28 +472,29 @@ Unclaimed money paid to owner: \[_date _\] \[_amount_\]
 [24]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM261023
 [25]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM212499
 [26]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM5620822
-[27]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM205305
+[27]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM5788503
 [28]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM1151900
 [29]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM364938
 [30]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM175007
 [31]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM391422
 [32]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM188103
 [33]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM212498
-[34]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM1152186
-[35]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM367849
-[36]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM391427
-[37]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM3043113
-[38]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM188945
-[39]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM212800
-[40]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM35085
-[41]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM212801
-[42]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM212803
-[43]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM163167
-[44]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM212804
-[45]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM3360714
-[46]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM212802
-[47]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM63909
-[48]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM2998516
-[49]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM2998515
-[50]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM2998532
-[51]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[34]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM5788558
+[35]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM1152186
+[36]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM367849
+[37]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM391427
+[38]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM3043113
+[39]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM188945
+[40]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM212800
+[41]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM35085
+[42]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM212801
+[43]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM212803
+[44]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM163167
+[45]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM212804
+[46]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM3360714
+[47]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM212802
+[48]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM63909
+[49]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM2998516
+[50]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM2998515
+[51]: http://www.legislation.govt.nz/act/public/1971/0028/latest/link.aspx?id=DLM2998532
+[52]: http://www.pco.parliament.govt.nz/editorial-conventions/
