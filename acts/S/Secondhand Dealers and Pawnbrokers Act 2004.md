@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 18 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,11 +13,11 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-This Act is administered by the Ministry of Justice.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -345,7 +345,9 @@ Preliminary provisions
     
     _promoter_ means a person who carries on a business of letting or otherwise providing space to stallholders for the purpose of running a market or fair at which any of the stalls are or may be used for the purpose of secondhand dealing
     
-    _public auction_ means an auction that complies with the [Auctioneers Act 1928][121], the [Auctioneers Regulations 1958][122], and any relevant regulations made under this Act
+    _public auction_ means an auction conducted by a registered auctioneer in the course of the registered auctioneer's business
+    
+    _registered auctioneer_ means a person who is registered as an auctioneer under the [Auctioneers Act 2013][121]
     
     _responsible Minister_ means the Minister of the Crown who is responsible for the department that is authorised by the Prime Minister to provide administrative support to the Licensing Authority
     
@@ -363,7 +365,7 @@ Preliminary provisions
     
     _secondhand dealer_ means a person---
         
-    *   (a) who buys (for the purpose of trade), sells, exchanges, or otherwise deals in secondhand articles or scrap metal; and
+    *   (a) who buys (other than for personal use or enjoyment or as a gift), sells, exchanges, or otherwise deals in secondhand articles or scrap metal; and
     
     *   (b) who is not a pawnbroker or the employee of a secondhand dealer and pawnbroker
     
@@ -377,13 +379,19 @@ Preliminary provisions
     
     _specified offence_ means an offence under any of the following:
         
-    *   (a) [sections 217 to 265][123] of the Crimes Act 1961 (which relate to crimes against rights of property):
+    *   (a) [sections 217 to 265][122] of the Crimes Act 1961 (which relate to crimes against rights of property):
     
-    *   (b) the [Fair Trading Act 1986][124]
+    *   (b) the [Fair Trading Act 1986][123]
     
     _transaction_ means the passing of possession of goods from a seller to a secondhand dealer, or from a seller or pledger to a pawnbroker
     
     _transaction date_ means the date on which a particular transaction takes place.
+    
+    Section 4 **public auction**: replaced, on 18 December 2013, by [section 28(3)][124] of the Auctioneers Act 2013 (2013 No 148).
+    
+    Section 4 **registered auctioneer**: inserted, on 18 December 2013, by [section 28(3)][124] of the Auctioneers Act 2013 (2013 No 148).
+    
+    Section 4 **secondhand dealer** paragraph (a): replaced, on 18 December 2013, by [section 4][125] of the Secondhand Dealers and Pawnbrokers Amendment Act 2013 (2013 No 146).
 
 ##### 5 Act binds the Crown
     
@@ -400,21 +408,21 @@ Licences and certificates
     
     (2) If 2 or more people engage in business as secondhand dealers in partnership, each partner must hold a licence.
     
-    (3) For the purposes of this Act, a person is presumed (in the absence of evidence to the contrary) to be engaged in business as a secondhand dealer if, in any 12-month period, the person---
+    (3) For the purposes of this Act, a person is presumed (in the absence of evidence to the contrary) to be engaged in business as a secondhand dealer if the person---
         
-    *   (a) buys secondhand articles or scrap metal, for the purpose of trade, on 6 or more different days; or
-    
-    *   (b) sells, exchanges, or otherwise deals in secondhand articles or scrap metal (being articles or scrap metal acquired for the purpose of trade)---
+    *   (a) on 6 or more different days within a 12-month period---
             
-        *   (i) on 6 or more different days; or
+        *   (i) buys secondhand articles or scrap metal for purposes other than personal use or enjoyment or as a gift; or
         
-        *   (ii) so as to receive revenue of $2,000 or more from the sale, exchange, or dealing.
+        *   (ii) sells or exchanges secondhand articles or scrap metal that was acquired by the person for purposes other than personal use or enjoyment or as a gift; or
         
         
+    
+    *   (b) within a 12-month period, obtains revenue of more than $2,000 from the sale of secondhand articles or scrap metal that was acquired by the person for purposes other than personal use or enjoyment or as a gift.
     
     (4) For the purposes of this Act, the following are not engaged in business as secondhand dealers when selling secondhand articles or scrap metal:
         
-    *   (a) an auctioneer who is licensed under the [Auctioneers Act 1928][121] and is selling the secondhand articles or scrap metal at auction under that Act:
+    *   (a) a registered auctioneer selling secondhand articles or scrap metal in the course of the registered auctioneer's business:
     
     *   (b) a charitable or non-profit organisation that sells secondhand articles or scrap metal, but only if---
             
@@ -436,7 +444,11 @@ Licences and certificates
     
     Compare: 1963 No 10 s 3
     
-    Section 6(6): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 6(3): replaced, on 18 December 2013, by [section 5][126] of the Secondhand Dealers and Pawnbrokers Amendment Act 2013 (2013 No 146).
+    
+    Section 6(4)(a): replaced, on 18 December 2013, by [section 28(3)][124] of the Auctioneers Act 2013 (2013 No 148).
+    
+    Section 6(6): amended, on 1 July 2013, by [section 413][127] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 7 Pawnbrokers to be licensed
     
@@ -448,7 +460,7 @@ Licences and certificates
     
     Compare: 1908 No 141 s 3
     
-    Section 7(3): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 7(3): amended, on 1 July 2013, by [section 413][127] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Licences: how to get licensed
 
@@ -616,7 +628,7 @@ Licences and certificates
     
     Compare: 1908 No 141 s 14; 1963 No 10 ss 17, 18
     
-    Section 16(5): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 16(5): amended, on 1 July 2013, by [section 413][127] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 17 Updating licence information
     
@@ -630,7 +642,7 @@ Licences and certificates
     
     Compare: 1908 No 141 s 8; 1963 No 10 s 7
     
-    Section 17(4): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 17(4): amended, on 1 July 2013, by [section 413][127] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 18 Licences not transferable, except to temporary licence holder
     
@@ -642,7 +654,7 @@ Licences and certificates
     
     *   (b) the assignee in bankruptcy of a licence holder; or
     
-    *   (c) the manager, as defined in [section 2][126] of the Protection of Personal and Property Rights Act 1988, of a licence holder.
+    *   (c) the manager, as defined in [section 2][128] of the Protection of Personal and Property Rights Act 1988, of a licence holder.
     
     (3) A temporary licence holder has all the rights and responsibilities of a licence holder.
     
@@ -688,9 +700,9 @@ Licences and certificates
     
     *   (c) the licence holder knows, or should know, that the person does not have a certificate.
     
-    Section 20(1): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 20(1): amended, on 1 July 2013, by [section 413][127] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 20(3: amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 20(3: amended, on 1 July 2013, by [section 413][127] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Certificates: how to get them
 
@@ -816,7 +828,7 @@ Licences and certificates
 
 ##### 27 Hearing into Police objection
     
-*   (1) For the purpose of conducting a hearing into a Police objection, [sections 4 to 12][127] of the Commissions of Inquiry Act 1908 apply with any necessary modifications as if the Licensing Authority were a Commission appointed under that Act and as if the hearing were an inquiry held under that Act.
+*   (1) For the purpose of conducting a hearing into a Police objection, [sections 4 to 12][129] of the Commissions of Inquiry Act 1908 apply with any necessary modifications as if the Licensing Authority were a Commission appointed under that Act and as if the hearing were an inquiry held under that Act.
     
     (2) Without limiting subsection (1), at a hearing before the Licensing Authority,---
         
@@ -826,7 +838,7 @@ Licences and certificates
     
     (3) At the conclusion of the hearing, the Licensing Authority must determine whether to uphold or dismiss the Police objection.
     
-    Section 27(2)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 27(2)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
 
 ##### 28 Eligibility for, and issue of, certificate
     
@@ -912,7 +924,7 @@ Licences and certificates
     
     Compare: 1908 No 141 s 14; 1963 No 10 ss 17, 18
     
-    Section 31(4): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 31(4): amended, on 1 July 2013, by [section 413][127] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Obligations of certificate holders
 
@@ -924,9 +936,9 @@ Licences and certificates
     
     (3) [Section 83][107] applies to a charge under subsection (2).
     
-    Section 32(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 32(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
     
-    Section 32(2): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 32(2): amended, on 1 July 2013, by [section 413][127] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 33 Updating certificate information
     
@@ -940,7 +952,7 @@ Licences and certificates
     
     Compare: 1908 No 141 s 8; 1963 No 10 s 7
     
-    Section 33(4): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 33(4): amended, on 1 July 2013, by [section 413][127] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Appeals
 
@@ -981,9 +993,9 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     Compare: 1908 No 141 s 11; 1963 No 10 s 16
     
-    Section 36(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 36(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
     
-    Section 36(3): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 36(3): amended, on 1 July 2013, by [section 413][127] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 37 Employee records
     
@@ -1015,7 +1027,7 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     *   (c) keep it at the place and for the period required by this section.
     
-    Section 37(5): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 37(5): amended, on 1 July 2013, by [section 413][127] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 38 Police access to employee records
     
@@ -1037,15 +1049,15 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     Compare: 1908 No 141 ss 11, 28, 29; 1963 No 10 s 16
     
-    Section 38(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 38(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
     
-    Section 38(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 38(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
     
-    Section 38(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 38(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
     
-    Section 38(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 38(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
     
-    Section 38(3): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 38(3): amended, on 1 July 2013, by [section 413][127] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Goods
 
@@ -1071,15 +1083,15 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     Compare: 1908 No 141 ss 34, 36
     
-    Section 39(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 39(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
     
-    Section 39(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 39(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
     
-    Section 39(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 39(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
     
-    Section 39(2)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 39(2)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
     
-    Section 39(3): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 39(3): amended, on 1 July 2013, by [section 413][127] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 40 Police may issue hold notice
     
@@ -1091,13 +1103,13 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     (4) Subsection (2) does not override [section 60][78].
     
-    Section 40(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 40(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
     
-    Section 40(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 40(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
     
-    Section 40(3): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 40(3): amended, on 1 July 2013, by [section 413][127] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 40(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 40(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
 
 ##### 41 Obligation to give Police access to goods
     
@@ -1107,11 +1119,11 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     (3) [Section 83][107] applies to a charge under subsection (2).
     
-    Section 41(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 41(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
     
-    Section 41(2): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 41(2): amended, on 1 July 2013, by [section 413][127] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 41(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 41(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
 
 ### Subpart 2---Obligations of licensed secondhand dealers
 
@@ -1185,7 +1197,7 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     Compare: 1963 No 10 ss 12, 12A
     
-    Section 42(5): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 42(5): amended, on 1 July 2013, by [section 413][127] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 43 Verifying identity
     
@@ -1201,7 +1213,7 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     (3) A secondhand dealer need not obtain evidence of the identity of a person from whom goods are acquired in the following situations:
         
-    *   (a) where the goods are acquired at a public auction conducted by a licensed auctioneer:
+    *   (a) where the goods are acquired at a public auction conducted by a registered auctioneer:
     
     *   (b) where the goods are acquired through an Internet auction run by an Internet auction provider that complies with any prescribed requirements:
     
@@ -1211,7 +1223,7 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     *   (e) in any other prescribed situation.
     
-    
+    Section 43(3)(a): amended, on 18 December 2013, by [section 28(3)][124] of the Auctioneers Act 2013 (2013 No 148).
 
 ##### 44 Storage of dealers record
     
@@ -1231,9 +1243,9 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     Compare: 1963 No 10 ss 12, 12A
     
-    Section 44(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 44(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
     
-    Section 44(4): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 44(4): amended, on 1 July 2013, by [section 413][127] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 45 Police access to dealers record
     
@@ -1253,15 +1265,15 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     (4) [Section 83][107] applies to a charge under subsection (3).
     
-    Section 45(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 45(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
     
-    Section 45(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 45(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
     
-    Section 45(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 45(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
     
-    Section 45(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 45(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
     
-    Section 45(3): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 45(3): amended, on 1 July 2013, by [section 413][127] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Secondhand dealing
 
@@ -1293,7 +1305,7 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     Compare: 1963 No 10 ss 14, 15
     
-    Section 47(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 47(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
 
 ##### 48 Articles to be labelled
     
@@ -1329,9 +1341,9 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     *   (b) to comply with [section 48][63] (which relates to labelling articles).
     
-    Section 50(1): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 50(1): amended, on 1 July 2013, by [section 413][127] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 50(2: amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 50(2: amended, on 1 July 2013, by [section 413][127] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ### Subpart 3---Obligations of licensed pawnbrokers
 
@@ -1395,7 +1407,7 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     Compare: 1908 No 141 s 17
     
-    Section 51(4): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 51(4): amended, on 1 July 2013, by [section 413][127] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 52 Verifying identity of pledgers
     
@@ -1427,9 +1439,9 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     Compare: 1908 No 141 s 17
     
-    Section 53(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 53(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
     
-    Section 53(4): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 53(4): amended, on 1 July 2013, by [section 413][127] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 54 Police access to pawnbrokers record
     
@@ -1451,15 +1463,15 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     Compare: 1908 No 141 ss 28, 29
     
-    Section 54(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 54(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
     
-    Section 54(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 54(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
     
-    Section 54(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 54(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
     
-    Section 54(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 54(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
     
-    Section 54(3): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 54(3): amended, on 1 July 2013, by [section 413][127] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Pawnbroking
 
@@ -1573,7 +1585,7 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     Compare: 1908 No 141 ss 24, 25
     
-    Section 63(2)(a)(ii): substituted, on 26 April 2005, by [section 7][129] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 63(2)(a)(ii): substituted, on 26 April 2005, by [section 7][131] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 64 What happens if sale price is greater than redemption price
     
@@ -1647,9 +1659,9 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     Compare: 1908 No 141 s 24
     
-    Section 67(1): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 67(1): amended, on 1 July 2013, by [section 413][127] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 67(2: amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 67(2: amended, on 1 July 2013, by [section 413][127] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ### Subpart 4---Obligations of promoters and Internet auction providers
 
@@ -1711,15 +1723,15 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     (7) [Section 83][107] applies to a charge under subsection (6)(c).
     
-    Section 68(5): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 68(5): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
     
-    Section 68(5)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 68(5)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
     
-    Section 68(5)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 68(5)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
     
-    Section 68(6): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 68(6): amended, on 1 July 2013, by [section 413][127] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 68(6)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 68(6)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
 
 ##### 69 Internet auction providers record
     
@@ -1755,15 +1767,15 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     (6) [Section 83][107] applies to a charge under subsection (5)(c).
     
-    Section 69(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 69(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
     
-    Section 69(4)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 69(4)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
     
-    Section 69(4)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 69(4)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
     
-    Section 69(5): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 69(5): amended, on 1 July 2013, by [section 413][127] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 69(5)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 69(5)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
 
 ## Part 4  
 Licensing Authority of secondhand dealers and pawnbrokers, and miscellaneous provisions
@@ -1806,7 +1818,7 @@ Licensing Authority of secondhand dealers and pawnbrokers, and miscellaneous pro
     
 *   (1) The Licensing Authority and any Deputy Licensing Authority must be paid fees and expenses in accordance with the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies, as if the Licensing Authority were the chairperson of a statutory body and any Deputy Licensing Authority were a member of that body.
     
-    (2) For the purposes of the [State Sector Act 1988][130] and the [Government Superannuation Fund Act 1956][131], a Licensing Authority or Deputy Licensing Authority is not, by reason merely of that appointment, employed in the service of the Crown.
+    (2) For the purposes of the [State Sector Act 1988][132] and the [Government Superannuation Fund Act 1956][133], a Licensing Authority or Deputy Licensing Authority is not, by reason merely of that appointment, employed in the service of the Crown.
 
 ##### 73 Immunity
     
@@ -1928,7 +1940,7 @@ Licensing Authority of secondhand dealers and pawnbrokers, and miscellaneous pro
     
     *   (c) information relating to the cancellation of any licence or to the cancellation or suspension of any certificate.
     
-    Section 82: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 82: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
 
 #### Defences to certain charges
 
@@ -1942,9 +1954,9 @@ Licensing Authority of secondhand dealers and pawnbrokers, and miscellaneous pro
     
     (2) This section does not limit any other defences that may be available.
     
-    Section 83(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 83(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
     
-    Section 83(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    Section 83(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][130] of the Policing Act 2008 (2008 No 72).
 
 #### Regulations
 
@@ -2018,7 +2030,7 @@ Licensing Authority of secondhand dealers and pawnbrokers, and miscellaneous pro
 
 ##### 85 Existing licence deemed to be transitional licence
     
-*   (1) On the date on which this section comes into force, every person who, immediately before that date, held a licence issued under the Secondhand Dealers Act 1963, the Pawnbrokers Act 1908, or the [Auctioneers Act 1928][121] is deemed to hold a licence issued under this Act, and such a licence is referred to in this section as a _transitional licence_.
+*   (1) On the date on which this section comes into force, every person who, immediately before that date, held a licence issued under the Secondhand Dealers Act 1963, the Pawnbrokers Act 1908, or the [Auctioneers Act 1928][134] is deemed to hold a licence issued under this Act, and such a licence is referred to in this section as a _transitional licence_.
     
     (2) A transitional licence expires on the earlier of the following:
         
@@ -2176,95 +2188,56 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Auctioneers Act 1928 (1928 No 29)
 
-_Amendment(s) incorporated in the [Act(s)][132]._
+_Amendment(s) incorporated in the [Act(s)][135]._
 
 ##### Motor Vehicle Sales Act 2003 (2003 No 12)
 
-_Amendment(s) incorporated in the [Act(s)][133]._
+_Amendment(s) incorporated in the [Act(s)][136]._
 
 ##### Privacy Act 1993 (1993 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][134]._
+_Amendment(s) incorporated in the [Act(s)][137]._
 
 ## Part 2  
 Regulations amended
 
 ##### District Courts Rules 1992 (SR 1992/109)
 
-_Amendment(s) incorporated in the [rules][135]._
+_Amendment(s) incorporated in the [rules][138]._
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Secondhand Dealers and Pawnbrokers Act 2004\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
+*   This is a reprint of the Secondhand Dealers and Pawnbrokers Act 2004 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][136] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][139] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][140] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ http://www.pco.parliament.govt.nz/legislation/reprints.shtml or Part 8 of the _Tables of Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][141] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][142] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][137] and [17E][138] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Auctioneers Act 2013 (2013 No 148): [section 28(3)][124]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    [Secondhand Dealers and Pawnbrokers Amendment Act 2013][143] (2013 No 146)
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][127]
     
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][130]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Criminal Procedure Act 2011 (2011 No 81): [section 413][125]
-    
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][128]
-    
-    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][129]
+    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][131]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2004/0070/latest/whole.html#DLM305115
 [2]: http://www.legislation.govt.nz/act/public/2004/0070/latest/whole.html#DLM305116
 [3]: http://www.legislation.govt.nz/act/public/2004/0070/latest/whole.html#DLM305117
@@ -2385,21 +2358,26 @@ _Amendment(s) incorporated in the [rules][135]._
 [118]: http://www.legislation.govt.nz/act/public/2004/0070/latest/whole.html#DLM305679
 [119]: http://www.legislation.govt.nz/act/public/2004/0070/latest/whole.html#DLM305680
 [120]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM320630
-[121]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM205305
-[122]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM11234
-[123]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM329886
-[124]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM96438
-[125]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM3360714
-[126]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM126533
-[127]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM139145
-[128]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM1102349
-[129]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM333795
-[130]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM129109
-[131]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM446000
-[132]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM205334
-[133]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM188542
-[134]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM298477
-[135]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM158826
-[136]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM195439
-[137]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM195468
-[138]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM195470
+[121]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM5788503
+[122]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM329886
+[123]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM96438
+[124]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM5788558
+[125]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM5788207
+[126]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM5788209
+[127]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM3360714
+[128]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM126533
+[129]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM139145
+[130]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM1102349
+[131]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM333795
+[132]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM129109
+[133]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM446000
+[134]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM205305
+[135]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM205334
+[136]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM188542
+[137]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM298477
+[138]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM158826
+[139]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM2998516
+[140]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM2998515
+[141]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM2998532
+[142]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[143]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM5788202
