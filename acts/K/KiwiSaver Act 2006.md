@@ -379,7 +379,7 @@ This Act is administered by the Inland Revenue Department and the Ministry of Bu
 
 [116A][176][][176][Requirements for restricted KiwiSaver schemes][176]
 
-[116B ][177][][177][Requirements for managers of KiwiSaver schemes][177]
+[116B][177][][177][Requirements for managers of KiwiSaver schemes][177]
 
 [116C][178][][178][Duty of manager with respect to money received][178]
 
@@ -929,7 +929,7 @@ Preliminary provisions
     
     *   (d) does not include a fee referred to in [section 200][312] or charged under regulations made under [section 228(c)][348] except in the context of those provisions
     
-    _fee subsidy_ means a Crown subsidy for fees that are payable by a member or a class of members of a KiwiSaver scheme as prescribed under [section 228(n) or (o)][348] 
+    _fee subsidy_ means a Crown subsidy for fees that are payable by a member or a class of members of a KiwiSaver scheme as prescribed under [section 228(n) or (o)][348]
     
     _FMA_ means the Financial Markets Authority established under [Part 2][373] of the Financial Markets Authority Act 2011
     
@@ -3265,7 +3265,7 @@ KiwiSaver contributions
     
     (4) However, on and after 13 December 2007, parties to an employment relationship are free to agree contractual terms and conditions that disregard the purpose of this section described in subsection (1), and, to the extent of such agreement, subsections (1) to (3) do not apply, unless, in respect of the employer and employee,---
         
-    *   (a) [section 60(1)(a), (b) or (c)][86] first applies on or after the day of assent for the [Taxation (Urgent Measures and Annual Rates) Act 2008][553]; and 
+    *   (a) [section 60(1)(a), (b) or (c)][86] first applies on or after the day of assent for the [Taxation (Urgent Measures and Annual Rates) Act 2008][553]; and
     
     *   (b) the contractual terms and conditions do not account for the amount of compulsory contributions the employer is required to pay.
     
@@ -4078,7 +4078,7 @@ KiwiSaver schemes
     
     (2) The trustee may apply to the High Court for an order under this section.
     
-    (3) The court may direct that the application be served on any person that the court thinks fit. 
+    (3) The court may direct that the application be served on any person that the court thinks fit.
     
     (4) On an application, the court, after giving the manager and any other person that the court thinks fit the opportunity to be heard, may make an order that---
         
@@ -4530,7 +4530,7 @@ KiwiSaver schemes
     
 *   (1) The trustees (in the case of a restricted KiwiSaver scheme) or the manager (in the case of any other KiwiSaver scheme) must, within 5 months after the end of each financial year, prepare a report on the scheme for that year.
     
-    (2) In the case of a KiwiSaver scheme other than a restricted scheme, the manager must consult the trustee about the annual report. 
+    (2) In the case of a KiwiSaver scheme other than a restricted scheme, the manager must consult the trustee about the annual report.
     
     (3) The annual report must contain, or have attached to it, the prescribed information, statements, certificates, and documents.
     
@@ -5418,7 +5418,7 @@ KiwiSaver schemes
     
     *   (c) must, within 28 days after the final financial statements have been audited, ensure that---
             
-        *   (i) a copy of those financial statements is sent to the FMA and to every person who was a member of the scheme immediately before it was wound up; and 
+        *   (i) a copy of those financial statements is sent to the FMA and to every person who was a member of the scheme immediately before it was wound up; and
         
         *   (ii) the FMA and the members are advised in writing of the manner in which remaining assets (if any) of the scheme are to be distributed; and
         
@@ -5576,13 +5576,13 @@ KiwiSaver schemes
     
     *   (b) a breach of regulations made under [section 230][350].
     
-    (2) If this section applies, the High Court may make any orders on any terms and conditions that it thinks appropriate, including, without limitation,--- 
+    (2) If this section applies, the High Court may make any orders on any terms and conditions that it thinks appropriate, including, without limitation,---
         
-    *   (a) an order to restrain the trustee or the manager of the scheme, or both, from engaging in conduct that constitutes, or would constitute, the breach: 
+    *   (a) an order to restrain the trustee or the manager of the scheme, or both, from engaging in conduct that constitutes, or would constitute, the breach:
     
     *   (b) an order to require the trustee or the manager of the scheme, or both,---
             
-        *   (i) to do a particular act or thing: 
+        *   (i) to do a particular act or thing:
         
         *   (ii) to comply with the conditions of the instrument of appointment:
         
@@ -5652,7 +5652,7 @@ KiwiSaver schemes
 
 ##### 186 Right of appeal against certain decisions of FMA
     
-*   (1) A person affected by a decision of the FMA under any of the following provisions may appeal against the decision to the High Court: 
+*   (1) A person affected by a decision of the FMA under any of the following provisions may appeal against the decision to the High Court:
         
     *   (a) [section 30][37] (approval of employer as exempt employer):
     
@@ -7391,11 +7391,11 @@ Commencementsee section 2
     
     *   (b) 1 October 2012\.
     
-    (3) The relevant enactments as amended by this Act apply to a particular scheme on and from the earlier of the dates set out in subsection (2). 
+    (3) The relevant enactments as amended by this Act apply to a particular scheme on and from the earlier of the dates set out in subsection (2).
     
-    (4) If the trustees elect an effective date that is earlier than 1 October 2012, the trustees must notify the FMA and the Commissioner of the elected date at least 20 working days before that date. 
+    (4) If the trustees elect an effective date that is earlier than 1 October 2012, the trustees must notify the FMA and the Commissioner of the elected date at least 20 working days before that date.
     
-    (5) A failure to comply with subsection (4) does not limit subsection (3). 
+    (5) A failure to comply with subsection (4) does not limit subsection (3).
     
     (6) This section is subject to section 59\.
 
@@ -7415,7 +7415,7 @@ Commencementsee section 2
         
     *   (a) in the case of a scheme listed in section 61 or 62, amend the register to identify the scheme as a restricted scheme; and
     
-    *   (b) in the case of any other KiwiSaver scheme, amend the register to identify the name of the manager of the scheme. 
+    *   (b) in the case of any other KiwiSaver scheme, amend the register to identify the name of the manager of the scheme.
     
     (2) The FMA must not amend the register to identify a KiwiSaver scheme as a restricted scheme other than in accordance with subsection (1)(a).
 
@@ -7471,7 +7471,7 @@ Commencementsee section 2
 
 ##### 65 Providers must notify existing members of changes
     
-*   (1) The provider of a KiwiSaver scheme must, no later than 3 months after the effective date for the scheme,--- 
+*   (1) The provider of a KiwiSaver scheme must, no later than 3 months after the effective date for the scheme,---
         
     *   (a) prepare a document (the _information document_) that identifies---
             
@@ -7483,9 +7483,9 @@ Commencementsee section 2
         
         
     
-    *   (b) send, to the address (as defined in section 4(1) of the principal Act) of every existing member of the scheme a written statement that complies with subsection (2). 
+    *   (b) send, to the address (as defined in section 4(1) of the principal Act) of every existing member of the scheme a written statement that complies with subsection (2).
     
-    (2) The written statement must contain all of the following: 
+    (2) The written statement must contain all of the following:
         
     *   (a) the effective date:
     
@@ -7501,7 +7501,7 @@ Commencementsee section 2
     
     (3) The provider must, if an existing member of the scheme requests a copy of the information document, ensure that a hard copy of the information document is sent, free of charge, to the member.
     
-    (4) Until 31 December 2013, the provider must ensure that a copy of the information document is available, at all reasonable times, on an Internet site maintained by or on behalf of the provider. 
+    (4) Until 31 December 2013, the provider must ensure that a copy of the information document is available, at all reasonable times, on an Internet site maintained by or on behalf of the provider.
 
 ##### 66 Application of Securities Act 1978: promoter
     
@@ -7546,32 +7546,6 @@ Commencementsee section 2
 ##### 70 References to department in instruments of appointment
     
 *   Unless the context otherwise requires, a reference (express or implied) to the department in an instrument of appointment made under section 177 of the principal Act before or on the commencement date must be read as a reference to the FMA.
-
-##### 71 Transitional regulations
-    
-*   (1) In this section, _transition_ means the transition from the relevant enactments as in force immediately before their amendment by this Act to the relevant enactments as amended by this Act.
-    
-    (2) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing transitional or savings provisions for the purpose of facilitating or ensuring an orderly transition.
-    
-    (3) The Minister must not recommend that regulations be made under this section unless he or she is satisfied that the regulations are necessary to facilitate or ensure an orderly transition.
-    
-    (4) Regulations made under this section may, for a period specified in the regulations that ends no later than the close of 31 December 2013,--- 
-        
-    *   (a) provide that 1 or more provisions (including definitions) of this Act, or of a relevant enactment, do not apply, or apply with modifications or additions, to or in respect of a KiwiSaver scheme:
-    
-    *   (b) provide that 1 or more terms in this Act, or in a relevant enactment, have the meaning given to them by the regulations to the extent that they apply to or in respect of a KiwiSaver scheme:
-    
-    *   (c) provide that 1 or more provisions repealed, amended, or revoked by this Act are to continue to apply, or apply with modifications or additions, to or in respect of a KiwiSaver scheme as if they had not been repealed, amended, or revoked:
-    
-    *   (d) provide for any other matter necessary to facilitate or ensure an orderly transition.
-    
-    (5) On the close of 31 December 2013,---
-        
-    *   (a) this section expires and is repealed; and
-    
-    *   (b) any regulations made under this section that are in force on 31 December 2013 expire and are revoked.
-    
-    
 
 #### 
 
