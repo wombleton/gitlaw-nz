@@ -1,5 +1,5 @@
 Reprint  
-as at 1 April 2011
+as at 1 January 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Department of Labour.
 
@@ -23,275 +23,279 @@ This Act is administered by the Department of Labour.
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
 [Part 1][2]  
 [Preliminary provisions][2]
 
-[2][3] [Commencement][3]
+[2][3][][3][Commencement][3]
 
-[3][4] [Purpose][4]
+[3][4][][4][Purpose][4]
 
-[4][5] [Overview][5]
+[4][5][][5][Overview][5]
 
-[5][6] [Interpretation][6]
+[5][6][][6][Interpretation][6]
 
-[6][7] [Relationship between Act and employment agreements][7]
+[6][7][][7][Relationship between Act and employment agreements][7]
 
-[7][8] [Application][8]
+[7][8][][8][Application][8]
 
 [Key terms defined][9]
 
-[8][10] [Meaning of ordinary weekly pay][10]
+[8][10][][10][Meaning of ordinary weekly pay][10]
 
-[9][11] [Meaning of relevant daily pay][11]
+[9][11][][11][Meaning of relevant daily pay][11]
 
-[9A][12] [Average daily pay][12]
+[9A][12][][12][Average daily pay][12]
 
-[10][13] [Cash value of board or lodgings included in ordinary weekly pay and relevant daily pay][13]
+[10][13][][13][Cash value of board or lodgings included in ordinary weekly pay and relevant daily pay][13]
 
-[11][14] [Labour Inspector may determine ordinary weekly pay, relevant daily pay, and average daily pay][14]
+[11][14][][14][Labour Inspector may determine ordinary weekly pay, relevant daily pay, and average daily pay][14]
 
 [Determination of what would otherwise be working day][15]
 
-[12][16] [Determination of what would otherwise be working day][16]
+[12][16][][16][Determination of what would otherwise be working day][16]
 
-[13][17] [Labour Inspector may determine what would otherwise be working day][17]
+[13][17][][17][Labour Inspector may determine what would otherwise be working day][17]
 
-[14][18] [Meaning of gross earnings][18]
+[14][18][][18][Meaning of gross earnings][18]
 
 [Part 2][19]  
 [Holiday and leave entitlements][19]
 
-[Subpart 1][20]---[Annual holidays][20]
+[Subpart 1][20][---][20][Annual holidays][20]
 
-[15][21] [Purpose of this subpart][21]
+[15][21][][21][Purpose of this subpart][21]
 
 [Entitlement to annual holidays][22]
 
-[16][23] [Entitlement to annual holidays][23]
+[16][23][][23][Entitlement to annual holidays][23]
 
-[17][24] [How employee's entitlement to annual holidays may be met][24]
+[17][24][][24][How employee's entitlement to annual holidays may be met][24]
 
-[18][25] [Taking of annual holidays][25]
+[18][25][][25][Taking of annual holidays][25]
 
-[19][26] [When employee may be required to take annual holidays][26]
+[19][26][][26][When employee may be required to take annual holidays][26]
 
-[20][27] [Employer may allow employee to take annual holidays in advance][27]
+[20][27][][27][Employer may allow employee to take annual holidays in advance][27]
 
 [Payment for annual holidays][28]
 
-[21][29] [Calculation of annual holiday pay][29]
+[21][29][][29][Calculation of annual holiday pay][29]
 
-[22][30] [Calculation of annual holiday pay if holiday taken in advance][30]
+[22][30][][30][Calculation of annual holiday pay if holiday taken in advance][30]
 
-[23][31] [Calculation of annual holiday pay if employment ends within 12 months][31]
+[23][31][][31][Calculation of annual holiday pay if employment ends within 12 months][31]
 
-[24][32] [Calculation of annual holiday pay if employment ends and entitlement to holidays has arisen][32]
+[24][32][][32][Calculation of annual holiday pay if employment ends and entitlement to holidays has arisen][32]
 
-[25][33] [Calculation of annual holiday pay if employment ends before further entitlement has arisen][33]
+[25][33][][33][Calculation of annual holiday pay if employment ends before further entitlement has arisen][33]
 
-[26][34] [Payments may be cumulative][34]
+[26][34][][34][Payments may be cumulative][34]
 
-[27][35] [When payment for annual holidays must be made][35]
+[27][35][][35][When payment for annual holidays must be made][35]
 
-[28][36] [When annual holiday pay may be paid with employee's pay][36]
+[28][36][][36][When annual holiday pay may be paid with employee's pay][36]
 
 [Portion of annual holidays may be paid out][37]
 
-[28A][38] [Employee may request portion of annual holidays be paid out][38]
+[28A][38][][38][Employee may request portion of annual holidays be paid out][38]
 
-[28B][39] [Payment for annual holidays paid out][39]
+[28B][39][][39][Payment for annual holidays paid out][39]
 
-[28C][40] [Requirement to request payout prohibited][40]
+[28C][40][][40][Requirement to request payout prohibited][40]
 
-[28D][41] [Requirement to make payout prohibited][41]
+[28D][41][][41][Requirement to make payout prohibited][41]
 
-[28E][42] [Employer may have policy preventing payout][42]
+[28E][42][][42][Employer may have policy preventing payout][42]
 
-[28F][43] [Labour Inspector may determine payout][43]
+[28F][43][][43][Labour Inspector may determine payout][43]
 
 [Closedown periods][44]
 
-[29][45] [Meaning of closedown period][45]
+[29][45][][45][Meaning of closedown period][45]
 
-[30][46] [Frequency of closedown periods][46]
+[30][46][][46][Frequency of closedown periods][46]
 
-[31][47] [Employer may have different closedown period for each part of business][47]
+[31][47][][47][Employer may have different closedown period for each part of business][47]
 
-[32][48] [Requirement to take annual holidays during closedown period][48]
+[32][48][][48][Requirement to take annual holidays during closedown period][48]
 
-[33][49] [Payment of annual holiday pay during closedown period for employee entitled to annual holidays][49]
+[33][49][][49][Payment of annual holiday pay during closedown period for employee entitled to annual holidays][49]
 
-[34][50] [Calculation of pay during closedown period for employee not entitled to annual holidays][50]
+[34][50][][50][Calculation of pay during closedown period for employee not entitled to annual holidays][50]
 
-[35][51] [Effect of closedown period on anniversary date of employee not entitled to annual holidays][51]
+[35][51][][51][Effect of closedown period on anniversary date of employee not entitled to annual holidays][51]
 
 [Relationship between annual holidays and other entitlements][52]
 
-[36][53] [Employer may allow employee taking annual holidays to take sick leave][53]
+[36][53][][53][Employer may allow employee taking annual holidays to take sick leave][53]
 
-[37][54] [Employer must allow employee taking annual holidays to take bereavement leave][54]
+[37][54][][54][Employer must allow employee taking annual holidays to take bereavement leave][54]
 
-[38][55] [Sickness, injury, or bereavement arising before scheduled annual holidays][55]
+[38][55][][55][Sickness, injury, or bereavement arising before scheduled annual holidays][55]
 
-[39][56] [Employer may allow employee to take annual holidays if sick leave or bereavement leave exhausted][56]
+[39][56][][56][Employer may allow employee to take annual holidays if sick leave or bereavement leave exhausted][56]
 
-[40][57] [Relationship between annual holidays and public holidays][57]
+[40][57][][57][Relationship between annual holidays and public holidays][57]
 
-[Subpart 2][58]---[Entitlement to 4 weeks' annual holidays from 1 April 2007][58]
-
-[41][59] [Purpose of this subpart][59] \[Repealed\]
-
-[42][60] [Increase in minimum annual holiday entitlement][60] \[Repealed\]
-
-[Subpart 3][61]---[Public holidays][61]
-
-[43][62] [Purpose of this subpart][62]
-
-[44][63] [Days that are public holidays][63]
-
-[44A][64] [Transferring part of public holiday][64]
-
-[44B][65] [Transferring whole of public holiday][65]
-
-[44C][66] [Employer may have policy preventing transfer][66]
-
-[45][67] [Transfer of public holidays over Christmas and New Year][67]
-
-[Entitlement to public holidays][68]
-
-[46][69] [Entitlement to public holidays][69]
-
-[47][70] [When employee required to work on public holiday][70]
-
-[48][71] [Compliance with section 46][71]
-
-[Payment for public holidays][72]
-
-[49][73] [Payment if employee does not work on public holiday][73]
-
-[50][74] [Employer must pay employee at least time and a half for working on public holiday][74]
-
-[51][75] [Transitional provision for employers who already pay for work on public holidays in employee's regular pay][75]
-
-[52][76] [New employment agreements must include provision that complies with section 50][76]
-
-[53][77] [Existing employment agreements must include provision that complies with section 50][77]
-
-[54][78] [Questions about whether sections 50 to 53 complied with][78]
-
-[55][79] [When payment for public holiday must be made][79]
-
-[Alternative holiday][80]
-
-[56][81] [Alternative holiday must be provided if employee works on public holiday][81]
-
-[57][82] [Requirements of alternative holiday][82]
-
-[58][83] [When employee may be required to take alternative holiday][83] \[Repealed\]
-
-[59][84] [Entitlement to alternative holiday if employee on call on public holiday][84]
-
-[60][85] [Payment for alternative holiday][85]
-
-[61][86] [Alternative holiday may be exchanged for payment][86]
-
-[Relationship between public holidays and other entitlements][87]
-
-[61A][88] [Sickness, injury, or bereavement on public holiday][88]
-
-[Subpart 4][89]---[Sick leave and bereavement leave][89]
-
-[62][90] [Purpose of this subpart][90]
-
-[Entitlement to sick leave and bereavement leave][91]
-
-[63][92] [Entitlement to sick leave and bereavement leave][92]
-
-[64][93] [Employee must notify employer of intention to take leave][93]
-
-[Sick leave][94]
-
-[65][95] [Sick leave][95]
-
-[66][96] [Sick leave may be carried over][96]
-
-[67][97] [Sick leave need not be paid out][97]
-
-[68][98] [Proof of sickness or injury][98]
-
-[Bereavement leave][99]
-
-[69][100] [Bereavement leave][100]
-
-[70][101] [Duration of bereavement leave][101]
-
-[Payment for sick leave and bereavement leave][102]
-
-[71][103] [Payment for sick leave and bereavement leave][103]
-
-[72][104] [When payment for sick leave or bereavement leave must be made][104]
-
-[Part 3][105]  
-[Enforcement and other matters][105]
-
-[Subpart 1][106]---[Enforcement][106]
-
-[73][107] [Employer and employee obligations under Act][107]
-
-[74][108] [Who can enforce Act][108]
-
-[75][109] [Penalty for non-compliance][109]
-
-[76][110] [Proceedings by Labour Inspector for penalty][110]
-
-[77][111] [Proceedings by Labour Inspector to recover arrears of pay][111]
-
-[78][112] [Powers of Labour Inspector][112]
-
-[79][113] [Determinations by Labour Inspector][113]
-
-[80][114] [Labour Inspector must consult employer and employee][114]
-
-[Holiday and leave record][115]
-
-[81][116] [Holiday and leave record][116]
-
-[82][117] [Requests for access to holiday and leave record][117]
-
-[83][118] [Failure to keep or provide access to holiday and leave record][118]
-
-[Subpart 2][119]---[Other matters][119]
-
-[84][120] [Power to award interest on unpaid holiday pay or leave pay][120]
-
-[85][121] [Presumption that employment continuous if employee dismissed and re-employed within 1 month][121]
-
-[86][122] [Holiday pay and leave pay treated as salary or wages][122]
-
-[87][123] [Regulations][123]
-
-[Transitional provisions relating to entitlements under Holidays Act 1981][124]
-
-[88][125] [Transitional provision relating to annual holidays][125]
-
-[89][126] [Transitional provision relating to public holidays][126]
-
-[90][127] [Transitional provision relating to special leave][127]
-
-[91][128] [Repeals and consequential amendments][128]
-
-[Schedule 1][129]  
-[Modifications to subpart 1 of Part 2 to increase minimum entitlement to annual holidays from 1 April 2007][129]
+[Subpart 2][58][---][58][Entitlement to 4 weeks' annual holidays from 1 April 2007][58]
 
 \[Repealed\]
 
-[Schedule 2][130]  
-[Enactments repealed][130]
+[41][59][][59][Purpose of this subpart][59] \[Repealed\]
 
-[Schedule 3][131]  
-[Enactments amended][131]
+[42][60][][60][Increase in minimum annual holiday entitlement][60] \[Repealed\]
+
+[Subpart 3][61][---][61][Public holidays][61]
+
+[43][62][][62][Purpose of this subpart][62]
+
+[44][63][][63][Days that are public holidays][63]
+
+[44A][64][][64][Transferring part of public holiday][64]
+
+[44B][65][][65][Transferring whole of public holiday][65]
+
+[44C][66][][66][Employer may have policy preventing transfer][66]
+
+[45][67][][67][Transfer of public holidays over Christmas and New Year][67]
+
+[45A][68][][68][Transfer of Waitangi Day and ANZAC Day public holidays][68]
+
+[Entitlement to public holidays][69]
+
+[46][70][][70][Entitlement to public holidays][70]
+
+[47][71][][71][When employee required to work on public holiday][71]
+
+[48][72][][72][Compliance with section 46][72]
+
+[Payment for public holidays][73]
+
+[49][74][][74][Payment if employee does not work on public holiday][74]
+
+[50][75][][75][Employer must pay employee at least time and a half for working on public holiday][75]
+
+[51][76][][76][Transitional provision for employers who already pay for work on public holidays in employee's regular pay][76]
+
+[52][77][][77][New employment agreements must include provision that complies with section 50][77]
+
+[53][78][][78][Existing employment agreements must include provision that complies with section 50][78]
+
+[54][79][][79][Questions about whether sections 50 to 53 complied with][79]
+
+[55][80][][80][When payment for public holiday must be made][80]
+
+[Alternative holiday][81]
+
+[56][82][][82][Alternative holiday must be provided if employee works on public holiday][82]
+
+[57][83][][83][Requirements of alternative holiday][83]
+
+[58][84][][84][When employee may be required to take alternative holiday][84] \[Repealed\]
+
+[59][85][][85][Entitlement to alternative holiday if employee on call on public holiday][85]
+
+[60][86][][86][Payment for alternative holiday][86]
+
+[61][87][][87][Alternative holiday may be exchanged for payment][87]
+
+[Relationship between public holidays and other entitlements][88]
+
+[61A][89][][89][Sickness, injury, or bereavement on public holiday][89]
+
+[Subpart 4][90][---][90][Sick leave and bereavement leave][90]
+
+[62][91][][91][Purpose of this subpart][91]
+
+[Entitlement to sick leave and bereavement leave][92]
+
+[63][93][][93][Entitlement to sick leave and bereavement leave][93]
+
+[64][94][][94][Employee must notify employer of intention to take leave][94]
+
+[Sick leave][95]
+
+[65][96][][96][Sick leave][96]
+
+[66][97][][97][Sick leave may be carried over][97]
+
+[67][98][][98][Sick leave need not be paid out][98]
+
+[68][99][][99][Proof of sickness or injury][99]
+
+[Bereavement leave][100]
+
+[69][101][][101][Bereavement leave][101]
+
+[70][102][][102][Duration of bereavement leave][102]
+
+[Payment for sick leave and bereavement leave][103]
+
+[71][104][][104][Payment for sick leave and bereavement leave][104]
+
+[72][105][][105][When payment for sick leave or bereavement leave must be made][105]
+
+[Part 3][106]  
+[Enforcement and other matters][106]
+
+[Subpart 1][107][---][107][Enforcement][107]
+
+[73][108][][108][Employer and employee obligations under Act][108]
+
+[74][109][][109][Who can enforce Act][109]
+
+[75][110][][110][Penalty for non-compliance][110]
+
+[76][111][][111][Proceedings by Labour Inspector for penalty][111]
+
+[77][112][][112][Proceedings by Labour Inspector to recover arrears of pay][112]
+
+[78][113][][113][Powers of Labour Inspector][113]
+
+[79][114][][114][Determinations by Labour Inspector][114]
+
+[80][115][][115][Labour Inspector must consult employer and employee][115]
+
+[Holiday and leave record][116]
+
+[81][117][][117][Holiday and leave record][117]
+
+[82][118][][118][Requests for access to holiday and leave record][118]
+
+[83][119][][119][Failure to keep or provide access to holiday and leave record][119]
+
+[Subpart 2][120][---][120][Other matters][120]
+
+[84][121][][121][Power to award interest on unpaid holiday pay or leave pay][121]
+
+[85][122][][122][Presumption that employment continuous if employee dismissed and re-employed within 1 month][122]
+
+[86][123][][123][Holiday pay and leave pay treated as salary or wages][123]
+
+[87][124][][124][Regulations][124]
+
+[Transitional provisions relating to entitlements under Holidays Act 1981][125]
+
+[88][126][][126][Transitional provision relating to annual holidays][126]
+
+[89][127][][127][Transitional provision relating to public holidays][127]
+
+[90][128][][128][Transitional provision relating to special leave][128]
+
+[91][129][][129][Repeals and consequential amendments][129]
+
+[Schedule 1][130]  
+[Modifications to subpart 1 of Part 2 to increase minimum entitlement to annual holidays from 1 April 2007][130]
+
+\[Repealed\]
+
+[Schedule 2][131]  
+[Enactments repealed][131]
+
+[Schedule 3][132]  
+[Enactments amended][132]
 
 ---
 
@@ -304,7 +308,7 @@ Preliminary provisions
 
 ##### 2 Commencement
     
-*   (1) [Subpart 2][58] of Part 2 and [Schedule 1][129] come into force on 1 April 2007\.
+*   (1) [Subpart 2][58] of Part 2 and [Schedule 1][130] come into force on 1 April 2007\.
     
     (2) The rest of this Act comes into force on 1 April 2004\.
 
@@ -348,7 +352,7 @@ Preliminary provisions
         
         
     
-    *   (c) [Part 3][105] deals with the enforcement of an employee's entitlements and other matters, including---
+    *   (c) [Part 3][106] deals with the enforcement of an employee's entitlements and other matters, including---
             
         *   (i) who can enforce entitlements in addition to the employee:
         
@@ -368,13 +372,13 @@ Preliminary provisions
     
     _annual holiday_ means an annual holiday provided under [subpart 1][20] of Part 2
     
-    _authorised representative_, in relation to an employee, means a person who is authorised under [section 236][132] of the Employment Relations Act 2000 to represent the employee
+    _authorised representative_, in relation to an employee, means a person who is authorised under [section 236][133] of the Employment Relations Act 2000 to represent the employee
     
     _average daily pay_ means a rate of pay calculated in accordance with [section 9A(2)][12]
     
     _average weekly earnings_ means 1/52 of an employee's gross earnings
     
-    _bereavement leave_ means paid bereavement leave provided under [subpart 4][89] of Part 2
+    _bereavement leave_ means paid bereavement leave provided under [subpart 4][90] of Part 2
     
     _closedown period_ has the meaning given to it by [section 29][45]
     
@@ -390,7 +394,7 @@ Preliminary provisions
         
         
     
-    _employee_ has the same meaning as in [section 6][133] (except subsection (1)(b)(ii)) of the Employment Relations Act 2000
+    _employee_ has the same meaning as in [section 6][134] (except subsection (1)(b)(ii)) of the Employment Relations Act 2000
     
     _existing collective agreement_ means a collective agreement that was entered into before 1 April 2004
     
@@ -398,7 +402,7 @@ Preliminary provisions
     
     _existing individual employment agreement_ means an individual employment agreement that was entered into before 1 April 2004
     
-    _former Act_, in relation to the [Injury Prevention, Rehabilitation, and Compensation Act 2001][134], has the same meaning as in [section 6(1)][135] of that Act
+    _former Act_, in relation to the [Injury Prevention, Rehabilitation, and Compensation Act 2001][135], has the same meaning as in [section 6(1)][136] of that Act
     
     _gross earnings_ has the meaning given to it by [section 14][18]
     
@@ -412,21 +416,21 @@ Preliminary provisions
         
         
     
-    *   (b) includes any alternative holiday an employee is entitled to under [section 56][81] or [section 59][84]
+    *   (b) includes any alternative holiday an employee is entitled to under [section 56][82] or [section 59][85]
     
-    _holiday and leave record_ means the record required to be kept under [section 81][116]
+    _holiday and leave record_ means the record required to be kept under [section 81][117]
     
     _holiday pay_---
         
     *   (a) means pay for an annual holiday or a public holiday; and
     
-    *   (b) includes a payment an employee is entitled to under [section 61][86]
+    *   (b) includes a payment an employee is entitled to under [section 61][87]
     
     _in advance_,---
         
     *   (a) in relation to an annual holiday, means an annual holiday taken by an employee before the entitlement to the holiday has arisen under [section 16][23]:
     
-    *   (b) in relation to sick leave or bereavement leave, means any sick leave or bereavement leave taken by the employee before the entitlement to the leave has arisen under [section 63][92]
+    *   (b) in relation to sick leave or bereavement leave, means any sick leave or bereavement leave taken by the employee before the entitlement to the leave has arisen under [section 63][93]
     
     _leave pay_ means pay for sick leave or bereavement leave
     
@@ -448,13 +452,13 @@ Preliminary provisions
     
     _relevant daily pay_ has the meaning given to it by [section 9][11]
     
-    _sick leave_ means paid sick leave provided under [subpart 4][89] of Part 2\.
+    _sick leave_ means paid sick leave provided under [subpart 4][90] of Part 2\.
     
     (2) In this Act, unless the context otherwise requires,---
         
-    *   (a) the terms _Authority_, _court_, _department_, _employer_, _employment agreement_, _Labour Inspector_, and _union_ have the same meanings as in [section 5][136] of the Employment Relations Act 2000; and
+    *   (a) the terms _Authority_, _court_, _department_, _employer_, _employment agreement_, _Labour Inspector_, and _union_ have the same meanings as in [section 5][137] of the Employment Relations Act 2000; and
     
-    *   (b) any other term or expression that is used but not defined in this Act, but that is defined in the [Employment Relations Act 2000][137], has the meaning given to it by that Act.
+    *   (b) any other term or expression that is used but not defined in this Act, but that is defined in the [Employment Relations Act 2000][138], has the meaning given to it by that Act.
     
     (3) In this Act, a reference to---
         
@@ -462,21 +466,21 @@ Preliminary provisions
     
     *   (b) an _employer_, in relation to an employee, means the employee's employer.
     
-    Section 5(1) **average daily pay**: inserted, on 1 April 2011, by [section 4(1)][138] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 5(1) **average daily pay**: inserted, on 1 April 2011, by [section 4(1)][139] of the Holidays Amendment Act 2010 (2010 No 126).
     
-    Section 5(1) **closedown period**: inserted, on 1 April 2011, by [section 4(1)][138] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 5(1) **closedown period**: inserted, on 1 April 2011, by [section 4(1)][139] of the Holidays Amendment Act 2010 (2010 No 126).
     
-    Section 5(1) **discretionary payment**: inserted, on 1 April 2011, by [section 4(1)][138] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 5(1) **discretionary payment**: inserted, on 1 April 2011, by [section 4(1)][139] of the Holidays Amendment Act 2010 (2010 No 126).
     
-    Section 5(1) **existing collective agreement**: inserted, on 22 October 2004, by [section 3][139] of the Holidays Amendment Act 2004 (2004 No 85).
+    Section 5(1) **existing collective agreement**: inserted, on 22 October 2004, by [section 3][140] of the Holidays Amendment Act 2004 (2004 No 85).
     
-    Section 5(1) **existing individual employment agreement**: inserted, on 22 October 2004, by [section 3][139] of the Holidays Amendment Act 2004 (2004 No 85).
+    Section 5(1) **existing individual employment agreement**: inserted, on 22 October 2004, by [section 3][140] of the Holidays Amendment Act 2004 (2004 No 85).
     
-    Section 5(1) **partner**: inserted, on 26 April 2005, by [section 7][140] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 5(1) **partner**: inserted, on 26 April 2005, by [section 7][141] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 5(1) **public holiday**: substituted, on 1 April 2011, by [section 4(2)][138] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 5(1) **public holiday**: substituted, on 1 April 2011, by [section 4(2)][139] of the Holidays Amendment Act 2010 (2010 No 126).
     
-    Section 5(1) **spouse**: repealed, on 26 April 2005, by [section 7][140] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 5(1) **spouse**: repealed, on 26 April 2005, by [section 7][141] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 6 Relationship between Act and employment agreements
     
@@ -488,7 +492,7 @@ Preliminary provisions
         
     *   (a) has no effect to the extent that it does so; but
     
-    *   (b) is not an illegal contract under the [Illegal Contracts Act 1970][141].
+    *   (b) is not an illegal contract under the [Illegal Contracts Act 1970][142].
     
     
 
@@ -498,7 +502,7 @@ Preliminary provisions
         
     *   (a) applies to all employers and employees, including the Crown and its employees; but
     
-    *   (b) does not apply in respect of the Armed Forces as defined in [section 2(1)][142] of the Defence Act 1990\.
+    *   (b) does not apply in respect of the Armed Forces as defined in [section 2(1)][143] of the Defence Act 1990\.
     
     Compare: 1981 No 15 s 7
 
@@ -564,9 +568,9 @@ Preliminary provisions
     
     Compare: 1981 No 15 s 4
     
-    Section 8(1)(c)(iv): amended (with effect on 17 May 2007), on 19 December 2007, by [section 119][143] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 8(1)(c)(iv): amended (with effect on 17 May 2007), on 19 December 2007, by [section 119][144] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 8(1)(c)(v): added (with effect on 17 May 2007), on 19 December 2007, by [section 119][143] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 8(1)(c)(v): added (with effect on 17 May 2007), on 19 December 2007, by [section 119][144] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
 
 ##### 9 Meaning of relevant daily pay
     
@@ -588,9 +592,9 @@ Preliminary provisions
     
     (2) However, an employment agreement may specify a special rate of relevant daily pay for the purpose of calculating payment for a public holiday, an alternative holiday, sick leave, or bereavement leave if the rate is equal to, or greater than, the rate that would otherwise be calculated under subsection (1).
     
-    (3) To avoid doubt, if subsection (1)(a) is to be applied in the case of a public holiday, the amount of pay does not include any amount that would be added by virtue of [section 50(1)(a)][74] (which relates to the requirement to pay time and a half).
+    (3) To avoid doubt, if subsection (1)(a) is to be applied in the case of a public holiday, the amount of pay does not include any amount that would be added by virtue of [section 50(1)(a)][75] (which relates to the requirement to pay time and a half).
     
-    Section 9: substituted, on 1 April 2011, by [section 5][144] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 9: substituted, on 1 April 2011, by [section 5][145] of the Holidays Amendment Act 2010 (2010 No 126).
 
 ##### 9A Average daily pay
     
@@ -616,9 +620,9 @@ Preliminary provisions
     > 
     > is the number of whole or part days during which the employee earned those gross earnings, including any day on which the employee was on a paid holiday or paid leave; but excluding any other day on which the employee did not actually work.
     
-    (3) To avoid doubt, if subsection (2) is to be applied in the case of a public holiday, the amount of pay does not include any amount that would be added by virtue of [section 50(1)(a)][74] (which relates to the requirement to pay time and a half).
+    (3) To avoid doubt, if subsection (2) is to be applied in the case of a public holiday, the amount of pay does not include any amount that would be added by virtue of [section 50(1)(a)][75] (which relates to the requirement to pay time and a half).
     
-    Section 9A: inserted, on 1 April 2011, by [section 5][144] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 9A: inserted, on 1 April 2011, by [section 5][145] of the Holidays Amendment Act 2010 (2010 No 126).
 
 ##### 10 Cash value of board or lodgings included in ordinary weekly pay and relevant daily pay
     
@@ -650,7 +654,7 @@ Preliminary provisions
     
     (3) In making a determination, a Labour Inspector must apply the provisions of [section 8][10], [9][11], or [9A][12] (as the case may be) to the circumstances of the employee as determined by the Labour Inspector.
     
-    Section 11: substituted, on 1 April 2011, by [section 6][145] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 11: substituted, on 1 April 2011, by [section 6][146] of the Holidays Amendment Act 2010 (2010 No 126).
 
 #### Determination of what would otherwise be working day
 
@@ -682,9 +686,9 @@ Preliminary provisions
     
     (4) For the purposes of public holidays, if an employee would otherwise work any amount of time on a public holiday, that day must be treated as a day that would otherwise be a working day for the employee.
     
-    Section 12(3)(d): added, on 1 April 2011, by [section 7(1)][146] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 12(3)(d): added, on 1 April 2011, by [section 7(1)][147] of the Holidays Amendment Act 2010 (2010 No 126).
     
-    Section 12(3A): inserted, on 27 November 2010, by [section 7(2)][146] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 12(3A): inserted, on 27 November 2010, by [section 7(2)][147] of the Holidays Amendment Act 2010 (2010 No 126).
 
 ##### 13 Labour Inspector may determine what would otherwise be working day
     
@@ -712,7 +716,7 @@ Preliminary provisions
         
         *   (vi) the cash value of any board or lodgings provided by the employer as agreed or determined under [section 10][13]:
         
-        *   (vii) first week compensation payable by the employer under [section 97][147] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 or former Act; but
+        *   (vii) first week compensation payable by the employer under [section 97][148] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 or former Act; but
         
         
     
@@ -720,9 +724,9 @@ Preliminary provisions
             
         *   (i) any discretionary payments:
         
-        *   (ii) any weekly compensation payable under the [Injury Prevention, Rehabilitation, and Compensation Act 2001][134] or former Act:
+        *   (ii) any weekly compensation payable under the [Injury Prevention, Rehabilitation, and Compensation Act 2001][135] or former Act:
         
-        *   (iii) any payment for absence from work while the employee is on volunteers leave within the meaning of the [Volunteers Employment Protection Act 1973][148]; and
+        *   (iii) any payment for absence from work while the employee is on volunteers leave within the meaning of the [Volunteers Employment Protection Act 1973][149]; and
         
         
     
@@ -740,13 +744,13 @@ Preliminary provisions
     
     Compare: 1981 No 15 s 4
     
-    Section 14(a)(ii): amended, on 1 April 2011, by [section 8(1)][149] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 14(a)(ii): amended, on 1 April 2011, by [section 8(1)][150] of the Holidays Amendment Act 2010 (2010 No 126).
     
-    Section 14(b)(iii): amended, on 1 April 2004, by [section 15][150] of the Volunteers Employment Protection Amendment Act 2004 (2004 No 12).
+    Section 14(b)(iii): amended, on 1 April 2004, by [section 15][151] of the Volunteers Employment Protection Amendment Act 2004 (2004 No 12).
     
-    Section 14(c)(iii): added (with effect on 17 May 2007), on 19 December 2007, by [section 121][151] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 14(c)(iii): added (with effect on 17 May 2007), on 19 December 2007, by [section 121][152] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 14(c)(iv): added, on 1 April 2011, by [section 8(2)][149] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 14(c)(iv): added, on 1 April 2011, by [section 8(2)][150] of the Holidays Amendment Act 2010 (2010 No 126).
 
 ## Part 2  
 Holiday and leave entitlements
@@ -765,7 +769,7 @@ Holiday and leave entitlements
     
     *   (d) enable employers to manage their businesses, taking into account the annual holiday entitlements of their employees.
     
-    Section 15: substituted, on 1 April 2011, by [section 9][152] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 15: substituted, on 1 April 2011, by [section 9][153] of the Holidays Amendment Act 2010 (2010 No 126).
 
 #### Entitlement to annual holidays
 
@@ -779,11 +783,11 @@ Holiday and leave entitlements
             
         *   (i) on paid holidays or leave under this Act; or
         
-        *   (ii) on parental leave under the [Parental Leave and Employment Protection Act 1987][153]; or
+        *   (ii) on parental leave under the [Parental Leave and Employment Protection Act 1987][154]; or
         
-        *   (iii) on volunteers leave within the meaning of the [Volunteers Employment Protection Act 1973][148]; or
+        *   (iii) on volunteers leave within the meaning of the [Volunteers Employment Protection Act 1973][149]; or
         
-        *   (iv) receiving weekly compensation under the [Injury Prevention, Rehabilitation, and Compensation Act 2001][134] or former Act as well as, or instead of, payment from the employer; or
+        *   (iv) receiving weekly compensation under the [Injury Prevention, Rehabilitation, and Compensation Act 2001][135] or former Act as well as, or instead of, payment from the employer; or
         
         *   (v) on unpaid sick leave or unpaid bereavement leave; or
         
@@ -803,11 +807,11 @@ Holiday and leave entitlements
     
     Compare: 1981 No 15 s 11
     
-    Section 16(1): amended, on 1 April 2007, by [section 42][154].
+    Section 16(1): amended, on 1 April 2007, by [section 42][155].
     
-    Section 16(2)(a)(iii): substituted, on 1 April 2004, by [section 15][150] of the Volunteers Employment Protection Amendment Act 2004 (2004 No 12).
+    Section 16(2)(a)(iii): substituted, on 1 April 2004, by [section 15][151] of the Volunteers Employment Protection Amendment Act 2004 (2004 No 12).
     
-    Section 16(4): substituted, on 1 April 2011, by [section 17][155] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 16(4): substituted, on 1 April 2011, by [section 17][156] of the Holidays Amendment Act 2010 (2010 No 126).
 
 ##### 17 How employee's entitlement to annual holidays may be met
     
@@ -817,9 +821,9 @@ Holiday and leave entitlements
     
     (3) In making a determination, the Labour Inspector may take into account any matters that the Labour Inspector thinks fit, including the matters specified in [section 12(3)][16].
     
-    Section 17(1): amended, on 1 April 2007, by [section 42][154].
+    Section 17(1): amended, on 1 April 2007, by [section 42][155].
     
-    Section 17(2): amended, on 1 April 2007, by [section 42][154].
+    Section 17(2): amended, on 1 April 2007, by [section 42][155].
 
 ##### 18 Taking of annual holidays
     
@@ -905,7 +909,7 @@ Holiday and leave entitlements
     
     *   (b) paid in accordance with [section 28][36].
     
-    Section 23(2): amended, on 1 April 2007, by [section 42][154].
+    Section 23(2): amended, on 1 April 2007, by [section 42][155].
 
 ##### 24 Calculation of annual holiday pay if employment ends and entitlement to holidays has arisen
     
@@ -939,7 +943,7 @@ Holiday and leave entitlements
     
     *   (b) paid in accordance with [section 28][36].
     
-    Section 25(2): amended, on 1 April 2007, by [section 42][154].
+    Section 25(2): amended, on 1 April 2007, by [section 42][155].
 
 ##### 26 Payments may be cumulative
     
@@ -967,7 +971,7 @@ Holiday and leave entitlements
         
     *   (a) the employee---
             
-        *   (i) is employed in accordance with [section 66][156] of the Employment Relations Act 2000 on a fixed-term agreement to work for less than 12 months; or
+        *   (i) is employed in accordance with [section 66][157] of the Employment Relations Act 2000 on a fixed-term agreement to work for less than 12 months; or
         
         *   (ii) works for the employer on a basis that is so intermittent or irregular that it is impracticable for the employer to provide the employee with 4 weeks' annual holidays under [section 16][23]; and
         
@@ -989,13 +993,13 @@ Holiday and leave entitlements
     
     (4) If an employer has incorrectly paid annual holiday pay with an employee's pay in circumstances where subsection (1) does not apply and the employee's employment has continued for 12 months or more, then, despite those payments, the employee becomes entitled to annual holidays in accordance with [section 16][23] and paid in accordance with this subpart.
     
-    Section 28(1)(a)(ii): amended, on 1 April 2007, by [section 42][154].
+    Section 28(1)(a)(ii): amended, on 1 April 2007, by [section 42][155].
     
-    Section 28(1)(d): amended, on 1 April 2007, by [section 42][154].
+    Section 28(1)(d): amended, on 1 April 2007, by [section 42][155].
 
 #### Portion of annual holidays may be paid out
     
-*   Heading: inserted, on 1 April 2011, by [section 10][157] of the Holidays Amendment Act 2010 (2010 No 126).
+*   Heading: inserted, on 1 April 2011, by [section 10][158] of the Holidays Amendment Act 2010 (2010 No 126).
 
 ##### 28A Employee may request portion of annual holidays be paid out
     
@@ -1027,7 +1031,7 @@ Holiday and leave entitlements
     
     *   (b) includes a period of 12 months continuous employment described in [section 16(2)][23].
     
-    Section 28A: inserted, on 1 April 2011, by [section 10][157] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 28A: inserted, on 1 April 2011, by [section 10][158] of the Holidays Amendment Act 2010 (2010 No 126).
 
 ##### 28B Payment for annual holidays paid out
     
@@ -1039,7 +1043,7 @@ Holiday and leave entitlements
     
     (2) If an employer has incorrectly paid out a portion of the employee's annual holidays where the employee did not make a request for the payment, the employee's entitlement to take the portion of annual holidays concerned remains in force as if the payment had not been made.
     
-    Section 28B: inserted, on 1 April 2011, by [section 10][157] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 28B: inserted, on 1 April 2011, by [section 10][158] of the Holidays Amendment Act 2010 (2010 No 126).
 
 ##### 28C Requirement to request payout prohibited
     
@@ -1047,7 +1051,7 @@ Holiday and leave entitlements
     
     (2) Despite subsection (1), an employment agreement may set out the process for making a request under [section 28A][38].
     
-    Section 28C: inserted, on 1 April 2011, by [section 10][157] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 28C: inserted, on 1 April 2011, by [section 10][158] of the Holidays Amendment Act 2010 (2010 No 126).
 
 ##### 28D Requirement to make payout prohibited
     
@@ -1057,7 +1061,7 @@ Holiday and leave entitlements
     
     *   (b) raised in negotiations between the employer and employee about the employee's terms and conditions relating to salary or wages.
     
-    Section 28D: inserted, on 1 April 2011, by [section 10][157] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 28D: inserted, on 1 April 2011, by [section 10][158] of the Holidays Amendment Act 2010 (2010 No 126).
 
 ##### 28E Employer may have policy preventing payout
     
@@ -1071,7 +1075,7 @@ Holiday and leave entitlements
     
     (3) If an employer has a policy under subsection (1), [section 28A][38] does not apply in relation to any part of the employer's business to which the policy applies.
     
-    Section 28E: inserted, on 1 April 2011, by [section 10][157] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 28E: inserted, on 1 April 2011, by [section 10][158] of the Holidays Amendment Act 2010 (2010 No 126).
 
 ##### 28F Labour Inspector may determine payout
     
@@ -1087,7 +1091,7 @@ Holiday and leave entitlements
     
     *   (b) the amount payable for the annual holidays paid out or to be paid out.
     
-    Section 28F: inserted, on 1 April 2011, by [section 10][157] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 28F: inserted, on 1 April 2011, by [section 10][158] of the Holidays Amendment Act 2010 (2010 No 126).
 
 #### Closedown periods
 
@@ -1099,9 +1103,9 @@ Holiday and leave entitlements
     
     *   (b) requires the employer's employees to take all or some of their annual holidays.
     
-    Section 29: amended, on 27 November 2010, by [section 17][155] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 29: amended, on 27 November 2010, by [section 17][156] of the Holidays Amendment Act 2010 (2010 No 126).
     
-    Section 29(b): amended, on 27 November 2010, by [section 17][155] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 29(b): amended, on 27 November 2010, by [section 17][156] of the Holidays Amendment Act 2010 (2010 No 126).
 
 ##### 30 Frequency of closedown periods
     
@@ -1161,7 +1165,7 @@ Holiday and leave entitlements
     
     Compare: 1981 No 15 s 18(1)--(4), (7)
     
-    Section 34(2): amended, on 1 April 2007, by [section 42][154].
+    Section 34(2): amended, on 1 April 2007, by [section 42][155].
 
 ##### 35 Effect of closedown period on anniversary date of employee not entitled to annual holidays
     
@@ -1171,7 +1175,7 @@ Holiday and leave entitlements
     
     Compare: 1981 No 15 s 18(5)
     
-    Section 35(1): amended, on 1 April 2011, by [section 17][155] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 35(1): amended, on 1 April 2011, by [section 17][156] of the Holidays Amendment Act 2010 (2010 No 126).
 
 #### Relationship between annual holidays and other entitlements
 
@@ -1187,11 +1191,11 @@ Holiday and leave entitlements
     
     Compare: 1981 No 15 s 14
     
-    Section 36(1)(b): amended, on 26 April 2005, by [section 7][140] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 36(1)(b): amended, on 26 April 2005, by [section 7][141] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 37 Employer must allow employee taking annual holidays to take bereavement leave
     
-*   (1) This section applies to an employee who is taking annual holidays under this subpart and who then suffers a bereavement as described in [section 69(2)][100].
+*   (1) This section applies to an employee who is taking annual holidays under this subpart and who then suffers a bereavement as described in [section 69(2)][101].
     
     (2) The employer must allow the employee to take any period related to a bereavement that he or she would otherwise take as an annual holiday as bereavement leave.
 
@@ -1207,7 +1211,7 @@ Holiday and leave entitlements
         
         *   (ii) has a spouse or partner or dependant who becomes sick or injured; or
         
-        *   (iii) suffers a bereavement as described in [section 69(2)][100].
+        *   (iii) suffers a bereavement as described in [section 69(2)][101].
         
         
     
@@ -1217,13 +1221,13 @@ Holiday and leave entitlements
     
     *   (b) any period related to the bereavement that the employee would otherwise take as an annual holiday as bereavement leave.
     
-    Section 38(1)(b)(ii): amended, on 26 April 2005, by [section 7][140] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 38(1)(b)(ii): amended, on 26 April 2005, by [section 7][141] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 39 Employer may allow employee to take annual holidays if sick leave or bereavement leave exhausted
     
 *   (1) This section applies if---
         
-    *   (a) an employee has exhausted his or her entitlement to sick leave under [subpart 4][89], but then---
+    *   (a) an employee has exhausted his or her entitlement to sick leave under [subpart 4][90], but then---
             
         *   (i) becomes or remains sick or injured; or
         
@@ -1231,7 +1235,7 @@ Holiday and leave entitlements
         
         
     
-    *   (b) an employee requires more leave for a bereavement than he or she is entitled to under [subpart 4][89].
+    *   (b) an employee requires more leave for a bereavement than he or she is entitled to under [subpart 4][90].
     
     (2) The employer---
         
@@ -1239,7 +1243,7 @@ Holiday and leave entitlements
     
     *   (b) may agree, if requested by the employee, to the leave being taken as annual holidays to which the employee is entitled.
     
-    Section 39(1)(a)(ii): amended, on 26 April 2005, by [section 7][140] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 39(1)(a)(ii): amended, on 26 April 2005, by [section 7][141] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 40 Relationship between annual holidays and public holidays
     
@@ -1262,20 +1266,22 @@ Holiday and leave entitlements
     
 
 ### Subpart 2---Entitlement to 4 weeks' annual holidays from 1 April 2007
+
+\[Repealed\]
     
-*   Subpart 2: repealed, on 1 April 2011, by [section 17][155] of the Holidays Amendment Act 2010 (2010 No 126).
+*   Subpart 2: repealed, on 1 April 2011, by [section 17][156] of the Holidays Amendment Act 2010 (2010 No 126).
 
 ##### 41 Purpose of this subpart
     
 *   \[Repealed\]
     
-    Section 41: repealed, on 1 April 2011, by [section 17][155] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 41: repealed, on 1 April 2011, by [section 17][156] of the Holidays Amendment Act 2010 (2010 No 126).
 
 ##### 42 Increase in minimum annual holiday entitlement
     
 *   \[Repealed\]
     
-    Section 42: repealed, on 1 April 2011, by [section 17][155] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 42: repealed, on 1 April 2011, by [section 17][156] of the Holidays Amendment Act 2010 (2010 No 126).
 
 ### Subpart 3---Public holidays
 
@@ -1289,9 +1295,9 @@ Holiday and leave entitlements
     
     *   (c) to specify the entitlements of employees in relation to public holidays.
     
-    Section 43(b): substituted, on 1 April 2011, by [section 11][158] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 43(b): substituted, on 1 April 2011, by [section 11][159] of the Holidays Amendment Act 2010 (2010 No 126).
     
-    Section 43(c): added, on 30 September 2008, by [section 6][159] of the Holidays (Transfer of Public Holidays) Amendment Act 2008 (2008 No 103).
+    Section 43(c): added, on 30 September 2008, by [section 6][160] of the Holidays (Transfer of Public Holidays) Amendment Act 2008 (2008 No 103).
 
 ##### 44 Days that are public holidays
     
@@ -1327,9 +1333,9 @@ Holiday and leave entitlements
     
     Compare: 1981 No 15 s 7A(2)
     
-    Section 44(2): repealed, on 30 September 2008, by [section 7][160] of the Holidays (Transfer of Public Holidays) Amendment Act 2008 (2008 No 103).
+    Section 44(2): repealed, on 30 September 2008, by [section 7][161] of the Holidays (Transfer of Public Holidays) Amendment Act 2008 (2008 No 103).
     
-    Section 44(3): repealed, on 30 September 2008, by [section 7][160] of the Holidays (Transfer of Public Holidays) Amendment Act 2008 (2008 No 103).
+    Section 44(3): repealed, on 30 September 2008, by [section 7][161] of the Holidays (Transfer of Public Holidays) Amendment Act 2008 (2008 No 103).
 
 ##### 44A Transferring part of public holiday
     
@@ -1363,9 +1369,9 @@ Holiday and leave entitlements
         
         
     
-    (3) The criterion is that the purpose of the transfer is not to avoid the employee's entitlements under [sections 50][74] and [56][81] for working on a public holiday, although the transfer may have that effect.
+    (3) The criterion is that the purpose of the transfer is not to avoid the employee's entitlements under [sections 50][75] and [56][82] for working on a public holiday, although the transfer may have that effect.
     
-    (4) Where an agreement to transfer part of a public holiday applies, the employee's entitlements under [sections 50][74] and [56][81] apply only if the employee works during the period of 24 hours or 2 separate periods of 24 hours (as the case may be) to which that part of the public holiday has been transferred.
+    (4) Where an agreement to transfer part of a public holiday applies, the employee's entitlements under [sections 50][75] and [56][82] apply only if the employee works during the period of 24 hours or 2 separate periods of 24 hours (as the case may be) to which that part of the public holiday has been transferred.
     
     (5) To avoid doubt, an agreement under this section must not reduce the total number of paid public holidays that the employee is otherwise entitled to in any year.
     
@@ -1375,7 +1381,7 @@ Holiday and leave entitlements
     
     The employer and employee can agree to treat 10 pm to midnight on Anzac Day as not part of a public holiday in exchange for treating a period of 24 hours that finishes on Anzac Day as a public holiday. Just when the 24-hour period starts before or finishes after a work period is a matter for the parties to agree on. For instance, they could agree that it runs from midday on 24 April to midday on Anzac Day.
     
-    Section 44A: substituted, on 1 April 2011, by [section 12][161] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 44A: substituted, on 1 April 2011, by [section 12][162] of the Holidays Amendment Act 2010 (2010 No 126).
 
 ##### 44B Transferring whole of public holiday
     
@@ -1407,7 +1413,7 @@ Holiday and leave entitlements
     
     *   (c) the purpose of the transfer is not to avoid the employee's entitlements under sections 50 and 56 for working on a public holiday, although the transfer may have that effect.
     
-    (3) Where an agreement to transfer a public holiday applies, the employee's entitlements under [sections 50][74] and [56][81] apply only if the employee works on the identified or identifiable calendar day or period of 24 hours to which the public holiday has been transferred.
+    (3) Where an agreement to transfer a public holiday applies, the employee's entitlements under [sections 50][75] and [56][82] apply only if the employee works on the identified or identifiable calendar day or period of 24 hours to which the public holiday has been transferred.
     
     (4) To avoid doubt, an agreement under this section--- 
         
@@ -1415,7 +1421,7 @@ Holiday and leave entitlements
     
     *   (b) must not reduce the total number of paid public holidays that the employee is otherwise entitled to in any year.
     
-    Section 44B: inserted, on 1 April 2011, by [section 12][161] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 44B: inserted, on 1 April 2011, by [section 12][162] of the Holidays Amendment Act 2010 (2010 No 126).
 
 ##### 44C Employer may have policy preventing transfer
     
@@ -1429,7 +1435,7 @@ Holiday and leave entitlements
     
     (3) If an employer adopts a policy under subsection (1), [sections 44A][64] and [44B][65] do not apply in relation to any parts of the employer's business to which the policy applies.
     
-    Section 44C: inserted, on 1 April 2011, by [section 12][161] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 44C: inserted, on 1 April 2011, by [section 12][162] of the Holidays Amendment Act 2010 (2010 No 126).
 
 ##### 45 Transfer of public holidays over Christmas and New Year
     
@@ -1444,6 +1450,18 @@ Holiday and leave entitlements
     *   (d) falls on a Sunday and the day would not otherwise be a working day for the employee, the public holiday must be treated as falling on the following Tuesday.
     
     (2) To avoid doubt, this section does not entitle an employee to more than 4 public holidays for the days listed in [section 44(1)(a) to (d)][63].
+
+##### 45A Transfer of Waitangi Day and ANZAC Day public holidays
+    
+*   (1) For the purposes of this subpart, if Waitangi Day or ANZAC Day---
+        
+    *   (a) falls on a Saturday or a Sunday, and the day would otherwise be a working day for the employee, the public holiday must be treated as falling on that day:
+    
+    *   (b) falls on a Saturday or a Sunday, and the day would not otherwise be a working day for the employee, the public holiday must be treated as falling on the following Monday.
+    
+    (2) To avoid doubt, this section does not entitle an employee to more than 1 public holiday for Waitangi Day or more than 1 public holiday for ANZAC Day.
+    
+    Section 45A: inserted, on 1 January 2014, by [section 5][163] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
 
 #### Entitlement to public holidays
 
@@ -1467,19 +1485,19 @@ Holiday and leave entitlements
 
 ##### 48 Compliance with section 46
     
-*   (1) If a public holiday falls on a day that would not otherwise be a working day for an employee, [section 46][69] is complied with if---
+*   (1) If a public holiday falls on a day that would not otherwise be a working day for an employee, [section 46][70] is complied with if---
         
     *   (a) the employee does not work on the day; or
     
-    *   (b) the employee works on any part of the day and the employer pays the employee in accordance with [section 50][74].
+    *   (b) the employee works on any part of the day and the employer pays the employee in accordance with [section 50][75].
     
-    (2) If a public holiday falls on a day that would otherwise be a working day for an employee, [section 46][69] is complied with if---
+    (2) If a public holiday falls on a day that would otherwise be a working day for an employee, [section 46][70] is complied with if---
         
     *   (a) the employee---
             
         *   (i) does not work on that day; and
         
-        *   (ii) the employer pays the employee in accordance with [section 49][73]; or
+        *   (ii) the employer pays the employee in accordance with [section 49][74]; or
         
         
     
@@ -1487,9 +1505,9 @@ Holiday and leave entitlements
             
         *   (i) works (in accordance with his or her employment agreement) on any part of that day; and
         
-        *   (ii) the employer pays the employee in accordance with [section 50][74]; and
+        *   (ii) the employer pays the employee in accordance with [section 50][75]; and
         
-        *   (iii) the employer provides the employee with an alternative holiday under [section 56][81].
+        *   (iii) the employer provides the employee with an alternative holiday under [section 56][82].
         
         
     
@@ -1501,7 +1519,7 @@ Holiday and leave entitlements
     
 *   If an employee does not work on a public holiday and the day would otherwise be a working day for the employee, the employer must pay the employee not less than the employee's relevant daily pay or average daily pay for that day.
     
-    Section 49: amended, on 1 April 2011, by [section 17][155] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 49: amended, on 1 April 2011, by [section 17][156] of the Holidays Amendment Act 2010 (2010 No 126).
 
 ##### 50 Employer must pay employee at least time and a half for working on public holiday
     
@@ -1517,11 +1535,11 @@ Holiday and leave entitlements
     
     *   (b) does not include, for example, any additional payment for a sixth or seventh day of work.
     
-    (3) This section is subject to [section 51][75].
+    (3) This section is subject to [section 51][76].
     
-    Section 50: substituted, on 22 October 2004, by [section 5][162] of the Holidays Amendment Act 2004 (2004 No 85).
+    Section 50: substituted, on 22 October 2004, by [section 5][164] of the Holidays Amendment Act 2004 (2004 No 85).
     
-    Section 50(1)(a): amended, on 1 April 2011, by [section 17][155] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 50(1)(a): amended, on 1 April 2011, by [section 17][156] of the Holidays Amendment Act 2010 (2010 No 126).
 
 ##### 51 Transitional provision for employers who already pay for work on public holidays in employee's regular pay
     
@@ -1543,35 +1561,35 @@ Holiday and leave entitlements
         
     *   (a) an amount for working on public holidays has been previously genuinely negotiated into the employee's regular pay; and
     
-    *   (b) the amount can be demonstrated to meet the objectives of [section 50][74]; and
+    *   (b) the amount can be demonstrated to meet the objectives of [section 50][75]; and
     
     *   (c) the employer can provide evidence to support the requirements in paragraphs (a) and (b).
     
-    Section 51(1): substituted, on 22 October 2004, by [section 6][163] of the Holidays Amendment Act 2004 (2004 No 85).
+    Section 51(1): substituted, on 22 October 2004, by [section 6][165] of the Holidays Amendment Act 2004 (2004 No 85).
 
 ##### 52 New employment agreements must include provision that complies with section 50
     
 *   (1) This section applies to an employment agreement that is entered into after 1 April 2004\.
     
-    (2) The employment agreement must include a provision that confirms the right of the employee to be paid in accordance with [section 50][74] for working on a public holiday.
+    (2) The employment agreement must include a provision that confirms the right of the employee to be paid in accordance with [section 50][75] for working on a public holiday.
     
-    (3) To avoid doubt, the employment agreement may not state that the relevant daily pay or average daily pay of the employee already includes an amount that is calculated to comply with [section 50][74].
+    (3) To avoid doubt, the employment agreement may not state that the relevant daily pay or average daily pay of the employee already includes an amount that is calculated to comply with [section 50][75].
     
-    Section 52 heading: amended, on 22 October 2004, by [section 7(1)][164] of the Holidays Amendment Act 2004 (2004 No 85).
+    Section 52 heading: amended, on 22 October 2004, by [section 7(1)][166] of the Holidays Amendment Act 2004 (2004 No 85).
     
-    Section 52(2): amended, on 22 October 2004, by [section 7(2)][164] of the Holidays Amendment Act 2004 (2004 No 85).
+    Section 52(2): amended, on 22 October 2004, by [section 7(2)][166] of the Holidays Amendment Act 2004 (2004 No 85).
     
-    Section 52(3): amended, on 1 April 2011, by [section 17][155] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 52(3): amended, on 1 April 2011, by [section 17][156] of the Holidays Amendment Act 2010 (2010 No 126).
 
 ##### 53 Existing employment agreements must include provision that complies with section 50
     
 *   (1) This section applies to an existing employment agreement.
     
-    (2) The employment agreement must, from the date referred to in subsection (3), be amended to include a provision that confirms the right of the employee to be paid in accordance with [section 50][74] for working on a public holiday.
+    (2) The employment agreement must, from the date referred to in subsection (3), be amended to include a provision that confirms the right of the employee to be paid in accordance with [section 50][75] for working on a public holiday.
     
     (3) The date is,---
         
-    *   (a) for an existing collective agreement to which [section 51][75] applies, the later of---
+    *   (a) for an existing collective agreement to which [section 51][76] applies, the later of---
             
         *   (i) 1 April 2007; or
         
@@ -1579,7 +1597,7 @@ Holiday and leave entitlements
         
         
     
-    *   (b) for an existing individual employment agreement to which [section 51][75] applies, 1 April 2007:
+    *   (b) for an existing individual employment agreement to which [section 51][76] applies, 1 April 2007:
     
     *   (c) for all other existing employment agreements, the earlier of---
             
@@ -1589,15 +1607,15 @@ Holiday and leave entitlements
         
         
     
-    (4) To avoid doubt, an existing employment agreement may not state that the relevant daily pay or average daily pay of the employee already includes an amount that is calculated to comply with [section 50][74].
+    (4) To avoid doubt, an existing employment agreement may not state that the relevant daily pay or average daily pay of the employee already includes an amount that is calculated to comply with [section 50][75].
     
-    Section 53 heading: amended, on 22 October 2004, by [section 8(1)][165] of the Holidays Amendment Act 2004 (2004 No 85).
+    Section 53 heading: amended, on 22 October 2004, by [section 8(1)][167] of the Holidays Amendment Act 2004 (2004 No 85).
     
-    Section 53(2): amended, on 22 October 2004, by [section 8(2)][165] of the Holidays Amendment Act 2004 (2004 No 85).
+    Section 53(2): amended, on 22 October 2004, by [section 8(2)][167] of the Holidays Amendment Act 2004 (2004 No 85).
     
-    Section 53(3): substituted, on 22 October 2004, by [section 8(3)][165] of the Holidays Amendment Act 2004 (2004 No 85).
+    Section 53(3): substituted, on 22 October 2004, by [section 8(3)][167] of the Holidays Amendment Act 2004 (2004 No 85).
     
-    Section 53(4): amended, on 1 April 2011, by [section 17][155] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 53(4): amended, on 1 April 2011, by [section 17][156] of the Holidays Amendment Act 2010 (2010 No 126).
 
 ##### 54 Questions about whether sections 50 to 53 complied with
     
@@ -1607,7 +1625,7 @@ Holiday and leave entitlements
     
     (3) In making the determination the Labour Inspector must apply the provisions of this subpart to the circumstances as determined by the Labour Inspector.
     
-    (4) To avoid doubt, a dispute about whether an employer is complying, or has complied with, [section 50][74], [section 51][75], [section 52][76], or [section 53][77] is an employment relationship problem for the purposes of the [Employment Relations Act 2000][137].
+    (4) To avoid doubt, a dispute about whether an employer is complying, or has complied with, [section 50][75], [section 51][76], [section 52][77], or [section 53][78] is an employment relationship problem for the purposes of the [Employment Relations Act 2000][138].
 
 ##### 55 When payment for public holiday must be made
     
@@ -1627,19 +1645,19 @@ Holiday and leave entitlements
         
     *   (a) provide the employee with an alternative holiday; and
     
-    *   (b) pay the employee for working on the public holiday in accordance with [section 50][74].
+    *   (b) pay the employee for working on the public holiday in accordance with [section 50][75].
     
     (3) The entitlement to an alternative holiday remains in force until---
         
     *   (a) the employee has taken the holiday; or
     
-    *   (b) the employee has been paid for the holiday in accordance with [section 60(2)][85] or [section 61][86].
+    *   (b) the employee has been paid for the holiday in accordance with [section 60(2)][86] or [section 61][87].
     
     (4) An employee is not entitled to an alternative holiday under this section if the employee works for the employer only on public holidays.
 
 ##### 57 Requirements of alternative holiday
     
-*   (1) An alternative holiday provided under [section 56][81] must---
+*   (1) An alternative holiday provided under [section 56][82] must---
         
     *   (a) be taken by the employee on a day that is agreed between the employer and employee; and
     
@@ -1653,19 +1671,19 @@ Holiday and leave entitlements
     
     (3) If subsection (2) applies, the employer must give the employee at least 14 days' notice of the requirement to take the alternative holiday.
     
-    Section 57(1)(c): amended, on 1 April 2011, by [section 13(1)][166] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 57(1)(c): amended, on 1 April 2011, by [section 13(1)][168] of the Holidays Amendment Act 2010 (2010 No 126).
     
-    Section 57(1)(d): added, on 1 April 2011, by [section 13(1)][166] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 57(1)(d): added, on 1 April 2011, by [section 13(1)][168] of the Holidays Amendment Act 2010 (2010 No 126).
     
-    Section 57(2): substituted, on 1 April 2011, by [section 13(2)][166] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 57(2): substituted, on 1 April 2011, by [section 13(2)][168] of the Holidays Amendment Act 2010 (2010 No 126).
     
-    Section 57(3): substituted, on 1 April 2011, by [section 13(2)][166] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 57(3): substituted, on 1 April 2011, by [section 13(2)][168] of the Holidays Amendment Act 2010 (2010 No 126).
 
 ##### 58 When employee may be required to take alternative holiday
     
 *   \[Repealed\]
     
-    Section 58: repealed, on 1 April 2011, by [section 17][155] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 58: repealed, on 1 April 2011, by [section 17][156] of the Holidays Amendment Act 2010 (2010 No 126).
 
 ##### 59 Entitlement to alternative holiday if employee on call on public holiday
     
@@ -1675,11 +1693,11 @@ Holiday and leave entitlements
     
     *   (b) does not apply to an employee who is on call if the employee works, or is on call, for the employer only on public holidays.
     
-    (2) If an employee is on call on a public holiday and is called by the employer, or a representative of the employer, to work on that day, the employee is entitled to an alternative holiday in accordance with [section 56][81].
+    (2) If an employee is on call on a public holiday and is called by the employer, or a representative of the employer, to work on that day, the employee is entitled to an alternative holiday in accordance with [section 56][82].
     
     (3) If an employee is on call and is not called in to work, the employee is also entitled to an alternative holiday if the nature of the restriction imposed by the on call condition on the employee's freedom of action is such that, for all practical purposes, the employee has not had a whole holiday.
     
-    (4) This section applies in addition to [section 50][74] (which requires payment of time and a half for working on a public holiday).
+    (4) This section applies in addition to [section 50][75] (which requires payment of time and a half for working on a public holiday).
 
 ##### 60 Payment for alternative holiday
     
@@ -1697,9 +1715,9 @@ Holiday and leave entitlements
         
         
     
-    Section 60(1): amended, on 1 April 2011, by [section 17][155] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 60(1): amended, on 1 April 2011, by [section 17][156] of the Holidays Amendment Act 2010 (2010 No 126).
     
-    Section 60(2)(b)(i): amended, on 1 April 2011, by [section 17][155] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 60(2)(b)(i): amended, on 1 April 2011, by [section 17][156] of the Holidays Amendment Act 2010 (2010 No 126).
 
 ##### 61 Alternative holiday may be exchanged for payment
     
@@ -1709,17 +1727,17 @@ Holiday and leave entitlements
         
     *   (a) may be made only if 12 months have passed since the employee's entitlement to the alternative holiday arose; and
     
-    *   (b) may be made whether or not the employee has been required to take the alternative holiday under [section 57(2)][82].
+    *   (b) may be made whether or not the employee has been required to take the alternative holiday under [section 57(2)][83].
     
     (3) If the employer agrees to the employee's request, the employer must pay the employee the amount agreed between the employer and the employee in exchange for the alternative holiday.
     
     (4) The employer must make the payment for the alternative holiday as soon as practicable after the employer has agreed under subsection (3).
     
-    Section 61(2)(b): amended, on 1 April 2011, by [section 17][155] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 61(2)(b): amended, on 1 April 2011, by [section 17][156] of the Holidays Amendment Act 2010 (2010 No 126).
 
 #### Relationship between public holidays and other entitlements
     
-*   Heading: inserted, on 22 October 2004, by [section 9][167] of the Holidays Amendment Act 2004 (2004 No 85).
+*   Heading: inserted, on 22 October 2004, by [section 9][169] of the Holidays Amendment Act 2004 (2004 No 85).
 
 ##### 61A Sickness, injury, or bereavement on public holiday
     
@@ -1733,7 +1751,7 @@ Holiday and leave entitlements
         
         
     
-    *   (b) the employee suffers or has suffered a bereavement as described in [section 69(2)][100].
+    *   (b) the employee suffers or has suffered a bereavement as described in [section 69(2)][101].
     
     (2) If this section applies,---
         
@@ -1741,15 +1759,15 @@ Holiday and leave entitlements
     
     *   (b) to avoid doubt, the employee---
             
-        *   (i) must be paid for the day in accordance with [section 49][73] and is not entitled to be paid at time and a half in accordance with [section 50(1)(a)][74]; and
+        *   (i) must be paid for the day in accordance with [section 49][74] and is not entitled to be paid at time and a half in accordance with [section 50(1)(a)][75]; and
         
-        *   (ii) is not entitled to an alternative holiday under [section 56][81].
+        *   (ii) is not entitled to an alternative holiday under [section 56][82].
         
         
     
-    Section 61A: inserted, on 22 October 2004, by [section 9][167] of the Holidays Amendment Act 2004 (2004 No 85).
+    Section 61A: inserted, on 22 October 2004, by [section 9][169] of the Holidays Amendment Act 2004 (2004 No 85).
     
-    Section 61A(1)(a)(ii): amended, on 26 April 2005, by [section 7][140] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 61A(1)(a)(ii): amended, on 26 April 2005, by [section 7][141] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ### Subpart 4---Sick leave and bereavement leave
 
@@ -1821,9 +1839,9 @@ Holiday and leave entitlements
     
     *   (c) a person who depends on the employee for care is sick or injured.
     
-    (2) An employee is entitled to 5 days' sick leave for each of the 12-month periods specified in [section 63(2)][92].
+    (2) An employee is entitled to 5 days' sick leave for each of the 12-month periods specified in [section 63(2)][93].
     
-    Section 65(1)(b): amended, on 26 April 2005, by [section 7][140] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 65(1)(b): amended, on 26 April 2005, by [section 7][141] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 66 Sick leave may be carried over
     
@@ -1841,7 +1859,7 @@ Holiday and leave entitlements
 
 ##### 68 Proof of sickness or injury
     
-*   (1) An employer may require an employee to produce proof of sickness or injury for sick leave taken under [section 65][95] if the sickness or injury that gave rise to the leave is for a period of 3 or more consecutive calendar days, whether or not the days would otherwise be working days for the employee.
+*   (1) An employer may require an employee to produce proof of sickness or injury for sick leave taken under [section 65][96] if the sickness or injury that gave rise to the leave is for a period of 3 or more consecutive calendar days, whether or not the days would otherwise be working days for the employee.
     
     (1A) Despite subsection (1), the employer may require proof of sickness or injury within 3 consecutive calendar days if the employer---
         
@@ -1849,7 +1867,7 @@ Holiday and leave entitlements
     
     *   (b) agrees to meet the employee's reasonable expenses in obtaining the proof.
     
-    (2) Subsection (1) does not prevent an employer and employee from agreeing that the employee will produce proof of sickness or injury for sick leave provided to the employee in addition to the entitlement set out in [section 65][95].
+    (2) Subsection (1) does not prevent an employer and employee from agreeing that the employee will produce proof of sickness or injury for sick leave provided to the employee in addition to the entitlement set out in [section 65][96].
     
     (3) For the purposes of this section, _proof of sickness or injury_ may include a certificate from a medical practitioner that---
         
@@ -1869,23 +1887,23 @@ Holiday and leave entitlements
     
     *   (b) subsection (1) or subsection (1A) does not give the employer the right to require the employee to obtain the proof from a person specified by the employer.
     
-    (5) In this section, _medical practitioner_ means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by [section 114(1)(a)][168] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
+    (5) In this section, _medical practitioner_ means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by [section 114(1)(a)][170] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
     
-    Section 68(1A): substituted, on 1 April 2011, by [section 14(1)][169] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 68(1A): substituted, on 1 April 2011, by [section 14(1)][171] of the Holidays Amendment Act 2010 (2010 No 126).
     
-    Section 68(3): amended, on 1 April 2011, by [section 14(2)][169] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 68(3): amended, on 1 April 2011, by [section 14(2)][171] of the Holidays Amendment Act 2010 (2010 No 126).
     
-    Section 68(3)(b)(i): amended, on 26 April 2005, by [section 7][140] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 68(3)(b)(i): amended, on 26 April 2005, by [section 7][141] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 68(4): substituted, on 22 October 2004, by [section 10(2)][170] of the Holidays Amendment Act 2004 (2004 No 85).
+    Section 68(4): substituted, on 22 October 2004, by [section 10(2)][172] of the Holidays Amendment Act 2004 (2004 No 85).
     
-    Section 68(5): added, on 1 April 2011, by [section 14(3)][169] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 68(5): added, on 1 April 2011, by [section 14(3)][171] of the Holidays Amendment Act 2010 (2010 No 126).
 
 #### Bereavement leave
 
 ##### 69 Bereavement leave
     
-*   (1) An employee may take bereavement leave in accordance with [sections 63][92] and [70][101] if the employee suffers a bereavement.
+*   (1) An employee may take bereavement leave in accordance with [sections 63][93] and [70][102] if the employee suffers a bereavement.
     
     (2) An employee suffers a bereavement---
         
@@ -1919,17 +1937,17 @@ Holiday and leave entitlements
     
     Compare: 1981 No 15 s 30A(7)
     
-    Section 69(2)(a)(i): amended, on 26 April 2005, by [section 7][140] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 69(2)(a)(i): amended, on 26 April 2005, by [section 7][141] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 69(2)(a)(vii): amended, on 26 April 2005, by [section 7][140] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 69(2)(a)(vii): amended, on 26 April 2005, by [section 7][141] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 70 Duration of bereavement leave
     
 *   (1) An employer must allow an employee to take---
         
-    *   (a) 3 days' bereavement leave for each type of bereavement described in [section 69(2)(a)][100]; and
+    *   (a) 3 days' bereavement leave for each type of bereavement described in [section 69(2)(a)][101]; and
     
-    *   (b) 1 day's bereavement leave for a bereavement described in [section 69(2)(b)][100].
+    *   (b) 1 day's bereavement leave for a bereavement described in [section 69(2)(b)][101].
     
     (2) If an employee suffers more than 1 bereavement at the same time, he or she may take the amount of bereavement leave specified in subsection (1) in respect of each bereavement.
 
@@ -1939,11 +1957,11 @@ Holiday and leave entitlements
     
 *   (1) An employer must pay an employee an amount that is equivalent to the employee's relevant daily pay or average daily pay for each day of sick leave or bereavement leave taken by the employee that would otherwise be a working day for the employee.
     
-    (2) Despite subsection (1), an employer is not required to pay an employee for any time for which the employee is paid weekly compensation under the [Injury Prevention, Rehabilitation, and Compensation Act 2001][134] or former Act.
+    (2) Despite subsection (1), an employer is not required to pay an employee for any time for which the employee is paid weekly compensation under the [Injury Prevention, Rehabilitation, and Compensation Act 2001][135] or former Act.
     
     (3) An employer must not require an employee to take as sick leave any time for which the employee is being paid---
         
-    *   (a) first week compensation by the employer under [section 97][147] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 or former Act; or
+    *   (a) first week compensation by the employer under [section 97][148] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 or former Act; or
     
     *   (b) weekly compensation for a work-related injury within the meaning of that Act or former Act.
     
@@ -1951,15 +1969,15 @@ Holiday and leave entitlements
     
     Compare: 1981 No 15 s 30A(4), (6)
     
-    Section 71(1): amended, on 1 April 2011, by [section 17][155] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 71(1): amended, on 1 April 2011, by [section 17][156] of the Holidays Amendment Act 2010 (2010 No 126).
 
 ##### 72 When payment for sick leave or bereavement leave must be made
     
 *   (1) An employer must pay an employee for sick leave or bereavement leave in the pay that relates to the pay period in which the leave is taken.
     
-    (2) However, if an employee is required to provide proof of sickness or injury under [section 68][98] and fails, without reasonable excuse, to do so, the employer is not required to pay the employee for any sick leave in respect of which the proof is required until the employee complies with that requirement.
+    (2) However, if an employee is required to provide proof of sickness or injury under [section 68][99] and fails, without reasonable excuse, to do so, the employer is not required to pay the employee for any sick leave in respect of which the proof is required until the employee complies with that requirement.
     
-    Section 72(2): amended, on 22 October 2004, by [section 11][171] of the Holidays Amendment Act 2004 (2004 No 85).
+    Section 72(2): amended, on 22 October 2004, by [section 11][173] of the Holidays Amendment Act 2004 (2004 No 85).
 
 ## Part 3  
 Enforcement and other matters
@@ -2016,23 +2034,23 @@ Enforcement and other matters
     
     *   (ba) [sections 28A][38] and [28B][39] (which relate to a request by an employee for a portion of his or her annual holidays to be paid out and payment for that portion):
     
-    *   (c) [section 46][69], [sections 49 to 56][73], [section 60][85], and [section 61(3)][86] (which relate to an employee's entitlement to, and payment for, public holidays and alternative holidays):
+    *   (c) [section 46][70], [sections 49 to 56][74], [section 60][86], and [section 61(3)][87] (which relate to an employee's entitlement to, and payment for, public holidays and alternative holidays):
     
-    *   (d) [section 63][92], [section 65][95], and [sections 69 to 72][100] (which relate to an employee's entitlement to, and payment for, sick leave and bereavement leave):
+    *   (d) [section 63][93], [section 65][96], and [sections 69 to 72][101] (which relate to an employee's entitlement to, and payment for, sick leave and bereavement leave):
     
-    *   (e) [section 83][118] (which relates to the failure to keep or provide access to a holiday and leave record).
+    *   (e) [section 83][119] (which relates to the failure to keep or provide access to a holiday and leave record).
     
     Compare: 1981 No 15 s 34(1)(a)
     
-    Section 75(1)(a): amended, on 1 April 2011, by [section 15(1)][172] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 75(1)(a): amended, on 1 April 2011, by [section 15(1)][174] of the Holidays Amendment Act 2010 (2010 No 126).
     
-    Section 75(1)(b): amended, on 1 April 2011, by [section 15(2)][172] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 75(1)(b): amended, on 1 April 2011, by [section 15(2)][174] of the Holidays Amendment Act 2010 (2010 No 126).
     
-    Section 75(2)(ba): inserted, on 1 April 2011, by [section 15(3)][172] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 75(2)(ba): inserted, on 1 April 2011, by [section 15(3)][174] of the Holidays Amendment Act 2010 (2010 No 126).
 
 ##### 76 Proceedings by Labour Inspector for penalty
     
-*   (1) A Labour Inspector is the only person who may bring an action in the Authority against an employer to recover a penalty under [section 75][109].
+*   (1) A Labour Inspector is the only person who may bring an action in the Authority against an employer to recover a penalty under [section 75][110].
     
     (2) A claim for 2 or more penalties against the same employer may be joined in the same action.
     
@@ -2054,15 +2072,15 @@ Enforcement and other matters
     
     *   (b) in any other case, into court and then into a Crown Bank Account.
     
-    Section 76(6)(b): amended, on 25 January 2005, pursuant to [section 65R(3)][173] of the Public Finance Act 1989 (1989 No 44).
+    Section 76(6)(b): amended, on 25 January 2005, pursuant to [section 65R(3)][175] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 77 Proceedings by Labour Inspector to recover arrears of pay
     
 *   (1) A Labour Inspector may take proceedings on behalf of an employee to recover unpaid holiday pay or leave pay that the employee is entitled to under this Act.
     
-    (2) If a Labour Inspector takes proceedings under subsection (1), the Labour Inspector must not issue a demand notice under [section 224][174] of the Employment Relations Act 2000 in respect of the same pay.
+    (2) If a Labour Inspector takes proceedings under subsection (1), the Labour Inspector must not issue a demand notice under [section 224][176] of the Employment Relations Act 2000 in respect of the same pay.
     
-    (3) [Section 131][175] of the Employment Relations Act 2000 applies, with all necessary modifications, to proceedings taken under subsection (1).
+    (3) [Section 131][177] of the Employment Relations Act 2000 applies, with all necessary modifications, to proceedings taken under subsection (1).
     
     (4) An action initiated or taken under this Act by a Labour Inspector may be completed by another Labour Inspector.
     
@@ -2070,13 +2088,13 @@ Enforcement and other matters
 
 ##### 78 Powers of Labour Inspector
     
-*   For the purposes of this Act, every Labour Inspector has, in addition to any powers conferred by this Act, all the powers that a Labour Inspector has under the [Employment Relations Act 2000][137].
+*   For the purposes of this Act, every Labour Inspector has, in addition to any powers conferred by this Act, all the powers that a Labour Inspector has under the [Employment Relations Act 2000][138].
     
     Compare: 1981 No 15 s 32
 
 ##### 79 Determinations by Labour Inspector
     
-*   Except to the extent that, in any proceedings before the Authority, the Authority makes its own determination on the matter, a determination made by a Labour Inspector under [section 11(2)][14], [section 13(2)][17], [section 17(2)][24], [section 54(2)][78], or [section 85(2)][121], is binding on the employer and employee.
+*   Except to the extent that, in any proceedings before the Authority, the Authority makes its own determination on the matter, a determination made by a Labour Inspector under [section 11(2)][14], [section 13(2)][17], [section 17(2)][24], [section 54(2)][79], or [section 85(2)][122], is binding on the employer and employee.
 
 ##### 80 Labour Inspector must consult employer and employee
     
@@ -2128,7 +2146,7 @@ Enforcement and other matters
     
     *   (m) the cash value of any board or lodgings, as agreed or determined under [section 10][13]:
     
-    *   (n) the details of any payment to which the employee is entitled under [section 61(3)][86] (which relates to payment in exchange for an alternative holiday):
+    *   (n) the details of any payment to which the employee is entitled under [section 61(3)][87] (which relates to payment in exchange for an alternative holiday):
     
     *   (o) the date of the termination of the employee's employment (if applicable):
     
@@ -2144,15 +2162,15 @@ Enforcement and other matters
     
     (4) Information entered in the holiday and leave record must be kept for not less than 6 years after the date on which the information is entered.
     
-    (5) The holiday and leave record may be kept so as to form part of the wages and time record required to be kept under [section 130][176] of the Employment Relations Act 2000\.
+    (5) The holiday and leave record may be kept so as to form part of the wages and time record required to be kept under [section 130][178] of the Employment Relations Act 2000\.
     
     Compare: 1981 No 15 s 31
     
-    Section 81(2)(ha): inserted, on 1 April 2011, by [section 16(1)][177] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 81(2)(ha): inserted, on 1 April 2011, by [section 16(1)][179] of the Holidays Amendment Act 2010 (2010 No 126).
     
-    Section 81(2)(hb): inserted, on 1 April 2011, by [section 16(1)][177] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 81(2)(hb): inserted, on 1 April 2011, by [section 16(1)][179] of the Holidays Amendment Act 2010 (2010 No 126).
     
-    Section 81(2)(ja): inserted, on 1 April 2011, by [section 16(2)][177] of the Holidays Amendment Act 2010 (2010 No 126).
+    Section 81(2)(ja): inserted, on 1 April 2011, by [section 16(2)][179] of the Holidays Amendment Act 2010 (2010 No 126).
 
 ##### 82 Requests for access to holiday and leave record
     
@@ -2176,7 +2194,7 @@ Enforcement and other matters
 
 ##### 83 Failure to keep or provide access to holiday and leave record
     
-*   (1) Evidence that an employer has failed to comply with [section 81][116] or [section 82][117] may be given in an action before the Authority---
+*   (1) Evidence that an employer has failed to comply with [section 81][117] or [section 82][118] may be given in an action before the Authority---
         
     *   (a) to recover holiday pay or leave pay from an employer; or
     
@@ -2186,9 +2204,9 @@ Enforcement and other matters
         
     *   (a) an improvement notice issued under section 223D of the Employment Relations Act 2000 that relates to holiday pay; or
     
-    *   (b) a demand notice served under [section 224][174] of the Employment Relations Act 2000 that relates to holiday pay.
+    *   (b) a demand notice served under [section 224][176] of the Employment Relations Act 2000 that relates to holiday pay.
     
-    (3) If, after hearing the evidence, the Authority is satisfied that the employer failed to comply with [section 81][116] or [section 82][117] and that the failure prevented the claimant from bringing an accurate claim, the Authority may make a finding to that effect.
+    (3) If, after hearing the evidence, the Authority is satisfied that the employer failed to comply with [section 81][117] or [section 82][118] and that the failure prevented the claimant from bringing an accurate claim, the Authority may make a finding to that effect.
     
     (4) If a finding under subsection (3) is made, then the Authority may accept as proved, in the absence of evidence to the contrary, statements made by the employee about---
         
@@ -2196,7 +2214,7 @@ Enforcement and other matters
     
     *   (b) annual holidays, public holidays, sick leave, or bereavement leave actually taken by the employee.
     
-    Section 83(2): substituted, on 1 April 2011, by [section 40][178] of the Employment Relations Amendment Act 2010 (2010 No 125).
+    Section 83(2): substituted, on 1 April 2011, by [section 40][180] of the Employment Relations Amendment Act 2010 (2010 No 125).
 
 ### Subpart 2---Other matters
 
@@ -2206,11 +2224,11 @@ Enforcement and other matters
         
     *   (a) the Authority gives judgment for an employee in an action to recover holiday pay or leave pay; or
     
-    *   (b) the Authority makes a determination under [section 226][179] of the Employment Relations Act 2000 in favour of the employee.
+    *   (b) the Authority makes a determination under [section 226][181] of the Employment Relations Act 2000 in favour of the employee.
     
     (2) The Authority may include, in the sum for which judgment is given or the determination is made, interest for the whole or any part of the period between the date when the cause of action arose and the date of payment in accordance with the judgment or determination.
     
-    (3) Interest included in a judgment or determination must not exceed interest at the rate calculated under [clause 11][180] of Schedule 2 of the Employment Relations Act 2000\.
+    (3) Interest included in a judgment or determination must not exceed interest at the rate calculated under [clause 11][182] of Schedule 2 of the Employment Relations Act 2000\.
     
     (4) This section does not authorise the giving of interest upon interest.
 
@@ -2278,15 +2296,15 @@ Enforcement and other matters
         
     *   (a) remains in force despite the repeal of the Holidays Act 1981; and
     
-    *   (b) must be treated as if it were sick leave which the employee is entitled to take in accordance with [subpart 4][89] of Part 2\.
+    *   (b) must be treated as if it were sick leave which the employee is entitled to take in accordance with [subpart 4][90] of Part 2\.
     
     (2) The operation of this section does not affect the date on which the employee next becomes entitled to sick leave.
 
 ##### 91 Repeals and consequential amendments
     
-*   (1) The enactments specified in [Schedule 2][130] are repealed.
+*   (1) The enactments specified in [Schedule 2][131] are repealed.
     
-    (2) The enactments specified in [Schedule 3][131] are amended in the manner indicated in that schedule.
+    (2) The enactments specified in [Schedule 3][132] are amended in the manner indicated in that schedule.
 
 ---
 
@@ -2297,48 +2315,48 @@ Modifications to subpart 1 of Part 2 to increase minimum entitlement to annual h
 
 \[Repealed\]
     
-*   Schedule 1: repealed, on 1 April 2011, by [section 17][155] of the Holidays Amendment Act 2010 (2010 No 126).
+*   Schedule 1: repealed, on 1 April 2011, by [section 17][156] of the Holidays Amendment Act 2010 (2010 No 126).
 
 ---
 
 ## Schedule 2  
 Enactments repealed
 
-[s 91(1)][128]
+[s 91(1)][129]
 
 ##### Anzac Day Act 1966 (1966 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][181]_.
+_Amendment(s) incorporated in the [Act(s)][183]_.
 
 ##### Employment Relations Act 2000 (2000 No 24)
 
-_Amendment(s) incorporated in the [Act(s)][182]_.
+_Amendment(s) incorporated in the [Act(s)][184]_.
 
 ##### Holidays Act 1981 (1981 No 15)
 
 ##### Human Rights Amendment Act 2001 (2001 No 96)
 
-_Amendment(s) incorporated in the [Act(s)][183]_.
+_Amendment(s) incorporated in the [Act(s)][185]_.
 
 ##### Income Tax Act 1994 (1994 No 164)
 
-_Amendment(s) incorporated in the [Act(s)][184]_.
+_Amendment(s) incorporated in the [Act(s)][186]_.
 
 ##### Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49)
 
-_Amendment(s) incorporated in the [Act(s)][185]_.
+_Amendment(s) incorporated in the [Act(s)][187]_.
 
 ##### Labour Department Act Repeal Act 1989 (1989 No 82)
 
-_Amendment(s) incorporated in the [Act(s)][186]_.
+_Amendment(s) incorporated in the [Act(s)][188]_.
 
 ##### New Zealand Railways Corporation Restructuring Act 1990 (1990 No 105)
 
-_Amendment(s) incorporated in the [Act(s)][187]_.
+_Amendment(s) incorporated in the [Act(s)][189]_.
 
 ##### Parental Leave and Employment Protection Act 1987 (1987 No 129)
 
-_Amendment(s) incorporated in the [Act(s)][188]_.
+_Amendment(s) incorporated in the [Act(s)][190]_.
 
 ##### Taxation (Core Provisions) Act 1996 (1996 No 67)
 
@@ -2346,84 +2364,84 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Waitangi Day Act 1976 (1976 No 33)
 
-_Amendment(s) incorporated in the [Act(s)][189]_.
+_Amendment(s) incorporated in the [Act(s)][191]_.
 
 ---
 
 ## Schedule 3  
 Enactments amended
 
-[s 91(2)][128]
+[s 91(2)][129]
 
 ## Part 1  
 Acts amended
 
 ##### Companies Act 1993 (1993 No 105)
 
-_Amendment(s) incorporated in the [Act(s)][190]_.
+_Amendment(s) incorporated in the [Act(s)][192]_.
 
 ##### Electoral Act 1993 (1993 No 87)
 
-_Amendment(s) incorporated in the [Act(s)][191]_.
+_Amendment(s) incorporated in the [Act(s)][193]_.
 
 ##### Employment Relations Act 2000 (2000 No 24)
 
-_Amendment(s) incorporated in the [Act(s)][156]_.
+_Amendment(s) incorporated in the [Act(s)][157]_.
 
 ##### Immigration Act 1987 (1987 No 74)
 
-_Amendment(s) incorporated in the [Act(s)][192]_.
+_Amendment(s) incorporated in the [Act(s)][194]_.
 
 ##### Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49)
 
-_Amendment(s) incorporated in the [Act(s)][193]_.
+_Amendment(s) incorporated in the [Act(s)][195]_.
 
 ##### Insolvency Act 1967 (1967 No 54)
 
-_Amendment(s) incorporated in the [Act(s)][194]_.
+_Amendment(s) incorporated in the [Act(s)][196]_.
 
 ##### Judicature Act 1908 (1908 No 89)
 
-_Amendment(s) incorporated in the [Act(s)][195]_.
+_Amendment(s) incorporated in the [Act(s)][197]_.
 
 ##### Parental Leave and Employment Protection Act 1987 (1987 No 129)
 
-_Amendment(s) incorporated in the [Act(s)][196]_.
+_Amendment(s) incorporated in the [Act(s)][198]_.
 
 ##### Social Security Act 1964 (1964 No 136)
 
-_Amendment(s) incorporated in the [Act(s)][197]_.
+_Amendment(s) incorporated in the [Act(s)][199]_.
 
 ##### Volunteers Employment Protection Act 1973 (1973 No 25)
 
-_Amendment(s) incorporated in the [Act(s)][198]_.
+_Amendment(s) incorporated in the [Act(s)][200]_.
 
 ## Part 2  
 Regulations amended
 
 ##### Disabled Persons Employment Promotion Order 2002 (SR 2002/332)
 
-_Amendment(s) incorporated in the [order(s)][199]_.
+_Amendment(s) incorporated in the [order(s)][201]_.
 
 ##### District Courts Rules 1992 (SR 1992/109)
 
-_Amendment(s) incorporated in the [rules][200]_.
+_Amendment(s) incorporated in the [rules][202]_.
 
 ##### Employment Relations (Prescribed Matters) Regulations 2000 (SR 2000/185)
 
-_Amendment(s) incorporated in the [regulations][201]_.
+_Amendment(s) incorporated in the [regulations][203]_.
 
 ##### Land Transfer Regulations 2002 (SR 2002/213)
 
-_Amendment(s) incorporated in the [regulations][202]_.
+_Amendment(s) incorporated in the [regulations][204]_.
 
 ##### Land Transport (Requirements for Storage and Towage of Impounded Vehicles) Regulations 1999 (SR 1999/84)
 
-_Amendment(s) incorporated in the [regulations][203]_.
+_Amendment(s) incorporated in the [regulations][205]_.
 
 ##### Land Transport (Storage and Towage Fees for Impounded Vehicles) Regulations 1999 (SR 1999/85)
 
-_Amendment(s) incorporated in the [regulations][204]_.
+_Amendment(s) incorporated in the [regulations][206]_.
 
 ---
 
@@ -2435,7 +2453,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Holidays Amendment Act 2010][205].
+*   This Act is the [Holidays Amendment Act 2010][207].
 
 ##### 2 Commencement
     
@@ -2454,90 +2472,49 @@ Amendments to other Acts and transitional provision
     
 *   To avoid doubt, a request under section 28A of the principal Act (as inserted by section 10 of this Act) may be made only in relation to an entitlement year that begins on or after the commencement of this Act.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Holidays Act 2003\. The reprint incorporates all the amendments to the Act as at 1 April 2011, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][206] ![](/images/external_link.gif).
+*   This is a reprint of the Holidays Act 2003 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][207] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][208] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][209] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][208] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][210] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][211] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][209] and [17E][210] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013][212] (2013 No 19)
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    [Holidays Amendment Act 2010][207] (2010 No 126)
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Employment Relations Amendment Act 2010 (2010 No 125): [section 40][180]
     
+    [Holidays (Transfer of Public Holidays) Amendment Act 2008][213] (2008 No 103)
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    Taxation (KiwiSaver) Act 2007 (2007 No 110): [sections 119--121][144]
     
-*   [Holidays Amendment Act 2010][205] (2010 No 126)
+    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][141]
     
-    Employment Relations Amendment Act 2010 (2010 No 125): [section 40][178]
+    [Holidays Amendment Act 2004][214] (2004 No 85)
     
-    [Holidays (Transfer of Public Holidays) Amendment Act 2008][211] (2008 No 103)
+    Volunteers Employment Protection Amendment Act 2004 (2004 No 12): [section 15][151]
     
-    Taxation (KiwiSaver) Act 2007 (2007 No 110): [sections 119--121][143]
+    Holidays Act 2003 (2003 No 129): [section 42][155]
     
-    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][140]
-    
-    [Holidays Amendment Act 2004][212] (2004 No 85)
-    
-    Volunteers Employment Protection Amendment Act 2004 (2004 No 12): [section 15][150]
-    
-    Holidays Act 2003 (2003 No 129): [section 42][154]
-    
-    Public Finance Act 1989 (1989 No 44): [section 65R(3)][173]
+    Public Finance Act 1989 (1989 No 44): [section 65R(3)][175]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM236390
 [2]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM236391
 [3]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM236392
@@ -2605,148 +2582,150 @@ Amendments to other Acts and transitional provision
 [65]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM3635933
 [66]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM3635934
 [67]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237121
-[68]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237122
-[69]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237123
-[70]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237124
-[71]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237125
-[72]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237126
-[73]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237127
-[74]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237128
-[75]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237131
-[76]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237133
-[77]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237136
-[78]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237140
-[79]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237141
-[80]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237142
-[81]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237143
-[82]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237145
-[83]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237146
-[84]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237147
-[85]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237148
-[86]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237149
-[87]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237150
-[88]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237152
-[89]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237155
-[90]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237156
-[91]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237157
-[92]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237158
-[93]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237159
-[94]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237160
-[95]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237161
-[96]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237163
-[97]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237164
-[98]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237165
-[99]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237170
-[100]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237171
-[101]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237174
-[102]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237175
-[103]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237176
-[104]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237177
-[105]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237179
-[106]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237180
-[107]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237181
-[108]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237182
-[109]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237183
-[110]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237184
-[111]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237185
-[112]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237186
-[113]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237187
-[114]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237188
-[115]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237189
-[116]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237190
-[117]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237191
-[118]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237192
-[119]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237193
-[120]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237194
-[121]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237195
-[122]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237196
-[123]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237197
-[124]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237198
-[125]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237199
-[126]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237500
-[127]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237501
-[128]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237502
-[129]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237503
-[130]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237511
-[131]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237523
-[132]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM61477
-[133]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM58619
-[134]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM99493
-[135]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM100103
-[136]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM58337
-[137]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM58316
-[138]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM3172313
-[139]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM315688
-[140]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM333795
-[141]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM396434
-[142]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM204978
-[143]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM1107383
-[144]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM3172323
-[145]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM3172329
-[146]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM3172331
-[147]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM101448
-[148]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM409765
-[149]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM3172332
-[150]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM240793
-[151]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM1107385
-[152]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM3172333
-[153]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM120103
-[154]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM237117
-[155]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM3172354
-[156]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM59161
-[157]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM3172335
-[158]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM3172344
-[159]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM1242417
-[160]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM1242418
-[161]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM3172345
-[162]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM315694
-[163]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM315697
-[164]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM315698
-[165]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM315699
-[166]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM3172350
-[167]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM315901
-[168]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM204329
-[169]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM3172351
-[170]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM315904
-[171]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM315905
-[172]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM3172352
-[173]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM162942
-[174]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM61448
-[175]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM60376
-[176]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM60375
-[177]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM3172353
-[178]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM3172577
-[179]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM61451
-[180]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM61786
-[181]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM379816
-[182]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM62251
-[183]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM122534
-[184]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM1184504
-[185]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM106300
-[186]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM191734
-[187]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM223180
-[188]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM120104
-[189]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM439058
-[190]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM323545
-[191]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM309807
-[192]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM111300
-[193]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM103448
-[194]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM383234
-[195]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM1819485
-[196]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM120699
-[197]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM364876
-[198]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM410135
-[199]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM164398
-[200]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM155456
-[201]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM7972
-[202]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM138092
-[203]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM278649
-[204]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM278688
-[205]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM3172302
-[206]: http://www.pco.parliament.govt.nz/reprints/
-[207]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM195439
-[208]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[209]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM195468
-[210]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM195470
-[211]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM1242400
-[212]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM315681
+[68]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM5865000
+[69]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237122
+[70]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237123
+[71]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237124
+[72]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237125
+[73]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237126
+[74]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237127
+[75]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237128
+[76]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237131
+[77]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237133
+[78]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237136
+[79]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237140
+[80]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237141
+[81]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237142
+[82]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237143
+[83]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237145
+[84]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237146
+[85]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237147
+[86]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237148
+[87]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237149
+[88]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237150
+[89]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237152
+[90]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237155
+[91]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237156
+[92]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237157
+[93]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237158
+[94]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237159
+[95]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237160
+[96]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237161
+[97]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237163
+[98]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237164
+[99]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237165
+[100]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237170
+[101]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237171
+[102]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237174
+[103]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237175
+[104]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237176
+[105]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237177
+[106]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237179
+[107]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237180
+[108]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237181
+[109]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237182
+[110]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237183
+[111]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237184
+[112]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237185
+[113]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237186
+[114]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237187
+[115]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237188
+[116]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237189
+[117]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237190
+[118]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237191
+[119]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237192
+[120]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237193
+[121]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237194
+[122]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237195
+[123]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237196
+[124]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237197
+[125]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237198
+[126]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237199
+[127]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237500
+[128]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237501
+[129]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237502
+[130]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237503
+[131]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237511
+[132]: http://www.legislation.govt.nz/act/public/2003/0129/latest/whole.html#DLM237523
+[133]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM61477
+[134]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM58619
+[135]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM99493
+[136]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM100103
+[137]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM58337
+[138]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM58316
+[139]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM3172313
+[140]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM315688
+[141]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM333795
+[142]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM396434
+[143]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM204978
+[144]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM1107383
+[145]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM3172323
+[146]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM3172329
+[147]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM3172331
+[148]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM101448
+[149]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM409765
+[150]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM3172332
+[151]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM240793
+[152]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM1107385
+[153]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM3172333
+[154]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM120103
+[155]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM237117
+[156]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM3172354
+[157]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM59161
+[158]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM3172335
+[159]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM3172344
+[160]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM1242417
+[161]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM1242418
+[162]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM3172345
+[163]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM4274709
+[164]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM315694
+[165]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM315697
+[166]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM315698
+[167]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM315699
+[168]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM3172350
+[169]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM315901
+[170]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM204329
+[171]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM3172351
+[172]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM315904
+[173]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM315905
+[174]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM3172352
+[175]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM162942
+[176]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM61448
+[177]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM60376
+[178]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM60375
+[179]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM3172353
+[180]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM3172577
+[181]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM61451
+[182]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM61786
+[183]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM379816
+[184]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM62251
+[185]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM122534
+[186]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM1184504
+[187]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM106300
+[188]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM191734
+[189]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM223180
+[190]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM120104
+[191]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM439058
+[192]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM323545
+[193]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM309807
+[194]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM111300
+[195]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM103448
+[196]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM383234
+[197]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM1819485
+[198]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM120699
+[199]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM364876
+[200]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM410135
+[201]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM164398
+[202]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM155456
+[203]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM7972
+[204]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM138092
+[205]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM278649
+[206]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM278688
+[207]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM3172302
+[208]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM2998516
+[209]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM2998515
+[210]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM2998532
+[211]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[212]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM4274700
+[213]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM1242400
+[214]: http://www.legislation.govt.nz/act/public/2003/0129/latest/link.aspx?id=DLM315681
