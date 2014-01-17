@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 1 January 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Justice.
 
@@ -109,13 +109,17 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     _Secretary_ means the Secretary for Justice
     
-    _working day_ means a day that---
+    _working day_ means a day of the week other than---
         
-    *   (a) is not Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, Labour Day, or the Sovereign's birthday; and
+    *   (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
     
-    *   (b) does not fall in a period commencing on 20 December in one year and ending with 15 January in the next year.
+    *   (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    
+    *   (c) a day in the period commencing on 20 December in any year and ending with 15 January in the following year.
     
     Section 2: replaced, on 15 April 2007, by [section 4][29] of the Justices of the Peace Amendment Act 2007 (2007 No 14).
+    
+    Section 2 **working day**: replaced, on 1 January 2014, by [section 8][30] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
 
 ##### 2A Act binds the Crown
     
@@ -155,7 +159,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
 *   (1) A Justice (other than a District Court Judge or a Judge of the Maori Land Court) must not exercise or perform any judicial power or function unless he or she has completed training in the exercise and performance of judicial powers and functions to the satisfaction of the Chief District Court Judge.
     
-    (2) Subsection (1) does not apply to a Justice appointed before the commencement of the [Justices of the Peace Amendment Act 2007][30].
+    (2) Subsection (1) does not apply to a Justice appointed before the commencement of the [Justices of the Peace Amendment Act 2007][31].
     
     Section 3B: inserted, on 15 April 2007, by [section 4][29] of the Justices of the Peace Amendment Act 2007 (2007 No 14).
 
@@ -183,7 +187,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (4) No person may use the designation ""JP (retired)"" or a similar designation unless he or she is a former Justice.
     
-    (5) Subsection (1) applies to former Justices (appointed under [section 3(1)][5]) who retired or resigned before the commencement of the [Justices of the Peace Amendment Act 2007][30].
+    (5) Subsection (1) applies to former Justices (appointed under [section 3(1)][5]) who retired or resigned before the commencement of the [Justices of the Peace Amendment Act 2007][31].
     
     Section 3C: inserted, on 15 April 2007, by [section 4][29] of the Justices of the Peace Amendment Act 2007 (2007 No 14).
 
@@ -191,17 +195,17 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
 *   The functions and powers of Justices shall be---
         
-    *   (a) to take oaths and declarations under the provisions of the [Oaths and Declarations Act 1957][31] or any other enactment:
+    *   (a) to take oaths and declarations under the provisions of the [Oaths and Declarations Act 1957][32] or any other enactment:
     
-    *   (b) to carry out such functions and exercise such powers as are conferred on Justices by the [Criminal Procedure Act 2011][32] or by any other enactment.
+    *   (b) to carry out such functions and exercise such powers as are conferred on Justices by the [Criminal Procedure Act 2011][33] or by any other enactment.
     
-    Section 4(b): amended, on 1 July 2013, by [section 4][33] of the Justices of the Peace Amendment Act 2011 (2011 No 91).
+    Section 4(b): amended, on 1 July 2013, by [section 4][34] of the Justices of the Peace Amendment Act 2011 (2011 No 91).
 
 ##### 4A Application of sections 4B to 4F
     
 *   [Sections 4B to 4F][11] apply to Justices performing judicial powers and functions under section 4(b).
     
-    Section 4A: inserted, on 1 July 2013, by [section 5][34] of the Justices of the Peace Amendment Act 2011 (2011 No 91).
+    Section 4A: inserted, on 1 July 2013, by [section 5][35] of the Justices of the Peace Amendment Act 2011 (2011 No 91).
 
 ##### 4B No proceeding against Justice unless he or she acted without jurisdiction
     
@@ -209,25 +213,25 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (2) If a warrant to seize property or warrant of commitment is granted by a Justice in good faith in reliance on a conviction or order entered or made by 1 or more Justices or 1 or more Community Magistrates, no proceeding may be commenced against the Justice who granted the warrant by reason of any defect in the conviction or order, or by reason of any want of jurisdiction in the Justice or Justices or Community Magistrate or Community Magistrates who entered or made it.
     
-    Compare: 1927 No 37 ss 341, 344, 345, 348; 1957 No 87 [s 193][35]
+    Compare: 1927 No 37 ss 341, 344, 345, 348; 1957 No 87 [s 193][36]
     
-    Section 4B: inserted, on 1 July 2013, by [section 5][34] of the Justices of the Peace Amendment Act 2011 (2011 No 91).
+    Section 4B: inserted, on 1 July 2013, by [section 5][35] of the Justices of the Peace Amendment Act 2011 (2011 No 91).
 
 ##### 4C No proceeding against Justice to be commenced in District Court
     
 *   No proceeding against any Justice by any person claiming to have been injured by an act done by the Justice in excess of jurisdiction or without jurisdiction may be commenced in a District Court.
     
-    Compare: 1927 No 37 s 353; 1957 No 87 [s 194][36]
+    Compare: 1927 No 37 s 353; 1957 No 87 [s 194][37]
     
-    Section 4C: inserted, on 1 July 2013, by [section 5][34] of the Justices of the Peace Amendment Act 2011 (2011 No 91).
+    Section 4C: inserted, on 1 July 2013, by [section 5][35] of the Justices of the Peace Amendment Act 2011 (2011 No 91).
 
 ##### 4D Onus of proof
     
 *   In any proceeding commenced against a Justice by a person claiming to have been injured by an act done by the Justice in excess of jurisdiction or without jurisdiction, the onus of proving the excess or want of jurisdiction lies on the person alleging it.
     
-    Compare: 1927 No 37 s 365; 1957 No 87 [s 195][37]
+    Compare: 1927 No 37 s 365; 1957 No 87 [s 195][38]
     
-    Section 4D: inserted, on 1 July 2013, by [section 5][34] of the Justices of the Peace Amendment Act 2011 (2011 No 91).
+    Section 4D: inserted, on 1 July 2013, by [section 5][35] of the Justices of the Peace Amendment Act 2011 (2011 No 91).
 
 ##### 4E Plaintiff may be ordered to give security for costs
     
@@ -237,9 +241,9 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (3) If security is ordered to be given, the court or Judge may direct that in the meantime all proceedings are stayed.
     
-    Compare: 1927 No 37 ss 357, 359; 1957 No 87 [s 196][38]
+    Compare: 1927 No 37 ss 357, 359; 1957 No 87 [s 196][39]
     
-    Section 4E: inserted, on 1 July 2013, by [section 5][34] of the Justices of the Peace Amendment Act 2011 (2011 No 91).
+    Section 4E: inserted, on 1 July 2013, by [section 5][35] of the Justices of the Peace Amendment Act 2011 (2011 No 91).
 
 ##### 4F Indemnity to Justice
     
@@ -267,9 +271,9 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (7) A copy of the application must be served by the Justice on the Attorney-General, who is entitled to appear and oppose it.
     
-    Compare: 1957 No 87 [s 197][39]
+    Compare: 1957 No 87 [s 197][40]
     
-    Section 4F: inserted, on 1 July 2013, by [section 5][34] of the Justices of the Peace Amendment Act 2011 (2011 No 91).
+    Section 4F: inserted, on 1 July 2013, by [section 5][35] of the Justices of the Peace Amendment Act 2011 (2011 No 91).
 
 ##### 5 Removal or suspension of Justice from office
     
@@ -295,7 +299,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (2) Subsection (1) does not apply to a person who is a Justice by virtue of being a District Court Judge or a Judge of the Maori Land Court.
     
-    Section 5: replaced, on 15 April 2007, by [section 5][40] of the Justices of the Peace Amendment Act 2007 (2007 No 14).
+    Section 5: replaced, on 15 April 2007, by [section 5][41] of the Justices of the Peace Amendment Act 2007 (2007 No 14).
 
 ##### 5A Minister to consult Chief District Court Judge before recommending removal or suspension of Justice exercising or performing judicial powers or functions
     
@@ -325,7 +329,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
         
         
     
-    Section 5A: inserted, on 15 April 2007, by [section 5][40] of the Justices of the Peace Amendment Act 2007 (2007 No 14).
+    Section 5A: inserted, on 15 April 2007, by [section 5][41] of the Justices of the Peace Amendment Act 2007 (2007 No 14).
 
 ##### 5B Effect of removal
     
@@ -337,9 +341,9 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     *   (b) does not become a Justice again if later elected or appointed (or re-elected or reappointed) chairperson of a regional council or mayor of a territorial authority.
     
-    (3) Subsections (1) and (2) override [section 41(4)][41] of the Local Government Act 2002\.
+    (3) Subsections (1) and (2) override [section 41(4)][42] of the Local Government Act 2002\.
     
-    Section 5B: inserted, on 15 April 2007, by [section 5][40] of the Justices of the Peace Amendment Act 2007 (2007 No 14).
+    Section 5B: inserted, on 15 April 2007, by [section 5][41] of the Justices of the Peace Amendment Act 2007 (2007 No 14).
 
 ##### 5C Effect of suspension
     
@@ -353,9 +357,9 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (3) Subsection (2) continues to apply to a suspended Justice even if, during his or her suspension, he or she is elected or appointed (or re-elected or reappointed) chairperson of a regional council or mayor of a territorial authority.
     
-    (4) Subsections (2) and (3) override [section 41(4)][41] of the Local Government Act 2002\.
+    (4) Subsections (2) and (3) override [section 41(4)][42] of the Local Government Act 2002\.
     
-    Section 5C: inserted, on 15 April 2007, by [section 5][40] of the Justices of the Peace Amendment Act 2007 (2007 No 14).
+    Section 5C: inserted, on 15 April 2007, by [section 5][41] of the Justices of the Peace Amendment Act 2007 (2007 No 14).
 
 ##### 5D Other action in respect of Justices
     
@@ -379,7 +383,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (3) The Minister may take 2 or more of the actions stated in subsection (1) by means of a single notice.
     
-    Section 5D: inserted, on 15 April 2007, by [section 5][40] of the Justices of the Peace Amendment Act 2007 (2007 No 14).
+    Section 5D: inserted, on 15 April 2007, by [section 5][41] of the Justices of the Peace Amendment Act 2007 (2007 No 14).
 
 ##### 5E Justices to be given particulars and opportunity to respond
     
@@ -407,7 +411,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
         
         
     
-    Section 5E: inserted, on 15 April 2007, by [section 5][40] of the Justices of the Peace Amendment Act 2007 (2007 No 14).
+    Section 5E: inserted, on 15 April 2007, by [section 5][41] of the Justices of the Peace Amendment Act 2007 (2007 No 14).
 
 ##### 5F Registrars and Official Assignees to notify convictions and bankruptcies
     
@@ -415,9 +419,9 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
         
     *   (a) a Registrar of the High Court or a District Court must notify the Secretary whenever a person whom the Registrar knows to be a Justice is convicted of an offence punishable by imprisonment:
     
-    *   (b) an Official Assignee (within the meaning of the [Insolvency Act 1967][42]) must notify the Secretary whenever a person whom the Official Assignee knows to be a Justice is adjudged bankrupt.
+    *   (b) an Official Assignee (within the meaning of the [Insolvency Act 1967][43]) must notify the Secretary whenever a person whom the Official Assignee knows to be a Justice is adjudged bankrupt.
     
-    Section 5F: inserted, on 15 April 2007, by [section 5][40] of the Justices of the Peace Amendment Act 2007 (2007 No 14).
+    Section 5F: inserted, on 15 April 2007, by [section 5][41] of the Justices of the Peace Amendment Act 2007 (2007 No 14).
 
 ##### 6 Attendance of Justices at court
     
@@ -429,7 +433,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     Compare: 1927 No 37 ss 9, 11; 1952 No 44 s 15
     
-    Section 6(1): replaced, on 15 April 2007, by [section 6][43] of the Justices of the Peace Amendment Act 2007 (2007 No 14).
+    Section 6(1): replaced, on 15 April 2007, by [section 6][44] of the Justices of the Peace Amendment Act 2007 (2007 No 14).
 
 ##### 7 Justices exempt from attendance
     
@@ -443,15 +447,15 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     *   (d) any employee of the Crown.
     
-    (2) In subsection (1), _medical practitioner_ means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by [section 114(1)(a)][44] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
+    (2) In subsection (1), _medical practitioner_ means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by [section 114(1)(a)][45] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
     
     Compare: 1927 No 37 s 10
     
-    Section 7(1): amended, on 1 April 1980, pursuant to [section 18(2)][45] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 7(1): amended, on 1 April 1980, pursuant to [section 18(2)][46] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 7(1)(a): amended, on 15 April 2007, by [section 7][46] of the Justices of the Peace Amendment Act 2007 (2007 No 14).
+    Section 7(1)(a): amended, on 15 April 2007, by [section 7][47] of the Justices of the Peace Amendment Act 2007 (2007 No 14).
     
-    Section 7(2): inserted, on 18 September 2004, by [section 175(1)][47] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 7(2): inserted, on 18 September 2004, by [section 175(1)][48] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
 
 ##### 8 Failure to attend
     
@@ -465,7 +469,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (3) In this section, _fail_ includes refuse.
     
-    Section 8: replaced, on 15 April 2007, by [section 8][48] of the Justices of the Peace Amendment Act 2007 (2007 No 14).
+    Section 8: replaced, on 15 April 2007, by [section 8][49] of the Justices of the Peace Amendment Act 2007 (2007 No 14).
 
 ##### 9 Legality of acts done by person ceased to be a Justice
     
@@ -475,82 +479,41 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
 *   _Amendment(s) incorporated in the Act(s)._
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Justices of the Peace Act 1957\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][49] ![](/images/external_link.gif).
+*   This is a reprint of the Justices of the Peace Act 1957 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][50] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][50] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][51] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][51] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][52] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][53] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][52] and [17E][53] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][30]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    [Justices of the Peace Amendment Act 2011][54] (2011 No 91)
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    [Justices of the Peace Amendment Act 2007][31] (2007 No 14)
     
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   [Justices of the Peace Amendment Act 2011][54] (2011 No 91)
-    
-    [Justices of the Peace Amendment Act 2007][30] (2007 No 14)
-    
-    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][47]
+    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][48]
     
     Constitution Act 1986 (1986 No 114): [section 29(2)][28]
     
-    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][45]
+    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][46]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1957/0089/latest/whole.html#DLM316194
 [2]: http://www.legislation.govt.nz/act/public/1957/0089/latest/whole.html#DLM316196
 [3]: http://www.legislation.govt.nz/act/public/1957/0089/latest/whole.html#DLM316197
@@ -580,28 +543,28 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
 [27]: http://www.legislation.govt.nz/act/public/1957/0089/latest/whole.html#DLM316549
 [28]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM94263
 [29]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM406911
-[30]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM406903
-[31]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM314552
-[32]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM3359902
-[33]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM4058607
-[34]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM4058608
-[35]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM313782
-[36]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM313791
-[37]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM313795
-[38]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM313798
-[39]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM314005
-[40]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM406929
-[41]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM171858
-[42]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM382333
-[43]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM406937
-[44]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM204329
-[45]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM35085
-[46]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM406938
-[47]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM205009
-[48]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM406939
-[49]: http://www.pco.parliament.govt.nz/reprints/
-[50]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM195439
-[51]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[52]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM195468
-[53]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM195470
+[30]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM4929207
+[31]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM406903
+[32]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM314552
+[33]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM3359902
+[34]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM4058607
+[35]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM4058608
+[36]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM313782
+[37]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM313791
+[38]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM313795
+[39]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM313798
+[40]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM314005
+[41]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM406929
+[42]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM171858
+[43]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM382333
+[44]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM406937
+[45]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM204329
+[46]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM35085
+[47]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM406938
+[48]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM205009
+[49]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM406939
+[50]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM2998516
+[51]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM2998515
+[52]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM2998532
+[53]: http://www.pco.parliament.govt.nz/editorial-conventions/
 [54]: http://www.legislation.govt.nz/act/public/1957/0089/latest/link.aspx?id=DLM4058603
