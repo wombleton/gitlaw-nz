@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 1 January 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -35,7 +35,9 @@ This Act is administered by the Ministry for Culture and Heritage.
 
 [5][6][][6][Anzac Day trusts][6]
 
-[6][7][][7][Repeal][7]
+[5A][7][][7][Relationship with Holidays Act 2003][7]
+
+[6][8][][8][Repeal][8]
 
 ---
 
@@ -63,11 +65,11 @@ An Act to make provision regarding the observance of Anzac Day
     
     (2) The Governor-General may from time to time, by Order in Council, amend subsection (1) by adding to the list of conflicts referred to in that subsection.
     
-    (3) An Order in Council made under subsection (2) is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][8] and must be presented to the House of Representatives under [section 41][9] of that Act.
+    (3) An Order in Council made under subsection (2) is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][9] and must be presented to the House of Representatives under [section 41][10] of that Act.
     
     Section 2: substituted, on 2 September 1996, by section 2 of the Anzac Day Amendment Act 1996 (1996 No 107).
     
-    Section 2(3): replaced, on 5 August 2013, by [section 77(3)][10] of the Legislation Act 2012 (2012 No 119).
+    Section 2(3): replaced, on 5 August 2013, by [section 77(3)][11] of the Legislation Act 2012 (2012 No 119).
 
 ##### 3 Observance of Anzac Day
     
@@ -77,13 +79,13 @@ An Act to make provision regarding the observance of Anzac Day
     
     Compare: 1949 No 15 s 2
     
-    Section 3(2): amended, on 1 August 1990, by [section 6(2)][11] of the Shop Trading Hours Act Repeal Act 1990 (1990 No 57).
+    Section 3(2): amended, on 1 August 1990, by [section 6(2)][12] of the Shop Trading Hours Act Repeal Act 1990 (1990 No 57).
 
 ##### 4 Application to terms of employment
     
 *   \[Repealed\]
     
-    Section 4: repealed, on 1 April 2004, by [section 91(1)][12] of the Holidays Act 2003 (2003 No 129).
+    Section 4: repealed, on 1 April 2004, by [section 91(1)][13] of the Holidays Act 2003 (2003 No 129).
 
 ##### 5 Anzac Day trusts
     
@@ -96,6 +98,12 @@ An Act to make provision regarding the observance of Anzac Day
     (4) Subject to the provisions of subsection (5), in any case where steps are taken under this section to set up a trust, the body or bodies taking the steps may execute an instrument appointing trustees of all donations and grants made to the trustees under this section and providing for the administration of the money and property to be held by the trustees and for their powers in respect thereof.
     
     (5) All money and property held by any trustees who are appointed as aforesaid shall be applied at the discretion of the trustees for the specified charitable purposes for which they were received as aforesaid by the trustees.
+
+##### 5A Relationship with Holidays Act 2003
+    
+*   This Act is subject to [section 45A][14] of the Holidays Act 2003 (which concerns the transfer of the public holiday for the purposes of Part 2, [subpart 3][15] of that Act when Anzac Day falls on a Saturday or a Sunday).
+    
+    Section 5A: inserted, on 1 January 2014, by [section 6][16] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
 
 ##### 6 Repeal
     
@@ -113,21 +121,23 @@ An Act to make provision regarding the observance of Anzac Day
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][13] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][14] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][17] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][18] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][15] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][16] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][19] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][20] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][10]
+*   Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 6][16]
     
-    Holidays Act 2003 (2003 No 129): [section 91(1)][12]
+    Legislation Act 2012 (2012 No 119): [section 77(3)][11]
+    
+    Holidays Act 2003 (2003 No 129): [section 91(1)][13]
     
     Anzac Day Amendment Act 1996 (1996 No 107)
     
-    Shop Trading Hours Act Repeal Act 1990 (1990 No 57): [section 6(2)][11]
+    Shop Trading Hours Act Repeal Act 1990 (1990 No 57): [section 6(2)][12]
 
 
 
@@ -138,13 +148,17 @@ An Act to make provision regarding the observance of Anzac Day
 [4]: http://www.legislation.govt.nz/act/public/1966/0044/latest/whole.html#DLM379813
 [5]: http://www.legislation.govt.nz/act/public/1966/0044/latest/whole.html#DLM379816
 [6]: http://www.legislation.govt.nz/act/public/1966/0044/latest/whole.html#DLM379821
-[7]: http://www.legislation.govt.nz/act/public/1966/0044/latest/whole.html#DLM379822
-[8]: http://www.legislation.govt.nz/act/public/1966/0044/latest/link.aspx?id=DLM2997643
-[9]: http://www.legislation.govt.nz/act/public/1966/0044/latest/link.aspx?id=DLM2998573
-[10]: http://www.legislation.govt.nz/act/public/1966/0044/latest/link.aspx?id=DLM2998633
-[11]: http://www.legislation.govt.nz/act/public/1966/0044/latest/link.aspx?id=DLM212369
-[12]: http://www.legislation.govt.nz/act/public/1966/0044/latest/link.aspx?id=DLM237502
-[13]: http://www.legislation.govt.nz/act/public/1966/0044/latest/link.aspx?id=DLM2998516
-[14]: http://www.legislation.govt.nz/act/public/1966/0044/latest/link.aspx?id=DLM2998515
-[15]: http://www.legislation.govt.nz/act/public/1966/0044/latest/link.aspx?id=DLM2998532
-[16]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[7]: http://www.legislation.govt.nz/act/public/1966/0044/latest/whole.html#DLM5865107
+[8]: http://www.legislation.govt.nz/act/public/1966/0044/latest/whole.html#DLM379822
+[9]: http://www.legislation.govt.nz/act/public/1966/0044/latest/link.aspx?id=DLM2997643
+[10]: http://www.legislation.govt.nz/act/public/1966/0044/latest/link.aspx?id=DLM2998573
+[11]: http://www.legislation.govt.nz/act/public/1966/0044/latest/link.aspx?id=DLM2998633
+[12]: http://www.legislation.govt.nz/act/public/1966/0044/latest/link.aspx?id=DLM212369
+[13]: http://www.legislation.govt.nz/act/public/1966/0044/latest/link.aspx?id=DLM237502
+[14]: http://www.legislation.govt.nz/act/public/1966/0044/latest/link.aspx?id=DLM5865000
+[15]: http://www.legislation.govt.nz/act/public/1966/0044/latest/link.aspx?id=DLM237118
+[16]: http://www.legislation.govt.nz/act/public/1966/0044/latest/link.aspx?id=DLM4929203
+[17]: http://www.legislation.govt.nz/act/public/1966/0044/latest/link.aspx?id=DLM2998516
+[18]: http://www.legislation.govt.nz/act/public/1966/0044/latest/link.aspx?id=DLM2998515
+[19]: http://www.legislation.govt.nz/act/public/1966/0044/latest/link.aspx?id=DLM2998532
+[20]: http://www.pco.parliament.govt.nz/editorial-conventions/
