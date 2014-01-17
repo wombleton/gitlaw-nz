@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 1 January 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -512,7 +512,9 @@ Meaning of terms and expressions in legislation
     
     *   (c) if 1 January falls on a Friday, the following Monday; and
     
-    *   (d) if 1 January falls on a Saturday or a Sunday, the following Monday and Tuesday
+    *   (d) if 1 January falls on a Saturday or a Sunday, the following Monday and Tuesday; and
+    
+    *   (e) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday
     
     _writing_ means representing or reproducing words, figures, or symbols in a visible and tangible form and medium (for example, in print).
     
@@ -527,6 +529,10 @@ Meaning of terms and expressions in legislation
     Section 29 **summary conviction**: repealed, on 1 July 2013, by [section 413][59] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 29 **writing**: substituted, on 21 November 2003, by [section 38][62] of the Electronic Transactions Act 2002 (2002 No 35).
+    
+    Section 29 **working day** paragraph (d): replaced, on 1 January 2014, by [section 8][63] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
+    
+    Section 29 **working day** paragraph (e): inserted, on 1 January 2014, by [section 8][63] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
 
 ##### 29A Meaning of de facto relationship
     
@@ -538,7 +544,7 @@ Meaning of terms and expressions in legislation
     
     *   (c) are both aged 16 years or older.
     
-    (2) Despite subsection (1), a relationship involving a person aged 16 or 17 years is not a de facto relationship unless that person has obtained consent for the relationship in accordance with [section 46A][63] of the Care of Children Act 2004\.
+    (2) Despite subsection (1), a relationship involving a person aged 16 or 17 years is not a de facto relationship unless that person has obtained consent for the relationship in accordance with [section 46A][64] of the Care of Children Act 2004\.
     
     (3) In determining whether 2 people live together as a couple in a relationship in the nature of marriage or civil union, the court or person required to determine the question must have regard to---
         
@@ -552,13 +558,13 @@ Meaning of terms and expressions in legislation
     
     *   (b) one of the de facto partners dies.
     
-    Section 29A: inserted, on 26 April 2005, by [section 4][64] of the Interpretation Amendment Act 2005 (2005 No 13).
+    Section 29A: inserted, on 26 April 2005, by [section 4][65] of the Interpretation Amendment Act 2005 (2005 No 13).
 
 ##### 29B Meaning of step-parent, etc
     
 *   For the purposes of an enactment, the relationship of step-parent, stepson, stepdaughter, or any other relationship described by a word containing the prefix ""step"", may be established by civil union or by de facto relationship as well as by marriage.
     
-    Section 29B: inserted, on 26 April 2005, by [section 4][64] of the Interpretation Amendment Act 2005 (2005 No 13).
+    Section 29B: inserted, on 26 April 2005, by [section 4][65] of the Interpretation Amendment Act 2005 (2005 No 13).
 
 ##### 30 Definitions in enactments passed or made before commencement of this Act
     
@@ -574,7 +580,7 @@ Meaning of terms and expressions in legislation
     
     Compare: 1924 No 11 s 4
     
-    Section 30 **constable**: repealed, on 1 October 2008, by [section 130(1)][65] of the Policing Act 2008 (2008 No 72).
+    Section 30 **constable**: repealed, on 1 October 2008, by [section 130(1)][66] of the Policing Act 2008 (2008 No 72).
 
 ##### 31 Use of masculine gender in enactments passed or made before commencement of this Act
     
@@ -629,7 +635,7 @@ Amendments and repeals
     
 *   (1) The enactments specified in [Schedule 2][56] are repealed.
     
-    (2) [Section 26][66] of the Acts Interpretation Act 1908 as set out in Schedule 2 of the Acts Interpretation Act 1924 continues in force despite the repeal of both of those Acts.
+    (2) [Section 26][67] of the Acts Interpretation Act 1908 as set out in Schedule 2 of the Acts Interpretation Act 1924 continues in force despite the repeal of both of those Acts.
 
 ---
 
@@ -640,11 +646,11 @@ Amendments to other Acts
 
 ##### Imperial Laws Application Act 1988 (1988 No 112) (RS Vol 30, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][67]._
+_Amendment(s) incorporated in the [Act(s)][68]._
 
 ##### Regulations (Disallowance) Act 1989 (1989 No 143)
 
-_Amendment(s) incorporated in the [Act(s)][68]._
+_Amendment(s) incorporated in the [Act(s)][69]._
 
 ---
 
@@ -655,7 +661,7 @@ Enactments repealed
 
 ##### Acts and Regulations Publication Act 1989 (1989 No 142) (RS Vol 31, p 36)
 
-_Amendment(s) incorporated in the [Act(s)][69]._
+_Amendment(s) incorporated in the [Act(s)][70]._
 
 ##### Acts Interpretation Act 1924 (1924 No 11) (RS Vol 31, p 1)
 
@@ -681,11 +687,11 @@ _Amendment(s) incorporated in the [Act(s)][69]._
 
 ##### Finance Act (No 2) 1952 (1952 No 81) (RS Vol 31, p 31)
 
-_Amendment(s) incorporated in the [Act(s)][70]._
+_Amendment(s) incorporated in the [Act(s)][71]._
 
 ##### Statutes Amendment Act 1936 (1936 No 58) (RS Vol 31, p 30)
 
-_Amendment(s) incorporated in the [Act(s)][71]._
+_Amendment(s) incorporated in the [Act(s)][72]._
 
 ##### Statutes Amendment Act 1942 (1942 No 18) (RS Vol 31, p 30)
 
@@ -693,7 +699,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Statutes Amendment Act 1945 (1945 No 40) (RS Vol 31, p 31)
 
-_Amendment(s) incorporated in the [Act(s)][72]._
+_Amendment(s) incorporated in the [Act(s)][73]._
 
 #### 
 
@@ -707,21 +713,23 @@ _Amendment(s) incorporated in the [Act(s)][72]._
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][73] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][74] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][74] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][75] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][75] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][76] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][76] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][77] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Legislation Act 2012 (2012 No 119): [section 77(4)][61]
+*   Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][63]
+    
+    Legislation Act 2012 (2012 No 119): [section 77(4)][61]
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][59]
     
-    Policing Act 2008 (2008 No 72): [section 130(1)][65]
+    Policing Act 2008 (2008 No 72): [section 130(1)][66]
     
-    [Interpretation Amendment Act 2005][77] (2005 No 13)
+    [Interpretation Amendment Act 2005][78] (2005 No 13)
     
     Electronic Transactions Act 2002 (2002 No 35): [section 38][62]
 
@@ -790,18 +798,19 @@ _Amendment(s) incorporated in the [Act(s)][72]._
 [60]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM335987
 [61]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM2998633
 [62]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM154858
-[63]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM317601
-[64]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM335990
-[65]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM1102383
-[66]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM1325506
-[67]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM135073
-[68]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM195534
-[69]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM195097
-[70]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM275648
-[71]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM221336
-[72]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM238797
-[73]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM2998516
-[74]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM2998515
-[75]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM2998532
-[76]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[77]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM335981
+[63]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM4929207
+[64]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM317601
+[65]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM335990
+[66]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM1102383
+[67]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM1325506
+[68]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM135073
+[69]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM195534
+[70]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM195097
+[71]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM275648
+[72]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM221336
+[73]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM238797
+[74]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM2998516
+[75]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM2998515
+[76]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM2998532
+[77]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[78]: http://www.legislation.govt.nz/act/public/1999/0085/latest/link.aspx?id=DLM335981
