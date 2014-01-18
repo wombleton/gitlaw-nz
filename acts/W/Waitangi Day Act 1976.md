@@ -1,5 +1,5 @@
 Reprint  
-as at 1 April 2004
+as at 1 January 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencement1 November 1976
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry for Culture and Heritage.
 
@@ -25,22 +25,24 @@ This Act is administered by the Ministry for Culture and Heritage.
 
 [Title][1]
 
-[1][2] [Short Title][2]
+[1][2][][2][Short Title][2]
 
-[2][3] [Act to bind Crown][3]
+[2][3][][3][Act to bind Crown][3]
 
-[3][4] [Waitangi Day to be a day of commemoration][4]
+[3][4][][4][Waitangi Day to be a day of commemoration][4]
 
-[4][5] [Observance of Waitangi Day][5]
+[4][5][][5][Observance of Waitangi Day][5]
 
-[5][6] [Application to terms of employment][6] \[Repealed\]
+[5][6][][6][Application to terms of employment][6] \[Repealed\]
 
-[6][7] [Anniversary Day in Northland][7] \[Repealed\]
+[6][7][][7][Anniversary Day in Northland][7] \[Repealed\]
 
-[7][8] [Repeals, savings, and consequential amendments][8]
+[6A][8][][8][Relationship with Holidays Act 2003][8]
 
-[Schedule][9]  
-[The Treaty of Waitangi][9]
+[7][9][][9][Repeals, savings, and consequential amendments][9]
+
+[Schedule][10]  
+[The Treaty of Waitangi][10]
 
 ---
 
@@ -56,27 +58,33 @@ An Act to make provision for the observance of 6 February in each year as a publ
 
 ##### 3 Waitangi Day to be a day of commemoration
     
-*   In commemoration of the signing on 6 February 1840, at Waitangi, of the treaty known as the [Treaty of Waitangi][10] (a copy of which is set out in English and in Maori in the [Schedule][9]), 6 February in each year shall be known as Waitangi Day.
+*   In commemoration of the signing on 6 February 1840, at Waitangi, of the treaty known as the [Treaty of Waitangi][11] (a copy of which is set out in English and in Maori in the [Schedule][10]), 6 February in each year shall be known as Waitangi Day.
 
 ##### 4 Observance of Waitangi Day
     
 *   (1) Waitangi Day shall be observed as a public holiday throughout New Zealand on the day of the week on which it falls.
     
-    (2) Where Waitangi Day falls on a Saturday or a Sunday, it shall be observed as a Saturday or a Sunday.
+    (2) \[Repealed\]
     
-    Section 4(2): amended, on 1 August 1990, by [section 6(3)][11] of the Shop Trading Hours Act Repeal Act 1990 (1990 No 57).
+    Section 4(2): repealed, on 1 January 2014, by [section 7(2)][12] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
 
 ##### 5 Application to terms of employment
     
 *   \[Repealed\]
     
-    Section 5: repealed, on 1 April 2004, by [section 91(1)][12] of the Holidays Act 2003 (2003 No 129).
+    Section 5: repealed, on 1 April 2004, by [section 91(1)][13] of the Holidays Act 2003 (2003 No 129).
 
 ##### 6 Anniversary Day in Northland
     
 *   \[Repealed\]
     
     Section 6: repealed, on 1 February 1982, by section 36(1) of the Holidays Act 1981 (1981 No 15).
+
+##### 6A Relationship with Holidays Act 2003
+    
+*   This Act is subject to [section 45A][14] of the Holidays Act 2003 (which concerns the transfer of the public holiday for the purposes of Part 2,[subpart 3][15] of that Act when Waitangi Day falls on a Saturday or a Sunday).
+    
+    Section 6A: inserted, on 1 January 2014, by [section 7(3)][12] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
 
 ##### 7 Repeals, savings, and consequential amendments
     
@@ -132,8 +140,6 @@ Done at Waitangi this Sixth day of February in the year of Our Lord One thousand
 
 \[_Here follow signatures, dates, etc_\]
 
----
-
 #### (The text in Maori)
     
 *   Schedule text in Maori: substituted, on 6 January 1986, by section 10 of the Treaty of Waitangi Amendment Act 1985 (1985 No 148).
@@ -165,72 +171,29 @@ Ka meatia tenei ki Waitangi i te ono o nga ra o Pepueri i te tau kotahi mano, e 
 
 Ko nga Rangatira o te wakaminenga.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Waitangi Day Act 1976\. The reprint incorporates all the amendments to the Act as at 1 April 2004, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][13] ![](/images/external_link.gif).
+*   This is a reprint of the Waitangi Day Act 1976 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][14] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][16] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][17] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][15] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][18] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][19] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][16] and [17E][17] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 7][12]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Holidays Act 2003 (2003 No 129): [section 91(1)][12]
-    
-    Shop Trading Hours Act Repeal Act 1990 (1990 No 57): [section 6(3)][11]
+    Holidays Act 2003 (2003 No 129): [section 91(1)][13]
     
     Treaty of Waitangi Amendment Act 1985 (1985 No 148): section 10
     
@@ -244,7 +207,7 @@ Ko nga Rangatira o te wakaminenga.
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1976/0033/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1976/0033/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1976/0033/latest/whole.html#DLM439051
 [2]: http://www.legislation.govt.nz/act/public/1976/0033/latest/whole.html#DLM439053
 [3]: http://www.legislation.govt.nz/act/public/1976/0033/latest/whole.html#DLM439054
@@ -252,13 +215,15 @@ Ko nga Rangatira o te wakaminenga.
 [5]: http://www.legislation.govt.nz/act/public/1976/0033/latest/whole.html#DLM439056
 [6]: http://www.legislation.govt.nz/act/public/1976/0033/latest/whole.html#DLM439058
 [7]: http://www.legislation.govt.nz/act/public/1976/0033/latest/whole.html#DLM439062
-[8]: http://www.legislation.govt.nz/act/public/1976/0033/latest/whole.html#DLM439064
-[9]: http://www.legislation.govt.nz/act/public/1976/0033/latest/whole.html#DLM439068
-[10]: http://www.legislation.govt.nz/act/public/1976/0033/latest/link.aspx?id=DLM435834
-[11]: http://www.legislation.govt.nz/act/public/1976/0033/latest/link.aspx?id=DLM212369
-[12]: http://www.legislation.govt.nz/act/public/1976/0033/latest/link.aspx?id=DLM237502
-[13]: http://www.pco.parliament.govt.nz/reprints/
-[14]: http://www.legislation.govt.nz/act/public/1976/0033/latest/link.aspx?id=DLM195439
-[15]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[16]: http://www.legislation.govt.nz/act/public/1976/0033/latest/link.aspx?id=DLM195468
-[17]: http://www.legislation.govt.nz/act/public/1976/0033/latest/link.aspx?id=DLM195470
+[8]: http://www.legislation.govt.nz/act/public/1976/0033/latest/whole.html#DLM5865754
+[9]: http://www.legislation.govt.nz/act/public/1976/0033/latest/whole.html#DLM439064
+[10]: http://www.legislation.govt.nz/act/public/1976/0033/latest/whole.html#DLM439068
+[11]: http://www.legislation.govt.nz/act/public/1976/0033/latest/link.aspx?id=DLM435834
+[12]: http://www.legislation.govt.nz/act/public/1976/0033/latest/link.aspx?id=DLM4929205
+[13]: http://www.legislation.govt.nz/act/public/1976/0033/latest/link.aspx?id=DLM237502
+[14]: http://www.legislation.govt.nz/act/public/1976/0033/latest/link.aspx?id=DLM5865000
+[15]: http://www.legislation.govt.nz/act/public/1976/0033/latest/link.aspx?id=DLM237118
+[16]: http://www.legislation.govt.nz/act/public/1976/0033/latest/link.aspx?id=DLM2998516
+[17]: http://www.legislation.govt.nz/act/public/1976/0033/latest/link.aspx?id=DLM2998515
+[18]: http://www.legislation.govt.nz/act/public/1976/0033/latest/link.aspx?id=DLM2998532
+[19]: http://www.pco.parliament.govt.nz/editorial-conventions/
