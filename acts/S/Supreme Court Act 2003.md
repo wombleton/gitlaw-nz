@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 1 January 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Justice.
 
@@ -264,15 +264,19 @@ Supreme Court of New Zealand
     
     _Supreme Court_ and the _Court_ mean the Supreme Court of New Zealand established by [section 6][9]
     
-    _working day_ means a day that is not---
+    _working day_ means a day of the week other than---
         
-    *   (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, or Waitangi Day; or
+    *   (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
     
-    *   (b) the day observed as anniversary day in Wellington; or
+    *   (b) the day observed as anniversary day in Wellington; and
     
-    *   (c) a day in the period commencing on 25 December in one year and ending with 15 January in the next year.
+    *   (c) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and 
+    
+    *   (d) a day in the period commencing on 25 December in any year and ending with 15 January in the following year.
     
     Section 4 **New Zealand court** paragraph (b): amended, on 1 July 2009, by [section 87][80] of the Court Martial Act 2007 (2007 No 101).
+    
+    Section 4 **working day**: replaced, on 1 January 2014, by [section 8][81] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
 
 ##### 5 Act binds the Crown
     
@@ -284,7 +288,7 @@ Supreme Court of New Zealand
     
 *   This section establishes as the court of final appeal for New Zealand a court of record called the Supreme Court of New Zealand.
     
-    Compare: 1908 No 89 [s 57(1)][81]
+    Compare: 1908 No 89 [s 57(1)][82]
 
 ##### 7 Appeals against decisions of Court of Appeal in civil proceedings
     
@@ -316,11 +320,11 @@ Supreme Court of New Zealand
     
 *   The Supreme Court can hear and determine appeals authorised by---
         
-    *   (a) [Part 6][82] of the Criminal Procedure Act 2011; or
+    *   (a) [Part 6][83] of the Criminal Procedure Act 2011; or
     
-    *   (b) [section 10][83] or [10A][84] of the Court Martial Appeals Act 1953\.
+    *   (b) [section 10][84] or [10A][85] of the Court Martial Appeals Act 1953\.
     
-    Section 10: replaced, on 1 July 2013, by [section 413][85] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 10: replaced, on 1 July 2013, by [section 413][86] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 11 Procedural requirements
     
@@ -328,9 +332,9 @@ Supreme Court of New Zealand
         
     *   (a) the provisions of this Act; and
     
-    *   (b) all applicable rules, orders, and directions for regulating the terms and conditions on which appeals may be allowed, made or given under this Act or the [Judicature Act 1908][86].
+    *   (b) all applicable rules, orders, and directions for regulating the terms and conditions on which appeals may be allowed, made or given under this Act or the [Judicature Act 1908][87].
     
-    Compare: 1908 No 89 [s 66][87]
+    Compare: 1908 No 89 [s 66][88]
 
 #### Leave to appeal to Court
 
@@ -384,7 +388,7 @@ Supreme Court of New Zealand
     
     (4) The Court may consider the written submissions in any manner it thinks fit.
     
-    Compare: 1961 No 43 [s 392B][88]
+    Compare: 1961 No 43 [s 392B][89]
 
 ##### 16 Court to state reasons for refusal to give leave
     
@@ -426,7 +430,7 @@ Supreme Court of New Zealand
     
     (5) This section applies only to permanent Judges.
     
-    Compare: 1908 No 89 [s 57(6)][81]
+    Compare: 1908 No 89 [s 57(6)][82]
 
 ##### 19 Acting Chief Justice
     
@@ -438,9 +442,9 @@ Supreme Court of New Zealand
     
     (4) The fact that the senior Judge of the Supreme Court performs a duty of the Chief Justice or exercises a power of the Chief Justice is conclusive proof of his or her authority to do so. No action of the Judge, and no decision of the Court, may be questioned on the ground that the occasion for the Judge to perform the duty or exercise the power had not arisen or had ceased.
     
-    (5) This section does not affect clause 12 of the [Letters Patent constituting the Office of Governor-General of New Zealand 1983][89] (SR 1983/225).
+    (5) This section does not affect clause 12 of the [Letters Patent constituting the Office of Governor-General of New Zealand 1983][90] (SR 1983/225).
     
-    Compare: 1908 No 89 [s 5][90]
+    Compare: 1908 No 89 [s 5][91]
 
 ##### 20 Judges to be Judges of High Court
     
@@ -456,7 +460,7 @@ Supreme Court of New Zealand
     
     *   (b) may as a Judge of the Supreme Court exercise any of the powers of a Judge of the High Court.
     
-    Compare: 1908 No 89 [s 57(4)][81]
+    Compare: 1908 No 89 [s 57(4)][82]
 
 ##### 21 Judges of other courts vacate office on appointment
     
@@ -464,7 +468,7 @@ Supreme Court of New Zealand
     
     (2) A Judge of the Supreme Court who has vacated office as a Judge of a New Zealand court under subsection (1) may nevertheless continue in office to determine, give judgment in, or otherwise complete, a proceeding heard by the Judge (either alone or with others) when he or she sat in that court.
     
-    Compare: 1908 No 89 [s 88A][91]
+    Compare: 1908 No 89 [s 88A][92]
 
 ##### 22 Term of office of Judges
     
@@ -512,7 +516,7 @@ Supreme Court of New Zealand
     
     (10) An acting Judge may resign office by written notice to the Attorney-General.
     
-    Compare: 1908 No 89 [ss 11A][92], [11B][93]
+    Compare: 1908 No 89 [ss 11A][93], [11B][94]
 
 #### Powers and judgment of Court
 
@@ -534,7 +538,7 @@ Supreme Court of New Zealand
     
 *   The Supreme Court can also remit a proceeding that began in a New Zealand court to any New Zealand court that has jurisdiction to deal with it.
     
-    Compare: 1908 No 89 [s 62][94]
+    Compare: 1908 No 89 [s 62][95]
 
 ##### 27 Exercise of powers of Court
     
@@ -546,11 +550,11 @@ Supreme Court of New Zealand
     
     *   (b) to determine an application for leave to appeal to the Court.
     
-    (3) The delivery of the judgment of the Supreme Court may be effected in any manner, and by any number of Judges, provided by rules made under [section 51C][95] of the Judicature Act 1908\.
+    (3) The delivery of the judgment of the Supreme Court may be effected in any manner, and by any number of Judges, provided by rules made under [section 51C][96] of the Judicature Act 1908\.
     
     (4) Subsection (1) is subject to [sections 28(1)][34] and [30(1)][36].
     
-    Compare: 1908 No 89 [s 58(2)][96]
+    Compare: 1908 No 89 [s 58(2)][97]
 
 ##### 28 Interlocutory orders and directions may be made and given by one Judge
     
@@ -592,7 +596,7 @@ Supreme Court of New Zealand
     
     (3) If at the time appointed for a sitting of the Supreme Court all the Judges are absent, the Registrar must adjourn or further adjourn the sitting to some other time.
     
-    Compare: 1908 No 89 [ss 58D(3)][97], [61][98]
+    Compare: 1908 No 89 [ss 58D(3)][98], [61][99]
 
 ##### 31 Judgment of Court
     
@@ -600,13 +604,13 @@ Supreme Court of New Zealand
     
     (2) If the Judges are equally divided in opinion, the decision appealed from or under review is taken to be affirmed.
     
-    Compare: 1908 No 89 [s 59][99]
+    Compare: 1908 No 89 [s 59][100]
 
 ##### 32 Decisions of Court may be enforced by High Court
     
 *   A judgment, decree, or order of the Supreme Court may be enforced by the High Court as if it had been given or made by the High Court.
     
-    Compare: 1908 No 89 [s 63][100]
+    Compare: 1908 No 89 [s 63][101]
 
 #### Administrative provisions
 
@@ -628,19 +632,19 @@ Supreme Court of New Zealand
     
     (3) If no date is stated for a determination or a provision of a determination, it comes into force on the date on which the determination is made.
     
-    (4) Subsection (2) is subject to the [Remuneration Authority Act 1977][101].
+    (4) Subsection (2) is subject to the [Remuneration Authority Act 1977][102].
     
     (5) This section does not apply to acting Judges.
     
-    Compare: 1908 No 89 [s 9A][102]
+    Compare: 1908 No 89 [s 9A][103]
 
 ##### 34 Fees to be paid into Crown Bank Account
     
 *   All fees received under this Act must be paid into a Crown Bank Account.
     
-    Compare: 1908 No 89 [s 53][103]
+    Compare: 1908 No 89 [s 53][104]
     
-    Section 34: amended, on 25 January 2005, pursuant to [section 65R(3)][104] of the Public Finance Act 1989 (1989 No 44).
+    Section 34: amended, on 25 January 2005, pursuant to [section 65R(3)][105] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 35 Contempt of Court
     
@@ -660,23 +664,23 @@ Supreme Court of New Zealand
     
     (5) Nothing in subsections (1) to (3) limits or affects the power and authority referred to in subsection (4).
     
-    Compare: 1908 No 89 [s 56C][105]
+    Compare: 1908 No 89 [s 56C][106]
     
-    Section 35(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][106] of the Policing Act 2008 (2008 No 72).
+    Section 35(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][107] of the Policing Act 2008 (2008 No 72).
 
 ##### 36 Appointment of officers
     
-*   (1) A Registrar of the Supreme Court must be appointed under the [State Sector Act 1988][107].
+*   (1) A Registrar of the Supreme Court must be appointed under the [State Sector Act 1988][108].
     
     (2) There may also be appointed under that Act Deputy Registrars of the Supreme Court, and any other officers required for the conduct of the Court's business.
     
-    Compare: 1908 No 89 [ss 27][108], [72][109]
+    Compare: 1908 No 89 [ss 27][109], [72][110]
 
 ##### 37 Powers and duties of officers
     
-*   The Registrar, Deputy Registrars, and other officers of the Supreme Court have the powers and duties prescribed by rules made under [section 51C][95] of the Judicature Act 1908\.
+*   The Registrar, Deputy Registrars, and other officers of the Supreme Court have the powers and duties prescribed by rules made under [section 51C][96] of the Judicature Act 1908\.
     
-    Compare: 1908 No 89 [ss 28][110], [73][111]
+    Compare: 1908 No 89 [ss 28][111], [73][112]
 
 ##### 38 Seal
     
@@ -684,7 +688,7 @@ Supreme Court of New Zealand
     
     (2) The Registrar has custody of the seal.
     
-    Compare: 1908 No 89 [s 50][112]
+    Compare: 1908 No 89 [s 50][113]
 
 ##### 39 Regulations
     
@@ -732,9 +736,9 @@ Supreme Court of New Zealand
     
     (2) No fee is payable for an application for the exercise of a power specified in paragraph (d) or paragraph (f) of subsection (1).
     
-    Compare: 1908 No 89 [s 100A][113]
+    Compare: 1908 No 89 [s 100A][114]
     
-    Section 39(1)(h): amended, on 1 January 2004, pursuant to [section 14(2)][114] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 39(1)(h): amended, on 1 January 2004, pursuant to [section 14(2)][115] of the State Sector Amendment Act 2003 (2003 No 41).
 
 ##### 40 Reviews of decisions of Registrars about fees
     
@@ -758,11 +762,11 @@ Supreme Court of New Zealand
     
     (6) No fee is payable for an application under this section.
     
-    Compare: 1908 No 89 [s 100B][115]
+    Compare: 1908 No 89 [s 100B][116]
 
 ##### 41 Technical advisers
     
-*   [Sections 99B to 99D][116] of the Judicature Act 1908 (which relate to the appointment of technical advisers to give advice in appeals in proceedings involving questions arising from expert evidence) apply to the Supreme Court and proceedings in the Supreme Court as if references in those sections to the Court of Appeal were references to the Supreme Court.
+*   [Sections 99B to 99D][117] of the Judicature Act 1908 (which relate to the appointment of technical advisers to give advice in appeals in proceedings involving questions arising from expert evidence) apply to the Supreme Court and proceedings in the Supreme Court as if references in those sections to the Court of Appeal were references to the Supreme Court.
 
 #### Ending of appeals to Her Majesty in Council
 
@@ -783,49 +787,49 @@ Amendments, repeals, transitional provisions, and savings
 
 ##### 43 New sections 4A and 4B of Judicature Act 1908 inserted
     
-*   _Amendment(s) incorporated in the [Act(s)][117]_.
+*   _Amendment(s) incorporated in the [Act(s)][118]_.
 
 ##### 44 Constitution of the Court
     
-*   _Amendment(s) incorporated in the [Act(s)][81]_.
+*   _Amendment(s) incorporated in the [Act(s)][82]_.
 
 ##### 45 Technical advisers
     
-*   _Amendment(s) incorporated in the [Act(s)][116]_.
+*   _Amendment(s) incorporated in the [Act(s)][117]_.
 
 #### Substantive amendment to Te Ture Whenua Maori Act 1993
 
 ##### 46 New sections 58A and 58B inserted
     
-*   _Amendment(s) incorporated in the [Act(s)][118]_.
+*   _Amendment(s) incorporated in the [Act(s)][119]_.
 
 #### Other substantive amendments
 
 ##### 47 Other substantive amendments
     
-*   The enactments specified in [Part 1][119] of Schedule 1 are amended in the manner indicated in that schedule.
+*   The enactments specified in [Part 1][120] of Schedule 1 are amended in the manner indicated in that schedule.
 
 #### Consequential amendments and repeals
 
 ##### 48 Consequential amendments and repeals
     
-*   (1) The enactments specified in [Part 2][120] of Schedule 1 or [Part 1][121] of Schedule 3 are amended in the manner indicated in that schedule.
+*   (1) The enactments specified in [Part 2][121] of Schedule 1 or [Part 1][122] of Schedule 3 are amended in the manner indicated in that schedule.
     
     (2) The enactments specified in [Schedule 2][71] are repealed.
     
-    (3) _Amendment(s) incorporated in the [regulations][122]_.
+    (3) _Amendment(s) incorporated in the [regulations][123]_.
     
-    (4) _Amendment(s) incorporated in the [order(s)][123]_.
+    (4) _Amendment(s) incorporated in the [order(s)][124]_.
     
-    (5) This section has effect as if, at the close of 31 December 2003, [section 12][124] of the Judicature Amendment Act 1979 had ceased to apply to the [Statutes Amendment Act 1947][125], the [Law Practitioners (Victoria Reciprocity) Order 1937][126], and the enactments specified in [Schedule 3][72].
+    (5) This section has effect as if, at the close of 31 December 2003, [section 12][125] of the Judicature Amendment Act 1979 had ceased to apply to the [Statutes Amendment Act 1947][126], the [Law Practitioners (Victoria Reciprocity) Order 1937][127], and the enactments specified in [Schedule 3][72].
 
 ##### 49 Imperial enactments ceasing to have effect in New Zealand
     
 *   On 1 January 2004, the following Imperial enactments cease to have effect as part of the law of New Zealand:
         
-    *   (a) the Imperial enactments listed in [Part 1][127] of Schedule 4:
+    *   (a) the Imperial enactments listed in [Part 1][128] of Schedule 4:
     
-    *   (b) the Imperial subordinate legislation listed in [Part 2][128] of Schedule 4\.
+    *   (b) the Imperial subordinate legislation listed in [Part 2][129] of Schedule 4\.
     
     
 
@@ -911,7 +915,7 @@ Amendments, repeals, transitional provisions, and savings
         
     *   (a) [sections 42][50] and [49][62] had not been enacted; and
     
-    *   (b) the reference in [section 112(1)][129] of the Credit Contracts and Consumer Finance Act 2003 to the Supreme Court included a reference to the Privy Council.
+    *   (b) the reference in [section 112(1)][130] of the Credit Contracts and Consumer Finance Act 2003 to the Supreme Court included a reference to the Privy Council.
     
     
 
@@ -919,7 +923,7 @@ Amendments, repeals, transitional provisions, and savings
     
 *   (1) In subsection (2), _leave application_ means an application to the Supreme Court for leave to appeal to the Supreme Court.
     
-    (2) Until the commencement of the first rules made under [section 51C][95] of the Judicature Act 1908 (or under that section and [section 409][130] of the Crimes Act 1961) containing provisions regulating the making of leave applications,---
+    (2) Until the commencement of the first rules made under [section 51C][96] of the Judicature Act 1908 (or under that section and [section 409][131] of the Crimes Act 1961) containing provisions regulating the making of leave applications,---
         
     *   (a) the rules for the time being in force under that section (or those sections), with all necessary modifications, apply to leave applications as if they were applications for leave to appeal to the Court of Appeal against a decision of the High Court; but
     
@@ -971,23 +975,23 @@ Substantive amendments
 
 ##### Child Support Act 1991 (1991 No 142)
 
-_Amendment(s) incorporated in the [Act(s)][131]_.
+_Amendment(s) incorporated in the [Act(s)][132]_.
 
 ##### Children, Young Persons, and Their Families Act 1989 (1989 No 24)
 
-_Amendment(s) incorporated in the [Act(s)][132]_.
+_Amendment(s) incorporated in the [Act(s)][133]_.
 
 ##### Courts Martial Appeals Act 1953 (1953 No 100)
 
-_Amendment(s) incorporated in the [Act(s)][83]_.
+_Amendment(s) incorporated in the [Act(s)][84]_.
 
 ##### Crimes Act 1961 (1961 No 43)
 
-_Amendment(s) incorporated in the [Act(s)][133]_.
+_Amendment(s) incorporated in the [Act(s)][134]_.
 
 ##### Family Proceedings Act 1980 (1980 No 94)
 
-_Amendment(s) incorporated in the [Act(s)][134]_.
+_Amendment(s) incorporated in the [Act(s)][135]_.
 
 ##### Guardianship Act 1968 (1968 No 63)
 
@@ -995,22 +999,22 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Harassment Act 1997 (1997 No 92)
 
-_Amendment(s) incorporated in the [Act(s)][135]_.
+_Amendment(s) incorporated in the [Act(s)][136]_.
 
 ##### Human Rights Act 1993 (1993 No 82)
 
-_Amendment(s) incorporated in the [Act(s)][136]_.
+_Amendment(s) incorporated in the [Act(s)][137]_.
 
 ##### Summary Proceedings Act 1957 (1957 No 87)
 
-_Amendment(s) incorporated in the [Act(s)][137]_.
+_Amendment(s) incorporated in the [Act(s)][138]_.
 
 ## Part 2  
 Consequential amendments
 
 ##### Animal Products Act 1999 (1999 No 93)
 
-_Amendment(s) incorporated in the [Act(s)][138]._
+_Amendment(s) incorporated in the [Act(s)][139]._
 
 ##### Bail Act 2000 (2000 No 38)
 
@@ -1018,111 +1022,111 @@ _Amendment(s) incorporated in the [Act(s)][76]_.
 
 ##### Commerce Act 1986 (1986 No 5)
 
-_Amendment(s) incorporated in the [Act(s)][139]_.
+_Amendment(s) incorporated in the [Act(s)][140]_.
 
 ##### Courts Security Act 1999 (1999 No 115)
 
-_Amendment(s) incorporated in the [Act(s)][140]_.
+_Amendment(s) incorporated in the [Act(s)][141]_.
 
 ##### Credit Contracts and Consumer Finance Act 2003 (2003 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][129]_.
+_Amendment(s) incorporated in the [Act(s)][130]_.
 
 ##### Crimes Act 1961 (1961 No 43)
 
-_Amendment(s) incorporated in the [Act(s)][141]_.
+_Amendment(s) incorporated in the [Act(s)][142]_.
 
 ##### Crown Proceedings Act 1950 (1950 No 54)
 
-_Amendment(s) incorporated in the [Act(s)][142]_.
+_Amendment(s) incorporated in the [Act(s)][143]_.
 
 ##### Declaratory Judgments Act 1908 (1908 No 220)
 
-_Amendment(s) incorporated in the [Act(s)][143]_.
+_Amendment(s) incorporated in the [Act(s)][144]_.
 
 ##### District Courts Amendment Act 2002 (2002 No 63)
 
-_Amendment(s) incorporated in the [Act(s)][144]_.
+_Amendment(s) incorporated in the [Act(s)][145]_.
 
 ##### Domestic Violence Act 1995 (1995 No 86)
 
-_Amendment(s) incorporated in the [Act(s)][145]._
+_Amendment(s) incorporated in the [Act(s)][146]._
 
 ##### Electoral Act 1993 (1993 No 87)
 
-_Amendment(s) incorporated in the [Act(s)][146]._
+_Amendment(s) incorporated in the [Act(s)][147]._
 
 ##### Electronic Transactions Act 2002 (2002 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][147]._
+_Amendment(s) incorporated in the [Act(s)][148]._
 
 ##### Employment Relations Act 2000 (2000 No 24)
 
-_Amendment(s) incorporated in the [Act(s)][148]._
+_Amendment(s) incorporated in the [Act(s)][149]._
 
 ##### Evidence Act 1908 (1908 No 56)
 
-_Amendment(s) incorporated in the [Act(s)][149]._
+_Amendment(s) incorporated in the [Act(s)][150]._
 
 ##### Habeas Corpus Act 2001 (2001 No 31)
 
-_Amendment(s) incorporated in the [Act(s)][149]._
+_Amendment(s) incorporated in the [Act(s)][150]._
 
 ##### Human Rights Act 1993 (1993 No 82)
 
-_Amendment(s) incorporated in the [Act(s)][150]._
+_Amendment(s) incorporated in the [Act(s)][151]._
 
 ##### Imperial Laws Application Act 1988 (1988 No 112)
 
-_Amendment(s) incorporated in the [Act(s)][151]._
+_Amendment(s) incorporated in the [Act(s)][152]._
 
 ##### Judicature Act 1908 (1908 No 89)
 
-_Amendment(s) incorporated in the [Act(s)][86]._
+_Amendment(s) incorporated in the [Act(s)][87]._
 
 ##### Legal Services Act 2000 (2000 No 42)
 
-_Amendment(s) incorporated in the [Act(s)][86]._
+_Amendment(s) incorporated in the [Act(s)][87]._
 
 ##### Maori Language Act 1987 (1987 No 176)
 
-_Amendment(s) incorporated in the [Act(s)][152]._
+_Amendment(s) incorporated in the [Act(s)][153]._
 
 ##### Oaths and Declarations Act 1957 (1957 No 88)
 
-_Amendment(s) incorporated in the [Act(s)][153]._
+_Amendment(s) incorporated in the [Act(s)][154]._
 
 ##### Privacy Act 1993 (1993 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][154]._
+_Amendment(s) incorporated in the [Act(s)][155]._
 
 ##### Property (Relationships) Act 1976 (1976 No 166)
 
-_Amendment(s) incorporated in the [Act(s)][155]._
+_Amendment(s) incorporated in the [Act(s)][156]._
 
 ##### Protection of Personal and Property Rights Act 1988 (1988 No 4)
 
-_Amendment(s) incorporated in the [Act(s)][156]._
+_Amendment(s) incorporated in the [Act(s)][157]._
 
 ##### Remuneration Authority Act 1977 (1977 No 110)
 
-_Amendment(s) incorporated in the [Act(s)][157]._
+_Amendment(s) incorporated in the [Act(s)][158]._
 
 ##### Resource Management Act 1991 (1991 No 69)
 
-_Amendment(s) incorporated in the [Act(s)][158]._
+_Amendment(s) incorporated in the [Act(s)][159]._
 
 ##### Sentencing Act 2002 (2002 No 9)
 
-_Amendment(s) incorporated in the [Act(s)][159]_.
+_Amendment(s) incorporated in the [Act(s)][160]_.
 
 ##### Statutes Amendment Act 1947 (1947 No 60)
 
-_Amendment(s) incorporated in the [Act(s)][160]_.
+_Amendment(s) incorporated in the [Act(s)][161]_.
 
 ##### Terrorism Suppression Act 2002 (2002 No 34)
 
-_Amendment(s) incorporated in the [Act(s)][161]_.
+_Amendment(s) incorporated in the [Act(s)][162]_.
 
 ---
 
@@ -1133,51 +1137,51 @@ Consequential repeals
 
 ##### Admiralty Act 1973 (1973 No 119)
 
-_Amendment(s) incorporated in the [Act(s)][162]_.
+_Amendment(s) incorporated in the [Act(s)][163]_.
 
 ##### Animal Welfare Act 1999 (1999 No 142)
 
-_Amendment(s) incorporated in the [Act(s)][163]_.
+_Amendment(s) incorporated in the [Act(s)][164]_.
 
 ##### Children, Young Persons, and Their Families Act 1989 (1989 No 24)
 
-_Amendment(s) incorporated in the [Act(s)][164]_.
+_Amendment(s) incorporated in the [Act(s)][165]_.
 
 ##### Dairy Industry Restructuring Act 2001 (2001 No 51)
 
-_Amendment(s) incorporated in the [Act(s)][165]_.
+_Amendment(s) incorporated in the [Act(s)][166]_.
 
 ##### Family Protection Act 1955 (1955 No 88)
 
-_Amendment(s) incorporated in the [Act(s)][166]_.
+_Amendment(s) incorporated in the [Act(s)][167]_.
 
 ##### Harassment Act 1997 (1997 No 92)
 
-_Amendment(s) incorporated in the [Act(s)][167]_.
+_Amendment(s) incorporated in the [Act(s)][168]_.
 
 ##### Judicature Act 1908 (1908 No 89)
 
-_Amendment(s) incorporated in the [Act(s)][86]_.
+_Amendment(s) incorporated in the [Act(s)][87]_.
 
 ##### Judicature Amendment Act 1957 (1957 No 9)
 
-_Amendment(s) incorporated in the [Act(s)][168]_.
+_Amendment(s) incorporated in the [Act(s)][169]_.
 
 ##### Judicature Amendment Act 1985 (1985 No 136)
 
-_Amendment(s) incorporated in the [Act(s)][169]_.
+_Amendment(s) incorporated in the [Act(s)][170]_.
 
 ##### Law Reform (Testamentary Promises) Act 1949 (1949 No 33)
 
-_Amendment(s) incorporated in the [Act(s)][170]_.
+_Amendment(s) incorporated in the [Act(s)][171]_.
 
 ##### Telecommunications Act 2001 (2001 No 103)
 
-_Amendment(s) incorporated in the [Act(s)][171]_.
+_Amendment(s) incorporated in the [Act(s)][172]_.
 
 ##### Te Ture Whenua Maori Act 1993 (1993 No 4)
 
-_Amendment(s) incorporated in the [Act(s)][172]_.
+_Amendment(s) incorporated in the [Act(s)][173]_.
 
 ---
 
@@ -1191,42 +1195,42 @@ Acts
 
 ##### Auckland Baptist Tabernacle Act 1948 (1948 No 4 (P))
 
-_Amendment(s) incorporated in the [Act(s)][173]_.
+_Amendment(s) incorporated in the [Act(s)][174]_.
 
 ##### Church of Jesus Christ of Latter-Day Saints Trust Board Empowering Act 1957 (1957 No 1 (P))
 
-_Amendment(s) incorporated in the [Act(s)][174]_.
+_Amendment(s) incorporated in the [Act(s)][175]_.
 
 ##### John Duncan McGruer Estate Act 1945 (1945 No 4 (P))
 
-_Amendment(s) incorporated in the [Act(s)][175]_.
+_Amendment(s) incorporated in the [Act(s)][176]_.
 
 ##### R O Bradley Estate Act 1972 (1972 No 3 (P))
 
-_Amendment(s) incorporated in the [Act(s)][176]_.
+_Amendment(s) incorporated in the [Act(s)][177]_.
 
 ##### Wanganui Orphanage Trust Extension Act 1960 (1960 No 1 (P))
 
-_Amendment(s) incorporated in the [Act(s)][177]_.
+_Amendment(s) incorporated in the [Act(s)][178]_.
 
 ##### Wellington Waterworks Act 1871 (1871 No 3 (P))
 
-_Amendment(s) incorporated in the [Act(s)][178]_.
+_Amendment(s) incorporated in the [Act(s)][179]_.
 
 ## Part 2  
 Subordinate legislation
 
 ##### Adoption Regulations 1959 (SR 1959/109)
 
-_Amendment(s) incorporated in the [regulations][179]_.
+_Amendment(s) incorporated in the [regulations][180]_.
 
 ##### Animal Remedies Regulations 1980 (SR 1980/145)
 
-_Amendment(s) incorporated in the [regulations][180]_.
+_Amendment(s) incorporated in the [regulations][181]_.
 
 ##### Courts-Martial Appeal Rules 1954 (SR 1954/215)
 
-_Amendment(s) incorporated in the [rules][181]_.
+_Amendment(s) incorporated in the [rules][182]_.
 
 ##### Gaming and Lotteries (Licensed Promoters) Regulations 1978 (SR 1978/144)
 
@@ -1234,79 +1238,79 @@ _Amendment(s) incorporated in the regulations_.
 
 ##### Incorporated Societies Regulations 1979 (SR 1979/93)
 
-_Amendment(s) incorporated in the [regulations][182]_.
+_Amendment(s) incorporated in the [regulations][183]_.
 
 ##### Joint Family Homes Regulations 1965 (SR 1965/65)
 
-_Amendment(s) incorporated in the [regulations][183]_.
+_Amendment(s) incorporated in the [regulations][184]_.
 
 ##### Licensed Interpreters Regulations 1958 (SR 1958/22)
 
-_Amendment(s) incorporated in the [regulations][184]_.
+_Amendment(s) incorporated in the [regulations][185]_.
 
 ##### Patents Regulations 1954 (SR 1954/211)
 
-_Amendment(s) incorporated in the [regulations][185]_.
+_Amendment(s) incorporated in the [regulations][186]_.
 
 ##### Periodic Detention Order 1966 (SR 1966/182)
 
-_Amendment(s) incorporated in the [order(s)][186]_.
+_Amendment(s) incorporated in the [order(s)][187]_.
 
 ##### Periodic Detention Order 1967 (SR 1967/31)
 
-_Amendment(s) incorporated in the [order(s)][187]_.
+_Amendment(s) incorporated in the [order(s)][188]_.
 
 ##### Periodic Detention Order 1968 (SR 1968/112)
 
-_Amendment(s) incorporated in the [order(s)][188]_.
+_Amendment(s) incorporated in the [order(s)][189]_.
 
 ##### Periodic Detention Order 1971 (SR 1971/253)
 
-_Amendment(s) incorporated in the [order(s)][189]_.
+_Amendment(s) incorporated in the [order(s)][190]_.
 
 ##### Periodic Detention Order 1972 (SR 1972/41)
 
-_Amendment(s) incorporated in the [order(s)][190]_.
+_Amendment(s) incorporated in the [order(s)][191]_.
 
 ##### Periodic Detention Order (No 2) 1972 (SR 1972/89)
 
-_Amendment(s) incorporated in the [order(s)][191]_.
+_Amendment(s) incorporated in the [order(s)][192]_.
 
 ##### Periodic Detention Order (No 3) 1972 (SR 1972/99)
 
-_Amendment(s) incorporated in the [order(s)][192]_.
+_Amendment(s) incorporated in the [order(s)][193]_.
 
 ##### Periodic Detention Order (No 4) 1972 (SR 1972/144)
 
-_Amendment(s) incorporated in the [order(s)][193]_.
+_Amendment(s) incorporated in the [order(s)][194]_.
 
 ##### Periodic Detention Order 1973 (SR 1973/60)
 
-_Amendment(s) incorporated in the [order(s)][194]_.
+_Amendment(s) incorporated in the [order(s)][195]_.
 
 ##### Periodic Detention Order (No 3) 1973 (SR 1973/190)
 
-_Amendment(s) incorporated in the [order(s)][195]_.
+_Amendment(s) incorporated in the [order(s)][196]_.
 
 ##### Periodic Detention Order (No 4) 1973 (SR 1973/204)
 
-_Amendment(s) incorporated in the [order(s)][196]_.
+_Amendment(s) incorporated in the [order(s)][197]_.
 
 ##### Periodic Detention Order (No 2) 1974 (SR 1974/66)
 
-_Amendment(s) incorporated in the [order(s)][197]_.
+_Amendment(s) incorporated in the [order(s)][198]_.
 
 ##### Periodic Detention Order (No 4) 1974 (SR 1974/239)
 
-_Amendment(s) incorporated in the [order(s)][198]_.
+_Amendment(s) incorporated in the [order(s)][199]_.
 
 ##### Real Estate Agents Regulations 1977 (SR 1977/248)
 
-_Amendment(s) incorporated in the [regulations][199]_.
+_Amendment(s) incorporated in the [regulations][200]_.
 
 ##### Trust Estates Audit Regulations 1958 (SR 1958/71)
 
-_Amendment(s) incorporated in the [regulations][200]_.
+_Amendment(s) incorporated in the [regulations][201]_.
 
 ---
 
@@ -1324,7 +1328,7 @@ The final paragraph of section 6\.
 
 ##### Appellate Jurisdiction Act 1887 (50 and 51 Vict, No c 70)
 
-[Sections 3][201] and [5][202].
+[Sections 3][202] and [5][203].
 
 ##### Appellate Jurisdiction Act 1908 (8 Edw 7, No c 51)
 
@@ -1332,15 +1336,15 @@ Sections 1, 3(1), 4, 5, and 7\.
 
 ##### Court of Chancery Act 1851 (14 and 15 Vict, No c 83)
 
-[Section 16][203] (as amended by [section 1][204] of the Statute Law Revision Act 1875 (38 and 39 Vict, c 66).
+[Section 16][204] (as amended by [section 1][205] of the Statute Law Revision Act 1875 (38 and 39 Vict, c 66).
 
 ##### Judicial Committee Act 1833 (3 and 4 Will 4, No c 41)
 
-[Section 1][205] (as amended by [section 1][206] of the Statute Law Revision Act 1874 (37 and 38 Vict, c 35) and [section 1][207] of the Statute Law Revision (No 2) Act 1888 (51 and 52 Vict, c 57)), [section 3][208], [section 5][209] (as amended by [section 16][203] of the Court of Chancery Act 1851 (14 and 15 Vict, c 83)), sections 6 to 9, 11 to 13, 15 to 21, 23, and 24, and section 28 (as amended by section 6 of the Judicial Committee Act 1843 (6 and 7 Vict, c 38)).
+[Section 1][206] (as amended by [section 1][207] of the Statute Law Revision Act 1874 (37 and 38 Vict, c 35) and [section 1][208] of the Statute Law Revision (No 2) Act 1888 (51 and 52 Vict, c 57)), [section 3][209], [section 5][210] (as amended by [section 16][204] of the Court of Chancery Act 1851 (14 and 15 Vict, c 83)), sections 6 to 9, 11 to 13, 15 to 21, 23, and 24, and section 28 (as amended by section 6 of the Judicial Committee Act 1843 (6 and 7 Vict, c 38)).
 
 ##### Judicial Committee Act 1844 (7 and 8 Vict, No c 69)
 
-[Sections 1][210] and [8][211].
+[Sections 1][211] and [8][212].
 
 ##### Judicial Committee Act 1881 (44 and 45 Vict, No c 3)
 
@@ -1348,11 +1352,11 @@ Sections 1, 3(1), 4, 5, and 7\.
 
 ##### Judicial Committee Amendment Act 1895 (58 and 59 Vict, No c 44)
 
-as amended by [section 3][212] of the Appellate Jurisdiction Act 1913 (3 and 4 Geo 5, c 21) and [section 13][213] of the Administration of Justice Act 1928 (UK).
+as amended by [section 3][213] of the Appellate Jurisdiction Act 1913 (3 and 4 Geo 5, c 21) and [section 13][214] of the Administration of Justice Act 1928 (UK).
 
 ##### Naval Prize Act 1864 (27 and 28 Vict No c 25)
 
-[Sections 4 to 6][214], [9][215], and [13][216].
+[Sections 4 to 6][215], [9][216], and [13][217].
 
 ##### Privy Council Registrar Act 1853 (16 and 17 Vict, No c 85)
 
@@ -1367,82 +1371,41 @@ Imperial subordinate legislation
 
 1982 No 1676---The Judicial Committee (General Appellate Jurisdiction) Rules Order 1982 (SI 1982/1676).
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Supreme Court Act 2003\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
+*   This is a reprint of the Supreme Court Act 2003 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][217] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][218] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][219] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ http://www.pco.parliament.govt.nz/editorial-conventions/ or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][220] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][221] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][218] and [17E][219] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][81]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][86]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Criminal Procedure Act 2011 (2011 No 81): [section 413][85]
-    
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][106]
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][107]
     
     Court Martial Act 2007 (2007 No 101): [section 87][80]
     
-    State Sector Amendment Act 2003 (2003 No 41): [section 14(2)][114]
+    State Sector Amendment Act 2003 (2003 No 41): [section 14(2)][115]
     
-    Public Finance Act 1989 (1989 No 44): [section 65R(3)][104]
+    Public Finance Act 1989 (1989 No 44): [section 65R(3)][105]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2003/0053/latest/whole.html#DLM214031
 [2]: http://www.legislation.govt.nz/act/public/2003/0053/latest/whole.html#DLM214032
 [3]: http://www.legislation.govt.nz/act/public/2003/0053/latest/whole.html#DLM214033
@@ -1523,142 +1486,144 @@ Imperial subordinate legislation
 [78]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM1001934
 [79]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM282966
 [80]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM1002056
-[81]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM146928
-[82]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM3360366
-[83]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM283262
-[84]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM283267
-[85]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM3360714
-[86]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM144692
-[87]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM147320
-[88]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM332119
-[89]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM90804
-[90]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM145573
-[91]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM147390
-[92]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM145701
-[93]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM145705
-[94]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM147307
-[95]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM146607
-[96]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM146949
-[97]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM146975
-[98]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM147300
-[99]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM146984
-[100]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM147309
-[101]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM15636
-[102]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM145586
-[103]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM146627
-[104]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM162942
-[105]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM146679
-[106]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM1102349
-[107]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM129109
-[108]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM146440
-[109]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM147346
-[110]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM146443
-[111]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM147350
-[112]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM146491
-[113]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM147641
-[114]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM201378
-[115]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM147648
-[116]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM147630
-[117]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM145567
-[118]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM290940
-[119]: http://www.legislation.govt.nz/act/public/2003/0053/latest/whole.html#DLM214532
-[120]: http://www.legislation.govt.nz/act/public/2003/0053/latest/whole.html#DLM214550
-[121]: http://www.legislation.govt.nz/act/public/2003/0053/latest/whole.html#DLM214913
-[122]: http://www.legislation.govt.nz/act/public/2003/0053/latest/whole.html#DLM1942060
-[123]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM2202
-[124]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM35049
-[125]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM246253
-[126]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM2094
-[127]: http://www.legislation.govt.nz/act/public/2003/0053/latest/whole.html#DLM214945
-[128]: http://www.legislation.govt.nz/act/public/2003/0053/latest/whole.html#DLM214956
-[129]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM213198
-[130]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM332190
-[131]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM253150
-[132]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM154082
-[133]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM332186
-[134]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM41865
-[135]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM417077
-[136]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM305447
-[137]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM313122
-[138]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM35782
-[139]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM87622
-[140]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM43063
-[141]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM327381
-[142]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM261472
-[143]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM176509
-[144]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM168715
-[145]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM372836
-[146]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM308116
-[147]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM154861
-[148]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM61425
-[149]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM142521
-[150]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM304211
-[151]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM135073
-[152]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM124187
-[153]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM314584
-[154]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM297482
-[155]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM440944
-[156]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM127519
-[157]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM16119
-[158]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM237253
-[159]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM135341
-[160]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM246607
-[161]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM153327
-[162]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM411670
-[163]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM49663
-[164]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM154084
-[165]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM109537
-[166]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM292017
-[167]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM417778
-[168]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM308782
-[169]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM81023
-[170]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM258729
-[171]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM126440
-[172]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM290961
-[173]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM99643
-[174]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM102748
-[175]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM99143
-[176]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM107078
-[177]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM103289
-[178]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM89227
-[179]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM13673
-[180]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM71014
-[181]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM8036
-[182]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM65791
-[183]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM21368
-[184]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM11218
-[185]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM7713
-[186]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM24952
-[187]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM25457
-[188]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM28716
-[189]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM35971
-[190]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM36543
-[191]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM36585
-[192]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM36593
-[193]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM37874
-[194]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM39306
-[195]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM39863
-[196]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM39871
-[197]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM42060
-[198]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM45118
-[199]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM58490
-[200]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM12506
-[201]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM12605
-[202]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM12606
-[203]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM11850
-[204]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM12364
-[205]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM11538
-[206]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM12353
-[207]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM12615
-[208]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM12616
-[209]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM11541
-[210]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM11835
-[211]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM11836
-[212]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM12662
-[213]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM12812
-[214]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM12233
-[215]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM12242
-[216]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM12247
-[217]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM195439
-[218]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM195468
-[219]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM195470
+[81]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM4929207
+[82]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM146928
+[83]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM3360366
+[84]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM283262
+[85]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM283267
+[86]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM3360714
+[87]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM144692
+[88]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM147320
+[89]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM332119
+[90]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM90804
+[91]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM145573
+[92]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM147390
+[93]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM145701
+[94]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM145705
+[95]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM147307
+[96]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM146607
+[97]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM146949
+[98]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM146975
+[99]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM147300
+[100]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM146984
+[101]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM147309
+[102]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM15636
+[103]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM145586
+[104]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM146627
+[105]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM162942
+[106]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM146679
+[107]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM1102349
+[108]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM129109
+[109]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM146440
+[110]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM147346
+[111]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM146443
+[112]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM147350
+[113]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM146491
+[114]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM147641
+[115]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM201378
+[116]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM147648
+[117]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM147630
+[118]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM145567
+[119]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM290940
+[120]: http://www.legislation.govt.nz/act/public/2003/0053/latest/whole.html#DLM214532
+[121]: http://www.legislation.govt.nz/act/public/2003/0053/latest/whole.html#DLM214550
+[122]: http://www.legislation.govt.nz/act/public/2003/0053/latest/whole.html#DLM214913
+[123]: http://www.legislation.govt.nz/act/public/2003/0053/latest/whole.html#DLM1942060
+[124]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM2202
+[125]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM35049
+[126]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM246253
+[127]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM2094
+[128]: http://www.legislation.govt.nz/act/public/2003/0053/latest/whole.html#DLM214945
+[129]: http://www.legislation.govt.nz/act/public/2003/0053/latest/whole.html#DLM214956
+[130]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM213198
+[131]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM332190
+[132]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM253150
+[133]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM154082
+[134]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM332186
+[135]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM41865
+[136]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM417077
+[137]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM305447
+[138]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM313122
+[139]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM35782
+[140]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM87622
+[141]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM43063
+[142]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM327381
+[143]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM261472
+[144]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM176509
+[145]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM168715
+[146]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM372836
+[147]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM308116
+[148]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM154861
+[149]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM61425
+[150]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM142521
+[151]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM304211
+[152]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM135073
+[153]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM124187
+[154]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM314584
+[155]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM297482
+[156]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM440944
+[157]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM127519
+[158]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM16119
+[159]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM237253
+[160]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM135341
+[161]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM246607
+[162]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM153327
+[163]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM411670
+[164]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM49663
+[165]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM154084
+[166]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM109537
+[167]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM292017
+[168]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM417778
+[169]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM308782
+[170]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM81023
+[171]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM258729
+[172]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM126440
+[173]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM290961
+[174]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM99643
+[175]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM102748
+[176]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM99143
+[177]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM107078
+[178]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM103289
+[179]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM89227
+[180]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM13673
+[181]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM71014
+[182]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM8036
+[183]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM65791
+[184]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM21368
+[185]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM11218
+[186]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM7713
+[187]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM24952
+[188]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM25457
+[189]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM28716
+[190]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM35971
+[191]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM36543
+[192]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM36585
+[193]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM36593
+[194]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM37874
+[195]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM39306
+[196]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM39863
+[197]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM39871
+[198]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM42060
+[199]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM45118
+[200]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM58490
+[201]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM12506
+[202]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM12605
+[203]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM12606
+[204]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM11850
+[205]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM12364
+[206]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM11538
+[207]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM12353
+[208]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM12615
+[209]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM12616
+[210]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM11541
+[211]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM11835
+[212]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM11836
+[213]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM12662
+[214]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM12812
+[215]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM12233
+[216]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM12242
+[217]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM12247
+[218]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM2998516
+[219]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM2998515
+[220]: http://www.legislation.govt.nz/act/public/2003/0053/latest/link.aspx?id=DLM2998532
+[221]: http://www.pco.parliament.govt.nz/editorial-conventions/
