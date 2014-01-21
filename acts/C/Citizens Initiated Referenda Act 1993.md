@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 1 January 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Justice.
 
@@ -270,6 +270,8 @@ An Act to provide for the holding, on specific questions, of citizens initiated 
         
     *   (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
     
+    *   (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    
     *   (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year.
     
     Section 2 **applicant**: inserted, on 15 November 2000, by [section 83][98] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
@@ -303,11 +305,13 @@ An Act to provide for the holding, on specific questions, of citizens initiated 
     Section 2 **respondent**: inserted, on 15 November 2000, by [section 83][98] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
     
     Section 2 **voting period**: inserted, on 15 November 2000, by [section 83][98] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    
+    Section 2 **working day** paragraph (ab): inserted, on 1 January 2014, by [section 8][101] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
 
 ## Part 1  
 Indicative referendum petition
     
-*   Heading: substituted, on 15 November 2000, by [section 84][101] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+*   Heading: substituted, on 15 November 2000, by [section 84][102] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ##### 3 Indicative referendum petition
     
@@ -315,9 +319,9 @@ Indicative referendum petition
 
 ##### 4 Prohibitions
     
-*   An indicative referendum petition shall not relate to a matter that is or could be or could have been the subject of an election petition under [Part 8][102] of the Electoral Act 1993 or of an application under this Act.
+*   An indicative referendum petition shall not relate to a matter that is or could be or could have been the subject of an election petition under [Part 8][103] of the Electoral Act 1993 or of an application under this Act.
     
-    Section 4: amended, on 15 November 2000, by [section 85][103] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 4: amended, on 15 November 2000, by [section 85][104] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
     
     Section 4: amended, on 1 July 1995, by section 3 of the Citizens Initiated Referenda Amendment Act 1994 (1994 No 146).
 
@@ -427,7 +431,7 @@ Indicative referendum petition
     
     *   (c) the indicative referendum petition to which the proposal relates would contravene [section 4][6].
     
-    Section 11(2)(a)(iii): amended, on 1 July 1994, by [section 2][104] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 11(2)(a)(iii): amended, on 1 July 1994, by [section 2][105] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
 
 ##### 12 Approval of form
     
@@ -537,7 +541,7 @@ Indicative referendum petition
     
     *   (b) take, from the signatures to the indicative referendum petition, the number of signatures calculated under paragraph (a).
     
-    (2) The Clerk of the House of Representatives must give to the Electoral Commission established by [section 4B][105] of the Electoral Act 1993 the signatures taken under subsection (1)(b).
+    (2) The Clerk of the House of Representatives must give to the Electoral Commission established by [section 4B][106] of the Electoral Act 1993 the signatures taken under subsection (1)(b).
     
     (3) The Electoral Commission must check whether or not the signatories are eligible electors and shall give the result to the Clerk of the House of Representatives.
     
@@ -545,9 +549,9 @@ Indicative referendum petition
     
     Section 19: substituted, on 6 December 1995, by section 6 of the Citizens Initiated Referenda Amendment Act 1995 (1995 No 62).
     
-    Section 19(2): replaced, on 1 July 2012, by [section 54(2)][106] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 19(2): replaced, on 1 July 2012, by [section 54(2)][107] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
-    Section 19(3): amended, on 1 July 2012, by [section 54(3)][106] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 19(3): amended, on 1 July 2012, by [section 54(3)][107] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
 
 ##### 20 Power to resubmit rejected indicative referendum petition
     
@@ -577,9 +581,9 @@ Indicative referendum petition
         
     *   (a) make an Order in Council appointing, in accordance with [section 22AA][25], the date on which the indicative referendum is to be held under this Act; or
     
-    *   (b) make an Order in Council under [section 5(b)][107] of the Referenda (Postal Voting) Act 2000 specifying the indicative referendum as a referendum that must be conducted by postal voting.
+    *   (b) make an Order in Council under [section 5(b)][108] of the Referenda (Postal Voting) Act 2000 specifying the indicative referendum as a referendum that must be conducted by postal voting.
     
-    Section 22: substituted, on 15 November 2000, by [section 86][108] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 22: substituted, on 15 November 2000, by [section 86][109] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ##### 22AA Date of indicative referendum not conducted by postal voting
     
@@ -601,15 +605,15 @@ Indicative referendum petition
     
     (5) The circumstances referred to in subsection (2) are that---
         
-    *   (a) a general election must be held on a date that is within 12 months after the date on which the indicative referendum petition is presented to the House of Representatives (because of [section 17][109] of the Constitution Act 1986); and
+    *   (a) a general election must be held on a date that is within 12 months after the date on which the indicative referendum petition is presented to the House of Representatives (because of [section 17][110] of the Constitution Act 1986); and
     
     *   (b) the House of Representatives passes a resolution requiring the indicative referendum to be held on the polling day for the general election.
     
     (6) In the circumstances described in subsection (5), the indicative referendum is held on polling day.
     
-    (7) If a writ for a general election is issued under [section 125][110] of the Electoral Act 1993 after an Order in Council has been made under [section 22(2)(a)][24], the Governor-General may, by Order in Council, revoke the former Order in Council and appoint the polling day for the general election as the day on which the indicative referendum is to be held.
+    (7) If a writ for a general election is issued under [section 125][111] of the Electoral Act 1993 after an Order in Council has been made under [section 22(2)(a)][24], the Governor-General may, by Order in Council, revoke the former Order in Council and appoint the polling day for the general election as the day on which the indicative referendum is to be held.
     
-    Section 22AA: inserted, on 15 November 2000, by [section 86][108] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 22AA: inserted, on 15 November 2000, by [section 86][109] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
     
     Section 22AA(7): amended, on 28 February 2002, by [section 101(2)][100] of the Electoral Amendment Act 2002 (2002 No 1).
 
@@ -617,7 +621,7 @@ Indicative referendum petition
     
 *   (1) This section applies when the Governor-General makes an Order in Council in accordance with [section 22(2)(b)][24] specifying that the indicative referendum be conducted by postal voting.
     
-    (2) The Friday appointed by the Governor-General under [section 30(2)][111] of the Referenda (Postal Voting) Act 2000 must be within 12 months after the date on which the indicative referendum petition is presented to the House of Representatives.
+    (2) The Friday appointed by the Governor-General under [section 30(2)][112] of the Referenda (Postal Voting) Act 2000 must be within 12 months after the date on which the indicative referendum petition is presented to the House of Representatives.
     
     (3) However, subsection (2) does not apply in the circumstances described in subsection (4) or subsection (6).
     
@@ -633,21 +637,21 @@ Indicative referendum petition
     
     (5) In the circumstances described in subsection (4),---
         
-    *   (a) the Governor-General does not appoint a Friday under [section 30(2)][111] of the Referenda (Postal Voting) Act 2000; and
+    *   (a) the Governor-General does not appoint a Friday under [section 30(2)][112] of the Referenda (Postal Voting) Act 2000; and
     
     *   (b) the date on which the voting period closes is the date fixed by the House of Representatives.
     
     (6) The circumstances referred to in subsection (3) are that---
         
-    *   (a) a general election must be held on a date that is within 12 months after the date on which the indicative referendum petition is presented to the House of Representatives (because of [section 17][109] of the Constitution Act 1986); and
+    *   (a) a general election must be held on a date that is within 12 months after the date on which the indicative referendum petition is presented to the House of Representatives (because of [section 17][110] of the Constitution Act 1986); and
     
     *   (b) the House of Representatives passes a resolution requiring the voting period to close on the polling day for the general election.
     
     (7) In the circumstances described in subsection (6), the date on which the voting period closes is polling day.
     
-    (8) If a writ for a general election is issued under [section 125][110] of the Electoral Act 1993 after an Order in Council has been made in accordance with [section 22(2)(b)][24], the Governor-General may, by Order in Council, revoke the former Order in Council and appoint the polling day for the general election as the day on which the voting period closes.
+    (8) If a writ for a general election is issued under [section 125][111] of the Electoral Act 1993 after an Order in Council has been made in accordance with [section 22(2)(b)][24], the Governor-General may, by Order in Council, revoke the former Order in Council and appoint the polling day for the general election as the day on which the voting period closes.
     
-    Section 22AB: inserted, on 15 November 2000, by [section 86][108] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 22AB: inserted, on 15 November 2000, by [section 86][109] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
     
     Section 22AB(8): amended, on 28 February 2002, by [section 101(2)][100] of the Electoral Amendment Act 2002 (2002 No 1).
 
@@ -673,12 +677,12 @@ Indicative referendum petition
     
 *   (1) The Clerk of the House of Representatives shall not delegate to any other person (other than the Deputy Clerk of the House of Representatives) all or any of the Clerk's functions under any of the provisions of [sections 9][11], [11][13], [12][14], [13][15], [18][20], and [19][21].
     
-    (2) Nothing in this section affects the operation of [section 5][112] or [section 6][113] of the Clerk of the House of Representatives Act 1988\.
+    (2) Nothing in this section affects the operation of [section 5][113] or [section 6][114] of the Clerk of the House of Representatives Act 1988\.
 
 ## Part 2  
 Indicative referendum
     
-*   Heading: substituted, on 15 November 2000, by [section 87][114] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+*   Heading: substituted, on 15 November 2000, by [section 87][115] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ##### 24 Application of Electoral Act 1993 to indicative referendum not conducted by postal voting
     
@@ -690,17 +694,17 @@ Indicative referendum
     
     (4) The provisions of the [Electoral Act 1993][95] and of any regulations made under that Act, as far as they are applicable and with the necessary modifications, apply to the indicative referendum as if it were an electoral poll.
     
-    (5) However, the sections of the [Electoral Act 1993][95] that do not apply to an indicative referendum are [sections 4B to 9][105], [28 to 38][115], [41 to 45(8)][116], [46 to 59][117], [62 to 71][118], [113][119], [125 to 140][110], [143 to 146L][120], [148 to 154][121], [157(2)][122], [160(1), (3), (4), and (8)][123], [165(1)(b)][124], [168(1) to (3)][125], [170(6)][126], [174(4)][127], [179(1)(a)][128], [180(1) to (5)][129], 180(7)(e), [181][130], [183][131], [185][132], [186][133], [191 to 193A][134], [196A][135], [197 to 199][136], [203 to 210F][137], [221A][138], [229 to 231][139], [236(3)][140], 236(8), [237 to 239][141], [243 to 246][142], [256(1)(c)][143], 256(2), 256(3), [258 to 262][144], [264][145], [267][146], [268][147], and [269 to 284][148].
+    (5) However, the sections of the [Electoral Act 1993][95] that do not apply to an indicative referendum are [sections 4B to 9][106], [28 to 38][116], [41 to 45(8)][117], [46 to 59][118], [62 to 71][119], [113][120], [125 to 140][111], [143 to 146L][121], [148 to 154][122], [157(2)][123], [160(1), (3), (4), and (8)][124], [165(1)(b)][125], [168(1) to (3)][126], [170(6)][127], [174(4)][128], [179(1)(a)][129], [180(1) to (5)][130], 180(7)(e), [181][131], [183][132], [185][133], [186][134], [191 to 193A][135], [196A][136], [197 to 199][137], [203 to 210F][138], [221A][139], [229 to 231][140], [236(3)][141], 236(8), [237 to 239][142], [243 to 246][143], [256(1)(c)][144], 256(2), 256(3), [258 to 262][145], [264][146], [267][147], [268][148], and [269 to 284][149].
     
-    Section 24: substituted, on 15 November 2000, by [section 88][149] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 24: substituted, on 15 November 2000, by [section 88][150] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
     
     Section 24(5): substituted, on 28 February 2002, by [section 101(2)][100] of the Electoral Amendment Act 2002 (2002 No 1).
     
-    Section 24(5): amended, on 1 January 2011, by [section 38][150] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 24(5): amended, on 1 January 2011, by [section 38][151] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
     Section 24(5): amended, on 1 October 2010, by [section 32(2)(b)][99] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
     
-    Section 24(5): amended, on 20 December 2007, by [section 150][151] of the Electoral Finance Act 2007 (2007 No 111).
+    Section 24(5): amended, on 20 December 2007, by [section 150][152] of the Electoral Finance Act 2007 (2007 No 111).
 
 ##### 24A Application of Electoral Act 1993 to indicative referendum conducted by postal voting
     
@@ -708,17 +712,17 @@ Indicative referendum
     
     (2) The provisions of the [Electoral Act 1993][95] and of any regulations made under that Act apply to the indicative referendum to the extent provided by the [Referenda (Postal Voting) Act 2000][97]. The provisions invoked by the Referenda (Postal Voting) Act 2000 apply to the indicative referendum as far as they are applicable and with the necessary modifications.
     
-    (3) However, the sections of the [Electoral Act 1993][95] that do not apply to an indicative referendum conducted by postal voting are [sections 4B to 9][105], [28 to 38][115], [41 to 45(8)][116], [46 to 59][117], [61 to 71][152], [113][119], [125 to 177][110], [178(8)][153], [179(1)(a)][128], [180(1) to (5)][129], 180(7)(e), [181 to 199][130], [203 to 205S][137], [207 to 207P][154] (so far as they are applicable to candidate donations), [209 to 209E][155], [215 to 219][156], [221A][138], [229 to 231][139], [236(3)][140], 236(8), [237 to 239][141], [243 to 246][142], [256(1)(c)][143], 256(2), 256(3), [258 to 262][144], [264][145], and [266 to 284][157].
+    (3) However, the sections of the [Electoral Act 1993][95] that do not apply to an indicative referendum conducted by postal voting are [sections 4B to 9][106], [28 to 38][116], [41 to 45(8)][117], [46 to 59][118], [61 to 71][153], [113][120], [125 to 177][111], [178(8)][154], [179(1)(a)][129], [180(1) to (5)][130], 180(7)(e), [181 to 199][131], [203 to 205S][138], [207 to 207P][155] (so far as they are applicable to candidate donations), [209 to 209E][156], [215 to 219][157], [221A][139], [229 to 231][140], [236(3)][141], 236(8), [237 to 239][142], [243 to 246][143], [256(1)(c)][144], 256(2), 256(3), [258 to 262][145], [264][146], and [266 to 284][158].
     
-    Section 24A: inserted, on 15 November 2000, by [section 88][149] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 24A: inserted, on 15 November 2000, by [section 88][150] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
     
-    Section 24A(3): amended, on 1 January 2011, by [section 39(a)][158] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 24A(3): amended, on 1 January 2011, by [section 39(a)][159] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
-    Section 24A(3): amended, on 1 January 2011, by [section 39(b)][158] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
+    Section 24A(3): amended, on 1 January 2011, by [section 39(b)][159] of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137).
     
     Section 24A(3): amended, on 1 October 2010, by [section 32(2)(b)][99] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
     
-    Section 24A(3): amended, on 1 March 2009, by [section 16][159] of the Electoral Amendment Act 2009 (2009 No 1).
+    Section 24A(3): amended, on 1 March 2009, by [section 16][160] of the Electoral Amendment Act 2009 (2009 No 1).
     
     Section 24A(3): amended, on 28 February 2002, by [section 101(2)][100] of the Electoral Amendment Act 2002 (2002 No 1).
 
@@ -728,7 +732,7 @@ Indicative referendum
     
     (2) [Sections 27][39], [29 to 38][41], [40A][54], [40B][55], [48 to 51G][66], [52][81], [53][82], [54][85], and [58][90] do not apply to the indicative referendum.
     
-    Section 24B: inserted, on 15 November 2000, by [section 88][149] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 24B: inserted, on 15 November 2000, by [section 88][150] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ##### 25 Governor-General's warrant for issue of writ: indicative referendum not conducted by postal voting
     
@@ -746,7 +750,7 @@ Indicative referendum
     
 *   (1) This section applies when the Governor-General makes an Order in Council, under [section 22(2)(a)][24] or [section 22AA(7)][25], appointing the date on which an indicative referendum is to be held under this Act.
     
-    (2) The Governor-General must issue a writ in [form 2][160] of the Schedule to the Electoral Commission requiring the Electoral Commission to make all necessary arrangements for the conduct of the indicative referendum.
+    (2) The Governor-General must issue a writ in [form 2][161] of the Schedule to the Electoral Commission requiring the Electoral Commission to make all necessary arrangements for the conduct of the indicative referendum.
     
     (3) If the indicative referendum is to be held on the polling day for a general election, the writ must be issued on the day on which the writ for the general election is issued.
     
@@ -768,7 +772,7 @@ Indicative referendum
     
 *   (1) This section applies when the Governor-General makes an Order in Council in accordance with [section 22(2)(b)][24] specifying the indicative referendum as a referendum that must be conducted by postal voting.
     
-    (2) The Governor-General must issue a writ in [form 2A][161] of the Schedule to the Electoral Commission requiring the Electoral Commission to conduct the indicative referendum.
+    (2) The Governor-General must issue a writ in [form 2A][162] of the Schedule to the Electoral Commission requiring the Electoral Commission to conduct the indicative referendum.
     
     (3) If the voting period for the indicative referendum ends on the polling day for a general election, the writ must be issued on the day on which the writ for the general election is issued.
     
@@ -782,7 +786,7 @@ Indicative referendum
     
     Section 26A(2): amended, on 1 October 2010, by [section 32(1)(b)][99] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
     
-    Section 26A(6): replaced, on 25 February 2012, by [section 4][162] of the Citizens Initiated Referenda Amendment Act 2012 (2012 No 5).
+    Section 26A(6): replaced, on 25 February 2012, by [section 4][163] of the Citizens Initiated Referenda Amendment Act 2012 (2012 No 5).
 
 ##### 26B Notice of issue of writ
     
@@ -800,7 +804,7 @@ Indicative referendum
     
     Section 26B(1): amended, on 1 October 2010, by [section 32(1)(b)][99] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
     
-    Section 26B(1)(b): repealed, on 1 July 2012, by [section 54(4)][106] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 26B(1)(b): repealed, on 1 July 2012, by [section 54(4)][107] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
     Section 26B(2): amended, on 1 October 2010, by [section 32(1)(b)][99] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
 
@@ -814,7 +818,7 @@ Indicative referendum
     
 *   (1) Subject to the provisions of this Act and to any regulations made under this Act, the electoral rolls for the purpose of the indicative referendum shall,---
         
-    *   (a) where the citizens initiated indicative referendum is held before the first general election has been held under the [Electoral Act 1993][95], be deemed to be the lists compiled pursuant to [section 101(1)][163] of that Act; and
+    *   (a) where the citizens initiated indicative referendum is held before the first general election has been held under the [Electoral Act 1993][95], be deemed to be the lists compiled pursuant to [section 101(1)][164] of that Act; and
     
     *   (b) where the citizens initiated indicative referendum is held on or after polling day for the first general election held under the [Electoral Act 1993][95], be deemed to be the electoral rolls for the time being in force under the Electoral Act 1993\.
     
@@ -822,7 +826,7 @@ Indicative referendum
         
     *   (a) a person shall, subject to subsection (3), be deemed not to be registered as an elector if that person became registered by reason of an application for registration as an elector under the [Electoral Act 1993][95] received by the Registrar of the electoral district in respect of which the person became registered on or after the day appointed for the taking of the indicative referendum or on or after the day on which the voting period for the indicative referendum period ends; and
     
-    *   (b) [section 88(2)][164] of the Electoral Act 1993 shall, with such modifications as may be necessary, apply for the purposes of determining whether an application for registration was received on or after the day appointed for the taking of the indicative referendum or on or after the day on which the voting period for the indicative referendum period ends.
+    *   (b) [section 88(2)][165] of the Electoral Act 1993 shall, with such modifications as may be necessary, apply for the purposes of determining whether an application for registration was received on or after the day appointed for the taking of the indicative referendum or on or after the day on which the voting period for the indicative referendum period ends.
     
     (3) Where any person applies for registration as an elector of a district after a writ has been issued for the holding of the indicative referendum and before the day appointed for the taking of the indicative referendum,---
         
@@ -848,7 +852,7 @@ Indicative referendum
     
     *   (c) provide a circle to the right of each answer:
     
-    *   (d) have a counterfoil in [form 13][165] of Schedule 2 of the Electoral Act 1993:
+    *   (d) have a counterfoil in [form 13][166] of Schedule 2 of the Electoral Act 1993:
     
     *   (e) have printed on the top right-hand corner and in the space provided in the counterfoil a number (called a consecutive number) beginning with the number 1 in the case of the first voting paper printed and being consecutive on all succeeding voting papers printed, so that no 2 voting papers for the district bear the same number.
     
@@ -872,7 +876,7 @@ Indicative referendum
 
 ##### 31 Form of nomination paper
     
-*   The nomination paper shall be in [form 3][166] of the Schedule.
+*   The nomination paper shall be in [form 3][167] of the Schedule.
     
     Compare: 1990 No 3 s 7
 
@@ -892,25 +896,25 @@ Indicative referendum
 
 ##### 34 Selection to be in writing
     
-*   The selection shall be signed by the Returning Officer and shall be in [form 4][167] of the Schedule.
+*   The selection shall be signed by the Returning Officer and shall be in [form 4][168] of the Schedule.
     
     Compare: 1990 No 3 s 10
 
 ##### 35 Appointments of scrutineers to be in writing
     
-*   The appointment shall in each case be signed by the persons selected, and shall be in [form 5][168] of the Schedule.
+*   The appointment shall in each case be signed by the persons selected, and shall be in [form 5][169] of the Schedule.
     
     Compare: 1990 No 3 s 11
 
 ##### 36 Powers and rights of scrutineers
     
-*   (1) Every scrutineer so appointed shall, for the purposes of the indicative referendum, have all the powers and rights of a scrutineer under the [Electoral Act 1993][95], and shall make a declaration in [form 1][169] of Schedule 2 of the Electoral Act 1993 (which form shall be used with all necessary modifications).
+*   (1) Every scrutineer so appointed shall, for the purposes of the indicative referendum, have all the powers and rights of a scrutineer under the [Electoral Act 1993][95], and shall make a declaration in [form 1][170] of Schedule 2 of the Electoral Act 1993 (which form shall be used with all necessary modifications).
     
     (2) Without limiting subsection (1), a scrutineer so appointed---
         
-    *   (a) may be present at the office of the Registrar of Electors when the Registrar of Electors is performing his or her duties under [section 172][170] of the Electoral Act 1993 (as applied by this Act) in relation to declarations in respect of special votes, but not more than 1 such scrutineer per answer shall be present at the office of the Registrar of Electors at any time; and
+    *   (a) may be present at the office of the Registrar of Electors when the Registrar of Electors is performing his or her duties under [section 172][171] of the Electoral Act 1993 (as applied by this Act) in relation to declarations in respect of special votes, but not more than 1 such scrutineer per answer shall be present at the office of the Registrar of Electors at any time; and
     
-    *   (b) may be present at the scrutiny of the rolls conducted by the Returning Officer under [section 175][171] of the Electoral Act 1993 (as applied by this Act) but only 1 such scrutineer per answer, or such greater number as is permitted by the Returning Officer, shall be present at the scrutiny of the rolls at any time.
+    *   (b) may be present at the scrutiny of the rolls conducted by the Returning Officer under [section 175][172] of the Electoral Act 1993 (as applied by this Act) but only 1 such scrutineer per answer, or such greater number as is permitted by the Returning Officer, shall be present at the scrutiny of the rolls at any time.
     
     (3) The number of scrutineers for each answer who may be present in a polling place may not exceed the number of issuing officers designated for the polling place.
     
@@ -934,7 +938,7 @@ Indicative referendum
 
 ##### 38 Application to District Court Judge for recount
     
-*   If the result of any indicative referendum in any electoral district is disputed on the ground that the public declaration by the Electoral Commission in accordance with [section 179(2)][128] of the Electoral Act 1993 (as applied by this Act) was incorrect, the following provisions shall apply:
+*   If the result of any indicative referendum in any electoral district is disputed on the ground that the public declaration by the Electoral Commission in accordance with [section 179(2)][129] of the Electoral Act 1993 (as applied by this Act) was incorrect, the following provisions shall apply:
         
     *   (a) any 6 electors may, within 3 working days after the public declaration, apply to a District Court Judge for a recount of the votes:
     
@@ -942,7 +946,7 @@ Indicative referendum
     
     *   (c) the District Court Judge shall cause a recount of the votes to be commenced within 3 working days of receiving the application, and shall give notice in writing to the applicants and to any scrutineers appointed under [section 35][47] of the time and place at which the recount will be made:
     
-    *   (d) [sections 180(6)][129], 180(7)(a) to (d), 180(8) to (11), [182][172], and [184][173] of the Electoral Act 1993, so far as they are applicable and with the necessary modifications, shall apply to the recount.
+    *   (d) [sections 180(6)][130], 180(7)(a) to (d), 180(8) to (11), [182][173], and [184][174] of the Electoral Act 1993, so far as they are applicable and with the necessary modifications, shall apply to the recount.
     
     Compare: 1990 No 3 s 14
     
@@ -962,7 +966,7 @@ Indicative referendum
             
         *   (i) the total number of valid votes recorded for each of the 2 answers to the precise question; and
         
-        *   (ii) if the writ is in [form 2][160], the total number of valid votes recorded in each electoral district for each of the 2 answers to the precise question; and
+        *   (ii) if the writ is in [form 2][161], the total number of valid votes recorded in each electoral district for each of the 2 answers to the precise question; and
         
         *   (iii) the date of the endorsement; and
         
@@ -980,7 +984,7 @@ Indicative referendum
     
     (5) If, at any time before the expiry of the time for an application for a recount of the votes, it appears to the Electoral Commission that such an application may be made, the Electoral Commission may postpone the return of the writ until that expiry.
     
-    (5A) If the voting period for an indicative referendum conducted by postal voting is extended under [section 37][174] of the Referenda (Postal Voting) Act 2000, the Electoral Commission may postpone the return of the writ until as soon as practicable after noon on the fourth day after the last day of the extended voting period.
+    (5A) If the voting period for an indicative referendum conducted by postal voting is extended under [section 37][175] of the Referenda (Postal Voting) Act 2000, the Electoral Commission may postpone the return of the writ until as soon as practicable after noon on the fourth day after the last day of the extended voting period.
     
     (5B) Subsection (5A) applies whether the voting period is extended in relation to the whole or any area or areas of New Zealand, or any or all of Tokelau, Campbell Island, Raoul Island, or the Ross Dependency.
     
@@ -994,11 +998,11 @@ Indicative referendum
     
     Section 39(5): amended, on 1 October 2010, by [section 32(1)(b)][99] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
     
-    Section 39(5A): inserted, on 25 February 2012, by [section 5(1)][175] of the Citizens Initiated Referenda Amendment Act 2012 (2012 No 5).
+    Section 39(5A): inserted, on 25 February 2012, by [section 5(1)][176] of the Citizens Initiated Referenda Amendment Act 2012 (2012 No 5).
     
-    Section 39(5B): inserted, on 25 February 2012, by [section 5(1)][175] of the Citizens Initiated Referenda Amendment Act 2012 (2012 No 5).
+    Section 39(5B): inserted, on 25 February 2012, by [section 5(1)][176] of the Citizens Initiated Referenda Amendment Act 2012 (2012 No 5).
     
-    Section 39(6): amended, on 25 February 2012, by [section 5(2)][175] of the Citizens Initiated Referenda Amendment Act 2012 (2012 No 5).
+    Section 39(6): amended, on 25 February 2012, by [section 5(2)][176] of the Citizens Initiated Referenda Amendment Act 2012 (2012 No 5).
 
 ##### 40 Declaration of result
     
@@ -1026,9 +1030,9 @@ Indicative referendum
     
 *   (1) This section applies when the Governor-General makes an Order in Council in accordance with [section 22(2)(b)][24] specifying that the indicative referendum be conducted by postal voting.
     
-    (2) The result of an indicative referendum conducted by postal voting must be declared under [section 49][176] of the Referenda (Postal Voting) Act 2000\.
+    (2) The result of an indicative referendum conducted by postal voting must be declared under [section 49][177] of the Referenda (Postal Voting) Act 2000\.
     
-    Section 40AA: inserted, on 15 November 2000, by [section 90][177] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 40AA: inserted, on 15 November 2000, by [section 90][178] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ##### 40A Infringement of secrecy
     
@@ -1061,7 +1065,7 @@ Indicative referendum
 ## Part 3  
 Publicity
     
-*   Heading: substituted, on 15 November 2000, by [section 91][178] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+*   Heading: substituted, on 15 November 2000, by [section 91][179] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ##### 41 Publicity for indicative referendum
     
@@ -1071,11 +1075,11 @@ Publicity
     
     (3) Every person is guilty of an illegal practice within the meaning of the [Electoral Act 1993][95] who wilfully contravenes subsection (1).
     
-    (4) Nothing in this section shall restrict the publication of any news or comments relating to the indicative referendum petition or the indicative referendum in a newspaper or other periodical or in a radio or television broadcast made by a broadcaster within the meaning of [section 2][179] of the Broadcasting Act 1989\.
+    (4) Nothing in this section shall restrict the publication of any news or comments relating to the indicative referendum petition or the indicative referendum in a newspaper or other periodical or in a radio or television broadcast made by a broadcaster within the meaning of [section 2][180] of the Broadcasting Act 1989\.
     
     Compare: 1990 No 3 s 16
     
-    Section 41(1): amended, on 15 November 2000, by [section 92][180] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 41(1): amended, on 15 November 2000, by [section 92][181] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
     
     Section 41(3): substituted, on 6 December 1995, by section 12 of the Citizens Initiated Referenda Amendment Act 1995 (1995 No 62).
 
@@ -1087,7 +1091,7 @@ Publicity
     
     *   (b) knowingly spends, on advertisements promoting one of the answers to the precise question to be put to voters in an indicative referendum (whether those advertisements are published or broadcast or both), more than $50,000\.
     
-    Section 42: amended, on 1 July 2013, by [section 413][181] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 42: amended, on 1 July 2013, by [section 413][182] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 42: amended, on 6 December 1995, by section 13 of the Citizens Initiated Referenda Amendment Act 1995 (1995 No 62).
 
@@ -1111,7 +1115,7 @@ Publicity
     
     *   (b) if the result of the indicative referendum is notified in the _Gazette_ under [section 40(2)][52], within 1 month after the date on which the result is notified; or
     
-    *   (c) if the result is declared under [section 49][176] of the Referenda (Postal Voting) Act 2000, within 1 month after the date on which the result is declared.
+    *   (c) if the result is declared under [section 49][177] of the Referenda (Postal Voting) Act 2000, within 1 month after the date on which the result is declared.
     
     (2) \[Repealed\]
     
@@ -1133,27 +1137,27 @@ Publicity
     
     Section 43: substituted, on 6 December 1995, by section 14 of the Citizens Initiated Referenda Amendment Act 1995 (1995 No 62).
     
-    Section 43(1): substituted, on 15 November 2000, by [section 93(1)][182] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 43(1): substituted, on 15 November 2000, by [section 93(1)][183] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
     
     Section 43(1)**appropriate official**: repealed, on 28 February 2002, by [section 101(2)][100] of the Electoral Amendment Act 2002 (2002 No 1).
     
-    Section 43(1A): inserted, on 15 November 2000, by [section 93(1)][182] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 43(1A): inserted, on 15 November 2000, by [section 93(1)][183] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
     
     Section 43(1A): amended, on 1 October 2010, by [section 32(1)(b)][99] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
     
     Section 43(1A)(b): amended, on 28 February 2002, by [section 101(2)][100] of the Electoral Amendment Act 2002 (2002 No 1).
     
-    Section 43(2): repealed, on 15 November 2000, by [section 93(1)][182] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 43(2): repealed, on 15 November 2000, by [section 93(1)][183] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
     
-    Section 43(3): amended, on 1 July 2013, by [section 413][181] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 43(3): amended, on 1 July 2013, by [section 413][182] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 43(3): amended, on 15 November 2000, by [section 93(2)][182] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 43(3): amended, on 15 November 2000, by [section 93(2)][183] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
     
-    Section 43(4): amended, on 15 November 2000, by [section 93(3)][182] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 43(4): amended, on 15 November 2000, by [section 93(3)][183] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
     
-    Section 43(4)(a): amended, on 1 July 2013, by [section 413][181] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 43(4)(a): amended, on 1 July 2013, by [section 413][182] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 43(4)(b): amended, on 1 July 2013, by [section 413][181] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 43(4)(b): amended, on 1 July 2013, by [section 413][182] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 44 Duty of Electoral Commission
     
@@ -1181,7 +1185,7 @@ Publicity
         
     *   (a) must be kept by the Electoral Commission in the office of the Electoral Commission, or some other convenient place to be appointed by the Electoral Commission, for a period of 5 years after it has been received by the Electoral Commission; and
     
-    *   (b) shall, during the period that it is kept under paragraph (a), be open to inspection by any person on payment of such charges (if any) as may be made under the [Official Information Act 1982][183].
+    *   (b) shall, during the period that it is kept under paragraph (a), be open to inspection by any person on payment of such charges (if any) as may be made under the [Official Information Act 1982][184].
     
     (2) At the end of the period specified in subsection (1), the Electoral Commission must cause the return to be destroyed.
     
@@ -1204,19 +1208,19 @@ Publicity
 ## Part 4  
 Application for inquiry into conduct of indicative referendum
     
-*   Heading: substituted, on 15 November 2000, by [section 96][184] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+*   Heading: substituted, on 15 November 2000, by [section 96][185] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ##### 47 Sections of Electoral Act 1993 applied
     
 *   (1) The sections of the [Electoral Act 1993][95] described in subsection (2), as far as they are applicable and with the necessary modifications, shall apply to a petition for an inquiry under [section 48][66].
     
-    (2) The sections of the [Electoral Act 1993][95] referred to in subsection (1) are [sections 232 to 234][185], [235][186], [236(1), (2), (4) to (7)][140], [240][187], [241][188], [242][189], [247 to 255][190], [256(1)(a) and (b)][143], and [257][191].
+    (2) The sections of the [Electoral Act 1993][95] referred to in subsection (1) are [sections 232 to 234][186], [235][187], [236(1), (2), (4) to (7)][141], [240][188], [241][189], [242][190], [247 to 255][191], [256(1)(a) and (b)][144], and [257][192].
     
     Section 47: substituted, on 1 July 1995, by section 11 of the Citizens Initiated Referenda Amendment Act 1994 (1994 No 146).
 
 #### Applicants
     
-*   Heading: inserted, on 15 November 2000, by [section 97][192] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+*   Heading: inserted, on 15 November 2000, by [section 97][193] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ##### 48 Who may be applicants
     
@@ -1224,11 +1228,11 @@ Application for inquiry into conduct of indicative referendum
     
     Compare: 1993 No 101 [s 48(1)][66]
     
-    Section 48: substituted, on 15 November 2000, by [section 97][192] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 48: substituted, on 15 November 2000, by [section 97][193] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 #### Respondents
     
-*   Heading: inserted, on 15 November 2000, by [section 97][192] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+*   Heading: inserted, on 15 November 2000, by [section 97][193] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ##### 49 Who may be respondents
     
@@ -1242,7 +1246,7 @@ Application for inquiry into conduct of indicative referendum
     
     Compare: 1993 No 101 [s 49][68]
     
-    Section 49: substituted, on 15 November 2000, by [section 97][192] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 49: substituted, on 15 November 2000, by [section 97][193] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ##### 50 Who may be respondents
     
@@ -1254,21 +1258,21 @@ Application for inquiry into conduct of indicative referendum
     
     Compare: 1993 No 101 [s 48(2)][66]
     
-    Section 50: substituted, on 15 November 2000, by [section 97][192] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 50: substituted, on 15 November 2000, by [section 97][193] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 #### Making of application
     
-*   Heading: inserted, on 15 November 2000, by [section 97][192] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+*   Heading: inserted, on 15 November 2000, by [section 97][193] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ##### 51 Application form
     
-*   (1) The application must be in [form 6][193] of the Schedule, or in a similar form.
+*   (1) The application must be in [form 6][194] of the Schedule, or in a similar form.
     
     (2) The application must state the specific grounds on which the applicant is dissatisfied with the result of the referendum.
     
     Compare: 1993 No 101 [s 48(3), (4)][66]
     
-    Section 51: substituted, on 15 November 2000, by [section 97][192] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 51: substituted, on 15 November 2000, by [section 97][193] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ##### 51A Application to be filed in High Court
     
@@ -1276,15 +1280,15 @@ Application for inquiry into conduct of indicative referendum
     
     Compare: 1993 No 101 [s 48(4)][66]
     
-    Section 51A: inserted, on 15 November 2000, by [section 97][192] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 51A: inserted, on 15 November 2000, by [section 97][193] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ##### 51B Time for making application
     
-*   An applicant must make its application within 20 working days after the Electoral Commission has declared the result of the referendum under [section 179(2)][128] of the Electoral Act 1993 (as applied by this Act).
+*   An applicant must make its application within 20 working days after the Electoral Commission has declared the result of the referendum under [section 179(2)][129] of the Electoral Act 1993 (as applied by this Act).
     
     Compare: 1993 No 101 [s 48(1)][66]
     
-    Section 51B: inserted, on 15 November 2000, by [section 97][192] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 51B: inserted, on 15 November 2000, by [section 97][193] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
     
     Section 51B: amended, on 1 October 2010, by [section 32(1)(b)][99] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
     
@@ -1296,7 +1300,7 @@ Application for inquiry into conduct of indicative referendum
     
     Compare: 1993 No 101 [s 48(4)][66]
     
-    Section 51C: inserted, on 15 November 2000, by [section 97][192] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 51C: inserted, on 15 November 2000, by [section 97][193] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ##### 51D Application to be served on respondents
     
@@ -1308,7 +1312,7 @@ Application for inquiry into conduct of indicative referendum
     
     Compare: 1993 No 101 [s 48(5)][66]
     
-    Section 51D: inserted, on 15 November 2000, by [section 97][192] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 51D: inserted, on 15 November 2000, by [section 97][193] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ##### 51E Matters to be inquired into at hearing
     
@@ -1320,11 +1324,11 @@ Application for inquiry into conduct of indicative referendum
     
     Compare: 1993 No 101 [s 48(3)][66]
     
-    Section 51E: inserted, on 15 November 2000, by [section 97][192] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 51E: inserted, on 15 November 2000, by [section 97][193] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 #### Court's decision
     
-*   Heading: inserted, on 15 November 2000, by [section 97][192] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+*   Heading: inserted, on 15 November 2000, by [section 97][193] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ##### 51F Decision of court as to result of indicative referendum
     
@@ -1336,7 +1340,7 @@ Application for inquiry into conduct of indicative referendum
     
     Compare: 1993 No 101 [s 50][69]
     
-    Section 51F: inserted, on 15 November 2000, by [section 97][192] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 51F: inserted, on 15 November 2000, by [section 97][193] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ##### 51G Fresh indicative referendum
     
@@ -1350,7 +1354,7 @@ Application for inquiry into conduct of indicative referendum
     
     Compare: 1993 No 101 [s 51][71]
     
-    Section 51G: inserted, on 15 November 2000, by [section 97][192] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 51G: inserted, on 15 November 2000, by [section 97][193] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
     
     Section 51G(2): amended, on 1 October 2010, by [section 32(1)(b)][99] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
     
@@ -1359,7 +1363,7 @@ Application for inquiry into conduct of indicative referendum
 ## Part 5  
 Offences
     
-*   Heading: substituted on 15 November 2000, by [section 98][194] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+*   Heading: substituted on 15 November 2000, by [section 98][195] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ##### 52 Interfering with or influencing voters
     
@@ -1371,11 +1375,11 @@ Offences
     
     *   (c) at any time on the day on which the referendum is held before the close of the poll makes any statement having direct or indirect reference to the indicative referendum, by means of any loudspeaker or public address apparatus or cinematograph or television apparatus:
         
-        provided that this paragraph shall not restrict the publication by radio or television broadcast made by a broadcaster within the meaning of [section 2][179] of the Broadcasting Act 1989 of---
+        provided that this paragraph shall not restrict the publication by radio or television broadcast made by a broadcaster within the meaning of [section 2][180] of the Broadcasting Act 1989 of---
             
         *   (i) any advertisement placed by the Electoral Commission or a Returning Officer; or
         
-        *   (ii) any non-partisan advertisement broadcast, as a community service, by a broadcaster within the meaning of [section 2][179] of the Broadcasting Act 1989; or
+        *   (ii) any non-partisan advertisement broadcast, as a community service, by a broadcaster within the meaning of [section 2][180] of the Broadcasting Act 1989; or
         
         *   (iii) any news in relation to the indicative referendum:
         
@@ -1399,7 +1403,7 @@ Offences
         
         provided also that where any statement, name, emblem, slogan, or logo which does not relate specifically to the indicative referendum and which is so exhibited before the day on which the referendum is held in a fixed position and in relation to the New Zealand or regional or campaign headquarters (not being mobile headquarters) of a proponent of any answer to a question to which the indicative referendum relates, it shall not be an offence to leave the statement, name, emblem, slogan, or logo so exhibited on the day on which the referendum is held:
         
-        provided further that this paragraph shall not restrict the publication of the name of any proponent of any answer to a question to which the indicative referendum relates in any news which relates to the indicative referendum and which is published in a newspaper or other periodical or in a radio or television broadcast made by a broadcaster within the meaning of [section 2][179] of the Broadcasting Act 1989:
+        provided further that this paragraph shall not restrict the publication of the name of any proponent of any answer to a question to which the indicative referendum relates in any news which relates to the indicative referendum and which is published in a newspaper or other periodical or in a radio or television broadcast made by a broadcaster within the meaning of [section 2][180] of the Broadcasting Act 1989:
     
     *   (h) at any time on the day on which the referendum is held before the close of the poll exhibits in or in view of any public place or distributes any ribbons, streamers, rosettes, or items of a similar nature in colours that are identified with any answer to a question to which the indicative referendum relates or with any proponent of any such answer:
         
@@ -1427,7 +1431,7 @@ Offences
     
     Compare: 1956 No 107 s 127; 1990 No 1 s 65(1)
     
-    Section 52(1): amended, on 1 July 2013, by [section 413][181] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 52(1): amended, on 1 July 2013, by [section 413][182] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 52(1)(a): amended, on 28 February 2002, by [section 101(2)][100] of the Electoral Amendment Act 2002 (2002 No 1).
     
@@ -1519,14 +1523,14 @@ Offences
     
     Section 54(1)(a): amended, on 28 February 2002, by [section 101(2)][100] of the Electoral Amendment Act 2002 (2002 No 1).
     
-    Section 54(2): amended, on 1 July 2013, by [section 413][181] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 54(2): amended, on 1 July 2013, by [section 413][182] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 54(3): amended, on 1 July 2013, by [section 413][181] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 54(3): amended, on 1 July 2013, by [section 413][182] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 6  
 Miscellaneous provisions
     
-*   Heading: substituted, on 15 November 2000, by [section 99][195] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+*   Heading: substituted, on 15 November 2000, by [section 99][196] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ##### 55 Two or more referenda
     
@@ -1534,7 +1538,7 @@ Miscellaneous provisions
     
     (2) One or more indicative referenda may be held during the voting period for 1 or more referenda (within the meaning of the [Referenda (Postal Voting) Act 2000][97]).
     
-    Section 55: substituted, on 15 November 2000, by [section 100][196] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 55: substituted, on 15 November 2000, by [section 100][197] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ##### 56 Appropriation
     
@@ -1552,7 +1556,7 @@ Miscellaneous provisions
 
 ##### 57 Application of Ombudsmen Act 1975 and Official Information Act 1982
     
-*   The [Ombudsmen Act 1975][197] and the [Official Information Act 1982][183] shall apply in relation to the Clerk of the House of Representatives as if the Clerk of the House of Representatives were, in relation to the functions conferred on the Clerk of the House of Representatives by this Act, an organisation named in [Schedule 1][198] of the Ombudsmen Act 1975\.
+*   The [Ombudsmen Act 1975][198] and the [Official Information Act 1982][184] shall apply in relation to the Clerk of the House of Representatives as if the Clerk of the House of Representatives were, in relation to the functions conferred on the Clerk of the House of Representatives by this Act, an organisation named in [Schedule 1][199] of the Ombudsmen Act 1975\.
 
 ##### 58 Regulations
     
@@ -1576,9 +1580,9 @@ Miscellaneous provisions
 
 ##### 58A Rules of court
     
-*   Rules of court may be made in the manner prescribed in the [Judicature Act 1908][199] for the purposes of [Part 6][86].
+*   Rules of court may be made in the manner prescribed in the [Judicature Act 1908][200] for the purposes of [Part 6][86].
     
-    Section 58A: inserted, on 15 November 2000, by [section 101][200] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 58A: inserted, on 15 November 2000, by [section 101][201] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ##### 59 Right to petition House of Representatives unaffected
     
@@ -1801,84 +1805,43 @@ In the matter of an indicative referendum held on \[_date_\] on \[_describe ques
 
 NameAddressElectoral DistrictSignature
 
-*   Form 6: substituted, on 15 November 2000, by [section 102(2)][201] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+*   Form 6: substituted, on 15 November 2000, by [section 102(2)][202] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Citizens Initiated Referenda Act 1993\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][202] ![](/images/external_link.gif).
+*   This is a reprint of the Citizens Initiated Referenda Act 1993 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][203] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][203] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][204] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][204] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][205] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][206] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][205] and [17E][206] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][101]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    [Citizens Initiated Referenda Amendment Act 2012][207] (2012 No 5)
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][182]
     
+    Electoral (Administration) Amendment Act 2011 (2011 No 57): [section 54][107]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   [Citizens Initiated Referenda Amendment Act 2012][207] (2012 No 5)
-    
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][181]
-    
-    Electoral (Administration) Amendment Act 2011 (2011 No 57): [section 54][106]
-    
-    Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137): [sections 38][150], [39][158]
+    Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137): [sections 38][151], [39][159]
     
     Electoral (Administration) Amendment Act 2010 (2010 No 26): [section 32(1)(b), (2)(b)][99]
     
-    Electoral Amendment Act 2009 (2009 No 1): [section 16][159]
+    Electoral Amendment Act 2009 (2009 No 1): [section 16][160]
     
-    Electoral Finance Act 2007 (2007 No 111): [section 150][151]
+    Electoral Finance Act 2007 (2007 No 111): [section 150][152]
     
     Electoral Amendment Act 2002 (2002 No 1): [section 101(2)][100]
     
@@ -1888,11 +1851,11 @@ NameAddressElectoral DistrictSignature
     
     Citizens Initiated Referenda Amendment Act 1994 (1994 No 146)
     
-    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][104]
+    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][105]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1993/0101/latest/whole.html#DLM317195
 [2]: http://www.legislation.govt.nz/act/public/1993/0101/latest/whole.html#DLM317197
 [3]: http://www.legislation.govt.nz/act/public/1993/0101/latest/whole.html#DLM317198
@@ -1993,111 +1956,111 @@ NameAddressElectoral DistrictSignature
 [98]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM74680
 [99]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM2469790
 [100]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM131138
-[101]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM74699
-[102]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310427
-[103]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75001
-[104]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM328986
-[105]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM2997501
-[106]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM3367686
-[107]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM74568
-[108]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75002
-[109]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM94241
-[110]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM309425
-[111]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM74603
-[112]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM135665
-[113]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM135667
-[114]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75006
-[115]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM308185
-[116]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM308505
-[117]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM308516
-[118]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM308571
-[119]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM309174
-[120]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM309493
-[121]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM309637
-[122]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM309692
-[123]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM309803
-[124]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM309822
-[125]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM309831
-[126]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM309836
-[127]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM309855
-[128]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM309893
-[129]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM309898
-[130]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310003
-[131]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310008
-[132]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310015
-[133]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310017
-[134]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310034
-[135]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310062
-[136]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310065
-[137]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310085
-[138]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310409
-[139]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310428
-[140]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310439
-[141]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310440
-[142]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310446
-[143]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310463
-[144]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310465
-[145]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310483
-[146]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310486
-[147]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310495
-[148]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310497
-[149]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75008
-[150]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM2926456
-[151]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM1093314
-[152]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM308567
-[153]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM309885
-[154]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310099
-[155]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310302
-[156]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310399
-[157]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310485
-[158]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM2926457
-[159]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM1833700
-[160]: http://www.legislation.govt.nz/act/public/1993/0101/latest/whole.html#DLM318870
-[161]: http://www.legislation.govt.nz/act/public/1993/0101/latest/whole.html#DLM318873
-[162]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM4013807
-[163]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM309133
-[164]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM308878
-[165]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM311005
-[166]: http://www.legislation.govt.nz/act/public/1993/0101/latest/whole.html#DLM318877
-[167]: http://www.legislation.govt.nz/act/public/1993/0101/latest/whole.html#DLM318880
-[168]: http://www.legislation.govt.nz/act/public/1993/0101/latest/whole.html#DLM318882
-[169]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310870
-[170]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM309843
-[171]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM309874
-[172]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310006
-[173]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310011
-[174]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM74611
-[175]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM4013808
-[176]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM74634
-[177]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75022
-[178]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75025
-[179]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM155371
-[180]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75027
-[181]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM3360714
-[182]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75028
-[183]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM64784
-[184]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75041
-[185]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310434
-[186]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310438
-[187]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310443
-[188]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310444
-[189]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310445
-[190]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310451
-[191]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310464
-[192]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75043
-[193]: http://www.legislation.govt.nz/act/public/1993/0101/latest/whole.html#DLM318885
-[194]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75059
-[195]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75061
-[196]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75063
-[197]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM430983
-[198]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM431204
-[199]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM144692
-[200]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75065
-[201]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75067
-[202]: http://www.pco.parliament.govt.nz/reprints/
-[203]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM195439
-[204]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[205]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM195468
-[206]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM195470
+[101]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM4929207
+[102]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM74699
+[103]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310427
+[104]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75001
+[105]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM328986
+[106]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM2997501
+[107]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM3367686
+[108]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM74568
+[109]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75002
+[110]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM94241
+[111]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM309425
+[112]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM74603
+[113]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM135665
+[114]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM135667
+[115]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75006
+[116]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM308185
+[117]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM308505
+[118]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM308516
+[119]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM308571
+[120]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM309174
+[121]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM309493
+[122]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM309637
+[123]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM309692
+[124]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM309803
+[125]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM309822
+[126]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM309831
+[127]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM309836
+[128]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM309855
+[129]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM309893
+[130]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM309898
+[131]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310003
+[132]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310008
+[133]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310015
+[134]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310017
+[135]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310034
+[136]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310062
+[137]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310065
+[138]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310085
+[139]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310409
+[140]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310428
+[141]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310439
+[142]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310440
+[143]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310446
+[144]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310463
+[145]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310465
+[146]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310483
+[147]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310486
+[148]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310495
+[149]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310497
+[150]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75008
+[151]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM2926456
+[152]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM1093314
+[153]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM308567
+[154]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM309885
+[155]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310099
+[156]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310302
+[157]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310399
+[158]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310485
+[159]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM2926457
+[160]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM1833700
+[161]: http://www.legislation.govt.nz/act/public/1993/0101/latest/whole.html#DLM318870
+[162]: http://www.legislation.govt.nz/act/public/1993/0101/latest/whole.html#DLM318873
+[163]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM4013807
+[164]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM309133
+[165]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM308878
+[166]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM311005
+[167]: http://www.legislation.govt.nz/act/public/1993/0101/latest/whole.html#DLM318877
+[168]: http://www.legislation.govt.nz/act/public/1993/0101/latest/whole.html#DLM318880
+[169]: http://www.legislation.govt.nz/act/public/1993/0101/latest/whole.html#DLM318882
+[170]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310870
+[171]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM309843
+[172]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM309874
+[173]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310006
+[174]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310011
+[175]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM74611
+[176]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM4013808
+[177]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM74634
+[178]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75022
+[179]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75025
+[180]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM155371
+[181]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75027
+[182]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM3360714
+[183]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75028
+[184]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM64784
+[185]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75041
+[186]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310434
+[187]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310438
+[188]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310443
+[189]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310444
+[190]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310445
+[191]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310451
+[192]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310464
+[193]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75043
+[194]: http://www.legislation.govt.nz/act/public/1993/0101/latest/whole.html#DLM318885
+[195]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75059
+[196]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75061
+[197]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75063
+[198]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM430983
+[199]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM431204
+[200]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM144692
+[201]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75065
+[202]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75067
+[203]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM2998516
+[204]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM2998515
+[205]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM2998532
+[206]: http://www.pco.parliament.govt.nz/editorial-conventions/
 [207]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM4013800
 [208]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM74678
