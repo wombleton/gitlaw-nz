@@ -1,5 +1,5 @@
 Reprint  
-as at 14 September 2013
+as at 1 January 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -378,6 +378,8 @@ Interpretation and application
         
     *   (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Labour Day, and Waitangi Day; and
     
+    *   (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    
     *   (b) a day in the period commencing with 25 December in any year and ending with 2 January in the following year; and
     
     *   (c) if 1 January in any year falls on a Friday, the following Monday; and
@@ -437,6 +439,8 @@ Interpretation and application
     Section 2(1) **specified standard**: inserted, on 1 July 2011, by [section 5(2)][104] of the Financial Reporting Amendment Act 2011 (2011 No 22).
     
     Section 2(1) **turnover**: substituted, on 21 January 2007, by [section 4(3)][108] of the Financial Reporting Amendment Act 2006 (2006 No 64).
+    
+    Section 2(1) **working day** paragraph (ab): inserted, on 1 January 2014, by [section 8][113] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
 
 ##### 3 Meaning of generally accepted accounting practice
     
@@ -460,49 +464,49 @@ Interpretation and application
         
     *   (a) every person who has, whether before or after the commencement of this Act, allotted securities pursuant to---
             
-        *   (i) an offer for which, or for which but for an exemption granted by the FMA or the Securities Commission under the [Securities Act 1978][113], an investment statement or a registered prospectus, or both, is or was required under that Act (other than an offer of a unit in a unit trust or an interest in a KiwiSaver scheme other than a restricted scheme); or
+        *   (i) an offer for which, or for which but for an exemption granted by the FMA or the Securities Commission under the [Securities Act 1978][114], an investment statement or a registered prospectus, or both, is or was required under that Act (other than an offer of a unit in a unit trust or an interest in a KiwiSaver scheme other than a restricted scheme); or
         
         *   (ii) an offer required to be contained in a prospectus required to be registered under the Companies Act 1955,---
         
         whether or not the securities allotted are securities of the same type as the securities offered:
     
-    *   (ab) every manager of a KiwiSaver scheme other than a restricted scheme (within the meaning of the [KiwiSaver Act 2006][114]) in which securities have been allotted, whether before or after the commencement of this paragraph, pursuant to an offer of securities to the public within the meaning of the [Securities Act 1978][113]:
+    *   (ab) every manager of a KiwiSaver scheme other than a restricted scheme (within the meaning of the [KiwiSaver Act 2006][115]) in which securities have been allotted, whether before or after the commencement of this paragraph, pursuant to an offer of securities to the public within the meaning of the [Securities Act 1978][114]:
     
-    *   (b) every manager of a unit trust (within the meaning of [section 2][95] of the Unit Trusts Act 1960) in which securities have been allotted, whether before or after the commencement of this Act, pursuant to an offer of securities to the public within the meaning of the [Securities Act 1978][113]:
+    *   (b) every manager of a unit trust (within the meaning of [section 2][95] of the Unit Trusts Act 1960) in which securities have been allotted, whether before or after the commencement of this Act, pursuant to an offer of securities to the public within the meaning of the [Securities Act 1978][114]:
     
     *   (ba) every recipient of money from a conduit issuer (within the meaning of [section 4A][7]):
     
     *   (c) every person who is a party to a listing agreement with a stock exchange in New Zealand and who has issued securities which are quoted on such an exchange:
     
-    *   (d) every insurer to whom [Part 10][115] of the Accident Compensation Act 2001 applies:
+    *   (d) every insurer to whom [Part 10][116] of the Accident Compensation Act 2001 applies:
     
-    *   (da) every licensed insurer (other than a Lloyd's underwriter within the meaning of the [Insurance (Prudential Supervision) Act 2010][116] or an insurer that is included in a class of insurers that is the subject of an exemption under [section 238(1)(b)][117] of that Act):
+    *   (da) every licensed insurer (other than a Lloyd's underwriter within the meaning of the [Insurance (Prudential Supervision) Act 2010][117] or an insurer that is included in a class of insurers that is the subject of an exemption under [section 238(1)(b)][118] of that Act):
     
-    *   (e) every operator within the meaning of the [Retirement Villages Act 2003][118] (other than a receiver or liquidator, or a person who has no financial interest in the village).
+    *   (e) every operator within the meaning of the [Retirement Villages Act 2003][119] (other than a receiver or liquidator, or a person who has no financial interest in the village).
     
-    (2) Every registered bank (within the meaning of [section 2(1)][119] of the Reserve Bank of New Zealand Act 1989) that has allotted securities to the public within the meaning of the [Securities Act 1978][113] is an issuer for the purposes of this Act.
+    (2) Every registered bank (within the meaning of [section 2(1)][120] of the Reserve Bank of New Zealand Act 1989) that has allotted securities to the public within the meaning of the [Securities Act 1978][114] is an issuer for the purposes of this Act.
     
     (3) In this section references to securities that have been issued or allotted are to be taken as references to securities that have not been cancelled, redeemed, forfeited, or in respect of which obligations owing under them have not been discharged.
     
     (4) Subsection (2) shall come into force on a date to be appointed by the Governor-General by Order in Council.
     
-    Section 4(1): substituted, on 1 October 1997, by [section 3][120] of the Financial Reporting Amendment Act (No 2) 1996 (1996 No 103).
+    Section 4(1): substituted, on 1 October 1997, by [section 3][121] of the Financial Reporting Amendment Act (No 2) 1996 (1996 No 103).
     
-    Section 4(1)(a)(i): amended, on 1 May 2011, by [section 56][121] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 4(1)(a)(i): amended, on 1 May 2011, by [section 56][122] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
     Section 4(1)(a)(i): amended, on 1 May 2011, by [section 82][109] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 4(1)(ab): inserted, on 1 May 2011, by [section 56][121] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 4(1)(ab): inserted, on 1 May 2011, by [section 56][122] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Section 4(1)(ba): inserted, on 11 August 2007, by [section 5][122] of the Financial Reporting Amendment Act 2006 (2006 No 64).
+    Section 4(1)(ba): inserted, on 11 August 2007, by [section 5][123] of the Financial Reporting Amendment Act 2006 (2006 No 64).
     
-    Section 4(1)(d): substituted, on 1 April 2002, by [section 337(1)][123] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
+    Section 4(1)(d): substituted, on 1 April 2002, by [section 337(1)][124] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
     
-    Section 4(1)(d): amended on 3 March 2010, pursuant to [section 5(1)(b)][124] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 4(1)(d): amended on 3 March 2010, pursuant to [section 5(1)(b)][125] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
     Section 4(1)(da): inserted, on 1 February 2011, by [section 241(2)][110] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
     
-    Section 4(1)(e): added, on 1 May 2007, by [section 109(1)][125] of the Retirement Villages Act 2003 (2003 No 112).
+    Section 4(1)(e): added, on 1 May 2007, by [section 109(1)][126] of the Retirement Villages Act 2003 (2003 No 112).
 
 ##### 4A Recipients of money from conduit issuers
     
@@ -510,7 +514,7 @@ Interpretation and application
         
     *   (a) the person is related to another person (the _conduit issuer_); and
     
-    *   (b) the conduit issuer raises an amount of money by the issue of securities offered to the public within the meaning of the [Securities Act 1978][113] and that offer is made under that Act after the commencement of this section; and
+    *   (b) the conduit issuer raises an amount of money by the issue of securities offered to the public within the meaning of the [Securities Act 1978][114] and that offer is made under that Act after the commencement of this section; and
     
     *   (c) that money is raised as part of a scheme or arrangement under which 75% or more of that money is provided, directly or indirectly and whether by 1 transaction or a series of transactions, for the use of---
             
@@ -542,7 +546,7 @@ Interpretation and application
     
     *   (b) a director of a company or other body corporate is not related to that company or body corporate merely because he or she is a director of that company or body corporate.
     
-    Section 4A: inserted, on 18 June 2007, by [section 6][126] of the Financial Reporting Amendment Act 2006 (2006 No 64).
+    Section 4A: inserted, on 18 June 2007, by [section 6][127] of the Financial Reporting Amendment Act 2006 (2006 No 64).
 
 ##### 4B Exemption from being issuer under section 4(1)(ba)
     
@@ -556,9 +560,9 @@ Interpretation and application
     
     (3) The FMA may vary or revoke an exemption in the same way as an exemption may be granted under this section.
     
-    (4) An exemption is a disallowable instrument under the [Legislation Act 2012][127] and must be presented to the House of Representatives under [section 41][128] of that Act.
+    (4) An exemption is a disallowable instrument under the [Legislation Act 2012][128] and must be presented to the House of Representatives under [section 41][129] of that Act.
     
-    (5) A class exemption must be published under [section 6][129] of the Legislation Act 2012 and, for this purpose, _class exemption_ means an exemption of general application that applies to a class of persons.
+    (5) A class exemption must be published under [section 6][130] of the Legislation Act 2012 and, for this purpose, _class exemption_ means an exemption of general application that applies to a class of persons.
     
     (6) An exemption that is not a class exemption under subsection (5) must, as soon as practicable after being granted, be---
         
@@ -570,9 +574,9 @@ Interpretation and application
     
     (7) A notification in the _Gazette_ for the purpose of subsection (6)(b) does not have to incorporate the exemption.
     
-    Section 4B: inserted, on 18 June 2007, by [section 6][126] of the Financial Reporting Amendment Act 2006 (2006 No 64).
+    Section 4B: inserted, on 18 June 2007, by [section 6][127] of the Financial Reporting Amendment Act 2006 (2006 No 64).
     
-    Section 4B(1): amended, on 5 August 2013, by [section 77(3)][130] of the Legislation Act 2012 (2012 No 119).
+    Section 4B(1): amended, on 5 August 2013, by [section 77(3)][131] of the Legislation Act 2012 (2012 No 119).
     
     Section 4B(1): amended, on 1 May 2011, by [section 82][109] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -580,19 +584,19 @@ Interpretation and application
     
     Section 4B(3): amended, on 1 May 2011, by [section 82][109] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 4B(4): replaced, on 5 August 2013, by [section 77(3)][130] of the Legislation Act 2012 (2012 No 119).
+    Section 4B(4): replaced, on 5 August 2013, by [section 77(3)][131] of the Legislation Act 2012 (2012 No 119).
     
-    Section 4B(5): inserted, on 5 August 2013, by [section 77(3)][130] of the Legislation Act 2012 (2012 No 119).
+    Section 4B(5): inserted, on 5 August 2013, by [section 77(3)][131] of the Legislation Act 2012 (2012 No 119).
     
-    Section 4B(6): inserted, on 5 August 2013, by [section 77(3)][130] of the Legislation Act 2012 (2012 No 119).
+    Section 4B(6): inserted, on 5 August 2013, by [section 77(3)][131] of the Legislation Act 2012 (2012 No 119).
     
-    Section 4B(7): inserted, on 5 August 2013, by [section 77(3)][130] of the Legislation Act 2012 (2012 No 119).
+    Section 4B(7): inserted, on 5 August 2013, by [section 77(3)][131] of the Legislation Act 2012 (2012 No 119).
 
 ##### 4C Exemption may apply to accounting period before exemption is granted
     
 *   An exemption under [section 4B][8] may, if the FMA thinks fit, apply to an accounting period that commenced before the exemption is granted (including an accounting period that ended before the exemption is granted) if the exemption is granted before the financial statements or group financial statements for that period are required to be completed.
     
-    Section 4C: inserted, on 18 June 2007, by [section 6][126] of the Financial Reporting Amendment Act 2006 (2006 No 64).
+    Section 4C: inserted, on 18 June 2007, by [section 6][127] of the Financial Reporting Amendment Act 2006 (2006 No 64).
     
     Section 4C: amended, on 1 May 2011, by [section 82][109] of the Financial Markets Authority Act 2011 (2011 No 5).
 
@@ -600,7 +604,7 @@ Interpretation and application
     
 *   The FMA's reasons for granting an exemption under [section 4B][8] (including why the exemption is appropriate) must be notified together with the exemption.
     
-    Section 4D: amended, on 5 August 2013, by [section 77(3)][130] of the Legislation Act 2012 (2012 No 119).
+    Section 4D: amended, on 5 August 2013, by [section 77(3)][131] of the Legislation Act 2012 (2012 No 119).
 
 ##### 5 Persons ceasing to be issuers during accounting period
     
@@ -608,7 +612,7 @@ Interpretation and application
     
     (2) However, this section does not apply to a person who ceases to be an issuer as a result of an exemption under [section 4B][8].
     
-    Section 5(2): added, on 11 August 2007, by [section 7][131] of the Financial Reporting Amendment Act 2006 (2006 No 64).
+    Section 5(2): added, on 11 August 2007, by [section 7][132] of the Financial Reporting Amendment Act 2006 (2006 No 64).
 
 ##### 6 Certain persons not issuers
     
@@ -618,9 +622,9 @@ Interpretation and application
     
     *   (b) a local authority:
     
-    *   (c) the Board of Trustees of the National Provident Fund continued in existence under [section 12][132] of the National Provident Fund Restructuring Act 1990:
+    *   (c) the Board of Trustees of the National Provident Fund continued in existence under [section 12][133] of the National Provident Fund Restructuring Act 1990:
     
-    *   (d) the Reserve Bank of New Zealand continued in existence under [section 5][133] of the Reserve Bank of New Zealand Act 1989:
+    *   (d) the Reserve Bank of New Zealand continued in existence under [section 5][134] of the Reserve Bank of New Zealand Act 1989:
     
     *   (e) \[Repealed\]
     
@@ -628,7 +632,7 @@ Interpretation and application
     
     *   (g) a company within the meaning of [section 2(1)][93] of the Companies Act 1993 that does not have more than 25 shareholders and that would, but for this section, be an issuer by reason only of the allotment of equity securities.
     
-    Section 6(e): repealed, on 1 October 1997, by [section 4][134] of the Financial Reporting Amendment Act (No 2) 1996 (1996 No 103).
+    Section 6(e): repealed, on 1 October 1997, by [section 4][135] of the Financial Reporting Amendment Act (No 2) 1996 (1996 No 103).
 
 ##### 6A Meaning of exempt company
     
@@ -662,7 +666,7 @@ Interpretation and application
     
     (3) In counting employees for the purposes of subsection (1), part-time employees must be taken into account as an appropriate fraction of a full-time equivalent.
     
-    Section 6A: inserted, on 22 November 2006, by [section 8][135] of the Financial Reporting Amendment Act 2006 (2006 No 64).
+    Section 6A: inserted, on 22 November 2006, by [section 8][136] of the Financial Reporting Amendment Act 2006 (2006 No 64).
 
 ##### 7 Meaning of balance date
     
@@ -692,7 +696,7 @@ Interpretation and application
     
     (11) If the balance date of a subsidiary of a reporting entity is not the same as that of the reporting entity, the balance date of the subsidiary for the purposes of any particular group financial statements must be that preceding the balance date of the reporting entity.
     
-    Section 7(10): amended, on 1 October 1997, by [section 2][136] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 7(10): amended, on 1 October 1997, by [section 2][137] of the Financial Reporting Amendment Act 1997 (1997 No 17).
 
 ##### 8 Meaning of financial statements
     
@@ -706,7 +710,7 @@ Interpretation and application
         
         *   (ii) an entity not trading for profit, an income and expenditure statement for the entity in relation to the accounting period ending at the balance date; and
         
-        *   (iii) an entity that is a building society within the meaning of the [Building Societies Act 1965][137], a revenue and appropriation account for the entity in relation to the accounting period ending at the balance date; and
+        *   (iii) an entity that is a building society within the meaning of the [Building Societies Act 1965][138], a revenue and appropriation account for the entity in relation to the accounting period ending at the balance date; and
         
         
     
@@ -718,9 +722,9 @@ Interpretation and application
     
     (3) Where the Registrar notifies an overseas company that he or she is satisfied that the financial statements of the overseas company that comply with subsection (1) comply with subsection (2), those financial statements shall be taken to comply with subsection (2).
     
-    Section 8(1): amended, on 1 October 1997, by [section 3(1)][138] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 8(1): amended, on 1 October 1997, by [section 3(1)][139] of the Financial Reporting Amendment Act 1997 (1997 No 17).
     
-    Section 8(1)(b)(i): amended, on 1 October 1997, by [section 3(2)][138] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 8(1)(b)(i): amended, on 1 October 1997, by [section 3(2)][139] of the Financial Reporting Amendment Act 1997 (1997 No 17).
     
     Section 8(2): substituted, on 1 July 1994, by section 3 of the Financial Reporting Amendment Act 1994 (1994 No 11).
 
@@ -742,23 +746,23 @@ Interpretation and application
     
     (3) Where the Registrar notifies an overseas company that he or she is satisfied that the financial statements of the group that comply with subsection (1) comply with subsection (2), those financial statements shall be taken to comply with subsection (2).
     
-    Section 9(1): amended, on 1 October 1997, by [section 4(a)][139] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 9(1): amended, on 1 October 1997, by [section 4(a)][140] of the Financial Reporting Amendment Act 1997 (1997 No 17).
     
-    Section 9(1)(a): amended, on 1 October 1997, by [section 4(a)][139] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 9(1)(a): amended, on 1 October 1997, by [section 4(a)][140] of the Financial Reporting Amendment Act 1997 (1997 No 17).
     
-    Section 9(1)(b): amended, on 1 October 1997, by [section 4(b)][139] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 9(1)(b): amended, on 1 October 1997, by [section 4(b)][140] of the Financial Reporting Amendment Act 1997 (1997 No 17).
     
     Section 9(2): substituted, on 1 July 1994, by section 4 of the Financial Reporting Amendment Act 1994 (1994 No 11).
 
 ##### 9A Application to certain issuers
     
-*   (1) For the purposes of this Act, a requirement on the directors of an issuer of securities in relation to a scheme within the meaning of [section 2][140] of the Securities Act 1978 (other than a scheme to which subsection (2) applies) to prepare and register financial statements shall be construed as including a requirement to prepare and register (in addition to financial statements in respect of the issuer itself),---
+*   (1) For the purposes of this Act, a requirement on the directors of an issuer of securities in relation to a scheme within the meaning of [section 2][141] of the Securities Act 1978 (other than a scheme to which subsection (2) applies) to prepare and register financial statements shall be construed as including a requirement to prepare and register (in addition to financial statements in respect of the issuer itself),---
         
     *   (a) if the liabilities of the issuer and the scheme are not limited to a particular group of assets (in this section referred to as a _separate fund_), financial statements in respect of the scheme; or
     
     *   (b) if the liabilities of the issuer or the scheme are limited to a separate fund, financial statements in respect of both the scheme and that fund.
     
-    (2) For the purposes of this Act, a requirement on the trustees of a superannuation scheme that is registered under the [Superannuation Schemes Act 1989][141], including a restricted KiwiSaver scheme (within the meaning of the [KiwiSaver Act 2006][114]) but not any other KiwiSaver scheme, to prepare and register financial statements shall be construed as a requirement to prepare and register,---
+    (2) For the purposes of this Act, a requirement on the trustees of a superannuation scheme that is registered under the [Superannuation Schemes Act 1989][142], including a restricted KiwiSaver scheme (within the meaning of the [KiwiSaver Act 2006][115]) but not any other KiwiSaver scheme, to prepare and register financial statements shall be construed as a requirement to prepare and register,---
         
     *   (a) if the liabilities of the trustee and the scheme are not limited to a separate fund, financial statements in respect of the scheme; or
     
@@ -768,7 +772,7 @@ Interpretation and application
     
     (4) Subsection (5) applies if---
         
-    *   (a) the financial statements of an operator of a retirement village (as those terms are defined in [sections 5][142] and [6][143] of the Retirement Villages Act 2003) include the activities of---
+    *   (a) the financial statements of an operator of a retirement village (as those terms are defined in [sections 5][143] and [6][144] of the Retirement Villages Act 2003) include the activities of---
             
         *   (i) more than 1 retirement village; or
         
@@ -776,7 +780,7 @@ Interpretation and application
         
         
     
-    *   (b) either the statutory supervisor of the retirement village, or (if the operator is exempted under [section 41][144] of that Act from appointing a statutory supervisor) the Registrar, as a condition of that exemption, requires the operator to comply with subsection (5).
+    *   (b) either the statutory supervisor of the retirement village, or (if the operator is exempted under [section 41][145] of that Act from appointing a statutory supervisor) the Registrar, as a condition of that exemption, requires the operator to comply with subsection (5).
     
     (5) If this subsection applies, any requirement for an operator of a retirement village to prepare financial statements includes---
         
@@ -790,13 +794,13 @@ Interpretation and application
         
         
     
-    Section 9A: inserted, on 1 October 1997, by [section 5][145] of the Financial Reporting Amendment Act (No 2) 1996 (1996 No 103).
+    Section 9A: inserted, on 1 October 1997, by [section 5][146] of the Financial Reporting Amendment Act (No 2) 1996 (1996 No 103).
     
-    Section 9A(2): amended, on 1 May 2011, by [section 56][121] of the KiwiSaver Amendment Act 2011 (2011 No 8).
+    Section 9A(2): amended, on 1 May 2011, by [section 56][122] of the KiwiSaver Amendment Act 2011 (2011 No 8).
     
-    Section 9A(4): added, on 1 May 2007, by [section 109(2)][125] of the Retirement Villages Act 2003 (2003 No 112).
+    Section 9A(4): added, on 1 May 2007, by [section 109(2)][126] of the Retirement Villages Act 2003 (2003 No 112).
     
-    Section 9A(5): added, on 1 May 2007, by [section 109(2)][125] of the Retirement Villages Act 2003 (2003 No 112).
+    Section 9A(5): added, on 1 May 2007, by [section 109(2)][126] of the Retirement Villages Act 2003 (2003 No 112).
 
 ## Part 2  
 Financial statements
@@ -835,7 +839,7 @@ Financial statements
     
     *   (c) has not disposed of, or been deemed to have disposed of, any assets; and
     
-    *   (d) has not been a party to, perpetuated, or continued with, any transactions that, during the period, give rise to obligations under the [Income Tax Act 2004][146] in relation to the entity or any other person (or both).
+    *   (d) has not been a party to, perpetuated, or continued with, any transactions that, during the period, give rise to obligations under the [Income Tax Act 2004][147] in relation to the entity or any other person (or both).
     
     (3) In determining whether an entity is a non-active entity, no account may be taken of any---
         
@@ -847,7 +851,7 @@ Financial statements
     
     (4) In this section, _specified period_, in relation to an accounting period, means the period within which the directors of the entity would, but for this section, be required to ensure that financial statements are completed under [section 10][20].
     
-    Section 10A: inserted, on 18 June 2007, by [section 9][147] of the Financial Reporting Amendment Act 2006 (2006 No 64).
+    Section 10A: inserted, on 18 June 2007, by [section 9][148] of the Financial Reporting Amendment Act 2006 (2006 No 64).
 
 ##### 11 Content of financial statements of reporting entities
     
@@ -889,9 +893,9 @@ Financial statements
     
     (5) Every order made under subsection (2) shall commence to apply in relation to accounting periods commencing on or after the date on which the order takes effect.
     
-    Section 12(1): substituted, on 15 April 2004, by [section 4(1)][148] of the Financial Reporting Amendment Act 2004 (2004 No 27).
+    Section 12(1): substituted, on 15 April 2004, by [section 4(1)][149] of the Financial Reporting Amendment Act 2004 (2004 No 27).
     
-    Section 12(2): amended, on 15 April 2004, by [section 4(2)][148] of the Financial Reporting Amendment Act 2004 (2004 No 27).
+    Section 12(2): amended, on 15 April 2004, by [section 4(2)][149] of the Financial Reporting Amendment Act 2004 (2004 No 27).
     
     Section 12(2): amended, on 1 October 1995, by [section 10(3)][112] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
 
@@ -909,9 +913,9 @@ Financial statements
     
     *   (b) a body corporate that is incorporated in New Zealand or a nominee of such a body corporate and a subsidiary of such a body corporate or a nominee of such a subsidiary.
     
-    Section 13(2): amended, on 22 November 2006, by [section 10][149] of the Financial Reporting Amendment Act 2006 (2006 No 64).
+    Section 13(2): amended, on 22 November 2006, by [section 10][150] of the Financial Reporting Amendment Act 2006 (2006 No 64).
     
-    Section 13(2): amended, on 3 May 2001, by [section 3][150] of the Financial Reporting Amendment Act 2001 (2001 No 21).
+    Section 13(2): amended, on 3 May 2001, by [section 3][151] of the Financial Reporting Amendment Act 2001 (2001 No 21).
 
 ##### 14 Content of group financial statements
     
@@ -937,7 +941,7 @@ Financial statements
     
     (6) Subject to subsection (3), group financial statements must, except where otherwise required by an applicable financial reporting standard, incorporate the financial statements of every subsidiary of the reporting entity.
     
-    Section 14(3): amended, on 1 October 1997, by [section 5][151] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 14(3): amended, on 1 October 1997, by [section 5][152] of the Financial Reporting Amendment Act 1997 (1997 No 17).
     
     Section 14(5): substituted, on 1 July 1994, by section 7 of the Financial Reporting Amendment Act 1994 (1994 No 11).
 
@@ -951,17 +955,17 @@ Financial statements
     
     *   (b) by a registered audit firm; or
     
-    *   (c) if the issuer is a public entity under the [Public Audit Act 2001][152], by the Auditor-General or any other person who may act as the auditor under that Act.
+    *   (c) if the issuer is a public entity under the [Public Audit Act 2001][153], by the Auditor-General or any other person who may act as the auditor under that Act.
     
-    (3) This section shall not apply in respect of a superannuation scheme that is registered under the [Superannuation Schemes Act 1989][141] if the annual accounts of that scheme are not required to be audited under [section 13][153] of that Act.
+    (3) This section shall not apply in respect of a superannuation scheme that is registered under the [Superannuation Schemes Act 1989][142] if the annual accounts of that scheme are not required to be audited under [section 13][154] of that Act.
     
-    Section 15(2): replaced, on 1 July 2012 (not applying to audits in respect of financial statements, or group financial statements, prepared for accounting periods that ended before that date), by [section 6(1)][154] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 15(2): replaced, on 1 July 2012 (not applying to audits in respect of financial statements, or group financial statements, prepared for accounting periods that ended before that date), by [section 6(1)][155] of the Financial Reporting Amendment Act 2011 (2011 No 22).
     
-    Section 15(3): added, on 1 October 1997, by [section 6][155] of the Financial Reporting Amendment Act (No 2) 1996 (1996 No 103).
+    Section 15(3): added, on 1 October 1997, by [section 6][156] of the Financial Reporting Amendment Act (No 2) 1996 (1996 No 103).
 
 ##### 16 Auditor's report on reporting entities
     
-*   (1) Where, pursuant to [section 15][26] of this Act or the Companies Act 1955 or the [Companies Act 1993][156], the financial statements of a reporting entity or group financial statements are required to be audited, the auditor's report on the financial statements or group financial statements must state---
+*   (1) Where, pursuant to [section 15][26] of this Act or the Companies Act 1955 or the [Companies Act 1993][157], the financial statements of a reporting entity or group financial statements are required to be audited, the auditor's report on the financial statements or group financial statements must state---
         
     *   (a) the work done by the auditor; and
     
@@ -977,19 +981,19 @@ Financial statements
     
     *   (g) whether, in the auditor's opinion and having regard to any information or explanations that may have been added by the reporting entity pursuant to [section 11(2)][22] or [section 14(2)][25], the financial statements and any group financial statements give a true and fair view of the matters to which they relate, and, if they do not, the respects in which they fail to give such a view.
     
-    (1A) [Section 79][157] of the Insurance (Prudential Supervision) Act 2010 applies in respect of a reporting entity that is a licensed insurer.
+    (1A) [Section 79][158] of the Insurance (Prudential Supervision) Act 2010 applies in respect of a reporting entity that is a licensed insurer.
     
     (2) Where the auditor's report indicates that the requirements of this Act have not been complied with, the auditor must, within 7 working days after signing the report, send a copy of the report and a copy of the financial statements and any group financial statements to which it relates, to the Registrar who must, in turn, forthwith send copies of the report and statements to the Board and, if the reporting entity or group to which the report and statements relate is an issuer, to the FMA.
     
     Section 16(1A): inserted, on 1 February 2011, by [section 241(2)][110] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
     
-    Section 16(2): substituted, on 28 July 1997, by [section 3][158] of the Financial Reporting Amendment Act (No 2) 1997 (1997 No 45).
+    Section 16(2): substituted, on 28 July 1997, by [section 3][159] of the Financial Reporting Amendment Act (No 2) 1997 (1997 No 45).
     
     Section 16(2): amended, on 1 May 2011, by [section 82][109] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 17 Auditor's report on exempt companies
     
-*   Where, pursuant to the Companies Act 1955 or the [Companies Act 1993][156], the financial statements of an exempt company are required to be audited, the auditor's report on the financial statements must state---
+*   Where, pursuant to the Companies Act 1955 or the [Companies Act 1993][157], the financial statements of an exempt company are required to be audited, the auditor's report on the financial statements must state---
         
     *   (a) the work done by the auditor; and
     
@@ -1003,7 +1007,7 @@ Financial statements
     
     *   (f) whether, in the auditor's opinion, the financial statements comply with [section 12][23], and if they do not, the respects in which they fail to comply.
     
-    Section 17(f): amended, on 28 July 1997, by [section 4][159] of the Financial Reporting Amendment Act (No 2) 1997 (1997 No 45).
+    Section 17(f): amended, on 28 July 1997, by [section 4][160] of the Financial Reporting Amendment Act (No 2) 1997 (1997 No 45).
 
 #### Registration of financial statements by issuers
 
@@ -1011,15 +1015,15 @@ Financial statements
     
 *   (1) The directors of an issuer must ensure that, within 20 working days after the financial statements of the issuer and any group financial statements are required to be signed, copies of those statements together with a copy of the auditor's report on those statements are delivered to the Registrar for registration.
     
-    (1A) Any financial statements to which subsection (1) applies and that are required for the purposes of this Act may also contain or be accompanied by financial statements and any auditor's report on those statements, that are required for the purposes of a prospectus under the [Securities Act 1978][113].
+    (1A) Any financial statements to which subsection (1) applies and that are required for the purposes of this Act may also contain or be accompanied by financial statements and any auditor's report on those statements, that are required for the purposes of a prospectus under the [Securities Act 1978][114].
     
     (2) The issuer must, at the same time, pay to the Registrar the prescribed registration fee.
     
     (3) Any person may, on payment of the prescribed fee (if any), inspect the copies of an issuer's financial statements and auditor's report on those statements delivered to the Registrar under subsection (1).
     
-    Section 18(1A): inserted, on 1 October 1997, by [section 7][160] of the Financial Reporting Amendment Act (No 2) 1996 (1996 No 103).
+    Section 18(1A): inserted, on 1 October 1997, by [section 7][161] of the Financial Reporting Amendment Act (No 2) 1996 (1996 No 103).
     
-    Section 18(3): substituted, on 3 May 2001, by [section 4][161] of the Financial Reporting Amendment Act 2001 (2001 No 21).
+    Section 18(3): substituted, on 3 May 2001, by [section 4][162] of the Financial Reporting Amendment Act 2001 (2001 No 21).
 
 #### Registration of financial statements by overseas companies
 
@@ -1063,7 +1067,7 @@ Financial statements
     
     *   (b) ensure that the company pays to the Registrar the prescribed registration fee at the same time.
     
-    Section 19: substituted, on 21 January 2007, by [section 11][162] of the Financial Reporting Amendment Act 2006 (2006 No 64).
+    Section 19: substituted, on 21 January 2007, by [section 11][163] of the Financial Reporting Amendment Act 2006 (2006 No 64).
 
 ##### 19A Interpretation for section 19
     
@@ -1087,7 +1091,7 @@ Financial statements
         
         
     
-    *   (c) _auditor's report_, in relation to an overseas company, means a report by a person qualified for appointment as auditor in accordance with [section 199][163] of the Companies Act 1993:
+    *   (c) _auditor's report_, in relation to an overseas company, means a report by a person qualified for appointment as auditor in accordance with [section 199][164] of the Companies Act 1993:
     
     *   (d) a subsidiary does not include any company or body corporate or association of persons that is classified as a subsidiary in any applicable financial reporting standard.
     
@@ -1101,7 +1105,7 @@ Financial statements
     
     (3) In counting employees for the purposes of subsection (1), part-time employees must be taken into account as an appropriate fraction of a full-time equivalent.
     
-    Section 19A: inserted, on 21 January 2007, by [section 11][162] of the Financial Reporting Amendment Act 2006 (2006 No 64).
+    Section 19A: inserted, on 21 January 2007, by [section 11][163] of the Financial Reporting Amendment Act 2006 (2006 No 64).
 
 ##### 20 Fees
     
@@ -1111,9 +1115,9 @@ Financial statements
     
     *   (b) prescribe the amounts payable to the Registrar by way of penalty for failure to deliver financial statements or group financial statements and the auditor's report on those statements within the time prescribed by [section 18(1)][30] or [section 19(3)][32].
     
-    Section 20(a): amended, on 3 May 2001, by [section 5][164] of the Financial Reporting Amendment Act 2001 (2001 No 21).
+    Section 20(a): amended, on 3 May 2001, by [section 5][165] of the Financial Reporting Amendment Act 2001 (2001 No 21).
     
-    Section 20(b): amended, on 21 January 2007, by [section 12][165] of the Financial Reporting Amendment Act 2006 (2006 No 64).
+    Section 20(b): amended, on 21 January 2007, by [section 12][166] of the Financial Reporting Amendment Act 2006 (2006 No 64).
 
 ##### 21 Application of this Part to accounting periods ending before person becomes an issuer
     
@@ -1122,21 +1126,21 @@ Financial statements
 ## Part 3  
 External Reporting Board
     
-*   Part 3: substituted, on 1 July 2011, by [section 7][166] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+*   Part 3: substituted, on 1 July 2011, by [section 7][167] of the Financial Reporting Amendment Act 2011 (2011 No 22).
 
 ##### 22 Continuation of External Reporting Board
     
 *   (1) There continues to be an organisation to be called the External Reporting Board.
     
-    (2) The External Reporting Board is a Crown entity for the purposes of [section 7][167] of the Crown Entities Act 2004\.
+    (2) The External Reporting Board is a Crown entity for the purposes of [section 7][168] of the Crown Entities Act 2004\.
     
-    (3) The [Crown Entities Act 2004][168] applies to the External Reporting Board except to the extent that this Act expressly provides otherwise.
+    (3) The [Crown Entities Act 2004][169] applies to the External Reporting Board except to the extent that this Act expressly provides otherwise.
     
     (4) The External Reporting Board is the same body as the Accounting Standards Review Board established under section 22 as in force immediately before its substitution by this section.
     
     (5) Unless the context otherwise requires, every reference to the Accounting Standards Review Board in any enactment, agreement, deed, instrument, application, notice, or other document in force immediately before the commencement of this section must, on and after that commencement, be read with all necessary modifications as a reference to the External Reporting Board.
     
-    Section 22: substituted, on 1 July 2011, by [section 7][166] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 22: substituted, on 1 July 2011, by [section 7][167] of the Financial Reporting Amendment Act 2011 (2011 No 22).
 
 ##### 23 Membership of Board
     
@@ -1144,11 +1148,11 @@ External Reporting Board
     
     (2) The Minister must not recommend a person for appointment as a member of the Board unless, in the opinion of the Minister, that person is qualified for appointment by reason of his or her knowledge of, or experience in, business, accounting, auditing, finance, economics, or law.
     
-    (3) Subsection (2) does not limit [section 29][169] of the Crown Entities Act 2004\.
+    (3) Subsection (2) does not limit [section 29][170] of the Crown Entities Act 2004\.
     
-    (4) Members of the External Reporting Board are the board for the purposes of the [Crown Entities Act 2004][168].
+    (4) Members of the External Reporting Board are the board for the purposes of the [Crown Entities Act 2004][169].
     
-    Section 23: substituted, on 1 July 2011, by [section 7][166] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 23: substituted, on 1 July 2011, by [section 7][167] of the Financial Reporting Amendment Act 2011 (2011 No 22).
 
 ##### 24 Functions of Board
     
@@ -1158,9 +1162,9 @@ External Reporting Board
             
         *   (i) this Act; or
         
-        *   (ii) the [Crown Entities Act 2004][168]; or
+        *   (ii) the [Crown Entities Act 2004][169]; or
         
-        *   (iii) the [Public Finance Act 1989][170]; or
+        *   (iii) the [Public Finance Act 1989][171]; or
         
         *   (iv) the [Local Government Act 2002][99]; or
         
@@ -1172,7 +1176,7 @@ External Reporting Board
             
         *   (i) the purposes of this Act; or
         
-        *   (ii) the purposes of the [Auditor Regulation Act 2011][171]; or
+        *   (ii) the purposes of the [Auditor Regulation Act 2011][172]; or
         
         *   (iii) the purposes of any enactment that requires a person to comply with those standards; or
         
@@ -1192,7 +1196,7 @@ External Reporting Board
     
     (2) For the avoidance of doubt, the function of the Board referred to in subsection (1)(a) includes the function of preparing and, if the Board thinks fit, issuing financial reporting standards that relate to prospective, summary, or interim financial information.
     
-    Section 24: substituted, on 1 July 2011, by [section 7][166] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 24: substituted, on 1 July 2011, by [section 7][167] of the Financial Reporting Amendment Act 2011 (2011 No 22).
 
 ##### 25 Board must act independently
     
@@ -1200,9 +1204,9 @@ External Reporting Board
         
     *   (a) this Act; and
     
-    *   (b) any other Act that expressly provides for the functions, powers, or duties of the Board (other than the [Crown Entities Act 2004][168]).
+    *   (b) any other Act that expressly provides for the functions, powers, or duties of the Board (other than the [Crown Entities Act 2004][169]).
     
-    Section 25: substituted, on 1 July 2011, by [section 7][166] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 25: substituted, on 1 July 2011, by [section 7][167] of the Financial Reporting Amendment Act 2011 (2011 No 22).
 
 ##### 26 Consultation
     
@@ -1214,13 +1218,13 @@ External Reporting Board
     
     (4) In subsection (2),---
     
-    _personal information_ has the same meaning as in [section 2][172] of the Privacy Act 1993
+    _personal information_ has the same meaning as in [section 2][173] of the Privacy Act 1993
     
-    _Privacy Commissioner_ has the same meaning as Commissioner in [section 2][172] of the Privacy Act 1993\.
+    _Privacy Commissioner_ has the same meaning as Commissioner in [section 2][173] of the Privacy Act 1993\.
     
-    (5) This section does not limit [section 16][173] or [17][174] of the Crown Entities Act 2004\.
+    (5) This section does not limit [section 16][174] or [17][175] of the Crown Entities Act 2004\.
     
-    Section 26: substituted, on 1 July 2011, by [section 7][166] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 26: substituted, on 1 July 2011, by [section 7][167] of the Financial Reporting Amendment Act 2011 (2011 No 22).
 
 ##### 27 Financial reporting standards
     
@@ -1258,7 +1262,7 @@ External Reporting Board
     
     *   (b) a financial reporting standard that applies to a particular person (including a department or office of Parliament) or category of persons will cease to apply to that person or category of persons in relation to the accounting periods or interim accounting periods that the Board may determine.
     
-    Section 27: substituted, on 1 July 2011, by [section 7][166] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 27: substituted, on 1 July 2011, by [section 7][167] of the Financial Reporting Amendment Act 2011 (2011 No 22).
 
 ##### 28 Miscellaneous matters relating to application of financial reporting standards
     
@@ -1282,7 +1286,7 @@ External Reporting Board
         
     *   (a) the directors of a reporting entity:
     
-    *   (b) the Minister of Finance and the Secretary to the Treasury, in relation to financial statements for the Crown required to be prepared under the [Public Finance Act 1989][170]:
+    *   (b) the Minister of Finance and the Secretary to the Treasury, in relation to financial statements for the Crown required to be prepared under the [Public Finance Act 1989][171]:
     
     *   (c) the chief executive of a department:
     
@@ -1294,7 +1298,7 @@ External Reporting Board
     
     (5) If an election is made under subsection (4), the financial reporting standard will apply accordingly to the accounting period or interim accounting period in respect of the relevant reporting entity, the Crown, the department, the office of Parliament, the Crown entity, or the local authority (as the case may be).
     
-    Section 28: substituted, on 1 July 2011, by [section 7][166] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 28: substituted, on 1 July 2011, by [section 7][167] of the Financial Reporting Amendment Act 2011 (2011 No 22).
 
 ##### 29 Auditing and assurance standards
     
@@ -1314,7 +1318,7 @@ External Reporting Board
     
     *   (b) must not be accounting periods or interim accounting periods that have ended or that end before the auditing and assurance standard or amendment takes effect.
     
-    Section 29: substituted, on 1 July 2011, by [section 7][166] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 29: substituted, on 1 July 2011, by [section 7][167] of the Financial Reporting Amendment Act 2011 (2011 No 22).
 
 ##### 30 Revocation of standard
     
@@ -1332,7 +1336,7 @@ External Reporting Board
         
     *   (a) the directors of a reporting entity:
     
-    *   (b) the Minister of Finance and the Secretary to the Treasury, in relation to financial statements for the Crown required to be prepared under the [Public Finance Act 1989][170]:
+    *   (b) the Minister of Finance and the Secretary to the Treasury, in relation to financial statements for the Crown required to be prepared under the [Public Finance Act 1989][171]:
     
     *   (c) the chief executive of a department:
     
@@ -1344,7 +1348,7 @@ External Reporting Board
     
     (5) If an election is made under subsection (4), the revocation of the financial reporting standard will apply accordingly to the accounting period or interim accounting period in respect of the relevant reporting entity, the Crown, the department, the office of Parliament, the Crown entity, or the local authority (as the case may be).
     
-    Section 30: substituted, on 1 July 2011, by [section 7][166] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 30: substituted, on 1 July 2011, by [section 7][167] of the Financial Reporting Amendment Act 2011 (2011 No 22).
 
 ##### 31 Public notice
     
@@ -1378,11 +1382,11 @@ External Reporting Board
     
     *   (b) ensure that copies of those specified standards are available for purchase by members of the public.
     
-    Section 31: substituted, on 1 July 2011, by [section 7][166] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 31: substituted, on 1 July 2011, by [section 7][167] of the Financial Reporting Amendment Act 2011 (2011 No 22).
 
 ##### 32 Disallowance of instruments and determinations by House of Representatives
     
-*   (1) The following instruments and determinations of the Board are disallowable instruments for the purposes of the [Legislation Act 2012][127]:
+*   (1) The following instruments and determinations of the Board are disallowable instruments for the purposes of the [Legislation Act 2012][128]:
         
     *   (a) any specified standard:
     
@@ -1392,17 +1396,17 @@ External Reporting Board
     
     *   (d) any determination made under [section 27(5)][42].
     
-    (2) The instruments and determinations referred to in subsection (1) must be presented to the House of Representatives in accordance with [section 41][128] of the Legislation Act 2012\.
+    (2) The instruments and determinations referred to in subsection (1) must be presented to the House of Representatives in accordance with [section 41][129] of the Legislation Act 2012\.
     
-    (3) The instruments and determinations referred to in subsection (1) are not legislative instruments for the purposes of the [Legislation Act 2012][127].
+    (3) The instruments and determinations referred to in subsection (1) are not legislative instruments for the purposes of the [Legislation Act 2012][128].
     
-    Section 32: substituted, on 1 July 2011, by [section 7][166] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 32: substituted, on 1 July 2011, by [section 7][167] of the Financial Reporting Amendment Act 2011 (2011 No 22).
     
-    Section 32(1): amended, on 5 August 2013, by [section 77(3)][130] of the Legislation Act 2012 (2012 No 119).
+    Section 32(1): amended, on 5 August 2013, by [section 77(3)][131] of the Legislation Act 2012 (2012 No 119).
     
-    Section 32(2): amended, on 5 August 2013, by [section 77(3)][130] of the Legislation Act 2012 (2012 No 119).
+    Section 32(2): amended, on 5 August 2013, by [section 77(3)][131] of the Legislation Act 2012 (2012 No 119).
     
-    Section 32(3): amended, on 5 August 2013, by [section 77(3)][130] of the Legislation Act 2012 (2012 No 119).
+    Section 32(3): amended, on 5 August 2013, by [section 77(3)][131] of the Legislation Act 2012 (2012 No 119).
 
 ##### 33 Certificates of Board
     
@@ -1420,7 +1424,7 @@ External Reporting Board
     
     *   (f) the accounting period or interim accounting period in relation to which a specified standard was in force.
     
-    Section 33: substituted, on 1 July 2011, by [section 7][166] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 33: substituted, on 1 July 2011, by [section 7][167] of the Financial Reporting Amendment Act 2011 (2011 No 22).
 
 ##### 34 Tiers of financial reporting for different classes of reporting entities and other entities
     
@@ -1432,7 +1436,7 @@ External Reporting Board
     
     *   (b) includes any other entities that are required by any Act to prepare financial statements in accordance with generally accepted accounting practice.
     
-    Section 34: substituted, on 1 July 2011, by [section 7][166] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 34: substituted, on 1 July 2011, by [section 7][167] of the Financial Reporting Amendment Act 2011 (2011 No 22).
 
 ##### 34A Board must develop and implement strategy for tiers of financial reporting
     
@@ -1440,7 +1444,7 @@ External Reporting Board
     
     (2) The Board must, after the strategy is approved by the Minister, take reasonable steps to implement the strategy.
     
-    Section 34A: inserted, on 1 July 2011, by [section 7][166] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 34A: inserted, on 1 July 2011, by [section 7][167] of the Financial Reporting Amendment Act 2011 (2011 No 22).
 
 ##### 34B Process for preparing strategy for tiers of financial reporting
     
@@ -1474,7 +1478,7 @@ External Reporting Board
     
     (5) Any failure to comply with subsection (4) does not affect the validity of the strategy.
     
-    Section 34B: inserted, on 1 July 2011, by [section 7][166] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 34B: inserted, on 1 July 2011, by [section 7][167] of the Financial Reporting Amendment Act 2011 (2011 No 22).
 
 ##### 34C Minister may approve strategy
     
@@ -1492,7 +1496,7 @@ External Reporting Board
     
     (4) The Minister's direction under subsection (3) may specify the date by which a draft strategy must be resubmitted (which may be after the 9-month period referred to in [section 34A][50]).
     
-    Section 34C: inserted, on 1 July 2011, by [section 7][166] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 34C: inserted, on 1 July 2011, by [section 7][167] of the Financial Reporting Amendment Act 2011 (2011 No 22).
 
 ##### 34D Board may vary or replace strategy for tiers of financial reporting
     
@@ -1506,7 +1510,7 @@ External Reporting Board
     
     (3) However, the Board is not required to comply with [section 34B(4)][51] in respect of a variation to the strategy if, in its opinion, the variation corrects a minor error or is otherwise of a minor nature.
     
-    Section 34D: inserted, on 1 July 2011, by [section 7][166] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 34D: inserted, on 1 July 2011, by [section 7][167] of the Financial Reporting Amendment Act 2011 (2011 No 22).
 
 ##### 35 Amendment to Official Information Act 1982
     
@@ -1535,7 +1539,7 @@ Miscellaneous
     
     Section 35A: substituted, on 1 May 2011, by [section 82][109] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 35A(5): repealed, on 14 September 2013, by [section 4(3)][175] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    Section 35A(5): repealed, on 14 September 2013, by [section 4(3)][176] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
 
 ##### 35AB Transitional provision for exemptions granted by Securities Commission
     
@@ -1551,11 +1555,11 @@ Miscellaneous
     
 *   (1) An exemption granted under [section 35A][56]---
         
-    *   (a) is a disallowable instrument for the purposes of the [Legislation Act 2012][127]; and
+    *   (a) is a disallowable instrument for the purposes of the [Legislation Act 2012][128]; and
     
-    *   (b) must be presented to the House of Representatives under [section 41][128] of that Act.
+    *   (b) must be presented to the House of Representatives under [section 41][129] of that Act.
     
-    (2) A class exemption (but not any other exemption granted under [section 35A][56]) is a legislative instrument for the purposes of the [Legislation Act 2012][127].
+    (2) A class exemption (but not any other exemption granted under [section 35A][56]) is a legislative instrument for the purposes of the [Legislation Act 2012][128].
     
     (3) An exemption granted under [section 35A][56] that is not a class exemption must, as soon as practicable after it is granted, be---
         
@@ -1573,9 +1577,9 @@ Miscellaneous
     
     Section 35AC: inserted, on 1 May 2011, by [section 82][109] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 35AC(1): replaced, on 5 August 2013, by [section 77(3)][130] of the Legislation Act 2012 (2012 No 119).
+    Section 35AC(1): replaced, on 5 August 2013, by [section 77(3)][131] of the Legislation Act 2012 (2012 No 119).
     
-    Section 35AC(2): replaced, on 5 August 2013, by [section 77(3)][130] of the Legislation Act 2012 (2012 No 119).
+    Section 35AC(2): replaced, on 5 August 2013, by [section 77(3)][131] of the Legislation Act 2012 (2012 No 119).
 
 ##### 35B Registrar of Companies may grant exemptions to directors of overseas companies
     
@@ -1593,13 +1597,13 @@ Miscellaneous
     
     (5) The Registrar of Companies may vary or revoke an exemption in the same way as an exemption may be granted under this section.
     
-    (6) A notice published in the _Gazette_ under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][127] and must be presented to the House of Representatives under [section 41][128] of that Act.
+    (6) A notice published in the _Gazette_ under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][128] and must be presented to the House of Representatives under [section 41][129] of that Act.
     
     (7) The Registrar of Companies' reasons for granting an exemption (including why the exemption is appropriate) must be notified in the _Gazette_ together with the exemption.
     
-    Section 35B: inserted, on 18 June 2007, by [section 18][176] of the Financial Reporting Amendment Act 2006 (2006 No 64).
+    Section 35B: inserted, on 18 June 2007, by [section 18][177] of the Financial Reporting Amendment Act 2006 (2006 No 64).
     
-    Section 35B(6): replaced, on 5 August 2013, by [section 77(3)][130] of the Legislation Act 2012 (2012 No 119).
+    Section 35B(6): replaced, on 5 August 2013, by [section 77(3)][131] of the Legislation Act 2012 (2012 No 119).
     
     Section 35B(7): added, on 1 May 2011, by [section 82][109] of the Financial Markets Authority Act 2011 (2011 No 5).
 
@@ -1613,13 +1617,13 @@ Miscellaneous
             
         *   (i) the Commissioner of Inland Revenue if the exemption is under [section 35B][59] and involves any provision of [section 10][20]; and
         
-        *   (ii) the Reserve Bank of New Zealand if the exemption concerns a registered bank (within the meaning of [section 2(1)][119] of the Reserve Bank of New Zealand Act 1989).
+        *   (ii) the Reserve Bank of New Zealand if the exemption concerns a registered bank (within the meaning of [section 2(1)][120] of the Reserve Bank of New Zealand Act 1989).
         
         
     
-    (2) This section does not limit [section 16][173] or [17][174] of the Crown Entities Act 2004\.
+    (2) This section does not limit [section 16][174] or [17][175] of the Crown Entities Act 2004\.
     
-    Section 35C: inserted, on 18 June 2007, by [section 18][176] of the Financial Reporting Amendment Act 2006 (2006 No 64).
+    Section 35C: inserted, on 18 June 2007, by [section 18][177] of the Financial Reporting Amendment Act 2006 (2006 No 64).
     
     Section 35C(1): substituted, on 1 May 2011, by [section 82][109] of the Financial Markets Authority Act 2011 (2011 No 5).
 
@@ -1631,7 +1635,7 @@ Miscellaneous
     
     *   (b) in any other case, the exemption is granted before the financial statements or group financial statements for that period are required to be completed.
     
-    Section 35D: inserted, on 18 June 2007, by [section 18][176] of the Financial Reporting Amendment Act 2006 (2006 No 64).
+    Section 35D: inserted, on 18 June 2007, by [section 18][177] of the Financial Reporting Amendment Act 2006 (2006 No 64).
     
     Section 35D: amended, on 1 May 2011, by [section 82][109] of the Financial Markets Authority Act 2011 (2011 No 5).
 
@@ -1653,9 +1657,9 @@ Miscellaneous
     
     (2) Where the financial statements of a reporting entity or group financial statements in relation to a group comprising a reporting entity and its subsidiaries fail to comply with an applicable financial reporting standard, every director of the reporting entity commits an offence and is liable on conviction to a fine not exceeding $100,000\.
     
-    Section 36(1): amended, on 1 July 2013, by [section 413][177] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 36(1): amended, on 1 July 2013, by [section 413][178] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 36(2): amended, on 1 July 2013, by [section 413][177] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 36(2): amended, on 1 July 2013, by [section 413][178] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 36A Content of statements that contain prospective, summary, or interim financial information
     
@@ -1671,9 +1675,9 @@ Miscellaneous
     
     (4) This section does not apply to the extent that it is inconsistent with, or modified by, the provisions of another enactment.
     
-    Section 36A: inserted, on 15 April 2004, by [section 6][178] of the Financial Reporting Amendment Act 2004 (2004 No 27).
+    Section 36A: inserted, on 15 April 2004, by [section 6][179] of the Financial Reporting Amendment Act 2004 (2004 No 27).
     
-    Section 36A(3): amended, on 1 July 2013, by [section 413][177] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 36A(3): amended, on 1 July 2013, by [section 413][178] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 37 Offences by directors of exempt companies
     
@@ -1685,7 +1689,7 @@ Miscellaneous
     
     every director of the exempt company commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
-    Section 37: amended, on 1 July 2013, by [section 413][177] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 37: amended, on 1 July 2013, by [section 413][178] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 38 Offences by directors of issuers
     
@@ -1699,21 +1703,21 @@ Miscellaneous
     
     every director of the issuer commits an offence and is liable on conviction to a fine not exceeding $100,000\.
     
-    Section 38: amended, on 1 July 2013, by [section 413][177] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 38: amended, on 1 July 2013, by [section 413][178] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 38(b): amended, on 3 May 2001, by [section 8(a)][179] of the Financial Reporting Amendment Act 2001 (2001 No 21).
+    Section 38(b): amended, on 3 May 2001, by [section 8(a)][180] of the Financial Reporting Amendment Act 2001 (2001 No 21).
     
-    Section 38(c): repealed, on 3 May 2001, by [section 8(b)][179] of the Financial Reporting Amendment Act 2001 (2001 No 21).
+    Section 38(c): repealed, on 3 May 2001, by [section 8(b)][180] of the Financial Reporting Amendment Act 2001 (2001 No 21).
 
 ##### 39 Offences by directors of overseas companies and other companies to which section 19 applies
     
 *   Where a copy of the financial statements of a company to which [section 19][32] applies and any group financial statements relating to a group comprising that company and its subsidiaries, and a copy of the auditor's report on those statements are not delivered to the Registrar in accordance with subsection (3) of that section, every director of the company commits an offence and is liable on conviction to a fine not exceeding $100,000\.
     
-    Section 39 heading: amended, on 21 January 2007, by [section 19(1)][180] of the Financial Reporting Amendment Act 2006 (2006 No 64).
+    Section 39 heading: amended, on 21 January 2007, by [section 19(1)][181] of the Financial Reporting Amendment Act 2006 (2006 No 64).
     
-    Section 39: amended, on 1 July 2013, by [section 413][177] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 39: amended, on 1 July 2013, by [section 413][178] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 39: amended, on 21 January 2007, by [section 19(2)][180] of the Financial Reporting Amendment Act 2006 (2006 No 64).
+    Section 39: amended, on 21 January 2007, by [section 19(2)][181] of the Financial Reporting Amendment Act 2006 (2006 No 64).
 
 ##### 40 Defences
     
@@ -1739,33 +1743,33 @@ Miscellaneous
     
     (2) For the purposes of this section, a person who voted in favour of the making of a statement at a meeting of directors or members or shareholders of an entity is deemed to have authorised the making of the statement.
     
-    Section 41(1): amended, on 1 July 2013, by [section 413][177] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 41(1): amended, on 1 July 2013, by [section 413][178] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 41A Infringement offences
     
 *   (1) If a person is alleged to have committed an infringement offence, that person may either---
         
-    *   (a) be proceeded against by filing a charging document under [section 14][181] of the Criminal Procedure Act 2011; or
+    *   (a) be proceeded against by filing a charging document under [section 14][182] of the Criminal Procedure Act 2011; or
     
     *   (b) be served with an infringement notice as provided in [section 41B][71].
     
-    (2) Despite [section 21][182] of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to file a charging document is not necessary if the Registrar commences proceedings for an infringement offence by filing a charging document under the [Criminal Procedure Act 2011][183].
+    (2) Despite [section 21][183] of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to file a charging document is not necessary if the Registrar commences proceedings for an infringement offence by filing a charging document under the [Criminal Procedure Act 2011][184].
     
-    Section 41A: inserted, on 18 June 2007, by [section 20][184] of the Financial Reporting Amendment Act 2006 (2006 No 64).
+    Section 41A: inserted, on 18 June 2007, by [section 20][185] of the Financial Reporting Amendment Act 2006 (2006 No 64).
     
-    Section 41A(1)(a): replaced, on 1 July 2013, by [section 413][177] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 41A(1)(a): replaced, on 1 July 2013, by [section 413][178] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 41A(2): replaced, on 1 July 2013, by [section 413][177] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 41A(2): replaced, on 1 July 2013, by [section 413][178] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 41B Infringement notices
     
 *   (1) The Registrar may issue an infringement notice to a person if the Registrar believes on reasonable grounds that the person is committing, or has committed, an infringement offence.
     
-    (2) The Registrar may revoke an infringement notice before the infringement fee is paid, or an order for payment of a fine is made or deemed to be made by a court under [section 21][182] of the Summary Proceedings Act 1957\.
+    (2) The Registrar may revoke an infringement notice before the infringement fee is paid, or an order for payment of a fine is made or deemed to be made by a court under [section 21][183] of the Summary Proceedings Act 1957\.
     
     (3) An infringement notice is revoked by giving written notice to the person to whom it was issued that the notice is revoked.
     
-    Section 41B: inserted, on 18 June 2007, by [section 20][184] of the Financial Reporting Amendment Act 2006 (2006 No 64).
+    Section 41B: inserted, on 18 June 2007, by [section 20][185] of the Financial Reporting Amendment Act 2006 (2006 No 64).
 
 ##### 41C Procedural requirements for infringement notices
     
@@ -1787,7 +1791,7 @@ Miscellaneous
     
     *   (d) the time within which the infringement fee must be paid; and
     
-    *   (e) a summary of the provisions of [section 21(10)][182] of the Summary Proceedings Act 1957; and
+    *   (e) a summary of the provisions of [section 21(10)][183] of the Summary Proceedings Act 1957; and
     
     *   (f) a statement that the person served with the notice has a right to request a hearing; and
     
@@ -1795,39 +1799,39 @@ Miscellaneous
     
     *   (h) any other prescribed matters.
     
-    (4) If an infringement notice has been issued, proceedings in respect of the infringement offence to which the notice relates may be commenced in accordance with [section 21][182] of the Summary Proceedings Act 1957 and, in that case,---
+    (4) If an infringement notice has been issued, proceedings in respect of the infringement offence to which the notice relates may be commenced in accordance with [section 21][183] of the Summary Proceedings Act 1957 and, in that case,---
         
     *   (a) reminder notices may be prescribed under regulations made under this Act; and
     
-    *   (b) in all other respects, [section 21][182] of the Summary Proceedings Act 1957 applies with all necessary modifications.
+    *   (b) in all other respects, [section 21][183] of the Summary Proceedings Act 1957 applies with all necessary modifications.
     
     (5) Reminder notices must contain the prescribed information.
     
-    Section 41C: inserted, on 18 June 2007, by [section 20][184] of the Financial Reporting Amendment Act 2006 (2006 No 64).
+    Section 41C: inserted, on 18 June 2007, by [section 20][185] of the Financial Reporting Amendment Act 2006 (2006 No 64).
     
-    Section 41C(2): amended, on 1 July 2013, by [section 413][177] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 41C(2): amended, on 1 July 2013, by [section 413][178] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 41D Payment of infringement fee
     
 *   The Registrar must pay all infringement fees received into a Crown Bank Account.
     
-    Section 41D: inserted, on 18 June 2007, by [section 20][184] of the Financial Reporting Amendment Act 2006 (2006 No 64).
+    Section 41D: inserted, on 18 June 2007, by [section 20][185] of the Financial Reporting Amendment Act 2006 (2006 No 64).
 
 ##### 42 Time for filing charging document for offence against section 37
     
-*   (1) Despite anything to the contrary in [section 25][185] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against [section 37][65] of this Act ends on the date that is 3 years after the date on which the offence was committed.
+*   (1) Despite anything to the contrary in [section 25][186] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against [section 37][65] of this Act ends on the date that is 3 years after the date on which the offence was committed.
     
-    (2) Nothing in subsection (1) affects the application of [section 25][185] of the Criminal Procedure Act 2011 in relation to any offence not mentioned in that subsection.
+    (2) Nothing in subsection (1) affects the application of [section 25][186] of the Criminal Procedure Act 2011 in relation to any offence not mentioned in that subsection.
     
-    Section 42: replaced, on 1 July 2013, by [section 413][177] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 42: replaced, on 1 July 2013, by [section 413][178] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 42A Privacy Act 1993
     
-*   The disclosure of personal information (as defined in [section 2][186] of the Privacy Act 1993) is not a breach of [principle 10][187] or [principle 11][187] of that Act, if the disclosure is required for compliance with an applicable financial reporting standard that was approved or issued after the commencement of the [Financial Reporting Amendment Act 2001][188].
+*   The disclosure of personal information (as defined in [section 2][187] of the Privacy Act 1993) is not a breach of [principle 10][188] or [principle 11][188] of that Act, if the disclosure is required for compliance with an applicable financial reporting standard that was approved or issued after the commencement of the [Financial Reporting Amendment Act 2001][189].
     
-    Section 42A: inserted, on 3 May 2001, by [section 9][189] of the Financial Reporting Amendment Act 2001 (2001 No 21).
+    Section 42A: inserted, on 3 May 2001, by [section 9][190] of the Financial Reporting Amendment Act 2001 (2001 No 21).
     
-    Section 42A: amended, on 1 July 2011, by [section 8][190] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 42A: amended, on 1 July 2011, by [section 8][191] of the Financial Reporting Amendment Act 2011 (2011 No 22).
 
 ##### 42B Regulations
     
@@ -1855,17 +1859,17 @@ Miscellaneous
     
     (2) The amounts payable under regulations made under this section are recoverable by the FMA or the Registrar of Companies (as the case may be) in any court of competent jurisdiction as a debt due to the FMA or the Registrar of Companies.
     
-    Section 42B: inserted, on 22 November 2006, by [section 21][191] of the Financial Reporting Amendment Act 2006 (2006 No 64).
+    Section 42B: inserted, on 22 November 2006, by [section 21][192] of the Financial Reporting Amendment Act 2006 (2006 No 64).
     
     Section 42B(1)(a)(i): amended, on 1 May 2011, by [section 82][109] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 42B(1)(a)(ii): repealed, on 1 July 2011, by [section 9(1)][192] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 42B(1)(a)(ii): repealed, on 1 July 2011, by [section 9(1)][193] of the Financial Reporting Amendment Act 2011 (2011 No 22).
     
-    Section 42B(1)(e): added, on 1 July 2011, by [section 9(2)][192] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 42B(1)(e): added, on 1 July 2011, by [section 9(2)][193] of the Financial Reporting Amendment Act 2011 (2011 No 22).
     
-    Section 42B(1)(f): added, on 1 July 2011, by [section 9(2)][192] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 42B(1)(f): added, on 1 July 2011, by [section 9(2)][193] of the Financial Reporting Amendment Act 2011 (2011 No 22).
     
-    Section 42B(2): amended, on 1 July 2011, by [section 9(3)][192] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 42B(2): amended, on 1 July 2011, by [section 9(3)][193] of the Financial Reporting Amendment Act 2011 (2011 No 22).
     
     Section 42B(2): amended, on 1 May 2011, by [section 82][109] of the Financial Markets Authority Act 2011 (2011 No 5).
 
@@ -1887,21 +1891,21 @@ Miscellaneous
     
     *   (f) every other person who is a member, fellow, or associate of an association of accountants specified in the regulations and that is in the business of offering accounting or auditing services to the public in New Zealand; and
     
-    *   (g) public entities (within the meaning of the [Public Audit Act 2001][152]); and
+    *   (g) public entities (within the meaning of the [Public Audit Act 2001][153]); and
     
     *   (h) every other person registered or incorporated, or who makes an application for registration or incorporation of a person, under any of the following Acts:
             
-        *   (i) the [Building Societies Act 1965][137]:
+        *   (i) the [Building Societies Act 1965][138]:
         
-        *   (ii) the [Companies Act 1993][156]:
+        *   (ii) the [Companies Act 1993][157]:
         
-        *   (iii) the [Co-operative Companies Act 1996][156]:
+        *   (iii) the [Co-operative Companies Act 1996][157]:
         
         *   (iv) the [Friendly Societies and Credit Unions Act 1982][101]:
         
-        *   (v) the [Industrial and Provident Societies Act 1908][193]:
+        *   (v) the [Industrial and Provident Societies Act 1908][194]:
         
-        *   (vi) the [Limited Partnerships Act 2008][194].
+        *   (vi) the [Limited Partnerships Act 2008][195].
         
         
     
@@ -1945,7 +1949,7 @@ Miscellaneous
     
     (10) The Board, or any other person prescribed for the purposes of this subsection, must ensure that each levy payment is paid into a Crown Bank Account and is separately accounted for.
     
-    Section 42C: inserted, on 1 July 2011, by [section 10][195] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 42C: inserted, on 1 July 2011, by [section 10][196] of the Financial Reporting Amendment Act 2011 (2011 No 22).
 
 ##### 42D Board must consult about request for appropriation
     
@@ -1963,7 +1967,7 @@ Miscellaneous
     
     (5) A failure to comply with this section does not affect the validity of any regulations made under [section 42C][77].
     
-    Section 42D: inserted, on 1 July 2011, by [section 10][195] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 42D: inserted, on 1 July 2011, by [section 10][196] of the Financial Reporting Amendment Act 2011 (2011 No 22).
 
 ##### 43 Administration of Act
     
@@ -1971,17 +1975,17 @@ Miscellaneous
 
 ##### 44 Transitional provisions
     
-*   (1) Nothing in this Act shall apply in relation to an accounting period or an interim accounting period of an entity that is an industrial and provident society that ended before 1 July 1994 and, in relation to any such period, the [Industrial and Provident Societies Act 1908][193], as in force immediately before that date, shall continue to apply as if this Act had not been passed.
+*   (1) Nothing in this Act shall apply in relation to an accounting period or an interim accounting period of an entity that is an industrial and provident society that ended before 1 July 1994 and, in relation to any such period, the [Industrial and Provident Societies Act 1908][194], as in force immediately before that date, shall continue to apply as if this Act had not been passed.
     
-    (2) Nothing in this Act shall apply in relation to an accounting period or an interim accounting period of an entity that is an incorporated society that ended before 1 July 1994 and, in relation to any such period, the [Incorporated Societies Act 1908][196], as in force immediately before that date, shall continue to apply as if this Act had not been passed.
+    (2) Nothing in this Act shall apply in relation to an accounting period or an interim accounting period of an entity that is an incorporated society that ended before 1 July 1994 and, in relation to any such period, the [Incorporated Societies Act 1908][197], as in force immediately before that date, shall continue to apply as if this Act had not been passed.
     
     (3) Nothing in this Act shall apply in relation to an accounting period or an interim accounting period of an entity that is a company (within the meaning of section 2 of the Companies Act 1955) that ended before 1 July 1994 and, in relation to any such period, the Companies Act 1955, as in force immediately before that date, shall continue to apply as if this Act had not been passed.
     
-    (4) Nothing in this Act shall apply in relation to an accounting period or interim accounting period of an entity that is a unit trust (within the meaning of [section 2][95] of the Unit Trusts Act 1960) that ended before 1 July 1994 and, in relation to any such period, the [Unit Trusts Act 1960][197], as in force immediately before that date, shall continue to apply as if this Act had not been passed.
+    (4) Nothing in this Act shall apply in relation to an accounting period or interim accounting period of an entity that is a unit trust (within the meaning of [section 2][95] of the Unit Trusts Act 1960) that ended before 1 July 1994 and, in relation to any such period, the [Unit Trusts Act 1960][198], as in force immediately before that date, shall continue to apply as if this Act had not been passed.
     
-    (5) Nothing in this Act shall apply in relation to an accounting period or an interim accounting period of an entity that is a building society (within the meaning of [section 2][198] of the Building Societies Act 1965) that ended before 1 July 1994 and, in relation to any such period, the [Building Societies Act 1965][137], as in force immediately before that date, shall continue to apply as if this Act had not been passed.
+    (5) Nothing in this Act shall apply in relation to an accounting period or an interim accounting period of an entity that is a building society (within the meaning of [section 2][199] of the Building Societies Act 1965) that ended before 1 July 1994 and, in relation to any such period, the [Building Societies Act 1965][138], as in force immediately before that date, shall continue to apply as if this Act had not been passed.
     
-    (6) Nothing in this Act shall apply in relation to an accounting period or interim accounting period of an entity that is a credit union or a society registered under [Part 2][199] of the Friendly Societies and Credit Unions Act 1982 that ended before 1 July 1994 and, in relation to any such period, the [Friendly Societies and Credit Unions Act 1982][101], as in force immediately before that date, shall continue to apply as if this Act had not been passed.
+    (6) Nothing in this Act shall apply in relation to an accounting period or interim accounting period of an entity that is a credit union or a society registered under [Part 2][200] of the Friendly Societies and Credit Unions Act 1982 that ended before 1 July 1994 and, in relation to any such period, the [Friendly Societies and Credit Unions Act 1982][101], as in force immediately before that date, shall continue to apply as if this Act had not been passed.
 
 ##### 45 Repeals and revocations
     
@@ -2001,11 +2005,11 @@ Miscellaneous
 
 ##### 46 Amendment to Summary Proceedings Act 1957
     
-*   _Amendment(s) incorporated in the [Act(s)][200]._
+*   _Amendment(s) incorporated in the [Act(s)][201]._
 
 ##### 47 Amendment to Securities Act 1978
     
-*   _Amendment(s) incorporated in the [Act(s)][113]._
+*   _Amendment(s) incorporated in the [Act(s)][114]._
 
 ##### 48 Amendments to Public Finance Act 1989
     
@@ -2022,11 +2026,11 @@ Miscellaneous
 ## Schedule 1  
 Provisions applying to Accounting Standards Review Board
 
-[s 32][201]
+[s 32][202]
 
 \[Repealed\]
     
-*   Schedule 1: repealed, on 1 July 2011, by [section 11][202] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+*   Schedule 1: repealed, on 1 July 2011, by [section 11][203] of the Financial Reporting Amendment Act 2011 (2011 No 22).
 
 ---
 
@@ -2037,7 +2041,7 @@ Enactments amended
 
 ##### Building Societies Act 1965 (1965 No 22) (RS Vol 17 p 41)
 
-_Amendment(s) incorporated in the [Act(s)][137]._
+_Amendment(s) incorporated in the [Act(s)][138]._
 
 ##### Companies Act 1955 (1955 No 63) (RS Vol 15 p 89)
 
@@ -2077,19 +2081,19 @@ _Amendment(s) incorporated in the [Act(s)][101]._
 
 ##### Incorporated Societies Act 1908 (1908 No 212) (RS Vol 7 p 383)
 
-_Amendment(s) incorporated in the [Act(s)][196]._
+_Amendment(s) incorporated in the [Act(s)][197]._
 
 ##### Industrial and Provident Societies Act 1908 (1908 No 81) (RS Vol 7 p 407)
 
-_Amendment(s) incorporated in the [Act(s)][193]._
+_Amendment(s) incorporated in the [Act(s)][194]._
 
 ##### Securities Act 1978 (1978 No 103) (RS Vol 15 p 533)
 
-_Amendment(s) incorporated in the [Act(s)][113]._
+_Amendment(s) incorporated in the [Act(s)][114]._
 
 ##### Unit Trusts Act 1960 (1960 No 99) (RS Vol 10 p 953)
 
-_Amendment(s) incorporated in the [Act(s)][197]._
+_Amendment(s) incorporated in the [Act(s)][198]._
 
 ---
 
@@ -2101,7 +2105,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Financial Reporting Amendment Act 2006][203].
+*   This Act is the [Financial Reporting Amendment Act 2006][204].
 
 ##### 2 Commencement
     
@@ -2143,7 +2147,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Financial Reporting Amendment Act 2011][204].
+*   This Act is the [Financial Reporting Amendment Act 2011][205].
 
 ##### 2 Commencement
     
@@ -2187,57 +2191,59 @@ Commencementsee section 2
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][205] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][206] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][206] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][207] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][207] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][208] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][208] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][209] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70): [section 4(3)][175]
+*   Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70): [section 4(3)][176]
     
-    Legislation Act 2012 (2012 No 119): [section 77(3)][130]
+    Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][113]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][177]
+    Legislation Act 2012 (2012 No 119): [section 77(3)][131]
     
-    [Financial Reporting Amendment Act 2011][204] (2011 No 22)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][178]
     
-    KiwiSaver Amendment Act 2011 (2011 No 8): [section 56][121]
+    [Financial Reporting Amendment Act 2011][205] (2011 No 22)
+    
+    KiwiSaver Amendment Act 2011 (2011 No 8): [section 56][122]
     
     Financial Markets Authority Act 2011 (2011 No 5): [section 82][109]
     
     Insurance (Prudential Supervision) Act 2010 (2010 No 111): [section 241(2)][110]
     
-    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][209]
+    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][210]
     
-    Accident Compensation Amendment Act 2010 (2010 No 1): [section 5(1)(b)][124]
+    Accident Compensation Amendment Act 2010 (2010 No 1): [section 5(1)(b)][125]
     
     Limited Partnerships Act 2008 (2008 No 1): [section 121(1)][106]
     
-    [Financial Reporting Amendment Act 2006][203] (2006 No 64)
+    [Financial Reporting Amendment Act 2006][204] (2006 No 64)
     
     Crown Entities Act 2004 (2004 No 115): [section 200][105]
     
-    [Financial Reporting Amendment Act 2004][210] (2004 No 27)
+    [Financial Reporting Amendment Act 2004][211] (2004 No 27)
     
-    Retirement Villages Act 2003 (2003 No 112): [section 109][125]
+    Retirement Villages Act 2003 (2003 No 112): [section 109][126]
     
     Local Government Act 2002 (2002 No 84): [section 262][111]
     
     Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49): section 337(1)
     
-    [Financial Reporting Amendment Act 2001][188] (2001 No 21)
+    [Financial Reporting Amendment Act 2001][189] (2001 No 21)
     
-    [Financial Reporting Amendment Act (No 2) 1997][211] (1997 No 45)
+    [Financial Reporting Amendment Act (No 2) 1997][212] (1997 No 45)
     
-    [Financial Reporting Amendment Act 1997][212] (1997 No 17)
+    [Financial Reporting Amendment Act 1997][213] (1997 No 17)
     
-    [Financial Reporting Amendment Act (No 2) 1996][213] (1996 No 103)
+    [Financial Reporting Amendment Act (No 2) 1996][214] (1996 No 103)
     
     Financial Reporting Amendment Act 1996 (1996 No 86)
     
-    Local Government Amendment Act (No 3) 1996 (1996 No 83): [section 16(1)][214]
+    Local Government Amendment Act (No 3) 1996 (1996 No 83): [section 16(1)][215]
     
     Institute of Chartered Accountants of New Zealand Act 1996 (1996 No 39): section 23
     
@@ -2360,105 +2366,106 @@ Commencementsee section 2
 [110]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM2478612
 [111]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM174088
 [112]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM367235
-[113]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM25999
-[114]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM378371
-[115]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM104120
-[116]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM2478100
-[117]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM3005141
-[118]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM220364
-[119]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM199370
-[120]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM406389
-[121]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM3638451
-[122]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM392420
-[123]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM104117
-[124]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM2773701
-[125]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM220980
-[126]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM392421
-[127]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM2997643
-[128]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM2998573
-[129]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM2997696
-[130]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM2998633
-[131]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM392428
-[132]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM225877
-[133]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM199886
-[134]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM406391
-[135]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM392429
-[136]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM408956
-[137]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM367767
-[138]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM408957
-[139]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM408958
-[140]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM26805
-[141]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM143291
-[142]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM220373
-[143]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM220831
-[144]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM220887
-[145]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM406392
-[146]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM245341
-[147]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM392432
-[148]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM244196
-[149]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM392436
-[150]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM90719
-[151]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM408959
-[152]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM88540
-[153]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM143777
-[154]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM3701726
-[155]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM406394
-[156]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM319569
-[157]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM2478372
-[158]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM410363
-[159]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM410364
-[160]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM406395
-[161]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM90720
-[162]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM392437
-[163]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM320887
-[164]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM90721
-[165]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM392443
-[166]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM3701727
-[167]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM329641
-[168]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM329630
-[169]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM329955
-[170]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM160808
-[171]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM3230554
-[172]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM296645
-[173]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM329930
-[174]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM329931
-[175]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM5561110
-[176]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM392454
-[177]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM3360714
-[178]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM244198
-[179]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM90727
-[180]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM392460
-[181]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM3360057
-[182]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM311346
-[183]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM3359902
-[184]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM392461
-[185]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM3360067
-[186]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM297009
-[187]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM297038
-[188]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM90713
-[189]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM90728
-[190]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM3701752
-[191]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM392466
-[192]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM3701753
-[193]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM144405
-[194]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM1139100
-[195]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM3701754
-[196]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM175774
-[197]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM325263
-[198]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM367774
-[199]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM59827
-[200]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM310742
-[201]: http://www.legislation.govt.nz/act/public/1993/0106/latest/whole.html#DLM325123
-[202]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM3701758
-[203]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM392402
-[204]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM3701702
-[205]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM2998516
-[206]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM2998515
-[207]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM2998532
-[208]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[209]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM3043113
-[210]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM244185
-[211]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM410356
-[212]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM408950
-[213]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM406382
-[214]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM394152
+[113]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM4929207
+[114]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM25999
+[115]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM378371
+[116]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM104120
+[117]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM2478100
+[118]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM3005141
+[119]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM220364
+[120]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM199370
+[121]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM406389
+[122]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM3638451
+[123]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM392420
+[124]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM104117
+[125]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM2773701
+[126]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM220980
+[127]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM392421
+[128]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM2997643
+[129]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM2998573
+[130]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM2997696
+[131]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM2998633
+[132]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM392428
+[133]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM225877
+[134]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM199886
+[135]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM406391
+[136]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM392429
+[137]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM408956
+[138]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM367767
+[139]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM408957
+[140]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM408958
+[141]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM26805
+[142]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM143291
+[143]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM220373
+[144]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM220831
+[145]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM220887
+[146]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM406392
+[147]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM245341
+[148]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM392432
+[149]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM244196
+[150]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM392436
+[151]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM90719
+[152]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM408959
+[153]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM88540
+[154]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM143777
+[155]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM3701726
+[156]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM406394
+[157]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM319569
+[158]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM2478372
+[159]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM410363
+[160]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM410364
+[161]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM406395
+[162]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM90720
+[163]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM392437
+[164]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM320887
+[165]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM90721
+[166]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM392443
+[167]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM3701727
+[168]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM329641
+[169]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM329630
+[170]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM329955
+[171]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM160808
+[172]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM3230554
+[173]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM296645
+[174]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM329930
+[175]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM329931
+[176]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM5561110
+[177]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM392454
+[178]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM3360714
+[179]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM244198
+[180]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM90727
+[181]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM392460
+[182]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM3360057
+[183]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM311346
+[184]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM3359902
+[185]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM392461
+[186]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM3360067
+[187]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM297009
+[188]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM297038
+[189]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM90713
+[190]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM90728
+[191]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM3701752
+[192]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM392466
+[193]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM3701753
+[194]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM144405
+[195]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM1139100
+[196]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM3701754
+[197]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM175774
+[198]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM325263
+[199]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM367774
+[200]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM59827
+[201]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM310742
+[202]: http://www.legislation.govt.nz/act/public/1993/0106/latest/whole.html#DLM325123
+[203]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM3701758
+[204]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM392402
+[205]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM3701702
+[206]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM2998516
+[207]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM2998515
+[208]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM2998532
+[209]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[210]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM3043113
+[211]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM244185
+[212]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM410356
+[213]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM408950
+[214]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM406382
+[215]: http://www.legislation.govt.nz/act/public/1993/0106/latest/link.aspx?id=DLM394152
