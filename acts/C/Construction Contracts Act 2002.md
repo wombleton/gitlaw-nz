@@ -1,5 +1,5 @@
 Reprint  
-as at 1 January 2011
+as at 1 January 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,242 +13,242 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-This Act is administered by the Department of Building and Housing.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
-[2][2] [Commencement][2]
+[2][2][][2][Commencement][2]
 
 [Part 1][3]  
 [Preliminary provisions][3]
 
 [Purpose][4]
 
-[3][5] [Purpose][5]
+[3][5][][5][Purpose][5]
 
 [Overview][6]
 
-[4][7] [Overview][7]
+[4][7][][7][Overview][7]
 
 [Interpretation][8]
 
-[5][9] [Interpretation][9]
+[5][9][][9][Interpretation][9]
 
-[6][10] [Meaning of construction work][10]
+[6][10][][10][Meaning of construction work][10]
 
-[7][11] [Meaning of associate][11]
+[7][11][][11][Meaning of associate][11]
 
 [Application][12]
 
-[8][13] [Act binds the Crown][13]
+[8][13][][13][Act binds the Crown][13]
 
-[9][14] [When Act applies: general][14]
+[9][14][][14][When Act applies: general][14]
 
-[10][15] [When Act applies: residential construction contracts][15]
+[10][15][][15][When Act applies: residential construction contracts][15]
 
-[11][16] [When Act does not apply][16]
+[11][16][][16][When Act does not apply][16]
 
 [No contracting out][17]
 
-[12][18] [No contracting out of Act][18]
+[12][18][][18][No contracting out of Act][18]
 
 [Part 2][19]  
 [Payments][19]
 
-[Subpart 1][20]---[Prohibition of conditional payment provisions of construction contracts][20]
+[Subpart 1][20][---][20][Prohibition of conditional payment provisions of construction contracts][20]
 
-[13][21] [Conditional payment provisions ineffective][21]
+[13][21][][21][Conditional payment provisions ineffective][21]
 
-[Subpart 2][22]---[Progress payments][22]
+[Subpart 2][22][---][22][Progress payments][22]
 
 [Parties may agree on express terms for progress payments][23]
 
-[14][24] [Parties free to agree on progress payment provisions in construction contract][24]
+[14][24][][24][Parties free to agree on progress payment provisions in construction contract][24]
 
 [Default provisions for progress payments in absence of express terms][25]
 
-[15][26] [Application of sections 16 to 18][26]
+[15][26][][26][Application of sections 16 to 18][26]
 
-[16][27] [Right to progress payments][27]
+[16][27][][27][Right to progress payments][27]
 
-[17][28] [Amount of progress payment][28]
+[17][28][][28][Amount of progress payment][28]
 
-[18][29] [Due date for payment][29]
+[18][29][][29][Due date for payment][29]
 
-[Subpart 3][30]---[Procedure for making and responding to payment claims][30]
+[Subpart 3][30][---][30][Procedure for making and responding to payment claims][30]
 
-[19][31] [Interpretation][31]
+[19][31][][31][Interpretation][31]
 
-[20][32] [Payment claims][32]
+[20][32][][32][Payment claims][32]
 
-[21][33] [Payment schedules][33]
+[21][33][][33][Payment schedules][33]
 
-[22][34] [Liability for paying claimed amount][34]
+[22][34][][34][Liability for paying claimed amount][34]
 
-[23][35] [Consequences of not paying claimed amount where no payment schedule provided][35]
+[23][35][][35][Consequences of not paying claimed amount where no payment schedule provided][35]
 
-[24][36] [Consequences of not paying scheduled amount in manner indicated by payment schedule][36]
+[24][36][][36][Consequences of not paying scheduled amount in manner indicated by payment schedule][36]
 
 [Part 3][37]  
 [Adjudication of disputes][37]
 
-[Subpart 1][38]---[Preliminary][38]
+[Subpart 1][38][---][38][Preliminary][38]
 
-[25][39] [Right to refer disputes to adjudication][39]
+[25][39][][39][Right to refer disputes to adjudication][39]
 
-[26][40] [Relationship between Part and other dispute resolution procedures][40]
+[26][40][][40][Relationship between Part and other dispute resolution procedures][40]
 
-[27][41] [Effect of Part on civil proceedings][41]
+[27][41][][41][Effect of Part on civil proceedings][41]
 
-[Subpart 2][42]---[Procedure for initiating adjudication and appointing adjudicator][42]
+[Subpart 2][42][---][42][Procedure for initiating adjudication and appointing adjudicator][42]
 
-[28][43] [How to initiate adjudication][43]
+[28][43][][43][How to initiate adjudication][43]
 
-[29][44] [Claimant may seek approval for issue of charging order in respect of construction site owned by respondent][44]
+[29][44][][44][Claimant may seek approval for issue of charging order in respect of construction site owned by respondent][44]
 
-[30][45] [Claimant may seek determination of liability of owner who is not respondent][45]
+[30][45][][45][Claimant may seek determination of liability of owner who is not respondent][45]
 
-[31][46] [When claimant may not seek approval for issue of charging order][46]
+[31][46][][46][When claimant may not seek approval for issue of charging order][46]
 
-[32][47] [Owner who is not respondent is party to adjudication proceedings][47]
+[32][47][][47][Owner who is not respondent is party to adjudication proceedings][47]
 
-[33][48] [Selection of adjudicator][48]
+[33][48][][48][Selection of adjudicator][48]
 
-[34][49] [Eligibility criteria for adjudicators][49]
+[34][49][][49][Eligibility criteria for adjudicators][49]
 
-[35][50] [Appointment of adjudicator][50]
+[35][50][][50][Appointment of adjudicator][50]
 
-[36][51] [Referral of dispute to adjudicator][51]
+[36][51][][51][Referral of dispute to adjudicator][51]
 
-[37][52] [Response to adjudication claim][52]
+[37][52][][52][Response to adjudication claim][52]
 
-[Subpart 3][53]---[Conduct of adjudication proceedings][53]
+[Subpart 3][53][---][53][Conduct of adjudication proceedings][53]
 
-[38][54] [Jurisdiction of adjudicators][54]
+[38][54][][54][Jurisdiction of adjudicators][54]
 
-[39][55] [Withdrawal of adjudication proceedings][55]
+[39][55][][55][Withdrawal of adjudication proceedings][55]
 
-[40][56] [Consolidation of adjudication proceedings][56]
+[40][56][][56][Consolidation of adjudication proceedings][56]
 
-[41][57] [Duties of adjudicator][57]
+[41][57][][57][Duties of adjudicator][57]
 
-[42][58] [Powers of adjudicator][58]
+[42][58][][58][Powers of adjudicator][58]
 
-[43][59] [When adjudicator's powers not affected][59]
+[43][59][][59][When adjudicator's powers not affected][59]
 
-[44][60] [Adjudicator may draw inferences and determine dispute based on available information][60]
+[44][60][][60][Adjudicator may draw inferences and determine dispute based on available information][60]
 
-[Subpart 4][61]---[Adjudicator's determination][61]
+[Subpart 4][61][---][61][Adjudicator's determination][61]
 
-[45][62] [Adjudicator's determination: matters to be considered][62]
+[45][62][][62][Adjudicator's determination: matters to be considered][62]
 
-[46][63] [Adjudicator's determination: timing][63]
+[46][63][][63][Adjudicator's determination: timing][63]
 
-[47][64] [Adjudicator's determination: form][64]
+[47][64][][64][Adjudicator's determination: form][64]
 
-[48][65] [Adjudicator's determination: substance][65]
+[48][65][][65][Adjudicator's determination: substance][65]
 
-[49][66] [Approval for issue of charging order over construction site owned by respondent][66]
+[49][66][][66][Approval for issue of charging order over construction site owned by respondent][66]
 
-[50][67] [Determination of liability of owner who is not respondent and approval of charging order over construction site owned by that owner][67]
+[50][67][][67][Determination of liability of owner who is not respondent and approval of charging order over construction site owned by that owner][67]
 
-[51][68] [Owner who is not respondent may discharge liability and recover amount from respondent][68]
+[51][68][][68][Owner who is not respondent may discharge liability and recover amount from respondent][68]
 
 [Review of adjudicator's determination in respect of owner who is not respondent][69]
 
-[52][70] [Owner who is not respondent may apply to District Court for review of adjudicator's determination][70]
+[52][70][][70][Owner who is not respondent may apply to District Court for review of adjudicator's determination][70]
 
-[53][71] [Procedure for seeking review][71]
+[53][71][][71][Procedure for seeking review][71]
 
-[54][72] [Powers of District Court on review][72]
+[54][72][][72][Powers of District Court on review][72]
 
-[55][73] [Effect of review on adjudicator's determination][73]
+[55][73][][73][Effect of review on adjudicator's determination][73]
 
 [Costs of adjudication proceedings][74]
 
-[56][75] [Costs of adjudication proceedings][75]
+[56][75][][75][Costs of adjudication proceedings][75]
 
 [Adjudicator's fees][76]
 
-[57][77] [Adjudicator's fees][77]
+[57][77][][77][Adjudicator's fees][77]
 
-[Subpart 5][78]---[Effect of adjudicator's determination][78]
+[Subpart 5][78][---][78][Effect of adjudicator's determination][78]
 
-[58][79] [Enforceability of adjudicator's determination][79]
+[58][79][][79][Enforceability of adjudicator's determination][79]
 
-[59][80] [Consequences of not complying with adjudicator's determination under section 48(1)(a)][80]
+[59][80][][80][Consequences of not complying with adjudicator's determination under section 48(1)(a)][80]
 
-[60][81] [Effect of review or other proceeding on adjudicator's determination under section 48(1)(a)][81]
+[60][81][][81][Effect of review or other proceeding on adjudicator's determination under section 48(1)(a)][81]
 
-[61][82] [Consequence of not complying with adjudicator's determination under section 48(1)(b) or (2)][82]
+[61][82][][82][Consequence of not complying with adjudicator's determination under section 48(1)(b) or (2)][82]
 
-[Subpart 6][83]---[Miscellaneous matters relating to adjudication][83]
+[Subpart 6][83][---][83][Miscellaneous matters relating to adjudication][83]
 
-[62][84] [Special provisions for residential construction contracts][84]
+[62][84][][84][Special provisions for residential construction contracts][84]
 
-[63][85] [Special provisions for adjudication if approval for charging order is sought by claimant][85]
+[63][85][][85][Special provisions for adjudication if approval for charging order is sought by claimant][85]
 
-[64][86] [Compliance with requirements of Act relating to supply of certain information][86]
+[64][86][][86][Compliance with requirements of Act relating to supply of certain information][86]
 
-[65][87] [Nominating authorities][87]
+[65][87][][87][Nominating authorities][87]
 
-[66][88] [Claimant may seek fresh adjudication if no adjudicator's notice of acceptance received or dispute not determined][88]
+[66][88][][88][Claimant may seek fresh adjudication if no adjudicator's notice of acceptance received or dispute not determined][88]
 
-[67][89] [Parties may be represented at adjudication proceedings][89]
+[67][89][][89][Parties may be represented at adjudication proceedings][89]
 
-[68][90] [Confidentiality of adjudication proceedings][90]
+[68][90][][90][Confidentiality of adjudication proceedings][90]
 
-[69][91] [Adjudicators not compellable witnesses][91]
+[69][91][][91][Adjudicators not compellable witnesses][91]
 
-[70][92] [Exclusion of liability][92]
+[70][92][][92][Exclusion of liability][92]
 
-[71][93] [Application of other enactments to adjudications][93]
+[71][93][][93][Application of other enactments to adjudications][93]
 
 [Part 4][94]  
 [Other measures for securing payment under this Act][94]
 
-[Subpart 1][95]---[Suspension of work][95]
+[Subpart 1][95][---][95][Suspension of work][95]
 
-[72][96] [Suspension of construction work][96]
+[72][96][][96][Suspension of construction work][96]
 
-[Subpart 2][97]---[Enforcement of adjudicator's determination][97]
+[Subpart 2][97][---][97][Enforcement of adjudicator's determination][97]
 
 [Enforcement of adjudicator's determination generally][98]
 
-[73][99] [Enforcement of adjudicator's determination][99]
+[73][99][][99][Enforcement of adjudicator's determination][99]
 
-[74][100] [Defendant may oppose entry as judgment][100]
+[74][100][][100][Defendant may oppose entry as judgment][100]
 
-[75][101] [Entry as judgment if defendant takes no steps][101]
+[75][101][][101][Entry as judgment if defendant takes no steps][101]
 
 [Enforcement of adjudicator's determination involving charging order in respect of construction site][102]
 
-[76][103] [Enforcement of adjudicator's determination involving charging order in respect of construction site][103]
+[76][103][][103][Enforcement of adjudicator's determination involving charging order in respect of construction site][103]
 
 [Miscellaneous][104]
 
-[77][105] [Effect of entry of judgment][105]
+[77][105][][105][Effect of entry of judgment][105]
 
-[78][106] [Application of rules relating to charging orders][106]
+[78][106][][106][Application of rules relating to charging orders][106]
 
 [Part 5][107]  
 [Miscellaneous provisions][107]
 
-[79][108] [Proceedings for recovery of debt not affected by counterclaim, set-off, or cross-demand][108]
+[79][108][][108][Proceedings for recovery of debt not affected by counterclaim, set-off, or cross-demand][108]
 
-[80][109] [Service of notices][109]
+[80][109][][109][Service of notices][109]
 
-[81][110] [Rules of court][110]
+[81][110][][110][Rules of court][110]
 
-[82][111] [Regulations][111]
+[82][111][][111][Regulations][111]
 
 ---
 
@@ -425,13 +425,15 @@ Preliminary provisions
         
     *   (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Labour Day, and Waitangi Day; and
     
+    *   (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    
     *   (b) the day observed in the appropriate area as the anniversary of the province of which the area forms a part; and
     
     *   (c) for the purposes of [sections 18][29], [22][34], [33][48], [35 to 37][50], [46][63], [59][80], [66][88], and [72][96], a day in the period commencing on 24 December in any year and ending with the close of 5 January in the following year; and
     
     *   (d) for the purposes of [sections 53][71], [74][100], and [75][101], a day in the period commencing on 25 December in any year and ending with the close of 15 January in the following year.
     
-    
+    Section 5 **working day** paragraph (ab): inserted, on 1 January 2014, by [section 8][114] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
 
 ##### 6 Meaning of construction work
     
@@ -491,7 +493,7 @@ Preliminary provisions
             
         *   (i) a director of that body corporate; or
         
-        *   (ii) a related body corporate of that body corporate (within the meaning of [section 5B(2)][114] of the Securities Markets Act 1988); or
+        *   (ii) a related body corporate of that body corporate (within the meaning of [section 5B(2)][115] of the Securities Markets Act 1988); or
         
         *   (iii) a director of a related body corporate of that body corporate (within that same meaning); or
         
@@ -501,7 +503,7 @@ Preliminary provisions
     
     *   (c) \[Repealed\]
     
-    *   (d) person A is a partner, to whom the [Partnership Act 1908][115] applies, of person B; or
+    *   (d) person A is a partner, to whom the [Partnership Act 1908][116] applies, of person B; or
     
     *   (e) person A is a nominee or trustee for person B; or
     
@@ -547,21 +549,21 @@ Preliminary provisions
     
     _person_ includes the trustees of a trust acting in that capacity.
     
-    (3) For the purposes of this section, a person has a control right if the person would have a relevant interest, under [sections 5 to 5B][116] of the Securities Markets Act 1988, in the voting securities that confer that right,---
+    (3) For the purposes of this section, a person has a control right if the person would have a relevant interest, under [sections 5 to 5B][117] of the Securities Markets Act 1988, in the voting securities that confer that right,---
         
     *   (a) if _voting security_, in relation to a body, meant a security of the body that confers a right to vote at meetings of members (whether or not there is any restriction or limitation on the number of votes that may be cast by, or on behalf of, the holder of the security); and includes a security that, in accordance with the terms of the security, is convertible into a security of that kind; and
     
     *   (b) if references in those sections to a number or percentage of voting securities were a reference to the number or percentage of the votes conferred by those securities.
     
-    Section 7(1)(a)(ii): amended, on 29 February 2008, by [section 14][117] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 7(1)(a)(ii): amended, on 29 February 2008, by [section 14][118] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
-    Section 7(1)(b): amended, on 26 April 2005, by [section 7][118] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 7(1)(b): amended, on 26 April 2005, by [section 7][119] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 7(1)(c): repealed, on 26 April 2005, by [section 7][118] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 7(1)(c): repealed, on 26 April 2005, by [section 7][119] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 7(3): amended, on 29 February 2008, by [section 14][117] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 7(3): amended, on 29 February 2008, by [section 14][118] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
-    Section 7(3)(b): amended, on 29 February 2008, by [section 14][117] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 7(3)(b): amended, on 29 February 2008, by [section 14][118] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 #### Application
 
@@ -605,7 +607,7 @@ Preliminary provisions
     
 *   This Act does not apply to---
         
-    *   (a) a construction contract under which a party undertakes to carry out construction work as an employee (within the meaning of [section 6][119] of the Employment Relations Act 2000) of the party for whom the work is to be carried out:
+    *   (a) a construction contract under which a party undertakes to carry out construction work as an employee (within the meaning of [section 6][120] of the Employment Relations Act 2000) of the party for whom the work is to be carried out:
     
     *   (b) a construction contract to the extent that it contains---
             
@@ -903,11 +905,11 @@ Adjudication of disputes
     
     *   (b) the arbitration is---
             
-        *   (i) an international arbitration as defined in [article 1(3)][120] of Schedule 1 of the Arbitration Act 1996; or
+        *   (i) an international arbitration as defined in [article 1(3)][121] of Schedule 1 of the Arbitration Act 1996; or
         
         *   (ii) covered by the provisions of the Protocol on Arbitration Clauses (1923); or
         
-        *   (iii) covered by the provisions of the Convention on the Settlement of Investment Disputes between States and Nationals of Other States and is an arbitration to which the [Arbitration (International Investment Disputes) Act 1979][121] applies.
+        *   (iii) covered by the provisions of the Convention on the Settlement of Investment Disputes between States and Nationals of Other States and is an arbitration to which the [Arbitration (International Investment Disputes) Act 1979][122] applies.
         
         
     
@@ -931,21 +933,21 @@ Adjudication of disputes
     
 *   (1) Except as provided in this section and [section 61(2)][82], nothing done under, or for the purposes of, this Part affects any civil proceedings arising under a construction contract.
     
-    (2) In any proceedings before a court or tribunal, or before a member under the [Weathertight Homes Resolution Services Act 2006][122], in relation to any matter arising under a construction contract, the court or tribunal or member---
+    (2) In any proceedings before a court or tribunal, or before a member under the [Weathertight Homes Resolution Services Act 2006][123], in relation to any matter arising under a construction contract, the court or tribunal or member---
         
     *   (a) must allow for any amount paid to a party to the contract under, or for the purposes of, this Part in any order or award the court, tribunal, or member makes in those proceedings; and
     
     *   (b) may make any orders that the court, tribunal, or member considers appropriate, having regard to any steps taken by a party to the contract in good faith and in reliance on an adjudicator's determination under this Part (including an order requiring a party to the contract to pay for goods and services supplied by another party to that contract in good faith and in reliance on an adjudicator's determination).
     
-    Section 27(2): amended, on 1 April 2007, by [section 127(2)(a)][123] of the Weathertight Homes Resolution Services Act 2006 (2006 No 84).
+    Section 27(2): amended, on 1 April 2007, by [section 127(2)(a)][124] of the Weathertight Homes Resolution Services Act 2006 (2006 No 84).
     
-    Section 27(2): amended, on 1 April 2007, by [section 127(2)(b)][123] of the Weathertight Homes Resolution Services Act 2006 (2006 No 84).
+    Section 27(2): amended, on 1 April 2007, by [section 127(2)(b)][124] of the Weathertight Homes Resolution Services Act 2006 (2006 No 84).
     
-    Section 27(2): amended, on 1 April 2007, by [section 127(2)(c)][123] of the Weathertight Homes Resolution Services Act 2006 (2006 No 84).
+    Section 27(2): amended, on 1 April 2007, by [section 127(2)(c)][124] of the Weathertight Homes Resolution Services Act 2006 (2006 No 84).
     
-    Section 27(2)(a): amended, on 1 April 2007, by [section 127(2)(c)][123] of the Weathertight Homes Resolution Services Act 2006 (2006 No 84).
+    Section 27(2)(a): amended, on 1 April 2007, by [section 127(2)(c)][124] of the Weathertight Homes Resolution Services Act 2006 (2006 No 84).
     
-    Section 27(2)(b): amended, on 1 April 2007, by [section 127(2)(c)][123] of the Weathertight Homes Resolution Services Act 2006 (2006 No 84).
+    Section 27(2)(b): amended, on 1 April 2007, by [section 127(2)(c)][124] of the Weathertight Homes Resolution Services Act 2006 (2006 No 84).
 
 ### Subpart 2---Procedure for initiating adjudication and appointing adjudicator
 
@@ -1401,7 +1403,7 @@ Adjudication of disputes
     
     *   (b) an adjudicator's approval for the issue of a charging order in respect of the construction site.
     
-    (2) A District Court has the jurisdiction to hear and determine an application for review under this section despite any limits imposed on District Courts in their ordinary civil jurisdiction by [sections 29 to 34][124] of the District Courts Act 1947\.
+    (2) A District Court has the jurisdiction to hear and determine an application for review under this section despite any limits imposed on District Courts in their ordinary civil jurisdiction by [sections 29 to 34][125] of the District Courts Act 1947\.
 
 ##### 53 Procedure for seeking review
     
@@ -1679,19 +1681,19 @@ Adjudication of disputes
 
 ##### 71 Application of other enactments to adjudications
     
-*   (1) The [Limitation Act 2010][125] applies to adjudications as it applies to claims (as defined in [section 4][126] of that Act).
+*   (1) The [Limitation Act 2010][126] applies to adjudications as it applies to claims (as defined in [section 4][127] of that Act).
     
     (2) Adjudications must be treated as---
         
-    *   (a) proceedings for the purposes of [section 76][127] of the Insolvency Act 2006; and
+    *   (a) proceedings for the purposes of [section 76][128] of the Insolvency Act 2006; and
     
-    *   (b) actions or proceedings for the purposes of [section 42][128] of the Corporations (Investigation and Management) Act 1989; and
+    *   (b) actions or proceedings for the purposes of [section 42][129] of the Corporations (Investigation and Management) Act 1989; and
     
-    *   (c) legal proceedings for the purposes of [section 248][129] of the Companies Act 1993\.
+    *   (c) legal proceedings for the purposes of [section 248][130] of the Companies Act 1993\.
     
-    Section 71(1): substituted, on 1 January 2011, by [section 58][130] of the Limitation Act 2010 (2010 No 110).
+    Section 71(1): substituted, on 1 January 2011, by [section 58][131] of the Limitation Act 2010 (2010 No 110).
     
-    Section 71(2)(a): amended, on 3 December 2007, by [section 445][131] of the Insolvency Act 2006 (2006 No 55).
+    Section 71(2)(a): amended, on 3 December 2007, by [section 445][132] of the Insolvency Act 2006 (2006 No 55).
 
 ## Part 4  
 Other measures for securing payment under this Act
@@ -1732,7 +1734,7 @@ Other measures for securing payment under this Act
     
     (4) If party A exercises the right conferred by subsection (1), the exercise of that right does not---
         
-    *   (a) affect any rights that would otherwise have been available to party A under the [Contractual Remedies Act 1979][132]; or
+    *   (a) affect any rights that would otherwise have been available to party A under the [Contractual Remedies Act 1979][133]; or
     
     *   (b) enable party B to exercise any rights that may otherwise have been available to party B under that Act as a direct consequence of party A exercising the right conferred by subsection (1).
     
@@ -1814,11 +1816,11 @@ Other measures for securing payment under this Act
 
 ##### 77 Effect of entry of judgment
     
-*   To avoid doubt, an adjudicator's determination entered as a judgment may be enforced by execution in accordance with the [District Courts Rules 1992][133].
+*   To avoid doubt, an adjudicator's determination entered as a judgment may be enforced by execution in accordance with the [District Courts Rules 1992][134].
 
 ##### 78 Application of rules relating to charging orders
     
-*   To avoid doubt, the provisions of the [District Courts Rules 1992][133] relating to charging orders apply to charging orders issued in accordance with this Act.
+*   To avoid doubt, the provisions of the [District Courts Rules 1992][134] relating to charging orders apply to charging orders issued in accordance with this Act.
 
 ## Part 5  
 Miscellaneous provisions
@@ -1849,96 +1851,55 @@ Miscellaneous provisions
 
 ##### 81 Rules of court
     
-*   (1) In addition to all other powers conferred by the [District Courts Act 1947][134], the Governor-General may, by Order in Council, make rules regulating the practice and procedure of District Courts in proceedings under this Act.
+*   (1) In addition to all other powers conferred by the [District Courts Act 1947][135], the Governor-General may, by Order in Council, make rules regulating the practice and procedure of District Courts in proceedings under this Act.
     
     (2) Rules may be made under subsection (1) only with the concurrence of---
         
     *   (a) the Chief District Court Judge; and
     
-    *   (b) 2 or more members of the Rules Committee established under [section 51B][135] of the Judicature Act 1908 of whom at least 1 is a District Court Judge.
+    *   (b) 2 or more members of the Rules Committee established under [section 51B][136] of the Judicature Act 1908 of whom at least 1 is a District Court Judge.
     
-    (3) In the absence of any rules under this section, or in any situation not covered by any of those rules, the rules in relation to civil proceedings for the time being in force under the [District Courts Act 1947][134] apply, with all necessary modifications, to proceedings under this Act.
+    (3) In the absence of any rules under this section, or in any situation not covered by any of those rules, the rules in relation to civil proceedings for the time being in force under the [District Courts Act 1947][135] apply, with all necessary modifications, to proceedings under this Act.
 
 ##### 82 Regulations
     
 *   The Governor-General may, by Order in Council, make regulations providing for any matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Construction Contracts Act 2002\. The reprint incorporates all the amendments to the Act as at 1 January 2011, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][136] ![](/images/external_link.gif).
+*   This is a reprint of the Construction Contracts Act 2002 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][137] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][137] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][138] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][138] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][139] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][140] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][139] and [17E][140] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][114]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Limitation Act 2010 (2010 No 110): [section 58][131]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Weathertight Homes Resolution Services Act 2006 (2006 No 84): [section 127(2)][124]
     
+    Insolvency Act 2006 (2006 No 55): [section 445][132]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    Securities Markets Amendment Act 2006 (2006 No 47): [section 14][118]
     
-*   Limitation Act 2010 (2010 No 110): [section 58][130]
-    
-    Weathertight Homes Resolution Services Act 2006 (2006 No 84): [section 127(2)][123]
-    
-    Insolvency Act 2006 (2006 No 55): [section 445][131]
-    
-    Securities Markets Amendment Act 2006 (2006 No 47): [section 14][117]
-    
-    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][118]
+    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][119]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2002/0046/latest/whole.html#DLM163062
 [2]: http://www.legislation.govt.nz/act/public/2002/0046/latest/whole.html#DLM163063
 [3]: http://www.legislation.govt.nz/act/public/2002/0046/latest/whole.html#DLM163064
@@ -2052,30 +2013,30 @@ Miscellaneous provisions
 [111]: http://www.legislation.govt.nz/act/public/2002/0046/latest/whole.html#DLM163489
 [112]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM403282
 [113]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM133619
-[114]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM139987
-[115]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM172479
-[116]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM139980
-[117]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM384385
-[118]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM333795
-[119]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM58619
-[120]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM405713
-[121]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM32826
-[122]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM403529
-[123]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM404184
-[124]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM243611
-[125]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM2033100
-[126]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM2033127
-[127]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM385968
-[128]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM144948
-[129]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM321697
-[130]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM2033287
-[131]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM387857
-[132]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM31565
-[133]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM154671
-[134]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM242775
-[135]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM146601
-[136]: http://www.pco.parliament.govt.nz/reprints/
-[137]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM195439
-[138]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[139]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM195468
-[140]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM195470
+[114]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM4929207
+[115]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM139987
+[116]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM172479
+[117]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM139980
+[118]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM384385
+[119]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM333795
+[120]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM58619
+[121]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM405713
+[122]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM32826
+[123]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM403529
+[124]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM404184
+[125]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM243611
+[126]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM2033100
+[127]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM2033127
+[128]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM385968
+[129]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM144948
+[130]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM321697
+[131]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM2033287
+[132]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM387857
+[133]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM31565
+[134]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM154671
+[135]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM242775
+[136]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM146601
+[137]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM2998516
+[138]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM2998515
+[139]: http://www.legislation.govt.nz/act/public/2002/0046/latest/link.aspx?id=DLM2998532
+[140]: http://www.pco.parliament.govt.nz/editorial-conventions/
