@@ -1,5 +1,5 @@
 Reprint  
-as at 28 November 2013
+as at 1 January 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -847,6 +847,8 @@ An Act---
         
     *   (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
     
+    *   (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    
     *   (b) a day in the period commencing on 20 December in any year and ending with 15 January in the following year.
     
     (2) The Minister of Conservation must not declare an animal to be a pest for the purposes of this Act unless he or she is of the opinion that the fulfilling of responsibilities or functions of the Director-General of Conservation or the Minister of Conservation or the Department of Conservation under---
@@ -872,6 +874,8 @@ An Act---
     Section 2(1) **trap**: substituted, on 19 December 2002, by [section 3(2)][283] of the Animal Welfare Amendment Act 2002 (2002 No 53).
     
     Section 2(1) **veterinarian**: substituted, on 22 December 2005, by [section 105][286] of the Veterinarians Act 2005 (2005 No 126).
+    
+    Section 2(1) **working day** paragraph (ab): inserted, on 1 January 2014, by [section 8][287] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
 
 ##### 3 Definition of manipulation
     
@@ -997,7 +1001,7 @@ An Act---
         
         *   (iii) any other Act or regulations under which the Minister of Conservation or the Director-General of Conservation or the Department of Conservation has responsibilities or functions; or
         
-        *   (iv) the [Fisheries Act 1996][287].
+        *   (iv) the [Fisheries Act 1996][288].
         
         
     
@@ -1055,9 +1059,9 @@ An Act---
     
     *   (b) that the question whether a surgical procedure should or should not be able to be performed on an animal by any person is a matter of public concern and that concern is so great that it needs to be removed by the making of an Order in Council under subsection (2).
     
-    (7) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][288] and must be presented to the House of Representatives under [section 41][289] of that Act.
+    (7) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][289] and must be presented to the House of Representatives under [section 41][290] of that Act.
     
-    Section 6(7): replaced, on 5 August 2013, by [section 77(3)][290] of the Legislation Act 2012 (2012 No 119).
+    Section 6(7): replaced, on 5 August 2013, by [section 77(3)][291] of the Legislation Act 2012 (2012 No 119).
 
 ##### 7 Notice of making of Order in Council
     
@@ -1069,11 +1073,11 @@ An Act---
     
     *   (c) give such other public notice of the making of that Order in Council as the Minister thinks fit.
     
-    (2) Despite subsection (1), the publication in accordance with the [Legislation Act 2012][288] of any Order in Council made under this section is deemed for all purposes to be notice thereof to all persons concerned, and in any prosecution under this Act the liability of the defendant is to be determined accordingly.
+    (2) Despite subsection (1), the publication in accordance with the [Legislation Act 2012][289] of any Order in Council made under this section is deemed for all purposes to be notice thereof to all persons concerned, and in any prosecution under this Act the liability of the defendant is to be determined accordingly.
     
-    Section 7(2): amended, on 5 August 2013, by [section 77(3)][290] of the Legislation Act 2012 (2012 No 119).
+    Section 7(2): amended, on 5 August 2013, by [section 77(3)][291] of the Legislation Act 2012 (2012 No 119).
     
-    Section 7(2): amended, on 1 July 2013, by [section 413][291] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 7(2): amended, on 1 July 2013, by [section 413][292] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 8 Act to bind the Crown
     
@@ -1083,9 +1087,9 @@ An Act---
         
     *   (a) is the owner of any animal or wildlife by virtue of---
             
-        *   (i) [section 9(1)][292] of the Wild Animal Control Act 1977; or
+        *   (i) [section 9(1)][293] of the Wild Animal Control Act 1977; or
         
-        *   (ii) [section 57(3)][293] of the Wildlife Act 1953; or
+        *   (ii) [section 57(3)][294] of the Wildlife Act 1953; or
         
         
     
@@ -1200,7 +1204,7 @@ Care of animals
         
         
     
-    Section 13(1A): inserted, on 19 December 2002, by [section 4][294] of the Animal Welfare Amendment Act 2002 (2002 No 53).
+    Section 13(1A): inserted, on 19 December 2002, by [section 4][295] of the Animal Welfare Amendment Act 2002 (2002 No 53).
 
 ##### 14 Further animal welfare offences
     
@@ -1260,9 +1264,9 @@ Care of animals
     
     *   (c) any other matter considered relevant by the Minister.
     
-    (6) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][288] and must be presented to the House of Representatives under [section 41][289] of that Act.
+    (6) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][289] and must be presented to the House of Representatives under [section 41][290] of that Act.
     
-    Section 16(6): replaced, on 5 August 2013, by [section 77(3)][290] of the Legislation Act 2012 (2012 No 119).
+    Section 16(6): replaced, on 5 August 2013, by [section 77(3)][291] of the Legislation Act 2012 (2012 No 119).
 
 ##### 17 Performance of restricted surgical procedures
     
@@ -1432,7 +1436,7 @@ Care of animals
 
 #### Defence and rebuttable evidence
     
-*   Heading: amended, on 19 December 2002, by [section 5(1)][295] of the Animal Welfare Amendment Act 2002 (2002 No 53).
+*   Heading: amended, on 19 December 2002, by [section 5(1)][296] of the Animal Welfare Amendment Act 2002 (2002 No 53).
 
 ##### 24 Defence and rebuttable evidence
     
@@ -1446,9 +1450,9 @@ Care of animals
     
     Compare: 1960 No 30 s 19A(7)(a); 1983 No 141 s 6
     
-    Section 24 heading: amended, on 19 December 2002, by [section 5(2)][295] of the Animal Welfare Amendment Act 2002 (2002 No 53).
+    Section 24 heading: amended, on 19 December 2002, by [section 5(2)][296] of the Animal Welfare Amendment Act 2002 (2002 No 53).
     
-    Section 24(1): inserted, on 19 December 2002, by [section 5(3)][295] of the Animal Welfare Amendment Act 2002 (2002 No 53).
+    Section 24(1): inserted, on 19 December 2002, by [section 5(3)][296] of the Animal Welfare Amendment Act 2002 (2002 No 53).
 
 #### Penalties
 
@@ -1462,13 +1466,13 @@ Care of animals
     
     Compare: 1960 No 30 s 3; 1993 No 19 s 3(1)
     
-    Section 25: amended, on 1 July 2013, by [section 413][291] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 25: amended, on 1 July 2013, by [section 413][292] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 25(a): amended, on 7 July 2010, by [section 4(1)(a)][296] of the Animal Welfare Amendment Act 2010 (2010 No 93).
+    Section 25(a): amended, on 7 July 2010, by [section 4(1)(a)][297] of the Animal Welfare Amendment Act 2010 (2010 No 93).
     
-    Section 25(a): amended, on 7 July 2010, by [section 4(1)(b)][296] of the Animal Welfare Amendment Act 2010 (2010 No 93).
+    Section 25(a): amended, on 7 July 2010, by [section 4(1)(b)][297] of the Animal Welfare Amendment Act 2010 (2010 No 93).
     
-    Section 25(b): amended, on 7 July 2010, by [section 4(2)][296] of the Animal Welfare Amendment Act 2010 (2010 No 93).
+    Section 25(b): amended, on 7 July 2010, by [section 4(2)][297] of the Animal Welfare Amendment Act 2010 (2010 No 93).
 
 #### Safari parks
 
@@ -1527,9 +1531,9 @@ Conduct towards animals
     
     Compare: 1960 No 30 ss 2, 4; 1993 No 19 s 3(1)
     
-    Section 28: substituted, on 7 July 2010, by [section 5][297] of the Animal Welfare Amendment Act 2010 (2010 No 93).
+    Section 28: substituted, on 7 July 2010, by [section 5][298] of the Animal Welfare Amendment Act 2010 (2010 No 93).
     
-    Section 28(3): amended, on 1 July 2013, by [section 413][291] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 28(3): amended, on 1 July 2013, by [section 413][292] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 28A Reckless ill-treatment of animals
     
@@ -1565,9 +1569,9 @@ Conduct towards animals
     
     *   (b) in the case of a body corporate, to a fine not exceeding $350,000\.
     
-    Section 28A: inserted, on 7 July 2010, by [section 5][297] of the Animal Welfare Amendment Act 2010 (2010 No 93).
+    Section 28A: inserted, on 7 July 2010, by [section 5][298] of the Animal Welfare Amendment Act 2010 (2010 No 93).
     
-    Section 28A(3): amended, on 1 July 2013, by [section 413][291] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 28A(3): amended, on 1 July 2013, by [section 413][292] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 29 Further offences
     
@@ -1619,7 +1623,7 @@ Conduct towards animals
         
         
     
-    Section 30(1A): inserted, on 19 December 2002, by [section 6][298] of the Animal Welfare Amendment Act 2002 (2002 No 53).
+    Section 30(1A): inserted, on 19 December 2002, by [section 6][299] of the Animal Welfare Amendment Act 2002 (2002 No 53).
 
 #### Animal fighting ventures
 
@@ -1655,9 +1659,9 @@ Conduct towards animals
         
     *   (a) the [Wildlife Act 1953][273]; or
     
-    *   (b) the [Marine Mammals Protection Act 1978][299]; or
+    *   (b) the [Marine Mammals Protection Act 1978][300]; or
     
-    *   (c) the [Fisheries Act 1996][287].
+    *   (c) the [Fisheries Act 1996][288].
     
     (4) Where the order declares any trap to be a restricted trap or any device to be a restricted device, the order may contain provisions regulating the sale or use of the trap or device.
     
@@ -1673,13 +1677,13 @@ Conduct towards animals
     
     (7) The consultation required by [section 184(1)][238] is in addition to the consultation required by subsections (1) and (6) of this section.
     
-    (8) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][288] and must be presented to the House of Representatives under [section 41][289] of that Act.
+    (8) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][289] and must be presented to the House of Representatives under [section 41][290] of that Act.
     
-    Section 32(5): substituted, on 19 December 2002, by [section 7][300] of the Animal Welfare Amendment Act 2002 (2002 No 53).
+    Section 32(5): substituted, on 19 December 2002, by [section 7][301] of the Animal Welfare Amendment Act 2002 (2002 No 53).
     
-    Section 32(5A): inserted, on 19 December 2002, by [section 7][300] of the Animal Welfare Amendment Act 2002 (2002 No 53).
+    Section 32(5A): inserted, on 19 December 2002, by [section 7][301] of the Animal Welfare Amendment Act 2002 (2002 No 53).
     
-    Section 32(8): replaced, on 5 August 2013, by [section 77(3)][290] of the Legislation Act 2012 (2012 No 119).
+    Section 32(8): replaced, on 5 August 2013, by [section 77(3)][291] of the Legislation Act 2012 (2012 No 119).
 
 ##### 33 Criteria
     
@@ -1691,7 +1695,7 @@ Conduct towards animals
     
     *   (c) whether the use of other instruments under this Act, or instruments under other Acts, are adequate to manage the effects of the trap or device on animal welfare; and
     
-    *   (d) whether the trap or device conforms to any relevant New Zealand standard within the meaning of the [Standards Act 1988][301]; and
+    *   (d) whether the trap or device conforms to any relevant New Zealand standard within the meaning of the [Standards Act 1988][302]; and
     
     *   (e) the availability and cost-effectiveness of, and the feasibility of a transition to, other means of achieving the purpose of the trap or device (whether by means of another trap or device or by different means); and
     
@@ -1701,7 +1705,7 @@ Conduct towards animals
     
     *   (h) any other matter considered relevant by the Minister.
     
-    Section 33(e): substituted, on 19 December 2002, by [section 8][302] of the Animal Welfare Amendment Act 2002 (2002 No 53).
+    Section 33(e): substituted, on 19 December 2002, by [section 8][303] of the Animal Welfare Amendment Act 2002 (2002 No 53).
 
 ##### 34 Restrictions on use of traps and devices to kill, manage, entrap, capture, entangle, restrain, or immobilise animals
     
@@ -1733,7 +1737,7 @@ Conduct towards animals
     
     Compare: 1960 No 30 s 6; 1993 No 19 s 3(1)
     
-    Section 36(2): amended, on 1 July 2013, by [section 413][291] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 36(2): amended, on 1 July 2013, by [section 413][292] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Penalties
 
@@ -1747,13 +1751,13 @@ Conduct towards animals
     
     Compare: 1960 No 30 s 3; 1993 No 19 s 3(1)
     
-    Section 37: amended, on 1 July 2013, by [section 413][291] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 37: amended, on 1 July 2013, by [section 413][292] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 37(a): amended, on 7 July 2010, by [section 6(1)(a)][303] of the Animal Welfare Amendment Act 2010 (2010 No 93).
+    Section 37(a): amended, on 7 July 2010, by [section 6(1)(a)][304] of the Animal Welfare Amendment Act 2010 (2010 No 93).
     
-    Section 37(a): amended, on 7 July 2010, by [section 6(1)(b)][303] of the Animal Welfare Amendment Act 2010 (2010 No 93).
+    Section 37(a): amended, on 7 July 2010, by [section 6(1)(b)][304] of the Animal Welfare Amendment Act 2010 (2010 No 93).
     
-    Section 37(b): amended, on 7 July 2010, by [section 6(2)][303] of the Animal Welfare Amendment Act 2010 (2010 No 93).
+    Section 37(b): amended, on 7 July 2010, by [section 6(2)][304] of the Animal Welfare Amendment Act 2010 (2010 No 93).
 
 ## Part 3  
 Animal exports
@@ -1782,7 +1786,7 @@ Animal exports
     
     *   (b) in the case of a body corporate, to a fine not exceeding $125,000\.
     
-    Section 40(3): amended, on 1 July 2013, by [section 413][291] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 40(3): amended, on 1 July 2013, by [section 413][292] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 41 Guidelines for issue of animal welfare export certificates
     
@@ -2022,7 +2026,7 @@ Animal exports
     
     *   (b) in the case of a body corporate, to a fine not exceeding $25,000\.
     
-    Section 54(2): amended, on 1 July 2013, by [section 413][291] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 54(2): amended, on 1 July 2013, by [section 413][292] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 4  
 Advisory committees
@@ -2135,13 +2139,13 @@ Advisory committees
         
     *   (a) must be appointed by the Minister by notice published in the _Gazette_; and
     
-    *   (b) subject to [clause 2][304] of Schedule 1, holds office for such term, not exceeding 3 years, as the Minister specifies in the notice of appointment; and
+    *   (b) subject to [clause 2][305] of Schedule 1, holds office for such term, not exceeding 3 years, as the Minister specifies in the notice of appointment; and
     
     *   (c) takes office from the date of the publication of the notice of appointment in the _Gazette_ or on such later date as may be specified in the notice; and
     
     *   (d) is eligible for reappointment from time to time.
     
-    (2) Despite subsection (1)(b), every appointed member of the National Animal Welfare Advisory Committee, unless sooner vacating office under [clause 2][304] of Schedule 1, continues in office until the member's successor comes into office.
+    (2) Despite subsection (1)(b), every appointed member of the National Animal Welfare Advisory Committee, unless sooner vacating office under [clause 2][305] of Schedule 1, continues in office until the member's successor comes into office.
 
 ##### 60 Annual report
     
@@ -2233,13 +2237,13 @@ Advisory committees
         
     *   (a) must be appointed by the Minister by notice published in the _Gazette_; and
     
-    *   (b) subject to [clause 2][304] of Schedule 1, holds office for such term, not exceeding 3 years, as the Minister specifies in the notice of appointment; and
+    *   (b) subject to [clause 2][305] of Schedule 1, holds office for such term, not exceeding 3 years, as the Minister specifies in the notice of appointment; and
     
     *   (c) takes office from the date of the publication of the notice of appointment in the _Gazette_ or such later date as may be specified in the notice; and
     
     *   (d) is eligible for reappointment from time to time.
     
-    (2) Despite subsection (1)(b), the chairperson and every other member of the National Animal Ethics Advisory Committee, unless sooner vacating office under [clause 2][304] of Schedule 1, continues in office until the member's successor comes into office.
+    (2) Despite subsection (1)(b), the chairperson and every other member of the National Animal Ethics Advisory Committee, unless sooner vacating office under [clause 2][305] of Schedule 1, continues in office until the member's successor comes into office.
     
     Compare: 1994 No 107 ss 47, 48
 
@@ -2372,7 +2376,7 @@ Codes of welfare
     
     *   (c) the economic effects of any transition from current practices to new practices.
     
-    Section 73(3)(b): amended, on 27 September 2001, by [section 3][305] of the Animal Welfare Amendment Act 2001 (2001 No 52).
+    Section 73(3)(b): amended, on 27 September 2001, by [section 3][306] of the Animal Welfare Amendment Act 2001 (2001 No 52).
 
 ##### 74 Recommendation to Minister
     
@@ -2442,9 +2446,9 @@ Codes of welfare
     
     (5) Where the Governor-General does so, subsection (1) then applies to subsequent reviews on the basis of the extended date.
     
-    Section 78(4): added, on 19 December 2002, by [section 9][306] of the Animal Welfare Amendment Act 2002 (2002 No 53).
+    Section 78(4): added, on 19 December 2002, by [section 9][307] of the Animal Welfare Amendment Act 2002 (2002 No 53).
     
-    Section 78(5): added, on 19 December 2002, by [section 9][306] of the Animal Welfare Amendment Act 2002 (2002 No 53).
+    Section 78(5): added, on 19 December 2002, by [section 9][307] of the Animal Welfare Amendment Act 2002 (2002 No 53).
 
 ##### 78A Review date may be extended
     
@@ -2464,13 +2468,13 @@ Codes of welfare
         
         
     
-    Section 78A: inserted, on 19 December 2002, by [section 10][307] of the Animal Welfare Amendment Act 2002 (2002 No 53).
+    Section 78A: inserted, on 19 December 2002, by [section 10][308] of the Animal Welfare Amendment Act 2002 (2002 No 53).
 
 ##### 79 Codes of welfare treated as legislative instruments for purposes of disallowance
     
-*   Codes of welfare issued under section 75 and notices amending or revoking codes of welfare are disallowable instruments, but not legislative instruments, for the purposes of the [Legislation Act 2012][288] and must be presented to the House of Representatives under [section 41][289] of that Act.
+*   Codes of welfare issued under section 75 and notices amending or revoking codes of welfare are disallowable instruments, but not legislative instruments, for the purposes of the [Legislation Act 2012][289] and must be presented to the House of Representatives under [section 41][290] of that Act.
     
-    Section 79: replaced, on 5 August 2013, by [section 77(3)][290] of the Legislation Act 2012 (2012 No 119).
+    Section 79: replaced, on 5 August 2013, by [section 77(3)][291] of the Legislation Act 2012 (2012 No 119).
 
 ## Part 6  
 Use of animals in research, testing, and teaching
@@ -2685,21 +2689,21 @@ Use of animals in research, testing, and teaching
         
         *   (ii) the Animals Protection Act 1960; or
         
-        *   (iii) the [Agricultural Compounds and Veterinary Medicines Act 1997][308]; or
+        *   (iii) the [Agricultural Compounds and Veterinary Medicines Act 1997][309]; or
         
         *   (iv) the [Biosecurity Act 1993][274]; or
         
-        *   (v) the [Companies Act 1993][309]; or
+        *   (v) the [Companies Act 1993][310]; or
         
-        *   (vi) the [Crimes Act 1961][310]; or
+        *   (vi) the [Crimes Act 1961][311]; or
         
-        *   (vii) the [Dog Control Act 1996][311]; or
+        *   (vii) the [Dog Control Act 1996][312]; or
         
-        *   (viii) the [Serious Fraud Office Act 1990][312]; or
+        *   (viii) the [Serious Fraud Office Act 1990][313]; or
         
-        *   (ix) the [Trade in Endangered Species Act 1989][313]; or
+        *   (ix) the [Trade in Endangered Species Act 1989][314]; or
         
-        *   (x) the [Veterinarians Act 2005][314]; or
+        *   (x) the [Veterinarians Act 2005][315]; or
         
         *   (xi) any Act that was replaced by any of the Acts specified in subparagraphs (ii) to (x); or
         
@@ -2825,21 +2829,21 @@ Use of animals in research, testing, and teaching
         
         *   (ii) the Animals Protection Act 1960; or
         
-        *   (iii) the [Agricultural Compounds and Veterinary Medicines Act 1997][308]; or
+        *   (iii) the [Agricultural Compounds and Veterinary Medicines Act 1997][309]; or
         
         *   (iv) the [Biosecurity Act 1993][274]; or
         
-        *   (v) the [Companies Act 1993][309]; or
+        *   (v) the [Companies Act 1993][310]; or
         
-        *   (vi) the [Crimes Act 1961][310]; or
+        *   (vi) the [Crimes Act 1961][311]; or
         
-        *   (vii) the [Dog Control Act 1996][311]; or
+        *   (vii) the [Dog Control Act 1996][312]; or
         
-        *   (viii) the [Serious Fraud Office Act 1990][312]; or
+        *   (viii) the [Serious Fraud Office Act 1990][313]; or
         
-        *   (ix) the [Trade in Endangered Species Act 1989][313]; or
+        *   (ix) the [Trade in Endangered Species Act 1989][314]; or
         
-        *   (x) the [Veterinarians Act 2005][314]; or
+        *   (x) the [Veterinarians Act 2005][315]; or
         
         *   (xi) any Act that was replaced by any of the Acts specified in subparagraphs (ii) to (x); or
         
@@ -2999,7 +3003,7 @@ Use of animals in research, testing, and teaching
         
         
     
-    (4) Nothing in the [Official Information Act 1982][315] or the [Privacy Act 1993][316] requires the Director-General to disclose information that might identify the person who made the report.
+    (4) Nothing in the [Official Information Act 1982][316] or the [Privacy Act 1993][317] requires the Director-General to disclose information that might identify the person who made the report.
 
 ##### 104 Protection of members of animal ethics committees
     
@@ -3205,7 +3209,7 @@ Use of animals in research, testing, and teaching
     
     *   (b) in the case of a body corporate, to a fine not exceeding $125,000\.
     
-    Section 119: amended, on 1 July 2013, by [section 413][291] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 119: amended, on 1 July 2013, by [section 413][292] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 7  
 Provisions relating to administration
@@ -3286,7 +3290,7 @@ Provisions relating to administration
 
 ##### 124 Appointment of inspectors
     
-*   (1) There may from time to time be appointed under the [State Sector Act 1988][317] suitable persons to be inspectors for the purposes of this Act.
+*   (1) There may from time to time be appointed under the [State Sector Act 1988][318] suitable persons to be inspectors for the purposes of this Act.
     
     (2) The Minister may from time to time, on the recommendation of an approved organisation, appoint any person to be an inspector for the purposes of this Act.
     
@@ -3324,23 +3328,23 @@ Provisions relating to administration
     
     (7) Without limiting subsection (6)(b), it is declared that where an approved organisation informs the Minister in writing that an inspector who was appointed on the recommendation of that approved organisation is no longer acting for that approved organisation or for an incorporated society that is a branch or member of that approved organisation in that capacity or in the particular district or part or parts of New Zealand for which the inspector was appointed, the Minister may, by written notice to that inspector, invite that inspector to both resign his or her office in accordance with subsection (6)(c) and surrender his or her instrument of appointment in accordance with subsection (6)(d) by a date specified in the notice, and, if that inspector fails to do so by that date, the Minister may revoke that inspector's appointment.
     
-    (8) No person appointed by the Minister under subsection (2) to be an inspector is by virtue of that appointment employed in the Public Service for the purposes of the [State Sector Act 1988][317] or the [Government Superannuation Fund Act 1956][318].
+    (8) No person appointed by the Minister under subsection (2) to be an inspector is by virtue of that appointment employed in the Public Service for the purposes of the [State Sector Act 1988][318] or the [Government Superannuation Fund Act 1956][319].
     
     (9) The Director-General may from time to time establish performance standards and technical standards for inspectors appointed under subsection (1).
     
     (10) Every inspector appointed under subsection (1) or subsection (2) must, when performing his or her functions or duties under this Act or exercising his or her powers under this Act, use his or her best endeavours to comply with, and give effect to, the relevant performance standards or technical standards.
     
-    Compare: 1960 No 30 s 9; 1995 No 31 [s 15][319]
+    Compare: 1960 No 30 s 9; 1995 No 31 [s 15][320]
     
     Section 124(5): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][284] of the Policing Act 2008 (2008 No 72).
     
-    Section 124(7): amended, on 27 September 2001, by [section 4][320] of the Animal Welfare Amendment Act 2001 (2001 No 52).
+    Section 124(7): amended, on 27 September 2001, by [section 4][321] of the Animal Welfare Amendment Act 2001 (2001 No 52).
 
 ##### 125 Appointment of auxiliary officers
     
 *   (1) The Director-General may from time to time, on the recommendation of an approved organisation, appoint any person to be an auxiliary officer for the purposes of this Act.
     
-    (2) No person appointed by the Director-General under this section to be an auxiliary officer is by virtue of that appointment employed in the Public Service for the purposes of the [State Sector Act 1988][317] or the [Government Superannuation Fund Act 1956][318].
+    (2) No person appointed by the Director-General under this section to be an auxiliary officer is by virtue of that appointment employed in the Public Service for the purposes of the [State Sector Act 1988][318] or the [Government Superannuation Fund Act 1956][319].
     
     (3) The Director-General may at any time revoke any appointment made under subsection (1).
 
@@ -3350,7 +3354,7 @@ Provisions relating to administration
     
     (2) In the event of any conflict arising between the powers, duties, and functions conferred or imposed on an inspector or auxiliary officer, as the case may be, as an employee or member of an approved organisation and the powers, duties, and functions conferred or imposed on that inspector or auxiliary officer under this Act, the powers, duties, and functions conferred or imposed on that inspector or auxiliary officer under this Act prevail.
     
-    Compare: 1995 No 31 [s 16][321]
+    Compare: 1995 No 31 [s 16][322]
 
 #### Power to inspect land, premises, and places and stationary vehicles, aircraft, and ships
 
@@ -3368,11 +3372,11 @@ Provisions relating to administration
     
     (3) No inspector may, under subsection (1), enter in or on any dwelling or marae unless he or she is authorised to do so by a search warrant issued under [section 131][165].
     
-    (4) In the case of a ship that is neither a ship registered under the [Ship Registration Act 1992][322] nor a ship entitled under any provision of that Act (other than [section 8(1)(b)][9]) to be registered as a New Zealand ship, the power that an inspector has, under subsection (1), may be exercised only if the ship---
+    (4) In the case of a ship that is neither a ship registered under the [Ship Registration Act 1992][323] nor a ship entitled under any provision of that Act (other than [section 8(1)(b)][9]) to be registered as a New Zealand ship, the power that an inspector has, under subsection (1), may be exercised only if the ship---
         
     *   (a) is in a port, harbour, roadstead, or anchorage in New Zealand; or
     
-    *   (b) is otherwise within the internal waters of New Zealand as defined by [section 4][323] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977\.
+    *   (b) is otherwise within the internal waters of New Zealand as defined by [section 4][324] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977\.
     
     (5) Where an inspector who exercises a power of entry under subsection (1) has reasonable grounds to believe, in respect of any animal found on or in the land, premises, or place or in or on the vehicle, aircraft, or ship, that---
         
@@ -3440,17 +3444,17 @@ Provisions relating to administration
     
     Compare: 1960 No 30 s 10(6), (7); 1993 No 19 s 3(1)
     
-    Section 130(1)(a): amended, on 1 October 2012, by [section 195(1)][324] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 130(1)(a): amended, on 1 October 2012, by [section 195(1)][325] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 130(1)(b): amended, on 1 October 2012, by [section 195(2)][324] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 130(1)(b): amended, on 1 October 2012, by [section 195(2)][325] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 130(3): amended, on 1 July 2013, by [section 413][291] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 130(3): amended, on 1 July 2013, by [section 413][292] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Search warrants
 
 ##### 131 Search warrants
     
-*   (1) Any issuing officer (within the meaning of [section 3][325] of the Search and Surveillance Act 2012) who, on an application made in the manner provided in [subpart 3][326] of Part 4 of that Act by a constable or an inspector, is satisfied that there are reasonable grounds for believing that in or on any land, premises, or place specified in the application or any vehicle, aircraft, or ship specified in the application---
+*   (1) Any issuing officer (within the meaning of [section 3][326] of the Search and Surveillance Act 2012) who, on an application made in the manner provided in [subpart 3][327] of Part 4 of that Act by a constable or an inspector, is satisfied that there are reasonable grounds for believing that in or on any land, premises, or place specified in the application or any vehicle, aircraft, or ship specified in the application---
         
     *   (a) an offence against this Act or any regulations made under this Act has been, or is being, committed; or
     
@@ -3462,33 +3466,33 @@ Provisions relating to administration
     
     may issue a search warrant to authorise the constable or the inspector to search the land, premises, or place or the vehicle, aircraft, or ship.
     
-    (2) In the case of a ship that is neither a ship registered under the [Ship Registration Act 1992][322] nor a ship entitled under any provision of that Act (other than [section 8(1)(b)][327]) to be registered as a New Zealand ship, the power that a constable or an inspector has, under a search warrant issued under subsection (1), may be exercised only if the ship---
+    (2) In the case of a ship that is neither a ship registered under the [Ship Registration Act 1992][323] nor a ship entitled under any provision of that Act (other than [section 8(1)(b)][328]) to be registered as a New Zealand ship, the power that a constable or an inspector has, under a search warrant issued under subsection (1), may be exercised only if the ship---
         
     *   (a) is in a port, harbour, roadstead, or anchorage in New Zealand; or
     
-    *   (b) is otherwise within the internal waters of New Zealand as defined by [section 4][323] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977\.
+    *   (b) is otherwise within the internal waters of New Zealand as defined by [section 4][324] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977\.
     
-    (3) The provisions of [Part 4][328] of the Search and Surveillance Act 2012 apply, subject to subsection (4) and [sections 133(2) and (4)][167], [136][171], and [136A][172].
+    (3) The provisions of [Part 4][329] of the Search and Surveillance Act 2012 apply, subject to subsection (4) and [sections 133(2) and (4)][167], [136][171], and [136A][172].
     
-    (4) Despite subsection (3), [sections 118][329] and [119][330] of the Search and Surveillance Act 2012 apply only in respect of a warrant issued to a named constable or to every constable.
+    (4) Despite subsection (3), [sections 118][330] and [119][331] of the Search and Surveillance Act 2012 apply only in respect of a warrant issued to a named constable or to every constable.
     
     Compare: 1960 No 30 s 10(3); 1983 No 141 s 4(2)
     
-    Section 131(1): amended, on 1 October 2012, by [section 195(3)][324] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 131(1): amended, on 1 October 2012, by [section 195(3)][325] of the Search and Surveillance Act 2012 (2012 No 24).
     
     Section 131(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][284] of the Policing Act 2008 (2008 No 72).
     
     Section 131(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][284] of the Policing Act 2008 (2008 No 72).
     
-    Section 131(3): replaced, on 1 October 2012, by [section 195(4)][324] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 131(3): replaced, on 1 October 2012, by [section 195(4)][325] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 131(4): inserted, on 1 October 2012, by [section 195(4)][324] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 131(4): inserted, on 1 October 2012, by [section 195(4)][325] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 132 Form and content of search warrant
     
 *   \[Repealed\]
     
-    Section 132: repealed, on 1 October 2012, by [section 195(5)][324] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 132: repealed, on 1 October 2012, by [section 195(5)][325] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 133 Powers conferred by search warrant
     
@@ -3510,39 +3514,39 @@ Provisions relating to administration
     
     Compare: 1960 No 30 s 10(6)
     
-    Section 133(1): repealed, on 1 October 2012, by [section 195(5)][324] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 133(1): repealed, on 1 October 2012, by [section 195(5)][325] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 133(3): repealed, on 1 October 2012, by [section 195(5)][324] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 133(3): repealed, on 1 October 2012, by [section 195(5)][325] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 133(4): amended, on 1 October 2012, by [section 195(6)][324] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 133(4): amended, on 1 October 2012, by [section 195(6)][325] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 133(5): repealed, on 1 October 2012, by [section 195(5)][324] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 133(5): repealed, on 1 October 2012, by [section 195(5)][325] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 134 Production of search warrant
     
 *   \[Repealed\]
     
-    Section 134: repealed, on 1 October 2012, by [section 195(5)][324] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 134: repealed, on 1 October 2012, by [section 195(5)][325] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 135 Notice of execution of search warrant
     
 *   \[Repealed\]
     
-    Section 135: repealed, on 1 October 2012, by [section 195(5)][324] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 135: repealed, on 1 October 2012, by [section 195(5)][325] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### Further provisions relating to powers of search and entry
 
 ##### 136 Disposal of thing seized
     
-*   (1) Subject to subsections (2) and (3) and [section 136A][172], [subparts 1][331], [5][332], [6][333], [7][334], [9][335], and [10][336] of Part 4 of the Search and Surveillance Act 2012 apply in respect of---
+*   (1) Subject to subsections (2) and (3) and [section 136A][172], [subparts 1][332], [5][333], [6][334], [7][335], [9][336], and [10][337] of Part 4 of the Search and Surveillance Act 2012 apply in respect of---
         
     *   (a) any thing seized by a constable (including any animal seized by a constable under the authority of a search warrant issued under [section 131][165] and any animal of which a constable takes possession under [section 137(1)][173]); and
     
     *   (b) with the necessary modifications, any thing seized by an inspector (including any animal seized by an inspector under the authority of a search warrant issued under [section 131][165] and any animal of which an inspector takes possession under [section 127(5)][160]).
     
-    (2) Despite anything in [subpart 6][333] of Part 4 of the Search and Surveillance Act 2012, a constable or an inspector who has custody of an animal may place that animal in the care of any other person.
+    (2) Despite anything in [subpart 6][334] of Part 4 of the Search and Surveillance Act 2012, a constable or an inspector who has custody of an animal may place that animal in the care of any other person.
     
-    (3) If the court orders, under [section 154(2)(c)][337] of the Search and Surveillance Act 2012, that any animal or thing seized must be disposed of by way of sale, the proceeds of that sale must be applied---
+    (3) If the court orders, under [section 154(2)(c)][338] of the Search and Surveillance Act 2012, that any animal or thing seized must be disposed of by way of sale, the proceeds of that sale must be applied---
         
     *   (a) first, in the payment of the expenses incurred in arranging the sale:
     
@@ -3556,11 +3560,11 @@ Provisions relating to administration
     
     *   (c) thirdly, in such manner as the court thinks fit.
     
-    Section 136(1): replaced, on 1 October 2012, by [section 195(7)][324] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 136(1): replaced, on 1 October 2012, by [section 195(7)][325] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 136(2): replaced, on 1 October 2012, by [section 195(8)][324] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 136(2): replaced, on 1 October 2012, by [section 195(8)][325] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 136(3): amended, on 1 October 2012, by [section 195(9)][324] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 136(3): amended, on 1 October 2012, by [section 195(9)][325] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 136A Disposal of animals seized or taken into custody prior to commencement or determination of proceedings
     
@@ -3628,7 +3632,7 @@ Provisions relating to administration
     
     *   (b) after a decision is taken not to commence any such proceedings.
     
-    Section 136A: inserted, on 1 October 2012, by [section 196][338] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 136A: inserted, on 1 October 2012, by [section 196][339] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 137 Vehicle, aircraft, ship, or animal may be detained
     
@@ -3646,19 +3650,19 @@ Provisions relating to administration
     
     (2) \[Repealed\]
     
-    (3) In the case of a ship that is neither a ship registered under the [Ship Registration Act 1992][322] nor a ship entitled under any provision of that Act (other than [section 8(1)(b)][327]) to be registered as a New Zealand ship, the powers that a constable has, under subsection (1), may be exercised only if the ship---
+    (3) In the case of a ship that is neither a ship registered under the [Ship Registration Act 1992][323] nor a ship entitled under any provision of that Act (other than [section 8(1)(b)][328]) to be registered as a New Zealand ship, the powers that a constable has, under subsection (1), may be exercised only if the ship---
         
     *   (a) is in a port, harbour, roadstead, or anchorage in New Zealand; or
     
-    *   (b) is otherwise within the internal waters of New Zealand as defined by [section 4][323] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977\.
+    *   (b) is otherwise within the internal waters of New Zealand as defined by [section 4][324] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977\.
     
     Compare: 1960 No 30 s 11
     
-    Section 137(1): replaced, on 1 October 2012, by [section 197(1)][339] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 137(1): replaced, on 1 October 2012, by [section 197(1)][340] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 137(2): repealed, on 1 October 2012, by [section 197(1)][339] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 137(2): repealed, on 1 October 2012, by [section 197(1)][340] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 137(3): amended, on 1 October 2012, by [section 197(2)][339] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 137(3): amended, on 1 October 2012, by [section 197(2)][340] of the Search and Surveillance Act 2012 (2012 No 24).
     
     Section 137(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][284] of the Policing Act 2008 (2008 No 72).
 
@@ -3706,7 +3710,7 @@ Provisions relating to administration
     
 *   Despite [section 138][175], if---
         
-    *   (a) an inspector, auxiliary officer, or veterinarian certifies in writing that an animal impounded in a pound under the [Impounding Act 1955][340] or the [Dog Control Act 1996][311] is so diseased, injured, or sick that it is in a state of continual suffering; and
+    *   (a) an inspector, auxiliary officer, or veterinarian certifies in writing that an animal impounded in a pound under the [Impounding Act 1955][341] or the [Dog Control Act 1996][312] is so diseased, injured, or sick that it is in a state of continual suffering; and
     
     *   (b) the territorial authority having jurisdiction over the pound is unable to find the owner of that animal within a reasonable time after the inspector, auxiliary officer, or veterinarian has given such a certificate,---
     
@@ -3716,9 +3720,9 @@ Provisions relating to administration
 
 ##### 140 Injured and sick marine mammals
     
-*   If an inspector, auxiliary officer, or veterinarian finds a severely injured or sick marine mammal, the inspector, auxiliary officer, or veterinarian, as the case may be, must, as soon as possible, report the matter to a Marine Mammals Officer declared or appointed as such under [section 11][341] of the Marine Mammals Protection Act 1978 to be dealt with under that Act.
+*   If an inspector, auxiliary officer, or veterinarian finds a severely injured or sick marine mammal, the inspector, auxiliary officer, or veterinarian, as the case may be, must, as soon as possible, report the matter to a Marine Mammals Officer declared or appointed as such under [section 11][342] of the Marine Mammals Protection Act 1978 to be dealt with under that Act.
     
-    Compare: 1960 No 30 s 12(5); 1978 No 80 [s 30(1)][342]
+    Compare: 1960 No 30 s 12(5); 1978 No 80 [s 30(1)][343]
 
 #### Disposal of animals in custody of approved organisations
 
@@ -3774,7 +3778,7 @@ Provisions relating to administration
         
     *   (a) a native animal; or
     
-    *   (b) stock within the meaning of [section 2(1)][343] of the Impounding Act 1955\.
+    *   (b) stock within the meaning of [section 2(1)][344] of the Impounding Act 1955\.
     
     
 
@@ -3808,7 +3812,7 @@ Provisions relating to administration
     
     *   (b) by any rules made under [section 156][195],---
     
-    the rules relating to the practice and procedure of District Courts for the time being in force under the [District Courts Act 1947][344] apply with respect to every application to the court under this section.
+    the rules relating to the practice and procedure of District Courts for the time being in force under the [District Courts Act 1947][345] apply with respect to every application to the court under this section.
 
 ##### 144 Power to make enforcement order
     
@@ -3844,17 +3848,17 @@ Provisions relating to administration
     
     *   (c) if the owner cannot be found, the remaining balance must be paid into a Crown Bank Account.
     
-    Section 145(2)(a): substituted, on 27 September 2001, by [section 5][345] of the Animal Welfare Amendment Act 2001 (2001 No 52).
+    Section 145(2)(a): substituted, on 27 September 2001, by [section 5][346] of the Animal Welfare Amendment Act 2001 (2001 No 52).
     
     Section 145(2)(a)(i): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][284] of the Policing Act 2008 (2008 No 72).
     
     Section 145(2)(a)(ii): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][284] of the Policing Act 2008 (2008 No 72).
     
-    Section 145(2)(c): amended, on 19 December 2002, by [section 11(1)][346] of the Animal Welfare Amendment Act 2002 (2002 No 53).
+    Section 145(2)(c): amended, on 19 December 2002, by [section 11(1)][347] of the Animal Welfare Amendment Act 2002 (2002 No 53).
     
-    Section 145(3): added, on 19 December 2002, by [section 11(2)][346] of the Animal Welfare Amendment Act 2002 (2002 No 53).
+    Section 145(3): added, on 19 December 2002, by [section 11(2)][347] of the Animal Welfare Amendment Act 2002 (2002 No 53).
     
-    Section 145(3)(c): amended, on 25 January 2005, pursuant to [section 65R(3)][347] of the Public Finance Act 1989 (1989 No 44).
+    Section 145(3)(c): amended, on 25 January 2005, pursuant to [section 65R(3)][348] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 146 Notification of application
     
@@ -3914,7 +3918,7 @@ Provisions relating to administration
     
     *   (b) in the case of a body corporate, to a fine not exceeding $125,000\.
     
-    Section 152(2): amended, on 1 July 2013, by [section 413][291] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 152(2): amended, on 1 July 2013, by [section 413][292] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 153 Appeals to High Court
     
@@ -3928,17 +3932,17 @@ Provisions relating to administration
     
     (1) A party to proceedings in which there is made a decision to which subsection (1AA) applies, or any other person prejudicially affected by the decision, may appeal to the High Court against the decision.
     
-    (2) The [High Court Rules][348] and [sections 74 to 78][349] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under [section 72][350] of that Act.
+    (2) The [High Court Rules][349] and [sections 74 to 78][350] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under [section 72][351] of that Act.
     
     (3) \[Repealed\]
     
-    Section 153(1AA): inserted, on 24 November 2003, by [section 4][351] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 153(1AA): inserted, on 24 November 2003, by [section 4][352] of the District Courts Amendment Act 2002 (2002 No 63).
     
-    Section 153(1): substituted, on 24 November 2003, by [section 4][351] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 153(1): substituted, on 24 November 2003, by [section 4][352] of the District Courts Amendment Act 2002 (2002 No 63).
     
-    Section 153(2): substituted, on 24 November 2003, by [section 4][351] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 153(2): substituted, on 24 November 2003, by [section 4][352] of the District Courts Amendment Act 2002 (2002 No 63).
     
-    Section 153(3): repealed, on 1 January 2004, by [section 48(2)][352] of the Supreme Court Act 2003 (2003 No 53).
+    Section 153(3): repealed, on 1 January 2004, by [section 48(2)][353] of the Supreme Court Act 2003 (2003 No 53).
 
 ##### 154 Appeals to Court of Appeal
     
@@ -3948,7 +3952,7 @@ Provisions relating to administration
     
     (3) \[Repealed\]
     
-    Section 154(3): repealed, on 1 January 2004, by [section 48(2)][352] of the Supreme Court Act 2003 (2003 No 53).
+    Section 154(3): repealed, on 1 January 2004, by [section 48(2)][353] of the Supreme Court Act 2003 (2003 No 53).
 
 ##### 155 Effect of appeal
     
@@ -3962,7 +3966,7 @@ Provisions relating to administration
 
 ##### 156 Rules of court
     
-*   In addition to all other powers conferred by the [District Courts Act 1947][344], the Governor-General may from time to time, by Order in Council, make rules---
+*   In addition to all other powers conferred by the [District Courts Act 1947][345], the Governor-General may from time to time, by Order in Council, make rules---
         
     *   (a) regulating the practice and procedure of District Courts in proceedings under this Act that relate to enforcement orders:
     
@@ -3994,7 +3998,7 @@ Provisions relating to administration
     
     Section 157(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][284] of the Policing Act 2008 (2008 No 72).
     
-    Section 157(4): amended, on 1 July 2013, by [section 413][291] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 157(4): amended, on 1 July 2013, by [section 413][292] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 158 Protection of persons acting under authority of Act
     
@@ -4022,7 +4026,7 @@ Provisions relating to administration
     
     Compare: 1960 No 30 s 18; 1978 No 63 s 4; 1993 No 19 s 3(1)
     
-    Section 159(2): amended, on 1 July 2013, by [section 413][291] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 159(2): amended, on 1 July 2013, by [section 413][292] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 160 Impersonating inspector or auxiliary officer
     
@@ -4034,7 +4038,7 @@ Provisions relating to administration
     
     (2) A person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $5,000 or to both.
     
-    Section 160(2): amended, on 1 July 2013, by [section 413][291] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 160(2): amended, on 1 July 2013, by [section 413][292] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 8  
 Offences
@@ -4045,11 +4049,11 @@ Offences
     
 *   If a person is alleged to have committed an infringement offence, that person may either---
         
-    *   (a) be proceeded against by filing a charging document under [section 14][353] of the Criminal Procedure Act 2011; or
+    *   (a) be proceeded against by filing a charging document under [section 14][354] of the Criminal Procedure Act 2011; or
     
     *   (b) be served with an infringement notice as provided in [section 162][205].
     
-    Section 161(a): replaced, on 1 July 2013, by [section 413][291] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 161(a): replaced, on 1 July 2013, by [section 413][292] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 162 Infringement notices
     
@@ -4081,7 +4085,7 @@ Offences
     
     *   (d) the time within which the infringement fee may be paid; and
     
-    *   (e) a summary of the provisions of [section 21(10)][354] of the Summary Proceedings Act 1957; and
+    *   (e) a summary of the provisions of [section 21(10)][355] of the Summary Proceedings Act 1957; and
     
     *   (f) a statement of the right of the person served with the notice to request a hearing; and
     
@@ -4089,15 +4093,15 @@ Offences
     
     *   (h) such other particulars as are prescribed.
     
-    (5) If an infringement notice has been issued under this section, proceedings in respect of the offence to which the notice relates may be commenced in accordance with [section 21][354] of the Summary Proceedings Act 1957, and in that case the provisions of that section apply with the necessary modifications.
+    (5) If an infringement notice has been issued under this section, proceedings in respect of the offence to which the notice relates may be commenced in accordance with [section 21][355] of the Summary Proceedings Act 1957, and in that case the provisions of that section apply with the necessary modifications.
     
-    Section 162(3): amended, on 1 July 2013, by [section 413][291] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 162(3): amended, on 1 July 2013, by [section 413][292] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 163 Payment of infringement fees
     
 *   All infringement fees are payable to the Director-General, and the Director-General must pay all infringement fees received into a Crown Bank Account.
     
-    Section 163: amended, on 25 January 2005, pursuant to [section 65R(3)][347] of the Public Finance Act 1989 (1989 No 44).
+    Section 163: amended, on 25 January 2005, pursuant to [section 65R(3)][348] of the Public Finance Act 1989 (1989 No 44).
 
 #### Further provisions relating to offences
 
@@ -4155,15 +4159,15 @@ Offences
     
     (4) The court may not make an order under subsection (3)(b) unless the court is satisfied that there is a reasonable doubt as to the accuracy or validity of the relevant certificate.
     
-    Compare: 1991 No 18 [s 29][355]
+    Compare: 1991 No 18 [s 29][356]
 
 ##### 167 Time for filing charging document for offence against section 54 or 130
     
-*   (1) Despite anything to the contrary in [section 25][356] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against [section 54][72] or [130][163] of this Act ends on the date that is 2 years after the date on which the offence was committed.
+*   (1) Despite anything to the contrary in [section 25][357] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against [section 54][72] or [130][163] of this Act ends on the date that is 2 years after the date on which the offence was committed.
     
-    (2) Nothing in subsection (1) affects the application of [section 25][356] of the Criminal Procedure Act 2011 in relation to any offence not mentioned in that subsection.
+    (2) Nothing in subsection (1) affects the application of [section 25][357] of the Criminal Procedure Act 2011 in relation to any offence not mentioned in that subsection.
     
-    Section 167: replaced, on 1 July 2013, by [section 413][291] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 167: replaced, on 1 July 2013, by [section 413][292] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 168 Inspector may conduct proceedings
     
@@ -4171,11 +4175,11 @@ Offences
         
     *   (a) the filing of a charging document in the name of an inspector; or
     
-    *   (b) the filing of a notice under [section 21][354] of the Summary Proceedings Act 1957\.
+    *   (b) the filing of a notice under [section 21][355] of the Summary Proceedings Act 1957\.
     
-    (2) Despite [section 10][357] of the Criminal Procedure Act 2011, an inspector (not necessarily the inspector who commenced the proceedings) may appear and conduct the proceedings against the defendant.
+    (2) Despite [section 10][358] of the Criminal Procedure Act 2011, an inspector (not necessarily the inspector who commenced the proceedings) may appear and conduct the proceedings against the defendant.
     
-    Section 168: replaced, on 1 July 2013, by [section 413][291] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 168: replaced, on 1 July 2013, by [section 413][292] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 168A Burden of proof of reasonable excuse
     
@@ -4185,7 +4189,7 @@ Offences
     
     *   (b) the burden of proving that the defendant had a reasonable excuse lies on the defendant.
     
-    Section 168A: inserted, on 1 July 2013, by [section 413][291] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 168A: inserted, on 1 July 2013, by [section 413][292] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 169 Court may disqualify person from owning or exercising authority in respect of animals
     
@@ -4211,7 +4215,7 @@ Offences
     
     Compare: 1960 No 30 s 16; 1993 No 19 ss 2, 3(1)
     
-    Section 169: substituted, on 7 July 2010, by [section 7][358] of the Animal Welfare Amendment Act 2010 (2010 No 93).
+    Section 169: substituted, on 7 July 2010, by [section 7][359] of the Animal Welfare Amendment Act 2010 (2010 No 93).
 
 ##### 169A Disqualified person may apply to court for removal or variation of disqualification
     
@@ -4237,7 +4241,7 @@ Offences
     
     (5) If the court varies the disqualification or refuses the application, the person who is disqualified may not re-apply under subsection (1) before the expiry of 12 months after the date of the order of variation or the refusal.
     
-    Section 169A: inserted, on 7 July 2010, by [section 7][358] of the Animal Welfare Amendment Act 2010 (2010 No 93).
+    Section 169A: inserted, on 7 July 2010, by [section 7][359] of the Animal Welfare Amendment Act 2010 (2010 No 93).
 
 ##### 169B Offence of contravening disqualification order
     
@@ -4251,9 +4255,9 @@ Offences
     
     (3) In subsection (1), _order_ includes an order varied under [section 169A][215].
     
-    Section 169B: inserted, on 7 July 2010, by [section 7][358] of the Animal Welfare Amendment Act 2010 (2010 No 93).
+    Section 169B: inserted, on 7 July 2010, by [section 7][359] of the Animal Welfare Amendment Act 2010 (2010 No 93).
     
-    Section 169B(2): amended, on 1 July 2013, by [section 413][291] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 169B(2): amended, on 1 July 2013, by [section 413][292] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 170 Liability for damage
     
@@ -4291,11 +4295,11 @@ Offences
     
     Compare: 1960 No 20 s 16A; 1978 No 63 s 2(1)
     
-    Section 172 heading: amended, on 7 July 2010, by [section 9(1)][359] of the Animal Welfare Amendment Act 2010 (2010 No 93).
+    Section 172 heading: amended, on 7 July 2010, by [section 9(1)][360] of the Animal Welfare Amendment Act 2010 (2010 No 93).
     
-    Section 172(1): replaced, on 1 October 2012, by [section 198][360] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 172(1): replaced, on 1 October 2012, by [section 198][361] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 172(1A): repealed, on 1 October 2012, by [section 198][360] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 172(1A): repealed, on 1 October 2012, by [section 198][361] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 173 Expenses incurred by inspectors and territorial authorities
     
@@ -4309,9 +4313,9 @@ Offences
 
 ##### 174 Certain offences against Dog Control Act 1996 to be treated as offences against this Act
     
-*   For the purposes of this Part, and [sections 169][214], [170][217], [172][219], and [173][220], an offence against [section 54][361] of the Dog Control Act 1996 is deemed to be an offence against [Part 1][10] of this Act.
+*   For the purposes of this Part, and [sections 169][214], [170][217], [172][219], and [173][220], an offence against [section 54][362] of the Dog Control Act 1996 is deemed to be an offence against [Part 1][10] of this Act.
     
-    Compare: 1960 No 30 s 8A; 1996 No 13 [s 79][362]
+    Compare: 1960 No 30 s 8A; 1996 No 13 [s 79][363]
 
 ## Part 9  
 Miscellaneous provisions
@@ -4328,7 +4332,7 @@ Miscellaneous provisions
             
         *   (i) the [Wildlife Act 1953][273]; or
         
-        *   (ii) the [Wild Animal Control Act 1977][363]; or
+        *   (ii) the [Wild Animal Control Act 1977][364]; or
         
         *   (iii) the [Conservation Act 1987][281]; or
         
@@ -4340,13 +4344,13 @@ Miscellaneous provisions
     
     *   (c) any wild animal or pest; or
     
-    *   (ca) any game animal in accordance with the provisions of the [Game Animal Council Act 2013][364]; or
+    *   (ca) any game animal in accordance with the provisions of the [Game Animal Council Act 2013][365]; or
     
     *   (d) any fish caught from a constructed pond.
     
     Compare: 1960 No 30 s 19(1)(c), (2)
     
-    Section 175(ca): inserted, on 28 November 2013, by [section 41(2)][365] of the Game Animal Council Act 2013 (2013 No 98).
+    Section 175(ca): inserted, on 28 November 2013, by [section 41(2)][366] of the Game Animal Council Act 2013 (2013 No 98).
 
 ##### 176 Hunting in safari parks
     
@@ -4390,7 +4394,7 @@ Miscellaneous provisions
             
         *   (i) the name of any government department:
         
-        *   (ii) the name of any Crown entity within the meaning of [section 2(1)][366] of the Public Finance Act 1989:
+        *   (ii) the name of any Crown entity within the meaning of [section 2(1)][367] of the Public Finance Act 1989:
         
         *   (iii) the name of any body established by a public Act of Parliament or by an Order in Council made under a public Act of Parliament:
         
@@ -4416,7 +4420,7 @@ Miscellaneous provisions
         
     *   (a) any agricultural compound that---
             
-        *   (i) is registered under the [Agricultural Compounds and Veterinary Medicines Act 1997][308]; and
+        *   (i) is registered under the [Agricultural Compounds and Veterinary Medicines Act 1997][309]; and
         
         *   (ii) is used in accordance with the conditions subject to which it is registered; or
         
@@ -4424,7 +4428,7 @@ Miscellaneous provisions
     
     *   (b) any hazardous substance that---
             
-        *   (i) is approved under the [Hazardous Substances and New Organisms Act 1996][367]; and
+        *   (i) is approved under the [Hazardous Substances and New Organisms Act 1996][368]; and
         
         *   (ii) is used in accordance with the controls that attach to the substance by virtue of its hazard classification under that Act.
         
@@ -4438,7 +4442,7 @@ Miscellaneous provisions
     
 *   (1) The Minister must, in recommending to the Governor-General in Council the making of regulations under [section 183(e)][236], have regard to the need to ensure that the costs of administering this Act (being costs that are justifiable and calculated in a transparent way) are recovered in accordance with the principles of equity and efficiency.
     
-    (2) For the purposes of subsection (1), the costs of administering this Act do not include those costs that are recovered in departmental revenue (within the meaning of the [Public Finance Act 1989][368]) generated by the Ministry from the Crown.
+    (2) For the purposes of subsection (1), the costs of administering this Act do not include those costs that are recovered in departmental revenue (within the meaning of the [Public Finance Act 1989][369]) generated by the Ministry from the Crown.
     
     (3) In determining appropriate mechanisms (to be recommended for inclusion in regulations made under [section 183(e)][236]) for the recovery of costs of a particular function or service, the Minister must ensure that those mechanisms will result in the recovery of any amount by which the sum of---
         
@@ -4464,7 +4468,7 @@ Miscellaneous provisions
     
     *   (g) liens on property in the possession of the Crown.
     
-    Compare: 1993 No 95 [s 135][369]
+    Compare: 1993 No 95 [s 135][370]
 
 #### Regulations
 
@@ -4522,9 +4526,9 @@ Miscellaneous provisions
     
     (3) A failure to comply with subsection (1) does not affect the validity of any Order in Council or regulations made under this Act.
     
-    Section 184(1): amended, on 19 December 2002, by [section 13(a)][370] of the Animal Welfare Amendment Act 2002 (2002 No 53).
+    Section 184(1): amended, on 19 December 2002, by [section 13(a)][371] of the Animal Welfare Amendment Act 2002 (2002 No 53).
     
-    Section 184(1): amended, on 19 December 2002, by [section 13(b)][370] of the Animal Welfare Amendment Act 2002 (2002 No 53).
+    Section 184(1): amended, on 19 December 2002, by [section 13(b)][371] of the Animal Welfare Amendment Act 2002 (2002 No 53).
 
 #### Notices
 
@@ -4556,9 +4560,9 @@ Miscellaneous provisions
     
 *   (1) The Animal Welfare Advisory Committee, appointed under section 13 of the Ministry of Agriculture and Fisheries Act 1953, is deemed to have continued in being throughout the period beginning on 1 July 1995 and ending with the commencement of this Act as if---
         
-    *   (a) throughout the period beginning on 1 July 1995 and ending with the close of 28 February 1998, it had been appointed, and its functions had been defined, by the Minister of Agriculture under [section 21(1)][371] of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995; and
+    *   (a) throughout the period beginning on 1 July 1995 and ending with the close of 28 February 1998, it had been appointed, and its functions had been defined, by the Minister of Agriculture under [section 21(1)][372] of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995; and
     
-    *   (b) throughout the period beginning on 1 March 1998 and ending with the commencement of this Act, it had been appointed, and its functions had been defined, by the Minister of Agriculture under [section 18(1)][372] of the Ministries of Agriculture and Forestry (Restructuring) Act 1997\.
+    *   (b) throughout the period beginning on 1 March 1998 and ending with the commencement of this Act, it had been appointed, and its functions had been defined, by the Minister of Agriculture under [section 18(1)][373] of the Ministries of Agriculture and Forestry (Restructuring) Act 1997\.
     
     (2) On the commencement of this Act,---
         
@@ -4570,9 +4574,9 @@ Miscellaneous provisions
 
 ##### 187 Transitional provisions relating to membership of committees
     
-*   (1) Every person who, immediately before the commencement of this Act, held office as a member of the Animal Welfare Advisory Committee referred to in [section 186(1)][242] is a member of the National Animal Welfare Advisory Committee established by [section 56][76] until the expiry of the term for which that person was appointed (unless that person sooner vacates office under [clause 2][304] of Schedule 1).
+*   (1) Every person who, immediately before the commencement of this Act, held office as a member of the Animal Welfare Advisory Committee referred to in [section 186(1)][242] is a member of the National Animal Welfare Advisory Committee established by [section 56][76] until the expiry of the term for which that person was appointed (unless that person sooner vacates office under [clause 2][305] of Schedule 1).
     
-    (2) Every person who, immediately before the commencement of this Act, held office as a member of the National Animal Ethics Advisory Committee, appointed under section 19A(5) of the Animals Protection Act 1960, is a member of the National Animal Ethics Advisory Committee established by [section 62][83] until the expiry of the term for which that person was appointed (unless that person sooner vacates office under [clause 2][304] of Schedule 1).
+    (2) Every person who, immediately before the commencement of this Act, held office as a member of the National Animal Ethics Advisory Committee, appointed under section 19A(5) of the Animals Protection Act 1960, is a member of the National Animal Ethics Advisory Committee established by [section 62][83] until the expiry of the term for which that person was appointed (unless that person sooner vacates office under [clause 2][305] of Schedule 1).
 
 ##### 188 Transitional provisions relating to inspectors
     
@@ -4620,11 +4624,11 @@ Miscellaneous provisions
     
     to be an approved organisation for the purposes of [sections 53(2)(a)][71], [101(6)][128], [126(2)][158], [127(6)(a)][160], [133(3)(a)][167], [141][179], [142][180], [171][218], and [172][219].
     
-    Section 190 heading: amended, on 27 September 2001, by [section 6(2)][373] of the Animal Welfare Amendment Act 2001 (2001 No 52).
+    Section 190 heading: amended, on 27 September 2001, by [section 6(2)][374] of the Animal Welfare Amendment Act 2001 (2001 No 52).
     
-    Section 190(1): amended, on 27 September 2001, by [section 6(1)][373] of the Animal Welfare Amendment Act 2001 (2001 No 52).
+    Section 190(1): amended, on 27 September 2001, by [section 6(1)][374] of the Animal Welfare Amendment Act 2001 (2001 No 52).
     
-    Section 190(2)(a): amended, on 27 September 2001, by [section 6(1)][373] of the Animal Welfare Amendment Act 2001 (2001 No 52).
+    Section 190(2)(a): amended, on 27 September 2001, by [section 6(1)][374] of the Animal Welfare Amendment Act 2001 (2001 No 52).
 
 ##### 191 Deemed codes of welfare
     
@@ -4658,15 +4662,15 @@ Miscellaneous provisions
     
     (7) The expiry of an Order in Council under subsection (6) does not affect the validity of any act done pursuant to or in accordance with the provisions of that Order in Council before the date on which the Order in Council expires in accordance with that subsection.
     
-    Section 191(1): amended, on 19 December 2002, by [section 14(1)][374] of the Animal Welfare Amendment Act 2002 (2002 No 53).
+    Section 191(1): amended, on 19 December 2002, by [section 14(1)][375] of the Animal Welfare Amendment Act 2002 (2002 No 53).
     
-    Section 191(4): added, on 19 December 2002, by [section 14(2)][374] of the Animal Welfare Amendment Act 2002 (2002 No 53).
+    Section 191(4): added, on 19 December 2002, by [section 14(2)][375] of the Animal Welfare Amendment Act 2002 (2002 No 53).
     
-    Section 191(5): added, on 19 December 2002, by [section 14(2)][374] of the Animal Welfare Amendment Act 2002 (2002 No 53).
+    Section 191(5): added, on 19 December 2002, by [section 14(2)][375] of the Animal Welfare Amendment Act 2002 (2002 No 53).
     
-    Section 191(6): added, on 19 December 2002, by [section 14(2)][374] of the Animal Welfare Amendment Act 2002 (2002 No 53).
+    Section 191(6): added, on 19 December 2002, by [section 14(2)][375] of the Animal Welfare Amendment Act 2002 (2002 No 53).
     
-    Section 191(7): added, on 19 December 2002, by [section 14(2)][374] of the Animal Welfare Amendment Act 2002 (2002 No 53).
+    Section 191(7): added, on 19 December 2002, by [section 14(2)][375] of the Animal Welfare Amendment Act 2002 (2002 No 53).
 
 ##### 192 Codes of ethical conduct
     
@@ -4724,15 +4728,15 @@ Miscellaneous provisions
 
 ##### 195 Amendment to Ombudsmen Act 1975
     
-*   _Amendment(s) incorporated in the [Act(s)][375]._
+*   _Amendment(s) incorporated in the [Act(s)][376]._
 
 ##### 196 Amendments to Local Government Official Information and Meetings Act 1987
     
-*   _Amendment(s) incorporated in the [Act(s)][376]._
+*   _Amendment(s) incorporated in the [Act(s)][377]._
 
 ##### 197 Amendment to Customs Export Prohibition Order 1996
     
-*   _Amendment(s) incorporated in the [regulations][377]._
+*   _Amendment(s) incorporated in the [regulations][378]._
 
 ##### 198 Repeals
     
@@ -4762,7 +4766,7 @@ Miscellaneous provisions
         
     *   (a) references in the Slaughter of Stock, Game, and Poultry Regulations 1969 (the _Slaughter Regulations_) to slaughtering places and to establishments include references to---
             
-        *   (i) premises and places used for primary processing within the meaning of the [Animal Products Act 1999][378]; and
+        *   (i) premises and places used for primary processing within the meaning of the [Animal Products Act 1999][379]; and
         
         *   (ii) permanent slaughterhouses operated by homekill or recreational catch service providers within the meaning of that Act:
         
@@ -4778,21 +4782,21 @@ Miscellaneous provisions
     
     *   (c) regulation 9 of the Slaughter Regulations (which relates to poultry) is excluded from the deemed code, and regulation 8 of those regulations does not apply to poultry:
     
-    *   (d) the circular specified in subsection (2)(e) applies only to primary processors of eels or rock lobsters who are required to operate under either a registered risk management programme or a regulated control scheme under the [Animal Products Act 1999][378].
+    *   (d) the circular specified in subsection (2)(e) applies only to primary processors of eels or rock lobsters who are required to operate under either a registered risk management programme or a regulated control scheme under the [Animal Products Act 1999][379].
     
-    (5) Subsections (2) to (4) apply according to their tenor despite anything in [section 13][379] or any other provision of the Animal Products (Ancillary and Transitional Provisions) Act 1999\.
+    (5) Subsections (2) to (4) apply according to their tenor despite anything in [section 13][380] or any other provision of the Animal Products (Ancillary and Transitional Provisions) Act 1999\.
     
-    Section 199(2): added, on 19 December 2002, by [section 15(1)][380] of the Animal Welfare Amendment Act 2002 (2002 No 53).
+    Section 199(2): added, on 19 December 2002, by [section 15(1)][381] of the Animal Welfare Amendment Act 2002 (2002 No 53).
     
-    Section 199(3): added, on 19 December 2002, by [section 15(1)][380] of the Animal Welfare Amendment Act 2002 (2002 No 53).
+    Section 199(3): added, on 19 December 2002, by [section 15(1)][381] of the Animal Welfare Amendment Act 2002 (2002 No 53).
     
-    Section 199(4): added, on 19 December 2002, by [section 15(1)][380] of the Animal Welfare Amendment Act 2002 (2002 No 53).
+    Section 199(4): added, on 19 December 2002, by [section 15(1)][381] of the Animal Welfare Amendment Act 2002 (2002 No 53).
     
-    Section 199(5): added, on 19 December 2002, by [section 15(1)][380] of the Animal Welfare Amendment Act 2002 (2002 No 53).
+    Section 199(5): added, on 19 December 2002, by [section 15(1)][381] of the Animal Welfare Amendment Act 2002 (2002 No 53).
 
 ##### 200 Certain bylaws to continue in force
     
-*   (1) Despite the repeal of [section 684(1)(37)][381] of the Local Government Act 1974 by [section 198][255], bylaws made under that section and in force immediately before the commencement of this Act, unless sooner revoked, continue in force, and have effect, for the period of 6 years (or such longer period as may be specified by the Governor-General by Order in Council under subsection (4)) beginning with the date of the commencement of this Act as if this Act had not been passed.
+*   (1) Despite the repeal of [section 684(1)(37)][382] of the Local Government Act 1974 by [section 198][255], bylaws made under that section and in force immediately before the commencement of this Act, unless sooner revoked, continue in force, and have effect, for the period of 6 years (or such longer period as may be specified by the Governor-General by Order in Council under subsection (4)) beginning with the date of the commencement of this Act as if this Act had not been passed.
     
     (2) Bylaws continued in force by subsection (1) may be revoked by the local authority by which they were made or by an Order in Council made under [section 32(1)][47].
     
@@ -4814,17 +4818,17 @@ Miscellaneous provisions
         
         
     
-    Section 200(1): amended, on 19 December 2002, by [section 16(1)][382] of the Animal Welfare Amendment Act 2002 (2002 No 53).
+    Section 200(1): amended, on 19 December 2002, by [section 16(1)][383] of the Animal Welfare Amendment Act 2002 (2002 No 53).
     
-    Section 200(4): added, on 19 December 2002, by [section 16(2)][382] of the Animal Welfare Amendment Act 2002 (2002 No 53).
+    Section 200(4): added, on 19 December 2002, by [section 16(2)][383] of the Animal Welfare Amendment Act 2002 (2002 No 53).
     
-    Section 200(5): added, on 19 December 2002, by [section 16(2)][382] of the Animal Welfare Amendment Act 2002 (2002 No 53).
+    Section 200(5): added, on 19 December 2002, by [section 16(2)][383] of the Animal Welfare Amendment Act 2002 (2002 No 53).
 
 ##### 201 Saving
     
 *   \[Expired\]
     
-    Section 201: expired, on 1 January 2006, by [section 202][383].
+    Section 201: expired, on 1 January 2006, by [section 202][384].
 
 ##### 202 Expiry of section 201
     
@@ -4860,13 +4864,13 @@ Miscellaneous provisions
         
         
     
-    Section 202(1): amended, on 19 December 2002, by [section 17(1)][384] of the Animal Welfare Amendment Act 2002 (2002 No 53).
+    Section 202(1): amended, on 19 December 2002, by [section 17(1)][385] of the Animal Welfare Amendment Act 2002 (2002 No 53).
     
-    Section 202(2): amended, on 19 December 2002, by [section 17(2)][384] of the Animal Welfare Amendment Act 2002 (2002 No 53).
+    Section 202(2): amended, on 19 December 2002, by [section 17(2)][385] of the Animal Welfare Amendment Act 2002 (2002 No 53).
     
-    Section 202(5): added, on 19 December 2002, by [section 17(3)][384] of the Animal Welfare Amendment Act 2002 (2002 No 53).
+    Section 202(5): added, on 19 December 2002, by [section 17(3)][385] of the Animal Welfare Amendment Act 2002 (2002 No 53).
     
-    Section 202(6): added, on 19 December 2002, by [section 17(3)][384] of the Animal Welfare Amendment Act 2002 (2002 No 53).
+    Section 202(6): added, on 19 December 2002, by [section 17(3)][385] of the Animal Welfare Amendment Act 2002 (2002 No 53).
 
 ---
 
@@ -4947,7 +4951,7 @@ Provisions applying in respect of National Animal Welfare Advisory Committee and
 
 ##### 7 Teleconference meeting
     
-*   (1) The contemporaneous linking together by telephone or other means of communication of a number of members of an advisory committee, being not less than the relevant quorum provided by [clause 5(3)][385], whether or not 1 or more of the members is out of New Zealand, is deemed to constitute a meeting of the advisory committee; and all of the provisions of this schedule apply to that meeting, if the following conditions are met:
+*   (1) The contemporaneous linking together by telephone or other means of communication of a number of members of an advisory committee, being not less than the relevant quorum provided by [clause 5(3)][386], whether or not 1 or more of the members is out of New Zealand, is deemed to constitute a meeting of the advisory committee; and all of the provisions of this schedule apply to that meeting, if the following conditions are met:
         
     *   (a) notice must have been given, by telephone or other means of communication, to every member of the advisory committee for the time being entitled to receive notice of a meeting of the advisory committee; and
     
@@ -4979,9 +4983,9 @@ Provisions applying in respect of National Animal Welfare Advisory Committee and
 
 ##### 10 Fees and allowances
     
-*   (1) An advisory committee, and each subcommittee appointed by an advisory committee, is a statutory board for the purposes of the [Fees and Travelling Allowances Act 1951][386].
+*   (1) An advisory committee, and each subcommittee appointed by an advisory committee, is a statutory board for the purposes of the [Fees and Travelling Allowances Act 1951][387].
     
-    (2) There may be paid, out of public money to the members of an advisory committee, and to the members of any subcommittee appointed by an advisory committee, remuneration by way of fees, salary, or allowances and travelling allowances and travelling expenses in accordance with the [Fees and Travelling Allowances Act 1951][386], and the provisions of that Act apply accordingly.
+    (2) There may be paid, out of public money to the members of an advisory committee, and to the members of any subcommittee appointed by an advisory committee, remuneration by way of fees, salary, or allowances and travelling allowances and travelling expenses in accordance with the [Fees and Travelling Allowances Act 1951][387], and the provisions of that Act apply accordingly.
 
 ##### 11 Administrative assistance
     
@@ -5000,7 +5004,7 @@ Provisions applying in respect of accreditation and accredited reviewers
         
     *   (a) the full name and address of the person accredited; and
     
-    *   (b) any conditions applying under [clause 3][387]; and
+    *   (b) any conditions applying under [clause 3][388]; and
     
     *   (c) the duration of the accreditation.
     
@@ -5012,9 +5016,9 @@ Provisions applying in respect of accreditation and accredited reviewers
     
     *   (b) continues in force until---
             
-        *   (i) it is withdrawn under [clause 5][388]; or
+        *   (i) it is withdrawn under [clause 5][389]; or
         
-        *   (ii) it is surrendered under [clause 6][389]; or
+        *   (ii) it is surrendered under [clause 6][390]; or
         
         *   (iii) in the case of accreditation granted for a stated period or until a stated date, the expiry of that period or the passing of that date.
         
@@ -5048,7 +5052,7 @@ Provisions applying in respect of accreditation and accredited reviewers
     
     (2) The accreditation fee prescribed may be an annual accreditation fee or a fee prescribed as payable at such greater intervals as are set out in the regulations.
     
-    (3) Any failure to pay the appropriate fee by the due date, being a failure that persists for more than 30 days, may result in the accreditation being withdrawn under [clause 5][388].
+    (3) Any failure to pay the appropriate fee by the due date, being a failure that persists for more than 30 days, may result in the accreditation being withdrawn under [clause 5][389].
 
 ##### 5 Withdrawal of accreditation
     
@@ -5080,9 +5084,9 @@ Provisions applying in respect of accreditation and accredited reviewers
 
 ##### 7 Substituted notice of accreditation
     
-*   The Director-General may, if he or she thinks fit, and on payment of the prescribed fee (if any), cancel an existing notice of accreditation granted under [clause 1][390], and issue a new notice in substitution for it,---
+*   The Director-General may, if he or she thinks fit, and on payment of the prescribed fee (if any), cancel an existing notice of accreditation granted under [clause 1][391], and issue a new notice in substitution for it,---
         
-    *   (a) if the terms or conditions of the accreditation are to be or have been varied under [clause 3][387]; or
+    *   (a) if the terms or conditions of the accreditation are to be or have been varied under [clause 3][388]; or
     
     *   (b) if the existing notice has become disfigured or dilapidated, or contains a mistake, or if the Director-General is satisfied that the existing notice has been lost or destroyed.
     
@@ -5161,43 +5165,43 @@ Enactments amended
 
 ##### Agricultural Compounds and Veterinary Medicines Act 1997 (1997 No 87)
 
-_Amendment(s) incorporated in the [Act(s)][391]._
+_Amendment(s) incorporated in the [Act(s)][392]._
 
 ##### Animal Products Act 1999 (1999 No 93)
 
-_Amendment(s) incorporated in the [Act(s)][392]._
+_Amendment(s) incorporated in the [Act(s)][393]._
 
 ##### Biosecurity Act 1993 (1993 No 95)
 
-_Amendment(s) incorporated in the [Act(s)][393]._
+_Amendment(s) incorporated in the [Act(s)][394]._
 
 ##### Conservation Act 1987 (1987 No 65) (RS Vol 36, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][394]._
+_Amendment(s) incorporated in the [Act(s)][395]._
 
 ##### Dog Control Act 1996 (1996 No 13)
 
-_Amendment(s) incorporated in the [Act(s)][395]._
+_Amendment(s) incorporated in the [Act(s)][396]._
 
 ##### Impounding Act 1955 (1955 No 108) (RS Vol 7, p 339)
 
-_Amendment(s) incorporated in the [Act(s)][396]_.
+_Amendment(s) incorporated in the [Act(s)][397]_.
 
 ##### Marine Mammals Protection Act 1978 (1978 No 80) (RS Vol 34, p 709)
 
-_Amendment(s) incorporated in the [Act(s)][397]._
+_Amendment(s) incorporated in the [Act(s)][398]._
 
 ##### National Parks Act 1980 (1980 No 66) (RS Vol 36, p 517)
 
-_Amendment(s) incorporated in the [Act(s)][398]._
+_Amendment(s) incorporated in the [Act(s)][399]._
 
 ##### Summary Proceedings Act 1957 (1957 No 87) (RS Vol 9, p 583)
 
-_Amendment(s) incorporated in the [Act(s)][399]_.
+_Amendment(s) incorporated in the [Act(s)][400]_.
 
 ##### Wild Animal Control Act 1977 (1977 No 111) (RS Vol 33, p 957)
 
-_Amendment(s) incorporated in the [Act(s)][400]._
+_Amendment(s) incorporated in the [Act(s)][401]._
 
 ---
 
@@ -5224,7 +5228,7 @@ Enactments repealed
 
 ##### Local Government Act 1974 (1974 No 66) (RS Vol 25, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][381]._
+_Amendment(s) incorporated in the [Act(s)][382]._
 
 ##### Meat Act 1981 (1981 No 56)
 
@@ -5236,7 +5240,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Wild Animal Control Amendment Act 1997 (1997 No 80)
 
-_Amendment(s) incorporated in the [Act(s)][401]._
+_Amendment(s) incorporated in the [Act(s)][402]._
 
 ---
 
@@ -5259,7 +5263,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Animal Welfare Amendment Act 2010][402].
+*   This Act is the [Animal Welfare Amendment Act 2010][403].
 
 ##### 2 Commencement
     
@@ -5281,41 +5285,43 @@ Commencementsee section 2
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][403] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][404] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][404] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][405] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][405] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][406] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][406] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][407] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Game Animal Council Act 2013 (2013 No 98): [section 41(2)][365]
+*   Game Animal Council Act 2013 (2013 No 98): [section 41(2)][366]
     
-    Legislation Act 2012 (2012 No 119): [section 77(3)][290]
+    Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][287]
     
-    Search and Surveillance Act 2012 (2012 No 24): [sections 195--198][324]
+    Legislation Act 2012 (2012 No 119): [section 77(3)][291]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][291]
+    Search and Surveillance Act 2012 (2012 No 24): [sections 195--198][325]
     
-    [Animal Welfare Amendment Act 2010][402] (2010 No 93)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][292]
+    
+    [Animal Welfare Amendment Act 2010][403] (2010 No 93)
     
     Policing Act 2008 (2008 No 72): [section 116(a)(ii)][284]
     
     Veterinarians Act 2005 (2005 No 126): [section 105][286]
     
-    [Animal Welfare Amendment Act 2005 (2005 No 90)][407]
+    [Animal Welfare Amendment Act 2005 (2005 No 90)][408]
     
-    Supreme Court Act 2003 (2003 No 53): [section 48(2)][352]
+    Supreme Court Act 2003 (2003 No 53): [section 48(2)][353]
     
     Local Government Act 2002 (2002 No 84): [section 262][285]
     
-    District Courts Amendment Act 2002 (2002 No 63): [section 4][351]
+    District Courts Amendment Act 2002 (2002 No 63): [section 4][352]
     
-    [Animal Welfare Amendment Act 2002 (2002 No 53)][408]
+    [Animal Welfare Amendment Act 2002 (2002 No 53)][409]
     
-    [Animal Welfare Amendment Act 2001 (2001 No 52)][409]
+    [Animal Welfare Amendment Act 2001 (2001 No 52)][410]
     
-    Public Finance Act 1989 (1989 No 44): [section 65R(3)][347]
+    Public Finance Act 1989 (1989 No 44): [section 65R(3)][348]
 
 
 
@@ -5606,126 +5612,127 @@ Commencementsee section 2
 [284]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM1102349
 [285]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM174088
 [286]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM364675
-[287]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM394191
-[288]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2997643
-[289]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2998573
-[290]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2998633
-[291]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM3360714
-[292]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM16998
-[293]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM278118
-[294]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM167417
-[295]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM167418
-[296]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2747708
-[297]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2747709
-[298]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM167419
-[299]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM25110
-[300]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM167420
-[301]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM128138
-[302]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM167421
-[303]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2747714
-[304]: http://www.legislation.govt.nz/act/public/1999/0142/latest/whole.html#DLM51985
-[305]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM110926
-[306]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM167422
-[307]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM167423
-[308]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM414576
-[309]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM319569
-[310]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM327381
-[311]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM374409
-[312]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM210989
-[313]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM145965
-[314]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM363858
-[315]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM64784
-[316]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM296638
-[317]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM129109
-[318]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM446000
-[319]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM366853
-[320]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM110927
-[321]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM366855
-[322]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM275026
-[323]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM442667
-[324]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2136917
-[325]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2136542
-[326]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2136781
-[327]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM275946
-[328]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2136770
-[329]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2136813
-[330]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2136815
-[331]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2136771
-[332]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2136842
-[333]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2136860
-[334]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2136877
-[335]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2136888
-[336]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2136896
-[337]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2136866
-[338]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2136918
-[339]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2136920
-[340]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM293863
-[341]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM25336
-[342]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM25385
-[343]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM293869
-[344]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM242775
-[345]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM110928
-[346]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM167425
-[347]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM162942
-[348]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM147655
-[349]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM243909
-[350]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM243795
-[351]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM168713
-[352]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM214522
-[353]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM3360057
-[354]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM311346
-[355]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM228998
-[356]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM3360067
-[357]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM3360053
-[358]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2747715
-[359]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2747721
-[360]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM4355902
-[361]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM375402
-[362]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM375484
-[363]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM16622
-[364]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM4105012
-[365]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM4105502
-[366]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM160819
-[367]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM381221
-[368]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM160808
-[369]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM316371
-[370]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM167427
-[371]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM366868
-[372]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM418635
-[373]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM110929
-[374]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM167429
-[375]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM431296
-[376]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM123080
-[377]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM221990
-[378]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM33501
-[379]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM36199
-[380]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM167430
-[381]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM423807
-[382]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM167432
-[383]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM51978
-[384]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM167433
-[385]: http://www.legislation.govt.nz/act/public/1999/0142/latest/whole.html#DLM51988
-[386]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM264952
-[387]: http://www.legislation.govt.nz/act/public/1999/0142/latest/whole.html#DLM51998
-[388]: http://www.legislation.govt.nz/act/public/1999/0142/latest/whole.html#DLM52500
-[389]: http://www.legislation.govt.nz/act/public/1999/0142/latest/whole.html#DLM52501
-[390]: http://www.legislation.govt.nz/act/public/1999/0142/latest/whole.html#DLM51996
-[391]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM415175
-[392]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM36101
-[393]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM315227
-[394]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM103616
-[395]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM374415
-[396]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM294219
-[397]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM25367
-[398]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM36968
-[399]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM310749
-[400]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM17209
-[401]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM413171
-[402]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2747700
-[403]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2998516
-[404]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2998515
-[405]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2998532
-[406]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[407]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM360697
-[408]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM167407
-[409]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM110920
+[287]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM4929207
+[288]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM394191
+[289]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2997643
+[290]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2998573
+[291]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2998633
+[292]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM3360714
+[293]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM16998
+[294]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM278118
+[295]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM167417
+[296]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM167418
+[297]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2747708
+[298]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2747709
+[299]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM167419
+[300]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM25110
+[301]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM167420
+[302]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM128138
+[303]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM167421
+[304]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2747714
+[305]: http://www.legislation.govt.nz/act/public/1999/0142/latest/whole.html#DLM51985
+[306]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM110926
+[307]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM167422
+[308]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM167423
+[309]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM414576
+[310]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM319569
+[311]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM327381
+[312]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM374409
+[313]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM210989
+[314]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM145965
+[315]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM363858
+[316]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM64784
+[317]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM296638
+[318]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM129109
+[319]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM446000
+[320]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM366853
+[321]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM110927
+[322]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM366855
+[323]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM275026
+[324]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM442667
+[325]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2136917
+[326]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2136542
+[327]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2136781
+[328]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM275946
+[329]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2136770
+[330]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2136813
+[331]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2136815
+[332]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2136771
+[333]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2136842
+[334]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2136860
+[335]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2136877
+[336]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2136888
+[337]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2136896
+[338]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2136866
+[339]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2136918
+[340]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2136920
+[341]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM293863
+[342]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM25336
+[343]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM25385
+[344]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM293869
+[345]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM242775
+[346]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM110928
+[347]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM167425
+[348]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM162942
+[349]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM147655
+[350]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM243909
+[351]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM243795
+[352]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM168713
+[353]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM214522
+[354]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM3360057
+[355]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM311346
+[356]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM228998
+[357]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM3360067
+[358]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM3360053
+[359]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2747715
+[360]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2747721
+[361]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM4355902
+[362]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM375402
+[363]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM375484
+[364]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM16622
+[365]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM4105012
+[366]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM4105502
+[367]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM160819
+[368]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM381221
+[369]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM160808
+[370]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM316371
+[371]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM167427
+[372]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM366868
+[373]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM418635
+[374]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM110929
+[375]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM167429
+[376]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM431296
+[377]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM123080
+[378]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM221990
+[379]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM33501
+[380]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM36199
+[381]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM167430
+[382]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM423807
+[383]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM167432
+[384]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM51978
+[385]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM167433
+[386]: http://www.legislation.govt.nz/act/public/1999/0142/latest/whole.html#DLM51988
+[387]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM264952
+[388]: http://www.legislation.govt.nz/act/public/1999/0142/latest/whole.html#DLM51998
+[389]: http://www.legislation.govt.nz/act/public/1999/0142/latest/whole.html#DLM52500
+[390]: http://www.legislation.govt.nz/act/public/1999/0142/latest/whole.html#DLM52501
+[391]: http://www.legislation.govt.nz/act/public/1999/0142/latest/whole.html#DLM51996
+[392]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM415175
+[393]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM36101
+[394]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM315227
+[395]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM103616
+[396]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM374415
+[397]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM294219
+[398]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM25367
+[399]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM36968
+[400]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM310749
+[401]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM17209
+[402]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM413171
+[403]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2747700
+[404]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2998516
+[405]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2998515
+[406]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM2998532
+[407]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[408]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM360697
+[409]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM167407
+[410]: http://www.legislation.govt.nz/act/public/1999/0142/latest/link.aspx?id=DLM110920
