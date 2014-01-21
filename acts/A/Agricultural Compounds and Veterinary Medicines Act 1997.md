@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 1 January 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -694,6 +694,8 @@ Preliminary
         
     *   (a) a Saturday, a Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
     
+    *   (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    
     *   (b) a day in the period commencing on 20 December in any year and ending with 15 January in the following year.
     
     (2) The Governor-General may from time to time, by Order in Council, declare---
@@ -748,7 +750,9 @@ Preliminary
     
     Section 2(1) **veterinarian**: amended, on 22 December 2005, by [section 105][235] of the Veterinarians Act 2005 (2005 No 126).
     
-    Section 2(3): replaced, on 5 August 2013, by [section 77(3)][236] of the Legislation Act 2012 (2012 No 119).
+    Section 2(1) **working day** paragraph (ab): inserted, on 1 January 2014, by [section 8][236] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
+    
+    Section 2(3): replaced, on 5 August 2013, by [section 77(3)][237] of the Legislation Act 2012 (2012 No 119).
 
 ##### 3 Act to bind the Crown
     
@@ -774,7 +778,7 @@ Preliminary
     
     *   (c) ensure the provision of sufficient consumer information about agricultural compounds.
     
-    Section 4(a)(ai): inserted, on 18 October 2007, by [section 5][237] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 4(a)(ai): inserted, on 18 October 2007, by [section 5][238] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 4A Scheme of Act
     
@@ -794,13 +798,13 @@ Preliminary
     
     (4) The Director-General may also issue notices that set out the technical detail of how compliance with conditions imposed by regulations can be achieved.
     
-    (5) This Act, by its subject matter, has a relationship with other Acts such as the [Animal Products Act 1999][238], the [Food Act 1981][239], the [Wine Act 2003][240], the [Animal Welfare Act 1999][241], the [Biosecurity Act 1993][226], the [Medicines Act 1981][242], and the [Hazardous Substances and New Organisms Act 1986][227]. Generally, the outcomes for which this Act regulates are those set under the other related Acts. For example:
+    (5) This Act, by its subject matter, has a relationship with other Acts such as the [Animal Products Act 1999][239], the [Food Act 1981][240], the [Wine Act 2003][241], the [Animal Welfare Act 1999][242], the [Biosecurity Act 1993][226], the [Medicines Act 1981][243], and the [Hazardous Substances and New Organisms Act 1986][227]. Generally, the outcomes for which this Act regulates are those set under the other related Acts. For example:
         
-    *   (a) maximum residue limits for food products are set under the [Food Act 1981][239]; while
+    *   (a) maximum residue limits for food products are set under the [Food Act 1981][240]; while
     
     *   (b) this Act assesses and controls agricultural compounds to ensure the Food Act residue limit is not breached.
     
-    Section 4A: inserted, on 18 October 2007, by [section 6][243] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 4A: inserted, on 18 October 2007, by [section 6][244] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ## Part 2  
 Importation, manufacture, and sale of agricultural compounds
@@ -817,11 +821,11 @@ Importation, manufacture, and sale of agricultural compounds
     
     *   (c) to enter into New Zealand after being cleared for entry by an ACVM officer in accordance with [section 6][11].
     
-    Section 5(a): amended, on 18 October 2007, by [section 7][244] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 5(a): amended, on 18 October 2007, by [section 7][245] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 5(b): amended, on 18 October 2007, by [section 7][244] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 5(b): amended, on 18 October 2007, by [section 7][245] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 5(c): amended, on 18 October 2007, by [section 7][244] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 5(c): amended, on 18 October 2007, by [section 7][245] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 6 Agricultural compound clearance
     
@@ -861,23 +865,23 @@ Importation, manufacture, and sale of agricultural compounds
     
     (4) A clearance for entry into New Zealand given under this section does not affect the provisions of any other Act.
     
-    Section 6: substituted, on 15 November 2000, by [section 3][245] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2000 (2000 No 50).
+    Section 6: substituted, on 15 November 2000, by [section 3][246] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2000 (2000 No 50).
     
-    Section 6(1): amended, on 18 October 2007, by [section 8(1)][246] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 6(1): amended, on 18 October 2007, by [section 8(1)][247] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 6(2): amended, on 18 October 2007, by [section 8(2)][246] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 6(2): amended, on 18 October 2007, by [section 8(2)][247] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 6(3)(iii): substituted, on 18 October 2007, by [section 8(3)][246] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 6(3)(iii): substituted, on 18 October 2007, by [section 8(3)][247] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 6(3)(iv): repealed, on 18 October 2007, by [section 8(3)][246] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 6(3)(iv): repealed, on 18 October 2007, by [section 8(3)][247] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 7 Declaration
     
 *   The importer of any goods may, for the purposes of [section 6(3)(a)(i)][11], make a declaration in a manner determined by the Director-General to the effect that the importer will not sell or use the goods as an agricultural compound.
     
-    Section 7: substituted, on 15 November 2000, by [section 3][245] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2000 (2000 No 50).
+    Section 7: substituted, on 15 November 2000, by [section 3][246] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2000 (2000 No 50).
     
-    Section 7: amended, on 18 October 2007, by [section 9][247] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 7: amended, on 18 October 2007, by [section 9][248] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 7A Uncleared or unauthorised goods
     
@@ -901,7 +905,7 @@ Importation, manufacture, and sale of agricultural compounds
     
     (8) If however satisfied that the person in possession of the seized goods was not aware that they did not comply with the requirements of this Act, the Director-General may, at his or her absolute discretion, waive or reduce the amount otherwise recoverable under subsection (7).
     
-    Section 7A: inserted, on 18 October 2007, by [section 10][248] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 7A: inserted, on 18 October 2007, by [section 10][249] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 8 Prohibition on sale, use, manufacture, or import of agricultural compound
     
@@ -927,7 +931,7 @@ Importation, manufacture, and sale of agricultural compounds
     
     *   (c) is only to be exported, with or without further processing.
     
-    Section 8: substituted, on 18 October 2007, by [section 11][249] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 8: substituted, on 18 October 2007, by [section 11][250] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 8A Exemptions from requirement to register
     
@@ -941,7 +945,7 @@ Importation, manufacture, and sale of agricultural compounds
     
     (2) An exemption under this section is valid only if the compound or substance complies with any relevant conditions or requirements set by the regulations, or by the Director-General under [section 8B][16] or [8C][17].
     
-    Section 8A: inserted, on 18 October 2007, by [section 11][249] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 8A: inserted, on 18 October 2007, by [section 11][250] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 8B Director-General may list as exempt substances generally recognised as safe
     
@@ -963,7 +967,7 @@ Importation, manufacture, and sale of agricultural compounds
     
     (5) The Director-General must by notice in the _Gazette_ notify the making of any addition or amendment to, or deletion from, the list, but the substances concerned need not be specified in the notice.
     
-    Section 8B: inserted, on 18 October 2007, by [section 11][249] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 8B: inserted, on 18 October 2007, by [section 11][250] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 8C Director-General may approve agricultural compound as exempt in special circumstances
     
@@ -993,7 +997,7 @@ Importation, manufacture, and sale of agricultural compounds
     
     (8) If a person acting under the delegated authority of the Director-General refuses to grant or revokes an approval under this section, or amends the terms or conditions of an approval, the applicant for or holder of the approval may seek a review of that refusal, revocation, or amendment under [section 77A][156].
     
-    Section 8C: inserted, on 18 October 2007, by [section 11][249] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 8C: inserted, on 18 October 2007, by [section 11][250] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 #### Registration of agricultural compounds
 
@@ -1007,7 +1011,7 @@ Importation, manufacture, and sale of agricultural compounds
     
     (2) The registrant may apply to the Director-General to vary 1 or more of the conditions on a registered trade name product.
     
-    Section 9(1)(b): amended, on 18 October 2007, by [section 12][250] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 9(1)(b): amended, on 18 October 2007, by [section 12][251] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 10 Form of application
     
@@ -1027,15 +1031,15 @@ Importation, manufacture, and sale of agricultural compounds
 
 ##### 12 Director-General to withhold information
     
-*   (1) If, in the Director-General's opinion, any information which has been supplied to the Director-General in respect of any application may be able to be withheld under [section 9(2)(b)][251] of the Official Information Act 1982, that information must not be released to any person when an application is publicly notified.
+*   (1) If, in the Director-General's opinion, any information which has been supplied to the Director-General in respect of any application may be able to be withheld under [section 9(2)(b)][252] of the Official Information Act 1982, that information must not be released to any person when an application is publicly notified.
     
     (2) Where---
         
-    *   (a) the Director-General receives a request to release any information received in respect of an application, other than information to which [Part 6][147] applies held by the Director-General under the [Official Information Act 1982][252]; and
+    *   (a) the Director-General receives a request to release any information received in respect of an application, other than information to which [Part 6][147] applies held by the Director-General under the [Official Information Act 1982][253]; and
     
     *   (b) the information to which the request relates,---
             
-        *   (i) in the Director-General's opinion, may be able to be withheld under [section 9(2)(b)][251] of that Act; or
+        *   (i) in the Director-General's opinion, may be able to be withheld under [section 9(2)(b)][252] of that Act; or
         
         *   (ii) has been classified as commercially sensitive by the person who gave the information to the Director-General,---
         
@@ -1043,17 +1047,17 @@ Importation, manufacture, and sale of agricultural compounds
     
     the Director-General must make all reasonable efforts to contact and notify immediately the person who gave the information to the Director-General that a request to release the information has been received.
     
-    (3) Where a person receives notice from the Director-General under subsection (2), that person must, within 10 working days of receipt of the notice, respond to the Director-General stating whether that person believes that the information should be withheld under [section 9(2)(b)][251] of the Official Information Act 1982 and give reasons for that person's belief.
+    (3) Where a person receives notice from the Director-General under subsection (2), that person must, within 10 working days of receipt of the notice, respond to the Director-General stating whether that person believes that the information should be withheld under [section 9(2)(b)][252] of the Official Information Act 1982 and give reasons for that person's belief.
     
-    (4) The Director-General may release the information or withhold the information in accordance with the [Official Information Act 1982][252] if---
+    (4) The Director-General may release the information or withhold the information in accordance with the [Official Information Act 1982][253] if---
         
     *   (a) the Director-General has complied with subsection (2); and
     
     *   (b) the time limit specified in subsection (3) has expired.
     
-    Section 12(2): amended, on 30 October 2003, by [section 3(1)][253] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2003 (2003 No 55).
+    Section 12(2): amended, on 30 October 2003, by [section 3(1)][254] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2003 (2003 No 55).
     
-    Section 12(4): substituted, on 30 October 2003, by [section 3(2)][253] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2003 (2003 No 55).
+    Section 12(4): substituted, on 30 October 2003, by [section 3(2)][254] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2003 (2003 No 55).
 
 ##### 13 Notification of application to Minister and departments
     
@@ -1061,13 +1065,13 @@ Importation, manufacture, and sale of agricultural compounds
         
     *   (a) the Minister; and
     
-    *   (b) the Environmental Protection Authority established by [section 7][254] of the Environmental Protection Authority Act 2011; and
+    *   (b) the Environmental Protection Authority established by [section 7][255] of the Environmental Protection Authority Act 2011; and
     
-    *   (c) those departments listed in [Schedule 1][255] of the State Sector Act 1988 that have notified the Director-General that they have an interest in applications made under this Act.
+    *   (c) those departments listed in [Schedule 1][256] of the State Sector Act 1988 that have notified the Director-General that they have an interest in applications made under this Act.
     
     (2) The Director-General must supply further information to any person notified under this section, if requested to do so by that person, unless that information is protected in accordance with [sections 73][149], [109][205], or [121][218].
     
-    Section 13(1)(b): amended, on 1 July 2011, by [section 53(1)][256] of the Environmental Protection Authority Act 2011 (2011 No 14).
+    Section 13(1)(b): amended, on 1 July 2011, by [section 53(1)][257] of the Environmental Protection Authority Act 2011 (2011 No 14).
 
 ##### 14 Notification of application
     
@@ -1099,9 +1103,9 @@ Importation, manufacture, and sale of agricultural compounds
     
     (2) The Director-General may waive the requirement to notify an application in accordance with [section 14][24] if, in the Director-General's opinion, a trade name product is likely to be required for use in---
         
-    *   (a) a biosecurity emergency declared under [section 144][257] of the Biosecurity Act 1993; or
+    *   (a) a biosecurity emergency declared under [section 144][258] of the Biosecurity Act 1993; or
     
-    *   (b) a special emergency declared under [section 49B][258] of the Hazardous Substances and New Organisms Act 1996\.
+    *   (b) a special emergency declared under [section 49B][259] of the Hazardous Substances and New Organisms Act 1996\.
     
     (3) The Director-General may waive the requirement to notify an application in accordance with [section 14][24] if---
         
@@ -1117,13 +1121,13 @@ Importation, manufacture, and sale of agricultural compounds
     
     *   (c) the Director-General is of the opinion that the trade name product is likely to be required for use in the emergency.
     
-    Section 15(1)(b): substituted, on 18 October 2007, by [section 13][259] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 15(1)(b): substituted, on 18 October 2007, by [section 13][260] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 15(2): substituted, on 30 October 2003, by [section 4][260] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2003 (2003 No 55).
+    Section 15(2): substituted, on 30 October 2003, by [section 4][261] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2003 (2003 No 55).
     
-    Section 15(3): added, on 30 October 2003, by [section 4][260] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2003 (2003 No 55).
+    Section 15(3): added, on 30 October 2003, by [section 4][261] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2003 (2003 No 55).
     
-    Section 15(3)(b)(i): amended, on 7 July 2010, by [section 4][261] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2010 (2010 No 46).
+    Section 15(3)(b)(i): amended, on 7 July 2010, by [section 4][262] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2010 (2010 No 46).
 
 ##### 16 Time limits and waivers
     
@@ -1207,11 +1211,11 @@ Importation, manufacture, and sale of agricultural compounds
     
     *   (e) the benefits of the trade name product and the likely consequences of the public not having access, or having restricted access, to the trade name product.
     
-    Section 19(a): substituted, on 18 October 2007, by [section 14(1)][262] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 19(a): substituted, on 18 October 2007, by [section 14(1)][263] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 19(ab): inserted, on 18 October 2007, by [section 14(1)][262] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 19(ab): inserted, on 18 October 2007, by [section 14(1)][263] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 19(e): amended, on 18 October 2007, by [section 14(2)][262] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 19(e): amended, on 18 October 2007, by [section 14(2)][263] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 20 Evaluation of risks and benefits
     
@@ -1257,7 +1261,7 @@ Importation, manufacture, and sale of agricultural compounds
     
     (3) Subject to the provisions of [Part 6][147], the Director-General must give the decision in writing, with reasons, to the applicant and to every person who made a submission.
     
-    (4) The Director-General must not register a trade name product under this section without the consent of the Director-General of Health if that product is a prescription medicine within the meaning of [section 3][263] of the Medicines Act 1981\.
+    (4) The Director-General must not register a trade name product under this section without the consent of the Director-General of Health if that product is a prescription medicine within the meaning of [section 3][264] of the Medicines Act 1981\.
     
     (5) Where a trade name product contains an agricultural compound that is also a hazardous substance or new organism, the Director-General must not register that product under this section, unless an approval for that substance or organism has been issued under the [Hazardous Substances and New Organisms Act 1996][227].
 
@@ -1299,11 +1303,11 @@ Importation, manufacture, and sale of agricultural compounds
     
     (4) Where a trade name product was registered in accordance with [section 27][37], the trade name product must be disposed of in accordance with the conditions on the registration of the product.
     
-    Section 22(1)(b): amended, on 31 August 2012, by [section 5][264] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 22(1)(b): amended, on 31 August 2012, by [section 5][265] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
     
-    Section 22(2)(b): amended, on 18 October 2007, by [section 15(1)][265] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 22(2)(b): amended, on 18 October 2007, by [section 15(1)][266] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 22(3): substituted, on 18 October 2007, by [section 15(2)][265] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 22(3): substituted, on 18 October 2007, by [section 15(2)][266] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 23 Conditions on trade name products
     
@@ -1347,21 +1351,21 @@ Importation, manufacture, and sale of agricultural compounds
     
     (5) The specificity of the conditions listed in paragraphs (a) to (l) of subsection (1) does not limit the conditions that may be imposed under paragraph (m) of that subsection.
     
-    Section 23(1)(f): substituted, on 18 October 2007, by [section 16(1)][266] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 23(1)(f): substituted, on 18 October 2007, by [section 16(1)][267] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 23(1)(ja): inserted, on 18 October 2007, by [section 16(2)][266] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 23(1)(ja): inserted, on 18 October 2007, by [section 16(2)][267] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 23(1)(ja): amended, on 31 August 2012, by [section 6][267] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 23(1)(ja): amended, on 31 August 2012, by [section 6][268] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
     
-    Section 23(1)(jb): inserted, on 18 October 2007, by [section 16(2)][266] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 23(1)(jb): inserted, on 18 October 2007, by [section 16(2)][267] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 23(1)(k): amended, on 18 October 2007, by [section 16(3)][266] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 23(1)(k): amended, on 18 October 2007, by [section 16(3)][267] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 23(1)(l): amended, on 18 October 2007, by [section 16(3)][266] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 23(1)(l): amended, on 18 October 2007, by [section 16(3)][267] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 23(4): added, on 18 October 2007, by [section 16(4)][266] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 23(4): added, on 18 October 2007, by [section 16(4)][267] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 23(5): added, on 18 October 2007, by [section 16(4)][266] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 23(5): added, on 18 October 2007, by [section 16(4)][267] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 24 Register of agricultural compounds
     
@@ -1403,25 +1407,25 @@ Importation, manufacture, and sale of agricultural compounds
     
     (6) The registrant must notify the Director-General of any change to the matters in subsection (2)(b) within 20 working days of the change taking place.
     
-    Section 24(1): amended, on 18 October 2007, by [section 17(1)][268] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 24(1): amended, on 18 October 2007, by [section 17(1)][269] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 24(1A): inserted, on 18 October 2007, by [section 17(2)][268] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 24(1A): inserted, on 18 October 2007, by [section 17(2)][269] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 24(2)(c): amended, on 18 October 2007, by [section 17(3)(a)][268] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 24(2)(c): amended, on 18 October 2007, by [section 17(3)(a)][269] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 24(2)(e): repealed, on 18 October 2007, by [section 17(3)(b)][268] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 24(2)(e): repealed, on 18 October 2007, by [section 17(3)(b)][269] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 24(2)(f): amended, on 18 October 2007, by [section 17(3)(c)][268] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 24(2)(f): amended, on 18 October 2007, by [section 17(3)(c)][269] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 24(2)(fa): inserted, on 18 October 2007, by [section 17(4)][268] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 24(2)(fa): inserted, on 18 October 2007, by [section 17(4)][269] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 24(2)(j): repealed, on 31 August 2012, by [section 7(1)][269] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 24(2)(j): repealed, on 31 August 2012, by [section 7(1)][270] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
     
-    Section 24(3): repealed, on 18 October 2007, by [section 17(6)][268] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 24(3): repealed, on 18 October 2007, by [section 17(6)][269] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 24(4): amended, on 18 October 2007, by [section 17(7)][268] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 24(4): amended, on 18 October 2007, by [section 17(7)][269] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 24(6): amended, on 31 August 2012, by [section 7(2)][269] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 24(6): amended, on 31 August 2012, by [section 7(2)][270] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 25 Certificate of registration
     
@@ -1435,9 +1439,9 @@ Importation, manufacture, and sale of agricultural compounds
     
     *   (b) each application for registration.
     
-    Section 25(1): amended, on 18 October 2007, by [section 18(1)][270] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 25(1): amended, on 18 October 2007, by [section 18(1)][271] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 25(3): added, on 18 October 2007, by [section 18(2)][270] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 25(3): added, on 18 October 2007, by [section 18(2)][271] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 26 Application for provisional registration
     
@@ -1447,7 +1451,7 @@ Importation, manufacture, and sale of agricultural compounds
     
     (3) [Sections 10][20], [11][21], [12][22], [15][25], and [19(a), (ab), (b), (c), and (d)][29], with the necessary modifications, apply to any application for provisional registration under subsection (1).
     
-    Section 26(3): amended, on 18 October 2007, by [section 19][271] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 26(3): amended, on 18 October 2007, by [section 19][272] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 27 Decision on application for provisional registration
     
@@ -1481,11 +1485,11 @@ Importation, manufacture, and sale of agricultural compounds
     
     (7) Where a trade name product contains an agricultural compound that is also a hazardous substance or new organism, the Director-General must not provisionally register that trade name product under this section unless an approval for that substance or organism has been issued under the [Hazardous Substances and New Organisms Act 1996][227].
     
-    Section 27(1): amended, on 18 October 2007, by [section 20][272] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 27(1): amended, on 18 October 2007, by [section 20][273] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 27(2): substituted, on 15 November 2000, by [section 4(1)][273] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2000 (2000 No 50).
+    Section 27(2): substituted, on 15 November 2000, by [section 4(1)][274] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2000 (2000 No 50).
     
-    Section 27(5): amended, on 15 November 2000, by [section 4(2)][273] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2000 (2000 No 50).
+    Section 27(5): amended, on 15 November 2000, by [section 4(2)][274] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2000 (2000 No 50).
 
 ##### 28 Director-General may approve operating plans
     
@@ -1509,7 +1513,7 @@ Importation, manufacture, and sale of agricultural compounds
     
     Section 28: substituted, on 18 October 2007, by [section 21(1)][228] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 28(1)(a)(iii): replaced, on 31 August 2012, by [section 8][274] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 28(1)(a)(iii): replaced, on 31 August 2012, by [section 8][275] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 29 Reassessment of trade name products
     
@@ -1523,9 +1527,9 @@ Importation, manufacture, and sale of agricultural compounds
     
     (3) A decision under subsection (1) is deemed to be a new application for the trade name product and the provisions of [sections 11][21], [12][22], and [17 to 25][27] apply to the application with any necessary modifications.
     
-    Section 29(1)(a): amended, on 7 July 2010, by [section 5(1)][275] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2010 (2010 No 46).
+    Section 29(1)(a): amended, on 7 July 2010, by [section 5(1)][276] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2010 (2010 No 46).
     
-    Section 29(2): amended, on 7 July 2010, by [section 5(2)][275] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2010 (2010 No 46).
+    Section 29(2): amended, on 7 July 2010, by [section 5(2)][276] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2010 (2010 No 46).
 
 ##### 30 Reassessment of provisional registration
     
@@ -1563,15 +1567,15 @@ Importation, manufacture, and sale of agricultural compounds
     
     (9) The effect of a suspension of registration under this section is that no person may import, manufacture, sell, or use the relevant trade name product during the period of suspension, unless allowed to do so by a condition or requirement imposed under subsection (2).
     
-    Section 30A: inserted, on 18 October 2007, by [section 22][276] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 30A: inserted, on 18 October 2007, by [section 22][277] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 31 Director-General may prohibit or restrict product or group of products
     
 *   Where a decision has been made in accordance with [section 29][39] or [section 30][40] to reassess a registered trade name product or group of trade name products, the Director-General may, if he or she thinks fit, prohibit or restrict the importation, manufacture, sale, or use of that trade name product or group of trade name products until a decision is made under [section 21][31] or [section 27][37].
     
-    Section 31 heading: amended, on 7 July 2010, by [section 6(1)][277] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2010 (2010 No 46).
+    Section 31 heading: amended, on 7 July 2010, by [section 6(1)][278] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2010 (2010 No 46).
     
-    Section 31: amended, on 7 July 2010, by [section 6(2)][277] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2010 (2010 No 46).
+    Section 31: amended, on 7 July 2010, by [section 6(2)][278] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2010 (2010 No 46).
 
 ##### 32 Meaning of new information
     
@@ -1615,7 +1619,7 @@ Importation, manufacture, and sale of agricultural compounds
     
     *   (b) any application for review must be provided to the Director-General under [section 77A(3)][156] within 20 working days after the date of the notice in the _Gazette_ of the trade name product's removal from the register.
     
-    Section 32A: inserted, on 31 August 2012, by [section 9][278] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 32A: inserted, on 31 August 2012, by [section 9][279] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 33 No compensation or damages for loss arising from certain changes
     
@@ -1635,7 +1639,7 @@ Importation, manufacture, and sale of agricultural compounds
     
     *   (g) the issuance of a prohibition order under [section 57A][132].
     
-    Section 33: replaced, on 31 August 2012, by [section 10][279] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 33: replaced, on 31 August 2012, by [section 10][280] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 34 Transfer and surrender of registration
     
@@ -1649,9 +1653,9 @@ Importation, manufacture, and sale of agricultural compounds
     
     (2) Where the registration is transferred under subsection (1)(a), the transfer is not valid until the Director-General has entered the name of the transferee on the register as the registrant.
     
-    Section 34(1)(b): amended, on 18 October 2007, by [section 24(1)][280] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 34(1)(b): amended, on 18 October 2007, by [section 24(1)][281] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 34(1A): inserted, on 18 October 2007, by [section 24(2)][280] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 34(1A): inserted, on 18 October 2007, by [section 24(2)][281] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 35 Rights of registrant
     
@@ -1661,7 +1665,7 @@ Importation, manufacture, and sale of agricultural compounds
 
 #### Certificates of compliance for agricultural compounds
     
-*   Heading: inserted, on 18 October 2007, by [section 25][281] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+*   Heading: inserted, on 18 October 2007, by [section 25][282] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 35A Director-General may issue certificates of compliance
     
@@ -1681,7 +1685,7 @@ Importation, manufacture, and sale of agricultural compounds
     
     *   (c) are fit for use for a purpose other than that for which they were intended.
     
-    Section 35A: inserted, on 18 October 2007, by [section 25][281] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 35A: inserted, on 18 October 2007, by [section 25][282] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 35B Form and content of certificate of compliance
     
@@ -1697,7 +1701,7 @@ Importation, manufacture, and sale of agricultural compounds
     
     (3) A certificate of compliance may be communicated to its appropriate destination by writing, fax, electronic means, or any other form of communication that is accurate, clear, and verifiable.
     
-    Section 35B: inserted, on 18 October 2007, by [section 25][281] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 35B: inserted, on 18 October 2007, by [section 25][282] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 35C Obtaining of certificate of compliance
     
@@ -1705,7 +1709,7 @@ Importation, manufacture, and sale of agricultural compounds
     
     (2) The Director-General or person authorised under [section 35E][53] need not issue a certificate of compliance unless satisfied that the information obtained from the applicant justifies the giving of the certificate of compliance.
     
-    Section 35C: inserted, on 18 October 2007, by [section 25][281] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 35C: inserted, on 18 October 2007, by [section 25][282] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 35D Certificate of compliance may be withdrawn, and reissued
     
@@ -1717,23 +1721,23 @@ Importation, manufacture, and sale of agricultural compounds
     
     (2) The Director-General or other person authorised may, on application in a manner approved by the Director-General and on payment of the prescribed fee (if any), reissue a withdrawn certificate of compliance (with modifications, if appropriate) as a new certificate of compliance.
     
-    Section 35D: inserted, on 18 October 2007, by [section 25][281] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 35D: inserted, on 18 October 2007, by [section 25][282] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 35E Persons authorised to issue certificates of compliance
     
 *   The Director-General may designate 1 or more persons employed within the Ministry as persons authorised to issue certificates of compliance for the purposes of this Act.
     
-    Section 35E: inserted, on 18 October 2007, by [section 25][281] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 35E: inserted, on 18 October 2007, by [section 25][282] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 35F No Crown liability
     
 *   The Crown, the Director-General, and employees of the Ministry are not liable, by reason of the issue, refusal or failure to issue, or withdrawal of a certificate of compliance in respect of any agricultural compound, for any loss arising through the refusal or failure of the relevant authority of an overseas market to admit an agricultural compound intended to be exported to that market.
     
-    Section 35F: inserted, on 18 October 2007, by [section 25][281] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 35F: inserted, on 18 October 2007, by [section 25][282] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 #### Recall of agricultural compound
     
-*   Heading: inserted, on 18 October 2007, by [section 25][281] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+*   Heading: inserted, on 18 October 2007, by [section 25][282] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 35G Recall of agricultural compound
     
@@ -1759,7 +1763,7 @@ Importation, manufacture, and sale of agricultural compounds
     
     *   (b) recover the costs and expenses reasonably incurred under paragraph (a) as a debt due from that person.
     
-    Section 35G: inserted, on 18 October 2007, by [section 25][281] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 35G: inserted, on 18 October 2007, by [section 25][282] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ## Part 3  
 Powers of Director-General and Minister
@@ -1778,7 +1782,7 @@ Powers of Director-General and Minister
     
 *   \[Repealed\]
     
-    Section 37: repealed, on 18 October 2007, by [section 26(1)][282] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 37: repealed, on 18 October 2007, by [section 26(1)][283] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 38 Policy directions
     
@@ -1800,7 +1804,7 @@ Powers of Director-General and Minister
     
     (2) The direction must include the Minister's reasons for giving it.
     
-    Section 39(1): amended, on 18 October 2007, by [section 27][283] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 39(1): amended, on 18 October 2007, by [section 27][284] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 40 Notification of Minister's direction
     
@@ -1818,7 +1822,7 @@ Powers of Director-General and Minister
     
     *   (b) have a chairperson appointed either by the Minister or, if the Minister declines to do so, by the members.
     
-    (3) Every board of inquiry is a statutory Board within the meaning of the [Fees and Travelling Allowances Act 1951][284] and there may, if the Minister so directs, be paid to any member of a board of inquiry, out of money appropriated by Parliament for the purpose,---
+    (3) Every board of inquiry is a statutory Board within the meaning of the [Fees and Travelling Allowances Act 1951][285] and there may, if the Minister so directs, be paid to any member of a board of inquiry, out of money appropriated by Parliament for the purpose,---
         
     *   (a) remuneration by way of fees, salary, or allowances in accordance with that Act; and
     
@@ -1842,7 +1846,7 @@ Powers of Director-General and Minister
     
     (3) The provisions of [sections 17][27], [18][28], [19(a), (ab), (b), and (c)][29], and [27][37] apply with all necessary modifications to an inquiry into an application made under [section 26][36] as if the conduct of the inquiry were the consideration of that application.
     
-    Section 42(3): amended, on 18 October 2007, by [section 28][285] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 42(3): amended, on 18 October 2007, by [section 28][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 43 Board of Inquiry to report to Minister
     
@@ -1871,7 +1875,7 @@ Powers of Director-General and Minister
 ## Part 3A  
 Recognised agencies, persons, and classes of persons
     
-*   Part 3A: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+*   Part 3A: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44A Outline of this Part
     
@@ -1885,13 +1889,13 @@ Recognised agencies, persons, and classes of persons
     
     *   (d) provides for the establishment and maintenance of a public register of recognised agencies, recognised persons, and recognised classes, and for the public to access the register.
     
-    Section 44A: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44A: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44B Interpretation
     
 *   In this Part,---
     
-    _Crown entity_ has the same meaning as in [section 10(1)][287] of the Crown Entities Act 2004
+    _Crown entity_ has the same meaning as in [section 10(1)][288] of the Crown Entities Act 2004
     
     _requirements of this Act_ means any requirements or procedures specified in---
         
@@ -1915,13 +1919,13 @@ Recognised agencies, persons, and classes of persons
         
         
     
-    _State enterprise_ has the same meaning as in [section 2][288] of the State-Owned Enterprises Act 1986\.
+    _State enterprise_ has the same meaning as in [section 2][289] of the State-Owned Enterprises Act 1986\.
     
-    Section 44B: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44B: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 #### Recognition of agencies, persons, and classes of persons
     
-*   Heading: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+*   Heading: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44C Recognition of agencies
     
@@ -1951,7 +1955,7 @@ Recognised agencies, persons, and classes of persons
     
     *   (b) may take into account any other matters that the Director-General considers relevant.
     
-    Section 44C: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44C: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44D Recognition of certain agencies without application
     
@@ -1959,17 +1963,17 @@ Recognised agencies, persons, and classes of persons
         
     *   (a) the Ministry:
     
-    *   (b) a department of the public service listed in [Schedule 1][255] of the State Sector Act 1988:
+    *   (b) a department of the public service listed in [Schedule 1][256] of the State Sector Act 1988:
     
     *   (c) a Crown entity:
     
     *   (d) a State enterprise:
     
-    *   (e) a territorial authority (as defined in [section 5(1)][289] of the Local Government Act 2002).
+    *   (e) a territorial authority (as defined in [section 5(1)][290] of the Local Government Act 2002).
     
     (2) [Section 44C(2)][71] and (3) apply to subsection (1) accordingly, with all necessary modifications.
     
-    Section 44D: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44D: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44E Recognition of persons
     
@@ -1999,7 +2003,7 @@ Recognised agencies, persons, and classes of persons
     
     *   (b) may take into account any other matters that the Director-General considers relevant.
     
-    Section 44E: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44E: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44F Recognition of certain persons without application
     
@@ -2007,13 +2011,13 @@ Recognised agencies, persons, and classes of persons
         
     *   (a) any officer or employee of the Ministry:
     
-    *   (b) any officer or employee of any department of the public service listed in [Schedule 1][255] of the State Sector Act 1988:
+    *   (b) any officer or employee of any department of the public service listed in [Schedule 1][256] of the State Sector Act 1988:
     
     *   (c) any officer or employee of a Crown entity or a State enterprise.
     
     (2) [Section 44E(2)][73] and (3) apply to subsection (1) accordingly, with all necessary modifications.
     
-    Section 44F: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44F: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44G Recognition of classes of persons
     
@@ -2059,17 +2063,17 @@ Recognised agencies, persons, and classes of persons
     
     (5) If the Director-General recognises a class of persons under this section, the Director-General may, if he or she considers on reasonable grounds that it is appropriate to do so, exclude 1 or more members of the class, or categories of members of the class, from the recognised class (_see_ [section 44L][81]).
     
-    Section 44G: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44G: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44H Interrelationship between sections 44C to 44G
     
 *   To avoid doubt, a natural person may be recognised under any 1 or more of [sections 44C to 44G][71] despite already being recognised in another capacity under any 1 or more of those sections.
     
-    Section 44H: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44H: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 #### Recognition process
     
-*   Heading: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+*   Heading: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44I Application for recognition
     
@@ -2079,7 +2083,7 @@ Recognised agencies, persons, and classes of persons
     
     *   (b) be accompanied by the prescribed application fee (if any).
     
-    Section 44I: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44I: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44J Director-General may require further information
     
@@ -2091,7 +2095,7 @@ Recognised agencies, persons, and classes of persons
     
     *   (b) within any further time that the Director-General allows by notice in writing.
     
-    Section 44J: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44J: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44K Proposal to refuse application to recognise agency, person, or class of persons
     
@@ -2109,7 +2113,7 @@ Recognised agencies, persons, and classes of persons
     
     *   (b) if applicable, the applicant's right to seek a review of that decision under [section 77A][156].
     
-    Section 44K: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44K: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44L Proposal to exclude members, or categories of members, from recognition of class
     
@@ -2127,7 +2131,7 @@ Recognised agencies, persons, and classes of persons
     
     *   (b) if applicable, the members' and the applicant's right to seek a review of that decision under [section 77A][156].
     
-    Section 44L: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44L: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44M Director-General may impose or vary conditions of recognition
     
@@ -2151,7 +2155,7 @@ Recognised agencies, persons, and classes of persons
     
     *   (b) to revoke or amend any conditions.
     
-    Section 44M: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44M: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44N Grant of recognition
     
@@ -2179,7 +2183,7 @@ Recognised agencies, persons, and classes of persons
     
     *   (d) the duration of the recognition under [section 44P][85].
     
-    Section 44N: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44N: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44O Scope, effect, and transfer of recognition
     
@@ -2235,7 +2239,7 @@ Recognised agencies, persons, and classes of persons
     
     (4) Recognition may not be transferred to a different agency, person, or class of persons, and may not vest by operation of law in any person other than the agency, person, or class of persons specified in the notice of recognition.
     
-    Section 44O: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44O: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44P Duration of recognition
     
@@ -2251,7 +2255,7 @@ Recognised agencies, persons, and classes of persons
     
     *   (b) recognition has no effect while it is suspended under [section 44Y][96] or [44Z][97].
     
-    Section 44P: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44P: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44Q Renewal of recognition before expiry
     
@@ -2291,7 +2295,7 @@ Recognised agencies, persons, and classes of persons
     
     *   (b) is an appropriate person to make an application on behalf of the class.
     
-    Section 44Q: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44Q: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44R Application for renewal of recognition
     
@@ -2301,7 +2305,7 @@ Recognised agencies, persons, and classes of persons
     
     *   (b) be accompanied by the prescribed application fee (if any).
     
-    Section 44R: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44R: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44S Substituted notice of recognition
     
@@ -2319,17 +2323,17 @@ Recognised agencies, persons, and classes of persons
     
     *   (b) the application is accompanied by the prescribed application fee (if any).
     
-    Section 44S: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44S: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44T Ongoing recognition fees, charges, or levies
     
 *   Recognised agencies and recognised persons must pay the prescribed fee, charge, or levy (if any) for ongoing recognition for the prescribed period on or before the date provided or approved by the Director-General for that purpose.
     
-    Section 44T: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44T: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 #### Performance of specified functions and activities
     
-*   Heading: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+*   Heading: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44U Director-General may give directions on performance of specified functions and activities
     
@@ -2341,7 +2345,7 @@ Recognised agencies, persons, and classes of persons
     
     *   (b) to a recognised class by notifying the class in accordance with [section 44ZL][113].
     
-    Section 44U: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44U: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44V Duties of recognised agencies
     
@@ -2369,7 +2373,7 @@ Recognised agencies, persons, and classes of persons
     
     (3) The duties in [section 44W][93] apply to a recognised agency (in addition to the duties in subsection (1)), but only to the extent that the agency is recognised to carry out its specified functions and activities itself (instead of being recognised to manage or supply a recognised person to carry out its specified functions and activities).
     
-    Section 44V: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44V: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44W Duties of recognised persons
     
@@ -2391,7 +2395,7 @@ Recognised agencies, persons, and classes of persons
     
     *   (h) complies with all applicable requirements of this Act.
     
-    Section 44W: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44W: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44X Recognised agency or person may act in other capacities
     
@@ -2401,11 +2405,11 @@ Recognised agencies, persons, and classes of persons
     
     *   (b) while purporting to act as a recognised agency or a recognised person.
     
-    Section 44X: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44X: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 #### Suspension of recognition
     
-*   Heading: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+*   Heading: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44Y Suspension of recognition of recognised agency, recognised person, or recognised class
     
@@ -2427,7 +2431,7 @@ Recognised agencies, persons, and classes of persons
     
     *   (b) require a suspended agency, person, or class to take appropriate corrective action to remedy the deficiency or failure that resulted in the suspension.
     
-    Section 44Y: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44Y: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44Z Director-General may extend suspension of recognition
     
@@ -2449,7 +2453,7 @@ Recognised agencies, persons, and classes of persons
     
     *   (b) require a suspended agency, person, or class to take appropriate corrective action to remedy the deficiency or failure that resulted in the suspension.
     
-    Section 44Z: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44Z: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44ZA Method of suspension of recognition
     
@@ -2489,17 +2493,17 @@ Recognised agencies, persons, and classes of persons
     
     (4) In subsections (1) to (3), _suspension_ includes an extension of a suspension.
     
-    Section 44ZA: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44ZA: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44ZB Suspension does not limit other actions
     
 *   A suspension under [section 44Y][96] or an extension of a suspension under [section 44Z][97] does not affect any other actions that the Director-General may take under this Act.
     
-    Section 44ZB: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44ZB: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 #### Withdrawal of recognition
     
-*   Heading: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+*   Heading: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44ZC Withdrawal of recognition of recognised agency or recognised person
     
@@ -2517,7 +2521,7 @@ Recognised agencies, persons, and classes of persons
     
     *   (f) the agency or person has failed to comply with or maintain any criteria or competencies that led to the recognition of the agency or person; or
     
-    *   (g) the agency is no longer the appropriate agency to hold the recognition, but only if the agency is, or is within, the Ministry or a department of the public service listed in [Schedule 1][255] of the State Sector Act 1988\.
+    *   (g) the agency is no longer the appropriate agency to hold the recognition, but only if the agency is, or is within, the Ministry or a department of the public service listed in [Schedule 1][256] of the State Sector Act 1988\.
     
     (2) However, before withdrawing recognition, the Director-General must consult the agency or person in accordance with [section 44ZM][114] about the proposed withdrawal of recognition, unless the agency is, or is within, the Ministry or the person is within the Ministry.
     
@@ -2527,7 +2531,7 @@ Recognised agencies, persons, and classes of persons
     
     *   (b) include a copy (or an adequate summary) of all material information the Director-General relies on in proposing to withdraw the recognition.
     
-    Section 44ZC: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44ZC: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44ZD Withdrawal of recognition of recognised class
     
@@ -2545,7 +2549,7 @@ Recognised agencies, persons, and classes of persons
     
     *   (b) include a copy (or an adequate summary) of all material information the Director-General relies on in proposing to withdraw the recognition.
     
-    Section 44ZD: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44ZD: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44ZE Method of withdrawal of recognition
     
@@ -2583,11 +2587,11 @@ Recognised agencies, persons, and classes of persons
     
     (5) An agency or a person whose recognition is withdrawn must, as soon as practicable after the withdrawal of recognition takes effect, take reasonable steps to notify each person who was a client of the agency or person immediately before the withdrawal that the agency's or person's recognition has been withdrawn.
     
-    Section 44ZE: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44ZE: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 #### Surrender of recognition
     
-*   Heading: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+*   Heading: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44ZF Surrender of recognition
     
@@ -2605,7 +2609,7 @@ Recognised agencies, persons, and classes of persons
     
     *   (c) take reasonable steps to notify each person who will be a client of the agency or person immediately before the surrender that the agency's or person's recognition is surrendered.
     
-    Section 44ZF: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44ZF: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44ZG Effective date of surrender of recognition
     
@@ -2615,11 +2619,11 @@ Recognised agencies, persons, and classes of persons
     
     *   (b) the date on which the Director-General records the surrender in the public register in accordance with [section 44ZI(1)(b)(v)][109] or removes the agency or person from the public register in accordance with [section 44ZK(3)][111].
     
-    Section 44ZG: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44ZG: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 #### Public register of recognised agencies, recognised persons, and recognised classes
     
-*   Heading: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+*   Heading: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44ZH Public register of recognised agencies, recognised persons, and recognised classes to be kept
     
@@ -2645,7 +2649,7 @@ Recognised agencies, persons, and classes of persons
     
     *   (b) facilitate the compliance, audit, and other supporting and administrative functions of the Ministry under this Act.
     
-    Section 44ZH: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44ZH: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44ZI Contents of public register
     
@@ -2701,7 +2705,7 @@ Recognised agencies, persons, and classes of persons
     
     *   (b) be recorded in one of those areas of the register and cross-referenced in the other area of the register.
     
-    Section 44ZI: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44ZI: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44ZJ Inspection of public register
     
@@ -2711,7 +2715,7 @@ Recognised agencies, persons, and classes of persons
     
     *   (b) supply to any person, on request and on payment of a reasonable charge (if any), a copy of any entries on the public register.
     
-    Section 44ZJ: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44ZJ: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44ZK Removal from public register
     
@@ -2729,11 +2733,11 @@ Recognised agencies, persons, and classes of persons
     
     *   (b) remove that agency, person, or class from the public register.
     
-    Section 44ZK: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44ZK: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 #### Miscellaneous matters
     
-*   Heading: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+*   Heading: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44ZL Notification to category or class of persons
     
@@ -2759,7 +2763,7 @@ Recognised agencies, persons, and classes of persons
     
     *   (b) the size and type of the category or class of persons and its characteristics, geographical spread, and degree of representation and organisation.
     
-    Section 44ZL: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44ZL: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44ZM Means of consultation
     
@@ -2779,7 +2783,7 @@ Recognised agencies, persons, and classes of persons
     
     *   (d) consider any submissions that he or she receives on the matter from any person who was notified of the matter.
     
-    Section 44ZM: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44ZM: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44ZN Director-General may issue notices for certain matters
     
@@ -2801,9 +2805,9 @@ Recognised agencies, persons, and classes of persons
     
     (2) Notices must be issued in accordance with the process set out in [section 76A(2) to (7)][153] (applied with all necessary modifications).
     
-    (3) Notices that are issued under this section are not regulations for the purposes of the [Acts and Regulations Publication Act 1989][290] or the [Regulations (Disallowance) Act 1989][291].
+    (3) Notices that are issued under this section are not regulations for the purposes of the [Acts and Regulations Publication Act 1989][291] or the [Regulations (Disallowance) Act 1989][292].
     
-    Section 44ZN: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44ZN: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 44ZO Director-General must consider exemption, waiver, or refund of fees
     
@@ -2817,7 +2821,7 @@ Recognised agencies, persons, and classes of persons
     
     (2) However, subsection (1) only applies if regulations prescribing the relevant fee, charge, or levy authorise the Director-General to grant an exemption, waiver, or refund in these circumstances (_see_ [section 81H][169]).
     
-    Section 44ZO: inserted, on 31 August 2012, by [section 11][286] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 44ZO: inserted, on 31 August 2012, by [section 11][287] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ## Part 4  
 Appeals
@@ -2842,9 +2846,9 @@ Appeals
     
     may appeal against the decision of the Director-General to the High Court on a question of law.
     
-    (2) Any report and recommendation of the Director-General is deemed to be a decision for the purposes of [Part 10][292] of the High Court Rules, except to the extent that those rules are inconsistent with [sections 47 to 53][120].
+    (2) Any report and recommendation of the Director-General is deemed to be a decision for the purposes of [Part 10][293] of the High Court Rules, except to the extent that those rules are inconsistent with [sections 47 to 53][120].
     
-    Section 46(1)(ab): inserted, on 18 October 2007, by [section 29][293] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 46(1)(ab): inserted, on 18 October 2007, by [section 29][294] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 47 Notice of appeal
     
@@ -2930,9 +2934,9 @@ Appeals
 
 ##### 54 Appeals to Court of Appeal
     
-*   [Subpart 8][294] of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to a decision of the High Court on an appeal under [section 46][119] as if the decision had been made under [section 300][295] of that Act.
+*   [Subpart 8][295] of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to a decision of the High Court on an appeal under [section 46][119] as if the decision had been made under [section 300][296] of that Act.
     
-    Section 54: replaced, on 1 July 2013, by [section 413][296] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 54: replaced, on 1 July 2013, by [section 413][297] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 5  
 Offences
@@ -2993,7 +2997,7 @@ Offences
     
     *   (e) interferes with any samples taken or tests carried out for the purposes of this Act.
     
-    (3) Every veterinarian commits an offence who knowingly fails to provide any client with information to prevent the occurrence, in any primary produce from any animal treated with an agricultural compound, of residues of that compound which contravene any requirements of the Dairy Industry Act 1952, the Meat Act 1981, the [Animal Products Act 1999][238], or the [Food Act 1981][239] or any regulations or notices in force under those Acts.
+    (3) Every veterinarian commits an offence who knowingly fails to provide any client with information to prevent the occurrence, in any primary produce from any animal treated with an agricultural compound, of residues of that compound which contravene any requirements of the Dairy Industry Act 1952, the Meat Act 1981, the [Animal Products Act 1999][239], or the [Food Act 1981][240] or any regulations or notices in force under those Acts.
     
     (4) Every person commits an offence against this Act who---
         
@@ -3001,49 +3005,49 @@ Offences
     
     *   (b) contravenes any provision of [sections 98][194], [99][195], [100][196], [102][198], [114][211], [116][213], and [117][214].
     
-    (5) Despite anything to the contrary in [section 25][297] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this section ends on the date that is 4 years after the date on which the offence was committed.
+    (5) Despite anything to the contrary in [section 25][298] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this section ends on the date that is 4 years after the date on which the offence was committed.
     
-    Section 55(1)(ba): inserted, on 18 October 2007, by [section 30(1)][298] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 55(1)(ba): inserted, on 18 October 2007, by [section 30(1)][299] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 55(1)(bb): inserted, on 18 October 2007, by [section 30(1)][298] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 55(1)(bb): inserted, on 18 October 2007, by [section 30(1)][299] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 55(1)(da): inserted, on 18 October 2007, by [section 30(2)][298] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 55(1)(da): inserted, on 18 October 2007, by [section 30(2)][299] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 55(1)(db): inserted, on 18 October 2007, by [section 30(2)][298] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 55(1)(db): inserted, on 18 October 2007, by [section 30(2)][299] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 55(1)(dc): inserted, on 18 October 2007, by [section 30(2)][298] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 55(1)(dc): inserted, on 18 October 2007, by [section 30(2)][299] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 55(1)(dd): inserted, on 18 October 2007, by [section 30(2)][298] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 55(1)(dd): inserted, on 18 October 2007, by [section 30(2)][299] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 55(1)(de): inserted, on 18 October 2007, by [section 30(2)][298] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 55(1)(de): inserted, on 18 October 2007, by [section 30(2)][299] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 55(1)(i): amended, on 18 October 2007, by [section 30(3)][298] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 55(1)(i): amended, on 18 October 2007, by [section 30(3)][299] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 55(1)(j): added, on 18 October 2007, by [section 30(3)][298] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 55(1)(j): added, on 18 October 2007, by [section 30(3)][299] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 55(1)(k): added, on 18 October 2007, by [section 30(3)][298] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 55(1)(k): added, on 18 October 2007, by [section 30(3)][299] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 55(1)(l): added, on 18 October 2007, by [section 30(3)][298] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 55(1)(l): added, on 18 October 2007, by [section 30(3)][299] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 55(1A): inserted, on 18 October 2007, by [section 30(4)][298] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 55(1A): inserted, on 18 October 2007, by [section 30(4)][299] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 55(2)(a): repealed, on 18 October 2007, by [section 30(5)(a)][298] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 55(2)(a): repealed, on 18 October 2007, by [section 30(5)(a)][299] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 55(2)(b): repealed, on 18 October 2007, by [section 30(5)(a)][298] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 55(2)(b): repealed, on 18 October 2007, by [section 30(5)(a)][299] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 55(2)(c): amended, on 31 August 2012, by [section 12(1)][299] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 55(2)(c): amended, on 31 August 2012, by [section 12(1)][300] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
     
-    Section 55(2)(c): amended, on 18 October 2007, by [section 30(5)(b)][298] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 55(2)(c): amended, on 18 October 2007, by [section 30(5)(b)][299] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 55(2)(d): amended, on 31 August 2012, by [section 12(2)(a)][299] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 55(2)(d): amended, on 31 August 2012, by [section 12(2)(a)][300] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
     
-    Section 55(2)(d): amended, on 31 August 2012, by [section 12(2)(b)][299] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 55(2)(d): amended, on 31 August 2012, by [section 12(2)(b)][300] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
     
-    Section 55(2)(d): amended, on 18 October 2007, by [section 30(5)(b)][298] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 55(2)(d): amended, on 18 October 2007, by [section 30(5)(b)][299] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 55(3): amended, on 1 November 1999, by [section 8(1)][300] of the Animal Products (Ancillary and Transitional Provisions) Act 1999 (1999 No 94).
+    Section 55(3): amended, on 1 November 1999, by [section 8(1)][301] of the Animal Products (Ancillary and Transitional Provisions) Act 1999 (1999 No 94).
     
-    Section 55(5): replaced, on 1 July 2013, by [section 413][296] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 55(5): replaced, on 1 July 2013, by [section 413][297] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 56 Penalties
     
@@ -3067,17 +3071,17 @@ Offences
     
     (5) Where any person is convicted of an offence against this Act, the court may, instead of or in addition to any fine, order the forfeiture of any trade name product, any agricultural compound, or any substance, mixture of substances, or biological compound used or intended for use as an agricultural compound, in the possession of that person.
     
-    Section 56(1): amended, on 1 July 2013, by [section 413][296] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 56(1): amended, on 1 July 2013, by [section 413][297] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 56(1)(a): substituted, on 18 October 2007, by [section 31(1)][301] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 56(1)(a): substituted, on 18 October 2007, by [section 31(1)][302] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 56(1A): inserted, on 18 October 2007, by [section 31(2)][301] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 56(1A): inserted, on 18 October 2007, by [section 31(2)][302] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 56(1A): amended, on 1 July 2013, by [section 413][296] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 56(1A): amended, on 1 July 2013, by [section 413][297] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 56(2): amended, on 1 July 2013, by [section 413][296] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 56(2): amended, on 1 July 2013, by [section 413][297] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 56(3): amended, on 1 July 2013, by [section 413][296] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 56(3): amended, on 1 July 2013, by [section 413][297] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 57 Revocation of registration or approval
     
@@ -3085,7 +3089,7 @@ Offences
     
     (2) When a holder of an approval under [section 8C][17], or any agent of such a holder, is convicted of an offence against this Act, the court may, instead of or in addition to a fine or imprisonment, revoke the approval.
     
-    Section 57: substituted, on 18 October 2007, by [section 32][302] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 57: substituted, on 18 October 2007, by [section 32][303] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 57A Power to prohibit person from importing, manufacturing, selling, or using trade name product or agricultural compound
     
@@ -3119,9 +3123,9 @@ Offences
     
     (5) If the court has, under subsection (4), ordered that the order be varied or has refused the application, the person may not make a further application under subsection (3) within 12 months after the date of the order of variation or the refusal.
     
-    Section 57A: inserted, on 18 October 2007, by [section 33][303] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 57A: inserted, on 18 October 2007, by [section 33][304] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 57A(1)(b): amended, on 31 August 2012, by [section 13][304] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 57A(1)(b): amended, on 31 August 2012, by [section 13][305] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 58 Liability of employers and principals
     
@@ -3165,45 +3169,45 @@ Offences
     
     (2) An ACVM officer may be authorised, on his or her appointment, to exercise all of the powers and functions conferred on ACVM officers under this Act, or only those powers and functions specified in his or her instrument of appointment, or subsequently by written notice to the ACVM officer.
     
-    (3) ACVM officers must be persons employed under the [State Sector Act 1988][305].
+    (3) ACVM officers must be persons employed under the [State Sector Act 1988][306].
     
     (4) The Director-General may from time to time establish performance standards and technical standards for ACVM officers; and every ACVM officer, when performing his or her functions, powers, or duties under this Act, must use his or her best endeavours to comply with and give effect to the relevant performance standards or technical standards.
     
     (5) The Director-General may suspend or revoke any appointment made under this section at any time.
     
-    Section 60 heading: amended, on 18 October 2007, by [section 34(1)(a)][306] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 60 heading: amended, on 18 October 2007, by [section 34(1)(a)][307] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 60(1): amended, on 18 October 2007, by [section 34(1)(b)][306] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 60(1): amended, on 18 October 2007, by [section 34(1)(b)][307] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 60(2): amended, on 18 October 2007, by [section 34(1)(c)][306] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 60(2): amended, on 18 October 2007, by [section 34(1)(c)][307] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 60(2): amended, on 15 November 2000, by [section 6][307] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2000 (2000 No 50).
+    Section 60(2): amended, on 15 November 2000, by [section 6][308] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2000 (2000 No 50).
     
-    Section 60(3): amended, on 18 October 2007, by [section 34(1)(d)][306] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 60(3): amended, on 18 October 2007, by [section 34(1)(d)][307] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 60(4): amended, on 18 October 2007, by [section 34(1)(e)][306] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 60(4): amended, on 18 October 2007, by [section 34(1)(e)][307] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 61 Appointment of authorised persons
     
 *   \[Repealed\]
     
-    Section 61: repealed, on 18 October 2007, by [section 35][308] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 61: repealed, on 18 October 2007, by [section 35][309] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 62 Appointment of recognised persons
     
 *   \[Repealed\]
     
-    Section 62: repealed, on 31 August 2012, by [section 14][309] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 62: repealed, on 31 August 2012, by [section 14][310] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 63 Protection of ACVM officers, recognised agencies, and recognised persons
     
 *   No action or proceedings may be brought against any ACVM officer, recognised agency, or recognised person in respect of any actions taken by any such officer or person under this Act unless he or she has acted in bad faith or without reasonable cause.
     
-    Section 63: substituted, on 18 October 2007, by [section 37][310] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 63: substituted, on 18 October 2007, by [section 37][311] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 63 heading: amended, on 31 August 2012, by [section 15(1)][311] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 63 heading: amended, on 31 August 2012, by [section 15(1)][312] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
     
-    Section 63: amended, on 31 August 2012, by [section 15(2)][311] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 63: amended, on 31 August 2012, by [section 15(2)][312] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 64 Powers of entry for inspection
     
@@ -3221,21 +3225,21 @@ Offences
     
     *   (d) order the person in charge of the place to identify and hold any agricultural compound for up to 5 working days.
     
-    (3) The provisions of [Part 4][312] of the Search and Surveillance Act 2012 (except [subparts 2][313] and [3][314], [sections 118][315] and [119][316], and [subpart 8][317]) apply.
+    (3) The provisions of [Part 4][313] of the Search and Surveillance Act 2012 (except [subparts 2][314] and [3][315], [sections 118][316] and [119][317], and [subpart 8][318]) apply.
     
     (4) \[Repealed\]
     
     (5) Nothing in this section limits or affects the privilege against self-incrimination.
     
-    Section 64(1): substituted, on 18 October 2007, by [section 38(1)][318] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 64(1): substituted, on 18 October 2007, by [section 38(1)][319] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 64(1A): inserted, on 18 October 2007, by [section 38(1)][318] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 64(1A): inserted, on 18 October 2007, by [section 38(1)][319] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 64(2): amended, on 18 October 2007, by [section 38(2)][318] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 64(2): amended, on 18 October 2007, by [section 38(2)][319] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 64(3): replaced, on 1 October 2012, by [section 183][319] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 64(3): replaced, on 1 October 2012, by [section 183][320] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 64(4): repealed, on 1 October 2012, by [section 183][319] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 64(4): repealed, on 1 October 2012, by [section 183][320] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 65 ACVM officers may issue prohibition notices
     
@@ -3245,7 +3249,7 @@ Offences
     
     (3) A prohibition notice issued under subsection (1) may be issued subject to such conditions as the persons issuing it considers appropriate.
     
-    Section 65: substituted, on 18 October 2007, by [section 39][320] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 65: substituted, on 18 October 2007, by [section 39][321] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 66 Compliance with prohibition notices
     
@@ -3263,9 +3267,9 @@ Offences
     
     *   (d) revoke, or from time to time vary, any condition to which it is subject.
     
-    Section 67 heading: amended, on 18 October 2007, by [section 40(a)][321] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 67 heading: amended, on 18 October 2007, by [section 40(a)][322] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 67: amended, on 18 October 2007, by [section 40(b)][321] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 67: amended, on 18 October 2007, by [section 40(b)][322] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 68 Appeals against prohibition notices
     
@@ -3277,7 +3281,7 @@ Offences
 
 ##### 69 Issue of search warrants
     
-*   (1) An issuing officer (within the meaning of [section 3][322] of the Search and Surveillance Act 2012) who is satisfied, on an application made in the manner provided in [subpart 3][314] of Part 4 of the Search and Surveillance Act 2012, that there are reasonable grounds for believing that there is in, on, under, or over any place (including any dwellinghouse or marae)---
+*   (1) An issuing officer (within the meaning of [section 3][323] of the Search and Surveillance Act 2012) who is satisfied, on an application made in the manner provided in [subpart 3][315] of Part 4 of the Search and Surveillance Act 2012, that there are reasonable grounds for believing that there is in, on, under, or over any place (including any dwellinghouse or marae)---
         
     *   (a) any agricultural compound, substance, mixture of substances, or biological compound that is evidence of an offence committed against [section 55(1)][129] or section 55(1A):
     
@@ -3289,25 +3293,25 @@ Offences
     
     may issue a search warrant.
     
-    (2) Subject to subsection (3) and [section 70][145], the provisions of [Part 4][312] of the Search and Surveillance Act 2012 apply.
+    (2) Subject to subsection (3) and [section 70][145], the provisions of [Part 4][313] of the Search and Surveillance Act 2012 apply.
     
-    (3) Despite subsection (2), [sections 118][315] and [119][316] of the Search and Surveillance Act 2012 apply only in respect of a warrant issued to a named constable or to every constable.
+    (3) Despite subsection (2), [sections 118][316] and [119][317] of the Search and Surveillance Act 2012 apply only in respect of a warrant issued to a named constable or to every constable.
     
     (4) \[Repealed\]
     
-    Section 69(1): amended, on 1 October 2012, by [section 184(1)(a)][323] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 69(1): amended, on 1 October 2012, by [section 184(1)(a)][324] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 69(1): amended, on 1 October 2012, by [section 184(1)(b)][323] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 69(1): amended, on 1 October 2012, by [section 184(1)(b)][324] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 69(1)(a): amended, on 18 October 2007, by [section 41(1)][324] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 69(1)(a): amended, on 18 October 2007, by [section 41(1)][325] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 69(1)(ba): inserted, on 1 October 2012, by [section 184(2)][323] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 69(1)(ba): inserted, on 1 October 2012, by [section 184(2)][324] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 69(1)(c): amended, on 1 October 2012, by [section 184(3)][323] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 69(1)(c): amended, on 1 October 2012, by [section 184(3)][324] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 69(2): replaced, on 1 October 2012, by [section 184(4)][323] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 69(2): replaced, on 1 October 2012, by [section 184(4)][324] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 69(3): replaced, on 1 October 2012, by [section 184(4)][323] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 69(3): replaced, on 1 October 2012, by [section 184(4)][324] of the Search and Surveillance Act 2012 (2012 No 24).
     
     Section 69(4): repealed, on 1 October 2012, by section 184(4) of the Search and Surveillance Act 2012 (2012 No 24).
 
@@ -3327,19 +3331,19 @@ Offences
     
     (5) Where any action is taken under a warrant in, on, under or over a dwellinghouse, or marae, that action must be taken in the presence of a constable.
     
-    Section 70(1): replaced, on 1 October 2012, by [section 185][325] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 70(1): replaced, on 1 October 2012, by [section 185][326] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 70(2): repealed, on 1 October 2012, by [section 185][325] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 70(2): repealed, on 1 October 2012, by [section 185][326] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 70(3): repealed, on 1 October 2012, by [section 185][325] of the Search and Surveillance Act 2 012 (2012 No 24).
+    Section 70(3): repealed, on 1 October 2012, by [section 185][326] of the Search and Surveillance Act 2 012 (2012 No 24).
     
-    Section 70(4): repealed, on 1 October 2012, by [section 185][325] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 70(4): repealed, on 1 October 2012, by [section 185][326] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 70(5): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][326] of the Policing Act 2008 (2008 No 72).
+    Section 70(5): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][327] of the Policing Act 2008 (2008 No 72).
 
 ##### 71 Disposal of property seized
     
-*   (1) Subject to subsection (3), [subparts 1][327], [5][328], [6][329], [7][330], and [10][331] of Part 4 of the Search and Surveillance Act 2012 apply in respect of any property seized by any constable under a search warrant issued under [section 69][144] and, with the necessary modifications, in respect of any property seized by any ACVM officer under such a warrant.
+*   (1) Subject to subsection (3), [subparts 1][328], [5][329], [6][330], [7][331], and [10][332] of Part 4 of the Search and Surveillance Act 2012 apply in respect of any property seized by any constable under a search warrant issued under [section 69][144] and, with the necessary modifications, in respect of any property seized by any ACVM officer under such a warrant.
     
     (2) \[Repealed\]
     
@@ -3347,13 +3351,13 @@ Offences
     
     (4) If any person is convicted of an offence to which the seized property relates, the court may, if it thinks fit, order that the item be disposed of as the court directs at the expense of the convicted person, and may order that the person pay any reasonable costs incurred by the Commissioner of Police or the Director-General.
     
-    Section 71(1): replaced, on 1 October 2012, by [section 186(1)][332] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 71(1): replaced, on 1 October 2012, by [section 186(1)][333] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 71(2): repealed, on 1 October 2012, by [section 186(2)][332] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 71(2): repealed, on 1 October 2012, by [section 186(2)][333] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 71(3): amended, on 1 October 2012, by [section 186(3)][332] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 71(3): amended, on 1 October 2012, by [section 186(3)][333] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 71(4): inserted, on 1 October 2012, by [section 186(4)][332] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 71(4): inserted, on 1 October 2012, by [section 186(4)][333] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ## Part 6  
 Protection of certain confidential information about innovative agricultural compounds
@@ -3557,33 +3561,33 @@ Miscellaneous provisions
     
     *   (b) consistently and significantly below the contents described in consumer information.
     
-    Section 75(1)(a): amended, on 18 October 2007, by [section 44(1)(a)][333] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 75(1)(a): amended, on 18 October 2007, by [section 44(1)(a)][334] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 75(1)(a): amended, on 18 October 2007, by [section 44(1)(b)][333] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 75(1)(a): amended, on 18 October 2007, by [section 44(1)(b)][334] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 75(1)(ca): inserted, on 18 October 2007, by [section 44(2)][333] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 75(1)(ca): inserted, on 18 October 2007, by [section 44(2)][334] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 75(1)(cb): inserted, on 18 October 2007, by [section 44(2)][333] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 75(1)(cb): inserted, on 18 October 2007, by [section 44(2)][334] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 75(1)(cc): inserted, on 18 October 2007, by [section 44(2)][333] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 75(1)(cc): inserted, on 18 October 2007, by [section 44(2)][334] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 75(1)(cd): inserted, on 18 October 2007, by [section 44(2)][333] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 75(1)(cd): inserted, on 18 October 2007, by [section 44(2)][334] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 75(1)(cd)(iv): replaced, on 31 August 2012, by [section 16(1)][334] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 75(1)(cd)(iv): replaced, on 31 August 2012, by [section 16(1)][335] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
     
-    Section 75(1)(ha): inserted, on 31 August 2012, by [section 16(2)][334] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 75(1)(ha): inserted, on 31 August 2012, by [section 16(2)][335] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
     
-    Section 75(1)(hb): inserted, on 31 August 2012, by [section 16(2)][334] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 75(1)(hb): inserted, on 31 August 2012, by [section 16(2)][335] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
     
-    Section 75(1)(hc): inserted, on 31 August 2012, by [section 16(2)][334] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 75(1)(hc): inserted, on 31 August 2012, by [section 16(2)][335] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
     
-    Section 75(1)(hd): inserted, on 31 August 2012, by [section 16(2)][334] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 75(1)(hd): inserted, on 31 August 2012, by [section 16(2)][335] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
     
-    Section 75(1)(he): inserted, on 31 August 2012, by [section 16(2)][334] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 75(1)(he): inserted, on 31 August 2012, by [section 16(2)][335] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
     
-    Section 75(1A): inserted, on 18 October 2007, by [section 44(3)][333] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 75(1A): inserted, on 18 October 2007, by [section 44(3)][334] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 75(3A): inserted, on 18 October 2007, by [section 44(4)][333] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 75(3A): inserted, on 18 October 2007, by [section 44(4)][334] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 76A Director-General may set specifications and other detailed requirements
     
@@ -3623,9 +3627,9 @@ Miscellaneous provisions
     
     *   (b) the _Gazette_ notice must specify where a copy may be inspected or obtained.
     
-    Section 76A: inserted, on 18 October 2007, by [section 45][335] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 76A: inserted, on 18 October 2007, by [section 45][336] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 76A(2): amended, on 31 August 2012, by [section 17][336] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 76A(2): amended, on 31 August 2012, by [section 17][337] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 76 Recommendation of Order in Council
     
@@ -3641,7 +3645,7 @@ Miscellaneous provisions
     
 *   The registration of any trade name product under [section 21][31] or [section 27][37], or the exemption of any agricultural compound from registration under [section 8A][15], does not imply a warranty by the Crown or the Director-General that the trade name product or agricultural compound is reasonably fit for the purpose for which it is sold, or that the agricultural compound complies with any labelling or other consumer information relating to that compound.
     
-    Section 77: amended, on 18 October 2007, by [section 46][337] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 77: amended, on 18 October 2007, by [section 46][338] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 77A Right of review of decisions made under delegated authority
     
@@ -3691,11 +3695,11 @@ Miscellaneous provisions
     
     (8) A decision by the Director-General under this section is final, unless determined otherwise by a court of law of competent jurisdiction.
     
-    Section 77A: inserted, on 18 October 2007, by [section 47][338] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 77A: inserted, on 18 October 2007, by [section 47][339] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 77A heading: amended, on 31 August 2012, by [section 18(1)][339] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 77A heading: amended, on 31 August 2012, by [section 18(1)][340] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
     
-    Section 77A(1): replaced, on 31 August 2012, by [section 18(2)][339] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 77A(1): replaced, on 31 August 2012, by [section 18(2)][340] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
 
 ##### 78 Consultation before making of Orders in Council
     
@@ -3711,33 +3715,33 @@ Miscellaneous provisions
     
     (3) A failure to comply with subsection (1) does not affect the validity of any Order in Council made under this Act.
     
-    Section 78(1)(a): amended, on 31 August 2012, by [section 19][340] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
+    Section 78(1)(a): amended, on 31 August 2012, by [section 19][341] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2012 (2012 No 58).
     
-    Section 78(1): amended, on 18 October 2007, by [section 48][341] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 78(1): amended, on 18 October 2007, by [section 48][342] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 79 Relationship to other Acts
     
-*   Nothing in this Act affects the requirements of the [Animal Welfare Act 1999][241], the [Misuse of Drugs Act 1975][342], the [Wild Animal Control Act 1977][343], the [Food Act 1981][239], the [Wine Act 2003][240], the [Health Act 1956][344] (despite [section 138][345] of that Act), the [Medicines Act 1981][242], the [Biosecurity Act 1993][226], the [Hazardous Substances and New Organisms Act 1996][227], or the [Animal Products Act 1999][238] in relation to any substance, mixture of substances, or biological compound.
+*   Nothing in this Act affects the requirements of the [Animal Welfare Act 1999][242], the [Misuse of Drugs Act 1975][343], the [Wild Animal Control Act 1977][344], the [Food Act 1981][240], the [Wine Act 2003][241], the [Health Act 1956][345] (despite [section 138][346] of that Act), the [Medicines Act 1981][243], the [Biosecurity Act 1993][226], the [Hazardous Substances and New Organisms Act 1996][227], or the [Animal Products Act 1999][239] in relation to any substance, mixture of substances, or biological compound.
     
-    Section 79: amended, on 18 October 2007, by [section 49(a)][346] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 79: amended, on 18 October 2007, by [section 49(a)][347] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 79: amended, on 18 October 2007, by [section 49(b)][346] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 79: amended, on 18 October 2007, by [section 49(b)][347] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 79: amended, on 18 October 2007, by [section 49(c)][346] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 79: amended, on 18 October 2007, by [section 49(c)][347] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 79: amended, on 1 January 2000, by [section 194][347] of the Animal Welfare Act 1999 (1999 No 142).
+    Section 79: amended, on 1 January 2000, by [section 194][348] of the Animal Welfare Act 1999 (1999 No 142).
     
-    Section 79: amended, on 1 November 1999, by [section 8(1)][300] of the Animal Products (Ancillary and Transitional Provisions) Act 1999 (1999 No 94).
+    Section 79: amended, on 1 November 1999, by [section 8(1)][301] of the Animal Products (Ancillary and Transitional Provisions) Act 1999 (1999 No 94).
 
 ##### 80 Correction of errors
     
 *   Where any mistake exists in the register or in any other document made or issued under this Act, the Director-General may correct the mistake; and, for that purpose, may require the registrant or any holder of an approval to produce the certificate of registration or any other document held by the registrant or holder of the approval.
     
-    Section 80: amended, on 18 October 2007, by [section 50][348] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 80: amended, on 18 October 2007, by [section 50][349] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 #### Cost recovery
     
-*   Heading: inserted, on 18 October 2007, by [section 51][349] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+*   Heading: inserted, on 18 October 2007, by [section 51][350] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 81 Principles of cost recovery
     
@@ -3763,7 +3767,7 @@ Miscellaneous provisions
     
     *   (b) takes into account costs or potential costs of services that are not directly to be provided to the person who pays the fee or charge but which are an indirect or potential cost arising from the delivery of the service in question to a class of persons or all persons who use the service.
     
-    Section 81: substituted, on 18 October 2007, by [section 51][349] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 81: substituted, on 18 October 2007, by [section 51][350] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 81A Methods of cost recovery
     
@@ -3787,7 +3791,7 @@ Miscellaneous provisions
     
     *   (i) any combination of the above.
     
-    Section 81A: inserted, on 18 October 2007, by [section 51][349] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 81A: inserted, on 18 October 2007, by [section 51][350] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 81B Cost recovery to relate generally to financial year
     
@@ -3813,7 +3817,7 @@ Miscellaneous provisions
     
     (4) Recovery may be made in any financial year of any shortfall in cost recovery for any of the preceding 4 financial years, and allowance may be made for any over-recovery of costs in those years (including any estimated shortfall or over-recovery for the immediately preceding financial year).
     
-    Section 81B: inserted, on 18 October 2007, by [section 51][349] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 81B: inserted, on 18 October 2007, by [section 51][350] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 81C Three-yearly review of cost recovery
     
@@ -3825,7 +3829,7 @@ Miscellaneous provisions
     
     (4) Subsection (1) does not require all areas of cost recovery to be reviewed at the same time, nor does it impose any time limit on the making of regulations to implement the results of a review.
     
-    Section 81C: inserted, on 18 October 2007, by [section 51][349] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 81C: inserted, on 18 October 2007, by [section 51][350] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 81D Fees and charges to be prescribed by regulations
     
@@ -3851,7 +3855,7 @@ Miscellaneous provisions
     
     (6) The Minister may not recommend the making of regulations under this section unless satisfied that, to the extent appropriate in the circumstances, the requirements of [sections 81][161] and [81B][163] have been met.
     
-    Section 81D: inserted, on 18 October 2007, by [section 51][349] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 81D: inserted, on 18 October 2007, by [section 51][350] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 81E Regulations may impose levies
     
@@ -3883,7 +3887,7 @@ Miscellaneous provisions
     
     (4) The Minister may not recommend the making of regulations under this section unless satisfied that, to the extent appropriate in the circumstances, the requirements of [sections 81][161] and [81B][163] have been met.
     
-    Section 81E: inserted, on 18 October 2007, by [section 51][349] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 81E: inserted, on 18 October 2007, by [section 51][350] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 81F Trust accounts required to be kept by persons collecting levies
     
@@ -3897,7 +3901,7 @@ Miscellaneous provisions
     
     (2) Nothing in subsection (1)(c) affects any obligation or liability under this Act of any other person who has become responsible for collecting the levy concerned.
     
-    Section 81F: inserted, on 18 October 2007, by [section 51][349] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 81F: inserted, on 18 October 2007, by [section 51][350] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 81G Other charges not requiring to be prescribed
     
@@ -3919,7 +3923,7 @@ Miscellaneous provisions
     
     (3) All money received as a result of such charges received by the Ministry must be paid into the Departmental Bank Account.
     
-    Section 81G: inserted, on 18 October 2007, by [section 51][349] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 81G: inserted, on 18 October 2007, by [section 51][350] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 81H Exemptions, waivers, and refunds
     
@@ -3927,25 +3931,25 @@ Miscellaneous provisions
     
     (2) Any such regulations may authorise the Director-General to grant an exemption, waiver, or refund in any particular case or class of case.
     
-    Section 81H: inserted, on 18 October 2007, by [section 51][349] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 81H: inserted, on 18 October 2007, by [section 51][350] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 81I Fees, levies, and charges to constitute debt due to Director-General
     
 *   Any fee, levy, or charge that has become payable is a debt due to the Director-General, and is recoverable as a debt by the Director-General in any court of competent jurisdiction. Until paid in full, it remains a debt due to the Crown.
     
-    Section 81I: inserted, on 18 October 2007, by [section 51][349] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 81I: inserted, on 18 October 2007, by [section 51][350] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 81J Penalties for failure to pay fee, levy, or charge
     
 *   (1) If a person has failed to pay to the Director-General by the due date any fee, levy, or charge payable under this Act,---
         
-    *   (a) [section 14][350] of the Ministries of Agriculture and Forestry (Restructuring) Act 1997 applies to increase the amount payable; and
+    *   (a) [section 14][351] of the Ministries of Agriculture and Forestry (Restructuring) Act 1997 applies to increase the amount payable; and
     
-    *   (b) [section 15][351] of that Act applies to allow the Director-General, in appropriate cases, to waive the payment of all or any of the amount of any such increase; and
+    *   (b) [section 15][352] of that Act applies to allow the Director-General, in appropriate cases, to waive the payment of all or any of the amount of any such increase; and
     
-    *   (c) [section 16][352] of that Act applies to allow the Director-General to withdraw, or refuse to provide the person in default with, any service of the kind to which the debt relates.
+    *   (c) [section 16][353] of that Act applies to allow the Director-General to withdraw, or refuse to provide the person in default with, any service of the kind to which the debt relates.
     
-    (2) For the purposes of subsection (1)(c) of this section and [section 16][352] of the Ministries of Agriculture and Forestry (Restructuring) Act 1997, and without limiting the generality of that section 16, the references in those provisions to the withdrawal or refusal to provide any service are to be treated as also authorising the Director-General, in an appropriate case, to---
+    (2) For the purposes of subsection (1)(c) of this section and [section 16][353] of the Ministries of Agriculture and Forestry (Restructuring) Act 1997, and without limiting the generality of that section 16, the references in those provisions to the withdrawal or refusal to provide any service are to be treated as also authorising the Director-General, in an appropriate case, to---
         
     *   (a) withhold or suspend any registration or approval under this Act, or refuse to perform any function under this Act in relation to the person in default:
     
@@ -3955,13 +3959,13 @@ Miscellaneous provisions
     
     (4) Where the withholding, withdrawal, or suspension of any approval or registration under this section requires the Director-General to provide any further service, or perform any further function involved in the withholding, withdrawal, or suspension, the Director-General may recover any reasonable amount for the additional service, function, or costs as a debt due from the person in default.
     
-    Section 81J: inserted, on 18 October 2007, by [section 51][349] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 81J: inserted, on 18 October 2007, by [section 51][350] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 81K Obligation to pay fee, levy, or charge not suspended by dispute
     
 *   The obligation of a person to pay any fee, levy, or charge under this Act (including any penalty referred to in [section 81J][171]), and the right of the Director-General to receive and recover the fee, levy, charge, or penalty, are not suspended by any dispute between the person and the Director-General regarding the person's liability to pay the fee, levy, or charge, or the amount of the fee, levy, or charge.
     
-    Section 81K: inserted, on 18 October 2007, by [section 51][349] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 81K: inserted, on 18 October 2007, by [section 51][350] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 81L Levy regulations to be confirmed
     
@@ -3969,7 +3973,7 @@ Miscellaneous provisions
         
     *   (a) have not been revoked with effect on or before 1 July in the next year; and
     
-    *   (b) have not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of [Part 3][353] of the Legislation Act 2012,---
+    *   (b) have not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of [Part 3][354] of the Legislation Act 2012,---
     
     they are to be treated as having been revoked with the close of 30 June in that next year unless confirmed by an Act of Parliament passed on or before that day.
     
@@ -3977,37 +3981,37 @@ Miscellaneous provisions
         
     *   (a) have not been revoked with effect on or before 1 January in the year after the next year; and
     
-    *   (b) have not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of [Part 3][353] of the Legislation Act 2012,---
+    *   (b) have not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of [Part 3][354] of the Legislation Act 2012,---
     
     they are to be treated as having been revoked with the close of 31 December in the year after the year in which they were made, unless confirmed by an Act of Parliament passed on or before that day.
     
-    Section 81L: inserted, on 18 October 2007, by [section 51][349] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 81L: inserted, on 18 October 2007, by [section 51][350] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
     
-    Section 81L(1)(b): amended, on 5 August 2013, by [section 77(3)][236] of the Legislation Act 2012 (2012 No 119).
+    Section 81L(1)(b): amended, on 5 August 2013, by [section 77(3)][237] of the Legislation Act 2012 (2012 No 119).
     
-    Section 81L(2)(b): amended, on 5 August 2013, by [section 77(3)][236] of the Legislation Act 2012 (2012 No 119).
+    Section 81L(2)(b): amended, on 5 August 2013, by [section 77(3)][237] of the Legislation Act 2012 (2012 No 119).
 
 ##### 82 Prohibition of importation or manufacture by registrant for non-payment of fees
     
 *   \[Repealed\]
     
-    Section 82: repealed, on 18 October 2007, by [section 51][349] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 82: repealed, on 18 October 2007, by [section 51][350] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 83 Debt due to the Crown
     
 *   \[Repealed\]
     
-    Section 83: repealed, on 18 October 2007, by [section 51][349] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 83: repealed, on 18 October 2007, by [section 51][350] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 #### Amendments, repeals, and revocations
     
-*   Heading: inserted, on 18 October 2007, by [section 52][354] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+*   Heading: inserted, on 18 October 2007, by [section 52][355] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 84 Amendment of Schedule 1
     
 *   \[Repealed\]
     
-    Section 84: repealed, on 1 October 2012, by [section 187][355] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 84: repealed, on 1 October 2012, by [section 187][356] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 85 Amendments to other Acts
     
@@ -4024,239 +4028,239 @@ Transitional provisions
 
 \[Repealed\]
     
-*   Part 8: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+*   Part 8: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 #### General
     
-*   Heading: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+*   Heading: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 87 Interpretation
     
 *   \[Repealed\]
     
-    Section 87: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 87: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 88 Regulations relating to transitional provisions
     
 *   \[Repealed\]
     
-    Section 88: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 88: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 89 Transitional provisions for certain agricultural compounds in use at commencement of Act
     
 *   \[Repealed\]
     
-    Section 89: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 89: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 90 Transitional provisions for inspectors
     
 *   \[Repealed\]
     
-    Section 90: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 90: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 91 Application for registration made before commencement of Act
     
 *   \[Repealed\]
     
-    Section 91: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 91: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 92 Continuation of registration
     
 *   \[Repealed\]
     
-    Section 92: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 92: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 #### Animal remedies
 
 \[Repealed\]
     
-*   Heading: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+*   Heading: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 93 Applications for licences made before commencement of Act
     
 *   \[Repealed\]
     
-    Section 93: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 93: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 94 Continuation of licences
     
 *   \[Repealed\]
     
-    Section 94: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 94: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 95 Exemption from Act
     
 *   \[Repealed\]
     
-    Section 95: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 95: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 96 Continuation of Animal Remedies Board
     
 *   \[Repealed\]
     
-    Section 96: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 96: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 97 Registrar of Animal Remedies
     
 *   \[Repealed\]
     
-    Section 97: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 97: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 98 Prescription animal remedies
     
 *   \[Repealed\]
     
-    Section 98: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 98: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 99 Labelling
     
 *   \[Repealed\]
     
-    Section 99: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 99: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 100 Containers for animal remedies
     
 *   \[Repealed\]
     
-    Section 100: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 100: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 101 Warranties
     
 *   \[Repealed\]
     
-    Section 101: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 101: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 102 Advertisements
     
 *   \[Repealed\]
     
-    Section 102: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 102: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 103 Register of licences
     
 *   \[Repealed\]
     
-    Section 103: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 103: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 104 Correction of errors
     
 *   \[Repealed\]
     
-    Section 104: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 104: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 105 Loss or destruction of licence
     
 *   \[Repealed\]
     
-    Section 105: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 105: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 106 Reissue of licence
     
 *   \[Repealed\]
     
-    Section 106: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 106: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 107 Revocation or suspension of licences
     
 *   \[Repealed\]
     
-    Section 107: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 107: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 108 Variation of particulars
     
 *   \[Repealed\]
     
-    Section 108: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 108: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 109 Information protected under Part 2A of Animal Remedies Act 1967
     
 *   \[Repealed\]
     
-    Section 109: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 109: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 110 Regulations to continue to apply
     
 *   \[Repealed\]
     
-    Section 110: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 110: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 111 Transfer of assets of Animal Remedies Board
     
 *   \[Repealed\]
     
-    Section 111: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 111: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 #### Pesticides
 
 \[Repealed\]
     
-*   Heading: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+*   Heading: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 112 Application of sections 113 to 122
     
 *   \[Repealed\]
     
-    Section 112: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 112: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 113 Continuation of sale and use of pesticide
     
 *   \[Repealed\]
     
-    Section 113: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 113: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 114 Registration subject to restricted use
     
 *   \[Repealed\]
     
-    Section 114: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 114: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 115 Experimental use permits
     
 *   \[Repealed\]
     
-    Section 115: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 115: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 116 Labelling
     
 *   \[Repealed\]
     
-    Section 116: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 116: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 117 Advertisements
     
 *   \[Repealed\]
     
-    Section 117: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 117: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 118 Review of registration
     
 *   \[Repealed\]
     
-    Section 118: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 118: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 119 Warranties
     
 *   \[Repealed\]
     
-    Section 119: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 119: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 120 Pesticides register
     
 *   \[Repealed\]
     
-    Section 120: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 120: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 121 Information protected under Part 2A of Pesticides Act 1979
     
 *   \[Repealed\]
     
-    Section 121: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 121: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 122 Regulations to continue to apply
     
 *   \[Repealed\]
     
-    Section 122: repealed, on 18 October 2007, by [section 53][356] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 122: repealed, on 18 October 2007, by [section 53][357] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ---
 
@@ -4267,7 +4271,7 @@ Search warrant
 
 \[Repealed\]
     
-*   Schedule 1: repealed, on 1 October 2012, by [section 188][357] of the Search and Surveillance Act 2012 (2012 No 24).
+*   Schedule 1: repealed, on 1 October 2012, by [section 188][358] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ---
 
@@ -4282,7 +4286,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Hazardous Substances and New Organisms Act 1996 (1996 No 30)
 
-_Amendment(s) incorporated in the [Act(s)][358]_.
+_Amendment(s) incorporated in the [Act(s)][359]_.
 
 ##### Income Tax Act 1994 (1994 No 164)
 
@@ -4290,7 +4294,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Medicines Act 1981 (1981 No 118)
 
-_Amendment(s) incorporated in the [Act(s)][359]_.
+_Amendment(s) incorporated in the [Act(s)][360]_.
 
 ---
 
@@ -4321,7 +4325,7 @@ Enactments repealed
 
 ##### Biosecurity Act 1993 (1993 No 95)
 
-_Amendment(s) incorporated in the [Act(s)][360]_.
+_Amendment(s) incorporated in the [Act(s)][361]_.
 
 ##### Building Act 1991 (1991 No 150)
 
@@ -4329,11 +4333,11 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Crown Research Institute Act 1992 (1992 No 47)
 
-_Amendment(s) incorporated in the [Act(s)][361]_.
+_Amendment(s) incorporated in the [Act(s)][362]_.
 
 ##### Fair Trading Act 1986 (1986 No 121)
 
-_Amendment(s) incorporated in the [Act(s)][362]_.
+_Amendment(s) incorporated in the [Act(s)][363]_.
 
 ##### Fertilisers Act 1960 (1960 No 33) (RS Vol 19, p 335)
 
@@ -4345,11 +4349,11 @@ _Amendment(s) incorporated in the [Act(s)][362]_.
 
 ##### Judicature Amendment Act 1991 (1991 No 60)
 
-_Amendment(s) incorporated in the [Act(s)][363]_.
+_Amendment(s) incorporated in the [Act(s)][364]_.
 
 ##### Medicines Act 1981 (1981 No 118)
 
-_Amendment(s) incorporated in the [Act(s)][364]_.
+_Amendment(s) incorporated in the [Act(s)][365]_.
 
 ##### Ministry of Agriculture and Fisheries Amendment Act 1990 (1990 No 53)
 
@@ -4357,11 +4361,11 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Official Information Amendment Act 1987 (1987 No 8)
 
-_Amendment(s) incorporated in the [Act(s)][365]_.
+_Amendment(s) incorporated in the [Act(s)][366]_.
 
 ##### Regulations (Disallowance) Act 1989 (1989 No 143)
 
-_Amendment(s) incorporated in the [Act(s)][366]_.
+_Amendment(s) incorporated in the [Act(s)][367]_.
 
 ##### Stock Foods Act 1946 (1946 No 6) (RS Vol 11, p 413)
 
@@ -4425,7 +4429,7 @@ Regulations and orders continued in force
 
 \[Repealed\]
     
-*   Schedule 5: repealed, on 18 October 2007, by [section 55][367] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+*   Schedule 5: repealed, on 18 October 2007, by [section 55][368] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ---
 
@@ -4437,7 +4441,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Agricultural Compounds and Veterinary Medicines Amendment Act 2007][368].
+*   This Act is the [Agricultural Compounds and Veterinary Medicines Amendment Act 2007][369].
 
 ##### 2 Commencement
     
@@ -4495,7 +4499,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Agricultural Compounds and Veterinary Medicines Amendment Act 2012][369].
+*   This Act is the [Agricultural Compounds and Veterinary Medicines Amendment Act 2012][370].
 
 ##### 2 Commencement
     
@@ -4521,41 +4525,43 @@ Commencementsee section 2
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][370] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][371] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][371] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][372] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][372] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][373] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][373] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][374] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][236]
+*   Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][236]
     
-    [Agricultural Compounds and Veterinary Medicines Amendment Act 2012][369] (2012 No 58)
+    Legislation Act 2012 (2012 No 119): [section 77(3)][237]
     
-    Search and Surveillance Act 2012 (2012 No 24): [sections 183--188][319]
+    [Agricultural Compounds and Veterinary Medicines Amendment Act 2012][370] (2012 No 58)
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][296]
+    Search and Surveillance Act 2012 (2012 No 24): [sections 183--188][320]
     
-    Environmental Protection Authority Act 2011 (2011 No 14): [section 53(1)][256]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][297]
     
-    [Agricultural Compounds and Veterinary Medicines Amendment Act 2010][374] (2010 No 46)
+    Environmental Protection Authority Act 2011 (2011 No 14): [section 53(1)][257]
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][326]
+    [Agricultural Compounds and Veterinary Medicines Amendment Act 2010][375] (2010 No 46)
     
-    [Agricultural Compounds and Veterinary Medicines Amendment Act 2007][368] (2007 No 93)
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][327]
+    
+    [Agricultural Compounds and Veterinary Medicines Amendment Act 2007][369] (2007 No 93)
     
     Veterinarians Act 2005 (2005 No 126): [section 105][235]
     
-    [Agricultural Compounds and Veterinary Medicines Amendment Act 2003][375] (2003 No 55)
+    [Agricultural Compounds and Veterinary Medicines Amendment Act 2003][376] (2003 No 55)
     
     [Agricultural Compounds and Veterinary Medicines Act Commencement Order 2001][225] (SR 2001/100)
     
-    [Agricultural Compounds and Veterinary Medicines Amendment Act 2000][376] (2000 No 50)
+    [Agricultural Compounds and Veterinary Medicines Amendment Act 2000][377] (2000 No 50)
     
-    Animal Welfare Act 1999 (1999 No 142): [section 194][347]
+    Animal Welfare Act 1999 (1999 No 142): [section 194][348]
     
-    Animal Products (Ancillary and Transitional Provisions) Act 1999 (1999 No 94): [section 8(1)][300]
+    Animal Products (Ancillary and Transitional Provisions) Act 1999 (1999 No 94): [section 8(1)][301]
 
 
 
@@ -4795,144 +4801,145 @@ Commencementsee section 2
 [233]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970079
 [234]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3453023
 [235]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM364675
-[236]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2998633
-[237]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970092
-[238]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM33501
-[239]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM48686
-[240]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM222446
-[241]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM49663
-[242]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM53789
-[243]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970093
-[244]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970095
-[245]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM75700
-[246]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970096
-[247]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970097
-[248]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970098
-[249]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970100
-[250]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970105
-[251]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM65371
-[252]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM64784
-[253]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM215838
-[254]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3366850
-[255]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM130706
-[256]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3366997
-[257]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM316395
-[258]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM384019
-[259]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970106
-[260]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM214966
-[261]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2567562
-[262]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970107
-[263]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM54687
-[264]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3453040
-[265]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970108
-[266]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970109
-[267]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3453041
-[268]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970110
-[269]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3453042
-[270]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970111
-[271]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970112
-[272]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970113
-[273]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM75704
-[274]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3453043
-[275]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2567563
-[276]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970116
-[277]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2567564
-[278]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3453044
-[279]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3453046
-[280]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970120
-[281]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970121
-[282]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970132
-[283]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970133
-[284]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM264952
-[285]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970134
-[286]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3453048
-[287]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM329649
-[288]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM97382
-[289]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM170881
-[290]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM195097
-[291]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM195534
-[292]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM1819126
-[293]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970136
-[294]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3360482
-[295]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3360489
-[296]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3360714
-[297]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3360067
-[298]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970137
-[299]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3453111
-[300]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM36187
-[301]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970138
-[302]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970139
-[303]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970141
-[304]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3453112
-[305]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM129109
-[306]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970143
-[307]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM75706
-[308]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970144
-[309]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3453113
-[310]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970146
-[311]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3453114
-[312]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2136770
-[313]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM4355336
-[314]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2136781
-[315]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2136813
-[316]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2136815
-[317]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2136883
-[318]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970148
-[319]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2136904
-[320]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970149
-[321]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970151
-[322]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2136542
-[323]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2136905
-[324]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970152
-[325]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2136906
-[326]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM1102349
-[327]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2136771
-[328]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2136842
-[329]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2136860
-[330]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2136877
-[331]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2136896
-[332]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2136907
-[333]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970155
-[334]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3453115
-[335]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970156
-[336]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3453116
-[337]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970158
-[338]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970159
-[339]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3453117
-[340]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3453118
-[341]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970161
-[342]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM436100
-[343]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM16622
-[344]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM305839
-[345]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM308724
-[346]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970162
-[347]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM51965
-[348]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970163
-[349]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970164
-[350]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM418630
-[351]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM418632
-[352]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM418633
-[353]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2998557
-[354]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970180
-[355]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM4355900
-[356]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970181
-[357]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM4355901
-[358]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM384069
-[359]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM53795
-[360]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM317130
-[361]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM265670
-[362]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM97355
-[363]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM230225
-[364]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM56590
-[365]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM101358
-[366]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM195559
-[367]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970183
-[368]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970071
-[369]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3453000
-[370]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2998516
-[371]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2998515
-[372]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2998532
-[373]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[374]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2567500
-[375]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM215832
-[376]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM75094
+[236]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM4929207
+[237]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2998633
+[238]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970092
+[239]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM33501
+[240]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM48686
+[241]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM222446
+[242]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM49663
+[243]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM53789
+[244]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970093
+[245]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970095
+[246]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM75700
+[247]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970096
+[248]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970097
+[249]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970098
+[250]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970100
+[251]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970105
+[252]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM65371
+[253]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM64784
+[254]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM215838
+[255]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3366850
+[256]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM130706
+[257]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3366997
+[258]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM316395
+[259]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM384019
+[260]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970106
+[261]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM214966
+[262]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2567562
+[263]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970107
+[264]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM54687
+[265]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3453040
+[266]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970108
+[267]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970109
+[268]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3453041
+[269]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970110
+[270]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3453042
+[271]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970111
+[272]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970112
+[273]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970113
+[274]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM75704
+[275]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3453043
+[276]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2567563
+[277]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970116
+[278]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2567564
+[279]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3453044
+[280]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3453046
+[281]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970120
+[282]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970121
+[283]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970132
+[284]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970133
+[285]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM264952
+[286]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970134
+[287]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3453048
+[288]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM329649
+[289]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM97382
+[290]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM170881
+[291]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM195097
+[292]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM195534
+[293]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM1819126
+[294]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970136
+[295]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3360482
+[296]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3360489
+[297]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3360714
+[298]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3360067
+[299]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970137
+[300]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3453111
+[301]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM36187
+[302]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970138
+[303]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970139
+[304]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970141
+[305]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3453112
+[306]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM129109
+[307]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970143
+[308]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM75706
+[309]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970144
+[310]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3453113
+[311]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970146
+[312]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3453114
+[313]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2136770
+[314]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM4355336
+[315]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2136781
+[316]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2136813
+[317]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2136815
+[318]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2136883
+[319]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970148
+[320]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2136904
+[321]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970149
+[322]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970151
+[323]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2136542
+[324]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2136905
+[325]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970152
+[326]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2136906
+[327]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM1102349
+[328]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2136771
+[329]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2136842
+[330]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2136860
+[331]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2136877
+[332]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2136896
+[333]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2136907
+[334]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970155
+[335]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3453115
+[336]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970156
+[337]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3453116
+[338]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970158
+[339]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970159
+[340]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3453117
+[341]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3453118
+[342]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970161
+[343]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM436100
+[344]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM16622
+[345]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM305839
+[346]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM308724
+[347]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970162
+[348]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM51965
+[349]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970163
+[350]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970164
+[351]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM418630
+[352]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM418632
+[353]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM418633
+[354]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2998557
+[355]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970180
+[356]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM4355900
+[357]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970181
+[358]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM4355901
+[359]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM384069
+[360]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM53795
+[361]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM317130
+[362]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM265670
+[363]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM97355
+[364]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM230225
+[365]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM56590
+[366]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM101358
+[367]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM195559
+[368]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970183
+[369]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM970071
+[370]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM3453000
+[371]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2998516
+[372]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2998515
+[373]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2998532
+[374]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[375]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM2567500
+[376]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM215832
+[377]: http://www.legislation.govt.nz/act/public/1997/0087/latest/link.aspx?id=DLM75094
