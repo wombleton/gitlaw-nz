@@ -1,5 +1,5 @@
 Reprint  
-as at 8 July 2003
+as at 1 January 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,11 +13,11 @@ Commencement13 June 1987
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-This Act is administered by the Ministry of Economic Development.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -25,29 +25,29 @@ This Act is administered by the Ministry of Economic Development.
 
 [Title][1]
 
-[1][2] [Short Title][2]
+[1][2][][2][Short Title][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Establishment of Authorities][4]
+[3][4][][4][Establishment of Authorities][4]
 
-[4][5] [Authority to have certain powers of commission of inquiry][5]
+[4][5][][5][Authority to have certain powers of commission of inquiry][5]
 
-[5][6] [Reference of matters to Authority][6]
+[5][6][][6][Reference of matters to Authority][6]
 
-[6][7] [Matters to be evaluated and taken into account by Authority][7]
+[6][7][][7][Matters to be evaluated and taken into account by Authority][7]
 
-[7][8] [Report by Authority][8]
+[7][8][][8][Report by Authority][8]
 
-[8][9] [Remuneration and travelling expenses][9]
+[8][9][][9][Remuneration and travelling expenses][9]
 
-[9][10] [Money to be appropriated by Parliament for the purposes of this Act][10]
+[9][10][][10][Money to be appropriated by Parliament for the purposes of this Act][10]
 
-[10][11] [Proceedings privileged][11]
+[10][11][][11][Proceedings privileged][11]
 
-[11][12] [Consequential amendments][12]
+[11][12][][12][Consequential amendments][12]
 
-[12][13] [Repeals and savings][13]
+[12][13][][13][Repeals and savings][13]
 
 [Schedule][14]  
 [Enactments repealed][14]
@@ -98,11 +98,17 @@ An Act to provide for the appointment of Temporary Safeguard Authorities and to 
     
     *   (c) if 1 January falls on a Friday, the following Monday; and
     
-    *   (d) if 1 January falls on a Saturday or a Sunday, the following Monday and Tuesday
+    *   (d) if 1 January falls on a Saturday or a Sunday, the following Monday and Tuesday; and
+    
+    *   (e) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday
     
     _WTO Agreement_ means the Agreement establishing the World Trade Organization adopted at Marrakesh on 15 April 1994\.
     
     Section 2: substituted, on 1 January 1995, by section 2 of the Temporary Safeguard Authorities Amendment Act 1994 (1994 No 130).
+    
+    Section 2 **working day** paragraph (d): replaced, on 1 January 2014, by [section 8][16] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
+    
+    Section 2 **working day** paragraph (e): inserted, on 1 January 2014, by [section 8][16] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
 
 ##### 3 Establishment of Authorities
     
@@ -112,21 +118,21 @@ An Act to provide for the appointment of Temporary Safeguard Authorities and to 
     
     (3) No person appointed under this section shall exercise any functions of an Authority in respect of any matter in which that person has, directly or indirectly, any pecuniary interest apart from any interest in common with the public.
     
-    (4) No person shall be deemed to be employed in the service of the Crown for the purposes of the [State Sector Act 1988][16] or the [Government Superannuation Fund Act 1956][17] by reason only of that person being an Authority or a member of an Authority.
+    (4) No person shall be deemed to be employed in the service of the Crown for the purposes of the [State Sector Act 1988][17] or the [Government Superannuation Fund Act 1956][18] by reason only of that person being an Authority or a member of an Authority.
     
     (5) The Ministry of Economic Development shall be responsible for ensuring that each Temporary Safeguard Authority is provided, whether by secondment or otherwise, with such secretarial and other services as are necessary to enable the Authority to carry out any inquiry under this Act and to report as efficiently and expeditiously as possible.
     
-    Section 3(2): amended, on 1 January 2002, by [section 70(1)][18] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 3(2): amended, on 1 January 2002, by [section 70(1)][19] of the Human Rights Amendment Act 2001 (2001 No 96).
     
-    Section 3(4): amended, on 1 April 1988, by [section 88(2)][19] of the State Sector Act 1988 (1988 No 20).
+    Section 3(4): amended, on 1 April 1988, by [section 88(2)][20] of the State Sector Act 1988 (1988 No 20).
     
-    Section 3(5): amended, on 7 September 2000, by [section 8(1)][20] of the Ministry of Economic Development Act 2000 (2000 No 28).
+    Section 3(5): amended, on 7 September 2000, by [section 8(1)][21] of the Ministry of Economic Development Act 2000 (2000 No 28).
     
-    Section 3(5): amended, on 1 December 1988, by [section 4(1)][21] of the Trade and Industry Act Repeal Act 1988 (1988 No 156).
+    Section 3(5): amended, on 1 December 1988, by [section 4(1)][22] of the Trade and Industry Act Repeal Act 1988 (1988 No 156).
 
 ##### 4 Authority to have certain powers of commission of inquiry
     
-*   For the purposes of an inquiry pursuant to [section 5(1)][6], [sections 4A][22], [4B][23], [4C][24], [4D][25], [5][26], [6][27], [7][28], [8][29], and [9][30] of the Commissions of Inquiry Act 1908 shall apply to every Authority as if it were a commission of inquiry established under that Act.
+*   For the purposes of an inquiry pursuant to [section 5(1)][6], [sections 4A][23], [4B][24], [4C][25], [4D][26], [5][27], [6][28], [7][29], [8][30], and [9][31] of the Commissions of Inquiry Act 1908 shall apply to every Authority as if it were a commission of inquiry established under that Act.
 
 ##### 5 Reference of matters to Authority
     
@@ -150,7 +156,7 @@ An Act to provide for the appointment of Temporary Safeguard Authorities and to 
     
     (5) The Authority shall, in the course of the inquiry, consider any submissions received in response to a call for submissions made pursuant to subsection (4).
     
-    (6) Unless the information is confidential or may be withheld under the [Official Information Act 1982][31], persons having an interest in the matters that are the subject of the inquiry shall have access to all information relevant to the inquiry.
+    (6) Unless the information is confidential or may be withheld under the [Official Information Act 1982][32], persons having an interest in the matters that are the subject of the inquiry shall have access to all information relevant to the inquiry.
     
     (7) Where a person has submitted information to the Authority, and has shown good cause for the Authority to believe---
         
@@ -222,7 +228,7 @@ An Act to provide for the appointment of Temporary Safeguard Authorities and to 
         
     *   (a) the imposition of any duty, or variation of any rate of duty, or exemption from any duty:
     
-    *   (b) the restriction of the importation of the goods under the [Customs and Excise Act 1996][32] or the [Imports and Exports (Restrictions) Act 1988][33]:
+    *   (b) the restriction of the importation of the goods under the [Customs and Excise Act 1996][33] or the [Imports and Exports (Restrictions) Act 1988][34]:
     
     *   (c) any other action it considers appropriate.
     
@@ -232,15 +238,15 @@ An Act to provide for the appointment of Temporary Safeguard Authorities and to 
     
     Section 7: substituted, on 1 January 1995, by section 5 of the Temporary Safeguard Authorities Amendment Act 1994 (1994 No 130).
     
-    Section 7(3)(b): substituted, on 1 October 1996, by [section 289(1)][34] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 7(3)(b): substituted, on 1 October 1996, by [section 289(1)][35] of the Customs and Excise Act 1996 (1996 No 27).
     
-    Section 7(3)(b): amended, on 8 July 2003, by [section 11][35] of the Imports and Exports (Restrictions) Amendment Act 2003 (2003 No 36).
+    Section 7(3)(b): amended, on 8 July 2003, by [section 11][36] of the Imports and Exports (Restrictions) Amendment Act 2003 (2003 No 36).
 
 ##### 8 Remuneration and travelling expenses
     
-*   (1) Every Authority established under this Act is hereby declared to be a statutory Board within the meaning of the [Fees and Travelling Allowances Act 1951][36].
+*   (1) Every Authority established under this Act is hereby declared to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][37].
     
-    (2) There shall be paid to members of Authorities remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][36], and the provisions of that Act shall apply accordingly.
+    (2) There shall be paid to members of Authorities remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][37], and the provisions of that Act shall apply accordingly.
 
 ##### 9 Money to be appropriated by Parliament for the purposes of this Act
     
@@ -258,7 +264,7 @@ An Act to provide for the appointment of Temporary Safeguard Authorities and to 
 
 ##### 12 Repeals and savings
     
-*   (1) The enactments set out in the Schedule are hereby repealed.
+*   (1) The enactments set out in the [Schedule][14] are hereby repealed.
     
     (2) The provisions of sections 10A to 10E of the Industries Development Commission Act 1961 shall, notwithstanding the repeal of that Act by subsection (1), for the purposes of the completion of any inquiry undertaken by an Emergency Protection Authority before the commencement of this Act, continue to apply as if subsection (1) had not been enacted.
 
@@ -287,86 +293,45 @@ Enactments repealed
 
 ##### Industries Development Commission Amendment Act 1982 (1982 No 80)
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Temporary Safeguard Authorities Act 1987\. The reprint incorporates all the amendments to the Act as at 8 July 2003, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][37] ![](/images/external_link.gif).
+*   This is a reprint of the Temporary Safeguard Authorities Act 1987 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][38] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][38] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][39] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][39] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][40] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][41] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][40] and [17E][41] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][16]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Imports and Exports (Restrictions) Amendment Act 2003 (2003 No 36): [section 11][36]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][19]
     
+    Ministry of Economic Development Act 2000 (2000 No 28): [section 8(1)][21]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Imports and Exports (Restrictions) Amendment Act 2003 (2003 No 36): [section 11][35]
-    
-    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][18]
-    
-    Ministry of Economic Development Act 2000 (2000 No 28): [section 8(1)][20]
-    
-    Customs and Excise Act 1996 (1996 No 27): [section 289(1)][34]
+    Customs and Excise Act 1996 (1996 No 27): [section 289(1)][35]
     
     Temporary Safeguard Authorities Amendment Act 1994 (1994 No 130)
     
-    Trade and Industry Act Repeal Act 1988 (1988 No 156): [section 4(1)][21]
+    Trade and Industry Act Repeal Act 1988 (1988 No 156): [section 4(1)][22]
     
-    State Sector Act 1988 (1988 No 20): [section 88(2)][19]
+    State Sector Act 1988 (1988 No 20): [section 88(2)][20]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1987/0088/latest/whole.html#DLM117319
 [2]: http://www.legislation.govt.nz/act/public/1987/0088/latest/whole.html#DLM117321
 [3]: http://www.legislation.govt.nz/act/public/1987/0088/latest/whole.html#DLM117322
@@ -382,29 +347,29 @@ Enactments repealed
 [13]: http://www.legislation.govt.nz/act/public/1987/0088/latest/whole.html#DLM117369
 [14]: http://www.legislation.govt.nz/act/public/1987/0088/latest/whole.html#DLM117370
 [15]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM136773
-[16]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM129109
-[17]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM446000
-[18]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM122579
-[19]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM130375
-[20]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM67109
-[21]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM137557
-[22]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM139150
-[23]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM139153
-[24]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM139155
-[25]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM139157
-[26]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM139159
-[27]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM139161
-[28]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM139163
-[29]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM139165
-[30]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM139167
-[31]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM64784
-[32]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM377336
-[33]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM137587
-[34]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM380185
-[35]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM198980
-[36]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM264952
-[37]: http://www.pco.parliament.govt.nz/reprints/
-[38]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM195439
-[39]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[40]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM195468
-[41]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM195470
+[16]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM4929207
+[17]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM129109
+[18]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM446000
+[19]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM122579
+[20]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM130375
+[21]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM67109
+[22]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM137557
+[23]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM139150
+[24]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM139153
+[25]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM139155
+[26]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM139157
+[27]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM139159
+[28]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM139161
+[29]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM139163
+[30]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM139165
+[31]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM139167
+[32]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM64784
+[33]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM377336
+[34]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM137587
+[35]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM380185
+[36]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM198980
+[37]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM264952
+[38]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM2998516
+[39]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM2998515
+[40]: http://www.legislation.govt.nz/act/public/1987/0088/latest/link.aspx?id=DLM2998532
+[41]: http://www.pco.parliament.govt.nz/editorial-conventions/
