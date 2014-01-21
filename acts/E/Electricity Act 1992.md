@@ -1,5 +1,5 @@
 Reprint  
-as at 16 December 2013
+as at 1 January 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -51,7 +51,7 @@ This Act is administered by the Ministry of Business, Innovation, and Employment
 
 [5A][13][][13][Functions of Secretary][13]
 
-[5B][14][][14][WorkSafe and Secretary must share information ][14]
+[5B][14][][14][WorkSafe and Secretary must share information][14]
 
 [6][15][][15][Inspection of works, etc][15]
 
@@ -1224,6 +1224,8 @@ Preliminary provisions
         
     *   (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
     
+    *   (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    
     *   (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year
     
     _works_---
@@ -1448,6 +1450,8 @@ Preliminary provisions
     
     Section 2(1) **vehicle**: amended, on 1 March 1999, by [section 215(1)][459] of the Land Transport Act 1998 (1998 No 110).
     
+    Section 2(1) **working day** paragraph (ab): inserted, on 1 January 2014, by [section 8][460] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
+    
     Section 2(1) **works** paragraph (b): substituted, on 1 November 2010, by [section 162(2)][448] of the Electricity Industry Act 2010 (2010 No 116).
     
     Section 2(1) **WorkSafe**: inserted, on 16 December 2013, by [section 22][454] of the WorkSafe New Zealand Act 2013 (2013 No 94).
@@ -1456,9 +1460,9 @@ Preliminary provisions
     
     Section 2(3): substituted, on 8 August 2001, by [section 7(3)][449] of the Electricity Amendment Act 2001 (2001 No 40).
     
-    Section 2(3) **property** paragraph (c): amended, on 20 June 2011, by [section 233(1)][460] of the Unit Titles Act 2010 (2011 No 22).
+    Section 2(3) **property** paragraph (c): amended, on 20 June 2011, by [section 233(1)][461] of the Unit Titles Act 2010 (2011 No 22).
     
-    Section 2(3) **specific agreement** paragraph (a)(iii): amended, on 20 June 2011, by [section 233(1)][460] of the Unit Titles Act 2010 (2011 No 22).
+    Section 2(3) **specific agreement** paragraph (a)(iii): amended, on 20 June 2011, by [section 233(1)][461] of the Unit Titles Act 2010 (2011 No 22).
     
     Section 2(4): added, on 8 August 2001, by [section 7(3)][449] of the Electricity Amendment Act 2001 (2001 No 40).
     
@@ -1479,7 +1483,7 @@ General
     
     (2) The Minister must, as soon as reasonably practicable, by notice in the _Gazette_, declare that a person ceases to be an electricity operator on a date stated in the notice if the Minister is satisfied that the person has ceased to carry on a business as an electricity distributor.
     
-    Section 4: substituted, on 8 August 2001, by [section 8][461] of the Electricity Amendment Act 2001 (2001 No 40).
+    Section 4: substituted, on 8 August 2001, by [section 8][462] of the Electricity Amendment Act 2001 (2001 No 40).
 
 ##### 4A Declaration of electricity generators as electricity operators
     
@@ -1493,15 +1497,15 @@ General
     
     (3) \[Repealed\]
     
-    Section 4A: substituted, on 8 August 2001, by [section 8][461] of the Electricity Amendment Act 2001 (2001 No 40).
+    Section 4A: substituted, on 8 August 2001, by [section 8][462] of the Electricity Amendment Act 2001 (2001 No 40).
     
-    Section 4A heading: substituted, on 14 October 2008, by [section 30(2)][462] of the Electricity Industry Reform Amendment Act 2008 (2008 No 71).
+    Section 4A heading: substituted, on 14 October 2008, by [section 30(2)][463] of the Electricity Industry Reform Amendment Act 2008 (2008 No 71).
     
-    Section 4A(1): substituted, on 14 October 2008, by [section 30(3)][462] of the Electricity Industry Reform Amendment Act 2008 (2008 No 71).
+    Section 4A(1): substituted, on 14 October 2008, by [section 30(3)][463] of the Electricity Industry Reform Amendment Act 2008 (2008 No 71).
     
-    Section 4A(2): substituted, on 14 October 2008, by [section 30(4)][462] of the Electricity Industry Reform Amendment Act 2008 (2008 No 71).
+    Section 4A(2): substituted, on 14 October 2008, by [section 30(4)][463] of the Electricity Industry Reform Amendment Act 2008 (2008 No 71).
     
-    Section 4A(3): repealed, on 14 October 2008, by [section 30(4)][462] of the Electricity Industry Reform Amendment Act 2008 (2008 No 71).
+    Section 4A(3): repealed, on 14 October 2008, by [section 30(4)][463] of the Electricity Industry Reform Amendment Act 2008 (2008 No 71).
 
 #### Functions and powers of WorkSafe and Secretary
     
@@ -1549,7 +1553,7 @@ General
     
     Section 5A: inserted, on 16 December 2013, by [section 22][454] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
-##### 5B WorkSafe and Secretary must share information 
+##### 5B WorkSafe and Secretary must share information
     
 *   (1) WorkSafe must provide information to the Secretary if the information is necessary or desirable for the Secretary to carry out his or her functions under this Act.
     
@@ -1573,7 +1577,7 @@ General
     
     *   (c) require any person who has control of the works, electrical installation, electrical appliance, or associated equipment to produce any document required by this Act or any regulations made under [section 169][307] or [section 170][311] to be kept by that person, and may examine and make copies of, or take extracts from, any such document.
     
-    (5) This section shall apply notwithstanding anything to the contrary in [section 52][463] of the Government Roading Powers Act 1989\.
+    (5) This section shall apply notwithstanding anything to the contrary in [section 52][464] of the Government Roading Powers Act 1989\.
     
     Compare: 1982 No 27 s 8
     
@@ -1627,7 +1631,7 @@ General
     
     (2B) Every person who is required to produce documents or supply information under this section has the same privileges in relation to the production of the documents or the supply of the information as witnesses have in any court.
     
-    (3) This section shall apply notwithstanding anything to the contrary in [section 52][463] of the Government Roading Powers Act 1989\.
+    (3) This section shall apply notwithstanding anything to the contrary in [section 52][464] of the Government Roading Powers Act 1989\.
     
     Compare: 1982 No 27 s 10
     
@@ -1637,11 +1641,11 @@ General
     
     Section 8(2): amended, on 16 December 2013, by [section 22][454] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 8(2): amended, on 1 April 2010, by [section 8(1)(a)][464] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 8(2): amended, on 1 April 2010, by [section 8(1)(a)][465] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 8(2): amended, on 1 April 2010, by [section 8(1)(b)][464] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 8(2): amended, on 1 April 2010, by [section 8(1)(b)][465] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 8(2A): inserted, on 1 April 2010, by [section 8(2)][464] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 8(2A): inserted, on 1 April 2010, by [section 8(2)][465] of the Electricity Amendment Act 2006 (2006 No 70).
     
     Section 8(2A): amended, on 16 December 2013, by [section 22][454] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
@@ -1649,7 +1653,7 @@ General
     
     Section 8(2A)(b): amended, on 16 December 2013, by [section 22][454] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 8(2B): inserted, on 1 April 2010, by [section 8(2)][464] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 8(2B): inserted, on 1 April 2010, by [section 8(2)][465] of the Electricity Amendment Act 2006 (2006 No 70).
     
     Section 8(3): amended, on 1 August 2008, by [section 50(1)][455] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
@@ -1699,15 +1703,15 @@ General
     
     (2) Subject to subsection (3), every appeal under this section shall be heard and determined in accordance with rules of court.
     
-    (3) [Subpart 8][465] of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section.
+    (3) [Subpart 8][466] of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section.
     
     (4) Subject to [section 13][22], where a notice of appeal is filed pursuant to this section, the notice or requirement to which the notice of appeal relates shall be suspended until the appeal has been determined or abandoned.
     
-    Section 12(1): amended, on 1 July 2013, by [section 413][466] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 12(1): amended, on 1 July 2013, by [section 413][467] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 12(3): replaced, on 1 July 2013, by [section 413][466] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 12(3): replaced, on 1 July 2013, by [section 413][467] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 12(4): amended, on 1 July 2013, by [section 413][466] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 12(4): amended, on 1 July 2013, by [section 413][467] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 13 WorkSafe may require immediate compliance
     
@@ -1725,7 +1729,7 @@ General
     
     Section 13(1): amended, on 16 December 2013, by [section 22][454] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 13(2): amended, on 1 July 2013, by [section 413][466] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 13(2): amended, on 1 July 2013, by [section 413][467] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 13(3): amended, on 16 December 2013, by [section 22][454] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
@@ -1733,9 +1737,9 @@ General
     
 *   (1) A party to proceedings in a District Court on an application under [section 13(3)][22] may appeal to the High Court against any decision of the District Court.
     
-    (1A) The [High Court Rules][467] and [sections 74 to 78][468] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under [section 72][469] of that Act.
+    (1A) The [High Court Rules][468] and [sections 74 to 78][469] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under [section 72][470] of that Act.
     
-    (2) On the _ex parte_ application of the appellant, the District Court may order that the appellant must not be required under [section 74(1)][468] of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
+    (2) On the _ex parte_ application of the appellant, the District Court may order that the appellant must not be required under [section 74(1)][469] of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
     
     (2A) Subsection (2) overrides subsection (1A).
     
@@ -1747,13 +1751,13 @@ General
     
     (6) Subject to subsections (3) to (5), the decision of the High Court on an appeal to that court under this section shall be final.
     
-    Section 14(1): substituted, on 24 November 2003, by [section 4][470] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 14(1): substituted, on 24 November 2003, by [section 4][471] of the District Courts Amendment Act 2002 (2002 No 63).
     
-    Section 14(1A): inserted, on 24 November 2003, by [section 4][470] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 14(1A): inserted, on 24 November 2003, by [section 4][471] of the District Courts Amendment Act 2002 (2002 No 63).
     
-    Section 14(2): substituted, on 24 November 2003, by [section 4][470] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 14(2): substituted, on 24 November 2003, by [section 4][471] of the District Courts Amendment Act 2002 (2002 No 63).
     
-    Section 14(2A): inserted, on 24 November 2003, by [section 4][470] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 14(2A): inserted, on 24 November 2003, by [section 4][471] of the District Courts Amendment Act 2002 (2002 No 63).
 
 ##### 15 Assessors
     
@@ -1761,9 +1765,9 @@ General
     
     (2) No person shall be appointed to act as an assessor unless he or she has special skill or knowledge relevant to the particular matter to be considered by the court.
     
-    (3) There shall be paid, out of public money appropriated by Parliament for the purpose, to any assessors appointed under this section remuneration by way of fees, salary, or allowances, and travelling allowances and expenses, in accordance with the [Fees and Travelling Allowances Act 1951][471]; and the provisions of that Act shall apply accordingly as if the assessors were members of a statutory board within the meaning of that Act.
+    (3) There shall be paid, out of public money appropriated by Parliament for the purpose, to any assessors appointed under this section remuneration by way of fees, salary, or allowances, and travelling allowances and expenses, in accordance with the [Fees and Travelling Allowances Act 1951][472]; and the provisions of that Act shall apply accordingly as if the assessors were members of a statutory board within the meaning of that Act.
     
-    Compare: 1982 No 27 s 12; 1989 No 44 [s 86(1)][472]
+    Compare: 1982 No 27 s 12; 1989 No 44 [s 86(1)][473]
     
     Section 15(1): amended, on 16 December 2013, by [section 22][454] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
@@ -1797,23 +1801,23 @@ General
     
     (6) Notification of an accident in accordance with either or both of the following provisions is compliance with subsection (3):
         
-    *   (a) [section 17(3)][473] of the Gas Act 1992:
+    *   (a) [section 17(3)][474] of the Gas Act 1992:
     
-    *   (b) [section 25(3)][474] of the Health and Safety in Employment Act 1992\.
+    *   (b) [section 25(3)][475] of the Health and Safety in Employment Act 1992\.
     
     Compare: 1982 No 27 s 14(1)--(3)
     
-    Section 16 heading: amended, on 5 December 2006, by [section 9(1)][475] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 16 heading: amended, on 5 December 2006, by [section 9(1)][476] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 16(1): substituted, on 5 December 2006, by [section 9(2)][475] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 16(1): substituted, on 5 December 2006, by [section 9(2)][476] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 16(2): repealed, on 5 December 2006, by [section 9(2)][475] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 16(2): repealed, on 5 December 2006, by [section 9(2)][476] of the Electricity Amendment Act 2006 (2006 No 70).
     
     Section 16(3): amended, on 16 December 2013, by [section 22][454] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 16(4)(b): substituted, on 1 April 2010, by [section 9(3)][475] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 16(4)(b): substituted, on 1 April 2010, by [section 9(3)][476] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 16(6): added, on 5 December 2006, by [section 9(4)][475] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 16(6): added, on 5 December 2006, by [section 9(4)][476] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 16A Transfer of accident information
     
@@ -1831,13 +1835,13 @@ General
     
     (2) Where any person does interfere in any way with the scene of any accident to which [section 16][25] applies, the person shall as soon as practicable notify WorkSafe of the action the person has taken.
     
-    (3) Nothing in subsection (1) applies in respect of any person who is investigating the accident pursuant to the [Health and Safety in Employment Act 1992][476].
+    (3) Nothing in subsection (1) applies in respect of any person who is investigating the accident pursuant to the [Health and Safety in Employment Act 1992][477].
     
     Compare: 1982 No 27 s 14(4), (5)
     
     Section 17(1): amended, on 16 December 2013, by [section 22][454] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 17(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][477] of the Policing Act 2008 (2008 No 72).
+    Section 17(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][478] of the Policing Act 2008 (2008 No 72).
     
     Section 17(2): amended, on 16 December 2013, by [section 22][454] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
@@ -1897,9 +1901,9 @@ General
     
     Section 20 heading: amended, on 16 December 2013, by [section 22][454] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 20: amended, on 1 July 2013, by [section 413][466] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 20: amended, on 1 July 2013, by [section 413][467] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 20: amended, on 1 April 2010, by [section 11(1)][478] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 20: amended, on 1 April 2010, by [section 11(1)][479] of the Electricity Amendment Act 2006 (2006 No 70).
     
     Section 20(a): amended, on 16 December 2013, by [section 22][454] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
@@ -1915,7 +1919,7 @@ General
     
     Section 20(d): amended, on 16 December 2013, by [section 22][454] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 20(d): amended, on 1 April 2010, by [section 11(2)][478] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 20(d): amended, on 1 April 2010, by [section 11(2)][479] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 21 Privilege against self-incrimination
     
@@ -1928,7 +1932,7 @@ Powers and duties of electricity operators and other owners of electrical works
     
 *   Any existing works, lawfully fixed to or lawfully installed over or under any land that is not owned by the person that owns the works, shall continue to be fixed or installed until the owner of the works otherwise decides, and no person other than the owner of the works shall have any interest in any such works by reason only of having an interest in the land.
     
-    Compare: [1987 No 116][479] [s 20][480]; 1988 No 164 s 17
+    Compare: [1987 No 116][480] [s 20][481]; 1988 No 164 s 17
 
 ##### 22A Owners of land not responsible for maintenance
     
@@ -1936,7 +1940,7 @@ Powers and duties of electricity operators and other owners of electrical works
     
     (2) This section does not limit or override any new or existing legally binding agreement that provides for an owner or occupier of the land to be responsible for any maintenance.
     
-    Section 22A: inserted, on 8 August 2001, by [section 9][481] of the Electricity Amendment Act 2001 (2001 No 40).
+    Section 22A: inserted, on 8 August 2001, by [section 9][482] of the Electricity Amendment Act 2001 (2001 No 40).
 
 ##### 23 Rights of entry in respect of existing works
     
@@ -1946,7 +1950,7 @@ Powers and duties of electricity operators and other owners of electrical works
     
     *   (b) in the case of works the construction of which had not been completed before 1 January 1988 (in the case of works owned by the Corporation) or before 1 January 1993 (in the case of works owned by any other electricity operator), completing the works.
     
-    (2) A certificate signed by the owner of any existing works containing a statement that any specified works were constructed (in whole or in part) before 1 January 1988 (in relation to works owned by the Corporation) or before 1 January 1993 (in the case of works owned by any other person) under the authority of the Electricity Act 1968 (or any Act repealed by that Act) or the Electric Power Boards Act 1925 or the [Local Government Act 1974][482] or the [Public Works Act 1981][483] or any local or private Act shall be admissible in evidence in any proceedings and shall, in the absence of proof to the contrary, constitute proof of that statement.
+    (2) A certificate signed by the owner of any existing works containing a statement that any specified works were constructed (in whole or in part) before 1 January 1988 (in relation to works owned by the Corporation) or before 1 January 1993 (in the case of works owned by any other person) under the authority of the Electricity Act 1968 (or any Act repealed by that Act) or the Electric Power Boards Act 1925 or the [Local Government Act 1974][483] or the [Public Works Act 1981][484] or any local or private Act shall be admissible in evidence in any proceedings and shall, in the absence of proof to the contrary, constitute proof of that statement.
     
     (3) In this section, _maintenance_ includes---
         
@@ -1954,9 +1958,9 @@ Powers and duties of electricity operators and other owners of electrical works
     
     *   (b) the carrying out of any replacement or upgrade of existing works as long as the land will not be injuriously affected as a result of the replacement or upgrade.
     
-    Compare: [1987 No 116][479] [s 12][484]; 1988 No 164 s 14
+    Compare: [1987 No 116][480] [s 12][485]; 1988 No 164 s 14
     
-    Section 23(3): added, on 8 August 2001, by [section 10(1)][485] of the Electricity Amendment Act 2001 (2001 No 40).
+    Section 23(3): added, on 8 August 2001, by [section 10(1)][486] of the Electricity Amendment Act 2001 (2001 No 40).
 
 ##### 23A Line owner must give written notice of intention to maintain or complete existing works
     
@@ -1972,7 +1976,7 @@ Powers and duties of electricity operators and other owners of electrical works
     
     *   (d) the length of time that the owner of the works expects to be on the land.
     
-    Section 23A: inserted, on 8 August 2001, by [section 11(1)][486] of the Electricity Amendment Act 2001 (2001 No 40).
+    Section 23A: inserted, on 8 August 2001, by [section 11(1)][487] of the Electricity Amendment Act 2001 (2001 No 40).
 
 ##### 23B Line owner must give notice of intention to inspect or operate existing works
     
@@ -1980,7 +1984,7 @@ Powers and duties of electricity operators and other owners of electrical works
     
     (2) The notice may be given by telephone or in any other manner that the owner of the works thinks appropriate.
     
-    Section 23B: inserted, on 8 August 2001, by [section 11(1)][486] of the Electricity Amendment Act 2001 (2001 No 40).
+    Section 23B: inserted, on 8 August 2001, by [section 11(1)][487] of the Electricity Amendment Act 2001 (2001 No 40).
 
 ##### 23C Notice in emergencies
     
@@ -1992,7 +1996,7 @@ Powers and duties of electricity operators and other owners of electrical works
     
     (2) However, in either case, the owner of the existing works must give notice to the owner or occupier of the land as soon as practicable and to the extent that the circumstances permit (and no later than 5 working days after entry).
     
-    Section 23C: inserted, on 8 August 2001, by [section 11(1)][486] of the Electricity Amendment Act 2001 (2001 No 40).
+    Section 23C: inserted, on 8 August 2001, by [section 11(1)][487] of the Electricity Amendment Act 2001 (2001 No 40).
 
 ##### 23D Land owner may set reasonable conditions on line owner's entry
     
@@ -2004,13 +2008,13 @@ Powers and duties of electricity operators and other owners of electrical works
     
     *   (c) otherwise defeat the ability of the owner of the works to exercise effectively the powers in [section 23][35].
     
-    Section 23D: inserted, on 8 August 2001, by [section 11(1)][486] of the Electricity Amendment Act 2001 (2001 No 40).
+    Section 23D: inserted, on 8 August 2001, by [section 11(1)][487] of the Electricity Amendment Act 2001 (2001 No 40).
 
 ##### 23E Agreements preserved
     
 *   [Sections 23A to 23D][36] do not limit or override any new or existing agreement that is legally binding on the owner or occupier of the land and the owner of the works.
     
-    Section 23E: inserted, on 8 August 2001, by [section 11(1)][486] of the Electricity Amendment Act 2001 (2001 No 40).
+    Section 23E: inserted, on 8 August 2001, by [section 11(1)][487] of the Electricity Amendment Act 2001 (2001 No 40).
 
 ##### 23F Disputes about land access
     
@@ -2024,17 +2028,17 @@ Powers and duties of electricity operators and other owners of electrical works
     
     (5) The Environment Court must give not less than 15 working days' notice of any time and place so appointed to the objector and to the other party to the dispute.
     
-    (6) The Environment Court has power to make a declaration as if the proceeding had been brought under [sections 310 to 313][487] of the Resource Management Act 1991\.
+    (6) The Environment Court has power to make a declaration as if the proceeding had been brought under [sections 310 to 313][488] of the Resource Management Act 1991\.
     
     (7) The findings of the Environment Court are binding on the objector and the other party to the dispute.
     
     (8) The Environment Court may award those costs that it considers just either in favour of or against either party.
     
-    (9) Subject to [sections 299 to 308][488] of the Resource Management Act 1991, no appeal lies from any declaration of the Environment Court under this section.
+    (9) Subject to [sections 299 to 308][489] of the Resource Management Act 1991, no appeal lies from any declaration of the Environment Court under this section.
     
-    Compare: [1981 No 35][483] [s 24][489]
+    Compare: [1981 No 35][484] [s 24][490]
     
-    Section 23F: inserted, on 8 August 2001, by [section 12][490] of the Electricity Amendment Act 2001 (2001 No 40).
+    Section 23F: inserted, on 8 August 2001, by [section 12][491] of the Electricity Amendment Act 2001 (2001 No 40).
 
 ##### 24 Construction or maintenance of works on roads
     
@@ -2070,21 +2074,21 @@ Powers and duties of electricity operators and other owners of electrical works
     
     *   (c) any owner referred to in [section 25(1)(b)][44].
     
-    (5) Subsection (1) does not apply to the construction of works that are intended to convey, or are associated with, electricity at a voltage of more than 110 KV and a capacity of more than 100 MVA.
+    (5) Subsection (1) does not apply to the construction of works that are intended to convey, or are associated with, electricity at a voltage of more than 110 kV and a capacity of more than 100 MVA.
     
     (6) In subsection (5), _works_ means works located at or above ground level in, on, along, over, or across a road, but does not include works suspended above a road.
     
-    Compare: [1987 No 116][479] [s 15][491]; 1988 No 164 s 16
+    Compare: [1987 No 116][480] [s 15][492]; 1988 No 164 s 16
     
-    Section 24(1): amended, on 9 August 2005, by [section 3(1)][492] of the Electricity Amendment Act 2005 (2005 No 88).
+    Section 24(1): amended, on 9 August 2005, by [section 3(1)][493] of the Electricity Amendment Act 2005 (2005 No 88).
     
-    Section 24(2): substituted, on 6 August 2010, by [section 14][493] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
+    Section 24(2): substituted, on 6 August 2010, by [section 14][494] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
     
-    Section 24(4): substituted, on 9 August 2005, by [section 3(2)][492] of the Electricity Amendment Act 2005 (2005 No 88).
+    Section 24(4): substituted, on 9 August 2005, by [section 3(2)][493] of the Electricity Amendment Act 2005 (2005 No 88).
     
-    Section 24(5): added, on 9 August 2005, by [section 3(2)][492] of the Electricity Amendment Act 2005 (2005 No 88).
+    Section 24(5): added, on 9 August 2005, by [section 3(2)][493] of the Electricity Amendment Act 2005 (2005 No 88).
     
-    Section 24(6): added, on 9 August 2005, by [section 3(2)][492] of the Electricity Amendment Act 2005 (2005 No 88).
+    Section 24(6): added, on 9 August 2005, by [section 3(2)][493] of the Electricity Amendment Act 2005 (2005 No 88).
 
 ##### 24A Criteria for setting reasonable conditions
     
@@ -2112,9 +2116,9 @@ Powers and duties of electricity operators and other owners of electrical works
     
     (4) If the cost to the network operator of complying with a condition referred to in subsection (3) is higher than it would have been if there were not a requirement to increase amenity values, then the person imposing the condition must pay that increase in cost.
     
-    Compare: 2001 No 103 [s 119][494]
+    Compare: 2001 No 103 [s 119][495]
     
-    Section 24A: inserted, on 6 August 2010, by [section 15][495] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
+    Section 24A: inserted, on 6 August 2010, by [section 15][496] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
 
 ##### 25 Notice to be given before work undertaken
     
@@ -2132,7 +2136,7 @@ Powers and duties of electricity operators and other owners of electrical works
     
     (5) Where any such work is rendered urgent and necessary by any defective equipment, or other emergency, the electricity operator shall be excused from complying with the requirements of subsection (1) before commencing the work, but shall give the information required by subsection (2) as soon as practicable thereafter.
     
-    Compare: [1987 No 116][479] [s 15A][496]; 1988 No 164 s 16
+    Compare: [1987 No 116][480] [s 15A][497]; 1988 No 164 s 16
 
 ##### 26 Offence
     
@@ -2140,9 +2144,9 @@ Powers and duties of electricity operators and other owners of electrical works
     
     (2) In addition to any fine imposed pursuant to subsection (1), the court may make such order relating to compensation as it thinks fit.
     
-    Compare: [1987 No 116][479] [s 15B][497]; 1988 No 164 s 16
+    Compare: [1987 No 116][480] [s 15B][498]; 1988 No 164 s 16
     
-    Section 26(1): amended, on 1 July 2013, by [section 413][466] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 26(1): amended, on 1 July 2013, by [section 413][467] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 27 Appeals in relation to conditions imposed
     
@@ -2154,7 +2158,7 @@ Powers and duties of electricity operators and other owners of electrical works
     
     (2) Every such appeal shall be made by giving notice of appeal within 40 working days after the date of notification of the conditions imposed, or within such further period as the court may allow on application made to it for that purpose either before or after the expiration of those 40 working days.
     
-    Compare: [1987 No 116][479] [s 15C][498]; 1988 No 164 s 16
+    Compare: [1987 No 116][480] [s 15C][499]; 1988 No 164 s 16
 
 ##### 28 Determination of appeals
     
@@ -2162,7 +2166,7 @@ Powers and duties of electricity operators and other owners of electrical works
     
     (2) Subject to [section 29][48], the decision of a District Court in the determination of an appeal under [section 27][46] shall be final.
     
-    Compare: [1987 No 116][479] [s 15D][499]; 1988 No 164 s 16
+    Compare: [1987 No 116][480] [s 15D][500]; 1988 No 164 s 16
 
 ##### 29 Appeal on question of law
     
@@ -2170,21 +2174,21 @@ Powers and duties of electricity operators and other owners of electrical works
     
     (2) Subject to subsection (3), every appeal under this section shall be heard and determined in accordance with rules of court.
     
-    (3) [Subpart 8][465] of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section.
+    (3) [Subpart 8][466] of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section.
     
-    Section 29(1): amended, on 1 July 2013, by [section 413][466] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 29(1): amended, on 1 July 2013, by [section 413][467] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 29(3): replaced, on 1 July 2013, by [section 413][466] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 29(3): replaced, on 1 July 2013, by [section 413][467] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 30 Charging for access to road reserve
     
 *   (1) Notwithstanding anything in this Act or in any other enactment, no local authority or other body or person having jurisdiction over any road shall require the payment, by or on behalf of any electricity operator, of any amount of or in the nature of rent in respect of any works constructed in, on, along, over, across, or under that road.
     
-    (2) Nothing in subsection (1) applies in respect of a rate that is assessed under the [Local Government (Rating) Act 2002][500].
+    (2) Nothing in subsection (1) applies in respect of a rate that is assessed under the [Local Government (Rating) Act 2002][501].
     
     (3) In this section, the term _road_ has the meaning given to it in [section 2][5], but also includes a motorway within the meaning of the [Government Roading Powers Act 1989][434].
     
-    Section 30(2): substituted, on 1 July 2003, by [section 137(1)][501] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 30(2): substituted, on 1 July 2003, by [section 137(1)][502] of the Local Government (Rating) Act 2002 (2002 No 6).
     
     Section 30(3): amended, on 1 August 2008, by [section 50(1)][455] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
@@ -2222,9 +2226,9 @@ Powers and duties of electricity operators and other owners of electrical works
     
     Compare: 1987 No 116 s 11; 1988 No 164 s 13
     
-    Section 31(6): substituted, on 9 August 2005, by [section 4][502] of the Electricity Amendment Act 2005 (2005 No 88).
+    Section 31(6): substituted, on 9 August 2005, by [section 4][503] of the Electricity Amendment Act 2005 (2005 No 88).
     
-    Section 31(7): added, on 9 August 2005, by [section 4][502] of the Electricity Amendment Act 2005 (2005 No 88).
+    Section 31(7): added, on 9 August 2005, by [section 4][503] of the Electricity Amendment Act 2005 (2005 No 88).
 
 ##### 32 Local authority, etc, may require works to be moved
     
@@ -2250,9 +2254,9 @@ Powers and duties of electricity operators and other owners of electrical works
         
         *   (iii) the Electric Power Boards Act 1925; or
         
-        *   (iv) the [Local Government Act 1974][482] or the [Local Government Act 2002][428]; or
+        *   (iv) the [Local Government Act 1974][483] or the [Local Government Act 2002][428]; or
         
-        *   (v) the [Public Works Act 1981][483]; or
+        *   (v) the [Public Works Act 1981][484]; or
         
         *   (vi) any local or private Act; or
         
@@ -2298,19 +2302,19 @@ Powers and duties of electricity operators and other owners of electrical works
         
     *   (a) by agreement between the person liable for the payment and the person to whom it is payable; or
     
-    *   (b) failing such agreement, by arbitration under the [Arbitration Act 1996][503], with 1 arbitrator to be appointed by each party and an umpire to be appointed by those arbitrators before entering upon their reference.
+    *   (b) failing such agreement, by arbitration under the [Arbitration Act 1996][504], with 1 arbitrator to be appointed by each party and an umpire to be appointed by those arbitrators before entering upon their reference.
     
     Compare: 1982 No 27 s 48(3), (5)
     
     Section 33(2)(a)(iv): substituted, on 1 July 2003, by [section 262][453] of the Local Government Act 2002 (2002 No 84).
     
-    Section 33(4): amended, on 6 August 2010, by [section 16][504] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
+    Section 33(4): amended, on 6 August 2010, by [section 16][505] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
     
-    Section 33(6)(b): amended, on 1 July 1997, pursuant to [section 20][505] of the Arbitration Act 1996 (1996 No 99).
+    Section 33(6)(b): amended, on 1 July 1997, pursuant to [section 20][506] of the Arbitration Act 1996 (1996 No 99).
 
 ##### 34 Government Roading Powers Act 1989 not to apply
     
-*   [Sections 32][51] and [33][52] shall apply notwithstanding anything to the contrary in [section 54][506] of the Government Roading Powers Act 1989\.
+*   [Sections 32][51] and [33][52] shall apply notwithstanding anything to the contrary in [section 54][507] of the Government Roading Powers Act 1989\.
     
     Section 34 heading: amended, on 1 August 2008, by [section 50(1)][455] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
@@ -2431,11 +2435,11 @@ Electrical codes of practice
     
     (5) If any regulation in force under [section 169][307] requires compliance with any electrical code of practice that has been amended under this section, that regulation shall, while the emergency amendment remains in force, be deemed to require compliance with the code as so amended notwithstanding the fact that the regulation was made before that amendment to the code came into force.
     
-    (6) Despite [section 73][507] of the Crown Entities Act 2004, WorkSafe must not delegate to any person the power conferred by this section.
+    (6) Despite [section 73][508] of the Crown Entities Act 2004, WorkSafe must not delegate to any person the power conferred by this section.
     
     (7) Subsection (8) applies if, pursuant to [section 5A(3) and (4)][13], the Secretary may exercise the power conferred by this section in relation to a matter specified in a _Gazette_ notice under section 5A(2).
     
-    (8) Despite [section 41][508] of the State Sector Act 1988, the Secretary must not delegate to any person the power conferred by this section.
+    (8) Despite [section 41][509] of the State Sector Act 1988, the Secretary must not delegate to any person the power conferred by this section.
     
     Compare: 1968 No 125 s 24D; 1983 No 123 s 6
     
@@ -2502,61 +2506,61 @@ Rural electrical reticulation
     
 *   \[Repealed\]
     
-    Section 44: repealed, on 1 April 1997, by [section 55][509].
+    Section 44: repealed, on 1 April 1997, by [section 55][510].
 
 ##### 45 Functions of Council
     
 *   \[Repealed\]
     
-    Section 45: repealed, on 1 April 1997, by [section 55][509].
+    Section 45: repealed, on 1 April 1997, by [section 55][510].
 
 ##### 46 Council to comply with government policies
     
 *   \[Repealed\]
     
-    Section 46: repealed, on 1 April 1997, by [section 55][509].
+    Section 46: repealed, on 1 April 1997, by [section 55][510].
 
 ##### 47 Further provisions applying to Council
     
 *   \[Repealed\]
     
-    Section 47: repealed, on 1 April 1997, by [section 55][509].
+    Section 47: repealed, on 1 April 1997, by [section 55][510].
 
 ##### 48 Levies
     
 *   \[Repealed\]
     
-    Section 48: repealed, on 1 April 1997, by [section 55][509].
+    Section 48: repealed, on 1 April 1997, by [section 55][510].
 
 ##### 49 Interest on levies
     
 *   \[Repealed\]
     
-    Section 49: repealed, on 1 April 1997, by [section 55][509].
+    Section 49: repealed, on 1 April 1997, by [section 55][510].
 
 ##### 50 Application of levies
     
 *   \[Repealed\]
     
-    Section 50: repealed, on 1 April 1997, by [section 55][509].
+    Section 50: repealed, on 1 April 1997, by [section 55][510].
 
 ##### 51 Transitional provision relating to subsidies
     
 *   \[Repealed\]
     
-    Section 51: repealed, on 1 April 1997, by [section 55][509].
+    Section 51: repealed, on 1 April 1997, by [section 55][510].
 
 ##### 52 Transitional provision relating to membership of Council
     
 *   \[Repealed\]
     
-    Section 52: repealed, on 1 April 1997, by [section 55][509].
+    Section 52: repealed, on 1 April 1997, by [section 55][510].
 
 ##### 53 Council to wind up operations before dissolution
     
 *   \[Repealed\]
     
-    Section 53: repealed, on 1 April 1997, by [section 55][509].
+    Section 53: repealed, on 1 April 1997, by [section 55][510].
 
 ##### 54 Dissolution of Council
     
@@ -2583,7 +2587,7 @@ Miscellaneous provisions relating to supply of electricity
     
 *   (1) Every person having any right, title, estate, or interest in any land or property injuriously affected by the exercise from time to time of any powers conferred by [Part 2][7] or [Part 3][32] on WorkSafe or an electricity operator or any other owner of existing works shall be entitled to full compensation for all loss, injury, or damage suffered by that person.
     
-    (2) In default of agreement between the parties, claims for compensation under this section shall be made and determined within the time and in the manner provided by the [Public Works Act 1981][483], and the provisions of that Act shall, as far as they are applicable and with all necessary modifications, apply with respect to claims under this section.
+    (2) In default of agreement between the parties, claims for compensation under this section shall be made and determined within the time and in the manner provided by the [Public Works Act 1981][484], and the provisions of that Act shall, as far as they are applicable and with all necessary modifications, apply with respect to claims under this section.
     
     (3) Notwithstanding the provisions of any enactment or any rule of law, the exercise of any power conferred by this Act on WorkSafe shall not be curtailed, suspended, or delayed by reason of the fact that any claim for compensation under this section has been made but not determined.
     
@@ -2595,7 +2599,7 @@ Miscellaneous provisions relating to supply of electricity
 
 ##### 58 Compensation for trees and vegetation removed
     
-*   Where any tree or part of a tree or any vegetation or part of any vegetation is removed pursuant to any regulations made under [section 169][307], compensation, to be assessed in the manner prescribed by the [Public Works Act 1981][483], shall be payable if the tree or vegetation was growing on the land before the construction of the works or electrical installation but not in any other case.
+*   Where any tree or part of a tree or any vegetation or part of any vegetation is removed pursuant to any regulations made under [section 169][307], compensation, to be assessed in the manner prescribed by the [Public Works Act 1981][484], shall be payable if the tree or vegetation was growing on the land before the construction of the works or electrical installation but not in any other case.
     
     Compare: 1968 No 125 s 19B; 1986 No 2 s 4
 
@@ -2633,7 +2637,7 @@ Miscellaneous provisions relating to supply of electricity
     
     *   (b) increasing the capacity that applies under subsection (2)(b).
     
-    Section 61A: inserted, on 1 April 2010, by [section 12][510] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 61A: inserted, on 1 April 2010, by [section 12][511] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 62 Continuance of supply
     
@@ -2646,206 +2650,206 @@ Restriction on new fossil-fuelled thermal electricity generating capacity
 
 \[Repealed\]
     
-*   Part 6A: repealed, on 23 December 2008, by [section 4][511] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
+*   Part 6A: repealed, on 23 December 2008, by [section 4][512] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
 
 #### Preliminary provisions
     
-*   Heading: repealed, on 23 December 2008, by [section 4][511] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
+*   Heading: repealed, on 23 December 2008, by [section 4][512] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
 
 ##### 62A Purpose of this Part
     
 *   \[Repealed\]
     
-    Section 62A: repealed, on 23 December 2008, by [section 4][511] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
+    Section 62A: repealed, on 23 December 2008, by [section 4][512] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
 
 ##### 62B Expiry of this Part
     
 *   \[Repealed\]
     
-    Section 62B: repealed, on 23 December 2008, by [section 4][511] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
+    Section 62B: repealed, on 23 December 2008, by [section 4][512] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
 
 ##### 62C Interpretation
     
 *   \[Repealed\]
     
-    Section 62C: repealed, on 23 December 2008, by [section 4][511] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
+    Section 62C: repealed, on 23 December 2008, by [section 4][512] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
 
 #### Restriction on connection and operation of specified generation plant
     
-*   Heading: repealed, on 23 December 2008, by [section 4][511] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
+*   Heading: repealed, on 23 December 2008, by [section 4][512] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
 
 ##### 62D Restriction on connection and operation of specified generation plant
     
 *   \[Repealed\]
     
-    Section 62D: repealed, on 23 December 2008, by [section 4][511] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
+    Section 62D: repealed, on 23 December 2008, by [section 4][512] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
 
 ##### 62E Additional penalty for breach involving commercial gain
     
 *   \[Repealed\]
     
-    Section 62E: repealed, on 23 December 2008, by [section 4][511] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
+    Section 62E: repealed, on 23 December 2008, by [section 4][512] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
 
 #### Exemptions
     
-*   Heading: repealed, on 23 December 2008, by [section 4][511] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
+*   Heading: repealed, on 23 December 2008, by [section 4][512] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
 
 ##### 62F Minister of Energy may grant exemption
     
 *   \[Repealed\]
     
-    Section 62F: repealed, on 23 December 2008, by [section 4][511] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
+    Section 62F: repealed, on 23 December 2008, by [section 4][512] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
 
 ##### 62G Minister of Energy may only grant exemption if satisfied of certain matters
     
 *   \[Repealed\]
     
-    Section 62G: repealed, on 23 December 2008, by [section 4][511] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
+    Section 62G: repealed, on 23 December 2008, by [section 4][512] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
 
 ##### 62H Grounds and terms and conditions of exemption
     
 *   \[Repealed\]
     
-    Section 62H: repealed, on 23 December 2008, by [section 4][511] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
+    Section 62H: repealed, on 23 December 2008, by [section 4][512] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
 
 ##### 62I Public consultation on recommendations
     
 *   \[Repealed\]
     
-    Section 62I: repealed, on 23 December 2008, by [section 4][511] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
+    Section 62I: repealed, on 23 December 2008, by [section 4][512] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
 
 ##### 62J Publication of exemption and reasons
     
 *   \[Repealed\]
     
-    Section 62J: repealed, on 23 December 2008, by [section 4][511] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
+    Section 62J: repealed, on 23 December 2008, by [section 4][512] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
 
 ##### 62K Revocation of exemption
     
 *   \[Repealed\]
     
-    Section 62K: repealed, on 23 December 2008, by [section 4][511] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
+    Section 62K: repealed, on 23 December 2008, by [section 4][512] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
 
 ##### 62L Commission may grant temporary emergency exemption
     
 *   \[Repealed\]
     
-    Section 62L: repealed, on 23 December 2008, by [section 4][511] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
+    Section 62L: repealed, on 23 December 2008, by [section 4][512] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
 
 #### Enforcement
     
-*   Heading: repealed, on 23 December 2008, by [section 4][511] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
+*   Heading: repealed, on 23 December 2008, by [section 4][512] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
 
 ##### 62M Commission must monitor compliance
     
 *   \[Repealed\]
     
-    Section 62M: repealed, on 23 December 2008, by [section 4][511] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
+    Section 62M: repealed, on 23 December 2008, by [section 4][512] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
 
 #### Commission may use information collected or provided under regulations or rules
     
-*   Heading: repealed, on 23 December 2008, by [section 4][511] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
+*   Heading: repealed, on 23 December 2008, by [section 4][512] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
 
 ##### 62N Commission may use information collected or provided under regulations or rules
     
 *   \[Repealed\]
     
-    Section 62N: repealed, on 23 December 2008, by [section 4][511] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
+    Section 62N: repealed, on 23 December 2008, by [section 4][512] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
 
 #### Regulations
     
-*   Heading: repealed, on 23 December 2008, by [section 4][511] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
+*   Heading: repealed, on 23 December 2008, by [section 4][512] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
 
 ##### 62O Regulations for purposes of this Part
     
 *   \[Repealed\]
     
-    Section 62O: repealed, on 23 December 2008, by [section 4][511] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
+    Section 62O: repealed, on 23 December 2008, by [section 4][512] of the Electricity (Renewable Preference) Repeal Act 2008 (2008 No 111).
 
 ## Part 7  
 Price restraint
 
 \[Repealed\]
     
-*   Part 7: repealed, on 1 April 1997, by [section 67(a)][512].
+*   Part 7: repealed, on 1 April 1997, by [section 67(a)][513].
 
 ##### 63 Regulations relating to price of electricity
     
 *   \[Repealed\]
     
-    Section 63: repealed, on 1 April 1997, by [section 67(a)][512].
+    Section 63: repealed, on 1 April 1997, by [section 67(a)][513].
 
 ##### 64 Definition of domestic premises
     
 *   \[Repealed\]
     
-    Section 64: repealed, on 1 April 1997, by [section 67(a)][512].
+    Section 64: repealed, on 1 April 1997, by [section 67(a)][513].
 
 ##### 65 Offences
     
 *   \[Repealed\]
     
-    Section 65: repealed, on 1 April 1997, by [section 67(a)][512].
+    Section 65: repealed, on 1 April 1997, by [section 67(a)][513].
 
 ##### 66 Other Acts relating to price control not affected
     
 *   \[Repealed\]
     
-    Section 66: repealed, on 1 April 1997, by [section 67(a)][512].
+    Section 66: repealed, on 1 April 1997, by [section 67(a)][513].
 
 ##### 67 Expiry of this Part
     
 *   \[Repealed\]
     
-    Section 67: repealed, on 1 April 1997, by [section 67(a)][512].
+    Section 67: repealed, on 1 April 1997, by [section 67(a)][513].
 
 ## Part 8  
 Licensing of electricity suppliers
 
 \[Repealed\]
     
-*   Part 8: repealed, on 1 April 1994, by [section 73][513].
+*   Part 8: repealed, on 1 April 1994, by [section 73][514].
 
 ##### 68 Definition of consumer for purposes of this Part
     
 *   \[Repealed\]
     
-    Section 68: repealed, on 1 April 1994, by [section 73][513].
+    Section 68: repealed, on 1 April 1994, by [section 73][514].
 
 ##### 69 Licence to supply electricity
     
 *   \[Repealed\]
     
-    Section 69: repealed, on 1 April 1994, by [section 73][513].
+    Section 69: repealed, on 1 April 1994, by [section 73][514].
 
 ##### 70 Offence
     
 *   \[Repealed\]
     
-    Section 70: repealed, on 1 April 1994, by [section 73][513].
+    Section 70: repealed, on 1 April 1994, by [section 73][514].
 
 ##### 71 Supply of electricity to consumers outside supply area
     
 *   \[Repealed\]
     
-    Section 71: repealed, on 1 April 1994, by [section 73][513].
+    Section 71: repealed, on 1 April 1994, by [section 73][514].
 
 ##### 72 Duty to supply
     
 *   \[Repealed\]
     
-    Section 72: repealed, on 1 April 1994, by [section 73][513].
+    Section 72: repealed, on 1 April 1994, by [section 73][514].
 
 ##### 73 Expiry of this Part
     
 *   \[Repealed\]
     
-    Section 73: repealed, on 1 April 1994, by [section 73][513].
+    Section 73: repealed, on 1 April 1994, by [section 73][514].
 
 ## Part 9  
 Restrictions on electrical work
     
-*   Part 9: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+*   Part 9: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 74 Restrictions on doing or assisting with prescribed electrical work
     
@@ -2867,11 +2871,11 @@ Restrictions on electrical work
     
     (6) For the purposes of this Part and [Part 10][136], _regulations_ means regulations made under [section 169][307].
     
-    Section 74: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 74: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 #### Exemptions
     
-*   Heading: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+*   Heading: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 75 Board may exempt person or class of persons from section 74
     
@@ -2889,11 +2893,11 @@ Restrictions on electrical work
     
     *   (d) the work is carried out in a competent and safe manner.
     
-    (4) A notice published under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][515] and must be presented to the House of Representatives under [section 41][516] of that Act.
+    (4) A notice published under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][516] and must be presented to the House of Representatives under [section 41][517] of that Act.
     
-    Section 75: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 75: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 75(4): replaced, on 5 August 2013, by [section 77(3)][517] of the Legislation Act 2012 (2012 No 119).
+    Section 75(4): replaced, on 5 August 2013, by [section 77(3)][518] of the Legislation Act 2012 (2012 No 119).
 
 ##### 76 Exemption for work done under supervision
     
@@ -2913,7 +2917,7 @@ Restrictions on electrical work
         
         
     
-    Section 76: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 76: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 77 Exemption for trainees
     
@@ -2933,7 +2937,7 @@ Restrictions on electrical work
     
     (3) This section does not prevent a trainee from doing, or assisting in doing, work under [section 76][126] (which allows work to be done under supervision).
     
-    Section 77: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 77: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 78 Board may issue limited certificate for purposes of section 77
     
@@ -2953,7 +2957,7 @@ Restrictions on electrical work
     
     *   (b) following the determination of an application for registration as a registered person or for a practising licence.
     
-    Section 78: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 78: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 79 Exemption for domestic electrical wiring work
     
@@ -2975,7 +2979,7 @@ Restrictions on electrical work
     
     (3) For the purposes of subsection (1), _owner_, in relation to any premises, means the person who (whether alone or as a joint tenant or tenant in common) would for the time being be entitled to receive the rack rent of the premises on his or her own account if the premises were let to a tenant at a rack rent.
     
-    Section 79: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 79: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 80 Exemption for maintenance of domestic appliances
     
@@ -3013,11 +3017,11 @@ Restrictions on electrical work
     
     *   (g) a grandchild of that person.
     
-    Section 80: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 80: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 #### Board may cancel application of exemption
     
-*   Heading: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+*   Heading: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 81 Board may cancel application of exemption to any person
     
@@ -3031,11 +3035,11 @@ Restrictions on electrical work
     
     *   (b) given the person a reasonable opportunity to make written submissions and be heard on the question, either personally or by his or her representative.
     
-    Section 81: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 81: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 #### Testing, certification, and inspection
     
-*   Heading: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+*   Heading: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 82 Testing, certification, and inspection
     
@@ -3047,7 +3051,7 @@ Restrictions on electrical work
     
     (4) This section does not prevent the connection, to any power supply, of any works, electrical installation, or electrical appliance, or the supply of electricity to any works or electrical installation, if that connection or supply is solely for the purposes of carrying out any testing, inspection, or certification required by any regulations.
     
-    Section 82: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 82: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 83 Power of entry
     
@@ -3067,20 +3071,20 @@ Restrictions on electrical work
     
     *   (b) evidence of that person's identity.
     
-    Section 83: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 83: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ## Part 10  
 Registration and licensing of electrical workers and employer licences
     
-*   Part 10: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+*   Part 10: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ### Subpart 1---Electrical worker registration and licensing
     
-*   Subpart 1 heading: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+*   Subpart 1 heading: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 #### Classes of registration
     
-*   Heading: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+*   Heading: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 84 Classes of registration may be designated by Board
     
@@ -3100,7 +3104,7 @@ Registration and licensing of electrical workers and employer licences
     
     (3) In specifying the work that may be carried out by registered persons who hold current practising licences, the Board may impose limitations on the circumstances in which a registered person may do, or assist in doing, that work.
     
-    Section 84: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 84: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 85 Board may prescribe other registration and licensing matters
     
@@ -3140,7 +3144,7 @@ Registration and licensing of electrical workers and employer licences
     
     (3) The Board may make arrangements with the appropriate authorities controlling the registration, licensing, or recognition of electrical workers outside New Zealand for the reciprocal recognition of registration, licences, certificates, or other evidence of proficiency in electrical work.
     
-    Section 85: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 85: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 86 Minimum standards for registration
     
@@ -3160,7 +3164,7 @@ Registration and licensing of electrical workers and employer licences
     
     (2) However, the minimum standards for registration prescribed under [section 85][140] may require a person to pass a specified examination or other assessment set by the Board only if the Board is satisfied that the person does not have a degree, diploma, or certificate of a stated kind recognised by the Board under subsection (1)(a).
     
-    Section 86: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 86: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 87 Principles guiding prescribing of registration and licensing matters
     
@@ -3182,7 +3186,7 @@ Registration and licensing of electrical workers and employer licences
     
     *   (c) the matters may not impose undue costs on electrical workers or on the public.
     
-    Section 87: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 87: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 88 Board must consult before publishing notices
     
@@ -3200,7 +3204,7 @@ Registration and licensing of electrical workers and employer licences
     
     (2) A failure to comply with subsection (1) does not affect the validity of any notice published under [section 84][139] or [85(1)(a) to (e)][140].
     
-    Section 88: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 88: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 89 Notices published under sections 84 and 85 must be approved by Minister
     
@@ -3222,7 +3226,7 @@ Registration and licensing of electrical workers and employer licences
     
     (4) A proposed notice may be published under [section 84][139] or [85][140] after it is approved by the Minister.
     
-    Section 89: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 89: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 90 Other provisions relating to notices under sections 84 and 85
     
@@ -3238,15 +3242,15 @@ Registration and licensing of electrical workers and employer licences
         
         
     
-    (2) Each notice published under [section 84][139] or [85][140] is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][515] and must be presented to the House of Representatives under [section 41][516] of that Act.
+    (2) Each notice published under [section 84][139] or [85][140] is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][516] and must be presented to the House of Representatives under [section 41][517] of that Act.
     
-    Section 90: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 90: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 90(2): replaced, on 5 August 2013, by [section 77(3)][517] of the Legislation Act 2012 (2012 No 119).
+    Section 90(2): replaced, on 5 August 2013, by [section 77(3)][518] of the Legislation Act 2012 (2012 No 119).
 
 #### How to become registered
     
-*   Heading: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+*   Heading: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 91 Entitlement to registration
     
@@ -3262,7 +3266,7 @@ Registration and licensing of electrical workers and employer licences
     
     *   (e) that he or she has paid the prescribed fee (if any).
     
-    Section 91: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 91: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 92 Applications for registration
     
@@ -3284,7 +3288,7 @@ Registration and licensing of electrical workers and employer licences
     
     (2) The Registrar must refer any application received by the Registrar under this section to the Board for consideration under [section 95][151].
     
-    Section 92: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 92: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 93 Board may issue provisional licence pending consideration of application
     
@@ -3294,7 +3298,7 @@ Registration and licensing of electrical workers and employer licences
     
     (3) A provisional licence authorises the holder, while the licence is in force pending the consideration of his or her application for registration or a practising licence (or both) under this subpart, to do, or assist in doing, the work that is specified in the licence.
     
-    Section 93: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 93: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 94 Duration of provisional licence
     
@@ -3310,7 +3314,7 @@ Registration and licensing of electrical workers and employer licences
     
     *   (c) following the determination of an application for registration or a practising licence under this subpart.
     
-    Section 94: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 94: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 95 Board to consider application
     
@@ -3330,7 +3334,7 @@ Registration and licensing of electrical workers and employer licences
         
         
     
-    Section 95: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 95: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 96 Board to register applicant or decline application
     
@@ -3352,7 +3356,7 @@ Registration and licensing of electrical workers and employer licences
     
     (3) As soon as practicable after receiving the Board's direction under subsection (1), the Registrar must enter the details of the registration in the register.
     
-    Section 96: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 96: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 97 Registration subject to terms and conditions
     
@@ -3366,11 +3370,11 @@ Registration and licensing of electrical workers and employer licences
     
     (3) Subsection (1)(a) is subject to subsection (2) and [section 107][166].
     
-    Section 97: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 97: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 #### How to become licensed
     
-*   Heading: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+*   Heading: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 98 Practising licence required
     
@@ -3382,7 +3386,7 @@ Registration and licensing of electrical workers and employer licences
     
     (4) Subsection (3) is subject to the terms and conditions imposed under [section 103][160] and to any regulations.
     
-    Section 98: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 98: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 99 Entitlement to practising licence
     
@@ -3398,7 +3402,7 @@ Registration and licensing of electrical workers and employer licences
     
     *   (e) that he or she has paid the prescribed fee (if any).
     
-    Section 99: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 99: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 100 Applications for practising licence
     
@@ -3420,7 +3424,7 @@ Registration and licensing of electrical workers and employer licences
     
     (2) The Registrar must refer any application received by the Registrar under this section to the Board for consideration under [section 101][158].
     
-    Section 100: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 100: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 101 Board to consider application
     
@@ -3440,7 +3444,7 @@ Registration and licensing of electrical workers and employer licences
         
         
     
-    Section 101: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 101: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 102 Board to issue practising licence or decline application
     
@@ -3460,7 +3464,7 @@ Registration and licensing of electrical workers and employer licences
     
     (3) As soon as practicable after receiving the Board's direction under subsection (1), the Registrar must enter the details of the practising licence in the register.
     
-    Section 102: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 102: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 103 Practising licence subject to terms and conditions
     
@@ -3484,11 +3488,11 @@ Registration and licensing of electrical workers and employer licences
     
     (5) Subsection (1)(a) is subject to subsection (4) and [section 107][166].
     
-    Section 103: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 103: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 #### Duration and renewal of practising licence
     
-*   Heading: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+*   Heading: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 104 Duration of practising licence
     
@@ -3498,7 +3502,7 @@ Registration and licensing of electrical workers and employer licences
     
     (3) A practising licence continues in force until the close of the date of its expiry unless sooner suspended or cancelled under this Act.
     
-    Section 104: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 104: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 105 Applications for renewal of practising licence
     
@@ -3524,7 +3528,7 @@ Registration and licensing of electrical workers and employer licences
     
     (3) If an application for the renewal of a practising licence is made before the licence's date of expiry but the licence has not been renewed before that date, the licence continues in force until the application is determined.
     
-    Section 105: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 105: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 106 Renewal of practising licence
     
@@ -3560,11 +3564,11 @@ Registration and licensing of electrical workers and employer licences
     
     (6) Despite subsection (1), if any fee or other money payable to the Board under this Act by the registered person has not been paid, the Board may refuse to renew that person's practising licence until that fee or other money is paid.
     
-    Section 106: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 106: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 #### Exemptions from registration and practising licence requirements and conditions
     
-*   Heading: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+*   Heading: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 107 Board may grant exemptions from registration and practising licence requirements and conditions
     
@@ -3588,15 +3592,15 @@ Registration and licensing of electrical workers and employer licences
     
     (2) The Board may grant an exemption subject to any terms and conditions that it thinks fit.
     
-    (3) Each notice published in the _Gazette_ under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][515] and must be presented to the House of Representatives under [section 41][516] of that Act.
+    (3) Each notice published in the _Gazette_ under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][516] and must be presented to the House of Representatives under [section 41][517] of that Act.
     
-    Section 107: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 107: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 107(3): replaced, on 5 August 2013, by [section 77(3)][517] of the Legislation Act 2012 (2012 No 119).
+    Section 107(3): replaced, on 5 August 2013, by [section 77(3)][518] of the Legislation Act 2012 (2012 No 119).
 
 #### Competence
     
-*   Heading: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+*   Heading: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 108 Competence programmes
     
@@ -3636,7 +3640,7 @@ Registration and licensing of electrical workers and employer licences
     
     (6) The Board may exempt any person or class of persons from all or any of the requirements of a competence programme.
     
-    Section 108: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 108: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 109 Unsatisfactory results of competence programme
     
@@ -3660,11 +3664,11 @@ Registration and licensing of electrical workers and employer licences
     
     (5) Any order made under subsection (1)(a) or (b) remains in effect until the time that the person concerned has satisfied all the requirements of the competence programme, and for that purpose the Board may extend the period within which the person is required to satisfy those requirements.
     
-    Section 109: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 109: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 #### Cancellation and suspension
     
-*   Heading: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+*   Heading: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 110 Cancellation and suspension generally
     
@@ -3708,7 +3712,7 @@ Registration and licensing of electrical workers and employer licences
     
     (5) If a person is registered under this Part in respect of more than 1 class of registration, the Board may exercise its powers to cancel or suspend registration or a practising licence under this Act in respect of each of those classes or 1 or more of those classes as the Board thinks fit.
     
-    Section 110: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 110: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 111 Effect of suspension
     
@@ -3736,7 +3740,7 @@ Registration and licensing of electrical workers and employer licences
     
     (6) Subsection (3) does not prevent the Registrar from including information in the register in relation to the person under [section 128(2)][192].
     
-    Section 111: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 111: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 112 Board may cancel registration or licence if obtained wrongfully
     
@@ -3756,7 +3760,7 @@ Registration and licensing of electrical workers and employer licences
     
     (4) An order made under this section takes effect from the day on which a copy of the order is given to the person concerned or from any date that is specified in the order, whichever is the later.
     
-    Section 112: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 112: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 113 Cancellation or suspension of overseas qualification, certificate, registration, or licence
     
@@ -3794,11 +3798,11 @@ Registration and licensing of electrical workers and employer licences
     
     (6) An order made under subsection (4) takes effect from the day on which a copy of the order is given to the person concerned or from any date that is specified in the order, whichever is the later.
     
-    Section 113: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 113: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 #### Miscellaneous provision
     
-*   Heading: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+*   Heading: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 114 Board may delegate power to Plumbers, Gasfitters, and Drainlayers Board to act under this subpart
     
@@ -3826,11 +3830,11 @@ Registration and licensing of electrical workers and employer licences
     
     *   (c) is affected by any change in the membership of the Plumbers, Gasfitters, and Drainlayers Board or the Board.
     
-    Section 114: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 114: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ### Subpart 2---Employer licences
     
-*   Subpart 2 heading: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+*   Subpart 2 heading: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 115 Employer licence
     
@@ -3856,7 +3860,7 @@ Registration and licensing of electrical workers and employer licences
     
     (3) The Board may impose in respect of any employer licence issued under this section any terms and conditions that the Board thinks fit (for example, by restricting the types of prescribed electrical work that may otherwise be done under the licence).
     
-    Section 115: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 115: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 116 Requirements treated as satisfied if person obtains certification from approved person
     
@@ -3874,7 +3878,7 @@ Registration and licensing of electrical workers and employer licences
     
     *   (b) a member of a class of persons designated by regulations as a class of approved persons.
     
-    Section 116: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 116: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 117 Prescribed electrical work may be done under employer licence
     
@@ -3884,13 +3888,13 @@ Registration and licensing of electrical workers and employer licences
     
     (3) This section is subject to the terms and conditions imposed under [section 115][178] and to any regulations.
     
-    Section 117: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 117: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 118 Duration of employer licence
     
 *   An employer licence, unless it is sooner cancelled or suspended, is in force for the period (not exceeding 5 years) that is specified in the licence, and comes into force on the date of its issue.
     
-    Section 118: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 118: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 119 Renewal of employer licence
     
@@ -3914,7 +3918,7 @@ Registration and licensing of electrical workers and employer licences
     
     (6) If an application for the renewal of an employer licence has been made but not dealt with before the licence expires, the licence continues in force until the application is dealt with by the Board, and any renewal in that case must take effect from the date on which the licence would (but for the renewal) have expired.
     
-    Section 119: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 119: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 120 Cancellation, suspension, and other actions in relation to employer licences
     
@@ -3972,7 +3976,7 @@ Registration and licensing of electrical workers and employer licences
     
     (5) The Board may take an action under this section whether or not the person is still an employer licence holder.
     
-    Section 120: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 120: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 121 Board must give employer licence holder reasonable opportunity to be heard
     
@@ -3982,7 +3986,7 @@ Registration and licensing of electrical workers and employer licences
     
     *   (b) given that person a reasonable opportunity to make written submissions and be heard on the question, either personally or by that person's representative.
     
-    Section 121: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 121: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 122 Miscellaneous provisions concerning actions under section 120
     
@@ -3994,7 +3998,7 @@ Registration and licensing of electrical workers and employer licences
     
     (4) At the end of a period of suspension, the person's employer licence is immediately revived (unless there is some other ground to suspend or cancel that person's employer licence).
     
-    Section 122: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 122: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 123 Powers of inspection
     
@@ -4032,11 +4036,11 @@ Registration and licensing of electrical workers and employer licences
         
         
     
-    Section 123: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 123: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ### Subpart 3---Register of electrical workers
     
-*   Subpart 3 heading: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+*   Subpart 3 heading: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 124 Register of electrical workers
     
@@ -4044,7 +4048,7 @@ Registration and licensing of electrical workers and employer licences
     
     (2) The register must be kept by the Registrar.
     
-    Section 124: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 124: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 125 Registrar must enter matters in register
     
@@ -4054,7 +4058,7 @@ Registration and licensing of electrical workers and employer licences
     
     *   (b) make any other entries in the register that may be required, permitted, or directed to be entered by or under this Act.
     
-    Section 125: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 125: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 126 Purpose of register
     
@@ -4078,7 +4082,7 @@ Registration and licensing of electrical workers and employer licences
     
     (2) This section is subject to [section 137][201] (which allows the Registrar to restrict public access to certain information or documentation in certain circumstances).
     
-    Section 126: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 126: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 127 Form of register
     
@@ -4098,7 +4102,7 @@ Registration and licensing of electrical workers and employer licences
     
     (4) The Registrar may refuse access to the register or otherwise suspend the operation of the register, in whole or in part, if the Registrar considers that it is not practical to provide access to the register.
     
-    Section 127: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 127: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 128 Matters to be contained in register
     
@@ -4178,7 +4182,7 @@ Registration and licensing of electrical workers and employer licences
     
     (5) For the purposes of this section, _disciplinary matter_ means an inquiry into, or complaint about, the conduct of a person, or a decision on that inquiry or complaint.
     
-    Section 128: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 128: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 129 Historical registration and licence information and documentation to be included in register
     
@@ -4192,7 +4196,7 @@ Registration and licensing of electrical workers and employer licences
     
     *   (b) does not authorise any person to do prescribed electrical work or to assist in doing prescribed electrical work.
     
-    Section 129: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 129: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 130 Duty to notify change of address
     
@@ -4202,9 +4206,9 @@ Registration and licensing of electrical workers and employer licences
     
     (3) Every person who breaches subsection (1) commits an offence and is liable on conviction to a fine not exceeding $500\.
     
-    Section 130: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 130: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 130(3): amended, on 1 July 2013, by [section 413][466] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 130(3): amended, on 1 July 2013, by [section 413][467] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 131 Duty to notify change of name
     
@@ -4214,9 +4218,9 @@ Registration and licensing of electrical workers and employer licences
     
     (3) Every person who breaches subsection (1) commits an offence and is liable on conviction to a fine not exceeding $500\.
     
-    Section 131: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 131: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 131(3): amended, on 1 July 2013, by [section 413][466] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 131(3): amended, on 1 July 2013, by [section 413][467] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 132 Revision of register
     
@@ -4240,7 +4244,7 @@ Registration and licensing of electrical workers and employer licences
     
     *   (b) the licence of the provisional licence holder or employer licence holder be cancelled.
     
-    Section 132: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 132: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 133 Restoration of registration or licence
     
@@ -4254,7 +4258,7 @@ Registration and licensing of electrical workers and employer licences
     
     *   (c) the person is subject to an order under [section 120(2)(a)][183] or [section 147M(1)(a)][231].
     
-    Section 133: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 133: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 134 Board may direct Registrar to record cancellation, suspension, or order
     
@@ -4266,7 +4270,7 @@ Registration and licensing of electrical workers and employer licences
     
     *   (c) any decision, direction, or order made under [section 120][183] or [Part 11][206].
     
-    Section 134: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 134: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 135 Alterations to register
     
@@ -4278,7 +4282,7 @@ Registration and licensing of electrical workers and employer licences
     
     *   (c) comply with a direction given by the Board.
     
-    Section 135: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 135: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 136 Register to be public
     
@@ -4290,9 +4294,9 @@ Registration and licensing of electrical workers and employer licences
     
     *   (b) a certified copy of any entry in the register to any person requesting it.
     
-    (3) The fee charged under subsection (2)(a) must be not more than the fee that may be charged by a department of State for providing information under the [Official Information Act 1982][518].
+    (3) The fee charged under subsection (2)(a) must be not more than the fee that may be charged by a department of State for providing information under the [Official Information Act 1982][519].
     
-    Section 136: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 136: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 137 Restricting public access to information and documents on register
     
@@ -4310,40 +4314,40 @@ Registration and licensing of electrical workers and employer licences
     
     (2) For the purposes of subsection (1)(b), the Board may direct the Registrar to restrict public access to any information or documents referred to in that paragraph if, in the opinion of the Board, it is not necessary, or it is not desirable, for the information or documents to be publicly available.
     
-    Section 137: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 137: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 138 Search of register
     
 *   A person may search the register in accordance with this Act or the regulations.
     
-    Section 138: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 138: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 139 Search criteria
     
 *   The register may be searched only by reference to criteria to be specified in the regulations.
     
-    Section 139: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 139: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 140 Search purposes
     
 *   A search of the register may be carried out only for a purpose referred to in [section 126][190].
     
-    Section 140: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 140: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 141 When search constitutes interference with privacy of individual
     
-*   A search of the register for personal information that has not been carried out in accordance with [sections 138 to 140][202] constitutes an action that is an interference with the privacy of an individual under [section 66][519] of the Privacy Act 1993\.
+*   A search of the register for personal information that has not been carried out in accordance with [sections 138 to 140][202] constitutes an action that is an interference with the privacy of an individual under [section 66][520] of the Privacy Act 1993\.
     
-    Section 141: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 141: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ## Part 11  
 Disciplinary provisions
     
-*   Part 11: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+*   Part 11: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 #### Preliminary provisions
     
-*   Heading: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+*   Heading: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 142 Persons to whom this Part applies
     
@@ -4359,7 +4363,7 @@ Disciplinary provisions
     
     *   (e) every person who is the subject of an order of the Board under this Part.
     
-    Section 142: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 142: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 143 Disciplinary offence
     
@@ -4397,11 +4401,11 @@ Disciplinary provisions
     
     *   (g) to have employed, directed, or permitted any unauthorised person to do any prescribed electrical work.
     
-    Section 143: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 143: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 #### Complaints
     
-*   Heading: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+*   Heading: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 144 Complaints
     
@@ -4423,11 +4427,11 @@ Disciplinary provisions
     
     *   (c) the Registrar must inform the complainant that the complaint will not be investigated or proceeded with.
     
-    Section 144: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 144: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 #### Investigations
     
-*   Heading: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+*   Heading: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 145 Secretary must appoint investigator
     
@@ -4445,7 +4449,7 @@ Disciplinary provisions
     
     (5) The Secretary must pay to the investigator, by way of remuneration and expenses for his or her services, the sum that is agreed upon between the investigator and the Secretary.
     
-    Section 145: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 145: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 146 Investigation of complaint
     
@@ -4467,7 +4471,7 @@ Disciplinary provisions
     
     (5) The Registrar must send a copy of the investigator's report under subsection (2) to the person complained against and to the complainant.
     
-    Section 146: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 146: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 147 Investigator's powers
     
@@ -4497,7 +4501,7 @@ Disciplinary provisions
     
     (3) Every person who is required to supply information or documents to an investigator has the same privileges in relation to the supply of the information or documents as witnesses have in any court.
     
-    Section 147: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 147: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 147A Secretary must supply warrant of authority
     
@@ -4517,9 +4521,9 @@ Disciplinary provisions
     
     *   (b) impersonates or falsely pretends to be a person named in a warrant supplied under this section.
     
-    Section 147A: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 147A: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 147A(3): amended, on 1 July 2013, by [section 413][466] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 147A(3): amended, on 1 July 2013, by [section 413][467] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 147B Duties of investigator supplied with warrant of authority
     
@@ -4533,9 +4537,9 @@ Disciplinary provisions
     
     (2) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who fails to comply with subsection (1).
     
-    Section 147B: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 147B: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 147B(2): amended, on 1 July 2013, by [section 413][466] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 147B(2): amended, on 1 July 2013, by [section 413][467] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 147C Restriction on entry to dwellinghouse
     
@@ -4561,7 +4565,7 @@ Disciplinary provisions
     
     (4) [Section 159(1)(e)][284] does not apply in relation to the powers referred to in [section 147(1)(a)][215].
     
-    Section 147C: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 147C: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 147D Investigator must give notice to occupier of dwellinghouse
     
@@ -4571,7 +4575,7 @@ Disciplinary provisions
     
     *   (b) before he or she enters a dwellinghouse under the authority of a warrant under [section 147C][218], give a copy of the warrant to the occupier of the dwellinghouse to which that warrant relates.
     
-    Section 147D: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 147D: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 147E Notices to supply information or documents
     
@@ -4583,7 +4587,7 @@ Disciplinary provisions
     
     *   (c) it is given to the person or persons primarily concerned or to any person or organisation considered by the investigator to represent the person or persons primarily concerned.
     
-    Section 147E: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 147E: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 147F Offence to fail to comply with notice to supply information or document
     
@@ -4595,13 +4599,13 @@ Disciplinary provisions
     
     (2) Every person who breaches subsection (1) commits an offence and is liable on conviction to a fine not exceeding $10,000 in the case of an individual, or $50,000 in the case of a body corporate.
     
-    Section 147F: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 147F: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 147F(2): amended, on 1 July 2013, by [section 413][466] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 147F(2): amended, on 1 July 2013, by [section 413][467] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Consideration of complaint by Board
     
-*   Heading: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+*   Heading: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 147G Board must hold hearing if investigator reports that complaint should be considered by Board
     
@@ -4609,7 +4613,7 @@ Disciplinary provisions
     
     (2) If the investigator reports that a complaint should not be considered by the Board, the Registrar must inform the complainant and the person complained against of that determination.
     
-    Section 147G: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 147G: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 147H Notice of disciplinary proceedings
     
@@ -4629,11 +4633,11 @@ Disciplinary provisions
     
     (5) Despite subsection (1)(c), the Board may hear the matter earlier than 20 working days after the date of service of the notice if the person concerned agrees.
     
-    Section 147H: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 147H: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 #### Interim suspension or disqualification
     
-*   Heading: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+*   Heading: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 147I Interim suspension or disqualification
     
@@ -4661,7 +4665,7 @@ Disciplinary provisions
     
     (5) Despite [section 156][267], the Board is not required to give any notice to a person that it intends to make an order under subsection (2) in respect of that person.
     
-    Section 147I: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 147I: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 147J Form of interim suspension or disqualification order
     
@@ -4677,7 +4681,7 @@ Disciplinary provisions
     
     (2) A copy of an order made under [section 147I][226] must be served by the Registrar on the person in respect of whom it is made.
     
-    Section 147J: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 147J: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 147K Revocation of interim suspension or disqualification
     
@@ -4689,7 +4693,7 @@ Disciplinary provisions
     
     (4) The Board may, on its own motion, revoke an order made under [section 147I][226].
     
-    Section 147K: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 147K: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 147L Board must take reasonable steps to hold hearing as soon as practicable if it makes interim suspension or disqualification order
     
@@ -4699,11 +4703,11 @@ Disciplinary provisions
     
     (3) This section is subject to [section 147H][224]
     
-    Section 147L: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 147L: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 #### Exercise of disciplinary powers
     
-*   Heading: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+*   Heading: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 147M Disciplinary powers of Board
     
@@ -4771,7 +4775,7 @@ Disciplinary provisions
     
     (6) If a person is registered under [Part 10][136] in respect of more than 1 class of registration, the Board may exercise its powers under subsection (1)(a) to (e) in respect of each of those classes or 1 or more of those classes as the Board thinks fit.
     
-    Section 147M: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 147M: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 147N Costs and expenses
     
@@ -4783,13 +4787,13 @@ Disciplinary provisions
     
     *   (c) the hearing by the Board.
     
-    Section 147N: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 147N: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 147O Enforcement of fines, costs, and expenses
     
 *   Every fine imposed under [section 147M][231], and any sum payable to the Board under [section 147N][232], is recoverable in any court of competent jurisdiction as a debt due to the Board.
     
-    Section 147O: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 147O: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 147P Suspension, restriction, or disqualification may take effect immediately
     
@@ -4797,7 +4801,7 @@ Disciplinary provisions
     
     (2) If an order under [section 147I][226] or [147M(1)(b) to (d)][231] takes effect on the day of the making of the order, that fact does not make the person concerned liable to prosecution or disciplinary proceedings for any act done or omitted during any part of that day before the order was made.
     
-    Section 147P: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 147P: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 147Q Effect of disqualification
     
@@ -4805,7 +4809,7 @@ Disciplinary provisions
     
     (2) At the end of the period of disqualification, the person's authorisation is immediately revived (unless there is some other ground to disqualify the person from doing or assisting in doing prescribed electrical work or the person's authorisation has otherwise ended).
     
-    Section 147Q: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 147Q: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 147R Consequences of failure to comply with order to pass examination, complete competence programme, or attend course of instruction
     
@@ -4827,17 +4831,17 @@ Disciplinary provisions
     
     (5) Any order made under subsection (1) remains in effect until the time that the person concerned has complied with the order under [section 147M(1)(e)][231], and for that purpose the Board may extend the period within which the person is required to comply with the order.
     
-    Section 147R: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 147R: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 #### Procedure and miscellaneous matters
     
-*   Heading: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+*   Heading: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 147S Right to appear and be heard
     
 *   At a hearing held by the Board under this Part, the person to whom the hearing relates is entitled to appear and be heard, either personally or by the person's representative.
     
-    Section 147S: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 147S: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 147T Investigator to prosecute matter
     
@@ -4845,7 +4849,7 @@ Disciplinary provisions
     
     (2) The investigator may be represented by counsel or otherwise.
     
-    Section 147T: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 147T: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 147U Appointment of legal advisor to assist Board
     
@@ -4853,7 +4857,7 @@ Disciplinary provisions
     
     (2) The Board must pay to the advisor, by way of remuneration and expenses for his or her services for the proceedings, the sum that is agreed upon between the advisor and the Board.
     
-    Section 147U: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 147U: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 147V Appointment of persons to assist investigator
     
@@ -4879,21 +4883,21 @@ Disciplinary provisions
     
     *   (b) affects the responsibility of the investigator for the actions of the appointed person acting under the delegation.
     
-    Section 147V: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 147V: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 147W Evidence
     
 *   In all proceedings under this Part, the Board may, subject to [section 156][267], receive as evidence any statement, document, information, or matter that may in its opinion assist it to deal effectively with the matter before it, whether or not it would be admissible as evidence in a court of law.
     
-    Section 147W: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 147W: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 147X Board to have powers of commission of inquiry
     
-*   (1) The Board has, for the purposes of any hearing under this Part, the same powers as are conferred on commissions of inquiry by [sections 4][520] and [4B to 9][521] of the Commissions of Inquiry Act 1908\.
+*   (1) The Board has, for the purposes of any hearing under this Part, the same powers as are conferred on commissions of inquiry by [sections 4][521] and [4B to 9][522] of the Commissions of Inquiry Act 1908\.
     
-    (2) [Sections 4][520] and [4B to 9][521] of the Commissions of Inquiry Act 1908 apply to all persons involved in any capacity in any hearing held by the Board under this Part as if it were an inquiry conducted by a commission of inquiry under that Act.
+    (2) [Sections 4][521] and [4B to 9][522] of the Commissions of Inquiry Act 1908 apply to all persons involved in any capacity in any hearing held by the Board under this Part as if it were an inquiry conducted by a commission of inquiry under that Act.
     
-    Section 147X: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 147X: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 147Y Orders to be in writing
     
@@ -4921,7 +4925,7 @@ Disciplinary provisions
     
     (4) The Registrar must, if the Board so directs, give a copy of any order made under [section 147M][231] to the owner and to the occupier of the premises to which the complaint relates.
     
-    Section 147Y: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 147Y: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 147Z Publication of orders
     
@@ -4935,12 +4939,12 @@ Disciplinary provisions
     
     (3) This section is subject to any order of any court.
     
-    Section 147Z: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 147Z: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ## Part 12  
 Appeals
     
-*   Part 12: substituted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+*   Part 12: substituted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 147ZA Appeals
     
@@ -4960,7 +4964,7 @@ Appeals
     
     (3) Subsection (1) does not confer a right to appeal against a decision under any of [sections 84 to 90][139].
     
-    Section 147ZA: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 147ZA: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 147ZB Time for lodging appeal
     
@@ -4970,7 +4974,7 @@ Appeals
     
     *   (b) any further time that a District Court may allow on application made before or after the expiration of that period.
     
-    Section 147ZB: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 147ZB: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 147ZC Procedure on appeal
     
@@ -4986,7 +4990,7 @@ Appeals
     
     (4) Subject to [section 147ZH][254], the decision of a District Court on any appeal under [section 147ZA][247] is final.
     
-    Section 147ZC: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 147ZC: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 147ZD Court may refer appeals back for reconsideration
     
@@ -5000,13 +5004,13 @@ Appeals
     
     (3) In reconsidering any matter referred back to the Board under subsection (1), the Board must have regard to the District Court's reasons for giving a direction under that subsection, and to the court's directions under subsection (2).
     
-    Section 147ZD: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 147ZD: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 147ZE Costs
     
 *   On any appeal under [section 147ZA][247], a District Court may make an order for the payment, by the Board or the appellant, of the costs incurred in respect of the appeal by the other party to the appeal.
     
-    Section 147ZE: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 147ZE: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 147ZF Power of court to prohibit publication of person's name or affairs
     
@@ -5014,15 +5018,15 @@ Appeals
     
     (2) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who commits a breach of any order made under subsection (1) or evades or attempts to evade the order.
     
-    Section 147ZF: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 147ZF: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 147ZF(2): amended, on 1 July 2013, by [section 413][466] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 147ZF(2): amended, on 1 July 2013, by [section 413][467] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 147ZG Decision to continue in force pending appeal
     
 *   Subject to any order of the court, every decision, direction, or order of the Board against which an appeal is lodged under [section 147ZA][247] continues in force and has effect according to its tenor pending the determination of the appeal.
     
-    Section 147ZG: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 147ZG: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 147ZH Appeal on question of law
     
@@ -5030,13 +5034,13 @@ Appeals
     
     (2) Every appeal under this section must be heard and determined in accordance with rules of court.
     
-    (3) [Subpart 8][465] of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section.
+    (3) [Subpart 8][466] of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section.
     
-    Section 147ZH: inserted, on 1 April 2010, by [section 13][514] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 147ZH: inserted, on 1 April 2010, by [section 13][515] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 147ZH(1): amended, on 1 July 2013, by [section 413][466] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 147ZH(1): amended, on 1 July 2013, by [section 413][467] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 147ZH(3): replaced, on 1 July 2013, by [section 413][466] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 147ZH(3): replaced, on 1 July 2013, by [section 413][467] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 13  
 Administration
@@ -5089,7 +5093,7 @@ Administration
     
     *   (q) to carry out any functions that are incidental and related to, or consequential on, its functions stated in this section.
     
-    Section 149: substituted, on 1 April 2010, by [section 14][522] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 149: substituted, on 1 April 2010, by [section 14][523] of the Electricity Amendment Act 2006 (2006 No 70).
     
     Section 149(n): amended, on 16 December 2013, by [section 22][454] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
@@ -5109,15 +5113,15 @@ Administration
     
     (5) \[Repealed\]
     
-    Section 150(1): substituted, on 1 April 2010, by [section 15(1)][523] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 150(1): substituted, on 1 April 2010, by [section 15(1)][524] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 150(3): substituted, on 1 April 2010, by [section 15(2)][523] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 150(3): substituted, on 1 April 2010, by [section 15(2)][524] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 150(5): repealed, on 1 April 2010, by [section 15(7)][523] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 150(5): repealed, on 1 April 2010, by [section 15(7)][524] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 151 Registrar
     
-*   (1) There shall be a Registrar of the Board, who shall be appointed under the [State Sector Act 1988][524] by the Secretary.
+*   (1) There shall be a Registrar of the Board, who shall be appointed under the [State Sector Act 1988][525] by the Secretary.
     
     (2) The office of Registrar may be held concurrently with any other office.
     
@@ -5171,29 +5175,29 @@ Administration
     
     (7) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who, without lawful excuse, acts in contravention of any order made by the Board under any of paragraphs (b) to (d) of subsection (3).
     
-    Section 153(6): amended, on 1 April 2010, by [section 16(1)][525] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 153(6): amended, on 1 April 2010, by [section 16(1)][526] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 153(7): amended, on 1 July 2013, by [section 413][466] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 153(7): amended, on 1 July 2013, by [section 413][467] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 153(7): amended, on 1 April 2010, by [section 16(2)][525] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 153(7): amended, on 1 April 2010, by [section 16(2)][526] of the Electricity Amendment Act 2006 (2006 No 70).
 
 #### Complaints Assessment Committees
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 April 2010, by [section 17(1)][526] of the Electricity Amendment Act 2006 (2006 No 70).
+*   Heading: repealed, on 1 April 2010, by [section 17(1)][527] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 154 Complaints Assessment Committees
     
 *   \[Repealed\]
     
-    Section 154: repealed, on 1 April 2010, by [section 17(2)][526] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 154: repealed, on 1 April 2010, by [section 17(2)][527] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 155 Secretary to maintain list
     
 *   \[Repealed\]
     
-    Section 155: repealed, on 1 April 2010, by [section 17(2)][526] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 155: repealed, on 1 April 2010, by [section 17(2)][527] of the Electricity Amendment Act 2006 (2006 No 70).
 
 #### General provisions
 
@@ -5201,7 +5205,7 @@ Administration
     
 *   In carrying out their functions and duties under this Act, the Board and every investigator must observe the rules of natural justice.
     
-    Section 156: amended, on 1 April 2010, by [section 18][527] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 156: amended, on 1 April 2010, by [section 18][528] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 156A Power to amend or revoke
     
@@ -5217,9 +5221,9 @@ Administration
     
     *   (b) revoke those terms or conditions and replace them with other terms or conditions.
     
-    (3) This section does not limit [section 15][528] of the Interpretation Act 1999\.
+    (3) This section does not limit [section 15][529] of the Interpretation Act 1999\.
     
-    Section 156A: inserted, on 1 April 2010, by [section 19][529] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 156A: inserted, on 1 April 2010, by [section 19][530] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 156B Notice and service of documents by Board, member, Registrar, or investigator
     
@@ -5241,13 +5245,13 @@ Administration
     
     (5) This section applies unless a provision of this Act provides otherwise.
     
-    Section 156B: inserted, on 1 April 2010, by [section 19][529] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 156B: inserted, on 1 April 2010, by [section 19][530] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 157 Further provisions applying to Board
     
 *   The provisions set out in [Schedule 2][414] apply to the Board.
     
-    Section 157: substituted, on 1 April 2010, by [section 20][530] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 157: substituted, on 1 April 2010, by [section 20][531] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 158 Review of operation of Act
     
@@ -5342,25 +5346,25 @@ Miscellaneous provisions
     
     *   (d) the person entering shall carry a warrant of authority or be working under the immediate control of a person holding such authority, which shall be produced on intitial entry and, if requested, at any subsequent time:
     
-    *   (e) entry into a dwellinghouse must be authorised by a warrant issued by an issuing officer (within the meaning of [section 3][531] of the Search and Surveillance Act 2012) on an application made in the manner provided for an application for a search warrant in [subpart 3][532] of Part 4 of the Search and Surveillance Act 2012\.
+    *   (e) entry into a dwellinghouse must be authorised by a warrant issued by an issuing officer (within the meaning of [section 3][532] of the Search and Surveillance Act 2012) on an application made in the manner provided for an application for a search warrant in [subpart 3][533] of Part 4 of the Search and Surveillance Act 2012\.
     
     (2) The conditions specified in subsection (1) shall not apply where the entry is necessary in circumstances of probable danger to life or property or where entry is necessary to maintain the continuity or safety of the supply and distribution of electricity.
     
     (3) Nothing in this section shall restrict rights of access in order to obtain consent to enter the land or premises for the authorised purposes in respect of which entry is required.
     
-    (4) Notwithstanding any other provision of this Act, no provision in this Act or in any regulations made under [section 169][307] giving any person the power to enter any land or premises without the consent of the owner or occupier shall authorise any person to enter or search any restricted area within a defence area (within the meaning of the [Defence Act 1990][533]) unless the person entering that area has a security clearance approved by the person in charge of the area.
+    (4) Notwithstanding any other provision of this Act, no provision in this Act or in any regulations made under [section 169][307] giving any person the power to enter any land or premises without the consent of the owner or occupier shall authorise any person to enter or search any restricted area within a defence area (within the meaning of the [Defence Act 1990][534]) unless the person entering that area has a security clearance approved by the person in charge of the area.
     
-    (5) [Subparts 1][534], [3][532], [5][535], [7][536], [9][537], and [10][538] of Part 4 of the Search and Surveillance Act 2012 apply in respect of an application for, and issue of, a warrant under subsection (1)(e).
+    (5) [Subparts 1][535], [3][533], [5][536], [7][537], [9][538], and [10][539] of Part 4 of the Search and Surveillance Act 2012 apply in respect of an application for, and issue of, a warrant under subsection (1)(e).
     
     Compare: 1968 No 125 s 15A; 1983 No 123 s 4; 1987 No 111 s 5
     
-    Section 159(1): amended, on 1 April 2010, by [section 21][539] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 159(1): amended, on 1 April 2010, by [section 21][540] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 159(1): amended, on 8 August 2001, by [section 11(2)][486] of the Electricity Amendment Act 2001 (2001 No 40).
+    Section 159(1): amended, on 8 August 2001, by [section 11(2)][487] of the Electricity Amendment Act 2001 (2001 No 40).
     
-    Section 159(1)(e): replaced, on 1 October 2012, by [section 315(2)][540] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 159(1)(e): replaced, on 1 October 2012, by [section 315(2)][541] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 159(5): inserted, on 1 October 2012, by [section 315(3)][540] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 159(5): inserted, on 1 October 2012, by [section 315(3)][541] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### Offences
 
@@ -5386,9 +5390,9 @@ Miscellaneous provisions
         
         
     
-    Section 160: substituted, on 1 April 2010, by [section 22][541] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 160: substituted, on 1 April 2010, by [section 22][542] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 160: amended, on 1 July 2013, by [section 413][466] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 160: amended, on 1 July 2013, by [section 413][467] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 161 Unlicensed or unregistered person must not claim to be licensed or registered
     
@@ -5410,41 +5414,41 @@ Miscellaneous provisions
     
     *   (d) allows a certificate of registration or a licence to be used by any other person for the purpose of enabling that other person to do any prescribed electrical work in breach of [Part 9][122].
     
-    Section 161: substituted, on 1 April 2010, by [section 22][541] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 161: substituted, on 1 April 2010, by [section 22][542] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 161: amended, on 1 July 2013, by [section 413][466] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 161: amended, on 1 July 2013, by [section 413][467] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 162 Offence to engage in prescribed electrical work in breach of section 74
     
 *   Every person who does, or assists in doing, any prescribed electrical work in breach of [section 74][123] commits an offence and is liable on conviction to a fine not exceeding $50,000 in the case of an individual, or $250,000 in the case of a body corporate.
     
-    Section 162: substituted, on 1 April 2010, by [section 22][541] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 162: substituted, on 1 April 2010, by [section 22][542] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 162: amended, on 1 July 2013, by [section 413][466] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 162: amended, on 1 July 2013, by [section 413][467] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 163 Offence to employ person to engage in prescribed electrical work in breach of section 74
     
 *   Every person who employs any person under a contract of service to do, or assist in doing, any prescribed electrical work in breach of [section 74][123] commits an offence and is liable on conviction to a fine not exceeding $10,000 in the case of an individual, or $25,000 in the case of a body corporate.
     
-    Section 163: substituted, on 1 April 2010, by [section 22][541] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 163: substituted, on 1 April 2010, by [section 22][542] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 163: amended, on 1 July 2013, by [section 413][466] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 163: amended, on 1 July 2013, by [section 413][467] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 163A Offence to fail to comply with condition of employer licence
     
 *   Every person who, being the holder of an employer licence, fails to comply with any condition of that licence commits an offence and is liable on conviction to a fine not exceeding $50,000 in the case of an individual, or $250,000 in the case of a body corporate.
     
-    Section 163A: inserted, on 1 April 2010, by [section 22][541] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 163A: inserted, on 1 April 2010, by [section 22][542] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 163A: amended, on 1 July 2013, by [section 413][466] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 163A: amended, on 1 July 2013, by [section 413][467] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 163B Offence to breach requirement to have safety management system
     
 *   Every person who, being an electricity generator or an electricity distributor, breaches [section 61A][85] commits an offence and is liable on conviction to a fine not exceeding $250,000\.
     
-    Section 163B: inserted, on 1 April 2010, by [section 22][541] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 163B: inserted, on 1 April 2010, by [section 22][542] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 163B: amended, on 1 July 2013, by [section 413][466] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 163B: amended, on 1 July 2013, by [section 413][467] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 163C Offences for actions or omissions likely to cause serious harm or significant property damage
     
@@ -5476,15 +5480,15 @@ Miscellaneous provisions
     
     (5) To avoid doubt, a person required by this section to take all practicable steps is required to take those steps only in respect of circumstances that the person knows, or ought reasonably to know, about.
     
-    (6) Despite anything to the contrary in [section 25][542] of the Criminal Procedure Act 2011 a charging document may be filed at any time in respect of an offence under this section.
+    (6) Despite anything to the contrary in [section 25][543] of the Criminal Procedure Act 2011 a charging document may be filed at any time in respect of an offence under this section.
     
-    Compare: 1992 No 96 [s 49][543]
+    Compare: 1992 No 96 [s 49][544]
     
-    Section 163C: inserted, on 1 April 2010, by [section 22][541] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 163C: inserted, on 1 April 2010, by [section 22][542] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 163C(3): amended, on 1 July 2013, by [section 413][466] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 163C(3): amended, on 1 July 2013, by [section 413][467] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 163C(6): inserted, on 1 July 2013, by [section 413][466] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 163C(6): inserted, on 1 July 2013, by [section 413][467] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 163D Other offences
     
@@ -5504,13 +5508,13 @@ Miscellaneous provisions
     
     (3) A charging document must not be filed under subsection (1)(b) by any person other than the Registrar or a person authorised in writing in that behalf by the Board.
     
-    Section 163D: inserted, on 1 April 2010, by [section 22][541] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 163D: inserted, on 1 April 2010, by [section 22][542] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 163D(1): amended, on 1 July 2013, by [section 413][466] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 163D(1): amended, on 1 July 2013, by [section 413][467] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 163D(2): amended, on 1 July 2013, by [section 413][466] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 163D(2): amended, on 1 July 2013, by [section 413][467] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 163D(3): amended, on 1 July 2013, by [section 413][466] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 163D(3): amended, on 1 July 2013, by [section 413][467] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 164 Directors and officers of bodies corporate
     
@@ -5520,29 +5524,29 @@ Miscellaneous provisions
     
     Compare: 1970 No 143 s 53(3)
     
-    Section 164(2): amended, on 1 July 2013, by [section 413][466] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 164(2): amended, on 1 July 2013, by [section 413][467] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 165 Time for filing charging document
     
-*   Despite anything to the contrary in [section 25][542] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act (other than an offence under [section 163C][292]) or against any regulations made under [section 169][307] ends on the date that is 5 years after the date on which the offence was committed.
+*   Despite anything to the contrary in [section 25][543] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act (other than an offence under [section 163C][292]) or against any regulations made under [section 169][307] ends on the date that is 5 years after the date on which the offence was committed.
     
-    Section 165: replaced, on 1 July 2013, by [section 413][466] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 165: replaced, on 1 July 2013, by [section 413][467] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Infringement offences
     
-*   Heading: inserted, on 1 April 2010, by [section 24][544] of the Electricity Amendment Act 2006 (2006 No 70).
+*   Heading: inserted, on 1 April 2010, by [section 24][545] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 165A Infringement offences
     
 *   (1) If a person is alleged to have committed an infringement offence, the person may either---
         
-    *   (a) be proceeded against by filing a charging document under [section 14][545] of the Criminal Procedure Act 2011; or
+    *   (a) be proceeded against by filing a charging document under [section 14][546] of the Criminal Procedure Act 2011; or
     
     *   (b) be served with an infringement notice as provided in [section 165B][298].
     
-    (2) Despite [section 21][546] of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to file a charging document is not necessary if WorkSafe, the Registrar, or the Board commences proceedings for an infringement offence by filing a charging document under the [Criminal Procedure Act 2011][547].
+    (2) Despite [section 21][547] of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to file a charging document is not necessary if WorkSafe, the Registrar, or the Board commences proceedings for an infringement offence by filing a charging document under the [Criminal Procedure Act 2011][548].
     
-    Section 165A: replaced, on 1 July 2013, by [section 413][466] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 165A: replaced, on 1 July 2013, by [section 413][467] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 165A(2): amended, on 16 December 2013, by [section 22][454] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
@@ -5554,7 +5558,7 @@ Miscellaneous provisions
     
     *   (b) WorkSafe, the Registrar, or another person has not taken enforcement action against the same defendant in respect of the same matter.
     
-    (2) WorkSafe or the Registrar may revoke an infringement notice before the infringement fee is paid, or before an order for payment of a fine is made or deemed to be made by a court under [section 21][546] of the Summary Proceedings Act 1957\.
+    (2) WorkSafe or the Registrar may revoke an infringement notice before the infringement fee is paid, or before an order for payment of a fine is made or deemed to be made by a court under [section 21][547] of the Summary Proceedings Act 1957\.
     
     (3) An infringement notice is revoked by giving written notice to the person to whom it was issued that the notice is revoked.
     
@@ -5570,7 +5574,7 @@ Miscellaneous provisions
     
     *   (b) in relation to a person other than WorkSafe or the Registrar, the filing of a charging document under this Act.
     
-    Section 165B: inserted, on 1 April 2010, by [section 24][544] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 165B: inserted, on 1 April 2010, by [section 24][545] of the Electricity Amendment Act 2006 (2006 No 70).
     
     Section 165B(1): amended, on 16 December 2013, by [section 22][454] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
@@ -5582,11 +5586,11 @@ Miscellaneous provisions
     
     Section 165B(4)(a): amended, on 16 December 2013, by [section 22][454] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 165B(4)(a)(i): amended, on 1 July 2013, by [section 413][466] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 165B(4)(a)(i): amended, on 1 July 2013, by [section 413][467] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 165B(4)(b): amended, on 16 December 2013, by [section 22][454] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 165B(4)(b): amended, on 1 July 2013, by [section 413][466] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 165B(4)(b): amended, on 1 July 2013, by [section 413][467] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 165C Procedural requirements for infringement notices
     
@@ -5610,7 +5614,7 @@ Miscellaneous provisions
     
     *   (d) the time within which the infringement fee must be paid; and
     
-    *   (e) a summary of the provisions of [section 21(10)][546] of the Summary Proceedings Act 1957; and
+    *   (e) a summary of the provisions of [section 21(10)][547] of the Summary Proceedings Act 1957; and
     
     *   (f) a statement that the person served with the notice has a right to request a hearing; and
     
@@ -5618,23 +5622,23 @@ Miscellaneous provisions
     
     *   (h) any other prescribed matters.
     
-    (5) If an infringement notice has been issued, proceedings in respect of the infringement offence to which the notice relates may be commenced in accordance with [section 21][546] of the Summary Proceedings Act 1957 and, in that case,---
+    (5) If an infringement notice has been issued, proceedings in respect of the infringement offence to which the notice relates may be commenced in accordance with [section 21][547] of the Summary Proceedings Act 1957 and, in that case,---
         
     *   (a) reminder notices may be prescribed under regulations made under this Act; and
     
-    *   (b) in all other respects, [section 21][546] of the Summary Proceedings Act 1957 applies with all necessary modifications.
+    *   (b) in all other respects, [section 21][547] of the Summary Proceedings Act 1957 applies with all necessary modifications.
     
     (6) Reminder notices must contain the prescribed information.
     
-    Section 165C: inserted, on 1 April 2010, by [section 24][544] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 165C: inserted, on 1 April 2010, by [section 24][545] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 165C(3): amended, on 1 July 2013, by [section 413][466] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 165C(3): amended, on 1 July 2013, by [section 413][467] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 165D Payment of infringement fee
     
 *   WorkSafe and the Registrar must pay all infringement fees received into a Crown Bank Account.
     
-    Section 165D: inserted, on 1 April 2010, by [section 24][544] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 165D: inserted, on 1 April 2010, by [section 24][545] of the Electricity Amendment Act 2006 (2006 No 70).
     
     Section 165D: amended, on 16 December 2013, by [section 22][454] of the WorkSafe New Zealand Act 2013 (2013 No 94).
 
@@ -5644,7 +5648,7 @@ Miscellaneous provisions
     
     (2) Subsection (1) does not prevent a court being told, for the purpose of sentencing a person convicted of an offence under this Act, that the person has paid, or is obliged to pay, an infringement fee for a particular infringement offence.
     
-    Section 165E: inserted, on 1 April 2010, by [section 24][544] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 165E: inserted, on 1 April 2010, by [section 24][545] of the Electricity Amendment Act 2006 (2006 No 70).
 
 #### Miscellaneous provisions
 
@@ -5654,7 +5658,7 @@ Miscellaneous provisions
     
     (2) Where any fee is payable to the Board under this Act in respect of any matter, until the fee is paid to the Registrar the Registrar may decline to do any act, or to permit any act to be done, or to receive any document, in respect of which the fee is payable.
     
-    Compare: 1959 No 46 s 24; 1979 No 139 s 50; [1989 No 44][548] [s 86(1)][472]
+    Compare: 1959 No 46 s 24; 1979 No 139 s 50; [1989 No 44][549] [s 86(1)][473]
 
 ##### 167 Certificate by Registrar to be evidence of various matters
     
@@ -5670,13 +5674,13 @@ Miscellaneous provisions
     
     *   (d) any matter relating to any act or proceeding of the Board or an investigator.
     
-    Section 167: substituted, on 1 April 2010, by [section 25][549] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 167: substituted, on 1 April 2010, by [section 25][550] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 168 Notices in relation to Maori land
     
 *   (1) Where a notice or other document is to be given to the owner of land for the purposes of this Act, then, in the case of Maori land, the notice or other document may be served on the Registrar of the Maori Land Court in accordance with Part 9 of the Maori Affairs Amendment Act 1974, and the provisions of that Part shall apply accordingly.
     
-    (2) In this section, the term **Maori land** has the same meaning as in [section 4][550] of Te Ture Whenua Maori Act 1993\.
+    (2) In this section, the term **Maori land** has the same meaning as in [section 4][551] of Te Ture Whenua Maori Act 1993\.
     
     Section 168(2): amended, on 1 July 1993, pursuant to [section 362(2)][457] of Te Ture Whenua Maori Act 1993 (1993 No 4).
 
@@ -5774,7 +5778,7 @@ Miscellaneous provisions
         
         
     
-    *   (9) authorising WorkSafe or the chief executive of the department of State responsible for the administration of the [Building Act 2004][551], or both, to exempt specific works, electrical installations, fittings, electrical appliances, associated equipment, persons, or things from requirements imposed by regulations made under paragraphs (1) to (7), subject to any conditions that WorkSafe or, as the case may be, the chief executive thinks fit:
+    *   (9) authorising WorkSafe or the chief executive of the department of State responsible for the administration of the [Building Act 2004][552], or both, to exempt specific works, electrical installations, fittings, electrical appliances, associated equipment, persons, or things from requirements imposed by regulations made under paragraphs (1) to (7), subject to any conditions that WorkSafe or, as the case may be, the chief executive thinks fit:
     
     *   (10) providing for the constitution, functions, and powers of arbitrators for the purposes of this Act or any regulations made under this section:
     
@@ -5888,7 +5892,7 @@ Miscellaneous provisions
         
         *   (ia) any official standard, or any part of an official standard; or
         
-        *   (ii) any approved code of practice for the time being in force pursuant to section 20A of the Health and Safety in Employment Act 1992, or any part of any such approved code of practice,---
+        *   (ii) any approved code of practice for the time being in force pursuant to [section 20A][553] of the Health and Safety in Employment Act 1992, or any part of any such approved code of practice,---
         
         shall be proof of compliance with such provisions of the regulations as are specified in the regulations.
     
@@ -5898,7 +5902,7 @@ Miscellaneous provisions
     
     (2C) In subsections (2), (2A), and (2B), _official standard_ may be treated as including, for the purposes of subsections (1)(2)(b) and (c), (7A), and (8)(aa) and (c), the Conformity Cooperation Agreement (including any amendments made to that agreement in accordance with it) and any standards or rules referred to in the Conformity Cooperation Agreement.
     
-    (3) Without limiting the [Interpretation Act 1999][552], no regulation made under this section shall be invalid because it leaves any matter to the discretion of WorkSafe, the Secretary, or any other person, or because it authorises WorkSafe, the Secretary, or any other person---
+    (3) Without limiting the [Interpretation Act 1999][554], no regulation made under this section shall be invalid because it leaves any matter to the discretion of WorkSafe, the Secretary, or any other person, or because it authorises WorkSafe, the Secretary, or any other person---
         
     *   (a) to give any consent or approval on or subject to conditions to be imposed or approved by WorkSafe, the Secretary, or any other person; or
     
@@ -5910,107 +5914,107 @@ Miscellaneous provisions
     
     Compare: 1968 No 125 s 55; 1983 No 123 s 8; 1987 No 111 s 13
     
-    Section 169(1)(2)(b): amended, on 29 July 2008, by [section 7(1)(a)][553] of the Electricity Amendment Act 2008 (2008 No 53).
+    Section 169(1)(2)(b): amended, on 29 July 2008, by [section 7(1)(a)][555] of the Electricity Amendment Act 2008 (2008 No 53).
     
-    Section 169(1)(2)(b): amended, on 29 July 2008, by [section 7(1)(b)][553] of the Electricity Amendment Act 2008 (2008 No 53).
+    Section 169(1)(2)(b): amended, on 29 July 2008, by [section 7(1)(b)][555] of the Electricity Amendment Act 2008 (2008 No 53).
     
-    Section 169(1)(2)(c): amended, on 29 July 2008, by [section 7(2)(a)][553] of the Electricity Amendment Act 2008 (2008 No 53).
+    Section 169(1)(2)(c): amended, on 29 July 2008, by [section 7(2)(a)][555] of the Electricity Amendment Act 2008 (2008 No 53).
     
-    Section 169(1)(2)(c): amended, on 29 July 2008, by [section 7(2)(b)][553] of the Electricity Amendment Act 2008 (2008 No 53).
+    Section 169(1)(2)(c): amended, on 29 July 2008, by [section 7(2)(b)][555] of the Electricity Amendment Act 2008 (2008 No 53).
     
     Section 169(1)(2)(d): amended, on 16 December 2013, by [section 22][454] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 169(1)(3A): inserted, on 5 December 2006, by [section 26(1)][554] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 169(1)(3A): inserted, on 5 December 2006, by [section 26(1)][556] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 169(1)(5): amended, on 1 April 2010, by [section 26(2)][554] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 169(1)(5): amended, on 1 April 2010, by [section 26(2)][556] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 169(1)(6) proviso: repealed, on 1 April 2010, by [section 26(3)][554] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 169(1)(6) proviso: repealed, on 1 April 2010, by [section 26(3)][556] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 169(1)(7A): inserted, on 29 July 2008, by [section 7(3)][553] of the Electricity Amendment Act 2008 (2008 No 53).
+    Section 169(1)(7A): inserted, on 29 July 2008, by [section 7(3)][555] of the Electricity Amendment Act 2008 (2008 No 53).
     
     Section 169(1)(8): amended, on 16 December 2013, by [section 22][454] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
     Section 169(1)(8)(a) proviso: amended, on 16 December 2013, by [section 22][454] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 169(1)(8)(aa): inserted, on 29 July 2008, by [section 7(4)][553] of the Electricity Amendment Act 2008 (2008 No 53).
+    Section 169(1)(8)(aa): inserted, on 29 July 2008, by [section 7(4)][555] of the Electricity Amendment Act 2008 (2008 No 53).
     
     Section 169(1)(8)(aa) proviso: amended, on 16 December 2013, by [section 22][454] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 169(1)(8)(b): repealed, on 20 September 2007, by [section 4(1)][555] of the Electricity Amendment Act 2007 (2007 No 53).
+    Section 169(1)(8)(b): repealed, on 20 September 2007, by [section 4(1)][557] of the Electricity Amendment Act 2007 (2007 No 53).
     
-    Section 169(1)(8)(c): amended, on 29 July 2008, by [section 7(5)][553] of the Electricity Amendment Act 2008 (2008 No 53).
+    Section 169(1)(8)(c): amended, on 29 July 2008, by [section 7(5)][555] of the Electricity Amendment Act 2008 (2008 No 53).
     
-    Section 169(1)(9): substituted, on 31 March 2005, by [section 414][556] of the Building Act 2004 (2004 No 72).
+    Section 169(1)(9): substituted, on 31 March 2005, by [section 414][558] of the Building Act 2004 (2004 No 72).
     
     Section 169(1)(9): amended, on 16 December 2013, by [section 22][454] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 169(1)(12) heading: amended, on 1 April 2010, by [section 26(4)][554] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 169(1)(12) heading: amended, on 1 April 2010, by [section 26(4)][556] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 169(1)(12): substituted, on 1 April 2010, by [section 26(5)][554] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 169(1)(12): substituted, on 1 April 2010, by [section 26(5)][556] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 169(1)(13): substituted, on 1 April 2010, by [section 26(5)][554] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 169(1)(13): substituted, on 1 April 2010, by [section 26(5)][556] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 169(1)(14): substituted, on 1 April 2010, by [section 26(5)][554] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 169(1)(14): substituted, on 1 April 2010, by [section 26(5)][556] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 169(1)(15): repealed, on 1 April 2010, by [section 26(5)][554] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 169(1)(15): repealed, on 1 April 2010, by [section 26(5)][556] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 169(1)(16): repealed, on 1 April 2010, by [section 26(5)][554] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 169(1)(16): repealed, on 1 April 2010, by [section 26(5)][556] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 169(1)(17): repealed, on 1 April 2010, by [section 26(5)][554] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 169(1)(17): repealed, on 1 April 2010, by [section 26(5)][556] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 169(1)(18): repealed, on 1 April 2010, by [section 26(5)][554] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 169(1)(18): repealed, on 1 April 2010, by [section 26(5)][556] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 169(1)(19): substituted, on 1 April 2010, by [section 26(6)][554] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 169(1)(19): substituted, on 1 April 2010, by [section 26(6)][556] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 169(1)(20): substituted, on 1 April 2010, by [section 26(6)][554] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 169(1)(20): substituted, on 1 April 2010, by [section 26(6)][556] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 169(1)(21): repealed, on 1 April 2010, by [section 26(6)][554] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 169(1)(21): repealed, on 1 April 2010, by [section 26(6)][556] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 169(1)(22): repealed, on 1 April 2010, by [section 26(6)][554] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 169(1)(22): repealed, on 1 April 2010, by [section 26(6)][556] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 169(1)(23A) heading: inserted, on 20 September 2007, by [section 4(2)][555] of the Electricity Amendment Act 2007 (2007 No 53).
+    Section 169(1)(23A) heading: inserted, on 20 September 2007, by [section 4(2)][557] of the Electricity Amendment Act 2007 (2007 No 53).
     
-    Section 169(1)(23A): inserted, on 20 September 2007, by [section 4(2)][555] of the Electricity Amendment Act 2007 (2007 No 53).
+    Section 169(1)(23A): inserted, on 20 September 2007, by [section 4(2)][557] of the Electricity Amendment Act 2007 (2007 No 53).
     
-    Section 169(1)(24): substituted, on 1 April 2010, by [section 26(7)][554] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 169(1)(24): substituted, on 1 April 2010, by [section 26(7)][556] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 169(1)(25): substituted, on 1 April 2010, by [section 26(7)][554] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 169(1)(25): substituted, on 1 April 2010, by [section 26(7)][556] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 169(1)(26): substituted, on 1 April 2010, by [section 26(7)][554] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 169(1)(26): substituted, on 1 April 2010, by [section 26(7)][556] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 169(1)(26A): inserted, on 1 April 2010, by [section 26(7)][554] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 169(1)(26A): inserted, on 1 April 2010, by [section 26(7)][556] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 169(1)(26B): inserted, on 1 April 2010, by [section 26(7)][554] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 169(1)(26B): inserted, on 1 April 2010, by [section 26(7)][556] of the Electricity Amendment Act 2006 (2006 No 70).
     
     Section 169(1)(26B): amended, on 16 December 2013, by [section 22][454] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 169(1)(26C): inserted, on 1 April 2010, by [section 26(7)][554] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 169(1)(26C): inserted, on 1 April 2010, by [section 26(7)][556] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 169(1)(26D): inserted, on 1 April 2010, by [section 26(7)][554] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 169(1)(26D): inserted, on 1 April 2010, by [section 26(7)][556] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 169(1)(26E): inserted, on 1 April 2010, by [section 26(7)][554] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 169(1)(26E): inserted, on 1 April 2010, by [section 26(7)][556] of the Electricity Amendment Act 2006 (2006 No 70).
     
     Section 169(1)(30): amended, on 16 December 2013, by [section 22][454] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 169(1)(31): amended, on 1 April 2010, by [section 26(8)][554] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 169(1)(31): amended, on 1 April 2010, by [section 26(8)][556] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 169(2)(a): amended, on 27 September 2001, by [section 4(1)][557] of the Electricity Amendment Act (No 2) 2001 (2001 No 64).
+    Section 169(2)(a): amended, on 27 September 2001, by [section 4(1)][559] of the Electricity Amendment Act (No 2) 2001 (2001 No 64).
     
-    Section 169(2)(b)(ia): inserted, on 27 September 2001, by [section 4(2)][557] of the Electricity Amendment Act (No 2) 2001 (2001 No 64).
+    Section 169(2)(b)(ia): inserted, on 27 September 2001, by [section 4(2)][559] of the Electricity Amendment Act (No 2) 2001 (2001 No 64).
     
     Section 169(2)(b)(ii): amended, on 16 December 2013, by [section 22][454] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 169(2A): inserted, on 27 September 2001, by [section 4(3)][557] of the Electricity Amendment Act (No 2) 2001 (2001 No 64).
+    Section 169(2A): inserted, on 27 September 2001, by [section 4(3)][559] of the Electricity Amendment Act (No 2) 2001 (2001 No 64).
     
-    Section 169(2B): inserted, on 27 September 2001, by [section 4(3)][557] of the Electricity Amendment Act (No 2) 2001 (2001 No 64).
+    Section 169(2B): inserted, on 27 September 2001, by [section 4(3)][559] of the Electricity Amendment Act (No 2) 2001 (2001 No 64).
     
-    Section 169(2C): inserted, on 29 July 2008, by [section 7(6)][553] of the Electricity Amendment Act 2008 (2008 No 53).
+    Section 169(2C): inserted, on 29 July 2008, by [section 7(6)][555] of the Electricity Amendment Act 2008 (2008 No 53).
     
     Section 169(3): amended, on 16 December 2013, by [section 22][454] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
     Section 169(3)(a): amended, on 16 December 2013, by [section 22][454] of the WorkSafe New Zealand Act 2013 (2013 No 94).
     
-    Section 169(5): added, on 29 July 2008, by [section 7(7)][553] of the Electricity Amendment Act 2008 (2008 No 53).
+    Section 169(5): added, on 29 July 2008, by [section 7(7)][555] of the Electricity Amendment Act 2008 (2008 No 53).
 
 ##### 169A Regulations that prescribe requirements for safety management systems
     
@@ -6074,7 +6078,7 @@ Miscellaneous provisions
         
         
     
-    Section 169A: inserted, on 5 December 2006, by [section 27][558] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 169A: inserted, on 5 December 2006, by [section 27][560] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 169B Miscellaneous provisions relating to regulations that prescribe requirements for safety management systems
     
@@ -6082,49 +6086,49 @@ Miscellaneous provisions
     
     (2) Different requirements may be prescribed under [section 169(1)(3A)][307] in respect of different classes of electricity generators or electricity distributors.
     
-    Section 169B: inserted, on 5 December 2006, by [section 27][558] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 169B: inserted, on 5 December 2006, by [section 27][560] of the Electricity Amendment Act 2006 (2006 No 70).
 
 #### Regulations---Information disclosure
 
 \[Repealed\]
     
-*   Heading: repealed, on 8 August 2001, by [section 14(1)][559] of the Electricity Amendment Act 2001 (2001 No 40).
+*   Heading: repealed, on 8 August 2001, by [section 14(1)][561] of the Electricity Amendment Act 2001 (2001 No 40).
 
 ##### 170 Regulations relating to information disclosure
     
 *   \[Repealed\]
     
-    Section 170: repealed, on 8 August 2001, by [section 14(1)][559] of the Electricity Amendment Act 2001 (2001 No 40).
+    Section 170: repealed, on 8 August 2001, by [section 14(1)][561] of the Electricity Amendment Act 2001 (2001 No 40).
 
 #### Regulations---Consumer choice of electricity retailer
 
 \[Repealed\]
     
-*   Heading: repealed, on 8 August 2001, pursuant to [section 15][560] of the Electricity Amendment Act 2001 (2001 No 40).
+*   Heading: repealed, on 8 August 2001, pursuant to [section 15][562] of the Electricity Amendment Act 2001 (2001 No 40).
 
 ##### 170A Regulations relating to ability of consumers to choose preferred electricity retailer
     
 *   \[Repealed\]
     
-    Section 170A: repealed, on 8 August 2001 (after expiring on 1 April 2001), by [section 15][560] of the Electricity Amendment Act 2001 (2001 No 40).
+    Section 170A: repealed, on 8 August 2001 (after expiring on 1 April 2001), by [section 15][562] of the Electricity Amendment Act 2001 (2001 No 40).
 
 ##### 171 Information to be supplied to Secretary
     
 *   \[Repealed\]
     
-    Section 171: repealed, on 8 August 2001, by [section 14(1)][559] of the Electricity Amendment Act 2001 (2001 No 40).
+    Section 171: repealed, on 8 August 2001, by [section 14(1)][561] of the Electricity Amendment Act 2001 (2001 No 40).
 
 ##### 171A Reasonable charge may be imposed for providing copies of statements
     
 *   \[Repealed\]
     
-    Section 171A: repealed, on 8 August 2001, by [section 14(1)][559] of the Electricity Amendment Act 2001 (2001 No 40).
+    Section 171A: repealed, on 8 August 2001, by [section 14(1)][561] of the Electricity Amendment Act 2001 (2001 No 40).
 
 ##### 172 Offences
     
 *   \[Repealed\]
     
-    Section 172: repealed, on 8 August 2001, by [section 14(1)][559] of the Electricity Amendment Act 2001 (2001 No 40).
+    Section 172: repealed, on 8 August 2001, by [section 14(1)][561] of the Electricity Amendment Act 2001 (2001 No 40).
 
 ### Subpart 2---Electricity industry regulation-making powers
 
@@ -6204,7 +6208,7 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 172G: repealed, on 18 October 2004, by [section 9][561] of the Electricity Amendment Act 2004 (2004 No 80).
+    Section 172G: repealed, on 18 October 2004, by [section 9][563] of the Electricity Amendment Act 2004 (2004 No 80).
 
 ##### 172H Electricity governance rules
     
@@ -6401,13 +6405,13 @@ Governance of electricity industry
     
 *   \[Repealed\]
     
-    Section 172P: repealed, on 25 January 2005, by [section 200][562] of the Crown Entities Act 2004 (2004 No 115).
+    Section 172P: repealed, on 25 January 2005, by [section 200][564] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 172Q Role of board of the Commission
     
 *   \[Repealed\]
     
-    Section 172Q: repealed, on 25 January 2005, by [section 200][562] of the Crown Entities Act 2004 (2004 No 115).
+    Section 172Q: repealed, on 25 January 2005, by [section 200][564] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 172R Membership of the Commission's board
     
@@ -6431,13 +6435,13 @@ Governance of electricity industry
     
 *   \[Repealed\]
     
-    Section 172T: repealed, on 25 January 2005, by [section 200][562] of the Crown Entities Act 2004 (2004 No 115).
+    Section 172T: repealed, on 25 January 2005, by [section 200][564] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 172U Members accountable to Minister
     
 *   \[Repealed\]
     
-    Section 172U: repealed, on 25 January 2005, by [section 200][562] of the Crown Entities Act 2004 (2004 No 115).
+    Section 172U: repealed, on 25 January 2005, by [section 200][564] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 172V Notice of special meetings of Commission's board
     
@@ -6455,7 +6459,7 @@ Governance of electricity industry
     
 *   \[Repealed\]
     
-    Section 172W: repealed, on 18 October 2004, by [section 17][563] of the Electricity Amendment Act 2004 (2004 No 80).
+    Section 172W: repealed, on 18 October 2004, by [section 17][565] of the Electricity Amendment Act 2004 (2004 No 80).
 
 ##### 172X Objectives of recommendations
     
@@ -6467,7 +6471,7 @@ Governance of electricity industry
     
 *   \[Repealed\]
     
-    Section 172Y: repealed, on 18 October 2004, by [section 19][564] of the Electricity Amendment Act 2004 (2004 No 80).
+    Section 172Y: repealed, on 18 October 2004, by [section 19][566] of the Electricity Amendment Act 2004 (2004 No 80).
 
 ##### 172Z Minister must have regard to recommendations
     
@@ -6479,19 +6483,19 @@ Governance of electricity industry
 
 \[Repealed\]
     
-*   Heading: repealed, on 18 October 2004, by [section 21][565] of the Electricity Amendment Act 2004 (2004 No 80).
+*   Heading: repealed, on 18 October 2004, by [section 21][567] of the Electricity Amendment Act 2004 (2004 No 80).
 
 ##### 172ZA Power to direct EGB
     
 *   \[Repealed\]
     
-    Section 172ZA: repealed, on 18 October 2004, by [section 21][565] of the Electricity Amendment Act 2004 (2004 No 80).
+    Section 172ZA: repealed, on 18 October 2004, by [section 21][567] of the Electricity Amendment Act 2004 (2004 No 80).
 
 ##### 172ZB Procedure for giving direction
     
 *   \[Repealed\]
     
-    Section 172ZB: repealed, on 18 October 2004, by [section 21][565] of the Electricity Amendment Act 2004 (2004 No 80).
+    Section 172ZB: repealed, on 18 October 2004, by [section 21][567] of the Electricity Amendment Act 2004 (2004 No 80).
 
 #### Levy of industry participants
 
@@ -6521,7 +6525,7 @@ Governance of electricity industry
     
 *   \[Repealed\]
     
-    Section 172ZD: repealed, on 25 January 2005, by [section 200][562] of the Crown Entities Act 2004 (2004 No 115).
+    Section 172ZD: repealed, on 25 January 2005, by [section 200][564] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 172ZE Regulations
     
@@ -6533,19 +6537,19 @@ Governance of electricity industry
     
 *   \[Repealed\]
     
-    Section 172ZF: repealed, on 25 January 2005, by [section 200][562] of the Crown Entities Act 2004 (2004 No 115).
+    Section 172ZF: repealed, on 25 January 2005, by [section 200][564] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 172ZG Amendment to Ombudsmen Act 1975
     
 *   \[Repealed\]
     
-    Section 172ZG: repealed, on 18 October 2004, by [section 24(3)][566] of the Electricity Amendment Act 2004 (2004 No 80).
+    Section 172ZG: repealed, on 18 October 2004, by [section 24(3)][568] of the Electricity Amendment Act 2004 (2004 No 80).
 
 ##### 172ZH Amendment to Public Finance Act 1989
     
 *   \[Repealed\]
     
-    Section 172ZH: repealed, on 18 October 2004, by [section 24(3)][566] of the Electricity Amendment Act 2004 (2004 No 80).
+    Section 172ZH: repealed, on 18 October 2004, by [section 24(3)][568] of the Electricity Amendment Act 2004 (2004 No 80).
 
 ### Subpart 2---Accountability of Electricity Commission
 
@@ -6557,7 +6561,7 @@ Governance of electricity industry
     
 *   \[Repealed\]
     
-    Section 172ZI: repealed, on 18 October 2004, by [section 25][567] of the Electricity Amendment Act 2004 (2004 No 80).
+    Section 172ZI: repealed, on 18 October 2004, by [section 25][569] of the Electricity Amendment Act 2004 (2004 No 80).
 
 ##### 172ZJ Interpretation
     
@@ -6587,7 +6591,7 @@ Governance of electricity industry
     
 *   \[Repealed\]
     
-    Section 172ZN: repealed, on 25 January 2005, by [section 200][562] of the Crown Entities Act 2004 (2004 No 115).
+    Section 172ZN: repealed, on 25 January 2005, by [section 200][564] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 172ZO Assurance audit by Auditor-General
     
@@ -6622,7 +6626,7 @@ Governance of electricity industry
 ## Part 16  
 Repeals, etc, and transitional provisions
     
-*   Part 16 heading: inserted, on 8 August 2001, by [section 17][568] of the Electricity Amendment Act 2001 (2001 No 40).
+*   Part 16 heading: inserted, on 8 August 2001, by [section 17][570] of the Electricity Amendment Act 2001 (2001 No 40).
 
 #### Repeals, revocations, amendments, and savings
 
@@ -6686,7 +6690,7 @@ Repeals, etc, and transitional provisions
     
     *   (b) that is the successor of a person or body that, immediately before that date, was the holder of such a licence.
     
-    (2) Every electricity distributor to which this section applies shall, during the period of 1 year beginning on the date of the commencement of this section, ensure that there is available, within the area that, immediately before the commencement of this section, was specified in the licence held by that electricity distributor or the person or body of which that electricity distributor is the successor, such number of persons as is sufficient to ensure that persons wishing to have prescribed electrical work tested, certified, or inspected for the purposes of [section 114(1)][569] are able to have that testing, certification, and inspection carried out promptly and efficiently and at a reasonable cost.
+    (2) Every electricity distributor to which this section applies shall, during the period of 1 year beginning on the date of the commencement of this section, ensure that there is available, within the area that, immediately before the commencement of this section, was specified in the licence held by that electricity distributor or the person or body of which that electricity distributor is the successor, such number of persons as is sufficient to ensure that persons wishing to have prescribed electrical work tested, certified, or inspected for the purposes of [section 114(1)][571] are able to have that testing, certification, and inspection carried out promptly and efficiently and at a reasonable cost.
 
 ##### 182 Transitional provisions relating to proceedings, etc
     
@@ -6731,7 +6735,7 @@ Provisions applying in respect of Rural Electrical Reticulation Council
 
 \[Repealed\]
     
-*   Schedule 1: repealed, on 1 April 1997, by [section 55][509].
+*   Schedule 1: repealed, on 1 April 1997, by [section 55][510].
 
 ---
 
@@ -6740,7 +6744,7 @@ Provisions applying in respect of Electrical Workers Registration Board
 
 [s 157][270]
 
-*   Schedule 2 heading: amended, on 1 April 2010, by [section 28(a)][570] of the Electricity Amendment Act 2006 (2006 No 70).
+*   Schedule 2 heading: amended, on 1 April 2010, by [section 28(a)][572] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 1 Presiding Member and Deputy Presiding Member
     
@@ -6770,7 +6774,7 @@ Provisions applying in respect of Electrical Workers Registration Board
 
 ##### 3 Continuation in office after term expires
     
-*   Notwithstanding [clause 2][571], every member of the Board whose term of office has expired shall, unless sooner vacating office under [clause 4][572], continue to hold office, by virtue of the appointment for the term that has expired, until---
+*   Notwithstanding [clause 2][573], every member of the Board whose term of office has expired shall, unless sooner vacating office under [clause 4][574], continue to hold office, by virtue of the appointment for the term that has expired, until---
         
     *   (a) that member is reappointed; or
     
@@ -6794,15 +6798,15 @@ Provisions applying in respect of Electrical Workers Registration Board
     
     (6) Every person appointed to fill an extraordinary vacancy shall be appointed for the residue of the term for which the vacating member was appointed.
     
-    Schedule 2 clause 4(1): amended, on 1 January 2002, by [section 70(1)][573] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Schedule 2 clause 4(1): amended, on 1 January 2002, by [section 70(1)][575] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 5 Proceedings not invalidated through vacancy in membership
     
 *   No act or proceeding of the Board, or of any person acting as a member of the Board, shall be invalidated because there was a vacancy in the membership of the Board at the time of the act or proceeding, or because of the subsequent discovery that there was a defect in the appointment of a person so acting, or that the person was incapable of being, or had ceased to be, a member.
     
-    Schedule 2 clause 5: amended, on 1 April 2010, by [section 28(b)][570] of the Electricity Amendment Act 2006 (2006 No 70).
+    Schedule 2 clause 5: amended, on 1 April 2010, by [section 28(b)][572] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Schedule 2 clause 5: amended, on 1 April 2010, by [section 28(c)][570] of the Electricity Amendment Act 2006 (2006 No 70).
+    Schedule 2 clause 5: amended, on 1 April 2010, by [section 28(c)][572] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 6 Appointment of deputies
     
@@ -6826,9 +6830,9 @@ Provisions applying in respect of Electrical Workers Registration Board
     
     (4) \[Repealed\]
     
-    Schedule 2 clause 7(2): repealed, on 1 April 2010, by [section 28(d)][570] of the Electricity Amendment Act 2006 (2006 No 70).
+    Schedule 2 clause 7(2): repealed, on 1 April 2010, by [section 28(d)][572] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Schedule 2 clause 7(4): repealed, on 1 April 2010, by [section 28(d)][570] of the Electricity Amendment Act 2006 (2006 No 70).
+    Schedule 2 clause 7(4): repealed, on 1 April 2010, by [section 28(d)][572] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 8 Presiding Member to preside at meetings
     
@@ -6840,9 +6844,9 @@ Provisions applying in respect of Electrical Workers Registration Board
     
     (4) \[Repealed\]
     
-    Schedule 2 clause 8(1): amended, on 1 April 2010, by [section 28(c)][570] of the Electricity Amendment Act 2006 (2006 No 70).
+    Schedule 2 clause 8(1): amended, on 1 April 2010, by [section 28(c)][572] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Schedule 2 clause 8(4): repealed, on 1 April 2010, by [section 28(d)][570] of the Electricity Amendment Act 2006 (2006 No 70).
+    Schedule 2 clause 8(4): repealed, on 1 April 2010, by [section 28(d)][572] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 9 Voting at meetings
     
@@ -6852,29 +6856,29 @@ Provisions applying in respect of Electrical Workers Registration Board
     
     (3) A resolution assented to by letter, telegram, fax message, telex, or electronic message by all members of the Board is as valid and effectual as if it had been passed at a meeting of the Board duly called and constituted.
     
-    Schedule 2 clause 9(1): amended, on 1 April 2010, by [section 28(b)][570] of the Electricity Amendment Act 2006 (2006 No 70).
+    Schedule 2 clause 9(1): amended, on 1 April 2010, by [section 28(b)][572] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Schedule 2 clause 9(1): amended, on 1 April 2010, by [section 28(c)][570] of the Electricity Amendment Act 2006 (2006 No 70).
+    Schedule 2 clause 9(1): amended, on 1 April 2010, by [section 28(c)][572] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Schedule 2 clause 9(3): substituted, on 15 November 2000, by [section 8][574] of the Electricity Amendment Act 2000 (2000 No 61).
+    Schedule 2 clause 9(3): substituted, on 15 November 2000, by [section 8][576] of the Electricity Amendment Act 2000 (2000 No 61).
     
-    Schedule 2 clause 9(3): amended, on 1 April 2010, by [section 28(b)][570] of the Electricity Amendment Act 2006 (2006 No 70).
+    Schedule 2 clause 9(3): amended, on 1 April 2010, by [section 28(b)][572] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Schedule 2 clause 9(3): amended, on 1 April 2010, by [section 28(c)][570] of the Electricity Amendment Act 2006 (2006 No 70).
+    Schedule 2 clause 9(3): amended, on 1 April 2010, by [section 28(c)][572] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 10 Disqualification from attendance
     
 *   No member of the Board shall be entitled to be present or vote or otherwise participate in the capacity of a member of the Board at any part of a meeting of the Board where any matter relating to the member's registration, suspension, or discipline under this Act is being considered.
     
-    Schedule 2 clause 10: amended, on 1 April 2010, by [section 28(b)][570] of the Electricity Amendment Act 2006 (2006 No 70).
+    Schedule 2 clause 10: amended, on 1 April 2010, by [section 28(b)][572] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Schedule 2 clause 10: amended, on 1 April 2010, by [section 28(c)][570] of the Electricity Amendment Act 2006 (2006 No 70).
+    Schedule 2 clause 10: amended, on 1 April 2010, by [section 28(c)][572] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 11 Procedure
     
 *   Except as expressly provided in this Act, the Board may regulate its procedure in such manner as it thinks fit.
     
-    Schedule 2 clause 11: amended, on 1 April 2010, by [section 28(e)][570] of the Electricity Amendment Act 2006 (2006 No 70).
+    Schedule 2 clause 11: amended, on 1 April 2010, by [section 28(e)][572] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 12 Committees
     
@@ -6892,19 +6896,19 @@ Provisions applying in respect of Electrical Workers Registration Board
 
 ##### 13 Remuneration and travelling allowances
     
-*   (1) There may be paid to the members of the Board and the members of any committee appointed by the Board, remuneration by way of fees, salary, or allowances, and travelling allowances and expenses, in accordance with the [Fees and Travelling Allowances Act 1951][471], and the provisions of that Act shall apply accordingly.
+*   (1) There may be paid to the members of the Board and the members of any committee appointed by the Board, remuneration by way of fees, salary, or allowances, and travelling allowances and expenses, in accordance with the [Fees and Travelling Allowances Act 1951][472], and the provisions of that Act shall apply accordingly.
     
-    (2) For the purposes of subclause (1), the Board and every committee appointed by the Board is declared to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][471].
+    (2) For the purposes of subclause (1), the Board and every committee appointed by the Board is declared to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][472].
     
-    Schedule 2 clause 13(1): amended, on 1 April 2010, by [section 28(f)][570] of the Electricity Amendment Act 2006 (2006 No 70).
+    Schedule 2 clause 13(1): amended, on 1 April 2010, by [section 28(f)][572] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Schedule 2 clause 13(2): amended, on 1 April 2010, by [section 28(g)][570] of the Electricity Amendment Act 2006 (2006 No 70).
+    Schedule 2 clause 13(2): amended, on 1 April 2010, by [section 28(g)][572] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 14 Application of certain Acts to members
     
-*   No person shall be deemed to be employed in the service of the Crown for the purposes of the [State Sector Act 1988][524] or the [Government Superannuation Fund Act 1956][575] by reason only of that person's appointment as a member of the Board or any committee appointed by the Board.
+*   No person shall be deemed to be employed in the service of the Crown for the purposes of the [State Sector Act 1988][525] or the [Government Superannuation Fund Act 1956][577] by reason only of that person's appointment as a member of the Board or any committee appointed by the Board.
     
-    Schedule 2 clause 14: amended, on 1 April 2010, by [section 28(f)][570] of the Electricity Amendment Act 2006 (2006 No 70).
+    Schedule 2 clause 14: amended, on 1 April 2010, by [section 28(f)][572] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ##### 15 Seal
     
@@ -6920,9 +6924,9 @@ Provisions applying in respect of Electrical Workers Registration Board
     
 *   No member of the Board shall be personally liable for any act or default done or made by the Board, or by any member of the Board, in good faith in the course of the operations of the Board.
     
-    Schedule 2 clause 17: amended, on 1 April 2010, by [section 28(b)][570] of the Electricity Amendment Act 2006 (2006 No 70).
+    Schedule 2 clause 17: amended, on 1 April 2010, by [section 28(b)][572] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Schedule 2 clause 17: amended, on 1 April 2010, by [section 28(c)][570] of the Electricity Amendment Act 2006 (2006 No 70).
+    Schedule 2 clause 17: amended, on 1 April 2010, by [section 28(c)][572] of the Electricity Amendment Act 2006 (2006 No 70).
 
 ---
 
@@ -6933,7 +6937,7 @@ Further provisions for the Commission and the Commission's Board
 
 \[Repealed\]
     
-*   Schedule 2A: repealed, on 25 January 2005, by [section 200][562] of the Crown Entities Act 2004 (2004 No 115).
+*   Schedule 2A: repealed, on 25 January 2005, by [section 200][564] of the Crown Entities Act 2004 (2004 No 115).
 
 ---
 
@@ -7016,7 +7020,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Finance Act 1987 (1987 No 200)
 
-_Amendment(s) incorporated in the [Act(s)][576]._
+_Amendment(s) incorporated in the [Act(s)][578]._
 
 ##### Greytown Electric Lighting and Loan Empowering Act 1900 (1900 No 15 (L))
 
@@ -7052,19 +7056,19 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Reserves and other Lands Disposal and Public Bodies Empowering Act 1910 (1910 No 80)
 
-_Amendment(s) incorporated in the [Act(s)][577]._
+_Amendment(s) incorporated in the [Act(s)][579]._
 
 ##### Reserves and other Lands Disposal and Public Bodies Empowering Act 1915 (1915 No 68)
 
-_Amendment(s) incorporated in the [Act(s)][578]._
+_Amendment(s) incorporated in the [Act(s)][580]._
 
 ##### Reserves and other Lands Disposal and Public Bodies Empowering Act 1916 (1916 No 14)
 
-_Amendment(s) incorporated in the [Act(s)][579]._
+_Amendment(s) incorporated in the [Act(s)][581]._
 
 ##### Reserves and other Lands Disposal and Public Bodies Empowering Act 1925 (1925 No 46)
 
-_Amendment(s) incorporated in the [Act(s)][580]._
+_Amendment(s) incorporated in the [Act(s)][582]._
 
 ##### Ross Goldfields Electric Power Transmission Act 1908 (1908 No 37 (L))
 
@@ -7109,27 +7113,27 @@ Enactments amended
 
 ##### Conservation Act 1987 (1987 No 65)
 
-_Amendment(s) incorporated in the [Act(s)][581]._
+_Amendment(s) incorporated in the [Act(s)][583]._
 
 ##### Conservation Law Reform Act 1990 (1990 No 31)
 
-_Amendment(s) incorporated in the [Act(s)][582]._
+_Amendment(s) incorporated in the [Act(s)][584]._
 
 ##### Environment Act 1986 (1986 No 127)
 
-_Amendment(s) incorporated in the [Act(s)][583]._
+_Amendment(s) incorporated in the [Act(s)][585]._
 
 ##### Health and Safety in Employment Act 1992 (1992 No 96)
 
-_Amendment(s) incorporated in the [Act(s)][476]._
+_Amendment(s) incorporated in the [Act(s)][477]._
 
 ##### Judicature Amendment Act 1991 (1991 No 60)
 
-_Amendment(s) incorporated in the [Act(s)][584]._
+_Amendment(s) incorporated in the [Act(s)][586]._
 
 ##### Local Government Act 1974 (1974 No 66) (RS Vol 25, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][482]._
+_Amendment(s) incorporated in the [Act(s)][483]._
 
 ##### Mining Act 1971 (1971 No 25) (RS Vol 17, p 355)
 
@@ -7137,35 +7141,35 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Ministry of Energy (Abolition) Act 1989 (1989 No 140)
 
-_Amendment(s) incorporated in the [Act(s)][585]._
+_Amendment(s) incorporated in the [Act(s)][587]._
 
 ##### New Zealand Railways Corporation Act 1981 (1981 No 119)
 
-_Amendment(s) incorporated in the [Act(s)][586]._
+_Amendment(s) incorporated in the [Act(s)][588]._
 
 ##### Public Bodies Contracts Act 1959 (1959 No 98) (RS Vol 27, p 795)
 
-_Amendment(s) incorporated in the [Act(s)][587]._
+_Amendment(s) incorporated in the [Act(s)][589]._
 
 ##### Public Finance Act 1989 (1989 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][588]._
+_Amendment(s) incorporated in the [Act(s)][590]._
 
 ##### Public Works Act 1981 (1981 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][589]._
+_Amendment(s) incorporated in the [Act(s)][591]._
 
 ##### Radiocommunications Act 1989 (1989 No 148)
 
-_Amendment(s) incorporated in the [Act(s)][590]._
+_Amendment(s) incorporated in the [Act(s)][592]._
 
 ##### Resource Management Act 1991 (1991 No 69)
 
-_Amendment(s) incorporated in the [Act(s)][591]_.
+_Amendment(s) incorporated in the [Act(s)][593]_.
 
 ##### State-Owned Enterprises Act 1986 (1986 No 124)
 
-_Amendment(s) incorporated in the [Act(s)][592]._
+_Amendment(s) incorporated in the [Act(s)][594]._
 
 ##### Submarine Cables and Pipelines Protection Act 1966 (1966 No 5) (RS Vol 13, p 629)
 
@@ -7303,9 +7307,9 @@ Commencementsee section 2
     
     (6) \[Repealed\]
     
-    Section 19(5): substituted, on 26 January 2004, by [section 30][593] of the Electricity Amendment Act 2004 (2004 No 80).
+    Section 19(5): substituted, on 26 January 2004, by [section 30][595] of the Electricity Amendment Act 2004 (2004 No 80).
     
-    Section 19(6): repealed, on 26 January 2004, by [section 30][593] of the Electricity Amendment Act 2004 (2004 No 80).
+    Section 19(6): repealed, on 26 January 2004, by [section 30][595] of the Electricity Amendment Act 2004 (2004 No 80).
 
 ##### 20 Savings provision for Transpower's pricing methodology before 26 July 2001
     
@@ -7343,7 +7347,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Electricity Amendment Act 2006][594].
+*   This Act is the [Electricity Amendment Act 2006][596].
 
 ##### 2 Commencement
     
@@ -7351,7 +7355,7 @@ Commencementsee section 2
     
     (2) The rest of this Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions.
     
-    Section 2(2): the rest of this Act brought into force, on 1 April 2010, by the [Electricity Amendment Act 2006 Commencement Order 2010][595] (SR 2010/35).
+    Section 2(2): the rest of this Act brought into force, on 1 April 2010, by the [Electricity Amendment Act 2006 Commencement Order 2010][597] (SR 2010/35).
 
 ##### 3 Principal Act amended
     
@@ -7611,7 +7615,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Infrastructure (Amendments Relating to Utilities Access) Act 2010][596].
+*   This Act is the [Infrastructure (Amendments Relating to Utilities Access) Act 2010][598].
 
 ##### 2 Commencement
     
@@ -7641,85 +7645,87 @@ Commencementsee section 2
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][597] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][598] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][599] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][600] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][599] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][600] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][601] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][602] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
 *   WorkSafe New Zealand Act 2013 (2013 No 94): [section 22][454]
     
-    Legislation Act 2012 (2012 No 119): [section 77(3)][517]
+    Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][460]
+    
+    Legislation Act 2012 (2012 No 119): [section 77(3)][518]
     
     Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45): [section 11][446]
     
-    Search and Surveillance Act 2012 (2012 No 24): [section 315][540]
+    Search and Surveillance Act 2012 (2012 No 24): [section 315][541]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][466]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][467]
     
     Electricity Industry Act 2010 (2010 No 116): [sections 161--164][422]
     
-    Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99): [sections 14--16][493]
+    Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99): [sections 14--16][494]
     
-    Unit Titles Act 2010 (2010 No 22): [section 233(1)][460]
+    Unit Titles Act 2010 (2010 No 22): [section 233(1)][461]
     
-    [Electricity Amendment Act 2006 Commencement Order 2010][595] (SR 2010/35)
+    [Electricity Amendment Act 2006 Commencement Order 2010][597] (SR 2010/35)
     
-    [Electricity (Renewable Preference) Repeal Act 2008][601] (2008 No 111)
+    [Electricity (Renewable Preference) Repeal Act 2008][603] (2008 No 111)
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][477]
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][478]
     
-    Electricity Industry Reform Amendment Act 2008 (2008 No 71): [section 30][462]
+    Electricity Industry Reform Amendment Act 2008 (2008 No 71): [section 30][463]
     
     Commerce Amendment Act 2008 (2008 No 70): [section 29][445]
     
-    [Electricity Amendment Act 2008][602] (2008 No 53)
+    [Electricity Amendment Act 2008][604] (2008 No 53)
     
     Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][455]
     
-    [Electricity Amendment Act 2007][603] (2007 No 53)
+    [Electricity Amendment Act 2007][605] (2007 No 53)
     
-    [Electricity Amendment Act 2006][594] (2006 No 70)
+    [Electricity Amendment Act 2006][596] (2006 No 70)
     
-    [Electricity Amendment Act 2005][604] (2005 No 88)
+    [Electricity Amendment Act 2005][606] (2005 No 88)
     
     Railways Act 2005 (2005 No 37): [section 103(3)][452]
     
-    Crown Entities Act 2004 (2004 No 115): [section 200][562]
+    Crown Entities Act 2004 (2004 No 115): [section 200][564]
     
-    [Electricity Amendment Act 2004][605] (2004 No 80)
+    [Electricity Amendment Act 2004][607] (2004 No 80)
     
-    Building Act 2004 (2004 No 72): [section 414][556]
+    Building Act 2004 (2004 No 72): [section 414][558]
     
-    [Electricity Amendment Act 2003][606] (2003 No 72)
+    [Electricity Amendment Act 2003][608] (2003 No 72)
     
     Local Government Act 2002 (2002 No 84): [section 262][453]
     
-    District Courts Amendment Act 2002 (2002 No 63): [section 4][470]
+    District Courts Amendment Act 2002 (2002 No 63): [section 4][471]
     
-    Local Government (Rating) Act 2002 (2002 No 6): [section 137(1)][501]
+    Local Government (Rating) Act 2002 (2002 No 6): [section 137(1)][502]
     
     Telecommunications Act 2001 (2001 No 103): [section 158][458]
     
-    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][573]
+    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][575]
     
-    [Electricity Amendment Act (No 2) 2001][607] (2001 No 64)
+    [Electricity Amendment Act (No 2) 2001][609] (2001 No 64)
     
     [Electricity Amendment Act 2001][442] (2001 No 40)
     
-    [Electricity Amendment Act 2000][608] (2000 No 61)
+    [Electricity Amendment Act 2000][610] (2000 No 61)
     
     Land Transport Act 1998 (1998 No 110): [section 215(1)][459]
     
     Electricity Industry Reform Act 1998 (1998 No 88): section 100
     
-    [Electricity Amendment Act 1997][609] (1997 No 42)
+    [Electricity Amendment Act 1997][611] (1997 No 42)
     
-    Arbitration Act 1996 (1996 No 99): [section 20][505]
+    Arbitration Act 1996 (1996 No 99): [section 20][506]
     
-    Submarine Cables and Pipelines Protection Act 1996 (1996 No 22): [section 37(1)][610]
+    Submarine Cables and Pipelines Protection Act 1996 (1996 No 22): [section 37(1)][612]
     
     Electricity Amendment Act 1993 (1993 No 143)
     
@@ -8189,154 +8195,156 @@ Commencementsee section 2
 [457]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM293026
 [458]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM127740
 [459]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM435656
-[460]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM1160866
-[461]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM97425
-[462]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM1100526
-[463]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM175289
-[464]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM394689
-[465]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM3360482
-[466]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM3360714
-[467]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM147655
-[468]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM243909
-[469]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM243795
-[470]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM168713
-[471]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM264952
-[472]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM163175
-[473]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM285763
-[474]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM279288
-[475]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM394690
-[476]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM278828
-[477]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM1102349
-[478]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM394693
-[479]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM119011
-[480]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM119737
-[481]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM97429
-[482]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM415531
-[483]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM45426
-[484]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM119704
-[485]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM97431
-[486]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM97433
-[487]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM238510
-[488]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM238272
-[489]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM45797
-[490]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM97439
-[491]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM119714
-[492]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM360692
-[493]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2924924
-[494]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM127423
-[495]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2924925
-[496]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM119717
-[497]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM119720
-[498]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM119723
-[499]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM119726
-[500]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM131393
-[501]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM133500
-[502]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM360694
-[503]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM403276
-[504]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2924927
-[505]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM405710
-[506]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM175293
-[507]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM330308
-[508]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM129566
-[509]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM282824
-[510]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM394694
-[511]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM1763611
-[512]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM282850
-[513]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM282863
-[514]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM394697
-[515]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2997643
-[516]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2998573
-[517]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2998633
-[518]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM64784
-[519]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM297441
-[520]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM139145
-[521]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM139153
-[522]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM396239
-[523]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM396241
-[524]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM129109
-[525]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM396242
-[526]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM396243
-[527]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM396244
-[528]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM31483
-[529]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM396245
-[530]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM396248
-[531]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2136542
-[532]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2136781
-[533]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM204972
-[534]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2136771
-[535]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2136842
-[536]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2136877
-[537]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2136888
-[538]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2136896
-[539]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM396250
-[540]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2137103
-[541]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM396251
-[542]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM3360067
-[543]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM279656
-[544]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM396261
-[545]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM3360057
-[546]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM311346
-[547]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM3359902
-[548]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM160808
-[549]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM396269
-[550]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM289897
-[551]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM306035
-[552]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM31458
-[553]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM1448025
-[554]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM396271
-[555]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM968225
-[556]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM309090
-[557]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM112167
-[558]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM396272
-[559]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM97451
-[560]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM97452
-[561]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM314869
-[562]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM331111
-[563]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM315108
-[564]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM315111
-[565]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM315114
-[566]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM315118
-[567]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM315119
-[568]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM97738
-[569]: http://www.legislation.govt.nz/act/public/1992/0122/latest/whole.html#DLM283116
-[570]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM396276
-[571]: http://www.legislation.govt.nz/act/public/1992/0122/latest/whole.html#DLM284160
-[572]: http://www.legislation.govt.nz/act/public/1992/0122/latest/whole.html#DLM284162
-[573]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM122579
-[574]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM76241
-[575]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM446000
-[576]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM125679
-[577]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM178069
-[578]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM188457
-[579]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM189133
-[580]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM201456
-[581]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM103609
-[582]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM207911
-[583]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM98974
-[584]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM230212
-[585]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM194753
-[586]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM57005
-[587]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM324284
-[588]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM163182
-[589]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM47300
-[590]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM195581
-[591]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM236206
-[592]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM97376
-[593]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM315146
-[594]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM394641
-[595]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2759116
-[596]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2924904
-[597]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2998516
-[598]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2998515
-[599]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2998532
-[600]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[601]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM1763600
-[602]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM1448015
-[603]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM968218
-[604]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM360686
-[605]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM314835
-[606]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM217021
-[607]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM112160
-[608]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM76230
-[609]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM410323
-[610]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM375896
+[460]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM4929207
+[461]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM1160866
+[462]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM97425
+[463]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM1100526
+[464]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM175289
+[465]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM394689
+[466]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM3360482
+[467]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM3360714
+[468]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM147655
+[469]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM243909
+[470]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM243795
+[471]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM168713
+[472]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM264952
+[473]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM163175
+[474]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM285763
+[475]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM279288
+[476]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM394690
+[477]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM278828
+[478]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM1102349
+[479]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM394693
+[480]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM119011
+[481]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM119737
+[482]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM97429
+[483]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM415531
+[484]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM45426
+[485]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM119704
+[486]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM97431
+[487]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM97433
+[488]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM238510
+[489]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM238272
+[490]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM45797
+[491]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM97439
+[492]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM119714
+[493]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM360692
+[494]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2924924
+[495]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM127423
+[496]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2924925
+[497]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM119717
+[498]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM119720
+[499]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM119723
+[500]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM119726
+[501]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM131393
+[502]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM133500
+[503]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM360694
+[504]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM403276
+[505]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2924927
+[506]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM405710
+[507]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM175293
+[508]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM330308
+[509]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM129566
+[510]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM282824
+[511]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM394694
+[512]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM1763611
+[513]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM282850
+[514]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM282863
+[515]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM394697
+[516]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2997643
+[517]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2998573
+[518]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2998633
+[519]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM64784
+[520]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM297441
+[521]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM139145
+[522]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM139153
+[523]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM396239
+[524]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM396241
+[525]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM129109
+[526]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM396242
+[527]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM396243
+[528]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM396244
+[529]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM31483
+[530]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM396245
+[531]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM396248
+[532]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2136542
+[533]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2136781
+[534]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM204972
+[535]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2136771
+[536]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2136842
+[537]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2136877
+[538]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2136888
+[539]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2136896
+[540]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM396250
+[541]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2137103
+[542]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM396251
+[543]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM3360067
+[544]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM279656
+[545]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM396261
+[546]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM3360057
+[547]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM311346
+[548]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM3359902
+[549]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM160808
+[550]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM396269
+[551]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM289897
+[552]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM306035
+[553]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM5834632
+[554]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM31458
+[555]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM1448025
+[556]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM396271
+[557]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM968225
+[558]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM309090
+[559]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM112167
+[560]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM396272
+[561]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM97451
+[562]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM97452
+[563]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM314869
+[564]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM331111
+[565]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM315108
+[566]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM315111
+[567]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM315114
+[568]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM315118
+[569]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM315119
+[570]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM97738
+[571]: http://www.legislation.govt.nz/act/public/1992/0122/latest/whole.html#DLM283116
+[572]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM396276
+[573]: http://www.legislation.govt.nz/act/public/1992/0122/latest/whole.html#DLM284160
+[574]: http://www.legislation.govt.nz/act/public/1992/0122/latest/whole.html#DLM284162
+[575]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM122579
+[576]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM76241
+[577]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM446000
+[578]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM125679
+[579]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM178069
+[580]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM188457
+[581]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM189133
+[582]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM201456
+[583]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM103609
+[584]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM207911
+[585]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM98974
+[586]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM230212
+[587]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM194753
+[588]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM57005
+[589]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM324284
+[590]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM163182
+[591]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM47300
+[592]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM195581
+[593]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM236206
+[594]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM97376
+[595]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM315146
+[596]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM394641
+[597]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2759116
+[598]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2924904
+[599]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2998516
+[600]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2998515
+[601]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM2998532
+[602]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[603]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM1763600
+[604]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM1448015
+[605]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM968218
+[606]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM360686
+[607]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM314835
+[608]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM217021
+[609]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM112160
+[610]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM76230
+[611]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM410323
+[612]: http://www.legislation.govt.nz/act/public/1992/0122/latest/link.aspx?id=DLM375896
