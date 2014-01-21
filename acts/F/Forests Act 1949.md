@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 1 January 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -520,6 +520,8 @@ An Act to consolidate and amend the law relating to forestry
         
     *   (a) a Saturday, a Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
     
+    *   (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    
     *   (b) a day in the period commencing with 20 December in any year and ending with 15 January in the following year.
     
     (2) Unless in any case the context otherwise requires, every reference in this Act or any other Act or in any regulation, rule, order, agreement, deed, instrument, application, notice, licence, or other document whatsoever in force at the date on which this subsection comes into force---
@@ -644,6 +646,8 @@ An Act to consolidate and amend the law relating to forestry
     
     Section 2(1) **working day**: inserted, on 1 July 1993, by [section 2(1)][171] of the Forests Amendment Act 1993 (1993 No 7).
     
+    Section 2(1) **working day** paragraph (ab): inserted, on 1 January 2014, by [section 8][178] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
+    
     Section 2(1) **working plan**: repealed, on 19 November 1976, by section 2(2) of the Forests Amendment Act 1976 (1976 No 45).
     
     Section 2(2): inserted, on 1 April 1987, by [section 32(1)][172] of the State-Owned Enterprises Act 1986 (1986 No 124).
@@ -665,25 +669,25 @@ Administration
     
     Compare: 1921--22 No 43 s 4
     
-    Section 3 heading: replaced, on 1 April 1987, by [section 2(2)(a)][178].
+    Section 3 heading: replaced, on 1 April 1987, by [section 2(2)(a)][179].
     
-    Section 3(1): amended, on 1 April 1987, by [section 2(2)(a)][178].
+    Section 3(1): amended, on 1 April 1987, by [section 2(2)(a)][179].
     
-    Section 3(2): amended, on 1 April 1987, by [section 2(2)(a)][178].
+    Section 3(2): amended, on 1 April 1987, by [section 2(2)(a)][179].
     
-    Section 3(3): amended, on 1 April 1987, by [section 2(2)(a)][178].
+    Section 3(3): amended, on 1 April 1987, by [section 2(2)(a)][179].
 
 ##### 4 Delegation of Minister's powers
     
 *   \[Repealed\]
     
-    Section 4: repealed, on 15 December 2005, by [section 3][179] of the Forests Amendment Act 2005 (2005 No 103).
+    Section 4: repealed, on 15 December 2005, by [section 3][180] of the Forests Amendment Act 2005 (2005 No 103).
 
 ##### 4A Delegation of powers by Secretary
     
 *   \[Repealed\]
     
-    Section 4A: repealed, on 15 December 2005, by [section 4][180] of the Forests Amendment Act 2005 (2005 No 103).
+    Section 4A: repealed, on 15 December 2005, by [section 4][181] of the Forests Amendment Act 2005 (2005 No 103).
 
 ##### 5 New Zealand Forest Service
     
@@ -727,11 +731,11 @@ Administration
 
 ##### 11 Forestry officers
     
-*   (1) There may from time to time be appointed under the [State Sector Act 1988][181] such forestry officers as may be required for the purposes of this Act.
+*   (1) There may from time to time be appointed under the [State Sector Act 1988][182] such forestry officers as may be required for the purposes of this Act.
     
-    (2) The Minister may from time to time appoint as a forestry officer for the purposes of this Act any person employed in a State enterprise within the meaning of the [State-Owned Enterprises Act 1986][182] or in a Crown Research Institute within the meaning of the [Crown Research Institutes Act 1992][183], and may prescribe the functions and powers of a person so appointed.
+    (2) The Minister may from time to time appoint as a forestry officer for the purposes of this Act any person employed in a State enterprise within the meaning of the [State-Owned Enterprises Act 1986][183] or in a Crown Research Institute within the meaning of the [Crown Research Institutes Act 1992][184], and may prescribe the functions and powers of a person so appointed.
     
-    (3) No person is to be treated as employed in the State services for the purposes of the [State Sector Act 1988][181], or in the Government service for the purposes of the [Government Superannuation Fund Act 1956][184], by reason only of the person's appointment under subsection (2).
+    (3) No person is to be treated as employed in the State services for the purposes of the [State Sector Act 1988][182], or in the Government service for the purposes of the [Government Superannuation Fund Act 1956][185], by reason only of the person's appointment under subsection (2).
     
     Section 11: replaced, on 11 November 1998, by [section 9(2)][174] of the Ministry of Agriculture and Forestry (Restructuring) Act 1998 (1998 No 106).
 
@@ -809,7 +813,7 @@ Administration
     
     Compare: 1948 No 56 s 3
     
-    Section 16(1): amended, on 25 January 2005, pursuant to [section 83(7)][185] of the Public Finance Act 1989 (1989 No 44).
+    Section 16(1): amended, on 25 January 2005, pursuant to [section 83(7)][186] of the Public Finance Act 1989 (1989 No 44).
     
     Section 16(3): repealed (with effect on 1 April 1987), on 1 July 1987, by section 8 of the Forests Amendment Act 1987 (1987 No 118).
     
@@ -817,9 +821,9 @@ Administration
     
     Section 16(5): inserted, on 22 October 1981, by section 3 of the Forests Amendment Act 1981 (1981 No 69).
     
-    Section 16(5): amended, on 25 January 2005, by [section 37(1)][186] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 16(5): amended, on 25 January 2005, by [section 37(1)][187] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 16(5): amended, on 25 January 2005, pursuant to [section 83(7)][185] of the Public Finance Act 1989 (1989 No 44).
+    Section 16(5): amended, on 25 January 2005, pursuant to [section 83(7)][186] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 17 Proportion of timber royalties applicable for roadmaking in certain cases
     
@@ -1086,7 +1090,7 @@ State forest land
     
     Compare: 1921--22 No 43 s 42
     
-    Section 54: amended, on 1 July 2013, by [section 413][187] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 54: amended, on 1 July 2013, by [section 413][188] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 54: amended, on 19 November 1976, by section 12 of the Forests Amendment Act 1976 (1976 No 45).
 
@@ -1124,13 +1128,13 @@ State forest land
     
     Compare: 1921--22 No 43 s 41
     
-    Section 59 heading: amended, on 1 April 1987, by [section 2(2)(d)][178].
+    Section 59 heading: amended, on 1 April 1987, by [section 2(2)(d)][179].
     
     Section 59(a): amended (with effect on 1 April 1987), on 1 July 1987, by section 19(1)(b) of the Forests Amendment Act 1987 (1987 No 118).
     
-    Section 59(a): amended, on 1 April 1987, by [section 2(2)(c)][178].
+    Section 59(a): amended, on 1 April 1987, by [section 2(2)(c)][179].
     
-    Section 59(a): amended, on 1 April 1987, by [section 2(2)(d)][178].
+    Section 59(a): amended, on 1 April 1987, by [section 2(2)(d)][179].
     
     Section 59(b): amended (with effect on 1 April 1987), on 1 July 1987, by section 19(1)(c) of the Forests Amendment Act 1987 (1987 No 118).
 
@@ -1156,7 +1160,7 @@ State forest land
     
     Section 61: replaced, on 1 July 1987, by section 10(1) of the Forests Amendment Act 1987 (1987 No 118).
     
-    Section 61: amended, on 1 July 2013, by [section 413][187] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 61: amended, on 1 July 2013, by [section 413][188] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 62 Liability for loss or damage
     
@@ -1230,7 +1234,7 @@ Use of State forest land for public recreation
 ## Part 3  
 Ministry of Forestry administration of private forests
     
-*   Part 3 heading: amended, on 1 April 1987, by [section 2(2)(b)][178].
+*   Part 3 heading: amended, on 1 April 1987, by [section 2(2)(b)][179].
 
 ##### 64 Minister of Forestry may act as agent for owner of private forest
     
@@ -1242,7 +1246,7 @@ Ministry of Forestry administration of private forests
     
     (4) All expenses incurred by the Minister under this section may be paid out of moneys appropriated by Parliament for the purpose, and all fees and other moneys received by him in respect of services rendered by him while acting as agent under this section shall be paid into a Crown Bank Account.
     
-    (5) Notwithstanding anything contained in [Te Ture Whenua Maori Act 1993][188], the provisions of this section shall apply to Maori land as defined by that Act, and the assembled owners of any such land may pass, in the manner prescribed by [Part 9][189] of that Act, a resolution appointing the Minister or Crown Forestry Management Limited as their agent.
+    (5) Notwithstanding anything contained in [Te Ture Whenua Maori Act 1993][189], the provisions of this section shall apply to Maori land as defined by that Act, and the assembled owners of any such land may pass, in the manner prescribed by [Part 9][190] of that Act, a resolution appointing the Minister or Crown Forestry Management Limited as their agent.
     
     (6) Where the Minister is appointed under this section to act as agent for any purpose in connection with any land, forest, timber, or other forest produce---
         
@@ -1254,27 +1258,27 @@ Ministry of Forestry administration of private forests
     
     Compare: 1926 No 69 s 2
     
-    Section 64 heading: amended, on 1 April 1987, by [section 2(2)(a)][178].
+    Section 64 heading: amended, on 1 April 1987, by [section 2(2)(a)][179].
     
-    Section 64(1): amended, on 31 May 1996, by [clause 3][190] of the State-Owned Enterprises (Crown Forestry Management Limited) Order 1996 (SR 1996/122).
+    Section 64(1): amended, on 31 May 1996, by [clause 3][191] of the State-Owned Enterprises (Crown Forestry Management Limited) Order 1996 (SR 1996/122).
     
     Section 64(1): amended, on 1 April 1987, by [section 32(1)][172] of the State-Owned Enterprises Act 1986 (1986 No 124).
     
-    Section 64(1): amended, on 1 April 1987, by [section 2(2)(a)][178].
+    Section 64(1): amended, on 1 April 1987, by [section 2(2)(a)][179].
     
-    Section 64(2): amended, on 31 May 1996, by [clause 3][190] of the State-Owned Enterprises (Crown Forestry Management Limited) Order 1996 (SR 1996/122).
+    Section 64(2): amended, on 31 May 1996, by [clause 3][191] of the State-Owned Enterprises (Crown Forestry Management Limited) Order 1996 (SR 1996/122).
     
     Section 64(2): amended, on 1 April 1987, by [section 32(1)][172] of the State-Owned Enterprises Act 1986 (1986 No 124).
     
-    Section 64(2): amended, on 1 April 1987, by [section 2(2)(a)][178].
+    Section 64(2): amended, on 1 April 1987, by [section 2(2)(a)][179].
     
     Section 64(3): repealed, on 1 April 1987, by [section 32(1)][172] of the State-Owned Enterprises Act 1986 (1986 No 124).
     
-    Section 64(4): amended, on 25 January 2005, pursuant to [section 83(7)][185] of the Public Finance Act 1989 (1989 No 44).
+    Section 64(4): amended, on 25 January 2005, pursuant to [section 83(7)][186] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 64(5): amended on 1 July 1993, pursuant to [section 362(2)][191] of Te Ture Whenua Maori Act 1993 (1993 No 4).
+    Section 64(5): amended on 1 July 1993, pursuant to [section 362(2)][192] of Te Ture Whenua Maori Act 1993 (1993 No 4).
     
-    Section 64(5): amended, on 31 May 1996, by [clause 3][190] of the State-Owned Enterprises (Crown Forestry Management Limited) Order 1996 (SR 1996/122).
+    Section 64(5): amended, on 31 May 1996, by [clause 3][191] of the State-Owned Enterprises (Crown Forestry Management Limited) Order 1996 (SR 1996/122).
     
     Section 64(5): amended, on 1 April 1987, by [section 32(1)][172] of the State-Owned Enterprises Act 1986 (1986 No 124).
     
@@ -1290,40 +1294,40 @@ Ministry of Forestry administration of private forests
     
 *   \[Repealed\]
     
-    Section 66: repealed, on 27 November 1953, by [section 5(5)][192] of the Reserves and Other Lands Disposal Act 1953 (1953 No 107).
+    Section 66: repealed, on 27 November 1953, by [section 5(5)][193] of the Reserves and Other Lands Disposal Act 1953 (1953 No 107).
 
 ##### 67 Revenue under last preceding section
     
 *   \[Repealed\]
     
-    Section 67: repealed, on 27 November 1953, by [section 5(5)][192] of the Reserves and Other Lands Disposal Act 1953 (1953 No 107).
+    Section 67: repealed, on 27 November 1953, by [section 5(5)][193] of the Reserves and Other Lands Disposal Act 1953 (1953 No 107).
 
 ## Part 3A  
 Provisions relating to indigenous forests
     
-*   Part 3A: inserted, on 1 July 1993, by [section 3][193] of the Forests Amendment Act 1993 (1993 No 7).
+*   Part 3A: inserted, on 1 July 1993, by [section 3][194] of the Forests Amendment Act 1993 (1993 No 7).
 
 ##### 67A Part binds the Crown
     
 *   This Part binds the Crown.
     
-    Section 67A: replaced, on 20 May 2004, by [section 4(1)][194] of the Forests Amendment Act 2004 (2004 No 49).
+    Section 67A: replaced, on 20 May 2004, by [section 4(1)][195] of the Forests Amendment Act 2004 (2004 No 49).
 
 ##### 67AB Part does not permit felling or harvesting other than in accordance with relevant enactment
     
-*   In the case of land held, managed, or administered by the Crown under the [Conservation Act 1987][195] or any Act listed in [Schedule 1][196] of that Act, this Part does not permit the felling or harvesting of timber other than in accordance with the provisions of the Act under which the land on which the timber is growing is held, managed, or administered.
+*   In the case of land held, managed, or administered by the Crown under the [Conservation Act 1987][196] or any Act listed in [Schedule 1][197] of that Act, this Part does not permit the felling or harvesting of timber other than in accordance with the provisions of the Act under which the land on which the timber is growing is held, managed, or administered.
     
-    Section 67AB: inserted, on 20 May 2004, by [section 4(1)][194] of the Forests Amendment Act 2004 (2004 No 49).
+    Section 67AB: inserted, on 20 May 2004, by [section 4(1)][195] of the Forests Amendment Act 2004 (2004 No 49).
 
 ##### 67B Purpose
     
 *   The purpose of this Part is to promote the sustainable forest management of indigenous forest land.
     
-    Section 67B: inserted, on 1 July 1993, by [section 3][193] of the Forests Amendment Act 1993 (1993 No 7).
+    Section 67B: inserted, on 1 July 1993, by [section 3][194] of the Forests Amendment Act 1993 (1993 No 7).
 
 #### Export controls
     
-*   Heading: inserted, on 1 July 1993, by [section 3][193] of the Forests Amendment Act 1993 (1993 No 7).
+*   Heading: inserted, on 1 July 1993, by [section 3][194] of the Forests Amendment Act 1993 (1993 No 7).
 
 ##### 67C Prohibition on export of certain indigenous forest produce
     
@@ -1383,23 +1387,23 @@ Provisions relating to indigenous forests
     
     of any length that has a cross-sectional area not exceeding 30 000 square millimetres.
     
-    Section 67C: inserted, on 1 July 1993, by [section 3][193] of the Forests Amendment Act 1993 (1993 No 7).
+    Section 67C: inserted, on 1 July 1993, by [section 3][194] of the Forests Amendment Act 1993 (1993 No 7).
     
     Section 67C(1)(e): amended, on 30 March 1995, by section 3(1) of the Forests Amendment Act 1995 (1995 No 10).
     
-    Section 67C(1)(g): inserted, on 20 May 2004, by [section 5(1)][197] of the Forests Amendment Act 2004 (2004 No 49).
+    Section 67C(1)(g): inserted, on 20 May 2004, by [section 5(1)][198] of the Forests Amendment Act 2004 (2004 No 49).
     
     Section 67C(1)(g)(ii): amended, on 14 November 2006, by [section 31(2)][175] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
     Section 67C(1)(g)(iii): inserted, on 14 November 2006, by [section 31(2)][175] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 67C(3): replaced, on 20 May 2004, by [section 5(2)][197] of the Forests Amendment Act 2004 (2004 No 49).
+    Section 67C(3): replaced, on 20 May 2004, by [section 5(2)][198] of the Forests Amendment Act 2004 (2004 No 49).
     
     Section 67C(4): replaced, on 30 March 1995, by section 3(2) of the Forests Amendment Act 1995 (1995 No 10).
 
 #### Sawmill controls
     
-*   Heading: inserted, on 1 July 1993, by [section 3][193] of the Forests Amendment Act 1993 (1993 No 7).
+*   Heading: inserted, on 1 July 1993, by [section 3][194] of the Forests Amendment Act 1993 (1993 No 7).
 
 ##### 67D Prohibition on milling indigenous timber
     
@@ -1413,7 +1417,7 @@ Provisions relating to indigenous forests
                 
             *   (A) specified Maori land that is not land on which a forest specified in an Order in Council made under [section 67DA][99] is situated; or
             
-            *   (B) land held, managed, or administered by the Crown under the [Conservation Act 1987][195] or any Act listed in [Schedule 1][196] of that Act; or
+            *   (B) land held, managed, or administered by the Crown under the [Conservation Act 1987][196] or any Act listed in [Schedule 1][197] of that Act; or
             
             *   (C) a planted indigenous forest; or
             
@@ -1423,7 +1427,7 @@ Provisions relating to indigenous forests
         
         *   (ii) the timber has been or will be felled---
                 
-            *   (A) for a public work as defined in the [Public Works Act 1981][198]; or
+            *   (A) for a public work as defined in the [Public Works Act 1981][199]; or
             
             *   (B) with the approval of the owner, for a mining operation; or
             
@@ -1443,7 +1447,7 @@ Provisions relating to indigenous forests
     
     *   (d) the timber is a tree fern trunk, or is from a tree fern trunk, and has been or will be harvested, with the prior written approval of the Secretary, from an area of land that is not subject to either a registered sustainable forest management plan or a registered sustainable forest management permit:
     
-    *   (e) the timber has been seized under [section 67R][117] and sold, released, or disposed of in accordance with [section 67S][118] and the provisions of [subparts 1][199], [6][200], [7][201], [9][202], and [10][203] of Part 4 of the Search and Surveillance Act 2012 and the Secretary has stated in writing that the person to whom the timber is sold, released, or disposed was not involved in the felling and harvesting of the timber in contravention of this Part.
+    *   (e) the timber has been seized under [section 67R][117] and sold, released, or disposed of in accordance with [section 67S][118] and the provisions of [subparts 1][200], [6][201], [7][202], [9][203], and [10][204] of Part 4 of the Search and Surveillance Act 2012 and the Secretary has stated in writing that the person to whom the timber is sold, released, or disposed was not involved in the felling and harvesting of the timber in contravention of this Part.
     
     (2) Before giving an approval under subsection (1)(d), the Secretary must be satisfied that the area concerned can continue to supply an annual or periodic non-diminishing yield of tree fern trunks in perpetuity, and that yield must include the harvesting of windthrown ferns or dead ferns as they become available.
     
@@ -1453,17 +1457,17 @@ Provisions relating to indigenous forests
     
     *   (b) define the area from which the timber may be harvested and milled.
     
-    Section 67D: inserted, on 1 July 1993, by [section 3][193] of the Forests Amendment Act 1993 (1993 No 7).
+    Section 67D: inserted, on 1 July 1993, by [section 3][194] of the Forests Amendment Act 1993 (1993 No 7).
     
-    Section 67D(1): replaced, on 20 May 2004, by [section 6(1)][204] of the Forests Amendment Act 2004 (2004 No 49).
+    Section 67D(1): replaced, on 20 May 2004, by [section 6(1)][205] of the Forests Amendment Act 2004 (2004 No 49).
     
     Section 67D(1)(b)(i)(D): inserted, on 14 November 2006, by [section 31(3)][175] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 67D(1)(e): amended, on 1 October 2012, by [section 317(2)][205] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 67D(1)(e): amended, on 1 October 2012, by [section 317(2)][206] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 67D(2): replaced, on 20 May 2004, by [section 6(1)][204] of the Forests Amendment Act 2004 (2004 No 49).
+    Section 67D(2): replaced, on 20 May 2004, by [section 6(1)][205] of the Forests Amendment Act 2004 (2004 No 49).
     
-    Section 67D(3): amended, on 20 May 2004, by [section 6(2)][204] of the Forests Amendment Act 2004 (2004 No 49).
+    Section 67D(3): amended, on 20 May 2004, by [section 6(2)][205] of the Forests Amendment Act 2004 (2004 No 49).
 
 ##### 67DA Forests on specified Maori land to which sawmill controls apply
     
@@ -1475,21 +1479,21 @@ Provisions relating to indigenous forests
     
     *   (b) surrender the right to mill indigenous timber harvested from the forest other than in accordance with a registered sustainable forest management plan or a registered sustainable forest management permit.
     
-    Section 67DA: inserted, on 20 May 2004, by [section 7][206] of the Forests Amendment Act 2004 (2004 No 49).
+    Section 67DA: inserted, on 20 May 2004, by [section 7][207] of the Forests Amendment Act 2004 (2004 No 49).
 
 #### Felling controls
     
-*   Heading: inserted, on 20 May 2004, by [section 7][206] of the Forests Amendment Act 2004 (2004 No 49).
+*   Heading: inserted, on 20 May 2004, by [section 7][207] of the Forests Amendment Act 2004 (2004 No 49).
 
 ##### 67DB Prohibition on felling indigenous timber
     
 *   Where any land is specified in a registered sustainable forest management plan or a registered sustainable forest management permit as land to which that plan or permit applies, no person may fell indigenous timber on that land except in accordance with that plan or permit.
     
-    Section 67DB: inserted, on 20 May 2004, by [section 7][206] of the Forests Amendment Act 2004 (2004 No 49).
+    Section 67DB: inserted, on 20 May 2004, by [section 7][207] of the Forests Amendment Act 2004 (2004 No 49).
 
 #### Sustainable forest management plans
     
-*   Heading: inserted, on 1 July 1993, by [section 3][193] of the Forests Amendment Act 1993 (1993 No 7).
+*   Heading: inserted, on 1 July 1993, by [section 3][194] of the Forests Amendment Act 1993 (1993 No 7).
 
 ##### 67E Sustainable forest management plans
     
@@ -1509,11 +1513,11 @@ Provisions relating to indigenous forests
         
         
     
-    Section 67E: inserted, on 1 July 1993, by [section 3][193] of the Forests Amendment Act 1993 (1993 No 7).
+    Section 67E: inserted, on 1 July 1993, by [section 3][194] of the Forests Amendment Act 1993 (1993 No 7).
     
-    Section 67E(2): replaced, on 20 May 2004, by [section 8][207] of the Forests Amendment Act 2004 (2004 No 49).
+    Section 67E(2): replaced, on 20 May 2004, by [section 8][208] of the Forests Amendment Act 2004 (2004 No 49).
     
-    Section 67E(3): replaced, on 20 May 2004, by [section 8][207] of the Forests Amendment Act 2004 (2004 No 49).
+    Section 67E(3): replaced, on 20 May 2004, by [section 8][208] of the Forests Amendment Act 2004 (2004 No 49).
 
 ##### 67F Procedure for approval of sustainable forest management plans
     
@@ -1527,13 +1531,13 @@ Provisions relating to indigenous forests
     
     (4) The Secretary may approve the draft plan with or without amendments.
     
-    Section 67F: inserted, on 1 July 1993, by [section 3][193] of the Forests Amendment Act 1993 (1993 No 7).
+    Section 67F: inserted, on 1 July 1993, by [section 3][194] of the Forests Amendment Act 1993 (1993 No 7).
     
-    Section 67F(1): replaced, on 20 May 2004, by [section 9(1)][208] of the Forests Amendment Act 2004 (2004 No 49).
+    Section 67F(1): replaced, on 20 May 2004, by [section 9(1)][209] of the Forests Amendment Act 2004 (2004 No 49).
     
-    Section 67F(1A): inserted, on 20 May 2004, by [section 9(1)][208] of the Forests Amendment Act 2004 (2004 No 49).
+    Section 67F(1A): inserted, on 20 May 2004, by [section 9(1)][209] of the Forests Amendment Act 2004 (2004 No 49).
     
-    Section 67F(2): amended, on 20 May 2004, by [section 9(2)][208] of the Forests Amendment Act 2004 (2004 No 49).
+    Section 67F(2): amended, on 20 May 2004, by [section 9(2)][209] of the Forests Amendment Act 2004 (2004 No 49).
 
 ##### 67G Notice requirements
     
@@ -1547,9 +1551,9 @@ Provisions relating to indigenous forests
     
     the beech coupe size provisions in a sustainable forest management plan, and that approval, amendment, or exemption enables beech to be harvested in coupes of more than 0.5 hectares, he or she shall notify that approval, amendment, or exemption by a notice in writing to the owner and by a notice to the public published in 1 or more daily newspapers circulating in the area concerned.
     
-    Section 67G: inserted, on 1 July 1993, by [section 3][193] of the Forests Amendment Act 1993 (1993 No 7).
+    Section 67G: inserted, on 1 July 1993, by [section 3][194] of the Forests Amendment Act 1993 (1993 No 7).
     
-    Section 67G: amended, on 20 May 2004, by [section 10][209] of the Forests Amendment Act 2004 (2004 No 49).
+    Section 67G: amended, on 20 May 2004, by [section 10][210] of the Forests Amendment Act 2004 (2004 No 49).
 
 ##### 67H Secretary's power to require amendments to plans
     
@@ -1569,7 +1573,7 @@ Provisions relating to indigenous forests
     
     (1A) Work for the harvesting of timber (including, but not limited to, the felling of timber and the construction of roads, tracks, or landings) must not be carried out on an area of land specified in a registered sustainable forest management plan unless that work is carried out in accordance with an annual logging plan approved by the Secretary.
     
-    (2) In the case of an annual logging plan submitted to the Secretary in accordance with [clause 9][210] of Schedule 2,---
+    (2) In the case of an annual logging plan submitted to the Secretary in accordance with [clause 9][211] of Schedule 2,---
         
     *   (a) no work shall be carried out under the annual logging plan unless the plan has been approved by the Secretary:
     
@@ -1581,11 +1585,11 @@ Provisions relating to indigenous forests
     
     (3) The Secretary shall give the owner notice in writing of any requirement under this section and shall include in the notice a statement to the effect that the owner has an opportunity to comment to the Secretary about the requirement.
     
-    Section 67H: inserted, on 1 July 1993, by [section 3][193] of the Forests Amendment Act 1993 (1993 No 7).
+    Section 67H: inserted, on 1 July 1993, by [section 3][194] of the Forests Amendment Act 1993 (1993 No 7).
     
-    Section 67H(1)(a): replaced, on 20 May 2004, by [section 11(1)][211] of the Forests Amendment Act 2004 (2004 No 49).
+    Section 67H(1)(a): replaced, on 20 May 2004, by [section 11(1)][212] of the Forests Amendment Act 2004 (2004 No 49).
     
-    Section 67H(1A): inserted, on 20 May 2004, by [section 11(2)][211] of the Forests Amendment Act 2004 (2004 No 49).
+    Section 67H(1A): inserted, on 20 May 2004, by [section 11(2)][212] of the Forests Amendment Act 2004 (2004 No 49).
 
 ##### 67I Other provisions relating to review and amendment of sustainable forest management plans
     
@@ -1611,9 +1615,9 @@ Provisions relating to indigenous forests
     
     (5) The Director-General of Conservation may require the Secretary to review any plan after 5 years has elapsed since the approval or last renewal of the plan.
     
-    Section 67I: inserted, on 1 July 1993, by [section 3][193] of the Forests Amendment Act 1993 (1993 No 7).
+    Section 67I: inserted, on 1 July 1993, by [section 3][194] of the Forests Amendment Act 1993 (1993 No 7).
     
-    Section 67I(1)(b)(ii): amended, on 20 May 2004, by [section 12][212] of the Forests Amendment Act 2004 (2004 No 49).
+    Section 67I(1)(b)(ii): amended, on 20 May 2004, by [section 12][213] of the Forests Amendment Act 2004 (2004 No 49).
 
 ##### 67J Matters to be incorporated in sustainable forest management plans
     
@@ -1621,7 +1625,7 @@ Provisions relating to indigenous forests
     
     (2) Where satisfied that compliance by an owner with any provision of a sustainable forest management plan is unreasonable or impractical, the Secretary may, after consultation with the Director-General of Conservation and also with the chief executive of the Ministry of Maori Development if the land concerned includes any Maori land, exempt the owner from compliance with that provision on such conditions as he or she thinks fit.
     
-    Section 67J: inserted, on 1 July 1993, by [section 3][193] of the Forests Amendment Act 1993 (1993 No 7).
+    Section 67J: inserted, on 1 July 1993, by [section 3][194] of the Forests Amendment Act 1993 (1993 No 7).
 
 ##### 67K Sustainable forest management plan to be recorded against certificate of title
     
@@ -1635,13 +1639,13 @@ Provisions relating to indigenous forests
     
     (5) Where the land concerned is Maori land (as defined in [section 4][166] of Te Ture Whenua Maori Act 1993) and that land is not within the boundaries of a parcel of land identified on a plan lodged in terms of subsection (4), the owner shall request the appropriate District Registrar of the Maori Land Court to enter on the memorial schedule of the Title Binder relating to the land a notification of the sustainable forest management plan; and the Registrar shall make the entry on that schedule accordingly and that entry shall be sufficient compliance with the requirements of this section.
     
-    (6) Notwithstanding any rule of law or equity to the contrary, every sustainable forest management plan shall run with and bind the land specified in the plan and shall be deemed to be an interest in land for the purposes of the [Land Transfer Act 1952][213].
+    (6) Notwithstanding any rule of law or equity to the contrary, every sustainable forest management plan shall run with and bind the land specified in the plan and shall be deemed to be an interest in land for the purposes of the [Land Transfer Act 1952][214].
     
-    (7) Where any of the land to which the plan relates comprises part of land in a certificate or instrument of title, the owner may, instead of complying with [section 167][214] of the Land Transfer Act 1952, indicate the boundaries of the land by reference to a diagram or an aerial photograph.
+    (7) Where any of the land to which the plan relates comprises part of land in a certificate or instrument of title, the owner may, instead of complying with [section 167][215] of the Land Transfer Act 1952, indicate the boundaries of the land by reference to a diagram or an aerial photograph.
     
-    (8) No action shall lie against the Crown under [Part 11][215] of the Land Transfer Act 1952 in respect of any such boundary not defined in accordance with the said [section 167][214].
+    (8) No action shall lie against the Crown under [Part 11][216] of the Land Transfer Act 1952 in respect of any such boundary not defined in accordance with the said [section 167][215].
     
-    (9) The owner may at any time, in accordance with [section 167(5)][214] of the Land Transfer Act 1952 and in accordance with the regulations for the time being in force in that behalf, deposit a plan which shall---
+    (9) The owner may at any time, in accordance with [section 167(5)][215] of the Land Transfer Act 1952 and in accordance with the regulations for the time being in force in that behalf, deposit a plan which shall---
         
     *   (a) define such area or areas as may be mutually agreed upon by the Secretary and the owner; and
     
@@ -1663,33 +1667,33 @@ Provisions relating to indigenous forests
     
     *   (d) vary or cancel the notification to the extent necessary to give effect to the agreement or amendment or renewal stated in the certificate.
     
-    Section 67K: inserted, on 1 July 1993, by [section 3][193] of the Forests Amendment Act 1993 (1993 No 7).
+    Section 67K: inserted, on 1 July 1993, by [section 3][194] of the Forests Amendment Act 1993 (1993 No 7).
     
-    Section 67K(1): amended, on 20 May 2004, by [section 13(a)][216] of the Forests Amendment Act 2004 (2004 No 49).
+    Section 67K(1): amended, on 20 May 2004, by [section 13(a)][217] of the Forests Amendment Act 2004 (2004 No 49).
     
-    Section 67K(4): amended, on 20 May 2004, by [section 13(b)][216] of the Forests Amendment Act 2004 (2004 No 49).
+    Section 67K(4): amended, on 20 May 2004, by [section 13(b)][217] of the Forests Amendment Act 2004 (2004 No 49).
     
-    Section 67K(4): amended, on 1 June 2002, by [section 68(1)][217] of the Cadastral Survey Act 2002 (2002 No 12).
+    Section 67K(4): amended, on 1 June 2002, by [section 68(1)][218] of the Cadastral Survey Act 2002 (2002 No 12).
     
     Section 67K(5): amended, on 30 March 1995, by section 5(1)(a) of the Forests Amendment Act 1995 (1995 No 10).
     
     Section 67K(5): amended, on 30 March 1995, by section 5(1)(b) of the Forests Amendment Act 1995 (1995 No 10).
     
-    Section 67K(5): amended, on 1 July 1993, pursuant to [section 362(2)][191] of Te Ture Whenua Maori Act 1993 (1993 No 4).
+    Section 67K(5): amended, on 1 July 1993, pursuant to [section 362(2)][192] of Te Ture Whenua Maori Act 1993 (1993 No 4).
     
-    Section 67K(6): amended, on 20 May 2004, by [section 13(c)][216] of the Forests Amendment Act 2004 (2004 No 49).
+    Section 67K(6): amended, on 20 May 2004, by [section 13(c)][217] of the Forests Amendment Act 2004 (2004 No 49).
     
     Section 67K(11): inserted, on 30 March 1995, by section 5(2) of the Forests Amendment Act 1995 (1995 No 10).
 
 ##### 67L Plan not to constitute subdivision
     
-*   The approval or registration of a sustainable forest management plan shall not constitute a subdivision of land for the purposes of the [Local Government Act 1974][218] or the [Resource Management Act 1991][219].
+*   The approval or registration of a sustainable forest management plan shall not constitute a subdivision of land for the purposes of the [Local Government Act 1974][219] or the [Resource Management Act 1991][220].
     
-    Section 67L: inserted, on 1 July 1993, by [section 3][193] of the Forests Amendment Act 1993 (1993 No 7).
+    Section 67L: inserted, on 1 July 1993, by [section 3][194] of the Forests Amendment Act 1993 (1993 No 7).
 
 #### Miscellaneous provisions
     
-*   Heading: inserted, on 1 July 1993, by [section 3][193] of the Forests Amendment Act 1993 (1993 No 7).
+*   Heading: inserted, on 1 July 1993, by [section 3][194] of the Forests Amendment Act 1993 (1993 No 7).
 
 ##### 67M Sustainable forest management permits
     
@@ -1733,17 +1737,17 @@ Provisions relating to indigenous forests
     
     *   (c) in a permit, registered within the previous 10 years, as an area to which the permit applies.
     
-    (7) The provisions of [sections 67F(2)][104], [67H(1A), (2), and (3)][106], [67I][107], [67K][109], and [67L][110] and the provisions and prescriptions set out in [clauses 8][220], [9][210], and [10][221] of Schedule 2, with the necessary modifications, apply---
+    (7) The provisions of [sections 67F(2)][104], [67H(1A), (2), and (3)][106], [67I][107], [67K][109], and [67L][110] and the provisions and prescriptions set out in [clauses 8][221], [9][211], and [10][222] of Schedule 2, with the necessary modifications, apply---
         
     *   (a) to every proposal under this section as if it were a draft sustainable forest management plan; and
     
     *   (b) to every permit under this section as if it were a sustainable forest management plan.
     
-    Section 67M: replaced, on 20 May 2004, by [section 14(1)][222] of the Forests Amendment Act 2004 (2004 No 49).
+    Section 67M: replaced, on 20 May 2004, by [section 14(1)][223] of the Forests Amendment Act 2004 (2004 No 49).
 
 ##### 67N Provisions relating to representative area to be set aside
     
-*   The representative area that may be set aside and accordingly be unavailable for harvesting in accordance with [clause 10(2)(a)][221] of Schedule 2 may be determined by the Secretary in accordance with the following provisions:
+*   The representative area that may be set aside and accordingly be unavailable for harvesting in accordance with [clause 10(2)(a)][222] of Schedule 2 may be determined by the Secretary in accordance with the following provisions:
         
     *   (a) in exercising his or her discretion to determine the representative area in any case, the Secretary shall have regard to the flora, fauna, and other conservation values within the total area that is subject to, or is to be subject to, the plan:
     
@@ -1755,11 +1759,11 @@ Provisions relating to indigenous forests
         
         
     
-    Section 67N: inserted, on 1 July 1993, by [section 3][193] of the Forests Amendment Act 1993 (1993 No 7).
+    Section 67N: inserted, on 1 July 1993, by [section 3][194] of the Forests Amendment Act 1993 (1993 No 7).
 
 ##### 67O Beech coupe size
     
-*   (1) Notwithstanding anything in [clause 10(2)(c)][221] of Schedule 2, an owner may apply to the Secretary for approval of the felling of beech in coupes having an area exceeding 0.5 hectares.
+*   (1) Notwithstanding anything in [clause 10(2)(c)][222] of Schedule 2, an owner may apply to the Secretary for approval of the felling of beech in coupes having an area exceeding 0.5 hectares.
     
     (2) Subject to subsection (3), the Secretary may approve the felling of beech in coupes of such area not exceeding 20 hectares as he or she thinks appropriate.
     
@@ -1777,7 +1781,7 @@ Provisions relating to indigenous forests
     
     (4) The matters referred to in subsection (3) shall be considered in relation to the region concerned and nationally.
     
-    Section 67O: inserted, on 1 July 1993, by [section 3][193] of the Forests Amendment Act 1993 (1993 No 7).
+    Section 67O: inserted, on 1 July 1993, by [section 3][194] of the Forests Amendment Act 1993 (1993 No 7).
 
 ##### 67P Rights of appeal
     
@@ -1789,13 +1793,13 @@ Provisions relating to indigenous forests
     
     *   (b) the decision is the granting of an exemption under [section 67J(2)][108] in respect of beech coupe size provisions in a sustainable forest management plan.
     
-    (3) For the purposes of this section, [Part 11][223] of the Resource Management Act 1991 shall apply, with the necessary modifications, as if the decision appealed against were a resource consent under that Act.
+    (3) For the purposes of this section, [Part 11][224] of the Resource Management Act 1991 shall apply, with the necessary modifications, as if the decision appealed against were a resource consent under that Act.
     
-    Section 67P: inserted, on 1 July 1993, by [section 3][193] of the Forests Amendment Act 1993 (1993 No 7).
+    Section 67P: inserted, on 1 July 1993, by [section 3][194] of the Forests Amendment Act 1993 (1993 No 7).
     
-    Section 67P(1): amended, on 2 September 1996, pursuant to [section 6(2)(a)][224] of the Resource Management Amendment Act 1996 (1996 No 160).
+    Section 67P(1): amended, on 2 September 1996, pursuant to [section 6(2)(a)][225] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 67P(2): amended, on 2 September 1996, pursuant to [section 6(2)(a)][224] of the Resource Management Amendment Act 1996 (1996 No 160).
+    Section 67P(2): amended, on 2 September 1996, pursuant to [section 6(2)(a)][225] of the Resource Management Amendment Act 1996 (1996 No 160).
 
 ##### 67Q Records
     
@@ -1809,11 +1813,11 @@ Provisions relating to indigenous forests
     
     (2) The owner of any land subject to a registered sustainable forest management plan or a registered sustainable forest management permit shall maintain in such form as may be prescribed by regulations made under [section 72][159] a record of particulars relating to the volume, type, and destination of timber harvested under the plan or permit.
     
-    Section 67Q: inserted, on 1 July 1993, by [section 3][193] of the Forests Amendment Act 1993 (1993 No 7).
+    Section 67Q: inserted, on 1 July 1993, by [section 3][194] of the Forests Amendment Act 1993 (1993 No 7).
     
-    Section 67Q(1)(ab): inserted, on 20 May 2004, by [section 15(1)][225] of the Forests Amendment Act 2004 (2004 No 49).
+    Section 67Q(1)(ab): inserted, on 20 May 2004, by [section 15(1)][226] of the Forests Amendment Act 2004 (2004 No 49).
     
-    Section 67Q(2): amended, on 20 May 2004, by [section 15(2)][225] of the Forests Amendment Act 2004 (2004 No 49).
+    Section 67Q(2): amended, on 20 May 2004, by [section 15(2)][226] of the Forests Amendment Act 2004 (2004 No 49).
 
 ##### 67R Powers of entry and seizure
     
@@ -1829,13 +1833,13 @@ Provisions relating to indigenous forests
     
     *   (e) to seize any indigenous timber that he or she reasonably believes is about to be, is being, or has been milled or exported, or has been felled or harvested, in contravention of this Part.
     
-    (2) The provisions of [Part 4][226] of the Search and Surveillance Act 2012 (except for [subparts 2][227] and [3][228], [sections 118][229] and [119][230], and [subparts 5][231] and [8][232]) apply.
+    (2) The provisions of [Part 4][227] of the Search and Surveillance Act 2012 (except for [subparts 2][228] and [3][229], [sections 118][230] and [119][231], and [subparts 5][232] and [8][233]) apply.
     
-    Section 67R: inserted, on 1 July 1993, by [section 3][193] of the Forests Amendment Act 1993 (1993 No 7).
+    Section 67R: inserted, on 1 July 1993, by [section 3][194] of the Forests Amendment Act 1993 (1993 No 7).
     
-    Section 67R(1)(e): amended, on 20 May 2004, by [section 16][233] of the Forests Amendment Act 2004 (2004 No 49).
+    Section 67R(1)(e): amended, on 20 May 2004, by [section 16][234] of the Forests Amendment Act 2004 (2004 No 49).
     
-    Section 67R(2): inserted, on 1 October 2012, by [section 317(3)][205] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 67R(2): inserted, on 1 October 2012, by [section 317(3)][206] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 67S Forfeiture of seized indigenous timber
     
@@ -1857,19 +1861,19 @@ Provisions relating to indigenous forests
     
     (9) Any person whose timber has been forfeited to the Crown under this section or any person having a legal or equitable interest in any such timber (not being, in either case, a person convicted of an offence out of which the forfeiture arose) may apply to the Minister within 30 days of the conviction concerned for the release of the timber forfeited; and the Minister may order the release of the timber on payment to the Crown of any amount the Minister thinks appropriate, being an amount not exceeding the amount the items forfeited are estimated by the Secretary to be likely to realise if sold by public auction in New Zealand.
     
-    Section 67S: inserted, on 1 July 1993, by [section 3][193] of the Forests Amendment Act 1993 (1993 No 7).
+    Section 67S: inserted, on 1 July 1993, by [section 3][194] of the Forests Amendment Act 1993 (1993 No 7).
     
-    Section 67S(1): repealed, on 1 October 2012, by [section 317(4)][205] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 67S(1): repealed, on 1 October 2012, by [section 317(4)][206] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 67S(3): repealed, on 1 October 2012, by [section 317(4)][205] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 67S(3): repealed, on 1 October 2012, by [section 317(4)][206] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 67S(4): repealed, on 1 October 2012, by [section 317(4)][205] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 67S(4): repealed, on 1 October 2012, by [section 317(4)][206] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 67S(5): repealed, on 1 October 2012, by [section 317(4)][205] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 67S(5): repealed, on 1 October 2012, by [section 317(4)][206] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 67S(6): repealed, on 1 October 2012, by [section 317(4)][205] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 67S(6): repealed, on 1 October 2012, by [section 317(4)][206] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 67S(7): repealed, on 1 October 2012, by [section 317(4)][205] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 67S(7): repealed, on 1 October 2012, by [section 317(4)][206] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 67T Offences
     
@@ -1899,17 +1903,17 @@ Provisions relating to indigenous forests
     
     *   (i) gives to any forestry officer, under this Part, any particulars knowing that they are false or misleading in any material respect.
     
-    Section 67T: inserted, on 1 July 1993, by [section 3][193] of the Forests Amendment Act 1993 (1993 No 7).
+    Section 67T: inserted, on 1 July 1993, by [section 3][194] of the Forests Amendment Act 1993 (1993 No 7).
     
     Section 67T(b): amended, on 30 March 1995, by section 7 of the Forests Amendment Act 1995 (1995 No 10).
     
-    Section 67T(f): replaced, on 20 May 2004, by [section 17][234] of the Forests Amendment Act 2004 (2004 No 49).
+    Section 67T(f): replaced, on 20 May 2004, by [section 17][235] of the Forests Amendment Act 2004 (2004 No 49).
     
-    Section 67T(fa): inserted, on 20 May 2004, by [section 17][234] of the Forests Amendment Act 2004 (2004 No 49).
+    Section 67T(fa): inserted, on 20 May 2004, by [section 17][235] of the Forests Amendment Act 2004 (2004 No 49).
     
-    Section 67T(fb): inserted, on 20 May 2004, by [section 17][234] of the Forests Amendment Act 2004 (2004 No 49).
+    Section 67T(fb): inserted, on 20 May 2004, by [section 17][235] of the Forests Amendment Act 2004 (2004 No 49).
     
-    Section 67T(fc): inserted, on 20 May 2004, by [section 17][234] of the Forests Amendment Act 2004 (2004 No 49).
+    Section 67T(fc): inserted, on 20 May 2004, by [section 17][235] of the Forests Amendment Act 2004 (2004 No 49).
 
 ##### 67U Penalties
     
@@ -1923,17 +1927,17 @@ Provisions relating to indigenous forests
     
     *   (b) that he or she knew or could be reasonably expected to have known that the offence was to be or was being committed and failed to take all reasonable steps to prevent or stop it.
     
-    Section 67U: inserted, on 1 July 1993, by [section 3][193] of the Forests Amendment Act 1993 (1993 No 7).
+    Section 67U: inserted, on 1 July 1993, by [section 3][194] of the Forests Amendment Act 1993 (1993 No 7).
     
-    Section 67U(1): amended, on 1 July 2013, by [section 413][187] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 67U(1): amended, on 1 July 2013, by [section 413][188] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 67U(2): amended, on 1 July 2013, by [section 413][187] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 67U(2): amended, on 1 July 2013, by [section 413][188] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 67V Relationship of Part with Resource Management Act 1991
     
-*   Nothing in this Part derogates from any provision of the [Resource Management Act 1991][219].
+*   Nothing in this Part derogates from any provision of the [Resource Management Act 1991][220].
     
-    Section 67V: replaced, on 20 May 2004, by [section 18(1)][235] of the Forests Amendment Act 2004 (2004 No 49).
+    Section 67V: replaced, on 20 May 2004, by [section 18(1)][236] of the Forests Amendment Act 2004 (2004 No 49).
 
 ## Part 3B  
 Mechanism allowing landowners to access value created by Kyoto Protocol of carbon sequestration on land through establishment of forest sink covenants
@@ -1956,13 +1960,13 @@ Mechanism allowing landowners to access value created by Kyoto Protocol of carbo
     
     _forest sink covenant_ means any covenant established under regulations made under [section 67Y][126], or any variation of that covenant, for the purpose of establishing and maintaining a forest sink; including, but not limited to, controlling the harvesting of timber from the forest sink
     
-    _greenhouse gas_ has the same meaning as in [section 4(1)][236] of the Climate Change Response Act 2002
+    _greenhouse gas_ has the same meaning as in [section 4(1)][237] of the Climate Change Response Act 2002
     
     _landowner_ means the owner of a freehold estate
     
-    _Protocol_ has the same meaning as in [section 4(1)][236] of the Climate Change Response Act 2002
+    _Protocol_ has the same meaning as in [section 4(1)][237] of the Climate Change Response Act 2002
     
-    _units_ has the same meaning as in [section 4(1)][236] of the Climate Change Response Act 2002\.
+    _units_ has the same meaning as in [section 4(1)][237] of the Climate Change Response Act 2002\.
     
     Section 67X: inserted, on 14 November 2006, by [section 31(4)][175] of the Climate Change Response Amendment Act 2006 (2006 No 59).
 
@@ -1994,7 +1998,7 @@ Mechanism allowing landowners to access value created by Kyoto Protocol of carbo
     
     *   (j) prescribe procedures and requirements relating to the selection, appointment, and performance of persons who carry out functions in relation to a forest sink covenant:
     
-    *   (ja) prescribe the persons or organisations, or classes of persons or organisations, who have been recognised under [section 92][237] of the Climate Change Response Act 2002 as being able to carry out verification functions under that Act, and who may carry out verification functions in relation to a forest sink or forest sink covenant:
+    *   (ja) prescribe the persons or organisations, or classes of persons or organisations, who have been recognised under [section 92][238] of the Climate Change Response Act 2002 as being able to carry out verification functions under that Act, and who may carry out verification functions in relation to a forest sink or forest sink covenant:
     
     *   (k) prescribe records, returns, or information in relation to a forest sink covenant that a person or class of persons must keep or provide to the Minister:
     
@@ -2004,9 +2008,9 @@ Mechanism allowing landowners to access value created by Kyoto Protocol of carbo
     
     (2A) Regulations made under subsection (1)(b) may incorporate by reference any relevant---
         
-    *   (a) methodologies prescribed in regulations made under [section 163(1)(b)][238] of the Climate Change Response Act 2002; or
+    *   (a) methodologies prescribed in regulations made under [section 163(1)(b)][239] of the Climate Change Response Act 2002; or
     
-    *   (b) guidelines or standards issued under regulations made under [section 163(1)(d)][238] of the Climate Change Response Act 2002\.
+    *   (b) guidelines or standards issued under regulations made under [section 163(1)(d)][239] of the Climate Change Response Act 2002\.
     
     (3) Despite subsection (1)(h), a penalty---
         
@@ -2020,19 +2024,19 @@ Mechanism allowing landowners to access value created by Kyoto Protocol of carbo
         
         
     
-    (3A) Regulations made under subsection (1)(k) may incorporate by reference any form or format for a record, return, or information prescribed under [section 90][239] of the Climate Change Response Act 2002, or in regulations made under [section 168(1)(k)][240] of that Act, or in any guidelines or standards issued under regulations made under [section 163(1)(d)][238] of that Act.
+    (3A) Regulations made under subsection (1)(k) may incorporate by reference any form or format for a record, return, or information prescribed under [section 90][240] of the Climate Change Response Act 2002, or in regulations made under [section 168(1)(k)][241] of that Act, or in any guidelines or standards issued under regulations made under [section 163(1)(d)][239] of that Act.
     
     (4) However, nothing in this Part requires the Minister to negotiate, enter into, or enforce any provisions of, any forest sink covenant.
     
     Section 67Y: inserted, on 14 November 2006, by [section 31(4)][175] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 67Y(1)(ja): inserted, on 26 September 2008, by [section 54(2)][241] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 67Y(1)(ja): inserted, on 26 September 2008, by [section 54(2)][242] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 67Y(2A): inserted, on 26 September 2008, by [section 54(3)][241] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 67Y(2A): inserted, on 26 September 2008, by [section 54(3)][242] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 67Y(3A): inserted, on 26 September 2008, by [section 54(4)][241] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 67Y(3A): inserted, on 26 September 2008, by [section 54(4)][242] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 67Y(3A): amended, on 8 December 2009, by [section 88(1)][242] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
+    Section 67Y(3A): amended, on 8 December 2009, by [section 88(1)][243] of the Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57).
 
 ##### 67Z Content of forest sink covenants
     
@@ -2098,17 +2102,17 @@ Mechanism allowing landowners to access value created by Kyoto Protocol of carbo
 
 ##### 67ZC Sections 316 to 318 of Property Law Act 2007 do not apply to forest sink covenants
     
-*   Nothing in [sections 316 to 318][243] of the Property Law Act 2007 applies to any forest sink covenant entered into in accordance with this Act.
+*   Nothing in [sections 316 to 318][244] of the Property Law Act 2007 applies to any forest sink covenant entered into in accordance with this Act.
     
     Section 67ZC: inserted, on 14 November 2006, by [section 31(4)][175] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 67ZC heading: amended, on 1 January 2008, by [section 364(1)][244] of the Property Law Act 2007 (2007 No 91).
+    Section 67ZC heading: amended, on 1 January 2008, by [section 364(1)][245] of the Property Law Act 2007 (2007 No 91).
     
-    Section 67ZC: amended, on 1 January 2008, by [section 364(1)][244] of the Property Law Act 2007 (2007 No 91).
+    Section 67ZC: amended, on 1 January 2008, by [section 364(1)][245] of the Property Law Act 2007 (2007 No 91).
 
 ##### 67ZD Registrar-General of Land to register forest sink covenants
     
-*   (1) A landowner who has entered into a forest sink covenant must, within 180 days of that covenant being agreed, submit that covenant to the Registrar-General of Land for registration under the [Land Transfer Act 1952][213].
+*   (1) A landowner who has entered into a forest sink covenant must, within 180 days of that covenant being agreed, submit that covenant to the Registrar-General of Land for registration under the [Land Transfer Act 1952][214].
     
     (2) If a forest sink covenant relates to land for which no computer freehold register has been created, the Registrar-General of Land must create a computer interest register for the covenant if---
         
@@ -2124,13 +2128,13 @@ Mechanism allowing landowners to access value created by Kyoto Protocol of carbo
     
     *   (b) the variation, cancellation, or termination of that forest sink covenant.
     
-    (5) For the purposes of the [Land Transfer Act 1952][213], a forest sink covenant, or an agreement to vary a forest sink covenant, is an instrument that---
+    (5) For the purposes of the [Land Transfer Act 1952][214], a forest sink covenant, or an agreement to vary a forest sink covenant, is an instrument that---
         
     *   (a) may be registered; and
     
     *   (b) if registered, creates an interest in land that runs with that land.
     
-    (6) If a forest sink covenant is registered under the [Land Transfer Act 1952][213], and any provision of that covenant has terminated, or has been varied or cancelled by an agreement,---
+    (6) If a forest sink covenant is registered under the [Land Transfer Act 1952][214], and any provision of that covenant has terminated, or has been varied or cancelled by an agreement,---
         
     *   (a) the Registrar-General of Land must, if satisfied that the provision has terminated, or has been varied or cancelled, make an entry in the computer register noting that the provision has terminated, or has been varied or cancelled; and
     
@@ -2142,21 +2146,21 @@ Mechanism allowing landowners to access value created by Kyoto Protocol of carbo
     
     *   (b) if required by the Registrar-General of Land, a deposit plan.
     
-    (8) A landowner subject to a registered forest sink covenant may, at any time, deposit a plan in accordance with [section 167(5)][214] of the Land Transfer Act 1952 and any relevant regulations that,---
+    (8) A landowner subject to a registered forest sink covenant may, at any time, deposit a plan in accordance with [section 167(5)][215] of the Land Transfer Act 1952 and any relevant regulations that,---
         
     *   (a) with the agreement of the Minister, redefines the boundaries of the land subject to the covenant; and
     
     *   (b) supercedes any previously submitted diagram or aerial photograph, or any part of any previously submitted diagram or aerial photograph.
     
-    (9) If a plan is deposited under [section 167][214] of the Land Transfer Act 1952 with respect to a forest sink covenant, the Registrar-General of Land must, if necessary, endorse, on any relevant computer register, a memorial that indicates that the boundaries of the land subject to the covenant, as defined, have been surveyed.
+    (9) If a plan is deposited under [section 167][215] of the Land Transfer Act 1952 with respect to a forest sink covenant, the Registrar-General of Land must, if necessary, endorse, on any relevant computer register, a memorial that indicates that the boundaries of the land subject to the covenant, as defined, have been surveyed.
     
-    (10) A forest sink covenant may not be treated as a subdivision of land for the purposes of the [Resource Management Act 1991][219].
+    (10) A forest sink covenant may not be treated as a subdivision of land for the purposes of the [Resource Management Act 1991][220].
     
     Section 67ZD: inserted, on 14 November 2006, by [section 31(4)][175] of the Climate Change Response Amendment Act 2006 (2006 No 59).
 
 ##### 67ZE The Crown may register charges with respect to land subject to forest sink covenants in certain circumstances
     
-*   (1) The Minister may register a charge under the [Statutory Land Charges Registration Act 1928][245] against land subject to a forest sink covenant if---
+*   (1) The Minister may register a charge under the [Statutory Land Charges Registration Act 1928][246] against land subject to a forest sink covenant if---
         
     *   (a) liabilities are owed to the Crown by an owner of a landholding arising from the emission of greenhouse gases in relation to the forest sink on that land:
     
@@ -2180,7 +2184,7 @@ Mechanism allowing landowners to access value created by Kyoto Protocol of carbo
     
     (3) If the owner of a landholding pays the statutory debt (including any deemed increase) or the Crown releases the owner of the landholding from the obligation to pay the debt, the Minister must release the relevant charge on the land (if any).
     
-    (4) For the purposes of this section, a charge that is registered by the Minister under the [Statutory Land Charges Registration Act 1928][245] against land subject to a forest sink covenant---
+    (4) For the purposes of this section, a charge that is registered by the Minister under the [Statutory Land Charges Registration Act 1928][246] against land subject to a forest sink covenant---
         
     *   (a) has priority over any subsequently registered mortgages, charges, and encumbrances with respect to that land; but
     
@@ -2258,7 +2262,7 @@ Mechanism allowing landowners to access value created by Kyoto Protocol of carbo
     
     *   (b) takes into account costs or potential costs of services that are not directly to be provided to the person who pays the fee or charge but which are an indirect or potential cost arising from the delivery of the service in question to a class of persons or all persons who use the service.
     
-    Compare: 2003 No 114 [s 84][246]
+    Compare: 2003 No 114 [s 84][247]
     
     Section 67ZH: inserted, on 14 November 2006, by [section 31(4)][175] of the Climate Change Response Amendment Act 2006 (2006 No 59).
 
@@ -2280,7 +2284,7 @@ Mechanism allowing landowners to access value created by Kyoto Protocol of carbo
     
     *   (g) any combination of the above.
     
-    Compare: 2003 No 114 [s 85][247]
+    Compare: 2003 No 114 [s 85][248]
     
     Section 67ZI: inserted, on 14 November 2006, by [section 31(4)][175] of the Climate Change Response Amendment Act 2006 (2006 No 59).
 
@@ -2308,7 +2312,7 @@ Mechanism allowing landowners to access value created by Kyoto Protocol of carbo
     
     (4) Recovery may be made in any financial year of any shortfall in cost recovery for any of the preceding 4 financial years, and allowance may be made for any over-recovery of costs in those years (including any estimated shortfall or over-recovery for the immediately preceding financial year).
     
-    Compare: 2003 No 114 [s 86][248]
+    Compare: 2003 No 114 [s 86][249]
     
     Section 67ZJ: inserted, on 14 November 2006, by [section 31(4)][175] of the Climate Change Response Amendment Act 2006 (2006 No 59).
 
@@ -2320,7 +2324,7 @@ Mechanism allowing landowners to access value created by Kyoto Protocol of carbo
     
     (3) To avoid doubt, all areas of cost recovery need not be reviewed at the same time, nor is there any time limit on the making of regulations to implement the results of a review.
     
-    Compare: 2003 No 114 [s 87][249]
+    Compare: 2003 No 114 [s 87][250]
     
     Section 67ZK: inserted, on 14 November 2006, by [section 31(4)][175] of the Climate Change Response Amendment Act 2006 (2006 No 59).
 
@@ -2346,7 +2350,7 @@ Mechanism allowing landowners to access value created by Kyoto Protocol of carbo
     
     (6) The Minister may not recommend the making of regulations under this section unless satisfied that, to the extent appropriate in the circumstances, the requirements of [sections 67ZH][136] and [67ZJ][138] have been met.
     
-    Compare: 2003 No 114 [s 88][250]
+    Compare: 2003 No 114 [s 88][251]
     
     Section 67ZL: inserted, on 14 November 2006, by [section 31(4)][175] of the Climate Change Response Amendment Act 2006 (2006 No 59).
 
@@ -2354,13 +2358,13 @@ Mechanism allowing landowners to access value created by Kyoto Protocol of carbo
     
 *   (1) The Governor-General may, by Order in Council and on the recommendation of the Minister, impose a levy payable to the Secretary for the purposes of wholly or partially funding a service provided or function performed by the Ministry or the Secretary for the purposes of this Act.
     
-    (2) A levy order is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][251] and must be presented to the House of Representatives under [section 41][252] of that Act.
+    (2) A levy order is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][252] and must be presented to the House of Representatives under [section 41][253] of that Act.
     
-    Compare: 1993 No 95 [s 137][253]
+    Compare: 1993 No 95 [s 137][254]
     
     Section 67ZM: inserted, on 14 November 2006, by [section 31(4)][175] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 67ZM(2): replaced, on 5 August 2013, by [section 77(3)][254] of the Legislation Act 2012 (2012 No 119).
+    Section 67ZM(2): replaced, on 5 August 2013, by [section 77(3)][255] of the Legislation Act 2012 (2012 No 119).
 
 ##### 67ZN Contents of levy order
     
@@ -2392,7 +2396,7 @@ Mechanism allowing landowners to access value created by Kyoto Protocol of carbo
     
     *   (d) the holding of funds from which payments of levy are to be made, on trust in separate accounts.
     
-    Compare: 1993 No 95 [s 140][255]
+    Compare: 1993 No 95 [s 140][256]
     
     Section 67ZN: inserted, on 14 November 2006, by [section 31(4)][175] of the Climate Change Response Amendment Act 2006 (2006 No 59).
 
@@ -2408,7 +2412,7 @@ Mechanism allowing landowners to access value created by Kyoto Protocol of carbo
     
     (2) Nothing in subsection (1)(c) affects any obligation or liability under this Act of any other person who has become responsible for collecting the levy concerned.
     
-    Compare: 2003 No 114 [s 90][256]
+    Compare: 2003 No 114 [s 90][257]
     
     Section 67ZO: inserted, on 14 November 2006, by [section 31(4)][175] of the Climate Change Response Amendment Act 2006 (2006 No 59).
 
@@ -2420,7 +2424,7 @@ Mechanism allowing landowners to access value created by Kyoto Protocol of carbo
     
     *   (b) authorise the Secretary to grant an exemption, waiver, or refund in any particular case or class of case.
     
-    Compare: 2003 No 114 [s 92][257]
+    Compare: 2003 No 114 [s 92][258]
     
     Section 67ZP: inserted, on 14 November 2006, by [section 31(4)][175] of the Climate Change Response Amendment Act 2006 (2006 No 59).
 
@@ -2428,7 +2432,7 @@ Mechanism allowing landowners to access value created by Kyoto Protocol of carbo
     
 *   Any fee, levy, or charge that has become payable is a debt due to the Secretary, and is recoverable by the Secretary as a debt in any court of competent jurisdiction. Until paid in full, it remains a debt due to the Crown.
     
-    Compare: 2003 No 114 [s 93][258]
+    Compare: 2003 No 114 [s 93][259]
     
     Section 67ZQ: inserted, on 14 November 2006, by [section 31(4)][175] of the Climate Change Response Amendment Act 2006 (2006 No 59).
 
@@ -2436,17 +2440,17 @@ Mechanism allowing landowners to access value created by Kyoto Protocol of carbo
     
 *   (1) If a person has failed to pay to the Secretary by the due date any fee, levy, or charge payable under this subpart,---
         
-    *   (a) [section 14][259] of the Ministries of Agriculture and Forestry (Restructuring) Act 1997 applies to increase the amount payable; and
+    *   (a) [section 14][260] of the Ministries of Agriculture and Forestry (Restructuring) Act 1997 applies to increase the amount payable; and
     
-    *   (b) [section 15][260] of that Act applies to allow the Secretary, in appropriate cases, to waive the payment of all or any of the amount of any such increase; and
+    *   (b) [section 15][261] of that Act applies to allow the Secretary, in appropriate cases, to waive the payment of all or any of the amount of any such increase; and
     
-    *   (c) [section 16][261] of that Act applies to allow the Secretary to withdraw, or refuse to provide the person in default with, any service of the kind to which the debt relates.
+    *   (c) [section 16][262] of that Act applies to allow the Secretary to withdraw, or refuse to provide the person in default with, any service of the kind to which the debt relates.
     
-    (2) For the purposes of subsection (1)(c) and [section 16][261] of the Ministries of Agriculture and Forestry (Restructuring) Act 1997, and without limiting the generality of section 16 of that Act, the references in those provisions to the refusal to provide any service are to be treated as also authorising the Secretary, in an appropriate case, to refuse to perform any function under this Act leading to the issue of units in relation to the person in default.
+    (2) For the purposes of subsection (1)(c) and [section 16][262] of the Ministries of Agriculture and Forestry (Restructuring) Act 1997, and without limiting the generality of section 16 of that Act, the references in those provisions to the refusal to provide any service are to be treated as also authorising the Secretary, in an appropriate case, to refuse to perform any function under this Act leading to the issue of units in relation to the person in default.
     
     (3) If the refusal requires the Secretary to provide any further service, or perform any further function involved in the refusal, the Secretary may recover any reasonable amount for the additional service, function, or costs as a debt due from the person who owns or is responsible for the operation concerned.
     
-    Compare: 2003 No 114 [s 94][262]
+    Compare: 2003 No 114 [s 94][263]
     
     Section 67ZR: inserted, on 14 November 2006, by [section 31(4)][175] of the Climate Change Response Amendment Act 2006 (2006 No 59).
 
@@ -2454,7 +2458,7 @@ Mechanism allowing landowners to access value created by Kyoto Protocol of carbo
     
 *   The obligation of a person to pay any fee, levy, charge, or penalty under this subpart, and the right of the Secretary to receive and recover the fee, levy, charge, or penalty, are not suspended by any dispute between the person and the Secretary regarding the person's liability to pay the fee, levy, charge, or penalty, or the amount of the fee, levy, charge, or penalty.
     
-    Compare: 2003 No 114 [s 95][263]
+    Compare: 2003 No 114 [s 95][264]
     
     Section 67ZS: inserted, on 14 November 2006, by [section 31(4)][175] of the Climate Change Response Amendment Act 2006 (2006 No 59).
 
@@ -2464,7 +2468,7 @@ Mechanism allowing landowners to access value created by Kyoto Protocol of carbo
         
     *   (a) have not been revoked with effect on or before 1 July in the next year; and
     
-    *   (b) have not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of [Part 3][264] of the Legislation Act 2012,---
+    *   (b) have not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of [Part 3][265] of the Legislation Act 2012,---
     
     they are to be treated as having been revoked with the close of 30 June in that next year unless confirmed by an Act of Parliament passed on or before that day.
     
@@ -2472,21 +2476,21 @@ Mechanism allowing landowners to access value created by Kyoto Protocol of carbo
         
     *   (a) have not been revoked with effect on or before 1 January in the year after the next year; and
     
-    *   (b) have not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of [Part 3][264] of the Legislation Act 2012,---
+    *   (b) have not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of [Part 3][265] of the Legislation Act 2012,---
     
     they are to be treated as having been revoked with the close of 31 December in the year after the year in which they were made, unless confirmed by an Act of Parliament passed on or before that day.
     
-    Compare: 2003 No 114 [s 96][265]
+    Compare: 2003 No 114 [s 96][266]
     
     Section 67ZT: inserted, on 14 November 2006, by [section 31(4)][175] of the Climate Change Response Amendment Act 2006 (2006 No 59).
     
-    Section 67ZT(1)(b): amended, on 5 August 2013, by [section 77(3)][254] of the Legislation Act 2012 (2012 No 119).
+    Section 67ZT(1)(b): amended, on 5 August 2013, by [section 77(3)][255] of the Legislation Act 2012 (2012 No 119).
     
-    Section 67ZT(2)(b): amended, on 5 August 2013, by [section 77(3)][254] of the Legislation Act 2012 (2012 No 119).
+    Section 67ZT(2)(b): amended, on 5 August 2013, by [section 77(3)][255] of the Legislation Act 2012 (2012 No 119).
 
 ##### 67ZU Relationship of Part with Resource Management Act 1991
     
-*   Nothing in this Part derogates from any provision of the [Resource Management Act 1991][219].
+*   Nothing in this Part derogates from any provision of the [Resource Management Act 1991][220].
     
     Section 67ZU: inserted, on 14 November 2006, by [section 31(4)][175] of the Climate Change Response Amendment Act 2006 (2006 No 59).
 
@@ -2497,31 +2501,31 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 68: repealed, on 25 January 2005, by [section 37(1)][186] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 68: repealed, on 25 January 2005, by [section 37(1)][187] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 69 Control of injurious importations and exportations
     
 *   \[Repealed\]
     
-    Section 69: repealed, on 8 July 2003, by [section 28(1)][266] of the Biosecurity Amendment Act 2003 (2003 No 38).
+    Section 69: repealed, on 8 July 2003, by [section 28(1)][267] of the Biosecurity Amendment Act 2003 (2003 No 38).
 
 ##### 70 Regulations as to control and eradication of diseases affecting trees, etc
     
 *   \[Repealed\]
     
-    Section 70: repealed, on 8 July 2003, by [section 28(1)][266] of the Biosecurity Amendment Act 2003 (2003 No 38).
+    Section 70: repealed, on 8 July 2003, by [section 28(1)][267] of the Biosecurity Amendment Act 2003 (2003 No 38).
 
 ##### 70A Compensation for destruction
     
 *   \[Repealed\]
     
-    Section 70A: repealed, on 8 July 2003, by [section 28(1)][266] of the Biosecurity Amendment Act 2003 (2003 No 38).
+    Section 70A: repealed, on 8 July 2003, by [section 28(1)][267] of the Biosecurity Amendment Act 2003 (2003 No 38).
 
 ##### 71 Plants Act 1970 not affected
     
 *   \[Repealed\]
     
-    Section 71: repealed, on 8 July 2003, by [section 28(1)][266] of the Biosecurity Amendment Act 2003 (2003 No 38).
+    Section 71: repealed, on 8 July 2003, by [section 28(1)][267] of the Biosecurity Amendment Act 2003 (2003 No 38).
 
 ##### 71A Regulations as to establishment and powers of Timber Preservation Authority
     
@@ -2531,7 +2535,7 @@ Miscellaneous provisions
 
 ##### 71B Restrictions on exercise of power of entry
     
-*   (1) Notwithstanding any other provision of this Act but subject to subsection (2), any provision in this Act or any regulations made under this Act giving any person the power to enter any land or premises, vehicle, conveyance, ship, vessel, aircraft, bulk cargo container, railway, or drilling rig without the consent of the owner or occupier shall be subject to [Part 4][226] of the Search and Surveillance Act 2012 and to the following conditions:
+*   (1) Notwithstanding any other provision of this Act but subject to subsection (2), any provision in this Act or any regulations made under this Act giving any person the power to enter any land or premises, vehicle, conveyance, ship, vessel, aircraft, bulk cargo container, railway, or drilling rig without the consent of the owner or occupier shall be subject to [Part 4][227] of the Search and Surveillance Act 2012 and to the following conditions:
         
     *   (a) entry shall only be made by the person or class of persons specified in the relevant provision or any constable authorised by the person or a member of that class of persons:
     
@@ -2547,11 +2551,11 @@ Miscellaneous provisions
         
         *   (ii) on to any land or into any premises, vehicle, conveyance, ship, vessel, aircraft, railway, or drilling rig to obtain evidence of an offence---
         
-        shall be made following application in writing in the manner provided for an application for a search warrant in [Part 4][226] of the Search and Surveillance Act 2012 by an authorised person to an issuing officer, who, if he has reason to believe that entry is necessary, may issue a warrant directed to the authorised person by name directing him to enter for the stated purpose.
+        shall be made following application in writing in the manner provided for an application for a search warrant in [Part 4][227] of the Search and Surveillance Act 2012 by an authorised person to an issuing officer, who, if he has reason to believe that entry is necessary, may issue a warrant directed to the authorised person by name directing him to enter for the stated purpose.
     
     *   (f) \[Repealed\]
     
-    (2) The conditions specified in subsection (1), other than that specified in paragraph (a) of that subsection, and the conditions set out in [Part 4][226] of the Search and Surveillance Act 2012 relating to time of entry, notification of intention to enter, and evidence of identification or authorisation to enter, shall not apply in circumstances where there are reasonable grounds to believe---
+    (2) The conditions specified in subsection (1), other than that specified in paragraph (a) of that subsection, and the conditions set out in [Part 4][227] of the Search and Surveillance Act 2012 relating to time of entry, notification of intention to enter, and evidence of identification or authorisation to enter, shall not apply in circumstances where there are reasonable grounds to believe---
         
     *   (a) that there is an immediate danger to life or property; or
     
@@ -2565,45 +2569,45 @@ Miscellaneous provisions
     
     *   (c) \[Repealed\]
     
-    (3) The provisions of [Part 4][226] of the Search and Surveillance Act 2012 apply.
+    (3) The provisions of [Part 4][227] of the Search and Surveillance Act 2012 apply.
     
-    (4) Despite subsection (3), [sections 118][229] and [119][230] of the Search and Surveillance Act 2012 apply only in respect of a constable.
+    (4) Despite subsection (3), [sections 118][230] and [119][231] of the Search and Surveillance Act 2012 apply only in respect of a constable.
     
     Section 71B: inserted, on 16 December 1983, by section 6(1) of the Forests Amendment Act 1983 (1983 No 136).
     
-    Section 71B(1): amended, on 1 October 2012, by [section 317(5)][205] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 71B(1): amended, on 1 October 2012, by [section 317(5)][206] of the Search and Surveillance Act 2012 (2012 No 24).
     
     Section 71B(1): amended (with effect on 1 April 1987), on 1 July 1987, by section 16(a) of the Forests Amendment Act 1987 (1987 No 118).
     
     Section 71B(1): amended (with effect on 1 April 1987), on 1 July 1987, by section 16(b) of the Forests Amendment Act 1987 (1987 No 118).
     
-    Section 71B(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii) ][267] of the Policing Act 2008 (2008 No 72).
+    Section 71B(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii) ][268] of the Policing Act 2008 (2008 No 72).
     
-    Section 71B(1)(b): repealed, on 1 October 2012, by [section 317(6)][205] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 71B(1)(b): repealed, on 1 October 2012, by [section 317(6)][206] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 71B(1)(c): repealed, on 1 October 2012, by [section 317(6)][205] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 71B(1)(c): repealed, on 1 October 2012, by [section 317(6)][206] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 71B(1)(d): repealed, on 1 October 2012, by [section 317(6)][205] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 71B(1)(d): repealed, on 1 October 2012, by [section 317(6)][206] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 71B(1)(e): amended, on 1 October 2012, by [section 317(7)][205] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 71B(1)(e): amended, on 1 October 2012, by [section 317(7)][206] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 71B(1)(f): repealed, on 1 October 2012, by [section 317(6)][205] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 71B(1)(f): repealed, on 1 October 2012, by [section 317(6)][206] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 71B(2): amended, on 1 October 2012, by [section 317(8)][205] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 71B(2): amended, on 1 October 2012, by [section 317(8)][206] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 71B(2)(b)(i): repealed, on 8 July 2003, by [section 28(2)][266] of the Biosecurity Amendment Act 2003 (2003 No 38).
+    Section 71B(2)(b)(i): repealed, on 8 July 2003, by [section 28(2)][267] of the Biosecurity Amendment Act 2003 (2003 No 38).
     
-    Section 71B(2)(c): repealed, on 8 July 2003, by [section 28(2)][266] of the Biosecurity Amendment Act 2003 (2003 No 38).
+    Section 71B(2)(c): repealed, on 8 July 2003, by [section 28(2)][267] of the Biosecurity Amendment Act 2003 (2003 No 38).
     
-    Section 71B(3): inserted, on 1 October 2012, by [section 317(9)][205] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 71B(3): inserted, on 1 October 2012, by [section 317(9)][206] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 71B(4): inserted, on 1 October 2012, by [section 317(9)][205] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 71B(4): inserted, on 1 October 2012, by [section 317(9)][206] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 71C Powers relating to ships
     
 *   \[Repealed\]
     
-    Section 71C: repealed, on 8 July 2003, by [section 28(1)][266] of the Biosecurity Amendment Act 2003 (2003 No 38).
+    Section 71C: repealed, on 8 July 2003, by [section 28(1)][267] of the Biosecurity Amendment Act 2003 (2003 No 38).
 
 ##### 72 Regulations
     
@@ -2615,7 +2619,7 @@ Miscellaneous provisions
     
     *   (ba) providing for the registration of sawmills and other related factories or industrial plants; authorising the Secretary to require sawmill operators to furnish information for the purposes of this Act; and prescribing the mode of registration and the fees to be paid in respect of registration:
     
-    *   (bb) prescribing such matters as are necessary or expedient for regulating the registration of sustainable forest management plans under the [Land Transfer Act 1952][213]:
+    *   (bb) prescribing such matters as are necessary or expedient for regulating the registration of sustainable forest management plans under the [Land Transfer Act 1952][214]:
     
     *   (bc) providing for the establishment and functions of advisory committees, consisting of persons to be appointed by the Minister, to advise the Minister on phytosanitary matters arising in relation to forestry:
     
@@ -2643,25 +2647,25 @@ Miscellaneous provisions
     
     Section 72(1): replaced (with effect on 1 April 1987), on 1 July 1987, by section 17 of the Forests Amendment Act 1987 (1987 No 118).
     
-    Section 72(1)(ba): inserted, on 1 July 1993, by [section 5(1)][268] of the Forests Amendment Act 1993 (1993 No 7).
+    Section 72(1)(ba): inserted, on 1 July 1993, by [section 5(1)][269] of the Forests Amendment Act 1993 (1993 No 7).
     
-    Section 72(1)(bb): inserted, on 1 July 1993, by [section 5(1)][268] of the Forests Amendment Act 1993 (1993 No 7).
+    Section 72(1)(bb): inserted, on 1 July 1993, by [section 5(1)][269] of the Forests Amendment Act 1993 (1993 No 7).
     
-    Section 72(1)(bc): inserted, on 1 July 1993, by [section 5(1)][268] of the Forests Amendment Act 1993 (1993 No 7).
+    Section 72(1)(bc): inserted, on 1 July 1993, by [section 5(1)][269] of the Forests Amendment Act 1993 (1993 No 7).
     
-    Section 72(1)(c): amended, on 1 July 2013, by [section 413][187] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 72(1)(c): amended, on 1 July 2013, by [section 413][188] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 72(1)(d): replaced, on 1 July 1993, by [section 5(2)][268] of the Forests Amendment Act 1993 (1993 No 7).
+    Section 72(1)(d): replaced, on 1 July 1993, by [section 5(2)][269] of the Forests Amendment Act 1993 (1993 No 7).
     
     Section 72(1A): repealed, on 1 April 1987, by [section 32(1)][172] of the State-Owned Enterprises Act 1986 (1986 No 124).
     
-    Section 72(2): repealed, on 19 December 1989, by [section 11][269] of the Regulations (Disallowance) Act 1989 (1989 No 143).
+    Section 72(2): repealed, on 19 December 1989, by [section 11][270] of the Regulations (Disallowance) Act 1989 (1989 No 143).
     
     Section 72(4): repealed (with effect on 1 April 1987), on 1 July 1987, by section 18(2) of the Forests Amendment Act 1987 (1987 No 118).
 
 ##### 72A Remuneration and expenses
     
-*   There shall be paid out of money appropriated by Parliament for the purpose to the members of any Authority constituted under [section 71A][156] or to any person appointed to a committee under [section 15(2)(b)][18] remuneration by way of fees, salary, or allowances, and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][270], and the provisions of that Act shall apply accordingly as if any such authority or committee were a statutory Board within the meaning of that Act.
+*   There shall be paid out of money appropriated by Parliament for the purpose to the members of any Authority constituted under [section 71A][156] or to any person appointed to a committee under [section 15(2)(b)][18] remuneration by way of fees, salary, or allowances, and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][271], and the provisions of that Act shall apply accordingly as if any such authority or committee were a statutory Board within the meaning of that Act.
     
     Section 72A: inserted (with effect on 1 April 1987), on 1 July 1987, by section 18(1) of the Forests Amendment Act 1987 (1987 No 118).
 
@@ -2673,7 +2677,7 @@ Miscellaneous provisions
     
     Compare: 1921--22 No 43 s 65
     
-    Section 73(1): amended, on 1 July 1993, by [section 9(1)][271] of the Forests Amendment Act 1993 (1993 No 7).
+    Section 73(1): amended, on 1 July 1993, by [section 9(1)][272] of the Forests Amendment Act 1993 (1993 No 7).
 
 ---
 
@@ -2682,7 +2686,7 @@ Enactments repealed
 
 [s 73][161]
 
-*   Schedule 1 heading: amended, on 1 July 1993, by [section 9(2)][271] of the Forests Amendment Act 1993 (1993 No 7).
+*   Schedule 1 heading: amended, on 1 July 1993, by [section 9(2)][272] of the Forests Amendment Act 1993 (1993 No 7).
 
 ##### Finance Act 1924 (1924 No 64) (Reprint of Statutes, Vol IV, p 786)
 
@@ -2716,7 +2720,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Statutes Amendment Act 1939 (1939 No 39)
 
-_Amendment(s) incorporated in the [Act(s)][272]_.
+_Amendment(s) incorporated in the [Act(s)][273]_.
 
 ##### Statutes Amendment Act 1941 (1941 No 26)
 
@@ -2724,7 +2728,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Statutes Amendment Act 1947 (1947 No 60) 
 
-_Amendment(s) incorporated in the [Act(s)][273]_.
+_Amendment(s) incorporated in the [Act(s)][274]_.
 
 ##### War Legislation and Statute Law Amendment Act 1918 (1918 No 10) (Reprint of Statutes, Vol III, p 447)
 
@@ -2737,7 +2741,7 @@ Provisions relating to sustainable forest management plans
 
 [s 67J][108]
 
-*   Schedule 2: inserted, on 1 July 1993, by [section 6][274] of the Forests Amendment Act 1993 (1993 No 7).
+*   Schedule 2: inserted, on 1 July 1993, by [section 6][275] of the Forests Amendment Act 1993 (1993 No 7).
 
 ##### 1 Description of land
     
@@ -2767,7 +2771,7 @@ Provisions relating to sustainable forest management plans
 
 ##### 4 Plan to specify relevant requirements under Resource Management Act 1991
     
-*   The plan shall specify the relevant details of all applicable district plans and regional plans under the [Resource Management Act 1991][219].
+*   The plan shall specify the relevant details of all applicable district plans and regional plans under the [Resource Management Act 1991][220].
 
 ##### 5 Term
     
@@ -2855,7 +2859,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Forests Amendment Act 2004][275].
+*   (1) This Act is the [Forests Amendment Act 2004][276].
     
     (2) In this Act, the Forests Act 1949 is called ""the principal Act"".
 
@@ -2936,63 +2940,65 @@ Miscellaneous provisions
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][276] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][277] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][277] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][278] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][278] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][279] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][279] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][280] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][254]
+*   Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][178]
     
-    Search and Surveillance Act 2012 (2012 No 24): [section 317][205]
+    Legislation Act 2012 (2012 No 119): [section 77(3)][255]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][187]
+    Search and Surveillance Act 2012 (2012 No 24): [section 317][206]
     
-    Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57): [section 88(1)][242]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][188]
     
-    Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85): [section 54][241]
+    Climate Change Response (Moderated Emissions Trading) Amendment Act 2009 (2009 No 57): [section 88(1)][243]
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][267]
+    Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85): [section 54][242]
     
-    Property Law Act 2007 (2007 No 91): [section 364(1)][244]
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][268]
+    
+    Property Law Act 2007 (2007 No 91): [section 364(1)][245]
     
     Climate Change Response Amendment Act 2006 (2006 No 59): [section 31][175]
     
-    [Forests Amendment Act 2005][280] (2005 No 103)
+    [Forests Amendment Act 2005][281] (2005 No 103)
     
-    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][186]
+    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][187]
     
-    [Forests Amendment Act 2004][275] (2004 No 49)
+    [Forests Amendment Act 2004][276] (2004 No 49)
     
-    Biosecurity Amendment Act 2003 (2003 No 38): [section 28][266]
+    Biosecurity Amendment Act 2003 (2003 No 38): [section 28][267]
     
-    Cadastral Survey Act 2002 (2002 No 12): [section 68(1)][217]
+    Cadastral Survey Act 2002 (2002 No 12): [section 68(1)][218]
     
     Ministry of Agriculture and Forestry (Restructuring) Act 1998 (1998 No 106): [section 9(1), (2)][174]
     
     Ministries of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100): section 4
     
-    Resource Management Amendment Act 1996 (1996 No 160): [section 6(2)(a)][224]
+    Resource Management Amendment Act 1996 (1996 No 160): [section 6(2)(a)][225]
     
     Forests Amendment Act (No 2) 1996 (1996 No 124)
     
-    State-Owned Enterprises (Crown Forestry Management Limited) Order 1996 (SR 1996/122): [clause 3][190]
+    State-Owned Enterprises (Crown Forestry Management Limited) Order 1996 (SR 1996/122): [clause 3][191]
     
     Forests Amendment Act 1995 (1995 No 10)
     
     Forests Amendment Act 1994 (1994 No 33)
     
-    [Forests Amendment Act 1993][281] (1993 No 7)
+    [Forests Amendment Act 1993][282] (1993 No 7)
     
-    Te Ture Whenua Maori Act 1993 (1993 No 4): [section 362(2)][191]
+    Te Ture Whenua Maori Act 1993 (1993 No 4): [section 362(2)][192]
     
     Civil Aviation Act 1990 (1990 No 98): [section 101(1)][170]
     
-    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][269]
+    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][270]
     
-    Public Finance Act 1989 (1989 No 44): [section 83(7)][185]
+    Public Finance Act 1989 (1989 No 44): [section 83(7)][186]
     
     Forests Amendment Act 1987 (1987 No 118)
     
@@ -3006,7 +3012,7 @@ Miscellaneous provisions
     
     Forests Amendment Act 1967 (1967 No 37)
     
-    [Forests Amendment Act 1960][282] (1960 No 62)
+    [Forests Amendment Act 1960][283] (1960 No 62)
     
     Forest and Rural Fires Act 1955 (1955 No 44): section 62(1)
     
@@ -3196,108 +3202,109 @@ Miscellaneous provisions
 [175]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM390495
 [176]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM418617
 [177]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM294398
-[178]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM255632
-[179]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM361741
-[180]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM361742
-[181]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM129109
-[182]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM97376
-[183]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM264291
-[184]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM446000
-[185]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM163167
-[186]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM328867
-[187]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM3360714
-[188]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM289881
-[189]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM291587
-[190]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM211617
-[191]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM293026
-[192]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM283819
-[193]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM293067
-[194]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM294805
-[195]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM103609
-[196]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM107200
-[197]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM294808
-[198]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM45426
-[199]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2136771
-[200]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2136860
-[201]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2136877
-[202]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2136888
-[203]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2136896
-[204]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM294809
-[205]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2137107
-[206]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM294810
-[207]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM294814
-[208]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM294815
-[209]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM294816
-[210]: http://www.legislation.govt.nz/act/public/1949/0019/latest/whole.html#DLM257437
-[211]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM294817
-[212]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM294818
-[213]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM269031
-[214]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM271641
-[215]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM271658
-[216]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM294819
-[217]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM142638
-[218]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM415531
-[219]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM230264
-[220]: http://www.legislation.govt.nz/act/public/1949/0019/latest/whole.html#DLM257436
-[221]: http://www.legislation.govt.nz/act/public/1949/0019/latest/whole.html#DLM257438
-[222]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM294820
-[223]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM237637
-[224]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM407465
-[225]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM294822
-[226]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2136770
-[227]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM4355336
-[228]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2136781
-[229]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2136813
-[230]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2136815
-[231]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2136842
-[232]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2136883
-[233]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM294823
-[234]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM294824
-[235]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM294825
-[236]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM158592
-[237]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM1662657
-[238]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM1662740
-[239]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM1662655
-[240]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM1662745
-[241]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM1131293
-[242]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2595617
-[243]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM969553
-[244]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM969644
-[245]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM204851
-[246]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM223236
-[247]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM223237
-[248]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM223238
-[249]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM223239
-[250]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM223240
-[251]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2997643
-[252]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2998573
-[253]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM316373
-[254]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2998633
-[255]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM316377
-[256]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM223242
-[257]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM223244
-[258]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM223245
-[259]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM418630
-[260]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM418632
-[261]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM418633
-[262]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM223246
-[263]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM223247
-[264]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2998557
-[265]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM223248
-[266]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM199762
-[267]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM1102349
-[268]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM293069
-[269]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM195558
-[270]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM264952
-[271]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM293074
-[272]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM228295
-[273]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM246253
-[274]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM293070
-[275]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM294391
-[276]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2998516
-[277]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2998515
-[278]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2998532
-[279]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[280]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM361735
-[281]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM293060
-[282]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM325255
+[178]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM4929207
+[179]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM255632
+[180]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM361741
+[181]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM361742
+[182]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM129109
+[183]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM97376
+[184]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM264291
+[185]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM446000
+[186]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM163167
+[187]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM328867
+[188]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM3360714
+[189]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM289881
+[190]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM291587
+[191]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM211617
+[192]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM293026
+[193]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM283819
+[194]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM293067
+[195]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM294805
+[196]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM103609
+[197]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM107200
+[198]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM294808
+[199]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM45426
+[200]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2136771
+[201]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2136860
+[202]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2136877
+[203]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2136888
+[204]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2136896
+[205]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM294809
+[206]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2137107
+[207]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM294810
+[208]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM294814
+[209]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM294815
+[210]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM294816
+[211]: http://www.legislation.govt.nz/act/public/1949/0019/latest/whole.html#DLM257437
+[212]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM294817
+[213]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM294818
+[214]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM269031
+[215]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM271641
+[216]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM271658
+[217]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM294819
+[218]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM142638
+[219]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM415531
+[220]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM230264
+[221]: http://www.legislation.govt.nz/act/public/1949/0019/latest/whole.html#DLM257436
+[222]: http://www.legislation.govt.nz/act/public/1949/0019/latest/whole.html#DLM257438
+[223]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM294820
+[224]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM237637
+[225]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM407465
+[226]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM294822
+[227]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2136770
+[228]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM4355336
+[229]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2136781
+[230]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2136813
+[231]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2136815
+[232]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2136842
+[233]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2136883
+[234]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM294823
+[235]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM294824
+[236]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM294825
+[237]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM158592
+[238]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM1662657
+[239]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM1662740
+[240]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM1662655
+[241]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM1662745
+[242]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM1131293
+[243]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2595617
+[244]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM969553
+[245]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM969644
+[246]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM204851
+[247]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM223236
+[248]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM223237
+[249]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM223238
+[250]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM223239
+[251]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM223240
+[252]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2997643
+[253]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2998573
+[254]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM316373
+[255]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2998633
+[256]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM316377
+[257]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM223242
+[258]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM223244
+[259]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM223245
+[260]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM418630
+[261]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM418632
+[262]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM418633
+[263]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM223246
+[264]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM223247
+[265]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2998557
+[266]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM223248
+[267]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM199762
+[268]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM1102349
+[269]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM293069
+[270]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM195558
+[271]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM264952
+[272]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM293074
+[273]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM228295
+[274]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM246253
+[275]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM293070
+[276]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM294391
+[277]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2998516
+[278]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2998515
+[279]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM2998532
+[280]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[281]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM361735
+[282]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM293060
+[283]: http://www.legislation.govt.nz/act/public/1949/0019/latest/link.aspx?id=DLM325255
