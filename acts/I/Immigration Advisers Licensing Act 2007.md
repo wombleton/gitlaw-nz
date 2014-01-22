@@ -1,5 +1,5 @@
 Reprint  
-as at 5 December 2013
+as at 1 January 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -359,6 +359,8 @@ Regulation of immigration advisers
         
     *   (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
     
+    *   (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    
     *   (b) the day observed in the appropriate area as the anniversary of the province of which the area forms a part; and
     
     *   (c) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year.
@@ -372,6 +374,8 @@ Regulation of immigration advisers
     Section 5 **settlement services**: amended, at 2 am on 29 November 2010, by [section 406(1)][119] of the Immigration Act 2009 (2009 No 51).
     
     Section 5 **visa**: substituted, at 2 am on 29 November 2010, by [section 406(1)][119] of the Immigration Act 2009 (2009 No 51).
+    
+    Section 5 **working day** paragraph (ab): inserted, on 1 January 2014, by [section 8][120] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
 
 #### Immigration advisers to be licensed, unless exempt
 
@@ -403,13 +407,13 @@ Regulation of immigration advisers
     
     (2) To avoid doubt, a person is not considered to be providing immigration advice within the meaning of this Act if the person provides the advice in the course of acting under or pursuant to---
         
-    *   (a) the [Ombudsmen Act 1975][120]; or
+    *   (a) the [Ombudsmen Act 1975][121]; or
     
     *   (b) any other enactment by which functions are conferred on Ombudsmen holding office under that Act.
     
     Section 7(1)(b)(ii): substituted, at 2 am on 29 November 2010, by [section 406(1)][119] of the Immigration Act 2009 (2009 No 51).
     
-    Section 7(2): added, on 7 July 2010, by [section 4][121] of the Immigration Advisers Licensing Amendment Act 2010 (2010 No 67).
+    Section 7(2): added, on 7 July 2010, by [section 4][122] of the Immigration Advisers Licensing Amendment Act 2010 (2010 No 67).
 
 ##### 8 Offshore immigration advice
     
@@ -455,7 +459,7 @@ Regulation of immigration advisers
     
     *   (b) members of Parliament, and members of their staff who provide immigration advice within the scope of their employment agreement:
     
-    *   (c) foreign diplomats and consular staff accorded protection as such under the [Diplomatic Privileges and Immunities Act 1968][122] or the [Consular Privileges and Immunities Act 1971][123]:
+    *   (c) foreign diplomats and consular staff accorded protection as such under the [Diplomatic Privileges and Immunities Act 1968][123] or the [Consular Privileges and Immunities Act 1971][124]:
     
     *   (d) employees of the public service who provide immigration advice within the scope of their employment agreement:
     
@@ -483,7 +487,7 @@ Regulation of immigration advisers
     
     Section 11(h): substituted, at 2 am on 29 November 2010, by [section 406(1)][119] of the Immigration Act 2009 (2009 No 51).
     
-    Section 11(h)(ii): substituted, on 25 February 2011, by [regulation 3][124] of the Immigration Advisers Licensing (Partial Removal of Exemption) Regulations 2011 (SR 2011/19).
+    Section 11(h)(ii): substituted, on 25 February 2011, by [regulation 3][125] of the Immigration Advisers Licensing (Partial Removal of Exemption) Regulations 2011 (SR 2011/19).
 
 ##### 12 Exemption, or removal of exemption, by Order in Council
     
@@ -563,11 +567,11 @@ Regulation of immigration advisers
         
     *   (a) is an undischarged bankrupt; or
     
-    *   (b) is prohibited or disqualified under any of the provisions of [sections 382][125], [383][126], or [385][127] of the Companies Act 1993 from managing a company; or
+    *   (b) is prohibited or disqualified under any of the provisions of [sections 382][126], [383][127], or [385][128] of the Companies Act 1993 from managing a company; or
     
-    *   (c) has been convicted of an offence against the [Immigration Act 2009][117], the [Immigration Act 1987][128], or the Immigration Act 1964; or
+    *   (c) has been convicted of an offence against the [Immigration Act 2009][117], the [Immigration Act 1987][129], or the Immigration Act 1964; or
     
-    *   (d) has been removed or deported from New Zealand under the [Immigration Act 2009][117], the [Immigration Act 1987][128], or the Immigration Act 1964; or
+    *   (d) has been removed or deported from New Zealand under the [Immigration Act 2009][117], the [Immigration Act 1987][129], or the Immigration Act 1964; or
     
     *   (e) is unlawfully in New Zealand.
     
@@ -575,11 +579,11 @@ Regulation of immigration advisers
         
     *   (a) Ministers of Immigration and Associate Ministers of Immigration in the New Zealand Government:
     
-    *   (b) any immigration officer, visa officer, or refugee status officer (as defined in the [Immigration Act 1987][128]):
+    *   (b) any immigration officer, visa officer, or refugee status officer (as defined in the [Immigration Act 1987][129]):
     
     *   (c) any immigration officer or refugee and protection officer (as defined in the [Immigration Act 2009][117]).
     
-    Section 15(1)(b): amended, on 5 December 2013, by [section 14][129] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 15(1)(b): amended, on 5 December 2013, by [section 14][130] of the Companies Amendment Act 2013 (2013 No 111).
     
     Section 15(1)(c): substituted, at 2 am on 29 November 2010, by [section 406(1)][119] of the Immigration Act 2009 (2009 No 51).
     
@@ -591,7 +595,7 @@ Regulation of immigration advisers
     
 *   The following persons must not be licensed unless the Registrar is satisfied that the nature of the relevant offence or matter is unlikely to adversely affect the person's fitness to provide immigration advice:
         
-    *   (a) a person who has been convicted, whether in New Zealand or in another country, of a crime involving dishonesty, an offence resulting in a term of imprisonment, or an offence against the [Fair Trading Act 1986][130] (or any equivalent law of another country):
+    *   (a) a person who has been convicted, whether in New Zealand or in another country, of a crime involving dishonesty, an offence resulting in a term of imprisonment, or an offence against the [Fair Trading Act 1986][131] (or any equivalent law of another country):
     
     *   (b) a person who, under the law of another country,---
             
@@ -735,9 +739,9 @@ Regulation of immigration advisers
     
     (5) The grant of an upgrade of a licence takes effect from the date of expiry of the previous licence (as determined before the application of subsection (4)) or the date on which it is granted, whichever occurs first.
     
-    Section 23(4): added, on 7 July 2010, by [section 5][131] of the Immigration Advisers Licensing Amendment Act 2010 (2010 No 67).
+    Section 23(4): added, on 7 July 2010, by [section 5][132] of the Immigration Advisers Licensing Amendment Act 2010 (2010 No 67).
     
-    Section 23(5): added, on 7 July 2010, by [section 5][131] of the Immigration Advisers Licensing Amendment Act 2010 (2010 No 67).
+    Section 23(5): added, on 7 July 2010, by [section 5][132] of the Immigration Advisers Licensing Amendment Act 2010 (2010 No 67).
 
 ##### 24 Renewal of licence
     
@@ -863,7 +867,7 @@ Regulation of immigration advisers
     
     (2) The Authority consists of---
         
-    *   (a) a Registrar of Immigration Advisers, appointed by the chief executive under the [State Sector Act 1988][132]; and
+    *   (a) a Registrar of Immigration Advisers, appointed by the chief executive under the [State Sector Act 1988][133]; and
     
     *   (b) such number of other persons as the chief executive appoints to the Authority under that Act.
     
@@ -973,9 +977,9 @@ Regulation of immigration advisers
 
 ##### 39 Application of Legislation Act 2012 to code and standards
     
-*   The code of conduct and competency standards, and any amendment, revocation, or replacement of the code or standards, are disallowable instruments, but not legislative instruments, for the purposes of the [Legislation Act 2012][133] and must be presented to the House of Representatives under [section 41][134] of that Act.
+*   The code of conduct and competency standards, and any amendment, revocation, or replacement of the code or standards, are disallowable instruments, but not legislative instruments, for the purposes of the [Legislation Act 2012][134] and must be presented to the House of Representatives under [section 41][135] of that Act.
     
-    Section 39: replaced, on 5 August 2013, by [section 77(3)][135] of the Legislation Act 2012 (2012 No 119).
+    Section 39: replaced, on 5 August 2013, by [section 77(3)][136] of the Legislation Act 2012 (2012 No 119).
 
 #### Immigration Advisers Complaints and Disciplinary Tribunal
 
@@ -1277,7 +1281,7 @@ Regulation of immigration advisers
 
 ##### 56 Purposes of inspection
     
-*   The powers in [section 57][136] may be used for 1 or more of the following purposes:
+*   The powers in [section 57][137] may be used for 1 or more of the following purposes:
         
     *   (a) administering the licensing regime:
     
@@ -1287,7 +1291,7 @@ Regulation of immigration advisers
     
     *   (d) investigating offences under this Act.
     
-    Section 56: replaced, on 1 October 2012, by [section 261][137] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 56: replaced, on 1 October 2012, by [section 261][138] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 57 Inspection powers
     
@@ -1313,21 +1317,21 @@ Regulation of immigration advisers
     
     (2) If a requirement is made of a person under subsection (1)(c), the person must immediately comply with that requirement.
     
-    (3) The provisions of [subparts 1][138], [5][139], [6][140], [7][141], [9][142], and [10][143] of Part 4 of the Search and Surveillance Act 2012 apply.
+    (3) The provisions of [subparts 1][139], [5][140], [6][141], [7][142], [9][143], and [10][144] of Part 4 of the Search and Surveillance Act 2012 apply.
     
-    Section 57: replaced, on 1 October 2012, by [section 261][137] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 57: replaced, on 1 October 2012, by [section 261][138] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 58 Inspection powers for investigating offences
     
 *   \[Repealed\]
     
-    Section 58: repealed, on 1 October 2012, by [section 262(1)][144] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 58: repealed, on 1 October 2012, by [section 262(1)][145] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 59 Privilege against self-incrimination
     
 *   No person is, on examination or inquiry under [section 57][66], required to give to any question any answer tending to incriminate that person.
     
-    Section 59: amended, on 1 October 2012, by [section 262(2)][144] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 59: amended, on 1 October 2012, by [section 262(2)][145] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 60 Entry of dwellinghouses
     
@@ -1337,11 +1341,11 @@ Regulation of immigration advisers
     
     *   (b) is authorised to do so by a warrant issued under [section 61][70].
     
-    Section 60: amended, on 1 October 2012, by [section 262(3)][144] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 60: amended, on 1 October 2012, by [section 262(3)][145] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 61 Entry warrant
     
-*   (1) An issuing officer (within the meaning of [section 3][145] of the Search and Surveillance Act 2012) who, on an application made in the manner provided for an application for a search warrant in [subpart 3][146] of Part 4 of that Act, is satisfied that there is reasonable ground for believing that a dwellinghouse---
+*   (1) An issuing officer (within the meaning of [section 3][146] of the Search and Surveillance Act 2012) who, on an application made in the manner provided for an application for a search warrant in [subpart 3][147] of Part 4 of that Act, is satisfied that there is reasonable ground for believing that a dwellinghouse---
         
     *   (a) is a place in which---
             
@@ -1355,19 +1359,19 @@ Regulation of immigration advisers
     
     may issue a warrant authorising the person named in it to enter that dwellinghouse or any part of that dwellinghouse that is, or is the only practicable means through which the person may enter, a place of a kind referred to in paragraph (a).
     
-    (2) The provisions of [subparts 1][138], [3][146], and [9][142] of Part 4 of the Search and Surveillance Act 2012 apply in respect of an entry warrant.
+    (2) The provisions of [subparts 1][139], [3][147], and [9][143] of Part 4 of the Search and Surveillance Act 2012 apply in respect of an entry warrant.
     
-    Section 61(1): amended, on 1 October 2012, by [section 262(4)][144] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 61(1): amended, on 1 October 2012, by [section 262(4)][145] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 61(2): replaced, on 1 October 2012, by [section 262(5)][144] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 61(2): replaced, on 1 October 2012, by [section 262(5)][145] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 61A Search warrant
     
-*   (1) For the purposes of [section 97][147] of the Search and Surveillance Act 2012, the Registrar is a person authorised to apply for a search warrant.
+*   (1) For the purposes of [section 97][148] of the Search and Surveillance Act 2012, the Registrar is a person authorised to apply for a search warrant.
     
-    (2) The Registrar may exercise the powers of a constable to apply for a search warrant under [section 6][148] of the Search and Surveillance Act 2012 in relation to an offence under this Act.
+    (2) The Registrar may exercise the powers of a constable to apply for a search warrant under [section 6][149] of the Search and Surveillance Act 2012 in relation to an offence under this Act.
     
-    Section 61A: inserted, on 1 October 2012, by [section 263][149] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 61A: inserted, on 1 October 2012, by [section 263][150] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 62 Conditions of authorisation
     
@@ -1389,7 +1393,7 @@ Regulation of immigration advisers
     
     *   (d) the purpose for which those powers may be exercised.
     
-    Section 62(3)(c): amended, on 1 October 2012, by [section 264(1)][150] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 62(3)(c): amended, on 1 October 2012, by [section 264(1)][151] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### Offences
 
@@ -1527,11 +1531,11 @@ Regulation of immigration advisers
     
     (2) A person convicted of an offence under subsection (1) is liable to a fine not exceeding $10,000\.
     
-    Section 69(1)(a): amended, on 1 October 2012, by [section 264(2)][150] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 69(1)(a): amended, on 1 October 2012, by [section 264(2)][151] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 69(1)(b): amended, on 1 October 2012, by [section 264(2)][150] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 69(1)(b): amended, on 1 October 2012, by [section 264(2)][151] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 69(1)(c): amended, on 1 October 2012, by [section 264(2)][150] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 69(1)(c): amended, on 1 October 2012, by [section 264(2)][151] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 70 Offence to fail to notify change in circumstances
     
@@ -1541,7 +1545,7 @@ Regulation of immigration advisers
 
 ##### 71 Reparation
     
-*   In addition to any penalty imposed on a person convicted under any of [sections 63][74], [67][78], and [68][79], the court may require payment of reparation to a victim in accordance with [section 12][151] and [Part 2][152] of the Sentencing Act 2002\.
+*   In addition to any penalty imposed on a person convicted under any of [sections 63][74], [67][78], and [68][79], the court may require payment of reparation to a victim in accordance with [section 12][152] and [Part 2][153] of the Sentencing Act 2002\.
 
 ##### 72 Additional penalty for offence involving commercial gain
     
@@ -1563,7 +1567,7 @@ Regulation of immigration advisers
 
 ##### 75 Time for filing charging document
     
-*   Despite anything to the contrary in [section 25][153] of the Criminal Procedure Act 2011,---
+*   Despite anything to the contrary in [section 25][154] of the Criminal Procedure Act 2011,---
         
     *   (a) a charging document may be filed at any time in respect of an offence against any of [sections 63(1)(a)][74], [64(1)][75], [65(1)][76], [67(1)(a)][78], and [68(1)(a)][79]; and
     
@@ -1575,7 +1579,7 @@ Regulation of immigration advisers
         
         
     
-    Section 75: replaced, on 1 July 2013, by [section 413][154] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 75: replaced, on 1 July 2013, by [section 413][155] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 2  
 Miscellaneous provisions
@@ -1740,7 +1744,7 @@ Miscellaneous provisions
     
     (2) The appeal must be heard and determined in accordance with rules of court.
     
-    (3) [Part 6][155] of the Criminal Procedure Act 2011 applies to the appeal---
+    (3) [Part 6][156] of the Criminal Procedure Act 2011 applies to the appeal---
         
     *   (a) so far as is applicable and with all necessary modifications; but
     
@@ -1748,7 +1752,7 @@ Miscellaneous provisions
     
     (4) Subsection (3) overrides subsection (2).
     
-    Section 85(3): amended, on 1 July 2013, by [section 413][154] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 85(3): amended, on 1 July 2013, by [section 413][155] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Miscellaneous matters
 
@@ -1762,7 +1766,7 @@ Miscellaneous provisions
 
 ##### 87 Power of Registrar to delegate
     
-*   The Registrar may, under [section 41][156] of the State Sector Act 1988, delegate to any employee, in the same manner and to the same extent as if the Registrar were the chief executive, any of the Registrar's functions, duties, and powers, except this power of delegation.
+*   The Registrar may, under [section 41][157] of the State Sector Act 1988, delegate to any employee, in the same manner and to the same extent as if the Registrar were the chief executive, any of the Registrar's functions, duties, and powers, except this power of delegation.
 
 ##### 88 Certificate of Registrar
     
@@ -1984,11 +1988,11 @@ Miscellaneous provisions
 
 ##### 95 Immigration Act 1987 amended
     
-*   [Section 142(1)(j)][157] of the Immigration Act 1987 is repealed.
+*   [Section 142(1)(j)][158] of the Immigration Act 1987 is repealed.
 
 ##### 96 Privacy Act 1993 amended
     
-*   [Part 1][158] of Schedule 2 of the Privacy Act 1993 is amended by inserting the following item in its appropriate alphabetical order:
+*   [Part 1][159] of Schedule 2 of the Privacy Act 1993 is amended by inserting the following item in its appropriate alphabetical order:
     
     > Immigration Advisers Licensing Act 2007section 77\.
     > 
@@ -2000,7 +2004,7 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 97: repealed, on 1 July 2013, by [section 413][154] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 97: repealed, on 1 July 2013, by [section 413][155] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ---
 
@@ -2019,7 +2023,7 @@ Provisions applying in relation to Tribunal
     
     (2) A member of the Tribunal is eligible for reappointment from time to time.
     
-    (3) Where the term of office of a member of the Tribunal has expired, that member, unless he or she sooner dies or vacates office under [clause 3][159], continues to hold office, by virtue of the appointment for the term that has expired, until---
+    (3) Where the term of office of a member of the Tribunal has expired, that member, unless he or she sooner dies or vacates office under [clause 3][160], continues to hold office, by virtue of the appointment for the term that has expired, until---
         
     *   (a) that member is reappointed; or
     
@@ -2033,17 +2037,17 @@ Provisions applying in relation to Tribunal
     
 *   (1) A member of the Tribunal may at any time be removed from office by the Governor-General for incapacity affecting performance of duty, neglect of duty, or misconduct, proved to the satisfaction of the Governor-General.
     
-    (2) A member of the Tribunal is deemed to have vacated his or her office if he or she is, under the [Insolvency Act 1967][160], adjudged bankrupt.
+    (2) A member of the Tribunal is deemed to have vacated his or her office if he or she is, under the [Insolvency Act 1967][161], adjudged bankrupt.
     
     (3) A member of the Tribunal may at any time resign his or her office by giving notice in writing to that effect to the Minister.
 
 ##### 4 Remuneration
     
-*   The chair and other members of the Tribunal are to be paid, out of public money, remuneration by way of fees, salary, or allowances and travelling allowances in accordance with the [Fees and Travelling Allowances Act 1951][161], and the provisions of that Act apply accordingly as if the chair or any other member were a member of a statutory board within the meaning of that Act.
+*   The chair and other members of the Tribunal are to be paid, out of public money, remuneration by way of fees, salary, or allowances and travelling allowances in accordance with the [Fees and Travelling Allowances Act 1951][162], and the provisions of that Act apply accordingly as if the chair or any other member were a member of a statutory board within the meaning of that Act.
 
 ##### 5 Members of Tribunal
     
-*   No person holding office as a member of the Tribunal is deemed by reason of his or her holding of that office to be employed in the Government service for the purposes of the [Government Superannuation Fund Act 1956][162] or in the State services for the purposes of the [State Sector Act 1988][132].
+*   No person holding office as a member of the Tribunal is deemed by reason of his or her holding of that office to be employed in the Government service for the purposes of the [Government Superannuation Fund Act 1956][163] or in the State services for the purposes of the [State Sector Act 1988][133].
 
 ##### 6 Witness summons
     
@@ -2055,11 +2059,11 @@ Provisions applying in relation to Tribunal
 
 ##### 7 Witnesses' expenses
     
-*   (1) Every person attending the Tribunal on a summons, and every other person giving evidence before the Tribunal, is entitled, subject to subclause (2), to be paid, by the party calling that person, witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the [Criminal Procedure Act 2011][163], and those regulations apply accordingly.
+*   (1) Every person attending the Tribunal on a summons, and every other person giving evidence before the Tribunal, is entitled, subject to subclause (2), to be paid, by the party calling that person, witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the [Criminal Procedure Act 2011][164], and those regulations apply accordingly.
     
     (2) The Tribunal may disallow the whole or any part of any sum payable under subclause (1).
     
-    Schedule clause 7(1): amended, on 1 July 2013, by [section 413][154] of the Criminal Procedure Act 2011 (2011 No 81).
+    Schedule clause 7(1): amended, on 1 July 2013, by [section 413][155] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 8 Power to take evidence on oath
     
@@ -2067,7 +2071,7 @@ Provisions applying in relation to Tribunal
     
     (2) On any charge of perjury it is sufficient to prove that the oath was administered in accordance with subclause (1).
     
-    Schedule clause 8(2): amended, on 1 July 2013, by [section 413][154] of the Criminal Procedure Act 2011 (2011 No 81).
+    Schedule clause 8(2): amended, on 1 July 2013, by [section 413][155] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 9 Protection and privileges of witnesses
     
@@ -2109,25 +2113,27 @@ Provisions applying in relation to Tribunal
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][164] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][165] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][165] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][166] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][166] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][167] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][167] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][168] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Companies Amendment Act 2013 (2013 No 111): [section 14][129]
+*   Companies Amendment Act 2013 (2013 No 111): [section 14][130]
     
-    Legislation Act 2012 (2012 No 119): [section 77(3)][135]
+    Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][120]
     
-    Search and Surveillance Act 2012 (2012 No 24): [sections 261--264][137]
+    Legislation Act 2012 (2012 No 119): [section 77(3)][136]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][154]
+    Search and Surveillance Act 2012 (2012 No 24): [sections 261--264][138]
     
-    Immigration Advisers Licensing (Partial Removal of Exemption) Regulations 2011 (SR 2011/29): [regulation 3][124]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][155]
     
-    [Immigration Advisers Licensing Amendment Act 2010][168] (2010 No 67)
+    Immigration Advisers Licensing (Partial Removal of Exemption) Regulations 2011 (SR 2011/29): [regulation 3][125]
+    
+    [Immigration Advisers Licensing Amendment Act 2010][169] (2010 No 67)
     
     Immigration Act 2009 (2009 No 51): [section 406(1)][119]
 
@@ -2253,52 +2259,53 @@ Provisions applying in relation to Tribunal
 [117]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM1440300
 [118]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM364948
 [119]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM1441347
-[120]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM430983
-[121]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM3042305
-[122]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM387495
-[123]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM397288
-[124]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM3547906
-[125]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM323249
-[126]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM323252
-[127]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM323259
-[128]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM108017
-[129]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM5620822
-[130]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM96438
-[131]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM3042306
-[132]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM129109
-[133]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM2997643
-[134]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM2998573
-[135]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM2998633
-[136]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM407365
-[137]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM2137004
-[138]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM2136771
-[139]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM2136842
-[140]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM2136860
-[141]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM2136877
-[142]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM2136888
-[143]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM2136896
-[144]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM2137007
-[145]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM2136542
-[146]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM2136781
-[147]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM2136783
-[148]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM2136635
-[149]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM4356317
-[150]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM4356319
-[151]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM135553
-[152]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM135593
-[153]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM3360067
-[154]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM3360714
-[155]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM3360366
-[156]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM129566
-[157]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM114024
-[158]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM298477
-[159]: http://www.legislation.govt.nz/act/public/2007/0015/latest/whole.html#DLM407622
-[160]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM382333
-[161]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM264952
-[162]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM446000
-[163]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM3359902
-[164]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM2998516
-[165]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM2998515
-[166]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM2998532
-[167]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[168]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM3042300
+[120]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM4929207
+[121]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM430983
+[122]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM3042305
+[123]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM387495
+[124]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM397288
+[125]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM3547906
+[126]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM323249
+[127]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM323252
+[128]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM323259
+[129]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM108017
+[130]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM5620822
+[131]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM96438
+[132]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM3042306
+[133]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM129109
+[134]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM2997643
+[135]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM2998573
+[136]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM2998633
+[137]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM407365
+[138]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM2137004
+[139]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM2136771
+[140]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM2136842
+[141]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM2136860
+[142]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM2136877
+[143]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM2136888
+[144]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM2136896
+[145]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM2137007
+[146]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM2136542
+[147]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM2136781
+[148]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM2136783
+[149]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM2136635
+[150]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM4356317
+[151]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM4356319
+[152]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM135553
+[153]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM135593
+[154]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM3360067
+[155]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM3360714
+[156]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM3360366
+[157]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM129566
+[158]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM114024
+[159]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM298477
+[160]: http://www.legislation.govt.nz/act/public/2007/0015/latest/whole.html#DLM407622
+[161]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM382333
+[162]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM264952
+[163]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM446000
+[164]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM3359902
+[165]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM2998516
+[166]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM2998515
+[167]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM2998532
+[168]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[169]: http://www.legislation.govt.nz/act/public/2007/0015/latest/link.aspx?id=DLM3042300
