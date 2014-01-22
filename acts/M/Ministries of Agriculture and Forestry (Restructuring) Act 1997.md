@@ -1,7 +1,7 @@
 Reprint  
-as at 11 December 1997
+as at 1 January 2014
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Ministries of Agriculture and Forestry (Restructuring) Act 1997Public Act1997 No 100
 
@@ -13,11 +13,11 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-This Act is administered by the Ministry of Agriculture and Forestry.
+This Act is administered by the Ministry for Primary Industries.
 
 ---
 
@@ -25,47 +25,47 @@ This Act is administered by the Ministry of Agriculture and Forestry.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Abolition of Ministry of Agriculture and Ministry of Forestry][4]
+[3][4][][4][Abolition of Ministry of Agriculture and Ministry of Forestry][4]
 
-[4][5] [Enactments consequentially amended][5]
+[4][5][][5][Enactments consequentially amended][5]
 
 [Savings][6]
 
-[5][7] [Savings relating to references and proceedings][7]
+[5][7][][7][Savings relating to references and proceedings][7]
 
-[6][8] [Savings relating to brands, stamps, marks, etc][8]
+[6][8][][8][Savings relating to brands, stamps, marks, etc][8]
 
 [Transfer of employees from Ministries of Agriculture and Forestry to new Ministry, etc][9]
 
-[7][10] [Transfer of employees][10]
+[7][10][][10][Transfer of employees][10]
 
-[8][11] [Protection of conditions of employment on transfer][11]
+[8][11][][11][Protection of conditions of employment on transfer][11]
 
-[9][12] [No compensation for technical redundancy][12]
+[9][12][][12][No compensation for technical redundancy][12]
 
-[10][13] [Saving of appointments, etc][13]
+[10][13][][13][Saving of appointments, etc][13]
 
-[11][14] [Powers of certain inspectors, etc, under Customs Orders][14]
+[11][14][][14][Powers of certain inspectors, etc, under Customs Orders][14]
 
-[12][15] [Employees, etc, to act under direction of chief executive][15]
+[12][15][][15][Employees, etc, to act under direction of chief executive][15]
 
 [Miscellaneous provisions][16]
 
-[13][17] [Delegation of all chief executive's functions and powers under any enactment][17]
+[13][17][][17][Delegation of all chief executive's functions and powers under any enactment][17]
 
-[14][18] [Penalty for failure to pay statutory fees, etc][18]
+[14][18][][18][Penalty for failure to pay statutory fees, etc][18]
 
-[15][19] [Waiver of penalty][19]
+[15][19][][19][Waiver of penalty][19]
 
-[16][20] [Services may be withdrawn until debt paid][20]
+[16][20][][20][Services may be withdrawn until debt paid][20]
 
-[17][21] [Levies collected on behalf of other person or body][21]
+[17][21][][21][Levies collected on behalf of other person or body][21]
 
-[18][22] [Advisory and technical committees][22]
+[18][22][][22][Advisory and technical committees][22]
 
 [Schedule][23]  
 [Enactments amended][23]
@@ -94,9 +94,11 @@ An Act to provide for the merger of the Ministry of Agriculture and the Ministry
         
     *   (a) a Saturday, a Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
     
+    *   (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    
     *   (b) a day in the period commencing with 20 December in any year and ending with 15 January in the following year.
     
-    
+    Section 2 **working day** paragraph (ab): inserted, on 1 January 2014, by [section 8][24] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
 
 ##### 3 Abolition of Ministry of Agriculture and Ministry of Forestry
     
@@ -122,9 +124,9 @@ An Act to provide for the merger of the Ministry of Agriculture and the Ministry
     
     *   (d) every reference (whether direct or indirect) to the Ministry of Forestry is to be read as a reference to the new Ministry.
     
-    (2) References in the [Ministry of Agriculture and Fisheries (Restructuring) Act 1995][24] to the responsible chief executive include, where appropriate and with effect on and after 1 March 1998, references to the chief executive of the new Ministry.
+    (2) References in the [Ministry of Agriculture and Fisheries (Restructuring) Act 1995][25] to the responsible chief executive include, where appropriate and with effect on and after 1 March 1998, references to the chief executive of the new Ministry.
     
-    (3) All proceedings whatever that, immediately before the commencement of this Act, were pending by or against or which could have been brought by or against or in respect of the Director-General of Agriculture or the Secretary of Forestry (including by virtue of [section 6][25] of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995) may be carried on, completed, or enforced by or against or in respect of the chief executive of the new Ministry.
+    (3) All proceedings whatever that, immediately before the commencement of this Act, were pending by or against or which could have been brought by or against or in respect of the Director-General of Agriculture or the Secretary of Forestry (including by virtue of [section 6][26] of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995) may be carried on, completed, or enforced by or against or in respect of the chief executive of the new Ministry.
     
     (4) All proceedings whatever that,---
         
@@ -136,7 +138,7 @@ An Act to provide for the merger of the Ministry of Agriculture and the Ministry
 
 ##### 6 Savings relating to brands, stamps, marks, etc
     
-*   Notwithstanding anything in the [Flags, Emblems, and Names Protection Act 1981][26], all names, brands, stamps, logos, emblems, marks, forms, and other representations or documents in use by the Ministry of Agriculture or the Ministry of Forestry immediately before the date of commencement of this Act---
+*   Notwithstanding anything in the [Flags, Emblems, and Names Protection Act 1981][27], all names, brands, stamps, logos, emblems, marks, forms, and other representations or documents in use by the Ministry of Agriculture or the Ministry of Forestry immediately before the date of commencement of this Act---
         
     *   (a) continue to have effect in relation to anything done before that date; and
     
@@ -158,7 +160,7 @@ An Act to provide for the merger of the Ministry of Agriculture and the Ministry
     
     (2) The transfer of any employee by this section is subject to any relevant provisions of the employment contract applying to that employee.
     
-    (3) This section applies notwithstanding [section 61A][27] of the State Sector Act 1988\.
+    (3) This section applies notwithstanding [section 61A][28] of the State Sector Act 1988\.
 
 ##### 8 Protection of conditions of employment on transfer
     
@@ -192,7 +194,7 @@ An Act to provide for the merger of the Ministry of Agriculture and the Ministry
 
 ##### 11 Powers of certain inspectors, etc, under Customs Orders
     
-*   In addition to the powers and authorities exercisable by an inspector, chief technical officer, or deputy chief technical officer appointed under the [Biosecurity Act 1993][28], every employee of the new Ministry who is appointed under that Act (whether before or after the commencement of this Act) has all such powers and authorities as may be reasonably necessary for the enforcement of any Order in Council made under section 48 of the Customs Act 1966 or [section 54][29] of the Customs and Excise Act 1996 which prohibits the importation into New Zealand of goods that constitute risk goods within the meaning of the Biosecurity Act 1993\.
+*   In addition to the powers and authorities exercisable by an inspector, chief technical officer, or deputy chief technical officer appointed under the [Biosecurity Act 1993][29], every employee of the new Ministry who is appointed under that Act (whether before or after the commencement of this Act) has all such powers and authorities as may be reasonably necessary for the enforcement of any Order in Council made under section 48 of the Customs Act 1966 or [section 54][30] of the Customs and Excise Act 1996 which prohibits the importation into New Zealand of goods that constitute risk goods within the meaning of the Biosecurity Act 1993\.
 
 ##### 12 Employees, etc, to act under direction of chief executive
     
@@ -300,7 +302,7 @@ An Act to provide for the merger of the Ministry of Agriculture and the Ministry
     
 *   (1) The Minister of Agriculture and the Minister of Forestry each has power to appoint from time to time advisory or technical committees, and to define the functions of any such committee.
     
-    (2) If the responsible Minister so directs, there may be paid out of public money to the members of any such committee remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][30], and the provisions of that Act apply accordingly as if the committee were a statutory Board within the meaning of that Act.
+    (2) If the responsible Minister so directs, there may be paid out of public money to the members of any such committee remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][31], and the provisions of that Act apply accordingly as if the committee were a statutory Board within the meaning of that Act.
 
 ---
 
@@ -311,84 +313,41 @@ Enactments amended
 
 ##### Forests Act 1949 (1949 No 19) (RS Vol 34, p 569)
 
-_Amendment(s) incorporated in the [Act(s)][31]._
+_Amendment(s) incorporated in the [Act(s)][32]._
 
 ##### Ombudsmen Act (1975 No 9) (RS Vol 35, p 469)
 
-_Amendment(s) incorporated in the [Act(s)][32]._
+_Amendment(s) incorporated in the [Act(s)][33]._
 
 ##### State Sector Act 1988 (1988 No 20) (RS Vol 33, p 715)
 
-_Amendment(s) incorporated in the [Act(s)][33]._
+_Amendment(s) incorporated in the [Act(s)][34]._
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Ministries of Agriculture and Forestry (Restructuring) Act 1997\. The reprint incorporates all the amendments to the Act as at 11 December 1997, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][34] ![](/images/external_link.gif).
+*   This is a reprint of the Ministries of Agriculture and Forestry (Restructuring) Act 1997 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][35] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][35] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][36] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][36] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][37] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][38] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][37] and [17E][38] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
-    
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   
+*   Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][24]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1997/0100/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1997/0100/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1997/0100/latest/whole.html#DLM418604
 [2]: http://www.legislation.govt.nz/act/public/1997/0100/latest/whole.html#DLM418606
 [3]: http://www.legislation.govt.nz/act/public/1997/0100/latest/whole.html#DLM418607
@@ -412,18 +371,18 @@ _Amendment(s) incorporated in the [Act(s)][33]._
 [21]: http://www.legislation.govt.nz/act/public/1997/0100/latest/whole.html#DLM418634
 [22]: http://www.legislation.govt.nz/act/public/1997/0100/latest/whole.html#DLM418635
 [23]: http://www.legislation.govt.nz/act/public/1997/0100/latest/whole.html#DLM418636
-[24]: http://www.legislation.govt.nz/act/public/1997/0100/latest/link.aspx?id=DLM366813
-[25]: http://www.legislation.govt.nz/act/public/1997/0100/latest/link.aspx?id=DLM366838
-[26]: http://www.legislation.govt.nz/act/public/1997/0100/latest/link.aspx?id=DLM51357
-[27]: http://www.legislation.govt.nz/act/public/1997/0100/latest/link.aspx?id=DLM129741
-[28]: http://www.legislation.govt.nz/act/public/1997/0100/latest/link.aspx?id=DLM314622
-[29]: http://www.legislation.govt.nz/act/public/1997/0100/latest/link.aspx?id=DLM378460
-[30]: http://www.legislation.govt.nz/act/public/1997/0100/latest/link.aspx?id=DLM264952
-[31]: http://www.legislation.govt.nz/act/public/1997/0100/latest/link.aspx?id=DLM255632
-[32]: http://www.legislation.govt.nz/act/public/1997/0100/latest/link.aspx?id=DLM431205
-[33]: http://www.legislation.govt.nz/act/public/1997/0100/latest/link.aspx?id=DLM130706
-[34]: http://www.pco.parliament.govt.nz/reprints/
-[35]: http://www.legislation.govt.nz/act/public/1997/0100/latest/link.aspx?id=DLM195439
-[36]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[37]: http://www.legislation.govt.nz/act/public/1997/0100/latest/link.aspx?id=DLM195468
-[38]: http://www.legislation.govt.nz/act/public/1997/0100/latest/link.aspx?id=DLM195470
+[24]: http://www.legislation.govt.nz/act/public/1997/0100/latest/link.aspx?id=DLM4929207
+[25]: http://www.legislation.govt.nz/act/public/1997/0100/latest/link.aspx?id=DLM366813
+[26]: http://www.legislation.govt.nz/act/public/1997/0100/latest/link.aspx?id=DLM366838
+[27]: http://www.legislation.govt.nz/act/public/1997/0100/latest/link.aspx?id=DLM51357
+[28]: http://www.legislation.govt.nz/act/public/1997/0100/latest/link.aspx?id=DLM129741
+[29]: http://www.legislation.govt.nz/act/public/1997/0100/latest/link.aspx?id=DLM314622
+[30]: http://www.legislation.govt.nz/act/public/1997/0100/latest/link.aspx?id=DLM378460
+[31]: http://www.legislation.govt.nz/act/public/1997/0100/latest/link.aspx?id=DLM264952
+[32]: http://www.legislation.govt.nz/act/public/1997/0100/latest/link.aspx?id=DLM255632
+[33]: http://www.legislation.govt.nz/act/public/1997/0100/latest/link.aspx?id=DLM431205
+[34]: http://www.legislation.govt.nz/act/public/1997/0100/latest/link.aspx?id=DLM130706
+[35]: http://www.legislation.govt.nz/act/public/1997/0100/latest/link.aspx?id=DLM2998516
+[36]: http://www.legislation.govt.nz/act/public/1997/0100/latest/link.aspx?id=DLM2998515
+[37]: http://www.legislation.govt.nz/act/public/1997/0100/latest/link.aspx?id=DLM2998532
+[38]: http://www.pco.parliament.govt.nz/editorial-conventions/
