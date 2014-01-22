@@ -1,5 +1,5 @@
 Reprint  
-as at 18 December 2013
+as at 1 January 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -437,6 +437,8 @@ Preliminary provisions
         
     *   (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
     
+    *   (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    
     *   (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year.
     
     (2) A reference to a numbered form is a reference to the form so numbered in [Schedule 1][127].
@@ -452,6 +454,8 @@ Preliminary provisions
     Section 3(1) **Registrar of Births and Deaths**: amended, on 24 January 2009, by [section 47][146] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
     Section 3(1) **roll identifier number**: amended, on 1 July 2012, by [section 60(4)][144] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    
+    Section 3(1) **working day** paragraph (ab): inserted, on 1 January 2014, by [section 8][147] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
 
 ##### 4 Purposes
     
@@ -480,7 +484,7 @@ Voting paper for postal voting
     
 *   (1) The wording of each proposal to be put to electors in a government initiated referendum is specified by the Governor-General by Order in Council. The Order in Council must also specify the wording of each response for which electors may vote.
     
-    (2) The wording of the question to be put to electors in a citizens initiated referendum is the wording of which notice is given under [section 13][147] of the Citizens Initiated Referenda Act 1993\.
+    (2) The wording of the question to be put to electors in a citizens initiated referendum is the wording of which notice is given under [section 13][148] of the Citizens Initiated Referenda Act 1993\.
 
 ##### 7 Form of voting paper
     
@@ -538,9 +542,9 @@ Voting paper for postal voting
         
         
     
-    (2) The voting paper used in a citizens initiated referendum must be in the form prescribed in [section 28][148] of the Citizens Initiated Referenda Act 1993\.
+    (2) The voting paper used in a citizens initiated referendum must be in the form prescribed in [section 28][149] of the Citizens Initiated Referenda Act 1993\.
     
-    Compare: 1997 No 13 [s 6][149]
+    Compare: 1997 No 13 [s 6][150]
 
 ## Part 3  
 Officials
@@ -551,13 +555,13 @@ Officials
     
     (2) The Returning Officer is, under the direction of the Electoral Commission, charged with the duty of implementing this Act, except [Part 4][16].
     
-    (3) The Returning Officer must, as his or her first duty, make a declaration in [form 1][150] before a Justice of the Peace or a solicitor.
+    (3) The Returning Officer must, as his or her first duty, make a declaration in [form 1][151] before a Justice of the Peace or a solicitor.
     
-    Compare: 1997 No 13 [s 7][151]
+    Compare: 1997 No 13 [s 7][152]
     
-    Section 8(1): substituted, on 1 October 2010, by [section 32(2)(b)][152] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
+    Section 8(1): substituted, on 1 October 2010, by [section 32(2)(b)][153] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
     
-    Section 8(2): substituted, on 1 October 2010, by [section 32(2)(b)][152] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
+    Section 8(2): substituted, on 1 October 2010, by [section 32(2)(b)][153] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
 
 ##### 9 Returning Officer may employ or engage persons
     
@@ -569,9 +573,9 @@ Officials
         
     *   (a) is under the direction of the Returning Officer; and
     
-    *   (b) must, as the person's first duty, make a declaration in [form 1][150] before the Returning Officer, a Justice of the Peace, or a solicitor.
+    *   (b) must, as the person's first duty, make a declaration in [form 1][151] before the Returning Officer, a Justice of the Peace, or a solicitor.
     
-    Compare: 1997 No 13 [s 8][153]
+    Compare: 1997 No 13 [s 8][154]
 
 ##### 10 Electoral Commission
     
@@ -579,7 +583,7 @@ Officials
     
     (2) For the purposes of implementing [Part 4][16], the Electoral Commission may provide such computer and other services, and such facilities, as the Electoral Commission thinks necessary.
     
-    Compare: 1997 No 13 [s 9][154]
+    Compare: 1997 No 13 [s 9][155]
     
     Section 10: replaced, on 1 July 2012, by [section 60(5)][144] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
 
@@ -593,9 +597,9 @@ Officials
     
     (2) A delegation under this section must be made in writing, and the document must be signed by the maker of the delegation.
     
-    (3) [Section 73][155] of the Crown Entities Act 2004 (alone, or in conjunction with [section 9][156] of the Electoral Act 1993) enables the Electoral Commission to delegate all or any of its functions or powers under this Act that relate to registration of electors.
+    (3) [Section 73][156] of the Crown Entities Act 2004 (alone, or in conjunction with [section 9][157] of the Electoral Act 1993) enables the Electoral Commission to delegate all or any of its functions or powers under this Act that relate to registration of electors.
     
-    Compare: 1997 No 13 [s 10][157]
+    Compare: 1997 No 13 [s 10][158]
     
     Section 11 heading: amended, on 1 July 2012, by [section 60(6)][144] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
@@ -619,7 +623,7 @@ Officials
     
     (7) The maker, or a successor, may revoke the delegation at any time by written notice to the delegate.
     
-    Compare: 1997 No 13 [s 11][158]
+    Compare: 1997 No 13 [s 11][159]
 
 ## Part 4  
 Rolls of electors
@@ -636,7 +640,7 @@ Rolls of electors
     
     (2) The purpose of every unprinted preliminary referendum roll, the referendum roll, and the supplementary referendum roll is to facilitate the holding of a referendum.
     
-    Compare: 1997 No 13 [s 12][159]
+    Compare: 1997 No 13 [s 12][160]
 
 #### Preliminary referendum rolls
 
@@ -648,9 +652,9 @@ Rolls of electors
     
     (3) The Registrar of each district must print the preliminary referendum roll for the district as soon as practicable after that date.
     
-    (4) No printed preliminary referendum roll is to list any person whose details are not published or available under the [Electoral Act 1993][132] as a result of a direction by theElectoral Commission under [section 115][160] of that Act.
+    (4) No printed preliminary referendum roll is to list any person whose details are not published or available under the [Electoral Act 1993][132] as a result of a direction by theElectoral Commission under [section 115][161] of that Act.
     
-    Compare: 1997 No 13 [s 13][161]
+    Compare: 1997 No 13 [s 13][162]
     
     Section 14(2): amended, on 1 July 2012, by [section 60(8)(a)][144] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
@@ -658,7 +662,7 @@ Rolls of electors
 
 ##### 15 Form of printed preliminary referendum rolls
     
-*   (1) Although every printed preliminary referendum roll is the main roll for the district, [section 106][162] of the Electoral Act 1993, relating to the form of the main roll and supplementary rolls, does not apply to any printed referendum roll and this section applies instead.
+*   (1) Although every printed preliminary referendum roll is the main roll for the district, [section 106][163] of the Electoral Act 1993, relating to the form of the main roll and supplementary rolls, does not apply to any printed referendum roll and this section applies instead.
     
     (2) Every printed preliminary referendum roll must show, in alphabetical order of surnames, the following details for each person listed:
         
@@ -672,13 +676,13 @@ Rolls of electors
     
     (4) The pages of every printed preliminary referendum roll must be numbered consecutively, beginning with the number 1 for the first page.
     
-    Compare: 1997 No 13 [s 14][163]
+    Compare: 1997 No 13 [s 14][164]
 
 ##### 16 Section 110 of the Electoral Act 1993 not to apply to printed preliminary referendum rolls
     
-*   Although every printed preliminary referendum roll is the main roll for the district, [section 110][164] of the Electoral Act 1993 does not apply to any printed preliminary referendum roll and [sections 17][23] and [18][24] apply instead.
+*   Although every printed preliminary referendum roll is the main roll for the district, [section 110][165] of the Electoral Act 1993 does not apply to any printed preliminary referendum roll and [sections 17][23] and [18][24] apply instead.
     
-    Compare: 1997 No 13 [s 15][165]
+    Compare: 1997 No 13 [s 15][166]
 
 ##### 17 Public inspection of printed preliminary referendum rolls
     
@@ -700,7 +704,7 @@ Rolls of electors
     
     (6) The right of inspection conferred by subsections (2) and (4) does not include the rights to copy or purchase the whole or any part of the printed preliminary referendum roll.
     
-    Compare: 1997 No 13 [s 16][166]
+    Compare: 1997 No 13 [s 16][167]
     
     Section 17(3): amended, on 1 July 2012, by [section 60(8)(b)][144] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
 
@@ -732,7 +736,7 @@ Rolls of electors
     
     (5) The right to use a printed preliminary referendum roll conferred by subsection (1) does not include the right to copy the whole or any part of it.
     
-    Compare: 1997 No 13 [s 17][167]
+    Compare: 1997 No 13 [s 17][168]
     
     Section 18(2)(a): amended, on 1 July 2012, by [section 60(8)(c)][144] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
@@ -744,11 +748,11 @@ Rolls of electors
     
 *   Nothing in this Act prevents the making of a request for electoral information under the following sections of the [Electoral Act 1993][132]:
         
-    *   (a) [section 111][168] (inspection of rolls at hui):
+    *   (a) [section 111][169] (inspection of rolls at hui):
     
-    *   (b) [section 112][169] (supply of information on age and Maori descent):
+    *   (b) [section 112][170] (supply of information on age and Maori descent):
     
-    *   (c) [section 114][170] (supply of electronic information to candidates, political parties, and members of Parliament).
+    *   (c) [section 114][171] (supply of electronic information to candidates, political parties, and members of Parliament).
     
     Section 19(c): substituted, on 18 March 2002, by [section 101(3)][145] of the Electoral Amendment Act 2002 (2002 No 1).
 
@@ -758,9 +762,9 @@ Rolls of electors
     
     (2) An objection must be made before the date appointed for the closing of the referendum roll under [section 21(2)][28].
     
-    (3) [Sections 95(2)][171], [95A to 95D][172], and [97][173] of the Electoral Act 1993 apply, as far as they are applicable and with any necessary modifications, to an objection.
+    (3) [Sections 95(2)][172], [95A to 95D][173], and [97][174] of the Electoral Act 1993 apply, as far as they are applicable and with any necessary modifications, to an objection.
     
-    Compare: 1997 No 13 [s 18][174]
+    Compare: 1997 No 13 [s 18][175]
 
 #### Referendum roll and supplementary referendum roll
 
@@ -772,7 +776,7 @@ Rolls of electors
     
     (3) The Electoral Commission must compile the referendum roll as soon as practicable after that date.
     
-    Compare: 1997 No 13 [s 19][175]
+    Compare: 1997 No 13 [s 19][176]
     
     Section 21(3): amended, on 1 July 2012, by [section 60(8)(d)][144] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
 
@@ -794,7 +798,7 @@ Rolls of electors
     
     (3) The Electoral Commission must compile the supplementary referendum roll as soon as practicable after the commencement of the voting period.
     
-    Compare: 1997 No 13 [s 20][176]
+    Compare: 1997 No 13 [s 20][177]
     
     Section 22(3): amended, on 1 July 2012, by [section 60(8)(e)][144] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
 
@@ -822,13 +826,13 @@ Rolls of electors
         
         
     
-    Compare: 1997 No 13 [s 21][177]
+    Compare: 1997 No 13 [s 21][178]
 
 ##### 24 Supply of copy of rolls to Returning Officer
     
 *   At the request of the Returning Officer, the Electoral Commission must supply the Returning Officer with a copy of the referendum roll and the supplementary referendum roll.
     
-    Compare: 1997 No 13 [s 22][178]
+    Compare: 1997 No 13 [s 22][179]
     
     Section 24: amended, on 1 July 2012, by [section 60(8)(f)][144] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
 
@@ -852,7 +856,7 @@ Rolls of electors
     
     *   (b) the applicant produces a receipt that relates to the application and that was issued by any New Zealand Post Limited outlet or agency before the commencement of the voting period.
     
-    Compare: 1997 No 13 [s 23][179]
+    Compare: 1997 No 13 [s 23][180]
 
 ##### 26 Persons who, at commencement of voting period, are dead or disqualified or removed from roll
     
@@ -872,11 +876,11 @@ Rolls of electors
     
     *   (c) of whose identity the Registrar is satisfied.
     
-    (3) The second category is every elector who is disqualified from registration as an elector under [section 80][180] of the Electoral Act 1993\.
+    (3) The second category is every elector who is disqualified from registration as an elector under [section 80][181] of the Electoral Act 1993\.
     
     (4) The third category is every elector whose name has been removed from a roll under---
         
-    *   (a) [section 95B][181] or [section 96][182] or [section 97][173] of the Electoral Act 1993; or
+    *   (a) [section 95B][182] or [section 96][183] or [section 97][174] of the Electoral Act 1993; or
     
     *   (b) [section 20(3)][26].
     
@@ -888,11 +892,11 @@ Rolls of electors
     
     (6) The Returning Officer must make a mark on the Returning Officer's copy of the roll, by the elector's name, to indicate that the elector is dead, disqualified, or removed from a roll.
     
-    Compare: 1997 No 13 [s 24][183]
+    Compare: 1997 No 13 [s 24][184]
     
     Section 26(1): amended, on 1 July 2012, by [section 60(9)][144] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
-    Section 26(2)(b)(ii): substituted, on 26 April 2005, by [section 7][184] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 26(2)(b)(ii): substituted, on 26 April 2005, by [section 7][185] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
     Section 26(5): amended, on 1 July 2012, by [section 60(9)][144] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
@@ -910,7 +914,7 @@ Rolls of electors
     
     (3) Subsection (2) does not apply to the Returning Officer acting under [section 50(1)(b)][62] or to the Clerk of the House acting under [section 50(2)][62].
     
-    Compare: 1997 No 13 [s 25][185]
+    Compare: 1997 No 13 [s 25][186]
     
     Section 27(2)(b): amended, on 1 July 2012, by [section 60(8)(g)][144] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
 
@@ -918,7 +922,7 @@ Rolls of electors
     
 *   (1) At the request in writing of the panel, the Electoral Commission must supply to the panel in electronic form the information described in subsection (2).
     
-    (2) The information is a list of every person whose name appears on the referendum roll or supplementary referendum roll, except any person whose details are not published or available under the [Electoral Act 1993][132] as a result of a direction by the Electoral Commission under [section 115][160] of that Act, that shows the following details for each person listed:
+    (2) The information is a list of every person whose name appears on the referendum roll or supplementary referendum roll, except any person whose details are not published or available under the [Electoral Act 1993][132] as a result of a direction by the Electoral Commission under [section 115][161] of that Act, that shows the following details for each person listed:
         
     *   (a) full name:
     
@@ -940,7 +944,7 @@ Rolls of electors
     
     *   (b) make a declaration to the Electoral Commission in the prescribed form that the person has complied with paragraph (a).
     
-    Compare: 1997 No 13 [s 26][186]
+    Compare: 1997 No 13 [s 26][187]
     
     Section 28(1): amended, on 1 July 2012, by [section 60(8)(h)][144] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
@@ -957,13 +961,13 @@ Conduct of referendum
     
 *   Every elector is qualified to vote at the referendum.
     
-    Compare: 1997 No 13 [s 27][187]
+    Compare: 1997 No 13 [s 27][188]
 
 ##### 30 Voting period
     
 *   (1) The voting period commences at the start of the 21st day before the day appointed under this section for the close of the voting period.
     
-    (2) The voting period closes at 7 pm on a Friday to be appointed by the Governor-General by [Order in Council][188].
+    (2) The voting period closes at 7 pm on a Friday to be appointed by the Governor-General by [Order in Council][189].
     
     (3) The Governor-General may, from time to time, before the commencement of the voting period, by Order in Council,---
         
@@ -973,13 +977,13 @@ Conduct of referendum
     
     (4) The Governor-General may not make an Order in Council under subsection (3) if, in relation to a citizens initiated referendum,---
         
-    *   (a) the House of Representatives has passed a resolution of a kind described in [section 22AB(4) or (6)][189] of the Citizens Initiated Referenda Act 1993; or
+    *   (a) the House of Representatives has passed a resolution of a kind described in [section 22AB(4) or (6)][190] of the Citizens Initiated Referenda Act 1993; or
     
-    *   (b) the Governor-General has exercised the power in [section 22AB(8)][189] of that Act.
+    *   (b) the Governor-General has exercised the power in [section 22AB(8)][190] of that Act.
     
-    (5) This section is affected by [section 22AB][189] of the Citizens Initiated Referenda Act 1993\.
+    (5) This section is affected by [section 22AB][190] of the Citizens Initiated Referenda Act 1993\.
     
-    Compare: 1997 No 13 [s 28][190]
+    Compare: 1997 No 13 [s 28][191]
 
 #### Dispatching voting papers
 
@@ -993,13 +997,13 @@ Conduct of referendum
     
     *   (c) if the relevant parts of the voting paper are dictated under [section 35(4)(b)][44], the Returning Officer is satisfied that the elector has heard every word dictated.
     
-    Compare: 1997 No 13 [s 29][191]
+    Compare: 1997 No 13 [s 29][192]
 
 ##### 32 Period for dispatching voting papers
     
 *   The Returning Officer may dispatch voting papers at any time after the start of the voting period but not later than midnight on the day before the voting period ends.
     
-    Compare: 1997 No 13 [s 30][192]
+    Compare: 1997 No 13 [s 30][193]
 
 ##### 33 Dispatching voting papers by post
     
@@ -1007,7 +1011,7 @@ Conduct of referendum
     
     (2) In order to carry out his or her duty under subsection (1), the Returning Officer may place voting papers in the custody of New Zealand Post Limited on the day before the first day of the voting period.
     
-    Compare: 1997 No 13 [s 31][193]
+    Compare: 1997 No 13 [s 31][194]
 
 ##### 34 Dispatching replacement voting papers by post
     
@@ -1033,7 +1037,7 @@ Conduct of referendum
     
     *   (c) provide the Electoral Commission with the name, date of birth, and current postal address of the elector, if the current postal address is different from the postal address shown on the Returning Officer's copy of the roll.
     
-    Compare: 1997 No 13 [s 32][194]
+    Compare: 1997 No 13 [s 32][195]
     
     Section 34(3)(c): amended, on 1 July 2012, by [section 60(8)(i)][144] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
 
@@ -1099,7 +1103,7 @@ Conduct of referendum
     
     (5) The Returning Officer must make a mark on the Returning Officer's copy of the roll, by the elector's name, to indicate that the voting paper has been faxed, or its relevant parts dictated, to the elector under subsection (4).
     
-    Compare: 1997 No 13 [s 33][195]
+    Compare: 1997 No 13 [s 33][196]
 
 ##### 36 Envelopes and information accompanying voting papers
     
@@ -1115,7 +1119,7 @@ Conduct of referendum
     
     *   (b) may post or fax with it information, in any language or languages, on how to vote and how to return the voting paper.
     
-    Compare: 1997 No 13 [s 34][196]
+    Compare: 1997 No 13 [s 34][197]
 
 ##### 37 Extension of voting period
     
@@ -1149,7 +1153,7 @@ Conduct of referendum
     
     (6) The Returning Officer may, after the voting period has closed in the rest of New Zealand, from time to time give public notice of the results of voting in the whole or part of the rest of New Zealand.
     
-    Compare: 1997 No 13 [s 35][197]
+    Compare: 1997 No 13 [s 35][198]
 
 #### Marking and returning voting papers
 
@@ -1173,7 +1177,7 @@ Conduct of referendum
     
     (4) An elector to whom the Returning Officer has dictated the relevant parts of the voting paper under [section 35(4)(b)][44] may, in accordance with regulations made under this Act, if any, dictate his or her vote to the Returning Officer. The Returning Officer must mark the voting paper in accordance with the elector's instructions.
     
-    Compare: 1997 No 13 [s 36][198]
+    Compare: 1997 No 13 [s 36][199]
 
 ##### 39 Return of voting papers to Returning Officer
     
@@ -1195,7 +1199,7 @@ Conduct of referendum
     
     (5) When an elector votes in accordance with [section 38(4)][48], the voting paper is returned when the Returning Officer marks the voting paper.
     
-    Compare: 1997 No 13 [s 37][199]
+    Compare: 1997 No 13 [s 37][200]
 
 ##### 40 Times for return of voting papers
     
@@ -1207,7 +1211,7 @@ Conduct of referendum
     
     *   (b) it bears a postmark or date stamp, either on its envelope (if any) or on the voting paper itself, that was impressed---
             
-        *   (i) on a day during the voting period, by a postal operator registered under [section 27][200] of the Postal Services Act 1998; or
+        *   (i) on a day during the voting period, by a postal operator registered under [section 27][201] of the Postal Services Act 1998; or
         
         *   (ii) before or on the second to last day of the voting period, in any country outside of New Zealand.
         
@@ -1215,7 +1219,7 @@ Conduct of referendum
     
     (3) A voting paper returned under [section 39(4)][49] must be returned before 7 pm on the last day of the voting period.
     
-    Compare: 1997 No 13 [s 38][201]
+    Compare: 1997 No 13 [s 38][202]
 
 ##### 41 Voting papers returned late
     
@@ -1225,7 +1229,7 @@ Conduct of referendum
     
     *   (b) seal each parcel and mark it ""Disallowed, received late"".
     
-    Compare: 1997 No 13 [s 39][202]
+    Compare: 1997 No 13 [s 39][203]
 
 #### Progressive processing of voting papers
 
@@ -1247,13 +1251,13 @@ Conduct of referendum
     
     (3) The Returning Officer may carry out the duties in subsection (2) by any method and procedure he or she thinks fit, including the use of computer technology.
     
-    Compare: 1997 No 13 [s 40][203]
+    Compare: 1997 No 13 [s 40][204]
 
 ##### 43 Informal voting papers
     
 *   A voting paper is informal if the Returning Officer is satisfied that the voting paper does not clearly indicate the response for which the elector wished to vote.
     
-    Compare: 1997 No 13 [s 41][204]
+    Compare: 1997 No 13 [s 41][205]
 
 ##### 44 Invalid voting papers
     
@@ -1289,7 +1293,7 @@ Conduct of referendum
     
     *   (h) is damaged in such a way as to prevent it being processed.
     
-    Compare: 1997 No 13 [s 42][205]
+    Compare: 1997 No 13 [s 42][206]
 
 ##### 45 Protection of secrecy during processing
     
@@ -1305,7 +1309,7 @@ Conduct of referendum
     
     (3) Despite [section 46(1)][57], the Returning Officer may from time to time during the voting period assess the feasibility of any method chosen to calculate the result of the referendum if the assessment does not compromise the secrecy of voting or the result of the referendum.
     
-    Compare: 1997 No 13 [s 43(1)(a)--(c), (2)][206]
+    Compare: 1997 No 13 [s 43(1)(a)--(c), (2)][207]
 
 ##### 46 Publicity during processing
     
@@ -1313,7 +1317,7 @@ Conduct of referendum
     
     (2) Despite subsection (1), the Returning Officer may from time to time during the voting period issue a press statement giving the total number of votes received at a date specified in the statement, but not the number of votes received for each response.
     
-    Compare: 1997 No 13 [s 43(1)(d)][206]
+    Compare: 1997 No 13 [s 43(1)(d)][207]
 
 ##### 47 Supervision of processing
     
@@ -1341,7 +1345,7 @@ Conduct of referendum
     
     (6) A Justice must not finally determine whether or not any voting paper is valid or informal.
     
-    Compare: 1997 No 13 [s 44][207]
+    Compare: 1997 No 13 [s 44][208]
 
 #### Announcing results
 
@@ -1355,7 +1359,7 @@ Conduct of referendum
     
     *   (c) complete the processing of voting papers returned in accordance with [section 40][50].
     
-    Compare: 1997 No 13 [s 45][208]
+    Compare: 1997 No 13 [s 45][209]
 
 ##### 49 Declaration of result of referendum
     
@@ -1363,7 +1367,7 @@ Conduct of referendum
         
     *   (a) calculate the total number of votes received for each response; and
     
-    *   (b) declare the result of the referendum by giving public notice of it in [form 2][209]; and
+    *   (b) declare the result of the referendum by giving public notice of it in [form 2][210]; and
     
     *   (c) give public notice of the following for each district:
             
@@ -1373,7 +1377,7 @@ Conduct of referendum
         
         
     
-    Compare: 1997 No 13 [s 46][210]
+    Compare: 1997 No 13 [s 46][211]
 
 ##### 50 Disposal of voting papers and rolls
     
@@ -1399,9 +1403,9 @@ Conduct of referendum
     
     *   (c) ensure that at the end of 6 months the parcels are destroyed unopened in the presence of the Clerk of the House.
     
-    (3) [Section 190][211] of the Electoral Act 1993 applies, as far as is applicable and with any necessary modifications, to everything kept by the Clerk of the House under subsection (2).
+    (3) [Section 190][212] of the Electoral Act 1993 applies, as far as is applicable and with any necessary modifications, to everything kept by the Clerk of the House under subsection (2).
     
-    Compare: 1997 No 13 [s 47][212]
+    Compare: 1997 No 13 [s 47][213]
 
 #### Advertising
 
@@ -1440,7 +1444,7 @@ Application for inquiry into conduct of referendum
     
     (2) A group may make an application only if it has at least 200 members.
     
-    Compare: 1993 No 101 [s 48(1)][213]
+    Compare: 1993 No 101 [s 48(1)][214]
 
 #### Respondents
 
@@ -1456,7 +1460,7 @@ Application for inquiry into conduct of referendum
     
     (5) A group filing such a notice within that time becomes a respondent to the application or applications.
     
-    Compare: 1993 No 101 [s 49][214]
+    Compare: 1993 No 101 [s 49][215]
 
 ##### 54 Who may be respondents
     
@@ -1472,7 +1476,7 @@ Application for inquiry into conduct of referendum
     
     *   (e) a person acting under a delegation under [section 11][14].
     
-    Compare: 1993 No 101 [s 48(2)][213]
+    Compare: 1993 No 101 [s 48(2)][214]
     
     Section 54(c): amended, on 1 July 2012, by [section 60(8)(k)][144] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
 
@@ -1480,29 +1484,29 @@ Application for inquiry into conduct of referendum
 
 ##### 55 Application form
     
-*   (1) The application must be in [form 3][215], or in a similar form.
+*   (1) The application must be in [form 3][216], or in a similar form.
     
     (2) The application must state the specific grounds on which the applicant is dissatisfied with the result of the referendum.
     
-    Compare: 1993 No 101 [s 48(3), (4)][213]
+    Compare: 1993 No 101 [s 48(3), (4)][214]
 
 ##### 56 Application to be filed in Wellington High Court
     
 *   An applicant makes its application by filing the application in the High Court in Wellington.
     
-    Compare: 1993 No 101 [s 48(4)][213]
+    Compare: 1993 No 101 [s 48(4)][214]
 
 ##### 57 Time for making application
     
 *   An applicant must make its application within 20 working days after the Returning Officer has declared the result of the referendum under [section 49(b)][61].
     
-    Compare: 1993 No 101 [s 48(1)][213]
+    Compare: 1993 No 101 [s 48(1)][214]
 
 ##### 58 Application to be sent to Returning Officer
     
 *   The Registrar of the court must send a copy of the application to the Returning Officer as soon as practicable after it is filed.
     
-    Compare: 1993 No 101 [s 48(4)][213]
+    Compare: 1993 No 101 [s 48(4)][214]
 
 ##### 59 Application to be served on respondents
     
@@ -1512,7 +1516,7 @@ Application for inquiry into conduct of referendum
     
     (3) An application must be served in a manner as close as possible to that in which a statement of claim is served.
     
-    Compare: 1993 No 101 [s 48(5)][213]
+    Compare: 1993 No 101 [s 48(5)][214]
 
 #### Hearing of application
 
@@ -1526,9 +1530,9 @@ Application for inquiry into conduct of referendum
     
     (4) The sections of the [Electoral Act 1993][132] described in subsection (5) of this section, as far as they are applicable and with the necessary modifications, apply to a hearing of an application for an inquiry under this Part or an incidental matter.
     
-    (5) The sections of the [Electoral Act 1993][132] referred to in subsection (4) of this section are [sections 232 to 234][216], [235][217], [236(1), (2), (4) to (7)][218], [240][219], [241][220], [242][221], [247 to 255][222], [256(1)(a) and (b)][223], and [257][224].
+    (5) The sections of the [Electoral Act 1993][132] referred to in subsection (4) of this section are [sections 232 to 234][217], [235][218], [236(1), (2), (4) to (7)][219], [240][220], [241][221], [242][222], [247 to 255][223], [256(1)(a) and (b)][224], and [257][225].
     
-    Compare: 1993 No 101 [s 48(3)][213]
+    Compare: 1993 No 101 [s 48(3)][214]
 
 #### Court's decision
 
@@ -1540,7 +1544,7 @@ Application for inquiry into conduct of referendum
     
     *   (b) it must determine whether the referendum is void because of some irregularity that in the court's opinion materially affected the result of the referendum.
     
-    Compare: 1993 No 101 [s 50][225]
+    Compare: 1993 No 101 [s 50][226]
 
 ##### 62 Fresh referendum
     
@@ -1554,7 +1558,7 @@ Application for inquiry into conduct of referendum
     
     (5) At the fresh referendum the same roll of electors must be used as was used at the voided referendum.
     
-    Compare: 1993 No 101 [s 51][226]
+    Compare: 1993 No 101 [s 51][227]
 
 ## Part 7  
 Offences
@@ -1577,7 +1581,7 @@ Offences
     
     (3) Every person who commits an offence against this section is guilty of a corrupt practice for the purposes of the [Electoral Act 1993][132].
     
-    Compare: 1997 No 13 [s 49][227]
+    Compare: 1997 No 13 [s 49][228]
     
     Section 63(1)(c): amended, on 1 July 2012, by [section 60(8)(l)][144] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
 
@@ -1615,13 +1619,13 @@ Offences
     
     *   (b) the whole or any part of any copy of an unprinted preliminary referendum roll, the referendum roll, or the supplementary referendum roll, including any mark made under any of [sections 26(6)][33], [34(3)(b)][43], [35(5)][44], or [42(2)(b)][53].
     
-    Compare: 1997 No 13 [s 50][228]
+    Compare: 1997 No 13 [s 50][229]
     
-    Section 64(1): amended, on 1 July 2013, by [section 413][229] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 64(1): amended, on 1 July 2013, by [section 413][230] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 64(2): amended, on 1 July 2013, by [section 413][229] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 64(2): amended, on 1 July 2013, by [section 413][230] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 64(3): amended, on 1 July 2013, by [section 413][229] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 64(3): amended, on 1 July 2013, by [section 413][230] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 65 Official publicity campaign
     
@@ -1629,11 +1633,11 @@ Offences
     
     (2) Every person who fails, without reasonable excuse, to comply with [section 28(4) or (5)][35]commits an offence and is liable on conviction to a fine not exceeding $50,000\.
     
-    Compare: 1997 No 13 [s 51][230]
+    Compare: 1997 No 13 [s 51][231]
     
-    Section 65(1): amended, on 1 July 2013, by [section 413][229] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 65(1): amended, on 1 July 2013, by [section 413][230] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 65(2): amended, on 1 July 2013, by [section 413][229] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 65(2): amended, on 1 July 2013, by [section 413][230] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 66 Influencing electors generally
     
@@ -1659,17 +1663,17 @@ Offences
         
         
     
-    Compare: 1997 No 13 [s 52][231]
+    Compare: 1997 No 13 [s 52][232]
     
-    Section 66(2): amended, on 1 July 2013, by [section 413][229] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 66(2): amended, on 1 July 2013, by [section 413][230] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 67 Advertisers
     
 *   Every person to whom [section 51][64] applies commits an offence and is liable on conviction to a fine not exceeding $20,000 who fails, without reasonable excuse, to comply with that section.
     
-    Compare: 1997 No 13 [s 53][232]
+    Compare: 1997 No 13 [s 53][233]
     
-    Section 67: amended, on 1 July 2013, by [section 413][229] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 67: amended, on 1 July 2013, by [section 413][230] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 68 Voting papers
     
@@ -1697,9 +1701,9 @@ Offences
     
     (3) Every person who commits an offence against this section is guilty of a corrupt practice for the purposes of the [Electoral Act 1993][132].
     
-    Compare: 1997 No 13 [s 54][233]
+    Compare: 1997 No 13 [s 54][234]
     
-    Section 68(2): amended, on 1 July 2013, by [section 413][229] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 68(2): amended, on 1 July 2013, by [section 413][230] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 69 Bribery by any person at any time
     
@@ -1767,7 +1771,7 @@ Offences
     
     (6) Every person who commits the offence of bribery is guilty of a corrupt practice for the purposes of the [Electoral Act 1993][132].
     
-    Compare: 1997 No 13 [ss 55(1), (4), (5)][234], [56][235]
+    Compare: 1997 No 13 [ss 55(1), (4), (5)][235], [56][236]
 
 ##### 70 Bribery by any person after voting period
     
@@ -1785,7 +1789,7 @@ Offences
     
     (3) Every person who commits the offence of bribery is guilty of a corrupt practice for the purposes of the [Electoral Act 1993][132].
     
-    Compare: 1997 No 13 [s 55(4), (5)][234]
+    Compare: 1997 No 13 [s 55(4), (5)][235]
 
 ##### 71 Bribery by elector before or during voting period
     
@@ -1807,7 +1811,7 @@ Offences
     
     (4) Every elector who commits the offence of bribery is guilty of a corrupt practice for the purposes of the [Electoral Act 1993][132].
     
-    Compare: 1997 No 13 [ss 55(3), (5)][234], [56][235]
+    Compare: 1997 No 13 [ss 55(3), (5)][235], [56][236]
 
 ##### 72 Treating
     
@@ -1825,7 +1829,7 @@ Offences
     
     *   (c) on his or her own or through another person.
     
-    (3) Every person who is the holder of a licence for the retail sale of alcohol (within the meaning of the [Sale and Supply of Alcohol Act 2012][236]) commits the offence of treating who, before or during the voting period, knowingly supplies any food, drink, entertainment, or provision---
+    (3) Every person who is the holder of a licence for the retail sale of alcohol (within the meaning of the [Sale and Supply of Alcohol Act 2012][237]) commits the offence of treating who, before or during the voting period, knowingly supplies any food, drink, entertainment, or provision---
         
     *   (a) to any person when the supply is demanded for the purpose of treating; or
     
@@ -1835,9 +1839,9 @@ Offences
     
     (5) Every person who commits the offence of treating is guilty of a corrupt practice for the purposes of the [Electoral Act 1993][132].
     
-    Compare: 1997 No 13 [s 57][237]
+    Compare: 1997 No 13 [s 57][238]
     
-    Section 72(3): amended, on 18 December 2013, by [section 417(1)][238] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
+    Section 72(3): amended, on 18 December 2013, by [section 417(1)][239] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
 
 ##### 73 Undue influence
     
@@ -1863,7 +1867,7 @@ Offences
     
     (4) Every person who commits the offence of undue influence is guilty of a corrupt practice for the purposes of the [Electoral Act 1993][132].
     
-    Compare: 1997 No 13 [s 58][239]
+    Compare: 1997 No 13 [s 58][240]
 
 ##### 74 Voting
     
@@ -1887,13 +1891,13 @@ Offences
     
     (3) Every person who, except for a lawful purpose, interferes with or attempts to interfere with a voter marking his or her voting paper at the referendum commits an offence and is liable on conviction to a fine not exceeding $5,000\.
     
-    Compare: 1997 No 13 [s 59][240]
+    Compare: 1997 No 13 [s 59][241]
     
-    Section 74(1): amended, on 1 July 2013, by [section 413][229] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 74(1): amended, on 1 July 2013, by [section 413][230] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 74(2): amended, on 1 July 2013, by [section 413][229] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 74(2): amended, on 1 July 2013, by [section 413][230] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 74(3): amended, on 1 July 2013, by [section 413][229] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 74(3): amended, on 1 July 2013, by [section 413][230] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 75 Personation
     
@@ -1909,7 +1913,7 @@ Offences
     
     (3) Every person who commits, or aids, abets, counsels, or procures the commission of, the offence of personation is guilty of a corrupt practice for the purposes of the [Electoral Act 1993][132].
     
-    Compare: 1997 No 13 [s 60][241]
+    Compare: 1997 No 13 [s 60][242]
 
 ##### 76 Processing
     
@@ -1925,11 +1929,11 @@ Offences
     
     (4) Every person who commits an offence against subsection (3) is guilty of a corrupt practice for the purposes of the [Electoral Act 1993][132].
     
-    Compare: 1997 No 13 [s 61][242]
+    Compare: 1997 No 13 [s 61][243]
     
-    Section 76(1): amended, on 1 July 2013, by [section 413][229] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 76(1): amended, on 1 July 2013, by [section 413][230] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 76(2): amended, on 1 July 2013, by [section 413][229] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 76(2): amended, on 1 July 2013, by [section 413][230] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Miscellaneous
 
@@ -1937,7 +1941,7 @@ Offences
     
 *   In any prosecution for an offence in relation to any voting paper or any envelope containing any voting paper, the property in the voting paper or envelope may be stated as being in the Returning Officer.
     
-    Compare: 1997 No 13 [s 62][243]
+    Compare: 1997 No 13 [s 62][244]
 
 ## Part 8  
 Miscellaneous provisions
@@ -1968,7 +1972,7 @@ Miscellaneous provisions
     
     *   (d) to make such other provision for the case as the Governor-General thinks fit.
     
-    Compare: 1997 No 13 [s 63][244]
+    Compare: 1997 No 13 [s 63][245]
 
 ##### 79 Two or more referenda
     
@@ -1990,15 +1994,15 @@ Miscellaneous provisions
     
     *   (f) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
     
-    (2) Rules of court may be made in the manner prescribed by the [Judicature Act 1908][245] for the purposes of this Part.
+    (2) Rules of court may be made in the manner prescribed by the [Judicature Act 1908][246] for the purposes of this Part.
     
-    Compare: 1997 No 13 [s 65][246]
+    Compare: 1997 No 13 [s 65][247]
 
 ##### 81 Enactments amended
     
 *   The enactments specified in [Schedule 2][128] are amended in the manner indicated in that schedule.
     
-    Compare: 1997 No 13 [s 64][247]
+    Compare: 1997 No 13 [s 64][248]
 
 ## Part 9  
 Amendments to Citizens Initiated Referenda Act 1993
@@ -2009,91 +2013,91 @@ Amendments to Citizens Initiated Referenda Act 1993
 
 ##### 83 Interpretation
     
-*   _Amendment(s) incorporated in the [Act(s)][248]._
+*   _Amendment(s) incorporated in the [Act(s)][249]._
 
 ##### 84 Part heading substituted
     
-*   _Amendment(s) incorporated in the [Act(s)][249]._
+*   _Amendment(s) incorporated in the [Act(s)][250]._
 
 ##### 85 Prohibitions
     
-*   _Amendment(s) incorporated in the [Act(s)][250]._
+*   _Amendment(s) incorporated in the [Act(s)][251]._
 
 ##### 86 New sections 22 to 22AB substituted
     
-*   _Amendment(s) incorporated in the [Act(s)][251]._
+*   _Amendment(s) incorporated in the [Act(s)][252]._
 
 ##### 87 Part heading substituted
     
-*   _Amendment(s) incorporated in the [Act(s)][252]._
+*   _Amendment(s) incorporated in the [Act(s)][253]._
 
 ##### 88 New sections 24 to 26C substituted
     
-*   _Amendment(s) incorporated in the [Act(s)][252]._
+*   _Amendment(s) incorporated in the [Act(s)][253]._
 
 ##### 89 Endorsement and return of the writ
     
-*   _Amendment(s) incorporated in the [Act(s)][253]._
+*   _Amendment(s) incorporated in the [Act(s)][254]._
 
 ##### 90 New sections 40 and 40AA substituted
     
-*   _Amendment(s) incorporated in the [Act(s)][254]._
+*   _Amendment(s) incorporated in the [Act(s)][255]._
 
 ##### 91 New Part heading substituted
     
-*   _Amendment(s) incorporated in the [Act(s)][255]._
+*   _Amendment(s) incorporated in the [Act(s)][256]._
 
 ##### 92 Publicity for indicative referendum
     
-*   _Amendment(s) incorporated in the [Act(s)][255]._
+*   _Amendment(s) incorporated in the [Act(s)][256]._
 
 ##### 93 Returns in relation to advertisements
     
-*   _Amendment(s) incorporated in the [Act(s)][256]._
+*   _Amendment(s) incorporated in the [Act(s)][257]._
 
 ##### 94 Duty of Chief Electoral Officer
     
 *   \[Repealed\]
     
-    Section 94: repealed, on 28 February 2002, by [section 101(5)][257] of the Electoral Amendment Act 2002 (2002 No 1).
+    Section 94: repealed, on 28 February 2002, by [section 101(5)][258] of the Electoral Amendment Act 2002 (2002 No 1).
 
 ##### 95 Return to be open for public inspection
     
 *   \[Repealed\]
     
-    Section 95: repealed, on 28 February 2002, by [section 101(5)][257] of the Electoral Amendment Act 2002 (2002 No 1).
+    Section 95: repealed, on 28 February 2002, by [section 101(5)][258] of the Electoral Amendment Act 2002 (2002 No 1).
 
 ##### 96 Part heading substituted
     
-*   _Amendment(s) incorporated in the [Act(s)][258]._
+*   _Amendment(s) incorporated in the [Act(s)][259]._
 
 ##### 97 New headings and sections 48 to 51G substituted
     
-*   _Amendment(s) incorporated in the [Act(s)][213]._
+*   _Amendment(s) incorporated in the [Act(s)][214]._
 
 ##### 98 New Part heading substituted
     
-*   _Amendment(s) incorporated in the [Act(s)][259]._
+*   _Amendment(s) incorporated in the [Act(s)][260]._
 
 ##### 99 Part heading substituted
     
-*   _Amendment(s) incorporated in the [Act(s)][260]._
+*   _Amendment(s) incorporated in the [Act(s)][261]._
 
 ##### 100 New section 55 substituted
     
-*   _Amendment(s) incorporated in the [Act(s)][260]._
+*   _Amendment(s) incorporated in the [Act(s)][261]._
 
 ##### 101 New section 58A inserted
     
-*   _Amendment(s) incorporated in the [Act(s)][261]._
+*   _Amendment(s) incorporated in the [Act(s)][262]._
 
 ##### 102 Schedule amended
     
 *   (1) \[Repealed\]
     
-    (2) _Amendment(s) incorporated in the [Act(s)][262]._
+    (2) _Amendment(s) incorporated in the [Act(s)][263]._
     
-    Section 102(1): repealed, on 28 February 2002, by [section 101(5)][257] of the Electoral Amendment Act 2002 (2002 No 1).
+    Section 102(1): repealed, on 28 February 2002, by [section 101(5)][258] of the Electoral Amendment Act 2002 (2002 No 1).
 
 ##### 103 Consequential repeals
     
@@ -2240,7 +2244,7 @@ Enactments amended
 
 ##### Summary Proceedings Act 1957 (1957 No 87)
 
-_Amendment(s) incorporated in the [Act(s)][263]._
+_Amendment(s) incorporated in the [Act(s)][264]._
 
 ---
 
@@ -2251,7 +2255,7 @@ New form inserted
 
 \[Repealed\]
     
-*   Schedule 3: repealed, on 28 February 2002, by [section 101(5)][257] of the Electoral Amendment Act 2002 (2002 No 1).
+*   Schedule 3: repealed, on 28 February 2002, by [section 101(5)][258] of the Electoral Amendment Act 2002 (2002 No 1).
 
 ---
 
@@ -2260,7 +2264,7 @@ New form substituted
 
 [s 102(2)][125]
 
-_Amendment(s) incorporated in the [Act(s)][262]._
+_Amendment(s) incorporated in the [Act(s)][263]._
 
 #### 
 
@@ -2274,25 +2278,27 @@ _Amendment(s) incorporated in the [Act(s)][262]._
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][264] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][265] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][265] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][266] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][266] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][267] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][267] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][268] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Sale and Supply of Alcohol Act 2012 (2012 No 120): [section 417(1)][238]
+*   Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][147]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][229]
+    Sale and Supply of Alcohol Act 2012 (2012 No 120): [section 417(1)][239]
+    
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][230]
     
     Electoral (Administration) Amendment Act 2011 (2011 No 57): [section 60][144]
     
-    Electoral (Administration) Amendment Act 2010 (2010 No 26): [section 32(2)(b)][152]
+    Electoral (Administration) Amendment Act 2010 (2010 No 26): [section 32(2)(b)][153]
     
     Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][146]
     
-    Relationships (Statutory References) Act 2000 (2005 No 3): [section 7][184]
+    Relationships (Statutory References) Act 2000 (2005 No 3): [section 7][185]
     
     Electoral Amendment Act 2002 (2002 No 1): [section 101(3), (5)][145]
 
@@ -2445,124 +2451,125 @@ _Amendment(s) incorporated in the [Act(s)][262]._
 [144]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM3367699
 [145]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM131138
 [146]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM1048943
-[147]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318470
-[148]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318636
-[149]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408650
-[150]: http://www.legislation.govt.nz/act/public/2000/0048/latest/whole.html#DLM75071
-[151]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408652
-[152]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM2469790
-[153]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408653
-[154]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408654
-[155]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM330308
-[156]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM308126
-[157]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408655
-[158]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408656
-[159]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408658
-[160]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM309404
-[161]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408660
-[162]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM309142
-[163]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408661
-[164]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM309150
-[165]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408662
-[166]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408663
-[167]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408664
-[168]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM309151
-[169]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM309170
-[170]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM309195
-[171]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM309106
-[172]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM309108
-[173]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM309120
-[174]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408665
-[175]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408667
-[176]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408668
-[177]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408669
-[178]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408670
-[179]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408671
-[180]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM308839
-[181]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM309111
-[182]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM309117
-[183]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408672
-[184]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM333795
-[185]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408673
-[186]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408674
-[187]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408676
-[188]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM1592686
-[189]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318492
-[190]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408677
-[191]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408679
-[192]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408680
-[193]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408681
-[194]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408682
-[195]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408683
-[196]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408684
-[197]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408685
-[198]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408687
-[199]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408688
-[200]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM423734
-[201]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408689
-[202]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408690
-[203]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408692
-[204]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408693
-[205]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408694
-[206]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408695
-[207]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408696
-[208]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408698
-[209]: http://www.legislation.govt.nz/act/public/2000/0048/latest/whole.html#DLM75072
-[210]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408699
-[211]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM310028
-[212]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408900
-[213]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318813
-[214]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318817
-[215]: http://www.legislation.govt.nz/act/public/2000/0048/latest/whole.html#DLM75073
-[216]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM310434
-[217]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM310438
-[218]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM310439
-[219]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM310443
-[220]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM310444
-[221]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM310445
-[222]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM310451
-[223]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM310463
-[224]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM310464
-[225]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318819
-[226]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318822
-[227]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408905
-[228]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408906
-[229]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM3360714
-[230]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408907
-[231]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408908
-[232]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408909
-[233]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408910
-[234]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408911
-[235]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408912
-[236]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM3339302
-[237]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408914
-[238]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM3339984
-[239]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408915
-[240]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408916
-[241]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408917
-[242]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408918
-[243]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408920
-[244]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408922
-[245]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM144692
-[246]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408924
-[247]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408923
-[248]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM317198
-[249]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318457
-[250]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318458
-[251]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318486
-[252]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318602
-[253]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318659
-[254]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318662
-[255]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318674
-[256]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318680
-[257]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM131139
-[258]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318810
-[259]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318843
-[260]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318858
-[261]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318862
-[262]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318885
-[263]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM310742
-[264]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM2998516
-[265]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM2998515
-[266]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM2998532
-[267]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[147]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM4929207
+[148]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318470
+[149]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318636
+[150]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408650
+[151]: http://www.legislation.govt.nz/act/public/2000/0048/latest/whole.html#DLM75071
+[152]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408652
+[153]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM2469790
+[154]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408653
+[155]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408654
+[156]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM330308
+[157]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM308126
+[158]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408655
+[159]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408656
+[160]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408658
+[161]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM309404
+[162]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408660
+[163]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM309142
+[164]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408661
+[165]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM309150
+[166]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408662
+[167]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408663
+[168]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408664
+[169]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM309151
+[170]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM309170
+[171]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM309195
+[172]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM309106
+[173]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM309108
+[174]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM309120
+[175]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408665
+[176]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408667
+[177]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408668
+[178]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408669
+[179]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408670
+[180]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408671
+[181]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM308839
+[182]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM309111
+[183]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM309117
+[184]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408672
+[185]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM333795
+[186]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408673
+[187]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408674
+[188]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408676
+[189]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM1592686
+[190]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318492
+[191]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408677
+[192]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408679
+[193]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408680
+[194]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408681
+[195]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408682
+[196]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408683
+[197]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408684
+[198]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408685
+[199]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408687
+[200]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408688
+[201]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM423734
+[202]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408689
+[203]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408690
+[204]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408692
+[205]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408693
+[206]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408694
+[207]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408695
+[208]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408696
+[209]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408698
+[210]: http://www.legislation.govt.nz/act/public/2000/0048/latest/whole.html#DLM75072
+[211]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408699
+[212]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM310028
+[213]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408900
+[214]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318813
+[215]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318817
+[216]: http://www.legislation.govt.nz/act/public/2000/0048/latest/whole.html#DLM75073
+[217]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM310434
+[218]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM310438
+[219]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM310439
+[220]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM310443
+[221]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM310444
+[222]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM310445
+[223]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM310451
+[224]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM310463
+[225]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM310464
+[226]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318819
+[227]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318822
+[228]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408905
+[229]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408906
+[230]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM3360714
+[231]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408907
+[232]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408908
+[233]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408909
+[234]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408910
+[235]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408911
+[236]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408912
+[237]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM3339302
+[238]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408914
+[239]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM3339984
+[240]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408915
+[241]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408916
+[242]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408917
+[243]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408918
+[244]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408920
+[245]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408922
+[246]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM144692
+[247]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408924
+[248]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM408923
+[249]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM317198
+[250]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318457
+[251]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318458
+[252]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318486
+[253]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318602
+[254]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318659
+[255]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318662
+[256]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318674
+[257]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318680
+[258]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM131139
+[259]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318810
+[260]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318843
+[261]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318858
+[262]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318862
+[263]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM318885
+[264]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM310742
+[265]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM2998516
+[266]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM2998515
+[267]: http://www.legislation.govt.nz/act/public/2000/0048/latest/link.aspx?id=DLM2998532
+[268]: http://www.pco.parliament.govt.nz/editorial-conventions/
