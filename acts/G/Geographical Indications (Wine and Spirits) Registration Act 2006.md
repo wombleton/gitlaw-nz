@@ -1,7 +1,7 @@
 Reprint  
-as at 14 April 2008
+as at 1 January 2014
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Geographical Indications (Wine and Spirits) Registration Act 2006Public Act2006 No 60
 
@@ -13,179 +13,179 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-The Geographical Indications (Wine and Spirits) Registration Act 2006 is administered by the Ministry of Economic Development.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
-[2][2] [Commencement][2]
+[2][2][][2][Commencement][2]
 
 [Part 1][3]  
 [Preliminary provisions][3]
 
-[3][4] [Purpose][4]
+[3][4][][4][Purpose][4]
 
-[4][5] [Interpretation][5]
+[4][5][][5][Interpretation][5]
 
-[5][6] [Act binds the Crown][6]
+[5][6][][6][Act binds the Crown][6]
 
 [Part 2][7]  
 [Registered geographical indications][7]
 
 [Nature of registered geographical indication][8]
 
-[6][9] [What is geographical indication?][9]
+[6][9][][9][What is geographical indication?][9]
 
-[7][10] [What is registered geographical indication?][10]
+[7][10][][10][What is registered geographical indication?][10]
 
 [Registration][11]
 
-[8][12] [Registration][12]
+[8][12][][12][Registration][12]
 
-[9][13] [Date of registration][13]
+[9][13][][13][Date of registration][13]
 
 [Restrictions on registration][14]
 
-[10][15] [Geographical indication identical to registered geographical indication][15]
+[10][15][][15][Geographical indication identical to registered geographical indication][15]
 
-[11][16] [Geographical indication identical to customary name of grape variety][16]
+[11][16][][16][Geographical indication identical to customary name of grape variety][16]
 
-[12][17] [Geographical indication identical to common name for wine or spirit][17]
+[12][17][][17][Geographical indication identical to common name for wine or spirit][17]
 
-[13][18] [Foreign geographical indication][18]
+[13][18][][18][Foreign geographical indication][18]
 
-[14][19] [No registration of geographical indication if identical to trade mark for identical goods or services][19]
+[14][19][][19][No registration of geographical indication if identical to trade mark for identical goods or services][19]
 
-[15][20] [No registration of geographical indication if identical to trade mark for similar goods or services][20]
+[15][20][][20][No registration of geographical indication if identical to trade mark for similar goods or services][20]
 
-[16][21] [No registration of geographical indication if similar to trade mark for identical goods or services][21]
+[16][21][][21][No registration of geographical indication if similar to trade mark for identical goods or services][21]
 
-[17][22] [No registration of geographical indication if similar to trade mark for similar goods or services][22]
+[17][22][][22][No registration of geographical indication if similar to trade mark for similar goods or services][22]
 
-[18][23] [When restrictions on registration as geographical indication do not apply in relation to trade mark][23]
+[18][23][][23][When restrictions on registration as geographical indication do not apply in relation to trade mark][23]
 
 [Registration of homonymous geographical indication][24]
 
-[19][25] [Registrar may register homonymous geographical indication][25]
+[19][25][][25][Registrar may register homonymous geographical indication][25]
 
-[20][26] [Registrar may impose conditions when registering homonymous geographical indication][26]
+[20][26][][26][Registrar may impose conditions when registering homonymous geographical indication][26]
 
 [Restrictions on use of registered geographical indications][27]
 
-[21][28] [Restriction on use of New Zealand registered geographical indication for wine][28]
+[21][28][][28][Restriction on use of New Zealand registered geographical indication for wine][28]
 
-[22][29] [Restriction on use of foreign registered geographical indication for wine][29]
+[22][29][][29][Restriction on use of foreign registered geographical indication for wine][29]
 
-[23][30] [Restriction on use of New Zealand registered geographical indication for spirit][30]
+[23][30][][30][Restriction on use of New Zealand registered geographical indication for spirit][30]
 
-[24][31] [Restriction on use of foreign registered geographical indication for spirit][31]
+[24][31][][31][Restriction on use of foreign registered geographical indication for spirit][31]
 
-[25][32] [Additional rules relating to restrictions on use][32]
+[25][32][][32][Additional rules relating to restrictions on use][32]
 
-[26][33] [Use of certain information not use of registered geographical indication][33]
+[26][33][][33][Use of certain information not use of registered geographical indication][33]
 
 [When restrictions on use of registered geographical indication do not apply][34]
 
-[27][35] [Wine or spirit never in New Zealand or in transit only][35]
+[27][35][][35][Wine or spirit never in New Zealand or in transit only][35]
 
-[28][36] [Bottling pre-dating registration of registered geographical indication][36]
+[28][36][][36][Bottling pre-dating registration of registered geographical indication][36]
 
-[29][37] [Continuous use][37]
+[29][37][][37][Continuous use][37]
 
-[30][38] [Trade mark pre-dating registration of registered geographical indication][38]
+[30][38][][38][Trade mark pre-dating registration of registered geographical indication][38]
 
-[31][39] [Use of registered geographical indication in unregistered trade mark after 5 years after adverse use generally known][39]
+[31][39][][39][Use of registered geographical indication in unregistered trade mark after 5 years after adverse use generally known][39]
 
-[32][40] [Unregistered geographical indication homonymous with registered geographical indication][40]
+[32][40][][40][Unregistered geographical indication homonymous with registered geographical indication][40]
 
 [Effect of breach of restriction][41]
 
-[33][42] [Breach of restriction on use of registered geographical indication is breach of Fair Trading Act 1986][42]
+[33][42][][42][Breach of restriction on use of registered geographical indication is breach of Fair Trading Act 1986][42]
 
 [Registrar][43]
 
-[34][44] [Registrar][44]
+[34][44][][44][Registrar][44]
 
-[35][45] [Registrar's seal][45]
+[35][45][][45][Registrar's seal][45]
 
 [Process of registration][46]
 
-[36][47] [Interested person may apply for registration of geographical indication][47]
+[36][47][][47][Interested person may apply for registration of geographical indication][47]
 
-[37][48] [Registrar must deal with application according to prescribed procedure][48]
+[37][48][][48][Registrar must deal with application according to prescribed procedure][48]
 
-[38][49] [Priority][49]
+[38][49][][49][Priority][49]
 
-[39][50] [Registrar may obtain advice and consult][50]
+[39][50][][50][Registrar may obtain advice and consult][50]
 
-[40][51] [Hearing before exercise of Registrar's discretion][51]
+[40][51][][51][Hearing before exercise of Registrar's discretion][51]
 
-[41][52] [Conditions of use][52]
+[41][52][][52][Conditions of use][52]
 
 [Register of registered geographical indications][53]
 
-[42][54] [Register][54]
+[42][54][][54][Register][54]
 
-[43][55] [Public access to register][55]
+[43][55][][55][Public access to register][55]
 
-[44][56] [Registrar may correct obvious errors or omissions][56]
+[44][56][][56][Registrar may correct obvious errors or omissions][56]
 
-[45][57] [Removal from register][57]
+[45][57][][57][Removal from register][57]
 
-[46][58] [Alteration of register][58]
+[46][58][][58][Alteration of register][58]
 
-[47][59] [Procedure for removal or alteration][59]
+[47][59][][59][Procedure for removal or alteration][59]
 
 [Appeals][60]
 
-[48][61] [Appeals in relation to Registrar's decisions][61]
+[48][61][][61][Appeals in relation to Registrar's decisions][61]
 
-[49][62] [Notice of appeal][62]
+[49][62][][62][Notice of appeal][62]
 
-[50][63] [Hearing of appeal][63]
+[50][63][][63][Hearing of appeal][63]
 
-[51][64] [Determination of appeal][64]
+[51][64][][64][Determination of appeal][64]
 
-[52][65] [Provisions pending determination of appeal][65]
+[52][65][][65][Provisions pending determination of appeal][65]
 
 [Geographical indications committees][66]
 
-[53][67] [When Registrar may establish geographical indications committee][67]
+[53][67][][67][When Registrar may establish geographical indications committee][67]
 
-[54][68] [Membership of committee][68]
+[54][68][][68][Membership of committee][68]
 
-[55][69] [Discharge of committee or removal of member][69]
+[55][69][][69][Discharge of committee or removal of member][69]
 
-[56][70] [Proceedings of committee][70]
+[56][70][][70][Proceedings of committee][70]
 
 [Miscellaneous][71]
 
-[57][72] [Regulations][72]
+[57][72][][72][Regulations][72]
 
-[58][73] [Act does not affect unregistered geographical indication][73]
+[58][73][][73][Act does not affect unregistered geographical indication][73]
 
-[59][74] [Act does not affect Wine Act 2003][74]
+[59][74][][74][Act does not affect Wine Act 2003][74]
 
-[60][75] [Act does not affect New Zealand (Australia New Zealand Food Standards Code) Food Standards 2002][75]
+[60][75][][75][Act does not affect New Zealand (Australia New Zealand Food Standards Code) Food Standards 2002][75]
 
-[61][76] [Act does not limit Fair Trading Act 1986][76]
+[61][76][][76][Act does not limit Fair Trading Act 1986][76]
 
-[62][77] [Geographical Indications Act 1994 repealed][77]
+[62][77][][77][Geographical Indications Act 1994 repealed][77]
 
-[63][78] [Trade Marks Act 2002 amended][78]
+[63][78][][78][Trade Marks Act 2002 amended][78]
 
-[20][79] [Trade mark that contains registered geographical indication must not be registered][79]
+[20][79][][79][Trade mark that contains registered geographical indication must not be registered][79]
 
-[98A][80] [No infringement through use of registered geographical indication][80]
+[98A][80][][80][No infringement through use of registered geographical indication][80]
 
-[64][81] [Other consequential amendments][81]
+[64][81][][81][Other consequential amendments][81]
 
 ---
 
@@ -268,6 +268,8 @@ Preliminary provisions
         
     *   (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's Birthday, and Labour Day; and
     
+    *   (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    
     *   (b) the day observed in the appropriate area as the anniversary of the province of which the area forms part; and
     
     *   (c) a day in the period beginning with 25 December in any year and,---
@@ -279,6 +281,8 @@ Preliminary provisions
         
     
     _WTO Agreement_ means the World Trade Organization Agreement adopted at Marrakesh on 15 April 1994, as revised or amended from time to time.
+    
+    Section 4 **working day** paragraph (ab): inserted, on 1 January 2014, by [section 8][86] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
 
 ##### 5 Act binds the Crown
     
@@ -361,7 +365,7 @@ Registered geographical indications
     
     *   (b) the owner of the trade mark has in good faith applied for the registration in New Zealand of the trade mark in respect of identical goods or services; and
     
-    *   (c) the trade mark's deemed date of registration (as defined in [section 5][86] of the Trade Marks Act 2002), if the trade mark were to be registered, is earlier than the date of the application for registration of the geographical indication.
+    *   (c) the trade mark's deemed date of registration (as defined in [section 5][87] of the Trade Marks Act 2002), if the trade mark were to be registered, is earlier than the date of the application for registration of the geographical indication.
     
     (3) The Registrar must not register a geographical indication if it is identical to a trade mark and rights to the trade mark have been acquired through use in New Zealand in good faith in respect of identical goods or services.
 
@@ -381,7 +385,7 @@ Registered geographical indications
     
     *   (b) the owner of the trade mark has in good faith applied for the registration in New Zealand of the trade mark in respect of similar goods or services; and
     
-    *   (c) the trade mark's deemed date of registration (as defined in [section 5][86] of the Trade Marks Act 2002), if the trade mark were to be registered, is earlier than the date of the application for registration of the geographical indication; and
+    *   (c) the trade mark's deemed date of registration (as defined in [section 5][87] of the Trade Marks Act 2002), if the trade mark were to be registered, is earlier than the date of the application for registration of the geographical indication; and
     
     *   (d) its use is likely to deceive or confuse.
     
@@ -411,7 +415,7 @@ Registered geographical indications
     
     *   (b) the owner of the trade mark has in good faith applied for the registration in New Zealand of the trade mark in respect of identical goods or services; and
     
-    *   (c) the trade mark's deemed date of registration (as defined in [section 5][86] of the Trade Marks Act 2002), if the trade mark were to be registered, is earlier than the date of the application for registration of the geographical indication; and
+    *   (c) the trade mark's deemed date of registration (as defined in [section 5][87] of the Trade Marks Act 2002), if the trade mark were to be registered, is earlier than the date of the application for registration of the geographical indication; and
     
     *   (d) its use is likely to deceive or confuse.
     
@@ -441,7 +445,7 @@ Registered geographical indications
     
     *   (b) the owner of the trade mark has in good faith applied for the registration in New Zealand of the trade mark in respect of similar goods or services; and
     
-    *   (c) the trade mark's deemed date of registration (as defined in [section 5][86] of the Trade Marks Act 2002), if the trade mark were to be registered, is earlier than the date of the application for registration of the geographical indication; and
+    *   (c) the trade mark's deemed date of registration (as defined in [section 5][87] of the Trade Marks Act 2002), if the trade mark were to be registered, is earlier than the date of the application for registration of the geographical indication; and
     
     *   (d) its use is likely to deceive or confuse.
     
@@ -645,13 +649,13 @@ Registered geographical indications
 
 ##### 33 Breach of restriction on use of registered geographical indication is breach of Fair Trading Act 1986
     
-*   A person who contravenes any of [sections 21 to 24][28] contravenes [section 9][87] of the Fair Trading Act 1986 and the provisions of that Act apply accordingly.
+*   A person who contravenes any of [sections 21 to 24][28] contravenes [section 9][88] of the Fair Trading Act 1986 and the provisions of that Act apply accordingly.
 
 #### Registrar
 
 ##### 34 Registrar
     
-*   (1) There must be a Registrar of Registered Geographical Indications appointed under the [State Sector Act 1988][88].
+*   (1) There must be a Registrar of Registered Geographical Indications appointed under the [State Sector Act 1988][89].
     
     (2) The Registrar must be an officer or employee of the ministry, and his or her appointment may be held either separately or in conjunction with any other office in the ministry.
 
@@ -949,7 +953,7 @@ Registered geographical indications
 
 ##### 59 Act does not affect Wine Act 2003
     
-*   Nothing in this Act affects the operation of the [Wine Act 2003][89].
+*   Nothing in this Act affects the operation of the [Wine Act 2003][90].
 
 ##### 60 Act does not affect New Zealand (Australia New Zealand Food Standards Code) Food Standards 2002
     
@@ -957,27 +961,27 @@ Registered geographical indications
 
 ##### 61 Act does not limit Fair Trading Act 1986
     
-*   Nothing in this Act limits the operation of the [Fair Trading Act 1986][90].
+*   Nothing in this Act limits the operation of the [Fair Trading Act 1986][91].
 
 ##### 62 Geographical Indications Act 1994 repealed
     
-*   The [Geographical Indications Act 1994][91] is repealed.
+*   The [Geographical Indications Act 1994][92] is repealed.
 
 ##### 63 Trade Marks Act 2002 amended
     
-*   (1) [Section 5(1)][86] of the Trade Marks Act 2002 is amended by repealing the definitions of **geographical indication**, **protected geographical indication**, and **specified goods**.
+*   (1) [Section 5(1)][87] of the Trade Marks Act 2002 is amended by repealing the definitions of **geographical indication**, **protected geographical indication**, and **specified goods**.
     
-    (2) [Section 5(1)][86] of the Trade Marks Act 2002 is amended by inserting the following definition after the definition of **register**:
+    (2) [Section 5(1)][87] of the Trade Marks Act 2002 is amended by inserting the following definition after the definition of **register**:
     
     > "_registered geographical indication_ has the same meaning as in section 7(1) of the Geographical Indications (Wine and Spirits) Registration Act 2006".
     
-    (3) [Section 11][92] of the Trade Marks Act 2002 is amended by inserting the following paragraph after paragraph (a):
+    (3) [Section 11][93] of the Trade Marks Act 2002 is amended by inserting the following paragraph after paragraph (a):
     
     > *   "(ab) are subject to any rights arising out of a registered geographical indication; and".
     > 
     > 
     
-    (4) The Trade Marks Act 2002 is amended by repealing [section 20][93] and substituting the following section:
+    (4) The Trade Marks Act 2002 is amended by repealing [section 20][94] and substituting the following section:
     
     > ##### "20 Trade mark that contains registered geographical indication must not be registered
     >     
@@ -1007,13 +1011,13 @@ Registered geographical indications
     > 
     > 
     
-    (5) [Section 88][94] of the Trade Marks Act 2002 is amended by repealing paragraph (c) and substituting the following paragraph:
+    (5) [Section 88][95] of the Trade Marks Act 2002 is amended by repealing paragraph (c) and substituting the following paragraph:
     
     > *   "(c) rights under the Geographical Indications (Wine and Spirits) Registration Act 2006\."
     > 
     > 
     
-    (6) The Trade Marks Act 2002 is amended by inserting the following section after [section 98][95]:
+    (6) The Trade Marks Act 2002 is amended by inserting the following section after [section 98][96]:
     
     > ##### "98A No infringement through use of registered geographical indication
     >     
@@ -1025,86 +1029,45 @@ Registered geographical indications
 
 ##### 64 Other consequential amendments
     
-*   (1) [Section 8][96] of the New Zealand Geographic Board Act 1946 is amended by inserting the following subsection after subsection (1):
+*   (1) [Section 8][97] of the New Zealand Geographic Board Act 1946 is amended by inserting the following subsection after subsection (1):
     
     > *   "(1A) The Board also has the functions given to it by the Geographical Indications (Wine and Spirits) Registration Act 2006\."
     > 
     > 
     
-    (2) [Part 2][97] of Schedule 1 of the Ombudsmen Act 1975 is amended by inserting the following item in its appropriate alphabetical order:
+    (2) [Part 2][98] of Schedule 1 of the Ombudsmen Act 1975 is amended by inserting the following item in its appropriate alphabetical order:
     
     > "Geographical indications committees established under the Geographical Indications (Wine and Spirits) Registration Act 2006".
     
-    (3) [Schedule 1][98] of the Trans-Tasman Mutual Recognition Act 1997 is amended by omitting the item ""Geographical Indications Act 1994"" and substituting the item ""Geographical Indications (Wine and Spirits) Registration Act 2006"".
+    (3) [Schedule 1][99] of the Trans-Tasman Mutual Recognition Act 1997 is amended by omitting the item ""Geographical Indications Act 1994"" and substituting the item ""Geographical Indications (Wine and Spirits) Registration Act 2006"".
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Geographical Indications (Wine and Spirits) Registration Act 2006\. The reprint incorporates all the amendments to the Geographical Indications (Wine and Spirits) Registration Act 2006 as at 14 April 2008, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
+*   This is a reprint of the Geographical Indications (Wine and Spirits) Registration Act 2006 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][99] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][100] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][101] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ http://www.pco.parliament.govt.nz/legislation/reprints.shtml or Part 8 of the _Tables of Acts and Ordinances and Statutory Regulations, and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][102] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][103] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][100] and [17E][101] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][86]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Geographical Indications Act 1994 Repeal Order 2008 (SR 2008/64): [clause 2][82]
+    Geographical Indications Act 1994 Repeal Order 2008 (SR 2008/64): [clause 2][82]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2006/0060/latest/whole.html#DLM390759
 [2]: http://www.legislation.govt.nz/act/public/2006/0060/latest/whole.html#DLM390760
 [3]: http://www.legislation.govt.nz/act/public/2006/0060/latest/whole.html#DLM390761
@@ -1190,19 +1153,21 @@ Registered geographical indications
 [83]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM240128
 [84]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM142447
 [85]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM222454
-[86]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM164249
-[87]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM96903
-[88]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM129109
-[89]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM222446
-[90]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM96438
-[91]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM344677
-[92]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM164450
-[93]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM164465
-[94]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM164677
-[95]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM164694
-[96]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM240141
-[97]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM431296
-[98]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM411384
-[99]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM195439
-[100]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM195468
-[101]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM195470
+[86]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM4929207
+[87]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM164249
+[88]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM96903
+[89]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM129109
+[90]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM222446
+[91]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM96438
+[92]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM344677
+[93]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM164450
+[94]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM164465
+[95]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM164677
+[96]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM164694
+[97]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM240141
+[98]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM431296
+[99]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM411384
+[100]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM2998516
+[101]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM2998515
+[102]: http://www.legislation.govt.nz/act/public/2006/0060/latest/link.aspx?id=DLM2998532
+[103]: http://www.pco.parliament.govt.nz/editorial-conventions/
