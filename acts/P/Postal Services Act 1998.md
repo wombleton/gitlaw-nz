@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 1 January 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Business, Innovation, and Employment.
 
@@ -225,7 +225,7 @@ An Act to regulate the provision of postal services
     
     (2) This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
     
-    Section 1(2): Postal Services Act 1998 brought into force, on 1 April 1998, by the [Postal Services Act Commencement Order 1998][94] (SR 1998/49).
+    Section 1(2): this Act brought into force, on 1 April 1998, by the [Postal Services Act Commencement Order 1998][94] (SR 1998/49).
 
 ## Part 1  
 Preliminary provisions
@@ -310,6 +310,8 @@ Preliminary provisions
         
     *   (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
     
+    *   (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    
     *   (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year.
     
     (2) An article is taken to have been posted when, for the purpose of being conveyed or delivered by a postal operator, it has been put into a public letterbox, or delivered at a postal outlet, or accepted for the purpose of being conveyed by post by an employee or agent of a postal operator in the course of his or her duty or authority.
@@ -323,6 +325,8 @@ Preliminary provisions
     *   (b) the chief executive of that person (however described).
     
     (5) A reference in this Act to the law of a foreign country includes a reference to the law of a part of, or the law in force in a part of, the country.
+    
+    Section 2(1) **working day** paragraph (ab): inserted, on 1 January 2014, by [section 8][105] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
 
 ##### 3 Act to bind the Crown
     
@@ -351,7 +355,7 @@ General provisions
     
     Compare: 1987 No 113 s 4
     
-    Section 4(3): amended, on 1 July 2013, by [section 413][105] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 4(3): amended, on 1 July 2013, by [section 413][106] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Detention and examination of postal articles
 
@@ -365,13 +369,13 @@ General provisions
             
         *   (i) the [Misuse of Drugs Act 1975][98]:
         
-        *   (ii) the [Protected Objects Act 1975][106]:
+        *   (ii) the [Protected Objects Act 1975][107]:
         
-        *   (iii) the [Trade in Endangered Species Act 1989][107]:
+        *   (iii) the [Trade in Endangered Species Act 1989][108]:
         
-        *   (iv) the [Biosecurity Act 1993][108]:
+        *   (iv) the [Biosecurity Act 1993][109]:
         
-        *   (v) the [Customs and Excise Act 1996][109],---
+        *   (v) the [Customs and Excise Act 1996][110],---
         
         
     
@@ -405,7 +409,7 @@ General provisions
     
     Compare: 1987 No 113 s 7
     
-    Section 5(1)(b)(ii): amended, on 1 November 2006, by [section 35][110] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 5(1)(b)(ii): amended, on 1 November 2006, by [section 35][111] of the Protected Objects Amendment Act 2006 (2006 No 37).
 
 ##### 6 Postal articles found to be in contravention of this Act
     
@@ -473,11 +477,11 @@ General provisions
     
     (3) If the court is satisfied that the postal article that was the subject of the prosecution should be restored to a person other than the person convicted, it may so direct.
     
-    (4) Any person aggrieved by an order made under subsection (1) for the forfeiture of any postal article may (whatever the amount involved) appeal from that order in the manner provided by [subpart 4][111] of Part 6 of the Criminal Procedure Act 2011, and, until the appeal is determined or abandoned, the order is suspended and must not be carried into effect.
+    (4) Any person aggrieved by an order made under subsection (1) for the forfeiture of any postal article may (whatever the amount involved) appeal from that order in the manner provided by [subpart 4][112] of Part 6 of the Criminal Procedure Act 2011, and, until the appeal is determined or abandoned, the order is suspended and must not be carried into effect.
     
-    Compare: 1993 No 94 [ss 136][112], [137][113]
+    Compare: 1993 No 94 [ss 136][113], [137][114]
     
-    Section 8(4): amended, on 1 July 2013, by [section 413][105] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 8(4): amended, on 1 July 2013, by [section 413][106] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 9 No action to lie
     
@@ -495,13 +499,13 @@ General provisions
         
     *   (a) where the postal article is believed to be in contravention, or to have been posted in contravention, of the [Misuse of Drugs Act 1975][98], the postal operator must deliver the postal article to the Commissioner of Police or to such other person as the Commissioner directs, and the postal article must be dealt with in accordance with that Act:
     
-    *   (b) where the postal article is believed to be in contravention, or to have been posted in contravention, of the [Protected Objects Act 1975][106], the postal operator must deliver the postal article to the Secretary for Internal Affairs or to such other person as the Secretary for Internal Affairs directs, and the postal article must be dealt with in accordance with that Act:
+    *   (b) where the postal article is believed to be in contravention, or to have been posted in contravention, of the [Protected Objects Act 1975][107], the postal operator must deliver the postal article to the Secretary for Internal Affairs or to such other person as the Secretary for Internal Affairs directs, and the postal article must be dealt with in accordance with that Act:
     
-    *   (c) where the postal article is believed to be in contravention, or to have been posted in contravention, of the [Trade in Endangered Species Act 1989][107], the postal operator must deliver the postal article to the Director-General of Conservation or to such other person as the Director-General directs, and the postal article must be dealt with in accordance with that Act:
+    *   (c) where the postal article is believed to be in contravention, or to have been posted in contravention, of the [Trade in Endangered Species Act 1989][108], the postal operator must deliver the postal article to the Director-General of Conservation or to such other person as the Director-General directs, and the postal article must be dealt with in accordance with that Act:
     
-    *   (d) where the postal article is believed to be in contravention, or to have been posted in contravention, of the [Biosecurity Act 1993][108], the postal operator must deliver the postal article to the chief executive of the department of State that is for the time being responsible for the administration of that Act or to such other person as that chief executive directs, and, in any such case, the provisions of that Act, so far as applicable and with all necessary modifications, apply as if the postal article were unauthorised goods that had been seized, pursuant to [section 116][114] of that Act, on the date of that delivery:
+    *   (d) where the postal article is believed to be in contravention, or to have been posted in contravention, of the [Biosecurity Act 1993][109], the postal operator must deliver the postal article to the chief executive of the department of State that is for the time being responsible for the administration of that Act or to such other person as that chief executive directs, and, in any such case, the provisions of that Act, so far as applicable and with all necessary modifications, apply as if the postal article were unauthorised goods that had been seized, pursuant to [section 116][115] of that Act, on the date of that delivery:
     
-    *   (e) where the postal article is believed to be in contravention, or to have been posted in contravention, of the [Customs and Excise Act 1996][109] or any Order in Council or regulation made under that Act, the postal operator must deliver the postal article to the chief executive of the New Zealand Customs Service or to such other person as the chief executive directs, and the postal article must be dealt with in accordance with that Act, order, or regulation:
+    *   (e) where the postal article is believed to be in contravention, or to have been posted in contravention, of the [Customs and Excise Act 1996][110] or any Order in Council or regulation made under that Act, the postal operator must deliver the postal article to the chief executive of the New Zealand Customs Service or to such other person as the chief executive directs, and the postal article must be dealt with in accordance with that Act, order, or regulation:
     
     *   (f) where the postal article is believed to be in contravention, or to have been posted in contravention, of any other enactment (other than this Act),---
             
@@ -513,9 +517,9 @@ General provisions
     
     Compare: 1987 No 113 s 8(2)
     
-    Section 10(2)(b): amended, on 1 November 2006, by [section 35][110] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 10(2)(b): amended, on 1 November 2006, by [section 35][111] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
-    Section 10(2)(f)(i): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][115] of the Policing Act 2008 (2008 No 72).
+    Section 10(2)(f)(i): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][116] of the Policing Act 2008 (2008 No 72).
 
 ##### 11 Valuable postal articles to be kept safely
     
@@ -577,7 +581,7 @@ General provisions
     
     *   (b) fails, without reasonable excuse, to comply with the requirements of section 12(4) or section 12(5).
     
-    Section 13: amended, on 1 July 2013, by [section 413][105] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 13: amended, on 1 July 2013, by [section 413][106] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 14 Offender not relieved from liability
     
@@ -673,7 +677,7 @@ General provisions
     
     Compare: 1987 No 113 s 11
     
-    Section 20(3): amended, on 1 July 2013, by [section 413][105] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 20(3): amended, on 1 July 2013, by [section 413][106] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 21 Posting of objectionable thing
     
@@ -695,7 +699,7 @@ General provisions
     
     Compare: 1987 No 113 s 14
     
-    Section 23(2): amended, on 1 July 2013, by [section 413][105] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 23(2): amended, on 1 July 2013, by [section 413][106] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 24 Posting of dangerous enclosure
     
@@ -719,7 +723,7 @@ General provisions
     
     Compare: 1987 No 113 s 15
     
-    Section 24(2): amended, on 1 July 2013, by [section 413][105] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 24(2): amended, on 1 July 2013, by [section 413][106] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 25 Recording on postal article incorrect time or place of posting
     
@@ -760,7 +764,7 @@ Registration of postal operators
     
     *   (b) to a further fine of not more than $1,000 for every day or part of a day during which the offence continues.
     
-    Section 28(2): amended, on 1 July 2013, by [section 413][105] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 28(2): amended, on 1 July 2013, by [section 413][106] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Registration of postal operators
 
@@ -810,7 +814,7 @@ Registration of postal operators
     
     (2) Every person who commits an offence against this section is liable on conviction to a fine of not more than $10,000\.
     
-    Section 31(2): amended, on 1 July 2013, by [section 413][105] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 31(2): amended, on 1 July 2013, by [section 413][106] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Register of postal operators
 
@@ -856,7 +860,7 @@ Registration of postal operators
     
     (4) Every person commits an offence and is liable on conviction to a fine of not more than $1,000 who fails, without reasonable excuse, to comply with the requirements of subsection (1) or subsection (2).
     
-    Section 33(4): amended, on 1 July 2013, by [section 413][105] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 33(4): amended, on 1 July 2013, by [section 413][106] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 34 Inspection of register
     
@@ -921,7 +925,7 @@ Postal operators
     
     (3) Every postal operator commits an offence and is liable on conviction to a fine of not more than $10,000 who fails, without reasonable excuse, to comply with the requirements of subsection (1).
     
-    Section 39(3): amended, on 1 July 2013, by [section 413][105] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 39(3): amended, on 1 July 2013, by [section 413][106] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Erection of public letterboxes
 
@@ -945,7 +949,7 @@ Postal operators
     
     (4) Where a person who is given a notice pursuant to subsection (1) fails to notify the postal operator of the conditions imposed pursuant to [section 40(2)][57] within the period referred to in subsection (3), no such conditions may be imposed, and the postal operator may commence work.
     
-    Compare: 1987 No 116 [s 15A][116]; 1992 No 122 [s 25][117]
+    Compare: 1987 No 116 [s 15A][117]; 1992 No 122 [s 25][118]
 
 ##### 42 Offence
     
@@ -953,9 +957,9 @@ Postal operators
     
     (2) In addition to any fine imposed pursuant to subsection (1), the court may make any order relating to compensation that it thinks fit.
     
-    Compare: 1987 No 116 [s 15B][118]; 1992 No 122 [s 26][119]
+    Compare: 1987 No 116 [s 15B][119]; 1992 No 122 [s 26][120]
     
-    Section 42(1): amended, on 1 July 2013, by [section 413][105] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 42(1): amended, on 1 July 2013, by [section 413][106] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 43 Appeals in relation to conditions imposed
     
@@ -963,7 +967,7 @@ Postal operators
     
     (2) Every appeal must be made by giving notice of appeal within 40 working days after the date of notification of the conditions imposed, or within such further period as the court allows on application made to it for that purpose either before or after those 40 working days have expired.
     
-    Compare: 1987 No 116 [s 15C][120]; 1992 No 122 [s 27][121]
+    Compare: 1987 No 116 [s 15C][121]; 1992 No 122 [s 27][122]
 
 ##### 44 Determination of appeals
     
@@ -971,7 +975,7 @@ Postal operators
     
     (2) The District Court's decision in the determination of an appeal under [section 43][60] is final.
     
-    Compare: 1987 No 116 [s 15D][122]; 1992 No 122 [s 28][123]
+    Compare: 1987 No 116 [s 15D][123]; 1992 No 122 [s 28][124]
 
 #### Loss or delay of letters
 
@@ -989,7 +993,7 @@ Postal operators
     
     (2) Every person commits an offence and is liable on conviction to a fine of not more than $1,000 who fails, without reasonable excuse, to comply with the requirements of subsection (1).
     
-    Section 46(2): amended, on 1 July 2013, by [section 413][105] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 46(2): amended, on 1 July 2013, by [section 413][106] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 47 Obligations on postal operator ceasing business
     
@@ -1009,7 +1013,7 @@ Postal operators
     
     (3) Every person who commits an offence against this section is liable on conviction to a fine of not more than $10,000\.
     
-    Section 47(3): amended, on 1 July 2013, by [section 413][105] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 47(3): amended, on 1 July 2013, by [section 413][106] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Designated postal operators
 
@@ -1154,11 +1158,11 @@ Miscellaneous provisions
     
     (4) Every person who commits an offence against subsection (2) is liable on conviction to a fine of not more than $20,000\.
     
-    Compare: 1992 No 122 [s 172][124]
+    Compare: 1992 No 122 [s 172][125]
     
-    Section 56(3): amended, on 1 July 2013, by [section 413][105] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 56(3): amended, on 1 July 2013, by [section 413][106] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 56(4): amended, on 1 July 2013, by [section 413][105] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 56(4): amended, on 1 July 2013, by [section 413][106] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 57 Penalty
     
@@ -1166,19 +1170,19 @@ Miscellaneous provisions
     
     Compare: 1987 No 113 s 17(1)
     
-    Section 57: amended, on 1 July 2013, by [section 413][105] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 57: amended, on 1 July 2013, by [section 413][106] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 58 Offences punishable on summary conviction
     
 *   \[Repealed\]
     
-    Section 58: repealed, on 1 July 2013, by [section 413][105] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 58: repealed, on 1 July 2013, by [section 413][106] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 59 Time for bringing prosecution extended
     
 *   \[Repealed\]
     
-    Section 59: repealed, on 1 July 2013, by [section 413][105] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 59: repealed, on 1 July 2013, by [section 413][106] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Regulations---General
 
@@ -1262,7 +1266,7 @@ Miscellaneous provisions
     
     *   (e) prescribing time limits within which the information disclosure required by any regulations made under this section must be made.
     
-    Section 61(2)(a): substituted, on 27 September 2001, by [section 3][125] of the Postal Services Amendment Act 2001 (2001 No 77).
+    Section 61(2)(a): substituted, on 27 September 2001, by [section 3][126] of the Postal Services Amendment Act 2001 (2001 No 77).
 
 #### Consequential amendments and repeals
 
@@ -1272,17 +1276,17 @@ Miscellaneous provisions
     
     (2) The following enactments are consequentially repealed:
         
-    *   (a) _Amendment(s) incorporated in the [Act(s)][126]_:
+    *   (a) _Amendment(s) incorporated in the [Act(s)][127]_:
     
     *   (b) the Postal Services Act 1987:
     
-    *   (c) _Amendment(s) incorporated in the [Act(s)][127]_:
+    *   (c) _Amendment(s) incorporated in the [Act(s)][128]_:
     
     *   (d) _Amendment(s) incorporated in the Act(s)_:
     
     *   (e) the Postal Services Amendment Act 1990:
     
-    *   (f) _Amendment(s) incorporated in the [Act(s)][128]_.
+    *   (f) _Amendment(s) incorporated in the [Act(s)][129]_.
     
     
 
@@ -1302,7 +1306,7 @@ Miscellaneous provisions
     
 *   (1) References in this Act to postal articles posted in contravention of any provision of this Act include postal articles posted in contravention of the corresponding provision of the Postal Services Act 1987\.
     
-    (2) Nothing in this section limits the [Interpretation Act 1999][129].
+    (2) Nothing in this section limits the [Interpretation Act 1999][130].
     
     Section 64(2): amended, on 1 November 1999, pursuant to section 38(1) of the Interpretation Act 1999 (1999 No 85).
 
@@ -1325,23 +1329,23 @@ Enactments amended
 
 ##### Arms Act 1983 (1983 No 44) 
 
-_Amendment(s) incorporated in the [Act(s)][130]._
+_Amendment(s) incorporated in the [Act(s)][131]._
 
 ##### Carriage of Goods Act 1979 (1979 No 43)
 
-_Amendment(s) incorporated in the [Act(s)][131]._
+_Amendment(s) incorporated in the [Act(s)][132]._
 
 ##### Customs and Excise Act 1996 (1996 No 27)
 
-_Amendment(s) incorporated in the [Act(s)][132]._
+_Amendment(s) incorporated in the [Act(s)][133]._
 
 ##### Goods and Services Tax Act 1985 (1985 No 141) (RS Vol 27, p 425)
 
-_Amendment(s) incorporated in the [Act(s)][133]._
+_Amendment(s) incorporated in the [Act(s)][134]._
 
 ##### Law Practitioners Act 1982 (1982 No 123)
 
-_Amendment(s) incorporated in the [Act(s)][134]_.
+_Amendment(s) incorporated in the [Act(s)][135]_.
 
 ##### Local Elections and Polls Act 1976 (RS Vol 28, p 683)
 
@@ -1349,106 +1353,65 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Misuse of Drugs Act 1975 (1975 No 116) (RS Vol 26, p 567)
 
-_Amendment(s) incorporated in the [Act(s)][135]._
+_Amendment(s) incorporated in the [Act(s)][136]._
 
 ##### Misuse of Drugs Amendment Act 1978 (1978 No 65) (RS Vol 26, p 618)
 
-_Amendment(s) incorporated in the [Act(s)][136]._
+_Amendment(s) incorporated in the [Act(s)][137]._
 
 ##### Oaths and Declarations Act 1957 (1957 No 88) (RS Vol 28, p 821)
 
-_Amendment(s) incorporated in the [Act(s)][137]_.
+_Amendment(s) incorporated in the [Act(s)][138]_.
 
 ##### Stamp and Cheque Duties Act 1971 (1971 No 51) (RS Vol 23, p 771)
 
-_Amendment(s) incorporated in the [Act(s)][138]._
+_Amendment(s) incorporated in the [Act(s)][139]._
 
 ##### Summary Proceedings Act 1957 (1957 No 87) (RS Vol 9, p 583)
 
-_Amendment(s) incorporated in the [Act(s)][139]._
+_Amendment(s) incorporated in the [Act(s)][140]._
 
 ##### Trade in Endangered Species Act 1989 (1989 No 18)
 
-_Amendment(s) incorporated in the [Act(s)][140]._
+_Amendment(s) incorporated in the [Act(s)][141]._
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Postal Services Act 1998\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
+*   This is a reprint of the Postal Services Act 1998 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][141] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][142] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][143] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ http://www.pco.parliament.govt.nz/editorial-conventions/ or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][144] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][145] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][142] and [17E][143] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][105]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][106]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][116]
     
+    Protected Objects Amendment Act 2006 (2006 No 37): [section 35][111]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    [Postal Services Amendment Act 2001][146] (2001 No 77)
     
-*   Criminal Procedure Act 2011 (2011 No 81): [section 413][105]
-    
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][115]
-    
-    Protected Objects Amendment Act 2006 (2006 No 37): [section 35][110]
-    
-    [Postal Services Amendment Act 2001][144] (2001 No 77)
-    
-    Interpretation Act 1999 (1999 No 85): [section 38(1)][145]
+    Interpretation Act 1999 (1999 No 85): [section 38(1)][147]
     
     [Postal Services Act Commencement Order 1998][94] (SR 1998/49)
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1998/0002/latest/whole.html#DLM423260
 [2]: http://www.legislation.govt.nz/act/public/1998/0002/latest/whole.html#DLM423262
 [3]: http://www.legislation.govt.nz/act/public/1998/0002/latest/whole.html#DLM423263
@@ -1553,44 +1516,46 @@ _Amendment(s) incorporated in the [Act(s)][140]._
 [102]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM436276
 [103]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM319999
 [104]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM320101
-[105]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM3360714
-[106]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM432115
-[107]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM145965
-[108]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM314622
-[109]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM377336
-[110]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM376605
-[111]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM3360417
-[112]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM314181
-[113]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM314182
-[114]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM316315
-[115]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM1102349
-[116]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM119717
-[117]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM282475
-[118]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM119720
-[119]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM282476
-[120]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM119723
-[121]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM282477
-[122]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM119726
-[123]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM282478
-[124]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM283392
-[125]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM113350
-[126]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM98662
-[127]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM125679
-[128]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM380404
-[129]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM31458
-[130]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM73363
-[131]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM206946
-[132]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM379982
-[133]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM82442
-[134]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM63237
-[135]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM436106
-[136]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM23089
-[137]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM314584
-[138]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM399737
-[139]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM314314
-[140]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM147020
-[141]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM195439
-[142]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM195468
-[143]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM195470
-[144]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM113344
-[145]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM31885
+[105]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM4929207
+[106]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM3360714
+[107]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM432115
+[108]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM145965
+[109]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM314622
+[110]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM377336
+[111]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM376605
+[112]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM3360417
+[113]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM314181
+[114]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM314182
+[115]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM316315
+[116]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM1102349
+[117]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM119717
+[118]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM282475
+[119]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM119720
+[120]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM282476
+[121]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM119723
+[122]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM282477
+[123]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM119726
+[124]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM282478
+[125]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM283392
+[126]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM113350
+[127]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM98662
+[128]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM125679
+[129]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM380404
+[130]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM31458
+[131]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM73363
+[132]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM206946
+[133]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM379982
+[134]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM82442
+[135]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM63237
+[136]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM436106
+[137]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM23089
+[138]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM314584
+[139]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM399737
+[140]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM314314
+[141]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM147020
+[142]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM2998516
+[143]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM2998515
+[144]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM2998532
+[145]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[146]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM113344
+[147]: http://www.legislation.govt.nz/act/public/1998/0002/latest/link.aspx?id=DLM31885
