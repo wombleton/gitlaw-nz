@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 1 January 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 ---
 
@@ -238,6 +238,8 @@ A general outline of these changes is set out in the notes at the end of this re
         
     *   (a) a Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day:
     
+    *   (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    
     *   (b) a day commencing with 20 December in any year and ending with 15 January in the following year.
     
     (2) If this Act requires anything to be publicly notified, or refers to public notification or public notice,---
@@ -253,6 +255,8 @@ A general outline of these changes is set out in the notes at the end of this re
     (4) If there is any inconsistency between the description of land contained in [Schedule 2][38] and the plans showing that land held in the office of Land Information New Zealand at Christchurch, reduced copies of which are set out in [Schedule 3][39], the description in those plans prevails.
     
     Section 4(1) **walkway**: substituted, on 30 September 2008, by [section 82][47] of the Walking Access Act 2008 (2008 No 101).
+    
+    Section 4(1) **working day** paragraph (ab): inserted, on 1 January 2014, by [section 8][48] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
 
 ##### 5 Obligations of persons exercising functions and powers under this Act
     
@@ -282,17 +286,17 @@ A general outline of these changes is set out in the notes at the end of this re
     
     *   (c) 1 member appointed by the Selwyn District Council.
     
-    (2) The Authority is a joint committee of the councils named in [Schedule 1][37], and must be treated, for the purposes of any enactment or rule of law, as if it were a joint committee appointed by those councils under [section 114S][48] of the Local Government Act 1974\.
+    (2) The Authority is a joint committee of the councils named in [Schedule 1][37], and must be treated, for the purposes of any enactment or rule of law, as if it were a joint committee appointed by those councils under [section 114S][49] of the Local Government Act 1974\.
 
 ##### 8 Authority deemed to be affected local authority
     
 *   (1) In relation to the protected land, the Authority is deemed to be---
         
-    *   (a) an affected local authority under [clause 3][49] of Part 1 of Schedule 1 of the Resource Management Act 1991; and
+    *   (a) an affected local authority under [clause 3][50] of Part 1 of Schedule 1 of the Resource Management Act 1991; and
     
-    *   (b) an adjacent local authority under [clause 5(4)(d)][50] and a constituent territorial authority under clause 5(4)(e) of Part 1 of Schedule 1 of the Resource Management Act 1991\.
+    *   (b) an adjacent local authority under [clause 5(4)(d)][51] and a constituent territorial authority under clause 5(4)(e) of Part 1 of Schedule 1 of the Resource Management Act 1991\.
     
-    (2) For the purposes of the [Resource Management Act 1991][51], the Authority must be consulted and notified and may make submissions in respect of any proposal to prepare, change, or review any policy statement or plan referred to in that Act that affects or may affect the protected land.
+    (2) For the purposes of the [Resource Management Act 1991][52], the Authority must be consulted and notified and may make submissions in respect of any proposal to prepare, change, or review any policy statement or plan referred to in that Act that affects or may affect the protected land.
 
 ##### 9 Advisory Committee
     
@@ -396,9 +400,9 @@ A general outline of these changes is set out in the notes at the end of this re
     
     *   (b) the erection, placement, alteration, reconstruction, repair, or extension of any structure, except---
             
-        *   (i) the repair and maintenance of a public work (as defined in [section 2][52] of the Public Works Act 1981); or
+        *   (i) the repair and maintenance of a public work (as defined in [section 2][53] of the Public Works Act 1981); or
         
-        *   (ii) the erection, placement, alteration, reconstruction, repair, or extension of a structure that is carried out under a designation prepared and approved in accordance with the [Resource Management Act 1991][51], and that is also approved by the Authority:
+        *   (ii) the erection, placement, alteration, reconstruction, repair, or extension of a structure that is carried out under a designation prepared and approved in accordance with the [Resource Management Act 1991][52], and that is also approved by the Authority:
         
         
     
@@ -420,7 +424,7 @@ A general outline of these changes is set out in the notes at the end of this re
     
     *   (b) repairs to, or reconstruction of, a road to make it usable after a slip, subsidence, or other damage resulting from natural causes.
     
-    (4) Subsection (2)(e) does not apply if the planting complies with a management plan for a public open space, prepared and approved in accordance with the [Reserves Act 1977][53], or developed by the body or organisation responsible for the public open space after consultation with the Authority.
+    (4) Subsection (2)(e) does not apply if the planting complies with a management plan for a public open space, prepared and approved in accordance with the [Reserves Act 1977][54], or developed by the body or organisation responsible for the public open space after consultation with the Authority.
     
     (5) A structure that existed at the date of commencement of this Act or that was lawfully constructed after that date may be reconstructed, repaired, added to, or altered, without the consent of the Authority, if the effects of the structure on the scenic amenity or natural amenities after reconstruction, repair, addition, or alteration do not differ substantially from the effects before the reconstruction, repair, addition, or alteration.
     
@@ -506,7 +510,7 @@ A general outline of these changes is set out in the notes at the end of this re
 
 ##### 15 Joint hearings with consent authorities under Resource Management Act 1991
     
-*   Any hearing under [section 14][14] relating to a proposal in respect of which a resource consent is also sought under the [Resource Management Act 1991][51] may be held jointly with a hearing held by 1 or more consent authorities under that Act to consider the application for a resource consent.
+*   Any hearing under [section 14][14] relating to a proposal in respect of which a resource consent is also sought under the [Resource Management Act 1991][52] may be held jointly with a hearing held by 1 or more consent authorities under that Act to consider the application for a resource consent.
 
 ##### 16 Copy of public notice to be deposited
     
@@ -558,7 +562,7 @@ A general outline of these changes is set out in the notes at the end of this re
     
     (5) This section does not confer on the Authority a power to take land compulsorily.
     
-    (6) Land acquired for the purposes of this Act by the contributory local bodies is not a reserve for the purposes of the [Reserves Act 1977][53].
+    (6) Land acquired for the purposes of this Act by the contributory local bodies is not a reserve for the purposes of the [Reserves Act 1977][54].
 
 ##### 20 Disposal of land
     
@@ -570,9 +574,9 @@ A general outline of these changes is set out in the notes at the end of this re
     
 *   (1) Every person having any estate or interest in any land, building, or other improvements detrimentally affected by any decision of the Authority given under [section 14][14] may, subject to the provisions of this section, make a claim for compensation from the Authority for loss sustained by that person.
     
-    (2) A claim for compensation under this section must be made and determined in accordance with the provisions of the [Public Works Act 1981][54].
+    (2) A claim for compensation under this section must be made and determined in accordance with the provisions of the [Public Works Act 1981][55].
     
-    (3) In determining any claim for compensation under this section, the Authority or, on application under [section 79][55] of the Public Works Act 1981, the Land Valuation Tribunal must have regard to---
+    (3) In determining any claim for compensation under this section, the Authority or, on application under [section 79][56] of the Public Works Act 1981, the Land Valuation Tribunal must have regard to---
         
     *   (a) [section 3][3]; and
     
@@ -618,7 +622,7 @@ A general outline of these changes is set out in the notes at the end of this re
         
     *   (a) state the reasons for the appeal and the relief sought; and
     
-    *   (b) state any matters that regulations made under the [Resource Management Act 1991][51] require to be stated in the case of an appeal under [section 120][56] of that Act; and
+    *   (b) state any matters that regulations made under the [Resource Management Act 1991][52] require to be stated in the case of an appeal under [section 120][57] of that Act; and
     
     *   (c) be lodged with the Environment Court within 15 working days of notification of any decision of the Authority (including any condition or review of any decision made or imposed by the Authority) to which subsection (1) relates.
     
@@ -626,9 +630,9 @@ A general outline of these changes is set out in the notes at the end of this re
     
     (4) The appellant must ensure that a copy of the notice of appeal is served on the applicant or owner concerned (if that person is not the appellant) within 5 working days after the notice has been lodged with the Environment Court.
     
-    (5) Without limiting the powers of the Environment Court under the [Resource Management Act 1991][51], in considering an appeal under this section, the Environment Court may confirm or reverse a decision appealed against or modify a decision in such manner as the court thinks fit.
+    (5) Without limiting the powers of the Environment Court under the [Resource Management Act 1991][52], in considering an appeal under this section, the Environment Court may confirm or reverse a decision appealed against or modify a decision in such manner as the court thinks fit.
     
-    (6) Subject to subsections (2) to (4), every appeal must be made, heard, and determined by the Environment Court in the manner prescribed by the [Resource Management Act 1991][51] and regulations made under that Act.
+    (6) Subject to subsections (2) to (4), every appeal must be made, heard, and determined by the Environment Court in the manner prescribed by the [Resource Management Act 1991][52] and regulations made under that Act.
 
 ##### 25 Expenses and funding of Authority
     
@@ -654,7 +658,7 @@ A general outline of these changes is set out in the notes at the end of this re
 
 ##### 27 Service of notices
     
-*   A notice must be served in accordance with [sections 352][57] and [353][58] of the Resource Management Act 1991 as if it were a notice under that Act.
+*   A notice must be served in accordance with [sections 352][58] and [353][59] of the Resource Management Act 1991 as if it were a notice under that Act.
 
 ##### 28 Restoration of land or structure
     
@@ -690,13 +694,13 @@ A general outline of these changes is set out in the notes at the end of this re
     
 *   (1) If the person served with a notice under [section 28(1)][28] fails to comply with the notice within the time specified, then the Authority, in addition to any other action taken, may at any time after the expiry of the time specified in the notice---
         
-    *   (a) apply to the Environment Court for an enforcement order under [section 314][59] of the Resource Management Act 1991, as if the notice under subsection (1) were an abatement notice within the meaning of [section 322][60] of the Resource Management Act 1991; and
+    *   (a) apply to the Environment Court for an enforcement order under [section 314][60] of the Resource Management Act 1991, as if the notice under subsection (1) were an abatement notice within the meaning of [section 322][61] of the Resource Management Act 1991; and
     
     *   (b) take action as it sees fit to restore the land or structure.
     
-    (2) The provisions of [section 315][61] of the Resource Management Act 1991 apply in respect of any enforcement order made on an application under subsection (1).
+    (2) The provisions of [section 315][62] of the Resource Management Act 1991 apply in respect of any enforcement order made on an application under subsection (1).
     
-    (3) If a person continues to act in breach of [section 12][12] or commits a continuing offence against this Act, then, despite any other enactment, the Environment Court may, on application by the Authority, grant an enforcement order under [section 314][59] of the Resource Management Act 1991, as if that continuing breach or continuing offence contravenes, or is likely to contravene, the [Resource Management Act 1991][51].
+    (3) If a person continues to act in breach of [section 12][12] or commits a continuing offence against this Act, then, despite any other enactment, the Environment Court may, on application by the Authority, grant an enforcement order under [section 314][60] of the Resource Management Act 1991, as if that continuing breach or continuing offence contravenes, or is likely to contravene, the [Resource Management Act 1991][52].
     
     (4) An enforcement order may be granted under subsection (2) or subsection (3) whether or not the person against whom the enforcement order is sought has been charged with or convicted of an offence against this Act.
 
@@ -742,9 +746,9 @@ A general outline of these changes is set out in the notes at the end of this re
 
 ##### 32 Time for filing charging document
     
-*   Despite anything to the contrary in [section 25][62] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 6 months after the date on which the offence first came to the notice of the Authority.
+*   Despite anything to the contrary in [section 25][63] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 6 months after the date on which the offence first came to the notice of the Authority.
     
-    Section 32: replaced, on 1 July 2013, by [section 413][63] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 32: replaced, on 1 July 2013, by [section 413][64] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 33 Penalty for offences
     
@@ -762,17 +766,17 @@ A general outline of these changes is set out in the notes at the end of this re
     
     (3) An officer or servant of the Authority may appear and conduct the prosecution in all proceedings for offences against this Act.
     
-    Section 34(1): amended, on 1 July 2013, by [section 413][63] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 34(1): amended, on 1 July 2013, by [section 413][64] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 34(2): amended, on 1 July 2013, by [section 413][63] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 34(2): amended, on 1 July 2013, by [section 413][64] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 34(3): amended, on 1 July 2013, by [section 413][63] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 34(3): amended, on 1 July 2013, by [section 413][64] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 35 Relationship with other enactments
     
-*   Nothing in this Act affects the [Building Act 2004][64], [Te Runanga o Ngai Tahu Act 1996][65], the [Ngai Tahu Claims Settlement Act 1998][66], [Te Ture Whenua Maori Act 1993][67], or any regulations made under those Acts.
+*   Nothing in this Act affects the [Building Act 2004][65], [Te Runanga o Ngai Tahu Act 1996][66], the [Ngai Tahu Claims Settlement Act 1998][67], [Te Ture Whenua Maori Act 1993][68], or any regulations made under those Acts.
     
-    Section 35: amended, on 31 March 2005, by [section 414][68] of the Building Act 2004 (2004 No 72).
+    Section 35: amended, on 31 March 2005, by [section 414][69] of the Building Act 2004 (2004 No 72).
 
 ##### 36 Repeals
     
@@ -1217,78 +1221,37 @@ Enactment repealed
 
 ##### Summit Road (Canterbury) Protection Act 1963 (1963 No 16)
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Summit Road (Canterbury) Protection Act 2001\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
+*   This is a reprint of the Summit Road (Canterbury) Protection Act 2001 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][69] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][70] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][71] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ http://www.pco.parliament.govt.nz/editorial-conventions/ or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][72] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][73] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][70] and [17E][71] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][48]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Criminal Procedure Act 2011 (2011 No 81): [section 413][63]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][64]
     
     Walking Access Act 2008 (2008 No 101): [section 82][47]
     
-    Building Act 2004 (2004 No 72): [section 414][68]
+    Building Act 2004 (2004 No 72): [section 414][69]
 
 
 
-[0]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/local/2001/0003/latest/whole.html#DLM85724
 [2]: http://www.legislation.govt.nz/act/local/2001/0003/latest/whole.html#DLM85725
 [3]: http://www.legislation.govt.nz/act/local/2001/0003/latest/whole.html#DLM85726
@@ -1336,27 +1299,29 @@ Enactment repealed
 [45]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM415539
 [46]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM1244023
 [47]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM1244216
-[48]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM418262
-[49]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM240695
-[50]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM241213
-[51]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM230264
-[52]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM45433
-[53]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM444304
-[54]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM45426
-[55]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM46919
-[56]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM234891
-[57]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM239099
-[58]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM239316
-[59]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM238530
-[60]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM238562
-[61]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM238540
-[62]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM3360067
-[63]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM3360714
-[64]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM306035
-[65]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM117217
-[66]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM429089
-[67]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM289881
-[68]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM309090
-[69]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM195439
-[70]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM195468
-[71]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM195470
+[48]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM4929207
+[49]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM418262
+[50]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM240695
+[51]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM241213
+[52]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM230264
+[53]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM45433
+[54]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM444304
+[55]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM45426
+[56]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM46919
+[57]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM234891
+[58]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM239099
+[59]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM239316
+[60]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM238530
+[61]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM238562
+[62]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM238540
+[63]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM3360067
+[64]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM3360714
+[65]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM306035
+[66]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM117217
+[67]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM429089
+[68]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM289881
+[69]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM309090
+[70]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM2998516
+[71]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM2998515
+[72]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM2998532
+[73]: http://www.pco.parliament.govt.nz/editorial-conventions/
