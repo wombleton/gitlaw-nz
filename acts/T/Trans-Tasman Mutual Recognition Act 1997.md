@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 1 January 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -263,7 +263,7 @@ An Act to provide for the recognition in New Zealand of regulatory standards ado
     
     Compare: Trans-Tasman Mutual Recognition Bill 1996 cls 1, 2 (Aust)
     
-    Section 1(2): Trans-Tasman Mutual Recognition Act 1997 brought into force, on 1 May 1998, by the [Trans-Tasman Mutual Recognition Act Commencement Order 1998][109] (SR 1998/61).
+    Section 1(2): this Act brought into force, on 1 May 1998, by the [Trans-Tasman Mutual Recognition Act Commencement Order 1998][109] (SR 1998/61).
 
 ##### 2 Interpretation
     
@@ -451,6 +451,8 @@ An Act to provide for the recognition in New Zealand of regulatory standards ado
         
     *   (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
     
+    *   (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    
     *   (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year.
     
     (2) A reference to or citation of any Act in this Act includes the citation of all subsequent enactments passed in amendment or substitution of the Act so referred to or cited, unless it is otherwise manifested by the context. This subsection applies despite anything in the [Interpretation Act 1999][111], but is subject to [section 76(1) and (2)][91].
@@ -461,7 +463,9 @@ An Act to provide for the recognition in New Zealand of regulatory standards ado
     
     Section 2(1) **local registration authority** paragraph (b)(ii): substituted, on 1 August 2008, by [section 348][112] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
     
-    Section 2(2): amended, on 1 November 1999, pursuant to [section 38(1)][113] of the Interpretation Act 1999 (1999 No 85).
+    Section 2(1) **working day** paragraph (ab): inserted, on 1 January 2014, by [section 8][113] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
+    
+    Section 2(2): amended, on 1 November 1999, pursuant to [section 38(1)][114] of the Interpretation Act 1999 (1999 No 85).
 
 ##### 3 Meaning of participating jurisdiction
     
@@ -1062,7 +1066,7 @@ Occupations
             
         *   (i) if the requirement relates to a notice given by an individual seeking registration, the equivalent authority of the other participating jurisdiction notifies the local registration authority that the individual seeking registration has, in the notice, authorised the furnishing of the information; or
         
-        *   (ii) if the requirement relates to an individual's deemed registration or actual or possible disciplinary action against the individual, the furnishing of the information does not contravene the [Privacy Act 1993][114].
+        *   (ii) if the requirement relates to an individual's deemed registration or actual or possible disciplinary action against the individual, the furnishing of the information does not contravene the [Privacy Act 1993][115].
         
         
     
@@ -1074,7 +1078,7 @@ Occupations
 
 ##### 34 Receiving information
     
-*   If a local registration authority receives information under a provision of a law of an Australian jurisdiction corresponding to [section 33][42], the information is subject to the [Privacy Act 1993][114] or any other law relating to secrecy or confidentiality to the same extent as it would be if the information had been provided under the law of New Zealand.
+*   If a local registration authority receives information under a provision of a law of an Australian jurisdiction corresponding to [section 33][42], the information is subject to the [Privacy Act 1993][115] or any other law relating to secrecy or confidentiality to the same extent as it would be if the information had been provided under the law of New Zealand.
     
     Compare: Trans-Tasman Mutual Recognition Bill 1996 cl 38 (Aust)
 
@@ -1249,7 +1253,7 @@ Trans-Tasman Occupations Tribunal
     
     (4) The name of an individual must be removed from the panel if---
         
-    *   (a) the individual dies or is, under the [Insolvency Act 2006][115], adjudged bankrupt; or
+    *   (a) the individual dies or is, under the [Insolvency Act 2006][116], adjudged bankrupt; or
     
     *   (b) the Minister of Justice directs that the name of the individual be removed from the panel for disability affecting performance of duty, neglect of duty, or misconduct, proved to the satisfaction of the Minister of Justice; or
     
@@ -1259,7 +1263,7 @@ Trans-Tasman Occupations Tribunal
     
     (5) If paragraph (c) or paragraph (d) of subsection (4) applies, the name of the individual must not be removed from the panel until any review in respect of which the individual was appointed to the Tribunal has concluded and until any service being performed by the individual on the Australian Tribunal has concluded.
     
-    Section 48(4)(a): amended, on 3 December 2007, by [section 445][116] of the Insolvency Act 2006 (2006 No 55).
+    Section 48(4)(a): amended, on 3 December 2007, by [section 445][117] of the Insolvency Act 2006 (2006 No 55).
 
 ##### 49 Deputy Chairperson
     
@@ -1277,17 +1281,17 @@ Trans-Tasman Occupations Tribunal
     
 *   (1) The Chairperson and any Deputy Chairperson may at any time resign his or her office by delivering a notice in writing to that effect to the Minister of Justice.
     
-    (2) The Chairperson and any Deputy Chairperson is deemed to have vacated his or her office if he or she dies or is, under the [Insolvency Act 2006][115], adjudged bankrupt.
+    (2) The Chairperson and any Deputy Chairperson is deemed to have vacated his or her office if he or she dies or is, under the [Insolvency Act 2006][116], adjudged bankrupt.
     
     (3) The Chairperson and any Deputy Chairperson may at any time be removed from office by the Governor-General for disability affecting performance of duty, neglect of duty, or misconduct, proved to the satisfaction of the Governor-General.
     
-    Section 50(2): amended, on 3 December 2007, by [section 445][116] of the Insolvency Act 2006 (2006 No 55).
+    Section 50(2): amended, on 3 December 2007, by [section 445][117] of the Insolvency Act 2006 (2006 No 55).
 
 ##### 51 Remuneration and travelling allowances
     
-*   (1) The Tribunal is declared to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][117].
+*   (1) The Tribunal is declared to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][118].
     
-    (2) Subject to subsection (3), there must be paid to members of the Tribunal remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][117], and the provisions of that Act apply accordingly.
+    (2) Subject to subsection (3), there must be paid to members of the Tribunal remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][118], and the provisions of that Act apply accordingly.
     
     (3) Subsection (2) does not apply to a District Court Judge who is a member of the Tribunal or to any member appointed under [section 46(2)(b)][57].
     
@@ -1431,7 +1435,7 @@ Trans-Tasman Occupations Tribunal
     
     (8) Any sitting of the Tribunal may be adjourned from time to time and from place to place.
     
-    Section 61(7): amended, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 61(7): amended, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 62 Procedure of Tribunal
     
@@ -1453,9 +1457,9 @@ Trans-Tasman Occupations Tribunal
     
     (3) The Tribunal may permit a person appearing as a witness before it to give evidence by tendering a written statement and, if the Tribunal thinks fit, verifying it by oath.
     
-    (4) Subject to subsections (1) to (3), the [Evidence Act 2006][119] applies to the Tribunal in the same manner as if the Tribunal were a court within the meaning of that Act.
+    (4) Subject to subsections (1) to (3), the [Evidence Act 2006][120] applies to the Tribunal in the same manner as if the Tribunal were a court within the meaning of that Act.
     
-    Section 63(4): amended, on 1 August 2007, by [section 216][120] of the Evidence Act 2006 (2006 No 69).
+    Section 63(4): amended, on 1 August 2007, by [section 216][121] of the Evidence Act 2006 (2006 No 69).
 
 ##### 64 Witness summons
     
@@ -1493,7 +1497,7 @@ Trans-Tasman Occupations Tribunal
 
 ##### 66 Witnesses' allowances
     
-*   (1) Every witness attending before the Tribunal to give evidence under a summons is entitled to be paid witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the [Criminal Procedure Act 2011][121], and those regulations apply accordingly.
+*   (1) Every witness attending before the Tribunal to give evidence under a summons is entitled to be paid witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the [Criminal Procedure Act 2011][122], and those regulations apply accordingly.
     
     (2) On each occasion on which the Tribunal issues a summons under [section 64][78], the Tribunal, or the individual exercising the power of the Tribunal under section 64(3), must fix an amount that, on the service of the summons, or at some other reasonable time before the date on which the witness is required to attend, must be paid or tendered to the witness.
     
@@ -1503,7 +1507,7 @@ Trans-Tasman Occupations Tribunal
     
     (5) If the Tribunal has of its own motion issued the witness summons, the fees, allowances, and travelling expenses payable to the witness must be paid by the Crown.
     
-    Section 66(1): amended, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 66(1): amended, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 67 Privileges and immunities
     
@@ -1525,7 +1529,7 @@ Trans-Tasman Occupations Tribunal
     
     (3) No person summoned to attend before the Tribunal may be convicted of an offence against subsection (1) unless there was tendered or paid to that person travelling expenses in accordance with [section 66][80].
     
-    Section 68(2): amended, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 68(2): amended, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 69 Contempt of Tribunal
     
@@ -1539,9 +1543,9 @@ Trans-Tasman Occupations Tribunal
     
     (2) A member of the Tribunal may order the exclusion from a sitting of the Tribunal of any individual whose behaviour, in that member's opinion, constitutes an offence against subsection (1), whether or not such individual is charged with the offence; and any constable may take such steps as are reasonably necessary to enforce such an exclusion.
     
-    Section 69(1): amended, on 1 July 2013, by [section 413][118] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 69(1): amended, on 1 July 2013, by [section 413][119] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 69(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][122] of the Policing Act 2008 (2008 No 72).
+    Section 69(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][123] of the Policing Act 2008 (2008 No 72).
 
 ##### 70 Costs
     
@@ -1587,11 +1591,11 @@ Trans-Tasman Occupations Tribunal
     
 *   If the Chairperson or an individual whose name is entered on the panel serves as a member of the Australian Tribunal for the purposes of a review under the section of the Australian Act dealing with the review of decisions,---
         
-    *   (a) the Australian Tribunal is deemed to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][117]; and
+    *   (a) the Australian Tribunal is deemed to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][118]; and
     
     *   (b) the Chairperson or individual must be paid---
             
-        *   (i) remuneration by way of fees, salary, or otherwise in accordance with the [Fees and Travelling Allowances Act 1951][117], and the provisions of that Act apply accordingly; and
+        *   (i) remuneration by way of fees, salary, or otherwise in accordance with the [Fees and Travelling Allowances Act 1951][118], and the provisions of that Act apply accordingly; and
         
         *   (ii) travelling allowances and travelling expenses in respect of time spent in travelling in the service of the Australian Tribunal, at such rate as the Minister of State Services from time to time approves; and
         
@@ -1658,7 +1662,7 @@ Exclusions and exemptions
         
     *   (a) has the same meaning as it has in the [Interpretation Act 1999][111]; and
     
-    *   (b) includes legislative instruments within the meaning of the [Legislation Act 2012][123] ; and
+    *   (b) includes legislative instruments within the meaning of the [Legislation Act 2012][124] ; and
     
     *   (c) includes any instruments that have, under any Act, been printed or published as if they were regulations or legislative instruments.
     
@@ -1666,9 +1670,9 @@ Exclusions and exemptions
     
     Compare: Trans-Tasman Mutual Recognition Bill 1996 cl 4(2), (3) (Aust)
     
-    Section 76(3): amended, on 1 November 1999, pursuant to [section 38(1)][113] of the Interpretation Act 1999 (1999 No 85).
+    Section 76(3): amended, on 1 November 1999, pursuant to [section 38(1)][114] of the Interpretation Act 1999 (1999 No 85).
     
-    Section 76(4): replaced, on 5 August 2013, by [section 77(3)][124] of the Legislation Act 2012 (2012 No 119).
+    Section 76(4): replaced, on 5 August 2013, by [section 77(3)][125] of the Legislation Act 2012 (2012 No 119).
 
 ##### 77 Exclusions
     
@@ -1831,13 +1835,13 @@ Amendments to Law Practitioners Act 1982
 
 \[Repealed\]
     
-*   Part 6: repealed, on 1 August 2008, by [section 349][125] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
+*   Part 6: repealed, on 1 August 2008, by [section 349][126] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
 
 ##### 88 Amendments to Law Practitioners Act 1982
     
 *   \[Repealed\]
     
-    Section 88: repealed, on 1 August 2008, by [section 349][125] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
+    Section 88: repealed, on 1 August 2008, by [section 349][126] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
 
 ---
 
@@ -1860,7 +1864,7 @@ and would be affected by the Trans-Tasman mutual recognition principle in relati
 
 The laws specified or described below are excluded from the operation of this Act:
 
-[Customs and Excise Act 1996][126]
+[Customs and Excise Act 1996][127]
     
 *   ----[section 54][67]
 
@@ -1868,11 +1872,11 @@ The laws specified or described below are excluded from the operation of this Ac
 
 *   ----[Schedule 1][105]
 
-[Dumping and Countervailing Duties Act 1988][127]
+[Dumping and Countervailing Duties Act 1988][128]
 
-[Tariff Act 1988][128]
+[Tariff Act 1988][129]
 
-[Temporary Safeguard Authorities Act 1987][129]
+[Temporary Safeguard Authorities Act 1987][130]
 
 Any other provision of the law by or under which goods are prohibited from importation into New Zealand, or the importation of goods into New Zealand is restricted
 
@@ -1886,25 +1890,25 @@ This category concerns laws relating to intellectual property, to the extent tha
 
 The laws specified or described below are excluded from the operation of this Act:
 
-[Commonwealth Games Symbol Protection Act 1974][130]
+[Commonwealth Games Symbol Protection Act 1974][131]
 
-[Copyright Act 1994][131]
+[Copyright Act 1994][132]
 
-[Designs Act 1953][132]
+[Designs Act 1953][133]
 
-[Flags, Emblems, and Names Protection Act 1981][133]
+[Flags, Emblems, and Names Protection Act 1981][134]
 
-[Geneva Conventions Act 1958][134]
+[Geneva Conventions Act 1958][135]
 
-[Geographical Indications Act 1994][135]
+[Geographical Indications Act 1994][136]
 
-[Layout Designs Act 1994][136]
+[Layout Designs Act 1994][137]
 
-[Patents Act 1953][137]
+[Patents Act 1953][138]
 
-[Plant Variety Rights Act 1987][138]
+[Plant Variety Rights Act 1987][139]
 
-[Trade Marks Act 2002][139]
+[Trade Marks Act 2002][140]
 
 Any other enactment, or any rule of law, that provides, directly or indirectly, for the protection of intellectual property rights
 
@@ -1916,9 +1920,9 @@ The laws specified or described below are excluded from the operation of this Ac
 
 Ozone Layer Protection Act 1990
 
-[Trade in Endangered Species Act 1989][140]
+[Trade in Endangered Species Act 1989][141]
 
-[United Nations Act 1946][141]
+[United Nations Act 1946][142]
 
 ##### Category 4
 
@@ -1930,16 +1934,16 @@ This category concerns laws relating to taxation, to the extent that those laws-
 
 The laws specified or described below are excluded from the operation of this Act:
 
-[Estate and Gift Duties Act 1968][142]
+[Estate and Gift Duties Act 1968][143]
 
-[Gaming Duties Act 1971][143]
+[Gaming Duties Act 1971][144]
 
-[Goods and Services Tax Act 1985][144]
+[Goods and Services Tax Act 1985][145]
 
-[Stamp and Cheque Duties Act 1971][145]
+[Stamp and Cheque Duties Act 1971][146]
     
-*   Schedule 1: amended, on 16 September 2011, by [section 29(2)][146] of the Trade Marks Amendment Act 2011 (2011 No 71).
-*   Schedule 1: amended, on 7 July 2010, by [section 4][147] of the Trans-Tasman Mutual Recognition Amendment Act 2010 (2010 No 91).
+*   Schedule 1: amended, on 16 September 2011, by [section 29(2)][147] of the Trade Marks Amendment Act 2011 (2011 No 71).
+*   Schedule 1: amended, on 7 July 2010, by [section 4][148] of the Trans-Tasman Mutual Recognition Amendment Act 2010 (2010 No 91).
 
 ---
 
@@ -1950,17 +1954,17 @@ Permanent exemptions
 
 Animal Remedies Act 1967, to the extent that it deals with any requirement described in [section 10(2)][13] applicable to the sale of any animal remedy (within the meaning of the Animal Remedies Act 1967)
 
-[Arms Act 1983][148], to the extent that it deals with any requirement described in [section 10(2)][13] applicable to the sale of any item for which a dealer's licence, firearms licence, or permit is required under the Arms Act 1983
+[Arms Act 1983][149], to the extent that it deals with any requirement described in [section 10(2)][13] applicable to the sale of any item for which a dealer's licence, firearms licence, or permit is required under the Arms Act 1983
 
-Crimes Act 1961, [section 124][149], to the extent that it deals with any requirement described in [section 10(2)][13] applicable to the sale of any indecent model or object
+Crimes Act 1961, [section 124][150], to the extent that it deals with any requirement described in [section 10(2)][13] applicable to the sale of any indecent model or object
 
 Explosives Act 1957, to the extent that it deals with any requirement described in [section 10(2)][13] applicable to the sale of any explosive of the sixth (ammunition) class of the Schedule of the Explosives Act 1957 or the seventh (firework) class of the Schedule of the Explosives Act 1957
 
-[Films, Videos, and Publications Classification Act 1993][150]
+[Films, Videos, and Publications Classification Act 1993][151]
 
-[Gambling Act 2003][151], to the extent that it deals with any requirement described in [section 10(2)][13] applicable to the sale of a gaming machine within the meaning of that Act
+[Gambling Act 2003][152], to the extent that it deals with any requirement described in [section 10(2)][13] applicable to the sale of a gaming machine within the meaning of that Act
 
-[Gas Act 1992][152], to the extent that it deals with any requirement described in [section 10(2)][13] applicable to the sale of---
+[Gas Act 1992][153], to the extent that it deals with any requirement described in [section 10(2)][13] applicable to the sale of---
     
 *   (a) any portable, unflued cabinet heater that is designed for indoor use and operates on liquefied petroleum gas (_LPG_) using an LPG gas cylinder that is self-contained within the heater:
 
@@ -1968,19 +1972,19 @@ Explosives Act 1957, to the extent that it deals with any requirement described 
 
 *   (c) any gas appliance not included in paragraph (a) or (b)
 
-[Hazardous Substances and New Organisms Act 1996][153], to the extent that it deals with any requirement described in [section 10(2)][13] applicable to dangerous goods, hazardous substances, and industrial chemicals
+[Hazardous Substances and New Organisms Act 1996][154], to the extent that it deals with any requirement described in [section 10(2)][13] applicable to dangerous goods, hazardous substances, and industrial chemicals
 
-[Misuse of Drugs Act 1975][154], [Medicines Act 1981][155], and [Dietary Supplements Regulations 1985][156], to the extent that they or any of them deal with any requirement described in [section 10(2)][13] applicable to therapeutic goods
+[Misuse of Drugs Act 1975][155], [Medicines Act 1981][156], and [Dietary Supplements Regulations 1985][157], to the extent that they or any of them deal with any requirement described in [section 10(2)][13] applicable to therapeutic goods
 
-[Protected Objects Act 1975][157], to the extent that it deals with any requirement described in [section 10(2)][13] applicable to the sale of any protected New Zealand object (within the meaning of the Protected Objects Act 1975)
+[Protected Objects Act 1975][158], to the extent that it deals with any requirement described in [section 10(2)][13] applicable to the sale of any protected New Zealand object (within the meaning of the Protected Objects Act 1975)
 
-[Radiation Protection Act 1965][158], to the extent that it deals with any requirement described in [section 10(2)][13] applicable to the sale of any radioactive material (within the meaning of the Radiation Protection Act 1965)
+[Radiation Protection Act 1965][159], to the extent that it deals with any requirement described in [section 10(2)][13] applicable to the sale of any radioactive material (within the meaning of the Radiation Protection Act 1965)
 
-Radiocommunications Regulations 2001, [regulation 32][159], to the extent that it deals with any requirement described in [section 10(2)][13] applicable to radiocommunications equipment
+Radiocommunications Regulations 2001, [regulation 32][160], to the extent that it deals with any requirement described in [section 10(2)][13] applicable to radiocommunications equipment
 
-[Transport Act 1962][160], [Road User Charges Act 1977][161], and [Land Transport Act 1998][162], to the extent that they or any of them deal with any requirement described in [section 10(2)][13] applicable to road vehicles
+[Transport Act 1962][161], [Road User Charges Act 1977][162], and [Land Transport Act 1998][163], to the extent that they or any of them deal with any requirement described in [section 10(2)][13] applicable to road vehicles
 
-[Wildlife Act 1953][163], to the extent that it deals with any requirement described in [section 10(2)][13] applicable to the sale of any wildlife (within the meaning of the Wildlife Act 1953)
+[Wildlife Act 1953][164], to the extent that it deals with any requirement described in [section 10(2)][13] applicable to the sale of any wildlife (within the meaning of the Wildlife Act 1953)
 
 Any law relating to quarantine, to the extent that it deals with any requirement described in [section 10(2)][13] relating to the sale of goods and does not amount to an arbitrary or unjustifiable discrimination or a disguised restriction on trade between Australia and New Zealand
 
@@ -1992,10 +1996,10 @@ Any law that---
 
 to the extent that it deals with any requirement described in [section 10(2)][13] relating to the sale of goods
     
-*   Schedule 2: amended, on 30 April 2010, by [regulation 3][164] of the Trans-Tasman Mutual Recognition (Changes to Permanent and Special Exemptions) Regulations 2010 (SR 2010/85).
-*   Schedule 2: amended, on 1 May 2009, by [regulation 3(2)][165] of the Trans-Tasman Mutual Recognition (Changes to Permanent and Special Exemptions and Special Exemptions Extension) Regulations 2009 (SR 2009/71).
-*   Schedule 2: amended, on 1 November 2006, by [section 35][166] of the Protected Objects Amendment Act 2006 (2006 No 37).
-*   Schedule 2: amended, on 1 July 2004, by [section 374][167] of the Gambling Act 2003 (2003 No 51).
+*   Schedule 2: amended, on 30 April 2010, by [regulation 3][165] of the Trans-Tasman Mutual Recognition (Changes to Permanent and Special Exemptions) Regulations 2010 (SR 2010/85).
+*   Schedule 2: amended, on 1 May 2009, by [regulation 3(2)][166] of the Trans-Tasman Mutual Recognition (Changes to Permanent and Special Exemptions and Special Exemptions Extension) Regulations 2009 (SR 2009/71).
+*   Schedule 2: amended, on 1 November 2006, by [section 35][167] of the Protected Objects Amendment Act 2006 (2006 No 37).
+*   Schedule 2: amended, on 1 July 2004, by [section 374][168] of the Gambling Act 2003 (2003 No 51).
 
 ---
 
@@ -2004,11 +2008,11 @@ Special exemptions
 
 [s 81][96]
 
-*   Schedule 3: amended, on 30 April 2010, by [regulation 4(a)][168] of the Trans-Tasman Mutual Recognition (Changes to Permanent and Special Exemptions) Regulations 2010 (SR 2010/85).
-*   Schedule 3: amended, on 30 April 2010, by [regulation 4(b)][168] of the Trans-Tasman Mutual Recognition (Changes to Permanent and Special Exemptions) Regulations 2010 (SR 2010/85).
-*   Schedule 3: amended, on 30 April 2010, by [regulation 4(c)][168] of the Trans-Tasman Mutual Recognition (Changes to Permanent and Special Exemptions) Regulations 2010 (SR 2010/85).
-*   Schedule 3: amended, on 30 April 2010, by [regulation 4(d)][168] of the Trans-Tasman Mutual Recognition (Changes to Permanent and Special Exemptions) Regulations 2010 (SR 2010/85).
-*   Schedule 3: amended, on 30 April 2010, by [regulation 4(e)][168] of the Trans-Tasman Mutual Recognition (Changes to Permanent and Special Exemptions) Regulations 2010 (SR 2010/85).
+*   Schedule 3: amended, on 30 April 2010, by [regulation 4(a)][169] of the Trans-Tasman Mutual Recognition (Changes to Permanent and Special Exemptions) Regulations 2010 (SR 2010/85).
+*   Schedule 3: amended, on 30 April 2010, by [regulation 4(b)][169] of the Trans-Tasman Mutual Recognition (Changes to Permanent and Special Exemptions) Regulations 2010 (SR 2010/85).
+*   Schedule 3: amended, on 30 April 2010, by [regulation 4(c)][169] of the Trans-Tasman Mutual Recognition (Changes to Permanent and Special Exemptions) Regulations 2010 (SR 2010/85).
+*   Schedule 3: amended, on 30 April 2010, by [regulation 4(d)][169] of the Trans-Tasman Mutual Recognition (Changes to Permanent and Special Exemptions) Regulations 2010 (SR 2010/85).
+*   Schedule 3: amended, on 30 April 2010, by [regulation 4(e)][169] of the Trans-Tasman Mutual Recognition (Changes to Permanent and Special Exemptions) Regulations 2010 (SR 2010/85).
 *   Schedule 3: amended, on 1 January 2009, by section 63(2) of the Public Transport Management Act 2008 (2008 No 87).
 
 ---
@@ -2018,9 +2022,9 @@ Exempt laws relating to occupations
 
 [s 84][99]
 
-[Health Practitioners Competence Assurance Act 2003][169], to the extent that it deals with health practitioners who are, or are deemed to be, registered with the Medical Council of New Zealand continued by [section 114(1)(a)][170] of that Act as practitioners of the profession of medicine
+[Health Practitioners Competence Assurance Act 2003][170], to the extent that it deals with health practitioners who are, or are deemed to be, registered with the Medical Council of New Zealand continued by [section 114(1)(a)][171] of that Act as practitioners of the profession of medicine
     
-*   Schedule 4: amended, on 18 September 2004, by [section 175(1)][171] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+*   Schedule 4: amended, on 18 September 2004, by [section 175(1)][172] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
 
 #### 
 
@@ -2034,43 +2038,45 @@ Exempt laws relating to occupations
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][172] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][173] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][173] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][174] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][174] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][175] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][175] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][176] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][124]
+*   Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][113]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][118]
+    Legislation Act 2012 (2012 No 119): [section 77(3)][125]
     
-    Trade Marks Amendment Act 2011 (2011 No 71): [section 29][146]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][119]
     
-    [Trans-Tasman Mutual Recognition Amendment Act 2010][176] (2010 No 91)
+    Trade Marks Amendment Act 2011 (2011 No 71): [section 29][147]
     
-    [Trans-Tasman Mutual Recognition (Changes to Permanent and Special Exemptions) Regulations 2010][177] (SR 2010/85)
+    [Trans-Tasman Mutual Recognition Amendment Act 2010][177] (2010 No 91)
     
-    [Trans-Tasman Mutual Recognition (Changes to Permanent and Special Exemptions and Special Exemptions Extension) Regulations 2009][178] (SR 2009/71)
+    [Trans-Tasman Mutual Recognition (Changes to Permanent and Special Exemptions) Regulations 2010][178] (SR 2010/85)
     
-    Public Transport Management Act 2008 (2008 No 87): [section 63(2)][179]
+    [Trans-Tasman Mutual Recognition (Changes to Permanent and Special Exemptions and Special Exemptions Extension) Regulations 2009][179] (SR 2009/71)
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][122]
+    Public Transport Management Act 2008 (2008 No 87): [section 63(2)][180]
     
-    Evidence Act 2006 (2006 No 69): [section 216][120]
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][123]
     
-    Insolvency Act 2006 (2006 No 55): [section 445][116]
+    Evidence Act 2006 (2006 No 69): [section 216][121]
     
-    Protected Objects Amendment Act 2006 (2006 No 37): [section 35][166]
+    Insolvency Act 2006 (2006 No 55): [section 445][117]
     
-    Lawyers and Conveyancers Act 2006 (2006 No 1): [sections 348][112], [349][125]
+    Protected Objects Amendment Act 2006 (2006 No 37): [section 35][167]
     
-    Gambling Act 2003 (2003 No 51): [section 374][167]
+    Lawyers and Conveyancers Act 2006 (2006 No 1): [sections 348][112], [349][126]
     
-    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][171]
+    Gambling Act 2003 (2003 No 51): [section 374][168]
     
-    Interpretation Act 1999 (1999 No 85): [section 38(1)][113]
+    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][172]
+    
+    Interpretation Act 1999 (1999 No 85): [section 38(1)][114]
     
     [Trans-Tasman Mutual Recognition Act Commencement Order 1998][109] (SR 1998/61)
 
@@ -2189,70 +2195,71 @@ Exempt laws relating to occupations
 [110]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM314622
 [111]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM31458
 [112]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM367849
-[113]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM31885
-[114]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM296638
-[115]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM385298
-[116]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM387857
-[117]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM264952
-[118]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM3360714
-[119]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM393462
-[120]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM394552
-[121]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM3359902
-[122]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM1102349
-[123]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM2997643
-[124]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM2998633
-[125]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM367851
-[126]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM377336
-[127]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM137947
-[128]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM136767
-[129]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM117316
-[130]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM412734
-[131]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM345633
-[132]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM281070
-[133]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM51357
-[134]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM318001
-[135]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM344677
-[136]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM341480
-[137]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM280030
-[138]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM100577
-[139]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM164239
-[140]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM145965
-[141]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM240501
-[142]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM385591
-[143]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM398477
-[144]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM81034
-[145]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM399728
-[146]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM2290135
-[147]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM3044905
-[148]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM72621
-[149]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM329038
-[150]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM312894
-[151]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM207496
-[152]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM285411
-[153]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM381221
-[154]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM436100
-[155]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM53789
-[156]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM102108
-[157]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM432115
-[158]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM372538
-[159]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM71579
-[160]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM341189
-[161]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM18599
-[162]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM433612
-[163]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM276813
-[164]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM2840958
-[165]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM1933806
-[166]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM376605
-[167]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM210735
-[168]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM2840991
-[169]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM203311
-[170]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM204329
-[171]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM205009
-[172]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM2998516
-[173]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM2998515
-[174]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM2998532
-[175]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[176]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM3044900
-[177]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM2840985
-[178]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM1933800
-[179]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM1180107
+[113]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM4929207
+[114]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM31885
+[115]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM296638
+[116]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM385298
+[117]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM387857
+[118]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM264952
+[119]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM3360714
+[120]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM393462
+[121]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM394552
+[122]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM3359902
+[123]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM1102349
+[124]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM2997643
+[125]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM2998633
+[126]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM367851
+[127]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM377336
+[128]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM137947
+[129]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM136767
+[130]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM117316
+[131]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM412734
+[132]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM345633
+[133]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM281070
+[134]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM51357
+[135]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM318001
+[136]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM344677
+[137]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM341480
+[138]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM280030
+[139]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM100577
+[140]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM164239
+[141]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM145965
+[142]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM240501
+[143]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM385591
+[144]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM398477
+[145]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM81034
+[146]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM399728
+[147]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM2290135
+[148]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM3044905
+[149]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM72621
+[150]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM329038
+[151]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM312894
+[152]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM207496
+[153]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM285411
+[154]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM381221
+[155]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM436100
+[156]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM53789
+[157]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM102108
+[158]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM432115
+[159]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM372538
+[160]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM71579
+[161]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM341189
+[162]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM18599
+[163]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM433612
+[164]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM276813
+[165]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM2840958
+[166]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM1933806
+[167]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM376605
+[168]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM210735
+[169]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM2840991
+[170]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM203311
+[171]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM204329
+[172]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM205009
+[173]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM2998516
+[174]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM2998515
+[175]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM2998532
+[176]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[177]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM3044900
+[178]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM2840985
+[179]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM1933800
+[180]: http://www.legislation.govt.nz/act/public/1997/0060/latest/link.aspx?id=DLM1180107
