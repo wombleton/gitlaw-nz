@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 1 January 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry for Culture and Heritage.
 
@@ -449,6 +449,8 @@ An Act---
         
     *   (a) a Saturday, a Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
     
+    *   (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    
     *   (b) a day in the period commencing with 20 December in any year and ending with 10 January in the following year.
     
     Section 2 **chief executive**: inserted, on 1 October 2000, by [section 12][155] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
@@ -482,6 +484,8 @@ An Act---
     Section 2 **statutory acknowledgement**: inserted, on 1 October 1998, by [section 227][162] of the Ngāi Tahu Claims Settlement Act 1998 (1998 No 97).
     
     Section 2 **territorial authority**: substituted, on 1 July 2003, by [section 262][161] of the Local Government Act 2002 (2002 No 84).
+    
+    Section 2 **working day** paragraph (ab): inserted, on 1 January 2014, by [section 8][163] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
     
     Section 2 **working day** paragraph (b): amended, on 1 August 2006, by [section 4(4)][159] of the Historic Places Amendment Act 2006 (2006 No 33).
 
@@ -558,9 +562,9 @@ Protection of historic places
     
     (8) Nothing in this Act shall require the Trust to negotiate or agree with any person to enter into or execute any heritage covenant.
     
-    (9) Nothing in [sections 316 to 318][163] of the Property Law Act 2007 applies to any heritage covenant entered into in accordance with this Act.
+    (9) Nothing in [sections 316 to 318][164] of the Property Law Act 2007 applies to any heritage covenant entered into in accordance with this Act.
     
-    Section 6(9): amended, on 1 January 2008, by [section 364(1)][164] of the Property Law Act 2007 (2007 No 91).
+    Section 6(9): amended, on 1 January 2008, by [section 364(1)][165] of the Property Law Act 2007 (2007 No 91).
 
 ##### 7 Effect of heritage covenants
     
@@ -578,13 +582,13 @@ Protection of historic places
     
 *   (1) Every heritage covenant---
         
-    *   (a) shall be deemed to be an instrument creating an interest in the land within the meaning of [section 62][165] of the Land Transfer Act 1952 and may be registered accordingly; and
+    *   (a) shall be deemed to be an instrument creating an interest in the land within the meaning of [section 62][166] of the Land Transfer Act 1952 and may be registered accordingly; and
     
     *   (b) shall be deemed to be a covenant running with the land when registered under the [Land Transfer Act 1952][153] and shall bind all subsequent owners of the land.
     
     (2) Where a heritage covenant has been registered under the [Land Transfer Act 1952][153] and any provision in that covenant has been varied or cancelled by any agreement under [section 6(4)][10] or has expired, the District Land Registrar shall, if he or she is satisfied that any provision in that covenant has been so varied or cancelled or has expired, make an entry in the register and on any relevant instrument of title noting that the heritage covenant has been varied or cancelled or has expired, and the provisions of the heritage covenant shall take effect as so varied or cease to have any effect, as the case may be.
     
-    (3) Where the burden of a heritage covenant applies to land comprising part of the land in a certificate of title, the District Land Registrar may require the deposit of a plan in accordance with [section 167][166] of the Land Transfer Act 1952\.
+    (3) Where the burden of a heritage covenant applies to land comprising part of the land in a certificate of title, the District Land Registrar may require the deposit of a plan in accordance with [section 167][167] of the Land Transfer Act 1952\.
 
 #### Archaeological sites
 
@@ -670,7 +674,7 @@ Protection of historic places
     
     (3A) In exercising a power under any of subsections (1) to (3), the Trust must have regard (in accordance with the provisions of the relevant Act) to a statutory acknowledgement that relates to the site or sites concerned.
     
-    (3B) The Trust must comply with [section 89][167] of the Marine and Coastal Area (Takutai Moana) Act 2011\.
+    (3B) The Trust must comply with [section 89][168] of the Marine and Coastal Area (Takutai Moana) Act 2011\.
     
     (4) The Trust shall make its decision within 3 months after an application in respect of a site is lodged with the Trust under [section 11][16] or [section 12][17], unless the Trust, by written notice to the applicant, requires the applicant to provide further information relating to the application.
     
@@ -694,11 +698,11 @@ Protection of historic places
     
     (10) An authority granted under subsection (1) lapses on the date specified in the authority, or if no date is specified, 5 years after the date of the granting of the authority.
     
-    Section 14(3A): inserted, on 1 October 1998, by [section 228][168] of the Ngāi Tahu Claims Settlement Act 1998 (1998 No 97).
+    Section 14(3A): inserted, on 1 October 1998, by [section 228][169] of the Ngāi Tahu Claims Settlement Act 1998 (1998 No 97).
     
     Section 14(3B): inserted, on 1 April 2011, by [section 128][156] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
-    Section 14(10): substituted, on 1 August 2003, by [section 102(1)][169] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 14(10): substituted, on 1 August 2003, by [section 102(1)][170] of the Resource Management Amendment Act 2003 (2003 No 23).
 
 ##### 15 Conditions of authority
     
@@ -786,11 +790,11 @@ Protection of historic places
 
 ##### 19 Advice to chief executive
     
-*   The Trust shall, within 20 working days after granting an authority under [section 14][19] or [section 18][23], give notice in writing of the authority either to the chief executive or to the nearest public museum (within the meaning of the [Protected Objects Act 1975][170]).
+*   The Trust shall, within 20 working days after granting an authority under [section 14][19] or [section 18][23], give notice in writing of the authority either to the chief executive or to the nearest public museum (within the meaning of the [Protected Objects Act 1975][171]).
     
     Section 19 heading: amended, on 1 October 2000, by [section 12][155] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
     
-    Section 19: amended, on 1 November 2006, by [section 35][171] of the Protected Objects Amendment Act 2006 (2006 No 37).
+    Section 19: amended, on 1 November 2006, by [section 35][172] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
     Section 19: amended, on 1 October 2000, by [section 12][155] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
 
@@ -820,7 +824,7 @@ Protection of historic places
         
     *   (a) state the reasons for the appeal and the relief sought; and
     
-    *   (b) state any matters that regulations made under the [Resource Management Act 1991][151] require to be stated in the case of an appeal under [section 120][172] of that Act; and
+    *   (b) state any matters that regulations made under the [Resource Management Act 1991][151] require to be stated in the case of an appeal under [section 120][173] of that Act; and
     
     *   (c) be lodged with the Environment Court and served on the Trust within 15 working days of receiving any decision of the Trust to which subsection (1) relates.
     
@@ -846,13 +850,13 @@ Protection of historic places
     
     (6A) For the purposes of subsection (6)(e), if the court has regard to a statutory acknowledgement, the court must have regard to the statutory acknowledgement in accordance with the provisions of the relevant Act.
     
-    (6B) In determining an appeal in respect of a decision made under [section 14(1)(a) or (b)][19] that relates to a customary marine title area, the court must have particular regard to any planning documents lodged with the New Zealand Historic Places Trust under [section 89][167] of the Marine and Coastal Area (Takutai Moana) Act 2011 that are relevant to an archaeological site within the customary marine title area.
+    (6B) In determining an appeal in respect of a decision made under [section 14(1)(a) or (b)][19] that relates to a customary marine title area, the court must have particular regard to any planning documents lodged with the New Zealand Historic Places Trust under [section 89][168] of the Marine and Coastal Area (Takutai Moana) Act 2011 that are relevant to an archaeological site within the customary marine title area.
     
     (7) Nothing in this section limits or affects the powers of the Trust to issue a requirement for a heritage order.
     
     Section 20(1): amended, on 2 September 1996, pursuant to [section 6(2)(a)][157] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 20(1)(c): amended, on 1 August 2003, by [section 102(2)][169] of the Resource Management Amendment Act 2003 (2003 No 23).
+    Section 20(1)(c): amended, on 1 August 2003, by [section 102(2)][170] of the Resource Management Amendment Act 2003 (2003 No 23).
     
     Section 20(2)(c): amended, on 2 September 1996, pursuant to [section 6(2)(a)][157] of the Resource Management Amendment Act 1996 (1996 No 160).
     
@@ -864,11 +868,11 @@ Protection of historic places
     
     Section 20(6): amended, on 2 September 1996, pursuant to [section 6(2)(a)][157] of the Resource Management Amendment Act 1996 (1996 No 160).
     
-    Section 20(6)(e): added, on 1 October 1998, by [section 229(1)][173] of the Ngāi Tahu Claims Settlement Act 1998 (1998 No 97).
+    Section 20(6)(e): added, on 1 October 1998, by [section 229(1)][174] of the Ngāi Tahu Claims Settlement Act 1998 (1998 No 97).
     
-    Section 20(6)(f): added, on 1 August 2006, by [section 5][174] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 20(6)(f): added, on 1 August 2006, by [section 5][175] of the Historic Places Amendment Act 2006 (2006 No 33).
     
-    Section 20(6A): inserted, on 1 October 1998, by [section 229(2)][173] of the Ngāi Tahu Claims Settlement Act 1998 (1998 No 97).
+    Section 20(6A): inserted, on 1 October 1998, by [section 229(2)][174] of the Ngāi Tahu Claims Settlement Act 1998 (1998 No 97).
     
     Section 20(6B): inserted, on 1 April 2011, by [section 128][156] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
 
@@ -884,9 +888,9 @@ Protection of historic places
     
     (2) Subsection (1) applies subject to the authority or a determination of the Environment Court specifying a later commencement date.
     
-    Compare: 1991 No 69 [s 116(1)][175]
+    Compare: 1991 No 69 [s 116(1)][176]
     
-    Section 20A: inserted, on 1 August 2006, by [section 6][176] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 20A: inserted, on 1 August 2006, by [section 6][177] of the Historic Places Amendment Act 2006 (2006 No 33).
 
 #### Rights of entry
 
@@ -1027,7 +1031,7 @@ Registration of historic places, historic areas, wahi tapu, and wahi tapu areas
     
     (6) No failure of an owner to notify an occupier pursuant to subsection (4) shall invalidate the registration process.
     
-    Section 24(3)(b)(iii): amended, on 1 August 2006, by [section 7][177] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 24(3)(b)(iii): amended, on 1 August 2006, by [section 7][178] of the Historic Places Amendment Act 2006 (2006 No 33).
 
 ##### 25 Provisions relating to wahi tapu
     
@@ -1057,7 +1061,7 @@ Registration of historic places, historic areas, wahi tapu, and wahi tapu areas
     
     (6) No failure of an owner to notify an occupier pursuant to subsection (4) shall invalidate the registration process in that case.
     
-    Section 25(3)(b)(ii): amended, on 1 August 2006, by [section 8][178] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 25(3)(b)(ii): amended, on 1 August 2006, by [section 8][179] of the Historic Places Amendment Act 2006 (2006 No 33).
 
 ##### 26 Interim registration
     
@@ -1079,15 +1083,15 @@ Registration of historic places, historic areas, wahi tapu, and wahi tapu areas
     
     (7) The Trust or the Council, as the case may be, shall, as soon as practicable after the date of its decision to grant an extension under subsection (4), notify the owner concerned of its decision.
     
-    Section 26(3)(a): amended, on 1 August 2006, by [section 9(1)][179] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 26(3)(a): amended, on 1 August 2006, by [section 9(1)][180] of the Historic Places Amendment Act 2006 (2006 No 33).
     
-    Section 26(3)(a): amended, on 1 August 2006, by [section 9(2)][179] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 26(3)(a): amended, on 1 August 2006, by [section 9(2)][180] of the Historic Places Amendment Act 2006 (2006 No 33).
     
-    Section 26(3)(b): amended, on 1 August 2006, by [section 9(2)][179] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 26(3)(b): amended, on 1 August 2006, by [section 9(2)][180] of the Historic Places Amendment Act 2006 (2006 No 33).
 
 ##### 27 Interim protection of places proposed for registration
     
-*   While any historic place or wahi tapu has interim registration under [section 26][35] of this Act, [sections 194][180] and [195][181] of the Resource Management Act 1991 shall apply to that place or wahi tapu as if interim registration were notice of a requirement for a heritage order.
+*   While any historic place or wahi tapu has interim registration under [section 26][35] of this Act, [sections 194][181] and [195][182] of the Resource Management Act 1991 shall apply to that place or wahi tapu as if interim registration were notice of a requirement for a heritage order.
 
 ##### 28 Procedure if registration of historic place or wahi tapu proposed
     
@@ -1121,19 +1125,19 @@ Registration of historic places, historic areas, wahi tapu, and wahi tapu areas
     
     (7) When deciding whether to register an historic place, the Trust may reconsider the category of registration proposed of the place concerned and alter the category if it considers this action appropriate.
     
-    Section 28: substituted, on 1 August 2006, by [section 10][182] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 28: substituted, on 1 August 2006, by [section 10][183] of the Historic Places Amendment Act 2006 (2006 No 33).
 
 ##### 29 Final registration may be confirmed by agreement
     
 *   \[Repealed\]
     
-    Section 29: repealed, on 1 August 2006, by [section 11][183] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 29: repealed, on 1 August 2006, by [section 11][184] of the Historic Places Amendment Act 2006 (2006 No 33).
 
 ##### 30 Final registration
     
 *   \[Repealed\]
     
-    Section 30: repealed, on 1 August 2006, by [section 11][183] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 30: repealed, on 1 August 2006, by [section 11][184] of the Historic Places Amendment Act 2006 (2006 No 33).
 
 ##### 31 Provisions relating to historic areas
     
@@ -1189,17 +1193,17 @@ Registration of historic places, historic areas, wahi tapu, and wahi tapu areas
     
     *   (b) business.
     
-    Section 31(3): substituted, on 1 August 2006, by [section 12][184] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 31(3): substituted, on 1 August 2006, by [section 12][185] of the Historic Places Amendment Act 2006 (2006 No 33).
     
-    Section 31(4): substituted, on 1 August 2006, by [section 12][184] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 31(4): substituted, on 1 August 2006, by [section 12][185] of the Historic Places Amendment Act 2006 (2006 No 33).
     
-    Section 31(5): substituted, on 1 August 2006, by [section 12][184] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 31(5): substituted, on 1 August 2006, by [section 12][185] of the Historic Places Amendment Act 2006 (2006 No 33).
     
-    Section 31(6): substituted, on 1 August 2006, by [section 12][184] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 31(6): substituted, on 1 August 2006, by [section 12][185] of the Historic Places Amendment Act 2006 (2006 No 33).
     
-    Section 31(7): added, on 1 August 2006, by [section 12][184] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 31(7): added, on 1 August 2006, by [section 12][185] of the Historic Places Amendment Act 2006 (2006 No 33).
     
-    Section 31(8): added, on 1 August 2006, by [section 12][184] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 31(8): added, on 1 August 2006, by [section 12][185] of the Historic Places Amendment Act 2006 (2006 No 33).
 
 ##### 32 Provisions relating to wahi tapu areas
     
@@ -1257,17 +1261,17 @@ Registration of historic places, historic areas, wahi tapu, and wahi tapu areas
     
     *   (b) business.
     
-    Section 32(3): substituted, on 1 August 2006, by [section 13][185] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 32(3): substituted, on 1 August 2006, by [section 13][186] of the Historic Places Amendment Act 2006 (2006 No 33).
     
-    Section 32(4): substituted, on 1 August 2006, by [section 13][185] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 32(4): substituted, on 1 August 2006, by [section 13][186] of the Historic Places Amendment Act 2006 (2006 No 33).
     
-    Section 32(5): substituted, on 1 August 2006, by [section 13][185] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 32(5): substituted, on 1 August 2006, by [section 13][186] of the Historic Places Amendment Act 2006 (2006 No 33).
     
-    Section 32(6): substituted, on 1 August 2006, by [section 13][185] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 32(6): substituted, on 1 August 2006, by [section 13][186] of the Historic Places Amendment Act 2006 (2006 No 33).
     
-    Section 32(7): added, on 1 August 2006, by [section 13][185] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 32(7): added, on 1 August 2006, by [section 13][186] of the Historic Places Amendment Act 2006 (2006 No 33).
     
-    Section 32(8): added, on 1 August 2006, by [section 13][185] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 32(8): added, on 1 August 2006, by [section 13][186] of the Historic Places Amendment Act 2006 (2006 No 33).
 
 ##### 32A Procedure if registration of historic area or wahi tapu area proposed
     
@@ -1295,7 +1299,7 @@ Registration of historic places, historic areas, wahi tapu, and wahi tapu areas
     
     (4) If the Trust considers that an historic area proposed for registration is of Maori interest, the Trust must refer the proposal to the Council for its recommendation as to whether the historic area should be registered.
     
-    Section 32A: inserted, on 1 August 2006, by [section 14][186] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 32A: inserted, on 1 August 2006, by [section 14][187] of the Historic Places Amendment Act 2006 (2006 No 33).
 
 ##### 32B Registration may be confirmed by agreement
     
@@ -1305,7 +1309,7 @@ Registration of historic places, historic areas, wahi tapu, and wahi tapu areas
     
     *   (b) with the agreement of all owners and all persons holding a registered interest.
     
-    Section 32B: inserted, on 1 August 2006, by [section 14][186] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 32B: inserted, on 1 August 2006, by [section 14][187] of the Historic Places Amendment Act 2006 (2006 No 33).
 
 ##### 32C When registration occurs
     
@@ -1327,7 +1331,7 @@ Registration of historic places, historic areas, wahi tapu, and wahi tapu areas
     
     *   (b) give written notice of the registration to any person that has been given notice under [section 24(3)(b)][33], [section 25(3)(b)][34], [section 31(3)(b)][40], or [section 32(3)(b)][41].
     
-    Section 32C: inserted, on 1 August 2006, by [section 14][186] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 32C: inserted, on 1 August 2006, by [section 14][187] of the Historic Places Amendment Act 2006 (2006 No 33).
 
 ##### 32D Territorial authorities and regional councils must have particular regard to recommendations
     
@@ -1337,7 +1341,7 @@ Registration of historic places, historic areas, wahi tapu, and wahi tapu areas
     
     (3) A territorial authority or regional council receiving recommendations under subsection (1) or subsection (2) must have particular regard to the Trust's or the Council's recommendations.
     
-    Section 32D: inserted, on 1 August 2006, by [section 14][186] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 32D: inserted, on 1 August 2006, by [section 14][187] of the Historic Places Amendment Act 2006 (2006 No 33).
 
 ##### 33 Proposals affecting registered wahi tapu areas
     
@@ -1355,7 +1359,7 @@ Registration of historic places, historic areas, wahi tapu, and wahi tapu areas
     
     (3) The Council shall, within 3 months of the date of receipt of that application or proposal by the Council, advise the Trust of any comment or recommendation it wishes to make on any application or proposal referred to it under subsection (1).
     
-    Section 33(2): amended, on 1 August 2006, by [section 15][187] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 33(2): amended, on 1 August 2006, by [section 15][188] of the Historic Places Amendment Act 2006 (2006 No 33).
 
 ##### 34 Records to be supplied to territorial authorities
     
@@ -1367,23 +1371,23 @@ Registration of historic places, historic areas, wahi tapu, and wahi tapu areas
     
     *   (b) pursuant to [section 32C(2)(b)][44] or [section 37(7)][50] or [section 37A(b)][51] of registration or removal from the register---
     
-    of any historic place, historic area, wahi tapu, or wahi tapu area (but no other notification) shall, for the purposes of [section 35(1)(b)][188] of the Building Act 2004 and [section 44A(2)(g)][189] of the Local Government Official Information and Meetings Act 1987, constitute information which has in terms of this Act been notified to the territorial authority by a statutory organisation having the power to classify land or buildings for any purpose.
+    of any historic place, historic area, wahi tapu, or wahi tapu area (but no other notification) shall, for the purposes of [section 35(1)(b)][189] of the Building Act 2004 and [section 44A(2)(g)][190] of the Local Government Official Information and Meetings Act 1987, constitute information which has in terms of this Act been notified to the territorial authority by a statutory organisation having the power to classify land or buildings for any purpose.
     
-    Section 34(2): amended, on 13 March 2012, by [section 93(5)][190] of the Building Amendment Act 2012 (2012 No 23).
+    Section 34(2): amended, on 13 March 2012, by [section 93(5)][191] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 34(2): amended, on 31 March 2005, by [section 414][191] of the Building Act 2004 (2004 No 72).
+    Section 34(2): amended, on 31 March 2005, by [section 414][192] of the Building Act 2004 (2004 No 72).
     
-    Section 34(2)(b): amended, on 1 August 2006, by [section 16][192] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 34(2)(b): amended, on 1 August 2006, by [section 16][193] of the Historic Places Amendment Act 2006 (2006 No 33).
 
 ##### 35 Notification to territorial authorities for land information memorandum and project information memorandum purposes
     
 *   The Trust may, in its discretion, notify any territorial authority of the particulars of any registered historic place, historic area, wahi tapu, or wahi tapu area in that territorial authority's district with sufficient detail to enable those particulars to be included in---
         
-    *   (a) any land information memorandum issued by the territorial authority under [section 44A][189] of the Local Government Official Information and Meetings Act 1987; and
+    *   (a) any land information memorandum issued by the territorial authority under [section 44A][190] of the Local Government Official Information and Meetings Act 1987; and
     
-    *   (b) any project information memorandum issued by the territorial authority under [section 34][193] of the Building Act 2004\.
+    *   (b) any project information memorandum issued by the territorial authority under [section 34][194] of the Building Act 2004\.
     
-    Section 35(b): amended, on 31 March 2005, by [section 414][191] of the Building Act 2004 (2004 No 72).
+    Section 35(b): amended, on 31 March 2005, by [section 414][192] of the Building Act 2004 (2004 No 72).
 
 ##### 36 Availability of register
     
@@ -1429,11 +1433,11 @@ Registration of historic places, historic areas, wahi tapu, and wahi tapu areas
     
     (9) If the Trust has, as part of its review, publicly notified a proposal to change the category of a registered historic place to Category 1,---
         
-    *   (a) the Trust may apply [section 194][180] of the Resource Management Act 1991 until the Trust has finally dealt with the application, as if the application were a notice of a requirement for a heritage order; and
+    *   (a) the Trust may apply [section 194][181] of the Resource Management Act 1991 until the Trust has finally dealt with the application, as if the application were a notice of a requirement for a heritage order; and
     
-    *   (b) if the Trust applies [section 194][180] of the Resource Management Act 1991, [section 195][181] of that Act applies.
+    *   (b) if the Trust applies [section 194][181] of the Resource Management Act 1991, [section 195][182] of that Act applies.
     
-    Section 37: substituted, on 1 August 2006, by [section 17][194] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 37: substituted, on 1 August 2006, by [section 17][195] of the Historic Places Amendment Act 2006 (2006 No 33).
 
 ##### 37A Removal of registration in cases of destruction or demolition
     
@@ -1443,7 +1447,7 @@ Registration of historic places, historic areas, wahi tapu, and wahi tapu areas
     
     *   (b) must, as soon as practicable after removing a registration, notify in writing the relevant territorial authority and regional council.
     
-    Section 37A: inserted, on 1 August 2006, by [section 17][194] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 37A: inserted, on 1 August 2006, by [section 17][195] of the Historic Places Amendment Act 2006 (2006 No 33).
 
 ## Part 3  
 New Zealand Historic Places Trust (Pouhere Taonga) and Board of Trustees
@@ -1456,9 +1460,9 @@ New Zealand Historic Places Trust (Pouhere Taonga) and Board of Trustees
     
     (2) The Trust is the same body corporate as the New Zealand Historic Places Trust continued under section 4 of the Historic Places Act 1980\.
     
-    (3) The Trust is a Crown entity for the purposes of [section 7][195] of the Crown Entities Act 2004\.
+    (3) The Trust is a Crown entity for the purposes of [section 7][196] of the Crown Entities Act 2004\.
     
-    (4) The [Crown Entities Act 2004][196] applies to the Trust except to the extent that this Act expressly provides otherwise.
+    (4) The [Crown Entities Act 2004][197] applies to the Trust except to the extent that this Act expressly provides otherwise.
     
     Compare: 1980 No 16 s 4
     
@@ -1486,11 +1490,11 @@ New Zealand Historic Places Trust (Pouhere Taonga) and Board of Trustees
     
     Compare: 1980 No 16 s 5
     
-    Section 39(1)(a): amended, on 1 August 2006, by [section 18(1)][197] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 39(1)(a): amended, on 1 August 2006, by [section 18(1)][198] of the Historic Places Amendment Act 2006 (2006 No 33).
     
-    Section 39(1)(b): amended, on 1 August 2006, by [section 18(2)][197] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 39(1)(b): amended, on 1 August 2006, by [section 18(2)][198] of the Historic Places Amendment Act 2006 (2006 No 33).
     
-    Section 39(1)(d): amended, on 1 August 2006, by [section 18(3)][197] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 39(1)(d): amended, on 1 August 2006, by [section 18(3)][198] of the Historic Places Amendment Act 2006 (2006 No 33).
     
     Section 39(2): added, on 25 January 2005, by [section 200][158] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -1520,9 +1524,9 @@ New Zealand Historic Places Trust (Pouhere Taonga) and Board of Trustees
     
     (4) One of the persons appointed under subsection (1)(b) must be appointed as Chairperson.
     
-    (5) The appointments made under subsections (1)(b) and (4) must be made in accordance with the [Crown Entities Act 2004][196].
+    (5) The appointments made under subsections (1)(b) and (4) must be made in accordance with the [Crown Entities Act 2004][197].
     
-    Section 42: substituted, on 1 August 2006, by [section 19][198] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 42: substituted, on 1 August 2006, by [section 19][199] of the Historic Places Amendment Act 2006 (2006 No 33).
 
 ##### 43 Term of office of elected members of Board
     
@@ -1530,7 +1534,7 @@ New Zealand Historic Places Trust (Pouhere Taonga) and Board of Trustees
     
     (2) Every member of the Board elected under [section 42(1)(a)][58] holds office for 3 years from the date of the certificate declaring the result of the election given in accordance with regulations made under [section 113][140] and may be re-elected.
     
-    (3) Unless an elected member vacates or is removed from office under the [Crown Entities Act 2004][196], he or she continues in office until his or her successor comes into office.
+    (3) Unless an elected member vacates or is removed from office under the [Crown Entities Act 2004][197], he or she continues in office until his or her successor comes into office.
     
     Compare: 1980 No 16 s 8
     
@@ -1538,9 +1542,9 @@ New Zealand Historic Places Trust (Pouhere Taonga) and Board of Trustees
     
     Section 43(1): repealed, on 25 January 2005, by [section 200][158] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 43(2): substituted, on 3 June 1998, by [section 3][199] of the Historic Places Amendment Act 1998 (1998 No 49).
+    Section 43(2): substituted, on 3 June 1998, by [section 3][200] of the Historic Places Amendment Act 1998 (1998 No 49).
     
-    Section 43(2): amended, on 1 August 2006, by [section 20][200] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 43(2): amended, on 1 August 2006, by [section 20][201] of the Historic Places Amendment Act 2006 (2006 No 33).
     
     Section 43(3): substituted, on 25 January 2005, by [section 200][158] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -1560,7 +1564,7 @@ New Zealand Historic Places Trust (Pouhere Taonga) and Board of Trustees
     
     (4) This section does not apply if the extraordinary vacancy occurs within 12 months of the expiry of the term of office for the vacating member of the Board.
     
-    Section 43A: inserted, on 27 March 2008, by [section 4][201] of the Historic Places Amendment Act 2008 (2008 No 12).
+    Section 43A: inserted, on 27 March 2008, by [section 4][202] of the Historic Places Amendment Act 2008 (2008 No 12).
 
 ##### 44 Deputy Chairperson of Board
     
@@ -1602,7 +1606,7 @@ New Zealand Historic Places Trust (Pouhere Taonga) and Board of Trustees
 
 ##### 50 Meetings of Board
     
-*   [Clauses 6 to 13][202] of Schedule 5 of the Crown Entities Act 2004 apply except that, despite [clause 13][203] of that schedule, a resolution signed or assented to in writing, by members who together form a quorum, is as valid and effectual as if it had been passed at a meeting of the Board duly called and constituted.
+*   [Clauses 6 to 13][203] of Schedule 5 of the Crown Entities Act 2004 apply except that, despite [clause 13][204] of that schedule, a resolution signed or assented to in writing, by members who together form a quorum, is as valid and effectual as if it had been passed at a meeting of the Board duly called and constituted.
     
     Section 50: substituted, on 25 January 2005, by [section 200][158] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -1610,7 +1614,7 @@ New Zealand Historic Places Trust (Pouhere Taonga) and Board of Trustees
     
 *   \[Repealed\]
     
-    Section 51: repealed, on 1 August 2006, by [section 21][204] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 51: repealed, on 1 August 2006, by [section 21][205] of the Historic Places Amendment Act 2006 (2006 No 33).
 
 ##### 52 Proceedings not affected by certain irregularities
     
@@ -1698,7 +1702,7 @@ New Zealand Historic Places Trust (Pouhere Taonga) and Board of Trustees
     
     Section 54(2)(i): repealed, on 25 January 2005, by [section 200][158] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 54(2)(l): substituted, on 1 August 2006, by [section 22][205] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 54(2)(l): substituted, on 1 August 2006, by [section 22][206] of the Historic Places Amendment Act 2006 (2006 No 33).
     
     Section 54(2)(m): repealed, on 25 January 2005, by [section 200][158] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -1714,7 +1718,7 @@ New Zealand Historic Places Trust (Pouhere Taonga) and Board of Trustees
 
 ##### 55 General rules as to delegation of functions or powers by Board
     
-*   (1) The rules about delegation in the [Crown Entities Act 2004][196] apply to delegations by the Board.
+*   (1) The rules about delegation in the [Crown Entities Act 2004][197] apply to delegations by the Board.
     
     (2) However, the Board must not delegate the power to---
         
@@ -1750,7 +1754,7 @@ New Zealand Historic Places Trust (Pouhere Taonga) and Board of Trustees
     
     *   (b) any branch committee of the Trust.
     
-    (2) [Clause 14(1)(b)][206] of Schedule 5 of the Crown Entities Act 2004 does not limit subsection (1).
+    (2) [Clause 14(1)(b)][207] of Schedule 5 of the Crown Entities Act 2004 does not limit subsection (1).
     
     (3) Subject to any general or special directions given by the Board, the Council or branch committee may exercise those powers in the same manner and with the same effect as if they had been conferred on the body directly by this Act and not by delegation.
     
@@ -1812,7 +1816,7 @@ New Zealand Historic Places Trust (Pouhere Taonga) and Board of Trustees
     
     (8) For the purposes of this section and [section 58][78], _historic place_ includes any chattel or object or class of chattel or objects entered in the register in respect of that place.
     
-    Compare: 1980 No 66 [s 44][207]
+    Compare: 1980 No 66 [s 44][208]
 
 ##### 58 Conservation plans
     
@@ -1842,7 +1846,7 @@ New Zealand Historic Places Trust (Pouhere Taonga) and Board of Trustees
 
 ##### 60 Rules of Trust
     
-*   (1) The Board may, by resolution, make rules that are not inconsistent with this Act or the [Crown Entities Act 2004][196] for all or any of the following purposes:
+*   (1) The Board may, by resolution, make rules that are not inconsistent with this Act or the [Crown Entities Act 2004][197] for all or any of the following purposes:
         
     *   (a) regulating the proceedings of the Board and the conduct of its meetings:
     
@@ -1864,11 +1868,11 @@ New Zealand Historic Places Trust (Pouhere Taonga) and Board of Trustees
     
     Section 60(1): amended, on 25 January 2005, by [section 200][158] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 60(1)(d): amended, on 1 August 2006, by [section 23(1)][208] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 60(1)(d): amended, on 1 August 2006, by [section 23(1)][209] of the Historic Places Amendment Act 2006 (2006 No 33).
     
-    Section 60(1)(e): amended, on 1 August 2006, by [section 23(2)][208] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 60(1)(e): amended, on 1 August 2006, by [section 23(2)][209] of the Historic Places Amendment Act 2006 (2006 No 33).
     
-    Section 60(1)(ea): inserted, on 1 August 2006, by [section 23(3)][208] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 60(1)(ea): inserted, on 1 August 2006, by [section 23(3)][209] of the Historic Places Amendment Act 2006 (2006 No 33).
     
     Section 60(2): repealed, on 25 January 2005, by [section 200][158] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -1920,7 +1924,7 @@ New Zealand Historic Places Trust (Pouhere Taonga) and Board of Trustees
     
     Compare: 1980 No 16 s 24
     
-    Section 65: amended, on 1 July 2013, by [section 413][209] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 65: amended, on 1 July 2013, by [section 413][210] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Employees
 
@@ -1956,7 +1960,7 @@ New Zealand Historic Places Trust (Pouhere Taonga) and Board of Trustees
 
 ##### 71 Transitional provisions relating to employees
     
-*   (1) Notwithstanding any other provision of this Act or any provision of the [State Sector Act 1988][210],---
+*   (1) Notwithstanding any other provision of this Act or any provision of the [State Sector Act 1988][211],---
         
     *   (a) every employee of the Department of Conservation who was, immediately before the commencement of this Act, employed wholly on servicing the functions of the Trust, is hereby deemed to be an employee of the Trust (in this section referred to as a _transferred employee_); and
     
@@ -1974,11 +1978,11 @@ New Zealand Historic Places Trust (Pouhere Taonga) and Board of Trustees
 
 ##### 72 Contributors to Government Superannuation Fund
     
-*   (1) Any person who, immediately before becoming an officer or employee of the Trust, is an appointee under the [State Sector Act 1988][210] and a contributor to the Government Superannuation Fund under the [Government Superannuation Fund Act 1956][211] shall, on becoming an officer or employee of the Trust, be deemed for the purposes of the Government Superannuation Fund Act 1956 to be employed in the Government service so long as that person continues in the service of the Trust; and the Government Superannuation Fund Act 1956 shall apply to that person in all respects as if the service with the Trust were Government service.
+*   (1) Any person who, immediately before becoming an officer or employee of the Trust, is an appointee under the [State Sector Act 1988][211] and a contributor to the Government Superannuation Fund under the [Government Superannuation Fund Act 1956][212] shall, on becoming an officer or employee of the Trust, be deemed for the purposes of the Government Superannuation Fund Act 1956 to be employed in the Government service so long as that person continues in the service of the Trust; and the Government Superannuation Fund Act 1956 shall apply to that person in all respects as if the service with the Trust were Government service.
     
-    (2) Subject to the [Government Superannuation Fund Act 1956][211], nothing in subsection (1) shall entitle any such transferred employee to become a contributor to the Government Superannuation Fund after that person has once ceased to become a contributor.
+    (2) Subject to the [Government Superannuation Fund Act 1956][212], nothing in subsection (1) shall entitle any such transferred employee to become a contributor to the Government Superannuation Fund after that person has once ceased to become a contributor.
     
-    (3) For the purposes of applying the [Government Superannuation Fund Act 1956][211], in accordance with subsection (1), to a person who is in the service of the Trust and who is a contributor to the Government Superannuation Fund, the term _controlling authority_, in relation to that person, means the Trust.
+    (3) For the purposes of applying the [Government Superannuation Fund Act 1956][212], in accordance with subsection (1), to a person who is in the service of the Trust and who is a contributor to the Government Superannuation Fund, the term _controlling authority_, in relation to that person, means the Trust.
     
     (4) The Trust may, for the purpose of providing superannuation or retirement allowances for its officers and employees, subsidise out of its funds any scheme under the National Provident Fund Act 1950 containing provision for employer subsidy or any other employer-subsidised scheme approved by the Minister of Finance.
 
@@ -2087,7 +2091,7 @@ Maori Heritage Council
     
     (5) Unless a member of the Council vacates or is removed from his or her office under [section 88][112], or (in the case of a member appointed under subsection (2)(a)) who ceases to be a member of the Board, he or she shall continue in office until his or her successor comes into office.
     
-    Section 84(2): substituted, on 1 August 2006, by [section 24][212] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 84(2): substituted, on 1 August 2006, by [section 24][213] of the Historic Places Amendment Act 2006 (2006 No 33).
 
 ##### 85 Functions of Council
     
@@ -2151,7 +2155,7 @@ Maori Heritage Council
     
     (2) Any member may be removed from office at any time by the Minister for inability to perform the functions of the office, bankruptcy, neglect of duty, or misconduct, if proved to the satisfaction of the Minister, or a conviction for an offence relating to historic places.
     
-    Section 88(2): amended, on 1 January 2002, by [section 70(1)][213] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 88(2): amended, on 1 January 2002, by [section 70(1)][214] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 89 Leave of absence
     
@@ -2246,7 +2250,7 @@ Offences
     
     *   (b) in the case of damage or modification, to a fine not exceeding $40,000\.
     
-    Section 97(2): amended, on 1 July 2013, by [section 413][209] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 97(2): amended, on 1 July 2013, by [section 413][210] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 98 Offence of destruction, damage, or modification of land subject to heritage covenant
     
@@ -2264,7 +2268,7 @@ Offences
     
     *   (b) in the case of damage or modification, to a fine not exceeding $40,000\.
     
-    Section 98(2): amended, on 1 July 2013, by [section 413][209] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 98(2): amended, on 1 July 2013, by [section 413][210] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 99 Offence of destruction, damage, or modification of archaeological site
     
@@ -2282,13 +2286,13 @@ Offences
     
     *   (b) in the case of damage or modification, to a fine not exceeding $40,000\.
     
-    Section 99(2): amended, on 1 July 2013, by [section 413][209] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 99(2): amended, on 1 July 2013, by [section 413][210] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 100 Offence of breaching conditions of authority
     
 *   Every person commits an offence and is liable on conviction to a fine not exceeding $40,000 who contravenes or fails to comply with any condition imposed under [section 14(1)][19] or [section 15][20].
     
-    Section 100: amended, on 1 July 2013, by [section 413][209] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 100: amended, on 1 July 2013, by [section 413][210] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 101 Offence of refusing access, etc
     
@@ -2306,7 +2310,7 @@ Offences
         
         
     
-    Section 101: amended, on 1 July 2013, by [section 413][209] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 101: amended, on 1 July 2013, by [section 413][210] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 102 Offence of carrying out archaeological investigation in breach of conditions or without written permission
     
@@ -2314,9 +2318,9 @@ Offences
     
     (2) Every person commits an offence and is liable on conviction to a fine not exceeding $40,000 who carries out an archaeological investigation without the written permission of the Trust under [section 18(1)][23].
     
-    Section 102(1): amended, on 1 July 2013, by [section 413][209] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 102(1): amended, on 1 July 2013, by [section 413][210] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 102(2): amended, on 1 July 2013, by [section 413][209] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 102(2): amended, on 1 July 2013, by [section 413][210] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 103 Offence of destruction, damage, or modification while historic place or wahi tapu has interim registration
     
@@ -2334,7 +2338,7 @@ Offences
     
     *   (b) in the case of alteration, extension, damage, or modification, to a fine not exceeding $40,000\.
     
-    Section 103(2): amended, on 1 July 2013, by [section 413][209] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 103(2): amended, on 1 July 2013, by [section 413][210] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 104 Other offences
     
@@ -2360,9 +2364,9 @@ Offences
     
     *   (j) fails to carry out pest and weed control, to maintain land in a clean and safe condition, or to take any necessary protective measures, as required by [section 105(2)(c)][131].
     
-    Section 104: amended, on 1 July 2013, by [section 413][209] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 104: amended, on 1 July 2013, by [section 413][210] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 104(d): amended, on 27 March 2008, by [section 5][214] of the Historic Places Amendment Act 2008 (2008 No 12).
+    Section 104(d): amended, on 27 March 2008, by [section 5][215] of the Historic Places Amendment Act 2008 (2008 No 12).
 
 ##### 105 Court may stay exercise of rights under resource consent
     
@@ -2374,7 +2378,7 @@ Offences
     
     *   (c) interim registration under this Act---
     
-    is convicted of an offence against [section 338(1)(a)][215] of the Resource Management Act 1991 (being an offence in respect of [section 9(2)][216] of that Act) or against [section 103][129], being an offence in respect of that land or place, then, in addition to any penalty it may impose under those sections, a court may make an order suspending for such period not exceeding 5 years as the court thinks fit---
+    is convicted of an offence against [section 338(1)(a)][216] of the Resource Management Act 1991 (being an offence in respect of [section 9(2)][217] of that Act) or against [section 103][129], being an offence in respect of that land or place, then, in addition to any penalty it may impose under those sections, a court may make an order suspending for such period not exceeding 5 years as the court thinks fit---
         
     *   (d) the exercise of any rights under a resource consent granted to that person in respect of that land; or
     
@@ -2420,7 +2424,7 @@ Offences
     
     *   (b) any subdivision of the land:
     
-    *   (c) any use of the land that is permissible under [section 9][216] of the Resource Management Act 1991\.
+    *   (c) any use of the land that is permissible under [section 9][217] of the Resource Management Act 1991\.
     
     
 
@@ -2454,7 +2458,7 @@ Offences
     
     *   (b) specifying the facts that support his or her reliance on that subsection.
     
-    Section 106(2)(b): amended, on 1 August 2006, by [section 25][217] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 106(2)(b): amended, on 1 August 2006, by [section 25][218] of the Historic Places Amendment Act 2006 (2006 No 33).
 
 ##### 107 Offender to give name and address
     
@@ -2470,13 +2474,13 @@ Offences
     
     Section 107(1): amended, on 1 October 2000, by [section 12][155] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
     
-    Section 107(3): amended, on 1 July 2013, by [section 413][209] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 107(3): amended, on 1 July 2013, by [section 413][210] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 108 Time for filing charging document
     
-*   Despite anything to the contrary in [section 25][218] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the offence was committed.
+*   Despite anything to the contrary in [section 25][219] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the offence was committed.
     
-    Section 108: replaced, on 1 July 2013, by [section 413][209] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 108: replaced, on 1 July 2013, by [section 413][210] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 6  
 Miscellaneous provisions
@@ -2489,7 +2493,7 @@ Miscellaneous provisions
 
 ##### 110 Local authorities may transfer land to Trust
     
-*   Notwithstanding anything in any enactment, any local authority (within the meaning of the [Local Government Act 2002][152]) may, without further authority than this section, convey or transfer any land (not being a public reserve within the meaning of the [Reserves Act 1977][219]) to the Trust and the Trust may accept such land to be held for the purposes of this Act.
+*   Notwithstanding anything in any enactment, any local authority (within the meaning of the [Local Government Act 2002][152]) may, without further authority than this section, convey or transfer any land (not being a public reserve within the meaning of the [Reserves Act 1977][220]) to the Trust and the Trust may accept such land to be held for the purposes of this Act.
     
     Compare: 1980 No 16 s 59
     
@@ -2499,7 +2503,7 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 111: repealed, on 3 June 1998, by [section 4][220] of the Historic Places Amendment Act 1998 (1998 No 49).
+    Section 111: repealed, on 3 June 1998, by [section 4][221] of the Historic Places Amendment Act 1998 (1998 No 49).
 
 ##### 112 Service of documents
     
@@ -2581,7 +2585,7 @@ Miscellaneous provisions
         
     *   (a) administered by the Department of Conservation; or
     
-    *   (b) included in [Schedule 1][221] of the Conservation Act 1987\.
+    *   (b) included in [Schedule 1][222] of the Conservation Act 1987\.
     
     Section 115(2): added, on 1 October 2000, by [section 12][155] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
 
@@ -2624,11 +2628,11 @@ Enactments repealed
 
 ##### Trade and Industry Act Repeal Act 1988 (1988 No 156)
 
-_Amendment(s) incorporated in the [Act(s)][222]_.
+_Amendment(s) incorporated in the [Act(s)][223]_.
 
 ##### Trustee Amendment Act 1988 (1988 No 119)
 
-_Amendment(s) incorporated in the [Act(s)][223]_.
+_Amendment(s) incorporated in the [Act(s)][224]_.
 
 ---
 
@@ -2643,112 +2647,71 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Conservation Act 1987 (1987 No 65)
 
-_Amendment(s) incorporated in the [Act(s)][221]_.
+_Amendment(s) incorporated in the [Act(s)][222]_.
 
 ##### Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)
 
-_Amendment(s) incorporated in the [Act(s)][224]_.
+_Amendment(s) incorporated in the [Act(s)][225]_.
 
 ##### Public Finance Amendment Act 1992 (1992 No 142)
 
-_Amendment(s) incorporated in the [Act(s)][225]_.
+_Amendment(s) incorporated in the [Act(s)][226]_.
 
 ##### Resource Management Act 1991 (1991 No 69)
 
-_Amendment(s) incorporated in the [Act(s)][226]_.
+_Amendment(s) incorporated in the [Act(s)][227]_.
 
 ##### Valuation of Land Act 1951 (1951 No 19) (RS Vol 21, p 851)
 
 _Amendment(s) incorporated in the Act(s)_.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Historic Places Act 1993\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][227] ![](/images/external_link.gif).
+*   This is a reprint of the Historic Places Act 1993 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][228] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][228] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][229] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][229] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][230] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][231] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][230] and [17E][231] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][163]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Building Amendment Act 2012 (2012 No 23): [section 93(5)][191]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Building Amendment Act 2012 (2012 No 23): [section 93(5)][190]
-    
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][209]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][210]
     
     Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3): [section 128][156]
     
     [Historic Places Amendment Act 2008][232] (2008 No 12)
     
-    Property Law Act 2007 (2007 No 91): [section 364(1)][164]
+    Property Law Act 2007 (2007 No 91): [section 364(1)][165]
     
-    Protected Objects Amendment Act 2006 (2006 No 37): [section 35][171]
+    Protected Objects Amendment Act 2006 (2006 No 37): [section 35][172]
     
     [Historic Places Amendment Act 2006][233] (2006 No 33)
     
     Crown Entities Act 2004 (2004 No 115): [section 200][158]
     
-    Building Act 2004 (2004 No 72): [section 414][191]
+    Building Act 2004 (2004 No 72): [section 414][192]
     
-    Resource Management Amendment Act 2003 (2003 No 23): [section 102][169]
+    Resource Management Amendment Act 2003 (2003 No 23): [section 102][170]
     
     Local Government Act 2002 (2002 No 84): [section 262][161]
     
     Local Government (Rating) Act 2002 (2002 No 6): [section 137(1)][160]
     
-    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][213]
+    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][214]
     
     Archives, Culture, and Heritage Reform Act 2000 (2000 No 32): [section 12][155]
     
@@ -2760,7 +2723,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1993/0038/latest/whole.html#DLM300513
 [2]: http://www.legislation.govt.nz/act/public/1993/0038/latest/whole.html#DLM300515
 [3]: http://www.legislation.govt.nz/act/public/1993/0038/latest/whole.html#DLM300516
@@ -2923,75 +2886,75 @@ _Amendment(s) incorporated in the Act(s)_.
 [160]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM133500
 [161]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM174088
 [162]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM430070
-[163]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM969553
-[164]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM969644
-[165]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM270468
-[166]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM271641
-[167]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM3213418
-[168]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM430073
-[169]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM197006
-[170]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM432115
-[171]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM376605
-[172]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM234891
-[173]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM430074
-[174]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374635
-[175]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM234865
-[176]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374636
-[177]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374638
-[178]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374639
-[179]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374640
-[180]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM236736
-[181]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM236739
-[182]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374641
-[183]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374643
-[184]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374644
-[185]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374646
-[186]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374648
-[187]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374653
-[188]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM306366
-[189]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM123065
-[190]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM3387924
-[191]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM309090
-[192]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374654
-[193]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM306365
-[194]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374655
-[195]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM329641
-[196]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM329630
-[197]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374658
-[198]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374659
-[199]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM426642
-[200]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374661
-[201]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM1209007
-[202]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM331139
-[203]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM331146
-[204]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374662
-[205]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374663
-[206]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM331147
-[207]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM37993
-[208]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374664
-[209]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM3360714
-[210]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM129109
-[211]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM446000
-[212]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374665
-[213]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM122579
-[214]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM1209009
-[215]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM239038
-[216]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM231918
-[217]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374666
-[218]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM3360067
-[219]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM444304
-[220]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM426643
-[221]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM107200
-[222]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM137558
-[223]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM135633
-[224]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM430983
-[225]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM289859
-[226]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM233389
-[227]: http://www.pco.parliament.govt.nz/reprints/
-[228]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM195439
-[229]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[230]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM195468
-[231]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM195470
+[163]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM4929207
+[164]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM969553
+[165]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM969644
+[166]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM270468
+[167]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM271641
+[168]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM3213418
+[169]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM430073
+[170]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM197006
+[171]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM432115
+[172]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM376605
+[173]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM234891
+[174]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM430074
+[175]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374635
+[176]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM234865
+[177]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374636
+[178]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374638
+[179]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374639
+[180]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374640
+[181]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM236736
+[182]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM236739
+[183]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374641
+[184]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374643
+[185]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374644
+[186]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374646
+[187]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374648
+[188]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374653
+[189]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM306366
+[190]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM123065
+[191]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM3387924
+[192]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM309090
+[193]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374654
+[194]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM306365
+[195]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374655
+[196]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM329641
+[197]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM329630
+[198]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374658
+[199]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374659
+[200]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM426642
+[201]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374661
+[202]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM1209007
+[203]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM331139
+[204]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM331146
+[205]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374662
+[206]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374663
+[207]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM331147
+[208]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM37993
+[209]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374664
+[210]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM3360714
+[211]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM129109
+[212]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM446000
+[213]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374665
+[214]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM122579
+[215]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM1209009
+[216]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM239038
+[217]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM231918
+[218]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374666
+[219]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM3360067
+[220]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM444304
+[221]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM426643
+[222]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM107200
+[223]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM137558
+[224]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM135633
+[225]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM430983
+[226]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM289859
+[227]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM233389
+[228]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM2998516
+[229]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM2998515
+[230]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM2998532
+[231]: http://www.pco.parliament.govt.nz/editorial-conventions/
 [232]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM1209000
 [233]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374626
 [234]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM426635
