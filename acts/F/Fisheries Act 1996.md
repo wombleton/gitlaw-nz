@@ -1,5 +1,5 @@
 Reprint  
-as at 4 October 2013
+as at 1 January 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -2173,6 +2173,8 @@ Preliminary provisions
         
     *   (a) a Saturday, a Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
     
+    *   (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    
     *   (b) a day in the period commencing on 25 December in any year and ending with the close of 15 January in the following year.
     
     (1A) References to _this Act_ include references to rules and regulations made under this Act.
@@ -2367,7 +2369,9 @@ Preliminary provisions
     
     Section 2(1) **transaction** paragraph (b): substituted, on 26 May 2001, by [section 3(2)][776] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
     
-    Section 2(1A): inserted, on 19 March 2004, by [section 5][777] of the Fisheries Amendment Act 2004 (2004 No 6).
+    Section 2(1) **working day** paragraph (ab): inserted, on 1 January 2014, by [section 8][777] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
+    
+    Section 2(1A): inserted, on 19 March 2004, by [section 5][778] of the Fisheries Amendment Act 2004 (2004 No 6).
     
     Section 2(4): added, on 1 October 2004, by [section 3(9)][766] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
@@ -2375,13 +2379,13 @@ Preliminary provisions
     
 *   \[Repealed\]
     
-    Section 3: repealed, on 1 October 2001, by [section 4][778] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 3: repealed, on 1 October 2001, by [section 4][779] of the Fisheries Amendment Act 2001 (2001 No 65).
 
 ##### 3A Meaning of associated person in relation to issue of fishing permits
     
 *   \[Repealed\]
     
-    Section 3A: repealed, on 1 October 2001, by [section 4][778] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 3A: repealed, on 1 October 2001, by [section 4][779] of the Fisheries Amendment Act 2001 (2001 No 65).
 
 ##### 4 Meaning of terms overseas person, ordinarily resident in New Zealand, and nominee
     
@@ -2395,7 +2399,7 @@ Preliminary provisions
         
     *   (a) New Zealand's international obligations relating to fishing; and
     
-    *   (b) the provisions of the [Treaty of Waitangi (Fisheries Claims) Settlement Act 1992][779].
+    *   (b) the provisions of the [Treaty of Waitangi (Fisheries Claims) Settlement Act 1992][780].
     
     
 
@@ -2409,7 +2413,7 @@ Preliminary provisions
     
     (2) Subsection (1) does not---
         
-    *   (a) prevent a regional council from taking into account the effects of aquaculture activities on fishing or fisheries resources when carrying out its functions under [section 30(1)(d)][780] of the Resource Management Act 1991; or
+    *   (a) prevent a regional council from taking into account the effects of aquaculture activities on fishing or fisheries resources when carrying out its functions under [section 30(1)(d)][781] of the Resource Management Act 1991; or
     
     *   (b) prevent any coastal permit authorising aquaculture activities from being granted.
     
@@ -2427,23 +2431,23 @@ Preliminary provisions
     
     *   (e) other fishers authorised under this Act to take fish, aquatic life, or seaweed
     
-    _occupy_ has the same meaning as in [section 2(1)][781] of the Resource Management Act 1991\.
+    _occupy_ has the same meaning as in [section 2(1)][782] of the Resource Management Act 1991\.
     
     (4) \[Repealed\]
     
-    Section 6(2): substituted, on 1 October 2011, by [section 5(1)][782] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 6(2): substituted, on 1 October 2011, by [section 5(1)][783] of the Fisheries Amendment Act 2011 (2011 No 68).
     
-    Section 6(3) **fishing sector** paragraph (d): repealed, on 1 October 2011, by [section 5(2)][782] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 6(3) **fishing sector** paragraph (d): repealed, on 1 October 2011, by [section 5(2)][783] of the Fisheries Amendment Act 2011 (2011 No 68).
     
-    Section 6(3) **occupy**: amended, on 1 January 2005, by [section 5(2)][783] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 6(3) **occupy**: amended, on 1 January 2005, by [section 5(2)][784] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
     
-    Section 6(4): repealed, on 1 January 2005, by [section 5(3)][783] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 6(4): repealed, on 1 January 2005, by [section 5(3)][784] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
 
 ##### 7 Act to bind the Crown
     
 *   This Act shall bind the Crown.
     
-    Compare: 1983 No 14 [s 2A][784]; 1986 No 34 s 3
+    Compare: 1983 No 14 [s 2A][785]; 1986 No 34 s 3
 
 ## Part 2  
 Purpose and principles
@@ -2507,11 +2511,11 @@ Sustainability measures
     
     *   (b) any management strategy or management plan under the [Conservation Act 1987][732]; and
     
-    *   (c) [sections 7][785] and [8][786] of the Hauraki Gulf Marine Park Act 2000 (for the Hauraki Gulf as defined in that Act); and
+    *   (c) [sections 7][786] and [8][787] of the Hauraki Gulf Marine Park Act 2000 (for the Hauraki Gulf as defined in that Act); and
     
-    *   (ca) regulations made under the [Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012][787]; and
+    *   (ca) regulations made under the [Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012][788]; and
     
-    *   (d) a planning document lodged with the Minister of Fisheries by a customary marine title group under [section 91][788] of the Marine and Coastal Area (Takutai Moana) Act 2011---
+    *   (d) a planning document lodged with the Minister of Fisheries by a customary marine title group under [section 91][789] of the Marine and Coastal Area (Takutai Moana) Act 2011---
     
     that apply to the coastal marine area and are considered by the Minister to be relevant.
     
@@ -2549,19 +2553,19 @@ Sustainability measures
     
     (5) Without limiting subsection (4)(a), when setting or varying a catch limit (including a commercial catch limit) for any stock not within the quota management system, the Minister shall have regard to the matters referred to in [section 13(2)][19] or [section 21(1)][35] or both those sections, as the case may require.
     
-    Section 11(2)(b): amended, on 27 February 2000, by [section 12][789] of the Hauraki Gulf Marine Park Act 2000 (2000 No 1).
+    Section 11(2)(b): amended, on 27 February 2000, by [section 12][790] of the Hauraki Gulf Marine Park Act 2000 (2000 No 1).
     
     Section 11(2)(c): substituted, on 1 April 2011, by [section 128][767] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
-    Section 11(2)(ca): inserted, on 28 June 2013, by [section 175][790] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72).
+    Section 11(2)(ca): inserted, on 28 June 2013, by [section 175][791] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72).
     
     Section 11(2)(d): added, on 1 April 2011, by [section 128][767] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
-    Section 11(2A): inserted, on 9 September 1999, by [section 5(1)][791] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 11(2A): inserted, on 9 September 1999, by [section 5(1)][792] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 11(4)(b): substituted, on 9 September 1999, by [section 5(2)][791] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 11(4)(b): substituted, on 9 September 1999, by [section 5(2)][792] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 11(5): amended, on 23 June 1998, by [section 3][792] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+    Section 11(5): amended, on 23 June 1998, by [section 3][793] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
 
 ##### 11A Fisheries plans
     
@@ -2589,7 +2593,7 @@ Sustainability measures
     
     (4) Nothing in this section prevents the Minister from considering a proposal under [Part 9][313].
     
-    Section 11A: inserted, on 9 September 1999, by [section 6][793] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 11A: inserted, on 9 September 1999, by [section 6][794] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 12 Consultation
     
@@ -2609,13 +2613,13 @@ Sustainability measures
     
     (3) This section does not apply in respect of emergency measures under [section 16][25].
     
-    Section 12(1): amended, on 9 September 1999, by [section 7(1)(a)][794] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 12(1): amended, on 9 September 1999, by [section 7(1)(a)][795] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 12(1): amended, on 9 September 1999, by [section 7(1)(b)][794] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 12(1): amended, on 9 September 1999, by [section 7(1)(b)][795] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 12(1): amended, on 9 September 1999, by [section 7(1)(c)][794] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 12(1): amended, on 9 September 1999, by [section 7(1)(c)][795] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 12(2): amended, on 9 September 1999, by [section 7(2)][794] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 12(2): amended, on 9 September 1999, by [section 7(2)][795] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 13 Total allowable catch
     
@@ -2665,27 +2669,27 @@ Sustainability measures
     
     (10) Subsection (1) does not require the Minister to set an initial total allowable catch for any quota management area and stock unless the Minister also proposes to set or vary a total allowable commercial catch for that area and stock under [section 20][34].
     
-    Compare: 1983 No 14 [ss 28C][795], [28D][796], [28OB--28OE][797]; 1986 No 34 s 10; 1990 No 29 [s 5(1)][798]; 1992 No 90 [s 4][799]; 1992 No 121 [s 24(1)][800]
+    Compare: 1983 No 14 [ss 28C][796], [28D][797], [28OB--28OE][798]; 1986 No 34 s 10; 1990 No 29 [s 5(1)][799]; 1992 No 90 [s 4][800]; 1992 No 121 [s 24(1)][801]
     
-    Section 13(1): amended, on 23 June 1998, by [section 4(1)][801] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+    Section 13(1): amended, on 23 June 1998, by [section 4(1)][802] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
     
-    Section 13(2)(b): substituted, on 23 June 1998, by [section 4(2)][801] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+    Section 13(2)(b): substituted, on 23 June 1998, by [section 4(2)][802] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
     
-    Section 13(2A): inserted, on 28 September 2008, by [section 4(1)][802] of the Fisheries Act 1996 Amendment Act 2008 (2008 No 96).
+    Section 13(2A): inserted, on 28 September 2008, by [section 4(1)][803] of the Fisheries Act 1996 Amendment Act 2008 (2008 No 96).
     
-    Section 13(3): amended, on 28 September 2008, by [section 4(2)][802] of the Fisheries Act 1996 Amendment Act 2008 (2008 No 96).
+    Section 13(3): amended, on 28 September 2008, by [section 4(2)][803] of the Fisheries Act 1996 Amendment Act 2008 (2008 No 96).
     
-    Section 13(4): amended, on 28 September 2008, by [section 4(3)][802] of the Fisheries Act 1996 Amendment Act 2008 (2008 No 96).
+    Section 13(4): amended, on 28 September 2008, by [section 4(3)][803] of the Fisheries Act 1996 Amendment Act 2008 (2008 No 96).
     
-    Section 13(4): amended, on 23 June 1998, by [section 4(3)][801] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+    Section 13(4): amended, on 23 June 1998, by [section 4(3)][802] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
     
-    Section 13(7): amended, on 28 September 2008, by [section 4(3)][802] of the Fisheries Act 1996 Amendment Act 2008 (2008 No 96).
+    Section 13(7): amended, on 28 September 2008, by [section 4(3)][803] of the Fisheries Act 1996 Amendment Act 2008 (2008 No 96).
     
-    Section 13(7): amended, on 23 June 1998, by [section 4(4)][801] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+    Section 13(7): amended, on 23 June 1998, by [section 4(4)][802] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
     
-    Section 13(8): amended, on 23 June 1998, by [section 4(5)][801] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+    Section 13(8): amended, on 23 June 1998, by [section 4(5)][802] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
     
-    Section 13(10): added, on 23 June 1998, by [section 4(6)][801] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+    Section 13(10): added, on 23 June 1998, by [section 4(6)][802] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
 
 ##### 14 Alternative total allowable catch for stock specified in Schedule 3
     
@@ -2719,15 +2723,15 @@ Sustainability measures
         
         
     
-    Section 14(8)(b)(ii): amended, on 1 October 2004, by [section 4(1)][803] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 14(8)(b)(ii): amended, on 1 October 2004, by [section 4(1)][804] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 14(8)(b)(iii): amended, on 1 October 2004, by [section 4(2)][803] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 14(8)(b)(iii): amended, on 1 October 2004, by [section 4(2)][804] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 14(8)(b)(iv): added, on 1 October 2004, by [section 4(2)][803] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 14(8)(b)(iv): added, on 1 October 2004, by [section 4(2)][804] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 14A Alternative total allowable catch for stocks specified by Order in Council
     
-*   (1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister with the concurrence of the Minister responsible for the administration of the [Environment Act 1986][804], apply [section 14B][22] to the quota management stock or stocks specified in the order.
+*   (1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister with the concurrence of the Minister responsible for the administration of the [Environment Act 1986][805], apply [section 14B][22] to the quota management stock or stocks specified in the order.
     
     (2) No recommendation relating to any stock may be made under subsection (1) unless quota owners (**proposers**) who hold in the aggregate at least 95 000 000 quota shares in that stock propose to the Minister that he or she recommend the making of an Order in Council under subsection (1).
     
@@ -2761,7 +2765,7 @@ Sustainability measures
     
     *   (e) the purpose of the Act would be better achieved by setting a total allowable catch otherwise than in accordance with [section 13][19].
     
-    Section 14A: inserted, on 9 September 1999, by [section 8][805] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 14A: inserted, on 9 September 1999, by [section 8][806] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 14B Alternative total allowable catch for certain stocks
     
@@ -2781,7 +2785,7 @@ Sustainability measures
     
     (8) The setting or variation of a total allowable catch under this section has effect on and from the first day of the next fishing year for the stock concerned.
     
-    Section 14B: inserted, on 9 September 1999, by [section 8][805] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 14B: inserted, on 9 September 1999, by [section 8][806] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 14C Stock may be declared no longer subject to section 14B
     
@@ -2789,11 +2793,11 @@ Sustainability measures
     
     (2) If an order under subsection (1) is made in respect of any stock, the total allowable catch for the stock must be set under [section 13][19] or [section 14][20], as the case may require.
     
-    Section 14C: inserted, on 9 September 1999, by [section 8][805] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 14C: inserted, on 9 September 1999, by [section 8][806] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 15 Fishing-related mortality of marine mammals or other wildlife
     
-*   (1) If a population management plan has been approved under [section 14F][806] of the Wildlife Act 1953 or [section 3E][807] of the Marine Mammals Protection Act 1978, the Minister---
+*   (1) If a population management plan has been approved under [section 14F][807] of the Wildlife Act 1953 or [section 3E][808] of the Marine Mammals Protection Act 1978, the Minister---
         
     *   (a) shall take all reasonable steps to ensure that the maximum allowable fishing-related mortality level set by the relevant population management plan is not exceeded:
     
@@ -2849,20 +2853,20 @@ Sustainability measures
     
     *   (f) requiring the disposal of any fish, aquatic life, or seaweed in a specified manner.
     
-    Compare: 1983 No 14 [ss 65][808], [85][809]; 1986 No 34 s 13
+    Compare: 1983 No 14 [ss 65][809], [85][810]; 1986 No 34 s 13
 
 ## Part 4  
 Quota management system
 
 #### Application of this Part
     
-*   Heading: substituted, on 1 October 2004, by [section 5][810] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+*   Heading: substituted, on 1 October 2004, by [section 5][811] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 17 Application of Part generally
     
 *   (1) This Part applies to every stock made subject to the quota management system by---
         
-    *   (a) a declaration by the Minister by notice under [section 18][32] (whether made before or after the commencement of [section 5][810] of the Fisheries Amendment Act (No 3) 2004); or
+    *   (a) a declaration by the Minister by notice under [section 18][32] (whether made before or after the commencement of [section 5][811] of the Fisheries Amendment Act (No 3) 2004); or
     
     *   (b) any provision of this Act or any other Act.
     
@@ -2870,7 +2874,7 @@ Quota management system
     
     (3) For the purposes of subsection (1) and this Part, every species or class of fish, aquatic life or seaweed that was, immediately before the commencement of this Part, subject to [Part 2A][741] of the Fisheries Act 1983 is deemed to have been declared by the Minister by notice under [section 18][32] to be subject to the quota management system.
     
-    Section 17: substituted, on 1 October 2004, by [section 5][810] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 17: substituted, on 1 October 2004, by [section 5][811] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 17A Highly migratory species taken outside New Zealand fisheries waters
     
@@ -2888,11 +2892,11 @@ Quota management system
     
     (5) Subsection (4) does not abrogate the obligations of the commercial fisher under this Part and [Part 10][384].
     
-    Section 17A: inserted, on 1 October 2004, by [section 5][810] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 17A: inserted, on 1 October 2004, by [section 5][811] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 #### Declaration of quota management system
     
-*   Heading: inserted, on 1 October 2004, by [section 5][810] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+*   Heading: inserted, on 1 October 2004, by [section 5][811] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 17B Determination that stock or species be subject to quota management system
     
@@ -2934,17 +2938,17 @@ Quota management system
     
     *   (b) listed in any of the appendices to the Convention on International Trade in Endangered Species of Wild Flora and Fauna.
     
-    Section 17B: inserted, on 1 October 2004, by [section 5][810] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 17B: inserted, on 1 October 2004, by [section 5][811] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 17B(5)(b)(ii): substituted, on 27 March 2008, by [section 4][811] of the Fisheries Amendment Act 2008 (2008 No 11).
+    Section 17B(5)(b)(ii): substituted, on 27 March 2008, by [section 4][812] of the Fisheries Amendment Act 2008 (2008 No 11).
     
-    Section 17B(5)(b)(iii): substituted, on 27 March 2008, by [section 4][811] of the Fisheries Amendment Act 2008 (2008 No 11).
+    Section 17B(5)(b)(iii): substituted, on 27 March 2008, by [section 4][812] of the Fisheries Amendment Act 2008 (2008 No 11).
 
 ##### 18 Declaration that new stock subject to quota management system
     
 *   If the Minister determines under [section 17B][31] to make a stock subject to the quota management system, the Minister must, by notice in the _Gazette_, declare the stock to be subject to the quota management system on and from the first day of the fishing year stated in the notice.
     
-    Section 18: substituted, on 1 October 2004, by [section 5][810] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 18: substituted, on 1 October 2004, by [section 5][811] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 19 Matters to be included in notice under section 18
     
@@ -2990,23 +2994,23 @@ Quota management system
     
     (8) \[Repealed\]
     
-    Compare: 1983 No 14 [s 28B(1), (3), (5), (6)][812]; 1986 No 34 s 10
+    Compare: 1983 No 14 [s 28B(1), (3), (5), (6)][813]; 1986 No 34 s 10
     
-    Section 19(2A): inserted, on 1 October 2004, by [section 6(1)][813] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 19(2A): inserted, on 1 October 2004, by [section 6(1)][814] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 19(3): amended, on 1 May 2001, by [section 9(1)][814] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 19(3): amended, on 1 May 2001, by [section 9(1)][815] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 19(4): amended, on 1 May 2001, by [section 9(2)][814] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 19(4): amended, on 1 May 2001, by [section 9(2)][815] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 19(5)(b): amended, on 1 May 2001, by [section 9(3)][814] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 19(5)(b): amended, on 1 May 2001, by [section 9(3)][815] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 19(5A): inserted, on 1 May 2001, by [section 9(4)][814] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 19(5A): inserted, on 1 May 2001, by [section 9(4)][815] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 19(5A): amended, on 27 March 2008, by [section 5][815] of the Fisheries Amendment Act 2008 (2008 No 11).
+    Section 19(5A): amended, on 27 March 2008, by [section 5][816] of the Fisheries Amendment Act 2008 (2008 No 11).
     
-    Section 19(7): substituted, on 1 May 2001, by [section 9(5)][814] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 19(7): substituted, on 1 May 2001, by [section 9(5)][815] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 19(8): repealed, on 1 October 2004, by [section 6(2)][813] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 19(8): repealed, on 1 October 2004, by [section 6(2)][814] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 20 Setting and variation of total allowable commercial catch
     
@@ -3024,9 +3028,9 @@ Quota management system
     
     *   (b) be greater than the total allowable catch set for that stock.
     
-    Compare: 1983 No 14 [s 28C][795]; 1990 No 29 [s 5(1)][798]
+    Compare: 1983 No 14 [s 28C][796]; 1990 No 29 [s 5(1)][799]
     
-    Section 20(1): amended, on 1 October 2001, by [section 5][816] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+    Section 20(1): amended, on 1 October 2001, by [section 5][817] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
 
 ##### 21 Matters to be taken into account in setting or varying any total allowable commercial catch
     
@@ -3054,9 +3058,9 @@ Quota management system
     
     (5) When allowing for recreational interests under subsection (1), the Minister shall take into account any regulations that prohibit or restrict fishing in any area for which regulations have been made following a recommendation made by the Minister under [section 311][601].
     
-    Compare: 1983 No 14 [ss 28C][795], [28OB(1), (2)][797]; 1990 No 29 [ss 5(1)][798], [15][817]
+    Compare: 1983 No 14 [ss 28C][796], [28OB(1), (2)][798]; 1990 No 29 [ss 5(1)][799], [15][818]
     
-    Section 21(4): substituted, on 1 October 2001, by [section 6][818] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+    Section 21(4): substituted, on 1 October 2001, by [section 6][819] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
 
 ##### 22 Effect of reduction of total allowable commercial catch
     
@@ -3102,9 +3106,9 @@ Quota management system
     
     (5) For the purposes of subsection (1), the Crown is a quota owner except in relation to its unencumbered quota.
     
-    Compare: 1983 No 14 [s 28OD][819]; 1990 No 29 [s 15][817]
+    Compare: 1983 No 14 [s 28OD][820]; 1990 No 29 [s 15][818]
     
-    Section 22(1) formula item c paragraph (b): amended, on 1 October 2001, by [section 4][820] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 22(1) formula item c paragraph (b): amended, on 1 October 2001, by [section 4][821] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
 
 ##### 23 Effect of increase in total allowable commercial catch
     
@@ -3168,7 +3172,7 @@ Quota management system
     > 
     > is the number of quota shares to be transferred from the Crown to the eligible person in accordance with this section.
     
-    (3) Every person who was, immediately before the commencement of this section, entitled to quota under [section 28OE(1)(a)][821] of the Fisheries Act 1983 is entitled to a preferential allocation right equivalent to the amount (in kilogrammes) of the reduction in that person's provisional maximum individual transferable quota for the stock under [section 28N][822] of that Act less the amount (in kilogrammes) of any quota allocated to that person under section 28OE(1)(a) of that Act, but that preferential allocation right (which entitles the holder to receive quota shares under subsection (2))---
+    (3) Every person who was, immediately before the commencement of this section, entitled to quota under [section 28OE(1)(a)][822] of the Fisheries Act 1983 is entitled to a preferential allocation right equivalent to the amount (in kilogrammes) of the reduction in that person's provisional maximum individual transferable quota for the stock under [section 28N][823] of that Act less the amount (in kilogrammes) of any quota allocated to that person under section 28OE(1)(a) of that Act, but that preferential allocation right (which entitles the holder to receive quota shares under subsection (2))---
         
     *   (a) shall have effect only while that person continues to be registered on the Quota Register as the owner of shares for that stock, and those shares have been continuously owned by that person since the commencement of this section; and
     
@@ -3218,15 +3222,15 @@ Quota management system
     
     (7) The chief executive shall, as soon as practicable after any reduction in a person's preferential allocation right takes effect, notify the Registrar of Quota for any stock of any quota transfer necessary to give effect to the reduction.
     
-    Compare: 1983 No 14 [s 28OE(1)(a), (5)][821]; 1990 No 29 [s 15][817]
+    Compare: 1983 No 14 [s 28OE(1)(a), (5)][822]; 1990 No 29 [s 15][818]
     
-    Section 23(3)(a): amended, on 1 October 2001, by [section 5(1)][823] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 23(3)(a): amended, on 1 October 2001, by [section 5(1)][824] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
     
-    Section 23(4): substituted, on 1 October 2001, by [section 5(2)][823] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 23(4): substituted, on 1 October 2001, by [section 5(2)][824] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
     
-    Section 23(4A): inserted, on 1 October 2001, by [section 5(2)][823] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 23(4A): inserted, on 1 October 2001, by [section 5(2)][824] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
     
-    Section 23(4B): inserted, on 1 October 2001, by [section 5(2)][823] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 23(4B): inserted, on 1 October 2001, by [section 5(2)][824] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
 
 #### Quota management areas
 
@@ -3240,7 +3244,7 @@ Quota management system
     
     *   (b) in the case of any species or class of fish, aquatic life, or seaweed that, immediately before the date of commencement of this section, was subject to [Part 2A][741] of the Fisheries Act 1983, the quota management area in force for that stock immediately before that date.
     
-    Compare: 1983 No 14 [s 28B(3), (4)][812]; 1986 No 34 s 10
+    Compare: 1983 No 14 [s 28B(3), (4)][813]; 1986 No 34 s 10
 
 ##### 25 Alteration of quota management areas
     
@@ -3308,7 +3312,7 @@ Quota management system
     
     *   (b) the memorial is to the effect that the stock will be affected by the alteration.
     
-    Section 25: substituted, on 1 October 2001, by [section 10][824] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 25: substituted, on 1 October 2001, by [section 10][825] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 25A Alteration of quota management areas with agreement of quota owners
     
@@ -3358,11 +3362,11 @@ Quota management system
     
     (3) The agreement must include provisions to resolve any grievance of a quota owner who holds quota shares in any area affected by the proposed alteration only if required by the Minister.
     
-    Section 25A: inserted, on 1 October 2001, by [section 10][824] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 25A: inserted, on 1 October 2001, by [section 10][825] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 25A(1)(e): substituted, on 1 October 2001, by [section 6(1)][825] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 25A(1)(e): substituted, on 1 October 2001, by [section 6(1)][826] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
     
-    Section 25A(2)(d): substituted, on 1 October 2001, by [section 6(2)][825] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 25A(2)(d): substituted, on 1 October 2001, by [section 6(2)][826] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
 
 ##### 25B Alteration of quota management areas without agreement of quota owners
     
@@ -3392,9 +3396,9 @@ Quota management system
         
         
     
-    Section 25B: inserted, on 1 October 2001, by [section 10][824] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 25B: inserted, on 1 October 2001, by [section 10][825] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 25B(d): substituted, on 1 October 2001, by [section 7][826] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 25B(d): substituted, on 1 October 2001, by [section 7][827] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
 
 ##### 26 Effect on quota if quota management area altered
     
@@ -3418,7 +3422,7 @@ Quota management system
     
     (6) This section does not confer on Te Ohu Kai Moana Trustee Limited any entitlement to any further allocation of quota under [section 44][72] or under any other enactment.
     
-    Section 26: substituted, on 1 October 2001, by [section 10][824] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 26: substituted, on 1 October 2001, by [section 10][825] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
     Section 26(6): amended, on 29 November 2004, by [section 214][763] of the Maori Fisheries Act 2004 (2004 No 78).
 
@@ -3426,29 +3430,29 @@ Quota management system
 
 \[Repealed\]
     
-*   Heading: repealed, on 9 September 1999, by [section 85(a)][827] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+*   Heading: repealed, on 9 September 1999, by [section 85(a)][828] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 27 Characteristics of individual transferable quota
     
 *   \[Repealed\]
     
-    Section 27: repealed, on 9 September 1999, by [section 85(a)][827] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 27: repealed, on 9 September 1999, by [section 85(a)][828] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 28 Characteristics of provisional individual transferable quota
     
 *   \[Repealed\]
     
-    Section 28: repealed, on 9 September 1999, by [section 85(a)][827] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 28: repealed, on 9 September 1999, by [section 85(a)][828] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 29 Characteristics of provisional catch history
     
 *   \[Repealed\]
     
-    Section 29: repealed, on 9 September 1999, by [section 85(a)][827] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 29: repealed, on 9 September 1999, by [section 85(a)][828] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 #### Basis for allocation of quota
     
-*   Heading: inserted, on 1 October 2004, by [section 7][828] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+*   Heading: inserted, on 1 October 2004, by [section 7][829] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 29A Basis for allocation of quota
     
@@ -3464,7 +3468,7 @@ Quota management system
     
     *   (d) highly migratory species outside New Zealand fisheries waters.
     
-    Section 29A: inserted, on 1 October 2004, by [section 7][828] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 29A: inserted, on 1 October 2004, by [section 7][829] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 29B Allocation to Crown and Te Ohu Kai Moana Trustee Limited
     
@@ -3476,7 +3480,7 @@ Quota management system
     
     (2) The allocation takes effect on the first day of the fishing year in respect of which the stock becomes a quota management stock.
     
-    Section 29B: inserted, on 1 October 2004, by [section 7][828] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 29B: inserted, on 1 October 2004, by [section 7][829] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
     Section 29B heading: amended, on 29 November 2004, by [section 214][763] of the Maori Fisheries Act 2004 (2004 No 78).
     
@@ -3488,13 +3492,13 @@ Quota management system
     
 *   \[Repealed\]
     
-    Section 30: repealed, on 1 October 2004, by [section 8][829] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 30: repealed, on 1 October 2004, by [section 8][830] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 31 Manner of calculating provisional catch history
     
 *   \[Repealed\]
     
-    Section 31: repealed, on 1 October 2004, by [section 9][830] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 31: repealed, on 1 October 2004, by [section 9][831] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 #### Calculation of provisional catch history if no individual catch entitlement
 
@@ -3506,11 +3510,11 @@ Quota management system
             
         *   (i) \[Repealed\]
         
-        *   (ii) was issued a fishing permit under [section 2(2)][831] of the Fisheries Amendment Act 1994; or
+        *   (ii) was issued a fishing permit under [section 2(2)][832] of the Fisheries Amendment Act 1994; or
         
         *   (iii) in the case of any highly migratory species outside New Zealand fisheries waters or tuna inside New Zealand fisheries waters, at any time during any applicable qualifying year,---
                 
-            *   (A) held a fishing permit or high seas fishing permit issued under [section 63][832] of the Fisheries Act 1983 or under [section 91][164] or [section 113H][203] that authorised the holder to take the stock; or
+            *   (A) held a fishing permit or high seas fishing permit issued under [section 63][833] of the Fisheries Act 1983 or under [section 91][164] or [section 113H][203] that authorised the holder to take the stock; or
             
             *   (B) in the judgment of the chief executive, held a valid authority to take the stock using a New Zealand ship in the national fisheries jurisdiction of a foreign country; or
             
@@ -3526,7 +3530,7 @@ Quota management system
     
     (2) For the purposes of this Part, an _eligible return_---
         
-    *   (a) means a lawfully completed catch landing return or a catch, effort, and landing return as referred to in the [Fisheries (Reporting) Regulations 2001][833] or the Fisheries (Reporting) Regulations 1990 that---
+    *   (a) means a lawfully completed catch landing return or a catch, effort, and landing return as referred to in the [Fisheries (Reporting) Regulations 2001][834] or the Fisheries (Reporting) Regulations 1990 that---
             
         *   (i) in the case of any stock referred to in subparagraph (ii) or subparagraph (iii) of subsection (1)(a), was given to the chief executive on or before the 15th day after the close of each applicable qualifying year; or
         
@@ -3542,19 +3546,19 @@ Quota management system
         
         
     
-    Section 32(1): amended, on 1 October 2004, by [section 10(1)(a)][834] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 32(1): amended, on 1 October 2004, by [section 10(1)(a)][835] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 32(1)(a)(i): repealed, on 1 October 2004, by [section 10(1)(b)][834] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 32(1)(a)(i): repealed, on 1 October 2004, by [section 10(1)(b)][835] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 32(1)(a)(iii): substituted, on 1 October 2004, by [section 10(2)][834] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 32(1)(a)(iii): substituted, on 1 October 2004, by [section 10(2)][835] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
     Section 32(1)(b): substituted, on 25 August 2005, by [section 75][772] of the Overseas Investment Act 2005 (2005 No 82).
     
-    Section 32(2): substituted, on 1 October 2004, by [section 10(3)][834] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 32(2): substituted, on 1 October 2004, by [section 10(3)][835] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 32A Application of Part 4 to estate of deceased fishing permit holder
     
-*   (1) Subsections (2) and (3) apply for the purposes of this Part, in relation to any fishing permit other than a fishing permit to which [section 63A][835] of the Fisheries Act 1983 or [section 93A][167] of this Act relates, where the holder of the fishing permit has died.
+*   (1) Subsections (2) and (3) apply for the purposes of this Part, in relation to any fishing permit other than a fishing permit to which [section 63A][836] of the Fisheries Act 1983 or [section 93A][167] of this Act relates, where the holder of the fishing permit has died.
     
     (2) The deceased's estate must be treated as the holder of the fishing permit for the purposes of this Part.
     
@@ -3562,21 +3566,21 @@ Quota management system
     
     (4) In this section, _fishing permit_ includes a high seas fishing permit issued under [section 113H][203].
     
-    Section 32A: inserted, on 9 September 1999, by [section 12][836] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 32A: inserted, on 9 September 1999, by [section 12][837] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 32A(4): added, on 1 October 2004, by [section 11][837] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 32A(4): added, on 1 October 2004, by [section 11][838] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 32B Expiry of section 32A
     
 *   \[Repealed\]
     
-    Section 32B: repealed, on 1 October 2004, by [section 12][838] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 32B: repealed, on 1 October 2004, by [section 12][839] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 33 Qualifying years
     
 *   For the purposes of this Part, the qualifying year or qualifying years are,---
         
-    *   (a) in the case of a person eligible under [section 32(1)(a)(ii)][55] to receive provisional catch history by virtue of a fishing permit issued under [section 2(2)][831] of the Fisheries Amendment Act 1994, either---
+    *   (a) in the case of a person eligible under [section 32(1)(a)(ii)][55] to receive provisional catch history by virtue of a fishing permit issued under [section 2(2)][832] of the Fisheries Amendment Act 1994, either---
             
         *   (i) the first consecutive 12 months following the date of issue of the fishing permit; or
         
@@ -3588,7 +3592,7 @@ Quota management system
     
     *   (c) in any other case, the fishing years commencing respectively on 1 October 1990 and 1 October 1991\.
     
-    Section 33(a): substituted, on 13 August 2004, by [section 4][839] of the Fisheries Amendment Act (No 2) 2004 (2004 No 71).
+    Section 33(a): substituted, on 13 August 2004, by [section 4][840] of the Fisheries Amendment Act (No 2) 2004 (2004 No 71).
 
 ##### 34 Calculation of provisional catch history
     
@@ -3620,19 +3624,19 @@ Quota management system
     
     (2) For the purposes of this Part and [Part 15][511], the term _eligible catch_ means the total weight of all the catch of the relevant stock lawfully taken and lawfully reported as landed or otherwise lawfully disposed of by a person eligible to receive provisional catch history under [section 32][55] during the applicable qualifying years; and also includes fish, aquatic life, or seaweed of that stock reported as taken and used as bait; but does not include---
         
-    *   (a) fish, aquatic life, or seaweed seized by a fishery officer under [section 80][840] of the Fisheries Act 1983 or [section 207][420] of this Act, if the fish, aquatic life, or seaweed (or the proceeds of sale thereof) were forfeit to the Crown:
+    *   (a) fish, aquatic life, or seaweed seized by a fishery officer under [section 80][841] of the Fisheries Act 1983 or [section 207][420] of this Act, if the fish, aquatic life, or seaweed (or the proceeds of sale thereof) were forfeit to the Crown:
     
     *   (b) fish, aquatic life, or seaweed, other than highly migratory species, taken outside New Zealand fisheries waters (even though such fish, aquatic life, or seaweed may be deemed to have been taken within New Zealand fisheries waters by the operation of this Act or the [Fisheries Act 1983][738]):
     
-    *   (c) fish, aquatic life, or seaweed (other than fish, aquatic life or seaweed taken by persons granted fishing permits under [section 2(2)][831] of the Fisheries Amendment Act 1994) taken under a special permit granted under this Act or under [section 64][841] of the Fisheries Act 1983\.
+    *   (c) fish, aquatic life, or seaweed (other than fish, aquatic life or seaweed taken by persons granted fishing permits under [section 2(2)][832] of the Fisheries Amendment Act 1994) taken under a special permit granted under this Act or under [section 64][842] of the Fisheries Act 1983\.
     
-    Section 34(1)(a): amended, on 1 October 2004, by [section 13(1)][842] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 34(1)(a): amended, on 1 October 2004, by [section 13(1)][843] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 34(1)(b): amended, on 1 October 2004, by [section 13(2)][842] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 34(1)(b): amended, on 1 October 2004, by [section 13(2)][843] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 34(1A): inserted, on 1 October 2004, by [section 13(3)][842] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 34(1A): inserted, on 1 October 2004, by [section 13(3)][843] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 34(2)(b): amended, on 1 October 2004, by [section 13(4)][842] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 34(2)(b): amended, on 1 October 2004, by [section 13(4)][843] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 35 Notification of eligibility to receive provisional catch history
     
@@ -3714,23 +3718,23 @@ Quota management system
     
     Section 35(1)(b)(ii)(B): substituted, on 25 August 2005, by [section 75][772] of the Overseas Investment Act 2005 (2005 No 82).
     
-    Section 35(1)(c): amended, on 1 October 2004, by [section 14(1)(a)][843] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 35(1)(c): amended, on 1 October 2004, by [section 14(1)(a)][844] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 35(1)(d): amended, on 1 October 2004, by [section 14(1)(b)][843] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 35(1)(d): amended, on 1 October 2004, by [section 14(1)(b)][844] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 35(2)(e): substituted, on 23 June 1998, by [section 10(1)][844] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+    Section 35(2)(e): substituted, on 23 June 1998, by [section 10(1)][845] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
     
-    Section 35(2)(ea): inserted, on 23 June 1998, by [section 10(1)][844] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+    Section 35(2)(ea): inserted, on 23 June 1998, by [section 10(1)][845] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
     
-    Section 35(3): substituted, on 1 October 2004, by [section 14(2)][843] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 35(3): substituted, on 1 October 2004, by [section 14(2)][844] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 35(3)(a): substituted, on 27 March 2008, by [section 6][845] of the Fisheries Amendment Act 2008 (2008 No 11).
+    Section 35(3)(a): substituted, on 27 March 2008, by [section 6][846] of the Fisheries Amendment Act 2008 (2008 No 11).
     
-    Section 35(4)(b): amended, on 1 October 2004, by [section 14(3)][843] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 35(4)(b): amended, on 1 October 2004, by [section 14(3)][844] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 35(6): repealed, on 1 October 2004, by [section 14(4)][843] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 35(6): repealed, on 1 October 2004, by [section 14(4)][844] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 35(7): repealed, on 1 July 2000, by [section 6][846] of the Fisheries Amendment Act 2000 (2000 No 20).
+    Section 35(7): repealed, on 1 July 2000, by [section 6][847] of the Fisheries Amendment Act 2000 (2000 No 20).
 
 ##### 35A Amendment of notification of eligibility to receive provisional catch history
     
@@ -3770,7 +3774,7 @@ Quota management system
     
     *   (b) all notifications received under [section 35(5)][60] in respect of that notice must be treated as having been withdrawn.
     
-    Section 35A: inserted, on 9 September 1999, by [section 13][847] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 35A: inserted, on 9 September 1999, by [section 13][848] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 36 Notification of allocation of provisional catch history
     
@@ -3818,9 +3822,9 @@ Quota management system
     
     (5) As soon as practicable after the specified date referred to in subsection (2)(c)(ii), the chief executive shall notify the Registrar of Quota of whether any person or the chief executive has appealed to the Catch History Review Committee under [section 51][89] in respect of any provisional catch history.
     
-    Section 36(1): amended, on 1 October 2001, by [section 6][848] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 36(1): amended, on 1 October 2001, by [section 6][849] of the Fisheries Amendment Act 2001 (2001 No 65).
     
-    Section 36(1)(a): amended, on 23 June 1998, by [section 11][849] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+    Section 36(1)(a): amended, on 23 June 1998, by [section 11][850] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
 
 ##### 37 Transfer of provisional catch history
     
@@ -3852,7 +3856,7 @@ Quota management system
     
     (4) A transferee shall lodge a copy of the transfer, together with the prescribed fee (if any) with the Registrar of Quota and the Registrar shall record the transfer in the register and shall notify the chief executive, the transferor, and the transferee accordingly.
     
-    Section 37(1)(b): substituted, on 1 October 2001, by [section 7(1)][850] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 37(1)(b): substituted, on 1 October 2001, by [section 7(1)][851] of the Fisheries Amendment Act 2001 (2001 No 65).
     
     Section 37(1)(d): amended, on 9 September 1999, pursuant to [section 90(2)][773] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
@@ -3862,31 +3866,31 @@ Quota management system
     
 *   \[Repealed\]
     
-    Section 38: repealed, on 1 October 2004, by [section 15][851] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 38: repealed, on 1 October 2004, by [section 15][852] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 #### Allocation of provisional catch history based on individual catch entitlement
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 October 2004, by [section 15][851] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+*   Heading: repealed, on 1 October 2004, by [section 15][852] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 39 Criteria of eligibility to receive provisional catch history for stock controlled by individual catch entitlement
     
 *   \[Repealed\]
     
-    Section 39: repealed, on 1 October 2004, by [section 15][851] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 39: repealed, on 1 October 2004, by [section 15][852] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 40 Calculation of provisional catch history based on individual catch entitlement
     
 *   \[Repealed\]
     
-    Section 40: repealed, on 1 October 2004, by [section 15][851] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 40: repealed, on 1 October 2004, by [section 15][852] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 41 Notification of eligibility to receive provisional catch history on basis of individual catch entitlement
     
 *   \[Repealed\]
     
-    Section 41: repealed, on 1 October 2004, by [section 15][851] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 41: repealed, on 1 October 2004, by [section 15][852] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 #### Allocation of quota
 
@@ -3898,7 +3902,7 @@ Quota management system
     
     *   (b) the value of 1 share is equal to one hundred-millionth of the total allowable commercial catch for the stock.
     
-    Compare: 1983 No 14 [s 28O(2)][852]; 1986 No 34 s 10
+    Compare: 1983 No 14 [s 28O(2)][853]; 1986 No 34 s 10
 
 ##### 43 Rounding of amounts or shares
     
@@ -3922,11 +3926,11 @@ Quota management system
     
     Section 44(1): amended, on 29 November 2004, by [section 214][763] of the Maori Fisheries Act 2004 (2004 No 78).
     
-    Section 44(2): amended, on 1 October 2004, by [section 16(a)][853] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 44(2): amended, on 1 October 2004, by [section 16(a)][854] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 44(2): amended, on 1 October 2004, by [section 16(b)][853] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 44(2): amended, on 1 October 2004, by [section 16(b)][854] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 44(3): repealed, on 1 October 2004, by [section 16(c)][853] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 44(3): repealed, on 1 October 2004, by [section 16(c)][854] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 45 Criteria of eligibility to receive quota
     
@@ -3946,11 +3950,11 @@ Quota management system
     
     *   (c) has obtained for the stock, whether by an allocation or a transfer in accordance with this Act, provisional catch history that is recorded in that person's name in the Quota Register.
     
-    Section 45(a)(i): substituted, on 1 October 2004, by [section 17][854] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 45(a)(i): substituted, on 1 October 2004, by [section 17][855] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 45(a)(ii): amended, on 9 September 1999, by [section 16(1)][855] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 45(a)(ii): amended, on 9 September 1999, by [section 16(1)][856] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 45(a)(iii): added, on 9 September 1999, by [section 16(2)][855] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 45(a)(iii): added, on 9 September 1999, by [section 16(2)][856] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
     Section 45(b): substituted, on 25 August 2005, by [section 75][772] of the Overseas Investment Act 2005 (2005 No 82).
 
@@ -3958,7 +3962,7 @@ Quota management system
     
 *   If a fishing permit or high seas fishing permit has been suspended under this Act for non-payment of levies payable under [Part 14][494] or deemed value amounts payable under this Part, the chief executive may, until the levies or deemed value amounts are paid in full, withhold any quota that would, but for this section, have been allocated in respect of any provisional catch history held by the permit holder.
     
-    Section 46: amended, on 1 October 2004, by [section 18][856] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 46: amended, on 1 October 2004, by [section 18][857] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 47 Allocation of quota on basis of provisional catch history
     
@@ -3986,13 +3990,13 @@ Quota management system
     
     (6) Any quota allocated under this section shall take effect on and from the first day of the fishing year in which that stock becomes a quota management stock.
     
-    Section 47(1): amended, on 1 October 2004, by [section 19(1)(a)][857] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 47(1): amended, on 1 October 2004, by [section 19(1)(a)][858] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 47(1): amended, on 1 October 2004, by [section 19(1)(b)][857] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 47(1): amended, on 1 October 2004, by [section 19(1)(b)][858] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 47(1): amended, on 1 July 2000, by [section 9][858] of the Fisheries Amendment Act 2000 (2000 No 20).
+    Section 47(1): amended, on 1 July 2000, by [section 9][859] of the Fisheries Amendment Act 2000 (2000 No 20).
     
-    Section 47(1A): inserted, on 1 October 2004, by [section 19(2)][857] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 47(1A): inserted, on 1 October 2004, by [section 19(2)][858] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 48 Notification of allocation of quota
     
@@ -4010,7 +4014,7 @@ Quota management system
     
     Section 48(1): amended, on 29 November 2004, by [section 214][763] of the Maori Fisheries Act 2004 (2004 No 78).
     
-    Section 48(2): repealed, on 1 October 2004, by [section 20][859] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 48(2): repealed, on 1 October 2004, by [section 20][860] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 49 Unallocated total allowable commercial catch to be held by Crown
     
@@ -4026,17 +4030,17 @@ Quota management system
     
     (4) When any quota for a Chatham Islands quota management area, created in accordance with [section 19][33], is allocated to the Crown under subsection (1) and becomes individual transferable quota, the Crown shall transfer that quota to the Chatham Islands Enterprise Trust.
     
-    Section 49 heading: amended, on 23 June 1998, by [section 13][860] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+    Section 49 heading: amended, on 23 June 1998, by [section 13][861] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
     
-    Section 49(1)(b): substituted, on 1 October 2004, by [section 21][861] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 49(1)(b): substituted, on 1 October 2004, by [section 21][862] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 49(3): amended, on 23 June 1998, by [section 13][860] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+    Section 49(3): amended, on 23 June 1998, by [section 13][861] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
 
 ##### 49A Surrender of quota to Crown
     
 *   Any owner of quota who does not also hold any fishing permit, high seas fishing permit, licence, vessel registration, or approval under this Act may, if the quota is not subject to any caveat, mortgage, or other interest registered on the quota register (other than a settlement quota interest), surrender that quota to the Crown.
     
-    Section 49A: inserted, on 1 October 2004, by [section 22][862] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 49A: inserted, on 1 October 2004, by [section 22][863] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
     Section 49A: amended, on 29 November 2004, by [section 214][763] of the Maori Fisheries Act 2004 (2004 No 78).
 
@@ -4052,19 +4056,19 @@ Quota management system
     
     *   (d) cancel any provisional catch history held by the Crown (and notify the Registrar accordingly).
     
-    (1A) Despite subsection (1), if settlement quota is held by the Crown as a result of forfeiture under this Act, the chief executive must, as soon as practicable after the date of forfeiture, endeavour to sell the quota to Te Ohu Kai Moana Trustee Limited or to 1 or more mandated iwi organisations in accordance with [sections 161][863] (except subsection (2)) and [163][864] of the Maori Fisheries Act 2004\.
+    (1A) Despite subsection (1), if settlement quota is held by the Crown as a result of forfeiture under this Act, the chief executive must, as soon as practicable after the date of forfeiture, endeavour to sell the quota to Te Ohu Kai Moana Trustee Limited or to 1 or more mandated iwi organisations in accordance with [sections 161][864] (except subsection (2)) and [163][865] of the Maori Fisheries Act 2004\.
     
-    (1B) If, within 18 months of the date of forfeiture, all of the settlement quota referred to in subsection (1A) has not been sold by the Crown in accordance with [sections 161][863] (except subsection (2)) and [163][864] of the Maori Fisheries Act 2004, the chief executive must transfer the remaining settlement quota to Te Ohu Kai Moana Trustee Limited.
+    (1B) If, within 18 months of the date of forfeiture, all of the settlement quota referred to in subsection (1A) has not been sold by the Crown in accordance with [sections 161][864] (except subsection (2)) and [163][865] of the Maori Fisheries Act 2004, the chief executive must transfer the remaining settlement quota to Te Ohu Kai Moana Trustee Limited.
     
     (1C) If settlement quota is transferred by the chief executive under subsection (1B), Te Ohu Kai Moana Trustee Limited must pay to the Crown a sum equivalent to the total of the cost recovery levies paid by the Crown in respect of the settlement quota for the period that the quota was held by the Crown.
     
     (2) Subject to this Act, if unencumbered quota or interests in quota are owned by or on behalf of the Crown, the Crown shall have all the rights and obligations that would be enjoyed by any owner of such quota or interest in quota other than the Crown.
     
-    Compare: 1983 No 14 [s 28U(1), (3)][865]; 1989 No 159 s 65; 1992 No 121 [s 27][866]
+    Compare: 1983 No 14 [s 28U(1), (3)][866]; 1989 No 159 s 65; 1992 No 121 [s 27][867]
     
-    Section 50(1) heading: substituted, on 1 October 2001, by [section 14][867] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+    Section 50(1) heading: substituted, on 1 October 2001, by [section 14][868] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
     
-    Section 50(1): substituted, on 1 October 2001, by [section 14][867] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+    Section 50(1): substituted, on 1 October 2001, by [section 14][868] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
     
     Section 50(1A): inserted, on 29 November 2004, by [section 214][763] of the Maori Fisheries Act 2004 (2004 No 78).
     
@@ -4076,49 +4080,49 @@ Quota management system
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 October 2004, by [section 23(1)][868] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+*   Heading: repealed, on 1 October 2004, by [section 23(1)][869] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 50A Notification of allocation of provisional catch history
     
 *   \[Repealed\]
     
-    Section 50A: repealed, on 1 October 2004, by [section 23(1)][868] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 50A: repealed, on 1 October 2004, by [section 23(1)][869] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 50B Allocation of quota on basis of provisional catch history
     
 *   \[Repealed\]
     
-    Section 50B: repealed, on 1 October 2004, by [section 23(1)][868] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 50B: repealed, on 1 October 2004, by [section 23(1)][869] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 50C Notification of allocation of quota
     
 *   \[Repealed\]
     
-    Section 50C: repealed, on 1 October 2004, by [section 23(1)][868] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 50C: repealed, on 1 October 2004, by [section 23(1)][869] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 50D Quota holders may offer individual transferable quota to the Crown
     
 *   \[Repealed\]
     
-    Section 50D: repealed, on 1 October 2004, by [section 23(1)][868] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 50D: repealed, on 1 October 2004, by [section 23(1)][869] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 50E Chief executive to determine whether more than 80 000 000 quota shares held by other quota owners
     
 *   \[Repealed\]
     
-    Section 50E: repealed, on 1 October 2004, by [section 23(1)][868] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 50E: repealed, on 1 October 2004, by [section 23(1)][869] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 50F Crown acquisition of quota where more than 80 000 000 quota shares held by other quota owners
     
 *   \[Repealed\]
     
-    Section 50F: repealed, on 1 October 2004, by [section 23(1)][868] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 50F: repealed, on 1 October 2004, by [section 23(1)][869] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 50G Compensation for reduction of quota
     
 *   \[Repealed\]
     
-    Section 50G: repealed, on 1 October 2004, by [section 23(1)][868] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 50G: repealed, on 1 October 2004, by [section 23(1)][869] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 #### Appeals
 
@@ -4160,19 +4164,19 @@ Quota management system
     
     *   (b) make copies of the appeal available on payment of a reasonable charge.
     
-    Section 51(1): amended, on 1 October 2004, by [section 24(1)(a)][869] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 51(1): amended, on 1 October 2004, by [section 24(1)(a)][870] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 51(1)(a): repealed, on 1 October 2004, by [section 24(1)(b)][869] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 51(1)(a): repealed, on 1 October 2004, by [section 24(1)(b)][870] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 51(1)(b): amended, on 1 October 2004, by [section 24(1)(c)][869] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 51(1)(b): amended, on 1 October 2004, by [section 24(1)(c)][870] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 51(1)(b)(i): amended, on 1 October 2004, by [section 24(1)(d)][869] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 51(1)(b)(i): amended, on 1 October 2004, by [section 24(1)(d)][870] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 51(1)(b)(iv): amended, on 1 October 2004, by [section 24(1)(d)][869] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 51(1)(b)(iv): amended, on 1 October 2004, by [section 24(1)(d)][870] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 51(2): amended, on 1 October 2004, by [section 24(2)(a)][869] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 51(2): amended, on 1 October 2004, by [section 24(2)(a)][870] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 51(2): amended, on 1 October 2004, by [section 24(2)(b)][869] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 51(2): amended, on 1 October 2004, by [section 24(2)(b)][870] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 52 Effect of decision to alter provisional catch history
     
@@ -4236,39 +4240,39 @@ Quota management system
     
     Section 52(1): amended, on 9 September 1999, pursuant to [section 90(2)][773] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 52(1)(b): amended, on 1 October 2004, by [section 25(1)][870] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 52(1)(b): amended, on 1 October 2004, by [section 25(1)][871] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 52(1)(c): repealed, on 1 October 2004, by [section 25(1)][870] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 52(1)(c): repealed, on 1 October 2004, by [section 25(1)][871] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
     Section 52(2): amended, on 9 September 1999, pursuant to [section 90(2)][773] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 52(3)(c)(ii): amended, on 29 September 2000, by [section 3(1)][871] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 52(3)(c)(ii): amended, on 29 September 2000, by [section 3(1)][872] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 52(3)(d): substituted, on 29 September 2000, by [section 3(2)][871] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 52(3)(d): substituted, on 29 September 2000, by [section 3(2)][872] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
     Section 52(3)(d)(i): amended, on 29 November 2004, by [section 214][763] of the Maori Fisheries Act 2004 (2004 No 78).
     
     Section 52(3)(d)(ii): amended, on 29 November 2004, by [section 214][763] of the Maori Fisheries Act 2004 (2004 No 78).
     
-    Section 52(3)(d)(ii): amended, on 26 May 2001, by [section 8(1)][872] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 52(3)(d)(ii): amended, on 26 May 2001, by [section 8(1)][873] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
     
     Section 52(3)(d)(iii): amended, on 29 November 2004, by [section 214][763] of the Maori Fisheries Act 2004 (2004 No 78).
     
-    Section 52(3)(d)(iii): amended, on 26 May 2001, by [section 8(2)][872] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 52(3)(d)(iii): amended, on 26 May 2001, by [section 8(2)][873] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
     
-    Section 52(4): amended, on 1 October 2004, by [section 25(2)(a)][870] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 52(4): amended, on 1 October 2004, by [section 25(2)(a)][871] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 52(4)(b): amended, on 1 October 2004, by [section 25(2)(b)][870] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 52(4)(b): amended, on 1 October 2004, by [section 25(2)(b)][871] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 52(4)(b)(ii): amended, on 29 September 2000, by [section 3(3)(a)][871] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 52(4)(b)(ii): amended, on 29 September 2000, by [section 3(3)(a)][872] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 52(4)(c): repealed, on 1 October 2004, by [section 25(2)(b)][870] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 52(4)(c): repealed, on 1 October 2004, by [section 25(2)(b)][871] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 52(4A): inserted, on 29 September 2000, by [section 3(4)][871] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 52(4A): inserted, on 29 September 2000, by [section 3(4)][872] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 52(4A): amended, on 1 October 2004, by [section 25(3)][870] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 52(4A): amended, on 1 October 2004, by [section 25(3)][871] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 52(7): added, on 26 May 2001, by [section 8(4)][872] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 52(7): added, on 26 May 2001, by [section 8(4)][873] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
 
 ##### 53 Calculation of entitlement to quota following appeal
     
@@ -4288,11 +4292,11 @@ Quota management system
     
     (3) \[Repealed\]
     
-    Section 53(1): substituted, on 29 September 2000, by [section 4][873] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 53(1): substituted, on 29 September 2000, by [section 4][874] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 53(2): amended, on 1 July 2000, by [section 12(1)][874] of the Fisheries Amendment Act 2000 (2000 No 20).
+    Section 53(2): amended, on 1 July 2000, by [section 12(1)][875] of the Fisheries Amendment Act 2000 (2000 No 20).
     
-    Section 53(3): repealed, on 1 October 2004, by [section 26][875] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 53(3): repealed, on 1 October 2004, by [section 26][876] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 54 Allocation of quota if proceedings determined late in fishing year
     
@@ -4322,13 +4326,13 @@ Quota management system
     
     Section 55: amended, on 29 November 2004, by [section 214][763] of the Maori Fisheries Act 2004 (2004 No 78).
     
-    Section 55: amended, on 1 October 2000, by [section 5][876] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 55: amended, on 1 October 2000, by [section 5][877] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 55(b): amended, on 1 October 2004, by [section 27][877] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 55(b): amended, on 1 October 2004, by [section 27][878] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 #### Overseas investment in and aggregation of quota
     
-*   Heading: substituted, on 25 August 2005, by [section 73][878] of the Overseas Investment Act 2005 (2005 No 82).
+*   Heading: substituted, on 25 August 2005, by [section 73][879] of the Overseas Investment Act 2005 (2005 No 82).
 
 ##### 56 Purpose of overseas investment fishing provisions
     
@@ -4338,29 +4342,29 @@ Quota management system
     
     *   (b) imposing conditions on those overseas investments.
     
-    Section 56: substituted, on 25 August 2005, by [section 73][878] of the Overseas Investment Act 2005 (2005 No 82).
+    Section 56: substituted, on 25 August 2005, by [section 73][879] of the Overseas Investment Act 2005 (2005 No 82).
 
 ##### 57 Overview of overseas investment fishing provisions
     
 *   (1) The general scheme and effect of the provisions governing overseas investments in fishing quota are as follows:
         
-    *   (a) their interpretation is covered by [section 57A][97] of this Act and [Part 1][879] of the Overseas Investment Act 2005:
+    *   (a) their interpretation is covered by [section 57A][97] of this Act and [Part 1][880] of the Overseas Investment Act 2005:
     
     *   (b) when consent is required and the criteria for consent are stated in [sections 57B to 57I][98]:
     
-    *   (c) the procedure for obtaining consent and imposing conditions of consent is set out in [subpart 2][880] of Part 2 of the Overseas Investment Act 2005:
+    *   (c) the procedure for obtaining consent and imposing conditions of consent is set out in [subpart 2][881] of Part 2 of the Overseas Investment Act 2005:
     
-    *   (d) who administers those provisions is set out in [section 57J][106] of this Act and the role of the main regulator is set out in [subpart 3][881] of Part 2 of the Overseas Investment Act 2005:
+    *   (d) who administers those provisions is set out in [section 57J][106] of this Act and the role of the main regulator is set out in [subpart 3][882] of Part 2 of the Overseas Investment Act 2005:
     
-    *   (e) the regulator's monitoring powers are set out in [subpart 4][882] of Part 2 of the Overseas Investment Act 2005:
+    *   (e) the regulator's monitoring powers are set out in [subpart 4][883] of Part 2 of the Overseas Investment Act 2005:
     
-    *   (f) enforcement matters, including offences, penalties, and the court's powers to make orders for effective enforcement, are set out in [subpart 5][883] of Part 2 of the Overseas Investment Act 2005 and additional forfeiture and other remedies are set out in [sections 57K to 58B][107] of this Act:
+    *   (f) enforcement matters, including offences, penalties, and the court's powers to make orders for effective enforcement, are set out in [subpart 5][884] of Part 2 of the Overseas Investment Act 2005 and additional forfeiture and other remedies are set out in [sections 57K to 58B][107] of this Act:
     
-    *   (g) regulations may be made under [subpart 6][884] of Part 2 of the Overseas Investment Act 2005\.
+    *   (g) regulations may be made under [subpart 6][885] of Part 2 of the Overseas Investment Act 2005\.
     
     (2) This section is a guide only to the general scheme and effect of those provisions.
     
-    Section 57: substituted, on 25 August 2005, by [section 73][878] of the Overseas Investment Act 2005 (2005 No 82).
+    Section 57: substituted, on 25 August 2005, by [section 73][879] of the Overseas Investment Act 2005 (2005 No 82).
 
 ##### 57A Interpretation of overseas investment fishing provisions
     
@@ -4380,27 +4384,27 @@ Quota management system
     
     (2) In relation to the overseas investment fishing provisions,---
         
-    *   (a) the [Overseas Investment Act 2005][885] incorporates those provisions as if they were part of that Act, so that a reference in that Act to **this Act** includes a reference to those provisions; and
+    *   (a) the [Overseas Investment Act 2005][886] incorporates those provisions as if they were part of that Act, so that a reference in that Act to **this Act** includes a reference to those provisions; and
     
-    *   (b) the terms associate, give effect to an overseas investment, overseas person, securities, transaction, and 25% or more ownership or control interest, and any other term or expression that is defined in the [Overseas Investment Act 2005][885] and used in those provisions, has the same meaning as in that Act; and
+    *   (b) the terms associate, give effect to an overseas investment, overseas person, securities, transaction, and 25% or more ownership or control interest, and any other term or expression that is defined in the [Overseas Investment Act 2005][886] and used in those provisions, has the same meaning as in that Act; and
     
-    *   (c) a term or expression that is defined in this Act and that is used in those provisions (and is not defined in the [Overseas Investment Act 2005][885]) has the same meaning in those provisions.
+    *   (c) a term or expression that is defined in this Act and that is used in those provisions (and is not defined in the [Overseas Investment Act 2005][886]) has the same meaning in those provisions.
     
-    Section 57A: substituted, on 25 August 2005, by [section 73][878] of the Overseas Investment Act 2005 (2005 No 82).
+    Section 57A: substituted, on 25 August 2005, by [section 73][879] of the Overseas Investment Act 2005 (2005 No 82).
 
 ##### 57B Consent required for overseas investments in fishing quota
     
 *   A transaction requires consent under the overseas investment fishing provisions if it will result in an overseas investment in fishing quota.
     
-    Section 57B: inserted, on 25 August 2005, by [section 73][878] of the Overseas Investment Act 2005 (2005 No 82).
+    Section 57B: inserted, on 25 August 2005, by [section 73][879] of the Overseas Investment Act 2005 (2005 No 82).
 
 ##### 57C Consent must be obtained before overseas investment given effect
     
 *   (1) Consent must be obtained for a transaction before the overseas investment is given effect under the transaction.
     
-    (2) The procedure for obtaining consent (including who must obtain consent) is set out in [subpart 2][880] of Part 2 of the Overseas Investment Act 2005\.
+    (2) The procedure for obtaining consent (including who must obtain consent) is set out in [subpart 2][881] of Part 2 of the Overseas Investment Act 2005\.
     
-    Section 57C: inserted, on 25 August 2005, by [section 73][878] of the Overseas Investment Act 2005 (2005 No 82).
+    Section 57C: inserted, on 25 August 2005, by [section 73][879] of the Overseas Investment Act 2005 (2005 No 82).
 
 ##### 57D What are overseas investments in fishing quota
     
@@ -4418,7 +4422,7 @@ Quota management system
         
         
     
-    Section 57D: inserted, on 25 August 2005, by [section 73][878] of the Overseas Investment Act 2005 (2005 No 82).
+    Section 57D: inserted, on 25 August 2005, by [section 73][879] of the Overseas Investment Act 2005 (2005 No 82).
 
 ##### 57E Approach to criteria for consent
     
@@ -4432,11 +4436,11 @@ Quota management system
     
     *   (d) must decline to grant consent if not satisfied that all of the criteria in [section 57G][103] are met.
     
-    (2) For a transaction that is in more than 1 category of overseas investment under this Act and the [Overseas Investment Act 2005][885], the relevant Ministers must have regard to the criteria that apply to all of the relevant categories.
+    (2) For a transaction that is in more than 1 category of overseas investment under this Act and the [Overseas Investment Act 2005][886], the relevant Ministers must have regard to the criteria that apply to all of the relevant categories.
     
     (3) However, if the criteria are the same, the relevant Ministers only need to consider the same criteria once (and not consider them under each relevant category).
     
-    Section 57E: inserted, on 25 August 2005, by [section 73][878] of the Overseas Investment Act 2005 (2005 No 82).
+    Section 57E: inserted, on 25 August 2005, by [section 73][879] of the Overseas Investment Act 2005 (2005 No 82).
 
 ##### 57F Who are relevant overseas persons, and individuals with control, for overseas investments
     
@@ -4454,7 +4458,7 @@ Quota management system
     
     *   (c) the individual or body of individuals who the Ministers consider to have that control (whether directly or indirectly).
     
-    Section 57F: inserted, on 25 August 2005, by [section 73][878] of the Overseas Investment Act 2005 (2005 No 82).
+    Section 57F: inserted, on 25 August 2005, by [section 73][879] of the Overseas Investment Act 2005 (2005 No 82).
 
 ##### 57G Criteria for overseas investments in fishing quota
     
@@ -4468,7 +4472,7 @@ Quota management system
     
     *   (d) all the individuals with control of the relevant overseas person are of good character:
     
-    *   (e) none of the individuals with control of the relevant overseas person are individuals of the kind referred to in [section 15][886] or [16][886] of the Immigration Act 2009 (which list certain persons not eligible for visas or entry permission under that Act):
+    *   (e) none of the individuals with control of the relevant overseas person are individuals of the kind referred to in [section 15][887] or [16][887] of the Immigration Act 2009 (which list certain persons not eligible for visas or entry permission under that Act):
     
     *   (f) the interest in fishing quota is capable of being registered in the Quota Register or the Annual Catch Entitlement Register:
     
@@ -4476,9 +4480,9 @@ Quota management system
     
     (2) _See_ [section 57I][105] in relation to subsection (1)(d) and (e).
     
-    Section 57G: inserted, on 25 August 2005, by [section 73][878] of the Overseas Investment Act 2005 (2005 No 82).
+    Section 57G: inserted, on 25 August 2005, by [section 73][879] of the Overseas Investment Act 2005 (2005 No 82).
     
-    Section 57G(1)(e): substituted, at 2 am on 29 November 2010, by [section 406(1)][887] of the Immigration Act 2009 (2009 No 51).
+    Section 57G(1)(e): substituted, at 2 am on 29 November 2010, by [section 406(1)][888] of the Immigration Act 2009 (2009 No 51).
 
 ##### 57H Factors for determining whether or not overseas investment in fishing quota is in national interest
     
@@ -4508,9 +4512,9 @@ Quota management system
         
         
     
-    *   (b) any other factors that are set out in regulations under the [Overseas Investment Act 2005][885] or that the relevant Ministers, having regard to the circumstances and the nature of the application, think fit.
+    *   (b) any other factors that are set out in regulations under the [Overseas Investment Act 2005][886] or that the relevant Ministers, having regard to the circumstances and the nature of the application, think fit.
     
-    Section 57H: inserted, on 25 August 2005, by [section 73][878] of the Overseas Investment Act 2005 (2005 No 82).
+    Section 57H: inserted, on 25 August 2005, by [section 73][879] of the Overseas Investment Act 2005 (2005 No 82).
 
 ##### 57I Applying good character and Immigration Act 2009 criteria
     
@@ -4520,25 +4524,25 @@ Quota management system
     
     *   (b) any other matter that reflects adversely on the person's fitness to have the particular overseas investment.
     
-    (2) For the purposes of [section 57G(1)(e)][103], an individual is not an individual of the kind referred to in [section 15][888] or [16][889] of the Immigration Act 2009 if a special direction referred to in [section 17(1)(a) ][890]of that Act has been made permitting a visa and entry permission to be granted to that individual under that Act.
+    (2) For the purposes of [section 57G(1)(e)][103], an individual is not an individual of the kind referred to in [section 15][889] or [16][890] of the Immigration Act 2009 if a special direction referred to in [section 17(1)(a) ][891]of that Act has been made permitting a visa and entry permission to be granted to that individual under that Act.
     
-    Section 57I: inserted, on 25 August 2005, by [section 73][878] of the Overseas Investment Act 2005 (2005 No 82).
+    Section 57I: inserted, on 25 August 2005, by [section 73][879] of the Overseas Investment Act 2005 (2005 No 82).
     
-    Section 57I heading: amended, at 2 am on 29 November 2010, by [section 406(1)][887] of the Immigration Act 2009 (2009 No 51).
+    Section 57I heading: amended, at 2 am on 29 November 2010, by [section 406(1)][888] of the Immigration Act 2009 (2009 No 51).
     
-    Section 57I(2): substituted, at 2 am on 29 November 2010, by [section 406(1)][887] of the Immigration Act 2009 (2009 No 51).
+    Section 57I(2): substituted, at 2 am on 29 November 2010, by [section 406(1)][888] of the Immigration Act 2009 (2009 No 51).
 
 ##### 57J Who administers overseas investment fishing provisions
     
-*   The regulator as defined in [section 30][891] of the Overseas Investment Act 2005 administers the overseas investment fishing provisions (except [sections 57K to 58B][107]).
+*   The regulator as defined in [section 30][892] of the Overseas Investment Act 2005 administers the overseas investment fishing provisions (except [sections 57K to 58B][107]).
     
-    Section 57J: inserted, on 25 August 2005, by [section 73][878] of the Overseas Investment Act 2005 (2005 No 82).
+    Section 57J: inserted, on 25 August 2005, by [section 73][879] of the Overseas Investment Act 2005 (2005 No 82).
 
 ##### 57K No person in breach becomes entitled to provisional catch history
     
 *   An overseas person that does not obtain consent when required under the overseas investment fishing provisions has no entitlement to be allocated provisional catch history, and any provisional catch history allocated must be cancelled by the chief executive.
     
-    Section 57K: inserted, on 25 August 2005, by [section 73][878] of the Overseas Investment Act 2005 (2005 No 82).
+    Section 57K: inserted, on 25 August 2005, by [section 73][879] of the Overseas Investment Act 2005 (2005 No 82).
 
 ##### 58 Interest in fishing quota that is overseas investment in fishing quota to be forfeit
     
@@ -4560,7 +4564,7 @@ Quota management system
     
     (5) If A fails to apply for a declaration within the time stipulated in the notice, the relevant interest in fishing quota is forfeit to the Crown without compensation at the end of that period.
     
-    Section 58: substituted, on 25 August 2005, by [section 73][878] of the Overseas Investment Act 2005 (2005 No 82).
+    Section 58: substituted, on 25 August 2005, by [section 73][879] of the Overseas Investment Act 2005 (2005 No 82).
 
 ##### 58A Powers of court on application for declaration under section 58
     
@@ -4578,13 +4582,13 @@ Quota management system
         
         
     
-    Section 58A: inserted, on 25 August 2005, by [section 73][878] of the Overseas Investment Act 2005 (2005 No 82).
+    Section 58A: inserted, on 25 August 2005, by [section 73][879] of the Overseas Investment Act 2005 (2005 No 82).
 
 ##### 58B Interest in fishing quota forfeited under section 58 or section 58A must be dealt with in accordance with section 62
     
 *   An interest in fishing quota that is forfeited under [section 58][108] or [section 58A][109] must be dealt with in accordance with [section 62][114].
     
-    Section 58B: inserted, on 25 August 2005, by [section 73][878] of the Overseas Investment Act 2005 (2005 No 82).
+    Section 58B: inserted, on 25 August 2005, by [section 73][879] of the Overseas Investment Act 2005 (2005 No 82).
 
 ##### 59 Aggregation limits
     
@@ -4612,7 +4616,7 @@ Quota management system
     
     (6A) For the purposes of subsection (1)(e) and [section 60(1)(c)][112], in determining the aggregate percentage ownership of any person in relation to both Foveaux Strait dredge oysters and any other dredge oyster stock,---
         
-    *   (a) 980 Foveaux Strait dredge oysters (or such other number as may be fixed by the Minister under [section 188(5)][386] of this Act or [section 3A(6)][892] of the Fisheries Act 1983) are to be treated as equivalent to 100 kilogrammes; and
+    *   (a) 980 Foveaux Strait dredge oysters (or such other number as may be fixed by the Minister under [section 188(5)][386] of this Act or [section 3A(6)][893] of the Fisheries Act 1983) are to be treated as equivalent to 100 kilogrammes; and
     
     *   (b) the total allowable commercial catch for Foveaux Strait dredge oysters and the quota weight equivalent of quota shares held by any person for Foveaux Strait dredge oysters are to be calculated in kilogrammes accordingly before being aggregated with the relevant weight-related figures in respect of the other dredge oyster stock.
     
@@ -4620,7 +4624,7 @@ Quota management system
     
     (8) Subsection (1) does not apply to the Chatham Islands Enterprise Trust, Te Ohu Kai Moana Trustee Limited, or to the Crown.
     
-    (8A) Subsection (1) does not prevent a person from owning the following quota, in addition to quota owned by that person immediately before the commencement of the [Maori Fisheries Act 2004][893]:
+    (8A) Subsection (1) does not prevent a person from owning the following quota, in addition to quota owned by that person immediately before the commencement of the [Maori Fisheries Act 2004][894]:
         
     *   (a) settlement quota, whether it was acquired by allocation under the Maori Fisheries Act 2004 or by purchase, exchange, or otherwise; or
     
@@ -4628,15 +4632,15 @@ Quota management system
     
     *   (c) in the case of Aotearoa Fisheries Limited or its subcompanies---
             
-        *   (i) quota transferred to it under [section 75][894] of the Maori Fisheries Act 2004 by the Commission or by Te Ohu Kai Moana Trustee Limited:
+        *   (i) quota transferred to it under [section 75][895] of the Maori Fisheries Act 2004 by the Commission or by Te Ohu Kai Moana Trustee Limited:
         
-        *   (ii) quota purchased after the commencement of the [Maori Fisheries Act 2004][893]; or
+        *   (ii) quota purchased after the commencement of the [Maori Fisheries Act 2004][894]; or
         
         
     
-    *   (d) in the case of an asset-holding company of a mandated iwi organisation or a subsidiary of an asset-holding company, quota purchased after the commencement of the [Maori Fisheries Act 2004][893] under an exemption consented to under---
+    *   (d) in the case of an asset-holding company of a mandated iwi organisation or a subsidiary of an asset-holding company, quota purchased after the commencement of the [Maori Fisheries Act 2004][894] under an exemption consented to under---
             
-        *   (i) [section 28W(3)][895] of the Fisheries Act 1983; or
+        *   (i) [section 28W(3)][896] of the Fisheries Act 1983; or
         
         *   (ii) [section 60][112] of the Fisheries Act 1996\.
         
@@ -4650,9 +4654,9 @@ Quota management system
     
     *   (b) any person who is a director or employee of any company of which the person is a director or employee:
     
-    *   (c) any person who is a relative of the person as defined in paragraph (c) of the definition of that term, as it was before the enactment of the [Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009][896] in [section YA 1][897] of the Income Tax Act 2007:
+    *   (c) any person who is a relative of the person as defined in paragraph (c) of the definition of that term, as it was before the enactment of the [Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009][897] in [section YA 1][898] of the Income Tax Act 2007:
     
-    *   (d) any person who would be an associated person under [subpart YB][898] of the Income Tax Act 2007 as it was before the enactment of the [Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009][896], to the extent to which those rules apply for the whole of that Act excluding the 1973, 1988, and 1990 version provisions, with the exception that paragraph (e) of the definition of market value circumstance in [section YA 1][897] of that Act does not apply.
+    *   (d) any person who would be an associated person under [subpart YB][899] of the Income Tax Act 2007 as it was before the enactment of the [Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009][897], to the extent to which those rules apply for the whole of that Act excluding the 1973, 1988, and 1990 version provisions, with the exception that paragraph (e) of the definition of market value circumstance in [section YA 1][898] of that Act does not apply.
     
     *   (e) any beneficiary or trustee of any trust of which the person is a trustee or beneficiary.
     
@@ -4676,31 +4680,31 @@ Quota management system
     
     *   (b) no person is to be regarded as being included with any other person merely because either or both of those persons would be included with Te Ohu Kai Moana Trustee Limited but for paragraph (a); and
     
-    *   (c) no bank registered under the [Reserve Bank of New Zealand Act 1989][899] is to be regarded as being included with any other person merely because the bank has, in the ordinary course of its business as a financier, been granted any interest in quota owned by the person; and
+    *   (c) no bank registered under the [Reserve Bank of New Zealand Act 1989][900] is to be regarded as being included with any other person merely because the bank has, in the ordinary course of its business as a financier, been granted any interest in quota owned by the person; and
     
     *   (d) no person is to be regarded as included with any other person solely because they are both beneficiaries of the same trust.
     
-    Section 59(6): repealed (without coming into force), on 1 October 2001, by [section 9(1)][900] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 59(6): repealed (without coming into force), on 1 October 2001, by [section 9(1)][901] of the Fisheries Amendment Act 2001 (2001 No 65).
     
-    Section 59(6A): inserted, on 1 April 1998, by [section 4][901] of the Fisheries (Fouveaux Strait Dredge Oyster Fishery) Amendment Act 1998 (1998 No 6).
+    Section 59(6A): inserted, on 1 April 1998, by [section 4][902] of the Fisheries (Fouveaux Strait Dredge Oyster Fishery) Amendment Act 1998 (1998 No 6).
     
     Section 59(8): amended, on 29 November 2004, by [section 214][763] of the Maori Fisheries Act 2004 (2004 No 78).
     
     Section 59(8A): inserted, on 29 November 2004, by [section 214][763] of the Maori Fisheries Act 2004 (2004 No 78).
     
-    Section 59(9): repealed (without coming into force), on 1 October 2001, by [section 9(1)][900] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 59(9): repealed (without coming into force), on 1 October 2001, by [section 9(1)][901] of the Fisheries Amendment Act 2001 (2001 No 65).
     
-    Section 59(10): added, on 1 October 2001, by [section 9(2)][900] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 59(10): added, on 1 October 2001, by [section 9(2)][901] of the Fisheries Amendment Act 2001 (2001 No 65).
     
-    Section 59(10)(c): amended, on 1 April 2010, by [section 861][902] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 59(10)(c): amended, on 1 April 2010, by [section 861][903] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 59(10)(c): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][903] of the Income Tax Act 2007 (2007 No 97).
+    Section 59(10)(c): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][904] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 59(10)(d): substituted, on 1 April 2010, by [section 861][902] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 59(10)(d): substituted, on 1 April 2010, by [section 861][903] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 59(10A): inserted, on 29 November 2004, by [section 214][763] of the Maori Fisheries Act 2004 (2004 No 78).
     
-    Section 59(11): added, on 1 October 2001, by [section 9(2)][900] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 59(11): added, on 1 October 2001, by [section 9(2)][901] of the Fisheries Amendment Act 2001 (2001 No 65).
     
     Section 59(11)(a): amended, on 29 November 2004, by [section 214][763] of the Maori Fisheries Act 2004 (2004 No 78).
     
@@ -4740,7 +4744,7 @@ Quota management system
     
     (4) The Minister shall not grant any consent under subsection (1) in any case if quota shares have been acquired by any person (within the meaning of [section 59(10) and (11)][111]) in excess of the then permitted number of shares before the consent is obtained.
     
-    Section 60(4): amended, on 1 October 2001, by [section 10][904] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 60(4): amended, on 1 October 2001, by [section 10][905] of the Fisheries Amendment Act 2001 (2001 No 65).
 
 ##### 61 Quota held in excess of aggregation limits to be forfeit
     
@@ -4758,9 +4762,9 @@ Quota management system
     
     (5) In this section, _person_ has the same meaning as in [section 59(10) and (11)][111].
     
-    Compare: 1983 No 14 [s 28W][895]; 1986 No 34 s 10; 1989 No 159 s 67; 1990 No 29 [s 23][905]; 1991 No 149 [s 17][906]; 1992 No 121 [s 28][907]
+    Compare: 1983 No 14 [s 28W][896]; 1986 No 34 s 10; 1989 No 159 s 67; 1990 No 29 [s 23][906]; 1991 No 149 [s 17][907]; 1992 No 121 [s 28][908]
     
-    Section 61(5): substituted, on 1 October 2001, by [section 11][908] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 61(5): substituted, on 1 October 2001, by [section 11][909] of the Fisheries Amendment Act 2001 (2001 No 65).
 
 ##### 62 Provisions relating to forfeit property
     
@@ -4858,47 +4862,47 @@ Quota management system
     
     (13) For the purpose of assisting the court in determining any application for relief, the chief executive and any employee or agent of the Ministry is entitled to appear before the court and be heard.
     
-    (14) Any forfeiture under [section 58][108] or [section 58A][109] or [section 61][113], and any payment of a sum of money or delivery of property under subsection (7), to persons claiming an interest, shall be in addition to, and not in substitution for, any other penalty that may be imposed by the court or by this Act (but _see_ [section 42(3)][909] of the Overseas Investment Act 2005 in relation to penalties imposed under that section).
+    (14) Any forfeiture under [section 58][108] or [section 58A][109] or [section 61][113], and any payment of a sum of money or delivery of property under subsection (7), to persons claiming an interest, shall be in addition to, and not in substitution for, any other penalty that may be imposed by the court or by this Act (but _see_ [section 42(3)][910] of the Overseas Investment Act 2005 in relation to penalties imposed under that section).
     
     (15) In this section, _associated person_, in relation to a particular person, means a person who is included with the person by virtue of any paragraph of [section 59(10)][111] (as subject to section 59(11)).
     
-    Compare: 1983 No 14 [s 107C][910]; 1990 No 29 [s 52(1)][911]
+    Compare: 1983 No 14 [s 107C][911]; 1990 No 29 [s 52(1)][912]
     
     Section 62(1) **forfeit property**: amended, on 25 August 2005, by [section 75][772] of the Overseas Investment Act 2005 (2005 No 82).
     
     Section 62(2): amended, on 25 August 2005, by [section 75][772] of the Overseas Investment Act 2005 (2005 No 82).
     
-    Section 62(3): amended, on 1 October 1999, by [section 21(a)][912] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 62(3): amended, on 1 October 1999, by [section 21(a)][913] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 62(4)(c): amended, on 1 October 2001, by [section 12(1)][913] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 62(4)(c): amended, on 1 October 2001, by [section 12(1)][914] of the Fisheries Amendment Act 2001 (2001 No 65).
     
-    Section 62(7): amended, on 1 October 1999, by [section 21(b)][912] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 62(7): amended, on 1 October 1999, by [section 21(b)][913] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
     Section 62(7)(a): amended, on 25 August 2005, by [section 75][772] of the Overseas Investment Act 2005 (2005 No 82).
     
-    Section 62(9): repealed (without coming into force), on 1 October 1999, by [section 21(c)][912] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 62(9): repealed (without coming into force), on 1 October 1999, by [section 21(c)][913] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 62(10): repealed (without coming into force), on 1 October 1999, by [section 21(c)][912] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 62(10): repealed (without coming into force), on 1 October 1999, by [section 21(c)][913] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
     Section 62(14): amended, on 25 August 2005, by [section 75][772] of the Overseas Investment Act 2005 (2005 No 82).
     
-    Section 62(15): added, on 1 October 2001, by [section 12(2)][913] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 62(15): added, on 1 October 2001, by [section 12(2)][914] of the Fisheries Amendment Act 2001 (2001 No 65).
 
 #### Order of transactions
     
-*   Heading: substituted, on 1 October 2001, by [section 22][914] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+*   Heading: substituted, on 1 October 2001, by [section 22][915] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 63 Order of transactions
     
 *   If any regulations made under [section 297(1)(sa)][580] provide that any transactions must be actioned in a specified order, the chief executive must action those transactions in accordance with this Act in the specified order.
     
-    Section 63: substituted, on 1 October 2001, by [section 22][914] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 63: substituted, on 1 October 2001, by [section 22][915] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 64 Order of transactions on first day of new fishing year
     
 *   \[Repealed\]
     
-    Section 64: repealed (without coming into force), on 1 October 2001, by [section 22][914] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 64: repealed (without coming into force), on 1 October 2001, by [section 22][915] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 #### Generation of annual catch entitlement
 
@@ -4906,7 +4910,7 @@ Quota management system
     
 *   \[Repealed\]
     
-    Section 65: repealed (without coming into force), on 9 September 1999, by [section 85(b)][827] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 65: repealed (without coming into force), on 9 September 1999, by [section 85(b)][828] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 66 Generation of annual catch entitlement at beginning of new fishing year
     
@@ -4982,19 +4986,19 @@ Quota management system
     
     (8) The chief executive shall, as soon as practicable after allocating any annual catch entitlement in accordance with this section, notify the relevant Registrar of Annual Catch Entitlement of the amount of annual catch entitlement allocated to each quota owner.
     
-    Section 67(1): substituted, on 1 October 2001, by [section 23(1)][915] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 67(1): substituted, on 1 October 2001, by [section 23(1)][916] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 67(2): repealed, on 1 October 2001, by [section 23(2)][915] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 67(2): repealed, on 1 October 2001, by [section 23(2)][916] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 67(2A): repealed, on 1 October 2001, by [section 23(2)][915] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 67(2A): repealed, on 1 October 2001, by [section 23(2)][916] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 67(2B): substituted, on 1 October 2001, by [section 23(3)][915] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 67(2B): substituted, on 1 October 2001, by [section 23(3)][916] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 67(3): repealed, on 1 October 2001, by [section 23(2)][915] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 67(3): repealed, on 1 October 2001, by [section 23(2)][916] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 67(4): repealed, on 1 October 2001, by [section 23(2)][915] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 67(4): repealed, on 1 October 2001, by [section 23(2)][916] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 67(6): amended, on 1 October 2001, by [section 23(4)][915] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 67(6): amended, on 1 October 2001, by [section 23(4)][916] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 67A Allocation of additional annual catch entitlement in case of underfishing
     
@@ -5038,7 +5042,7 @@ Quota management system
     
     *   (b) ensure that the amount of annual catch entitlement allocated is registered on the Annual Catch Entitlement Register.
     
-    Section 67A: inserted, on 1 October 2001, by [section 24][916] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 67A: inserted, on 1 October 2001, by [section 24][917] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 67B Amendments to Schedule 5A
     
@@ -5052,7 +5056,7 @@ Quota management system
     
     (3) Before recommending the making of an Order in Council under subsection (1), the Minister must consult with such persons or organisations as the Minister considers are representative of those classes of persons having an interest in the stocks subject to the order.
     
-    Section 67B: inserted, on 1 October 2000, by [section 24][916] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 67B: inserted, on 1 October 2000, by [section 24][917] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 68 Minister to create additional annual catch entitlement if total allowable catch increased during fishing year
     
@@ -5104,13 +5108,13 @@ Quota management system
     
     (6) The chief executive shall, as soon as practicable after allocating annual catch entitlements in accordance with this section, notify the relevant Registrar of Annual Catch Entitlement of the amount of annual catch entitlement allocated to each quota owner.
     
-    Section 68(2): amended, on 1 October 2004, by [section 28(1)][917] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 68(2): amended, on 1 October 2004, by [section 28(1)][918] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 68(2A): inserted, on 1 October 2004, by [section 28(2)][917] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 68(2A): inserted, on 1 October 2004, by [section 28(2)][918] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 68(2B): inserted, on 1 October 2004, by [section 28(2)][917] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 68(2B): inserted, on 1 October 2004, by [section 28(2)][918] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 68(3): amended, on 1 October 2004, by [section 28(3)][917] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 68(3): amended, on 1 October 2004, by [section 28(3)][918] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 #### Annual catch entitlement required before fishing
 
@@ -5118,19 +5122,19 @@ Quota management system
     
 *   \[Repealed\]
     
-    Section 69: repealed (without coming into force), on 9 September 1999, by [section 85(c)][827] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 69: repealed (without coming into force), on 9 September 1999, by [section 85(c)][828] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 70 Defences applicable to certain stock
     
 *   \[Repealed\]
     
-    Section 70: repealed (without coming into force), on 9 September 1999, by [section 85(c)][827] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 70: repealed (without coming into force), on 9 September 1999, by [section 85(c)][828] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 71 Defences applicable to individual fishers
     
 *   \[Repealed\]
     
-    Section 71: repealed (without coming into force), on 9 September 1999, by [section 85(c)][827] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 71: repealed (without coming into force), on 9 September 1999, by [section 85(c)][828] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 72 Dumping of fish prohibited
     
@@ -5164,13 +5168,13 @@ Quota management system
     
     (7) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister, add or omit from [Schedule 6][704] the name of any stock, or amend any provision in that schedule or add new provisions to that schedule.
     
-    Compare: 1983 No 14 [s 28ZB][918]; 1990 No 29 [s 27(1)][919]
+    Compare: 1983 No 14 [s 28ZB][919]; 1990 No 29 [s 27(1)][920]
 
 ##### 73 Offence to transfer used annual catch entitlement
     
 *   \[Repealed\]
     
-    Section 73: repealed (without coming into force), on 9 September 1999, by [section 85(d)][827] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 73: repealed (without coming into force), on 9 September 1999, by [section 85(d)][828] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 74 Minimum holdings of annual catch entitlement
     
@@ -5190,7 +5194,7 @@ Quota management system
     
     then the requirements of subsection (1) shall apply as if the minimum amount of annual catch entitlement required to be held was the amount of annual catch entitlement actually generated by the commercial fisher's relevant quota, and the commercial fisher may continue to take stock in each fishing year under the authority of the lesser amount of annual catch entitlement held by the commercial fisher unless the commercial fisher, in any particular fishing year, transfers any annual catch entitlement and thereby reduces the commercial fisher's annual catch entitlement holding for that fishing year to an amount lower than the holding generated by the commercial fisher's quota at the commencement of that year.
     
-    (2A) As soon as is reasonably practicable after Te Ohu Kai Moana Trustee Limited has notified the chief executive of the entities that it has approved under [section 34][920] of the Maori Fisheries Act 2004, the chief executive must identify the approved entities on the Annual Catch Entitlement Register.
+    (2A) As soon as is reasonably practicable after Te Ohu Kai Moana Trustee Limited has notified the chief executive of the entities that it has approved under [section 34][921] of the Maori Fisheries Act 2004, the chief executive must identify the approved entities on the Annual Catch Entitlement Register.
     
     (2B) In the case of a quota holding that includes settlement quota, if the annual catch entitlement from that quota is transferred in full to a commercial fisher that is registered as an approved entity under subsection (2A), the annual catch entitlement must be treated as if it were not less than the minimum amount required under subsection (1).
     
@@ -5238,37 +5242,37 @@ Quota management system
     
     (12) If a person contravenes subsection (1) or subsection (2), the person commits an offence and is liable to the penalty set out in [section 252(5)][475].
     
-    Compare: 1983 No 14 [s 28S][921]; 1991 No 149 [s 15][922]
+    Compare: 1983 No 14 [s 28S][922]; 1991 No 149 [s 15][923]
     
-    Section 74(1): substituted, on 1 October 2001, by [section 25(1)][923] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 74(1): substituted, on 1 October 2001, by [section 25(1)][924] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 74(2): amended, on 1 October 2001, by [section 13(2)][924] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 74(2): amended, on 1 October 2001, by [section 13(2)][925] of the Fisheries Amendment Act 2001 (2001 No 65).
     
-    Section 74(2)(b): amended, on 1 October 2001, by [section 13(1)][924] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 74(2)(b): amended, on 1 October 2001, by [section 13(1)][925] of the Fisheries Amendment Act 2001 (2001 No 65).
     
     Section 74(2A): inserted, on 29 November 2004, by [section 214][763] of the Maori Fisheries Act 2004 (2004 No 78).
     
     Section 74(2B): inserted, on 29 November 2004, by [section 214][763] of the Maori Fisheries Act 2004 (2004 No 78).
     
-    Section 74(3): amended, on 1 October 2001, by [section 25(2)][923] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 74(3): amended, on 1 October 2001, by [section 25(2)][924] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 74(5): amended, on 1 October 2001, by [section 9][925] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 74(5): amended, on 1 October 2001, by [section 9][926] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
     
-    Section 74(6): repealed (without coming into force), on 1 October 2001, by [section 25(3)][923] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 74(6): repealed (without coming into force), on 1 October 2001, by [section 25(3)][924] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 74(7): substituted, on 1 October 2001, by [section 25(4)][923] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 74(7): substituted, on 1 October 2001, by [section 25(4)][924] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 74(8): substituted, on 1 October 2001, by [section 25(4)][923] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 74(8): substituted, on 1 October 2001, by [section 25(4)][924] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 74(9): substituted, on 1 October 2001, by [section 25(4)][923] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 74(9): substituted, on 1 October 2001, by [section 25(4)][924] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 74(9A): inserted, on 1 October 2001, by [section 25(4)][923] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 74(9A): inserted, on 1 October 2001, by [section 25(4)][924] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 74(9B): inserted, on 1 October 2001, by [section 25(4)][923] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 74(9B): inserted, on 1 October 2001, by [section 25(4)][924] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 74(11): repealed (without coming into force), on 1 October 2001, by [section 25(3)][923] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 74(11): repealed (without coming into force), on 1 October 2001, by [section 25(3)][924] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 74(12): substituted, on 1 October 2001, by [section 25(5)][923] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 74(12): substituted, on 1 October 2001, by [section 25(5)][924] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 #### Deemed values
 
@@ -5312,15 +5316,15 @@ Quota management system
     
     (7) Any interim or annual deemed value rate set under this section may be varied by the Minister in the same manner, and any rate set or varied under this section takes effect on the first day of the next fishing year for the stock concerned.
     
-    Section 75: substituted, on 1 May 2001, by [section 26][926] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 75: substituted, on 1 May 2001, by [section 26][927] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 75(1): amended, on 1 October 2004, by [section 29][927] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 75(1): amended, on 1 October 2004, by [section 29][928] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 75A Requirement to consult in relation to deemed values
     
 *   Before setting any interim deemed value rate or annual deemed value rate under [section 75][133], the Minister must, if practicable, consult persons or organisations that the Minister considers represent classes of persons who have an interest in the stock, including Maori, recreational, commercial, and environmental interests.
     
-    Section 75A: inserted, on 1 May 2001, by [section 26][926] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 75A: inserted, on 1 May 2001, by [section 26][927] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 75B Limitation period for challenges to deemed values
     
@@ -5328,7 +5332,7 @@ Quota management system
     
     (2) This section applies despite any other enactment or rule of law.
     
-    Section 75B: inserted, on 1 May 2001, by [section 26][926] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 75B: inserted, on 1 May 2001, by [section 26][927] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 76 Catch to be counted against annual catch entitlement
     
@@ -5394,37 +5398,37 @@ Quota management system
     
     *   (b) 5 working days after the final determination of any request for a review by a commercial fisher of a notification under [section 80][148].
     
-    (7) Notwithstanding [section 69][928] of the Public Finance Act 1989, no interest is payable in respect of any amount that is held on trust under this section, whether remitted to any commercial fisher or not.
+    (7) Notwithstanding [section 69][929] of the Public Finance Act 1989, no interest is payable in respect of any amount that is held on trust under this section, whether remitted to any commercial fisher or not.
     
-    Compare: 1983 No 14 [s 28ZA(4)][929]; 1990 No 29 [s 26(1)][930]
+    Compare: 1983 No 14 [s 28ZA(4)][930]; 1990 No 29 [s 26(1)][931]
     
-    Section 76(1): substituted, on 1 October 2004, by [section 30][931] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 76(1): substituted, on 1 October 2004, by [section 30][932] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 76(1): amended, on 20 April 2010, by [section 4(1)][932] of the Fisheries Amendment Act 2010 (2010 No 16).
+    Section 76(1): amended, on 20 April 2010, by [section 4(1)][933] of the Fisheries Amendment Act 2010 (2010 No 16).
     
-    Section 76(1A): inserted, on 1 October 2001, by [section 27(1)][933] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 76(1A): inserted, on 1 October 2001, by [section 27(1)][934] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 76(1B): inserted, on 1 October 2001, by [section 27(1)][933] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 76(1B): inserted, on 1 October 2001, by [section 27(1)][934] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 76(2): amended, on 1 October 2001, by [section 27(2)(a)][933] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 76(2): amended, on 1 October 2001, by [section 27(2)(a)][934] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 76(2): amended, on 1 October 2001, by [section 27(2)(b)][933] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 76(2): amended, on 1 October 2001, by [section 27(2)(b)][934] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 76(2A): inserted, on 1 October 2001, by [section 27(3)][933] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 76(2A): inserted, on 1 October 2001, by [section 27(3)][934] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 76(2B): inserted, on 1 October 2001, by [section 27(3)][933] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 76(2B): inserted, on 1 October 2001, by [section 27(3)][934] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 76(2C): inserted, on 1 October 2001, by [section 27(3)][933] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 76(2C): inserted, on 1 October 2001, by [section 27(3)][934] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 76(3): amended, on 1 October 2001, by [section 27(4)(a)][933] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 76(3): amended, on 1 October 2001, by [section 27(4)(a)][934] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 76(3)(b): amended, on 1 October 2001, by [section 27(4)(b)][933] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 76(3)(b): amended, on 1 October 2001, by [section 27(4)(b)][934] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 76(3)(c): repealed (without coming into force), on 1 October 2001, by [section 27(4)(c)][933] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 76(3)(c): repealed (without coming into force), on 1 October 2001, by [section 27(4)(c)][934] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 76(3A): inserted, on 1 October 2001, by [section 27(5)][933] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 76(3A): inserted, on 1 October 2001, by [section 27(5)][934] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 76(6)(ab): inserted, on 20 April 2010, by [section 4(2)][932] of the Fisheries Amendment Act 2010 (2010 No 16).
+    Section 76(6)(ab): inserted, on 20 April 2010, by [section 4(2)][933] of the Fisheries Amendment Act 2010 (2010 No 16).
 
 ##### 76A Application for catch balancing relief
     
@@ -5474,7 +5478,7 @@ Quota management system
     
     (7) Any deemed value amount demanded by the chief executive that may be affected by an application for catch balancing relief remains payable despite the application having been made.
     
-    Section 76A: inserted, on 20 April 2010, by [section 5][934] of the Fisheries Amendment Act 2010 (2010 No 16).
+    Section 76A: inserted, on 20 April 2010, by [section 5][935] of the Fisheries Amendment Act 2010 (2010 No 16).
 
 ##### 76B Effect of granting catch balancing relief
     
@@ -5492,7 +5496,7 @@ Quota management system
     
     *   (b) if a fishing permit ceases to be suspended because of the recalculation, the suspension ends no earlier than the date the written notice of the recalculated amount is given.
     
-    Section 76B: inserted, on 20 April 2010, by [section 5][934] of the Fisheries Amendment Act 2010 (2010 No 16).
+    Section 76B: inserted, on 20 April 2010, by [section 5][935] of the Fisheries Amendment Act 2010 (2010 No 16).
 
 ##### 77 Over-fishing thresholds
     
@@ -5522,7 +5526,7 @@ Quota management system
     
     (6) Before making a recommendation under subsection (1), the Minister must consult with such persons or organisations as the Minister considers are representative of those classes of persons having an interest in the over-fishing thresholds to which the recommendation relates.
     
-    Section 77: substituted, on 1 August 2001, by [section 28(1)][935] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 77: substituted, on 1 August 2001, by [section 28(1)][936] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 77A Matters to be taken into account when recommending over-fishing thresholds
     
@@ -5536,7 +5540,7 @@ Quota management system
     
     *   (d) any other matters that the Minister considers relevant.
     
-    Section 77A: inserted, on 1 August 2001, by [section 28(1)][935] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 77A: inserted, on 1 August 2001, by [section 28(1)][936] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 78 Catch in excess of over-fishing thresholds
     
@@ -5586,9 +5590,9 @@ Quota management system
     
     (11) For the purposes of subsection (2), a person or entity is to be treated as a person included with the commercial fisher if the person or entity is---
         
-    *   (a) a subsidiary of the commercial fisher within the meaning of [section 5][936] of the Companies Act 1993; or
+    *   (a) a subsidiary of the commercial fisher within the meaning of [section 5][937] of the Companies Act 1993; or
     
-    *   (b) a company of which the commercial fisher is a subsidiary within the meaning of [section 5][936] of the Companies Act 1993; or
+    *   (b) a company of which the commercial fisher is a subsidiary within the meaning of [section 5][937] of the Companies Act 1993; or
     
     *   (c) a partnership or unincorporated joint venture that would be a subsidiary of the commercial fisher, or of which the commercial fisher would be a subsidiary, if the partnership or joint venture were incorporated as a company with shareholdings corresponding to the interests, including returns, of the partners in the partnership or participants in the joint venture.
     
@@ -5614,11 +5618,11 @@ Quota management system
     
     *   (b) no person is regarded as being included with another person merely because either or both of those persons would be included with Te Ohu Kai Moana Trustee Limited but for paragraph (a); and
     
-    *   (c) no bank registered under the [Reserve Bank of New Zealand Act 1989][899] is to be regarded as being included with any other person merely because the bank has, in the ordinary course of its business as a financier, been granted any interest in quota owned by that person.
+    *   (c) no bank registered under the [Reserve Bank of New Zealand Act 1989][900] is to be regarded as being included with any other person merely because the bank has, in the ordinary course of its business as a financier, been granted any interest in quota owned by that person.
     
-    Section 78: substituted, on 1 October 2001, by [section 14(1)][937] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 78: substituted, on 1 October 2001, by [section 14(1)][938] of the Fisheries Amendment Act 2001 (2001 No 65).
     
-    Section 78(2): amended, on 1 October 2004, by [section 31][938] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 78(2): amended, on 1 October 2004, by [section 31][939] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
     Section 78(12)(a): substituted, on 29 November 2004, by [section 214][763] of the Maori Fisheries Act 2004 (2004 No 78).
     
@@ -5684,7 +5688,7 @@ Quota management system
     
     (9) If a person (**person B**) knowingly allows another person (**person A**) to conduct commercial fishing under person B's permit for the purpose of assisting person A to fish despite the condition treated by [section 78(2)][141] as being contained in person A's permit, and person A does so, then each of person A and person B commits an offence and is liable to the penalty set out in [section 252(3)][475].
     
-    Section 78A: inserted, on 1 October 2001, by [section 14(1)][937] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 78A: inserted, on 1 October 2001, by [section 14(1)][938] of the Fisheries Amendment Act 2001 (2001 No 65).
 
 ##### 78B Removal of conditions on other persons
     
@@ -5692,7 +5696,7 @@ Quota management system
     
     (2) In determining an application under subsection (1) totally or partially in favour of the applicant, the District Court may remove or amend the condition either totally or partially and on such sureties or conditions as the court considers appropriate.
     
-    Section 78B: inserted, on 1 October 2001, by [section 14(1)][937] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 78B: inserted, on 1 October 2001, by [section 14(1)][938] of the Fisheries Amendment Act 2001 (2001 No 65).
 
 ##### 79 Suspension of permit for non-payment of deemed value
     
@@ -5712,9 +5716,9 @@ Quota management system
     
     (5) For the purposes of subsections (1) and (2), a person or entity is to be treated as a person included with the commercial fisher if the person or entity is---
         
-    *   (a) a subsidiary of the commercial fisher within the meaning of [section 5][936] of the Companies Act 1993; or
+    *   (a) a subsidiary of the commercial fisher within the meaning of [section 5][937] of the Companies Act 1993; or
     
-    *   (b) a company of which the commercial fisher is a subsidiary within the meaning of [section 5][936] of the Companies Act 1993; or
+    *   (b) a company of which the commercial fisher is a subsidiary within the meaning of [section 5][937] of the Companies Act 1993; or
     
     *   (c) a partnership or unincorporated joint venture that would be a subsidiary of the commercial fisher, or of which the commercial fisher would be a subsidiary, if the partnership or joint venture were incorporated as a company with shareholdings corresponding to the interests, including returns, of the partners in the partnership or participants in the joint venture.
     
@@ -5738,9 +5742,9 @@ Quota management system
     
     *   (b) Aotearoa Fisheries Limited is not to be regarded as being included with another person merely because the other person holds, or benefits from, income shares in Aotearoa Fisheries Limited; and
     
-    *   (c) no bank registered under the [Reserve Bank of New Zealand Act 1989][899] is to be regarded as being included with any other person merely because the bank has, in the ordinary course of its business as a financier, been granted any interest in quota owned by that person.
+    *   (c) no bank registered under the [Reserve Bank of New Zealand Act 1989][900] is to be regarded as being included with any other person merely because the bank has, in the ordinary course of its business as a financier, been granted any interest in quota owned by that person.
     
-    Section 79: substituted, on 1 October 2001, by [section 14(1)][937] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 79: substituted, on 1 October 2001, by [section 14(1)][938] of the Fisheries Amendment Act 2001 (2001 No 65).
     
     Section 79(6)(a): substituted, on 29 November 2004, by [section 214][763] of the Maori Fisheries Act 2004 (2004 No 78).
     
@@ -5798,7 +5802,7 @@ Quota management system
     
     (9) If a person (**person B**) knowingly allows another person (**person A**) to conduct commercial fishing under person B's permit for the purpose of assisting person A to fish despite the suspension of person A's permit under [section 79(1)][144], and person A does so, then each of person A and person B commits an offence and is liable to the penalty set out in [section 252(3)][475].
     
-    Section 79A: inserted, on 1 October 2001, by [section 14(1)][937] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 79A: inserted, on 1 October 2001, by [section 14(1)][938] of the Fisheries Amendment Act 2001 (2001 No 65).
 
 ##### 79B Removal of suspension, or direction to issue permit
     
@@ -5824,11 +5828,11 @@ Quota management system
     
     *   (b) direct the removal of the suspension, or the issue of the permit, on such sureties or conditions as the court considers appropriate.
     
-    Section 79B: inserted, on 1 October 2001, by [section 14(1)][937] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 79B: inserted, on 1 October 2001, by [section 14(1)][938] of the Fisheries Amendment Act 2001 (2001 No 65).
 
 #### Conclusive notification
     
-*   Heading: substituted, on 1 October 2001, by [section 30(3)][939] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+*   Heading: substituted, on 1 October 2001, by [section 30(3)][940] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 80 Conclusive notification
     
@@ -5846,7 +5850,7 @@ Quota management system
     
     (6) Any commercial fisher who is dissatisfied with any new notification issued by the chief executive under subsection (5) may, within 20 working days after the date specified for the purpose in the notification of the decision, appeal to a District Court against the decision (which appeal may relate to any matters that were the subject of the commercial fisher's request for review) and the following provisions apply in relation to every such appeal:
         
-    *   (a) the appeal shall be commenced by way of an originating application under [Part 6][940] of the District Court Rules 1992:
+    *   (a) the appeal shall be commenced by way of an originating application under [Part 6][941] of the District Court Rules 1992:
     
     *   (b) the court---
             
@@ -5878,15 +5882,15 @@ Quota management system
     
     *   (b) any change to any commercial fisher's reported catch as a result of any decision in respect of a request for review made under this section.
     
-    Section 80 heading: amended, on 1 October 2001, by [section 30][939] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 80 heading: amended, on 1 October 2001, by [section 30][940] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 80(1): substituted, on 1 October 2001, by [section 30(1)][939] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 80(1): substituted, on 1 October 2001, by [section 30(1)][940] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 80(1A): inserted, on 1 October 2001, by [section 30(1)][939] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 80(1A): inserted, on 1 October 2001, by [section 30(1)][940] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 80(4): repealed (without coming into force), on 9 September 1999, by [section 86][941] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 80(4): repealed (without coming into force), on 9 September 1999, by [section 86][942] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 80(8): substituted, on 1 October 2001, by [section 30(2)][939] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 80(8): substituted, on 1 October 2001, by [section 30(2)][940] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ## Part 5  
 Foreign licensed access
@@ -5935,15 +5939,15 @@ Foreign licensed access
     
     (7) Nothing in this section applies in relation to any highly migratory species.
     
-    Compare: 1977 No 28 [s 12][942]
+    Compare: 1977 No 28 [s 12][943]
     
-    Section 81(1)(a): amended, on 1 October 2004, by [section 32(1)][943] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 81(1)(a): amended, on 1 October 2004, by [section 32(1)][944] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 81(1)(c): amended, on 1 October 2004, by [section 32(1)][943] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 81(1)(c): amended, on 1 October 2004, by [section 32(1)][944] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 81(3): substituted, on 1 October 2004, by [section 32(2)][943] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 81(3): substituted, on 1 October 2004, by [section 32(2)][944] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 81(7): added, on 1 October 2004, by [section 32(3)][943] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 81(7): added, on 1 October 2004, by [section 32(3)][944] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 82 Apportionment of foreign allowable catch for foreign fishing vessels
     
@@ -5961,9 +5965,9 @@ Foreign licensed access
     
     *   (e) such other matters as the Minister, after consultation with the Minister of Foreign Affairs and Trade, considers to be relevant.
     
-    Compare: 1977 No 28 [s 13][944]
+    Compare: 1977 No 28 [s 13][945]
     
-    Section 82(1): amended, on 1 October 2004, by [section 33][945] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 82(1): amended, on 1 October 2004, by [section 33][946] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 83 Issue of licences
     
@@ -6037,13 +6041,13 @@ Foreign licensed access
     
     (6) In exercising powers under this section, the Minister shall ensure that the total catch authorised to be taken from any stock within the exclusive economic zone by vessels licensed under this section that are vessels of a particular country does not exceed that country's apportionment for that stock under [section 82][151].
     
-    Compare: 1977 No 28 [ss 15][946], [16][947], [17][948]
+    Compare: 1977 No 28 [ss 15][947], [16][948], [17][949]
     
-    Section 83(1)(a): amended, on 1 October 2001, by [section 15][949] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 83(1)(a): amended, on 1 October 2001, by [section 15][950] of the Fisheries Amendment Act 2001 (2001 No 65).
     
-    Section 83(2A): inserted, on 1 October 2004, by [section 34][950] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 83(2A): inserted, on 1 October 2004, by [section 34][951] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 83(3)(a): substituted, on 1 October 2001, by [section 6][951] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 83(3)(a): substituted, on 1 October 2001, by [section 6][952] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 84 Licensing offences
     
@@ -6065,15 +6069,15 @@ Foreign licensed access
     
     (4) Every person commits an offence and is liable to the penalty set out in [section 252(3)][475] who contravenes subsection (1)(b).
     
-    Compare: 1977 No 28 [ss 14][952], [23][953]
+    Compare: 1977 No 28 [ss 14][953], [23][954]
     
-    Section 84(1): substituted, on 1 October 2001, by [section 15][954] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+    Section 84(1): substituted, on 1 October 2001, by [section 15][955] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
 
 ##### 85 Fees, royalties, and charges
     
 *   Every person to whom a licence has been issued under this Part shall pay to the Crown, in such manner as may be prescribed, such fees, royalties, and charges as may be prescribed under [section 297][580] or [section 299][582].
     
-    Compare: 1977 No 28 [s 18][955]; 1980 No 146 s 2(1)
+    Compare: 1977 No 28 [s 18][956]; 1980 No 146 s 2(1)
 
 ##### 86 Suspension and revocation of licences
     
@@ -6107,7 +6111,7 @@ Foreign licensed access
     
 *   No exercise or purported exercise by the Minister of any power conferred on the Minister by [section 83(6)][152] or [section 86(2)][155] shall be liable to be challenged, reviewed, quashed, or called into question in any court on the ground that the conditions for the exercise of the power by the Minister had not arisen or had ceased.
     
-    Compare: 1977 No 28 [s 21][956]
+    Compare: 1977 No 28 [s 21][957]
 
 ##### 88 Administrative penalties for fisheries offences
     
@@ -6165,15 +6169,15 @@ Foreign licensed access
     
     (11) Notwithstanding the provisions of this Act, or any other enactment, where any offence has been admitted or deemed to have been admitted under this section, no charging document may be filed in respect of the offence against the person by whom it is admitted.
     
-    Compare: 1977 No 28 [s 26][957].
+    Compare: 1977 No 28 [s 26][958].
     
-    Section 88(1)(b): amended, on 1 July 2013, by [section 413][958] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 88(1)(b): amended, on 1 July 2013, by [section 413][959] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 88(4)(b): amended, on 1 July 2013, by [section 413][958] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 88(4)(b): amended, on 1 July 2013, by [section 413][959] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 88(10): amended, on 1 July 2013, by [section 413][958] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 88(10): amended, on 1 July 2013, by [section 413][959] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 88(11): amended, on 1 July 2013, by [section 413][958] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 88(11): amended, on 1 July 2013, by [section 413][959] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 6  
 Access to fishery
@@ -6194,15 +6198,15 @@ Access to fishery
     
     *   (d) any whitebait, sports fish, ornamental fish, or unwanted aquatic life; or
     
-    *   (e) fish, aquatic life, or seaweed by any person in accordance with an authorisation given under the [Marine Reserves Act 1971][959]; or
+    *   (e) fish, aquatic life, or seaweed by any person in accordance with an authorisation given under the [Marine Reserves Act 1971][960]; or
     
     *   (f) seaweed of the class Rhodophyceae while it is unattached and cast ashore; or
     
-    *   (g) samples of fish, aquatic life, or seaweed under the authority of [section 20][960] of the Food Act 1981 by an officer as defined in that Act or by a person assisting such an officer; or
+    *   (g) samples of fish, aquatic life, or seaweed under the authority of [section 20][961] of the Food Act 1981 by an officer as defined in that Act or by a person assisting such an officer; or
     
     *   (h) samples of fish, aquatic life, or seaweed under the authority of section 6 of the Meat Act 1981 by an inspector as defined in that Act or by a person assisting such an inspector; or
     
-    *   (ha) samples of fish, aquatic life, or seaweed under the authority of [Part 7][961] of the Animal Products Act 1999 by an animal product officer or official assessor as defined in that Act, or by a person assisting such an officer or assessor; or
+    *   (ha) samples of fish, aquatic life, or seaweed under the authority of [Part 7][962] of the Animal Products Act 1999 by an animal product officer or official assessor as defined in that Act, or by a person assisting such an officer or assessor; or
     
     *   (i) fish, aquatic life, or seaweed under the authority of a foreign fishing vessel licence issued under [section 83][152]; or
     
@@ -6258,21 +6262,21 @@ Access to fishery
     
     (12) Every person commits an offence and is liable to the penalty set out in [section 252(3)][475] who takes any fish, aquatic life, or seaweed in contravention of subsection (1), or contravenes subsection (9) or subsection (10).
     
-    Compare: 1983 No 14 [s 62(1), (2)][962]; 1986 No 34 s 13(1)
+    Compare: 1983 No 14 [s 62(1), (2)][963]; 1986 No 34 s 13(1)
     
-    Section 89(2)(ha): inserted, on 1 November 1999, by [section 8(1)][963] of the Animal Products (Ancillary and Transitional Provisions) Act 1999 (1999 No 94).
+    Section 89(2)(ha): inserted, on 1 November 1999, by [section 8(1)][964] of the Animal Products (Ancillary and Transitional Provisions) Act 1999 (1999 No 94).
     
-    Section 89(2A): substituted, on 1 October 2004, by [section 35][964] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 89(2A): substituted, on 1 October 2004, by [section 35][965] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 89(2B): repealed, on 1 October 2004, by [section 35][964] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 89(2B): repealed, on 1 October 2004, by [section 35][965] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 89(6)(c): amended, on 1 October 2001, by [section 31(1)][965] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 89(6)(c): amended, on 1 October 2001, by [section 31(1)][966] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 89(8): substituted, on 1 October 2001, by [section 31(2)][965] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 89(8): substituted, on 1 October 2001, by [section 31(2)][966] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 89(8A): inserted, on 1 October 2001, by [section 7(1)][966] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 89(8A): inserted, on 1 October 2001, by [section 7(1)][967] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 89(11): repealed (without coming into force), on 1 October 2001, by [section 7(2)][966] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 89(11): repealed (without coming into force), on 1 October 2001, by [section 7(2)][967] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 89A Exemption relating to farmed fish and spat catching
     
@@ -6282,7 +6286,7 @@ Access to fishery
     
     *   (b) an exemption granted under [section 186Q][349].
     
-    Section 89A: inserted, on 1 January 2005, by [section 6][967] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 89A: inserted, on 1 January 2005, by [section 6][968] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
 
 ##### 89B Exemption relating to protected customary rights
     
@@ -6292,7 +6296,7 @@ Access to fishery
     
     *   (b) the fish, aquatic life, or seaweed has been lawfully acquired and transferred to that site and ongrown, or bred or cultivated at that site, in accordance with the protected customary rights order or an agreement.
     
-    Section 89B: inserted, on 1 January 2005, by [section 6][967] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 89B: inserted, on 1 January 2005, by [section 6][968] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
     
     Section 89B heading: amended, on 1 April 2011, by [section 128][767] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
@@ -6304,7 +6308,7 @@ Access to fishery
     
 *   \[Repealed\]
     
-    Section 90: repealed (without coming into force), on 9 September 1999, by [section 85(e)][827] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 90: repealed (without coming into force), on 9 September 1999, by [section 85(e)][828] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 91 Issue of fishing permit
     
@@ -6320,7 +6324,7 @@ Access to fishery
     
     *   (c) any stocks or species listed in Schedule 4C that are listed on a fishing permit held by the commercial fisher.
     
-    (4) Despite [section 93][166] but subject to [section 306][968] of the Ngāi Tahu Claims Settlement Act 1998, the chief executive may issue a fishing permit under this section for any beach cast seaweed, except seaweed to which [section 89(2)(f)][160] applies.
+    (4) Despite [section 93][166] but subject to [section 306][969] of the Ngāi Tahu Claims Settlement Act 1998, the chief executive may issue a fishing permit under this section for any beach cast seaweed, except seaweed to which [section 89(2)(f)][160] applies.
     
     (5) Before issuing a fishing permit to an applicant, the chief executive may require the applicant to provide a suitable third party guarantee, or bond, in an amount specified by the chief executive.
     
@@ -6332,17 +6336,17 @@ Access to fishery
     
     *   (c) the chief executive believes, on reasonable grounds, is a person whose fishing permit, if they had one, would be suspended under [section 79A(1)][145].
     
-    Compare: 1983 No 14 [s 63(2), (4), (6), (8), (9)][832]; 1986 No 34 s 13(1)
+    Compare: 1983 No 14 [s 63(2), (4), (6), (8), (9)][833]; 1986 No 34 s 13(1)
     
-    Section 91(1): substituted, on 1 October 2001, by [section 32(1)][969] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 91(1): substituted, on 1 October 2001, by [section 32(1)][970] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 91(3): substituted, on 1 October 2004, by [section 36][970] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 91(3): substituted, on 1 October 2004, by [section 36][971] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 91(4): substituted, on 1 October 2001, by [section 32(2)][969] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 91(4): substituted, on 1 October 2001, by [section 32(2)][970] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 91(5): substituted, on 1 October 2001, by [section 32(2)][969] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 91(5): substituted, on 1 October 2001, by [section 32(2)][970] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 91(6): substituted, on 1 October 2001, by [section 17][971] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 91(6): substituted, on 1 October 2001, by [section 17][972] of the Fisheries Amendment Act 2001 (2001 No 65).
 
 ##### 92 Fishing permit may be issued subject to conditions
     
@@ -6388,9 +6392,9 @@ Access to fishery
     
     (6) Every person commits an offence and is liable to the penalty set out in [section 252(5)][475] who contravenes any condition placed on any fishing permit by the chief executive under this section.
     
-    Section 92(1): substituted, on 1 October 2004, by [section 37(1)][972] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 92(1): substituted, on 1 October 2004, by [section 37(1)][973] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 92(1A): inserted, on 1 October 2004, by [section 37(1)][972] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 92(1A): inserted, on 1 October 2004, by [section 37(1)][973] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 93 Qualifications for holding fishing permit and moratorium
     
@@ -6398,7 +6402,7 @@ Access to fishery
         
     *   (a) all of the following apply:
             
-        *   (i) on 30 September 1992, that person held a current fishing permit under [section 63][832] of the Fisheries Act 1983 in respect of stocks not subject to a quota management system under that Act; and
+        *   (i) on 30 September 1992, that person held a current fishing permit under [section 63][833] of the Fisheries Act 1983 in respect of stocks not subject to a quota management system under that Act; and
         
         *   (ii) during the period commencing on 1 October 1990 and ending with the close of 30 September 1992, that person lawfully took fish, aquatic life, or seaweed under the authority of the fishing permit held by that person; and
         
@@ -6412,7 +6416,7 @@ Access to fishery
         
         
     
-    *   (b) a fishing permit was issued to that person under [section 2(2)][831] of the Fisheries Amendment Act 1994\.
+    *   (b) a fishing permit was issued to that person under [section 2(2)][832] of the Fisheries Amendment Act 1994\.
     
     (2) A fishing permit issued under subsection (1) shall not authorise a person to take a stock or species listed in [Schedule 4C][700], unless either---
         
@@ -6424,49 +6428,49 @@ Access to fishery
         
         
     
-    *   (b) in the case of a fishing permit issued to a person referred to in subsection (1)(b), the stock was named on the permit issued to that person under [section 2(2)][831] of the Fisheries Amendment Act 1994\.
+    *   (b) in the case of a fishing permit issued to a person referred to in subsection (1)(b), the stock was named on the permit issued to that person under [section 2(2)][832] of the Fisheries Amendment Act 1994\.
     
-    (3) In satisfying himself or herself on any matter under this section, the chief executive shall only have regard to information from fishing records or returns duly completed and provided before 15 October 1992 in the prescribed manner or in accordance with requirements made under [section 66(3)][973] of the Fisheries Act 1983\.
+    (3) In satisfying himself or herself on any matter under this section, the chief executive shall only have regard to information from fishing records or returns duly completed and provided before 15 October 1992 in the prescribed manner or in accordance with requirements made under [section 66(3)][974] of the Fisheries Act 1983\.
     
     (4) This section does not apply to tuna.
     
-    Compare: 1983 No 14 [s 63(13)][832]; 1986 No 34 ss 10, 13(1); 1992 No 137 [s 4][974]
+    Compare: 1983 No 14 [s 63(13)][833]; 1986 No 34 ss 10, 13(1); 1992 No 137 [s 4][975]
     
-    Section 93(1): amended, on 1 October 2004, by [section 38(1)][975] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 93(1): amended, on 1 October 2004, by [section 38(1)][976] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 93(1): amended, on 1 October 2001, by [section 34][976] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 93(1): amended, on 1 October 2001, by [section 34][977] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 93(2): amended, on 1 October 2004, by [section 38(2)][975] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 93(2): amended, on 1 October 2004, by [section 38(2)][976] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 93A Fishing permits subject to moratorium issued to related persons on death of fishing permit holder
     
 *   \[Expired\]
     
-    Section 93A: expired, on 1 October 2007, by [section 93B][977].
+    Section 93A: expired, on 1 October 2007, by [section 93B][978].
 
 ##### 93B Expiry of section 93A
     
 *   [Section 93A][167] expires with the close of 30 September 2007 and, on its expiration, the chief executive must revoke all current fishing permits issued before the close of that date in accordance with that section.
     
-    Section 93B: inserted, on 1 October 2001, by [section 35][978] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 93B: inserted, on 1 October 2001, by [section 35][979] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 94 Right of review against decisions made under delegated authority
     
 *   If any decision in respect of a fishing permit or high seas fishing permit is made under this Part or [Part 6A][194] by any person acting under the delegated authority of the chief executive or by any person or organisation acting pursuant to an arrangement or contract with the chief executive, the applicant for the fishing permit or high seas fishing permit or the holder of the permit, as the case may be, is entitled to have the decision reviewed by the chief executive or by a person designated by the chief executive who was not involved in the making of the original decision.
     
-    Compare: 1983 No 14 [s 63(11)][832]
+    Compare: 1983 No 14 [s 63(11)][833]
     
-    Section 94: amended, on 1 October 2001, by [section 8(a)][979] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 94: amended, on 1 October 2001, by [section 8(a)][980] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 94: amended, on 1 October 2001, by [section 8(b)][979] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 94: amended, on 1 October 2001, by [section 8(b)][980] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 94: amended, on 1 October 2001, by [section 8(c)][979] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 94: amended, on 1 October 2001, by [section 8(c)][980] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 95 Obligations of fishing permit holder
     
 *   \[Repealed\]
     
-    Section 95: repealed (without coming into force), on 9 September 1999, by [section 85(f)][827] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 95: repealed (without coming into force), on 9 September 1999, by [section 85(f)][828] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 96 Revocation of fishing permit
     
@@ -6484,7 +6488,7 @@ Access to fishery
     
     (3) Nothing in this section shall require the chief executive to remit or refund any fees, charges, or levies paid or payable by the fishing permit holder for the period from the date of issue of the permit to the date of revocation.
     
-    Section 96(1): substituted, on 1 October 2001, by [section 36][980] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 96(1): substituted, on 1 October 2001, by [section 36][981] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 #### Special permits
 
@@ -6528,9 +6532,9 @@ Access to fishery
     
     (11) Every person commits an offence and is liable to the penalty set out in [section 252(5)][475] who contravenes any term or condition placed on any special permit by or under this section.
     
-    Compare: 1983 No 14 [s 64][841]; 1986 No 34 s 13(1)
+    Compare: 1983 No 14 [s 64][842]; 1986 No 34 s 13(1)
     
-    Section 97(10): repealed (without coming into force), on 9 September 1999, by [section 86][941] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 97(10): repealed (without coming into force), on 9 September 1999, by [section 86][942] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 #### Administration
 
@@ -6554,45 +6558,45 @@ Access to fishery
     
     (6) Without limiting anything in [section 297][580], regulations under that section may provide for the operation of registers under this section, including the electronic transmission of information for the purposes of this Part.
     
-    Section 98(1)(c): added, on 1 October 2001, by [section 9(1)][981] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 98(1)(c): added, on 1 October 2001, by [section 9(1)][982] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 98(4): amended, on 1 October 2001, by [section 9(2)][981] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 98(4): amended, on 1 October 2001, by [section 9(2)][982] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 99 Appointment of Registrars
     
 *   \[Repealed\]
     
-    Section 99: repealed (without coming into force), on 9 September 1999, by [section 85(g)][827] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 99: repealed (without coming into force), on 9 September 1999, by [section 85(g)][828] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 100 Matters to be shown in Permit Register and Fishing Vessel Register
     
 *   The Permit Register and the Fishing Vessel Register must each contain all the particulars required by regulations made under [section 297][580].
     
-    Section 100: substituted, on 1 October 2001, by [section 37][982] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 100: substituted, on 1 October 2001, by [section 37][983] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 101 Matters to be shown in Fishing Vessel Register
     
 *   \[Repealed\]
     
-    Section 101: repealed (without coming into force), on 1 October 2001, by [section 37][982] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 101: repealed (without coming into force), on 1 October 2001, by [section 37][983] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 101A Matters to be shown in High Seas Permit Register
     
 *   The High Seas Permit Register must contain all the particulars required by regulations made under [section 297][580].
     
-    Section 101A: inserted, on 1 October 2001, by [section 10][983] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 101A: inserted, on 1 October 2001, by [section 10][984] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 102 Access to registers and application of Privacy Act 1993
     
-*   (1) The Permit Register, the Fishing Vessel Register, and the High Seas Permit Register are public registers for the purposes of the [Privacy Act 1993][984] and shall be open for inspection by members of the public on payment of the prescribed fee (if any) during the hours stated by notice in the _Gazette_ under [section 98(5)][175].
+*   (1) The Permit Register, the Fishing Vessel Register, and the High Seas Permit Register are public registers for the purposes of the [Privacy Act 1993][985] and shall be open for inspection by members of the public on payment of the prescribed fee (if any) during the hours stated by notice in the _Gazette_ under [section 98(5)][175].
     
     (2) Subject to subsection (3), the chief executive shall, upon request and payment of a reasonable charge fixed by the chief executive, supply to any person copies of all or any part of a register.
     
     (3) If the chief executive is satisfied, on the application of any person, that the disclosure of that person's address (as entered in the register) would be prejudicial to the personal safety of that person or his or her family, the chief executive may direct that such information shall not be available for inspection or otherwise disclosed.
     
-    Compare: 1983 No 14 [s 56][985]; 1986 No 34 s 13(1)
+    Compare: 1983 No 14 [s 56][986]; 1986 No 34 s 13(1)
     
-    Section 102(1): amended, on 1 October 2001, by [section 11][986] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 102(1): amended, on 1 October 2001, by [section 11][987] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
     Section 102(2): amended, on 9 September 1999, pursuant to [section 90(2)][773] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
@@ -6630,9 +6634,9 @@ Access to fishery
     
     (5) If the chief executive consents under subsection (4) to the registration of any vessel, or if a vessel is owned or operated by an overseas person who has obtained consent under the overseas investment fishing provisions or is exempt from the requirement for that consent, the following provisions apply while the vessel is in New Zealand fisheries waters:
         
-    *   (a) for the purposes of the [Minimum Wage Act 1983][987], the [Wages Protection Act 1983][988], and such provisions of any other enactments as are necessary to give full effect to those Acts, a person engaged or employed to do work on the vessel who holds a temporary entry class visa with conditions that allow the person to work under the [Immigration Act 2009][989] shall be deemed to be an employee:
+    *   (a) for the purposes of the [Minimum Wage Act 1983][988], the [Wages Protection Act 1983][989], and such provisions of any other enactments as are necessary to give full effect to those Acts, a person engaged or employed to do work on the vessel who holds a temporary entry class visa with conditions that allow the person to work under the [Immigration Act 2009][990] shall be deemed to be an employee:
     
-    *   (b) for the purposes of the [Minimum Wage Act 1983][987], the [Wages Protection Act 1983][988], and such provisions of any other enactments as are necessary to give full effect to those Acts, the employer of a person referred to in paragraph (a) shall be deemed to be,---
+    *   (b) for the purposes of the [Minimum Wage Act 1983][988], the [Wages Protection Act 1983][989], and such provisions of any other enactments as are necessary to give full effect to those Acts, the employer of a person referred to in paragraph (a) shall be deemed to be,---
             
         *   (i) if the operator of the vessel is the employer or contractor of those persons, the operator:
         
@@ -6640,9 +6644,9 @@ Access to fishery
         
         
     
-    *   (c) for the purpose of determining whether the payment to any person engaged or employed to do work on any such vessel meets the requirements of the [Minimum Wage Act 1983][987], the hours of work of, the payments received by, and the entitlements to payment of that person shall be assessed in relation to the whole of each period of such engagement or employment in New Zealand fisheries waters:
+    *   (c) for the purpose of determining whether the payment to any person engaged or employed to do work on any such vessel meets the requirements of the [Minimum Wage Act 1983][988], the hours of work of, the payments received by, and the entitlements to payment of that person shall be assessed in relation to the whole of each period of such engagement or employment in New Zealand fisheries waters:
     
-    *   (d) Labour Inspectors within the meaning of the [Employment Relations Act 2000][990] may exercise their powers under that Act and under the enactments referred to in paragraph (a) within New Zealand fisheries waters in respect of any person deemed to be an employee or employer by virtue of paragraph (a) or paragraph (b):
+    *   (d) Labour Inspectors within the meaning of the [Employment Relations Act 2000][991] may exercise their powers under that Act and under the enactments referred to in paragraph (a) within New Zealand fisheries waters in respect of any person deemed to be an employee or employer by virtue of paragraph (a) or paragraph (b):
     
     *   (e) if the operator of any vessel is not the employer by virtue of paragraph (b), then, notwithstanding any responsibility that may rest with the employer, the authorised agent referred to in subsection (2)(c) shall be responsible under the enactments referred to in paragraph (a) for providing any information and records to any Labour Inspector exercising powers under those Acts:
     
@@ -6670,17 +6674,17 @@ Access to fishery
     
     Section 103(5): amended, on 25 August 2005, by [section 75][772] of the Overseas Investment Act 2005 (2005 No 82).
     
-    Section 103(5): amended, on 1 October 2001, by [section 38(1)][991] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 103(5): amended, on 1 October 2001, by [section 38(1)][992] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 103(5)(a): amended, at 2 am on 29 November 2010, by [section 406(1)][887] of the Immigration Act 2009 (2009 No 51).
+    Section 103(5)(a): amended, at 2 am on 29 November 2010, by [section 406(1)][888] of the Immigration Act 2009 (2009 No 51).
     
-    Section 103(5)(d): amended, on 2 October 2000, by [section 240][992] of the Employment Relations Act 2000 (2000 No 24).
+    Section 103(5)(d): amended, on 2 October 2000, by [section 240][993] of the Employment Relations Act 2000 (2000 No 24).
     
-    Section 103(5)(g): amended, on 2 October 2000, by [section 240][992] of the Employment Relations Act 2000 (2000 No 24).
+    Section 103(5)(g): amended, on 2 October 2000, by [section 240][993] of the Employment Relations Act 2000 (2000 No 24).
     
-    Section 103(6)(a): substituted, on 1 October 2001, by [section 12][993] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 103(6)(a): substituted, on 1 October 2001, by [section 12][994] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 103(6A): inserted, on 1 October 2001, by [section 38(2)][991] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 103(6A): inserted, on 1 October 2001, by [section 38(2)][992] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 104 Provisions relating to notified users of fishing vessels
     
@@ -6706,9 +6710,9 @@ Access to fishery
     
     Section 104(2): amended, on 9 September 1999, pursuant to [section 90(2)][773] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 104(3): replaced, on 31 August 2012, by [section 4(1)][994] of the Fisheries Amendment Act 2012 (2012 No 63).
+    Section 104(3): replaced, on 31 August 2012, by [section 4(1)][995] of the Fisheries Amendment Act 2012 (2012 No 63).
     
-    Section 104(5): repealed, on 31 August 2012, by [section 4(2)][994] of the Fisheries Amendment Act 2012 (2012 No 63).
+    Section 104(5): repealed, on 31 August 2012, by [section 4(2)][995] of the Fisheries Amendment Act 2012 (2012 No 63).
 
 ##### 105 Fish carriers must be registered
     
@@ -6762,15 +6766,15 @@ Access to fishery
     
     *   (b) the burden of proving that any of the exceptions set out in paragraphs (b) to (d) applies lies on the defendant.
     
-    Section 105(1)(a)(i): amended, on 1 October 2001, by [section 10][995] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 105(1)(a)(i): amended, on 1 October 2001, by [section 10][996] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
     
     Section 105(2)(b): amended, on 9 September 1999, pursuant to [section 90(2)][773] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
     Section 105(3): amended, on 9 September 1999, pursuant to [section 90(2)][773] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 105(5)(a): substituted, on 1 October 2001, by [section 13][996] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 105(5)(a): substituted, on 1 October 2001, by [section 13][997] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 105(7): inserted, on 1 July 2013, by [section 413][958] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 105(7): inserted, on 1 July 2013, by [section 413][959] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 106 Further provisions relating to registration of vessels
     
@@ -6812,11 +6816,11 @@ Access to fishery
     
     (9) Every person commits an offence and is liable to the penalty set out in [section 252(5)][475] who contravenes any requirement to notify the chief executive of any matter under subsection (4) or subsection (5) or subsection (8).
     
-    Compare: 1983 No 14 [s 59][997]; 1986 No 34 s 13(1)
+    Compare: 1983 No 14 [s 59][998]; 1986 No 34 s 13(1)
     
-    Section 107(1): repealed (without coming into force), on 1 October 2001, by [section 39(1)][998] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 107(1): repealed (without coming into force), on 1 October 2001, by [section 39(1)][999] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 107(2): repealed (without coming into force), on 1 October 2001, by [section 39(1)][998] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 107(2): repealed (without coming into force), on 1 October 2001, by [section 39(1)][999] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
     Section 107(3): amended, on 9 September 1999, pursuant to [section 90(2)][773] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
@@ -6824,9 +6828,9 @@ Access to fishery
     
     Section 107(5): amended, on 9 September 1999, pursuant to [section 90(2)][773] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 106(6): substituted, on 1 October 2001, by [section 39(2)][998] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 106(6): substituted, on 1 October 2001, by [section 39(2)][999] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 107(7)(a): amended, on 2 October 2000, by [section 240][992] of the Employment Relations Act 2000 (2000 No 24).
+    Section 107(7)(a): amended, on 2 October 2000, by [section 240][993] of the Employment Relations Act 2000 (2000 No 24).
     
     Section 107(8): amended, on 9 September 1999, pursuant to [section 90(2)][773] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
@@ -6838,9 +6842,9 @@ Access to fishery
     
     (2) A tender that complies with subsection (1) is to be treated as part of the registered fishing vessel with which it is used, or is intended to be used.
     
-    Compare: 1983 No 14 [s 58][999]; 1986 No 34 s 13(1)
+    Compare: 1983 No 14 [s 58][1000]; 1986 No 34 s 13(1)
     
-    Section 108(2): added, on 1 October 2001, by [section 11][1000] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 108(2): added, on 1 October 2001, by [section 11][1001] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
 
 ##### 109 Presumption that fish on registered vessel caught in New Zealand
     
@@ -6852,7 +6856,7 @@ Access to fishery
     
     *   (b) whether the fish, aquatic life, or seaweed is found on board, or landed, or transferred within New Zealand or New Zealand fisheries waters or elsewhere.
     
-    Section 109: substituted, on 1 October 2001, by [section 14][1001] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 109: substituted, on 1 October 2001, by [section 14][1002] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 110 Fish taken in New Zealand fisheries waters must be landed in New Zealand
     
@@ -6880,9 +6884,9 @@ Access to fishery
     
     (6) Every person commits an offence and is liable to the penalty set out in [section 252(3)][475] who contravenes subsection (1).
     
-    Compare: 1983 No 14 [s 101][1002]; 1986 No 34 s 27(1); 1990 No 29 [s 47][1003]
+    Compare: 1983 No 14 [s 101][1003]; 1986 No 34 s 27(1); 1990 No 29 [s 47][1004]
     
-    Section 110(4): repealed (without coming into force), on 9 September 1999, by [section 86][941] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 110(4): repealed (without coming into force), on 9 September 1999, by [section 86][942] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 111 Fish on registered vessel deemed to have been taken for purpose of sale
     
@@ -6894,9 +6898,9 @@ Access to fishery
     
     (2) Subsection (1) does not apply if the fish, aquatic life, or seaweed were lawfully taken under regulations made under [section 186][327].
     
-    Compare: 1983 No 14[s 102][1004]; 1986 No 34 s 27(1)
+    Compare: 1983 No 14[s 102][1005]; 1986 No 34 s 27(1)
     
-    Section 111(1): substituted, on 1 October 2001, by [section 40][1005] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 111(1): substituted, on 1 October 2001, by [section 40][1006] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 112 Taking of fish, etc, by other than New Zealand ships
     
@@ -6912,9 +6916,9 @@ Access to fishery
     
     (4) If any vessel is used in fishing in contravention of this section, every person on the vessel commits an offence and is liable for the penalty set out in [section 252(3)][475].
     
-    Compare: 1983 No 14 [s 60][1006]; 1986 No 34 s 13(1); 1990 No 29 [s 30][1007]
+    Compare: 1983 No 14 [s 60][1007]; 1986 No 34 s 13(1); 1990 No 29 [s 30][1008]
     
-    Section 112(3): repealed (without coming into force), on 9 September 1999, by [section 86][941] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 112(3): repealed (without coming into force), on 9 September 1999, by [section 86][942] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 113 Possession of fish, etc, by vessels that are not New Zealand ships
     
@@ -6944,22 +6948,22 @@ Access to fishery
     
     *   (b) the burden of proving that any of the exceptions set out in paragraphs (a) to (c) applies lies on the defendant.
     
-    Compare: 1983 No 14 [s 61][1008]; 1986 No 34 s 1(1)
+    Compare: 1983 No 14 [s 61][1009]; 1986 No 34 s 1(1)
     
-    Section 113(5): inserted, on 1 July 2013, by [section 413][958] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 113(5): inserted, on 1 July 2013, by [section 413][959] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 113A All fishing within foreign fishing jurisdiction to be authorised
     
-*   (1) No New Zealand national, and no person using a ship that is registered under the [Ship Registration Act 1992][1009] or that flies the New Zealand flag, may take or transport fish, aquatic life, or seaweed in the national fisheries jurisdiction of a foreign country unless the fish, aquatic life, or seaweed is taken or transported under, and in accordance with, the laws of that jurisdiction.
+*   (1) No New Zealand national, and no person using a ship that is registered under the [Ship Registration Act 1992][1010] or that flies the New Zealand flag, may take or transport fish, aquatic life, or seaweed in the national fisheries jurisdiction of a foreign country unless the fish, aquatic life, or seaweed is taken or transported under, and in accordance with, the laws of that jurisdiction.
     
     (2) Every person who contravenes subsection (1) commits an offence and is liable to the penalty set out in [section 252(3)][475].
     
-    Section 113A: inserted, on 1 May 2001, by [section 15][1010] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 113A: inserted, on 1 May 2001, by [section 15][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ## Part 6A  
 High seas fishing
     
-*   Part 6A: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+*   Part 6A: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 113B Interpretation
     
@@ -6991,7 +6995,7 @@ High seas fishing
     
     _serious violation_ has the meaning given to it by Article 21.11 of the Fish Stocks Agreement.
     
-    Section 113B: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 113B: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 113C Notification and certification by Secretary of Foreign Affairs and Trade
     
@@ -7015,15 +7019,15 @@ High seas fishing
     
     (4) A certificate referred to in subsection (3) is, for all purposes, conclusive evidence of its contents unless the contrary is proved by the production of a more recent certificate issued under that subsection.
     
-    Section 113C: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 113C: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 113C(3)(d): amended, on 1 October 2001, by [section 18(a)][1012] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 113C(3)(d): amended, on 1 October 2001, by [section 18(a)][1013] of the Fisheries Amendment Act 2001 (2001 No 65).
     
-    Section 113C(3)(d): amended, on 1 October 2001, by [section 18(b)][1012] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 113C(3)(d): amended, on 1 October 2001, by [section 18(b)][1013] of the Fisheries Amendment Act 2001 (2001 No 65).
 
 #### Requirements as to taking of fish on high seas
     
-*   Heading: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+*   Heading: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 113D Taking and transportation of fish, etc, on high seas using New Zealand ships
     
@@ -7033,7 +7037,7 @@ High seas fishing
     
     *   (b) the ship is registered---
             
-        *   (i) under the [Ship Registration Act 1992][1009]; and
+        *   (i) under the [Ship Registration Act 1992][1010]; and
         
         *   (ii) in the Fishing Vessel Register as a fishing vessel; and
         
@@ -7055,7 +7059,7 @@ High seas fishing
     
     *   (c) the ship is registered---
             
-        *   (i) under the [Ship Registration Act 1992][1009]; and
+        *   (i) under the [Ship Registration Act 1992][1010]; and
         
         *   (ii) in the Fishing Vessel Register as either a fish carrier or a fishing vessel; and
         
@@ -7085,15 +7089,15 @@ High seas fishing
     
     (5) Every person who contravenes subsection (1) or subsection (2) or subsection (4) commits an offence and is liable on conviction to the penalty set out in [section 252(3)][475].
     
-    Section 113D: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 113D: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 113D(2)(b)(i): amended, on 1 October 2001, by [section 19(1)][1013] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 113D(2)(b)(i): amended, on 1 October 2001, by [section 19(1)][1014] of the Fisheries Amendment Act 2001 (2001 No 65).
     
-    Section 113D(3): substituted, on 1 October 2001, by [section 19(2)][1013] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 113D(3): substituted, on 1 October 2001, by [section 19(2)][1014] of the Fisheries Amendment Act 2001 (2001 No 65).
 
 ##### 113E Use of foreign vessels on high seas by New Zealand nationals
     
-*   (1) No New Zealand national may use a vessel that is not registered under the [Ship Registration Act 1992][1009], or a tender of that vessel,---
+*   (1) No New Zealand national may use a vessel that is not registered under the [Ship Registration Act 1992][1010], or a tender of that vessel,---
         
     *   (a) to take (by any method), on the high seas, any fish, aquatic life, or seaweed for sale, except in accordance with an authorisation issued by a State to which subsection (2) applies; or
     
@@ -7117,9 +7121,9 @@ High seas fishing
     
     (3) Every person who contravenes subsection (1) commits an offence and is liable on conviction to the penalty set out in [section 252(3)][475].
     
-    Section 113E: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 113E: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 113E(1): substituted, on 1 May 2001, by [section 12][1014] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 113E(1): substituted, on 1 May 2001, by [section 12][1015] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
 
 ##### 113F Exemption from section 113E
     
@@ -7157,11 +7161,11 @@ High seas fishing
     
     (4) [Section 113E][199] does not apply to a New Zealand national taking or transporting fish, aquatic life, or seaweed in accordance with an exemption granted under subsection (1).
     
-    Section 113F: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 113F: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 #### Issue of high seas fishing permits
     
-*   Heading: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+*   Heading: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 113G Application for high seas fishing permit
     
@@ -7171,7 +7175,7 @@ High seas fishing
     
     *   (b) must be made to the chief executive in the approved form.
     
-    Section 113G: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 113G: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 113H Issue of high seas fishing permit
     
@@ -7179,7 +7183,7 @@ High seas fishing
         
     *   (a) the vessel to which the permit relates is registered---
             
-        *   (i) under the [Ship Registration Act 1992][1009]; and
+        *   (i) under the [Ship Registration Act 1992][1010]; and
         
         *   (ii) in the Fishing Vessel Register as either a fish carrier or a fishing vessel; and
         
@@ -7215,7 +7219,7 @@ High seas fishing
     
     *   (c) hold a fishing permit that is subject to conditions by virtue of or under [section 78(1) or (2)][141].
     
-    Section 113H: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 113H: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 113I Term and content of high seas fishing permit
     
@@ -7229,11 +7233,11 @@ High seas fishing
     
     *   (c) any conditions to which the permit is subject under [section 113K][207].
     
-    Section 113I: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 113I: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 #### Compliance with conditions and regulations
     
-*   Heading: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+*   Heading: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 113J Compliance with conditions and regulations
     
@@ -7245,7 +7249,7 @@ High seas fishing
     
     (2) Every person who contravenes a condition to which a high seas fishing permit is subject under [section 113K][207] commits an offence and is liable to the penalty set out in [section 252(5)][475].
     
-    Section 113J: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 113J: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 113K Conditions of high seas fishing permit
     
@@ -7297,7 +7301,7 @@ High seas fishing
     
     (4) A condition imposed on a high seas fishing permit under this section is not invalid merely because the condition is more restrictive or more onerous than any conditions that are or may be imposed on fishing by any regulations made under this Act.
     
-    Section 113K: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 113K: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 113L High seas fishing permit to be carried on vessel
     
@@ -7309,7 +7313,7 @@ High seas fishing
     
     (2) Every person who contravenes subsection (1) commits an offence and is liable to the penalty set out in [section 252(5)][475].
     
-    Section 113L: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 113L: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 113M Notification of change of ownership of vessel
     
@@ -7317,11 +7321,11 @@ High seas fishing
     
     (2) Every person who contravenes subsection (1) commits an offence and is liable to the penalty set out in [section 252(6)][475].
     
-    Section 113M: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 113M: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 #### Suspension and revocation of high seas fishing permits
     
-*   Heading: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+*   Heading: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 113N Chief executive may suspend or revoke high seas fishing permit
     
@@ -7331,7 +7335,7 @@ High seas fishing
         
     *   (a) the vessel to which the permit relates is no longer---
             
-        *   (i) registered under the [Ship Registration Act 1992][1009]; or
+        *   (i) registered under the [Ship Registration Act 1992][1010]; or
         
         *   (ii) registered in the Fishing Vessel Register as either a fish carrier or a fishing vessel; or
         
@@ -7347,7 +7351,7 @@ High seas fishing
     
     (4) A request made under subsection (3) must be accompanied by the high seas fishing permit and any copies of the permit.
     
-    Section 113N: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 113N: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 113O Procedure to be followed before suspending or revoking permit
     
@@ -7369,7 +7373,7 @@ High seas fishing
     
     *   (d) consider any submissions made to the chief executive by the permit holder.
     
-    Section 113O: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 113O: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 113P Effect of suspension or revocation of permit
     
@@ -7389,11 +7393,11 @@ High seas fishing
     
     (3) Nothing in this section requires the chief executive to remit or refund any fees, charges, or levies paid or payable by the permit holder for the period from the date of issue of the permit to the date of revocation.
     
-    Section 113P: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 113P: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 #### High seas fishery inspectors
     
-*   Heading: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+*   Heading: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 113Q High seas fishery inspectors
     
@@ -7403,23 +7407,23 @@ High seas fishing
     
     (3) A person who receives a direction under subsection (2) has, for the purpose of carrying out the specified duties, all the powers of a high seas fishery inspector.
     
-    Section 113Q: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 113Q: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 113R Powers of high seas fishery inspectors in relation to New Zealand vessels
     
 *   For the purposes of the administration and enforcement of this Part, a high seas fishery inspector has all of the powers of a fishery officer in relation to a vessel on the high seas that---
         
-    *   (a) is registered under the [Ship Registration Act 1992][1009]; or
+    *   (a) is registered under the [Ship Registration Act 1992][1010]; or
     
     *   (b) flies the New Zealand flag.
     
-    Section 113R: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 113R: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 113S Powers of high seas fishery inspectors in relation to foreign vessels
     
 *   (1) A high seas fishery inspector may, for the purpose of ensuring compliance with international conservation and management measures adopted by a global, regional, or subregional fisheries organisation or arrangement of which New Zealand is a member or in which New Zealand is a participant, board and inspect a vessel in an area of the high seas that is covered by that organisation or arrangement, or in New Zealand fisheries waters, if---
         
-    *   (a) the vessel is not registered under the [Ship Registration Act 1992][1009]; and
+    *   (a) the vessel is not registered under the [Ship Registration Act 1992][1010]; and
     
     *   (b) the flag State of the vessel is---
             
@@ -7435,9 +7439,9 @@ High seas fishing
     
     *   (b) if the flag State specifies the powers of a fishery officer that the high seas fishery inspector may exercise, those powers.
     
-    Section 113S: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 113S: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 113S(1)(b)(ii): substituted, on 1 October 2004, by [section 39][1015] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 113S(1)(b)(ii): substituted, on 1 October 2004, by [section 39][1016] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 113T Boarding and inspection procedures relating to foreign vessels
     
@@ -7469,7 +7473,7 @@ High seas fishing
     
     *   (f) records and other relevant documents.
     
-    Section 113T: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 113T: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 113U Investigation of serious violations
     
@@ -7497,7 +7501,7 @@ High seas fishing
     
     *   (b) a public holiday in that State.
     
-    Section 113U: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 113U: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 113V Boarding and inspection procedures modified by global, regional, or subregional fisheries organisation or arrangement
     
@@ -7509,7 +7513,7 @@ High seas fishing
     
     (2) To the extent that the procedures established by the organisation or arrangement are different from the requirements of [section 113T][218] or [section 113U][219], the high seas fishery inspector and the chief executive must comply with the procedures established by the organisation or arrangement.
     
-    Section 113V: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 113V: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 113W Persons on New Zealand ships to co-operate with foreign high seas inspectors
     
@@ -7517,7 +7521,7 @@ High seas fishing
         
     *   (a) the ship---
             
-        *   (i) is registered under the [Ship Registration Act 1992][1009]; or
+        *   (i) is registered under the [Ship Registration Act 1992][1010]; or
         
         *   (ii) flies the New Zealand flag; and
         
@@ -7531,7 +7535,7 @@ High seas fishing
         
     *   (a) the ship---
             
-        *   (i) is registered under the [Ship Registration Act 1992][1009]; or
+        *   (i) is registered under the [Ship Registration Act 1992][1010]; or
         
         *   (ii) flies the New Zealand flag; and
         
@@ -7559,17 +7563,17 @@ High seas fishing
     
     (4) Every person who contravenes subsection (1), subsection (2), or subsection (3) commits an offence and is liable to the penalty set out in [section 252(3)][475].
     
-    Section 113W: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 113W: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 113W(1)(b): amended, on 1 October 2004, by [section 40(1)][1016] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 113W(1)(b): amended, on 1 October 2004, by [section 40(1)][1017] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 113W(1)(c): repealed, on 1 October 2004, by [section 40(1)][1016] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 113W(1)(c): repealed, on 1 October 2004, by [section 40(1)][1017] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 113W(2)(ba): inserted, on 1 October 2004, by [section 40(2)][1016] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 113W(2)(ba): inserted, on 1 October 2004, by [section 40(2)][1017] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 113X Powers of foreign high seas inspector when requested to investigate
     
-*   (1) The chief executive may authorise a foreign high seas inspector to investigate a ship that is registered under the [Ship Registration Act 1992][1009] or that flies the New Zealand flag, under Article 21.6(b) of the Fish Stocks Agreement, if---
+*   (1) The chief executive may authorise a foreign high seas inspector to investigate a ship that is registered under the [Ship Registration Act 1992][1010] or that flies the New Zealand flag, under Article 21.6(b) of the Fish Stocks Agreement, if---
         
     *   (a) the inspector has boarded the ship under---
             
@@ -7589,7 +7593,7 @@ High seas fishing
     
     (3) For the purposes of any proceedings for an offence under this Part, evidence obtained by a foreign high seas inspector in the exercise of powers under this section is admissible as if the evidence were obtained by a fishery officer.
     
-    Section 113X: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 113X: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 113Y Chief executive may withdraw authorisation to fish under high seas fishing permit
     
@@ -7607,11 +7611,11 @@ High seas fishing
     
     (2) The chief executive may, by notice to the master of the ship (which notice may be given orally or by any form of electronic communication), suspend the high seas fishing permit under which the ship is taking or transporting fish.
     
-    Section 113Y: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 113Y: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 #### Administrative penalties
     
-*   Heading: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+*   Heading: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 113Z Administrative penalties for high seas fisheries offences
     
@@ -7643,9 +7647,9 @@ High seas fishing
     
     *   (b) be endorsed with a statement setting out the provisions of this section and [sections 113ZA to 113ZC][226].
     
-    Section 113Z: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 113Z: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 113Z(1)(b): amended, on 4 October 2013, by [regulation 3(1)][1017] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
+    Section 113Z(1)(b): amended, on 4 October 2013, by [regulation 3(1)][1018] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 ##### 113ZA Right to require that offence be dealt with by court
     
@@ -7665,9 +7669,9 @@ High seas fishing
     
     *   (c) the imposition of a penalty under an enactment, or forfeiture under this Act, on such a conviction.
     
-    Section 113ZA: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 113ZA: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 113ZA(3)(a): amended, on 1 July 2013, by [section 413][958] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 113ZA(3)(a): amended, on 1 July 2013, by [section 413][959] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 113ZB Admission of offence
     
@@ -7677,7 +7681,7 @@ High seas fishing
     
     *   (b) make submissions to the chief executive as to the matters the person wishes the chief executive to take into account in imposing a penalty under [section 113ZC][228].
     
-    Section 113ZB: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 113ZB: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 113ZC Amount of administrative penalty
     
@@ -7691,15 +7695,15 @@ High seas fishing
     
     (5) Despite the provisions of this Act, or any other enactment, where a person admits an offence under [section 113ZB][227], no charging document may be filed against that person in respect of the offence.
     
-    Section 113ZC: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 113ZC: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 113ZC(4): amended, on 1 July 2013, by [section 413][958] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 113ZC(4): amended, on 1 July 2013, by [section 413][959] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 113ZC(5): amended, on 1 July 2013, by [section 413][958] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 113ZC(5): amended, on 1 July 2013, by [section 413][959] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Other matters
     
-*   Heading: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+*   Heading: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 113ZD Visits by foreign ships
     
@@ -7717,19 +7721,19 @@ High seas fishing
     
     (5) This section does not prevent a vessel from entering or remaining in the internal waters or a port of New Zealand in the case of _force majeure_, subject to any conditions set by the chief executive.
     
-    Section 113ZD: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 113ZD: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 113ZD(1): amended, on 1 October 2004, by [section 41(1)][1018] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 113ZD(1): amended, on 1 October 2004, by [section 41(1)][1019] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 113ZD(2)(a): amended, on 1 October 2004, by [section 41(1)][1018] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 113ZD(2)(a): amended, on 1 October 2004, by [section 41(1)][1019] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 113ZD(2)(b): substituted, on 1 October 2004, by [section 41(2)][1018] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 113ZD(2)(b): substituted, on 1 October 2004, by [section 41(2)][1019] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 113ZD(3): amended, on 1 October 2004, by [section 41(3)][1018] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 113ZD(3): amended, on 1 October 2004, by [section 41(3)][1019] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 113ZD(4): amended, on 1 October 2004, by [section 41(3)][1018] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 113ZD(4): amended, on 1 October 2004, by [section 41(3)][1019] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 113ZD(5): substituted, on 1 October 2004, by [section 41(4)][1018] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 113ZD(5): substituted, on 1 October 2004, by [section 41(4)][1019] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 113ZE Consent of Attorney-General required for certain proceedings
     
@@ -7741,9 +7745,9 @@ High seas fishing
     
     (2) Despite anything in any other enactment, those proceedings may not be instituted in any court except with the consent of the Attorney-General and on the Attorney-General's certificate that it is expedient that the proceedings should be instituted.
     
-    Compare: 1996 No 22 [s 27][1019]
+    Compare: 1996 No 22 [s 27][1020]
     
-    Section 113ZE: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 113ZE: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 113ZF Authorised agent
     
@@ -7755,7 +7759,7 @@ High seas fishing
     
     *   (c) left for that person at that address.
     
-    Section 113ZF: inserted, on 1 May 2001, by [section 16][1011] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 113ZF: inserted, on 1 May 2001, by [section 16][1012] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ## Part 7  
 Dispute resolution
@@ -7768,7 +7772,7 @@ Dispute resolution
     
     *   (b) does not apply to disputes about ensuring sustainability or about the effects of any fishing authorised under [Part 9][313].
     
-    Section 114(a): amended, on 1 January 2005, by [section 7][1020] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 114(a): amended, on 1 January 2005, by [section 7][1021] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
 
 #### Statement of procedure
 
@@ -7876,7 +7880,7 @@ Dispute resolution
     
 *   A Commissioner shall be paid such fees and other allowances as the Minister may from time to time approve, which fees and allowances shall be reasonable in the circumstances and be paid out of money appropriated for that purpose by Parliament.
     
-    Compare: 1993 No 95 [s 63(3)][1021]
+    Compare: 1993 No 95 [s 63(3)][1022]
 
 ##### 121 Protection of sensitive information
     
@@ -7894,7 +7898,7 @@ Dispute resolution
     
     (3) Every person commits an offence and is liable to the penalty set out in [section 252(6)][475] who contravenes or fails to comply with an order made under subsection (1).
     
-    Compare: 1991 No 69 [s 42][1022]; 1993 No 95 [s 66][1023]
+    Compare: 1991 No 69 [s 42][1023]; 1993 No 95 [s 66][1024]
 
 ##### 122 Commissioner to report to Minister within 60 working days
     
@@ -7951,7 +7955,7 @@ Registration of transfers, mortgages, caveats, etc
     
 *   \[Repealed\]
     
-    Section 125: repealed (without coming into force), on 9 September 1999, by [section 85(g)][827] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 125: repealed (without coming into force), on 9 September 1999, by [section 85(g)][828] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 126 Chief executive to have use of seal
     
@@ -7959,7 +7963,7 @@ Registration of transfers, mortgages, caveats, etc
     
     (2) Every document bearing the imprint of the chief executive's seal. and purporting to be signed or issued by the chief executive or a person authorised to sign on the chief executive's behalf is, in the absence of proof to the contrary, deemed to be signed or issued by or under the direction of the chief executive.
     
-    Section 126: substituted, on 1 October 2001, by [section 41][1024] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 126: substituted, on 1 October 2001, by [section 41][1025] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 127 Matters to be shown in Quota Register
     
@@ -8061,9 +8065,9 @@ Registration of transfers, mortgages, caveats, etc
     
     Section 127(1)(ja): inserted, on 29 November 2004, by [section 214][763] of the Maori Fisheries Act 2004 (2004 No 78).
     
-    Section 127(1)(k)(v): substituted, on 1 October 2001, by [section 13][1025] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 127(1)(k)(v): substituted, on 1 October 2001, by [section 13][1026] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
     
-    Section 127(1)(k)(vi): added, on 1 October 2001, by [section 13][1025] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 127(1)(k)(vi): added, on 1 October 2001, by [section 13][1026] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
     
     Section 127(1)(m)(ii): amended, on 29 November 2004, by [section 214][763] of the Maori Fisheries Act 2004 (2004 No 78).
     
@@ -8131,21 +8135,21 @@ Registration of transfers, mortgages, caveats, etc
     
     (3) Each Annual Catch Entitlement Register shall contain corrections made under [section 165][301] and the time and date of the corrections.
     
-    Section 128(1)(b): substituted, on 1 October 2001, by [section 42][1026] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 128(1)(b): substituted, on 1 October 2001, by [section 42][1027] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 128(1)(ba): inserted, on 1 October 2001, by [section 42][1026] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 128(1)(ba): inserted, on 1 October 2001, by [section 42][1027] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
     Section 128(1)(d)(iii): amended, on 9 September 1999, pursuant to [section 90(2)][773] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 129 Registers to be open for inspection
     
-*   (1) The registers kept under this Part are public registers for the purposes of the [Privacy Act 1993][984], and, subject to [section 130][254], shall be open for inspection on payment of the prescribed fee (if any) during ordinary office hours; and the chief executive shall, on request and on payment of a reasonable charge, supply to any person copies of all or part of a register.
+*   (1) The registers kept under this Part are public registers for the purposes of the [Privacy Act 1993][985], and, subject to [section 130][254], shall be open for inspection on payment of the prescribed fee (if any) during ordinary office hours; and the chief executive shall, on request and on payment of a reasonable charge, supply to any person copies of all or part of a register.
     
     (2) The Crown is not liable in damages for any loss or damage resulting from any inaccuracy in any search of a register or a correct search of an inaccurate entry in a register, including any search by, or on behalf of, the chief executive.
     
     (3) If the chief executive is satisfied, on the application of any person, that the disclosure of that person's address (as entered in any register) would be prejudicial to the personal safety of that person or his or her family, the chief executive may direct that such information shall not be available for inspection or otherwise disclosed.
     
-    Compare: 1989 No 148 [s 28][1027]
+    Compare: 1989 No 148 [s 28][1028]
     
     Section 129(1): amended, on 9 September 1999, pursuant to [section 90(2)][773] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
@@ -8175,7 +8179,7 @@ Registration of transfers, mortgages, caveats, etc
     
 *   \[Repealed\]
     
-    Section 131: repealed (without coming into force), on 9 September 1999, by [section 85(g)][827] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 131: repealed (without coming into force), on 9 September 1999, by [section 85(g)][828] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 #### Transfers of quota or annual catch entitlement
 
@@ -8187,7 +8191,7 @@ Registration of transfers, mortgages, caveats, etc
     
     *   (b) the quota shares to be transferred are not subject to any caveat or mortgage registered under this Act; and
     
-    *   (c) in the case of quota shares subject to a settlement quota interest registered under [section 152A][283], the transfer is authorised by Te Ohu Kai Moana Trustee Limited under [section 158][1028] of the Maori Fisheries Act 2004; and
+    *   (c) in the case of quota shares subject to a settlement quota interest registered under [section 152A][283], the transfer is authorised by Te Ohu Kai Moana Trustee Limited under [section 158][1029] of the Maori Fisheries Act 2004; and
     
     *   (d) the person is not an overseas person or, if an overseas person, either has obtained consent under the overseas investment fishing provisions to acquire quota or is exempt from the requirement for that consent.
     
@@ -8207,7 +8211,7 @@ Registration of transfers, mortgages, caveats, etc
     
     Section 132(3): amended, on 9 September 1999, pursuant to [section 90(2)][773] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 132(4): added, on 1 October 2001, by [section 14][1029] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 132(4): added, on 1 October 2001, by [section 14][1030] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
 
 ##### 133 Transfers of annual catch entitlement
     
@@ -8249,7 +8253,7 @@ Registration of transfers, mortgages, caveats, etc
     
 *   (1) Except as otherwise expressly provided by this Act, any quota shares may be subject to a mortgage.
     
-    (1A) [Section 167(1) and (2)][1030] of the Maori Fisheries Act 2004 prevails over subsection (1).
+    (1A) [Section 167(1) and (2)][1031] of the Maori Fisheries Act 2004 prevails over subsection (1).
     
     (2) A mortgage of quota shares prevents the registration of any transfer of quota shares owned by the mortgagor if the transfer would reduce the number of quota shares in any stock owned by the mortgagor to a number less than the number of quota shares for that stock subject to the mortgage.
     
@@ -8275,13 +8279,13 @@ Registration of transfers, mortgages, caveats, etc
     
 *   The number of quota shares in any stock secured by a mortgage under this Act may be increased or reduced by a memorandum of variation in the approved form.
     
-    Compare: 1989 No 148 [s 75][1031]
+    Compare: 1989 No 148 [s 75][1032]
 
 ##### 138A Assignment of mortgages
     
 *   A mortgagee may assign to another person the mortgagee's rights, interests, and obligations under that mortgage by a memorandum of assignment in the approved form.
     
-    Section 138A: inserted, on 1 October 2001, by [section 15][1032] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 138A: inserted, on 1 October 2001, by [section 15][1033] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
 
 ##### 139 Rights of mortgagee
     
@@ -8295,7 +8299,7 @@ Registration of transfers, mortgages, caveats, etc
     
     *   (c) the restrictions on a mortgagee's power of sale defined in [section 140A][268].
     
-    Compare: 1989 No 148 [s 78][1033]
+    Compare: 1989 No 148 [s 78][1034]
     
     Section 139(2)(c): added, on 29 November 2004, by [section 214][763] of the Maori Fisheries Act 2004 (2004 No 78).
 
@@ -8335,13 +8339,13 @@ Registration of transfers, mortgages, caveats, etc
     
     *   (b) a mortgagee is not entitled to compensation or indemnity from the mortgaged quota shares or the mortgagor in respect of any liability incurred by the mortgagee arising from a breach of the duty imposed by subsection (7).
     
-    Compare: 1952 No 51 [ss 92(1AA)][1034], [103A][1035], [103B][1036]; 1989 No 148 [s 79][1037]
+    Compare: 1952 No 51 [ss 92(1AA)][1035], [103A][1036], [103B][1037]; 1989 No 148 [s 79][1038]
     
     Section 140(5A): inserted, on 29 November 2004, by [section 214][763] of the Maori Fisheries Act 2004 (2004 No 78).
 
 ##### 140A Restriction on transfer by mortgagee
     
-*   (1) Despite [sections 139][266] and [140][267], if a mortgagee exercises a power of sale over settlement quota, the mortgagee must transfer the settlement quota in accordance with [sections 161][863] (except subsection (2)) and [163][864] of the Maori Fisheries Act 2004 as if the mortgagee were a mandated iwi organisation.
+*   (1) Despite [sections 139][266] and [140][267], if a mortgagee exercises a power of sale over settlement quota, the mortgagee must transfer the settlement quota in accordance with [sections 161][864] (except subsection (2)) and [163][865] of the Maori Fisheries Act 2004 as if the mortgagee were a mandated iwi organisation.
     
     (2) Despite [section 145(1)][273], the transfer of quota under subsection (1) does not remove the settlement quota interest.
     
@@ -8353,7 +8357,7 @@ Registration of transfers, mortgages, caveats, etc
     
     (2) Leave may be granted under subsection (1) either unconditionally or upon and subject to such conditions as the court thinks fit.
     
-    Compare: 1952 No 51 [ss 92(1AA)][1034], [103A][1035], [103B][1036]; 1989 No 148 [s 81][1038]
+    Compare: 1952 No 51 [ss 92(1AA)][1035], [103A][1036], [103B][1037]; 1989 No 148 [s 81][1039]
 
 ##### 142 Restriction on action to recover deficiency
     
@@ -8361,13 +8365,13 @@ Registration of transfers, mortgages, caveats, etc
     
     (2) A court may, on the application of a mortgagee made _ex parte_ or otherwise as the court thinks fit, waive wholly or in part the 1 month period referred to in subsection (1).
     
-    Compare: 1989 No 148 [s 82][1039]
+    Compare: 1989 No 148 [s 82][1040]
 
 ##### 143 No contracting out
     
 *   [Sections 139 to 142][266] shall have effect notwithstanding any provision to the contrary in any mortgage or other agreement.
     
-    Compare: 1989 No 148 [s 83][1040]
+    Compare: 1989 No 148 [s 83][1041]
 
 ##### 144 Application of purchase money
     
@@ -8381,7 +8385,7 @@ Registration of transfers, mortgages, caveats, etc
     
     *   (d) fourthly, the surplus (if any) shall be paid to the mortgagor.
     
-    Compare: 1989 No 148 [s 84][1041]
+    Compare: 1989 No 148 [s 84][1042]
 
 ##### 145 Transfer by mortgagee
     
@@ -8395,7 +8399,7 @@ Registration of transfers, mortgages, caveats, etc
     
     (4) If a mortgagee gives a receipt in writing in respect of any money arising under an exercise of the power of sale conferred by this Part, or any money or securities comprised in the mortgagee's mortgage or arising under the mortgage, the receipt is a sufficient discharge for that money or those securities, and a person paying or transferring the money or securities to the mortgagee shall not be concerned to inquire whether any money remains due under the mortgage or to see to the application of the money or securities so paid or transferred.
     
-    Compare: 1952 No 51 [s 98(1)][1042]; 1989 No 148 [s 85][1043]
+    Compare: 1952 No 51 [s 98(1)][1043]; 1989 No 148 [s 85][1044]
     
     Section 145(1A): inserted, on 29 November 2004, by [section 214][763] of the Maori Fisheries Act 2004 (2004 No 78).
     
@@ -8407,9 +8411,9 @@ Registration of transfers, mortgages, caveats, etc
     
     (2) A memorandum of discharge, when registered under this Act, discharges the quota shares from the mortgage to the extent specified in that memorandum.
     
-    Compare: 1989 No 148 [s 86][1044]
+    Compare: 1989 No 148 [s 86][1045]
     
-    Section 146(1): amended, on 1 October 2001, by [section 16][1045] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 146(1): amended, on 1 October 2001, by [section 16][1046] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
 
 #### Caveats
 
@@ -8423,7 +8427,7 @@ Registration of transfers, mortgages, caveats, etc
     
     *   (c) at the direction or order of a court in any civil proceedings.
     
-    Section 147(b): amended, on 1 October 2001, by [section 43][1046] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 147(b): amended, on 1 October 2001, by [section 43][1047] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 148 Effect of caveat
     
@@ -8435,7 +8439,7 @@ Registration of transfers, mortgages, caveats, etc
     
     *   (b) a mortgage of the caveated quota shares.
     
-    Compare: 1989 No 148 [s 91][1047]
+    Compare: 1989 No 148 [s 91][1048]
     
     Section 148(1): amended, on 9 September 1999, pursuant to [section 90(2)][773] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
@@ -8459,13 +8463,13 @@ Registration of transfers, mortgages, caveats, etc
     
     *   (b) in the case of a caveat lodged under subsection (1)(a), the quota shares or annual catch entitlement to be the subject of the caveat are not already subject to any other caveat registered under this Act.
     
-    Compare: 1989 No 148 [s 89][1048]
+    Compare: 1989 No 148 [s 89][1049]
     
     Section 149(1): amended, on 9 September 1999, pursuant to [section 90(2)][773] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
     Section 149(1)(a): amended, on 9 September 1999, pursuant to [section 90(2)][773] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 149(1)(c): amended, on 1 October 2001, by [section 44][1049] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 149(1)(c): amended, on 1 October 2001, by [section 44][1050] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
     Section 149(2): amended, on 9 September 1999, pursuant to [section 90(2)][773] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
@@ -8477,7 +8481,7 @@ Registration of transfers, mortgages, caveats, etc
     
     (3) If a caveat has been registered for a stated period, the caveat shall lapse at the close of that period.
     
-    Compare: 1989 No 148 [ss 94][1050], [96][1051]
+    Compare: 1989 No 148 [ss 94][1051], [96][1052]
 
 ##### 151 Procedure for removal of caveat
     
@@ -8495,13 +8499,13 @@ Registration of transfers, mortgages, caveats, etc
     
     (3) This section does not apply to caveats imposed under [section 58][108] or [section 61][113] or [section 214][429].
     
-    Compare: 1989 No 148 [s 93][1052]
+    Compare: 1989 No 148 [s 93][1053]
 
 ##### 152 Person entering or maintaining caveat without due cause liable for damages
     
 *   Any person who lodges a caveat and who, when that caveat is no longer needed to protect any interest of the caveator, fails, without reasonable cause, to withdraw that caveat as soon as reasonably practicable after having been requested to do so by any person prejudicially affected by the caveat, is liable in damages for any loss or damage suffered by any person as a result of the failure to withdraw the caveat.
     
-    Compare: 1989 No 148 [s 95][1053]
+    Compare: 1989 No 148 [s 95][1054]
 
 #### Settlement quota interests
     
@@ -8511,7 +8515,7 @@ Registration of transfers, mortgages, caveats, etc
     
 *   The chief executive must register a settlement quota interest against the quota shares notified by Te Ohu Kai Moana Trustee Limited as soon as reasonably practicable after receiving---
         
-    *   (a) a request in accordance with [section 160(2)][1054] of the Maori Fisheries Act 2004; and
+    *   (a) a request in accordance with [section 160(2)][1055] of the Maori Fisheries Act 2004; and
     
     *   (b) payment by Te Ohu Kai Moana Trustee Limited of the prescribed fee.
     
@@ -8519,13 +8523,13 @@ Registration of transfers, mortgages, caveats, etc
 
 ##### 152B Effect of registering settlement quota interest against quota shares
     
-*   (1) Between the appointed day and the time when a settlement quota interest is registered against the quota specified by Te Ohu Kai Moana Trustee Limited, there must be no dealings with the quota shares listed in [Schedule 1][1055] of the Maori Fisheries Act 2004, except for their transfer to Te Ohu Kai Moana Trustee Limited.
+*   (1) Between the appointed day and the time when a settlement quota interest is registered against the quota specified by Te Ohu Kai Moana Trustee Limited, there must be no dealings with the quota shares listed in [Schedule 1][1056] of the Maori Fisheries Act 2004, except for their transfer to Te Ohu Kai Moana Trustee Limited.
     
     (2) While there is a settlement quota interest registered against quota, no transfer of that quota may be registered unless---
         
     *   (a) the transfer is---
             
-        *   (i) authorised by Te Ohu Kai Moana Trustee Limited and the owner under [section 160][1054] of the Maori Fisheries Act 2004; or
+        *   (i) authorised by Te Ohu Kai Moana Trustee Limited and the owner under [section 160][1055] of the Maori Fisheries Act 2004; or
         
         *   (ii) ordered by the court; or
         
@@ -8533,7 +8537,7 @@ Registration of transfers, mortgages, caveats, etc
     
     *   (b) the settlement quota is forfeit to the Crown under [section 61][113] or [sections 255 to 255E][478].
     
-    (3) To avoid doubt, a settlement quota interest remains in force if settlement quota is transferred, unless the settlement quota interest is removed in accordance with [section 160][1054] of the Maori Fisheries Act 2004\.
+    (3) To avoid doubt, a settlement quota interest remains in force if settlement quota is transferred, unless the settlement quota interest is removed in accordance with [section 160][1055] of the Maori Fisheries Act 2004\.
     
     (4) However, the fact that a settlement quota interest is registered against the quota does not exclude the quota from being subject to a mortgage or caveat under this Act.
     
@@ -8583,7 +8587,7 @@ Registration of transfers, mortgages, caveats, etc
     
     (5) The chief executive must make on the register any entry necessary to show that the quota has been transferred in accordance with [section 23][37] or [section 52][90], and alter any relevant mortgage or caveat accordingly.
     
-    Section 153: substituted, on 1 October 2004, by [section 42][1056] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 153: substituted, on 1 October 2004, by [section 42][1057] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 154 Effect of alteration of quota management area
     
@@ -8605,13 +8609,13 @@ Registration of transfers, mortgages, caveats, etc
     
 *   No transaction has any effect for the purpose of this Act until it is registered in accordance with this Part.
     
-    Compare: 1989 No 148 [s 27][1057]
+    Compare: 1989 No 148 [s 27][1058]
 
 ##### 156 When transactions deemed registered
     
 *   Every transaction registered under this Act shall be deemed to have been registered for the purpose of this Act at the time recorded in the register as the time at which the transaction was registered.
     
-    Compare: 1989 No 148 [s 13][1058]
+    Compare: 1989 No 148 [s 13][1059]
 
 ##### 157 Application for registration
     
@@ -8625,7 +8629,7 @@ Registration of transfers, mortgages, caveats, etc
     
     *   (d) be accompanied by the prescribed fee (if any).
     
-    Compare: 1989 No 148 [s 64][1059]
+    Compare: 1989 No 148 [s 64][1060]
     
     Section 157(a): amended, on 9 September 1999, pursuant to [section 90(2)][773] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
@@ -8635,11 +8639,11 @@ Registration of transfers, mortgages, caveats, etc
     
     (2) Regulations under [section 297][580] may prescribe when an instrument is to be treated as received for registration.
     
-    Compare: 1989 No 148 [s 15][1060]
+    Compare: 1989 No 148 [s 15][1061]
     
     Section 158(1): amended, on 9 September 1999, pursuant to [section 90(2)][773] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 158(2): substituted, on 1 October 2001, by [section 17][1061] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 158(2): substituted, on 1 October 2001, by [section 17][1062] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
 
 ##### 159 Registration procedure
     
@@ -8657,13 +8661,13 @@ Registration of transfers, mortgages, caveats, etc
     
     (2) For the purposes of subsection (1)(c), the mortgagor is treated as a party to a transaction that is an assignment.
     
-    Compare: 1989 No 148 [s 17][1062]
+    Compare: 1989 No 148 [s 17][1063]
     
     Section 159(1): amended, on 9 September 1999, pursuant to [section 90(2)][773] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 159(1)(b): amended, on 1 October 2001, by [section 45][1063] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 159(1)(b): amended, on 1 October 2001, by [section 45][1064] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 159(2): added, on 1 October 2001, by [section 18][1064] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 159(2): added, on 1 October 2001, by [section 18][1065] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
 
 ##### 160 Provisions relating to defective applications for registration
     
@@ -8683,7 +8687,7 @@ Registration of transfers, mortgages, caveats, etc
     
     (3) If any documents are returned as provided in subsection (1), those documents shall be deemed not to have been presented for registration but the fee (if any) paid to the chief executive in respect of them shall be forfeit.
     
-    Compare: 1989 No 148 [ss 18][1065], [20(2)][1066], [21(a), (b)][1067], [22][1068]
+    Compare: 1989 No 148 [ss 18][1066], [20(2)][1067], [21(a), (b)][1068], [22][1069]
     
     Section 160(1): amended, on 9 September 1999, pursuant to [section 90(2)][773] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
@@ -8703,17 +8707,17 @@ Registration of transfers, mortgages, caveats, etc
     
     (3) Every application in relation to provisional catch history must be submitted within the transfer period referred to in [section 37(2)][63].
     
-    Compare: 1989 No 148 [s 87(1), (2)][1069]
+    Compare: 1989 No 148 [s 87(1), (2)][1070]
     
-    Section 161(1): amended, on 1 October 2001, by [section 46(1)][1070] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 161(1): amended, on 1 October 2001, by [section 46(1)][1071] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
     Section 161(1): amended, on 9 September 1999, pursuant to [section 90(2)][773] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 161(2): amended, on 1 October 2001, by [section 46(2)][1070] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 161(2): amended, on 1 October 2001, by [section 46(2)][1071] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
     Section 161(2): amended, on 9 September 1999, pursuant to [section 90(2)][773] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 161(3): added, on 1 October 2001, by [section 46(3)][1070] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 161(3): added, on 1 October 2001, by [section 46(3)][1071] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 162 Procedure on application
     
@@ -8723,15 +8727,15 @@ Registration of transfers, mortgages, caveats, etc
     
     (3) This section overrides [sections 132(1)(b)][257], [133(1)(b)][258], [136(2)][262], and [148(1)][277].
     
-    Compare: 1989 No 148 [s 88][1071]
+    Compare: 1989 No 148 [s 88][1072]
     
-    Section 162(1): amended, on 1 October 2001, by [section 47][1072] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 162(1): amended, on 1 October 2001, by [section 47][1073] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
     Section 162(1): amended, on 9 September 1999, pursuant to [section 90(2)][773] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 162(2): added, on 1 October 2001, by [section 19][1073] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 162(2): added, on 1 October 2001, by [section 19][1074] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
     
-    Section 162(3): added, on 1 October 2001, by [section 19][1073] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 162(3): added, on 1 October 2001, by [section 19][1074] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
 
 ##### 163 Chief executive may transfer quota or annual catch entitlement
     
@@ -8749,7 +8753,7 @@ Registration of transfers, mortgages, caveats, etc
     
     Section 163(1): amended, on 29 November 2004, by [section 214][763] of the Maori Fisheries Act 2004 (2004 No 78).
     
-    Section 163(1)(b): amended, on 1 October 2004, by [section 43][1074] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 163(1)(b): amended, on 1 October 2004, by [section 43][1075] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
     Section 163(2): amended, on 29 November 2004, by [section 214][763] of the Maori Fisheries Act 2004 (2004 No 78).
     
@@ -8769,7 +8773,7 @@ Registration of transfers, mortgages, caveats, etc
     
     *   (c) include a copy of the registration notice issued under [section 159(1)(b)][293] that relates to the record on the register to which the application relates.
     
-    Compare: 1989 No 148 [s 23][1075]
+    Compare: 1989 No 148 [s 23][1076]
     
     Section 164(1): amended, on 9 September 1999, pursuant to [section 90(2)][773] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
@@ -8793,7 +8797,7 @@ Registration of transfers, mortgages, caveats, etc
     
     (4) No correction may be made under this section to the extent that the correction prejudices any bona fide purchaser for value, or any mortgagee for valuable consideration, unless that person makes a statutory declaration confirming his or her consent to the correction of the register.
     
-    Compare: 1989 No 148 [s 24][1076]
+    Compare: 1989 No 148 [s 24][1077]
     
     Section 165(1): amended, on 9 September 1999, pursuant to [section 90(2)][773] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
@@ -8809,7 +8813,7 @@ Registration of transfers, mortgages, caveats, etc
     
     (3) This section does not apply to any record entered on a register in accordance with [section 128(1)(g)][252].
     
-    Compare: 1989 No 148 [s 30][1077]
+    Compare: 1989 No 148 [s 30][1078]
     
     Section 166(1): amended, on 9 September 1999, pursuant to [section 90(2)][773] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
@@ -8819,7 +8823,7 @@ Registration of transfers, mortgages, caveats, etc
     
 *   \[Repealed\]
     
-    Section 167: repealed (without coming into force), on 9 September 1999, by [section 85(h)][827] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 167: repealed (without coming into force), on 9 September 1999, by [section 85(h)][828] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 #### Guarantee of ownership rights
 
@@ -8835,7 +8839,7 @@ Registration of transfers, mortgages, caveats, etc
     
     (3) Subsection (1) does not apply in respect of provisional individual transferable quota, annual catch entitlement, or provisional catch history.
     
-    Compare: 1989 No 148 [s 58(1), (3)][1078]
+    Compare: 1989 No 148 [s 58(1), (3)][1079]
     
     Section 168(1): amended, on 9 September 1999, pursuant to [section 90(2)][773] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
@@ -8857,7 +8861,7 @@ Registration of transfers, mortgages, caveats, etc
     
     (2) This section does not apply in respect of provisional individual transferable quota, annual catch entitlement, or provisional catch history.
     
-    Compare: 1989 No 148 [s 59][1079]
+    Compare: 1989 No 148 [s 59][1080]
 
 ##### 170 No liability on bona fide purchaser or mortgagee
     
@@ -8875,7 +8879,7 @@ Registration of transfers, mortgages, caveats, etc
     
     (3) This section does not apply in respect of provisional individual transferable quota, annual catch entitlement, or provisional catch history.
     
-    Compare: 1989 No 148 [s 60][1080]
+    Compare: 1989 No 148 [s 60][1081]
 
 #### Compensation
 
@@ -8907,19 +8911,19 @@ Registration of transfers, mortgages, caveats, etc
     
     (3) This section does not apply in respect of provisional individual transferable quota, annual catch entitlement, or provisional catch history.
     
-    Compare: 1989 No 148 [s 61][1081]
+    Compare: 1989 No 148 [s 61][1082]
     
-    Section 171 heading: amended, on 1 October 2001, by [section 20(1)][1082] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 171 heading: amended, on 1 October 2001, by [section 20(1)][1083] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
     
-    Section 171(1): substituted, on 1 October 2001, by [section 48][1083] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 171(1): substituted, on 1 October 2001, by [section 48][1084] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 171(1)(a): amended, on 1 October 2001, by [section 20(2)][1082] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 171(1)(a): amended, on 1 October 2001, by [section 20(2)][1083] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
     
-    Section 171(1A): inserted, on 1 October 2001, by [section 48][1083] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 171(1A): inserted, on 1 October 2001, by [section 48][1084] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 171(1A)(a): substituted, on 1 October 2001, by [section 20(3)][1082] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 171(1A)(a): substituted, on 1 October 2001, by [section 20(3)][1083] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
     
-    Section 171(1A)(b): substituted, on 1 October 2001, by [section 20(3)][1082] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 171(1A)(b): substituted, on 1 October 2001, by [section 20(3)][1083] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
 
 ##### 172 Notice of action to be served on Attorney-General and Registrar
     
@@ -8941,9 +8945,9 @@ Registration of transfers, mortgages, caveats, etc
     
     *   (b) shall be liable to the Crown for the costs of defending the action in the same manner as if judgment had been given for the defendant in the action.
     
-    Compare: 1989 No 148 [s 63][1084]
+    Compare: 1989 No 148 [s 63][1085]
     
-    Section 172(1)(a): amended, on 1 October 2001, by [section 49][1085] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 172(1)(a): amended, on 1 October 2001, by [section 49][1086] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 173 Recovery of compensation paid and costs in case of fraud
     
@@ -8955,7 +8959,7 @@ Registration of transfers, mortgages, caveats, etc
     
     (4) All money recovered in any action under subsection (1) shall be paid to the credit of a Crown Bank Account.
     
-    Compare: 1989 No 148 [s 64][1059]
+    Compare: 1989 No 148 [s 64][1060]
     
     Section 173(1): amended, on 9 September 1999, pursuant to [section 90(2)][773] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
@@ -8970,15 +8974,15 @@ Taiapure-local fisheries and customary fishing
     
     *   (b) for spiritual or cultural reasons,---
     
-    better provision for the recognition of rangatiratanga and of the right secured in relation to fisheries by [Article II][1086] of the Treaty of Waitangi.
+    better provision for the recognition of rangatiratanga and of the right secured in relation to fisheries by [Article II][1087] of the Treaty of Waitangi.
     
-    Compare: 1983 No 14 [s 54A][1087]; 1989 No 159 s 74
+    Compare: 1983 No 14 [s 54A][1088]; 1989 No 159 s 74
 
 ##### 175 Declaration of taiapure-local fisheries
     
 *   Subject to [section 176][316], the Governor-General may from time to time, by Order in Council, declare any area of New Zealand fisheries waters (which waters are estuarine waters or littoral coastal waters) to be a taiapure-local fishery.
     
-    Compare: 1983 No 14 [s 54B(1)][1088]; 1989 No 159 s 74
+    Compare: 1983 No 14 [s 54B(1)][1089]; 1989 No 159 s 74
 
 ##### 176 Provisions relating to order under section 175
     
@@ -9000,7 +9004,7 @@ Taiapure-local fisheries and customary fishing
         
         
     
-    Compare: 1983 No 14 [s 54B(2), (3)][1088]; 1989 No 159 s 74
+    Compare: 1983 No 14 [s 54B(2), (3)][1089]; 1989 No 159 s 74
 
 ##### 177 Proposal for establishment of taiapure-local fishery
     
@@ -9032,7 +9036,7 @@ Taiapure-local fisheries and customary fishing
     
     *   (c) contain such other particulars as the chief executive considers appropriate.
     
-    Compare: 1983 No 14 [s 54C][1089]; 1989 No 159 s 74
+    Compare: 1983 No 14 [s 54C][1090]; 1989 No 159 s 74
 
 ##### 178 Initial consideration of proposal
     
@@ -9046,7 +9050,7 @@ Taiapure-local fisheries and customary fishing
     
     (5) If the Minister, after consultation with the Minister of Maori Affairs and after having regard to the provisions of [section 176(2)][316], does not agree in principle with the proposal, the chief executive shall inform the person who made the proposal that the proposal will not be proceeding further as the Minister does not agree with it in principle.
     
-    Compare: 1983 No 14 [s 54D][1090]; 1989 No 159 s 74
+    Compare: 1983 No 14 [s 54D][1091]; 1989 No 159 s 74
 
 ##### 179 Notice of proposal
     
@@ -9062,7 +9066,7 @@ Taiapure-local fisheries and customary fishing
     
     *   (d) the office of the regional council for the area to which the proposal relates.
     
-    Compare: 1983 No 14 [s 54E][1091]; 1989 No 159 s 74
+    Compare: 1983 No 14 [s 54E][1092]; 1989 No 159 s 74
 
 ##### 180 Objections to, and submissions on, proposal
     
@@ -9080,7 +9084,7 @@ Taiapure-local fisheries and customary fishing
     
     *   (b) be supplemented by such particulars and information as the Registrar of the Maori Land Court notifies the applicant the Registrar of the Maori Land Court considers necessary to sufficiently identify the grounds of the objection or the submissions.
     
-    Compare: 1983 No 14 [s 54F][1092]; 1989 No 159 s 74
+    Compare: 1983 No 14 [s 54F][1093]; 1989 No 159 s 74
 
 ##### 181 Inquiry by tribunal
     
@@ -9092,7 +9096,7 @@ Taiapure-local fisheries and customary fishing
     
     (4) In considering the suitability of any person for appointment as an assessor, the Chief Judge of the Maori Land Court shall have regard not only to that person's personal attributes but also to that person's knowledge of and experience in the different aspects of matters likely to be the subject matter of the inquiry.
     
-    (5) The tribunal shall be deemed to be a Commission of Inquiry under the [Commissions of Inquiry Act 1908][1093] and, subject to the provisions of this Act, all the provisions of that Act, except [sections 10 to 12][1094], shall apply accordingly.
+    (5) The tribunal shall be deemed to be a Commission of Inquiry under the [Commissions of Inquiry Act 1908][1094] and, subject to the provisions of this Act, all the provisions of that Act, except [sections 10 to 12][1095], shall apply accordingly.
     
     (6) The person who submitted the proposal to the chief executive, the Minister, any regional council or local authority whose region or district is affected by the proposal, and every body and person which or who made submissions on or objected to the proposal under [section 180][320], shall have the right to be present and be heard at every inquiry conducted by the tribunal under this section, and may be represented by counsel or other duly authorised representative.
     
@@ -9124,21 +9128,21 @@ Taiapure-local fisheries and customary fishing
     
     (10) Subject to [section 182][322], no appeal shall lie from any report or recommendation or decision made under this section.
     
-    Compare: 1983 No 14 [s 54G][1095]; 1989 No 159 s 74
+    Compare: 1983 No 14 [s 54G][1096]; 1989 No 159 s 74
 
 ##### 182 Appeal on question of law
     
-*   If any party to any proceedings under [section 181][321] before a tribunal appointed under that section is dissatisfied with the report or any recommendation of the tribunal as being erroneous in point of law, that party may appeal to the High Court by way of case stated for the opinion of the court on a question of law only, and the provisions of [sections 299][1096] and [308][1097] of the Resource Management Act 1991 shall, with any necessary modifications, apply in respect of the report or recommendation in the same manner as they apply in respect of a decision of the Environment Court under that Act.
+*   If any party to any proceedings under [section 181][321] before a tribunal appointed under that section is dissatisfied with the report or any recommendation of the tribunal as being erroneous in point of law, that party may appeal to the High Court by way of case stated for the opinion of the court on a question of law only, and the provisions of [sections 299][1097] and [308][1098] of the Resource Management Act 1991 shall, with any necessary modifications, apply in respect of the report or recommendation in the same manner as they apply in respect of a decision of the Environment Court under that Act.
     
-    Compare: 1983 No 14 [s 54H][1098]; 1989 No 159 s 74; 1991 No 169 s 362
+    Compare: 1983 No 14 [s 54H][1099]; 1989 No 159 s 74; 1991 No 169 s 362
     
-    Section 182: amended, on 2 September 1996, pursuant to [section 6(2)(a)][1099] of the Resource Management Amendment Act 1996 (1996 No 160).
+    Section 182: amended, on 2 September 1996, pursuant to [section 6(2)(a)][1100] of the Resource Management Amendment Act 1996 (1996 No 160).
 
 ##### 183 Power of Minister to recommend declaration of taiapure-local fishery
     
 *   If a proposal for the establishment of a taiapure-local fishery has been made under [section 177][317] and either any proceedings in relation to that proposal (including any proceedings taken under [sections 180 to 182][320] in relation to that proposal) have been disposed of or the time for taking any such proceedings has expired, the Minister shall, if satisfied that a recommendation should be made under [section 176(1)][316], make that recommendation accordingly.
     
-    Compare: 1983 No 14 [s 54I][1100]; 1989 No 159 s 74
+    Compare: 1983 No 14 [s 54I][1101]; 1989 No 159 s 74
 
 ##### 184 Management of taiapure-local fishery
     
@@ -9150,7 +9154,7 @@ Taiapure-local fisheries and customary fishing
     
     (4) The committee of management shall hold office at the pleasure of the Minister.
     
-    Compare: 1983 No 14 [s 54J][1101]; 1989 No 159 s 74
+    Compare: 1983 No 14 [s 54J][1102]; 1989 No 159 s 74
 
 ##### 185 Power to recommend making of regulations
     
@@ -9170,7 +9174,7 @@ Taiapure-local fisheries and customary fishing
     
     because of the colour, race, or ethnic or national origins of that person or of any relative or associate of that person.
     
-    Compare: 1983 No 14 [s 54K][1102]; 1989 No 159 s 74
+    Compare: 1983 No 14 [s 54K][1103]; 1989 No 159 s 74
 
 #### Customary fishing
 
@@ -9186,7 +9190,7 @@ Taiapure-local fisheries and customary fishing
     
     *   (c) provide for such matters as may be necessary or desirable to achieve the purpose of this Act in relation to mataitai reserves, including general restrictions and prohibitions in respect of the taking of fish, aquatic life, or seaweed:
     
-    *   (d) empower any Maori Committee constituted by or under the [Maori Community Development Act 1962][1103], any marae committee, or any kaitiaki of the tangata whenua to make bylaws restricting or prohibiting the taking of fish, aquatic life, or seaweed:
+    *   (d) empower any Maori Committee constituted by or under the [Maori Community Development Act 1962][1104], any marae committee, or any kaitiaki of the tangata whenua to make bylaws restricting or prohibiting the taking of fish, aquatic life, or seaweed:
     
     *   (e) empower any such Maori Committee, marae committee, or kaitiaki to allow the taking of fish, aquatic life, or seaweed to continue for purposes which sustain the functions of the marae concerned, notwithstanding any such bylaws.
     
@@ -9198,9 +9202,9 @@ Taiapure-local fisheries and customary fishing
     
     *   (c) the publication in the _Gazette_ of bylaws purporting to have been approved under this subsection shall be conclusive evidence that the bylaws have been duly made and approved under this section.
     
-    Compare: 1983 No 14 [s 89(1)(mb), (1C), (3)(b), (3A), (3B)][1104]; 1992 No 121 [s 34][1105]
+    Compare: 1983 No 14 [s 89(1)(mb), (1C), (3)(b), (3A), (3B)][1105]; 1992 No 121 [s 34][1106]
     
-    Section 186(2)(a): substituted, on 23 June 1998, by [section 16][1106] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+    Section 186(2)(a): substituted, on 23 June 1998, by [section 16][1107] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
 
 ##### 186A Temporary closure of fishing area or restriction on fishing methods
     
@@ -9252,11 +9256,11 @@ Taiapure-local fisheries and customary fishing
     
     *   (b) is liable to the penalty specified in [section 252(5)][475] in every other case.
     
-    Section 186A: inserted, on 23 June 1998, by [section 17][1107] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+    Section 186A: inserted, on 23 June 1998, by [section 17][1108] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
     
-    Section 186A(1)(a): amended, on 1 October 1998, by [section 310][1108] of the Ngāi Tahu Claims Settlement Act 1998 (1998 No 97).
+    Section 186A(1)(a): amended, on 1 October 1998, by [section 310][1109] of the Ngāi Tahu Claims Settlement Act 1998 (1998 No 97).
     
-    Section 186A(1)(b): amended, on 1 October 1998, by [section 310][1108] of the Ngāi Tahu Claims Settlement Act 1998 (1998 No 97).
+    Section 186A(1)(b): amended, on 1 October 1998, by [section 310][1109] of the Ngāi Tahu Claims Settlement Act 1998 (1998 No 97).
 
 ##### 186B Temporary closure of fisheries
     
@@ -9298,16 +9302,16 @@ Taiapure-local fisheries and customary fishing
         
     *   (a) in the case of a commercial fisher, to the penalty specified in [section 252(5)][475]:
     
-    *   (b) Iin any other case, to the penalty specified in [section 252(6)][1109].
+    *   (b) Iin any other case, to the penalty specified in [section 252(6)][1110].
     
-    (9) In this section, the term _South Island fisheries waters_ has the same meaning as in the [Ngāi Tahu Claims Settlement Act 1998][1110].
+    (9) In this section, the term _South Island fisheries waters_ has the same meaning as in the [Ngāi Tahu Claims Settlement Act 1998][1111].
     
-    Section 186B: inserted, on 1 October 1998, by [section 311][1111] of the Ngai Tahu Claims Settlement Act 1998 (1998 No 97).
+    Section 186B: inserted, on 1 October 1998, by [section 311][1112] of the Ngai Tahu Claims Settlement Act 1998 (1998 No 97).
 
 ## Part 9A  
 Aquaculture
     
-*   Part 9A: inserted, on 1 January 2005, by [section 8][1112] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+*   Part 9A: inserted, on 1 January 2005, by [section 8][1113] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
 
 ##### 186C Interpretation
     
@@ -9317,13 +9321,13 @@ Aquaculture
     
     _application for a coastal permit_---
         
-    *   (a) means an application for a coastal permit under [section 88][1113] of the Resource Management Act 1991; and
+    *   (a) means an application for a coastal permit under [section 88][1114] of the Resource Management Act 1991; and
     
     *   (b) includes---
             
-        *   (i) an application for a change or cancellation of condition of a coastal permit under [section 127][1114] of that Act; and
+        *   (i) an application for a change or cancellation of condition of a coastal permit under [section 127][1115] of that Act; and
         
-        *   (ii) a notice of intention to review conditions under [section 128][1115] of that Act
+        *   (ii) a notice of intention to review conditions under [section 128][1116] of that Act
         
         
     
@@ -9337,22 +9341,22 @@ Aquaculture
     
     _reservation_, in relation to a coastal permit, means a decision by the chief executive that he or she is not satisfied that the aquaculture activities authorised by the coastal permit will not have an undue adverse effect on fishing.
     
-    Section 186C: inserted, on 1 January 2005, by [section 8][1112] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 186C: inserted, on 1 January 2005, by [section 8][1113] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
     
-    Section 186C **application for a coastal permit**: inserted, on 1 October 2011, by [section 7(2)][1116] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186C **application for a coastal permit**: inserted, on 1 October 2011, by [section 7(2)][1117] of the Fisheries Amendment Act 2011 (2011 No 68).
     
-    Section 186C **coastal permit**: inserted, on 1 October 2011, by [section 7(2)][1116] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186C **coastal permit**: inserted, on 1 October 2011, by [section 7(2)][1117] of the Fisheries Amendment Act 2011 (2011 No 68).
     
-    Section 186C **determination**: substituted, on 1 October 2011, by [section 7(2)][1116] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186C **determination**: substituted, on 1 October 2011, by [section 7(2)][1117] of the Fisheries Amendment Act 2011 (2011 No 68).
     
-    Section 186C **regional council**: inserted, on 1 October 2011, by [section 7(2)][1116] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186C **regional council**: inserted, on 1 October 2011, by [section 7(2)][1117] of the Fisheries Amendment Act 2011 (2011 No 68).
     
-    Section 186C **reservation**: substituted, on 1 October 2011, by [section 7(2)][1116] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186C **reservation**: substituted, on 1 October 2011, by [section 7(2)][1117] of the Fisheries Amendment Act 2011 (2011 No 68).
 
 ### Subpart 1---Aquaculture decisions in relation to coastal permits
     
-*   Subpart 1: inserted, on 1 January 2005, by [section 8][1112] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
-*   Subpart 1 heading: amended, on 1 October 2011, by [section 6][1117] of the Fisheries Amendment Act 2011 (2011 No 68).
+*   Subpart 1: inserted, on 1 January 2005, by [section 8][1113] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+*   Subpart 1 heading: amended, on 1 October 2011, by [section 6][1118] of the Fisheries Amendment Act 2011 (2011 No 68).
 
 ##### 186D Chief executive may seek information or consult certain persons for purposes of making aquaculture decision
     
@@ -9378,11 +9382,11 @@ Aquaculture
     
     *   (b) is not required to consider or take into account any submissions made for the purposes of the consultation received after that date or extended date (as the case may be).
     
-    Section 186D: substituted, on 1 October 2011, by [section 8][1118] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186D: substituted, on 1 October 2011, by [section 8][1119] of the Fisheries Amendment Act 2011 (2011 No 68).
 
 ##### 186E Chief executive to make aquaculture decision
     
-*   (1) Within 20 working days after receiving a request for an aquaculture decision from a regional council under [section 114][1119] of the Resource Management Act 1991, the chief executive must---
+*   (1) Within 20 working days after receiving a request for an aquaculture decision from a regional council under [section 114][1120] of the Resource Management Act 1991, the chief executive must---
         
     *   (a) make a determination; or
     
@@ -9410,7 +9414,7 @@ Aquaculture
     
     (5) Subsection (4) applies subject to [section 186D(2) and (4)][333].
     
-    Section 186E: substituted, on 1 October 2011, by [section 8][1118] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186E: substituted, on 1 October 2011, by [section 8][1119] of the Fisheries Amendment Act 2011 (2011 No 68).
 
 ##### 186F Order in which requests for aquaculture decisions to be processed
     
@@ -9418,19 +9422,19 @@ Aquaculture
     
     (2) For the purposes of subsection (1), the order in which aquaculture decisions must be made in relation to requests for aquaculture decisions received on the same day is determined according to the time when the requests are received.
     
-    (3) If 2 or more requests for aquaculture decisions are received at the same time from the same regional council, the chief executive must make aquaculture decisions in the order specified by the regional council under [section 114(5)][1119] of the Resource Management Act 1991\.
+    (3) If 2 or more requests for aquaculture decisions are received at the same time from the same regional council, the chief executive must make aquaculture decisions in the order specified by the regional council under [section 114(5)][1120] of the Resource Management Act 1991\.
     
     (4) For the purposes of subsections (1) to (3), the chief executive's aquaculture decision is not to be treated as made until any judicial review of the decision is finally disposed of.
     
     (5) The chief executive may make aquaculture decisions in a different order from that required by subsections (1) to (3), but the chief executive may do so only if satisfied that in making an aquaculture decision out of order it will not have an adverse effect on any other aquaculture decision that the chief executive has been requested to make.
     
-    Section 186F: substituted, on 1 October 2011, by [section 8][1118] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186F: substituted, on 1 October 2011, by [section 8][1119] of the Fisheries Amendment Act 2011 (2011 No 68).
 
 ##### 186G Provision of fisheries information relating to stock
     
 *   For the purposes of this subpart and subpart 4, the chief executive may, by notice in the _Gazette_, specify the manner and form in which fisheries information relating to stocks is to be made publicly available by the Ministry of Fisheries.
     
-    Section 186G: substituted, on 1 October 2011, by [section 8][1118] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186G: substituted, on 1 October 2011, by [section 8][1119] of the Fisheries Amendment Act 2011 (2011 No 68).
 
 ##### 186GA Aquaculture decisions must not be made in relation to certain areas
     
@@ -9438,7 +9442,7 @@ Aquaculture
         
     *   (a) an area---
             
-        *   (i) that is or was subject to a lease, licence, marine farming permit, or spat catching permit that was deemed under [section 10][1120], [20][1121], or [21][1122] of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 to be a coastal permit granted under the [Resource Management Act 1991][729]; and
+        *   (i) that is or was subject to a lease, licence, marine farming permit, or spat catching permit that was deemed under [section 10][1121], [20][1122], or [21][1123] of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 to be a coastal permit granted under the [Resource Management Act 1991][729]; and
         
         *   (ii) where, since the date on which the lease, licence, marine farming permit, or spat catching permit was deemed to be a coastal permit, aquaculture activities have been continuously authorised under that permit or another permit granted under the [Resource Management Act 1991][729]; or
         
@@ -9446,11 +9450,11 @@ Aquaculture
     
     *   (b) an area that is or was subject to the coastal permit referred to in section 20A of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 and where, since the date the coastal permit was deemed to be granted, aquaculture activities have been continuously authorised under the permit or another permit granted under the [Resource Management Act 1991][729]; or
     
-    *   (c) an area that is in a gazetted aquaculture area within the meaning of [section 35][1123] of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004; or
+    *   (c) an area that is in a gazetted aquaculture area within the meaning of [section 35][1124] of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004; or
     
-    *   (d) an area that is subject to a coastal permit to which [section 114(6)][1119] of the Resource Management Act 1991 applies.
+    *   (d) an area that is subject to a coastal permit to which [section 114(6)][1120] of the Resource Management Act 1991 applies.
     
-    Section 186GA: inserted, on 1 October 2011, by [section 8][1118] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186GA: inserted, on 1 October 2011, by [section 8][1119] of the Fisheries Amendment Act 2011 (2011 No 68).
 
 ##### 186GB Matters to be considered before aquaculture decision made
     
@@ -9470,7 +9474,7 @@ Aquaculture
     
     (2) If a pre-request aquaculture agreement has been registered under [section 186ZH][369] in relation to the area that the coastal permit relates to, the chief executive must not have regard to the undue adverse effects on commercial fishing in respect of any stocks covered by the pre-request aquaculture agreement when having regard to the matters specified in subsection (1).
     
-    Section 186GB: inserted, on 1 October 2011, by [section 8][1118] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186GB: inserted, on 1 October 2011, by [section 8][1119] of the Fisheries Amendment Act 2011 (2011 No 68).
 
 ##### 186H Requirements for aquaculture decision
     
@@ -9520,17 +9524,17 @@ Aquaculture
     
     *   (b) information about where a copy of the determination or reservation can be obtained.
     
-    Section 186H: substituted, on 1 October 2011, by [section 9][1124] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186H: substituted, on 1 October 2011, by [section 9][1125] of the Fisheries Amendment Act 2011 (2011 No 68).
 
 ##### 186I Appeal against aquaculture decision
     
 *   \[Repealed\]
     
-    Section 186I: repealed, on 1 October 2011, by [section 10][1125] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186I: repealed, on 1 October 2011, by [section 10][1126] of the Fisheries Amendment Act 2011 (2011 No 68).
 
 ##### 186J Judicial review of aquaculture decision
     
-*   (1) Any person wishing to seek, under [Part 1][1126] of the Judicature Amendment Act 1972, judicial review of an aquaculture decision must do so within 30 working days after the notification of the decision under section 186H(2)(a).
+*   (1) Any person wishing to seek, under [Part 1][1127] of the Judicature Amendment Act 1972, judicial review of an aquaculture decision must do so within 30 working days after the notification of the decision under section 186H(2)(a).
     
     (2) The chief executive must notify the relevant regional council of---
         
@@ -9538,15 +9542,15 @@ Aquaculture
     
     *   (b) the result of those proceedings, including any appeals.
     
-    Section 186J: inserted, on 1 January 2005, by [section 8][1112] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 186J: inserted, on 1 January 2005, by [section 8][1113] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
     
-    Section 186J(1): amended, on 1 October 2011, by [section 11(1)][1127] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186J(1): amended, on 1 October 2011, by [section 11(1)][1128] of the Fisheries Amendment Act 2011 (2011 No 68).
     
-    Section 186J(2): added, on 1 October 2011, by [section 11(2)][1127] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186J(2): added, on 1 October 2011, by [section 11(2)][1128] of the Fisheries Amendment Act 2011 (2011 No 68).
 
 ### Subpart 2---Fish farmers
     
-*   Subpart 2: inserted, on 1 January 2005, by [section 8][1112] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+*   Subpart 2: inserted, on 1 January 2005, by [section 8][1113] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
 
 ##### 186K Fish Farmer Register
     
@@ -9562,17 +9566,17 @@ Aquaculture
     
     (6) Without limiting [section 297][580], regulations made under that section may provide for the operation of the register under this section, including the electronic transmission of information for the purposes of this subpart.
     
-    Section 186K: inserted, on 1 January 2005, by [section 8][1112] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 186K: inserted, on 1 January 2005, by [section 8][1113] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
 
 ##### 186L Information to be shown in Fish Farmer Register
     
 *   The Fish Farmer Register must contain the information required by regulations made under [section 297][580].
     
-    Section 186L: inserted, on 1 January 2005, by [section 8][1112] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 186L: inserted, on 1 January 2005, by [section 8][1113] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
 
 ##### 186M Access to Fish Farmer Register
     
-*   (1) The Fish Farmer Register is a public register for the purposes of the [Privacy Act 1993][984].
+*   (1) The Fish Farmer Register is a public register for the purposes of the [Privacy Act 1993][985].
     
     (2) The Fish Farmer Register must be open for inspection by members of the public on payment of the prescribed fee (if any) during the hours stated by notice in the _Gazette_ under [section 186K(5)][343].
     
@@ -9586,7 +9590,7 @@ Aquaculture
     
     (5) If the chief executive is satisfied, on the application of any person, that the disclosure of the person's address (as entered in the register) would be prejudicial to the personal safety of the person or his or her family, the chief executive may direct that the information must not be made available for inspection or otherwise disclosed.
     
-    Section 186M: inserted, on 1 January 2005, by [section 8][1112] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 186M: inserted, on 1 January 2005, by [section 8][1113] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
 
 ##### 186N Fish farmer must advise chief executive of certain changes
     
@@ -9596,13 +9600,13 @@ Aquaculture
     
     (3) Every fish farmer who contravenes subsection (1) commits an offence and is liable to the penalty set out in [section 252(6)][475].
     
-    Section 186N: inserted, on 1 January 2005, by [section 8][1112] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 186N: inserted, on 1 January 2005, by [section 8][1113] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
 
 ##### 186O Limitations on holding and dealing with fish farmer registration
     
 *   A fish farmer may not transfer, lease, or assign his or her registration as a fish farmer.
     
-    Section 186O: inserted, on 1 January 2005, by [section 8][1112] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 186O: inserted, on 1 January 2005, by [section 8][1113] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
 
 ##### 186P Restriction on fish farming
     
@@ -9614,7 +9618,7 @@ Aquaculture
     
     (2) Every person who contravenes subsection (1) commits an offence and is liable to the penalty set out in [section 252(5)][475].
     
-    Section 186P: inserted, on 1 January 2005, by [section 8][1112] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 186P: inserted, on 1 January 2005, by [section 8][1113] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
 
 ##### 186Q Exemptions
     
@@ -9656,7 +9660,7 @@ Aquaculture
     
     (8) Anything done under subsection (6) takes effect on and from the date specified for that purpose in the notice.
     
-    Section 186Q: inserted, on 1 January 2005, by [section 8][1112] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 186Q: inserted, on 1 January 2005, by [section 8][1113] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
 
 ##### 186R Applications to register as fish farmer
     
@@ -9670,7 +9674,7 @@ Aquaculture
     
     *   (b) defer making a decision on the application until the further information is provided.
     
-    Section 186R: inserted, on 1 January 2005, by [section 8][1112] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 186R: inserted, on 1 January 2005, by [section 8][1113] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
 
 ##### 186S Decision on application
     
@@ -9702,13 +9706,13 @@ Aquaculture
     
     *   (c) the involvement in the operations of the fish farm of any person convicted of a fisheries offence.
     
-    Section 186S: inserted, on 1 January 2005, by [section 8][1112] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 186S: inserted, on 1 January 2005, by [section 8][1113] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
 
 ##### 186T Section 186S subject to sections 30 and 31 of Aquaculture Reform (Repeals and Transitional Provisions) Act 2004
     
-*   [Section 186S][351] applies subject to [sections 30][1128] and [31][1129] of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004\.
+*   [Section 186S][351] applies subject to [sections 30][1129] and [31][1130] of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004\.
     
-    Section 186T: inserted, on 1 January 2005, by [section 8][1112] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 186T: inserted, on 1 January 2005, by [section 8][1113] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
 
 ##### 186U Effect of registration
     
@@ -9718,7 +9722,7 @@ Aquaculture
     
     *   (b) possess, sell, or otherwise dispose of farmed fish.
     
-    Section 186U: inserted, on 1 January 2005, by [section 8][1112] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 186U: inserted, on 1 January 2005, by [section 8][1113] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
 
 ##### 186V Registration of fish farmer
     
@@ -9746,7 +9750,7 @@ Aquaculture
         
         
     
-    Section 186V: inserted, on 1 January 2005, by [section 8][1112] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 186V: inserted, on 1 January 2005, by [section 8][1113] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
 
 ##### 186W Variation of registration
     
@@ -9766,13 +9770,13 @@ Aquaculture
     
     (5) The chief executive must not vary the registration of a fish farmer if the proposed variation were treated as an application to register as a fish farmer and the chief executive would have had to decline the application under [section 186S(2)][351].
     
-    Section 186W: inserted, on 1 January 2005, by [section 8][1112] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 186W: inserted, on 1 January 2005, by [section 8][1113] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
 
 ##### 186X Appeal against suspension of fish farmer registration
     
 *   A District Court may at any time on application by a fish farmer whose registration is suspended under [section 269][504] make an order lifting the suspension subject to any sureties and conditions specified by the court.
     
-    Section 186X: inserted, on 1 January 2005, by [section 8][1112] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 186X: inserted, on 1 January 2005, by [section 8][1113] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
 
 ##### 186Y Revocation of registration
     
@@ -9792,7 +9796,7 @@ Aquaculture
     
     (4) This section does not require the chief executive to remit or refund any fees, charges, or levies paid or payable by the fish farmer for the period from the date of registration to the date of revocation.
     
-    Section 186Y: inserted, on 1 January 2005, by [section 8][1112] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 186Y: inserted, on 1 January 2005, by [section 8][1113] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
 
 ##### 186Z Appeal against revocation of fish farmer registration
     
@@ -9806,7 +9810,7 @@ Aquaculture
     
     (3) After the appeal is filed and pending its decision on the appeal, the District Court may make an order suspending the revocation subject to any terms and conditions it considers appropriate.
     
-    Section 186Z: inserted, on 1 January 2005, by [section 8][1112] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 186Z: inserted, on 1 January 2005, by [section 8][1113] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
 
 ##### 186ZA Subpart does not affect Freshwater Fish Farming Regulations 1983
     
@@ -9816,7 +9820,7 @@ Aquaculture
     
     *   (b) require a person undertaking fish farming under a licence granted under those regulations to register as a fish farmer under this subpart.
     
-    Section 186ZA: inserted, on 1 January 2005, by [section 8][1112] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 186ZA: inserted, on 1 January 2005, by [section 8][1113] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
 
 ##### 186ZB Subpart does not apply to fish farming under protected customary rights order or agreement
     
@@ -9826,11 +9830,11 @@ Aquaculture
 
 ### Subpart 3---Spat catching
     
-*   Subpart 3: inserted, on 1 January 2005, by [section 8][1112] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+*   Subpart 3: inserted, on 1 January 2005, by [section 8][1113] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
 
 #### Harvestable spat
     
-*   Heading: inserted, on 1 January 2005, by [section 8][1112] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+*   Heading: inserted, on 1 January 2005, by [section 8][1113] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
 
 ##### 186ZC Alteration of Schedule 8A
     
@@ -9846,12 +9850,12 @@ Aquaculture
     
     (4) Before making a recommendation under subsection (1) to include a species of fish, aquatic life, or seaweed in [Schedule 8A][707], the Minister must consult the persons or organisations that the Minister considers are representative of the classes of persons having an interest in the species concerned, including Māori, environmental, commercial, and recreational interests.
     
-    Section 186ZC: inserted, on 1 January 2005, by [section 8][1112] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 186ZC: inserted, on 1 January 2005, by [section 8][1113] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
 
 ### Subpart 4---Aquaculture agreements and compensation declarations
     
-*   Subpart 4: inserted, on 1 January 2005, by [section 8][1112] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
-*   Subpart 4 heading: amended, on 1 October 2011, by [section 12][1130] of the Fisheries Amendment Act 2011 (2011 No 68).
+*   Subpart 4: inserted, on 1 January 2005, by [section 8][1113] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+*   Subpart 4 heading: amended, on 1 October 2011, by [section 12][1131] of the Fisheries Amendment Act 2011 (2011 No 68).
 
 ##### 186ZD Interpretation
     
@@ -9863,7 +9867,7 @@ Aquaculture
     
     _pre-request aquaculture agreement_ means 1 or more documents, in the approved form, containing the consents required under [section 186ZM][377].
     
-    Section 186ZD: substituted, on 1 October 2011, by [section 13][1131] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186ZD: substituted, on 1 October 2011, by [section 13][1132] of the Fisheries Amendment Act 2011 (2011 No 68).
 
 ##### 186ZE Registers of aquaculture agreements, pre-request aquaculture agreements, and compensation declarations
     
@@ -9877,7 +9881,7 @@ Aquaculture
     
     (2) [Sections 186K(2) to (6)][343], [186L][344], and [186M][345] apply, with all necessary modifications, to each register.
     
-    Section 186ZE: substituted, on 1 October 2011, by [section 14][1132] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186ZE: substituted, on 1 October 2011, by [section 14][1133] of the Fisheries Amendment Act 2011 (2011 No 68).
 
 ##### 186ZF Quota owners whose consent is necessary for aquaculture agreement
     
@@ -9893,11 +9897,11 @@ Aquaculture
     
     *   (b) to the extent that the consents referred to in paragraph (a) are given by persons holding 75% or more but less than 100% of the quota shares for the stock, the consent of the High Court in relation to the persons who did not consent.
     
-    (3) After an aquaculture agreement is registered, no person whose consent is contained in the agreement may revoke the consent, but the consent and the aquaculture agreement itself come to an end when the coastal permit to which they relate comes to an end, unless the coastal permit is replaced by a new permit in accordance with [section 165ZH][1133] of the Resource Management Act 1991\.
+    (3) After an aquaculture agreement is registered, no person whose consent is contained in the agreement may revoke the consent, but the consent and the aquaculture agreement itself come to an end when the coastal permit to which they relate comes to an end, unless the coastal permit is replaced by a new permit in accordance with [section 165ZH][1134] of the Resource Management Act 1991\.
     
     (4) For the purposes of this section, subsection (2) applies to the persons specified in that subsection as at 5 pm on the date on which the chief executive gives notice of a reservation under [section 186H(2)(a)][339] in relation to the coastal permit concerned.
     
-    Section 186ZF: substituted, on 1 October 2011, by [section 15][1134] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186ZF: substituted, on 1 October 2011, by [section 15][1135] of the Fisheries Amendment Act 2011 (2011 No 68).
 
 ##### 186ZG High Court may consent to aquaculture agreement on behalf of non-consenting persons
     
@@ -9921,11 +9925,11 @@ Aquaculture
     
     (5) A person who makes an application to the High Court under subsection (1) must, as soon as practicable after making the application, give a copy of the application to the chief executive.
     
-    Section 186ZG: inserted, on 1 January 2005, by [section 8][1112] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 186ZG: inserted, on 1 January 2005, by [section 8][1113] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
     
-    Section 186ZG(1): amended, on 1 October 2011, by [section 16(1)][1135] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186ZG(1): amended, on 1 October 2011, by [section 16(1)][1136] of the Fisheries Amendment Act 2011 (2011 No 68).
     
-    Section 186ZG(2) paragraph (b): repealed, on 1 October 2011, by [section 16(2)][1135] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186ZG(2) paragraph (b): repealed, on 1 October 2011, by [section 16(2)][1136] of the Fisheries Amendment Act 2011 (2011 No 68).
 
 ##### 186ZH Lodging aquaculture agreements with chief executive for registration
     
@@ -9947,11 +9951,11 @@ Aquaculture
     
     *   (b) is not required to verify the identity of a quota owner appearing to consent in the agreement.
     
-    Section 186ZH: inserted, on 1 January 2005, by [section 8][1112] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 186ZH: inserted, on 1 January 2005, by [section 8][1113] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
     
-    Section 186ZH(3)(a): amended, on 1 October 2011, by [section 17][1136] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186ZH(3)(a): amended, on 1 October 2011, by [section 17][1137] of the Fisheries Amendment Act 2011 (2011 No 68).
     
-    Section 186ZH(3)(b): amended, on 1 October 2011, by [section 17][1136] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186ZH(3)(b): amended, on 1 October 2011, by [section 17][1137] of the Fisheries Amendment Act 2011 (2011 No 68).
 
 ##### 186ZHA Lodging compensation declarations with chief executive for registration
     
@@ -9969,7 +9973,7 @@ Aquaculture
     
     (3) In deciding whether to register a compensation declaration, the chief executive is entitled to rely on the information in the declaration as sufficient evidence that compensation has been provided to quota owners in accordance with [sections 186ZN][379] and [186ZQ][382], unless the chief executive has notice of evidence to the contrary.
     
-    Section 186ZHA: inserted, on 1 October 2011, by [section 18][1137] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186ZHA: inserted, on 1 October 2011, by [section 18][1138] of the Fisheries Amendment Act 2011 (2011 No 68).
 
 ##### 186ZI Period within which aquaculture agreements must be lodged for registration
     
@@ -10001,15 +10005,15 @@ Aquaculture
     
     (5) \[Repealed\]
     
-    Section 186ZI(1)(a): amended, on 1 October 2011, by [section 19(1)][1138] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186ZI(1)(a): amended, on 1 October 2011, by [section 19(1)][1139] of the Fisheries Amendment Act 2011 (2011 No 68).
     
-    Section 186ZI(1)(b): substituted, on 1 October 2011, by [section 19(2)][1138] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186ZI(1)(b): substituted, on 1 October 2011, by [section 19(2)][1139] of the Fisheries Amendment Act 2011 (2011 No 68).
     
-    Section 186ZI(2)(a): amended, on 1 October 2011, by [section 19(3)][1138] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186ZI(2)(a): amended, on 1 October 2011, by [section 19(3)][1139] of the Fisheries Amendment Act 2011 (2011 No 68).
     
-    Section 186ZI(4)(c): added, on 1 October 2011, by [section 19(4)][1138] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186ZI(4)(c): added, on 1 October 2011, by [section 19(4)][1139] of the Fisheries Amendment Act 2011 (2011 No 68).
     
-    Section 186ZI(5): repealed, on 1 October 2011, by [section 19(5)][1138] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186ZI(5): repealed, on 1 October 2011, by [section 19(5)][1139] of the Fisheries Amendment Act 2011 (2011 No 68).
 
 ##### 186ZIA Period within which compensation declaration must be lodged for registration
     
@@ -10039,17 +10043,17 @@ Aquaculture
     
     *   (c) the period beginning with the day on which proceedings are brought seeking judicial review of the chief executive's aquaculture decision and ending on the day on which the proceedings are finally disposed of.
     
-    Section 186ZIA: inserted, on 1 October 2011, by [section 20][1139] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186ZIA: inserted, on 1 October 2011, by [section 20][1140] of the Fisheries Amendment Act 2011 (2011 No 68).
 
 ##### 186ZJ No proceedings to be taken against chief executive
     
 *   (1) No civil or criminal proceedings are to be brought against the chief executive in respect of any decision of the chief executive under [section 186ZH][369], [186ZHA][370], [186ZI][371], [186ZIA][372], or [186ZM][377].
     
-    (2) However, subsection (1) does not apply in relation to proceedings seeking, under [Part 1][1126] of the Judicature Amendment Act 1972, judicial review of a decision by the chief executive.
+    (2) However, subsection (1) does not apply in relation to proceedings seeking, under [Part 1][1127] of the Judicature Amendment Act 1972, judicial review of a decision by the chief executive.
     
-    Section 186ZJ: inserted, on 1 January 2005, by [section 8][1112] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 186ZJ: inserted, on 1 January 2005, by [section 8][1113] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
     
-    Section 186ZJ(1): amended, on 1 October 2011, by [section 21][1140] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186ZJ(1): amended, on 1 October 2011, by [section 21][1141] of the Fisheries Amendment Act 2011 (2011 No 68).
 
 ##### 186ZK Chief executive must notify regional council of certain matters
     
@@ -10071,29 +10075,29 @@ Aquaculture
     
     *   (g) the name of the person who made a compensation declaration registered by the chief executive and the area the declaration relates to.
     
-    Section 186ZK: inserted, on 1 January 2005, by [section 8][1112] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 186ZK: inserted, on 1 January 2005, by [section 8][1113] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
     
-    Section 186ZK(2)(c): amended, on 1 October 2011, by [section 22(1)][1141] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186ZK(2)(c): amended, on 1 October 2011, by [section 22(1)][1142] of the Fisheries Amendment Act 2011 (2011 No 68).
     
-    Section 186ZK(2)(d): amended, on 1 October 2011, by [section 22(2)][1141] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186ZK(2)(d): amended, on 1 October 2011, by [section 22(2)][1142] of the Fisheries Amendment Act 2011 (2011 No 68).
     
-    Section 186ZK(2)(d): amended, on 1 October 2011, by [section 22(3)][1141] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186ZK(2)(d): amended, on 1 October 2011, by [section 22(3)][1142] of the Fisheries Amendment Act 2011 (2011 No 68).
     
-    Section 186ZK(2)(e): amended, on 1 October 2011, by [section 22(4)][1141] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186ZK(2)(e): amended, on 1 October 2011, by [section 22(4)][1142] of the Fisheries Amendment Act 2011 (2011 No 68).
     
-    Section 186ZK(2)(f): amended, on 1 October 2011, by [section 22(5)][1141] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186ZK(2)(f): amended, on 1 October 2011, by [section 22(5)][1142] of the Fisheries Amendment Act 2011 (2011 No 68).
     
-    Section 186ZK(2)(g): added, on 1 October 2011, by [section 22(6)][1141] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186ZK(2)(g): added, on 1 October 2011, by [section 22(6)][1142] of the Fisheries Amendment Act 2011 (2011 No 68).
 
 ##### 186ZL Memorials
     
-*   (1) Subsection (2) applies if the chief executive makes a reservation in relation to commercial fishing for stocks subject to the quota management system under [section 186E][334] or [section 38][1142] of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004\.
+*   (1) Subsection (2) applies if the chief executive makes a reservation in relation to commercial fishing for stocks subject to the quota management system under [section 186E][334] or [section 38][1143] of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004\.
     
-    (2) The chief executive must ensure that a memorial is recorded in the appropriate register against all quota for the stocks specified in a notice given by the chief executive under [section 186H][339] or [section 41][1143] of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 in relation to the reservation on the date of the notification under section 186H(2)(a).
+    (2) The chief executive must ensure that a memorial is recorded in the appropriate register against all quota for the stocks specified in a notice given by the chief executive under [section 186H][339] or [section 41][1144] of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 in relation to the reservation on the date of the notification under section 186H(2)(a).
     
     (3) A memorial must be to the effect that---
         
-    *   (a) the chief executive has made a reservation in relation to commercial fishing for stocks subject to the quota management system under [section 186E][334] or [section 38][1142] of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004; and
+    *   (a) the chief executive has made a reservation in relation to commercial fishing for stocks subject to the quota management system under [section 186E][334] or [section 38][1143] of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004; and
     
     *   (b) as a result, an aquaculture agreement, or compensation declaration, can be registered under this Part; and
     
@@ -10103,31 +10107,31 @@ Aquaculture
     
     (5) \[Repealed\]
     
-    Section 186ZL: substituted, on 28 September 2008, by [section 8][1144] of the Fisheries Amendment Act (No 2) 2008 (2008 No 93).
+    Section 186ZL: substituted, on 28 September 2008, by [section 8][1145] of the Fisheries Amendment Act (No 2) 2008 (2008 No 93).
     
-    Section 186ZL(1): substituted, on 1 October 2011, by [section 23(1)][1145] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186ZL(1): substituted, on 1 October 2011, by [section 23(1)][1146] of the Fisheries Amendment Act 2011 (2011 No 68).
     
-    Section 186ZL(2): amended, on 1 October 2011, by [section 23(2)][1145] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186ZL(2): amended, on 1 October 2011, by [section 23(2)][1146] of the Fisheries Amendment Act 2011 (2011 No 68).
     
-    Section 186ZL(3)(a): amended, on 1 October 2011, by [section 23(3)][1145] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186ZL(3)(a): amended, on 1 October 2011, by [section 23(3)][1146] of the Fisheries Amendment Act 2011 (2011 No 68).
     
-    Section 186ZL(3)(b): amended, on 1 October 2011, by [section 23(4)][1145] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186ZL(3)(b): amended, on 1 October 2011, by [section 23(4)][1146] of the Fisheries Amendment Act 2011 (2011 No 68).
     
-    Section 186ZL(3)(c): amended, on 1 October 2011, by [section 23(5)][1145] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186ZL(3)(c): amended, on 1 October 2011, by [section 23(5)][1146] of the Fisheries Amendment Act 2011 (2011 No 68).
     
-    Section 186ZL(3)(c): amended, on 1 October 2011, by [section 23(6)][1145] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186ZL(3)(c): amended, on 1 October 2011, by [section 23(6)][1146] of the Fisheries Amendment Act 2011 (2011 No 68).
     
-    Section 186ZL(4): substituted, on 1 October 2011, by [section 23(7)][1145] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186ZL(4): substituted, on 1 October 2011, by [section 23(7)][1146] of the Fisheries Amendment Act 2011 (2011 No 68).
     
-    Section 186ZL(5): repealed, on 1 October 2011, by [section 23(8)][1145] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186ZL(5): repealed, on 1 October 2011, by [section 23(8)][1146] of the Fisheries Amendment Act 2011 (2011 No 68).
 
 #### Pre-request aquaculture agreements
     
-*   Heading: inserted, on 1 October 2011, by [section 24][1146] of the Fisheries Amendment Act 2011 (2011 No 68).
+*   Heading: inserted, on 1 October 2011, by [section 24][1147] of the Fisheries Amendment Act 2011 (2011 No 68).
 
 ##### 186ZM Pre-request aquaculture agreements
     
-*   (1) A person who has applied for a coastal permit to undertake aquaculture activities in the coastal marine area may, before a regional council makes a request under [section 114][1119] of the Resource Management Act 1991 for an aquaculture decision in relation to the coastal permit, lodge a pre-request aquaculture agreement in relation to the area covered by the application with the chief executive for registration. 
+*   (1) A person who has applied for a coastal permit to undertake aquaculture activities in the coastal marine area may, before a regional council makes a request under [section 114][1120] of the Resource Management Act 1991 for an aquaculture decision in relation to the coastal permit, lodge a pre-request aquaculture agreement in relation to the area covered by the application with the chief executive for registration. 
     
     (2) The pre-request aquaculture agreement must be in the approved form, be accompanied by the prescribed fee, and---
         
@@ -10149,7 +10153,7 @@ Aquaculture
         
     *   (a) if the application for the coastal permit they relate to is declined or withdrawn; or
     
-    *   (b) if the application is granted, when the coastal permit to which they relate comes to an end, unless the coastal permit is replaced by a new permit in accordance with [section 165ZH][1133] of the Resource Management Act 1991\.
+    *   (b) if the application is granted, when the coastal permit to which they relate comes to an end, unless the coastal permit is replaced by a new permit in accordance with [section 165ZH][1134] of the Resource Management Act 1991\.
     
     (6) [Sections 186ZH][369] and [186ZK][374] apply with any necessary modifications as if references to an aquaculture agreement were references to a pre-request aquaculture agreement and references to [section 186ZF][367] were references to [section 186ZM][377].
     
@@ -10159,11 +10163,11 @@ Aquaculture
     
     (9) An order or direction under subsection (8) must not prevent or delay the chief executive making an aquaculture decision.
     
-    Section 186ZM: inserted, on 1 October 2011, by [section 24][1146] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186ZM: inserted, on 1 October 2011, by [section 24][1147] of the Fisheries Amendment Act 2011 (2011 No 68).
 
 #### Compensation
     
-*   Heading: inserted, on 1 October 2011, by [section 24][1146] of the Fisheries Amendment Act 2011 (2011 No 68).
+*   Heading: inserted, on 1 October 2011, by [section 24][1147] of the Fisheries Amendment Act 2011 (2011 No 68).
 
 ##### 186ZN Compensation to be provided by coastal permit holder to affected quota owners if aquaculture agreement not lodged
     
@@ -10177,11 +10181,11 @@ Aquaculture
     
     (3) In subsection (2), _quota owner_ means a person who is a registered quota owner as at 5 pm on the date on which the relevant reservation is notified in the _Gazette_ under [section 186H(2)(a)][369].
     
-    Section 186ZN: inserted, on 1 October 2011, by [section 24][1146] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186ZN: inserted, on 1 October 2011, by [section 24][1147] of the Fisheries Amendment Act 2011 (2011 No 68).
 
 ##### 186ZO Submission to arbitration
     
-*   (1) The holder of a coastal permit may submit to an arbitrator a request to determine the amount of compensation to be provided under [section 186ZN][379] and the provisions of the [Arbitration Act 1996][1147] (other than those relating to the appointment of an arbitrator) apply as if this section were an arbitration agreement.
+*   (1) The holder of a coastal permit may submit to an arbitrator a request to determine the amount of compensation to be provided under [section 186ZN][379] and the provisions of the [Arbitration Act 1996][1148] (other than those relating to the appointment of an arbitrator) apply as if this section were an arbitration agreement.
     
     (2) For the purposes of the arbitration, an arbitrator is to be appointed---
         
@@ -10189,7 +10193,7 @@ Aquaculture
     
     *   (b) if they cannot agree, then by the President of the Arbitrators and Mediators Institute of New Zealand Incorporated or a person authorised by the President.
     
-    Section 186ZO: inserted, on 1 October 2011, by [section 24][1146] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186ZO: inserted, on 1 October 2011, by [section 24][1147] of the Fisheries Amendment Act 2011 (2011 No 68).
 
 ##### 186ZP Arbitrator to determine preliminary question about economic value of proposed aquaculture activities
     
@@ -10217,7 +10221,7 @@ Aquaculture
     
     *   (b) decides that the question cannot be determined one way or the other.
     
-    Section 186ZP: inserted, on 1 October 2011, by [section 24][1146] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186ZP: inserted, on 1 October 2011, by [section 24][1147] of the Fisheries Amendment Act 2011 (2011 No 68).
 
 ##### 186ZQ Determination of compensation
     
@@ -10235,7 +10239,7 @@ Aquaculture
     
     (5) If, after the arbitrator has made an award, the holder of the coastal permit decides not to proceed with the aquaculture activities, then the holder of the permit must pay the quota owners' reasonable costs and expenses, as determined by the arbitrator, for participating in the arbitration.
     
-    Section 186ZQ: inserted, on 1 October 2011, by [section 24][1146] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186ZQ: inserted, on 1 October 2011, by [section 24][1147] of the Fisheries Amendment Act 2011 (2011 No 68).
 
 ##### 186ZR Regulations relating to compensation
     
@@ -10261,7 +10265,7 @@ Aquaculture
     
     *   (b) provide for the calculation of compensation to be based on the size of the affected quota holding and the corresponding loss of quota value, including by reference to any recent transfers of the quota or associated annual catch entitlement.
     
-    Section 186ZR: inserted, on 1 October 2011, by [section 24][1146] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 186ZR: inserted, on 1 October 2011, by [section 24][1147] of the Fisheries Amendment Act 2011 (2011 No 68).
 
 ## Part 10  
 Recordkeeping, reporting, disposal of fish, and provisions relating to taking and possession of fish for purpose of sale
@@ -10302,7 +10306,7 @@ Recordkeeping, reporting, disposal of fish, and provisions relating to taking an
     
     *   (d) such earlier date as may be agreed between the chief executive and the owner, operator, or master of the vessel.
     
-    (5) The chief executive may, for any purpose referred to in [section 59(6A)][111] or [section 368A(11)][667] of this Act or [section 28W(10)][895] of the Fisheries Act 1983, by notice in the _Gazette_ or where appropriate by notice to an individual fisher or other person affected,---
+    (5) The chief executive may, for any purpose referred to in [section 59(6A)][111] or [section 368A(11)][667] of this Act or [section 28W(10)][896] of the Fisheries Act 1983, by notice in the _Gazette_ or where appropriate by notice to an individual fisher or other person affected,---
         
     *   (a) set conversion factors for translating numbers of Foveaux Strait dredge oysters into weights, or vice versa:
     
@@ -10310,13 +10314,13 @@ Recordkeeping, reporting, disposal of fish, and provisions relating to taking an
     
     (6) Any conversion factors specified under subsection (5) are to be used for determining the weight or number (as the case may require) of Foveaux Strait dredge oysters only for the purposes specified in the _Gazette_ notice or the notice to the individual fisher or other person affected.
     
-    Compare: 1983 No 14 [s 3A][892]; 1986 No 34 s 4; 1990 No 29 [s 3][1148]
+    Compare: 1983 No 14 [s 3A][893]; 1986 No 34 s 4; 1990 No 29 [s 3][1149]
     
-    Section 188(1): amended, on 23 June 1998, by [section 18][1149] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+    Section 188(1): amended, on 23 June 1998, by [section 18][1150] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
     
-    Section 188(5): added, on 1 April 1998, by [section 7][1150] of the Fisheries (Fouveaux Strait Dredge Oyster Fishery) Amendment Act 1998 (1998 No 6).
+    Section 188(5): added, on 1 April 1998, by [section 7][1151] of the Fisheries (Fouveaux Strait Dredge Oyster Fishery) Amendment Act 1998 (1998 No 6).
     
-    Section 188(6): added, on 1 April 1998, by [section 7][1150] of the Fisheries (Fouveaux Strait Dredge Oyster Fishery) Amendment Act 1998 (1998 No 6).
+    Section 188(6): added, on 1 April 1998, by [section 7][1151] of the Fisheries (Fouveaux Strait Dredge Oyster Fishery) Amendment Act 1998 (1998 No 6).
 
 ##### 188A Spat ratio
     
@@ -10330,7 +10334,7 @@ Recordkeeping, reporting, disposal of fish, and provisions relating to taking an
     
     *   (b) if appropriate, the weight or quantity of the other species or kind of fish, aquatic life, or seaweed.
     
-    Section 188A: inserted, on 1 October 2004, by [section 44][1151] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 188A: inserted, on 1 October 2004, by [section 44][1152] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 189 Persons who are required to keep records and returns
     
@@ -10356,11 +10360,11 @@ Recordkeeping, reporting, disposal of fish, and provisions relating to taking an
     
     *   (j) holders of exemptions granted under [section 113F][200].
     
-    Section 189(b): substituted, on 26 May 2001, by [section 21][1152] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 189(b): substituted, on 26 May 2001, by [section 21][1153] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
     
-    Section 189(i): added, on 1 May 2001, by [section 17][1153] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 189(i): added, on 1 May 2001, by [section 17][1154] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 189(j): added, on 1 May 2001, by [section 17][1153] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 189(j): added, on 1 May 2001, by [section 17][1154] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 190 Accounts, records, returns, and other information
     
@@ -10372,9 +10376,9 @@ Recordkeeping, reporting, disposal of fish, and provisions relating to taking an
     
     (2) Every person who fails to comply with a specification of the chief executive under subsection (1)(b) commits an offence and is liable to the penalty specified in [section 252(3)][475].
     
-    Compare: 1983 No 14 [s 66][973]; 1986 No 34 s 13(1); 1990 No 29 [s 33][1154]
+    Compare: 1983 No 14 [s 66][974]; 1986 No 34 s 13(1); 1990 No 29 [s 33][1155]
     
-    Section 190(2): added, on 23 June 1998, by [section 19][1155] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+    Section 190(2): added, on 23 June 1998, by [section 19][1156] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
 
 #### Disposal of fish
 
@@ -10422,23 +10426,23 @@ Recordkeeping, reporting, disposal of fish, and provisions relating to taking an
     
     *   (b) the burden of proving that the exception set out in subsection (5)(d) applies lies on the defendant.
     
-    Compare: 1983 No 14 [s 67][1156]; 1986 No 34 s 13(1); 1990 No 29 [s 34][1157]
+    Compare: 1983 No 14 [s 67][1157]; 1986 No 34 s 13(1); 1990 No 29 [s 34][1158]
     
-    Section 191(1A): inserted, on 1 October 2001, by [section 18(1)][1158] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 191(1A): inserted, on 1 October 2001, by [section 18(1)][1159] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 191(2)(b): substituted, on 1 April 1998, by [section 8][1159] of the Fisheries (Fouveaux Strait Dredge Oyster Fishery) Amendment Act 1998 (1998 No 6).
+    Section 191(2)(b): substituted, on 1 April 1998, by [section 8][1160] of the Fisheries (Fouveaux Strait Dredge Oyster Fishery) Amendment Act 1998 (1998 No 6).
     
-    Section 191(2)(ba): inserted, on 1 April 1998, by [section 8][1159] of the Fisheries (Fouveaux Strait Dredge Oyster Fishery) Amendment Act 1998 (1998 No 6).
+    Section 191(2)(ba): inserted, on 1 April 1998, by [section 8][1160] of the Fisheries (Fouveaux Strait Dredge Oyster Fishery) Amendment Act 1998 (1998 No 6).
     
-    Section 191(5)(c): amended, on 1 October 2001, by [section 18(2)][1158] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 191(5)(c): amended, on 1 October 2001, by [section 18(2)][1159] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 191(5)(d): added, on 1 October 2001, by [section 18(3)][1158] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 191(5)(d): added, on 1 October 2001, by [section 18(3)][1159] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 191(5)(d): amended, on 1 October 2001, by [section 22][1160] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 191(5)(d): amended, on 1 October 2001, by [section 22][1161] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
     
-    Section 191(5)(e): added, on 1 October 2001, by [section 18(3)][1158] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 191(5)(e): added, on 1 October 2001, by [section 18(3)][1159] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 191(7): inserted, on 1 July 2013, by [section 413][958] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 191(7): inserted, on 1 July 2013, by [section 413][959] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 192 Restrictions on purchase or acquisition of fish by certain persons
     
@@ -10518,13 +10522,13 @@ Recordkeeping, reporting, disposal of fish, and provisions relating to taking an
     
     *   (d) any fish, aquatic life, or seaweed lawfully taken otherwise than for the purpose of sale and served as part of a meal to the person who took the fish, aquatic life, or seaweed and the person's immediate guests.
     
-    Compare: 1983 No 14 [s 67A][1161]; 1986 No 34 s 13(1); 1991 No 149 [s 22][1162]
+    Compare: 1983 No 14 [s 67A][1162]; 1986 No 34 s 13(1); 1991 No 149 [s 22][1163]
     
-    Section 192(3): repealed, on 1 January 2005, by [section 9][1163] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 192(3): repealed, on 1 January 2005, by [section 9][1164] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
     
-    Section 192(6A): inserted, on 1 July 2013, by [section 413][958] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 192(6A): inserted, on 1 July 2013, by [section 413][959] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 192(10)(b): amended, on 1 October 2001, by [section 23][1164] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 192(10)(b): amended, on 1 October 2001, by [section 23][1165] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
 
 ##### 192A Restriction on acquisition of fish, aquatic life, and seaweed by fish farmers
     
@@ -10572,9 +10576,9 @@ Recordkeeping, reporting, disposal of fish, and provisions relating to taking an
     
     *   (b) the burden of proving that any of the exceptions set out in paragraphs (a) to (c) applies lies on the defendant.
     
-    Section 192A: inserted, on 1 January 2005, by [section 10][1165] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 192A: inserted, on 1 January 2005, by [section 10][1166] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
     
-    Section 192A(6): inserted, on 1 July 2013, by [section 413][958] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 192A(6): inserted, on 1 July 2013, by [section 413][959] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### When fish deemed to be taken or possessed for purposes of sale
 
@@ -10584,7 +10588,7 @@ Recordkeeping, reporting, disposal of fish, and provisions relating to taking an
     
     (2) For the purpose of this Act, all fish, aquatic life, or seaweed in any premises where food is sold, prepared for sale, stored, or processed shall, in the absence of proof to the contrary, be deemed to have been taken, and to be possessed, for the purpose of sale.
     
-    Compare: 1983 No 14 [s 103][1166]; 1986 No 34 s 27(1)
+    Compare: 1983 No 14 [s 103][1167]; 1986 No 34 s 27(1)
 
 ##### 194 Fish in fish farm deemed to be farmed and possessed for sale
     
@@ -10594,7 +10598,7 @@ Recordkeeping, reporting, disposal of fish, and provisions relating to taking an
     
 *   For the purpose of this Act, any person in possession of any fish, aquatic life, or seaweed of an amount or quantity exceeding 3 times the amateur individual daily limit (if any) prescribed in respect of that fish, aquatic life, or seaweed, shall, in the absence of proof to the contrary, be deemed to have acquired, or to possess, the fish, aquatic life, or seaweed for the purpose of sale unless the fish, aquatic life, or seaweed was lawfully taken by a person under regulations made under [section 186][327].
     
-    Compare: 1983 No 14 [s 103A][1167]; 1990 No 29 [s 49][1168]; 1992 No 121 [s 35][1169]
+    Compare: 1983 No 14 [s 103A][1168]; 1990 No 29 [s 49][1169]; 1992 No 121 [s 35][1170]
 
 ## Part 11  
 Appointment and powers of fishery officers
@@ -10603,7 +10607,7 @@ Appointment and powers of fishery officers
 
 ##### 196 Appointment of fishery officers
     
-*   (1) Such fishery officers and other officers as may be required for the purposes of the enforcement and administration of this Act shall be appointed under the [State Sector Act 1988][1170].
+*   (1) Such fishery officers and other officers as may be required for the purposes of the enforcement and administration of this Act shall be appointed under the [State Sector Act 1988][1171].
     
     (2) For the purpose of this Act---
         
@@ -10615,9 +10619,9 @@ Appointment and powers of fishery officers
     
     (3) Where any person referred to in paragraph (a) or paragraph (b) of subsection (2) has directed any person under his or her command to carry out such of the duties of a fishery officer as he or she may specify, for such period as he or she thinks necessary, the person so directed shall, for the purpose of carrying out those duties, have all the powers of a fishery officer.
     
-    Compare: 1983 No 14 [s 76][1171]
+    Compare: 1983 No 14 [s 76][1172]
     
-    Section 196(2)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][1172] of the Policing Act 2008 (2008 No 72).
+    Section 196(2)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][1173] of the Policing Act 2008 (2008 No 72).
 
 ##### 197 Appointment of honorary fishery officers
     
@@ -10639,7 +10643,7 @@ Appointment and powers of fishery officers
     
     (4) No person appointed as an honorary fishery officer under this section shall be deemed to be employed by the Crown by reason of the appointment or any money paid to the person under this section.
     
-    Compare: 1983 No 14 [s 77][1173]; 1987 No 65 [s 65(1)][1174]
+    Compare: 1983 No 14 [s 77][1174]; 1987 No 65 [s 65(1)][1175]
 
 ##### 198 Issue of warrants and conferral of powers
     
@@ -10663,17 +10667,17 @@ Appointment and powers of fishery officers
     
     (2) On the termination of a person's appointment as a fishery officer, honorary fishery officer, or examiner under this Act, the person shall surrender to the chief executive any warrant issued to the person in respect of that appointment.
     
-    Compare: 1983 No 14 [s 78][1175]; 1987 No 65 [s 65(1)][1174]; 1990 No 31 [s 137][1176]
+    Compare: 1983 No 14 [s 78][1176]; 1987 No 65 [s 65(1)][1175]; 1990 No 31 [s 137][1177]
     
-    Section 198(1)b)(iii): amended, on 1 October 2004, by [section 45(1)][1177] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 198(1)b)(iii): amended, on 1 October 2004, by [section 45(1)][1178] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 198(1A): inserted, on 1 October 2004, by [section 45(2)][1177] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 198(1A): inserted, on 1 October 2004, by [section 45(2)][1178] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 198A Powers may be exercised outside New Zealand fisheries waters
     
 *   To avoid doubt, the powers of a fishery officer conferred by or under this Part may be exercised in relation to any conduct, whether or not the conduct occurred in New Zealand fisheries waters.
     
-    Section 198A: inserted, on 1 October 2001, by [section 19][1178] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 198A: inserted, on 1 October 2001, by [section 19][1179] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 #### Powers of entry, search, and questioning
 
@@ -10711,7 +10715,7 @@ Appointment and powers of fishery officers
     
     (3) In this section and in [section 199A][406], _visual surveillance device_ means any electronic, mechanical, electromagnetic, optical, or electro-optical instrument, apparatus, equipment, or other device that is used or is capable of being used to observe, or to observe and record, any object or activity.
     
-    Section 199: replaced, on 18 April 2012, by [section 248][1179] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 199: replaced, on 18 April 2012, by [section 248][1180] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 199A Powers of entry and search for law enforcement purposes
     
@@ -10739,37 +10743,37 @@ Appointment and powers of fishery officers
     
     (3) A fishery officer may detain any vessel, vehicle, conveyance of any kind, parcel, package, record, document, article, gear, apparatus, device, container, fish, aquatic life, seaweed, or thing for such period as is reasonably necessary to enable the fishery officer to carry out an examination or a search under this section.
     
-    Section 199A: inserted, on 18 April 2012, by [section 248][1179] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 199A: inserted, on 18 April 2012, by [section 248][1180] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 199B Application of Part 4 of Search and Surveillance Act 2012
     
-*   (1) The provisions of [Part 4][1180] of the Search and Surveillance Act 2012 (other than [subparts 2][1181] and [3][1182], [section 119][1183], and [subpart 8][1184]) apply in respect of the powers conferred by [section 199(1)][405].
+*   (1) The provisions of [Part 4][1181] of the Search and Surveillance Act 2012 (other than [subparts 2][1182] and [3][1183], [section 119][1184], and [subpart 8][1185]) apply in respect of the powers conferred by [section 199(1)][405].
     
-    (2) The provisions of [Part 4][1180] of the Search and Surveillance Act 2012 (other than [subparts 3][1182] and [8][1184]) apply in respect of the powers conferred by [section 199A][406].
+    (2) The provisions of [Part 4][1181] of the Search and Surveillance Act 2012 (other than [subparts 3][1183] and [8][1185]) apply in respect of the powers conferred by [section 199A][406].
     
-    Section 199B: inserted, on 1 October 2012, by [section 249][1185] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 199B: inserted, on 1 October 2012, by [section 249][1186] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 200 Conditions relating to exercise of powers of entry, etc
     
-*   (1) A fishery officer shall not exercise any power under this Act to enter a place that is a private dwelling place, or the enclosed garden or curtilage of a private dwelling place, or any Maori reservation constituted by or under the Maori Affairs Act 1953 or [Part 17][1186] of Te Ture Whenua Maori Act 1993, unless he or she is authorised in writing by an issuing officer (within the meaning of [section 3][1187] of the Search and Surveillance Act 2012).
+*   (1) A fishery officer shall not exercise any power under this Act to enter a place that is a private dwelling place, or the enclosed garden or curtilage of a private dwelling place, or any Maori reservation constituted by or under the Maori Affairs Act 1953 or [Part 17][1187] of Te Ture Whenua Maori Act 1993, unless he or she is authorised in writing by an issuing officer (within the meaning of [section 3][1188] of the Search and Surveillance Act 2012).
     
-    (2) An application for authorisation must be made by a fishery officer in the manner provided for an application for a search warrant under [subpart 3 of Part 4][1182] of the Search and Surveillance Act 2012\.
+    (2) An application for authorisation must be made by a fishery officer in the manner provided for an application for a search warrant under [subpart 3 of Part 4][1183] of the Search and Surveillance Act 2012\.
     
     (3) An issuing officer shall not grant such authority unless he or she is satisfied that the fishery officer has reasonable grounds for requiring entry into the private dwelling place, garden or curtilage, or Maori reservation.
     
-    (4) The provisions of [subparts 1][1188], [3][1182], [7][1189], [9][1190], and [10][1191] of Part 4 of the Search and Surveillance Act 2012 apply.
+    (4) The provisions of [subparts 1][1189], [3][1183], [7][1190], [9][1191], and [10][1192] of Part 4 of the Search and Surveillance Act 2012 apply.
     
     (5) For the purposes of this section, a place is a private dwelling if private dwelling is the dominant purpose for which the place is used.
     
-    Compare: 1983 No 14 [s 79(2), (2A)][1192]; 1991 No 14 s 23
+    Compare: 1983 No 14 [s 79(2), (2A)][1193]; 1991 No 14 s 23
     
-    Section 200(1): amended, on 1 October 2012, by [section 250(1)][1193] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200(1): amended, on 1 October 2012, by [section 250(1)][1194] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 200(2): replaced, on 1 October 2012, by [section 250(2)][1193] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200(2): replaced, on 1 October 2012, by [section 250(2)][1194] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 200(3): amended, on 1 October 2012, by [section 250(3)][1193] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200(3): amended, on 1 October 2012, by [section 250(3)][1194] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 200(4): replaced, on 1 October 2012, by [section 250(4)][1193] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200(4): replaced, on 1 October 2012, by [section 250(4)][1194] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 201 Power to question persons and require production of documents
     
@@ -10789,7 +10793,7 @@ Appointment and powers of fishery officers
     
     *   (f) require that person or any other person to produce any permit, authority, approval, permission, licence, or certificate issued in respect of any vessel or person.
     
-    Compare: 1983 No 14 [s 79(1)(c)][1192]
+    Compare: 1983 No 14 [s 79(1)(c)][1193]
 
 ##### 202 Powers for purpose of ascertaining financial status or interest in forfeit property of certain persons
     
@@ -10803,7 +10807,7 @@ Appointment and powers of fishery officers
     
     a fishery officer may, with the leave of the court, exercise all or any of the fishery officer powers exercisable under other provisions of this Act as if those powers were each expressed to be exercisable in the circumstances referred to in this section.
     
-    Section 202(aa): inserted, on 1 October 2001, by [section 20][1194] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 202(aa): inserted, on 1 October 2001, by [section 20][1195] of the Fisheries Amendment Act 2001 (2001 No 65).
 
 #### Power of arrest
 
@@ -10821,15 +10825,15 @@ Appointment and powers of fishery officers
         
     *   (a) the fishery officer shall cause the person to be delivered into the custody of a constable as soon as practicable; and
     
-    *   (b) if the person so delivered into custody is issued with a summons pursuant to [sections 28][1195] and [30][1196] of the Criminal Procedure Act 2011, the duties under [section 31][1197] of that Act must be carried out by a fishery officer and not a constable.
+    *   (b) if the person so delivered into custody is issued with a summons pursuant to [sections 28][1196] and [30][1197] of the Criminal Procedure Act 2011, the duties under [section 31][1198] of that Act must be carried out by a fishery officer and not a constable.
     
-    Compare: 1983 No 14 [s 79(1)(d), (5A)][1192]; 1990 No 29 [s 37(4)][1198]
+    Compare: 1983 No 14 [s 79(1)(d), (5A)][1193]; 1990 No 29 [s 37(4)][1199]
     
-    Section 203(2): amended, on 1 October 2004, by [section 46][1199] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 203(2): amended, on 1 October 2004, by [section 46][1200] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 203(5)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][1172] of the Policing Act 2008 (2008 No 72).
+    Section 203(5)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][1173] of the Policing Act 2008 (2008 No 72).
     
-    Section 203(5)(b): replaced, on 1 July 2013, by [section 413][958] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 203(5)(b): replaced, on 1 July 2013, by [section 413][959] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Power to give directions
 
@@ -10839,7 +10843,7 @@ Appointment and powers of fishery officers
     
     (2) If a fishery officer has given a direction under subsection (1), he or she may also give to the master or any person on board the vessel any reasonable directions in respect of any activity, method, procedure, item, gear, document, fish, aquatic life, seaweed, property, or thing while the vessel is proceeding to port.
     
-    Compare: 1983 No 14 [s 79(1)(e)][1192]
+    Compare: 1983 No 14 [s 79(1)(e)][1193]
 
 #### Power to use reasonable force
 
@@ -10847,7 +10851,7 @@ Appointment and powers of fishery officers
     
 *   For the purpose of the enforcement of this Act, other than the exercise of any power under [section 201][409], a fishery officer is justified in using such force as is necessary to enable the exercise of his or her powers under this Act.
     
-    Section 205: amended, on 1 October 2012, by [section 250(5)][1193] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 205: amended, on 1 October 2012, by [section 250(5)][1194] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### Power to take copies of documents
 
@@ -10859,13 +10863,13 @@ Appointment and powers of fishery officers
     
     *   (b) if necessary, require a person to reproduce, or assist the fishery officer to reproduce, in a useable form, information recorded or stored in a document.
     
-    (2) Any documents to which [section 137][1200] of the Search and Surveillance Act 2012 applies that are copied by a fishery officer under this section shall be dealt with in accordance with section 137 of that Act, and the provisions of that section, with any necessary modifications, shall apply accordingly.
+    (2) Any documents to which [section 137][1201] of the Search and Surveillance Act 2012 applies that are copied by a fishery officer under this section shall be dealt with in accordance with section 137 of that Act, and the provisions of that section, with any necessary modifications, shall apply accordingly.
     
-    Compare: 1983 No 14 [s 79(4)][1192]
+    Compare: 1983 No 14 [s 79(4)][1193]
     
-    Section 206(2): amended, on 1 October 2012, by[section 250(6)(a)][1193] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 206(2): amended, on 1 October 2012, by[section 250(6)(a)][1194] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 206(2): amended, on 1 October 2012, by[section 250(6)(b)][1193] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 206(2): amended, on 1 October 2012, by[section 250(6)(b)][1194] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### Provisions relating to seizure
 
@@ -10879,19 +10883,19 @@ Appointment and powers of fishery officers
     
     *   (c) any article, record, document, or thing which he or she believes on reasonable grounds is evidence of the commission of an offence against this Act.
     
-    (2) [Subparts 1][1188], [5][1201], [6][1202], [7][1189], [9][1190], and [10][1191] of Part 4 of the Search and Surveillance Act 2012 apply.
+    (2) [Subparts 1][1189], [5][1202], [6][1203], [7][1190], [9][1191], and [10][1192] of Part 4 of the Search and Surveillance Act 2012 apply.
     
     (3) \[Repealed\]
     
     (4) \[Repealed\]
     
-    Compare: 1983 No 14 [s 80(1), (2)][840]; 1990 No 29 [s 38(1)][1203]
+    Compare: 1983 No 14 [s 80(1), (2)][841]; 1990 No 29 [s 38(1)][1204]
     
-    Section 207(2): replaced, on 1 October 2012, by [section 250(7)][1193] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 207(2): replaced, on 1 October 2012, by [section 250(7)][1194] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 207(3): repealed, on 1 October 2012, by [section 250(7)][1193] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 207(3): repealed, on 1 October 2012, by [section 250(7)][1194] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 207(4): repealed, on 1 October 2012, by [section 250(7)][1193] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 207(4): repealed, on 1 October 2012, by [section 250(7)][1194] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### Provisions relating to seized property
 
@@ -10899,33 +10903,33 @@ Appointment and powers of fishery officers
     
 *   \[Repealed\]
     
-    Section 208: repealed, on 1 October 2012, by [section 251(1)][1204] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 208: repealed, on 1 October 2012, by [section 251(1)][1205] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 209 Seized property to be held by the Crown if not released
     
 *   \[Repealed\]
     
-    Section 209: repealed, on 1 October 2012, by [section 251(1)][1204] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 209: repealed, on 1 October 2012, by [section 251(1)][1205] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 210 Crown to release seized property in certain circumstances
     
 *   \[Repealed\]
     
-    Section 210: repealed, on 1 October 2012, by [section 251(1)][1204] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 210: repealed, on 1 October 2012, by [section 251(1)][1205] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 211 Seized property forfeited to the Crown if ownership not established
     
 *   \[Repealed\]
     
-    Section 211: repealed, on 1 October 2012, by [section 251(1)][1204] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 211: repealed, on 1 October 2012, by [section 251(1)][1205] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 212 Chief executive may sell perishable seized property
     
 *   If, in the opinion of the chief executive, any fish, aquatic life, seaweed, or other thing seized under [section 207][420] may rot, spoil, deteriorate, or otherwise perish, and the thing is liable to be forfeited under this Act if the owner is convicted, the chief executive may dispose of it in such manner and for such price (if any) as the chief executive may determine.
     
-    Compare: 1983 No 14 [s 80(4)][840]
+    Compare: 1983 No 14 [s 80(4)][841]
     
-    Section 212: amended, on 1 October 2012, by [section 251(2)][1204] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 212: amended, on 1 October 2012, by [section 251(2)][1205] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 213 Protection of the Crown
     
@@ -10933,11 +10937,11 @@ Appointment and powers of fishery officers
     
     (2) Notwithstanding any other provisions in this Part, a fishery officer who at the time of seizure returns to the water any fish, aquatic life, or seaweed seized under [section 207][420] that he or she believes to be alive, shall not be under any civil or criminal liability to the person from whom the fish, aquatic life, or seaweed was seized, or to any other person, in the event of a decision being made not to file a charging document in respect of the fish, aquatic life, or seaweed or of the person being acquitted of the charge.
     
-    Compare: 1983 No 14 [s 80(8), (10)][840]
+    Compare: 1983 No 14 [s 80(8), (10)][841]
     
-    Section 213(1): amended, on 18 April 2012, by [section 251(3)][1204] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 213(1): amended, on 18 April 2012, by [section 251(3)][1205] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 213(2): amended, on 1 July 2013, by [section 413][958] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 213(2): amended, on 1 July 2013, by [section 413][959] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Crown caveats
 
@@ -10967,21 +10971,21 @@ Appointment and powers of fishery officers
     
     (9) In this section, except for subsection (1), the terms _quota_ and _quota shares_ include associated quota as defined in [section 255][478].
     
-    Compare: 1983 No 14 [ss 28Q(7), (8)][1205], [80A][1206]; 1986 No 34 s 10; 1990 No 29 [ss 17(5)][1207], [39(1)][1208]; 1991 No 149 [s 24][1209]
+    Compare: 1983 No 14 [ss 28Q(7), (8)][1206], [80A][1207]; 1986 No 34 s 10; 1990 No 29 [ss 17(5)][1208], [39(1)][1209]; 1991 No 149 [s 24][1210]
     
-    Section 214(1): amended, on 1 October 2001, by [section 21(1)][1210] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 214(1): amended, on 1 October 2001, by [section 21(1)][1211] of the Fisheries Amendment Act 2001 (2001 No 65).
     
-    Section 214(1): amended, on 1 October 2001, by [section 50(1)(b)][1211] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 214(1): amended, on 1 October 2001, by [section 50(1)(b)][1212] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 214(1)(a): amended, on 1 October 2001, by [section 50(1)(a)][1211] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 214(1)(a): amended, on 1 October 2001, by [section 50(1)(a)][1212] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 214(2): amended, on 1 October 2001, by [section 21(2)][1210] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 214(2): amended, on 1 October 2001, by [section 21(2)][1211] of the Fisheries Amendment Act 2001 (2001 No 65).
     
-    Section 214(8): substituted, on 1 October 2001, by [section 50(2)][1211] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 214(8): substituted, on 1 October 2001, by [section 50(2)][1212] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 214(8): amended, on 1 July 2013, by [section 413][958] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 214(8): amended, on 1 July 2013, by [section 413][959] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 214(9): added, on 1 October 2001, by [section 21(3)][1210] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 214(9): added, on 1 October 2001, by [section 21(3)][1211] of the Fisheries Amendment Act 2001 (2001 No 65).
 
 #### General powers
 
@@ -11005,9 +11009,9 @@ Appointment and powers of fishery officers
     
     *   (c) commenced that pursuit in New Zealand fisheries waters.
     
-    Compare: 1983 No 14 [s 79(1)(f)][1192]
+    Compare: 1983 No 14 [s 79(1)(f)][1193]
     
-    Section 215(2)(c): amended, on 1 October 2001, by [section 20][1212] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+    Section 215(2)(c): amended, on 1 October 2001, by [section 20][1213] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
 
 #### Provisions relating to exercise of powers
 
@@ -11015,21 +11019,21 @@ Appointment and powers of fishery officers
     
 *   Nothing in this Part shall be construed so as to require any person to answer any question tending to incriminate himself or herself.
     
-    Compare: 1983 No 14 [s 79(3)][1192]
+    Compare: 1983 No 14 [s 79(3)][1193]
 
 ##### 217 Fishery officer to provide identification
     
 *   A fishery officer or high seas fishery inspector exercising any power conferred by this Act shall identify himself or herself and produce evidence that he or she is a fishery officer or high seas fishery inspector to any person on or in the land, vehicle, vessel, premises, or place, or claiming an interest in the things on or in or in respect of which the power is exercised, who questions the right of the fishery officer or high seas fishery inspector to exercise that power.
     
-    Compare: 1983 No 14 [s 79(5)][1192]
+    Compare: 1983 No 14 [s 79(5)][1193]
     
-    Section 217: amended, on 1 October 2001, by [section 20][1213] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 217: amended, on 1 October 2001, by [section 20][1214] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 218 Production of warrant to be sufficient authority to act
     
 *   The production by a fishery officer, honorary fishery officer, or examiner of a warrant issued to him or her under [section 198][402], or the production by a high seas fishery inspector of evidence of his or her identity and of the fact that he or she is a high seas fishery inspector, is, until the contrary is proved, sufficient authority for the officer, examiner, or inspector to do any thing that he or she is authorised by this Act to do.
     
-    Section 218: substituted, on 1 October 2001, by [section 21][1214] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 218: substituted, on 1 October 2001, by [section 21][1215] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 219 Persons to assist fishery officer or high seas fishery inspector
     
@@ -11037,13 +11041,13 @@ Appointment and powers of fishery officers
     
     (2) All persons called upon to assist any fishery officer or high seas fishery inspector in the exercise of any of the powers conferred on him or her by this Act are hereby authorised to render such assistance.
     
-    Compare: 1983 No 14 [s 81][1215]
+    Compare: 1983 No 14 [s 81][1216]
     
-    Section 219 heading: amended, on 1 October 2001, by [section 22][1216] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 219 heading: amended, on 1 October 2001, by [section 22][1217] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 219(1): amended, on 1 October 2001, by [section 22][1216] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 219(1): amended, on 1 October 2001, by [section 22][1217] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 219(2): amended, on 1 October 2001, by [section 22][1216] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 219(2): amended, on 1 October 2001, by [section 22][1217] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 220 Protection of fishery officer or high seas fishery inspector from liability
     
@@ -11055,21 +11059,21 @@ Appointment and powers of fishery officers
     
     (4) The Crown may not be held directly or indirectly liable for an act or omission of any such fishery officer, high seas fishery inspector, or person, unless the officer, inspector, or person would himself or herself incur liability for the act or omission.
     
-    (5) This section is subject to [sections 164 to 168][1217] of the Search and Surveillance Act 2012 (where applied by this Act).
+    (5) This section is subject to [sections 164 to 168][1218] of the Search and Surveillance Act 2012 (where applied by this Act).
     
-    Compare: 1983 No 14 [s 83][1218]
+    Compare: 1983 No 14 [s 83][1219]
     
-    Section 220 heading: amended, on 1 October 2001, pursuant to [section 23][1219] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 220 heading: amended, on 1 October 2001, pursuant to [section 23][1220] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 220(1): amended, on 1 October 2001, by [section 23(1)][1219] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 220(1): amended, on 1 October 2001, by [section 23(1)][1220] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 220(2): amended, on 1 October 2001, by [section 23(2)][1219] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 220(2): amended, on 1 October 2001, by [section 23(2)][1220] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 220(3): amended, on 1 October 2001, by [section 23(3)][1219] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 220(3): amended, on 1 October 2001, by [section 23(3)][1220] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 220(4): substituted, on 1 October 2001, by [section 23(4)][1219] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 220(4): substituted, on 1 October 2001, by [section 23(4)][1220] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 220(5): inserted, on 1 October 2012, by [section 251(4)][1204] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 220(5): inserted, on 1 October 2012, by [section 251(4)][1205] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 221 Complaints against fishery officers or high seas fishery inspectors
     
@@ -11101,31 +11105,31 @@ Appointment and powers of fishery officers
     
     *   (b) has held a practising certificate as a barrister or solicitor for at least 7 years.
     
-    (7) The investigator referred to in subsection (6) has the same powers as are conferred on a Commission of Inquiry by the [Commissions of Inquiry Act 1908][1093], and all the provisions of that Act, except [sections 11][16] and [12][18] (which relate to costs), shall apply accordingly.
+    (7) The investigator referred to in subsection (6) has the same powers as are conferred on a Commission of Inquiry by the [Commissions of Inquiry Act 1908][1094], and all the provisions of that Act, except [sections 11][16] and [12][18] (which relate to costs), shall apply accordingly.
     
     (8) Nothing in this section requires the chief executive to investigate any complaint which he or she considers is frivolous or vexatious.
     
-    Section 221 heading: substituted, on 1 October 2001, pursuant to [section 24][1220] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 221 heading: substituted, on 1 October 2001, pursuant to [section 24][1221] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 221(1): substituted, on 1 October 2001, by [section 24(1)][1220] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 221(1): substituted, on 1 October 2001, by [section 24(1)][1221] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 221(3)(a): amended, on 1 October 2001, by [section 24(2)][1220] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 221(3)(a): amended, on 1 October 2001, by [section 24(2)][1221] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 221(4): amended, on 1 October 2001, by [section 24(2)][1220] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 221(4): amended, on 1 October 2001, by [section 24(2)][1221] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 221(5): substituted, on 1 October 2001, by [section 24(3)][1220] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 221(5): substituted, on 1 October 2001, by [section 24(3)][1221] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 #### Examiners
 
 ##### 222 Examiners
     
-*   (1) The chief executive may appoint any person to be an examiner to assist in the enforcement and administration of [Part 10][1221], and of regulations referred to in that Part, by examining and verifying the keeping and contents of accounts, records, returns, and information required to be kept, or made, under that Part or regulations.
+*   (1) The chief executive may appoint any person to be an examiner to assist in the enforcement and administration of [Part 10][1222], and of regulations referred to in that Part, by examining and verifying the keeping and contents of accounts, records, returns, and information required to be kept, or made, under that Part or regulations.
     
-    (2) Any appointment under subsection (1) may, but is not required to, be made under the [State Sector Act 1988][1170].
+    (2) Any appointment under subsection (1) may, but is not required to, be made under the [State Sector Act 1988][1171].
     
     (3) Each examiner appointed under this section shall be issued with a warrant under [section 198][402].
     
-    Compare: 1983 No 14 [s 67B][1222]; 1986 No 34 s 13(1); 1990 No 29 [s 33][1154]
+    Compare: 1983 No 14 [s 67B][1223]; 1986 No 34 s 13(1); 1990 No 29 [s 33][1155]
 
 ## Part 12  
 Observer programme
@@ -11156,7 +11160,7 @@ Observer programme
     
     (6) No person shall be deemed to be employed in the service of the Crown by reason of that person having been appointed as an observer.
     
-    Compare: 1983 No 14 [ss 67C][1223], [67D][1224]; 1986 No 34 s 13(1)
+    Compare: 1983 No 14 [ss 67C][1224], [67D][1225]; 1986 No 34 s 13(1)
 
 ##### 224 Chief executive to give notice of intention to place observer on vessel
     
@@ -11168,7 +11172,7 @@ Observer programme
     
     (4) For the purposes of this section, the term _reasonable notice_ means a notice in writing that specifies a date, not earlier than 5 days after the date of service of the notice, on or after which the vessel is not to be put to sea without having on board the specified number of observers; or such other period or type of notice as may be agreed between the chief executive and the owner, master, operator, or licence holder.
     
-    Compare: 1983 No 14 [s 67E][1225]; 1986 No 34 s 13(1)
+    Compare: 1983 No 14 [s 67E][1226]; 1986 No 34 s 13(1)
 
 ##### 225 Powers of observers and obligations of persons on vessels carrying observers
     
@@ -11194,7 +11198,7 @@ Observer programme
     
     *   (b) hinders or prevents the observer exercising those powers.
     
-    Compare: 1983 No 14 [s 67F][1226]; 1986 No 34 s 13(1)
+    Compare: 1983 No 14 [s 67F][1227]; 1986 No 34 s 13(1)
 
 ##### 226 Food and accommodation to be provided for observers
     
@@ -11202,7 +11206,7 @@ Observer programme
     
     (2) Every person commits an offence and is liable to the penalty set out in [section 252(5)][475] who contravenes or fails to comply with subsection (1).
     
-    Compare: 1983 No 14 [s 67G(1)][1227]; 1986 No 34 s 13(1)
+    Compare: 1983 No 14 [s 67G(1)][1228]; 1986 No 34 s 13(1)
 
 ##### 227 Supervision by observers of transhipments, dumping of fish, and operation of conversion factors
     
@@ -11232,7 +11236,7 @@ Observer programme
     
     (4) Every person commits an offence and is liable to the penalty set out in [section 252(3)][475] who contravenes or fails to comply with subsection (1).
     
-    Compare: 1983 No 14 [s 67H][1228]; 1990 No 29 [s 36][1229]
+    Compare: 1983 No 14 [s 67H][1229]; 1990 No 29 [s 36][1230]
 
 ## Part 13  
 Offences and penalties
@@ -11247,9 +11251,9 @@ Offences and penalties
     
     (2) Every person who commits an offence against subsection (1) is liable to the penalty set out in [section 252(5)][475].
     
-    Compare: 1983 No 14 [ss 93][1230], [107][1231]; 1986 No 34 s 27(1); 1990 No 29 [s 51][1232]
+    Compare: 1983 No 14 [ss 93][1231], [107][1232]; 1986 No 34 s 27(1); 1990 No 29 [s 51][1233]
     
-    Section 228(1): substituted, on 1 October 2000, by [section 51][1233] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 228(1): substituted, on 1 October 2000, by [section 51][1234] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 229 Obstructing fishery officers
     
@@ -11287,7 +11291,7 @@ Offences and penalties
     
     (4) Every person who commits an offence against subsection (1) is liable to the penalty set out in [section 252(3)][475].
     
-    Compare: 1983 No 14 [ss 95][1234], [107][1231]; 1986 No 34 s 27(1); 1990 No 29 [s 51][1232]
+    Compare: 1983 No 14 [ss 95][1235], [107][1232]; 1986 No 34 s 27(1); 1990 No 29 [s 51][1233]
 
 ##### 230 Neglect or refusal to supply particulars, and improper divulging of information
     
@@ -11299,7 +11303,7 @@ Offences and penalties
     
     (2) Every person who commits an offence against subsection (1) is liable to the penalty set out in [section 252(3)][475].
     
-    Compare: 1983 No 14 [ss 96][1235], [107][1231]; 1986 No 34 s 27(1)
+    Compare: 1983 No 14 [ss 96][1236], [107][1232]; 1986 No 34 s 27(1)
 
 ##### 231 Knowingly making false statement or using false document to obtain benefit
     
@@ -11321,9 +11325,9 @@ Offences and penalties
     
     (3) Every person who commits an offence against subsection (1) or subsection (2) is liable to the penalty set out in [section 252(1)][475].
     
-    Section 231 heading: amended, on 1 October 2001, by [section 52][1236] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 231 heading: amended, on 1 October 2001, by [section 52][1237] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 231(1): substituted, on 1 October 2001, by [section 52][1236] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 231(1): substituted, on 1 October 2001, by [section 52][1237] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 232 Buying, selling, or possessing fish contrary to Act
     
@@ -11339,7 +11343,7 @@ Offences and penalties
     
     (4) Every person who commits an offence against subsection (1) or subsection (2) is liable to the penalty set out in [section 252(3)][475], except that if, in the case of an individual defendant, the defendant establishes that the fish, aquatic life, or seaweed was purchased or possessed otherwise than for the purpose of sale, the penalty shall be as set out in subsection (5) of that section.
     
-    Compare: 1983 No 14 [ss 97][1237], [107][1231]; 1986 No 34 s 27(1)
+    Compare: 1983 No 14 [ss 97][1238], [107][1232]; 1986 No 34 s 27(1)
 
 ##### 233 Knowingly acting in contravention of Act to obtain a benefit
     
@@ -11351,7 +11355,7 @@ Offences and penalties
     
     (4) Every person who commits an offence against subsection (1) or subsection (2) is liable to the penalty set out in [section 252(1)][475].
     
-    Section 233: substituted, on 19 March 2004, by [section 6][1238] of the Fisheries Amendment Act 2004 (2004 No 6).
+    Section 233: substituted, on 19 March 2004, by [section 6][1239] of the Fisheries Amendment Act 2004 (2004 No 6).
 
 ##### 234 Using hazardous substance to catch or destroy fish
     
@@ -11359,7 +11363,7 @@ Offences and penalties
     
     (2) Every person who commits an offence against subsection (1) is liable to the penalty set out in [section 252(5)][475].
     
-    Compare: 1983 No 14 [ss 98][1239], [107][1231]; 1986 No 34 s 27(1)
+    Compare: 1983 No 14 [ss 98][1240], [107][1232]; 1986 No 34 s 27(1)
 
 ##### 235 Knowingly permitting premises to be used for offence against Act
     
@@ -11367,7 +11371,7 @@ Offences and penalties
     
     (2) Every person convicted of an offence against subsection (1) is liable to the same penalty as that set out in [section 252][475] for the offence for which the premises were used.
     
-    Compare: 1983 No 14 [ss 98A][1240], [107][1231]; 1990 No 29 [s 45][1241]
+    Compare: 1983 No 14 [ss 98A][1241], [107][1232]; 1990 No 29 [s 45][1242]
 
 #### Proceedings, defences, etc
 
@@ -11375,7 +11379,7 @@ Offences and penalties
     
 *   (1) Any offence against this Act shall be deemed to have been committed in New Zealand.
     
-    (2) Despite anything to the contrary in [section 25][1242] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act---
+    (2) Despite anything to the contrary in [section 25][1243] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act---
         
     *   (a) ends on the date that is 12 months after the date on which the offence was committed if the offence is one for which the maximum fine does not exceed $10,000:
     
@@ -11391,13 +11395,13 @@ Offences and penalties
     
     *   (d) the Fish and Game Council in any district in which an offence has been committed or an offender is found.
     
-    Section 236(2): replaced, on 1 July 2013, by [section 413][958] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 236(2): replaced, on 1 July 2013, by [section 413][959] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 236(3): added, on 1 October 2001, by [section 53][1243] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 236(3): added, on 1 October 2001, by [section 53][1244] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 237 Summons may be served on agent of foreign vessel
     
-*   (1) Any summons in respect of an offence against this Act that relates to any foreign fishing vessel or foreign-owned New Zealand fishing vessel or foreign-operated fish carrier shall be deemed to have been served on the defendant in accordance with rules made under the [Criminal Procedure Act 2011][1244] if the summons is served, in any one of the ways permitted by those rules, on the authorised agent of---
+*   (1) Any summons in respect of an offence against this Act that relates to any foreign fishing vessel or foreign-owned New Zealand fishing vessel or foreign-operated fish carrier shall be deemed to have been served on the defendant in accordance with rules made under the [Criminal Procedure Act 2011][1245] if the summons is served, in any one of the ways permitted by those rules, on the authorised agent of---
         
     *   (a) the operator of any foreign-owned New Zealand fishing vessel or any foreign-operated fish carrier; or
     
@@ -11407,9 +11411,9 @@ Offences and penalties
     
     (2) For the purposes of subsection (1), the authorised agent shall be the person nominated as authorised agent at the time of registration or licensing of the vessel, as the case may be, whether or not the vessel is currently registered or licensed under this Act.
     
-    Compare: 1983 No 14 [s 104(1), (2), (3), (6)][1245]; 1987 No 117 s 11(1)
+    Compare: 1983 No 14 [s 104(1), (2), (3), (6)][1246]; 1987 No 117 s 11(1)
     
-    Section 237(1): amended, on 1 July 2013, by [section 413][958] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 237(1): amended, on 1 July 2013, by [section 413][959] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 238 Charges relating to certain offences may be heard together
     
@@ -11429,19 +11433,19 @@ Offences and penalties
     
     (3) For the purposes of this section, in considering whether it is in the interests of justice to hear any charges together or separately, the court shall have regard to the likelihood of prejudice to the defendant if any particular charge, or combination of charges, is heard together with any other charge or combination of charges.
     
-    Compare: 1983 No 14 [s 104A][1246]; 1992 No 90 [s 17][1247]
+    Compare: 1983 No 14 [s 104A][1247]; 1992 No 90 [s 17][1248]
     
-    Section 238 heading: amended, on 1 July 2013, by [section 413][958] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 238 heading: amended, on 1 July 2013, by [section 413][959] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 238(1): replaced, on 1 July 2013, by [section 413][958] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 238(1): replaced, on 1 July 2013, by [section 413][959] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 238(2): amended, on 1 July 2013, by [section 413][958] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 238(2): amended, on 1 July 2013, by [section 413][959] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 238(3): amended, on 1 July 2013, by [section 413][958] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 238(3): amended, on 1 July 2013, by [section 413][959] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 239 Charging document may charge defendant with any number of offences
     
-*   (1) Any charging document may, notwithstanding [section 17][1248] of the Criminal Procedure Act 2011, charge the defendant with any number of offences against this Act, if the offences are founded on the same set of facts, or form, or are part of, a series of offences of the same or similar character.
+*   (1) Any charging document may, notwithstanding [section 17][1249] of the Criminal Procedure Act 2011, charge the defendant with any number of offences against this Act, if the offences are founded on the same set of facts, or form, or are part of, a series of offences of the same or similar character.
     
     (2) If any charging document charges more than 1 such offence, particulars of each offence charged shall be set out in the charging document.
     
@@ -11449,17 +11453,17 @@ Offences and penalties
     
     Compare: 1992 No 13 s 166(5)--(7)
     
-    Section 239 heading: amended, on 1 July 2013, by [section 413][958] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 239 heading: amended, on 1 July 2013, by [section 413][959] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 239(1): amended, on 1 July 2013, by [section 413][958] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 239(1): amended, on 1 July 2013, by [section 413][959] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 239(2): amended, on 1 July 2013, by [section 413][958] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 239(2): amended, on 1 July 2013, by [section 413][959] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 240 Strict liability
     
 *   In any proceedings for an offence against this Act it is not necessary for the prosecution to prove that the defendant intended to commit the offence, except in the case of an offence against any of [sections 78A(8) and (9)][142], [79A(8) and (9)][145], [231][451], [233][453], [235][455], [257(2)][485], [296B(5)][538], and [296ZC(3)(b) and (c)][572].
     
-    Section 240: substituted, on 1 October 2001, by [section 22][1249] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 240: substituted, on 1 October 2001, by [section 22][1250] of the Fisheries Amendment Act 2001 (2001 No 65).
 
 ##### 241 Defence available under this Act
     
@@ -11485,27 +11489,27 @@ Offences and penalties
     
     (3) A defendant is not, without leave of the court, entitled as part of a defence provided by this section to rely on any of the matters specified in subsection (1)(a) unless the defendant has, not later than 7 days before the date on which the hearing of the proceedings commences, served on the prosecutor a notice in writing identifying the person or the nature of the accident or cause relied on by the defendant.
     
-    Section 241(1): amended, on 1 October 2001, by [section 55(1)(a)][1250] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 241(1): amended, on 1 October 2001, by [section 55(1)(a)][1251] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 241(1)(b): amended, on 1 October 2001, by [section 55(1)(b)][1250] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 241(1)(b): amended, on 1 October 2001, by [section 55(1)(b)][1251] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 241(1)(b)(ii): amended, on 1 October 2001, by [section 55(1)(c)][1250] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 241(1)(b)(ii): amended, on 1 October 2001, by [section 55(1)(c)][1251] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 241(2): repealed, on 1 October 2001, by [section 55(2)][1250] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 241(2): repealed, on 1 October 2001, by [section 55(2)][1251] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 241(3): amended, on 1 July 2013, by [section 413][958] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 241(3): amended, on 1 July 2013, by [section 413][959] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 242 Defence for all quota management stocks
     
 *   \[Repealed\]
     
-    Section 242: repealed (without coming into force), on 9 September 1999, by [section 85(i)][827] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 242: repealed (without coming into force), on 9 September 1999, by [section 85(i)][828] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 243 Defence for specified quota management stocks
     
 *   \[Repealed\]
     
-    Section 243: repealed (without coming into force), on 9 September 1999, by [section 85(i)][827] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 243: repealed (without coming into force), on 9 September 1999, by [section 85(i)][828] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 244 Liability of body corporate
     
@@ -11547,11 +11551,11 @@ Offences and penalties
     
     *   (b) any agent or employee of a person acting as an agent shall be deemed to be also acting as an agent for the other person or body corporate referred to in paragraph (a).
     
-    Compare: 1983 No 14 [s 105C][1251]; 1990 No 29 [s 51][1232]
+    Compare: 1983 No 14 [s 105C][1252]; 1990 No 29 [s 51][1233]
     
-    Section 245(3)(d): amended, on 1 October 2001, by [section 56(1)][1252] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 245(3)(d): amended, on 1 October 2001, by [section 56(1)][1253] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 245(3)(e): added, on 1 October 2001, by [section 56(2)][1252] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 245(3)(e): added, on 1 October 2001, by [section 56(2)][1253] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 246 Liability of directors and managers
     
@@ -11565,13 +11569,13 @@ Offences and penalties
     
     (3) A person may be convicted of an offence against this section even though the body corporate has not been charged with that offence or a similar offence.
     
-    Section 246: substituted, on 1 October 2001, by [section 57][1253] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 246: substituted, on 1 October 2001, by [section 57][1254] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 247 Presumption as to authority
     
 *   A return, record, transaction, form, application, or other information purporting to be completed, kept, or provided by or on behalf of any person shall, for the purpose of this Act, be deemed to have been completed, kept, or provided by that person unless the contrary is proved.
     
-    Compare: 1983 No 14 [s 105E][1254]; 1990 No 29 [s 51][1232]
+    Compare: 1983 No 14 [s 105E][1255]; 1990 No 29 [s 51][1233]
 
 #### Evidence in proceedings
 
@@ -11619,9 +11623,9 @@ Offences and penalties
     
     *   (b) the validity of the certificate or summary of evidence.
     
-    Compare: 1983 No 14 [s 106][1255]; 1990 No 29 [s 51][1232]; 1991 No 149 [s 28][1256]; 1992 No 90 [s 19][1257]
+    Compare: 1983 No 14 [s 106][1256]; 1990 No 29 [s 51][1233]; 1991 No 149 [s 28][1257]; 1992 No 90 [s 19][1258]
     
-    Section 248(1)(a): amended, on 1 October 2001, by [section 24][1258] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 248(1)(a): amended, on 1 October 2001, by [section 24][1259] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
 
 ##### 249 Copies of accounts, records, returns, etc
     
@@ -11647,7 +11651,7 @@ Offences and penalties
     
     *   (b) the validity of the document.
     
-    Compare: 1983 No 14 [s 106A][1259]; 1990 No 29 [s 51][1232]
+    Compare: 1983 No 14 [s 106A][1260]; 1990 No 29 [s 51][1233]
     
     Section 249(1): amended, on 9 September 1999, pursuant to [section 90(2)][773] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
@@ -11655,17 +11659,17 @@ Offences and penalties
     
 *   In any proceedings for an offence against this Act, an allegation made in a charge about the identity of the master of any vessel, at any specified time, shall be presumed to be true in the absence of proof to the contrary.
     
-    Compare: 1983 No 14 [s 106B][1260]; 1990 No 29 [s 51][1232]
+    Compare: 1983 No 14 [s 106B][1261]; 1990 No 29 [s 51][1233]
     
-    Section 250: amended, on 1 July 2013, by [section 413][958] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 250: amended, on 1 July 2013, by [section 413][959] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 251 Presumptions to apply whether or not separate or further evidence adduced in support
     
 *   If it is provided in this Act that any presumption is to apply in respect of any matter, the presumption shall apply, whether or not separate or further evidence is adduced by or on behalf of the prosecutor in support of the relevant presumption.
     
-    Compare: 1983 No 14 [s 106C][1261]; 1990 No 29 [s 51][1232]
+    Compare: 1983 No 14 [s 106C][1262]; 1990 No 29 [s 51][1233]
     
-    Section 251: amended, on 1 July 2013, by [section 413][958] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 251: amended, on 1 July 2013, by [section 413][959] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Penalties
 
@@ -11799,81 +11803,81 @@ Offences and penalties
     
     *   (d) [section 288(5)][526] (contravening provisions relating to public meetings).
     
-    (7) Notwithstanding anything in the [Sentencing Act 2002][1262], if any person is convicted of an offence against this Act, the court may, in addition to any other sentence it may impose, sentence the defendant to serve such specified community-based sentence (as defined in [section 4(1)][1263] of that Act) as the court in the circumstances of the case considers appropriate.
+    (7) Notwithstanding anything in the [Sentencing Act 2002][1263], if any person is convicted of an offence against this Act, the court may, in addition to any other sentence it may impose, sentence the defendant to serve such specified community-based sentence (as defined in [section 4(1)][1264] of that Act) as the court in the circumstances of the case considers appropriate.
     
-    Compare: 1983 No 14 [s 107][1231]; 1990 No 29 [s 51][1232]
+    Compare: 1983 No 14 [s 107][1232]; 1990 No 29 [s 51][1233]
     
-    Section 252(1): amended, on 1 July 2013, by [section 413][958] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 252(1): amended, on 1 July 2013, by [section 413][959] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 252(1)(c): substituted, on 19 March 2004, by [section 7][1264] of the Fisheries Amendment Act 2004 (2004 No 6).
+    Section 252(1)(c): substituted, on 19 March 2004, by [section 7][1265] of the Fisheries Amendment Act 2004 (2004 No 6).
     
-    Section 252(1)(d): added, on 1 October 2001, by [section 58(1)][1265] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 252(1)(d): added, on 1 October 2001, by [section 58(1)][1266] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 252(1)(e): added, on 1 October 2001, by [section 58(1)][1265] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 252(1)(e): added, on 1 October 2001, by [section 58(1)][1266] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 252(1)(f): added, on 1 October 2001, by [section 58(1)][1265] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 252(1)(f): added, on 1 October 2001, by [section 58(1)][1266] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 252(3)(a): repealed, on 1 October 2001, by [section 58(2)][1265] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 252(3)(a): repealed, on 1 October 2001, by [section 58(2)][1266] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 252(3)(c): substituted, on 1 October 2001, by [section 23(1)][1266] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 252(3)(c): substituted, on 1 October 2001, by [section 23(1)][1267] of the Fisheries Amendment Act 2001 (2001 No 65).
     
-    Section 252(3)(ca): substituted, on 1 October 2001, by [section 23(1)][1266] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 252(3)(ca): substituted, on 1 October 2001, by [section 23(1)][1267] of the Fisheries Amendment Act 2001 (2001 No 65).
     
-    Section 252(3)(cb): inserted, on 1 October 2001, by [section 23(1)][1266] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 252(3)(cb): inserted, on 1 October 2001, by [section 23(1)][1267] of the Fisheries Amendment Act 2001 (2001 No 65).
     
-    Section 252(3)(cc): inserted, on 1 October 2001, by [section 23(1)][1266] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 252(3)(cc): inserted, on 1 October 2001, by [section 23(1)][1267] of the Fisheries Amendment Act 2001 (2001 No 65).
     
-    Section 252(3)(cd): inserted, on 1 October 2001, by [section 23(1)][1266] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 252(3)(cd): inserted, on 1 October 2001, by [section 23(1)][1267] of the Fisheries Amendment Act 2001 (2001 No 65).
     
-    Section 252(3)(ha): inserted, on 1 October 2001, by [section 25(1)][1267] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 252(3)(ha): inserted, on 1 October 2001, by [section 25(1)][1268] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 252(3)(hb): inserted, on 1 October 2001, by [section 25(1)][1267] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 252(3)(hb): inserted, on 1 October 2001, by [section 25(1)][1268] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 252(3)(hc): inserted, on 1 October 2001, by [section 25(1)][1267] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 252(3)(hc): inserted, on 1 October 2001, by [section 25(1)][1268] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 252(3)(hd): inserted, on 1 October 2001, by [section 25(1)][1267] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 252(3)(hd): inserted, on 1 October 2001, by [section 25(1)][1268] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 252(3)(he): inserted as (ha), on 23 June 1998, by [section 21(1)][1268] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+    Section 252(3)(he): inserted as (ha), on 23 June 1998, by [section 21(1)][1269] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
     
-    Section 252(3)(he) number: substituted, on 1 October 2001, by [section 23(2)][1266] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 252(3)(he) number: substituted, on 1 October 2001, by [section 23(2)][1267] of the Fisheries Amendment Act 2001 (2001 No 65).
     
-    Section 252(3)(ja): inserted, on 1 January 2005, by [section 11(1)][1269] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 252(3)(ja): inserted, on 1 January 2005, by [section 11(1)][1270] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
     
-    Section 252(3)(o): added on 1 October 2001, by [section 58(4)][1265] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 252(3)(o): added on 1 October 2001, by [section 58(4)][1266] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 252(3)(p): added on 1 October 2001, by [section 58(4)][1265] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 252(3)(p): added on 1 October 2001, by [section 58(4)][1266] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 252(3)(q): added on 1 October 2001, by [section 58(4)][1265] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 252(3)(q): added on 1 October 2001, by [section 58(4)][1266] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
     Section 252(5)(h): amended, on 9 September 1999, pursuant to [section 90(2)][773] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 252(5)(ha): inserted, on 1 October 2001, by [section 21(2)][1268] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+    Section 252(5)(ha): inserted, on 1 October 2001, by [section 21(2)][1269] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
     
-    Section 252(5)(ha): amended, on 1 October 2004, by [section 47(1)][1270] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 252(5)(ha): amended, on 1 October 2004, by [section 47(1)][1271] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 252(5)(hb): inserted, on 1 October 2001, by [section 25(2)][1267] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 252(5)(hb): inserted, on 1 October 2001, by [section 25(2)][1268] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 252(5)(hc): inserted, on 1 October 2001, by [section 25(2)][1267] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 252(5)(hc): inserted, on 1 October 2001, by [section 25(2)][1268] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 252(5)(hd): inserted, on 1 October 2001, by [section 25(2)][1267] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 252(5)(hd): inserted, on 1 October 2001, by [section 25(2)][1268] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 252(5)(he): inserted, on 1 January 2005, by [section 11(2)][1269] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 252(5)(he): inserted, on 1 January 2005, by [section 11(2)][1270] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
     
-    Section 252(5)(j): amended, on 1 October 2001, by [section 58(5)][1265] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 252(5)(j): amended, on 1 October 2001, by [section 58(5)][1266] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 252(5)(la): inserted, on 1 October 2001, by [section 21(3)][1268] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+    Section 252(5)(la): inserted, on 1 October 2001, by [section 21(3)][1269] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
     
-    Section 252(5)(m): added, on 1 April 1998, by [section 9][1271] of the Fisheries (Fouveaux Strait Dredge Oyster Fishery) Amendment Act 1998 (1998 No 6).
+    Section 252(5)(m): added, on 1 April 1998, by [section 9][1272] of the Fisheries (Fouveaux Strait Dredge Oyster Fishery) Amendment Act 1998 (1998 No 6).
     
-    Section 252(5)(o): added, on 1 October 2001, by [section 21(4)][1268] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+    Section 252(5)(o): added, on 1 October 2001, by [section 21(4)][1269] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
     
-    Section 252(6): substituted, on 1 October 2001, by [section 23(3)][1266] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 252(6): substituted, on 1 October 2001, by [section 23(3)][1267] of the Fisheries Amendment Act 2001 (2001 No 65).
     
-    Section 252(6)(c): amended, on 1 October 2004, by [section 47(2)][1270] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 252(6)(c): amended, on 1 October 2004, by [section 47(2)][1271] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 252(6)(ca): inserted, on 1 January 2005, by [section 11(3)][1269] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 252(6)(ca): inserted, on 1 January 2005, by [section 11(3)][1270] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
     
-    Section 252(7): amended, on 30 June 2002, by [section 186][1272] of the Sentencing Act 2002 (2002 No 9).
+    Section 252(7): amended, on 30 June 2002, by [section 186][1273] of the Sentencing Act 2002 (2002 No 9).
 
 ##### 253 Imprisonment of foreign persons
     
@@ -11881,7 +11885,7 @@ Offences and penalties
     
     (2) If, but for subsection (1), a person would be liable to suffer imprisonment for the commission of any offence, the person shall instead of such imprisonment be liable on conviction to a fine not exceeding $500,000\.
     
-    Section 253(2): amended, on 1 July 2013, by [section 413][958] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 253(2): amended, on 1 July 2013, by [section 413][959] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 254 Matters to be taken into account by court in sentencing
     
@@ -11899,7 +11903,7 @@ Offences and penalties
     
     _associated quota_, in relation to a person convicted of an offence (the _offender_), means---
         
-    *   (a) all quota owned by any person that is a subsidiary of the offender within the meaning of [section 5][936] of the Companies Act 1993:
+    *   (a) all quota owned by any person that is a subsidiary of the offender within the meaning of [section 5][937] of the Companies Act 1993:
     
     *   (b) if the offender has, in the fishing year in which the offence was committed or the immediately preceeding fishing year,---
             
@@ -11951,9 +11955,9 @@ Offences and penalties
     
     (5) No quota owned by any person is associated quota merely because of any relationship between that person and Te Ohu Kai Moana Trustee Limited or any other person and Te Ohu Kai Moana Trustee Limited.
     
-    (6) No quota owned by any bank registered under the [Reserve Bank of New Zealand Act 1989][899] is to be regarded as associated quota merely because the bank has in the ordinary course of its business as a financier become the owner of that quota.
+    (6) No quota owned by any bank registered under the [Reserve Bank of New Zealand Act 1989][900] is to be regarded as associated quota merely because the bank has in the ordinary course of its business as a financier become the owner of that quota.
     
-    Section 255: substituted, on 1 October 2001, by [section 24][1273] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 255: substituted, on 1 October 2001, by [section 24][1274] of the Fisheries Amendment Act 2001 (2001 No 65).
     
     Section 255(4): amended, on 29 November 2004, by [section 214][763] of the Maori Fisheries Act 2004 (2004 No 78).
     
@@ -11965,9 +11969,9 @@ Offences and penalties
         
     *   (a) the infringement fee for the offence is paid; or
     
-    *   (b) a copy of a reminder notice in respect of the infringement offence is filed or a reminder notice is deemed to have been filed in a court under [section 21][1274] of the Summary Proceedings Act 1957, as the case requires, within 6 months from the time when the offence is alleged to have been committed; or
+    *   (b) a copy of a reminder notice in respect of the infringement offence is filed or a reminder notice is deemed to have been filed in a court under [section 21][1275] of the Summary Proceedings Act 1957, as the case requires, within 6 months from the time when the offence is alleged to have been committed; or
     
-    *   (c) the informant and the defendant, in respect of the infringement notice, enter into an arrangement under [section 21(3A)][1274] of the Summary Proceedings Act 1957 allowing the defendant to pay the relevant infringement fee by instalments; or
+    *   (c) the informant and the defendant, in respect of the infringement notice, enter into an arrangement under [section 21(3A)][1275] of the Summary Proceedings Act 1957 allowing the defendant to pay the relevant infringement fee by instalments; or
     
     *   (d) the person is found guilty, or admits the commission, of the infringement offence.
     
@@ -11977,9 +11981,9 @@ Offences and penalties
     
     *   (b) any proceeds from the sale of that fish.
     
-    Section 255A: inserted, on 1 October 2001, by [section 59][1275] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 255A: inserted, on 1 October 2001, by [section 59][1276] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 255A(1)(b): substituted, on 1 March 2007, by [section 33][1276] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 255A(1)(b): substituted, on 1 March 2007, by [section 33][1277] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
 
 ##### 255B Forfeiture where person liable to fine exceeding $10,000 but less than $100,000
     
@@ -11989,7 +11993,7 @@ Offences and penalties
     
     *   (b) where---
             
-        *   (i) a person is charged with an infringement offence against this Act and proceedings in respect of that offence are commenced under the [Criminal Procedure Act 2011][1244] (not by way of an infringement notice); and
+        *   (i) a person is charged with an infringement offence against this Act and proceedings in respect of that offence are commenced under the [Criminal Procedure Act 2011][1245] (not by way of an infringement notice); and
         
         *   (ii) the person is found guilty of, or pleads guilty to, that offence:
         
@@ -12007,17 +12011,17 @@ Offences and penalties
     
     (3) On conviction of a person for an offence referred to in subsection (1)(d), the court may order that any property used in the commission of the offence is forfeit to the Crown.
     
-    Section 255B: inserted, on 1 October 2001, by [section 59][1275] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 255B: inserted, on 1 October 2001, by [section 59][1276] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 255B heading: amended, on 1 October 2004, by [section 48(a)][1277] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 255B heading: amended, on 1 October 2004, by [section 48(a)][1278] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 255B heading: amended, on 30 June 2002, by [section 186][1272] of the Sentencing Act 2002 (2002 No 9).
+    Section 255B heading: amended, on 30 June 2002, by [section 186][1273] of the Sentencing Act 2002 (2002 No 9).
     
-    Section 255B(1)(a): repealed, on 30 June 2002, by [section 186][1272] of the Sentencing Act 2002 (2002 No 9).
+    Section 255B(1)(a): repealed, on 30 June 2002, by [section 186][1273] of the Sentencing Act 2002 (2002 No 9).
     
-    Section 255B(1)(b): replaced, on 1 July 2013, by [section 413][958] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 255B(1)(b): replaced, on 1 July 2013, by [section 413][959] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 255B(1)(d): amended, on 1 October 2004, by [section 48(b)][1277] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 255B(1)(d): amended, on 1 October 2004, by [section 48(b)][1278] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 255C Forfeiture for section 252(2), (3), and (5) offences, offences carrying fine of $100,000, repeat offences, and serious non-commercial offences
     
@@ -12059,17 +12063,17 @@ Offences and penalties
     
     *   (b) any fish on board or property associated with such a vessel in respect of such an offence.
     
-    Section 255C: inserted, on 1 October 2001, by [section 59][1275] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 255C: inserted, on 1 October 2001, by [section 59][1276] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 255C(1)(b): amended, on 1 October 2004, by [section 49(1)][1278] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 255C(1)(b): amended, on 1 October 2004, by [section 49(1)][1279] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 255C(2)(c): amended, on 1 January 2005, by [section 12][1279] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 255C(2)(c): amended, on 1 January 2005, by [section 12][1280] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
     
-    Section 255C(2)(d): added, on 1 January 2005, by [section 12][1279] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 255C(2)(d): added, on 1 January 2005, by [section 12][1280] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
     
-    Section 255C(3): substituted, on 1 October 2001, by [section 25][1280] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 255C(3): substituted, on 1 October 2001, by [section 25][1281] of the Fisheries Amendment Act 2001 (2001 No 65).
     
-    Section 255C(4): added, on 1 October 2004, by [section 49(2)][1278] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 255C(4): added, on 1 October 2004, by [section 49(2)][1279] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 255D Forfeiture for section 252(1) or (4) offence
     
@@ -12087,11 +12091,11 @@ Offences and penalties
     
     *   (e) any associated quota, unless the court is satisfied that [section 255E(3B)][483] applies to preclude forfeiture.
     
-    Section 255D: inserted, on 1 October 2001, by [section 59][1275] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 255D: inserted, on 1 October 2001, by [section 59][1276] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 255D(2)(d): substituted, on 1 October 2001, by [section 26][1281] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 255D(2)(d): substituted, on 1 October 2001, by [section 26][1282] of the Fisheries Amendment Act 2001 (2001 No 65).
     
-    Section 255D(2)(e): added, on 1 October 2001, by [section 26][1281] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 255D(2)(e): added, on 1 October 2001, by [section 26][1282] of the Fisheries Amendment Act 2001 (2001 No 65).
 
 ##### 255E General provisions relating to forfeiture
     
@@ -12137,17 +12141,17 @@ Offences and penalties
     
     (5) Nothing in any of [sections 255A to 255D][479] applies to any offence against a provision in [Part 15A][536].
     
-    Section 255E: inserted, on 1 October 2001, by [section 59][1275] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 255E: inserted, on 1 October 2001, by [section 59][1276] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
     Section 255E(1A): inserted, on 29 November 2004, by [section 214][763] of the Maori Fisheries Act 2004 (2004 No 78).
     
-    Section 255E(3)(e): added, on 1 October 2001, by [section 27(1)][1282] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 255E(3)(e): added, on 1 October 2001, by [section 27(1)][1283] of the Fisheries Amendment Act 2001 (2001 No 65).
     
-    Section 255E(3A): inserted, on 1 October 2001, by [section 27(2)][1282] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 255E(3A): inserted, on 1 October 2001, by [section 27(2)][1283] of the Fisheries Amendment Act 2001 (2001 No 65).
     
-    Section 255E(3B): inserted, on 1 October 2001, by [section 27(2)][1282] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 255E(3B): inserted, on 1 October 2001, by [section 27(2)][1283] of the Fisheries Amendment Act 2001 (2001 No 65).
     
-    Section 255E(4): substituted, on 30 June 2002, by [section 186][1272] of the Sentencing Act 2002 (2002 No 9).
+    Section 255E(4): substituted, on 30 June 2002, by [section 186][1273] of the Sentencing Act 2002 (2002 No 9).
 
 ##### 256 Provisions relating to forfeit property
     
@@ -12271,7 +12275,7 @@ Offences and penalties
     
     *   (e) the reinstatement (notwithstanding the forfeiture) of any interest that was forfeit or cancelled as a result of a forfeiture.
     
-    (11A) If the court makes an order under subsection (11) that relates to settlement quota, the person taking possession of that quota by order of the court may only dispose of the quota in accordance with [sections 161][863] (except subsection (2)) and [163][864] of the Maori Fisheries Act 2004, as if he or she were a mandated iwi organisation.
+    (11A) If the court makes an order under subsection (11) that relates to settlement quota, the person taking possession of that quota by order of the court may only dispose of the quota in accordance with [sections 161][864] (except subsection (2)) and [163][865] of the Maori Fisheries Act 2004, as if he or she were a mandated iwi organisation.
     
     (12) This section does not require the Crown to pay, or secure the payment of, any sum of money to any person claiming an interest in forfeit property, other than the net proceeds of sale of forfeit property under a court order made under subsection (7).
     
@@ -12279,39 +12283,39 @@ Offences and penalties
     
     (14) Any forfeiture under any of [sections 255A to 255D][479], or any payment of a sum of money or delivery of property under subsection (7), to persons claiming an interest, shall be in addition to, and not in substitution for, any other penalty that may be imposed by the court or by this Act.
     
-    Compare: 1983 No 14 [s 107C][910]; 1990 No 29 [s 52(1)][911]
+    Compare: 1983 No 14 [s 107C][911]; 1990 No 29 [s 52(1)][912]
     
-    Section 256(1) **forfeit property**: amended, on 1 October 2001, by [section 60(2)][1283] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 256(1) **forfeit property**: amended, on 1 October 2001, by [section 60(2)][1284] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 256(1) **forfeit property** paragraph (b): substituted, on 1 October 2001, by [section 60(1)][1283] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 256(1) **forfeit property** paragraph (b): substituted, on 1 October 2001, by [section 60(1)][1284] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 256(1) **interest**: substituted, on 18 September 2002, by [section 3(1)][1284] of the Fisheries (Foreign Fishing Crew) Amendment Act 2002 (2002 No 27).
+    Section 256(1) **interest**: substituted, on 18 September 2002, by [section 3(1)][1285] of the Fisheries (Foreign Fishing Crew) Amendment Act 2002 (2002 No 27).
     
-    Section 256(2): substituted, on 1 October 2004, by [section 50][1285] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 256(2): substituted, on 1 October 2004, by [section 50][1286] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 256(3): amended, on 1 October 2001, by [section 60(4)][1283] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 256(3): amended, on 1 October 2001, by [section 60(4)][1284] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 256(4): amended, on 1 October 2001, by [section 60(5)][1283] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 256(4): amended, on 1 October 2001, by [section 60(5)][1284] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 256(4)(c): repealed, on 1 October 2001, by [section 28(a)][1286] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 256(4)(c): repealed, on 1 October 2001, by [section 28(a)][1287] of the Fisheries Amendment Act 2001 (2001 No 65).
     
-    Section 256(6)(c): repealed, on 1 October 2001, by [section 28(a)][1286] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 256(6)(c): repealed, on 1 October 2001, by [section 28(a)][1287] of the Fisheries Amendment Act 2001 (2001 No 65).
     
-    Section 256(7): amended, on 1 October 2001, by [section 60(7)][1283] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 256(7): amended, on 1 October 2001, by [section 60(7)][1284] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 256(8)(a): amended, on 18 September 2002, by [section 3(2)][1284] of the Fisheries (Foreign Fishing Crew) Amendment Act 2002 (2002 No 27).
+    Section 256(8)(a): amended, on 18 September 2002, by [section 3(2)][1285] of the Fisheries (Foreign Fishing Crew) Amendment Act 2002 (2002 No 27).
     
-    Section 256(8)(a): amended, on 1 October 2001, by [section 28(b)][1286] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 256(8)(a): amended, on 1 October 2001, by [section 28(b)][1287] of the Fisheries Amendment Act 2001 (2001 No 65).
     
-    Section 256(8)(b): repealed, on 1 October 2001, by [section 28(c)][1286] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 256(8)(b): repealed, on 1 October 2001, by [section 28(c)][1287] of the Fisheries Amendment Act 2001 (2001 No 65).
     
-    Section 256(9): repealed, on 1 October 2001, by [section 60(8)][1283] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 256(9): repealed, on 1 October 2001, by [section 60(8)][1284] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 256(10): repealed, on 1 October 2001, by [section 60(8)][1283] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 256(10): repealed, on 1 October 2001, by [section 60(8)][1284] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
     Section 256(11A): inserted, on 29 November 2004, by [section 214][763] of the Maori Fisheries Act 2004 (2004 No 78).
     
-    Section 256(14): amended, on 1 October 2001, by [section 60(9)][1283] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 256(14): amended, on 1 October 2001, by [section 60(9)][1284] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 257 Prohibition of fishing activity in case of reoffending
     
@@ -12355,9 +12359,9 @@ Offences and penalties
     
     *   (b) the maximum fine on conviction for a first offence does not (or did not at the time) exceed $5,000\.
     
-    Compare: 1983 No 14 [s 107D][1287]; 1986 No 34 s 27(1); 1990 No 29 [s 53][1288]
+    Compare: 1983 No 14 [s 107D][1288]; 1986 No 34 s 27(1); 1990 No 29 [s 53][1289]
     
-    Section 257(2): amended, on 1 October 2001, by [section 61][1289] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 257(2): amended, on 1 October 2001, by [section 61][1290] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 258 Sum equal to deemed value payable if catch returns not completed or provided, or false returns provided
     
@@ -12385,33 +12389,33 @@ Offences and penalties
     
     (2) All payments under subsection (1) shall be made from money from time to time appropriated by Parliament for the purpose.
     
-    Compare: 1983 No 14 [s 107E][1290]; 1986 No 34 s 27(1)
+    Compare: 1983 No 14 [s 107E][1291]; 1986 No 34 s 27(1)
 
 #### Minor offence procedure
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 July 2013, by [section 413][958] of the Criminal Procedure Act 2011 (2011 No 81).
+*   Heading: repealed, on 1 July 2013, by [section 413][959] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 260 Minor offences
     
 *   \[Repealed\]
     
-    Section 260: repealed, on 1 July 2013, by [section 413][958] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 260: repealed, on 1 July 2013, by [section 413][959] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Infringement offences
     
-*   Heading: inserted, on 1 October 2001, by [section 62][1291] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+*   Heading: inserted, on 1 October 2001, by [section 62][1292] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 260A Infringement offences
     
 *   (1) If a fishery officer has reason to believe that a person has committed an infringement offence, the fishery officer may---
         
-    *   (a) commence proceedings against the person for the alleged offence by filing a charging document under [section 14][1292] of the Criminal Procedure Act 2011; or
+    *   (a) commence proceedings against the person for the alleged offence by filing a charging document under [section 14][1293] of the Criminal Procedure Act 2011; or
     
     *   (b) issue an infringement notice in respect of the alleged offence.
     
-    (2) Despite [section 21][1274] of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to file a charging document is not necessary if a fishery officer proceeds with an infringement offence by filing a charging document under [section 14][1292] of the Criminal Procedure Act 2011\.
+    (2) Despite [section 21][1275] of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to file a charging document is not necessary if a fishery officer proceeds with an infringement offence by filing a charging document under [section 14][1293] of the Criminal Procedure Act 2011\.
     
     (3) If an infringement notice is issued, a fishery officer may do 1 or more of the following with the infringement notice:
         
@@ -12423,13 +12427,13 @@ Offences and penalties
     
     (4) If the notice was fixed or sent in accordance with subsection (3), it is deemed to have been served on the person.
     
-    Section 260A: inserted, on 1 October 2001, by [section 62][1291] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 260A: inserted, on 1 October 2001, by [section 62][1292] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 260A(1)(a): amended, on 1 July 2013, by [section 413][958] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 260A(1)(a): amended, on 1 July 2013, by [section 413][959] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 260A(2): replaced, on 1 July 2013, by [section 413][958] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 260A(2): replaced, on 1 July 2013, by [section 413][959] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 260A(4): amended, on 1 July 2013, by [section 413][958] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 260A(4): amended, on 1 July 2013, by [section 413][959] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 260B Infringement notices
     
@@ -12443,7 +12447,7 @@ Offences and penalties
     
     *   (d) the time within which the infringement fee may be paid:
     
-    *   (e) a summary of the provisions of [section 21(10)][1274] of the Summary Proceedings Act 1957:
+    *   (e) a summary of the provisions of [section 21(10)][1275] of the Summary Proceedings Act 1957:
     
     *   (f) a statement that the person has a right to request a hearing:
     
@@ -12455,28 +12459,28 @@ Offences and penalties
     
     (2) There may be different approved forms for different kinds of infringement offences.
     
-    Section 260B: inserted, on 1 October 2001, by [section 62][1291] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 260B: inserted, on 1 October 2001, by [section 62][1292] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 260B(1A): inserted, on 1 October 2004, by [section 51][1293] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 260B(1A): inserted, on 1 October 2004, by [section 51][1294] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 260C Infringement fees
     
 *   All infringement fees are payable to the chief executive, and the chief executive must pay all infringement fees received into a Crown Bank Account.
     
-    Section 260C: inserted, on 1 October 2001, by [section 62][1291] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 260C: inserted, on 1 October 2001, by [section 62][1292] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 260C: amended, on 25 January 2005, pursuant to [section 65R(3)][1294] of the Public Finance Act 1989 (1989 No 44).
+    Section 260C: amended, on 25 January 2005, pursuant to [section 65R(3)][1295] of the Public Finance Act 1989 (1989 No 44).
 
 ## Part 14  
 Cost recovery
     
-*   Part 14: substituted, on 1 February 2001, by [section 63][1295] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+*   Part 14: substituted, on 1 February 2001, by [section 63][1296] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 261 Purpose of Part
     
 *   The purpose of this Part is to enable the Crown to recover its costs in respect of the provision of conservation services and fisheries services.
     
-    Section 261: substituted, on 1 February 2001, by [section 63][1295] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 261: substituted, on 1 February 2001, by [section 63][1296] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 262 Cost recovery principles
     
@@ -12492,7 +12496,7 @@ Cost recovery
     
     *   (e) the Crown may not recover under this Part the costs of services provided by an approved service delivery organisation under [Part 15A][536].
     
-    Section 262: substituted, on 1 February 2001, by [section 63][1295] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 262: substituted, on 1 February 2001, by [section 63][1296] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 263 Cost recovery rules
     
@@ -12516,9 +12520,9 @@ Cost recovery
     
     (5) Without limiting the Interpretation Act 1999, no order made under this section is invalid because it leaves any matter to the discretion of any person.
     
-    Section 263: substituted, on 1 February 2001, by [section 63][1295] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 263: substituted, on 1 February 2001, by [section 63][1296] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 263(5): amended, on 1 November 1999, pursuant to [section 38(1)][1296] of the Interpretation Act 1999 (1999 No 85).
+    Section 263(5): amended, on 1 November 1999, pursuant to [section 38(1)][1297] of the Interpretation Act 1999 (1999 No 85).
 
 ##### 264 Levies
     
@@ -12544,9 +12548,9 @@ Cost recovery
     
     *   (f) authorise the chief executive to prescribe or provide for such matters as may be necessary or expedient to administer the collection of a levy imposed under subsection (1).
     
-    Section 264: substituted, on 1 February 2001, by [section 63][1295] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 264: substituted, on 1 February 2001, by [section 63][1296] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 264(2): amended, on 19 March 2004, by [section 8][1297] of the Fisheries Amendment Act 2004 (2004 No 6).
+    Section 264(2): amended, on 19 March 2004, by [section 8][1298] of the Fisheries Amendment Act 2004 (2004 No 6).
 
 ##### 265 Under-recovery and over-recovery of costs
     
@@ -12562,7 +12566,7 @@ Cost recovery
     
     *   (b) the Minister has not previously had regard to under this section.
     
-    Section 265: substituted, on 19 March 2004, by [section 9][1298] of the Fisheries Amendment Act 2004 (2004 No 6).
+    Section 265: substituted, on 19 March 2004, by [section 9][1299] of the Fisheries Amendment Act 2004 (2004 No 6).
 
 ##### 265A Recommendation for levies payable in year commencing 1 October 2003 and subsequent years
     
@@ -12572,13 +12576,13 @@ Cost recovery
     
     *   (b) then---
             
-        *   (i) in the case of a stock or other grouping listed in [Part 1][1299] of Schedule 9A, reduce that amount by the relevant settlement sum allocated to that stock or other grouping in that schedule (or by so much of that settlement sum as would reduce the amount to zero):
+        *   (i) in the case of a stock or other grouping listed in [Part 1][1300] of Schedule 9A, reduce that amount by the relevant settlement sum allocated to that stock or other grouping in that schedule (or by so much of that settlement sum as would reduce the amount to zero):
         
-        *   (ii) in the case of a stock listed in [Part 2][1300] of Schedule 9A, increase that amount by the relevant settlement sum allocated to that stock in that schedule.
+        *   (ii) in the case of a stock listed in [Part 2][1301] of Schedule 9A, increase that amount by the relevant settlement sum allocated to that stock in that schedule.
         
         
     
-    (2) In making a recommendation under [section 264][498] in respect of levies payable in the year commencing on 1 October 2004 or in any subsequent year, the Minister must, after calculating the amount that it would be appropriate to recover by way of levy under this Part for any stock or other grouping listed in [Part 1][1299] of Schedule 9A, reduce that amount by the remaining balance (if any) of the relevant settlement sum allocated to that stock or other grouping in that schedule (or by so much of the remaining balance as would reduce the amount to zero).
+    (2) In making a recommendation under [section 264][498] in respect of levies payable in the year commencing on 1 October 2004 or in any subsequent year, the Minister must, after calculating the amount that it would be appropriate to recover by way of levy under this Part for any stock or other grouping listed in [Part 1][1300] of Schedule 9A, reduce that amount by the remaining balance (if any) of the relevant settlement sum allocated to that stock or other grouping in that schedule (or by so much of the remaining balance as would reduce the amount to zero).
     
     (3) Where the Minister makes a recommendation under [section 264][498] that results in an order amending a levy already fixed for any stock or other grouping for the relevant year, the Minister must, where appropriate,---
         
@@ -12594,9 +12598,9 @@ Cost recovery
     
     (5) The Minister must, as soon as practicable after making any recommendation under [section 264][498] that has required an adjustment under subsection (1)(b)(i) or subsection (2) or subsection (3), state the remaining balance for each affected stock or grouping by notice in the _Gazette_.
     
-    (6) In this section, _remaining balance_ means the relevant settlement sum allocated to a stock or grouping under [Part 1][1299] of Schedule 9A less all previous adjustments made by the Minister under subsection (1)(b)(i) or subsection (2), and less or plus (as the case may require) any adjustments made by the Minister under subsection (3).
+    (6) In this section, _remaining balance_ means the relevant settlement sum allocated to a stock or grouping under [Part 1][1300] of Schedule 9A less all previous adjustments made by the Minister under subsection (1)(b)(i) or subsection (2), and less or plus (as the case may require) any adjustments made by the Minister under subsection (3).
     
-    Section 265A: substituted, on 19 March 2004, by [section 10(1)][1301] of the Fisheries Amendment Act 2004 (2004 No 6).
+    Section 265A: substituted, on 19 March 2004, by [section 10(1)][1302] of the Fisheries Amendment Act 2004 (2004 No 6).
 
 ##### 266 Other fees, charges, or levies
     
@@ -12610,7 +12614,7 @@ Cost recovery
     
     (3) The Minister may not have regard to any deemed value payable or paid when recommending the imposition of a fee, charge, or levy relating to conservation services or fisheries services.
     
-    Section 266: substituted, on 1 February 2001, by [section 63][1295] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 266: substituted, on 1 February 2001, by [section 63][1296] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 267 Payment of levies
     
@@ -12620,7 +12624,7 @@ Cost recovery
     
     (3) The chief executive and a person liable to pay a levy may enter into an arrangement for repayment of the amount of levy due.
     
-    Section 267: substituted, on 1 February 2001, by [section 63][1295] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 267: substituted, on 1 February 2001, by [section 63][1296] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 268 Caveats on quota
     
@@ -12640,15 +12644,15 @@ Cost recovery
     
     *   (b) may direct that a caveat entered in a register under this section be withdrawn if the chief executive and the person liable to pay the outstanding amount enter into an arrangement for repayment of the amount.
     
-    Section 268: substituted, on 1 February 2001, by [section 63][1295] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 268: substituted, on 1 February 2001, by [section 63][1296] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 268(1)(a): substituted, on 20 April 2010, by [section 6(2)][1302] of the Ministry of Agriculture and Fisheries (Restructuring) Amendment Act 2010 (2010 No 19).
+    Section 268(1)(a): substituted, on 20 April 2010, by [section 6(2)][1303] of the Ministry of Agriculture and Fisheries (Restructuring) Amendment Act 2010 (2010 No 19).
     
-    Section 268(1)(b): amended, on 20 April 2010, by [section 6(3)][1302] of the Ministry of Agriculture and Fisheries (Restructuring) Amendment Act 2010 (2010 No 19).
+    Section 268(1)(b): amended, on 20 April 2010, by [section 6(3)][1303] of the Ministry of Agriculture and Fisheries (Restructuring) Amendment Act 2010 (2010 No 19).
     
-    Section 268(1)(c): substituted, on 20 April 2010, by [section 6(4)][1302] of the Ministry of Agriculture and Fisheries (Restructuring) Amendment Act 2010 (2010 No 19).
+    Section 268(1)(c): substituted, on 20 April 2010, by [section 6(4)][1303] of the Ministry of Agriculture and Fisheries (Restructuring) Amendment Act 2010 (2010 No 19).
     
-    Section 268(3)(a): amended, on 20 April 2010, by [section 6(5)][1302] of the Ministry of Agriculture and Fisheries (Restructuring) Amendment Act 2010 (2010 No 19).
+    Section 268(3)(a): amended, on 20 April 2010, by [section 6(5)][1303] of the Ministry of Agriculture and Fisheries (Restructuring) Amendment Act 2010 (2010 No 19).
 
 ##### 269 Suspension of permit, licence, or registration where levies unpaid
     
@@ -12676,21 +12680,21 @@ Cost recovery
     
     (7) A court may at any time, on application by the holder of a fishing permit, special permit, licensed fish receiver's licence, controlled fishery licence, or fish farmer registration that has been suspended under this section, make an order lifting the suspension subject to any sureties and conditions specified by the court.
     
-    Section 269: substituted, on 1 January 2005, by [section 13][1303] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 269: substituted, on 1 January 2005, by [section 13][1304] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
     
-    Section 269(1)(a): substituted, on 20 April 2010, by [section 6(6)][1302] of the Ministry of Agriculture and Fisheries (Restructuring) Amendment Act 2010 (2010 No 19).
+    Section 269(1)(a): substituted, on 20 April 2010, by [section 6(6)][1303] of the Ministry of Agriculture and Fisheries (Restructuring) Amendment Act 2010 (2010 No 19).
     
-    Section 269(1)(b): amended, on 20 April 2010, by [section 6(7)][1302] of the Ministry of Agriculture and Fisheries (Restructuring) Amendment Act 2010 (2010 No 19).
+    Section 269(1)(b): amended, on 20 April 2010, by [section 6(7)][1303] of the Ministry of Agriculture and Fisheries (Restructuring) Amendment Act 2010 (2010 No 19).
     
-    Section 269(1)(c): substituted, on 20 April 2010, by [section 6(8)][1302] of the Ministry of Agriculture and Fisheries (Restructuring) Amendment Act 2010 (2010 No 19).
+    Section 269(1)(c): substituted, on 20 April 2010, by [section 6(8)][1303] of the Ministry of Agriculture and Fisheries (Restructuring) Amendment Act 2010 (2010 No 19).
     
-    Section 269(6)(a): amended, on 20 April 2010, by [section 6(9)][1302] of the Ministry of Agriculture and Fisheries (Restructuring) Amendment Act 2010 (2010 No 19).
+    Section 269(6)(a): amended, on 20 April 2010, by [section 6(9)][1303] of the Ministry of Agriculture and Fisheries (Restructuring) Amendment Act 2010 (2010 No 19).
 
 ##### 270 Priority of debts
     
 *   \[Repealed\]
     
-    Section 270: repealed, on 3 December 2007, by [section 445][1304] of the Insolvency Act 2006 (2006 No 55).
+    Section 270: repealed, on 3 December 2007, by [section 445][1305] of the Insolvency Act 2006 (2006 No 55).
 
 ##### 271 Records and returns
     
@@ -12702,31 +12706,31 @@ Cost recovery
     
     (2) A person commits an offence if the person fails to comply with a requirement imposed by the chief executive under subsection (1), and is liable to the penalty set out in [section 252(3)][475].
     
-    Section 271: substituted, on 1 February 2001, by [section 63][1295] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 271: substituted, on 1 February 2001, by [section 63][1296] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 272 Levies to be separately accounted for
     
 *   \[Repealed\]
     
-    Section 272: repealed (without coming into force), on 1 February 2001, by [section 63][1295] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 272: repealed (without coming into force), on 1 February 2001, by [section 63][1296] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 273 Caveats on quota
     
 *   \[Repealed\]
     
-    Section 273: repealed (without coming into force), on 1 February 2001, by [section 63][1295] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 273: repealed (without coming into force), on 1 February 2001, by [section 63][1296] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 274 Priority of debts
     
 *   \[Repealed\]
     
-    Section 274: repealed (without coming into force), on 1 February 2001, by [section 63][1295] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 274: repealed (without coming into force), on 1 February 2001, by [section 63][1296] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 275 Suspension of permit or fish receiver's licence where levies unpaid
     
 *   \[Repealed\]
     
-    Section 275: repealed (without coming into force), on 1 February 2001, by [section 63][1295] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 275: repealed (without coming into force), on 1 February 2001, by [section 63][1296] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ## Part 15  
 Fisheries administration
@@ -12781,9 +12785,9 @@ Fisheries administration
 
 ##### 279 Remuneration of members
     
-*   (1) The National Fisheries Advisory Council is hereby declared to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][1305].
+*   (1) The National Fisheries Advisory Council is hereby declared to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][1306].
     
-    (2) Members of the Council shall be paid, out of money appropriated by Parliament for the purpose, remuneration by way of fees, salary, or allowances, and travelling allowances and expenses, in accordance with the [Fees and Travelling Allowances Act 1951][1305], and the provisions of that Act shall apply accordingly.
+    (2) Members of the Council shall be paid, out of money appropriated by Parliament for the purpose, remuneration by way of fees, salary, or allowances, and travelling allowances and expenses, in accordance with the [Fees and Travelling Allowances Act 1951][1306], and the provisions of that Act shall apply accordingly.
     
     (3) No person shall be deemed to be employed in the service of the Crown by reason of being a member of the Council.
 
@@ -12825,7 +12829,7 @@ Fisheries administration
     
     (3) An appointment under subsection (2) shall be for a term not exceeding 5 years.
     
-    Compare: 1983 No 14 [s 28A(1)--(4)][1306]; 1986 No 34 s 9; 1990 No 29 [s 4][1307]
+    Compare: 1983 No 14 [s 28A(1)--(4)][1307]; 1986 No 34 s 9; 1990 No 29 [s 4][1308]
 
 ##### 284 Functions of Committee
     
@@ -12851,15 +12855,15 @@ Fisheries administration
     
     (2) Any member of the Committee may be removed from office at any time by the Minister on the ground of inability to perform the functions of the office, bankruptcy, neglect of duty, or misconduct of the member proved to the satisfaction of the Minister.
     
-    Compare: 1983 No 14 [ss 13(4)--(6)][1308], [28A(5)][1306]; 1986 No 34 s 9
+    Compare: 1983 No 14 [ss 13(4)--(6)][1309], [28A(5)][1307]; 1986 No 34 s 9
     
-    Section 285(2): amended, on 1 January 2002, by [section 70(1)][1309] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 285(2): amended, on 1 January 2002, by [section 70(1)][1310] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 286 Defect in appointment
     
 *   The proceedings of the Catch History Review Committee shall not be invalidated merely because of the subsequent discovery that some defect existed in the appointment of any member.
     
-    Compare: 1983 No 14 [ss 17][1310], [28A(5)][1306]; 1986 No 34 s 9
+    Compare: 1983 No 14 [ss 17][1311], [28A(5)][1307]; 1986 No 34 s 9
 
 ##### 287 Committee may regulate its own procedure
     
@@ -12877,17 +12881,17 @@ Fisheries administration
     
     (5) Every person commits an offence and is liable to the penalty set out in [section 252(6)][475] who contravenes an order made under subsection (3).
     
-    Compare: 1983 No 14 [ss 18(1), (2), (3), (5)][1311], [28A(5)][1306]; 1986 No 34 s 9
+    Compare: 1983 No 14 [ss 18(1), (2), (3), (5)][1312], [28A(5)][1307]; 1986 No 34 s 9
 
 ##### 289 Fees and travelling allowances
     
-*   (1) The Catch History Review Committee is hereby declared to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][1305].
+*   (1) The Catch History Review Committee is hereby declared to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][1306].
     
-    (2) Members of the Catch History Review Committee shall be paid, out of money appropriated by Parliament for the purpose, remuneration by way of fees, salary, or allowances, and travelling allowances and expenses, in accordance with the [Fees and Travelling Allowances Act 1951][1305], and the provisions of that Act shall apply accordingly.
+    (2) Members of the Catch History Review Committee shall be paid, out of money appropriated by Parliament for the purpose, remuneration by way of fees, salary, or allowances, and travelling allowances and expenses, in accordance with the [Fees and Travelling Allowances Act 1951][1306], and the provisions of that Act shall apply accordingly.
     
     (3) No person shall be deemed to be employed in the service of the Crown by reason of the person's appointment under [section 283][521] as a member of the Committee.
     
-    Compare: 1983 No 14 [ss 19][1312], [28A(5)][1306]; 1986 No 34 s 9
+    Compare: 1983 No 14 [ss 19][1313], [28A(5)][1307]; 1986 No 34 s 9
 
 ##### 290 Administration of Committee
     
@@ -12895,7 +12899,7 @@ Fisheries administration
     
     (2) All expenses incurred in respect of the functions of the Catch History Review Committee shall be paid out of money appropriated for that purpose by Parliament.
     
-    Compare: 1983 No 14 [ss 20][1313], [28A(5)][1306]; 1986 No 34 s 9
+    Compare: 1983 No 14 [ss 20][1314], [28A(5)][1307]; 1986 No 34 s 9
 
 ##### 291 Representation of parties
     
@@ -12909,7 +12913,7 @@ Fisheries administration
     
     (5) The Committee shall grant permission under subsection (4) only if it considers that any appearance is necessary in the interests of justice, and any person to whom such permission is granted shall be a party to the proceedings.
     
-    Compare: 1983 No 14 [ss 22][1314], [28A(8), (9)][1306]; 1986 No 34 s 9
+    Compare: 1983 No 14 [ss 22][1315], [28A(8), (9)][1307]; 1986 No 34 s 9
 
 ##### 292 Evidence before Committee
     
@@ -12929,9 +12933,9 @@ Fisheries administration
     
     *   (b) require any person to verify by statutory declaration any statement made by him or her with respect to the proceedings.
     
-    (3) Any proceedings (including any application made or information filed before the commencement of any proceedings) before the Committee shall be judicial proceedings for the purposes of this Act or any other Act (including the [Crimes Act 1961][1315]).
+    (3) Any proceedings (including any application made or information filed before the commencement of any proceedings) before the Committee shall be judicial proceedings for the purposes of this Act or any other Act (including the [Crimes Act 1961][1316]).
     
-    Compare: 1983 No 14 [ss 23][1316], [28A(5)][1306]; 1986 No 34 s 9
+    Compare: 1983 No 14 [ss 23][1317], [28A(5)][1307]; 1986 No 34 s 9
 
 ##### 293 Decision of Committee
     
@@ -12959,17 +12963,17 @@ Fisheries administration
     
     (3) The Committee shall record its decisions in a register.
     
-    (4) Every decision of the Committee shall be final unless challenged by an application for review under [Part 1][1126] of the Judicature Amendment Act 1972\.
+    (4) Every decision of the Committee shall be final unless challenged by an application for review under [Part 1][1127] of the Judicature Amendment Act 1972\.
     
     (5) Notwithstanding any other enactment or rule of law, a court shall not hear or determine, and no person shall make or commence, any application or other proceedings whatever in respect of a decision or purported decision of the Committee unless the application is, or the proceedings are, made or commenced within 90 days after the date of the decision or purported decision.
     
     (6) Every decision of the Committee shall contain a statement as to the effect of subsections (4) and (5).
     
-    Compare: 1983 No 14 [s 28I][1317]; 1986 No 34 s 10; 1989 No 159 s 55; 1992 No 137 [s 2][1318]
+    Compare: 1983 No 14 [s 28I][1318]; 1986 No 34 s 10; 1989 No 159 s 55; 1992 No 137 [s 2][1319]
     
     Section 293(2)(c): amended, on 9 September 1999, pursuant to [section 90(2)][773] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 293(5): amended, on 1 October 2001, by [section 29][1319] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 293(5): amended, on 1 October 2001, by [section 29][1320] of the Fisheries Amendment Act 2001 (2001 No 65).
 
 #### Administration generally
 
@@ -12995,15 +12999,15 @@ Fisheries administration
     
     (4A) The chief executive may, after consultation with the Minister and the other party to the arrangement or contract, amend or revoke contract standards and contract specifications set under subsection (4).
     
-    (5) No arrangement or contract under subsection (1)(b) between the chief executive and any other party (other than an agency of the Crown or other instrument of the Crown) may provide for that other party (or person acting on behalf of that other party) to perform or exercise any power that is conferred or imposed on fishery officers (other than honorary fishery officers or examiners) by or under [Part 6][1320] of the Fisheries Act 1983 or by or under this Act.
+    (5) No arrangement or contract under subsection (1)(b) between the chief executive and any other party (other than an agency of the Crown or other instrument of the Crown) may provide for that other party (or person acting on behalf of that other party) to perform or exercise any power that is conferred or imposed on fishery officers (other than honorary fishery officers or examiners) by or under [Part 6][1321] of the Fisheries Act 1983 or by or under this Act.
     
     (6) Nothing in this section or in any arrangement or contract entered into under the authority of this section relieves the chief executive of the obligation to perform or ensure the performance of any function, duty, or power imposed on the chief executive by this Act or any other Act.
     
-    Section 294(4): amended, on 9 September 1999, by [section 64(1)][1321] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 294(4): amended, on 9 September 1999, by [section 64(1)][1322] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 294(4A): inserted, on 1 October 2004, by [section 52][1322] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 294(4A): inserted, on 1 October 2004, by [section 52][1323] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 294(5): substituted, on 9 September 1999, by [section 64(2)][1321] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 294(5): substituted, on 9 September 1999, by [section 64(2)][1322] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 295 Notification of appointments and places for provision of information
     
@@ -13025,9 +13029,9 @@ Fisheries administration
     
     *   (b) any person with whom the chief executive has entered into the arrangement or contract may, subject to the terms and conditions of the arrangement or contract, give, provide, or demand any notice, account, record, return, information, demand, or any other thing in relation to any function, duty, or power of the chief executive that forms the subject of the arrangement or contract, and is required by any enactment, regulation, instrument, or document to be given, provided, or demanded by the chief executive.
     
-    Section 295(2): amended, on 1 October 2004, by [section 53][1323] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 295(2): amended, on 1 October 2004, by [section 53][1324] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 295(3): amended, on 1 October 2004, by [section 53][1323] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 295(3): amended, on 1 October 2004, by [section 53][1324] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 296 Electronic transmission
     
@@ -13056,7 +13060,7 @@ Fisheries administration
 ## Part 15A  
 Performance of services by approved organisations
     
-*   Part 15A: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+*   Part 15A: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 296A Interpretation
     
@@ -13082,17 +13086,17 @@ Performance of services by approved organisations
         
         
     
-    Section 296A: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 296A: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 296A(a)(ii): amended, on 1 January 2005, by [section 14(1)][1325] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 296A(a)(ii): amended, on 1 January 2005, by [section 14(1)][1326] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
     
-    Section 296A(a)(iii): added, on 1 January 2005, by [section 14(1)][1325] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 296A(a)(iii): added, on 1 January 2005, by [section 14(1)][1326] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
     
-    Section 296A(b): amended, on 1 January 2005, by [section 14(2)][1325] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 296A(b): amended, on 1 January 2005, by [section 14(2)][1326] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
 
 ##### 296B Transfer of specified functions, duties, or powers to approved service delivery organisations
     
-*   (1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister after consultation with the Minister responsible for the administration of the [Environment Act 1986][804], transfer any specified function, duty, or power to an approved service delivery organisation.
+*   (1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister after consultation with the Minister responsible for the administration of the [Environment Act 1986][805], transfer any specified function, duty, or power to an approved service delivery organisation.
     
     (2) An order transferring specified functions, duties, or powers to an approved service delivery organisation must---
         
@@ -13106,7 +13110,7 @@ Performance of services by approved organisations
     
     *   (ab) if the recommendation relates to a function, duty, or power associated with the administration of fish farming, the proposed approved service delivery organisation is representative of fish farmers who have an interest in the function, duty, or power; and
     
-    *   (b) the proposed approved service delivery organisation is a company incorporated under the [Companies Act 1993][1326]; and
+    *   (b) the proposed approved service delivery organisation is a company incorporated under the [Companies Act 1993][1327]; and
     
     *   (c) the proposed approved service delivery organisation has the financial, management, and other resources to enable it to---
             
@@ -13134,9 +13138,9 @@ Performance of services by approved organisations
     
     (5) An approved service delivery organisation or other person who knowingly falsifies information or data to which an order under subsection (4) relates commits an offence and is liable on conviction to the penalty set out in [section 252(1)][475].
     
-    Section 296B: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 296B: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 296B(3)(ab): inserted, on 1 January 2005, by [section 15][1327] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 296B(3)(ab): inserted, on 1 January 2005, by [section 15][1328] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
 
 ##### 296C Effect of transfer of specified functions, duties, or powers
     
@@ -13154,7 +13158,7 @@ Performance of services by approved organisations
     
     (3) The chief executive must not perform or exercise, and is not responsible for the performance or exercise of, any specified function, duty, or power that is transferred to an approved service delivery organisation by an order made under [section 296B][538] while the order is in force.
     
-    (4) Subsections (1) to (3) apply despite anything in the [Commerce Act 1986][1328].
+    (4) Subsections (1) to (3) apply despite anything in the [Commerce Act 1986][1329].
     
     (5) An approved service delivery organisation may perform or exercise its functions, duties, and powers---
         
@@ -13162,7 +13166,7 @@ Performance of services by approved organisations
     
     *   (b) by entering into an agreement or arrangement with any other agency or any other instrument of the Crown or any corporation sole, body of persons (whether corporate or unincorporated), or individual.
     
-    Section 296C: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 296C: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 296D Minister must require payment of bond
     
@@ -13178,7 +13182,7 @@ Performance of services by approved organisations
     
     (4) If a monetary deposit or bond is provided by an approved service delivery organisation under subsection (1) and the Minister is satisfied, during the period for which the order under [section 296B][538] is in force, that the amount required to meet the Crown's transfer costs is less than the amount of the monetary deposit or bond, the Minister may remit the amount of the monetary deposit or reduce the amount of bond accordingly.
     
-    (5) [Part 7][1329] of the Public Finance Act 1989 applies to any money paid to the chief executive by an approved service delivery organisation under this section.
+    (5) [Part 7][1330] of the Public Finance Act 1989 applies to any money paid to the chief executive by an approved service delivery organisation under this section.
     
     (6) Any money paid to the chief executive under this section must be applied by the chief executive towards the payment of the Crown's transfer costs.
     
@@ -13192,11 +13196,11 @@ Performance of services by approved organisations
     
     *   (b) does not include the value to the Crown of any property, rights, or obligations transferred under [section 296H][546].
     
-    Section 296D: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 296D: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 #### Termination of orders transferring functions, duties, or powers
     
-*   Heading: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+*   Heading: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 296E Revocation of order transferring functions, duties, or powers to approved service delivery organisation
     
@@ -13232,7 +13236,7 @@ Performance of services by approved organisations
     
     *   (c) consider any submissions made by the approved service delivery organisation.
     
-    Section 296E: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 296E: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 296F Effect of termination of transfer
     
@@ -13242,17 +13246,17 @@ Performance of services by approved organisations
     
     *   (b) responsibility for the functions, duties, or powers is resumed by the chief executive.
     
-    Section 296F: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 296F: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 #### Transfer of property, rights, and obligations to chief executive
     
-*   Heading: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+*   Heading: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 296G Purpose of sections 296H to 296N
     
 *   The purpose of [sections 296H to 296N][546] is to ensure that the chief executive is able to resume responsibility for any specified function, duty, or power on the expiry or revocation of an order made under [section 296B][538].
     
-    Section 296G: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 296G: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 296H Minister may transfer property, rights, and obligations to chief executive
     
@@ -13274,7 +13278,7 @@ Performance of services by approved organisations
     
     _specified person_ means a person to whom a notice is given under subsection (1)(a) or (b) or subsection (2).
     
-    Section 296H: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 296H: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 296I Minister to give notice before transferring property, etc
     
@@ -13292,7 +13296,7 @@ Performance of services by approved organisations
     
     *   (c) considers any submissions made by the specified person.
     
-    Section 296I: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 296I: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 296J Content of notice to transfer property, rights, and obligations
     
@@ -13310,7 +13314,7 @@ Performance of services by approved organisations
         
         
     
-    Section 296J: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 296J: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 296K Right of appeal to District Court
     
@@ -13322,7 +13326,7 @@ Performance of services by approved organisations
     
     *   (b) revoke that part of the notice that relates to that property, or to those rights or obligations.
     
-    Section 296K: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 296K: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 296L Date on which transfer of property takes effect
     
@@ -13340,7 +13344,7 @@ Performance of services by approved organisations
     
     (3) This section applies despite anything in any agreement or arrangement.
     
-    Section 296L: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 296L: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 296M Compensation for transfer of property
     
@@ -13348,13 +13352,13 @@ Performance of services by approved organisations
     
     (2) No compensation payable by the Crown under this section may be paid out of the monetary deposit or bond held by the chief executive in respect of the approved service delivery organisation.
     
-    Section 296M: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 296M: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 296N Resolution of disputes regarding compensation
     
-*   (1) If there is any dispute or difference between the Minister and a specified person as to the amount of compensation payable to the person under [section 296M][551], the matter must be referred to arbitration, and the [Arbitration Act 1996][1147] applies accordingly.
+*   (1) If there is any dispute or difference between the Minister and a specified person as to the amount of compensation payable to the person under [section 296M][551], the matter must be referred to arbitration, and the [Arbitration Act 1996][1148] applies accordingly.
     
-    (2) For the purposes of any such arbitration, this section is a submission to arbitration within the meaning of the [Arbitration Act 1996][1147], and the reference is to 1 arbitrator, who is to be appointed---
+    (2) For the purposes of any such arbitration, this section is a submission to arbitration within the meaning of the [Arbitration Act 1996][1148], and the reference is to 1 arbitrator, who is to be appointed---
         
     *   (a) by agreement between the Minister and the specified person; or
     
@@ -13362,11 +13366,11 @@ Performance of services by approved organisations
     
     (3) Despite subsection (1), the parties may resolve the dispute or difference either before or after the matter is submitted to arbitration, and, if the agreement is made after the date of any award of arbitration, the award is cancelled.
     
-    Section 296N: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 296N: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 #### Powers of Minister in relation to approved service delivery organisations
     
-*   Heading: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+*   Heading: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 296O Minister may issue standards and specifications
     
@@ -13400,13 +13404,13 @@ Performance of services by approved organisations
     
     (4) An approved service delivery organisation must comply with the standards and specifications that apply to the functions, duties, or powers for which it is responsible.
     
-    Section 296O: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 296O: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 296P Procedure for issuing standards and specifications
     
 *   (1) Before issuing or amending standards and specifications under [section 296O][554], the Minister must consult---
         
-    *   (a) the Minister responsible for the administration of the [Environment Act 1986][804]; and
+    *   (a) the Minister responsible for the administration of the [Environment Act 1986][805]; and
     
     *   (b) those classes of persons or those approved service delivery organisations that, in the opinion of the first-mentioned Minister, have an interest in the standards and specifications.
     
@@ -13428,7 +13432,7 @@ Performance of services by approved organisations
     
     *   (b) specify where copies of the standards and specifications may be obtained.
     
-    Section 296P: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 296P: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 296Q Approved service delivery organisations must comply with directions
     
@@ -13454,11 +13458,11 @@ Performance of services by approved organisations
     
     (4) When performing or exercising any specified functions, duties, or powers an approved service delivery organisation must comply with any direction given to it by the Minister in accordance with this section.
     
-    Section 296Q: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 296Q: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 #### Sanctions for breach of standards and specifications or directions
     
-*   Heading: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+*   Heading: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 296R Sanctions for failing to comply with standards and specifications
     
@@ -13466,7 +13470,7 @@ Performance of services by approved organisations
     
     (2) Sanctions are civil penalties prescribed in regulations made under [section 296ZI][578].
     
-    Section 296R: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 296R: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 296S Demerit points to be recorded by Minister
     
@@ -13486,7 +13490,7 @@ Performance of services by approved organisations
     
     (4) Demerit points recorded under subsection (2) have effect on and from the date of the failure in respect of which the demerit points are recorded.
     
-    Section 296S: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 296S: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 296T Procedure for recording demerit points
     
@@ -13514,7 +13518,7 @@ Performance of services by approved organisations
     
     (3) The Minister may withdraw a notice at any time, in which case demerit points will not be recorded against the organisation in respect of the failure specified in the notice.
     
-    Section 296T: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 296T: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 296U Demerit points recorded where no objection made
     
@@ -13524,7 +13528,7 @@ Performance of services by approved organisations
     
     *   (b) if an objection is made by an approved service delivery organisation that is not accompanied by a statement of reasons.
     
-    Section 296U: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 296U: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 296V Demerit points recorded where objection made
     
@@ -13540,7 +13544,7 @@ Performance of services by approved organisations
     
     (4) The court may award costs as if the matter were a criminal matter.
     
-    Section 296V: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 296V: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 296W Civil penalty imposed where demerit points recorded
     
@@ -13552,7 +13556,7 @@ Performance of services by approved organisations
     
     (4) As soon as practicable after the end of each financial year, the Minister must cancel the demerit points recorded against an approved service delivery organisation in respect of that financial year, but the applicable civil penalty is payable despite the cancellation of those demerit points.
     
-    Section 296W: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 296W: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 296X Collection of civil penalty
     
@@ -13560,19 +13564,19 @@ Performance of services by approved organisations
     
     (2) In this case, the penalty includes the costs of the court and, if ordered, the Minister's costs relating to the application.
     
-    Section 296X: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 296X: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 296Y Penalties payable into Crown Bank Account
     
 *   Every civil penalty under [section 296W][563] must be paid into a Crown Bank Account.
     
-    Section 296Y: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 296Y: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 296Y: amended, on 25 January 2005, pursuant to [section 65R(3)][1294] of the Public Finance Act 1989 (1989 No 44).
+    Section 296Y: amended, on 25 January 2005, pursuant to [section 65R(3)][1295] of the Public Finance Act 1989 (1989 No 44).
 
 #### Fees
     
-*   Heading: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+*   Heading: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 296Z Fees
     
@@ -13580,9 +13584,9 @@ Performance of services by approved organisations
     
     (2) Fees may be set at any level as specified by the organisation.
     
-    (3) This section applies despite anything in this Act or in the [Fisheries Act 1983][738], but does not limit the application of the [Commerce Act 1986][1328].
+    (3) This section applies despite anything in this Act or in the [Fisheries Act 1983][738], but does not limit the application of the [Commerce Act 1986][1329].
     
-    Section 296Z: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 296Z: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 296ZAA Suspension of permit and refusal of services for non-payment of fees
     
@@ -13608,21 +13612,21 @@ Performance of services by approved organisations
     
     (7) A court may at any time, on application by the holder of a fishing permit or licence or a fish farmer's registration that has been suspended under this section or a person to whom the services specified in subsection (1) have been refused, make an order lifting the suspension subject to any sureties and conditions specified by the court.
     
-    Section 296ZAA: inserted, on 1 October 2004, by [section 54][1330] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 296ZAA: inserted, on 1 October 2004, by [section 54][1331] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 296ZAA(1): amended, on 1 January 2005, by [section 16(1)][1331] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 296ZAA(1): amended, on 1 January 2005, by [section 16(1)][1332] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
     
-    Section 296ZAA(2): amended, on 1 January 2005, by [section 16(2)(a)][1331] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 296ZAA(2): amended, on 1 January 2005, by [section 16(2)(a)][1332] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
     
-    Section 296ZAA(2): amended, on 1 January 2005, by [section 16(2)(b)][1331] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 296ZAA(2): amended, on 1 January 2005, by [section 16(2)(b)][1332] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
     
-    Section 296ZAA(4): amended, on 1 January 2005, by [section 16(3)][1331] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 296ZAA(4): amended, on 1 January 2005, by [section 16(3)][1332] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
     
-    Section 296ZAA(7): amended, on 1 January 2005, by [section 16(4)][1331] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 296ZAA(7): amended, on 1 January 2005, by [section 16(4)][1332] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
 
 #### Information disclosure requirements
     
-*   Heading: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+*   Heading: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 296ZA Regulations relating to information disclosure
     
@@ -13654,7 +13658,7 @@ Performance of services by approved organisations
     
     *   (g) providing for the revocation of an exemption of any person or class of persons from all or any of the requirements of any regulations made under this section.
     
-    Section 296ZA: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 296ZA: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 296ZB Information to be supplied to chief executive
     
@@ -13668,7 +13672,7 @@ Performance of services by approved organisations
     
     (3) All statements, reports, agreements, particulars, or information supplied to the chief executive under subsection (1) must be verified by statutory declaration by the persons and in the form prescribed by regulations made under [section 296ZA(d)][570].
     
-    Section 296ZB: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 296ZB: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 296ZC Supply of information relating to business of approved service delivery organisation
     
@@ -13688,7 +13692,7 @@ Performance of services by approved organisations
     
     (5) The penalty on conviction for an offence against subsection (3)(b) or (c) is set out in [section 252(1)][475].
     
-    Section 296ZC: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 296ZC: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 296ZD Requirement that information be audited
     
@@ -13698,7 +13702,7 @@ Performance of services by approved organisations
     
     (3) The penalty on conviction for an offence against subsection (2) is set out in [section 252(3)][475].
     
-    Section 296ZD: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 296ZD: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 296ZE Disclosure of information to Minister
     
@@ -13722,7 +13726,7 @@ Performance of services by approved organisations
     
     (4) This section applies despite any enactment or rule of law, or anything in a contract.
     
-    Section 296ZE: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 296ZE: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 296ZF Auditor to inform approved service delivery organisation of intention to disclose
     
@@ -13732,7 +13736,7 @@ Performance of services by approved organisations
     
     *   (b) the nature of the information.
     
-    Section 296ZF: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 296ZF: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 296ZG Protection of auditors
     
@@ -13746,7 +13750,7 @@ Performance of services by approved organisations
     
     (5) Nothing in subsection (4) limits the admissibility of information obtained in any other way.
     
-    Section 296ZG: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 296ZG: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 296ZH Unique identifiers
     
@@ -13756,11 +13760,11 @@ Performance of services by approved organisations
     
     *   (b) to restrict approved service delivery organisations from using such unique identifiers for purposes other than carrying out the specified functions, duties, or powers transferred to them under [section 296B][538].
     
-    (2) Despite Information Privacy Principle 12(2) of the [Privacy Act 1993][984], an approved service delivery organisation may assign to any person specified in [section 189][388] any unique identifier assigned to that person by the chief executive.
+    (2) Despite Information Privacy Principle 12(2) of the [Privacy Act 1993][985], an approved service delivery organisation may assign to any person specified in [section 189][388] any unique identifier assigned to that person by the chief executive.
     
     (3) This section does not authorise an approved service delivery organisation to use a unique identifier assigned by the chief executive, except for the purpose of carrying out the specified functions, duties, or powers that have been transferred to that approved service delivery organisation under [section 296B][538].
     
-    Section 296ZH: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 296ZH: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 296ZI Regulations
     
@@ -13776,7 +13780,7 @@ Performance of services by approved organisations
     
     (3) The total amount of civil penalties that may be incurred by an organisation in any financial year, as prescribed by regulations made under this section, may not exceed $500,000\.
     
-    Section 296ZI: inserted, on 9 September 1999, by [section 65][1324] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 296ZI: inserted, on 9 September 1999, by [section 65][1325] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ## Part 16  
 Miscellaneous provisions
@@ -13943,51 +13947,51 @@ Miscellaneous provisions
     
     *   (b) New Zealand nationals and New Zealand ships when they are outside New Zealand fisheries waters.
     
-    Section 297(1)(b): repealed, on 1 October 2004, by [section 55(1)][1332] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 297(1)(b): repealed, on 1 October 2004, by [section 55(1)][1333] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 297(1)(ca): inserted, on 1 May 2001, by [section 26(1)][1333] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 297(1)(ca): inserted, on 1 May 2001, by [section 26(1)][1334] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 297(1)(ga): inserted, on 9 September 1999, by [section 66(1)][1334] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 297(1)(ga): inserted, on 9 September 1999, by [section 66(1)][1335] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 297(1)(ha): inserted, on 1 October 2004, by [section 55(2)][1332] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 297(1)(ha): inserted, on 1 October 2004, by [section 55(2)][1333] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 297(1)(hb): inserted, on 1 October 2004, by [section 55(2)][1332] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 297(1)(hb): inserted, on 1 October 2004, by [section 55(2)][1333] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 297(1)(i)(iii): substituted, on 9 September 1999, by [section 66(2)][1334] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 297(1)(i)(iii): substituted, on 9 September 1999, by [section 66(2)][1335] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 297(1)(m): substituted, on 9 September 1999, by [section 66(3)][1334] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 297(1)(m): substituted, on 9 September 1999, by [section 66(3)][1335] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 297(1)(ma): inserted, on 1 October 2011, by [section 25][1335] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 297(1)(ma): inserted, on 1 October 2011, by [section 25][1336] of the Fisheries Amendment Act 2011 (2011 No 68).
     
-    Section 297(1)(na): inserted, on 9 September 1999, by [section 66(4)][1334] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 297(1)(na): inserted, on 9 September 1999, by [section 66(4)][1335] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 297(1)(nb): inserted, on 9 September 1999, by [section 66(4)][1334] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 297(1)(nb): inserted, on 9 September 1999, by [section 66(4)][1335] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 297(1)(nb): amended, on 1 October 2004, by [section 55(3)][1332] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 297(1)(nb): amended, on 1 October 2004, by [section 55(3)][1333] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 297(1)(nc): inserted, on 9 September 1999, by [section 66(4)][1334] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 297(1)(nc): inserted, on 9 September 1999, by [section 66(4)][1335] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 297(1)(nd): inserted, on 9 September 1999, by [section 66(4)][1334] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 297(1)(nd): inserted, on 9 September 1999, by [section 66(4)][1335] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 297(1)(o): amended, on 1 October 2001, by [section 30][1336] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 297(1)(o): amended, on 1 October 2001, by [section 30][1337] of the Fisheries Amendment Act 2001 (2001 No 65).
     
-    Section 297(1)(oa): inserted, on 1 May 2001, by [section 26(2)][1333] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 297(1)(oa): inserted, on 1 May 2001, by [section 26(2)][1334] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
     Section 297(1)(p): repealed, on 25 August 2005, by [section 75][772] of the Overseas Investment Act 2005 (2005 No 82).
     
-    Section 297(1)(q): amended, on 1 January 2005, by [section 17][1337] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 297(1)(q): amended, on 1 January 2005, by [section 17][1338] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
     
-    Section 297(1)(qa): inserted, on 26 May 2001, by [section 25][1338] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 297(1)(qa): inserted, on 26 May 2001, by [section 25][1339] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
     
-    Section 297(1)(r): repealed, on 9 September 1999, by [section 66(5)][1334] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 297(1)(r): repealed, on 9 September 1999, by [section 66(5)][1335] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 297(1)(s): amended, on 1 May 2001, by [section 26(3)][1339] of the Fisheries Act 1996 Amendment Act (No 2) Act 1999 (1999 No 103).
+    Section 297(1)(s): amended, on 1 May 2001, by [section 26(3)][1340] of the Fisheries Act 1996 Amendment Act (No 2) Act 1999 (1999 No 103).
     
-    Section 297(1)(sa): inserted, on 9 September 1999, by [section 66(6)][1334] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 297(1)(sa): inserted, on 9 September 1999, by [section 66(6)][1335] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
     Section 297(1)(t): amended, on 9 September 1999, pursuant to [section 90(2)][773] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 297(3): substituted, on 1 May 2001, by [section 26(4)][1333] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 297(3): substituted, on 1 May 2001, by [section 26(4)][1334] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 298 Regulations relating to sustainability measures
     
@@ -13995,9 +13999,9 @@ Miscellaneous provisions
         
     *   (a) implementing any sustainability measure or the variation of any sustainability measure set or varied under [section 11][16], and such regulations may be made for all or any of the purposes referred to in that section:
     
-    *   (b) if there is no applicable approved population management plan for the time being in force under [section 14F][806] of the Wildlife Act 1953 or [section 3E][807] of the Marine Mammals Protection Act 1978, imposing such measures as may be necessary or expedient to avoid, remedy, or mitigate the effect of fishing-related mortality on any protected species, which measures may include setting a limit on fishing-related mortality:
+    *   (b) if there is no applicable approved population management plan for the time being in force under [section 14F][807] of the Wildlife Act 1953 or [section 3E][808] of the Marine Mammals Protection Act 1978, imposing such measures as may be necessary or expedient to avoid, remedy, or mitigate the effect of fishing-related mortality on any protected species, which measures may include setting a limit on fishing-related mortality:
     
-    *   (c) if there is an applicable approved population management plan for the time being in force under [section 14F][806] of the Wildlife Act 1953 or [section 3E][807] of the Marine Mammals Protection Act 1978, imposing such measures as may be necessary or expedient---
+    *   (c) if there is an applicable approved population management plan for the time being in force under [section 14F][807] of the Wildlife Act 1953 or [section 3E][808] of the Marine Mammals Protection Act 1978, imposing such measures as may be necessary or expedient---
             
         *   (i) to ensure that the maximum allowable fishing-related mortality level set by the relevant population management plan is not exceeded:
         
@@ -14047,7 +14051,7 @@ Miscellaneous provisions
     
     (3) Regulations made under subsection (1)(e) shall be made on the recommendation of the Minister and, in recommending the making of such regulations, the Minister may take into account the cost of implementing the provisions of this Act with respect to foreign fishing vessels within the exclusive economic zone, including the cost of managing fisheries resources, fisheries research, and the administration and enforcement of this Act and other relevant enactments.
     
-    Compare: 1977 No 28 [s 22][1340]; 1980 No 146 s 2(2)
+    Compare: 1977 No 28 [s 22][1341]; 1980 No 146 s 2(2)
 
 ##### 299A Amendments to update Schedule 1A
     
@@ -14057,11 +14061,11 @@ Miscellaneous provisions
     
     *   (b) revoke [Schedule 1A][693], and substitute a new schedule setting out, in an up-to-date form, the text of the Fish Stocks Agreement.
     
-    (2) An order made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][1341] and must be presented to the House of Representatives under [section 41][1342] of that Act.
+    (2) An order made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][1342] and must be presented to the House of Representatives under [section 41][1343] of that Act.
     
-    Section 299A: inserted, on 1 May 2001, by [section 27][1343] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 299A: inserted, on 1 May 2001, by [section 27][1344] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 299A(2): replaced, on 5 August 2013, by [section 77(3)][1344] of the Legislation Act 2012 (2012 No 119).
+    Section 299A(2): replaced, on 5 August 2013, by [section 77(3)][1345] of the Legislation Act 2012 (2012 No 119).
 
 ##### 300 Dockside monitoring
     
@@ -14103,7 +14107,7 @@ Miscellaneous provisions
     
     *   (i) prescribing the measures to be taken to avoid the outbreak, or on an outbreak, of any disease among the fish, aquatic life, or seaweed, and authorising or requiring the taking of any specimen, the testing of any thing, or the sampling of any substance present on any fish farm, and authorising or requiring the removal of any specimen or sample, or the destruction of diseased fish, aquatic life, or seaweed, whether with or without payment of compensation.
     
-    Compare: 1983 No 14 [s 91][1345]; 1991 No 149 [s 26(1)][1346]
+    Compare: 1983 No 14 [s 91][1346]; 1991 No 149 [s 26(1)][1347]
 
 ##### 302 General provisions as to regulations
     
@@ -14111,7 +14115,7 @@ Miscellaneous provisions
     
     (2) All authorities, approvals, requirements, conditions, directions, instructions, orders, permits, notices, and circulars issued or imposed under regulations made under this Act shall have effect according to their tenor and shall be complied with by all persons affected thereby.
     
-    Section 302(1): amended, on 1 May 2001, by [section 28][1347] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 302(1): amended, on 1 May 2001, by [section 28][1348] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 302A _Gazette_ notices may be consolidated
     
@@ -14147,37 +14151,37 @@ Miscellaneous provisions
     
     *   (b) the 1 or more notices revoked by the chief executive's new notice under subsection (2)(a).
     
-    Section 302A: inserted, on 31 August 2012, by [section 5][1348] of the Fisheries Amendment Act 2012 (2012 No 63).
+    Section 302A: inserted, on 31 August 2012, by [section 5][1349] of the Fisheries Amendment Act 2012 (2012 No 63).
 
 ##### 303 Certain notices to have status of regulations
     
 *   (1) A notice given under this Act that is required to be published in the _Gazette_---
         
-    *   (a) is a regulation for the purposes of the [Interpretation Act 1999][1349]; and
+    *   (a) is a regulation for the purposes of the [Interpretation Act 1999][1350]; and
     
-    *   (b) is a legislative instrument for the purposes of the [Legislation Act 2012][1341], but is not a disallowable instrument for the purposes of that Act and does not have to be presented to the House of Representatives under [section 41][1342] of that Act.
+    *   (b) is a legislative instrument for the purposes of the [Legislation Act 2012][1342], but is not a disallowable instrument for the purposes of that Act and does not have to be presented to the House of Representatives under [section 41][1343] of that Act.
     
     (2) Subsection (1) does not apply to any notice given under any of [sections 11][16], [13][19], [14][20], [16][25], [20][34], [60][112], [186K][343], [186Q][349], [186ZE][366], [188][386], [265A][500], [283][521], [295][534], [296P][555], [307][597], [341][637], [368][666], and [369][668].
     
-    (3) A notice given under [section 11(4)(b)(i)][16] is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][1341] and must be presented to the House of Representatives under [section 41][1342] of that Act.
+    (3) A notice given under [section 11(4)(b)(i)][16] is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][1342] and must be presented to the House of Representatives under [section 41][1343] of that Act.
     
-    Compare: 1983 No 14 [s 92A][1350]; 1986 No 34 s 26
+    Compare: 1983 No 14 [s 92A][1351]; 1986 No 34 s 26
     
-    Section 303(1): replaced, on 5 August 2013, by [section 77(3)][1344] of the Legislation Act 2012 (2012 No 119).
+    Section 303(1): replaced, on 5 August 2013, by [section 77(3)][1345] of the Legislation Act 2012 (2012 No 119).
     
-    Section 303(2): substituted, on 1 October 2004, by [section 56][1351] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 303(2): substituted, on 1 October 2004, by [section 56][1352] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 303(2): amended, on 31 August 2012, by [section 6][1352] of the Fisheries Amendment Act 2012 (2012 No 63).
+    Section 303(2): amended, on 31 August 2012, by [section 6][1353] of the Fisheries Amendment Act 2012 (2012 No 63).
     
-    Section 303(2): amended, on 27 March 2008, by [section 7(a)][1353] of the Fisheries Amendment Act 2008 (2008 No 11).
+    Section 303(2): amended, on 27 March 2008, by [section 7(a)][1354] of the Fisheries Amendment Act 2008 (2008 No 11).
     
-    Section 303(2): amended, on 27 March 2008, by [section 7(b)][1353] of the Fisheries Amendment Act 2008 (2008 No 11).
+    Section 303(2): amended, on 27 March 2008, by [section 7(b)][1354] of the Fisheries Amendment Act 2008 (2008 No 11).
     
     Section 303(2): amended, on 25 August 2005, by [section 75][772] of the Overseas Investment Act 2005 (2005 No 82).
     
-    Section 303(2): amended, on 1 January 2005, by [section 18][1354] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 303(2): amended, on 1 January 2005, by [section 18][1355] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
     
-    Section 303(3): replaced, on 5 August 2013, by [section 77(3)][1344] of the Legislation Act 2012 (2012 No 119).
+    Section 303(3): replaced, on 5 August 2013, by [section 77(3)][1345] of the Legislation Act 2012 (2012 No 119).
 
 ##### 304 Circulars
     
@@ -14193,23 +14197,23 @@ Miscellaneous provisions
     
     (3) The powers of the chief executive or a fishery officer to approve or be satisfied of, or to take any action in relation to (a prerequisite to the taking of which action is that he or she may have a particular opinion about), any act, plan, proposal, matter, system, process, or thing shall not be limited or affected by any matter contained in a circular.
     
-    Compare: 1983 No 14 [s 92][1355]
+    Compare: 1983 No 14 [s 92][1356]
     
-    Section 304(2): amended, on 9 September 1999, by [section 68(1)(a)][1356] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 304(2): amended, on 9 September 1999, by [section 68(1)(a)][1357] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 304(2)(a): amended, on 9 September 1999, by [section 68(1)(b)][1356] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 304(2)(a): amended, on 9 September 1999, by [section 68(1)(b)][1357] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 304(2)(b): amended, on 9 September 1999, by [section 68(1)(b)][1356] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 304(2)(b): amended, on 9 September 1999, by [section 68(1)(b)][1357] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 304(2)(c): amended, on 9 September 1999, by [section 68(1)(b)][1356] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 304(2)(c): amended, on 9 September 1999, by [section 68(1)(b)][1357] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 304(3): amended, on 9 September 1999, by [section 68(2)][1356] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 304(3): amended, on 9 September 1999, by [section 68(2)][1357] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 305 Application of Commodity Levies Act 1990
     
-*   Notwithstanding anything in the [Commodity Levies Act 1990][1357], that Act shall apply to any fish, aquatic life, or seaweed, and any other commodity (as defined in that Act) to which this Act applies with the following modifications:
+*   Notwithstanding anything in the [Commodity Levies Act 1990][1358], that Act shall apply to any fish, aquatic life, or seaweed, and any other commodity (as defined in that Act) to which this Act applies with the following modifications:
         
-    *   (a) it shall be sufficient compliance with [section 5(2)(ac)][1358] of that Act if the ballot paper described the proposal clearly, specifying in relation to it all the matters required by [section 6(1)][1359] of that Act to be specified in a levy order, and the Minister is satisfied that the ballot paper indicated that the imposition of the levy was proposed to be on the basis of 1 or more of the following:
+    *   (a) it shall be sufficient compliance with [section 5(2)(ac)][1359] of that Act if the ballot paper described the proposal clearly, specifying in relation to it all the matters required by [section 6(1)][1360] of that Act to be specified in a levy order, and the Minister is satisfied that the ballot paper indicated that the imposition of the levy was proposed to be on the basis of 1 or more of the following:
             
         *   (i) quota shares in respect of the commodity:
         
@@ -14229,7 +14233,7 @@ Miscellaneous provisions
         
         
     
-    *   (b) [section 5(2)(af), and (ah) to (ak)][1358] of that Act is complied with if the Minister is satisfied that, during any period before the support referendum that the Minister thinks fit, supporters held or landed (as the case may be) more than half of whichever of the following is specified in the ballot paper:
+    *   (b) [section 5(2)(af), and (ah) to (ak)][1359] of that Act is complied with if the Minister is satisfied that, during any period before the support referendum that the Minister thinks fit, supporters held or landed (as the case may be) more than half of whichever of the following is specified in the ballot paper:
             
         *   (i) the quota shares:
         
@@ -14241,13 +14245,13 @@ Miscellaneous provisions
         
         
     
-    *   (c) the enhancement of fisheries resources shall be a purpose for which a levy may be spent under [section 10(2)][1360] of that Act.
+    *   (c) the enhancement of fisheries resources shall be a purpose for which a levy may be spent under [section 10(2)][1361] of that Act.
     
-    Section 305(a): amended, on 9 September 1999, by [section 69][1361] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 305(a): amended, on 9 September 1999, by [section 69][1362] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 305(aa): inserted, on 26 May 2001, by [section 26][1362] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 305(aa): inserted, on 26 May 2001, by [section 26][1363] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
     
-    Section 305(b): substituted, on 26 May 2001, by [section 26][1362] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 305(b): substituted, on 26 May 2001, by [section 26][1363] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
 
 ##### 305A Powers of chief executive when false or misleading information given
     
@@ -14277,11 +14281,11 @@ Miscellaneous provisions
     
     *   (b) the person in relation to whom the decision was made or the registration was completed.
     
-    Section 305A: inserted, on 9 September 1999, by [section 70][1363] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 305A: inserted, on 9 September 1999, by [section 70][1364] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 #### Provisions relating to applications
     
-*   Heading: inserted, on 9 September 1999, by [section 70][1363] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+*   Heading: inserted, on 9 September 1999, by [section 70][1364] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 305B Requirements applying generally to applications and requests under this Act
     
@@ -14297,11 +14301,11 @@ Miscellaneous provisions
     
     (3) The lodging of an aquaculture agreement for registration under [section 186ZH][369] or a pre-request aquaculture agreement for registration under [section 186ZM][377] is to be treated as a request for the purposes of this section.
     
-    Section 305B: inserted, on 9 September 1999, by [section 70][1363] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 305B: inserted, on 9 September 1999, by [section 70][1364] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 305B(3): added, on 1 January 2005, by [section 19][1364] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+    Section 305B(3): added, on 1 January 2005, by [section 19][1365] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
     
-    Section 305B(3): amended, on 1 October 2011, by [section 26][1365] of the Fisheries Amendment Act 2011 (2011 No 68).
+    Section 305B(3): amended, on 1 October 2011, by [section 26][1366] of the Fisheries Amendment Act 2011 (2011 No 68).
 
 ##### 305C Chief executive may require additional information
     
@@ -14309,7 +14313,7 @@ Miscellaneous provisions
     
     (2) The chief executive may require any such information or evidence to be given by way of a statutory declaration.
     
-    Section 305C: inserted, on 9 September 1999, by [section 70][1363] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 305C: inserted, on 9 September 1999, by [section 70][1364] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 #### Provisions relating to notices
 
@@ -14337,7 +14341,7 @@ Miscellaneous provisions
     
     (2) Any notice or other document so sent by post or registered post shall be deemed to have been given, served, or received 7 days after the date on which it was posted, unless the person to whom it was posted proves that, otherwise than through that person's fault, the notice or document was not received.
     
-    Compare: 1983 No 14 [s 88A][1366]; 1990 No 29 [s 41][1367]
+    Compare: 1983 No 14 [s 88A][1367]; 1990 No 29 [s 41][1368]
 
 ##### 307 Ornamental fish
     
@@ -14367,29 +14371,29 @@ Miscellaneous provisions
     
     shall be regarded as making the Crown liable to pay compensation or damages to any person.
     
-    Section 308(1): amended, on 9 September 1999, by [section 71(1)][1368] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 308(1): amended, on 9 September 1999, by [section 71(1)][1369] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 308(2)(ba): inserted, on 1 October 2004, by [section 57(1)][1369] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 308(2)(ba): inserted, on 1 October 2004, by [section 57(1)][1370] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
     Section 308(2)(c): amended, on 25 August 2005, by [section 75][772] of the Overseas Investment Act 2005 (2005 No 82).
     
-    Section 308(2)(c): amended, on 1 October 2004, by [section 57(2)(a)][1369] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 308(2)(c): amended, on 1 October 2004, by [section 57(2)(a)][1370] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 308(2)(c): amended, on 1 October 2004, by [section 57(2)(b)][1369] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 308(2)(c): amended, on 1 October 2004, by [section 57(2)(b)][1370] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 308(2)(c): amended, on 1 October 2004, by [section 57(2)(c)][1369] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 308(2)(c): amended, on 1 October 2004, by [section 57(2)(c)][1370] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 308(2)(c): amended, on 9 September 1999, by [section 71(2)(a)][1368] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 308(2)(c): amended, on 9 September 1999, by [section 71(2)(a)][1369] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 308(2)(c): amended, on 9 September 1999, by [section 71(2)(b)][1368] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 308(2)(c): amended, on 9 September 1999, by [section 71(2)(b)][1369] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 308(2)(c): amended, on 9 September 1999, by [section 71(2)(c)][1368] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 308(2)(c): amended, on 9 September 1999, by [section 71(2)(c)][1369] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 308(2)(c): amended, on 9 September 1999, by [section 71(2)(d)][1368] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 308(2)(c): amended, on 9 September 1999, by [section 71(2)(d)][1369] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 309 Power to withhold compensation where amounts owing to Crown
     
-*   (1) Notwithstanding anything in [section 28OL][1370] of the Fisheries Act 1983 but subject to subsection (2) of this section, if any person has failed to pay any fee or other amount (other than a fine) due by that person to the Crown under or in respect of any matter under this Act or the [Fisheries Act 1983][738], the Crown may defer payment of any compensation payable to that person under [Part 2A][741] of that Act until the amount so due is paid.
+*   (1) Notwithstanding anything in [section 28OL][1371] of the Fisheries Act 1983 but subject to subsection (2) of this section, if any person has failed to pay any fee or other amount (other than a fine) due by that person to the Crown under or in respect of any matter under this Act or the [Fisheries Act 1983][738], the Crown may defer payment of any compensation payable to that person under [Part 2A][741] of that Act until the amount so due is paid.
     
     (2) The amount of any compensation payment deferred under subsection (1) shall not exceed the amount so due.
 
@@ -14417,7 +14421,7 @@ Miscellaneous provisions
     
     *   (d) a dispute regarding the matter has been considered under [Part 7][233] and the Minister is satisfied that all parties to the dispute have used their best endeavours in good faith to settle the dispute but have failed to do so,---
     
-    after consulting with such persons or organisations as the Minister considers are representative of those classes of persons who have an interest in the matter, recommend the making of regulations under [section 297][580] that close an area or areas to commercial fishing for that stock, or prohibit a method or methods of commercial fishing in an area or areas for that stock for the purpose of better providing for recreational fishing for that stock, provided that such regulations are not inconsistent with the Maori Fisheries Act 1989, the [Treaty of Waitangi (Fisheries Claims) Settlement Act 1992][779], or [Part 9][313].
+    after consulting with such persons or organisations as the Minister considers are representative of those classes of persons who have an interest in the matter, recommend the making of regulations under [section 297][580] that close an area or areas to commercial fishing for that stock, or prohibit a method or methods of commercial fishing in an area or areas for that stock for the purpose of better providing for recreational fishing for that stock, provided that such regulations are not inconsistent with the Maori Fisheries Act 1989, the [Treaty of Waitangi (Fisheries Claims) Settlement Act 1992][780], or [Part 9][313].
     
     (2) After determining to recommend the making of regulations under subsection (1), the Minister shall, as soon as practicable, give to the parties consulted in accordance with that subsection reasons in writing for his or her decision.
 
@@ -14435,7 +14439,7 @@ Miscellaneous provisions
     
     (4) Every person commits an offence and is liable to the penalty set out in [section 252(5)][475] who contravenes subsection (1) or subsection (2).
     
-    Section 312(4): added, on 1 October 1998, by [section 25][1371] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+    Section 312(4): added, on 1 October 1998, by [section 25][1372] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
 
 ##### 313 Closure of southern scallop fishery
     
@@ -14445,7 +14449,7 @@ Miscellaneous provisions
     
     (3) Every commercial fisher commits an offence and is liable to the penalty set out in [section 252(5)][475] who takes any scallop in contravention of a prohibition made under subsection (1).
     
-    Section 313(3): added, on 1 October 1998, by [section 26][1372] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+    Section 313(3): added, on 1 October 1998, by [section 26][1373] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
 
 ## Part 17  
 Repeals, amendments, validations, savings, and transitional provisions
@@ -14458,9 +14462,9 @@ Repeals, amendments, validations, savings, and transitional provisions
         
     *   (a) [section 2][758] (the interpretation section):
     
-    *   (b) [section 2A][784] (as inserted by section 3 of the Fisheries Amendment Act 1986) (which provides that the Act binds the Crown):
+    *   (b) [section 2A][785] (as inserted by section 3 of the Fisheries Amendment Act 1986) (which provides that the Act binds the Crown):
     
-    *   (c) [section 3][1373] (which relates to the application of the Act to the exclusive economic zone):
+    *   (c) [section 3][1374] (which relates to the application of the Act to the exclusive economic zone):
     
     *   (d)--(zo) _Amendment(s) incorporated in the [Act(s)][738]_.
     
@@ -14472,81 +14476,81 @@ Repeals, amendments, validations, savings, and transitional provisions
     
     *   (c) the Territorial Sea and Exclusive Economic Zone Amendment Act 1985:
     
-    *   (d) _Amendment(s) incorporated in the [Act(s)][1374]_:
+    *   (d) _Amendment(s) incorporated in the [Act(s)][1375]_:
     
     *   (e) the Fisheries Amendment Act 1986:
     
     *   (f) _Amendment(s) incorporated in the Act(s)_:
     
-    *   (g) _Amendment(s) incorporated in the [Act(s)][1375]_:
+    *   (g) _Amendment(s) incorporated in the [Act(s)][1376]_:
     
     *   (h) _Amendment(s) incorporated in the Act(s)_:
     
     *   (i) _Amendment(s) incorporated in the Act(s)_:
     
-    *   (j) _Amendment(s) incorporated in the [Act(s)][1376]_:
+    *   (j) _Amendment(s) incorporated in the [Act(s)][1377]_:
     
-    *   (k) _Amendment(s) incorporated in the [Act(s)][1377]_:
+    *   (k) _Amendment(s) incorporated in the [Act(s)][1378]_:
     
-    *   (l) the [Fisheries Amendment Act (No 2) 1990][1378]:
+    *   (l) the [Fisheries Amendment Act (No 2) 1990][1379]:
     
-    *   (m) _Amendment(s) incorporated in the [Act(s)][1379]_:
+    *   (m) _Amendment(s) incorporated in the [Act(s)][1380]_:
     
-    *   (n) the [Fisheries Amendment Act 1991][1380]:
+    *   (n) the [Fisheries Amendment Act 1991][1381]:
     
-    *   (o) the [Fisheries Amendment Act (No 2) 1992][1381]:
+    *   (o) the [Fisheries Amendment Act (No 2) 1992][1382]:
     
-    *   (p) _Amendment(s) incorporated in the [Act(s)][1382]_:
+    *   (p) _Amendment(s) incorporated in the [Act(s)][1383]_:
     
-    *   (q) the [Fisheries Amendment Act (No 3) 1992][1383]:
+    *   (q) the [Fisheries Amendment Act (No 3) 1992][1384]:
     
     *   (r) the Fisheries Amendment Act 1993:
     
-    *   (s) the [Fisheries Amendment Act 1994][1384]:
+    *   (s) the [Fisheries Amendment Act 1994][1385]:
     
-    *   (t) _Amendment(s) incorporated in the [Act(s)][1385]_:
+    *   (t) _Amendment(s) incorporated in the [Act(s)][1386]_:
     
-    *   (u) the [Fisheries Amendment Act (No 2) 1994][1386]:
+    *   (u) the [Fisheries Amendment Act (No 2) 1994][1387]:
     
-    *   (v) _Amendment(s) incorporated in the [Act(s)][1387]_:
+    *   (v) _Amendment(s) incorporated in the [Act(s)][1388]_:
     
-    *   (w) the [Fisheries Amendment Act 1995][1388].
+    *   (w) the [Fisheries Amendment Act 1995][1389].
     
     (3) The Fisheries (Crown Contribution) Order 1995 (SR 1995/205) is hereby consequentially revoked.
     
     (4) Without limiting anything in the Interpretation Act 1999, the repeal of any enactment by this section does not affect any amendment made to any enactment by any of the following enactments:
         
-    *   (a) [section 108(5)][1389] of the Fisheries Act 1983:
+    *   (a) [section 108(5)][1390] of the Fisheries Act 1983:
     
     *   (b) section 30 of the Fisheries Amendment Act 1986:
     
-    *   (c) [sections 57][1390] and [58][1391] of the Fisheries Amendment Act 1990:
+    *   (c) [sections 57][1391] and [58][1392] of the Fisheries Amendment Act 1990:
     
-    *   (d) [section 31][1392] of the Fisheries Amendment Act 1991:
+    *   (d) [section 31][1393] of the Fisheries Amendment Act 1991:
     
-    *   (e) [Part 2][1393] of the Fisheries Amendment Act (No 2) 1992:
+    *   (e) [Part 2][1394] of the Fisheries Amendment Act (No 2) 1992:
     
-    *   (f) [section 37][1394] of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992\.
+    *   (f) [section 37][1395] of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992\.
     
     Section 314(1)(a), (b), (c): not yet in force.
     
-    Section 314(1)(x): repealed (without coming into force), on 1 January 2005, by [section 19(2)][1395] of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 (2004 No 109).
+    Section 314(1)(x): repealed (without coming into force), on 1 January 2005, by [section 19(2)][1396] of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 (2004 No 109).
     
-    Section 314(4): amended, on 1 November 1999, pursuant to [section 38(1)][1296] of the Interpretation Act 1999 (1999 No 85).
+    Section 314(4): amended, on 1 November 1999, pursuant to [section 38(1)][1297] of the Interpretation Act 1999 (1999 No 85).
 
 ##### 315 Change of name of Fishing Industry Board Act 1963
     
 *   \[Repealed\]
     
-    Section 315: repealed (without coming into force), on 26 May 2001, by [section 5(2)][1396] of the Fishing Industry Board Repeal Act 2001 (2001 No 34).
+    Section 315: repealed (without coming into force), on 26 May 2001, by [section 5(2)][1397] of the Fishing Industry Board Repeal Act 2001 (2001 No 34).
 
 ##### 316 Amendments to other enactments
     
 *   (1) The Acts specified in [Schedule 12][712] are hereby amended in the manner indicated in that schedule.
     
-    (2) The amendments set out in [Part 1][1397] of Schedule 12 shall be deemed to have come into force on 1 July 1995\.
+    (2) The amendments set out in [Part 1][1398] of Schedule 12 shall be deemed to have come into force on 1 July 1995\.
     
-    (3) The amendments set out in [Part 2][1398] of Schedule 12 shall be deemed to have come into force on 1 October 1995\.
+    (3) The amendments set out in [Part 2][1399] of Schedule 12 shall be deemed to have come into force on 1 October 1995\.
     
     (4) The remaining parts of [Schedule 12][712] shall come into force on 1 or more dates appointed under [section 1(2)][2].
 
@@ -14554,7 +14558,7 @@ Repeals, amendments, validations, savings, and transitional provisions
     
 *   \[Repealed\]
     
-    Section 317: repealed, on 1 October 2004, by [section 60][1399] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 317: repealed, on 1 October 2004, by [section 60][1400] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 318 Amendments to Fisheries (Cost Recovery Levies) Order 1995
     
@@ -14568,31 +14572,31 @@ Repeals, amendments, validations, savings, and transitional provisions
 
 ##### 319 Amendments to Fisheries (Quota Management Areas, Total Allowable Catches, and Catch Histories) Notice 1986
     
-*   (1)--(3) _Amendment(s) incorporated in the [notice(s)][1400]._
+*   (1)--(3) _Amendment(s) incorporated in the [notice(s)][1401]._
     
     (4) Nothing in this section shall be regarded as conferring any new rights in respect of any species or classes of fish, aquatic life, or seaweed.
     
-    (5) The [Fisheries (Quota Management Areas, Total Allowable Catches, and Catch Histories) Notice 1986][1401] may hereafter be amended as if the amendments effected by this section had been effected by notice and not by this section.
+    (5) The [Fisheries (Quota Management Areas, Total Allowable Catches, and Catch Histories) Notice 1986][1402] may hereafter be amended as if the amendments effected by this section had been effected by notice and not by this section.
 
 ##### 320 Amendment to Fisheries (Jack Mackerel Quota Management Areas, Total Allowable Catches, and Catch Histories) Notice (No 2) 1987
     
-*   (1) _Amendment(s) incorporated in the [notice(s)][1402]._
+*   (1) _Amendment(s) incorporated in the [notice(s)][1403]._
     
     (2) The Fisheries (Jack Mackerel Quota Management Areas, Total Allowable Catches, and Catch Histories) Notice (No 2) 1987 may hereafter be amended as if the amendments effected by this section had been effected by notice and not by this section.
 
 ##### 321 Amendment to Fisheries (Squid Quota Management Areas, Total Allowable Catches, and Catch Histories) Notice 1987
     
-*   (1) _Amendment(s) incorporated in the [notice(s)][1403]._
+*   (1) _Amendment(s) incorporated in the [notice(s)][1404]._
     
-    (2) The [Fisheries (Squid Quota Management Areas, Total Allowable Catches, and Catch Histories) Notice 1987][1404] may hereafter be amended as if the amendments effected by this section had been effected by notice and not by this section.
+    (2) The [Fisheries (Squid Quota Management Areas, Total Allowable Catches, and Catch Histories) Notice 1987][1405] may hereafter be amended as if the amendments effected by this section had been effected by notice and not by this section.
 
 #### Savings and transitional provisions
 
 ##### 322 Relationship between offence provisions of Fisheries Act 1983 and this Act
     
-*   (1) If there is any inconsistency between any provision of the [Fisheries Act 1983][738] or the [Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977][1405] (whether the provision has effect by virtue only of this Act or otherwise) and any provision of this Act (in so far as the provisions of this Act are in force), the provision of this Act shall prevail to the extent of the inconsistency.
+*   (1) If there is any inconsistency between any provision of the [Fisheries Act 1983][738] or the [Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977][1406] (whether the provision has effect by virtue only of this Act or otherwise) and any provision of this Act (in so far as the provisions of this Act are in force), the provision of this Act shall prevail to the extent of the inconsistency.
     
-    (2) Until the repeal of [sections 76 to 80][1171], [sections 81 to 83][1215], and [section 95][1234] of the Fisheries Act 1983, the provisions of those sections shall---
+    (2) Until the repeal of [sections 76 to 80][1172], [sections 81 to 83][1216], and [section 95][1235] of the Fisheries Act 1983, the provisions of those sections shall---
         
     *   (a) continue to apply; and
     
@@ -14604,33 +14608,33 @@ Repeals, amendments, validations, savings, and transitional provisions
     
     (5) On the commencement of [section 252][475], [sections 254][477] and [256][484] shall apply in respect of offences against the [Fisheries Act 1983][738] that are committed on or after the commencement of that section 252, as if the offences against the Fisheries Act 1983 were offences against this Act, save that any person convicted of such an offence shall be liable to the penalty applicable to that offence on the date of the commission of that offence.
     
-    (6) For the purposes of subsection (5), [section 256][484] shall apply in respect of all property, fish, proceeds, quota, or interest in quota, forfeit or ordered to be forfeit to the Crown under [section 107B][1406] of the Fisheries Act 1983\.
+    (6) For the purposes of subsection (5), [section 256][484] shall apply in respect of all property, fish, proceeds, quota, or interest in quota, forfeit or ordered to be forfeit to the Crown under [section 107B][1407] of the Fisheries Act 1983\.
     
     Section 322(1): amended, on 1 August 1996, pursuant to section 5(4) of the Territorial Sea and Exclusive Economic Zone Amendment Act 1996 (1996 No 74).
     
-    Section 322(4): amended, on 1 November 1999, pursuant to [section 38(1)][1296] of the Interpretation Act 1999 (1999 No 85).
+    Section 322(4): amended, on 1 November 1999, pursuant to [section 38(1)][1297] of the Interpretation Act 1999 (1999 No 85).
 
 ##### 323 Savings relating to regulations, etc
     
-*   All regulations made under [section 89][1104] of the Fisheries Act 1983 (whether or not made exclusively under that section) and in force immediately before the commencement of this section are hereby deemed to be validly made under [section 297][580] if validly made under the [Fisheries Act 1983][738].
+*   All regulations made under [section 89][1105] of the Fisheries Act 1983 (whether or not made exclusively under that section) and in force immediately before the commencement of this section are hereby deemed to be validly made under [section 297][580] if validly made under the [Fisheries Act 1983][738].
 
 ##### 324 Savings relating to rock lobster regulations
     
-*   The Fisheries (Rock Lobster Total Allowable Commercial Catch) Order 1996 (SR 1996/23) shall, until amended or revoked, continue in force and apply as if it were a valid notice made under [section 28OB][797] of the Fisheries Act 1983 varying a total allowable commercial catch; and any notice made under that section of that Act or under [section 20][34] of this Act may revoke the Fisheries (Rock Lobster Total Allowable Commercial Catch) Order 1996\.
+*   The Fisheries (Rock Lobster Total Allowable Commercial Catch) Order 1996 (SR 1996/23) shall, until amended or revoked, continue in force and apply as if it were a valid notice made under [section 28OB][798] of the Fisheries Act 1983 varying a total allowable commercial catch; and any notice made under that section of that Act or under [section 20][34] of this Act may revoke the Fisheries (Rock Lobster Total Allowable Commercial Catch) Order 1996\.
 
 ##### 325 Savings related to fish farming regulations
     
-*   All regulations made under [section 91][1345] of the Fisheries Act 1983 (whether or not made exclusively under that section) and in force immediately before the commencement of this section are hereby deemed to be validly made under [section 301][585] if validly made under the [Fisheries Act 1983][738].
+*   All regulations made under [section 91][1346] of the Fisheries Act 1983 (whether or not made exclusively under that section) and in force immediately before the commencement of this section are hereby deemed to be validly made under [section 301][585] if validly made under the [Fisheries Act 1983][738].
 
 ##### 326 Savings related to territorial sea and exclusive economic zone
     
-*   All regulations made under [section 22][1340] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977 (whether or not made exclusively under that section) and in force immediately before the commencement of this section are hereby deemed to be validly made under [section 299][582] if validly made under that Act.
+*   All regulations made under [section 22][1341] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977 (whether or not made exclusively under that section) and in force immediately before the commencement of this section are hereby deemed to be validly made under [section 299][582] if validly made under that Act.
     
     Section 326: amended, on 1 August 1996, pursuant to section 5(4) of the Territorial Sea and Exclusive Economic Zone Amendment Act 1996 (1996 No 74).
 
 ##### 327 Savings related to commodity levy orders
     
-*   On the date of commencement of [section 305][590], all commodity levy orders made under the [Commodity Levies Act 1990][1357] in accordance with [section 107EH][1407] of the Fisheries Act 1983, and in force immediately before that date, shall continue in force as if made in accordance with that section.
+*   On the date of commencement of [section 305][590], all commodity levy orders made under the [Commodity Levies Act 1990][1358] in accordance with [section 107EH][1408] of the Fisheries Act 1983, and in force immediately before that date, shall continue in force as if made in accordance with that section.
 
 ##### 328 Savings relating to licences, approvals, and authorisations
     
@@ -14646,7 +14650,7 @@ Repeals, amendments, validations, savings, and transitional provisions
     
 *   (1) Every decision and every purported decision of the Director-General of Agriculture and Fisheries---
         
-    *   (a) made in respect of the issue, variation, refusal, revocation, or cancellation of any fishing permit under [section 63][832] or any special permit under [section 64][841] of the Fisheries Act 1983; and
+    *   (a) made in respect of the issue, variation, refusal, revocation, or cancellation of any fishing permit under [section 63][833] or any special permit under [section 64][842] of the Fisheries Act 1983; and
     
     *   (b) made before 1 October 1992---
     
@@ -14654,7 +14658,7 @@ Repeals, amendments, validations, savings, and transitional provisions
     
     (2) Every decision and every purported decision of the chief executive (whether made by the chief executive or the Director-General of Agriculture and Fisheries)---
         
-    *   (a) made in respect of the issue, variation, refusal, revocation, or cancellation of any fishing permit under [section 63][832] or special permit under [section 64][841] of the Fisheries Act 1983; and
+    *   (a) made in respect of the issue, variation, refusal, revocation, or cancellation of any fishing permit under [section 63][833] or special permit under [section 64][842] of the Fisheries Act 1983; and
     
     *   (b) made on or after 1 October 1992 but before the commencement of this section---
     
@@ -14674,7 +14678,7 @@ Repeals, amendments, validations, savings, and transitional provisions
         
         a notice requesting the chief executive to review that decision or purported decision.
     
-    (5) Notwithstanding anything in [section 93][166] of this Act or in [section 63(13)][832] of the Fisheries Act 1983, if a person has been or is granted a special permit under [section 64(1)(c)][841] of that Act or [section 97(1)(c)][173] of this Act, being a special permit granted to rectify an administrative error, the following provisions shall apply:
+    (5) Notwithstanding anything in [section 93][166] of this Act or in [section 63(13)][833] of the Fisheries Act 1983, if a person has been or is granted a special permit under [section 64(1)(c)][842] of that Act or [section 97(1)(c)][173] of this Act, being a special permit granted to rectify an administrative error, the following provisions shall apply:
         
     *   (a) the chief executive may from time to time, but is not obliged to, issue to the person an appropriate fishing permit in place of the special permit:
     
@@ -14684,59 +14688,59 @@ Repeals, amendments, validations, savings, and transitional provisions
 
 ##### 330 Certain fishing restrictions may affect quota management areas
     
-*   A provision of any regulation made under this Act, or of any notice made under [section 15][24] or [section 16][25] or under regulations made under [section 186][327], is not invalid merely because it conflicts with [section 28B(5)][812] of the Fisheries Act 1983\.
+*   A provision of any regulation made under this Act, or of any notice made under [section 15][24] or [section 16][25] or under regulations made under [section 186][327], is not invalid merely because it conflicts with [section 28B(5)][813] of the Fisheries Act 1983\.
 
 ##### 331 Savings relating to fishery officers, examiners, and observers
     
-*   (1) Every person who, immediately before the commencement of [section 196][400], held office as a fishery officer appointed under the [State Sector Act 1988][1170] pursuant to [section 76(1)][1171] of the Fisheries Act 1983 is hereby deemed to be a fishery officer appointed under the State Sector Act 1988 pursuant to section 196(1).
+*   (1) Every person who, immediately before the commencement of [section 196][400], held office as a fishery officer appointed under the [State Sector Act 1988][1171] pursuant to [section 76(1)][1172] of the Fisheries Act 1983 is hereby deemed to be a fishery officer appointed under the State Sector Act 1988 pursuant to section 196(1).
     
-    (2) Every person who, immediately before the commencement of [section 197][401], held office as an honorary fishery officer under [section 77][1173] of the Fisheries Act 1983 is hereby deemed to be appointed as an honorary fishery officer under section 197\.
+    (2) Every person who, immediately before the commencement of [section 197][401], held office as an honorary fishery officer under [section 77][1174] of the Fisheries Act 1983 is hereby deemed to be appointed as an honorary fishery officer under section 197\.
     
-    (3) Every person who, immediately before the commencement of [section 222][440], held office as an examiner under [section 67B][1222] of the Fisheries Act 1983 is hereby deemed to be appointed as an examiner under section 222\.
+    (3) Every person who, immediately before the commencement of [section 222][440], held office as an examiner under [section 67B][1223] of the Fisheries Act 1983 is hereby deemed to be appointed as an examiner under section 222\.
     
-    (4) Every person who, immediately before the commencement of [section 223][442], held office as a scientific observer under [section 67D][1224] of the Fisheries Act 1983 is hereby deemed to be appointed as an observer under section 223\.
+    (4) Every person who, immediately before the commencement of [section 223][442], held office as a scientific observer under [section 67D][1225] of the Fisheries Act 1983 is hereby deemed to be appointed as an observer under section 223\.
 
 ##### 332 Transitional provisions relating to registration of vessels where consent required under section 57(8) of Fisheries Act 1983
     
 *   \[Repealed\]
     
-    Section 332: repealed, on 1 October 2004, by [section 60][1399] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 332: repealed, on 1 October 2004, by [section 60][1400] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 333 Cancellation of registration to which section 332 applies
     
 *   \[Repealed\]
     
-    Section 333: repealed, on 1 October 2004, by [section 60][1399] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 333: repealed, on 1 October 2004, by [section 60][1400] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 333A Transitional provisions relating to foreign ownership
     
 *   \[Repealed\]
     
-    Section 333A: repealed, on 1 October 2004, by [section 60][1399] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 333A: repealed, on 1 October 2004, by [section 60][1400] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 334 Conversion of transferable term quota (rock lobster)
     
 *   \[Repealed\]
     
-    Section 334: repealed, on 1 October 2004, by [section 60][1399] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 334: repealed, on 1 October 2004, by [section 60][1400] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 335 Savings relating to quota appeals
     
 *   \[Repealed\]
     
-    Section 335: repealed, on 1 October 2004, by [section 60][1399] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 335: repealed, on 1 October 2004, by [section 60][1400] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 336 Savings relating to quota appeals after commencement of section 66
     
 *   \[Repealed\]
     
-    Section 336: repealed, on 1 October 2004, by [section 60][1399] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 336: repealed, on 1 October 2004, by [section 60][1400] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 337 Transitional provisions relating to decisions of Catch History Review Committee
     
 *   \[Repealed\]
     
-    Section 337: repealed, on 1 October 2004, by [section 60][1399] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 337: repealed, on 1 October 2004, by [section 60][1400] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 338 Transitional fishing year for packhorse rock lobster
     
@@ -14750,31 +14754,31 @@ Repeals, amendments, validations, savings, and transitional provisions
     
 *   \[Repealed\]
     
-    Section 339: repealed, on 1 October 2004, by [section 60][1399] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 339: repealed, on 1 October 2004, by [section 60][1400] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 340 Transitional provisions relating to allocation of annual catch entitlement
     
 *   \[Repealed\]
     
-    Section 340: repealed, on 1 October 2004, by [section 60][1399] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 340: repealed, on 1 October 2004, by [section 60][1400] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 340AA Exceptions to minimum holdings of annual catch entitlement for certain paua stocks
     
 *   \[Repealed\]
     
-    Section 340AA: repealed, on 1 October 2004, by [section 60][1399] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 340AA: repealed, on 1 October 2004, by [section 60][1400] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 340A Transitional provisions relating to underfishing
     
 *   \[Repealed\]
     
-    Section 340A: repealed, on 1 October 2004, by [section 60][1399] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 340A: repealed, on 1 October 2004, by [section 60][1400] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 341 Confirmation of quota
     
 *   (1) On or before the commencement of [Part 8][246], the chief executive shall give written notice to---
         
-    *   (a) each quota holder of all the details shown in respect of the holder in any register kept under [section 28P][1408] of the Fisheries Act 1983, as at a date specified for the purpose in the notice; and
+    *   (a) each quota holder of all the details shown in respect of the holder in any register kept under [section 28P][1409] of the Fisheries Act 1983, as at a date specified for the purpose in the notice; and
     
     *   (b) every person who has been allocated guaranteed minimum individual transferable quota or guaranteed minimum transferable term quota under the [Fisheries Act 1983][738] of the amount of the guaranteed minimum individual transferable quota or guaranteed minimum transferable term quota held by that person as at a date specified in the notice; and
     
@@ -14798,13 +14802,13 @@ Repeals, amendments, validations, savings, and transitional provisions
     
     (5) On and from a date to be notified by the chief executive by notice in the _Gazette_, the chief executive shall refuse to receive for registration---
         
-    *   (a) any notifications of the transfer or lease of quota (other than a lease of quota for the purposes of [section 28ZF][1409] or [section 28ZG][1410] or [section 105A(2)][1411] of the Fisheries Act 1983, expressed to take effect in the fishing year in which the notice is published, for those stocks in respect of which the fishing year begins on 1 October); and
+    *   (a) any notifications of the transfer or lease of quota (other than a lease of quota for the purposes of [section 28ZF][1410] or [section 28ZG][1411] or [section 105A(2)][1412] of the Fisheries Act 1983, expressed to take effect in the fishing year in which the notice is published, for those stocks in respect of which the fishing year begins on 1 October); and
     
     *   (b) documents relating to such transactions or leases.
     
     (5A) The chief executive must also refuse to receive for registration (whether before or after the date notified under subsection (5)) any notification of the transfer or lease of quota, and any related document, if the transfer, or lease, or related document is expressed to take effect on or after 1 October in the year in which [Part 8][246] comes into force.
     
-    (6) After the date notified in the _Gazette_ under subsection (5), the chief executive may make such entries in the relevant register kept under [section 28P][1408] of the Fisheries Act 1983 and do such other things as may be necessary for the purposes of---
+    (6) After the date notified in the _Gazette_ under subsection (5), the chief executive may make such entries in the relevant register kept under [section 28P][1409] of the Fisheries Act 1983 and do such other things as may be necessary for the purposes of---
         
     *   (a) giving effect to any decision under subsection (2) relating to any detail referred to in subsection (1)(a); or
     
@@ -14818,35 +14822,35 @@ Repeals, amendments, validations, savings, and transitional provisions
     
     (9) Notwithstanding anything in the [Fisheries Act 1983][738] or this Act, no transaction or lease referred to in subsection (5)(a) that was entered into at any time after the date specified by notice in the _Gazette_ under subsection (5) shall have any effect under this Act.
     
-    Section 341(5A): inserted, on 26 May 2001, by [section 31][1412] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 341(5A): inserted, on 26 May 2001, by [section 31][1413] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
 
 ##### 342 Guaranteed minimum individual transferable quota
     
 *   \[Repealed\]
     
-    Section 342: repealed, on 1 October 2004, by [section 60][1399] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 342: repealed, on 1 October 2004, by [section 60][1400] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 343 Conversion of holdings from old register to new register
     
 *   \[Repealed\]
     
-    Section 343: repealed, on 1 October 2004, by [section 60][1399] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 343: repealed, on 1 October 2004, by [section 60][1400] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 344 Savings relating to balancing
     
 *   \[Repealed\]
     
-    Section 344: repealed, on 1 October 2004, by [section 60][1399] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 344: repealed, on 1 October 2004, by [section 60][1400] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 345 Transitional Register
     
-*   (1) For the purposes of this Part, notwithstanding the repeal of [Part 2A][741] of the Fisheries Act 1983 by [section 314][606], the register established under [section 28P][1408] of that Act shall continue to have effect in respect of---
+*   (1) For the purposes of this Part, notwithstanding the repeal of [Part 2A][741] of the Fisheries Act 1983 by [section 314][606], the register established under [section 28P][1409] of that Act shall continue to have effect in respect of---
         
     *   (a) transfers of individual transferable quota that take effect on or after 1 October in the year in which [Part 8][246] comes into force and are notified to the chief executive before the date notified in the _Gazette_ under [section 341(5)][637]; and
     
     *   (b) every lease of individual transferable quota that begins or ends on or after that 1 October in the year in which [Part 8][246] comes into force and is notified to the chief executive before the date notified in the _Gazette_ under [section 341(5)][637].
     
-    (2) The register established under [section 28P][1408] of the Fisheries Act 1983 shall hereafter be known as the Transitional Register of Leases and Forward Transfers of Quota (or the Transitional Register).
+    (2) The register established under [section 28P][1409] of the Fisheries Act 1983 shall hereafter be known as the Transitional Register of Leases and Forward Transfers of Quota (or the Transitional Register).
     
     (3) Any party to any lease recorded in the Transitional Register of Leases and Forward Transfers of Quota may, with the consent of the other parties to that lease, reduce the term of that lease.
     
@@ -14890,25 +14894,25 @@ Repeals, amendments, validations, savings, and transitional provisions
     
     (9) For the purposes of this section, the term _lease_ includes a sublease.
     
-    Section 345(4): substituted, on 1 October 2001, by [section 33(1)][1413] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 345(4): substituted, on 1 October 2001, by [section 33(1)][1414] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
     
-    Section 345(5): substituted, on 1 October 2001, by [section 33(2)][1413] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 345(5): substituted, on 1 October 2001, by [section 33(2)][1414] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
     
-    Section 345(6): substituted, on 1 October 2001, by [section 33(2)][1413] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 345(6): substituted, on 1 October 2001, by [section 33(2)][1414] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
     
-    Section 345(7A): inserted, on 1 October 2001, by [section 33(3)][1413] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 345(7A): inserted, on 1 October 2001, by [section 33(3)][1414] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
     
-    Section 345(7B): inserted, on 1 October 2001, by [section 33(3)][1413] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 345(7B): inserted, on 1 October 2001, by [section 33(3)][1414] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
     
-    Section 345(8A): inserted, on 1 October 2001, by [section 33(4)][1413] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 345(8A): inserted, on 1 October 2001, by [section 33(4)][1414] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
     
-    Section 345(8B): inserted, on 1 October 2001, by [section 33(4)][1413] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 345(8B): inserted, on 1 October 2001, by [section 33(4)][1414] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
 
 ##### 346 Provisions relating to registration of caveats in respect of leases
     
 *   \[Repealed\]
     
-    Section 346: repealed (without coming into force), on 26 May 2001, by [section 34][1414] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 346: repealed (without coming into force), on 26 May 2001, by [section 34][1415] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
 
 ##### 347 Provisions relating to registration of leases
     
@@ -14942,23 +14946,23 @@ Repeals, amendments, validations, savings, and transitional provisions
     
     (6) \[Repealed\]
     
-    Section 347(3): substituted, on 1 October 2001, by [section 35(1)][1415] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 347(3): substituted, on 1 October 2001, by [section 35(1)][1416] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
     
-    Section 347(4): amended, on 1 October 2001, by [section 35(2)][1415] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 347(4): amended, on 1 October 2001, by [section 35(2)][1416] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
     
-    Section 347(5): substituted, on 1 October 2001, by [section 35(3)][1415] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 347(5): substituted, on 1 October 2001, by [section 35(3)][1416] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
     
-    Section 347(6): repealed, on 1 October 2001, by [section 35(3)][1415] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 347(6): repealed, on 1 October 2001, by [section 35(3)][1416] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
 
 ##### 347A Provisions relating to transfer of annual catch entitlement under leases in first fishing year
     
 *   \[Repealed\]
     
-    Section 347A: repealed, on 1 October 2004, by [section 60][1399] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 347A: repealed, on 1 October 2004, by [section 60][1400] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 348 Provisions relating to the registration of forward transfers of quota
     
-*   (1) All forward transfers of quota recorded on the Transitional Register of Leases and Forward Transfers of Quota shall, for the purposes of [section 132][257], be regarded as having been presented for registration on the day on which they are intended to take effect, and, for the purposes of [section 158][292], shall be actioned in the order in which they were notified to the Ministry under [section 28Q][1205] of the Fisheries Act 1983 and, except as otherwise provided in subsection (2) of this section, the chief executive shall action those transactions before any other quota transactions presented for registration on the day the forward transfer is intended to take effect.
+*   (1) All forward transfers of quota recorded on the Transitional Register of Leases and Forward Transfers of Quota shall, for the purposes of [section 132][257], be regarded as having been presented for registration on the day on which they are intended to take effect, and, for the purposes of [section 158][292], shall be actioned in the order in which they were notified to the Ministry under [section 28Q][1206] of the Fisheries Act 1983 and, except as otherwise provided in subsection (2) of this section, the chief executive shall action those transactions before any other quota transactions presented for registration on the day the forward transfer is intended to take effect.
     
     (2) If the forward transfer of quota is intended to take effect at the beginning of a fishing year, the chief executive shall, for the purposes of [section 64][117], action the transaction after any variations of the total allowable commercial catch are actioned but before the generation of annual catch entitlements is actioned.
     
@@ -14990,25 +14994,25 @@ Repeals, amendments, validations, savings, and transitional provisions
     
 *   \[Repealed\]
     
-    Section 349: repealed, on 1 October 2004, by [section 60][1399] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 349: repealed, on 1 October 2004, by [section 60][1400] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 350 Transitional period for registration of mortgages
     
 *   \[Repealed\]
     
-    Section 350: repealed, on 1 October 2004, by [section 60][1399] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 350: repealed, on 1 October 2004, by [section 60][1400] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 351 Special provisions relating to stocks with a fishing year beginning on 1 April
     
 *   \[Repealed\]
     
-    Section 351: repealed, on 1 October 2004, by [section 60][1399] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 351: repealed, on 1 October 2004, by [section 60][1400] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 352 Existing agreements to fish against another person's quota
     
 *   \[Repealed\]
     
-    Section 352: repealed, on 1 October 2004, by [section 60][1399] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 352: repealed, on 1 October 2004, by [section 60][1400] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 353 Statutory debts under Fisheries Act 1983
     
@@ -15024,35 +15028,35 @@ Repeals, amendments, validations, savings, and transitional provisions
     
 *   \[Repealed\]
     
-    Section 355: repealed, on 1 October 2004, by [section 60][1399] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 355: repealed, on 1 October 2004, by [section 60][1400] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 356 Dispute resolution
     
 *   \[Repealed\]
     
-    Section 356: repealed, on 1 October 2004, by [section 60][1399] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 356: repealed, on 1 October 2004, by [section 60][1400] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 357 Provision relating to minimum quota holdings
     
-*   (1) Every person who, immediately before the repeal of [section 28S][921] of the Fisheries Act 1983 by [section 314][606], was entitled to take under quota or a lease of quota under the [Fisheries Act 1983][738] an amount of fish, aquatic life, or seaweed less than the applicable minimum holding set out in section 28S(1) of that Act, shall be subject to [section 74][131] as if that amount of quota had been allocated to that person under this Act.
+*   (1) Every person who, immediately before the repeal of [section 28S][922] of the Fisheries Act 1983 by [section 314][606], was entitled to take under quota or a lease of quota under the [Fisheries Act 1983][738] an amount of fish, aquatic life, or seaweed less than the applicable minimum holding set out in section 28S(1) of that Act, shall be subject to [section 74][131] as if that amount of quota had been allocated to that person under this Act.
     
     (2) Every person who---
         
-    *   (a) immediately before the repeal of [section 28S][921] of the Fisheries Act 1983 by [section 314][606] of this Act owned or held quota in excess of any minimum holding specified in section 28S(1)(a) or section 28S(1)(b) of the Fisheries Act 1983; and
+    *   (a) immediately before the repeal of [section 28S][922] of the Fisheries Act 1983 by [section 314][606] of this Act owned or held quota in excess of any minimum holding specified in section 28S(1)(a) or section 28S(1)(b) of the Fisheries Act 1983; and
     
     *   (b) at the beginning of the fishing year in which this section comes into force is allocated, or has transferred to them under [section 347][643] or [section 347A][644], less annual catch entitlement for a stock listed in [Schedule 8][706] than is specified in [section 74(1)][131],---
     
-    is subject to [section 74][131] as if the amount of quota owned or held by that person immediately prior to the repeal of [section 28S][921] of the Fisheries Act 1983 had been allocated to that person under this Act.
+    is subject to [section 74][131] as if the amount of quota owned or held by that person immediately prior to the repeal of [section 28S][922] of the Fisheries Act 1983 had been allocated to that person under this Act.
     
     (3) Where a lease was the basis for a person's allocation of annual catch entitlement for any stock referred to in subsection (2)(b), whether in whole or in part, subsection (2) ceases to apply in respect of that person and that stock when the lease expires or otherwise ends.
     
     (4) This section is subject to [section 340AA][635].
     
-    Section 357(2): added, on 1 October 2001, by [section 31][1416] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 357(2): added, on 1 October 2001, by [section 31][1417] of the Fisheries Amendment Act 2001 (2001 No 65).
     
-    Section 357(3): added, on 1 October 2001, by [section 31][1416] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 357(3): added, on 1 October 2001, by [section 31][1417] of the Fisheries Amendment Act 2001 (2001 No 65).
     
-    Section 357(4): added, on 1 October 2001, by [section 31][1416] of the Fisheries Amendment Act 2001 (2001 No 65).
+    Section 357(4): added, on 1 October 2001, by [section 31][1417] of the Fisheries Amendment Act 2001 (2001 No 65).
 
 ##### 358 Provisions relating to permissions granted to overseas quota owners under section 28Z of Fisheries Act 1983
     
@@ -15064,43 +15068,43 @@ Repeals, amendments, validations, savings, and transitional provisions
     
 *   \[Repealed\]
     
-    Section 358A: repealed, on 1 October 2004, by [section 60][1399] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 358A: repealed, on 1 October 2004, by [section 60][1400] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 359 Provision relating to aggregation limit consents granted under section 28W of Fisheries Act 1983
     
-*   Every consent granted under [section 28W(3)][895] of the Fisheries Act 1983 and in force immediately before the date of the repeal of that section shall have effect, to the extent necessary, on and from that date as if it were a consent granted under [section 60(1)][112].
+*   Every consent granted under [section 28W(3)][896] of the Fisheries Act 1983 and in force immediately before the date of the repeal of that section shall have effect, to the extent necessary, on and from that date as if it were a consent granted under [section 60(1)][112].
 
 ##### 360 Provisions relating to taiapure-local fisheries
     
-*   (1) Every taiapure-local fishery established under [Part 3A][1417] of the Fisheries Act 1983 and in force immediately before the commencement of [Part 9][313] of this Act shall be deemed to have been established under Part 9\.
+*   (1) Every taiapure-local fishery established under [Part 3A][1418] of the Fisheries Act 1983 and in force immediately before the commencement of [Part 9][313] of this Act shall be deemed to have been established under Part 9\.
     
-    (2) Every proposal for, notice of, or inquiry into, any taiapure-local fishery that was commenced under [Part 3A][1417] of the Fisheries Act 1983, and was pending or in progress immediately before the commencement of [Part 9][313] of this Act, shall be deemed to have been commenced and to be pending or in progress, as the case may require, under Part 9\.
+    (2) Every proposal for, notice of, or inquiry into, any taiapure-local fishery that was commenced under [Part 3A][1418] of the Fisheries Act 1983, and was pending or in progress immediately before the commencement of [Part 9][313] of this Act, shall be deemed to have been commenced and to be pending or in progress, as the case may require, under Part 9\.
 
 ##### 361 Transitional offences and penalties
     
 *   \[Repealed\]
     
-    Section 361: repealed, on 1 October 2004, by [section 60][1399] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 361: repealed, on 1 October 2004, by [section 60][1400] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 362 Allocation of quota for bait
     
 *   \[Repealed\]
     
-    Section 362: repealed, on 1 October 2004, by [section 60][1399] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 362: repealed, on 1 October 2004, by [section 60][1400] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 363 Allocation of quota
     
-*   (1) Subject to this Act, [sections 30][52], [31][53], [32][55], [33][58], [34][59], [35][60], [36][62], [37][63], [39][66], [40][67], [41][68], [44][72], [45][73], [46][74], [47][75], [48][76], [49][77], [50A to 50G][81], [51][89], [52][90], [53][91], [54][92], and [55][93] and [sections 283 to 296][521] shall apply to the allocation of quota declared by notice in the _Gazette_ under [section 28B][812] of the Fisheries Act 1983 to be subject to the quota management system under [Part 2A][741] of that Act on and from a date specified in the notice, being a date on or after 1 October 1996\.
+*   (1) Subject to this Act, [sections 30][52], [31][53], [32][55], [33][58], [34][59], [35][60], [36][62], [37][63], [39][66], [40][67], [41][68], [44][72], [45][73], [46][74], [47][75], [48][76], [49][77], [50A to 50G][81], [51][89], [52][90], [53][91], [54][92], and [55][93] and [sections 283 to 296][521] shall apply to the allocation of quota declared by notice in the _Gazette_ under [section 28B][813] of the Fisheries Act 1983 to be subject to the quota management system under [Part 2A][741] of that Act on and from a date specified in the notice, being a date on or after 1 October 1996\.
     
     (2) For the purposes of this section,---
         
-    *   (a) any reference in the sections referred to in subsection (1) to a notice made under [section 18][32] shall be read as a reference to the notice under [section 28B][812] of the Fisheries Act 1983:
+    *   (a) any reference in the sections referred to in subsection (1) to a notice made under [section 18][32] shall be read as a reference to the notice under [section 28B][813] of the Fisheries Act 1983:
     
     *   (b) \[Repealed\]
     
     *   (c) any reference in the sections referred to in subsection (1) to quota shares shall be read as referring to individual transferable quota, provisional individual transferable quota, or both, as the case may be:
     
-    *   (d) any reference in the sections referred to in subsection (1) to the Registrar of Quota shall be read as a reference to the chief executive, and every reference to the Register of Quota shall be read as a reference to the registers maintained under [section 28P][1408] of the Fisheries Act 1983, in each case until [Part 8][246] comes into force:
+    *   (d) any reference in the sections referred to in subsection (1) to the Registrar of Quota shall be read as a reference to the chief executive, and every reference to the Register of Quota shall be read as a reference to the registers maintained under [section 28P][1409] of the Fisheries Act 1983, in each case until [Part 8][246] comes into force:
     
     *   (e) the references in [sections 35(6)][60] and [39(2)][66] to the quota weight equivalent of 80 000 000 shares shall be read as references to 80% of the total allowable commercial catch:
     
@@ -15108,7 +15112,7 @@ Repeals, amendments, validations, savings, and transitional provisions
     
     *   (fa) the reference in [section 44(3)(a)][72] to 80 000 000 quota shares must be read as a reference to an amount of quota equivalent to 80% of the total allowable commercial catch:
     
-    *   (g) the reference in [section 46][74] to levies payable under [Part 14][494] or to deemed value amounts shall be read as references to levies payable under the [Fisheries Act 1983][738] and to deemed values demanded under [section 28ZD][1418] of the Fisheries Act 1983, respectively, until the commencement of Part 14 or [Part 4][26], as the case may be:
+    *   (g) the reference in [section 46][74] to levies payable under [Part 14][494] or to deemed value amounts shall be read as references to levies payable under the [Fisheries Act 1983][738] and to deemed values demanded under [section 28ZD][1419] of the Fisheries Act 1983, respectively, until the commencement of Part 14 or [Part 4][26], as the case may be:
     
     *   (h) [section 47(1)(a)][75] shall be read as if the words ""the number of shares the quota weight equivalent of"" were omitted, and there were substituted the words ""an amount of individual transferable quota"":
     
@@ -15134,9 +15138,9 @@ Repeals, amendments, validations, savings, and transitional provisions
     
     *   (s) the reference in paragraph (a) of the definition of encumbered in [section 2(1)][4]---
             
-        *   (i) to forfeiture under this Act must be read as if it were a reference to forfeiture under [section 107B][1406] of the Fisheries Act 1983:
+        *   (i) to forfeiture under this Act must be read as if it were a reference to forfeiture under [section 107B][1407] of the Fisheries Act 1983:
         
-        *   (ii) to the period of 35 working days referred to in [section 62(3)][114] or [section 256(3)][484] must be read as a reference to the 30-day period referred to in [section 107C][910] of the Fisheries Act 1983\.
+        *   (ii) to the period of 35 working days referred to in [section 62(3)][114] or [section 256(3)][484] must be read as a reference to the 30-day period referred to in [section 107C][911] of the Fisheries Act 1983\.
         
         
     
@@ -15148,49 +15152,49 @@ Repeals, amendments, validations, savings, and transitional provisions
     
     *   (b) allocate the quota weight equivalent of the percentage calculated under paragraph (a) based on the total allowable commercial catch notified for that stock at the close of the last day of the fishing year in which [section 52][90] applies.
     
-    Section 363(1): amended, on 1 October 2004, by [section 58][1419] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 363(1): amended, on 1 October 2004, by [section 58][1420] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
     
-    Section 363(1): amended, on 1 July 2000, by [section 14(1)][1420] of the Fisheries Amendment Act 2000 (2000 No 20).
+    Section 363(1): amended, on 1 July 2000, by [section 14(1)][1421] of the Fisheries Amendment Act 2000 (2000 No 20).
     
-    Section 363(2)(b): repealed, on 1 October 1999, by [section 31(3)][1421] of the Fisheries Amendment Act 2000 (2000 No 20).
+    Section 363(2)(b): repealed, on 1 October 1999, by [section 31(3)][1422] of the Fisheries Amendment Act 2000 (2000 No 20).
     
-    Section 363(2)(fa): inserted, on 1 July 2000, by [section 14(2)][1420] of the Fisheries Amendment Act 2000 (2000 No 20).
+    Section 363(2)(fa): inserted, on 1 July 2000, by [section 14(2)][1421] of the Fisheries Amendment Act 2000 (2000 No 20).
     
-    Section 363(2)(j): added, on 1 July 2000, by [section 14(3)][1420] of the Fisheries Amendment Act 2000 (2000 No 20).
+    Section 363(2)(j): added, on 1 July 2000, by [section 14(3)][1421] of the Fisheries Amendment Act 2000 (2000 No 20).
     
-    Section 363(2)(k): added, on 1 July 2000, by [section 14(3)][1420] of the Fisheries Amendment Act 2000 (2000 No 20).
+    Section 363(2)(k): added, on 1 July 2000, by [section 14(3)][1421] of the Fisheries Amendment Act 2000 (2000 No 20).
     
-    Section 363(2)(l): added, on 1 July 2000, by [section 14(3)][1420] of the Fisheries Amendment Act 2000 (2000 No 20).
+    Section 363(2)(l): added, on 1 July 2000, by [section 14(3)][1421] of the Fisheries Amendment Act 2000 (2000 No 20).
     
-    Section 363(2)(m): added, on 1 July 2000, by [section 14(3)][1420] of the Fisheries Amendment Act 2000 (2000 No 20).
+    Section 363(2)(m): added, on 1 July 2000, by [section 14(3)][1421] of the Fisheries Amendment Act 2000 (2000 No 20).
     
-    Section 363(2)(n): added, on 1 July 2000, by [section 14(3)][1420] of the Fisheries Amendment Act 2000 (2000 No 20).
+    Section 363(2)(n): added, on 1 July 2000, by [section 14(3)][1421] of the Fisheries Amendment Act 2000 (2000 No 20).
     
-    Section 363(2)(o): added, on 1 July 2000, by [section 14(3)][1420] of the Fisheries Amendment Act 2000 (2000 No 20).
+    Section 363(2)(o): added, on 1 July 2000, by [section 14(3)][1421] of the Fisheries Amendment Act 2000 (2000 No 20).
     
-    Section 363(2)(p): added, on 1 July 2000, by [section 14(3)][1420] of the Fisheries Amendment Act 2000 (2000 No 20).
+    Section 363(2)(p): added, on 1 July 2000, by [section 14(3)][1421] of the Fisheries Amendment Act 2000 (2000 No 20).
     
-    Section 363(2)(q): added, on 1 July 2000, by [section 14(3)][1420] of the Fisheries Amendment Act 2000 (2000 No 20).
+    Section 363(2)(q): added, on 1 July 2000, by [section 14(3)][1421] of the Fisheries Amendment Act 2000 (2000 No 20).
     
-    Section 363(2)(r): added, on 1 July 2000, by [section 14(3)][1420] of the Fisheries Amendment Act 2000 (2000 No 20).
+    Section 363(2)(r): added, on 1 July 2000, by [section 14(3)][1421] of the Fisheries Amendment Act 2000 (2000 No 20).
     
-    Section 363(2)(s): added, on 1 July 2000, by [section 14(3)][1420] of the Fisheries Amendment Act 2000 (2000 No 20).
+    Section 363(2)(s): added, on 1 July 2000, by [section 14(3)][1421] of the Fisheries Amendment Act 2000 (2000 No 20).
     
-    Section 363(4): added, on 29 September 2000, by [section 32][1422] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 363(4): added, on 29 September 2000, by [section 32][1423] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 ##### 364 Further provisions relating to allocation of quota
     
 *   (1) Any provisional individual transferable quota allocated under this Act while [Part 2A][741] of the Fisheries Act 1983 is in force has all the characteristics of, and is to be treated for all purposes of that Act as if it were, individual transferable quota except that it is not transferable.
     
-    (2) The provisions of [sections 28S][921], [28W][895], and [28Z][1423] of the Fisheries Act 1983 shall apply to quota allocated under [section 47][75] of this Act in accordance with [section 363][661] of this Act as if it were quota allocated under [section 28O][852] of the Fisheries Act 1983\.
+    (2) The provisions of [sections 28S][922], [28W][896], and [28Z][1424] of the Fisheries Act 1983 shall apply to quota allocated under [section 47][75] of this Act in accordance with [section 363][661] of this Act as if it were quota allocated under [section 28O][853] of the Fisheries Act 1983\.
     
-    (2A) On and from 30 September 1999, the provisions of [sections 28S][921] and [28W][895] of the Fisheries Act 1983 apply to quota variations made in accordance with [sections 52][90] and [53][91] of this Act as if those variations were variations to which [sections 28OD][819] and [28OE][821] of the Fisheries Act 1983 related.
+    (2A) On and from 30 September 1999, the provisions of [sections 28S][922] and [28W][896] of the Fisheries Act 1983 apply to quota variations made in accordance with [sections 52][90] and [53][91] of this Act as if those variations were variations to which [sections 28OD][820] and [28OE][822] of the Fisheries Act 1983 related.
     
-    (3) [Section 28V][1424] of the Fisheries Act 1983 shall not apply to any quota allocated under [section 47][75] of this Act in accordance with [section 363][661].
+    (3) [Section 28V][1425] of the Fisheries Act 1983 shall not apply to any quota allocated under [section 47][75] of this Act in accordance with [section 363][661].
     
-    (3A) Despite subsection (3), [section 28V][1424] of the Fisheries Act 1983 applies to any stock that becomes subject to the quota management system after the commencement of this subsection.
+    (3A) Despite subsection (3), [section 28V][1425] of the Fisheries Act 1983 applies to any stock that becomes subject to the quota management system after the commencement of this subsection.
     
-    (4) The reference to ""fishery management area"" in [section 28B(3)][812] of the Fisheries Act 1983 shall be read as a reference to a fishery management area set out in [Schedule 1][694].
+    (4) The reference to ""fishery management area"" in [section 28B(3)][813] of the Fisheries Act 1983 shall be read as a reference to a fishery management area set out in [Schedule 1][694].
     
     (5) If the holder of any individual transferable quota that is subject to a reduction under [section 52][90] has leased that quota to any person,---
         
@@ -15200,53 +15204,53 @@ Repeals, amendments, validations, savings, and transitional provisions
     
     (6) If the holder of any quota that is reduced under [section 52][90] has entered into any lease or any other arrangement in relation to quota, and that lease or other arrangement provides that any other person is or may become entitled to acquire any amount of quota outright, the amount of quota to which that entitlement relates is reduced proportionately to the reduction in the quota of the holder of the quota.
     
-    (7) The provisions of [section 28OD(6), (7), and (8)][819] of the Fisheries Act 1983 apply as if the quota reduction referred to in subsections (5) and (6) were a reduction of a total allowable commercial catch under [section 28OB][797] or [section 28OC][1425] of that Act.
+    (7) The provisions of [section 28OD(6), (7), and (8)][820] of the Fisheries Act 1983 apply as if the quota reduction referred to in subsections (5) and (6) were a reduction of a total allowable commercial catch under [section 28OB][798] or [section 28OC][1426] of that Act.
     
-    Section 364(2A): inserted, on 29 September 2000, by [section 33][1426] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+    Section 364(2A): inserted, on 29 September 2000, by [section 33][1427] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
     
-    Section 364(3A): inserted, on 9 September 1999, by [section 80][1427] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 364(3A): inserted, on 9 September 1999, by [section 80][1428] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
     
-    Section 364(5): added, on 1 July 2000, by [section 15][1428] of the Fisheries Amendment Act 2000 (2000 No 20).
+    Section 364(5): added, on 1 July 2000, by [section 15][1429] of the Fisheries Amendment Act 2000 (2000 No 20).
     
-    Section 364(6): added, on 1 July 2000, by [section 15][1428] of the Fisheries Amendment Act 2000 (2000 No 20).
+    Section 364(6): added, on 1 July 2000, by [section 15][1429] of the Fisheries Amendment Act 2000 (2000 No 20).
     
-    Section 364(7): added, on 1 July 2000, by [section 15][1428] of the Fisheries Amendment Act 2000 (2000 No 20).
+    Section 364(7): added, on 1 July 2000, by [section 15][1429] of the Fisheries Amendment Act 2000 (2000 No 20).
 
 ##### 365 Cost recovery
     
 *   \[Repealed\]
     
-    Section 365: repealed, on 1 October 2004, by [section 60][1399] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 365: repealed, on 1 October 2004, by [section 60][1400] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 366 Southern scallop enhancement programme
     
-*   (1) Any enhancement programme determined by the Minister and having effect under [section 28ZZE][1429] of the Fisheries Act 1983 immediately before the commencement of this section shall be deemed to be an enhancement programme approved by the Minister for the purposes of [section 310][600], but section 28ZZE shall continue to apply to that enhancement programme.
+*   (1) Any enhancement programme determined by the Minister and having effect under [section 28ZZE][1430] of the Fisheries Act 1983 immediately before the commencement of this section shall be deemed to be an enhancement programme approved by the Minister for the purposes of [section 310][600], but section 28ZZE shall continue to apply to that enhancement programme.
     
     (2) The enhancement programme referred to in subsection (1) may hereafter be varied in accordance with [section 310][600].
     
-    Section 366(1): amended, on 23 June 1998, by [section 31][1430] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+    Section 366(1): amended, on 23 June 1998, by [section 31][1431] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
 
 ##### 367 Allocation of jack mackerel quota
     
-*   (1) Each person named in the first column of [Part 1][1431] of Schedule 9 is hereby allocated the amount of individual transferable quota for jack mackerel stated in the third column of that schedule opposite that person's name.
+*   (1) Each person named in the first column of [Part 1][1432] of Schedule 9 is hereby allocated the amount of individual transferable quota for jack mackerel stated in the third column of that schedule opposite that person's name.
     
-    (2) Each person named in the first column of [Part 2][1432] of Schedule 9 is hereby allocated the amount of individual transferable quota for jack mackerel stated in the third column of that schedule opposite that person's name.
+    (2) Each person named in the first column of [Part 2][1433] of Schedule 9 is hereby allocated the amount of individual transferable quota for jack mackerel stated in the third column of that schedule opposite that person's name.
     
-    (3) The allocations referred to in subsection (1) relate to a quota management area comprising the areas described as fishery management areas 1 and 2 in [Part 1][1433] of Schedule 1\.
+    (3) The allocations referred to in subsection (1) relate to a quota management area comprising the areas described as fishery management areas 1 and 2 in [Part 1][1434] of Schedule 1\.
     
-    (4) The allocations referred to in subsection (2) relate to a quota management area comprising the areas described as fishery management areas 3, 4, 5, and 6 in [Part 1][1433] of Schedule 1\.
+    (4) The allocations referred to in subsection (2) relate to a quota management area comprising the areas described as fishery management areas 3, 4, 5, and 6 in [Part 1][1434] of Schedule 1\.
     
-    (5) Notwithstanding the [Fisheries (Jack Mackerel Quota Management Areas, Total Allowable Catches, and Catch Histories) Notice (No 2) 1987][1434] or any entitlement that, immediately before the commencement of this section, existed in respect of jack mackerel quota to which that notice related, no person is entitled to be allocated individual transferable quota for jack mackerel quota in any quota management area referred to in subsection (3) or subsection (4) unless the allocation is authorised by this section.
+    (5) Notwithstanding the [Fisheries (Jack Mackerel Quota Management Areas, Total Allowable Catches, and Catch Histories) Notice (No 2) 1987][1435] or any entitlement that, immediately before the commencement of this section, existed in respect of jack mackerel quota to which that notice related, no person is entitled to be allocated individual transferable quota for jack mackerel quota in any quota management area referred to in subsection (3) or subsection (4) unless the allocation is authorised by this section.
 
 ##### 368 Allocation of Nelson-Marlborough dredge oyster quota
     
 *   (1) On the commencement of this section, Nelson-Marlborough dredge oysters shall become subject to the quota management system under [Part 2A][741] of the Fisheries Act 1983\.
     
-    (2) Each person named in the first column of [Part 3][1435] of Schedule 9 is hereby allocated the amount of individual transferable quota for dredge oysters stated in the third column of that schedule opposite that person's name.
+    (2) Each person named in the first column of [Part 3][1436] of Schedule 9 is hereby allocated the amount of individual transferable quota for dredge oysters stated in the third column of that schedule opposite that person's name.
     
     (3) The initial total allowable commercial catch for Nelson-Marlborough dredge oysters shall be 505 tonnes.
     
-    (4) For the avoidance of doubt, the initial total allowable commercial catch referred to in subsection (3) may be altered from time to time under [section 20][34] of this Act or [section 28OB][797] of the Fisheries Act 1983\.
+    (4) For the avoidance of doubt, the initial total allowable commercial catch referred to in subsection (3) may be altered from time to time under [section 20][34] of this Act or [section 28OB][798] of the Fisheries Act 1983\.
     
     (5) No person shall take any Nelson-Marlborough dredge oysters for the purpose of sale except during the Nelson-Marlborough dredge oyster season.
     
@@ -15262,7 +15266,7 @@ Repeals, amendments, validations, savings, and transitional provisions
     
 *   (1) On 1 April 1998, Foveaux Strait dredge oysters become subject to the quota management system under [Part 2A][741] of the Fisheries Act 1983\.
     
-    (2) Each person named in the first column of [Part 5][1436] of Schedule 9 is allocated the amount of individual transferable quota for dredge oysters stated in the third column of that schedule opposite that person's name.
+    (2) Each person named in the first column of [Part 5][1437] of Schedule 9 is allocated the amount of individual transferable quota for dredge oysters stated in the third column of that schedule opposite that person's name.
     
     (3) The initial total allowable catch for the Foveaux Strait dredge oyster fishery is 26 000 000 oysters.
     
@@ -15274,7 +15278,7 @@ Repeals, amendments, validations, savings, and transitional provisions
     
     *   (b) extend or shorten any Foveaux Strait dredge oyster season while it is current.
     
-    (6) Notwithstanding anything in [section 13][19] or [section 20][34] of this Act or [section 28OB][797] of the Fisheries Act 1983,---
+    (6) Notwithstanding anything in [section 13][19] or [section 20][34] of this Act or [section 28OB][798] of the Fisheries Act 1983,---
         
     *   (a) the Minister may, at any time after the commencement of a fishing year but before the commencement of the Foveaux Strait dredge oyster season in that year, increase the total allowable catch or the total allowable commercial catch (or both) for Foveaux Strait dredge oysters; and
     
@@ -15296,27 +15300,27 @@ Repeals, amendments, validations, savings, and transitional provisions
     
     *   (b) the references to greenweight or meatweight in [section 305(a)(iii)][590] must be read as references to oyster numbers.
     
-    (11) Notwithstanding anything in this Act or in any regulations made under this Act or under the [Fisheries Act 1983][738], where any such regulations or any records, returns, or other documents prescribed by or referred to in such regulations contain a weight-related reference or requirement the chief executive may, by notice in the _Gazette_ or by individual written notice to any affected fisher or other person affected, specify that any such reference or requirement is to be treated in any specified situation or for any specified purpose (and requiring the application, if appropriate, of any conversion factor specified under [section 188(5)][386] of this Act or [section 3A(6)][892] of the Fisheries Act 1983) as a reference to oyster numbers in the case of matters affecting the Foveaux Strait dredge oyster fishery, and the regulations, records, returns, or other documents are to have effect accordingly.
+    (11) Notwithstanding anything in this Act or in any regulations made under this Act or under the [Fisheries Act 1983][738], where any such regulations or any records, returns, or other documents prescribed by or referred to in such regulations contain a weight-related reference or requirement the chief executive may, by notice in the _Gazette_ or by individual written notice to any affected fisher or other person affected, specify that any such reference or requirement is to be treated in any specified situation or for any specified purpose (and requiring the application, if appropriate, of any conversion factor specified under [section 188(5)][386] of this Act or [section 3A(6)][893] of the Fisheries Act 1983) as a reference to oyster numbers in the case of matters affecting the Foveaux Strait dredge oyster fishery, and the regulations, records, returns, or other documents are to have effect accordingly.
     
     (12) In this section the term _Foveaux Strait dredge oyster season_ means a season fixed by the Minister under subsection (5).
     
-    Section 368A: inserted, on 1 April 1998, by [section 10][1437] of the Fisheries (Fouveaux Strait Dredge Oyster Fishery) Amendment Act 1998 (1998 No 6).
+    Section 368A: inserted, on 1 April 1998, by [section 10][1438] of the Fisheries (Fouveaux Strait Dredge Oyster Fishery) Amendment Act 1998 (1998 No 6).
     
-    Section 368A(6)(a): amended, on 26 May 2001, by [section 40(1)][1438] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 368A(6)(a): amended, on 26 May 2001, by [section 40(1)][1439] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
     
-    Section 368A(6)(b): amended, on 26 May 2001, by [section 40(2)][1438] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
+    Section 368A(6)(b): amended, on 26 May 2001, by [section 40(2)][1439] of the Fisheries (Remedial Issues) Amendment Act 2001 (2001 No 33).
     
-    Section 368A(10): substituted, on 9 September 1999, by [section 82][1439] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 368A(10): substituted, on 9 September 1999, by [section 82][1440] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 369 Allocation of Northland scallop quota
     
 *   (1) On the commencement of this section, Northland scallops shall become subject to the quota management system under [Part 2A][741] of the Fisheries Act 1983\.
     
-    (2) Each person named in the first column of [Part 4][1440] of Schedule 9 is hereby allocated the amount of individual transferable quota for Northland scallops stated in the third column of that schedule opposite that person's name.
+    (2) Each person named in the first column of [Part 4][1441] of Schedule 9 is hereby allocated the amount of individual transferable quota for Northland scallops stated in the third column of that schedule opposite that person's name.
     
     (3) The initial total allowable commercial catch for Northland scallops shall be 188.561 tonnes.
     
-    (4) For the avoidance of doubt, the initial total allowable commercial catch referred to in subsection (3) may be altered from time to time under [section 20][34] of this Act or [section 28OB][797] of the Fisheries Act 1983\.
+    (4) For the avoidance of doubt, the initial total allowable commercial catch referred to in subsection (3) may be altered from time to time under [section 20][34] of this Act or [section 28OB][798] of the Fisheries Act 1983\.
     
     (5) No person shall take any Northland scallops for the purpose of sale except during the Northland scallop fishery season.
     
@@ -15328,43 +15332,43 @@ Repeals, amendments, validations, savings, and transitional provisions
     
     (7) Every person commits an offence and is liable to the penalty specified in [section 252(5)][475] who contravenes subsection (5) of this section.
     
-    Section 369(7): added, on 23 June 1998, by [section 32][1441] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+    Section 369(7): added, on 23 June 1998, by [section 32][1442] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
 
 ##### 369A Pale ghost shark subject to quota management system
     
 *   (1) On 1 October 1999, pale ghost shark becomes subject to the quota management system under [Part 2A][741] of the Fisheries Act 1983\.
     
-    (2) Each person named in column 1 of [Part 6][1442] of Schedule 9 is allocated the amount of individual transferable quota for pale ghost shark set out in column 3 of that schedule opposite that person's name, and those allocations apply to pale ghost shark in quota management area GSP1 (which comprises the areas described as Fishery Management Areas 1, 2, 3, 4, and 10 in [Part 1][1433] of Schedule 1).
+    (2) Each person named in column 1 of [Part 6][1443] of Schedule 9 is allocated the amount of individual transferable quota for pale ghost shark set out in column 3 of that schedule opposite that person's name, and those allocations apply to pale ghost shark in quota management area GSP1 (which comprises the areas described as Fishery Management Areas 1, 2, 3, 4, and 10 in [Part 1][1434] of Schedule 1).
     
-    (3) Each person named in column 1 of [Part 7][1443] of Schedule 9 is allocated the amount of individual transferable quota for pale ghost shark set out in column 3 of that schedule opposite that person's name, and those allocations apply to pale ghost shark in quota management area GSP5 (which comprises the areas described as fishery management areas 5 and 6 in [Part 1][1433] of Schedule 1).
+    (3) Each person named in column 1 of [Part 7][1444] of Schedule 9 is allocated the amount of individual transferable quota for pale ghost shark set out in column 3 of that schedule opposite that person's name, and those allocations apply to pale ghost shark in quota management area GSP5 (which comprises the areas described as fishery management areas 5 and 6 in [Part 1][1434] of Schedule 1).
     
-    (4) Each person named in column 1 of [Part 8][1444] of Schedule 9 is allocated the amount of individual transferable quota for pale ghost shark set out in column 3 of that schedule opposite that person's name, and those allocations apply to pale ghost shark in quota management area GSP7 (which comprises the areas described as fishery management areas 7, 8, and 9 in [Part 1][1433] of Schedule 1).
+    (4) Each person named in column 1 of [Part 8][1445] of Schedule 9 is allocated the amount of individual transferable quota for pale ghost shark set out in column 3 of that schedule opposite that person's name, and those allocations apply to pale ghost shark in quota management area GSP7 (which comprises the areas described as fishery management areas 7, 8, and 9 in [Part 1][1434] of Schedule 1).
     
     (5) Despite any other enactment, no person is entitled to be allocated individual transferable quota for pale ghost shark unless the allocation is authorised by this section.
     
-    Section 369A: inserted, on 9 September 1999, by [section 83][1445] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 369A: inserted, on 9 September 1999, by [section 83][1446] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 369B Southern blue whiting subject to quota management system
     
 *   (1) On 1 November 1999, southern blue whiting in fishery management area 6 becomes subject to the quota management system under [Part 2A][741] of the Fisheries Act 1983\.
     
-    (2) _Amendment(s) incorporated in the [regulation(s)][1446]._
+    (2) _Amendment(s) incorporated in the [regulation(s)][1447]._
     
-    Section 369B: inserted, on 9 September 1999, by [section 83][1445] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 369B: inserted, on 9 September 1999, by [section 83][1446] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 369C Allocation of quota for southern blue whiting in quota management areas SBW6A, SBW6B, SBW6I, and SBW6R
     
-*   (1) Each person named in column 1 of [Part 9][1447] of Schedule 9 is allocated the amount of individual transferable quota for southern blue whiting set out in column 3 of that schedule opposite that person's name, and those allocations apply to southern blue whiting in quota management area SBW6A.
+*   (1) Each person named in column 1 of [Part 9][1448] of Schedule 9 is allocated the amount of individual transferable quota for southern blue whiting set out in column 3 of that schedule opposite that person's name, and those allocations apply to southern blue whiting in quota management area SBW6A.
     
-    (2) Each person named in column 1 of [Part 10][1448] of Schedule 9 is allocated the amount of individual transferable quota for southern blue whiting set out in column 3 of that schedule opposite that person's name, and those allocations apply to southern blue whiting in quota management area SBW6B.
+    (2) Each person named in column 1 of [Part 10][1449] of Schedule 9 is allocated the amount of individual transferable quota for southern blue whiting set out in column 3 of that schedule opposite that person's name, and those allocations apply to southern blue whiting in quota management area SBW6B.
     
-    (3) Each person named in column 1 of [Part 11][1449] of Schedule 9 is allocated the amount of individual transferable quota for southern blue whiting set out in column 3 of that schedule opposite that person's name, and those allocations apply to southern blue whiting in quota management area SBW6I.
+    (3) Each person named in column 1 of [Part 11][1450] of Schedule 9 is allocated the amount of individual transferable quota for southern blue whiting set out in column 3 of that schedule opposite that person's name, and those allocations apply to southern blue whiting in quota management area SBW6I.
     
-    (4) Each person named in column 1 of [Part 12][1450] of Schedule 9 is allocated the amount of individual transferable quota for southern blue whiting set out in column 3 of that schedule opposite that person's name, and those allocations apply to southern blue whiting in quota management area SBW6R.
+    (4) Each person named in column 1 of [Part 12][1451] of Schedule 9 is allocated the amount of individual transferable quota for southern blue whiting set out in column 3 of that schedule opposite that person's name, and those allocations apply to southern blue whiting in quota management area SBW6R.
     
     (5) Despite any other enactment, no person is entitled to be allocated individual transferable quota for southern blue whiting in any of quota management areas SBW6A, SBW6B, SBW6I, and SBW6R unless the allocation is authorised by this section.
     
-    Section 369C: inserted, on 9 September 1999, by [section 83][1445] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 369C: inserted, on 9 September 1999, by [section 83][1446] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 369D Allocation of quota for southern blue whiting in quota management area SBW1
     
@@ -15374,17 +15378,17 @@ Repeals, amendments, validations, savings, and transitional provisions
     
     (3) Subsection (2) is for the avoidance of doubt.
     
-    Section 369D: inserted, on 9 September 1999, by [section 83][1445] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 369D: inserted, on 9 September 1999, by [section 83][1446] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 369E Southern blue whiting taken from 1 April 1999 to 31 October 1999
     
 *   If a commercial fisher has quota allocated to the fisher under [section 369C][671], any southern blue whiting taken by the commercial fisher in any of quota management areas SBW6A, SBW6B, SBW6I, and SBW6R, during the period commencing on 1 April 1999 and ending with the close of 31 October 1999, is deemed to have been taken under the quota for the quota management area in which it was taken for the purposes of---
         
-    *   (a) [sections 28ZA][929], [28ZD][1418], and [28ZF][1409] of the Fisheries Act 1983; and
+    *   (a) [sections 28ZA][930], [28ZD][1419], and [28ZF][1410] of the Fisheries Act 1983; and
     
     *   (b) the Fisheries (Catch Against Quota) Regulations 1993\.
     
-    Section 369E: inserted, on 9 September 1999, by [section 83][1445] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 369E: inserted, on 9 September 1999, by [section 83][1446] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 369F Initial total allowable commercial catch and total allowable catch for southern blue whiting in quota management areas SBW6A, SBW6B, SBW6I, and SBW6R
     
@@ -15398,11 +15402,11 @@ Repeals, amendments, validations, savings, and transitional provisions
     
     (5) The following provisions are for the avoidance of doubt:
         
-    *   (a) any initial total allowable commercial catch referred to in this section may be altered from time to time under [section 20][34] of this Act or [section 28OB][797] of the Fisheries Act 1983:
+    *   (a) any initial total allowable commercial catch referred to in this section may be altered from time to time under [section 20][34] of this Act or [section 28OB][798] of the Fisheries Act 1983:
     
     *   (b) any initial total allowable catch referred to in this section may be altered from time to time under [section 13][19].
     
-    Section 369F: inserted, on 9 September 1999, by [section 83][1445] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+    Section 369F: inserted, on 9 September 1999, by [section 83][1446] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ##### 369G Transitional provision relating to Chatham Islands fishers
     
@@ -15414,21 +15418,21 @@ Repeals, amendments, validations, savings, and transitional provisions
     
 *   \[Repealed\]
     
-    Section 369H: repealed, on 1 October 2004, by [section 60][1399] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 369H: repealed, on 1 October 2004, by [section 60][1400] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 369I South Island freshwater eel subject to quota management system
     
 *   (1) On 1 October 2000, freshwater eel in quota management areas ANG11 to ANG16 becomes subject to the quota management system under [Part 2A][741] of the Fisheries Act 1983\.
     
-    (2) Quota for freshwater eel in those quota management areas must be allocated in accordance with [Part 2][1451] of the Fisheries Amendment Act 2000\.
+    (2) Quota for freshwater eel in those quota management areas must be allocated in accordance with [Part 2][1452] of the Fisheries Amendment Act 2000\.
     
-    (3) Subject to [Part 2][1451] of the Fisheries Amendment Act 2000, [Part 4][26] of this Act (except [sections 30 to 55][52]) applies to freshwater eel in those quota management areas as if that stock were declared to be subject to the quota management system by notice in the _Gazette_ under [section 18][32].
+    (3) Subject to [Part 2][1452] of the Fisheries Amendment Act 2000, [Part 4][26] of this Act (except [sections 30 to 55][52]) applies to freshwater eel in those quota management areas as if that stock were declared to be subject to the quota management system by notice in the _Gazette_ under [section 18][32].
     
     (4) The fishing year for freshwater eel in those quota management areas is the year commencing on 1 October and ending with 30 September.
     
     (5) The total allowable commercial catch and annual catch entitlements for freshwater eel in those quota management areas are to be expressed in greenweight.
     
-    Section 369I: inserted, on 1 July 2000, by [section 16][1452] of the Fisheries Amendment Act 2000 (2000 No 20).
+    Section 369I: inserted, on 1 July 2000, by [section 16][1453] of the Fisheries Amendment Act 2000 (2000 No 20).
 
 ##### 369J Transitional provision relating to increase of total allowable catch for freshwater eel
     
@@ -15440,7 +15444,7 @@ Repeals, amendments, validations, savings, and transitional provisions
     
 *   \[Repealed\]
     
-    Section 369K: repealed, on 1 October 2004, by [section 60][1399] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 369K: repealed, on 1 October 2004, by [section 60][1400] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 369L Change to fishing year for ANG13
     
@@ -15454,7 +15458,7 @@ Repeals, amendments, validations, savings, and transitional provisions
     
     (3) \[Expired\]
     
-    Section 369L: inserted, on 1 July 2000, by [section 16][1452] of the Fisheries Amendment Act 2000 (2000 No 20).
+    Section 369L: inserted, on 1 July 2000, by [section 16][1453] of the Fisheries Amendment Act 2000 (2000 No 20).
     
     Section 369L(3): expired, on 1 February 2007, by [section 369M][681].
 
@@ -15462,11 +15466,11 @@ Repeals, amendments, validations, savings, and transitional provisions
     
 *   [Section 369L(3)][680] expires with the close of 31 January 2007\.
     
-    Section 369M: inserted, on 1 July 2000, by [section 16][1452] of the Fisheries Amendment Act 2000 (2000 No 20).
+    Section 369M: inserted, on 1 July 2000, by [section 16][1453] of the Fisheries Amendment Act 2000 (2000 No 20).
 
 #### Introduction of scampi into quota management system
     
-*   Heading: inserted, on 13 August 2004, by [section 5][1453] of the Fisheries Amendment Act (No 2) 2004 (2004 No 71).
+*   Heading: inserted, on 13 August 2004, by [section 5][1454] of the Fisheries Amendment Act (No 2) 2004 (2004 No 71).
 
 ##### 369N Scampi subject to quota management system
     
@@ -15482,29 +15486,29 @@ Repeals, amendments, validations, savings, and transitional provisions
     
     (4) The total allowable commercial catch and annual catch entitlement for scampi in the quota management areas referred to in subsection (1) are to be expressed in greenweight.
     
-    Section 369N: inserted, on 13 August 2004, by [section 5][1453] of the Fisheries Amendment Act (No 2) 2004 (2004 No 71).
+    Section 369N: inserted, on 13 August 2004, by [section 5][1454] of the Fisheries Amendment Act (No 2) 2004 (2004 No 71).
 
 ##### 369O Allocation of provisional catch history
     
-*   (1) Each person named in column 1 of [Part 1][1454] of Schedule 14 is allocated the amount of provisional catch history for scampi set out in column 3 of that part of that schedule opposite that person's name, and those allocations apply to scampi in quota management area SCI1\.
+*   (1) Each person named in column 1 of [Part 1][1455] of Schedule 14 is allocated the amount of provisional catch history for scampi set out in column 3 of that part of that schedule opposite that person's name, and those allocations apply to scampi in quota management area SCI1\.
     
-    (2) Each person named in column 1 of [Part 2][1455] of Schedule 14 is allocated the amount of provisional catch history for scampi set out in column 3 of that part of that schedule opposite that person's name, and those allocations apply to scampi in quota management area SCI2\.
+    (2) Each person named in column 1 of [Part 2][1456] of Schedule 14 is allocated the amount of provisional catch history for scampi set out in column 3 of that part of that schedule opposite that person's name, and those allocations apply to scampi in quota management area SCI2\.
     
-    (3) Each person named in column 1 of [Part 3][1456] of Schedule 14 is allocated the amount of provisional catch history for scampi set out in column 3 of that part of that schedule opposite that person's name, and those allocations apply to scampi in quota management area SCI3\.
+    (3) Each person named in column 1 of [Part 3][1457] of Schedule 14 is allocated the amount of provisional catch history for scampi set out in column 3 of that part of that schedule opposite that person's name, and those allocations apply to scampi in quota management area SCI3\.
     
-    (4) Each person named in column 1 of [Part 4][1457] of Schedule 14 is allocated the amount of provisional catch history for scampi set out in column 3 of that part of that schedule opposite that person's name, and those allocations apply to scampi in quota management area SCI4A.
+    (4) Each person named in column 1 of [Part 4][1458] of Schedule 14 is allocated the amount of provisional catch history for scampi set out in column 3 of that part of that schedule opposite that person's name, and those allocations apply to scampi in quota management area SCI4A.
     
-    (5) Each person named in column 1 of [Part 5][1458] of Schedule 14 is allocated the amount of provisional catch history for scampi set out in column 3 of that part of that schedule opposite that person's name, and those allocations apply to scampi in quota management area SCI5\.
+    (5) Each person named in column 1 of [Part 5][1459] of Schedule 14 is allocated the amount of provisional catch history for scampi set out in column 3 of that part of that schedule opposite that person's name, and those allocations apply to scampi in quota management area SCI5\.
     
-    (6) Each person named in column 1 of [Part 6][1459] of Schedule 14 is allocated the amount of provisional catch history for scampi set out in column 3 of that part of that schedule opposite that person's name, and those allocations apply to scampi in quota management area SCI6A.
+    (6) Each person named in column 1 of [Part 6][1460] of Schedule 14 is allocated the amount of provisional catch history for scampi set out in column 3 of that part of that schedule opposite that person's name, and those allocations apply to scampi in quota management area SCI6A.
     
-    (7) Each person named in column 1 of [Part 7][1460] of Schedule 14 is allocated the amount of provisional catch history for scampi set out in column 3 of that part of that schedule opposite that person's name, and those allocations apply to scampi in quota management area SCI9\.
+    (7) Each person named in column 1 of [Part 7][1461] of Schedule 14 is allocated the amount of provisional catch history for scampi set out in column 3 of that part of that schedule opposite that person's name, and those allocations apply to scampi in quota management area SCI9\.
     
-    Section 369O: inserted, on 13 August 2004, by [section 5][1453] of the Fisheries Amendment Act (No 2) 2004 (2004 No 71).
+    Section 369O: inserted, on 13 August 2004, by [section 5][1454] of the Fisheries Amendment Act (No 2) 2004 (2004 No 71).
 
 ##### 369P Notification of fishers allocated provisional catch history
     
-*   (1) As soon as practicable after the date on which the [Fisheries Amendment Act (No 2) 2004][1461] comes into force, the chief executive must notify every person named in [Schedule 14][714] of---
+*   (1) As soon as practicable after the date on which the [Fisheries Amendment Act (No 2) 2004][1462] comes into force, the chief executive must notify every person named in [Schedule 14][714] of---
         
     *   (a) the amount of provisional catch history allocated to the person under [section 369O][684] for each of the quota management areas SCI1, SCI2, SCI3, SCI4A, SCI5, SCI6A, and SCI9; and
     
@@ -15514,11 +15518,11 @@ Repeals, amendments, validations, savings, and transitional provisions
     
     (2) The date referred to in subsection (1)(c) and specified in the notification must be not less than 20 working days after the date of the notification.
     
-    Section 369P: inserted, on 13 August 2004, by [section 5][1453] of the Fisheries Amendment Act (No 2) 2004 (2004 No 71).
+    Section 369P: inserted, on 13 August 2004, by [section 5][1454] of the Fisheries Amendment Act (No 2) 2004 (2004 No 71).
 
 ##### 369Q Public notification of provisional catch history allocation
     
-*   (1) As soon as practicable after the date on which the [Fisheries Amendment Act (No 2) 2004][1461] comes into force, the chief executive must publicly notify---
+*   (1) As soon as practicable after the date on which the [Fisheries Amendment Act (No 2) 2004][1462] comes into force, the chief executive must publicly notify---
         
     *   (a) that provisional catch history for scampi has been allocated under [section 369O][684]; and
     
@@ -15534,7 +15538,7 @@ Repeals, amendments, validations, savings, and transitional provisions
     
     (2) The date referred to in subsection (1)(c) and specified in the notification must be not less than 20 working days after the date of the notification.
     
-    Section 369Q: inserted, on 13 August 2004, by [section 5][1453] of the Fisheries Amendment Act (No 2) 2004 (2004 No 71).
+    Section 369Q: inserted, on 13 August 2004, by [section 5][1454] of the Fisheries Amendment Act (No 2) 2004 (2004 No 71).
 
 ##### 369R Application of certain provisions to scampi
     
@@ -15568,11 +15572,11 @@ Repeals, amendments, validations, savings, and transitional provisions
     
     *   (b) _eligible return_ has the meaning given it by [section 32(2)][55].
     
-    Section 369R: inserted, on 13 August 2004, by [section 5][1453] of the Fisheries Amendment Act (No 2) 2004 (2004 No 71).
+    Section 369R: inserted, on 13 August 2004, by [section 5][1454] of the Fisheries Amendment Act (No 2) 2004 (2004 No 71).
 
 #### Introduction of green-lipped mussel in quota management area 9 into quota management system
     
-*   Heading: inserted, on 6 September 2004, by [section 59(1)][1462] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+*   Heading: inserted, on 6 September 2004, by [section 59(1)][1463] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 369S Green-lipped mussel in quota management area 9 subject to quota management system
     
@@ -15582,19 +15586,19 @@ Repeals, amendments, validations, savings, and transitional provisions
     
     (3) The total allowable commercial catch and annual catch entitlement for green-lipped mussel in quota management area 9 are to be expressed in greenweight.
     
-    (4) In this section, the reference to quota management area 9 is a reference to the fishery management area 9 described in [Part 1][1433] of Schedule 1\.
+    (4) In this section, the reference to quota management area 9 is a reference to the fishery management area 9 described in [Part 1][1434] of Schedule 1\.
     
     (5) Each person named in the first column of [Schedule 15][715] is allocated the amount of quota shares for green-lipped mussel in quota management area 9 set out in the third column of that schedule opposite that person's name.
     
-    Section 369S: inserted, on 6 September 2004, by [section 59(1)][1462] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 369S: inserted, on 6 September 2004, by [section 59(1)][1463] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 #### Allocation of quota for pipi in quota management area 1A
     
-*   Heading: inserted, on 6 September 2004, by [section 59(1)][1462] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+*   Heading: inserted, on 6 September 2004, by [section 59(1)][1463] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 369T Allocation of quota for pipi in quota management area 1A
     
-*   (1) In this section, the reference to pipi in quota management area 1A is a reference to pipi in the quota management area described in [Schedule 4][1463] of the Fisheries (Declaration of New Stocks Subject to Quota Management System) Notice (No 2) 2003\.
+*   (1) In this section, the reference to pipi in quota management area 1A is a reference to pipi in the quota management area described in [Schedule 4][1464] of the Fisheries (Declaration of New Stocks Subject to Quota Management System) Notice (No 2) 2003\.
     
     (2) Each person named in the first column of [Schedule 16][716] is allocated the amount of quota shares for pipi in quota management area 1A set out in the third column of that schedule opposite that person's name.
     
@@ -15612,7 +15616,7 @@ Repeals, amendments, validations, savings, and transitional provisions
     
     made or done before the commencement of the section is deemed to be of no effect.
     
-    Section 369T: inserted, on 6 September 2004, by [section 59(1)][1462] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+    Section 369T: inserted, on 6 September 2004, by [section 59(1)][1463] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ##### 370 Transitional provision relating to performance of functions by outside agencies
     
@@ -15637,7 +15641,7 @@ Agreement for the implementation of the provisions of the United Nations Convent
 
 [s 2(1)][4]
 
-*   Schedule 1A: inserted, on 1 May 2001, by [section 34][1464] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
+*   Schedule 1A: inserted, on 1 May 2001, by [section 34][1465] of the Fisheries Act 1996 Amendment Act (No 2) 1999 (1999 No 103).
 
 *   The States Parties to this Agreement,
     
@@ -16506,7 +16510,7 @@ Guidelines for the application of precautionary reference points in conservation
 
 *   4 All positions and directions described in this schedule are based on a geographic latitude/longitude co-ordinate system, using a Mercator projection and the World Geodetic Standard 1984 spheroid.
     
-    Schedule 1 Notes: inserted, on 23 June 1998, by [section 33(1)][1465] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+    Schedule 1 Notes: inserted, on 23 June 1998, by [section 33(1)][1466] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
 
 ## Part 1  
 Fishery management areas defined
@@ -16671,7 +16675,7 @@ All that area of New Zealand fisheries waters enclosed by a line---
 
 *   (c) proceeding in a generally westerly direction directly to the point of commencement.
 
-*   Schedule 1 Part 1: amended, on 23 June 1998, by [section 33(2)(a)][1465] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+*   Schedule 1 Part 1: amended, on 23 June 1998, by [section 33(2)(a)][1466] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
 
 ## Part 2  
 Additional fishery management areas defined
@@ -16782,7 +16786,7 @@ All that area of New Zealand fisheries waters within fishery management area 7--
 
 All that area of New Zealand fisheries waters within fishery management area 7---Challenger/Central (Plateau) lying south of the 42°00.0′S line of latitude.
     
-*   Schedule 1 Part 2: amended, on 23 June 1998, by [section 33(2)(b)][1465] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+*   Schedule 1 Part 2: amended, on 23 June 1998, by [section 33(2)(b)][1466] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
 
 ## Part 3  
 Quota management areas
@@ -17607,15 +17611,15 @@ All that area of New Zealand fisheries waters lying within fishery management ar
 
 All that area of New Zealand fisheries waters lying within fishery management areas 5 and 6\.
     
-*   Schedule 1 Part 3: amended, on 1 October 2007, by [clause 4][1466] of the Fisheries (Amalgamation of Quota Management Areas) Order 2007 (SR 2007/175).
-*   Schedule 1 Part 3: amended, on 1 July 2000, by [section 17(1)][1467] of the Fisheries Amendment Act 2000 (2000 No 20).
-*   Schedule 1 Part 3: amended, on 9 September 1999, by [section 88(1)][1468] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
-*   Schedule 1 Part 3: amended, on 23 June 1998, by [section 33(2)(c)][1465] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
-*   Schedule 1 Part 3: amended, on 23 June 1998, by [section 33(2)(d)(i)][1465] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
-*   Schedule 1 Part 3: amended, on 23 June 1998, by [section 33(2)(d)(ii)][1465] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
-*   Schedule 1 Part 3: amended, on 23 June 1998, by [section 33(2)(d)(iii)][1465] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
-*   Schedule 1 Part 3: amended, on 23 June 1998, by [section 33(2)(e)][1465] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
-*   Schedule 1 Part 3: amended, on 1 April 1998, by [section 11][1469] of the Fisheries (Fouveaux Strait Dredge Oyster Fishery) Amendment Act 1998 (1998 No 6).
+*   Schedule 1 Part 3: amended, on 1 October 2007, by [clause 4][1467] of the Fisheries (Amalgamation of Quota Management Areas) Order 2007 (SR 2007/175).
+*   Schedule 1 Part 3: amended, on 1 July 2000, by [section 17(1)][1468] of the Fisheries Amendment Act 2000 (2000 No 20).
+*   Schedule 1 Part 3: amended, on 9 September 1999, by [section 88(1)][1469] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+*   Schedule 1 Part 3: amended, on 23 June 1998, by [section 33(2)(c)][1466] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+*   Schedule 1 Part 3: amended, on 23 June 1998, by [section 33(2)(d)(i)][1466] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+*   Schedule 1 Part 3: amended, on 23 June 1998, by [section 33(2)(d)(ii)][1466] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+*   Schedule 1 Part 3: amended, on 23 June 1998, by [section 33(2)(d)(iii)][1466] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+*   Schedule 1 Part 3: amended, on 23 June 1998, by [section 33(2)(e)][1466] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+*   Schedule 1 Part 3: amended, on 1 April 1998, by [section 11][1470] of the Fisheries (Fouveaux Strait Dredge Oyster Fishery) Amendment Act 1998 (1998 No 6).
 
 ---
 
@@ -17632,10 +17636,10 @@ Red cod (_Pseudphycis bachus_)All quota management areas
 
 Scallop (_Pecten novaezelandiae_)All quota management areas other than SCA7
 
-*   Schedule 2: amended, on 1 April 2007, by [clause 3][1470] of the Fisheries (Schedules 2, 5, 6, and 8) Order 2007 (SR 2007/31).
-*   Schedule 2: amended, on 5 January 2006, by [clause 3(1)][1471] of the Fisheries (Schedules 2 and 6) Order 2005 (SR 2005/317).
-*   Schedule 2: amended, on 5 January 2006, by [clause 3(2)][1471] of the Fisheries (Schedules 2 and 6) Order 2005 (SR 2005/317).
-*   Schedule 2: amended, on 1 July 2000, by [section 17(2)][1467] of the Fisheries Amendment Act 2000 (2000 No 20).
+*   Schedule 2: amended, on 1 April 2007, by [clause 3][1471] of the Fisheries (Schedules 2, 5, 6, and 8) Order 2007 (SR 2007/31).
+*   Schedule 2: amended, on 5 January 2006, by [clause 3(1)][1472] of the Fisheries (Schedules 2 and 6) Order 2005 (SR 2005/317).
+*   Schedule 2: amended, on 5 January 2006, by [clause 3(2)][1472] of the Fisheries (Schedules 2 and 6) Order 2005 (SR 2005/317).
+*   Schedule 2: amended, on 1 July 2000, by [section 17(2)][1468] of the Fisheries Amendment Act 2000 (2000 No 20).
 
 ---
 
@@ -17676,9 +17680,9 @@ Swordfish (_Xiphias gladius_) All quota management areas
 
 Yellowfin tuna (_Thunnus albacares_) All quota management areas
 
-*   Schedule 3: amended, on 1 October 2004, by [clause 3][1472] of the Fisheries (Schedules 3 and 6) Order 2004 (SR 2004/337).
-*   Schedule 3: amended, on 1 October 2004, by [clause 3][1473] of the Fisheries (Schedules 3, 5A, and 6) Order 2004 (SR 2004/278).
-*   Schedule 3: amended, on 1 July 2000, by [section 17(3)][1467] of the Fisheries Amendment Act 2000 (2000 No 20).
+*   Schedule 3: amended, on 1 October 2004, by [clause 3][1473] of the Fisheries (Schedules 3 and 6) Order 2004 (SR 2004/337).
+*   Schedule 3: amended, on 1 October 2004, by [clause 3][1474] of the Fisheries (Schedules 3, 5A, and 6) Order 2004 (SR 2004/278).
+*   Schedule 3: amended, on 1 July 2000, by [section 17(3)][1468] of the Fisheries Amendment Act 2000 (2000 No 20).
 
 ---
 
@@ -17689,7 +17693,7 @@ Stocks for which provisional catch history not prorated
 
 \[Repealed\]
     
-*   Schedule 4: repealed, on 1 October 2004, by [section 61][1474] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+*   Schedule 4: repealed, on 1 October 2004, by [section 61][1475] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ---
 
@@ -17700,7 +17704,7 @@ Compensation for certain Schedule 4 stocks transferred to the Crown
 
 \[Repealed\]
     
-*   Schedule 4A: repealed, on 1 October 2004, by [section 61][1474] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+*   Schedule 4A: repealed, on 1 October 2004, by [section 61][1475] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 ---
 
@@ -17709,7 +17713,7 @@ Highly migratory species
 
 [s 2(1), (4)][4]
 
-*   Schedule 4B: inserted, on 1 October 2004, by [section 61][1474] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+*   Schedule 4B: inserted, on 1 October 2004, by [section 61][1475] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 Frigate mackerel (_Auxis thazard_)
 
@@ -17798,7 +17802,7 @@ Stocks and species subject to section 93 permit moratorium
 
 [ss 17B(5)][31], [19(2A)][33], [29A(2)][49], [89(2A)][160], [91(3)][164], [92(1)][165], [93][166]
 
-*   Schedule 4C: inserted, on 1 October 2004, by [section 61][1474] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+*   Schedule 4C: inserted, on 1 October 2004, by [section 61][1475] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 **Species** **Fisheries management area**
 
@@ -17884,11 +17888,11 @@ porphyra (_Porphyra_ spp.) 1 to 10
 
 sea lettuce (_Ulva_ spp.) 1 to 10
 
-*   Schedule 4C: amended, on 1 October 2010, by [clause 8][1475] of the Fisheries (Declaration of New Stocks Subject to and Stocks Determined Not to be Subject to Quota Management System) Notice 2009 (SR 2009/325).
-*   Schedule 4C: amended, on 1 October 2006, by [clause 7(1)][1476] of the Fisheries (Declaration of New Stocks Subject to Quota Management System) Notice (No 2) 2005 (SR 2005/347).
-*   Schedule 4C: amended, on 1 April 2006, by [clause 7(1)(b)][1477] of the Fisheries (Declaration of New Stocks Subject to Quota Management System) Notice 2005 (SR 2005/15).
-*   Schedule 4C: amended, on 23 December 2005, by [clause 5(a)][1478] of the Fisheries (Stocks Determined Not to be Subject to Quota Management System) Notice 2005 (SR 2005/349).
-*   Schedule 4C: amended, on 23 December 2005, by [clause 5(c)][1478] of the Fisheries (Stocks Determined Not to be Subject to Quota Management System) Notice 2005 (SR 2005/349).
+*   Schedule 4C: amended, on 1 October 2010, by [clause 8][1476] of the Fisheries (Declaration of New Stocks Subject to and Stocks Determined Not to be Subject to Quota Management System) Notice 2009 (SR 2009/325).
+*   Schedule 4C: amended, on 1 October 2006, by [clause 7(1)][1477] of the Fisheries (Declaration of New Stocks Subject to Quota Management System) Notice (No 2) 2005 (SR 2005/347).
+*   Schedule 4C: amended, on 1 April 2006, by [clause 7(1)(b)][1478] of the Fisheries (Declaration of New Stocks Subject to Quota Management System) Notice 2005 (SR 2005/15).
+*   Schedule 4C: amended, on 23 December 2005, by [clause 5(a)][1479] of the Fisheries (Stocks Determined Not to be Subject to Quota Management System) Notice 2005 (SR 2005/349).
+*   Schedule 4C: amended, on 23 December 2005, by [clause 5(c)][1479] of the Fisheries (Stocks Determined Not to be Subject to Quota Management System) Notice 2005 (SR 2005/349).
 
 ---
 
@@ -17897,7 +17901,7 @@ Species for which quota to be allocated on basis of provisional catch history, i
 
 [s 29A(2)(b)][49]
 
-*   Schedule 4D: inserted, on 1 October 2004, by [section 61][1474] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+*   Schedule 4D: inserted, on 1 October 2004, by [section 61][1475] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 Javelinfish (_Lepidorhynchus denticulatus_)
 
@@ -18012,9 +18016,9 @@ Trough shell (_Mactra discors_)
 
 White warehou (_Seriolella caerulea_)
     
-*   Schedule 5: amended, on 1 October 2010, by [clause 3][1479] of the Fisheries (Schedules 5, 5A, and 6) Order 2010 (SR 2010/297).
-*   Schedule 5: amended, on 1 October 2009, by [clause 3][1480] of the Fisheries (Schedule 5) Order 2009 (SR 2009/248).
-*   Schedule 5: amended, on 1 April 2007, by [clause 4][1481] of the Fisheries (Schedules 2, 5, 6, and 8) Order 2007 (SR 2007/31).
+*   Schedule 5: amended, on 1 October 2010, by [clause 3][1480] of the Fisheries (Schedules 5, 5A, and 6) Order 2010 (SR 2010/297).
+*   Schedule 5: amended, on 1 October 2009, by [clause 3][1481] of the Fisheries (Schedule 5) Order 2009 (SR 2009/248).
+*   Schedule 5: amended, on 1 April 2007, by [clause 4][1482] of the Fisheries (Schedules 2, 5, 6, and 8) Order 2007 (SR 2007/31).
 
 ---
 
@@ -18023,7 +18027,7 @@ Stocks to which sections 67A and 340A do not apply
 
 [ss 67A][122], [340A][636]
 
-*   Schedule 5A: inserted, on 9 September 1999, by [section 88(2)][1468] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+*   Schedule 5A: inserted, on 9 September 1999, by [section 88(2)][1469] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ANG11
 
@@ -18085,16 +18089,16 @@ SCACS
 
 SFE17
     
-*   Schedule 5A: amended, on 1 October 2013, by [clause 3][1482] of the Fisheries (Schedules 5A and 6) Order 2012 (SR 2012/353).
-*   Schedule 5A: amended, on 1 October 2011, by [clause 3][1483] of the Fisheries (Schedule 5A) Order 2011 (SR 2011/293).
-*   Schedule 5A: amended, on 1 October 2011, by [clause 4][1484] of the Fisheries (Schedules 5, 5A, and 6) Order 2010 (SR 2010/297).
-*   Schedule 5A: amended, on 1 October 2004, by [clause 4][1485] of the Fisheries (Schedules 3, 5A, and 6) Order 2004 (SR 2004/278).
-*   Schedule 5A: amended, on 1 October 2003, by [clause 3(a)][1486] of the Fisheries (Schedules 5A and 6) Order 2003 (SR 2003/231).
-*   Schedule 5A: amended, on 1 October 2003, by [clause 3(b)][1486] of the Fisheries (Schedules 5A and 6) Order 2003 (SR 2003/231).
-*   Schedule 5A: amended, on 1 April 2003, by [clause 4][1487] of the Fisheries (Schedules 2, 5A, and 6) Order 2003 (SR 2003/48).
-*   Schedule 5A: amended, on 1 April 2003, by [clause 4][1488] of the Fisheries (Schedules 2, 5A, and 6) Order 2002 (SR 2002/154).
-*   Schedule 5A: amended, on 1 October 2002, by [clause 3][1489] of the Fisheries (Schedules 5A and 6) Order 2002 (SR 2002/279).
-*   Schedule 5A: amended, on 1 October 2001, by [clause 3][1490] of the Fisheries (Schedule 5A) Order 2001 (SR 2001/252).
+*   Schedule 5A: amended, on 1 October 2013, by [clause 3][1483] of the Fisheries (Schedules 5A and 6) Order 2012 (SR 2012/353).
+*   Schedule 5A: amended, on 1 October 2011, by [clause 3][1484] of the Fisheries (Schedule 5A) Order 2011 (SR 2011/293).
+*   Schedule 5A: amended, on 1 October 2011, by [clause 4][1485] of the Fisheries (Schedules 5, 5A, and 6) Order 2010 (SR 2010/297).
+*   Schedule 5A: amended, on 1 October 2004, by [clause 4][1486] of the Fisheries (Schedules 3, 5A, and 6) Order 2004 (SR 2004/278).
+*   Schedule 5A: amended, on 1 October 2003, by [clause 3(a)][1487] of the Fisheries (Schedules 5A and 6) Order 2003 (SR 2003/231).
+*   Schedule 5A: amended, on 1 October 2003, by [clause 3(b)][1487] of the Fisheries (Schedules 5A and 6) Order 2003 (SR 2003/231).
+*   Schedule 5A: amended, on 1 April 2003, by [clause 4][1488] of the Fisheries (Schedules 2, 5A, and 6) Order 2003 (SR 2003/48).
+*   Schedule 5A: amended, on 1 April 2003, by [clause 4][1489] of the Fisheries (Schedules 2, 5A, and 6) Order 2002 (SR 2002/154).
+*   Schedule 5A: amended, on 1 October 2002, by [clause 3][1490] of the Fisheries (Schedules 5A and 6) Order 2002 (SR 2002/279).
+*   Schedule 5A: amended, on 1 October 2001, by [clause 3][1491] of the Fisheries (Schedule 5A) Order 2001 (SR 2001/252).
 
 ---
 
@@ -18369,31 +18373,31 @@ A commercial fisher may return any swordfish to the waters from which it was tak
 
 For the purposes of this requirement, **lower jaw to fork length** means the projected straight line distance from the foremost point of the lower jaw to the rear centre edge of the tail (caudal fin).
 
-*   Schedule 6: amended, on 3 January 2013, by [regulation 4][1491] of the Fisheries (Schedules 5A and 6) Order 2012 (SR 2012/353).
-*   Schedule 6: amended, on 1 May 2012, by [clause 3][1492] of the Fisheries (Schedule 6) Order 2012 (SR 2012/53).
-*   Schedule 6: amended, on 16 December 2010, by [clause 3][1493] of the Fisheries (Schedule 6) Order 2010 (SR 2010/408).
-*   Schedule 6: amended, on 1 October 2010, by [clause 5][1494] of the Fisheries (Schedules 5, 5A, and 6) Order 2010 (SR 2010/297).
-*   Schedule 6: amended, on 1 October 2008, by [clause 3][1495] of the Fisheries (Schedule 6) Order (No 2) 2008 (SR 2008/275).
-*   Schedule 6: amended, on 1 April 2008, by [clause 3][1496] of the Fisheries (Schedule 6) Order 2008 (SR 2008/33).
-*   Schedule 6: amended, on 1 April 2007, by [clause 5(1)][1497] of the Fisheries (Schedules 2, 5, 6, and 8) Order 2007 (SR 2007/31).
-*   Schedule 6: amended, on 1 April 2007, by [clause 5(2)][1497] of the Fisheries (Schedules 2, 5, 6, and 8) Order 2007 (SR 2007/31).
-*   Schedule 6: amended, on 1 October 2006, by [clause 3][1498] of the Fisheries (Schedule 6) Order 2006 (SR 2006/242).
-*   Schedule 6: amended, on 5 January 2006, by [clause 4(1)(a)][1499] of the Fisheries (Schedules 2 and 6) Order 2005 (SR 2005/317).
-*   Schedule 6: amended, on 5 January 2006, by [clause 4(1)(b)][1499] of the Fisheries (Schedules 2 and 6) Order 2005 (SR 2005/317).
-*   Schedule 6: amended, on 5 January 2006, by [clause 4(2)][1499] of the Fisheries (Schedules 2 and 6) Order 2005 (SR 2005/317).
-*   Schedule 6: amended, on 5 January 2006, by [clause 4(3)][1499] of the Fisheries (Schedules 2 and 6) Order 2005 (SR 2005/317).
-*   Schedule 6: amended, on 5 January 2006, by [clause 4(4)][1499] of the Fisheries (Schedules 2 and 6) Order 2005 (SR 2005/317).
-*   Schedule 6: amended, on 5 January 2006, by [clause 4(5)][1499] of the Fisheries (Schedules 2 and 6) Order 2005 (SR 2005/317).
-*   Schedule 6: amended, on 5 January 2006, by [clause 4(6)][1499] of the Fisheries (Schedules 2 and 6) Order 2005 (SR 2005/317).
-*   Schedule 6: amended, on 1 October 2004, by [clause 4][1500] of the Fisheries (Schedules 3 and 6) Order 2004 (SR 2004/337).
-*   Schedule 6: amended, on 1 October 2004, by [clause 5][1501] of the Fisheries (Schedules 3, 5A, and 6) Order 2004 (SR 2004/278).
-*   Schedule 6: amended, on 1 April 2004, by [clause 3][1502] of the Fisheries (Sixth Schedule) Order 2004 (SR 2004/67).
-*   Schedule 6: amended, on 1 October 2003, by [clause 4][1503] of the Fisheries (Schedules 5A and 6) Order 2003 (SR 2003/231).
-*   Schedule 6: amended, on 1 April 2003, by [clause 5][1504] of the Fisheries (Schedules 2, 5A, and 6) Order 2003 (SR 2003/48).
-*   Schedule 6: amended, on 1 October 2002, by [clause 4][1505] of the Fisheries (Schedules 5A and 6) Order 2002 (SR 2002/279).
-*   Schedule 6: amended, on 11 July 2002, by [clause 5(a)][1506] of the Fisheries (Schedules 2, 5A, and 6) Order 2002 (SR 2002/154).
-*   Schedule 6: amended, on 9 September 1999, by [section 35][1507] of the Fisheries Act 1996 Amendment Act (No 2) Act 1999 (1999 No 103).
-*   Schedule 6: amended, on 9 September 1999, by [section 88(3)][1468] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+*   Schedule 6: amended, on 3 January 2013, by [regulation 4][1492] of the Fisheries (Schedules 5A and 6) Order 2012 (SR 2012/353).
+*   Schedule 6: amended, on 1 May 2012, by [clause 3][1493] of the Fisheries (Schedule 6) Order 2012 (SR 2012/53).
+*   Schedule 6: amended, on 16 December 2010, by [clause 3][1494] of the Fisheries (Schedule 6) Order 2010 (SR 2010/408).
+*   Schedule 6: amended, on 1 October 2010, by [clause 5][1495] of the Fisheries (Schedules 5, 5A, and 6) Order 2010 (SR 2010/297).
+*   Schedule 6: amended, on 1 October 2008, by [clause 3][1496] of the Fisheries (Schedule 6) Order (No 2) 2008 (SR 2008/275).
+*   Schedule 6: amended, on 1 April 2008, by [clause 3][1497] of the Fisheries (Schedule 6) Order 2008 (SR 2008/33).
+*   Schedule 6: amended, on 1 April 2007, by [clause 5(1)][1498] of the Fisheries (Schedules 2, 5, 6, and 8) Order 2007 (SR 2007/31).
+*   Schedule 6: amended, on 1 April 2007, by [clause 5(2)][1498] of the Fisheries (Schedules 2, 5, 6, and 8) Order 2007 (SR 2007/31).
+*   Schedule 6: amended, on 1 October 2006, by [clause 3][1499] of the Fisheries (Schedule 6) Order 2006 (SR 2006/242).
+*   Schedule 6: amended, on 5 January 2006, by [clause 4(1)(a)][1500] of the Fisheries (Schedules 2 and 6) Order 2005 (SR 2005/317).
+*   Schedule 6: amended, on 5 January 2006, by [clause 4(1)(b)][1500] of the Fisheries (Schedules 2 and 6) Order 2005 (SR 2005/317).
+*   Schedule 6: amended, on 5 January 2006, by [clause 4(2)][1500] of the Fisheries (Schedules 2 and 6) Order 2005 (SR 2005/317).
+*   Schedule 6: amended, on 5 January 2006, by [clause 4(3)][1500] of the Fisheries (Schedules 2 and 6) Order 2005 (SR 2005/317).
+*   Schedule 6: amended, on 5 January 2006, by [clause 4(4)][1500] of the Fisheries (Schedules 2 and 6) Order 2005 (SR 2005/317).
+*   Schedule 6: amended, on 5 January 2006, by [clause 4(5)][1500] of the Fisheries (Schedules 2 and 6) Order 2005 (SR 2005/317).
+*   Schedule 6: amended, on 5 January 2006, by [clause 4(6)][1500] of the Fisheries (Schedules 2 and 6) Order 2005 (SR 2005/317).
+*   Schedule 6: amended, on 1 October 2004, by [clause 4][1501] of the Fisheries (Schedules 3 and 6) Order 2004 (SR 2004/337).
+*   Schedule 6: amended, on 1 October 2004, by [clause 5][1502] of the Fisheries (Schedules 3, 5A, and 6) Order 2004 (SR 2004/278).
+*   Schedule 6: amended, on 1 April 2004, by [clause 3][1503] of the Fisheries (Sixth Schedule) Order 2004 (SR 2004/67).
+*   Schedule 6: amended, on 1 October 2003, by [clause 4][1504] of the Fisheries (Schedules 5A and 6) Order 2003 (SR 2003/231).
+*   Schedule 6: amended, on 1 April 2003, by [clause 5][1505] of the Fisheries (Schedules 2, 5A, and 6) Order 2003 (SR 2003/48).
+*   Schedule 6: amended, on 1 October 2002, by [clause 4][1506] of the Fisheries (Schedules 5A and 6) Order 2002 (SR 2002/279).
+*   Schedule 6: amended, on 11 July 2002, by [clause 5(a)][1507] of the Fisheries (Schedules 2, 5A, and 6) Order 2002 (SR 2002/154).
+*   Schedule 6: amended, on 9 September 1999, by [section 35][1508] of the Fisheries Act 1996 Amendment Act (No 2) Act 1999 (1999 No 103).
+*   Schedule 6: amended, on 9 September 1999, by [section 88(3)][1469] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ---
 
@@ -18404,7 +18408,7 @@ Authority to enter private dwelling house, enclosed garden, or curtilage, or Mao
 
 [s 200][408]
 
-*   Schedule 7: repealed, on 1 October 2012, by [section 252][1508] of the Search and Surveillance Act 2012 (2012 No 24).
+*   Schedule 7: repealed, on 1 October 2012, by [section 252][1509] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ---
 
@@ -18413,7 +18417,7 @@ Minimum annual holdings of annual catch entitlement for specified stocks
 
 [s 74][131]
 
-*   Schedule 8: substituted, on 9 September 1999, by [section 88(4)][1468] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+*   Schedule 8: substituted, on 9 September 1999, by [section 88(4)][1469] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ## Part 1
 
@@ -18480,9 +18484,9 @@ SCA13
 
 SCA73
 
-*   Schedule 8 Part 1: amended, on 1 October 2007, by [clause 6][1509] of the Fisheries (Schedules 2, 5, 6, and 8) Order 2007 (SR 2007/31).
-*   Schedule 8 Part 1: amended, on 31 March 2003, by [clause 3][1510] of the Fisheries (Removal of Packhorse Rock Lobster from Eighth Schedule) Order 2003 (SR 2003/28).
-*   Schedule 8 Part 1: amended, on 1 July 2000, by [section 17(5)][1467] of the Fisheries Amendment Act 2000 (2000 No 20).
+*   Schedule 8 Part 1: amended, on 1 October 2007, by [clause 6][1510] of the Fisheries (Schedules 2, 5, 6, and 8) Order 2007 (SR 2007/31).
+*   Schedule 8 Part 1: amended, on 31 March 2003, by [clause 3][1511] of the Fisheries (Removal of Packhorse Rock Lobster from Eighth Schedule) Order 2003 (SR 2003/28).
+*   Schedule 8 Part 1: amended, on 1 July 2000, by [section 17(5)][1468] of the Fisheries Amendment Act 2000 (2000 No 20).
 
 ## Part 2
 
@@ -18499,7 +18503,7 @@ Harvestable spat
 
 [ss 2(1)][4], [186ZC][363]
 
-*   Schedule 8A: inserted, on 1 January 2005, by [section 20][1511] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+*   Schedule 8A: inserted, on 1 January 2005, by [section 20][1512] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
 
 The planktonic stage of the following species:
 
@@ -18544,7 +18548,7 @@ Quota allocations for jack mackerel, dredge oysters, and Northland scallops
 
 [ss 367][665], [368][666], [369][668]
 
-*   Schedule 9 heading: amended, on 1 April 1998, by [section 14(1)][1512] of the Fisheries (Fouveaux Strait Dredge Oyster Fishery) Amendment Act 1998 (1998 No 6).
+*   Schedule 9 heading: amended, on 1 April 1998, by [section 14(1)][1513] of the Fisheries (Fouveaux Strait Dredge Oyster Fishery) Amendment Act 1998 (1998 No 6).
 
 ## Part 1  
 Jack mackerel quota allocations
@@ -18892,7 +18896,7 @@ Vela Fishing Limited8640050700.00
 
 **Total**18 000.00
 
-*   Schedule 9 Part 2: amended, on 23 June 1998, by [section 34][1513] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+*   Schedule 9 Part 2: amended, on 23 June 1998, by [section 34][1514] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
 
 ## Part 3  
 Nelson/Marlborough dredge oyster quota allocations
@@ -19077,7 +19081,7 @@ Treaty of Waitangi Fisheries Commission860030037.712
 ## Part 5  
 Foveaux Strait dredge oyster quota allocations
     
-*   Schedule 9 Part 5: added, on 1 April 1998, by [section 14(2)][1512] of the Fisheries (Fouveaux Strait Dredge Oyster Fishery) Amendment Act 1998 (1998 No 6).
+*   Schedule 9 Part 5: added, on 1 April 1998, by [section 14(2)][1513] of the Fisheries (Fouveaux Strait Dredge Oyster Fishery) Amendment Act 1998 (1998 No 6).
 
 **Legal name****Client number****Quota allocation (oyster numbers)**
 
@@ -19116,7 +19120,7 @@ Urwin and Co Ltd8492485650 000
 ## Part 6  
 Pale ghost shark quota allocations
     
-*   Schedule 9 Part 6: added, on 9 September 1999, by [section 88(5)][1468] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+*   Schedule 9 Part 6: added, on 9 September 1999, by [section 88(5)][1469] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ### Quota management area GSP1
 
@@ -19333,7 +19337,7 @@ Amos, Cushla May9510053.064
 ## Part 7  
 Pale ghost shark quota allocations
     
-*   Schedule 9 Part 7: added, on 9 September 1999, by [section 88(5)][1468] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+*   Schedule 9 Part 7: added, on 9 September 1999, by [section 88(5)][1469] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ### Quota management area GSP5
 
@@ -19398,7 +19402,7 @@ Te Ika Paewai Ltd926002915.258
 ## Part 8  
 Pale ghost shark quota allocations
     
-*   Schedule 9 Part 8: added, on 9 September 1999, by [section 88(5)][1468] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+*   Schedule 9 Part 8: added, on 9 September 1999, by [section 88(5)][1469] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ### Quota management area GSP7
 
@@ -19557,7 +19561,7 @@ J. S. Fishing Ltd9660039.985
 ## Part 9  
 Southern blue whiting quota allocations
     
-*   Schedule 9 Part 9: added, on 9 September 1999, by [section 88(5)][1468] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+*   Schedule 9 Part 9: added, on 9 September 1999, by [section 88(5)][1469] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ### Quota management area SBW6A
 
@@ -19586,7 +19590,7 @@ Treaty of Waitangi Fisheries Commission8600300328.000
 ## Part 10  
 Southern blue whiting quota allocations
     
-*   Schedule 9 Part 10: added, on 9 September 1999, by [section 88(5)][1468] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+*   Schedule 9 Part 10: added, on 9 September 1999, by [section 88(5)][1469] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ### Quota management area SBW6B
 
@@ -19615,7 +19619,7 @@ Treaty of Waitangi Fisheries Commission86003003 080.000
 ## Part 11  
 Southern blue whiting quota allocations
     
-*   Schedule 9 Part 11: added, on 9 September 1999, by [section 88(5)][1468] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+*   Schedule 9 Part 11: added, on 9 September 1999, by [section 88(5)][1469] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ### Quota management area SBW6I
 
@@ -19644,7 +19648,7 @@ Treaty of Waitangi Fisheries Commission86003007 092.000
 ## Part 12  
 Southern blue whiting quota allocations
     
-*   Schedule 9 Part 12: added, on 9 September 1999, by [section 88(5)][1468] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
+*   Schedule 9 Part 12: added, on 9 September 1999, by [section 88(5)][1469] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ### Quota management area SBW6R
 
@@ -19677,7 +19681,7 @@ Allocation of cost recovery settlement sum to each stock
 
 [s 265A][500]
 
-*   Schedule 9A: inserted, on 19 March 2004, by [section 12(1)][1514] of the Fisheries Amendment Act 2004 (2004 No 6).
+*   Schedule 9A: inserted, on 19 March 2004, by [section 12(1)][1515] of the Fisheries Amendment Act 2004 (2004 No 6).
 
 ## Part 1  
 Amounts of settlement sum to be credited to stock
@@ -20387,12 +20391,12 @@ Yellowfin tunaYFN1101,078
 
 Aquaculture 172,360
 
-*   Schedule 9A Part 1: amended, on 1 October 2004, by [section 62][1515] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
-*   Schedule 9A Part 1: amended, on 1 July 2004 (applying on and after 1 October 2004), by [clause 3(1)(a)][1516] of the Fisheries (Schedule 9A) Order 2004 (SR 2004/171).
-*   Schedule 9A Part 1: amended, on 1 July 2004, by [clause 3(1)(b)][1516] of the Fisheries (Schedule 9A) Order 2004 (SR 2004/171).
-*   Schedule 9A Part 1: amended, on 1 July 2004, by [clause 3(1)(c)][1516] of the Fisheries (Schedule 9A) Order 2004 (SR 2004/171).
-*   Schedule 9A Part 1: amended, on 1 July 2004 (applying on and after 1 October 2004), by [clause 3(1)(d)][1516] of the Fisheries (Schedule 9A) Order 2004 (SR 2004/171).
-*   Schedule 9A Part 1: amended, on 1 July 2004 (applying on and after 1 October 2004), by [clause 3(1)(e)][1516] of the Fisheries (Schedule 9A) Order 2004 (SR 2004/171).
+*   Schedule 9A Part 1: amended, on 1 October 2004, by [section 62][1516] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+*   Schedule 9A Part 1: amended, on 1 July 2004 (applying on and after 1 October 2004), by [clause 3(1)(a)][1517] of the Fisheries (Schedule 9A) Order 2004 (SR 2004/171).
+*   Schedule 9A Part 1: amended, on 1 July 2004, by [clause 3(1)(b)][1517] of the Fisheries (Schedule 9A) Order 2004 (SR 2004/171).
+*   Schedule 9A Part 1: amended, on 1 July 2004, by [clause 3(1)(c)][1517] of the Fisheries (Schedule 9A) Order 2004 (SR 2004/171).
+*   Schedule 9A Part 1: amended, on 1 July 2004 (applying on and after 1 October 2004), by [clause 3(1)(d)][1517] of the Fisheries (Schedule 9A) Order 2004 (SR 2004/171).
+*   Schedule 9A Part 1: amended, on 1 July 2004 (applying on and after 1 October 2004), by [clause 3(1)(e)][1517] of the Fisheries (Schedule 9A) Order 2004 (SR 2004/171).
 
 ## Part 2  
 Amounts of settlement sum to be charged to stock
@@ -21140,7 +21144,7 @@ Amendments deemed to have come into force on 1 July 1995
 
 ##### Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31)
 
-_Amendment(s) incorporated in the [Act(s)][1387]._
+_Amendment(s) incorporated in the [Act(s)][1388]._
 
 ## Part 2  
 Amendments to Fisheries Act 1983 deemed to have come into force on 1 October 1995
@@ -21158,11 +21162,11 @@ _Amendment(s) incorporated in the [Act(s)][734]._
 
 ##### Marine Reserves Act 1971 (1971 No 15) (RS Vol 22, p 751)
 
-_Amendment(s) incorporated in the [Act(s)][959]._
+_Amendment(s) incorporated in the [Act(s)][960]._
 
 ##### Maritime Transport Act 1994 (1994 No 104)
 
-_Amendment(s) incorporated in the [Act(s)][1517]._
+_Amendment(s) incorporated in the [Act(s)][1518]._
 
 ##### Resource Management Act 1991 (1991 No 69) (RS Vol 32, p 131) 
 
@@ -21177,21 +21181,21 @@ Amendments to Privacy Act 1993
 
 ##### Privacy Act 1993 (1993 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][984]._
+_Amendment(s) incorporated in the [Act(s)][985]._
 
 ## Part 5  
 Amendments to Territorial Sea and Exclusive Economic Zone Act 1977
 
 ##### Territorial Sea and Exclusive Economic Zone Act 1977 (1977 No 28) (RS Vol 27, p 877)
 
-_Amendment(s) incorporated in the [Act(s)][1405]._
+_Amendment(s) incorporated in the [Act(s)][1406]._
 
 ## Part 6  
 Amendments to Summary Proceedings Act 1957
 
 ##### Summary Proceedings Act 1957 (1957 No 9) (RS Vol 9, p 583)
 
-_Amendment(s) incorporated in the [Act(s)][1518]._
+_Amendment(s) incorporated in the [Act(s)][1519]._
 
 ## Part 7  
 Amendments to Fisheries Act 1983 and other Acts
@@ -21202,7 +21206,7 @@ _Amendment(s) incorporated in the [Act(s)][738]._
 
 ##### Fisheries Amendment Act 1995 (1995 No 51)
 
-_Amendment(s) incorporated in the [Act(s)][1388]._
+_Amendment(s) incorporated in the [Act(s)][1389]._
 
 ##### Maori Fisheries Act 1989 (1989 No 159) (RS Vol 27, p 677)
 
@@ -21229,7 +21233,7 @@ Quota management areas for particular scampi stocks
 
 [s 369N][683]
 
-*   Schedule 13: added, on 13 August 2004, by [section 6][1519] of the Fisheries Amendment Act (No 2) 2004 (2004 No 71).
+*   Schedule 13: added, on 13 August 2004, by [section 6][1520] of the Fisheries Amendment Act (No 2) 2004 (2004 No 71).
 
 #### Scampi quota management area 3---South East Coast and Western Chatham Islands combined
 
@@ -21265,11 +21269,11 @@ All that area of New Zealand fisheries waters enclosed by a line---
 
 #### Scampi quota management area 6A---Auckland Islands
 
-All that area of New Zealand fisheries waters within fishery management area 6---Sub-Antarctic in [Part 1][1433] of Schedule 1 of the Fisheries Act 1996 that surround the Auckland Islands within an area bounded by latitude 49°00′S in the north, and a line from 52°00′S and 164°30′E to 51°30′S and 168°30′E in the south and by line of longitude at 164°30′E in the west and 168°30′E in the east.
+All that area of New Zealand fisheries waters within fishery management area 6---Sub-Antarctic in [Part 1][1434] of Schedule 1 of the Fisheries Act 1996 that surround the Auckland Islands within an area bounded by latitude 49°00′S in the north, and a line from 52°00′S and 164°30′E to 51°30′S and 168°30′E in the south and by line of longitude at 164°30′E in the west and 168°30′E in the east.
 
 #### Scampi quota management area 6B---Part Sub-Antarctic
 
-All that area of New Zealand fisheries waters within fishery management area 6---Sub-Antarctic in [Part 1][1433] of Schedule 1 of the Fisheries Act 1996, excluding scampi quota management area 6A.
+All that area of New Zealand fisheries waters within fishery management area 6---Sub-Antarctic in [Part 1][1434] of Schedule 1 of the Fisheries Act 1996, excluding scampi quota management area 6A.
 
 ---
 
@@ -21278,7 +21282,7 @@ Scampi provisional catch history allocations
 
 [s 369O][684]
 
-*   Schedule 14: added, on 13 August 2004, by [section 6][1519] of the Fisheries Amendment Act (No 2) 2004 (2004 No 71).
+*   Schedule 14: added, on 13 August 2004, by [section 6][1520] of the Fisheries Amendment Act (No 2) 2004 (2004 No 71).
 
 ## Part 1  
 Quota management area SCI1
@@ -21402,7 +21406,7 @@ Green-lipped mussel quota share allocations for quota management area 9 (GLM9)
 
 [s 369S(5)][689]
 
-*   Schedule 15: added, on 1 October 2004, by [section 63][1520] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+*   Schedule 15: added, on 1 October 2004, by [section 63][1521] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 **Legal name****Client number****Quota shares allocated**
 
@@ -21437,7 +21441,7 @@ Allocation of quota for pipi in quota management area 1A
 
 [s 369T(2)][691]
 
-*   Schedule 16: added, on 1 October 2004, by [section 63][1520] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+*   Schedule 16: added, on 1 October 2004, by [section 63][1521] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 **Client****Client number****Quota shares**
 
@@ -21473,7 +21477,7 @@ Commencementsee section 1(2)--(4)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Fisheries Act 1996 Amendment Act 1999][1521], and is part of the Fisheries Act 1996 (""the principal Act"").
+*   (1) This Act may be cited as the [Fisheries Act 1996 Amendment Act 1999][1522], and is part of the Fisheries Act 1996 (""the principal Act"").
     
     (2) This section and sections 2 to 8, 11 to 16, 64 to 72, 77 to 83, and 85 to 90, and the schedules, come into force on the day after the date on which this Act receives the Royal assent.
     
@@ -21518,7 +21522,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Fisheries Amendment Act (No 3) 2004][1522].
+*   (1) This Act is the [Fisheries Amendment Act (No 3) 2004][1523].
     
     (2) In this Act, other than Part 2, the Fisheries Act 1996 is called ""the principal Act"".
 
@@ -21577,7 +21581,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Overseas Investment Act 2005][885].
+*   This Act is the [Overseas Investment Act 2005][886].
 
 ##### 2 Commencement
     
@@ -21585,7 +21589,7 @@ Commencementsee section 2
     
     (2) One or more Orders in Council may be made appointing different dates for the commencement of different provisions.
     
-    Section 2: Overseas Investment Act 2005 brought into force, on 25 August 2005, by the [Overseas Investment Act Commencement Order 2005][1523] (SR 2005/219).
+    Section 2: Overseas Investment Act 2005 brought into force, on 25 August 2005, by the [Overseas Investment Act Commencement Order 2005][1524] (SR 2005/219).
 
 ## Part 2  
 Consent and conditions regime
@@ -21646,7 +21650,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Fisheries Act 1996 Amendment Act 2008][1524].
+*   This Act is the [Fisheries Act 1996 Amendment Act 2008][1525].
 
 ##### 2 Commencement
     
@@ -21668,7 +21672,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Fisheries Amendment Act 2012][1525].
+*   This Act is the [Fisheries Amendment Act 2012][1526].
 
 ##### 2 Commencement
     
@@ -21690,165 +21694,167 @@ Commencementsee section 2
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1526] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][1527] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1527] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][1528] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][1528] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][1529] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][1529] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][1530] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409): [regulation 3(1)][1017]
+*   Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409): [regulation 3(1)][1018]
     
-    Legislation Act 2012 (2012 No 119): [section 77(3)][1344]
+    Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][777]
     
-    [Fisheries (Schedules 5A and 6) Order 2012][1530] (SR 2012/353)
+    Legislation Act 2012 (2012 No 119): [section 77(3)][1345]
     
-    Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72): [section 175][790]
+    [Fisheries (Schedules 5A and 6) Order 2012][1531] (SR 2012/353)
     
-    [Fisheries Amendment Act 2012][1525] (2012 No 63)
+    Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72): [section 175][791]
     
-    Search and Surveillance Act 2012 (2012 No 24): [sections 248--252][1179]
+    [Fisheries Amendment Act 2012][1526] (2012 No 63)
     
-    [Fisheries (Schedule 6) Order 2012][1531] (SR 2012/53)
+    Search and Surveillance Act 2012 (2012 No 24): [sections 248--252][1180]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][958]
+    [Fisheries (Schedule 6) Order 2012][1532] (SR 2012/53)
     
-    [Fisheries Amendment Act 2011][1532] (2011 No 68)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][959]
     
-    [Fisheries (Schedule 5A) Order 2011][1533] (SR 2011/293)
+    [Fisheries Amendment Act 2011][1533] (2011 No 68)
+    
+    [Fisheries (Schedule 5A) Order 2011][1534] (SR 2011/293)
     
     Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3): [section 128][767]
     
-    [Fisheries (Schedule 6) Order 2010][1534] (SR 2010/408)
+    [Fisheries (Schedule 6) Order 2010][1535] (SR 2010/408)
     
-    [Fisheries (Schedules 5, 5A, and 6) Order 2010][1535] (SR 2010/297)
+    [Fisheries (Schedules 5, 5A, and 6) Order 2010][1536] (SR 2010/297)
     
-    Ministry of Agriculture and Fisheries (Restructuring) Amendment Act 2010 (2010 No 19): [section 6][1302]
+    Ministry of Agriculture and Fisheries (Restructuring) Amendment Act 2010 (2010 No 19): [section 6][1303]
     
-    [Fisheries Amendment Act 2010][1536] (2010 No 16)
+    [Fisheries Amendment Act 2010][1537] (2010 No 16)
     
-    Immigration Act 2009 (2009 No 51): [section 406(1)][887]
+    Immigration Act 2009 (2009 No 51): [section 406(1)][888]
     
-    Fisheries (Declaration of New Stocks Subject to and Stocks Determined Not to be Subject to Quota Management System) Notice 2009 (SR 2009/325): [clause 8][1475]
+    Fisheries (Declaration of New Stocks Subject to and Stocks Determined Not to be Subject to Quota Management System) Notice 2009 (SR 2009/325): [clause 8][1476]
     
-    Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34): [section 861][902]
+    Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34): [section 861][903]
     
-    [Fisheries (Schedule 5) Order 2009][1537] (SR 2009/248)
+    [Fisheries (Schedule 5) Order 2009][1538] (SR 2009/248)
     
-    [Fisheries Act 1996 Amendment Act 2008][1524] (2008 No 96)
+    [Fisheries Act 1996 Amendment Act 2008][1525] (2008 No 96)
     
-    [Fisheries Amendment Act (No 2) 2008][1538] (2008 No 93)
+    [Fisheries Amendment Act (No 2) 2008][1539] (2008 No 93)
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][1172]
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][1173]
     
-    [Fisheries (Schedule 6) Order (No 2) 2008][1539] (SR 2008/275)
+    [Fisheries (Schedule 6) Order (No 2) 2008][1540] (SR 2008/275)
     
-    [Fisheries Amendment Act 2008][1540] (2008 No 11)
+    [Fisheries Amendment Act 2008][1541] (2008 No 11)
     
-    [Fisheries (Schedule 6) Order 2008][1541] (SR 2008/33)
+    [Fisheries (Schedule 6) Order 2008][1542] (SR 2008/33)
     
-    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][903]
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][904]
     
-    [Fisheries (Amalgamation of Quota Management Areas) Order 2007][1542] (SR 2007/175)
+    [Fisheries (Amalgamation of Quota Management Areas) Order 2007][1543] (SR 2007/175)
     
-    [Fisheries (Schedules 2, 5, 6, and 8) Order 2007][1543] (SR 2007/31)
+    [Fisheries (Schedules 2, 5, 6, and 8) Order 2007][1544] (SR 2007/31)
     
-    Insolvency Act 2006 (2006 No 55): [section 445][1304]
+    Insolvency Act 2006 (2006 No 55): [section 445][1305]
     
-    [Fisheries (Schedule 6) Order 2006][1544] (SR 2006/242)
+    [Fisheries (Schedule 6) Order 2006][1545] (SR 2006/242)
     
-    Summary Proceedings Amendment Act 2006 (2006 No 13): [section 33][1276]
+    Summary Proceedings Amendment Act 2006 (2006 No 13): [section 33][1277]
     
-    Fisheries (Stocks Determined Not to be Subject to Quota Management System) Notice 2005 (SR 2005/349): [clause 5][1478]
+    Fisheries (Stocks Determined Not to be Subject to Quota Management System) Notice 2005 (SR 2005/349): [clause 5][1479]
     
     Fisheries (Declaration of New Stocks Subject to Quota Management System) Notice (No 2) 2005 (SR 2005/347): clause 7(1)
     
-    [Fisheries (Schedules 2 and 6) Order 2005][1545] (SR 2005/317)
+    [Fisheries (Schedules 2 and 6) Order 2005][1546] (SR 2005/317)
     
-    Overseas Investment Act 2005 (2005 No 82): [sections 73][878], [75][772]
+    Overseas Investment Act 2005 (2005 No 82): [sections 73][879], [75][772]
     
-    Fisheries (Declaration of New Stocks Subject to Quota Management System) Notice 2005 (SR 2005/15): [clause 7(1)(b)][1477]
+    Fisheries (Declaration of New Stocks Subject to Quota Management System) Notice 2005 (SR 2005/15): [clause 7(1)(b)][1478]
     
-    [Fisheries (Schedules 3 and 6) Order 2004][1546] (SR 2004/337)
+    [Fisheries (Schedules 3 and 6) Order 2004][1547] (SR 2004/337)
     
     Fisheries (Schedules 3, 5A, and 6) Order 2004 (SR 2004/278)
     
-    [Fisheries (Schedule 9A) Order 2004][1547] (SR 2004/171)
+    [Fisheries (Schedule 9A) Order 2004][1548] (SR 2004/171)
     
-    Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 (2004 No 109): [section 19(2)][1395]
+    Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 (2004 No 109): [section 19(2)][1396]
     
-    [Fisheries Amendment Act (No 3) 2004][1548] (2004 No 104)
+    [Fisheries Amendment Act (No 3) 2004][1549] (2004 No 104)
     
     Maori Fisheries Act 2004 (2004 No 78): [section 214][763]
     
-    [Fisheries Amendment Act (No 3) 2004][1522] (2004 No 76)
+    [Fisheries Amendment Act (No 3) 2004][1523] (2004 No 76)
     
-    [Fisheries Amendment Act (No 2) 2004][1461] (2004 No 71)
+    [Fisheries Amendment Act (No 2) 2004][1462] (2004 No 71)
     
-    [Fisheries Amendment Act 2004][1549] (2004 No 6)
+    [Fisheries Amendment Act 2004][1550] (2004 No 6)
     
-    [Fisheries (Sixth Schedule) Order 2004][1550] (SR 2004/67)
+    [Fisheries (Sixth Schedule) Order 2004][1551] (SR 2004/67)
     
     Gambling Act 2003 (2003 No 51): [section 374][774]
     
-    [Fisheries (Schedules 5A and 6) Order 2003][1551] (SR 2003/231)
+    [Fisheries (Schedules 5A and 6) Order 2003][1552] (SR 2003/231)
     
-    [Fisheries (Schedules 2, 5A, and 6) Order 2003][1552] (SR 2003/48)
+    [Fisheries (Schedules 2, 5A, and 6) Order 2003][1553] (SR 2003/48)
     
-    [Fisheries (Removal of Packhorse Rock Lobster from Eighth Schedule) Order 2003][1553] (SR 2003/28)
+    [Fisheries (Removal of Packhorse Rock Lobster from Eighth Schedule) Order 2003][1554] (SR 2003/28)
     
-    [Fisheries (Foreign Fishing Crew) Amendment Act 2002][1554] (2002 No 27)
+    [Fisheries (Foreign Fishing Crew) Amendment Act 2002][1555] (2002 No 27)
     
-    [Fisheries (Schedules 5A and 6) Order 2002][1555] (SR 2002/279)
+    [Fisheries (Schedules 5A and 6) Order 2002][1556] (SR 2002/279)
     
     [Fisheries Act Commencement Order 2002][717] (SR 2002/167)
     
-    [Fisheries (Schedules 2, 5A, and 6) Order 2002][1556] (SR 2002/154)
+    [Fisheries (Schedules 2, 5A, and 6) Order 2002][1557] (SR 2002/154)
     
-    Sentencing Act 2002 (2002 No 9): [section 186][1272]
+    Sentencing Act 2002 (2002 No 9): [section 186][1273]
     
-    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][1309]
+    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][1310]
     
-    [Fisheries (Schedule 5A) Order 2001][1557] (SR 2001/252)
+    [Fisheries (Schedule 5A) Order 2001][1558] (SR 2001/252)
     
     [Fisheries Act Commencement Order (No 2) 2001][718] (SR 2001/179)
     
-    [Fisheries Amendment Act 2001][1558] (2001 No 65)
+    [Fisheries Amendment Act 2001][1559] (2001 No 65)
     
-    Fishing Industry Board Repeal Act 2001 (2001 No 34): [section 5(2)][1396]
+    Fishing Industry Board Repeal Act 2001 (2001 No 34): [section 5(2)][1397]
     
-    [Fisheries (Remedial Issues) Amendment Act 2001][1559] (2001 No 33)
+    [Fisheries (Remedial Issues) Amendment Act 2001][1560] (2001 No 33)
     
     [Fisheries Act Commencement Order 2001][719] (SR 2001/38)
     
     [Fisheries Act Commencement Order 2000][720] (SR 2000/182)
     
-    Employment Relations Act 2000 (2000 No 24): [section 240][992]
+    Employment Relations Act 2000 (2000 No 24): [section 240][993]
     
-    [Fisheries Amendment Act 2000][1560] (2000 No 20)
+    [Fisheries Amendment Act 2000][1561] (2000 No 20)
     
-    Hauraki Gulf Marine Park Act 2000 (2000 No 1): [section 12][789]
+    Hauraki Gulf Marine Park Act 2000 (2000 No 1): [section 12][790]
     
     [Fisheries Act 1996 Commencement Order 1999][721] (SR 1999/380)
     
-    [Fisheries Act 1996 Amendment Act (No 2) 1999][1561] (1999 No 103)
+    [Fisheries Act 1996 Amendment Act (No 2) 1999][1562] (1999 No 103)
     
-    [Fisheries Act 1996 Amendment Act 1999][1521] (1999 No 101)
+    [Fisheries Act 1996 Amendment Act 1999][1522] (1999 No 101)
     
-    Animal Products (Ancillary and Transitional Provisions) Act 1999 (1999 No 94): [section 8(1)][963]
+    Animal Products (Ancillary and Transitional Provisions) Act 1999 (1999 No 94): [section 8(1)][964]
     
-    Interpretation Act 1999 (1999 No 85): [section 38(1)][1296]
+    Interpretation Act 1999 (1999 No 85): [section 38(1)][1297]
     
-    Ngāi Tahu Claims Settlement Act 1998 (1998 No 97): [sections 310][1108], [311][1111]
+    Ngāi Tahu Claims Settlement Act 1998 (1998 No 97): [sections 310][1109], [311][1112]
     
     [Fisheries Act Commencement Order 1998][722] (SR 1998/251)
     
-    District Courts Amendment Act 1998 (1998 No 76): [section 7][1562]
+    District Courts Amendment Act 1998 (1998 No 76): [section 7][1563]
     
-    [Fisheries (Remedial Issues) Amendment Act 1998][1563] (1998 No 67)
+    [Fisheries (Remedial Issues) Amendment Act 1998][1564] (1998 No 67)
     
-    [Fisheries (Fouveaux Strait Dredge Oyster Fishery) Amendment Act 1998][1564] (1998 No 6)
+    [Fisheries (Fouveaux Strait Dredge Oyster Fishery) Amendment Act 1998][1565] (1998 No 6)
     
     [Fisheries Act Commencement Order (No 2) 1997][723] (SR 1997/171)
     
@@ -21856,13 +21862,13 @@ Commencementsee section 2
     
     [Fisheries Act Commencement Order (No 2) 1996][725] (SR 1996/255)
     
-    Resource Management Amendment Act 1996 (1996 No 160): [section 6(2)(a)][1099]
+    Resource Management Amendment Act 1996 (1996 No 160): [section 6(2)(a)][1100]
     
     [Fisheries Act Commencement Order 1996][726] (SR 1996/235)
     
     Territorial Sea and Exclusive Economic Zone Amendment Act 1996 (1996 No 74): section 5(4)
     
-    Public Finance Act 1989 (1989 No 44): [section 65R(3)][1294]
+    Public Finance Act 1989 (1989 No 44): [section 65R(3)][1295]
 
 
 
@@ -22643,791 +22649,792 @@ Commencementsee section 2
 [774]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM210735
 [775]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM305698
 [776]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92723
-[777]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM238668
-[778]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112179
-[779]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM281432
-[780]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM232560
-[781]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM230272
-[782]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960730
-[783]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324148
-[784]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM67619
-[785]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM53131
-[786]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM53132
-[787]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3955410
-[788]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3213422
-[789]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM53148
-[790]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3956368
-[791]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39293
-[792]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427236
-[793]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39294
-[794]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39296
-[795]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM67943
-[796]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM67955
-[797]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68162
-[798]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM206968
-[799]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM277400
-[800]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM281490
-[801]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427237
-[802]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1444808
-[803]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310566
-[804]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM98974
-[805]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39297
-[806]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM277280
-[807]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM25310
-[808]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69491
-[809]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69869
-[810]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310567
-[811]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1209432
-[812]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM67918
-[813]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310575
-[814]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39901
-[815]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1209433
-[816]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427238
-[817]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM206978
-[818]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427239
-[819]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68169
-[820]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92725
-[821]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68173
-[822]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68137
-[823]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92726
-[824]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39902
-[825]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92729
-[826]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92730
-[827]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41010
-[828]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310576
-[829]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310580
-[830]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310581
-[831]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM333549
-[832]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69472
-[833]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM60577
-[834]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310582
-[835]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69481
-[836]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39909
-[837]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310584
-[838]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310586
-[839]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM306001
-[840]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69843
-[841]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69487
-[842]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310587
-[843]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310588
-[844]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427243
-[845]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1209434
-[846]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM56904
-[847]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39912
-[848]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112181
-[849]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427244
-[850]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112182
-[851]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310589
-[852]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68148
-[853]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310590
-[854]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310591
-[855]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39916
-[856]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310592
-[857]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310593
-[858]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM56907
-[859]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310594
-[860]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427247
-[861]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310595
-[862]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310596
-[863]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM313035
-[864]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM313038
-[865]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68601
-[866]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM281496
-[867]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427248
-[868]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310598
-[869]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310599
-[870]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310900
-[871]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41085
-[872]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92731
-[873]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41086
-[874]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM56921
-[875]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310901
-[876]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41087
-[877]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310902
-[878]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM358500
-[879]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM356886
-[880]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM358032
-[881]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM358042
-[882]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM358051
-[883]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM358056
-[884]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM358083
-[885]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM356880
-[886]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1441529
-[887]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1441347
-[888]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1440598
-[889]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1440599
-[890]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1440600
-[891]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM358043
-[892]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM67623
-[893]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM311463
-[894]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM312347
-[895]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68626
-[896]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1400100
-[897]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1520575
-[898]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1522997
-[899]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM199363
-[900]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112184
-[901]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM395375
-[902]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1401902
-[903]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1523176
-[904]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112186
-[905]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM206986
-[906]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM259628
-[907]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM281498
-[908]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112187
-[909]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM358058
-[910]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70259
-[911]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM207516
-[912]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39923
-[913]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112189
-[914]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39924
-[915]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39927
-[916]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39929
-[917]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310903
-[918]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68674
-[919]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM206990
-[920]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM312086
-[921]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68578
-[922]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM259626
-[923]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39933
-[924]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112191
-[925]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92732
-[926]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39934
-[927]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310904
-[928]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM162985
-[929]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68660
-[930]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM206989
-[931]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310905
-[932]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2853228
-[933]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39938
-[934]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2853229
-[935]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39940
-[936]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM319999
-[937]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112192
-[938]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310907
-[939]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39945
-[940]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM158825
-[941]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41011
-[942]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM442690
-[943]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310908
-[944]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM442692
-[945]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310909
-[946]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM442698
-[947]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM442701
-[948]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM442703
-[949]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112711
-[950]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310910
-[951]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41088
-[952]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM442696
-[953]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM442720
-[954]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427249
-[955]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM442705
-[956]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM442714
-[957]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM442728
-[958]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3360714
-[959]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM397837
-[960]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM50791
-[961]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM34115
-[962]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69461
-[963]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM36187
-[964]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310911
-[965]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39946
-[966]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41089
-[967]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324149
-[968]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM430220
-[969]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39947
-[970]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310912
-[971]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112713
-[972]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310913
-[973]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69497
-[974]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM286950
-[975]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310914
-[976]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39949
-[977]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM396941
-[978]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39950
-[979]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41090
-[980]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39953
-[981]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41091
-[982]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39954
-[983]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41092
-[984]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM296638
-[985]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69440
-[986]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41094
-[987]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM74092
-[988]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM74807
-[989]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1440300
-[990]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM58316
-[991]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39956
-[992]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM61487
-[993]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41095
-[994]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4444107
-[995]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92733
-[996]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41096
-[997]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69451
-[998]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39957
-[999]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69448
-[1000]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92735
-[1001]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41097
-[1002]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70167
-[1003]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM207511
-[1004]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70175
-[1005]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39958
-[1006]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69454
-[1007]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM206994
-[1008]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69458
-[1009]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM275026
-[1010]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41099
-[1011]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41901
-[1012]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112714
-[1013]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112715
-[1014]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92736
-[1015]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310915
-[1016]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310916
-[1017]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM5642106
-[1018]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310917
-[1019]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM375884
-[1020]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324152
-[1021]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM315394
-[1022]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM233089
-[1023]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM315701
-[1024]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39959
-[1025]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92738
-[1026]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39961
-[1027]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM196559
-[1028]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM313031
-[1029]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92739
-[1030]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM313042
-[1031]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197126
-[1032]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92740
-[1033]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197131
-[1034]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM267698
-[1035]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM267838
-[1036]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM267840
-[1037]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197133
-[1038]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197137
-[1039]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197139
-[1040]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197141
-[1041]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197142
-[1042]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM267812
-[1043]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197144
-[1044]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197146
-[1045]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92742
-[1046]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39962
-[1047]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197158
-[1048]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197154
-[1049]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39963
-[1050]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197166
-[1051]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197169
-[1052]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197164
-[1053]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197168
-[1054]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM313033
-[1055]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM313623
-[1056]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310918
-[1057]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM196557
-[1058]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM196527
-[1059]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197103
-[1060]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM196530
-[1061]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92743
-[1062]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM196532
-[1063]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39964
-[1064]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92744
-[1065]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM196535
-[1066]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM196538
-[1067]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM196540
-[1068]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM196541
-[1069]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197151
-[1070]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39965
-[1071]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197152
-[1072]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39966
-[1073]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92745
-[1074]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310920
-[1075]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM196542
-[1076]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM196544
-[1077]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM196563
-[1078]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM196978
-[1079]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM196981
-[1080]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM196983
-[1081]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM196986
-[1082]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92746
-[1083]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39967
-[1084]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197102
-[1085]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39968
-[1086]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM435841
-[1087]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69400
-[1088]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69403
-[1089]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69406
-[1090]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69409
-[1091]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69412
-[1092]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69415
-[1093]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM139130
-[1094]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM139170
-[1095]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69418
-[1096]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM238272
-[1097]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM238503
-[1098]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69421
-[1099]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM407465
-[1100]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69426
-[1101]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69429
-[1102]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69432
-[1103]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM341044
-[1104]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69893
-[1105]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM281810
-[1106]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427250
-[1107]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427251
-[1108]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM430225
-[1109]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM398820
-[1110]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM429089
-[1111]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM430226
-[1112]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324153
-[1113]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM233858
-[1114]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM235220
-[1115]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM235230
-[1116]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960733
-[1117]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960732
-[1118]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960744
-[1119]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM234859
-[1120]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324760
-[1121]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324773
-[1122]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324774
-[1123]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324791
-[1124]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960313
-[1125]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960752
-[1126]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM408335
-[1127]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960753
-[1128]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324783
-[1129]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324784
-[1130]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960315
-[1131]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960754
-[1132]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960318
-[1133]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM236097
-[1134]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960761
-[1135]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960763
-[1136]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960764
-[1137]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960320
-[1138]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960765
-[1139]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960710
-[1140]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960766
-[1141]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960712
-[1142]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM325304
-[1143]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM325307
-[1144]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1629380
-[1145]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960767
-[1146]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960768
-[1147]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM403276
-[1148]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM206966
-[1149]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427252
-[1150]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM424421
-[1151]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310921
-[1152]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92747
-[1153]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41958
-[1154]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM206997
-[1155]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427253
-[1156]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69705
-[1157]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM206998
-[1158]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41959
-[1159]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM424422
-[1160]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92748
-[1161]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69710
-[1162]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM259633
-[1163]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324307
-[1164]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92749
-[1165]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324308
-[1166]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70181
-[1167]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70184
-[1168]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM207513
-[1169]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM281812
-[1170]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM129109
-[1171]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69821
-[1172]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1102349
-[1173]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69824
-[1174]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM106995
-[1175]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69828
-[1176]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM209442
-[1177]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310923
-[1178]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41961
-[1179]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4356307
-[1180]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2136770
-[1181]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4355336
-[1182]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2136781
-[1183]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2136815
-[1184]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2136883
-[1185]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4356311
-[1186]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM292880
-[1187]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2136542
-[1188]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2136771
-[1189]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2136877
-[1190]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2136888
-[1191]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2136896
-[1192]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69832
-[1193]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2136986
-[1194]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112716
-[1195]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3360071
-[1196]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3360073
-[1197]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3360074
-[1198]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM207501
-[1199]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310924
-[1200]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2136845
-[1201]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2136842
-[1202]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2136860
-[1203]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM207502
-[1204]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2136987
-[1205]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68556
-[1206]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69852
-[1207]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM206980
-[1208]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM207503
-[1209]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM259635
-[1210]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112717
-[1211]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39969
-[1212]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427254
-[1213]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41963
-[1214]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41964
-[1215]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69856
-[1216]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41966
-[1217]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2136878
-[1218]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69860
-[1219]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41967
-[1220]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41968
-[1221]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM394191
-[1222]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69720
-[1223]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69726
-[1224]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69729
-[1225]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69733
-[1226]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69736
-[1227]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69739
-[1228]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69742
-[1229]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM207500
-[1230]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70135
-[1231]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70243
-[1232]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM207515
-[1233]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39970
-[1234]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70141
-[1235]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70144
-[1236]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39971
-[1237]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70148
-[1238]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM238670
-[1239]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70151
-[1240]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70155
-[1241]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM207509
-[1242]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3360067
-[1243]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39972
-[1244]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3359902
-[1245]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70189
-[1246]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70194
-[1247]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM277414
-[1248]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3360059
-[1249]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112720
-[1250]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39974
-[1251]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70212
-[1252]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39975
-[1253]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39976
-[1254]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70218
-[1255]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70222
-[1256]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM259639
-[1257]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM277416
-[1258]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92750
-[1259]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70231
-[1260]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70236
-[1261]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70239
-[1262]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM135341
-[1263]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM135350
-[1264]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM238673
-[1265]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39978
-[1266]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112722
-[1267]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41969
-[1268]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427255
-[1269]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324310
-[1270]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310925
-[1271]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM395394
-[1272]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM137267
-[1273]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112723
-[1274]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM311346
-[1275]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39979
-[1276]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM372296
-[1277]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310926
-[1278]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310927
-[1279]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324311
-[1280]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112739
-[1281]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112740
-[1282]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112741
-[1283]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39994
-[1284]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM147411
-[1285]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310928
-[1286]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112742
-[1287]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70263
-[1288]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM207517
-[1289]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39995
-[1290]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70271
-[1291]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39996
-[1292]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3360057
-[1293]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310929
-[1294]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM162942
-[1295]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM40301
-[1296]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM31885
-[1297]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM238674
-[1298]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM238675
-[1299]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402057
-[1300]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402065
-[1301]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM238677
-[1302]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2853309
-[1303]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324312
-[1304]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM387857
-[1305]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM264952
-[1306]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM67910
-[1307]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM206967
-[1308]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM67674
-[1309]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM122579
-[1310]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM67682
-[1311]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM67684
-[1312]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM67687
-[1313]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM67689
-[1314]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM67695
-[1315]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM327381
-[1316]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM67698
-[1317]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68107
-[1318]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM286948
-[1319]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112743
-[1320]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69819
-[1321]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM40314
-[1322]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310930
-[1323]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310931
-[1324]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM40315
-[1325]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324314
-[1326]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM319569
-[1327]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324315
-[1328]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM87622
-[1329]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM162980
-[1330]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310932
-[1331]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324316
-[1332]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310934
-[1333]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41971
-[1334]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM40366
-[1335]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960771
-[1336]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112744
-[1337]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324317
-[1338]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92751
-[1339]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM395578
-[1340]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM442716
-[1341]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2997643
-[1342]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2998573
-[1343]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41972
-[1344]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2998633
-[1345]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70122
-[1346]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM259637
-[1347]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41974
-[1348]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4444108
-[1349]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM31458
-[1350]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70129
-[1351]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310935
-[1352]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4444114
-[1353]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1209435
-[1354]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324318
-[1355]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70127
-[1356]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM40368
-[1357]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM226673
-[1358]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM227327
-[1359]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM227329
-[1360]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM227335
-[1361]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM40369
-[1362]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92752
-[1363]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM40370
-[1364]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324319
-[1365]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960772
-[1366]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69885
-[1367]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM207505
-[1368]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM40376
-[1369]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310936
-[1370]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68526
-[1371]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427260
-[1372]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427261
-[1373]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM67621
-[1374]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM107215
-[1375]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM163182
-[1376]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM206959
-[1377]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM209422
-[1378]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM214653
-[1379]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM242024
-[1380]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM259601
-[1381]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM276690
-[1382]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM281484
-[1383]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM286942
-[1384]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM333543
-[1385]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM339555
-[1386]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM345625
-[1387]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM366848
-[1388]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM368552
-[1389]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70539
-[1390]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM207523
-[1391]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM207524
-[1392]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM259643
-[1393]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM277427
-[1394]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM281816
-[1395]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324771
-[1396]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92784
-[1397]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402093
-[1398]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402096
-[1399]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310943
-[1400]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM116145
-[1401]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM116139
-[1402]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM122066
-[1403]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM122033
-[1404]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM122028
-[1405]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM442578
-[1406]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70253
-[1407]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70500
-[1408]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68547
-[1409]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68698
-[1410]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68802
-[1411]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70200
-[1412]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92760
-[1413]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92765
-[1414]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92766
-[1415]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92767
-[1416]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112745
-[1417]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69197
-[1418]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68689
-[1419]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310937
-[1420]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM56925
-[1421]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM56955
-[1422]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41978
-[1423]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68652
-[1424]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68609
-[1425]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68166
-[1426]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41979
-[1427]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM40395
-[1428]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM56926
-[1429]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69112
-[1430]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427267
-[1431]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402011
-[1432]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402014
-[1433]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM401197
-[1434]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM122061
-[1435]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402018
-[1436]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402024
-[1437]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM424424
-[1438]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92772
-[1439]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM40397
-[1440]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402021
-[1441]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427268
-[1442]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402027
-[1443]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402031
-[1444]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402035
-[1445]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM40398
-[1446]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM239998
-[1447]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402039
-[1448]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402043
-[1449]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402047
-[1450]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402051
-[1451]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM56937
-[1452]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM56927
-[1453]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM306002
-[1454]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402890
-[1455]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402892
-[1456]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402894
-[1457]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402896
-[1458]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402898
-[1459]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM403200
-[1460]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM403202
-[1461]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM305692
-[1462]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310938
-[1463]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM216839
-[1464]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69147
-[1465]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427269
-[1466]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM441528
-[1467]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM56933
-[1468]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41013
-[1469]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM424425
-[1470]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM426775
-[1471]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM360073
-[1472]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM290893
-[1473]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM284601
-[1474]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310944
-[1475]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2433303
-[1476]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM365608
-[1477]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM311599
-[1478]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM365637
-[1479]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3188918
-[1480]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2282510
-[1481]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM426776
-[1482]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4896353
-[1483]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3941111
-[1484]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3188919
-[1485]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM284602
-[1486]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM210137
-[1487]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM186337
-[1488]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM129941
-[1489]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM157519
-[1490]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM76403
-[1491]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4896346
-[1492]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4362137
-[1493]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3346806
-[1494]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3188906
-[1495]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1503403
-[1496]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1151306
-[1497]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM426777
-[1498]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM404966
-[1499]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM360075
-[1500]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM290894
-[1501]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM284603
-[1502]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM249185
-[1503]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM210138
-[1504]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM186338
-[1505]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM157520
-[1506]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM129942
-[1507]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41981
-[1508]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4356313
-[1509]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM426778
-[1510]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM183457
-[1511]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324320
-[1512]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM424428
-[1513]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427270
-[1514]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM238681
-[1515]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310945
-[1516]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM264798
-[1517]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM334659
-[1518]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310742
-[1519]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM306011
-[1520]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310947
-[1521]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39248
-[1522]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310544
-[1523]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM341357
-[1524]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1444800
-[1525]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4444100
-[1526]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2998516
-[1527]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2998515
-[1528]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2998532
-[1529]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[1530]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4896356
-[1531]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4362141
-[1532]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960721
-[1533]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3941105
-[1534]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3346800
-[1535]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3188912
-[1536]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2853221
-[1537]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2282504
-[1538]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1629382
-[1539]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1503405
-[1540]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1209425
-[1541]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1151300
-[1542]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM441519
-[1543]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM426767
-[1544]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM404958
-[1545]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM360067
-[1546]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM290887
-[1547]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM264792
-[1548]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324118
-[1549]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM238658
-[1550]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM249179
-[1551]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM210131
-[1552]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM186329
-[1553]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM183451
-[1554]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM147405
-[1555]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM157513
-[1556]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM129932
-[1557]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM75897
-[1558]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112170
-[1559]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92716
-[1560]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM56394
-[1561]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41064
-[1562]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427920
-[1563]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427229
-[1564]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM424408
+[777]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4929207
+[778]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM238668
+[779]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112179
+[780]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM281432
+[781]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM232560
+[782]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM230272
+[783]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960730
+[784]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324148
+[785]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM67619
+[786]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM53131
+[787]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM53132
+[788]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3955410
+[789]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3213422
+[790]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM53148
+[791]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3956368
+[792]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39293
+[793]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427236
+[794]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39294
+[795]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39296
+[796]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM67943
+[797]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM67955
+[798]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68162
+[799]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM206968
+[800]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM277400
+[801]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM281490
+[802]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427237
+[803]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1444808
+[804]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310566
+[805]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM98974
+[806]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39297
+[807]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM277280
+[808]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM25310
+[809]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69491
+[810]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69869
+[811]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310567
+[812]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1209432
+[813]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM67918
+[814]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310575
+[815]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39901
+[816]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1209433
+[817]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427238
+[818]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM206978
+[819]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427239
+[820]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68169
+[821]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92725
+[822]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68173
+[823]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68137
+[824]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92726
+[825]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39902
+[826]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92729
+[827]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92730
+[828]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41010
+[829]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310576
+[830]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310580
+[831]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310581
+[832]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM333549
+[833]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69472
+[834]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM60577
+[835]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310582
+[836]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69481
+[837]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39909
+[838]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310584
+[839]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310586
+[840]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM306001
+[841]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69843
+[842]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69487
+[843]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310587
+[844]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310588
+[845]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427243
+[846]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1209434
+[847]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM56904
+[848]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39912
+[849]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112181
+[850]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427244
+[851]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112182
+[852]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310589
+[853]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68148
+[854]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310590
+[855]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310591
+[856]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39916
+[857]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310592
+[858]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310593
+[859]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM56907
+[860]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310594
+[861]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427247
+[862]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310595
+[863]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310596
+[864]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM313035
+[865]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM313038
+[866]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68601
+[867]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM281496
+[868]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427248
+[869]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310598
+[870]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310599
+[871]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310900
+[872]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41085
+[873]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92731
+[874]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41086
+[875]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM56921
+[876]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310901
+[877]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41087
+[878]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310902
+[879]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM358500
+[880]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM356886
+[881]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM358032
+[882]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM358042
+[883]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM358051
+[884]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM358056
+[885]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM358083
+[886]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM356880
+[887]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1441529
+[888]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1441347
+[889]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1440598
+[890]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1440599
+[891]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1440600
+[892]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM358043
+[893]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM67623
+[894]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM311463
+[895]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM312347
+[896]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68626
+[897]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1400100
+[898]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1520575
+[899]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1522997
+[900]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM199363
+[901]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112184
+[902]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM395375
+[903]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1401902
+[904]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1523176
+[905]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112186
+[906]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM206986
+[907]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM259628
+[908]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM281498
+[909]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112187
+[910]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM358058
+[911]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70259
+[912]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM207516
+[913]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39923
+[914]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112189
+[915]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39924
+[916]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39927
+[917]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39929
+[918]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310903
+[919]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68674
+[920]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM206990
+[921]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM312086
+[922]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68578
+[923]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM259626
+[924]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39933
+[925]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112191
+[926]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92732
+[927]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39934
+[928]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310904
+[929]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM162985
+[930]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68660
+[931]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM206989
+[932]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310905
+[933]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2853228
+[934]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39938
+[935]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2853229
+[936]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39940
+[937]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM319999
+[938]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112192
+[939]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310907
+[940]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39945
+[941]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM158825
+[942]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41011
+[943]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM442690
+[944]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310908
+[945]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM442692
+[946]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310909
+[947]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM442698
+[948]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM442701
+[949]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM442703
+[950]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112711
+[951]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310910
+[952]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41088
+[953]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM442696
+[954]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM442720
+[955]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427249
+[956]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM442705
+[957]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM442714
+[958]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM442728
+[959]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3360714
+[960]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM397837
+[961]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM50791
+[962]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM34115
+[963]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69461
+[964]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM36187
+[965]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310911
+[966]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39946
+[967]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41089
+[968]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324149
+[969]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM430220
+[970]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39947
+[971]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310912
+[972]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112713
+[973]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310913
+[974]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69497
+[975]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM286950
+[976]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310914
+[977]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39949
+[978]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM396941
+[979]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39950
+[980]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41090
+[981]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39953
+[982]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41091
+[983]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39954
+[984]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41092
+[985]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM296638
+[986]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69440
+[987]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41094
+[988]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM74092
+[989]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM74807
+[990]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1440300
+[991]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM58316
+[992]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39956
+[993]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM61487
+[994]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41095
+[995]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4444107
+[996]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92733
+[997]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41096
+[998]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69451
+[999]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39957
+[1000]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69448
+[1001]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92735
+[1002]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41097
+[1003]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70167
+[1004]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM207511
+[1005]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70175
+[1006]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39958
+[1007]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69454
+[1008]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM206994
+[1009]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69458
+[1010]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM275026
+[1011]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41099
+[1012]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41901
+[1013]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112714
+[1014]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112715
+[1015]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92736
+[1016]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310915
+[1017]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310916
+[1018]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM5642106
+[1019]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310917
+[1020]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM375884
+[1021]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324152
+[1022]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM315394
+[1023]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM233089
+[1024]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM315701
+[1025]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39959
+[1026]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92738
+[1027]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39961
+[1028]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM196559
+[1029]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM313031
+[1030]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92739
+[1031]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM313042
+[1032]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197126
+[1033]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92740
+[1034]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197131
+[1035]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM267698
+[1036]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM267838
+[1037]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM267840
+[1038]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197133
+[1039]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197137
+[1040]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197139
+[1041]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197141
+[1042]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197142
+[1043]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM267812
+[1044]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197144
+[1045]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197146
+[1046]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92742
+[1047]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39962
+[1048]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197158
+[1049]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197154
+[1050]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39963
+[1051]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197166
+[1052]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197169
+[1053]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197164
+[1054]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197168
+[1055]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM313033
+[1056]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM313623
+[1057]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310918
+[1058]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM196557
+[1059]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM196527
+[1060]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197103
+[1061]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM196530
+[1062]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92743
+[1063]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM196532
+[1064]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39964
+[1065]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92744
+[1066]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM196535
+[1067]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM196538
+[1068]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM196540
+[1069]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM196541
+[1070]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197151
+[1071]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39965
+[1072]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197152
+[1073]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39966
+[1074]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92745
+[1075]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310920
+[1076]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM196542
+[1077]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM196544
+[1078]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM196563
+[1079]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM196978
+[1080]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM196981
+[1081]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM196983
+[1082]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM196986
+[1083]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92746
+[1084]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39967
+[1085]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM197102
+[1086]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39968
+[1087]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM435841
+[1088]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69400
+[1089]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69403
+[1090]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69406
+[1091]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69409
+[1092]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69412
+[1093]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69415
+[1094]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM139130
+[1095]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM139170
+[1096]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69418
+[1097]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM238272
+[1098]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM238503
+[1099]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69421
+[1100]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM407465
+[1101]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69426
+[1102]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69429
+[1103]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69432
+[1104]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM341044
+[1105]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69893
+[1106]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM281810
+[1107]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427250
+[1108]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427251
+[1109]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM430225
+[1110]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM398820
+[1111]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM429089
+[1112]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM430226
+[1113]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324153
+[1114]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM233858
+[1115]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM235220
+[1116]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM235230
+[1117]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960733
+[1118]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960732
+[1119]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960744
+[1120]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM234859
+[1121]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324760
+[1122]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324773
+[1123]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324774
+[1124]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324791
+[1125]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960313
+[1126]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960752
+[1127]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM408335
+[1128]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960753
+[1129]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324783
+[1130]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324784
+[1131]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960315
+[1132]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960754
+[1133]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960318
+[1134]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM236097
+[1135]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960761
+[1136]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960763
+[1137]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960764
+[1138]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960320
+[1139]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960765
+[1140]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960710
+[1141]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960766
+[1142]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960712
+[1143]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM325304
+[1144]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM325307
+[1145]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1629380
+[1146]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960767
+[1147]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960768
+[1148]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM403276
+[1149]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM206966
+[1150]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427252
+[1151]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM424421
+[1152]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310921
+[1153]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92747
+[1154]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41958
+[1155]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM206997
+[1156]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427253
+[1157]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69705
+[1158]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM206998
+[1159]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41959
+[1160]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM424422
+[1161]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92748
+[1162]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69710
+[1163]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM259633
+[1164]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324307
+[1165]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92749
+[1166]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324308
+[1167]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70181
+[1168]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70184
+[1169]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM207513
+[1170]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM281812
+[1171]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM129109
+[1172]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69821
+[1173]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1102349
+[1174]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69824
+[1175]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM106995
+[1176]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69828
+[1177]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM209442
+[1178]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310923
+[1179]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41961
+[1180]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4356307
+[1181]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2136770
+[1182]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4355336
+[1183]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2136781
+[1184]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2136815
+[1185]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2136883
+[1186]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4356311
+[1187]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM292880
+[1188]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2136542
+[1189]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2136771
+[1190]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2136877
+[1191]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2136888
+[1192]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2136896
+[1193]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69832
+[1194]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2136986
+[1195]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112716
+[1196]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3360071
+[1197]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3360073
+[1198]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3360074
+[1199]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM207501
+[1200]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310924
+[1201]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2136845
+[1202]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2136842
+[1203]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2136860
+[1204]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM207502
+[1205]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2136987
+[1206]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68556
+[1207]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69852
+[1208]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM206980
+[1209]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM207503
+[1210]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM259635
+[1211]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112717
+[1212]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39969
+[1213]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427254
+[1214]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41963
+[1215]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41964
+[1216]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69856
+[1217]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41966
+[1218]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2136878
+[1219]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69860
+[1220]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41967
+[1221]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41968
+[1222]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM394191
+[1223]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69720
+[1224]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69726
+[1225]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69729
+[1226]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69733
+[1227]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69736
+[1228]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69739
+[1229]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69742
+[1230]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM207500
+[1231]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70135
+[1232]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70243
+[1233]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM207515
+[1234]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39970
+[1235]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70141
+[1236]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70144
+[1237]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39971
+[1238]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70148
+[1239]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM238670
+[1240]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70151
+[1241]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70155
+[1242]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM207509
+[1243]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3360067
+[1244]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39972
+[1245]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3359902
+[1246]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70189
+[1247]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70194
+[1248]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM277414
+[1249]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3360059
+[1250]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112720
+[1251]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39974
+[1252]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70212
+[1253]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39975
+[1254]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39976
+[1255]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70218
+[1256]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70222
+[1257]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM259639
+[1258]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM277416
+[1259]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92750
+[1260]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70231
+[1261]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70236
+[1262]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70239
+[1263]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM135341
+[1264]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM135350
+[1265]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM238673
+[1266]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39978
+[1267]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112722
+[1268]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41969
+[1269]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427255
+[1270]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324310
+[1271]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310925
+[1272]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM395394
+[1273]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM137267
+[1274]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112723
+[1275]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM311346
+[1276]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39979
+[1277]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM372296
+[1278]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310926
+[1279]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310927
+[1280]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324311
+[1281]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112739
+[1282]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112740
+[1283]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112741
+[1284]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39994
+[1285]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM147411
+[1286]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310928
+[1287]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112742
+[1288]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70263
+[1289]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM207517
+[1290]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39995
+[1291]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70271
+[1292]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39996
+[1293]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3360057
+[1294]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310929
+[1295]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM162942
+[1296]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM40301
+[1297]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM31885
+[1298]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM238674
+[1299]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM238675
+[1300]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402057
+[1301]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402065
+[1302]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM238677
+[1303]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2853309
+[1304]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324312
+[1305]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM387857
+[1306]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM264952
+[1307]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM67910
+[1308]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM206967
+[1309]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM67674
+[1310]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM122579
+[1311]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM67682
+[1312]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM67684
+[1313]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM67687
+[1314]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM67689
+[1315]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM67695
+[1316]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM327381
+[1317]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM67698
+[1318]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68107
+[1319]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM286948
+[1320]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112743
+[1321]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69819
+[1322]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM40314
+[1323]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310930
+[1324]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310931
+[1325]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM40315
+[1326]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324314
+[1327]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM319569
+[1328]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324315
+[1329]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM87622
+[1330]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM162980
+[1331]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310932
+[1332]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324316
+[1333]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310934
+[1334]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41971
+[1335]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM40366
+[1336]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960771
+[1337]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112744
+[1338]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324317
+[1339]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92751
+[1340]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM395578
+[1341]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM442716
+[1342]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2997643
+[1343]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2998573
+[1344]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41972
+[1345]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2998633
+[1346]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70122
+[1347]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM259637
+[1348]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41974
+[1349]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4444108
+[1350]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM31458
+[1351]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70129
+[1352]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310935
+[1353]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4444114
+[1354]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1209435
+[1355]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324318
+[1356]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70127
+[1357]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM40368
+[1358]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM226673
+[1359]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM227327
+[1360]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM227329
+[1361]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM227335
+[1362]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM40369
+[1363]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92752
+[1364]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM40370
+[1365]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324319
+[1366]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960772
+[1367]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69885
+[1368]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM207505
+[1369]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM40376
+[1370]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310936
+[1371]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68526
+[1372]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427260
+[1373]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427261
+[1374]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM67621
+[1375]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM107215
+[1376]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM163182
+[1377]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM206959
+[1378]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM209422
+[1379]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM214653
+[1380]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM242024
+[1381]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM259601
+[1382]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM276690
+[1383]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM281484
+[1384]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM286942
+[1385]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM333543
+[1386]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM339555
+[1387]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM345625
+[1388]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM366848
+[1389]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM368552
+[1390]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70539
+[1391]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM207523
+[1392]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM207524
+[1393]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM259643
+[1394]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM277427
+[1395]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM281816
+[1396]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324771
+[1397]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92784
+[1398]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402093
+[1399]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402096
+[1400]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310943
+[1401]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM116145
+[1402]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM116139
+[1403]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM122066
+[1404]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM122033
+[1405]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM122028
+[1406]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM442578
+[1407]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70253
+[1408]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70500
+[1409]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68547
+[1410]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68698
+[1411]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68802
+[1412]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM70200
+[1413]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92760
+[1414]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92765
+[1415]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92766
+[1416]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92767
+[1417]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112745
+[1418]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69197
+[1419]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68689
+[1420]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310937
+[1421]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM56925
+[1422]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM56955
+[1423]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41978
+[1424]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68652
+[1425]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68609
+[1426]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM68166
+[1427]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41979
+[1428]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM40395
+[1429]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM56926
+[1430]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69112
+[1431]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427267
+[1432]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402011
+[1433]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402014
+[1434]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM401197
+[1435]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM122061
+[1436]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402018
+[1437]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402024
+[1438]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM424424
+[1439]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92772
+[1440]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM40397
+[1441]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402021
+[1442]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427268
+[1443]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402027
+[1444]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402031
+[1445]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402035
+[1446]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM40398
+[1447]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM239998
+[1448]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402039
+[1449]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402043
+[1450]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402047
+[1451]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402051
+[1452]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM56937
+[1453]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM56927
+[1454]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM306002
+[1455]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402890
+[1456]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402892
+[1457]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402894
+[1458]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402896
+[1459]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM402898
+[1460]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM403200
+[1461]: http://www.legislation.govt.nz/act/public/1996/0088/latest/whole.html#DLM403202
+[1462]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM305692
+[1463]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310938
+[1464]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM216839
+[1465]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM69147
+[1466]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427269
+[1467]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM441528
+[1468]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM56933
+[1469]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41013
+[1470]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM424425
+[1471]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM426775
+[1472]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM360073
+[1473]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM290893
+[1474]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM284601
+[1475]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310944
+[1476]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2433303
+[1477]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM365608
+[1478]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM311599
+[1479]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM365637
+[1480]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3188918
+[1481]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2282510
+[1482]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM426776
+[1483]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4896353
+[1484]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3941111
+[1485]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3188919
+[1486]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM284602
+[1487]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM210137
+[1488]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM186337
+[1489]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM129941
+[1490]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM157519
+[1491]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM76403
+[1492]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4896346
+[1493]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4362137
+[1494]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3346806
+[1495]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3188906
+[1496]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1503403
+[1497]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1151306
+[1498]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM426777
+[1499]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM404966
+[1500]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM360075
+[1501]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM290894
+[1502]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM284603
+[1503]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM249185
+[1504]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM210138
+[1505]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM186338
+[1506]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM157520
+[1507]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM129942
+[1508]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41981
+[1509]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4356313
+[1510]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM426778
+[1511]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM183457
+[1512]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324320
+[1513]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM424428
+[1514]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427270
+[1515]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM238681
+[1516]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310945
+[1517]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM264798
+[1518]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM334659
+[1519]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310742
+[1520]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM306011
+[1521]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310947
+[1522]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39248
+[1523]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310544
+[1524]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM341357
+[1525]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1444800
+[1526]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4444100
+[1527]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2998516
+[1528]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2998515
+[1529]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2998532
+[1530]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[1531]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4896356
+[1532]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4362141
+[1533]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960721
+[1534]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3941105
+[1535]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3346800
+[1536]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3188912
+[1537]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2853221
+[1538]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2282504
+[1539]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1629382
+[1540]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1503405
+[1541]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1209425
+[1542]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1151300
+[1543]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM441519
+[1544]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM426767
+[1545]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM404958
+[1546]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM360067
+[1547]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM290887
+[1548]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM264792
+[1549]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324118
+[1550]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM238658
+[1551]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM249179
+[1552]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM210131
+[1553]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM186329
+[1554]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM183451
+[1555]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM147405
+[1556]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM157513
+[1557]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM129932
+[1558]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM75897
+[1559]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112170
+[1560]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92716
+[1561]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM56394
+[1562]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41064
+[1563]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427920
+[1564]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427229
+[1565]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM424408
