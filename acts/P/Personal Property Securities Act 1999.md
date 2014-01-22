@@ -1,5 +1,5 @@
 Reprint  
-as at 1 August 2012
+as at 1 January 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,11 +13,11 @@ Commencementsee section 1(2), (3)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-This Act is administered by the Ministry of Economic Development.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -617,7 +617,7 @@ An Act to reform the law relating to security interests in personal property and
     
     (3) [Section 190][259] comes into force on the day after the date on which this Act receives the Royal assent.
     
-    Section 1(2): Personal Property Securities Act 1999 brought into force, on 1 May 2002, by [clause 2][279] of the Personal Property Securities Act Commencement Order 2002 (SR 2002/60).
+    Section 1(2): this Act brought into force, on 1 May 2002, by [clause 2][279] of the Personal Property Securities Act Commencement Order 2002 (SR 2002/60).
 
 ## Part 1  
 Outline of this Act
@@ -1162,6 +1162,8 @@ Preliminary provisions
         
     *   (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Labour Day, and Waitangi Day; and
     
+    *   (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    
     *   (b) a day in the period commencing on 25 December in any year and,---
             
         *   (i) except in [sections 165][224], [167A][227], [168][228], and [178][245], ending with 2 January in the following year; and
@@ -1198,9 +1200,11 @@ Preliminary provisions
     
     Section 16(1) **related company**: inserted, on 15 April 2004, by [section 5][295] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
     
-    Section 16(1) **working day** paragraph (b)(i): amended, on 13 February 2012, by [section 4][296] of the Personal Property Securities Amendment Act 2011 (2011 No 42).
+    Section 16(1) **working day** paragraph (ab): inserted, on 1 January 2014, by [section 8][296] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
     
-    Section 16(1) **working day** paragraph (b)(ii): amended, on 13 February 2012, by [section 4][296] of the Personal Property Securities Amendment Act 2011 (2011 No 42).
+    Section 16(1) **working day** paragraph (b)(i): amended, on 13 February 2012, by [section 4][297] of the Personal Property Securities Amendment Act 2011 (2011 No 42).
+    
+    Section 16(1) **working day** paragraph (b)(ii): amended, on 13 February 2012, by [section 4][297] of the Personal Property Securities Amendment Act 2011 (2011 No 42).
 
 ##### 17 Meaning of security interest
     
@@ -1226,17 +1230,17 @@ Preliminary provisions
     
 *   For the avoidance of doubt, a beneficial interest in personal property held by a creditor (the _senior creditor_) of a person who has been adjudged bankrupt or put into liquidation (the _insolvent debtor_) is not a security interest if---
         
-    *   (a) the personal property is property that has been distributed by the Official Assignee under the [Insolvency Act 2006][297] or by a liquidator under the [Companies Act 1993][298] to another creditor of the insolvent debtor (the _subordinated creditor_); and
+    *   (a) the personal property is property that has been distributed by the Official Assignee under the [Insolvency Act 2006][298] or by a liquidator under the [Companies Act 1993][299] to another creditor of the insolvent debtor (the _subordinated creditor_); and
     
-    *   (b) the beneficial interest was created or provided for under the terms of a security (as defined in [section 2D][299] of the Securities Act 1978) that is held by the subordinated creditor; and
+    *   (b) the beneficial interest was created or provided for under the terms of a security (as defined in [section 2D][300] of the Securities Act 1978) that is held by the subordinated creditor; and
     
     *   (c) under those terms, the subordinated creditor must hold the personal property on trust for the senior creditor; and
     
     *   (d) the purpose of those terms is to postpone or subordinate the right of the subordinated creditor to the performance of all or any part of an obligation of the insolvent debtor to the right of the senior creditor to the performance of all or any part of another obligation of the insolvent debtor.
     
-    Section 17A: inserted, on 15 April 2004, by [section 6][300] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
+    Section 17A: inserted, on 15 April 2004, by [section 6][301] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
     
-    Section 17A(a): amended, on 3 December 2007, by [section 445][301] of the Insolvency Act 2006 (2006 No 55).
+    Section 17A(a): amended, on 3 December 2007, by [section 445][302] of the Insolvency Act 2006 (2006 No 55).
 
 ##### 18 Meaning of possession in certain cases
     
@@ -1258,7 +1262,7 @@ Preliminary provisions
     
     *   (c) in the case of an emissions unit that is, in the ordinary course of business, held by a nominee, the records of the nominee record the interest of person A in the emissions unit:
     
-    *   (d) in the case of an emissions unit that is a unit as defined in [section 4(1)][283] of the Climate Change Response Act 2002 and to which neither paragraph (b) nor (c) applies, the unit register established under [section 18][302] of the Climate Change Response Act 2002 records person A as the possessor of the unit:
+    *   (d) in the case of an emissions unit that is a unit as defined in [section 4(1)][283] of the Climate Change Response Act 2002 and to which neither paragraph (b) nor (c) applies, the unit register established under [section 18][303] of the Climate Change Response Act 2002 records person A as the possessor of the unit:
     
     *   (e) in the case of an emissions unit that is not a unit as defined in [section 4(1)][283] of the Climate Change Response Act 2002 and to which none of paragraphs (a), (b), or (c) apply, a person who is responsible for recording the holders of emissions units (whether by entry in a register or by any other means) records the interest of person A in the emissions unit.
     
@@ -1274,9 +1278,9 @@ Preliminary provisions
     
     Section 18(1): amended, on 26 September 2008, by [section 81(4)][294] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 18(1A): substituted, on 24 November 2009, by [section 5(1)][303] of the Personal Property Securities Amendment Act 2009 (2009 No 55).
+    Section 18(1A): substituted, on 24 November 2009, by [section 5(1)][304] of the Personal Property Securities Amendment Act 2009 (2009 No 55).
     
-    Section 18(4): added, on 24 November 2009, by [section 5(2)][303] of the Personal Property Securities Amendment Act 2009 (2009 No 55).
+    Section 18(4): added, on 24 November 2009, by [section 5(2)][304] of the Personal Property Securities Amendment Act 2009 (2009 No 55).
 
 ##### 19 Meaning of knowledge
     
@@ -1310,15 +1314,15 @@ Preliminary provisions
     
     (3) For the purposes of this section,---
     
-    _government department_ means an entity named in [Part 1][304] of Schedule 1 of the Ombudsmen Act 1975
+    _government department_ means an entity named in [Part 1][305] of Schedule 1 of the Ombudsmen Act 1975
     
     _organisation_ does not include a government department.
     
     Compare: Personal Property Security Act 1993 s 2(2) (Saskatchewan)
     
-    Section 19(1)(c): added, on 15 April 2004, by [section 7(1)][305] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
+    Section 19(1)(c): added, on 15 April 2004, by [section 7(1)][306] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
     
-    Section 19(3): added, on 15 April 2004, by [section 7(2)][305] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
+    Section 19(3): added, on 15 April 2004, by [section 7(2)][306] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
 
 ##### 20 Registration of financing statement not to constitute notice or knowledge
     
@@ -1346,7 +1350,7 @@ Preliminary provisions
         
     *   (a) the interest of a seller who has shipped goods to a buyer under a negotiable bill of lading or its equivalent to the order of the seller or to the order of an agent of the seller, unless the parties have otherwise evidenced an intention to create or provide for a security interest in the goods:
     
-    *   (b) a lien (except as provided in [Part 8][124]), charge, or other interest in personal property created by any other Act (other than [section 169][306] of the Tax Administration Act 1994 and [sections 169][307] and [184][308] of the Child Support Act 1991) or by operation of any rule of law:
+    *   (b) a lien (except as provided in [Part 8][124]), charge, or other interest in personal property created by any other Act (other than [section 169][307] of the Tax Administration Act 1994 and [sections 169][308] and [184][309] of the Child Support Act 1991) or by operation of any rule of law:
     
     *   (c) any right of set-off (but without limiting the effect of [section 102][138]), netting, or combination of accounts:
     
@@ -1374,33 +1378,33 @@ Preliminary provisions
         
         *   (x) a sale of accounts receivable or chattel paper as part of a sale of a business, unless the seller remains in apparent control of the business after the sale:
         
-        *   (xi) a transfer, assignment, mortgage, or assignment of a mortgage of a ship (within the meaning of the [Ship Registration Act 1992][309]) that exceeds 24 metres register length (within the meaning of that Act), or any share of such a ship:
+        *   (xi) a transfer, assignment, mortgage, or assignment of a mortgage of a ship (within the meaning of the [Ship Registration Act 1992][310]) that exceeds 24 metres register length (within the meaning of that Act), or any share of such a ship:
         
-        *   (xii) a transfer, mortgage, or licence of any management rights (within the meaning of the [Radiocommunications Act 1989][310]):
+        *   (xii) a transfer, mortgage, or licence of any management rights (within the meaning of the [Radiocommunications Act 1989][311]):
         
-        *   (xiii) a transfer or other transaction by way of security in respect of individual transferable quota or transferable term quota (within the meaning of the [Fisheries Act 1983][311]) or a transaction of quota or annual catch entitlements (within the meaning of the [Fisheries Act 1996][312]).
+        *   (xiii) a transfer or other transaction by way of security in respect of individual transferable quota or transferable term quota (within the meaning of the [Fisheries Act 1983][312]) or a transaction of quota or annual catch entitlements (within the meaning of the [Fisheries Act 1996][313]).
         
         
     
     Compare: Personal Property Security Act 1993 s 4 (Saskatchewan)
     
-    Section 23(b): amended, on 25 November 2003, by [section 171][313] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 23(b): amended, on 25 November 2003, by [section 171][314] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 23(c): amended, on 15 April 2004, by [section 8][314] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
+    Section 23(c): amended, on 15 April 2004, by [section 8][315] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
     
-    Section 23(d): repealed, on 1 July 2003, by [section 262][315] of the Local Government Act 2002 (2002 No 84).
+    Section 23(d): repealed, on 1 July 2003, by [section 262][316] of the Local Government Act 2002 (2002 No 84).
 
 ##### 23A Act subject to application of Cape Town Convention and Aircraft Protocol
     
-*   (1) This Act is subject to [section 106][316] of the Civil Aviation Act 1990 (which provides for the primacy of the provisions of the Cape Town Convention and the Aircraft Protocol) and the rest of [Part 12][317] of the Civil Aviation Act 1990 (which implements the Cape Town Convention and the Aircraft Protocol).
+*   (1) This Act is subject to [section 106][317] of the Civil Aviation Act 1990 (which provides for the primacy of the provisions of the Cape Town Convention and the Aircraft Protocol) and the rest of [Part 12][318] of the Civil Aviation Act 1990 (which implements the Cape Town Convention and the Aircraft Protocol).
     
     (2) In this section,---
     
-    _Aircraft Protocol_ has the same meaning as in [section 104(1)][318] of the Civil Aviation Act 1990
+    _Aircraft Protocol_ has the same meaning as in [section 104(1)][319] of the Civil Aviation Act 1990
     
-    _Cape Town Convention_ has the same meaning as in [section 104(1)][318] of the Civil Aviation Act 1990\.
+    _Cape Town Convention_ has the same meaning as in [section 104(1)][319] of the Civil Aviation Act 1990\.
     
-    Section 23A: inserted, on 1 November 2010, by [section 14(1)][319] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
+    Section 23A: inserted, on 1 November 2010, by [section 14(1)][320] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
 
 ##### 24 Application of Act not affected by secured party having title to collateral
     
@@ -1414,7 +1418,7 @@ Preliminary provisions
     
     Compare: Personal Property Security Act 1993 s 65(3), (4) (Saskatchewan)
     
-    Section 25 heading: amended, on 15 April 2004, by [section 9][320] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
+    Section 25 heading: amended, on 15 April 2004, by [section 9][321] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
 
 #### Conflict of laws
 
@@ -1456,7 +1460,7 @@ Preliminary provisions
     
     Compare: Personal Property Security Act 1993 s 5(5) (Saskatchewan)
     
-    Section 28(1): amended, on 15 April 2004, by [section 10][321] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
+    Section 28(1): amended, on 15 April 2004, by [section 10][322] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
 
 ##### 29 Location of debtor for purposes of sections 30 to 33
     
@@ -1812,7 +1816,7 @@ Attachment and perfection of security interests in particular kinds of personal 
     
     Compare: Personal Property Security Act 1993 s 26(1) (Saskatchewan)
     
-    Section 48(b): amended, on 15 April 2004, by [section 11][322] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
+    Section 48(b): amended, on 15 April 2004, by [section 11][323] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
 
 ##### 49 Temporary perfection of security interest in negotiable document of title or goods returned to debtor
     
@@ -1856,7 +1860,7 @@ Attachment and perfection of security interests in particular kinds of personal 
     
     Compare: Personal Property Security Act 1993 s 27(1) (Saskatchewan)
     
-    Section 50(c): amended, on 15 April 2004, by [section 12][323] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
+    Section 50(c): amended, on 15 April 2004, by [section 12][324] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
 
 #### Crops
 
@@ -1871,7 +1875,7 @@ Attachment and perfection of security interests in particular kinds of personal 
 ## Part 5  
 When buyers or lessees of goods or other collateral take goods or other collateral free of security interest
     
-*   Part 5 heading: amended, on 15 April 2004, by [section 13][324] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
+*   Part 5 heading: amended, on 15 April 2004, by [section 13][325] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
 
 ##### 52 Buyer or lessee of collateral takes collateral free of unperfected security interests
     
@@ -1893,7 +1897,7 @@ When buyers or lessees of goods or other collateral take goods or other collater
     
 *   (1) A buyer of goods sold in the ordinary course of business of the seller, and a lessee of goods leased in the ordinary course of business of the lessor, takes the goods free of a security interest that is given by the seller or lessor or that arises under [section 45][63], unless the buyer or lessee knows that the sale or the lease constitutes a breach of the security agreement under which the security interest was created.
     
-    (2) This section prevails over [section 3][325] of the Mercantile Law Act 1908 and [section 27][326] of the Sale of Goods Act 1908 where this section applies and either or both of those sections apply.
+    (2) This section prevails over [section 3][326] of the Mercantile Law Act 1908 and [section 27][327] of the Sale of Goods Act 1908 where this section applies and either or both of those sections apply.
     
     ###### **Example**
     
@@ -1986,7 +1990,7 @@ Additional provisions relating to when buyers or lessees of motor vehicles take 
     
     _consumer_ means any person other than a manufacturer, wholesaler, registered trader, or a finance company
     
-    _finance company_ has the same meaning as in [section 6(1)][327] of the Motor Vehicle Sales Act 2003
+    _finance company_ has the same meaning as in [section 6(1)][328] of the Motor Vehicle Sales Act 2003
     
     _manufacturer_ means a person who engages in the business of manufacturing or assembling motor vehicles
     
@@ -2020,9 +2024,9 @@ Additional provisions relating to when buyers or lessees of motor vehicles take 
         
         
     
-    _registered trader_ means a motor vehicle trader registered under the [Motor Vehicle Sales Act 2003][328]
+    _registered trader_ means a motor vehicle trader registered under the [Motor Vehicle Sales Act 2003][329]
     
-    _used motor vehicle_ has the meaning given to it by [section 6(1)][327] of the Motor Vehicle Sales Act 2003
+    _used motor vehicle_ has the meaning given to it by [section 6(1)][328] of the Motor Vehicle Sales Act 2003
     
     _wholesaler_ means---
         
@@ -2034,19 +2038,19 @@ Additional provisions relating to when buyers or lessees of motor vehicles take 
     
     Section 57 **dealer**: repealed, on 15 December 2003, by [section 145][291] of the Motor Vehicle Sales Act 2003 (2003 No 12).
     
-    Section 57 **finance company**: inserted, on 1 May 2002, by [section 4][329] of the Personal Property Securities Amendment Act 2001 (2001 No 23).
+    Section 57 **finance company**: inserted, on 1 May 2002, by [section 4][330] of the Personal Property Securities Amendment Act 2001 (2001 No 23).
     
     Section 57 **finance company**: amended, on 15 December 2003, by [section 145][291] of the Motor Vehicle Sales Act 2003 (2003 No 12).
     
     Section 57 **fund**: repealed, on 15 December 2003, by [section 145][291] of the Motor Vehicle Sales Act 2003 (2003 No 12).
     
-    Section 57 **manufacturer**: inserted, on 1 May 2002, by [section 4][329] of the Personal Property Securities Amendment Act 2001 (2001 No 23).
+    Section 57 **manufacturer**: inserted, on 1 May 2002, by [section 4][330] of the Personal Property Securities Amendment Act 2001 (2001 No 23).
     
     Section 57 **registered trader**: inserted, on 15 December 2003, by [section 145][291] of the Motor Vehicle Sales Act 2003 (2003 No 12).
     
     Section 57 **used motor vehicle**: inserted, on 15 December 2003, by [section 145][291] of the Motor Vehicle Sales Act 2003 (2003 No 12).
     
-    Section 57 **wholesaler**: added, on 1 May 2002, by [section 4][329] of the Personal Property Securities Amendment Act 2001 (2001 No 23).
+    Section 57 **wholesaler**: added, on 1 May 2002, by [section 4][330] of the Personal Property Securities Amendment Act 2001 (2001 No 23).
     
     Section 57 **wholesaler** paragraph (a): amended, on 15 December 2003, by [section 145][291] of the Motor Vehicle Sales Act 2003 (2003 No 12).
     
@@ -2062,7 +2066,7 @@ Additional provisions relating to when buyers or lessees of motor vehicles take 
     
     *   (c) before the transaction to which the buyer or lessee is a party is completed, the security interest was not,---
             
-        *   (i) in the case of a used motor vehicle, disclosed in accordance with [sections 14][330] and [15][331] of the Motor Vehicle Sales Act 2003; or
+        *   (i) in the case of a used motor vehicle, disclosed in accordance with [sections 14][331] and [15][332] of the Motor Vehicle Sales Act 2003; or
         
         *   (ii) in any other case, disclosed in writing to the buyer or lessee.
         
@@ -2086,7 +2090,7 @@ Additional provisions relating to when buyers or lessees of motor vehicles take 
     
     *   (b) the payment received or to be received by the registered trader from the sale or the lease of the motor vehicle.
     
-    Section 59: substituted, on 1 May 2002, by [section 5][332] of the Personal Property Securities Amendment Act 2001 (2001 No 23).
+    Section 59: substituted, on 1 May 2002, by [section 5][333] of the Personal Property Securities Amendment Act 2001 (2001 No 23).
     
     Section 59 heading: amended, on 15 December 2003, by [section 145][291] of the Motor Vehicle Sales Act 2003 (2003 No 12).
     
@@ -2124,7 +2128,7 @@ Additional provisions relating to when buyers or lessees of motor vehicles take 
         
         
     
-    Section 61: substituted, on 1 May 2002, by [section 6][333] of the Personal Property Securities Amendment Act 2001 (2001 No 23).
+    Section 61: substituted, on 1 May 2002, by [section 6][334] of the Personal Property Securities Amendment Act 2001 (2001 No 23).
     
     Section 61: amended, on 15 December 2003, by [section 145][291] of the Motor Vehicle Sales Act 2003 (2003 No 12).
 
@@ -2182,7 +2186,7 @@ Additional provisions relating to when buyers or lessees of motor vehicles take 
     
     Section 65(1): amended, on 15 December 2003, by [section 145][291] of the Motor Vehicle Sales Act 2003 (2003 No 12).
     
-    Section 65(1)(a): amended, on 15 April 2004, by [section 14][334] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
+    Section 65(1)(a): amended, on 15 April 2004, by [section 14][335] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
     
     Section 65(2): amended, on 15 December 2003, by [section 145][291] of the Motor Vehicle Sales Act 2003 (2003 No 12).
 
@@ -2269,7 +2273,7 @@ Priority between security interests
     
 *   A security agreement may provide for future advances.
     
-    Section 71: substituted, on 1 May 2002, by [section 7][335] of the Personal Property Securities Amendment Act 2001 (2001 No 23).
+    Section 71: substituted, on 1 May 2002, by [section 7][336] of the Personal Property Securities Amendment Act 2001 (2001 No 23).
 
 ##### 72 Priority of security interest applies to all advances
     
@@ -2297,7 +2301,7 @@ Priority between security interests
     
     Compare: Personal Property Security Act 1993 s 34(2)(a) (Saskatchewan)
     
-    Section 73(2): added, on 24 November 2009, by [section 21][336] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 73(2): added, on 24 November 2009, by [section 21][337] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 ##### 74 Priority of purchase money security interest in inventory or its proceeds
     
@@ -2341,7 +2345,7 @@ Priority between security interests
     
     Compare: Personal Property Security Act 1993, s 34(6), (7) (Saskatchewan)
     
-    Section 75A: inserted, on 15 April 2004, by [section 15][337] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
+    Section 75A: inserted, on 15 April 2004, by [section 15][338] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
 
 ##### 76 Priority between purchase money security interests in goods or their proceeds taken by seller, etc
     
@@ -2650,7 +2654,7 @@ Priority of other interests in collateral
     
     Compare: Personal Property Security Act 1993 s 32 (Saskatchewan)
     
-    Section 93 heading: amended, on 15 April 2004, by [section 16][338] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
+    Section 93 heading: amended, on 15 April 2004, by [section 16][339] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
 
 #### Priority of purchasers of money, negotiable instruments, investment securities, and chattel paper
 
@@ -2844,7 +2848,7 @@ Priority of other interests in collateral
     
     Compare: Personal Property Security Act 1993 s 41(1), (2) (Saskatchewan)
     
-    Section 102(1)(b): amended, on 15 April 2004, by [section 17][339] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
+    Section 102(1)(b): amended, on 15 April 2004, by [section 17][340] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
 
 ##### 103 Execution creditor has priority over unperfected security interest
     
@@ -2860,13 +2864,13 @@ Priority of other interests in collateral
     
     Compare: Personal Property Security Act 1993 s 20(1) (Saskatchewan)
     
-    Section 103(1): amended, on 15 April 2004, by [section 18(1)][340] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
+    Section 103(1): amended, on 15 April 2004, by [section 18(1)][341] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
     
-    Section 103(1A): inserted, on 15 April 2004, by [section 18(2)][340] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
+    Section 103(1A): inserted, on 15 April 2004, by [section 18(2)][341] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
 
 #### Priority of interests of certain operators of designated settlement system
     
-*   Heading: added, on 24 November 2009, by [section 22][341] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+*   Heading: added, on 24 November 2009, by [section 22][342] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 ##### 103A Priority of interests of certain operators of designated settlement system
     
@@ -2914,19 +2918,19 @@ Priority of other interests in collateral
     
     (6) In this section,---
     
-    _operator_ means an operator of a designated settlement system who is (and at the time in question remains) specified under [section 156N(3)(c)][342] of the Reserve Bank of New Zealand Act 1989 as being an operator to whom this section applies
+    _operator_ means an operator of a designated settlement system who is (and at the time in question remains) specified under [section 156N(3)(c)][343] of the Reserve Bank of New Zealand Act 1989 as being an operator to whom this section applies
     
     _participant_---
         
     *   (a) means a person who has agreed to participate in a settlement system in accordance with the rules of that system; and
     
-    *   (b) includes an operator of a designated settlement system if the designation under [section 156N(3)(b)][342] of the Reserve Bank of New Zealand Act 1989 so provides
+    *   (b) includes an operator of a designated settlement system if the designation under [section 156N(3)(b)][343] of the Reserve Bank of New Zealand Act 1989 so provides
     
-    _rules_ means the rules of a designated settlement system, as that term is defined in paragraph (b) of the definition of rules in [section 156M][343] of the Reserve Bank of New Zealand Act 1989\.
+    _rules_ means the rules of a designated settlement system, as that term is defined in paragraph (b) of the definition of rules in [section 156M][344] of the Reserve Bank of New Zealand Act 1989\.
     
-    (7) In this section, **designated settlement system** and **settlement** have the meanings given to them by [section 2(1)][344] or [156M][343] of the Reserve Bank of New Zealand Act 1989\.
+    (7) In this section, **designated settlement system** and **settlement** have the meanings given to them by [section 2(1)][345] or [156M][344] of the Reserve Bank of New Zealand Act 1989\.
     
-    Section 103A: added, on 24 November 2009, by [section 22][341] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 103A: added, on 24 November 2009, by [section 22][342] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 ## Part 9  
 Enforcement of security interests
@@ -2955,7 +2959,7 @@ Enforcement of security interests
     
     (2) In subsection (1)(b), _net proceeds_, in relation to a sale of collateral, means net proceeds of the sale after deducting the reasonable costs and expenses of the secured party of, and incidental to, taking possession of, holding, storing, repairing, maintaining, valuing, and preparing the sale of, and selling, the collateral.
     
-    Section 104(1)(b): substituted, on 1 January 2008, by [section 364(1)][345] of the Property Law Act 2007 (2007 No 91).
+    Section 104(1)(b): substituted, on 1 January 2008, by [section 364(1)][346] of the Property Law Act 2007 (2007 No 91).
 
 #### Application
 
@@ -2963,7 +2967,7 @@ Enforcement of security interests
     
 *   This Part applies only to security interests that---
         
-    *   (a) are not security interests in consumer goods to which the [Credit (Repossession) Act 1997][346] applies; and
+    *   (a) are not security interests in consumer goods to which the [Credit (Repossession) Act 1997][347] applies; and
     
     *   (b) are not created or provided for by---
             
@@ -2981,7 +2985,7 @@ Enforcement of security interests
     
 *   This Part does not apply to a receiver within the meaning of [section 2(1)][288] of the Receiverships Act 1993\.
     
-    Section 106: substituted, on 1 May 2002, by [section 8][347] of the Personal Property Securities Amendment Act 2001 (2001 No 23).
+    Section 106: substituted, on 1 May 2002, by [section 8][348] of the Personal Property Securities Amendment Act 2001 (2001 No 23).
 
 ##### 107 When contracting out of certain provisions in this Part permitted
     
@@ -3011,17 +3015,17 @@ Enforcement of security interests
     
     (3) The parties to a security agreement may contract out of the secured party's right to apply to a court for an order in respect of the removal of an accession under [section 128][175].
     
-    (4) The provisions of this section, as in force immediately before the commencement of the [Property Law Act 2007][348], continue to apply to a security agreement that was entered into before that commencement.
+    (4) The provisions of this section, as in force immediately before the commencement of the [Property Law Act 2007][349], continue to apply to a security agreement that was entered into before that commencement.
     
-    Section 107: substituted, on 1 May 2002, by [section 9][349] of the Personal Property Securities Amendment Act 2001 (2001 No 23).
+    Section 107: substituted, on 1 May 2002, by [section 9][350] of the Personal Property Securities Amendment Act 2001 (2001 No 23).
     
-    Section 107(1): amended, on 1 January 2008, by [section 364(1)][345] of the Property Law Act 2007 (2007 No 91).
+    Section 107(1): amended, on 1 January 2008, by [section 364(1)][346] of the Property Law Act 2007 (2007 No 91).
     
-    Section 107(2)(b): repealed, on 1 January 2008, by [section 364(1)][345] of the Property Law Act 2007 (2007 No 91).
+    Section 107(2)(b): repealed, on 1 January 2008, by [section 364(1)][346] of the Property Law Act 2007 (2007 No 91).
     
-    Section 107(2)(j): repealed, on 1 January 2008, by [section 364(1)][345] of the Property Law Act 2007 (2007 No 91).
+    Section 107(2)(j): repealed, on 1 January 2008, by [section 364(1)][346] of the Property Law Act 2007 (2007 No 91).
     
-    Section 107(4): added, on 1 January 2008, by [section 364(1)][345] of the Property Law Act 2007 (2007 No 91).
+    Section 107(4): added, on 1 January 2008, by [section 364(1)][346] of the Property Law Act 2007 (2007 No 91).
 
 #### Rights of secured party to apply collateral in satisfaction of secured obligation
 
@@ -3043,9 +3047,9 @@ Enforcement of security interests
     
     (2) In subsection (1), collateral is _at risk_ if the secured party has reasonable grounds to believe that the collateral has been or will be destroyed, damaged, endangered, disassembled, removed, concealed, sold, or otherwise disposed of contrary to the provisions of the security agreement.
     
-    Compare: 1997 No 85 [s 7][350]; Personal Property Security Act 1993 s 58(2)(a) (Saskatchewan)
+    Compare: 1997 No 85 [s 7][351]; Personal Property Security Act 1993 s 58(2)(a) (Saskatchewan)
     
-    Section 109(1): amended, on 1 January 2008, by [section 364(1)][345] of the Property Law Act 2007 (2007 No 91).
+    Section 109(1): amended, on 1 January 2008, by [section 364(1)][346] of the Property Law Act 2007 (2007 No 91).
 
 ##### 110 Duty of secured party selling collateral to obtain best price reasonably obtainable
     
@@ -3057,7 +3061,7 @@ Enforcement of security interests
     
     *   (c) any person who has given the secured party notice that that person claims an interest in the collateral.
     
-    Compare: 1997 No 85 [s 26(1)][351]
+    Compare: 1997 No 85 [s 26(1)][352]
 
 ##### 110A No defence or indemnity
     
@@ -3067,9 +3071,9 @@ Enforcement of security interests
     
     (3) This section applies despite anything to the contrary in any instrument or in any rule of law.
     
-    Compare: 1952 No 51 [s 103B][352]
+    Compare: 1952 No 51 [s 103B][353]
     
-    Section 110A: inserted, on 1 January 2008, by [section 364(1)][345] of the Property Law Act 2007 (2007 No 91).
+    Section 110A: inserted, on 1 January 2008, by [section 364(1)][346] of the Property Law Act 2007 (2007 No 91).
 
 ##### 111 Apparent possession of certain collateral permitted in some cases
     
@@ -3123,35 +3127,35 @@ Enforcement of security interests
     
     (4) If the security interest is created or provided for by a mortgage over goods,---
         
-    *   (a) [sections 128 to 136][353] of the Property Law Act 2007 apply; and
+    *   (a) [sections 128 to 136][354] of the Property Law Act 2007 apply; and
     
     *   (b) the notice that is given under subsection (1) must be---
             
         *   (i) in the form prescribed by regulations made under that Act (instead of being in the form prescribed by regulations made under this Act); and
         
-        *   (ii) given to the persons referred to in [sections 128 and 130][353] of the Property Law Act 2007 (instead of to the persons referred to in subsection (1)).
+        *   (ii) given to the persons referred to in [sections 128 and 130][354] of the Property Law Act 2007 (instead of to the persons referred to in subsection (1)).
         
         
     
-    (5) In subsection (4), _mortgage_ has the same meaning as in [section 4][354] of the Property Law Act 2007\.
+    (5) In subsection (4), _mortgage_ has the same meaning as in [section 4][355] of the Property Law Act 2007\.
     
     Compare: Personal Property Security Act 1993 s 59(6), (16) (Saskatchewan)
     
-    Section 114(2)(b): amended, on 1 January 2008, by [section 364(1)][345] of the Property Law Act 2007 (2007 No 91).
+    Section 114(2)(b): amended, on 1 January 2008, by [section 364(1)][346] of the Property Law Act 2007 (2007 No 91).
     
-    Section 114(2)(e): substituted, on 1 January 2008, by [section 364(1)][345] of the Property Law Act 2007 (2007 No 91).
+    Section 114(2)(e): substituted, on 1 January 2008, by [section 364(1)][346] of the Property Law Act 2007 (2007 No 91).
     
-    Section 114(2)(f): added, on 1 January 2008, by [section 364(1)][345] of the Property Law Act 2007 (2007 No 91).
+    Section 114(2)(f): added, on 1 January 2008, by [section 364(1)][346] of the Property Law Act 2007 (2007 No 91).
     
-    Section 114(2)(g): added, on 1 January 2008, by [section 364(1)][345] of the Property Law Act 2007 (2007 No 91).
+    Section 114(2)(g): added, on 1 January 2008, by [section 364(1)][346] of the Property Law Act 2007 (2007 No 91).
     
-    Section 114(2)(h): added, on 1 January 2008, by [section 364(1)][345] of the Property Law Act 2007 (2007 No 91).
+    Section 114(2)(h): added, on 1 January 2008, by [section 364(1)][346] of the Property Law Act 2007 (2007 No 91).
     
-    Section 114(3): added, on 1 January 2008, by [section 364(1)][345] of the Property Law Act 2007 (2007 No 91).
+    Section 114(3): added, on 1 January 2008, by [section 364(1)][346] of the Property Law Act 2007 (2007 No 91).
     
-    Section 114(4): added, on 1 January 2008, by [section 364(1)][345] of the Property Law Act 2007 (2007 No 91).
+    Section 114(4): added, on 1 January 2008, by [section 364(1)][346] of the Property Law Act 2007 (2007 No 91).
     
-    Section 114(5): added, on 1 January 2008, by [section 364(1)][345] of the Property Law Act 2007 (2007 No 91).
+    Section 114(5): added, on 1 January 2008, by [section 364(1)][346] of the Property Law Act 2007 (2007 No 91).
 
 ##### 115 Extinguishment of subordinate security interests on sale
     
@@ -3167,7 +3171,7 @@ Enforcement of security interests
     
     *   (c) the balance owing by the secured party to the debtor, or by the debtor to the secured party, as the case may be.
     
-    Compare: 1997 No 85 [s 33][355]
+    Compare: 1997 No 85 [s 33][356]
 
 ##### 116A Secured party selling collateral must pay prior ranking secured parties
     
@@ -3183,9 +3187,9 @@ Enforcement of security interests
     
     (4) In this section, _net proceeds_ has the same meaning as in [section 104(2)][144].
     
-    (5) This section is subject to [sections 153][356] and [154][357] of the Property Law Act 2007\.
+    (5) This section is subject to [sections 153][357] and [154][358] of the Property Law Act 2007\.
     
-    Section 116A: inserted, on 1 January 2008, by [section 364(1)][345] of the Property Law Act 2007 (2007 No 91).
+    Section 116A: inserted, on 1 January 2008, by [section 364(1)][346] of the Property Law Act 2007 (2007 No 91).
 
 ##### 117 Distribution of surplus
     
@@ -3207,11 +3211,11 @@ Enforcement of security interests
     
     (3) Subsection (1) applies despite the extinguishment of a security interest under [section 115][159].
     
-    (4) This section is subject to [sections 153][356] and [154][357] of the Property Law Act 2007\.
+    (4) This section is subject to [sections 153][357] and [154][358] of the Property Law Act 2007\.
     
     Compare: Personal Property Security Act 1993 s 60(2) (Saskatchewan)
     
-    Section 117(4): added, on 1 January 2008, by [section 364(1)][345] of the Property Law Act 2007 (2007 No 91).
+    Section 117(4): added, on 1 January 2008, by [section 364(1)][346] of the Property Law Act 2007 (2007 No 91).
 
 ##### 118 Surplus may be paid into court
     
@@ -3225,7 +3229,7 @@ Enforcement of security interests
     
 *   The persons referred to in [section 117][162] are entitled to recover the amount of any surplus from the secured party.
     
-    Compare: 1997 No 85 [s 34][358]
+    Compare: 1997 No 85 [s 34][359]
 
 #### Retention of collateral by secured party
 
@@ -3393,7 +3397,7 @@ Enforcement of security interests
     
     Compare: Personal Property Security Act 1993 s 62(1)(b) (Saskatchewan)
     
-    Section 133(2): added, on 1 May 2002, by [section 10][359] of the Personal Property Securities Amendment Act 2001 (2001 No 23).
+    Section 133(2): added, on 1 May 2002, by [section 10][360] of the Personal Property Securities Amendment Act 2001 (2001 No 23).
 
 ##### 134 Limit on reinstatement of security agreement
     
@@ -3436,11 +3440,11 @@ Personal property securities register
 
 ##### 136 Appointment of Registrar
     
-*   (1) There must be a Registrar of Personal Property Securities who must be appointed by the Secretary under the [State Sector Act 1988][360].
+*   (1) There must be a Registrar of Personal Property Securities who must be appointed by the Secretary under the [State Sector Act 1988][361].
     
-    (2) The person holding office as Registrar of Companies under the [Companies Act 1993][298], immediately before the commencement of this Act, is deemed to have been appointed as Registrar of Personal Property Securities in accordance with this section.
+    (2) The person holding office as Registrar of Companies under the [Companies Act 1993][299], immediately before the commencement of this Act, is deemed to have been appointed as Registrar of Personal Property Securities in accordance with this section.
     
-    Compare: 1989 No 14 s 4; 1993 No 105 [s 357(4)][361]
+    Compare: 1989 No 14 s 4; 1993 No 105 [s 357(4)][362]
 
 ##### 137 Power of Registrar to delegate
     
@@ -3514,11 +3518,11 @@ Personal property securities register
     
     *   (f) any other data specified in the regulations.
     
-    Section 140(a): substituted, on 20 September 2007, by [section 4(1)][362] of the Personal Property Securities Amendment Act 2007 (2007 No 72).
+    Section 140(a): substituted, on 20 September 2007, by [section 4(1)][363] of the Personal Property Securities Amendment Act 2007 (2007 No 72).
     
-    Section 140(c): substituted, on 20 September 2007, by [section 4(2)][362] of the Personal Property Securities Amendment Act 2007 (2007 No 72).
+    Section 140(c): substituted, on 20 September 2007, by [section 4(2)][363] of the Personal Property Securities Amendment Act 2007 (2007 No 72).
     
-    Section 140(d): amended, on 15 April 2004, by [section 19][363] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
+    Section 140(d): amended, on 15 April 2004, by [section 19][364] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
 
 #### Registration of financing statements
 
@@ -3560,15 +3564,15 @@ Personal property securities register
     
     (2) Subsection (1) does not limit [section 149][203].
     
-    Section 142(1)(a): substituted, on 20 September 2007, by [section 5(1)][364] of the Personal Property Securities Amendment Act 2007 (2007 No 72).
+    Section 142(1)(a): substituted, on 20 September 2007, by [section 5(1)][365] of the Personal Property Securities Amendment Act 2007 (2007 No 72).
     
-    Section 142(1)(b): repealed, on 20 September 2007, by [section 5(1)][364] of the Personal Property Securities Amendment Act 2007 (2007 No 72).
+    Section 142(1)(b): repealed, on 20 September 2007, by [section 5(1)][365] of the Personal Property Securities Amendment Act 2007 (2007 No 72).
     
-    Section 142(1)(d): substituted, on 20 September 2007, by [section 5(2)][364] of the Personal Property Securities Amendment Act 2007 (2007 No 72).
+    Section 142(1)(d): substituted, on 20 September 2007, by [section 5(2)][365] of the Personal Property Securities Amendment Act 2007 (2007 No 72).
     
-    Section 142(1)(e): amended, on 15 April 2004, by [section 20(1)][365] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
+    Section 142(1)(e): amended, on 15 April 2004, by [section 20(1)][366] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
     
-    Section 142(2): added, on 15 April 2004, by [section 20(2)][365] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
+    Section 142(2): added, on 15 April 2004, by [section 20(2)][366] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
 
 ##### 143 When financing statement or financing change statement not to be registered
     
@@ -3612,7 +3616,7 @@ Personal property securities register
     
     Compare: Personal Property Security Act 1993 s 43(11) (New Brunswick)
     
-    Section 148: amended, on 15 April 2004, by [section 21][366] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
+    Section 148: amended, on 15 April 2004, by [section 21][367] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
 
 #### Validity of registrations of financing statements
 
@@ -3794,7 +3798,7 @@ Personal property securities register
     
     Compare: Personal Property Security Act 1993 s 50(7) (New Brunswick)
     
-    Section 167(1): amended, on 1 May 2002, by [section 11][367] of the Personal Property Securities Amendment Act 2001 (2001 No 23).
+    Section 167(1): amended, on 1 May 2002, by [section 11][368] of the Personal Property Securities Amendment Act 2001 (2001 No 23).
 
 ##### 167A Financing change statement consequential on sale effected by court under certain enactments
     
@@ -3804,13 +3808,13 @@ Personal property securities register
     
     *   (b) has been sold or disposed of under---
             
-        *   (i) [section 89][368], [91][369], or [93][370] of the District Courts Act 1947; or
+        *   (i) [section 89][369], [91][370], or [93][371] of the District Courts Act 1947; or
         
-        *   (ii) [section 137(1)][371], [138][372], or [141(3)(b)][373] of the Sentencing Act 2002; or
+        *   (ii) [section 137(1)][372], [138][373], or [141(3)(b)][374] of the Sentencing Act 2002; or
         
-        *   (iii) [section 100L(1)(a)][374] or [100P(1)][375] of the Summary Proceedings Act 1957; or
+        *   (iii) [section 100L(1)(a)][375] or [100P(1)][376] of the Summary Proceedings Act 1957; or
         
-        *   (iv) a sale order issued under rule 17.63 of the [High Court Rules][376].
+        *   (iv) a sale order issued under rule 17.63 of the [High Court Rules][377].
         
         
     
@@ -3836,11 +3840,11 @@ Personal property securities register
     
     *   (b) includes any deputy registrar of the High Court or of a District Court as appropriate.
     
-    Section 167A: inserted, on 13 February 2012 (except as it relates to subparagraphs (i), (ii), and (iv) of section 167A(1)(b)), by [section 5][377] of the Personal Property Securities Amendment Act 2011 (2011 No 42).
+    Section 167A: inserted, on 13 February 2012 (except as it relates to subparagraphs (i), (ii), and (iv) of section 167A(1)(b)), by [section 5][378] of the Personal Property Securities Amendment Act 2011 (2011 No 42).
     
     Section 167A(1)(b)(i): not yet in force.
     
-    Section 167A(1)(b)(ii): brought into force, on 1 August 2012, by [section 5][377] of the Personal Property Securities Amendment Act 2011 (2011 No 42).
+    Section 167A(1)(b)(ii): brought into force, on 1 August 2012, by [section 5][378] of the Personal Property Securities Amendment Act 2011 (2011 No 42).
     
     Section 167A(1)(b)(iv): not yet in force.
 
@@ -3870,11 +3874,11 @@ Personal property securities register
     
     (2) A registration restored under subsection (1) must be regarded as having continued in force throughout the period during which it was incorrectly discharged or removed as if it had not been so discharged or removed.
     
-    Section 169A: inserted, on 15 April 2004, by [section 22][378] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
+    Section 169A: inserted, on 15 April 2004, by [section 22][379] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
 
 #### Removal of data from register and correction of errors or omissions
     
-*   Heading: substituted, on 15 April 2004, by [section 23][379] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
+*   Heading: substituted, on 15 April 2004, by [section 23][380] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
 
 ##### 170 Removal of data from register
     
@@ -3898,13 +3902,13 @@ Personal property securities register
     
     Compare: Personal Property Security Act 1993 s 46 (New Brunswick)
     
-    Section 170: substituted, on 15 April 2004, by [section 23][379] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
+    Section 170: substituted, on 15 April 2004, by [section 23][380] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
 
 ##### 170A Correction of errors or omissions
     
 *   The Registrar may, with the consent of the secured party, correct any clerical error or omission made by the Registrar in a registration.
     
-    Section 170A: inserted, on 15 April 2004, by [section 23][379] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
+    Section 170A: inserted, on 15 April 2004, by [section 23][380] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
 
 #### Searches of register
 
@@ -3922,7 +3926,7 @@ Personal property securities register
     
     *   (c) the name and date of birth of the debtor:
     
-    *   (d) if the debtor is a company, the unique number assigned to the company by the Registrar of Companies on the registration of the company under the [Companies Act 1993][298]:
+    *   (d) if the debtor is a company, the unique number assigned to the company by the Registrar of Companies on the registration of the company under the [Companies Act 1993][299]:
     
     *   (e) if collateral is required by this Act or by the regulations to be described by serial number in a financing statement, the serial number of the collateral:
     
@@ -3930,15 +3934,15 @@ Personal property securities register
     
     *   (g) any other criteria specified in the regulations.
     
-    Section 172(b): substituted, on 20 September 2007, by [section 6][380] of the Personal Property Securities Amendment Act 2007 (2007 No 72).
+    Section 172(b): substituted, on 20 September 2007, by [section 6][381] of the Personal Property Securities Amendment Act 2007 (2007 No 72).
     
-    Section 172(e): amended, on 15 April 2004, by [section 24][381] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
+    Section 172(e): amended, on 15 April 2004, by [section 24][382] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
 
 ##### 173 Search purposes, etc
     
 *   A search of the register may be carried out only by the following persons for the following purposes:
         
-    *   (a) an individual, or a person with the consent of the individual, for the purpose of searching for information about that individual in accordance with the [Privacy Act 1993][382]:
+    *   (a) an individual, or a person with the consent of the individual, for the purpose of searching for information about that individual in accordance with the [Privacy Act 1993][383]:
     
     *   (b) a debtor or secured party for a purpose that relates to the debtor's or secured party's security interest in respect of which a financing statement has been registered:
     
@@ -3976,19 +3980,19 @@ Personal property securities register
     
     *   (l) a person for the purpose of advising another person in connection with any of the purposes referred to in paragraphs (a) to (ka).
     
-    Section 173(c)(iia): inserted, on 15 April 2004, by [section 25(1)][383] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
+    Section 173(c)(iia): inserted, on 15 April 2004, by [section 25(1)][384] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
     
-    Section 173(c)(iv): added, on 15 April 2004, by [section 25(2)][383] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
+    Section 173(c)(iv): added, on 15 April 2004, by [section 25(2)][384] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
     
-    Section 173(j): amended, on 15 December 2005, by [section 4][384] of the Personal Property Securities Amendment Act 2005 (2005 No 110).
+    Section 173(j): amended, on 15 December 2005, by [section 4][385] of the Personal Property Securities Amendment Act 2005 (2005 No 110).
     
-    Section 173(ka): inserted, on 20 September 2007, by [section 7(1)][385] of the Personal Property Securities Amendment Act 2007 (2007 No 72).
+    Section 173(ka): inserted, on 20 September 2007, by [section 7(1)][386] of the Personal Property Securities Amendment Act 2007 (2007 No 72).
     
-    Section 173(l): amended, on 20 September 2007, by [section 7(2)][385] of the Personal Property Securities Amendment Act 2007 (2007 No 72).
+    Section 173(l): amended, on 20 September 2007, by [section 7(2)][386] of the Personal Property Securities Amendment Act 2007 (2007 No 72).
 
 ##### 174 When search constitutes interference with privacy of individual
     
-*   A search of the register for personal information that has not been carried out in accordance with [sections 171 to 173][235] constitutes an action that is an interference with the privacy of an individual under [section 66][386] of the Privacy Act 1993\.
+*   A search of the register for personal information that has not been carried out in accordance with [sections 171 to 173][235] constitutes an action that is an interference with the privacy of an individual under [section 66][387] of the Privacy Act 1993\.
     
     Compare: Personal Property Security Act 1993 s 48(1), (2) (New Brunswick)
 
@@ -4031,7 +4035,7 @@ Miscellaneous
     
     Compare: Personal Property Security Act 1993 s 18(2) (Saskatchewan)
     
-    Section 177(1)(c): amended, on 15 April 2004, by [section 26][387] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
+    Section 177(1)(c): amended, on 15 April 2004, by [section 26][388] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
 
 ##### 178 Time for complying with request
     
@@ -4089,9 +4093,9 @@ Miscellaneous
     
     *   (b) notices or other documents served or given in accordance with another procedure specified in the security agreement for serving or giving notices or other documents.
     
-    Compare: 1989 No 14 s 64; 1997 No 85 [s 38][388]
+    Compare: 1989 No 14 s 64; 1997 No 85 [s 38][389]
     
-    Section 184(a): amended, on 15 December 2005, by [section 5][389] of the Personal Property Securities Amendment Act 2005 (2005 No 110).
+    Section 184(a): amended, on 15 December 2005, by [section 5][390] of the Personal Property Securities Amendment Act 2005 (2005 No 110).
 
 ##### 185 Method of service of notices, etc
     
@@ -4107,19 +4111,19 @@ Miscellaneous
     
     (2) If the person is deceased, it may be served on or given to that person's personal representatives.
     
-    Compare: 1989 No 14 s 64; 1997 No 85 [s 38][388]
+    Compare: 1989 No 14 s 64; 1997 No 85 [s 38][389]
 
 ##### 186 Court may make order concerning service of notice, etc
     
 *   Despite anything in [section 185][253], a court may in any case make an order directing the manner in which any notice or other document is to be served or given, or dispensing with the service or giving of the notice or document.
     
-    Compare: 1989 No 14 s 64; 1997 No 85 [s 38][388]
+    Compare: 1989 No 14 s 64; 1997 No 85 [s 38][389]
 
 ##### 187 How to effect service of notice, etc, by post
     
 *   If any notice or other document is sent to any person by post, it is deemed to have been delivered to that person at the time when the letter would in the ordinary course of post be delivered and, in proving the delivery, it is sufficient to prove that the letter was properly addressed and posted.
     
-    Compare: 1989 No 14 s 64; 1997 No 85 [s 38][388]
+    Compare: 1989 No 14 s 64; 1997 No 85 [s 38][389]
 
 ##### 188 How to effect service of notice, etc, by facsimile
     
@@ -4232,7 +4236,7 @@ Transitional provisions
     
     _prior law_ means the law that existed immediately before the commencement of this Act
     
-    _prior registration law_ means the Chattels Transfer Act 1924, the [Industrial and Provident Societies Amendment Act 1952][390], the Motor Vehicle Securities Act 1989, and the Companies (Registration of Charges) Act 1993, as in force immediately before the commencement of this Act
+    _prior registration law_ means the Chattels Transfer Act 1924, the [Industrial and Provident Societies Amendment Act 1952][391], the Motor Vehicle Securities Act 1989, and the Companies (Registration of Charges) Act 1993, as in force immediately before the commencement of this Act
     
     _prior security interest_---
         
@@ -4268,7 +4272,7 @@ Transitional provisions
     
     A retention of title clause.
     
-    Section 196: amended, on 15 April 2004, by [section 27][391] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
+    Section 196: amended, on 15 April 2004, by [section 27][392] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
 
 ##### 197 Prior security interests to be perfected during transitional period
     
@@ -4280,7 +4284,7 @@ Transitional provisions
     
     (2) If a prior security interest that is deemed to be an unperfected security interest under subsection (1) is perfected after the close of the transitional period, that perfection is only effective from the time of that perfection.
     
-    Section 198(2): added, on 15 April 2004, by [section 28][392] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
+    Section 198(2): added, on 15 April 2004, by [section 28][393] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
 
 ##### 199 Time of registration of certain prior security interests
     
@@ -4290,11 +4294,11 @@ Transitional provisions
     
     *   (b) the date that the security interest was created (where the prior security interest is deemed to be perfected by registration under [section 196][268]).
     
-    Section 199: substituted, on 1 May 2002, by [section 12][393] of the Personal Property Securities Amendment Act 2001 (2001 No 23).
+    Section 199: substituted, on 1 May 2002, by [section 12][394] of the Personal Property Securities Amendment Act 2001 (2001 No 23).
     
-    Section 199(a): amended, on 15 April 2004, by [section 29][394] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
+    Section 199(a): amended, on 15 April 2004, by [section 29][395] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
     
-    Section 199(b): amended, on 15 April 2004, by [section 29][394] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
+    Section 199(b): amended, on 15 April 2004, by [section 29][395] of the Personal Property Securities Amendment Act 2004 (2004 No 30).
 
 #### Priority of prior security interests
 
@@ -4345,55 +4349,55 @@ Acts amended
 
 [s 191(1)][260]
 
-*   Schedule 1: substituted, on 1 May 2002, by [section 13][395] of the Personal Property Securities Amendment Act 2001 (2001 No 23).
+*   Schedule 1: substituted, on 1 May 2002, by [section 13][396] of the Personal Property Securities Amendment Act 2001 (2001 No 23).
 
 ##### Administration Act 1969 (1969 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][396]._
+_Amendment(s) incorporated in the [Act(s)][397]._
 
 ##### Building Societies Act 1965 (1965 No 22)
 
-_Amendment(s) incorporated in the [Act(s)][397]._
+_Amendment(s) incorporated in the [Act(s)][398]._
 
 ##### Child Support Act 1991 (1991 No 142)
 
-_Amendment(s) incorporated in the [Act(s)][398]._
+_Amendment(s) incorporated in the [Act(s)][399]._
 
 ##### Companies Act 1993 (1993 No 105)
 
-_Amendment(s) incorporated in the [Act(s)][298]._
+_Amendment(s) incorporated in the [Act(s)][299]._
 
 ##### Corporations (Investigation and Management) Act 1989 (1989 No 11)
 
-_Amendment(s) incorporated in the [Act(s)][399]._
+_Amendment(s) incorporated in the [Act(s)][400]._
 
 ##### Criminal Justice Act 1985 (1985 No 120)
 
-_Amendment(s) incorporated in the [Act(s)][400]._
+_Amendment(s) incorporated in the [Act(s)][401]._
 
 ##### Designs Act 1953 (1953 No 65)
 
-_Amendment(s) incorporated in the [Act(s)][401]._
+_Amendment(s) incorporated in the [Act(s)][402]._
 
 ##### Goods and Services Tax Act 1985 (1985 No 141)
 
-_Amendment(s) incorporated in the [Act(s)][402]._
+_Amendment(s) incorporated in the [Act(s)][403]._
 
 ##### Income Tax Act 1994 (1994 No 164)
 
-_Amendment(s) incorporated in the [Act(s)][403]._
+_Amendment(s) incorporated in the [Act(s)][404]._
 
 ##### Industrial and Provident Societies Amendment Act 1952 (1952 No 45)
 
-_Amendment(s) incorporated in the [Act(s)][390]._
+_Amendment(s) incorporated in the [Act(s)][391]._
 
 ##### Layby Sales Act 1971 (1971 No 80)
 
-_Amendment(s) incorporated in the [Act(s)][404]._
+_Amendment(s) incorporated in the [Act(s)][405]._
 
 ##### Mercantile Law Act 1908 (1908 No 117)
 
-_Amendment(s) incorporated in the [Act(s)][405]._
+_Amendment(s) incorporated in the [Act(s)][406]._
 
 ##### Motor Vehicle Dealers Act 1975 (1975 No 127)
 
@@ -4401,47 +4405,47 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Patents Act 1953 (1953 No 64)
 
-_Amendment(s) incorporated in the [Act(s)][406]._
+_Amendment(s) incorporated in the [Act(s)][407]._
 
 ##### Privacy Act 1993 (1993 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][382]._
+_Amendment(s) incorporated in the [Act(s)][383]._
 
 ##### Property Law Act 1952 (1952 No 51)
 
-_Amendment(s) incorporated in the [Act(s)][407]._
+_Amendment(s) incorporated in the [Act(s)][408]._
 
 ##### Radiocommunications Act 1989 (1989 No 148)
 
-_Amendment(s) incorporated in the [Act(s)][310]._
+_Amendment(s) incorporated in the [Act(s)][311]._
 
 ##### Reserve Bank of New Zealand Act 1989 (1989 No 157)
 
-_Amendment(s) incorporated in the [Act(s)][408]._
+_Amendment(s) incorporated in the [Act(s)][409]._
 
 ##### Resource Management Act 1991 (1991 No 69)
 
-_Amendment(s) incorporated in the [Act(s)][409]._
+_Amendment(s) incorporated in the [Act(s)][410]._
 
 ##### Rural Intermediate Credit Act 1927 (1927 No 45)
 
-_Amendment(s) incorporated in the [Act(s)][410]._
+_Amendment(s) incorporated in the [Act(s)][411]._
 
 ##### Sale of Goods Act 1908 (1908 No 168)
 
-_Amendment(s) incorporated in the [Act(s)][411]._
+_Amendment(s) incorporated in the [Act(s)][412]._
 
 ##### Summary Proceedings Act 1957 (1957 No 87)
 
-_Amendment(s) incorporated in the [Act(s)][412]._
+_Amendment(s) incorporated in the [Act(s)][413]._
 
 ##### Tax Administration Act 1994 (1994 No 166)
 
-_Amendment(s) incorporated in the [Act(s)][413]._
+_Amendment(s) incorporated in the [Act(s)][414]._
 
 ##### Trustee Act 1956 (1956 No 61)
 
-_Amendment(s) incorporated in the [Act(s)][414]._
+_Amendment(s) incorporated in the [Act(s)][415]._
 
 ---
 
@@ -4450,11 +4454,11 @@ Regulations amended
 
 [s 191(2)][260]
 
-*   Schedule 2: substituted, on 1 May 2002, by [section 13][395] of the Personal Property Securities Amendment Act 2001 (2001 No 23).
+*   Schedule 2: substituted, on 1 May 2002, by [section 13][396] of the Personal Property Securities Amendment Act 2001 (2001 No 23).
 
 ##### Domestic Violence (Public Registers) Regulations 1998 (SR 1998/342)
 
-_Amendment(s) incorporated in the [regulations][415]._
+_Amendment(s) incorporated in the [regulations][416]._
 
 ---
 
@@ -4499,27 +4503,27 @@ Enactments repealed
 
 ##### Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16)
 
-_Amendment(s) incorporated in the [Act(s)][416]._
+_Amendment(s) incorporated in the [Act(s)][417]._
 
 ##### Credit (Repossession) Act 1997 (1997 No 85)
 
-_Amendment(s) incorporated in the [Act(s)][346]._
+_Amendment(s) incorporated in the [Act(s)][347]._
 
 ##### Department of Justice (Restructuring) Act 1995 (1995 No 39)
 
-_Amendment(s) incorporated in the [Act(s)][417]._
+_Amendment(s) incorporated in the [Act(s)][418]._
 
 ##### Industrial and Provident Societies Amendment Act 1952 (1952 No 45)
 
-_Amendment(s) incorporated in the [Act(s)][390]._
+_Amendment(s) incorporated in the [Act(s)][391]._
 
 ##### Judicature Act 1908 (1908 No 89) (RS Vol 22, p 107)
 
-_Amendment(s) incorporated in the [Act(s)][418]._
+_Amendment(s) incorporated in the [Act(s)][419]._
 
 ##### Maritime Transport Act 1994 (1994 No 104)
 
-_Amendment(s) incorporated in the [Act(s)][419]._
+_Amendment(s) incorporated in the [Act(s)][420]._
 
 ##### Motor Vehicle Securities Act 1989 (1989 No 14)
 
@@ -4531,31 +4535,31 @@ _Amendment(s) incorporated in the [Act(s)][419]._
 
 ##### Radiocommunications Act 1989 (1989 No 148)
 
-_Amendment(s) incorporated in the [Act(s)][310]._
+_Amendment(s) incorporated in the [Act(s)][311]._
 
 ##### Ship Registration Act 1992 (1992 No 89)
 
-_Amendment(s) incorporated in the [Act(s)][309]._
+_Amendment(s) incorporated in the [Act(s)][310]._
 
 ##### Statutes Amendment Act 1936 (1936 No 58) (RS Vol 15, p 78)
 
-_Amendment(s) incorporated in the [Act(s)][420]._
+_Amendment(s) incorporated in the [Act(s)][421]._
 
 ##### Statutes Amendment Act 1939 (1939 No 39) (RS Vol 15, p 78)
 
-_Amendment(s) incorporated in the [Act(s)][421]._
+_Amendment(s) incorporated in the [Act(s)][422]._
 
 ##### Statutes Amendment Act 1940 (1940 No 18) (RS Vol 15, p 79)
 
-_Amendment(s) incorporated in the [Act(s)][422]._
+_Amendment(s) incorporated in the [Act(s)][423]._
 
 ##### Statutes Amendment Act 1943 (1943 No 20) (RS Vol 15, p 80)
 
-_Amendment(s) incorporated in the [Act(s)][423]._
+_Amendment(s) incorporated in the [Act(s)][424]._
 
 ##### Statutes Amendment Act 1945 (1945 No 40) (RS Vol 15, p 80)
 
-_Amendment(s) incorporated in the [Act(s)][424]._
+_Amendment(s) incorporated in the [Act(s)][425]._
 
 ---
 
@@ -4620,106 +4624,65 @@ Regulations and orders revoked
 
 ##### 
 
-Schedule 4 **Motor Vehicle Securities (Fees) Regulations 1999**: amended, on 1 May 2002, by [section 14(2)][425] of the Personal Property Securities Amendment Act 2001 (2001 No 23).
+Schedule 4 **Motor Vehicle Securities (Fees) Regulations 1999**: amended, on 1 May 2002, by [section 14(2)][426] of the Personal Property Securities Amendment Act 2001 (2001 No 23).
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Personal Properties Securities Act 1999\. The reprint incorporates all the amendments to the Act as at 1 August 2012, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
+*   This is a reprint of the Personal Property Securities Act 1999 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][426] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][427] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][428] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ http://www.pco.parliament.govt.nz/editorial-conventions/ or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][429] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][430] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][427] and [17E][428] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][296]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    [Personal Property Securities Amendment Act 2011][431] (2011 No 42)
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42): [section 14(1)][320]
     
+    [Personal Property Securities Amendment Act 2009][432] (2009 No 55)
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   [Personal Property Securities Amendment Act 2011][429] (2011 No 42)
-    
-    Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42): [section 14(1)][319]
-    
-    [Personal Property Securities Amendment Act 2009][430] (2009 No 55)
-    
-    Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53): [sections 21][336], [22][341]
+    Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53): [sections 21][337], [22][342]
     
     Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85): [section 81][294]
     
-    Property Law Act 2007 (2007 No 91): [section 364(1)][345]
+    Property Law Act 2007 (2007 No 91): [section 364(1)][346]
     
-    [Personal Property Securities Amendment Act 2007][431] (2007 No 72)
+    [Personal Property Securities Amendment Act 2007][433] (2007 No 72)
     
-    Insolvency Act 2006 (2006 No 55): [section 445][301]
+    Insolvency Act 2006 (2006 No 55): [section 445][302]
     
-    [Personal Property Securities Amendment Act 2005][432] (2005 No 110)
+    [Personal Property Securities Amendment Act 2005][434] (2005 No 110)
     
-    [Personal Property Securities Amendment Act 2004][433] (2004 No 30)
+    [Personal Property Securities Amendment Act 2004][435] (2004 No 30)
     
-    Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122): [section 171][313]
+    Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122): [section 171][314]
     
     Motor Vehicle Sales Act 2003 (2003 No 12): [section 145][291]
     
-    Local Government Act 2002 (2002 No 84): [section 262][315]
+    Local Government Act 2002 (2002 No 84): [section 262][316]
     
     Securities Markets Amendment Act 2002 (2002 No 44): [section 30][293]
     
-    [Personal Property Securities Act Commencement Order 2002][434] (SR 2002/60)
+    [Personal Property Securities Act Commencement Order 2002][436] (SR 2002/60)
     
-    [Personal Property Securities Amendment Act 2001][435] (2001 No 23)
+    [Personal Property Securities Amendment Act 2001][437] (2001 No 23)
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1999/0126/latest/whole.html#DLM45902
 [2]: http://www.legislation.govt.nz/act/public/1999/0126/latest/whole.html#DLM45904
 [3]: http://www.legislation.govt.nz/act/public/1999/0126/latest/whole.html#DLM45905
@@ -5015,143 +4978,145 @@ Schedule 4 **Motor Vehicle Securities (Fees) Regulations 1999**: amended, on 1 M
 [293]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM162198
 [294]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM1131412
 [295]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244539
-[296]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM3558102
-[297]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM385298
-[298]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM319569
-[299]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM27268
-[300]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244542
-[301]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM387857
-[302]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM159540
-[303]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM2498324
-[304]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM431205
-[305]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244547
-[306]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM357493
-[307]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM256594
-[308]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM257033
-[309]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM275026
-[310]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM195575
-[311]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM66581
-[312]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM394191
-[313]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM232970
-[314]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244552
-[315]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM174088
-[316]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM215591
-[317]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM3378654
-[318]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM3378200
-[319]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM3005756
-[320]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244553
-[321]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244554
-[322]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244555
-[323]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244556
-[324]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244557
-[325]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM171961
-[326]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM174647
-[327]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM188116
-[328]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM188103
-[329]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM90762
-[330]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM188554
-[331]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM188555
-[332]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM90769
-[333]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM90771
-[334]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244558
-[335]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM90773
-[336]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM2498406
-[337]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244559
-[338]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244562
-[339]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244563
-[340]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244564
-[341]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM1474124
-[342]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM202025
-[343]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM202023
-[344]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM199370
-[345]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM969644
-[346]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM414112
-[347]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM90775
-[348]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM968961
-[349]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM90777
-[350]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM414308
-[351]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM414381
-[352]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM267840
-[353]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM969299
-[354]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM968969
-[355]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM414515
-[356]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM969327
-[357]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM969330
-[358]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM414518
-[359]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM90779
-[360]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM129109
-[361]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM323200
-[362]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM968455
-[363]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244566
-[364]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM968456
-[365]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244567
-[366]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244568
-[367]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM90780
-[368]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244348
-[369]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244353
-[370]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244358
-[371]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM136866
-[372]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM136867
-[373]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM136870
-[374]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM2603838
-[375]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM2603842
-[376]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM147653
-[377]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM3558110
-[378]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244569
-[379]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244571
-[380]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM968457
-[381]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244575
-[382]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM296638
-[383]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244576
-[384]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM362258
-[385]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM968458
-[386]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM297441
-[387]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244577
-[388]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM414535
-[389]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM362259
-[390]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM266518
-[391]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244578
-[392]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244579
-[393]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM90781
-[394]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244580
-[395]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM90783
-[396]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM392629
-[397]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM367767
-[398]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM253150
-[399]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM144263
-[400]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM76615
-[401]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM281070
-[402]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM81034
-[403]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM1184504
-[404]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM405080
-[405]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM171944
-[406]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM280030
-[407]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM267064
-[408]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM199363
-[409]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM230264
-[410]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM203214
-[411]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM173957
-[412]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM310742
-[413]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM348342
-[414]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM304703
-[415]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM264406
-[416]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM328980
-[417]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM367211
-[418]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM144692
-[419]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM334659
-[420]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM221336
-[421]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM228224
-[422]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM229668
-[423]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM236420
-[424]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM238797
-[425]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM90784
-[426]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM195439
-[427]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM195468
-[428]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM195470
-[429]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM3558105
-[430]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM2498313
-[431]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM968448
-[432]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM362248
-[433]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244531
-[434]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM115708
-[435]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM90753
+[296]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM4929207
+[297]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM3558102
+[298]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM385298
+[299]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM319569
+[300]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM27268
+[301]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244542
+[302]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM387857
+[303]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM159540
+[304]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM2498324
+[305]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM431205
+[306]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244547
+[307]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM357493
+[308]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM256594
+[309]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM257033
+[310]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM275026
+[311]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM195575
+[312]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM66581
+[313]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM394191
+[314]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM232970
+[315]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244552
+[316]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM174088
+[317]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM215591
+[318]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM3378654
+[319]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM3378200
+[320]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM3005756
+[321]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244553
+[322]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244554
+[323]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244555
+[324]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244556
+[325]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244557
+[326]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM171961
+[327]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM174647
+[328]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM188116
+[329]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM188103
+[330]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM90762
+[331]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM188554
+[332]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM188555
+[333]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM90769
+[334]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM90771
+[335]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244558
+[336]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM90773
+[337]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM2498406
+[338]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244559
+[339]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244562
+[340]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244563
+[341]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244564
+[342]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM1474124
+[343]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM202025
+[344]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM202023
+[345]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM199370
+[346]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM969644
+[347]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM414112
+[348]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM90775
+[349]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM968961
+[350]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM90777
+[351]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM414308
+[352]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM414381
+[353]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM267840
+[354]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM969299
+[355]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM968969
+[356]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM414515
+[357]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM969327
+[358]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM969330
+[359]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM414518
+[360]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM90779
+[361]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM129109
+[362]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM323200
+[363]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM968455
+[364]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244566
+[365]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM968456
+[366]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244567
+[367]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244568
+[368]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM90780
+[369]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244348
+[370]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244353
+[371]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244358
+[372]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM136866
+[373]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM136867
+[374]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM136870
+[375]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM2603838
+[376]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM2603842
+[377]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM147653
+[378]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM3558110
+[379]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244569
+[380]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244571
+[381]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM968457
+[382]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244575
+[383]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM296638
+[384]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244576
+[385]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM362258
+[386]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM968458
+[387]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM297441
+[388]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244577
+[389]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM414535
+[390]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM362259
+[391]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM266518
+[392]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244578
+[393]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244579
+[394]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM90781
+[395]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244580
+[396]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM90783
+[397]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM392629
+[398]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM367767
+[399]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM253150
+[400]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM144263
+[401]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM76615
+[402]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM281070
+[403]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM81034
+[404]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM1184504
+[405]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM405080
+[406]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM171944
+[407]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM280030
+[408]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM267064
+[409]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM199363
+[410]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM230264
+[411]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM203214
+[412]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM173957
+[413]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM310742
+[414]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM348342
+[415]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM304703
+[416]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM264406
+[417]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM328980
+[418]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM367211
+[419]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM144692
+[420]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM334659
+[421]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM221336
+[422]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM228224
+[423]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM229668
+[424]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM236420
+[425]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM238797
+[426]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM90784
+[427]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM2998516
+[428]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM2998515
+[429]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM2998532
+[430]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[431]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM3558105
+[432]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM2498313
+[433]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM968448
+[434]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM362248
+[435]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM244531
+[436]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM115708
+[437]: http://www.legislation.govt.nz/act/public/1999/0126/latest/link.aspx?id=DLM90753
