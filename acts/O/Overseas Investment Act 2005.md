@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 1 January 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Treasury.
 
@@ -532,6 +532,8 @@ Preliminary provisions
         
     *   (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
     
+    *   (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    
     *   (b) a day in the period commencing with 25 December in a year and ending with 15 January in the following year.
     
     (2) In this Act, a person is _ordinarily resident in New Zealand_ if the person---
@@ -566,7 +568,9 @@ Preliminary provisions
     
     (6) [Section 7][116] of the Companies Act 1993 applies for the purposes of determining under this Act whether a person controls the composition of the governing body of another person as if references in that section to a company, a board, and directors were to a person, a governing body, and members of the governing body, respectively.
     
-    Section 6(2)(a): substituted, at 2 am on 29 November 2010, by [section 406(1)][117] of the Immigration Act 2009 (2009 No 51).
+    Section 6(1) **working day** paragraph (ab): inserted, on 1 January 2014, by [section 8][117] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
+    
+    Section 6(2)(a): substituted, at 2 am on 29 November 2010, by [section 406(1)][118] of the Immigration Act 2009 (2009 No 51).
 
 ##### 7 Who are overseas persons
     
@@ -646,7 +650,7 @@ Preliminary provisions
     
     (4) In this Act, land (_land A_) is _associated land_ in respect of other land (_land B_) if---
         
-    *   (a) land A adjoins land B or, in the case of land on an island listed in [Part 2][118] of Schedule 1, land A and land B are on the same island; and
+    *   (a) land A adjoins land B or, in the case of land on an island listed in [Part 2][119] of Schedule 1, land A and land B are on the same island; and
     
     *   (b) a person owns or controls, or will (as the result of any transaction entered into or to be entered into) own or control, (directly or indirectly) an interest in land A (other than an exempted interest); and
     
@@ -691,7 +695,7 @@ Consent and conditions regime
         
     *   (a) an interest in land if---
             
-        *   (i) the land is sensitive under [Part 1][119] of Schedule 1; and
+        *   (i) the land is sensitive under [Part 1][120] of Schedule 1; and
         
         *   (ii) the interest acquired is a freehold estate or a lease, or any other interest, for a term of 3 years or more (including rights of renewal, whether of the grantor or grantee), and is not an exempted interest; or
         
@@ -779,7 +783,7 @@ Consent and conditions regime
     
     *   (c) the relevant overseas person is, or (if that person is not an individual) all the individuals with control of the relevant overseas person are, of good character:
     
-    *   (d) the relevant overseas person is not, or (if that person is not an individual) each individual with control of the relevant overseas person is not, an individual of a kind referred to in [section 15][120] or [16][121] of the Immigration Act 2009 (which sections list certain persons not eligible for visas or entry permission under that Act):
+    *   (d) the relevant overseas person is not, or (if that person is not an individual) each individual with control of the relevant overseas person is not, an individual of a kind referred to in [section 15][121] or [16][122] of the Immigration Act 2009 (which sections list certain persons not eligible for visas or entry permission under that Act):
     
     *   (e) either subparagraph (i) is met or subparagraph (ii) and (if applicable) subparagraph (iii) are met:
             
@@ -795,7 +799,7 @@ Consent and conditions regime
     
     (2) _See_ [section 19][26] in relation to subsection (1)(c) and (d).
     
-    Section 16(1)(d): substituted, at 2 am on 29 November 2010, by [section 406(1)][117] of the Immigration Act 2009 (2009 No 51).
+    Section 16(1)(d): substituted, at 2 am on 29 November 2010, by [section 406(1)][118] of the Immigration Act 2009 (2009 No 51).
 
 ##### 17 Factors for assessing benefit of overseas investments in sensitive land
     
@@ -835,7 +839,7 @@ Consent and conditions regime
     
     *   (c) whether there are or will be adequate mechanisms in place for---
             
-        *   (i) protecting or enhancing existing areas of significant habitats of trout, salmon, wildlife protected under [section 3][122] of the Wildlife Act 1953, and game as defined in [sections 2(1)][123] of that Act (for example, any 1 or more of the mechanisms referred to in paragraph (b)(i) and (ii)); and
+        *   (i) protecting or enhancing existing areas of significant habitats of trout, salmon, wildlife protected under [section 3][123] of the Wildlife Act 1953, and game as defined in [sections 2(1)][124] of that Act (for example, any 1 or more of the mechanisms referred to in paragraph (b)(i) and (ii)); and
         
         *   (ii) providing, protecting, or improving walking access to those habitats by the public or any section of the public:
         
@@ -845,7 +849,7 @@ Consent and conditions regime
             
         *   (i) conditions for conservation (including maintenance and restoration) and access:
         
-        *   (ii) agreement to support registration of any historic place, historic area, wahi tapu, or wahi tapu area under the [Historic Places Act 1993][124]:
+        *   (ii) agreement to support registration of any historic place, historic area, wahi tapu, or wahi tapu area under the [Historic Places Act 1993][125]:
         
         *   (iii) agreement to execute a heritage covenant:
         
@@ -871,11 +875,11 @@ Consent and conditions regime
     
     *   (c) the relevant overseas person is, or (if that person is not an individual) all the individuals with control of the relevant overseas person are, of good character:
     
-    *   (d) the relevant overseas person is not, or (if that person is not an individual) each individual with control of the relevant overseas person is not, an individual of a kind referred to in [section 15][120] or [16][121] of the Immigration Act 2009 (which sections list certain persons not eligible for visas or entry permission under that Act).
+    *   (d) the relevant overseas person is not, or (if that person is not an individual) each individual with control of the relevant overseas person is not, an individual of a kind referred to in [section 15][121] or [16][122] of the Immigration Act 2009 (which sections list certain persons not eligible for visas or entry permission under that Act).
     
     (2) _See_ [section 19][26] in relation to subsection (1)(c) and (d).
     
-    Section 18(1)(d): substituted, at 2 am on 29 November 2010, by [section 406(1)][117] of the Immigration Act 2009 (2009 No 51).
+    Section 18(1)(d): substituted, at 2 am on 29 November 2010, by [section 406(1)][118] of the Immigration Act 2009 (2009 No 51).
 
 ##### 19 Applying good character and Immigration Act 2009 criteria
     
@@ -885,11 +889,11 @@ Consent and conditions regime
     
     *   (b) any other matter that reflects adversely on the person's fitness to have the particular overseas investment.
     
-    (2) For the purposes of [sections 16(1)(d)][23] and [18(1)(d)][25], an individual is not an individual of a kind referred to in [section 15][120] or [16][121] of the Immigration Act 2009 if a special direction referred to in [section 17(1)(a)][125] of that Act has been made permitting a visa or entry permission to be granted to that individual.
+    (2) For the purposes of [sections 16(1)(d)][23] and [18(1)(d)][25], an individual is not an individual of a kind referred to in [section 15][121] or [16][122] of the Immigration Act 2009 if a special direction referred to in [section 17(1)(a)][126] of that Act has been made permitting a visa or entry permission to be granted to that individual.
     
-    Section 19 heading: amended, at 2 am on 29 November 2010, by [section 406(1)][117] of the Immigration Act 2009 (2009 No 51).
+    Section 19 heading: amended, at 2 am on 29 November 2010, by [section 406(1)][118] of the Immigration Act 2009 (2009 No 51).
     
-    Section 19(2): substituted, at 2 am on 29 November 2010, by [section 406(1)][117] of the Immigration Act 2009 (2009 No 51).
+    Section 19(2): substituted, at 2 am on 29 November 2010, by [section 406(1)][118] of the Immigration Act 2009 (2009 No 51).
 
 ##### 20 Exemptions from farm land offer criterion
     
@@ -999,7 +1003,7 @@ Consent and conditions regime
     
 *   (1) A transaction for which consent is required under this Act and under which the overseas investment has been given effect without that consent---
         
-    *   (a) is not an illegal contract for the purposes of the [Illegal Contracts Act 1970][126]; and
+    *   (a) is not an illegal contract for the purposes of the [Illegal Contracts Act 1970][127]; and
     
     *   (b) is not void only because the overseas investment has been given effect to without the requisite consent or because giving effect to the overseas investment without the requisite consent is an offence; but
     
@@ -1013,7 +1017,7 @@ Consent and conditions regime
     
     (2) On cancellation under this section,---
         
-    *   (a) the court has the same powers as it has under [section 9][127] of the Contractual Remedies Act 1979; and
+    *   (a) the court has the same powers as it has under [section 9][128] of the Contractual Remedies Act 1979; and
     
     *   (b) if the court orders the cancellation on the regulator's application, the court may also make any other order necessary to give effect to the cancellation.
     
@@ -1133,7 +1137,7 @@ Consent and conditions regime
     
 *   (1) The regulator must---
         
-    *   (a) compile and keep a list of reserves and public parks, and other areas described in subsection (2), for which the adjoining land is sensitive under table 2 in [Part 1][119] of Schedule 1; and
+    *   (a) compile and keep a list of reserves and public parks, and other areas described in subsection (2), for which the adjoining land is sensitive under table 2 in [Part 1][120] of Schedule 1; and
     
     *   (b) publish that list on a website maintained by or for the regulator.
     
@@ -1221,9 +1225,9 @@ Consent and conditions regime
     
     *   (b) in the case of a body corporate, to a fine not exceeding $300,000\.
     
-    (3) In imposing a penalty under subsection (2), the court must, if the transaction resulted in an overseas investment in fishing quota and the fishing quota or an interest in it has been forfeited under [section 58][128] or [section 58A][129] of the Fisheries Act 1996, have regard to the effect of the forfeiture on the defendant.
+    (3) In imposing a penalty under subsection (2), the court must, if the transaction resulted in an overseas investment in fishing quota and the fishing quota or an interest in it has been forfeited under [section 58][129] or [section 58A][130] of the Fisheries Act 1996, have regard to the effect of the forfeiture on the defendant.
     
-    Section 42(2): amended, on 1 July 2013, by [section 413][130] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 42(2): amended, on 1 July 2013, by [section 413][131] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 43 Offence of defeating, evading, or circumventing operation of Act
     
@@ -1235,7 +1239,7 @@ Consent and conditions regime
     
     *   (b) in the case of a body corporate, to a fine not exceeding $300,000\.
     
-    Section 43(2): amended, on 1 July 2013, by [section 413][130] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 43(2): amended, on 1 July 2013, by [section 413][131] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 44 Offence of resisting, obstructing, or deceiving
     
@@ -1247,7 +1251,7 @@ Consent and conditions regime
     
     *   (b) in the case of a body corporate, to a fine not exceeding $300,000\.
     
-    Section 44(2): amended, on 1 July 2013, by [section 413][130] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 44(2): amended, on 1 July 2013, by [section 413][131] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 45 Offence of failing to comply with notice, requirement, or condition
     
@@ -1261,9 +1265,9 @@ Consent and conditions regime
     
     (3) \[Repealed\]
     
-    Section 45(2): amended, on 1 July 2013, by [section 413][130] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 45(2): amended, on 1 July 2013, by [section 413][131] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 45(3): repealed, on 1 July 2013, by [section 413][130] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 45(3): repealed, on 1 July 2013, by [section 413][131] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 46 Offence of false or misleading statement or omission
     
@@ -1281,9 +1285,9 @@ Consent and conditions regime
     
     (4) \[Repealed\]
     
-    Section 46(3): amended, on 1 July 2013, by [section 413][130] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 46(3): amended, on 1 July 2013, by [section 413][131] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 46(4): repealed, on 1 July 2013, by [section 413][130] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 46(4): repealed, on 1 July 2013, by [section 413][131] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Powers of court
 
@@ -1413,7 +1417,7 @@ Consent and conditions regime
     
 *   (1) The regulator may apply for a search warrant to search a place or thing.
     
-    (2) The application must be made in the manner provided in [subpart 3][131] of Part 4 of the Search and Surveillance Act 2012 to an issuing officer (within the meaning of [section 3][132] of that Act).
+    (2) The application must be made in the manner provided in [subpart 3][132] of Part 4 of the Search and Surveillance Act 2012 to an issuing officer (within the meaning of [section 3][133] of that Act).
     
     (3) The issuing officer may issue a search warrant if there are reasonable grounds for believing that---
         
@@ -1429,39 +1433,39 @@ Consent and conditions regime
     
     *   (c) a constable.
     
-    (5) The provisions of [Part 4][133] of the Search and Surveillance Act 2012 (except [sections 118][134] and [119][135]) apply.
+    (5) The provisions of [Part 4][134] of the Search and Surveillance Act 2012 (except [sections 118][135] and [119][136]) apply.
     
-    Section 56(2): amended, on 1 October 2012, by [section 286(2)][136] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 56(2): amended, on 1 October 2012, by [section 286(2)][137] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 56(3): amended, on 1 October 2012, by [section 286(3)][136] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 56(3): amended, on 1 October 2012, by [section 286(3)][137] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 56(4): amended, on 1 October 2012, by [section 286(4)][136] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 56(4): amended, on 1 October 2012, by [section 286(4)][137] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 56(4)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][137] of the Policing Act 2008 (2008 No 72).
+    Section 56(4)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][138] of the Policing Act 2008 (2008 No 72).
     
-    Section 56(5): inserted, on 1 October 2012, by [section 286(5)][136] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 56(5): inserted, on 1 October 2012, by [section 286(5)][137] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 57 Form and content of search warrant
     
 *   \[Repealed\]
     
-    Section 57: repealed, on 1 October 2012, by [section 286(6)][136] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 57: repealed, on 1 October 2012, by [section 286(6)][137] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 58 Powers conferred by search warrant
     
 *   \[Repealed\]
     
-    Section 58: repealed, on 1 October 2012, by [section 286(6)][136] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 58: repealed, on 1 October 2012, by [section 286(6)][137] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 59 Requirements when executing search warrant
     
-*   Section 59: repealed, on 1 October 2012, by [section 286(6)][136] of the Search and Surveillance Act 2012 (2012 No 24).
+*   Section 59: repealed, on 1 October 2012, by [section 286(6)][137] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 60 Disposal of things seized under search warrant
     
 *   \[Repealed\]
     
-    Section 60: repealed, on 1 October 2012, by [section 286(6)][136] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 60: repealed, on 1 October 2012, by [section 286(6)][137] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ### Subpart 6---Miscellaneous provisions
 
@@ -1485,7 +1489,7 @@ Consent and conditions regime
         
         
     
-    *   (d) prescribing other factors that the relevant Ministers may apply under [section 17(2)(g)][24] of this Act or under [section 57H][138] of the Fisheries Act 1996:
+    *   (d) prescribing other factors that the relevant Ministers may apply under [section 17(2)(g)][24] of this Act or under [section 57H][139] of the Fisheries Act 1996:
     
     *   (e) prescribing fees and charges to be paid, or the amounts to be charged, a means by which they may be calculated and ascertained, or a rate at which they may be calculated or ascertained, for the purpose of meeting or assisting in meeting costs of Ministers and the regulator in exercising functions and powers, and performing duties, and providing services, under this Act (but also the previous costs of Ministers and the Commission in relation to those matters under the Overseas Investment Act 1973):
     
@@ -1511,7 +1515,7 @@ Consent and conditions regime
 
 ##### 62 Foreshore, seabed, riverbed, or lakebed acquired by the Crown under consent process is not subdivision
     
-*   Nothing in [section 11][139] or [Part 10][140] of the Resource Management Act 1991 applies to---
+*   Nothing in [section 11][140] or [Part 10][141] of the Resource Management Act 1991 applies to---
         
     *   (a) any acquisition by the Crown of land as a direct or indirect consequence of an offer made to the Crown to satisfy [section 17(2)(f)][24]; or
     
@@ -1601,7 +1605,7 @@ Consent and conditions regime
 
 ##### 74 Amendment to Te Ture Whenua Maori Act 1993
     
-*   _Amendment(s) incorporated in the [Act(s)][141]_.
+*   _Amendment(s) incorporated in the [Act(s)][142]_.
 
 #### Consequential amendments
 
@@ -1623,7 +1627,7 @@ Consent and conditions regime
 
 ##### 77 Transitional provision for acts done or begun under previous overseas investment regime
     
-*   (1) In this section, the 1973 Act, the Regulations, [sections 56 to 58][107] of the Fisheries Act 1996, and [section 152(3)][141] of Te Ture Whenua Maori Act 1993, as they were in force immediately before the commencement of [sections 73][93], [74][95], and [76][99], are called the _previous regime_.
+*   (1) In this section, the 1973 Act, the Regulations, [sections 56 to 58][107] of the Fisheries Act 1996, and [section 152(3)][142] of Te Ture Whenua Maori Act 1993, as they were in force immediately before the commencement of [sections 73][93], [74][95], and [76][99], are called the _previous regime_.
     
     (2) The previous regime continues to have effect as if it had not been replaced by this Act (subject to [section 71][90]) for the purpose of---
         
@@ -1631,9 +1635,9 @@ Consent and conditions regime
     
     *   (b) considering and determining any application for consent or exemption under the Regulations that is made before commencement or that relates to a transaction entered into before commencement:
     
-    *   (c) considering and determining any application for a declaration under [section 56(2)][72], or a permission under [section 57][142], of the Fisheries Act 1996 that is made before commencement or that relates to a transaction entered into before commencement:
+    *   (c) considering and determining any application for a declaration under [section 56(2)][72], or a permission under [section 57][143], of the Fisheries Act 1996 that is made before commencement or that relates to a transaction entered into before commencement:
     
-    *   (d) considering and determining an application for confirmation of an alienation under [section 152(3)][141] of Te Ture Whenua Maori Act 1993:
+    *   (d) considering and determining an application for confirmation of an alienation under [section 152(3)][142] of Te Ture Whenua Maori Act 1993:
     
     *   (e) completing any proceedings commenced under the previous regime before commencement.
     
@@ -1659,7 +1663,7 @@ Consent and conditions regime
 
 ##### 79 Transitional provision for permissions, etc, under Fisheries Act 1996
     
-*   (1) This section applies to permissions granted under [section 28Z(9)][143] of the Fisheries Act 1983 or under [section 57(3)][142] of the Fisheries Act 1996, and conditions of those permissions, that are in effect immediately before the commencement of [section 73][93] or that are granted after that commencement by virtue of [section 77(2)][100].
+*   (1) This section applies to permissions granted under [section 28Z(9)][144] of the Fisheries Act 1983 or under [section 57(3)][143] of the Fisheries Act 1996, and conditions of those permissions, that are in effect immediately before the commencement of [section 73][93] or that are granted after that commencement by virtue of [section 77(2)][100].
     
     (2) Those permissions and conditions must be treated as if they were consents granted and conditions applied under this Act.
     
@@ -1689,7 +1693,7 @@ Land is _sensitive_ under this Act if---
 
 non-urban land 5 hectares
 
-land on islands specified in [Part 2][118] of this schedule 0.4 hectares
+land on islands specified in [Part 2][119] of this schedule 0.4 hectares
 
 land on other islands (other than North or South Island, but including the islands adjacent to the North or South Island) ---
 
@@ -1697,13 +1701,13 @@ foreshore or seabed ---
 
 bed of a lake 0.4 hectares
 
-land held for conservation purposes under the [Conservation Act 1987][144] 0.4 hectares
+land held for conservation purposes under the [Conservation Act 1987][145] 0.4 hectares
 
 land that a district plan or proposed district plan under the [Resource Management Act 1991][110] provides is to be used as a reserve, as a public park, for recreation purposes, or as open space 0.4 hectares
 
-land subject to a heritage order, or a requirement for a heritage order, under the [Resource Management Act 1991][110] or by the Historic Places Trust under the [Historic Places Act 1993][124] 0.4 hectares
+land subject to a heritage order, or a requirement for a heritage order, under the [Resource Management Act 1991][110] or by the Historic Places Trust under the [Historic Places Act 1993][125] 0.4 hectares
 
-a historic place, historic area, wahi tapu, or wahi tapu area that is registered or for which there is an application or proposal for registration under the [Historic Places Act 1993][124] 0.4 hectares
+a historic place, historic area, wahi tapu, or wahi tapu area that is registered or for which there is an application or proposal for registration under the [Historic Places Act 1993][125] 0.4 hectares
 
 #### Table 2
 
@@ -1713,26 +1717,26 @@ foreshore 0.2 hectares
 
 bed of a lake 0.4 hectares
 
-land held for conservation purposes under the [Conservation Act 1987][144] (if that conservation land exceeds 0.4 hectares in area) 0.4 hectares
+land held for conservation purposes under the [Conservation Act 1987][145] (if that conservation land exceeds 0.4 hectares in area) 0.4 hectares
 
-any scientific, scenic, historic, or nature reserve under the [Reserves Act 1977][145] that is administered by the Department of Conservation and that exceeds 0.4 hectares in area 0.4 hectares
+any scientific, scenic, historic, or nature reserve under the [Reserves Act 1977][146] that is administered by the Department of Conservation and that exceeds 0.4 hectares in area 0.4 hectares
 
-any regional park created under the [Local Government Act 1974][146] 0.4 hectares
+any regional park created under the [Local Government Act 1974][147] 0.4 hectares
 
 land that is listed, or in a class listed, as a reserve, a public park, or other sensitive area by the regulator under [section 37][46] 0.4 hectares
 
 land that adjoins the sea or a lake and exceeds 0.4 hectares and is 1 of the following types of land:
     
 *   an esplanade reserve or esplanade strip (within the meaning of [section 2(1)][111] of the Resource Management Act 1991); or
-*   a recreation reserve under the [Reserves Act 1977][145]; or
-*   a road (as defined in [section 315(1)][147] of the [Local Government Act 1974][146]); or
-*   a Maori reservation to which [section 340][148] of Te Ture Whenua Maori Act 1993 applies
+*   a recreation reserve under the [Reserves Act 1977][146]; or
+*   a road (as defined in [section 315(1)][148] of the [Local Government Act 1974][147]); or
+*   a Maori reservation to which [section 340][149] of Te Ture Whenua Maori Act 1993 applies
 
 0.4 hectares
 
-land over 0.4 hectares that is subject to a heritage order, or a requirement for a heritage order, under the [Resource Management Act 1991][110] or by the Historic Places Trust under the [Historic Places Act 1993][124] 0.4 hectares
+land over 0.4 hectares that is subject to a heritage order, or a requirement for a heritage order, under the [Resource Management Act 1991][110] or by the Historic Places Trust under the [Historic Places Act 1993][125] 0.4 hectares
 
-land over 0.4 hectares that includes a historic place, historic area, wahi tapu, or wahi tapu area that is registered or for which there is an application or proposal for registration under the [Historic Places Act 1993][124] 0.4 hectares
+land over 0.4 hectares that includes a historic place, historic area, wahi tapu, or wahi tapu area that is registered or for which there is an application or proposal for registration under the [Historic Places Act 1993][125] 0.4 hectares
 
 ## Part 2  
 Specified islands
@@ -1781,15 +1785,15 @@ Amendments to other Acts
 
 ##### Antarctic Marine Living Resources Act 1981 (1981 No 53)
 
-_Amendment(s) incorporated in the [Act(s)][149]_.
+_Amendment(s) incorporated in the [Act(s)][150]_.
 
 ##### Citizenship Act 1977 (1977 No 61)
 
-_Amendment(s) incorporated in the [Act(s)][150]_.
+_Amendment(s) incorporated in the [Act(s)][151]_.
 
 ##### Credit Contracts and Consumer Finance Act 2003 (2003 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][151]_.
+_Amendment(s) incorporated in the [Act(s)][152]_.
 
 ##### Fisheries Act 1996 (1996 No 88)
 
@@ -1797,111 +1801,70 @@ _Amendment(s) incorporated in the [Act(s)][106]_.
 
 ##### Inspector-General of Intelligence and Security Act 1996 (1996 No 47)
 
-_Amendment(s) incorporated in the [Act(s)][152]_.
+_Amendment(s) incorporated in the [Act(s)][153]_.
 
 ##### Official Information Act 1982 (1982 No 156)
 
-_Amendment(s) incorporated in the [Act(s)][153]_.
+_Amendment(s) incorporated in the [Act(s)][154]_.
 
 ##### Public Audit Act 2001 (2001 No 10)
 
-_Amendment(s) incorporated in the [Act(s)][154]_.
+_Amendment(s) incorporated in the [Act(s)][155]_.
 
 ##### Reserve Bank of New Zealand Act 1989 (1989 No 157)
 
-_Amendment(s) incorporated in the [Act(s)][155]_.
+_Amendment(s) incorporated in the [Act(s)][156]_.
 
 ##### Summary Proceedings Act 1957 (1957 No 87)
 
-_Amendment(s) incorporated in the [Act(s)][156]_.
+_Amendment(s) incorporated in the [Act(s)][157]_.
 
 ## Part 2  
 Regulations amended
 
 ##### Fisheries (Registers) Regulations 2001 (SR 2001/187)
 
-_Amendment(s) incorporated in the [regulations][157]_.
+_Amendment(s) incorporated in the [regulations][158]_.
 
 ##### Fisheries (Transfer of Functions, Duties, and Powers to The New Zealand Seafood Industry Council Limited) Order 2001 (SR 2001/282)
 
-_Amendment(s) incorporated in the [order(s)][158]_.
+_Amendment(s) incorporated in the [order(s)][159]_.
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Overseas Investment Act 2005\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][159] ![](/images/external_link.gif).
+*   This is a reprint of the Overseas Investment Act 2005 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][160] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][160] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][161] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][161] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][162] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][163] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][162] and [17E][163] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][117]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Search and Surveillance Act 2012 (2012 No 24): [section 286][137]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][131]
     
+    Immigration Act 2009 (2009 No 51): [section 406(1)][118]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Search and Surveillance Act 2012 (2012 No 24): [section 286][136]
-    
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][130]
-    
-    Immigration Act 2009 (2009 No 51): [section 406(1)][117]
-    
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][137]
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][138]
     
     [Overseas Investment Act Commencement Order 2005][105] (SR 2005/219)
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2005/0082/latest/whole.html#DLM356884
 [2]: http://www.legislation.govt.nz/act/public/2005/0082/latest/whole.html#DLM356885
 [3]: http://www.legislation.govt.nz/act/public/2005/0082/latest/whole.html#DLM356886
@@ -2018,50 +1981,50 @@ _Amendment(s) incorporated in the [order(s)][158]_.
 [114]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM320101
 [115]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM1440300
 [116]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM320102
-[117]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM1441347
-[118]: http://www.legislation.govt.nz/act/public/2005/0082/latest/whole.html#DLM358556
-[119]: http://www.legislation.govt.nz/act/public/2005/0082/latest/whole.html#DLM358553
-[120]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM1440598
-[121]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM1440599
-[122]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM277090
-[123]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM276819
-[124]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM300510
-[125]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM1440600
-[126]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM396434
-[127]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM31589
-[128]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM396325
-[129]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM396329
-[130]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM3360714
-[131]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM2136781
-[132]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM2136542
-[133]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM2136770
-[134]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM2136813
-[135]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM2136815
-[136]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM2137045
-[137]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM1102349
-[138]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM396316
-[139]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM231942
-[140]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM236786
-[141]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM291543
-[142]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM396074
-[143]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM68652
-[144]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM103609
-[145]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM444304
-[146]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM415531
-[147]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM420326
-[148]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM292890
-[149]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM52834
-[150]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM444007
-[151]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM211511
-[152]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM392290
-[153]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM65921
-[154]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM88987
-[155]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM199370
-[156]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM314314
-[157]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM60560
-[158]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM85117
-[159]: http://www.pco.parliament.govt.nz/reprints/
-[160]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM195439
-[161]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[162]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM195468
-[163]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM195470
+[117]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM4929207
+[118]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM1441347
+[119]: http://www.legislation.govt.nz/act/public/2005/0082/latest/whole.html#DLM358556
+[120]: http://www.legislation.govt.nz/act/public/2005/0082/latest/whole.html#DLM358553
+[121]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM1440598
+[122]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM1440599
+[123]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM277090
+[124]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM276819
+[125]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM300510
+[126]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM1440600
+[127]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM396434
+[128]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM31589
+[129]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM396325
+[130]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM396329
+[131]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM3360714
+[132]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM2136781
+[133]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM2136542
+[134]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM2136770
+[135]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM2136813
+[136]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM2136815
+[137]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM2137045
+[138]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM1102349
+[139]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM396316
+[140]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM231942
+[141]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM236786
+[142]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM291543
+[143]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM396074
+[144]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM68652
+[145]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM103609
+[146]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM444304
+[147]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM415531
+[148]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM420326
+[149]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM292890
+[150]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM52834
+[151]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM444007
+[152]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM211511
+[153]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM392290
+[154]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM65921
+[155]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM88987
+[156]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM199370
+[157]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM314314
+[158]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM60560
+[159]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM85117
+[160]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM2998516
+[161]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM2998515
+[162]: http://www.legislation.govt.nz/act/public/2005/0082/latest/link.aspx?id=DLM2998532
+[163]: http://www.pco.parliament.govt.nz/editorial-conventions/
