@@ -1,7 +1,7 @@
 Reprint  
-as at 23 May 2008
+as at 1 January 2014
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Ngāti Tuwharetoa (Bay of Plenty) Claims Settlement Act 2005Public Act2005 No 72
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Justice.
 
@@ -25,336 +25,336 @@ This Act is administered by the Ministry of Justice.
 
 *   [Preamble][1]
 
-[1][2] [Title][2]
+[1][2][][2][Title][2]
 
-[2][3] [Commencement][3]
+[2][3][][3][Commencement][3]
 
 [Part 1][4]  
 [Acknowledgements and apology by the Crown to Ngāti Tuwharetoa (Bay of Plenty), and preliminary provisions][4]
 
-[3][5] [Purpose][5]
+[3][5][][5][Purpose][5]
 
-[4][6] [Act binds the Crown][6]
+[4][6][][6][Act binds the Crown][6]
 
-[5][7] [Outline][7]
+[5][7][][7][Outline][7]
 
-[6][8] [Acknowledgements and apology][8]
+[6][8][][8][Acknowledgements and apology][8]
 
-[7][9] [Text of acknowledgements in Māori---Ngā Whakaaetanga na te Karauna][9]
+[7][9][][9][Text of acknowledgements in Māori---Ngā Whakaaetanga na te Karauna][9]
 
-[8][10] [Text of acknowledgements in English][10]
+[8][10][][10][Text of acknowledgements in English][10]
 
-[9][11] [Text of apology in Māori---Te Whakapaha na te Karauna][11]
+[9][11][][11][Text of apology in Māori---Te Whakapaha na te Karauna][11]
 
-[10][12] [Text of apology in English][12]
+[10][12][][12][Text of apology in English][12]
 
 [Part 2][13]  
 [Interpretation][13]
 
-[11][14] [Interpretation of Act generally][14]
+[11][14][][14][Interpretation of Act generally][14]
 
-[12][15] [Interpretation][15]
+[12][15][][15][Interpretation][15]
 
-[13][16] [Meaning of Ngāti Tuwharetoa (Bay of Plenty)][16]
+[13][16][][16][Meaning of Ngāti Tuwharetoa (Bay of Plenty)][16]
 
-[14][17] [Meaning of Ngāti Tuwharetoa (Bay of Plenty) historical claims][17]
+[14][17][][17][Meaning of Ngāti Tuwharetoa (Bay of Plenty) historical claims][17]
 
 [Part 3][18]  
 [Settlement of historical claims and miscellaneous matters][18]
 
-[Subpart 1][19]---[Settlement of historical claims][19]
+[Subpart 1][19][---][19][Settlement of historical claims][19]
 
 [Jurisdiction of courts, etc, removed][20]
 
-[15][21] [Settlement of Ngāti Tuwharetoa (Bay of Plenty) historical claims final][21]
+[15][21][][21][Settlement of Ngāti Tuwharetoa (Bay of Plenty) historical claims final][21]
 
 [Treaty of Waitangi Act 1975 amended][22]
 
 \[Repealed\]
 
-[16][23] [Jurisdiction of Tribunal to consider claims][23] \[Repealed\]
+[16][23][][23][Jurisdiction of Tribunal to consider claims][23] \[Repealed\]
 
 [Protections no longer apply][24]
 
-[17][25] [Certain enactments do not apply][25]
+[17][25][][25][Certain enactments do not apply][25]
 
-[18][26] [Removal of resumptive memorials][26]
+[18][26][][26][Removal of resumptive memorials][26]
 
-[Subpart 2][27]---[Miscellaneous matters][27]
+[Subpart 2][27][---][27][Miscellaneous matters][27]
 
 [Perpetuities][28]
 
-[19][29] [Rule against perpetuities does not apply][29]
+[19][29][][29][Rule against perpetuities does not apply][29]
 
 [Date when actions or matters must occur][30]
 
-[20][31] [Timing of actions or matters][31]
+[20][31][][31][Timing of actions or matters][31]
 
 [Part 4][32]  
 [Cultural redress][32]
 
-[Subpart 1][33]---[Protocols][33]
+[Subpart 1][33][---][33][Protocols][33]
 
 [General provisions][34]
 
-[21][35] [Authority to issue, amend, or cancel protocols][35]
+[21][35][][35][Authority to issue, amend, or cancel protocols][35]
 
-[22][36] [Protocols subject to the Crown's obligations][36]
+[22][36][][36][Protocols subject to the Crown's obligations][36]
 
-[23][37] [Enforceability of protocols][37]
+[23][37][][37][Enforceability of protocols][37]
 
-[24][38] [Limitation of rights][38]
+[24][38][][38][Limitation of rights][38]
 
 [Noting of certain protocols][39]
 
-[25][40] [Noting of DOC protocol][40]
+[25][40][][40][Noting of DOC protocol][40]
 
-[26][41] [Noting of fisheries protocol][41]
+[26][41][][41][Noting of fisheries protocol][41]
 
-[Subpart 2][42]---[Cultural redress properties][42]
+[Subpart 2][42][---][42][Cultural redress properties][42]
 
 [Vesting of cultural redress properties][43]
 
-[27][44] [Interpretation][44]
+[27][44][][44][Interpretation][44]
 
-[28][45] [Te Wahieroa][45]
+[28][45][][45][Te Wahieroa][45]
 
-[29][46] [Te Atua Reretahi][46]
+[29][46][][46][Te Atua Reretahi][46]
 
-[30][47] [Te Kaukahiwi o Tirotirowhetu][47]
+[30][47][][47][Te Kaukahiwi o Tirotirowhetu][47]
 
-[31][48] [Otitapu Lookout][48]
+[31][48][][48][Otitapu Lookout][48]
 
-[32][49] [Whakapaukorero][49]
+[32][49][][49][Whakapaukorero][49]
 
 [Provisions relating to vesting of cultural redress properties][50]
 
-[33][51] [Vesting subject to encumbrances][51]
+[33][51][][51][Vesting subject to encumbrances][51]
 
-[34][52] [Intermediate vesting of certain land in the Crown][52]
+[34][52][][52][Intermediate vesting of certain land in the Crown][52]
 
-[35][53] [Registration of ownership][53]
+[35][53][][53][Registration of ownership][53]
 
-[36][54] [Application of other enactments][54]
+[36][54][][54][Application of other enactments][54]
 
-[Subpart 3][55]---[Statutory acknowledgements and deeds of recognition][55]
+[Subpart 3][55][---][55][Statutory acknowledgements and deeds of recognition][55]
 
 [Statutory acknowledgements][56]
 
-[37][57] [Statutory acknowledgements by the Crown][57]
+[37][57][][57][Statutory acknowledgements by the Crown][57]
 
-[38][58] [Purposes of statutory acknowledgements][58]
+[38][58][][58][Purposes of statutory acknowledgements][58]
 
-[39][59] [Relevant consent authorities to have regard to statutory acknowledgements][59]
+[39][59][][59][Relevant consent authorities to have regard to statutory acknowledgements][59]
 
-[40][60] [Environment Court to have regard to statutory acknowledgements][60]
+[40][60][][60][Environment Court to have regard to statutory acknowledgements][60]
 
-[41][61] [Historic Places Trust and Environment Court to have regard to statutory acknowledgements][61]
+[41][61][][61][Historic Places Trust and Environment Court to have regard to statutory acknowledgements][61]
 
-[42][62] [Recording statutory acknowledgements on statutory plans][62]
+[42][62][][62][Recording statutory acknowledgements on statutory plans][62]
 
-[43][63] [Distribution of resource consent applications to governance entity][63]
+[43][63][][63][Distribution of resource consent applications to governance entity][63]
 
-[44][64] [Use of statutory acknowledgement][64]
+[44][64][][64][Use of statutory acknowledgement][64]
 
 [Geothermal statutory acknowledgement][65]
 
-[45][66] [Interpretation][66]
+[45][66][][66][Interpretation][66]
 
-[46][67] [Geothermal statutory acknowledgement by the Crown][67]
+[46][67][][67][Geothermal statutory acknowledgement by the Crown][67]
 
-[47][68] [Purposes of geothermal statutory acknowledgement][68]
+[47][68][][68][Purposes of geothermal statutory acknowledgement][68]
 
-[48][69] [Relevant consent authorities to have regard to geothermal statutory acknowledgement][69]
+[48][69][][69][Relevant consent authorities to have regard to geothermal statutory acknowledgement][69]
 
-[49][70] [Environment Court to have regard to geothermal statutory acknowledgement][70]
+[49][70][][70][Environment Court to have regard to geothermal statutory acknowledgement][70]
 
-[50][71] [Recording geothermal statutory acknowledgement on statutory plans][71]
+[50][71][][71][Recording geothermal statutory acknowledgement on statutory plans][71]
 
-[51][72] [Distribution of resource consent applications to governance entity][72]
+[51][72][][72][Distribution of resource consent applications to governance entity][72]
 
-[52][73] [Use of geothermal statutory acknowledgement][73]
+[52][73][][73][Use of geothermal statutory acknowledgement][73]
 
 [Deeds of recognition][74]
 
-[53][75] [Authorisation to enter into and amend deeds of recognition][75]
+[53][75][][75][Authorisation to enter into and amend deeds of recognition][75]
 
-[54][76] [Purpose of deed of recognition][76]
+[54][76][][76][Purpose of deed of recognition][76]
 
-[55][77] [Termination of deed of recognition][77]
+[55][77][][77][Termination of deed of recognition][77]
 
-[56][78] [Crown management][78]
+[56][78][][78][Crown management][78]
 
 [Application of statutory acknowledgements and deeds of recognition in relation to rivers][79]
 
-[57][80] [Statutory acknowledgements in relation to rivers][80]
+[57][80][][80][Statutory acknowledgements in relation to rivers][80]
 
-[58][81] [Deed of recognition for rivers][81]
+[58][81][][81][Deed of recognition for rivers][81]
 
 [General provisions][82]
 
-[59][83] [Crown not precluded from granting other statutory acknowledgements, geothermal statutory acknowledgement, or deeds of recognition][83]
+[59][83][][83][Crown not precluded from granting other statutory acknowledgements, geothermal statutory acknowledgement, or deeds of recognition][83]
 
-[60][84] [Exercise of powers, duties, and functions not affected][84]
+[60][84][][84][Exercise of powers, duties, and functions not affected][84]
 
-[61][85] [Rights not affected][85]
+[61][85][][85][Rights not affected][85]
 
-[62][86] [Limitation of rights][86]
+[62][86][][86][Limitation of rights][86]
 
 [Amendment to Resource Management Act 1991][87]
 
-[63][88] [Amendment to Resource Management Act 1991][88]
+[63][88][][88][Amendment to Resource Management Act 1991][88]
 
-[Subpart 4][89]---[Joint advisory committee for Matata Scenic Reserve, Whakapaukorero, and Te Awa a Te Atua][89]
+[Subpart 4][89][---][89][Joint advisory committee for Matata Scenic Reserve, Whakapaukorero, and Te Awa a Te Atua][89]
 
-[64][90] [Interpretation][90]
+[64][90][][90][Interpretation][90]
 
-[65][91] [Appointment of members to joint advisory committee][91]
+[65][91][][91][Appointment of members to joint advisory committee][91]
 
-[66][92] [Constitution of joint advisory committee][92]
+[66][92][][92][Constitution of joint advisory committee][92]
 
-[67][93] [Functions of joint advisory committee][93]
+[67][93][][93][Functions of joint advisory committee][93]
 
-[68][94] [Advice on Whakapaukorero][94]
+[68][94][][94][Advice on Whakapaukorero][94]
 
-[69][95] [Vacancy in membership of committee][95]
+[69][95][][95][Vacancy in membership of committee][95]
 
-[70][96] [Costs and expenses of committee][96]
+[70][96][][96][Costs and expenses of committee][96]
 
-[Subpart 5][97]---[Nohoanga entitlements][97]
+[Subpart 5][97][---][97][Nohoanga entitlements][97]
 
-[71][98] [Interpretation][98]
+[71][98][][98][Interpretation][98]
 
-[72][99] [Grant and renewal of Nohoanga entitlements][99]
+[72][99][][99][Grant and renewal of Nohoanga entitlements][99]
 
-[73][100] [Notification of Nohoanga entitlement][100]
+[73][100][][100][Notification of Nohoanga entitlement][100]
 
-[74][101] [Form of Nohoanga entitlement may be varied][101]
+[74][101][][101][Form of Nohoanga entitlement may be varied][101]
 
-[75][102] [Purpose of Nohoanga entitlements][102]
+[75][102][][102][Purpose of Nohoanga entitlements][102]
 
-[76][103] [Occupation of entitlement land by members of Ngāti Tuwharetoa (Bay of Plenty)][103]
+[76][103][][103][Occupation of entitlement land by members of Ngāti Tuwharetoa (Bay of Plenty)][103]
 
-[77][104] [Period of occupation of entitlement land][104]
+[77][104][][104][Period of occupation of entitlement land][104]
 
-[78][105] [Right to erect temporary dwellings][105]
+[78][105][][105][Right to erect temporary dwellings][105]
 
-[79][106] [Condition of land when occupation ceases][106]
+[79][106][][106][Condition of land when occupation ceases][106]
 
-[80][107] [Activities on entitlement land][107]
+[80][107][][107][Activities on entitlement land][107]
 
 [Obligations relating to Nohoanga entitlements][108]
 
-[81][109] [Nohoanga entitlements must not impede public access][109]
+[81][109][][109][Nohoanga entitlements must not impede public access][109]
 
-[82][110] [Crown functions to continue][110]
+[82][110][][110][Crown functions to continue][110]
 
-[83][111] [Nohoanga entitlement does not restrict the Crown's right to alienate land][111]
+[83][111][][111][Nohoanga entitlement does not restrict the Crown's right to alienate land][111]
 
-[84][112] [Governance entity may enforce rights against other persons][112]
+[84][112][][112][Governance entity may enforce rights against other persons][112]
 
-[85][113] [Crown's obligation to provide lawful access][113]
+[85][113][][113][Crown's obligation to provide lawful access][113]
 
-[86][114] [Compliance with laws, bylaws, and land and water management practices][114]
+[86][114][][114][Compliance with laws, bylaws, and land and water management practices][114]
 
-[87][115] [Rights of governance entity under Nohoanga entitlement not assignable][115]
+[87][115][][115][Rights of governance entity under Nohoanga entitlement not assignable][115]
 
 [Suspension and termination of Nohoanga entitlement][116]
 
-[88][117] [Suspension of Nohoanga entitlement][117]
+[88][117][][117][Suspension of Nohoanga entitlement][117]
 
-[89][118] [Termination of Nohoanga entitlement][118]
+[89][118][][118][Termination of Nohoanga entitlement][118]
 
-[90][119] [Termination of Nohoanga entitlement for breach of obligations][119]
+[90][119][][119][Termination of Nohoanga entitlement for breach of obligations][119]
 
-[91][120] [Notification of termination of Nohoanga entitlement][120]
+[91][120][][120][Notification of termination of Nohoanga entitlement][120]
 
 [Rights not affected or created][121]
 
-[92][122] [Rights of other parties not affected][122]
+[92][122][][122][Rights of other parties not affected][122]
 
-[93][123] [No creation of rights in entitlement land][123]
+[93][123][][123][No creation of rights in entitlement land][123]
 
 [Application of other enactments][124]
 
-[94][125] [Part 3B of Conservation Act 1987 not to apply][125]
+[94][125][][125][Part 3B of Conservation Act 1987 not to apply][125]
 
-[95][126] [Local Government (Rating) Act 2002][126]
+[95][126][][126][Local Government (Rating) Act 2002][126]
 
-[96][127] [Section 44 of Reserves Act 1977 not to apply][127]
+[96][127][][127][Section 44 of Reserves Act 1977 not to apply][127]
 
-[97][128] [Section 11 and Part 10 of Resource Management Act 1991 not to apply][128]
+[97][128][][128][Section 11 and Part 10 of Resource Management Act 1991 not to apply][128]
 
-[Subpart 6][129]---[Owhakatihi][129]
+[Subpart 6][129][---][129][Owhakatihi][129]
 
-[98][130] [Meaning of Ngāti Tuwharetoa (Bay of Plenty) values][130]
+[98][130][][130][Meaning of Ngāti Tuwharetoa (Bay of Plenty) values][130]
 
-[99][131] [Declaration of Owhakatihi][131]
+[99][131][][131][Declaration of Owhakatihi][131]
 
-[100][132] [Crown's acknowledgement of Ngāti Tuwharetoa (Bay of Plenty) values][132]
+[100][132][][132][Crown's acknowledgement of Ngāti Tuwharetoa (Bay of Plenty) values][132]
 
-[101][133] [Purposes of Owhakatihi][133]
+[101][133][][133][Purposes of Owhakatihi][133]
 
-[102][134] [Agreement on protection principles][134]
+[102][134][][134][Agreement on protection principles][134]
 
-[103][135] [New Zealand Conservation Authority and Conservation Boards to have particular regard to Ngāti Tuwharetoa (Bay of Plenty) values][135]
+[103][135][][135][New Zealand Conservation Authority and Conservation Boards to have particular regard to Ngāti Tuwharetoa (Bay of Plenty) values][135]
 
-[104][136] [New Zealand Conservation Authority and relevant Conservation Boards to consult with governance entity][136]
+[104][136][][136][New Zealand Conservation Authority and relevant Conservation Boards to consult with governance entity][136]
 
-[105][137] [Notification of Owhakatihi][137]
+[105][137][][137][Notification of Owhakatihi][137]
 
-[106][138] [Actions by Director-General][138]
+[106][138][][138][Actions by Director-General][138]
 
-[107][139] [Amendment to conservation documents][139]
+[107][139][][139][Amendment to conservation documents][139]
 
-[108][140] [Regulations][140]
+[108][140][][140][Regulations][140]
 
-[109][141] [Bylaws][141]
+[109][141][][141][Bylaws][141]
 
-[110][142] [Notification of actions in _Gazette_][142]
+[110][142][][142][Notification of actions in _Gazette_][142]
 
-[111][143] [Existing classification of Owhakatihi][143]
+[111][143][][143][Existing classification of Owhakatihi][143]
 
-[112][144] [Termination of status][144]
+[112][144][][144][Termination of status][144]
 
-[113][145] [Exercise of powers, duties, and functions][145]
+[113][145][][145][Exercise of powers, duties, and functions][145]
 
-[114][146] [Rights not affected][146]
+[114][146][][146][Rights not affected][146]
 
-[115][147] [Limitation of rights][147]
+[115][147][][147][Limitation of rights][147]
 
 [Part 5][148]  
 [Commercial redress][148]
 
 [Transfer of commercial redress properties][149]
 
-[116][150] [Transfer of commercial redress properties][150]
+[116][150][][150][Transfer of commercial redress properties][150]
 
-[117][151] [Minister of Conservation may grant easements][151]
+[117][151][][151][Minister of Conservation may grant easements][151]
 
-[118][152] [Creation of computer register][152]
+[118][152][][152][Creation of computer register][152]
 
-[119][153] [Application of other enactments][153]
+[119][153][][153][Application of other enactments][153]
 
-[120][154] [Roadways and rights of way][154]
+[120][154][][154][Roadways and rights of way][154]
 
 [Redress licensed land][155]
 
-[121][156] [Meaning of redress licensed land][156]
+[121][156][][156][Meaning of redress licensed land][156]
 
-[122][157] [Redress licensed land ceases to be Crown forest land][157]
+[122][157][][157][Redress licensed land ceases to be Crown forest land][157]
 
-[123][158] [Governance entity confirmed beneficiary in respect of redress licensed land][158]
+[123][158][][158][Governance entity confirmed beneficiary in respect of redress licensed land][158]
 
-[124][159] [Effect of Crown forestry licences on redress licensed land][159]
+[124][159][][159][Effect of Crown forestry licences on redress licensed land][159]
 
 [Rights of access over redress licensed land][160]
 
-[125][161] [Access to protected sites over redress licensed land][161]
+[125][161][][161][Access to protected sites over redress licensed land][161]
 
-[126][162] [Right of access subject to Crown forestry licence][162]
+[126][162][][162][Right of access subject to Crown forestry licence][162]
 
-[127][163] [Right of access must be noted on title][163]
+[127][163][][163][Right of access must be noted on title][163]
 
 [Schedule 1][164]  
 [Cultural redress properties][164]
@@ -823,6 +823,8 @@ Interpretation
     
     *   (b) a day in the period commencing with 25 December in a year and ending with the close of 15 January in the following year; and
     
+    *   (ba) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    
     *   (c) the days observed as the anniversaries of Wellington and Auckland
     
     _commercial redress property_ means a property described in Schedules 6.1 and 6.2 of the deed of settlement
@@ -987,6 +989,8 @@ Interpretation
     
     Section 12 **antiquities protocol area**: repealed, on 1 November 2006, by [section 35][188] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
+    Section 12 **business day** paragraph (ba): inserted, on 1 January 2014, by [section 8][189] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
+    
     Section 12 **protected New Zealand objects protocol**: inserted, on 1 November 2006, by [section 35][188] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
     Section 12 **protected New Zealand objects protocol area**: inserted, on 1 November 2006, by [section 35][188] of the Protected Objects Amendment Act 2006 (2006 No 37).
@@ -1150,13 +1154,13 @@ Settlement of historical claims and miscellaneous matters
 
 \[Repealed\]
     
-*   Heading: repealed, on 23 May 2008, pursuant to [section 7][189] of the Treaty of Waitangi Amendment Act 2008 (2008 No 34).
+*   Heading: repealed, on 23 May 2008, pursuant to [section 7][190] of the Treaty of Waitangi Amendment Act 2008 (2008 No 34).
 
 ##### 16 Jurisdiction of Tribunal to consider claims
     
 *   \[Repealed\]
     
-    Section 16: repealed, on 23 May 2008, by [section 7][189] of the Treaty of Waitangi Amendment Act 2008 (2008 No 34).
+    Section 16: repealed, on 23 May 2008, by [section 7][190] of the Treaty of Waitangi Amendment Act 2008 (2008 No 34).
 
 #### Protections no longer apply
 
@@ -1166,15 +1170,15 @@ Settlement of historical claims and miscellaneous matters
     
     (2) The enactments are---
         
-    *   (a) [sections 8A to 8HJ][190] of the Treaty of Waitangi Act 1975:
+    *   (a) [sections 8A to 8HJ][191] of the Treaty of Waitangi Act 1975:
     
-    *   (b) [sections 27A to 27C][191] of the State-Owned Enterprises Act 1986:
+    *   (b) [sections 27A to 27C][192] of the State-Owned Enterprises Act 1986:
     
-    *   (c) [sections 211 to 213][192] of the Education Act 1989:
+    *   (c) [sections 211 to 213][193] of the Education Act 1989:
     
-    *   (d) [Part 3][193] of the Crown Forest Assets Act 1989:
+    *   (d) [Part 3][194] of the Crown Forest Assets Act 1989:
     
-    *   (e) [Part 3][194] of the New Zealand Railways Corporation Restructuring Act 1990\.
+    *   (e) [Part 3][195] of the New Zealand Railways Corporation Restructuring Act 1990\.
     
     (3) This section does not apply to the redress licensed land if the agreement referred to in clause 6.1.2(f) of the deed of settlement is cancelled.
 
@@ -1202,7 +1206,7 @@ Settlement of historical claims and miscellaneous matters
 
 ##### 19 Rule against perpetuities does not apply
     
-*   Neither the rule against perpetuities nor any relevant provisions of the [Perpetuities Act 1964][195]---
+*   Neither the rule against perpetuities nor any relevant provisions of the [Perpetuities Act 1964][196]---
         
     *   (a) prescribe or restrict the period during which the governance entity may---
             
@@ -1267,7 +1271,7 @@ Cultural redress
     
 *   (1) The Crown must comply with a protocol while it is in force.
     
-    (2) If the Crown fails without good cause to comply with its obligations under a protocol, the governance entity may, subject to the [Crown Proceedings Act 1950][196], enforce the protocol.
+    (2) If the Crown fails without good cause to comply with its obligations under a protocol, the governance entity may, subject to the [Crown Proceedings Act 1950][197], enforce the protocol.
     
     (3) Despite subsection (2), damages or any form of monetary compensation are not available as a remedy for failure to comply with a protocol.
     
@@ -1283,15 +1287,15 @@ Cultural redress
     
 *   (1) The DOC protocol does not have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights relating to, land held, managed, or administered, or flora or fauna managed or administered, under---
         
-    *   (a) the [Conservation Act 1987][197]; or
+    *   (a) the [Conservation Act 1987][198]; or
     
-    *   (b) the enactments listed in [Schedule 1][198] of that Act.
+    *   (b) the enactments listed in [Schedule 1][199] of that Act.
     
-    (2) The fisheries protocol does not have the effect of granting, creating, or providing evidence of, any estate or interest in, or any rights relating to, assets or other property rights held, managed, or administered under fisheries legislation or under the [Treaty of Waitangi (Fisheries Claims) Settlement Act 1992][199] (including fish, aquatic life, and seaweed).
+    (2) The fisheries protocol does not have the effect of granting, creating, or providing evidence of, any estate or interest in, or any rights relating to, assets or other property rights held, managed, or administered under fisheries legislation or under the [Treaty of Waitangi (Fisheries Claims) Settlement Act 1992][200] (including fish, aquatic life, and seaweed).
     
-    (3) The protected New Zealand objects protocol does not have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights relating to, protected New Zealand objects or ngā taonga tūturu managed or administered under the [Protected Objects Act 1975][200].
+    (3) The protected New Zealand objects protocol does not have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights relating to, protected New Zealand objects or ngā taonga tūturu managed or administered under the [Protected Objects Act 1975][201].
     
-    (4) In this section, _protected New Zealand object_ and _taonga tūturu_ have the meanings given by [section 2][201] of the Protected Objects Act 1975\.
+    (4) In this section, _protected New Zealand object_ and _taonga tūturu_ have the meanings given by [section 2][202] of the Protected Objects Act 1975\.
     
     Section 24(3): amended, on 1 November 2006, by [section 35][188] of the Protected Objects Amendment Act 2006 (2006 No 37).
     
@@ -1309,7 +1313,7 @@ Cultural redress
         
     *   (a) for the purpose of public notice only; and
     
-    *   (b) not an amendment to a conservation document for the purposes of [section 17I][202] of the Conservation Act 1987 or [section 46][203] of the National Parks Act 1980\.
+    *   (b) not an amendment to a conservation document for the purposes of [section 17I][203] of the Conservation Act 1987 or [section 46][204] of the National Parks Act 1980\.
     
     
 
@@ -1323,9 +1327,9 @@ Cultural redress
         
     *   (a) for the purpose of public notice only; and
     
-    *   (b) not an amendment to a fisheries plan for the purposes of [section 11A][204] of the Fisheries Act 1996\.
+    *   (b) not an amendment to a fisheries plan for the purposes of [section 11A][205] of the Fisheries Act 1996\.
     
-    (4) In this section, _fisheries plan_ means a plan approved or amended under [section 11A][204] of the Fisheries Act 1996\.
+    (4) In this section, _fisheries plan_ means a plan approved or amended under [section 11A][205] of the Fisheries Act 1996\.
 
 ### Subpart 2---Cultural redress properties
 
@@ -1349,43 +1353,43 @@ Cultural redress
     
 *   (1) The vesting of Te Wahieroa in the Whakatāne District Council is cancelled.
     
-    (2) The reservation of Te Wahieroa as a recreation reserve subject to [section 17][205] of the Reserves Act 1977 is revoked.
+    (2) The reservation of Te Wahieroa as a recreation reserve subject to [section 17][206] of the Reserves Act 1977 is revoked.
     
     (3) The fee simple estate in Te Wahieroa vests in the governance entity.
     
-    (4) Te Wahieroa is declared a reserve and classified as a recreation reserve subject to [section 17][205] of the Reserves Act 1977\.
+    (4) Te Wahieroa is declared a reserve and classified as a recreation reserve subject to [section 17][206] of the Reserves Act 1977\.
     
-    (5) Despite [section 16(10)][206] of the Reserves Act 1977, the recreation reserve created under subsection (4) is named Te Wahieroa Recreation Reserve.
+    (5) Despite [section 16(10)][207] of the Reserves Act 1977, the recreation reserve created under subsection (4) is named Te Wahieroa Recreation Reserve.
     
-    (6) The governance entity is the administering body of Te Wahieroa Recreation Reserve for the purposes of the [Reserves Act 1977][207].
+    (6) The governance entity is the administering body of Te Wahieroa Recreation Reserve for the purposes of the [Reserves Act 1977][208].
 
 ##### 29 Te Atua Reretahi
     
-*   (1) Te Atua Reretahi ceases to be a conservation area under the [Conservation Act 1987][197].
+*   (1) Te Atua Reretahi ceases to be a conservation area under the [Conservation Act 1987][198].
     
     (2) The fee simple estate in Te Atua Reretahi vests in the governance entity, subject to the conservation covenant referred to in clause 4.2.4 of the deed of settlement.
     
-    (3) The conservation covenant referred to in subsection (2) must be treated as a conservation covenant for the purposes of [section 77][208] of the Reserves Act 1977\.
+    (3) The conservation covenant referred to in subsection (2) must be treated as a conservation covenant for the purposes of [section 77][209] of the Reserves Act 1977\.
 
 ##### 30 Te Kaukahiwi o Tirotirowhetu
     
-*   (1) The reservation of Te Kaukahiwi o Tirotirowhetu as a scenic reserve subject to [section 19][209] of the Reserves Act 1977 is revoked.
+*   (1) The reservation of Te Kaukahiwi o Tirotirowhetu as a scenic reserve subject to [section 19][210] of the Reserves Act 1977 is revoked.
     
     (2) The fee simple estate in Te Kaukahiwi o Tirotirowhetu vests in the governance entity.
     
-    (3) Te Kaukahiwi o Tirotirowhetu is declared a reserve and classified as a scenic reserve subject to [section 19][209] of the Reserves Act 1977\.
+    (3) Te Kaukahiwi o Tirotirowhetu is declared a reserve and classified as a scenic reserve subject to [section 19][210] of the Reserves Act 1977\.
     
-    (4) Despite [section 16(10)][206] of the Reserves Act 1977, the scenic reserve created under subsection (3) is named Te Kaukahiwi o Tirotirowhetu Scenic Reserve.
+    (4) Despite [section 16(10)][207] of the Reserves Act 1977, the scenic reserve created under subsection (3) is named Te Kaukahiwi o Tirotirowhetu Scenic Reserve.
     
-    (5) The governance entity is the administering body of Te Kaukahiwi o Tirotirowhetu Scenic Reserve for the purposes of the [Reserves Act 1977][207].
+    (5) The governance entity is the administering body of Te Kaukahiwi o Tirotirowhetu Scenic Reserve for the purposes of the [Reserves Act 1977][208].
 
 ##### 31 Otitapu Lookout
     
-*   (1) The reservation of Otitapu Lookout as a scenic reserve subject to [section 19][209] of the Reserves Act 1977 is revoked.
+*   (1) The reservation of Otitapu Lookout as a scenic reserve subject to [section 19][210] of the Reserves Act 1977 is revoked.
     
     (2) The fee simple estate in Otitapu Lookout vests in the governance entity, subject to the protected private land agreement referred to in clause 4.4.4 of the deed of settlement.
     
-    (3) The protected private land agreement referred to in subsection (2) must be treated as an agreement for the purposes of [section 76][210] of the Reserves Act 1977\.
+    (3) The protected private land agreement referred to in subsection (2) must be treated as an agreement for the purposes of [section 76][211] of the Reserves Act 1977\.
     
     (4) The Registrar-General must note a memorial on the computer freehold register of Otitapu Lookout that it is subject to a protected private land agreement.
     
@@ -1393,15 +1397,15 @@ Cultural redress
 
 ##### 32 Whakapaukorero
     
-*   (1) The reservation of Whakapaukorero as a scenic reserve subject to [section 19][209] of the Reserves Act 1977 is revoked.
+*   (1) The reservation of Whakapaukorero as a scenic reserve subject to [section 19][210] of the Reserves Act 1977 is revoked.
     
     (2) The fee simple estate in Whakapaukorero vests in the governance entity.
     
-    (3) Whakapaukorero is declared a reserve and classified as a historic reserve subject to [section 18][211] of the Reserves Act 1977\.
+    (3) Whakapaukorero is declared a reserve and classified as a historic reserve subject to [section 18][212] of the Reserves Act 1977\.
     
-    (4) Despite [section 16(10)][206] of the Reserves Act 1977, the historic reserve created under subsection (3) is named Whakapaukorero.
+    (4) Despite [section 16(10)][207] of the Reserves Act 1977, the historic reserve created under subsection (3) is named Whakapaukorero.
     
-    (5) The governance entity is the administering body of the historic reserve declared by subsection (3) for the purposes of the [Reserves Act 1977][207].
+    (5) The governance entity is the administering body of the historic reserve declared by subsection (3) for the purposes of the [Reserves Act 1977][208].
 
 #### Provisions relating to vesting of cultural redress properties
 
@@ -1421,7 +1425,7 @@ Cultural redress
     
     *   (d) Whakapaukorero.
     
-    (2) When the reserve status of the sites identified in subsection (1) is revoked under this subpart, the sites vest in the Crown as Crown land and are subject to [section 82][212] of the Reserves Act 1977 before they vest in the governance entity.
+    (2) When the reserve status of the sites identified in subsection (1) is revoked under this subpart, the sites vest in the Crown as Crown land and are subject to [section 82][213] of the Reserves Act 1977 before they vest in the governance entity.
 
 ##### 35 Registration of ownership
     
@@ -1449,11 +1453,11 @@ Cultural redress
 
 ##### 36 Application of other enactments
     
-*   (1) [Sections 24][213] and [25][214] of the Reserves Act 1977 do not apply to the revocation under this subpart of the reserve status of a cultural redress property vested in the governance entity under this subpart.
+*   (1) [Sections 24][214] and [25][215] of the Reserves Act 1977 do not apply to the revocation under this subpart of the reserve status of a cultural redress property vested in the governance entity under this subpart.
     
-    (2) [Sections 78(1)(a)][215] and [79 to 81][216] of the Reserves Act 1977 do not apply to the vesting in the governance entity of a cultural redress property under this subpart.
+    (2) [Sections 78(1)(a)][216] and [79 to 81][217] of the Reserves Act 1977 do not apply to the vesting in the governance entity of a cultural redress property under this subpart.
     
-    (3) [Section 11][217] and [Part 10][218] of the Resource Management Act 1991 do not apply to---
+    (3) [Section 11][218] and [Part 10][219] of the Resource Management Act 1991 do not apply to---
         
     *   (a) the vesting in the governance entity of the fee simple estate in a cultural redress property under this subpart; or
     
@@ -1461,11 +1465,11 @@ Cultural redress
     
     (4) The vesting of the fee simple estate in a cultural redress property under this subpart does not---
         
-    *   (a) limit [sections 10][219] or [11][220] of the Crown Minerals Act 1991; or
+    *   (a) limit [sections 10][220] or [11][221] of the Crown Minerals Act 1991; or
     
     *   (b) affect private rights to subsurface minerals.
     
-    (5) The vesting in the governance entity of a fee simple estate in a cultural redress property under this subpart is a disposition for the purposes of [Part 4A][221] of the Conservation Act 1987, but [sections 24(2A)][222], [24A][223], and [24AA][224] of that Act do not apply to the disposition.
+    (5) The vesting in the governance entity of a fee simple estate in a cultural redress property under this subpart is a disposition for the purposes of [Part 4A][222] of the Conservation Act 1987, but [sections 24(2A)][223], [24A][224], and [24AA][225] of that Act do not apply to the disposition.
 
 ### Subpart 3---Statutory acknowledgements and deeds of recognition
 
@@ -1491,19 +1495,19 @@ Cultural redress
 
 ##### 39 Relevant consent authorities to have regard to statutory acknowledgements
     
-*   (1) From the effective date, a relevant consent authority must have regard to a statutory acknowledgement relating to a statutory area in forming an opinion in accordance with [sections 93 to 94C][225] of the Resource Management Act 1991 as to whether the governance entity is a person who may be adversely affected by the granting of a resource consent for activities within, adjacent to, or impacting directly on the statutory area.
+*   (1) From the effective date, a relevant consent authority must have regard to a statutory acknowledgement relating to a statutory area in forming an opinion in accordance with [sections 93 to 94C][226] of the Resource Management Act 1991 as to whether the governance entity is a person who may be adversely affected by the granting of a resource consent for activities within, adjacent to, or impacting directly on the statutory area.
     
-    (2) Subsection (1) does not limit the obligations of a relevant consent authority under [Part 2][226] of the Resource Management Act 1991\.
+    (2) Subsection (1) does not limit the obligations of a relevant consent authority under [Part 2][227] of the Resource Management Act 1991\.
 
 ##### 40 Environment Court to have regard to statutory acknowledgements
     
-*   (1) From the effective date, the Environment Court must have regard to a statutory acknowledgement in determining under [section 274][227] of the Resource Management Act 1991 whether the governance entity is a person having an interest in the proceedings greater than the public generally in respect of an application for a resource consent for activities within, adjacent to, or impacting directly on the statutory area.
+*   (1) From the effective date, the Environment Court must have regard to a statutory acknowledgement in determining under [section 274][228] of the Resource Management Act 1991 whether the governance entity is a person having an interest in the proceedings greater than the public generally in respect of an application for a resource consent for activities within, adjacent to, or impacting directly on the statutory area.
     
-    (2) Subsection (1) does not limit the obligations of the Environment Court under [Part 2][226] of the Resource Management Act 1991\.
+    (2) Subsection (1) does not limit the obligations of the Environment Court under [Part 2][227] of the Resource Management Act 1991\.
 
 ##### 41 Historic Places Trust and Environment Court to have regard to statutory acknowledgements
     
-*   From the effective date, the Historic Places Trust and the Environment Court must have regard to a statutory acknowledgement in forming an opinion under [section 14(6)(a)][228] or [section 20(1)][229] of the Historic Places Act 1993, as the case may be, as to whether the governance entity is a person directly affected in relation to an archaeological site within the statutory area.
+*   From the effective date, the Historic Places Trust and the Environment Court must have regard to a statutory acknowledgement in forming an opinion under [section 14(6)(a)][229] or [section 20(1)][230] of the Historic Places Act 1993, as the case may be, as to whether the governance entity is a person directly affected in relation to an archaeological site within the statutory area.
 
 ##### 42 Recording statutory acknowledgements on statutory plans
     
@@ -1529,9 +1533,9 @@ Cultural redress
     
     (2) The information provided under subsection (1) must be---
         
-    *   (a) the same as would be provided under [section 93][225] of the Resource Management Act 1991 to persons likely to be adversely affected, or any other information that may be agreed between the governance entity and the relevant consent authority; and
+    *   (a) the same as would be provided under [section 93][226] of the Resource Management Act 1991 to persons likely to be adversely affected, or any other information that may be agreed between the governance entity and the relevant consent authority; and
     
-    *   (b) provided as soon as is reasonably practicable after the application is received, and before a determination is made under [section 93 to 94C][225] of the Resource Management Act 1991\.
+    *   (b) provided as soon as is reasonably practicable after the application is received, and before a determination is made under [section 93 to 94C][226] of the Resource Management Act 1991\.
     
     (3) The governance entity may, by notice in writing to a relevant consent authority,---
         
@@ -1541,7 +1545,7 @@ Cultural redress
     
     (4) This section does not affect the obligation of a relevant consent authority to---
         
-    *   (a) notify an application in accordance with [sections 93 to 94C][225] of the Resource Management Act 1991:
+    *   (a) notify an application in accordance with [sections 93 to 94C][226] of the Resource Management Act 1991:
     
     *   (b) form an opinion as to whether the governance entity is a person that is likely to be adversely affected under those sections.
     
@@ -1603,15 +1607,15 @@ Cultural redress
 
 ##### 48 Relevant consent authorities to have regard to geothermal statutory acknowledgement
     
-*   (1) From the effective date, a relevant consent authority must have regard to the geothermal statutory acknowledgement relating to the Kawerau Geothermal system in forming an opinion in accordance with [sections 93 to 94C][225] of the Resource Management Act 1991 as to whether the governance entity is a person who may be adversely affected by the granting of a resource consent in respect of the geothermal energy or geothermal water located in the Kawerau Geothermal system.
+*   (1) From the effective date, a relevant consent authority must have regard to the geothermal statutory acknowledgement relating to the Kawerau Geothermal system in forming an opinion in accordance with [sections 93 to 94C][226] of the Resource Management Act 1991 as to whether the governance entity is a person who may be adversely affected by the granting of a resource consent in respect of the geothermal energy or geothermal water located in the Kawerau Geothermal system.
     
-    (2) Subsection (1) does not limit the obligations of a consent authority under [Part 2][226] of the Resource Management Act 1991\.
+    (2) Subsection (1) does not limit the obligations of a consent authority under [Part 2][227] of the Resource Management Act 1991\.
 
 ##### 49 Environment Court to have regard to geothermal statutory acknowledgement
     
-*   (1) From the effective date, the Environment Court must have regard to the geothermal statutory acknowledgement relating to the Kawerau Geothermal system in determining under [section 274][227] of the Resource Management Act 1991 whether the governance entity is a person having an interest in the proceedings greater than the public generally in relation to an application for a resource consent in respect of the geothermal energy or geothermal water located in the Kawerau Geothermal system.
+*   (1) From the effective date, the Environment Court must have regard to the geothermal statutory acknowledgement relating to the Kawerau Geothermal system in determining under [section 274][228] of the Resource Management Act 1991 whether the governance entity is a person having an interest in the proceedings greater than the public generally in relation to an application for a resource consent in respect of the geothermal energy or geothermal water located in the Kawerau Geothermal system.
     
-    (2) Subsection (1) does not limit the obligations of the Environment Court under [Part 2][226] of the Resource Management Act 1991\.
+    (2) Subsection (1) does not limit the obligations of the Environment Court under [Part 2][227] of the Resource Management Act 1991\.
 
 ##### 50 Recording geothermal statutory acknowledgement on statutory plans
     
@@ -1637,9 +1641,9 @@ Cultural redress
     
     (2) The information provided under subsection (1) must be---
         
-    *   (a) the same as would be given under [section 93][225] of the Resource Management Act 1991 to persons likely to be adversely affected, or any other information that may be agreed between the governance entity and the relevant consent authority; and
+    *   (a) the same as would be given under [section 93][226] of the Resource Management Act 1991 to persons likely to be adversely affected, or any other information that may be agreed between the governance entity and the relevant consent authority; and
     
-    *   (b) provided as soon as reasonably practicable after the application is received, and before a determination is made under [sections 93 to 94C][225] of the Resource Management Act 1991\.
+    *   (b) provided as soon as reasonably practicable after the application is received, and before a determination is made under [sections 93 to 94C][226] of the Resource Management Act 1991\.
     
     (3) The governance entity may, by notice in writing to a relevant consent authority,---
         
@@ -1649,7 +1653,7 @@ Cultural redress
     
     (4) This section does not affect the discretion of a relevant consent authority to---
         
-    *   (a) notify an application under [sections 93 to 94C][225] of the Resource Management Act 1991:
+    *   (a) notify an application under [sections 93 to 94C][226] of the Resource Management Act 1991:
     
     *   (b) determine whether the governance entity is a person who may be adversely affected under those sections.
     
@@ -1787,7 +1791,7 @@ Cultural redress
 
 ##### 63 Amendment to Resource Management Act 1991
     
-*   _Amendment(s) incorporated in the [Act(s)][230]_.
+*   _Amendment(s) incorporated in the [Act(s)][231]_.
 
 ### Subpart 4---Joint advisory committee for Matata Scenic Reserve, Whakapaukorero, and Te Awa a Te Atua
 
@@ -1795,7 +1799,7 @@ Cultural redress
     
 *   In this subpart, unless the context otherwise requires,---
     
-    _joint advisory committee_ or _committee_ means the committee appointed under [subpart 4][231] of Part 4 of the Ngāti Awa Claims Settlement Act 2005
+    _joint advisory committee_ or _committee_ means the committee appointed under [subpart 4][232] of Part 4 of the Ngāti Awa Claims Settlement Act 2005
     
     _Minister_ means the Minister of Conservation
     
@@ -1803,17 +1807,17 @@ Cultural redress
 
 ##### 65 Appointment of members to joint advisory committee
     
-*   (1) In addition to the members appointed under [section 60(1)][232] of the Ngāti Awa Claims Settlement Act 2005, the Minister must appoint to the joint advisory committee 2 members nominated by the governance entity.
+*   (1) In addition to the members appointed under [section 60(1)][233] of the Ngāti Awa Claims Settlement Act 2005, the Minister must appoint to the joint advisory committee 2 members nominated by the governance entity.
     
-    (2) [Section 60(2) to (4)][232] of the Ngāti Awa Claims Settlement Act 2005 applies to members appointed under subsection (1).
+    (2) [Section 60(2) to (4)][233] of the Ngāti Awa Claims Settlement Act 2005 applies to members appointed under subsection (1).
 
 ##### 66 Constitution of joint advisory committee
     
-*   In addition to the members referred to in [section 61][233] of the Ngāti Awa Claims Settlement Act 2005, the joint advisory committee also consists of the 2 members appointed under [section 65][91] of this Act.
+*   In addition to the members referred to in [section 61][234] of the Ngāti Awa Claims Settlement Act 2005, the joint advisory committee also consists of the 2 members appointed under [section 65][91] of this Act.
 
 ##### 67 Functions of joint advisory committee
     
-*   In addition to the functions of the joint advisory committee specified in [section 62][234] of the Ngāti Awa Claims Settlement Act 2005, a function of the committee is to advise the governance entity on conservation matters affecting Whakapaukorero.
+*   In addition to the functions of the joint advisory committee specified in [section 62][235] of the Ngāti Awa Claims Settlement Act 2005, a function of the committee is to advise the governance entity on conservation matters affecting Whakapaukorero.
 
 ##### 68 Advice on Whakapaukorero
     
@@ -1941,19 +1945,19 @@ Cultural redress
             
         *   (i) on the entitlement land; and
         
-        *   (ii) if the entitlement land is held under the [Conservation Act 1987][197] or an Act listed in [Schedule 1][198] of that Act, on the surrounding land and wildlife; and
+        *   (ii) if the entitlement land is held under the [Conservation Act 1987][198] or an Act listed in [Schedule 1][199] of that Act, on the surrounding land and wildlife; and
         
         
     
     *   (b) measures that the governance entity proposes to take (if the land holding agent's consent is given) to avoid, remedy, or mitigate adverse effects.
     
-    (4) In considering whether to give consent in relation to land held under the [Conservation Act 1987][197] or an Act listed in [Schedule 1][198] of that Act, the land holding agent may require the governance entity to obtain (at its own expense) an environmental impact report about the proposed activities and an audit of that report.
+    (4) In considering whether to give consent in relation to land held under the [Conservation Act 1987][198] or an Act listed in [Schedule 1][199] of that Act, the land holding agent may require the governance entity to obtain (at its own expense) an environmental impact report about the proposed activities and an audit of that report.
     
     (5) The giving of consent is at the complete discretion of the land holding agent.
     
     (6) The land holding agent may give consent subject to any conditions that he or she thinks fit to impose.
     
-    (7) Without limiting subsection (6), in giving consent in relation to land held under the [Conservation Act 1987][197] or an Act listed in [Schedule 1][198] of that Act, the land holding agent may impose reasonable conditions to avoid, remedy, or mitigate adverse effects of the proposed activities on the entitlement land, surrounding land, or wildlife.
+    (7) Without limiting subsection (6), in giving consent in relation to land held under the [Conservation Act 1987][198] or an Act listed in [Schedule 1][199] of that Act, the land holding agent may impose reasonable conditions to avoid, remedy, or mitigate adverse effects of the proposed activities on the entitlement land, surrounding land, or wildlife.
     
     (8) If the Crown has complied with its obligations under a Nohoanga entitlement, the Crown is not liable to compensate the governance entity (whether on termination of a Nohoanga entitlement or at another time) for activities undertaken by the governance entity on the entitlement land.
 
@@ -2097,21 +2101,21 @@ Cultural redress
 
 ##### 94 Part 3B of Conservation Act 1987 not to apply
     
-*   [Part 3B][235] of the Conservation Act 1987 does not apply to the grant of a Nohoanga entitlement.
+*   [Part 3B][236] of the Conservation Act 1987 does not apply to the grant of a Nohoanga entitlement.
 
 ##### 95 Local Government (Rating) Act 2002
     
-*   (1) To avoid doubt, [section 8(1) and (3)][236] of the Local Government (Rating) Act 2002 applies to land over which a Nohoanga entitlement is granted.
+*   (1) To avoid doubt, [section 8(1) and (3)][237] of the Local Government (Rating) Act 2002 applies to land over which a Nohoanga entitlement is granted.
     
-    (2) The governance entity must reimburse the person paying the rates under [section 9][237] of the Local Government (Rating) Act 2002 for the entitlement land in proportion to the period for which the governance entity is entitled to occupy the Nohoanga site.
+    (2) The governance entity must reimburse the person paying the rates under [section 9][238] of the Local Government (Rating) Act 2002 for the entitlement land in proportion to the period for which the governance entity is entitled to occupy the Nohoanga site.
 
 ##### 96 Section 44 of Reserves Act 1977 not to apply
     
-*   [Section 44][238] of the Reserves Act 1977 does not apply in relation to a Nohoanga entitlement granted over land subject to that Act.
+*   [Section 44][239] of the Reserves Act 1977 does not apply in relation to a Nohoanga entitlement granted over land subject to that Act.
 
 ##### 97 Section 11 and Part 10 of Resource Management Act 1991 not to apply
     
-*   The grant of a Nohoanga entitlement is not a subdivision for the purposes of [section 11][217] and [Part 10][218] of the Resource Management Act 1991\.
+*   The grant of a Nohoanga entitlement is not a subdivision for the purposes of [section 11][218] and [Part 10][219] of the Resource Management Act 1991\.
 
 ### Subpart 6---Owhakatihi
 
@@ -2165,7 +2169,7 @@ Cultural redress
         
     *   (a) is for the purpose of public notice only; and
     
-    *   (b) is not an amendment to a conservation document for the purposes of [section 17I][202] of the Conservation Act 1987 or [section 46][203] of the National Parks Act 1980\.
+    *   (b) is not an amendment to a conservation document for the purposes of [section 17I][203] of the Conservation Act 1987 or [section 46][204] of the National Parks Act 1980\.
     
     
 
@@ -2185,7 +2189,7 @@ Cultural redress
     
     (2) The Director-General must consult with affected Conservation Boards before initiating an amendment under subsection (1).
     
-    (3) An amendment initiated under subsection (1) is an amendment for the purposes of [section 17I(1) to (3)][202] of the Conservation Act 1987, or [section 46(1) to (4)][203] of the National Parks Act 1980, as the case may be.
+    (3) An amendment initiated under subsection (1) is an amendment for the purposes of [section 17I(1) to (3)][203] of the Conservation Act 1987, or [section 46(1) to (4)][204] of the National Parks Act 1980, as the case may be.
     
     (4) This section does not limit [section 106(2)][138].
 
@@ -2314,11 +2318,11 @@ Commercial redress
     
     (2) An easement granted under subsection (1)---
         
-    *   (a) is registrable under [section 17ZA(2)][239] of the Conservation Act 1987 as if it were a deed to which that provision applied; and
+    *   (a) is registrable under [section 17ZA(2)][240] of the Conservation Act 1987 as if it were a deed to which that provision applied; and
     
-    *   (b) is enforceable on its terms despite [Part 3B][235] of the Conservation Act 1987\.
+    *   (b) is enforceable on its terms despite [Part 3B][236] of the Conservation Act 1987\.
     
-    (3) In this section, _conservation land_ means land held under the [Conservation Act 1987][197].
+    (3) In this section, _conservation land_ means land held under the [Conservation Act 1987][198].
 
 ##### 118 Creation of computer register
     
@@ -2336,9 +2340,9 @@ Commercial redress
     
     (5) The appropriate person may grant a covenant to arrange for the later creation of 1 or more computer freehold registers for a property that is to be transferred to the governance entity.
     
-    (6) Despite the [Land Transfer Act 1952][240],---
+    (6) Despite the [Land Transfer Act 1952][241],---
         
-    *   (a) the appropriate person may request the Registrar-General to register a covenant referred to in subsection (5) under the [Land Transfer Act 1952][240] by creating a computer interest register; and
+    *   (a) the appropriate person may request the Registrar-General to register a covenant referred to in subsection (5) under the [Land Transfer Act 1952][241] by creating a computer interest register; and
     
     *   (b) the Registrar-General must register the covenant in accordance with paragraph (a).
     
@@ -2346,7 +2350,7 @@ Commercial redress
 
 ##### 119 Application of other enactments
     
-*   (1) Nothing in [section 11][217] or [Part 10][218] of the Resource Management Act 1991 applies to---
+*   (1) Nothing in [section 11][218] or [Part 10][219] of the Resource Management Act 1991 applies to---
         
     *   (a) the transfer to the governance entity of a commercial redress property in accordance with this Act; or
     
@@ -2354,15 +2358,15 @@ Commercial redress
     
     (2) The transfer of a commercial redress property in accordance with this Act does not---
         
-    *   (a) limit [sections 10][219] or [11][220] of the Crown Minerals Act 1991; or
+    *   (a) limit [sections 10][220] or [11][221] of the Crown Minerals Act 1991; or
     
     *   (b) affect private rights to subsurface minerals.
     
-    (3) The transfer of a commercial redress property in accordance with this Act is a disposition for the purposes of [Part 4A][221] of the Conservation Act 1987, but [sections 24(2A)][222], [24A][223], and [24AA][224] of that Act do not apply to the disposition.
+    (3) The transfer of a commercial redress property in accordance with this Act is a disposition for the purposes of [Part 4A][222] of the Conservation Act 1987, but [sections 24(2A)][223], [24A][224], and [24AA][225] of that Act do not apply to the disposition.
 
 ##### 120 Roadways and rights of way
     
-*   The permission of a council under [section 348][241] of the Local Government Act 1974 is not required for laying out, forming, granting, or reserving a private road, private way, or right of way required by clauses 6.3 or 6.4.6 of the deed of settlement.
+*   The permission of a council under [section 348][242] of the Local Government Act 1974 is not required for laying out, forming, granting, or reserving a private road, private way, or right of way required by clauses 6.3 or 6.4.6 of the deed of settlement.
 
 #### Redress licensed land
 
@@ -2396,21 +2400,21 @@ Commercial redress
     
     *   (b) the representative referred to in clause 11.5(c) of that deed.
     
-    (2) On the redress licensed land settlement date, the Crown must give notice under [section 17(4)(b)][242] of the Crown Forest Assets Act 1989 in respect of the redress licensed land as if that section applies to the redress licensed land, even though the Waitangi Tribunal has not made a recommendation under [section 8HB(1)(a)][243] of the Treaty of Waitangi Act 1975 for the return of the redress licensed land.
+    (2) On the redress licensed land settlement date, the Crown must give notice under [section 17(4)(b)][243] of the Crown Forest Assets Act 1989 in respect of the redress licensed land as if that section applies to the redress licensed land, even though the Waitangi Tribunal has not made a recommendation under [section 8HB(1)(a)][244] of the Treaty of Waitangi Act 1975 for the return of the redress licensed land.
     
-    (3) Notice given by the Crown under subsection (2) has effect as if the Waitangi Tribunal had made a recommendation under [section 8HB(1)(a)][243] of the Treaty of Waitangi Act 1975 for the return of the redress licensed land and that recommendation had become final on the redress licensed land settlement date.
+    (3) Notice given by the Crown under subsection (2) has effect as if the Waitangi Tribunal had made a recommendation under [section 8HB(1)(a)][244] of the Treaty of Waitangi Act 1975 for the return of the redress licensed land and that recommendation had become final on the redress licensed land settlement date.
     
-    (4) In this section, _Crown forestry rental trust deed_ means the trust deed made on 30 April 1990 establishing the Crown forestry rental trust under [section 34][244] of the Crown Forest Assets Act 1989\.
+    (4) In this section, _Crown forestry rental trust deed_ means the trust deed made on 30 April 1990 establishing the Crown forestry rental trust under [section 34][245] of the Crown Forest Assets Act 1989\.
 
 ##### 124 Effect of Crown forestry licences on redress licensed land
     
-*   (1) On and from the redress licensed land settlement date, the governance entity is the licensor under any Crown forestry licences in relation to the redress licensed land as if that land had been returned to Maori ownership under [section 36][245] of the Crown Forests Assets Act 1989\.
+*   (1) On and from the redress licensed land settlement date, the governance entity is the licensor under any Crown forestry licences in relation to the redress licensed land as if that land had been returned to Maori ownership under [section 36][246] of the Crown Forests Assets Act 1989\.
     
     (2) To the extent that the Crown has not completed the process described in clause 17.4 of the Crown forestry licences in relation to the redress licensed land before the redress licensed land settlement date, it must continue the process after that date until its completion.
     
     (3) For the period from the redress licensed land settlement date until the completion by the Crown of the process referred to in subsection (2), the licence fee payable under the Crown forestry licence in respect of the redress licensed land is the amount described in clause 6.3.5(a) of the deed of settlement.
     
-    (4) To avoid doubt, [section 36(1)(b)][245] of the Crown Forests Assets Act 1989 does not apply to the redress licensed land.
+    (4) To avoid doubt, [section 36(1)(b)][246] of the Crown Forests Assets Act 1989 does not apply to the redress licensed land.
 
 #### Rights of access over redress licensed land
 
@@ -2434,7 +2438,7 @@ Commercial redress
     
     (3) In this section, _protected site_ means any area of land situated in the redress licensed land that---
         
-    *   (a) becomes a registered place within the meaning of the [Historic Places Act 1993][246]; and
+    *   (a) becomes a registered place within the meaning of the [Historic Places Act 1993][247]; and
     
     *   (b) is wāhi tapu or a wāhi tapu area within the meaning of that Act.
     
@@ -2463,17 +2467,17 @@ Cultural redress properties
 
 [ss 12][15], [27--36][44]
 
-**Property****Description****Encumbrances**
+**Property** **Description** **Encumbrances**
 
-Te WahieroaSouth Auckland Land District---Whakatāne District 10.0000 hectares, more or less, being Section 1 SO 332912\. Part _Gazette_ Notice H.024770\. 
+Te Wahieroa South Auckland Land District---Whakatāne District 10.0000 hectares, more or less, being Section 1 SO 332912\. Part _Gazette_ Notice H.024770\. 
 
-Te Atua ReretahiSouth Auckland Land District---Whakatāne District. 17.5060 hectares, more or less, being Section 1 SO 330119\. Part _Gazette_ 1920, page 2107\.Subject to the conservation covenant referred to in clause 29(3)
+Te Atua Reretahi South Auckland Land District---Whakatāne District. 17.5060 hectares, more or less, being Section 1 SO 330119\. Part _Gazette_ 1920, page 2107\. Subject to the conservation covenant referred to in clause 29(3)
 
-Te Kaukahiwi o TirotirowhetuSouth Auckland Land District---Kawerau District. 10.3657 hectares, more or less, being Section 1 SO 330677\. Part _Gazette_ Notice H.257899\. 
+Te Kaukahiwi o Tirotirowhetu South Auckland Land District---Kawerau District. 10.3657 hectares, more or less, being Section 1 SO 330677\. Part _Gazette_ Notice H.257899\. 
 
-Otitapu LookoutSouth Auckland Land District---Whakatāne District. 7.6690 hectares, more or less, being Section 2 SO 330676\. Part _Gazette_ 1939, page 311\.Subject to the protected private land agreement referred to in clause 31(2)
+Otitapu Lookout South Auckland Land District---Whakatāne District. 7.6690 hectares, more or less, being Section 2 SO 330676\. Part _Gazette_ 1939, page 311\. Subject to the protected private land agreement referred to in clause 31(2)
 
-WhakapaukoreroSouth Auckland Land District---Whakatāne District. 32.9230 hectares, more or less, being Section 2 SO 330120\. Part _Gazette_ Notice H.011708 and All Transfer H.652435\. 
+Whakapaukorero South Auckland Land District---Whakatāne District. 32.9230 hectares, more or less, being Section 2 SO 330120\. Part _Gazette_ Notice H.011708 and All Transfer H.652435\. 
 
 ---
 
@@ -2482,9 +2486,9 @@ Nohoanga site
 
 [s 71][98]
 
-**Waterway****Nohoanga site****Description****Special requirements**
+**Waterway** **Nohoanga site** **Description** **Special requirements**
 
-Tarawera RiverTe Awa a Te AtuaSouth Auckland Land District--- Whakatāne District.No dogs  
+Tarawera River Te Awa a Te Atua South Auckland Land District--- Whakatāne District. No dogs  
 No open fires
 
 1 hectare as shown marked ""A"" on SO 331011\. 
@@ -2501,17 +2505,17 @@ Statutory areas for which statutory acknowledgements and deeds of recognition pr
 
 #### South Auckland Land District
 
-**Area****Location**
+**Area** **Location**
 
-Lake Rotoma Scenic ReserveAs shown on SO 61726
+Lake Rotoma Scenic Reserve As shown on SO 61726
 
-Lake Tamurenui Wildlife Management ReserveAs shown on SO 61727
+Lake Tamurenui Wildlife Management Reserve As shown on SO 61727
 
-Rangitaiki RiverAs shown on SO 61728
+Rangitaiki River As shown on SO 61728
 
-Rotoma Forest Conservation AreaAs shown on SO 61717
+Rotoma Forest Conservation Area As shown on SO 61717
 
-Tarawera RiverAs shown on SO 61729\.
+Tarawera River As shown on SO 61729\.
 
 ## Part 2  
 Statutory area for which geothermal statutory acknowledgement provided
@@ -2902,76 +2906,35 @@ Te Rewhanamed after Tohia-o-te-Rangi's father who had very bad eyesight
 
 Ruruangamoving together in one direction.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Ngāti Tuwharetoa (Bay of Plenty) Claims Settlement Act 2005\. It incorporates all the amendments to the Act as at 23 May 2008, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
+*   This is a reprint of the Ngāti Tuwharetoa (Bay of Plenty) Claims Settlement Act 2005 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][247] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][248] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][249] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ http://www.pco.parliament.govt.nz/legislation/reprints.shtml or Part 8 of the _Tables of Acts and Ordinances and Statutory Regulations, and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][250] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][251] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][248] and [17E][249] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][189]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Treaty of Waitangi Amendment Act 2008 (2008 No 34): [section 7][189]
+    Treaty of Waitangi Amendment Act 2008 (2008 No 34): [section 7][190]
     
     Protected Objects Amendment Act 2006 (2006 No 37): [section 35][188]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2005/0072/latest/whole.html#DLM349704
 [2]: http://www.legislation.govt.nz/act/public/2005/0072/latest/whole.html#DLM349740
 [3]: http://www.legislation.govt.nz/act/public/2005/0072/latest/whole.html#DLM349741
@@ -3160,64 +3123,66 @@ Ruruangamoving together in one direction.
 [186]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM233848
 [187]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM240686
 [188]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM376605
-[189]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM1297534
-[190]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM435544
-[191]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM98097
-[192]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM184658
-[193]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM192356
-[194]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM223144
-[195]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM353436
-[196]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM261466
-[197]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM103609
-[198]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM107200
-[199]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM281432
-[200]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM432115
-[201]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM432125
-[202]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM104615
-[203]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM38204
-[204]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM395502
-[205]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM444605
-[206]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM444492
-[207]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM444304
-[208]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM444912
-[209]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM444610
-[210]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM444911
-[211]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM444607
-[212]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM444936
-[213]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM444632
-[214]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM444648
-[215]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM444920
-[216]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM444929
-[217]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM231942
-[218]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM236786
-[219]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM246310
-[220]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM246311
-[221]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM104697
-[222]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM104699
-[223]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM104910
-[224]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM104914
-[225]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM234301
-[226]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM231904
-[227]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM237755
-[228]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM300610
-[229]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM300622
-[230]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM242504
-[231]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM339736
-[232]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM339752
-[233]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM339753
-[234]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM339754
-[235]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM104633
-[236]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM132208
-[237]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM132209
-[238]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM444690
-[239]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM104660
-[240]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM269031
-[241]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM420676
-[242]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM192331
-[243]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM435597
-[244]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM192355
-[245]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM192358
-[246]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM300510
-[247]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM195439
-[248]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM195468
-[249]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM195470
+[189]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM4929207
+[190]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM1297534
+[191]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM435544
+[192]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM98097
+[193]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM184658
+[194]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM192356
+[195]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM223144
+[196]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM353436
+[197]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM261466
+[198]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM103609
+[199]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM107200
+[200]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM281432
+[201]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM432115
+[202]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM432125
+[203]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM104615
+[204]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM38204
+[205]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM395502
+[206]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM444605
+[207]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM444492
+[208]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM444304
+[209]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM444912
+[210]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM444610
+[211]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM444911
+[212]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM444607
+[213]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM444936
+[214]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM444632
+[215]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM444648
+[216]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM444920
+[217]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM444929
+[218]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM231942
+[219]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM236786
+[220]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM246310
+[221]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM246311
+[222]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM104697
+[223]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM104699
+[224]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM104910
+[225]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM104914
+[226]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM234301
+[227]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM231904
+[228]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM237755
+[229]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM300610
+[230]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM300622
+[231]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM242504
+[232]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM339736
+[233]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM339752
+[234]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM339753
+[235]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM339754
+[236]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM104633
+[237]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM132208
+[238]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM132209
+[239]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM444690
+[240]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM104660
+[241]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM269031
+[242]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM420676
+[243]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM192331
+[244]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM435597
+[245]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM192355
+[246]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM192358
+[247]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM300510
+[248]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM2998516
+[249]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM2998515
+[250]: http://www.legislation.govt.nz/act/public/2005/0072/latest/link.aspx?id=DLM2998532
+[251]: http://www.pco.parliament.govt.nz/editorial-conventions/
