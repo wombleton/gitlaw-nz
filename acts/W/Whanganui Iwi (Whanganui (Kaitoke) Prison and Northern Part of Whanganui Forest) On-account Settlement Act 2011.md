@@ -1,3 +1,6 @@
+Reprint  
+as at 1 January 2014
+
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Whanganui Iwi (Whanganui (Kaitoke) Prison and Northern Part of Whanganui Forest) On-account Settlement Act 2011Public Act2011 No 51
@@ -6,45 +9,57 @@ Date of assent22 July 2011
 
 Commencementsee section 2
 
+---
+
+###### Note
+
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
+
+This Act is administered by the Ministry of Justice.
+
+---
+
 ## Contents
 
-*   [Preamble][0]
+*   [Preamble][1]
 
-[1 ][1] [Title][1]
+[1 ][2][][2][Title][2]
 
-[2 ][2] [Commencement][2]
+[2 ][3][][3][Commencement][3]
 
-[Part 1][3]  
-[Preliminary provisions][3]
+[Part 1][4]  
+[Preliminary provisions][4]
 
-[3 ][4] [Purpose][4]
+[3 ][5][][5][Purpose][5]
 
-[4 ][5] [Interpretation][5]
+[4 ][6][][6][Interpretation][6]
 
-[5 ][6] [Meaning of Whanganui Iwi historical claims][6]
+[5 ][7][][7][Meaning of Whanganui Iwi historical claims][7]
 
-[6 ][7] [Act binds the Crown][7]
+[6 ][8][][8][Act binds the Crown][8]
 
-[Part 2][8]  
-[Transfer of Whanganui (Kaitoke) Prison and northern part of Whanganui Forest and related matters][8]
+[Part 2][9]  
+[Transfer of Whanganui (Kaitoke) Prison and northern part of Whanganui Forest and related matters][9]
 
-[7 ][9] [Northern part of Whanganui Forest ceases to be Crown forest land][9]
+[7 ][10][][10][Northern part of Whanganui Forest ceases to be Crown forest land][10]
 
-[8 ][10] [Application of Ngāti Apa (North Island) Claims Settlement Act 2010 to transfers][10]
+[8 ][11][][11][Application of Ngāti Apa (North Island) Claims Settlement Act 2010 to transfers][11]
 
-[9 ][11] [Certain enactments do not apply to transfer of northern part of Whanganui Forest][11]
+[9 ][12][][12][Certain enactments do not apply to transfer of northern part of Whanganui Forest][12]
 
-[10 ][12] [Termination of obligations][12]
+[10 ][13][][13][Termination of obligations][13]
 
-[Access to deed of on-account settlement][13]
+[Access to deed of on-account settlement][14]
 
-[11 ][14] [Access to deed of on-account settlement][14]
+[11 ][15][][15][Access to deed of on-account settlement][15]
 
 ---
 
 *   #### Preamble
     
-    (1) The Treaty of Waitangi was signed in 1840\. The terms of the Treaty of Waitangi in English and Māori are set out in [Schedule 1][15] of the Treaty of Waitangi Act 1975:
+    (1) The Treaty of Waitangi was signed in 1840\. The terms of the Treaty of Waitangi in English and Māori are set out in [Schedule 1][16] of the Treaty of Waitangi Act 1975:
     
     (2) Recitals (3) and (4) of this Preamble present, in summary form, the background to the Deed of On-account Settlement of Historical Claims of Whanganui Iwi in relation to the Whanganui Kaitoke Prison and Part of the Whanganui Forest (the **deed of on-account settlement**) entered into by Whanganui Iwi and the Crown:
     
@@ -79,17 +94,19 @@ Preliminary provisions
     
     *   (b) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year; and
     
+    *   (ba) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    
     *   (c) the day observed as the anniversary of the province of Wellington
     
-    _Crown_ has the meaning given to it in [section 2(1)][16] of the Public Finance Act 1989
+    _Crown_ has the meaning given to it in [section 2(1)][17] of the Public Finance Act 1989
     
-    _Crown forestry assets_ means the meaning given to it in [section 2(1)][17] of the Crown Forest Assets Act 1989
+    _Crown forestry assets_ means the meaning given to it in [section 2(1)][18] of the Crown Forest Assets Act 1989
     
     _deed of on-account settlement_ means the deed of on-account settlement of historical claims of Whanganui Iwi in relation to the Whanganui Kaitoke Prison and part of the Whanganui Forest between the working party on behalf of Whanganui Iwi, the trustees of the Pakaitore Trust, and the Crown dated 31 July 2009 and as amended from time to time
     
     _Ngāti Apa agreement in principle_ means the agreement in principle between Ngāti Apa (North Island) and the Crown dated 12 July 2007
     
-    _Ngāti Apa (North Island)_ has the same meaning given to it by [section 11][18] of the Ngāti Apa (North Island) Claims Settlement Act 2010
+    _Ngāti Apa (North Island)_ has the same meaning given to it by [section 11][19] of the Ngāti Apa (North Island) Claims Settlement Act 2010
     
     _Ngāti Apa (North Island) Deed of Settlement_ means the deed of settlement of historical claims between Ngāti Apa (North Island) and the Crown dated 8 October 2008 and as amended from time to time
     
@@ -101,7 +118,7 @@ Preliminary provisions
     
     _trustees' interest in the Whanganui (Kaitoke) Prison_ means an undivided half share in the fee simple estate in the Whanganui (Kaitoke) Prison
     
-    _unlicensed Crown forest land_ has the same meaning given to it by [section 10][19] of the Ngāti Apa (North Island) Claims Settlement Act 2010
+    _unlicensed Crown forest land_ has the same meaning given to it by [section 10][20] of the Ngāti Apa (North Island) Claims Settlement Act 2010
     
     _Whanganui Forest transfer date_ means the later of---
         
@@ -113,7 +130,7 @@ Preliminary provisions
         
     *   (a) Whanganui Prison in Part 4 of the Schedule of the deed of on-account settlement; and
     
-    *   (b) Wanganui (Kaitoke) Prison in [clause 3][20] of the Corrections (Wanganui (Kaitoke) Prison) Notice 2008
+    *   (b) Wanganui (Kaitoke) Prison in [clause 3][21] of the Corrections (Wanganui (Kaitoke) Prison) Notice 2008
     
     _Whanganui Iwi_--- 
         
@@ -122,6 +139,8 @@ Preliminary provisions
     *   (b) includes all descendants of the Tupuna Rohe o Whanganui
     
     _working party_ means the working party of representatives of the Southern Whanganui Cluster and Te Runanga o Tupoho formed to engage with Ngāti Apa (North Island) on the redress set out in the Ngāti Apa (North Island) agreement in principle.
+    
+    Section 4 **business day** paragraph (ba): inserted, on 1 January 2014, by [section 8][22] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
 
 ##### 5 Meaning of Whanganui Iwi historical claims
     
@@ -166,9 +185,9 @@ Transfer of Whanganui (Kaitoke) Prison and northern part of Whanganui Forest and
 
 ##### 8 Application of Ngāti Apa (North Island) Claims Settlement Act 2010 to transfers
     
-*   (1) [Subpart 1][21] of Part 3 of the Ngāti Apa (North Island) Claims Settlement Act 2010 (which relates to the transfer of commercial redress properties) applies with any necessary modifications to the transfer of the trustees' interest in the Whanganui (Kaitoke) Prison and the transfer of the northern part of the Whanganui Forest to the trustees, in order to give effect to Parts 2 and 3 respectively of the deed of on-account settlement.
+*   (1) [Subpart 1][23] of Part 3 of the Ngāti Apa (North Island) Claims Settlement Act 2010 (which relates to the transfer of commercial redress properties) applies with any necessary modifications to the transfer of the trustees' interest in the Whanganui (Kaitoke) Prison and the transfer of the northern part of the Whanganui Forest to the trustees, in order to give effect to Parts 2 and 3 respectively of the deed of on-account settlement.
     
-    (2) [Subpart 4][22] of Part 3 of the Ngāti Apa (North Island) Claims Settlement Act 2010 (which relates to access to protected sites) applies with any necessary modifications to the transfer of the northern part of the Whanganui Forest to the trustees, in order to give effect to Part 3 of the deed of on-account settlement.
+    (2) [Subpart 4][24] of Part 3 of the Ngāti Apa (North Island) Claims Settlement Act 2010 (which relates to access to protected sites) applies with any necessary modifications to the transfer of the northern part of the Whanganui Forest to the trustees, in order to give effect to Part 3 of the deed of on-account settlement.
 
 ##### 9 Certain enactments do not apply to transfer of northern part of Whanganui Forest
     
@@ -180,15 +199,15 @@ Transfer of Whanganui (Kaitoke) Prison and northern part of Whanganui Forest and
     
     (2) The enactments are---
         
-    *   (a) [sections 8A to 8HJ][23] of the Treaty of Waitangi Act 1975: 
+    *   (a) [sections 8A to 8HJ][25] of the Treaty of Waitangi Act 1975: 
     
-    *   (b) [Part 3][24] of the Crown Forest Assets Act 1989\.
+    *   (b) [Part 3][26] of the Crown Forest Assets Act 1989\.
     
     
 
 ##### 10 Termination of obligations
     
-*   [Sections 7][9] and [8(2)][10] do not apply in respect of the northern part of the Whanganui Forest if the Crown's obligations terminate under clause 3.7 of the deed of on-account settlement.
+*   [Sections 7][10] and [8(2)][11] do not apply in respect of the northern part of the Whanganui Forest if the Crown's obligations terminate under clause 3.7 of the deed of on-account settlement.
 
 #### Access to deed of on-account settlement
 
@@ -202,52 +221,58 @@ Transfer of Whanganui (Kaitoke) Prison and northern part of Whanganui Forest and
     
     
 
----
-
-## Legislative history
-
-25 August 2009Introduction (Bill 67--1)
-
-19 November 2009First reading and referral to Māori Affairs Committee
-
-18 March 2010Reported from Māori Affairs Committee (Bill 67--2)
-
-7 September 2010Second reading
-
-17 February, 6 April 2011Committee of the whole House
-
-3 May 2011Reported from committee of the whole House
-
-12 July 2011Third reading
-
-22 July 2011Royal assent
+#### 
 
 ---
 
-This Act is administered by the Ministry of Justice.
+##### Reprints notes
 
-[0]: http://www.legislation.govt.nz/act/public/2011/0051/latest/whole.html#DLM2273506
-[1]: http://www.legislation.govt.nz/act/public/2011/0051/latest/whole.html#DLM2273509
-[2]: http://www.legislation.govt.nz/act/public/2011/0051/latest/whole.html#DLM2273510
-[3]: http://www.legislation.govt.nz/act/public/2011/0051/latest/whole.html#DLM2273511
-[4]: http://www.legislation.govt.nz/act/public/2011/0051/latest/whole.html#DLM2273512
-[5]: http://www.legislation.govt.nz/act/public/2011/0051/latest/whole.html#DLM2273513
-[6]: http://www.legislation.govt.nz/act/public/2011/0051/latest/whole.html#DLM2273544
-[7]: http://www.legislation.govt.nz/act/public/2011/0051/latest/whole.html#DLM2273546
-[8]: http://www.legislation.govt.nz/act/public/2011/0051/latest/whole.html#DLM2273547
-[9]: http://www.legislation.govt.nz/act/public/2011/0051/latest/whole.html#DLM2273548
-[10]: http://www.legislation.govt.nz/act/public/2011/0051/latest/whole.html#DLM2273549
-[11]: http://www.legislation.govt.nz/act/public/2011/0051/latest/whole.html#DLM2273550
-[12]: http://www.legislation.govt.nz/act/public/2011/0051/latest/whole.html#DLM2273551
-[13]: http://www.legislation.govt.nz/act/public/2011/0051/latest/whole.html#DLM2273552
-[14]: http://www.legislation.govt.nz/act/public/2011/0051/latest/whole.html#DLM2273553
-[15]: http://www.legislation.govt.nz/act/public/2011/0051/latest/link.aspx?id=DLM435834
-[16]: http://www.legislation.govt.nz/act/public/2011/0051/latest/link.aspx?id=DLM160819
-[17]: http://www.legislation.govt.nz/act/public/2011/0051/latest/link.aspx?id=DLM191774
-[18]: http://www.legislation.govt.nz/act/public/2011/0051/latest/link.aspx?id=DLM2274863
-[19]: http://www.legislation.govt.nz/act/public/2011/0051/latest/link.aspx?id=DLM2274733
-[20]: http://www.legislation.govt.nz/act/public/2011/0051/latest/link.aspx?id=DLM1374306
-[21]: http://www.legislation.govt.nz/act/public/2011/0051/latest/link.aspx?id=DLM2274975
-[22]: http://www.legislation.govt.nz/act/public/2011/0051/latest/link.aspx?id=DLM2274993
-[23]: http://www.legislation.govt.nz/act/public/2011/0051/latest/link.aspx?id=DLM435544
-[24]: http://www.legislation.govt.nz/act/public/2011/0051/latest/link.aspx?id=DLM192356
+###### 1 General
+    
+*   This is a reprint of the Whanganui Iwi (Whanganui (Kaitoke) Prison and Northern Part of Whanganui Forest) On-account Settlement Act 2011 that incorporates all the amendments to that Act as at the date of the last amendment to it.
+
+###### 2 Legal status
+    
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][27] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][28] of that Act.
+
+###### 3 Editorial and format changes
+    
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][29] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][30] ![](/images/external_link.gif).
+
+###### 4 Amendments incorporated in this reprint
+    
+*   Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][22]
+
+
+
+[0]: http://www.legislation.govt.nz/act/public/2011/0051/latest/link.aspx?id=DLM2998524
+[1]: http://www.legislation.govt.nz/act/public/2011/0051/latest/whole.html#DLM2273506
+[2]: http://www.legislation.govt.nz/act/public/2011/0051/latest/whole.html#DLM2273509
+[3]: http://www.legislation.govt.nz/act/public/2011/0051/latest/whole.html#DLM2273510
+[4]: http://www.legislation.govt.nz/act/public/2011/0051/latest/whole.html#DLM2273511
+[5]: http://www.legislation.govt.nz/act/public/2011/0051/latest/whole.html#DLM2273512
+[6]: http://www.legislation.govt.nz/act/public/2011/0051/latest/whole.html#DLM2273513
+[7]: http://www.legislation.govt.nz/act/public/2011/0051/latest/whole.html#DLM2273544
+[8]: http://www.legislation.govt.nz/act/public/2011/0051/latest/whole.html#DLM2273546
+[9]: http://www.legislation.govt.nz/act/public/2011/0051/latest/whole.html#DLM2273547
+[10]: http://www.legislation.govt.nz/act/public/2011/0051/latest/whole.html#DLM2273548
+[11]: http://www.legislation.govt.nz/act/public/2011/0051/latest/whole.html#DLM2273549
+[12]: http://www.legislation.govt.nz/act/public/2011/0051/latest/whole.html#DLM2273550
+[13]: http://www.legislation.govt.nz/act/public/2011/0051/latest/whole.html#DLM2273551
+[14]: http://www.legislation.govt.nz/act/public/2011/0051/latest/whole.html#DLM2273552
+[15]: http://www.legislation.govt.nz/act/public/2011/0051/latest/whole.html#DLM2273553
+[16]: http://www.legislation.govt.nz/act/public/2011/0051/latest/link.aspx?id=DLM435834
+[17]: http://www.legislation.govt.nz/act/public/2011/0051/latest/link.aspx?id=DLM160819
+[18]: http://www.legislation.govt.nz/act/public/2011/0051/latest/link.aspx?id=DLM191774
+[19]: http://www.legislation.govt.nz/act/public/2011/0051/latest/link.aspx?id=DLM2274863
+[20]: http://www.legislation.govt.nz/act/public/2011/0051/latest/link.aspx?id=DLM2274733
+[21]: http://www.legislation.govt.nz/act/public/2011/0051/latest/link.aspx?id=DLM1374306
+[22]: http://www.legislation.govt.nz/act/public/2011/0051/latest/link.aspx?id=DLM4929207
+[23]: http://www.legislation.govt.nz/act/public/2011/0051/latest/link.aspx?id=DLM2274975
+[24]: http://www.legislation.govt.nz/act/public/2011/0051/latest/link.aspx?id=DLM2274993
+[25]: http://www.legislation.govt.nz/act/public/2011/0051/latest/link.aspx?id=DLM435544
+[26]: http://www.legislation.govt.nz/act/public/2011/0051/latest/link.aspx?id=DLM192356
+[27]: http://www.legislation.govt.nz/act/public/2011/0051/latest/link.aspx?id=DLM2998516
+[28]: http://www.legislation.govt.nz/act/public/2011/0051/latest/link.aspx?id=DLM2998515
+[29]: http://www.legislation.govt.nz/act/public/2011/0051/latest/link.aspx?id=DLM2998532
+[30]: http://www.pco.parliament.govt.nz/editorial-conventions/
