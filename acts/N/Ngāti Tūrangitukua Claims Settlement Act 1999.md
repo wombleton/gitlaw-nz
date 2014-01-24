@@ -1,7 +1,7 @@
 Reprint  
-as at 23 May 2008
+as at 1 January 2014
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Ngāti Tūrangitukua Claims Settlement Act 1999Public Act1999 No 118
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Office of Treaty Settlements.
 
@@ -27,103 +27,103 @@ This Act is administered by the Office of Treaty Settlements.
     
 *   [Preamble][2]
 
-[1][3] [Short Title and commencement][3]
+[1][3][][3][Short Title and commencement][3]
 
-[2][4] [Act to bind the Crown][4]
+[2][4][][4][Act to bind the Crown][4]
 
 [Part 1][5]  
 [Apology by the Crown to Ngāti Tūrangitukua][5]
 
-[3][6] [Apology][6]
+[3][6][][6][Apology][6]
 
-[4][7] [Text in Māori][7]
+[4][7][][7][Text in Māori][7]
 
-[5][8] [Text in English][8]
+[5][8][][8][Text in English][8]
 
 [Part 2][9]  
 [Interpretation][9]
 
-[6][10] [Interpretation of Act generally][10]
+[6][10][][10][Interpretation of Act generally][10]
 
-[7][11] [Interpretation of terms][11]
+[7][11][][11][Interpretation of terms][11]
 
-[8][12] [Meaning of Ngāti Tūrangitukua claims][12]
+[8][12][][12][Meaning of Ngāti Tūrangitukua claims][12]
 
 [Part 3][13]  
 [Settlement of claims][13]
 
-[9][14] [Settlement of Ngāti Tūrangitukua claims to be final][14]
+[9][14][][14][Settlement of Ngāti Tūrangitukua claims to be final][14]
 
-[10][15] [Jurisdiction of Tribunal to consider claims][15] \[Repealed\]
+[10][15][][15][Jurisdiction of Tribunal to consider claims][15] \[Repealed\]
 
-[11][16] [Enactments relating to resumptive memorials on land subject to Ngāti Tūrangitukua claims no longer to apply][16]
+[11][16][][16][Enactments relating to resumptive memorials on land subject to Ngāti Tūrangitukua claims no longer to apply][16]
 
-[12][17] [Removal of resumptive memorials][17]
+[12][17][][17][Removal of resumptive memorials][17]
 
-[13][18] [Settlement for benefit of Ngāti Tūrangitukua collectively][18]
+[13][18][][18][Settlement for benefit of Ngāti Tūrangitukua collectively][18]
 
-[14][19] [Rule against perpetuities not to apply][19]
+[14][19][][19][Rule against perpetuities not to apply][19]
 
 [Part 4][20]  
 [Transfer of settlement properties][20]
 
-[15][21] [Transfer of settlement properties][21]
+[15][21][][21][Transfer of settlement properties][21]
 
-[16][22] [Issue of certificates of title][22]
+[16][22][][22][Issue of certificates of title][22]
 
 [Part 5][23]  
 [Department of Conservation protocol][23]
 
-[17][24] [Interpretation][24]
+[17][24][][24][Interpretation][24]
 
-[18][25] [Authority to issue, amend, or cancel protocol][25]
+[18][25][][25][Authority to issue, amend, or cancel protocol][25]
 
-[19][26] [Protocol subject to Crown obligations][26]
+[19][26][][26][Protocol subject to Crown obligations][26]
 
-[20][27] [Noting of protocol][27]
+[20][27][][27][Noting of protocol][27]
 
-[21][28] [Enforceability of protocol][28]
+[21][28][][28][Enforceability of protocol][28]
 
-[22][29] [Limitation of rights][29]
+[22][29][][29][Limitation of rights][29]
 
 [Part 6][30]  
 [Reserves][30]
 
-[23][31] [Effective date of matters set out in this Part][31]
+[23][31][][31][Effective date of matters set out in this Part][31]
 
-[24][32] [Intermediate vesting of certain reserves in the Crown before fee simple estate vests in Ngāti Tūrangitukua Charitable Trust][32]
+[24][32][][32][Intermediate vesting of certain reserves in the Crown before fee simple estate vests in Ngāti Tūrangitukua Charitable Trust][32]
 
-[25][33] [Kutai Street reserves][33]
+[25][33][][33][Kutai Street reserves][33]
 
-[25A][34] [Notation on title][34]
+[25A][34][][34][Notation on title][34]
 
-[26][35] [Crown reserves][35]
+[26][35][][35][Crown reserves][35]
 
-[27][36] [Council reserves][36]
+[27][36][][36][Council reserves][36]
 
-[28][37] [Management of Crown reserves and council reserves][37]
+[28][37][][37][Management of Crown reserves and council reserves][37]
 
-[29][38] [Power to make bylaws][38]
+[29][38][][38][Power to make bylaws][38]
 
-[30][39] [Exemption from rates][39]
+[30][39][][39][Exemption from rates][39]
 
-[31][40] [Certificate of title for Crown reserves and council reserves][40]
+[31][40][][40][Certificate of title for Crown reserves and council reserves][40]
 
-[32][41] [Structures and improvements on reserves][41]
+[32][41][][41][Structures and improvements on reserves][41]
 
-[33][42] [Public access rights][42]
+[33][42][][42][Public access rights][42]
 
-[34][43] [Issue of title to reserves][43]
+[34][43][][43][Issue of title to reserves][43]
 
-[35][44] [Exclusions][44]
+[35][44][][44][Exclusions][44]
 
-[36][45] [Encumbrances][45]
+[36][45][][45][Encumbrances][45]
 
-[37][46] [Certification of registrable interests][46]
+[37][46][][46][Certification of registrable interests][46]
 
-[38][47] [Successors bound][47]
+[38][47][][47][Successors bound][47]
 
-[39][48] [Change of name of reserve][48]
+[39][48][][48][Change of name of reserve][48]
 
 [Schedule 1][49]  
 [The Treaty of Waitangi][49]
@@ -354,6 +354,8 @@ Interpretation
     
     *   (b) a day in the period commencing with 25 December in any year, and ending with the close of 5 January in the following year; and
     
+    *   (ba) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    
     *   (c) the days observed as the anniversaries of the provinces of Wellington and Auckland
     
     _chief executive_ means the chief executive of Land Information New Zealand
@@ -411,6 +413,8 @@ Interpretation
     _Turangitukua Nominees Limited_ means a company of that name incorporated under the [Companies Act 1993][64]
     
     _Wai 84_ means the claim filed in the Waitangi Tribunal relating to the acquisition of the land by the Crown for the construction of the Turangi Township, being the claim to which the Waitangi Tribunal's Turangi Township Report 1995 and Turangi Township Remedies Report 1998 relate.
+    
+    Section 7 **business day** paragraph (ba): inserted, on 1 January 2014, by [section 8][65] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
 
 ##### 8 Meaning of Ngāti Tūrangitukua claims
     
@@ -467,21 +471,21 @@ Settlement of claims
     
 *   \[Repealed\]
     
-    Section 10: repealed, on 23 May 2008, by [section 7][65] of the Treaty of Waitangi Amendment Act 2008 (2008 No 34).
+    Section 10: repealed, on 23 May 2008, by [section 7][66] of the Treaty of Waitangi Amendment Act 2008 (2008 No 34).
 
 ##### 11 Enactments relating to resumptive memorials on land subject to Ngāti Tūrangitukua claims no longer to apply
     
 *   (1) Nothing in the following enactments applies in relation to any land in the Turangi Township:
         
-    *   (a) [sections 8A to 8H][66] of the Treaty of Waitangi Act 1975; or
+    *   (a) [sections 8A to 8H][67] of the Treaty of Waitangi Act 1975; or
     
-    *   (b) the amendments made to the [Treaty of Waitangi Act 1975][67] by [Part 4][68] of the New Zealand Railways Corporation Restructuring Act 1990; or
+    *   (b) the amendments made to the [Treaty of Waitangi Act 1975][68] by [Part 4][69] of the New Zealand Railways Corporation Restructuring Act 1990; or
     
-    *   (c) [sections 27A to 27C][69] of the State-Owned Enterprises Act 1986; or
+    *   (c) [sections 27A to 27C][70] of the State-Owned Enterprises Act 1986; or
     
-    *   (d) [sections 211 to 213][70] of the Education Act 1989; or
+    *   (d) [sections 211 to 213][71] of the Education Act 1989; or
     
-    *   (e) [Part 3][71] of the New Zealand Railways Corporation Restructuring Act 1990\.
+    *   (e) [Part 3][72] of the New Zealand Railways Corporation Restructuring Act 1990\.
     
     (2) Subsection (1)(c) does not apply to the land comprised in certificate of title 34C/191 (Wellington Registry).
 
@@ -509,7 +513,7 @@ Settlement of claims
 
 ##### 14 Rule against perpetuities not to apply
     
-*   The rule against perpetuities or any relevant provisions of the [Perpetuities Act 1964][72] do not apply to any document entered into to give effect to the settlement, if the application of that rule or the provisions of that Act would otherwise make the document invalid or ineffective.
+*   The rule against perpetuities or any relevant provisions of the [Perpetuities Act 1964][73] do not apply to any document entered into to give effect to the settlement, if the application of that rule or the provisions of that Act would otherwise make the document invalid or ineffective.
 
 ## Part 4  
 Transfer of settlement properties
@@ -526,27 +530,27 @@ Transfer of settlement properties
     
     *   (d) sign any memorandum of transfer or lease, or any other document, or do any other thing for the purposes of any such purchase, acquisition, lease, or transfer.
     
-    (2) [Section 40][73] of the Public Works Act 1981 (but not [sections 41][74] and [42][75] of that Act), and that section as applied by any other Act, applies to the transfer of any settlement property under subsection (1)(c).
+    (2) [Section 40][74] of the Public Works Act 1981 (but not [sections 41][75] and [42][76] of that Act), and that section as applied by any other Act, applies to the transfer of any settlement property under subsection (1)(c).
     
     (3) Except as expressly provided otherwise in, or by operation of, this Act, nothing in subsection (1) limits---
         
     *   (a) subsection (4); or
     
-    *   (b) [sections 10][76] and [11][77] of the Crown Minerals Act 1991; or
+    *   (b) [sections 10][77] and [11][78] of the Crown Minerals Act 1991; or
     
     *   (c) any other reservation made by any enactment or statutory instrument; or
     
     *   (d) any other enactment which must be complied with before any disposal.
     
-    (4) Nothing in the [Land Act 1948][78] applies to any settlement property that is to be transferred from a Crown body to another Crown body or to the Ngāti Tūrangitukua Charitable Trust or its nominee, or vested in the Ngāti Tūrangitukua Charitable Trust or its nominee, for the purposes of giving effect to the deed of settlement.
+    (4) Nothing in the [Land Act 1948][79] applies to any settlement property that is to be transferred from a Crown body to another Crown body or to the Ngāti Tūrangitukua Charitable Trust or its nominee, or vested in the Ngāti Tūrangitukua Charitable Trust or its nominee, for the purposes of giving effect to the deed of settlement.
     
-    (5) Nothing in the [Land Act 1948][78] restricts the period for which a lease may be granted under subsection (1)(b).
+    (5) Nothing in the [Land Act 1948][79] restricts the period for which a lease may be granted under subsection (1)(b).
 
 ##### 16 Issue of certificates of title
     
 *   (1) In this section, _settlement property_ means a settlement property---
         
-    *   (a) for which no certificate of title has been issued under the [Land Transfer Act 1952][79]; and
+    *   (a) for which no certificate of title has been issued under the [Land Transfer Act 1952][80]; and
     
     *   (b) the fee simple estate in which---
             
@@ -556,7 +560,7 @@ Transfer of settlement properties
         
         
     
-    (2) Despite any other enactment or rule of law, the Registrar must, at the request of the Commissioner of Crown Lands and after the completion of such survey (if any) as may be necessary, issue a certificate of title under the [Land Transfer Act 1952][79] for the fee simple estate in a settlement property in the name of the Crown.
+    (2) Despite any other enactment or rule of law, the Registrar must, at the request of the Commissioner of Crown Lands and after the completion of such survey (if any) as may be necessary, issue a certificate of title under the [Land Transfer Act 1952][80] for the fee simple estate in a settlement property in the name of the Crown.
     
     (3) The certificate of title is subject to, and has the benefit of, any relevant easements, encumbrances, restrictions, and other interests, details of which must be set out in the request of the Commissioner of Crown Lands.
 
@@ -599,13 +603,13 @@ Department of Conservation protocol
     
 *   (1) The existence of the protocol, once issued, and as amended from time to time, including the definition of a protocol as set out in [section 17][24] and a summary of the terms of issue of the protocol, must be noted in conservation management strategies, conservation management plans, and national park management plans affecting the area covered by the protocol.
     
-    (2) Noting of the protocol under subsection (1) is for the purpose of public notice only and is not an amendment to the relevant strategies or plans for the purposes of [section 17I][80] of the Conservation Act 1987 or [section 46][81] of the National Parks Act 1980\.
+    (2) Noting of the protocol under subsection (1) is for the purpose of public notice only and is not an amendment to the relevant strategies or plans for the purposes of [section 17I][81] of the Conservation Act 1987 or [section 46][82] of the National Parks Act 1980\.
 
 ##### 21 Enforceability of protocol
     
 *   (1) The Minister of Conservation must comply with the protocol as long as it remains in force.
     
-    (2) If the Minister of Conservation fails unreasonably to comply with the protocol, the Turangitukua Nominees Limited may, subject to the [Crown Proceedings Act 1950][82], enforce the protocol by way of public law action against the Minister of Conservation.
+    (2) If the Minister of Conservation fails unreasonably to comply with the protocol, the Turangitukua Nominees Limited may, subject to the [Crown Proceedings Act 1950][83], enforce the protocol by way of public law action against the Minister of Conservation.
     
     (3) No person or body, other than the Turangitukua Nominees Limited, may enforce the protocol against the Minister of Conservation.
     
@@ -615,7 +619,7 @@ Department of Conservation protocol
 
 ##### 22 Limitation of rights
     
-*   Except as expressly provided in [sections 19 to 21][26] or the protocol, the protocol does not grant, create, or provide evidence of an estate, interest, or right of any kind for land held, managed, or administered under the [Conservation Act 1987][83] or an Act listed in [Schedule 1][84] of that Act.
+*   Except as expressly provided in [sections 19 to 21][26] or the protocol, the protocol does not grant, create, or provide evidence of an estate, interest, or right of any kind for land held, managed, or administered under the [Conservation Act 1987][84] or an Act listed in [Schedule 1][85] of that Act.
 
 ## Part 6  
 Reserves
@@ -636,9 +640,9 @@ Reserves
 
 ##### 25 Kutai Street reserves
     
-*   (1) In this section, _Kutai Street reserves_ means the land described in [Parts 1][85] and [2][86] of Schedule 3\.
+*   (1) In this section, _Kutai Street reserves_ means the land described in [Parts 1][86] and [2][87] of Schedule 3\.
     
-    (2) The land described in [Part 2][86] of Schedule 3 is declared a reserve and classified as a recreation reserve under the [Reserves Act 1977][87].
+    (2) The land described in [Part 2][87] of Schedule 3 is declared a reserve and classified as a recreation reserve under the [Reserves Act 1977][88].
     
     (3) The reservation of the Kutai Street reserves as reserves are revoked.
     
@@ -650,17 +654,17 @@ Reserves
         
     *   (a) subject to a public pedestrian right of way that is 3 m in width and immediately adjacent to the Tongariro River; and
     
-    *   (b) to avoid doubt, free from a requirement under [Part 4A][88] of the Conservation Act 1987 to reserve a marginal strip.
+    *   (b) to avoid doubt, free from a requirement under [Part 4A][89] of the Conservation Act 1987 to reserve a marginal strip.
     
     (7) If, at any time and for any reason, the course of the Tongariro River is altered, the right of way referred to in subsection (6)(a), immediately adjacent to the river, is determined by the course of the river.
     
-    Section 25(6): added, on 22 October 2003, by [section 3][89] of the Ngāti Tūrangitukua Claims Settlement Amendment Act 2003 (2003 No 89).
+    Section 25(6): added, on 22 October 2003, by [section 3][90] of the Ngāti Tūrangitukua Claims Settlement Amendment Act 2003 (2003 No 89).
     
-    Section 25(7): added, on 22 October 2003, by [section 3][89] of the Ngāti Tūrangitukua Claims Settlement Amendment Act 2003 (2003 No 89).
+    Section 25(7): added, on 22 October 2003, by [section 3][90] of the Ngāti Tūrangitukua Claims Settlement Amendment Act 2003 (2003 No 89).
 
 ##### 25A Notation on title
     
-*   (1) The Registrar-General of Land is authorised and directed to make entries in the register under the [Land Transfer Act 1952][79] and on the certificates of title for the Kutai Street reserves, and generally do what is necessary to give effect to the provisions of [section 25(6) and (7)][33] of this Act.
+*   (1) The Registrar-General of Land is authorised and directed to make entries in the register under the [Land Transfer Act 1952][80] and on the certificates of title for the Kutai Street reserves, and generally do what is necessary to give effect to the provisions of [section 25(6) and (7)][33] of this Act.
     
     (2) The Registrar must enter on the certificates of title for the Kutai Street reserves the following words:
     
@@ -670,7 +674,7 @@ Reserves
     
     (4) [Section 37][46] does not apply in respect of the right of way created under [section 25(6)][33].
     
-    Section 25A: inserted, on 22 October 2003, by [section 4][90] of the Ngāti Tūrangitukua Claims Settlement Amendment Act 2003 (2003 No 89).
+    Section 25A: inserted, on 22 October 2003, by [section 4][91] of the Ngāti Tūrangitukua Claims Settlement Amendment Act 2003 (2003 No 89).
 
 ##### 26 Crown reserves
     
@@ -684,9 +688,9 @@ Reserves
 
 ##### 27 Council reserves
     
-*   (1) The land described in [Part 6][56] of Schedule 3 is declared a reserve and classified as a recreation reserve under the [Reserves Act 1977][87].
+*   (1) The land described in [Part 6][56] of Schedule 3 is declared a reserve and classified as a recreation reserve under the [Reserves Act 1977][88].
     
-    (2) The land described in [Part 7][57] of Schedule 3 is declared a reserve and classified as a local purpose (water supply) reserve under the [Reserves Act 1977][87].
+    (2) The land described in [Part 7][57] of Schedule 3 is declared a reserve and classified as a local purpose (water supply) reserve under the [Reserves Act 1977][88].
     
     (3) The reservation of the council reserves as reserves is revoked.
     
@@ -696,27 +700,27 @@ Reserves
 
 ##### 28 Management of Crown reserves and council reserves
     
-*   (1) The agreement of Ngāti Tūrangitukua in clause 7.2.5 of the deed of settlement to the Council controlling and managing the Crown reserves and the council reserves is sufficient for the purposes of [section 38(1)][91] of the Reserves Act 1977\.
+*   (1) The agreement of Ngāti Tūrangitukua in clause 7.2.5 of the deed of settlement to the Council controlling and managing the Crown reserves and the council reserves is sufficient for the purposes of [section 38(1)][92] of the Reserves Act 1977\.
     
-    (2) The approval of the Minister of Conservation to the Council controlling and managing the Crown reserves and the council reserves is deemed to have been given for the purposes of [section 38(1)][91] of the Reserves Act 1977\.
+    (2) The approval of the Minister of Conservation to the Council controlling and managing the Crown reserves and the council reserves is deemed to have been given for the purposes of [section 38(1)][92] of the Reserves Act 1977\.
     
     (3) Each Crown reserve or council reserve may be controlled and managed by the Council---
         
-    *   (a) as if it were classified as a local purpose reserve under the [Reserves Act 1977][87] for the purpose of community buildings or drainage or waterworks where that purpose is specified in column 4 of [Parts 5][55] and [7][57] of Schedule 3:
+    *   (a) as if it were classified as a local purpose reserve under the [Reserves Act 1977][88] for the purpose of community buildings or drainage or waterworks where that purpose is specified in column 4 of [Parts 5][55] and [7][57] of Schedule 3:
     
-    *   (b) as if it were classified as a recreation reserve under the [Reserves Act 1977][87] where that purpose is specified in column 4 of [Parts 3 to 6][60] of Schedule 3\.
+    *   (b) as if it were classified as a recreation reserve under the [Reserves Act 1977][88] where that purpose is specified in column 4 of [Parts 3 to 6][60] of Schedule 3\.
     
-    (4) The control and management by the Council of the Crown reserves and council reserves is subject to the restrictions, terms, and conditions set out in attachment 7.4 of the deed of settlement (and recorded in [Schedule 2][50]) as if those restrictions, terms, or conditions were approved under [section 38(1)][91] of the Reserves Act 1977\.
+    (4) The control and management by the Council of the Crown reserves and council reserves is subject to the restrictions, terms, and conditions set out in attachment 7.4 of the deed of settlement (and recorded in [Schedule 2][50]) as if those restrictions, terms, or conditions were approved under [section 38(1)][92] of the Reserves Act 1977\.
     
-    (5) The quoting in [Schedule 2][50] of the restrictions, terms, and conditions referred to in subsection (4) is a matter of record only and does not give them any greater force or effect than they have as terms and conditions under [section 38(1)][91] of the Reserves Act 1977\.
+    (5) The quoting in [Schedule 2][50] of the restrictions, terms, and conditions referred to in subsection (4) is a matter of record only and does not give them any greater force or effect than they have as terms and conditions under [section 38(1)][92] of the Reserves Act 1977\.
     
-    (6) Despite subsection (3), the Council may, in accordance with the [Reserves Act 1977][87], change the purpose of any reserve in [Part 3][60], [Part 4][54], [Part 5][55], [Part 6][56], or [Part 7][57] of Schedule 3 by changing the reserve classification specified in column 4 of that part of that schedule.
+    (6) Despite subsection (3), the Council may, in accordance with the [Reserves Act 1977][88], change the purpose of any reserve in [Part 3][60], [Part 4][54], [Part 5][55], [Part 6][56], or [Part 7][57] of Schedule 3 by changing the reserve classification specified in column 4 of that part of that schedule.
     
     (7) The control and management by the Council of the council reserves in [Part 5][55], [Part 6][56], or [Part 7][57] of Schedule 3 continues in perpetuity in accordance with this section or until the Council decides, by resolution, that all or any part of the land is no longer required for a reserve.
 
 ##### 29 Power to make bylaws
     
-*   [Sections 106 to 108][92] of the Reserves Act 1977 apply in respect of the Crown reserves and council reserves as if---
+*   [Sections 106 to 108][93] of the Reserves Act 1977 apply in respect of the Crown reserves and council reserves as if---
         
     *   (a) the Crown reserves and council reserves were reserves under that Act; and
     
@@ -736,7 +740,7 @@ Reserves
     
 *   (1) In this section, _reserve assets_ means the structures, utilities, and improvements over, under, or upon the Crown reserves or the council reserves.
     
-    (2) The ownership of the reserve assets on the council reserves specified in [Part 5][55], [Part 6][56], or [Part 7][57] of Schedule 3 will be retained by the person who owned those assets as at 26 September 1998 and, if [section 10][93] or [section 10A][94] or [section 20][95] of the Resource Management Act 1991 then applied to the activities for which the reserve assets are used, those provisions continue to apply.
+    (2) The ownership of the reserve assets on the council reserves specified in [Part 5][55], [Part 6][56], or [Part 7][57] of Schedule 3 will be retained by the person who owned those assets as at 26 September 1998 and, if [section 10][94] or [section 10A][95] or [section 20][96] of the Resource Management Act 1991 then applied to the activities for which the reserve assets are used, those provisions continue to apply.
     
     (3) The ownership of the reserve assets on the Crown reserves and the council reserves specified in [Part 3][60] or [Part 4][54] of Schedule 3 is vested in the Council.
     
@@ -762,9 +766,9 @@ Reserves
 
 ##### 34 Issue of title to reserves
     
-*   (1) Where the fee simple estate in a reserve specified in [Schedule 3][51] is vested in the Ngāti Tūrangitukua Charitable Trust by this Act and the reserve is land that is registered under the [Land Transfer Act 1952][79], the Registrar must, upon written application by any person authorised by the chief executive, register the Ngāti Tūrangitukua Charitable Trust as the proprietor of the fee simple estate in the reserve in substitution for the Crown or the Council, as the case may be, who held the land immediately before that vesting and make such entries in the register and on any outstanding documents of title and generally do all such things as may be necessary to give effect to this.
+*   (1) Where the fee simple estate in a reserve specified in [Schedule 3][51] is vested in the Ngāti Tūrangitukua Charitable Trust by this Act and the reserve is land that is registered under the [Land Transfer Act 1952][80], the Registrar must, upon written application by any person authorised by the chief executive, register the Ngāti Tūrangitukua Charitable Trust as the proprietor of the fee simple estate in the reserve in substitution for the Crown or the Council, as the case may be, who held the land immediately before that vesting and make such entries in the register and on any outstanding documents of title and generally do all such things as may be necessary to give effect to this.
     
-    (2) When the fee simple estate in a reserve specified in [Schedule 3][51] is vested in the Ngāti Tūrangitukua Charitable Trust by this Act and the reserve is land other than land registered under the [Land Transfer Act 1952][79], the Registrar must, upon written application by any person authorised by the chief executive, issue a certificate of title for the fee simple estate in that reserve under the Land Transfer Act 1952 and register the Ngāti Tūrangitukua Charitable Trust as the proprietor of the fee simple estate in the reserve in substitution for the Crown or the Council, as the case may be, who held the land immediately before that vesting and make such entries in the register and on any outstanding documents of title and generally do all such things as may be necessary to give effect to this.
+    (2) When the fee simple estate in a reserve specified in [Schedule 3][51] is vested in the Ngāti Tūrangitukua Charitable Trust by this Act and the reserve is land other than land registered under the [Land Transfer Act 1952][80], the Registrar must, upon written application by any person authorised by the chief executive, issue a certificate of title for the fee simple estate in that reserve under the Land Transfer Act 1952 and register the Ngāti Tūrangitukua Charitable Trust as the proprietor of the fee simple estate in the reserve in substitution for the Crown or the Council, as the case may be, who held the land immediately before that vesting and make such entries in the register and on any outstanding documents of title and generally do all such things as may be necessary to give effect to this.
     
     (3) Without limiting subsection (4), an application made in accordance with subsection (1) or subsection (2) must be made as soon as reasonably practicable after settlement date and must---
         
@@ -778,25 +782,25 @@ Reserves
 
 ##### 35 Exclusions
     
-*   (1) [Sections 24][96] and [25][97] of the Reserves Act 1977 do not apply to the revocation of a reserve vested in the Ngāti Tūrangitukua Charitable Trust in accordance with [section 25][33], [section 26][35], or [section 27][36].
+*   (1) [Sections 24][97] and [25][98] of the Reserves Act 1977 do not apply to the revocation of a reserve vested in the Ngāti Tūrangitukua Charitable Trust in accordance with [section 25][33], [section 26][35], or [section 27][36].
     
-    (2) [Sections 78(1)(a)][98], [79][99], [80][100], and [81][101] of the Reserves Act 1977 do not apply to any reserve vested in the Ngāti Tūrangitukua Charitable Trust in accordance with [section 25][33], [section 26][35], or [section 27][36].
+    (2) [Sections 78(1)(a)][99], [79][100], [80][101], and [81][102] of the Reserves Act 1977 do not apply to any reserve vested in the Ngāti Tūrangitukua Charitable Trust in accordance with [section 25][33], [section 26][35], or [section 27][36].
     
-    (3) [Section 11][102] and [Part 10][103] of the Resource Management Act 1991 do not apply to a reserve vested in the Ngāti Tūrangitukua Charitable Trust in accordance with [section 25][33], [section 26][35], or [section 27][36].
+    (3) [Section 11][103] and [Part 10][104] of the Resource Management Act 1991 do not apply to a reserve vested in the Ngāti Tūrangitukua Charitable Trust in accordance with [section 25][33], [section 26][35], or [section 27][36].
 
 ##### 36 Encumbrances
     
-*   (1) Except as expressly provided in this Act, an encumbrance which is not registrable under the [Land Transfer Act 1952][79] is not required by virtue of this Act to be registered against the certificate of title for a reserve vested in accordance with [section 25][33], [section 26][35], or [section 27][36] of this Act.
+*   (1) Except as expressly provided in this Act, an encumbrance which is not registrable under the [Land Transfer Act 1952][80] is not required by virtue of this Act to be registered against the certificate of title for a reserve vested in accordance with [section 25][33], [section 26][35], or [section 27][36] of this Act.
     
-    (2) Except as expressly provided in this Act, the fee simple estate of a reserve that is land under the [Land Transfer Act 1952][79] and that is vested in accordance with [section 25][33], [section 26][35], or [section 27][36] of this Act, is vested subject to any encumbrances in existence on 26 September 1998 and notified to the Ngāti Tūrangitukua Charitable Trust by the Crown in accordance with clause 7.2.17(a) of the deed of settlement.
+    (2) Except as expressly provided in this Act, the fee simple estate of a reserve that is land under the [Land Transfer Act 1952][80] and that is vested in accordance with [section 25][33], [section 26][35], or [section 27][36] of this Act, is vested subject to any encumbrances in existence on 26 September 1998 and notified to the Ngāti Tūrangitukua Charitable Trust by the Crown in accordance with clause 7.2.17(a) of the deed of settlement.
 
 ##### 37 Certification of registrable interests
     
-*   (1) Where the fee simple estate in a reserve is vested in the Ngāti Tūrangitukua Charitable Trust subject to the reservation of, or having the benefit of, any easement (not being an easement previously registered under the [Land Transfer Act 1952][79]) or any other registrable or notable encumbrance under this or any other Act, the chief executive, or the Chief Surveyor for the district concerned, must include in the certificate given under subsection (1) or subsection (2) of [section 34][43], a sufficient description of the easement or encumbrance and particulars as to the rights, powers, terms, covenants, conditions, and restrictions attached to it.
+*   (1) Where the fee simple estate in a reserve is vested in the Ngāti Tūrangitukua Charitable Trust subject to the reservation of, or having the benefit of, any easement (not being an easement previously registered under the [Land Transfer Act 1952][80]) or any other registrable or notable encumbrance under this or any other Act, the chief executive, or the Chief Surveyor for the district concerned, must include in the certificate given under subsection (1) or subsection (2) of [section 34][43], a sufficient description of the easement or encumbrance and particulars as to the rights, powers, terms, covenants, conditions, and restrictions attached to it.
     
     (2) The Registrar must enter a notation of the easement or encumbrance upon the relevant certificate of title by reference to the certificate in which it is described as if that certificate were the instrument creating the easement or encumbrance.
     
-    (3) Where a notation of an easement or encumbrance is entered upon the relevant certificate of title in accordance with this section, the easement or encumbrance is deemed for all purposes (including all subsequent dealings) to be created under the [Land Transfer Act 1952][79].
+    (3) Where a notation of an easement or encumbrance is entered upon the relevant certificate of title in accordance with this section, the easement or encumbrance is deemed for all purposes (including all subsequent dealings) to be created under the [Land Transfer Act 1952][80].
 
 ##### 38 Successors bound
     
@@ -804,17 +808,17 @@ Reserves
 
 ##### 39 Change of name of reserve
     
-*   (1) The recreation reserve described in _Gazette_ 1984, Vol III, at page 3385 as 55.6617 hectares, more or less, being Section 8, situated in Block III, Pihanga Survey District is, in accordance with [section 16(10)][104] of the Reserves Act 1977, known as Waikari Recreation Reserve.
+*   (1) The recreation reserve described in _Gazette_ 1984, Vol III, at page 3385 as 55.6617 hectares, more or less, being Section 8, situated in Block III, Pihanga Survey District is, in accordance with [section 16(10)][105] of the Reserves Act 1977, known as Waikari Recreation Reserve.
     
-    (2) The recreation reserve described in the _Gazette_ 1984, Vol IV, at page 4520 as 3686 square metres, more or less, being Sections 36, 37, 38, and 39, Block VI, Turangi Suburban, situated in Block III, Pihanga Survey District is, in accordance with [section 16(10)][104] of the Reserves Act 1977, known as Waikari Recreation Reserve.
+    (2) The recreation reserve described in the _Gazette_ 1984, Vol IV, at page 4520 as 3686 square metres, more or less, being Sections 36, 37, 38, and 39, Block VI, Turangi Suburban, situated in Block III, Pihanga Survey District is, in accordance with [section 16(10)][105] of the Reserves Act 1977, known as Waikari Recreation Reserve.
     
     (3) The classification and name of the Admirals Scenic Reserve (classified and named by notice in the _Gazette_ 1986, Vol V, at page 4520), is---
         
-    *   (a) changed, to a recreation reserve subject to [section 17(1)][105] of the Reserves Act 1977; and
+    *   (a) changed, to a recreation reserve subject to [section 17(1)][106] of the Reserves Act 1977; and
     
     *   (b) changed, to Waikari Recreation Reserve.
     
-    (4) The requirements of [section 24][96] and [16(10)][104] of the Reserves Act 1977 are to be treated as having been complied with for the purposes of subsections (3)(a) and (3)(b).
+    (4) The requirements of [section 24][97] and [16(10)][105] of the Reserves Act 1977 are to be treated as having been complied with for the purposes of subsections (3)(a) and (3)(b).
 
 ---
 
@@ -875,8 +879,6 @@ Now therefore We the Chiefs of the Confederation of the United Tribes of New Zea
 
 Done at Waitangi this Sixth day of February in the year of Our Lord One thousand eight hundred and forty.
 
----
-
 \[_Here follow signatures, dates, etc_\]
 
 ---
@@ -889,14 +891,16 @@ Attachment 7.4 of Deed of Settlement
 #### Restrictions, terms, and conditions on which Taupo District Council is to manage and control Crown Reserves and Council Reserves
     
 *   The Council may continue to delegate all powers and obligations of control and management to a committee of the Council or to the Turangi/Tongariro Community Board.
-*   Council to have power to:without first having to obtain the consent of Ngāti Tūrangitukua Charitable Trust, provided that the Council will:
+*   Council to have power to:
         
     *   (a)erect new structures, utilities and improvements (also to be vested in the Council) in, on or under the land; and
     *   (b)move structures, utilities and improvements owned by the Council to a different location on the land; and
     *   (c)otherwise undertake such other matters as the Council considers necessary or desirable for the purpose of managing the Reserve;
     *   (d)charge for the use of facilities and lease and grant easements over any part of the Crown Reserves and the Council Reserves, and to manage expenditure and revenue relative to the Crown Reserves and Council Reserves and the structures, utilities and improvements on the land;
-    *   (da)to regulate public access to and all activities on a Crown Reserve or Council Reserve as if it were a reserve under the [Reserves Act 1977][87];
+    *   (da)to regulate public access to and all activities on a Crown Reserve or Council Reserve as if it were a reserve under the [Reserves Act 1977][88];
     
+    without first having to obtain the consent of Ngāti Tūrangitukua Charitable Trust, provided that the Council will:
+        
     *   (e)in respect of the Specified Council Reserves, inform Ngāti Tūrangitukua Charitable Trust of any such significant matters; and
     *   (f)in respect of the other Council Reserves and the Crown Reserves consult with Ngāti Tūrangitukua Charitable Trust in relation to all such significant matters and will have particular regard to its views.
     
@@ -940,144 +944,103 @@ Crown reserves
 
 **Reserve name** **Legal description** **Vesting details** **Purpose**
 
-Waipapa Reserve 2.6542 hectares, Sec 77, Town of Turangi, _Gazette_ 1986, p 9 Set apart under [Land Act 1948][78], [Reserves Act 1977][87] Recreation Reserve
+Waipapa Reserve 2.6542 hectares, Sec 77, Town of Turangi, _Gazette_ 1986, p 9 Set apart under [Land Act 1948][79], [Reserves Act 1977][88] Recreation Reserve
 
-Taupehi Reserve 1.6187 hectares, Sec 27 Town of Turangi, _Gazette_ 1954, p 1402 Set apart under [Land Act 1948][78] Recreation Reserve
+Taupehi Reserve 1.6187 hectares, Sec 27 Town of Turangi, _Gazette_ 1954, p 1402 Set apart under [Land Act 1948][79] Recreation Reserve
 
 ## Part 4  
 Council reserves
 
 **Reserve name** **Legal description** **Vesting details** **Purpose**
 
-D Reserve 1.1253 hectares, Lot 1, DP 29123, _Gazette_ 1971, p 155 Vested in Council, [Land Act 1948][78] and Reserves and Domains Act 1953 Recreation Reserve
+D Reserve 1.1253 hectares, Lot 1, DP 29123, _Gazette_ 1971, p 155 Vested in Council, [Land Act 1948][79] and Reserves and Domains Act 1953 Recreation Reserve
 
-E Reserve 0.8096 hectares, Lot 39, DP 28407, _Gazette_ 1971, p 155 Vested in Council, [Land Act 1948][78] and Reserves and Domains Act 1953 Recreation Reserve
+E Reserve 0.8096 hectares, Lot 39, DP 28407, _Gazette_ 1971, p 155 Vested in Council, [Land Act 1948][79] and Reserves and Domains Act 1953 Recreation Reserve
 
 Kaheke Street Reserve 0.5696 hectares, Lot 1, DP 30051, _Gazette_ 1970, p 1380  
-1.3782 hectares, Lot 8, DP 30051, _Gazette_ 1970, p 1380 Vested in Council, [Land Act 1948][78] and Reserves and Domains Act 1953 Recreation Reserve
+1.3782 hectares, Lot 8, DP 30051, _Gazette_ 1970, p 1380 Vested in Council, [Land Act 1948][79] and Reserves and Domains Act 1953 Recreation Reserve
 
-Fire Break Reserve 0.1083 hectares, Sec 39 Town of Turangi, _Gazette_ 1996, p 2465, B 543710.1 Vested in Council, [Reserves Act 1977][87] Recreation Reserve
+Fire Break Reserve 0.1083 hectares, Sec 39 Town of Turangi, _Gazette_ 1996, p 2465, B 543710.1 Vested in Council, [Reserves Act 1977][88] Recreation Reserve
 
-Cherry Grove Reserve 0.2492 hectares, Sec 1 Blk 1 Turangi Suburban, _Gazette_ 1996, p 2465 B543710.1 Vested in Council, [Reserves Act 1977][87] Recreation Reserve
+Cherry Grove Reserve 0.2492 hectares, Sec 1 Blk 1 Turangi Suburban, _Gazette_ 1996, p 2465 B543710.1 Vested in Council, [Reserves Act 1977][88] Recreation Reserve
 
 ## Part 5  
 Council reserves
 
 **Reserve name** **Legal description** **Vesting details** **Purpose**
 
-McLaren Park Reserve 0.8087 hectares, Pt Lot 34, DP 31159, _Gazette_ 1984, p 1236 Classified as a local purpose reserve, [Reserves Act 1977][87] Local purpose reserve (_Community buildings_)
+McLaren Park Reserve 0.8087 hectares, Pt Lot 34, DP 31159, _Gazette_ 1984, p 1236 Classified as a local purpose reserve, [Reserves Act 1977][88] Local purpose reserve (_Community buildings_)
 
-McLaren Park Reserve 3.3880 hectares, Lot 36, DP 28083, _Gazette_ 1969, p 1852 Vested in Council, [Land Act 1948][78] and Reserves and Domains Act 1953 Recreation Reserve
+McLaren Park Reserve 3.3880 hectares, Lot 36, DP 28083, _Gazette_ 1969, p 1852 Vested in Council, [Land Act 1948][79] and Reserves and Domains Act 1953 Recreation Reserve
 
 A Reserve 1.1352 hectares, Lot 19, DP 58050, Certificate of title 24D/633  
-0.6020 hectares, Lot 16, DP 71220, Certificate of title 27D/351 Vested in Council, [section 306(4)][106] Local Government Act 1974 Recreation Reserve
+0.6020 hectares, Lot 16, DP 71220, Certificate of title 27D/351 Vested in Council, [section 306(4)][107] Local Government Act 1974 Recreation Reserve
 
 B Reserve 1.1260 hectares, Lot 10, DP 61544 Local purpose reserve to vest Local Purpose Reserve (_Drainage_)
 
 C Reserve 3.9600 hectares, Lot 9, DP 61544 Local purpose reserve to vest Local Purpose Reserve (_Drainage_)
 
-Part Turangi Park Reserve 2.8657 hectares, Lot 67, DP 50585, _Gazette_ 1996, p 823, GN B509442.1 Vested in Council, [section 20(1)][107], Public Works Act 1981 Recreation Reserve
+Part Turangi Park Reserve 2.8657 hectares, Lot 67, DP 50585, _Gazette_ 1996, p 823, GN B509442.1 Vested in Council, [section 20(1)][108], Public Works Act 1981 Recreation Reserve
 
 ## Part 6  
 Council reserves
 
 **Reserve name** **Legal description** **Vesting details** **Purpose**
 
-Turangi Park Reserve 28.5657 hectares, Lot 1, DP 28845, formerly described in certificate of title 5B/401 (Wellington Registry) _Gazette_ 1985, p 249 Vested in Council, [sections 20][107] and [50][108], Public Works Act 1981 Recreation Reserve
+Turangi Park Reserve 28.5657 hectares, Lot 1, DP 28845, formerly described in certificate of title 5B/401 (Wellington Registry) _Gazette_ 1985, p 249 Vested in Council, [sections 20][108] and [50][109], Public Works Act 1981 Recreation Reserve
 
 ## Part 7  
 Council reserves
 
 **Reserve name** **Legal description** **Vesting details** **Purpose**
 
-Water Supply Reserve 13.6201 hectares, Part Waipapa 1F, _Gazette_ 1985, p 251 Vested in Council, [sections 20][107] and [50][108], Public Works Act 1981 Local Purpose Reserve (_Waterworks_)
+Water Supply Reserve 13.6201 hectares, Part Waipapa 1F, _Gazette_ 1985, p 251 Vested in Council, [sections 20][108] and [50][109], Public Works Act 1981 Local Purpose Reserve (_Waterworks_)
 
-Water Supply Reserve 18.3601 hectares, Pt Waipapa 1K, _Gazette_ 1985, p 251 Vested in Council, [sections 20][107] and [50][108], Public Works Act 1981 Local Purpose Reserve (_Waterworks_)
+Water Supply Reserve 18.3601 hectares, Pt Waipapa 1K, _Gazette_ 1985, p 251 Vested in Council, [sections 20][108] and [50][109], Public Works Act 1981 Local Purpose Reserve (_Waterworks_)
 
-Water Supply Reserve 89.8781 hectares, Pt Waipapa 1L, _Gazette_ 1985, p 251 Vested in Council, [sections 20][107] and [50][108], Public Works Act 1981 Local Purpose Reserve (_Waterworks_)
+Water Supply Reserve 89.8781 hectares, Pt Waipapa 1L, _Gazette_ 1985, p 251 Vested in Council, [sections 20][108] and [50][109], Public Works Act 1981 Local Purpose Reserve (_Waterworks_)
 
-Water Supply Reserve 43.9083 hectares, Pt Waipapa 1M, _Gazette_ 1985, p 251 Vested in Council, [sections 20][107] and [50][108], Public Works Act 1981 Local Purpose Reserve (_Waterworks_)
+Water Supply Reserve 43.9083 hectares, Pt Waipapa 1M, _Gazette_ 1985, p 251 Vested in Council, [sections 20][108] and [50][109], Public Works Act 1981 Local Purpose Reserve (_Waterworks_)
 
-Water Supply Reserve 40.5621 hectares, Pt Waipapa 2A2, _Gazette_ 1985, p 251 Vested in Council, [sections 20][107] and [50][108], Public Works Act 1981 Local Purpose Reserve (_Waterworks_)
+Water Supply Reserve 40.5621 hectares, Pt Waipapa 2A2, _Gazette_ 1985, p 251 Vested in Council, [sections 20][108] and [50][109], Public Works Act 1981 Local Purpose Reserve (_Waterworks_)
 
-Water Supply Reserve 8.9890 hectares, Pt Waipapa 2A2B2, _Gazette_ 1985, p 251 Vested in Council, [sections 20][107] and [50][108], Public Works Act 1981 Local Purpose Reserve (_Waterworks_)
+Water Supply Reserve 8.9890 hectares, Pt Waipapa 2A2B2, _Gazette_ 1985, p 251 Vested in Council, [sections 20][108] and [50][109], Public Works Act 1981 Local Purpose Reserve (_Waterworks_)
 
-Water Supply Reserve 0.3827 hectares, Pt Waipapa, _Gazette_ 1985, p 251 Vested in Council, [sections 20][107] and [50][108], Public Works Act 1981 Local Purpose Reserve (_Waterworks_)
+Water Supply Reserve 0.3827 hectares, Pt Waipapa, _Gazette_ 1985, p 251 Vested in Council, [sections 20][108] and [50][109], Public Works Act 1981 Local Purpose Reserve (_Waterworks_)
 
-Water Supply Reserve 0.0405 hectares, Pt Waipapa, _Gazette_ 1985, p 251 Vested in Council, [sections 20][107] and [50][108], Public Works Act 1981 Local Purpose Reserve (_Waterworks_)
+Water Supply Reserve 0.0405 hectares, Pt Waipapa, _Gazette_ 1985, p 251 Vested in Council, [sections 20][108] and [50][109], Public Works Act 1981 Local Purpose Reserve (_Waterworks_)
 
-Water Supply Reserve 2.2207 hectares, Pt Waipapa, _Gazette_ 1985, p 251 Vested in Council, [sections 20][107] and [50][108], Public Works Act 1981 Local Purpose Reserve (_Waterworks_)
+Water Supply Reserve 2.2207 hectares, Pt Waipapa, _Gazette_ 1985, p 251 Vested in Council, [sections 20][108] and [50][109], Public Works Act 1981 Local Purpose Reserve (_Waterworks_)
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Ngāti Tūrangitukua Claims Settlement Act 1999\. The reprint incorporates all the amendments to the Act as at 23 May 2008, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
+*   This is a reprint of the Ngāti Tūrangitukua Claims Settlement Act 1999 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][109] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][110] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][111] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ http://www.pco.parliament.govt.nz/editorial-conventions/ or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][112] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][113] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][110] and [17E][111] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][65]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Treaty of Waitangi Amendment Act 2008 (2008 No 34): [section 7][66]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Treaty of Waitangi Amendment Act 2008 (2008 No 34): [section 7][65]
-    
-    [Ngāti Tūrangitukua Claims Settlement Amendment Act 2003][112] (2003 No 89)
+    [Ngāti Tūrangitukua Claims Settlement Amendment Act 2003][114] (2003 No 89)
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1999/0118/latest/whole.html#DLM44404
 [2]: http://www.legislation.govt.nz/act/public/1999/0118/latest/whole.html#DLM44405
 [3]: http://www.legislation.govt.nz/act/public/1999/0118/latest/whole.html#DLM44409
@@ -1142,51 +1105,53 @@ Water Supply Reserve 2.2207 hectares, Pt Waipapa, _Gazette_ 1985, p 251 Vested i
 [62]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM308795
 [63]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM444310
 [64]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM319569
-[65]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM1297534
-[66]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM435544
-[67]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM435367
-[68]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM223148
-[69]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM98097
-[70]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM184658
-[71]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM223144
-[72]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM353436
-[73]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM46055
-[74]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM46068
-[75]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM46073
-[76]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM246310
-[77]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM246311
-[78]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM250585
-[79]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM269031
-[80]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM104615
-[81]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM38204
-[82]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM261466
-[83]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM103609
-[84]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM107200
-[85]: http://www.legislation.govt.nz/act/public/1999/0118/latest/whole.html#DLM44936
-[86]: http://www.legislation.govt.nz/act/public/1999/0118/latest/whole.html#DLM44938
-[87]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM444304
-[88]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM104697
-[89]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM218133
-[90]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM218134
-[91]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM444666
-[92]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM445028
-[93]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM231927
-[94]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM231936
-[95]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM232521
-[96]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM444632
-[97]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM444648
-[98]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM444920
-[99]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM444929
-[100]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM444932
-[101]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM444934
-[102]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM231942
-[103]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM236786
-[104]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM444492
-[105]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM444605
-[106]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM420285
-[107]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM45788
-[108]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM46305
-[109]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM195439
-[110]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM195468
-[111]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM195470
-[112]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM218127
+[65]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM4929207
+[66]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM1297534
+[67]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM435544
+[68]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM435367
+[69]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM223148
+[70]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM98097
+[71]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM184658
+[72]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM223144
+[73]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM353436
+[74]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM46055
+[75]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM46068
+[76]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM46073
+[77]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM246310
+[78]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM246311
+[79]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM250585
+[80]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM269031
+[81]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM104615
+[82]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM38204
+[83]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM261466
+[84]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM103609
+[85]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM107200
+[86]: http://www.legislation.govt.nz/act/public/1999/0118/latest/whole.html#DLM44936
+[87]: http://www.legislation.govt.nz/act/public/1999/0118/latest/whole.html#DLM44938
+[88]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM444304
+[89]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM104697
+[90]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM218133
+[91]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM218134
+[92]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM444666
+[93]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM445028
+[94]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM231927
+[95]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM231936
+[96]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM232521
+[97]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM444632
+[98]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM444648
+[99]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM444920
+[100]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM444929
+[101]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM444932
+[102]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM444934
+[103]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM231942
+[104]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM236786
+[105]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM444492
+[106]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM444605
+[107]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM420285
+[108]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM45788
+[109]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM46305
+[110]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM2998516
+[111]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM2998515
+[112]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM2998532
+[113]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[114]: http://www.legislation.govt.nz/act/public/1999/0118/latest/link.aspx?id=DLM218127
