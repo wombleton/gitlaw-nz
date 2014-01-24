@@ -1,3 +1,6 @@
+Reprint  
+as at 1 January 2014
+
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Maraeroa A and B Blocks Claims Settlement Act 2012Public Act2012 No 52
@@ -6,245 +9,257 @@ Date of assent31 July 2012
 
 Commencementsee section 2
 
+---
+
+###### Note
+
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
+
+This Act is administered by the Ministry of Justice.
+
+---
+
 ## Contents
 
-*   [Preamble][0]
+*   [Preamble][1]
 
-[1 ][1][][1][Title][1]
+[1 ][2][][2][Title][2]
 
-[2 ][2][][2][Commencement][2]
+[2 ][3][][3][Commencement][3]
 
-[Part 1][3]  
-[Preliminary matters and settlement of historical claims][3]
+[Part 1][4]  
+[Preliminary matters and settlement of historical claims][4]
 
-[Subpart 1][4][---][4][Purpose of Act][4]
+[Subpart 1][5][---][5][Purpose of Act][5]
 
-[3 ][5][][5][Purpose][5]
+[3 ][6][][6][Purpose][6]
 
-[4 ][6][][6][Act binds the Crown][6]
+[4 ][7][][7][Act binds the Crown][7]
 
-[5 ][7][][7][Outline][7]
+[5 ][8][][8][Outline][8]
 
-[The Crown's acknowledgements and apology][8]
+[The Crown's acknowledgements and apology][9]
 
-[6 ][9][][9][Acknowledgements and apology][9]
+[6 ][10][][10][Acknowledgements and apology][10]
 
-[7 ][10][][10][The Crown's acknowledgements][10]
+[7 ][11][][11][The Crown's acknowledgements][11]
 
-[8 ][11][][11][The Crown's apology][11]
+[8 ][12][][12][The Crown's apology][12]
 
-[Subpart 2][12][---][12][Interpretation][12]
+[Subpart 2][13][---][13][Interpretation][13]
 
-[9 ][13][][13][Interpretation of Act generally][13]
+[9 ][14][][14][Interpretation of Act generally][14]
 
-[10 ][14][][14][Interpretation][14]
+[10 ][15][][15][Interpretation][15]
 
-[11 ][15][][15][Meaning of settling group][15]
+[11 ][16][][16][Meaning of settling group][16]
 
-[12 ][16][][16][Meaning of historical claims][16]
+[12 ][17][][17][Meaning of historical claims][17]
 
-[13 ][17][][17][Governance framework][17]
+[13 ][18][][18][Governance framework][18]
 
-[Subpart 3][18][---][18][Settlement of historical claims][18]
+[Subpart 3][19][---][19][Settlement of historical claims][19]
 
-[Historical claims settled and jurisdiction of courts, etc, removed][19]
+[Historical claims settled and jurisdiction of courts, etc, removed][20]
 
-[14 ][20][][20][Settlement of historical claims final][20]
+[14 ][21][][21][Settlement of historical claims final][21]
 
-[Amendment to Treaty of Waitangi Act 1975][21]
+[Amendment to Treaty of Waitangi Act 1975][22]
 
-[15 ][22][][22][Amendment to Treaty of Waitangi Act 1975][22]
+[15 ][23][][23][Amendment to Treaty of Waitangi Act 1975][23]
 
-[Protections no longer apply][23]
+[Protections no longer apply][24]
 
-[16 ][24][][24][Certain enactments cease to apply][24]
+[16 ][25][][25][Certain enactments cease to apply][25]
 
-[17 ][25][][25][Removal of memorials from settlement properties][25]
+[17 ][26][][26][Removal of memorials from settlement properties][26]
 
-[Subpart 4][26][---][26][Miscellaneous matters][26]
+[Subpart 4][27][---][27][Miscellaneous matters][27]
 
-[18 ][27][][27][Rule against perpetuities does not apply][27]
+[18 ][28][][28][Rule against perpetuities does not apply][28]
 
-[19 ][28][][28][Timing of actions or matters][28]
+[19 ][29][][29][Timing of actions or matters][29]
 
-[20 ][29][][29][Access to deed of settlement][29]
+[20 ][30][][30][Access to deed of settlement][30]
 
-[Part 2][30]  
-[Cultural redress][30]
+[Part 2][31]  
+[Cultural redress][31]
 
-[The Crown not excluded from providing other redress][31]
+[The Crown not excluded from providing other redress][32]
 
-[21 ][32][][32][The Crown may provide redress to other persons][32]
+[21 ][33][][33][The Crown may provide redress to other persons][33]
 
-[Subpart 1][33][---][33][Statutory acknowledgements][33]
+[Subpart 1][34][---][34][Statutory acknowledgements][34]
 
-[22 ][34][][34][Interpretation][34]
+[22 ][35][][35][Interpretation][35]
 
-[23 ][35][][35][Statutory acknowledgement by the Crown][35]
+[23 ][36][][36][Statutory acknowledgement by the Crown][36]
 
-[24 ][36][][36][Purposes of statutory acknowledgement][36]
+[24 ][37][][37][Purposes of statutory acknowledgement][37]
 
-[25 ][37][][37][Relevant consent authorities to have regard to statutory acknowledgement][37]
+[25 ][38][][38][Relevant consent authorities to have regard to statutory acknowledgement][38]
 
-[26 ][38][][38][Environment Court to have regard to statutory acknowledgement][38]
+[26 ][39][][39][Environment Court to have regard to statutory acknowledgement][39]
 
-[27 ][39][][39][Historic Places Trust and Environment Court to have regard to statutory acknowledgement][39]
+[27 ][40][][40][Historic Places Trust and Environment Court to have regard to statutory acknowledgement][40]
 
-[28 ][40][][40][Recording statutory acknowledgement on statutory plans][40]
+[28 ][41][][41][Recording statutory acknowledgement on statutory plans][41]
 
-[29 ][41][][41][Provision of information about resource consent applications to trustees][41]
+[29 ][42][][42][Provision of information about resource consent applications to trustees][42]
 
-[30 ][42][][42][Use of statutory acknowledgement][42]
+[30 ][43][][43][Use of statutory acknowledgement][43]
 
-[31 ][43][][43][Content of statement of association not binding][43]
+[31 ][44][][44][Content of statement of association not binding][44]
 
-[32 ][44][][44][Other association with statutory area][44]
+[32 ][45][][45][Other association with statutory area][45]
 
-[33 ][45][][45][Exercise of powers and performance of duties and functions][45]
+[33 ][46][][46][Exercise of powers and performance of duties and functions][46]
 
-[34 ][46][][46][Rights not affected][46]
+[34 ][47][][47][Rights not affected][47]
 
-[35 ][47][][47][Limitation of rights][47]
+[35 ][48][][48][Limitation of rights][48]
 
-[36 ][48][][48][Amendment to Resource Management Act 1991][48]
+[36 ][49][][49][Amendment to Resource Management Act 1991][49]
 
-[Subpart 2][49][---][49][Overlay classification and geographic names][49]
+[Subpart 2][50][---][50][Overlay classification and geographic names][50]
 
-[Overlay classification][50]
+[Overlay classification][51]
 
-[37 ][51][][51][Interpretation][51]
+[37 ][52][][52][Interpretation][52]
 
-[38 ][52][][52][Declaration and acknowledgement of overlay classification][52]
+[38 ][53][][53][Declaration and acknowledgement of overlay classification][53]
 
-[39 ][53][][53][Purposes of overlay classification][53]
+[39 ][54][][54][Purposes of overlay classification][54]
 
-[40 ][54][][54][Agreement on protection principles][54]
+[40 ][55][][55][Agreement on protection principles][55]
 
-[41 ][55][][55][Obligations on New Zealand Conservation Authority and Conservation Boards ][55]
+[41 ][56][][56][Obligations on New Zealand Conservation Authority and Conservation Boards ][56]
 
-[42 ][56][][56][Actions by Director-General][56]
+[42 ][57][][57][Actions by Director-General][57]
 
-[43 ][57][][57][Amendment of conservation document][57]
+[43 ][58][][58][Amendment of conservation document][58]
 
-[44 ][58][][58][Notification in _Gazette_][58]
+[44 ][59][][59][Notification in _Gazette_][59]
 
-[45 ][59][][59][Regulations][59]
+[45 ][60][][60][Regulations][60]
 
-[46 ][60][][60][Bylaws][60]
+[46 ][61][][61][Bylaws][61]
 
-[47 ][61][][61][Noting of overlay classification][61]
+[47 ][62][][62][Noting of overlay classification][62]
 
-[48 ][62][][62][Classification of overlay site][62]
+[48 ][63][][63][Classification of overlay site][63]
 
-[49 ][63][][63][Termination of overlay classification][63]
+[49 ][64][][64][Termination of overlay classification][64]
 
-[50 ][64][][64][Exercise of powers, and performance of duties and functions][64]
+[50 ][65][][65][Exercise of powers, and performance of duties and functions][65]
 
-[51 ][65][][65][Rights not affected][65]
+[51 ][66][][66][Rights not affected][66]
 
-[Geographic names][66]
+[Geographic names][67]
 
-[52 ][67][][67][Interpretation][67]
+[52 ][68][][68][Interpretation][68]
 
-[53 ][68][][68][New official geographic names][68]
+[53 ][69][][69][New official geographic names][69]
 
-[54 ][69][][69][Publication of new official geographic names][69]
+[54 ][70][][70][Publication of new official geographic names][70]
 
-[55 ][70][][70][Alteration of new official geographic names][70]
+[55 ][71][][71][Alteration of new official geographic names][71]
 
-[Subpart 3][71][---][71][Cultural redress requiring vesting of land][71]
+[Subpart 3][72][---][72][Cultural redress requiring vesting of land][72]
 
-[56 ][72][][72][Interpretation][72]
+[56 ][73][][73][Interpretation][73]
 
-[Sites vesting in fee simple][73]
+[Sites vesting in fee simple][74]
 
-[57 ][74][][74][Nga Herenga][74]
+[57 ][75][][75][Nga Herenga][75]
 
-[58 ][75][][75][Koromiko ][75]
+[58 ][76][][76][Koromiko ][76]
 
-[Sites vesting in fee simple subject to conservation covenant][76]
+[Sites vesting in fee simple subject to conservation covenant][77]
 
-[59 ][77][][77][Kotukunui][77]
+[59 ][78][][78][Kotukunui][78]
 
-[60 ][78][][78][Pikiariki][78]
+[60 ][79][][79][Pikiariki][79]
 
-[61 ][79][][79][Waimiha Kei Runga][79]
+[61 ][80][][80][Waimiha Kei Runga][80]
 
-[62 ][80][][80][Whareana][80]
+[62 ][81][][81][Whareana][81]
 
-[Provisions of general application to vesting of cultural redress properties][81]
+[Provisions of general application to vesting of cultural redress properties][82]
 
-[63 ][82][][82][Properties vest subject to, or together with, encumbrances][82]
+[63 ][83][][83][Properties vest subject to, or together with, encumbrances][83]
 
-[64 ][83][][83][Registration of ownership][83]
+[64 ][84][][84][Registration of ownership][84]
 
-[65 ][84][][84][Application of Part 4A of Conservation Act 1987][84]
+[65 ][85][][85][Application of Part 4A of Conservation Act 1987][85]
 
-[66 ][85][][85][Application of other enactments][85]
+[66 ][86][][86][Application of other enactments][86]
 
-[67 ][86][][86][Application of New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 to certain sites][86]
+[67 ][87][][87][Application of New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 to certain sites][87]
 
-[Part 3][87]  
-[Commercial redress][87]
+[Part 3][88]  
+[Commercial redress][88]
 
-[68 ][88][][88][The Crown may transfer property][88]
+[68 ][89][][89][The Crown may transfer property][89]
 
-[69 ][89][][89][Registrar-General to create computer freehold register][89]
+[69 ][90][][90][Registrar-General to create computer freehold register][90]
 
-[70 ][90][][90][Application of other enactments][90]
+[70 ][91][][91][Application of other enactments][91]
 
-[71 ][91][][91][Licensed land ceases to be Crown forest land][91]
+[71 ][92][][92][Licensed land ceases to be Crown forest land][92]
 
-[72 ][92][][92][Trustees are confirmed beneficiaries][92]
+[72 ][93][][93][Trustees are confirmed beneficiaries][93]
 
-[73 ][93][][93][Effect of transfer of licensed land][93]
+[73 ][94][][94][Effect of transfer of licensed land][94]
 
-[Part 4][94]  
-[Access to protected sites][94]
+[Part 4][95]  
+[Access to protected sites][95]
 
-[74 ][95][][95][Meaning of protected site][95]
+[74 ][96][][96][Meaning of protected site][96]
 
-[75 ][96][][96][Right of access to protected sites][96]
+[75 ][97][][97][Right of access to protected sites][97]
 
-[76 ][97][][97][Right of access subject to Crown forestry licence][97]
+[76 ][98][][98][Right of access subject to Crown forestry licence][98]
 
-[77 ][98][][98][Notation on computer freehold register][98]
+[77 ][99][][99][Notation on computer freehold register][99]
 
-[Part 5][99]  
-[Provisions relating to jurisdiction of Māori Land Court and protected land][99]
+[Part 5][100]  
+[Provisions relating to jurisdiction of Māori Land Court and protected land][100]
 
-[78 ][100][][100][Interpretation][100]
+[78 ][101][][101][Interpretation][101]
 
-[Subpart 1][101][---][101][Māori Land Court jurisdiction][101]
+[Subpart 1][102][---][102][Māori Land Court jurisdiction][102]
 
-[79 ][102][][102][Settlement Trust subject to jurisdiction of Māori Land Court][102]
+[79 ][103][][103][Settlement Trust subject to jurisdiction of Māori Land Court][103]
 
-[80 ][103][][103][Enforcement of obligations][103]
+[80 ][104][][104][Enforcement of obligations][104]
 
-[Subpart 2][104][---][104][Sale, gift, or long-term lease of protected land][104]
+[Subpart 2][105][---][105][Sale, gift, or long-term lease of protected land][105]
 
-[81 ][105][][105][Capacity to sell, gift, or give long-term lease of protected land][105]
+[81 ][106][][106][Capacity to sell, gift, or give long-term lease of protected land][106]
 
-[82 ][106][][106][Right of first refusal for sale or gift][106]
+[82 ][107][][107][Right of first refusal for sale or gift][107]
 
-[83 ][107][][107][Sale, gift, or long-term lease of protected land by governance entity][107]
+[83 ][108][][108][Sale, gift, or long-term lease of protected land by governance entity][108]
 
-[84 ][108][][108][Lodgement of instruments][108]
+[84 ][109][][109][Lodgement of instruments][109]
 
-[Subpart 3][109][---][109][Provisions relating to protected land][109]
+[Subpart 3][110][---][110][Provisions relating to protected land][110]
 
-[85 ][110][][110][Application of other enactments][110]
+[85 ][111][][111][Application of other enactments][111]
 
-[86 ][111][][111][Māori Land Court's jurisdiction][111]
+[86 ][112][][112][Māori Land Court's jurisdiction][112]
 
-[Schedule 1][112]  
-[Statutory areas][112]
+[Schedule 1][113]  
+[Statutory areas][113]
 
-[Schedule 2][113]  
-[Overlay site][113]
+[Schedule 2][114]  
+[Overlay site][114]
 
-[Schedule 3][114]  
-[Cultural redress properties][114]
+[Schedule 3][115]  
+[Cultural redress properties][115]
 
 ---
 
@@ -252,7 +267,7 @@ Commencementsee section 2
     
     ###### Background
     
-    (1) The Treaty of Waitangi was signed in 1840\. The terms of the Treaty of Waitangi in English and Māori are set out in [Schedule 1][115] of the Treaty of Waitangi Act 1975:
+    (1) The Treaty of Waitangi was signed in 1840\. The terms of the Treaty of Waitangi in English and Māori are set out in [Schedule 1][116] of the Treaty of Waitangi Act 1975:
     
     (2) Recitals (3) to (27) of this Preamble present, in summary form, the background to the Maraeroa A and B blocks historical claim and the historical account that are set out in the deed of settlement:
     
@@ -387,7 +402,7 @@ Preliminary matters and settlement of historical claims
             
         *   (i) the effect of the settlement on the jurisdiction of a court, tribunal, or other judicial body in respect of the historical claims; and
         
-        *   (ii) a consequential amendment to the [Treaty of Waitangi Act 1975][116]; and
+        *   (ii) a consequential amendment to the [Treaty of Waitangi Act 1975][117]; and
         
         *   (iii) the effect of the settlement on certain memorials; and
         
@@ -395,25 +410,25 @@ Preliminary matters and settlement of historical claims
         
         
     
-    (3) [Part 2][30] provides for cultural redress, including---
+    (3) [Part 2][31] provides for cultural redress, including---
         
     *   (a) cultural redress for which vesting of land is not required; and
     
     *   (b) the properties that are vested in the Maraeroa A and B Blocks Incorporation as cultural redress properties and provisions relevant to the vesting of those properties.
     
-    (4) [Part 3][87] provides for the transfer of the licensed land to the Maraeroa A and B Blocks Incorporation and the payment of rentals to the Settlement Trust.
+    (4) [Part 3][88] provides for the transfer of the licensed land to the Maraeroa A and B Blocks Incorporation and the payment of rentals to the Settlement Trust.
     
-    (5) [Part 4][94] provides for access to protected sites.
+    (5) [Part 4][95] provides for access to protected sites.
     
-    (6) [Part 5][99] includes provisions concerning the Māori Land Court's jurisdiction in relation to the Settlement Trust and concerning the sale, gift, or lease of the protected land.
+    (6) [Part 5][100] includes provisions concerning the Māori Land Court's jurisdiction in relation to the Settlement Trust and concerning the sale, gift, or lease of the protected land.
     
     (7) The schedules---
         
-    *   (a) describe the statutory areas (_see_ [Schedule 1][112]):
+    *   (a) describe the statutory areas (_see_ [Schedule 1][113]):
     
-    *   (b) describe the overlay site (_see_ [Schedule 2][113]):
+    *   (b) describe the overlay site (_see_ [Schedule 2][114]):
     
-    *   (c) describe the cultural redress properties (_see_ [Schedule 3][114]).
+    *   (c) describe the cultural redress properties (_see_ [Schedule 3][115]).
     
     
 
@@ -421,7 +436,7 @@ Preliminary matters and settlement of historical claims
 
 ##### 6 Acknowledgements and apology
     
-*   (1) [Sections 7][10] and [8][11] record the acknowledgements of, and the apology offered to descendants of the original owners of Maraeroa A and B blocks by, the Crown in the deed of settlement.
+*   (1) [Sections 7][11] and [8][12] record the acknowledgements of, and the apology offered to descendants of the original owners of Maraeroa A and B blocks by, the Crown in the deed of settlement.
     
     (2) The acknowledgements and apology are to be read in conjunction with the account of the historical relations between the settling group and the Crown, recorded in part 2 of the deed of settlement and summarised in the Preamble of this Act.
 
@@ -441,7 +456,7 @@ Preliminary matters and settlement of historical claims
         
     *   (a) the operation and impact of the native land laws, in particular the awarding of the Maraeroa A and B blocks to individuals, and enabling individuals to deal with that land without reference to iwi or hapū, made those lands more susceptible to partition, fragmentation, and alienation. This undermined traditional tribal structures of the iwi who resided on the Maraeroa A and B blocks that were based on collective tribal and hapū custodianship of the land; and
     
-    *   (b) its failure to protect those collective tribal structures had a prejudicial effect on the owners of the Maraeroa A and B blocks and this was a breach of the [Treaty of Waitangi][115] and its principles.
+    *   (b) its failure to protect those collective tribal structures had a prejudicial effect on the owners of the Maraeroa A and B blocks and this was a breach of the [Treaty of Waitangi][116] and its principles.
     
     (3) The Crown acknowledges that---
         
@@ -489,55 +504,57 @@ Preliminary matters and settlement of historical claims
     
 *   In this Act, unless the context otherwise requires,---
     
-    _affected person_ has the meaning given in [section 2AA(2)][117] of the Resource Management Act 1991
+    _affected person_ has the meaning given in [section 2AA(2)][118] of the Resource Management Act 1991
     
     _attachments_ means the attachments to the deed of settlement
     
-    _authorised person_ has the meaning given in [section 64(5)][83], [69(5)][89], or [77(4)][98], as the case may be
+    _authorised person_ has the meaning given in [section 64(5)][84], [69(5)][90], or [77(4)][99], as the case may be
     
-    _business day_ means a day other than---
+    _business day_ means a day of the week other than---
         
-    *   (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; or
+    *   (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
     
-    *   (b) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year; or
+    *   (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     
-    *   (c) the days observed as the anniversaries of the provinces of Auckland and Wellington
+    *   (c) a day in the period starting on 25 December in any year and ending with 15 January in the following year; and
     
-    _Commissioner of Crown Lands_ has the meaning given in [section 2][118] of the Land Act 1948 
+    *   (d) the days observed as the anniversaries of the provinces of Auckland and Wellington
     
-    _consent authority_ has the meaning given in [section 2(1)][119] of the Resource Management Act 1991
+    _Commissioner of Crown Lands_ has the meaning given in [section 2][119] of the Land Act 1948 
     
-    _conservation area_ has the meaning given in section 2(1) of the [Conservation Act 1987][120]
+    _consent authority_ has the meaning given in [section 2(1)][120] of the Resource Management Act 1991
+    
+    _conservation area_ has the meaning given in section 2(1) of the [Conservation Act 1987][121]
     
     _conservation document_ means a conservation management plan, a conservation management strategy, a freshwater fisheries management plan, or a national park management plan
     
-    _conservation management plan_ has the meaning given in [section 2(1)][120] of the Conservation Act 1987
+    _conservation management plan_ has the meaning given in [section 2(1)][121] of the Conservation Act 1987
     
-    _conservation management strategy_ has the meaning given in [section 2(1)][120] of the Conservation Act 1987
+    _conservation management strategy_ has the meaning given in [section 2(1)][121] of the Conservation Act 1987
     
-    _Crown_ has the meaning given in [section 2(1)][121] of the Public Finance Act 1989
+    _Crown_ has the meaning given in [section 2(1)][122] of the Public Finance Act 1989
     
-    _Crown forest land_ has the meaning given in [section 2(1][122]) of the Crown Forest Assets Act 1989
+    _Crown forest land_ has the meaning given in [section 2(1][123]) of the Crown Forest Assets Act 1989
     
-    _Crown forestry assets_ has the meaning given in [section 2(1)][122] of the Crown Forest Assets Act 1989
+    _Crown forestry assets_ has the meaning given in [section 2(1)][123] of the Crown Forest Assets Act 1989
     
     _Crown forestry licence_---
         
-    *   (a) has the meaning given in [section 2(1)][122] of the Crown Forest Assets Act 1989; and
+    *   (a) has the meaning given in [section 2(1)][123] of the Crown Forest Assets Act 1989; and
     
-    *   (b) in relation to the licensed land, means the licence described in the third column of the table in [part 4][94] of the property redress schedule
+    *   (b) in relation to the licensed land, means the licence described in the third column of the table in [part 4][95] of the property redress schedule
     
-    _Crown forestry rental trust_ means the forestry rental trust referred to in [section 34][123] of the Crown Forest Assets Act 1989
+    _Crown forestry rental trust_ means the forestry rental trust referred to in [section 34][124] of the Crown Forest Assets Act 1989
     
-    _Crown forestry rental trust deed_ means the trust deed made on 30 April 1990 establishing the Crown forestry rental trust under [section 34][123] of the Crown Forest Assets Act 1989
+    _Crown forestry rental trust deed_ means the trust deed made on 30 April 1990 establishing the Crown forestry rental trust under [section 34][124] of the Crown Forest Assets Act 1989
     
-    _cultural redress property_ has the meaning given in [section 56][72] and described in [Schedule 3][114]
+    _cultural redress property_ has the meaning given in [section 56][73] and described in [Schedule 3][115]
     
     _date of the deed of settlement_ means 12 March 2011
     
     _deed of settlement_---
         
-    *   (a) means the deed of settlement referred to in [section 3][5]; and
+    *   (a) means the deed of settlement referred to in [section 3][6]; and
     
     *   (b) includes---
             
@@ -555,15 +572,15 @@ Preliminary matters and settlement of historical claims
     
     _encumbrance_ means a lease, tenancy, licence, licence to occupy, easement, covenant, or other right or obligation affecting a property
     
-    _forestry right_ means a forestry right registered under the [Forestry Rights Registration Act 1983][124]
+    _forestry right_ means a forestry right registered under the [Forestry Rights Registration Act 1983][125]
     
     _forestry right holder_ means the holder of the forestry right and includes the successors and assignees of the forestry right holder
     
-    _freshwater fisheries management plan_ has the meaning given in [section 2(1)][120] of the Conservation Act 1987
+    _freshwater fisheries management plan_ has the meaning given in [section 2(1)][121] of the Conservation Act 1987
     
-    _Historic Places Trust_ means the New Zealand Historic Places Trust (Pouhere Taonga) continued under [section 38][125] of the Historic Places Act 1993
+    _Historic Places Trust_ means the New Zealand Historic Places Trust (Pouhere Taonga) continued under [section 38][126] of the Historic Places Act 1993
     
-    _historical claims_ has the meaning given in [section 12][16]
+    _historical claims_ has the meaning given in [section 12][17]
     
     _licensed land_---
         
@@ -589,21 +606,21 @@ Preliminary matters and settlement of historical claims
     
     _LINZ_ means Land Information New Zealand
     
-    _Maraeroa A and B Blocks Incorporation_ means the body corporate established by [section 5][126] of the Maraeroa A and B Blocks Incorporation Act 2012
+    _Maraeroa A and B Blocks Incorporation_ means the body corporate established by [section 5][127] of the Maraeroa A and B Blocks Incorporation Act 2012
     
-    _member of the settling group_ means every individual referred to in [section 11(1)][15]
+    _member of the settling group_ means every individual referred to in [section 11(1)][16]
     
-    _national park management plan_ has the same meaning as management plan in [section 2][127] of the National Parks Act 1980
+    _national park management plan_ has the same meaning as management plan in [section 2][128] of the National Parks Act 1980
     
-    _overlay site_ has the meaning given in [section 37][51]
+    _overlay site_ has the meaning given in [section 37][52]
     
     _property redress schedule_ means the property redress schedule of the deed of settlement
     
-    _protected site_ has the meaning given in [section 74][95]
+    _protected site_ has the meaning given in [section 74][96]
     
-    _protection principles_ has the meaning given in [section 37][51]
+    _protection principles_ has the meaning given in [section 37][52]
     
-    _Registrar-General_ means the Registrar-General of Land appointed under [section 4][128] of the Land Transfer Act 1952
+    _Registrar-General_ means the Registrar-General of Land appointed under [section 4][129] of the Land Transfer Act 1952
     
     _relevant consent authority_, in relation to a statutory area, means the consent authority of a region or district that contains, or is adjacent to, the statutory area
     
@@ -615,15 +632,15 @@ Preliminary matters and settlement of historical claims
     
     *   (c) any person (including any trust or trustee) acting for, or on behalf of,---
             
-        *   (i) the collective group referred to in [section 11(1)][15]; or
+        *   (i) the collective group referred to in [section 11(1)][16]; or
         
         *   (ii) 1 or more members of the settling group; or
         
-        *   (iii) 1 or more members of the whānau, hapū, or groups of individuals referred to in [section 11(1)][15]
+        *   (iii) 1 or more members of the whānau, hapū, or groups of individuals referred to in [section 11(1)][16]
         
         
     
-    _resource consent_ has the meaning given in [section 2(1)][119] of the Resource Management Act 1991
+    _resource consent_ has the meaning given in [section 2(1)][120] of the Resource Management Act 1991
     
     _RFR deed_ means the deed provided by the Crown to the Maraeroa A and B Blocks Incorporation on the terms and conditions set out in part 6 of the documents schedule of the deed of settlement
     
@@ -641,21 +658,23 @@ Preliminary matters and settlement of historical claims
     
     _Settlement Trust_ means the Maraeroa A and B Trust established by the trust deed of the Settlement Trust
     
-    _settling group_ has the meaning given in [section 11][15]
+    _settling group_ has the meaning given in [section 11][16]
     
-    _statement of values_ has the meaning given in [section 37][51]
+    _statement of values_ has the meaning given in [section 37][52]
     
-    _statements of association_ has the meaning given in [section 22][34]
+    _statements of association_ has the meaning given in [section 22][35]
     
-    _statutory acknowledgement_ means the acknowledgement made by the Crown in [section 23][35] in respect of each statutory area, on the terms set out in [subpart 1][33] of Part 2
+    _statutory acknowledgement_ means the acknowledgement made by the Crown in [section 23][36] in respect of each statutory area, on the terms set out in [subpart 1][34] of Part 2
     
-    _statutory area_ means an area described in [Schedule 1][112], the general location of which is indicated on the SO plan referred to in relation to that area in that schedule (but which does not establish the precise boundaries of the statutory area)
+    _statutory area_ means an area described in [Schedule 1][113], the general location of which is indicated on the SO plan referred to in relation to that area in that schedule (but which does not establish the precise boundaries of the statutory area)
     
     _trust deed of the Settlement Trust_ means the deed of trust dated 29 July 2011 as amended from time to time in accordance with that deed of trust and, for the avoidance of doubt, includes any schedules of that deed of trust as amended from time to time
     
     _trustees_ means the trustees from time to time of the Settlement Trust
     
-    _unlicensed land_ means the land described as Waimiha Kei Runga in [Schedule 3][114].
+    _unlicensed land_ means the land described as Waimiha Kei Runga in [Schedule 3][115].
+    
+    Section 10 **business day**: replaced, on 1 January 2014, by [section 8][130] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
 
 ##### 11 Meaning of settling group
     
@@ -689,7 +708,7 @@ Preliminary matters and settlement of historical claims
         
     *   (a) is, or is founded on, a right arising---
             
-        *   (i) from the [Treaty of Waitangi][115] or its principles; or
+        *   (i) from the [Treaty of Waitangi][116] or its principles; or
         
         *   (ii) under legislation; or
         
@@ -789,9 +808,9 @@ Preliminary matters and settlement of historical claims
 
 ##### 15 Amendment to Treaty of Waitangi Act 1975
     
-*   (1) This section amends the [Treaty of Waitangi Act 1975][116].
+*   (1) This section amends the [Treaty of Waitangi Act 1975][117].
     
-    (2) [Schedule 3][129] is amended by inserting the following item in its appropriate alphabetical order: ""Maraeroa A and B Blocks Claims Settlement Act 2012, section 14(4) and (5).""
+    (2) [Schedule 3][131] is amended by inserting the following item in its appropriate alphabetical order: ""Maraeroa A and B Blocks Claims Settlement Act 2012, section 14(4) and (5).""
 
 #### Protections no longer apply
 
@@ -805,15 +824,15 @@ Preliminary matters and settlement of historical claims
     
     (2) The enactments are---
         
-    *   (a) [Part 3][130] of the Crown Forest Assets Act 1989:
+    *   (a) [Part 3][132] of the Crown Forest Assets Act 1989:
     
-    *   (b) [sections 211 to 213][131] of the Education Act 1989:
+    *   (b) [sections 211 to 213][133] of the Education Act 1989:
     
-    *   (c) [Part 3][132] of the New Zealand Railways Corporation Restructuring Act 1990:
+    *   (c) [Part 3][134] of the New Zealand Railways Corporation Restructuring Act 1990:
     
-    *   (d) [sections 27A to 27C][133] of the State-Owned Enterprises Act 1986:
+    *   (d) [sections 27A to 27C][135] of the State-Owned Enterprises Act 1986:
     
-    *   (e) [sections 8A to 8HJ][134] of the Treaty of Waitangi Act 1975\.
+    *   (e) [sections 8A to 8HJ][136] of the Treaty of Waitangi Act 1975\.
     
     
 
@@ -823,7 +842,7 @@ Preliminary matters and settlement of historical claims
         
     *   (a) all, or part, of a settlement property; and
     
-    *   (b) contained in a certificate of title or computer register that has a memorial entered under any enactment referred to in [section 16(2)][24].
+    *   (b) contained in a certificate of title or computer register that has a memorial entered under any enactment referred to in [section 16(2)][25].
     
     (2) The chief executive of LINZ must issue the certificate as soon as is reasonably practicable after the settlement date.
     
@@ -833,7 +852,7 @@ Preliminary matters and settlement of historical claims
         
     *   (a) register the certificate against each certificate of title or computer register identified in the certificate; and
     
-    *   (b) cancel, in respect of each allotment identified in the certificate, each memorial that is entered (in accordance with any enactment referred to in [section 16(2)][24]) on a certificate of title or computer register identified in the certificate.
+    *   (b) cancel, in respect of each allotment identified in the certificate, each memorial that is entered (in accordance with any enactment referred to in [section 16(2)][25]) on a certificate of title or computer register identified in the certificate.
     
     
 
@@ -841,7 +860,7 @@ Preliminary matters and settlement of historical claims
 
 ##### 18 Rule against perpetuities does not apply
     
-*   (1) Neither the rule against perpetuities nor any provisions of the [Perpetuities Act 1964][135]---
+*   (1) Neither the rule against perpetuities nor any provisions of the [Perpetuities Act 1964][137]---
         
     *   (a) prescribe or restrict the period during which---
             
@@ -853,7 +872,7 @@ Preliminary matters and settlement of historical claims
     
     *   (b) apply to a document entered into to give effect to the deed of settlement if the application of that rule or the provisions of that Act would otherwise make the document, or a right conferred by the document, invalid or ineffective.
     
-    (2) However, if the Settlement Trust is, or becomes, a charitable trust, the application (if any) of the rule against perpetuities or any provision of the [Perpetuities Act 1964][135] to that trust must be determined under the general law.
+    (2) However, if the Settlement Trust is, or becomes, a charitable trust, the application (if any) of the rule against perpetuities or any provision of the [Perpetuities Act 1964][137] to that trust must be determined under the general law.
 
 ##### 19 Timing of actions or matters
     
@@ -938,35 +957,35 @@ Cultural redress
     
 *   (1) The only purposes of a statutory acknowledgement are to---
         
-    *   (a) require relevant consent authorities, the Environment Court, and the Historic Places Trust to have regard to the statutory acknowledgement, in accordance with [sections 25 to 27][37]; and
+    *   (a) require relevant consent authorities, the Environment Court, and the Historic Places Trust to have regard to the statutory acknowledgement, in accordance with [sections 25 to 27][38]; and
     
-    *   (b) require relevant consent authorities to provide summaries of resource consent applications or, as the case requires, copies of notices of applications, to the trustees in accordance with [section 29][41]; and
+    *   (b) require relevant consent authorities to provide summaries of resource consent applications or, as the case requires, copies of notices of applications, to the trustees in accordance with [section 29][42]; and
     
-    *   (c) enable the trustees and any member of the settling group to cite a statutory acknowledgement as evidence of their association with the relevant statutory area, as provided for in [section 30][42].
+    *   (c) enable the trustees and any member of the settling group to cite a statutory acknowledgement as evidence of their association with the relevant statutory area, as provided for in [section 30][43].
     
-    (2) This section does not limit [sections 33 to 35][45].
+    (2) This section does not limit [sections 33 to 35][46].
 
 ##### 25 Relevant consent authorities to have regard to statutory acknowledgement
     
-*   (1) On and from the effective date, a relevant consent authority must have regard to the statutory acknowledgement relating to a statutory area in deciding, under [section 95E][136] of the Resource Management Act 1991, whether the trustees are affected persons in respect of an application for a resource consent for an activity within, adjacent to, or that directly affects a statutory area.
+*   (1) On and from the effective date, a relevant consent authority must have regard to the statutory acknowledgement relating to a statutory area in deciding, under [section 95E][138] of the Resource Management Act 1991, whether the trustees are affected persons in respect of an application for a resource consent for an activity within, adjacent to, or that directly affects a statutory area.
     
-    (2) Subsection (1) does not limit the obligations of a relevant consent authority under the [Resource Management Act 1991][137].
+    (2) Subsection (1) does not limit the obligations of a relevant consent authority under the [Resource Management Act 1991][139].
 
 ##### 26 Environment Court to have regard to statutory acknowledgement
     
-*   (1) On and from the effective date, the Environment Court must have regard to the statutory acknowledgement relating to a statutory area in deciding, under [section 274][138] of the Resource Management Act 1991, whether the trustees have an interest greater than that of the general public in respect of proceedings relating to an application for a resource consent for an activity within, adjacent to, or that directly affects a statutory area.
+*   (1) On and from the effective date, the Environment Court must have regard to the statutory acknowledgement relating to a statutory area in deciding, under [section 274][140] of the Resource Management Act 1991, whether the trustees have an interest greater than that of the general public in respect of proceedings relating to an application for a resource consent for an activity within, adjacent to, or that directly affects a statutory area.
     
-    (2) Subsection (1) does not limit the obligations of the Environment Court under the [Resource Management Act 1991][137].
+    (2) Subsection (1) does not limit the obligations of the Environment Court under the [Resource Management Act 1991][139].
 
 ##### 27 Historic Places Trust and Environment Court to have regard to statutory acknowledgement
     
-*   (1) If, on or after the effective date, an application is made under [section 11][139] or [12][140] of the Historic Places Act 1993 for an authority to destroy, damage, or modify an archaeological site within a statutory area,---
+*   (1) If, on or after the effective date, an application is made under [section 11][141] or [12][142] of the Historic Places Act 1993 for an authority to destroy, damage, or modify an archaeological site within a statutory area,---
         
-    *   (a) the Historic Places Trust, in exercising its powers under [section 14][141] of the Historic Places Act 1993 in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area; and
+    *   (a) the Historic Places Trust, in exercising its powers under [section 14][143] of the Historic Places Act 1993 in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area; and
     
-    *   (b) the Environment Court, in determining under [section 20][142] of the Historic Places Act 1993 any appeal against a decision of the Historic Places Trust in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area, including in determining whether the trustees are directly affected by the decision.
+    *   (b) the Environment Court, in determining under [section 20][144] of the Historic Places Act 1993 any appeal against a decision of the Historic Places Trust in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area, including in determining whether the trustees are directly affected by the decision.
     
-    (2) In this section, _archaeological site_ has the meaning given in [section 2][143] of the Historic Places Act 1993\.
+    (2) In this section, _archaeological site_ has the meaning given in [section 2][145] of the Historic Places Act 1993\.
 
 ##### 28 Recording statutory acknowledgement on statutory plans
     
@@ -978,7 +997,7 @@ Cultural redress
         
     *   (a) part of the statutory plan, unless adopted by the relevant consent authority; or
     
-    *   (b) subject to the provisions of [Schedule 1][144] of the Resource Management Act 1991, unless adopted as part of the statutory plan.
+    *   (b) subject to the provisions of [Schedule 1][146] of the Resource Management Act 1991, unless adopted as part of the statutory plan.
     
     
 
@@ -988,17 +1007,17 @@ Cultural redress
         
     *   (a) a summary of the application, if the application is received by the consent authority; or
     
-    *   (b) a copy of the notice served under [section 145(10)][145] of the Resource Management Act 1991, if the application is served on the consent authority.
+    *   (b) a copy of the notice served under [section 145(10)][147] of the Resource Management Act 1991, if the application is served on the consent authority.
     
     (2) The information provided under subsection (1)(a) must be---
         
-    *   (a) the same as would be given to an affected person under [section 95B][146] of the Resource Management Act 1991, or as may be agreed between the trustees and the relevant consent authority; and
+    *   (a) the same as would be given to an affected person under [section 95B][148] of the Resource Management Act 1991, or as may be agreed between the trustees and the relevant consent authority; and
     
     *   (b) provided---
             
         *   (i) as soon as is reasonably practicable after an application is received by the relevant consent authority; and
         
-        *   (ii) before the relevant consent authority decides under [section 95][147] of that Act whether to notify the application.
+        *   (ii) before the relevant consent authority decides under [section 95][149] of that Act whether to notify the application.
         
         
     
@@ -1012,9 +1031,9 @@ Cultural redress
     
     (5) This section does not affect the obligation of a relevant consent authority to decide,---
         
-    *   (a) under [section 95][147] of the Resource Management Act 1991, whether to notify an application:
+    *   (a) under [section 95][149] of the Resource Management Act 1991, whether to notify an application:
     
-    *   (b) under [section 95E][136] of that Act, whether the trustees are affected persons in relation to an activity. 
+    *   (b) under [section 95E][138] of that Act, whether the trustees are affected persons in relation to an activity. 
     
     
 
@@ -1028,7 +1047,7 @@ Cultural redress
     
     *   (c) the Historic Places Trust; or
     
-    *   (d) the Environmental Protection Authority or a board of inquiry under [Part 6AA][148] of the Resource Management Act 1991\.
+    *   (d) the Environmental Protection Authority or a board of inquiry under [Part 6AA][150] of the Resource Management Act 1991\.
     
     
 
@@ -1036,7 +1055,7 @@ Cultural redress
     
 *   (1) The content of a statement of association is not, by virtue of the statutory acknowledgement, binding as fact on---
         
-    *   (a) the bodies and the court referred to in [section 30][42]; or
+    *   (a) the bodies and the court referred to in [section 30][43]; or
     
     *   (b) parties to proceedings before those bodies or that court; or
     
@@ -1074,9 +1093,9 @@ Cultural redress
 
 ##### 36 Amendment to Resource Management Act 1991
     
-*   (1) This section amends the [Resource Management Act 1991][137].
+*   (1) This section amends the [Resource Management Act 1991][139].
     
-    (2) [Schedule 11][149] is amended by inserting the following item in its appropriate alphabetical order: ""Maraeroa A and B Blocks Claims Settlement Act 2012"".
+    (2) [Schedule 11][151] is amended by inserting the following item in its appropriate alphabetical order: ""Maraeroa A and B Blocks Claims Settlement Act 2012"".
 
 ### Subpart 2---Overlay classification and geographic names
 
@@ -1086,19 +1105,19 @@ Cultural redress
     
 *   In this subpart, unless the context otherwise requires,---
     
-    _Conservation Board_ means a board established under [section 6L][150] of the Conservation Act 1987
+    _Conservation Board_ means a board established under [section 6L][152] of the Conservation Act 1987
     
-    _New Zealand Conservation Authority_ means the authority established under [section 6A][151] of the Conservation Act 1987
+    _New Zealand Conservation Authority_ means the authority established under [section 6A][153] of the Conservation Act 1987
     
-    _overlay classification_ means the application of [sections 38 to 51][52] to the overlay site
+    _overlay classification_ means the application of [sections 38 to 51][53] to the overlay site
     
     _overlay site_---
         
-    *   (a) means the site that is declared under [section 38][52] to be subject to the overlay classification; but
+    *   (a) means the site that is declared under [section 38][53] to be subject to the overlay classification; but
     
-    *   (b) does not include an area that is declared under [section 49(1)][63] to be no longer subject to the overlay classification
+    *   (b) does not include an area that is declared under [section 49(1)][64] to be no longer subject to the overlay classification
     
-    _protection principles_, for the overlay site, means the principles set out for the site in part 2 of the documents schedule at the settlement date, including the amendments made to the principles under [section 40(3)][54]
+    _protection principles_, for the overlay site, means the principles set out for the site in part 2 of the documents schedule at the settlement date, including the amendments made to the principles under [section 40(3)][55]
     
     _statement of values_, for the overlay site, means the statement made by the descendants of the original owners of the Maraeroa A and B blocks---
         
@@ -1110,7 +1129,7 @@ Cultural redress
 
 ##### 38 Declaration and acknowledgement of overlay classification
     
-*   (1) The site described in [Schedule 2][113] is declared to be subject to the overlay classification.
+*   (1) The site described in [Schedule 2][114] is declared to be subject to the overlay classification.
     
     (2) The Crown acknowledges the statement of values by the descendants of the original owners of the Maraeroa A and B blocks in relation to the overlay site.
 
@@ -1118,13 +1137,13 @@ Cultural redress
     
 *   (1) The purposes of the overlay classification are---
         
-    *   (a) to require the New Zealand Conservation Authority and relevant Conservation Boards to have particular regard to the statement of values, the protection principles, and the views of the trustees, as provided for in [section 41][55]; and
+    *   (a) to require the New Zealand Conservation Authority and relevant Conservation Boards to have particular regard to the statement of values, the protection principles, and the views of the trustees, as provided for in [section 41][56]; and
     
-    *   (b) to require the New Zealand Conservation Authority to give the trustees an opportunity to make submissions, as provided for in [section 41(3)][55]; and
+    *   (b) to require the New Zealand Conservation Authority to give the trustees an opportunity to make submissions, as provided for in [section 41(3)][56]; and
     
-    *   (c) to require or enable the taking of action under [sections 42 to 47][56].
+    *   (c) to require or enable the taking of action under [sections 42 to 47][57].
     
-    (2) This section does not limit [sections 50 and 51][64].
+    (2) This section does not limit [sections 50 and 51][65].
 
 ##### 40 Agreement on protection principles
     
@@ -1172,7 +1191,7 @@ Cultural redress
     
     (2) The Director-General must consult relevant Conservation Boards before initiating an amendment under subsection (1).
     
-    (3) An amendment initiated under subsection (1) is an amendment for the purposes of [section 17I(1) to (3)][152] of the Conservation Act 1987 or [section 46(1) to (4)][153] of the National Parks Act 1980\.
+    (3) An amendment initiated under subsection (1) is an amendment for the purposes of [section 17I(1) to (3)][154] of the Conservation Act 1987 or [section 46(1) to (4)][155] of the National Parks Act 1980\.
 
 ##### 44 Notification in _Gazette_
     
@@ -1182,15 +1201,15 @@ Cultural redress
     
     *   (b) the protection principles applying to the overlay site as soon as practicable after the settlement date; and
     
-    *   (c) any amendment under [section 40(3)][54] as soon as practicable after it is agreed between the trustees and the Crown or is made by the Minister of Conservation following consultation with the trustees.
+    *   (c) any amendment under [section 40(3)][55] as soon as practicable after it is agreed between the trustees and the Crown or is made by the Minister of Conservation following consultation with the trustees.
     
-    (2) The Director-General may notify in the _Gazette_ any action (including the actions set out in paragraph 2 relating to the protection principles in part 2 of the documents schedule) taken or intended to be taken under [section 42][56] or [43][57]. 
+    (2) The Director-General may notify in the _Gazette_ any action (including the actions set out in paragraph 2 relating to the protection principles in part 2 of the documents schedule) taken or intended to be taken under [section 42][57] or [43][58]. 
 
 ##### 45 Regulations
     
 *   The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, make regulations for the following purposes:
         
-    *   (a) to provide for the implementation of objectives included in a conservation document under [section 43(1)][57]: 
+    *   (a) to provide for the implementation of objectives included in a conservation document under [section 43(1)][58]: 
     
     *   (b) to regulate or prohibit activities or conduct by members of the public in relation to the overlay site:
     
@@ -1204,7 +1223,7 @@ Cultural redress
     
 *   (1) The Minister of Conservation may make bylaws for any of the following purposes:
         
-    *   (a) to provide for the implementation of objectives included in a conservation document under [section 43(1)][57]:
+    *   (a) to provide for the implementation of objectives included in a conservation document under [section 43(1)][58]:
     
     *   (b) to regulate or prohibit activities or conduct by members of the public in relation to the overlay site:
     
@@ -1212,7 +1231,7 @@ Cultural redress
     
     *   (d) to provide for the imposition of fines not exceeding $1,000 for offences referred to in paragraph (c) and, for a continuing offence, an additional amount not exceeding $50 for every day during which the offence continues.
     
-    (2) Bylaws made under this section are regulations for the purposes of the [Acts and Regulations Publication Act 1989][154] and the [Regulations (Disallowance) Act 1989][155].
+    (2) Bylaws made under this section are regulations for the purposes of the [Acts and Regulations Publication Act 1989][156] and the [Regulations (Disallowance) Act 1989][157].
 
 ##### 47 Noting of overlay classification
     
@@ -1222,7 +1241,7 @@ Cultural redress
         
     *   (a) for the purpose of public notice only; and
     
-    *   (b) not an amendment to a strategy or plan for the purposes of [section 17I][152] of the Conservation Act 1987 or [section 46][153] of the National Parks Act 1980\.
+    *   (b) not an amendment to a strategy or plan for the purposes of [section 17I][154] of the Conservation Act 1987 or [section 46][155] of the National Parks Act 1980\.
     
     
 
@@ -1230,11 +1249,11 @@ Cultural redress
     
 *   (1) This section applies if the overlay classification applies to any land in---
         
-    *   (a) a national park under the [National Parks Act 1980][156]; or
+    *   (a) a national park under the [National Parks Act 1980][158]; or
     
-    *   (b) a conservation area under the [Conservation Act 1987][157]; or
+    *   (b) a conservation area under the [Conservation Act 1987][159]; or
     
-    *   (c) a reserve under the [Reserves Act 1977][158].
+    *   (c) a reserve under the [Reserves Act 1977][160].
     
     (2) The overlay classification does not affect---
         
@@ -1274,7 +1293,7 @@ Cultural redress
 
 ##### 50 Exercise of powers, and performance of duties and functions
     
-*   (1) [Section 38][52] does not affect, and must not be taken into account by, any person exercising a power, or performing a duty or function, under legislation or a bylaw.
+*   (1) [Section 38][53] does not affect, and must not be taken into account by, any person exercising a power, or performing a duty or function, under legislation or a bylaw.
     
     (2) A person, in considering a matter or making a decision or recommendation under legislation or a bylaw, must not give greater or lesser weight to the values, or the statement of values, that relate to the overlay site than the person would give if the site were not subject to the overlay classification.
     
@@ -1284,7 +1303,7 @@ Cultural redress
 
 ##### 51 Rights not affected
     
-*   (1) [Section 38][52] does not---
+*   (1) [Section 38][53] does not---
         
     *   (a) affect the lawful rights or interests of a person who is not a party to the deed of settlement; or
     
@@ -1296,27 +1315,27 @@ Cultural redress
 
 ##### 52 Interpretation
     
-*   In [sections 53 to 55][68],---
+*   In [sections 53 to 55][69],---
     
     _new official geographic name_---
         
-    *   (a) means the name to which the existing geographic name is altered under [section 53(1)][68]; and
+    *   (a) means the name to which the existing geographic name is altered under [section 53(1)][69]; and
     
-    *   (b) includes any alteration to a new official geographic name under [section 55][70]
+    *   (b) includes any alteration to a new official geographic name under [section 55][71]
     
-    _New Zealand Geographic Board_ means the Board continued by [section 7][159] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008\.
+    _New Zealand Geographic Board_ means the Board continued by [section 7][161] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008\.
 
 ##### 53 New official geographic names
     
 *   (1) The existing official geographic names in the first column of the table set out in part 3 of the attachments at the settlement date are altered to the new official geographic names set out opposite them in the second column of that table.
     
-    (2) The alterations made by subsection (1) are to be treated as having been made by the New Zealand Geographic Board in accordance with the [New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008][160].
+    (2) The alterations made by subsection (1) are to be treated as having been made by the New Zealand Geographic Board in accordance with the [New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008][162].
 
 ##### 54 Publication of new official geographic names
     
-*   (1) The New Zealand Geographic Board must, as soon as practicable after the settlement date, comply with [section 21(2) and (3)][161] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (which relate to the publication of determinations of the Board) as if the alteration under [section 53][68] were a determination under section 21(1) of that Act.
+*   (1) The New Zealand Geographic Board must, as soon as practicable after the settlement date, comply with [section 21(2) and (3)][163] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (which relate to the publication of determinations of the Board) as if the alteration under [section 53][69] were a determination under section 21(1) of that Act.
     
-    (2) Geographic names altered under [section 53][68] or [55][70] take effect on the date of the _Gazette_ notice published under subsection (1).
+    (2) Geographic names altered under [section 53][69] or [55][71] take effect on the date of the _Gazette_ notice published under subsection (1).
 
 ##### 55 Alteration of new official geographic names
     
@@ -1326,15 +1345,15 @@ Cultural redress
     
     *   (b) any of its related information.
     
-    (2) [Sections 53][68] and [54][69] apply, with any necessary modifications, to an alteration made under subsection (1).
+    (2) [Sections 53][69] and [54][70] apply, with any necessary modifications, to an alteration made under subsection (1).
     
-    (3) The power conferred by subsection (1) to alter a new geographic name or any of its related information replaces any power to do so under the [New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008][160].
+    (3) The power conferred by subsection (1) to alter a new geographic name or any of its related information replaces any power to do so under the [New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008][162].
 
 ### Subpart 3---Cultural redress requiring vesting of land
 
 ##### 56 Interpretation
     
-*   In this Act, _cultural redress property_ means each of the following named sites, and each site comprises the land described by that name in [Schedule 3][114]:
+*   In this Act, _cultural redress property_ means each of the following named sites, and each site comprises the land described by that name in [Schedule 3][115]:
         
     *   ###### Sites that vest in fee simple
     
@@ -1360,7 +1379,7 @@ Cultural redress
     
 *   (1) Nga Herenga ceases to be part of the Pureora Conservation Park.
     
-    (2) Nga Herenga ceases to be a conservation area under the [Conservation Act 1987][157].
+    (2) Nga Herenga ceases to be a conservation area under the [Conservation Act 1987][159].
     
     (3) The fee simple estate in Nga Herenga vests in the Maraeroa A and B Blocks Incorporation.
 
@@ -1368,7 +1387,7 @@ Cultural redress
     
 *   (1) Koromiko ceases to be part of the Pureora Conservation Park.
     
-    (2) Koromiko ceases to be a conservation area under the [Conservation Act 1987][157].
+    (2) Koromiko ceases to be a conservation area under the [Conservation Act 1987][159].
     
     (3) The fee simple estate in Koromiko vests in the Maraeroa A and B Blocks Incorporation.
     
@@ -1382,7 +1401,7 @@ Cultural redress
     
 *   (1) Kotukunui ceases to be part of the Pureora Conservation Park.
     
-    (2) Kotukunui ceases to be a conservation area under the [Conservation Act 1987][157].
+    (2) Kotukunui ceases to be a conservation area under the [Conservation Act 1987][159].
     
     (3) The fee simple estate in Kotukunui vests in the Maraeroa A and B Blocks Incorporation.
     
@@ -1396,13 +1415,13 @@ Cultural redress
     
     (5) Subsections (1) to (3) apply subject to subsection (4).
     
-    (6) The covenant provided under subsection (4)(a) is to be treated as a conservation covenant for the purposes of [section 77][162] of the Reserves Act 1977\.
+    (6) The covenant provided under subsection (4)(a) is to be treated as a conservation covenant for the purposes of [section 77][164] of the Reserves Act 1977\.
 
 ##### 60 Pikiariki
     
 *   (1) Pikiariki ceases to be part of the Pureora Conservation Park.
     
-    (2) Pikiariki ceases to be a conservation area under the [Conservation Act 1987][157].
+    (2) Pikiariki ceases to be a conservation area under the [Conservation Act 1987][159].
     
     (3) The fee simple estate in Pikiariki vests in the Maraeroa A and B Blocks Incorporation.
     
@@ -1410,7 +1429,7 @@ Cultural redress
     
     (5) Subsections (1) to (3) apply subject to subsection (4).
     
-    (6) The covenant provided under subsection (4) is to be treated as a conservation covenant for the purposes of [section 77][162] of the Reserves Act 1977\.
+    (6) The covenant provided under subsection (4) is to be treated as a conservation covenant for the purposes of [section 77][164] of the Reserves Act 1977\.
 
 ##### 61 Waimiha Kei Runga
     
@@ -1434,13 +1453,13 @@ Cultural redress
     
     (5) The Minister of Conservation must provide to the Maraeroa A and B Blocks Incorporation a registrable right of way easement over the areas shown as ""RC"" on SO 442816, ""A"", ""AA"", ""AB"", ""AC"", ""AD"", ""C"", and ""D"" on SO 441383, ""B"", ""BA"", and ""BB"" on SO 442898, and ""E"" and ""F"" on SO 311007 in favour of Waimiha Kei Runga, in the form set out in part 4.11 of the documents schedule.
     
-    (6) The covenant provided under subsection (3)(a) is to be treated as a conservation covenant for the purposes of [section 77][162] of the Reserves Act 1977\.
+    (6) The covenant provided under subsection (3)(a) is to be treated as a conservation covenant for the purposes of [section 77][164] of the Reserves Act 1977\.
 
 ##### 62 Whareana
     
 *   (1) Whareana ceases to be part of the Pureora Conservation Park.
     
-    (2) Whareana ceases to be a conservation area under the [Conservation Act 1987][157].
+    (2) Whareana ceases to be a conservation area under the [Conservation Act 1987][159].
     
     (3) The fee simple estate in Whareana vests in the Maraeroa A and B Blocks Incorporation.
     
@@ -1452,13 +1471,13 @@ Cultural redress
     
     (5) Subsections (1) to (3) are subject to subsection (4).
     
-    (6) The covenant provided under subsection (4)(a) is to be treated as a conservation covenant for the purposes of [section 77][162] of the Reserves Act 1977\.
+    (6) The covenant provided under subsection (4)(a) is to be treated as a conservation covenant for the purposes of [section 77][164] of the Reserves Act 1977\.
 
 #### Provisions of general application to vesting of cultural redress properties
 
 ##### 63 Properties vest subject to, or together with, encumbrances
     
-*   Each cultural redress property vests under this subpart subject to, or together with, any encumbrances listed in relation to the property in the third column of [Schedule 3][114].
+*   Each cultural redress property vests under this subpart subject to, or together with, any encumbrances listed in relation to the property in the third column of [Schedule 3][115].
 
 ##### 64 Registration of ownership
     
@@ -1470,7 +1489,7 @@ Cultural redress
     
     *   (b) enter on the register any encumbrances that are registered, notified, or notifiable and that are described in the application; and
     
-    *   (c) immediately after registration of any registrable encumbrances required as part of the vesting of the property, record on the register that the land is subject to [section 83][107].
+    *   (c) immediately after registration of any registrable encumbrances required as part of the vesting of the property, record on the register that the land is subject to [section 83][108].
     
     (3) Subsection (2) is subject to the completion of any survey necessary to create a computer freehold register.
     
@@ -1490,15 +1509,15 @@ Cultural redress
 
 ##### 65 Application of Part 4A of Conservation Act 1987
     
-*   (1) The vesting of the fee simple estate in a cultural redress property under this subpart is a disposition for the purposes of [Part 4A][163] of the Conservation Act 1987, but [sections 24(2A)][164], [24A][165], and [24AA][166] of that Act do not apply to the disposition.
+*   (1) The vesting of the fee simple estate in a cultural redress property under this subpart is a disposition for the purposes of [Part 4A][165] of the Conservation Act 1987, but [sections 24(2A)][166], [24A][167], and [24AA][168] of that Act do not apply to the disposition.
     
-    (2) The Registrar-General must record on the computer freehold register for a cultural redress property that the land is subject to [Part 4A][163] of the Conservation Act 1987\.
+    (2) The Registrar-General must record on the computer freehold register for a cultural redress property that the land is subject to [Part 4A][165] of the Conservation Act 1987\.
     
-    (3) Recording under subsection (2) that the land is subject to [Part 4A][163] of the Conservation Act 1987 is to be treated as having been made in compliance with [section 24D(1)][167] of that Act.
+    (3) Recording under subsection (2) that the land is subject to [Part 4A][165] of the Conservation Act 1987 is to be treated as having been made in compliance with [section 24D(1)][169] of that Act.
 
 ##### 66 Application of other enactments
     
-*   (1) [Section 11][168] and [Part 10][169] of the Resource Management Act 1991 do not apply to---
+*   (1) [Section 11][170] and [Part 10][171] of the Resource Management Act 1991 do not apply to---
         
     *   (a) the vesting of the fee simple estate in a cultural redress property under this subpart; or
     
@@ -1506,27 +1525,27 @@ Cultural redress
     
     (2) The vesting of the fee simple estate in a cultural redress property under this subpart does not---
         
-    *   (a) limit [section 10][170] or [11][171] of the Crown Minerals Act 1991; or
+    *   (a) limit [section 10][172] or [11][173] of the Crown Minerals Act 1991; or
     
     *   (b) affect other rights to subsurface minerals.
     
-    (3) The permission of a council under [section 348][172] of the Local Government Act 1974 is not required for laying out, forming, granting, or reserving a private road, private way, or right of way that may be required to fulfil the terms of the settlement deed in relation to a cultural redress property.
+    (3) The permission of a council under [section 348][174] of the Local Government Act 1974 is not required for laying out, forming, granting, or reserving a private road, private way, or right of way that may be required to fulfil the terms of the settlement deed in relation to a cultural redress property.
     
-    (4) The Minister of Conservation may grant the easement referred to in [section 61(5)][79].
+    (4) The Minister of Conservation may grant the easement referred to in [section 61(5)][80].
     
     (5) The easement granted under subsection (4)---
         
-    *   (a) is registrable under [section 17ZA(2)][173] of the Conservation Act 1987 as if it were a deed to which that provision applied; and
+    *   (a) is registrable under [section 17ZA(2)][175] of the Conservation Act 1987 as if it were a deed to which that provision applied; and
     
-    *   (b) is enforceable in accordance with its terms despite [Part 3B][174] of that Act; and
+    *   (b) is enforceable in accordance with its terms despite [Part 3B][176] of that Act; and
     
-    *   (c) is to be treated as having been granted in accordance with [Part 3B][174] of that Act.
+    *   (c) is to be treated as having been granted in accordance with [Part 3B][176] of that Act.
     
     
 
 ##### 67 Application of New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 to certain sites
     
-*   (1) If a site vested under this Part, immediately before the vesting, comprised the whole of a reserve or conservation area and an official geographic name was assigned under the [New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008][160] to the site,---
+*   (1) If a site vested under this Part, immediately before the vesting, comprised the whole of a reserve or conservation area and an official geographic name was assigned under the [New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008][162] to the site,---
         
     *   (a) that official geographic name is discontinued; and
     
@@ -1540,9 +1559,9 @@ Cultural redress
     
     (3) In this section,---
     
-    _Board_ means the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa continued by [section 7][159] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008
+    _Board_ means the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa continued by [section 7][161] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008
     
-    _Gazetteer_ and _official geographic name_ have the meanings given by [section 4][175] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008\.
+    _Gazetteer_ and _official geographic name_ have the meanings given by [section 4][177] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008\.
 
 ## Part 3  
 Commercial redress
@@ -1557,7 +1576,7 @@ Commercial redress
     
     (2) In exercising the powers under subsection (1), the Crown is not required to comply with any other enactment that would regulate or apply to a transfer of the licensed land.
     
-    (3) Subsection (2) is subject to [section 70(3)(a) and (b)(i) and (ii)][90].
+    (3) Subsection (2) is subject to [section 70(3)(a) and (b)(i) and (ii)][91].
 
 ##### 69 Registrar-General to create computer freehold register
     
@@ -1573,9 +1592,9 @@ Commercial redress
     
     (3) The authorised person may grant a covenant for the later creation of a computer freehold register for the licensed land that is to be transferred to the Maraeroa A and B Blocks Incorporation.
     
-    (4) Despite the [Land Transfer Act 1952][176],---
+    (4) Despite the [Land Transfer Act 1952][178],---
         
-    *   (a) the authorised person may request the Registrar-General to register a covenant (as provided for in subsection (3)) under the [Land Transfer Act 1952][176] by creating a computer freehold register; and
+    *   (a) the authorised person may request the Registrar-General to register a covenant (as provided for in subsection (3)) under the [Land Transfer Act 1952][178] by creating a computer freehold register; and
     
     *   (b) the Registrar-General must register the covenant in accordance with paragraph (a).
     
@@ -1585,7 +1604,7 @@ Commercial redress
     
 *   (1) This section applies to the transfer to the Maraeroa A and B Blocks Incorporation of the licensed land.
     
-    (2) [Section 11][168] and [Part 10][169] of the Resource Management Act 1991 do not apply to---
+    (2) [Section 11][170] and [Part 10][171] of the Resource Management Act 1991 do not apply to---
         
     *   (a) the transfer of the licensed land; or
     
@@ -1593,15 +1612,15 @@ Commercial redress
     
     (3) The transfer of the licensed land---
         
-    *   (a) is a disposition for the purposes of [Part 4A][163] of the Conservation Act 1987, but [sections 24(2A)][164], [24A][165], and [24AA][166] of that Act do not apply to the disposition; and
+    *   (a) is a disposition for the purposes of [Part 4A][165] of the Conservation Act 1987, but [sections 24(2A)][166], [24A][167], and [24AA][168] of that Act do not apply to the disposition; and
     
     *   (b) does not---
             
-        *   (i) limit [section 10][170] or [11][171] of the Crown Minerals Act 1991; or
+        *   (i) limit [section 10][172] or [11][173] of the Crown Minerals Act 1991; or
         
         *   (ii) affect other rights to subsurface minerals; or
         
-        *   (iii) require the permission of a council under [section 348][172] of the Local Government Act 1974 for laying out, forming, granting, or reserving a private road, private way, or right of way that may otherwise be required to fulfil the terms of the deed of settlement.
+        *   (iii) require the permission of a council under [section 348][174] of the Local Government Act 1974 for laying out, forming, granting, or reserving a private road, private way, or right of way that may otherwise be required to fulfil the terms of the deed of settlement.
         
         
     
@@ -1611,11 +1630,11 @@ Commercial redress
     
 *   (1) The licensed land ceases to be Crown forest land on the registration of the transfer of the fee simple estate in the land to the Maraeroa A and B Blocks Incorporation.
     
-    (2) However, although the licensed land does not cease to be Crown forest land until the transfer of the fee simple estate in the land to the Maraeroa A and B Blocks Incorporation is registered, neither the Crown nor any court or tribunal may do any thing, or omit to do any thing, if that act or omission would, between the settlement date and the date of registration, be consistent with the [Crown Forest Assets Act 1989][177], but inconsistent with this Part or part 6 of the deed of settlement.
+    (2) However, although the licensed land does not cease to be Crown forest land until the transfer of the fee simple estate in the land to the Maraeroa A and B Blocks Incorporation is registered, neither the Crown nor any court or tribunal may do any thing, or omit to do any thing, if that act or omission would, between the settlement date and the date of registration, be consistent with the [Crown Forest Assets Act 1989][179], but inconsistent with this Part or part 6 of the deed of settlement.
 
 ##### 72 Trustees are confirmed beneficiaries
     
-*   (1) Despite [sections 68 to 71][88] or subsection (4), the trustees of the Settlement Trust are, in relation to the licensed land, the confirmed beneficiaries under clause 11.1 of the Crown forestry rental trust deed.
+*   (1) Despite [sections 68 to 71][89] or subsection (4), the trustees of the Settlement Trust are, in relation to the licensed land, the confirmed beneficiaries under clause 11.1 of the Crown forestry rental trust deed.
     
     (2) The effect of subsection (1) is that---
         
@@ -1623,11 +1642,11 @@ Commercial redress
     
     *   (b) all the provisions of the Crown forestry rental trust deed apply on the basis that the trustees of the Settlement Trust are the confirmed beneficiaries.
     
-    (3) The Crown must give notice under [section 17(4)(b)][178] of the Crown Forest Assets Act 1989 in respect of the Crown forestry licence, even though the Waitangi Tribunal has not made a recommendation under [section 8HB(1)(a)][179] of the Treaty of Waitangi Act 1975 for the return of the licensed land.
+    (3) The Crown must give notice under [section 17(4)(b)][180] of the Crown Forest Assets Act 1989 in respect of the Crown forestry licence, even though the Waitangi Tribunal has not made a recommendation under [section 8HB(1)(a)][181] of the Treaty of Waitangi Act 1975 for the return of the licensed land.
     
     (4) Notice given by the Crown under subsection (3) has effect as if---
         
-    *   (a) the Waitangi Tribunal had made a recommendation under [section 8HB(1)(a)][179] of the Treaty of Waitangi Act 1975 for the return of the licensed land; and
+    *   (a) the Waitangi Tribunal had made a recommendation under [section 8HB(1)(a)][181] of the Treaty of Waitangi Act 1975 for the return of the licensed land; and
     
     *   (b) the recommendation had become final on the settlement date.
     
@@ -1635,13 +1654,13 @@ Commercial redress
         
     *   (a) on the settlement date; and
     
-    *   (b) under [section 36][180] of the Crown Forest Assets Act 1989\.
+    *   (b) under [section 36][182] of the Crown Forest Assets Act 1989\.
     
-    (6) However, [section 36(1)(b)][180] of the Crown Forest Assets Act 1989 does not apply to the licensed land.
+    (6) However, [section 36(1)(b)][182] of the Crown Forest Assets Act 1989 does not apply to the licensed land.
 
 ##### 73 Effect of transfer of licensed land
     
-*   (1) [Section 72][92] applies whether or not---
+*   (1) [Section 72][93] applies whether or not---
         
     *   (a) the transfer of the fee simple estate in the licensed land has been registered; or
     
@@ -1664,9 +1683,9 @@ Access to protected sites
     
 *   In this Part, _protected site_ means any area of land situated in the licensed land or the unlicensed land that---
         
-    *   (a) is wāhi tapu or a wāhi tapu area within the meaning of [section 2][143] of the Historic Places Act 1993; and
+    *   (a) is wāhi tapu or a wāhi tapu area within the meaning of [section 2][145] of the Historic Places Act 1993; and
     
-    *   (b) is, or at any future time becomes, a registered place within the meaning of [section 2][143] of that Act.
+    *   (b) is, or at any future time becomes, a registered place within the meaning of [section 2][145] of that Act.
     
     
 
@@ -1696,7 +1715,7 @@ Access to protected sites
 
 ##### 76 Right of access subject to Crown forestry licence
     
-*   (1) The right of access conferred by [section 75][96] is subject to, and does not override, the terms of---
+*   (1) The right of access conferred by [section 75][97] is subject to, and does not override, the terms of---
         
     *   (a) any Crown forestry licence; and
     
@@ -1712,7 +1731,7 @@ Access to protected sites
     
     (3) An amendment to a Crown forestry licence or registered forestry right will be of no effect to the extent that it purports to---
         
-    *   (a) delay the date from which a person who has a right of access under [section 75][96] may exercise that right; or
+    *   (a) delay the date from which a person who has a right of access under [section 75][97] may exercise that right; or
     
     *   (b) otherwise adversely affect the right of access.
     
@@ -1720,7 +1739,7 @@ Access to protected sites
 
 ##### 77 Notation on computer freehold register
     
-*   (1) The Registrar-General must, in accordance with a written application by an authorised person, record on the computer freehold register for the licensed land or the unlicensed land that the land is, or may at any future time be, subject to [section 75][96].
+*   (1) The Registrar-General must, in accordance with a written application by an authorised person, record on the computer freehold register for the licensed land or the unlicensed land that the land is, or may at any future time be, subject to [section 75][97].
     
     (2) An application must be made as soon as is reasonably practicable after the settlement date.
     
@@ -1743,7 +1762,7 @@ Provisions relating to jurisdiction of Māori Land Court and protected land
     
     _court_ means the Māori Land Court
     
-    _descendant_ means an individual referred to in [section 11][15]
+    _descendant_ means an individual referred to in [section 11][16]
     
     _governance entity_ means the Settlement Trust and the Maraeroa A and B Blocks Incorporation, or either of them; and includes the trustees
     
@@ -1757,7 +1776,7 @@ Provisions relating to jurisdiction of Māori Land Court and protected land
         
     *   (a) land vested in or transferred to the Maraeroa A and B Blocks Incorporation under or in accordance with the deed of settlement; and
     
-    *   (b) land subject to an order of the Māori Land Court under [section 256(2)][181] of Te Ture Whenua Maori Act 1993\.
+    *   (b) land subject to an order of the Māori Land Court under [section 256(2)][183] of Te Ture Whenua Maori Act 1993\.
     
     
 
@@ -1779,7 +1798,7 @@ Provisions relating to jurisdiction of Māori Land Court and protected land
 
 ##### 81 Capacity to sell, gift, or give long-term lease of protected land
     
-*   (1) Subject to [section 83][107], the governance entity has the capacity to sell, gift, or lease by way of long-term lease the whole or any part of the protected land.
+*   (1) Subject to [section 83][108], the governance entity has the capacity to sell, gift, or lease by way of long-term lease the whole or any part of the protected land.
     
     (2) Subsection (1) is subject to the other sections in this Part.
     
@@ -1797,9 +1816,9 @@ Provisions relating to jurisdiction of Māori Land Court and protected land
 
 ##### 84 Lodgement of instruments
     
-*   (1) Any instrument lodged to give effect to a sale, gift, or long-term lease must include a certificate given by the solicitor for the transferor or grantor certifying that the requirements of [section 83][107] have been complied with.
+*   (1) Any instrument lodged to give effect to a sale, gift, or long-term lease must include a certificate given by the solicitor for the transferor or grantor certifying that the requirements of [section 83][108] have been complied with.
     
-    (2) Any instrument lodged to give effect to a sale or gift to a transferee that is not the Maraeroa A and B Blocks Incorporation or the trustees of the Settlement Trust must include a request to the Registrar-General to remove the notation entered under [section 64(2)(c)][83].
+    (2) Any instrument lodged to give effect to a sale or gift to a transferee that is not the Maraeroa A and B Blocks Incorporation or the trustees of the Settlement Trust must include a request to the Registrar-General to remove the notation entered under [section 64(2)(c)][84].
     
     (3) On receiving a request to do so, the Registrar-General must remove the notation referred to in subsection (2).
 
@@ -1807,36 +1826,36 @@ Provisions relating to jurisdiction of Māori Land Court and protected land
 
 ##### 85 Application of other enactments
     
-*   (1) Except as provided in this Act, nothing in [Te Ture Whenua Maori Act 1993][182] applies to the protected land.
+*   (1) Except as provided in this Act, nothing in [Te Ture Whenua Maori Act 1993][184] applies to the protected land.
     
     (2) The protected land is deemed to be Māori freehold land for the purposes of the following (each of which applies to the protected land):
         
-    *   (a) [section 7][183] of the Forestry Encouragement Act 1962:
+    *   (a) [section 7][185] of the Forestry Encouragement Act 1962:
     
-    *   (b) [sections 102][184] and [108][185] of the Local Government Act 2002:
+    *   (b) [sections 102][186] and [108][187] of the Local Government Act 2002:
     
-    *   (c) [Part 4][186] of the Local Government (Rating) Act 2002:
+    *   (c) [Part 4][188] of the Local Government (Rating) Act 2002:
     
-    *   (d) [section 13B][187] of the Maori Trustee Act 1953:
+    *   (d) [section 13B][189] of the Maori Trustee Act 1953:
     
-    *   (e) [section 30A][188] of the Soil Conservation and Rivers Control Act 1941:
+    *   (e) [section 30A][190] of the Soil Conservation and Rivers Control Act 1941:
     
-    *   (f) [sections 18(1)(a) to (d)][189], [19][190], [20][191], [26][192], [137][193], [138][194], [140][195], [141][196], [142][197], [342][198], [344][199], and [346][200] of Te Ture Whenua Maori Act 1993:
+    *   (f) [sections 18(1)(a) to (d)][191], [19][192], [20][193], [26][194], [137][195], [138][196], [140][197], [141][198], [142][199], [342][200], [344][201], and [346][202] of Te Ture Whenua Maori Act 1993:
     
-    *   (g) [section 27][201] of the Walking Access Act 2008\.
+    *   (g) [section 27][203] of the Walking Access Act 2008\.
     
     
 
 ##### 86 Māori Land Court's jurisdiction
     
-*   The Māori Land Court has and may exercise in respect of the protected land any jurisdiction conferred by this Act or under the provisions of any other Act referred to in [section 85][110], but this jurisdiction may be exercised only on the application by or on behalf of a shareholder, the trustees of the Settlement Trust, a descendant, or another party with an interest in the matter.
+*   The Māori Land Court has and may exercise in respect of the protected land any jurisdiction conferred by this Act or under the provisions of any other Act referred to in [section 85][111], but this jurisdiction may be exercised only on the application by or on behalf of a shareholder, the trustees of the Settlement Trust, a descendant, or another party with an interest in the matter.
 
 ---
 
 ## Schedule 1  
 Statutory areas
 
-[s 10][14]
+[s 10][15]
 
 **Statutory area****Location**
 
@@ -1869,7 +1888,7 @@ Kahaho StreamAs shown on OTS-120-26
 ## Schedule 2  
 Overlay site
 
-[s 38][52]
+[s 38][53]
 
 **Overlay site** **Location** **Description**
 
@@ -1884,7 +1903,7 @@ Part Maraeroa A2, Part Pouakani B9A, Part Section 1 Block IV and Part Section 1 
 ## Schedule 3  
 Cultural redress properties
 
-[ss 56][72], [63][82]
+[ss 56][73], [63][83]
 
 **Site****Legal description****Encumbrances**
 
@@ -1898,7 +1917,7 @@ Koromiko
 
 _South Auckland Land District---Waitomo District _
 
-22.6445 hectares, more or less, being Section 2 SO 442898\. Part _Gazette_ 1978 page 2463\.Subject to the right of way easement in gross referred to in [section 58(4)][75].
+22.6445 hectares, more or less, being Section 2 SO 442898\. Part _Gazette_ 1978 page 2463\.Subject to the right of way easement in gross referred to in [section 58(4)][76].
 
 Kotukunui
 
@@ -1906,17 +1925,17 @@ _South Auckland Land District---Waitomo District _
 
 35.4552 hectares, more or less, being Section 3 SO 442898\. Part _Gazette_ 1978 page 2463\.
 
-Subject to the conservation covenant referred to in [section 59(4)(a)][77].
+Subject to the conservation covenant referred to in [section 59(4)(a)][78].
 
-Subject to the right of way easement in gross referred to in [section 59(4)(b)][77].
+Subject to the right of way easement in gross referred to in [section 59(4)(b)][78].
 
-Subject to the easement in gross for a right to convey electricity, telecommunications, and computer media referred to in [section 59(4)(c)][77].
+Subject to the easement in gross for a right to convey electricity, telecommunications, and computer media referred to in [section 59(4)(c)][78].
 
 Pikiariki
 
 _South Auckland Land District---Waitomo District _
 
-130.6281 hectares, more or less, being Section 1 SO 441383\. Part Computer Interest Register SAPR185/49\.Subject to the conservation covenant referred to in [section 60(4)][78].
+130.6281 hectares, more or less, being Section 1 SO 441383\. Part Computer Interest Register SAPR185/49\.Subject to the conservation covenant referred to in [section 60(4)][79].
 
 Waimiha Kei Runga
 
@@ -1926,19 +1945,19 @@ _South Auckland Land District---Waitomo and Taupo Districts _
 
 Subject to a right of way over part marked V and W on DP 310734 created by Deed of Easement 6869282.7 and held in Computer Interest Register 293507\.
 
-Subject to the forestry right registered under the [Forestry Rights Registration Act 1983][124].
+Subject to the forestry right registered under the [Forestry Rights Registration Act 1983][125].
 
-Subject to the conservation covenant referred to in [section 61(3)(a)][79].
+Subject to the conservation covenant referred to in [section 61(3)(a)][80].
 
-Subject to the right of way easement in gross referred to in [section 61(3)(b)][79].
+Subject to the right of way easement in gross referred to in [section 61(3)(b)][80].
 
-Subject to the right of way easement in gross referred to in [section 61(3)(c)][79].
+Subject to the right of way easement in gross referred to in [section 61(3)(c)][80].
 
-Subject to the right of way easement in gross referred to in [section 61(3)(d)][79].
+Subject to the right of way easement in gross referred to in [section 61(3)(d)][80].
 
-Subject to the right of way easement in gross referred to in [section 61(3)(e)][79].
+Subject to the right of way easement in gross referred to in [section 61(3)(e)][80].
 
-Together with the right of way easement referred to in [section 61(5)][79].
+Together with the right of way easement referred to in [section 61(5)][80].
 
 Whareana
 
@@ -1946,229 +1965,239 @@ _South Auckland Land District---Waitomo District _
 
 31.8715 hectares, more or less, being Section 1 SO 442898\. Part _Gazette_ 1978 page 2463\.
 
-Subject to the conservation covenant referred to in [section 62(4)(a)][80].
+Subject to the conservation covenant referred to in [section 62(4)(a)][81].
 
-Subject to the easement in gross for a right to convey electricity, telecommunications, and computer media referred to in [section 62(4)(b)][80].
+Subject to the easement in gross for a right to convey electricity, telecommunications, and computer media referred to in [section 62(4)(b)][81].
 
----
-
-## Legislative history
-
-5 March 2012Introduction (Bill 9--1)
-
-8 March 2012First reading and referral to Māori Affairs Committee
-
-14 June 2012Reported from Māori Affairs Committee (Bill 9--2)
-
-18 July 2012Second reading
-
-25 July 2012Third reading
-
-31 July 2012Royal assent
+#### 
 
 ---
 
-This Act is administered by the Ministry of Justice.
+##### Reprints notes
 
-[0]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4328919
-[1]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4328922
-[2]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4328923
-[3]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4328924
-[4]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4328925
-[5]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4328926
-[6]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4328927
-[7]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4328928
-[8]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4328929
-[9]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4328930
-[10]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4328931
-[11]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4328932
-[12]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4328933
-[13]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4328934
-[14]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4328935
-[15]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329048
-[16]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329051
-[17]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329055
-[18]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329056
-[19]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329057
-[20]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329058
-[21]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329059
-[22]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329060
-[23]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329061
-[24]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329062
-[25]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329063
-[26]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329064
-[27]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329065
-[28]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329066
-[29]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329067
-[30]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329068
-[31]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329069
-[32]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329070
-[33]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329072
-[34]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329073
-[35]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329078
-[36]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329079
-[37]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329080
-[38]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329081
-[39]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329082
-[40]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329084
-[41]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329085
-[42]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329086
-[43]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329087
-[44]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329088
-[45]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329089
-[46]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329090
-[47]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329091
-[48]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329092
-[49]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329093
-[50]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329094
-[51]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329095
-[52]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329110
-[53]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329111
-[54]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329112
-[55]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329113
-[56]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329114
-[57]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329115
-[58]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329116
-[59]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329117
-[60]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329118
-[61]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329119
-[62]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329120
-[63]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329121
-[64]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329122
-[65]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329123
-[66]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329124
-[67]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329125
-[68]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329130
-[69]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329131
-[70]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329132
-[71]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329133
-[72]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329134
-[73]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329136
-[74]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329137
-[75]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329138
-[76]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329139
-[77]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329140
-[78]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329141
-[79]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329142
-[80]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329143
-[81]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329144
-[82]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329145
-[83]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329146
-[84]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329148
-[85]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329149
-[86]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329150
-[87]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329156
-[88]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329157
-[89]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329158
-[90]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329160
-[91]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329161
-[92]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329162
-[93]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329163
-[94]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329164
-[95]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329165
-[96]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329167
-[97]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329168
-[98]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329169
-[99]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329171
-[100]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329172
-[101]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329183
-[102]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329184
-[103]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329185
-[104]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329186
-[105]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329187
-[106]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329188
-[107]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329189
-[108]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329191
-[109]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329192
-[110]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329193
-[111]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329194
-[112]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329195
-[113]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329197
-[114]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329199
-[115]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM435834
-[116]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM435367
-[117]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM2408220
-[118]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM250592
-[119]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM230272
-[120]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM103616
-[121]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM160819
-[122]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM191774
-[123]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM192355
-[124]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM72448
-[125]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM300681
-[126]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM4329319
-[127]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM36968
-[128]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM270019
-[129]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM1347539
-[130]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM192356
-[131]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM184658
-[132]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM223144
-[133]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM98097
-[134]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM435544
-[135]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM353436
-[136]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM2416413
-[137]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM230264
-[138]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM237755
-[139]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM300607
-[140]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM300608
-[141]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM300610
-[142]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM300622
-[143]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM300516
-[144]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM240686
-[145]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM235409
-[146]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM2416410
-[147]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM234326
-[148]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM2418625
-[149]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM242504
-[150]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM104213
-[151]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM104086
-[152]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM104615
-[153]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM38204
-[154]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM195097
-[155]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM195534
-[156]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM36962
-[157]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM103609
-[158]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM444304
-[159]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM1065473
-[160]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM1065400
-[161]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM1065497
-[162]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM444912
-[163]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM104697
-[164]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM104699
-[165]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM104910
-[166]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM104914
-[167]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM104928
-[168]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM231942
-[169]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM236786
-[170]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM246310
-[171]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM246311
-[172]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM420676
-[173]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM104660
-[174]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM104633
-[175]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM1065420
-[176]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM269031
-[177]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM191768
-[178]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM192331
-[179]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM435597
-[180]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM192358
-[181]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM292175
-[182]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM289881
-[183]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM339648
-[184]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM172359
-[185]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM172370
-[186]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM132768
-[187]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM282096
-[188]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM231025
-[189]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM290548
-[190]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM290549
-[191]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM290551
-[192]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM290564
-[193]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM291502
-[194]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM291503
-[195]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM291505
-[196]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM291506
-[197]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM291507
-[198]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM292898
-[199]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM293001
-[200]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM293003
-[201]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM1244136
+###### 1 General
+    
+*   This is a reprint of the Maraeroa A and B Blocks Claims Settlement Act 2012 that incorporates all the amendments to that Act as at the date of the last amendment to it.
+
+###### 2 Legal status
+    
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][204] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][205] of that Act.
+
+###### 3 Editorial and format changes
+    
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][206] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][207] ![](/images/external_link.gif).
+
+###### 4 Amendments incorporated in this reprint
+    
+*   Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][130]
+
+
+
+[0]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM2998524
+[1]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4328919
+[2]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4328922
+[3]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4328923
+[4]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4328924
+[5]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4328925
+[6]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4328926
+[7]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4328927
+[8]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4328928
+[9]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4328929
+[10]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4328930
+[11]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4328931
+[12]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4328932
+[13]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4328933
+[14]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4328934
+[15]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4328935
+[16]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329048
+[17]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329051
+[18]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329055
+[19]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329056
+[20]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329057
+[21]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329058
+[22]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329059
+[23]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329060
+[24]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329061
+[25]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329062
+[26]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329063
+[27]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329064
+[28]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329065
+[29]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329066
+[30]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329067
+[31]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329068
+[32]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329069
+[33]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329070
+[34]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329072
+[35]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329073
+[36]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329078
+[37]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329079
+[38]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329080
+[39]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329081
+[40]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329082
+[41]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329084
+[42]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329085
+[43]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329086
+[44]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329087
+[45]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329088
+[46]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329089
+[47]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329090
+[48]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329091
+[49]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329092
+[50]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329093
+[51]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329094
+[52]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329095
+[53]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329110
+[54]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329111
+[55]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329112
+[56]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329113
+[57]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329114
+[58]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329115
+[59]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329116
+[60]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329117
+[61]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329118
+[62]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329119
+[63]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329120
+[64]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329121
+[65]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329122
+[66]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329123
+[67]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329124
+[68]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329125
+[69]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329130
+[70]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329131
+[71]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329132
+[72]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329133
+[73]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329134
+[74]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329136
+[75]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329137
+[76]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329138
+[77]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329139
+[78]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329140
+[79]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329141
+[80]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329142
+[81]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329143
+[82]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329144
+[83]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329145
+[84]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329146
+[85]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329148
+[86]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329149
+[87]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329150
+[88]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329156
+[89]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329157
+[90]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329158
+[91]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329160
+[92]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329161
+[93]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329162
+[94]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329163
+[95]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329164
+[96]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329165
+[97]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329167
+[98]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329168
+[99]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329169
+[100]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329171
+[101]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329172
+[102]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329183
+[103]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329184
+[104]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329185
+[105]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329186
+[106]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329187
+[107]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329188
+[108]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329189
+[109]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329191
+[110]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329192
+[111]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329193
+[112]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329194
+[113]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329195
+[114]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329197
+[115]: http://www.legislation.govt.nz/act/public/2012/0052/latest/whole.html#DLM4329199
+[116]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM435834
+[117]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM435367
+[118]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM2408220
+[119]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM250592
+[120]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM230272
+[121]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM103616
+[122]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM160819
+[123]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM191774
+[124]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM192355
+[125]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM72448
+[126]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM300681
+[127]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM4329319
+[128]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM36968
+[129]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM270019
+[130]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM4929207
+[131]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM1347539
+[132]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM192356
+[133]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM184658
+[134]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM223144
+[135]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM98097
+[136]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM435544
+[137]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM353436
+[138]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM2416413
+[139]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM230264
+[140]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM237755
+[141]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM300607
+[142]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM300608
+[143]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM300610
+[144]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM300622
+[145]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM300516
+[146]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM240686
+[147]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM235409
+[148]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM2416410
+[149]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM234326
+[150]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM2418625
+[151]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM242504
+[152]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM104213
+[153]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM104086
+[154]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM104615
+[155]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM38204
+[156]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM195097
+[157]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM195534
+[158]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM36962
+[159]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM103609
+[160]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM444304
+[161]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM1065473
+[162]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM1065400
+[163]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM1065497
+[164]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM444912
+[165]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM104697
+[166]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM104699
+[167]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM104910
+[168]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM104914
+[169]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM104928
+[170]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM231942
+[171]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM236786
+[172]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM246310
+[173]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM246311
+[174]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM420676
+[175]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM104660
+[176]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM104633
+[177]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM1065420
+[178]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM269031
+[179]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM191768
+[180]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM192331
+[181]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM435597
+[182]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM192358
+[183]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM292175
+[184]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM289881
+[185]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM339648
+[186]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM172359
+[187]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM172370
+[188]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM132768
+[189]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM282096
+[190]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM231025
+[191]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM290548
+[192]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM290549
+[193]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM290551
+[194]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM290564
+[195]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM291502
+[196]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM291503
+[197]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM291505
+[198]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM291506
+[199]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM291507
+[200]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM292898
+[201]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM293001
+[202]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM293003
+[203]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM1244136
+[204]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM2998516
+[205]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM2998515
+[206]: http://www.legislation.govt.nz/act/public/2012/0052/latest/link.aspx?id=DLM2998532
+[207]: http://www.pco.parliament.govt.nz/editorial-conventions/
