@@ -1,5 +1,5 @@
 Reprint  
-as at 18 December 2013
+as at 1 January 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -839,6 +839,8 @@ Preliminary provisions
         
     *   (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
     
+    *   (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    
     *   (b) the day observed in the appropriate area as the anniversary of the province of which the area forms a part; and
     
     *   (c) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year.
@@ -896,6 +898,8 @@ Preliminary provisions
     Section 6(1) **used motor vehicle** paragraph (b): amended, on 17 May 2005, by [section 3(2)(a)][265] of the Motor Vehicle Sales Amendment Act 2005 (2005 No 61).
     
     Section 6(1) **used motor vehicle** paragraph (b): amended, on 17 May 2005, by [section 3(2)(b)][265] of the Motor Vehicle Sales Amendment Act 2005 (2005 No 61).
+    
+    Section 6(1) **working day** paragraph (ab): inserted, on 1 January 2014, by [section 8][266] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
 
 #### Meaning of motor vehicle trader
 
@@ -919,7 +923,7 @@ Preliminary provisions
         
         
     
-    Section 7(b)(i): repealed, on 1 October 2010, by [section 5][266] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Section 7(b)(i): repealed, on 1 October 2010, by [section 5][267] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
 
 ##### 8 Who is treated as motor vehicle trader
     
@@ -937,7 +941,7 @@ Preliminary provisions
     
     *   (b) in any way represents that the person is ready to carry, or is carrying, on the business of motor vehicle trading.
     
-    (3) Subsection (1)(b) does not apply to any trustee corporation (within the meaning of [section 2(1)][267] of the Trustee Act 1956) acting in the capacity of executor, administrator, trustee, guardian, committee, manager, agent, attorney, or liquidator, or in any fiduciary capacity, unless the trustee corporation is acting on behalf of the same person or estate.
+    (3) Subsection (1)(b) does not apply to any trustee corporation (within the meaning of [section 2(1)][268] of the Trustee Act 1956) acting in the capacity of executor, administrator, trustee, guardian, committee, manager, agent, attorney, or liquidator, or in any fiduciary capacity, unless the trustee corporation is acting on behalf of the same person or estate.
 
 ##### 9 Who is not treated as motor vehicle trader
     
@@ -979,11 +983,11 @@ Preliminary provisions
     
     (2) Subsection (1)(d), (h), and (i) applies only if the person sells motor vehicles through a motor vehicle trader registered under this Act.
     
-    Section 9(1)(ea): inserted, on 1 October 2010, by [section 6(1)][268] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Section 9(1)(ea): inserted, on 1 October 2010, by [section 6(1)][269] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
     
-    Section 9(1)(f): substituted, on 1 October 2010, by [section 6(2)][268] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Section 9(1)(f): substituted, on 1 October 2010, by [section 6(2)][269] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
     
-    Section 9(2): amended, on 1 October 2010, by [section 6(3)][268] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Section 9(2): amended, on 1 October 2010, by [section 6(3)][269] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
 
 ## Part 2  
 Motor vehicle trading
@@ -1038,13 +1042,13 @@ Motor vehicle trading
     
     *   (b) exclusively to other motor vehicle traders registered under this Act, or to licensed car wreckers, or to both.
     
-    Section 14: substituted, on 1 October 2010, by [section 7][269] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Section 14: substituted, on 1 October 2010, by [section 7][270] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
 
 ##### 15 Particulars (including statement about buyer taking motor vehicle free of security interests) that must be contained in notice attached to used motor vehicle
     
 *   (1) All of the following particulars must be contained in every notice that, in accordance with [section 14(1)][25], must be attached to a used motor vehicle:
         
-    *   (a) a statement that sets out the effect of [section 58][270] of the Personal Property Securities Act 1999\. That section, as amended by [section 145][211], is as follows:
+    *   (a) a statement that sets out the effect of [section 58][271] of the Personal Property Securities Act 1999\. That section, as amended by [section 145][211], is as follows:
         
         > ##### "58 Buyer or lessee of motor vehicle acquired from registered trader takes motor vehicle free of security interest
         >     
@@ -1068,15 +1072,15 @@ Motor vehicle trading
         
         
     
-    *   (b) particulars (if any) that are contained in a consumer information standard prescribed by regulations made under [section 27][271] of the Fair Trading Act 1986:
+    *   (b) particulars (if any) that are contained in a consumer information standard prescribed by regulations made under [section 27][272] of the Fair Trading Act 1986:
     
     *   (c) any other prescribed particulars.
     
     (2) Nothing in this section or [section 14][25] derogates from any other enactment, including---
         
-    *   (a) [section 58][270] of the Personal Property Securities Act 1999; or
+    *   (a) [section 58][271] of the Personal Property Securities Act 1999; or
     
-    *   (b) [section 27][271] of the Fair Trading Act 1986\.
+    *   (b) [section 27][272] of the Fair Trading Act 1986\.
     
     
 
@@ -1106,7 +1110,7 @@ Motor vehicle trading
     
     *   (b) a licensed car wrecker.
     
-    Section 16(3): added, on 1 October 2010, by [section 8][272] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Section 16(3): added, on 1 October 2010, by [section 8][273] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
 
 ##### 17 Requirements of section 16 may form part of contract for sale
     
@@ -1160,7 +1164,7 @@ Motor vehicle trading
     
     *   (b) the manner in which the motor vehicle trader has applied the money.
     
-    (2) For the purposes of this section, a sale on consignment is completed regardless of the fact that a notice of change of ownership has yet to be given in accordance with [section 247][273] of the Land Transport Act 1998\.
+    (2) For the purposes of this section, a sale on consignment is completed regardless of the fact that a notice of change of ownership has yet to be given in accordance with [section 247][274] of the Land Transport Act 1998\.
     
     Section 20(2): amended, on 1 May 2011, by [section 35(4)][263] of the Land Transport Amendment Act 2009 (2009 No 17).
 
@@ -1184,7 +1188,7 @@ Motor vehicle trading
     
     *   (d) may be kept in electronic form so long as it is readily retrievable.
     
-    Section 21(2)(c)(ii): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][274] of the Policing Act 2008 (2008 No 72).
+    Section 21(2)(c)(ii): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][275] of the Policing Act 2008 (2008 No 72).
 
 ##### 22 Duty to produce certificate of registration on demand
     
@@ -1244,23 +1248,23 @@ Motor vehicle trading
         
         
     
-    *   (g) a person who held a motor vehicle dealer's licence under the former Act and who is also a person against whom the Institute may exercise its right of subrogation under [section 42][275] of that Act in relation to any payment out of the Fund arising from a claim against the Fund within the preceding 5 years for any act or thing done or omitted to be done by that person; or
+    *   (g) a person who held a motor vehicle dealer's licence under the former Act and who is also a person against whom the Institute may exercise its right of subrogation under [section 42][276] of that Act in relation to any payment out of the Fund arising from a claim against the Fund within the preceding 5 years for any act or thing done or omitted to be done by that person; or
     
     *   (h) a person whose registration as a motor vehicle trader has been cancelled under [section 42][67] within the preceding 5 years; or
     
-    *   (i) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the [Companies Act 1993][276], or the [Securities Act 1978][277], or the [Securities Markets Act 1988][278], or the [Takeovers Act 1993][279]; or
+    *   (i) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the [Companies Act 1993][277], or the [Securities Act 1978][278], or the [Securities Markets Act 1988][279], or the [Takeovers Act 1993][280]; or
     
     *   (j) a person who has been convicted of a crime involving dishonesty within the preceding 5 years; or
     
-    *   (k) a person who has been convicted of an offence against [sections 17 to 22][280] or [24 to 26][281] of the Fair Trading Act 1986 within the preceding 5 years; or
+    *   (k) a person who has been convicted of an offence against [sections 17 to 22][281] or [24 to 26][282] of the Fair Trading Act 1986 within the preceding 5 years; or
     
     *   (l) \[Repealed\]
     
-    *   (m) subject to a property order made under [section 30][282] or [section 31][283] of the Protection of Personal and Property Rights Act 1988\.
+    *   (m) subject to a property order made under [section 30][283] or [section 31][284] of the Protection of Personal and Property Rights Act 1988\.
     
-    Section 24(i): substituted, on 25 October 2006, by [section 25][284] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 24(i): substituted, on 25 October 2006, by [section 25][285] of the Securities Amendment Act 2006 (2006 No 46).
     
-    Section 24(l): repealed, on 10 September 2008, by [section 10(2)][285] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
+    Section 24(l): repealed, on 10 September 2008, by [section 10(2)][286] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
 
 ##### 25 Persons disqualified from registration: companies
     
@@ -1276,11 +1280,11 @@ Motor vehicle trading
         
         
     
-    *   (c) the company is a licensee under the former Act and is also a person against whom the Institute may exercise its right of subrogation under [section 42][286] of that Act in relation to any payment out of the Fund arising from a claim against the Fund within the preceding 5 years for any act or thing done or omitted to be done by that person; or
+    *   (c) the company is a licensee under the former Act and is also a person against whom the Institute may exercise its right of subrogation under [section 42][287] of that Act in relation to any payment out of the Fund arising from a claim against the Fund within the preceding 5 years for any act or thing done or omitted to be done by that person; or
     
     *   (d) the company is in liquidation; or
     
-    *   (e) the name of the company has been removed from the register of companies kept under [section 360(1)(a)][287] of the Companies Act 1993; or
+    *   (e) the name of the company has been removed from the register of companies kept under [section 360(1)(a)][288] of the Companies Act 1993; or
     
     *   (f) a person concerned in the management of the company is disqualified from registration in his or her own right under [section 24][38]; or
     
@@ -1517,17 +1521,17 @@ Registration of motor vehicle traders
     
     (3) If an application for renewal of registration has been made but not determined before the date on which the registration would otherwise expire, the registration continues in force until the application is determined.
     
-    Section 39(1A): inserted, on 1 October 2010, by [section 9][288] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Section 39(1A): inserted, on 1 October 2010, by [section 9][289] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
     
-    Section 39(1B): inserted, on 1 October 2010, by [section 9][288] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Section 39(1B): inserted, on 1 October 2010, by [section 9][289] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
     
-    Section 39(1C): inserted, on 1 October 2010, by [section 9][288] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Section 39(1C): inserted, on 1 October 2010, by [section 9][289] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
     
-    Section 39(2): substituted, on 1 October 2010, by [section 9][288] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Section 39(2): substituted, on 1 October 2010, by [section 9][289] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
 
 #### Obligation to notify Registrar of changes
     
-*   Heading: inserted, on 1 October 2010, by [section 10][289] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+*   Heading: inserted, on 1 October 2010, by [section 10][290] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
 
 ##### 40 Obligation to notify Registrar of change in circumstances
     
@@ -1551,7 +1555,7 @@ Registration of motor vehicle traders
     
     *   (b) includes any change that may be prescribed (if any).
     
-    Section 40(2)(a)(i): amended, on 1 October 2010, by [section 11][290] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Section 40(2)(a)(i): amended, on 1 October 2010, by [section 11][291] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
 
 ##### 40A Obligation to notify Registrar if new person concerned in management of company
     
@@ -1575,7 +1579,7 @@ Registration of motor vehicle traders
     
     (5) The option referred to in subsection (4) is not available if there are already 3 people concerned in the management of the company who have taken advantage of that option and have not since supplied a statutory declaration of the kind referred to in subsection (3)(b).
     
-    Section 40A: inserted, on 1 October 2010, by [section 12][291] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Section 40A: inserted, on 1 October 2010, by [section 12][292] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
 
 ### Subpart 2---Removal from register
 
@@ -1607,15 +1611,15 @@ Registration of motor vehicle traders
     
     *   (d) has ceased to carry on the business of motor vehicle trading.
     
-    (1A) Subsection (1)(c) does not apply in respect of a motor vehicle trader who is disqualified from registration by virtue only of the making of a property order under [section 30][282] of the Protection of Personal and Property Rights Act 1988 (which relates to temporary orders).
+    (1A) Subsection (1)(c) does not apply in respect of a motor vehicle trader who is disqualified from registration by virtue only of the making of a property order under [section 30][283] of the Protection of Personal and Property Rights Act 1988 (which relates to temporary orders).
     
     (1B) The Registrar must cancel the registration of a motor vehicle trader that is a company if the Registrar is satisfied that any person concerned in the management of the company is disqualified from registration under this Act.
     
     (2) A motor vehicle trader has the right to appeal, under [section 64][96], the Registrar's decision to cancel the trader's registration.
     
-    Section 42(1A): inserted, on 10 September 2008, by [section 10(3)][285] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
+    Section 42(1A): inserted, on 10 September 2008, by [section 10(3)][286] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
     
-    Section 42(1B): inserted, on 1 October 2010, by [section 13][292] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Section 42(1B): inserted, on 1 October 2010, by [section 13][293] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
 
 ##### 43 Process for cancellation
     
@@ -1853,15 +1857,15 @@ Registration of motor vehicle traders
 
 ##### 59 When search constitutes interference with privacy of individual
     
-*   A search of the register for personal information that has not been carried out in accordance with [sections 56 to 58][86] constitutes an action that is an interference with the privacy of an individual under [section 66][293] of the Privacy Act 1993\.
+*   A search of the register for personal information that has not been carried out in accordance with [sections 56 to 58][86] constitutes an action that is an interference with the privacy of an individual under [section 66][294] of the Privacy Act 1993\.
 
 #### Registrar of Motor Vehicle Traders
 
 ##### 60 Appointment of Registrar of Motor Vehicle Traders
     
-*   (1) The chief executive of the Ministry must appoint, under the [State Sector Act 1988][294], a Registrar of Motor Vehicle Traders.
+*   (1) The chief executive of the Ministry must appoint, under the [State Sector Act 1988][295], a Registrar of Motor Vehicle Traders.
     
-    (2) The person holding office as Registrar of Companies under the [Companies Act 1993][276] immediately before the commencement of this Act must be treated as if that person had been appointed as the Registrar of Motor Vehicle Traders in accordance with this section.
+    (2) The person holding office as Registrar of Companies under the [Companies Act 1993][277] immediately before the commencement of this Act must be treated as if that person had been appointed as the Registrar of Motor Vehicle Traders in accordance with this section.
 
 ##### 61 Functions of Registrar
     
@@ -2002,11 +2006,11 @@ Enforcement
     
     *   (c) a motor vehicle trader, or a person who has at any time within the previous 5 years been a motor vehicle trader, who---
             
-        *   (i) is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the [Companies Act 1993][276], or the [Securities Act 1978][277], or the [Securities Markets Act 1988][278], or the [Takeovers Act 1993][279]; or
+        *   (i) is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the [Companies Act 1993][277], or the [Securities Act 1978][278], or the [Securities Markets Act 1988][279], or the [Takeovers Act 1993][280]; or
         
         *   (ii) is convicted of a crime involving dishonesty; or
         
-        *   (iii) is convicted of an offence against [sections 17 to 22][280] or [sections 24 to 26][281] of the Fair Trading Act 1986:
+        *   (iii) is convicted of an offence against [sections 17 to 22][281] or [sections 24 to 26][282] of the Fair Trading Act 1986:
         
         *   (iv) has, more than once within a period of 10 consecutive years, been adjudged bankrupt or failed to provide compensation for any loss incurred by a finance company resulting from the person selling a motor vehicle for which that finance company holds a security interest:
         
@@ -2018,13 +2022,13 @@ Enforcement
     
     (3) For the purposes of this section, if 2 or more convictions are entered against a person's name for offences that arise out of the same set of circumstances, those convictions must be treated as a single conviction towards the number of convictions under subsection (1)(a) for which a ban may be imposed by this Act.
     
-    Section 68(1)(a)(vi): substituted, on 1 October 2010, by [section 14(1)][295] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Section 68(1)(a)(vi): substituted, on 1 October 2010, by [section 14(1)][296] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
     
-    Section 68(1)(a)(vii): added, on 1 October 2010, by [section 14(1)][295] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Section 68(1)(a)(vii): added, on 1 October 2010, by [section 14(1)][296] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
     
-    Section 68(1)(c): amended, on 1 October 2010, by [section 14(2)][295] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Section 68(1)(c): amended, on 1 October 2010, by [section 14(2)][296] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
     
-    Section 68(1)(c)(i): substituted, on 25 October 2006, by [section 25][284] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 68(1)(c)(i): substituted, on 25 October 2006, by [section 25][285] of the Securities Amendment Act 2006 (2006 No 46).
 
 #### Ban ordered by court
 
@@ -2274,7 +2278,7 @@ Enforcement
 
 ##### 81 When search constitutes interference with privacy of individual
     
-*   A search of the list for personal information that has not been carried out in accordance with [sections 78 to 80][116] constitutes an action that is an interference with the privacy of an individual under [section 66][293] of the Privacy Act 1993\.
+*   A search of the list for personal information that has not been carried out in accordance with [sections 78 to 80][116] constitutes an action that is an interference with the privacy of an individual under [section 66][294] of the Privacy Act 1993\.
 
 ### Subpart 2---Motor Vehicle Disputes Tribunals
 
@@ -2312,7 +2316,7 @@ Enforcement
     
 *   (1) Every adjudicator must be appointed by the Governor-General on the joint recommendation of the Minister and the Minister of Justice.
     
-    (2) No person is to be treated as being employed in the service of the Crown for the purposes of the [State Sector Act 1988][294] or the [Government Superannuation Fund Act 1956][296] by reason only of that person's appointment as an adjudicator.
+    (2) No person is to be treated as being employed in the service of the Crown for the purposes of the [State Sector Act 1988][295] or the [Government Superannuation Fund Act 1956][297] by reason only of that person's appointment as an adjudicator.
 
 ##### 84 Term of office of adjudicators
     
@@ -2334,21 +2338,21 @@ Enforcement
 
 ##### 85 Vacation of office
     
-*   (1) An adjudicator is to be taken to have vacated office if he or she dies or is adjudged bankrupt under the [Insolvency Act 2006][297].
+*   (1) An adjudicator is to be taken to have vacated office if he or she dies or is adjudged bankrupt under the [Insolvency Act 2006][298].
     
     (2) An adjudicator may, at any time, be removed from office by the Minister for inability to perform the duties of office, neglect of duty, or misconduct proved to the satisfaction of that Minister.
     
     (3) An adjudicator may, at any time, resign his or her office by giving written notice to that effect to the Minister.
     
-    Section 85(1): amended, on 3 December 2007, by [section 445][298] of the Insolvency Act 2006 (2006 No 55).
+    Section 85(1): amended, on 3 December 2007, by [section 445][299] of the Insolvency Act 2006 (2006 No 55).
 
 ##### 86 Remuneration and allowances of adjudicators
     
-*   (1) An adjudicator is entitled to receive, out of public money appropriated by Parliament for the purpose, the remuneration that the Remuneration Authority determines in accordance with the [Remuneration Authority Act 1977][299].
+*   (1) An adjudicator is entitled to receive, out of public money appropriated by Parliament for the purpose, the remuneration that the Remuneration Authority determines in accordance with the [Remuneration Authority Act 1977][300].
     
-    (2) Travelling allowances and expenses must be paid to an adjudicator in accordance with the [Fees and Travelling Allowances Act 1951][300], and the provisions of that Act apply accordingly.
+    (2) Travelling allowances and expenses must be paid to an adjudicator in accordance with the [Fees and Travelling Allowances Act 1951][301], and the provisions of that Act apply accordingly.
     
-    Section 86(1): amended, on 15 December 2003, pursuant to [section 3(3)][301] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
+    Section 86(1): amended, on 15 December 2003, pursuant to [section 3(3)][302] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
 
 ##### 87 Adjudicator to submit annual report
     
@@ -2368,9 +2372,9 @@ Enforcement
     
     *   (b) may also make it publicly available in whatever other ways he or she considers appropriate.
     
-    Section 87(1): amended, on 1 October 2010, by [section 15(1)][302] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Section 87(1): amended, on 1 October 2010, by [section 15(1)][303] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
     
-    Section 87(3): substituted, on 1 October 2010, by [section 15(2)][302] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Section 87(3): substituted, on 1 October 2010, by [section 15(2)][303] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
 
 #### Panel
 
@@ -2392,7 +2396,7 @@ Enforcement
     
     (4) However, the name of a person must be removed from the panel if---
         
-    *   (a) the person dies or is adjudged bankrupt under the [Insolvency Act 2006][297]; or
+    *   (a) the person dies or is adjudged bankrupt under the [Insolvency Act 2006][298]; or
     
     *   (b) the Minister directs that the name of the person be removed from the panel for inability to perform the duties of an assessor; or
     
@@ -2402,7 +2406,7 @@ Enforcement
     
     (5) If subsection (4)(c) or (d) applies, the name of the person must not be removed from the panel until any hearings in respect of which that person was appointed to the Disputes Tribunal have concluded.
     
-    Section 88(4)(a): amended, on 3 December 2007, by [section 445][298] of the Insolvency Act 2006 (2006 No 55).
+    Section 88(4)(a): amended, on 3 December 2007, by [section 445][299] of the Insolvency Act 2006 (2006 No 55).
 
 #### Jurisdiction
 
@@ -2412,25 +2416,25 @@ Enforcement
         
     *   (a) inquire into and determine any application or claim, as the case may be, under any of the following Acts if that application or claim is in respect of the sale of any motor vehicle:
             
-        *   (i) the [Sale of Goods Act 1908][303]:
+        *   (i) the [Sale of Goods Act 1908][304]:
         
         *   (ii) the [Fair Trading Act 1986][252]:
         
-        *   (iii) the [Consumer Guarantees Act 1993][304]:
+        *   (iii) the [Consumer Guarantees Act 1993][305]:
         
-        *   (iv) the [Contractual Remedies Act 1979][305]; and
+        *   (iv) the [Contractual Remedies Act 1979][306]; and
         
         
     
-    *   (b) make any order that a court or a Disputes Tribunal constituted under the [Disputes Tribunals Act 1988][306] may make under,---
+    *   (b) make any order that a court or a Disputes Tribunal constituted under the [Disputes Tribunals Act 1988][307] may make under,---
             
-        *   (i) in the case of proceedings under the [Sale of Goods Act 1908][303], [section 53][307] of that Act; or
+        *   (i) in the case of proceedings under the [Sale of Goods Act 1908][304], [section 53][308] of that Act; or
         
-        *   (ii) in the case of proceedings under the [Fair Trading Act 1986][252], [section 43(2)][308] of that Act; or
+        *   (ii) in the case of proceedings under the [Fair Trading Act 1986][252], [section 43(2)][309] of that Act; or
         
-        *   (iii) in the case of proceedings under the [Consumer Guarantees Act 1993][304], [section 39][309] or [47][310] of that Act; or
+        *   (iii) in the case of proceedings under the [Consumer Guarantees Act 1993][305], [section 39][310] or [47][311] of that Act; or
         
-        *   (iv) in the case of proceedings under the [Contractual Remedies Act 1979][305], [section 9][311] of that Act.
+        *   (iv) in the case of proceedings under the [Contractual Remedies Act 1979][306], [section 9][312] of that Act.
         
         
     
@@ -2442,9 +2446,9 @@ Enforcement
     
     *   (c) either one of the following circumstances applies:
             
-        *   (i) the buyer exercises the right conferred by the [Consumer Guarantees Act 1993][304] to reject that motor vehicle and, on a claim by the buyer under [section 47(1)][310] of that Act, the Disputes Tribunal orders the motor vehicle trader to refund any money paid, or other consideration provided, for that motor vehicle; or
+        *   (i) the buyer exercises the right conferred by the [Consumer Guarantees Act 1993][305] to reject that motor vehicle and, on a claim by the buyer under [section 47(1)][311] of that Act, the Disputes Tribunal orders the motor vehicle trader to refund any money paid, or other consideration provided, for that motor vehicle; or
         
-        *   (ii) the Disputes Tribunal finds that the buyer has suffered, or is likely to suffer, loss or damage by the conduct of the motor vehicle trader that constitutes, or would constitute, any of the conduct referred to in [section 43(1)][308] of the Fair Trading Act 1986 and the Disputes Tribunal makes an order under section 43(2) of that Act declaring the whole or any part of the contract for sale to be void.
+        *   (ii) the Disputes Tribunal finds that the buyer has suffered, or is likely to suffer, loss or damage by the conduct of the motor vehicle trader that constitutes, or would constitute, any of the conduct referred to in [section 43(1)][309] of the Fair Trading Act 1986 and the Disputes Tribunal makes an order under section 43(2) of that Act declaring the whole or any part of the contract for sale to be void.
         
         
     
@@ -2452,17 +2456,17 @@ Enforcement
     
     (4) This section is subject to [section 90][133].
     
-    (5) The [Limitation Act 2010][312] prescribes defences in respect of claims based on an act or omission after 31 December 2010\.
+    (5) The [Limitation Act 2010][313] prescribes defences in respect of claims based on an act or omission after 31 December 2010\.
     
-    Section 89(1)(a)(iii): substituted, on 1 October 2010, by [section 16(1)][313] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Section 89(1)(a)(iii): substituted, on 1 October 2010, by [section 16(1)][314] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
     
-    Section 89(1)(a)(iv): added, on 1 October 2010, by [section 16(1)][313] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Section 89(1)(a)(iv): added, on 1 October 2010, by [section 16(1)][314] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
     
-    Section 89(1)(b)(iii): substituted, on 1 October 2010, by [section 16(2)][313] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Section 89(1)(b)(iii): substituted, on 1 October 2010, by [section 16(2)][314] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
     
-    Section 89(1)(b)(iv): added, on 1 October 2010, by [section 16(2)][313] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Section 89(1)(b)(iv): added, on 1 October 2010, by [section 16(2)][314] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
     
-    Section 89(5): added, on 1 January 2011, by [section 58][314] of the Limitation Act 2010 (2010 No 110).
+    Section 89(5): added, on 1 January 2011, by [section 58][315] of the Limitation Act 2010 (2010 No 110).
 
 ##### 90 Limits on jurisdiction of Disputes Tribunals
     
@@ -2474,7 +2478,7 @@ Enforcement
     
     (2) Despite subsection (1)(b), the parties to the application or claim may consent in writing to the determination of the application or claim by the Disputes Tribunal.
     
-    Section 90(1)(b): amended, on 1 October 2010, by [section 17][315] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Section 90(1)(b): amended, on 1 October 2010, by [section 17][316] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
 
 ##### 91 Disputes Tribunal's jurisdiction not excluded
     
@@ -2500,7 +2504,7 @@ Enforcement
 
 #### Notice of decisions
     
-*   Heading: substituted, on 1 October 2010, by [section 18][316] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+*   Heading: substituted, on 1 October 2010, by [section 18][317] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
 
 ##### 94 Decisions to be publicly available
     
@@ -2510,7 +2514,7 @@ Enforcement
     
     (3) If a decision is appealed, a statement to the effect that the decision has been appealed must be included with the copy of the decision that is made publicly available.
     
-    Section 94: substituted, on 1 October 2010, by [section 18][316] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Section 94: substituted, on 1 October 2010, by [section 18][317] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
 
 ### Subpart 3---Offences
 
@@ -2564,9 +2568,9 @@ Enforcement
 
 ##### 101 Failure to display particulars about used motor vehicle offence under Fair Trading Act 1986
     
-*   A person who fails to comply with [section 14(1)][25] must be taken to have contravened [section 28][317] of the Fair Trading Act 1986 for the purposes of [section 40][318] of that Act.
+*   A person who fails to comply with [section 14(1)][25] must be taken to have contravened [section 28][318] of the Fair Trading Act 1986 for the purposes of [section 40][319] of that Act.
     
-    Section 101: substituted, on 17 May 2005, by [section 4][319] of the Motor Vehicle Sales Amendment Act 2005 (2005 No 61).
+    Section 101: substituted, on 17 May 2005, by [section 4][320] of the Motor Vehicle Sales Amendment Act 2005 (2005 No 61).
 
 ##### 102 Failure by car market operator to comply with section 14(2) an offence
     
@@ -2574,9 +2578,9 @@ Enforcement
     
     (2) The penalty on conviction for an offence against this section is set out in [section 116][172].
     
-    Section 102 heading: amended, on 1 October 2010, by [section 19(1)][320] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Section 102 heading: amended, on 1 October 2010, by [section 19(1)][321] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
     
-    Section 102(1): substituted, on 1 October 2010, by [section 19(2)][320] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Section 102(1): substituted, on 1 October 2010, by [section 19(2)][321] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
 
 #### Offences relating to other requirements for motor vehicle trading
 
@@ -2612,7 +2616,7 @@ Enforcement
 
 #### Offences relating to registration and notification to Registrar
     
-*   Heading: substituted, on 1 October 2010, by [section 20][321] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+*   Heading: substituted, on 1 October 2010, by [section 20][322] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
 
 ##### 107 Offence of providing false declarations, etc
     
@@ -2626,7 +2630,7 @@ Enforcement
     
     (2) The penalty on conviction for an offence against this section is set out in [section 118][174].
     
-    Section 107: substituted, on 1 October 2010, by [section 20][321] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Section 107: substituted, on 1 October 2010, by [section 20][322] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
 
 ##### 108 Offence to fail to notify change in circumstances
     
@@ -2640,7 +2644,7 @@ Enforcement
     
     (2) The penalty on conviction for an offence against this section is set out in [section 116][172].
     
-    Section 108A: inserted, on 1 October 2010, by [section 21][322] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Section 108A: inserted, on 1 October 2010, by [section 21][323] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
 
 #### Offences relating to inspection and search
 
@@ -2666,13 +2670,13 @@ Enforcement
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 July 2013, pursuant to [section 413][323] of the Criminal Procedure Act 2011 (2011 No 81).
+*   Heading: repealed, on 1 July 2013, pursuant to [section 413][324] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 111 Proceedings for offences generally
     
 *   \[Repealed\]
     
-    Section 111: repealed, on 1 July 2013, by [section 413][323] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 111: repealed, on 1 July 2013, by [section 413][324] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Proceedings for infringement offences
 
@@ -2680,13 +2684,13 @@ Enforcement
     
 *   (1) If a person is alleged to have committed an infringement offence, that person may either---
         
-    *   (a) be proceeded against by filing a charging document under [section 14][324] of the Criminal Procedure Act 2011; or
+    *   (a) be proceeded against by filing a charging document under [section 14][325] of the Criminal Procedure Act 2011; or
     
     *   (b) be issued with an infringement notice as provided in [section 113][168].
     
-    (2) If an infringement notice has been issued under [section 113][168], proceedings for the offence to which the notice relates may be commenced in accordance with [section 21][325] of the Summary Proceedings Act 1957, and in that case the provisions of that section apply with the necessary modifications.
+    (2) If an infringement notice has been issued under [section 113][168], proceedings for the offence to which the notice relates may be commenced in accordance with [section 21][326] of the Summary Proceedings Act 1957, and in that case the provisions of that section apply with the necessary modifications.
     
-    Section 112(1)(a): replaced, on 1 July 2013, by [section 413][323] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 112(1)(a): replaced, on 1 July 2013, by [section 413][324] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 113 Issue of infringement notices
     
@@ -2704,7 +2708,7 @@ Enforcement
     
     *   (d) the time within which the infringement fee must be paid; and
     
-    *   (e) a summary of the provisions of [section 21(10)][325] of the Summary Proceedings Act 1957; and
+    *   (e) a summary of the provisions of [section 21(10)][326] of the Summary Proceedings Act 1957; and
     
     *   (f) a statement of the person's right to request a hearing; and
     
@@ -2718,7 +2722,7 @@ Enforcement
     
 *   All infringement fees are payable to the Registrar, and the Registrar must pay all infringement fees received into a Crown Bank Account.
     
-    Section 115: amended, on 25 January 2005, pursuant to [section 65R(3)][326] of the Public Finance Act 1989 (1989 No 44).
+    Section 115: amended, on 25 January 2005, pursuant to [section 65R(3)][327] of the Public Finance Act 1989 (1989 No 44).
 
 #### Penalties
 
@@ -2750,9 +2754,9 @@ Enforcement
     
     *   (j) [section 110][163] (which relates to resisting or obstructing any person executing, or assisting in the execution of, a search warrant).
     
-    Section 116(2)(a): amended, on 1 October 2010, by [section 22(1)][327] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Section 116(2)(a): amended, on 1 October 2010, by [section 22(1)][328] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
     
-    Section 116(2)(fa): inserted, on 1 October 2010, by [section 22(2)][327] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Section 116(2)(fa): inserted, on 1 October 2010, by [section 22(2)][328] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
 
 ##### 117 Penalties for offences under sections 98, 103, and 104
     
@@ -2796,9 +2800,9 @@ Enforcement
     
     *   (g) \[Repealed\]
     
-    Section 118(2)(f): substituted, on 1 October 2010, by [section 23][328] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Section 118(2)(f): substituted, on 1 October 2010, by [section 23][329] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
     
-    Section 118(2)(g): repealed, on 1 October 2010, by [section 23][328] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Section 118(2)(g): repealed, on 1 October 2010, by [section 23][329] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
 
 ##### 119 Power of District Court to impose additional penalty in certain cases
     
@@ -2942,7 +2946,7 @@ Enforcement
     
     *   (b) for the purposes of this Act; or
     
-    *   (c) in accordance with the [Official Information Act 1982][329] or the [Privacy Act 1993][330]; or
+    *   (c) in accordance with the [Official Information Act 1982][330] or the [Privacy Act 1993][331]; or
     
     *   (d) for the purposes of any court proceedings; or
     
@@ -2954,7 +2958,7 @@ Enforcement
 
 ##### 130 Issue of warrant
     
-*   (1) Any issuing officer (within the meaning of [section 3][331] of the Search and Surveillance Act 2012) may issue a search warrant for any place if satisfied, on application made in the manner provided in [subpart 3][332] of Part 4 of the Search and Surveillance Act 2012, that there are reasonable grounds for believing that there is at that place any thing---
+*   (1) Any issuing officer (within the meaning of [section 3][332] of the Search and Surveillance Act 2012) may issue a search warrant for any place if satisfied, on application made in the manner provided in [subpart 3][333] of Part 4 of the Search and Surveillance Act 2012, that there are reasonable grounds for believing that there is at that place any thing---
         
     *   (a) in respect of which an offence under this Act has been or is being committed; or
     
@@ -2962,75 +2966,75 @@ Enforcement
     
     *   (c) that is or may be evidence of the commission of an offence under this Act by any person.
     
-    (2) The provisions of [Part 4][333] of the Search and Surveillance Act 2012 apply.
+    (2) The provisions of [Part 4][334] of the Search and Surveillance Act 2012 apply.
     
-    (3) Despite subsection (2), [sections 118][334] and [119][335] of the Search and Surveillance Act 2012 apply only in respect of a constable.
+    (3) Despite subsection (2), [sections 118][335] and [119][336] of the Search and Surveillance Act 2012 apply only in respect of a constable.
     
-    Section 130(1): amended, on 1 October 2012, by [section 284(2)][336] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 130(1): amended, on 1 October 2012, by [section 284(2)][337] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 130(2): replaced, on 1 October 2012, by [section 284(3)][336] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 130(2): replaced, on 1 October 2012, by [section 284(3)][337] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 130(3): inserted, on 1 October 2012, by [section 284(3)][336] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 130(3): inserted, on 1 October 2012, by [section 284(3)][337] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 131 Powers conferred by warrant
     
 *   \[Repealed\]
     
-    Section 131: repealed, on 1 October 2012, by [section 284(4)][336] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 131: repealed, on 1 October 2012, by [section 284(4)][337] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 132 Form and content of search warrant
     
 *   \[Repealed\]
     
-    Section 132: repealed, on 1 October 2012, by [section 284(4)][336] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 132: repealed, on 1 October 2012, by [section 284(4)][337] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 133 Warrant must be produced
     
 *   \[Repealed\]
     
-    Section 133: repealed, on 1 October 2012, by [section 284(4)][336] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 133: repealed, on 1 October 2012, by [section 284(4)][337] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 134 Other duties of person who executes warrant
     
 *   \[Repealed\]
     
-    Section 134: repealed, on 1 October 2012, by [section 284(4)][336] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 134: repealed, on 1 October 2012, by [section 284(4)][337] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 135 When alternative to list of seized documents may be provided
     
 *   \[Repealed\]
     
-    Section 135: repealed, on 1 October 2012, by [section 284(4)][336] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 135: repealed, on 1 October 2012, by [section 284(4)][337] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 136 Matters that must be stated in list of documents
     
 *   \[Repealed\]
     
-    Section 136: repealed, on 1 October 2012, by [section 284(4)][336] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 136: repealed, on 1 October 2012, by [section 284(4)][337] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 137 Duty to assist
     
 *   \[Repealed\]
     
-    Section 137: repealed, on 1 October 2012, by [section 284(4)][336] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 137: repealed, on 1 October 2012, by [section 284(4)][337] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 138 Power to inspect and take copies of documents, etc, obtained under warrant
     
 *   \[Repealed\]
     
-    Section 138: repealed, on 1 October 2012, by [section 284(4)][336] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 138: repealed, on 1 October 2012, by [section 284(4)][337] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 139 Disposal of things seized
     
 *   \[Repealed\]
     
-    Section 139: repealed, on 1 October 2012, by [section 284(4)][336] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 139: repealed, on 1 October 2012, by [section 284(4)][337] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 140 Court order for disposal of things seized to be suspended on conviction
     
 *   \[Repealed\]
     
-    Section 140: repealed, on 1 October 2012, by [section 284(4)][336] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 140: repealed, on 1 October 2012, by [section 284(4)][337] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ## Part 5  
 Miscellaneous provisions
@@ -3041,13 +3045,13 @@ Miscellaneous provisions
 
 ##### 141 Exemption for car auctioneers from registration requirement under Auctioneers Act 2013
     
-*   (1) If a car auctioneer who is registered as a motor vehicle trader under this Act carries on a business that is limited to conducting auctions of motor vehicles only, the car auctioneer is exempt from the requirement in the [Auctioneers Act 2013][337] to be a registered auctioneer.
+*   (1) If a car auctioneer who is registered as a motor vehicle trader under this Act carries on a business that is limited to conducting auctions of motor vehicles only, the car auctioneer is exempt from the requirement in the [Auctioneers Act 2013][338] to be a registered auctioneer.
     
     (2) However, the car auctioneer---
         
     *   (a) must comply with the rules about the conduct of auctions as set out in sections 36Y to 36ZF of the Fair Trading Act 1986; and
     
-    *   (b) may apply for registration under the [Auctioneers Act 2013][337] as a registered auctioneer.
+    *   (b) may apply for registration under the [Auctioneers Act 2013][338] as a registered auctioneer.
     
     Section 141: replaced, on 18 December 2013, by [section 28(3)][259] of the Auctioneers Act 2013 (2013 No 148).
 
@@ -3085,7 +3089,7 @@ Miscellaneous provisions
     
     (5) An infringement notice sent to a person by post under subsection (1) must be treated as having been served on the person on the date that it was posted.
     
-    Section 142(5): amended, on 1 July 2013, by [section 413][323] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 142(5): amended, on 1 July 2013, by [section 413][324] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Levy regulations
 
@@ -3353,9 +3357,9 @@ Miscellaneous provisions
     
     (2) On and from the date so specified, any remaining assets of the Fund cease to be held by the Institute and may be used by the Institute for any lawful purpose that it determines.
     
-    (3) The Institute must, as soon as practicable after the date so specified, prepare final accounts for the Fund audited by a chartered accountant (within the meaning of [section 19][338] of the New Zealand Institute of Chartered Accountants Act 1996) appointed for the purpose by the Institute.
+    (3) The Institute must, as soon as practicable after the date so specified, prepare final accounts for the Fund audited by a chartered accountant (within the meaning of [section 19][339] of the New Zealand Institute of Chartered Accountants Act 1996) appointed for the purpose by the Institute.
     
-    Section 162(3): amended, on 7 July 2010, by [section 10][339] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
+    Section 162(3): amended, on 7 July 2010, by [section 10][340] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
 
 #### Review of Act
 
@@ -3380,51 +3384,51 @@ Procedure of Disputes Tribunals
 
 ## Contents
 
-[General][340]
+[General][341]
 
-[1][341][][341][Procedure generally][341]
+[1][342][][342][Procedure generally][342]
 
-[2][342][][342][Sittings of Disputes Tribunal][342]
+[2][343][][343][Sittings of Disputes Tribunal][343]
 
-[3][343][][343][Administrative support for Disputes Tribunals][343]
+[3][344][][344][Administrative support for Disputes Tribunals][344]
 
-[Application][344]
+[Application][345]
 
-[4][345][][345][Filing of applications][345]
+[4][346][][346][Filing of applications][346]
 
-[5][346][][346][Procedure on receipt of application][346]
+[5][347][][347][Procedure on receipt of application][347]
 
-[6][347][][347][Notice of hearing by Disputes Tribunal][347]
+[6][348][][348][Notice of hearing by Disputes Tribunal][348]
 
-[Parties][348]
+[Parties][349]
 
-[7][349][][349][Joinder of parties][349]
+[7][350][][350][Joinder of parties][350]
 
-[Hearings][350]
+[Hearings][351]
 
-[8][351][][351][Manner in which Disputes Tribunal conducts hearings][351]
+[8][352][][352][Manner in which Disputes Tribunal conducts hearings][352]
 
-[9][352][][352][Right to appear at hearings][352]
+[9][353][][353][Right to appear at hearings][353]
 
-[10][353][][353][Duties of assessor][353]
+[10][354][][354][Duties of assessor][354]
 
-[11][354][][354][Remuneration and allowances of assessors][354]
+[11][355][][355][Remuneration and allowances of assessors][355]
 
-[12][355][][355][Immunity of witnesses, adjudicators, and assessors][355]
+[12][356][][356][Immunity of witnesses, adjudicators, and assessors][356]
 
-[Decisions][356]
+[Decisions][357]
 
-[13][357][][357][Decision of Disputes Tribunal][357]
+[13][358][][358][Decision of Disputes Tribunal][358]
 
-[14][358][][358][Disputes Tribunal may award costs in certain circumstances][358]
+[14][359][][359][Disputes Tribunal may award costs in certain circumstances][359]
 
-[Enforcement of decisions][359]
+[Enforcement of decisions][360]
 
-[15][360][][360][Enforcement of Disputes Tribunal's decisions][360]
+[15][361][][361][Enforcement of Disputes Tribunal's decisions][361]
 
-[Appeals][361]
+[Appeals][362]
 
-[16][362][][362][Appeals from decision of Disputes Tribunal][362]
+[16][363][][363][Appeals from decision of Disputes Tribunal][363]
 
 ---
 
@@ -3446,13 +3450,13 @@ Procedure of Disputes Tribunals
         
     *   (a) provide secretarial, recording, and any other services that may be necessary to enable each Disputes Tribunal to exercise its functions and powers; and
     
-    *   (b) appoint secretaries of the Disputes Tribunal under the [State Sector Act 1988][294] in the numbers that may be required.
+    *   (b) appoint secretaries of the Disputes Tribunal under the [State Sector Act 1988][295] in the numbers that may be required.
     
     (2) One person may be appointed secretary of 2 or more Disputes Tribunals under subclause (1)(b).
     
     (3) The office of secretary may be held either separately or in conjunction with any other office in the Public Service.
     
-    Schedule 1 clause 3(1): amended, on 15 December 2003, pursuant to [section 14(2)][363] of the State Sector Amendment Act 2003 (2003 No 41).
+    Schedule 1 clause 3(1): amended, on 15 December 2003, pursuant to [section 14(2)][364] of the State Sector Amendment Act 2003 (2003 No 41).
 
 #### Application
 
@@ -3486,9 +3490,9 @@ Procedure of Disputes Tribunals
     
 *   (1) This clause applies if---
         
-    *   (a) the adjudicator does not receive a report within the period referred to in [clause 5(2)(a)][346]; or
+    *   (a) the adjudicator does not receive a report within the period referred to in [clause 5(2)(a)][347]; or
     
-    *   (b) the adjudicator is notified in accordance with [clause 5(2)(b)(ii)][346] that either party requires the matter to be heard by the Disputes Tribunal.
+    *   (b) the adjudicator is notified in accordance with [clause 5(2)(b)(ii)][347] that either party requires the matter to be heard by the Disputes Tribunal.
     
     (2) If this clause applies,---
         
@@ -3518,11 +3522,11 @@ Procedure of Disputes Tribunals
     
     (4) A person who is joined as a party under this clause is not to be treated as a party for the purposes of [section 90(1)(a)][133].
     
-    Schedule 1 clause 7(1): amended, on 1 October 2010, by [section 24(1)][364] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Schedule 1 clause 7(1): amended, on 1 October 2010, by [section 24(1)][365] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
     
-    Schedule 1 clause 7(2)(aa): inserted, on 1 October 2010, by [section 24(2)][364] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Schedule 1 clause 7(2)(aa): inserted, on 1 October 2010, by [section 24(2)][365] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
     
-    Schedule 1 clause 7(4): added, on 1 October 2010, by [section 24(3)][364] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Schedule 1 clause 7(4): added, on 1 October 2010, by [section 24(3)][365] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
 
 #### Hearings
 
@@ -3588,7 +3592,7 @@ Procedure of Disputes Tribunals
     
 *   The Ministry of Justice must pay assessors the remuneration and allowances determined for assessors from time to time by the Minister who is responsible for the Ministry of Justice.
     
-    Schedule 1 clause 11: amended, on 15 December 2003, pursuant to [section 14(1)][363] of the State Sector Amendment Act 2003 (2003 No 41).
+    Schedule 1 clause 11: amended, on 15 December 2003, pursuant to [section 14(1)][364] of the State Sector Amendment Act 2003 (2003 No 41).
 
 ##### 12 Immunity of witnesses, adjudicators, and assessors
     
@@ -3624,7 +3628,7 @@ Procedure of Disputes Tribunals
             
         *   (i) the proceedings are frivolous or vexatious or ought not to have been brought:
         
-        *   (ii) the matter ought reasonably to have been settled before proceeding to a hearing but that the party against whom an award of costs is to be made refused, without reasonable excuse, to take part in the discussions referred to in [clause 5(1)(b)][346] or acted in a contemptuous or improper manner during those discussions; or
+        *   (ii) the matter ought reasonably to have been settled before proceeding to a hearing but that the party against whom an award of costs is to be made refused, without reasonable excuse, to take part in the discussions referred to in [clause 5(1)(b)][347] or acted in a contemptuous or improper manner during those discussions; or
         
         
     
@@ -3642,11 +3646,11 @@ Procedure of Disputes Tribunals
     
     *   (b) to another party all, or any part of, the reasonable costs of that other party in connection with the proceedings.
     
-    Schedule 1 clause 14(1)(b): substituted, on 1 October 2010, by [section 24(4)][364] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Schedule 1 clause 14(1)(b): substituted, on 1 October 2010, by [section 24(4)][365] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
     
-    Schedule 1 clause 14(2)(a): amended, on 1 October 2010, by [section 24(5)][364] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Schedule 1 clause 14(2)(a): amended, on 1 October 2010, by [section 24(5)][365] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
     
-    Schedule 1 clause 14(2)(b): amended, on 1 October 2010, by [section 24(6)][364] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Schedule 1 clause 14(2)(b): amended, on 1 October 2010, by [section 24(6)][365] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
 
 #### Enforcement of decisions
 
@@ -3660,7 +3664,7 @@ Procedure of Disputes Tribunals
     
     (4) For the purposes of this clause, _District Court_, in relation to the filing under subclause (1) of a decision of a Disputes Tribunal, means the District Court nearest to the place of business at which the motor vehicle in respect of which the decision is given was sold.
     
-    Schedule 1 clause 15(1): amended, on 1 October 2010, by [section 24(7)][364] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Schedule 1 clause 15(1): amended, on 1 October 2010, by [section 24(7)][365] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
 
 #### Appeals
 
@@ -3698,23 +3702,23 @@ Acts amended
 
 ##### Disputes Tribunals Act 1988 (1988 No 110)
 
-_Amendment(s) incorporated in the [Act(s)][365]_.
+_Amendment(s) incorporated in the [Act(s)][366]_.
 
 ##### Higher Salaries Commission Act 1977 (1977 No 110)
 
-_Amendment(s) incorporated in the [Act(s)][366]_.
+_Amendment(s) incorporated in the [Act(s)][367]_.
 
 ##### Layby Sales Act 1971 (1971 No 80)
 
-_Amendment(s) incorporated in the [Act(s)][367]_.
+_Amendment(s) incorporated in the [Act(s)][368]_.
 
 ##### Personal Property Securities Act 1999 (1999 No 126)
 
-_Amendment(s) incorporated in the [Act(s)][368]_.
+_Amendment(s) incorporated in the [Act(s)][369]_.
 
 ##### Privacy Act 1993 (1993 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][330]_.
+_Amendment(s) incorporated in the [Act(s)][331]_.
 
 ##### Secondhand Dealers Act 1963 (1963 No 10)
 
@@ -3722,26 +3726,26 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Transport (Vehicle and Driver Registration and Licensing) Act 1986 (1986 No 6)
 
-_Amendment(s) incorporated in the [Act(s)][369]._
+_Amendment(s) incorporated in the [Act(s)][370]._
 
 ##### Unclaimed Money Act 1971 (1971 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][370]_.
+_Amendment(s) incorporated in the [Act(s)][371]_.
 
 ## Part 2  
 Regulations amended
 
 ##### Transport (Change of Ownership) Regulations 1995 (SR 1995/198)
 
-_Amendment(s) incorporated in the [regulations][371]_.
+_Amendment(s) incorporated in the [regulations][372]_.
 
 ##### Transport Services Licensing Regulations 1989 (SR 1989/313)
 
-_Amendment(s) incorporated in the [regulations][372]_.
+_Amendment(s) incorporated in the [regulations][373]_.
 
 ##### Transport (Vehicle Registration and Licensing) Regulations 1994 (SR 1994/244)
 
-_Amendment(s) incorporated in the [regulations][373]_.
+_Amendment(s) incorporated in the [regulations][374]_.
 
 #### 
 
@@ -3755,53 +3759,55 @@ _Amendment(s) incorporated in the [regulations][373]_.
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][374] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][375] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][375] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][376] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][376] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][377] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][377] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][378] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
 *   Auctioneers Act 2013 (2013 No 148): [section 28(3)][259]
     
-    Search and Surveillance Act 2012 (2012 No 24): [section 284][336]
+    Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][266]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][323]
+    Search and Surveillance Act 2012 (2012 No 24): [section 284][337]
     
-    [Motor Vehicle Sales Amendment Act 2010][378] (2010 No 112)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][324]
     
-    Limitation Act 2010 (2010 No 110): [section 58][314]
+    [Motor Vehicle Sales Amendment Act 2010][379] (2010 No 112)
     
-    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][339]
+    Limitation Act 2010 (2010 No 110): [section 58][315]
+    
+    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][340]
     
     Land Transport Amendment Act 2009 (2009 No 17): [section 35(4)][263]
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][274]
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][275]
     
-    Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64): [section 10][285]
+    Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64): [section 10][286]
     
     Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][264]
     
     Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][260]
     
-    Insolvency Act 2006 (2006 No 55): [section 445][298]
+    Insolvency Act 2006 (2006 No 55): [section 445][299]
     
-    Securities Amendment Act 2006 (2006 No 46): [section 25][284]
+    Securities Amendment Act 2006 (2006 No 46): [section 25][285]
     
     Land Transport Amendment Act 2005 (2005 No 77): [section 95(5)][261]
     
-    [Motor Vehicle Sales Amendment Act 2005][379] (2005 No 61)
+    [Motor Vehicle Sales Amendment Act 2005][380] (2005 No 61)
     
-    Secondhand Dealers and Pawnbrokers Act 2004 (2004 No 70): [section 89][380]
+    Secondhand Dealers and Pawnbrokers Act 2004 (2004 No 70): [section 89][381]
     
     [Motor Vehicle Sales Act Commencement Order 2003][240] (SR 2003/329)
     
-    State Sector Amendment Act 2003 (2003 No 41): [section 14][363]
+    State Sector Amendment Act 2003 (2003 No 41): [section 14][364]
     
-    Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54): [section 3(3)][301]
+    Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54): [section 3(3)][302]
     
-    Public Finance Act 1989 (1989 No 44): [section 65R(3)][326]
+    Public Finance Act 1989 (1989 No 44): [section 65R(3)][327]
 
 
 
@@ -4071,118 +4077,119 @@ _Amendment(s) incorporated in the [regulations][373]_.
 [263]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2015063
 [264]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM1313622
 [265]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM348453
-[266]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061914
-[267]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM304710
-[268]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061915
-[269]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2641001
-[270]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM46700
-[271]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM96959
-[272]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061917
-[273]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM3701446
-[274]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM1102349
-[275]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM91677
-[276]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM319569
-[277]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM25999
-[278]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM139726
-[279]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM325508
-[280]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM96942
-[281]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM96950
-[282]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM127009
-[283]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM127010
-[284]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM383050
-[285]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM1404046
-[286]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM127043
-[287]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM323203
-[288]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061918
-[289]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061919
-[290]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061921
-[291]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061922
-[292]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061924
-[293]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM297441
-[294]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM129109
-[295]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061925
-[296]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM446000
-[297]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM385298
-[298]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM387857
-[299]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM15636
-[300]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM264952
-[301]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM167442
-[302]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061926
-[303]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM173957
-[304]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM311052
-[305]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM31565
-[306]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM133281
-[307]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM174695
-[308]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM97304
-[309]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM312853
-[310]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM312870
-[311]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM31589
-[312]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2033100
-[313]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2641003
-[314]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2033287
-[315]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061927
-[316]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061928
-[317]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM96961
-[318]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM96990
-[319]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM348454
-[320]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061931
-[321]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061932
-[322]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061935
-[323]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM3360714
-[324]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM3360057
-[325]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM311346
-[326]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM162942
-[327]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061937
-[328]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061938
-[329]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM64784
-[330]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM296638
-[331]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2136542
-[332]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2136781
-[333]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2136770
-[334]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2136813
-[335]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2136815
-[336]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2137041
-[337]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM5788503
-[338]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM391422
-[339]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM3043113
-[340]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM1913904
-[341]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM188978
-[342]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM188979
-[343]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM188980
-[344]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM1913905
-[345]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM188982
-[346]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM188983
-[347]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM188984
-[348]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM1913906
-[349]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM188986
-[350]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM1913907
-[351]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM188988
-[352]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM188989
-[353]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM188990
-[354]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM188991
-[355]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM188992
-[356]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM1913908
-[357]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM188994
-[358]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM188995
-[359]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM1913909
-[360]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM188997
-[361]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM1913910
-[362]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM188999
-[363]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM201378
-[364]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2641004
-[365]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM133682
-[366]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM16452
-[367]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM405097
-[368]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM45599
-[369]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM91632
-[370]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM398449
-[371]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM205520
-[372]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM133323
-[373]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM196862
-[374]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2998516
-[375]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2998515
-[376]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2998532
-[377]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[378]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061900
-[379]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM348447
-[380]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM305677
+[266]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM4929207
+[267]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061914
+[268]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM304710
+[269]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061915
+[270]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2641001
+[271]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM46700
+[272]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM96959
+[273]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061917
+[274]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM3701446
+[275]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM1102349
+[276]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM91677
+[277]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM319569
+[278]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM25999
+[279]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM139726
+[280]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM325508
+[281]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM96942
+[282]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM96950
+[283]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM127009
+[284]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM127010
+[285]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM383050
+[286]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM1404046
+[287]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM127043
+[288]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM323203
+[289]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061918
+[290]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061919
+[291]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061921
+[292]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061922
+[293]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061924
+[294]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM297441
+[295]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM129109
+[296]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061925
+[297]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM446000
+[298]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM385298
+[299]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM387857
+[300]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM15636
+[301]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM264952
+[302]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM167442
+[303]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061926
+[304]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM173957
+[305]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM311052
+[306]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM31565
+[307]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM133281
+[308]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM174695
+[309]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM97304
+[310]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM312853
+[311]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM312870
+[312]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM31589
+[313]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2033100
+[314]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2641003
+[315]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2033287
+[316]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061927
+[317]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061928
+[318]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM96961
+[319]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM96990
+[320]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM348454
+[321]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061931
+[322]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061932
+[323]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061935
+[324]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM3360714
+[325]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM3360057
+[326]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM311346
+[327]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM162942
+[328]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061937
+[329]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061938
+[330]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM64784
+[331]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM296638
+[332]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2136542
+[333]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2136781
+[334]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2136770
+[335]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2136813
+[336]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2136815
+[337]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2137041
+[338]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM5788503
+[339]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM391422
+[340]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM3043113
+[341]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM1913904
+[342]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM188978
+[343]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM188979
+[344]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM188980
+[345]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM1913905
+[346]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM188982
+[347]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM188983
+[348]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM188984
+[349]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM1913906
+[350]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM188986
+[351]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM1913907
+[352]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM188988
+[353]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM188989
+[354]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM188990
+[355]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM188991
+[356]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM188992
+[357]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM1913908
+[358]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM188994
+[359]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM188995
+[360]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM1913909
+[361]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM188997
+[362]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM1913910
+[363]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM188999
+[364]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM201378
+[365]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2641004
+[366]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM133682
+[367]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM16452
+[368]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM405097
+[369]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM45599
+[370]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM91632
+[371]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM398449
+[372]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM205520
+[373]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM133323
+[374]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM196862
+[375]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2998516
+[376]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2998515
+[377]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2998532
+[378]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[379]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061900
+[380]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM348447
+[381]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM305677
