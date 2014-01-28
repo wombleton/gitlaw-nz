@@ -1,5 +1,5 @@
 Reprint  
-as at 4 September 2013
+as at 22 January 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -657,8 +657,6 @@ This Act is administered by the Ministry of Justice.
 
 [Part 5][297]  
 [Committal proceedings for indictable offences][297]
-
-\[Repealed\]
 
 \[Repealed\]
 
@@ -5190,9 +5188,11 @@ Enforcement of fines
     
     (8) Subsection (7) is subject to [section 83][134].
     
-    (9) [Section 19][663] of the Sentencing Act 2002 applies if a defendant is already undergoing a sentence or is about to be sentenced for another offence at the time that a District Court Judge is considering the sentence for the defendant for non-payment of 1 or more fines under this Part.
+    (9) [Sections 19][663] and [20A][664] of the Sentencing Act 2002 apply if a defendant is already undergoing a sentence or is about to be sentenced for another offence at the time that a District Court Judge is considering the sentence for the defendant for non-payment of 1 or more fines under this Part.
     
-    Section 106E: replaced, on 13 February 2012, by [section 40][664] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 106E: replaced, on 13 February 2012, by [section 40][665] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    
+    Section 106E(9): amended, on 22 January 2014, by [section 60][666] of the Administration of Community Sentences and Orders Act 2013 (2013 No 88).
 
 ##### 106EA Defendant may be arrested for assessment of financial capacity
     
@@ -5214,7 +5214,7 @@ Enforcement of fines
     
     *   (b) a constable or bailiff may execute the warrant.
     
-    Section 106EA: inserted, on 13 February 2012, by [section 40][664] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 106EA: inserted, on 13 February 2012, by [section 40][665] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 106F Review of Registrar's decision
     
@@ -5248,19 +5248,19 @@ Enforcement of fines
     
     Section 106F: inserted, on 1 November 1987, by [section 14][545] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
     
-    Section 106F(1): amended, on 1 August 2012, by [section 41(1)][665] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 106F(1): amended, on 1 August 2012, by [section 41(1)][667] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 106F(3): inserted, on 13 February 2012, by [section 41(2)][665] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 106F(3): inserted, on 13 February 2012, by [section 41(2)][667] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 106F(4): inserted, on 13 February 2012, by [section 41(2)][665] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 106F(4): inserted, on 13 February 2012, by [section 41(2)][667] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 106F(5): inserted, on 13 February 2012, by [section 41(2)][665] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 106F(5): inserted, on 13 February 2012, by [section 41(2)][667] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 106F(6): inserted, on 13 February 2012, by [section 41(2)][665] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 106F(6): inserted, on 13 February 2012, by [section 41(2)][667] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 106G Actions under warrant to seize pending appeal
     
-*   (1) If a warrant to seize property is issued before a notice of appeal or an application for leave to appeal is filed under [Part 6][666] of the Criminal Procedure Act 2011, then---
+*   (1) If a warrant to seize property is issued before a notice of appeal or an application for leave to appeal is filed under [Part 6][668] of the Criminal Procedure Act 2011, then---
         
     *   (a) if the warrant has not been executed, it is suspended until the appeal has been determined or abandoned:
     
@@ -5559,25 +5559,25 @@ Appeals
     
 *   \[Repealed\]
     
-    Section 137A: repealed, on 1 September 1993, by [section 23][667] of the Summary Proceedings Amendment Act 1993 (1993 No 47).
+    Section 137A: repealed, on 1 September 1993, by [section 23][669] of the Summary Proceedings Amendment Act 1993 (1993 No 47).
 
 ##### 137B Provisions on determination of appeal where defendant sentenced to community service
     
 *   \[Repealed\]
     
-    Section 137B: repealed, on 1 September 1993, by [section 23][667] of the Summary Proceedings Amendment Act 1993 (1993 No 47).
+    Section 137B: repealed, on 1 September 1993, by [section 23][669] of the Summary Proceedings Amendment Act 1993 (1993 No 47).
 
 ##### 137C Provisions on determination of appeal where defendant sentenced to community care
     
 *   \[Repealed\]
     
-    Section 137C: repealed, on 1 September 1993, by [section 23][667] of the Summary Proceedings Amendment Act 1993 (1993 No 47).
+    Section 137C: repealed, on 1 September 1993, by [section 23][669] of the Summary Proceedings Amendment Act 1993 (1993 No 47).
 
 ##### 137D Provisions on determination of appeal where non-association order made in respect of defendant
     
 *   \[Repealed\]
     
-    Section 137D: repealed, on 1 September 1993, by [section 23][667] of the Summary Proceedings Amendment Act 1993 (1993 No 47).
+    Section 137D: repealed, on 1 September 1993, by [section 23][669] of the Summary Proceedings Amendment Act 1993 (1993 No 47).
 
 ##### 138 Revesting and restitution of property on conviction
     
@@ -5643,16 +5643,14 @@ Appeals
 Committal proceedings for indictable offences
 
 \[Repealed\]
-
-\[Repealed\]
     
 *   Part 5: repealed, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
 
 ##### 145 Purpose and overview
-
-\[Repealed\]
     
-*   Section 145: repealed, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
+*   \[Repealed\]
+    
+    Section 145: repealed, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
 
 ##### 146 Interpretation
     
@@ -5712,7 +5710,7 @@ Committal proceedings for indictable offences
     
 *   \[Repealed\]
     
-    Section 152A: repealed, on 29 June 2009, by [section 12][668] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 152A: repealed, on 29 June 2009, by [section 12][670] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
 
 #### Service of documents
 
@@ -5730,7 +5728,7 @@ Committal proceedings for indictable offences
     
 *   \[Repealed\]
     
-    Section 153A: repealed, on 29 June 2009, by [section 12][668] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 153A: repealed, on 29 June 2009, by [section 12][670] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
 
 ##### 154 Application of provisions of Part 2
     
@@ -5796,7 +5794,7 @@ Committal proceedings for indictable offences
     
 *   \[Repealed\]
     
-    Section 160A: repealed, on 29 June 2009, by [section 12][668] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 160A: repealed, on 29 June 2009, by [section 12][670] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
 
 ##### 161 Procedure if defendant makes request under section 160
     
@@ -5808,7 +5806,7 @@ Committal proceedings for indictable offences
     
 *   \[Repealed\]
     
-    Section 161A: repealed, on 29 June 2009, by [section 12][668] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 161A: repealed, on 29 June 2009, by [section 12][670] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
 
 #### Formal written statements for purposes of committal
 
@@ -5874,31 +5872,31 @@ Committal proceedings for indictable offences
     
 *   \[Repealed\]
     
-    Section 168A: repealed, on 29 June 2009, by [section 12][668] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 168A: repealed, on 29 June 2009, by [section 12][670] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
 
 ##### 168AA High Court Judge to determine court of trial in certain cases
     
 *   \[Repealed\]
     
-    Section 168AA: repealed, on 29 June 2009, by [section 12][668] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 168AA: repealed, on 29 June 2009, by [section 12][670] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
 
 ##### 168AB Notice of transfer of case to District Court
     
 *   \[Repealed\]
     
-    Section 168AB: repealed, on 29 June 2009, by [section 12][668] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 168AB: repealed, on 29 June 2009, by [section 12][670] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
 
 ##### 168B Defendant to be warned as to law relating to notice of alibi
     
 *   \[Repealed\]
     
-    Section 168B: repealed, on 29 June 2009, by [section 12][668] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 168B: repealed, on 29 June 2009, by [section 12][670] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
 
 ##### 168C Defendant to be advised of his right to apply for trial before a Judge without a jury
     
 *   \[Repealed\]
     
-    Section 168C: repealed, on 29 June 2009, by [section 12][668] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 168C: repealed, on 29 June 2009, by [section 12][670] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
 
 ##### 169 Standard committal is not hearing and does not involve prosecutor's or defendant's presence
     
@@ -5934,7 +5932,7 @@ Committal proceedings for indictable offences
     
 *   \[Repealed\]
     
-    Section 173A: repealed, on 29 June 2009, by [section 12][668] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 173A: repealed, on 29 June 2009, by [section 12][670] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
 
 ##### 174 No comment may be made on defendant refraining from answering charge
     
@@ -5973,10 +5971,10 @@ Committal proceedings for indictable offences
 *   Heading: repealed, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
 
 ##### 178 Application for oral evidence order
-
-\[Repealed\]
     
-*   Section 178: repealed, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
+*   \[Repealed\]
+    
+    Section 178: repealed, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
 
 ##### 179 Application for leave to question undercover Police officer's identity must be removed into High Court
     
@@ -6245,7 +6243,7 @@ Special provisions relating to standard committal process and committal hearings
     
 *   \[Repealed\]
     
-    Section 185CA: repealed, on 29 June 2009, by [section 12][668] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 185CA: repealed, on 29 June 2009, by [section 12][670] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
 
 ##### 185D Child complainant's evidence may be given by video record
     
@@ -6361,7 +6359,7 @@ Protection of Justices and Community Magistrates
     
 *   \[Repealed\]
     
-    Section 196A: repealed, on 20 May 2004, by [section 8][669] of the Summary Proceedings Amendment Act 2004 (2004 No 47).
+    Section 196A: repealed, on 20 May 2004, by [section 8][671] of the Summary Proceedings Amendment Act 2004 (2004 No 47).
 
 ##### 197 Indemnity to Justice or Community Magistrate
     
@@ -6376,139 +6374,139 @@ General provisions
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 October 2012, by [section 337(3)][670] of the Search and Surveillance Act 2012 (2012 No 24).
+*   Heading: repealed, on 1 October 2012, by [section 337(3)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 198 Search warrants
     
 *   \[Repealed\]
     
-    Section 198: repealed, on 1 October 2012, by [section 337(3)][670] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 198: repealed, on 1 October 2012, by [section 337(3)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 198A Procedure where certain documents seized from solicitors' offices
     
 *   \[Repealed\]
     
-    Section 198A: repealed, on 1 October 2012, by [section 337(3)][670] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 198A: repealed, on 1 October 2012, by [section 337(3)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 198B Person with knowledge of computer or computer network to assist access
     
 *   \[Repealed\]
     
-    Section 198B: repealed, on 1 October 2012, by [section 337(3)][670] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 198B: repealed, on 1 October 2012, by [section 337(3)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 199 Disposal of things seized
     
 *   \[Repealed\]
     
-    Section 199: repealed, on 1 October 2012, by [section 337(3)][670] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 199: repealed, on 1 October 2012, by [section 337(3)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 200 Other enactments as to search warrants not affected
     
 *   \[Repealed\]
     
-    Section 200: repealed, on 1 October 2012, by [section 337(3)][670] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200: repealed, on 1 October 2012, by [section 337(3)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### Tracking devices
 
 \[Repealed\]
     
-*   Heading: repealed, on 18 April 2012, by [section 337(4)][670] of the Search and Surveillance Act 2012 (2012 No 24).
+*   Heading: repealed, on 18 April 2012, by [section 337(4)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 200A Interpretation
     
 *   \[Repealed\]
     
-    Section 200A: repealed, on 18 April 2012, by [section 337(4)][670] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200A: repealed, on 18 April 2012, by [section 337(4)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 200B Application for tracking device warrant
     
 *   \[Repealed\]
     
-    Section 200B: repealed, on 18 April 2012, by [section 337(4)][670] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200B: repealed, on 18 April 2012, by [section 337(4)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 200C Issue of tracking device warrant
     
 *   \[Repealed\]
     
-    Section 200C: repealed, on 18 April 2012, by [section 337(4)][670] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200C: repealed, on 18 April 2012, by [section 337(4)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 200D Effect of tracking device warrant
     
 *   \[Repealed\]
     
-    Section 200D: repealed, on 18 April 2012, by [section 337(4)][670] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200D: repealed, on 18 April 2012, by [section 337(4)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 200E Expiry of warrant
     
 *   \[Repealed\]
     
-    Section 200E: repealed, on 18 April 2012, by [section 337(4)][670] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200E: repealed, on 18 April 2012, by [section 337(4)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 200F Renewal of warrant
     
 *   \[Repealed\]
     
-    Section 200F: repealed, on 18 April 2012, by [section 337(4)][670] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200F: repealed, on 18 April 2012, by [section 337(4)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 200G Use of tracking device without warrant
     
 *   \[Repealed\]
     
-    Section 200G: repealed, on 18 April 2012, by [section 337(4)][670] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200G: repealed, on 18 April 2012, by [section 337(4)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 200H Reports
     
 *   \[Repealed\]
     
-    Section 200H: repealed, on 18 April 2012, by [section 337(4)][670] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200H: repealed, on 18 April 2012, by [section 337(4)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 200I Warrant for removal of tracking device
     
 *   \[Repealed\]
     
-    Section 200I: repealed, on 18 April 2012, by [section 337(4)][670] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200I: repealed, on 18 April 2012, by [section 337(4)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 200J Agencies to give information to Parliament
     
 *   \[Repealed\]
     
-    Section 200J: repealed, on 18 April 2012, by [section 337(4)][670] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200J: repealed, on 18 April 2012, by [section 337(4)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 200K Security of applications for tracking device warrants
     
 *   \[Repealed\]
     
-    Section 200K: repealed, on 18 April 2012, by [section 337(4)][670] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200K: repealed, on 18 April 2012, by [section 337(4)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 200L Restriction on production of documents relating to application
     
 *   \[Repealed\]
     
-    Section 200L: repealed, on 18 April 2012, by [section 337(4)][670] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200L: repealed, on 18 April 2012, by [section 337(4)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 200M Application for production of documents
     
 *   \[Repealed\]
     
-    Section 200M: repealed, on 18 April 2012, by [section 337(4)][670] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200M: repealed, on 18 April 2012, by [section 337(4)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 200N Request for production made in course of proceedings
     
 *   \[Repealed\]
     
-    Section 200N: repealed, on 18 April 2012, by [section 337(4)][670] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200N: repealed, on 18 April 2012, by [section 337(4)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 200O Application referred to Judge
     
 *   \[Repealed\]
     
-    Section 200O: repealed, on 18 April 2012, by [section 337(4)][670] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200O: repealed, on 18 April 2012, by [section 337(4)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 200P Judges entitled to inspect relevant documents
     
 *   \[Repealed\]
     
-    Section 200P: repealed, on 18 April 2012, by [section 337(4)][670] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200P: repealed, on 18 April 2012, by [section 337(4)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### Miscellaneous
 
@@ -6540,7 +6538,7 @@ General provisions
     
 *   No summons, sentence, order, bond, warrant, or other document under this Act, and no process or proceeding under this Act shall be quashed, set aside, or held invalid by any District Court or by any other court by reason only of any defect, irregularity, omission, or want of form unless the court is satisfied that there has been a miscarriage of justice.
     
-    Compare: 1909 No 13 [ss 4--6][671]; 1927 No 37 ss 79, 373; 1952 No 41 s 11
+    Compare: 1909 No 13 [ss 4--6][673]; 1927 No 37 ss 79, 373; 1952 No 41 s 11
     
     Section 204: amended, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
     
@@ -6572,13 +6570,13 @@ General provisions
     
     Compare: 1927 No 37 ss 378(2), 379, 380, 383(2)
     
-    Section 207(2): amended, on 30 June 1998, by [section 53][672] of the Summary Proceedings Amendment Act (No 2) 1998 (1998 No 77).
+    Section 207(2): amended, on 30 June 1998, by [section 53][674] of the Summary Proceedings Amendment Act (No 2) 1998 (1998 No 77).
     
     Section 207(2): amended, on 1 April 1980, pursuant to [section 18(2)][498] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 207(3): amended, on 1 July 1991, by section 21 of the Weights and Measures Amendment Act 1991 (1991 No 9).
     
-    Section 207(3): amended, on 1 November 1987, by [section 13][673] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
+    Section 207(3): amended, on 1 November 1987, by [section 13][675] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
 
 ##### 208 Payment of money to department
     
@@ -6600,13 +6598,13 @@ General provisions
         
     *   (a) to any person who is entitled to it under any enactment or by any order of the court made under an enactment; or
     
-    *   (b) into another Departmental Bank Account or a Crown Bank Account, in accordance with the [Public Finance Act 1989][674].
+    *   (b) into another Departmental Bank Account or a Crown Bank Account, in accordance with the [Public Finance Act 1989][676].
     
-    Section 208: replaced, on 9 October 2006, by [section 29][675] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 208: replaced, on 9 October 2006, by [section 29][677] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
     Section 208(1)(a): amended, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
     
-    Section 208(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][676] of the Policing Act 2008 (2008 No 72).
+    Section 208(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][678] of the Policing Act 2008 (2008 No 72).
 
 ##### 209 Act not to apply to Youth Court unless provided
     
@@ -6626,7 +6624,7 @@ General provisions
     
     (3) Every document purporting to be a form approved and issued by the chief executive under and for the purposes of this Act is deemed to have been so approved and issued unless the chief executive otherwise certifies.
     
-    Section 209A: inserted, on 13 February 2012, by [section 44][677] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 209A: inserted, on 13 February 2012, by [section 44][679] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 210 Saving of provisions of Customs Act 1913
     
@@ -6694,23 +6692,23 @@ General provisions
     
     Compare: 1927 No 37 s 378(1); 1948 No 20 ss 2(5), 11
     
-    Section 212(1): amended, on 1 April 1980, pursuant to [section 12][678] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 212(1): amended, on 1 April 1980, pursuant to [section 12][680] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 212(2)(b): amended, on 9 October 2006, by [section 30(1)][679] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 212(2)(b): amended, on 9 October 2006, by [section 30(1)][681] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
     Section 212(2)(c): repealed, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
     
-    Section 212(2)(ca): inserted, on 23 July 2011, by [section 45(1)][680] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 212(2)(ca): inserted, on 23 July 2011, by [section 45(1)][682] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
     Section 212(2)(d): repealed, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
     
-    Section 212(2)(daa): inserted, on 23 July 2011, by [section 45(2)][680] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 212(2)(daa): inserted, on 23 July 2011, by [section 45(2)][682] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 212(2)(dab): inserted, on 23 July 2011, by [section 45(2)][680] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 212(2)(dab): inserted, on 23 July 2011, by [section 45(2)][682] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 212(2)(da): inserted, on 9 October 2006, by [section 30(2)][679] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 212(2)(da): inserted, on 9 October 2006, by [section 30(2)][681] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 212(2)(db): inserted, on 9 October 2006, by [section 30(2)][679] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 212(2)(db): inserted, on 9 October 2006, by [section 30(2)][681] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
     Section 212(2)(e): repealed, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
     
@@ -6722,7 +6720,7 @@ General provisions
     
     Section 212(2)(ed): repealed, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
     
-    Section 212(3): repealed, on 19 December 1989, by [section 11][681] of the Regulations (Disallowance) Act 1989 (1989 No 143).
+    Section 212(3): repealed, on 19 December 1989, by [section 11][683] of the Regulations (Disallowance) Act 1989 (1989 No 143).
 
 ##### 213 Consequential amendments
     
@@ -6799,7 +6797,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Summary Proceedings Amendment Act (No 2) 2010][682].
+*   This Act is the [Summary Proceedings Amendment Act (No 2) 2010][684].
 
 ##### 2 Commencement
     
@@ -6835,7 +6833,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Summary Proceedings Amendment Act 2011][683].
+*   This Act is the [Summary Proceedings Amendment Act 2011][685].
 
 ##### 2 Commencement
     
@@ -6855,7 +6853,7 @@ Commencementsee section 2
     
     (3) Any provisions of this Act that are not in force on the expiry of the period of 15 months that starts on the date on which this Act receives the Royal assent come into force (despite subsection (2)) on that expiry.
     
-    Section 2(2): sections 4, 6, 10--16, 18--26, 27 (but only to the extent that it relates to section 88A of the Summary Proceedings Act 1957), 28--30, 31 (except as it relates to section 92I of the Summary Proceedings Act 1957), 32--40, 41(2), 42--44, 46, 47, and Schedules 1, 2, and 3 brought into force, on 13 February 2012, by the [Summary Proceedings Amendment Act 2011 Commencement Order 2011][684] (SR 2011/394).
+    Section 2(2): sections 4, 6, 10--16, 18--26, 27 (but only to the extent that it relates to section 88A of the Summary Proceedings Act 1957), 28--30, 31 (except as it relates to section 92I of the Summary Proceedings Act 1957), 32--40, 41(2), 42--44, 46, 47, and Schedules 1, 2, and 3 brought into force, on 13 February 2012, by the [Summary Proceedings Amendment Act 2011 Commencement Order 2011][686] (SR 2011/394).
 
 ##### 47 Transitional provisions relating to pre-commencement fines and warrants
     
@@ -6873,7 +6871,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Crimes Amendment Act (No 3) 2011][685].
+*   This Act is the [Crimes Amendment Act (No 3) 2011][687].
 
 ##### 2 Commencement
     
@@ -6902,7 +6900,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Search and Surveillance Act 2012][686].
+*   This Act is the [Search and Surveillance Act 2012][688].
 
 ##### 2 Commencement
     
@@ -6914,7 +6912,7 @@ Commencementsee section 2
     
     (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
     
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][687] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
+    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][689] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
 
 ## Part 1  
 General provisions
@@ -6976,91 +6974,93 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][688] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][689] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][690] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][691] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][690] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][691] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][692] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][693] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Bail Amendment Act 2013 (2013 No 66): [section 45][605]
+*   Administration of Community Sentences and Orders Act 2013 (2013 No 88): [section 60][666]
+    
+    Bail Amendment Act 2013 (2013 No 66): [section 45][605]
     
     Psychoactive Substances Act 2013 (2013 No 53): [section 110(1)][509]
     
-    Electronic Identity Verification Act 2012 (2012 No 123): [section 76][692]
+    Electronic Identity Verification Act 2012 (2012 No 123): [section 76][694]
     
-    Search and Surveillance Act 2012 (2012 No 24): [section 337][670]
+    Search and Surveillance Act 2012 (2012 No 24): [section 337][672]
     
-    [Summary Proceedings Amendment Act (No 2) 2011][693] (2011 No 94)
+    [Summary Proceedings Amendment Act (No 2) 2011][695] (2011 No 94)
     
     Criminal Procedure Act 2011 (2011 No 81): [section 393][534]
     
-    Crimes Amendment Act (No 3) 2011 (2011 No 79): [section 11][694]
+    Crimes Amendment Act (No 3) 2011 (2011 No 79): [section 11][696]
     
-    Adoption Amendment Act 2011 (2011 No 60): [section 7][695]
+    Adoption Amendment Act 2011 (2011 No 60): [section 7][697]
     
-    [Summary Proceedings Amendment Act 2011][683] (2011 No 32)
+    [Summary Proceedings Amendment Act 2011][685] (2011 No 32)
     
     Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13): [section 100(2), (3)][502]
     
-    Financial Markets Authority Act 2011 (2011 No 5): [section 82][696]
+    Financial Markets Authority Act 2011 (2011 No 5): [section 82][698]
     
-    Electoral Referendum Act 2010 (2010 No 139): [section 82][697]
+    Electoral Referendum Act 2010 (2010 No 139): [section 82][699]
     
-    Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137): [section 41][698]
+    Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137): [section 41][700]
     
-    [Summary Proceedings Amendment Act (No 2) 2010][682] (2010 No 121)
+    [Summary Proceedings Amendment Act (No 2) 2010][684] (2010 No 121)
     
-    Insurance (Prudential Supervision) Act 2010 (2010 No 111): [section 241(2)][699]
+    Insurance (Prudential Supervision) Act 2010 (2010 No 111): [section 241(2)][701]
     
-    Limitation Act 2010 (2010 No 110): [section 58][700]
+    Limitation Act 2010 (2010 No 110): [section 58][702]
     
-    Animal Welfare Amendment Act 2010 (2010 No 93): [section 10(1)][701]
+    Animal Welfare Amendment Act 2010 (2010 No 93): [section 10(1)][703]
     
-    [Summary Proceedings Amendment Act 2010][702] (2010 No 87)
+    [Summary Proceedings Amendment Act 2010][704] (2010 No 87)
     
-    Financial Advisers Amendment Act 2010 (2010 No 40): [section 50][703]
+    Financial Advisers Amendment Act 2010 (2010 No 40): [section 50][705]
     
-    Sentencing and Parole Reform Act 2010 (2010 No 33): [section 13][704]
+    Sentencing and Parole Reform Act 2010 (2010 No 33): [section 13][706]
     
-    Immigration Act 2009 (2009 No 51): [section 406(1)][705]
+    Immigration Act 2009 (2009 No 51): [section 406(1)][707]
     
-    Domestic Violence Amendment Act 2009 (2009 No 43): [section 7(2)][706]
+    Domestic Violence Amendment Act 2009 (2009 No 43): [section 7(2)][708]
     
-    [Summary Proceedings (Vehicle Seizure) Amendment Act 2009][707] (2009 No 38)
+    [Summary Proceedings (Vehicle Seizure) Amendment Act 2009][709] (2009 No 38)
     
-    Climate Change Response (Emissions Trading Forestry Sector) Amendment Act 2009 (2009 No 19): [section 11][708]
+    Climate Change Response (Emissions Trading Forestry Sector) Amendment Act 2009 (2009 No 19): [section 11][710]
     
-    Land Transport Amendment Act 2009 (2009 No 17): [section 35(4)][709]
+    Land Transport Amendment Act 2009 (2009 No 17): [section 35(4)][711]
     
-    Criminal Proceeds (Recovery) Act 2009 (2009 No 8): [section 214][710]
+    Criminal Proceeds (Recovery) Act 2009 (2009 No 8): [section 214][712]
     
-    Electoral Amendment Act 2009 (2009 No 1): [section 16][711]
+    Electoral Amendment Act 2009 (2009 No 1): [section 16][713]
     
-    Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85): [section 56][712]
+    Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85): [section 56][714]
     
-    Policing Act 2008 (2008 No 72): [sections 116(a)(ii), (vii), (d)][676], [130(1)][496]
+    Policing Act 2008 (2008 No 72): [sections 116(a)(ii), (vii), (d)][678], [130(1)][496]
     
-    Real Estate Agents Act 2008 (2008 No 66): [section 173][713]
+    Real Estate Agents Act 2008 (2008 No 66): [section 173][715]
     
-    Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][714]
+    Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][716]
     
-    [Summary Proceedings Amendment Act (No 2) 2008][715] (2008 No 41)
+    [Summary Proceedings Amendment Act (No 2) 2008][717] (2008 No 41)
     
-    Criminal Disclosure Act 2008 (2008 No 38): [section 40(1)][716]
+    Criminal Disclosure Act 2008 (2008 No 38): [section 40(1)][718]
     
-    [Summary Proceedings Amendment Act 2008][717] (2008 No 18)
+    [Summary Proceedings Amendment Act 2008][719] (2008 No 18)
     
-    Health (Drinking Water) Amendment Act 2007 (2007 No 92): [section 19][718]
+    Health (Drinking Water) Amendment Act 2007 (2007 No 92): [section 19][720]
     
-    Sentencing Amendment Act 2007 (2007 No 27): [section 58][719]
+    Sentencing Amendment Act 2007 (2007 No 27): [section 58][721]
     
-    Immigration Advisers Licensing Act 2007 (2007 No 15): [section 97][720]
+    Immigration Advisers Licensing Act 2007 (2007 No 15): [section 97][722]
     
-    [Summary Proceedings Amendment Act (No 2) 2006][721] (2006 No 91)
+    [Summary Proceedings Amendment Act (No 2) 2006][723] (2006 No 91)
     
-    Crimes (Intimate Covert Filming) Amendment Act 2006 (2006 No 75): [section 5][722]
+    Crimes (Intimate Covert Filming) Amendment Act 2006 (2006 No 75): [section 5][724]
     
     Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74): [section 185][505]
     
@@ -7072,95 +7072,95 @@ Amendments, repeals, and miscellaneous provisions
     
     Financial Reporting Amendment Act 2006 (2006 No 64): [section 22][503]
     
-    Insolvency Act 2006 (2006 No 55): [section 445][723]
+    Insolvency Act 2006 (2006 No 55): [section 445][725]
     
-    Securities Markets Amendment Act 2006 (2006 No 47): [section 14][724]
+    Securities Markets Amendment Act 2006 (2006 No 47): [section 14][726]
     
-    Securities Amendment Act 2006 (2006 No 46): [section 25][725]
+    Securities Amendment Act 2006 (2006 No 46): [section 25][727]
     
-    [Summary Proceedings Amendment Act 2006][726] (2006 No 13)
+    [Summary Proceedings Amendment Act 2006][728] (2006 No 13)
     
-    Overseas Investment Act 2005 (2005 No 82): [section 75][727]
+    Overseas Investment Act 2005 (2005 No 82): [section 75][729]
     
-    Misuse of Drugs Amendment Act 2005 (2005 No 81): [section 23][728]
+    Misuse of Drugs Amendment Act 2005 (2005 No 81): [section 23][730]
     
-    Citizenship Amendment Act 2005 (2005 No 43): [section 16][729]
+    Citizenship Amendment Act 2005 (2005 No 43): [section 16][731]
     
-    Crimes Amendment Act 2005 (2005 No 41): [section 10][730]
+    Crimes Amendment Act 2005 (2005 No 41): [section 10][732]
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][526]
     
-    Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2): [section 46][731]
+    Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2): [section 46][733]
     
-    Civil Union Act 2004 (2004 No 102): [section 46][732]
+    Civil Union Act 2004 (2004 No 102): [section 46][734]
     
-    Human Assisted Reproductive Technology Act 2004 (2004 No 92): [section 87][733]
+    Human Assisted Reproductive Technology Act 2004 (2004 No 92): [section 87][735]
     
-    Local Government Act 2002 Amendment Act 2004 (2004 No 63): [section 30][734]
+    Local Government Act 2002 Amendment Act 2004 (2004 No 63): [section 30][736]
     
     Social Security (Working for Families) Amendment Act 2004 (2004 No 51): [section 21][495]
     
     Corrections Act 2004 (2004 No 50): [section 206][530]
     
-    [Summary Proceedings Amendment Act 2004][735] (2004 No 47)
+    [Summary Proceedings Amendment Act 2004][737] (2004 No 47)
     
-    Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115): [section 51][736]
+    Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115): [section 51][738]
     
-    Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113): [section 53][737]
+    Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113): [section 53][739]
     
-    Supreme Court Act 2003 (2003 No 53): [section 47][738]
+    Supreme Court Act 2003 (2003 No 53): [section 47][740]
     
-    Credit Contracts and Consumer Finance Act 2003 (2003 No 52): [section 103(4)][739]
+    Credit Contracts and Consumer Finance Act 2003 (2003 No 52): [section 103(4)][741]
     
-    Gambling Act 2003 (2003 No 51): [section 374][740]
+    Gambling Act 2003 (2003 No 51): [section 374][742]
     
-    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][741]
+    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][743]
     
-    Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46): [section 48(1)][742]
+    Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46): [section 48(1)][744]
     
-    Crimes Amendment Act 2003 (2003 No 39): [section 34][743]
+    Crimes Amendment Act 2003 (2003 No 39): [section 34][745]
     
-    Prostitution Reform Act 2003 (2003 No 28): [section 50(1)][744]
+    Prostitution Reform Act 2003 (2003 No 28): [section 50(1)][746]
     
-    Land Transport (Unauthorised Street and Drag Racing) Amendment Act 2003 (2003 No 11): [section 11(1)][745]
+    Land Transport (Unauthorised Street and Drag Racing) Amendment Act 2003 (2003 No 11): [section 11(1)][747]
     
-    Trade Marks Act 2002 (2002 No 49): [section 201][746]
+    Trade Marks Act 2002 (2002 No 49): [section 201][748]
     
     Crown Organisations (Criminal Liability) Act 2002 (2002 No 37): [sections 29--32][499]
     
-    Passports Amendment Act 2002 (2002 No 24): [section 12(1)][747]
+    Passports Amendment Act 2002 (2002 No 24): [section 12(1)][749]
     
     Sentencing Act 2002 (2002 No 9): [section 186][574]
     
-    Land Transport (Road Safety Enforcement) Amendment Act 2001 (2001 No 104): [section 14(1)][748]
+    Land Transport (Road Safety Enforcement) Amendment Act 2001 (2001 No 104): [section 14(1)][750]
     
     Government Superannuation Fund Amendment Act 2001 (2001 No 47): [section 40][658]
     
-    Local Electoral Act 2001 (2001 No 35): [section 151][749]
+    Local Electoral Act 2001 (2001 No 35): [section 151][751]
     
-    [Summary Proceedings Amendment Act 2000][750] (2000 No 82)
+    [Summary Proceedings Amendment Act 2000][752] (2000 No 82)
     
-    Referenda (Postal Voting) Act 2000 (2000 No 48): [section 81][751]
+    Referenda (Postal Voting) Act 2000 (2000 No 48): [section 81][753]
     
-    Legal Services Act 2000 (2000 No 42): [section 128][752]
+    Legal Services Act 2000 (2000 No 42): [section 128][754]
     
     Bail Act 2000 (2000 No 38): [section 74(2)][536]
     
-    Animal Welfare Act 1999 (1999 No 142): [section 194][753]
+    Animal Welfare Act 1999 (1999 No 142): [section 194][755]
     
-    Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140): [section 77][754]
+    Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140): [section 77][756]
     
-    Personal Property Securities Act 1999 (1999 No 126): [section 191(1)][755]
+    Personal Property Securities Act 1999 (1999 No 126): [section 191(1)][757]
     
-    Fisheries Act 1996 Amendment Act 1999 (1999 No 101): [section 87(2)][756]
+    Fisheries Act 1996 Amendment Act 1999 (1999 No 101): [section 87(2)][758]
     
-    Interpretation Act 1999 (1999 No 85): [section 38(1)][757]
+    Interpretation Act 1999 (1999 No 85): [section 38(1)][759]
     
     Extradition Act 1999 (1999 No 55): [section 111][511]
     
     Biosecurity Amendment Act 1999 (1999 No 29): [section 6][506]
     
-    [Summary Proceedings Amendment Act 1999][758] (1999 No 7)
+    [Summary Proceedings Amendment Act 1999][760] (1999 No 7)
     
     Accident Insurance Act 1998 (1998 No 114): section 415(1)
     
@@ -7168,35 +7168,35 @@ Amendments, repeals, and miscellaneous provisions
     
     Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96): [section 11][586]
     
-    [Summary Proceedings Amendment Act (No 3) 1998][759] (1998 No 91)
+    [Summary Proceedings Amendment Act (No 3) 1998][761] (1998 No 91)
     
-    [Summary Proceedings Amendment Act (No 2) 1998][760] (1998 No 77)
+    [Summary Proceedings Amendment Act (No 2) 1998][762] (1998 No 77)
     
-    [Summary Proceedings Amendment Act 1998][761] (1998 No 61)
+    [Summary Proceedings Amendment Act 1998][763] (1998 No 61)
     
-    Misuse of Drugs Amendment Act 1998 (1998 No 14): [section 13][762]
+    Misuse of Drugs Amendment Act 1998 (1998 No 14): [section 13][764]
     
-    Postal Services Act 1998 (1998 No 2): [section 62(1)][763]
+    Postal Services Act 1998 (1998 No 2): [section 62(1)][765]
     
-    Harassment Act 1997 (1997 No 92): [section 44][764]
+    Harassment Act 1997 (1997 No 92): [section 44][766]
     
-    Biosecurity Amendment Act 1997 (1997 No 89): [section 127(2)][765]
+    Biosecurity Amendment Act 1997 (1997 No 89): [section 127(2)][767]
     
-    Compulsory Retirement Savings Scheme Referendum Act 1997 (1997 No 13): [section 64][766]
+    Compulsory Retirement Savings Scheme Referendum Act 1997 (1997 No 13): [section 64][768]
     
-    [Summary Proceedings Amendment Act (No 2) 1996][767] (1996 No 146)
+    [Summary Proceedings Amendment Act (No 2) 1996][769] (1996 No 146)
     
-    Fisheries Act 1996 (1996 No 88): [section 316(1)][768]
+    Fisheries Act 1996 (1996 No 88): [section 316(1)][770]
     
     Summary Proceedings Amendment Act 1996 (1996 No 66)
     
-    Inspector-General of Intelligence and Security Act 1996 (1996 No 47): [section 28(6)][769]
+    Inspector-General of Intelligence and Security Act 1996 (1996 No 47): [section 28(6)][771]
     
-    Intelligence and Security Committee Act 1996 (1996 No 46): [section 20(4)][770]
+    Intelligence and Security Committee Act 1996 (1996 No 46): [section 20(4)][772]
     
-    Food Amendment Act 1996 (1996 No 41): [section 28][771]
+    Food Amendment Act 1996 (1996 No 41): [section 28][773]
     
-    Customs and Excise Act 1996 (1996 No 27): [section 289(1)][772]
+    Customs and Excise Act 1996 (1996 No 27): [section 289(1)][774]
     
     Dog Control Act 1996 (1996 No 13): [section 79][501]
     
@@ -7204,9 +7204,9 @@ Amendments, repeals, and miscellaneous provisions
     
     Summary Proceedings Amendment Act (No 2) 1995 (1995 No 87)
     
-    [Summary Proceedings Amendment Act 1995][773] (1995 No 64)
+    [Summary Proceedings Amendment Act 1995][775] (1995 No 64)
     
-    Criminal Investigations (Bodily Samples) Act 1995 (1995 No 55): [section 82][774]
+    Criminal Investigations (Bodily Samples) Act 1995 (1995 No 55): [section 82][776]
     
     Crimes Amendment Act 1995 (1995 No 49): section 10(3)
     
@@ -7214,25 +7214,25 @@ Amendments, repeals, and miscellaneous provisions
     
     Summary Proceedings Amendment Act 1994 (1994 No 161)
     
-    Copyright Act 1994 (1994 No 143): [section 236(2)][775]
+    Copyright Act 1994 (1994 No 143): [section 236(2)][777]
     
-    Antarctica (Environmental Protection) Act 1994 (1994 No 119): [section 56(2)][776]
+    Antarctica (Environmental Protection) Act 1994 (1994 No 119): [section 56(2)][778]
     
     Companies Amendment Act 1993 (1993 No 108): section 64
     
-    Financial Reporting Act 1993 (1993 No 106): [section 46][777]
+    Financial Reporting Act 1993 (1993 No 106): [section 46][779]
     
-    Companies Act 1993 (1993 No 105): [section 396][778]
+    Companies Act 1993 (1993 No 105): [section 396][780]
     
-    [Summary Proceedings Amendment Act 1993][779] (1993 No 47)
+    [Summary Proceedings Amendment Act 1993][781] (1993 No 47)
     
-    Privacy Act 1993 (1993 No 28): [section 129(1)][780]
+    Privacy Act 1993 (1993 No 28): [section 129(1)][782]
     
     Hospitals Amendment Act 1993 (1993 No 26): section 32
     
     Te Ture Whenua Maori Act 1993 (1993 No 4): [section 362(2)][532]
     
-    Ship Registration Act 1992 (1992 No 89): [section 88(3)][781]
+    Ship Registration Act 1992 (1992 No 89): [section 88(3)][783]
     
     Summary Proceedings Amendment Act (No 2) 1991 (1991 No 105)
     
@@ -7244,11 +7244,11 @@ Amendments, repeals, and miscellaneous provisions
     
     Weights and Measures Amendment Act 1991 (1991 No 9): section 21
     
-    Serious Fraud Office Act 1990 (1990 No 51): [section 54][782]
+    Serious Fraud Office Act 1990 (1990 No 51): [section 54][784]
     
-    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][681]
+    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][683]
     
-    Children, Young Persons, and Their Families Act 1989 (1989 No 24): [section 449][783]
+    Children, Young Persons, and Their Families Act 1989 (1989 No 24): [section 449][785]
     
     Summary Proceedings Amendment Act 1989 (1989 No 21)
     
@@ -7256,17 +7256,17 @@ Amendments, repeals, and miscellaneous provisions
     
     Shipping and Seamen Amendment Act 1987 (1987 No 184): section 29(1), (2)
     
-    Building Societies Amendment Act 1987 (1987 No 175): [section 41(3)][784]
+    Building Societies Amendment Act 1987 (1987 No 175): [section 41(3)][786]
     
     Summary Proceedings Amendment Act (No 2) 1987 (1987 No 172)
     
-    [Summary Proceedings Amendment Act 1987][785] (1987 No 165)
+    [Summary Proceedings Amendment Act 1987][787] (1987 No 165)
     
-    Plant Variety Rights Act 1987 (1987 No 5): [section 37(8)][786]
+    Plant Variety Rights Act 1987 (1987 No 5): [section 37(8)][788]
     
-    Residential Tenancies Act 1986 (1986 No 120): [section 144(3)][787]
+    Residential Tenancies Act 1986 (1986 No 120): [section 144(3)][789]
     
-    Constitution Act 1986 (1986 No 114): [section 29(2)][788]
+    Constitution Act 1986 (1986 No 114): [section 29(2)][790]
     
     Summary Proceedings Amendment Act 1986 (1986 No 73)
     
@@ -7278,7 +7278,7 @@ Amendments, repeals, and miscellaneous provisions
     
     Summary Proceedings Amendment Act 1985 (1985 No 51)
     
-    Arms Act 1983 (1983 No 44): [section 75][789]
+    Arms Act 1983 (1983 No 44): [section 75][791]
     
     Crimes Amendment Act (No 2) 1982 (1982 No 157): section 5
     
@@ -7286,7 +7286,7 @@ Amendments, repeals, and miscellaneous provisions
     
     Summary Proceedings Amendment Act 1982 (1982 No 47)
     
-    Summary Offences Act 1981 (1981 No 113): [section 48(2)][790]
+    Summary Offences Act 1981 (1981 No 113): [section 48(2)][792]
     
     Credit Contracts Act 1981 (1981 No 27): section 48(1)(i)
     
@@ -7298,11 +7298,11 @@ Amendments, repeals, and miscellaneous provisions
     
     District Courts Amendment Act 1979 (1979 No 125): [sections 2(3)][497], [18(2)][498]
     
-    Judicature Amendment Act 1979 (1979 No 124): [section 12][678]
+    Judicature Amendment Act 1979 (1979 No 124): [section 12][680]
     
-    Local Government Amendment Act 1979 (1979 No 59): [section 8(3)][791]
+    Local Government Amendment Act 1979 (1979 No 59): [section 8(3)][793]
     
-    Public Service Investment Society Management Act (No 2) 1979 (1979 No 9): [section 22(3)][792]
+    Public Service Investment Society Management Act (No 2) 1979 (1979 No 9): [section 22(3)][794]
     
     Crimes Amendment Act 1979 (1979 No 5): section 6
     
@@ -7310,17 +7310,17 @@ Amendments, repeals, and miscellaneous provisions
     
     New Zealand Security Intelligence Service Amendment Act 1977 (1977 No 50): section 7(2)
     
-    Chateau Companies Act 1977 (1977 No 4): [section 19(3)][793]
+    Chateau Companies Act 1977 (1977 No 4): [section 19(3)][795]
     
-    [Summary Proceedings Amendment Act 1976][794] (1976 No 169)
+    [Summary Proceedings Amendment Act 1976][796] (1976 No 169)
     
     Commerce Amendment Act 1976 (1976 No 67): section 23(2)
     
-    Misuse of Drugs Act 1975 (1975 No 116): [section 28(3)][795]
+    Misuse of Drugs Act 1975 (1975 No 116): [section 28(3)][797]
     
     Summary Proceedings Amendment Act 1975 (1975 No 105)
     
-    Trustee Companies Management Act 1975 (1975 No 25): [section 20(3)][796]
+    Trustee Companies Management Act 1975 (1975 No 25): [section 20(3)][798]
     
     Cornish Companies Management Act 1974 (1974 No 27): section 22(3)
     
@@ -7338,41 +7338,41 @@ Amendments, repeals, and miscellaneous provisions
     
     Costs in Criminal Cases Act 1967 (1967 No 129): [section 14(2)][538]
     
-    Insolvency Act 1967 (1967 No 54): [section 170(1)][797]
+    Insolvency Act 1967 (1967 No 54): [section 170(1)][799]
     
     Animals Act 1967 (1967 No 50): section 108(2)
     
     Summary Proceedings Amendment Act 1967 (1967 No 33)
     
-    Alcoholism and Drug Addiction Act 1966 (1966 No 97): [section 40(1)][798]
+    Alcoholism and Drug Addiction Act 1966 (1966 No 97): [section 40(1)][800]
     
     Customs Act 1966 (1966 No 19): section 311(1)
     
     Narcotics Act 1965 (1965 No 45): section 5(7)
     
-    Building Societies Act 1965 (1965 No 22): [section 134][799]
+    Building Societies Act 1965 (1965 No 22): [section 134][801]
     
-    Burial and Cremation Act 1964 (1964 No 75): [section 56(4)][800]
+    Burial and Cremation Act 1964 (1964 No 75): [section 56(4)][802]
     
     Summary Proceedings Amendment Act 1964 (1964 No 22)
     
     Sale of Liquor Act 1962 (1962 No 139): section 301(1)
     
-    Transport Act 1962 (1962 No 135): [section 201(1)][801]
+    Transport Act 1962 (1962 No 135): [section 201(1)][803]
     
-    Waimakariri - Ashley Water Supply Act 1961 (1961 No 131): [section 73(1)][802]
+    Waimakariri - Ashley Water Supply Act 1961 (1961 No 131): [section 73(1)][804]
     
-    Reserves and Other Lands Disposal Act 1961 (1961 No 128): [section 14(15)][803]
+    Reserves and Other Lands Disposal Act 1961 (1961 No 128): [section 14(15)][805]
     
     Summary Proceedings Amendment Act 1961 (1961 No 44)
     
-    Crimes Act 1961 (1961 No 43): [section 412(2)][804]
+    Crimes Act 1961 (1961 No 43): [section 412(2)][806]
     
     Motor-Vehicle Dealers Act 1958 (1958 No 112): section 24(2)
     
     Companies Special Investigations Act 1958 (1958 No 23): section 28(3)
     
-    Summary Proceedings Act 1957(1957 No 87): [section 71(5)][805]
+    Summary Proceedings Act 1957(1957 No 87): [section 71(5)][807]
 
 
 
@@ -8040,145 +8040,147 @@ Amendments, repeals, and miscellaneous provisions
 [661]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM135582
 [662]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM136070
 [663]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM135564
-[664]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557912
-[665]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557917
-[666]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3360366
-[667]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM302507
-[668]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1379721
-[669]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM294374
-[670]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2137151
-[671]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM176598
-[672]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM427996
-[673]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM122234
-[674]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM160808
-[675]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372290
-[676]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1102349
-[677]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557918
-[678]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM35049
-[679]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372292
-[680]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3558710
-[681]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM195558
-[682]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3327100
-[683]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557941
-[684]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM4118923
-[685]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3650002
-[686]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2136500
-[687]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM4686448
-[688]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2998516
-[689]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2998515
-[690]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2998532
-[691]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[692]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1777925
-[693]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM4059011
-[694]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3944701
-[695]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3314954
-[696]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3231793
-[697]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3382262
-[698]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3383782
-[699]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2478612
-[700]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2033287
-[701]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2747722
-[702]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3044500
-[703]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2607873
-[704]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2836314
-[705]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1441347
-[706]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1774213
-[707]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2471702
-[708]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2155120
-[709]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2015063
-[710]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1451467
-[711]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1833700
-[712]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1370226
-[713]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1152186
-[714]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1048943
-[715]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1379706
-[716]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1379000
-[717]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1208900
-[718]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM970058
-[719]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM411004
-[720]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM407617
-[721]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM404744
-[722]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM398270
-[723]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM387857
-[724]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM384385
-[725]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM383050
-[726]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372252
-[727]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM358540
-[728]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM356263
-[729]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM346765
-[730]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM346419
-[731]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM333759
-[732]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM323483
-[733]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM319830
-[734]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM303942
-[735]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM294363
-[736]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM224534
-[737]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM222180
-[738]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM214520
-[739]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM213185
-[740]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM210735
-[741]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM205009
-[742]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM202699
-[743]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM200436
-[744]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM198311
-[745]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM187889
-[746]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM165256
-[747]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM146294
-[748]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM128668
-[749]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM95330
-[750]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM78365
-[751]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM74677
-[752]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM73105
-[753]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM51965
-[754]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM49614
-[755]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM47639
-[756]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM41012
-[757]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM31885
-[758]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM19373
-[759]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM428838
-[760]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM427928
-[761]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM426856
-[762]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM425330
-[763]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM423785
-[764]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM417798
-[765]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM417042
-[766]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM408923
-[767]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM407200
-[768]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM399975
-[769]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM392547
-[770]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM392282
-[771]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM392228
-[772]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM380185
-[773]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM371078
-[774]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM369871
-[775]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM347117
-[776]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM343623
-[777]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM325169
-[778]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM323284
-[779]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM302276
-[780]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM298439
-[781]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM276674
-[782]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM211498
-[783]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM155091
-[784]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM124106
-[785]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM122216
-[786]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM101097
-[787]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM96427
-[788]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM94263
-[789]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM73371
-[790]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM53746
-[791]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM34672
-[792]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM31548
-[793]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM442522
-[794]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM442136
-[795]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM436492
-[796]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM432102
-[797]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM384124
-[798]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM380515
-[799]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372502
-[800]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM355877
-[801]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM345115
-[802]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM339448
-[803]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM338443
-[804]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM332403
-[805]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM311813
+[664]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM5886800
+[665]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557912
+[666]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM4088276
+[667]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557917
+[668]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3360366
+[669]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM302507
+[670]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1379721
+[671]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM294374
+[672]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2137151
+[673]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM176598
+[674]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM427996
+[675]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM122234
+[676]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM160808
+[677]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372290
+[678]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1102349
+[679]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557918
+[680]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM35049
+[681]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372292
+[682]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3558710
+[683]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM195558
+[684]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3327100
+[685]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557941
+[686]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM4118923
+[687]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3650002
+[688]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2136500
+[689]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM4686448
+[690]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2998516
+[691]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2998515
+[692]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2998532
+[693]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[694]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1777925
+[695]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM4059011
+[696]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3944701
+[697]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3314954
+[698]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3231793
+[699]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3382262
+[700]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3383782
+[701]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2478612
+[702]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2033287
+[703]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2747722
+[704]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3044500
+[705]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2607873
+[706]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2836314
+[707]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1441347
+[708]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1774213
+[709]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2471702
+[710]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2155120
+[711]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2015063
+[712]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1451467
+[713]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1833700
+[714]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1370226
+[715]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1152186
+[716]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1048943
+[717]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1379706
+[718]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1379000
+[719]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1208900
+[720]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM970058
+[721]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM411004
+[722]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM407617
+[723]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM404744
+[724]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM398270
+[725]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM387857
+[726]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM384385
+[727]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM383050
+[728]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372252
+[729]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM358540
+[730]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM356263
+[731]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM346765
+[732]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM346419
+[733]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM333759
+[734]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM323483
+[735]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM319830
+[736]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM303942
+[737]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM294363
+[738]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM224534
+[739]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM222180
+[740]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM214520
+[741]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM213185
+[742]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM210735
+[743]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM205009
+[744]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM202699
+[745]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM200436
+[746]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM198311
+[747]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM187889
+[748]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM165256
+[749]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM146294
+[750]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM128668
+[751]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM95330
+[752]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM78365
+[753]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM74677
+[754]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM73105
+[755]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM51965
+[756]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM49614
+[757]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM47639
+[758]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM41012
+[759]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM31885
+[760]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM19373
+[761]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM428838
+[762]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM427928
+[763]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM426856
+[764]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM425330
+[765]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM423785
+[766]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM417798
+[767]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM417042
+[768]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM408923
+[769]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM407200
+[770]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM399975
+[771]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM392547
+[772]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM392282
+[773]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM392228
+[774]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM380185
+[775]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM371078
+[776]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM369871
+[777]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM347117
+[778]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM343623
+[779]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM325169
+[780]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM323284
+[781]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM302276
+[782]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM298439
+[783]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM276674
+[784]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM211498
+[785]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM155091
+[786]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM124106
+[787]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM122216
+[788]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM101097
+[789]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM96427
+[790]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM94263
+[791]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM73371
+[792]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM53746
+[793]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM34672
+[794]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM31548
+[795]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM442522
+[796]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM442136
+[797]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM436492
+[798]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM432102
+[799]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM384124
+[800]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM380515
+[801]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372502
+[802]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM355877
+[803]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM345115
+[804]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM339448
+[805]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM338443
+[806]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM332403
+[807]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM311813
