@@ -160,13 +160,13 @@ Commencementsee section 2
         > 
         > "Uniform Targeted Rate, for allotment or household units created:"
         > 
-        > (i)On or prior to 23 March 2002 1,327.05 (first 50%)
+        > (i)On or prior to 23 March 2002 $1,327.05 (first 50%)
         > 
-        > (ii)On or after 24 March 2002 7,516.60 (one-off)
+        > (ii)On or after 24 March 2002 $7,516.60 (one-off)
         > 
         > _Or_ 
         > 
-        > (iii)On or after 24 March 2002 517.60 (pa for 25 years) 
+        > (iii)On or after 24 March 2002 $517.60 (pa for 25 years) 
         > 
         > (but _see Note 1_ which follows) 
         > 
@@ -579,6 +579,12 @@ Preliminary provisions
     
     _lump sum contribution_ has the same meaning as in [section 117A][45] of the Local Government (Rating) Act 2002
     
+    _Mangawhai uniform annual charge_ means the targeted rate---
+        
+    *   (a) set by the Council under [section 16][24] of the Local Government (Rating) Act 2002 for each of the financial years relating to 2009/2010 to 2011/2012 (inclusive); and
+    
+    *   (b) referred to in the rates resolutions of the Council for those financial years as the ""uniform annual charge"" for the Mangawhai Urban Drainage District under the heading ""wastewater disposal rates""
+    
     _Mangawhai uniform targeted rate_--- 
         
     *   (a) means the targeted rate---
@@ -590,12 +596,6 @@ Preliminary provisions
         
     
     *   (b) includes any second payment of any 50% amount
-    
-    _Mangawhai uniform annual charge_ means the targeted rate---
-        
-    *   (a) set by the Council under [section 16][24] of the Local Government (Rating) Act 2002 for each of the financial years relating to 2009/2010 to 2011/2012 (inclusive); and
-    
-    *   (b) referred to in the rates resolutions of the Council for those financial years as the ""uniform annual charge"" for the Mangawhai Urban Drainage District under the heading ""wastewater disposal rates""
     
     _rate_, _rates assessment_, _rates invoice_, and _rating unit_ have the same meaning as in [section 5][46] of the Local Government (Rating) Act 2002
     
