@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 5 December 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Business, Innovation, and Employment.
 
@@ -235,7 +235,7 @@ This Act is administered by the Ministry of Business, Innovation, and Employment
 
 [90][105][][105][Registrar may apply to put society into liquidation][105]
 
-[90A][106][][106][Transitional provisions applying to liquidation of societies][106]
+[90A][106][][106][Transitional provisions applying to liquidation of societies][106] \[Repealed\]
 
 [91][107][][107][Registrar may forbid new business or the accepting of new members of society][107]
 
@@ -366,7 +366,7 @@ This Act is administered by the Ministry of Business, Innovation, and Employment
 
 [138][170][][170][Registrar may apply to put credit union into liquidation][170]
 
-[138A][171][][171][Transitional provisions applying to liquidation of credit unions][171]
+[138A][171][][171][Transitional provisions applying to liquidation of credit unions][171] \[Repealed\]
 
 [139][172][][172][Registrar may suspend business of credit union][172]
 
@@ -1950,13 +1950,13 @@ Friendly and other societies
         
     *   (a) amalgamating with another registered society or societies; or
     
-    *   (b) transferring its engagements to another registered society or company registered under the Companies Act 1955 or the [Companies Act 1993][206], as the case may be---
+    *   (b) transferring its engagements to another registered society or company registered under the [Companies Act 1993][206]---
     
     the Registrar shall not register the copy before the expiry of a period of 6 weeks commencing with the day on which he receives it, or, where objection has been made under [section 85][99], he shall not register the copy until the period specified in subsection (3) of that section has expired.
     
     Compare: 1909 No 12 ss 60, 63(1)(a), (2); Friendly Societies Act 1974 s 86 (UK)
     
-    Section 82(4)(b): amended, on 1 July 1994, by [section 2][257] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 82(4)(b): amended, on 5 December 2013, by [section 14][257] of the Companies Amendment Act 2013 (2013 No 111).
 
 #### Amalgamations, transfers of engagements, and conversions
 
@@ -1966,7 +1966,7 @@ Friendly and other societies
     
     (2) A registered society may by special resolution transfer its engagements to any other registered society which may (by special resolution or in such other manner as may be authorised by its rules) undertake to fulfil the engagements of that society.
     
-    (3) A registered society may by special resolution determine to transfer its engagements to a company registered under the Companies Act 1955 or the [Companies Act 1993][206], as the case may be.
+    (3) A registered society may by special resolution determine to transfer its engagements to a company registered under the [Companies Act 1993][206].
     
     (4) A society which has branches shall not amalgamate or transfer its engagements pursuant to this section except with the consent of the central body of the society.
     
@@ -1986,19 +1986,19 @@ Friendly and other societies
     
     *   (d) the payments (if any) to be made to the members of the relevant society, and of the other society or societies concerned, in consideration of the union or transfer of engagements.
     
-    (7) Subject to [section 97][114], where a registered society transfers all its engagements to a company registered under the Companies Act 1955 or the [Companies Act 1993][206], as the case may be, the registration of that society under this Act and the registration of its branches shall thereupon become void and shall be cancelled by the Registrar.
+    (7) Subject to [section 97][114], where a registered society transfers all its engagements to a company registered under the [Companies Act 1993][206], the registration of that society under this Act and the registration of its branches shall thereupon become void and shall be cancelled by the Registrar.
     
-    (8) Where a registered society transfers part of its engagements to a company registered under the Companies Act 1955 or the [Companies Act 1993][206], as the case may be, then, notwithstanding anything to the contrary in [section 52][61], the society may, with the approval of the Registrar, hold shares in that company subject to such conditions as the Registrar thinks fit.
+    (8) Where a registered society transfers part of its engagements to a company registered under the [Companies Act 1993][206], then, notwithstanding anything to the contrary in [section 52][61], the society may, with the approval of the Registrar, hold shares in that company subject to such conditions as the Registrar thinks fit.
     
     (9) No amalgamation or transfer of engagements shall prejudice any right of a creditor of either or any society which is a party thereto.
     
     Compare: 1909 No 12 ss 62, 63(1); Friendly Societies Act 1974 s 82(4), (5) (UK)
     
-    Section 83(3): amended, on 1 July 1994, by [section 2][257] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 83(3): amended, on 5 December 2013, by [section 14][257] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 83(7): amended, on 1 July 1994, by [section 2][257] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 83(7): amended, on 5 December 2013, by [section 14][257] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 83(8): amended, on 1 July 1994, by [section 2][257] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 83(8): amended, on 5 December 2013, by [section 14][257] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 84 Society may apply to be registered as company
     
@@ -2150,15 +2150,13 @@ Friendly and other societies
     
     (2) The provisions of this section shall apply in relation to a branch of a registered society as they apply in relation to such a society.
     
-    Section 90: substituted, on 1 July 1994, by [section 2][257] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 90: substituted, on 1 July 1994, by [section 2][261] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
 
 ##### 90A Transitional provisions applying to liquidation of societies
     
-*   (1) Nothing in [section 90][105] shall apply to or affect the winding up of a society commenced before the commencement of the [Company Law Reform (Transitional Provisions) Act 1994][261] or anything done by or in relation to a society under Part 6 of the Companies Act 1955 before the commencement of that Act, and section 90 of this Act and Part 6 of the Companies Act 1955, as in force before the commencement of that Act, shall continue in force in relation thereto as if that Act had not been passed.
+*   \[Repealed\]
     
-    (2) In the liquidation of a society under [Part 16][262] of the Companies Act 1993, nothing in any of [sections 292 to 299][263] of that Act applies in relation to any transaction entered into by a society, or any matter that arose, before the commencement of the [Company Law Reform (Transitional Provisions) Act 1994][261], but sections 309, 310, 311, 311A, 311B, and 311C of the Companies Act 1955, as in force before the commencement of that Act, shall continue to apply in respect of that transaction or matter as if that Act had not been passed.
-    
-    Section 90A: inserted, on 1 July 1994, by [section 2][257] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 90A: repealed, on 5 December 2013, by [section 14][257] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 91 Registrar may forbid new business or the accepting of new members of society
     
@@ -2369,9 +2367,9 @@ Credit unions
     
     *   (b) any person, society, or body of persons (whether corporate or unincorporate) lawfully carrying on the business of banking; or
     
-    *   (c) any building society registered under the [Building Societies Act 1965][264]; or
+    *   (c) any building society registered under the [Building Societies Act 1965][262]; or
     
-    *   (d) any unit trust within the meaning of the [Unit Trusts Act 1960][265]; or
+    *   (d) any unit trust within the meaning of the [Unit Trusts Act 1960][263]; or
     
     *   (e) the members of any fund in existence as at the commencement of this Act, being a fund which may otherwise be trading or carrying on business as a credit union but which is an integral part of an associated commercial or trading activity involving those members.
     
@@ -2391,9 +2389,9 @@ Credit unions
             
         *   (i) adults; or
         
-        *   (ii) charitable entities as defined by the [Charities Act 2005][266]; or
+        *   (ii) charitable entities as defined by the [Charities Act 2005][264]; or
         
-        *   (iii) incorporated societies registered under the [Incorporated Societies Act 1908][267]; and
+        *   (iii) incorporated societies registered under the [Incorporated Societies Act 1908][265]; and
         
         
     
@@ -2405,9 +2403,9 @@ Credit unions
     
     Compare: Credit Unions Act 1979 s 1(1), (2) (UK)
     
-    Section 100(a): substituted, on 22 November 2006, by [section 4(1)][268] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
+    Section 100(a): substituted, on 22 November 2006, by [section 4(1)][266] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
     
-    Section 100(d): substituted, on 22 November 2006, by [section 4(2)][268] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
+    Section 100(d): substituted, on 22 November 2006, by [section 4(2)][266] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
 
 ##### 101 Objects of credit union
     
@@ -2463,9 +2461,9 @@ Credit unions
     
     Compare: Credit Unions Act 1979, ss 1(4), (5), (6), 31 (UK)
     
-    Section 102(1): substituted, on 22 November 2006, by [section 5][269] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
+    Section 102(1): substituted, on 22 November 2006, by [section 5][267] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
     
-    Section 102(2): substituted, on 22 November 2006, by [section 5][269] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
+    Section 102(2): substituted, on 22 November 2006, by [section 5][267] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
     
     Section 102(4): substituted, on 26 April 2005, by [section 7][234] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
@@ -2485,9 +2483,9 @@ Credit unions
             
         *   (i) an adult; or
         
-        *   (ii) a charitable entity as defined by the [Charities Act 2005][266]; or
+        *   (ii) a charitable entity as defined by the [Charities Act 2005][264]; or
         
-        *   (iii) an incorporated society registered under the [Incorporated Societies Act 1908][267]; and
+        *   (iii) an incorporated society registered under the [Incorporated Societies Act 1908][265]; and
         
         
     
@@ -2499,7 +2497,7 @@ Credit unions
     
     Compare: Credit Unions Act 1979 s 4 (UK)
     
-    Section 104(1)(b): substituted, on 22 November 2006, by [section 6][270] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
+    Section 104(1)(b): substituted, on 22 November 2006, by [section 6][268] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
 
 ##### 105 Effect of rules on members of credit union
     
@@ -2517,15 +2515,15 @@ Credit unions
     
     Compare: 1915 No 64 s 6; Industrial and Provident Societies Act 1965 s 14(2) (UK)
     
-    Section 105(4): substituted, on 22 November 2006, by [section 7][271] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
+    Section 105(4): substituted, on 22 November 2006, by [section 7][269] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
 
 ##### 106 Membership of credit union, voting rights
     
-*   (1) An individual, a charitable entity as defined by the [Charities Act 2005][266], or an incorporated society registered under the [Incorporated Societies Act 1908][267] can be a member of a credit union, except that---
+*   (1) An individual, a charitable entity as defined by the [Charities Act 2005][264], or an incorporated society registered under the [Incorporated Societies Act 1908][265] can be a member of a credit union, except that---
         
     *   (a) [section 39][46] (which relates to the membership of minors) applies to any credit union as if it were a society registered under [Part 2][13]; and
     
-    *   (b) no charitable entity as defined by the [Charities Act 2005][266] or incorporated society registered under the [Incorporated Societies Act 1908][267] can be an officer of a credit union.
+    *   (b) no charitable entity as defined by the [Charities Act 2005][264] or incorporated society registered under the [Incorporated Societies Act 1908][265] can be an officer of a credit union.
     
     (2) Members need have no more than $10 in fully paid-up shares, although a credit union's rules may allow for a deposit of more or less than $10 in fully paid-up shares.
     
@@ -2545,13 +2543,13 @@ Credit unions
     
     Compare: Credit Unions Act 1979 s 5 (UK)
     
-    Section 106(1): substituted, on 22 November 2006, by [section 8][272] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
+    Section 106(1): substituted, on 22 November 2006, by [section 8][270] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
     
-    Section 106(2): substituted, on 22 November 2006, by [section 8][272] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
+    Section 106(2): substituted, on 22 November 2006, by [section 8][270] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
     
-    Section 106(3): repealed, on 31 August 2012, by [section 4(1)][273] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 106(3): repealed, on 31 August 2012, by [section 4(1)][271] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
     
-    Section 106(7): amended, on 31 August 2012, by [section 4(2)][273] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 106(7): amended, on 31 August 2012, by [section 4(2)][271] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
 
 #### Operation of credit union
 
@@ -2591,41 +2589,41 @@ Credit unions
     
     (5) To avoid doubt,---
         
-    *   (a) an offer of securities under subsection (1) is an offer to the public and subject to the provisions of the [Securities Act 1978][274]:
+    *   (a) an offer of securities under subsection (1) is an offer to the public and subject to the provisions of the [Securities Act 1978][272]:
     
     *   (b) credit union securities do not include shares under [section 107][127].
     
-    Section 107A: inserted, on 31 August 2012, by [section 5][275] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 107A: inserted, on 31 August 2012, by [section 5][273] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
 
 ##### 108 General prohibition on taking deposits
     
 *   \[Repealed\]
     
-    Section 108: repealed, on 31 August 2012, by [section 6][276] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 108: repealed, on 31 August 2012, by [section 6][274] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
 
 ##### 109 Power of credit union to borrow money
     
 *   A credit union may borrow money if the borrowing is authorised by, and in accordance with, its rules and trust deed.
     
-    Section 109: replaced, on 31 August 2012, by [section 7][277] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 109: replaced, on 31 August 2012, by [section 7][275] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
 
 ##### 109A Power of credit union to appoint trustee for debt securities
     
 *   Regardless of anything to the contrary in the rules of a credit union, a credit union may appoint a trustee and sign or amend a trust deed for the purposes of [section 33(2)][252] of the Securities Act 1978\.
     
-    Section 109A: inserted, on 15 April 2004, by [section 4][278] of the Friendly Societies and Credit Unions Amendment Act 2004 (2004 No 28).
+    Section 109A: inserted, on 15 April 2004, by [section 4][276] of the Friendly Societies and Credit Unions Amendment Act 2004 (2004 No 28).
 
 ##### 110 Credit union may make loans to members
     
 *   A credit union may make loans to members for such purposes and upon such security (or without security) and conditions as the rules of the credit union may provide either generally or specifically.
     
-    Section 110: replaced, on 31 August 2012, by [section 8][279] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 110: replaced, on 31 August 2012, by [section 8][277] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
 
 ##### 111 Minister may fix maximum amount of loans to members
     
 *   \[Repealed\]
     
-    Section 111: repealed, on 31 August 2012, by [section 9][280] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 111: repealed, on 31 August 2012, by [section 9][278] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
 
 ##### 112 Credit union property to vest in trustees
     
@@ -2647,7 +2645,7 @@ Credit unions
     
     *   (e) [section 33][39] (which relates to dealing with land under the [Land Transfer Act 1952][229]).
     
-    Section 112(1A): inserted, on 15 April 2004, by [section 5][281] of the Friendly Societies and Credit Unions Amendment Act 2004 (2004 No 28).
+    Section 112(1A): inserted, on 15 April 2004, by [section 5][279] of the Friendly Societies and Credit Unions Amendment Act 2004 (2004 No 28).
 
 ##### 113 Credit union may hold land
     
@@ -2673,17 +2671,17 @@ Credit unions
     
     Compare: Credit Unions Act 1979 s 12 (UK)
     
-    Section 113 heading: amended, on 31 August 2012, by [section 10(1)][282] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 113 heading: amended, on 31 August 2012, by [section 10(1)][280] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
     
-    Section 113(1): amended, on 31 August 2012, by [section 10(2)][282] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 113(1): amended, on 31 August 2012, by [section 10(2)][280] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
     
-    Section 113(3): repealed, on 31 August 2012, by [section 10(3)][282] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 113(3): repealed, on 31 August 2012, by [section 10(3)][280] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
     
-    Section 113(4): repealed, on 31 August 2012, by [section 10(3)][282] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 113(4): repealed, on 31 August 2012, by [section 10(3)][280] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
     
-    Section 113(5): repealed, on 31 August 2012, by [section 10(3)][282] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 113(5): repealed, on 31 August 2012, by [section 10(3)][280] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
     
-    Section 113(6): repealed, on 31 August 2012, by [section 10(3)][282] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 113(6): repealed, on 31 August 2012, by [section 10(3)][280] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
 
 ##### 114 Officers of credit union to give security
     
@@ -2709,9 +2707,9 @@ Credit unions
     
     (5) \[Repealed\]
     
-    Section 114(2): replaced, on 31 August 2012, by [section 11(1)][283] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 114(2): replaced, on 31 August 2012, by [section 11(1)][281] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
     
-    Section 114(5): repealed, on 31 August 2012, by [section 11(2)][283] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 114(5): repealed, on 31 August 2012, by [section 11(2)][281] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
 
 ##### 115 Duty of officers of credit union to account
     
@@ -2767,13 +2765,13 @@ Credit unions
     
     Section 117(2): substituted, on 1 October 1988, by [section 14(1)][242] of the Trustee Amendment Act 1988 (1988 No 119).
     
-    Section 117(2): amended, on 31 August 2012, by [section 12(1)][284] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 117(2): amended, on 31 August 2012, by [section 12(1)][282] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
     
-    Section 117(5) proviso: amended, on 31 August 2012, by [section 12(2)][284] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 117(5) proviso: amended, on 31 August 2012, by [section 12(2)][282] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
 
 #### Distribution to members
     
-*   Heading: inserted, on 31 August 2012, by [section 13][285] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+*   Heading: inserted, on 31 August 2012, by [section 13][283] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
 
 ##### 117A Meaning of distribution
     
@@ -2789,25 +2787,25 @@ Credit unions
     
     *   (b) a transfer may be made, or a debt incurred, by means of a purchase of property, the redemption or other acquisition of credit union securities or shares, a distribution of indebtedness, or by some other means.
     
-    Compare: 1993 No 105 [s 2][286]
+    Compare: 1993 No 105 [s 2][284]
     
-    Section 117A: inserted, on 31 August 2012, by [section 13][285] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 117A: inserted, on 31 August 2012, by [section 13][283] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
 
 ##### 117B Distribution must be authorised
     
 *   A distribution must be authorised in writing by the committee, or committee of management, as the case may be, of the credit union.
     
-    Compare: 2008 No 1 [s 40][287]
+    Compare: 2008 No 1 [s 40][285]
     
-    Section 117B: inserted, on 31 August 2012, by [section 13][285] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 117B: inserted, on 31 August 2012, by [section 13][283] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
 
 ##### 117C Distribution must not be authorised unless credit union solvent
     
 *   The committee, or committee of management, as the case may be, of the credit union must not authorise a distribution unless the committee is satisfied on reasonable grounds that, immediately after the distribution is made, the credit union will be solvent.
     
-    Compare: 2008 No 1 [s 41][288]
+    Compare: 2008 No 1 [s 41][286]
     
-    Section 117C: inserted, on 31 August 2012, by [section 13][285] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 117C: inserted, on 31 August 2012, by [section 13][283] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
 
 ##### 117D Solvency test
     
@@ -2829,9 +2827,9 @@ Credit unions
     
     *   (b) any claim that the credit union is entitled to make and can reasonably expect to be met to reduce or extinguish a contingent liability.
     
-    Compare: 2008 No 1 [s 42][289]
+    Compare: 2008 No 1 [s 42][287]
     
-    Section 117D: inserted, on 31 August 2012, by [section 13][285] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 117D: inserted, on 31 August 2012, by [section 13][283] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
 
 #### Disputes
 
@@ -2855,7 +2853,7 @@ Credit unions
     
 *   \[Repealed\]
     
-    Section 119: repealed, on 31 August 2012, by [section 14][290] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 119: repealed, on 31 August 2012, by [section 14][288] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
 
 ##### 120 Financial year of credit union
     
@@ -3183,15 +3181,15 @@ Credit unions
     
     Compare: Credit Unions Act 1979 s 16 (UK)
     
-    Section 134(1)(a): amended, on 31 August 2012, by [section 15(1)][291] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 134(1)(a): amended, on 31 August 2012, by [section 15(1)][289] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
     
-    Section 134(3): amended, on 31 August 2012, by [section 15(2)][291] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 134(3): amended, on 31 August 2012, by [section 15(2)][289] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
     
-    Section 134(5): amended, on 31 August 2012, by [section 15(3)][291] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 134(5): amended, on 31 August 2012, by [section 15(3)][289] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
     
-    Section 134(5): amended, on 1 July 1994, by [section 2][257] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 134(5): amended, on 1 July 1994, by [section 2][261] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
-    Section 134(6): repealed, on 31 August 2012, by [section 15(4)][291] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 134(6): repealed, on 31 August 2012, by [section 15(4)][289] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
 
 ##### 135 Amalgamation of credit unions and transfer of engagements
     
@@ -3215,9 +3213,9 @@ Credit unions
     
     Compare: Credit Unions Act 1979 s 21 (UK)
     
-    Section 135(4): substituted, on 22 November 2006, by [section 9][292] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
+    Section 135(4): substituted, on 22 November 2006, by [section 9][290] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
     
-    Section 135(4A): inserted, on 22 November 2006, by [section 9][292] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
+    Section 135(4A): inserted, on 22 November 2006, by [section 9][290] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
 
 ##### 136 Registrar may approve amalgamations or transfers of engagements of credit unions
     
@@ -3229,7 +3227,7 @@ Credit unions
 
 #### Inspection, liquidation, and suspension of business
     
-*   Heading: substituted, on 1 July 1994, by [section 2][257] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+*   Heading: substituted, on 1 July 1994, by [section 2][261] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
 
 ##### 137 Registrar may appoint inspectors or call special meeting
     
@@ -3249,15 +3247,13 @@ Credit unions
     
     *   (d) the liquidation of the credit union is in the public interest or is just and equitable having regard to the interests of all members of the credit union.
     
-    Section 138: substituted, on 22 November 2006, by [section 10][293] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
+    Section 138: substituted, on 22 November 2006, by [section 10][291] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
 
 ##### 138A Transitional provisions applying to liquidation of credit unions
     
-*   (1) Nothing in [section 138][170] shall apply to or affect the winding up of a credit union commenced before the commencement of the [Company Law Reform (Transitional Provisions) Act 1994][261] or anything done by or in relation to a credit union under Part 6 of the Companies Act 1955 before the commencement of that Act, and section 138 of this Act and Part 6 of the Companies Act 1955, as in force before the commencement of that Act, shall continue in force in relation thereto as if that Act had not been passed.
+*   \[Repealed\]
     
-    (2) In the liquidation of a credit union under [Part 16][262] of the Companies Act 1993, nothing in any of [sections 292 to 299][263] of that Act applies in relation to any transaction entered into by a credit union, or any matter that arose, before the commencement of the [Company Law Reform (Transitional Provisions) Act 1994][261], but sections 309, 310, 311, 311A, 311B, and 311C of the Companies Act 1955, as in force before the commencement of that Act, shall continue to apply in respect of that transaction or matter as if that Act had not been passed.
-    
-    Section 138A: inserted, on 1 July 1994, by [section 2][257] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 138A: repealed, on 5 December 2013, by [section 14][257] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 139 Registrar may suspend business of credit union
     
@@ -3329,9 +3325,9 @@ Credit unions
     
     (2) Where the registration of a credit union is cancelled pursuant to this section, whether as a result of an award or by agreement or otherwise, every officer of the credit union holding office immediately before such cancellation commits an offence if, at the expiry of a period of 3 months after the date of such cancellation or such extended period as the Registrar may allow, there has not been lodged with the Registrar a certificate signed by the liquidator, secretary, or other officer of the credit union approved by the Registrar that all property vested in the credit union has been duly conveyed or transferred by the credit union to the persons entitled.
     
-    Section 140(1): substituted, on 22 November 2006, by [section 11][294] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
+    Section 140(1): substituted, on 22 November 2006, by [section 11][292] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
     
-    Section 140(1A): inserted, on 22 November 2006, by [section 11][294] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
+    Section 140(1A): inserted, on 22 November 2006, by [section 11][292] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
 
 ##### 141 Liability of members on winding up
     
@@ -3347,7 +3343,7 @@ Credit unions
     
     *   (e) in the case of a withdrawable share which has been withdrawn, a person shall be taken to have ceased to be a member in respect of that share as from the date of the notice or application for withdrawal.
     
-    Section 141(d): amended, on 31 August 2012, by [section 16][295] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 141(d): amended, on 31 August 2012, by [section 16][293] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
 
 #### Nomination of shares
 
@@ -3403,9 +3399,9 @@ Credit unions
     
     *   (h) arranging, providing, or co-ordinating data processing or computer services for its component members.
     
-    Section 143(3)(e): substituted, on 22 November 2006, by [section 12(1)][296] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
+    Section 143(3)(e): substituted, on 22 November 2006, by [section 12(1)][294] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
     
-    Section 143(4): substituted, on 22 November 2006, by [section 12(2)][296] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
+    Section 143(4): substituted, on 22 November 2006, by [section 12(2)][294] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
 
 ##### 144 Membership of association
     
@@ -3423,7 +3419,7 @@ Credit unions
     
     (4) An association shall not be registered under a name identical with that under which any other existing association, credit union, or society is registered, or so nearly resembling that name as to be likely, or in any name likely, in the opinion of the Registrar, to deceive its component members or the public as to its nature or its identity or in any name which in his opinion is otherwise undesirable.
     
-    Section 145(2): amended, on 20 September 2007, by [section 10][297] of the Friendly Societies and Credit Unions Amendment Act 2007 (2007 No 59).
+    Section 145(2): amended, on 20 September 2007, by [section 10][295] of the Friendly Societies and Credit Unions Amendment Act 2007 (2007 No 59).
 
 ##### 146 Registration of association
     
@@ -3451,7 +3447,7 @@ Credit unions
     
     *   (e) [sections 124][153] and [142][176].
     
-    Section 146(3)(e): replaced, on 31 August 2012, by [section 17][298] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 146(3)(e): replaced, on 31 August 2012, by [section 17][296] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
 
 ## Part 4  
 Miscellaneous provisions
@@ -3560,7 +3556,7 @@ Miscellaneous provisions
     
     (4) Every person who commits an offence against this Act for which no other penalty is prescribed in this Act shall be liable on conviction to a fine not exceeding $750 and, in the case of a continuing offence, to a further fine not exceeding $50 for every week or part of a week during which the offence continues.
     
-    (5) Despite anything to the contrary in [section 25][299] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the offence was actually brought to the knowledge of the Registrar; but no charging document may be filed after the expiration of 3 years after the date on which the offence was committed.
+    (5) Despite anything to the contrary in [section 25][297] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the offence was actually brought to the knowledge of the Registrar; but no charging document may be filed after the expiration of 3 years after the date on which the offence was committed.
     
     Section 153(4): amended, on 1 July 2013, by [section 413][220] of the Criminal Procedure Act 2011 (2011 No 81).
     
@@ -3576,15 +3572,15 @@ Miscellaneous provisions
 
 ##### 155 Status of trustees and officers for purposes of Crimes Act 1961
     
-*   (1) The trustees of a registered society or branch or credit union shall be deemed to be trustees within the meaning of [section 229][300] of the Crimes Act 1961\.
+*   (1) The trustees of a registered society or branch or credit union shall be deemed to be trustees within the meaning of [section 229][298] of the Crimes Act 1961\.
     
     (2) \[Repealed\]
     
     Compare: 1909 No 12 ss 79, 80
     
-    Section 155(1): amended, on 1 October 2003, by [section 34][301] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 155(1): amended, on 1 October 2003, by [section 34][299] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 155(2): repealed, on 1 October 2003, by [section 34][301] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 155(2): repealed, on 1 October 2003, by [section 34][299] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 156 Liability of officers and of members of committee on commission of offence
     
@@ -3777,7 +3773,7 @@ Matters to be provided for by the rules of or for branches registered under Part
 
 *   9 The manner in which disputes of a kind referred to in [section 78(2)][90] must be settled.
         
-    *   Schedule 3 clause 9: substituted, on 15 April 2004, by [section 6][302] of the Friendly Societies and Credit Unions Amendment Act 2004 (2004 No 28).
+    *   Schedule 3 clause 9: substituted, on 15 April 2004, by [section 6][300] of the Friendly Societies and Credit Unions Amendment Act 2004 (2004 No 28).
     
     
 
@@ -3824,7 +3820,7 @@ Matters to be provided for in rules of credit unions
 
 *   13 The manner in which disputes of a kind referred to in [section 78(2)][90] must be settled.
         
-    *   Schedule 4 clause 13: substituted, on 15 April 2004, by [section 7][303] of the Friendly Societies and Credit Unions Amendment Act 2004 (2004 No 28).
+    *   Schedule 4 clause 13: substituted, on 15 April 2004, by [section 7][301] of the Friendly Societies and Credit Unions Amendment Act 2004 (2004 No 28).
     
     
 
@@ -3864,11 +3860,11 @@ Enactments amended
 
 ##### Administration Act 1969 (1969 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][304]._
+_Amendment(s) incorporated in the [Act(s)][302]._
 
 ##### Income Tax Act 1976 (1976 No 65) 
 
-_Amendment(s) incorporated in the [Act(s)][305]._
+_Amendment(s) incorporated in the [Act(s)][303]._
 
 ##### Labour Department Act 1954 (1954 No 71) (RS Vol 7, p 521)
 
@@ -3880,15 +3876,15 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Stamp and Cheque Duties Act 1971 (1971 No 51)
 
-_Amendment(s) incorporated in the [Act(s)][306]._
+_Amendment(s) incorporated in the [Act(s)][304]._
 
 ##### Trade Unions Act 1908 (1908 No 196) (1957 Reprint, Vol 15, p 827)
 
-_Amendment(s) incorporated in the [Act(s)][307]._
+_Amendment(s) incorporated in the [Act(s)][305]._
 
 ##### Unit Trusts Act 1960 (1960 No 99)
 
-_Amendment(s) incorporated in the [Act(s)][308]._
+_Amendment(s) incorporated in the [Act(s)][306]._
 
 ---
 
@@ -3899,11 +3895,11 @@ Enactments repealed
 
 ##### Age of Majority Act 1970 (1970 No 137)
 
-_Amendment(s) incorporated in the [Act(s)][309]._
+_Amendment(s) incorporated in the [Act(s)][307]._
 
 ##### Crown Proceedings Act 1950 (1950 No 54) (RS Vol 2, p 51)
 
-_Amendment(s) incorporated in the [Act(s)][310]._
+_Amendment(s) incorporated in the [Act(s)][308]._
 
 ##### Friendly Societies Act 1909 (1909 No 12) (RS Vol 6, p 417)
 
@@ -3951,7 +3947,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Friendly Societies and Credit Unions Amendment Act 2006][311].
+*   This Act is the [Friendly Societies and Credit Unions Amendment Act 2006][309].
 
 ##### 2 Commencement
     
@@ -3963,70 +3959,29 @@ Commencementsee section 2
     
 *   Every application, investigation, proceeding, action, or other matter concerning a common bond that was commenced under section 135(4)(b), 138(c), or 140(1)(c)(ii) before the commencement of this Act may continue as if this Act had not been passed.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Friendly Societies and Credit Unions Act 1982\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][312] ![](/images/external_link.gif).
+*   This is a reprint of the Friendly Societies and Credit Unions Act 1982 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][313] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][310] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][311] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][314] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][312] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][313] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][315] and [17E][316] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Companies Amendment Act 2013 (2013 No 111): [section 14][257]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this eprint (most recent first)
-    
-*   [Friendly Societies and Credit Unions Amendment Act 2012][317] (2012 No 64)
+    [Friendly Societies and Credit Unions Amendment Act 2012][314] (2012 No 64)
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][220]
     
@@ -4036,25 +3991,25 @@ Commencementsee section 2
     
     Insurance (Prudential Supervision) Act 2010 (2010 No 111): [section 241(2)][216]
     
-    [Friendly Societies and Credit Unions (Threshold for Obligation to Appoint Auditors) Order 2010][318] (SR 2010/278)
+    [Friendly Societies and Credit Unions (Threshold for Obligation to Appoint Auditors) Order 2010][315] (SR 2010/278)
     
-    [Friendly Societies and Credit Unions (Maximum Gross Sum) Order 2008][319] (SR 2008/353)
+    [Friendly Societies and Credit Unions (Maximum Gross Sum) Order 2008][316] (SR 2008/353)
     
     Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][237]
     
-    [Friendly Societies and Credit Unions Amendment Act 2007][320] (2007 No 59)
+    [Friendly Societies and Credit Unions Amendment Act 2007][317] (2007 No 59)
     
-    [Friendly Societies and Credit Unions Amendment Act 2006][311] (2006 No 65)
+    [Friendly Societies and Credit Unions Amendment Act 2006][309] (2006 No 65)
     
     Coroners Act 2006 (2006 No 38): [section 146][238]
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][234]
     
-    [Friendly Societies and Credit Unions (Maximum Annuity) Order 2004][321] (SR 2004/210)
+    [Friendly Societies and Credit Unions (Maximum Annuity) Order 2004][318] (SR 2004/210)
     
-    [Friendly Societies and Credit Unions Amendment Act 2004][322] (2004 No 28)
+    [Friendly Societies and Credit Unions Amendment Act 2004][319] (2004 No 28)
     
-    Crimes Amendment Act 2003 (2003 No 39): [section 34][301]
+    Crimes Amendment Act 2003 (2003 No 39): [section 34][299]
     
     Public Trust Act 2001 (2001 No 100): [section 170(1)][244]
     
@@ -4066,7 +4021,7 @@ Commencementsee section 2
     
     Banking Act Repeal Act 1995 (1995 No 32): [section 2(2)][211]
     
-    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][257]
+    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][261]
     
     Companies Act Repeal Act 1993 (1993 No 126): [section 2(1)][210]
     
@@ -4094,7 +4049,7 @@ Commencementsee section 2
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM59734
 [2]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM59736
 [3]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM59737
@@ -4351,69 +4306,66 @@ Commencementsee section 2
 [254]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM405707
 [255]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM133281
 [256]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM134169
-[257]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM328986
+[257]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM5620822
 [258]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM320111
 [259]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM377310
 [260]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM968304
-[261]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM328980
-[262]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM321666
-[263]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM321975
-[264]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM367767
-[265]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM325263
-[266]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM344367
-[267]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM175774
-[268]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392480
-[269]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392481
-[270]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392483
-[271]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392484
-[272]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392485
-[273]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444313
-[274]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM25999
-[275]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444314
-[276]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444316
-[277]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444317
-[278]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM244509
-[279]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444319
-[280]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444321
-[281]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM244511
-[282]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444322
-[283]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444323
-[284]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444324
-[285]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444300
-[286]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM319576
-[287]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM1139189
-[288]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM1139190
-[289]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM1139191
-[290]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444325
-[291]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444326
-[292]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392486
-[293]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392487
-[294]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392489
-[295]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444327
-[296]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392490
-[297]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM968305
-[298]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444328
-[299]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM3360067
-[300]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM330233
-[301]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM200436
-[302]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM244512
-[303]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM244514
-[304]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM393030
-[305]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM2474803
-[306]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM399732
-[307]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM175701
-[308]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM325269
-[309]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM396810
-[310]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM262416
-[311]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392473
-[312]: http://www.pco.parliament.govt.nz/reprints/
-[313]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM195439
-[314]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[315]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM195468
-[316]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM195470
-[317]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444306
-[318]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM3178900
-[319]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM1611400
-[320]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM968292
-[321]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM272592
-[322]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM244502
+[261]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM328986
+[262]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM367767
+[263]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM325263
+[264]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM344367
+[265]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM175774
+[266]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392480
+[267]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392481
+[268]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392483
+[269]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392484
+[270]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392485
+[271]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444313
+[272]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM25999
+[273]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444314
+[274]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444316
+[275]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444317
+[276]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM244509
+[277]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444319
+[278]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444321
+[279]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM244511
+[280]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444322
+[281]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444323
+[282]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444324
+[283]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444300
+[284]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM319576
+[285]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM1139189
+[286]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM1139190
+[287]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM1139191
+[288]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444325
+[289]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444326
+[290]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392486
+[291]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392487
+[292]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392489
+[293]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444327
+[294]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392490
+[295]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM968305
+[296]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444328
+[297]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM3360067
+[298]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM330233
+[299]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM200436
+[300]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM244512
+[301]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM244514
+[302]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM393030
+[303]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM2474803
+[304]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM399732
+[305]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM175701
+[306]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM325269
+[307]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM396810
+[308]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM262416
+[309]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392473
+[310]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM2998516
+[311]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM2998515
+[312]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM2998532
+[313]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[314]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444306
+[315]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM3178900
+[316]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM1611400
+[317]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM968292
+[318]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM272592
+[319]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM244502
