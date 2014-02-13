@@ -1,5 +1,5 @@
 Reprint  
-as at 1 January 2014
+as at 1 February 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -4379,13 +4379,11 @@ Pest management
     
     *   (c) send a copy of the direction to every management agency and regional council.
     
-    (9) The national policy direction---
-        
-    *   (a) is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][550]; and
-    
-    *   (b) is not a regulation for the purposes of the [Acts and Regulations Publication Act 1989][551].
+    (9) The national policy direction is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][550] and must be presented to the House of Representatives under [section 41][551] of that Act.
     
     Section 57: replaced, on 18 September 2012, by [section 39][549] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    
+    Section 57(9): replaced, on 1 February 2014, by [section 77(3)][552] of the Legislation Act 2012 (2012 No 119).
 
 ##### 58 Process for amending or revoking and replacing national policy direction
     
@@ -4407,13 +4405,11 @@ Pest management
     
     (3) If the national policy direction is to be revoked and replaced, the Minister must follow the process in [section 57(1) to (8)][122].
     
-    (4) An amendment under subsection (1) or (2) or a replacement direction under subsection (3)---
-        
-    *   (a) is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][550]; and
-    
-    *   (b) is not a regulation for the purposes of the [Acts and Regulations Publication Act 1989][551].
+    (4) An amendment under subsection (1) or (2) or a replacement direction under subsection (3) is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][550] and must be presented to the House of Representatives under [section 41][551] of that Act.
     
     Section 58: replaced, on 18 September 2012, by [section 39][549] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    
+    Section 58(4): replaced, on 1 February 2014, by [section 77(3)][552] of the Legislation Act 2012 (2012 No 119).
 
 #### Pest management plans
 
@@ -4785,13 +4781,11 @@ Pest management
     
 *   (1) If the Minister is satisfied of the matters in [section 65][132], the Minister may recommend to the Governor-General that an Order in Council be made making the plan.
     
-    (2) The order---
-        
-    *   (a) is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][550]; and
-    
-    *   (b) is a regulation for the purposes of the [Acts and Regulations Publication Act 1989][551].
+    (2) The order is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][550] and must be presented to the House of Representatives under [section 41][551] of that Act.
     
     Section 66: replaced, on 18 September 2012, by [section 39][549] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    
+    Section 66(2): replaced, on 1 February 2014, by [section 77(3)][552] of the Legislation Act 2012 (2012 No 119).
 
 ##### 67 Exemptions from rules
     
@@ -4841,13 +4835,11 @@ Pest management
     
     *   (e) extensions of the period of an exemption must be notified in the _Gazette_.
     
-    (9) Exemptions---
-        
-    *   (a) are regulations for the purposes of the [Regulations (Disallowance) Act 1989][550]; and
-    
-    *   (b) are not regulations for the purposes of the [Acts and Regulations Publication Act 1989][551].
+    (9) An exemption is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][550] and must be presented to the House of Representatives under [section 41][551] of that Act.
     
     Section 67: replaced, on 18 September 2012, by [section 39][549] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    
+    Section 67(9): replaced, on 1 February 2014, by [section 77(3)][552] of the Legislation Act 2012 (2012 No 119).
 
 #### Regional pest management plans
     
@@ -5287,7 +5279,7 @@ Pest management
     
     (5) The application must be made within 15 working days after the date of the public notice.
     
-    (6) The application is made under [section 291][552] of the Resource Management Act 1991 and regulations made under the [Resource Management Act 1991][450].
+    (6) The application is made under [section 291][553] of the Resource Management Act 1991 and regulations made under the [Resource Management Act 1991][450].
     
     (7) The court must hold a public hearing on the application.
     
@@ -5737,13 +5729,11 @@ Pest management
     
 *   (1) If the Minister is satisfied of the matters in [section 85][155], the Minister may recommend to the Governor-General that an Order in Council be made making the plan.
     
-    (2) The order---
-        
-    *   (a) is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][550]; and
-    
-    *   (b) is a regulation for the purposes of the [Acts and Regulations Publication Act 1989][551].
+    (2) The order is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][550] and must be presented to the House of Representatives under [section 41][551] of that Act.
     
     Section 86: replaced, on 18 September 2012, by [section 39][549] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    
+    Section 86(2): replaced, on 1 February 2014, by [section 77(3)][552] of the Legislation Act 2012 (2012 No 119).
 
 ##### 87 Exemptions from rules
     
@@ -5751,7 +5741,7 @@ Pest management
         
     *   (a) the New Zealand Defence Force:
     
-    *   (b) a Civil Defence Emergency Management Group established under the [Civil Defence Emergency Management Act 2002][553]:
+    *   (b) a Civil Defence Emergency Management Group established under the [Civil Defence Emergency Management Act 2002][554]:
     
     *   (c) the New Zealand Police:
     
@@ -5761,13 +5751,13 @@ Pest management
     
     *   (f) rural fire authorities:
     
-    *   (g) DHBs, as defined in [section 6][554] of the New Zealand Public Health and Disability Act 2000\.
+    *   (g) DHBs, as defined in [section 6][555] of the New Zealand Public Health and Disability Act 2000\.
     
     (2) An emergency is,---
         
     *   (a) for the purposes of subsection (1)(a), an emergency relating to---
             
-        *   (i) a threat to New Zealand's interests under [section 5][555] of the Defence Act 1990:
+        *   (i) a threat to New Zealand's interests under [section 5][556] of the Defence Act 1990:
         
         *   (ii) the safety of human life:
         
@@ -5779,7 +5769,7 @@ Pest management
         
         
     
-    *   (b) for the purposes of subsection (1)(b) to (g), a situation as described in paragraphs (a) and (b) of the definition of _emergency_ in [section 4][556] of the Civil Defence Emergency Management Act 2002\.
+    *   (b) for the purposes of subsection (1)(b) to (g), a situation as described in paragraphs (a) and (b) of the definition of _emergency_ in [section 4][557] of the Civil Defence Emergency Management Act 2002\.
     
     (3) The Minister may exempt a person from a requirement in a rule, without conditions or on conditions that the Minister considers appropriate.
     
@@ -5827,13 +5817,11 @@ Pest management
     
     *   (e) extensions of the period of an exemption must be notified in the _Gazette_.
     
-    (11) Exemptions---
-        
-    *   (a) are regulations for the purposes of the [Regulations (Disallowance) Act 1989][550]; and
-    
-    *   (b) are not regulations for the purposes of the [Acts and Regulations Publication Act 1989][551].
+    (11) An exemption is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][550] and must be presented to the House of Representatives under [section 41][551] of that Act.
     
     Section 87: replaced, on 18 September 2012, by [section 39][549] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    
+    Section 87(11): replaced, on 1 February 2014, by [section 77(3)][552] of the Legislation Act 2012 (2012 No 119).
 
 #### Regional pathway management plans
     
@@ -6231,7 +6219,7 @@ Pest management
     
     (5) The application must be made within 15 working days after the date of the public notice.
     
-    (6) The application is made under [section 291][552] of the Resource Management Act 1991 and regulations made under the [Resource Management Act 1991][450].
+    (6) The application is made under [section 291][553] of the Resource Management Act 1991 and regulations made under the [Resource Management Act 1991][450].
     
     (7) The court must hold a public hearing on the application.
     
@@ -6299,13 +6287,13 @@ Pest management
     
     *   (f) rural fire authorities:
     
-    *   (g) DHBs, as defined in [section 6][554] of the New Zealand Public Health and Disability Act 2000\.
+    *   (g) DHBs, as defined in [section 6][555] of the New Zealand Public Health and Disability Act 2000\.
     
     (2) An emergency is,---
         
     *   (a) for the purposes of subsection (1)(a), an emergency relating to---
             
-        *   (i) a threat to New Zealand's interests under [section 5][555] of the Defence Act 1990:
+        *   (i) a threat to New Zealand's interests under [section 5][556] of the Defence Act 1990:
         
         *   (ii) the safety of human life:
         
@@ -6317,7 +6305,7 @@ Pest management
         
         
     
-    *   (b) for the purposes of subsection (1)(b) to (g), a situation as described in paragraphs (a) and (b) of the definition of _emergency_ in [section 4][556] of the Civil Defence Emergency Management Act 2002\.
+    *   (b) for the purposes of subsection (1)(b) to (g), a situation as described in paragraphs (a) and (b) of the definition of _emergency_ in [section 4][557] of the Civil Defence Emergency Management Act 2002\.
     
     (3) The council may exempt a person from a requirement in a rule, without conditions or on conditions that the council considers appropriate.
     
@@ -6625,7 +6613,7 @@ Pest management
     
     (2) A person may apply to the Environment Court on the basis that there is an inconsistency between the national policy direction and the regional pest management plan or the regional pathway management plan.
     
-    (3) The application is made under [section 291][552] of the Resource Management Act 1991 and regulations made under the [Resource Management Act 1991][450].
+    (3) The application is made under [section 291][553] of the Resource Management Act 1991 and regulations made under the [Resource Management Act 1991][450].
     
     (4) The court must hold a public hearing on the application.
     
@@ -6651,11 +6639,7 @@ Pest management
     
     (2) The Governor-General may make the order.
     
-    (3) The order---
-        
-    *   (a) is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][550]; and
-    
-    *   (b) is a regulation for the purposes of the [Acts and Regulations Publication Act 1989][551].
+    (3) The order is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][550] and must be presented to the House of Representatives under [section 41][551] of that Act.
     
     ###### Regional pest management plan or regional pathway management plan
     
@@ -6666,6 +6650,8 @@ Pest management
     *   (b) is not inconsistent with the national policy direction.
     
     Section 100G: inserted, on 18 September 2012, by [section 39][549] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    
+    Section 100G(3): replaced, on 1 February 2014, by [section 77(3)][552] of the Legislation Act 2012 (2012 No 119).
 
 #### Councils' powers and duties relating to regional plans
     
@@ -6747,7 +6733,7 @@ Pest management
         
     *   (a) the dispute must be submitted to arbitration; and
     
-    *   (b) the arbitration must be conducted under the [Arbitration Act 1996][557].
+    *   (b) the arbitration must be conducted under the [Arbitration Act 1996][558].
     
     Section 100I: inserted, on 18 September 2012, by [section 39][549] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
@@ -6813,13 +6799,11 @@ Pest management
     
     (6) A levy order may be made from time to time.
     
-    (7) The order---
-        
-    *   (a) is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][550]; and
-    
-    *   (b) is a regulation for the purposes of the [Acts and Regulations Publication Act 1989][550].
+    (7) The order is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][550] and must be presented to the House of Representatives under [section 41][551] of that Act.
     
     Section 100L: inserted, on 18 September 2012, by [section 39][549] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    
+    Section 100L(7): replaced, on 1 February 2014, by [section 77(3)][552] of the Legislation Act 2012 (2012 No 119).
 
 ##### 100M Effect of order
     
@@ -6925,7 +6909,7 @@ Pest management
         
     *   (a) keep an account---
             
-        *   (i) at a registered bank within the meaning of the [Reserve Bank of New Zealand Act 1989][558]; and
+        *   (i) at a registered bank within the meaning of the [Reserve Bank of New Zealand Act 1989][559]; and
         
         *   (ii) named in a way that identifies it as a trust account kept by the person responsible for collecting the levy; and
         
@@ -6987,13 +6971,13 @@ Pest management
     
     (6) A person is qualified for appointment as an auditor only if the person is---
         
-    *   (a) a chartered accountant within the meaning of the [New Zealand Institute of Chartered Accountants Act 1996][559]; or
+    *   (a) a chartered accountant within the meaning of the [New Zealand Institute of Chartered Accountants Act 1996][560]; or
     
     *   (b) a member, fellow, or associate of an association of accountants that is---
             
         *   (i) constituted in a Commonwealth country outside New Zealand; and
         
-        *   (ii) approved to audit company financial statements by the Minister of the Crown responsible under a warrant or as authorised by the Prime Minister for the administration of the [Companies Act 1993][560]; and
+        *   (ii) approved to audit company financial statements by the Minister of the Crown responsible under a warrant or as authorised by the Prime Minister for the administration of the [Companies Act 1993][561]; and
         
         *   (iii) named as approved under subparagraph (ii) in a notice published in the _Gazette_ and current at the time of the appointment.
         
@@ -7055,7 +7039,7 @@ Pest management
     
     *   (e) for the purposes of an action for the recovery of an amount due under this Act.
     
-    (6) The [Official Information Act 1982][561] applies to information held by a Minister that was obtained under this section.
+    (6) The [Official Information Act 1982][562] applies to information held by a Minister that was obtained under this section.
     
     Section 100Q: inserted, on 18 September 2012, by [section 39][549] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
@@ -7089,9 +7073,9 @@ Pest management
     
     *   (b) is not revoked with effect before or on 1 July in the next year; and
     
-    *   (c) is not stopped from having effect before or on 1 July in the next year by the application of [section 5][562] of the Regulations (Disallowance) Act 1989; and
+    *   (c) is not stopped from having effect before or on 1 July in the next year by the application of [Part 3][563] of the Legislation Act 2012; and
     
-    *   (d) will not be stopped from having effect before or on 1 July in the next year by the application of [section 5][562] of the Regulations (Disallowance) Act 1989\.
+    *   (d) will not be stopped from having effect before or on 1 July in the next year by the application of [Part 3][563] of the Legislation Act 2012\.
     
     (2) The order is deemed to have been revoked at the close of 30 June in the next year unless it has been confirmed by an Act of Parliament passed before or on that day.
     
@@ -7101,13 +7085,21 @@ Pest management
     
     *   (b) is not revoked with effect before or on 1 January in the year after the next year; and
     
-    *   (c) is not stopped from having effect before or on 1 January in the year after the next year by the application of [section 5][562] of the Regulations (Disallowance) Act 1989; and
+    *   (c) is not stopped from having effect before or on 1 January in the year after the next year by the application of [Part 3][563] of the Legislation Act 2012; and
     
-    *   (d) will not be stopped from having effect before or on 1 January in the year after the next year by the application of [section 5][562] of the Regulations (Disallowance) Act 1989\.
+    *   (d) will not be stopped from having effect before or on 1 January in the year after the next year by the application of [Part 3][563] of the Legislation Act 2012\.
     
     (4) The order is deemed to have been revoked at the close of 31 December in the year after the year in which it was made unless it has been confirmed by an Act of Parliament passed before or on that day.
     
     Section 100S: inserted, on 18 September 2012, by [section 39][549] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    
+    Section 100S(1)(c): amended, on 1 February 2014, by [section 77(3)][552] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 100S(1)(d): amended, on 1 February 2014, by [section 77(3)][552] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 100S(3)(c): amended, on 1 February 2014, by [section 77(3)][552] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 100S(3)(d): amended, on 1 February 2014, by [section 77(3)][552] of the Legislation Act 2012 (2012 No 119).
 
 #### Funding from rates
     
@@ -7444,13 +7436,11 @@ Government/industry agreement for readiness or response
     
     (8) A levy order may be made from time to time.
     
-    (9) A levy order---
-        
-    *   (a) is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][550]; and
-    
-    *   (b) is a regulation for the purposes of the [Acts and Regulations Publication Act 1989][551].
+    (9) A levy order is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][550] and must be presented to the House of Representatives under [section 41][551] of that Act.
     
     Section 100ZB: inserted, on 18 September 2012, by [section 39][549] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    
+    Section 100ZB(9): replaced, on 1 February 2014, by [section 77(3)][552] of the Legislation Act 2012 (2012 No 119).
 
 ##### 100ZC Effect of order
     
@@ -7566,7 +7556,7 @@ Government/industry agreement for readiness or response
         
     *   (a) keep an account---
             
-        *   (i) at a registered bank within the meaning of the [Reserve Bank of New Zealand Act 1989][558]; and
+        *   (i) at a registered bank within the meaning of the [Reserve Bank of New Zealand Act 1989][559]; and
         
         *   (ii) named in a way that identifies it as a trust account kept by the person responsible for collecting the levy; and
         
@@ -7628,13 +7618,13 @@ Government/industry agreement for readiness or response
     
     (6) A person is qualified for appointment as an auditor only if the person is---
         
-    *   (a) a chartered accountant within the meaning of the [New Zealand Institute of Chartered Accountants Act 1996][559]; or
+    *   (a) a chartered accountant within the meaning of the [New Zealand Institute of Chartered Accountants Act 1996][560]; or
     
     *   (b) a member, fellow, or associate of an association of accountants that is---
             
         *   (i) constituted in a Commonwealth country outside New Zealand; and
         
-        *   (ii) approved to audit company financial statements by the Minister of the Crown responsible under a warrant or as authorised by the Prime Minister for the administration of the [Companies Act 1993][560]; and
+        *   (ii) approved to audit company financial statements by the Minister of the Crown responsible under a warrant or as authorised by the Prime Minister for the administration of the [Companies Act 1993][561]; and
         
         *   (iii) named as approved under subparagraph (ii) in a notice published in the _Gazette_ and current at the time of the appointment.
         
@@ -7694,7 +7684,7 @@ Government/industry agreement for readiness or response
     
     *   (e) for the purposes of an action for the recovery of an amount due under this Act.
     
-    (5) The [Official Information Act 1982][561] applies to information held by a Minister that was obtained under this section.
+    (5) The [Official Information Act 1982][562] applies to information held by a Minister that was obtained under this section.
     
     Section 100ZG: inserted, on 18 September 2012, by [section 39][549] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
@@ -7706,9 +7696,9 @@ Government/industry agreement for readiness or response
     
     *   (b) is not revoked with effect before or on 1 July in the next year; and
     
-    *   (c) is not stopped from having effect before or on 1 July in the next year by the application of [section 5][562] of the Regulations (Disallowance) Act 1989; and
+    *   (c) is not stopped from having effect before or on 1 July in the next year by the application of [Part 3][563] of the Legislation Act 2012; and
     
-    *   (d) will not be stopped from having effect before or on 1 July in the next year by the application of [section 5][562] of the Regulations (Disallowance) Act 1989\.
+    *   (d) will not be stopped from having effect before or on 1 July in the next year by the application of [Part 3][563] of the Legislation Act 2012\.
     
     (2) The order is deemed to have been revoked at the close of 30 June in the next year unless it has been confirmed by an Act of Parliament passed before or on that day.
     
@@ -7718,13 +7708,21 @@ Government/industry agreement for readiness or response
     
     *   (b) is not revoked with effect before or on 1 January in the year after the next year; and
     
-    *   (c) is not stopped from having effect before or on 1 January in the year after the next year by the application of [section 5][562] of the Regulations (Disallowance) Act 1989; and
+    *   (c) is not stopped from having effect before or on 1 January in the year after the next year by the application of [Part 3][563] of the Legislation Act 2012; and
     
-    *   (d) will not be stopped from having effect before or on 1 January in the year after the next year by the application of [section 5][562] of the Regulations (Disallowance) Act 1989\.
+    *   (d) will not be stopped from having effect before or on 1 January in the year after the next year by the application of [Part 3][563] of the Legislation Act 2012\.
     
     (4) The order is deemed to have been revoked at the close of 31 December in the year after the year in which it was made unless it has been confirmed by an Act of Parliament passed before or on that day.
     
     Section 100ZH: inserted, on 18 September 2012, by [section 39][549] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    
+    Section 100ZH(1)(c): amended, on 1 February 2014, by [section 77(3)][552] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 100ZH(1)(d): amended, on 1 February 2014, by [section 77(3)][552] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 100ZH(3)(c): amended, on 1 February 2014, by [section 77(3)][552] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 100ZH(3)(d): amended, on 1 February 2014, by [section 77(3)][552] of the Legislation Act 2012 (2012 No 119).
 
 ## Part 6  
 Administrative provisions
@@ -7745,13 +7743,13 @@ Administrative provisions
     
     Compare: 1967 No 50 s 2
     
-    Section 101(2): substituted, on 26 November 1997, by [section 66][563] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 101(2): substituted, on 26 November 1997, by [section 66][564] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 101(2A): inserted, on 8 July 2003, by [section 11][564] of the Biosecurity Amendment Act 2003 (2003 No 38).
+    Section 101(2A): inserted, on 8 July 2003, by [section 11][565] of the Biosecurity Amendment Act 2003 (2003 No 38).
     
-    Section 101(3): added, on 26 November 1997, by [section 66][563] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 101(3): added, on 26 November 1997, by [section 66][564] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 101(4): added, on 15 December 2005, by [section 3][565] of the Biosecurity Amendment Act 2005 (2005 No 91).
+    Section 101(4): added, on 15 December 2005, by [section 3][566] of the Biosecurity Amendment Act 2005 (2005 No 91).
 
 ##### 102 Deputy chief technical officers
     
@@ -7763,13 +7761,13 @@ Administrative provisions
     
     (3) The chief executive (including the Director-General) may not delegate to any person the power to appoint deputy chief technical officers.
     
-    Section 102(1): substituted, on 26 November 1997, by [section 67][566] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 102(1): substituted, on 26 November 1997, by [section 67][567] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 102(1A): inserted, on 8 July 2003, by [section 12][567] of the Biosecurity Amendment Act 2003 (2003 No 38).
+    Section 102(1A): inserted, on 8 July 2003, by [section 12][568] of the Biosecurity Amendment Act 2003 (2003 No 38).
     
-    Section 102(2): amended, on 27 March 2008, by [section 4][568] of the Biosecurity Amendment Act 2008 (2008 No 6).
+    Section 102(2): amended, on 27 March 2008, by [section 4][569] of the Biosecurity Amendment Act 2008 (2008 No 6).
     
-    Section 102(3): added, on 15 December 2005, by [section 4][569] of the Biosecurity Amendment Act 2005 (2005 No 91).
+    Section 102(3): added, on 15 December 2005, by [section 4][570] of the Biosecurity Amendment Act 2005 (2005 No 91).
 
 ##### 103 Inspectors, authorised persons, and accredited persons
     
@@ -7803,29 +7801,29 @@ Administrative provisions
     
     (8) Every inspector, authorised person, and accredited person shall in the performance of functions, powers, and duties for the purposes of this Act use his or her best endeavours to comply with and give effect to any relevant performance or technical standards.
     
-    Compare: 1967 No 50 s 5; 1967 No 147 s 100; 1968 No 13 s 5; 1969 No 53 ss 36, 39A; 1970 No 151 [s 17][570]; 1978 No 15 s 41; 1982 No 42 s 9
+    Compare: 1967 No 50 s 5; 1967 No 147 s 100; 1968 No 13 s 5; 1969 No 53 ss 36, 39A; 1970 No 151 [s 17][571]; 1978 No 15 s 41; 1982 No 42 s 9
     
-    Section 103(1): substituted, on 26 November 1997, by [section 68(1)][571] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 103(1): substituted, on 26 November 1997, by [section 68(1)][572] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 103(1)(b): amended, on 18 September 2012, by [section 40(1)][572] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 103(1)(b): amended, on 18 September 2012, by [section 40(1)][573] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 103(2): substituted, on 26 November 1997, by [section 68(1)][571] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 103(2): substituted, on 26 November 1997, by [section 68(1)][572] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 103(2)(b): amended, on 18 September 2012, by [section 40(2)][572] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 103(2)(b): amended, on 18 September 2012, by [section 40(2)][573] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 103(3): amended, on 18 September 2012, by [section 40(3)][572] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 103(3): amended, on 18 September 2012, by [section 40(3)][573] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 103(3): amended, on 26 November 1997, by [section 68(2)(a)][571] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 103(3): amended, on 26 November 1997, by [section 68(2)(a)][572] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 103(4): amended, on 8 July 2003, by [section 13(1)(a)][573] of the Biosecurity Amendment Act 2003 (2003 No 38).
+    Section 103(4): amended, on 8 July 2003, by [section 13(1)(a)][574] of the Biosecurity Amendment Act 2003 (2003 No 38).
     
-    Section 103(5): amended, on 8 July 2003, by [section 13(1)(b)][573] of the Biosecurity Amendment Act 2003 (2003 No 38).
+    Section 103(5): amended, on 8 July 2003, by [section 13(1)(b)][574] of the Biosecurity Amendment Act 2003 (2003 No 38).
     
-    Section 103(6): amended, on 26 November 1997, by [section 68(2)(b)][571] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 103(6): amended, on 26 November 1997, by [section 68(2)(b)][572] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 103(7): substituted, on 8 July 2003, by [section 13(2)][573] of the Biosecurity Amendment Act 2003 (2003 No 38).
+    Section 103(7): substituted, on 8 July 2003, by [section 13(2)][574] of the Biosecurity Amendment Act 2003 (2003 No 38).
     
-    Section 103(7): amended, on 18 September 2012, by [section 40(4)][572] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 103(7): amended, on 18 September 2012, by [section 40(4)][573] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 104 Authorised persons to comply with instructions
     
@@ -7835,13 +7833,13 @@ Administrative provisions
     
     (3) For the purposes of this section, _relevant chief technical officer_ means any 1 or more of the chief technical officers appointed by the chief executive who appointed the chief technical officer responsible for the appointment of the inspector or authorised person.
     
-    Section 104: substituted, on 26 November 1997, by [section 69][574] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 104: substituted, on 26 November 1997, by [section 69][575] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 104(1): amended, on 8 July 2003, by [section 14(a)][575] of the Biosecurity Amendment Act 2003 (2003 No 38).
+    Section 104(1): amended, on 8 July 2003, by [section 14(a)][576] of the Biosecurity Amendment Act 2003 (2003 No 38).
     
-    Section 104(1): amended, on 8 July 2003, by [section 14(b)][575] of the Biosecurity Amendment Act 2003 (2003 No 38).
+    Section 104(1): amended, on 8 July 2003, by [section 14(b)][576] of the Biosecurity Amendment Act 2003 (2003 No 38).
     
-    Section 104(3): amended, on 8 July 2003, by [section 14(c)][575] of the Biosecurity Amendment Act 2003 (2003 No 38).
+    Section 104(3): amended, on 8 July 2003, by [section 14(c)][576] of the Biosecurity Amendment Act 2003 (2003 No 38).
 
 ##### 105 Delegation to authorised persons
     
@@ -7859,7 +7857,7 @@ Administrative provisions
     
     (5) A delegation under this section does not affect the performance or exercise of any function, power, or duty by the person on whom the function, power, or duty is conferred or imposed.
     
-    Section 105(1): substituted, on 15 December 2005, by [section 5][576] of the Biosecurity Amendment Act 2005 (2005 No 91).
+    Section 105(1): substituted, on 15 December 2005, by [section 5][577] of the Biosecurity Amendment Act 2005 (2005 No 91).
 
 ##### 105A Call in of powers or functions
     
@@ -7913,7 +7911,7 @@ Administrative provisions
     
     (8) For the purposes of this section, the relevant one of the provisions listed in subsection (1) must be read as if it said ""chief technical officer"" instead of ""inspector"" or ""authorised person"".
     
-    Section 105A: inserted, on 18 September 2012, by [section 41][577] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 105A: inserted, on 18 September 2012, by [section 41][578] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 105B Appointment of auditors
     
@@ -7921,9 +7919,9 @@ Administrative provisions
     
     (2) The Director-General may appoint as auditors only those persons who have appropriate experience, technical competence, and qualifications relevant to the audits.
     
-    (3) Auditors may, but need not, be persons who are employed under the [State Sector Act 1988][578] or by a regional council.
+    (3) Auditors may, but need not, be persons who are employed under the [State Sector Act 1988][579] or by a regional council.
     
-    Section 105B: inserted, on 18 September 2012, by [section 41][577] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 105B: inserted, on 18 September 2012, by [section 41][578] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 105C Audits
     
@@ -7951,7 +7949,7 @@ Administrative provisions
     
     *   (i) any other class or description of audit specified in regulations.
     
-    Section 105C: inserted, on 18 September 2012, by [section 41][577] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 105C: inserted, on 18 September 2012, by [section 41][578] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 105D Auditors' general duties
     
@@ -7961,7 +7959,7 @@ Administrative provisions
     
     (3) The auditor must conduct the audit within the terms of reference.
     
-    Section 105D: inserted, on 18 September 2012, by [section 41][577] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 105D: inserted, on 18 September 2012, by [section 41][578] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 105E Auditors' powers
     
@@ -7997,7 +7995,7 @@ Administrative provisions
     
     (7) This section does not override the privilege against self-incrimination.
     
-    Section 105E: inserted, on 18 September 2012, by [section 41][577] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 105E: inserted, on 18 September 2012, by [section 41][578] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 105F Auditors' duties relating to power of entry
     
@@ -8041,7 +8039,7 @@ Administrative provisions
     
     *   (b) ensure that a schedule is with an occupier of the place within 7 days after the date of entry.
     
-    Section 105F: inserted, on 18 September 2012, by [section 41][577] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 105F: inserted, on 18 September 2012, by [section 41][578] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 #### Administrative powers
 
@@ -8051,9 +8049,9 @@ Administrative provisions
     
     (2) A person employed or requested to assist an inspector or authorised person has the same powers as that inspector or authorised person while that person is under the immediate direction and control of that inspector or authorised person.
     
-    Compare: 1967 No 50 s 7; 1970 No 151 [s 20][579]
+    Compare: 1967 No 50 s 7; 1970 No 151 [s 20][580]
     
-    Section 106(2): added, on 26 November 1997, by [section 71][580] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 106(2): added, on 26 November 1997, by [section 71][581] of the Biosecurity Amendment Act 1997 (1997 No 89).
 
 ##### 107 Power to detain for purpose of checking for uncleared risk goods
     
@@ -8079,7 +8077,7 @@ Administrative provisions
     
     *   (c) use the force that is reasonably necessary to stop the person if he or she is moving.
     
-    Section 107: replaced, on 18 September 2012, by [section 42][581] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 107: replaced, on 18 September 2012, by [section 42][582] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 107A Power to detain for purpose of checking for unauthorised goods
     
@@ -8089,7 +8087,7 @@ Administrative provisions
     
     *   (b) use the force that is reasonably necessary to detain the person.
     
-    Section 107A: inserted, on 18 September 2012, by [section 42][581] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 107A: inserted, on 18 September 2012, by [section 42][582] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 107B Power to detain for public health or law enforcement purposes
     
@@ -8105,23 +8103,23 @@ Administrative provisions
         
         *   (iii) is liable to be prosecuted for an offence punishable by imprisonment; or
         
-        *   (iv) has contravened the [Civil Aviation Act 1990][582]; or
+        *   (iv) has contravened the [Civil Aviation Act 1990][583]; or
         
         *   (v) has contravened the [Customs and Excise Act 1996][452]; or
         
-        *   (vi) has contravened the [Human Assisted Reproductive Technology Act 2004][583]; or
+        *   (vi) has contravened the [Human Assisted Reproductive Technology Act 2004][584]; or
         
         *   (vii) has contravened the [Immigration Act 2009][513]; or
         
         *   (viii) has contravened the [Misuse of Drugs Act 1975][453]; or
         
-        *   (ix) has contravened the [Passports Act 1992][584]; or
+        *   (ix) has contravened the [Passports Act 1992][585]; or
         
-        *   (x) has contravened the [Terrorism Suppression Act 2002][585]; or
+        *   (x) has contravened the [Terrorism Suppression Act 2002][586]; or
         
         *   (xi) has contravened the [Trade in Endangered Species Act 1989][449]; or
         
-        *   (xii) has contravened regulations under the [United Nations Act 1946][586]; or
+        *   (xii) has contravened regulations under the [United Nations Act 1946][587]; or
         
         *   (xiii) has contravened an enactment that contains an offence involving the unlawful entry into New Zealand of a person, matter, or thing and that is specified for the purposes of this section by the Governor-General in Council; or
         
@@ -8149,7 +8147,7 @@ Administrative provisions
     
     (4) Reasonable force may be used, if necessary, to keep the person in the area for the period directed under subsection (2).
     
-    Section 107B: inserted, on 18 September 2012, by [section 42][581] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 107B: inserted, on 18 September 2012, by [section 42][582] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 108 Power to search people
     
@@ -8185,25 +8183,25 @@ Administrative provisions
     
     (5) Within 3 days of searching a person under the authority of subsection (1), a constable shall give the Commissioner of Police a written report on the search, and the circumstances in which it came to be conducted.
     
-    Section 108(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][587] of the Policing Act 2008 (2008 No 72).
+    Section 108(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][588] of the Policing Act 2008 (2008 No 72).
     
-    Section 108(1): amended, on 8 July 2003, by [section 15][588] of the Biosecurity Amendment Act 2003 (2003 No 38).
+    Section 108(1): amended, on 8 July 2003, by [section 15][589] of the Biosecurity Amendment Act 2003 (2003 No 38).
     
-    Section 108(1)(a): amended, on 18 September 2012, by [section 43][589] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 108(1)(a): amended, on 18 September 2012, by [section 43][590] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 108(1)(b)(i): amended, on 18 September 2012, by [section 43][589] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 108(1)(b)(i): amended, on 18 September 2012, by [section 43][590] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 108(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][587] of the Policing Act 2008 (2008 No 72).
+    Section 108(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][588] of the Policing Act 2008 (2008 No 72).
     
-    Section 108(2)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][587] of the Policing Act 2008 (2008 No 72).
+    Section 108(2)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][588] of the Policing Act 2008 (2008 No 72).
     
-    Section 108(2)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][587] of the Policing Act 2008 (2008 No 72).
+    Section 108(2)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][588] of the Policing Act 2008 (2008 No 72).
     
-    Section 108(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][587] of the Policing Act 2008 (2008 No 72).
+    Section 108(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][588] of the Policing Act 2008 (2008 No 72).
     
-    Section 108(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][587] of the Policing Act 2008 (2008 No 72).
+    Section 108(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][588] of the Policing Act 2008 (2008 No 72).
     
-    Section 108(5): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][587] of the Policing Act 2008 (2008 No 72).
+    Section 108(5): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][588] of the Policing Act 2008 (2008 No 72).
 
 ##### 109 Power of inspection
     
@@ -8245,37 +8243,37 @@ Administrative provisions
     
     (4) Subject to subsection (3), an inspector or authorised person exercising the powers of entry and inspection conferred by subsection (1)(a) and (b) may use such force in going on, into, or under, the place concerned (whether by breaking down a door or otherwise), or in breaking open anything in the place, as is reasonable in the circumstances.
     
-    Section 109(1)(a): amended, on 26 November 1997, by [section 73(a)][590] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 109(1)(a): amended, on 26 November 1997, by [section 73(a)][591] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 109(1)(a): amended, on 26 November 1997, by [section 73(b)][590] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 109(1)(a): amended, on 26 November 1997, by [section 73(b)][591] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 109(1)(a)(iii): substituted, on 26 November 1997, by [section 73(c)][590] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 109(1)(a)(iii): substituted, on 26 November 1997, by [section 73(c)][591] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 109(1)(a)(iv): repealed, on 26 November 1997, by [section 73(c)][590] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 109(1)(a)(iv): repealed, on 26 November 1997, by [section 73(c)][591] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 109(1)(b): amended, on 26 November 1997, by [section 73(a)][590] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 109(1)(b): amended, on 26 November 1997, by [section 73(a)][591] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 109(1)(b): amended, on 26 November 1997, by [section 73(d)][590] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 109(1)(b): amended, on 26 November 1997, by [section 73(d)][591] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 109(1)(b)(ii): amended, on 18 September 2012, by [section 44(1)][591] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 109(1)(b)(ii): amended, on 18 September 2012, by [section 44(1)][592] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 109(1)(c): added, on 8 July 2003, by [section 16(1)][592] of the Biosecurity Amendment Act 2003 (2003 No 38).
+    Section 109(1)(c): added, on 8 July 2003, by [section 16(1)][593] of the Biosecurity Amendment Act 2003 (2003 No 38).
     
-    Section 109(1)(c): amended, on 18 September 2012, by [section 44(2)][591] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 109(1)(c): amended, on 18 September 2012, by [section 44(2)][592] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 109(2): amended, on 26 November 1997, by [section 73(a)][590] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 109(2): amended, on 26 November 1997, by [section 73(a)][591] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 109(2)(b): amended, on 26 November 1997, by [section 73(e)][590] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 109(2)(b): amended, on 26 November 1997, by [section 73(e)][591] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 109(3): amended, on 26 November 1997, by [section 73(f)][590] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 109(3): amended, on 26 November 1997, by [section 73(f)][591] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 109(4): amended, on 8 July 2003, by [section 16(2)][592] of the Biosecurity Amendment Act 2003 (2003 No 38).
+    Section 109(4): amended, on 8 July 2003, by [section 16(2)][593] of the Biosecurity Amendment Act 2003 (2003 No 38).
     
-    Section 109(4): amended, on 26 November 1997, by [section 73(g)][590] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 109(4): amended, on 26 November 1997, by [section 73(g)][591] of the Biosecurity Amendment Act 1997 (1997 No 89).
 
 ##### 110 Warrant to inspect dwellinghouse, marae, etc
     
-*   (1) An issuing officer (within the meaning of [section 3][593] of the Search and Surveillance Act 2012) may, on an application made in the manner provided by [subpart 3][594] of Part 4 of that Act by an inspector or authorised person, issue a warrant authorising the inspector or authorised person to enter and inspect the dwellinghouse, marae, or building associated with a marae specified in the application.
+*   (1) An issuing officer (within the meaning of [section 3][594] of the Search and Surveillance Act 2012) may, on an application made in the manner provided by [subpart 3][595] of Part 4 of that Act by an inspector or authorised person, issue a warrant authorising the inspector or authorised person to enter and inspect the dwellinghouse, marae, or building associated with a marae specified in the application.
     
     (2) Such a warrant may be issued only if the issuing officer is satisfied that there is reasonable ground for believing that---
         
@@ -8289,19 +8287,19 @@ Administrative provisions
     
     *   (b) may be unconditional or subject to conditions.
     
-    (4) The provisions of [subparts 1][595], [3][594], [7][596], [9][597], and [10][598] of Part 4 of the Search and Surveillance Act 2012 apply.
+    (4) The provisions of [subparts 1][596], [3][595], [7][597], [9][598], and [10][599] of Part 4 of the Search and Surveillance Act 2012 apply.
     
-    Section 110: substituted, on 8 July 2003, by [section 17][599] of the Biosecurity Amendment Act 2003 (2003 No 38).
+    Section 110: substituted, on 8 July 2003, by [section 17][600] of the Biosecurity Amendment Act 2003 (2003 No 38).
     
-    Section 110(1): replaced, on 1 October 2012, by [section 203(2)][600] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 110(1): replaced, on 1 October 2012, by [section 203(2)][601] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 110(2): amended, on 1 October 2012, by [section 203(3)][600] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 110(2): amended, on 1 October 2012, by [section 203(3)][601] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 110(4): inserted, on 1 October 2012, by [section 203(4)][600] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 110(4): inserted, on 1 October 2012, by [section 203(4)][601] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 111 Entry in respect of offences
     
-*   (1) Subject to subsection (2), an issuing officer (within the meaning of [section 3][593] of the Search and Surveillance Act 2012) who, on an application (made in the manner provided by [subpart 3][594] of Part 4 of that Act) by an inspector or authorised person, is satisfied that there is reasonable ground for believing that there is on or in any place specified in the application any thing---
+*   (1) Subject to subsection (2), an issuing officer (within the meaning of [section 3][594] of the Search and Surveillance Act 2012) who, on an application (made in the manner provided by [subpart 3][595] of Part 4 of that Act) by an inspector or authorised person, is satisfied that there is reasonable ground for believing that there is on or in any place specified in the application any thing---
         
     *   (a) in respect of which an offence against this Act punishable by imprisonment has been or may have been committed; or
     
@@ -8341,27 +8339,27 @@ Administrative provisions
     
     (5) Subject to subsection (4), a person exercising a warrant under subsection (1) may use such force in entering the place specified in it (whether by breaking down a door or otherwise), or in breaking open anything in the place, as is reasonable in the circumstances.
     
-    (6) The provisions of [Part 4][601] of the Search and Surveillance Act 2012 (except for [sections 118][602] and [119][603]) apply.
+    (6) The provisions of [Part 4][602] of the Search and Surveillance Act 2012 (except for [sections 118][603] and [119][604]) apply.
     
-    Section 111(1): amended, on 1 October 2012, by [section 203(5)][600] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 111(1): amended, on 1 October 2012, by [section 203(5)][601] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 111(1): amended, on 26 November 1997, by [section 75(1)][604] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 111(1): amended, on 26 November 1997, by [section 75(1)][605] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 111(2): amended, on 26 November 1997, by [section 75(1)][604] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 111(2): amended, on 26 November 1997, by [section 75(1)][605] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 111(3)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][587] of the Policing Act 2008 (2008 No 72).
+    Section 111(3)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][588] of the Policing Act 2008 (2008 No 72).
     
-    Section 111(3)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][587] of the Policing Act 2008 (2008 No 72).
+    Section 111(3)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][588] of the Policing Act 2008 (2008 No 72).
     
-    Section 111(3)(b): amended, on 26 November 1997, by [section 75(1)][604] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 111(3)(b): amended, on 26 November 1997, by [section 75(1)][605] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 111(3)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][587] of the Policing Act 2008 (2008 No 72).
+    Section 111(3)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][588] of the Policing Act 2008 (2008 No 72).
     
-    Section 111(3)(d): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][587] of the Policing Act 2008 (2008 No 72).
+    Section 111(3)(d): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][588] of the Policing Act 2008 (2008 No 72).
     
-    Section 111(3)(d): amended, on 26 November 1997, by [section 75(1)][604] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 111(3)(d): amended, on 26 November 1997, by [section 75(1)][605] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 111(6): inserted, on 1 October 2012, by [section 203(6)][600] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 111(6): inserted, on 1 October 2012, by [section 203(6)][601] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 112 Duties on exercising power of entry
     
@@ -8399,17 +8397,17 @@ Administrative provisions
     
     (2) An inspector, authorised person, or constable exercising a power of entry conferred by [sections 30A][69], [109][233], [111][235], or [126][254] in relation to a marae or a building associated with a marae must have regard to the kawa of the marae.
     
-    Section 112: substituted, on 26 November 1997, by [section 76][605] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 112: substituted, on 26 November 1997, by [section 76][606] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 112(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][587] of the Policing Act 2008 (2008 No 72).
+    Section 112(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][588] of the Policing Act 2008 (2008 No 72).
     
-    Section 112(1)(a)(i): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][587] of the Policing Act 2008 (2008 No 72).
+    Section 112(1)(a)(i): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][588] of the Policing Act 2008 (2008 No 72).
     
-    Section 112(1)(a)(ii): amended, on 1 October 2012, by [section 203(7)][600] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 112(1)(a)(ii): amended, on 1 October 2012, by [section 203(7)][601] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 112(1)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][587] of the Policing Act 2008 (2008 No 72).
+    Section 112(1)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][588] of the Policing Act 2008 (2008 No 72).
     
-    Section 112(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][587] of the Policing Act 2008 (2008 No 72).
+    Section 112(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][588] of the Policing Act 2008 (2008 No 72).
 
 ##### 113 Power to record information
     
@@ -8425,7 +8423,7 @@ Administrative provisions
     
     *   (c) avoid, remedy, or mitigate any effect on the place of non-compliance with a pathway management plan.
     
-    Section 114: replaced, on 18 September 2012, by [section 45][606] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 114: replaced, on 18 September 2012, by [section 45][607] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 114A Application of articles or substances from aircraft
     
@@ -8439,7 +8437,7 @@ Administrative provisions
     
     (3) Any person specified in an approval or person of the class specified in an approval given in accordance with subsection (1) may, after public notice has been given in accordance with this section, act in accordance with that approval.
     
-    (4) Nothing in this section derogates from any provision of the [Civil Aviation Act 1990][582] or any rule or regulation made under that Act.
+    (4) Nothing in this section derogates from any provision of the [Civil Aviation Act 1990][583] or any rule or regulation made under that Act.
     
     (5) Subject to subsection (6), public notice for the purposes of this section is given by publishing, at least 2 weeks before the intended date when the article or substance is to be applied, in a newspaper circulating in the area in which the place is situated, a notice specifying the following information:
         
@@ -8473,13 +8471,13 @@ Administrative provisions
         
         
     
-    Section 114A: inserted, on 26 November 1997, by [section 78][607] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 114A: inserted, on 26 November 1997, by [section 78][608] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 114A(5): amended, on 8 July 2003, by [section 18(1)][608] of the Biosecurity Amendment Act 2003 (2003 No 38).
+    Section 114A(5): amended, on 8 July 2003, by [section 18(1)][609] of the Biosecurity Amendment Act 2003 (2003 No 38).
     
-    Section 114A(6): added, on 8 July 2003, by [section 18(2)][608] of the Biosecurity Amendment Act 2003 (2003 No 38).
+    Section 114A(6): added, on 8 July 2003, by [section 18(2)][609] of the Biosecurity Amendment Act 2003 (2003 No 38).
     
-    Section 114A(7): added, on 8 July 2003, by [section 18(2)][608] of the Biosecurity Amendment Act 2003 (2003 No 38).
+    Section 114A(7): added, on 8 July 2003, by [section 18(2)][609] of the Biosecurity Amendment Act 2003 (2003 No 38).
 
 ##### 115 Use of dogs and devices
     
@@ -8491,7 +8489,7 @@ Administrative provisions
     
     to assist in the exercise of the power.
     
-    Section 115(b): amended, on 26 November 1997, by [section 79][609] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 115(b): amended, on 26 November 1997, by [section 79][610] of the Biosecurity Amendment Act 1997 (1997 No 89).
 
 ##### 116 Power to seize and dispose of unauthorised goods
     
@@ -8517,9 +8515,9 @@ Administrative provisions
     
     (6) In exercising the powers of a chief technical officer in accordance with subsections (2), (3), and (4), a chief technical officer must, so far as is practicable while achieving the purpose of [Part 3][30], act in a manner that is consistent with avoiding or minimising loss to the importer or owner of goods seized in accordance with subsection (1).
     
-    Section 116: substituted, on 26 November 1997, by [section 80][610] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 116: substituted, on 26 November 1997, by [section 80][611] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 116(1): amended, on 20 September 2007, by [section 5][611] of the Biosecurity Amendment Act 2007 (2007 No 41).
+    Section 116(1): amended, on 20 September 2007, by [section 5][612] of the Biosecurity Amendment Act 2007 (2007 No 41).
 
 ##### 117 Expenses and compensation
     
@@ -8535,21 +8533,21 @@ Administrative provisions
         
     *   ###### Constable to deal with
     
-    *   (a) [section 98C][612] of the Crimes Act 1961:
+    *   (a) [section 98C][613] of the Crimes Act 1961:
     
-    *   (b) [section 342][613] of the Immigration Act 2009:
+    *   (b) [section 342][614] of the Immigration Act 2009:
     
-    *   (c) [section 29A][614], [30][615], or [31][616] of the Passports Act 1992:
+    *   (c) [section 29A][615], [30][616], or [31][617] of the Passports Act 1992:
     
     *   ###### Officer to deal with
     
     *   (d) the [Customs and Excise Act 1996][452]:
     
-    *   (e) [sections 123][617] and [124][618] of the Films, Videos, and Publications Classification Act 1993:
+    *   (e) [sections 123][618] and [124][619] of the Films, Videos, and Publications Classification Act 1993:
     
-    *   (f) [section 232][619] or [233][620] of the Fisheries Act 1996:
+    *   (f) [section 232][620] or [233][621] of the Fisheries Act 1996:
     
-    *   (g) [section 37][621] or [43][622] of the Medicines Act 1981:
+    *   (g) [section 37][622] or [43][623] of the Medicines Act 1981:
     
     *   (h) the [Trade in Endangered Species Act 1989][449]:
     
@@ -8581,7 +8579,7 @@ Administrative provisions
     
     (5) Responsibility for goods delivered under subsection (3) passes to the person to whom the goods are delivered.
     
-    Section 117A: inserted, on 18 September 2012, by [section 46][623] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 117A: inserted, on 18 September 2012, by [section 46][624] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 118 Power to seize evidence
     
@@ -8591,13 +8589,13 @@ Administrative provisions
     
     *   (b) while at the place specified in the warrant, may seize any other thing that the person believes on reasonable grounds to be a thing in respect of which the person could have obtained a warrant under that section.
     
-    (2) [Subpart 6][624] of Part 4 of the Search and Surveillance Act 2012 shall, with any necessary modifications, apply to any thing seized under subsection (1).
+    (2) [Subpart 6][625] of Part 4 of the Search and Surveillance Act 2012 shall, with any necessary modifications, apply to any thing seized under subsection (1).
     
-    (3) The provisions of [subparts 1][595], [5][625], [6][624], [7][596], [9][597], and [10][598] of Part 4 of the Search and Surveillance Act 2012 apply.
+    (3) The provisions of [subparts 1][596], [5][626], [6][625], [7][597], [9][598], and [10][599] of Part 4 of the Search and Surveillance Act 2012 apply.
     
-    Section 118(2): amended, on 1 October 2012, by [section 203(8)][600] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 118(2): amended, on 1 October 2012, by [section 203(8)][601] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 118(3): inserted, on 1 October 2012, by [section 203(9)][600] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 118(3): inserted, on 1 October 2012, by [section 203(9)][601] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 119 Power to seize abandoned goods
     
@@ -8607,7 +8605,7 @@ Administrative provisions
     
     Compare: 1969 No 53 s 10
     
-    Section 119(1): amended, on 18 September 2012, by [section 47][626] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 119(1): amended, on 18 September 2012, by [section 47][627] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 120 Power to intercept risk goods
     
@@ -8623,7 +8621,7 @@ Administrative provisions
     
     *   (b) stop a conveyance or craft for the purposes of paragraph (a).
     
-    Section 120: replaced, on 18 September 2012, by [section 48][627] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 120: replaced, on 18 September 2012, by [section 48][628] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 121 Power to examine organisms
     
@@ -8695,21 +8693,21 @@ Administrative provisions
     
     Compare: 1967 No 50 ss 6, 34; 1978 No 15 s 46; 1982 No 42 s 67
     
-    Section 121(1): replaced, on 18 September 2012, by [section 49(1)][628] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 121(1): replaced, on 18 September 2012, by [section 49(1)][629] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 121(1A): inserted, on 18 September 2012, by [section 49(1)][628] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 121(1A): inserted, on 18 September 2012, by [section 49(1)][629] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 121(1B): inserted, on 18 September 2012, by [section 49(1)][628] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 121(1B): inserted, on 18 September 2012, by [section 49(1)][629] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 121(2): amended, on 18 September 2012, by [section 49(2)][628] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 121(2): amended, on 18 September 2012, by [section 49(2)][629] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 121(4)(a): replaced, on 18 September 2012, by [section 49(3)][628] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 121(4)(a): replaced, on 18 September 2012, by [section 49(3)][629] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 121(4)(b)(i): amended, on 18 September 2012, by [section 49(4)][628] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 121(4)(b)(i): amended, on 18 September 2012, by [section 49(4)][629] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 121(4)(b)(ii): amended, on 8 July 2003, by [section 19(2)][629] of the Biosecurity Amendment Act 2003 (2003 No 38).
+    Section 121(4)(b)(ii): amended, on 8 July 2003, by [section 19(2)][630] of the Biosecurity Amendment Act 2003 (2003 No 38).
     
-    Section 121(5): added, on 8 July 2003, by [section 19(3)][629] of the Biosecurity Amendment Act 2003 (2003 No 38).
+    Section 121(5): added, on 8 July 2003, by [section 19(3)][630] of the Biosecurity Amendment Act 2003 (2003 No 38).
 
 ##### 121A Power to apply article or substance to place
     
@@ -8719,11 +8717,11 @@ Administrative provisions
     
     (3) No person may, without reasonable excuse, move or interfere with any article or substance left at a place by an inspector or authorised person pursuant to this section.
     
-    Section 121A: inserted, on 26 November 1997, by [section 81][630] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 121A: inserted, on 26 November 1997, by [section 81][631] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 121A(1): amended, on 18 September 2012, by [section 50][631] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 121A(1): amended, on 18 September 2012, by [section 50][632] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 121A(1): amended, on 8 July 2003, by [section 20][632] of the Biosecurity Amendment Act 2003 (2003 No 38).
+    Section 121A(1): amended, on 8 July 2003, by [section 20][633] of the Biosecurity Amendment Act 2003 (2003 No 38).
 
 ##### 121B Prohibition or control of certain tests
     
@@ -8743,13 +8741,15 @@ Administrative provisions
     
     (4) For the purposes of this section _a test_ means a test carried out for any of the purposes specified in [section 121(1A)][247].
     
-    (5) An order made under this section is deemed to be a regulation for the purposes of the [Regulations (Disallowance) Act 1989][550].
+    (5) An order made under this section is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][550] and must be presented to the House of Representatives under [section 41][551] of that Act.
     
-    Section 121B: inserted, on 26 November 1997, by [section 82][633] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 121B: inserted, on 26 November 1997, by [section 82][634] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 121B(1)(a): amended, on 18 September 2012, by [section 51(1)][634] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 121B(1)(a): amended, on 18 September 2012, by [section 51(1)][635] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 121B(4): amended, on 18 September 2012, by [section 51(2)][634] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 121B(4): amended, on 18 September 2012, by [section 51(2)][635] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    
+    Section 121B(5): replaced, on 1 February 2014, by [section 77(3)][552] of the Legislation Act 2012 (2012 No 119).
 
 ##### 122 Power to give directions
     
@@ -8765,9 +8765,9 @@ Administrative provisions
     
     (3) An inspector or authorised person may direct the owner or person in charge of risk goods or a craft to take steps to avoid, remedy, or mitigate an effect of non-compliance with a pathway management plan.
     
-    Section 122: substituted, on 26 November 1997, by [section 83][635] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 122: substituted, on 26 November 1997, by [section 83][636] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 122(3): inserted, on 18 September 2012, by [section 52][636] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 122(3): inserted, on 18 September 2012, by [section 52][637] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 123 Power to vaccinate, etc
     
@@ -8785,13 +8785,13 @@ Administrative provisions
     
     Compare: 1967 No 50 s 6
     
-    Section 125 heading: amended, on 26 November 1997, by [section 84][637] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 125 heading: amended, on 26 November 1997, by [section 84][638] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 125: amended, on 26 November 1997, by [section 84][637] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 125: amended, on 26 November 1997, by [section 84][638] of the Biosecurity Amendment Act 1997 (1997 No 89).
 
 ##### 126 Inspection of and intervention in transitional facilities and containment facilities
     
-*   (1) An inspector authorised in writing by the Director-General may at any reasonable time enter a transitional facility or a containment facility for the purpose of confirming that the facility complies with the standards set in accordance with [section 39][83] or [section 11(1)(fc)][638] of the Hazardous Substances and New Organisms Act 1996 or that the operator is approved as the facility operator for that facility, and the provisions of [section 112][236] apply to any such entry.
+*   (1) An inspector authorised in writing by the Director-General may at any reasonable time enter a transitional facility or a containment facility for the purpose of confirming that the facility complies with the standards set in accordance with [section 39][83] or [section 11(1)(fc)][639] of the Hazardous Substances and New Organisms Act 1996 or that the operator is approved as the facility operator for that facility, and the provisions of [section 112][236] apply to any such entry.
     
     (2) An inspector may exercise a power described in subsection (3) if (and only if) the inspector has reasonable grounds to suspect that---
         
@@ -8819,23 +8819,23 @@ Administrative provisions
     
     (6) The costs and expenses reasonably incurred by an inspector in intervening summarily under subsection (3) or an inspector taking action under subsection (5) may be recovered from the facility operator as a debt due to the Crown.
     
-    Section 126: substituted, on 26 November 1997, by [section 85][639] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 126: substituted, on 26 November 1997, by [section 85][640] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 126(1): amended, on 18 September 2012, by [section 53(1)][640] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 126(1): amended, on 18 September 2012, by [section 53(1)][641] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 126(1): amended, on 18 September 2012, by [section 53(2)][640] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 126(1): amended, on 18 September 2012, by [section 53(2)][641] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 126(2)(a): amended, on 18 September 2012, by [section 53(3)][640] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 126(2)(a): amended, on 18 September 2012, by [section 53(3)][641] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 126(2)(b): amended, on 18 September 2012, by [section 53(4)][640] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 126(2)(b): amended, on 18 September 2012, by [section 53(4)][641] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 126(2)(c): amended, on 8 July 2003, by [section 21(1)][641] of the Biosecurity Amendment Act 2003 (2003 No 38).
+    Section 126(2)(c): amended, on 8 July 2003, by [section 21(1)][642] of the Biosecurity Amendment Act 2003 (2003 No 38).
     
-    Section 126(3)(a): amended, on 18 September 2012, by [section 53(5)][640] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 126(3)(a): amended, on 18 September 2012, by [section 53(5)][641] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 126(3)(b)(ii): amended, on 8 July 2003, by [section 21(2)][641] of the Biosecurity Amendment Act 2003 (2003 No 38).
+    Section 126(3)(b)(ii): amended, on 8 July 2003, by [section 21(2)][642] of the Biosecurity Amendment Act 2003 (2003 No 38).
     
-    Section 126(6): amended, on 18 September 2012, by [section 53(6)][640] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 126(6): amended, on 18 September 2012, by [section 53(6)][641] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 127 Destruction of imported organisms
     
@@ -8855,15 +8855,15 @@ Administrative provisions
     
     Compare: 1967 No 50 s 13
     
-    Section 127(1): amended, on 26 November 1997, by [section 86(a)][642] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 127(1): amended, on 26 November 1997, by [section 86(a)][643] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 127(1): amended, on 26 November 1997, by [section 86(b)][642] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 127(1): amended, on 26 November 1997, by [section 86(b)][643] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 127(1)(a): amended, on 26 November 1997, by [section 86(a)][642] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 127(1)(a): amended, on 26 November 1997, by [section 86(a)][643] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 127(2): amended, on 26 November 1997, by [section 86(a)][642] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 127(2): amended, on 26 November 1997, by [section 86(a)][643] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 127(3): repealed, on 1 October 1998, by [section 106(2)][643] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 127(3): repealed, on 1 October 1998, by [section 106(2)][644] of the Biosecurity Amendment Act 1997 (1997 No 89).
 
 ##### 128 Power to act on default
     
@@ -8883,19 +8883,19 @@ Administrative provisions
     
     (1B) A chief technical officer, a principal officer, or a management agency may bring about the implementation of the enforcement document in a way that is reasonably necessary and appropriate to achieve the document's purpose.
     
-    (2) Where specified works or measures are to be carried out on Maori land, any notice given to the owners shall be given in accordance with [section 181][644] of Te Ture Whenua Maori Act 1993\.
+    (2) Where specified works or measures are to be carried out on Maori land, any notice given to the owners shall be given in accordance with [section 181][645] of Te Ture Whenua Maori Act 1993\.
     
     (3) The chief technical officer, a principal officer or management agency may recover the costs and expenses reasonably incurred under this section as a debt due from the person to whom the notice was given.
     
-    Compare: 1967 No 50 s 8; 1967 No 147 s 104; 1968 No 13 s 9; 1969 No 53 s 45; 1970 No 151 [s 11][645]; 1978 No 15 s 57; 1982 No 42 ss 68, 74
+    Compare: 1967 No 50 s 8; 1967 No 147 s 104; 1968 No 13 s 9; 1969 No 53 s 45; 1970 No 151 [s 11][646]; 1978 No 15 s 57; 1982 No 42 ss 68, 74
     
-    Section 128(1): replaced, on 18 September 2012, by [section 54][646] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 128(1): replaced, on 18 September 2012, by [section 54][647] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 128(1A): inserted, on 18 September 2012, by [section 54][646] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 128(1A): inserted, on 18 September 2012, by [section 54][647] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 128(1B): inserted, on 18 September 2012, by [section 54][646] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 128(1B): inserted, on 18 September 2012, by [section 54][647] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 128(3): amended, on 26 November 1997, by [section 87(b)][647] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 128(3): amended, on 26 November 1997, by [section 87(b)][648] of the Biosecurity Amendment Act 1997 (1997 No 89).
 
 ##### 129 Liens
     
@@ -8905,7 +8905,7 @@ Administrative provisions
     
     *   (b) if the land is or becomes subject to some other charge (being a charge created by an enactment other than this section), the charges shall rank equally unless the enactment provides that the other charge is to be deferred to the recovery charge.
     
-    Section 129: amended, on 26 November 1997, by [section 88][648] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 129: amended, on 26 November 1997, by [section 88][649] of the Biosecurity Amendment Act 1997 (1997 No 89).
 
 #### Place and area controls
 
@@ -8943,13 +8943,13 @@ Administrative provisions
     
     Compare: 1967 No 50 s 29
     
-    Section 130(1): substituted, on 26 November 1997, by [section 89(1)][649] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 130(1): substituted, on 26 November 1997, by [section 89(1)][650] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 130(2): amended, on 26 November 1997, by [section 89(2)][649] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 130(2): amended, on 26 November 1997, by [section 89(2)][650] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 130(4A): inserted, on 26 November 1997, by [section 89(3)][649] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 130(4A): inserted, on 26 November 1997, by [section 89(3)][650] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 130(5): substituted, on 8 July 2003, by [section 22][650] of the Biosecurity Amendment Act 2003 (2003 No 38).
+    Section 130(5): substituted, on 8 July 2003, by [section 22][651] of the Biosecurity Amendment Act 2003 (2003 No 38).
 
 ##### 131 Declaration of controlled area
     
@@ -8977,9 +8977,9 @@ Administrative provisions
     
     Compare: 1967 No 50 ss 13A, 29; 1969 No 53 ss 13, 16, 30, 31; 1982 No 42 s 79
     
-    Section 131(2): amended, on 8 July 2003, by [section 23][651] of the Biosecurity Amendment Act 2003 (2003 No 38).
+    Section 131(2): amended, on 8 July 2003, by [section 23][652] of the Biosecurity Amendment Act 2003 (2003 No 38).
     
-    Section 131(3)(b): substituted, on 26 November 1997, by [section 90][652] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 131(3)(b): substituted, on 26 November 1997, by [section 90][653] of the Biosecurity Amendment Act 1997 (1997 No 89).
 
 ##### 132 Road blocks, cordons, checkpoints, etc
     
@@ -9061,33 +9061,33 @@ Administrative provisions
     
     *   (b) while in charge of any vehicle or craft lawfully stopped or detained under this section, without reasonable excuse move it from the place where it is stopped or detained without the permission of a constable.
     
-    Section 132(2): substituted, on 26 November 1997, by [section 91(1)][653] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 132(2): substituted, on 26 November 1997, by [section 91(1)][654] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 132(2)(a): amended, on 18 September 2012, by [section 55(1)][654] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 132(2)(a): amended, on 18 September 2012, by [section 55(1)][655] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 132(2)(d)(i): amended, on 18 September 2012, by [section 55(2)][654] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 132(2)(d)(i): amended, on 18 September 2012, by [section 55(2)][655] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 132(2)(d)(ii): amended, on 18 September 2012, by [section 55(2)][654] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 132(2)(d)(ii): amended, on 18 September 2012, by [section 55(2)][655] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 132(6): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][587] of the Policing Act 2008 (2008 No 72).
+    Section 132(6): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][588] of the Policing Act 2008 (2008 No 72).
     
-    Section 132(7): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][587] of the Policing Act 2008 (2008 No 72).
+    Section 132(7): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][588] of the Policing Act 2008 (2008 No 72).
     
-    Section 132(7): amended, on 26 November 1997, by [section 91(2)][653] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 132(7): amended, on 26 November 1997, by [section 91(2)][654] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 132(8): substituted, on 26 November 1997, by [section 91(3)][653] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 132(8): substituted, on 26 November 1997, by [section 91(3)][654] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 132(8): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][587] of the Policing Act 2008 (2008 No 72).
+    Section 132(8): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][588] of the Policing Act 2008 (2008 No 72).
     
-    Section 132(8A): inserted, on 26 November 1997, by [section 91(3)][653] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 132(8A): inserted, on 26 November 1997, by [section 91(3)][654] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 132(8B): inserted, on 26 November 1997, by [section 91(3)][653] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 132(8B): inserted, on 26 November 1997, by [section 91(3)][654] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 132(8B): amended, on 18 September 2012, by [section 55(3)][654] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 132(8B): amended, on 18 September 2012, by [section 55(3)][655] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 132(9)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][587] of the Policing Act 2008 (2008 No 72).
+    Section 132(9)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][588] of the Policing Act 2008 (2008 No 72).
     
-    Section 132(9)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][587] of the Policing Act 2008 (2008 No 72).
+    Section 132(9)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][588] of the Policing Act 2008 (2008 No 72).
 
 ##### 133 Duration of place and area declarations
     
@@ -9111,17 +9111,17 @@ Administrative provisions
     
     Compare: 1967 No 50 ss 13A, 29
     
-    Section 134(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][587] of the Policing Act 2008 (2008 No 72).
+    Section 134(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][588] of the Policing Act 2008 (2008 No 72).
     
-    Section 134(1)(b): substituted, on 8 July 2003, by [section 24][655] of the Biosecurity Amendment Act 2003 (2003 No 38).
+    Section 134(1)(b): substituted, on 8 July 2003, by [section 24][656] of the Biosecurity Amendment Act 2003 (2003 No 38).
     
-    Section 134(1A): inserted, on 26 November 1997, by [section 92(1)][656] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 134(1A): inserted, on 26 November 1997, by [section 92(1)][657] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 134(2): amended, on 26 November 1997, by [section 92(2)][656] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 134(2): amended, on 26 November 1997, by [section 92(2)][657] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 134(3): amended, on 26 November 1997, by [section 92(3)(a)][656] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 134(3): amended, on 26 November 1997, by [section 92(3)(a)][657] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 134(3): amended, on 26 November 1997, by [section 92(3)(b)][656] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 134(3): amended, on 26 November 1997, by [section 92(3)(b)][657] of the Biosecurity Amendment Act 1997 (1997 No 89).
 
 #### Recovery of costs
 
@@ -9157,7 +9157,7 @@ Administrative provisions
     
     *   (g) in the case only of the Director-General or some other chief executive, liens on property in the possession of the Crown.
     
-    Section 135(1): amended, on 18 September 2012, by [section 56][657] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 135(1): amended, on 18 September 2012, by [section 56][658] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 136 Failure to pay
     
@@ -9177,7 +9177,7 @@ Administrative provisions
     
 *   (1) The Governor-General may from time to time, on the recommendation of the responsible Minister, by Order in Council impose a levy payable to the Director-General for the purposes of wholly or partially funding a service provided or function performed by the department for the purposes of this Act.
     
-    (2) Every levy order shall be deemed to be a regulation for the purposes of the [Regulations (Disallowance) Act 1989][550].
+    (2) A levy order made under this section is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][550] and must be presented to the House of Representatives under [section 41][551] of that Act.
     
     (3) The fact that [Part 5A][202] provides for levies to be made to fund readiness or response activities does not prevent this section imposing a levy to which both the following apply:
         
@@ -9187,9 +9187,11 @@ Administrative provisions
     
     Compare: 1967 No 50 s 107
     
-    Section 137(1): amended, on 8 July 2003, by [section 25][658] of the Biosecurity Amendment Act 2003 (2003 No 38).
+    Section 137(1): amended, on 8 July 2003, by [section 25][659] of the Biosecurity Amendment Act 2003 (2003 No 38).
     
-    Section 137(3): inserted, on 18 September 2012, by [section 57][659] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 137(2): replaced, on 1 February 2014, by [section 77(3)][552] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 137(3): inserted, on 18 September 2012, by [section 57][660] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 138 Orders to be confirmed
     
@@ -9197,7 +9199,7 @@ Administrative provisions
         
     *   (a) has not been revoked with effect on or before 1 July in the next year; and
     
-    *   (b) has not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of the [Regulations (Disallowance) Act 1989][550],---
+    *   (b) has not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of [Part 3][563] of the Legislation Act 2012,---
     
     it shall be deemed to have been revoked with the close of 30 June in that next year unless it has been confirmed by an Act of Parliament passed on or before that day.
     
@@ -9205,9 +9207,13 @@ Administrative provisions
         
     *   (a) has not been revoked with effect on or before 1 January in the year after the next year; and
     
-    *   (b) has not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of the [Regulations (Disallowance) Act 1989][550],---
+    *   (b) has not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of [Part 3][563] of the Legislation Act 2012,---
     
     it shall be deemed to have been revoked with the close of 31 December in the year after the year in which it was made, unless it has been confirmed by an Act of Parliament passed on or before that day.
+    
+    Section 138(1)(b): amended, on 1 February 2014, by [section 77(3)][552] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 138(2)(b): amended, on 1 February 2014, by [section 77(3)][552] of the Legislation Act 2012 (2012 No 119).
 
 ##### 139 Restrictions on levies
     
@@ -9261,11 +9267,11 @@ Administrative provisions
     
     *   (d) the holding of funds from which payments of levy are to be made, on trust in separate accounts.
     
-    Section 140(2)(d): added, on 26 November 1997, by [section 93][660] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 140(2)(d): added, on 26 November 1997, by [section 93][661] of the Biosecurity Amendment Act 1997 (1997 No 89).
 
 ##### 140A Trust accounts for levy money payable to Director-General
     
-*   (1) Where an order under [section 137][267] provides that funds from which payments of levy are made are to be held on trust in separate accounts, the persons responsible for collecting the levy must each keep a bank account (in this section referred to as a trust account) at a registered bank within the meaning of the [Reserve Bank of New Zealand Act 1989][558]; and---
+*   (1) Where an order under [section 137][267] provides that funds from which payments of levy are made are to be held on trust in separate accounts, the persons responsible for collecting the levy must each keep a bank account (in this section referred to as a trust account) at a registered bank within the meaning of the [Reserve Bank of New Zealand Act 1989][559]; and---
         
     *   (a) ensure that the account is so named as to identify that it is a trust account kept by the person responsible for collecting the levy for the purposes of the order; and
     
@@ -9303,7 +9309,7 @@ Administrative provisions
     
     (7) Nothing in subsection (6) limits or affects any obligation or liability under this Act of any person who has become responsible for collecting the levy.
     
-    Section 140A: inserted, on 26 November 1997, by [section 94][661] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 140A: inserted, on 26 November 1997, by [section 94][662] of the Biosecurity Amendment Act 1997 (1997 No 89).
 
 ##### 141 Effect of levy order
     
@@ -9323,7 +9329,7 @@ Administrative provisions
     
     *   (b) any such statements, accounts, or records to be retained for a specified period.
     
-    Section 141A: inserted, on 26 November 1997, by [section 95][662] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 141A: inserted, on 26 November 1997, by [section 95][663] of the Biosecurity Amendment Act 1997 (1997 No 89).
 
 ##### 141B Compliance audits for Director-General's levy
     
@@ -9335,7 +9341,7 @@ Administrative provisions
     
     (2) While an order under [section 137][267] is in force, the Minister may, if an arbitrator has been appointed to resolve a dispute, appoint an auditor to conduct an audit of all or any of the persons involved in the dispute.
     
-    (3) No person is qualified for appointment as an auditor unless the person is a chartered accountant (within the meaning of [section 19][663] of the New Zealand Institute of Chartered Accountants Act 1996) or a member, fellow, or associate of an association of accountants constituted in some part of the Commonwealth outside New Zealand, and for the time being approved for the purpose of the audit of company financial statements by the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the [Companies Act 1993][560], by notice published in the _Gazette_.
+    (3) No person is qualified for appointment as an auditor unless the person is a chartered accountant (within the meaning of [section 19][664] of the New Zealand Institute of Chartered Accountants Act 1996) or a member, fellow, or associate of an association of accountants constituted in some part of the Commonwealth outside New Zealand, and for the time being approved for the purpose of the audit of company financial statements by the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the [Companies Act 1993][561], by notice published in the _Gazette_.
     
     (4) No officer or employee of any of the following persons or organisations may be appointed an auditor:
         
@@ -9349,9 +9355,9 @@ Administrative provisions
     
     (6) For the purposes of [sections 141C][275] and [141D][276], _auditor_ means a person for the time being appointed under subsection (1) or subsection (2).
     
-    Section 141B: inserted, on 26 November 1997, by [section 95][662] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 141B: inserted, on 26 November 1997, by [section 95][663] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 141B(3): amended, on 7 July 2010, by [section 10][664] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
+    Section 141B(3): amended, on 7 July 2010, by [section 10][665] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
 
 ##### 141C Purpose of compliance audits for Director-General's levy
     
@@ -9371,7 +9377,7 @@ Administrative provisions
     
     (2) The purpose of an audit conducted by an auditor appointed under [section 141B(2)][274] is (so far as is practicable) to ascertain in respect of the affairs of the parties to the dispute, and report to the arbitrator concerned, the Minister responsible for the order, and those parties, on the matters of fact that are in dispute.
     
-    Section 141C: inserted, on 26 November 1997, by [section 95][662] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 141C: inserted, on 26 November 1997, by [section 95][663] of the Biosecurity Amendment Act 1997 (1997 No 89).
 
 ##### 141D Power of auditors to require production of statements and records
     
@@ -9387,13 +9393,13 @@ Administrative provisions
     
     (3) Subject to [section 141C(2)][275], except in respect of a prosecution under this Act or an action for the recovery of any amount due under this Act, no auditor who exercises powers under this section may disclose to any other person (other than a Minister or a person authorised in that behalf by a Minister) any information obtained by the auditor as a result of the exercise of the power.
     
-    (4) Notwithstanding subsection (3), the [Official Information Act 1982][561] applies in respect of any information held by a Minister that was obtained pursuant to this section.
+    (4) Notwithstanding subsection (3), the [Official Information Act 1982][562] applies in respect of any information held by a Minister that was obtained pursuant to this section.
     
     (5) A person who is the subject of a requirement of an auditor under subsection (1) must comply with the requirement.
     
-    Section 141D: inserted, on 26 November 1997, by [section 95][662] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 141D: inserted, on 26 November 1997, by [section 95][663] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 141D(5): inserted, on 18 September 2012, by [section 58][665] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 141D(5): inserted, on 18 September 2012, by [section 58][666] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 142 Resolution of disputes
     
@@ -9417,19 +9423,19 @@ Administrative provisions
     
     *   (f) any other matters relating to the resolution of such disputes.
     
-    Section 142(a): amended, on 26 November 1997, by [section 96(1)][666] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 142(a): amended, on 26 November 1997, by [section 96(1)][667] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 142(b): amended, on 26 November 1997, by [section 96(1)][666] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 142(b): amended, on 26 November 1997, by [section 96(1)][667] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 142(c): amended, on 26 November 1997, by [section 96(1)][666] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 142(c): amended, on 26 November 1997, by [section 96(1)][667] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 142(d): amended, on 26 November 1997, by [section 96(2)][666] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 142(d): amended, on 26 November 1997, by [section 96(2)][667] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 142(e): amended, on 26 November 1997, by [section 96(1)][666] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 142(e): amended, on 26 November 1997, by [section 96(1)][667] of the Biosecurity Amendment Act 1997 (1997 No 89).
 
 #### Biosecurity database
     
-*   Heading: inserted, on 18 September 2012, by [section 59][667] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+*   Heading: inserted, on 18 September 2012, by [section 59][668] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 142A Establishment
     
@@ -9469,13 +9475,13 @@ Administrative provisions
     
     (6) The fact that information is in the biosecurity database because it is provided or made available to the Director-General or the Ministry under another enactment does not affect any provisions in the other enactment relating to the handling of the information.
     
-    Section 142A: inserted, on 18 September 2012, by [section 59][667] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 142A: inserted, on 18 September 2012, by [section 59][668] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 142B Information from local authorities
     
 *   (1) This section applies to information to which both the following apply:
         
-    *   (a) it comes from the database that is required to be kept by a local authority under [section 27][668] of the Local Government (Rating) Act 2002; and
+    *   (a) it comes from the database that is required to be kept by a local authority under [section 27][669] of the Local Government (Rating) Act 2002; and
     
     *   (b) it is of a kind described in [section 142A(3)][279].
     
@@ -9497,7 +9503,7 @@ Administrative provisions
     
     (3) The [Local Government (Rating) Act 2002][476] does not prevent a local authority from complying with this section.
     
-    Section 142B: inserted, on 18 September 2012, by [section 59][667] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 142B: inserted, on 18 September 2012, by [section 59][668] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 142C Access, use, or disclosure
     
@@ -9517,15 +9523,15 @@ Administrative provisions
     
     *   (b) to authorise other persons to access and use it for the purposes of this Act:
     
-    *   (c) to access, use, or disclose it as required by any other enactment, except the [Official Information Act 1982][561]:
+    *   (c) to access, use, or disclose it as required by any other enactment, except the [Official Information Act 1982][562]:
     
-    *   (d) to authorise other persons to access and use it as required by any other enactment, except the [Official Information Act 1982][561]:
+    *   (d) to authorise other persons to access and use it as required by any other enactment, except the [Official Information Act 1982][562]:
     
     *   (e) to access, use, or disclose it in accordance with a permission of a kind described in subsection (4) or (5):
     
     *   (f) to authorise other persons to access and use it in accordance with a permission of a kind described in subsection (4) or (5).
     
-    (3) The references to the [Official Information Act 1982][561] (_OIA_) in subsection (2)(c) and (d) mean that the OIA cannot be used to access information in the biosecurity database, whether or not the OIA can be used to access the same information from another source.
+    (3) The references to the [Official Information Act 1982][562] (_OIA_) in subsection (2)(c) and (d) mean that the OIA cannot be used to access information in the biosecurity database, whether or not the OIA can be used to access the same information from another source.
     
     (4) For information in the biosecurity database that comes from any other source, the person to whom the information relates or the person's agent may give written permission for access to it and use and disclosure of it for a purpose specified in the permission.
     
@@ -9561,7 +9567,7 @@ Administrative provisions
     
     *   (b) ensure that the register is available on an Internet site maintained by or on behalf of the Ministry.
     
-    Section 142C: inserted, on 18 September 2012, by [section 59][667] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 142C: inserted, on 18 September 2012, by [section 59][668] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 142D Person may require Director-General not to access, use, or disclose information
     
@@ -9583,7 +9589,7 @@ Administrative provisions
     
     (4) The person may later inform the Director-General that the person withdraws his or her request.
     
-    Section 142D: inserted, on 18 September 2012, by [section 59][667] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 142D: inserted, on 18 September 2012, by [section 59][668] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 142E Voluntary provision of information
     
@@ -9593,11 +9599,11 @@ Administrative provisions
     
     *   (b) the Director-General using the information for any lawful purpose.
     
-    Section 142E: inserted, on 18 September 2012, by [section 59][667] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 142E: inserted, on 18 September 2012, by [section 59][668] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 #### Automated electronic systems
     
-*   Heading: inserted, on 18 September 2012, by [section 59][667] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+*   Heading: inserted, on 18 September 2012, by [section 59][668] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 142F Arrangement for system
     
@@ -9647,7 +9653,7 @@ Administrative provisions
     
     (6) The Director-General must consult the Privacy Commissioner about including in an arrangement actions that involve the collection or use of personal information.
     
-    Section 142F: inserted, on 18 September 2012, by [section 59][667] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 142F: inserted, on 18 September 2012, by [section 59][668] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 142G Effect of use of system
     
@@ -9667,11 +9673,11 @@ Administrative provisions
     
     (4) If the system operates in such a way as to render the action done or partly done by the system clearly wrong, the action may be done by the appropriate person referred to in [section 142F(3)][285].
     
-    Section 142G: inserted, on 18 September 2012, by [section 59][667] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 142G: inserted, on 18 September 2012, by [section 59][668] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 #### Risk profiling
     
-*   Heading: inserted, on 18 September 2012, by [section 59][667] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+*   Heading: inserted, on 18 September 2012, by [section 59][668] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 142H Retention and use of information for risk profiling
     
@@ -9691,11 +9697,11 @@ Administrative provisions
     
     (3) A person exercising powers or carrying out duties or functions under this Act may apply a risk assessment or criteria developed under subsection (2).
     
-    Section 142H: inserted, on 18 September 2012, by [section 59][667] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 142H: inserted, on 18 September 2012, by [section 59][668] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 #### Disclosure of personal information
     
-*   Heading: inserted, on 18 September 2012, by [section 59][667] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+*   Heading: inserted, on 18 September 2012, by [section 59][668] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 142I Disclosure of personal information in New Zealand
     
@@ -9753,7 +9759,7 @@ Administrative provisions
     
     (5) This section does not apply to information in the biosecurity database.
     
-    Section 142I: inserted, on 18 September 2012, by [section 59][667] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 142I: inserted, on 18 September 2012, by [section 59][668] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 142J Disclosure of personal information outside New Zealand
     
@@ -9831,7 +9837,7 @@ Administrative provisions
     
     (7) This section does not apply to information in the biosecurity database.
     
-    Section 142J: inserted, on 18 September 2012, by [section 59][667] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 142J: inserted, on 18 September 2012, by [section 59][668] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 142K Disclosure of personal information outside New Zealand: urgent action required
     
@@ -9875,11 +9881,11 @@ Administrative provisions
     
     (6) This section does not apply to information in the biosecurity database.
     
-    Section 142K: inserted, on 18 September 2012, by [section 59][667] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 142K: inserted, on 18 September 2012, by [section 59][668] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 #### Incorporation by reference
     
-*   Heading: inserted, on 18 September 2012, by [section 59][667] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+*   Heading: inserted, on 18 September 2012, by [section 59][668] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 142L Definitions for sections 142M to 142S
     
@@ -9929,7 +9935,7 @@ Administrative provisions
     
     *   (c) the principal officer, for biosecurity documents for which a regional council is responsible.
     
-    Section 142L: inserted, on 18 September 2012, by [section 59][667] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 142L: inserted, on 18 September 2012, by [section 59][668] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 142M Incorporation in biosecurity documents
     
@@ -9951,7 +9957,7 @@ Administrative provisions
     
     (2) Material incorporated in a biosecurity document has legal effect as part of the document.
     
-    Section 142M: inserted, on 18 September 2012, by [section 59][667] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 142M: inserted, on 18 September 2012, by [section 59][668] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 142N Requirement to consult on proposal to incorporate material
     
@@ -9999,7 +10005,7 @@ Administrative provisions
     
     (8) Failure to comply with this section does not invalidate a biosecurity document that incorporates material.
     
-    Section 142N: inserted, on 18 September 2012, by [section 59][667] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 142N: inserted, on 18 September 2012, by [section 59][668] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 142O Effect of amendments to, or replacement of, material incorporated
     
@@ -10015,7 +10021,7 @@ Administrative provisions
     
     (4) Subsection (1) does not apply to the material described in any of [section 142M(1)(e) to (g)][295].
     
-    Section 142O: inserted, on 18 September 2012, by [section 59][667] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 142O: inserted, on 18 September 2012, by [section 59][668] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 142P Proof of material incorporated
     
@@ -10027,7 +10033,7 @@ Administrative provisions
     
     (2) The production in proceedings of a certified copy of the material is, in the absence of evidence to the contrary, sufficient evidence of the incorporation in the biosecurity document of the material.
     
-    Section 142P: inserted, on 18 September 2012, by [section 59][667] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 142P: inserted, on 18 September 2012, by [section 59][668] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 142Q Effect of expiry of material incorporated
     
@@ -10041,7 +10047,7 @@ Administrative provisions
     
     (3) Subsection (1) does not apply if the biosecurity document expressly says that it does not apply.
     
-    Section 142Q: inserted, on 18 September 2012, by [section 59][667] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 142Q: inserted, on 18 September 2012, by [section 59][668] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 142R Access to material incorporated
     
@@ -10071,21 +10077,21 @@ Administrative provisions
     
     (4) Failure to comply with this section does not invalidate a biosecurity document that incorporates material.
     
-    Section 142R: inserted, on 18 September 2012, by [section 59][667] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 142R: inserted, on 18 September 2012, by [section 59][668] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 142S Effect of other enactments
     
-*   (1) The [Acts and Regulations Publication Act 1989][551] does not apply to material incorporated in a biosecurity document.
+*   (1) [Part 2][670] of the Legislation Act 2012 does not apply to material incorporated in a biosecurity document.
     
-    (2) In relation to the [Regulations (Disallowance) Act 1989][550],---
-        
-    *   (a) it applies to regulations that incorporate material; and
+    (2) [Subpart 1][671] of Part 3 of the Legislation Act 2012 applies to regulations that incorporate material, but the requirement in [section 41][551] to present a disallowable instrument to the House of Representatives does not apply to material incorporated in regulations.
     
-    *   (b) its section 4 does not require material incorporated in regulations to be presented to the House of Representatives.
+    (3) [Sections 22 to 25][672] of the Standards Act 1988 are not affected by [sections 142L to 142R][294].
     
-    (3) [Sections 22 to 25][669] of the Standards Act 1988 are not affected by [sections 142L to 142R][294].
+    Section 142S: inserted, on 18 September 2012, by [section 59][668] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 142S: inserted, on 18 September 2012, by [section 59][667] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 142S(1): replaced, on 1 February 2014, by [section 77(3)][552] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 142S(2): replaced, on 1 February 2014, by [section 77(3)][552] of the Legislation Act 2012 (2012 No 119).
 
 ## Part 7  
 Exigency actions
@@ -10094,7 +10100,7 @@ Exigency actions
     
 *   The purpose of this Part is to provide for the effective prevention, eradication, or management of unwanted organisms if emergencies or other exigencies occur.
     
-    Section 143: amended, on 18 September 2012, by [section 60][670] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 143: amended, on 18 September 2012, by [section 60][673] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 144 Declaration of biosecurity emergency
     
@@ -10124,39 +10130,39 @@ Exigency actions
     
     (6) On the recommendation of the Minister, the Governor-General may by further Proclamation amend, extend, or revoke a Proclamation under this section and the Minister must publish notice of the amendment, extension, or revocation in the manner provided by subsection (5).
     
-    Compare: 1967 No 50 s 30; 1970 No 151 [s 12][671]
+    Compare: 1967 No 50 s 30; 1970 No 151 [s 12][674]
     
-    Section 144(1): amended, on 26 November 1997, by [section 97(1)][672] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 144(1): amended, on 26 November 1997, by [section 97(1)][675] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 144(1)(a)(iv): amended, on 18 September 2012, by [section 61(1)][673] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 144(1)(a)(iv): amended, on 18 September 2012, by [section 61(1)][676] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 144(1)(b): amended, on 18 September 2012, by [section 61(2)][673] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 144(1)(b): amended, on 18 September 2012, by [section 61(2)][676] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 144(1)(b): amended, on 18 September 2012, by [section 61(3)][673] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 144(1)(b): amended, on 18 September 2012, by [section 61(3)][676] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 144(1)(b): amended, on 26 November 1997, by [section 97(2)(a)][672] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 144(1)(b): amended, on 26 November 1997, by [section 97(2)(a)][675] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 144(1)(b): amended, on 26 November 1997, by [section 97(2)(b)][672] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 144(1)(b): amended, on 26 November 1997, by [section 97(2)(b)][675] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 144(6): amended, on 18 September 2012, by [section 61(4)][673] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 144(6): amended, on 18 September 2012, by [section 61(4)][676] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 145 Emergency powers
     
 *   (1) The Minister may, in the area or areas in which a declaration of biosecurity emergency is in force, take such measures, and do all such acts and things and give all such directions, and require all such acts to be done or not to be done, as the Minister believes on reasonable grounds to be necessary or desirable for the purpose of eradicating or managing the organism in respect of which the emergency has been declared.
     
-    (2) Without prejudice to the generality of the powers conferred by subsection (1), the Minister, or any person authorised by the Minister for the purpose, may require the owner of any goods or premises or craft (being a craft registered in New Zealand, or chartered by a company (within the meaning of [section 2(1)][674] of the Companies Act 1993)) that is anywhere in New Zealand and that the Minister or person authorised by the Minister believes on reasonable grounds to be necessary or would be of assistance in eradicating or limiting the spread of the organism to transfer the goods to or permit the premises or craft to be used for a specified period by the Minister or any other person.
+    (2) Without prejudice to the generality of the powers conferred by subsection (1), the Minister, or any person authorised by the Minister for the purpose, may require the owner of any goods or premises or craft (being a craft registered in New Zealand, or chartered by a company (within the meaning of [section 2(1)][677] of the Companies Act 1993)) that is anywhere in New Zealand and that the Minister or person authorised by the Minister believes on reasonable grounds to be necessary or would be of assistance in eradicating or limiting the spread of the organism to transfer the goods to or permit the premises or craft to be used for a specified period by the Minister or any other person.
     
-    Compare: 1967 No 50 ss 30, 31; 1970 No 151 [s 13(1)][675]
+    Compare: 1967 No 50 ss 30, 31; 1970 No 151 [s 13(1)][678]
     
-    Section 145(1): amended, on 18 September 2012, by [section 62(1)][676] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 145(1): amended, on 18 September 2012, by [section 62(1)][679] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 145(1): amended, on 26 November 1997, by [section 98][677] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 145(1): amended, on 26 November 1997, by [section 98][680] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 145(2): amended, on 5 December 2013, by [section 14][678] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 145(2): amended, on 5 December 2013, by [section 14][681] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 145(2): amended, on 18 September 2012, by [section 62(2)][676] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 145(2): amended, on 18 September 2012, by [section 62(2)][679] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 145(2): amended, on 26 November 1997, by [section 98][677] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 145(2): amended, on 26 November 1997, by [section 98][680] of the Biosecurity Amendment Act 1997 (1997 No 89).
 
 ##### 146 Duration of emergency
     
@@ -10180,9 +10186,11 @@ Exigency actions
     
     (6) A resolution revoking a declaration has effect from the time of the resolution or a later time specified in the resolution.
     
-    (7) An extension under subsection (2)(b) or a revocation under subsection (5)(b) must be published as provided in [section 10][679] of the Regulations (Disallowance) Act 1989\.
+    (7) An extension under subsection (2)(b) or a revocation under subsection (5)(b) must be published as provided in [section 47][682] of the Legislation Act 2012\.
     
-    Section 146: replaced, on 18 September 2012, by [section 63][680] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 146: replaced, on 18 September 2012, by [section 63][683] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    
+    Section 146(7): replaced, on 1 February 2014, by [section 77(3)][552] of the Legislation Act 2012 (2012 No 119).
 
 ##### 147 House of Representatives must be informed
     
@@ -10206,19 +10214,19 @@ Exigency actions
     
     (5) In this section, _House_ means the House of Representatives.
     
-    Section 147: replaced, on 18 September 2012, by [section 64][681] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 147: replaced, on 18 September 2012, by [section 64][684] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 148 Revocation by House of Representatives of biosecurity emergency
     
 *   \[Repealed\]
     
-    Section 148: repealed, on 18 September 2012, by [section 64][681] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 148: repealed, on 18 September 2012, by [section 64][684] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 149 Compensation
     
 *   \[Repealed\]
     
-    Section 149: repealed, on 1 October 1998, by [section 106(2)][643] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 149: repealed, on 1 October 1998, by [section 106(2)][644] of the Biosecurity Amendment Act 1997 (1997 No 89).
 
 ##### 150 Biosecurity emergency regulations
     
@@ -10250,19 +10258,19 @@ Exigency actions
     
     (5) The responsible Minister shall lay all biosecurity emergency regulations before the House of Representatives not later than the second sitting day after they are made.
     
-    Section 150(1): amended, on 18 September 2012, by [section 65][682] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 150(1): amended, on 18 September 2012, by [section 65][685] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 150(1): amended, on 26 November 1997, by [section 99][683] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 150(1): amended, on 26 November 1997, by [section 99][686] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 150(2): amended, on 18 September 2012, by [section 65][682] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 150(2): amended, on 18 September 2012, by [section 65][685] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 150(2): amended, on 26 November 1997, by [section 99][683] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 150(2): amended, on 26 November 1997, by [section 99][686] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 150(3)(c): repealed, on 1 October 1998, by [section 106(2)][643] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 150(3)(c): repealed, on 1 October 1998, by [section 106(2)][644] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 150(3)(d): repealed, on 1 October 1998, by [section 106(2)][643] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 150(3)(d): repealed, on 1 October 1998, by [section 106(2)][644] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 150(3)(e): repealed, on 1 October 1998, by [section 106(2)][643] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 150(3)(e): repealed, on 1 October 1998, by [section 106(2)][644] of the Biosecurity Amendment Act 1997 (1997 No 89).
 
 ##### 151 Emergency regulations to be confirmed
     
@@ -10270,7 +10278,7 @@ Exigency actions
         
     *   (a) have not been revoked with effect on or before 1 July in the next year; and
     
-    *   (b) have not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of the [Regulations (Disallowance) Act 1989][550],---
+    *   (b) have not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of [Part 3][563] of the Legislation Act 2012,---
     
     they shall be deemed to have been revoked with the close of 30 June in that next year unless they have been confirmed by an Act of Parliament passed on or before that day.
     
@@ -10278,9 +10286,13 @@ Exigency actions
         
     *   (a) have not been revoked with effect on or before 1 January in the year after the next year; and
     
-    *   (b) have not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of the [Regulations (Disallowance) Act 1989][550],---
+    *   (b) have not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of [Part 3][563] of the Legislation Act 2012,---
     
     they shall be deemed to have been revoked with the close of 31 December in the year after the year in which they were made, unless they have been confirmed by an Act of Parliament passed on or before that day.
+    
+    Section 151(1)(b): amended, on 1 February 2014, by [section 77(3)][552] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 151(2)(b): amended, on 1 February 2014, by [section 77(3)][552] of the Legislation Act 2012 (2012 No 119).
 
 ##### 152 Provisional control action
     
@@ -10294,20 +10306,20 @@ Exigency actions
     
     (3) A provisional control programme declared in accordance with this section may remain in force for such period not exceeding 60 days as the Minister believes on reasonable grounds to be necessary and the Minister may extend the programme for 1 further period not exceeding 60 days.
     
-    Section 152: substituted, on 26 November 1997, by [section 100][684] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 152: substituted, on 26 November 1997, by [section 100][687] of the Biosecurity Amendment Act 1997 (1997 No 89).
 
 ##### 153 Compensation following investigation of pests
     
 *   \[Repealed\]
     
-    Section 153: repealed, on 1 October 1998, by [section 106(2)][643] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 153: repealed, on 1 October 1998, by [section 106(2)][644] of the Biosecurity Amendment Act 1997 (1997 No 89).
 
 ## Part 8  
 Enforcement, offences, and penalties
 
 #### Compliance orders
     
-*   Heading: inserted, on 18 September 2012, by [section 66][685] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+*   Heading: inserted, on 18 September 2012, by [section 66][688] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 154 Scope
     
@@ -10327,7 +10339,7 @@ Enforcement, offences, and penalties
     
     *   (f) require the person to do something that, in the opinion of the inspector or authorised person, is necessary to ensure that the person complies with biosecurity law.
     
-    Section 154: replaced, on 18 September 2012, by [section 66][685] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 154: replaced, on 18 September 2012, by [section 66][688] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 154A Content
     
@@ -10355,7 +10367,7 @@ Enforcement, offences, and penalties
     
     *   (h) the name and address of the agency whose inspector or authorised person made the order.
     
-    Section 154A: inserted, on 18 September 2012, by [section 66][685] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 154A: inserted, on 18 September 2012, by [section 66][688] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 154B Service
     
@@ -10379,7 +10391,7 @@ Enforcement, offences, and penalties
     
     *   (c) service by post is deemed to occur at the time at which the order would have been delivered in the ordinary course of the post.
     
-    Section 154B: inserted, on 18 September 2012, by [section 66][685] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 154B: inserted, on 18 September 2012, by [section 66][688] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 154C Compliance
     
@@ -10391,7 +10403,7 @@ Enforcement, offences, and penalties
     
     *   (c) pay all the costs and expenses of complying with the order, unless the order states otherwise.
     
-    Section 154C: inserted, on 18 September 2012, by [section 66][685] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 154C: inserted, on 18 September 2012, by [section 66][688] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 154D Change or cancellation
     
@@ -10419,7 +10431,7 @@ Enforcement, offences, and penalties
     
     *   (b) must give the person against whom the order was made written notice of the cancellation.
     
-    Section 154D: inserted, on 18 September 2012, by [section 66][685] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 154D: inserted, on 18 September 2012, by [section 66][688] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 154E Appeal to District Court
     
@@ -10461,29 +10473,29 @@ Enforcement, offences, and penalties
     
     ###### District Courts Rules apply
     
-    (9) The rules of procedure under the [District Courts Act 1947][686] apply to the making of an appeal and an application for a stay.
+    (9) The rules of procedure under the [District Courts Act 1947][689] apply to the making of an appeal and an application for a stay.
     
     ###### Powers of District Court
     
     (10) The District Court may confirm, change, or cancel the order appealed against.
     
-    Section 154E: inserted, on 18 September 2012, by [section 66][685] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 154E: inserted, on 18 September 2012, by [section 66][688] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 154F Appeal to High Court, Court of Appeal, or Supreme Court
     
 *   (1) A party to an appeal under [section 154E][321] may appeal to the High Court on a question of law.
     
-    (2) The High Court Rules and [sections 74 to 78][687] of the District Courts Act 1947 apply to an appeal under subsection (1)---
+    (2) The High Court Rules and [sections 74 to 78][690] of the District Courts Act 1947 apply to an appeal under subsection (1)---
         
-    *   (a) as if it were an appeal under [section 72][688] of the District Courts Act 1947; and
+    *   (a) as if it were an appeal under [section 72][691] of the District Courts Act 1947; and
     
     *   (b) with all necessary modifications.
     
-    (3) A party to an appeal under subsection (1) may appeal to the Court of Appeal or the Supreme Court against a determination of the High Court on a question of law, with the leave of the court appealed to, and subject to [section 14][689] of the Supreme Court Act 2003\.
+    (3) A party to an appeal under subsection (1) may appeal to the Court of Appeal or the Supreme Court against a determination of the High Court on a question of law, with the leave of the court appealed to, and subject to [section 14][692] of the Supreme Court Act 2003\.
     
     (4) The Court of Appeal or the Supreme Court hearing an appeal under this section has the same power to adjudicate on the appeal as the High Court had.
     
-    Section 154F: inserted, on 18 September 2012, by [section 66][685] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 154F: inserted, on 18 September 2012, by [section 66][688] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 154G Effect of appeal
     
@@ -10493,11 +10505,11 @@ Enforcement, offences, and penalties
     
     *   (b) the person who appeals must comply with the order if compliance is required as the result of the person exercising the person's appeal rights.
     
-    Section 154G: inserted, on 18 September 2012, by [section 66][685] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 154G: inserted, on 18 September 2012, by [section 66][688] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 #### Pecuniary penalties
     
-*   Heading: inserted, on 18 September 2012, by [section 66][685] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+*   Heading: inserted, on 18 September 2012, by [section 66][688] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 154H Pecuniary penalty order
     
@@ -10577,7 +10589,7 @@ Enforcement, offences, and penalties
     
     (5) The Director-General may apply for an order of the Court to obtain discovery and administer interrogatories.
     
-    Section 154H: inserted, on 18 September 2012, by [section 66][685] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 154H: inserted, on 18 September 2012, by [section 66][688] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 154I Liability of principals and employers
     
@@ -10597,7 +10609,7 @@ Enforcement, offences, and penalties
     
     *   (b) that the director or person knew that the non-compliance was occurring or was to occur and failed to take all reasonable steps to prevent or stop it.
     
-    Section 154I: inserted, on 18 September 2012, by [section 66][685] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 154I: inserted, on 18 September 2012, by [section 66][688] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 154J Amount
     
@@ -10649,11 +10661,11 @@ Enforcement, offences, and penalties
         
     *   (a) $10,000,000; and
     
-    *   (b) 10% of the turnover of the body corporate and all of its interconnected bodies corporate (if any) (_interconnected_ and _turnover_ having the meanings they have in the [Commerce Act 1986][690]).
+    *   (b) 10% of the turnover of the body corporate and all of its interconnected bodies corporate (if any) (_interconnected_ and _turnover_ having the meanings they have in the [Commerce Act 1986][693]).
     
     (7) For the purposes of subsection (4)(c), the limit is $10,000,000\.
     
-    Section 154J: inserted, on 18 September 2012, by [section 66][685] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 154J: inserted, on 18 September 2012, by [section 66][688] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 154K Other orders instead of or in addition to pecuniary penalty order
     
@@ -10665,7 +10677,7 @@ Enforcement, offences, and penalties
     
     *   (c) an order that the person pay the costs of mitigating or remedying the adverse effects referred to in paragraph (a) or (b).
     
-    Section 154K: inserted, on 18 September 2012, by [section 66][685] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 154K: inserted, on 18 September 2012, by [section 66][688] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 154L Concurrent criminal proceedings and pecuniary penalty proceedings
     
@@ -10677,11 +10689,11 @@ Enforcement, offences, and penalties
     
     (4) Criminal proceedings may not be started if pecuniary penalty proceedings have resulted in the making of a pecuniary penalty order that remains in place after all appeal rights either have not been exercised at all or have been exercised and abandoned or exhausted.
     
-    Section 154L: inserted, on 18 September 2012, by [section 66][685] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 154L: inserted, on 18 September 2012, by [section 66][688] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 #### Offences
     
-*   Heading: inserted, on 18 September 2012, by [section 66][685] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+*   Heading: inserted, on 18 September 2012, by [section 66][688] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 154M Section 154M offence
     
@@ -10737,7 +10749,7 @@ Enforcement, offences, and penalties
     
     (8) The penalty for the offence is in [section 157(5)][336].
     
-    Section 154M: inserted, on 18 September 2012, by [section 66][685] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 154M: inserted, on 18 September 2012, by [section 66][688] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 154N Section 154N offences
     
@@ -10887,7 +10899,7 @@ Enforcement, offences, and penalties
     
     (21) A person commits an offence against this Act who erroneously declares that he or she is not in possession of any or all of the goods specified in a declaration that the person is required to make about the goods.
     
-    Section 154N: inserted, on 18 September 2012, by [section 66][685] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 154N: inserted, on 18 September 2012, by [section 66][688] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 154O Section 154O offences
     
@@ -11023,7 +11035,7 @@ Enforcement, offences, and penalties
     
     *   (c) wilfully gives a false or misleading answer.
     
-    Section 154O: inserted, on 18 September 2012, by [section 66][685] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 154O: inserted, on 18 September 2012, by [section 66][688] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 155 Proof of permission, etc
     
@@ -11031,7 +11043,7 @@ Enforcement, offences, and penalties
     
     Compare: 1967 No 50 s 105
     
-    Section 155: amended, on 26 November 1997, by [section 102][691] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 155: amended, on 26 November 1997, by [section 102][694] of the Biosecurity Amendment Act 1997 (1997 No 89).
 
 ##### 156 Liability of principals and agents
     
@@ -11079,41 +11091,41 @@ Enforcement, offences, and penalties
     
     (7) Every person who commits an offence against [section 154N(21)][332] is liable on conviction to a fine not exceeding $1,000\.
     
-    Section 157: substituted, on 26 November 1997, by [section 103][692] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 157: substituted, on 26 November 1997, by [section 103][695] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 157(1): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 157(1): amended, on 1 July 2013, by [section 413][696] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 157(1): amended, on 18 September 2012, by [section 67(1)][694] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 157(1): amended, on 18 September 2012, by [section 67(1)][697] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 157(2): amended, on 18 September 2012, by [section 67(2)][694] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 157(2): amended, on 18 September 2012, by [section 67(2)][697] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 157(3): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 157(3): amended, on 1 July 2013, by [section 413][696] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 157(3): amended, on 18 September 2012, by [section 67(3)][694] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 157(3): amended, on 18 September 2012, by [section 67(3)][697] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 157(4): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 157(4): amended, on 1 July 2013, by [section 413][696] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 157(4): amended, on 18 September 2012, by [section 67(4)][694] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 157(4): amended, on 18 September 2012, by [section 67(4)][697] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 157(5): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 157(5): amended, on 1 July 2013, by [section 413][696] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 157(5): amended, on 18 September 2012, by [section 67(5)][694] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 157(5): amended, on 18 September 2012, by [section 67(5)][697] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 157(6): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 157(6): amended, on 1 July 2013, by [section 413][696] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 157(7): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 157(7): amended, on 1 July 2013, by [section 413][696] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 157(7): amended, on 18 September 2012, by [section 67(6)][694] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 157(7): amended, on 18 September 2012, by [section 67(6)][697] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 157(7): amended, on 22 April 2010, by [section 5][695] of the Biosecurity Amendment Act 2009 (2009 No 66).
+    Section 157(7): amended, on 22 April 2010, by [section 5][698] of the Biosecurity Amendment Act 2009 (2009 No 66).
     
-    Section 157(7): amended, on 7 May 1999, by [section 3][696] of the Biosecurity Amendment Act 1999 (1999 No 29).
+    Section 157(7): amended, on 7 May 1999, by [section 3][699] of the Biosecurity Amendment Act 1999 (1999 No 29).
 
 ##### 158 Fines to be paid to management agency instituting prosecution
     
 *   \[Repealed\]
     
-    Section 158: repealed, on 18 September 2012, by [section 68][697] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 158: repealed, on 18 September 2012, by [section 68][700] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 159 Proceedings for infringement offences other than border infringement offences
     
@@ -11125,13 +11137,13 @@ Enforcement, offences, and penalties
     
     *   (b) an authorised person has reason to believe that a defendant has committed an infringement offence that the authorised person may deal with within his or her terms of appointment under [section 103(1)(b), (2), or (3)][218].
     
-    (1B) Proceedings may be taken against the defendant by filing a charging document under [section 14][698] of the Criminal Procedure Act 2011\.
+    (1B) Proceedings may be taken against the defendant by filing a charging document under [section 14][701] of the Criminal Procedure Act 2011\.
     
     (1C) Alternatively, the inspector or the authorised person may issue an infringement notice to the defendant. In that case,---
         
-    *   (a) proceedings for the offence may be commenced in accordance with [section 21][699] of the Summary Proceedings Act 1957; and
+    *   (a) proceedings for the offence may be commenced in accordance with [section 21][702] of the Summary Proceedings Act 1957; and
     
-    *   (b) [section 21][699] of that Act applies with all necessary modifications.
+    *   (b) [section 21][702] of that Act applies with all necessary modifications.
     
     (2) Any inspector (not necessarily the inspector who issued the notice), the authorised person (the authorised person who issued the notice), or an authorised person appointed by the same appointer as appointed the authorised person who issued the notice---
         
@@ -11149,7 +11161,7 @@ Enforcement, offences, and penalties
     
     *   (d) the time within which the fee may be paid; and
     
-    *   (e) a summary of the provisions of [section 21(10)][699] of the Summary Proceedings Act 1957; and
+    *   (e) a summary of the provisions of [section 21(10)][702] of the Summary Proceedings Act 1957; and
     
     *   (f) that the defendant has the right to request a hearing; and
     
@@ -11157,37 +11169,37 @@ Enforcement, offences, and penalties
     
     *   (h) any other matters prescribed in that behalf.
     
-    Section 159 heading: substituted, on 22 April 2010, by [section 6(1)][700] of the Biosecurity Amendment Act 2009 (2009 No 66).
+    Section 159 heading: substituted, on 22 April 2010, by [section 6(1)][703] of the Biosecurity Amendment Act 2009 (2009 No 66).
     
-    Section 159 heading: amended, on 18 September 2012, by [section 69(1)][701] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 159 heading: amended, on 18 September 2012, by [section 69(1)][704] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 159(1): replaced, on 18 September 2012, by [section 69(2)][701] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 159(1): replaced, on 18 September 2012, by [section 69(2)][704] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 159(1A): inserted, on 18 September 2012, by [section 69(2)][701] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 159(1A): inserted, on 18 September 2012, by [section 69(2)][704] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 159(1B): inserted, on 18 September 2012, by [section 69(2)][701] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 159(1B): inserted, on 18 September 2012, by [section 69(2)][704] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 159(1B): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 159(1B): amended, on 1 July 2013, by [section 413][696] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 159(1C): inserted, on 18 September 2012, by [section 69(2)][701] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 159(1C): inserted, on 18 September 2012, by [section 69(2)][704] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 159(2): amended, on 18 September 2012, by [section 69(3)][701] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 159(2): amended, on 18 September 2012, by [section 69(3)][704] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 159(2)(b): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 159(2)(b): amended, on 1 July 2013, by [section 413][696] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 159(3)(b): substituted, on 22 April 2010, by [section 6(3)][700] of the Biosecurity Amendment Act 2009 (2009 No 66).
+    Section 159(3)(b): substituted, on 22 April 2010, by [section 6(3)][703] of the Biosecurity Amendment Act 2009 (2009 No 66).
 
 ##### 159A Accelerated infringement notice procedure for border infringement offences
     
 *   (1) This section applies when an inspector has reason to believe that a defendant has committed a border infringement offence.
     
-    (1A) Proceedings may be taken against the defendant by filing a charging document under [section 14][698] of the Criminal Procedure Act 2011\.
+    (1A) Proceedings may be taken against the defendant by filing a charging document under [section 14][701] of the Criminal Procedure Act 2011\.
     
     (1B) Alternatively, the inspector may issue an infringement notice to the defendant. In that case,---
         
-    *   (a) proceedings for the offence may be commenced in accordance with [section 21][699] of the Summary Proceedings Act 1957; and
+    *   (a) proceedings for the offence may be commenced in accordance with [section 21][702] of the Summary Proceedings Act 1957; and
     
-    *   (b) [section 21][699] of that Act applies with all necessary modifications.
+    *   (b) [section 21][702] of that Act applies with all necessary modifications.
     
     (2) Any employee of the Ministry (not necessarily the inspector who issued the notice)---
         
@@ -11209,7 +11221,7 @@ Enforcement, offences, and penalties
     
     *   (e) how and where payment may be made under subsection (5); and
     
-    *   (f) a summary of how the provisions of [section 21(10)][699] of the Summary Proceedings Act 1957 apply to the offence alleged; and
+    *   (f) a summary of how the provisions of [section 21(10)][702] of the Summary Proceedings Act 1957 apply to the offence alleged; and
     
     *   (g) that the defendant has a right to request a hearing; and
     
@@ -11219,59 +11231,59 @@ Enforcement, offences, and penalties
     
     (5) If the infringement notice is served by delivering it to a person at a port approved under [section 37][77] or [section 37A][78], that person may choose to pay immediately the infringement fee in the manner specified in the notice.
     
-    (6) The Ministry may provide particulars of an infringement notice in accordance with [section 21(4) and (4A)][699] of the Summary Proceedings Act 1957, after a period of 14 days from the date of service of the infringement notice, or a copy of the infringement notice, if---
+    (6) The Ministry may provide particulars of an infringement notice in accordance with [section 21(4) and (4A)][702] of the Summary Proceedings Act 1957, after a period of 14 days from the date of service of the infringement notice, or a copy of the infringement notice, if---
         
     *   (a) the infringement fee for the offence has not by then been paid to the Ministry at the address specified in the notice (or immediately under subsection (5)); and
     
     *   (b) the Ministry has not by then received at that address a notice requesting a hearing in respect of that offence.
     
-    (7) If an infringement notice has been issued and served under this section, the [Summary Proceedings Act 1957][702] applies as if that notice were a reminder notice served under [section 21(2)][699] of that Act, and the provisions of that Act apply, with all necessary modifications, to the alleged offence as if---
+    (7) If an infringement notice has been issued and served under this section, the [Summary Proceedings Act 1957][705] applies as if that notice were a reminder notice served under [section 21(2)][702] of that Act, and the provisions of that Act apply, with all necessary modifications, to the alleged offence as if---
         
-    *   (a) the reference in [section 21(1)(b)][699] to providing particulars of a reminder notice under that section were a reference to providing particulars of the infringement notice under subsection (6) of this section; and
+    *   (a) the reference in [section 21(1)(b)][702] to providing particulars of a reminder notice under that section were a reference to providing particulars of the infringement notice under subsection (6) of this section; and
     
-    *   (b) subsection (6) were in the place of [section 21(3)][699]; and
+    *   (b) subsection (6) were in the place of [section 21(3)][702]; and
     
-    *   (c) the reference in [section 21(3A)][699] to the particulars of a reminder notice not having been provided under section 21(3) were a reference to the particulars of the infringement notice not having been provided under subsection (6) of this section; and
+    *   (c) the reference in [section 21(3A)][702] to the particulars of a reminder notice not having been provided under section 21(3) were a reference to the particulars of the infringement notice not having been provided under subsection (6) of this section; and
     
-    *   (d) every reference in [section 21(4), (4A), and (4B)][699] to particulars of a reminder notice were a reference to the particulars of an infringement notice and every reference to the contents of a reminder notice were a reference to the contents of an infringement notice; and
+    *   (d) every reference in [section 21(4), (4A), and (4B)][702] to particulars of a reminder notice were a reference to the particulars of an infringement notice and every reference to the contents of a reminder notice were a reference to the contents of an infringement notice; and
     
-    *   (e) the reference in [section 21(4)(a)][699] to parts of the reminder notice were a reference to parts of the infringement notice; and
+    *   (e) the reference in [section 21(4)(a)][702] to parts of the reminder notice were a reference to parts of the infringement notice; and
     
-    *   (f) the reference in [section 21(4C)][699] to particulars of a reminder notice were a reference to particulars of an infringement notice; and
+    *   (f) the reference in [section 21(4C)][702] to particulars of a reminder notice were a reference to particulars of an infringement notice; and
     
-    *   (g) the reference in [section 21(4C)][699] to the reminder notice were a reference to the infringement notice; and
+    *   (g) the reference in [section 21(4C)][702] to the reminder notice were a reference to the infringement notice; and
     
-    *   (h) the reference in [section 21(5)][699] to the verification of particulars of a reminder notice provided under section 21(3) were a reference to the verification of particulars of an infringement notice provided under subsection (6) of this section; and
+    *   (h) the reference in [section 21(5)][702] to the verification of particulars of a reminder notice provided under section 21(3) were a reference to the verification of particulars of an infringement notice provided under subsection (6) of this section; and
     
-    *   (i) the reference in [section 21(6)(b)][699] and in section 21(10)(a) to a period of 28 days after the service of a reminder notice were a reference to the period of 14 days after the service of the infringement notice; and
+    *   (i) the reference in [section 21(6)(b)][702] and in section 21(10)(a) to a period of 28 days after the service of a reminder notice were a reference to the period of 14 days after the service of the infringement notice; and
     
-    *   (j) each reference in [section 21A][703] and [section 78B][704] to a reminder notice were a reference to an infringement notice and each reference in section 21A and section 78B to the reminder notice were a reference to the infringement notice; and
+    *   (j) each reference in [section 21A][706] and [section 78B][707] to a reminder notice were a reference to an infringement notice and each reference in section 21A and section 78B to the reminder notice were a reference to the infringement notice; and
     
-    *   (k) the references to reminder notices in the definition of defendant in [section 2(1)][705], and in [section 212][706], and in any other relevant provisions of that Act or regulations made under that Act, were references to the infringement notice.
+    *   (k) the references to reminder notices in the definition of defendant in [section 2(1)][708], and in [section 212][709], and in any other relevant provisions of that Act or regulations made under that Act, were references to the infringement notice.
     
     (8) \[Repealed\]
     
-    (9) Despite [section 203(1)][707] of the Summary Proceedings Act 1957, an infringement notice under this section may be issued and served on a Sunday.
+    (9) Despite [section 203(1)][710] of the Summary Proceedings Act 1957, an infringement notice under this section may be issued and served on a Sunday.
     
-    Section 159A: inserted, on 7 May 1999, by [section 4][708] of the Biosecurity Amendment Act 1999 (1999 No 29).
+    Section 159A: inserted, on 7 May 1999, by [section 4][711] of the Biosecurity Amendment Act 1999 (1999 No 29).
     
-    Section 159A heading: substituted, on 22 April 2010, by [section 7(1)][709] of the Biosecurity Amendment Act 2009 (2009 No 66).
+    Section 159A heading: substituted, on 22 April 2010, by [section 7(1)][712] of the Biosecurity Amendment Act 2009 (2009 No 66).
     
-    Section 159A(1): replaced, on 18 September 2012, by [section 70][710] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 159A(1): replaced, on 18 September 2012, by [section 70][713] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 159A(1A): inserted, on 18 September 2012, by [section 70][710] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 159A(1A): inserted, on 18 September 2012, by [section 70][713] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 159A(1A): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 159A(1A): amended, on 1 July 2013, by [section 413][696] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 159A(1B): inserted, on 18 September 2012, by [section 70][710] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 159A(1B): inserted, on 18 September 2012, by [section 70][713] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 159A(4)(b): substituted, on 22 April 2010, by [section 7(3)][709] of the Biosecurity Amendment Act 2009 (2009 No 66).
+    Section 159A(4)(b): substituted, on 22 April 2010, by [section 7(3)][712] of the Biosecurity Amendment Act 2009 (2009 No 66).
     
-    Section 159A(6): substituted, on 1 March 2007, by [section 31][711] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 159A(6): substituted, on 1 March 2007, by [section 31][714] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 159A(7): substituted, on 1 March 2007, by [section 31][711] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 159A(7): substituted, on 1 March 2007, by [section 31][714] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 159A(8): repealed, on 1 March 2007, by [section 31][711] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 159A(8): repealed, on 1 March 2007, by [section 31][714] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
 
 ##### 160 Who gets payments of fines, fees, and pecuniary penalties
     
@@ -11335,17 +11347,17 @@ Enforcement, offences, and penalties
     
     (12) In this section, _response activity_ has the meaning given to it in [section 100Y(3)][204].
     
-    Section 160: replaced, on 18 September 2012, by [section 71][712] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 160: replaced, on 18 September 2012, by [section 71][715] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 160(1)(c): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 160(1)(c): amended, on 1 July 2013, by [section 413][696] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 160(3)(c): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 160(3)(c): amended, on 1 July 2013, by [section 413][696] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 160A Procedure for certain declaration offences
     
 *   \[Repealed\]
     
-    Section 160A: repealed, on 7 May 1999, by [section 4][708] of the Biosecurity Amendment Act 1999 (1999 No 29).
+    Section 160A: repealed, on 7 May 1999, by [section 4][711] of the Biosecurity Amendment Act 1999 (1999 No 29).
 
 ##### 161 Evidence in proceedings
     
@@ -11439,21 +11451,21 @@ Enforcement, offences, and penalties
     
     (5) The court must not make an order under subsection (4)(b) unless it is satisfied that there is a reasonable doubt as to the accuracy or validity of a certificate.
     
-    Section 161: substituted, on 26 November 1997, by [section 105][713] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 161: substituted, on 26 November 1997, by [section 105][716] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 161(2)(a)(i): amended, on 18 September 2012, by [section 72(1)][714] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 161(2)(a)(i): amended, on 18 September 2012, by [section 72(1)][717] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 161(2)(a)(ii): amended, on 18 September 2012, by [section 72(2)][714] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 161(2)(a)(ii): amended, on 18 September 2012, by [section 72(2)][717] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 161(2)(d)(ii): amended, on 18 September 2012, by [section 72(3)][714] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 161(2)(d)(ii): amended, on 18 September 2012, by [section 72(3)][717] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 161(2)(e)(ii): amended, on 18 September 2012, by [section 72(4)][714] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 161(2)(e)(ii): amended, on 18 September 2012, by [section 72(4)][717] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 161(2)(f): amended, on 18 September 2012, by [section 72(5)][714] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 161(2)(f): amended, on 18 September 2012, by [section 72(5)][717] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
     Section 161(2)(g): amended, on 1 July 2003, by [section 262][429] of the Local Government Act 2002 (2002 No 84).
     
-    Section 161(2)(j): inserted, on 18 September 2012, by [section 72(6)][714] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 161(2)(j): inserted, on 18 September 2012, by [section 72(6)][717] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162 Time for filing charging document for certain offences
     
@@ -11465,22 +11477,22 @@ Enforcement, offences, and penalties
     
     (2) The limitation period for the offence ends on the date that is 2 years after the date on which the offence was committed.
     
-    (3) [Section 25][715] of the Criminal Procedure Act 2011 does not apply to the offence.
+    (3) [Section 25][718] of the Criminal Procedure Act 2011 does not apply to the offence.
     
-    Section 162: replaced, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 162: replaced, on 1 July 2013, by [section 413][696] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 8A  
 Exclusive economic zone
     
-*   Part 8A: inserted, on 18 September 2012, by [section 73][716] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+*   Part 8A: inserted, on 18 September 2012, by [section 73][719] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AA Definitions for this Part
     
-*   (1) In this Part, _exclusive economic zone_ or _EEZ_ means the zone described in [section 9][717] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977 as the exclusive economic zone.
+*   (1) In this Part, _exclusive economic zone_ or _EEZ_ means the zone described in [section 9][720] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977 as the exclusive economic zone.
     
     (2) In this Part, and in provisions modified by this Part, _arrive in the EEZ_ means to anchor in, berth in, or operate in the EEZ for the purpose of exploring or exploiting resources in the EEZ, or in preparation or support for such a purpose, after a voyage originating beyond the outer limits of the EEZ.
     
-    Section 162AA: inserted, on 18 September 2012, by [section 73][716] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AA: inserted, on 18 September 2012, by [section 73][719] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AB Application of Act in EEZ
     
@@ -11500,31 +11512,31 @@ Exclusive economic zone
     
     (3) A provision in this Act that applies in the EEZ must be interpreted in a way that preserves the rights of other states, including the freedoms of navigation and overflight, as set out in the United Nations Convention on the Law of the Sea of 10 December 1982\.
     
-    Section 162AB: inserted, on 18 September 2012, by [section 73][716] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AB: inserted, on 18 September 2012, by [section 73][719] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AC Application of Act to fish and mammals taken in EEZ
     
-*   (1) Fish and marine mammals taken in the EEZ and carried on board a foreign licensed vessel, a vessel registered under the [Fisheries Act 1996][718], or a vessel operated by the Crown are treated for the purposes of this Act as if they were not imported goods.
+*   (1) Fish and marine mammals taken in the EEZ and carried on board a foreign licensed vessel, a vessel registered under the [Fisheries Act 1996][721], or a vessel operated by the Crown are treated for the purposes of this Act as if they were not imported goods.
     
     (2) In subsection (1),---
     
-    _fish_ has the meaning given to it by [section 2][719] of the Fisheries Act 1996
+    _fish_ has the meaning given to it by [section 2][722] of the Fisheries Act 1996
     
-    _marine mammal_ has the meaning given to it by [section 2][720] of the Marine Mammals Protection Act 1978\.
+    _marine mammal_ has the meaning given to it by [section 2][723] of the Marine Mammals Protection Act 1978\.
     
-    Section 162AC: inserted, on 18 September 2012, by [section 73][716] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AC: inserted, on 18 September 2012, by [section 73][719] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AD Interpretation
     
 *   The definition of _craft_ in [section 2][4] applies as if ""is imported by"" read ""arrives in the EEZ after"".
     
-    Section 162AD: inserted, on 18 September 2012, by [section 73][716] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AD: inserted, on 18 September 2012, by [section 73][719] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AE Purpose of Part 3
     
 *   [Section 16][31] applies as if paragraph (b) read ""craft that arrive in the EEZ"".
     
-    Section 162AE: inserted, on 18 September 2012, by [section 73][716] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AE: inserted, on 18 September 2012, by [section 73][719] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AF Notice of intended arrival of craft in EEZ
     
@@ -11534,7 +11546,7 @@ Exclusive economic zone
     
     (3) [Section 17(2), (6)(b)(ii), (7), (9)(c)(ii), and (10)][36] do not apply.
     
-    Section 162AF: inserted, on 18 September 2012, by [section 73][716] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AF: inserted, on 18 September 2012, by [section 73][719] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AG Arrival of craft in EEZ
     
@@ -11544,7 +11556,7 @@ Exclusive economic zone
     
     (3) [Section 18(3)][37] applies as if ""or the EEZ"" appeared after ""New Zealand waters"".
     
-    Section 162AG: inserted, on 18 September 2012, by [section 73][716] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AG: inserted, on 18 September 2012, by [section 73][719] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AH Persons in charge of certain craft to obey directions of inspector or authorised person
     
@@ -11554,13 +11566,13 @@ Exclusive economic zone
     
     (3) [Section 19(2)(c)][38] applies as if ""cargo, crew, passengers, stores, or"" did not appear.
     
-    Section 162AH: inserted, on 18 September 2012, by [section 73][716] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AH: inserted, on 18 September 2012, by [section 73][719] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AI Boarding of craft
     
 *   [Section 31][70] applies as if paragraph (b) read ""any craft, used for the transportation of people or goods, or both, by sea, that is within the EEZ for the purposes of exploring or exploiting resources in the EEZ, or in preparation or support for such a purpose, after a voyage originating beyond the outer limits of the EEZ---"".
     
-    Section 162AI: inserted, on 18 September 2012, by [section 73][716] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AI: inserted, on 18 September 2012, by [section 73][719] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AJ Powers relating to craft
     
@@ -11570,7 +11582,7 @@ Exclusive economic zone
     
     (3) [Section 32(1)(b)][71] applies as if ""New Zealand territory"" read ""the EEZ, but only if there is no feasible alternative to managing the biosecurity risks posed by the craft and if the movement directed is only to the extent reasonably necessary to manage the biosecurity risks posed by the craft"".
     
-    Section 162AJ: inserted, on 18 September 2012, by [section 73][716] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AJ: inserted, on 18 September 2012, by [section 73][719] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AK Risk goods on board craft
     
@@ -11582,85 +11594,85 @@ Exclusive economic zone
     
     (4) [Section 33(2)(a)][72] applies as if ""or the EEZ"" appeared after ""New Zealand territory"".
     
-    Section 162AK: inserted, on 18 September 2012, by [section 73][716] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AK: inserted, on 18 September 2012, by [section 73][719] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AL Duty to provide information
     
 *   [Section 43(1)(a)][106] applies as if ""or the EEZ"" appeared after ""New Zealand"".
     
-    Section 162AL: inserted, on 18 September 2012, by [section 73][716] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AL: inserted, on 18 September 2012, by [section 73][719] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AM General duty to inform
     
 *   [Section 44(1)][107] applies as if ""or the EEZ"" appeared after ""New Zealand"".
     
-    Section 162AM: inserted, on 18 September 2012, by [section 73][716] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AM: inserted, on 18 September 2012, by [section 73][719] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AN Duty to report notifiable organisms
     
 *   [Section 46(1)(a)][109] applies as if ""or the EEZ"" appeared after ""New Zealand"".
     
-    Section 162AN: inserted, on 18 September 2012, by [section 73][716] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AN: inserted, on 18 September 2012, by [section 73][719] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AO Second step: satisfaction on requirements
     
 *   [Section 62(d)][129] applies as if ""or the EEZ"" appeared after ""New Zealand"".
     
-    Section 162AO: inserted, on 18 September 2012, by [section 73][716] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AO: inserted, on 18 September 2012, by [section 73][719] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AP Fourth step: approval of preparation of plan and decision on management agency
     
 *   [Section 64(6)(c)][131] applies as if ""or the EEZ"" appeared after ""New Zealand"" in all places.
     
-    Section 162AP: inserted, on 18 September 2012, by [section 73][716] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AP: inserted, on 18 September 2012, by [section 73][719] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AQ Second step: satisfaction on requirements
     
 *   [Section 82(d)][152] applies as if ""or the EEZ"" appeared after ""New Zealand"".
     
-    Section 162AQ: inserted, on 18 September 2012, by [section 73][716] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AQ: inserted, on 18 September 2012, by [section 73][719] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AR Fourth step: approval of preparation of plan and decision on management agency
     
 *   [Section 84(6)(c)][154] applies as if ""or the EEZ"" appeared after ""New Zealand"" in all places.
     
-    Section 162AR: inserted, on 18 September 2012, by [section 73][716] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AR: inserted, on 18 September 2012, by [section 73][719] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AS Definitions for Part 5A
     
 *   [Section 100Y][204] applies as if ""New Zealand"" read ""the EEZ"".
     
-    Section 162AS: inserted, on 18 September 2012, by [section 73][716] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AS: inserted, on 18 September 2012, by [section 73][719] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AT Declaration of controlled area
     
 *   [Section 131(2)][260] applies as if ""(which may be the whole or any specified part or parts of New Zealand)"" read ""(which may be any specified part or parts of the EEZ)"".
     
-    Section 162AT: inserted, on 18 September 2012, by [section 73][716] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AT: inserted, on 18 September 2012, by [section 73][719] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AU Declaration of biosecurity emergency
     
 *   [Section 144(1)][304] applies as if ""or the EEZ"" appeared after ""New Zealand"" in all places.
     
-    Section 162AU: inserted, on 18 September 2012, by [section 73][716] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AU: inserted, on 18 September 2012, by [section 73][719] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AV Emergency powers
     
 *   [Section 145(2)][305] applies as if ""anywhere in New Zealand"" read ""anywhere in New Zealand or the EEZ"".
     
-    Section 162AV: inserted, on 18 September 2012, by [section 73][716] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AV: inserted, on 18 September 2012, by [section 73][719] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AW Provisional control action
     
 *   [Section 152(1)][312] applies as if ""or the EEZ"" appeared after ""New Zealand"".
     
-    Section 162AW: inserted, on 18 September 2012, by [section 73][716] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AW: inserted, on 18 September 2012, by [section 73][719] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 162AX General provisions as to regulations
     
 *   [Section 166(1)][379] applies as if ""or the EEZ"" appeared after ""New Zealand"".
     
-    Section 162AX: inserted, on 18 September 2012, by [section 73][716] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162AX: inserted, on 18 September 2012, by [section 73][719] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ## Part 9  
 Miscellaneous provisions
@@ -11717,19 +11729,19 @@ Miscellaneous provisions
         
     *   (a) the dispute must be submitted to arbitration; and
     
-    *   (b) the arbitration must be conducted under the [Arbitration Act 1996][557].
+    *   (b) the arbitration must be conducted under the [Arbitration Act 1996][558].
     
     (7) Compensation payable by a Minister or a chief executive is payable from money appropriated by Parliament for the purpose.
     
-    Section 162A: replaced, on 18 September 2012, by [section 74][721] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 162A: replaced, on 18 September 2012, by [section 74][724] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 163 Protection of inspectors and others
     
 *   An inspector, authorised person, accredited person, or other person who does any act or omits to do any act in pursuance of any of the functions, powers, or duties conferred on that person by or under this Act or a pest management plan or a pathway management plan shall not be under any civil or criminal liability in respect of that act or omission, unless the person has acted, or omitted to act, in bad faith or without reasonable cause.
     
-    Compare: 1967 No 50 s 10; 1970 No 151 [s 23][722]; 1978 No 15 s 45; 1982 No 42 s 82
+    Compare: 1967 No 50 s 10; 1970 No 151 [s 23][725]; 1978 No 15 s 45; 1982 No 42 s 82
     
-    Section 163: amended, on 18 September 2012, by [section 75][723] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 163: amended, on 18 September 2012, by [section 75][726] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 164 Liability for goods
     
@@ -11805,15 +11817,15 @@ Miscellaneous provisions
     
     (3) Where a written notice is delivered in accordance with this section by post, the direction or requirement contained in the notice is deemed to be given or made at the time at which the notice would have been delivered in the ordinary course of the post in the absence of evidence to the contrary.
     
-    Section 164A: inserted, on 26 November 1997, by [section 107][724] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 164A: inserted, on 26 November 1997, by [section 107][727] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 164A(1)(a)(iv): amended, on 18 September 2012, by [section 76(1)][725] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 164A(1)(a)(iv): amended, on 18 September 2012, by [section 76(1)][728] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 164A(1)(b)(vi): amended, on 18 September 2012, by [section 76(2)][725] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 164A(1)(b)(vi): amended, on 18 September 2012, by [section 76(2)][728] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 164A(1)(c)(vi): amended, on 18 September 2012, by [section 76(3)][725] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 164A(1)(c)(vi): amended, on 18 September 2012, by [section 76(3)][728] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 164A(1)(d)(iv): amended, on 18 September 2012, by [section 76(4)][725] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 164A(1)(d)(iv): amended, on 18 September 2012, by [section 76(4)][728] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 164B Application of section 164A
     
@@ -11825,7 +11837,7 @@ Miscellaneous provisions
     
     *   (c) does not require any direction to be given or requirement to be made in accordance with that section.
     
-    Section 164B: inserted, on 26 November 1997, by [section 107][724] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 164B: inserted, on 26 November 1997, by [section 107][727] of the Biosecurity Amendment Act 1997 (1997 No 89).
 
 ##### 164C Registration of unwanted organisms
     
@@ -11837,7 +11849,7 @@ Miscellaneous provisions
     
     (4) Where a chief technical officer fails to notify the Director-General in accordance with this section, that failure does not invalidate the chief technical officer's belief that makes the organism an unwanted organism.
     
-    Section 164C: inserted, on 26 November 1997, by [section 108][726] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 164C: inserted, on 26 November 1997, by [section 108][729] of the Biosecurity Amendment Act 1997 (1997 No 89).
 
 ##### 164D Consultation about regulations
     
@@ -11845,7 +11857,7 @@ Miscellaneous provisions
     
     (2) The responsible Minister must consult the persons who the Minister has reason to believe are representative of interests likely to be substantially affected by the regulations, to the extent to which consultation is reasonably practicable having regard to the circumstances of the particular case.
     
-    Section 164D: inserted, on 18 September 2012, by [section 77][727] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 164D: inserted, on 18 September 2012, by [section 77][730] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 165 Regulations
     
@@ -12117,13 +12129,13 @@ Miscellaneous provisions
     
     (24) The Governor-General may from time to time, by Order in Council, make regulations providing for matters that are contemplated by this Act or necessary to give it full effect or necessary for its administration.
     
-    Section 165: replaced, on 18 September 2012, by [section 78][728] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 165: replaced, on 18 September 2012, by [section 78][731] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 165A Regulations relating to definition of biosecurity-related border management function in section 41A
     
 *   The Governor-General may, by Order in Council, make regulations specifying any Act to be an Act for the purposes of the definition of _biosecurity-related border management function_ in [section 41A][93].
     
-    Section 165A: inserted, on 6 April 2012, by [section 5][729] of the Biosecurity Amendment Act 2012 (2012 No 26).
+    Section 165A: inserted, on 6 April 2012, by [section 5][732] of the Biosecurity Amendment Act 2012 (2012 No 26).
 
 ##### 166 General provisions as to regulations
     
@@ -12163,7 +12175,7 @@ Miscellaneous provisions
     
     Compare: 1967 No 50 s 107
     
-    Section 166(2): repealed, on 18 September 2012, by [section 79][730] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 166(2): repealed, on 18 September 2012, by [section 79][733] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ##### 167 Repeals and revocations
     
@@ -12188,25 +12200,25 @@ Savings and transitional provisions
     
 *   \[Repealed\]
     
-    Section 169: repealed, on 29 July 1998, by [section 133][731] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 169: repealed, on 29 July 1998, by [section 133][734] of the Biosecurity Amendment Act 1997 (1997 No 89).
 
 ##### 170 Savings of Plants Act 1970 for limited administrative purposes
     
-*   Notwithstanding [section 167(1)][380] of this Act, the [Plants Act 1970][732] shall continue in full effect to the extent necessary for the proper administration of [sections 15][733], and [16][734] of that Act in relation to the export of plants.
+*   Notwithstanding [section 167(1)][380] of this Act, the [Plants Act 1970][735] shall continue in full effect to the extent necessary for the proper administration of [sections 15][736], and [16][737] of that Act in relation to the export of plants.
     
-    Section 170: amended, on 29 July 1998, by [section 134][735] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 170: amended, on 29 July 1998, by [section 134][738] of the Biosecurity Amendment Act 1997 (1997 No 89).
 
 ##### 171 Savings of Apiaries Act 1969 for limited administrative purposes
     
 *   \[Repealed\]
     
-    Section 171: repealed, on 1 November 1999, by [section 60(1)(a)][736] of the Animal Products (Ancillary and Transitional Provisions) Act 1999 (1999 No 94).
+    Section 171: repealed, on 1 November 1999, by [section 60(1)(a)][739] of the Animal Products (Ancillary and Transitional Provisions) Act 1999 (1999 No 94).
 
 ##### 172 Transition of emergency proclamations
     
 *   (1) If a declaration of an animal disease emergency made by the Governor-General by Proclamation is in force on the commencement of this Act, the Proclamation and sections 30 and 31 of the Animals Act 1967 shall, notwithstanding the repeal of those sections by [section 167(1)][380], continue in effect for so long as the Proclamation remains in force.
     
-    (2) If a declaration of a plant disease emergency made by the Governor-General by Proclamation is in force on the commencement of this Act, the Proclamation and [sections 12][671] and [13][675] of the Plants Act 1970 shall, notwithstanding the repeal of those sections by [section 167(1)][380] of this Act, continue in effect for so long as the Proclamation remains in force.
+    (2) If a declaration of a plant disease emergency made by the Governor-General by Proclamation is in force on the commencement of this Act, the Proclamation and [sections 12][674] and [13][678] of the Plants Act 1970 shall, notwithstanding the repeal of those sections by [section 167(1)][380] of this Act, continue in effect for so long as the Proclamation remains in force.
 
 ##### 173 Transitional continuance of regulations
     
@@ -12214,7 +12226,7 @@ Savings and transitional provisions
 
 ##### 174 Transitional provision concerning inspectors, etc
     
-*   (1) Every person duly appointed and holding office as an inspector under the Ministry of Agriculture and Fisheries Act 1953, the Animals Act 1967, the Apiaries Act 1969, the Poultry Act 1968, or the [Plants Act 1970][732], at the close of 30 September 1993 shall be deemed to have been appointed an inspector under and for the purposes of this Act.
+*   (1) Every person duly appointed and holding office as an inspector under the Ministry of Agriculture and Fisheries Act 1953, the Animals Act 1967, the Apiaries Act 1969, the Poultry Act 1968, or the [Plants Act 1970][735], at the close of 30 September 1993 shall be deemed to have been appointed an inspector under and for the purposes of this Act.
     
     (2) Every person duly appointed and holding office as a noxious plants officer under the Noxious Plants Act 1978 at the close of 30 September 1993 shall be deemed to have been appointed an authorised person under [section 103(3)][218] by the principal officer by whom that inspector was then employed.
     
@@ -12238,7 +12250,7 @@ Savings and transitional provisions
     
     *   (c) any land defined or approved as a quarantine ground under section 24 of the Apiaries Act 1969; and
     
-    *   (d) any land declared to be a quarantine station under [section 4][737] of the Plants Act 1970\.
+    *   (d) any land declared to be a quarantine station under [section 4][740] of the Plants Act 1970\.
     
     
 
@@ -12246,7 +12258,7 @@ Savings and transitional provisions
     
 *   \[Repealed\]
     
-    Section 176: repealed, on 26 November 1997, by [section 115(2)][738] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 176: repealed, on 26 November 1997, by [section 115(2)][741] of the Biosecurity Amendment Act 1997 (1997 No 89).
 
 ##### 177 Transition of notices under section 13A of Animals Act 1967
     
@@ -12282,7 +12294,7 @@ Savings and transitional provisions
     
 *   \[Expired\]
     
-    Section 182: repealed, on 1 November 1999 (after expiring on 1 October 1998), by [section 60(1)(a)][736] of the Animal Products (Ancillary and Transitional Provisions) Act 1999 (1999 No 94).
+    Section 182: repealed, on 1 November 1999 (after expiring on 1 October 1998), by [section 60(1)(a)][739] of the Animal Products (Ancillary and Transitional Provisions) Act 1999 (1999 No 94).
 
 ##### 183 Transitional control of hydatids
     
@@ -12370,7 +12382,7 @@ Savings and transitional provisions
             
         *   (i) the date after 1 July 1995 on which the Director-General approves the port under [section 37][77]; and
         
-        *   (ii) the date on which the [Biosecurity (Status of Specified Ports) Amendment Act 2005][739] receives the Royal assent; and
+        *   (ii) the date on which the [Biosecurity (Status of Specified Ports) Amendment Act 2005][742] receives the Royal assent; and
         
         
     
@@ -12378,11 +12390,11 @@ Savings and transitional provisions
             
         *   (i) the date after 25 May 1998 on which the Director-General approves the port under [section 37][77]; and
         
-        *   (ii) the date on which the [Biosecurity (Status of Specified Ports) Amendment Act 2005][739] receives the Royal assent.
+        *   (ii) the date on which the [Biosecurity (Status of Specified Ports) Amendment Act 2005][742] receives the Royal assent.
         
         
     
-    Section 184A: inserted, on 13 December 2005, by [section 4][740] of the Biosecurity (Status of Specified Ports) Amendment Act 2005 (2005 No 124).
+    Section 184A: inserted, on 13 December 2005, by [section 4][743] of the Biosecurity (Status of Specified Ports) Amendment Act 2005 (2005 No 124).
 
 ##### 185 Expiration of sections 179 to 183
     
@@ -12394,17 +12406,17 @@ Savings and transitional provisions
 
 ##### 185A Organisms illegally present in New Zealand at commencement of Hazardous Substances and New Organisms Act 1996
     
-*   (1) Where, at the date of commencement of the [Hazardous Substances and New Organisms Act 1996][414], any organism is present in New Zealand in contravention of the Animals Act 1967 or the [Plants Act 1970][732], that organism is deemed to be uncleared goods for the purposes of this Act.
+*   (1) Where, at the date of commencement of the [Hazardous Substances and New Organisms Act 1996][414], any organism is present in New Zealand in contravention of the Animals Act 1967 or the [Plants Act 1970][735], that organism is deemed to be uncleared goods for the purposes of this Act.
     
-    (2) Where, at the date of commencement of the [Hazardous Substances and New Organisms Act 1996][414], a genetically modified organism is present in New Zealand and [section 257][741] of the Hazardous Substances and New Organisms Act 1996 does not apply to that organism, that organism is deemed to be uncleared goods for the purposes of this Act.
+    (2) Where, at the date of commencement of the [Hazardous Substances and New Organisms Act 1996][414], a genetically modified organism is present in New Zealand and [section 257][744] of the Hazardous Substances and New Organisms Act 1996 does not apply to that organism, that organism is deemed to be uncleared goods for the purposes of this Act.
     
-    (3) Where [section 259][742] of the Hazardous Substances and New Organisms Act 1996 applies to a culture of micro-organisms and no application has been made in respect of that culture of micro-organisms within 1 year of the date of commencement of that Act, that culture of micro-organisms is, at the expiry of that year, deemed to be uncleared goods for the purposes of this Act.
+    (3) Where [section 259][745] of the Hazardous Substances and New Organisms Act 1996 applies to a culture of micro-organisms and no application has been made in respect of that culture of micro-organisms within 1 year of the date of commencement of that Act, that culture of micro-organisms is, at the expiry of that year, deemed to be uncleared goods for the purposes of this Act.
     
     (4) Nothing in this section applies to the organism known as rabbit haemorrhagic disease virus, or rabbit calicivirus.
     
-    Section 185A: added, on 29 July 1998, by [section 129][743] of the Biosecurity Amendment Act 1997 (1997 No 89).
+    Section 185A: added, on 29 July 1998, by [section 129][746] of the Biosecurity Amendment Act 1997 (1997 No 89).
     
-    Section 185A(4): added, on 29 July 1998, by [section 4][744] of the Biosecurity (Rabbit Calicivirus) Amendment Act 1998 (1998 No 12).
+    Section 185A(4): added, on 29 July 1998, by [section 4][747] of the Biosecurity (Rabbit Calicivirus) Amendment Act 1998 (1998 No 12).
 
 ---
 
@@ -12426,7 +12438,7 @@ Board of inquiry procedure
 
 \[Repealed\]
     
-*   Schedule 2: repealed, on 18 September 2012, by [section 80][745] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+*   Schedule 2: repealed, on 18 September 2012, by [section 80][748] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 
 ---
 
@@ -12509,7 +12521,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Plants Act 1970 (1970 No 151) (RS Vol 21, p 735)
 
-_Amendment(s) incorporated in the [Act(s)][732]._
+_Amendment(s) incorporated in the [Act(s)][735]._
 
 ##### Poultry Act 1968 (1968 No 13) (RS Vol 18, p 605)
 
@@ -12521,7 +12533,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Wild Animal Control Act 1977 (1977 No 111)
 
-_Amendment(s) incorporated in the [Act(s)][746]._
+_Amendment(s) incorporated in the [Act(s)][749]._
 
 ---
 
@@ -12544,11 +12556,11 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Environment Act 1986 (1986 No 127)
 
-_Amendment(s) incorporated in the[Act(s)][747]._
+_Amendment(s) incorporated in the[Act(s)][750]._
 
 ##### Local Government Act 1974 (1974 No 66) (RS Vol 25, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][748]_.
+_Amendment(s) incorporated in the [Act(s)][751]_.
 
 ##### Meat Act 1981 (1981 No 56)
 
@@ -12556,11 +12568,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)
 
-_Amendment(s) incorporated in the [Act(s)][749]._
+_Amendment(s) incorporated in the [Act(s)][752]._
 
 ##### Public Finance Act 1989 (1989 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][750]._
+_Amendment(s) incorporated in the [Act(s)][753]._
 
 ##### Rating Powers Act 1988 (1988 No 97)
 
@@ -12568,11 +12580,11 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Summary Proceedings Act 1957 (1957 No 87) (RS Vol 9, p 583)
 
-_Amendment(s) incorporated in the [Act(s)][705]_.
+_Amendment(s) incorporated in the [Act(s)][708]_.
 
 ##### Trade in Endangered Species Act 1989 (1989 No 18)
 
-_Amendment(s) incorporated in the [Act(s)][751]._
+_Amendment(s) incorporated in the [Act(s)][754]._
 
 ##### Wild Animal Control Act 1977 (1977 No 111)
 
@@ -12580,7 +12592,7 @@ _Amendment(s) incorporated in the [Act(s)][444]._
 
 ##### Wildlife Act 1953 (1953 No 31) (RS Vol 7, p 819)
 
-_Amendment(s) incorporated in the [Act(s)][752]._
+_Amendment(s) incorporated in the [Act(s)][755]._
 
 ---
 
@@ -12591,7 +12603,7 @@ Regulations amended
 
 ##### Meat Regulations 1969 (SR 1969/192)
 
-_Amendment(s) incorporated in the regulation(s)._
+_Amendment(s) incorporated in the regulations._
 
 ---
 
@@ -12638,7 +12650,7 @@ Orders in Council and notices revoked
 
 ##### Pests of Local Importance Order 1976, No 1 (_Gazette_ 1976, Vol 1, p 288)
 
-##### Pests of Local Importance Order 1976, No 2 (_Gazette _1976, Vol 1, p 288)
+##### Pests of Local Importance Order 1976, No 2 (_Gazette_ 1976, Vol 1, p 288)
 
 ##### Pests of Local Importance Order 1986 (_Gazette_ 1986, Vol 5, p 4843)
 
@@ -12665,7 +12677,7 @@ Regulations and orders continuing in force
 
 \[Spent\]
     
-*   Schedule 7: spent, on 29 July 1998, pursuant to [section 136(c)][753] of the Biosecurity Amendment Act 1997 (1997 No 89).
+*   Schedule 7: spent, on 29 July 1998, pursuant to [section 136(c)][756] of the Biosecurity Amendment Act 1997 (1997 No 89).
 
 ---
 
@@ -12729,7 +12741,7 @@ Designated as approved, or approved, ports
 
 [s 184A][399]
 
-*   Schedule 9: added, on 13 December 2005, by [section 5][754] of the Biosecurity (Status of Specified Ports) Amendment Act 2005 (2005 No 124).
+*   Schedule 9: added, on 13 December 2005, by [section 5][757] of the Biosecurity (Status of Specified Ports) Amendment Act 2005 (2005 No 124).
 
 ## Part A
 
@@ -12835,7 +12847,7 @@ Commencementsee section 2
 
 ##### 10 Validation of biosecurity clearances, etc
     
-*   (1) Any biosecurity clearances or the exercise of other powers under Part 3 of the principal Act before the commencement of this Act (including, but not limited to, biosecurity clearances given in accordance with the _Import Health Standard for the Importation into New Zealand of Specified Bee Products from Australia,_ dated 2 August 2006) are, and always have been, as valid and effectual as if this Act had come into force on 29 July 1998\.
+*   (1) Any biosecurity clearances or the exercise of other powers under Part 3 of the principal Act before the commencement of this Act (including, but not limited to, biosecurity clearances given in accordance with the _Import Health Standard for the Importation into New Zealand of Specified Bee Products from Australia_, dated 2 August 2006) are, and always have been, as valid and effectual as if this Act had come into force on 29 July 1998\.
     
     (2) However, a validation under subsection (1) only applies to a biosecurity clearance or exercise of other power if, and to the extent that, the clearance or exercise of other powers is invalid because it applies to goods---
         
@@ -12855,7 +12867,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Biosecurity Law Reform Act 2012][755].
+*   This Act is the [Biosecurity Law Reform Act 2012][758].
 
 ##### 2 Commencement
     
@@ -13029,55 +13041,57 @@ Related amendments to other enactments
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][756] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][757] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][759] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][760] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][758] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][759] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][761] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][762] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Companies Amendment Act 2013 (2013 No 111): [section 14][678]
+*   Companies Amendment Act 2013 (2013 No 111): [section 14][681]
     
     Game Animal Council Act 2013 (2013 No 98): [section 41(2)][461]
     
     Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][431]
     
-    Biosecurity Law Reform Act 2012 (2012 No 73): [Part 1][760]
+    Legislation Act 2012 (2012 No 119): [section 77(3)][552]
+    
+    Biosecurity Law Reform Act 2012 (2012 No 73): [Part 1][763]
     
     Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72): [sections 169][458], [170][464]
     
-    [Biosecurity Amendment Act 2012][761] (2012 No 26)
+    [Biosecurity Amendment Act 2012][764] (2012 No 26)
     
-    Search and Surveillance Act 2012 (2012 No 24): [section 203][600]
+    Search and Surveillance Act 2012 (2012 No 24): [section 203][601]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][693]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][696]
     
     Environmental Protection Authority Act 2011 (2011 No 14): [section 53(1)][424]
     
-    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][664]
+    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][665]
     
-    [Biosecurity Amendment Act 2009][762] (2009 No 66)
+    [Biosecurity Amendment Act 2009][765] (2009 No 66)
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][587]
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][588]
     
-    [Biosecurity Amendment Act (No 2) 2008][763] (2008 No 21)
+    [Biosecurity Amendment Act (No 2) 2008][766] (2008 No 21)
     
-    [Biosecurity Amendment Act 2008][764] (2008 No 6)
+    [Biosecurity Amendment Act 2008][767] (2008 No 6)
     
-    [Biosecurity Amendment Act 2007][765] (2007 No 41)
+    [Biosecurity Amendment Act 2007][768] (2007 No 41)
     
-    Summary Proceedings Amendment Act 2006 (2006 No 13): [section 31][711]
+    Summary Proceedings Amendment Act 2006 (2006 No 13): [section 31][714]
     
-    [Biosecurity (Status of Specified Ports) Amendment Act 2005][766] (2005 No 124)
+    [Biosecurity (Status of Specified Ports) Amendment Act 2005][769] (2005 No 124)
     
-    [Biosecurity Amendment Act 2005][766] (2005 No 91)
+    [Biosecurity Amendment Act 2005][769] (2005 No 91)
     
-    [Biosecurity Amendment Act 2004][767] (2004 No 106)
+    [Biosecurity Amendment Act 2004][770] (2004 No 106)
     
-    [Biosecurity Amendment Act (No 2) 2003][768] (2003 No 57)
+    [Biosecurity Amendment Act (No 2) 2003][771] (2003 No 57)
     
-    [Biosecurity Amendment Act 2003][769] (2003 No 38)
+    [Biosecurity Amendment Act 2003][772] (2003 No 38)
     
     Local Government Act 2002 (2002 No 84): [section 262][429]
     
@@ -13085,17 +13099,17 @@ Related amendments to other enactments
     
     Animal Welfare Act 1999 (1999 No 142): [section 194][459]
     
-    Animal Products (Ancillary and Transitional Provisions) Act 1999 (1999 No 94): [section 60(1)(a)][736]
+    Animal Products (Ancillary and Transitional Provisions) Act 1999 (1999 No 94): [section 60(1)(a)][739]
     
-    [Biosecurity Amendment Act 1999][770] (1999 No 29)
+    [Biosecurity Amendment Act 1999][773] (1999 No 29)
     
-    District Courts Amendment Act 1998 (1998 No 76): [section 7][771]
+    District Courts Amendment Act 1998 (1998 No 76): [section 7][774]
     
-    [Biosecurity (Rabbit Calicivirus) Amendment Act 1998][772] (1998 No 12)
+    [Biosecurity (Rabbit Calicivirus) Amendment Act 1998][775] (1998 No 12)
     
     Ministries of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100): [section 5(1)(d)][510]
     
-    [Biosecurity Amendment Act 1997][773] (1997 No 89)
+    [Biosecurity Amendment Act 1997][776] (1997 No 89)
     
     Biosecurity Amendment Act (No 2) 1996 (1996 No 78)
     
@@ -13103,17 +13117,17 @@ Related amendments to other enactments
     
     Customs and Excise Act 1996 (1996 No 27): [section 289(1)][509]
     
-    [Biosecurity Amendment Act 1996][774] (1996 No 23)
+    [Biosecurity Amendment Act 1996][777] (1996 No 23)
     
     Biosecurity (Transition and Savings) Regulations 1996 (SR 1996/123): regulation 5
     
     Chatham Islands Council Act 1995 (1995 No 41): [section 36][430]
     
-    [Biosecurity Amendment Act 1994][775] (1994 No 24)
+    [Biosecurity Amendment Act 1994][778] (1994 No 24)
     
     Biosecurity Amendment Act 1993 (1993 No 129)
     
-    Public Finance Act 1989 (1989 No 44): [section 65R(3)][776]
+    Public Finance Act 1989 (1989 No 44): [section 65R(3)][779]
 
 
 
@@ -13667,230 +13681,233 @@ Related amendments to other enactments
 [547]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM397270
 [548]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM415967
 [549]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388250
-[550]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM195534
-[551]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM195097
-[552]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM238240
-[553]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM149788
-[554]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM80064
-[555]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM205882
-[556]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM149796
-[557]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM403276
-[558]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM199363
-[559]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM391363
-[560]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM319569
-[561]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM64784
-[562]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM195551
-[563]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416548
-[564]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM199743
-[565]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM361113
-[566]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416549
-[567]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM199744
-[568]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM1207823
-[569]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM361114
-[570]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM397244
-[571]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416550
-[572]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388401
-[573]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM199745
-[574]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416551
-[575]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM199746
-[576]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM361115
-[577]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388402
-[578]: http://www.legislation.govt.nz/act/public/1993/0095/latest/whole.html#DLM129109
-[579]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM397252
-[580]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416555
-[581]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388409
-[582]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM214686
-[583]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM319240
-[584]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM277432
-[585]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM151490
-[586]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM240501
-[587]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM1102349
-[588]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM199747
-[589]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3842237
-[590]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416557
-[591]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388413
-[592]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM199748
-[593]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2136542
-[594]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2136781
-[595]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2136771
-[596]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2136877
-[597]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2136888
-[598]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2136896
-[599]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM199749
-[600]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2136929
-[601]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2136770
-[602]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2136813
-[603]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2136815
-[604]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416559
-[605]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416560
-[606]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388414
-[607]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416564
-[608]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM199751
-[609]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416566
-[610]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416567
-[611]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM968027
-[612]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM328720
-[613]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM1441146
-[614]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM278086
-[615]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM278094
-[616]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM278099
-[617]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM314143
-[618]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM314148
-[619]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM398680
-[620]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM398681
-[621]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM55445
-[622]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM55462
-[623]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388416
-[624]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2136860
-[625]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2136842
-[626]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388418
-[627]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388419
-[628]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388421
-[629]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM199752
-[630]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416569
-[631]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388422
-[632]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM199753
-[633]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416571
-[634]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388423
-[635]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416574
-[636]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388424
-[637]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416576
-[638]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM383104
-[639]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416577
-[640]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388425
-[641]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM199754
-[642]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416579
-[643]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417012
-[644]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM291805
-[645]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM397228
-[646]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3842238
-[647]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416580
-[648]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416581
-[649]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416582
-[650]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM199755
-[651]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM199756
-[652]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416583
-[653]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416584
-[654]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388426
-[655]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM199757
-[656]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416585
-[657]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388427
-[658]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM199758
-[659]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388428
-[660]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416586
-[661]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416587
-[662]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416589
-[663]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM391422
-[664]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3043113
-[665]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388429
-[666]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416595
-[667]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388430
-[668]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM132252
-[669]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM128740
-[670]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388452
-[671]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM397230
-[672]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416597
-[673]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388453
-[674]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM319576
-[675]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM397232
-[676]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388454
-[677]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416598
-[678]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM5620822
-[679]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM195557
-[680]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388455
-[681]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3842245
-[682]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388457
-[683]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416599
-[684]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417000
-[685]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388458
-[686]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM242775
-[687]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM243909
-[688]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM243795
-[689]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM214075
-[690]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM87622
-[691]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417004
-[692]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417005
-[693]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3360714
-[694]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388482
-[695]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2307015
-[696]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM23930
-[697]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3842249
-[698]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3360057
-[699]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM311346
-[700]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2307016
-[701]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388483
-[702]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM310742
-[703]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM311371
-[704]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM311858
-[705]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM310749
-[706]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM314098
-[707]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM314068
-[708]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM23931
-[709]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2307017
-[710]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388485
-[711]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM372294
-[712]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3842250
-[713]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417009
-[714]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388487
-[715]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3360067
-[716]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388488
-[717]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM442682
-[718]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM394191
-[719]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM394199
-[720]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM25116
-[721]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388518
-[722]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM397258
-[723]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388520
-[724]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417014
-[725]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM4486522
-[726]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417017
-[727]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388521
-[728]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388523
-[729]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM4330644
-[730]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388525
-[731]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417050
-[732]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM396887
-[733]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM397238
-[734]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM397240
-[735]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417051
-[736]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM37285
-[737]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM397204
-[738]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417028
-[739]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM363493
-[740]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM363800
-[741]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM385740
-[742]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM385746
-[743]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417046
-[744]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM424999
-[745]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388526
-[746]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM17275
-[747]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM98974
-[748]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416488
-[749]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM431296
-[750]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM160808
-[751]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM146581
-[752]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM276819
-[753]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417053
-[754]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM363802
-[755]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388102
-[756]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2998516
-[757]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2998515
-[758]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2998532
-[759]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[760]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388109
-[761]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM4330600
-[762]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2307000
-[763]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM1147700
-[764]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM1207800
-[765]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM968019
-[766]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM361107
-[767]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM324338
-[768]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM215877
-[769]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM199727
-[770]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM23923
-[771]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM427920
-[772]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM424991
-[773]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM415483
-[774]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM375898
-[775]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM331019
-[776]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM162942
+[550]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2997643
+[551]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2998573
+[552]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2998633
+[553]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM238240
+[554]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM149788
+[555]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM80064
+[556]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM205882
+[557]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM149796
+[558]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM403276
+[559]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM199363
+[560]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM391363
+[561]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM319569
+[562]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM64784
+[563]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2998557
+[564]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416548
+[565]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM199743
+[566]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM361113
+[567]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416549
+[568]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM199744
+[569]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM1207823
+[570]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM361114
+[571]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM397244
+[572]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416550
+[573]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388401
+[574]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM199745
+[575]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416551
+[576]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM199746
+[577]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM361115
+[578]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388402
+[579]: http://www.legislation.govt.nz/act/public/1993/0095/latest/whole.html#DLM129109
+[580]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM397252
+[581]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416555
+[582]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388409
+[583]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM214686
+[584]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM319240
+[585]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM277432
+[586]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM151490
+[587]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM240501
+[588]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM1102349
+[589]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM199747
+[590]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3842237
+[591]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416557
+[592]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388413
+[593]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM199748
+[594]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2136542
+[595]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2136781
+[596]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2136771
+[597]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2136877
+[598]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2136888
+[599]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2136896
+[600]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM199749
+[601]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2136929
+[602]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2136770
+[603]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2136813
+[604]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2136815
+[605]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416559
+[606]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416560
+[607]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388414
+[608]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416564
+[609]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM199751
+[610]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416566
+[611]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416567
+[612]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM968027
+[613]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM328720
+[614]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM1441146
+[615]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM278086
+[616]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM278094
+[617]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM278099
+[618]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM314143
+[619]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM314148
+[620]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM398680
+[621]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM398681
+[622]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM55445
+[623]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM55462
+[624]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388416
+[625]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2136860
+[626]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2136842
+[627]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388418
+[628]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388419
+[629]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388421
+[630]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM199752
+[631]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416569
+[632]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388422
+[633]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM199753
+[634]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416571
+[635]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388423
+[636]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416574
+[637]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388424
+[638]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416576
+[639]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM383104
+[640]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416577
+[641]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388425
+[642]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM199754
+[643]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416579
+[644]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417012
+[645]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM291805
+[646]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM397228
+[647]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3842238
+[648]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416580
+[649]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416581
+[650]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416582
+[651]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM199755
+[652]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM199756
+[653]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416583
+[654]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416584
+[655]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388426
+[656]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM199757
+[657]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416585
+[658]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388427
+[659]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM199758
+[660]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388428
+[661]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416586
+[662]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416587
+[663]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416589
+[664]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM391422
+[665]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3043113
+[666]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388429
+[667]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416595
+[668]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388430
+[669]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM132252
+[670]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2997693
+[671]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2998558
+[672]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM128740
+[673]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388452
+[674]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM397230
+[675]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416597
+[676]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388453
+[677]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM319576
+[678]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM397232
+[679]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388454
+[680]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416598
+[681]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM5620822
+[682]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2998583
+[683]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388455
+[684]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3842245
+[685]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388457
+[686]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416599
+[687]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417000
+[688]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388458
+[689]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM242775
+[690]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM243909
+[691]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM243795
+[692]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM214075
+[693]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM87622
+[694]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417004
+[695]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417005
+[696]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3360714
+[697]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388482
+[698]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2307015
+[699]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM23930
+[700]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3842249
+[701]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3360057
+[702]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM311346
+[703]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2307016
+[704]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388483
+[705]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM310742
+[706]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM311371
+[707]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM311858
+[708]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM310749
+[709]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM314098
+[710]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM314068
+[711]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM23931
+[712]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2307017
+[713]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388485
+[714]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM372294
+[715]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3842250
+[716]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417009
+[717]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388487
+[718]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3360067
+[719]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388488
+[720]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM442682
+[721]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM394191
+[722]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM394199
+[723]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM25116
+[724]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388518
+[725]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM397258
+[726]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388520
+[727]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417014
+[728]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM4486522
+[729]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417017
+[730]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388521
+[731]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388523
+[732]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM4330644
+[733]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388525
+[734]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417050
+[735]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM396887
+[736]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM397238
+[737]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM397240
+[738]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417051
+[739]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM37285
+[740]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM397204
+[741]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417028
+[742]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM363493
+[743]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM363800
+[744]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM385740
+[745]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM385746
+[746]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417046
+[747]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM424999
+[748]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388526
+[749]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM17275
+[750]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM98974
+[751]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM416488
+[752]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM431296
+[753]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM160808
+[754]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM146581
+[755]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM276819
+[756]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM417053
+[757]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM363802
+[758]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388102
+[759]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2998516
+[760]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2998515
+[761]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2998532
+[762]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[763]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM3388109
+[764]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM4330600
+[765]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM2307000
+[766]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM1147700
+[767]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM1207800
+[768]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM968019
+[769]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM361107
+[770]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM324338
+[771]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM215877
+[772]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM199727
+[773]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM23923
+[774]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM427920
+[775]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM424991
+[776]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM415483
+[777]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM375898
+[778]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM331019
+[779]: http://www.legislation.govt.nz/act/public/1993/0095/latest/link.aspx?id=DLM162942
