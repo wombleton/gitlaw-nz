@@ -423,9 +423,9 @@ Cost recovery
 
 ##### 21 Consequential amendments to other enactments
     
-*   (1) The Acts listed in [Part 1 of the Schedule][37] are amended in the manner set out in that Part.
+*   (1) The Acts listed in [Part 1][37] of the Schedule are amended in the manner set out in that Part.
     
-    (2) The regulations listed in [Part 2 of the Schedule][38] are amended in the manner set out in that Part.
+    (2) The regulations listed in [Part 2][38] of the Schedule are amended in the manner set out in that Part.
 
 ---
 
@@ -437,7 +437,7 @@ Consequential amendments to other enactments
 ## Part 1  
 Acts amended
 
-##### [Biosecurity Act 1993][27] (1993 No 95)
+##### Biosecurity Act 1993 (1993 No 95)
 
 [Section 135][39]: add:
 
@@ -451,7 +451,7 @@ Acts amended
 > 
 > 
 
-##### [Civil Aviation Act 1990][29] (1990 No 98)
+##### Civil Aviation Act 1990 (1990 No 98)
 
 [Section 38][41]: insert after subsection (4A):
 
@@ -459,7 +459,7 @@ Acts amended
 > 
 > 
 
-##### [Customs and Excise Act 1996][28] (1996 No 27)
+##### Customs and Excise Act 1996 (1996 No 27)
 
 [Section 287][42]: add:
 
@@ -470,9 +470,9 @@ Acts amended
 ## Part 2  
 Regulations amended
 
-##### [Biosecurity (Costs) Regulations 2010][43] (SR 2010/135)
+##### Biosecurity (Costs) Regulations 2010 (SR 2010/135)
 
-New regulation 3A: insert before [regulation 4][44]:
+New regulation 3A: insert before [regulation 4][43]:
 
 > ##### "3A Restriction on application of regulations
 >     
@@ -480,7 +480,7 @@ New regulation 3A: insert before [regulation 4][44]:
 > 
 > 
 
-##### [Civil Aviation Charges Regulations (No 2) 1991][45] (SR 1991/143)
+##### Civil Aviation Charges Regulations (No 2) 1991 (SR 1991/143)
 
 [Regulation 20(2)][36]: insert after paragraph (f):
 
@@ -553,6 +553,4 @@ This Act is administered by the Ministry for Primary Industries.
 [40]: http://www.legislation.govt.nz/act/public/2014/0003/latest/link.aspx?id=DLM316753
 [41]: http://www.legislation.govt.nz/act/public/2014/0003/latest/link.aspx?id=DLM216377
 [42]: http://www.legislation.govt.nz/act/public/2014/0003/latest/link.aspx?id=DLM380175
-[43]: http://www.legislation.govt.nz/act/public/2014/0003/latest/link.aspx?id=DLM3000500
-[44]: http://www.legislation.govt.nz/act/public/2014/0003/latest/link.aspx?id=DLM3000551
-[45]: http://www.legislation.govt.nz/act/public/2014/0003/latest/link.aspx?id=DLM148320
+[43]: http://www.legislation.govt.nz/act/public/2014/0003/latest/link.aspx?id=DLM3000551
