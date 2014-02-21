@@ -1,5 +1,5 @@
 Reprint  
-as at 1 January 2014
+as at 21 February 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -7508,8 +7508,11 @@ TAG Oil (NZ) Limited Sidewinder Production Station---Vector 300 Line at Durham R
 
 Cheal Petroleum Limited Cheal Gas Export Pipeline
 
-*   Schedule 6: amended, on 13 June 2013, by [clause 3][634] of the Commerce (Part 4 Regulation---Gas Pipeline Services) Order 2013 (SR 2013/145).
-*   Schedule 6: amended, on 15 September 2011, by [clause 3][635] of the Commerce (Part 4 Regulation---Gas Pipeline Services) Order 2011 (SR 2011/274).
+Contact Energy Limited Ahuroa Gas Storage Facility---Taranaki Combined Cycle and Stratford Peaker power stations gas pipeline
+
+*   Schedule 6: amended, on 21 February 2014, by [clause 3][634] of the Commerce (Part 4 Regulation---Gas Pipeline Services) Order 2014 (LI 2014/19).
+*   Schedule 6: amended, on 13 June 2013, by [clause 3][635] of the Commerce (Part 4 Regulation---Gas Pipeline Services) Order 2013 (SR 2013/145).
+*   Schedule 6: amended, on 15 September 2011, by [clause 3][636] of the Commerce (Part 4 Regulation---Gas Pipeline Services) Order 2011 (SR 2011/274).
 
 ---
 
@@ -7521,7 +7524,7 @@ Commencementsee section 1
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Commerce Amendment Act 1990][636] and shall be read together with and deemed part of the Commerce Act 1986 (hereinafter referred to as "the principal Act").
+*   (1) This Act may be cited as the [Commerce Amendment Act 1990][637] and shall be read together with and deemed part of the Commerce Act 1986 (hereinafter referred to as "the principal Act").
     
     (2) Except as provided in subsection (3), this Act shall come into force on 1 July 1990\.
     
@@ -7553,7 +7556,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Commerce (Clearance Validation) Amendment Act 2001][637].
+*   (1) This Act is the [Commerce (Clearance Validation) Amendment Act 2001][638].
     
     (2) In this Act, the Commerce Act 1986 is called "the principal Act".
 
@@ -7585,7 +7588,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Commerce Amendment Act 2004][638].
+*   (1) This Act is the [Commerce Amendment Act 2004][639].
     
     (2) In this Act, the Commerce Act 1986 is called "the principal Act".
 
@@ -7611,53 +7614,55 @@ Commencementsee section 2
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][639] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][640] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][640] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][641] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][641] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][642] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][642] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][643] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Companies Amendment Act 2013 (2013 No 111): [section 14][437]
+*   [Commerce (Part 4 Regulation---Gas Pipeline Services) Order 2014][644] (LI 2014/19)
     
-    [Commerce (Part 4 Regulation---Gas Pipeline Services) Order 2013][643] (SR 2013/145)
+    Companies Amendment Act 2013 (2013 No 111): [section 14][437]
+    
+    [Commerce (Part 4 Regulation---Gas Pipeline Services) Order 2013][645] (SR 2013/145)
     
     Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][435]
     
     Legislation Act 2012 (2012 No 119): [section 77(3)][490]
     
-    [Commerce (International Co-operation, and Fees) Amendment Act 2012][644] (2012 No 84)
+    [Commerce (International Co-operation, and Fees) Amendment Act 2012][646] (2012 No 84)
     
     Search and Surveillance Act 2012 (2012 No 24): [section 313][591]
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][564]
     
-    [Commerce (Part 4 Regulation---Gas Pipeline Services) Order 2011][645] (SR 2011/274)
+    [Commerce (Part 4 Regulation---Gas Pipeline Services) Order 2011][647] (SR 2011/274)
     
     Electricity Industry Act 2010 (2010 No 116): [sections 146--156][432]
     
-    [Commerce Amendment Act 2008][646] (2008 No 70)
+    [Commerce Amendment Act 2008][648] (2008 No 70)
     
-    [Commerce Amendment Act (No 2) 2005][647] (2005 No 95)
+    [Commerce Amendment Act (No 2) 2005][649] (2005 No 95)
     
     Crown Entities Act 2004 (2004 No 115): [section 200][431]
     
     Employment Relations Amendment Act (No 2) 2004 (2004 No 86): [section 72][463]
     
-    [Commerce Amendment Act (No 2) 2004][648] (2004 No 82)
+    [Commerce Amendment Act (No 2) 2004][650] (2004 No 82)
     
-    [Commerce Amendment Act 2004][649] (2004 No 23)
+    [Commerce Amendment Act 2004][651] (2004 No 23)
     
     Supreme Court Act 2003 (2003 No 53): [section 48(1)][559]
     
-    [Commerce Amendment Act 2003][650] (2003 No 32)
+    [Commerce Amendment Act 2003][652] (2003 No 32)
     
     Trade Marks Act 2002 (2002 No 49): [section 201][484]
     
     Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][558]
     
-    [Commerce Amendment Act 2001][651] (2001 No 32)
+    [Commerce Amendment Act 2001][653] (2001 No 32)
     
     New Zealand Public Health and Disability Act 2000 (2000 No 91): [section 107][438]
     
@@ -8321,21 +8326,23 @@ Commencementsee section 2
 [631]: http://www.legislation.govt.nz/act/public/1986/0005/latest/whole.html#DLM1690610
 [632]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2997693
 [633]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2998558
-[634]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM5126905
-[635]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM3893405
-[636]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210449
-[637]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM119292
-[638]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM244109
-[639]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2998516
-[640]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2998515
-[641]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2998532
-[642]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[643]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM5141105
-[644]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1576300
-[645]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM3893410
-[646]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1194512
-[647]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM361150
-[648]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM315175
-[649]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM244110
-[650]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM198399
-[651]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM92215
+[634]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM5893806
+[635]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM5126905
+[636]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM3893405
+[637]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210449
+[638]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM119292
+[639]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM244109
+[640]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2998516
+[641]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2998515
+[642]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2998532
+[643]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[644]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM5893800
+[645]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM5141105
+[646]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1576300
+[647]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM3893410
+[648]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1194512
+[649]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM361150
+[650]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM315175
+[651]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM244110
+[652]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM198399
+[653]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM92215
