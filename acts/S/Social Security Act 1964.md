@@ -1529,7 +1529,7 @@ Purpose, principles, general definitions, examples, and transitional and savings
         
         
     
-    *   (d) for the purposes only of [Schedules 3][564], [3A][565], [6][568], [9][571], [16][578], [17][579], [18][580], and [26][83], does not include a child in respect of whom an orphan's benefit or an unsupported child's benefit is being paid:
+    *   (d) for the purposes only of [Schedules 3][564], [3A][565], [6][568], [9][571], [16][578], [17][579], [18][580], and [26][588], does not include a child in respect of whom an orphan's benefit or an unsupported child's benefit is being paid:
     
     *   (e) does not include a child in respect of whom a young parent payment is being paid except in relation to that child's parent or step-parent
     
