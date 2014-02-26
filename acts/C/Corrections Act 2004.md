@@ -13,7 +13,7 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -617,7 +617,7 @@ This Act is administered by the Department of Corrections.
 
 [199AA][296][][296][Delegation of powers and functions of chief executive to contractor][296]
 
-[199AB][297][][297][Delegation of powers and functions of chief executive to subcontractor ][297]
+[199AB][297][][297][Delegation of powers and functions of chief executive to subcontractor][297]
 
 [199A][298][][298][Delegation of powers and functions of contractor][298]
 
@@ -777,7 +777,7 @@ Preliminary provisions
     
     (2) [Sections 200 to 203][310] come into force on the day after the date on which this Act receives the Royal assent.
     
-    Section 2(1): Corrections Act 2004 (except sections 182A--182E, 200--203) brought into force, on 1 June 2005, by the [Corrections Act Commencement Order 2005][366] (SR 2005/52).
+    Section 2(1): this Act (except sections 182A--182E and 200--203) brought into force, on 1 June 2005, by the [Corrections Act Commencement Order 2005][366] (SR 2005/52).
     
     Section 2(1A): sections 182A--182E brought into force, on 7 July 2004, by the [Parole (Extended Supervision) Amendment Act 2004][365] (2004 No 67).
     
@@ -969,7 +969,7 @@ Preliminary provisions
         
     *   (a) means a lawyer (within the meaning of the [Lawyers and Conveyancers Act 2006][378]) who represents a prisoner; and
     
-    *   (b) includes, in relation to any member of the armed forces detained in a prison, any other member of the armed forces responsible for representing that member in the Court Martial or other proceedings
+    *   (b) includes, in relation to any member of the Armed Forces detained in a prison, any other member of the Armed Forces responsible for representing that member in the Court Martial or other proceedings
     
     _mail_ means any letter, package, parcel, or postcard sent or delivered to or by a prisoner
     
@@ -1245,13 +1245,13 @@ Preliminary provisions
     
     Section 3(1) **enforcement officer** paragraph (a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][396] of the Policing Act 2008 (2008 No 72).
     
-    Section 3(1) **family** paragraph (b): substituted, on 26 April 2005, by [section 7][397] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 3(1) **family** paragraph (b): replaced, on 26 April 2005, by [section 7][397] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
     Section 3(1) **health centre manager**: inserted, on 4 June 2013, by [section 4(5)][393] of the Corrections Amendment Act 2013 (2013 No 5).
     
     Section 3(1) **Independent Police Conduct Authority**: inserted, on 29 November 2007, by [section 26][398] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
     
-    Section 3(1) **legal adviser** paragraph (a): substituted, on 1 August 2008, by [section 348][399] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
+    Section 3(1) **legal adviser** paragraph (a): replaced, on 1 August 2008, by [section 348][399] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
     
     Section 3(1) **legal adviser** paragraph (b): amended, on 1 July 2009, by [section 87][392] of the Court Martial Act 2007 (2007 No 101).
     
@@ -1265,15 +1265,15 @@ Preliminary provisions
     
     Section 3(1) **officer** paragraph (a)(v): amended, on 3 April 2009, by [section 4(3)][395] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 3(1) **officer** paragraph (a)(vi): added, on 3 April 2009, by [section 4(3)][395] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 3(1) **officer** paragraph (a)(vi): inserted, on 3 April 2009, by [section 4(3)][395] of the Corrections Amendment Act 2009 (2009 No 3).
     
     Section 3(1) **official agency** paragraph (i): amended, on 29 November 2007, by [section 26][398] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
     
     Section 3(1) **official agency** paragraph (j): amended, on 3 April 2009, by [section 4(4)][395] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 3(1) **official agency** paragraph (k): added, on 3 April 2009, by [section 4(4)][395] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 3(1) **official agency** paragraph (k): inserted, on 3 April 2009, by [section 4(4)][395] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 3(1) **person under control or supervision**: substituted, on 1 October 2007, by [section 58][401] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 3(1) **person under control or supervision**: replaced, on 1 October 2007, by [section 58][401] of the Sentencing Amendment Act 2007 (2007 No 27).
     
     Section 3(1) **Police Complaints Authority**: repealed, on 29 November 2007, by [section 26][398] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
     
@@ -1287,7 +1287,7 @@ Preliminary provisions
     
     Section 3(1) **unauthorised item** paragraph (bb): inserted, on 5 March 2013, by [section 4(2)][393] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 3(1) **unauthorised item** paragraph (c): substituted, on 3 April 2009, by [section 4(6)][395] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 3(1) **unauthorised item** paragraph (c): replaced, on 3 April 2009, by [section 4(6)][395] of the Corrections Amendment Act 2009 (2009 No 3).
     
     Section 3(1) **unauthorised item** paragraph (f): amended, on 5 March 2013, by [section 4(3)][393] of the Corrections Amendment Act 2013 (2013 No 5).
     
@@ -1390,7 +1390,7 @@ Corrections system
     
     (4) As soon as practicable after giving a direction under subsection (2), the Minister must publish in the _Gazette_ and present to the House of Representatives a copy of the direction.
     
-    Section 7(1)(e): substituted, on 8 December 2009, by [section 8(1)][394] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
+    Section 7(1)(e): replaced, on 8 December 2009, by [section 8(1)][394] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
 
 ##### 8 Powers and functions of chief executive
     
@@ -1438,7 +1438,7 @@ Corrections system
     
     Compare: 1954 No 51 s 3
     
-    Section 8(1)(c): substituted, on 1 October 2007, by [section 58][401] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 8(1)(c): replaced, on 1 October 2007, by [section 58][401] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 9 Powers and functions of Commissioner of Police
     
@@ -1740,11 +1740,11 @@ Corrections system
 
 ##### 23 Restrictions on exercise of certain powers
     
-*   (1) Despite [sections 21][27] and [22][28], [sections 121][418], [128][419], [129][420], and [177][421] of the Search and Surveillance Act 2012 (which relate to a general power to stop vehicles) do not apply to a member of the armed forces, or an officer who is not also a constable.
+*   (1) Despite [sections 21][27] and [22][28], [sections 121][418], [128][419], [129][420], and [177][421] of the Search and Surveillance Act 2012 (which relate to a general power to stop vehicles) do not apply to a member of the Armed Forces, or an officer who is not also a constable.
     
-    (2) Despite [sections 21][27] and [22][28], [section 3(2)(a)(ii)][422] of the Arms Act 1983 (which authorises the possession of firearms and restricted weapons by members of the Police) does not apply to a member of the armed forces, or an officer who is not also a member of the Police..
+    (2) Despite [sections 21][27] and [22][28], [section 3(2)(a)(ii)][422] of the Arms Act 1983 (which authorises the possession of firearms and restricted weapons by members of the Police) does not apply to a member of the Armed Forces, or an officer who is not also a member of the Police.
     
-    (3) Despite [sections 21][27] and [22][28], the following provisions do not apply to a member of the armed forces, or an officer who is not also a constable:
+    (3) Despite [sections 21][27] and [22][28], the following provisions do not apply to a member of the Armed Forces, or an officer who is not also a constable:
         
     *   (a) [section 18][423] of the Misuse of Drugs Act 1975 (which confers powers of search and seizure):
     
@@ -1764,7 +1764,7 @@ Corrections system
     
     Section 23(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][396] of the Policing Act 2008 (2008 No 72).
     
-    Section 23(3): substituted, on 3 April 2009, by [section 5][429] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 23(3): replaced, on 3 April 2009, by [section 5][429] of the Corrections Amendment Act 2009 (2009 No 3).
     
     Section 23(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][396] of the Policing Act 2008 (2008 No 72).
     
@@ -1778,7 +1778,7 @@ Corrections system
 
 #### Persons with powers and functions in relation to administration of community-based sentences, sentences of home detention, conditions of release, parole, or sentences of imprisonment served on home detention
     
-*   Heading: substituted, on 1 October 2007, by [section 58][401] of the Sentencing Amendment Act 2007 (2007 No 27).
+*   Heading: replaced, on 1 October 2007, by [section 58][401] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 24 Probation officers
     
@@ -1834,7 +1834,7 @@ Corrections system
     
     Compare: 1985 No 120 [s 125][435]
     
-    Section 25(1)(a): substituted, on 1 October 2007, by [section 58][401] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 25(1)(a): replaced, on 1 October 2007, by [section 58][401] of the Sentencing Amendment Act 2007 (2007 No 27).
     
     Section 25(1)(ab): inserted, on 7 July 2004, by [section 14(3)][367] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
     
@@ -1842,7 +1842,7 @@ Corrections system
     
     Section 25(1)(ad): inserted, on 15 December 2005, by [section 4][436] of the Corrections Amendment Act 2005 (2005 No 97).
     
-    Section 25(1)(b): substituted, on 1 October 2007, by [section 58][401] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 25(1)(b): replaced, on 1 October 2007, by [section 58][401] of the Sentencing Amendment Act 2007 (2007 No 27).
     
     Section 25(1)(c): amended, on 1 October 2007, by [section 58][401] of the Sentencing Amendment Act 2007 (2007 No 27).
 
@@ -3188,7 +3188,7 @@ Corrections system
     
     Compare: SR 2000/81 r 45
     
-    Section 79(3): added, on 3 April 2009, by [section 6][464] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 79(3): inserted, on 3 April 2009, by [section 6][464] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ##### 80 Needs relating to particular cultures
     
@@ -3404,13 +3404,13 @@ Corrections system
     
     Section 86 heading: amended, on 3 April 2009, by [section 7(1)][464] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 86(1): substituted, on 3 April 2009, by [section 7(2)][464] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 86(1): replaced, on 3 April 2009, by [section 7(2)][464] of the Corrections Amendment Act 2009 (2009 No 3).
     
     Section 86(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][396] of the Policing Act 2008 (2008 No 72).
     
-    Section 86(3): added, on 3 April 2009, by [section 7(3)][464] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 86(3): inserted, on 3 April 2009, by [section 7(3)][464] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 86(4): added, on 3 April 2009, by [section 7(3)][464] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 86(4): inserted, on 3 April 2009, by [section 7(3)][464] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ##### 87 Restraint of prisoners
     
@@ -3522,7 +3522,7 @@ Corrections system
     
     (3) Authority to conduct a strip search---
         
-    *   (a) includes the authority to conduct a visual examination (whether or not facilitated by any instrument or device designed to illuminate or magnify) of the mouth, nose, ears, and anal and genital areas; but 
+    *   (a) includes the authority to conduct a visual examination (whether or not facilitated by any instrument or device designed to illuminate or magnify) of the mouth, nose, ears, and anal and genital areas; but
     
     *   (b) does not authorise the insertion of any instrument, device, or thing into any orifice of those kinds.
     
@@ -3532,7 +3532,7 @@ Corrections system
     
     Section 90(2)(f): replaced, on 4 June 2013, by [section 22(1)][471] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 90(2)(g): added, on 3 April 2009, by [section 8(1)][472] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 90(2)(g): inserted, on 3 April 2009, by [section 8(1)][472] of the Corrections Amendment Act 2009 (2009 No 3).
     
     Section 90(3): replaced, on 4 June 2013, by [section 22(2)][471] of the Corrections Amendment Act 2013 (2013 No 5).
     
@@ -3620,7 +3620,7 @@ Corrections system
     
     Compare: 1954 No 51 s 21I
     
-    Section 96(7): added, on 3 April 2009, by [section 9][473] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 96(7): inserted, on 3 April 2009, by [section 9][473] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ##### 97 Use of dogs for searching
     
@@ -3630,7 +3630,7 @@ Corrections system
         
     *   (a) the officer conducting the search; or
     
-    *   (b) any other person (being a constable, an officer of Customs, or any member of the armed forces) who may accompany the officer for the purposes of the search.
+    *   (b) any other person (being a constable, an officer of Customs, or any member of the Armed Forces) who may accompany the officer for the purposes of the search.
     
     (3) While any officer is using a dog for the purposes of searching any person, the person who has control of the dog must not allow that dog to come into physical contact with the person being searched.
     
@@ -3744,9 +3744,9 @@ Corrections system
     
     Section 98(6)(g): amended, on 3 April 2009, by [section 10(1)][475] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 98(6)(g)(iv): added, on 3 April 2009, by [section 10(2)][475] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 98(6)(g)(iv): inserted, on 3 April 2009, by [section 10(2)][475] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 98(6)(j): added, on 3 April 2009, by [section 10(3)][475] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 98(6)(j): inserted, on 3 April 2009, by [section 10(3)][475] of the Corrections Amendment Act 2009 (2009 No 3).
     
     Section 98(7)(b): replaced, on 4 June 2013, by [section 23(2)][474] of the Corrections Amendment Act 2013 (2013 No 5).
     
@@ -3804,7 +3804,7 @@ Corrections system
     
     *   (b) be allowed to be present during that search if he or she wishes unless, in the opinion of the prison manager, deferring the search until the person can attend will involve an unacceptable delay.
     
-    Section 100(1): substituted, on 3 April 2009, by [section 11][476] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 100(1): replaced, on 3 April 2009, by [section 11][476] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ##### 101 Search of vehicles
     
@@ -3956,7 +3956,7 @@ Corrections system
     
     Compare: SR 2000/81 r 101
     
-    Section 107(1): substituted, on 3 April 2009, by [section 15(1)][481] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 107(1): replaced, on 3 April 2009, by [section 15(1)][481] of the Corrections Amendment Act 2009 (2009 No 3).
     
     Section 107(1): amended, on 4 June 2013, by [section 27(1)][482] of the Corrections Amendment Act 2013 (2013 No 5).
     
@@ -3998,9 +3998,9 @@ Corrections system
     
     Section 108(1)(d)(iv): amended, on 3 April 2009, by [section 16(2)][483] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 108(1)(d)(v): added, on 3 April 2009, by [section 16(2)][483] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 108(1)(d)(v): inserted, on 3 April 2009, by [section 16(2)][483] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 108(1)(d)(vi): added, on 3 April 2009, by [section 16(2)][483] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 108(1)(d)(vi): inserted, on 3 April 2009, by [section 16(2)][483] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ##### 109 Mail between prisoners, official agencies, and members of Parliament
     
@@ -4486,7 +4486,7 @@ Corrections system
     
     Section 124(2)(c)(i): amended, on 3 April 2009, by [section 20(1)][495] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 124(2)(d): added, on 3 April 2009, by [section 20(2)][495] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 124(2)(d): inserted, on 3 April 2009, by [section 20(2)][495] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ##### 125 Obligations of persons carrying out procedure
     
@@ -4700,7 +4700,7 @@ Corrections system
     
     Section 133(3A): inserted, on 4 June 2013, by [section 36(2)][501] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 133(4)(a): substituted, on 3 April 2009, by [section 23][502] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 133(4)(a): replaced, on 3 April 2009, by [section 23][502] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ##### 134 Decision as to who is to hear charge
     
@@ -4820,7 +4820,7 @@ Corrections system
     
     Section 137(3A): inserted, on 4 June 2013, by [section 37(2)][503] of the Corrections Amendment Act 2013 (2013 No 5).
     
-    Section 137(4)(a): substituted, on 3 April 2009, by [section 24][504] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 137(4)(a): replaced, on 3 April 2009, by [section 24][504] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ##### 138 Reference of case from Visiting Justice to hearing adjudicator
     
@@ -4910,9 +4910,9 @@ Corrections system
     
     Section 141(1)(f): amended, on 3 April 2009, by [section 25(4)][505] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 141(1)(g): substituted, on 3 April 2009, by [section 25(5)][505] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 141(1)(g): replaced, on 3 April 2009, by [section 25(5)][505] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 141(1)(h): added, on 3 April 2009, by [section 25(5)][505] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 141(1)(h): inserted, on 3 April 2009, by [section 25(5)][505] of the Corrections Amendment Act 2009 (2009 No 3).
     
     Section 141(1A): inserted, on 3 April 2009, by [section 25(6)][505] of the Corrections Amendment Act 2009 (2009 No 3).
     
@@ -5012,7 +5012,7 @@ Corrections system
     
 *   Every person who acts in contravention of [section 110A][151] or [118][162] commits an offence and is liable on conviction to a fine not exceeding $2,000\.
     
-    Compare: 1954 s 21U(5)
+    Compare: 1954 No 51 s 21U(5)
     
     Section 146 heading: amended, on 3 April 2009, by [section 28(1)][508] of the Corrections Amendment Act 2009 (2009 No 3).
     
@@ -5080,7 +5080,7 @@ Corrections system
     
     Section 150(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][396] of the Policing Act 2008 (2008 No 72).
     
-    Section 150(3): added, on 3 April 2009, by [section 29][511] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 150(3): inserted, on 3 April 2009, by [section 29][511] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ### Subpart 6---Complaints, investigations, and inspections
 
@@ -5192,7 +5192,7 @@ Corrections system
     
     (4) An inspector must keep records of every complaint that the inspector receives and deals with.
     
-    Section 156(2)(b)(ii): substituted, on 1 October 2007, by [section 58][401] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 156(2)(b)(ii): replaced, on 1 October 2007, by [section 58][401] of the Sentencing Amendment Act 2007 (2007 No 27).
     
     Section 156(2)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][396] of the Policing Act 2008 (2008 No 72).
 
@@ -5732,7 +5732,7 @@ Corrections system
 
 #### Disclosure of prisoner information
     
-*   Heading: substituted, on 9 April 2008, by [section 5][537] of the Corrections (Social Assistance) Amendment Act 2008 (2008 No 24).
+*   Heading: replaced, on 9 April 2008, by [section 5][537] of the Corrections (Social Assistance) Amendment Act 2008 (2008 No 24).
 
 ##### 180 Purpose of section 180A
     
@@ -5756,7 +5756,7 @@ Corrections system
     
     Compare: 1954 No 51 s 36F
     
-    Section 180: substituted, on 9 April 2008, by [section 5][537] of the Corrections (Social Assistance) Amendment Act 2008 (2008 No 24).
+    Section 180: replaced, on 9 April 2008, by [section 5][537] of the Corrections (Social Assistance) Amendment Act 2008 (2008 No 24).
 
 ##### 180A Prisoner information may be disclosed for social assistance purposes
     
@@ -5886,7 +5886,7 @@ Corrections system
     
     (6) In this section _identifying information_ in relation to any person includes the person's full name, date and place of birth, gender, location, citizenship, unique identifying number used by the department, and any known alias.
     
-    Section 181(1): substituted, at 2 am on 29 November 2010, by [section 406(1)][400] of the Immigration Act 2009 (2009 No 51).
+    Section 181(1): replaced, at 2 am on 29 November 2010, by [section 406(1)][400] of the Immigration Act 2009 (2009 No 51).
     
     Section 181(2): amended, at 2 am on 29 November 2010, by [section 406(1)][400] of the Immigration Act 2009 (2009 No 51).
     
@@ -6010,11 +6010,9 @@ Corrections system
     
     Section 182A: inserted, on 7 July 2004, by [section 14(5)][367] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
     
-    Section 182A heading: amended, on 7 July 2004, by [section 32(1)][556] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
+    Section 182A(3)(a): replaced, on 1 October 2007, by [section 58][401] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 182A(3)(a): substituted, on 1 October 2007, by [section 58][401] of the Sentencing Amendment Act 2007 (2007 No 27).
-    
-    Section 182A(4): added, on 3 April 2009, by [section 33][557] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 182A(4): inserted, on 3 April 2009, by [section 33][557] of the Corrections Amendment Act 2009 (2009 No 3).
 
 ##### 182B Definition of child sex offender
     
@@ -6034,7 +6032,7 @@ Corrections system
     
     Section 182B: inserted, on 7 July 2004, by [section 14(5)][367] of the Parole (Extended Supervision) Amendment Act 2004 (2004 No 67).
     
-    Section 182B(1)(c): substituted, on 1 October 2007, by [section 58][401] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 182B(1)(c): replaced, on 1 October 2007, by [section 58][401] of the Sentencing Amendment Act 2007 (2007 No 27).
     
     Section 182B(2)(a): amended, on 1 October 2007, by [section 58][401] of the Sentencing Amendment Act 2007 (2007 No 27).
 
@@ -6490,7 +6488,7 @@ Corrections system
     
     Compare: 1954 No 51 s 4A
     
-    Section 198: substituted, on 8 December 2009, by [section 5][576] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
+    Section 198: replaced, on 8 December 2009, by [section 5][576] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
 
 ##### 199 Requirements of prison management contracts
     
@@ -6560,11 +6558,11 @@ Corrections system
     
     Compare: 1954 No 51 s 4B
     
-    Section 199: substituted, on 8 December 2009, by [section 5][576] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
+    Section 199: replaced, on 8 December 2009, by [section 5][576] of the Corrections (Contract Management of Prisons) Amendment Act 2009 (2009 No 59).
 
 ##### 199AA Delegation of powers and functions of chief executive to contractor
     
-*   (1) Without limiting [sections 41][404] and [42][405] of the State Sector Act 1988, but subject to [section 10][14] of this Act, the chief executive may delegate to a contractor or an employee of a contractor, either generally or particularly, any of the functions or powers of the chief executive under this Act. 
+*   (1) Without limiting [sections 41][404] and [42][405] of the State Sector Act 1988, but subject to [section 10][14] of this Act, the chief executive may delegate to a contractor or an employee of a contractor, either generally or particularly, any of the functions or powers of the chief executive under this Act.
     
     (2) Subject to any general or special directions given or conditions imposed by the chief executive, a contractor or an employee of a contractor to whom any functions or powers are delegated may perform those functions or exercise those powers in the same manner and with the same effect as if they had been conferred directly by this Act and not by delegation.
     
@@ -6578,9 +6576,9 @@ Corrections system
     
     Section 199AA: inserted, on 5 March 2013, by [section 42][578] of the Corrections Amendment Act 2013 (2013 No 5).
 
-##### 199AB Delegation of powers and functions of chief executive to subcontractor 
+##### 199AB Delegation of powers and functions of chief executive to subcontractor
     
-*   (1) Without limiting [sections 41][404] and [42][405] of the State Sector Act 1988, but subject to [section 10][14] of this Act, the chief executive may delegate to a subcontractor referred to in [section 199C][300] or an employee of that subcontractor, either generally or particularly, any of the functions or powers of the chief executive under this Act. 
+*   (1) Without limiting [sections 41][404] and [42][405] of the State Sector Act 1988, but subject to [section 10][14] of this Act, the chief executive may delegate to a subcontractor referred to in [section 199C][300] or an employee of that subcontractor, either generally or particularly, any of the functions or powers of the chief executive under this Act.
     
     (2) Subject to any general or special directions given or conditions imposed by the chief executive, a subcontractor or employee of that subcontractor to whom the functions or powers are delegated may perform those functions or exercise those powers in the same manner and with the same effect as if they had been conferred directly by this Act and not by delegation.
     
@@ -6986,7 +6984,7 @@ Corrections system
     
     Compare: 1954 No 51 s 45
     
-    Section 200(1)(b)(v): added, on 15 December 2005, by [section 6][588] of the Corrections Amendment Act 2005 (2005 No 97).
+    Section 200(1)(b)(v): inserted, on 15 December 2005, by [section 6][588] of the Corrections Amendment Act 2005 (2005 No 97).
 
 ##### 201 Regulations relating to good management of corrections system
     
@@ -7108,7 +7106,7 @@ Corrections system
     
     Section 203(a): amended, at 2 am on 29 November 2010, by [section 406(1)][400] of the Immigration Act 2009 (2009 No 51).
     
-    Section 203(c): substituted, on 19 September 2011, by [section 6][591] of the Corrections (Mothers with Babies) Amendment Act 2008 (2008 No 88).
+    Section 203(c): replaced, on 19 September 2011, by [section 6][591] of the Corrections (Mothers with Babies) Amendment Act 2008 (2008 No 88).
 
 #### Amendment to Immigration Act 1987
 
@@ -7782,7 +7780,7 @@ Transitional provision and consequential amendments
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][671] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][672] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][671] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][672] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
