@@ -1561,7 +1561,7 @@ The Parliament of New Zealand enacts as follows:
 
 ##### 2 Commencement
     
-*   (1) [Section 351][438], [subpart 10 of Part 5][473], [subpart 7 of Part 6][558], and [subparts 1 to 7 of Part 9][558] come into force on the day after the date on which this Act receives the Royal assent.
+*   (1) [Section 351][438], [subpart 10 of Part 5][473], [subpart 7 of Part 6][558], and [subparts 1 to 7 of Part 9][696] come into force on the day after the date on which this Act receives the Royal assent.
     
     (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council; and 1 or more orders may be made appointing different dates for different provisions and for different purposes.
     
