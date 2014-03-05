@@ -817,9 +817,13 @@ This Act is administered by the Ministry of Justice and the Department of Correc
 
 [Amendment to District Courts Act 1947][395]
 
+\[Repealed\]
+
 [180][396][][396][Appointment and qualifications][396] \[Repealed\]
 
 [Amendment to Judicature Act 1908][397]
+
+\[Repealed\]
 
 [181][398][][398][Judges of the High Court][398] \[Repealed\]
 
@@ -857,7 +861,7 @@ This Act is administered by the Ministry of Justice and the Department of Correc
     
 *   This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
     
-    Section 2: Sentencing Act 2002 brought into force, on 30 June 2002, by the [Sentencing Act Commencement Order 2002][410] (SR 2002/176).
+    Section 2: this Act brought into force, on 30 June 2002, by the [Sentencing Act Commencement Order 2002][410] (SR 2002/176).
 
 ## Part 1  
 Sentencing purposes and principles, and provisions of general application
@@ -1068,13 +1072,13 @@ Sentencing purposes and principles, and provisions of general application
     
     Section 4(1) **forfeiture order**: inserted, on 1 December 2009, by [section 6][434] of the Sentencing Amendment Act 2009 (2009 No 10).
     
-    Section 4(1) **health assessor**: substituted, on 18 September 2004, by [section 175(1)][435] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 4(1) **health assessor**: replaced, on 18 September 2004, by [section 175(1)][435] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
     Section 4(1) **home detention**: repealed, on 1 October 2007, by [section 4(1)][432] of the Sentencing Amendment Act 2007 (2007 No 27).
     
     Section 4(1) **home detention residence**: inserted, on 1 October 2007, by [section 4(3)][432] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 4(1) **immediate family** paragraph (b): substituted, on 26 April 2005, by [section 7][436] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 4(1) **immediate family** paragraph (b): replaced, on 26 April 2005, by [section 7][436] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
     Section 4(1) **incapable** paragraph (b): amended, on 17 December 2002, by [section 53][437] of the Victims' Rights Act 2002 (2002 No 39).
     
@@ -1084,7 +1088,7 @@ Sentencing purposes and principles, and provisions of general application
     
     Section 4(1) **instrument of crime** paragraph (b): amended, on 7 July 2010, by [section 4][438] of the Sentencing Amendment Act (No 2) 2010 (2010 No 84).
     
-    Section 4(1) **instrument of crime** paragraph (c): added, on 7 July 2010, by [section 4][438] of the Sentencing Amendment Act (No 2) 2010 (2010 No 84).
+    Section 4(1) **instrument of crime** paragraph (c): inserted, on 7 July 2010, by [section 4][438] of the Sentencing Amendment Act (No 2) 2010 (2010 No 84).
     
     Section 4(1) **minimum period of imprisonment**: amended, on 1 June 2010, by [section 5][439] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
     
@@ -1098,7 +1102,7 @@ Sentencing purposes and principles, and provisions of general application
     
     Section 4(1) **prison officer**: inserted, on 18 September 2012, by [section 4][441] of the Sentencing (Aggravating Factors) Amendment Act 2012 (2012 No 74).
     
-    Section 4(1) **probation area**: substituted, on 1 October 2007, by [section 4(2)][432] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 4(1) **probation area**: replaced, on 1 October 2007, by [section 4(2)][432] of the Sentencing Amendment Act 2007 (2007 No 27).
     
     Section 4(1) **probation officer**: amended, on 1 July 2013, by [section 7][430] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
     
@@ -1118,7 +1122,7 @@ Sentencing purposes and principles, and provisions of general application
     
     Section 4(1) **trial Judge**: replaced, on 1 July 2013, by [section 7][430] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
     
-    Section 4(1) **victim** paragraph (a): substituted, on 17 December 2002, by [section 53][437] of the Victims' Rights Act 2002 (2002 No 39).
+    Section 4(1) **victim** paragraph (a): replaced, on 17 December 2002, by [section 53][437] of the Victims' Rights Act 2002 (2002 No 39).
     
     Section 4(2)(ab): inserted, on 1 October 2007, by [section 4(4)][432] of the Sentencing Amendment Act 2007 (2007 No 27).
     
@@ -1126,7 +1130,7 @@ Sentencing purposes and principles, and provisions of general application
     
     Section 4(2)(ba): inserted, on 1 October 2007, by [section 4(6)][432] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 4(4): added, on 18 October 2002, by [section 28(2)][431] of the Crown Organisations (Criminal Liability) Act 2002 (2002 No 37).
+    Section 4(4): inserted, on 18 October 2002, by [section 28(2)][431] of the Crown Organisations (Criminal Liability) Act 2002 (2002 No 37).
     
     Section 4(4): amended, on 1 October 2009, by [section 166][442] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
     
@@ -1630,7 +1634,7 @@ Sentencing purposes and principles, and provisions of general application
     
     (9) A sentence of imprisonment may be combined with a sentence of reparation or, subject to subsection (3), a fine.
     
-    Section 19: substituted, on 1 October 2007, by [section 11][474] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 19: replaced, on 1 October 2007, by [section 11][474] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 20 Guidance on use of combinations of sentences
     
@@ -1646,7 +1650,7 @@ Sentencing purposes and principles, and provisions of general application
     
     *   (b) the offender requires the imposition of standard conditions or any of the special conditions available under a sentence of supervision or intensive supervision to address the causes of his or her offending.
     
-    Section 20: substituted, on 1 October 2007, by [section 11][474] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 20: replaced, on 1 October 2007, by [section 11][474] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 20A Subsequent community-based sentence or sentence of home detention
     
@@ -1830,13 +1834,13 @@ Sentencing purposes and principles, and provisions of general application
     
     Section 26(1): replaced, on 22 January 2014, by [section 15][483] of the Administration of Community Sentences and Orders Act 2013 (2013 No 88).
     
-    Section 26(2)(e): substituted, on 1 October 2007, by [section 13(1)][484] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 26(2)(e): replaced, on 1 October 2007, by [section 13(1)][484] of the Sentencing Amendment Act 2007 (2007 No 27).
     
     Section 26(2)(f): amended, on 1 October 2007, by [section 13(2)][484] of the Sentencing Amendment Act 2007 (2007 No 27).
     
     Section 26(2)(g): amended, on 1 October 2007, by [section 13(3)][484] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 26(2)(h): substituted, on 1 October 2007, by [section 13(4)][484] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 26(2)(h): replaced, on 1 October 2007, by [section 13(4)][484] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 26A Pre-sentence reports when considering sentence of community detention or home detention
     
@@ -1960,7 +1964,7 @@ Sentencing purposes and principles, and provisions of general application
     
     Section 29(1)(a): amended, on 1 June 2005, by [section 206][440] of the Corrections Act 2004 (2004 No 50).
     
-    Section 29(1)(b): substituted, on 1 September 2004, by [section 51][494] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 29(1)(b): replaced, on 1 September 2004, by [section 51][494] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
     Section 29(1)(ba): inserted, on 1 September 2004, by [section 51][494] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
@@ -2363,7 +2367,7 @@ Sentences, orders, and related matters
     
     (2) In sentencing an offender to a community-based sentence, a court may have regard to the potential effect that a particular sentence may have in contributing to the development of an offender's work and living skills.
     
-    Section 44: substituted, on 1 October 2007, by [section 17][520] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 44: replaced, on 1 October 2007, by [section 17][520] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 #### Supervision
 
@@ -2435,7 +2439,7 @@ Sentences, orders, and related matters
     
     Section 49(1)(a): replaced, on 22 January 2014, by [section 17][523] of the Administration of Community Sentences and Orders Act 2013 (2013 No 88).
     
-    Section 49(2): substituted, on 1 October 2007, by [section 19][524] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 49(2): replaced, on 1 October 2007, by [section 19][524] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 50 Special conditions related to programme
     
@@ -2551,9 +2555,9 @@ Sentences, orders, and related matters
     
     (7) If an application is made under this section for the remission, suspension, or variation of any condition imposed by the court, a probation officer may suspend the condition until the application has been heard and disposed of.
     
-    Section 54(1)(c)(i): substituted, on 1 October 2007, by [section 22(1)][528] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 54(1)(c)(i): replaced, on 1 October 2007, by [section 22(1)][528] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 54(3)(a): substituted, on 1 October 2007, by [section 22(2)][528] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 54(3)(a): replaced, on 1 October 2007, by [section 22(2)][528] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 54AA When time ceases to run on sentence of supervision
     
@@ -2597,11 +2601,11 @@ Sentences, orders, and related matters
     
     Section 54A(1)(b): amended, on 1 October 2007, by [section 23(3)][531] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 54A(1)(c): added, on 1 October 2007, by [section 23(3)][531] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 54A(1)(c): inserted, on 1 October 2007, by [section 23(3)][531] of the Sentencing Amendment Act 2007 (2007 No 27).
     
     Section 54A(2): amended, on 1 October 2007, by [section 23(4)][531] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 54A(3): added, on 1 October 2007, by [section 23(5)][531] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 54A(3): inserted, on 1 October 2007, by [section 23(5)][531] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 #### Intensive supervision
     
@@ -2899,7 +2903,7 @@ Sentences, orders, and related matters
     
     Section 57(2A): amended, on 22 January 2014, by [section 21][538] of the Administration of Community Sentences and Orders Act 2013 (2013 No 88).
     
-    Section 57(3): substituted, on 1 October 2007, by [section 27(2)][537] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 57(3): replaced, on 1 October 2007, by [section 27(2)][537] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 57A Court may defer commencement date of sentence of community work
     
@@ -2919,7 +2923,7 @@ Sentences, orders, and related matters
     
     (3) Any work done by an offender under a sentence of community work must be treated as having been done under that sentence and under any and each other concurrent sentence of community work that the offender was subject to at the time that the work was done.
     
-    Section 58: substituted, on 1 October 2007, by [section 29][540] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 58: replaced, on 1 October 2007, by [section 29][540] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 59 Offender must report to probation officer
     
@@ -2987,7 +2991,7 @@ Sentences, orders, and related matters
     
     Section 63(1)(c): amended, on 1 October 2007, by [section 30][544] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 63(1)(d): added, on 1 October 2007, by [section 30][544] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 63(1)(d): inserted, on 1 October 2007, by [section 30][544] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 64 When community work must be done
     
@@ -3781,7 +3785,7 @@ Sentences, orders, and related matters
     
     Compare: 1985 No 120 [s 59A][589]
     
-    Section 76(3): substituted, on 1 October 2007, by [section 40][590] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 76(3): replaced, on 1 October 2007, by [section 40][590] of the Sentencing Amendment Act 2007 (2007 No 27).
     
     Section 76(3A): inserted, on 1 October 2007, by [section 40][590] of the Sentencing Amendment Act 2007 (2007 No 27).
 
@@ -3845,11 +3849,11 @@ Sentences, orders, and related matters
     
     Section 78(4): amended, on 1 October 2007, by [section 41(1)][593] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 78(5)(a): substituted, on 1 October 2007, by [section 41(2)][593] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 78(5)(a): replaced, on 1 October 2007, by [section 41(2)][593] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 78(5)(b): substituted, on 1 October 2007, by [section 41(2)][593] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 78(5)(b): replaced, on 1 October 2007, by [section 41(2)][593] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 78(5)(c): added, on 1 October 2007, by [section 41(2)][593] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 78(5)(c): inserted, on 1 October 2007, by [section 41(2)][593] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 79 Period of suspension not counted towards sentence
     
@@ -3861,9 +3865,9 @@ Sentences, orders, and related matters
     
     (4) No period during which a sentence of community detention is suspended under [section 78(2) or (7)][150] is counted towards the period under [section 69B(2)][122].
     
-    Section 79(3): added, on 1 October 2007, by [section 42][594] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 79(3): inserted, on 1 October 2007, by [section 42][594] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 79(4): added, on 1 October 2007, by [section 42][594] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 79(4): inserted, on 1 October 2007, by [section 42][594] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 80 Resumption of community-based sentence if sentence of imprisonment quashed
     
@@ -3887,11 +3891,11 @@ Sentences, orders, and related matters
     
     (5) If the community-based sentence never resumes under subsection (3), it is cancelled when the offender ceases to be detained under the sentence or sentences of imprisonment.
     
-    Section 80(3)(a): substituted, on 1 October 2007, by [section 43][595] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80(3)(a): replaced, on 1 October 2007, by [section 43][595] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 80(3)(b): substituted, on 1 October 2007, by [section 43][595] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80(3)(b): replaced, on 1 October 2007, by [section 43][595] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 80(3)(c): added, on 1 October 2007, by [section 43][595] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 80(3)(c): inserted, on 1 October 2007, by [section 43][595] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ### Subpart 2A---Home detention
     
@@ -4867,7 +4871,7 @@ Sentences, orders, and related matters
     
     Compare: 1985 No 120 [s 73][619]
     
-    Section 83(2): substituted, on 7 July 2004, by [section 6][620] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 83(2): replaced, on 7 July 2004, by [section 6][620] of the Sentencing Amendment Act 2004 (2004 No 68).
 
 ##### 84 Guidance on use of cumulative and concurrent sentences of imprisonment
     
@@ -4927,7 +4931,7 @@ Sentences, orders, and related matters
     
     (5) For the purposes of [Part 6][602] of the Criminal Procedure Act 2011, an order under this section is a sentence.
     
-    Section 86(2): substituted, on 7 July 2004, by [section 7][622] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 86(2): replaced, on 7 July 2004, by [section 7][622] of the Sentencing Amendment Act 2004 (2004 No 68).
     
     Section 86(3): repealed, on 7 July 2004, by [section 7][622] of the Sentencing Amendment Act 2004 (2004 No 68).
     
@@ -5305,7 +5309,7 @@ Sentences, orders, and related matters
     
     Section 88(2)(b): amended, on 1 September 2004, by [section 51][494] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 88(3): added, on 1 October 2007, by [section 47][663] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 88(3): inserted, on 1 October 2007, by [section 47][663] of the Sentencing Amendment Act 2007 (2007 No 27).
 
 ##### 89 Imposition of minimum period of imprisonment
     
@@ -5439,9 +5443,9 @@ Sentences, orders, and related matters
     
     *   (b) that order applies in respect of all the sentences of imprisonment imposed on that occasion.
     
-    Section 93(1): substituted, on 7 July 2004, by [section 9(1)][671] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 93(1): replaced, on 7 July 2004, by [section 9(1)][671] of the Sentencing Amendment Act 2004 (2004 No 68).
     
-    Section 93(2): substituted, on 7 July 2004, by [section 9(1)][671] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 93(2): replaced, on 7 July 2004, by [section 9(1)][671] of the Sentencing Amendment Act 2004 (2004 No 68).
     
     Section 93(2A): inserted, on 7 July 2004, by [section 9(1)][671] of the Sentencing Amendment Act 2004 (2004 No 68).
     
@@ -5561,9 +5565,9 @@ Sentences, orders, and related matters
     
     Section 100(4)(b): amended, on 7 July 2004, by [section 11(3)][679] of the Sentencing Amendment Act 2004 (2004 No 68).
     
-    Section 100(4)(c): added, on 7 July 2004, by [section 11(3)][679] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 100(4)(c): inserted, on 7 July 2004, by [section 11(3)][679] of the Sentencing Amendment Act 2004 (2004 No 68).
     
-    Section 100(4)(d): added, on 7 July 2004, by [section 11(3)][679] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 100(4)(d): inserted, on 7 July 2004, by [section 11(3)][679] of the Sentencing Amendment Act 2004 (2004 No 68).
 
 ##### 101 Start date of sentence of imprisonment
     
@@ -5583,7 +5587,7 @@ Sentences, orders, and related matters
     
     (3) This section is subject to [section 86E(2)][214].
     
-    Section 102(3): added, on 1 June 2010, by [section 8][681] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
+    Section 102(3): inserted, on 1 June 2010, by [section 8][681] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
 
 #### Imposition of minimum period of imprisonment or imprisonment without parole
     
@@ -5629,9 +5633,9 @@ Sentences, orders, and related matters
     
     Section 103 heading: amended, on 1 June 2010, by [section 10(1)][683] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
     
-    Section 103(1): substituted, on 1 June 2010, by [section 10(2)][683] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
+    Section 103(1): replaced, on 1 June 2010, by [section 10(2)][683] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
     
-    Section 103(2): substituted, on 7 July 2004, by [section 12][684] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 103(2): replaced, on 7 July 2004, by [section 12][684] of the Sentencing Amendment Act 2004 (2004 No 68).
     
     Section 103(2A): inserted, on 1 June 2010, by [section 10(3)][683] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
     
@@ -5677,7 +5681,7 @@ Sentences, orders, and related matters
     
     Section 104(1)(f): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][555] of the Policing Act 2008 (2008 No 72).
     
-    Section 104(2): added, on 1 June 2010, by [section 11][686] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
+    Section 104(2): inserted, on 1 June 2010, by [section 11][686] of the Sentencing and Parole Reform Act 2010 (2010 No 33).
 
 ##### 105 Appeal against imposition of minimum period of imprisonment
     
@@ -6375,7 +6379,7 @@ Sentences, orders, and related matters
     
     Section 127(1) **leasing agreement**: repealed, on 1 August 2012, by [section 15(3)][758] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 127(1) **person who is registered**: added, on 1 December 2009, by [section 5(1)][759] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 127(1) **person who is registered**: inserted, on 1 December 2009, by [section 5(1)][759] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
     Section 127(1) **Police employee**: inserted, on 1 August 2012, by [section 15(4)][758] of the Sentencing Amendment Act 2011 (2011 No 47).
     
@@ -6385,9 +6389,9 @@ Sentences, orders, and related matters
     
     Section 127(1) **security interest**: inserted, on 1 August 2012, by [section 15(4)][758] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 127(1) **written caution**: added, on 1 December 2009, by [section 5(1)][759] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 127(1) **written caution**: inserted, on 1 December 2009, by [section 5(1)][759] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 127(3): added, on 1 December 2009, by [section 5(2)][759] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 127(3): inserted, on 1 December 2009, by [section 5(2)][759] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
 
 ##### 128 Confiscation of motor vehicle
     
@@ -6437,7 +6441,7 @@ Sentences, orders, and related matters
     
     Section 128(1)(b): amended, on 2 May 2003, by [section 11(1)][770] of the Land Transport (Unauthorised Street and Drag Racing) Amendment Act 2003 (2003 No 11).
     
-    Section 128(2): substituted, on 1 December 2009, by [section 6(2)][769] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 128(2): replaced, on 1 December 2009, by [section 6(2)][769] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
     Section 128(2)(a)(ii): amended, on 10 September 2012, by [section 100(2)][738] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
@@ -6813,13 +6817,13 @@ Sentences, orders, and related matters
     
     Compare: 1985 No 120 [s 84(3), (3A), (3B)][757]
     
-    Section 131(1): substituted, on 1 December 2009, by [section 10(1)][791] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 131(1): replaced, on 1 December 2009, by [section 10(1)][791] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
     Section 131(2)(b): amended, on 1 December 2009, by [section 10(2)][791] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
     Section 131(3): amended, on 1 December 2009, by [section 10(3)][791] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 131(3)(b): substituted, on 1 December 2009, by [section 10(4)][791] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 131(3)(b): replaced, on 1 December 2009, by [section 10(4)][791] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
 
 ##### 132 Enforcement of confiscation order
     
@@ -6837,7 +6841,7 @@ Sentences, orders, and related matters
     
     Compare: 1985 No 120 [s 84(5)--(8), (10)][757]
     
-    Section 132(1): substituted, on 1 December 2009, by [section 11(1)][792] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 132(1): replaced, on 1 December 2009, by [section 11(1)][792] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
     Section 132(2): amended, on 1 December 2009, by [section 11(2)][792] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
@@ -6909,9 +6913,9 @@ Sentences, orders, and related matters
     
     Section 136(3): amended, on 1 July 2013, by [section 7][430] of the Sentencing Amendment Act (No 2) 2011 (2011 No 93).
     
-    Section 136(4): substituted, on 1 December 2009, by [section 13(2)][797] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 136(4): replaced, on 1 December 2009, by [section 13(2)][797] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 136(5): substituted, on 1 December 2009, by [section 13(2)][797] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 136(5): replaced, on 1 December 2009, by [section 13(2)][797] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
     Section 136(5): amended, on 1 August 2012, by [section 25][798] of the Sentencing Amendment Act 2011 (2011 No 47).
 
@@ -6973,7 +6977,7 @@ Sentences, orders, and related matters
     
     Section 137(2): repealed, on 18 December 2013, by [section 27][806] of the Auctioneers Act 2013 (2013 No 148).
     
-    Section 137(3): substituted, on 1 December 2009, by [section 15(2)][805] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 137(3): replaced, on 1 December 2009, by [section 15(2)][805] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
     Section 137(3)(c): replaced, on 1 August 2012, by [section 27(2)][807] of the Sentencing Amendment Act 2011 (2011 No 47).
     
@@ -6985,7 +6989,7 @@ Sentences, orders, and related matters
     
     Section 137(3A): inserted, on 1 August 2012, by [section 27(5)][807] of the Sentencing Amendment Act 2011 (2011 No 47).
     
-    Section 137(4): added, on 1 December 2009, by [section 15(2)][805] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 137(4): inserted, on 1 December 2009, by [section 15(2)][805] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
     Section 137(4): amended, on 1 August 2012, by [section 27(6)][807] of the Sentencing Amendment Act 2011 (2011 No 47).
     
@@ -7113,7 +7117,7 @@ Sentences, orders, and related matters
     
     (3) This section is subject to [section 141A][323].
     
-    Section 140: substituted, on 1 December 2009, by [section 19][821] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 140: replaced, on 1 December 2009, by [section 19][821] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
     Section 140 heading: amended, on 1 August 2012, by [section 33(1)][822] of the Sentencing Amendment Act 2011 (2011 No 47).
     
@@ -7177,7 +7181,7 @@ Sentences, orders, and related matters
     
     (5) The person to whom a motor vehicle is sold under a direction given under subsection (3)(b) obtains, by virtue of this section, good title to the motor vehicle free of all ownership interests and other proprietary interests held in the motor vehicle before that sale.
     
-    Section 141: substituted, on 1 December 2009, by [section 19][821] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 141: replaced, on 1 December 2009, by [section 19][821] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
     Section 141(1): amended, on 1 August 2012, by [section 35(1)][824] of the Sentencing Amendment Act 2011 (2011 No 47).
     
@@ -7263,9 +7267,9 @@ Sentences, orders, and related matters
     
     Section 142(1): amended, on 1 December 2009, by [section 20(1)][829] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 142(2): substituted, on 1 December 2009, by [section 20(2)][829] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 142(2): replaced, on 1 December 2009, by [section 20(2)][829] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
     
-    Section 142(3): added, on 1 December 2009, by [section 20(2)][829] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
+    Section 142(3): inserted, on 1 December 2009, by [section 20(2)][829] of the Sentencing (Vehicle Confiscation) Amendment Act 2009 (2009 No 37).
 
 #### Instrument forfeiture orders
     
@@ -7597,9 +7601,9 @@ Sentences, orders, and related matters
     
     Compare: 1985 No 120 [s 137][839]
     
-    Section 143(1): substituted, on 7 July 2004, by [section 18][840] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 143(1): replaced, on 7 July 2004, by [section 18][840] of the Sentencing Amendment Act 2004 (2004 No 68).
     
-    Section 143(2): substituted, on 7 July 2004, by [section 18][840] of the Sentencing Amendment Act 2004 (2004 No 68).
+    Section 143(2): replaced, on 7 July 2004, by [section 18][840] of the Sentencing Amendment Act 2004 (2004 No 68).
     
     Section 143(3)(a)(ia): inserted, on 1 January 2004, by [section 48(1)][578] of the Supreme Court Act 2003 (2003 No 53).
     
@@ -7945,6 +7949,10 @@ Sentences, orders, and related matters
 
 #### Amendment to District Courts Act 1947
 
+\[Repealed\]
+    
+*   Heading: repealed, on 20 May 2004, pursuant to [section 3(3)][872] of the District Courts Amendment Act 2004 (2004 No 42).
+
 ##### 180 Appointment and qualifications
     
 *   \[Repealed\]
@@ -7952,6 +7960,10 @@ Sentences, orders, and related matters
     Section 180: repealed, on 20 May 2004, by [section 3(3)][872] of the District Courts Amendment Act 2004 (2004 No 42).
 
 #### Amendment to Judicature Act 1908
+
+\[Repealed\]
+    
+*   Heading: repealed, on 20 May 2004, pursuant to [section 3(3)][873] of the Judicature Amendment Act 2004 (2004 No 45).
 
 ##### 181 Judges of the High Court
     
@@ -8225,6 +8237,10 @@ Commencementsee section 2
     
     Section 2: sections 1--4, 6(2), 7--11, 13, 14, 16--44, 47, 48, 49(4), 50, 51, 55--58 and Schedule brought into force, on 1 October 2007, by the [Sentencing Amendment Act 2007 Commencement Order 2007][907] (SR 2007/254).
 
+##### 3 Principal Act amended
+    
+*   This Act amends the Sentencing Act 2002\.
+
 #### Transitional provisions
 
 ##### 55 Transitional arrangements for intensive supervision
@@ -8429,19 +8445,15 @@ Commencementsee section 2
     
     Succession (Homicide) Act 2007 (2007 No 95): [section 17][848]
     
-    [Sentencing Amendment Act 2007 Commencement Order 2007][907] (SR 2007/254)
+    [Sentencing Amendment Act 2007][906] (2007 No 27)
     
-    [Sentencing Amendment Act 2007 (2007 No 27)][906]
-    
-    [Sentencing Amendment Act (No 2) 2006 (2006 No 89)][928]
-    
-    [Sentencing Amendment Act 2006 (2006 No 12)][929]
+    [Sentencing Amendment Act (No 2) 2006][928] (2006 No 89)
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][436]
     
     Building Act 2004 (2004 No 72): [section 414][443]
     
-    [Sentencing Amendment Act 2004 (2004 No 68)][930]
+    [Sentencing Amendment Act 2004][929] (2004 No 68)
     
     Corrections Act 2004 (2004 No 50): [section 206][440]
     
@@ -8451,7 +8463,7 @@ Commencementsee section 2
     
     Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115): [section 51][494]
     
-    [Sentencing Amendment Act 2003 (2003 No 109)][931]
+    [Sentencing Amendment Act 2003][930] (2003 No 109)
     
     Supreme Court Act 2003 (2003 No 53): [section 48(1)][578]
     
@@ -9398,6 +9410,5 @@ Commencementsee section 2
 [926]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1180107
 [927]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM1523176
 [928]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM404703
-[929]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM372234
-[930]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM304573
-[931]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM220303
+[929]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM304573
+[930]: http://www.legislation.govt.nz/act/public/2002/0009/latest/link.aspx?id=DLM220303
