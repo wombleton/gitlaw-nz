@@ -299,7 +299,7 @@ Infringement offences
         
     *   (a) setting the infringement fee for each infringement offence, which must be not less than $150 or more than $500:
     
-    *   (b) prescribing the form of the notice given under [section 8][11].
+    *   (b) prescribing the form of the notice given under [section 11][14].
     
     
 
