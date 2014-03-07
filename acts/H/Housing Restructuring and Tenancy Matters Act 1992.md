@@ -2363,7 +2363,7 @@ Social housing agency
             
         *   (i) establishing a body to dispose of appeals under that section, prescribing how its members are to be appointed, and prescribing how it is to hear and dispose of appeals; or
         
-        *   (ii) providing that such appeals are to be made to the Social Security Appeal Authority established by the [Social Security Act 1964][222] as if they were appeals against decisions or determinations under that Act, and providing that [sections 12J to 12N][233], [section 120A][275], and [sections 12P to 12S][234] of that Act apply, with or without modification, to the hearing and disposal of appeals; or
+        *   (ii) providing that such appeals are to be made to the Social Security Appeal Authority established by the [Social Security Act 1964][222] as if they were appeals against decisions or determinations under that Act, and providing that [sections 12J to 12N][233], [section 12OA][275], and [sections 12P to 12S][234] of that Act apply, with or without modification, to the hearing and disposal of appeals; or
         
         *   (iii) providing, if the agency is not the Ministry, that such appeals are to be made to a District Court, and providing that the [District Courts Act 1947][235] and the rules of the District Court apply, with or without modification, to the hearing and disposal of appeals; or
         
@@ -3494,7 +3494,7 @@ Date of notification in _Gazette_: 24 June 1993\.
 [272]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM365476
 [273]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM374671
 [274]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM5200723
-[275]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM4501460
+[275]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM361025
 [276]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM329630
 [277]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM2474800
 [278]: http://www.legislation.govt.nz/act/public/1992/0076/latest/link.aspx?id=DLM64784
