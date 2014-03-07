@@ -1,5 +1,5 @@
 Reprint  
-as at 5 December 2013
+as at 7 March 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -1007,8 +1007,6 @@ AsureQuality Limited
 
 Electricity Corporation of New Zealand Limited
 
-Genesis Energy Limited
-
 KiwiRail Holdings Limited
 
 Kordia Group Limited
@@ -1043,7 +1041,7 @@ Transpower New Zealand Limited
 *   Schedule 1 Crown Forestry Management Limited: repealed, on 28 May 2001, by [section 20(1)][140] of the Finance Act (No 2) 1988 (1988 No 128).
 *   Schedule 1 Forestry Corporation of New Zealand Limited: repealed, on 21 August 1996, by [section 4(1)][141] of the Finance Act 1991 (1991 No 93).
 *   Schedule 1 GCS Limited: repealed, on 18 November 1994, by [section 5(1)][142] of the Finance Act 1994 (1994 No 73).
-*   Schedule 1 Genesis Energy Limited: amended, on 21 November 2013, by [clause 3][143] of the State-Owned Enterprises (Genesis Energy Limited) Order 2013 (SR 2013/435).
+*   Schedule 1 Genesis Energy Limited: repealed, on 7 March 2014, by [section 4(1)][143] of the State-Owned Enterprises Amendment Act 2012 (2012 No 44).
 *   Schedule 1 Government Computing Services Limited: repealed, on 8 August 1991, by [section 8][144] of the Finance Act 1991 (1991 No 93).
 *   Schedule 1 Government Property Services Limited: repealed, on 15 May 1998, by [section 13(1)][145] of the Finance Act (No 2) 1988 (1988 No 128).
 *   Schedule 1 Government Supply Brokerage Corporation (N.Z.) Limited: repealed, on 17 March 1992, by [section 10(1)][146] of the Finance Act 1991 (1991 No 93).
@@ -1054,31 +1052,31 @@ Transpower New Zealand Limited
 *   Schedule 1 Landcorp Farming Limited: inserted, on 12 April 2001, by [clause 3][150] of the State-Owned Enterprises (Landcorp Farming Limited) Order 2001 (SR 2001/23).
 *   Schedule 1 Learning Media Limited: inserted, on 25 January 2005, by [section 4][136] of the State-Owned Enterprises Amendment Act 2004 (2004 No 116).
 *   Schedule 1 MCS Limited: repealed, on 1 July 2010, by [section 16(1)][151] of the State-Owned Enterprises Amendment Act 1992 (1992 No 27).
-*   Schedule 1 Meridian Energy Limited: repealed, on 30 August 2013, by [section 4(2)][152] of the State-Owned Enterprises Amendment Act 2012 (2012 No 44).
-*   Schedule 1 Meteorological Service of New Zealand Limited: inserted, on 30 June 1992, by [clause 2][153] of the State-Owned Enterprises Order 1992 (SR 1992/181).
-*   Schedule 1 Mighty River Power Limited: repealed, on 8 March 2013, by [section 4(3)][152] of the State-Owned Enterprises Amendment Act 2012 (2012 No 44).
-*   Schedule 1 National Provident Management Company Limited: repealed, on 17 April 1992, by [section 17(1)][154] of the Finance Act 1991 (1991 No 93).
+*   Schedule 1 Meridian Energy Limited: repealed, on 30 August 2013, by [section 4(2)][143] of the State-Owned Enterprises Amendment Act 2012 (2012 No 44).
+*   Schedule 1 Meteorological Service of New Zealand Limited: inserted, on 30 June 1992, by [clause 2][152] of the State-Owned Enterprises Order 1992 (SR 1992/181).
+*   Schedule 1 Mighty River Power Limited: repealed, on 8 March 2013, by [section 4(3)][143] of the State-Owned Enterprises Amendment Act 2012 (2012 No 44).
+*   Schedule 1 National Provident Management Company Limited: repealed, on 17 April 1992, by [section 17(1)][153] of the Finance Act 1991 (1991 No 93).
 *   Schedule 1 New Zealand Forestry Corporation Limited: repealed, on 31 May 1996, by clause 2 of the State-Owned Enterprises (Crown Forestry Management Limited) Order 1996 (SR 1996/122).
-*   Schedule 1 New Zealand Liquid Fuels Investment Limited: repealed, on 29 June 1990, by [section 2(1)][155] of the State-Owned Enterprises Amendment Act (No 2) 1990 (1990 No 49).
+*   Schedule 1 New Zealand Liquid Fuels Investment Limited: repealed, on 29 June 1990, by [section 2(1)][154] of the State-Owned Enterprises Amendment Act (No 2) 1990 (1990 No 49).
 *   Schedule 1 Petroleum Corporation of New Zealand Limited: repealed, on 1 July 1987, by section 10(1) of the State-Owned Enterprises Amendment Act 1987 (1987 No 117).
-*   Schedule 1 Post Office Bank Limited: repealed, on 28 February 1989, by [section 2(1)][156] of the Post Office Bank Amendment Act 1988 (1988 No 173).
+*   Schedule 1 Post Office Bank Limited: repealed, on 28 February 1989, by [section 2(1)][155] of the Post Office Bank Amendment Act 1988 (1988 No 173).
 *   Schedule 1 Quotable Value Limited: inserted, on 25 January 2005, by [section 4][136] of the State-Owned Enterprises Amendment Act 2004 (2004 No 116).
-*   Schedule 1 The Radio Company Limited: repealed, on 5 July 1996, by [section 2][157] of the Radio New Zealand Act (No 2) 1995 (1995 No 53).
-*   Schedule 1 Radio New Zealand Limited: repealed, on 1 December 1995, by [section 20][158] of the Radio New Zealand Act 1995 (1995 No 52).
-*   Schedule 1 Shipping Corporation of New Zealand Limited: repealed, on 4 April 1989, by [section 4][159] of the Shipping Corporation of New Zealand Act Repeal Act 1988 (1988 No 154).
+*   Schedule 1 The Radio Company Limited: repealed, on 5 July 1996, by [section 2][156] of the Radio New Zealand Act (No 2) 1995 (1995 No 53).
+*   Schedule 1 Radio New Zealand Limited: repealed, on 1 December 1995, by [section 20][157] of the Radio New Zealand Act 1995 (1995 No 52).
+*   Schedule 1 Shipping Corporation of New Zealand Limited: repealed, on 4 April 1989, by [section 4][158] of the Shipping Corporation of New Zealand Act Repeal Act 1988 (1988 No 154).
 *   Schedule 1 Solid Energy New Zealand Limited: inserted, on 24 October 1997, by [clause 2][138] of the State-Owned Enterprises (Solid Energy New Zealand Limited) Order 1997 (SR 1997/277).
-*   Schedule 1 Telecom Corporation of New Zealand Limited: repealed, on 12 September 1990, by [section 4(1)][160] of the Finance Act 1990 (1990 No 20).
-*   Schedule 1 Television New Zealand Limited: repealed, on 28 February 2003, by [section 30][161] of the Television New Zealand Act 2003 (2003 No 1).
-*   Schedule 1 Terralink NZ Limited: inserted, on 1 July 1996, by [clause 2][162] of the State-Owned Enterprises Order 1996 (SR 1996/165).
-*   Schedule 1 Timberlands West Coast Limited: repealed, on 1 May 2011, by [section 23(1)][163] of the Finance Act 1991 (1991 No 93).
-*   Schedule 1 Tourist Hotel Corporation of New Zealand: repealed, on 23 March 1990, by [section 18][164] of the Tourist Hotel Corporation of New Zealand Act 1989 (1989 No 130).
-*   Schedule 1 Tourist Hotel Corporation of New Zealand Limited: repealed, on 15 June 1990, by [section 19(1)][165] of the Tourist Hotel Corporation of New Zealand Act 1989 (1989 No 130).
-*   Schedule 1 Trans Power New Zealand Limited: repealed, on 21 November 1997, by [clause 2][166] of the State-Owned Enterprises (Transpower New Zealand Limited) Order 1997 (SR 1997/299).
+*   Schedule 1 Telecom Corporation of New Zealand Limited: repealed, on 12 September 1990, by [section 4(1)][159] of the Finance Act 1990 (1990 No 20).
+*   Schedule 1 Television New Zealand Limited: repealed, on 28 February 2003, by [section 30][160] of the Television New Zealand Act 2003 (2003 No 1).
+*   Schedule 1 Terralink NZ Limited: inserted, on 1 July 1996, by [clause 2][161] of the State-Owned Enterprises Order 1996 (SR 1996/165).
+*   Schedule 1 Timberlands West Coast Limited: repealed, on 1 May 2011, by [section 23(1)][162] of the Finance Act 1991 (1991 No 93).
+*   Schedule 1 Tourist Hotel Corporation of New Zealand: repealed, on 23 March 1990, by [section 18][163] of the Tourist Hotel Corporation of New Zealand Act 1989 (1989 No 130).
+*   Schedule 1 Tourist Hotel Corporation of New Zealand Limited: repealed, on 15 June 1990, by [section 19(1)][164] of the Tourist Hotel Corporation of New Zealand Act 1989 (1989 No 130).
+*   Schedule 1 Trans Power New Zealand Limited: repealed, on 21 November 1997, by [clause 2][165] of the State-Owned Enterprises (Transpower New Zealand Limited) Order 1997 (SR 1997/299).
 *   Schedule 1 Transmission Holdings Limited: repealed, on 22 March 2007, by [clause 5(2)(a)][149] of the State-Owned Enterprises (Kordia Group Limited) Order 2007 (SR 2007/17).
-*   Schedule 1 Transpower New Zealand Limited: inserted, on 21 November 1997, by [clause 2][166] of the State-Owned Enterprises (Transpower New Zealand Limited) Order 1997 (SR 1997/299).
-*   Schedule 1 Vehicle Testing New Zealand Limited: repealed, on 6 September 1999, by [section 4(1)][167] of the State-Owned Enterprises (Meteorological Service of New Zealand Limited and Vehicle Testing New Zealand Limited) Amendment Act 1999 (1999 No 65).
-*   Schedule 1 Waikato SOE Limited: repealed, on 16 April 1999, by [clause 2][168] of the State-Owned Enterprises (Mighty River Power Limited) Order 1999 (SR 1999/102).
-*   Schedule 1 Works and Development Services Corporation (NZ) Limited: repealed, on 27 August 1996, by [section 3(1)][169] of the State-Owned Enterprises Amendment Act 1996 (1996 No 82).
+*   Schedule 1 Transpower New Zealand Limited: inserted, on 21 November 1997, by [clause 2][165] of the State-Owned Enterprises (Transpower New Zealand Limited) Order 1997 (SR 1997/299).
+*   Schedule 1 Vehicle Testing New Zealand Limited: repealed, on 6 September 1999, by [section 4(1)][166] of the State-Owned Enterprises (Meteorological Service of New Zealand Limited and Vehicle Testing New Zealand Limited) Amendment Act 1999 (1999 No 65).
+*   Schedule 1 Waikato SOE Limited: repealed, on 16 April 1999, by [clause 2][167] of the State-Owned Enterprises (Mighty River Power Limited) Order 1999 (SR 1999/102).
+*   Schedule 1 Works and Development Services Corporation (NZ) Limited: repealed, on 27 August 1996, by [section 3(1)][168] of the State-Owned Enterprises Amendment Act 1996 (1996 No 82).
 
 ---
 
@@ -1094,8 +1092,6 @@ Animal Control Products Limited
 AsureQuality Limited
 
 Electricity Corporation of New Zealand Limited
-
-Genesis Energy Limited
 
 KiwiRail Holdings Limited
 
@@ -1128,7 +1124,7 @@ Transpower New Zealand Limited
 *   Schedule 2 Crown Forestry Management Limited: repealed, on 28 May 2001, by [section 20(1)][140] of the Finance Act (No 2) 1988 (1988 No 128).
 *   Schedule 2 Forestry Corporation of New Zealand Limited: repealed, on 21 August 1996, by [section 4(3)][141] of the Finance Act 1991 (1991 No 93).
 *   Schedule 2 GCS Limited: repealed, on 18 November 1994, by [section 5(3)][142] of the Finance Act 1994 (1994 No 73).
-*   Schedule 1 Genesis Energy Limited: amended, on 21 November 2013, by [clause 3][143] of the State-Owned Enterprises (Genesis Energy Limited) Order 2013 (SR 2013/435).
+*   Schedule 2 Genesis Energy Limited: repealed, on 7 March 2014, by [section 5(1)][169] of the State-Owned Enterprises Amendment Act 2012 (2012 No 44).
 *   Schedule 2 Government Computing Services Limited: repealed, on 8 August 1991, by [section 8][144] of the Finance Act 1991 (1991 No 93).
 *   Schedule 2 Government Property Services Limited: repealed, on 15 May 1998, by [sections 13(1)][145] of the Finance Act (No 2) 1988 (1988 No 128).
 *   Schedule 2 Government Supply Brokerage Corporation (N.Z.) Limited: repealed, on 22 January 1992, by [section 10(3)][146] of the Finance Act 1991 (1991 No 93).
@@ -1139,28 +1135,28 @@ Transpower New Zealand Limited
 *   Schedule 2 Landcorp Farming Limited: inserted, on 12 April 2001, by [clause 3][150] of the State-Owned Enterprises (Landcorp Farming Limited) Order 2001 (SR 2001/23).
 *   Schedule 2 Learning Media Limited: inserted, on 25 January 2005, by [section 4][136] of the State-Owned Enterprises Amendment Act 2004 (2004 No 116).
 *   Schedule 2 MCS Limited: repealed, on 1 July 2010, by [section 16(3)][151] of the State-Owned Enterprises Amendment Act 1992 (1992 No 27).
-*   Schedule 2 Meridian Energy Limited: repealed, on 30 August 2013, by [section 5(2)][170] of the State-Owned Enterprises Amendment Act 2012 (2012 No 44).
-*   Schedule 2 Meteorological Service of New Zealand Limited: inserted, on 30 June 1992, by [clause 2][153] of the State-Owned Enterprises Order 1992 (SR 1992/181).
-*   Schedule 2 Mighty River Power Limited: repealed, on 8 March 2013, by [section 5(3)][170] of the State-Owned Enterprises Amendment Act 2012 (2012 No 44).
-*   Schedule 2 National Provident Management Company Limited: repealed, on 10 December 1991, by [section 17(3)][154] of the Finance Act 1991 (1991 No 93).
-*   Schedule 2 New Zealand Forestry Corporation Limited: repealed, on 31 May 1996, by [clause 2][171] of the State-Owned Enterprises (Crown Forestry Management Limited) Order 1996 (SR 1996/122).
-*   Schedule 2 New Zealand Liquid Fuels Investment Limited: repealed, on 29 June 1990, by [section 2(1)][155] of the State-Owned Enterprises Amendment Act (No 2) 1990 (1990 No 49).
-*   Schedule 2 New Zealand Symphony Orchestra Limited: repealed, on 21 December 1992, by [section 42][172] of the Public Finance Amendment Act 1992 (1992 No 142).
-*   Schedule 2 Post Office Bank Limited: repealed, on 28 February 1989, by [section 2(1)][156] of the Post Office Bank Amendment Act 1988 (1988 No 173).
+*   Schedule 2 Meridian Energy Limited: repealed, on 30 August 2013, by [section 5(2)][169] of the State-Owned Enterprises Amendment Act 2012 (2012 No 44).
+*   Schedule 2 Meteorological Service of New Zealand Limited: inserted, on 30 June 1992, by [clause 2][152] of the State-Owned Enterprises Order 1992 (SR 1992/181).
+*   Schedule 2 Mighty River Power Limited: repealed, on 8 March 2013, by [section 5(3)][169] of the State-Owned Enterprises Amendment Act 2012 (2012 No 44).
+*   Schedule 2 National Provident Management Company Limited: repealed, on 10 December 1991, by [section 17(3)][153] of the Finance Act 1991 (1991 No 93).
+*   Schedule 2 New Zealand Forestry Corporation Limited: repealed, on 31 May 1996, by [clause 2][170] of the State-Owned Enterprises (Crown Forestry Management Limited) Order 1996 (SR 1996/122).
+*   Schedule 2 New Zealand Liquid Fuels Investment Limited: repealed, on 29 June 1990, by [section 2(1)][154] of the State-Owned Enterprises Amendment Act (No 2) 1990 (1990 No 49).
+*   Schedule 2 New Zealand Symphony Orchestra Limited: repealed, on 21 December 1992, by [section 42][171] of the Public Finance Amendment Act 1992 (1992 No 142).
+*   Schedule 2 Post Office Bank Limited: repealed, on 28 February 1989, by [section 2(1)][155] of the Post Office Bank Amendment Act 1988 (1988 No 173).
 *   Schedule 2 Quotable Value Limited: inserted, on 25 January 2005, by [section 4][136] of the State-Owned Enterprises Amendment Act 2004 (2004 No 116).
-*   Schedule 2 The Radio Company Limited: repealed, on 5 July 1996, by [section 2][157] of the Radio New Zealand Act (No 2) 1995 (1995 No 53).
-*   Schedule 2 Radio New Zealand Limited: repealed, on 1 December 1995, by [section 20][158] of the Radio New Zealand Act 1995 (1995 No 52).
+*   Schedule 2 The Radio Company Limited: repealed, on 5 July 1996, by [section 2][156] of the Radio New Zealand Act (No 2) 1995 (1995 No 53).
+*   Schedule 2 Radio New Zealand Limited: repealed, on 1 December 1995, by [section 20][157] of the Radio New Zealand Act 1995 (1995 No 52).
 *   Schedule 2 Solid Energy New Zealand Limited: inserted, on 24 October 1997, by [clause 2][138] of the State-Owned Enterprises (Solid Energy New Zealand Limited) Order 1997 (SR 1997/277).
-*   Schedule 2 Telecom Corporation of New Zealand Limited: repealed, on 14 June 1990, by [section 4(3)][160] of the Finance Act 1990 (1990 No 20).
-*   Schedule 2 Television New Zealand Limited: repealed, on 28 February 2003, by [section 30][161] of the Television New Zealand Act 2003 (2003 No 1).
-*   Schedule 2 Terralink NZ Limited: inserted, on 1 July 1996, by [clause 2][162] of the State-Owned Enterprises Order 1996 (SR 1996/165).
-*   Schedule 2 Timberlands West Coast Limited: repealed, on 1 May 2011, by [section 23(3)][163] of the Finance Act 1991 (1991 No 93).
-*   Schedule 2 Trans Power New Zealand Limited: repealed, on 21 November 1997, by [clause 2][166] of the State-Owned Enterprises (Transpower New Zealand Limited) Order 1997 (SR 1997/299).
+*   Schedule 2 Telecom Corporation of New Zealand Limited: repealed, on 14 June 1990, by [section 4(3)][159] of the Finance Act 1990 (1990 No 20).
+*   Schedule 2 Television New Zealand Limited: repealed, on 28 February 2003, by [section 30][160] of the Television New Zealand Act 2003 (2003 No 1).
+*   Schedule 2 Terralink NZ Limited: inserted, on 1 July 1996, by [clause 2][161] of the State-Owned Enterprises Order 1996 (SR 1996/165).
+*   Schedule 2 Timberlands West Coast Limited: repealed, on 1 May 2011, by [section 23(3)][162] of the Finance Act 1991 (1991 No 93).
+*   Schedule 2 Trans Power New Zealand Limited: repealed, on 21 November 1997, by [clause 2][165] of the State-Owned Enterprises (Transpower New Zealand Limited) Order 1997 (SR 1997/299).
 *   Schedule 2 Transmission Holdings Limited: repealed, on 22 March 2007, by [clause 5(3)(a)][149] of the State-Owned Enterprises (Kordia Group Limited) Order 2007 (SR 2007/17).
-*   Schedule 2 Transpower New Zealand Limited: inserted, on 21 November 1997, by [clause 2][166] of the State-Owned Enterprises (Transpower New Zealand Limited) Order 1997 (SR 1997/299).
-*   Schedule 2 Vehicle Testing New Zealand Limited: repealed, on 6 September 1999, by [section 4(3)][167] of the State-Owned Enterprises (Meteorological Service of New Zealand Limited and Vehicle Testing New Zealand Limited) Amendment Act 1999 (1999 No 65).
-*   Schedule 2 Waikato SOE Limited: repealed, on 16 April 1999, by [clause 2][168] of the State-Owned Enterprises (Mighty River Power Limited) Order 1999 (SR 1999/102).
-*   Schedule 2 Works and Development Services Corporation (NZ) Limited: repealed, on 27 August 1996, by [section 3(4)][169] of the State-Owned Enterprises Amendment Act 1996 (1996 No 82).
+*   Schedule 2 Transpower New Zealand Limited: inserted, on 21 November 1997, by [clause 2][165] of the State-Owned Enterprises (Transpower New Zealand Limited) Order 1997 (SR 1997/299).
+*   Schedule 2 Vehicle Testing New Zealand Limited: repealed, on 6 September 1999, by [section 4(3)][166] of the State-Owned Enterprises (Meteorological Service of New Zealand Limited and Vehicle Testing New Zealand Limited) Amendment Act 1999 (1999 No 65).
+*   Schedule 2 Waikato SOE Limited: repealed, on 16 April 1999, by [clause 2][167] of the State-Owned Enterprises (Mighty River Power Limited) Order 1999 (SR 1999/102).
+*   Schedule 2 Works and Development Services Corporation (NZ) Limited: repealed, on 27 August 1996, by [section 3(4)][168] of the State-Owned Enterprises Amendment Act 1996 (1996 No 82).
 
 ---
 
@@ -1169,15 +1165,15 @@ Modifications of provisions of Public Works Act 1981 applicable to acquisition o
 
 [s 27C][37]
 
-*   Schedule 2A: inserted (with effect on 9 December 1987), on 30 June 1988, by [section 11][173] of the Treaty of Waitangi (State Enterprises) Act 1988 (1988 No 105).
+*   Schedule 2A: inserted (with effect on 9 December 1987), on 30 June 1988, by [section 11][172] of the Treaty of Waitangi (State Enterprises) Act 1988 (1988 No 105).
 
 *   1 For the purposes of section 27C, the following provisions of Part 2 of the Public Works Act 1981 and of Schedule 3 of that Act shall not apply, namely:
         
-    *   (a) [section 23(1)(b)(iv)][174]:
+    *   (a) [section 23(1)(b)(iv)][173]:
     
-    *   (b) [section 23(3)][174]:
+    *   (b) [section 23(3)][173]:
     
-    *   (c) [sections 24][175] and [25][176]:
+    *   (c) [sections 24][174] and [25][175]:
     
     *   (d) [form B][113] in Schedule 3\.
     
@@ -1266,7 +1262,7 @@ Modifications of provisions of Public Works Act 1981 applicable to acquisition o
     
     *   (c) for the words ""said land and the construction of the said public work"", there were substituted the words ""land mentioned in table A below"".
     
-    Schedule 2A: amended, on 1 July 2003, by [section 262][177] of the Local Government Act 2002 (2002 No 84).
+    Schedule 2A: amended, on 1 July 2003, by [section 262][176] of the Local Government Act 2002 (2002 No 84).
 
 ---
 
@@ -1281,7 +1277,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Administration Act 1969 (1969 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][178]._
+_Amendment(s) incorporated in the [Act(s)][177]._
 
 ##### Broadcasting Act 1976 (1976 No 132) (RS Vol 13, p 1)
 
@@ -1301,11 +1297,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Criminal Justice Act 1985 (1985 No 120)
 
-_Amendment(s) incorporated in the [Act(s)][179]._
+_Amendment(s) incorporated in the [Act(s)][178]._
 
 ##### District Courts Act 1947 (1947 No 6) (RS Vol 5, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][180]._
+_Amendment(s) incorporated in the [Act(s)][179]._
 
 ##### Electoral Act 1956 (1956 No 107) (RS Vol 14, p 57)
 
@@ -1313,7 +1309,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Forest and Rural Fires Act 1977 (1977 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][181]._
+_Amendment(s) incorporated in the [Act(s)][180]._
 
 ##### Forests Act 1949 (1949 No 19) (RS Vol 18, p 133)
 
@@ -1325,7 +1321,7 @@ _Amendment(s) incorporated in the [Act(s)][84]._
 
 ##### Maori Purposes Act 1959 (1959 No 90) (RS Vol 8, p 547)
 
-_Amendment(s) incorporated in the [Act(s)][182]._
+_Amendment(s) incorporated in the [Act(s)][181]._
 
 ##### Misuse of Drugs Amendment Act 1978 (1978 No 65)
 
@@ -1353,7 +1349,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Real Estate Agents Act 1976 (1976 No 9)
 
-_Amendment(s) incorporated in the [Act(s)][183]._
+_Amendment(s) incorporated in the [Act(s)][182]._
 
 ##### Road User Charges Act 1977 (1977 No 124)
 
@@ -1377,11 +1373,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Transport Act 1962 (1962 No 135) (RS Vol 16, p 659)
 
-_Amendment(s) incorporated in the [Act(s)][184]._
+_Amendment(s) incorporated in the [Act(s)][183]._
 
 ##### Transport (Vehicle and Driver Registration and Licensing) Act 1986 (1986 No 6)
 
-_Amendment(s) incorporated in the [Act(s)][185]._
+_Amendment(s) incorporated in the [Act(s)][184]._
 
 ---
 
@@ -1414,31 +1410,31 @@ Electricity Act 1968
     
 *   \[Repealed\]
     
-    Schedule 4 clause 2: repealed, on 1 April 1993, by [section 173(2)][186] of the Electricity Act 1992 (1992 No 122).
+    Schedule 4 clause 2: repealed, on 1 April 1993, by [section 173(2)][185] of the Electricity Act 1992 (1992 No 122).
 
 ##### 3 
     
 *   \[Repealed\]
     
-    Schedule 4 clause 3: repealed, on 1 April 1993, by [section 173(2)][186] of the Electricity Act 1992 (1992 No 122).
+    Schedule 4 clause 3: repealed, on 1 April 1993, by [section 173(2)][185] of the Electricity Act 1992 (1992 No 122).
 
 ##### 4 
     
 *   \[Repealed\]
     
-    Schedule 4 clause 4: repealed, on 1 April 1993, by [section 173(2)][186] of the Electricity Act 1992 (1992 No 122).
+    Schedule 4 clause 4: repealed, on 1 April 1993, by [section 173(2)][185] of the Electricity Act 1992 (1992 No 122).
 
 ##### 5 
     
 *   \[Repealed\]
     
-    Schedule 4 clause 5: repealed, on 1 April 1993, by [section 173(2)][186] of the Electricity Act 1992 (1992 No 122).
+    Schedule 4 clause 5: repealed, on 1 April 1993, by [section 173(2)][185] of the Electricity Act 1992 (1992 No 122).
 
 ##### 6 
     
 *   \[Repealed\]
     
-    Schedule 4 clause 6: repealed, on 1 April 1993, by [section 173(2)][186] of the Electricity Act 1992 (1992 No 122).
+    Schedule 4 clause 6: repealed, on 1 April 1993, by [section 173(2)][185] of the Electricity Act 1992 (1992 No 122).
 
 ##### 7 
     
@@ -1450,25 +1446,25 @@ Electricity Act 1968
     
 *   \[Repealed\]
     
-    Schedule 4 clause 8: repealed, on 1 April 1993, by [section 173(2)][186] of the Electricity Act 1992 (1992 No 122).
+    Schedule 4 clause 8: repealed, on 1 April 1993, by [section 173(2)][185] of the Electricity Act 1992 (1992 No 122).
 
 ##### 9 
     
 *   \[Repealed\]
     
-    Schedule 4 clause 9: repealed, on 1 April 1993, by [section 173(2)][186] of the Electricity Act 1992 (1992 No 122).
+    Schedule 4 clause 9: repealed, on 1 April 1993, by [section 173(2)][185] of the Electricity Act 1992 (1992 No 122).
 
 #### Other enactments
 
 ##### 10 
     
-*   The [Manapouri-Te Anau Development Act 1963][187] shall have effect as if---
+*   The [Manapouri-Te Anau Development Act 1963][186] shall have effect as if---
         
-    *   (a) for the word ""Minister"" wherever it occurs in [section 4][188], there were substituted in each case the words ""Electricity Corporation of New Zealand Limited"":
+    *   (a) for the word ""Minister"" wherever it occurs in [section 4][187], there were substituted in each case the words ""Electricity Corporation of New Zealand Limited"":
     
-    *   (b) after the words ""Guardians of Lakes Manapouri and Te Anau"" in [section 4A(1)][189], there were inserted the words ""and the Electricity Corporation of New Zealand Limited"":
+    *   (b) after the words ""Guardians of Lakes Manapouri and Te Anau"" in [section 4A(1)][188], there were inserted the words ""and the Electricity Corporation of New Zealand Limited"":
     
-    *   (c) for the words ""the Minister"" in [section 5][190], there were substituted the words ""the Electricity Corporation of New Zealand Limited"".
+    *   (c) for the words ""the Minister"" in [section 5][189], there were substituted the words ""the Electricity Corporation of New Zealand Limited"".
     
     
 
@@ -1488,19 +1484,19 @@ Electricity Act 1968
     
 *   \[Repealed\]
     
-    Schedule 4 clause 12: repealed, on 1 April 1993, by [section 173(2)][186] of the Electricity Act 1992 (1992 No 122).
+    Schedule 4 clause 12: repealed, on 1 April 1993, by [section 173(2)][185] of the Electricity Act 1992 (1992 No 122).
 
 ##### 13 
     
 *   \[Repealed\]
     
-    Schedule 4 clause 13: repealed, on 1 April 1993, by [section 173(2)][186] of the Electricity Act 1992 (1992 No 122).
+    Schedule 4 clause 13: repealed, on 1 April 1993, by [section 173(2)][185] of the Electricity Act 1992 (1992 No 122).
 
 ##### 14 
     
 *   \[Repealed\]
     
-    Schedule 4 clause 14: repealed, on 1 April 1993, by [section 173(2)][186] of the Electricity Act 1992 (1992 No 122).
+    Schedule 4 clause 14: repealed, on 1 April 1993, by [section 173(2)][185] of the Electricity Act 1992 (1992 No 122).
 
 ## Part 3  
 Land Act 1948
@@ -1521,19 +1517,19 @@ Land Act 1948
     
 *   The [Land Act 1948][84] shall have effect in respect of any land transferred to the Land Corporation Limited pursuant to the State-Owned Enterprises Act 1986 where at the date of transfer there is a lease, licence, permit, or tenancy in respect of that land to which any or all of the following provisions of the Land Act 1948 (or any corresponding provisions of any former Land Act, as the case may be) apply, and those provisions shall continue to apply to that lease, licence, permit, or tenancy (and any renewal thereof pursuant to a right expressly conferred thereby or by any Act) as if the land were still Crown land subject to this Act and every reference in those provisions to a Commissioner of Crown Lands, the Land Settlement Board, the board, or the department included a reference to the Land Corporation Limited:
         
-    *   (a) [sections 18][191], [50][192], [50A to 50F][193], [56][194], [60][195], [60A][196], [60B][197], and [65][198]:
+    *   (a) [sections 18][190], [50][191], [50A to 50F][192], [56][193], [60][194], [60A][195], [60B][196], and [65][197]:
     
-    *   (b) subsections (1), (2), and (4) of [section 67][199]:
+    *   (b) subsections (1), (2), and (4) of [section 67][198]:
     
-    *   (c) [sections 68][200], [68A][201], [69][202], and [81 to 85][203]:
+    *   (c) [sections 68][199], [68A][200], [69][201], and [81 to 85][202]:
     
-    *   (d) [sections 86][204], [87][205], [87A][206], [88 to 91][207], [91A][208], and [92 to 105][209]:
+    *   (d) [sections 86][203], [87][204], [87A][205], [88 to 91][206], [91A][207], and [92 to 105][208]:
     
-    *   (e) [sections 111 to 115][210], and [121][211]:
+    *   (e) [sections 111 to 115][209], and [121][210]:
     
-    *   (f) [sections 122 to 124][212], [124A][213], [125][214], [126][215], [127][216], [131][217], [132][218], [132A][219], and [133 to 151][220]:
+    *   (f) [sections 122 to 124][211], [124A][212], [125][213], [126][214], [127][215], [131][216], [132][217], [132A][218], and [133 to 151][219]:
     
-    *   (g) [sections 153 to 158][221], [160][222], [164A][223], [164B][224], [170][225], [170A][226], [170B][227], [171][228], [174][229], and [183][230]."
+    *   (g) [sections 153 to 158][220], [160][221], [164A][222], [164B][223], [170][224], [170A][225], [170B][226], [171][227], [174][228], and [183][229]."
     
     
 
@@ -1624,13 +1620,13 @@ Post Office Act 1959
     
 *   \[Repealed\]
     
-    Schedule 4 clause 32: repealed (with effect on 1 April 1987), on 1 July 1987, by [section 7(2)][231] of the Post Office Bank Act 1987 (1987 No 114).
+    Schedule 4 clause 32: repealed (with effect on 1 April 1987), on 1 July 1987, by [section 7(2)][230] of the Post Office Bank Act 1987 (1987 No 114).
 
 ##### 33 
     
 *   \[Repealed\]
     
-    Schedule 4 clause 33: repealed (with effect on 1 April 1987), on 1 July 1987, by [section 7(2)][231] of the Post Office Bank Act 1987 (1987 No 114).
+    Schedule 4 clause 33: repealed (with effect on 1 April 1987), on 1 July 1987, by [section 7(2)][230] of the Post Office Bank Act 1987 (1987 No 114).
 
 ##### 34 
     
@@ -1640,7 +1636,7 @@ Post Office Act 1959
     
 *   \[Repealed\]
     
-    Schedule 4 clause 35: repealed (with effect on 1 April 1987), on 1 July 1987, by [section 7(2)][231] of the Post Office Bank Act 1987 (1987 No 114).
+    Schedule 4 clause 35: repealed (with effect on 1 April 1987), on 1 July 1987, by [section 7(2)][230] of the Post Office Bank Act 1987 (1987 No 114).
 
 ##### 36 
     
@@ -1710,19 +1706,19 @@ Post Office Act 1959
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 April 1993, pursuant to [section 173(2)][186] of the Electricity Act 1992 (1992 No 122).
+*   Heading: repealed, on 1 April 1993, pursuant to [section 173(2)][185] of the Electricity Act 1992 (1992 No 122).
 
 ##### 43 
     
 *   \[Repealed\]
     
-    Schedule 4 clause 43: repealed, on 1 April 1993, by [section 173(2)][186] of the Electricity Act 1992 (1992 No 122).
+    Schedule 4 clause 43: repealed, on 1 April 1993, by [section 173(2)][185] of the Electricity Act 1992 (1992 No 122).
 
 ##### 44 
     
 *   \[Repealed\]
     
-    Schedule 4 clause 44: repealed, on 1 April 1993, by [section 173(2)][186] of the Electricity Act 1992 (1992 No 122).
+    Schedule 4 clause 44: repealed, on 1 April 1993, by [section 173(2)][185] of the Electricity Act 1992 (1992 No 122).
 
 ---
 
@@ -1766,7 +1762,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Treaty of Waitangi (State Enterprises) Act 1988][232].
+*   (1) This Act may be cited as the [Treaty of Waitangi (State Enterprises) Act 1988][231].
     
     (2) This Act shall be deemed to have come into force on 9 December 1987\.
 
@@ -1793,7 +1789,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Finance Act (No 2) 1988][233].
+*   (1) This Act may be cited as the [Finance Act (No 2) 1988][232].
     
     (2) Except as provided in section 6, this Act shall come into force on the date on which it receives the Royal assent.
 
@@ -1812,23 +1808,23 @@ Other substantive provisions
     
     (5) In the case of sections 25 and 26, a date may be appointed only where the Governor-General in Council is satisfied, at the time of the making of the Order in Council appointing the date for the coming into force of the section, that at least 50% of the ordinary shares in the capital of Air New Zealand Limited are no longer held on behalf of Her Majesty the Queen.
     
-    Section 6(1): section 19 (other than subsections (2)--(4)) brought into force, on 1 December 1988, by [clause 2(1)][234] of the Finance Act Commencement Order 1988 (SR 1988/282).
+    Section 6(1): section 19 (other than subsections (2)--(4)) brought into force, on 1 December 1988, by [clause 2(1)][233] of the Finance Act Commencement Order 1988 (SR 1988/282).
     
-    Section 6(1): section 19(2)--(4) brought into force, on 1 January 1989, by [clause 2(2)][234] of the Finance Act Commencement Order 1988 (SR 1988/282).
+    Section 6(1): section 19(2)--(4) brought into force, on 1 January 1989, by [clause 2(2)][233] of the Finance Act Commencement Order 1988 (SR 1988/282).
     
-    Section 6(1): sections 25 and 26 brought into force, on 12 May 1989, by the [Finance Act Commencement Order 1989][235] (SR 1989/89).
+    Section 6(1): sections 25 and 26 brought into force, on 12 May 1989, by the [Finance Act Commencement Order 1989][234] (SR 1989/89).
     
-    Section 6(1): sections 27 and 28 brought into force, on 12 September 1990, by the [Finance Act Commencement Order (No 2) 1990][236] (SR 1990/193).
+    Section 6(1): sections 27 and 28 brought into force, on 12 September 1990, by the [Finance Act Commencement Order (No 2) 1990][235] (SR 1990/193).
     
-    Section 6(1): section 13 brought into force, on 15 May 1998, by the [Finance Act (No 2) 1988 Commencement Order 1998][237] (SR 1998/88).
+    Section 6(1): section 13 brought into force, on 15 May 1998, by the [Finance Act (No 2) 1988 Commencement Order 1998][236] (SR 1998/88).
     
-    Section 6(1): section 20 brought into force, on 28 May 2001, by the [Finance Act (No 2) 1988 Commencement Order 2001][238] (SR 2001/76).
+    Section 6(1): section 20 brought into force, on 28 May 2001, by the [Finance Act (No 2) 1988 Commencement Order 2001][237] (SR 2001/76).
     
-    Section 6(1): sections 15, 16, 21 and 22 brought into force, on 1 January 2003, by the [Finance Act Commencement Order 2002][239] (SR 2002/386).
+    Section 6(1): sections 15, 16, 21 and 22 brought into force, on 1 January 2003, by the [Finance Act Commencement Order 2002][238] (SR 2002/386).
     
-    Section 6(2): amended, on 24 October 1997, by [clause 3][240] of the State-Owned Enterprises (Solid Energy New Zealand Limited) Order 1997 (SR 1997/277).
+    Section 6(2): amended, on 24 October 1997, by [clause 3][239] of the State-Owned Enterprises (Solid Energy New Zealand Limited) Order 1997 (SR 1997/277).
     
-    Section 6(4): amended, on 31 May 1996, by [clause 3][241] of the State-Owned Enterprises (Crown Forestry Management Limited) Order 1996 (SR 1996/122).
+    Section 6(4): amended, on 31 May 1996, by [clause 3][240] of the State-Owned Enterprises (Crown Forestry Management Limited) Order 1996 (SR 1996/122).
 
 #### Government Property Services Limited
 
@@ -1856,13 +1852,13 @@ Commencementsee section 1
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Post Office Bank Amendment Act 1988][242], and shall be read together with and deemed part of the Post Office Bank Act 1987 (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the [Post Office Bank Amendment Act 1988][241], and shall be read together with and deemed part of the Post Office Bank Act 1987 (hereinafter referred to as ""the principal Act"").
     
     (2) Subject to subsection (3), sections 2 to 6 shall come into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made under this section bringing different provisions of those sections into force on different dates.
     
     (3) In the case of any provision of sections 3 to 6, a date may be appointed only where the Governor-General in Council is satisfied, at the time of the making of the Order in Council appointing the date for the coming into force of the provision, that at least 50% of the ordinary shares in the capital of Post Office Bank Limited are no longer held on behalf of Her Majesty the Queen.
     
-    Section 1(2): section 2 brought into force, on 28 February 1989, by the [Post Office Bank Amendment Act Commencement Order 1989][243] (SR 1989/35).
+    Section 1(2): section 2 brought into force, on 28 February 1989, by the [Post Office Bank Amendment Act Commencement Order 1989][242] (SR 1989/35).
 
 ##### 2 Amendment to State-Owned Enterprises Act 1986
     
@@ -1888,7 +1884,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Finance Act 1990][244].
+*   (1) This Act may be cited as the [Finance Act 1990][243].
     
     (2) Except as provided in Part 1 and Part 2, this Act shall come into force on the date on which it receives the Royal assent.
 
@@ -1899,7 +1895,7 @@ Application of State-Owned Enterprises Act 1986 and other Acts to Telecom Corpor
     
 *   This Part shall come into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made bringing different provisions of this Part into force on different dates.
     
-    Section 3: section 4(3) and (4) brought into force, on 14 June 1990, by the [Finance Act Commencement Order 1990][245] (SR 1990/138).
+    Section 3: section 4(3) and (4) brought into force, on 14 June 1990, by the [Finance Act Commencement Order 1990][244] (SR 1990/138).
     
     Section 3: sections 4(1), (2), and (5), 5, 6, 7, and 8 brought into force, on 12 September 1990, by the Finance Act Commencement Order (No 3) 1990 (SR 1990/194).
 
@@ -1933,7 +1929,7 @@ Commencementsee section 1
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [State-Owned Enterprises Amendment Act (No 2) 1990][246] and shall be read together with and deemed part of the State-Owned Enterprises Act 1986 (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the [State-Owned Enterprises Amendment Act (No 2) 1990][245] and shall be read together with and deemed part of the State-Owned Enterprises Act 1986 (hereinafter referred to as ""the principal Act"").
     
     (2) Sections 2 and 3 shall come into force on the date on which this Act receives the Royal assent.
     
@@ -1969,7 +1965,7 @@ Commencement1 August 1990
 
 ##### 1 Short Title
     
-*   This Act may be cited as the [State-Owned Enterprises Amendment Act (No 3) 1990][247], and shall be read together with and deemed part of the State-Owned Enterprises Act 1986 (hereinafter referred to as ""the principal Act"").
+*   This Act may be cited as the [State-Owned Enterprises Amendment Act (No 3) 1990][246], and shall be read together with and deemed part of the State-Owned Enterprises Act 1986 (hereinafter referred to as ""the principal Act"").
 
 ##### 3 Transfer of Crown assets and liabilities to New Zealand Liquid Fuels Investment Limited
     
@@ -2003,7 +1999,7 @@ Commencement1 August 1990
     
     (2) This section shall be deemed to have come into force on 11 April 1990\.
     
-    Section 4(1): amended, on 31 May 1996, by [clause 3][241] of the State-Owned Enterprises (Crown Forestry Management Limited) Order 1996 (SR 1996/122).
+    Section 4(1): amended, on 31 May 1996, by [clause 3][240] of the State-Owned Enterprises (Crown Forestry Management Limited) Order 1996 (SR 1996/122).
 
 ---
 
@@ -2015,7 +2011,7 @@ Commencementsee section 1
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Finance Act 1991][248].
+*   (1) This Act may be cited as the [Finance Act 1991][247].
     
     (2) Except as provided in subsection (3), this Act shall come into force on the day on which it receives the Royal assent.
     
@@ -2037,27 +2033,27 @@ Commencementsee section 1
     
     (11) A date may be appointed pursuant to subsection (3) for bringing section 26 into force only if the Governor-General is satisfied, at the time of the making of the Order in Council, that none of the ordinary shares in the capital of Timberlands West Coast Limited is held by Ministers of the Crown on behalf of the Crown.
     
-    Section 1(3): sections 15, 17(3), (4), and (5) brought into force, on 10 December 1991, by [clause 2(2)][249] of the Finance Act Commencement Order 1991 (SR 1991/267).
+    Section 1(3): sections 15, 17(3), (4), and (5) brought into force, on 10 December 1991, by [clause 2(2)][248] of the Finance Act Commencement Order 1991 (SR 1991/267).
     
-    Section 1(3): sections 2, 3, 21, and 22 brought into force, on 13 December 1991, by [clause 2(1)][249] of the Finance Act Commencement Order 1991 (SR 1991/267).
+    Section 1(3): sections 2, 3, 21, and 22 brought into force, on 13 December 1991, by [clause 2(1)][248] of the Finance Act Commencement Order 1991 (SR 1991/267).
     
-    Section 1(3): section 10(3), (4), and (5) brought into force, on 22 January 1992, by the [Finance Act Commencement Order 1992][250] (SR 1992/1).
+    Section 1(3): section 10(3), (4), and (5) brought into force, on 22 January 1992, by the [Finance Act Commencement Order 1992][249] (SR 1992/1).
     
-    Section 1(3): sections 10(1), (2), (6), 11, 12, and 13 brought into force, on 17 March 1992, by the [Finance Act Commencement Order (No 2) 1992][251] (SR 1992/20).
+    Section 1(3): sections 10(1), (2), (6), 11, 12, and 13 brought into force, on 17 March 1992, by the [Finance Act Commencement Order (No 2) 1992][250] (SR 1992/20).
     
-    Section 1(3): sections 16, 17(1), (2), 18, 19, and 20 brought into force, on 17 April 1992, by the [Finance Act Commencement Order (No 3) 1992][252] (SR 1992/79).
+    Section 1(3): sections 16, 17(1), (2), 18, 19, and 20 brought into force, on 17 April 1992, by the [Finance Act Commencement Order (No 3) 1992][251] (SR 1992/79).
     
-    Section 1(3): section 4 brought into force, on 21 August 1996, by the [Finance Act Commencement Order 1996][253] (SR 1996/225).
+    Section 1(3): section 4 brought into force, on 21 August 1996, by the [Finance Act Commencement Order 1996][252] (SR 1996/225).
     
-    Section 1(3): sections 5, 6, and 7 brought into force, on 1 October 1996, by the [Finance Act Commencement Order (No 2) 1996][254] (SR 1996/290).
+    Section 1(3): sections 5, 6, and 7 brought into force, on 1 October 1996, by the [Finance Act Commencement Order (No 2) 1996][253] (SR 1996/290).
     
-    Section 1(3): section 23 brought into force, on 1 May 2011, by the [Finance Act 1991 Commencement Order 2011][255] (SR 2011/102).
+    Section 1(3): section 23 brought into force, on 1 May 2011, by the [Finance Act 1991 Commencement Order 2011][254] (SR 2011/102).
     
-    Section 1(3): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][256] of the Income Tax Act 2004 (2004 No 35).
+    Section 1(3): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][255] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 1(5): repealed, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][256] of the Income Tax Act 2004 (2004 No 35).
+    Section 1(5): repealed, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][255] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 1(9): repealed, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][256] of the Income Tax Act 2004 (2004 No 35).
+    Section 1(9): repealed, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][255] of the Income Tax Act 2004 (2004 No 35).
 
 ## Part 1  
 State-owned enterprises
@@ -2094,7 +2090,7 @@ Commencementsee section 1
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [State-Owned Enterprises Amendment Act 1992][257], and shall be read together with and deemed part of the State-Owned Enterprises Act 1986 (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the [State-Owned Enterprises Amendment Act 1992][256], and shall be read together with and deemed part of the State-Owned Enterprises Act 1986 (hereinafter referred to as ""the principal Act"").
     
     (2) Except as provided in subsection (3), this Act shall come into force on the day on which it receives the Royal assent.
     
@@ -2104,11 +2100,11 @@ Commencementsee section 1
     
     (5) \[Repealed\]
     
-    Section 1(3): section 16 brought into force, on 1 July 2010, by the [State-Owned Enterprises Amendment Act 1992 (MCS Limited) Commencement Order 2010][258] (SR 2010/91).
+    Section 1(3): section 16 brought into force, on 1 July 2010, by the [State-Owned Enterprises Amendment Act 1992 (MCS Limited) Commencement Order 2010][257] (SR 2010/91).
     
-    Section 1(3): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][256] of the Income Tax Act 2004 (2004 No 35).
+    Section 1(3): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][255] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 1(5): repealed, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][256] of the Income Tax Act 2004 (2004 No 35).
+    Section 1(5): repealed, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][255] of the Income Tax Act 2004 (2004 No 35).
 
 #### New State enterprise
 
@@ -2152,13 +2148,13 @@ Commencementsee section 1
     
     (5) \[Repealed\]
     
-    Section 1(3): section 5 brought into force, on 18 November 1994, by the [Finance Act Commencement Order 1994][259] (SR 1994/253).
+    Section 1(3): section 5 brought into force, on 18 November 1994, by the [Finance Act Commencement Order 1994][258] (SR 1994/253).
     
-    Section 1(3): sections 6 and 7 brought into force, on 29 December 1994, by the [Finance Act Commencement Order (No 2) 1994][260] (SR 1994/266).
+    Section 1(3): sections 6 and 7 brought into force, on 29 December 1994, by the [Finance Act Commencement Order (No 2) 1994][259] (SR 1994/266).
     
-    Section 1(3): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][256] of the Income Tax Act 2004 (2004 No 35).
+    Section 1(3): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][255] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 1(5): repealed, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][256] of the Income Tax Act 2004 (2004 No 35).
+    Section 1(5): repealed, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][255] of the Income Tax Act 2004 (2004 No 35).
 
 #### GCS Limited
 
@@ -2188,7 +2184,7 @@ Commencementsee section 1
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [State-Owned Enterprises Amendment Act 1996][261] and shall be read together with and deemed part of the State-Owned Enterprises Act 1986 (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the [State-Owned Enterprises Amendment Act 1996][260] and shall be read together with and deemed part of the State-Owned Enterprises Act 1986 (hereinafter referred to as ""the principal Act"").
     
     (2) This Act shall come into force on a date to be appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
     
@@ -2196,7 +2192,7 @@ Commencementsee section 1
     
     (4) A date may be appointed pursuant to subsection (2) for bringing section 6 into force only if the Governor-General is satisfied, at the time of the making of the Order in Council, that none of the ordinary shares in Works and Development Services Corporation (NZ) Limited is held by Ministers of the Crown on behalf of the Crown.
     
-    Section 1(2): section 3 brought into force, on 27 August 1996, by the [State-Owned Enterprises Amendment Act Commencement Order 1996][262] (SR 1996/236).
+    Section 1(2): section 3 brought into force, on 27 August 1996, by the [State-Owned Enterprises Amendment Act Commencement Order 1996][261] (SR 1996/236).
 
 ##### 2 Expiry
     
@@ -2234,7 +2230,7 @@ Commencementsee section 1
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [State-Owned Enterprises (Meteorological Service of New Zealand Limited and Vehicle Testing New Zealand Limited) Amendment Act 1999][263], and is part of the State-Owned Enterprises Act 1986 (""the principal Act"").
+*   (1) This Act may be cited as the [State-Owned Enterprises (Meteorological Service of New Zealand Limited and Vehicle Testing New Zealand Limited) Amendment Act 1999][262], and is part of the State-Owned Enterprises Act 1986 (""the principal Act"").
     
     (2) This Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
     
@@ -2246,11 +2242,11 @@ Commencementsee section 1
     
     (6) \[Repealed\]
     
-    Section 1(2): section 4 (other than subsections (7)--(9)) brought into force, on 6 September 1999, by the [State-Owned Enterprises (Meteorological Service of New Zealand Limited and Vehicle Testing New Zealand Limited) Amendment Act Commencement Order 1999][264] (SR 1999/272).
+    Section 1(2): section 4 (other than subsections (7)--(9)) brought into force, on 6 September 1999, by the [State-Owned Enterprises (Meteorological Service of New Zealand Limited and Vehicle Testing New Zealand Limited) Amendment Act Commencement Order 1999][263] (SR 1999/272).
     
-    Section 1(2): section 4(7)--(9) brought into force, on 6 October 1999, by the [State-Owned Enterprises (Meteorological Service of New Zealand Limited and Vehicle Testing New Zealand Limited) Amendment Act Commencement Order (No 2) 1999][265] (SR 1999/329).
+    Section 1(2): section 4(7)--(9) brought into force, on 6 October 1999, by the [State-Owned Enterprises (Meteorological Service of New Zealand Limited and Vehicle Testing New Zealand Limited) Amendment Act Commencement Order (No 2) 1999][264] (SR 1999/329).
     
-    Section 1(6): repealed, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][256] of the Income Tax Act 2004 (2004 No 35).
+    Section 1(6): repealed, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][255] of the Income Tax Act 2004 (2004 No 35).
 
 ##### 2 Expiry
     
@@ -2292,7 +2288,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Cadastral Survey Act 2002][266].
+*   This Act is the [Cadastral Survey Act 2002][265].
 
 ## Part 1  
 Preliminary provisions
@@ -2334,17 +2330,17 @@ Miscellaneous
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][267] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][268] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][266] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][267] of that Act.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][269] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][270] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][268] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][269] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
 *   Companies Amendment Act 2013 (2013 No 111): [section 14][56]
     
-    State-Owned Enterprises (Genesis Energy Limited) Order 2013 (SR 2013/435): [clause 3][143]
+    State-Owned Enterprises (Genesis Energy Limited) Order 2013 (SR 2013/435): [clause 3][270]
     
     Legislation Act 2012 (2012 No 119): [section 77(3)][132]
     
@@ -2364,9 +2360,9 @@ Miscellaneous
     
     State-Owned Enterprises (AgriQuality Limited) Order 2004 (SR 2004/87): [clause 3][134]
     
-    Television New Zealand Act 2003 (2003 No 1): [section 30][161]
+    Television New Zealand Act 2003 (2003 No 1): [section 30][160]
     
-    Local Government Act 2002 (2002 No 84): [section 262][177]
+    Local Government Act 2002 (2002 No 84): [section 262][176]
     
     Securities Markets Amendment Act 2002 (2002 No 44): [section 30][76]
     
@@ -2378,31 +2374,31 @@ Miscellaneous
     
     Accident Insurance (Transitional Provisions) Act 2000 (2000 No 5): section 14(1)
     
-    [State-Owned Enterprises (Meteorological Service of New Zealand Limited and Vehicle Testing New Zealand Limited) Amendment Act 1999][263] (1999 No 65)
+    [State-Owned Enterprises (Meteorological Service of New Zealand Limited and Vehicle Testing New Zealand Limited) Amendment Act 1999][262] (1999 No 65)
     
-    State-Owned Enterprises (Mighty River Power Limited) Order 1999 (SR 1999/102): [clause 2][168]
+    State-Owned Enterprises (Mighty River Power Limited) Order 1999 (SR 1999/102): [clause 2][167]
     
     State-Owned Enterprises (Meridian Energy Limited) Order 1999 (SR 1999/101): [clause 2][147]
     
     [State-Owned Enterprises (Contact Energy Limited) Amendment Act 1998][273] (1998 No 99)
     
-    State-Owned Enterprises (Transpower New Zealand Limited) Order 1997 (SR 1997/299):[clause 2][166]
+    State-Owned Enterprises (Transpower New Zealand Limited) Order 1997 (SR 1997/299):[clause 2][165]
     
     State-Owned Enterprises (Solid Energy New Zealand Limited) Order 1997 (SR 1997/277): [clause 2][138]
     
     Financial Reporting Amendment Act 1997 (1997 No 17): [section 6(2)][74]
     
-    [State-Owned Enterprises Amendment Act 1996][261] (1996 No 82)
+    [State-Owned Enterprises Amendment Act 1996][260] (1996 No 82)
     
     Survey Amendment Act 1996 (1996 No 55): section 5
     
-    State-Owned Enterprises Order 1996 (SR 1996/165): [clause 2][162]
+    State-Owned Enterprises Order 1996 (SR 1996/165): [clause 2][161]
     
-    State-Owned Enterprises (Crown Forestry Management Limited) Order 1996 (SR 1996/122): [clause 2][171]
+    State-Owned Enterprises (Crown Forestry Management Limited) Order 1996 (SR 1996/122): [clause 2][170]
     
-    Radio New Zealand Act (No 2) 1995 (1995 No 53): [section 2][157]
+    Radio New Zealand Act (No 2) 1995 (1995 No 53): [section 2][156]
     
-    Radio New Zealand Act 1995 (1995 No 52): [section 20][158]
+    Radio New Zealand Act 1995 (1995 No 52): [section 20][157]
     
     Income Tax Act 1994 (1994 No 164): section YB 1
     
@@ -2412,15 +2408,15 @@ Miscellaneous
     
     Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][68]
     
-    Public Finance Amendment Act 1992 (1992 No 142): [section 42][172]
+    Public Finance Amendment Act 1992 (1992 No 142): [section 42][171]
     
-    Electricity Act 1992 (1992 No 122): [section 173(2)][186]
+    Electricity Act 1992 (1992 No 122): [section 173(2)][185]
     
-    State-Owned Enterprises Order 1992 (SR 1992/181): [clause 2][153]
+    State-Owned Enterprises Order 1992 (SR 1992/181): [clause 2][152]
     
-    [State-Owned Enterprises Amendment Act 1992][257] (1992 No 27)
+    [State-Owned Enterprises Amendment Act 1992][256] (1992 No 27)
     
-    Finance Act 1991 (1991 No 93): [sections 4(1), (3)][141], [8][144], [10(1), (3)][146], [17(1), (3)][154],[23(1), (3)][163]
+    Finance Act 1991 (1991 No 93): [sections 4(1), (3)][141], [8][144], [10(1), (3)][146], [17(1), (3)][153],[23(1), (3)][162]
     
     Crown Minerals Act 1991 (1991 No 70): [section 121][96]
     
@@ -2428,39 +2424,39 @@ Miscellaneous
     
     Electricity Amendment Act 1990 (1990 No 95): section 4(2)
     
-    [State-Owned Enterprises Amendment Act (No 3) 1990][247] (1990 No 83)
+    [State-Owned Enterprises Amendment Act (No 3) 1990][246] (1990 No 83)
     
-    [State-Owned Enterprises Amendment Act (No 2) 1990][246] (1990 No 49)
+    [State-Owned Enterprises Amendment Act (No 2) 1990][245] (1990 No 49)
     
     Conservation Law Reform Act 1990 (1990 No 31): [section 37][95]
     
     State-Owned Enterprises Amendment Act 1990 (1990 No 23)
     
-    Finance Act 1990 (1990 No 20): [section 4(1), (3)][160]
+    Finance Act 1990 (1990 No 20): [section 4(1), (3)][159]
     
     Survey Amendment Act (No 3) 1989 (1989 No 139): section 8(b)
     
-    Tourist Hotel Corporation of New Zealand Act 1989 (1989 No 130): [sections 18][164], [19(1)][165]
+    Tourist Hotel Corporation of New Zealand Act 1989 (1989 No 130): [sections 18][163], [19(1)][164]
     
     State-Owned Enterprises Amendment Act (No 2) 1989 (1989 No 57)
     
     State-Owned Enterprises Amendment Act 1989 (1989 No 45)
     
-    Post Office Bank Amendment Act 1988 (1988 No 173): [section 2(1)][156]
+    Post Office Bank Amendment Act 1988 (1988 No 173): [section 2(1)][155]
     
     State-Owned Enterprises Amendment Act (No 5) 1988 (1988 No 169)
     
-    Shipping Corporation of New Zealand Act Repeal Act 1988 (1988 No 154): [section 4][159]
+    Shipping Corporation of New Zealand Act Repeal Act 1988 (1988 No 154): [section 4][158]
     
     Finance Act (No 2) 1988 (1988 No 128): [sections 13(1)][145], [20(1)][140]
     
-    Treaty of Waitangi (State Enterprises) Act 1988 (1988 No 105): [sections 10(1)][101], [11][173]
+    Treaty of Waitangi (State Enterprises) Act 1988 (1988 No 105): [sections 10(1)][101], [11][172]
     
     Finance Act 1987 (1987 No 200): [section 12][135]
     
     State-Owned Enterprises Amendment Act 1987 (1987 No 117)
     
-    Post Office Bank Act 1987 (1987 No 114): [section 7(2)][231]
+    Post Office Bank Act 1987 (1987 No 114): [section 7(2)][230]
 
 
 
@@ -2607,7 +2603,7 @@ Miscellaneous
 [140]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM136174
 [141]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM248288
 [142]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM332897
-[143]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM5651234
+[143]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM4326320
 [144]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM248299
 [145]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM136161
 [146]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM248703
@@ -2616,125 +2612,125 @@ Miscellaneous
 [149]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM426136
 [150]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM21619
 [151]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM261085
-[152]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM4326320
-[153]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM165476
-[154]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM248717
-[155]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM210985
-[156]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM139228
-[157]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM368674
-[158]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM368655
-[159]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM136763
-[160]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM203567
-[161]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM184021
-[162]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM214439
-[163]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM248733
-[164]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM194279
-[165]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM194282
-[166]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM242248
-[167]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM30524
-[168]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM282634
-[169]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM394114
-[170]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM4326321
-[171]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM211616
-[172]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM289849
-[173]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM132598
-[174]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM45793
-[175]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM45797
-[176]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM46009
-[177]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM174088
-[178]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM392629
-[179]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM76615
-[180]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM242775
-[181]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM442946
-[182]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM323845
-[183]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM437937
-[184]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM341189
-[185]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM90414
-[186]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM284137
-[187]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM348211
-[188]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM348236
-[189]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM348242
-[190]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM348248
-[191]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM251170
-[192]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM251453
-[193]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM251464
-[194]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM251714
-[195]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM251729
-[196]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM251741
-[197]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM251744
-[198]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM251760
-[199]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM251778
-[200]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM251787
-[201]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM251789
-[202]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM251791
-[203]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252108
-[204]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252120
-[205]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252121
-[206]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252126
-[207]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252136
-[208]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252149
-[209]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252151
-[210]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252193
-[211]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252435
-[212]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252438
-[213]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252460
-[214]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252462
-[215]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252466
-[216]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252473
-[217]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252480
-[218]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252488
-[219]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252491
-[220]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252494
-[221]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252738
-[222]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252762
-[223]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252772
-[224]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252774
-[225]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM253201
-[226]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM253203
-[227]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM253205
-[228]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM253212
-[229]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM253217
-[230]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM253242
-[231]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM118785
-[232]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM132560
-[233]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM136124
-[234]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM127395
-[235]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM130516
-[236]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM139450
-[237]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM248168
-[238]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM24854
-[239]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM171051
-[240]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM239992
-[241]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM211617
-[242]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM139222
-[243]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM129343
-[244]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM203558
-[245]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM138177
-[246]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM210979
-[247]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM214643
-[248]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM248273
-[249]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM150359
-[250]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM151115
-[251]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM151918
-[252]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM153898
-[253]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM218987
-[254]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM224436
-[255]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM3650800
-[256]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM277147
-[257]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM261058
-[258]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM2897706
-[259]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM197220
-[260]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM197228
-[261]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM394107
-[262]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM223372
-[263]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM30514
-[264]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM291438
-[265]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM295927
-[266]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM141994
-[267]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM2998516
-[268]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM2998515
-[269]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM2998532
-[270]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[152]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM165476
+[153]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM248717
+[154]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM210985
+[155]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM139228
+[156]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM368674
+[157]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM368655
+[158]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM136763
+[159]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM203567
+[160]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM184021
+[161]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM214439
+[162]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM248733
+[163]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM194279
+[164]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM194282
+[165]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM242248
+[166]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM30524
+[167]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM282634
+[168]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM394114
+[169]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM4326321
+[170]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM211616
+[171]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM289849
+[172]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM132598
+[173]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM45793
+[174]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM45797
+[175]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM46009
+[176]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM174088
+[177]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM392629
+[178]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM76615
+[179]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM242775
+[180]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM442946
+[181]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM323845
+[182]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM437937
+[183]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM341189
+[184]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM90414
+[185]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM284137
+[186]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM348211
+[187]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM348236
+[188]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM348242
+[189]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM348248
+[190]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM251170
+[191]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM251453
+[192]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM251464
+[193]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM251714
+[194]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM251729
+[195]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM251741
+[196]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM251744
+[197]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM251760
+[198]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM251778
+[199]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM251787
+[200]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM251789
+[201]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM251791
+[202]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252108
+[203]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252120
+[204]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252121
+[205]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252126
+[206]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252136
+[207]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252149
+[208]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252151
+[209]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252193
+[210]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252435
+[211]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252438
+[212]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252460
+[213]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252462
+[214]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252466
+[215]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252473
+[216]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252480
+[217]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252488
+[218]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252491
+[219]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252494
+[220]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252738
+[221]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252762
+[222]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252772
+[223]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM252774
+[224]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM253201
+[225]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM253203
+[226]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM253205
+[227]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM253212
+[228]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM253217
+[229]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM253242
+[230]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM118785
+[231]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM132560
+[232]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM136124
+[233]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM127395
+[234]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM130516
+[235]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM139450
+[236]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM248168
+[237]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM24854
+[238]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM171051
+[239]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM239992
+[240]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM211617
+[241]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM139222
+[242]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM129343
+[243]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM203558
+[244]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM138177
+[245]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM210979
+[246]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM214643
+[247]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM248273
+[248]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM150359
+[249]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM151115
+[250]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM151918
+[251]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM153898
+[252]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM218987
+[253]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM224436
+[254]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM3650800
+[255]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM277147
+[256]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM261058
+[257]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM2897706
+[258]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM197220
+[259]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM197228
+[260]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM394107
+[261]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM223372
+[262]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM30514
+[263]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM291438
+[264]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM295927
+[265]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM141994
+[266]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM2998516
+[267]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM2998515
+[268]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM2998532
+[269]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[270]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM5651234
 [271]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM4326306
 [272]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM333202
 [273]: http://www.legislation.govt.nz/act/public/1986/0124/latest/link.aspx?id=DLM431904
