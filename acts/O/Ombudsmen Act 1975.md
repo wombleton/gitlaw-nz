@@ -1,5 +1,5 @@
 Reprint  
-as at 16 December 2013
+as at 7 March 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -1117,8 +1117,6 @@ Gambling Commission
 
 Game Animal Council
 
-Genesis Energy Limited
-
 Government Superannuation Appeals Board
 
 Government Superannuation Fund Authority and any subsidiary of that authority
@@ -1402,22 +1400,22 @@ WorkSafe New Zealand
 *   Schedule 1 Part 2 Gambling Commission: inserted, on 1 July 2004, by [section 374][199] of the Gambling Act 2003 (2003 No 51).
 *   Schedule 1 Part 2 Game Animal Council: inserted, on 28 November 2013, by [section 41(2)][225] of the Game Animal Council Act 2013 (2013 No 98).
 *   Schedule 1 Part 2 GCS Limited: repealed, on 29 December 1994, by [section 6(1)][226] of the Finance Act 1994 (1994 No 73).
-*   Schedule 1 Part 2 Genesis Energy Limited: inserted, on 21 November 2013, by [clause 4][227] of the State-Owned Enterprises (Genesis Energy Limited) Order 2013 (SR 2013/435).
-*   Schedule 1 Part 2 Genesis Power Limited: repealed, on 21 November 2013, by [clause 4][227] of the State-Owned Enterprises (Genesis Energy Limited) Order 2013 (SR 2013/435).
+*   Schedule 1 Part 2 Genesis Energy Limited: repealed, on 7 March 2014, by [section 6(2)][227] of the State-Owned Enterprises Amendment Act 2012 (2012 No 44).
+*   Schedule 1 Part 2 Genesis Power Limited: repealed, on 21 November 2013, by [clause 4][228] of the State-Owned Enterprises (Genesis Energy Limited) Order 2013 (SR 2013/435).
 *   Schedule 1 Part 2 Government Life Insurance Corporation: repealed, on 20 August 1990, by [section 31(3)][136] of the Tower Corporation Act 1990 (1990 No 2 (P)).
-*   Schedule 1 Part 2 Government Property Services Limited: repealed, on 1 January 2003, by [section 16][228] of the Finance Act (No 2) 1988 (1988 No 128).
-*   Schedule 1 Part 2 Government Stores Board: repealed, on 1 January 1989, by [section 19(2)][229] of the Finance Act (No 2) 1988 (1988 No 128).
-*   Schedule 1 Part 2 Government Superannuation Appeals Board: inserted, on 1 October 1995, by [section 31][230] of the Government Superannuation Fund Amendment Act 1995 (1995 No 28).
-*   Schedule 1 Part 2 Government Superannuation Board: repealed, on 1 October 1995, by [section 31][230] of the Government Superannuation Fund Amendment Act 1995 (1995 No 28).
-*   Schedule 1 Part 2 Government Superannuation Fund Authority and any subsidiary of that authority: inserted, on 2 October 2001, by [section 36][231] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
-*   Schedule 1 Part 2 Government Supply Brokerage Corporation (NZ) Limited: repealed, on 17 March 1992, by [section 11(1)][232] of the Finance Act 1991 (1991 No 93).
-*   Schedule 1 Part 2 Guardians of New Zealand Superannuation and any subsidiary of the Guardians of New Zealand Superannuation: inserted, on 12 October 2001, by [section 74][233] of the New Zealand Superannuation and Retirement Income Act 2001 (2001 No 84).
-*   Schedule 1 Part 2 Hazards Control Commission: repealed, on 2 July 2001, by [section 149][234] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
+*   Schedule 1 Part 2 Government Property Services Limited: repealed, on 1 January 2003, by [section 16][229] of the Finance Act (No 2) 1988 (1988 No 128).
+*   Schedule 1 Part 2 Government Stores Board: repealed, on 1 January 1989, by [section 19(2)][230] of the Finance Act (No 2) 1988 (1988 No 128).
+*   Schedule 1 Part 2 Government Superannuation Appeals Board: inserted, on 1 October 1995, by [section 31][231] of the Government Superannuation Fund Amendment Act 1995 (1995 No 28).
+*   Schedule 1 Part 2 Government Superannuation Board: repealed, on 1 October 1995, by [section 31][231] of the Government Superannuation Fund Amendment Act 1995 (1995 No 28).
+*   Schedule 1 Part 2 Government Superannuation Fund Authority and any subsidiary of that authority: inserted, on 2 October 2001, by [section 36][232] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
+*   Schedule 1 Part 2 Government Supply Brokerage Corporation (NZ) Limited: repealed, on 17 March 1992, by [section 11(1)][233] of the Finance Act 1991 (1991 No 93).
+*   Schedule 1 Part 2 Guardians of New Zealand Superannuation and any subsidiary of the Guardians of New Zealand Superannuation: inserted, on 12 October 2001, by [section 74][234] of the New Zealand Superannuation and Retirement Income Act 2001 (2001 No 84).
+*   Schedule 1 Part 2 Hazards Control Commission: repealed, on 2 July 2001, by [section 149][235] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
 *   Schedule 1 Part 2 Health and Disability Commissioner: inserted, on 21 October 1994, by [section 76(3)][94] of the Health and Disability Commissioner Act 1994 (1994 No 88).
 *   Schedule 1 Part 2 Health Benefits Limited: repealed, on 18 July 2013, by [section 57][205] of the Public Finance Amendment Act 2013 (2013 No 50).
 *   Schedule 1 Part 2 Health Funding Authority: repealed, on 1 January 2001, by [section 111(1)][212] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
 *   Schedule 1 Part 2 Health Promotion Agency: inserted, on 1 July 2012, by [section 26][178] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
-*   Schedule 1 Part 2 Health Quality and Safety Commission: inserted, on 9 November 2010, by [section 30(2)][235] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
+*   Schedule 1 Part 2 Health Quality and Safety Commission: inserted, on 9 November 2010, by [section 30(2)][236] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
 *   Schedule 1 Part 2 Health Research Council of New Zealand: inserted, on 25 January 2005, by [section 131(1)][190] of the Crown Entities Act 2004 (2004 No 115).
 *   Schedule 1 Part 2 Health Service Personnel Commission: repealed, on 1 January 2003, by [clause 4(1)][182] of the Ombudsmen (Schedule 1) Order 2002 (SR 2002/385).
 *   Schedule 1 Part 2 Health Sponsorship Council: repealed, on 1 July 2012, by [section 26][178] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
@@ -1425,39 +1423,39 @@ WorkSafe New Zealand
 *   Schedule 1 Part 2 Hillary Commission for Sport, Fitness, and Leisure: repealed, on 1 January 2003, by section 62 of the Sport and Recreation New Zealand Act 2002 (2002 No 38).
 *   Schedule 1 Part 2 Hospital and health services: repealed, on 1 January 2001, by [section 111(1)][212] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
 *   Schedule 1 Part 2 Housing New Zealand Corporation: inserted, on 1 July 2001, by [section 24(1)][139] of the Housing Corporation Amendment Act 2001 (2001 No 37).
-*   Schedule 1 Part 2 Housing New Zealand Limited: inserted, on 4 June 1999, by [section 41][236] of the Housing Restructuring and Tenancy Matters Act 1992 (1992 No 76).
-*   Schedule 1 Part 2 Human Rights Commission: inserted, on 1 February 1994, by [section 145][237] of the Human Rights Act 1993 (1993 No 82).
-*   Schedule 1 Part 2 Hydro Energy Limited: repealed, on 16 April 1999, by [clause 3][238] of the State-Owned Enterprises (Meridian Energy Limited) Order 1999 (SR 1999/101).
-*   Schedule 1 Part 2 Industry New Zealand: repealed, on 1 July 2003, by [section 84][239] of the New Zealand Trade and Enterprise Act 2003 (2003 No 27).
+*   Schedule 1 Part 2 Housing New Zealand Limited: inserted, on 4 June 1999, by [section 41][237] of the Housing Restructuring and Tenancy Matters Act 1992 (1992 No 76).
+*   Schedule 1 Part 2 Human Rights Commission: inserted, on 1 February 1994, by [section 145][238] of the Human Rights Act 1993 (1993 No 82).
+*   Schedule 1 Part 2 Hydro Energy Limited: repealed, on 16 April 1999, by [clause 3][239] of the State-Owned Enterprises (Meridian Energy Limited) Order 1999 (SR 1999/101).
+*   Schedule 1 Part 2 Industry New Zealand: repealed, on 1 July 2003, by [section 84][240] of the New Zealand Trade and Enterprise Act 2003 (2003 No 27).
 *   Schedule 1 Part 2 Institutions established under Part 14 of the Education Act 1989: inserted, on 1 January 1991, by [section 50(4)][183] of the Education Amendment Act 1990 (1990 No 60).
-*   Schedule 1 Part 2 KiwiRail Holdings Limited: inserted, on 31 December 2012, by [clause 4][240] of the State-Owned Enterprises (KiwiRail Holdings Limited) Order 2012 (SR 2012/346).
-*   Schedule 1 Part 2 Kordia Group Limited: inserted, on 22 March 2007, by [clause 4(2)(b)][241] of the State-Owned Enterprises (Kordia Group Limited) Order 2007 (SR 2007/17).
-*   Schedule 1 Part 2 Land Corporation Limited: repealed, on 12 April 2001, by [clause 4][242] of the State-Owned Enterprises (Landcorp Farming Limited) Order 2001 (SR 2001/23).
+*   Schedule 1 Part 2 KiwiRail Holdings Limited: inserted, on 31 December 2012, by [clause 4][241] of the State-Owned Enterprises (KiwiRail Holdings Limited) Order 2012 (SR 2012/346).
+*   Schedule 1 Part 2 Kordia Group Limited: inserted, on 22 March 2007, by [clause 4(2)(b)][242] of the State-Owned Enterprises (Kordia Group Limited) Order 2007 (SR 2007/17).
+*   Schedule 1 Part 2 Land Corporation Limited: repealed, on 12 April 2001, by [clause 4][243] of the State-Owned Enterprises (Landcorp Farming Limited) Order 2001 (SR 2001/23).
 *   Schedule 1 Part 2 Land Settlement Board: repealed, on 1 February 1990, by section 6 of the Survey Amendment Act (No 3) 1989 (1989 No 139).
-*   Schedule 1 Part 2 Land Transport New Zealand: repealed, on 1 August 2008, by [section 50(1)][243] of the Land Transport Management Amendment Act 2008 (2008 No 47).
-*   Schedule 1 Part 2 Land Transport Safety Authority of New Zealand: repealed, on 1 December 2004, by [section 19(1)][244] of the Land Transport Management Amendment Act 2004 (2004 No 97).
-*   Schedule 1 Part 2 Landcorp Farming Limited: inserted, on 12 April 2001, by [clause 4][242] of the State-Owned Enterprises (Landcorp Farming Limited) Order 2001 (SR 2001/23).
+*   Schedule 1 Part 2 Land Transport New Zealand: repealed, on 1 August 2008, by [section 50(1)][244] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+*   Schedule 1 Part 2 Land Transport Safety Authority of New Zealand: repealed, on 1 December 2004, by [section 19(1)][245] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+*   Schedule 1 Part 2 Landcorp Farming Limited: inserted, on 12 April 2001, by [clause 4][243] of the State-Owned Enterprises (Landcorp Farming Limited) Order 2001 (SR 2001/23).
 *   Schedule 1 Part 2 Law Commission: inserted, on 25 January 2005, by [section 131(1)][190] of the Crown Entities Act 2004 (2004 No 115).
-*   Schedule 1 Part 2 Learning Media Limited: inserted, on 25 June 1993, by [section 28][245] of the Education Amendment Act 1993 (1993 No 51).
+*   Schedule 1 Part 2 Learning Media Limited: inserted, on 25 June 1993, by [section 28][246] of the Education Amendment Act 1993 (1993 No 51).
 *   Schedule 1 Part 2 Learning State Limited: repealed, on 18 July 2013, by [section 57][205] of the Public Finance Amendment Act 2013 (2013 No 50).
 *   Schedule 1 Part 2 Legal Services Agency: repealed, on 1 July 2011, by section 144 of the Legal Services Act 2011 (2011 No 4).
 *   Schedule 1 Part 2 Legal Services Board: repealed, on 1 February 2001, by [section 128][214] of the Legal Services Act 2000 (2000 No 42).
-*   Schedule 1 Part 2 Management agencies under the Biosecurity Act 1993: inserted, on 18 September 2012, by [section 89][246] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+*   Schedule 1 Part 2 Management agencies under the Biosecurity Act 1993: inserted, on 18 September 2012, by [section 89][247] of the Biosecurity Law Reform Act 2012 (2012 No 73).
 *   Schedule 1 Part 2 Management Council and Special Councils under the National Art Gallery, Museum, and War Memorial Act 1972: repealed, on 1 January 2003, by [clause 4(1)][182] of the Ombudsmen (Schedule 1) Order 2002 (SR 2002/385).
 *   Schedule 1 Part 2 Maori Education Foundation: repealed, on 1 January 2003, by [clause 4(1)][182] of the Ombudsmen (Schedule 1) Order 2002 (SR 2002/385).
-*   Schedule 1 Part 2 Maori Heritage Council: inserted, on 1 July 1993, by [section 118(2)][247] of the Historic Places Act 1993 (1993 No 38).
+*   Schedule 1 Part 2 Maori Heritage Council: inserted, on 1 July 1993, by [section 118(2)][248] of the Historic Places Act 1993 (1993 No 38).
 *   Schedule 1 Part 2 Māori Television Service and every subsidiary of the Māori Television Service (if any): inserted, on 8 May 2003, by section 57 of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Act 2003 (2003 No 21).
 *   Schedule 1 Part 2 Maori Trustee: repealed, on 1 July 2009, by [section 30(1)][141] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 *   Schedule 1 Part 2 Māori Trustee: inserted, on 1 July 2009, by [section 30(1)][141] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 *   Schedule 1 Part 2 Marginal Lands Board: repealed, on 1 April 1987, by [section 24(3)(d)][102] of the Official Information Amendment Act 1987 (1987 No 8).
-*   Schedule 1 Part 2 Maritime New Zealand: inserted, on 1 July 2005, by [section 11(3)][248] of the Maritime Transport Amendment Act 2004 (2004 No 98).
-*   Schedule 1 Part 2 Maritime Safety Authority of New Zealand: repealed, on 1 July 2005, by [section 11(3)][248] of the Maritime Transport Amendment Act 2004 (2004 No 98).
-*   Schedule 1 Part 2 Medicines Classification Committee: inserted, on 1 August 1984, by [section 113(a)][249] of the Medicines Act 1981 (1981 No 118).
-*   Schedule 1 Part 2 Medicines Review Committee: inserted, on 1 August 1984, by [section 113(a)][249] of the Medicines Act 1981 (1981 No 118).
-*   Schedule 1 Part 2 Mental Health Commission: repealed, on 1 July 2012, by [section 7(2)][250] of the Mental Health Commission Amendment Act 2012 (2012 No 42).
-*   Schedule 1 Part 2 Meridian Energy Limited: repealed, on 30 August 2013, by [section 6(3)][251] of the State-Owned Enterprises Amendment Act 2012 (2012 No 44).
+*   Schedule 1 Part 2 Maritime New Zealand: inserted, on 1 July 2005, by [section 11(3)][249] of the Maritime Transport Amendment Act 2004 (2004 No 98).
+*   Schedule 1 Part 2 Maritime Safety Authority of New Zealand: repealed, on 1 July 2005, by [section 11(3)][249] of the Maritime Transport Amendment Act 2004 (2004 No 98).
+*   Schedule 1 Part 2 Medicines Classification Committee: inserted, on 1 August 1984, by [section 113(a)][250] of the Medicines Act 1981 (1981 No 118).
+*   Schedule 1 Part 2 Medicines Review Committee: inserted, on 1 August 1984, by [section 113(a)][250] of the Medicines Act 1981 (1981 No 118).
+*   Schedule 1 Part 2 Mental Health Commission: repealed, on 1 July 2012, by [section 7(2)][251] of the Mental Health Commission Amendment Act 2012 (2012 No 42).
+*   Schedule 1 Part 2 Meridian Energy Limited: repealed, on 30 August 2013, by [section 6(3)][227] of the State-Owned Enterprises Amendment Act 2012 (2012 No 44).
 *   Schedule 1 Part 2 Meteorological Service of New Zealand Limited: inserted, on 30 June 1992, by [clause 3][252] of the State-Owned Enterprises Order 1992 (SR 1992/181).
-*   Schedule 1 Part 2 Mighty River Power Limited: repealed, on 8 March 2013, by [section 6(4)][251] of the State-Owned Enterprises Amendment Act 2012 (2012 No 44).
+*   Schedule 1 Part 2 Mighty River Power Limited: repealed, on 8 March 2013, by [section 6(4)][227] of the State-Owned Enterprises Amendment Act 2012 (2012 No 44).
 *   Schedule 1 Part 2 Mortality review committees: inserted, on 1 January 2001, by [section 111(1)][212] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
 *   Schedule 1 Part 2 Museum of New Zealand Te Papa Tongarewa Board: inserted, on 1 July 1992, by [section 36][187] of the Museum of New Zealand Te Papa Tongarewa Act 1992 (1992 No 19).
 *   Schedule 1 Part 2 National Animal Ethics Advisory Committee: inserted, on 1 January 2000, by [section 195][253] of the Animal Welfare Act 1999 (1999 No 142).
@@ -1509,10 +1507,10 @@ WorkSafe New Zealand
 *   Schedule 1 Part 2 New Zealand Symphony Orchestra Limited: repealed, on 6 April 2004, by [section 36][273] of the New Zealand Symphony Orchestra Act 2004 (2004 No 20).
 *   Schedule 1 Part 2 New Zealand Teachers Council: inserted, on 1 February 2002, by [section 83][274] of the Education Standards Act 2001 (2001 No 88).
 *   Schedule 1 Part 2 New Zealand Tourism Board: inserted, on 1 November 1991, by [section 18(2)][163] of the New Zealand Tourism Board Act 1991 (1991 No 110).
-*   Schedule 1 Part 2 New Zealand Trade and Enterprise and any subsidiary of New Zealand Trade and Enterprise: inserted, on 1 July 2003, by [section 84][239] of the New Zealand Trade and Enterprise Act 2003 (2003 No 27).
-*   Schedule 1 Part 2 New Zealand Trade Development Board: repealed, on 1 July 2003, by [section 84][239] of the New Zealand Trade and Enterprise Act 2003 (2003 No 27).
+*   Schedule 1 Part 2 New Zealand Trade and Enterprise and any subsidiary of New Zealand Trade and Enterprise: inserted, on 1 July 2003, by [section 84][240] of the New Zealand Trade and Enterprise Act 2003 (2003 No 27).
+*   Schedule 1 Part 2 New Zealand Trade Development Board: repealed, on 1 July 2003, by [section 84][240] of the New Zealand Trade and Enterprise Act 2003 (2003 No 27).
 *   Schedule 1 Part 2 New Zealand Trades Certification Board: repealed, on 1 January 2003, by [clause 4(1)][182] of the Ombudsmen (Schedule 1) Order 2002 (SR 2002/385).
-*   Schedule 1 Part 2 New Zealand Transport Agency: inserted, on 1 August 2008, by [section 50(1)][243] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+*   Schedule 1 Part 2 New Zealand Transport Agency: inserted, on 1 August 2008, by [section 50(1)][244] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 *   Schedule 1 Part 2 New Zealand Venture Investment Fund: inserted, on 1 January 2003, by [clause 4(4)][182] of the Ombudsmen (Schedule 1) Order 2002 (SR 2002/385).
 *   Schedule 1 Part 2 New Zealand Venture Investment Fund: amended, on 25 January 2005, by section 131(1) of the Crown Entities Act 2004 (2004 No 115).
 *   Schedule 1 Part 2 New Zealand Walking Access Commission: inserted, on 30 September 2008, by [section 82][275] of the Walking Access Act 2008 (2008 No 101).
@@ -1523,10 +1521,10 @@ WorkSafe New Zealand
 *   Schedule 1 Part 2 Passenger Complaints Board: repealed, on 10 April 1992, by section 2(3) of the Transport Services Licensing Amendment Act 1992 (1992 No 28).
 *   Schedule 1 Part 2 Patriotic and Canteen Funds Board: repealed, on 17 May 2005, by [section 21][278] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
 *   Schedule 1 Part 2 Pest Destruction Council: repealed, on 1 July 1983, by section 7(2) of the Ombudsmen Amendment Act (No 2) 1982 (1982 No 164).
-*   Schedule 1 Part 2 Pesticides Board: repealed, on 2 July 2001, by [section 149][234] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
+*   Schedule 1 Part 2 Pesticides Board: repealed, on 2 July 2001, by [section 149][235] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
 *   Schedule 1 Part 2 Pharmaceutical Management Agency: inserted, on 1 January 2001, by [section 111(1)][212] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
 *   Schedule 1 Part 2 Plumbers, Gasfitters, and Drainlayers Board: inserted, on 1 April 2010, by [section 185][279] of the Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74).
-*   Schedule 1 Part 2 Poisons Committee: repealed, on 1 August 1984, by [section 113(b)][249] of the Medicines Act 1981 (1981 No 118).
+*   Schedule 1 Part 2 Poisons Committee: repealed, on 1 August 1984, by [section 113(b)][250] of the Medicines Act 1981 (1981 No 118).
 *   Schedule 1 Part 2 Post Office Bank Limited: repealed, on 17 March 1989, by section 4 of the Post Office Bank Amendment Act 1988 (1988 No 173).
 *   Schedule 1 Part 2 Power Company Limited: repealed, on 20 March 1998, by [section 32][280] of the Southland Electricity Act 1993 (1993 No 147).
 *   Schedule 1 Part 2 Privacy Commissioner: inserted, on 25 January 2005, by [section 131(1)][190] of the Crown Entities Act 2004 (2004 No 115).
@@ -1589,10 +1587,10 @@ WorkSafe New Zealand
 *   Schedule 1 Part 2 Timberlands West Coast Limited: inserted, on 13 December 1991, by [section 22][295] of the Finance Act 1991 (1991 No 93).
 *   Schedule 1 Part 2 Trade Union Education Authority: repealed, on 4 December 1992, by [section 12][296] of the Union Representatives Education Leave Act Repeal Act 1992 (1992 No 102).
 *   Schedule 1 Part 2 Trans Power New Zealand Limited: repealed, on 21 November 1997, by clause 3(1) of the State-Owned Enterprises (Transpower New Zealand Limited) Order 1997 (SR 1997/299).
-*   Schedule 1 Part 2 Transfund New Zealand: repealed, on 1 December 2004, by [section 19(1)][244] of the Land Transport Management Amendment Act 2004 (2004 No 97).
-*   Schedule 1 Part 2 Transit New Zealand: repealed, on 1 August 2008, by [section 50(1)][243] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+*   Schedule 1 Part 2 Transfund New Zealand: repealed, on 1 December 2004, by [section 19(1)][245] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+*   Schedule 1 Part 2 Transit New Zealand: repealed, on 1 August 2008, by [section 50(1)][244] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 *   Schedule 1 Part 2 Transitional New Zealand Fish and Game Council: inserted, on 10 April 1990, by [section 37][256] of the Conservation Law Reform Act 1990 (1990 No 31).
-*   Schedule 1 Part 2 Transmission Holdings Limited: repealed, on 22 March 2007, by [clause 4(2)(a)][241] of the State-Owned Enterprises (Kordia Group Limited) Order 2007 (SR 2007/17).
+*   Schedule 1 Part 2 Transmission Holdings Limited: repealed, on 22 March 2007, by [clause 4(2)(a)][242] of the State-Owned Enterprises (Kordia Group Limited) Order 2007 (SR 2007/17).
 *   Schedule 1 Part 2 Transport Accident Investigation Commission: inserted, on 1 September 1990, by [section 16][297] of the Transport Accident Investigation Commission Act 1990 (1990 No 99).
 *   Schedule 1 Part 2 Transpower New Zealand Limited: inserted, on 21 November 1997, by clause 3(1) of the State-Owned Enterprises (Transpower New Zealand Limited) Order 1997 (SR 1997/299).
 *   Schedule 1 Part 2 Urban Public Passenger Transport Council: repealed, on 1 April 1981, by section 52(7) of the Urban Transport Act 1980 (1980 No 156).
@@ -1860,7 +1858,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][327] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][328] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][327] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][328] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
@@ -1876,8 +1874,6 @@ _Amendment(s) incorporated in the Act(s)._
     
     Game Animal Council Act 2013 (2013 No 98): [section 41(2)][225]
     
-    State-Owned Enterprises (Genesis Energy Limited) Order 2013 (SR 2013/435): [clause 4][227]
-    
     [Ombudsmen Act (Schedule 1---Crown Irrigation Investments Limited) Order 2013][331] (SR 2013/291)
     
     Psychoactive Substances Act 2013 (2013 No 53): [section 110(1)][282]
@@ -1890,19 +1886,19 @@ _Amendment(s) incorporated in the Act(s)._
     
     Callaghan Innovation Act 2012 (2012 No 94): [section 21][194]
     
-    State-Owned Enterprises (KiwiRail Holdings Limited) Order 2012 (SR 2012/346): [clause 4][240]
+    State-Owned Enterprises (KiwiRail Holdings Limited) Order 2012 (SR 2012/346): [clause 4][241]
     
     [Ombudsmen Act (Schedule 1---The Network for Learning Limited) Order 2012][332] (SR 2012/223)
     
-    Biosecurity Law Reform Act 2012 (2012 No 73): [section 89][246]
+    Biosecurity Law Reform Act 2012 (2012 No 73): [section 89][247]
     
     [Ombudsmen Act (Schedule 1---Tāmaki Redevelopment Company Limited) Order 2012][333] (SR 2012/251)
     
-    State-Owned Enterprises Amendment Act 2012 (2012 No 44): [section 6(3), (4)][251]
+    State-Owned Enterprises Amendment Act 2012 (2012 No 44): [section 6(2), (3), (4)][227]
     
     Charities Amendment Act (No 2) 2012 (2012 No 43): [section 16(2)][186]
     
-    Mental Health Commission Amendment Act 2012 (2012 No 42): [section 7(2)][250]
+    Mental Health Commission Amendment Act 2012 (2012 No 42): [section 7(2)][251]
     
     New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41): [sections 26][178], [34][209]
     
@@ -1936,7 +1932,7 @@ _Amendment(s) incorporated in the Act(s)._
     
     Research, Science, and Technology Act 2010 (2010 No 131): [section 18][156]
     
-    New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118): [section 30(2)][235]
+    New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118): [section 30(2)][236]
     
     Electricity Industry Act 2010 (2010 No 116): [section 166][219]
     
@@ -1954,7 +1950,7 @@ _Amendment(s) incorporated in the Act(s)._
     
     Policing Act 2008 (2008 No 72): [section 116(a)(ii)][79]
     
-    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][243]
+    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][244]
     
     New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30): [section 38][267]
     
@@ -1970,7 +1966,7 @@ _Amendment(s) incorporated in the Act(s)._
     
     [Ombudsmen Act (Schedule 1) Order 2007][341] (SR 2007/164)
     
-    State-Owned Enterprises (Kordia Group Limited) Order 2007 (SR 2007/17): [clause 4][241]
+    State-Owned Enterprises (Kordia Group Limited) Order 2007 (SR 2007/17): [clause 4][242]
     
     Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74): [section 185][279]
     
@@ -1996,9 +1992,9 @@ _Amendment(s) incorporated in the Act(s)._
     
     Crown Entities Act 2004 (2004 No 115): [section 131][190]
     
-    Maritime Transport Amendment Act 2004 (2004 No 98): [section 11(3)][248]
+    Maritime Transport Amendment Act 2004 (2004 No 98): [section 11(3)][249]
     
-    Land Transport Management Amendment Act 2004 (2004 No 97): [section 19(1)][244]
+    Land Transport Management Amendment Act 2004 (2004 No 97): [section 19(1)][245]
     
     Electricity Amendment Act 2004 (2004 No 80): [section 24(1)][346]
     
@@ -2026,7 +2022,7 @@ _Amendment(s) incorporated in the Act(s)._
     
     State Sector Amendment Act 2003 (2003 No 41): [section 12(1), (2)][124]
     
-    New Zealand Trade and Enterprises Act 2003 (2003 No 27): [section 84][239]
+    New Zealand Trade and Enterprises Act 2003 (2003 No 27): [section 84][240]
     
     Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Act 2003 (2003 No 21): [section 57][349]
     
@@ -2052,15 +2048,15 @@ _Amendment(s) incorporated in the Act(s)._
     
     Education Standards Act 2001 (2001 No 88): [sections 83][274], [94(b)][290]
     
-    New Zealand Superannuation and Retirement Income Act 2001 (2001 No 84): [section 74][233]
+    New Zealand Superannuation and Retirement Income Act 2001 (2001 No 84): [section 74][234]
     
-    Government Superannuation Fund Amendment Act 2001 (2001 No 47): [section 36][231]
+    Government Superannuation Fund Amendment Act 2001 (2001 No 47): [section 36][232]
     
     Housing Corporation Amendment Act 2001 (2001 No 37): [section 24(1)][139]
     
     Public Audit Act 2001 (2001 No 10): [section 53][118]
     
-    State-Owned Enterprises (Landcorp Farming Limited) Order 2001 (SR 2001/23): [clause 4][242]
+    State-Owned Enterprises (Landcorp Farming Limited) Order 2001 (SR 2001/23): [clause 4][243]
     
     New Zealand Public Health and Disability Act 2000 (2000 No 91): [section 111(1)][212]
     
@@ -2088,7 +2084,7 @@ _Amendment(s) incorporated in the Act(s)._
     
     State-Owned Enterprises (Mighty River Power Limited) Order 1999 (SR 1999/102): [clause 3][299]
     
-    State-Owned Enterprises (Meridian Energy Limited) Order 1999 (SR 1999/101): [clause 3][238]
+    State-Owned Enterprises (Meridian Energy Limited) Order 1999 (SR 1999/101): [clause 3][239]
     
     Accident Insurance Act 1998 (1998 No 114): section 415(1)
     
@@ -2122,7 +2118,7 @@ _Amendment(s) incorporated in the Act(s)._
     
     New Zealand Antarctic Institute Act 1996 (1996 No 38): [section 18][261]
     
-    Hazardous Substances and New Organisms Act 1996 (1996 No 30): [section 149][234]
+    Hazardous Substances and New Organisms Act 1996 (1996 No 30): [section 149][235]
     
     Customs and Excise Act 1996 (1996 No 27): [section 289(1)][123]
     
@@ -2142,7 +2138,7 @@ _Amendment(s) incorporated in the Act(s)._
     
     Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31): [section 5][145]
     
-    Government Superannuation Fund Amendment Act 1995 (1995 No 28): [section 31][230]
+    Government Superannuation Fund Amendment Act 1995 (1995 No 28): [section 31][231]
     
     Statistics Amendment Act 1994 (1994 No 159): [section 2(5)][133]
     
@@ -2168,17 +2164,17 @@ _Amendment(s) incorporated in the Act(s)._
     
     Earthquake Commission Act 1993 (1993 No 84): [section 38][218]
     
-    Human Rights Act 1993 (1993 No 82): [section 145][237]
+    Human Rights Act 1993 (1993 No 82): [section 145][238]
     
     Broadcasting Amendment Act 1993 (1993 No 69): [section 23][293]
     
-    Education Amendment Act 1993 (1993 No 51): [sections 21(4)][196], [28][245]
+    Education Amendment Act 1993 (1993 No 51): [sections 21(4)][196], [28][246]
     
     Foreign Affairs Amendment Act 1993 (1993 No 48): [section 6(1)][151]
     
     Wildlife Amendment Act 1993 (1993 No 39): section 6
     
-    Historic Places Act 1993 (1993 No 38): [section 118(2)][247]
+    Historic Places Act 1993 (1993 No 38): [section 118(2)][248]
     
     Ombudsmen Amendment Act 1993 (1993 No 34)
     
@@ -2192,7 +2188,7 @@ _Amendment(s) incorporated in the Act(s)._
     
     Selwyn Plantation Board Empowering Act 1992 (1992 No 4 (L)): [section 20(2), (5)][320]
     
-    Housing Restructuring and Tenancy Matters Act 1992 (1992 No 76): [section 41][236]
+    Housing Restructuring and Tenancy Matters Act 1992 (1992 No 76): [section 41][237]
     
     Civil Aviation Amendment Act 1992 (1992 No 75): [section 39][203]
     
@@ -2218,7 +2214,7 @@ _Amendment(s) incorporated in the Act(s)._
     
     New Zealand Tourism Board Act 1991 (1991 No 110): [section 18(2)][163]
     
-    Finance Act 1991 (1991 No 93): [sections 5][224], [9(1)][359], [11(1)][232], [18][258], [22][295]
+    Finance Act 1991 (1991 No 93): [sections 5][224], [9(1)][359], [11(1)][233], [18][258], [22][295]
     
     Local Government Amendment Act 1991 (1991 No 49): section 25(1), (2), (4)
     
@@ -2284,7 +2280,7 @@ _Amendment(s) incorporated in the Act(s)._
     
     Trade and Industry Act Repeal Act 1988 (1988 No 156): [section 4(1)][134]
     
-    Finance Act (No 2) 1988 (1988 No 128): [sections 16][228], [19(2)][229], [22][208]
+    Finance Act (No 2) 1988 (1988 No 128): [sections 16][229], [19(2)][230], [22][208]
     
     Ombudsmen Amendment Act 1988 (1988 No 77)
     
@@ -2338,7 +2334,7 @@ _Amendment(s) incorporated in the Act(s)._
     
     New Zealand Railways Corporation Act 1981 (1981 No 119): [section 120(3)][271]
     
-    Medicines Act 1981 (1981 No 118): [section 113][249]
+    Medicines Act 1981 (1981 No 118): [section 113][250]
     
     Urban Transport Act 1980 (1980 No 156): section 52(7)
     
@@ -2583,31 +2579,31 @@ _Amendment(s) incorporated in the Act(s)._
 [224]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM248290
 [225]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM4105502
 [226]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM332898
-[227]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM5651205
-[228]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM136164
-[229]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM136170
-[230]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM366271
-[231]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM98897
-[232]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM248706
-[233]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM114864
-[234]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM385160
-[235]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM2901056
-[236]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM269655
-[237]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM305710
-[238]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM282624
-[239]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM197801
-[240]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM4898507
-[241]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM426135
-[242]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM21620
-[243]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM1313622
-[244]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM321838
-[245]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM302623
-[246]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM3388546
-[247]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM301645
-[248]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM322600
-[249]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM56594
-[250]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM4484313
-[251]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM4326323
+[227]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM4326323
+[228]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM5651205
+[229]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM136164
+[230]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM136170
+[231]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM366271
+[232]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM98897
+[233]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM248706
+[234]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM114864
+[235]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM385160
+[236]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM2901056
+[237]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM269655
+[238]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM305710
+[239]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM282624
+[240]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM197801
+[241]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM4898507
+[242]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM426135
+[243]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM21620
+[244]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM1313622
+[245]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM321838
+[246]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM302623
+[247]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM3388546
+[248]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM301645
+[249]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM322600
+[250]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM56594
+[251]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM4484313
 [252]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM165477
 [253]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM51966
 [254]: http://www.legislation.govt.nz/act/public/1975/0009/latest/link.aspx?id=DLM3430572
