@@ -2357,7 +2357,7 @@ Consequential amendments
 
 [Section 67(b)(vii)][238]: omit ""Human Tissue Act 1964"" and substitute ""Human Tissue Act 2008"".
 
-Section 100(2)(vii): omit ""Human Tissue Act 1964"" and substitute ""[Human Tissue Act 2008][239]"".
+[Section 100(2)(vii)][239]: omit ""Human Tissue Act 1964"" and substitute ""Human Tissue Act 2008"".
 
 [Schedule 4][240]: repeal so much as relates to the Human Tissue Act 1964\.
 
