@@ -1,5 +1,5 @@
 Reprint  
-as at 4 October 2013
+as at 8 March 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -403,276 +403,282 @@ This Act is administered by the Inland Revenue Department.
 
 [141][185][][185][Late payment interest reduced if instalment arrangement complied with][185]
 
-[Matters of general application to interest][186]
+[141A][186][][186][Late payment interest reduced if deduction or extraction notice applies][186]
 
-[142][187][][187][No interest on consolidated loan balance in credit][187]
+[Matters of general application to interest][187]
 
-[143][188][][188][Commissioner's power to correct interest when charged in error][188]
+[142][188][][188][No interest on consolidated loan balance in credit][188]
 
-[Subpart 2][189][---][189][Relief][189]
+[143][189][][189][Commissioner's power to correct interest when charged in error][189]
 
-[Different types of relief][190]
+[Subpart 2][190][---][190][Relief][190]
 
-[144][191][][191][Power of Commissioner in relation to small amounts][191]
+[Different types of relief][191]
 
-[145][192][][192][Application for different types of relief for borrower][192]
+[144][192][][192][Power of Commissioner in relation to small amounts][192]
 
-[Relief from late payment interest][193]
+[145][193][][193][Application for different types of relief for borrower][193]
 
-[146][194][][194][Commissioner may grant relief from late payment interest][194]
+[Relief from late payment interest][194]
 
-[Relief from penalties][195]
+[146][195][][195][Commissioner may grant relief from late payment interest][195]
 
-[146A][196][][196][Commissioner may grant relief from penalties][196]
+[Relief from penalties][196]
 
-[Hardship relief][197]
+[146A][197][][197][Commissioner may grant relief from penalties][197]
 
-[147][198][][198][Hardship relief for any tax year][198]
+[Hardship relief][198]
 
-[148][199][][199][Special deduction rate certificate for hardship relief][199]
+[147][199][][199][Hardship relief for any tax year][199]
 
-[149][200][][200][Issue and application of special deduction rate certificate][200]
+[148][200][][200][Special deduction rate certificate for hardship relief][200]
 
-[150][201][][201][Time when special deduction rate ceases to apply][201]
+[149][201][][201][Issue and application of special deduction rate certificate][201]
 
-[151][202][][202][Effect of Commissioner's decision under section 147][202]
+[150][202][][202][Time when special deduction rate ceases to apply][202]
 
-[152][203][][203][Borrowers must notify Commissioner of change of circumstances][203]
+[151][203][][203][Effect of Commissioner's decision under section 147][203]
 
-[153][204][][204][Commissioner may review grant of hardship relief][204]
+[152][204][][204][Borrowers must notify Commissioner of change of circumstances][204]
 
-[Instalment arrangements][205]
+[153][205][][205][Commissioner may review grant of hardship relief][205]
 
-[154][206][][206][Application for instalment arrangement][206]
+[Instalment arrangements][206]
 
-[Subpart 3][207][---][207][Penalties and offences][207]
+[154][207][][207][Application for instalment arrangement][207]
 
-[Late filing penalties][208]
+[Subpart 3][208][---][208][Penalties and offences][208]
 
-[155][209][][209][Late filing penalty for certain declarations][209]
+[Late filing penalties][209]
 
-[156][210][][210][Due dates for payment of late filing penalty][210]
+[155][210][][210][Late filing penalty for certain declarations][210]
 
-[Student loan shortfall penalties][211]
+[156][211][][211][Due dates for payment of late filing penalty][211]
 
-[157][212][][212][Definitions relating to student loan shortfall penalties][212]
+[Student loan shortfall penalties][212]
 
-[158][213][][213][Student loan shortfall penalties may be imposed on certain borrowers][213]
+[157][213][][213][Definitions relating to student loan shortfall penalties][213]
 
-[159][214][][214][Commissioner may impose student loan shortfall penalties][214]
+[158][214][][214][Student loan shortfall penalties may be imposed on certain borrowers][214]
 
-[160][215][][215][Notification and payment obligations if Commissioner imposes student loan shortfall penalty][215]
+[159][215][][215][Commissioner may impose student loan shortfall penalties][215]
 
-[161][216][][216][Student loan shortfall penalty reduced or removed to reflect change to shortfall penalty][216]
+[160][216][][216][Notification and payment obligations if Commissioner imposes student loan shortfall penalty][216]
 
-[Underestimation penalty][217]
+[161][217][][217][Student loan shortfall penalty reduced or removed to reflect change to shortfall penalty][217]
 
-[161A][218][][218][Underestimation penalty where interim payments underestimated as at last interim payment date][218]
+[Underestimation penalty][218]
 
-[Offences][219]
+[161A][219][][219][Underestimation penalty where interim payments underestimated as at last interim payment date][219]
 
-[162][220][][220][Certain offence provisions in Tax Administration Act 1994 apply to borrowers][220]
+[Offences][220]
 
-[163][221][][221][Offence to prejudice employees because of student loan repayment liability][221]
+[162][221][][221][Certain offence provisions in Tax Administration Act 1994 apply to borrowers][221]
 
-[164][222][][222][Proceedings to be commenced by Commissioner][222]
+[162A][222][][222][Offence for default of overseas-based repayment obligation][222]
 
-[165][223][][223][Charging document may charge several offences][223]
+[162B][223][][223][Arrest of liable person][223]
 
-[166][224][][224][Time for filing charging document][224]
+[163][224][][224][Offence to prejudice employees because of student loan repayment liability][224]
 
-[Subpart 4][225][---][225][Borrower's right to object to loan manager about details of loan advances][225]
+[164][225][][225][Proceedings to be commenced by Commissioner][225]
 
-[167][226][][226][Borrowers may object to details of loan advances][226]
+[165][226][][226][Charging document may charge several offences][226]
 
-[168][227][][227][Loan manager must consider objections][227]
+[166][227][][227][Time for filing charging document][227]
 
-[169][228][][228][Power to require objection to be determined by chief executive][228]
+[Subpart 4][228][---][228][Borrower's right to object to loan manager about details of loan advances][228]
 
-[170][229][][229][Chief executive must consider objections required to be determined by chief executive][229]
+[167][229][][229][Borrowers may object to details of loan advances][229]
 
-[171][230][][230][Right to apply to Disputes Tribunal or District Court][230]
+[168][230][][230][Loan manager must consider objections][230]
 
-[172][231][][231][Notification of Disputes Tribunal's or District Court's decision about objection][231]
+[169][231][][231][Power to require objection to be determined by chief executive][231]
 
-[Subpart 5][232][---][232][Dispute procedures and rights to challenge][232]
+[170][232][][232][Chief executive must consider objections required to be determined by chief executive][232]
 
-[Dispute procedures][233]
+[171][233][][233][Right to apply to Disputes Tribunal or District Court][233]
 
-[173][234][][234][Part 4A of Tax Administration Act 1994 applies to disputes under this Act][234]
+[172][234][][234][Notification of Disputes Tribunal's or District Court's decision about objection][234]
 
-[Rights to challenge and challenge procedures][235]
+[Subpart 5][235][---][235][Dispute procedures and rights to challenge][235]
 
-[174][236][][236][Dispute process must be completed before challenge is made][236]
+[Dispute procedures][236]
 
-[174A][237][][237][Part 8A of Tax Administration Act 1994 applies to challenges under this Act][237]
+[173][237][][237][Part 4A of Tax Administration Act 1994 applies to disputes under this Act][237]
 
-[175][238][][238][Challenge to details of consolidated loan balance][238]
+[Rights to challenge and challenge procedures][238]
 
-[176][239][][239][Challenge to decision concerning treating borrowers as being physically in New Zealand][239]
+[174][239][][239][Dispute process must be completed before challenge is made][239]
 
-[177][240][][240][Challenge to special deduction rate certificate for unused repayment threshold][240]
+[174A][240][][240][Part 8A of Tax Administration Act 1994 applies to challenges under this Act][240]
 
-[178][241][][241][Challenge to additional deduction rate notice][241]
+[175][241][][241][Challenge to details of consolidated loan balance][241]
 
-[179][242][][242][Challenge to determination of salary or wage deduction][242]
+[176][242][][242][Challenge to decision concerning treating borrowers as being physically in New Zealand][242]
 
-[180][243][][243][Challenge to decision regarding significant over-deduction][243]
+[177][243][][243][Challenge to special deduction rate certificate for unused repayment threshold][243]
 
-[181][244][][244][Challenge to prohibition on applications or declarations][244]
+[178][244][][244][Challenge to additional deduction rate notice][244]
 
-[182][245][][245][Challenge to assessments][245]
+[179][245][][245][Challenge to determination of salary or wage deduction][245]
 
-[182A][246][][246][Challenge to decision concerning repayment holiday][246]
+[180][246][][246][Challenge to decision regarding significant over-deduction][246]
 
-[183][247][][247][Challenge to interest charged][247]
+[181][247][][247][Challenge to prohibition on applications or declarations][247]
 
-[184][248][][248][Challenge to decision concerning relief][248]
+[182][248][][248][Challenge to assessments][248]
 
-[185][249][][249][Challenge to late filing penalty][249]
+[182A][249][][249][Challenge to decision concerning repayment holiday][249]
 
-[186][250][][250][Challenge to student loan shortfall penalty][250]
+[183][250][][250][Challenge to interest charged][250]
 
-[187][251][][251][Person who may make challenge][251]
+[184][251][][251][Challenge to decision concerning relief][251]
 
-[188][252][][252][Commissioner's decision on challenges][252] \[Repealed\]
+[185][252][][252][Challenge to late filing penalty][252]
 
-[Part 5][253]  
-[Matters of general application and miscellaneous matters][253]
+[186][253][][253][Challenge to student loan shortfall penalty][253]
 
-[Subpart 1][254][---][254][Matters of general application][254]
+[187][254][][254][Person who may make challenge][254]
 
-[189][255][][255][Annual administration fee][255]
+[188][255][][255][Commissioner's decision on challenges][255] \[Repealed\]
 
-[190][256][][256][Tax year other than 12 months due to change in balance date][256]
+[Part 5][256]  
+[Matters of general application and miscellaneous matters][256]
 
-[191][257][][257][Limit on repayment obligation for pay period or tax year][257]
+[Subpart 1][257][---][257][Matters of general application][257]
 
-[192][258][][258][Payment date not otherwise specified][258]
+[189][258][][258][Annual administration fee][258]
 
-[193][259][][259][Recovery of unpaid amount][259]
+[190][259][][259][Tax year other than 12 months due to change in balance date][259]
 
-[193A][260][][260][Contact person may be requested to assist][260]
+[191][260][][260][Limit on repayment obligation for pay period or tax year][260]
 
-[193B][261][][261][Changes relating to identity and details of contact person][261]
+[192][261][][261][Payment date not otherwise specified][261]
 
-[193C][262][][262][Changes relating to contact details of borrower][262]
+[193][262][][262][Recovery of unpaid amount][262]
 
-[194][263][][263][Order in which salary or wage deductions and payments offset against borrower's consolidated loan balance][263]
+[193A][263][][263][Contact person may be requested to assist][263]
 
-[195][264][][264][Date on which salary or wage deductions and payments treated as being made and credited][264]
+[193B][264][][264][Changes relating to identity and details of contact person][264]
 
-[196][265][][265][Cancellation of interest if consolidated loan balance repaid early][265]
+[193C][265][][265][Changes relating to contact details of borrower][265]
 
-[197][266][][266][Write-off of consolidated loan balance][266]
+[194][266][][266][Order in which salary or wage deductions and payments offset against borrower's consolidated loan balance][266]
 
-[198][267][][267][Commissioner may remedy incorrect application of Act][267]
+[195][267][][267][Date on which salary or wage deductions and payments treated as being made and credited][267]
 
-[199][268][][268][Manner of making refunds][268]
+[196][268][][268][Cancellation of interest if consolidated loan balance repaid early][268]
 
-[200][269][][269][Appropriation of refunds][269]
+[197][269][][269][Write-off of consolidated loan balance][269]
 
-[201][270][][270][Loan advances and other information may be altered][270]
+[198][270][][270][Commissioner may remedy incorrect application of Act][270]
 
-[202][271][][271][Provisions of Tax Administration Act 1994 and Income Tax Act 2007 to apply to this Act][271]
+[199][271][][271][Manner of making refunds][271]
 
-[Subpart 2][272][---][272][Miscellaneous matters][272]
+[200][272][][272][Appropriation of refunds][272]
 
-[Interaction with loan contracts and other enactments][273]
+[201][273][][273][Loan advances and other information may be altered][273]
 
-[203][274][][274][This Act overrides loan contracts][274]
+[202][274][][274][Provisions of Tax Administration Act 1994 and Income Tax Act 2007 to apply to this Act][274]
 
-[204][275][][275][Commissioner may exercise rights in loan contracts to recall loans][275]
+[Subpart 2][275][---][275][Miscellaneous matters][275]
 
-[205][276][][276][Loan contract enforceable against minor][276]
+[Interaction with loan contracts and other enactments][276]
 
-[206][277][][277][Student loan contracts are not credit contracts][277]
+[203][277][][277][This Act overrides loan contracts][277]
 
-[Disclosure of information][278]
+[204][278][][278][Commissioner may exercise rights in loan contracts to recall loans][278]
 
-[207][279][][279][Disclosure of information between authorised persons][279]
+[205][279][][279][Loan contract enforceable against minor][279]
 
-[208][280][][280][Disclosure of information between Inland Revenue Department and New Zealand Customs Service for information-matching purposes][280]
+[206][280][][280][Student loan contracts are not credit contracts][280]
 
-[209][281][][281][Power of Commissioner to access arrival or departure information][281]
+[Disclosure of information][281]
 
-[Informing and notifying under this Act][282]
+[207][282][][282][Disclosure of information between authorised persons][282]
 
-[210][283][][283][Meaning of inform][283]
+[208][283][][283][Disclosure of information between Inland Revenue Department and New Zealand Customs Service for information-matching purposes][283]
 
-[211][284][][284][Meaning of notify][284]
+[209][284][][284][Power of Commissioner to access arrival or departure information][284]
 
-[212][285][][285][Meaning of notify a person in writing][285]
+[Informing and notifying under this Act][285]
 
-[213][286][][286][Meaning of formally notify][286]
+[210][286][][286][Meaning of inform][286]
 
-[214][287][][287][Notice requirements of Tax Administration Act 1994 do not apply][287]
+[211][287][][287][Meaning of notify][287]
 
-[Regulations][288]
+[212][288][][288][Meaning of notify a person in writing][288]
 
-[215][289][][289][Regulations][289]
+[213][289][][289][Meaning of formally notify][289]
 
-[216][290][][290][Transitional regulations][290]
+[214][290][][290][Notice requirements of Tax Administration Act 1994 do not apply][290]
 
-[217][291][][291][Application of Legislation Act 2012][291]
+[Regulations][291]
 
-[Savings and transitional provisions][292]
+[215][292][][292][Regulations][292]
 
-[218][293][][293][Transitional provisions concerning loan manager and loan advances][293] \[Repealed\]
+[216][293][][293][Transitional regulations][293]
 
-[219][294][][294][Early applications and issue of certificates for transition to this Act][294] \[Repealed\]
+[217][294][][294][Application of Legislation Act 2012][294]
 
-[220][295][][295][Application, savings, and transitional provisions][295]
+[Savings and transitional provisions][295]
 
-[Consequential amendments and repeals][296]
+[218][296][][296][Transitional provisions concerning loan manager and loan advances][296] \[Repealed\]
 
-[221][297][][297][Amendments to this Act][297] \[Repealed\]
+[219][297][][297][Early applications and issue of certificates for transition to this Act][297] \[Repealed\]
 
-[222][298][][298][Amendments to Student Loan Scheme Act 1992 and Credit Contracts and Consumer Finance Act 2003][298]
+[220][298][][298][Application, savings, and transitional provisions][298]
 
-[223][299][][299][Amendments to other Acts][299]
+[Consequential amendments and repeals][299]
 
-[224][300][][300][Amendments to other enactments][300]
+[221][300][][300][Amendments to this Act][300] \[Repealed\]
 
-[225][301][][301][Student Loan Scheme Act 1992 repealed][301]
+[222][301][][301][Amendments to Student Loan Scheme Act 1992 and Credit Contracts and Consumer Finance Act 2003][301]
 
-[226][302][][302][Regulations revoked][302]
+[223][302][][302][Amendments to other Acts][302]
 
-[Schedule 1][303]  
-[Conditions to borrower being treated as being physically in New Zealand][303]
+[224][303][][303][Amendments to other enactments][303]
 
-[Schedule 2][304]  
-[Application of PAYE rules for purposes of section 70][304]
+[225][304][][304][Student Loan Scheme Act 1992 repealed][304]
 
-[Schedule 3][305]  
-[Application of provisional tax rules for purposes of section 86][305]
+[226][305][][305][Regulations revoked][305]
+
+[Schedule 1][306]  
+[Conditions to borrower being treated as being physically in New Zealand][306]
+
+[Schedule 2][307]  
+[Application of PAYE rules for purposes of section 70][307]
+
+[Schedule 3][308]  
+[Application of provisional tax rules for purposes of section 86][308]
 
 \[Repealed\]
 
-[Schedule 4][306]  
-[Application of provisional tax rules for purposes of section 86][306]
+[Schedule 4][309]  
+[Application of provisional tax rules for purposes of section 86][309]
 
-[Schedule 5][307]  
-[Transitional provisions concerning loan manager and loan advances][307]
-
-\[Repealed\]
-
-[Schedule 6][308]  
-[Application, savings, and transitional provisions][308]
-
-[Schedule 7][309]  
-[Amendments to this Act][309]
+[Schedule 5][310]  
+[Transitional provisions concerning loan manager and loan advances][310]
 
 \[Repealed\]
 
-[Schedule 8][310]  
-[Amendments to Student Loan Scheme Act 1992 and Credit Contracts and Consumer Finance Act 2003][310]
+[Schedule 6][311]  
+[Application, savings, and transitional provisions][311]
 
-[Schedule 9][311]  
-[Amendments to other Acts][311]
+[Schedule 7][312]  
+[Amendments to this Act][312]
 
-[Schedule 10][312]  
-[Amendments to other enactments][312]
+\[Repealed\]
+
+[Schedule 8][313]  
+[Amendments to Student Loan Scheme Act 1992 and Credit Contracts and Consumer Finance Act 2003][313]
+
+[Schedule 9][314]  
+[Amendments to other Acts][314]
+
+[Schedule 10][315]  
+[Amendments to other enactments][315]
 
 ---
 
@@ -684,11 +690,11 @@ The Parliament of New Zealand enacts as follows:
 
 ##### 2 Commencement
     
-*   (1) [Sections 63][81], [215 to 217][289], [222][298], and [226(1)][302] and [Schedule 8][310] come into force on the day after the date on which this Act receives the Royal assent.
+*   (1) [Sections 63][81], [215 to 217][292], [222][301], and [226(1)][305] and [Schedule 8][313] come into force on the day after the date on which this Act receives the Royal assent.
     
-    (2) [Section 219][294] comes into force on 1 March 2012\.
+    (2) [Section 219][297] comes into force on 1 March 2012\.
     
-    (3) [Subpart 2 of Part 1][12], [subpart 4 of Part 4][225], [sections 173 to 175][234], [187][251], [188][252], [201][270], [210 to 214][283], and [218][293], and [Schedule 5][307] come into force on 1 January 2012\.
+    (3) [Subpart 2 of Part 1][12], [subpart 4 of Part 4][228], [sections 173 to 175][237], [187][254], [188][255], [201][273], [210 to 214][286], and [218][296], and [Schedule 5][310] come into force on 1 January 2012\.
     
     (4) [Sections 51][66] and [52][67] come into force on 1 April 2013\.
     
@@ -696,7 +702,7 @@ The Parliament of New Zealand enacts as follows:
     
     (6) The rest of this Act comes into force on 1 April 2012\.
     
-    Section 2(5): repealed, on 30 March 2013, by [section 5][313] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 2(5): repealed, on 30 March 2013, by [section 5][316] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ## Part 1  
 Preliminary matters, loan advances, and New Zealand-based and overseas-based borrowers
@@ -723,7 +729,7 @@ Preliminary matters, loan advances, and New Zealand-based and overseas-based bor
     
     _adjusted net income_ has the meaning given to it in [section 73][93]
     
-    _annual gross income_ has the same meaning as in [section BC 2][314] of the Income Tax Act 2007, except that for a borrower who is a non-resident it includes non-residents' foreign-sourced income as if the borrower were a New Zealand resident
+    _annual gross income_ has the same meaning as in [section BC 2][317] of the Income Tax Act 2007, except that for a borrower who is a non-resident it includes non-residents' foreign-sourced income as if the borrower were a New Zealand resident
     
     _annual repayment threshold_ means---
         
@@ -731,7 +737,7 @@ Preliminary matters, loan advances, and New Zealand-based and overseas-based bor
     
     *   (b) the amount prescribed by regulations for a tax year and subsequent tax years
     
-    _annual total deduction_ has the same meaning as in [section BC 3][315] of the Income Tax Act 2007, except that for a borrower who is a non-resident it includes non-residents' foreign-sourced deductions that may be offset against the borrower's non-residents' foreign-sourced income as if the borrower were a New Zealand resident
+    _annual total deduction_ has the same meaning as in [section BC 3][318] of the Income Tax Act 2007, except that for a borrower who is a non-resident it includes non-residents' foreign-sourced deductions that may be offset against the borrower's non-residents' foreign-sourced income as if the borrower were a New Zealand resident
     
     _base interest rate_ means the interest rate that applies for a tax year, calculated in accordance with the formula---
     
@@ -749,15 +755,19 @@ Preliminary matters, loan advances, and New Zealand-based and overseas-based bor
     
     _borrower_ means a person who has received or been charged with a loan advance and who has not fully repaid his or her consolidated loan balance
     
-    _borrower deduction_ means a deduction from a borrower's salary or wages in accordance with [section 39][51]
+    _borrower deduction_ means---
+        
+    *   (a) a deduction from a borrower's salary or wages in accordance with [section 39][51]:
     
-    _challenge_, for the purposes of [subpart 5 of Part 4][232], has the same meaning as in [section 3(1)][316] of the Tax Administration Act 1994
+    *   (b) the amount of a standard deduction that exceeds the borrower's loan balance
+    
+    _challenge_, for the purposes of [subpart 5 of Part 4][235], has the same meaning as in [section 3(1)][319] of the Tax Administration Act 1994
     
     _charity_ means a charitable organisation that is specified in regulations
     
-    _chief executive_ means the chief executive of the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the [Social Security Act 1964][317]
+    _chief executive_ means the chief executive of the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the [Social Security Act 1964][320]
     
-    _Commissioner_ means the Commissioner of Inland Revenue as defined in [section 3(1)][316] of the Tax Administration Act 1994
+    _Commissioner_ means the Commissioner of Inland Revenue as defined in [section 3(1)][319] of the Tax Administration Act 1994
     
     _Commissioner deduction_ means a deduction from a borrower's salary or wages in accordance with [section 38][50]
     
@@ -771,7 +781,7 @@ Preliminary matters, loan advances, and New Zealand-based and overseas-based bor
     
     _declaration of adjusted net income_ means a declaration in accordance with [section 74][94]
     
-    _employer_ has the same meaning as in paragraphs (a) and (b) of the definition of **employer** in [section YA 1][318] of the Income Tax Act 2007
+    _employer_ has the same meaning as in paragraphs (a) and (b) of the definition of **employer** in [section YA 1][321] of the Income Tax Act 2007
     
     _employer or PAYE intermediary_ means an employer or a person acting as a PAYE intermediary for the employer
     
@@ -779,21 +789,21 @@ Preliminary matters, loan advances, and New Zealand-based and overseas-based bor
     
     _excess repayment_ has the meaning given to it in [section 119][157]
     
-    _extra pay_ has the same meaning as in [section RD 7][319] of the Income Tax Act 2007
+    _extra pay_ has the same meaning as in [section RD 7][322] of the Income Tax Act 2007
     
-    _formally notify_ has the meaning given to it in [section 213][286]
+    _formally notify_ has the meaning given to it in [section 213][289]
     
-    _income tax_ has the same meaning as in [section YA 1][318] of the Income Tax Act 2007
+    _income tax_ has the same meaning as in [section YA 1][321] of the Income Tax Act 2007
     
-    _inform_ has the meaning given to it in [section 210][283]
+    _inform_ has the meaning given to it in [section 210][286]
     
     _interim payment_ means the amount that a borrower is obliged to pay towards the next tax year's end-of-year repayment obligation in accordance with [section 82][103] or [83][104] and [section 84][105] or [85][106]
     
-    _late filing penalty_ means a penalty imposed under [section 155][209]
+    _late filing penalty_ means a penalty imposed under [section 155][210]
     
     _late payment interest_ means interest that a borrower is liable to pay under [section 139(1)][183]
     
-    _lender_ means the Crown acting by and through the Minister who is, with the authority of the Prime Minister, for the time being responsible for the administration of the [Social Security Act 1964][317]
+    _lender_ means the Crown acting by and through the Minister who is, with the authority of the Prime Minister, for the time being responsible for the administration of the [Social Security Act 1964][320]
     
     _loan advance_ means all---
         
@@ -819,9 +829,9 @@ Preliminary matters, loan advances, and New Zealand-based and overseas-based bor
         
         *   (iva) an underestimation penalty; and
         
-        *   (v) annual administration fees charged under [section 63L][320] of the Student Loan Scheme Act 1992 or [section 189][255] of this Act; and
+        *   (v) annual administration fees charged under [section 63L][323] of the Student Loan Scheme Act 1992 or [section 189][258] of this Act; and
         
-        *   (vi) an amount that is added to the loan balance in accordance with [clause 6][321] of Schedule 6; but
+        *   (vi) an amount that is added to the loan balance in accordance with [clause 6][324] of Schedule 6; but
         
         
     
@@ -849,13 +859,13 @@ Preliminary matters, loan advances, and New Zealand-based and overseas-based bor
     
     _New Zealand-based_ has the meaning given to it in [section 22][28]
     
-    _New Zealand resident_ has the same meaning as in [section YA 1][318] of the Income Tax Act 2007
+    _New Zealand resident_ has the same meaning as in [section YA 1][321] of the Income Tax Act 2007
     
     _non-resident_ means a person who is not a New Zealand resident
     
-    _notify_ has the meaning given to it in [section 211][284]
+    _notify_ has the meaning given to it in [section 211][287]
     
-    _notify a person in writing_ has the meaning given to it in [section 212][285]
+    _notify a person in writing_ has the meaning given to it in [section 212][288]
     
     _overseas-based_ has the meaning given to it in [section 23][29]
     
@@ -863,37 +873,37 @@ Preliminary matters, loan advances, and New Zealand-based and overseas-based bor
     
     _pay period_, for a borrower who receives a payment of salary or wages, means the period for which that payment is payable
     
-    _PAYE intermediary_ has the same meaning as in [section YA 1][318] of the Income Tax Act 2007
+    _PAYE intermediary_ has the same meaning as in [section YA 1][321] of the Income Tax Act 2007
     
-    _PAYE rules_ has the same meaning as in [section YA 1][318] of the Income Tax Act 2007
+    _PAYE rules_ has the same meaning as in [section YA 1][321] of the Income Tax Act 2007
     
     _pre-taxed income_ means annual gross income derived from 1 or more of the following:
         
-    *   (a) interest, as defined in [section YA 1][318] of the Income Tax Act 2007:
+    *   (a) interest, as defined in [section YA 1][321] of the Income Tax Act 2007:
     
-    *   (b) a dividend, as defined in [sections CD 3 to CD 20][322] of the Income Tax Act 2007:
+    *   (b) a dividend, as defined in [sections CD 3 to CD 20][325] of the Income Tax Act 2007:
     
-    *   (c) a taxable Māori authority distribution, as defined in [section HF 7][323] of the Income Tax Act 2007:
+    *   (c) a taxable Māori authority distribution, as defined in [section HF 7][326] of the Income Tax Act 2007:
     
-    *   (d) salary or wages from employment as a casual agricultural employee, as defined in [section YA 1][318] of the Income Tax Act 2007:
+    *   (d) salary or wages from employment as a casual agricultural employee, as defined in [section YA 1][321] of the Income Tax Act 2007:
     
-    *   (e) salary or wages from employment as an election day worker, as defined in [section YA 1][318] of the Income Tax Act 2007
+    *   (e) salary or wages from employment as an election day worker, as defined in [section YA 1][321] of the Income Tax Act 2007
     
-    _primary employment earnings_ has the same meaning as in [section 3(1)][316] of the Tax Administration Act 1994, except that it---
+    _primary employment earnings_ has the same meaning as in [section 3(1)][319] of the Tax Administration Act 1994, except that it---
         
     *   (a) includes an extra pay paid to the borrower in the pay period; but
     
     *   (b) does not include---
             
-        *   (i) salary or wages from employment as a casual agricultural employee, as defined in [section YA 1][318] of the Income Tax Act 2007:
+        *   (i) salary or wages from employment as a casual agricultural employee, as defined in [section YA 1][321] of the Income Tax Act 2007:
         
-        *   (ii) salary or wages from employment as an election day worker, as defined in [section YA 1][318] of the Income Tax Act 2007
+        *   (ii) salary or wages from employment as an election day worker, as defined in [section YA 1][321] of the Income Tax Act 2007
         
         
     
-    _provisional tax_ has the same meaning as in [section YA 1][318] of the Income Tax Act 2007
+    _provisional tax_ has the same meaning as in [section YA 1][321] of the Income Tax Act 2007
     
-    _provisional tax rules_ has the same meaning as in [section YA 1][318] of the Income Tax Act 2007
+    _provisional tax rules_ has the same meaning as in [section YA 1][321] of the Income Tax Act 2007
     
     _regulations_ means regulations made under this Act
     
@@ -911,7 +921,7 @@ Preliminary matters, loan advances, and New Zealand-based and overseas-based bor
     
     _repayment percentage_ means 10% or any other rate prescribed by regulations
     
-    _return of income_ means a return of income required under [section 33][324] of the Tax Administration Act 1994
+    _return of income_ means a return of income required under [section 33][327] of the Tax Administration Act 1994
     
     _salary or wage deduction_ means---
         
@@ -921,27 +931,27 @@ Preliminary matters, loan advances, and New Zealand-based and overseas-based bor
     
     *   (c) a borrower deduction
     
-    _salary or wages_ has the same meaning as in [section RD 5][325] of the Income Tax Act 2007, except that it---
+    _salary or wages_ has the same meaning as in [section RD 5][328] of the Income Tax Act 2007, except that it---
         
     *   (a) includes an extra pay; but
     
     *   (b) does not include salary or wages from employment as---
             
-        *   (i) a casual agricultural employee, as defined in [section YA 1][318] of the Income Tax Act 2007; or
+        *   (i) a casual agricultural employee, as defined in [section YA 1][321] of the Income Tax Act 2007; or
         
-        *   (ii) an election day worker, as defined in [section YA 1][318] of the Income Tax Act 2007
+        *   (ii) an election day worker, as defined in [section YA 1][321] of the Income Tax Act 2007
         
         
     
-    _secondary employment earnings_ has the same meaning as in [section 3(1)][316] of the Tax Administration Act 1994, except that it---
+    _secondary employment earnings_ has the same meaning as in [section 3(1)][319] of the Tax Administration Act 1994, except that it---
         
     *   (a) includes an extra pay; but
     
     *   (b) does not include---
             
-        *   (i) salary or wages from employment as a casual agricultural employee, as defined in [section YA 1][318] of the Income Tax Act 2007:
+        *   (i) salary or wages from employment as a casual agricultural employee, as defined in [section YA 1][321] of the Income Tax Act 2007:
         
-        *   (ii) salary or wages from employment as an election day worker, as defined in [section YA 1][318] of the Income Tax Act 2007
+        *   (ii) salary or wages from employment as an election day worker, as defined in [section YA 1][321] of the Income Tax Act 2007
         
         
     
@@ -969,7 +979,7 @@ Preliminary matters, loan advances, and New Zealand-based and overseas-based bor
     
     *   (b) \[Repealed\]
     
-    *   (c) [section 148][199] (special deduction rate certificate for hardship relief)
+    *   (c) [section 148][200] (special deduction rate certificate for hardship relief)
     
     _standard deduction_ means a deduction from a borrower's salary or wages in accordance with [section 36(2)][48]
     
@@ -977,67 +987,69 @@ Preliminary matters, loan advances, and New Zealand-based and overseas-based bor
     
     _student loan scheme_ means the scheme established by the Crown on 1 January 1992 to provide loan assistance to tertiary students, as amended from time to time
     
-    _student loan shortfall penalty_ means a student loan shortfall penalty imposed on a borrower by the Commissioner under [section 159][214]
+    _student loan shortfall penalty_ means a student loan shortfall penalty imposed on a borrower by the Commissioner under [section 159][215]
     
-    _tax file number_ has the same meaning as in [section YA 1][318] of the Income Tax Act 2007
+    _tax file number_ has the same meaning as in [section YA 1][321] of the Income Tax Act 2007
     
-    _tax year_ has the same meaning as in [section YA 1][318] of the Income Tax Act 2007
+    _tax year_ has the same meaning as in [section YA 1][321] of the Income Tax Act 2007
     
     _terminal payment_ means the amount that a borrower is obliged to pay in relation to an end-of-year repayment obligation in accordance with [section 80][101] and [section 81][102] or [85][106]
     
-    _underestimation penalty_ means a penalty that a borrower is liable to pay under [section 161A][218]
+    _underestimation penalty_ means a penalty that a borrower is liable to pay under [section 161A][219]
     
     _unpaid amount_ has the meaning given to it in [section 5][7].
     
-    (2) A reference to a borrower estimating his or her end-of-year repayment obligation is a reference to a borrower making a fair and reasonable estimate of his or her end-of-year repayment obligation in accordance with [section RC 7][326] of the Income Tax Act 2007, as applied by [section 86][107] and [Schedule 4][306] of this Act.
+    (2) A reference to a borrower estimating his or her end-of-year repayment obligation is a reference to a borrower making a fair and reasonable estimate of his or her end-of-year repayment obligation in accordance with [section RC 7][329] of the Income Tax Act 2007, as applied by [section 86][107] and [Schedule 4][309] of this Act.
     
-    Compare: 1992 No 141 [ss 2][327], [38AE(1)(b)][328]
+    Compare: 1992 No 141 [ss 2][330], [38AE(1)(b)][331]
     
-    Section 4(1) **adjusted net income**: inserted (with effect on 1 April 2012), on 12 April 2012, by [section 5(7)][329] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 4(1) **adjusted net income**: inserted (with effect on 1 April 2012), on 12 April 2012, by [section 5(7)][332] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
     
-    Section 4(1) **adjusted net income**: amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 6(1)][330] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 4(1) **adjusted net income**: amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 6(1)][333] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 4(1) **consolidated loan balance** paragraph (b): amended (with effect on 1 April 2012), on 12 April 2012, by [section 5(1)][329] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 4(1) **borrower deduction**: replaced (with effect on 1 April 2012), on 8 March 2014, by [section 4][334] of the Student Loan Scheme Amendment Act 2014 (2014 No 6).
     
-    Section 4(1) **consolidated loan balance** paragraph (c): inserted (with effect on 1 April 2012), on 12 April 2012, by [section 5(1)][329] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 4(1) **consolidated loan balance** paragraph (b): amended (with effect on 1 April 2012), on 12 April 2012, by [section 5(1)][332] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
     
-    Section 4(1) **declaration of adjusted net income**: amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 6(3)][330] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 4(1) **consolidated loan balance** paragraph (c): inserted (with effect on 1 April 2012), on 12 April 2012, by [section 5(1)][332] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
     
-    Section 4(1) **end-of-year repayment obligation**: inserted (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 6(2)][330] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 4(1) **declaration of adjusted net income**: amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 6(3)][333] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 4(1) **interim payment**: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 6(4)][330] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 4(1) **end-of-year repayment obligation**: inserted (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 6(2)][333] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 4(1) **loan balance** paragraph (a)(iva): inserted, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 54(1)][331] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 4(1) **interim payment**: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 6(4)][333] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 4(1) **net income**: repealed (with effect on 1 April 2012), on 12 April 2012, by [section 5(2)][329] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 4(1) **loan balance** paragraph (a)(iva): inserted, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 54(1)][335] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 4(1) **net pre-taxed income**: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 6(5)][330] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 4(1) **net income**: repealed (with effect on 1 April 2012), on 12 April 2012, by [section 5(2)][332] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
     
-    Section 4(1) **new borrower**: inserted (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 6(7)][330] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 4(1) **net pre-taxed income**: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 6(5)][333] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 4(1) **other income**: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 6(5)][330] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 4(1) **new borrower**: inserted (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 6(7)][333] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 4(1) **other income repayment obligation**: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 6(5)][330] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 4(1) **other income**: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 6(5)][333] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 4(1) **pre-taxed repayment obligation**: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 6(5)][330] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 4(1) **other income repayment obligation**: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 6(5)][333] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 4(1) **remaining repayment**: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 6(5)][330] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 4(1) **pre-taxed repayment obligation**: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 6(5)][333] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 4(1) **repayment obligation** paragraph (c): replaced, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 54(2)][331] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 4(1) **remaining repayment**: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 6(5)][333] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 4(1) **repayment obligation** paragraph (d): replaced, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 54(2)][331] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 4(1) **repayment obligation** paragraph (c): replaced, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 54(2)][335] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 4(1) **repayment percentage**: 12% prescribed as the rate for the purposes of this Act, on 1 April 2013, by [regulation 3][332] of the Student Loan Scheme (Repayment Percentage) Regulations 2012 (SR 2012/192).
+    Section 4(1) **repayment obligation** paragraph (d): replaced, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 54(2)][335] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 4(1) **significant over-deduction**: amended (with effect on 1 April 2012), on 12 April 2012, by [section 5(5)][329] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 4(1) **repayment percentage**: 12% prescribed as the rate for the purposes of this Act, on 1 April 2013, by [regulation 3][336] of the Student Loan Scheme (Repayment Percentage) Regulations 2012 (SR 2012/192).
     
-    Section 4(1) **special deduction rate** paragraph (b): repealed (with effect on 1 April 2012), on 12 April 2012, by [section 5(6)][329] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 4(1) **significant over-deduction**: amended (with effect on 1 April 2012), on 12 April 2012, by [section 5(5)][332] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
     
-    Section 4(1) **terminal payment**: inserted (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 6(7)][330] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 4(1) **special deduction rate** paragraph (b): repealed (with effect on 1 April 2012), on 12 April 2012, by [section 5(6)][332] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
     
-    Section 4(1) **underestimation penalty**: inserted, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 54(3)][331] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 4(1) **terminal payment**: inserted (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 6(7)][333] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 4(2): replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 6(8)][330] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 4(1) **underestimation penalty**: inserted, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 54(3)][335] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    
+    Section 4(2): replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 6(8)][333] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 5 Meaning of unpaid amount
     
@@ -1051,7 +1063,7 @@ Preliminary matters, loan advances, and New Zealand-based and overseas-based bor
     
     *   (d) a consolidated loan balance that is payable as a result of a demand made under a loan contract:
     
-    *   (e) any part of a loan advance or a loan balance that the Commissioner has recalled or demanded repayment of under [section 204][275] of this Act or [section 63N][333] of the Student Loan Scheme Act 1992:
+    *   (e) any part of a loan advance or a loan balance that the Commissioner has recalled or demanded repayment of under [section 204][278] of this Act or [section 63N][337] of the Student Loan Scheme Act 1992:
     
     *   (f) an amount that must be paid by a borrower in accordance with a written notification under [section 52][67]:
     
@@ -1067,7 +1079,7 @@ Preliminary matters, loan advances, and New Zealand-based and overseas-based bor
         
     *   (a) in relation to interim payment defaults, means,---
             
-        *   (i) for any instalment of an interim payment due on or before the third instalment date, the date specified in [Schedule 3][334] of the Income Tax Act 2007 as the date for payment of the third instalment:
+        *   (i) for any instalment of an interim payment due on or before the third instalment date, the date specified in [Schedule 3][338] of the Income Tax Act 2007 as the date for payment of the third instalment:
         
         *   (ii) for any instalment of an interim payment due after the third instalment date, the date specified by the Commissioner as the due date; and
         
@@ -1099,25 +1111,25 @@ Preliminary matters, loan advances, and New Zealand-based and overseas-based bor
     
     _overseas-based instalment default_ means the sum of the instalments of an overseas-based borrower's repayment obligations for a tax year that must be paid in accordance with [subparts 4][132] and [5][148] of Part 2\.
     
-    Section 5(1)(a): replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 7(1)][335] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 5(1)(a): replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 7(1)][339] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 5(1)(e): amended, on 1 April 2013, by [section 55(1)][336] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 5(1)(e): amended, on 1 April 2013, by [section 55(1)][340] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 5(1)(f): inserted, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 55(2)][336] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 5(1)(f): inserted, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 55(2)][340] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 5(1)(g): inserted, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 55(2)][336] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 5(1)(g): inserted, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 55(2)][340] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 5(1)(h): inserted, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 55(2)][336] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 5(1)(h): inserted, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 55(2)][340] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 5(1)(i): inserted, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 55(2)][336] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 5(1)(i): inserted, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 55(2)][340] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 5(2) **due date** paragraph (b)(ii): replaced, on 30 March 2013, by [section 7(2)][335] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 5(2) **due date** paragraph (b)(ii): replaced, on 30 March 2013, by [section 7(2)][339] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 5(2) **interim payment default** paragraph (a)(i): amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 7(3)][335] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 5(2) **interim payment default** paragraph (a)(i): amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 7(3)][339] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 5(2) **interim payment default** paragraph (a)(ii): amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 7(3)][335] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 5(2) **interim payment default** paragraph (a)(ii): amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 7(3)][339] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 5(2) **overseas-based instalment default**: replaced, on 30 March 2013, by [section 7(4)][335] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 5(2) **overseas-based instalment default**: replaced, on 30 March 2013, by [section 7(4)][339] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 6 Application of Act
     
@@ -1125,7 +1137,7 @@ Preliminary matters, loan advances, and New Zealand-based and overseas-based bor
         
     *   (a) to all persons who---
             
-        *   (i) are borrowers under the [Student Loan Scheme Act 1992][337] on the close of 31 March 2012; or
+        *   (i) are borrowers under the [Student Loan Scheme Act 1992][341] on the close of 31 March 2012; or
         
         *   (ii) apply for a student loan on or after 1 April 2012; or
         
@@ -1141,9 +1153,9 @@ Preliminary matters, loan advances, and New Zealand-based and overseas-based bor
     
     *   (e) to actions or omissions that occur on or after 1 April 2012 in relation to a matter under this Act.
     
-    (2) However, regulations made under [section 216][290], [sections 218 to 220][293], and [Schedules 5][307] and [6][308] override subsection (1).
+    (2) However, regulations made under [section 216][293], [sections 218 to 220][296], and [Schedules 5][310] and [6][311] override subsection (1).
     
-    Compare: 1992 No 141 [s 1(3)][338]
+    Compare: 1992 No 141 [s 1(3)][342]
 
 ##### 7 Application of Act to bonded scholarships
     
@@ -1157,21 +1169,21 @@ Preliminary matters, loan advances, and New Zealand-based and overseas-based bor
     
     (2) Despite any enactment or rule of law, if a provision in an agreement for a bonded scholarship conflicts with this section, this section prevails.
     
-    (3) In this section, _bonded scholarship_ means an allowance or agreement that is declared under [section 307AC][339] of the Education Act 1989 to be a bonded scholarship.
+    (3) In this section, _bonded scholarship_ means an allowance or agreement that is declared under [section 307AC][343] of the Education Act 1989 to be a bonded scholarship.
     
-    Compare: 1992 No 141 [s 2A][340]
+    Compare: 1992 No 141 [s 2A][344]
 
 ##### 8 Act binds the Crown
     
 *   This Act binds the Crown.
     
-    Compare: 1992 No 141 [s 3][341]
+    Compare: 1992 No 141 [s 3][345]
 
 ##### 8A Application of provisions of Act
     
-*   [Schedule 6][308] contains application, savings, and transitional provisions that affect this Act's other provisions as from time to time amended, repealed, and replaced (_see_ [section 220][295]).
+*   [Schedule 6][311] contains application, savings, and transitional provisions that affect this Act's other provisions as from time to time amended, repealed, and replaced (_see_ [section 220][298]).
     
-    Section 8A: inserted, on 30 March 2013, by [section 8][342] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 8A: inserted, on 30 March 2013, by [section 8][346] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ### Subpart 2---Establishment of student loan
 
@@ -1211,7 +1223,7 @@ Preliminary matters, loan advances, and New Zealand-based and overseas-based bor
     
     *   (c) the method by which that notification must be supplied.
     
-    (4) Subsection (3)(b) and (c) apply despite [section 211][284].
+    (4) Subsection (3)(b) and (c) apply despite [section 211][287].
 
 ##### 11 Commissioner must confirm information provided by loan manager
     
@@ -1229,13 +1241,13 @@ Preliminary matters, loan advances, and New Zealand-based and overseas-based bor
     
     *   (c) the method by which that notification must be supplied.
     
-    (3) Subsection (2)(b) and (c) apply despite [section 211][284].
+    (3) Subsection (2)(b) and (c) apply despite [section 211][287].
 
 ##### 12 Loan manager must provide copy of loan contract
     
 *   The loan manager must provide a person who applies for a student loan with a copy of the loan contract before the day that is 6 working days after the day on which the person enters into the contract.
     
-    Compare: SR 2010/341 [r 5][343]
+    Compare: SR 2010/341 [r 5][347]
 
 ##### 13 Certain information must be disclosed in loan contract
     
@@ -1249,19 +1261,19 @@ Preliminary matters, loan advances, and New Zealand-based and overseas-based bor
     
     *   (d) the amount of the student loan establishment fee charged under section 14:
     
-    *   (e) the amount of the annual administration fee charged under [section 189][255]:
+    *   (e) the amount of the annual administration fee charged under [section 189][258]:
     
     *   (f) the borrower's right, under [section 15][19], to cancel the loan contract:
     
     *   (g) the borrower's right to object to the details of loan advances set out in a notification given to the borrower in accordance with [section 18][23]:
     
-    *   (h) the timeframe within which an objection by a borrower under [section 167][226] must be received by the loan manager (_see_ [section 18(2)(e)][23]):
+    *   (h) the timeframe within which an objection by a borrower under [section 167][229] must be received by the loan manager (_see_ [section 18(2)(e)][23]):
     
     *   (i) any further information specified in regulations.
     
-    Section 13(g): replaced (with effect on 1 April 2012), on 12 April 2012, by [section 6][344] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 13(g): replaced (with effect on 1 April 2012), on 12 April 2012, by [section 6][348] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
     
-    Section 13(h): replaced (with effect on 1 April 2012), on 12 April 2012, by [section 6][344] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 13(h): replaced (with effect on 1 April 2012), on 12 April 2012, by [section 6][348] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 14 Student loan establishment fee
     
@@ -1279,9 +1291,9 @@ Preliminary matters, loan advances, and New Zealand-based and overseas-based bor
     
     (2) If a borrower cancels his or her loan contract in accordance with subsection (1), the loan manager must waive the student loan establishment fee charged under [section 14][18].
     
-    Section 15(1)(b): amended, on 30 March 2013, by [section 9(1)][345] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 15(1)(b): amended, on 30 March 2013, by [section 9(1)][349] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 15(1)(c): repealed, on 30 March 2013, by [section 9(2)][345] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 15(1)(c): repealed, on 30 March 2013, by [section 9(2)][349] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 16 Loan manager must notify Commissioner of borrower's details
     
@@ -1323,7 +1335,7 @@ Preliminary matters, loan advances, and New Zealand-based and overseas-based bor
     
     *   (c) the method by which that notification must be supplied.
     
-    (4) Subsection (3)(b) and (c) apply despite [section 211][284].
+    (4) Subsection (3)(b) and (c) apply despite [section 211][287].
 
 ##### 16A Loan manager must notify Commissioner of any details held about borrower's contact person
     
@@ -1347,9 +1359,9 @@ Preliminary matters, loan advances, and New Zealand-based and overseas-based bor
     
     *   (c) the method by which that notification must be supplied.
     
-    (3) Subsection (2)(b) and (c) apply despite [section 211][284].
+    (3) Subsection (2)(b) and (c) apply despite [section 211][287].
     
-    Section 16A: inserted, on 1 January 2013, by [section 7][346] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 16A: inserted, on 1 January 2013, by [section 7][350] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 17 Loan manager must transfer loan advance debts to Commissioner for collection
     
@@ -1367,9 +1379,9 @@ Preliminary matters, loan advances, and New Zealand-based and overseas-based bor
     
     *   (c) the method by which transfers and notification must occur.
     
-    (3) Subsection (2)(b) and (c) apply despite [section 211][284].
+    (3) Subsection (2)(b) and (c) apply despite [section 211][287].
     
-    Compare: 1992 No 141 [s 4][347]
+    Compare: 1992 No 141 [s 4][351]
 
 ##### 18 Commissioner must notify borrowers of loan advances
     
@@ -1383,9 +1395,9 @@ Preliminary matters, loan advances, and New Zealand-based and overseas-based bor
     
     *   (c) specify the borrower's consolidated loan balance on the first and last days of the period to which it applies; and
     
-    *   (d) set out the borrower's right, under [sections 167 to 171][226], to object to the details of a loan advance set out in the notification; and
+    *   (d) set out the borrower's right, under [sections 167 to 171][229], to object to the details of a loan advance set out in the notification; and
     
-    *   (e) state the date on or before which an objection by the borrower under [section 167][226] must be received by the loan manager, which must be at least 31 days after the date on which the borrower is notified in accordance with this section; and
+    *   (e) state the date on or before which an objection by the borrower under [section 167][229] must be received by the loan manager, which must be at least 31 days after the date on which the borrower is notified in accordance with this section; and
     
     *   (f) provide any other information that the Commissioner considers appropriate.
     
@@ -1417,7 +1429,7 @@ Preliminary matters, loan advances, and New Zealand-based and overseas-based bor
     
     (3) The Commissioner must correct that information if the Commissioner becomes aware that any of the information is incorrect or has changed.
     
-    Compare: 1992 No 141 [ss 5][348], [13(1)][349], [43(1)][350]
+    Compare: 1992 No 141 [ss 5][352], [13(1)][353], [43(1)][354]
 
 ##### 20 Borrower must be notified of certain changes to obligations
     
@@ -1447,7 +1459,7 @@ Preliminary matters, loan advances, and New Zealand-based and overseas-based bor
     
     (3) However, subsections (1) and (2) do not apply if the Commissioner is aware that he or she has incorrect contact details for the borrower or cannot reasonably locate the borrower.
     
-    Compare: SR 2010/341 [r 8][351]
+    Compare: SR 2010/341 [r 8][355]
 
 ### Subpart 3---Determining whether borrowers are New Zealand-based or overseas-based
 
@@ -1491,7 +1503,7 @@ Preliminary matters, loan advances, and New Zealand-based and overseas-based bor
     
     (4) A borrower ceases to be New Zealand-based if that borrower becomes overseas-based.
     
-    Compare: 1992 No 141 [s 38AB(1), (2)][352]
+    Compare: 1992 No 141 [s 38AB(1), (2)][356]
 
 ##### 23 Meaning of overseas-based
     
@@ -1525,7 +1537,7 @@ Preliminary matters, loan advances, and New Zealand-based and overseas-based bor
     
     (4) A borrower ceases to be overseas-based if that borrower becomes New Zealand-based.
     
-    Compare: 1992 No 141 [s 38AC(1)--(3)][353]
+    Compare: 1992 No 141 [s 38AC(1)--(3)][357]
 
 ##### 24 Treatment of partial days
     
@@ -1535,7 +1547,7 @@ Preliminary matters, loan advances, and New Zealand-based and overseas-based bor
     
     *   (b) not being physically absent from New Zealand for any part of that day.
     
-    Compare: 1992 No 141 [s 38AD][354]
+    Compare: 1992 No 141 [s 38AD][358]
 
 #### Certain borrowers may be treated as being physically in New Zealand
 
@@ -1555,19 +1567,19 @@ Preliminary matters, loan advances, and New Zealand-based and overseas-based bor
     
     *   (f) the borrower is accompanying his or her spouse, civil union partner, or de facto partner overseas; or
     
-    *   (g) the borrower is undertaking study that meets the requirements of [clause 7 of Schedule 1][355]; or
+    *   (g) the borrower is undertaking study that meets the requirements of [clause 7 of Schedule 1][359]; or
     
-    *   (h) the borrower is undertaking study that meets the requirements of [clause 8 of Schedule 1][356]; or
+    *   (h) the borrower is undertaking study that meets the requirements of [clause 8 of Schedule 1][360]; or
     
-    *   (i) the borrower is undertaking study that meets the requirements of [clause 9 of Schedule 1][357]; or
+    *   (i) the borrower is undertaking study that meets the requirements of [clause 9 of Schedule 1][361]; or
     
     *   (j) the borrower is in 1 or more of Niue, the Cook Islands, Tokelau, or the Ross Dependency.
     
-    (2) Subsection (1)(b) to (j) are subject to the conditions set out in, as applicable, [clauses 2 to 11 of Schedule 1][358].
+    (2) Subsection (1)(b) to (j) are subject to the conditions set out in, as applicable, [clauses 2 to 11 of Schedule 1][362].
     
-    Compare: 1992 No 141 [ss 38AE(1)][328], (3A)--(7A), (9), [38AJ(1)][359], [38AJA(1)--(3), (7)][360]
+    Compare: 1992 No 141 [ss 38AE(1)][331], (3A)--(7A), (9), [38AJ(1)][363], [38AJA(1)--(3), (7)][364]
     
-    Section 25(2): amended (with effect on 1 April 2012), on 12 April 2012, by [section 8][361] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 25(2): amended (with effect on 1 April 2012), on 12 April 2012, by [section 8][365] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 26 Method of making application and provision of evidence and information
     
@@ -1575,11 +1587,11 @@ Preliminary matters, loan advances, and New Zealand-based and overseas-based bor
         
     *   (a) make that application by notifying the Commissioner; and
     
-    *   (b) provide the evidence or information that is required by [clauses 2 to 10 of Schedule 1][358], as applicable, by notifying the Commissioner in a manner acceptable to the Commissioner; and
+    *   (b) provide the evidence or information that is required by [clauses 2 to 10 of Schedule 1][362], as applicable, by notifying the Commissioner in a manner acceptable to the Commissioner; and
     
     *   (c) provide any other evidence or information that the Commissioner may reasonably require in order to establish whether one of the grounds for the grant of that application applies by notifying the Commissioner in a manner acceptable to the Commissioner.
     
-    Compare: 1992 No 141 [ss 38AE(8)][328], [38AJ(2)(c)][359], [38AJA(4)(b)][360]
+    Compare: 1992 No 141 [ss 38AE(8)][331], [38AJ(2)(c)][363], [38AJA(4)(b)][364]
 
 ##### 27 Commissioner must notify borrower and specify period or conditions when granting application
     
@@ -1595,7 +1607,7 @@ Preliminary matters, loan advances, and New Zealand-based and overseas-based bor
         
         
     
-    Compare: 1992 No 141 [ss 38AE(2)][328], [38AIA(2)][362], [38AJ(3)][359], [38AJA(5)][360]
+    Compare: 1992 No 141 [ss 38AE(2)][331], [38AIA(2)][366], [38AJ(3)][363], [38AJA(5)][364]
 
 #### Borrowers must notify Commissioner of absence from and return to New Zealand
 
@@ -1629,11 +1641,11 @@ Preliminary matters, loan advances, and New Zealand-based and overseas-based bor
     
     *   (b) the borrower becomes aware that he or she will be overseas-based.
     
-    (3) _See_ [section 193C][262] concerning the obligation on a borrower if there is a change in any of the contact details provided to the Commissioner under this section.
+    (3) _See_ [section 193C][265] concerning the obligation on a borrower if there is a change in any of the contact details provided to the Commissioner under this section.
     
-    Compare: 1992 No 141 [s 37][363]
+    Compare: 1992 No 141 [s 37][367]
     
-    Section 28(3): inserted, on 30 March 2013, by [section 10][364] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 28(3): inserted, on 30 March 2013, by [section 10][368] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 29 Borrower to notify Commissioner of return to New Zealand of more than 183 days
     
@@ -1649,7 +1661,7 @@ Preliminary matters, loan advances, and New Zealand-based and overseas-based bor
     
     *   (b) any other information that the Commissioner may reasonably require in order to establish whether the borrower is New Zealand-based.
     
-    Compare: 1992 No 141 [s 38][365]
+    Compare: 1992 No 141 [s 38][369]
 
 ## Part 2  
 Repayment obligations of borrowers
@@ -1658,9 +1670,9 @@ Repayment obligations of borrowers
     
 *   (1) Each borrower must repay his or her consolidated loan balance in accordance with this Act and the loan contract.
     
-    (2) [Section 203][274] applies if there is an inconsistency between this Act and the loan contract.
+    (2) [Section 203][277] applies if there is an inconsistency between this Act and the loan contract.
     
-    Compare: 1992 No 141 [ss 13(2)][349], [63][366]
+    Compare: 1992 No 141 [ss 13(2)][353], [63][370]
 
 ##### 31 Repayment obligations that apply to New Zealand-based borrowers and overseas-based borrowers
     
@@ -1678,7 +1690,7 @@ Repayment obligations of borrowers
     
     *   (c) is overseas-based but derives salary or wages from New Zealand.
     
-    Section 31(1)(a): amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 11][367] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 31(1)(a): amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 11][371] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 32 Interrelationship between subparts 1 and 2
     
@@ -1700,19 +1712,19 @@ Repayment obligations of borrowers
     
     (9) This section is intended as a guide only.
     
-    Section 32 heading: amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 12(1)][368] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 32 heading: amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 12(1)][372] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 32(3): replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 12(2)][368] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 32(3): replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 12(2)][372] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 32(4): replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 12(2)][368] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 32(4): replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 12(2)][372] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 32(5): repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 12(2)][368] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 32(5): repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 12(2)][372] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 32(6): repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 12(2)][368] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 32(6): repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 12(2)][372] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 32(7): repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 12(2)][368] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 32(7): repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 12(2)][372] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 32(8): repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 12(2)][368] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 32(8): repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 12(2)][372] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ### Subpart 1---New Zealand-based borrowers' repayment obligations for salary or wages
 
@@ -1732,7 +1744,7 @@ Repayment obligations of borrowers
     
     (2) The repayment code ""STC"" applies to a borrower if---
         
-    *   (a) the employer is issued with a special tax code certificate under [section 24F][369] of the Tax Administration Act 1994; or
+    *   (a) the employer is issued with a special tax code certificate under [section 24F][373] of the Tax Administration Act 1994; or
     
     *   (b) the Commissioner requires or permits its use in any other case.
     
@@ -1742,11 +1754,11 @@ Repayment obligations of borrowers
     
     *   (b) the repayment code ""STC"" may be combined into another code under that Act.
     
-    Compare: 1992 No 141 [s 17B][370]; 1994 No 166 [s 24B(4)][371]
+    Compare: 1992 No 141 [s 17B][374]; 1994 No 166 [s 24B(4)][375]
     
-    Section 34(2): replaced (with effect on 1 April 2012), on 12 April 2012, by [section 9][372] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 34(2): replaced (with effect on 1 April 2012), on 12 April 2012, by [section 9][376] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
     
-    Section 34(3): replaced (with effect on 1 April 2012), on 12 April 2012, by [section 9][372] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 34(3): replaced (with effect on 1 April 2012), on 12 April 2012, by [section 9][376] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 35 Borrowers with ""SL"" repayment code must notify employers
     
@@ -1766,11 +1778,11 @@ Repayment obligations of borrowers
     
     *   (c) \[Repealed\]
     
-    Compare: 1992 No 141 [s 18][373]
+    Compare: 1992 No 141 [s 18][377]
     
-    Section 35(2)(b): replaced (with effect on 1 April 2012), on 12 April 2012, by [section 10][374] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 35(2)(b): replaced (with effect on 1 April 2012), on 12 April 2012, by [section 10][378] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
     
-    Section 35(2)(c): repealed (with effect on 1 April 2012), on 12 April 2012, by [section 10][374] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 35(2)(c): repealed (with effect on 1 April 2012), on 12 April 2012, by [section 10][378] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 #### Salary or wage deductions
 
@@ -1786,9 +1798,9 @@ Repayment obligations of borrowers
     
     (2) Each time the employer or PAYE intermediary pays an amount to the borrower that is salary or wages for a pay period, the employer or PAYE intermediary must make a deduction from that amount in accordance with [section 37(1)][49] or (2).
     
-    Compare: 1992 No 141 [s 19(1)][375]
+    Compare: 1992 No 141 [s 19(1)][379]
     
-    Section 36(1)(c): amended (with effect on 1 April 2012), on 12 April 2012, by [section 11][376] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 36(1)(c): amended (with effect on 1 April 2012), on 12 April 2012, by [section 11][380] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 37 Deduction rates that apply to standard deductions from salary or wages
     
@@ -1820,11 +1832,11 @@ Repayment obligations of borrowers
     
     *   (f) if the salary or wages are paid other than as set out in paragraphs (a) to (e), an amount determined by the Commissioner to reflect the pay period.
     
-    Compare: 1992 No 141 [ss 19(2)][375], [20][377]
+    Compare: 1992 No 141 [ss 19(2)][379], [20][381]
     
-    Section 37(1): amended (with effect on 1 April 2012), on 12 April 2012, by [section 12(1)][378] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 37(1): amended (with effect on 1 April 2012), on 12 April 2012, by [section 12(1)][382] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
     
-    Section 37(2): amended (with effect on 1 April 2012), on 12 April 2012, by [section 12(2)][378] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 37(2): amended (with effect on 1 April 2012), on 12 April 2012, by [section 12(2)][382] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 38 Employer or PAYE intermediary must make Commissioner deductions from salary or wages
     
@@ -1848,9 +1860,9 @@ Repayment obligations of borrowers
     
     (4) Nothing in this section limits [section 36][48], [37][49], or [39][51].
     
-    Compare: 1992 No 141 [ss 19(1), (2)][375], [20A(4)][379]
+    Compare: 1992 No 141 [ss 19(1), (2)][379], [20A(4)][383]
     
-    Section 38(3)(b): amended (with effect on 1 April 2012), on 12 April 2012, by [section 13][380] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 38(3)(b): amended (with effect on 1 April 2012), on 12 April 2012, by [section 13][384] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 39 Employer or PAYE intermediary must make borrower deductions from salary or wages
     
@@ -1868,9 +1880,9 @@ Repayment obligations of borrowers
     
     (4) Nothing in this section limits [section 36][48], [37][49], or [38][50].
     
-    Compare: 1992 No 141 [s 19(1), (2)][375]
+    Compare: 1992 No 141 [s 19(1), (2)][379]
     
-    Section 39(3)(b): amended (with effect on 1 April 2012), on 12 April 2012, by [section 14][381] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 39(3)(b): amended (with effect on 1 April 2012), on 12 April 2012, by [section 14][385] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 40 Deductions from income-tested benefits
     
@@ -1896,13 +1908,13 @@ Repayment obligations of borrowers
         
     *   (a) the amount of an income-tested benefit; and
     
-    *   (b) any amount that was paid to the Commissioner in accordance with [section 83A][382] of the Social Security Act 1964 for income tax payable on that income-tested benefit
+    *   (b) any amount that was paid to the Commissioner in accordance with [section 83A][386] of the Social Security Act 1964 for income tax payable on that income-tested benefit
     
-    _income-tested benefit_ means an income-tested benefit as defined in [section YA 1][318] of the Income Tax Act 2007\.
+    _income-tested benefit_ means an income-tested benefit as defined in [section YA 1][321] of the Income Tax Act 2007\.
     
-    Compare: 1992 No 141 [s 23][383]
+    Compare: 1992 No 141 [s 23][387]
     
-    Section 40(2A): inserted (with effect on 1 April 2012), on 12 April 2012, by [section 15][384] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 40(2A): inserted (with effect on 1 April 2012), on 12 April 2012, by [section 15][388] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 #### Unused repayment threshold may be allocated to secondary employment earnings
 
@@ -1934,9 +1946,9 @@ Repayment obligations of borrowers
     
     *   (b) any other information requested by the Commissioner.
     
-    Section 42(1)(b): amended (with effect on 1 April 2012), on 12 April 2012, by [section 16][385] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 42(1)(b): amended (with effect on 1 April 2012), on 12 April 2012, by [section 16][389] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
     
-    Section 42(1)(c): repealed (with effect on 1 April 2012), on 12 April 2012, by [section 16][385] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 42(1)(c): repealed (with effect on 1 April 2012), on 12 April 2012, by [section 16][389] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 43 Determining estimated salary or wages
     
@@ -1952,7 +1964,7 @@ Repayment obligations of borrowers
     
     *   (b) revise the estimate if, at some time in the quarter, the amount estimated is no longer fair and reasonable.
     
-    Compare: 2007 No 97 [s RC 7(2), (4)][326]
+    Compare: 2007 No 97 [s RC 7(2), (4)][329]
 
 ##### 44 Calculating borrower's unused repayment threshold for pay period
     
@@ -1992,9 +2004,9 @@ Repayment obligations of borrowers
     
     *   (c) requires the borrower's employer or PAYE intermediary to make deductions from the borrower's salary or wages at the special deduction rate.
     
-    Compare: 1992 No 141 [s 20A(2)][379]
+    Compare: 1992 No 141 [s 20A(2)][383]
     
-    Section 45(a): amended (with effect on 1 April 2012), on 12 April 2012, by [section 17][386] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 45(a): amended (with effect on 1 April 2012), on 12 April 2012, by [section 17][390] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 46 Issue and application of special deduction rate certificate
     
@@ -2004,11 +2016,11 @@ Repayment obligations of borrowers
         
     *   (a) revokes all other special deduction rate certificates previously issued in relation to the borrower under [section 45][58]; and
     
-    *   (b) does not limit the application of [sections 147 to 153][198] (concerning hardship relief).
+    *   (b) does not limit the application of [sections 147 to 153][199] (concerning hardship relief).
     
-    Compare: 1992 No 141 [s 20A(5)--(7)][379]
+    Compare: 1992 No 141 [s 20A(5)--(7)][383]
     
-    Section 46(2)(a): amended (with effect on 1 April 2012), on 12 April 2012, by [section 18][387] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 46(2)(a): amended (with effect on 1 April 2012), on 12 April 2012, by [section 18][391] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 47 Ongoing obligations of borrower to review and notify
     
@@ -2026,7 +2038,7 @@ Repayment obligations of borrowers
     
     *   (c) the borrower ends any employment or starts any new employment.
     
-    Compare: 2007 No 97 [s RC 7(3)][326]
+    Compare: 2007 No 97 [s RC 7(3)][329]
 
 ##### 48 Time when special deduction rate ceases to apply
     
@@ -2038,7 +2050,7 @@ Repayment obligations of borrowers
     
     *   (c) the date on which the borrower notifies the employer otherwise.
     
-    Compare: 1992 No 141 [s 20A(4)][379]
+    Compare: 1992 No 141 [s 20A(4)][383]
 
 #### Commissioner deductions may be used to recover amounts that remain unpaid
 
@@ -2066,9 +2078,9 @@ Repayment obligations of borrowers
     
     (3) The additional deduction rate specified under subsection (2)(a) must be 5% or less.
     
-    Compare: 1992 No 141 [s 20A(1), (2)][379]
+    Compare: 1992 No 141 [s 20A(1), (2)][383]
     
-    Section 49(1)(a)(i): replaced (with effect on 1 April 2012), on 12 April 2012, by [section 19][388] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 49(1)(a)(i): replaced (with effect on 1 April 2012), on 12 April 2012, by [section 19][392] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 50 Procedures for issue of additional deduction rate notice
     
@@ -2088,11 +2100,11 @@ Repayment obligations of borrowers
     
     (2) An additional deduction rate notice issued to an employer or a PAYE intermediary in relation to a borrower revokes an additional deduction rate notice previously issued to that employer or PAYE intermediary in relation to the borrower.
     
-    (3) Nothing in [section 49][63] or this section limits the application of [sections 147 to 153][198] (concerning hardship relief).
+    (3) Nothing in [section 49][63] or this section limits the application of [sections 147 to 153][199] (concerning hardship relief).
     
-    Compare: 1992 No 141 [s 20A(3), (5)--(7)][379]
+    Compare: 1992 No 141 [s 20A(3), (5)--(7)][383]
     
-    Section 50(2): replaced (with effect on 1 April 2012), on 12 April 2012, by [section 20][389] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 50(2): replaced (with effect on 1 April 2012), on 12 April 2012, by [section 20][393] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 #### Further means of recovering amounts that remain unpaid
 
@@ -2122,11 +2134,11 @@ Repayment obligations of borrowers
     
     (6) Section 203 applies if there is an inconsistency between this subpart and the loan contract.
     
-    Compare: 1992 No 141 [ss 15][390], [20A(1)][379]
+    Compare: 1992 No 141 [ss 15][394], [20A(1)][383]
     
-    Section 51(1)(a)(i): amended (with effect on 1 April 2012), on 12 April 2012, by [section 21(1)][391] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 51(1)(a)(i): amended (with effect on 1 April 2012), on 12 April 2012, by [section 21(1)][395] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
     
-    Section 51(2): repealed (with effect on 1 April 2012), on 12 April 2012, by [section 21(2)][391] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 51(2): repealed (with effect on 1 April 2012), on 12 April 2012, by [section 21(2)][395] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 52 Recovery of assessed amounts
     
@@ -2142,7 +2154,7 @@ Repayment obligations of borrowers
     
     (2) The amount specified in accordance with subsection (1)(b) must be no greater than the amount the Commissioner considers the borrower should or would have paid under this subpart for the period in question.
     
-    Compare: 1992 No 141 [s 15(4)][390]; 1994 No 166 [s 44][392]
+    Compare: 1992 No 141 [s 15(4)][394]; 1994 No 166 [s 44][396]
 
 #### Exemption from standard deductions for borrowers who are full-time students
 
@@ -2180,9 +2192,9 @@ Repayment obligations of borrowers
     
     _programme of study_ means a programme of study that---
         
-    *   (a) is 32 weeks or longer in duration in any 52-week period and at least 0.8 of equivalent full-time student units, as determined in accordance with the formula used for the purposes of [section 159][393] of the Education Act 1989; or
+    *   (a) is 32 weeks or longer in duration in any 52-week period and at least 0.8 of equivalent full-time student units, as determined in accordance with the formula used for the purposes of [section 159][397] of the Education Act 1989; or
     
-    *   (b) is 12 weeks or longer in duration in any 52-week period and at least 0.3 of equivalent full-time student units, as determined in accordance with the formula used for the purposes of [section 159][393] of the Education Act 1989 or the equivalent on a pro-rata basis (as set out in the loan entry threshold table that is used for student loan entitlement purposes).
+    *   (b) is 12 weeks or longer in duration in any 52-week period and at least 0.3 of equivalent full-time student units, as determined in accordance with the formula used for the purposes of [section 159][397] of the Education Act 1989 or the equivalent on a pro-rata basis (as set out in the loan entry threshold table that is used for student loan entitlement purposes).
     
     
 
@@ -2206,13 +2218,13 @@ Repayment obligations of borrowers
     
     (2) The borrower may obtain an exemption from future standard deductions for an exemption period by making a declaration in accordance with [section 55][71].
     
-    Section 54(1)(b): replaced (with effect on 1 April 2012), on 12 April 2012, by [section 22][394] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 54(1)(b): replaced (with effect on 1 April 2012), on 12 April 2012, by [section 22][398] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
     
-    Section 54(1)(b)(ii): replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 44][395] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 54(1)(b)(ii): replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 44][399] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 54(1)(b)(iii): repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 44][395] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 54(1)(b)(iii): repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 44][399] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 54(1)(c): repealed (with effect on 1 April 2012), on 12 April 2012, by [section 22][394] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 54(1)(c): repealed (with effect on 1 April 2012), on 12 April 2012, by [section 22][398] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 55 Declaration by eligible borrowers for exemption from standard deductions
     
@@ -2322,7 +2334,7 @@ Repayment obligations of borrowers
     
     (3) An employer or PAYE intermediary must provide the Commissioner with any information required under subsection (1) by notifying the Commissioner, in a manner acceptable to the Commissioner, on or before the date specified by the Commissioner.
     
-    Compare: 1992 No 141 [s 24][396]
+    Compare: 1992 No 141 [s 24][400]
 
 ##### 62 Commissioner must determine question about amount of salary or wage deductions
     
@@ -2334,9 +2346,9 @@ Repayment obligations of borrowers
     
     *   (b) notify the employer or PAYE intermediary in writing of the Commissioner's determination.
     
-    (3) A request under subsection (1) must be made by notifying the Commissioner (_see_ [section 211][284]).
+    (3) A request under subsection (1) must be made by notifying the Commissioner (_see_ [section 211][287]).
     
-    Compare: 1992 No 141 [s 22][397]
+    Compare: 1992 No 141 [s 22][401]
 
 #### Significant under-deductions and over-deductions
 
@@ -2394,9 +2406,9 @@ Repayment obligations of borrowers
     
     (2) The borrower must make a request under subsection (1)(a) within 6 months after the date on which the significant over-deduction is believed to have occurred.
     
-    (3) A request under subsection (1)(a) must be made by notifying the Commissioner (_see_ [section 211][284]).
+    (3) A request under subsection (1)(a) must be made by notifying the Commissioner (_see_ [section 211][287]).
     
-    Section 65(2): amended (with effect on 1 April 2012), on 12 April 2012, by [section 23][398] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 65(2): amended (with effect on 1 April 2012), on 12 April 2012, by [section 23][402] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 66 Commissioner must determine whether significant over-deduction made
     
@@ -2424,7 +2436,7 @@ Repayment obligations of borrowers
     
     *   (c) that the over-deduction has been offset against the borrower's consolidated loan balance; and
     
-    *   (d) that the borrower may, subject to subsections (2A) and (3), choose to receive a refund of the over-deduction (_see_ [sections 199][268] and [200][269]); and
+    *   (d) that the borrower may, subject to subsections (2A) and (3), choose to receive a refund of the over-deduction (_see_ [sections 199][271] and [200][272]); and
     
     *   (e) of the time frame within which the borrower must notify the Commissioner if the borrower chooses to receive a refund of the over-deduction.
     
@@ -2434,11 +2446,11 @@ Repayment obligations of borrowers
     
     (4) A choice made by the borrower to receive a refund of the over-deduction is irrevocable.
     
-    Section 67(2): amended, on 30 March 2013, by [section 13][399] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 67(2): amended, on 30 March 2013, by [section 13][403] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 67(2)(d): amended (with effect on 1 April 2012), on 12 April 2012, by [section 24(1)][400] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 67(2)(d): amended (with effect on 1 April 2012), on 12 April 2012, by [section 24(1)][404] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
     
-    Section 67(2A): inserted (with effect on 1 April 2012), on 12 April 2012, by [section 24(2)][400] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 67(2A): inserted (with effect on 1 April 2012), on 12 April 2012, by [section 24(2)][404] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 68 Applicable procedures if significant under-deduction
     
@@ -2452,23 +2464,23 @@ Repayment obligations of borrowers
 
 ##### 70 PAYE rules apply to salary or wage deductions
     
-*   Subject to [Schedule 2][304],---
+*   Subject to [Schedule 2][307],---
         
     *   (a) the PAYE rules apply to salary or wage deductions; and
     
     *   (b) every employer, PAYE intermediary, and borrower must comply with the PAYE rules to the extent to which those rules apply under this section.
     
-    Compare: 1992 No 141 [s 25][401]
+    Compare: 1992 No 141 [s 25][405]
 
 ##### 71 Salary or wage deductions in addition to income tax withheld
     
 *   Salary or wage deductions are in addition to amounts of tax for PAYE income payments that are required to be withheld and paid to the Commissioner under the PAYE rules.
     
-    Compare: 1992 No 141 [s 19(3)][375]
+    Compare: 1992 No 141 [s 19(3)][379]
 
 ### Subpart 2---Repayment obligations for New Zealand-based borrowers with income other than, or as well as, salary or wages
     
-*   Subpart 2: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][402] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+*   Subpart 2: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][406] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 72 Application of this subpart
     
@@ -2480,11 +2492,11 @@ Repayment obligations of borrowers
             
         *   (i) have been required to pay interim payments for that tax year; or
         
-        *   (ii) have been issued a default assessment for an end-of-year repayment obligation under [section 106][403] of the Tax Administration Act 1994 for that tax year.
+        *   (ii) have been issued a default assessment for an end-of-year repayment obligation under [section 106][407] of the Tax Administration Act 1994 for that tax year.
         
         
     
-    Section 72: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][402] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 72: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][406] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 73 Meaning of adjusted net income
     
@@ -2516,11 +2528,11 @@ Repayment obligations of borrowers
     
     (6) In this section,---
     
-    _business_ has the same meaning as in [section YA 1][318] of the Income Tax Act 2007
+    _business_ has the same meaning as in [section YA 1][321] of the Income Tax Act 2007
     
-    _investment activity_ has the same meaning as in [section MB 3(5)][404] of the Income Tax Act 2007\.
+    _investment activity_ has the same meaning as in [section MB 3(5)][408] of the Income Tax Act 2007\.
     
-    Section 73: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][402] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 73: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][406] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 74 Declaration of adjusted net income
     
@@ -2540,11 +2552,11 @@ Repayment obligations of borrowers
         
         
     
-    Section 74: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][402] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 74: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][406] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 75 Extension of time for making declaration of adjusted net income
     
-*   A borrower may apply to the Commissioner for an extension of time for the making of a declaration of adjusted net income in accordance with [section 37(3) to (5)][405] of the Tax Administration Act 1994, and those subsections apply, as far as applicable and with all necessary modifications, as if---
+*   A borrower may apply to the Commissioner for an extension of time for the making of a declaration of adjusted net income in accordance with [section 37(3) to (5)][409] of the Tax Administration Act 1994, and those subsections apply, as far as applicable and with all necessary modifications, as if---
         
     *   (a) the reference to ""the due date required under this section"" were a reference to ""the due date required under section 74(2)(b)(i) of the Student Loan Scheme Act 2011""; and
     
@@ -2552,7 +2564,7 @@ Repayment obligations of borrowers
     
     *   (c) every reference to a return or a return of income were a reference to a declaration of adjusted net income.
     
-    Section 75: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][402] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 75: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][406] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 76 Commissioner to assess borrower's end-of-year repayment obligation
     
@@ -2572,7 +2584,7 @@ Repayment obligations of borrowers
     
     (3) The assessment must be made in accordance with this subpart and the loan contract.
     
-    (4) [Section 203][274] applies if there is an inconsistency between this subpart and the loan contract.
+    (4) [Section 203][277] applies if there is an inconsistency between this subpart and the loan contract.
     
     (5) The Commissioner must, as soon as practicable after making the assessment, notify the borrower in writing of---
         
@@ -2582,15 +2594,15 @@ Repayment obligations of borrowers
     
     *   (c) the amounts, if any, that must be paid on or before those due dates.
     
-    Compare: 1992 No 141 [s 15][390]
+    Compare: 1992 No 141 [s 15][394]
     
-    Section 76: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][402] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 76: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][406] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 76A Commissioner must assess borrowers to whom section 72(b) applies as having zero repayment obligation
     
 *   If the Commissioner is satisfied that a borrower meets the criteria in [section 72(b)][92], the Commissioner must assess the borrower as having a zero end-of-year repayment obligation for that tax year.
     
-    Section 76A: inserted (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][402] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 76A: inserted (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][406] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 77 Calculation of borrower's end-of-year repayment obligation if salary or wages less than annual repayment threshold
     
@@ -2624,7 +2636,7 @@ Repayment obligations of borrowers
     
     (3) If the borrower's end-of-year repayment obligation for the tax year is zero or less, the borrower has no end-of-year repayment obligation for the tax year.
     
-    Section 77: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][402] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 77: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][406] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 78 Calculation of borrower's end-of-year repayment obligation where salary or wages equal to or more than annual repayment threshold
     
@@ -2652,7 +2664,7 @@ Repayment obligations of borrowers
     > 
     > is the income that the borrower derives from adjusted net income for the tax year.
     
-    Section 78: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][402] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 78: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][406] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 79 Payment of end-of-year repayment obligation
     
@@ -2676,7 +2688,7 @@ Repayment obligations of borrowers
     
     (4) However, a borrower is not liable to make interim payments for a tax year if the borrower's end-of-year repayment obligation for that year is less than $1,000\.
     
-    Section 79: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][402] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 79: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][406] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 80 Calculation of terminal payment for tax year
     
@@ -2708,13 +2720,13 @@ Repayment obligations of borrowers
     
     *   (b) if the sum of (d − c) is less than zero, then it must be treated as if it were zero.
     
-    Section 80: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][402] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 80: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][406] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 81 Due date for terminal payment
     
-*   A borrower must pay his or her terminal payment on or before the borrower's _terminal tax date_, as defined in [section YA 1][318] of the Income Tax Act 2007, for the tax year.
+*   A borrower must pay his or her terminal payment on or before the borrower's _terminal tax date_, as defined in [section YA 1][321] of the Income Tax Act 2007, for the tax year.
     
-    Section 81: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][402] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 81: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][406] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 82 Calculation of interim payments for next tax year
     
@@ -2766,13 +2778,13 @@ Repayment obligations of borrowers
     
     (4) For the purposes of subsection (3)(b), the borrower's loan balance on 1 April of the relevant tax year must be determined by subtracting the amount of any repayment obligation or other amount that the Commissioner has, on or before that day, required the borrower to pay and that is payable on or after that day.
     
-    Compare: 1992 No 141 [s 27][406]
+    Compare: 1992 No 141 [s 27][410]
     
-    Section 82: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][402] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 82: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][406] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 83 Commissioner may assess interim payments if information for preceding year not provided
     
-*   (1) The Commissioner may assess a borrower's interim payments for a tax year in the manner set out in [section RC 6(3)][407] of the Income Tax Act 2007 if, for the immediately preceding tax year, the borrower did not provide---
+*   (1) The Commissioner may assess a borrower's interim payments for a tax year in the manner set out in [section RC 6(3)][411] of the Income Tax Act 2007 if, for the immediately preceding tax year, the borrower did not provide---
         
     *   (a) his or her return of income; or
     
@@ -2782,7 +2794,7 @@ Repayment obligations of borrowers
     
     (2) [Section 82][103] does not apply if the Commissioner makes an assessment in accordance with subsection (1).
     
-    Section 83: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][402] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 83: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][406] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 84 Due dates for payment of interim payments
     
@@ -2790,9 +2802,9 @@ Repayment obligations of borrowers
     
     (2) However,---
         
-    *   (a) if a borrower uses a GST ratio to determine his or her provisional tax for a tax year and that year is not a transitional year for the borrower, the due dates for the payment of the borrower's interim payments are the dates in columns B, D, and F of the table in Part A of [Schedule 3][334] of the Income Tax Act 2007 that correspond to the month of the borrower's balance date:
+    *   (a) if a borrower uses a GST ratio to determine his or her provisional tax for a tax year and that year is not a transitional year for the borrower, the due dates for the payment of the borrower's interim payments are the dates in columns B, D, and F of the table in Part A of [Schedule 3][338] of the Income Tax Act 2007 that correspond to the month of the borrower's balance date:
     
-    *   (b) if a borrower uses a GST ratio to determine his or her provisional tax for a tax year and that year is a transitional year for the borrower, the due dates for the payment of the borrower's interim payments are every second date in the table headed ""**GST ratio provisional taxpayers**"" in Part B of [Schedule 3][334] of the Income Tax Act 2007 that correspond to the month of the borrower's balance date, except that---
+    *   (b) if a borrower uses a GST ratio to determine his or her provisional tax for a tax year and that year is a transitional year for the borrower, the due dates for the payment of the borrower's interim payments are every second date in the table headed ""**GST ratio provisional taxpayers**"" in Part B of [Schedule 3][338] of the Income Tax Act 2007 that correspond to the month of the borrower's balance date, except that---
             
         *   (i) if the borrower has only 1 payment date, the borrower has only 1 due date; and
         
@@ -2802,11 +2814,13 @@ Repayment obligations of borrowers
     
     *   (c) if a borrower does not pay provisional tax for a tax year, the due dates for the payment of the borrower's interim payments are the dates in columns B, D, and F of the table in Part A of Schedule 3 of the Income Tax Act 2007 that correspond to the month of the borrower's balance date:
     
-    *   (d) if a borrower pays provisional tax on a 6-monthly basis for the 2012--2013 tax year, the due dates for the payment of the borrower's interim payments are the dates in columns B, D, and F of the table in Part A of [Schedule 3][334] of the Income Tax Act 2007 that correspond to the month of the borrower's balance date.
+    *   (d) if a borrower pays provisional tax on a 6-monthly basis for the 2012--2013 tax year or any subsequent tax year, the due dates for the payment of the borrower's interim payments are the dates in columns B, D, and F of the table in Part A of [Schedule 3][338] of the Income Tax Act 2007 that correspond to the month of the borrower's balance date.
     
-    (3) In this section, _GST ratio_ and _transitional year_ have the same meanings as in [section YA 1][318] of the Income Tax Act 2007\.
+    (3) In this section, _GST ratio_ and _transitional year_ have the same meanings as in [section YA 1][321] of the Income Tax Act 2007\.
     
-    Section 84: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][402] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 84: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][406] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    
+    Section 84(2)(d): amended, on 8 March 2014, by [section 5][412] of the Student Loan Scheme Amendment Act 2014 (2014 No 6).
 
 ##### 85 Commissioner's powers in relation to due dates
     
@@ -2832,159 +2846,159 @@ Repayment obligations of borrowers
     
     (4) This section overrides [sections 81][102] and [84][105].
     
-    Compare: 1992 No 141 [s 30(2)][408]
+    Compare: 1992 No 141 [s 30(2)][413]
     
-    Section 85: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][402] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 85: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][406] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 86 Interim payments to be paid in same manner as provisional tax
     
-*   Subject to [Schedule 4][306],---
+*   Subject to [Schedule 4][309],---
         
     *   (a) interim payments for a borrower's end-of-year repayment obligation for a tax year are payable in the same manner as provisional tax; and
     
     *   (b) a borrower must comply with the requirements of the provisional tax rules.
     
-    Compare: 1992 No 141 [s 28][409]
+    Compare: 1992 No 141 [s 28][414]
     
-    Section 86: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][402] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 86: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][406] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 87 Consequence of failure to meet repayment obligations
     
 *   A borrower may be liable to pay late payment interest if the borrower does not meet his or her repayment obligations under this subpart (_see_ [section 139(1)][183]).
     
-    Section 87: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][402] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 87: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][406] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ### Subpart 3---New Zealand-based borrowers' repayment obligations for other income
 
 \[Repealed\]
     
-*   Subpart 3: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, pursuant to [section 14][402] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+*   Subpart 3: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, pursuant to [section 14][406] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 88 Application of this subpart
     
 *   \[Repealed\]
     
-    Section 88: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][402] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 88: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][406] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 88A Meaning of adjusted net income
     
 *   \[Repealed\]
     
-    Section 88A: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][402] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 88A: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][406] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 #### Assessment of other income repayment obligation
     
-*   Heading: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][402] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+*   Heading: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][406] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 89 Commissioner to assess borrower's other income repayment obligation
     
 *   \[Repealed\]
     
-    Section 89: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][402] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 89: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][406] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 #### Calculation of other income repayment obligations
     
-*   Heading: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][402] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+*   Heading: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][406] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 90 Calculation of borrower's other income repayment obligation where salary or wages below threshold
     
 *   \[Repealed\]
     
-    Section 90: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][402] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 90: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][406] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 91 Calculation of borrower's other income repayment obligation where salary or wages equal to or above threshold
     
 *   \[Repealed\]
     
-    Section 91: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][402] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 91: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][406] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 #### Payment of other income repayment obligations
     
-*   Heading: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][402] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+*   Heading: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][406] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 92 Payment of other income repayment obligations
     
 *   \[Repealed\]
     
-    Section 92: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][402] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 92: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][406] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 93 Calculation of remaining repayments for tax year
     
 *   \[Repealed\]
     
-    Section 93: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][402] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 93: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][406] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 94 Due dates for payment of remaining repayments
     
 *   \[Repealed\]
     
-    Section 94: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][402] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 94: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][406] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 95 Calculation of interim payments for next tax year
     
 *   \[Repealed\]
     
-    Section 95: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][402] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 95: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][406] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 96 Commissioner may assess interim payments if information for preceding year not provided
     
 *   \[Repealed\]
     
-    Section 96: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][402] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 96: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][406] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 97 Due dates for payment of interim payments
     
 *   \[Repealed\]
     
-    Section 97: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][402] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 97: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][406] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 98 Commissioner's powers in relation to due dates
     
 *   \[Repealed\]
     
-    Section 98: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][402] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 98: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][406] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 99 Interim payments to be paid in same manner as provisional tax
     
 *   \[Repealed\]
     
-    Section 99: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][402] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 99: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][406] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 100 Consequence of failure to meet repayment obligations
     
 *   \[Repealed\]
     
-    Section 100: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][402] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 100: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 14][406] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 #### Reduction of deduction rate for borrower with lower repayment obligation
 
 \[Repealed\]
     
-*   Heading: repealed (with effect on 1 April 2012), on 12 April 2012, by [section 29][410] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+*   Heading: repealed (with effect on 1 April 2012), on 12 April 2012, by [section 29][415] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 101 Borrower may apply for reduction of deduction rate to reflect lower repayment obligation
     
 *   \[Repealed\]
     
-    Section 101: repealed (with effect on 1 April 2012), on 12 April 2012, by [section 29][410] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 101: repealed (with effect on 1 April 2012), on 12 April 2012, by [section 29][415] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 102 Special deduction rate certificate for lower repayment obligation
     
 *   \[Repealed\]
     
-    Section 102: repealed (with effect on 1 April 2012), on 12 April 2012, by [section 29][410] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 102: repealed (with effect on 1 April 2012), on 12 April 2012, by [section 29][415] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 103 Issue and application of special deduction rate certificate
     
 *   \[Repealed\]
     
-    Section 103: repealed (with effect on 1 April 2012), on 12 April 2012, by [section 29][410] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 103: repealed (with effect on 1 April 2012), on 12 April 2012, by [section 29][415] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 104 Time when special deduction rate ceases to apply
     
 *   \[Repealed\]
     
-    Section 104: repealed (with effect on 1 April 2012), on 12 April 2012, by [section 29][410] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 104: repealed (with effect on 1 April 2012), on 12 April 2012, by [section 29][415] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ### Subpart 4---Overseas-based borrowers' repayment obligations
 
@@ -2996,11 +3010,11 @@ Repayment obligations of borrowers
     
 *   In this subpart, **repayment holiday** means a period during which a borrower's overseas-based repayment obligation is reduced to zero.
     
-    Section 106: replaced (with effect on 1 April 2012), on 12 April 2012, by [section 30][411] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 106: replaced (with effect on 1 April 2012), on 12 April 2012, by [section 30][416] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 #### Repayment holiday from overseas-based repayment obligations
     
-*   Heading: replaced (with effect on 1 April 2012), on 12 April 2012, by [section 30][411] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+*   Heading: replaced (with effect on 1 April 2012), on 12 April 2012, by [section 30][416] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 107 Borrowers who intend to be overseas-based may apply for repayment holidays
     
@@ -3008,7 +3022,7 @@ Repayment obligations of borrowers
     
     (2) The application may be made from New Zealand or from overseas, but no application may be made by an overseas-based borrower.
     
-    Section 107: replaced (with effect on 1 April 2012), on 12 April 2012, by [section 30][411] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 107: replaced (with effect on 1 April 2012), on 12 April 2012, by [section 30][416] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 107A Contact person to be nominated
     
@@ -3026,7 +3040,7 @@ Repayment obligations of borrowers
     
     *   (e) any further information specified in regulations.
     
-    Section 107A: inserted (with effect on 1 April 2012), on 12 April 2012, by [section 30][411] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 107A: inserted (with effect on 1 April 2012), on 12 April 2012, by [section 30][416] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 107B Grant of repayment holiday
     
@@ -3042,25 +3056,25 @@ Repayment obligations of borrowers
         
     *   (a) the borrower has had 1 or more repayment holidays, granted under this Act, for a period of 365 days or for periods that total 365 days; or
     
-    *   (b) the borrower has had 1 or more repayment holidays under [Part 3][412] of the Student Loan Scheme Act 1992 for a period of 3 years or for periods that total 3 years; or
+    *   (b) the borrower has had 1 or more repayment holidays under [Part 3][417] of the Student Loan Scheme Act 1992 for a period of 3 years or for periods that total 3 years; or
     
     *   (c) the borrower has had---
             
-        *   (i) 1 or more repayment holidays under [Part 3][412] of the Student Loan Scheme Act 1992 for a period of less than 3 years or for periods that total less than 3 years; and
+        *   (i) 1 or more repayment holidays under [Part 3][417] of the Student Loan Scheme Act 1992 for a period of less than 3 years or for periods that total less than 3 years; and
         
         *   (ii) 1 or more repayment holidays, granted under this Act, for a period that equals, or for periods that in total equal, the lesser of---
                 
             *   (A) 365 days; and
             
-            *   (B) the remainder of the period of the repayment holiday to which the borrower would have been entitled under [Part 3][412] of the Student Loan Scheme Act 1992 if that Act had not been repealed; or
+            *   (B) the remainder of the period of the repayment holiday to which the borrower would have been entitled under [Part 3][417] of the Student Loan Scheme Act 1992 if that Act had not been repealed; or
             
             
         
         
     
-    *   (d) the borrower has had his or her repayment holiday under [Part 3][412] of the Student Loan Scheme Act 1992 continued under [section 108A(2)][140] for the maximum period prescribed for that continuation.
+    *   (d) the borrower has had his or her repayment holiday under [Part 3][417] of the Student Loan Scheme Act 1992 continued under [section 108A(2)][140] for the maximum period prescribed for that continuation.
     
-    Section 107B: inserted (with effect on 1 April 2012), on 12 April 2012, by [section 30][411] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 107B: inserted (with effect on 1 April 2012), on 12 April 2012, by [section 30][416] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 108 Duration of repayment holiday
     
@@ -3074,21 +3088,21 @@ Repayment obligations of borrowers
     
     (3) A borrower's repayment obligation must be calculated in accordance with [sections 110][144] and [111][145] if the borrower is, at any time, overseas-based after his or her repayment holiday has ended.
     
-    Section 108: replaced (with effect on 1 April 2012), on 12 April 2012, by [section 30][411] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 108: replaced (with effect on 1 April 2012), on 12 April 2012, by [section 30][416] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 108A Borrowers who have had, or are having, repayment holidays under Student Loan Scheme Act 1992
     
-*   (1) A New Zealand-based borrower who has had 1 or more repayment holidays under [Part 3][412] of the Student Loan Scheme Act 1992, but who has not reached the borrower's limit (within the meaning of [section 107B(3)][138]), must apply under [section 107][136] if he or she wishes to have a repayment holiday under this Act.
+*   (1) A New Zealand-based borrower who has had 1 or more repayment holidays under [Part 3][417] of the Student Loan Scheme Act 1992, but who has not reached the borrower's limit (within the meaning of [section 107B(3)][138]), must apply under [section 107][136] if he or she wishes to have a repayment holiday under this Act.
     
-    (2) An overseas-based borrower who, as at 31 March 2012, has a repayment holiday under [Part 3][412] of the Student Loan Scheme Act 1992 that, but for the repeal of that Act, would have continued under that Act continues to have a repayment holiday under this [Act][413], but for no longer than the lesser of---
+    (2) An overseas-based borrower who, as at 31 March 2012, has a repayment holiday under [Part 3][417] of the Student Loan Scheme Act 1992 that, but for the repeal of that Act, would have continued under that Act continues to have a repayment holiday under this [Act][418], but for no longer than the lesser of---
         
     *   (a) 365 days; and
     
-    *   (b) the remainder of the period of the repayment holiday to which the borrower would have been entitled under [Part 3][412] of the Student Loan Scheme Act 1992 if that Act had not been repealed.
+    *   (b) the remainder of the period of the repayment holiday to which the borrower would have been entitled under [Part 3][417] of the Student Loan Scheme Act 1992 if that Act had not been repealed.
     
     (3) The repayment obligation of a borrower to whom subsection (2) applies must be calculated in accordance with [sections 110][144] and [111][145] if the borrower is, at any time, overseas-based after his or her repayment holiday has ended in accordance with that subsection.
     
-    Section 108A: inserted (with effect on 1 April 2012), on 12 April 2012, by [section 30][411] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 108A: inserted (with effect on 1 April 2012), on 12 April 2012, by [section 30][416] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 #### Assessment of overseas-based repayment obligation
 
@@ -3102,7 +3116,7 @@ Repayment obligations of borrowers
     
     (4) The assessment must be made in accordance with this subpart and the loan contract.
     
-    (5) [Section 203][274] applies if there is an inconsistency between this subpart and the loan contract.
+    (5) [Section 203][277] applies if there is an inconsistency between this subpart and the loan contract.
     
     (6) The Commissioner must, as soon as practicable after making an assessment, notify the borrower in writing of---
         
@@ -3114,7 +3128,7 @@ Repayment obligations of borrowers
     
     (7) Subsection (6) does not apply if the amount assessed is zero.
     
-    Compare: 1992 No 141 [s 36B][414]
+    Compare: 1992 No 141 [s 36B][419]
 
 #### Calculation and payment of overseas-based repayment obligation
 
@@ -3170,19 +3184,19 @@ Repayment obligations of borrowers
             
         *   (i) including the amount of the borrower's consolidated loan balance on 31 March in the year prior to year A (the _previous year_); and
         
-        *   (ii) including the amount of any annual administration fee charged under [section 189][255] for the previous year; and
+        *   (ii) including the amount of any annual administration fee charged under [section 189][258] for the previous year; and
         
         *   (iii) subtracting any 10% bonus the borrower is entitled to under [Part 3][155] for an excess repayment for the previous year.
         
         
     
-    Compare: 1992 No 141 [s 34][415]
+    Compare: 1992 No 141 [s 34][420]
     
-    Section 110(1): replaced, on 30 March 2013, by [section 15(1)][416] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 110(1): replaced, on 30 March 2013, by [section 15(1)][421] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 110(6)(a): replaced, on 30 March 2013, by [section 15(2)][416] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 110(6)(a): replaced, on 30 March 2013, by [section 15(2)][421] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 110(6)(b): replaced, on 30 March 2013, by [section 15(2)][416] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 110(6)(b): replaced, on 30 March 2013, by [section 15(2)][421] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 111 Exceptions to repayment obligations of overseas-based borrowers
     
@@ -3194,7 +3208,7 @@ Repayment obligations of borrowers
         
     *   (a) a borrower's liability for an unpaid amount or late payment interest; or
     
-    *   (b) [section 193][259].
+    *   (b) [section 193][262].
     
     (4) This section overrides [section 110][144].
     
@@ -3212,7 +3226,7 @@ Repayment obligations of borrowers
             
         *   (i) including the amount of the borrower's loan balance on 31 March in the year prior to year A (the _previous year_); and
         
-        *   (ii) including the amount of any annual administration fee charged under [section 189][255] for the previous year; and
+        *   (ii) including the amount of any annual administration fee charged under [section 189][258] for the previous year; and
         
         *   (iii) subtracting any 10% bonus the borrower is entitled to under [Part 3][155] for an excess repayment for the previous year; and
         
@@ -3220,11 +3234,11 @@ Repayment obligations of borrowers
         
         
     
-    Compare: 1992 No 141 [ss 14(3)][417], [35][418]
+    Compare: 1992 No 141 [ss 14(3)][422], [35][423]
     
-    Section 111(4): replaced, on 30 March 2013, by [section 16(4)][419] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 111(4): replaced, on 30 March 2013, by [section 16(4)][424] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 111(5): replaced, on 30 March 2013, by [section 16(5)][419] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 111(5): replaced, on 30 March 2013, by [section 16(5)][424] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 112 Repayment to be made by instalments
     
@@ -3244,11 +3258,11 @@ Repayment obligations of borrowers
     
     *   (b) of the dates and the amounts determined by the Commissioner.
     
-    Compare: 1992 No 141 [s 36][420]
+    Compare: 1992 No 141 [s 36][425]
     
-    Section 112(3): replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 17][421] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 112(3): replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 17][426] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 112(4): inserted (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 17][421] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 112(4): inserted (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 17][426] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 113 Consequence of failure to meet repayment obligations
     
@@ -3270,23 +3284,23 @@ Repayment obligations of borrowers
     
     (4) The Commissioner may require the borrower to provide evidence of the borrower's annual gross income and annual total deductions.
     
-    Compare: 1992 No 141 [s 14A][422]
+    Compare: 1992 No 141 [s 14A][427]
     
-    Section 114(3)(a): replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 18][423] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 114(3)(a): replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 18][428] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 114A Extension of time for making notification of worldwide income
     
 *   (1) This section applies if [section 114(2)][149] applies.
     
-    (2) A borrower may apply to the Commissioner for an extension of time for the making of a notification of the borrower's annual gross income and annual total deductions in accordance with [section 37(3) to (5)][405] of the Tax Administration Act 1994, and those subsections apply, as far as applicable and with all necessary modifications, as if---
+    (2) A borrower may apply to the Commissioner for an extension of time for the making of a notification of the borrower's annual gross income and annual total deductions in accordance with [section 37(3) to (5)][409] of the Tax Administration Act 1994, and those subsections apply, as far as applicable and with all necessary modifications, as if---
         
-    *   (a) the reference to ""the due date required under this section"" were a reference to ""the due date required under [section 114(3)][424] of the Student Loan Scheme Act 2011""; and
+    *   (a) the reference to ""the due date required under this section"" were a reference to ""the due date required under [section 114(3)][429] of the Student Loan Scheme Act 2011""; and
     
     *   (b) every reference to a taxpayer were a reference to a borrower; and
     
     *   (c) every reference to a return or a return of income were a reference to a notification of the borrower's annual gross income and annual total deductions.
     
-    Section 114A: inserted (with effect on 1 April 2012), on 12 April 2012, by [section 34][425] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 114A: inserted (with effect on 1 April 2012), on 12 April 2012, by [section 34][430] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 115 Repayment obligations of borrowers who are overseas-based for part of tax year
     
@@ -3302,15 +3316,15 @@ Repayment obligations of borrowers
     
     (2) Subsection (1) applies despite anything to the contrary in this Act, except as provided in [section 115A][152].
     
-    Compare: 1992 No 141 [ss 14(2)][417], [36A][426]
+    Compare: 1992 No 141 [ss 14(2)][422], [36A][431]
     
-    Section 115(1)(a): amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 44][395] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 115(1)(a): amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 44][399] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 115(1)(b): amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 44][395] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 115(1)(b): amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 44][399] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 115(1)(c): replaced (with effect on 1 April 2012), on 12 April 2012, by [section 35][427] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 115(1)(c): replaced (with effect on 1 April 2012), on 12 April 2012, by [section 35][432] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
     
-    Section 115(2): amended, on 30 March 2013, by [section 19][428] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 115(2): amended, on 30 March 2013, by [section 19][433] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 115A Reassessment of borrower's overseas-based repayment obligations in year of return to New Zealand
     
@@ -3342,7 +3356,7 @@ Repayment obligations of borrowers
     
     *   (b) the borrower becomes New Zealand-based from a date that is different from the expected date notified to the Commissioner under subsection (1)(c).
     
-    Section 115A: inserted, on 30 March 2013, by [section 20][429] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 115A: inserted, on 30 March 2013, by [section 20][434] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 116 Overseas-based borrowers who derive salary or wages from New Zealand
     
@@ -3354,7 +3368,7 @@ Repayment obligations of borrowers
     
 *   \[Repealed\]
     
-    Section 117: repealed, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 56][430] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 117: repealed, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 56][435] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ## Part 3  
 Excess repayments
@@ -3363,7 +3377,7 @@ Excess repayments
     
 *   \[Repealed\]
     
-    Section 118: repealed, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 5(1)][431] of the Student Loan Scheme (Budget Measures) Amendment Act 2012 (2012 No 39).
+    Section 118: repealed, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 5(1)][436] of the Student Loan Scheme (Budget Measures) Amendment Act 2012 (2012 No 39).
 
 ##### 119 Meaning of excess repayment
     
@@ -3381,11 +3395,11 @@ Excess repayments
     
     *   (b) disregard a salary or wage deduction or a payment made to the Commissioner that is subsequently refunded; and
     
-    *   (c) treat a borrower's repayment obligation as if any relief granted under [section 147][198] had not been granted; and
+    *   (c) treat a borrower's repayment obligation as if any relief granted under [section 147][199] had not been granted; and
     
     *   (d) disregard any fee refunded by an education provider to the loan manager or the Commissioner.
     
-    Section 119: replaced, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 57][432] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 119: replaced, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 57][437] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 120 Commissioner must notify borrower of excess repayment
     
@@ -3415,9 +3429,9 @@ Excess repayments
     
     (3) Subsection (2) does not apply if the excess repayment is $5 or less.
     
-    Compare: 1992 No 141 [s 58A][433]
+    Compare: 1992 No 141 [s 58A][438]
     
-    Section 120(1): replaced, on 30 March 2013, by [section 21][434] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 120(1): replaced, on 30 March 2013, by [section 21][439] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 121 Options that apply to excess repayments
     
@@ -3433,13 +3447,13 @@ Excess repayments
         
     *   (a) \[Repealed\]
     
-    *   (b) must be refunded by the Commissioner (_see_ [sections 199][268] and [200][269]).
+    *   (b) must be refunded by the Commissioner (_see_ [sections 199][271] and [200][272]).
     
     (3) Subsection (2) overrides [section 131(1)(a)][171].
     
-    Section 121(1)(a): repealed, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 6(1)][435] of the Student Loan Scheme (Budget Measures) Amendment Act 2012 (2012 No 39).
+    Section 121(1)(a): repealed, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 6(1)][440] of the Student Loan Scheme (Budget Measures) Amendment Act 2012 (2012 No 39).
     
-    Section 121(2)(a): repealed, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 6(1)][435] of the Student Loan Scheme (Budget Measures) Amendment Act 2012 (2012 No 39).
+    Section 121(2)(a): repealed, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 6(1)][440] of the Student Loan Scheme (Budget Measures) Amendment Act 2012 (2012 No 39).
 
 ##### 122 Exception to general rule if repayment obligations for prior tax years reassessed
     
@@ -3457,61 +3471,61 @@ Excess repayments
     
     (3) Subsection (2) applies despite anything to the contrary in this Act.
     
-    Compare: 1992 No 141 [s 58][436]
+    Compare: 1992 No 141 [s 58][441]
 
 ### Subpart 1---Excess repayment bonus
 
 \[Repealed\]
     
-*   Subpart 1: repealed, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 7(1)][437] of the Student Loan Scheme (Budget Measures) Amendment Act 2012 (2012 No 39).
+*   Subpart 1: repealed, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 7(1)][442] of the Student Loan Scheme (Budget Measures) Amendment Act 2012 (2012 No 39).
 
 ##### 123 Borrower's entitlement to 10% bonus for excess repayment of $500 or more
     
 *   \[Repealed\]
     
-    Section 123: repealed, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 7(1)][437] of the Student Loan Scheme (Budget Measures) Amendment Act 2012 (2012 No 39).
+    Section 123: repealed, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 7(1)][442] of the Student Loan Scheme (Budget Measures) Amendment Act 2012 (2012 No 39).
 
 ##### 124 Borrower's entitlement to bonus if loan balance is less than $550
     
 *   \[Repealed\]
     
-    Section 124: repealed, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 7(1)][437] of the Student Loan Scheme (Budget Measures) Amendment Act 2012 (2012 No 39).
+    Section 124: repealed, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 7(1)][442] of the Student Loan Scheme (Budget Measures) Amendment Act 2012 (2012 No 39).
 
 ##### 125 Borrower may be entitled to 10% bonus if under-deduction is due to PAYE system
     
 *   \[Repealed\]
     
-    Section 125: repealed (with effect on 1 April 2012), on 12 April 2012, by [section 39][438] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 125: repealed (with effect on 1 April 2012), on 12 April 2012, by [section 39][443] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 126 Time at which 10% bonus is credited
     
 *   \[Repealed\]
     
-    Section 126: repealed, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 7(1)][437] of the Student Loan Scheme (Budget Measures) Amendment Act 2012 (2012 No 39).
+    Section 126: repealed, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 7(1)][442] of the Student Loan Scheme (Budget Measures) Amendment Act 2012 (2012 No 39).
 
 ##### 127 Restriction on amount of 10% bonus
     
 *   \[Repealed\]
     
-    Section 127: repealed, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 7(1)][437] of the Student Loan Scheme (Budget Measures) Amendment Act 2012 (2012 No 39).
+    Section 127: repealed, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 7(1)][442] of the Student Loan Scheme (Budget Measures) Amendment Act 2012 (2012 No 39).
 
 ##### 128 Application of sections 118 to 122 and this subpart to part years
     
 *   \[Repealed\]
     
-    Section 128: repealed, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 7(1)][437] of the Student Loan Scheme (Budget Measures) Amendment Act 2012 (2012 No 39).
+    Section 128: repealed, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 7(1)][442] of the Student Loan Scheme (Budget Measures) Amendment Act 2012 (2012 No 39).
 
 ##### 129 Consequences of refund or credit to next tax year
     
 *   \[Repealed\]
     
-    Section 129: repealed, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 7(1)][437] of the Student Loan Scheme (Budget Measures) Amendment Act 2012 (2012 No 39).
+    Section 129: repealed, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 7(1)][442] of the Student Loan Scheme (Budget Measures) Amendment Act 2012 (2012 No 39).
 
 ##### 130 Commissioner must advise borrowers to seek financial advice
     
 *   \[Repealed\]
     
-    Section 130: repealed, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 7(1)][437] of the Student Loan Scheme (Budget Measures) Amendment Act 2012 (2012 No 39).
+    Section 130: repealed, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 7(1)][442] of the Student Loan Scheme (Budget Measures) Amendment Act 2012 (2012 No 39).
 
 ### Subpart 2---Refund of excess repayments and satisfaction of future repayment obligation
 
@@ -3525,13 +3539,13 @@ Excess repayments
     
     (2) This section overrides [section 132][172].
     
-    Compare: 1992 No 141 [s 51(1)][439]
+    Compare: 1992 No 141 [s 51(1)][444]
 
 ##### 132 Borrower may receive refund or apply excess repayment to future repayment obligations
     
 *   (1) A borrower may choose for the whole or part of an excess repayment to be---
         
-    *   (a) refunded (_see_ [sections 199][268] and [200][269]); or
+    *   (a) refunded (_see_ [sections 199][271] and [200][272]); or
     
     *   (b) used to satisfy a future repayment obligation of the borrower.
     
@@ -3545,9 +3559,9 @@ Excess repayments
     
     (3) A choice made by the borrower to receive a refund of an excess repayment is irrevocable.
     
-    Compare: 1992 No 141 [ss 56][440], [57][441]
+    Compare: 1992 No 141 [ss 56][445], [57][446]
     
-    Section 132(2): replaced, on 30 March 2013, by [section 22][442] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 132(2): replaced, on 30 March 2013, by [section 22][447] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ## Part 4  
 Interest, relief, penalties and offences, rights of objection, and rights to challenge
@@ -3586,9 +3600,9 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
     (3) If a tax year includes an extra day because of a leap year, the reference to 365 in the formula in subsection (2) must be treated as if it were a reference to 366\.
     
-    Section 134(2): amended, on 30 March 2013, by [section 23(1)][443] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 134(2): amended, on 30 March 2013, by [section 23(1)][448] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 134(3): inserted, on 30 March 2013, by [section 23(2)][443] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 134(3): inserted, on 30 March 2013, by [section 23(2)][448] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 135 Loan interest calculated daily and charged and compounded annually
     
@@ -3596,9 +3610,9 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
     (2) Loan interest is charged and added to a borrower's loan balance on the last day of each year or an earlier date determined by the Commissioner, at his or her discretion, that is within the relevant tax year.
     
-    Section 135(1): amended (with effect on 1 April 2012), on 12 April 2012, by [section 41(1)][444] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 135(1): amended (with effect on 1 April 2012), on 12 April 2012, by [section 41(1)][449] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
     
-    Section 135(2): amended (with effect on 1 April 2012), on 12 April 2012, by [section 41(2)][444] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 135(2): amended (with effect on 1 April 2012), on 12 April 2012, by [section 41(2)][449] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 136 Notification that loan interest has compounded
     
@@ -3612,13 +3626,13 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
     (2) The Commissioner may notify a borrower in writing of the borrower's loan balance and loan interest at any other time the Commissioner chooses.
     
-    Compare: 1992 No 141 [s 43(1)][350]
+    Compare: 1992 No 141 [s 43(1)][354]
 
 ##### 137 Full interest write-off for New Zealand-based borrowers
     
 *   The amount of loan interest calculated on a borrower's loan balance must be reduced to zero for each day that the borrower is New Zealand-based.
     
-    Compare: 1992 No 141 [ss 38AA][445], [38AK][446]
+    Compare: 1992 No 141 [ss 38AA][450], [38AK][451]
 
 ##### 138 Loan interest written off for quick repayment of consolidated loan balance
     
@@ -3636,7 +3650,7 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
     *   (b) ending on the day on which the person's consolidated loan balance was fully repaid.
     
-    Compare: 1992 No 141 [s 38AM][447]
+    Compare: 1992 No 141 [s 38AM][452]
 
 #### Late payment interest
 
@@ -3652,19 +3666,19 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
     (3) In this section, _late payment interest rate_ means the base interest rate plus 4%, calculated as an equivalent monthly rate expressed as a percentage and truncated to 3 decimal places.
     
-    Compare: 1992 No 141 [s 44][448]
+    Compare: 1992 No 141 [s 44][453]
     
-    Section 139(2)(a): amended, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 58(1)][449] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 139(2)(a): amended, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 58(1)][454] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 139(2)(b): amended, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 58(1)][449] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 139(2)(b): amended, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 58(1)][454] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 139(3): inserted, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 58(2)][449] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 139(3): inserted, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 58(2)][454] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 140 Notification of late payment interest
     
 *   The Commissioner must, as soon as practicable after charging late payment interest, give the borrower charged with that interest written notice of the amount of that interest.
     
-    Compare: 1992 No 141 [s 45][450]
+    Compare: 1992 No 141 [s 45][455]
 
 ##### 141 Late payment interest reduced if instalment arrangement complied with
     
@@ -3672,13 +3686,27 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
         
     *   (a) a borrower is liable to pay late payment interest on an unpaid amount under [section 139][183]; and
     
-    *   (b) the borrower has entered into an instalment arrangement in relation to the unpaid amount in accordance with [section 154][206].
+    *   (b) the borrower has entered into an instalment arrangement in relation to the unpaid amount in accordance with [section 154][207].
     
     (2) For each month that the borrower meets his or her obligations under the instalment arrangement, any late payment interest that the borrower is liable to pay on the unpaid amount for that month must be calculated as if, in the definition of late payment interest rate in [section 139(3)][183], the reference to base interest rate plus 4% were a reference to base interest rate plus 2%. 
     
     (3) However, subsection (2) applies only to the days in a month during which an instalment arrangement applies.
     
-    Section 141: replaced, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 59][451] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 141: replaced, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 59][456] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+
+##### 141A Late payment interest reduced if deduction or extraction notice applies
+    
+*   (1) This section applies if---
+        
+    *   (a) a borrower is liable to pay late payment interest on an unpaid amount under [section 139][183]; and
+    
+    *   (b) the Commissioner has exercised powers available under [section 157][457] of the Tax Administration Act 1994 to require any person to deduct or extract any amount from any moneys payable by that person to the borrower.
+    
+    (2) For a month during which any unpaid amount remains unpaid and the Commissioner has received tax withheld or deducted in accordance with the requirements of a notice issued under [section 157][457] of the Tax Administration Act 1994 (a _deduction or extraction notice_), any late payment interest that the borrower is liable to pay on the unpaid amount must be calculated as if, in the definition of late payment interest rate in [section 139(3)][183], the reference to base interest rate plus 4% were a reference to base interest rate plus 2%.
+    
+    (3) However, subsection (2) applies only to the days in a month during which a deduction or extraction notice is in effect.
+    
+    Section 141A: inserted (with effect on 1 April 2013), on 8 March 2014, by [section 7][458] of the Student Loan Scheme Amendment Act 2014 (2014 No 6).
 
 #### Matters of general application to interest
 
@@ -3692,17 +3720,17 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
     *   (c) a payment that is made under this Act before its due date.
     
-    Compare: 1992 No 141 [s 42][452]
+    Compare: 1992 No 141 [s 42][459]
 
 ##### 143 Commissioner's power to correct interest when charged in error
     
-*   (1) All amounts of interest charged must be taken to be correct unless a borrower establishes by proceedings under [Part 8A][453] of the Tax Administration Act 1994 that he or she should not have been charged with the amount of interest that was charged.
+*   (1) All amounts of interest charged must be taken to be correct unless a borrower establishes by proceedings under [Part 8A][460] of the Tax Administration Act 1994 that he or she should not have been charged with the amount of interest that was charged.
     
     (2) However, the Commissioner may amend an amount of interest charged if this is necessary to correct an error.
     
     (3) If an amount of interest charged is corrected, the Commissioner must notify the relevant borrower in writing as soon as practicable after the amendment.
     
-    Compare: 1992 No 141 [s 43(2)--(4)][350]
+    Compare: 1992 No 141 [s 43(2)--(4)][354]
 
 ### Subpart 2---Relief
 
@@ -3736,29 +3764,29 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
     (4) This section applies despite anything to the contrary in this Act.
     
-    Compare: 1992 No 141 [ss 51(2)--(5)][439], [51A][454]
+    Compare: 1992 No 141 [ss 51(2)--(5)][444], [51A][461]
     
-    Section 144(1)(b): repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 44][395] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 144(1)(b): repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 44][399] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 144(1)(c): amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 24(1)][455] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 144(1)(c): amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 24(1)][462] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 144(1)(d): repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 44][395] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 144(1)(d): repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 44][399] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 144(2)(a): amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 24(2)][455] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 144(2)(a): amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 24(2)][462] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 144(3)(a): replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 24(3)][455] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 144(3)(a): replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 24(3)][462] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 145 Application for different types of relief for borrower
     
 *   (1) A borrower, or a person on a borrower's behalf, may apply for 1 or more of the following:
         
-    *   (a) relief from late payment interest (_see_ [section 146][194]):
+    *   (a) relief from late payment interest (_see_ [section 146][195]):
     
-    *   (ab) relief from a penalty (_see_ [section 146A][196]):
+    *   (ab) relief from a penalty (_see_ [section 146A][197]):
     
-    *   (b) hardship relief for the current tax year, any prior tax year, or the next tax year (_see_ [section 147][198]):
+    *   (b) hardship relief for the current tax year, any prior tax year, or the next tax year (_see_ [section 147][199]):
     
-    *   (c) financial relief by entry into an instalment arrangement (_see_ [section 154][206]).
+    *   (c) financial relief by entry into an instalment arrangement (_see_ [section 154][207]).
     
     (2) An application under subsection (1)(a) must be made by notifying the Commissioner in a manner acceptable to the Commissioner.
     
@@ -3768,11 +3796,11 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
     *   (b) that relates to hardship relief for the next tax year must be made on or before 31 March in the tax year that immediately precedes the tax year for which relief is sought.
     
-    (4) An application under subsection (1)(c) must be made in accordance with [section 154(1)][206].
+    (4) An application under subsection (1)(c) must be made in accordance with [section 154(1)][207].
     
-    Compare: 1992 No 141 [s 54][456]
+    Compare: 1992 No 141 [s 54][463]
     
-    Section 145(1)(ab): inserted, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 60][457] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 145(1)(ab): inserted, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 60][464] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 #### Relief from late payment interest
 
@@ -3784,7 +3812,7 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
     *   (b) regardless of whether that late payment interest has been paid, either in whole or in part; and
     
-    *   (c) if an application is made under [section 145(1)(a)][192] for relief from late payment interest.
+    *   (c) if an application is made under [section 145(1)(a)][193] for relief from late payment interest.
     
     (2) The Commissioner may, having regard to the circumstances of the case and if the Commissioner considers it equitable to do so, grant relief to the borrower by cancelling as much of the late payment interest as the Commissioner considers equitable.
     
@@ -3802,15 +3830,15 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
         
         
     
-    *   (d) the Commissioner must refund any remaining excess payment to the borrower (_see_ [sections 199][268] and [200][269]).
+    *   (d) the Commissioner must refund any remaining excess payment to the borrower (_see_ [sections 199][271] and [200][272]).
     
-    Compare: 1992 No 141 [s 53][458]
+    Compare: 1992 No 141 [s 53][465]
     
-    Section 146: replaced, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 61][459] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 146: replaced, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 61][466] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 #### Relief from penalties
     
-*   Heading: inserted, on 1 April 2013, by [section 62][460] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+*   Heading: inserted, on 1 April 2013, by [section 62][467] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 146A Commissioner may grant relief from penalties
     
@@ -3820,7 +3848,7 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
     *   (b) regardless of whether that penalty has been paid, either in whole or in part; and
     
-    *   (c) if an application is made under [section 145(1)(ab)][192].
+    *   (c) if an application is made under [section 145(1)(ab)][193].
     
     (2) The Commissioner may, having regard to the circumstances of the case and if the Commissioner considers it equitable to do so, grant relief to the borrower by cancelling as much of the penalty as the Commissioner considers equitable.
     
@@ -3836,15 +3864,15 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
         
         
     
-    *   (b) despite paragraph (a)(iii), does not include a student loan shortfall penalty where, for the purposes of the application of [section 159][214] (as set out in [section 158][213]), the shortfall penalty for which the borrower was liable was imposed under [section 141D][461] or [141E][462] of the Tax Administration Act 1994\.
+    *   (b) despite paragraph (a)(iii), does not include a student loan shortfall penalty where, for the purposes of the application of [section 159][215] (as set out in [section 158][214]), the shortfall penalty for which the borrower was liable was imposed under [section 141D][468] or [141E][469] of the Tax Administration Act 1994\.
     
-    Section 146A: inserted, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 62][460] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 146A: inserted, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 62][467] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 #### Hardship relief
 
 ##### 147 Hardship relief for any tax year
     
-*   (1) If an application is made under [section 145(1)(b)][192] for hardship relief, the Commissioner may, for any period the Commissioner considers equitable, decrease a borrower's repayment obligation if the Commissioner---
+*   (1) If an application is made under [section 145(1)(b)][193] for hardship relief, the Commissioner may, for any period the Commissioner considers equitable, decrease a borrower's repayment obligation if the Commissioner---
         
     *   (a) is satisfied that payment of that repayment obligation is causing, or would cause, serious hardship to the borrower; or
     
@@ -3856,47 +3884,47 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
     *   (b) decrease a repayment obligation if---
             
-        *   (i) a student loan shortfall penalty has been imposed on a borrower under [section 159][214] in relation to the tax year that the repayment obligation relates to; and
+        *   (i) a student loan shortfall penalty has been imposed on a borrower under [section 159][215] in relation to the tax year that the repayment obligation relates to; and
         
-        *   (ii) for the purposes of the application of [section 159][214] (as set out in [section 158][213]), the shortfall penalty for which the borrower was liable was imposed under [section 141D][461] or [141E][462] of the Tax Administration Act 1994\.
+        *   (ii) for the purposes of the application of [section 159][215] (as set out in [section 158][214]), the shortfall penalty for which the borrower was liable was imposed under [section 141D][468] or [141E][469] of the Tax Administration Act 1994\.
         
         
     
-    Compare: 1992 No 141 [ss 55][463], [55A][464], [55B][465]
+    Compare: 1992 No 141 [ss 55][470], [55A][471], [55B][472]
     
-    Section 147(2): replaced, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 63][466] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 147(2): replaced, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 63][473] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 148 Special deduction rate certificate for hardship relief
     
 *   (1) Subsection (2) applies if---
         
-    *   (a) the Commissioner decreases the repayment obligation of a borrower under [section 147][198]; and
+    *   (a) the Commissioner decreases the repayment obligation of a borrower under [section 147][199]; and
     
     *   (b) the borrower derives salary or wages.
     
     (2) The Commissioner may issue a special deduction rate certificate that---
         
-    *   (a) specifies a special deduction rate and the repayment code to be used that reflects the Commissioner's decision under [section 147][198]; and
+    *   (a) specifies a special deduction rate and the repayment code to be used that reflects the Commissioner's decision under [section 147][199]; and
     
     *   (b) specifies the period for which the special deduction rate is to apply to the borrower; and
     
     *   (c) requires the borrower's employer or PAYE intermediary to make deductions from the borrower's salary or wages at the special deduction rate.
     
-    (3) The issue of a special deduction rate certificate may form part of or all of the means by which a borrower's repayment obligation is decreased under s[ection 147][198].
+    (3) The issue of a special deduction rate certificate may form part of or all of the means by which a borrower's repayment obligation is decreased under s[ection 147][199].
     
-    Compare: 1992 No 141 [ss 20A(2)][379], [55B][465]
+    Compare: 1992 No 141 [ss 20A(2)][383], [55B][472]
     
-    Section 148(2)(a): amended (with effect on 1 April 2012), on 12 April 2012, by [section 43][467] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 148(2)(a): amended (with effect on 1 April 2012), on 12 April 2012, by [section 43][474] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 149 Issue and application of special deduction rate certificate
     
-*   (1) If the Commissioner issues a special deduction rate certificate under [section 148][199], the Commissioner must give a copy of the certificate to the borrower.
+*   (1) If the Commissioner issues a special deduction rate certificate under [section 148][200], the Commissioner must give a copy of the certificate to the borrower.
     
-    (2) The special deduction rate certificate revokes all other special deduction rate certificates previously issued in relation to the borrower under [section 45][58] or [148][199].
+    (2) The special deduction rate certificate revokes all other special deduction rate certificates previously issued in relation to the borrower under [section 45][58] or [148][200].
     
-    Compare: 1992 No 141 [s 20A(5), (6)][379]
+    Compare: 1992 No 141 [s 20A(5), (6)][383]
     
-    Section 149(2): amended (with effect on 1 April 2012), on 12 April 2012, by [section 44][468] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 149(2): amended (with effect on 1 April 2012), on 12 April 2012, by [section 44][475] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 150 Time when special deduction rate ceases to apply
     
@@ -3908,11 +3936,11 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
     *   (c) the date on which the borrower notifies the employer otherwise.
     
-    Compare: 1992 No 141 [s 20A(4)][379]
+    Compare: 1992 No 141 [s 20A(4)][383]
 
 ##### 151 Effect of Commissioner's decision under section 147
     
-*   An amount that, as a result of a decision under [section 147][198], the Commissioner refunds to, or does not collect from, a borrower---
+*   An amount that, as a result of a decision under [section 147][199], the Commissioner refunds to, or does not collect from, a borrower---
         
     *   (a) is not written off; and
     
@@ -3920,17 +3948,17 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
     *   (c) is not an unpaid amount.
     
-    Compare: 1992 No 141 [s 55C][469]
+    Compare: 1992 No 141 [s 55C][476]
 
 ##### 152 Borrowers must notify Commissioner of change of circumstances
     
-*   A borrower who applies for hardship relief under [section 145(1)(b)][192] must notify the Commissioner, and provide details, as soon as practicable if there is a change in the borrower's circumstances that---
+*   A borrower who applies for hardship relief under [section 145(1)(b)][193] must notify the Commissioner, and provide details, as soon as practicable if there is a change in the borrower's circumstances that---
         
-    *   (a) means that any information supplied to the Commissioner under [section 145][192] is incorrect or inaccurate; or
+    *   (a) means that any information supplied to the Commissioner under [section 145][193] is incorrect or inaccurate; or
     
-    *   (b) may affect whether or not a borrower would have been, or will continue to be, granted hardship relief under [section 147][198].
+    *   (b) may affect whether or not a borrower would have been, or will continue to be, granted hardship relief under [section 147][199].
     
-    Compare: 1992 No 141 [s 55D(1)][470]
+    Compare: 1992 No 141 [s 55D(1)][477]
 
 ##### 153 Commissioner may review grant of hardship relief
     
@@ -3942,7 +3970,7 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
     *   (b) reinstate all or part of the repayment obligation that would have applied to the borrower if hardship relief had not been granted to the borrower, and require payment of any amount that would have been due during the relevant tax year.
     
-    Compare: 1992 No 141 [s 55D(2), (3)][470]
+    Compare: 1992 No 141 [s 55D(2), (3)][477]
 
 #### Instalment arrangements
 
@@ -3952,15 +3980,15 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
         
     *   (a) may be made at any time in relation to an unpaid amount or an amount that is not yet due; and
     
-    *   (b) must be made in accordance with [section 177(1)(b)][471] of the Tax Administration Act 1994\.
+    *   (b) must be made in accordance with [section 177(1)(b)][478] of the Tax Administration Act 1994\.
     
-    (2) [Sections 177(1)(b)][471] and (3) to (5), [177A][472], [177B][473], and [177CA][474] of the Tax Administration Act 1994 apply to an application under subsection (1) and to an instalment arrangement granted as a result of that application, as far as applicable and with all necessary modifications, as if---
+    (2) [Sections 177(1)(b)][478] and (3) to (5), [177A][479], [177B][480], and [177CA][481] of the Tax Administration Act 1994 apply to an application under subsection (1) and to an instalment arrangement granted as a result of that application, as far as applicable and with all necessary modifications, as if---
         
     *   (a) every reference to a taxpayer included a borrower; and
     
     *   (b) every reference to tax included an unpaid amount.
     
-    Section 154(1)(a): amended, on 30 March 2013, by [section 25][475] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 154(1)(a): amended, on 30 March 2013, by [section 25][482] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ### Subpart 3---Penalties and offences
 
@@ -3988,43 +4016,43 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
     *   (c) above $1,000,000 is $500\.
     
-    (4) A borrower is not liable to pay a late filing penalty under both this section and under [section 139A][476] of the Tax Administration Act 1994 for the same declaration.
+    (4) A borrower is not liable to pay a late filing penalty under both this section and under [section 139A][483] of the Tax Administration Act 1994 for the same declaration.
     
     (5) In this section, _declaration_ means a declaration of adjusted net income.
     
-    Compare: 1994 No 166 [s 139A][476]
+    Compare: 1994 No 166 [s 139A][483]
     
-    Section 155(3): amended (with effect on 1 April 2012), on 12 April 2012, by [section 45(1)][477] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 155(3): amended (with effect on 1 April 2012), on 12 April 2012, by [section 45(1)][484] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
     
-    Section 155(5): replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 26][478] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 155(5): replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 26][485] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 156 Due dates for payment of late filing penalty
     
 *   A borrower who is liable to pay a late filing penalty must pay that penalty on or before the later of the following dates:
         
-    *   (a) the date that is 60 days after the date of the notification or notice given to the borrower under [section 155(1)][479]:
+    *   (a) the date that is 60 days after the date of the notification or notice given to the borrower under [section 155(1)][486]:
     
-    *   (b) if the borrower does not have an extension of time to make a declaration under [section 75][95], the date in column B of the table in Part A of [Schedule 3][334] of the Income Tax Act 2007 that corresponds to the month of the borrower's balance date:
+    *   (b) if the borrower does not have an extension of time to make a declaration under [section 75][95], the date in column B of the table in Part A of [Schedule 3][338] of the Income Tax Act 2007 that corresponds to the month of the borrower's balance date:
     
-    *   (c) if the borrower does have an extension of time to make a declaration under [section 75][95], the date in column F of the table in Part A of [Schedule 3][334] of the Income Tax Act 2007 that corresponds to the month of the borrower's balance date.
+    *   (c) if the borrower does have an extension of time to make a declaration under [section 75][95], the date in column F of the table in Part A of [Schedule 3][338] of the Income Tax Act 2007 that corresponds to the month of the borrower's balance date.
     
-    Compare: 1994 No 166 [s 142][480]
+    Compare: 1994 No 166 [s 142][487]
     
-    Section 156(b): amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 27][481] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 156(b): amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 27][488] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 156(b): amended (with effect on 1 April 2012), on 12 April 2012, by [section 46][482] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 156(b): amended (with effect on 1 April 2012), on 12 April 2012, by [section 46][489] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
     
-    Section 156(c): amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 27][481] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 156(c): amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 27][488] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 156(c): amended (with effect on 1 April 2012), on 12 April 2012, by [section 46][482] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 156(c): amended (with effect on 1 April 2012), on 12 April 2012, by [section 46][489] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 #### Student loan shortfall penalties
 
 ##### 157 Definitions relating to student loan shortfall penalties
     
-*   In this section and [sections 158 to 161][213],---
+*   In this section and [sections 158 to 161][214],---
     
-    _incorrect tax position_ has the meaning given to it in [section 158(b)][213]
+    _incorrect tax position_ has the meaning given to it in [section 158(b)][214]
     
     _repayment obligation shortfall_, for a tax year, means the difference between the effect of---
         
@@ -4032,13 +4060,13 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
     *   (b) the correct tax position on that repayment obligation for the tax year
     
-    _shortfall penalty_ means a penalty imposed under any of [sections 141A to 141E][483] of the Tax Administration Act 1994 for taking an incorrect tax position or for doing or failing to do anything specified or described in those sections.
+    _shortfall penalty_ means a penalty imposed under any of [sections 141A to 141E][490] of the Tax Administration Act 1994 for taking an incorrect tax position or for doing or failing to do anything specified or described in those sections.
     
-    Section 157 **repayment obligation shortfall** paragraph (a): amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 44][395] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 157 **repayment obligation shortfall** paragraph (a): amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 44][399] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 158 Student loan shortfall penalties may be imposed on certain borrowers
     
-*   [Section 159][214] applies to a borrower if---
+*   [Section 159][215] applies to a borrower if---
         
     *   (a) the borrower is liable to pay a shortfall penalty; and
     
@@ -4068,15 +4096,15 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
     **b**
     > 
-    > is the amount of the repayment obligation shortfall (treating any relief granted under [section 147][198] as if it had not been granted)
+    > is the amount of the repayment obligation shortfall (treating any relief granted under [section 147][199] as if it had not been granted)
     
     **c**
     > 
-    > is the final percentage imposed under the [Tax Administration Act 1994][484] for the shortfall penalty after adjustment, if any, under [section 141FB][485], [141G][486], [141H][487], [141I][488], [141J][489], or [141K][490] of the Tax Administration Act 1994, as applicable.
+    > is the final percentage imposed under the [Tax Administration Act 1994][491] for the shortfall penalty after adjustment, if any, under [section 141FB][492], [141G][493], [141H][494], [141I][495], [141J][496], or [141K][497] of the Tax Administration Act 1994, as applicable.
     
-    Compare: 1992 No 141 [s 85][491]
+    Compare: 1992 No 141 [s 85][498]
     
-    Section 159(2) formula item b: replaced, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 64][492] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 159(2) formula item b: replaced, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 64][499] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 160 Notification and payment obligations if Commissioner imposes student loan shortfall penalty
     
@@ -4094,7 +4122,7 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
     (5) The borrower must pay the student loan shortfall penalty on or before the date specified in the notice given under subsection (2).
     
-    Section 160: replaced, on 30 March 2013, by [section 28][493] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 160: replaced, on 30 March 2013, by [section 28][500] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 161 Student loan shortfall penalty reduced or removed to reflect change to shortfall penalty
     
@@ -4104,15 +4132,15 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
     *   (b) as a result, the shortfall penalty is reduced or removed; and
     
-    *   (c) the shortfall penalty was the basis for the Commissioner imposing a student loan shortfall penalty on the borrower under [section 159][214].
+    *   (c) the shortfall penalty was the basis for the Commissioner imposing a student loan shortfall penalty on the borrower under [section 159][215].
     
     (2) The Commissioner must, as appropriate, reduce or remove the borrower's student loan shortfall penalty to reflect the decision that was made in relation to the shortfall penalty.
     
-    Section 161(1)(a): amended, on 30 March 2013, by [section 29][494] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 161(1)(a): amended, on 30 March 2013, by [section 29][501] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 #### Underestimation penalty
     
-*   Heading: inserted, on 1 April 2013, by [section 65][495] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+*   Heading: inserted, on 1 April 2013, by [section 65][502] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 161A Underestimation penalty where interim payments underestimated as at last interim payment date
     
@@ -4148,29 +4176,83 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
     (3) A penalty imposed under this section is payable on or before the borrower's due date for payment of his or her terminal payment under [section 81][102] or [85][106].
     
-    Section 161A: inserted, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 65][495] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 161A: inserted, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 65][502] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 #### Offences
 
 ##### 162 Certain offence provisions in Tax Administration Act 1994 apply to borrowers
     
-*   (1) The sections of the [Tax Administration Act 1994][484] that apply to borrowers and their consolidated loan balances include---
+*   (1) The sections of the [Tax Administration Act 1994][491] that apply to borrowers and their consolidated loan balances include---
         
-    *   (a) [section 143][496] (absolute liability offences):
+    *   (a) [section 143][503] (absolute liability offences):
     
-    *   (b) [section 143A][497] (knowledge offences):
+    *   (b) [section 143A][504] (knowledge offences):
     
-    *   (c) [section 143B][498] (evasion or similar offence):
+    *   (c) [section 143B][505] (evasion or similar offence):
     
-    *   (d) [section 148][499] (aiding or abetting).
+    *   (d) [section 148][506] (aiding or abetting).
     
-    (2) [Sections 149 to 150A][500] of the Tax Administration Act 1994 apply, as far as applicable and with all necessary modifications, for the purposes of the sections listed in subsection (1), as if---
+    (2) [Sections 149 to 150A][507] of the Tax Administration Act 1994 apply, as far as applicable and with all necessary modifications, for the purposes of the sections listed in subsection (1), as if---
         
     *   (a) every reference to a taxpayer were a reference to a borrower; and
     
     *   (b) every reference to income tax were a reference to a repayment obligation.
     
     
+
+##### 162A Offence for default of overseas-based repayment obligation
+    
+*   (1) Every person commits an offence who is in default of his or her overseas-based repayment obligation and who, having been notified by the Commissioner that he or she is in default, knowingly fails, or refuses, by the due date specified in the notification to make reasonable efforts to pay the amount in default or to make arrangements with the Inland Revenue Department to pay the amount in default.
+    
+    (2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $2,000\.
+    
+    Compare: 1994 No 166 [ss 143A][504], [143B][505]
+    
+    Section 162A: inserted, on 8 March 2014, by [section 8][508] of the Student Loan Scheme Amendment Act 2014 (2014 No 6).
+
+##### 162B Arrest of liable person
+    
+*   (1) A District Court Judge or, if a District Court Judge is not available and the case appears to be urgent, a Registrar may, on an application in writing by the Commissioner, issue a warrant for the arrest of a person (the _liable person_) if the Judge or Registrar (as the case may be) is satisfied that the person has committed the offence in [section 162A][222] and is about to leave or attempt to leave New Zealand.
+    
+    (2) The liable person must be brought as soon as possible before a District Court, which, if it is satisfied that the person is about to leave or attempt to leave New Zealand without making reasonable efforts to pay the amount in default or without making arrangements with the Inland Revenue Department to pay the amount in default, may order that the liable person---
+        
+    *   (a) pay the amount in default:
+    
+    *   (b) make arrangements with the Inland Revenue Department to pay the amount in default:
+    
+    *   (c) give such security (including the provision of sureties) for the payment of that liability as the court specifies:
+    
+    *   (d) not leave New Zealand without the written permission of the court:
+    
+    *   (e) surrender to the court, for such period as the court specifies, any travel documents or tickets in the person's possession:
+    
+    *   (f) provide the court, within such period as the court specifies, with any information the court thinks appropriate.
+    
+    (3) To avoid doubt, the court may make an order under subsection (2) even if the Commissioner is able to recover the debt by other means.
+    
+    (4) On making an order under subsection (2)(d) or (e), the court may direct the Registrar to give notice of the order to such departments of State, offices, or persons as the court or the Registrar thinks appropriate.
+    
+    (5) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,000 who---
+        
+    *   (a) is a person against whom an order is in force under subsection (2)(d) or (e); and
+    
+    *   (b) is in default of his or her overseas-based repayment obligation; and
+    
+    *   (c) either---
+            
+        *   (i) leaves New Zealand; or
+        
+        *   (ii) attempts, or does any act with the intent, to leave New Zealand.
+        
+        
+    
+    (6) A person against whom an order under subsection (2) is in force may apply to the court for the discharge of the order, and the court may, if it considers it just or appropriate, discharge the order accordingly.
+    
+    (7) If the court discharges an order made under subsection (2)(e), it must direct the return of any travel documents or tickets surrendered pursuant to the order (unless the court grants a new order under subsection (2)(e) in relation to the same documents).
+    
+    Compare: 1991 No 142 [s 199][509]
+    
+    Section 162B: inserted, on 8 March 2014, by [section 8][508] of the Student Loan Scheme Amendment Act 2014 (2014 No 6).
 
 ##### 163 Offence to prejudice employees because of student loan repayment liability
     
@@ -4190,17 +4272,19 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
     (3) If an employer is convicted of an offence against subsection (1), the Court may order the payment of compensation to the borrower for loss or damage suffered as a result of the offence.
     
-    Compare: 1992 No 141 [s 81][501]
+    Compare: 1992 No 141 [s 81][510]
 
 ##### 164 Proceedings to be commenced by Commissioner
     
-*   A proceeding for an offence against [section 163][221] must be commenced by the filing of a charging document in the name of the Commissioner.
+*   A proceeding for an offence against [section 162A][222] or [163][224] must be commenced by the filing of a charging document in the name of the Commissioner.
     
-    Section 164: replaced, on 1 July 2013, by [section 413][502] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 164: replaced, on 1 July 2013, by [section 413][511] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 164: amended, on 8 March 2014, by [section 9][512] of the Student Loan Scheme Amendment Act 2014 (2014 No 6).
 
 ##### 165 Charging document may charge several offences
     
-*   (1) A charging document may charge the defendant with any number of offences against [section 163][221] if those offences are founded on the same set of facts, or form or are part of a series of offences of the same or similar character.
+*   (1) A charging document may charge the defendant with any number of offences against [section 162A][222] or [163][224] if those offences are founded on the same set of facts, or form or are part of a series of offences of the same or similar character.
     
     (2) If a charging document charges more than 1 offence,---
         
@@ -4208,21 +4292,25 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
     *   (b) all of those charges must be heard together, unless the court, either before or at any time during the hearing, considers it just that any charge should be heard separately and makes an order to that effect.
     
-    Compare: 1992 No 141 [s 83][503]
+    Compare: 1992 No 141 [s 83][513]
     
-    Section 165 heading: amended, on 4 October 2013, by [regulation 3(1)][504] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
+    Section 165 heading: amended, on 4 October 2013, by [regulation 3(1)][514] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
     
-    Section 165(1): amended, on 4 October 2013, by [regulation 3(1)][504] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
+    Section 165(1): amended, on 8 March 2014, by [section 9][512] of the Student Loan Scheme Amendment Act 2014 (2014 No 6).
     
-    Section 165(2): amended, on 1 July 2013, by [section 413][502] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 165(1): amended, on 4 October 2013, by [regulation 3(1)][514] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
     
-    Section 165(2)(a): amended, on 1 July 2013, by [section 413][502] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 165(2): amended, on 1 July 2013, by [section 413][511] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 165(2)(a): amended, on 1 July 2013, by [section 413][511] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 166 Time for filing charging document
     
-*   Despite anything to the contrary in [section 25][505] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against [section 163][221] ends on the date that is 10 years after the end of the year in which the offence was committed.
+*   Despite anything to the contrary in [section 25][515] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against [section 162A][222] or [163][224] ends on the date that is 10 years after the end of the year in which the offence was committed.
     
-    Section 166: replaced, on 1 July 2013, by [section 413][502] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 166: replaced, on 1 July 2013, by [section 413][511] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 166: amended, on 8 March 2014, by [section 9][512] of the Student Loan Scheme Amendment Act 2014 (2014 No 6).
 
 ### Subpart 4---Borrower's right to object to loan manager about details of loan advances
 
@@ -4236,7 +4324,7 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
         
     *   (a) state the reasons for the objection; and
     
-    *   (b) be made by notifying the loan manager in writing (_see_ [section 212][285]); and
+    *   (b) be made by notifying the loan manager in writing (_see_ [section 212][288]); and
     
     *   (c) include a copy of the notification given to the borrower; and
     
@@ -4244,11 +4332,11 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
     (4) However, the loan manager may extend the time allowed under subsection (3)(d).
     
-    Compare: 1992 No 141 [ss 6][506], [10][507]
+    Compare: 1992 No 141 [ss 6][516], [10][517]
 
 ##### 168 Loan manager must consider objections
     
-*   (1) The loan manager must consider all objections made in accordance with [section 167][226].
+*   (1) The loan manager must consider all objections made in accordance with [section 167][229].
     
     (2) The loan manager must, as soon as practicable,---
         
@@ -4256,21 +4344,21 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
     *   (b) notify the Commissioner (in the manner determined by the Commissioner and the loan manager) of the loan manager's decision in respect of the objection.
     
-    Compare: 1992 No 141 [s 7][508]
+    Compare: 1992 No 141 [s 7][518]
 
 ##### 169 Power to require objection to be determined by chief executive
     
-*   (1) If an objection under [section 167][226] is not wholly allowed by the loan manager, the objector may, by formally notifying the chief executive, require that the objection be determined by the chief executive.
+*   (1) If an objection under [section 167][229] is not wholly allowed by the loan manager, the objector may, by formally notifying the chief executive, require that the objection be determined by the chief executive.
     
-    (2) A notification under subsection (1) must be given within 21 days after the date on which the loan manager notifies the objector of the decision under section [168(2)(a)][227].
+    (2) A notification under subsection (1) must be given within 21 days after the date on which the loan manager notifies the objector of the decision under section [168(2)(a)][230].
     
     (3) However, the chief executive may extend the time allowed under subsection (2).
     
-    Compare: 1992 No 141 [ss 8][509], [10][507]
+    Compare: 1992 No 141 [ss 8][519], [10][517]
 
 ##### 170 Chief executive must consider objections required to be determined by chief executive
     
-*   (1) The chief executive must consider all objections that the chief executive is required to determine under [section 169][228].
+*   (1) The chief executive must consider all objections that the chief executive is required to determine under [section 169][231].
     
     (2) The chief executive must, as soon as practicable,---
         
@@ -4280,13 +4368,13 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
     (3) The loan manager must, as soon as practicable, notify the Commissioner (in the manner determined by the Commissioner and the loan manager) of the chief executive's decision in respect of the objection.
     
-    Compare: 1992 No 141 [s 9][510]
+    Compare: 1992 No 141 [s 9][520]
 
 ##### 171 Right to apply to Disputes Tribunal or District Court
     
-*   (1) Subsection (2) applies if an objection under [section 167][226] that the chief executive is required to determine under [section 169][228] is not wholly allowed by the chief executive.
+*   (1) Subsection (2) applies if an objection under [section 167][229] that the chief executive is required to determine under [section 169][231] is not wholly allowed by the chief executive.
     
-    (2) The objector may, within 30 days after the date on which the chief executive notifies the objector of the decision under [section 170(2)(a)][229], either---
+    (2) The objector may, within 30 days after the date on which the chief executive notifies the objector of the decision under [section 170(2)(a)][232], either---
         
     *   (a) apply to a Disputes Tribunal for determination of the dispute if the amount in dispute is within the financial jurisdiction of the Disputes Tribunal; or
     
@@ -4294,19 +4382,19 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
     (3) A Referee of a Disputes Tribunal or a District Court Judge, as applicable, may extend the time allowed under subsection (2) for applying to a Disputes Tribunal or District Court.
     
-    (4) No objection to which [section 167][226] or [169][228] applies may be heard and determined by a Disputes Tribunal or a District Court.
+    (4) No objection to which [section 167][229] or [169][231] applies may be heard and determined by a Disputes Tribunal or a District Court.
     
     (5) Subsection (4) applies---
         
-    *   (a) despite anything in the [Disputes Tribunals Act 1988][511] or the [District Courts Act 1947][512]; but
+    *   (a) despite anything in the [Disputes Tribunals Act 1988][521] or the [District Courts Act 1947][522]; but
     
     *   (b) subject to subsections (1) and (2).
     
-    Compare: 1992 No 141 [s 11][513]
+    Compare: 1992 No 141 [s 11][523]
 
 ##### 172 Notification of Disputes Tribunal's or District Court's decision about objection
     
-*   The loan manager must, as soon as practicable, notify the Commissioner (in the manner determined by the Commissioner and the loan manager) of a Disputes Tribunal's or District Court's decision in respect of an objection under [section 171][230].
+*   The loan manager must, as soon as practicable, notify the Commissioner (in the manner determined by the Commissioner and the loan manager) of a Disputes Tribunal's or District Court's decision in respect of an objection under [section 171][233].
 
 ### Subpart 5---Dispute procedures and rights to challenge
 
@@ -4314,27 +4402,27 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
 
 ##### 173 Part 4A of Tax Administration Act 1994 applies to disputes under this Act
     
-*   (1) The procedures in [Part 4A][514] of the Tax Administration Act 1994 apply, with all necessary modifications, to a dispute between a person and the Commissioner under this Act.
+*   (1) The procedures in [Part 4A][524] of the Tax Administration Act 1994 apply, with all necessary modifications, to a dispute between a person and the Commissioner under this Act.
     
-    (2) However, subsection (1) does not apply to an objection to the details of a loan advance made or charged to a borrower (_see_ [section 167][226]).
+    (2) However, subsection (1) does not apply to an objection to the details of a loan advance made or charged to a borrower (_see_ [section 167][229]).
     
-    Compare: 1992 No 141 [s 69A][515]
+    Compare: 1992 No 141 [s 69A][525]
 
 #### Rights to challenge and challenge procedures
     
-*   Heading: replaced, on 30 March 2013, by [section 30][516] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+*   Heading: replaced, on 30 March 2013, by [section 30][526] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 174 Dispute process must be completed before challenge is made
     
-*   A person may challenge a matter under this subpart only after the dispute process applied by [section 173][234] has been concluded in relation to that matter.
+*   A person may challenge a matter under this subpart only after the dispute process applied by [section 173][237] has been concluded in relation to that matter.
     
-    Compare: 1992 No 141 [s 69A][515]
+    Compare: 1992 No 141 [s 69A][525]
 
 ##### 174A Part 8A of Tax Administration Act 1994 applies to challenges under this Act
     
-*   The procedures under [Part 8A][453] of the Tax Administration Act 1994 apply, with all necessary modifications, to a challenge of a matter under this Act.
+*   The procedures under [Part 8A][460] of the Tax Administration Act 1994 apply, with all necessary modifications, to a challenge of a matter under this Act.
     
-    Section 174A: inserted, on 30 March 2013, by [section 31][517] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 174A: inserted, on 30 March 2013, by [section 31][527] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 175 Challenge to details of consolidated loan balance
     
@@ -4346,7 +4434,7 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
         
     *   (a) not to treat the borrower as being physically in New Zealand under [section 25(1)][32] on the ground that that decision is not fair and reasonable:
     
-    *   (b) that a condition in any of [clauses 2 to 10 ][358]of Schedule 1 is not satisfied by the borrower on the ground that that decision is erroneous:
+    *   (b) that a condition in any of [clauses 2 to 10 ][362]of Schedule 1 is not satisfied by the borrower on the ground that that decision is erroneous:
     
     *   (c) concerning the start and end dates for the period for which the borrower is treated as being physically in New Zealand under [section 27(b)(i)][34] on the ground that those dates are---
             
@@ -4364,7 +4452,7 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
         
         
     
-    Compare: 1992 No 141 [s 65A][518]
+    Compare: 1992 No 141 [s 65A][528]
 
 ##### 177 Challenge to special deduction rate certificate for unused repayment threshold
     
@@ -4380,7 +4468,7 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
 *   An employer or PAYE intermediary who is required to make a salary or wage deduction may, on the ground that the determination is erroneous, challenge a determination made under [section 62(2)][79].
     
-    Compare: 1992 No 141 [s 67][519]
+    Compare: 1992 No 141 [s 67][529]
 
 ##### 180 Challenge to decision regarding significant over-deduction
     
@@ -4400,13 +4488,13 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
     
 *   A borrower whose repayment obligation has been assessed under [section 51][66], [76][95], [89][113], or [109][142] may, on the ground that the assessment is erroneous or excessive or has been issued in error, challenge the assessment.
     
-    Compare: 1992 No 141 [s 64][520]
+    Compare: 1992 No 141 [s 64][530]
 
 ##### 182A Challenge to decision concerning repayment holiday
     
-*   A borrower may challenge a decision by the Commissioner under [section 107B][521] not to grant the borrower a repayment holiday, on the ground that the decision is not fair and reasonable.
+*   A borrower may challenge a decision by the Commissioner under [section 107B][531] not to grant the borrower a repayment holiday, on the ground that the decision is not fair and reasonable.
     
-    Section 182A: inserted, on 30 March 2013, by [section 32][522] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 182A: inserted, on 30 March 2013, by [section 32][532] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 183 Challenge to interest charged
     
@@ -4418,49 +4506,49 @@ Interest, relief, penalties and offences, rights of objection, and rights to cha
         
     *   (a) this Act; or
     
-    *   (b) [Parts 4A][514] and [8A][453] of the Tax Administration Act 1994; or
+    *   (b) [Parts 4A][524] and [8A][460] of the Tax Administration Act 1994; or
     
     *   (c) a loan contract.
     
-    Compare: 1992 No 141 [ss 65][523], [65A(e)][518], (f), [69B][524]
+    Compare: 1992 No 141 [ss 65][533], [65A(e)][528], (f), [69B][534]
 
 ##### 184 Challenge to decision concerning relief
     
 *   (1) A borrower may challenge a decision by the Commissioner, on the ground that the decision is not fair and reasonable, not to grant the borrower---
         
-    *   (a) relief from late payment interest under [section 146][194]:
+    *   (a) relief from late payment interest under [section 146][195]:
     
-    *   (b) hardship relief under [section 147][198]:
+    *   (b) hardship relief under [section 147][199]:
     
-    *   (c) entry into an instalment arrangement under [section 154][206].
+    *   (c) entry into an instalment arrangement under [section 154][207].
     
-    (2) A borrower may challenge the relief provided to the borrower under [section 146][194], [147][198], or [154][206] on the ground that the relief is not fair and reasonable.
+    (2) A borrower may challenge the relief provided to the borrower under [section 146][195], [147][199], or [154][207] on the ground that the relief is not fair and reasonable.
     
-    Compare: 1992 No 141 [s 66B][525]
+    Compare: 1992 No 141 [s 66B][535]
 
 ##### 185 Challenge to late filing penalty
     
 *   A borrower who is charged with a late filing penalty may challenge the penalty on the ground that it was imposed on the borrower in error.
     
-    Compare: 1992 No 141 [s 66][526]
+    Compare: 1992 No 141 [s 66][536]
 
 ##### 186 Challenge to student loan shortfall penalty
     
 *   A borrower who has a student loan shortfall penalty imposed on him or her may challenge the student loan shortfall penalty on the ground that it was imposed on the borrower in error.
     
-    Compare: 1992 No 141 [s 68][527]
+    Compare: 1992 No 141 [s 68][537]
 
 ##### 187 Person who may make challenge
     
 *   A challenge under this subpart may be made only by or on behalf of the person to whom the information, assessment, notice, decision, or matter relates.
     
-    Compare: 1992 No 141 [s 69][528]
+    Compare: 1992 No 141 [s 69][538]
 
 ##### 188 Commissioner's decision on challenges
     
 *   \[Repealed\]
     
-    Section 188: repealed, on 30 March 2013, by [section 33][529] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 188: repealed, on 30 March 2013, by [section 33][539] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ## Part 5  
 Matters of general application and miscellaneous matters
@@ -4477,7 +4565,7 @@ Matters of general application and miscellaneous matters
     
     (2) However, no annual administration fee may be charged to a borrower for a tax year if that borrower is charged with a student loan establishment fee under section 14 in that tax year.
     
-    Section 189(1): amended (with effect on 1 April 2012), on 12 April 2012, by [section 47][530] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 189(1): amended (with effect on 1 April 2012), on 12 April 2012, by [section 47][540] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 190 Tax year other than 12 months due to change in balance date
     
@@ -4507,11 +4595,11 @@ Matters of general application and miscellaneous matters
     > 
     > is the number of days in the period.
     
-    Compare: 1992 No 141 [s 61][531]
+    Compare: 1992 No 141 [s 61][541]
     
-    Section 190(1)(a): replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 44][395] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 190(1)(a): replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 44][399] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 190(2): amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 44][395] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 190(2): amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 44][399] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 191 Limit on repayment obligation for pay period or tax year
     
@@ -4525,35 +4613,35 @@ Matters of general application and miscellaneous matters
     
     (4) This section applies despite anything to the contrary in this Act.
     
-    Compare: 1992 No 141 [s 14(3)][417]
+    Compare: 1992 No 141 [s 14(3)][422]
     
-    Section 191(1): amended, on 30 March 2013, by [section 34(1)][532] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 191(1): amended, on 30 March 2013, by [section 34(1)][542] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 191(2): replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 44][395] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 191(2): replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 44][399] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 191(3A): inserted (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 34(2)][532] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 191(3A): inserted (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 34(2)][542] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 192 Payment date not otherwise specified
     
 *   If this Act does not specify a date by which an amount payable under this Act is payable, the amount is due and payable 30 days after the date on which the borrower is notified in writing that the amount is due and payable.
     
-    Compare: 1992 No 141 [s 47][533]
+    Compare: 1992 No 141 [s 47][543]
 
 ##### 193 Recovery of unpaid amount
     
 *   (1) An unpaid amount is recoverable as a debt due to the Crown.
     
-    (2) [Sections 156 to 165][534] of the Tax Administration Act 1994, as far as they are applicable and with all necessary modifications, apply for the purposes of this Act, as if---
+    (2) [Sections 156 to 165][544] of the Tax Administration Act 1994, as far as they are applicable and with all necessary modifications, apply for the purposes of this Act, as if---
         
     *   (a) every reference in those provisions to income tax or tax were a reference to an unpaid amount; and
     
     *   (b) every reference in those provisions to a taxpayer or a person were a reference to a borrower; and
     
-    *   (c) the reference to an assessment in [section 162][535] of the Tax Administration Act 1994 were a reference to an assessment made under [Part 2][38] of this Act; and
+    *   (c) the reference to an assessment in [section 162][545] of the Tax Administration Act 1994 were a reference to an assessment made under [Part 2][38] of this Act; and
     
-    *   (d) every reference to ""this Act"" in [sections 164][536] and [165][537] of the Tax Administration Act 1994 were a reference to the Student Loan Scheme Act 2011\.
+    *   (d) every reference to ""this Act"" in [sections 164][546] and [165][547] of the Tax Administration Act 1994 were a reference to the Student Loan Scheme Act 2011\.
     
-    Compare: 1992 No 141 [s 46][538]
+    Compare: 1992 No 141 [s 46][548]
 
 ##### 193A Contact person may be requested to assist
     
@@ -4565,7 +4653,7 @@ Matters of general application and miscellaneous matters
     
     *   (b) to ask the borrower to notify the Commissioner of the borrower's current address details.
     
-    (3) In subsection (2), _address details_, in relation to a borrower, means---
+    (3) In this section and [section 193C][265], _address details_, in relation to a borrower, means---
         
     *   (a) all postal addresses for the borrower; and
     
@@ -4581,13 +4669,15 @@ Matters of general application and miscellaneous matters
     
     *   (b) may use any information obtained from a request under this section only for the purposes of this Act.
     
-    (6) In this section and [section 193B][261], _contact person_, in relation to a borrower, means---
+    (6) In this section and [section 193B][264], _contact person_, in relation to a borrower, means---
         
     *   (a) an individual whose name has been notified under [section 16A][21] in relation to the borrower; or
     
-    *   (b) an individual nominated by the borrower under [section 107A][137] or [193B][261].
+    *   (b) an individual nominated by the borrower under [section 107A][137] or [193B][264].
     
-    Section 193A: inserted (with effect on 1 April 2012), on 12 April 2012, by [section 48][539] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 193A: inserted (with effect on 1 April 2012), on 12 April 2012, by [section 48][549] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    
+    Section 193A(3): amended, on 8 March 2014, by [section 10][550] of the Student Loan Scheme Amendment Act 2014 (2014 No 6).
 
 ##### 193B Changes relating to identity and details of contact person
     
@@ -4595,13 +4685,17 @@ Matters of general application and miscellaneous matters
     
     (2) If there is a change in any of the details of a borrower's contact person, the borrower must promptly notify the Commissioner of the changed details.
     
-    Section 193B: inserted (with effect on 1 April 2012), on 12 April 2012, by [section 48][539] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 193B: inserted (with effect on 1 April 2012), on 12 April 2012, by [section 48][549] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 193C Changes relating to contact details of borrower
     
-*   If there is a change in any of the borrower's contact details, the borrower must promptly notify the Commissioner of the changed details.
+*   (1) If there is a change in any of the borrower's contact details, the borrower must promptly notify the Commissioner of the changed details.
     
-    Section 193C: inserted, on 30 March 2013, by [section 35][540] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    (2) For the purpose of verifying the borrower's address details, the Commissioner may receive the borrower's address details from any other person if the information is shared in accordance with any other provision of this Act or any other enactment.
+    
+    Section 193C: inserted, on 30 March 2013, by [section 35][551] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    
+    Section 193C(2): inserted, on 8 March 2014, by [section 11][552] of the Student Loan Scheme Amendment Act 2014 (2014 No 6).
 
 ##### 194 Order in which salary or wage deductions and payments offset against borrower's consolidated loan balance
     
@@ -4617,9 +4711,9 @@ Matters of general application and miscellaneous matters
     
     *   (b) a Commissioner deduction for the purposes of [section 49(1)(a)][63] that does not exceed the total amount specified under section 49(2)(b).
     
-    Compare: 1992 No 141 [s 50][541]
+    Compare: 1992 No 141 [s 50][553]
     
-    Section 194(2): inserted, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 66][542] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 194(2): inserted, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 66][554] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 195 Date on which salary or wage deductions and payments treated as being made and credited
     
@@ -4627,7 +4721,7 @@ Matters of general application and miscellaneous matters
     
     (2) A payment is made to the Commissioner on the date it is received by the Commissioner.
     
-    (3) For the purposes of calculating late payment interest, determining whether an annual administration fee is payable, and determining whether a borrower's consolidated loan balance is less than $20 for the purposes of [section 197][266],---
+    (3) For the purposes of calculating late payment interest, determining whether an annual administration fee is payable, and determining whether a borrower's consolidated loan balance is less than $20 for the purposes of [section 197][269],---
         
     *   (a) a salary or wage deduction is credited on the 15th day of the month in which the deduction is made; and
     
@@ -4647,13 +4741,13 @@ Matters of general application and miscellaneous matters
     
     *   (c) a payment made by an overseas-based borrower (excluding a salary or wage deduction) is credited on the date it is received by the Commissioner.
     
-    Compare: 1992 No 141 [ss 48][543], [49][544]
+    Compare: 1992 No 141 [ss 48][555], [49][556]
     
-    Section 195(3): amended (with effect on 1 April 2012), on 12 April 2012, by [section 49(1)][545] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 195(3): amended (with effect on 1 April 2012), on 12 April 2012, by [section 49(1)][557] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
     
-    Section 195(3A): inserted (with effect on 1 April 2012), on 12 April 2012, by [section 49(2)][545] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 195(3A): inserted (with effect on 1 April 2012), on 12 April 2012, by [section 49(2)][557] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
     
-    Section 195(4)(b): amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 44][395] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 195(4)(b): amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 44][399] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 196 Cancellation of interest if consolidated loan balance repaid early
     
@@ -4665,17 +4759,17 @@ Matters of general application and miscellaneous matters
     
     (2) The Commissioner must cancel any loan interest that is calculated and accrued between the date of the notification and the date on which the payment is received.
     
-    (3) A notification provided on or after 2 March 2012 under [section 60A(1)][546] of the Student Loan Scheme Act 1992 is treated as being a notification under subsection (1).
+    (3) A notification provided on or after 2 March 2012 under [section 60A(1)][558] of the Student Loan Scheme Act 1992 is treated as being a notification under subsection (1).
     
     (4) \[Repealed\]
     
-    Compare: 1992 No 141 [s 60A][546]
+    Compare: 1992 No 141 [s 60A][558]
     
-    Section 196(1)(a): amended, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 67(1)][547] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 196(1)(a): amended, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 67(1)][559] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 196(2): replaced (with effect on 1 April 2012), on 12 April 2012, by [section 50][548] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Section 196(2): replaced (with effect on 1 April 2012), on 12 April 2012, by [section 50][560] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
     
-    Section 196(4): repealed, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 67(2)][547] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 196(4): repealed, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 67(2)][559] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 197 Write-off of consolidated loan balance
     
@@ -4697,9 +4791,9 @@ Matters of general application and miscellaneous matters
     
     (7) Subsection (6) applies despite anything to the contrary.
     
-    Compare: 1992 No 141 [s 60][549]
+    Compare: 1992 No 141 [s 60][561]
     
-    Section 197: replaced, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 68][550] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 197: replaced, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 68][562] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 198 Commissioner may remedy incorrect application of Act
     
@@ -4713,15 +4807,15 @@ Matters of general application and miscellaneous matters
 
 ##### 199 Manner of making refunds
     
-*   A refund that is made under this Act must be made in the manner required under [section 184A][551] of the Tax Administration Act 1994\.
+*   A refund that is made under this Act must be made in the manner required under [section 184A][563] of the Tax Administration Act 1994\.
     
-    Compare: 1992 No 141 [ss 55A(3)][464], [56(2B)][440], [57(2A)][441], [58A(3)][433]
+    Compare: 1992 No 141 [ss 55A(3)][471], [56(2B)][445], [57(2A)][446], [58A(3)][438]
 
 ##### 200 Appropriation of refunds
     
 *   A refund that is made under this Act may be made without further appropriation than this section.
     
-    Compare: 1992 No 141 [s 59][552]
+    Compare: 1992 No 141 [s 59][564]
 
 ##### 201 Loan advances and other information may be altered
     
@@ -4729,21 +4823,21 @@ Matters of general application and miscellaneous matters
         
     *   (a) alter the details of a loan advance provided or made available to a borrower under [section 19][24] in accordance with the decision of---
             
-        *   (i) the loan manager under [section 168][227]; or
+        *   (i) the loan manager under [section 168][230]; or
         
-        *   (ii) the chief executive under [section 170][229]; or
+        *   (ii) the chief executive under [section 170][232]; or
         
-        *   (iii) a Referee of a Disputes Tribunal or a District Court Judge, as applicable, under [section 171][230]; or
+        *   (iii) a Referee of a Disputes Tribunal or a District Court Judge, as applicable, under [section 171][233]; or
         
         
     
-    *   (b) alter any information (other than the details of a loan advance made or charged to the borrower) provided or made available to a borrower under [section 19][24] in accordance with a decision of the Commissioner under [subpart 5 of Part 4][232].
+    *   (b) alter any information (other than the details of a loan advance made or charged to the borrower) provided or made available to a borrower under [section 19][24] in accordance with a decision of the Commissioner under [subpart 5 of Part 4][235].
     
-    Compare: 1992 No 141 [s 7(1)][508]
+    Compare: 1992 No 141 [s 7(1)][518]
 
 ##### 202 Provisions of Tax Administration Act 1994 and Income Tax Act 2007 to apply to this Act
     
-*   [Sections 21][553], [24B][371], [24F][369], [24H][554], [33][324], [34][555], [35][556], [36 to 39][557], [42 to 44][558], [79][559], [80][560], [92][561], [92A][562], [106 to 108][403], [108B to 111][563], [113][564], and [114][565] of the Tax Administration Act 1994 and [sections LC 10][566], [RM 2][567], and [RM 4][568], and paragraph (b) of the definition of basic tax rate in [section YA 1][318] of the Income Tax Act 2007 apply, as far as applicable and with all necessary modifications, for the purposes of this Act as if---
+*   [Sections 21][565], [24B][375], [24F][373], [24H][566], [33][327], [34][567], [35][568], [36 to 39][569], [42 to 44][570], [79][571], [80][572], [92][573], [92A][574], [106 to 108][407], [108B to 111][575], [113][576], and [114][577] of the Tax Administration Act 1994 and [sections LC 10][578], [RM 2][579], and [RM 4][580], and paragraph (b) of the definition of basic tax rate in [section YA 1][321] of the Income Tax Act 2007 apply, as far as applicable and with all necessary modifications, for the purposes of this Act as if---
         
     *   (a) every reference to a taxpayer or a person were a reference to a borrower; and
     
@@ -4753,11 +4847,11 @@ Matters of general application and miscellaneous matters
     
     *   (d) every reference to a return were a reference to, as applicable, a declaration of adjusted net income or a notification of a borrower's annual gross income and annual total deductions under [section 114][149].
     
-    Compare: 1992 No 141 [s 16][569]
+    Compare: 1992 No 141 [s 16][581]
     
-    Section 202: amended (with effect on 1 April 2013), on 17 July 2013, by [section 148][570] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
+    Section 202: amended (with effect on 1 April 2013), on 17 July 2013, by [section 148][582] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
-    Section 202(d): amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 44][395] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 202(d): amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 44][399] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ### Subpart 2---Miscellaneous matters
 
@@ -4771,7 +4865,7 @@ Matters of general application and miscellaneous matters
     
     (3) If a loan contract cannot be interpreted in a manner that is consistent with this Act, then this Act prevails over the terms of the loan contract.
     
-    Compare: 1992 No 141 [s 63][366]
+    Compare: 1992 No 141 [s 63][370]
 
 ##### 204 Commissioner may exercise rights in loan contracts to recall loans
     
@@ -4783,17 +4877,17 @@ Matters of general application and miscellaneous matters
         
     *   (a) whether or not the Commissioner is the lender under the loan contract or a person on whom the loan contract confers the right or power; and
     
-    *   (b) despite [section 203][274] or anything in the loan contract or any other Act; and
+    *   (b) despite [section 203][277] or anything in the loan contract or any other Act; and
     
     *   (c) whether the loan contract was signed before, on, or after the date on which this section comes into force.
     
-    Section 204(3)(c): amended, on 30 March 2013, by [section 36][571] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 204(3)(c): amended, on 30 March 2013, by [section 36][583] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 205 Loan contract enforceable against minor
     
-*   A loan contract entered into by a borrower (whether before or after the commencement of this section) who is under 18 years of age must be treated, for the purposes of the [Minors' Contracts Act 1969][572], as if the borrower were aged 18 years.
+*   A loan contract entered into by a borrower (whether before or after the commencement of this section) who is under 18 years of age must be treated, for the purposes of the [Minors' Contracts Act 1969][584], as if the borrower were aged 18 years.
     
-    Compare: 1992 No 141 [s 63A][573]
+    Compare: 1992 No 141 [s 63A][585]
 
 ##### 206 Student loan contracts are not credit contracts
     
@@ -4801,9 +4895,9 @@ Matters of general application and miscellaneous matters
         
     *   (a) a credit contract for the purposes of the Credit Contracts Act 1981:
     
-    *   (b) a credit contract or a consumer credit contract for the purposes of the [Credit Contracts and Consumer Finance Act 2003][574].
+    *   (b) a credit contract or a consumer credit contract for the purposes of the [Credit Contracts and Consumer Finance Act 2003][586].
     
-    (2) No cause of action exists under the Credit Contracts Act 1981 or the [Credit Contracts and Consumer Finance Act 2003][574] in relation to a loan contract.
+    (2) No cause of action exists under the Credit Contracts Act 1981 or the [Credit Contracts and Consumer Finance Act 2003][586] in relation to a loan contract.
     
     (3) This section applies---
         
@@ -4822,6 +4916,8 @@ Matters of general application and miscellaneous matters
     *   (a) an authorised person from disclosing to another authorised person information required for the purpose of enabling the Commissioner to confirm the identity of a person who applies for a student loan; or
     
     *   (b) an authorised person from disclosing to another authorised person information required for the purpose of enabling the Commissioner to correctly identify a borrower who has received or been charged with a loan advance; or
+    
+    *   (ba) an authorised person from disclosing to another authorised person any information for the purpose of verifying any declaration made by an applicant for a student loan as to any unpaid amounts owed by the applicant where the declaration is a condition of obtaining the loan; or
     
     *   (c) the Commissioner from disclosing to the chief executive information that is necessary to investigate circumstances in which an authorised person considers---
             
@@ -4863,9 +4959,11 @@ Matters of general application and miscellaneous matters
     
     *   (e) the loan manager, or an employee of the loan manager who is authorised by the chief executive to disclose and receive information under this section
     
-    _specified department_ means the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the [Social Security Act 1964][317].
+    _specified department_ means the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the [Social Security Act 1964][320].
     
-    Compare: 1992 No 141 [s 62][575]
+    Compare: 1992 No 141 [s 62][587]
+    
+    Section 207(1)(ba): inserted, on 8 March 2014, by [section 12][588] of the Student Loan Scheme Amendment Act 2014 (2014 No 6).
 
 ##### 208 Disclosure of information between Inland Revenue Department and New Zealand Customs Service for information-matching purposes
     
@@ -4875,7 +4973,7 @@ Matters of general application and miscellaneous matters
     
     *   (b) verify whether borrowers are New Zealand residents; and
     
-    *   (c) locate, when they enter or leave New Zealand, borrowers who are in **serious default** (within the meaning of [section 280G][576] of the Customs and Excise Act 1996) in relation to student loans.
+    *   (c) locate, when they enter or leave New Zealand, borrowers who are in **serious default** (within the meaning of [section 280G][589] of the Customs and Excise Act 1996) in relation to student loans.
     
     (2) For the purpose of this section, the Commissioner may provide to the chief executive of the New Zealand Customs Service any of the following information that is held by the Inland Revenue Department:
         
@@ -4895,15 +4993,15 @@ Matters of general application and miscellaneous matters
     
     (4) Subsection (2) applies despite any obligation as to secrecy or other restriction imposed by any enactment or otherwise on the disclosure of information.
     
-    Compare: 1992 No 141 [s 62A][577]
+    Compare: 1992 No 141 [s 62A][590]
     
-    Section 208(1): replaced, on 30 March 2013, by [section 37][578] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 208(1): replaced, on 30 March 2013, by [section 37][591] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 209 Power of Commissioner to access arrival or departure information
     
-*   In accordance with, and for the purpose set out in, [section 280I][579] of the Customs and Excise Act 1996, the Commissioner may access any information-recording system used by the New Zealand Customs Service to store arrival or departure information.
+*   In accordance with, and for the purpose set out in, [section 280I][592] of the Customs and Excise Act 1996, the Commissioner may access any information-recording system used by the New Zealand Customs Service to store arrival or departure information.
     
-    Compare: 1992 No 141 [s 62B][580]
+    Compare: 1992 No 141 [s 62B][593]
 
 #### Informing and notifying under this Act
 
@@ -4933,7 +5031,7 @@ Matters of general application and miscellaneous matters
     
     *   (c) made orally in person in a manner acceptable to the Commissioner; or
     
-    *   (d) by an electronic means (except a fax), if the person complies with the [Electronic Transactions Act 2002][581], including by email or the Internet; or
+    *   (d) by an electronic means (except a fax), if the person complies with the [Electronic Transactions Act 2002][594], including by email or the Internet; or
     
     *   (e) in any other manner acceptable to the Commissioner.
     
@@ -4941,7 +5039,7 @@ Matters of general application and miscellaneous matters
     
     (3) A notification that is given by post is treated as having been given at the time the notification would have been delivered in the ordinary course of the post.
     
-    (4) Despite subsection (1)(d) of this section, [section 6][582] of the Tax Administration Act 1994, and [sections 16][583] and [20][584] of the Electronic Transactions Act 2002, the consent of a person is not required in order for information to be communicated in an electronic form.
+    (4) Despite subsection (1)(d) of this section, [section 6][595] of the Tax Administration Act 1994, and [sections 16][596] and [20][597] of the Electronic Transactions Act 2002, the consent of a person is not required in order for information to be communicated in an electronic form.
 
 ##### 212 Meaning of notify a person in writing
     
@@ -4949,7 +5047,7 @@ Matters of general application and miscellaneous matters
         
     *   (a) that is printed, typewritten, or otherwise visibly represented, copied, or reproduced on paper and is given by personal delivery, post, or fax; or
     
-    *   (b) by an electronic means (except a fax), if the person complies with the [Electronic Transactions Act 2002][581], including by email or the Internet; or
+    *   (b) by an electronic means (except a fax), if the person complies with the [Electronic Transactions Act 2002][594], including by email or the Internet; or
     
     *   (c) in any other manner acceptable to the Commissioner.
     
@@ -4957,7 +5055,7 @@ Matters of general application and miscellaneous matters
     
     (3) A notification in writing that is given by post is treated as having been given at the time the notification would have been delivered in the ordinary course of the post.
     
-    (4) Despite subsection (1)(b) of this section, [section 6][582] of the Tax Administration Act 1994, and [sections 16][583] and [20][584] of the Electronic Transactions Act 2002, the consent of a person is not required in order for information to be communicated in an electronic form.
+    (4) Despite subsection (1)(b) of this section, [section 6][595] of the Tax Administration Act 1994, and [sections 16][596] and [20][597] of the Electronic Transactions Act 2002, the consent of a person is not required in order for information to be communicated in an electronic form.
 
 ##### 213 Meaning of formally notify
     
@@ -4981,7 +5079,7 @@ Matters of general application and miscellaneous matters
 
 ##### 214 Notice requirements of Tax Administration Act 1994 do not apply
     
-*   [Sections 210 to 213][283] of this Act override [sections 14][585] and [14B][586] of the Tax Administration Act 1994\.
+*   [Sections 210 to 213][286] of this Act override [sections 14][598] and [14B][599] of the Tax Administration Act 1994\.
 
 #### Regulations
 
@@ -5003,25 +5101,25 @@ Matters of general application and miscellaneous matters
     
     *   (g) prescribing the level of unpaid amount on which a borrower is liable to pay late payment interest under [section 139(1)][183], or a means by which it may be calculated or ascertained:
     
-    *   (h) prescribing the amount of an annual administration fee charged under [section 189][255], or a means by which it may be calculated or ascertained:
+    *   (h) prescribing the amount of an annual administration fee charged under [section 189][258], or a means by which it may be calculated or ascertained:
     
     *   (i) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
     
-    Compare: 1992 No 141 [s 87][587]
+    Compare: 1992 No 141 [s 87][600]
     
-    Section 215(d): replaced, on 30 March 2013, by [section 38][588] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 215(d): replaced, on 30 March 2013, by [section 38][601] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 216 Transitional regulations
     
 *   (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations to---
         
-    *   (a) prescribe matters in respect of the transition of the student loan scheme from the [Student Loan Scheme Act 1992][337] to this Act that may be in addition to or in place of the provisions of [Schedules 5][307] and [6][308]:
+    *   (a) prescribe matters in respect of the transition of the student loan scheme from the [Student Loan Scheme Act 1992][341] to this Act that may be in addition to or in place of the provisions of [Schedules 5][310] and [6][311]:
     
     *   (b) make provision for a situation for which no or insufficient provision is made by or under this Act or any other Act referred to in this Act.
     
     (2) The Minister must not recommend the making of regulations unless the Minister is satisfied that the regulations---
         
-    *   (a) are necessary or desirable for the orderly transition of the student loan scheme from the [Student Loan Scheme Act 1992][337] to this Act; and
+    *   (a) are necessary or desirable for the orderly transition of the student loan scheme from the [Student Loan Scheme Act 1992][341] to this Act; and
     
     *   (b) are consistent with the purposes of this Act.
     
@@ -5035,9 +5133,9 @@ Matters of general application and miscellaneous matters
 
 ##### 217 Application of Legislation Act 2012
     
-*   Regulations made under [section 215][289] or [216][290] are a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][589] and must be presented to the House of Representatives under [section 41][590] of that Act.
+*   Regulations made under [section 215][292] or [216][293] are a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][602] and must be presented to the House of Representatives under [section 41][603] of that Act.
     
-    Section 217: replaced, on 5 August 2013, by [section 77(3)][591] of the Legislation Act 2012 (2012 No 119).
+    Section 217: replaced, on 5 August 2013, by [section 77(3)][604] of the Legislation Act 2012 (2012 No 119).
 
 #### Savings and transitional provisions
 
@@ -5051,25 +5149,25 @@ Matters of general application and miscellaneous matters
     
 *   \[Repealed\]
     
-    Section 219: repealed, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 69][592] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 219: repealed, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 69][605] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 220 Application, savings, and transitional provisions
     
-*   (1) The application, savings, and transitional provisions set out in [Schedule 6][308] have effect for the purposes of this Act.
+*   (1) The application, savings, and transitional provisions set out in [Schedule 6][311] have effect for the purposes of this Act.
     
-    (2) The application, savings, and transitional provisions relating to this Act and the amendment Acts specified in the first column of the following table are set out in the Parts of [Schedule 6][308] specified in the second column of the table:
+    (2) The application, savings, and transitional provisions relating to this Act and the amendment Acts specified in the first column of the following table are set out in the Parts of [Schedule 6][311] specified in the second column of the table:
     
     **Principal Act and Amendment Acts****Part of Schedule 6** 
     
     _Principal Act_ 
     
-    Principal Act as enacted[Part 1][593]
+    Principal Act as enacted[Part 1][606]
     
     _Amendment Acts_ 
     
-    Provisions relating to Student Loan Scheme Amendment Act 2013[Part 2 ][594]
+    Provisions relating to Student Loan Scheme Amendment Act 2013[Part 2 ][607]
     
-    Section 220: replaced, on 30 March 2013, by [section 39][595] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 220: replaced, on 30 March 2013, by [section 39][608] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 #### Consequential amendments and repeals
 
@@ -5077,31 +5175,31 @@ Matters of general application and miscellaneous matters
     
 *   \[Repealed\]
     
-    Section 221: repealed, on 30 March 2013, by [section 40][596] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Section 221: repealed, on 30 March 2013, by [section 40][609] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 222 Amendments to Student Loan Scheme Act 1992 and Credit Contracts and Consumer Finance Act 2003
     
-*   The Acts specified in [Schedule 8][310] are amended in the manner set out in that schedule.
+*   The Acts specified in [Schedule 8][313] are amended in the manner set out in that schedule.
 
 ##### 223 Amendments to other Acts
     
-*   The Acts specified in [Schedule 9][311] are amended in the manner set out in that schedule.
+*   The Acts specified in [Schedule 9][314] are amended in the manner set out in that schedule.
 
 ##### 224 Amendments to other enactments
     
-*   The enactments specified in [Schedule 10][312] are amended in the manner set out in that schedule.
+*   The enactments specified in [Schedule 10][315] are amended in the manner set out in that schedule.
 
 ##### 225 Student Loan Scheme Act 1992 repealed
     
-*   The [Student Loan Scheme Act 1992][337] (1992 No 141) is repealed.
+*   The [Student Loan Scheme Act 1992][341] (1992 No 141) is repealed.
 
 ##### 226 Regulations revoked
     
-*   (1) The [Credit Contracts and Consumer Finance (Student Loan Contract Exemption) Regulations 2010][597] (SR 2010/341) are revoked.
+*   (1) The [Credit Contracts and Consumer Finance (Student Loan Contract Exemption) Regulations 2010][610] (SR 2010/341) are revoked.
     
-    (2) The [Student Loan Scheme (Charitable Organisations) Regulations 2006][598] (SR 2006/68) are revoked.
+    (2) The [Student Loan Scheme (Charitable Organisations) Regulations 2006][611] (SR 2006/68) are revoked.
     
-    (3) The [Student Loan Scheme (Repayment Threshold) Regulations 2008][599] (SR 2008/450) are revoked.
+    (3) The [Student Loan Scheme (Repayment Threshold) Regulations 2008][612] (SR 2008/450) are revoked.
 
 ---
 
@@ -5112,9 +5210,9 @@ Conditions to borrower being treated as being physically in New Zealand
 
 ##### 1 Definition
     
-*   In this schedule, _NZQA_ means the New Zealand Qualifications Authority established under [Part 20][600] of the Education Act 1989\.
+*   In this schedule, _NZQA_ means the New Zealand Qualifications Authority established under [Part 20][613] of the Education Act 1989\.
     
-    Compare: 1992 No 141 [ss 38AJ(4)][359], [38AJA(6)][360]
+    Compare: 1992 No 141 [ss 38AJ(4)][363], [38AJA(6)][364]
 
 ##### 2 Conditions to charity application
     
@@ -5126,11 +5224,11 @@ Conditions to borrower being treated as being physically in New Zealand
     
     *   (c) work to raise the educational standards of a country that is on the Organisation for Economic Co-operation and Development's list of countries receiving development assistance.
     
-    (2) The charity must be specified in regulations at the time the work described in [clause 1][601] is carried out.
+    (2) The charity must be specified in regulations at the time the work described in [clause 1][614] is carried out.
     
     (3) The Commissioner may treat a borrower as being physically in New Zealand under [section 25(1)(b)][32] for a maximum aggregate period of up to 24 months.
     
-    Compare: 1992 No 141 [ss 38AE(3)(a)][328], [38AEA][602]
+    Compare: 1992 No 141 [ss 38AE(3)(a)][331], [38AEA][615]
 
 ##### 3 Conditions to unexpected delay application
     
@@ -5160,7 +5258,7 @@ Conditions to borrower being treated as being physically in New Zealand
         
         
     
-    Compare: 1992 No 141 [s 38AF][603]
+    Compare: 1992 No 141 [s 38AF][616]
 
 ##### 4 Conditions to unplanned personal absence application
     
@@ -5178,7 +5276,7 @@ Conditions to borrower being treated as being physically in New Zealand
         
         
     
-    Compare: 1992 No 141 [s 38AG][604]
+    Compare: 1992 No 141 [s 38AG][617]
 
 ##### 5 Conditions to employment or occupation absence application
     
@@ -5190,7 +5288,7 @@ Conditions to borrower being treated as being physically in New Zealand
     
     *   (c) provide evidence that the borrower derives either---
             
-        *   (i) a PAYE income payment as defined in [section RD 3(1)][605] of the Income Tax Act 2007, having a source in New Zealand; or
+        *   (i) a PAYE income payment as defined in [section RD 3(1)][618] of the Income Tax Act 2007, having a source in New Zealand; or
         
         *   (ii) income from a business that has a permanent establishment in New Zealand; and
         
@@ -5198,7 +5296,7 @@ Conditions to borrower being treated as being physically in New Zealand
     
     *   (d) provide evidence that the majority of the borrower's personal absences from New Zealand are because of the borrower's employment or occupation.
     
-    Compare: 1992 No 141 [s 38AH][606]
+    Compare: 1992 No 141 [s 38AH][619]
 
 ##### 6 Conditions to marriage, civil union, or de facto application
     
@@ -5214,13 +5312,13 @@ Conditions to borrower being treated as being physically in New Zealand
             
         *   (i) is physically absent from New Zealand in the service in any capacity of the Government of New Zealand; or
         
-        *   (ii) satisfies the conditions in [clause 2][358], [5][607], [7][355], [8][356], or [9][357].
+        *   (ii) satisfies the conditions in [clause 2][362], [5][620], [7][359], [8][360], or [9][361].
         
         
     
-    (2) The Commissioner may treat a borrower whose partner satisfies the conditions in [clause 2][358] (working as a volunteer or for token payment for a charity) as being physically in New Zealand under [section 25(1)(f)][32] for a maximum aggregate period of up to 24 months.
+    (2) The Commissioner may treat a borrower whose partner satisfies the conditions in [clause 2][362] (working as a volunteer or for token payment for a charity) as being physically in New Zealand under [section 25(1)(f)][32] for a maximum aggregate period of up to 24 months.
     
-    Compare: 1992 No 141 [ss 38AE(3)(b)][328], [38AI][608]
+    Compare: 1992 No 141 [ss 38AE(3)(b)][331], [38AI][621]
 
 ##### 7 Condition to study at postgraduate or undergraduate level overseas application
     
@@ -5236,9 +5334,9 @@ Conditions to borrower being treated as being physically in New Zealand
         
         
     
-    (2) In this clause, _study at postgraduate or undergraduate level_ means study that is assessed by the NZQA as being equivalent to level 7, 8, 9, or 10 on the New Zealand Register of Quality Assured Qualifications developed by the NZQA under [section 253(1)(c)][609] of the Education Act 1989\.
+    (2) In this clause, _study at postgraduate or undergraduate level_ means study that is assessed by the NZQA as being equivalent to level 7, 8, 9, or 10 on the New Zealand Register of Quality Assured Qualifications developed by the NZQA under [section 253(1)(c)][622] of the Education Act 1989\.
     
-    Compare: 1992 No 141 [s 38AJ(2), (4)][359]
+    Compare: 1992 No 141 [s 38AJ(2), (4)][363]
 
 ##### 8 Condition to full-time overseas study under formal exchange programme or formal agreement application
     
@@ -5250,7 +5348,7 @@ Conditions to borrower being treated as being physically in New Zealand
         
         *   (ii) if it is completed successfully, will count towards a qualification offered by a New Zealand tertiary education provider; and
         
-        *   (iii) is assessed by the NZQA as being equivalent to level 7 or above on the New Zealand Register of Quality Assured Qualifications developed by the NZQA under [section 253(1)(c)][609] of the Education Act 1989; and
+        *   (iii) is assessed by the NZQA as being equivalent to level 7 or above on the New Zealand Register of Quality Assured Qualifications developed by the NZQA under [section 253(1)(c)][622] of the Education Act 1989; and
         
         *   (iv) is full-time and undertaken overseas as part of either---
                 
@@ -5272,7 +5370,7 @@ Conditions to borrower being treated as being physically in New Zealand
     
     *   (c) is registered by an appropriate education authority in that country.
     
-    Compare: 1992 No 141 [s 38AJA(2), (4), (6)][360]
+    Compare: 1992 No 141 [s 38AJA(2), (4), (6)][364]
 
 ##### 9 Condition to full-time overseas study application
     
@@ -5284,7 +5382,7 @@ Conditions to borrower being treated as being physically in New Zealand
         
         *   (ii) if it is completed successfully, will count towards a qualification offered by a New Zealand tertiary education provider; and
         
-        *   (iii) is assessed by the NZQA as being equivalent to level 8 or above on the New Zealand Register of Quality Assured Qualifications developed by the NZQA under [section 253(1)(c)][609] of the Education Act 1989; and
+        *   (iii) is assessed by the NZQA as being equivalent to level 8 or above on the New Zealand Register of Quality Assured Qualifications developed by the NZQA under [section 253(1)(c)][622] of the Education Act 1989; and
         
         *   (iv) is full-time and undertaken overseas; and
         
@@ -5294,7 +5392,7 @@ Conditions to borrower being treated as being physically in New Zealand
     
     *   (b) provide the Commissioner with evidence from the borrower's New Zealand tertiary education provider verifying that the borrower's study meets the requirements of paragraph (a).
     
-    Compare: 1992 No 141 [s 38AJA(3), (4)][360]
+    Compare: 1992 No 141 [s 38AJA(3), (4)][364]
 
 ##### 10 Conditions to Niue, Cook Islands, Tokelau, and Ross Dependency application
     
@@ -5304,7 +5402,7 @@ Conditions to borrower being treated as being physically in New Zealand
     
     *   (b) pay his or her repayment obligation in full when, or before, it falls due during the period he or she is treated as being physically in New Zealand.
     
-    Compare: 1992 No 141 [s 38AIA][362]
+    Compare: 1992 No 141 [s 38AIA][366]
 
 ##### 11 Certain exempt borrowers must notify Commissioner of their worldwide income
     
@@ -5312,7 +5410,7 @@ Conditions to borrower being treated as being physically in New Zealand
     
     (2) The borrower must notify the Commissioner of the borrower's annual gross income and annual total deductions in accordance with [section 114(2)][149], and sections 114(3) and (4) and [114A][150] apply accordingly.
     
-    Schedule 1 clause 11: inserted (with effect on 1 April 2012), on 12 April 2012, by [section 53][610] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Schedule 1 clause 11: inserted (with effect on 1 April 2012), on 12 April 2012, by [section 53][623] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ---
 
@@ -5331,7 +5429,7 @@ Application of PAYE rules for purposes of section 70
     *   (d)every reference to a tax code were a reference to, as applicable, the repayment codes ""SL"", ""STC"", ""SLCIR"", or ""SLBOR""; and
     *   (e)every reference to basic tax rates were a reference to the repayment percentage.
     
-    *   Schedule 2 clause 1 paragraph (d): replaced (with effect on 1 April 2012), on 12 April 2012, by [section 54][611] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    *   Schedule 2 clause 1 paragraph (d): replaced (with effect on 1 April 2012), on 12 April 2012, by [section 54][624] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
     
     
 
@@ -5339,14 +5437,14 @@ Application of PAYE rules for purposes of section 70
         
     *   (a)the following do not apply to salary or wage deductions:
             
-        *   (i)[sections BC 1][612], [LA 6][613], [RC 2(1)][614], [RC 6][407], [RC 7][326], [RC 16][615], [RC 17][616], [RD 8 to RD 10][617], [RD 13B][618], [RD 17(2)][619] and (3), and [RD 18 to RD 20][620] of the Income Tax Act 2007:
-        *   (ii)[sections 24K to 24M][621] and [24O][622] of the Tax Administration Act 1994; and
+        *   (i)[sections BC 1][625], [LA 6][626], [RC 2(1)][627], [RC 6][411], [RC 7][329], [RC 16][628], [RC 17][629], [RD 8 to RD 10][630], [RD 13B][631], [RD 17(2)][632] and (3), and [RD 18 to RD 20][633] of the Income Tax Act 2007:
+        *   (ii)[sections 24K to 24M][634] and [24O][635] of the Tax Administration Act 1994; and
         
     *   (b)a salary or wage deduction must not be treated as part of, or included in, an amount of tax for a PAYE income payment that is withheld and paid to the Commissioner under the PAYE rules.
     
     
 
-Compare: 1992 No 141 [s 25][401]
+Compare: 1992 No 141 [s 25][405]
 
 ---
 
@@ -5357,7 +5455,7 @@ Application of provisional tax rules for purposes of section 86
 
 \[Repealed\]
     
-*   Schedule 3: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 41][623] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+*   Schedule 3: repealed (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 41][636] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ---
 
@@ -5366,7 +5464,7 @@ Application of provisional tax rules for purposes of section 86
 
 [ss 4(2)][6], [86][107]
 
-*   Schedule 4: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 42][624] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+*   Schedule 4: replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 42][637] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 #### Interim payments for adjusted net income to be paid in same manner as provisional tax
     
@@ -5383,20 +5481,20 @@ Application of provisional tax rules for purposes of section 86
         *   (ii)for a borrower who is required to notify the Commissioner of the borrower's annual gross income and annual total deductions under [section 114][149] of this Act, that notification; and
         
     *   (g)every reference to $2,500 or less (being the threshold below which a person is not required to make provisional tax payments during the year) were a reference to the $1,000 threshold in [section 79][100]; and
-    *   (h)every reference to [section RC 10][625] of the Income Tax Act 2007 or to an amount calculated under section RC 10 of the Income Tax Act 2007 were a reference to [section 82][103] of this Act or to the amount of a borrower's interim payments calculated in accordance with section 82 of this Act; and
-    *   (i)the reference in [section RC 9(9)][626] of the Income Tax Act 2007 to interest calculated under [section 120KC][627] of the Tax Administration Act 1994 were a reference to late payment interest calculated under [section 139][183] of this Act.
+    *   (h)every reference to [section RC 10][638] of the Income Tax Act 2007 or to an amount calculated under section RC 10 of the Income Tax Act 2007 were a reference to [section 82][103] of this Act or to the amount of a borrower's interim payments calculated in accordance with section 82 of this Act; and
+    *   (i)the reference in [section RC 9(9)][639] of the Income Tax Act 2007 to interest calculated under [section 120KC][640] of the Tax Administration Act 1994 were a reference to late payment interest calculated under [section 139][183] of this Act.
     
     
 
 *   2However,---
         
-    *   (a)[sections LB 2][628], [RC 3][629], [RC 4][630], [RC 5(6) and (8)][631], [RC 7(6)][326], [RC 8][632], [RC 11][633], [RC 15 to RC 19][634], [RC 24][635], [RC 28 to RC 35][636], [RC 37 to RC 39][637], [RZ 3][638], and [RZ 5B][639] of the Income Tax Act 2007, and the definition of early-payment discount in [section RC 40][640] of that Act, do not apply to an interim payment; and
-    *   (b)[section RC 5(2)][631] of the Income Tax Act 2007---
+    *   (a)[sections LB 2][641], [RC 3][642], [RC 4][643], [RC 5(6) and (8)][644], [RC 7(6)][329], [RC 8][645], [RC 11][646], [RC 15 to RC 19][647], [RC 24][648], [RC 28 to RC 35][649], [RC 37 to RC 39][650], [RZ 3][651], and [RZ 5B][652] of the Income Tax Act 2007, and the definition of early-payment discount in [section RC 40][653] of that Act, do not apply to an interim payment; and
+    *   (b)[section RC 5(2)][644] of the Income Tax Act 2007---
             
         *   (i)applies only if the borrower's end-of-year repayment obligation for the second preceding tax year is $1,000 or more; and
-        *   (ii)applies as if the calculation in that section were a reference to the calculation in [section 82][641] of this Act; and
+        *   (ii)applies as if the calculation in that section were a reference to the calculation in [section 82][654] of this Act; and
         
-    *   (c)for a borrower required to either make a declaration of adjusted net income or notify the Commissioner of the borrower's annual gross income and annual total deductions under [section 114][149] of this Act, [section RC 5(3)][631] of the Income Tax Act 2007---
+    *   (c)for a borrower required to either make a declaration of adjusted net income or notify the Commissioner of the borrower's annual gross income and annual total deductions under [section 114][149] of this Act, [section RC 5(3)][644] of the Income Tax Act 2007---
             
         *   (i)applies only if the borrower's end-of-year repayment obligation for the second preceding tax year is $1,000 or more; and
         *   (ii)for a declaration of adjusted net income or a notification of the borrower's annual gross income and annual total deductions under [section 114][149] of this Act for the immediately preceding tax year, or an estimate of the end-of-year repayment obligation, that is not filed by the due date for payment of the final interim payment, applies as if the borrower has filed a statement showing an estimate of the end-of-year repayment obligation for that tax year equal to the total amount of interim payments paid by the borrower on or before that date.
@@ -5412,26 +5510,26 @@ Compare: 1992 No 141 s 28
 ## Schedule 5  
 Transitional provisions concerning loan manager and loan advances
 
-[s 218][293]
+[s 218][296]
 
 \[Repealed\]
     
-*   Schedule 5: repealed, on 1 April 2012, by [section 218(2)][642].
-*   Schedule 5 clause 2: repealed (with effect on 1 January 2012), on 12 April 2012, by [section 55][643] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+*   Schedule 5: repealed, on 1 April 2012, by [section 218(2)][655].
+*   Schedule 5 clause 2: repealed (with effect on 1 January 2012), on 12 April 2012, by [section 55][656] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ---
 
 ## Schedule 6  
 Application, savings, and transitional provisions
 
-[ss 8A][11], [220][295]
+[ss 8A][11], [220][298]
 
-*   Schedule 6 heading: replaced, on 30 March 2013, by [section 43(2)][644] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+*   Schedule 6 heading: replaced, on 30 March 2013, by [section 43(2)][657] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ## Part 1  
 Provisions relating to principal Act as enacted
     
-*   Schedule 6 Part 1 heading: inserted, on 30 March 2013, by [section 43(2)][644] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+*   Schedule 6 Part 1 heading: inserted, on 30 March 2013, by [section 43(2)][657] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 #### Savings provisions
 
@@ -5439,7 +5537,7 @@ Provisions relating to principal Act as enacted
     
 *   The provisions of this schedule apply despite---
         
-    *   (a) [sections 225][301] and [226(2)][302] and (3):
+    *   (a) [sections 225][304] and [226(2)][305] and (3):
     
     *   (b) anything to the contrary in this Act.
     
@@ -5447,15 +5545,15 @@ Provisions relating to principal Act as enacted
 
 ##### 2 Student Loan Scheme Act 1992 applies to tax years prior to 1 April 2012
     
-*   (1) The [Student Loan Scheme Act 1992][337] (and all relevant regulations made under that Act) continues in full effect to the extent necessary for the proper administration and completion of all matters under that Act relating to the tax year ending on 31 March 2012 and all earlier tax years.
+*   (1) The [Student Loan Scheme Act 1992][341] (and all relevant regulations made under that Act) continues in full effect to the extent necessary for the proper administration and completion of all matters under that Act relating to the tax year ending on 31 March 2012 and all earlier tax years.
     
-    (2) All obligations or requirements in relation to a matter under the [Student Loan Scheme Act 1992][337] relating to the tax year ending on 31 March 2012 or an earlier tax year continue to apply, even if that obligation or requirement arises on or after 1 April 2012\.
+    (2) All obligations or requirements in relation to a matter under the [Student Loan Scheme Act 1992][341] relating to the tax year ending on 31 March 2012 or an earlier tax year continue to apply, even if that obligation or requirement arises on or after 1 April 2012\.
     
-    (3) Any action that is taken in relation to a matter under the [Student Loan Scheme Act 1992][337] relating to the tax year ending on 31 March 2012 or an earlier tax year must be taken under the Student Loan Scheme Act 1992, even if that action is taken on or after 1 April 2012\.
+    (3) Any action that is taken in relation to a matter under the [Student Loan Scheme Act 1992][341] relating to the tax year ending on 31 March 2012 or an earlier tax year must be taken under the Student Loan Scheme Act 1992, even if that action is taken on or after 1 April 2012\.
 
 ##### 2A Commissioner must not collect amount assessed as repayment obligation of certain borrowers for 2011--2012 tax year
     
-*   (1) The purpose of this clause is to ensure that the substantive effect of the provisions of the [Student Loan Scheme Act 2011 (Transitional Provisions) Regulations 2012][645] continues, including beyond 1 April 2015, in respect of borrowers to whom those regulations applied before they were revoked by [section 53][646] of the Student Loan Scheme Amendment Act 2013\.
+*   (1) The purpose of this clause is to ensure that the substantive effect of the provisions of the [Student Loan Scheme Act 2011 (Transitional Provisions) Regulations 2012][658] continues, including beyond 1 April 2015, in respect of borrowers to whom those regulations applied before they were revoked by [section 53][659] of the Student Loan Scheme Amendment Act 2013\.
     
     (2) This clause applies if---
         
@@ -5471,13 +5569,13 @@ Provisions relating to principal Act as enacted
         
         
     
-    (3) Despite [clause 2][647], any other provision of this Act, and anything in the [Student Loan Scheme Act 1992][337],---
+    (3) Despite [clause 2][660], any other provision of this Act, and anything in the [Student Loan Scheme Act 1992][341],---
         
-    *   (a) the Commissioner must refrain from collecting the amount that the Commissioner assesses, under [section 15][390] of the Student Loan Scheme Act 1992, as the borrower's repayment obligation for the 2011--2012 tax year; and
+    *   (a) the Commissioner must refrain from collecting the amount that the Commissioner assesses, under [section 15][394] of the Student Loan Scheme Act 1992, as the borrower's repayment obligation for the 2011--2012 tax year; and
     
     *   (b) the amount that the Commissioner refrains from collecting under paragraph (a) is not written off and remains part of the borrower's loan balance.
     
-    Schedule 6 clause 2A: inserted, on 30 March 2013, by [section 43(3)][644] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Schedule 6 clause 2A: inserted, on 30 March 2013, by [section 43(3)][657] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 #### Transitional provisions
 
@@ -5493,7 +5591,7 @@ Provisions relating to principal Act as enacted
 
 ##### 4 Commissioner may write-off certain interest
     
-*   (1) Subclause (2) applies to any interest imposed in relation to a borrower under the [Student Loan Scheme Act 1992][337] before the borrower's loan balance is transferred to the Commissioner for collection in accordance with [section 4][347] of that Act.
+*   (1) Subclause (2) applies to any interest imposed in relation to a borrower under the [Student Loan Scheme Act 1992][341] before the borrower's loan balance is transferred to the Commissioner for collection in accordance with [section 4][351] of that Act.
     
     (2) The Commissioner may, at his or her discretion, write-off the interest.
 
@@ -5501,7 +5599,7 @@ Provisions relating to principal Act as enacted
     
 *   (1) Subclause (2) applies to any amount (_specified amount A_) that---
         
-    *   (a) must be paid or repaid in accordance with the [Student Loan Scheme Act 1992][337] on or before 31 March 2012; and
+    *   (a) must be paid or repaid in accordance with the [Student Loan Scheme Act 1992][341] on or before 31 March 2012; and
     
     *   (b) has not been paid or repaid on or before the close of 31 March 2012; and
     
@@ -5511,7 +5609,7 @@ Provisions relating to principal Act as enacted
     
     (3) Subclause (4) applies to any amount (_specified amount B_) that,---
         
-    *   (a) in accordance with this schedule, must be paid or repaid in accordance with the [Student Loan Scheme Act 1992][337] on or after 1 April 2012; and
+    *   (a) in accordance with this schedule, must be paid or repaid in accordance with the [Student Loan Scheme Act 1992][341] on or after 1 April 2012; and
     
     *   (b) is not paid or repaid on or before its due date; and
     
@@ -5519,31 +5617,31 @@ Provisions relating to principal Act as enacted
     
     (4) At the time when this Act applies to it, specified amount B must be treated as being part of a borrower's unpaid amount for the purposes of this Act.
     
-    (5) At the time when this Act applies to it, any amount owed by a borrower under the [Student Loan Scheme Act 1992][337] to which neither subclause (2) nor (4) applies must be treated as being part of a borrower's loan balance for the purposes of this Act.
+    (5) At the time when this Act applies to it, any amount owed by a borrower under the [Student Loan Scheme Act 1992][341] to which neither subclause (2) nor (4) applies must be treated as being part of a borrower's loan balance for the purposes of this Act.
 
 ##### 6 Small amounts of unpaid and uncollected repayment obligations
     
-*   (1) Any amount that the Commissioner has refrained from collecting from the borrower in accordance with [section 51(3)][439] of the Student Loan Scheme Act 1992 and that remains unpaid on the close of 31 March 2012 is added to a borrower's loan balance under this Act.
+*   (1) Any amount that the Commissioner has refrained from collecting from the borrower in accordance with [section 51(3)][444] of the Student Loan Scheme Act 1992 and that remains unpaid on the close of 31 March 2012 is added to a borrower's loan balance under this Act.
     
-    (2) This clause overrides [clause 5][648].
+    (2) This clause overrides [clause 5][661].
     
-    Schedule 6 clause 6(1): replaced, on 30 March 2013, by [section 43(4)][644] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Schedule 6 clause 6(1): replaced, on 30 March 2013, by [section 43(4)][657] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 7 New Zealand-based and overseas-based borrowers
     
-*   (1) Every borrower who, on the close of 31 March 2012, is New Zealand-based under the [Student Loan Scheme Act 1992][337] is treated as being New Zealand-based under this Act on 1 April 2012\.
+*   (1) Every borrower who, on the close of 31 March 2012, is New Zealand-based under the [Student Loan Scheme Act 1992][341] is treated as being New Zealand-based under this Act on 1 April 2012\.
     
-    (2) Every borrower who, on the close of 31 March 2012, is overseas based under the [Student Loan Scheme Act 1992][337] is treated as being overseas-based under this Act on 1 April 2012\.
+    (2) Every borrower who, on the close of 31 March 2012, is overseas based under the [Student Loan Scheme Act 1992][341] is treated as being overseas-based under this Act on 1 April 2012\.
     
-    (3) Every day on which a borrower is personally present in New Zealand under the [Student Loan Scheme Act 1992][337] is treated as a day on which the borrower is physically in New Zealand for the purposes of [sections 22][28] and [24][30] of this Act.
+    (3) Every day on which a borrower is personally present in New Zealand under the [Student Loan Scheme Act 1992][341] is treated as a day on which the borrower is physically in New Zealand for the purposes of [sections 22][28] and [24][30] of this Act.
     
-    (4) Every day on which a borrower is personally absent from New Zealand under the [Student Loan Scheme Act 1992][337] is treated as a day on which the borrower is physically absent from New Zealand for the purposes of [section 23][29] of this Act.
+    (4) Every day on which a borrower is personally absent from New Zealand under the [Student Loan Scheme Act 1992][341] is treated as a day on which the borrower is physically absent from New Zealand for the purposes of [section 23][29] of this Act.
 
 ##### 8 Exemptions to the 183-day rule continue
     
 *   (1) This clause applies if---
         
-    *   (a) the Commissioner has granted an exemption to the 183-day requirement to a borrower under [section 38AE][328], [38AJ][359], or [38AJA][360] of the Student Loan Scheme Act 1992 before 1 April 2012; and
+    *   (a) the Commissioner has granted an exemption to the 183-day requirement to a borrower under [section 38AE][331], [38AJ][363], or [38AJA][364] of the Student Loan Scheme Act 1992 before 1 April 2012; and
     
     *   (b) the end date for the period of that exemption continues past 1 April 2012, or the conditions for the continuation of that exemption continue to apply or to be met on the close of 31 March 2012\.
     
@@ -5559,19 +5657,19 @@ Provisions relating to principal Act as enacted
     
 *   \[Repealed\]
     
-    Schedule 6 clause 9: repealed (with effect on 1 April 2012), on 12 April 2012, by [section 56(3)][649] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Schedule 6 clause 9: repealed (with effect on 1 April 2012), on 12 April 2012, by [section 56(3)][662] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 10 Deduction rates and deduction rate certificates
     
-*   (1) If, at the close of 31 March 2012, a borrower has employment for which the repayment code ""SL"" applies to the borrower under [section 18][373] of the Student Loan Scheme Act 1992, that repayment code continues to apply to that borrower in relation to that employment for the purposes of [section 34][45] of this Act.
+*   (1) If, at the close of 31 March 2012, a borrower has employment for which the repayment code ""SL"" applies to the borrower under [section 18][377] of the Student Loan Scheme Act 1992, that repayment code continues to apply to that borrower in relation to that employment for the purposes of [section 34][45] of this Act.
     
-    (2) A borrower who, at the close of 31 March 2012, has complied with [section 18][373] of the Student Loan Scheme Act 1992 in relation to an employer does not have to comply with [section 35][46] of this Act in relation to that employer.
+    (2) A borrower who, at the close of 31 March 2012, has complied with [section 18][377] of the Student Loan Scheme Act 1992 in relation to an employer does not have to comply with [section 35][46] of this Act in relation to that employer.
     
-    (3) An increased repayment deduction rate notice that has been issued under [section 20A][379] of the Student Loan Scheme Act 1992 and that continues to apply at the close of 31 March 2012---
+    (3) An increased repayment deduction rate notice that has been issued under [section 20A][383] of the Student Loan Scheme Act 1992 and that continues to apply at the close of 31 March 2012---
         
     *   (a) continues to apply until the earlier of the date on which---
             
-        *   (i) the deductions made from the borrower's salary or wages in accordance with the notice equal the amount specified in the notice in accordance with [section 20A(2)(b)][379] of the Student Loan Scheme Act 1992; or
+        *   (i) the deductions made from the borrower's salary or wages in accordance with the notice equal the amount specified in the notice in accordance with [section 20A(2)(b)][383] of the Student Loan Scheme Act 1992; or
         
         *   (ii) the Commissioner notifies the relevant employer otherwise; and
         
@@ -5579,7 +5677,7 @@ Provisions relating to principal Act as enacted
     
     *   (b) must be treated as if it were an additional deduction rate notice that has been issued by the Commissioner under [section 49(2)][63] of this Act.
     
-    (4) A special repayment deduction rate certificate that has been issued under [section 21][650] of the Student Loan Scheme Act 1992 and that continues to apply at the close of 31 March 2012---
+    (4) A special repayment deduction rate certificate that has been issued under [section 21][663] of the Student Loan Scheme Act 1992 and that continues to apply at the close of 31 March 2012---
         
     *   (a) continues to apply; and
     
@@ -5593,13 +5691,13 @@ Provisions relating to principal Act as enacted
             
             *   (B) \[Repealed\]
             
-            *   (C) [section 148][199] of this Act (special deduction rate certificate for hardship relief).
+            *   (C) [section 148][200] of this Act (special deduction rate certificate for hardship relief).
             
             
         
         
     
-    Schedule 6 clause 10(4)(b)(ii)(B): repealed (with effect on 1 April 2012), on 12 April 2012, by [section 56(3)][649] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+    Schedule 6 clause 10(4)(b)(ii)(B): repealed (with effect on 1 April 2012), on 12 April 2012, by [section 56(3)][662] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ##### 11 Pay period that spans 1 April 2012
     
@@ -5607,7 +5705,7 @@ Provisions relating to principal Act as enacted
         
     *   (a) the employer or PAYE intermediary must make a deduction from that amount for the entire pay period in accordance with [section 36(2)][48] of this Act; and
     
-    *   (b) [section 19][375] of the Student Loan Scheme Act 1992 does not apply to the employer or PAYE intermediary in relation to the pay period.
+    *   (b) [section 19][379] of the Student Loan Scheme Act 1992 does not apply to the employer or PAYE intermediary in relation to the pay period.
     
     
 
@@ -5617,7 +5715,7 @@ Provisions relating to principal Act as enacted
         
     *   (a) a borrower---
             
-        *   (i) has entered into an instalment arrangement with the Commissioner on or before 31 March 2012 in relation to an amount (the _instalment amount_) that must be paid under the [Student Loan Scheme Act 1992][337]; and
+        *   (i) has entered into an instalment arrangement with the Commissioner on or before 31 March 2012 in relation to an amount (the _instalment amount_) that must be paid under the [Student Loan Scheme Act 1992][341]; and
         
         *   (ii) some of the payments that are required under the instalment arrangement must be paid on or after 1 April 2012; or
         
@@ -5633,23 +5731,23 @@ Provisions relating to principal Act as enacted
     
     (2) If all of the payments that are required under the instalment arrangement are paid on or before their due date,---
         
-    *   (a) all late payment penalties that apply to the instalment amount under the [Student Loan Scheme Act 1992][337] must be written off by the Commissioner; and
+    *   (a) all late payment penalties that apply to the instalment amount under the [Student Loan Scheme Act 1992][341] must be written off by the Commissioner; and
     
     *   (b) all late payment interest that applies to the instalment amount under this Act must be written off by the Commissioner.
     
     (3) If any of the payments that are required under the instalment arrangement are not paid on or before their due date, the following applies:
         
-    *   (a) unpaid instalment amounts with a due date before 1 April 2012 are subject to the late payment penalties that apply to that amount under the [Student Loan Scheme Act 1992][337] until the close of 31 March 2012; and
+    *   (a) unpaid instalment amounts with a due date before 1 April 2012 are subject to the late payment penalties that apply to that amount under the [Student Loan Scheme Act 1992][341] until the close of 31 March 2012; and
     
     *   (b) unpaid instalment amounts with a due date before 1 April 2012 that remain unpaid on or after that date are subject to late payment interest under this Act from 31 March 2012; and
     
     *   (c) unpaid instalment amounts with a due date on or after 1 April 2012 are subject to late payment interest under this Act.
     
-    Schedule 6 clause 12(1): replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 43(5)][644] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Schedule 6 clause 12(1): replaced (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 43(5)][657] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 13 No refunds for deductions or payments made before 1 April 2006
     
-*   (1) No refund may be made under this Act or the [Student Loan Scheme Act 1992][337] for any amount that was deducted or paid in excess (as set out in [section 56(1)(a)][440] to (e) or [57(1)][441] of the Student Loan Scheme Act 1992) before 1 April 2006\.
+*   (1) No refund may be made under this Act or the [Student Loan Scheme Act 1992][341] for any amount that was deducted or paid in excess (as set out in [section 56(1)(a)][445] to (e) or [57(1)][446] of the Student Loan Scheme Act 1992) before 1 April 2006\.
     
     (2) Subclause (1) applies despite anything to the contrary.
 
@@ -5659,7 +5757,7 @@ Provisions relating to principal Act as enacted
         
     *   (a) this Act requires something to be done (a _new Act requirement_); and
     
-    *   (b) the new Act requirement cannot be done without reference to an equivalent thing in, that arises from, or that was required to be done by the [Student Loan Scheme Act 1992][337] (a _1992 Act requirement_).
+    *   (b) the new Act requirement cannot be done without reference to an equivalent thing in, that arises from, or that was required to be done by the [Student Loan Scheme Act 1992][341] (a _1992 Act requirement_).
     
     (2) The new Act requirement must utilise the 1992 Act requirement---
         
@@ -5667,46 +5765,46 @@ Provisions relating to principal Act as enacted
     
     *   (b) with all necessary modifications; and
     
-    *   (c) despite any difference in terminology between this Act and the [Student Loan Scheme Act 1992][337].
+    *   (c) despite any difference in terminology between this Act and the [Student Loan Scheme Act 1992][341].
     
     (3) For example, the interim payments that are due for the 2012--13 tax year under this Act must be determined---
         
-    *   (a) by reference to residual repayment obligations for the 2011--12 tax year under the [Student Loan Scheme Act 1992][337]; and
+    *   (a) by reference to residual repayment obligations for the 2011--12 tax year under the [Student Loan Scheme Act 1992][341]; and
     
-    *   (b) as if references to end-of-year repayment obligations in this Act were references to residual repayment obligations for the 2011--12 tax year under the [Student Loan Scheme Act 1992][337].
+    *   (b) as if references to end-of-year repayment obligations in this Act were references to residual repayment obligations for the 2011--12 tax year under the [Student Loan Scheme Act 1992][341].
     
-    Schedule 6 clause 14(3): amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 44][395] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Schedule 6 clause 14(3): amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 44][399] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Schedule 6 clause 14(3)(b): amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 44][395] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Schedule 6 clause 14(3)(b): amended (with effect on 1 April 2012 and applying for 2012--13 and later tax years), on 29 March 2013, by [section 44][399] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 15 Updated references
     
 *   Unless the context otherwise requires, all references in an enactment or document (including a loan contract) to---
         
-    *   (a) the [Student Loan Scheme Act 1992][337] must be read as a reference to this Act; and
+    *   (a) the [Student Loan Scheme Act 1992][341] must be read as a reference to this Act; and
     
-    *   (b) the student loan scheme under the [Student Loan Scheme Act 1992][337] must be read as a reference to the student loan scheme under this Act; and
+    *   (b) the student loan scheme under the [Student Loan Scheme Act 1992][341] must be read as a reference to the student loan scheme under this Act; and
     
-    *   (c) a student loan under the [Student Loan Scheme Act 1992][337] must be read as a reference to a student loan under this Act; and
+    *   (c) a student loan under the [Student Loan Scheme Act 1992][341] must be read as a reference to a student loan under this Act; and
     
-    *   (d) a borrower under the [Student Loan Scheme Act 1992][337] must be read as a reference to a borrower under this Act.
+    *   (d) a borrower under the [Student Loan Scheme Act 1992][341] must be read as a reference to a borrower under this Act.
     
     
 
 ## Part 2  
 Transitional provision relating to Student Loan Scheme Amendment Act 2013
     
-*   Schedule 6 Part 2 heading: inserted, on 30 March 2013, by [section 43(6)][644] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+*   Schedule 6 Part 2 heading: inserted, on 30 March 2013, by [section 43(6)][657] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 16 Interpretation
     
 *   In this Part,---
     
-    _amendment Act_ means the [Student Loan Scheme Amendment Act 2013][651]
+    _amendment Act_ means the [Student Loan Scheme Amendment Act 2013][664]
     
     _principal Act_ means the Student Loan Scheme Act 2011\.
     
-    Schedule 6 clause 16: inserted, on 30 March 2013, by [section 43(7)][644] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Schedule 6 clause 16: inserted, on 30 March 2013, by [section 43(7)][657] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ##### 17 Regulations for transitional purposes
     
@@ -5736,29 +5834,29 @@ Transitional provision relating to Student Loan Scheme Amendment Act 2013
     
     (6) This clause is repealed on 1 April 2018\.
     
-    Schedule 6 clause 17: inserted, on 30 March 2013, by [section 43(7)][644] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+    Schedule 6 clause 17: inserted, on 30 March 2013, by [section 43(7)][657] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ---
 
 ## Schedule 7  
 Amendments to this Act
 
-[s 221][297]
+[s 221][300]
 
 \[Repealed\]
     
-*   Schedule 7: repealed, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 70][652] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
+*   Schedule 7: repealed, on 1 April 2013 (applying for 2013--14 and later tax years), by [section 70][665] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
 
 ---
 
 ## Schedule 8  
 Amendments to Student Loan Scheme Act 1992 and Credit Contracts and Consumer Finance Act 2003
 
-[s 222][298]
+[s 222][301]
 
-##### [Student Loan Scheme Act 1992][337] (1992 No 141)
+##### [Student Loan Scheme Act 1992][341] (1992 No 141)
 
-[Section 45F(2)][653]: repeal and substitute:
+[Section 45F(2)][666]: repeal and substitute:
 
 > *   "(2) If a borrower's loan balance will not be fully repaid as a result of being reduced by a 10% bonus, that bonus must be credited to the borrower's loan balance with effect from---
 >         
@@ -5770,11 +5868,11 @@ Amendments to Student Loan Scheme Act 1992 and Credit Contracts and Consumer Fin
 > 
 > 
 
-Heading to [section 57B][654]: omit ""**1 April 2004**"" and substitute ""**31 March 2006**"".
+Heading to [section 57B][667]: omit ""**1 April 2004**"" and substitute ""**31 March 2006**"".
 
-[Section 57B][654]: omit ""1 April 2004"" and substitute ""31 March 2006"".
+[Section 57B][667]: omit ""1 April 2004"" and substitute ""31 March 2006"".
 
-New sections 63B to 63N: insert after [section 63A][573]:
+New sections 63B to 63N: insert after [section 63A][585]:
 
 > ##### "63B Initial disclosure
 >     
@@ -5958,15 +6056,15 @@ New sections 63B to 63N: insert after [section 63A][573]:
 > 
 > 
 
-[Section 87(1)][587]: insert after paragraph (bb):
+[Section 87(1)][600]: insert after paragraph (bb):
 
 > *   "(bc) specifying further information requirements in accordance with section 63C(1)(f):".
 > 
 > 
 
-##### [Credit Contracts and Consumer Finance Act 2003][574] (2003 No 52)
+##### [Credit Contracts and Consumer Finance Act 2003][586] (2003 No 52)
 
-[Section 15(1)][655]: insert after paragraph (c):
+[Section 15(1)][668]: insert after paragraph (c):
 
 > *   "(ca) a loan contract (as defined in section 2(1) of the Student Loan Scheme Act 1992):".
 > 
@@ -5977,37 +6075,37 @@ New sections 63B to 63N: insert after [section 63A][573]:
 ## Schedule 9  
 Amendments to other Acts
 
-[s 223][299]
+[s 223][302]
 
-##### [Accident Compensation Act 2001][656] (2001 No 49)
+##### [Accident Compensation Act 2001][669] (2001 No 49)
 
-[Section 123(2)(i)][657]: repeal and substitute:
+[Section 123(2)(i)][670]: repeal and substitute:
 
 > *   "(i) subparts 1 to 3 and 5 of Part 2 or section 193 of the Student Loan Scheme Act 2011; or".
 > 
 > 
 
-##### [Companies Act 1993][658] (1993 No 105)
+##### [Companies Act 1993][671] (1993 No 105)
 
-[Clause 1(2)(d) of Schedule 7][659]: omit ""section 25 of the Student Loan Scheme Act 1992"" and substitute ""section 70 of the Student Loan Scheme Act 2011"".
+[Clause 1(2)(d) of Schedule 7][672]: omit ""section 25 of the Student Loan Scheme Act 1992"" and substitute ""section 70 of the Student Loan Scheme Act 2011"".
 
-##### [Corrections Act 2004][660] (2004 No 50)
+##### [Corrections Act 2004][673] (2004 No 50)
 
-Definition of **student loan** in [section 180C(2)][661]: omit ""section 2 of the Student Loan Scheme Act 1992"" and substitute ""section 4(1) of the Student Loan Scheme Act 2011"".
+Definition of **student loan** in [section 180C(2)][674]: omit ""section 2 of the Student Loan Scheme Act 1992"" and substitute ""section 4(1) of the Student Loan Scheme Act 2011"".
 
-##### [Credit Contracts and Consumer Finance Act 2003][574] (2003 No 52)
+##### [Credit Contracts and Consumer Finance Act 2003][586] (2003 No 52)
 
-[Section 15(1)(ca)][655]: omit ""section 2(1) of the Student Loan Scheme Act 1992"" and substitute ""section 4(1) of the Student Loan Scheme Act 2011"".
+[Section 15(1)(ca)][668]: omit ""section 2(1) of the Student Loan Scheme Act 1992"" and substitute ""section 4(1) of the Student Loan Scheme Act 2011"".
 
-##### [Customs and Excise Act 1996][662] (1996 No 27)
+##### [Customs and Excise Act 1996][675] (1996 No 27)
 
-Definition of **borrower** in [section 280G][576]: omit ""section 2 of the Student Loan Scheme Act 1992"" and substitute ""section 4(1) of the Student Loan Scheme Act 2011"".
+Definition of **borrower** in [section 280G][589]: omit ""section 2 of the Student Loan Scheme Act 1992"" and substitute ""section 4(1) of the Student Loan Scheme Act 2011"".
 
-Definition of **identifying information** in [section 280G][576]: omit ""section 62A(2) of the Student Loan Scheme Act 1992"" and substitute ""section 208(2) of the Student Loan Scheme Act 2011"".
+Definition of **identifying information** in [section 280G][589]: omit ""section 62A(2) of the Student Loan Scheme Act 1992"" and substitute ""section 208(2) of the Student Loan Scheme Act 2011"".
 
-Heading to [section 280H][663]: omit ""**Student Loan Scheme Act 1992**"" and substitute ""**Student Loan Scheme Act 2011**"".
+Heading to [section 280H][676]: omit ""**Student Loan Scheme Act 1992**"" and substitute ""**Student Loan Scheme Act 2011**"".
 
-[Section 280H(1)(a) to (c)][663]: repeal and substitute:
+[Section 280H(1)(a) to (c)][676]: repeal and substitute:
 
 > *   "(a) whether borrowers are New Zealand-based or overseas-based for the purposes of the Student Loan Scheme Act 2011:
 > 
@@ -6015,9 +6113,9 @@ Heading to [section 280H][663]: omit ""**Student Loan Scheme Act 1992**"" and su
 > 
 > 
 
-Heading to [section 280I][579]: omit ""**Student Loan Scheme Act 1992**"" and substitute ""**Student Loan Scheme Act 2011**"".
+Heading to [section 280I][592]: omit ""**Student Loan Scheme Act 1992**"" and substitute ""**Student Loan Scheme Act 2011**"".
 
-[Section 280I(1)(a) to (d)][579]: repeal and substitute:
+[Section 280I(1)(a) to (d)][592]: repeal and substitute:
 
 > *   "(a) whether borrowers are New Zealand-based or overseas-based for the purposes of the Student Loan Scheme Act 2011:
 > 
@@ -6027,105 +6125,105 @@ Heading to [section 280I][579]: omit ""**Student Loan Scheme Act 1992**"" and su
 > 
 > 
 
-##### [District Courts Act 1947][512] (1947 No 16)
+##### [District Courts Act 1947][522] (1947 No 16)
 
-[Section 84I(2)(c)(iiia)][664]: omit ""section 46 of the Student Loan Scheme Act 1992"" and substitute ""section 193 of the Student Loan Scheme Act 2011"".
+[Section 84I(2)(c)(iiia)][677]: omit ""section 46 of the Student Loan Scheme Act 1992"" and substitute ""section 193 of the Student Loan Scheme Act 2011"".
 
-##### [Education Act 1989][665] (1989 No 80)
+##### [Education Act 1989][678] (1989 No 80)
 
-Definition of **student loan** and **student loan scheme** in [section 226A(1)][666]: repeal and substitute:
-
-> "_student loan_ has the same meaning as in section 4(1) of the Student Loan Scheme Act 2011
-> 
-> "_student loan scheme_ has the same meaning as in section 4(1) of the Student Loan Scheme Act 2011".
-
-Definition of **student loan** and **student loan scheme** in [section 238B(1)][667]: repeal and substitute:
+Definition of **student loan** and **student loan scheme** in [section 226A(1)][679]: repeal and substitute:
 
 > "_student loan_ has the same meaning as in section 4(1) of the Student Loan Scheme Act 2011
 > 
 > "_student loan scheme_ has the same meaning as in section 4(1) of the Student Loan Scheme Act 2011".
 
-Definition of **student loan** in [section 302][668]: repeal and substitute:
+Definition of **student loan** and **student loan scheme** in [section 238B(1)][680]: repeal and substitute:
+
+> "_student loan_ has the same meaning as in section 4(1) of the Student Loan Scheme Act 2011
+> 
+> "_student loan scheme_ has the same meaning as in section 4(1) of the Student Loan Scheme Act 2011".
+
+Definition of **student loan** in [section 302][681]: repeal and substitute:
 
 > "_student loan_ has the same meaning as in section 4(1) of the Student Loan Scheme Act 2011".
 
-Definition of **student loan information** in [section 302][668]: omit ""Student Loan Scheme Act 1992"" and substitute ""Student Loan Scheme Act 2011"".
+Definition of **student loan information** in [section 302][681]: omit ""Student Loan Scheme Act 1992"" and substitute ""Student Loan Scheme Act 2011"".
 
-[Section 307AC(2)][339]: omit ""section 2A of the Student Loan Scheme Act 1992, the Student Loan Scheme Act 1992"" and substitute ""section 7 of the Student Loan Scheme Act 2011, the Student Loan Scheme Act 2011"".
+[Section 307AC(2)][343]: omit ""section 2A of the Student Loan Scheme Act 1992, the Student Loan Scheme Act 1992"" and substitute ""section 7 of the Student Loan Scheme Act 2011, the Student Loan Scheme Act 2011"".
 
-##### [Electoral Act 1993][669] (1993 No 87)
+##### [Electoral Act 1993][682] (1993 No 87)
 
-[Section 263B(4)(a)(iii)][670]: omit ""section 2 of the Student Loan Scheme Act 1992"" and substitute ""section 4(1) of the Student Loan Scheme Act 2011"".
+[Section 263B(4)(a)(iii)][683]: omit ""section 2 of the Student Loan Scheme Act 1992"" and substitute ""section 4(1) of the Student Loan Scheme Act 2011"".
 
-##### [Income Tax Act 2007][671] (2007 No 97)
+##### [Income Tax Act 2007][684] (2007 No 97)
 
-[Section MB 13(2)(g)][672]: omit ""Student Loan Scheme Act 1992"" and substitute ""Student Loan Scheme Act 2011"".
+[Section MB 13(2)(g)][685]: omit ""Student Loan Scheme Act 1992"" and substitute ""Student Loan Scheme Act 2011"".
 
-[Section MK 2(1)(d)(ii)][673]: repeal and substitute:
+[Section MK 2(1)(d)(ii)][686]: repeal and substitute:
 
 > *   "(ii) work overseas as a volunteer or for token payment for a charitable organisation named in regulations made under the Student Loan Scheme Act 2011 and the work meets 1 or more of the requirements in clause 2(1) of Schedule 1 of that Act."
 > 
 > 
 
-[Section RH 3(2)(b)(i)][674]: omit ""Student Loan Scheme Act 1992"" and substitute ""Student Loan Scheme Act 2011"".
+[Section RH 3(2)(b)(i)][687]: omit ""Student Loan Scheme Act 1992"" and substitute ""Student Loan Scheme Act 2011"".
 
-Paragraph (f) of the definition of **employer monthly schedule** in [section YA 1][318]: omit ""and student loan deductions made"" and substitute ""deductions made, and salary or wage deductions made under the Student Loan Scheme Act 2011"".
+Paragraph (f) of the definition of **employer monthly schedule** in [section YA 1][321]: omit ""and student loan deductions made"" and substitute ""deductions made, and salary or wage deductions made under the Student Loan Scheme Act 2011"".
 
-Paragraph (f) of the definition of **PAYE income payment form** in [section YA 1][318]: omit ""student loan payments"" and substitute ""salary or wage deductions made under the Student Loan Scheme Act 2011"".
+Paragraph (f) of the definition of **PAYE income payment form** in [section YA 1][321]: omit ""student loan payments"" and substitute ""salary or wage deductions made under the Student Loan Scheme Act 2011"".
 
-##### [Insolvency Act 2006][675] (2006 No 55)
+##### [Insolvency Act 2006][688] (2006 No 55)
 
-Definition of **student loan balance** in [section 3][676]: repeal and substitute:
+Definition of **student loan balance** in [section 3][689]: repeal and substitute:
 
 > "_student loan balance_ means a consolidated loan balance, as that term is defined in section 4(1) of the Student Loan Scheme Act 2011".
 
-[Section 274(2)(d)][677]: omit ""section 25 of the Student Loan Scheme Act 1992"" and substitute ""section 70 of the Student Loan Scheme Act 2011"".
+[Section 274(2)(d)][690]: omit ""section 25 of the Student Loan Scheme Act 1992"" and substitute ""section 70 of the Student Loan Scheme Act 2011"".
 
-##### [Judicature Act 1908][678] (1908 No 89)
+##### [Judicature Act 1908][691] (1908 No 89)
 
-Rule 17.35(1)(d) of [Schedule 2][679]: omit ""section 46 of the Student Loan Scheme Act 1992"" and substitute ""section 193 of the Student Loan Scheme Act 2011"".
+Rule 17.35(1)(d) of [Schedule 2][692]: omit ""section 46 of the Student Loan Scheme Act 1992"" and substitute ""section 193 of the Student Loan Scheme Act 2011"".
 
-##### [KiwiSaver Act 2006][680] (2006 No 40)
+##### [KiwiSaver Act 2006][693] (2006 No 40)
 
-[Section 98(3)(c)][681]: repeal and substitute:
+[Section 98(3)(c)][694]: repeal and substitute:
 
 > *   "(c) the total salary or wage deductions made under the Student Loan Scheme Act 2011; and".
 > 
 > 
 
-##### [Prisoners' and Victims' Claims Act 2005][682] (2005 No 74)
+##### [Prisoners' and Victims' Claims Act 2005][695] (2005 No 74)
 
-[Section 17(5)][683]: omit ""Student Loan Scheme Act 1992"" and substitute ""Student Loan Scheme Act 2011"".
+[Section 17(5)][696]: omit ""Student Loan Scheme Act 1992"" and substitute ""Student Loan Scheme Act 2011"".
 
-[Section 19(3)][684]: omit ""Student Loan Scheme Act 1992"" and substitute ""Student Loan Scheme Act 2011"".
+[Section 19(3)][697]: omit ""Student Loan Scheme Act 1992"" and substitute ""Student Loan Scheme Act 2011"".
 
-##### [Privacy Act 1993][685] (1993 No 28)
+##### [Privacy Act 1993][698] (1993 No 28)
 
-Item relating to the Student Loan Scheme Act 1992 in [Schedule 3][686]: omit and substitute:
+Item relating to the Student Loan Scheme Act 1992 in [Schedule 3][699]: omit and substitute:
 
 > Student Loan Scheme Act 2011Section 208
 > 
 > 
 
-##### [Social Security Act 1964][317] (1964 No 136)
+##### [Social Security Act 1964][320] (1964 No 136)
 
-[Section 84(1)][687]: omit ""Student Loan Scheme Act 1992"" and substitute ""Student Loan Scheme Act 2011"".
+[Section 84(1)][700]: omit ""Student Loan Scheme Act 1992"" and substitute ""Student Loan Scheme Act 2011"".
 
-##### [Tax Administration Act 1994][484] (1994 No 166)
+##### [Tax Administration Act 1994][491] (1994 No 166)
 
-Paragraph (a)(iii)(D) of the definition of **tax** in [section 3(1)][316]: repeal and substitute:
+Paragraph (a)(iii)(D) of the definition of **tax** in [section 3(1)][319]: repeal and substitute:
 
 > *   "(D) a salary or wage deduction (as defined in section 4(1) of the Student Loan Scheme Act 2011), or an amount recovered in accordance with section 193 of that Act:".
 > 
 > 
 
-Paragraph (a)(x) of the definition of **tax** in [section 3(1)][316]: repeal and substitute:
+Paragraph (a)(x) of the definition of **tax** in [section 3(1)][319]: repeal and substitute:
 
 > *   "(x) a pre-taxed repayment obligation, an other income repayment obligation, or an overseas-based repayment obligation (as those terms are defined in section 4(1) of the Student Loan Scheme Act 2011):".
 > 
 > 
 
-Paragraph (c) of the definition of **tax** in [section 3(1)][316]: repeal and substitute:
+Paragraph (c) of the definition of **tax** in [section 3(1)][319]: repeal and substitute:
 
 > *   "(c) for the purposes of sections 6, 6A, and 6B, includes---
 >         
@@ -6139,35 +6237,35 @@ Paragraph (c) of the definition of **tax** in [section 3(1)][316]: repeal and su
 > 
 > 
 
-Paragraph (ca)(ii) of the definition of **tax** in [section 3(1)][316]: omit ""section 2 of the Student Loan Scheme Act 1992"" and substitute ""section 4(1) of the Student Loan Scheme Act 2011"".
+Paragraph (ca)(ii) of the definition of **tax** in [section 3(1)][319]: omit ""section 2 of the Student Loan Scheme Act 1992"" and substitute ""section 4(1) of the Student Loan Scheme Act 2011"".
 
-Paragraph (d)(iii)(D) of the definition of **tax** in [section 3(1)][316]: repeal and substitute:
+Paragraph (d)(iii)(D) of the definition of **tax** in [section 3(1)][319]: repeal and substitute:
 
 > *   "(D) a salary or wage deduction (as defined in section 4(1) of the Student Loan Scheme Act 2011) or an amount recovered in accordance with section 193 of that Act:".
 > 
 > 
 
-Paragraph (d)(ix) of the definition of **tax** in [section 3(1)][316]: repeal and substitute:
+Paragraph (d)(ix) of the definition of **tax** in [section 3(1)][319]: repeal and substitute:
 
 > *   "(ix) a pre-taxed repayment obligation, an other income repayment obligation, or an overseas-based repayment obligation (as those terms are defined in section 4(1) of the Student Loan Scheme Act 2011)".
 > 
 > 
 
-[Section 4A(3)(c)][688]: repeal and substitute:
+[Section 4A(3)(c)][701]: repeal and substitute:
 
 > *   "(c) salary or wage deductions under the Student Loan Scheme Act 2011,---".
 > 
 > 
 
-[Section 33A(1)(b)(ii)][689]: repeal.
+[Section 33A(1)(b)(ii)][702]: repeal.
 
-[Section 33A(1)(b)(viii)][689]: repeal.
+[Section 33A(1)(b)(viii)][702]: repeal.
 
-[Section 33A(1)(g)][689]: repeal.
+[Section 33A(1)(g)][702]: repeal.
 
-[Section 46(5B)][690]: omit ""or student loan deductions made"" and substitute ""deductions made, or salary or wage deductions made under the Student Loan Scheme Act 2011"".
+[Section 46(5B)][703]: omit ""or student loan deductions made"" and substitute ""deductions made, or salary or wage deductions made under the Student Loan Scheme Act 2011"".
 
-[Section 81(4)(g) and (gb)][691]: repeal and substitute:
+[Section 81(4)(g) and (gb)][704]: repeal and substitute:
 
 > *   "(g) communicating to an authorised person under section 207 of the Student Loan Scheme Act 2011 any information specified in subsection (1) or (2) of that section in accordance with subsection (1) of that section:
 > 
@@ -6177,25 +6275,25 @@ Paragraph (d)(ix) of the definition of **tax** in [section 3(1)][316]: repeal an
 > 
 > 
 
-[Section 81(7)][691]: omit ""Student Loan Scheme Act 1992"" and substitute ""Student Loan Scheme Act 2011"".
+[Section 81(7)][704]: omit ""Student Loan Scheme Act 1992"" and substitute ""Student Loan Scheme Act 2011"".
 
-[Section 120B(c)][692]: omit ""Student Loan Scheme Act 1992"" and substitute ""Student Loan Scheme Act 2011"".
+[Section 120B(c)][705]: omit ""Student Loan Scheme Act 1992"" and substitute ""Student Loan Scheme Act 2011"".
 
-[Section 138S(1)(a)][693]: omit ""Student Loan Scheme Act 1992"" in each place where it appears and substitute in each case ""Student Loan Scheme Act 2011"".
+[Section 138S(1)(a)][706]: omit ""Student Loan Scheme Act 1992"" in each place where it appears and substitute in each case ""Student Loan Scheme Act 2011"".
 
-[Section 143A(5)][497]: insert after paragraph (d):
+[Section 143A(5)][504]: insert after paragraph (d):
 
 > *   "(e) a salary or wage deduction made under the Student Loan Scheme Act 2011:".
 > 
 > 
 
-[Section 143B][498]: insert after subsection (2):
+[Section 143B][505]: insert after subsection (2):
 
 > *   "(3) In this section, _tax_ includes a repayment obligation as defined in section 4(1) of the Student Loan Scheme Act 2011\."
 > 
 > 
 
-[Section 149(5)][500]: repeal and substitute:
+[Section 149(5)][507]: repeal and substitute:
 
 > *   "(5) If a shortfall penalty, other than under section 141ED, has been imposed on a taxpayer for taking an incorrect tax position, the Commissioner may not subsequently prosecute the taxpayer---
 >         
@@ -6209,54 +6307,54 @@ Paragraph (d)(ix) of the definition of **tax** in [section 3(1)][316]: repeal an
 > 
 > 
 
-[Section 157A(1)(a)(iv)][694]: repeal and substitute:
+[Section 157A(1)(a)(iv)][707]: repeal and substitute:
 
 > *   "(iv) section 193 of the Student Loan Scheme Act 2011; or".
 > 
 > 
 
-[Section 184A(5)(f)][551]: repeal and substitute:
+[Section 184A(5)(f)][563]: repeal and substitute:
 
 > *   "(f) a repayment obligation, as defined in section 4(1) of the Student Loan Scheme Act 2011, if the borrower has chosen to receive a refund under section 132 of that Act."
 > 
 > 
 
-Item relating to the Student Loan Scheme Act 1992 in the [Schedule][695]: omit and substitute: ""Student Loan Scheme Act 2011"".
+Item relating to the Student Loan Scheme Act 1992 in the [Schedule][708]: omit and substitute: ""Student Loan Scheme Act 2011"".
 
-Schedule 9: amended (with effect on 1 April 2012), on 12 April 2012, by [section 58][696] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
+Schedule 9: amended (with effect on 1 April 2012), on 12 April 2012, by [section 58][709] of the Student Loan Scheme Amendment Act 2012 (2012 No 32).
 
 ---
 
 ## Schedule 10  
 Amendments to other enactments
 
-[s 224][300]
+[s 224][303]
 
-##### [District Courts Rules 2009][697] (SR 2009/257)
+##### [District Courts Rules 2009][710] (SR 2009/257)
 
-Note 2(b) of [form 67 in Schedule 1][698]: omit ""Student Loan Scheme Act 1992"" and substitute ""Student Loan Scheme Act 2011"".
+Note 2(b) of [form 67 in Schedule 1][711]: omit ""Student Loan Scheme Act 1992"" and substitute ""Student Loan Scheme Act 2011"".
 
-##### [Education (Early Childhood Services) Regulations 2008][699] (SR 2008/204)
+##### [Education (Early Childhood Services) Regulations 2008][712] (SR 2008/204)
 
-[Regulation 7(c)][700]: omit ""student loan within the meaning of section 2(1) of the Student Loan Scheme Act 1992"" and substitute ""student loan, as defined in section 4(1) of the Student Loan Scheme Act 2011"".
+[Regulation 7(c)][713]: omit ""student loan within the meaning of section 2(1) of the Student Loan Scheme Act 1992"" and substitute ""student loan, as defined in section 4(1) of the Student Loan Scheme Act 2011"".
 
-[Regulation 8(c)][701]: omit ""student loan within the meaning of section 2(1) of the Student Loan Scheme Act 1992"" and substitute ""student loan, as defined in section 4(1) of the Student Loan Scheme Act 2011"".
+[Regulation 8(c)][714]: omit ""student loan within the meaning of section 2(1) of the Student Loan Scheme Act 1992"" and substitute ""student loan, as defined in section 4(1) of the Student Loan Scheme Act 2011"".
 
-##### [Inland Revenue Department (Drafting) Order 1995][702] (SR 1995/286)
+##### [Inland Revenue Department (Drafting) Order 1995][715] (SR 1995/286)
 
-[Clause 2(2)(a)][703]: omit ""Student Loan Scheme Act 1992"" and substitute ""Student Loan Scheme Act 2011"".
+[Clause 2(2)(a)][716]: omit ""Student Loan Scheme Act 1992"" and substitute ""Student Loan Scheme Act 2011"".
 
-##### [Sentencing (Orders of Reparation) Order 2006][704] (SR 2006/263)
+##### [Sentencing (Orders of Reparation) Order 2006][717] (SR 2006/263)
 
-Item relating to the Student Loan Scheme Act 1992 in the [Schedule][705]: omit ""**Student Loan Scheme Act 1992 (1992 No 141)**"" and substitute ""**Student Loan Scheme Act 2011 (2011 No 62)**"".
+Item relating to the Student Loan Scheme Act 1992 in the [Schedule][718]: omit ""**Student Loan Scheme Act 1992 (1992 No 141)**"" and substitute ""**Student Loan Scheme Act 2011 (2011 No 62)**"".
 
-Item relating to the Student Loan Scheme Act 1992 in the [Schedule][705]: omit ""Section 81(4)"" and substitute ""Section 163(3)"".
+Item relating to the Student Loan Scheme Act 1992 in the [Schedule][718]: omit ""Section 81(4)"" and substitute ""Section 163(3)"".
 
-##### [Student Allowances Regulations 1998][706] (SR 1998/277)
+##### [Student Allowances Regulations 1998][719] (SR 1998/277)
 
-Paragraph (c)(vii) of the definition of **personal income** in [regulation 2(1)][707]: omit ""within the meaning of section 2 of the Student Loan Scheme Act 1992"" and substitute ""as defined in section 4(1) of the Student Loan Scheme Act 2011"".
+Paragraph (c)(vii) of the definition of **personal income** in [regulation 2(1)][720]: omit ""within the meaning of section 2 of the Student Loan Scheme Act 1992"" and substitute ""as defined in section 4(1) of the Student Loan Scheme Act 2011"".
 
-Paragraph (c)(v) of the definition of **spousal or partner's income** in [regulation 2(1)][707]: omit ""within the meaning of section 2 of the Student Loan Scheme Act 1992"" and substitute ""as defined in section 4(1) of the Student Loan Scheme Act 2011"".
+Paragraph (c)(v) of the definition of **spousal or partner's income** in [regulation 2(1)][720]: omit ""within the meaning of section 2 of the Student Loan Scheme Act 1992"" and substitute ""as defined in section 4(1) of the Student Loan Scheme Act 2011"".
 
 #### 
 
@@ -6270,31 +6368,33 @@ Paragraph (c)(v) of the definition of **spousal or partner's income** in [regula
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][708] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][709] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][721] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][722] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][710] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][711] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][723] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][724] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409): [regulation 3(1)][504]
+*   [Student Loan Scheme Amendment Act 2014][725] (2014 No 6)
     
-    Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52): [section 148][570]
+    Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409): [regulation 3(1)][514]
     
-    [Student Loan Scheme Amendment Act 2013][651] (2013 No 10)
+    Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52): [section 148][582]
     
-    Legislation Act 2012 (2012 No 119): [section 77(3)][591]
+    [Student Loan Scheme Amendment Act 2013][664] (2013 No 10)
     
-    Student Loan Scheme (Repayment Percentage) Regulations 2012 (SR 2012/192): [regulation 3][332]
+    Legislation Act 2012 (2012 No 119): [section 77(3)][604]
     
-    [Student Loan Scheme (Budget Measures) Amendment Act 2012][712] (2012 No 39)
+    Student Loan Scheme (Repayment Percentage) Regulations 2012 (SR 2012/192): [regulation 3][336]
     
-    [Student Loan Scheme Amendment Act 2012][713] (2012 No 32)
+    [Student Loan Scheme (Budget Measures) Amendment Act 2012][726] (2012 No 39)
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][502]
+    [Student Loan Scheme Amendment Act 2012][727] (2012 No 32)
     
-    Student Loan Scheme Act 2011 (2011 No 62): [section 218(2)][293]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][511]
+    
+    Student Loan Scheme Act 2011 (2011 No 62): [section 218(2)][296]
 
 
 
@@ -6484,531 +6584,545 @@ Paragraph (c)(v) of the definition of **spousal or partner's income** in [regula
 [183]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3885565
 [184]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3885566
 [185]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3885567
-[186]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180310
-[187]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180311
-[188]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180312
-[189]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180313
-[190]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180314
-[191]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180315
-[192]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180316
-[193]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180317
-[194]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3830400
-[195]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM5139020
-[196]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM5138877
-[197]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180319
-[198]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM2543900
-[199]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180320
-[200]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180321
-[201]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180322
-[202]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180323
-[203]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180324
-[204]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180325
-[205]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180326
-[206]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180327
-[207]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180329
-[208]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180330
-[209]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180331
-[210]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180333
-[211]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180334
-[212]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180335
-[213]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180342
-[214]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180344
-[215]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180346
-[216]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180347
-[217]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM5139021
-[218]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM5138899
-[219]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180348
-[220]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180349
-[221]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180350
-[222]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180351
-[223]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180352
-[224]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180353
-[225]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180354
-[226]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180355
-[227]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180356
-[228]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180357
-[229]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180358
-[230]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180360
-[231]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180361
-[232]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180362
-[233]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180363
-[234]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180364
-[235]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180365
-[236]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180366
-[237]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM5135876
-[238]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180367
-[239]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180368
-[240]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3885568
-[241]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180369
-[242]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180370
-[243]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180371
-[244]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3885569
-[245]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180372
-[246]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM5135880
-[247]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180373
-[248]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180374
-[249]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180375
-[250]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180376
-[251]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180377
-[252]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180378
-[253]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180379
-[254]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180380
-[255]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180381
-[256]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180382
-[257]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180385
-[258]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180386
-[259]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180387
-[260]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM4428926
-[261]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM4428928
-[262]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM5135888
-[263]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3885570
-[264]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3828400
-[265]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180403
-[266]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180405
-[267]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3885571
-[268]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180408
-[269]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180409
-[270]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180410
-[271]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180411
-[272]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180412
-[273]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180413
-[274]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180414
-[275]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3526700
-[276]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180415
-[277]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180416
-[278]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180417
-[279]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180418
-[280]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180423
-[281]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180424
-[282]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180425
-[283]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180426
-[284]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180429
-[285]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180431
-[286]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180433
-[287]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180435
-[288]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180436
-[289]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180437
-[290]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180438
-[291]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180439
-[292]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180440
-[293]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180441
-[294]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180442
-[295]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180443
-[296]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180444
-[297]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3787600
-[298]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180445
-[299]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180446
-[300]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180447
-[301]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180448
-[302]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180449
-[303]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180450
-[304]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180465
-[305]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180467
-[306]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180469
-[307]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180471
-[308]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180475
-[309]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3885577
-[310]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3791142
-[311]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180500
-[312]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180531
-[313]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682916
-[314]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1512333
-[315]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1512336
-[316]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM348353
-[317]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM359106
-[318]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1520575
-[319]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519952
-[320]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3976913
-[321]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180485
-[322]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1512545
-[323]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1517486
-[324]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM351027
-[325]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519947
-[326]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519814
-[327]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM286959
-[328]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287923
-[329]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989016
-[330]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682917
-[331]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683032
-[332]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4594325
-[333]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3976915
-[334]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1523249
-[335]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682933
-[336]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683037
-[337]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM286951
-[338]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM286956
-[339]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM187005
-[340]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287407
-[341]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287411
-[342]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5004204
-[343]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3249803
-[344]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989026
-[345]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682939
-[346]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989027
-[347]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287414
-[348]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287415
-[349]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287429
-[350]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288116
-[351]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3249813
-[352]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287915
-[353]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287918
-[354]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287921
-[355]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180459
-[356]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180461
-[357]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180463
-[358]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180453
-[359]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287940
-[360]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM2804427
-[361]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337301
-[362]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM2804417
-[363]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287900
-[364]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682940
-[365]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287908
-[366]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288283
-[367]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682941
-[368]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682942
-[369]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1253917
-[370]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287471
-[371]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1252632
-[372]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337302
-[373]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287474
-[374]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337303
-[375]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287478
-[376]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337304
-[377]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287485
-[378]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337305
-[379]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM2803004
-[380]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337306
-[381]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337307
-[382]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM364481
-[383]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287495
-[384]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337308
-[385]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989029
-[386]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337309
-[387]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989030
-[388]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337310
-[389]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337311
-[390]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287441
-[391]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989031
-[392]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM351362
-[393]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM182904
-[394]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989032
-[395]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683016
-[396]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287498
-[397]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287494
-[398]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337312
-[399]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682943
-[400]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989033
-[401]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287600
-[402]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682944
-[403]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM354673
-[404]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1518463
-[405]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM351161
-[406]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287623
-[407]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519812
-[408]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287642
-[409]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287628
-[410]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989054
-[411]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989055
-[412]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287651
-[413]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3179903
-[414]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287696
-[415]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287680
-[416]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682976
-[417]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287432
-[418]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287686
-[419]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682979
-[420]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287692
-[421]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682983
-[422]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287439
-[423]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682984
-[424]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3180260
-[425]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337315
-[426]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287694
-[427]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989065
-[428]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682985
-[429]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682986
-[430]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683038
-[431]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4489609
-[432]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5004228
-[433]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288239
-[434]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682988
-[435]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4489610
-[436]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288238
-[437]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4489611
-[438]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989068
-[439]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288187
-[440]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288214
-[441]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288222
-[442]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682989
-[443]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5004208
-[444]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337320
-[445]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287913
-[446]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287955
-[447]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM2804443
-[448]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288121
-[449]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683045
-[450]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288154
-[451]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683047
-[452]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288112
-[453]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM355922
-[454]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288190
-[455]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682990
-[456]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288198
-[457]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5004231
-[458]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288194
-[459]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683049
-[460]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5004232
-[461]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356459
-[462]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356469
-[463]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288200
-[464]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288205
-[465]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288207
-[466]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5004236
-[467]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337321
-[468]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989071
-[469]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288209
-[470]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288211
-[471]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM358340
-[472]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM358350
-[473]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM358355
-[474]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM358361
-[475]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682991
-[476]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356114
-[477]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989072
-[478]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682992
-[479]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3180331
-[480]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356638
-[481]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682994
-[482]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337322
-[483]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356427
-[484]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM348342
-[485]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356488
-[486]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356604
-[487]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356609
-[488]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356612
-[489]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356615
-[490]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356629
-[491]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288666
-[492]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5004237
-[493]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5004209
-[494]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682995
-[495]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683052
-[496]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356684
-[497]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356691
-[498]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356698
-[499]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356930
-[500]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356934
-[501]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288662
-[502]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3360714
-[503]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288664
-[504]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5642106
-[505]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3360067
-[506]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287417
-[507]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287424
-[508]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287418
-[509]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287419
-[510]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287422
-[511]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM133281
-[512]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM242775
-[513]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287426
-[514]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM353135
-[515]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288611
-[516]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682996
-[517]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682998
-[518]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288293
-[519]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288603
-[520]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288288
-[521]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4425737
-[522]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683000
-[523]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288290
-[524]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288613
-[525]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288601
-[526]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288296
-[527]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288606
-[528]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288608
-[529]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683002
-[530]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989073
-[531]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288250
-[532]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683003
-[533]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288177
-[534]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356978
-[535]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM357427
-[536]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM357430
-[537]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM357432
-[538]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288171
-[539]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989074
-[540]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683004
-[541]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288183
-[542]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5004239
-[543]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288179
-[544]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288180
-[545]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337325
-[546]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288248
-[547]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5004240
-[548]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337326
-[549]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288246
-[550]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4574846
-[551]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM358789
-[552]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288243
-[553]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM350437
-[554]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1252607
-[555]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM351124
-[556]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM351125
-[557]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM351127
-[558]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM351328
-[559]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM352122
-[560]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM352124
-[561]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM354189
-[562]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM354426
-[563]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM354915
-[564]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM354948
-[565]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM354955
-[566]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1517998
-[567]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1520416
-[568]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1520420
-[569]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287452
-[570]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5166154
-[571]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683006
-[572]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM392349
-[573]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288284
-[574]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM211511
-[575]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288257
-[576]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM380132
-[577]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288279
-[578]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683007
-[579]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM380146
-[580]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288281
-[581]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM154184
-[582]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM350134
-[583]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM154828
-[584]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM154834
-[585]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM350156
-[586]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM350162
-[587]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288673
-[588]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683008
-[589]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM2997643
-[590]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM2998573
-[591]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM2998633
-[592]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4574848
-[593]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM5136044
-[594]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM5136045
-[595]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5004211
-[596]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683009
-[597]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3249819
-[598]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM374249
-[599]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1765100
-[600]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM185966
-[601]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180451
-[602]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287928
-[603]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287930
-[604]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287932
-[605]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519941
-[606]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287934
-[607]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180456
-[608]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287937
-[609]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM186208
-[610]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337328
-[611]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337330
-[612]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1512331
-[613]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1517903
-[614]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519802
-[615]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519846
-[616]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519848
-[617]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519955
-[618]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM2781804
-[619]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519976
-[620]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519978
-[621]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1253927
-[622]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1253933
-[623]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683010
-[624]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683011
-[625]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519824
-[626]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519822
-[627]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM355313
-[628]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1517917
-[629]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519805
-[630]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519807
-[631]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519810
-[632]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519816
-[633]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519833
-[634]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519844
-[635]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519886
-[636]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519896
-[637]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519920
-[638]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1520553
-[639]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1799310
-[640]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519926
-[641]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3885534
-[642]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3180441
-[643]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337331
-[644]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683012
-[645]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4734000
-[646]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5004227
-[647]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180478
-[648]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180482
-[649]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989081
-[650]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287486
-[651]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682901
-[652]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5004241
-[653]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM2860009
-[654]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288229
-[655]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM212753
-[656]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM99493
-[657]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM101801
-[658]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM319569
-[659]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM323546
-[660]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM294848
-[661]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1275304
-[662]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM377336
-[663]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM380144
-[664]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM243986
-[665]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM175958
-[666]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM185127
-[667]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM185777
-[668]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM186840
-[669]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM307518
-[670]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM310479
-[671]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1512300
-[672]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3661999
-[673]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1518602
-[674]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1690715
-[675]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM385298
-[676]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM385805
-[677]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM387286
-[678]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM144692
-[679]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM147653
-[680]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM378371
-[681]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM379095
-[682]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM350820
-[683]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM351436
-[684]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM351445
-[685]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM296638
-[686]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM298748
-[687]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM364489
-[688]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM350116
-[689]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM351039
-[690]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM351398
-[691]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM352409
-[692]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM354993
-[693]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356108
-[694]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM357421
-[695]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM359333
-[696]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989083
-[697]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM2300100
-[698]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM2300972
-[699]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1412500
-[700]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1367904
-[701]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1412562
-[702]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM207334
-[703]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM207339
-[704]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM406631
-[705]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM406640
-[706]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM259350
-[707]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM259355
-[708]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM2998516
-[709]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM2998515
-[710]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM2998532
-[711]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[712]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4489603
-[713]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989003
+[186]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM5991307
+[187]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180310
+[188]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180311
+[189]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180312
+[190]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180313
+[191]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180314
+[192]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180315
+[193]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180316
+[194]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180317
+[195]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3830400
+[196]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM5139020
+[197]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM5138877
+[198]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180319
+[199]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM2543900
+[200]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180320
+[201]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180321
+[202]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180322
+[203]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180323
+[204]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180324
+[205]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180325
+[206]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180326
+[207]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180327
+[208]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180329
+[209]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180330
+[210]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180331
+[211]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180333
+[212]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180334
+[213]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180335
+[214]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180342
+[215]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180344
+[216]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180346
+[217]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180347
+[218]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM5139021
+[219]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM5138899
+[220]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180348
+[221]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180349
+[222]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM5991315
+[223]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM5991316
+[224]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180350
+[225]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180351
+[226]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180352
+[227]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180353
+[228]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180354
+[229]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180355
+[230]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180356
+[231]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180357
+[232]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180358
+[233]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180360
+[234]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180361
+[235]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180362
+[236]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180363
+[237]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180364
+[238]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180365
+[239]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180366
+[240]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM5135876
+[241]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180367
+[242]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180368
+[243]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3885568
+[244]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180369
+[245]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180370
+[246]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180371
+[247]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3885569
+[248]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180372
+[249]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM5135880
+[250]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180373
+[251]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180374
+[252]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180375
+[253]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180376
+[254]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180377
+[255]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180378
+[256]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180379
+[257]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180380
+[258]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180381
+[259]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180382
+[260]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180385
+[261]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180386
+[262]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180387
+[263]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM4428926
+[264]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM4428928
+[265]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM5135888
+[266]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3885570
+[267]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3828400
+[268]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180403
+[269]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180405
+[270]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3885571
+[271]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180408
+[272]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180409
+[273]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180410
+[274]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180411
+[275]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180412
+[276]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180413
+[277]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180414
+[278]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3526700
+[279]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180415
+[280]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180416
+[281]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180417
+[282]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180418
+[283]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180423
+[284]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180424
+[285]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180425
+[286]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180426
+[287]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180429
+[288]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180431
+[289]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180433
+[290]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180435
+[291]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180436
+[292]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180437
+[293]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180438
+[294]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180439
+[295]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180440
+[296]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180441
+[297]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180442
+[298]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180443
+[299]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180444
+[300]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3787600
+[301]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180445
+[302]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180446
+[303]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180447
+[304]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180448
+[305]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180449
+[306]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180450
+[307]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180465
+[308]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180467
+[309]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180469
+[310]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180471
+[311]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180475
+[312]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3885577
+[313]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3791142
+[314]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180500
+[315]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180531
+[316]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682916
+[317]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1512333
+[318]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1512336
+[319]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM348353
+[320]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM359106
+[321]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1520575
+[322]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519952
+[323]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3976913
+[324]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180485
+[325]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1512545
+[326]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1517486
+[327]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM351027
+[328]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519947
+[329]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519814
+[330]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM286959
+[331]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287923
+[332]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989016
+[333]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682917
+[334]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5534917
+[335]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683032
+[336]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4594325
+[337]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3976915
+[338]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1523249
+[339]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682933
+[340]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683037
+[341]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM286951
+[342]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM286956
+[343]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM187005
+[344]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287407
+[345]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287411
+[346]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5004204
+[347]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3249803
+[348]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989026
+[349]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682939
+[350]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989027
+[351]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287414
+[352]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287415
+[353]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287429
+[354]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288116
+[355]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3249813
+[356]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287915
+[357]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287918
+[358]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287921
+[359]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180459
+[360]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180461
+[361]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180463
+[362]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180453
+[363]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287940
+[364]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM2804427
+[365]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337301
+[366]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM2804417
+[367]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287900
+[368]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682940
+[369]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287908
+[370]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288283
+[371]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682941
+[372]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682942
+[373]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1253917
+[374]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287471
+[375]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1252632
+[376]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337302
+[377]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287474
+[378]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337303
+[379]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287478
+[380]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337304
+[381]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287485
+[382]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337305
+[383]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM2803004
+[384]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337306
+[385]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337307
+[386]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM364481
+[387]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287495
+[388]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337308
+[389]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989029
+[390]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337309
+[391]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989030
+[392]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337310
+[393]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337311
+[394]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287441
+[395]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989031
+[396]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM351362
+[397]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM182904
+[398]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989032
+[399]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683016
+[400]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287498
+[401]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287494
+[402]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337312
+[403]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682943
+[404]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989033
+[405]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287600
+[406]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682944
+[407]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM354673
+[408]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1518463
+[409]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM351161
+[410]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287623
+[411]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519812
+[412]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5534921
+[413]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287642
+[414]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287628
+[415]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989054
+[416]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989055
+[417]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287651
+[418]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3179903
+[419]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287696
+[420]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287680
+[421]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682976
+[422]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287432
+[423]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287686
+[424]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682979
+[425]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287692
+[426]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682983
+[427]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287439
+[428]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682984
+[429]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3180260
+[430]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337315
+[431]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287694
+[432]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989065
+[433]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682985
+[434]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682986
+[435]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683038
+[436]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4489609
+[437]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5004228
+[438]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288239
+[439]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682988
+[440]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4489610
+[441]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288238
+[442]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4489611
+[443]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989068
+[444]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288187
+[445]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288214
+[446]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288222
+[447]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682989
+[448]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5004208
+[449]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337320
+[450]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287913
+[451]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287955
+[452]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM2804443
+[453]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288121
+[454]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683045
+[455]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288154
+[456]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683047
+[457]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356984
+[458]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5534932
+[459]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288112
+[460]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM355922
+[461]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288190
+[462]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682990
+[463]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288198
+[464]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5004231
+[465]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288194
+[466]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683049
+[467]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5004232
+[468]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356459
+[469]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356469
+[470]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288200
+[471]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288205
+[472]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288207
+[473]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5004236
+[474]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337321
+[475]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989071
+[476]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288209
+[477]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288211
+[478]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM358340
+[479]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM358350
+[480]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM358355
+[481]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM358361
+[482]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682991
+[483]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356114
+[484]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989072
+[485]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682992
+[486]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3180331
+[487]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356638
+[488]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682994
+[489]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337322
+[490]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356427
+[491]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM348342
+[492]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356488
+[493]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356604
+[494]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356609
+[495]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356612
+[496]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356615
+[497]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356629
+[498]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288666
+[499]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5004237
+[500]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5004209
+[501]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682995
+[502]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683052
+[503]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356684
+[504]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356691
+[505]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356698
+[506]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356930
+[507]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356934
+[508]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5534935
+[509]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM257063
+[510]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288662
+[511]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3360714
+[512]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5534939
+[513]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288664
+[514]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5642106
+[515]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3360067
+[516]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287417
+[517]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287424
+[518]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287418
+[519]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287419
+[520]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287422
+[521]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM133281
+[522]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM242775
+[523]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287426
+[524]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM353135
+[525]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288611
+[526]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682996
+[527]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682998
+[528]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288293
+[529]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288603
+[530]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288288
+[531]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4425737
+[532]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683000
+[533]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288290
+[534]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288613
+[535]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288601
+[536]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288296
+[537]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288606
+[538]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288608
+[539]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683002
+[540]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989073
+[541]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288250
+[542]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683003
+[543]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288177
+[544]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356978
+[545]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM357427
+[546]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM357430
+[547]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM357432
+[548]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288171
+[549]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989074
+[550]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5534940
+[551]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683004
+[552]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5534941
+[553]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288183
+[554]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5004239
+[555]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288179
+[556]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288180
+[557]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337325
+[558]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288248
+[559]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5004240
+[560]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337326
+[561]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288246
+[562]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4574846
+[563]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM358789
+[564]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288243
+[565]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM350437
+[566]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1252607
+[567]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM351124
+[568]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM351125
+[569]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM351127
+[570]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM351328
+[571]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM352122
+[572]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM352124
+[573]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM354189
+[574]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM354426
+[575]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM354915
+[576]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM354948
+[577]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM354955
+[578]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1517998
+[579]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1520416
+[580]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1520420
+[581]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287452
+[582]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5166154
+[583]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683006
+[584]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM392349
+[585]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288284
+[586]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM211511
+[587]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288257
+[588]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5534942
+[589]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM380132
+[590]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288279
+[591]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683007
+[592]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM380146
+[593]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288281
+[594]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM154184
+[595]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM350134
+[596]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM154828
+[597]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM154834
+[598]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM350156
+[599]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM350162
+[600]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288673
+[601]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683008
+[602]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM2997643
+[603]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM2998573
+[604]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM2998633
+[605]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4574848
+[606]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM5136044
+[607]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM5136045
+[608]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5004211
+[609]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683009
+[610]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3249819
+[611]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM374249
+[612]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1765100
+[613]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM185966
+[614]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180451
+[615]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287928
+[616]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287930
+[617]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287932
+[618]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519941
+[619]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287934
+[620]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180456
+[621]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287937
+[622]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM186208
+[623]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337328
+[624]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337330
+[625]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1512331
+[626]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1517903
+[627]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519802
+[628]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519846
+[629]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519848
+[630]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519955
+[631]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM2781804
+[632]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519976
+[633]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519978
+[634]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1253927
+[635]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1253933
+[636]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683010
+[637]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683011
+[638]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519824
+[639]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519822
+[640]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM355313
+[641]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1517917
+[642]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519805
+[643]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519807
+[644]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519810
+[645]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519816
+[646]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519833
+[647]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519844
+[648]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519886
+[649]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519896
+[650]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519920
+[651]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1520553
+[652]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1799310
+[653]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1519926
+[654]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3885534
+[655]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3180441
+[656]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4337331
+[657]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4683012
+[658]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4734000
+[659]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5004227
+[660]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180478
+[661]: http://www.legislation.govt.nz/act/public/2011/0062/latest/whole.html#DLM3180482
+[662]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989081
+[663]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM287486
+[664]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4682901
+[665]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5004241
+[666]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM2860009
+[667]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM288229
+[668]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM212753
+[669]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM99493
+[670]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM101801
+[671]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM319569
+[672]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM323546
+[673]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM294848
+[674]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1275304
+[675]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM377336
+[676]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM380144
+[677]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM243986
+[678]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM175958
+[679]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM185127
+[680]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM185777
+[681]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM186840
+[682]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM307518
+[683]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM310479
+[684]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1512300
+[685]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3661999
+[686]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1518602
+[687]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1690715
+[688]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM385298
+[689]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM385805
+[690]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM387286
+[691]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM144692
+[692]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM147653
+[693]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM378371
+[694]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM379095
+[695]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM350820
+[696]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM351436
+[697]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM351445
+[698]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM296638
+[699]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM298748
+[700]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM364489
+[701]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM350116
+[702]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM351039
+[703]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM351398
+[704]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM352409
+[705]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM354993
+[706]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM356108
+[707]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM357421
+[708]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM359333
+[709]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989083
+[710]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM2300100
+[711]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM2300972
+[712]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1412500
+[713]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1367904
+[714]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM1412562
+[715]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM207334
+[716]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM207339
+[717]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM406631
+[718]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM406640
+[719]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM259350
+[720]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM259355
+[721]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM2998516
+[722]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM2998515
+[723]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM2998532
+[724]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[725]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM5534903
+[726]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM4489603
+[727]: http://www.legislation.govt.nz/act/public/2011/0062/latest/link.aspx?id=DLM3989003
