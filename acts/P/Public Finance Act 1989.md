@@ -1,5 +1,5 @@
 Reprint  
-as at 1 January 2014
+as at 7 March 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -4331,10 +4331,10 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
     Section 65M: inserted, on 25 January 2005, by [section 16][367] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 65N Authority to lend money includes authority to defer payments
-
-\[Repealed\]
     
-*   Section 65N: repealed, on 18 July 2013, by [section 35][445] of the Public Finance Amendment Act 2013 (2013 No 50).
+*   \[Repealed\]
+    
+    Section 65N: repealed, on 18 July 2013, by [section 35][445] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ##### 65O Repayment of money lent by the Crown
     
@@ -5377,10 +5377,10 @@ Provision relating to Public Finance (Fiscal Responsibility) Amendment Act 2013
 ## Schedule 2  
 Enactments repealed
 
-\[Repealed\]
-
 [s 87][275]
 
+\[Repealed\]
+    
 *   Schedule 2: repealed, on 18 July 2013, by [section 54][507] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ---
@@ -5501,10 +5501,13 @@ Mixed ownership model companies
 
 *   Schedule 5: replaced, on 30 June 2012, by [section 10][527] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
 
+Genesis Energy Limited
+
 Meridian Energy Limited
 
 Mighty River Power Limited
     
+*   Schedule 5: amended, on 7 March 2014, by [section 8(2)][528] of the State-Owned Enterprises Amendment Act 2012 (2012 No 44).
 *   Schedule 5: amended, on 30 August 2013, by [section 8(3)][528] of the State-Owned Enterprises Amendment Act 2012 (2012 No 44).
 *   Schedule 5: amended, on 8 March 2013, by [section 8(4)][528] of the State-Owned Enterprises Amendment Act 2012 (2012 No 44).
 
@@ -5626,7 +5629,7 @@ Commencementsee section 2
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][530] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][531] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][530] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][531] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
@@ -5652,7 +5655,7 @@ Commencementsee section 2
     
     [Public Finance (Mixed Ownership Model) Amendment Act 2012][537] (2012 No 45)
     
-    State-Owned Enterprises Amendment Act 2012 (2012 No 44): [section 8(1), (3), (4)][528]
+    State-Owned Enterprises Amendment Act 2012 (2012 No 44): [section 8(1)--(4)][528]
     
     [Public Finance (Southern Response Earthquake Services Limited) Order 2012][538] (SR 2012/70)
     
