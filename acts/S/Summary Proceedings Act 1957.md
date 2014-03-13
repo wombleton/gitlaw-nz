@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 22 January 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Justice.
 
@@ -660,8 +660,6 @@ This Act is administered by the Ministry of Justice.
 
 \[Repealed\]
 
-\[Repealed\]
-
 [145][298][][298][Purpose and overview][298] \[Repealed\]
 
 [146][299][][299][Interpretation][299] \[Repealed\]
@@ -1167,6 +1165,8 @@ Title \[Repealed\]
     
     *   (j) [section 357][492] of the Gambling Act 2003; or
     
+    *   (ja) [section 74][493] of the Psychoactive Substances Act 2013; or
+    
     *   (k) any provision of any other Act providing for the use of the infringement notice procedure under [section 21][37]
     
     _infringement offence_ means any offence under any Act in respect of which a person may be issued with an infringement notice
@@ -1177,23 +1177,23 @@ Title \[Repealed\]
     
     (2) \[Repealed\]
     
-    Section 2(1) **bank**: inserted, on 1 November 1998, by [section 2][493] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
+    Section 2(1) **bank**: inserted, on 1 November 1998, by [section 2][494] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
     
-    Section 2(1) **benefit**: inserted, on 1 November 1998, by [section 2][493] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
+    Section 2(1) **benefit**: inserted, on 1 November 1998, by [section 2][494] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
     
-    Section 2(1) **benefit** paragraph (b)(iv): replaced, on 1 April 2006, by [section 21][494] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
+    Section 2(1) **benefit** paragraph (b)(iv): replaced, on 1 April 2006, by [section 21][495] of the Social Security (Working for Families) Amendment Act 2004 (2004 No 51).
     
     Section 2(1) **committal for trial**: repealed, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
     
-    Section 2(1) **constable**: replaced, on 1 October 2008, by [section 130(1)][495] of the Policing Act 2008 (2008 No 72).
+    Section 2(1) **constable**: replaced, on 1 October 2008, by [section 130(1)][496] of the Policing Act 2008 (2008 No 72).
     
-    Section 2(1) **court**: amended, on 1 April 1980, pursuant to [section 2(3)][496] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 2(1) **court**: amended, on 1 April 1980, pursuant to [section 2(3)][497] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 2(1) **court**: amended, on 1 April 1980, pursuant to [section 18(2)][497] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 2(1) **court**: amended, on 1 April 1980, pursuant to [section 18(2)][498] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 2(1) **court nearest to the committing court**: repealed, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
     
-    Section 2(1) **Crown organisation**: inserted, on 18 October 2002, by [section 29(1)][498] of the Crown Organisations (Criminal Liability) Act 2002 (2002 No 37).
+    Section 2(1) **Crown organisation**: inserted, on 18 October 2002, by [section 29(1)][499] of the Crown Organisations (Criminal Liability) Act 2002 (2002 No 37).
     
     Section 2(1) **defendant**: replaced, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
     
@@ -1201,43 +1201,45 @@ Title \[Repealed\]
     
     Section 2(1) **informant**: replaced, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
     
-    Section 2(1) **infringement fee**: inserted, on 1 November 1987, by [section 2(3)][499] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
+    Section 2(1) **infringement fee**: inserted, on 1 November 1987, by [section 2(3)][500] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
     
-    Section 2(1) **infringement notice**: replaced, on 1 July 1996, by [section 79][500] of the Dog Control Act 1996 (1996 No 13).
+    Section 2(1) **infringement notice**: replaced, on 1 July 1996, by [section 79][501] of the Dog Control Act 1996 (1996 No 13).
     
-    Section 2(1) **infringement notice** paragraph (a): repealed, on 10 May 2011, by [section 100(3)][501] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 2(1) **infringement notice** paragraph (a): repealed, on 10 May 2011, by [section 100(3)][502] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 2(1) **infringement notice** paragraph (ba): inserted, on 18 June 2007 (applying in respect of accounting periods that commence after that date), by [section 22(2)][502] of the Financial Reporting Amendment Act 2006 (2006 No 64).
+    Section 2(1) **infringement notice** paragraph (ba): inserted, on 18 June 2007 (applying in respect of accounting periods that commence after that date), by [section 22(2)][503] of the Financial Reporting Amendment Act 2006 (2006 No 64).
     
-    Section 2(1) **infringement notice** paragraph (ca): inserted, on 4 May 2010, by [section 18][503] of the Gas Amendment Act 2006 (2006 No 71).
+    Section 2(1) **infringement notice** paragraph (ca): inserted, on 4 May 2010, by [section 18][504] of the Gas Amendment Act 2006 (2006 No 71).
     
-    Section 2(1) **infringement notice** paragraph (da): inserted, on 1 April 2010, by [section 185][504] of the Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74).
+    Section 2(1) **infringement notice** paragraph (da): inserted, on 1 April 2010, by [section 185][505] of the Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74).
     
-    Section 2(1) **infringement notice** paragraph (e): replaced, on 7 May 1999, by [section 6][505] of the Biosecurity Amendment Act 1999 (1999 No 29).
+    Section 2(1) **infringement notice** paragraph (e): replaced, on 7 May 1999, by [section 6][506] of the Biosecurity Amendment Act 1999 (1999 No 29).
     
-    Section 2(1) **infringement notice** paragraph (f): replaced, on 9 October 2006, by [section 4][506] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 2(1) **infringement notice** paragraph (f): replaced, on 9 October 2006, by [section 4][507] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 2(1) **infringement notice** paragraph (fa): replaced, on 1 April 2010, by [section 43][507] of the Electricity Amendment Act 2006 (2006 No 70).
+    Section 2(1) **infringement notice** paragraph (fa): replaced, on 1 April 2010, by [section 43][508] of the Electricity Amendment Act 2006 (2006 No 70).
     
-    Section 2(1) **infringement notice** paragraph (fb): repealed, on 9 October 2006, by [section 4][506] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 2(1) **infringement notice** paragraph (fb): repealed, on 9 October 2006, by [section 4][507] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 2(1) **infringement notice** paragraph (g): replaced, on 9 October 2006, by [section 4][506] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 2(1) **infringement notice** paragraph (g): replaced, on 9 October 2006, by [section 4][507] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 2(1) **infringement notice** paragraph (h): inserted, on 9 October 2006, by [section 4][506] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 2(1) **infringement notice** paragraph (h): inserted, on 9 October 2006, by [section 4][507] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 2(1) **infringement notice** paragraph (i): inserted, on 9 October 2006, by [section 4][506] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 2(1) **infringement notice** paragraph (i): inserted, on 9 October 2006, by [section 4][507] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 2(1) **infringement notice** paragraph (j): inserted, on 9 October 2006, by [section 4][506] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 2(1) **infringement notice** paragraph (j): inserted, on 9 October 2006, by [section 4][507] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 2(1) **infringement notice** paragraph (k): inserted, on 9 October 2006, by [section 4][506] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 2(1) **infringement notice** paragraph (ja): inserted, on 18 July 2013, by [section 110(1)][509] of the Psychoactive Substances Act 2013 (2013 No 53).
     
-    Section 2(1) **infringement offence**: inserted, on 1 November 1987, by [section 2(3)][499] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
+    Section 2(1) **infringement notice** paragraph (k): inserted, on 9 October 2006, by [section 4][507] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    
+    Section 2(1) **infringement offence**: inserted, on 1 November 1987, by [section 2(3)][500] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
     
     Section 2(1) **medical practitioner**: repealed, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
     
-    Section 2(1) **minor traffic offence**: repealed, on 1 November 1987, by [section 2(4)][499] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
+    Section 2(1) **minor traffic offence**: repealed, on 1 November 1987, by [section 2(4)][500] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
     
-    Section 2(1) **Police employee**: inserted, on 13 February 2012, by [section 4][508] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 2(1) **Police employee**: inserted, on 13 February 2012, by [section 4][510] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
     Section 2(1) **representative**: repealed, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
     
@@ -1344,7 +1346,7 @@ Criminal jurisdiction of District Court
     
 *   \[Repealed\]
     
-    Section 10: repealed, on 1 September 1999, by [section 111][509] of the Extradition Act 1999 (1999 No 55).
+    Section 10: repealed, on 1 September 1999, by [section 111][511] of the Extradition Act 1999 (1999 No 55).
 
 ## Part 2  
 Procedure for infringement offences
@@ -1451,7 +1453,7 @@ Procedure for infringement offences
     
 *   (1) Proceedings in respect of an infringement offence may be commenced---
         
-    *   (a) with the leave of a District Court Judge or a Registrar, by filing a charging document under the [Criminal Procedure Act 2011][510]; or
+    *   (a) with the leave of a District Court Judge or a Registrar, by filing a charging document under the [Criminal Procedure Act 2011][512]; or
     
     *   (b) where an infringement notice has been issued in respect of the offence, by providing particulars of a reminder notice in accordance with subsections (4) and (4A), or by filing a notice of hearing in a court, under this section.
     
@@ -1575,13 +1577,13 @@ Procedure for infringement offences
     
     *   (d) if a notice of hearing is filed in a court within 6 months from the time when the offence is alleged to have been committed,---
             
-        *   (i) the [Criminal Procedure Act 2011][510] and the [Costs in Criminal Cases Act 1967][511] apply, with any necessary modifications:
+        *   (i) the [Criminal Procedure Act 2011][512] and the [Costs in Criminal Cases Act 1967][513] apply, with any necessary modifications:
         
         *   (ii) the notice of hearing is to be treated as if it were a charging document:
         
         *   (iii) a copy of the notice served on the defendant under paragraph (b) is to be treated as if it were a summons to the defendant:
         
-        *   (iv) a notice of the defendant filed in the court under paragraph (c) is to be treated as if it were a notice of the defendant pleading guilty to the offence under [section 38][512] of the Criminal Procedure Act 2011\.
+        *   (iv) a notice of the defendant filed in the court under paragraph (c) is to be treated as if it were a notice of the defendant pleading guilty to the offence under [section 38][514] of the Criminal Procedure Act 2011\.
         
         
     
@@ -1605,63 +1607,63 @@ Procedure for infringement offences
     
     (13) If the informant has entered into an arrangement under subsection (3A) or subsection (3C)(a), and default is made in the payment of any instalment, proceedings may be taken as if default had been made in the payment of all instalments then remaining unpaid.
     
-    Section 21: replaced, on 1 November 1987, by [section 5][513] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
+    Section 21: replaced, on 1 November 1987, by [section 5][515] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
     
     Section 21 heading: amended, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
     
     Section 21(1)(a): replaced, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
     
-    Section 21(1)(b): amended, on 1 March 2007, by [section 6(1)][514] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 21(1)(b): amended, on 1 March 2007, by [section 6(1)][516] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 21(2): amended, on 9 October 2006, by [section 5(1)][515] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 21(2): amended, on 9 October 2006, by [section 5(1)][517] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 21(2AA): inserted, on 9 October 2006, by [section 5(2)][515] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 21(2AA): inserted, on 9 October 2006, by [section 5(2)][517] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 21(2A): inserted, on 1 March 1999, by [section 215(1)][516] of the Land Transport Act 1998 (1998 No 110).
+    Section 21(2A): inserted, on 1 March 1999, by [section 215(1)][518] of the Land Transport Act 1998 (1998 No 110).
     
-    Section 21(2A): amended, on 9 October 2006, by [section 5(3)][515] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 21(2A): amended, on 9 October 2006, by [section 5(3)][517] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 21(3): replaced, on 1 March 2007, by [section 6(2)][514] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 21(3): replaced, on 1 March 2007, by [section 6(2)][516] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 21(3A): inserted, on 1 November 1998, by [section 3(1)][517] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
+    Section 21(3A): inserted, on 1 November 1998, by [section 3(1)][519] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
     
-    Section 21(3A): amended, on 1 August 2012, by [section 5(1)][518] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 21(3A): amended, on 1 August 2012, by [section 5(1)][520] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 21(3A)(a): amended, on 1 March 2007, by [section 6(3)][514] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 21(3A)(a): amended, on 1 March 2007, by [section 6(3)][516] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 21(3A)(b): amended, on 1 August 2012, by [section 5(1)][518] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 21(3A)(b): amended, on 1 August 2012, by [section 5(1)][520] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 21(3B): inserted, on 1 November 1998, by [section 3(1)][517] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
+    Section 21(3B): inserted, on 1 November 1998, by [section 3(1)][519] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
     
-    Section 21(3C): inserted, on 1 November 1998, by [section 3(1)][517] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
+    Section 21(3C): inserted, on 1 November 1998, by [section 3(1)][519] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
     
-    Section 21(3C)(a): amended, on 1 August 2012, by [section 5(2)][518] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 21(3C)(a): amended, on 1 August 2012, by [section 5(2)][520] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 21(3D): replaced, on 1 March 2007, by [section 6(4)][514] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 21(3D): replaced, on 1 March 2007, by [section 6(4)][516] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 21(4): replaced, on 1 March 2007, by [section 6(5)][514] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 21(4): replaced, on 1 March 2007, by [section 6(5)][516] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 21(4A): inserted, on 1 March 2007, by [section 6(5)][514] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 21(4A): inserted, on 1 March 2007, by [section 6(5)][516] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 21(4B): inserted, on 1 March 2007, by [section 6(5)][514] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 21(4B): inserted, on 1 March 2007, by [section 6(5)][516] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 21(4C): inserted, on 1 March 2007, by [section 6(5)][514] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 21(4C): inserted, on 1 March 2007, by [section 6(5)][516] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 21(5): replaced, on 1 August 2012, by [section 5(3)][518] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 21(5): replaced, on 1 August 2012, by [section 5(3)][520] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
     Section 21(5): amended, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
     
-    Section 21(5A): replaced, on 1 August 2012, by [section 5(3)][518] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 21(5A): replaced, on 1 August 2012, by [section 5(3)][520] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
     Section 21(5A): amended, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
     
-    Section 21(5AB): inserted, on 1 March 2007, by [section 6(5)][514] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 21(5AB): inserted, on 1 March 2007, by [section 6(5)][516] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 21(5B): inserted, on 1 November 1998, by [section 3(2)][517] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
+    Section 21(5B): inserted, on 1 November 1998, by [section 3(2)][519] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
     
     Section 21(8)(d): replaced, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
     
-    Section 21(13): inserted, on 1 November 1998, by [section 3(3)][517] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
+    Section 21(13): inserted, on 1 November 1998, by [section 3(3)][519] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
 
 ##### 21A Evidence of particulars of reminder notice deemed to have been filed in court by electronic means
     
@@ -1671,7 +1673,7 @@ Procedure for infringement offences
     
     *   (b) the reminder notice deemed to have been filed in a court and the order deemed to have been made as a consequence.
     
-    Section 21A: inserted, on 1 March 2007, by [section 7][519] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 21A: inserted, on 1 March 2007, by [section 7][521] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
 
 ##### 22 To whom warrant to be directed and power of person executing warrant to enter premises
     
@@ -1691,7 +1693,7 @@ Procedure for infringement offences
     
 *   [Sections 24 to 29][43] do not apply to any summons or other document required to be served under [Part 3][124]; [sections 79A to 79D][127] apply instead.
     
-    Section 23A: inserted, on 13 February 2012, by [section 6][520] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 23A: inserted, on 13 February 2012, by [section 6][522] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 24 Mode of service of documents on defendant
     
@@ -1727,19 +1729,19 @@ Procedure for infringement offences
     
     Section 24(1)(c): amended, on 1 April 1985, by section 3(1) of the Summary Proceedings Amendment Act 1985 (1985 No 51).
     
-    Section 24(1)(d): replaced, on 1 August 2012, by [section 7][521] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 24(1)(d): replaced, on 1 August 2012, by [section 7][523] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
     Section 24(1)(d): amended, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
     
-    Section 24(1)(e): inserted, on 1 August 2012, by [section 7][521] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 24(1)(e): inserted, on 1 August 2012, by [section 7][523] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 24(1) proviso: amended, on 30 June 1998, by [section 8][522] of the Summary Proceedings Amendment Act (No 2) 1998 (1998 No 77).
+    Section 24(1) proviso: amended, on 30 June 1998, by [section 8][524] of the Summary Proceedings Amendment Act (No 2) 1998 (1998 No 77).
     
-    Section 24(1) proviso: amended, on 1 April 1980, pursuant to [section 18(2)][497] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 24(1) proviso: amended, on 1 April 1980, pursuant to [section 18(2)][498] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 24(1A): inserted, on 18 October 2002, by [section 30][523] of the Crown Organisations (Criminal Liability) Act 2002 (2002 No 37).
+    Section 24(1A): inserted, on 18 October 2002, by [section 30][525] of the Crown Organisations (Criminal Liability) Act 2002 (2002 No 37).
     
-    Section 24(2): amended, on 26 April 2005, by [section 7][524] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 24(2): amended, on 26 April 2005, by [section 7][526] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
     Section 24(3): replaced, on 1 January 1969, by section 2(2) of the Summary Proceedings Amendment Act 1968 (1968 No 108).
     
@@ -1757,7 +1759,7 @@ Procedure for infringement offences
     
     *   (c) any person or member of a class of persons authorised by a District Court Judge or Registrar either generally or in respect of a particular case or class of case:
     
-    *   (d) in the case of a summons to the defendant or other document required to be served on the defendant in proceedings for an offence against any Act, regulation, or bylaw to which [section 113(1)][525] of the Land Transport Act 1998 applies, an enforcement officer under the [Land Transport Act 1998][526]:
+    *   (d) in the case of a summons to the defendant or other document required to be served on the defendant in proceedings for an offence against any Act, regulation, or bylaw to which [section 113(1)][527] of the Land Transport Act 1998 applies, an enforcement officer under the [Land Transport Act 1998][528]:
     
     *   (e) in the case of a reminder notice or copy of a notice of hearing relating to an infringement offence, any person acting in the course of official duties as an officer or employee of the informant.
     
@@ -1767,15 +1769,15 @@ Procedure for infringement offences
     
     *   (b) in the case of a reminder notice or copy of a notice of hearing relating to an infringement offence, by an officer or employee of the informant posting the notice to the defendant.
     
-    Section 25: replaced, on 1 November 1987, by [section 7][527] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
+    Section 25: replaced, on 1 November 1987, by [section 7][529] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
     
     Section 25(1)(a): replaced, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
     
     Section 25(1)(ab): inserted, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
     
-    Section 25(1)(d): replaced, on 1 March 1999, by [section 215(1)][516] of the Land Transport Act 1998 (1998 No 110).
+    Section 25(1)(d): replaced, on 1 March 1999, by [section 215(1)][518] of the Land Transport Act 1998 (1998 No 110).
     
-    Section 25(1)(d): amended, on 10 May 2011, by [section 100(3)][501] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 25(1)(d): amended, on 10 May 2011, by [section 100(3)][502] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
     Section 25(2): amended, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
 
@@ -1801,7 +1803,7 @@ Procedure for infringement offences
     
     (5) Where any such person is a prisoner of any prison, it shall be sufficient service to deliver the document to the manager or other officer apparently in charge of the prison.
     
-    Section 28(5): amended, on 1 June 2005, by [section 206][528] of the Corrections Act 2004 (2004 No 50).
+    Section 28(5): amended, on 1 June 2005, by [section 206][530] of the Corrections Act 2004 (2004 No 50).
 
 ##### 29 Proof of service
     
@@ -1815,9 +1817,9 @@ Procedure for infringement offences
     
     Section 29(1): amended, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
     
-    Section 29(1): amended, on 1 April 1996, by [section 2(1)][529] of the Summary Proceedings Amendment Act 1995 (1995 No 64).
+    Section 29(1): amended, on 1 April 1996, by [section 2(1)][531] of the Summary Proceedings Amendment Act 1995 (1995 No 64).
     
-    Section 29(1A): inserted, on 1 April 1996, by [section 2(2)][529] of the Summary Proceedings Amendment Act 1995 (1995 No 64).
+    Section 29(1A): inserted, on 1 April 1996, by [section 2(2)][531] of the Summary Proceedings Amendment Act 1995 (1995 No 64).
     
     Section 29(2): amended, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
     
@@ -1825,13 +1827,13 @@ Procedure for infringement offences
 
 ##### 30 Translation of documents into Maori language
     
-*   Where a document is served on any person who is a Maori within the meaning of Te Ture Whenua Maori Act 1993, the provisions of any rules for the time being in force under the [Criminal Procedure Act 2011][510] relating to translations of documents served on Maoris shall apply.
+*   Where a document is served on any person who is a Maori within the meaning of Te Ture Whenua Maori Act 1993, the provisions of any rules for the time being in force under the [Criminal Procedure Act 2011][512] relating to translations of documents served on Maoris shall apply.
     
     Compare: 1927 No 37 s 265; 1952 No 44 s 23
     
     Section 30: amended, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
     
-    Section 30: amended, on 1 July 1993, pursuant to [section 362(2)][530] of Te Ture Whenua Maori Act 1993 (1993 No 4).
+    Section 30: amended, on 1 July 1993, pursuant to [section 362(2)][532] of Te Ture Whenua Maori Act 1993 (1993 No 4).
 
 #### Special provisions for taking evidence
 
@@ -1873,7 +1875,7 @@ Procedure for infringement offences
     
 *   \[Repealed\]
     
-    Section 35: repealed, on 1 October 1985, by [section 150(1)][531] of the Criminal Justice Act 1985 (1985 No 120).
+    Section 35: repealed, on 1 October 1985, by [section 150(1)][533] of the Criminal Justice Act 1985 (1985 No 120).
 
 ##### 36 Withdrawal of information by informant
     
@@ -1975,13 +1977,13 @@ Procedure for infringement offences
     
 *   \[Repealed\]
     
-    Section 46A: repealed, on 5 March 2012 (applying in relation to a proceeding for an offence that was commenced before that date), by [section 393][532] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 46A: repealed, on 5 March 2012 (applying in relation to a proceeding for an offence that was commenced before that date), by [section 393][534] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 46AB Application of section 45 during epidemic
     
 *   \[Repealed\]
     
-    Section 46AB: repealed, on 29 June 2009, by [section 6][533] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 46AB: repealed, on 29 June 2009, by [section 6][535] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
 
 ##### 46AC Application of section 46 during epidemic
     
@@ -1999,13 +2001,13 @@ Procedure for infringement offences
     
 *   \[Repealed\]
     
-    Section 48: repealed, on 1 January 2001, by [section 74(2)][534] of the Bail Act 2000 (2000 No 38).
+    Section 48: repealed, on 1 January 2001, by [section 74(2)][536] of the Bail Act 2000 (2000 No 38).
 
 ##### 49 Conditions of bail
     
 *   \[Repealed\]
     
-    Section 49: repealed, on 1 January 2001, by [section 74(2)][534] of the Bail Act 2000 (2000 No 38).
+    Section 49: repealed, on 1 January 2001, by [section 74(2)][536] of the Bail Act 2000 (2000 No 38).
 
 ##### 49A Variation of conditions of bail
     
@@ -2017,55 +2019,55 @@ Procedure for infringement offences
     
 *   \[Repealed\]
     
-    Section 50: repealed, on 1 January 2001, by [section 74(2)][534] of the Bail Act 2000 (2000 No 38).
+    Section 50: repealed, on 1 January 2001, by [section 74(2)][536] of the Bail Act 2000 (2000 No 38).
 
 ##### 50A Variation of conditions of bail
     
 *   \[Repealed\]
     
-    Section 50A: repealed, on 1 January 2001, by [section 74(2)][534] of the Bail Act 2000 (2000 No 38).
+    Section 50A: repealed, on 1 January 2001, by [section 74(2)][536] of the Bail Act 2000 (2000 No 38).
 
 ##### 51 Defendant may be admitted to bail by constable in certain cases
     
 *   \[Repealed\]
     
-    Section 51: repealed, on 1 January 2001, by [section 74(2)][534] of the Bail Act 2000 (2000 No 38).
+    Section 51: repealed, on 1 January 2001, by [section 74(2)][536] of the Bail Act 2000 (2000 No 38).
 
 ##### 52 Mode of taking bail bond by constable
     
 *   \[Repealed\]
     
-    Section 52: repealed, on 1 January 2001, by [section 74(2)][534] of the Bail Act 2000 (2000 No 38).
+    Section 52: repealed, on 1 January 2001, by [section 74(2)][536] of the Bail Act 2000 (2000 No 38).
 
 ##### 53 Defendant on bail may be arrested without warrant in certain circumstances
     
 *   \[Repealed\]
     
-    Section 53: repealed, on 1 January 2001, by [section 74(2)][534] of the Bail Act 2000 (2000 No 38).
+    Section 53: repealed, on 1 January 2001, by [section 74(2)][536] of the Bail Act 2000 (2000 No 38).
 
 ##### 54 Failure to answer bail
     
 *   \[Repealed\]
     
-    Section 54: repealed, on 1 January 2001, by [section 74(2)][534] of the Bail Act 2000 (2000 No 38).
+    Section 54: repealed, on 1 January 2001, by [section 74(2)][536] of the Bail Act 2000 (2000 No 38).
 
 ##### 55 Arrest of defendant who does not attend hearing
     
 *   \[Repealed\]
     
-    Section 55: repealed, on 1 January 2001, by [section 74(2)][534] of the Bail Act 2000 (2000 No 38).
+    Section 55: repealed, on 1 January 2001, by [section 74(2)][536] of the Bail Act 2000 (2000 No 38).
 
 ##### 56 Effect on bond of attendance or non-attendance of person bailed by constable
     
 *   \[Repealed\]
     
-    Section 56: repealed, on 1 January 2001, by [section 74(2)][534] of the Bail Act 2000 (2000 No 38).
+    Section 56: repealed, on 1 January 2001, by [section 74(2)][536] of the Bail Act 2000 (2000 No 38).
 
 ##### 57 Certification of non-performance of condition of bail bond
     
 *   \[Repealed\]
     
-    Section 57: repealed, on 1 January 2001, by [section 74(2)][534] of the Bail Act 2000 (2000 No 38).
+    Section 57: repealed, on 1 January 2001, by [section 74(2)][536] of the Bail Act 2000 (2000 No 38).
 
 ##### 58 Estreat of bail bond
     
@@ -2089,7 +2091,7 @@ Procedure for infringement offences
     
 *   \[Repealed\]
     
-    Section 60: repealed, on 1 August 2007, by [section 215][535] of the Evidence Act 2006 (2006 No 69).
+    Section 60: repealed, on 1 August 2007, by [section 215][537] of the Evidence Act 2006 (2006 No 69).
 
 ##### 61 Powers of court when defendant does not appear
     
@@ -2197,7 +2199,7 @@ Procedure for infringement offences
     
 *   \[Repealed\]
     
-    Section 72: repealed, on 1 April 1968, by [section 14(2)][536] of the Costs in Criminal Cases Act 1967 (1967 No 129).
+    Section 72: repealed, on 1 April 1968, by [section 14(2)][538] of the Costs in Criminal Cases Act 1967 (1967 No 129).
 
 ##### 73 Witnesses' expenses
     
@@ -2375,41 +2377,41 @@ Procedure for infringement offences
     
     (6) If a defendant granted a hearing or rehearing under this section does not appear, the court may, if it thinks fit, without hearing or rehearing the matter, direct that the original order be restored.
     
-    Section 78B: replaced, on 9 October 2006, by [section 9][537] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 78B: replaced, on 9 October 2006, by [section 9][539] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 78B(1)(a): amended, on 1 August 2012, by [section 8(1)][538] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 78B(1)(a): amended, on 1 August 2012, by [section 8(1)][540] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 78B(1)(a)(ii): replaced, on 1 August 2012, by [section 8(2)][538] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 78B(1)(a)(ii): replaced, on 1 August 2012, by [section 8(2)][540] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 78B(1)(a)(iia): inserted, on 1 August 2012, by [section 8(2)][538] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 78B(1)(a)(iia): inserted, on 1 August 2012, by [section 8(2)][540] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 78B(1)(a)(viii): inserted, on 1 August 2012, by [section 8(3)][538] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 78B(1)(a)(viii): inserted, on 1 August 2012, by [section 8(3)][540] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 78B(1A): inserted, on 1 August 2012, by [section 8(4)][538] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 78B(1A): inserted, on 1 August 2012, by [section 8(4)][540] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 78B(1B): inserted, on 1 August 2012, by [section 8(4)][538] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 78B(1B): inserted, on 1 August 2012, by [section 8(4)][540] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 78B(1C): inserted, on 1 August 2012, by [section 8(4)][538] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 78B(1C): inserted, on 1 August 2012, by [section 8(4)][540] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 78B(2)(c): amended, on 1 August 2012, by [section 8(5)][538] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 78B(2)(c): amended, on 1 August 2012, by [section 8(5)][540] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 78B(4): replaced, on 1 August 2012, by [section 8(6)][538] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 78B(4): replaced, on 1 August 2012, by [section 8(6)][540] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 78B(4A): inserted, on 1 August 2012, by [section 8(6)][538] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 78B(4A): inserted, on 1 August 2012, by [section 8(6)][540] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 78B(4B): inserted, on 1 August 2012, by [section 8(6)][538] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 78B(4B): inserted, on 1 August 2012, by [section 8(6)][540] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 78B(4C): inserted, on 1 August 2012, by [section 8(6)][538] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 78B(4C): inserted, on 1 August 2012, by [section 8(6)][540] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 78B(4D): inserted, on 1 August 2012, by [section 8(6)][538] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 78B(4D): inserted, on 1 August 2012, by [section 8(6)][540] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 78B(4E): inserted, on 1 August 2012, by [section 8(6)][538] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 78B(4E): inserted, on 1 August 2012, by [section 8(6)][540] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 78B(4F): inserted, on 1 August 2012, by [section 8(6)][538] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 78B(4F): inserted, on 1 August 2012, by [section 8(6)][540] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 78B(4G): inserted, on 1 August 2012, by [section 8(6)][538] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 78B(4G): inserted, on 1 August 2012, by [section 8(6)][540] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 78B(4H): inserted, on 1 August 2012, by [section 8(6)][538] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 78B(4H): inserted, on 1 August 2012, by [section 8(6)][540] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 78C Certain defendants ineligible to rely on non-receipt of reminder notice
     
@@ -2421,20 +2423,20 @@ Procedure for infringement offences
     
     *   (b) following a default in the payment of 1 or more instalments under that arrangement, has been served by ordinary post with a reminder notice in respect of that infringement offence.
     
-    (3) In the case of an infringement notice issued for an owner liability offence, the defendant is not eligible to rely on the ground stated in [section 78B(1)(a)(ii)][122] unless the Registrar is satisfied that, at the date of the commission of that offence, the defendant complied or was not responsible for complying with any applicable obligations imposed on the defendant by [Part 17][539] of the Land Transport Act 1998 and any regulations made under that Act in respect of the motor vehicle to which the infringement notice relates.
+    (3) In the case of an infringement notice issued for an owner liability offence, the defendant is not eligible to rely on the ground stated in [section 78B(1)(a)(ii)][122] unless the Registrar is satisfied that, at the date of the commission of that offence, the defendant complied or was not responsible for complying with any applicable obligations imposed on the defendant by [Part 17][541] of the Land Transport Act 1998 and any regulations made under that Act in respect of the motor vehicle to which the infringement notice relates.
     
     (4) The Registrar must be satisfied of the matters referred to in subsection (3) on the basis of documentary evidence of a kind approved by the Registrar.
     
-    (5) In this section, _owner liability offence_ means an offence referred to in [section 41A][540] of the Transport Act 1962 or [section 133][541] of the Land Transport Act 1998\.
+    (5) In this section, _owner liability offence_ means an offence referred to in [section 41A][542] of the Transport Act 1962 or [section 133][543] of the Land Transport Act 1998\.
     
-    Section 78C: inserted, on 1 August 2012, by [section 9][542] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 78C: inserted, on 1 August 2012, by [section 9][544] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ## Part 3  
 Enforcement of fines
 
 \[Repealed\]
     
-*   Part 3: replaced, on 1 November 1987, by [section 14][543] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
+*   Part 3: replaced, on 1 November 1987, by [section 14][545] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
 
 ##### 79 Interpretation
     
@@ -2468,23 +2470,23 @@ Enforcement of fines
     
     _imposed_, in relation to a fine, includes ordered and deemed to be ordered
     
-    _impoundment costs_, in relation to a motor vehicle that has been seized while impounded under [section 96][544] or [96A][545] of the Land Transport Act 1998, means the fees and charges for towage and storage that are prescribed or assessed in the manner specified by regulations made under [section 167][546] of that Act, and, where those fees and charges have already been paid by the chief executive, means the amount required to reimburse the chief executive for that payment
+    _impoundment costs_, in relation to a motor vehicle that has been seized while impounded under [section 96][546] or [96A][547] of the Land Transport Act 1998, means the fees and charges for towage and storage that are prescribed or assessed in the manner specified by regulations made under [section 167][548] of that Act, and, where those fees and charges have already been paid by the chief executive, means the amount required to reimburse the chief executive for that payment
     
     _interest_ means any proprietary interest, whether legal or equitable, and whether vested or contingent
     
-    _lease_ does not include a hire purchase agreement or a rental service agreement to which the holder of a rental service licence under the [Land Transport Act 1998][526] is a party
+    _lease_ does not include a hire purchase agreement or a rental service agreement to which the holder of a rental service licence under the [Land Transport Act 1998][528] is a party
     
-    _negotiable instrument_ has the same meaning as in [section 16][547] of the Personal Property Securities Act 1999
+    _negotiable instrument_ has the same meaning as in [section 16][549] of the Personal Property Securities Act 1999
     
-    _offender levy_ means a levy imposed under [section 105B][548] of the Sentencing Act 2002
+    _offender levy_ means a levy imposed under [section 105B][550] of the Sentencing Act 2002
     
     _order of reparation_ means---
         
-    *   (a) an order made under [section 106][549], [108][550], or [110][551] of the Sentencing Act 2002; or
+    *   (a) an order made under [section 106][551], [108][552], or [110][553] of the Sentencing Act 2002; or
     
-    *   (b) an order made in respect of a child, or any parent or guardian of that child, under [section 84(1)(b)][552] of the Children, Young Persons, and Their Families Act 1989; or
+    *   (b) an order made in respect of a child, or any parent or guardian of that child, under [section 84(1)(b)][554] of the Children, Young Persons, and Their Families Act 1989; or
     
-    *   (c) an order made in respect of a young person, or any parent or guardian of that young person, under [section 283(f) or (g)][553] of the Children, Young Persons, and Their Families Act 1989; or
+    *   (c) an order made in respect of a young person, or any parent or guardian of that young person, under [section 283(f) or (g)][555] of the Children, Young Persons, and Their Families Act 1989; or
     
     *   (d) an order that---
             
@@ -2500,7 +2502,7 @@ Enforcement of fines
     
     *   (b) that the defendant's obligation to pay the fine has not been resolved
     
-    _person who is registered_, in relation to a motor vehicle, means the person who is registered under the [Land Transport Act 1998][526] in respect of the vehicle, and where several persons are so registered, means any one of those persons
+    _person who is registered_, in relation to a motor vehicle, means the person who is registered under the [Land Transport Act 1998][528] in respect of the vehicle, and where several persons are so registered, means any one of those persons
     
     _property_ includes money and negotiable instruments
     
@@ -2528,7 +2530,7 @@ Enforcement of fines
         
     *   (a) a retiring allowance or pension or other payment of a similar nature:
     
-    *   (b) all payments of weekly compensation made by the Accident Compensation Corporation under the [Accident Compensation Act 2001][554]:
+    *   (b) all payments of weekly compensation made by the Accident Compensation Corporation under the [Accident Compensation Act 2001][556]:
     
     *   (c) a bonus or an incentive payment:
     
@@ -2538,11 +2540,11 @@ Enforcement of fines
     
     *   (f) a benefit
     
-    _secured party_ has the same meaning as in [section 16][547] of the Personal Property Securities Act 1999, except that the reference to security interest is a reference to security interest as defined by this subsection
+    _secured party_ has the same meaning as in [section 16][549] of the Personal Property Securities Act 1999, except that the reference to security interest is a reference to security interest as defined by this subsection
     
-    _security agreement_ has the same meaning as in [section 16][547] of the Personal Property Securities Act 1999, but does not include a lease
+    _security agreement_ has the same meaning as in [section 16][549] of the Personal Property Securities Act 1999, but does not include a lease
     
-    _security interest_ has the same meaning as in [section 17][555] of the Personal Property Securities Act 1999, but does not include a lease
+    _security interest_ has the same meaning as in [section 17][557] of the Personal Property Securities Act 1999, but does not include a lease
     
     _substituted sentence_ means a warrant of commitment issued under [section 83(2)(a)][134] or [88AE(1)(b)][163] or any sentence imposed under section [88AE(1)(c) to (e)][163]
     
@@ -2550,7 +2552,7 @@ Enforcement of fines
     
     _traffic offence_ means---
         
-    *   (a) any offence against the [Transport Act 1962][556], the [Road User Charges Act 2012][557], the [Transport (Vehicle and Driver Registration and Licensing) Act 1986][558], the [Land Transport Act 1998][526], or the [Land Transport Management Act 2003][559] or against any regulation, rule, or bylaw made under any of those Acts:
+    *   (a) any offence against the [Transport Act 1962][558], the [Road User Charges Act 2012][559], the [Transport (Vehicle and Driver Registration and Licensing) Act 1986][560], the [Land Transport Act 1998][528], or the [Land Transport Management Act 2003][561] or against any regulation, rule, or bylaw made under any of those Acts:
     
     *   (b) any offence against any regulation, rule, or bylaw made under any other Act if the offence relates to the use of motor vehicles or parking places or transport stations
     
@@ -2582,11 +2584,11 @@ Enforcement of fines
     
     *   (b) will, in relation to the motor vehicle, act on behalf of the defendant or a substitute for the defendant.
     
-    Section 79: replaced, on 13 February 2012, by [section 10][560] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 79: replaced, on 13 February 2012, by [section 10][562] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 #### Service under this Part
     
-*   Heading: inserted, on 13 February 2012, by [section 10][560] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+*   Heading: inserted, on 13 February 2012, by [section 10][562] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 79A Service of documents under this Part
     
@@ -2650,7 +2652,7 @@ Enforcement of fines
     
     *   (b) does not include filing the document in a court under rules of court or otherwise.
     
-    Section 79A: inserted, on 13 February 2012, by [section 10][560] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 79A: inserted, on 13 February 2012, by [section 10][562] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 79B Service provisions modified in special cases
     
@@ -2672,7 +2674,7 @@ Enforcement of fines
     
     *   (c) in the case of a recipient who is a prisoner, the manager or other officer apparently in charge of the prison.
     
-    Section 79B: inserted, on 13 February 2012, by [section 10][560] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 79B: inserted, on 13 February 2012, by [section 10][562] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 79C Manner of notification not requiring particular document
     
@@ -2690,7 +2692,7 @@ Enforcement of fines
     
     *   (e) a person authorised by the chief executive.
     
-    Section 79C: inserted, on 13 February 2012, by [section 10][560] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 79C: inserted, on 13 February 2012, by [section 10][562] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 79D Proof of service or notification
     
@@ -2712,19 +2714,19 @@ Enforcement of fines
     
     (6) In this section, _information system_ means a system for producing, sending, receiving, storing, displaying, or otherwise processing electronic communications.
     
-    Section 79D: inserted, on 13 February 2012, by [section 10][560] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 79D: inserted, on 13 February 2012, by [section 10][562] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
     Section 79D(3): amended, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
 
 ##### 80 Fines generally payable within 28 days
     
-*   Except as otherwise provided in this Act or the [Sentencing Act 2002][561], every fine shall be paid within 28 days after the day on which it is imposed.
+*   Except as otherwise provided in this Act or the [Sentencing Act 2002][563], every fine shall be paid within 28 days after the day on which it is imposed.
     
     Compare: 1957 No 87 [s 84][135]
     
-    Section 80: replaced, on 1 November 1987, by [section 14][543] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
+    Section 80: replaced, on 1 November 1987, by [section 14][545] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
     
-    Section 80: amended, on 13 February 2012, by [section 12][562] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 80: amended, on 13 February 2012, by [section 12][564] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 81 Time to pay or payment by instalments
     
@@ -2756,15 +2758,15 @@ Enforcement of fines
     
     (4) If the court makes an order under subsection (1)(a) and the court is subsequently satisfied either that the defendant provided false or misleading information about the defendant's financial capacity before the order was made or that the defendant's financial capacity has changed significantly since the order was made, the court may, after giving the defendant the opportunity to be heard, vary, suspend, or cancel the order.
     
-    Section 81: replaced, on 13 February 2012, by [section 13][563] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 81: replaced, on 13 February 2012, by [section 13][565] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 82 Financial capacity of defendant
     
 *   (1) \[Repealed\]
     
-    (2) If a court is considering making an order under [section 81(1)(a)][132] or [83(1)][134], or makes a direction under section 81(1)(b) of this Act or [section 36(1)(c)][564] of the Sentencing Act 2002, the court may direct that the defendant make a declaration as to financial capacity (in which case [sections 42 to 43][565] of the Sentencing Act 2002 apply with any necessary modifications).
+    (2) If a court is considering making an order under [section 81(1)(a)][132] or [83(1)][134], or makes a direction under section 81(1)(b) of this Act or [section 36(1)(c)][566] of the Sentencing Act 2002, the court may direct that the defendant make a declaration as to financial capacity (in which case [sections 42 to 43][567] of the Sentencing Act 2002 apply with any necessary modifications).
     
-    Section 82: replaced, on 13 February 2012, by [section 14][566] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 82: replaced, on 13 February 2012, by [section 14][568] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
     Section 82(1): repealed, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
 
@@ -2816,37 +2818,37 @@ Enforcement of fines
     
     (3A) A District Court Judge shall not issue a warrant of commitment under this section unless---
         
-    *   (a) the defendant has had the same opportunity for legal representation as is available to a defendant who is liable to a sentence of imprisonment under [section 30][567] of the Sentencing Act 2002; and
+    *   (a) the defendant has had the same opportunity for legal representation as is available to a defendant who is liable to a sentence of imprisonment under [section 30][569] of the Sentencing Act 2002; and
     
     *   (b) the defendant is before a District Court Judge.
     
-    (4) Where a court makes an order under subsection (1), or gives a direction under subsection (2), a record of the order or direction and the grounds on which it was made or given shall be entered in the court record required to be kept under [section 184][568] of the Criminal Procedure Act 2011\.
+    (4) Where a court makes an order under subsection (1), or gives a direction under subsection (2), a record of the order or direction and the grounds on which it was made or given shall be entered in the court record required to be kept under [section 184][570] of the Criminal Procedure Act 2011\.
     
     Compare: 1957 No 87 [s 85][136]
     
-    Section 83: replaced, on 1 November 1987, by [section 14][543] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
+    Section 83: replaced, on 1 November 1987, by [section 14][545] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
     
-    Section 83(1): replaced, on 13 February 2012, by [section 15(1)][569] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 83(1): replaced, on 13 February 2012, by [section 15(1)][571] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 83(1A): replaced, on 13 February 2012, by [section 15(1)][569] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 83(1A): replaced, on 13 February 2012, by [section 15(1)][571] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 83(1B): inserted, on 13 February 2012, by [section 15(1)][569] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 83(1B): inserted, on 13 February 2012, by [section 15(1)][571] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 83(2): amended, on 13 February 2012, by [section 15(2)][569] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 83(2): amended, on 13 February 2012, by [section 15(2)][571] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 83(2)(a): amended, on 13 February 2012, by [section 15(3)][569] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 83(2)(a): amended, on 13 February 2012, by [section 15(3)][571] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 83(2)(b): amended, on 1 November 1998, by [section 15][570] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
+    Section 83(2)(b): amended, on 1 November 1998, by [section 15][572] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
     
-    Section 83(2)(b): amended, on 1 September 1993, by [section 13(2)][571] of the Summary Proceedings Amendment Act 1993 (1993 No 47).
+    Section 83(2)(b): amended, on 1 September 1993, by [section 13(2)][573] of the Summary Proceedings Amendment Act 1993 (1993 No 47).
     
-    Section 83(2)(c): inserted, on 1 November 1998, by [section 15][570] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
+    Section 83(2)(c): inserted, on 1 November 1998, by [section 15][572] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
     
-    Section 83(2A): inserted, on 13 February 2012, by [section 15(4)][569] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 83(2A): inserted, on 13 February 2012, by [section 15(4)][571] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 83(3A): inserted, on 1 September 1993, by [section 13(3)][571] of the Summary Proceedings Amendment Act 1993 (1993 No 47).
+    Section 83(3A): inserted, on 1 September 1993, by [section 13(3)][573] of the Summary Proceedings Amendment Act 1993 (1993 No 47).
     
-    Section 83(3A)(a): amended, on 30 June 2002, by [section 186][572] of the Sentencing Act 2002 (2002 No 9).
+    Section 83(3A)(a): amended, on 30 June 2002, by [section 186][574] of the Sentencing Act 2002 (2002 No 9).
     
     Section 83(4): amended, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
 
@@ -2894,7 +2896,7 @@ Enforcement of fines
     
     *   (c) an arrangement is entered into under [section 86][137] or [86C][140].
     
-    Section 84: replaced, on 13 February 2012, by [section 16][573] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 84: replaced, on 13 February 2012, by [section 16][575] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
     Section 84(1): amended, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
 
@@ -2902,7 +2904,7 @@ Enforcement of fines
     
 *   \[Repealed\]
     
-    Section 85: repealed, on 23 July 2011, by [section 17][574] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 85: repealed, on 23 July 2011, by [section 17][576] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 86 Registrar may arrange extension of time to pay
     
@@ -2930,7 +2932,7 @@ Enforcement of fines
     
     *   (b) a person who is authorised to enter into the arrangement concerned by operation of law.
     
-    Section 86: replaced, on 13 February 2012, by [section 18][575] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 86: replaced, on 13 February 2012, by [section 18][577] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 86A Registrar may vary, suspend, or cancel arrangement for extension of time to pay fine or attachment order
     
@@ -3032,7 +3034,7 @@ Enforcement of fines
         
         
     
-    Section 86A: replaced, on 13 February 2012, by [section 18][575] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 86A: replaced, on 13 February 2012, by [section 18][577] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 86B Determinations affecting attachment orders
     
@@ -3040,7 +3042,7 @@ Enforcement of fines
     
     (2) If a variation of an attachment order takes effect under [section 86A][138], the Registrar must issue a new attachment order under [section 87][146] in place of the existing order.
     
-    Section 86B: replaced, on 13 February 2012, by [section 18][575] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 86B: replaced, on 13 February 2012, by [section 18][577] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 86C Bailiff may arrange extension of time to pay
     
@@ -3066,7 +3068,7 @@ Enforcement of fines
     
     *   (b) is not prevented from making payments in respect of a fine if those payments are not part of the arrangement.
     
-    Section 86C: inserted, on 13 February 2012, by [section 18][575] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 86C: inserted, on 13 February 2012, by [section 18][577] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 86D Bailiff may vary, suspend, or cancel arrangement for extension of time to pay fine
     
@@ -3134,7 +3136,7 @@ Enforcement of fines
     
     (10) If the Registrar does not cancel the determination, the determination comes into force 8 days after the Registrar is notified of that determination or on the day on which the Registrar sooner approves the determination.
     
-    Section 86D: inserted, on 13 February 2012, by [section 18][575] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 86D: inserted, on 13 February 2012, by [section 18][577] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 86E Priority of payments received from defendant
     
@@ -3148,7 +3150,7 @@ Enforcement of fines
     
     (2) Subsection (1) applies regardless of when any amount owed by the defendant was imposed or became due.
     
-    Section 86E: inserted, on 13 February 2012, by [section 18][575] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 86E: inserted, on 13 February 2012, by [section 18][577] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 86F Manner in which amounts of reparation must be applied in cases involving same offence
     
@@ -3158,7 +3160,7 @@ Enforcement of fines
     
     (3) Subsection (2) applies subject to any contrary direction by a court.
     
-    Section 86F: inserted, on 13 February 2012, by [section 18][575] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 86F: inserted, on 13 February 2012, by [section 18][577] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 86G Manner in which amounts of reparation must be applied in cases involving different offences
     
@@ -3186,13 +3188,13 @@ Enforcement of fines
     
     (6) This section applies subject to any contrary direction by a court.
     
-    Section 86G: inserted, on 13 February 2012, by [section 18][575] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 86G: inserted, on 13 February 2012, by [section 18][577] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 86H No Crown liability for error, etc, in applying payments of amounts of reparation
     
 *   The Crown is not liable to any person for any error, omission, or delay in applying any payment of an amount of reparation in accordance with [sections 86E to 86G][142].
     
-    Section 86H: inserted, on 13 February 2012, by [section 18][575] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 86H: inserted, on 13 February 2012, by [section 18][577] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 87 Action if fine or instalment not paid or if arrangement or attachment order cancelled
     
@@ -3222,7 +3224,7 @@ Enforcement of fines
     
     (6) The powers conferred by this section may not be exercised by a Registrar who is a constable.
     
-    Section 87: replaced, on 13 February 2012, by [section 19][576] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 87: replaced, on 13 February 2012, by [section 19][578] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 87AA Power to obtain information in respect of beneficiaries
     
@@ -3242,7 +3244,7 @@ Enforcement of fines
     
     *   (c) the Registrar wishes to verify information supplied by the defendant in respect of that benefit, or obtain information relating to the defendant in respect of that benefit, or obtain and verify that information,---
     
-    the Registrar may require the chief executive of the department for the time being responsible for the administration of the [Social Security Act 1964][577] (_the chief executive_) to provide the Registrar with the information specified in subsection (2) that is known to the chief executive.
+    the Registrar may require the chief executive of the department for the time being responsible for the administration of the [Social Security Act 1964][579] (_the chief executive_) to provide the Registrar with the information specified in subsection (2) that is known to the chief executive.
     
     (2) The information referred to in subsection (1) is---
         
@@ -3250,17 +3252,17 @@ Enforcement of fines
     
     *   (b) the amount of any attachment order or deduction notice that applies to the defendant and is made or given or issued under any of the following Acts:
             
-        *   (i) the [Social Security Act 1964][577]:
+        *   (i) the [Social Security Act 1964][579]:
         
-        *   (ii) the [Family Proceedings Act 1980][578]:
+        *   (ii) the [Family Proceedings Act 1980][580]:
         
-        *   (iii) the [Child Support Act 1991][579]:
+        *   (iii) the [Child Support Act 1991][581]:
         
-        *   (iv) the [Tax Administration Act 1994][580]:
+        *   (iv) the [Tax Administration Act 1994][582]:
         
         
     
-    *   (c) any amount that is being recovered from the defendant under [section 86][581] of the Social Security Act 1964:
+    *   (c) any amount that is being recovered from the defendant under [section 86][583] of the Social Security Act 1964:
     
     *   (d) the composition of the defendant's family, including the number of family members who are dependent on the defendant:
     
@@ -3284,41 +3286,41 @@ Enforcement of fines
     
     (4) This section does not apply if the Registrar is directed under [section 88AE(1)(a)][163] to issue a warrant to seize property or to make an attachment order or to issue a deduction notice.
     
-    Section 87AA: inserted, on 1 November 1998, by [section 21][582] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
+    Section 87AA: inserted, on 1 November 1998, by [section 21][584] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
     
-    Section 87AA(1): amended, on 13 February 2012, by [section 20(4)][583] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 87AA(1): amended, on 13 February 2012, by [section 20(4)][585] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 87AA(1): amended, on 1 October 1998, by [section 11][584] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
+    Section 87AA(1): amended, on 1 October 1998, by [section 11][586] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
     
-    Section 87AA(1)(a)(i): amended, on 13 February 2012, by [section 20(1)][583] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 87AA(1)(a)(i): amended, on 13 February 2012, by [section 20(1)][585] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 87AA(1)(a)(ia): replaced, on 13 February 2012, by [section 20(2)][583] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 87AA(1)(a)(ia): replaced, on 13 February 2012, by [section 20(2)][585] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 87AA(1)(a)(ii): amended, on 13 February 2012, by [section 20(3)][583] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 87AA(1)(a)(ii): amended, on 13 February 2012, by [section 20(3)][585] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 87AA(2)(e): inserted, on 9 October 2006, by [section 13(2)][585] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 87AA(2)(e): inserted, on 9 October 2006, by [section 13(2)][587] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 87AA(2)(e): amended, on 13 February 2012, by [section 20(5)][583] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 87AA(2)(e): amended, on 13 February 2012, by [section 20(5)][585] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 87AA(2)(f): inserted, on 9 October 2006, by [section 13(2)][585] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 87AA(2)(f): inserted, on 9 October 2006, by [section 13(2)][587] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 87AA(2)(g): inserted, on 9 October 2006, by [section 13(2)][585] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 87AA(2)(g): inserted, on 9 October 2006, by [section 13(2)][587] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 87AA(2)(g): amended, on 13 February 2012, by [section 20(6)][583] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 87AA(2)(g): amended, on 13 February 2012, by [section 20(6)][585] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 87AA(3): amended, on 13 February 2012, by [section 20(7)(a)][583] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 87AA(3): amended, on 13 February 2012, by [section 20(7)(a)][585] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 87AA(3): amended, on 1 October 1998, by [section 11][584] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
+    Section 87AA(3): amended, on 1 October 1998, by [section 11][586] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
     
-    Section 87AA(3)(b): amended, on 13 February 2012, by [section 20(7)(b)][583] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 87AA(3)(b): amended, on 13 February 2012, by [section 20(7)(b)][585] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 87AA(3AA): inserted, on 13 February 2012, by [section 20(8)][583] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 87AA(3AA): inserted, on 13 February 2012, by [section 20(8)][585] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 87AA(3A): inserted, on 9 October 2006, by [section 13(3)][585] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 87AA(3A): inserted, on 9 October 2006, by [section 13(3)][587] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 87AA(3A): amended, on 13 February 2012, by [section 20(9)][583] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 87AA(3A): amended, on 13 February 2012, by [section 20(9)][585] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 87AA(4): amended, on 13 February 2012, by [section 26][586] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 87AA(4): amended, on 13 February 2012, by [section 26][588] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 87A Publication of name of fine defaulter
     
@@ -3350,17 +3352,17 @@ Enforcement of fines
     
     (3) A Registrar who causes the publication under subsection (2) of any particulars relating to a defendant shall take all reasonable steps to ensure that the particulars published are accurate and current.
     
-    Section 87A: inserted, on 1 April 1996, by [section 12][587] of the Summary Proceedings Amendment Act 1995 (1995 No 64).
+    Section 87A: inserted, on 1 April 1996, by [section 12][589] of the Summary Proceedings Amendment Act 1995 (1995 No 64).
     
-    Section 87A heading: amended, on 13 February 2012, by [section 46][588] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 87A heading: amended, on 13 February 2012, by [section 46][590] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 87A(1)(c): amended, on 13 February 2012, by [section 46][588] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 87A(1)(c): amended, on 13 February 2012, by [section 46][590] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 87A(1)(d): amended, on 13 February 2012, by [section 21][589] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 87A(1)(d): amended, on 13 February 2012, by [section 21][591] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 87A(2): amended, on 13 February 2012, by [section 46][588] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 87A(2): amended, on 13 February 2012, by [section 46][590] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 87A(2): amended, on 9 October 2006, by [section 14][590] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 87A(2): amended, on 9 October 2006, by [section 14][592] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
 
 ##### 87B Deduction of fines
     
@@ -3408,35 +3410,35 @@ Enforcement of fines
         
     *   (a) 1 or more attachment orders or deduction notices made or given or issued under any of the following Acts:
             
-        *   (i) the [Social Security Act 1964][577]:
+        *   (i) the [Social Security Act 1964][579]:
         
-        *   (ii) the [Family Proceedings Act 1980][578]:
+        *   (ii) the [Family Proceedings Act 1980][580]:
         
-        *   (iii) the [Child Support Act 1991][579]:
+        *   (iii) the [Child Support Act 1991][581]:
         
-        *   (iv) the [Tax Administration Act 1994][580]:
+        *   (iv) the [Tax Administration Act 1994][582]:
         
         
     
-    *   (b) the recovery of payments under [section 86][581] of the Social Security Act 1964\.
+    *   (b) the recovery of payments under [section 86][583] of the Social Security Act 1964\.
     
     (6) Every deduction notice is subject to [section 87I][156].
     
-    Section 87B: inserted, on 1 November 1998, by [section 23][591] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
+    Section 87B: inserted, on 1 November 1998, by [section 23][593] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
     
-    Section 87B(1): replaced, on 13 February 2012, by [section 22][592] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 87B(1): replaced, on 13 February 2012, by [section 22][594] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 87B(1A): inserted, on 13 February 2012, by [section 22][592] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 87B(1A): inserted, on 13 February 2012, by [section 22][594] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 87B(2)(b): replaced, on 9 October 2006, by [section 15(1)][593] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 87B(2)(b): replaced, on 9 October 2006, by [section 15(1)][595] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 87B(2)(ba): inserted, on 9 October 2006, by [section 15(1)][593] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 87B(2)(ba): inserted, on 9 October 2006, by [section 15(1)][595] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 87B(2A): inserted, on 9 October 2006, by [section 15(2)][593] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 87B(2A): inserted, on 9 October 2006, by [section 15(2)][595] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 87B(3): replaced, on 13 February 2012, by [section 11][594] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 87B(3): replaced, on 13 February 2012, by [section 11][596] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 87B(4): amended, on 13 February 2012, by [section 11][594] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 87B(4): amended, on 13 February 2012, by [section 11][596] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 87C Revocation of deduction notices
     
@@ -3448,13 +3450,13 @@ Enforcement of fines
     
     (4) \[Repealed\]
     
-    Section 87C: inserted, on 1 November 1998, by [section 23][591] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
+    Section 87C: inserted, on 1 November 1998, by [section 23][593] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
     
-    Section 87C(1): amended, on 13 February 2012, by [section 11][594] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 87C(1): amended, on 13 February 2012, by [section 11][596] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 87C(3): repealed, on 9 October 2006, by [section 16][595] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 87C(3): repealed, on 9 October 2006, by [section 16][597] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 87C(4): repealed, on 9 October 2006, by [section 16][595] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 87C(4): repealed, on 9 October 2006, by [section 16][597] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
 
 ##### 87D Fine to be treated as being paid
     
@@ -3462,7 +3464,7 @@ Enforcement of fines
     
     (2) If any amounts are deducted in accordance with a deduction notice, the defendant's liability to pay the fine is not satisfied until the total amount due has been paid.
     
-    Section 87D: inserted, on 1 November 1998, by [section 23][591] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
+    Section 87D: inserted, on 1 November 1998, by [section 23][593] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
 
 ##### 87E Deduction notices issued on banks
     
@@ -3470,7 +3472,7 @@ Enforcement of fines
     
     (2) If a bank makes a deduction required by a deduction notice, neither the defendant nor any other person concerned has any claim against that bank, or the Crown, in respect of that deduction.
     
-    Section 87E: inserted, on 1 November 1998, by [section 23][591] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
+    Section 87E: inserted, on 1 November 1998, by [section 23][593] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
 
 ##### 87F Meaning of certain terms relating to banks
     
@@ -3488,7 +3490,7 @@ Enforcement of fines
     
     *   (b) that can be withdrawn from the account by or on behalf of the defendant without a signature being required at the time of that withdrawal from, or on behalf of, the other person or persons.
     
-    Section 87F: inserted, on 1 November 1998, by [section 23][591] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
+    Section 87F: inserted, on 1 November 1998, by [section 23][593] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
 
 ##### 87G Offences in relation to deduction notices
     
@@ -3498,11 +3500,11 @@ Enforcement of fines
     
     *   (b) fails, after making a deduction, to pay the amount deducted in accordance with [section 208][451] within the time specified in the notice.
     
-    Section 87G: inserted, on 1 November 1998, by [section 23][591] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
+    Section 87G: inserted, on 1 November 1998, by [section 23][593] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
     
     Section 87G: amended, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
     
-    Section 87G(b): amended, on 13 February 2012, by [section 23][596] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 87G(b): amended, on 13 February 2012, by [section 23][598] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 87H Variation or discharge of deduction notices
     
@@ -3514,9 +3516,9 @@ Enforcement of fines
     
     (4) The variation or discharge takes effect when notice of it is served on the bank or defendant (as the case may be).
     
-    Section 87H: inserted, on 1 November 1998, by [section 23][591] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
+    Section 87H: inserted, on 1 November 1998, by [section 23][593] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
     
-    Section 87H(4): amended, on 13 February 2012, by [section 11][594] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 87H(4): amended, on 13 February 2012, by [section 11][596] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 87I Penalty for late deductions
     
@@ -3544,17 +3546,17 @@ Enforcement of fines
     
     (5) Any amount payable under subsection (1) is a debt due to the Crown and may be recovered from the bank by the Crown in any court of competent jurisdiction.
     
-    Section 87I: inserted, on 1 November 1998, by [section 23][591] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
+    Section 87I: inserted, on 1 November 1998, by [section 23][593] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
     
-    Section 87I(1): amended, on 13 February 2012, by [section 24(1)][597] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 87I(1): amended, on 13 February 2012, by [section 24(1)][599] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 87I(5): amended, on 13 February 2012, by [section 24(2)][597] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 87I(5): amended, on 13 February 2012, by [section 24(2)][599] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 87J Giving of notices
     
 *   \[Repealed\]
     
-    Section 87J: repealed, on 13 February 2012, by [section 11][594] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 87J: repealed, on 13 February 2012, by [section 11][596] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 88 Actions if fine remains unpaid
     
@@ -3584,7 +3586,7 @@ Enforcement of fines
     
     (5) Despite subsection (1), this section does not apply if the only amount that remains unpaid is an offender levy.
     
-    Section 88: replaced, on 13 February 2012, by [section 25][598] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 88: replaced, on 13 February 2012, by [section 25][600] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 88AA Form and execution of warrant for arrest
     
@@ -3608,7 +3610,7 @@ Enforcement of fines
     
     (4) This section does not limit any other provision of this Act.
     
-    Section 88AA: inserted, on 13 February 2012, by [section 25][598] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 88AA: inserted, on 13 February 2012, by [section 25][600] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 88AB Provisions for defendant arrested under warrant for arrest issued for purpose of section 88(2)(a)
     
@@ -3618,13 +3620,15 @@ Enforcement of fines
     
     *   (b) the defendant is bailable as of right:
     
-    *   (c) [section 168][599] of the Criminal Procedure Act 2011 and [Part 3][600] of the Bail Act 2000 apply with any necessary modifications as if the appearance before the Registrar constituted part of the hearing of a charge:
+    *   (c) [section 168][601] of the Criminal Procedure Act 2011 and [Part 3][602] of the Bail Act 2000 apply with any necessary modifications as if the appearance before the Registrar constituted part of the hearing of a charge:
     
-    *   (d) for the purpose of any bail application by the defendant, if the defendant cannot practicably be brought immediately before the Registrar, a District Court Judge, or a Community Magistrate, then a Police employee or a bailiff may take the bail bond of the defendant and [Parts 1 to 3][601] of the Bail Act 2000 apply with any necessary modifications as if the bail bond were taken by a Police employee under [section 21(1)][602] of that Act.
+    *   (d) for the purpose of any bail application by the defendant, if the defendant cannot practicably be brought immediately before the Registrar, a District Court Judge, or a Community Magistrate, then a Police employee or a bailiff may grant bail to the defendant, and [Parts 1 to 3][603] of the Bail Act 2000 apply, with any necessary modifications, as if the bail were granted by a Police employee under [section 21(1)][604] of that Act.
     
-    Section 88AB: inserted, on 13 February 2012, by [section 25][598] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 88AB: inserted, on 13 February 2012, by [section 25][600] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
     Section 88AB(c): amended, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
+    
+    Section 88AB(d): replaced, on 4 September 2013, by [section 45(2)][605] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 88AC Provisions for defendant arrested under warrant for arrest issued for purpose of section 88(3)
     
@@ -3636,13 +3640,15 @@ Enforcement of fines
     
     *   (c) the defendant is bailable as of right:
     
-    *   (d) [section 168][599] of the Criminal Procedure Act 2011 and [Part 3][600] of the Bail Act 2000 apply with any necessary modifications as if the appearance before the Registrar or a District Court Judge or Community Magistrate constituted part of the hearing of a charge:
+    *   (d) [section 168][601] of the Criminal Procedure Act 2011 and [Part 3][602] of the Bail Act 2000 apply with any necessary modifications as if the appearance before the Registrar or a District Court Judge or Community Magistrate constituted part of the hearing of a charge:
     
-    *   (e) if the defendant cannot practicably be brought immediately before a District Court Judge or Community Magistrate or the Registrar, then a Police employee or a bailiff may take the bail bond of the defendant and [Parts 1 to 3][601] of the Bail Act 2000 apply with any necessary modifications as if the bail bond were taken by a Police employee under [section 21(1)][602] of that Act.
+    *   (e) if the defendant cannot practicably be brought immediately before the Registrar, a District Court Judge, or a Community Magistrate, then a Police employee or a bailiff may grant bail to the defendant, and [Parts 1 to 3][603] of the Bail Act 2000 apply, with any necessary modifications, as if the bail were granted by a Police employee under [section 21(1)][604] of that Act.
     
-    Section 88AC: inserted, on 13 February 2012, by [section 25][598] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 88AC: inserted, on 13 February 2012, by [section 25][600] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
     Section 88AC(d): amended, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
+    
+    Section 88AC(e): replaced, on 4 September 2013, by [section 45(3)][605] of the Bail Amendment Act 2013 (2013 No 66).
 
 ##### 88AD Powers of Registrar in relation to defendant brought before Registrar
     
@@ -3656,7 +3662,7 @@ Enforcement of fines
     
     *   (c) if the Registrar is satisfied that neither of the actions described in paragraphs (a) and (b) will be effective, refer the defendant to a District Court Judge or Community Magistrate with a report on the case (in which case [sections 88(3) and (4)][158], [88AA][159], and [88AC][161] apply).
     
-    Section 88AD: inserted, on 13 February 2012, by [section 25][598] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 88AD: inserted, on 13 February 2012, by [section 25][600] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 88AE Powers of District Court Judge or Community Magistrate after considering report of Registrar under section 88AD
     
@@ -3666,11 +3672,11 @@ Enforcement of fines
     
     *   (b) subject to [section 106E][234], direct that a warrant of commitment in the prescribed form be issued; or
     
-    *   (c) subject to [sections 80A to 80ZM][603] of the Sentencing Act 2002 and [section 106E][234] of this Act, sentence the defendant to a sentence of home detention; or
+    *   (c) subject to [sections 80A to 80ZM][606] of the Sentencing Act 2002 and [section 106E][234] of this Act, sentence the defendant to a sentence of home detention; or
     
-    *   (d) subject to [sections 69B to 80][604] of the Sentencing Act 2002 and [section 106E][234] of this Act, sentence the defendant to a sentence of community detention; or
+    *   (d) subject to [sections 69B to 80][607] of the Sentencing Act 2002 and [section 106E][234] of this Act, sentence the defendant to a sentence of community detention; or
     
-    *   (e) subject to [sections 55 to 80][605] of the Sentencing Act 2002 and [section 106E][234] of this Act, sentence the defendant to community work; or
+    *   (e) subject to [sections 55 to 80][608] of the Sentencing Act 2002 and [section 106E][234] of this Act, sentence the defendant to community work; or
     
     *   (f) direct that action be taken for a lesser amount than the fine due; or
     
@@ -3688,11 +3694,11 @@ Enforcement of fines
     
     *   (b) sentence a defendant to a sentence of home detention under subsection (1)(c).
     
-    (3) If a Community Magistrate considers that the issue of a warrant of commitment or a sentence of home detention is appropriate in any case, the Community Magistrate must refer the matter to a District Court Judge (in which case [sections 167 to 170][606] of the Criminal Procedure Act 2011, to the extent that they are applicable and with the necessary modifications, apply).
+    (3) If a Community Magistrate considers that the issue of a warrant of commitment or a sentence of home detention is appropriate in any case, the Community Magistrate must refer the matter to a District Court Judge (in which case [sections 167 to 170][609] of the Criminal Procedure Act 2011, to the extent that they are applicable and with the necessary modifications, apply).
     
     (4) Despite subsection (1), a period of imprisonment or a sentence of home detention must not be imposed on the defendant for a fine if---
         
-    *   (a) the fine was imposed for a traffic offence (as defined in [section 2(1)][607] of the Children, Young Persons, and Their Families Act 1989) not punishable by imprisonment; and
+    *   (a) the fine was imposed for a traffic offence (as defined in [section 2(1)][610] of the Children, Young Persons, and Their Families Act 1989) not punishable by imprisonment; and
     
     *   (b) at the date of the commission of the offence, the defendant was a young person within the meaning of that Act.
     
@@ -3700,7 +3706,7 @@ Enforcement of fines
     
     (6) The remission of the whole or any part of an amount of reparation does not affect the right of the person who suffered the harm, loss, or damage to bring civil proceedings, or make claims under any accident compensation legislation applicable at the time of the offending, to recover the amount so remitted.
     
-    Section 88AE: inserted, on 13 February 2012, by [section 25][598] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 88AE: inserted, on 13 February 2012, by [section 25][600] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
     Section 88AE(3): amended, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
 
@@ -3714,7 +3720,7 @@ Enforcement of fines
     
     (4) If a District Court Judge or Community Magistrate makes any order (other than a direction for the issue of a warrant of commitment) under [section 88AE][163], the Judge or Community Magistrate may postpone the issue or defer the operation of the order for any period and subject to any conditions that he or she may direct.
     
-    Section 88AF: inserted, on 13 February 2012, by [section 25][598] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 88AF: inserted, on 13 February 2012, by [section 25][600] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
     Section 88AF(1): amended, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
 
@@ -3728,7 +3734,7 @@ Enforcement of fines
     
     (4) If a defendant is detained in accordance with an order issued under subsection (1), the provisions of [section 88AC][161] apply.
     
-    Section 88AG: inserted, on 13 February 2012, by [section 25][598] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 88AG: inserted, on 13 February 2012, by [section 25][600] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 88A Civil enforcement of fines
     
@@ -3736,15 +3742,15 @@ Enforcement of fines
     
     (2) The order deemed to have been made under subsection (1) may be enforced as if that order were a final order for the payment of money and as if the Registrar were the relevant judgment creditor.
     
-    (3) The Registrar may take steps, under [section 66][608] of the District Courts Act 1947, to have the order deemed to have been made under subsection (1) removed into the High Court.
+    (3) The Registrar may take steps, under [section 66][611] of the District Courts Act 1947, to have the order deemed to have been made under subsection (1) removed into the High Court.
     
     (4) Action to enforce the order deemed to have been made under subsection (1) must be taken---
         
-    *   (a) under the [District Courts Act 1947][476] and the [District Courts Rules 2009][609] unless that order is removed into the High Court; or
+    *   (a) under the [District Courts Act 1947][476] and the [District Courts Rules 2009][612] unless that order is removed into the High Court; or
     
-    *   (b) under the [High Court Rules][610] if that order is removed into the High Court.
+    *   (b) under the [High Court Rules][613] if that order is removed into the High Court.
     
-    Section 88A: replaced, on 13 February 2012, by [section 27][611] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 88A: replaced, on 13 February 2012, by [section 27][614] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 88B Remission of fine
     
@@ -3776,19 +3782,19 @@ Enforcement of fines
     
     (6) The Registrar may at any time make an order remitting any fine that is lower than the lowest amount expressed on any coin that is legal tender in New Zealand.
     
-    Section 88B: replaced, on 23 July 2011, by [section 27][611] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 88B: replaced, on 23 July 2011, by [section 27][614] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 89 Rights of representation and appeal
     
 *   (1) Every defendant attending before a District Court Judge or Community Magistrate pursuant to any provision of [sections 88 to 88AG][158] is entitled to be represented by a barrister or solicitor.
     
-    (2) If a defendant is sentenced to community work, community detention, or home detention under [section 88AE(1)][163] or is imprisoned pursuant to a warrant of commitment issued under that provision, the defendant has a right of appeal under [section 244][612] of the Criminal Procedure Act 2011 as if the defendant had been convicted of an offence.
+    (2) If a defendant is sentenced to community work, community detention, or home detention under [section 88AE(1)][163] or is imprisoned pursuant to a warrant of commitment issued under that provision, the defendant has a right of appeal under [section 244][615] of the Criminal Procedure Act 2011 as if the defendant had been convicted of an offence.
     
-    (3) On any such appeal under [section 244][612] of the Criminal Procedure Act 2011 by a defendant sentenced by a District Court Judge, the High Court may, in accordance with its powers under [section 251][613] of the Criminal Procedure Act 2011, remit the matter to a District Court Judge to be dealt with as that Judge thinks fit under [section 88AE(1)][163] of this Act, except that that Judge must not impose a sentence the same as that appealed against.
+    (3) On any such appeal under [section 244][615] of the Criminal Procedure Act 2011 by a defendant sentenced by a District Court Judge, the High Court may, in accordance with its powers under [section 251][616] of the Criminal Procedure Act 2011, remit the matter to a District Court Judge to be dealt with as that Judge thinks fit under [section 88AE(1)][163] of this Act, except that that Judge must not impose a sentence the same as that appealed against.
     
-    Section 89: replaced, on 30 June 1998, by [section 22(1)][614] of the Summary Proceedings Amendment Act (No 2) 1998 (1998 No 77).
+    Section 89: replaced, on 30 June 1998, by [section 22(1)][617] of the Summary Proceedings Amendment Act (No 2) 1998 (1998 No 77).
     
-    Section 89(1): amended, on 13 February 2012, by [section 26][586] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 89(1): amended, on 13 February 2012, by [section 26][588] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
     Section 89(2): replaced, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
     
@@ -3804,11 +3810,11 @@ Enforcement of fines
     
     Compare: 1957 No 87 [s 103][225]
     
-    Section 90: replaced, on 1 November 1987, by [section 14][543] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
+    Section 90: replaced, on 1 November 1987, by [section 14][545] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
     
-    Section 90: amended, on 13 February 2012, by [section 46][588] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 90: amended, on 13 February 2012, by [section 46][590] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 90(a): amended, on 13 February 2012, by [section 28][615] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 90(a): amended, on 13 February 2012, by [section 28][618] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 91 Defendant on substituted sentence to be discharged on payment of fine
     
@@ -3826,31 +3832,31 @@ Enforcement of fines
     
     (4) On completion of a term of imprisonment or any sentence referred to in subsection (2), the fine in respect of which the term of imprisonment or the sentence was imposed is remitted.
     
-    Section 91: replaced, on 13 February 2012, by [section 29][616] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 91: replaced, on 13 February 2012, by [section 29][619] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 91(1): amended, on 13 February 2012, by [section 46][588] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 91(1): amended, on 13 February 2012, by [section 46][590] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 91(2): amended, on 13 February 2012, by [section 46][588] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 91(2): amended, on 13 February 2012, by [section 46][590] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 92 Effect of warrant of commitment
     
-*   A warrant of commitment issued under [section 83(2)(b)][134] or [section 88AE(1)(b)][163] shall require that the defendant be imprisoned in some prison for such time as the District Court Judge considers appropriate (not exceeding the appropriate maximum period specified in [section 90][169], or [section 19][617] of the Crimes Act 1961, as the case may be) unless the fine or any lesser amount directed by the Judge under [section 88AE(1)(f)][163] is sooner paid.
+*   A warrant of commitment issued under [section 83(2)(b)][134] or [section 88AE(1)(b)][163] shall require that the defendant be imprisoned in some prison for such time as the District Court Judge considers appropriate (not exceeding the appropriate maximum period specified in [section 90][169], or [section 19][620] of the Crimes Act 1961, as the case may be) unless the fine or any lesser amount directed by the Judge under [section 88AE(1)(f)][163] is sooner paid.
     
     Compare: 1957 No 87 [s 102][222]
     
-    Section 92: replaced, on 1 November 1987, by [section 14][543] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
+    Section 92: replaced, on 1 November 1987, by [section 14][545] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
     
     Section 92: amended, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
     
-    Section 92: amended, on 13 February 2012, by [section 26][586] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 92: amended, on 13 February 2012, by [section 26][588] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 92: amended, on 13 February 2012, by [section 30][618] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 92: amended, on 13 February 2012, by [section 30][621] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 92: amended, on 1 June 2005, by [section 206][528] of the Corrections Act 2004 (2004 No 50).
+    Section 92: amended, on 1 June 2005, by [section 206][530] of the Corrections Act 2004 (2004 No 50).
 
 #### Disclosure of default balances to certain authorised persons
     
-*   Heading: inserted, on 13 February 2012, by [section 31][619] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+*   Heading: inserted, on 13 February 2012, by [section 31][622] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 92A Interpretation
     
@@ -3858,17 +3864,17 @@ Enforcement of fines
     
     _access code_ means any form of data that enables a recognised user to submit a fine status query
     
-    _agency_ has the same meaning as in [section 2(1)][620] of the Privacy Act 1993
+    _agency_ has the same meaning as in [section 2(1)][623] of the Privacy Act 1993
     
     _credit reporter_ has the same meaning as in the credit reporting code of practice, but regardless of whether payment for information about creditworthiness is involved and whether that information is in respect of individuals or bodies corporate
     
-    _credit reporting code of practice_ means a code of practice relating to credit reporting for the time being issued under the [Privacy Act 1993][621]
+    _credit reporting code of practice_ means a code of practice relating to credit reporting for the time being issued under the [Privacy Act 1993][624]
     
     _fine status query_ means a query as to whether a query subject has a default balance and, if so, the amount of that balance
     
     _fine status response_ means a response to a fine status query
     
-    _fines enforcement records_ means the records of the Ministry of Justice described in [Schedule 5][622] of the Privacy Act 1993 in the item relating to the enforcement of fines and other orders
+    _fines enforcement records_ means the records of the Ministry of Justice described in [Schedule 5][625] of the Privacy Act 1993 in the item relating to the enforcement of fines and other orders
     
     _identifying particulars_ means,---
         
@@ -3922,7 +3928,7 @@ Enforcement of fines
     
     (2) Subparagraphs (ix) and (x) of the definition of **identifying particulars** in subsection (1) do not apply unless the definition of credit information in the credit reporting code of practice includes driver licence numbers and driver licence card numbers.
     
-    Section 92A: inserted, on 13 February 2012, by [section 31][619] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 92A: inserted, on 13 February 2012, by [section 31][622] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 92B Purpose of disclosure and use of information
     
@@ -3950,7 +3956,7 @@ Enforcement of fines
     
     *   (d) require the chief executive to monitor the compliance of recognised users and to audit their records for that compliance.
     
-    Section 92B: inserted, on 13 February 2012, by [section 31][619] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 92B: inserted, on 13 February 2012, by [section 31][622] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 92C Access codes
     
@@ -3962,7 +3968,7 @@ Enforcement of fines
     
     (4) If the chief executive is satisfied that the access code of a recognised user should not have been cancelled or that any breach on the part of any recognised user whose access code has been cancelled is unlikely to recur, the chief executive may issue to that recognised user another access code.
     
-    Section 92C: inserted, on 13 February 2012, by [section 31][619] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 92C: inserted, on 13 February 2012, by [section 31][622] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 92D Recognised user may submit fine status query
     
@@ -3984,7 +3990,7 @@ Enforcement of fines
     
     (2) A recognised user who sends a fine status query must keep, for the period specified by regulations made under [section 92I][181], a record evidencing the consent given by the query subject for the purpose of the fine status query.
     
-    Section 92D: inserted, on 13 February 2012, by [section 31][619] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 92D: inserted, on 13 February 2012, by [section 31][622] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 92E Fine status response by chief executive
     
@@ -4000,13 +4006,13 @@ Enforcement of fines
     
     (2) If compliance with subsection (1) is for any reason impracticable, the chief executive must notify the recognised user that the fine status query cannot be processed and may ask the recognised user to submit another fine status query.
     
-    Section 92E: inserted, on 13 February 2012, by [section 31][619] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 92E: inserted, on 13 February 2012, by [section 31][622] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 92F Disclosure and use of fine status response restricted
     
 *   (1) A recognised user may not disclose the information contained in a fine status response unless the decision is made---
         
-    *   (a) for the purpose of making the information available, in accordance with the [Privacy Act 1993][621], to the query subject to whom the information relates; or
+    *   (a) for the purpose of making the information available, in accordance with the [Privacy Act 1993][624], to the query subject to whom the information relates; or
     
     *   (b) for the purposes of an audit conducted under [section 92H][180] or to a Registrar under [section 100K][206]; or
     
@@ -4014,9 +4020,9 @@ Enforcement of fines
     
     (2) A credit reporter may only disclose the information contained in a fine status response to the subscriber who requested the information, and only if the disclosure is made not later than 24 hours after receipt, under [section 92E][177], of that response.
     
-    (3) A person who contravenes this section or who discloses or uses information in contravention of any regulations made under [section 92I][181] is, for the purposes of [Part 8][623] of the Privacy Act 1993, taken to have breached an information privacy principle under [section 66(1)(a)(i)][624] of that Act.
+    (3) A person who contravenes this section or who discloses or uses information in contravention of any regulations made under [section 92I][181] is, for the purposes of [Part 8][626] of the Privacy Act 1993, taken to have breached an information privacy principle under [section 66(1)(a)(i)][627] of that Act.
     
-    Section 92F: inserted, on 13 February 2012, by [section 31][619] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 92F: inserted, on 13 February 2012, by [section 31][622] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 92G Query subject to be notified of proposed combination of information
     
@@ -4028,15 +4034,15 @@ Enforcement of fines
     
     *   (c) the chief executive proposes to combine the diverging particulars with the identifying particulars shown in the fines enforcement records about the defendant.
     
-    (2) Before the chief executive combines the diverging particulars with the identifying particulars shown in the fines enforcement records about the defendant, the chief executive must first comply with [section 103][625] of the Privacy Act 1993 as if the diverging particulars were a discrepancy and the proposed combination were an adverse action taken against the query subject.
+    (2) Before the chief executive combines the diverging particulars with the identifying particulars shown in the fines enforcement records about the defendant, the chief executive must first comply with [section 103][628] of the Privacy Act 1993 as if the diverging particulars were a discrepancy and the proposed combination were an adverse action taken against the query subject.
     
-    (3) If, following the chief executive's compliance with [section 103][625] of the Privacy Act 1993, any information in the fine status response sent to a recognised user about a query subject is shown to be incorrect, the chief executive must notify the recognised user of the corrected information.
+    (3) If, following the chief executive's compliance with [section 103][628] of the Privacy Act 1993, any information in the fine status response sent to a recognised user about a query subject is shown to be incorrect, the chief executive must notify the recognised user of the corrected information.
     
     (4) If the recognised user is a credit reporter who has disclosed the information contained in the fine status response to a subscriber, the credit reporter must promptly advise the subscriber of the corrected information.
     
     (5) For the purposes of [section 100K][206], any corrected information received by a recognised user or subscriber under subsection (3) or (4) must be disregarded.
     
-    Section 92G: inserted, on 13 February 2012, by [section 31][619] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 92G: inserted, on 13 February 2012, by [section 31][622] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 92H Monitoring and audits by chief executive
     
@@ -4054,7 +4060,7 @@ Enforcement of fines
     
     *   (b) report to the Privacy Commissioner, at agreed intervals, on that compliance.
     
-    Section 92H: inserted, on 13 February 2012, by [section 31][619] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 92H: inserted, on 13 February 2012, by [section 31][622] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 92I Regulations
     
@@ -4062,7 +4068,7 @@ Enforcement of fines
         
     *   (a) prescribing the criteria to be applied by the Minister for Courts in authorising agencies as recognised users:
     
-    *   (b) specifying classes of persons for the purposes of the definition of recognised user in [section 92A][626]:
+    *   (b) specifying classes of persons for the purposes of the definition of recognised user in [section 92A][629]:
     
     *   (c) prescribing the procedure, requirements, or other matters in relation to the cancellation of access codes, including the circumstances when access codes may be suspended immediately pending their proposed cancellation and when prior notice about the proposed cancellation and the opportunity for submissions in that respect are required to be given to the recognised user concerned:
     
@@ -4074,7 +4080,7 @@ Enforcement of fines
     
     *   (g) prescribing criteria for assessing whether the identifying particulars of a query subject in a fine status query correspond with those of a person shown in the fines enforcement records as having a default balance:
     
-    *   (h) prescribing criteria by which divergences in particulars are to be regarded, or are not to be regarded, as diverging particulars for the purposes of [section 92G][627]:
+    *   (h) prescribing criteria by which divergences in particulars are to be regarded, or are not to be regarded, as diverging particulars for the purposes of [section 92G][630]:
     
     *   (i) prescribing restrictions on the disclosure and use, by recognised users and subscribers, of the information contained in fine status responses, including, without limitation, restrictions on combining that information with other information:
     
@@ -4082,11 +4088,11 @@ Enforcement of fines
     
     *   (k) prescribing the period for which fine status responses may be retained or used by recognised users and subscribers, and requiring the destruction of those responses on the expiry of specified periods:
     
-    *   (l) providing for the manner and timing of audits conducted under [section 92H][628], and for the delivery of audit reports to the Privacy Commissioner and any other persons specified in the regulations:
+    *   (l) providing for the manner and timing of audits conducted under [section 92H][631], and for the delivery of audit reports to the Privacy Commissioner and any other persons specified in the regulations:
     
     *   (m) prescribing, for audit purposes, the kinds of records that recognised users must keep in respect of fine status queries and fine status responses, and the manner in which, and the duration for which, those records must be kept:
     
-    *   (n) providing for a person's status as a recognised user to be terminated by the Minister for Courts in specified circumstances, even though that person comes within the definition of that term in [section 92A][626]:
+    *   (n) providing for a person's status as a recognised user to be terminated by the Minister for Courts in specified circumstances, even though that person comes within the definition of that term in [section 92A][629]:
     
     *   (o) prescribing the fees that are payable in respect of access codes allocated by the chief executive, fine status queries, or fine status responses.
     
@@ -4094,17 +4100,17 @@ Enforcement of fines
         
     *   (a) consult the Privacy Commissioner; and
     
-    *   (b) be satisfied that the proposed regulations are consistent with the purpose stated in [section 92B(1)][629] and the legislative framework described in section 92B(2).
+    *   (b) be satisfied that the proposed regulations are consistent with the purpose stated in [section 92B(1)][632] and the legislative framework described in section 92B(2).
     
     (3) Subsection (1)(f) does not apply unless the definition of credit information in the credit reporting code of practice includes driver licence numbers and driver licence card numbers.
     
     (4) This section does not limit [section 212][456].
     
-    Section 92I: inserted, on 23 July 2011, by [section 31][619] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 92I: inserted, on 23 July 2011, by [section 31][622] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 #### Written cautions in case of certain traffic fines
     
-*   Heading: inserted, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+*   Heading: inserted, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 93 Written caution to person holding interest in motor vehicle
     
@@ -4116,7 +4122,7 @@ Enforcement of fines
             
         *   (i) was stolen or converted at the material time; or
         
-        *   (ii) was let on hire at the material time in accordance with a rental service licence under the [Land Transport Act 1998][526]; or
+        *   (ii) was let on hire at the material time in accordance with a rental service licence under the [Land Transport Act 1998][528]; or
         
         
     
@@ -4140,11 +4146,11 @@ Enforcement of fines
     
     *   (e) the recipient's right to seek a review of the Registrar's decision to order the service of the written caution on the recipient.
     
-    Section 93: replaced, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 93: replaced, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 93A Seizure and disposal of motor vehicles: application of sections 100A to 100Y instead of sections 94 to 100
     
-*   Section 93A: repealed, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+*   Section 93A: repealed, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 94 Review of written caution
     
@@ -4156,7 +4162,7 @@ Enforcement of fines
     
     *   (c) the person is a secured party under a security agreement relating to the motor vehicle, or the lessor of the motor vehicle under a lease, but who has no relationship of another kind with the defendant:
     
-    *   (d) the motor vehicle was let on hire at the material time in accordance with a rental service licence under the [Land Transport Act 1998][526].
+    *   (d) the motor vehicle was let on hire at the material time in accordance with a rental service licence under the [Land Transport Act 1998][528].
     
     (2) Every application must include a statutory declaration that specifies a ground stated in subsection (1) and why that ground applies.
     
@@ -4172,19 +4178,19 @@ Enforcement of fines
     
     *   (d) if a written caution served on a person is cancelled, the written caution is deemed not to have been served on the person.
     
-    Section 94: replaced, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 94: replaced, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 94A Personal property securities register to be checked
     
 *   \[Repealed\]
     
-    Section 94A: repealed, on 1 December 2009, by [section 7][631] of the Summary Proceedings (Vehicle Seizure) Amendment Act 2009 (2009 No 38).
+    Section 94A: repealed, on 1 December 2009, by [section 7][634] of the Summary Proceedings (Vehicle Seizure) Amendment Act 2009 (2009 No 38).
 
 ##### 94B Immobilisation of motor vehicles
     
 *   \[Repealed\]
     
-    Section 94B: repealed, on 1 December 2009, by [section 7][631] of the Summary Proceedings (Vehicle Seizure) Amendment Act 2009 (2009 No 38).
+    Section 94B: repealed, on 1 December 2009, by [section 7][634] of the Summary Proceedings (Vehicle Seizure) Amendment Act 2009 (2009 No 38).
 
 ##### 95 Written caution of no effect if fine quashed or set aside
     
@@ -4192,7 +4198,7 @@ Enforcement of fines
     
     (2) If a written caution ceases to have effect under subsection (1), the Registrar must notify every person served with the written caution of that outcome.
     
-    Section 95: replaced, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 95: replaced, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 96 Challenge of seizure by persons treated as substitutes
     
@@ -4204,7 +4210,7 @@ Enforcement of fines
     
     *   (c) the person is a secured party under a security agreement relating to the motor vehicle or the lessor of the motor vehicle under a lease, but has no relationship of another kind with the defendant:
     
-    *   (d) the motor vehicle was let on hire at the material time in accordance with a rental service licence under the [Land Transport Act 1998][526]:
+    *   (d) the motor vehicle was let on hire at the material time in accordance with a rental service licence under the [Land Transport Act 1998][528]:
     
     *   (e) the person took all reasonable steps to prevent the defendant from committing the traffic offence or traffic offences:
     
@@ -4222,11 +4228,11 @@ Enforcement of fines
     
     *   (c) it would, in the circumstances, be unreasonable for the vehicle to be sold or disposed of.
     
-    Section 96: replaced, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 96: replaced, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 #### Seizure, release, and sale of property
     
-*   Heading: inserted, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+*   Heading: inserted, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 97 Purposes of sections 98 to 100T
     
@@ -4236,7 +4242,7 @@ Enforcement of fines
     
     *   (b) in cases where the fine or fines in default relate to traffic offending, to reduce opportunities for offending of that kind.
     
-    Section 97: replaced, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 97: replaced, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 98 Warrant to seize property
     
@@ -4272,7 +4278,7 @@ Enforcement of fines
     
     (6) Subsection (3) does not limit any other provision of this Act.
     
-    Section 98: replaced, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 98: replaced, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 99 Seizure of property
     
@@ -4292,27 +4298,27 @@ Enforcement of fines
     
     (6) The notice required to be given by subsection (5) must be delivered to the defendant or the substitute, or left for the defendant or the substitute in a conspicuous place at the premises from which the property is seized, or sent to the defendant or the substitute by ordinary post, fax, email, or other electronic means.
     
-    Section 99: replaced, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 99: replaced, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 100 Seizure of motor vehicles impounded under Land Transport Act 1998
     
-*   (1) Any motor vehicle in which the defendant or a substitute for the defendant appears to have an ownership interest or other interest may be seized under a warrant to seize property even if it is impounded under [section 96][544] or [96A][545] of the Land Transport Act 1998, as long as it has been impounded under that Act for at least 14 days.
+*   (1) Any motor vehicle in which the defendant or a substitute for the defendant appears to have an ownership interest or other interest may be seized under a warrant to seize property even if it is impounded under [section 96][546] or [96A][547] of the Land Transport Act 1998, as long as it has been impounded under that Act for at least 14 days.
     
-    (2) The power to seize a motor vehicle described in subsection (1) is not limited by any appeal pending under [section 102][632] or [110][633] of the Land Transport Act 1998\.
+    (2) The power to seize a motor vehicle described in subsection (1) is not limited by any appeal pending under [section 102][635] or [110][636] of the Land Transport Act 1998\.
     
-    Section 100: replaced, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 100: replaced, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 #### Seizure, release, and sale of motor vehicles
 
 \[Repealed\]
     
-*   Heading: repealed, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+*   Heading: repealed, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 100A Seizure of motor vehicle not precluded by low value or low interest
     
 *   Consistent with the purposes stated in [section 97][191], a motor vehicle may be seized in accordance with this Part even though it would be uneconomic to sell the vehicle or the proceeds from a sale of the vehicle would be insufficient to pay the fine in default or any part of that fine, whether because of the low value of the vehicle or the low value of the interest that the defendant or the substitute has in the motor vehicle, or for any other reason.
     
-    Section 100A: replaced, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 100A: replaced, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 100B Seized property to be retained by or for Registrar
     
@@ -4322,7 +4328,7 @@ Enforcement of fines
     
     *   (b) if the Registrar so directs, taken to, or retained by, any person or at any place specified for the purpose by the Registrar.
     
-    (2) If any motor vehicle that is seized under a warrant to seize property fails to comply in any respect with [section 242][634] of the Land Transport Act 1998, then---
+    (2) If any motor vehicle that is seized under a warrant to seize property fails to comply in any respect with [section 242][637] of the Land Transport Act 1998, then---
         
     *   (a) the vehicle may, despite that Act or any other enactment, be towed to any place specified by the Registrar; and
     
@@ -4330,7 +4336,7 @@ Enforcement of fines
     
     (3) The Registrar must ensure the seized property is retained until the fine is paid or the property is sold, or assigned or applied, or otherwise disposed of or released in accordance with a determination of the Registrar or a District Court Judge.
     
-    Section 100B: replaced, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 100B: replaced, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 100C Immobilisation of motor vehicles
     
@@ -4366,13 +4372,13 @@ Enforcement of fines
         
         
     
-    Section 100C: replaced, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 100C: replaced, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
     Section 100C(6): amended, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
 
 ##### 100D Personal property securities register to be checked
     
-*   (1) If property is seized under a warrant to seize property, the Registrar must, on the next working day after the property is seized, check whether a financing statement that relates to the property has been registered on the personal property securities register kept under the [Personal Property Securities Act 1999][635].
+*   (1) If property is seized under a warrant to seize property, the Registrar must, on the next working day after the property is seized, check whether a financing statement that relates to the property has been registered on the personal property securities register kept under the [Personal Property Securities Act 1999][638].
     
     (2) If a financing statement has been registered, the Registrar must promptly notify the person named as the secured party (including any lessor) in the financing statement of the following:
         
@@ -4386,7 +4392,7 @@ Enforcement of fines
     
     *   (b) the rights that may be available to the person under [sections 100H][203], [100J][205], and [100Q][212].
     
-    Section 100D: replaced, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 100D: replaced, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 100E Release of property if fine and other costs paid or if certain appeals successful
     
@@ -4394,7 +4400,7 @@ Enforcement of fines
         
     *   (a) the fine:
     
-    *   (b) if the property is a motor vehicle that has been impounded under [section 96][544] or [96A][545] of the Land Transport Act 1998, any impoundment costs:
+    *   (b) if the property is a motor vehicle that has been impounded under [section 96][546] or [96A][547] of the Land Transport Act 1998, any impoundment costs:
     
     *   (c) all costs incurred in seizing, transporting, and storing the property.
     
@@ -4402,11 +4408,11 @@ Enforcement of fines
     
     (3) If the property is a motor vehicle that has been seized from a substitute for the defendant, the only type of fines required to be paid under subsection (1)(a) are ones imposed in respect of traffic offences committed by the defendant in a motor vehicle that, at the time of the commission of the offence, was owned by the substitute or in which the substitute had an interest.
     
-    (4) If the property is a motor vehicle that has been seized while impounded under [section 96][544] or [96A][545] of the Land Transport Act 1998, the motor vehicle may not be released under subsection (1) before the day after the close of the 28-day period for which the vehicle would otherwise be required to be impounded under that Act.
+    (4) If the property is a motor vehicle that has been seized while impounded under [section 96][546] or [96A][547] of the Land Transport Act 1998, the motor vehicle may not be released under subsection (1) before the day after the close of the 28-day period for which the vehicle would otherwise be required to be impounded under that Act.
     
     (5) Subsection (4) is subject to [section 100L(1)(a) and (3)][207].
     
-    (6) If an appeal under [section 102][632] or [110][633] of the Land Transport Act 1998 against the impoundment of the motor vehicle is allowed before the expiry of the 28-day period for which the motor vehicle would otherwise be required to be impounded under [section 96][544] or [96A][544] of that Act,---
+    (6) If an appeal under [section 102][635] or [110][636] of the Land Transport Act 1998 against the impoundment of the motor vehicle is allowed before the expiry of the 28-day period for which the motor vehicle would otherwise be required to be impounded under [section 96][546] or [96A][546] of that Act,---
         
     *   (a) the Registrar must release the motor vehicle to the person who is registered in respect of that vehicle; and
     
@@ -4418,7 +4424,7 @@ Enforcement of fines
     
     *   (b) does not apply if the motor vehicle has already been released to a lessor or secured party under [section 100H][203] or [100L(1)(a)][207] or been sold by the court under [section 100P][211].
     
-    Section 100E: replaced, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 100E: replaced, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 100F Release of property to certain owners
     
@@ -4438,7 +4444,7 @@ Enforcement of fines
     
     *   (b) the fine in default, including the costs incurred in seizing, transporting, and storing the property, and any impoundment costs.
     
-    (5) In any case where a motor vehicle has been seized while impounded under [section 96][544] or [96A][545] of the Land Transport Act 1998, the motor vehicle---
+    (5) In any case where a motor vehicle has been seized while impounded under [section 96][546] or [96A][547] of the Land Transport Act 1998, the motor vehicle---
         
     *   (a) may not be released under this section unless---
             
@@ -4450,7 +4456,7 @@ Enforcement of fines
     
     *   (b) may be sold under [section 100P][211] if those costs are not paid in accordance with paragraph (a)(ii).
     
-    Section 100F: replaced, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 100F: replaced, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 100G Determination of claim by owners
     
@@ -4468,13 +4474,13 @@ Enforcement of fines
     
     *   (c) the person is a secured party under a security agreement relating to the motor vehicle, or is the lessor of the motor vehicle under a lease, but who has no relationship of another kind with the defendant:
     
-    *   (d) the motor vehicle was let on hire at the material time in accordance with a rental service licence under the [Land Transport Act 1998][526].
+    *   (d) the motor vehicle was let on hire at the material time in accordance with a rental service licence under the [Land Transport Act 1998][528].
     
     (3) In the case of a motor vehicle seized in respect of a traffic fine, the Judge may ask any claimant to satisfy the Judge that any agreement, transfer, or change in registration or ownership is genuine if the Judge has reason to question whether the claimant is a nominee for the defendant or any substitute for the defendant.
     
     (4) A person who claims to have acquired property from the defendant after the commission of any offence or after the taking of any enforcement action against the defendant must satisfy the Judge that the transaction on which the acquisition was based was genuine.
     
-    (5) In any case where the motor vehicle has been seized while impounded under [section 96][544] or [96A][545] of the Land Transport Act 1998, the motor vehicle---
+    (5) In any case where the motor vehicle has been seized while impounded under [section 96][546] or [96A][547] of the Land Transport Act 1998, the motor vehicle---
         
     *   (a) may not be released under this section unless---
             
@@ -4494,7 +4500,7 @@ Enforcement of fines
     
     (7) If the claimant does not succeed in the claim to the property, any deposit paid or security provided may be applied as if it were the proceeds of the sale of the property.
     
-    Section 100G: replaced, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 100G: replaced, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 100H Lessor may apply to Registrar
     
@@ -4516,15 +4522,15 @@ Enforcement of fines
     
     (3) On an application under subsection (2), the Registrar or a District Court Judge may release the property to the lessor.
     
-    (4) Property that is a motor vehicle may also be released under subsection (3) if it has been seized while impounded under [section 96][544] or [96A][545] of the Land Transport Act 1998 even though the 28-day period of impoundment for which the motor vehicle would otherwise be required to be impounded under that Act has not yet expired.
+    (4) Property that is a motor vehicle may also be released under subsection (3) if it has been seized while impounded under [section 96][546] or [96A][547] of the Land Transport Act 1998 even though the 28-day period of impoundment for which the motor vehicle would otherwise be required to be impounded under that Act has not yet expired.
     
     (5) On the release of property under subsection (3) to the lessor, the lease is cancelled.
     
     (6) This section is subject to [section 100M][208].
     
-    Compare: 2002 No 9 [s 140][636]
+    Compare: 2002 No 9 [s 140][639]
     
-    Section 100H: replaced, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 100H: replaced, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 100I What happens if lessor does not apply to Registrar before property sold or disposed of
     
@@ -4556,7 +4562,7 @@ Enforcement of fines
     
     (6) On the release of the proceeds of the sale of the property to the lessor, the lease is cancelled.
     
-    Section 100I: replaced, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 100I: replaced, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 100J Claims by secured parties
     
@@ -4588,7 +4594,7 @@ Enforcement of fines
     
     *   (b) ascertain, in accordance with [section 100K][206], whether the defendant had a default balance recorded against the defendant's name.
     
-    Section 100J: replaced, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 100J: replaced, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 100K Certification of default balance
     
@@ -4628,7 +4634,7 @@ Enforcement of fines
     
     (6) In this section, _fine status response_ has the same meaning as in [section 92A][173].
     
-    Section 100K: replaced, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 100K: replaced, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 100L Sale of secured property by secured party or by court
     
@@ -4638,21 +4644,21 @@ Enforcement of fines
     
     *   (b) order the sale of the property under [section 100P][211].
     
-    (2) If the Judge or Registrar takes action under subsection (1)(a) and 2 or more secured parties have requested the taking of that action, then the Judge or Registrar must release the property to the secured party with the highest-ranking security interest under the order of priority determined by [Part 7][637] or [8][638] of the Personal Property Securities Act 1999\.
+    (2) If the Judge or Registrar takes action under subsection (1)(a) and 2 or more secured parties have requested the taking of that action, then the Judge or Registrar must release the property to the secured party with the highest-ranking security interest under the order of priority determined by [Part 7][640] or [8][641] of the Personal Property Securities Act 1999\.
     
-    (3) If the property is a motor vehicle that has been seized while impounded under [section 96][544] or [96A][545] of the Land Transport Act 1998, the motor vehicle may also be released under subsection (1)(a) even though the 28-day period of impoundment for which the motor vehicle would otherwise be required to be impounded under that Act has not yet expired.
+    (3) If the property is a motor vehicle that has been seized while impounded under [section 96][546] or [96A][547] of the Land Transport Act 1998, the motor vehicle may also be released under subsection (1)(a) even though the 28-day period of impoundment for which the motor vehicle would otherwise be required to be impounded under that Act has not yet expired.
     
     (4) A purchaser of property that is sold to the purchaser under a direction given under subsection (1)(a) obtains, by virtue of this section, good title to the property free of all ownership interests and other proprietary interests held in the property before that sale.
     
     (5) Subsection (1)(a) is subject to [section 100M][208].
     
-    Section 100L: replaced, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 100L: replaced, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 100M Certain payments required before release to lessor or secured party takes effect
     
 *   (1) An order for the release of property under [section 100H(3)][203] or [100L(1)(a)][207] does not take effect unless the following costs have been paid into court:
         
-    *   (a) if the property is a motor vehicle that has been impounded under [section 96][544] or [96A][545] of the Land Transport Act 1998, any impoundment costs:
+    *   (a) if the property is a motor vehicle that has been impounded under [section 96][546] or [96A][547] of the Land Transport Act 1998, any impoundment costs:
     
     *   (b) any costs incurred in seizing, transporting, and storing the property and in complying with the provisions of this Part:
     
@@ -4662,7 +4668,7 @@ Enforcement of fines
     
     (3) If the payments specified in subsection (1) are not paid in accordance with subsection (2), the property may be sold under [section 100P][211].
     
-    Section 100M: replaced, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 100M: replaced, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 100N Application of proceeds of sale by secured party
     
@@ -4680,7 +4686,7 @@ Enforcement of fines
     
     (2) The Registrar must then apply the balance remaining in accordance with [section 100R(1)(c) to (j) and (2)][213], with all necessary modifications.
     
-    Section 100N: replaced, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 100N: replaced, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 100O Failure by secured party to sell or account for proceeds
     
@@ -4696,7 +4702,7 @@ Enforcement of fines
     
     (3) A secured party who fails, in whole or in part, to pay into court the money required under [section 100N(1)(b)][209] is liable to the Crown for any amount not paid, and that amount may be recovered from the secured party as a debt due to the Crown.
     
-    Section 100O: replaced, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 100O: replaced, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 100P Sale or disposal of property seized
     
@@ -4708,13 +4714,13 @@ Enforcement of fines
     
     *   (c) in the case of money, that the Registrar apply the money in accordance with [section 100R][213].
     
-    (2) The relevant period referred to in subsection (1) is 7 days after the day on which the property was seized or, if the property is a motor vehicle that was seized while impounded under [section 96][544] or [96A][545] of the Land Transport Act 1998, the later of---
+    (2) The relevant period referred to in subsection (1) is 7 days after the day on which the property was seized or, if the property is a motor vehicle that was seized while impounded under [section 96][546] or [96A][547] of the Land Transport Act 1998, the later of---
         
     *   (a) the day after the close of the 28-day period for which the motor vehicle would otherwise be required to be impounded under that Act; or
     
     *   (b) the expiry of 8 days after the day on which the motor vehicle was seized.
     
-    (3) A motor vehicle may be sold under this section even though it fails to comply in any respect with [section 242][634] of the Land Transport Act 1998, and the purchaser of that motor vehicle---
+    (3) A motor vehicle may be sold under this section even though it fails to comply in any respect with [section 242][637] of the Land Transport Act 1998, and the purchaser of that motor vehicle---
         
     *   (a) is, despite that Act or any other enactment, entitled to tow the motor vehicle to any appropriate place; and
     
@@ -4724,11 +4730,11 @@ Enforcement of fines
     
     (4) Despite subsections (1) to (3), the Registrar may dispose of a motor vehicle in any manner that he or she thinks fit if the Registrar has reasonable grounds to believe that the motor vehicle is a low-value motor vehicle referred to in [section 100A][196].
     
-    (5) If the Registrar considers that a motor vehicle is not roadworthy and that it would be uneconomic to render it roadworthy, the Registrar must, before the motor vehicle is sold or disposed of under this section, apply, under the [Land Transport Act 1998][526], to have the registration of the motor vehicle cancelled as if the Registrar were the person who, under that Act, is entitled to apply for that cancellation.
+    (5) If the Registrar considers that a motor vehicle is not roadworthy and that it would be uneconomic to render it roadworthy, the Registrar must, before the motor vehicle is sold or disposed of under this section, apply, under the [Land Transport Act 1998][528], to have the registration of the motor vehicle cancelled as if the Registrar were the person who, under that Act, is entitled to apply for that cancellation.
     
-    (6) The sale of a motor vehicle that has been seized while impounded under [section 96][544] or [96A][545] of the Land Transport Act 1998 is not affected by any appeal that is pending after the 28-day period for which the motor vehicle would otherwise be required to be impounded under that Act, or by any appeal that is determined after that period.
+    (6) The sale of a motor vehicle that has been seized while impounded under [section 96][546] or [96A][547] of the Land Transport Act 1998 is not affected by any appeal that is pending after the 28-day period for which the motor vehicle would otherwise be required to be impounded under that Act, or by any appeal that is determined after that period.
     
-    (7) In any case where a motor vehicle has been seized while impounded under [section 96][544] or [96A][545] of the Land Transport Act 1998, the vehicle may be sold under this section (even if the fine and all costs incurred in seizing, towing, and storing the vehicle have been paid) if any impoundment costs are not paid within---
+    (7) In any case where a motor vehicle has been seized while impounded under [section 96][546] or [96A][547] of the Land Transport Act 1998, the vehicle may be sold under this section (even if the fine and all costs incurred in seizing, towing, and storing the vehicle have been paid) if any impoundment costs are not paid within---
         
     *   (a) 7 days after the close of the 28-day period for which the vehicle would otherwise be required to be impounded under that Act; or
     
@@ -4744,7 +4750,7 @@ Enforcement of fines
     
     (10) The purchaser or assignee of property sold or disposed of under this section obtains, by virtue of this section, good title to the property free of all ownership interests and other proprietary interests held in the property before that sale or disposition.
     
-    Section 100P: replaced, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 100P: replaced, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 100Q Registrar must defer sale if storage costs paid
     
@@ -4752,13 +4758,13 @@ Enforcement of fines
     
     (2) A payment made under subsection (1) may not be less than the amount of the costs incurred in a period of 8 days.
     
-    Section 100Q: replaced, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 100Q: replaced, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 100R Application of proceeds of sale
     
 *   (1) When property is sold under [section 100P][211], the proceeds of the sale must be applied in the following manner and order of priority:
         
-    *   (a) if the property is a motor vehicle that has been impounded under [section 96][544] or [96A][545] of the Land Transport Act 1998, in payment of any impoundment costs:
+    *   (a) if the property is a motor vehicle that has been impounded under [section 96][546] or [96A][547] of the Land Transport Act 1998, in payment of any impoundment costs:
     
     *   (b) in payment of the costs of the sale (including all costs incurred in seizing, transporting, and storing the property and in complying with the provisions of this Part preliminary to sale):
     
@@ -4772,21 +4778,21 @@ Enforcement of fines
     
     *   (g) in payment to any secured party or secured parties of the applicable default balance or the applicable default balances certified under [section 100K][206] and deducted under paragraph (c):
     
-    *   (h) in payment of any fees and accident insurance levies prescribed under [section 242(2)(b)][634] of the Land Transport Act 1998 that are outstanding in respect of the vehicle:
+    *   (h) in payment of any fees and accident insurance levies prescribed under [section 242(2)(b)][637] of the Land Transport Act 1998 that are outstanding in respect of the vehicle:
     
-    *   (i) in payment of any road user charges under [Road User Charges Act 2012][557] that are outstanding in respect of the vehicle:
+    *   (i) in payment of any road user charges under [Road User Charges Act 2012][559] that are outstanding in respect of the vehicle:
     
     *   (j) to the defendant or, as the case requires, to the substitute for the defendant.
     
-    (2) If any proceeds of sale are required to be applied to 2 or more security interests under subsection (1)(c), those proceeds must be applied in the order of the priority determined for those security interests by [Part 7][637] or [8][638] of the Personal Property Securities Act 1999\.
+    (2) If any proceeds of sale are required to be applied to 2 or more security interests under subsection (1)(c), those proceeds must be applied in the order of the priority determined for those security interests by [Part 7][640] or [8][641] of the Personal Property Securities Act 1999\.
     
-    (3) If any proceeds of sale are required to be applied to 2 or more default balances under subsection (1)(g), those proceeds must be applied to those default balances in the order of the priority determined for the applicable security interests by [Part 7][637] or [8][638] of the Personal Property Securities Act 1999\.
+    (3) If any proceeds of sale are required to be applied to 2 or more default balances under subsection (1)(g), those proceeds must be applied to those default balances in the order of the priority determined for the applicable security interests by [Part 7][640] or [8][641] of the Personal Property Securities Act 1999\.
     
     (4) If the proceeds arise out of the sale of a motor vehicle owned by a substitute for the defendant or in which the substitute had an interest, the proceeds must be applied in the manner and order of priority specified in subsection (1), except that the payments described in paragraphs (d) to (f) of that subsection are limited to amounts imposed in respect of traffic offences committed by the defendant in a motor vehicle that, at the time of the commission of the offence, was owned by the substitute or in which the substitute had an interest.
     
     (5) The Judge may, on application or on his or her own initiative, give any directions as to the application of the proceeds of sale under this section.
     
-    Section 100R: replaced, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 100R: replaced, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 100S Remission of fine and costs of sale in certain cases involving motor vehicles
     
@@ -4812,7 +4818,7 @@ Enforcement of fines
     
     *   (b) any offender levy.
     
-    Section 100S: replaced, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 100S: replaced, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 100T Compensation to person with interest in property sold
     
@@ -4826,43 +4832,43 @@ Enforcement of fines
     
     (3) Subsection (2) does not limit or affect any other remedy that a person may have in respect of loss referred to in that subsection.
     
-    Section 100T: replaced, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 100T: replaced, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 100U Claims by creditors
     
 *   \[Repealed\]
     
-    Section 100U: repealed, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 100U: repealed, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 100V Certain payments required before release to lessor or creditor takes effect
     
 *   \[Repealed\]
     
-    Section 100V: repealed, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 100V: repealed, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 100W Application of proceeds of sale by creditor
     
 *   \[Repealed\]
     
-    Section 100W: repealed, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 100W: repealed, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 100X Failure by creditor to sell or account for proceeds
     
 *   \[Repealed\]
     
-    Section 100X: repealed, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 100X: repealed, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 100Y Compensation to person with interest in motor vehicle sold
     
 *   \[Repealed\]
     
-    Section 100Y: repealed, on 13 February 2012, by [section 32][630] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 100Y: repealed, on 13 February 2012, by [section 32][633] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 101 Offence to interfere with or rescue property seized
     
 *   Every person commits an offence who interferes with, or rescues or attempts to rescue, any property knowing it to be seized under a warrant to seize property and is liable on conviction to imprisonment for a period not exceeding 3 months or to a fine not exceeding $2,000, and may be arrested without warrant by any bailiff or constable.
     
-    Section 101: replaced, on 1 November 1987, by [section 14][543] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
+    Section 101: replaced, on 1 November 1987, by [section 14][545] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
     
     Section 101: amended, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
 
@@ -4870,9 +4876,9 @@ Enforcement of fines
     
 *   No Registrar and no bailiff, constable or other officer shall be personally liable for any act done or omitted in good faith in the performance or purported performance of any power or function under this Act relating to the immobilisation of any vehicle or to the seizure of property or its subsequent sale, assignment, application, or disposal.
     
-    Section 102: replaced, on 1 November 1987, by [section 14][543] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
+    Section 102: replaced, on 1 November 1987, by [section 14][545] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
     
-    Section 102: amended, on 13 February 2012, by [section 33][639] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 102: amended, on 13 February 2012, by [section 33][642] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
     Section 102: amended, on 15 December 1994, by section 5 of the Summary Proceedings Amendment Act 1994 (1994 No 161).
 
@@ -4884,9 +4890,9 @@ Enforcement of fines
     
     (3) This section does not prevent proceedings being taken against a person under some other Act instead of under this section.
     
-    Section 102A: inserted, on 1 November 1998, by [section 26][640] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
+    Section 102A: inserted, on 1 November 1998, by [section 26][643] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
     
-    Section 102A(1): amended, on 13 February 2012, by [section 26][586] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 102A(1): amended, on 13 February 2012, by [section 26][588] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 102B Proceedings against bailiffs acting under warrants
     
@@ -4902,9 +4908,9 @@ Enforcement of fines
     
     (3) The Registrar who issued the warrant may be joined as a defendant in the proceeding and, if the Registrar is joined and judgment is given against the Registrar, the costs to be recovered by the plaintiff against the Registrar must include the costs that the plaintiff is liable to pay to the bailiff.
     
-    Sections 102B: inserted, on 1 November 1998, by [section 26][640] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
+    Sections 102B: inserted, on 1 November 1998, by [section 26][643] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
     
-    Section 102B(1): amended, on 13 February 2012, by [section 26][586] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 102B(1): amended, on 13 February 2012, by [section 26][588] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 103 Effect of attachment order
     
@@ -4914,15 +4920,15 @@ Enforcement of fines
     
     Compare: 1957 No 87 [s 95][188]
     
-    Section 103: replaced, on 1 November 1987, by [section 14][543] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
+    Section 103: replaced, on 1 November 1987, by [section 14][545] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
     
-    Section 103(1): amended, on 13 February 2012, by [section 26][586] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 103(1): amended, on 13 February 2012, by [section 26][588] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 103(1): amended, on 13 February 2012, by [section 34(a)][641] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 103(1): amended, on 13 February 2012, by [section 34(a)][644] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 103(1): amended, on 13 February 2012, by [section 34(b)][641] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 103(1): amended, on 13 February 2012, by [section 34(b)][644] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 103(2): repealed, on 1 April 1996, by [section 15][642] of the Summary Proceedings Amendment Act 1995 (1995 No 64).
+    Section 103(2): repealed, on 1 April 1996, by [section 15][645] of the Summary Proceedings Amendment Act 1995 (1995 No 64).
 
 ##### 104 Attachment order to be served on employer
     
@@ -4932,15 +4938,15 @@ Enforcement of fines
     
     (3) Every attachment order shall take effect when a copy of the order is served on the employer in accordance with [section 79A][127] or [79B][128].
     
-    Compare: 1980 No 94 [s 105][643]
+    Compare: 1980 No 94 [s 105][646]
     
-    Section 104: replaced, on 1 November 1987, by [section 14][543] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
+    Section 104: replaced, on 1 November 1987, by [section 14][545] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
     
-    Section 104(1): replaced, on 13 February 2012, by [section 11][594] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 104(1): replaced, on 13 February 2012, by [section 11][596] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 104(2): repealed, on 13 February 2012, by [section 11][594] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 104(2): repealed, on 13 February 2012, by [section 11][596] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 104(3): amended, on 13 February 2012, by [section 11][594] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 104(3): amended, on 13 February 2012, by [section 11][596] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 104A Power to obtain information in respect of employers
     
@@ -4970,25 +4976,25 @@ Enforcement of fines
     
     (3) If the defendant has died and the Commissioner of Inland Revenue is aware of that fact, the Commissioner of Inland Revenue must advise the Registrar accordingly on receipt of a requirement under subsection (1A).
     
-    Section 104A: inserted, on 1 November 1998, by [section 27][644] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
+    Section 104A: inserted, on 1 November 1998, by [section 27][647] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
     
-    Section 104A(1): replaced, on 9 October 2006, by [section 22(1)][645] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 104A(1): replaced, on 9 October 2006, by [section 22(1)][648] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 104A(1A): inserted, on 9 October 2006, by [section 22(1)][645] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 104A(1A): inserted, on 9 October 2006, by [section 22(1)][648] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 104A(1A): amended, on 13 February 2012, by [section 35(1)][646] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 104A(1A): amended, on 13 February 2012, by [section 35(1)][649] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 104A(2): amended, on 13 February 2012, by [section 35(2)(a)][646] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 104A(2): amended, on 13 February 2012, by [section 35(2)(a)][649] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 104A(2): amended, on 9 October 2006, by [section 22(2)][645] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 104A(2): amended, on 9 October 2006, by [section 22(2)][648] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 104A(2)(b): amended, on 13 February 2012, by [section 35(2)(b)][646] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 104A(2)(b): amended, on 13 February 2012, by [section 35(2)(b)][649] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 104A(2A): inserted, on 13 February 2012, by [section 35(3)][646] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 104A(2A): inserted, on 13 February 2012, by [section 35(3)][649] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 104A(3): inserted, on 9 October 2006, by [section 22(3)][645] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 104A(3): inserted, on 9 October 2006, by [section 22(3)][648] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 104A(3): amended, on 13 February 2012, by [section 35(4)][646] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 104A(3): amended, on 13 February 2012, by [section 35(4)][649] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 105 Content of attachment orders
     
@@ -5016,15 +5022,15 @@ Enforcement of fines
     
     (5) The items referred to in subsection (4) are---
         
-    *   (a) a deduction notice or an attachment order under the [Child Support Act 1991][579], the [Family Proceedings Act 1980][578], the [Social Security Act 1964][577], or the [Tax Administration Act 1994][580]:
+    *   (a) a deduction notice or an attachment order under the [Child Support Act 1991][581], the [Family Proceedings Act 1980][580], the [Social Security Act 1964][579], or the [Tax Administration Act 1994][582]:
     
-    *   (b) a deduction for the recovery of payments under [section 86][581] of the Social Security Act 1964\.
+    *   (b) a deduction for the recovery of payments under [section 86][583] of the Social Security Act 1964\.
     
     (6) If any question arises in any case as to the priority to be accorded to an attachment order made under this Act, each of the items specified in subsection (5) has priority over that attachment order.
     
     (7) In this section,---
     
-    _net earnings_, in relation to an earnings period, means the balance left after deducting from the defendant's salary or wages for the earnings period the amount of tax required to be withheld or deducted in accordance with the PAYE rules of the [Income Tax Act 2007][647] if the salary or wages were the only salary or wages paid to the defendant by the employer for the earnings period
+    _net earnings_, in relation to an earnings period, means the balance left after deducting from the defendant's salary or wages for the earnings period the amount of tax required to be withheld or deducted in accordance with the PAYE rules of the [Income Tax Act 2007][650] if the salary or wages were the only salary or wages paid to the defendant by the employer for the earnings period
     
     _protected earnings rate_, in relation to an earnings period, means the higher of---
         
@@ -5032,7 +5038,7 @@ Enforcement of fines
     
     *   (b) the amount or percentage stated under subsection (1)(c).
     
-    Section 105: replaced, on 13 February 2012, by [section 36][648] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 105: replaced, on 13 February 2012, by [section 36][651] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 106 Liability of employer
     
@@ -5054,15 +5060,15 @@ Enforcement of fines
     
     (6) Every employer commits an offence and is liable on conviction to a fine not exceeding $1,000 who fails without reasonable excuse to comply with paragraph (a) or paragraph (b) of subsection (1).
     
-    Compare: 1980 No 94 [s 108][649]
+    Compare: 1980 No 94 [s 108][652]
     
-    Section 106: replaced, on 1 November 1987, by [section 14][543] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
+    Section 106: replaced, on 1 November 1987, by [section 14][545] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
     
-    Section 106(1)(b): amended, on 9 October 2006, by [section 23][650] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 106(1)(b): amended, on 9 October 2006, by [section 23][653] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 106(4): replaced, on 13 February 2012, by [section 37][651] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 106(4): replaced, on 13 February 2012, by [section 37][654] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 106(4A): inserted, on 13 February 2012, by [section 37][651] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 106(4A): inserted, on 13 February 2012, by [section 37][654] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
     Section 106(6): amended, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
 
@@ -5076,7 +5082,7 @@ Enforcement of fines
     
     *   (c) the employer becoming aware that an attachment order is being made or has been made in respect of the employee.
     
-    Section 106A: replaced, on 13 February 2012, by [section 38][652] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 106A: replaced, on 13 February 2012, by [section 38][655] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
     Section 106A: amended, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
 
@@ -5102,15 +5108,15 @@ Enforcement of fines
     
     (3) If the defendant liable to pay a fine is a servant of the Crown, an attachment order may be made against the Crown as employer.
     
-    Compare: 1980 No 94 [s 117][653]
+    Compare: 1980 No 94 [s 117][656]
     
-    Section 106B: inserted, on 1 November 1987, by [section 14][543] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
+    Section 106B: inserted, on 1 November 1987, by [section 14][545] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
     
-    Section 106B(1) **employing department** paragraph (b): replaced, on 1 October 1995, by [section 31][654] of the Government Superannuation Fund Amendment Act 1995 (1995 No 28).
+    Section 106B(1) **employing department** paragraph (b): replaced, on 1 October 1995, by [section 31][657] of the Government Superannuation Fund Amendment Act 1995 (1995 No 28).
     
-    Section 106B(1) **employing department** paragraph (b)(i): amended, on 2 October 2001, by [section 40][655] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
+    Section 106B(1) **employing department** paragraph (b)(i): amended, on 2 October 2001, by [section 40][658] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
     
-    Section 106B(3): replaced, on 13 February 2012, by [section 39][656] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 106B(3): replaced, on 13 February 2012, by [section 39][659] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 106C Statement of salary or wages paid
     
@@ -5118,13 +5124,13 @@ Enforcement of fines
     
     Compare: 1957 No 87 [s 90][169]
     
-    Section 106C: inserted, on 1 November 1987, by [section 14][543] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
+    Section 106C: inserted, on 1 November 1987, by [section 14][545] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
 
 ##### 106D Transfer of enforcement to another District Court
     
 *   If a fine has been ordered to be paid or an order has been made by a court or the Registrar of that court under this Part, that fine or order (as the case may be) is enforceable in another District Court.
     
-    Section 106D: replaced, on 1 November 1998, by [section 29][657] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
+    Section 106D: replaced, on 1 November 1998, by [section 29][660] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
 
 ##### 106E Restrictions on substituted sentences
     
@@ -5148,15 +5154,15 @@ Enforcement of fines
     
     (5) A District Court Judge or Community Magistrate must not sentence a defendant to a sentence of community detention in accordance with subsection (2) unless---
         
-    *   (a) a pre-sentence report has been provided in accordance with [section 26A][658] of the Sentencing Act 2002; and
+    *   (a) a pre-sentence report has been provided in accordance with [section 26A][661] of the Sentencing Act 2002; and
     
-    *   (b) the Judge or Community Magistrate is satisfied of the matters in [section 69C][659] of the Sentencing Act 2002\.
+    *   (b) the Judge or Community Magistrate is satisfied of the matters in [section 69C][662] of the Sentencing Act 2002\.
     
     (6) A District Court Judge must not sentence a defendant to a sentence of home detention in accordance with subsection (3)(a) unless---
         
-    *   (a) a pre-sentence report has been provided in accordance with [section 26A][658] of the Sentencing Act 2002; and
+    *   (a) a pre-sentence report has been provided in accordance with [section 26A][661] of the Sentencing Act 2002; and
     
-    *   (b) the Judge is satisfied of the matters in [section 80A(2)(a)][603] of the Sentencing Act 2002; and
+    *   (b) the Judge is satisfied of the matters in [section 80A(2)(a)][606] of the Sentencing Act 2002; and
     
     *   (c) either of the following applies:
             
@@ -5168,7 +5174,7 @@ Enforcement of fines
     
     (7) A District Court Judge must not issue, or direct the issue of, a warrant of commitment for the imprisonment of a defendant in accordance with subsection (3)(b) unless---
         
-    *   (a) the defendant has had the same opportunity for legal representation as is available to a defendant who is liable to a sentence of imprisonment under [section 30][567] of the Sentencing Act 2002; and
+    *   (a) the defendant has had the same opportunity for legal representation as is available to a defendant who is liable to a sentence of imprisonment under [section 30][569] of the Sentencing Act 2002; and
     
     *   (b) the warrant of commitment can be executed immediately; and
     
@@ -5182,9 +5188,11 @@ Enforcement of fines
     
     (8) Subsection (7) is subject to [section 83][134].
     
-    (9) [Section 19][660] of the Sentencing Act 2002 applies if a defendant is already undergoing a sentence or is about to be sentenced for another offence at the time that a District Court Judge is considering the sentence for the defendant for non-payment of 1 or more fines under this Part.
+    (9) [Sections 19][663] and [20A][664] of the Sentencing Act 2002 apply if a defendant is already undergoing a sentence or is about to be sentenced for another offence at the time that a District Court Judge is considering the sentence for the defendant for non-payment of 1 or more fines under this Part.
     
-    Section 106E: replaced, on 13 February 2012, by [section 40][661] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 106E: replaced, on 13 February 2012, by [section 40][665] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    
+    Section 106E(9): amended, on 22 January 2014, by [section 60][666] of the Administration of Community Sentences and Orders Act 2013 (2013 No 88).
 
 ##### 106EA Defendant may be arrested for assessment of financial capacity
     
@@ -5206,7 +5214,7 @@ Enforcement of fines
     
     *   (b) a constable or bailiff may execute the warrant.
     
-    Section 106EA: inserted, on 13 February 2012, by [section 40][661] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 106EA: inserted, on 13 February 2012, by [section 40][665] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 106F Review of Registrar's decision
     
@@ -5238,21 +5246,21 @@ Enforcement of fines
     
     Compare: 1957 No 87 [s 98][192]
     
-    Section 106F: inserted, on 1 November 1987, by [section 14][543] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
+    Section 106F: inserted, on 1 November 1987, by [section 14][545] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
     
-    Section 106F(1): amended, on 1 August 2012, by [section 41(1)][662] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 106F(1): amended, on 1 August 2012, by [section 41(1)][667] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 106F(3): inserted, on 13 February 2012, by [section 41(2)][662] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 106F(3): inserted, on 13 February 2012, by [section 41(2)][667] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 106F(4): inserted, on 13 February 2012, by [section 41(2)][662] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 106F(4): inserted, on 13 February 2012, by [section 41(2)][667] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 106F(5): inserted, on 13 February 2012, by [section 41(2)][662] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 106F(5): inserted, on 13 February 2012, by [section 41(2)][667] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 106F(6): inserted, on 13 February 2012, by [section 41(2)][662] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 106F(6): inserted, on 13 February 2012, by [section 41(2)][667] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 106G Actions under warrant to seize pending appeal
     
-*   (1) If a warrant to seize property is issued before a notice of appeal or an application for leave to appeal is filed under [Part 6][663] of the Criminal Procedure Act 2011, then---
+*   (1) If a warrant to seize property is issued before a notice of appeal or an application for leave to appeal is filed under [Part 6][668] of the Criminal Procedure Act 2011, then---
         
     *   (a) if the warrant has not been executed, it is suspended until the appeal has been determined or abandoned:
     
@@ -5282,7 +5290,7 @@ Enforcement of fines
 
 ##### 106H Application of Criminal Procedure Act 2011
     
-*   Unless otherwise stated in [section 78B][122] or [Part 3][124], the provisions of the [Criminal Procedure Act 2011][510] apply with any necessary modifications to the enforcement of a fine under this Part, or any application under [section 78B][122], if an oral hearing or attendance before a court or a Registrar is required, as if that matter were proceedings for a category 1 offence.
+*   Unless otherwise stated in [section 78B][122] or [Part 3][124], the provisions of the [Criminal Procedure Act 2011][512] apply with any necessary modifications to the enforcement of a fine under this Part, or any application under [section 78B][122], if an oral hearing or attendance before a court or a Registrar is required, as if that matter were proceedings for a category 1 offence.
     
     Section 106H: inserted, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
 
@@ -5393,7 +5401,7 @@ Appeals
     
 *   \[Repealed\]
     
-    Section 115D: repealed, on 1 January 2001, by [section 74(2)][534] of the Bail Act 2000 (2000 No 38).
+    Section 115D: repealed, on 1 January 2001, by [section 74(2)][536] of the Bail Act 2000 (2000 No 38).
 
 ##### 115DA Right of appeal against order for costs
     
@@ -5411,7 +5419,7 @@ Appeals
     
 *   \[Repealed\]
     
-    Section 115E: repealed, on 1 January 2001, by [section 74(2)][534] of the Bail Act 2000 (2000 No 38).
+    Section 115E: repealed, on 1 January 2001, by [section 74(2)][536] of the Bail Act 2000 (2000 No 38).
 
 ##### 116 Notice of appeal
     
@@ -5475,7 +5483,7 @@ Appeals
     
 *   \[Repealed\]
     
-    Section 125: repealed, on 1 January 2001, by[section 74(2)][534] of the Bail Act 2000 (2000 No 38).
+    Section 125: repealed, on 1 January 2001, by[section 74(2)][536] of the Bail Act 2000 (2000 No 38).
 
 ##### 126 Arrest of appellant who has absconded or is about to abscond while on bail
     
@@ -5487,13 +5495,13 @@ Appeals
     
 *   \[Repealed\]
     
-    Section 127: repealed, on 1 January 2001, by [section 74(2)][534] of the Bail Act 2000 (2000 No 38).
+    Section 127: repealed, on 1 January 2001, by [section 74(2)][536] of the Bail Act 2000 (2000 No 38).
 
 ##### 128 Surrender of appellant released on bail and discharge of surety
     
 *   \[Repealed\]
     
-    Section 128: repealed, on 1 January 2001, by [section 74(2)][534] of the Bail Act 2000 (2000 No 38).
+    Section 128: repealed, on 1 January 2001, by [section 74(2)][536] of the Bail Act 2000 (2000 No 38).
 
 ##### 129 Abandonment of appeal
     
@@ -5551,25 +5559,25 @@ Appeals
     
 *   \[Repealed\]
     
-    Section 137A: repealed, on 1 September 1993, by [section 23][664] of the Summary Proceedings Amendment Act 1993 (1993 No 47).
+    Section 137A: repealed, on 1 September 1993, by [section 23][669] of the Summary Proceedings Amendment Act 1993 (1993 No 47).
 
 ##### 137B Provisions on determination of appeal where defendant sentenced to community service
     
 *   \[Repealed\]
     
-    Section 137B: repealed, on 1 September 1993, by [section 23][664] of the Summary Proceedings Amendment Act 1993 (1993 No 47).
+    Section 137B: repealed, on 1 September 1993, by [section 23][669] of the Summary Proceedings Amendment Act 1993 (1993 No 47).
 
 ##### 137C Provisions on determination of appeal where defendant sentenced to community care
     
 *   \[Repealed\]
     
-    Section 137C: repealed, on 1 September 1993, by [section 23][664] of the Summary Proceedings Amendment Act 1993 (1993 No 47).
+    Section 137C: repealed, on 1 September 1993, by [section 23][669] of the Summary Proceedings Amendment Act 1993 (1993 No 47).
 
 ##### 137D Provisions on determination of appeal where non-association order made in respect of defendant
     
 *   \[Repealed\]
     
-    Section 137D: repealed, on 1 September 1993, by [section 23][664] of the Summary Proceedings Amendment Act 1993 (1993 No 47).
+    Section 137D: repealed, on 1 September 1993, by [section 23][669] of the Summary Proceedings Amendment Act 1993 (1993 No 47).
 
 ##### 138 Revesting and restitution of property on conviction
     
@@ -5587,19 +5595,19 @@ Appeals
     
 *   \[Repealed\]
     
-    Section 140: repealed, on 1 April 1968, by [section 14(2)][536] of the Costs in Criminal Cases Act 1967 (1967 No 129).
+    Section 140: repealed, on 1 April 1968, by [section 14(2)][538] of the Costs in Criminal Cases Act 1967 (1967 No 129).
 
 ##### 141 Party giving notice of appeal and not prosecuting same may be ordered to pay costs
     
 *   \[Repealed\]
     
-    Section 141: repealed, on 1 April 1968, by [section 14(2)][536] of the Costs in Criminal Cases Act 1967 (1967 No 129).
+    Section 141: repealed, on 1 April 1968, by [section 14(2)][538] of the Costs in Criminal Cases Act 1967 (1967 No 129).
 
 ##### 142 Enforcement of order as to costs
     
 *   \[Repealed\]
     
-    Section 142: repealed, on 1 April 1968, by [section 14(2)][536] of the Costs in Criminal Cases Act 1967 (1967 No 129).
+    Section 142: repealed, on 1 April 1968, by [section 14(2)][538] of the Costs in Criminal Cases Act 1967 (1967 No 129).
 
 ##### 143 No court fees payable on appeal by person sentenced to detention
     
@@ -5635,16 +5643,14 @@ Appeals
 Committal proceedings for indictable offences
 
 \[Repealed\]
-
-\[Repealed\]
     
 *   Part 5: repealed, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
 
 ##### 145 Purpose and overview
-
-\[Repealed\]
     
-*   Section 145: repealed, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
+*   \[Repealed\]
+    
+    Section 145: repealed, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
 
 ##### 146 Interpretation
     
@@ -5704,7 +5710,7 @@ Committal proceedings for indictable offences
     
 *   \[Repealed\]
     
-    Section 152A: repealed, on 29 June 2009, by [section 12][665] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 152A: repealed, on 29 June 2009, by [section 12][670] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
 
 #### Service of documents
 
@@ -5722,7 +5728,7 @@ Committal proceedings for indictable offences
     
 *   \[Repealed\]
     
-    Section 153A: repealed, on 29 June 2009, by [section 12][665] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 153A: repealed, on 29 June 2009, by [section 12][670] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
 
 ##### 154 Application of provisions of Part 2
     
@@ -5788,7 +5794,7 @@ Committal proceedings for indictable offences
     
 *   \[Repealed\]
     
-    Section 160A: repealed, on 29 June 2009, by [section 12][665] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 160A: repealed, on 29 June 2009, by [section 12][670] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
 
 ##### 161 Procedure if defendant makes request under section 160
     
@@ -5800,7 +5806,7 @@ Committal proceedings for indictable offences
     
 *   \[Repealed\]
     
-    Section 161A: repealed, on 29 June 2009, by [section 12][665] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 161A: repealed, on 29 June 2009, by [section 12][670] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
 
 #### Formal written statements for purposes of committal
 
@@ -5866,31 +5872,31 @@ Committal proceedings for indictable offences
     
 *   \[Repealed\]
     
-    Section 168A: repealed, on 29 June 2009, by [section 12][665] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 168A: repealed, on 29 June 2009, by [section 12][670] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
 
 ##### 168AA High Court Judge to determine court of trial in certain cases
     
 *   \[Repealed\]
     
-    Section 168AA: repealed, on 29 June 2009, by [section 12][665] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 168AA: repealed, on 29 June 2009, by [section 12][670] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
 
 ##### 168AB Notice of transfer of case to District Court
     
 *   \[Repealed\]
     
-    Section 168AB: repealed, on 29 June 2009, by [section 12][665] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 168AB: repealed, on 29 June 2009, by [section 12][670] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
 
 ##### 168B Defendant to be warned as to law relating to notice of alibi
     
 *   \[Repealed\]
     
-    Section 168B: repealed, on 29 June 2009, by [section 12][665] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 168B: repealed, on 29 June 2009, by [section 12][670] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
 
 ##### 168C Defendant to be advised of his right to apply for trial before a Judge without a jury
     
 *   \[Repealed\]
     
-    Section 168C: repealed, on 29 June 2009, by [section 12][665] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 168C: repealed, on 29 June 2009, by [section 12][670] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
 
 ##### 169 Standard committal is not hearing and does not involve prosecutor's or defendant's presence
     
@@ -5926,7 +5932,7 @@ Committal proceedings for indictable offences
     
 *   \[Repealed\]
     
-    Section 173A: repealed, on 29 June 2009, by [section 12][665] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 173A: repealed, on 29 June 2009, by [section 12][670] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
 
 ##### 174 No comment may be made on defendant refraining from answering charge
     
@@ -5965,10 +5971,10 @@ Committal proceedings for indictable offences
 *   Heading: repealed, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
 
 ##### 178 Application for oral evidence order
-
-\[Repealed\]
     
-*   Section 178: repealed, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
+*   \[Repealed\]
+    
+    Section 178: repealed, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
 
 ##### 179 Application for leave to question undercover Police officer's identity must be removed into High Court
     
@@ -6237,7 +6243,7 @@ Special provisions relating to standard committal process and committal hearings
     
 *   \[Repealed\]
     
-    Section 185CA: repealed, on 29 June 2009, by [section 12][665] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 185CA: repealed, on 29 June 2009, by [section 12][670] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
 
 ##### 185D Child complainant's evidence may be given by video record
     
@@ -6249,7 +6255,7 @@ Special provisions relating to standard committal process and committal hearings
     
 *   \[Repealed\]
     
-    Section 185E: repealed, on 5 March 2012 (applying in relation to a proceeding for an offence that was commenced before that date), by [section 393][532] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 185E: repealed, on 5 March 2012 (applying in relation to a proceeding for an offence that was commenced before that date), by [section 393][534] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 185F Other powers of court preserved
     
@@ -6310,13 +6316,13 @@ Conservation of the peace
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 October 2008, pursuant to [section 130(1)][495] of the Policing Act 2008 (2008 No 72).
+*   Heading: repealed, on 1 October 2008, pursuant to [section 130(1)][496] of the Policing Act 2008 (2008 No 72).
 
 ##### 192 Appointment and powers of special constables
     
 *   \[Repealed\]
     
-    Section 192: repealed, on 1 October 2008, by [section 130(1)][495] of the Policing Act 2008 (2008 No 72).
+    Section 192: repealed, on 1 October 2008, by [section 130(1)][496] of the Policing Act 2008 (2008 No 72).
 
 ## Part 7  
 Protection of Justices and Community Magistrates
@@ -6353,7 +6359,7 @@ Protection of Justices and Community Magistrates
     
 *   \[Repealed\]
     
-    Section 196A: repealed, on 20 May 2004, by [section 8][666] of the Summary Proceedings Amendment Act 2004 (2004 No 47).
+    Section 196A: repealed, on 20 May 2004, by [section 8][671] of the Summary Proceedings Amendment Act 2004 (2004 No 47).
 
 ##### 197 Indemnity to Justice or Community Magistrate
     
@@ -6368,139 +6374,139 @@ General provisions
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 October 2012, by [section 337(3)][667] of the Search and Surveillance Act 2012 (2012 No 24).
+*   Heading: repealed, on 1 October 2012, by [section 337(3)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 198 Search warrants
     
 *   \[Repealed\]
     
-    Section 198: repealed, on 1 October 2012, by [section 337(3)][667] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 198: repealed, on 1 October 2012, by [section 337(3)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 198A Procedure where certain documents seized from solicitors' offices
     
 *   \[Repealed\]
     
-    Section 198A: repealed, on 1 October 2012, by [section 337(3)][667] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 198A: repealed, on 1 October 2012, by [section 337(3)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 198B Person with knowledge of computer or computer network to assist access
     
 *   \[Repealed\]
     
-    Section 198B: repealed, on 1 October 2012, by [section 337(3)][667] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 198B: repealed, on 1 October 2012, by [section 337(3)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 199 Disposal of things seized
     
 *   \[Repealed\]
     
-    Section 199: repealed, on 1 October 2012, by [section 337(3)][667] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 199: repealed, on 1 October 2012, by [section 337(3)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 200 Other enactments as to search warrants not affected
     
 *   \[Repealed\]
     
-    Section 200: repealed, on 1 October 2012, by [section 337(3)][667] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200: repealed, on 1 October 2012, by [section 337(3)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### Tracking devices
 
 \[Repealed\]
     
-*   Heading: repealed, on 18 April 2012, by [section 337(4)][667] of the Search and Surveillance Act 2012 (2012 No 24).
+*   Heading: repealed, on 18 April 2012, by [section 337(4)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 200A Interpretation
     
 *   \[Repealed\]
     
-    Section 200A: repealed, on 18 April 2012, by [section 337(4)][667] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200A: repealed, on 18 April 2012, by [section 337(4)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 200B Application for tracking device warrant
     
 *   \[Repealed\]
     
-    Section 200B: repealed, on 18 April 2012, by [section 337(4)][667] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200B: repealed, on 18 April 2012, by [section 337(4)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 200C Issue of tracking device warrant
     
 *   \[Repealed\]
     
-    Section 200C: repealed, on 18 April 2012, by [section 337(4)][667] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200C: repealed, on 18 April 2012, by [section 337(4)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 200D Effect of tracking device warrant
     
 *   \[Repealed\]
     
-    Section 200D: repealed, on 18 April 2012, by [section 337(4)][667] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200D: repealed, on 18 April 2012, by [section 337(4)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 200E Expiry of warrant
     
 *   \[Repealed\]
     
-    Section 200E: repealed, on 18 April 2012, by [section 337(4)][667] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200E: repealed, on 18 April 2012, by [section 337(4)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 200F Renewal of warrant
     
 *   \[Repealed\]
     
-    Section 200F: repealed, on 18 April 2012, by [section 337(4)][667] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200F: repealed, on 18 April 2012, by [section 337(4)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 200G Use of tracking device without warrant
     
 *   \[Repealed\]
     
-    Section 200G: repealed, on 18 April 2012, by [section 337(4)][667] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200G: repealed, on 18 April 2012, by [section 337(4)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 200H Reports
     
 *   \[Repealed\]
     
-    Section 200H: repealed, on 18 April 2012, by [section 337(4)][667] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200H: repealed, on 18 April 2012, by [section 337(4)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 200I Warrant for removal of tracking device
     
 *   \[Repealed\]
     
-    Section 200I: repealed, on 18 April 2012, by [section 337(4)][667] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200I: repealed, on 18 April 2012, by [section 337(4)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 200J Agencies to give information to Parliament
     
 *   \[Repealed\]
     
-    Section 200J: repealed, on 18 April 2012, by [section 337(4)][667] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200J: repealed, on 18 April 2012, by [section 337(4)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 200K Security of applications for tracking device warrants
     
 *   \[Repealed\]
     
-    Section 200K: repealed, on 18 April 2012, by [section 337(4)][667] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200K: repealed, on 18 April 2012, by [section 337(4)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 200L Restriction on production of documents relating to application
     
 *   \[Repealed\]
     
-    Section 200L: repealed, on 18 April 2012, by [section 337(4)][667] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200L: repealed, on 18 April 2012, by [section 337(4)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 200M Application for production of documents
     
 *   \[Repealed\]
     
-    Section 200M: repealed, on 18 April 2012, by [section 337(4)][667] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200M: repealed, on 18 April 2012, by [section 337(4)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 200N Request for production made in course of proceedings
     
 *   \[Repealed\]
     
-    Section 200N: repealed, on 18 April 2012, by [section 337(4)][667] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200N: repealed, on 18 April 2012, by [section 337(4)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 200O Application referred to Judge
     
 *   \[Repealed\]
     
-    Section 200O: repealed, on 18 April 2012, by [section 337(4)][667] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200O: repealed, on 18 April 2012, by [section 337(4)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 200P Judges entitled to inspect relevant documents
     
 *   \[Repealed\]
     
-    Section 200P: repealed, on 18 April 2012, by [section 337(4)][667] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 200P: repealed, on 18 April 2012, by [section 337(4)][672] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### Miscellaneous
 
@@ -6518,7 +6524,7 @@ General provisions
 
 ##### 203AA Criminal records
     
-*   [Section 184][568] of the Criminal Procedure Act 2011 applies in respect of any matter to which [section 21(8)][37] or [106H][238] applies.
+*   [Section 184][570] of the Criminal Procedure Act 2011 applies in respect of any matter to which [section 21(8)][37] or [106H][238] applies.
     
     Section 203AA: inserted, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
 
@@ -6532,11 +6538,11 @@ General provisions
     
 *   No summons, sentence, order, bond, warrant, or other document under this Act, and no process or proceeding under this Act shall be quashed, set aside, or held invalid by any District Court or by any other court by reason only of any defect, irregularity, omission, or want of form unless the court is satisfied that there has been a miscarriage of justice.
     
-    Compare: 1909 No 13 [ss 4--6][668]; 1927 No 37 ss 79, 373; 1952 No 41 s 11
+    Compare: 1909 No 13 [ss 4--6][673]; 1927 No 37 ss 79, 373; 1952 No 41 s 11
     
     Section 204: amended, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
     
-    Section 204: amended, on 1 April 1980, pursuant to [section 18(2)][497] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 204: amended, on 1 April 1980, pursuant to [section 18(2)][498] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 205 Proceedings not invalid because defendant should have been dealt with in Youth Court
     
@@ -6564,13 +6570,13 @@ General provisions
     
     Compare: 1927 No 37 ss 378(2), 379, 380, 383(2)
     
-    Section 207(2): amended, on 30 June 1998, by [section 53][669] of the Summary Proceedings Amendment Act (No 2) 1998 (1998 No 77).
+    Section 207(2): amended, on 30 June 1998, by [section 53][674] of the Summary Proceedings Amendment Act (No 2) 1998 (1998 No 77).
     
-    Section 207(2): amended, on 1 April 1980, pursuant to [section 18(2)][497] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 207(2): amended, on 1 April 1980, pursuant to [section 18(2)][498] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 207(3): amended, on 1 July 1991, by section 21 of the Weights and Measures Amendment Act 1991 (1991 No 9).
     
-    Section 207(3): amended, on 1 November 1987, by [section 13][670] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
+    Section 207(3): amended, on 1 November 1987, by [section 13][675] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
 
 ##### 208 Payment of money to department
     
@@ -6592,13 +6598,13 @@ General provisions
         
     *   (a) to any person who is entitled to it under any enactment or by any order of the court made under an enactment; or
     
-    *   (b) into another Departmental Bank Account or a Crown Bank Account, in accordance with the [Public Finance Act 1989][671].
+    *   (b) into another Departmental Bank Account or a Crown Bank Account, in accordance with the [Public Finance Act 1989][676].
     
-    Section 208: replaced, on 9 October 2006, by [section 29][672] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 208: replaced, on 9 October 2006, by [section 29][677] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
     Section 208(1)(a): amended, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
     
-    Section 208(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][673] of the Policing Act 2008 (2008 No 72).
+    Section 208(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][678] of the Policing Act 2008 (2008 No 72).
 
 ##### 209 Act not to apply to Youth Court unless provided
     
@@ -6618,7 +6624,7 @@ General provisions
     
     (3) Every document purporting to be a form approved and issued by the chief executive under and for the purposes of this Act is deemed to have been so approved and issued unless the chief executive otherwise certifies.
     
-    Section 209A: inserted, on 13 February 2012, by [section 44][674] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 209A: inserted, on 13 February 2012, by [section 44][679] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
 
 ##### 210 Saving of provisions of Customs Act 1913
     
@@ -6686,23 +6692,23 @@ General provisions
     
     Compare: 1927 No 37 s 378(1); 1948 No 20 ss 2(5), 11
     
-    Section 212(1): amended, on 1 April 1980, pursuant to [section 12][675] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 212(1): amended, on 1 April 1980, pursuant to [section 12][680] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 212(2)(b): amended, on 9 October 2006, by [section 30(1)][676] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 212(2)(b): amended, on 9 October 2006, by [section 30(1)][681] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
     Section 212(2)(c): repealed, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
     
-    Section 212(2)(ca): inserted, on 23 July 2011, by [section 45(1)][677] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 212(2)(ca): inserted, on 23 July 2011, by [section 45(1)][682] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
     Section 212(2)(d): repealed, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
     
-    Section 212(2)(daa): inserted, on 23 July 2011, by [section 45(2)][677] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 212(2)(daa): inserted, on 23 July 2011, by [section 45(2)][682] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 212(2)(dab): inserted, on 23 July 2011, by [section 45(2)][677] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
+    Section 212(2)(dab): inserted, on 23 July 2011, by [section 45(2)][682] of the Summary Proceedings Amendment Act 2011 (2011 No 32).
     
-    Section 212(2)(da): inserted, on 9 October 2006, by [section 30(2)][676] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 212(2)(da): inserted, on 9 October 2006, by [section 30(2)][681] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 212(2)(db): inserted, on 9 October 2006, by [section 30(2)][676] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 212(2)(db): inserted, on 9 October 2006, by [section 30(2)][681] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
     Section 212(2)(e): repealed, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
     
@@ -6714,7 +6720,7 @@ General provisions
     
     Section 212(2)(ed): repealed, on 1 July 2013, by [section 7(2)][464] of the Summary Proceedings Amendment Act (No 2) 2011 (2011 No 94).
     
-    Section 212(3): repealed, on 19 December 1989, by [section 11][678] of the Regulations (Disallowance) Act 1989 (1989 No 143).
+    Section 212(3): repealed, on 19 December 1989, by [section 11][683] of the Regulations (Disallowance) Act 1989 (1989 No 143).
 
 ##### 213 Consequential amendments
     
@@ -6791,7 +6797,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Summary Proceedings Amendment Act (No 2) 2010][679].
+*   This Act is the [Summary Proceedings Amendment Act (No 2) 2010][684].
 
 ##### 2 Commencement
     
@@ -6827,7 +6833,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Summary Proceedings Amendment Act 2011][680].
+*   This Act is the [Summary Proceedings Amendment Act 2011][685].
 
 ##### 2 Commencement
     
@@ -6847,7 +6853,7 @@ Commencementsee section 2
     
     (3) Any provisions of this Act that are not in force on the expiry of the period of 15 months that starts on the date on which this Act receives the Royal assent come into force (despite subsection (2)) on that expiry.
     
-    Section 2(2): sections 4, 6, 10--16, 18--26, 27 (but only to the extent that it relates to section 88A of the Summary Proceedings Act 1957), 28--30, 31 (except as it relates to section 92I of the Summary Proceedings Act 1957), 32--40, 41(2), 42--44, 46, 47, and Schedules 1, 2, and 3 brought into force, on 13 February 2012, by the [Summary Proceedings Amendment Act 2011 Commencement Order 2011][681] (SR 2011/394).
+    Section 2(2): sections 4, 6, 10--16, 18--26, 27 (but only to the extent that it relates to section 88A of the Summary Proceedings Act 1957), 28--30, 31 (except as it relates to section 92I of the Summary Proceedings Act 1957), 32--40, 41(2), 42--44, 46, 47, and Schedules 1, 2, and 3 brought into force, on 13 February 2012, by the [Summary Proceedings Amendment Act 2011 Commencement Order 2011][686] (SR 2011/394).
 
 ##### 47 Transitional provisions relating to pre-commencement fines and warrants
     
@@ -6865,7 +6871,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Crimes Amendment Act (No 3) 2011][682].
+*   This Act is the [Crimes Amendment Act (No 3) 2011][687].
 
 ##### 2 Commencement
     
@@ -6894,7 +6900,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Search and Surveillance Act 2012][683].
+*   This Act is the [Search and Surveillance Act 2012][688].
 
 ##### 2 Commencement
     
@@ -6906,7 +6912,7 @@ Commencementsee section 2
     
     (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
     
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][684] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
+    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][689] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
 
 ## Part 1  
 General provisions
@@ -6956,314 +6962,277 @@ Amendments, repeals, and miscellaneous provisions
     
     
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Summary Proceedings Act 1957\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][685] ![](/images/external_link.gif).
+*   This is a reprint of the Summary Proceedings Act 1957 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][686] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][690] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][691] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][687] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][692] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][693] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][688] and [17E][689] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Administration of Community Sentences and Orders Act 2013 (2013 No 88): [section 60][666]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Bail Amendment Act 2013 (2013 No 66): [section 45][605]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Psychoactive Substances Act 2013 (2013 No 53): [section 110(1)][509]
     
+    Electronic Identity Verification Act 2012 (2012 No 123): [section 76][694]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    Search and Surveillance Act 2012 (2012 No 24): [section 337][672]
     
-*   Electronic Identity Verification Act 2012 (2012 No 123): [section 76][690]
+    [Summary Proceedings Amendment Act (No 2) 2011][695] (2011 No 94)
     
-    Search and Surveillance Act 2012 (2012 No 24): [section 337][667]
+    Criminal Procedure Act 2011 (2011 No 81): [section 393][534]
     
-    [Summary Proceedings Amendment Act (No 2) 2011][691] (2011 No 94)
+    Crimes Amendment Act (No 3) 2011 (2011 No 79): [section 11][696]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 393][532]
+    Adoption Amendment Act 2011 (2011 No 60): [section 7][697]
     
-    Crimes Amendment Act (No 3) 2011 (2011 No 79): [section 11][692]
+    [Summary Proceedings Amendment Act 2011][685] (2011 No 32)
     
-    Adoption Amendment Act 2011 (2011 No 60): [section 7][693]
+    Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13): [section 100(2), (3)][502]
     
-    [Summary Proceedings Amendment Act 2011][680] (2011 No 32)
+    Financial Markets Authority Act 2011 (2011 No 5): [section 82][698]
     
-    Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13): [section 100(2), (3)][501]
+    Electoral Referendum Act 2010 (2010 No 139): [section 82][699]
     
-    Financial Markets Authority Act 2011 (2011 No 5): [section 82][694]
+    Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137): [section 41][700]
     
-    Electoral Referendum Act 2010 (2010 No 139): [section 82][695]
+    [Summary Proceedings Amendment Act (No 2) 2010][684] (2010 No 121)
     
-    Electoral (Finance Reform and Advance Voting) Amendment Act 2010 (2010 No 137): [section 41][696]
+    Insurance (Prudential Supervision) Act 2010 (2010 No 111): [section 241(2)][701]
     
-    [Summary Proceedings Amendment Act (No 2) 2010][679] (2010 No 121)
+    Limitation Act 2010 (2010 No 110): [section 58][702]
     
-    Insurance (Prudential Supervision) Act 2010 (2010 No 111): [section 241(2)][697]
+    Animal Welfare Amendment Act 2010 (2010 No 93): [section 10(1)][703]
     
-    Limitation Act 2010 (2010 No 110): [section 58][698]
+    [Summary Proceedings Amendment Act 2010][704] (2010 No 87)
     
-    Animal Welfare Amendment Act 2010 (2010 No 93): [section 10(1)][699]
+    Financial Advisers Amendment Act 2010 (2010 No 40): [section 50][705]
     
-    [Summary Proceedings Amendment Act 2010][700] (2010 No 87)
+    Sentencing and Parole Reform Act 2010 (2010 No 33): [section 13][706]
     
-    Financial Advisers Amendment Act 2010 (2010 No 40): [section 50][701]
+    Immigration Act 2009 (2009 No 51): [section 406(1)][707]
     
-    Sentencing and Parole Reform Act 2010 (2010 No 33): [section 13][702]
+    Domestic Violence Amendment Act 2009 (2009 No 43): [section 7(2)][708]
     
-    Immigration Act 2009 (2009 No 51): [section 406(1)][703]
+    [Summary Proceedings (Vehicle Seizure) Amendment Act 2009][709] (2009 No 38)
     
-    Domestic Violence Amendment Act 2009 (2009 No 43): [section 7(2)][704]
+    Climate Change Response (Emissions Trading Forestry Sector) Amendment Act 2009 (2009 No 19): [section 11][710]
     
-    [Summary Proceedings (Vehicle Seizure) Amendment Act 2009][705] (2009 No 38)
+    Land Transport Amendment Act 2009 (2009 No 17): [section 35(4)][711]
     
-    Climate Change Response (Emissions Trading Forestry Sector) Amendment Act 2009 (2009 No 19): [section 11][706]
+    Criminal Proceeds (Recovery) Act 2009 (2009 No 8): [section 214][712]
     
-    Land Transport Amendment Act 2009 (2009 No 17): [section 35(4)][707]
+    Electoral Amendment Act 2009 (2009 No 1): [section 16][713]
     
-    Criminal Proceeds (Recovery) Act 2009 (2009 No 8): [section 214][708]
+    Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85): [section 56][714]
     
-    Electoral Amendment Act 2009 (2009 No 1): [section 16][709]
+    Policing Act 2008 (2008 No 72): [sections 116(a)(ii), (vii), (d)][678], [130(1)][496]
     
-    Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85): [section 56][710]
+    Real Estate Agents Act 2008 (2008 No 66): [section 173][715]
     
-    Policing Act 2008 (2008 No 72): [sections 116(a)(ii), (vii), (d)][673], [130(1)][495]
+    Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][716]
     
-    Real Estate Agents Act 2008 (2008 No 66): [section 173][711]
+    [Summary Proceedings Amendment Act (No 2) 2008][717] (2008 No 41)
     
-    Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][712]
+    Criminal Disclosure Act 2008 (2008 No 38): [section 40(1)][718]
     
-    [Summary Proceedings Amendment Act (No 2) 2008][713] (2008 No 41)
+    [Summary Proceedings Amendment Act 2008][719] (2008 No 18)
     
-    Criminal Disclosure Act 2008 (2008 No 38): [section 40(1)][714]
+    Health (Drinking Water) Amendment Act 2007 (2007 No 92): [section 19][720]
     
-    [Summary Proceedings Amendment Act 2008][715] (2008 No 18)
+    Sentencing Amendment Act 2007 (2007 No 27): [section 58][721]
     
-    Health (Drinking Water) Amendment Act 2007 (2007 No 92): [section 19][716]
+    Immigration Advisers Licensing Act 2007 (2007 No 15): [section 97][722]
     
-    Sentencing Amendment Act 2007 (2007 No 27): [section 58][717]
+    [Summary Proceedings Amendment Act (No 2) 2006][723] (2006 No 91)
     
-    Immigration Advisers Licensing Act 2007 (2007 No 15): [section 97][718]
+    Crimes (Intimate Covert Filming) Amendment Act 2006 (2006 No 75): [section 5][724]
     
-    [Summary Proceedings Amendment Act (No 2) 2006][719] (2006 No 91)
+    Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74): [section 185][505]
     
-    Crimes (Intimate Covert Filming) Amendment Act 2006 (2006 No 75): [section 5][720]
+    Gas Amendment Act 2006 (2006 No 71): [section 18][504]
     
-    Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74): [section 185][504]
+    Electricity Amendment Act 2006 (2006 No 70): [section 43][508]
     
-    Gas Amendment Act 2006 (2006 No 71): [section 18][503]
+    Evidence Act 2006 (2006 No 69): [section 215][537]
     
-    Electricity Amendment Act 2006 (2006 No 70): [section 43][507]
+    Financial Reporting Amendment Act 2006 (2006 No 64): [section 22][503]
     
-    Evidence Act 2006 (2006 No 69): [section 215][535]
+    Insolvency Act 2006 (2006 No 55): [section 445][725]
     
-    Financial Reporting Amendment Act 2006 (2006 No 64): [section 22][502]
+    Securities Markets Amendment Act 2006 (2006 No 47): [section 14][726]
     
-    Insolvency Act 2006 (2006 No 55): [section 445][721]
+    Securities Amendment Act 2006 (2006 No 46): [section 25][727]
     
-    Securities Markets Amendment Act 2006 (2006 No 47): [section 14][722]
+    [Summary Proceedings Amendment Act 2006][728] (2006 No 13)
     
-    Securities Amendment Act 2006 (2006 No 46): [section 25][723]
+    Overseas Investment Act 2005 (2005 No 82): [section 75][729]
     
-    [Summary Proceedings Amendment Act 2006][724] (2006 No 13)
+    Misuse of Drugs Amendment Act 2005 (2005 No 81): [section 23][730]
     
-    Overseas Investment Act 2005 (2005 No 82): [section 75][725]
+    Citizenship Amendment Act 2005 (2005 No 43): [section 16][731]
     
-    Misuse of Drugs Amendment Act 2005 (2005 No 81): [section 23][726]
+    Crimes Amendment Act 2005 (2005 No 41): [section 10][732]
     
-    Citizenship Amendment Act 2005 (2005 No 43): [section 16][727]
+    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][526]
     
-    Crimes Amendment Act 2005 (2005 No 41): [section 10][728]
+    Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2): [section 46][733]
     
-    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][524]
+    Civil Union Act 2004 (2004 No 102): [section 46][734]
     
-    Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2): [section 46][729]
+    Human Assisted Reproductive Technology Act 2004 (2004 No 92): [section 87][735]
     
-    Civil Union Act 2004 (2004 No 102): [section 46][730]
+    Local Government Act 2002 Amendment Act 2004 (2004 No 63): [section 30][736]
     
-    Human Assisted Reproductive Technology Act 2004 (2004 No 92): [section 87][731]
+    Social Security (Working for Families) Amendment Act 2004 (2004 No 51): [section 21][495]
     
-    Local Government Act 2002 Amendment Act 2004 (2004 No 63): [section 30][732]
+    Corrections Act 2004 (2004 No 50): [section 206][530]
     
-    Social Security (Working for Families) Amendment Act 2004 (2004 No 51): [section 21][494]
+    [Summary Proceedings Amendment Act 2004][737] (2004 No 47)
     
-    Corrections Act 2004 (2004 No 50): [section 206][528]
+    Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115): [section 51][738]
     
-    [Summary Proceedings Amendment Act 2004][733] (2004 No 47)
+    Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113): [section 53][739]
     
-    Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115): [section 51][734]
+    Supreme Court Act 2003 (2003 No 53): [section 47][740]
     
-    Criminal Investigations (Bodily Samples) Amendment Act 2003 (2003 No 113): [section 53][735]
+    Credit Contracts and Consumer Finance Act 2003 (2003 No 52): [section 103(4)][741]
     
-    Supreme Court Act 2003 (2003 No 53): [section 47][736]
+    Gambling Act 2003 (2003 No 51): [section 374][742]
     
-    Credit Contracts and Consumer Finance Act 2003 (2003 No 52): [section 103(4)][737]
+    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][743]
     
-    Gambling Act 2003 (2003 No 51): [section 374][738]
+    Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46): [section 48(1)][744]
     
-    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][739]
+    Crimes Amendment Act 2003 (2003 No 39): [section 34][745]
     
-    Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46): [section 48(1)][740]
+    Prostitution Reform Act 2003 (2003 No 28): [section 50(1)][746]
     
-    Crimes Amendment Act 2003 (2003 No 39): [section 34][741]
+    Land Transport (Unauthorised Street and Drag Racing) Amendment Act 2003 (2003 No 11): [section 11(1)][747]
     
-    Prostitution Reform Act 2003 (2003 No 28): [section 50(1)][742]
+    Trade Marks Act 2002 (2002 No 49): [section 201][748]
     
-    Land Transport (Unauthorised Street and Drag Racing) Amendment Act 2003 (2003 No 11): [section 11(1)][743]
+    Crown Organisations (Criminal Liability) Act 2002 (2002 No 37): [sections 29--32][499]
     
-    Trade Marks Act 2002 (2002 No 49): [section 201][744]
+    Passports Amendment Act 2002 (2002 No 24): [section 12(1)][749]
     
-    Crown Organisations (Criminal Liability) Act 2002 (2002 No 37): [sections 29--32][498]
+    Sentencing Act 2002 (2002 No 9): [section 186][574]
     
-    Passports Amendment Act 2002 (2002 No 24): [section 12(1)][745]
+    Land Transport (Road Safety Enforcement) Amendment Act 2001 (2001 No 104): [section 14(1)][750]
     
-    Sentencing Act 2002 (2002 No 9): [section 186][572]
+    Government Superannuation Fund Amendment Act 2001 (2001 No 47): [section 40][658]
     
-    Land Transport (Road Safety Enforcement) Amendment Act 2001 (2001 No 104): [section 14(1)][746]
+    Local Electoral Act 2001 (2001 No 35): [section 151][751]
     
-    Government Superannuation Fund Amendment Act 2001 (2001 No 47): [section 40][655]
+    [Summary Proceedings Amendment Act 2000][752] (2000 No 82)
     
-    Local Electoral Act 2001 (2001 No 35): [section 151][747]
+    Referenda (Postal Voting) Act 2000 (2000 No 48): [section 81][753]
     
-    [Summary Proceedings Amendment Act 2000][748] (2000 No 82)
+    Legal Services Act 2000 (2000 No 42): [section 128][754]
     
-    Referenda (Postal Voting) Act 2000 (2000 No 48): [section 81][749]
+    Bail Act 2000 (2000 No 38): [section 74(2)][536]
     
-    Legal Services Act 2000 (2000 No 42): [section 128][750]
+    Animal Welfare Act 1999 (1999 No 142): [section 194][755]
     
-    Bail Act 2000 (2000 No 38): [section 74(2)][534]
+    Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140): [section 77][756]
     
-    Animal Welfare Act 1999 (1999 No 142): [section 194][751]
+    Personal Property Securities Act 1999 (1999 No 126): [section 191(1)][757]
     
-    Mental Health (Compulsory Assessment and Treatment) Amendment Act 1999 (1999 No 140): [section 77][752]
+    Fisheries Act 1996 Amendment Act 1999 (1999 No 101): [section 87(2)][758]
     
-    Personal Property Securities Act 1999 (1999 No 126): [section 191(1)][753]
+    Interpretation Act 1999 (1999 No 85): [section 38(1)][759]
     
-    Fisheries Act 1996 Amendment Act 1999 (1999 No 101): [section 87(2)][754]
+    Extradition Act 1999 (1999 No 55): [section 111][511]
     
-    Interpretation Act 1999 (1999 No 85): [section 38(1)][755]
+    Biosecurity Amendment Act 1999 (1999 No 29): [section 6][506]
     
-    Extradition Act 1999 (1999 No 55): [section 111][509]
-    
-    Biosecurity Amendment Act 1999 (1999 No 29): [section 6][505]
-    
-    [Summary Proceedings Amendment Act 1999][756] (1999 No 7)
+    [Summary Proceedings Amendment Act 1999][760] (1999 No 7)
     
     Accident Insurance Act 1998 (1998 No 114): section 415(1)
     
-    Land Transport Act 1998 (1998 No 110): [section 215(1)][516]
+    Land Transport Act 1998 (1998 No 110): [section 215(1)][518]
     
-    Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96): [section 11][584]
+    Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96): [section 11][586]
     
-    [Summary Proceedings Amendment Act (No 3) 1998][757] (1998 No 91)
+    [Summary Proceedings Amendment Act (No 3) 1998][761] (1998 No 91)
     
-    [Summary Proceedings Amendment Act (No 2) 1998][758] (1998 No 77)
+    [Summary Proceedings Amendment Act (No 2) 1998][762] (1998 No 77)
     
-    [Summary Proceedings Amendment Act 1998][759] (1998 No 61)
+    [Summary Proceedings Amendment Act 1998][763] (1998 No 61)
     
-    Misuse of Drugs Amendment Act 1998 (1998 No 14): [section 13][760]
+    Misuse of Drugs Amendment Act 1998 (1998 No 14): [section 13][764]
     
-    Postal Services Act 1998 (1998 No 2): [section 62(1)][761]
+    Postal Services Act 1998 (1998 No 2): [section 62(1)][765]
     
-    Harassment Act 1997 (1997 No 92): [section 44][762]
+    Harassment Act 1997 (1997 No 92): [section 44][766]
     
-    Biosecurity Amendment Act 1997 (1997 No 89): [section 127(2)][763]
+    Biosecurity Amendment Act 1997 (1997 No 89): [section 127(2)][767]
     
-    Compulsory Retirement Savings Scheme Referendum Act 1997 (1997 No 13): [section 64][764]
+    Compulsory Retirement Savings Scheme Referendum Act 1997 (1997 No 13): [section 64][768]
     
-    [Summary Proceedings Amendment Act (No 2) 1996][765] (1996 No 146)
+    [Summary Proceedings Amendment Act (No 2) 1996][769] (1996 No 146)
     
-    Fisheries Act 1996 (1996 No 88): [section 316(1)][766]
+    Fisheries Act 1996 (1996 No 88): [section 316(1)][770]
     
     Summary Proceedings Amendment Act 1996 (1996 No 66)
     
-    Inspector-General of Intelligence and Security Act 1996 (1996 No 47): [section 28(6)][767]
+    Inspector-General of Intelligence and Security Act 1996 (1996 No 47): [section 28(6)][771]
     
-    Intelligence and Security Committee Act 1996 (1996 No 46): [section 20(4)][768]
+    Intelligence and Security Committee Act 1996 (1996 No 46): [section 20(4)][772]
     
-    Food Amendment Act 1996 (1996 No 41): [section 28][769]
+    Food Amendment Act 1996 (1996 No 41): [section 28][773]
     
-    Customs and Excise Act 1996 (1996 No 27): [section 289(1)][770]
+    Customs and Excise Act 1996 (1996 No 27): [section 289(1)][774]
     
-    Dog Control Act 1996 (1996 No 13): [section 79][500]
+    Dog Control Act 1996 (1996 No 13): [section 79][501]
     
     Medical Practitioners Act 1995 (1995 No 95): section 143(1)
     
     Summary Proceedings Amendment Act (No 2) 1995 (1995 No 87)
     
-    [Summary Proceedings Amendment Act 1995][771] (1995 No 64)
+    [Summary Proceedings Amendment Act 1995][775] (1995 No 64)
     
-    Criminal Investigations (Bodily Samples) Act 1995 (1995 No 55): [section 82][772]
+    Criminal Investigations (Bodily Samples) Act 1995 (1995 No 55): [section 82][776]
     
     Crimes Amendment Act 1995 (1995 No 49): section 10(3)
     
-    Government Superannuation Fund Amendment Act 1995 (1995 No 28): [section 31][654]
+    Government Superannuation Fund Amendment Act 1995 (1995 No 28): [section 31][657]
     
     Summary Proceedings Amendment Act 1994 (1994 No 161)
     
-    Copyright Act 1994 (1994 No 143): [section 236(2)][773]
+    Copyright Act 1994 (1994 No 143): [section 236(2)][777]
     
-    Antarctica (Environmental Protection) Act 1994 (1994 No 119): [section 56(2)][774]
+    Antarctica (Environmental Protection) Act 1994 (1994 No 119): [section 56(2)][778]
     
     Companies Amendment Act 1993 (1993 No 108): section 64
     
-    Financial Reporting Act 1993 (1993 No 106): [section 46][775]
+    Financial Reporting Act 1993 (1993 No 106): [section 46][779]
     
-    Companies Act 1993 (1993 No 105): [section 396][776]
+    Companies Act 1993 (1993 No 105): [section 396][780]
     
-    [Summary Proceedings Amendment Act 1993][777] (1993 No 47)
+    [Summary Proceedings Amendment Act 1993][781] (1993 No 47)
     
-    Privacy Act 1993 (1993 No 28): [section 129(1)][778]
+    Privacy Act 1993 (1993 No 28): [section 129(1)][782]
     
     Hospitals Amendment Act 1993 (1993 No 26): section 32
     
-    Te Ture Whenua Maori Act 1993 (1993 No 4): [section 362(2)][530]
+    Te Ture Whenua Maori Act 1993 (1993 No 4): [section 362(2)][532]
     
-    Ship Registration Act 1992 (1992 No 89): [section 88(3)][779]
+    Ship Registration Act 1992 (1992 No 89): [section 88(3)][783]
     
     Summary Proceedings Amendment Act (No 2) 1991 (1991 No 105)
     
@@ -7275,11 +7244,11 @@ Amendments, repeals, and miscellaneous provisions
     
     Weights and Measures Amendment Act 1991 (1991 No 9): section 21
     
-    Serious Fraud Office Act 1990 (1990 No 51): [section 54][780]
+    Serious Fraud Office Act 1990 (1990 No 51): [section 54][784]
     
-    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][678]
+    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][683]
     
-    Children, Young Persons, and Their Families Act 1989 (1989 No 24): [section 449][781]
+    Children, Young Persons, and Their Families Act 1989 (1989 No 24): [section 449][785]
     
     Summary Proceedings Amendment Act 1989 (1989 No 21)
     
@@ -7287,17 +7256,17 @@ Amendments, repeals, and miscellaneous provisions
     
     Shipping and Seamen Amendment Act 1987 (1987 No 184): section 29(1), (2)
     
-    Building Societies Amendment Act 1987 (1987 No 175): [section 41(3)][782]
+    Building Societies Amendment Act 1987 (1987 No 175): [section 41(3)][786]
     
     Summary Proceedings Amendment Act (No 2) 1987 (1987 No 172)
     
-    [Summary Proceedings Amendment Act 1987][783] (1987 No 165)
+    [Summary Proceedings Amendment Act 1987][787] (1987 No 165)
     
-    Plant Variety Rights Act 1987 (1987 No 5): [section 37(8)][784]
+    Plant Variety Rights Act 1987 (1987 No 5): [section 37(8)][788]
     
-    Residential Tenancies Act 1986 (1986 No 120): [section 144(3)][785]
+    Residential Tenancies Act 1986 (1986 No 120): [section 144(3)][789]
     
-    Constitution Act 1986 (1986 No 114): [section 29(2)][786]
+    Constitution Act 1986 (1986 No 114): [section 29(2)][790]
     
     Summary Proceedings Amendment Act 1986 (1986 No 73)
     
@@ -7305,11 +7274,11 @@ Amendments, repeals, and miscellaneous provisions
     
     Summary Proceedings Amendment Act (No 5) 1985 (1985 No 191)
     
-    Criminal Justice Act 1985 (1985 No 120): [section 150(1)][531]
+    Criminal Justice Act 1985 (1985 No 120): [section 150(1)][533]
     
     Summary Proceedings Amendment Act 1985 (1985 No 51)
     
-    Arms Act 1983 (1983 No 44): [section 75][787]
+    Arms Act 1983 (1983 No 44): [section 75][791]
     
     Crimes Amendment Act (No 2) 1982 (1982 No 157): section 5
     
@@ -7317,7 +7286,7 @@ Amendments, repeals, and miscellaneous provisions
     
     Summary Proceedings Amendment Act 1982 (1982 No 47)
     
-    Summary Offences Act 1981 (1981 No 113): [section 48(2)][788]
+    Summary Offences Act 1981 (1981 No 113): [section 48(2)][792]
     
     Credit Contracts Act 1981 (1981 No 27): section 48(1)(i)
     
@@ -7327,13 +7296,13 @@ Amendments, repeals, and miscellaneous provisions
     
     Summary Proceedings Amendment Act 1979 (1979 No 126)
     
-    District Courts Amendment Act 1979 (1979 No 125): [sections 2(3)][496], [18(2)][497]
+    District Courts Amendment Act 1979 (1979 No 125): [sections 2(3)][497], [18(2)][498]
     
-    Judicature Amendment Act 1979 (1979 No 124): [section 12][675]
+    Judicature Amendment Act 1979 (1979 No 124): [section 12][680]
     
-    Local Government Amendment Act 1979 (1979 No 59): [section 8(3)][789]
+    Local Government Amendment Act 1979 (1979 No 59): [section 8(3)][793]
     
-    Public Service Investment Society Management Act (No 2) 1979 (1979 No 9): [section 22(3)][790]
+    Public Service Investment Society Management Act (No 2) 1979 (1979 No 9): [section 22(3)][794]
     
     Crimes Amendment Act 1979 (1979 No 5): section 6
     
@@ -7341,17 +7310,17 @@ Amendments, repeals, and miscellaneous provisions
     
     New Zealand Security Intelligence Service Amendment Act 1977 (1977 No 50): section 7(2)
     
-    Chateau Companies Act 1977 (1977 No 4): [section 19(3)][791]
+    Chateau Companies Act 1977 (1977 No 4): [section 19(3)][795]
     
-    [Summary Proceedings Amendment Act 1976][792] (1976 No 169)
+    [Summary Proceedings Amendment Act 1976][796] (1976 No 169)
     
     Commerce Amendment Act 1976 (1976 No 67): section 23(2)
     
-    Misuse of Drugs Act 1975 (1975 No 116): [section 28(3)][793]
+    Misuse of Drugs Act 1975 (1975 No 116): [section 28(3)][797]
     
     Summary Proceedings Amendment Act 1975 (1975 No 105)
     
-    Trustee Companies Management Act 1975 (1975 No 25): [section 20(3)][794]
+    Trustee Companies Management Act 1975 (1975 No 25): [section 20(3)][798]
     
     Cornish Companies Management Act 1974 (1974 No 27): section 22(3)
     
@@ -7367,47 +7336,47 @@ Amendments, repeals, and miscellaneous provisions
     
     Summary Proceedings Amendment Act 1968 (1968 No 108)
     
-    Costs in Criminal Cases Act 1967 (1967 No 129): [section 14(2)][536]
+    Costs in Criminal Cases Act 1967 (1967 No 129): [section 14(2)][538]
     
-    Insolvency Act 1967 (1967 No 54): [section 170(1)][795]
+    Insolvency Act 1967 (1967 No 54): [section 170(1)][799]
     
     Animals Act 1967 (1967 No 50): section 108(2)
     
     Summary Proceedings Amendment Act 1967 (1967 No 33)
     
-    Alcoholism and Drug Addiction Act 1966 (1966 No 97): [section 40(1)][796]
+    Alcoholism and Drug Addiction Act 1966 (1966 No 97): [section 40(1)][800]
     
     Customs Act 1966 (1966 No 19): section 311(1)
     
     Narcotics Act 1965 (1965 No 45): section 5(7)
     
-    Building Societies Act 1965 (1965 No 22): [section 134][797]
+    Building Societies Act 1965 (1965 No 22): [section 134][801]
     
-    Burial and Cremation Act 1964 (1964 No 75): [section 56(4)][798]
+    Burial and Cremation Act 1964 (1964 No 75): [section 56(4)][802]
     
     Summary Proceedings Amendment Act 1964 (1964 No 22)
     
     Sale of Liquor Act 1962 (1962 No 139): section 301(1)
     
-    Transport Act 1962 (1962 No 135): [section 201(1)][799]
+    Transport Act 1962 (1962 No 135): [section 201(1)][803]
     
-    Waimakariri - Ashley Water Supply Act 1961 (1961 No 131): [section 73(1)][800]
+    Waimakariri - Ashley Water Supply Act 1961 (1961 No 131): [section 73(1)][804]
     
-    Reserves and Other Lands Disposal Act 1961 (1961 No 128): [section 14(15)][801]
+    Reserves and Other Lands Disposal Act 1961 (1961 No 128): [section 14(15)][805]
     
     Summary Proceedings Amendment Act 1961 (1961 No 44)
     
-    Crimes Act 1961 (1961 No 43): [section 412(2)][802]
+    Crimes Act 1961 (1961 No 43): [section 412(2)][806]
     
     Motor-Vehicle Dealers Act 1958 (1958 No 112): section 24(2)
     
     Companies Special Investigations Act 1958 (1958 No 23): section 28(3)
     
-    Summary Proceedings Act 1957(1957 No 87): [section 71(5)][108]
+    Summary Proceedings Act 1957(1957 No 87): [section 71(5)][807]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1957/0087/latest/whole.html#DLM310745
 [2]: http://www.legislation.govt.nz/act/public/1957/0087/latest/whole.html#DLM310748
 [3]: http://www.legislation.govt.nz/act/public/1957/0087/latest/whole.html#DLM310749
@@ -7900,313 +7869,318 @@ Amendments, repeals, and miscellaneous provisions
 [490]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM399320
 [491]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM51911
 [492]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM210713
-[493]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM428844
-[494]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM298068
-[495]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1102383
-[496]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM35057
-[497]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM35085
-[498]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM157108
-[499]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM122222
-[500]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM375484
-[501]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3231293
-[502]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM392468
-[503]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM396751
-[504]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM397798
-[505]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM23933
-[506]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372259
-[507]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM396293
-[508]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557948
-[509]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM27330
-[510]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3359902
-[511]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM385031
-[512]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3865719
-[513]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM122226
-[514]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372261
-[515]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372260
-[516]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM435656
-[517]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM428845
-[518]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557951
-[519]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372263
-[520]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3570940
-[521]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557954
-[522]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM427940
-[523]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM157111
-[524]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM333795
-[525]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM435099
-[526]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM433612
-[527]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM122228
-[528]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM297136
-[529]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM371084
-[530]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM293026
-[531]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM79129
-[532]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3865810
-[533]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1379701
-[534]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM69643
-[535]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM394551
-[536]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM385070
-[537]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372266
-[538]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557955
-[539]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2214226
-[540]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM342886
-[541]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM435145
-[542]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557957
-[543]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM122235
-[544]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM435033
-[545]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM435045
-[546]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM435407
-[547]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM45928
-[548]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3051112
-[549]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM136807
-[550]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM136810
-[551]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM136814
-[552]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM150084
-[553]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM153436
-[554]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM99493
-[555]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM46187
-[556]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM341189
-[557]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3394800
-[558]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM90414
-[559]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM226229
-[560]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557960
-[561]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM135341
-[562]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3556261
-[563]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3556262
-[564]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM136003
-[565]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM136012
-[566]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3556264
-[567]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM135591
-[568]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3360317
-[569]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3556266
-[570]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM428857
-[571]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM302296
-[572]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM137267
-[573]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3558618
-[574]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3558620
-[575]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3558621
-[576]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3556274
-[577]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM359106
-[578]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM39722
-[579]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM253150
-[580]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM348342
-[581]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM364809
-[582]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM428863
-[583]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3558629
-[584]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM429013
-[585]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372274
-[586]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3556289
-[587]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM371098
-[588]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557920
-[589]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3556276
-[590]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372275
-[591]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM428865
-[592]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3556277
-[593]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372276
-[594]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3558615
-[595]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372277
-[596]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3556278
-[597]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3556279
-[598]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3556280
-[599]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3360288
-[600]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM68938
-[601]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM68901
-[602]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM68931
-[603]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM136401
-[604]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM136069
-[605]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM136044
-[606]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3360287
-[607]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM147094
-[608]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM243764
-[609]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2300100
-[610]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM147653
-[611]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3558631
-[612]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3360419
-[613]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3360426
-[614]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM427958
-[615]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3556290
-[616]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3558634
-[617]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM328088
-[618]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3556291
-[619]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3558636
-[620]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM296645
-[621]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM296638
-[622]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM298798
-[623]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM297439
-[624]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM297441
-[625]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM297962
-[626]: http://www.legislation.govt.nz/act/public/1957/0087/latest/whole.html#DLM3912934
-[627]: http://www.legislation.govt.nz/act/public/1957/0087/latest/whole.html#DLM3912962
-[628]: http://www.legislation.govt.nz/act/public/1957/0087/latest/whole.html#DLM3912963
-[629]: http://www.legislation.govt.nz/act/public/1957/0087/latest/whole.html#DLM3912957
-[630]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3558667
-[631]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2471711
-[632]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM435070
-[633]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM435089
-[634]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3701427
-[635]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM45599
-[636]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM136869
-[637]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM46724
-[638]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM46763
-[639]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557906
-[640]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM428868
-[641]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557907
-[642]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM371201
-[643]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM41253
-[644]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM428869
-[645]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372283
-[646]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557908
-[647]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1512300
-[648]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3558699
-[649]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM41259
-[650]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372284
-[651]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3558706
-[652]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557909
-[653]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM41279
-[654]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM366271
-[655]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM99003
-[656]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557911
-[657]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM428871
-[658]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM135582
-[659]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM136070
-[660]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM135564
-[661]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557912
-[662]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557917
-[663]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3360366
-[664]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM302507
-[665]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1379721
-[666]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM294374
-[667]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2137151
-[668]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM176598
-[669]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM427996
-[670]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM122234
-[671]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM160808
-[672]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372290
-[673]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1102349
-[674]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557918
-[675]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM35049
-[676]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372292
-[677]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3558710
-[678]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM195558
-[679]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3327100
-[680]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557941
-[681]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM4118923
-[682]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3650002
-[683]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2136500
-[684]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM4686448
-[685]: http://www.pco.parliament.govt.nz/reprints/
-[686]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM195439
-[687]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[688]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM195468
-[689]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM195470
-[690]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1777925
-[691]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM4059011
-[692]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3944701
-[693]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3314954
-[694]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3231793
-[695]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3382262
-[696]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3383782
-[697]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2478612
-[698]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2033287
-[699]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2747722
-[700]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3044500
-[701]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2607873
-[702]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2836314
-[703]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1441347
-[704]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1774213
-[705]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2471702
-[706]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2155120
-[707]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2015063
-[708]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1451467
-[709]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1833700
-[710]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1370226
-[711]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1152186
-[712]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1048943
-[713]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1379706
-[714]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1379000
-[715]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1208900
-[716]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM970058
-[717]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM411004
-[718]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM407617
-[719]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM404744
-[720]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM398270
-[721]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM387857
-[722]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM384385
-[723]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM383050
-[724]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372252
-[725]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM358540
-[726]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM356263
-[727]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM346765
-[728]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM346419
-[729]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM333759
-[730]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM323483
-[731]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM319830
-[732]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM303942
-[733]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM294363
-[734]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM224534
-[735]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM222180
-[736]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM214520
-[737]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM213185
-[738]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM210735
-[739]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM205009
-[740]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM202699
-[741]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM200436
-[742]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM198311
-[743]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM187889
-[744]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM165256
-[745]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM146294
-[746]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM128668
-[747]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM95330
-[748]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM78365
-[749]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM74677
-[750]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM73105
-[751]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM51965
-[752]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM49614
-[753]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM47639
-[754]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM41012
-[755]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM31885
-[756]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM19373
-[757]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM428838
-[758]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM427928
-[759]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM426856
-[760]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM425330
-[761]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM423785
-[762]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM417798
-[763]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM417042
-[764]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM408923
-[765]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM407200
-[766]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM399975
-[767]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM392547
-[768]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM392282
-[769]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM392228
-[770]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM380185
-[771]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM371078
-[772]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM369871
-[773]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM347117
-[774]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM343623
-[775]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM325169
-[776]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM323284
-[777]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM302276
-[778]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM298439
-[779]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM276674
-[780]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM211498
-[781]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM155091
-[782]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM124106
-[783]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM122216
-[784]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM101097
-[785]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM96427
-[786]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM94263
-[787]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM73371
-[788]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM53746
-[789]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM34672
-[790]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM31548
-[791]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM442522
-[792]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM442136
-[793]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM436492
-[794]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM432102
-[795]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM384124
-[796]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM380515
-[797]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372502
-[798]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM355877
-[799]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM345115
-[800]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM339448
-[801]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM338443
-[802]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM332403
+[493]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM5043105
+[494]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM428844
+[495]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM298068
+[496]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1102383
+[497]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM35057
+[498]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM35085
+[499]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM157108
+[500]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM122222
+[501]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM375484
+[502]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3231293
+[503]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM392468
+[504]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM396751
+[505]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM397798
+[506]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM23933
+[507]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372259
+[508]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM396293
+[509]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM5043149
+[510]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557948
+[511]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM27330
+[512]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3359902
+[513]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM385031
+[514]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3865719
+[515]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM122226
+[516]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372261
+[517]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372260
+[518]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM435656
+[519]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM428845
+[520]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557951
+[521]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372263
+[522]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3570940
+[523]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557954
+[524]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM427940
+[525]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM157111
+[526]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM333795
+[527]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM435099
+[528]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM433612
+[529]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM122228
+[530]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM297136
+[531]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM371084
+[532]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM293026
+[533]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM79129
+[534]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3865810
+[535]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1379701
+[536]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM69643
+[537]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM394551
+[538]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM385070
+[539]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372266
+[540]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557955
+[541]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2214226
+[542]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM342886
+[543]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM435145
+[544]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557957
+[545]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM122235
+[546]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM435033
+[547]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM435045
+[548]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM435407
+[549]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM45928
+[550]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3051112
+[551]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM136807
+[552]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM136810
+[553]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM136814
+[554]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM150084
+[555]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM153436
+[556]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM99493
+[557]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM46187
+[558]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM341189
+[559]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3394800
+[560]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM90414
+[561]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM226229
+[562]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557960
+[563]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM135341
+[564]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3556261
+[565]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3556262
+[566]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM136003
+[567]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM136012
+[568]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3556264
+[569]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM135591
+[570]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3360317
+[571]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3556266
+[572]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM428857
+[573]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM302296
+[574]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM137267
+[575]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3558618
+[576]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3558620
+[577]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3558621
+[578]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3556274
+[579]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM359106
+[580]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM39722
+[581]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM253150
+[582]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM348342
+[583]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM364809
+[584]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM428863
+[585]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3558629
+[586]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM429013
+[587]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372274
+[588]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3556289
+[589]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM371098
+[590]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557920
+[591]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3556276
+[592]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372275
+[593]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM428865
+[594]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3556277
+[595]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372276
+[596]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3558615
+[597]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372277
+[598]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3556278
+[599]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3556279
+[600]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3556280
+[601]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3360288
+[602]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM68938
+[603]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM68901
+[604]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM68931
+[605]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM4869227
+[606]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM136401
+[607]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM136069
+[608]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM136044
+[609]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3360287
+[610]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM147094
+[611]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM243764
+[612]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2300100
+[613]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM147653
+[614]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3558631
+[615]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3360419
+[616]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3360426
+[617]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM427958
+[618]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3556290
+[619]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3558634
+[620]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM328088
+[621]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3556291
+[622]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3558636
+[623]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM296645
+[624]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM296638
+[625]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM298798
+[626]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM297439
+[627]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM297441
+[628]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM297962
+[629]: http://www.legislation.govt.nz/act/public/1957/0087/latest/whole.html#DLM3912934
+[630]: http://www.legislation.govt.nz/act/public/1957/0087/latest/whole.html#DLM3912962
+[631]: http://www.legislation.govt.nz/act/public/1957/0087/latest/whole.html#DLM3912963
+[632]: http://www.legislation.govt.nz/act/public/1957/0087/latest/whole.html#DLM3912957
+[633]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3558667
+[634]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2471711
+[635]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM435070
+[636]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM435089
+[637]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3701427
+[638]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM45599
+[639]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM136869
+[640]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM46724
+[641]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM46763
+[642]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557906
+[643]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM428868
+[644]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557907
+[645]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM371201
+[646]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM41253
+[647]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM428869
+[648]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372283
+[649]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557908
+[650]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1512300
+[651]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3558699
+[652]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM41259
+[653]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372284
+[654]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3558706
+[655]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557909
+[656]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM41279
+[657]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM366271
+[658]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM99003
+[659]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557911
+[660]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM428871
+[661]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM135582
+[662]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM136070
+[663]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM135564
+[664]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM5886800
+[665]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557912
+[666]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM4088276
+[667]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557917
+[668]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3360366
+[669]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM302507
+[670]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1379721
+[671]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM294374
+[672]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2137151
+[673]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM176598
+[674]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM427996
+[675]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM122234
+[676]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM160808
+[677]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372290
+[678]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1102349
+[679]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557918
+[680]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM35049
+[681]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372292
+[682]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3558710
+[683]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM195558
+[684]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3327100
+[685]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3557941
+[686]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM4118923
+[687]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3650002
+[688]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2136500
+[689]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM4686448
+[690]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2998516
+[691]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2998515
+[692]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2998532
+[693]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[694]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1777925
+[695]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM4059011
+[696]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3944701
+[697]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3314954
+[698]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3231793
+[699]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3382262
+[700]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3383782
+[701]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2478612
+[702]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2033287
+[703]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2747722
+[704]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM3044500
+[705]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2607873
+[706]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2836314
+[707]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1441347
+[708]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1774213
+[709]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2471702
+[710]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2155120
+[711]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM2015063
+[712]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1451467
+[713]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1833700
+[714]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1370226
+[715]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1152186
+[716]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1048943
+[717]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1379706
+[718]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1379000
+[719]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM1208900
+[720]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM970058
+[721]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM411004
+[722]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM407617
+[723]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM404744
+[724]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM398270
+[725]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM387857
+[726]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM384385
+[727]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM383050
+[728]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372252
+[729]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM358540
+[730]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM356263
+[731]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM346765
+[732]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM346419
+[733]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM333759
+[734]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM323483
+[735]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM319830
+[736]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM303942
+[737]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM294363
+[738]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM224534
+[739]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM222180
+[740]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM214520
+[741]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM213185
+[742]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM210735
+[743]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM205009
+[744]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM202699
+[745]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM200436
+[746]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM198311
+[747]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM187889
+[748]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM165256
+[749]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM146294
+[750]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM128668
+[751]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM95330
+[752]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM78365
+[753]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM74677
+[754]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM73105
+[755]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM51965
+[756]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM49614
+[757]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM47639
+[758]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM41012
+[759]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM31885
+[760]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM19373
+[761]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM428838
+[762]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM427928
+[763]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM426856
+[764]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM425330
+[765]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM423785
+[766]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM417798
+[767]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM417042
+[768]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM408923
+[769]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM407200
+[770]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM399975
+[771]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM392547
+[772]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM392282
+[773]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM392228
+[774]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM380185
+[775]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM371078
+[776]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM369871
+[777]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM347117
+[778]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM343623
+[779]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM325169
+[780]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM323284
+[781]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM302276
+[782]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM298439
+[783]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM276674
+[784]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM211498
+[785]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM155091
+[786]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM124106
+[787]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM122216
+[788]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM101097
+[789]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM96427
+[790]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM94263
+[791]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM73371
+[792]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM53746
+[793]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM34672
+[794]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM31548
+[795]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM442522
+[796]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM442136
+[797]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM436492
+[798]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM432102
+[799]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM384124
+[800]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM380515
+[801]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM372502
+[802]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM355877
+[803]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM345115
+[804]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM339448
+[805]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM338443
+[806]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM332403
+[807]: http://www.legislation.govt.nz/act/public/1957/0087/latest/link.aspx?id=DLM311813
