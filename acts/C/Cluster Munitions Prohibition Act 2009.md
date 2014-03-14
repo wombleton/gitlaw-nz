@@ -1,6 +1,3 @@
-Reprint  
-as at 5 August 2013
-
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Cluster Munitions Prohibition Act 2009Public Act2009 No 68
@@ -9,78 +6,68 @@ Date of assent17 December 2009
 
 Commencementsee section 2
 
----
-
-###### Note
-
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
-
-Note 4 at the end of this reprint provides a list of the amendments incorporated.
-
-This Act is administered by the Ministry of Foreign Affairs and Trade.
-
----
-
 ## Contents
 
-[1][1][][1][Title][1]
+[1][0][][0][Title][0]
 
-[2][2][][2][Commencement][2]
+[2][1][][1][Commencement][1]
 
-[Part 1][3]  
-[Preliminary provisions][3]
+[Part 1][2]  
+[Preliminary provisions][2]
 
-[3][4][][4][Purpose][4]
+[3][3][][3][Purpose][3]
 
-[4][5][][5][Obligations to which persons exercising power or discretion must have regard][5]
+[4][4][][4][Obligations to which persons exercising power or discretion must have regard][4]
 
-[5][6][][6][Interpretation][6]
+[5][5][][5][Interpretation][5]
 
-[6][7][][7][Meaning of cluster munition][7]
+[6][6][][6][Meaning of cluster munition][6]
 
-[7][8][][8][Meaning of officer][8]
+[7][7][][7][Meaning of officer][7]
 
-[8][9][][9][Act binds the Crown][9]
+[8][8][][8][Act binds the Crown][8]
 
-[9][10][][10][Application of Act in New Zealand and elsewhere][10]
+[9][9][][9][Application of Act in New Zealand and elsewhere][9]
 
-[Part 2][11]  
-[Activities related to cluster munitions][11]
+[Part 2][10]  
+[Activities related to cluster munitions][10]
 
-[Subpart 1][12][---][12][Offences and exceptions related to cluster munitions][12]
+[Subpart 1][11][---][11][Offences and exceptions related to cluster munitions][11]
 
-[10][13][][13][Offences relating to cluster munitions][13]
+[10][12][][12][Offences relating to cluster munitions][12]
 
-[11][14][][14][Exceptions to offences in section 10(1)][14]
+[11][13][][13][Exceptions to offences in section 10(1)][13]
 
-[12][15][][15][Application of this subpart to certain explosive bomblets][15]
+[12][14][][14][Application of this subpart to certain explosive bomblets][14]
 
-[Subpart 2][16][---][16][Actions in relation to cluster munitions][16]
+[Subpart 2][15][---][15][Actions in relation to cluster munitions][15]
 
-[13][17][][17][Seizure, forfeiture, and destruction of cluster munitions][17]
+[13][16][][16][Seizure, forfeiture, and destruction of cluster munitions][16]
 
-[14][18][][18][Application of Customs and Excise Act 1996 to import and export of cluster munitions][18]
+[14][17][][17][Application of Customs and Excise Act 1996 to import and export of cluster munitions][17]
 
-[15][19][][19][Minister may authorise cluster munitions for certain purposes][19]
+[15][18][][18][Minister may authorise cluster munitions for certain purposes][18]
 
-[Subpart 3][20][---][20][Information][20]
+[Subpart 3][19][---][19][Information][19]
 
-[16][21][][21][Purpose of this subpart][21]
+[16][20][][20][Purpose of this subpart][20]
 
-[17][22][][22][Supply of information][22]
+[17][21][][21][Supply of information][21]
 
-[Subpart 4][23][---][23][Miscellaneous provisions][23]
+[Subpart 4][22][---][22][Miscellaneous provisions][22]
 
-[18][24][][24][Attorney-General's consent to prosecutions required][24]
+[18][23][][23][Attorney-General's consent to prosecutions required][23]
 
-[19][25][][25][Regulations][25]
+[19][24][][24][Regulations][24]
 
-[20][26][][26][Consequential amendments to Arms Act 1983][26]
+[20][25][][25][Consequential amendments to Arms Act 1983][25]
 
-[Schedule][27]  
-[Convention on Cluster Munitions][27]
+[Schedule][26]  
+[Convention on Cluster Munitions][26]
 
 ---
+
+The Parliament of New Zealand enacts as follows:
 
 ##### 1 Title
     
@@ -89,8 +76,6 @@ This Act is administered by the Ministry of Foreign Affairs and Trade.
 ##### 2 Commencement
     
 *   This Act comes into force on a date appointed by the Governor-General by Order in Council.
-    
-    Section 2: Cluster Munitions Prohibition Act 2009 brought into force, on 1 August 2010, by the [Cluster Munitions Prohibition Act Commencement Order 2010][28] (SR 2010/157).
 
 ## Part 1  
 Preliminary provisions
@@ -107,21 +92,21 @@ Preliminary provisions
     
 *   (1) In this Act, unless the context otherwise requires,---
     
-    _Armed Forces_ has the same meaning as in [section 2(1)][29] of the Defence Act 1990
+    _Armed Forces_ has the same meaning as in [section 2(1)][27] of the Defence Act 1990
     
-    _authorised cluster munition_ means a cluster munition authorised under [section 15][19]
+    _authorised cluster munition_ means a cluster munition authorised under [section 15][18]
     
     _chief executive_ means the chief executive of the Ministry
     
-    _cluster munition_ has the meaning given to it by [section 6][7]
+    _cluster munition_ has the meaning given to it by [section 6][6]
     
-    _Convention_ means the Convention on Cluster Munitions, done at Dublin on 30 May 2008 (a copy of the English text of which is set out in the [Schedule][27]); and includes any amendments to the Convention made in accordance with [Article 13][30] of the Convention that are, or will become, binding on New Zealand from time to time
+    _Convention_ means the Convention on Cluster Munitions, done at Dublin on 30 May 2008 (a copy of the English text of which is set out in the [Schedule][26]); and includes any amendments to the Convention made in accordance with [Article 13][28] of the Convention that are, or will become, binding on New Zealand from time to time
     
-    _Customs officer_ has the same meaning as in [section 2(1)][31] of the Customs and Excise Act 1996
+    _Customs officer_ has the same meaning as in [section 2(1)][29] of the Customs and Excise Act 1996
     
     _dispenser_ means a container that is designed to disperse or release explosive bomblets, and is affixed to an aircraft at the time of dispersal or release
     
-    _enforcement officer_ has the same meaning as in [section 2(1) of the Hazardous Substances and New Organisms Act 1996][32]
+    _enforcement officer_ has the same meaning as in [section 2(1) of the Hazardous Substances and New Organisms Act 1996][30]
     
     _explosive bomblet_ means a conventional munition---
         
@@ -145,15 +130,15 @@ Preliminary provisions
     
     *   (b) includes legal documents or instruments (for example, bank credits, travellers' cheques, bank cheques, money orders, shares, securities, bonds, drafts, and letters of credit) in any form (for example, in electronic or digital form) evidencing title to, or an interest in, assets of any kind
     
-    _mine_ has the same meaning as in [section 2(1)][33] of the Anti-Personnel Mines Prohibition Act 1998
+    _mine_ has the same meaning as in [section 2(1)][31] of the Anti-Personnel Mines Prohibition Act 1998
     
     _Minister_ means the Minister of the Crown who, under the authority of a warrant or with the authority of the Prime Minister, is responsible for the administration of this Act
     
     _Ministry_ means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
     
-    _officer_ has the meaning given to it by [section 7][8]
+    _officer_ has the meaning given to it by [section 7][7]
     
-    _Police employee_ has the same meaning as in [section 4][34] of the Policing Act 2008
+    _Police employee_ has the same meaning as in [section 4][32] of the Policing Act 2008
     
     _self-deactivating_ means automatically rendering a munition inoperable by means of the irreversible exhaustion of a component (for example, a battery) of the munition that is essential to the munition's operation
     
@@ -167,7 +152,7 @@ Preliminary provisions
     
     _transfer_---
         
-    *   (a) includes---
+    *   (a) includes--- 
             
         *   (i) importation into, and exportation from, New Zealand; and
         
@@ -195,7 +180,7 @@ Preliminary provisions
                 
             *   (A) to dispense flares, smoke, pyrotechnics, or chaff; or
             
-            *   (B) to produce electrical or electronic effects; or
+            *   (B) to produce electrical or electronic effects; or 
             
             
         
@@ -251,7 +236,7 @@ Preliminary provisions
     
     *   (d) a body corporate, or a corporation sole, incorporated in New Zealand.
     
-    (3) Nothing in this section limits the application of [section 7][35], [8][36], or [8A][37] of the Crimes Act 1961\.
+    (3) Nothing in this section limits the application of [section 7][33], [8][34], or [8A][35] of the Crimes Act 1961\.
 
 ## Part 2  
 Activities related to cluster munitions
@@ -280,31 +265,31 @@ Activities related to cluster munitions
     
     *   (b) the choice of munitions used is within the exclusive control of the Armed Forces.
     
-    (4) A person who commits an offence against subsection (1), (2), or (3) is liable on conviction to imprisonment for a term not exceeding 7 years or a fine not exceeding $500,000, or both.
+    (4) A person who commits an offence against subsection (1), (2), or (3) is liable on conviction on indictment to imprisonment for a term not exceeding 7 years or a fine not exceeding $500,000, or both.
     
-    (5) Subsection (1) is subject to [section 11][14].
+    (5) Subsection (1) is subject to [section 11][13].
     
     (6) This section does not limit any of the following:
         
-    *   (a) the [Anti-Personnel Mines Prohibition Act 1998][38]:
+    *   (a) the [Anti-Personnel Mines Prohibition Act 1998][36]:
     
-    *   (b) the provisions of the [Arms Act 1983][39] relating to restricted weapons:
+    *   (b) the provisions of the [Arms Act 1983][37] relating to restricted weapons:
     
-    *   (c) the [Hazardous Substances and New Organisms Act 1996][40].
+    *   (c) the [Hazardous Substances and New Organisms Act 1996][38].
     
-    Section 10(4): amended, on 1 July 2013, by [section 413][41] of the Criminal Procedure Act 2011 (2011 No 81).
+    
 
 ##### 11 Exceptions to offences in section 10(1)
     
-*   (1) Despite [section 10(1)][13], an officer does not commit an offence by using, acquiring, possessing, retaining, or transferring an authorised cluster munition if he or she is doing so---
+*   (1) Despite [section 10(1)][12], an officer does not commit an offence by using, acquiring, possessing, retaining, or transferring an authorised cluster munition if he or she is doing so---
         
     *   (a) in the course of his or her employment or duties; and
     
     *   (b) for the purposes of developing, or training persons in, techniques of cluster munition detection, clearance, or destruction; and
     
-    *   (c) in compliance with any notice given under [section 15][19].
+    *   (c) in compliance with any notice given under [section 15][18].
     
-    (2) Despite [section 10(1)][13], an officer does not commit an offence by seizing, receiving, or acquiring a cluster munition if he or she is doing so---
+    (2) Despite [section 10(1)][12], an officer does not commit an offence by seizing, receiving, or acquiring a cluster munition if he or she is doing so---
         
     *   (a) in the course of his or her employment or duties; and
     
@@ -318,7 +303,7 @@ Activities related to cluster munitions
         
         
     
-    (3) Despite [section 10(1)][13], a person does not commit an offence in the circumstances set out in subsection (4) by---
+    (3) Despite [section 10(1)][12], a person does not commit an offence in the circumstances set out in subsection (4) by---
         
     *   (a) possessing a cluster munition until an officer collects it from him or her or destroys it; or
     
@@ -326,11 +311,11 @@ Activities related to cluster munitions
     
     (4) The circumstances are---
         
-    *   (a) that the person complies with [section 17][22]; and
+    *   (a) that the person complies with [section 17][21]; and
     
     *   (b) that, as soon as practicable after becoming aware that he or she possesses the cluster munition, the person takes all reasonable steps to ensure that it is not used before an officer can collect or destroy it.
     
-    (5) Despite [section 10(1)][13], a person does not commit an offence by his, her, or its conduct outside New Zealand in relation to a cluster munition that is---
+    (5) Despite [section 10(1)][12], a person does not commit an offence by his, her, or its conduct outside New Zealand in relation to a cluster munition that is---
         
     *   (a) for the purposes of---
             
@@ -346,7 +331,7 @@ Activities related to cluster munitions
     
     *   (b) in accordance with the Convention.
     
-    (6) A member of the Armed Forces does not commit an offence against [section 10(1)][13] merely by engaging, in the course of his or her duties, in operations, exercises, or other military activities with the armed forces of a State that is not a party to the Convention and that has the capability to engage in conduct prohibited by section 10(1).
+    (6) A member of the Armed Forces does not commit an offence against [section 10(1)][12] merely by engaging, in the course of his or her duties, in operations, exercises, or other military activities with the armed forces of a State that is not a party to the Convention and that has the capability to engage in conduct prohibited by section 10(1).
 
 ##### 12 Application of this subpart to certain explosive bomblets
     
@@ -356,7 +341,7 @@ Activities related to cluster munitions
 
 ##### 13 Seizure, forfeiture, and destruction of cluster munitions
     
-*   (1) A cluster munition in respect of which an offence against [section 10][13] has been committed---
+*   (1) A cluster munition in respect of which an offence against [section 10][12] has been committed---
         
     *   (a) may be seized without warrant by an officer; and
     
@@ -364,7 +349,7 @@ Activities related to cluster munitions
     
     *   (c) must be either---
             
-        *   (i) authorised under [section 15][19]; or
+        *   (i) authorised under [section 15][18]; or
         
         *   (ii) destroyed by an officer.
         
@@ -374,7 +359,7 @@ Activities related to cluster munitions
 
 ##### 14 Application of Customs and Excise Act 1996 to import and export of cluster munitions
     
-*   The provisions of the Customs and Excise Act 1996 that apply to prohibited imports and prohibited exports (except the penalty for an offence against [section 209(1)(a) or (b)][42] of that Act) apply to cluster munitions whose importation into and exportation from New Zealand is an offence against [section 10(1)][13] of this Act, as if that importation and exportation were prohibited under [Part 5][43] of the Customs and Excise Act 1996\.
+*   The provisions of the Customs and Excise Act 1996 that apply to prohibited imports and prohibited exports (except the penalty for an offence against [section 209(1)(a) or (b)][39] of that Act) apply to cluster munitions whose importation into and exportation from New Zealand is an offence against [section 10(1)][12] of this Act, as if that importation and exportation were prohibited under [Part 5][40] of the Customs and Excise Act 1996\.
 
 ##### 15 Minister may authorise cluster munitions for certain purposes
     
@@ -384,9 +369,7 @@ Activities related to cluster munitions
     
     (3) The Minister must from time to time specify, by notice in the _Gazette_, the number of cluster munitions determined by the Minister to be the number that for the time being is the minimum number that is absolutely necessary for the purposes referred to in subsection (1).
     
-    (4) A notice under subsection (1) or (3) is neither a legislative instrument nor a disallowable instrument for the purposes of the [Legislation Act 2012][44].
-    
-    Section 15(4): replaced, on 5 August 2013, by [section 77(3)][45] of the Legislation Act 2012 (2012 No 119).
+    (4) A notice made under subsection (1) or (3) is not a regulation for the purposes of the [Acts and Regulations Publication Act 1989][41] or the [Regulations (Disallowance) Act 1989][42].
 
 ### Subpart 3---Information
 
@@ -414,21 +397,19 @@ Activities related to cluster munitions
     
     (3) A person commits an offence who, in any document prepared under subsection (1), makes a statement or omits any matter knowing that, or being reckless as to whether, the statement or omission makes the document false or misleading in a material particular.
     
-    (4) A person who commits an offence against subsection (2) or (3) is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000, or both.
+    (4) A person who commits an offence against subsection (2) or (3) is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000, or both.
     
-    (5) Nothing in this section applies to a person whose conduct in relation to a cluster munition is, by reason of [section 11(5)][14], not an offence against this Act.
-    
-    Section 17(4): amended, on 1 July 2013, by [section 413][41] of the Criminal Procedure Act 2011 (2011 No 81).
+    (5) Nothing in this section applies to a person whose conduct in relation to a cluster munition is, by reason of [section 11(5)][13], not an offence against this Act.
 
 ### Subpart 4---Miscellaneous provisions
 
 ##### 18 Attorney-General's consent to prosecutions required
     
-*   (1) No proceedings for any offence against [section 10][13] may be instituted in any court except with the consent of the Attorney-General.
+*   (1) No proceedings for any offence against [section 10][12] may be instituted in any court except with the consent of the Attorney-General.
     
-    (2) However, a person alleged to have committed an offence against [section 10][13] may be arrested, or a warrant for the person's arrest may be issued and executed, and the person may be remanded in custody or on bail, even though the Attorney-General's consent under subsection (1) has not been obtained.
+    (2) However, a person alleged to have committed an offence against [section 10][12] may be arrested, or a warrant for the person's arrest may be issued and executed, and the person may be remanded in custody or on bail, even though the Attorney-General's consent under subsection (1) has not been obtained.
     
-    (3) [Section 400][46] of the Crimes Act 1961 does not apply in respect of any offence against this Act.
+    (3) [Section 400][43] of the Crimes Act 1961 does not apply in respect of any offence against this Act.
 
 ##### 19 Regulations
     
@@ -438,48 +419,46 @@ Activities related to cluster munitions
     
     *   (b) prescribing offences in respect of the contravention of, or non-compliance with, any regulations made under this Act:
     
-    *   (c) prescribing penalties on conviction not exceeding $5,000 for offences against regulations made under this Act:
+    *   (c) prescribing penalties on summary conviction not exceeding $5,000 for offences against regulations made under this Act:
     
     *   (d) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
     
     (2) The Governor-General may from time to time, by Order in Council,---
         
-    *   (a) amend the [Schedule][27] by making any amendments to the text of the Convention set out in the Schedule as are required to bring it up to date:
+    *   (a) amend the [Schedule][26] by making any amendments to the text of the Convention set out in the [Schedule][26] as are required to bring it up to date:
     
-    *   (b) revoke the [Schedule][27] and substitute a new schedule setting out in an up-to-date form the text of the Convention.
+    *   (b) revoke the [Schedule][26] and substitute a new schedule setting out in an up-to-date form the text of the Convention.
     
-    (3) An order made under subsection (2) is a regulation for the purposes of the [Acts and Regulations Publication Act 1989][47] and the [Regulations (Disallowance) Act 1989][48].
-    
-    Section 19(1)(c): amended, on 1 July 2013, by [section 413][41] of the Criminal Procedure Act 2011 (2011 No 81).
+    (3) An order made under subsection (2) is a regulation for the purposes of the [Acts and Regulations Publication Act 1989][41] and the [Regulations (Disallowance) Act 1989][42].
 
 ##### 20 Consequential amendments to Arms Act 1983
     
-*   (1) This section amends the [Arms Act 1983][39].
+*   (1) This section amends the [Arms Act 1983][37].
     
-    (2) [Section 2][49] is amended by inserting the following definition in its appropriate alphabetical order:
+    (2) [Section 2][44] is amended by inserting the following definition in its appropriate alphabetical order:
     
     > "_cluster munition_ has the meaning given to it by section 6 of the Cluster Munitions Prohibition Act 2009".
     
-    (3) [Section 3(2)(a)][50] is amended by inserting the following subparagraph after subparagraph (iv):
+    (3) [Section 3(2)(a)][45] is amended by inserting the following subparagraph after subparagraph (iv):
     
     > *   "(iva) an officer as defined by section 7 of the Cluster Munitions Prohibition Act 2009; or".
     > 
     > 
     
-    (4) [Section 5(3A)][51] is amended by adding ""or cluster munitions"".
+    (4) [Section 5(3A)][46] is amended by adding ""or cluster munitions"".
     
-    (5) [Section 18(5)][52] is amended by adding ""or a cluster munition"".
+    (5) [Section 18(5)][47] is amended by adding ""or a cluster munition"".
     
-    (6) [Section 29(2)][53] is amended by inserting ""or a cluster munition"" after ""anti-personnel mine"".
+    (6) [Section 29(2)][48] is amended by inserting ""or a cluster munition"" after ""anti-personnel mine"".
     
-    (7) [Section 35(5)][54] is amended by adding ""or a cluster munition"".
+    (7) [Section 35(5)][49] is amended by adding ""or a cluster munition"".
 
 ---
 
 ## Schedule  
 Convention on Cluster Munitions
 
-[s 5][6]
+[s 5][5]
 
 _The States Parties to this Convention,_
 
@@ -624,9 +603,9 @@ Storage and stockpile destruction
 
 *   5\. The Meeting of States Parties or the Review Conference shall, taking into consideration the factors referred to in paragraph 4 of this Article, assess the request and decide by a majority of votes of States Parties present and voting whether to grant the request for an extension. The States Parties may decide to grant a shorter extension than that requested and may propose benchmarks for the extension, as appropriate. A request for an extension shall be submitted a minimum of nine months prior to the Meeting of States Parties or the Review Conference at which it is to be considered.
 
-*   6\. Notwithstanding the provisions of Article 1 of this Convention, the retention or acquisition of a limited number of cluster munitions and explosive submunitions for the development of and training in cluster munition and explosive submunition detection, clearance or destruction techniques, or for the development of cluster munition counter-measures, is permitted. The amount of explosive submunitions retained or acquired shall not exceed the minimum number absolutely necessary for these purposes.
+*   6\. Notwithstanding the provisions of [Article 1][50] of this Convention, the retention or acquisition of a limited number of cluster munitions and explosive submunitions for the development of and training in cluster munition and explosive submunition detection, clearance or destruction techniques, or for the development of cluster munition counter-measures, is permitted. The amount of explosive submunitions retained or acquired shall not exceed the minimum number absolutely necessary for these purposes.
 
-*   7\. Notwithstanding the provisions of Article 1 of this Convention, the transfer of cluster munitions to another State Party for the purpose of destruction, as well as for the purposes described in paragraph 6 of this Article, is permitted.
+*   7\. Notwithstanding the provisions of [Article 1][50] of this Convention, the transfer of cluster munitions to another State Party for the purpose of destruction, as well as for the purposes described in paragraph 6 of this Article, is permitted.
 
 *   8\. States Parties retaining, acquiring or transferring cluster munitions or explosive submunitions for the purposes described in paragraphs 6 and 7 of this Article shall submit a detailed report on the planned and actual use of these cluster munitions and explosive submunitions and their type, quantity and lot numbers. If cluster munitions or explosive submunitions are transferred to another State Party for these purposes, the report shall include reference to the receiving party. Such a report shall be prepared for each year during which a State Party retained, acquired or transferred cluster munitions or explosive submunitions and shall be submitted to the Secretary-General of the United Nations no later than 30 April of the following year.
 
@@ -643,7 +622,7 @@ Clearance and destruction of cluster munition remnants and risk reduction educat
     
     
 
-*   2\. In fulfilling its obligations under paragraph 1 of this Article, each State Party shall take the following measures as soon as possible, taking into consideration the provisions of Article 6 of this Convention regarding international cooperation and assistance:
+*   2\. In fulfilling its obligations under paragraph 1 of this Article, each State Party shall take the following measures as soon as possible, taking into consideration the provisions of [Article 6][51] of this Convention regarding international cooperation and assistance:
         
     *   (a) Survey, assess and record the threat posed by cluster munition remnants, making every effort to identify all cluster munition contaminated areas under its jurisdiction or control;
     
@@ -729,13 +708,13 @@ International cooperation and assistance
 
 *   3\. Each State Party undertakes to facilitate and shall have the right to participate in the fullest possible exchange of equipment and scientific and technological information concerning the implementation of this Convention. The States Parties shall not impose undue restrictions on the provision and receipt of clearance and other such equipment and related technological information for humanitarian purposes.
 
-*   4\. In addition to any obligations it may have pursuant to paragraph 4 of [Article 4][55] of this Convention, each State Party in a position to do so shall provide assistance for clearance and destruction of cluster munition remnants and information concerning various means and technologies related to clearance of cluster munitions, as well as lists of experts, expert agencies or national points of contact on clearance and destruction of cluster munition remnants and related activities.
+*   4\. In addition to any obligations it may have pursuant to paragraph 4 of [Article 4][52] of this Convention, each State Party in a position to do so shall provide assistance for clearance and destruction of cluster munition remnants and information concerning various means and technologies related to clearance of cluster munitions, as well as lists of experts, expert agencies or national points of contact on clearance and destruction of cluster munition remnants and related activities.
 
-*   5\. Each State Party in a position to do so shall provide assistance for the destruction of stockpiled cluster munitions, and shall also provide assistance to identify, assess and prioritize needs and practical measures in terms of marking, risk reduction education, protection of civilians and clearance and destruction as provided in [Article 4][55] of this Convention.
+*   5\. Each State Party in a position to do so shall provide assistance for the destruction of stockpiled cluster munitions, and shall also provide assistance to identify, assess and prioritize needs and practical measures in terms of marking, risk reduction education, protection of civilians and clearance and destruction as provided in [Article 4][52] of this Convention.
 
 *   6\. Where, after entry into force of this Convention, cluster munitions have become cluster munition remnants located in areas under the jurisdiction or control of a State Party, each State Party in a position to do so shall urgently provide emergency assistance to the affected State Party.
 
-*   7\. Each State Party in a position to do so shall provide assistance for the implementation of the obligations referred to in [Article 5][56] of this Convention to adequately provide age- and gender-sensitive assistance, including medical care, rehabilitation and psychological support, as well as provide for social and economic inclusion of cluster munition victims. Such assistance may be provided, inter alia, through the United Nations system, international, regional or national organizations or institutions, the International Committee of the Red Cross, national Red Cross and Red Crescent Societies and their International Federation, non-governmental organizations or on a bilateral basis.
+*   7\. Each State Party in a position to do so shall provide assistance for the implementation of the obligations referred to in [Article 5][53] of this Convention to adequately provide age- and gender-sensitive assistance, including medical care, rehabilitation and psychological support, as well as provide for social and economic inclusion of cluster munition victims. Such assistance may be provided, inter alia, through the United Nations system, international, regional or national organizations or institutions, the International Committee of the Red Cross, national Red Cross and Red Crescent Societies and their International Federation, non-governmental organizations or on a bilateral basis.
 
 *   8\. Each State Party in a position to do so shall provide assistance to contribute to the economic and social recovery needed as a result of cluster munition use in affected States Parties.
 
@@ -766,33 +745,33 @@ Transparency measures
     
 *   1\. Each State Party shall report to the Secretary-General of the United Nations as soon as practicable, and in any event not later than 180 days after the entry into force of this Convention for that State Party, on:
         
-    *   (a) The national implementation measures referred to in Article 9 of this Convention;
+    *   (a) The national implementation measures referred to in [Article 9][54] of this Convention;
     
-    *   (b) The total of all cluster munitions, including explosive submunitions, referred to in paragraph 1 of Article 3 of this Convention, to include a breakdown of their type, quantity and, if possible, lot numbers of each type;
+    *   (b) The total of all cluster munitions, including explosive submunitions, referred to in paragraph 1 of [Article 3][55] of this Convention, to include a breakdown of their type, quantity and, if possible, lot numbers of each type;
     
     *   (c) The technical characteristics of each type of cluster munition produced by that State Party prior to entry into force of this Convention for it, to the extent known, and those currently owned or possessed by it, giving, where reasonably possible, such categories of information as may facilitate identification and clearance of cluster munitions; at a minimum, this information shall include the dimensions, fusing, explosive content, metallic content, colour photographs and other information that may facilitate the clearance of cluster munition remnants;
     
     *   (d) The status and progress of programmes for the conversion or decommissioning of production facilities for cluster munitions;
     
-    *   (e) The status and progress of programmes for the destruction, in accordance with Article 3 of this Convention, of cluster munitions, including explosive submunitions, with details of the methods that will be used in destruction, the location of all destruction sites and the applicable safety and environmental standards to be observed;
+    *   (e) The status and progress of programmes for the destruction, in accordance with [Article 3][55] of this Convention, of cluster munitions, including explosive submunitions, with details of the methods that will be used in destruction, the location of all destruction sites and the applicable safety and environmental standards to be observed;
     
-    *   (f) The types and quantities of cluster munitions, including explosive submunitions, destroyed in accordance with Article 3 of this Convention, including details of the methods of destruction used, the location of the destruction sites and the applicable safety and environmental standards observed;
+    *   (f) The types and quantities of cluster munitions, including explosive submunitions, destroyed in accordance with [Article 3][55] of this Convention, including details of the methods of destruction used, the location of the destruction sites and the applicable safety and environmental standards observed;
     
-    *   (g) Stockpiles of cluster munitions, including explosive submunitions, discovered after reported completion of the programme referred to in subparagraph (e) of this paragraph, and plans for their destruction in accordance with Article 3 of this Convention;
+    *   (g) Stockpiles of cluster munitions, including explosive submunitions, discovered after reported completion of the programme referred to in subparagraph (e) of this paragraph, and plans for their destruction in accordance with [Article 3][55] of this Convention;
     
     *   (h) To the extent possible, the size and location of all cluster munition contaminated areas under its jurisdiction or control, to include as much detail as possible regarding the type and quantity of each type of cluster munition remnant in each such area and when they were used;
     
-    *   (i) The status and progress of programmes for the clearance and destruction of all types and quantities of cluster munition remnants cleared and destroyed in accordance with Article 4 of this Convention, to include the size and location of the cluster munition contaminated area cleared and a breakdown of the quantity of each type of cluster munition remnant cleared and destroyed;
+    *   (i) The status and progress of programmes for the clearance and destruction of all types and quantities of cluster munition remnants cleared and destroyed in accordance with [Article 4][52] of this Convention, to include the size and location of the cluster munition contaminated area cleared and a breakdown of the quantity of each type of cluster munition remnant cleared and destroyed;
     
     *   (j) The measures taken to provide risk reduction education and, in particular, an immediate and effective warning to civilians living in cluster munition contaminated areas under its jurisdiction or control;
     
-    *   (k) The status and progress of implementation of its obligations under Article 5 of this Convention to adequately provide age- and gender-sensitive assistance, including medical care, rehabilitation and psychological support, as well as provide for social and economic inclusion of cluster munition victims and to collect reliable relevant data with respect to cluster munition victims;
+    *   (k) The status and progress of implementation of its obligations under [Article 5][53] of this Convention to adequately provide age- and gender-sensitive assistance, including medical care, rehabilitation and psychological support, as well as provide for social and economic inclusion of cluster munition victims and to collect reliable relevant data with respect to cluster munition victims;
     
     *   (l) The name and contact details of the institutions mandated to provide information and to carry out the measures described in this paragraph;
     
-    *   (m) The amount of national resources, including financial, material or in kind, allocated to the implementation of Articles 3, 4 and 5 of this Convention; and
+    *   (m) The amount of national resources, including financial, material or in kind, allocated to the implementation of [Articles 3][55], [4][52] and [5][53] of this Convention; and
     
-    *   (n) The amounts, types and destinations of international cooperation and assistance provided under Article 6 of this Convention.
+    *   (n) The amounts, types and destinations of international cooperation and assistance provided under [Article 6][51] of this Convention.
     
     
 
@@ -811,7 +790,7 @@ Facilitation and clarification of compliance
 
 *   4\. Pending the convening of any Meeting of States Parties, any of the States Parties concerned may request the Secretary-General of the United Nations to exercise his or her good offices to facilitate the clarification requested.
 
-*   5\. Where a matter has been submitted to it pursuant to paragraph 3 of this Article, the Meeting of States Parties shall first determine whether to consider that matter further, taking into account all information submitted by the States Parties concerned. If it does so determine, the Meeting of States Parties may suggest to the States Parties concerned ways and means further to clarify or resolve the matter under consideration, including the initiation of appropriate procedures in conformity with international law. In circumstances where the issue at hand is determined to be due to circumstances beyond the control of the requested State Party, the Meeting of States Parties may recommend appropriate measures, including the use of cooperative measures referred to in Article 6 of this Convention.
+*   5\. Where a matter has been submitted to it pursuant to paragraph 3 of this Article, the Meeting of States Parties shall first determine whether to consider that matter further, taking into account all information submitted by the States Parties concerned. If it does so determine, the Meeting of States Parties may suggest to the States Parties concerned ways and means further to clarify or resolve the matter under consideration, including the initiation of appropriate procedures in conformity with international law. In circumstances where the issue at hand is determined to be due to circumstances beyond the control of the requested State Party, the Meeting of States Parties may recommend appropriate measures, including the use of cooperative measures referred to in [Article 6][51] of this Convention.
 
 *   6\. In addition to the procedures provided for in paragraphs 2 to 5 of this Article, the Meeting of States Parties may decide to adopt such other general procedures or specific mechanisms for clarification of compliance, including facts, and resolution of instances of non-compliance with the provisions of this Convention as it deems appropriate.
 
@@ -836,13 +815,13 @@ Meetings of States Parties
     
     *   (b) Matters arising from the reports submitted under the provisions of this Convention;
     
-    *   (c) International cooperation and assistance in accordance with Article 6 of this Convention;
+    *   (c) International cooperation and assistance in accordance with [Article 6][51] of this Convention;
     
     *   (d) The development of technologies to clear cluster munition remnants;
     
-    *   (e) Submissions of States Parties under Articles 8 and 10 of this Convention; and
+    *   (e) Submissions of States Parties under [Articles 8][56] and [10][57] of this Convention; and
     
-    *   (f) Submissions of States Parties as provided for in Articles 3 and 4 of this Convention.
+    *   (f) Submissions of States Parties as provided for in [Articles 3][55] and [4][52] of this Convention.
     
     
 
@@ -859,9 +838,9 @@ Review Conferences
         
     *   (a) To review the operation and status of this Convention;
     
-    *   (b) To consider the need for and the interval between further Meetings of States Parties referred to in paragraph 2 of Article 11 of this Convention; and
+    *   (b) To consider the need for and the interval between further Meetings of States Parties referred to in paragraph 2 of [Article 11][58] of this Convention; and
     
-    *   (c) To take decisions on submissions of States Parties as provided for in Articles 3 and 4 of this Convention.
+    *   (c) To take decisions on submissions of States Parties as provided for in [Articles 3][55] and [4][52] of this Convention.
     
     
 
@@ -885,7 +864,7 @@ Costs and administrative tasks
     
 *   1\. The costs of the Meetings of States Parties, the Review Conferences and the Amendment Conferences shall be borne by the States Parties and States not party to this Convention participating therein, in accordance with the United Nations scale of assessment adjusted appropriately.
 
-*   2\. The costs incurred by the Secretary-General of the United Nations under Articles 7 and 8 of this Convention shall be borne by the States Parties in accordance with the United Nations scale of assessment adjusted appropriately.
+*   2\. The costs incurred by the Secretary-General of the United Nations under [Articles 7][59] and [8][56] of this Convention shall be borne by the States Parties in accordance with the United Nations scale of assessment adjusted appropriately.
 
 *   3\. The performance by the Secretary-General of the United Nations of administrative tasks assigned to him or her under this Convention is subject to an appropriate United Nations mandate.
 
@@ -913,7 +892,7 @@ Entry into force
 ## Article 18  
 Provisional application
 
-Any State may, at the time of its ratification, acceptance, approval or accession, declare that it will apply provisionally Article 1 of this Convention pending its entry into force for that State.
+Any State may, at the time of its ratification, acceptance, approval or accession, declare that it will apply provisionally [Article 1][50] of this Convention pending its entry into force for that State.
 
 ## Article 19  
 Reservations
@@ -936,7 +915,7 @@ Relations with States not party to this Convention
 
 *   2\. Each State Party shall notify the governments of all States not party to this Convention, referred to in paragraph 3 of this Article, of its obligations under this Convention, shall promote the norms it establishes and shall make its best efforts to discourage States not party to this Convention from using cluster munitions.
 
-*   3\. Notwithstanding the provisions of Article 1 of this Convention and in accordance with international law, States Parties, their military personnel or nationals, may engage in military cooperation and operations with States not party to this Convention that might engage in activities prohibited to a State Party.
+*   3\. Notwithstanding the provisions of [Article 1][50] of this Convention and in accordance with international law, States Parties, their military personnel or nationals, may engage in military cooperation and operations with States not party to this Convention that might engage in activities prohibited to a State Party.
 
 *   4\. Nothing in paragraph 3 of this Article shall authorize a State Party:
         
@@ -960,92 +939,81 @@ Authentic texts
 
 The Arabic, Chinese, English, French, Russian and Spanish texts of this Convention shall be equally authentic.
 
-#### 
+---
+
+## Legislative history
+
+21 July 2009Introduction (Bill 52--1)
+
+28 July 2009First reading and referral to Foreign Affairs, Defence and Trade Committee
+
+30 November 2009Reported from Foreign Affairs, Defence and Trade Committee (Bill 52--2)
+
+10 December 2009Second reading, third reading
+
+17 December 2009Royal assent
 
 ---
 
-##### Reprints notes
+This Act is administered by the Ministry of Foreign Affairs and Trade.
 
-###### 1 General
-    
-*   This is a reprint of the Cluster Munitions Prohibition Act 2009 that incorporates all the amendments to that Act as at the date of the last amendment to it.
-
-###### 2 Legal status
-    
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][57] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][58] of that Act.
-
-###### 3 Editorial and format changes
-    
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][59] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][60] ![](/images/external_link.gif).
-
-###### 4 Amendments incorporated in this reprint
-    
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][45]
-    
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][41]
-    
-    [Cluster Munitions Prohibition Act Commencement Order 2010][28] (SR 2010/157)
-
-
-
-[0]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM2998524
-[1]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171618
-[2]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171619
-[3]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171620
-[4]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171621
-[5]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171622
-[6]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171623
-[7]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2453500
-[8]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171664
-[9]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171666
-[10]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171667
-[11]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171669
-[12]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171670
-[13]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171671
-[14]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171672
-[15]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2453502
-[16]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171673
-[17]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171674
-[18]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171675
-[19]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171676
-[20]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171677
-[21]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171678
-[22]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171679
-[23]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171680
-[24]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2590903
-[25]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171681
-[26]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171682
-[27]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171685
-[28]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM3004754
-[29]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM204978
-[30]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2172400
-[31]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM377342
-[32]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM381228
-[33]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM17808
-[34]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM1102132
-[35]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM328024
-[36]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM328038
-[37]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM328042
-[38]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM17800
-[39]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM72621
-[40]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM381221
-[41]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM3360714
-[42]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM379566
-[43]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM378459
-[44]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM2997643
-[45]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM2998633
-[46]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM332165
-[47]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM195097
-[48]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM195534
-[49]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM72627
-[50]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM72679
-[51]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM72687
-[52]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM72906
-[53]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM72934
-[54]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM72961
-[55]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171691
-[56]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171692
-[57]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM2998516
-[58]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM2998515
-[59]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM2998532
-[60]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[0]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171618
+[1]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171619
+[2]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171620
+[3]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171621
+[4]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171622
+[5]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171623
+[6]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2453500
+[7]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171664
+[8]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171666
+[9]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171667
+[10]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171669
+[11]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171670
+[12]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171671
+[13]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171672
+[14]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2453502
+[15]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171673
+[16]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171674
+[17]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171675
+[18]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171676
+[19]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171677
+[20]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171678
+[21]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171679
+[22]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171680
+[23]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2590903
+[24]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171681
+[25]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171682
+[26]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171685
+[27]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM204978
+[28]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2172400
+[29]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM377342
+[30]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM381228
+[31]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM17808
+[32]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM1102132
+[33]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM328024
+[34]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM328038
+[35]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM328042
+[36]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM17800
+[37]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM72621
+[38]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM381221
+[39]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM379566
+[40]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM378459
+[41]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM195097
+[42]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM195534
+[43]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM332165
+[44]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM72627
+[45]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM72679
+[46]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM72687
+[47]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM72906
+[48]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM72934
+[49]: http://www.legislation.govt.nz/act/public/2009/0068/latest/link.aspx?id=DLM72961
+[50]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171688
+[51]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171693
+[52]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171691
+[53]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171692
+[54]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171696
+[55]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171690
+[56]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171695
+[57]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171697
+[58]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171698
+[59]: http://www.legislation.govt.nz/act/public/2009/0068/latest/whole.html#DLM2171694
