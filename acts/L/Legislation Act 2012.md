@@ -13,7 +13,7 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -278,7 +278,7 @@ The Parliament of New Zealand enacts as follows:
     
     Section 2(2)(a): subparts 1 and 2 of Part 2, Part 3, section 77(2), (3), (4), (6), and (7), and the Schedule (except the item relating to the Biosecurity Act 1993) brought into force, on 5 August 2013, by the [Legislation Act Commencement Order 2013][115] (SR 2013/242).
     
-    Section 2(2)(a): the item relating to the Biosecurity Act 1993 in the Schedule brought into force, on 1 February 2014, by the [Legislation Act Commencement Order (No 2) 2013][116].(SR 2013/479).
+    Section 2(2)(a): the item relating to the Biosecurity Act 1993 in the Schedule brought into force, on 1 February 2014, by the [Legislation Act Commencement Order (No 2) 2013][116] (SR 2013/479).
 
 ## Part 1  
 General provisions
@@ -1957,7 +1957,7 @@ Replace [section 137(2)][233] with:
 > 
 > 
 
-In [section 138][234], replace ""the Regulations (Disallowance) Act 1989"" with ""Part 3 of the Legislation Act 2012"" in each place. 
+In [section 138][234], replace ""the Regulations (Disallowance) Act 1989"" with ""Part 3 of the Legislation Act 2012"" in each place.
 
 Replace [section 142S(1) and (2)][235] with:
 
@@ -4375,7 +4375,7 @@ Schedule: amended, on 24 May 2013, by [section 65][671] of the Crown Minerals Am
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][672] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][673] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][672] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][673] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
