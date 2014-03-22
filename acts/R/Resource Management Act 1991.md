@@ -1,5 +1,5 @@
 Reprint  
-as at 1 January 2014
+as at 20 March 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -26311,6 +26311,8 @@ Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement A
 
 Pouakani Claims Settlement Act 2000
 
+Raukawa Claims Settlement Act 2014
+
 Rongowhakaata Claims Settlement Act 2012
 
 Te Arawa Lakes Settlement Act 2006
@@ -26341,11 +26343,12 @@ Waitaha Claims Settlement Act 2013
 *   Schedule 11 Ngāti Whātua Ōrākei Claims Settlement Act 2012: inserted, on 1 February 2013, by [section 41][2098] of the Ngāti Whātua Ōrākei Claims Settlement Act 2012 (2012 No 91).
 *   Schedule 11 Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement Act 2009: inserted, on 5 August 2009, by [section 36][2099] of the Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement Act 2009 (2009 No 26).
 *   Schedule 11 Pouakani Claims Settlement Act 2000: inserted, on 1 March 2001, by [section 51][2100] of the Pouakani Claims Settlement Act 2000 (2000 No 90).
-*   Schedule 11 Rongowhakaata Claims Settlement Act 2012: inserted, on 1 August 2012, by [section 43][2101] of the Rongowhakaata Claims Settlement Act 2012 (2012 No 54).
-*   Schedule 11 Te Arawa Lakes Settlement Act 2006: inserted, on 26 September 2006, by [section 70][2102] of the Te Arawa Lakes Settlement Act 2006 (2006 No 43).
-*   Schedule 11 Te Roroa Claims Settlement Act 2008: inserted, on 30 September 2008, by [section 81][2103] of the Te Roroa Claims Settlement Act 2008 (2008 No 100).
+*   Schedule 11 Raukawa Claims Settlement Act 2014: inserted, on 20 March 2014, by [section 41][2101] of the Raukawa Claims Settlement Act 2014 (2014 No 7).
+*   Schedule 11 Rongowhakaata Claims Settlement Act 2012: inserted, on 1 August 2012, by [section 43][2102] of the Rongowhakaata Claims Settlement Act 2012 (2012 No 54).
+*   Schedule 11 Te Arawa Lakes Settlement Act 2006: inserted, on 26 September 2006, by [section 70][2103] of the Te Arawa Lakes Settlement Act 2006 (2006 No 43).
+*   Schedule 11 Te Roroa Claims Settlement Act 2008: inserted, on 30 September 2008, by [section 81][2104] of the Te Roroa Claims Settlement Act 2008 (2008 No 100).
 *   Schedule 11 Te Uri o Hau Claims Settlement Act 2002: inserted, on 18 October 2002, by [section 74][2100] of Te Uri o Hau Claims Settlement Act 2002 (2002 No 36).
-*   Schedule 11 Waitaha Claims Settlement Act 2013: inserted, on 13 June 2013, by [section 40][2104] of the Waitaha Claims Settlement Act 2013 (2013 No 38).
+*   Schedule 11 Waitaha Claims Settlement Act 2013: inserted, on 13 June 2013, by [section 40][2105] of the Waitaha Claims Settlement Act 2013 (2013 No 38).
 
 ---
 
@@ -26354,7 +26357,7 @@ Transitional provisions for amendments made on or after commencement of Resource
 
 [s 434][907]
 
-*   Schedule 12: replaced, on 4 September 2013, by [section 68][2105] of the Resource Management Amendment Act 2013 (2013 No 63).
+*   Schedule 12: replaced, on 4 September 2013, by [section 68][2106] of the Resource Management Amendment Act 2013 (2013 No 63).
 
 ##### 1 Interpretation
     
@@ -26362,7 +26365,7 @@ Transitional provisions for amendments made on or after commencement of Resource
 
 ##### 2 Existing section 32 applies to some proposed policy statements and plans
     
-*   If [Part 2][2106] of the amendment Act comes into force on or after the date of the last day for making further submissions on a proposed policy statement or plan (as publicly notified in accordance with [clause 7(1)(d)][1524] of Schedule 1), the further evaluation for that proposed policy statement or plan must be undertaken as if Part 2 had not come into force.
+*   If [Part 2][2107] of the amendment Act comes into force on or after the date of the last day for making further submissions on a proposed policy statement or plan (as publicly notified in accordance with [clause 7(1)(d)][1524] of Schedule 1), the further evaluation for that proposed policy statement or plan must be undertaken as if Part 2 had not come into force.
 
 ##### 3 National policy statements
     
@@ -26370,13 +26373,13 @@ Transitional provisions for amendments made on or after commencement of Resource
 
 ##### 4 Existing rules providing for protection of trees
     
-*   (1) An existing rule or part of a rule in a district plan or proposed district plan that complied with [section 76(4A)][173] immediately before its amendment by the amendment Act is revoked, without further authority than this section, on the day that is 24 months after the date on which [Part 1][2107] of the amendment Act comes into force.
+*   (1) An existing rule or part of a rule in a district plan or proposed district plan that complied with [section 76(4A)][173] immediately before its amendment by the amendment Act is revoked, without further authority than this section, on the day that is 24 months after the date on which [Part 1][2108] of the amendment Act comes into force.
     
     (2) Subclause (1) applies unless the rule or part of the rule complies with [section 76(4A) and (4B)][173] as inserted by the amendment Act.
 
 ##### 5 Certain new rules providing for protection of trees may take effect once plan change notified
     
-*   (1) Subclause (2) applies if, before the date referred to in [clause 4(1)][2108],---
+*   (1) Subclause (2) applies if, before the date referred to in [clause 4(1)][2109],---
         
     *   (a) a territorial authority has made a rule, or amended a rule, so that it complies with [section 76(4A) and (4B)][173] as inserted by the amendment Act; and
     
@@ -26384,7 +26387,7 @@ Transitional provisions for amendments made on or after commencement of Resource
     
     *   (c) the proposed plan or change containing the rule has been notified.
     
-    (2) The rule has legal effect on and from the date referred to in [clause 4(1)][2108].
+    (2) The rule has legal effect on and from the date referred to in [clause 4(1)][2109].
 
 ##### 6 Proposals of national significance
     
@@ -26428,7 +26431,7 @@ Transitional provisions for amendments made on or after commencement of Resource
     
     (3) Subclauses (1) and (2) also apply as if a requirement to alter a designation or heritage order were a requirement for a designation or heritage order.
     
-    (4) This clause is subject to [clause 6][2109].
+    (4) This clause is subject to [clause 6][2110].
 
 ##### 8 Applications and matters
     
@@ -26454,9 +26457,9 @@ Transitional provisions for amendments made on or after commencement of Resource
     
     (3) The application or matter must be determined as if the amendment had not been made.
     
-    (4) This clause is subject to [clauses 6][2109] and [7][2110].
+    (4) This clause is subject to [clauses 6][2110] and [7][2111].
     
-    (5) This clause does not apply to an amendment made by [Part 2][2106] of the amendment Act.
+    (5) This clause does not apply to an amendment made by [Part 2][2107] of the amendment Act.
 
 ##### 9 Enforcement proceedings
     
@@ -26478,7 +26481,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Resource Management Amendment Act 2003][2111].
+*   (1) This Act is the [Resource Management Amendment Act 2003][2112].
     
     (2) In this Act, the Resource Management Act 1991 is called ""the principal Act"".
 
@@ -26545,7 +26548,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Resource Management (Energy and Climate Change) Amendment Act 2004][2112].
+*   (1) This Act is the [Resource Management (Energy and Climate Change) Amendment Act 2004][2113].
     
     (2) In this Act, the Resource Management Act 1991 is called ""the principal Act"".
 
@@ -26609,7 +26612,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Resource Management (Foreshore and Seabed) Amendment Act 2004][2113].
+*   (1) This Act is the [Resource Management (Foreshore and Seabed) Amendment Act 2004][2114].
     
     (2) In this Act, the Resource Management Act 1991 is called ""the principal Act"".
 
@@ -26681,7 +26684,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Resource Management Amendment Act 2005][2114].
+*   (1) This Act is the [Resource Management Amendment Act 2005][2115].
     
     (2) In this Act, the Resource Management Act 1991 is called ""the principal Act"".
 
@@ -26815,7 +26818,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Resource Management (Simplifying and Streamlining) Amendment Act 2009][2115].
+*   This Act is the [Resource Management (Simplifying and Streamlining) Amendment Act 2009][2116].
 
 ##### 2 Commencement
     
@@ -27026,17 +27029,19 @@ Transitional provisions and amendments to other enactments
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][2116] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][2117] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][2117] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][2118] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][2118] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][2119] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][2119] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][2120] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Resource Management Amendment Act 2013 (2013 No 63): [Parts 1][2107], [2][2106]
+*   Raukawa Claims Settlement Act 2014 (2014 No 7): [section 41][2101]
     
-    Waitaha Claims Settlement Act 2013 (2013 No 38): [section 40][2104]
+    Resource Management Amendment Act 2013 (2013 No 63): [Parts 1][2108], [2][2107]
+    
+    Waitaha Claims Settlement Act 2013 (2013 No 38): [section 40][2105]
     
     Ngāti Whātua o Kaipara Claims Settlement Act 2013 (2013 No 37): [section 71][2097]
     
@@ -27054,7 +27059,7 @@ Transitional provisions and amendments to other enactments
     
     Ngai Tāmanuhiri Claims Settlement Act 2012 (2012 No 55): [section 40][2084]
     
-    Rongowhakaata Claims Settlement Act 2012 (2012 No 54): [section 43][2101]
+    Rongowhakaata Claims Settlement Act 2012 (2012 No 54): [section 43][2102]
     
     Ngāti Mākino Claims Settlement Act 2012 (2012 No 53): [section 36][2087]
     
@@ -27072,9 +27077,9 @@ Transitional provisions and amendments to other enactments
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][1733]
     
-    [Resource Management Amendment Act (No 2) 2011][2120] (2011 No 70)
+    [Resource Management Amendment Act (No 2) 2011][2121] (2011 No 70)
     
-    [Resource Management Amendment Act 2011][2121] (2011 No 19)
+    [Resource Management Amendment Act 2011][2122] (2011 No 19)
     
     Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3): [section 128][971]
     
@@ -27088,15 +27093,15 @@ Transitional provisions and amendments to other enactments
     
     Corrections (Use of Court Cells) Amendment Act 2009 (2009 No 60): [section 5][1005]
     
-    [Resource Management (Simplifying and Streamlining) Amendment Act 2009][2115] (2009 No 31)
+    [Resource Management (Simplifying and Streamlining) Amendment Act 2009][2116] (2009 No 31)
     
     Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement Act 2009 (2009 No 26): [section 36][2099]
     
-    Te Roroa Claims Settlement Act 2008 (2008 No 100): [section 81][2103]
+    Te Roroa Claims Settlement Act 2008 (2008 No 100): [section 81][2104]
     
     Affiliate Te Arawa Iwi and Hapu Claims Settlement Act 2008 (2008 No 98): [section 48][2081]
     
-    [Resource Management Amendment Act 2008][2122] (2008 No 95)
+    [Resource Management Amendment Act 2008][2123] (2008 No 95)
     
     Policing Act 2008 (2008 No 72): [sections 116(a)(ii), (iv)][1710], [130(1)][982]
     
@@ -27106,17 +27111,17 @@ Transitional provisions and amendments to other enactments
     
     Property Law Act 2007 (2007 No 91): [section 364(1)][1036]
     
-    [Resource Management Amendment Act 2007][2123] (2007 No 77)
+    [Resource Management Amendment Act 2007][2124] (2007 No 77)
     
-    Ngāti Mutunga Claims Settlement Act 2006 (2006 No 61): [sections 62][2090], [98][2124]
+    Ngāti Mutunga Claims Settlement Act 2006 (2006 No 61): [sections 62][2090], [98][2125]
     
-    Te Arawa Lakes Settlement Act 2006 (2006 No 43): [section 70][2102]
+    Te Arawa Lakes Settlement Act 2006 (2006 No 43): [section 70][2103]
     
     Summary Proceedings Amendment Act 2006 (2006 No 13): [section 36][1823]
     
-    [Resource Management Amendment Act 2005][2114] (2005 No 87)
+    [Resource Management Amendment Act 2005][2115] (2005 No 87)
     
-    Ngaa Rauru Kiitahi Claims Settlement Act 2005 (2005 No 84): [sections 57][2083], [112][2125]
+    Ngaa Rauru Kiitahi Claims Settlement Act 2005 (2005 No 84): [sections 57][2083], [112][2126]
     
     Ngāti Tuwharetoa (Bay of Plenty) Claims Settlement Act 2005 (2005 No 72): [section 63][2095]
     
@@ -27126,21 +27131,21 @@ Transitional provisions and amendments to other enactments
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][1567]
     
-    [Resource Management Amendment Act (No 2) 2004][2126] (2004 No 103)
+    [Resource Management Amendment Act (No 2) 2004][2127] (2004 No 103)
     
     Maritime Transport Amendment Act 2004 (2004 No 98): [section 11(3)][984]
     
-    [Resource Management (Foreshore and Seabed) Amendment Act 2004][2113] (2004 No 94)
+    [Resource Management (Foreshore and Seabed) Amendment Act 2004][2114] (2004 No 94)
     
     Building Act 2004 (2004 No 72): [section 414][1022]
     
     Local Government (Rating) Amendment Act 2004 (2004 No 66): [section 13][2020]
     
-    [Resource Management Amendment Act 2004][2127] (2004 No 46)
+    [Resource Management Amendment Act 2004][2128] (2004 No 46)
     
-    [Resource Management (Aquaculture Moratorium Extension) Amendment Act 2004][2128] (2004 No 5)
+    [Resource Management (Aquaculture Moratorium Extension) Amendment Act 2004][2129] (2004 No 5)
     
-    [Resource Management (Energy and Climate Change) Amendment Act 2004][2112] (2004 No 2)
+    [Resource Management (Energy and Climate Change) Amendment Act 2004][2113] (2004 No 2)
     
     Ngati Tama Claims Settlement Act 2003 (2003 No 126): [section 71][2094]
     
@@ -27148,7 +27153,7 @@ Transitional provisions and amendments to other enactments
     
     State Sector Amendment Act 2003 (2003 No 41): [section 14(1)][1685]
     
-    [Resource Management Amendment Act 2003][2111] (2003 No 23)
+    [Resource Management Amendment Act 2003][2112] (2003 No 23)
     
     Ngati Ruanui Claims Settlement Act 2003 (2003 No 20): [section 107][2093]
     
@@ -27164,11 +27169,11 @@ Transitional provisions and amendments to other enactments
     
     Local Government (Rating) Act 2002 (2002 No 6): [section 138(1)][991]
     
-    [Resource Management (Aquaculture Moratorium) Amendment Act 2002][2129] (2002 No 5)
+    [Resource Management (Aquaculture Moratorium) Amendment Act 2002][2130] (2002 No 5)
     
     Telecommunications Act 2001 (2001 No 103): [section 158][1532], [159(8)][1970]
     
-    Summit Road (Canterbury) Protection Act 2001 (2001 No 3 (L)): [section 36][2130]
+    Summit Road (Canterbury) Protection Act 2001 (2001 No 3 (L)): [section 36][2131]
     
     Pouakani Claims Settlement Act 2000 (2000 No 90): [section 51][2100]
     
@@ -27184,13 +27189,13 @@ Transitional provisions and amendments to other enactments
     
     Ratings Valuations Act 1998 (1998 No 69): sections 53, [54(1)][1651]
     
-    [Resource Management Amendment Act 1997][2131] (1997 No 104)
+    [Resource Management Amendment Act 1997][2132] (1997 No 104)
     
     Ministries of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100): [section 5(1)(c)][1136]
     
     Crown Minerals Amendment Act (No 2) 1997 (1997 No 91): [section 4(2)][989] 
     
-    [Resource Management Amendment Act 1996][2132] (1996 No 160)
+    [Resource Management Amendment Act 1996][2133] (1996 No 160)
     
     Fisheries Act 1996 (1996 No 88): [section 316(1)][1227]
     
@@ -27204,13 +27209,13 @@ Transitional provisions and amendments to other enactments
     
     Foreshore and Seabed Endowment Revesting Amendment Act 1994 (1994 No 113): section 4
     
-    [Resource Management Amendment Act 1994][2133] (1994 No 105)
+    [Resource Management Amendment Act 1994][2134] (1994 No 105)
     
     Otago Regional Council (Kuriwao Endowment Lands) Act 1994 (1994 No 4 (L)): [section 22(1)(c)][2077]
     
     Land Transfer Amendment Act 1993 (1993 No 124): [section 4][981]
     
-    [Resource Management Amendment Act 1993][2134] (1993 No 65)
+    [Resource Management Amendment Act 1993][2135] (1993 No 65)
     
     Historic Places Act 1993 (1993 No 38): [section 118(1), (2)][1226]
     
@@ -29327,37 +29332,38 @@ Transitional provisions and amendments to other enactments
 [2098]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM4326157
 [2099]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM1525909
 [2100]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM80024
-[2101]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM4321847
-[2102]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM381993
-[2103]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM1132566
-[2104]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM4732523
-[2105]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM5463582
-[2106]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM5463902
-[2107]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM5463901
-[2108]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM5600411
-[2109]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM5600413
-[2110]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM5600414
-[2111]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM194996
-[2112]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM237583
-[2113]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM320711
-[2114]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM359901
-[2115]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218400
-[2116]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2998516
-[2117]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2998515
-[2118]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2998532
-[2119]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[2120]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959714
-[2121]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3719702
-[2122]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM1629437
-[2123]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM968504
-[2124]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM392118
-[2125]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM359747
-[2126]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323782
-[2127]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM294350
-[2128]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM238641
-[2129]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM131351
-[2130]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM85797
-[2131]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM419391
-[2132]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM407454
-[2133]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM339995
-[2134]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM302692
+[2101]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM5323587
+[2102]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM4321847
+[2103]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM381993
+[2104]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM1132566
+[2105]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM4732523
+[2106]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM5463582
+[2107]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM5463902
+[2108]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM5463901
+[2109]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM5600411
+[2110]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM5600413
+[2111]: http://www.legislation.govt.nz/act/public/1991/0069/latest/whole.html#DLM5600414
+[2112]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM194996
+[2113]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM237583
+[2114]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM320711
+[2115]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM359901
+[2116]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2218400
+[2117]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2998516
+[2118]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2998515
+[2119]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM2998532
+[2120]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[2121]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3959714
+[2122]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM3719702
+[2123]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM1629437
+[2124]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM968504
+[2125]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM392118
+[2126]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM359747
+[2127]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM323782
+[2128]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM294350
+[2129]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM238641
+[2130]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM131351
+[2131]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM85797
+[2132]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM419391
+[2133]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM407454
+[2134]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM339995
+[2135]: http://www.legislation.govt.nz/act/public/1991/0069/latest/link.aspx?id=DLM302692
