@@ -6568,7 +6568,7 @@ Appeals, reviews, and other proceedings
         
     *   (a) against any liability for deportation arising from the expiry or cancellation of a limited visa; or
     
-    *   (b) if he or she is a person to whom [section 210(2)][251] or [216(2)][268] applies; or
+    *   (b) if he or she is a person to whom [section 210(2)][262] or [216(2)][268] applies; or
     
     *   (c) whose liability for deportation arises by way of a deportation order under [section 163][203].
     
