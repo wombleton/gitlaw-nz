@@ -4055,7 +4055,7 @@ Sole parent support
     
 *   A person who has been granted and receives sole parent support under [section 20D][71] must---
         
-    *   (a) comply with any obligation arising under [section 60Q][207]; and
+    *   (a) comply with any obligation arising under [section 60Q][209]; and
     
     *   (b) if he or she is a person to whom [section 60RA][211] applies, comply with the person's social obligations under section 60RA(3); and
     
