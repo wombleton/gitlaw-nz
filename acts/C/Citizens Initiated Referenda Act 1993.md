@@ -1,5 +1,5 @@
 Reprint  
-as at 1 January 2014
+as at 25 March 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -1629,9 +1629,8 @@ An Electoral Commissioner, on behalf of the Electoral Commission, is required---
 
 Signed by Her Excellency the Governor-General at \[_place_\] on \[_date_\].
 
-Signature of Minister of Justice:
-    
 *   Form 2: substituted, on 28 February 2002, by [section 101(2)][100] of the Electoral Amendment Act 2002 (2002 No 1).
+*   Form 2: amended, on 25 March 2014, by [section 48(2)][202] of the Electoral Amendment Act 2014 (2014 No 8).
 *   Form 2: amended, on 1 October 2010, by [section 32(1)(b)][99] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
 *   Form 2: amended, on 1 October 2010, by [section 32(2)(b)][99] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
 
@@ -1656,9 +1655,8 @@ An Electoral Commissioner, on behalf of the Electoral Commission, is required---
 
 Signed by Her Excellency the Governor-General at \[_place_\] on \[_date_\].
 
-Signature of Minister of Justice:
-    
 *   Form 2A: substituted, on 28 February 2002, by [section 101(2)][100] of the Electoral Amendment Act 2002 (2002 No 1).
+*   Form 2A: amended, on 25 March 2014, by [section 48(3)][202] of the Electoral Amendment Act 2014 (2014 No 8).
 *   Form 2A: amended, on 1 October 2010, by [section 32(1)(b)][99] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
 *   Form 2A: amended, on 1 October 2010, by [section 32(2)(b)][99] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
 
@@ -1805,7 +1803,7 @@ In the matter of an indicative referendum held on \[_date_\] on \[_describe ques
 
 NameAddressElectoral DistrictSignature
 
-*   Form 6: substituted, on 15 November 2000, by [section 102(2)][202] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+*   Form 6: substituted, on 15 November 2000, by [section 102(2)][203] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 #### 
 
@@ -1819,17 +1817,19 @@ NameAddressElectoral DistrictSignature
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][203] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][204] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][204] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][205] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][205] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][206] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][206] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][207] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][101]
+*   Electoral Amendment Act 2014 (2014 No 8): [section 48][202]
     
-    [Citizens Initiated Referenda Amendment Act 2012][207] (2012 No 5)
+    Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][101]
+    
+    [Citizens Initiated Referenda Amendment Act 2012][208] (2012 No 5)
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][182]
     
@@ -1845,7 +1845,7 @@ NameAddressElectoral DistrictSignature
     
     Electoral Amendment Act 2002 (2002 No 1): [section 101(2)][100]
     
-    Referenda (Postal Voting) Act 2000 (2000 No 48): [Part 9][208]
+    Referenda (Postal Voting) Act 2000 (2000 No 48): [Part 9][209]
     
     Citizens Initiated Referenda Amendment Act 1995 (1995 No 62)
     
@@ -2057,10 +2057,11 @@ NameAddressElectoral DistrictSignature
 [199]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM431204
 [200]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM144692
 [201]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75065
-[202]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75067
-[203]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM2998516
-[204]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM2998515
-[205]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM2998532
-[206]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[207]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM4013800
-[208]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM74678
+[202]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM5559859
+[203]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75067
+[204]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM2998516
+[205]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM2998515
+[206]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM2998532
+[207]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[208]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM4013800
+[209]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM74678
