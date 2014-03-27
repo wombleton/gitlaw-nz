@@ -1,7 +1,7 @@
 Reprint  
-as at 26 April 2005
+as at 25 March 2014
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Families Commission Act 2003Public Act2003 No 128
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Social Development.
 
@@ -23,213 +23,223 @@ This Act is administered by the Ministry of Social Development.
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
 [Part 1][2]  
 [Families Commission][2]
 
 [Preliminary matters][3]
 
-[2][4] [Commencement][4]
+[2][4][][4][Commencement][4]
 
-[3][5] [Purpose of this Act][5]
+[3][5][][5][Purpose of this Act][5]
 
-[4][6] [Interpretation][6]
+[4][6][][6][Interpretation][6]
 
-[5][7] [Act binds the Crown][7]
+[5][7][][7][Act binds the Crown][7]
 
 [Establishment of Commission][8]
 
-[6][9] [Commission established][9]
+[6][9][][9][Commission established][9]
 
 [Commission's functions][10]
 
-[7][11] [Commission's main function][11]
+[7][11][][11][Commission's main functions][11]
 
-[8][12] [Commission's additional functions][12]
+[8][12][][12][Commission's advocacy function][12]
 
-[Other matters to which Commission must have regard][13]
+[8A][13][][13][Commission's monitoring, evaluation, and research function][13]
 
-[9][14] [Government policy and priorities][14] \[Repealed\]
+[Other matters to which Commission must have regard][14]
 
-[10][15] [Diversity of New Zealand families][15]
+[9][15][][15][Government policy and priorities][15] \[Repealed\]
 
-[11][16] [Needs, values, and beliefs of particular groups][16]
+[10][16][][16][Diversity of New Zealand families][16]
 
-[12][17] [Relevant international obligations][17]
+[11][17][][17][Needs, values, and beliefs of particular groups][17]
 
-[Obligation to obtain views of specified groups][18]
+[12][18][][18][Relevant international obligations][18]
 
-[13][19] [Mechanisms for obtaining views of specified groups][19]
+[Obligation to obtain views of specified groups][19]
 
-[Commission's power to refer communications to others][20]
+[13][20][][20][Mechanisms for obtaining views of specified groups][20]
 
-[14][21] [Referral to other official bodies or to statutory officers][21]
+[Commission's power to refer communications to others][21]
 
-[Nature and membership of Commission, and board's role][22]
+[14][22][][22][Referral to other official bodies or to statutory officers][22]
 
-[15][23] [Commission is body corporate][23] \[Repealed\]
+[Members of Commission][23]
 
-[16][24] [Capacity and powers][24] \[Repealed\]
+[15][24][][24][Commission is body corporate][24] \[Repealed\]
 
-[17][25] [Commission is Crown entity][25]
+[16][25][][25][Capacity and powers][25] \[Repealed\]
 
-[18][26] [Membership of Commission][26]
+[17][26][][26][Commission is Crown entity][26] \[Repealed\]
 
-[19][27] [Board's role][27] \[Repealed\]
+[18][27][][27][Membership of Commission][27]
 
-[20][28] [Further provisions relating to members and board][28] \[Repealed\]
+[18A][28][][28][Families Commissioner][28]
 
-[21][29] [Accountability of members to Minister][29] \[Repealed\]
+[Social Science Experts Panel][29]
 
-[Minister's role][30]
+[18B][30][][30][Social Science Experts Panel][30]
 
-\[Repealed\]
+[18C][31][][31][Membership of Social Science Experts Panel][31]
 
-[22][31] [Minister's role][31] \[Repealed\]
+[19][32][][32][Board's role][32] \[Repealed\]
 
-[23][32] [Minister accountable to House of Representatives][32] \[Repealed\]
+[20][33][][33][Further provisions relating to members and board][33] \[Repealed\]
 
-[Delegation by board][33]
+[21][34][][34][Accountability of members to Minister][34] \[Repealed\]
 
-\[Repealed\]
-
-[24][34] [Ability to delegate][34] \[Repealed\]
-
-[25][35] [Effect of delegation][35] \[Repealed\]
-
-[26][36] [Delegate presumed to act in accordance with delegation][36] \[Repealed\]
-
-[27][37] [Other matters relating to delegation][37] \[Repealed\]
-
-[Committees of board][38]
+[Minister's role][35]
 
 \[Repealed\]
 
-[28][39] [Board may appoint committees][39] \[Repealed\]
+[22][36][][36][Minister's role][36] \[Repealed\]
 
-[29][40] [Membership of committee][40] \[Repealed\]
+[23][37][][37][Minister accountable to House of Representatives][37] \[Repealed\]
 
-[30][41] [Committee to regulate own procedure][41] \[Repealed\]
-
-[Chief Executive of Commission][42]
-
-[31][43] [Appointment of chief executive][43]
-
-[32][44] [Terms and conditions of chief executive's employment][44] \[Repealed\]
-
-[33][45] [Delegation of powers or functions by chief executive][45] \[Repealed\]
-
-[Employees of Commission][46]
+[Delegation by board][38]
 
 \[Repealed\]
 
-[34][47] [Personnel policy: Commission to be good employer][47] \[Repealed\]
+[24][39][][39][Ability to delegate][39] \[Repealed\]
 
-[35][48] [Establishment of superannuation schemes][48] \[Repealed\]
+[25][40][][40][Effect of delegation][40] \[Repealed\]
 
-[36][49] [Employees not in service of the Crown][49] \[Repealed\]
+[26][41][][41][Delegate presumed to act in accordance with delegation][41] \[Repealed\]
 
-[Corruption and bribery, and corrupt use of official information][50]
+[27][42][][42][Other matters relating to delegation][42] \[Repealed\]
 
-\[Repealed\]
-
-[37][51] [Members and employees are officials][51] \[Repealed\]
-
-[Protections from liability of members and employees][52]
+[Committees of board][43]
 
 \[Repealed\]
 
-[38][53] [Protections for members and employees from liabilities of Commission][53] \[Repealed\]
+[28][44][][44][Board may appoint committees][44] \[Repealed\]
 
-[39][54] [Immunity of members and employees from civil liability to third parties][54] \[Repealed\]
+[29][45][][45][Membership of committee][45] \[Repealed\]
 
-[40][55] [Indemnity for members and employees for costs from civil and criminal proceedings][55] \[Repealed\]
+[30][46][][46][Committee to regulate own procedure][46] \[Repealed\]
 
-[41][56] [Insurance for members and employees][56] \[Repealed\]
+[Chief Executive of Commission][47]
 
-[42][57] [Saving of judicial protections from liability][57] \[Repealed\]
+[31][48][][48][Appointment of chief executive][48]
 
-[43][58] [Breach of indemnity and insurance limits][58] \[Repealed\]
+[32][49][][49][Terms and conditions of chief executive's employment][49] \[Repealed\]
 
-[44][59] [Definitions for protections from liability][59] \[Repealed\]
+[33][50][][50][Delegation of powers or functions by chief executive][50] \[Repealed\]
 
-[Dealings with third parties by Commission][60]
-
-\[Repealed\]
-
-[45][61] [Method of contracting][61] \[Repealed\]
-
-[46][62] [Common seal][62] \[Repealed\]
-
-[47][63] [Attorneys][63] \[Repealed\]
-
-[48][64] [Dealings between Commission and other persons][64] \[Repealed\]
-
-[Financial provisions][65]
+[Employees of Commission][51]
 
 \[Repealed\]
 
-[49][66] [Commission's funds][66] \[Repealed\]
+[34][52][][52][Personnel policy: Commission to be good employer][52] \[Repealed\]
 
-[50][67] [Bank accounts][67] \[Repealed\]
+[35][53][][53][Establishment of superannuation schemes][53] \[Repealed\]
 
-[51][68] [Restrictions on investments][68] \[Repealed\]
+[36][54][][54][Employees not in service of the Crown][54] \[Repealed\]
 
-[52][69] [Restrictions on borrowing][69] \[Repealed\]
-
-[53][70] [Restrictions related to trusts and to forming or holding shares or interests in bodies corporate or associations][70] \[Repealed\]
-
-[54][71] [Auditor-General to be auditor of Commission][71] \[Repealed\]
-
-[55][72] [Tax status: Commission to be public authority][72] \[Repealed\]
-
-[Annual report][73]
+[Corruption and bribery, and corrupt use of official information][55]
 
 \[Repealed\]
 
-[56][74] [Contents of annual report: requirements additional to those of section 41I of Public Finance Act 1989][74] \[Repealed\]
+[37][56][][56][Members and employees are officials][56] \[Repealed\]
 
-[Review of Commission's operations and performance][75]
-
-\[Repealed\]
-
-[57][76] [Minister may conduct review][76] \[Repealed\]
-
-[58][77] [Power to request information in connection with review][77] \[Repealed\]
-
-[59][78] [Good reasons for refusing to supply requested information][78] \[Repealed\]
-
-[Application of Public Records Act 2005][79]
-
-[60][80] [Public Records Act 2005 to apply][80]
-
-[Relationship with other enactments, functions, and powers][81]
-
-[61][82] [Other enactments, functions, and powers not affected][82]
-
-[Part 2][83]  
-[Amendments to other Acts][83]
-
-[62][84] [Amendments set out in Schedule 4][84]
-
-[Schedule 1][85]  
-[Members' duties][85]
+[Protections from liability of members and employees][57]
 
 \[Repealed\]
 
-[Schedule 2][86]  
-[Membership of Commission][86]
+[38][58][][58][Protections for members and employees from liabilities of Commission][58] \[Repealed\]
+
+[39][59][][59][Immunity of members and employees from civil liability to third parties][59] \[Repealed\]
+
+[40][60][][60][Indemnity for members and employees for costs from civil and criminal proceedings][60] \[Repealed\]
+
+[41][61][][61][Insurance for members and employees][61] \[Repealed\]
+
+[42][62][][62][Saving of judicial protections from liability][62] \[Repealed\]
+
+[43][63][][63][Breach of indemnity and insurance limits][63] \[Repealed\]
+
+[44][64][][64][Definitions for protections from liability][64] \[Repealed\]
+
+[Dealings with third parties by Commission][65]
 
 \[Repealed\]
 
-[Schedule 3][87]  
-[Procedure of board][87]
+[45][66][][66][Method of contracting][66] \[Repealed\]
+
+[46][67][][67][Common seal][67] \[Repealed\]
+
+[47][68][][68][Attorneys][68] \[Repealed\]
+
+[48][69][][69][Dealings between Commission and other persons][69] \[Repealed\]
+
+[Financial provisions][70]
 
 \[Repealed\]
 
-[Schedule 4][88]  
+[49][71][][71][Commission's funds][71] \[Repealed\]
+
+[50][72][][72][Bank accounts][72] \[Repealed\]
+
+[51][73][][73][Restrictions on investments][73] \[Repealed\]
+
+[52][74][][74][Restrictions on borrowing][74] \[Repealed\]
+
+[53][75][][75][Restrictions related to trusts and to forming or holding shares or interests in bodies corporate or associations][75] \[Repealed\]
+
+[54][76][][76][Auditor-General to be auditor of Commission][76] \[Repealed\]
+
+[55][77][][77][Tax status: Commission to be public authority][77] \[Repealed\]
+
+[Annual report][78]
+
+\[Repealed\]
+
+[56][79][][79][Contents of annual report: requirements additional to those of section 41I of Public Finance Act 1989][79] \[Repealed\]
+
+[Review of Commission's operations and performance][80]
+
+\[Repealed\]
+
+[57][81][][81][Minister may conduct review][81] \[Repealed\]
+
+[58][82][][82][Power to request information in connection with review][82] \[Repealed\]
+
+[59][83][][83][Good reasons for refusing to supply requested information][83] \[Repealed\]
+
+[Application of Public Records Act 2005][84]
+
+[60][85][][85][Public Records Act 2005 to apply][85]
+
+[Relationship with other enactments, functions, and powers][86]
+
+[61][87][][87][Other enactments, functions, and powers not affected][87]
+
+[Part 2][88]  
 [Amendments to other Acts][88]
+
+[62][89][][89][Amendments set out in Schedule 4][89]
+
+[Schedule 1][90]  
+[Members' duties][90]
+
+\[Repealed\]
+
+[Schedule 2][91]  
+[Membership of Commission][91]
+
+\[Repealed\]
+
+[Schedule 3][92]  
+[Procedure of board][92]
+
+\[Repealed\]
+
+[Schedule 4][93]  
+[Amendments to other Acts][93]
 
 ---
 
@@ -250,7 +260,7 @@ Families Commission
     
 *   The purpose of this Act is to---
         
-    *   (a) establish the Commission as a Crown entity for the purposes of [section 7][89] of the Crown Entities Act 2004:
+    *   (a) establish the Commission as a Crown entity for the purposes of [section 7][94] of the Crown Entities Act 2004:
     
     *   (b) state the Commission's functions and powers:
     
@@ -262,7 +272,7 @@ Families Commission
         
         
     
-    Section 3(a): substituted, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 3(a): substituted, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 4 Interpretation
     
@@ -270,17 +280,17 @@ Families Commission
     
     _Commission_ means the Families Commission established by [section 6][9]
     
-    _Commissioner_ means a member
-    
     _member_ means a member of the Commission
     
     _Minister_ means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act.
     
-    Section 4 **board**: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 4 **board**: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 4 **de facto partner** and **de facto relationship**: repealed, on 26 April 2005, by [section 7][91] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 4 **Commissioner**: repealed, on 25 March 2014, by [section 4][96] of the Families Commission Amendment Act 2014 (2014 No 9).
     
-    Section 4 **fees framework**: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 4 **de facto partner** and **de facto relationship**: repealed, on 26 April 2005, by [section 7][97] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    
+    Section 4 **fees framework**: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 5 Act binds the Crown
     
@@ -290,27 +300,31 @@ Families Commission
 
 ##### 6 Commission established
     
-*   This section establishes the Families Commission.
+*   (1) This section establishes the Families Commission.
+    
+    (2) The Commission is a Crown entity for the purposes of [section 7][94] of the Crown Entities Act 2004\.
+    
+    (3) The [Crown Entities Act 2004][98] applies to the Commission except to the extent that this Act expressly provides otherwise.
+    
+    Section 6(2): inserted, on 25 March 2014, by [section 5][99] of the Families Commission Amendment Act 2014 (2014 No 9).
+    
+    Section 6(3): inserted, on 25 March 2014, by [section 5][99] of the Families Commission Amendment Act 2014 (2014 No 9).
 
 #### Commission's functions
 
-##### 7 Commission's main function
+##### 7 Commission's main functions
     
-*   (1) The Commission's main function is to act as an advocate for the interests of families generally.
-    
-    (2) That function does not include acting as an advocate for the interests of a particular family or particular families in connection with a particular case or issue.
-    
-    (3) In performing that function, the Commission must identify and have regard to factors that help to maintain or enhance either or both of the following:
+*   The Commission's main functions are---
         
-    *   (a) families' resilience:
+    *   (a) to act as an advocate for the interests of families generally (the _advocacy function_); and
     
-    *   (b) families' strengths.
+    *   (b) to monitor and evaluate programmes and interventions in the social sector, and provide social science research into key issues, programmes, and interventions across that sector (the _monitoring, evaluation, and research function_).
     
-    
+    Section 7: replaced, on 25 March 2014, by [section 6][100] of the Families Commission Amendment Act 2014 (2014 No 9).
 
-##### 8 Commission's additional functions
+##### 8 Commission's advocacy function
     
-*   In order to perform its main function stated in [section 7][11], the Commission has the following additional functions:
+*   (1) In order to perform its advocacy function, the Commission has the following additional functions:
         
     *   (a) to encourage and facilitate informed debate, by any of the following persons, on matters relating to the interests of families:
             
@@ -330,6 +344,8 @@ Families Commission
         
         
     
+    *   (ba) to prepare and publish an annual Families Status Report that measures and monitors the well-being of New Zealand families:
+    
     *   (c) to encourage and facilitate the development and provision, by Ministers of the Crown, departments of State, and other instruments of the Executive Government, of policies designed to promote or serve the interests of families:
     
     *   (d) to consider, and to report and make recommendations on, any matter (for example, a proposed government policy) relating to families that is referred to it by any Minister of the Crown:
@@ -348,9 +364,45 @@ Families Commission
     
     *   (g) \[Repealed\]
     
-    Section 8(b)(i): amended, on 26 April 2005, by [section 7][91] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    (2) The advocacy function does not include acting as an advocate for the interests of a particular family or particular families in connection with a particular case or issue.
     
-    Section 8(g): repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    (3) In performing its advocacy function, the Commission must identify and have regard to factors that help to maintain or enhance either or both of the following:
+        
+    *   (a) families' resilience:
+    
+    *   (b) families' strengths.
+    
+    Section 8 heading: amended, on 25 March 2014, by [section 7(1)][101] of the Families Commission Amendment Act 2014 (2014 No 9).
+    
+    Section 8(1): amended, on 25 March 2014, by [section 7(2)][101] of the Families Commission Amendment Act 2014 (2014 No 9).
+    
+    Section 8(1)(b)(i): amended, on 26 April 2005, by [section 7][97] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    
+    Section 8(1)(ba): inserted, on 25 March 2014, by [section 7(3)][101] of the Families Commission Amendment Act 2014 (2014 No 9).
+    
+    Section 8(1)(g): repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
+    
+    Section 8(2): inserted, on 25 March 2014, by [section 7(4)][101] of the Families Commission Amendment Act 2014 (2014 No 9).
+    
+    Section 8(3): inserted, on 25 March 2014, by [section 7(4)][101] of the Families Commission Amendment Act 2014 (2014 No 9).
+
+##### 8A Commission's monitoring, evaluation, and research function
+    
+*   (1) In order to perform its monitoring, evaluation, and research function, the Commission has the following additional functions:
+        
+    *   (a) to identify evidence and research that will assist in determining or achieving the Government's policies and priorities in the social sector:
+    
+    *   (b) to commission social science research in the social sector on behalf of the Government and others:
+    
+    *   (c) to manage contracts for social science research in the social sector on behalf of the Government and others:
+    
+    *   (d) to set standards and specify best practice for monitoring and evaluating programmes and interventions in the social sector:
+    
+    *   (e) to establish and maintain a database of social science research undertaken by or on behalf of the Government.
+    
+    (2) When monitoring or evaluating programmes and interventions as part of its monitoring, evaluation, and research function, the Commission must act independently of the programmes and interventions being monitored or evaluated.
+    
+    Section 8A: inserted, on 25 March 2014, by [section 8][102] of the Families Commission Amendment Act 2014 (2014 No 9).
 
 #### Other matters to which Commission must have regard
 
@@ -358,7 +410,7 @@ Families Commission
     
 *   \[Repealed\]
     
-    Section 9: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 9: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 10 Diversity of New Zealand families
     
@@ -370,7 +422,7 @@ Families Commission
     
     (4) Subsection (3) is for the avoidance of doubt.
     
-    Section 10(2): amended, on 26 April 2005, by [section 7][91] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 10(2): amended, on 26 April 2005, by [section 7][97] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 11 Needs, values, and beliefs of particular groups
     
@@ -392,7 +444,7 @@ Families Commission
 
 ##### 13 Mechanisms for obtaining views of specified groups
     
-*   (1) In the exercise and performance of its powers and functions, the Commission must maintain mechanisms (for example, by appointing advisory committees or forming consultation forums) to ensure that there are at all times readily accessible to it the views---
+*   (1) In the exercise and performance of its advocacy function and associated powers, the Commission must maintain mechanisms (for example, by appointing advisory committees or forming consultation forums) to ensure that there are at all times readily accessible to it the views---
         
     *   (a) of Māori as tangata whenua:
     
@@ -408,7 +460,7 @@ Families Commission
     
     *   (b) parents, fathers, and mothers:
     
-    *   (c) children and young persons (as defined in [section 2(1)][92] of the Children, Young Persons, and Their Families Act 1989), and older persons who are under the age of 18 years:
+    *   (c) children and young persons (as defined in [section 2(1)][103] of the Children, Young Persons, and Their Families Act 1989), and older persons who are under the age of 18 years:
     
     *   (d) grandparents and the elderly:
     
@@ -424,7 +476,9 @@ Families Commission
     
     *   (j) employers and workers.
     
-    Section 13(2)(a): amended, on 26 April 2005, by [section 7][91] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 13(1): amended, on 25 March 2014, by [section 9][104] of the Families Commission Amendment Act 2014 (2014 No 9).
+    
+    Section 13(2)(a): amended, on 26 April 2005, by [section 7][97] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 #### Commission's power to refer communications to others
 
@@ -438,47 +492,47 @@ Families Commission
     
     (2) The Commission must notify the person of the referral of the communication.
     
-    (3) Subsection (1) overrides [section 18][93] of the Crown Entities Act 2004\.
+    (3) Subsection (1) overrides [section 18][105] of the Crown Entities Act 2004\.
     
-    Section 14(3): amended, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 14(3): amended, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
-#### Nature and membership of Commission, and board's role
+#### Members of Commission
+    
+*   Heading: replaced, on 25 March 2014, by [section 10][106] of the Families Commission Amendment Act 2014 (2014 No 9).
 
 ##### 15 Commission is body corporate
     
 *   \[Repealed\]
     
-    Section 15: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 15: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 16 Capacity and powers
     
 *   \[Repealed\]
     
-    Section 16: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 16: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 17 Commission is Crown entity
     
-*   (1) The Commission is a Crown entity for the purposes of [section 7][89] of the Crown Entities Act 2004\.
+*   \[Repealed\]
     
-    (2) The [Crown Entities Act 2004][94] applies to the Commission except to the extent that this Act expressly provides otherwise.
-    
-    Section 17: substituted, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 17: repealed, on 25 March 2014, by [section 11][107] of the Families Commission Amendment Act 2014 (2014 No 9).
 
 ##### 18 Membership of Commission
     
 *   (1) The Commission consists of no more than 7, and no less than 3, members.
     
-    (2) The Minister must appoint 1 member to be Chief Commissioner.
+    (2) \[Repealed\]
     
-    (3) The Minister may appoint 1 member to be Deputy Chief Commissioner.
+    (3) \[Repealed\]
     
-    (4) The Chief Commissioner is the chairperson of the board of the Commission, and the Deputy Chief Commissioner (if any) is the deputy chairperson of that board, for the purposes of [clause 1][95] of Schedule 5 of the Crown Entities Act 2004\.
+    (4) \[Repealed\]
     
-    (5) In addition to the appointment processes and criteria in [sections 28][96] and [29][97] of the Crown Entities Act 2004, the Minister must---
+    (5) In addition to the appointment processes and criteria in [sections 28][108] and [29][109] of the Crown Entities Act 2004, the Minister must---
         
     *   (a) before appointing a member, notify a vacancy in a manner that enables suitably qualified individuals to apply for appointment; and
     
-    *   (b) in appointing a member, take into account the need for Commissioners to have among them a breadth of experience and expertise, and knowledge of, or experience in,---
+    *   (b) in appointing a member, take into account the need for members to have among them a breadth of experience and expertise, and knowledge of, or experience in,---
             
         *   (i) different aspects of matters likely to come before the Commission; and
         
@@ -486,97 +540,145 @@ Families Commission
         
         
     
-    Section 18: substituted, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 18: substituted, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
+    
+    Section 18(2): repealed, on 25 March 2014, by [section 12(1)][110] of the Families Commission Amendment Act 2014 (2014 No 9).
+    
+    Section 18(3): repealed, on 25 March 2014, by [section 12(1)][110] of the Families Commission Amendment Act 2014 (2014 No 9).
+    
+    Section 18(4): repealed, on 25 March 2014, by [section 12(1)][110] of the Families Commission Amendment Act 2014 (2014 No 9).
+    
+    Section 18(5)(b): amended, on 25 March 2014, by [section 12(2)][110] of the Families Commission Amendment Act 2014 (2014 No 9).
+
+##### 18A Families Commissioner
+    
+*   (1) The Minister must appoint 1 member to be the Families Commissioner.
+    
+    (2) The functions of the Families Commissioner are as determined by the Commission.
+    
+    Section 18A: inserted, on 25 March 2014, by [section 13][111] of the Families Commission Amendment Act 2014 (2014 No 9).
+
+#### Social Science Experts Panel
+    
+*   Heading: inserted, on 25 March 2014, by [section 13][111] of the Families Commission Amendment Act 2014 (2014 No 9).
+
+##### 18B Social Science Experts Panel
+    
+*   (1) A Social Science Experts Panel is established.
+    
+    (2) The Panel's function is to provide academic peer review of any research, evaluations, standards, reports, or other publications done or issued by or on behalf of the Commission, and otherwise to provide guidance to the Commission.
+    
+    Section 18B: inserted, on 25 March 2014, by [section 13][111] of the Families Commission Amendment Act 2014 (2014 No 9).
+
+##### 18C Membership of Social Science Experts Panel
+    
+*   (1) The Social Science Experts Panel comprises a minimum of 4 members.
+    
+    (2) Each member of the Panel must be appointed by the Commission on the joint recommendation of--- 
+        
+    *   (a) the Minister; and
+    
+    *   (b) the person (if any) appointed as principal adviser to the Prime Minister on science matters or, if there is no such person, the chief executive of the department responsible for science matters.
+    
+    (3) The Commission must appoint 1 member of the Panel to be its chairperson.
+    
+    (4) Every member of the Panel may be appointed for a period of up to 3 years and may be reappointed at the expiry of each term of appointment.
+    
+    (5) [Clause 14(2)][112] of Schedule 5 of the Crown Entities Act 2004 applies with respect to the appointment of a person to the Panel as if the person were to be appointed as a member of a committee appointed by the board of the Commission under clause 14(1) of that schedule.
+    
+    (6) [Clause 15][113] of Schedule 5 of the Crown Entities Act 2004 applies to each member of the Panel as if he or she were a member of a committee appointed by the board of the Commission under [clause 14(1)][112] of that schedule.
+    
+    Section 18C: inserted, on 25 March 2014, by [section 13][111] of the Families Commission Amendment Act 2014 (2014 No 9).
 
 ##### 19 Board's role
     
 *   \[Repealed\]
     
-    Section 19: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 19: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 20 Further provisions relating to members and board
     
 *   \[Repealed\]
     
-    Section 20: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 20: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 21 Accountability of members to Minister
     
 *   \[Repealed\]
     
-    Section 21: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 21: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Minister's role
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 22 Minister's role
     
 *   \[Repealed\]
     
-    Section 22: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 22: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 23 Minister accountable to House of Representatives
     
 *   \[Repealed\]
     
-    Section 23: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 23: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Delegation by board
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 24 Ability to delegate
     
 *   \[Repealed\]
     
-    Section 24: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 24: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 25 Effect of delegation
     
 *   \[Repealed\]
     
-    Section 25: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 25: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 26 Delegate presumed to act in accordance with delegation
     
 *   \[Repealed\]
     
-    Section 26: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 26: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 27 Other matters relating to delegation
     
 *   \[Repealed\]
     
-    Section 27: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 27: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Committees of board
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 28 Board may appoint committees
     
 *   \[Repealed\]
     
-    Section 28: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 28: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 29 Membership of committee
     
 *   \[Repealed\]
     
-    Section 29: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 29: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 30 Committee to regulate own procedure
     
 *   \[Repealed\]
     
-    Section 30: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 30: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Chief Executive of Commission
 
@@ -592,221 +694,221 @@ Families Commission
     
 *   \[Repealed\]
     
-    Section 32: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 32: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 33 Delegation of powers or functions by chief executive
     
 *   \[Repealed\]
     
-    Section 33: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 33: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Employees of Commission
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 34 Personnel policy: Commission to be good employer
     
 *   \[Repealed\]
     
-    Section 34: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 34: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 35 Establishment of superannuation schemes
     
 *   \[Repealed\]
     
-    Section 35: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 35: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 36 Employees not in service of the Crown
     
 *   \[Repealed\]
     
-    Section 36: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 36: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Corruption and bribery, and corrupt use of official information
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 37 Members and employees are officials
     
 *   \[Repealed\]
     
-    Section 37: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 37: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Protections from liability of members and employees
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 38 Protections for members and employees from liabilities of Commission
     
 *   \[Repealed\]
     
-    Section 38: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 38: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 39 Immunity of members and employees from civil liability to third parties
     
 *   \[Repealed\]
     
-    Section 39: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 39: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 40 Indemnity for members and employees for costs from civil and criminal proceedings
     
 *   \[Repealed\]
     
-    Section 40: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 40: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 41 Insurance for members and employees
     
 *   \[Repealed\]
     
-    Section 41: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 41: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 42 Saving of judicial protections from liability
     
 *   \[Repealed\]
     
-    Section 42: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 42: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 43 Breach of indemnity and insurance limits
     
 *   \[Repealed\]
     
-    Section 43: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 43: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 44 Definitions for protections from liability
     
 *   \[Repealed\]
     
-    Section 44: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 44: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Dealings with third parties by Commission
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 45 Method of contracting
     
 *   \[Repealed\]
     
-    Section 45: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 45: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 46 Common seal
     
 *   \[Repealed\]
     
-    Section 46: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 46: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 47 Attorneys
     
 *   \[Repealed\]
     
-    Section 47: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 47: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 48 Dealings between Commission and other persons
     
 *   \[Repealed\]
     
-    Section 48: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 48: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Financial provisions
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 49 Commission's funds
     
 *   \[Repealed\]
     
-    Section 49: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 49: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 50 Bank accounts
     
 *   \[Repealed\]
     
-    Section 50: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 50: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 51 Restrictions on investments
     
 *   \[Repealed\]
     
-    Section 51: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 51: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 52 Restrictions on borrowing
     
 *   \[Repealed\]
     
-    Section 52: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 52: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 53 Restrictions related to trusts and to forming or holding shares or interests in bodies corporate or associations
     
 *   \[Repealed\]
     
-    Section 53: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 53: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 54 Auditor-General to be auditor of Commission
     
 *   \[Repealed\]
     
-    Section 54: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 54: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 55 Tax status: Commission to be public authority
     
 *   \[Repealed\]
     
-    Section 55: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 55: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Annual report
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 56 Contents of annual report: requirements additional to those of section 41I of Public Finance Act 1989
     
 *   \[Repealed\]
     
-    Section 56: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 56: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Review of Commission's operations and performance
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 57 Minister may conduct review
     
 *   \[Repealed\]
     
-    Section 57: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 57: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 58 Power to request information in connection with review
     
 *   \[Repealed\]
     
-    Section 58: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 58: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 59 Good reasons for refusing to supply requested information
     
 *   \[Repealed\]
     
-    Section 59: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+    Section 59: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Application of Public Records Act 2005
     
-*   Heading: substituted, on 21 April 2005, by [section 67(1)][98] of the Public Records Act 2005 (2005 No 40).
+*   Heading: substituted, on 21 April 2005, by [section 67(1)][114] of the Public Records Act 2005 (2005 No 40).
 
 ##### 60 Public Records Act 2005 to apply
     
-*   The Commission is a public office for the purposes of the [Public Records Act 2005][99].
+*   The Commission is a public office for the purposes of the [Public Records Act 2005][115].
     
-    Section 60: substituted, on 21 April 2005, by [section 67(1)][98] of the Public Records Act 2005 (2005 No 40).
+    Section 60: substituted, on 21 April 2005, by [section 67(1)][114] of the Public Records Act 2005 (2005 No 40).
 
 #### Relationship with other enactments, functions, and powers
 
@@ -819,128 +921,118 @@ Amendments to other Acts
 
 ##### 62 Amendments set out in Schedule 4
     
-*   The Acts listed in [Schedule 4][88] are amended in the manner set out in that schedule.
+*   The Acts listed in [Schedule 4][93] are amended in the manner set out in that schedule.
 
 ---
 
 ## Schedule 1  
 Members' duties
 
-[s 20][28]
+[s 20][33]
 
 \[Repealed\]
     
-*   Schedule 1: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+*   Schedule 1: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ---
 
 ## Schedule 2  
 Membership of Commission
 
-[s 20][28]
+[s 20][33]
 
 \[Repealed\]
     
-*   Schedule 2: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+*   Schedule 2: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ---
 
 ## Schedule 3  
 Procedure of board
 
-[s 20][28]
+[s 20][33]
 
 \[Repealed\]
     
-*   Schedule 3: repealed, on 25 January 2005, by [section 200][90] of the Crown Entities Act 2004 (2004 No 115).
+*   Schedule 3: repealed, on 25 January 2005, by [section 200][95] of the Crown Entities Act 2004 (2004 No 115).
 
 ---
 
 ## Schedule 4  
 Amendments to other Acts
 
-[s 62][84]
+[s 62][89]
 
 ##### Ombudsmen Act 1975 (1975 No 9)
 
-_Amendment(s) incorporated in the [Act(s)][100]._
+_Amendment(s) incorporated in the [Act(s)][116]._
 
 ##### Public Finance Act 1989 (1989 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][101]._
+_Amendment(s) incorporated in the [Act(s)][117]._
 
 ---
 
-#### Contents
+# Families Commission Amendment Act 2014Public Act2014 No 9
+
+Date of assent24 March 2014
+
+Commencementsee section 2
+
+##### 1 Title
     
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+*   This Act is the [Families Commission Amendment Act 2014][118].
+
+##### 2 Commencement
+    
+*   This Act comes into force on the day after the date on which it receives the Royal assent.
+
+## Part 2  
+Transitional provisions
+
+##### 14 Transitional provisions relating to members of Commission
+    
+*   (1) On the day on which this Act comes into force,---
+        
+    *   (a) the Chief Families Commissioner is renamed the Families Commissioner and holds office as the chairperson of the Commission in accordance with Schedule 5 of the Crown Entities Act 2004; and
+    
+    *   (b) the Deputy Chief Families Commissioner (if any) ceases to be called a Commissioner but holds office as the deputy chairperson of the Commission in accordance with Schedule 5 of the Crown Entities Act 2004; and
+    
+    *   (c) all other Commissioners cease to be called Commissioners but remain as members of the Commission.
+    
+    (2) Except as provided in subsection (1), nothing in that subsection or in any other changes made by this Act affects the terms and conditions of appointment of any member of the Commission appointed before this Act comes into force.
+
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Families Commission Act 2003\. The reprint incorporates all the amendments to the Act as at 26 April 2005, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
+*   This is a reprint of the Families Commission Act 2003 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][102] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][119] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][120] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ http://www.pco.parliament.govt.nz/editorial-conventions/ or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][121] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][122] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][103] and [17E][104] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Families Commission Amendment Act 2014][118] (2014 No 9)
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Public Records Act 2005 (2005 No 40): [section 67(1)][114]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][97]
     
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Public Records Act 2005 (2005 No 40): [section 67(1)][98]
-    
-    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][91]
-    
-    Crown Entities Act 2004 (2004 No 115): [section 200][90]
+    Crown Entities Act 2004 (2004 No 115): [section 200][95]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236107
 [2]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236108
 [3]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236109
@@ -953,95 +1045,113 @@ _Amendment(s) incorporated in the [Act(s)][101]._
 [10]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236135
 [11]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236136
 [12]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236137
-[13]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236140
-[14]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236141
-[15]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236143
-[16]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236145
-[17]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236146
-[18]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236147
-[19]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236148
-[20]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236150
-[21]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236151
-[22]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236153
-[23]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236154
-[24]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236156
-[25]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236158
-[26]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236160
-[27]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236162
-[28]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236164
-[29]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236166
-[30]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236168
-[31]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236170
-[32]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236172
-[33]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236174
-[34]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236176
-[35]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236178
-[36]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236180
-[37]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236182
-[38]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236184
-[39]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236186
-[40]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236188
-[41]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236190
-[42]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236192
-[43]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236193
-[44]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236194
-[45]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236196
-[46]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236198
-[47]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236300
-[48]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236302
-[49]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236304
-[50]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236306
-[51]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236308
-[52]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236310
-[53]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236312
-[54]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236314
-[55]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236316
-[56]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236318
-[57]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236320
-[58]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236322
-[59]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236324
-[60]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236326
-[61]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236328
-[62]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236330
-[63]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236332
-[64]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236334
-[65]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236336
-[66]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236338
-[67]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236340
-[68]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236342
-[69]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236344
-[70]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236346
-[71]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236348
-[72]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236350
-[73]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236352
-[74]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236354
-[75]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236356
-[76]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236358
-[77]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236360
-[78]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236362
-[79]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236364
-[80]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236367
-[81]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236370
-[82]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236371
-[83]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236372
-[84]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236373
-[85]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236374
-[86]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236377
-[87]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236379
-[88]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236381
-[89]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM329641
-[90]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM331111
-[91]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM333795
-[92]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM147094
-[93]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM329932
-[94]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM329630
-[95]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM331133
-[96]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM329954
-[97]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM329955
-[98]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM346105
-[99]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM345528
-[100]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM431296
-[101]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM163544
-[102]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM195439
-[103]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM195468
-[104]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM195470
+[13]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM6012322
+[14]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236140
+[15]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236141
+[16]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236143
+[17]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236145
+[18]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236146
+[19]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236147
+[20]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236148
+[21]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236150
+[22]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236151
+[23]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236153
+[24]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236154
+[25]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236156
+[26]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236158
+[27]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236160
+[28]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM6012339
+[29]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM6012340
+[30]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM6012341
+[31]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM6012342
+[32]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236162
+[33]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236164
+[34]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236166
+[35]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236168
+[36]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236170
+[37]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236172
+[38]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236174
+[39]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236176
+[40]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236178
+[41]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236180
+[42]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236182
+[43]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236184
+[44]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236186
+[45]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236188
+[46]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236190
+[47]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236192
+[48]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236193
+[49]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236194
+[50]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236196
+[51]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236198
+[52]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236300
+[53]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236302
+[54]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236304
+[55]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236306
+[56]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236308
+[57]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236310
+[58]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236312
+[59]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236314
+[60]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236316
+[61]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236318
+[62]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236320
+[63]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236322
+[64]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236324
+[65]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236326
+[66]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236328
+[67]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236330
+[68]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236332
+[69]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236334
+[70]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236336
+[71]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236338
+[72]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236340
+[73]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236342
+[74]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236344
+[75]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236346
+[76]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236348
+[77]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236350
+[78]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236352
+[79]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236354
+[80]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236356
+[81]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236358
+[82]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236360
+[83]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236362
+[84]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236364
+[85]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236367
+[86]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236370
+[87]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236371
+[88]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236372
+[89]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236373
+[90]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236374
+[91]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236377
+[92]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236379
+[93]: http://www.legislation.govt.nz/act/public/2003/0128/latest/whole.html#DLM236381
+[94]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM329641
+[95]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM331111
+[96]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM4492113
+[97]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM333795
+[98]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM329630
+[99]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM4875401
+[100]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM4492115
+[101]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM4492119
+[102]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM4492120
+[103]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM147094
+[104]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM4492122
+[105]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM329932
+[106]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM4492123
+[107]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM4875402
+[108]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM329954
+[109]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM329955
+[110]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM4492125
+[111]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM4492126
+[112]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM331147
+[113]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM331148
+[114]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM346105
+[115]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM345528
+[116]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM431296
+[117]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM163544
+[118]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM4492100
+[119]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM2998516
+[120]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM2998515
+[121]: http://www.legislation.govt.nz/act/public/2003/0128/latest/link.aspx?id=DLM2998532
+[122]: http://www.pco.parliament.govt.nz/editorial-conventions/
