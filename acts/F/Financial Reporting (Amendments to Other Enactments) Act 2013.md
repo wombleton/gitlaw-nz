@@ -5433,9 +5433,9 @@ In [section YA 1][409], definition of _NZIAS 17_, replace ""approved or issued u
 
 In [section YA 1][409], definition of _NZIAS 23_, replace ""approved or issued under the Financial Reporting Act 1993"" with ""in effect under the Financial Reporting Act 2013"".
 
-In [section YA 1][409], definition of _NZIAS 28_, replace ""approved by the Accounting Standards Review Board"" with ""in effect under the Financial Reporting Act 2013"".
+In [section YA 1][409], definition of _NZIAS 28_, replace ""approved or issued under the Financial Reporting Act 1993"" with ""in effect under the Financial Reporting Act 2013"".
 
-In [section YA 1][409], definition of _NZIAS 31_, replace ""approved by the Accounting Standards Review Board"" with ""in effect under the Financial Reporting Act 2013"".
+In [section YA 1][409], definition of _NZIAS 31_, replace ""approved or issued under the Financial Reporting Act 1993"" with ""in effect under the Financial Reporting Act 2013"".
 
 In [section YA 1][409], definition of _NZIAS 32_, replace ""approved or issued under the Financial Reporting Act 1993"" with ""in effect under the Financial Reporting Act 2013"".
 
