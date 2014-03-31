@@ -3670,7 +3670,7 @@ General provisions
 
 ##### 136 Procedure if charge amended during trial
     
-*   (1) Despite [sections 21][27] and [133][178], during the trial a charge may be amended to substitute one offence for another offence only if---
+*   (1) Despite [sections 21][27] and [133][182], during the trial a charge may be amended to substitute one offence for another offence only if---
         
     *   (a) there appears to be a variance between the proof and the charge; and
     
