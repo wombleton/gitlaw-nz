@@ -5130,7 +5130,7 @@ Provisions relating to procedure in respect of proceedings under Parts 2 and 3A
     
     *   (c) a person appointed by the court for the purpose, being a person whom the court is satisfied---
             
-        *   (i) is entitled to practice as a psychologist, or in the speciality of psychological medicine or psychiatry, in that person's country of permanent residence; and
+        *   (i) is entitled to practise as a psychologist, or in the speciality of psychological medicine or psychiatry, in that person's country of permanent residence; and
         
         *   (ii) has qualifications that, in the view of the appropriate registering body in New Zealand, are at least equivalent to those required of a person referred to in paragraph (a) or paragraph (b).
         
@@ -6940,7 +6940,7 @@ Youth justice
     
     *   (b) the child or young person may commit further offences; or
     
-    *   (c) it is necessary to prevent the loss or destruction of evidence relating to the offence with which the child or young person is charged or prevent interference with any witness in respect of any such offence; or
+    *   (c) it is necessary to prevent the loss or destruction of evidence relating to the offence with which the child or young person is charged or prevent interference with any witness in respect of any such offence.
     
     (2) The court shall not make an order under [section 238(1)(e)][340] for the detention of a young person in Police custody unless the court is satisfied---
         
@@ -6957,8 +6957,6 @@ Youth justice
     Section 239(1): amended, on 1 October 1999, by [section 13][705] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
     
     Section 239(1): amended, on 8 January 1995, by [section 46][737] of the Children, Young Persons, and Their Families Amendment Act 1994 (1994 No 121).
-    
-    Section 239(1)(c): amended, on 4 September 2013, by [section 41(5)][817] of the Bail Amendment Act 2013 (2013 No 66).
     
     Section 239(2): amended, on 1 October 2010, by [section 7(2)][828] of the Children, Young Persons, and Their Families (Youth Courts Jurisdiction and Orders) Amendment Act 2010 (2010 No 2).
     
@@ -9719,7 +9717,7 @@ Provisions relating to procedure in Youth Court
     
 *   (1) Where the court makes a finding that a charge against a young person is proved, the court may, before making any order under [section 283][397], obtain a report from a social worker.
     
-    (2) The court shall not make an order under paragraph (ja) or paragraph (jb) or paragraph (jc) paragraph (k) or paragraph (l) or paragraph (m) or paragraph (n) or paragraph (o) of [section 283][397], or under [section 296G][423], unless a report from a social worker is first obtained by the court.
+    (2) The court shall not make an order under paragraph (ja) or paragraph (jb) or paragraph (jc) or paragraph (k) or paragraph (l) or paragraph (m) or paragraph (n) or paragraph (o) of [section 283][397], or under [section 296G][423], unless a report from a social worker is first obtained by the court.
     
     (3) The court shall consider every report furnished to it pursuant to this section.
     
@@ -9739,7 +9737,7 @@ Provisions relating to procedure in Youth Court
 
 ##### 335 Report to be accompanied by plan
     
-*   (1) Every report required under [section 334][489] in relation to any order proposed to be made under paragraph (ja) or paragraph (jb) or paragraph (jc) paragraph (k) or paragraph (l) or paragraph (m) or paragraph (n) of [section 283][397], or under [section 296G][423], shall be accompanied by a plan containing details of how that order is to be implemented, including details of---
+*   (1) Every report required under [section 334][489] in relation to any order proposed to be made under paragraph (ja) or paragraph (jb) or paragraph (jc) or paragraph (k) or paragraph (l) or paragraph (m) or paragraph (n) of [section 283][397], or under [section 296G][423], shall be accompanied by a plan containing details of how that order is to be implemented, including details of---
         
     *   (a) the arrangements that would be made for the care and control of the young person during the period in which the young person would be in the custody, or under the supervision, of the chief executive or any other person or organisation; and
     
