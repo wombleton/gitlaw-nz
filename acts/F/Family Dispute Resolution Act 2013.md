@@ -1,3 +1,6 @@
+Reprint  
+as at 31 March 2014
+
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Family Dispute Resolution Act 2013Public Act2013 No 79
@@ -6,47 +9,59 @@ Date of assent24 September 2013
 
 Commencementsee section 2
 
+---
+
+###### Note
+
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
+
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
+
+This Act is administered by the Ministry of Justice.
+
+---
+
 ## Contents
 
-[1 ][0][][0][Title][0]
+[1][1][][1][Title][1]
 
-[2 ][1][][1][Commencement][1]
+[2][2][][2][Commencement][2]
 
-[Preliminary provisions][2]
+[Preliminary provisions][3]
 
-[3 ][3][][3][Purposes][3]
+[3][4][][4][Purposes][4]
 
-[4 ][4][][4][Interpretation][4]
+[4][5][][5][Interpretation][5]
 
-[5 ][5][][5][Act binds the Crown][5]
+[5][6][][6][Act binds the Crown][6]
 
-[Dispute resolution organisations][6]
+[Dispute resolution organisations][7]
 
-[6 ][7][][7][Approval of dispute resolution organisations][7]
+[6][8][][8][Approval of dispute resolution organisations][8]
 
-[7 ][8][][8][Suspension or cancellation of approval of dispute resolution organisations][8]
+[7][9][][9][Suspension or cancellation of approval of dispute resolution organisations][9]
 
-[8 ][9][][9][Effect of suspension or cancellation on FDR providers appointed by dispute resolution organisation][9]
+[8][10][][10][Effect of suspension or cancellation on FDR providers appointed by dispute resolution organisation][10]
 
-[Family dispute resolution providers][10]
+[Family dispute resolution providers][11]
 
-[9 ][11][][11][Appointment of FDR providers][11]
+[9][12][][12][Appointment of FDR providers][12]
 
-[10 ][12][][12][Suspension or cancellation of appointment of FDR providers][12]
+[10][13][][13][Suspension or cancellation of appointment of FDR providers][13]
 
-[11 ][13][][13][Duties of FDR providers][13]
+[11][14][][14][Duties of FDR providers][14]
 
-[Family dispute resolution forms][14]
+[Family dispute resolution forms][15]
 
-[12 ][15][][15][Family dispute resolution forms][15]
+[12][16][][16][Family dispute resolution forms][16]
 
-[13 ][16][][16][Provision of family dispute resolution forms to court][16]
+[13][17][][17][Provision of family dispute resolution forms to court][17]
 
-[Miscellaneous][17]
+[Miscellaneous][18]
 
-[14 ][18][][18][Privilege][18]
+[14][19][][19][Privilege][19]
 
-[15 ][19][][19][Regulations][19]
+[15][20][][20][Regulations][20]
 
 ---
 
@@ -58,9 +73,11 @@ The Parliament of New Zealand enacts as follows:
 
 ##### 2 Commencement
     
-*   (1) This Act (except [sections 12][15] and [13][16]) comes into force on the day after the date on which this Act receives the Royal assent.
+*   (1) This Act (except [sections 12][16] and [13][17]) comes into force on the day after the date on which this Act receives the Royal assent.
     
-    (2) [Sections 12][15] and [13][16] come into force on 1 October 2014 unless they are earlier brought into force on a date appointed by the Governor-General by Order in Council.
+    (2) [Sections 12][16] and [13][17] come into force on 1 October 2014 unless they are earlier brought into force on a date appointed by the Governor-General by Order in Council.
+    
+    Section 2(2): sections 12 and 13 brought into force, on 31 March 2014, by the [Family Dispute Resolution Act Commencement Order 2014][21] (LI 2014/93).
 
 #### Preliminary provisions
 
@@ -78,9 +95,9 @@ The Parliament of New Zealand enacts as follows:
     
 *   In this Act,---
     
-    _approved dispute resolution organisation_ means a dispute resolution organisation that is approved by the Secretary under [section 6][7]
+    _approved dispute resolution organisation_ means a dispute resolution organisation that is approved by the Secretary under [section 6][8]
     
-    _domestic violence_ has the meaning given to it in the [Domestic Violence Act 1995][20]
+    _domestic violence_ has the meaning given to it in the [Domestic Violence Act 1995][22]
     
     _family dispute_ means a dispute that will require an application described in section 46F(1) of the Care of Children Act 2004 if a party to the dispute wants a court to resolve it
     
@@ -90,9 +107,9 @@ The Parliament of New Zealand enacts as follows:
     
     *   (b) ensuring that the parties' first and paramount consideration in reaching a resolution is the welfare and best interests of the children
     
-    _family dispute resolution form_ means a form approved by the Secretary that is described in [section 12(2), (4), (6), or (8)][15]
+    _family dispute resolution form_ means a form approved by the Secretary that is described in [section 12(2), (4), (6), or (8)][16]
     
-    _family dispute resolution provider_ or _FDR provider_ means a person who is appointed as a family dispute resolution provider under [section 9][11]
+    _family dispute resolution provider_ or _FDR provider_ means a person who is appointed as a family dispute resolution provider under [section 9][12]
     
     _Secretary_ means the Chief Executive of the Ministry of Justice.
 
@@ -106,27 +123,27 @@ The Parliament of New Zealand enacts as follows:
     
 *   (1) The Secretary may, by notice in the _Gazette_, approve an organisation (whether incorporated or unincorporated) as an approved dispute resolution organisation.
     
-    (2) In deciding whether to approve an organisation under subsection (1), the Secretary must apply any criteria prescribed by regulations made under [section 15(a)][19].
+    (2) In deciding whether to approve an organisation under subsection (1), the Secretary must apply any criteria prescribed by regulations made under [section 15(a)][20].
     
-    (3) An approval under subsection (1) may be made on any terms and conditions prescribed by regulations made under [section 15(b)][19] that the Secretary thinks fit.
+    (3) An approval under subsection (1) may be made on any terms and conditions prescribed by regulations made under [section 15(b)][20] that the Secretary thinks fit.
 
 ##### 7 Suspension or cancellation of approval of dispute resolution organisations
     
-*   (1) The Secretary may, by notice in the _Gazette_, suspend or cancel the approval of an organisation as an approved dispute resolution organisation on any ground prescribed by regulations made under [section 15(c)][19].
+*   (1) The Secretary may, by notice in the _Gazette_, suspend or cancel the approval of an organisation as an approved dispute resolution organisation on any ground prescribed by regulations made under [section 15(c)][20].
     
     (2) If under subsection (1) the Secretary suspends the approval of an organisation, the organisation is not an approved dispute resolution organisation during the period for which the approval is suspended.
 
 ##### 8 Effect of suspension or cancellation on FDR providers appointed by dispute resolution organisation
     
-*   (1) If the approval of an organisation as an approved dispute resolution organisation is suspended under [section 7][8] for any period (the _suspension period_),---
+*   (1) If the approval of an organisation as an approved dispute resolution organisation is suspended under [section 7][9] for any period (the _suspension period_),---
         
-    *   (a) every appointment of an FDR provider made by the organisation under [section 9(1)][11] continues during the suspension period; and
+    *   (a) every appointment of an FDR provider made by the organisation under [section 9(1)][12] continues during the suspension period; and
     
     *   (b) all terms or conditions of an appointment continue to apply in respect of that appointment.
     
-    (2) If the approval of an organisation as an approved dispute resolution organisation is cancelled under section 7,---
+    (2) If the approval of an organisation as an approved dispute resolution organisation is cancelled under [section 7][9],---
         
-    *   (a) every appointment of an FDR provider made by the organisation under [section 9(1)][11] continues for a period of 6 months from the date of cancellation of the organisation's approval; and
+    *   (a) every appointment of an FDR provider made by the organisation under [section 9(1)][12] continues for a period of 6 months from the date of cancellation of the organisation's approval; and
     
     *   (b) the Secretary may---
             
@@ -144,15 +161,15 @@ The Parliament of New Zealand enacts as follows:
     
 *   (1) The Secretary or an approved dispute resolution organisation may appoint a person as a family dispute resolution provider if that person is qualified and competent to provide services intended to resolve family disputes.
     
-    (2) In deciding whether a person meets the criteria in subsection (1), the Secretary or approved dispute resolution organisation must apply the qualification and competency requirements prescribed by regulations made under [section 15(d) and (e)][19].
+    (2) In deciding whether a person meets the criteria in subsection (1), the Secretary or approved dispute resolution organisation must apply the qualification and competency requirements prescribed by regulations made under [section 15(d) and (e)][20].
     
     (3) An appointment under subsection (1) may be made on any terms and conditions that the Secretary or the approved dispute resolution organisation (as the case may be) thinks fit.
 
 ##### 10 Suspension or cancellation of appointment of FDR providers
     
-*   (1) The Secretary may, on any ground prescribed by regulations made under [section 15(f)][19], suspend or cancel the appointment of an FDR provider that is made by the Secretary.
+*   (1) The Secretary may, on any ground prescribed by regulations made under [section 15(f)][20], suspend or cancel the appointment of an FDR provider that is made by the Secretary.
     
-    (2) An approved dispute resolution organisation may, on any ground prescribed by regulations made under [section 15(f)][19], suspend or cancel the appointment of an FDR provider that is made by the organisation.
+    (2) An approved dispute resolution organisation may, on any ground prescribed by regulations made under [section 15(f)][20], suspend or cancel the appointment of an FDR provider that is made by the organisation.
 
 ##### 11 Duties of FDR providers
     
@@ -212,9 +229,9 @@ The Parliament of New Zealand enacts as follows:
 
 ##### 13 Provision of family dispute resolution forms to court
     
-*   (1) If the parties have attended family dispute resolution pursuant to a direction made under section 46F of the Care of Children Act 2004, the FDR provider must send to the court a copy of the form given to the parties under [section 12(2), (4), (6), or (8)][15].
+*   (1) If the parties have attended family dispute resolution pursuant to a direction made under section 46F of the Care of Children Act 2004, the FDR provider must send to the court a copy of the form given to the parties under [section 12(2), (4), (6), or (8)][16].
     
-    (2) In any other case where the parties have attended family dispute resolution and proceedings have been commenced, the FDR provider must send to the court a copy of the form given to the parties under [section 12(2), (4), (6), or (8)][15] if---
+    (2) In any other case where the parties have attended family dispute resolution and proceedings have been commenced, the FDR provider must send to the court a copy of the form given to the parties under [section 12(2), (4), (6), or (8)][16] if---
         
     *   (a) requested to do so by the court; and
     
@@ -238,11 +255,11 @@ The Parliament of New Zealand enacts as follows:
     
 *   The Governor-General may, from time to time, by Order in Council, make regulations for all or any of the following purposes:
         
-    *   (a) prescribing for the purposes of [section 6(2)][7] any criteria that the Secretary must apply when deciding whether to approve an organisation as a dispute resolution organisation:
+    *   (a) prescribing for the purposes of [section 6(2)][8] any criteria that the Secretary must apply when deciding whether to approve an organisation as a dispute resolution organisation:
     
-    *   (b) prescribing for the purposes of [section 6(3)][7] the kinds of terms and conditions on which the approval of an organisation may be made:
+    *   (b) prescribing for the purposes of [section 6(3)][8] the kinds of terms and conditions on which the approval of an organisation may be made:
     
-    *   (c) prescribing for the purposes of [section 7][8] the grounds on which the Secretary may suspend or cancel the approval of an organisation as an approved dispute resolution organisation, which, without limitation, may include---
+    *   (c) prescribing for the purposes of [section 7][9] the grounds on which the Secretary may suspend or cancel the approval of an organisation as an approved dispute resolution organisation, which, without limitation, may include---
             
         *   (i) that the approval was given on the basis of information that was false or misleading in a material respect:
         
@@ -256,7 +273,7 @@ The Parliament of New Zealand enacts as follows:
         
         
     
-    *   (d) prescribing for the purposes of [section 9(2)][11] the qualification and competency requirements that must be met for a person to be appointed as an FDR provider, which, without limitation, may require a person---
+    *   (d) prescribing for the purposes of [section 9(2)][12] the qualification and competency requirements that must be met for a person to be appointed as an FDR provider, which, without limitation, may require a person---
             
         *   (i) to be a member of a specified professional body:
         
@@ -266,9 +283,9 @@ The Parliament of New Zealand enacts as follows:
         
         
     
-    *   (e) prescribing for the purposes of [section 9(2)][11] any matters that disqualify a person from being appointed as an FDR provider, which, without limitation, may include having a conviction for certain types of offences:
+    *   (e) prescribing for the purposes of [section 9(2)][12] any matters that disqualify a person from being appointed as an FDR provider, which, without limitation, may include having a conviction for certain types of offences:
     
-    *   (f) prescribing for the purposes of [section 10][12] the grounds on which the Secretary or an approved dispute resolution organisation may suspend or cancel the appointment of an FDR provider, which, without limitation, may include that the dispute resolution provider---
+    *   (f) prescribing for the purposes of [section 10][13] the grounds on which the Secretary or an approved dispute resolution organisation may suspend or cancel the appointment of an FDR provider, which, without limitation, may include that the dispute resolution provider---
             
         *   (i) was appointed on the basis of information that was false or misleading in a material respect:
         
@@ -282,38 +299,54 @@ The Parliament of New Zealand enacts as follows:
     
     
 
----
-
-## Legislative history
-
-18 September 2013Divided from the Family Court Proceedings Reform Bill (Bill 90--2) by committee of the whole House as Bill 90--3F
-
-19 September 2013Third reading
-
-24 September 2013Royal assent
+#### 
 
 ---
 
-This Act is administered by the Ministry of Justice.
+##### Reprints notes
 
-[0]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616804
-[1]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616805
-[2]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616806
-[3]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616807
-[4]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616808
-[5]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616827
-[6]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616828
-[7]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616829
-[8]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616830
-[9]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616831
-[10]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616833
-[11]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616834
-[12]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616835
-[13]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616836
-[14]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616837
-[15]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616838
-[16]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616839
-[17]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616840
-[18]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616841
-[19]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616842
-[20]: http://www.legislation.govt.nz/act/public/2013/0079/latest/link.aspx?id=DLM371925
+###### 1 General
+    
+*   This is a reprint of the Family Dispute Resolution Act 2013 that incorporates all the amendments to that Act as at the date of the last amendment to it.
+
+###### 2 Legal status
+    
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][23] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][24] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+
+###### 3 Editorial and format changes
+    
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][25] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][26] ![](/images/external_link.gif).
+
+###### 4 Amendments incorporated in this reprint
+    
+*   [Family Dispute Resolution Act Commencement Order 2014][21] (LI 2014/93)
+
+
+
+[0]: http://www.legislation.govt.nz/act/public/2013/0079/latest/link.aspx?id=DLM2998524
+[1]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616804
+[2]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616805
+[3]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616806
+[4]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616807
+[5]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616808
+[6]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616827
+[7]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616828
+[8]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616829
+[9]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616830
+[10]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616831
+[11]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616833
+[12]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616834
+[13]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616835
+[14]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616836
+[15]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616837
+[16]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616838
+[17]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616839
+[18]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616840
+[19]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616841
+[20]: http://www.legislation.govt.nz/act/public/2013/0079/latest/whole.html#DLM5616842
+[21]: http://www.legislation.govt.nz/act/public/2013/0079/latest/link.aspx?id=DLM6000405
+[22]: http://www.legislation.govt.nz/act/public/2013/0079/latest/link.aspx?id=DLM371925
+[23]: http://www.legislation.govt.nz/act/public/2013/0079/latest/link.aspx?id=DLM2998516
+[24]: http://www.legislation.govt.nz/act/public/2013/0079/latest/link.aspx?id=DLM2998515
+[25]: http://www.legislation.govt.nz/act/public/2013/0079/latest/link.aspx?id=DLM2998532
+[26]: http://www.pco.parliament.govt.nz/editorial-conventions/
