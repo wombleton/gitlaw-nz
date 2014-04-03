@@ -1,5 +1,5 @@
 Reprint  
-as at 5 December 2013
+as at 31 March 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -175,194 +175,198 @@ This Act is administered by the Ministry of Justice.
 
 [64][73][][73][Applications may be joined, etc][73]
 
-[65][74][][74][Appointment of barrister or solicitor by court or Registrar][74]
+[65][74][][74][Appointment of lawyer to represent person in respect of whom application made][74]
 
-[Pre-hearing conferences][75]
+[65A][75][][75][Appointment of lawyer to assist court][75]
 
-[66][76][][76][Calling of pre-hearing conference][76]
+[65B][76][][76][Payment of lawyer appointed under section 65A][76]
 
-[67][77][][77][Objectives of pre-hearing conference][77]
+[Pre-hearing conferences][77]
 
-[68][78][][78][Procedure at pre-hearing conference][78]
+[66][78][][78][Calling of pre-hearing conference][78]
 
-[69][79][][79][Identification of issues][79]
+[67][79][][79][Objectives of pre-hearing conference][79]
 
-[70][80][][80][Power of presiding Judge to make consent orders][80]
+[68][80][][80][Procedure at pre-hearing conference][80]
 
-[71][81][][81][Power to require attendance at pre-hearing conference][81]
+[69][81][][81][Identification of issues][81]
 
-[72][82][][82][Privilege][82]
+[70][82][][82][Power of presiding Judge to make consent orders][82]
 
-[73][83][][83][Presiding Judge may hear subsequent proceedings][83]
+[71][83][][83][Power to require attendance at pre-hearing conference][83]
 
-[Proceedings before court][84]
+[72][84][][84][Privilege][84]
 
-[74][85][][85][Attendance of person in respect of whom application is made][85]
+[73][85][][85][Presiding Judge may hear subsequent proceedings][85]
 
-[75][86][][86][Right of person to be heard and call evidence][86]
+[Proceedings before court][86]
 
-[76][87][][87][Court may call for report on person][87]
+[74][87][][87][Attendance of person in respect of whom application is made][87]
 
-[77][88][][88][Evidence][88]
+[75][88][][88][Right of person to be heard and call evidence][88]
 
-[78][89][][89][Power of court to call witnesses][89]
+[76][89][][89][Court may call for report on person][89]
 
-[79][90][][90][Attendance at hearings][90]
+[77][90][][90][Evidence][90] \[Repealed\]
 
-[80][91][][91][Publication of reports of proceedings][91]
+[78][91][][91][Power of court to call witnesses][91]
 
-[81][92][][92][Costs][92]
+[79][92][][92][Attendance at hearings][92]
 
-[Part 7][93]  
-[Appeals and reviews][93]
+[80][93][][93][Publication of reports of proceedings][93]
 
-[82][94][][94][Court to state whether order is suspended pending appeal][94]
+[81][94][][94][Costs][94]
 
-[83][95][][95][Right of appeal to High Court][95]
+[Part 7][95]  
+[Appeals and reviews][95]
 
-[83A][96][][96][Procedure on appeal to High Court][96]
+[82][96][][96][Court to state whether order is suspended pending appeal][96]
 
-[84][97][][97][Further appeal to Court of Appeal][97]
+[83][97][][97][Right of appeal to High Court][97]
 
-[85][98][][98][Appeals to Court of Appeal from decisions of High Court][98]
+[83A][98][][98][Procedure on appeal to High Court][98]
 
-[86][99][][99][Review of personal orders][99]
+[84][99][][99][Further appeal to Court of Appeal][99]
 
-[87][100][][100][Review of property orders][100]
+[85][100][][100][Appeals to Court of Appeal from decisions of High Court][100]
 
-[88][101][][101][Procedure on review][101]
+[86][101][][101][Review of personal orders][101]
 
-[89][102][][102][Review of welfare guardian's or manager's decisions][102]
+[87][102][][102][Review of property orders][102]
 
-[Part 8][103]  
-[Reciprocal provisions][103]
+[88][103][][103][Procedure on review][103]
 
-[90][104][][104][Interpretation][104]
+[89][104][][104][Review of welfare guardian's or manager's decisions][104]
 
-[91][105][][105][Powers of Public Trust as to property in New Zealand of incapacitated person in another country][105]
+[Part 8][105]  
+[Reciprocal provisions][105]
 
-[92][106][][106][Appointment of authorised officer in another country][106]
+[90][106][][106][Interpretation][106]
 
-[93][107][][107][Resealing in New Zealand][107]
+[91][107][][107][Powers of Public Trust as to property in New Zealand of incapacitated person in another country][107]
 
-[Part 9][108]  
-[Enduring powers of attorney][108]
+[92][108][][108][Appointment of authorised officer in another country][108]
 
-[93A][109][][109][Purpose of this Part][109]
+[93][109][][109][Resealing in New Zealand][109]
 
-[93B][110][][110][Presumption of competence][110]
+[Part 9][110]  
+[Enduring powers of attorney][110]
 
-[94][111][][111][Interpretation][111]
+[93A][111][][111][Purpose of this Part][111]
 
-[94A][112][][112][Creation of enduring power of attorney][112]
+[93B][112][][112][Presumption of competence][112]
 
-[95][113][][113][When power of attorney is an enduring power of attorney][113]
+[94][113][][113][Interpretation][113]
 
-[96][114][][114][Enduring power of attorney not revoked by donor's subsequent mental incapacity][114]
+[94A][114][][114][Creation of enduring power of attorney][114]
 
-[97][115][][115][Enduring power of attorney in relation to property][115]
+[95][115][][115][When power of attorney is an enduring power of attorney][115]
 
-[97A][116][][116][Exercise of enduring power of attorney in relation to property][116]
+[96][116][][116][Enduring power of attorney not revoked by donor's subsequent mental incapacity][116]
 
-[98][117][][117][Enduring power of attorney in relation to personal care and welfare][117]
+[97][117][][117][Enduring power of attorney in relation to property][117]
 
-[98A][118][][118][Exercise of enduring power of attorney in relation to personal care and welfare][118]
+[97A][118][][118][Exercise of enduring power of attorney in relation to property][118]
 
-[99][119][][119][Both kinds of powers may be given][119]
+[98][119][][119][Enduring power of attorney in relation to personal care and welfare][119]
 
-[99A][120][][120][Attorney's duty to consult][120]
+[98A][120][][120][Exercise of enduring power of attorney in relation to personal care and welfare][120]
 
-[99B][121][][121][Attorney must provide information on exercise of powers][121]
+[99][121][][121][Both kinds of powers may be given][121]
 
-[99C][122][][122][Attorney as to property must keep records][122]
+[99A][122][][122][Attorney's duty to consult][122]
 
-[99D][123][][123][Medical certification of incapacity][123]
+[99B][123][][123][Attorney must provide information on exercise of powers][123]
 
-[100][124][][124][Enduring powers of attorney subject to personal order and property order][124]
+[99C][124][][124][Attorney as to property must keep records][124]
 
-[100A][125][][125][Suspension of attorney's power to act][125]
+[99D][125][][125][Medical certification of incapacity][125]
 
-[101][126][][126][Attorney may seek directions from court][126]
+[100][126][][126][Enduring powers of attorney subject to personal order and property order][126]
 
-[102][127][][127][Court's jurisdiction in respect of an enduring power of attorney][127]
+[100A][127][][127][Suspension of attorney's power to act][127]
 
-[102A][128][][128][Persons who may apply for exercise of court's jurisdiction][128]
+[101][128][][128][Attorney may seek directions from court][128]
 
-[103][129][][129][Review of attorney's decisions][129]
+[102][129][][129][Court's jurisdiction in respect of an enduring power of attorney][129]
 
-[103A][130][][130][Validity of actions under power of attorney not meeting requirements of section 94A or 95][130]
+[102A][130][][130][Persons who may apply for exercise of court's jurisdiction][130]
 
-[103B][131][][131][Effect of attorney's decision on third parties][131]
+[103][131][][131][Review of attorney's decisions][131]
 
-[103C][132][][132][Effect of attorney's actions, etc, before notice of revocation or suspension received][132]
+[103A][132][][132][Validity of actions under power of attorney not meeting requirements of section 94A or 95][132]
 
-[104][133][][133][Disclaimer by attorney][133]
+[103B][133][][133][Effect of attorney's decision on third parties][133]
 
-[105][134][][134][Court may revoke appointment of attorney][134]
+[103C][134][][134][Effect of attorney's actions, etc, before notice of revocation or suspension received][134]
 
-[106][135][][135][Circumstances in which enduring power of attorney shall cease to have effect][135]
+[104][135][][135][Disclaimer by attorney][135]
 
-[107][136][][136][Attorney's power to benefit self and others][136]
+[105][136][][136][Court may revoke appointment of attorney][136]
 
-[108][137][][137][Procedure][137]
+[106][137][][137][Circumstances in which enduring power of attorney shall cease to have effect][137]
 
-[108AA][138][][138][Enduring powers of attorney created before Protection of Personal and Property Rights Amendment Act 2007][138]
+[107][138][][138][Attorney's power to benefit self and others][138]
 
-[108AAB][139][][139][Review of Protection of Personal and Property Rights Amendment Act 2007][139]
+[108][139][][139][Procedure][139]
 
-[Part 9A][140]  
-[Payment of money or damages][140]
+[108AA][140][][140][Enduring powers of attorney created before Protection of Personal and Property Rights Amendment Act 2007][140]
 
-[108A][141][][141][Interpretation][141]
+[108AAB][141][][141][Review of Protection of Personal and Property Rights Amendment Act 2007][141]
 
-[108B][142][][142][Approval of court required to settle claims of specified persons][142]
+[Part 9A][142]  
+[Payment of money or damages][142]
 
-[108C][143][][143][Applications for approval of court][143]
+[108A][143][][143][Interpretation][143]
 
-[108D][144][][144][Money or damages may be held upon trust][144]
+[108B][144][][144][Approval of court required to settle claims of specified persons][144]
 
-[108E][145][][145][Money or damages held by manager][145]
+[108C][145][][145][Applications for approval of court][145]
 
-[108F][146][][146][Termination of trust][146]
+[108D][146][][146][Money or damages may be held upon trust][146]
 
-[108G][147][][147][Part does not affect Deaths by Accidents Compensation Act 1952][147]
+[108E][147][][147][Money or damages held by manager][147]
 
-[Part 10][148]  
-[Miscellaneous provisions][148]
+[108F][148][][148][Termination of trust][148]
 
-[109][149][][149][Orders may be registered][149]
+[108G][149][][149][Part does not affect Deaths by Accidents Compensation Act 1952][149]
 
-[110][150][][150][Remission of fees in cases of hardship][150]
+[Part 10][150]  
+[Miscellaneous provisions][150]
 
-[111][151][][151][Rules of procedure][151]
+[109][151][][151][Orders may be registered][151]
 
-[111A][152][][152][Transitional provision relating to rules][152]
+[110][152][][152][Remission of fees in cases of hardship][152]
 
-[112][153][][153][Regulations][153]
+[111][153][][153][Rules of procedure][153]
 
-[113][154][][154][Reference to Aged and Infirm Persons Protection Act 1912 and Part 7 of the Mental Health Act 1969 in other Acts][154]
+[111A][154][][154][Transitional provision relating to rules][154]
 
-[114][155][][155][Savings][155]
+[112][155][][155][Regulations][155]
 
-[115][156][][156][Maori Affairs Act 1953 amended][156] \[Repealed\]
+[113][156][][156][Reference to Aged and Infirm Persons Protection Act 1912 and Part 7 of the Mental Health Act 1969 in other Acts][156]
 
-[116][157][][157][Repeals][157]
+[114][157][][157][Savings][157]
 
-[117][158][][158][Transitional provisions][158]
+[115][158][][158][Maori Affairs Act 1953 amended][158] \[Repealed\]
 
-[Schedule 1][159]  
-[Powers of managers][159]
+[116][159][][159][Repeals][159]
 
-[Schedule 2][160]  
-[Further powers of Public Trust as manager][160]
+[117][160][][160][Transitional provisions][160]
 
-[Schedule 3][161]  
-[Form of enduring power of attorney in relation to property][161]
+[Schedule 1][161]  
+[Powers of managers][161]
+
+[Schedule 2][162]  
+[Further powers of Public Trust as manager][162]
+
+[Schedule 3][163]  
+[Form of enduring power of attorney in relation to property][163]
 
 \[Repealed\]
 
-[Schedule 4][162]  
-[Enactments repealed][162]
+[Schedule 4][164]  
+[Enactments repealed][164]
 
 ---
 
@@ -384,13 +388,13 @@ An Act to provide for the protection and promotion of the personal and property 
     
     _court_,---
         
-    *   (a) for the purposes of [Part 9A][140] has the meaning given to it by [section 108A][141]:
+    *   (a) for the purposes of [Part 9A][142] has the meaning given to it by [section 108A][143]:
     
     *   (b) for any other purpose of this Act, means a Family Court
     
     _manager_ means a person appointed under [section 31][35] as manager of any property; and includes a trustee corporation that is acting as manager for any person pursuant to [section 32][38] or [section 33][39]; but does not include a person appointed under [section 11][13] to administer any property
     
-    _medical practitioner_ means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by [section 114(1)(a)][163] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
+    _medical practitioner_ means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by [section 114(1)(a)][165] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
     
     _parent_, in relation to any person (**A**), includes a step-parent; but, if A is under the age of 18 years, only if the step-parent shares responsibility for the day-to-day care of A with a parent of A
     
@@ -402,7 +406,7 @@ An Act to provide for the protection and promotion of the personal and property 
     
     _property order_ means an order made under [section 31][35]; and includes a temporary order made under [section 30][34]
     
-    _psychologist_ means a health practitioner who is, or is deemed to be, registered with the Psychologists Board continued by [section 114(1)(a)][163] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of psychology
+    _psychologist_ means a health practitioner who is, or is deemed to be, registered with the Psychologists Board continued by [section 114(1)(a)][165] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of psychology
     
     _relative_, in relation to any person, means---
         
@@ -418,29 +422,29 @@ An Act to provide for the protection and promotion of the personal and property 
     
     *   (f) a nephew or niece of that person, or of the spouse or other person referred to in paragraph (a)
     
-    _social worker_ means a person employed under [Part 5][164] of the State Sector Act 1988 in the department for the time being responsible for the administration of the [Children, Young Persons, and Their Families Act 1989][165] as a social worker
+    _social worker_ means a person employed under [Part 5][166] of the State Sector Act 1988 in the department for the time being responsible for the administration of the [Children, Young Persons, and Their Families Act 1989][167] as a social worker
     
-    _trustee corporation_ means the Māori Trustee, Public Trust, and every trustee company within the meaning of the [Trustee Companies Act 1967][166]
+    _trustee corporation_ means the Māori Trustee, Public Trust, and every trustee company within the meaning of the [Trustee Companies Act 1967][168]
     
     _welfare guardian_ means a person appointed under [section 12][14] as a welfare guardian.
     
-    Section 2 **court**: substituted, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Section 2 **court**: substituted, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 2 **medical practitioner**: inserted, on 18 September 2004, by [section 175(1)][168] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48). 
+    Section 2 **medical practitioner**: inserted, on 18 September 2004, by [section 175(1)][170] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48). 
     
-    Section 2 **parent**: substituted, on 26 April 2005, by [section 7][169] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 2 **parent**: substituted, on 26 April 2005, by [section 7][171] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 2 **psychologist**: inserted, on 18 September 2004, by [section 175(1)][168] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 2 **psychologist**: inserted, on 18 September 2004, by [section 175(1)][170] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 2 **relative** paragraph (a): substituted, on 26 April 2005, by [section 7][169] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 2 **relative** paragraph (a): substituted, on 26 April 2005, by [section 7][171] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 2 **social worker**: substituted, on 1 April 1990, by [section 36(5)][170] of the Social Welfare (Transitional Provisions) Act 1990 (1990 No 26).
+    Section 2 **social worker**: substituted, on 1 April 1990, by [section 36(5)][172] of the Social Welfare (Transitional Provisions) Act 1990 (1990 No 26).
     
-    Section 2 **social worker**: amended, on 1 October 1999, by [section 13][171] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
+    Section 2 **social worker**: amended, on 1 October 1999, by [section 13][173] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
     
-    Section 2 **trustee corporation**: amended, on 1 July 2009, pursuant to [section 30(2)(a)][172] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 2 **trustee corporation**: amended, on 1 July 2009, pursuant to [section 30(2)(a)][174] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 2 **trustee corporation**: amended, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Section 2 **trustee corporation**: amended, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
 
 ##### 3 Act binds the Crown
     
@@ -479,7 +483,7 @@ Personal rights
     
     (3) The fact that the person in respect of whom the application is made for the exercise of the court's jurisdiction has made or is intending to make any decision that a person exercising ordinary prudence would not have made or would not make given the same circumstances is not in itself sufficient ground for the exercise of that jurisdiction by the court.
     
-    Section 6(2): substituted, on 1 July 2005, by [section 151][173] of the Care of Children Act 2004 (2004 No 90).
+    Section 6(2): substituted, on 1 July 2005, by [section 151][175] of the Care of Children Act 2004 (2004 No 90).
 
 ##### 7 Persons who may apply for exercise of court's jurisdiction
     
@@ -495,13 +499,13 @@ Personal rights
     
     *   (e) a representative of any group that is engaged, otherwise than for commercial gain, in the provision of services and facilities for the welfare of persons in relation to whom the court has jurisdiction in accordance with [section 6][8]:
     
-    *   (f) where the exercise of the court's jurisdiction is sought in respect of any person who is a patient or a resident in any place that provides hospital care, rest home care, or residential disability care within the meaning of the [Health and Disability Services (Safety) Act 2001][174], the principal manager of that place:
+    *   (f) where the exercise of the court's jurisdiction is sought in respect of any person who is a patient or a resident in any place that provides hospital care, rest home care, or residential disability care within the meaning of the [Health and Disability Services (Safety) Act 2001][176], the principal manager of that place:
     
     *   (g) where the exercise of the court's jurisdiction is sought in respect of any person subject to a property order, the manager of that person's property:
     
     *   (h) any other person, with leave of the court.
     
-    Section 7(f): substituted, on 25 September 2008, by [section 4][175] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 7(f): substituted, on 25 September 2008, by [section 4][177] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
 
 ##### 8 Primary objectives of court in exercise of jurisdiction under this Part
     
@@ -551,7 +555,7 @@ Personal rights
     
     (4) Where a court makes any personal order, it may also make such other orders and give such directions as may be necessary or expedient to give effect, or better effect, to the personal order.
     
-    Section 10(1)(a): repealed, on 28 March 2007, by [section 11][176] of the Disabled Persons Employment Promotion Repeal Act 2007 (2007 No 11).
+    Section 10(1)(a): repealed, on 28 March 2007, by [section 11][178] of the Disabled Persons Employment Promotion Repeal Act 2007 (2007 No 11).
 
 ##### 11 Order to administer property
     
@@ -577,9 +581,9 @@ Personal rights
     
     (5) The provisions of subsections (3) to (7) of [section 31][35], [sections 37][44], [43][50], [44][51], [49][56], and [50][57] (so far as it relates to expenses), and paragraphs (a), (b), and (e) of [section 52][59], so far as they are applicable and with any necessary modifications, shall apply to every person appointed to administer any property under this Act.
     
-    Section 11(2): substituted, on 28 July 1997, by [section 2][177] of the Protection of Personal and Property Rights Amendment Act 1997 (1997 No 52).
+    Section 11(2): substituted, on 28 July 1997, by [section 2][179] of the Protection of Personal and Property Rights Amendment Act 1997 (1997 No 52).
     
-    Section 11(2)(a): amended, on 1 August 2007, by [clause 3][178] of the Protection of Personal and Property Rights Order 2007 (SR 2007/196).
+    Section 11(2)(a): amended, on 1 August 2007, by [clause 3][180] of the Protection of Personal and Property Rights Order 2007 (SR 2007/196).
 
 ##### 12 Court may appoint welfare guardian
     
@@ -615,7 +619,7 @@ Personal rights
     
     (8) In any order under this section, the court shall specify a date, being not later than 3 years after the date of the order, by which the welfare guardian is required to apply to the court for a review of the order.
     
-    Section 12(3): amended, on 26 April 2005, by [section 7][169] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 12(3): amended, on 26 April 2005, by [section 7][171] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 13 Court may make recommendations instead of order
     
@@ -716,7 +720,7 @@ Welfare guardians
     
     (6) A welfare guardian may apply to a court for directions relating to the exercise of the powers of the welfare guardian, and the court may give such directions as it thinks fit.
     
-    Section 18(1)(a): amended, on 26 April 2005, by [section 7][169] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 18(1)(a): amended, on 26 April 2005, by [section 7][171] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 19 Effect of welfare guardian's decisions, etc
     
@@ -736,7 +740,7 @@ Welfare guardians
     
     (2) A court may order that any expenses incurred or to be incurred by a welfare guardian in the exercise of the powers and duties conferred by or under this Act shall be met, in whole or in part, out of a Crown Bank Account from money appropriated for the purpose by Parliament; and every such order shall have effect according to its tenor.
     
-    Section 21(2): amended, on 25 January 2005, pursuant to [section 83(7)][179] of the Public Finance Act 1989 (1989 No 44).
+    Section 21(2): amended, on 25 January 2005, pursuant to [section 83(7)][181] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 22 When welfare guardian ceases to hold office
     
@@ -746,7 +750,7 @@ Welfare guardians
     
     *   (b) if the welfare guardian dies or is adjudged bankrupt or becomes a special patient or a committed patient under the Mental Health Act 1969 or becomes subject to a property order or becomes otherwise incapable of acting; or
     
-    *   (c) if the personal order by which the welfare guardian was appointed expires in accordance with [section 17][19] or is discharged by the court under [section 86][99].
+    *   (c) if the personal order by which the welfare guardian was appointed expires in accordance with [section 17][19] or is discharged by the court under [section 86][101].
     
     
 
@@ -801,13 +805,13 @@ Property rights
     
     *   (f) a representative of any group that is engaged, otherwise than for commercial gain, in the provision of services and facilities for the welfare of persons in relation to whom the court has jurisdiction under this Act in accordance with [section 25][29]:
     
-    *   (g) where the exercise of the court's jurisdiction is sought in respect of any person who is a patient or a resident in any place that provides hospital care, rest home care, or residential disability care within the meaning of the [Health and Disability Services (Safety) Act 2001][174], the principal manager of that place:
+    *   (g) where the exercise of the court's jurisdiction is sought in respect of any person who is a patient or a resident in any place that provides hospital care, rest home care, or residential disability care within the meaning of the [Health and Disability Services (Safety) Act 2001][176], the principal manager of that place:
     
     *   (h) where a welfare guardian has been appointed for the person in respect of whom the application is made, that welfare guardian:
     
     *   (i) any other person, with leave of the court.
     
-    Section 26(g): substituted, on 25 September 2008, by [section 5][180] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 26(g): substituted, on 25 September 2008, by [section 5][182] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
 
 ##### 27 Need for application in respect of hospital patient, etc, may be investigated
     
@@ -859,7 +863,7 @@ Property rights
     
     (2) If the court is satisfied that the person in respect of whom the application is made is a person in relation to whom it has jurisdiction under this Part in accordance with [section 25][29], the court shall determine whether or not to make an order under [section 31][35], and (if so) in relation to what property, having regard to the primary objectives specified in [section 28][32].
     
-    (3) If the court decides to make an order under [section 31][35] in relation to any property, it shall determine which of the rights and powers specified in clause 1 of [Schedule 1][159] the manager is to have in respect of that property, what other rights and powers (if any) the manager is to have in respect of that property, and what restrictions (if any) are to be imposed on the exercise of any such rights and powers.
+    (3) If the court decides to make an order under [section 31][35] in relation to any property, it shall determine which of the rights and powers specified in clause 1 of [Schedule 1][161] the manager is to have in respect of that property, what other rights and powers (if any) the manager is to have in respect of that property, and what restrictions (if any) are to be imposed on the exercise of any such rights and powers.
 
 ##### 30 Temporary orders
     
@@ -877,7 +881,7 @@ Property rights
     
     (3) It shall not be necessary to serve a copy of an application for a temporary order on the person in respect of whom the order is sought, nor shall that person be entitled to attend, or be heard, or call or cross-examine witnesses in respect of the application, unless the court otherwise orders.
     
-    (4) Nothing in [sections 66 to 73][76] shall apply in respect of an application for a temporary order under this section.
+    (4) Nothing in [sections 66 to 73][78] shall apply in respect of an application for a temporary order under this section.
     
     (5) If a court makes a temporary order, it shall appoint as temporary manager such fit and proper person (being a person who would be eligible for appointment as manager under [section 31][35]) to take possession and control of the property of the person in respect of whom the order is made, or such of that person's property as may be specified in the order.
     
@@ -911,25 +915,25 @@ Property rights
     
     (8) In any order made under this section, the court shall specify a date, being not later than 3 years after the date of the order, by which the manager is required to apply to the court for a review of the order.
     
-    Section 31(1): amended, on 1 July 1993, by [section 362(1)][181] of Te Ture Whenua Maori Act 1993 (1993 No 4).
+    Section 31(1): amended, on 1 July 1993, by [section 362(1)][183] of Te Ture Whenua Maori Act 1993 (1993 No 4).
 
 ##### 31A Kai tiaki trusts
     
-*   Where a kai tiaki trust is constituted under [section 217][182] of Te Ture Whenua Maori Act 1993 in respect of any interests in Maori land or General land or any shares in a Maori incorporation or any personal property to which any person under disability (within the meaning of [Part 12][183] of that Act) is entitled, no property order made under [section 31][35] and no declaration accepted by a trustee corporation and filed under [section 32(3)][38] or [section 33(4)][39] shall apply in respect of any such interests or shares or property.
+*   Where a kai tiaki trust is constituted under [section 217][184] of Te Ture Whenua Maori Act 1993 in respect of any interests in Maori land or General land or any shares in a Maori incorporation or any personal property to which any person under disability (within the meaning of [Part 12][185] of that Act) is entitled, no property order made under [section 31][35] and no declaration accepted by a trustee corporation and filed under [section 32(3)][38] or [section 33(4)][39] shall apply in respect of any such interests or shares or property.
     
-    Section 31A: inserted, on 1 July 1993, by [section 362(1)][181] of Te Ture Whenua Maori Act 1993 (1993 No 4).
+    Section 31A: inserted, on 1 July 1993, by [section 362(1)][183] of Te Ture Whenua Maori Act 1993 (1993 No 4).
 
 ##### 31B Maori land or shares in Maori incorporation
     
 *   (1) Where it appears to a Family Court that an application for the exercise of the court's jurisdiction under this Part may result in an order appointing 1 or more persons to act as the manager of---
         
-    *   (a) beneficial interests in Maori freehold land (as defined in [section 4][184] of Te Ture Whenua Maori Act 1993); or
+    *   (a) beneficial interests in Maori freehold land (as defined in [section 4][186] of Te Ture Whenua Maori Act 1993); or
     
-    *   (b) shares in a Maori incorporation (as defined in [section 246][185] of Te Ture Whenua Maori Act 1993),---
+    *   (b) shares in a Maori incorporation (as defined in [section 246][187] of Te Ture Whenua Maori Act 1993),---
     
     the court shall refer that application to the Maori Land Court.
     
-    (2) Where an application is referred to the Maori Land Court under subsection (1), the Maori Land Court shall treat that application, to the extent that it relates to beneficial interests in Maori freehold land or shares in a Maori incorporation or both, as if it were an application under [section 217][182] of Te Ture Whenua Maori Act 1993 for the constitution of a kai tiaki trust in respect of those interests or shares or both.
+    (2) Where an application is referred to the Maori Land Court under subsection (1), the Maori Land Court shall treat that application, to the extent that it relates to beneficial interests in Maori freehold land or shares in a Maori incorporation or both, as if it were an application under [section 217][184] of Te Ture Whenua Maori Act 1993 for the constitution of a kai tiaki trust in respect of those interests or shares or both.
     
     (3) Where the Maori Land Court constitutes a kai tiaki trust in respect of any beneficial interests in Maori freehold land or shares in a Maori incorporation,---
         
@@ -943,7 +947,7 @@ Property rights
     
     *   (b) otherwise exercise its jurisdiction under this Part in respect of those interests or shares or any of them.
     
-    Section 31B: inserted, on 1 July 1993, by [section 362(1)][181] of Te Ture Whenua Maori Act 1993 (1993 No 4).
+    Section 31B: inserted, on 1 July 1993, by [section 362(1)][183] of Te Ture Whenua Maori Act 1993 (1993 No 4).
 
 ##### 32 Application to trustee corporation to act as manager
     
@@ -987,7 +991,7 @@ Property rights
     
     (5) On the filing of a copy of an application under subsection (3), the trustee corporation shall become the manager of the property specified in the application and shall have and may exercise in respect of that property the rights and powers specified in the application.
     
-    Section 32(2)(c)(i): substituted, on 18 September 2004, by [section 175(1)][168] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 32(2)(c)(i): substituted, on 18 September 2004, by [section 175(1)][170] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
 
 ##### 33 Application to trustee corporation in respect of small estates
     
@@ -1029,11 +1033,11 @@ Property rights
     
     (7) If, after filing a copy of an application under subsection (6), the gross value of the person's property is found to exceed $120,000 or such other amount as is, from time to time, prescribed by Order in Council for the purposes of this subsection at the time of such filing, the trustee corporation shall file in the court a memorandum stating that fact, and seeking the leave of the court to withdraw the application.
     
-    Section 33(1): amended, on 28 July 1997, by [section 3(1)][186] of the Protection of Personal and Property Rights Amendment Act 1997 (1997 No 52).
+    Section 33(1): amended, on 28 July 1997, by [section 3(1)][188] of the Protection of Personal and Property Rights Amendment Act 1997 (1997 No 52).
     
-    Section 33(3)(c): substituted, on 18 September 2004, by [section 175(1)][168] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 33(3)(c): substituted, on 18 September 2004, by [section 175(1)][170] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 33(7): amended, on 28 July 1997, by [section 3(2)][186] of the Protection of Personal and Property Rights Amendment Act 1997 (1997 No 52).
+    Section 33(7): amended, on 28 July 1997, by [section 3(2)][188] of the Protection of Personal and Property Rights Amendment Act 1997 (1997 No 52).
 
 ##### 34 When a person ceases to be subject to property order
     
@@ -1041,7 +1045,7 @@ Property rights
         
     *   (a) the person dies; or
     
-    *   (b) the court discharges the property order under [section 87][100]; or
+    *   (b) the court discharges the property order under [section 87][102]; or
     
     *   (c) in any case where a trustee corporation is acting as manager pursuant to [section 32][38] or [section 33][39], 7 days after the person for whom the corporation is acting, by notice in writing to the corporation (a copy of which notice the corporation shall forthwith file with the court) declares that the corporation shall no longer act as manager.
     
@@ -1082,15 +1086,15 @@ Managers
     
     (6) Public Trust may commence or institute proceedings against any such manager for any breach of duty, and may apply to the court _ex parte_ for an injunction to restrain any such breach or any threatened breach.
     
-    Section 37(1): amended, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Section 37(1): amended, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 37(3): amended, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Section 37(3): amended, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 37(4): amended, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Section 37(4): amended, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 37(5): amended, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Section 37(5): amended, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 37(6): amended, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Section 37(6): amended, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
 
 ##### 38 Powers of manager
     
@@ -1098,47 +1102,47 @@ Managers
     
     (2) A manager of the property of a person subject to a property order may apply to a court for directions relating to the exercise of any of the manager's rights and powers.
     
-    (3) Where a manager is, in accordance with this Act, authorised to make an application under [section 122][187] of the Land Transfer Act 1952 to have a transmission registered, a District Land Registrar is authorised to accept such an application notwithstanding the fact that the manager is not the person claiming to be entitled to the estate or interest in land.
+    (3) Where a manager is, in accordance with this Act, authorised to make an application under [section 122][189] of the Land Transfer Act 1952 to have a transmission registered, a District Land Registrar is authorised to accept such an application notwithstanding the fact that the manager is not the person claiming to be entitled to the estate or interest in land.
     
     Section 38(3): added, on 1 July 1994, by section 4 of the Protection of Personal and Property Rights Amendment Act 1994 (1994 No 54).
 
 ##### 39 Additional powers where Public Trust appointed manager
     
-*   For the purpose of enabling Public Trust to exercise effectively any of the powers conferred on Public Trust by or under this Act or any other enactment or by any order of the court or by law, or to do any other act or thing that Public Trust is thereby authorised or empowered to do, Public Trust may, either in Public Trust's own corporate name or in the name and on behalf of the person subject to a property order, exercise the powers in [clause 1][188] of Schedule 2\.
+*   For the purpose of enabling Public Trust to exercise effectively any of the powers conferred on Public Trust by or under this Act or any other enactment or by any order of the court or by law, or to do any other act or thing that Public Trust is thereby authorised or empowered to do, Public Trust may, either in Public Trust's own corporate name or in the name and on behalf of the person subject to a property order, exercise the powers in [clause 1][190] of Schedule 2\.
     
-    Section 39 heading: amended, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Section 39 heading: amended, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 39: amended, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Section 39: amended, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
 
 ##### 40 Application of Public Trust Act 2001
     
-*   (1) The management of the property of a person subject to a property order in respect of which Public Trust is the manager or one of the managers shall be deemed to be placed in Public Trust; and, subject to the provisions of this Act, all the provisions of the [Public Trust Act 2001][189], so far as they are applicable and with any necessary modifications, shall extend and apply accordingly to the management of that person's property.
+*   (1) The management of the property of a person subject to a property order in respect of which Public Trust is the manager or one of the managers shall be deemed to be placed in Public Trust; and, subject to the provisions of this Act, all the provisions of the [Public Trust Act 2001][191], so far as they are applicable and with any necessary modifications, shall extend and apply accordingly to the management of that person's property.
     
     (2) All expenses incurred by Public Trust as manager, whether alone or together with any other person or persons, in respect of the maintenance of any person subject to a property order or in the management of the property of any such person, or in the exercise of the powers, authorities, and discretions conferred on Public Trust in respect of that property, shall be charged against and payable out of that person's property; and, in addition, there shall be payable in respect of that property remuneration and amounts in accordance with Public Trust's scale of charges.
     
     (3) All such expenses, commissions, and other charges shall be payable out of the estate of the person subject to a property order notwithstanding that the person dies or his or her property otherwise ceases to be under the management of Public Trust before such payment is made.
     
-    Section 40 heading: amended, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Section 40 heading: amended, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 40(1): amended, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Section 40(1): amended, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 40(2): amended, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Section 40(2): amended, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 40(3): amended, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Section 40(3): amended, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
 
 ##### 41 Application of Maori Trustee Act 1953
     
-*   (1) The management of the property of a person subject to a property order in respect of which the Māori Trustee is the manager or one of the managers shall be deemed to be placed in the Māori Trustee; and, subject to the provisions of this Act, all the provisions of the [Maori Trustee Act 1953][190], so far as they are applicable and with any necessary modifications, shall extend and apply accordingly to the management of that person's property.
+*   (1) The management of the property of a person subject to a property order in respect of which the Māori Trustee is the manager or one of the managers shall be deemed to be placed in the Māori Trustee; and, subject to the provisions of this Act, all the provisions of the [Maori Trustee Act 1953][192], so far as they are applicable and with any necessary modifications, shall extend and apply accordingly to the management of that person's property.
     
-    (2) All expenses incurred by the Māori Trustee as manager, whether alone or together with any other person or persons, in respect of the maintenance of any person subject to a property order or in the management of the property of any such person, or in the exercise of the powers, authorities, and discretions conferred on the Māori Trustee in respect of that property, shall be charged against and payable out of that person's property; and, in addition, there shall be payable in respect of that property the commissions and other charges from time to time prescribed by regulations made under [section 48][191] of the Maori Trustee Act 1953\.
+    (2) All expenses incurred by the Māori Trustee as manager, whether alone or together with any other person or persons, in respect of the maintenance of any person subject to a property order or in the management of the property of any such person, or in the exercise of the powers, authorities, and discretions conferred on the Māori Trustee in respect of that property, shall be charged against and payable out of that person's property; and, in addition, there shall be payable in respect of that property the commissions and other charges from time to time prescribed by regulations made under [section 48][193] of the Maori Trustee Act 1953\.
     
     (3) All such expenses, commissions, and other charges shall be payable out of the estate of the person subject to a property order notwithstanding that the person dies or his or her property otherwise ceases to be under the management of the Māori Trustee before such payment is made.
     
-    Section 41(1): amended, on 1 July 2009, by [section 30(1)][172] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 41(1): amended, on 1 July 2009, by [section 30(1)][174] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 41(2): amended, on 1 July 2009, by [section 30(1)][172] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 41(2): amended, on 1 July 2009, by [section 30(1)][174] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 41(3): amended, on 1 July 2009, by [section 30(1)][172] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 41(3): amended, on 1 July 2009, by [section 30(1)][174] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 42 Manager's powers subject to provisions of personal order
     
@@ -1192,9 +1196,9 @@ Managers
     
     Section 45(2A): inserted, on 1 July 1994, by section 5 of the Protection of Personal and Property Rights Amendment Act 1994 (1994 No 54).
     
-    Section 45(3): amended, on 1 July 2013, by [section 413][192] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 45(3): amended, on 1 July 2013, by [section 413][194] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 45(4): amended, on 1 July 2013, by [section 413][192] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 45(4): amended, on 1 July 2013, by [section 413][194] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 46 Statement to be examined by or on behalf of Public Trust
     
@@ -1214,19 +1218,19 @@ Managers
     
     (8) Public Trust, or a chartered accountant appointed by Public Trust for the purposes of this section, shall not be liable for any expenses or costs under this section.
     
-    Section 46 heading: amended, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Section 46 heading: amended, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 46(1): amended, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Section 46(1): amended, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 46(2): amended, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Section 46(2): amended, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 46(4): amended, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Section 46(4): amended, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 46(5): amended, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Section 46(5): amended, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 46(6): amended, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Section 46(6): amended, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 46(8): amended, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Section 46(8): amended, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
 
 ##### 47 Inspection and copying of statements and reports by leave
     
@@ -1258,7 +1262,7 @@ Managers
     
 *   \[Repealed\]
     
-    Section 51: repealed, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Section 51: repealed, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
 
 ##### 52 When manager ceases to hold office
     
@@ -1270,7 +1274,7 @@ Managers
     
     *   (c) unless the court otherwise orders in any case where there are 2 or more managers, if one of the other managers dies or is adjudged bankrupt or becomes a special patient or a committed patient under the Mental Health Act 1969 or becomes subject to a property order or becomes otherwise incapable of acting; or
     
-    *   (d) if the property order is discharged by the court under [section 87][100]; or
+    *   (d) if the property order is discharged by the court under [section 87][102]; or
     
     *   (e) unless the court otherwise orders, if another person is appointed as manager.
     
@@ -1333,9 +1337,9 @@ Powers and property of persons subject to property orders
         
     *   (a) it is valid despite---
             
-        *   (i) [section 11][193] of the Wills Act 2007; and
+        *   (i) [section 11][195] of the Wills Act 2007; and
         
-        *   (ii) [sections 9][194] and [10][195] of the Wills Act 1837 of the United Kingdom Parliament; and
+        *   (ii) [sections 9][196] and [10][197] of the Wills Act 1837 of the United Kingdom Parliament; and
         
         
     
@@ -1347,13 +1351,13 @@ Powers and property of persons subject to property orders
         
         
     
-    (6) The [Law Reform (Testamentary Promises) Act 1949][196], the [Family Protection Act 1955][197], and all other enactments and rules of law relating to the estates of deceased persons shall apply in respect of any testamentary disposition executed under this section as if the person to whom it relates had had testamentary capacity and had executed the testamentary disposition in accordance with law.
+    (6) The [Law Reform (Testamentary Promises) Act 1949][198], the [Family Protection Act 1955][199], and all other enactments and rules of law relating to the estates of deceased persons shall apply in respect of any testamentary disposition executed under this section as if the person to whom it relates had had testamentary capacity and had executed the testamentary disposition in accordance with law.
     
     (7) Notwithstanding paragraph (c) of subsection (4), a testamentary disposition that is signed in accordance with paragraph (a) of that subsection, and attested and subscribed in accordance with paragraph (b) of that subsection, shall be valid notwithstanding that the person to whom the testamentary disposition relates dies before it is sealed with the seal of the court so long as the terms of the testamentary disposition accord with the directions of the court.
     
     (8) A testamentary disposition authorised and executed in accordance with this section shall continue to have effect, until it is revoked, notwithstanding that the person to whom it relates has ceased to be subject to a property order.
     
-    Section 55(5): substituted, on 1 November 2007, by [section 41][198] of the Wills Act 2007 (2007 No 36).
+    Section 55(5): substituted, on 1 November 2007, by [section 41][200] of the Wills Act 2007 (2007 No 36).
 
 ##### 56 Testamentary law otherwise unaffected
     
@@ -1375,19 +1379,19 @@ Powers and property of persons subject to property orders
     
     (3) For the purposes of subsection (2),---
     
-    _company_ has the same meaning as in [section 2(1)][199] of the Companies Act 1993
+    _company_ has the same meaning as in [section 2(1)][201] of the Companies Act 1993
     
-    _subsidiary_ has the same meaning as in [section 5][200] of the Companies Act 1993\.
+    _subsidiary_ has the same meaning as in [section 5][202] of the Companies Act 1993\.
     
     Section 57(1)(a): amended, on 1 July 1994, by section 6 of the Protection of Personal and Property Rights Amendment Act 1994 (1994 No 54).
     
-    Section 57(1)(c): amended, on 1 January 2008, by [section 364(1)][201] of the Property Law Act 2007 (2007 No 91).
+    Section 57(1)(c): amended, on 1 January 2008, by [section 364(1)][203] of the Property Law Act 2007 (2007 No 91).
     
-    Section 57(1)(d): amended, on 1 January 2008, by [section 364(1)][201] of the Property Law Act 2007 (2007 No 91).
+    Section 57(1)(d): amended, on 1 January 2008, by [section 364(1)][203] of the Property Law Act 2007 (2007 No 91).
     
-    Section 57(2): amended, on 5 December 2013, by [section 14][202] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 57(2): amended, on 5 December 2013, by [section 14][204] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 57(3): replaced, on 5 December 2013, by [section 14][202] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 57(3): replaced, on 5 December 2013, by [section 14][204] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 58 Notional preservation of character of assets converted
     
@@ -1419,9 +1423,9 @@ Powers and property of persons subject to property orders
     
     (4) At any time before the death of a person in respect of whom the court has made an order under this section, and whether or not that person is still subject to a property order, the court may vary or discharge the charge and give any consequential directions.
     
-    (5) Nothing in this section shall apply to any mortgage or charge in favour of any other person who advances the money, nor shall it restrict the operation of [section 56][203] of the Public Trust Act 2001 or affect any charge created by subsection (4) of that section.
+    (5) Nothing in this section shall apply to any mortgage or charge in favour of any other person who advances the money, nor shall it restrict the operation of [section 56][205] of the Public Trust Act 2001 or affect any charge created by subsection (4) of that section.
     
-    Section 59(5): amended, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Section 59(5): amended, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
 
 ##### 60 Court may make orders for preserving nature and devolution of property
     
@@ -1503,7 +1507,7 @@ Powers and property of persons subject to property orders
     
     (7) At any time before the death of a person in respect of whom it has made an order under this section, and whether or not he or she is still subject to a property order, the court may, in respect of any property remaining subject to the trusts of a settlement made under this section, on being satisfied that any material fact was not disclosed to the court when the settlement was made, or on account of any substantial change in circumstances, by order vary the settlement in such manner as it thinks fit, and give any consequential directions.
     
-    (8) Without limiting the provisions of [section 111][151], rules of court may be made for all or any of the following purposes:
+    (8) Without limiting the provisions of [section 111][153], rules of court may be made for all or any of the following purposes:
         
     *   (a) giving effect to the provisions of this section:
     
@@ -1511,11 +1515,11 @@ Powers and property of persons subject to property orders
     
     *   (c) making representation orders.
     
-    Section 62(4): amended, on 26 April 2005, by [section 7][169] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 62(4): amended, on 26 April 2005, by [section 7][171] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 62(6)(d)(i): amended, on 26 April 2005, by [section 7][169] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 62(6)(d)(i): amended, on 26 April 2005, by [section 7][171] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 62(8): amended, on 13 September 2002, by [section 6][204] of the Family Courts Amendment Act 2000 (2000 No 65).
+    Section 62(8): amended, on 13 September 2002, by [section 6][206] of the Family Courts Amendment Act 2000 (2000 No 65).
 
 ## Part 6  
 Procedure
@@ -1554,13 +1558,13 @@ Procedure
     
     (3) If it appears to a court hearing an application under [Part 1][6] that a property order should be made, either in addition to or instead of a personal order, or if it appears to a court hearing an application under [Part 3][27] that a personal order should be made, either in addition to or instead of a property order, the court may make all such orders and give all such directions as may be necessary to facilitate the hearing of an application under Part 3 or (as the case may require) Part 1\.
     
-    Section 64(1): amended, on 13 September 2002, by [section 6][204] of the Family Courts Amendment Act 2000 (2000 No 65).
+    Section 64(1): amended, on 13 September 2002, by [section 6][206] of the Family Courts Amendment Act 2000 (2000 No 65).
 
-##### 65 Appointment of barrister or solicitor by court or Registrar
+##### 65 Appointment of lawyer to represent person in respect of whom application made
     
-*   (1) On an application for the exercise of the court's jurisdiction under this Act, a court or the Registrar of a court must appoint a barrister or solicitor to represent the person in respect of whom the application is made, unless the court or the Registrar is satisfied that the person has retained or will retain a barrister or solicitor.
+*   (1) On an application for the exercise of the court's jurisdiction under this Act, a court or the Registrar of a court must appoint a lawyer to represent the person in respect of whom the application is made, unless the court or the Registrar is satisfied that the person has retained or will retain a lawyer.
     
-    (2) So far as may be practicable, it shall be the duty of the barrister or solicitor appointed under subsection (1) to---
+    (2) So far as may be practicable, it shall be the duty of the lawyer appointed under subsection (1) to---
         
     *   (a) contact the person in respect of whom the application is made, explain to that person the nature and purpose of the application, and ascertain and give effect to that person's wishes in respect of the application; and
     
@@ -1572,33 +1576,75 @@ Procedure
         
         
     
-    (3) Without limiting anything in the preceding provisions of this section, in respect of any application for the exercise of the court's jurisdiction under this Act, a court may appoint, or direct the Registrar of the court to appoint, a barrister or solicitor to assist the court.
+    (3) \[Repealed\]
     
-    (4) A barrister or solicitor appointed under this section may call any person as a witness in the proceedings, and may cross-examine witnesses called by any party to the proceedings or by the person in respect of whom the application is made or by the court.
+    (4) A lawyer appointed under this section may call any person as a witness in the proceedings, and may cross-examine witnesses called by any party to the proceedings or by the person in respect of whom the application is made or by the court.
     
-    (5) Fees for professional services provided by barristers or solicitors appointed under this section, and reasonable expenses incurred,---
+    (5) Fees for professional services provided by lawyers appointed under this section, and reasonable expenses incurred,---
         
     *   (a) may be determined in accordance with regulations made under this Act; and
     
     *   (b) are payable out of public money appropriated by Parliament for the purpose.
     
-    (6) The bill of costs rendered by a barrister or solicitor appointed under this section shall be given to the Registrar of the court in which the proceedings were heard, and the Registrar may tax the bill of costs.
+    (6) An invoice rendered by a lawyer appointed under this section for fees and expenses must be given to the Registrar of the court in which the proceedings were heard, and the Registrar may decide to adjust the amount of the invoice.
     
-    (7) If the barrister or solicitor is dissatisfied with the decision of the Registrar as to the amount of the bill, the barrister or solicitor may, within 14 days after the date of the decision, apply to a Family Court Judge to review the decision; and the Judge may make such order varying or confirming the decision as the Judge considers fair and reasonable.
+    (7) If the lawyer is dissatisfied with the decision of the Registrar as to the amount of the invoice, the lawyer may, within 14 days after the date of the decision, apply to a Family Court Judge to review the decision; and the Judge may make such order varying or confirming the decision as the Judge considers fair and reasonable.
     
     (8) Notwithstanding subsection (5), the court shall have regard to the means of any party to the proceedings or the person in respect of whom the application is made, and shall, if it thinks proper, order any party or the person to refund to the Crown such amount as the court specifies in respect of any fees or expenses paid under that subsection; and the amount ordered to be refunded shall be a debt due to the Crown by that party or by that person and shall be recoverable accordingly in any court of competent jurisdiction.
     
-    Section 65 heading: amended, on 18 May 2009, by [section 4(1)][205] of the Protection of Personal and Property Rights Amendment Act 2008 (2008 No 84).
+    Section 65 heading: replaced, on 31 March 2014, by [section 4(1)][207] of the Protection of Personal and Property Rights Amendment Act 2013 (2013 No 83).
     
-    Section 65(1): amended, on 18 May 2009, by [section 4(2)(a)][205] of the Protection of Personal and Property Rights Amendment Act 2008 (2008 No 84).
+    Section 65(1): amended, on 31 March 2014, by [section 4(2)][207] of the Protection of Personal and Property Rights Amendment Act 2013 (2013 No 83).
     
-    Section 65(1): amended, on 18 May 2009, by [section 4(2)(b)][205] of the Protection of Personal and Property Rights Amendment Act 2008 (2008 No 84).
+    Section 65(1): amended, on 18 May 2009, by [section 4(2)(a)][208] of the Protection of Personal and Property Rights Amendment Act 2008 (2008 No 84).
     
-    Section 65(3): amended, on 18 May 2009, by [section 4(3)][205] of the Protection of Personal and Property Rights Amendment Act 2008 (2008 No 84).
+    Section 65(1): amended, on 18 May 2009, by [section 4(2)(b)][208] of the Protection of Personal and Property Rights Amendment Act 2008 (2008 No 84).
+    
+    Section 65(2): amended, on 31 March 2014, by [section 4(2)][207] of the Protection of Personal and Property Rights Amendment Act 2013 (2013 No 83).
+    
+    Section 65(3): repealed, on 31 March 2014, by [section 4(3)][207] of the Protection of Personal and Property Rights Amendment Act 2013 (2013 No 83).
+    
+    Section 65(3): amended, on 18 May 2009, by [section 4(3)][208] of the Protection of Personal and Property Rights Amendment Act 2008 (2008 No 84).
+    
+    Section 65(4): amended, on 31 March 2014, by [section 4(2)][207] of the Protection of Personal and Property Rights Amendment Act 2013 (2013 No 83).
     
     Section 65(5): substituted, on 1 July 1994, by section 7 of the Protection of Personal and Property Rights Amendment Act 1994 (1994 No 54).
     
-    Section 65(5)(b): substituted, on 3 June 1998, by [section 2][206] of the Protection of Personal and Property Rights Amendment Act 1998 (1998 No 58). 
+    Section 65(5): amended, on 31 March 2014, by [section 4(4)][207] of the Protection of Personal and Property Rights Amendment Act 2013 (2013 No 83).
+    
+    Section 65(5)(b): substituted, on 3 June 1998, by [section 2][209] of the Protection of Personal and Property Rights Amendment Act 1998 (1998 No 58). 
+    
+    Section 65(6): replaced, on 31 March 2014, by [section 4(5)][207] of the Protection of Personal and Property Rights Amendment Act 2013 (2013 No 83).
+    
+    Section 65(7): amended, on 31 March 2014, by [section 4(2)][207] of the Protection of Personal and Property Rights Amendment Act 2013 (2013 No 83).
+    
+    Section 65(7): amended, on 31 March 2014, by [section 4(6)][207] of the Protection of Personal and Property Rights Amendment Act 2013 (2013 No 83).
+
+##### 65A Appointment of lawyer to assist court
+    
+*   In any proceedings under this Act, a court may---
+        
+    *   (a) appoint a lawyer to assist the court; or
+    
+    *   (b) direct the Registrar of the court to appoint a lawyer to assist the court.
+    
+    Section 65A: inserted, on 31 March 2014, by [section 5][210] of the Protection of Personal and Property Rights Amendment Act 2013 (2013 No 83).
+
+##### 65B Payment of lawyer appointed under section 65A
+    
+*   (1) The fees and expenses of any lawyer appointed under [section 65A][75] must---
+        
+    *   (a) be determined in accordance with regulations made under [section 16D][211] of the Family Courts Act 1980 or, if no such regulations are made, by the Registrar of the court; and
+    
+    *   (b) be paid in accordance with that determination out of public money appropriated by Parliament for the purpose.
+    
+    (2) An invoice rendered by a lawyer appointed under [section 65A][75] for fees and expenses must be given to the Registrar of the court in which the proceedings were heard, and the Registrar may decide to adjust the amount of the invoice.
+    
+    (3) A lawyer who is dissatisfied with the decision of the Registrar as to the amount of the invoice may, within 14 days after the date of the decision, apply to a Family Court Judge to review the decision, and the Judge may on the application make any order varying or confirming the decision that the Judge considers fair and reasonable.
+    
+    (4) Where the fees and expenses of a lawyer appointed under [section 65A][75] have been paid under subsection (1)(b), the court may, if it thinks it appropriate, order a party to the proceedings to refund to the Crown an amount that the court specifies in respect of those fees and expenses, and the amount ordered to be refunded is a debt due to the Crown by that party and, in default of payment of that amount, payment may be enforced, by order of a District Court or the High Court, as the case may require, in the same manner as a judgment of that court.
+    
+    Section 65B: inserted, on 31 March 2014, by [section 5][210] of the Protection of Personal and Property Rights Amendment Act 2013 (2013 No 83).
 
 #### Pre-hearing conferences
 
@@ -1672,17 +1718,17 @@ Procedure
 
 ##### 71 Power to require attendance at pre-hearing conference
     
-*   (1) Where a person fails to comply with a request under [section 66][76] to attend a pre-hearing conference, a District Court Judge may, on the request of the Registrar of the court, issue a summons requiring the person to attend a pre-hearing conference at a time and place to be specified in the summons.
+*   (1) Where a person fails to comply with a request under [section 66][78] to attend a pre-hearing conference, a District Court Judge may, on the request of the Registrar of the court, issue a summons requiring the person to attend a pre-hearing conference at a time and place to be specified in the summons.
     
-    (2) [Section 159][207] of the Criminal Procedure Act 2011 applies to a summons under this section as if it were a witness summons issued under that section.
+    (2) [Section 159][212] of the Criminal Procedure Act 2011 applies to a summons under this section as if it were a witness summons issued under that section.
     
-    Section 71(2): amended, on 1 July 2013, by [section 413][192] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 71(2): amended, on 1 July 2013, by [section 413][194] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 72 Privilege
     
 *   (1) No evidence shall be admissible in any court, or before any person acting judicially, of any information, statement, or admission disclosed or made in the course of a pre-hearing conference.
     
-    (2) Nothing in subsection (1) shall apply to a record made by a Family Court Judge under [section 69][79], or to any consent order made under [section 70][80], or to any proceedings for the review of such an order.
+    (2) Nothing in subsection (1) shall apply to a record made by a Family Court Judge under [section 69][81], or to any consent order made under [section 70][82], or to any proceedings for the review of such an order.
 
 ##### 73 Presiding Judge may hear subsequent proceedings
     
@@ -1734,11 +1780,11 @@ Procedure
     
     (3) A copy of any report obtained under this section shall be given by the Registrar of the court to---
         
-    *   (a) the barrister or solicitor for each party to the proceedings and for the person in respect of whom the application is made or, if any party is not represented by a barrister or solicitor, to that party; and
+    *   (a) the lawyer for each party to the proceedings and for the person in respect of whom the application is made or, if any party is not represented by a lawyer, to that party; and
     
-    *   (b) any barrister or solicitor appointed under [section 65(3)][74].
+    *   (b) any lawyer appointed under [section 65A][75].
     
-    (4) A report given to a barrister or solicitor under subsection (3) shall not be given or be shown to the person for whom the barrister or solicitor is acting if the court so orders.
+    (4) A report given to a lawyer under subsection (3) shall not be given or be shown to the person for whom the lawyer is acting if the court so orders.
     
     (5) Fees for reports prepared pursuant to a request under subsection (1), and reasonable expenses incurred,---
         
@@ -1748,39 +1794,55 @@ Procedure
     
     (5A) Any amount of any fees and expenses ordered to be paid by any party under subsection (5)(b) shall, if paid by the Crown, be a debt due to the Crown by that party and, in default of payment of the amount, payment thereof may be enforced, by order of a District Court or the High Court as the case may require, in the same manner as a judgment of that court.
     
-    (6) Any party to the proceedings, or the person in respect of whom the application is made, or any barrister or solicitor appointed under [section 65(3)][74] may tender evidence on any matter referred to in any such report.
+    (6) Any party to the proceedings, or the person in respect of whom the application is made, or any lawyer appointed under [section 65A][75] may tender evidence on any matter referred to in any such report.
     
     (7) The court may call the person making the report as a witness, either of its own motion or on the application of any party or the person in respect of whom the application is made.
     
-    Section 76(1): substituted, on 18 May 2009, by [section 5(1)][208] of the Protection of Personal and Property Rights Amendment Act 2008 (2008 No 84).
+    Section 76(1): substituted, on 18 May 2009, by [section 5(1)][213] of the Protection of Personal and Property Rights Amendment Act 2008 (2008 No 84).
     
-    Section 76(2): amended, on 18 May 2009, by [section 5(2)][208] of the Protection of Personal and Property Rights Amendment Act 2008 (2008 No 84).
+    Section 76(2): amended, on 18 May 2009, by [section 5(2)][213] of the Protection of Personal and Property Rights Amendment Act 2008 (2008 No 84).
+    
+    Section 76(3)(a): amended, on 31 March 2014, by [section 6(1)][214] of the Protection of Personal and Property Rights Amendment Act 2013 (2013 No 83).
+    
+    Section 76(3)(b): amended, on 31 March 2014, by [section 6(1)][214] of the Protection of Personal and Property Rights Amendment Act 2013 (2013 No 83).
+    
+    Section 76(3)(b): amended, on 31 March 2014, by [section 6(2)][214] of the Protection of Personal and Property Rights Amendment Act 2013 (2013 No 83).
+    
+    Section 76(4): amended, on 31 March 2014, by [section 6(1)][214] of the Protection of Personal and Property Rights Amendment Act 2013 (2013 No 83).
     
     Section 76(5): substituted, on 1 July 1994, by section 8 of the Protection of Personal and Property Rights Amendment Act 1994 (1994 No 54).
     
-    Section 76(5)(b): substituted, on 3 June 1998, by [section 3][209] of the Protection of Personal and Property Rights Amendment Act 1998 (1998 No 58).
+    Section 76(5)(b): substituted, on 3 June 1998, by [section 3][215] of the Protection of Personal and Property Rights Amendment Act 1998 (1998 No 58).
     
     Section 76(5A): inserted, on 1 July 1994, by section 8 of the Protection of Personal and Property Rights Amendment Act 1994 (1994 No 54).
+    
+    Section 76(6): amended, on 31 March 2014, by [section 6(1)][214] of the Protection of Personal and Property Rights Amendment Act 2013 (2013 No 83).
+    
+    Section 76(6): amended, on 31 March 2014, by [section 6(3)][214] of the Protection of Personal and Property Rights Amendment Act 2013 (2013 No 83).
 
 ##### 77 Evidence
     
-*   In any proceedings under this Act, whether by way of hearing in the first instance or by way of appeal or otherwise, a court may receive any evidence that it thinks fit, whether it is otherwise admissible in a court of law or not.
+*   \[Repealed\]
+    
+    Section 77: repealed, on 31 March 2014, by [section 17A(i)][216] of the Family Courts Act 1980 (1980 No 161).
 
 ##### 78 Power of court to call witnesses
     
-*   (1) Without limiting anything in [section 77][88], in respect of any application for the exercise of the court's jurisdiction under this Act, a court may, of its own motion, call as a witness any person whose evidence may in its opinion be of assistance to the court.
+*   (1) Without limiting anything in [section 77][90], in respect of any application for the exercise of the court's jurisdiction under this Act, a court may, of its own motion, call as a witness any person whose evidence may in its opinion be of assistance to the court.
     
     (2) A witness called by a court under this section shall have the same privilege to refuse to answer any question as the witness would have if the witness had been called by a party to the proceedings.
     
-    (3) A witness called by a court under this section may be examined and re-examined by the court, or by any barrister or solicitor assisting the court, and may be cross-examined by or on behalf of any party to the proceedings or the person in respect of whom the application is made.
+    (3) A witness called by a court under this section may be examined and re-examined by the court and may be cross-examined by or on behalf of any party to the proceedings or the person in respect of whom the application is made.
     
-    (4) [Sections 159][207] and [161 to 165][210] of the Criminal Procedure Act 2011, so far as they are applicable and with the necessary modifications, shall apply with respect to every person called as a witness by the court under this section as if that person had been called by a party to the proceedings.
+    (4) [Sections 159][212] and [161 to 165][217] of the Criminal Procedure Act 2011, so far as they are applicable and with the necessary modifications, shall apply with respect to every person called as a witness by the court under this section as if that person had been called by a party to the proceedings.
     
     (5) The expenses of any witness called by a court under this section shall be paid in the first instance, in accordance with the prescribed scale of witnesses' expenses, out of public money appropriated by Parliament for the purpose.
     
-    Section 78(4): amended, on 1 July 2013, by [section 413][192] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 78(3): amended, on 31 March 2014, by [section 7][218] of the Protection of Personal and Property Rights Amendment Act 2013 (2013 No 83).
     
-    Section 78(5): amended, on 1 July 1989, by [section 86(1)][211] of the Public Finance Act 1989 (1989 No 44).
+    Section 78(4): amended, on 1 July 2013, by [section 413][194] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 78(5): amended, on 1 July 1989, by [section 86(1)][219] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 79 Attendance at hearings
     
@@ -1796,7 +1858,7 @@ Procedure
     
     *   (e) the lawyer representing the person in respect of whom the application is made:
     
-    *   (f) a barrister or solicitor appointed under [section 65(3)][74] to assist the court:
+    *   (f) a lawyer appointed under [section 65A][75] to assist the court:
     
     *   (g) witnesses:
     
@@ -1826,17 +1888,19 @@ Procedure
     
     *   (c) to exclude any person from the court.
     
-    Section 79: substituted, on 18 May 2009, by [section 6][212] of the Protection of Personal and Property Rights Amendment Act 2008 (2008 No 84).
+    Section 79: substituted, on 18 May 2009, by [section 6][220] of the Protection of Personal and Property Rights Amendment Act 2008 (2008 No 84).
+    
+    Section 79(1)(f): replaced, on 31 March 2014, by [section 8][221] of the Protection of Personal and Property Rights Amendment Act 2013 (2013 No 83).
 
 ##### 80 Publication of reports of proceedings
     
-*   [Sections 11B to 11D][213] of the Family Courts Act 1980 apply to the publication of a report of any proceedings under this Act---
+*   [Sections 11B to 11D][222] of the Family Courts Act 1980 apply to the publication of a report of any proceedings under this Act---
         
     *   (a) in a Family Court:
     
     *   (b) in any other court, in which case references in those sections to the Family Court or court must be read as references to that other court.
     
-    Section 80: substituted, on 18 May 2009, by [section 7][214] of the Protection of Personal and Property Rights Amendment Act 2008 (2008 No 84).
+    Section 80: substituted, on 18 May 2009, by [section 7][223] of the Protection of Personal and Property Rights Amendment Act 2008 (2008 No 84).
 
 ##### 81 Costs
     
@@ -1855,31 +1919,31 @@ Appeals and reviews
     
     (2) If the court makes an interlocutory or interim order, a party to the proceedings or the person in respect of whom the application was made may, with the leave of the court, appeal to the High Court against the order.
     
-    (3) The High Court Rules and [sections 74 to 78][215] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) or subsection (2) as if it were an appeal under [section 72][216] of that Act.
+    (3) The High Court Rules and [sections 74 to 78][224] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) or subsection (2) as if it were an appeal under [section 72][225] of that Act.
     
-    (4) On the _ex parte_ application of the appellant, the court may order that the appellant must not be required under [section 74(1)][215] of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
+    (4) On the _ex parte_ application of the appellant, the court may order that the appellant must not be required under [section 74(1)][224] of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
     
     (5) Subsection (4) overrides subsection (3).
     
-    Section 83: substituted, on 24 November 2003, by [section 4][217] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 83: substituted, on 24 November 2003, by [section 4][226] of the District Courts Amendment Act 2002 (2002 No 63).
 
 ##### 83A Procedure on appeal to High Court
     
-*   The High Court Rules and [sections 75 to 78][218] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under [section 83][95].
+*   The High Court Rules and [sections 75 to 78][227] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under [section 83][97].
     
-    Sections 83A: substituted, on 1 January 2004, by [section 48(1)][219] of the Supreme Court Act 2003 (2003 No 53).
+    Sections 83A: substituted, on 1 January 2004, by [section 48(1)][228] of the Supreme Court Act 2003 (2003 No 53).
 
 ##### 84 Further appeal to Court of Appeal
     
-*   A party to an appeal under [section 83][95] may, with the leave of the Court of Appeal, appeal to the Court of Appeal against any determination of the High Court in the appeal.
+*   A party to an appeal under [section 83][97] may, with the leave of the Court of Appeal, appeal to the Court of Appeal against any determination of the High Court in the appeal.
     
-    Section 84: substituted, on 1 January 2004, by [section 48(1)][219] of the Supreme Court Act 2003 (2003 No 53).
+    Section 84: substituted, on 1 January 2004, by [section 48(1)][228] of the Supreme Court Act 2003 (2003 No 53).
 
 ##### 85 Appeals to Court of Appeal from decisions of High Court
     
 *   (1) Where---
         
-    *   (a) an application to a Family Court for the exercise of the court's jurisdiction under this Act has been transferred to the High Court in accordance with [section 14][220] of the Family Courts Act 1980; and
+    *   (a) an application to a Family Court for the exercise of the court's jurisdiction under this Act has been transferred to the High Court in accordance with [section 14][229] of the Family Courts Act 1980; and
     
     *   (b) the High Court has made or refused to make an order,---
     
@@ -1889,7 +1953,7 @@ Appeals and reviews
     
     (3) \[Repealed\]
     
-    Section 85(3): repealed, on 1 January 2004, by [section 48(1)][219] of the Supreme Court Act 2003 (2003 No 53).
+    Section 85(3): repealed, on 1 January 2004, by [section 48(1)][228] of the Supreme Court Act 2003 (2003 No 53).
 
 ##### 86 Review of personal orders
     
@@ -1939,7 +2003,7 @@ Appeals and reviews
         
     *   (a) has filed in a court an application made to the trustee corporation under [section 32][38] or [section 33][39] to act as manager of any property of a person; or
     
-    *   (b) is deemed by subsection (3) or subsection (4) of [section 117][158] to be a manager appointed under this Act in respect of the property of any person (being property the gross value of which, as at the commencement of this Act, did not exceed $100,000),---
+    *   (b) is deemed by subsection (3) or subsection (4) of [section 117][160] to be a manager appointed under this Act in respect of the property of any person (being property the gross value of which, as at the commencement of this Act, did not exceed $100,000),---
     
     the trustee corporation shall, in accordance with subsection (1A), file in the court the reports specified in subsection (1B).
     
@@ -1947,7 +2011,7 @@ Appeals and reviews
         
     *   (a) where subsection (1)(a) applies, be filed not earlier than 2 years nor later than 3 years after the date of the filing of the application; or
     
-    *   (b) where subsection (1)(b) applies, be filed by the date specified in the programme drawn up in accordance with the [Protection of Personal and Property Rights Regulations 1988][221].
+    *   (b) where subsection (1)(b) applies, be filed by the date specified in the programme drawn up in accordance with the [Protection of Personal and Property Rights Regulations 1988][230].
     
     (1B) The reports required under subsection (1) comprise---
         
@@ -2035,7 +2099,7 @@ Appeals and reviews
     
     Section 87(1B): inserted, on 1 July 1994, by section 9(1) of the Protection of Personal and Property Rights Amendment Act 1994 (1994 No 54).
     
-    Section 87(1B)(a): substituted, on 18 September 2004, by [section 175(1)][168] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 87(1B)(a): substituted, on 18 September 2004, by [section 175(1)][170] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
     Section 87(1C): inserted, on 1 July 1994, by section 9(1) of the Protection of Personal and Property Rights Amendment Act 1994 (1994 No 54).
     
@@ -2045,7 +2109,7 @@ Appeals and reviews
     
     Section 87(1F): inserted, on 1 July 1994, by section 9(1) of the Protection of Personal and Property Rights Amendment Act 1994 (1994 No 54).
     
-    Section 87(1F)(a): substituted, on 18 September 2004, by [section 175(1)][168] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 87(1F)(a): substituted, on 18 September 2004, by [section 175(1)][170] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
     Section 87(1G): inserted, on 1 July 1994, by section 9(1) of the Protection of Personal and Property Rights Amendment Act 1994 (1994 No 54).
     
@@ -2059,7 +2123,9 @@ Appeals and reviews
 
 ##### 88 Procedure on review
     
-*   On any application for the review of any personal order or property order, the provisions of [sections 63 to 65][72] and [74 to 81][85], so far as they are applicable and with any necessary modifications, shall apply.
+*   On any application for the review of any personal order or property order, the provisions of [sections 63 to 65A][72] and [74 to 81][87], so far as they are applicable and with any necessary modifications, shall apply.
+    
+    Section 88: amended, on 31 March 2014, by [section 9][231] of the Protection of Personal and Property Rights Amendment Act 2013 (2013 No 83).
 
 ##### 89 Review of welfare guardian's or manager's decisions
     
@@ -2112,21 +2178,21 @@ Reciprocal provisions
     
     (4) Public Trust may pay over or deliver to an authorised officer in that country the balance of money or property received by Public Trust, after payment of all costs, charges, and expenses incurred in and about the exercise of those powers and after satisfying or providing for the debts and claims of all persons resident in New Zealand of whose debts or claims Public Trust has had notice, without seeing to its application and without incurring any liability in regard to any such payment or delivery; and shall duly account for it to such officer.
     
-    Section 91 heading: amended, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Section 91 heading: amended, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 91(2): amended, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Section 91(2): amended, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 91(2)(a): amended, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Section 91(2)(a): amended, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 91(2)(b): amended, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Section 91(2)(b): amended, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 91(3): amended, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Section 91(3): amended, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 91(4): amended, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Section 91(4): amended, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
 
 ##### 92 Appointment of authorised officer in another country
     
-*   If it appears to the manager of a person subject to a property order in New Zealand that the person is possessed of or entitled to or interested in property in any country in respect of which an Order in Council under [section 91(1)][105] is for the time being in force, the manager may deliver to an authorised officer in that country a certificate to the effect that the person is subject to a property order, and may by instrument in writing under his or her hand (or seal, if a trustee corporation) authorise that officer to collect, manage, sell, or otherwise dispose of and manage such property, or to make inquiry respecting it.
+*   If it appears to the manager of a person subject to a property order in New Zealand that the person is possessed of or entitled to or interested in property in any country in respect of which an Order in Council under [section 91(1)][107] is for the time being in force, the manager may deliver to an authorised officer in that country a certificate to the effect that the person is subject to a property order, and may by instrument in writing under his or her hand (or seal, if a trustee corporation) authorise that officer to collect, manage, sell, or otherwise dispose of and manage such property, or to make inquiry respecting it.
 
 ##### 93 Resealing in New Zealand
     
@@ -2173,7 +2239,7 @@ Enduring powers of attorney
     
     *   (f) establishes the circumstances in which an enduring power of attorney may be suspended or revoked.
     
-    Section 93A: inserted, on 25 September 2008, by [section 6][222] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 93A: inserted, on 25 September 2008, by [section 6][232] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
 
 ##### 93B Presumption of competence
     
@@ -2195,9 +2261,9 @@ Enduring powers of attorney
     
     (3) A person must not be presumed to lack the capacity described in subsection (1)(b) just because the person makes or intends to make a decision in relation to his or her personal care and welfare that a person exercising ordinary prudence would not make in the same circumstances.
     
-    (4) A person must not be presumed to lack the competence described in subsection (1)(a) or, as the case may be, the capacity described in subsection (1)(b), just because the person is subject to compulsory treatment or has special patient status under the [Mental Health (Compulsory Assessment and Treatment) Act 1992][223].
+    (4) A person must not be presumed to lack the competence described in subsection (1)(a) or, as the case may be, the capacity described in subsection (1)(b), just because the person is subject to compulsory treatment or has special patient status under the [Mental Health (Compulsory Assessment and Treatment) Act 1992][233].
     
-    Section 93B: inserted, on 25 September 2008, by [section 6][222] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 93B: inserted, on 25 September 2008, by [section 6][232] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
 
 ##### 94 Interpretation
     
@@ -2223,11 +2289,11 @@ Enduring powers of attorney
     
     _health practitioner_---
         
-    *   (a) has the meaning given to it by [section 5(1)][224] of the Health Practitioners Competence Assurance Act 2003:
+    *   (a) has the meaning given to it by [section 5(1)][234] of the Health Practitioners Competence Assurance Act 2003:
     
     *   (b) in the case of a certificate of mental incapacity issued outside New Zealand, means a person registered as a medical practitioner by the competent authority of the State concerned
     
-    _lawyer_ has the meaning given to it by [section 6][225] of the Lawyers and Conveyancers Act 2006
+    _lawyer_ has the meaning given to it by [section 6][235] of the Lawyers and Conveyancers Act 2006
     
     _prescribed form_ means a form prescribed by regulations under this Act
     
@@ -2243,11 +2309,11 @@ Enduring powers of attorney
         
         
     
-    Section 94: substituted, on 25 September 2008, by [section 7][226] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 94: substituted, on 25 September 2008, by [section 7][236] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
 
 ##### 94A Creation of enduring power of attorney
     
-*   (1) This section applies only to a power of attorney executed after the commencement of [section 7][226] of the Protection of Personal and Property Rights Amendment Act 2007\.
+*   (1) This section applies only to a power of attorney executed after the commencement of [section 7][236] of the Protection of Personal and Property Rights Amendment Act 2007\.
     
     (2) The instrument creating an enduring power of attorney---
         
@@ -2307,7 +2373,7 @@ Enduring powers of attorney
     
     (9) A legal executive who witnesses the donor's signature---
         
-    *   (a) must be a member of the body that, immediately before the commencement of [section 7][226] of the Protection of Personal and Property Rights Amendment Act 2007, was known as the New Zealand Institute of Legal Executives Inc; and
+    *   (a) must be a member of the body that, immediately before the commencement of [section 7][236] of the Protection of Personal and Property Rights Amendment Act 2007, was known as the New Zealand Institute of Legal Executives Inc; and
     
     *   (b) must hold a current annual registration certificate issued by that body; and
     
@@ -2315,13 +2381,13 @@ Enduring powers of attorney
     
     *   (d) must be employed by, and under the direct supervision of, a lawyer.
     
-    Section 94A: inserted, on 25 September 2008, by [section 7][226] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 94A: inserted, on 25 September 2008, by [section 7][236] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
     
-    Section 94A(4A): inserted, on 7 July 2010, by [section 4][227] of the Protection of Personal and Property Rights Amendment Act 2010 (2010 No 77).
+    Section 94A(4A): inserted, on 7 July 2010, by [section 4][237] of the Protection of Personal and Property Rights Amendment Act 2010 (2010 No 77).
 
 ##### 95 When power of attorney is an enduring power of attorney
     
-*   (1) Except as otherwise provided in this section, a power of attorney that meets the requirements of [section 94A][112] is an enduring power of attorney.
+*   (1) Except as otherwise provided in this section, a power of attorney that meets the requirements of [section 94A][114] is an enduring power of attorney.
     
     (2) A power of attorney purporting to be an enduring power of attorney has effect even though it is not in the prescribed form, but only if---
         
@@ -2335,15 +2401,15 @@ Enduring powers of attorney
     
     *   (b) a trustee corporation.
     
-    (4) A power of attorney delegating trustee powers, authorities, and discretions under [section 31][228] of the Trustee Act 1956 shall not have effect as an enduring power of attorney.
+    (4) A power of attorney delegating trustee powers, authorities, and discretions under [section 31][238] of the Trustee Act 1956 shall not have effect as an enduring power of attorney.
     
     (5) A power of attorney that gives the attorney the right to appoint a substitute or a successor shall not have effect as an enduring power of attorney; but an enduring power of attorney may provide for successive attorneys, the appointment of one being conditional upon the cessation of the appointment of another.
     
     (6) A power of attorney executed before the commencement of this Act shall not have effect as an enduring power of attorney.
     
-    Section 95(1): substituted, on 25 September 2008, by [section 8(1)][229] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 95(1): substituted, on 25 September 2008, by [section 8(1)][239] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
     
-    Section 95(2): substituted, on 25 September 2008, by [section 8(2)][229] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 95(2): substituted, on 25 September 2008, by [section 8(2)][239] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
 
 ##### 96 Enduring power of attorney not revoked by donor's subsequent mental incapacity
     
@@ -2353,9 +2419,9 @@ Enduring powers of attorney
     
 *   (1) A donor of an enduring power of attorney may authorise the attorney to act generally in relation to the whole or a specified part of the donor's affairs in relation to his or her property, or to act in relation to specified things on the donor's behalf, and in either case such authorisation may be given subject to conditions and restrictions.
     
-    (2) Where a donor of an enduring power of attorney authorises the attorney to act generally in relation to the whole or a specified part of the donor's affairs in relation to the donor's property, the attorney shall have authority to do anything on behalf of the donor that the donor can lawfully do by an attorney, but subject to [sections 100][124] and [107][136] and to any conditions or restrictions contained in the enduring power of attorney.
+    (2) Where a donor of an enduring power of attorney authorises the attorney to act generally in relation to the whole or a specified part of the donor's affairs in relation to the donor's property, the attorney shall have authority to do anything on behalf of the donor that the donor can lawfully do by an attorney, but subject to [sections 100][126] and [107][138] and to any conditions or restrictions contained in the enduring power of attorney.
     
-    (3) Where a donor of an enduring power of attorney has become mentally incapable, the attorney shall be authorised to make an application under [section 122][187] of the Land Transfer Act 1952 to have a transmission registered where the attorney believes that the donor is entitled to any estate or interest in land by virtue of that transmission, and a District Land Registrar is authorised to accept such an application notwithstanding the fact that the attorney is not the person claiming to be entitled to the estate or interest in land.
+    (3) Where a donor of an enduring power of attorney has become mentally incapable, the attorney shall be authorised to make an application under [section 122][189] of the Land Transfer Act 1952 to have a transmission registered where the attorney believes that the donor is entitled to any estate or interest in land by virtue of that transmission, and a District Land Registrar is authorised to accept such an application notwithstanding the fact that the attorney is not the person claiming to be entitled to the estate or interest in land.
     
     (4) A donor of an enduring power of attorney may---
         
@@ -2367,9 +2433,9 @@ Enduring powers of attorney
     
     Section 97(3): added, on 1 July 1994, by section 11 of the Protection of Personal and Property Rights Amendment Act 1994 (1994 No 54).
     
-    Section 97(4): added, on 25 September 2008, by [section 9][230] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 97(4): added, on 25 September 2008, by [section 9][240] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
     
-    Section 97(5): added, on 25 September 2008, by [section 9][230] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 97(5): added, on 25 September 2008, by [section 9][240] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
 
 ##### 97A Exercise of enduring power of attorney in relation to property
     
@@ -2377,15 +2443,15 @@ Enduring powers of attorney
     
     (2) The paramount consideration of the attorney is to use the donor's property in the promotion and protection of the donor's best interests, while seeking at all times to encourage the donor to develop the donor's competence to manage his or her own affairs in relation to his or her property.
     
-    (3) This section applies regardless of whether the enduring power of attorney is of the type referred to in [section 97(4)(a) or (b)][115].
+    (3) This section applies regardless of whether the enduring power of attorney is of the type referred to in [section 97(4)(a) or (b)][117].
     
-    Section 97A: inserted, on 25 September 2008, by [section 10][231] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 97A: inserted, on 25 September 2008, by [section 10][241] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
 
 ##### 98 Enduring power of attorney in relation to personal care and welfare
     
 *   (1) Subject to subsections (3) and (4), a donor of an enduring power of attorney may authorise the attorney to act in relation to the donor's personal care and welfare, either generally or in relation to specific matters, and in either case such authorisation may be given subject to conditions and restrictions.
     
-    (2) Notwithstanding [section 95(3)][113], an enduring power of attorney may not appoint a trustee corporation to be an attorney, nor may it appoint more than 1 individual to be attorneys, to act in relation to the donor's personal care and welfare.
+    (2) Notwithstanding [section 95(3)][115], an enduring power of attorney may not appoint a trustee corporation to be an attorney, nor may it appoint more than 1 individual to be attorneys, to act in relation to the donor's personal care and welfare.
     
     (3) The attorney---
         
@@ -2411,13 +2477,13 @@ Enduring powers of attorney
     
     (6) In subsection (3)(a), a _significant matter relating to the donor's personal care and welfare_ means a matter that has, or is likely to have, a significant effect on the health, well-being, or enjoyment of life of the donor (for example, a permanent change in the donor's residence, entering residential care, or undergoing a major medical procedure).
     
-    Section 98(3): substituted, on 25 September 2008, by [section 11(1)][232] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 98(3): substituted, on 25 September 2008, by [section 11(1)][242] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
     
-    Section 98(3A): inserted, on 25 September 2008, by [section 11(1)][232] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 98(3A): inserted, on 25 September 2008, by [section 11(1)][242] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
     
-    Section 98(3B): inserted, on 25 September 2008, by [section 11(1)][232] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 98(3B): inserted, on 25 September 2008, by [section 11(1)][242] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
     
-    Section 98(6): added, on 25 September 2008, by [section 11(2)][232] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 98(6): added, on 25 September 2008, by [section 11(2)][242] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
 
 ##### 98A Exercise of enduring power of attorney in relation to personal care and welfare
     
@@ -2437,11 +2503,11 @@ Enduring powers of attorney
     
     (4) When deciding any matter relating to the donor's personal care and welfare, the attorney must give due consideration to the financial implications of that decision in respect of the donor's property.
     
-    Section 98A: inserted, on 25 September 2008, by [section 12][233] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 98A: inserted, on 25 September 2008, by [section 12][243] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
 
 ##### 99 Both kinds of powers may be given
     
-*   (1) Nothing in [section 95][113] or [section 97(1)][115] or [section 98(1)][117] shall prevent a donor from---
+*   (1) Nothing in [section 95][115] or [section 97(1)][117] or [section 98(1)][119] shall prevent a donor from---
         
     *   (a) authorising the attorney, whether in the same or in a separate document, to act both---
             
@@ -2459,11 +2525,11 @@ Enduring powers of attorney
         
     *   (a) the enduring power of attorney; and
     
-    *   (b) any direction of the court under [section 101][126] made on the application of either attorney.
+    *   (b) any direction of the court under [section 101][128] made on the application of either attorney.
     
-    Section 99(2): substituted, on 25 September 2008, by [section 13][234] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 99(2): substituted, on 25 September 2008, by [section 13][244] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
     
-    Section 99(3): added, on 25 September 2008, by [section 13][234] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 99(3): added, on 25 September 2008, by [section 13][244] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
 
 ##### 99A Attorney's duty to consult
     
@@ -2473,11 +2539,11 @@ Enduring powers of attorney
     
     *   (b) in relation to any particular matter, any person specified in the enduring power of attorney to be consulted, generally, in respect of matters of that kind, or in respect of that matter.
     
-    (2) An attorney acting under an enduring power of attorney in relation to the donor's personal care and welfare may, subject to any consultation under subsection (1), have regard to any advance directive given by the donor except to the extent that the directive would require the attorney to act in a manner contrary to [section 98(4)][117].
+    (2) An attorney acting under an enduring power of attorney in relation to the donor's personal care and welfare may, subject to any consultation under subsection (1), have regard to any advance directive given by the donor except to the extent that the directive would require the attorney to act in a manner contrary to [section 98(4)][119].
     
     (3) The attorney may follow any advice given under subsection (1), or any advance directive given by the donor, and is not liable for anything done or omitted in following that advice or directive, unless done or omitted in bad faith or without reasonable care.
     
-    (4) The attorney may apply to a court for directions under [section 101][126] in respect of any advice given under subsection (1) or any advance directive given by the donor.
+    (4) The attorney may apply to a court for directions under [section 101][128] in respect of any advice given under subsection (1) or any advance directive given by the donor.
     
     (5) The attorney is not liable in respect of anything done or omitted to be done in accordance with the court's directions.
     
@@ -2485,7 +2551,7 @@ Enduring powers of attorney
     
     (7) If a donor has, under an enduring power of attorney, appointed one attorney in relation to his or her property and another attorney in relation to his or her personal care and welfare, both attorneys must consult each other regularly to ensure that the donor's interests are not prejudiced through any breakdown in communication between them.
     
-    Section 99A: inserted, on 25 September 2008, by [section 14][235] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 99A: inserted, on 25 September 2008, by [section 14][245] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
 
 ##### 99B Attorney must provide information on exercise of powers
     
@@ -2493,9 +2559,9 @@ Enduring powers of attorney
         
     *   (a) the person requesting the information is specified in the enduring power of attorney as a person to be provided with such information and the information requested is the kind of information specified in the enduring power of attorney to be provided to that person:
     
-    *   (b) the person requesting the information is a barrister or solicitor appointed under [section 65][74] and the information requested is records of financial transactions that the attorney must keep under [section 99C][122].
+    *   (b) the person requesting the information is a barrister or solicitor appointed under [section 65][74] and the information requested is records of financial transactions that the attorney must keep under [section 99C][124].
     
-    Section 99B: inserted, on 25 September 2008, by [section 14][235] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 99B: inserted, on 25 September 2008, by [section 14][245] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
 
 ##### 99C Attorney as to property must keep records
     
@@ -2503,9 +2569,9 @@ Enduring powers of attorney
     
     (2) An attorney who fails without reasonable excuse to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $1,000\.
     
-    Section 99C: inserted, on 25 September 2008, by [section 14][235] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 99C: inserted, on 25 September 2008, by [section 14][245] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
     
-    Section 99C(2): amended, on 1 July 2013, by [section 413][192] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 99C(2): amended, on 1 July 2013, by [section 413][194] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 99D Medical certification of incapacity
     
@@ -2519,7 +2585,7 @@ Enduring powers of attorney
     
     (3) The cost of any medical assessment or examination reasonably required for the purpose of certifying whether the donor is mentally incapable under this Part is recoverable as a debt from the donor's property.
     
-    Section 99D: inserted, on 25 September 2008, by [section 14][235] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 99D: inserted, on 25 September 2008, by [section 14][245] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
 
 ##### 100 Enduring powers of attorney subject to personal order and property order
     
@@ -2535,7 +2601,7 @@ Enduring powers of attorney
     
     (4) Nothing in this section affects the donor's right to revoke the enduring power of attorney while the donor is mentally capable.
     
-    Section 100A: inserted, on 25 September 2008, by [section 15][236] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 100A: inserted, on 25 September 2008, by [section 15][246] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
 
 ##### 101 Attorney may seek directions from court
     
@@ -2567,7 +2633,7 @@ Enduring powers of attorney
         
         *   (iv) any matter relating to the personal care and welfare of the donor:
         
-        *   (v) any other matter on which the directions of the court are sought under [section 101][126]:
+        *   (v) any other matter on which the directions of the court are sought under [section 101][128]:
         
         
     
@@ -2575,7 +2641,7 @@ Enduring powers of attorney
             
         *   (i) part of the donor's affairs in relation to his or her property, or any powers relating to any such affairs; or
         
-        *   (ii) any specific matters in relation to the donor's personal care and welfare, or any powers relating to any such matters, not being a matter referred to in [section 98(4)][117]:
+        *   (ii) any specific matters in relation to the donor's personal care and welfare, or any powers relating to any such matters, not being a matter referred to in [section 98(4)][119]:
         
         
     
@@ -2583,7 +2649,7 @@ Enduring powers of attorney
     
     *   (f) give any consent or authorisation to act that the attorney would have to obtain from the donor if the donor were mentally capable:
     
-    *   (g) authorise the attorney to act, otherwise than in accordance with [section 107][136], to the benefit of the attorney or persons other than the donor, but subject to any conditions or restrictions contained in the instrument:
+    *   (g) authorise the attorney to act, otherwise than in accordance with [section 107][138], to the benefit of the attorney or persons other than the donor, but subject to any conditions or restrictions contained in the instrument:
     
     *   (ga) authorise the attorney to make any loan or advance of the donor's property subject to---
             
@@ -2609,23 +2675,23 @@ Enduring powers of attorney
     
     (3) Nothing in the foregoing provisions of this section shall limit or affect the jurisdiction of any other court.
     
-    Section 102(2)(c)(v): amended, on 25 September 2008, by [section 16(1)][237] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 102(2)(c)(v): amended, on 25 September 2008, by [section 16(1)][247] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
     
-    Section 102(2)(ga): inserted, on 25 September 2008, by [section 16(2)][237] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 102(2)(ga): inserted, on 25 September 2008, by [section 16(2)][247] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
     
-    Section 102(2)(j): added, on 25 September 2008, by [section 16(3)][237] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 102(2)(j): added, on 25 September 2008, by [section 16(3)][247] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
     
-    Section 102(2A): inserted, on 25 September 2008, by [section 16(4)][237] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 102(2A): inserted, on 25 September 2008, by [section 16(4)][247] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
 
 ##### 102A Persons who may apply for exercise of court's jurisdiction
     
-*   An application to a court for the exercise of its jurisdiction under [section 102][127] or [105][134] may be made by---
+*   An application to a court for the exercise of its jurisdiction under [section 102][129] or [105][136] may be made by---
         
-    *   (a) any person listed in [section 103(1)][129]; or
+    *   (a) any person listed in [section 103(1)][131]; or
     
     *   (b) any other person with the leave of the court.
     
-    Section 102A: inserted, on 25 September 2008, by [section 17][238] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 102A: inserted, on 25 September 2008, by [section 17][248] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
 
 ##### 103 Review of attorney's decisions
     
@@ -2641,7 +2707,7 @@ Enduring powers of attorney
     
     *   (e) a trustee corporation:
     
-    *   (f) if the donor is a patient or a resident in any place that provides hospital care, rest home care, or residential disability care within the meaning of the [Health and Disability Services (Safety) Act 2001][174], the principal manager of that place:
+    *   (f) if the donor is a patient or a resident in any place that provides hospital care, rest home care, or residential disability care within the meaning of the [Health and Disability Services (Safety) Act 2001][176], the principal manager of that place:
     
     *   (g) any welfare guardian who has been appointed for the donor:
     
@@ -2655,17 +2721,17 @@ Enduring powers of attorney
     
     (5) An order under subsection (4) has effect according to its tenor.
     
-    Section 103: substituted, on 25 September 2008, by [section 18][239] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 103: substituted, on 25 September 2008, by [section 18][249] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
 
 ##### 103A Validity of actions under power of attorney not meeting requirements of section 94A or 95
     
-*   The fact that a power of attorney is not an enduring power of attorney because of any failure to meet the requirements of [section 94A][112] or [95][113] does not affect the validity of---
+*   The fact that a power of attorney is not an enduring power of attorney because of any failure to meet the requirements of [section 94A][114] or [95][115] does not affect the validity of---
         
     *   (a) any act of the attorney done under the power of attorney in good faith with no knowledge of the failure; or
     
     *   (b) any transaction entered into by the attorney under the power of attorney if the other party to the transaction entered into it in good faith and with no knowledge of the failure.
     
-    Section 103A: inserted, on 25 September 2008, by [section 18][239] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 103A: inserted, on 25 September 2008, by [section 18][249] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
 
 ##### 103B Effect of attorney's decision on third parties
     
@@ -2675,11 +2741,11 @@ Enduring powers of attorney
     
     *   (b) is not affected by notice that the donor or any other person has not concurred.
     
-    Section 103B: inserted, on 25 September 2008, by [section 18][239] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 103B: inserted, on 25 September 2008, by [section 18][249] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
 
 ##### 103C Effect of attorney's actions, etc, before notice of revocation or suspension received
     
-*   (1) This section applies, instead of [section 20(1) to (4)][240] of the Property Law Act 2007, to enduring powers of attorney executed before or after the commencement of [section 18][239] of the Protection of Personal and Property Rights Amendment Act 2007, but subject to section 20(5)(b) of the Property Law Act 2007\.
+*   (1) This section applies, instead of [section 20(1) to (4)][250] of the Property Law Act 2007, to enduring powers of attorney executed before or after the commencement of [section 18][249] of the Protection of Personal and Property Rights Amendment Act 2007, but subject to section 20(5)(b) of the Property Law Act 2007\.
     
     (2) An enduring power of attorney continues in force until notice of an event revoking the power is received by the attorney.
     
@@ -2709,11 +2775,11 @@ Enduring powers of attorney
     
     (7) A person who knowingly gives a false certificate commits an offence and is liable on conviction to a fine not exceeding $5,000\.
     
-    (8) _An event revoking the power of attorney_ means any event described in [section 106(1)][135] in which the enduring power of attorney ceases to have effect.
+    (8) _An event revoking the power of attorney_ means any event described in [section 106(1)][137] in which the enduring power of attorney ceases to have effect.
     
-    Section 103C: inserted, on 25 September 2008, by [section 18][239] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 103C: inserted, on 25 September 2008, by [section 18][249] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
     
-    Section 103C(7): amended, on 1 July 2013, by [section 413][192] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 103C(7): amended, on 1 July 2013, by [section 413][194] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 104 Disclaimer by attorney
     
@@ -2729,27 +2795,27 @@ Enduring powers of attorney
     
     *   (b) that the attorney considers it is not necessary that a welfare guardian or property manager be appointed, and why the attorney considers it not necessary.
     
-    (3) On receiving a report under subsection (2), the Registrar shall refer the matter to a Judge who may give to the Registrar all such directions as the Judge considers appropriate to have the matter drawn to the attention of such person or persons described in [section 103][129] as the Judge thinks fit.
+    (3) On receiving a report under subsection (2), the Registrar shall refer the matter to a Judge who may give to the Registrar all such directions as the Judge considers appropriate to have the matter drawn to the attention of such person or persons described in [section 103][131] as the Judge thinks fit.
     
-    Section 104(2): substituted, on 25 September 2008, by [section 19(1)][241] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 104(2): substituted, on 25 September 2008, by [section 19(1)][251] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
     
-    Section 104(3): amended, on 25 September 2008, by [section 19(2)][241] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 104(3): amended, on 25 September 2008, by [section 19(2)][251] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
 
 ##### 105 Court may revoke appointment of attorney
     
-*   (1) The court may, in any proceeding commenced under [section 101][126], [102A][128], or [103][129], revoke the appointment of an attorney under an enduring power of attorney if it is satisfied that the attorney---
+*   (1) The court may, in any proceeding commenced under [section 101][128], [102A][130], or [103][131], revoke the appointment of an attorney under an enduring power of attorney if it is satisfied that the attorney---
         
     *   (a) is not acting, or proposes not to act, in the best interests of the donor; or
     
-    *   (b) is failing, or has failed, to comply with any of the attorney's obligations under [section 99A][120] or [99B][121], or proposes not to comply with any of those obligations.
+    *   (b) is failing, or has failed, to comply with any of the attorney's obligations under [section 99A][122] or [99B][123], or proposes not to comply with any of those obligations.
     
-    (1A) In any proceedings commenced under [section 101][126] or [102][127], the court may revoke the appointment of an attorney under an enduring power of attorney only on the motion of the donor or a party to the proceeding other than the attorney.
+    (1A) In any proceedings commenced under [section 101][128] or [102][129], the court may revoke the appointment of an attorney under an enduring power of attorney only on the motion of the donor or a party to the proceeding other than the attorney.
     
-    (2) Where a court under paragraph (h) or paragraph (i) of [section 102(2)][127] determines that the donor of an enduring power of attorney was induced by undue influence or fraud to create the power or that the attorney is not suitable to be the donor's attorney, the court shall revoke the appointment of the attorney.
+    (2) Where a court under paragraph (h) or paragraph (i) of [section 102(2)][129] determines that the donor of an enduring power of attorney was induced by undue influence or fraud to create the power or that the attorney is not suitable to be the donor's attorney, the court shall revoke the appointment of the attorney.
     
-    Section 105(1): substituted, on 25 September 2008, by [section 20][242] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 105(1): substituted, on 25 September 2008, by [section 20][252] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
     
-    Section 105(1A): inserted, on 25 September 2008, by [section 20][242] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 105(1A): inserted, on 25 September 2008, by [section 20][252] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
 
 ##### 106 Circumstances in which enduring power of attorney shall cease to have effect
     
@@ -2759,17 +2825,17 @@ Enduring powers of attorney
     
     *   (b) the donor dies; or
     
-    *   (c) the attorney gives notice of disclaimer in accordance with [section 104][133]; or
+    *   (c) the attorney gives notice of disclaimer in accordance with [section 104][135]; or
     
     *   (d) the attorney dies, or is adjudged bankrupt, or becomes a special or committed patient under the Mental Health Act 1969, or becomes subject to a personal order or a property order, or otherwise becomes incapable of acting; or
     
     *   (e) in the case of an enduring power of attorney that appoints more than 1 attorney with joint but not several authority, one of the attorneys dies, or is adjudged bankrupt, or becomes a special or committed patient under the Mental Health Act 1969, or becomes subject to a personal order or a property order, or otherwise becomes incapable of acting; or
     
-    *   (f) a court revokes the appointment of the attorney pursuant to [section 105][134].
+    *   (f) a court revokes the appointment of the attorney pursuant to [section 105][136].
     
     (2) In any case where the enduring power of attorney provides for successive attorneys, the appointment of one being conditional upon the cessation of the appointment of another, the provisions of paragraphs (c) to (f) of subsection (1) shall apply only in respect of the last such attorney.
     
-    Section 106(1)(a): amended, on 25 September 2008, by [section 21][243] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 106(1)(a): amended, on 25 September 2008, by [section 21][253] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
 
 ##### 107 Attorney's power to benefit self and others
     
@@ -2777,7 +2843,7 @@ Enduring powers of attorney
         
     *   (a) the donor has specified a power to so act in the enduring power of attorney; or
     
-    *   (b) the court authorises the attorney to so act in an order under [section 102(2)(g) or (ga)][127]; or
+    *   (b) the court authorises the attorney to so act in an order under [section 102(2)(g) or (ga)][129]; or
     
     *   (c) the attorney's actions relate to 1 or more of the following matters and the enduring power of attorney does not expressly provide otherwise:
             
@@ -2785,7 +2851,7 @@ Enduring powers of attorney
         
         *   (ii) any payments of a kind described in subsection (2):
         
-        *   (iii) if acting under an enduring power of attorney in relation to the donor's property, any loan or advance or other investment of the donor's property that a trustee could make of trust funds under [section 13A][244] of the Trustee Act 1956\.
+        *   (iii) if acting under an enduring power of attorney in relation to the donor's property, any loan or advance or other investment of the donor's property that a trustee could make of trust funds under [section 13A][254] of the Trustee Act 1956\.
         
         
     
@@ -2801,11 +2867,11 @@ Enduring powers of attorney
         
         
     
-    Section 107: substituted, on 25 September 2008, by [section 22][245] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 107: substituted, on 25 September 2008, by [section 22][255] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
 
 ##### 108 Procedure
     
-*   For the purpose of proceedings under this Part, the provisions of [Part 6][71] (except [section 64][73]), and [sections 83 to 85][95], so far as they are applicable and with any necessary modifications, shall apply as if the donor were a person in respect of whom an application for a personal order or a property order was being sought or in respect of whom such an order had been made, subject to the following provisions:
+*   For the purpose of proceedings under this Part, the provisions of [Part 6][71] (except [section 64][73]), and [sections 83 to 85][97], so far as they are applicable and with any necessary modifications, shall apply as if the donor were a person in respect of whom an application for a personal order or a property order was being sought or in respect of whom such an order had been made, subject to the following provisions:
         
     *   (a) where the application for the exercise of the court's jurisdiction is made by any person other than the attorney, a copy of the application shall be served on the attorney (as well as the persons listed in [section 63(1)][72]):
     
@@ -2813,29 +2879,29 @@ Enduring powers of attorney
     
     *   (c) a court may hear and determine any proceedings before it under this Part in conjunction with any other proceedings under this or any other Part of this Act in any case where both proceedings are in respect of the same person, whether or not the parties to the proceedings are the same.
     
-    Section 108(b): amended, on 13 September 2002, by [section 6][204] of the Family Courts Amendment Act 2000 (2000 No 65).
+    Section 108(b): amended, on 13 September 2002, by [section 6][206] of the Family Courts Amendment Act 2000 (2000 No 65).
 
 ##### 108AA Enduring powers of attorney created before Protection of Personal and Property Rights Amendment Act 2007
     
-*   (1) In this section, _commencement date_ means the commencement date of [section 23][246] of the Protection of Personal and Property Rights Amendment Act 2007\.
+*   (1) In this section, _commencement date_ means the commencement date of [section 23][256] of the Protection of Personal and Property Rights Amendment Act 2007\.
     
     (2) If an enduring power of attorney is executed but not effective before the commencement date,---
         
-    *   (a) [section 94A][112] does not apply to it; and
+    *   (a) [section 94A][114] does not apply to it; and
     
-    *   (b) [section 95(1) and (2)][113] (as it reads before the commencement date) continue to apply to the enduring power of attorney.
+    *   (b) [section 95(1) and (2)][115] (as it reads before the commencement date) continue to apply to the enduring power of attorney.
     
     (3) If an enduring power of attorney is effective before the commencement date,---
         
-    *   (a) [sections 94A][112] and [107][136] do not apply to it; and
+    *   (a) [sections 94A][114] and [107][138] do not apply to it; and
     
-    *   (b) [sections 95(1), (2)][113], and [107][136] (as they read before the commencement date) continue to apply to the enduring power of attorney.
+    *   (b) [sections 95(1), (2)][115], and [107][138] (as they read before the commencement date) continue to apply to the enduring power of attorney.
     
-    Section 108AA: inserted, on 25 September 2008, by [section 23][246] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 108AA: inserted, on 25 September 2008, by [section 23][256] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
 
 ##### 108AAB Review of Protection of Personal and Property Rights Amendment Act 2007
     
-*   (1) The Minister of State for the time being responsible for senior citizens must, as soon as practicable, 5 years after the commencement of [section 23][246] of the Protection of Personal and Property Rights Amendment Act 2007,---
+*   (1) The Minister of State for the time being responsible for senior citizens must, as soon as practicable, 5 years after the commencement of [section 23][256] of the Protection of Personal and Property Rights Amendment Act 2007,---
         
     *   (a) review the effectiveness of the amendments to this Act made by the Protection of Personal and Property Rights Amendment Act 2007; and
     
@@ -2843,14 +2909,14 @@ Enduring powers of attorney
     
     *   (c) prepare a report on the findings.
     
-    (2) The Minister must present a copy of the report to the House of Representatives no later than 6 years after the commencement of [section 23][246] of the Protection of Personal and Property Rights Amendment Act 2007\.
+    (2) The Minister must present a copy of the report to the House of Representatives no later than 6 years after the commencement of [section 23][256] of the Protection of Personal and Property Rights Amendment Act 2007\.
     
-    Section 108AAB: inserted, on 25 September 2008, by [section 23][246] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 108AAB: inserted, on 25 September 2008, by [section 23][256] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
 
 ## Part 9A  
 Payment of money or damages
     
-*   Part 9A: inserted, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+*   Part 9A: inserted, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
 
 ##### 108A Interpretation
     
@@ -2864,19 +2930,19 @@ Payment of money or damages
     
     _specified person_ means a person who is incapable of managing his or her own affairs.
     
-    Section 108A: inserted, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Section 108A: inserted, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
 
 ##### 108B Approval of court required to settle claims of specified persons
     
 *   (1) This section applies where money or damages are claimed by or on behalf of a specified person, whether alone or in conjunction with another person.
     
-    (2) If the claim is not the subject of proceedings before a court, an agreement for the comprise or settlement of the claim entered into by the specified person, or on his or her behalf by a person who, in the opinion of a court, is a fit and proper person to do so, is binding on the specified person if the agreement, or a release of the claim, is in writing and is approved by the court under [section 108C][143].
+    (2) If the claim is not the subject of proceedings before a court, an agreement for the comprise or settlement of the claim entered into by the specified person, or on his or her behalf by a person who, in the opinion of a court, is a fit and proper person to do so, is binding on the specified person if the agreement, or a release of the claim, is in writing and is approved by the court under [section 108C][145].
     
-    (3) If the claim has not been compromised or settled in accordance with subsection (2), and has become the subject of proceedings before a court, a settlement, compromise, or payment, or acceptance of money paid into court, whenever entered into or made, is valid so far as it relates to the specified person's claim only with the approval of the court under [section 108C][143].
+    (3) If the claim has not been compromised or settled in accordance with subsection (2), and has become the subject of proceedings before a court, a settlement, compromise, or payment, or acceptance of money paid into court, whenever entered into or made, is valid so far as it relates to the specified person's claim only with the approval of the court under [section 108C][145].
     
     Compare: 1957 No 36 s 66(1)
     
-    Section 108B: inserted, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Section 108B: inserted, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
 
 ##### 108C Applications for approval of court
     
@@ -2900,11 +2966,11 @@ Payment of money or damages
     
     Compare: 1957 No 36 s 66(2), (3)
     
-    Section 108C: inserted, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Section 108C: inserted, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
 
 ##### 108D Money or damages may be held upon trust
     
-*   (1) Without limiting [section 108C][143], this section applies where the court directs that all or part of any money or damages awarded to a specified person, or of money to which the person is entitled under an agreement, compromise, or settlement approved under section 108C, must be held on trust for the person under this section by a trustee corporation or any other person.
+*   (1) Without limiting [section 108C][145], this section applies where the court directs that all or part of any money or damages awarded to a specified person, or of money to which the person is entitled under an agreement, compromise, or settlement approved under section 108C, must be held on trust for the person under this section by a trustee corporation or any other person.
     
     (2) The amount must be invested and held by the trustee upon trust---
         
@@ -2924,48 +2990,48 @@ Payment of money or damages
     
     Compare: 1957 No 36 s 66(4)
     
-    Section 108D: inserted, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Section 108D: inserted, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
 
 ##### 108E Money or damages held by manager
     
-*   (1) Without limiting [section 108C(2)][143], where there is a manager of the estate of the specified person under this Act, the court may direct that all or part of any money or damages awarded to that person, or of any money to which the person is entitled under an agreement, compromise, or settlement approved under section 108C, must be held by the manager as if it were part of the specified person's estate.
+*   (1) Without limiting [section 108C(2)][145], where there is a manager of the estate of the specified person under this Act, the court may direct that all or part of any money or damages awarded to that person, or of any money to which the person is entitled under an agreement, compromise, or settlement approved under section 108C, must be held by the manager as if it were part of the specified person's estate.
     
     (2) A manager who holds money or damages under a direction given under subsection (1) does so with and subject to the powers and discretion conferred upon a manager by this Act.
     
     Compare: 1957 No 36 s 66(5)
     
-    Section 108E: inserted, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Section 108E: inserted, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
 
 ##### 108F Termination of trust
     
-*   (1) Where a specified person attains the capacity to manage his or her own affairs while any amount is held on trust for his or her benefit under [section 108D][144], the balance of that amount and of the income from that amount remaining in the hands of the trustee must be paid to the specified person.
+*   (1) Where a specified person attains the capacity to manage his or her own affairs while any amount is held on trust for his or her benefit under [section 108D][146], the balance of that amount and of the income from that amount remaining in the hands of the trustee must be paid to the specified person.
     
-    (2) At any time before the payment is made, the court may order that the whole or any part of the amount must continue to be held on trust under [section 108D][144].
+    (2) At any time before the payment is made, the court may order that the whole or any part of the amount must continue to be held on trust under [section 108D][146].
     
     (3) Where the trustee has made an application or received notice that an application has been made to the court for an order that the amount must continue to be held on trust, the trustee must not make any payment under this section until the application has been disposed of.
     
     Compare: 1957 No 36 s 66(6)
     
-    Section 108F: inserted, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Section 108F: inserted, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
 
 ##### 108G Part does not affect Deaths by Accidents Compensation Act 1952
     
-*   Nothing in this Part limits or affects the [Deaths by Accidents Compensation Act 1952][247].
+*   Nothing in this Part limits or affects the [Deaths by Accidents Compensation Act 1952][257].
     
     Compare: 1957 No 36 s 66(9)
     
-    Section 108G: inserted, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Section 108G: inserted, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
 
 ## Part 10  
 Miscellaneous provisions
 
 ##### 109 Orders may be registered
     
-*   (1) A property order may be registered under the [Deeds Registration Act 1908][248] as an instrument affecting the title to any land in which the person subject to the order has any estate or interest, whether legal or equitable.
+*   (1) A property order may be registered under the [Deeds Registration Act 1908][258] as an instrument affecting the title to any land in which the person subject to the order has any estate or interest, whether legal or equitable.
     
-    (2) A property order shall be deemed to be an instrument purporting to affect land under the [Land Transfer Act 1952][249], and a memorial of the instrument may accordingly be entered upon the register of any land in respect of which the person subject to the order is the registered proprietor of any estate or interest under this Act.
+    (2) A property order shall be deemed to be an instrument purporting to affect land under the [Land Transfer Act 1952][259], and a memorial of the instrument may accordingly be entered upon the register of any land in respect of which the person subject to the order is the registered proprietor of any estate or interest under this Act.
     
-    (3) A trustee corporation that becomes the manager of a person's property under [section 32][38] or [section 33][39] may register a notice in the prescribed form under the [Deeds Registration Act 1908][248] or the [Land Transfer Act 1952][249] as if it were a property order.
+    (3) A trustee corporation that becomes the manager of a person's property under [section 32][38] or [section 33][39] may register a notice in the prescribed form under the [Deeds Registration Act 1908][258] or the [Land Transfer Act 1952][259] as if it were a property order.
 
 ##### 110 Remission of fees in cases of hardship
     
@@ -2975,55 +3041,57 @@ Miscellaneous provisions
     
 *   Rules may be made regulating the practice and procedure of courts in proceedings under this Act,---
         
-    *   (a) in the case of the High Court, under [section 51C][250] of the Judicature Act 1908:
+    *   (a) in the case of the High Court, under [section 51C][260] of the Judicature Act 1908:
     
-    *   (b) in the case of District Courts, under [section 122][251] of the District Courts Act 1947:
+    *   (b) in the case of District Courts, under [section 122][261] of the District Courts Act 1947:
     
-    *   (c) in the case of Family Courts, under [section 16A][252] of the Family Courts Act 1980\.
+    *   (c) in the case of Family Courts, under [section 16A][262] of the Family Courts Act 1980\.
     
-    Section 111: substituted, on 13 September 2002, by [section 6][204] of the Family Courts Amendment Act 2000 (2000 No 65).
+    Section 111: substituted, on 13 September 2002, by [section 6][206] of the Family Courts Amendment Act 2000 (2000 No 65).
 
 ##### 111A Transitional provision relating to rules
     
-*   (1) Subsections (2) and (3) apply to rules made under [section 111][151] that are in force immediately before the commencement of this section, unless those rules are revoked on or after the commencement of this section.
+*   (1) Subsections (2) and (3) apply to rules made under [section 111][153] that are in force immediately before the commencement of this section, unless those rules are revoked on or after the commencement of this section.
     
-    (2) Rules to which this subsection applies that regulate the practice or procedure of the High Court continue to regulate the practice and procedure of the High Court until any rules referred to in [section 111(a)][151] come into force.
+    (2) Rules to which this subsection applies that regulate the practice or procedure of the High Court continue to regulate the practice and procedure of the High Court until any rules referred to in [section 111(a)][153] come into force.
     
-    (3) Rules to which this subsection applies that regulate the practice or procedure of the District Courts continue to regulate the practice and procedure of the District Courts until any rules referred to in [section 111(b)][151] come into force.
+    (3) Rules to which this subsection applies that regulate the practice or procedure of the District Courts continue to regulate the practice and procedure of the District Courts until any rules referred to in [section 111(b)][153] come into force.
     
-    Section 111A: inserted, on 13 September 2002, by [section 6][204] of the Family Courts Amendment Act 2000 (2000 No 65).
+    Section 111A: inserted, on 13 September 2002, by [section 6][206] of the Family Courts Amendment Act 2000 (2000 No 65).
 
 ##### 112 Regulations
     
 *   The Governor-General may from time to time, by Order in Council, make regulations---
         
-    *   (a) making provision for the determination of the amount of fees and expenses, including minimum and maximum amounts, payable in respect of professional services provided by barristers and solicitors appointed under [section 65][74], which fees and expenses may differ according to the complexity of the proceedings and the time spent, and according to whether or not professional services are to be provided in a specified number of proceedings during a specified period:
+    *   (a) making provision for the determination of the amount of fees and expenses, including minimum and maximum amounts, payable in respect of professional services provided by lawyers appointed under [section 65][74], which fees and expenses may differ according to the complexity of the proceedings and the time spent, and according to whether or not professional services are to be provided in a specified number of proceedings during a specified period:
     
-    *   (b) making provision for the determination of the amount of fees and expenses, including minimum and maximum amounts, payable in respect of the preparation of reports requested pursuant to [section 76][87], which fees and expenses may differ according to the type of report and the time spent, and according to whether or not professional services are to be available in a specified number of proceedings during a specified period:
+    *   (b) making provision for the determination of the amount of fees and expenses, including minimum and maximum amounts, payable in respect of the preparation of reports requested pursuant to [section 76][89], which fees and expenses may differ according to the type of report and the time spent, and according to whether or not professional services are to be available in a specified number of proceedings during a specified period:
     
-    *   (ba) prescribing forms for enduring powers of attorney for the purposes of [Part 9][108]:
+    *   (ba) prescribing forms for enduring powers of attorney for the purposes of [Part 9][110]:
     
-    *   (bb) prescribing forms for certificates for the purposes of the witnessing requirements in [section 94A(7)][112]:
+    *   (bb) prescribing forms for certificates for the purposes of the witnessing requirements in [section 94A(7)][114]:
     
-    *   (bc) prescribing forms for certificates for the purposes of any medical examination or assessment under [Part 9][108]:
+    *   (bc) prescribing forms for certificates for the purposes of any medical examination or assessment under [Part 9][110]:
     
-    *   (bd) prescribing forms that may be used for the suspension and revocation of enduring powers of attorney for the purposes of [Part 9][108]:
+    *   (bd) prescribing forms that may be used for the suspension and revocation of enduring powers of attorney for the purposes of [Part 9][110]:
     
-    *   (be) prescribing the form for the certificate of non-revocation and non-suspension of the enduring power of attorney for the purposes of [section 103C(6)][132]:
+    *   (be) prescribing the form for the certificate of non-revocation and non-suspension of the enduring power of attorney for the purposes of [section 103C(6)][134]:
     
     *   (c) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
     
     Section 112: substituted, on 1 July 1994, by section 12 of the Protection of Personal and Property Rights Amendment Act 1994 (1994 No 54).
     
-    Section 112(ba): inserted, on 26 September 2007, by [section 24][253] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 112(a): amended, on 31 March 2014, by [section 10][263] of the Protection of Personal and Property Rights Amendment Act 2013 (2013 No 83).
     
-    Section 112(bb): inserted, on 26 September 2007, by [section 24][253] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 112(ba): inserted, on 26 September 2007, by [section 24][264] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
     
-    Section 112(bc): inserted, on 26 September 2007, by [section 24][253] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 112(bb): inserted, on 26 September 2007, by [section 24][264] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
     
-    Section 112(bd): inserted, on 26 September 2007, by [section 24][253] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 112(bc): inserted, on 26 September 2007, by [section 24][264] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
     
-    Section 112(be): inserted, on 26 September 2007, by [section 24][253] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    Section 112(bd): inserted, on 26 September 2007, by [section 24][264] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+    
+    Section 112(be): inserted, on 26 September 2007, by [section 24][264] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
 
 ##### 113 Reference to Aged and Infirm Persons Protection Act 1912 and Part 7 of the Mental Health Act 1969 in other Acts
     
@@ -3031,17 +3099,17 @@ Miscellaneous provisions
 
 ##### 114 Savings
     
-*   Nothing in this Act shall limit the general jurisdiction of the High Court under [section 17][254] of the Judicature Act 1908 or otherwise.
+*   Nothing in this Act shall limit the general jurisdiction of the High Court under [section 17][265] of the Judicature Act 1908 or otherwise.
 
 ##### 115 Maori Affairs Act 1953 amended
     
 *   \[Repealed\]
     
-    Section 115: repealed, on 1 July 1993, by [section 362(1)][181] of Te Ture Whenua Maori Act 1993 (1993 No 4).
+    Section 115: repealed, on 1 July 1993, by [section 362(1)][183] of Te Ture Whenua Maori Act 1993 (1993 No 4).
 
 ##### 116 Repeals
     
-*   The enactments specified in [Schedule 4][162] are hereby repealed.
+*   The enactments specified in [Schedule 4][164] are hereby repealed.
 
 ##### 117 Transitional provisions
     
@@ -3053,15 +3121,15 @@ Miscellaneous provisions
     
     (4) Where, in proceedings to which subsection (1) applies, a person becomes a protected person under the Aged and Infirm Persons Protection Act 1912 or a protected patient under Part 7 of the Mental Health Act 1969, on becoming so that person shall be deemed to be a person subject to a property order, and a manager appointed in respect of that person shall be deemed to be a manager appointed under this Act.
     
-    (4A) Every person who is deemed by subsection (3) or subsection (4) to be a manager appointed under this Act shall, subject to any order of the court made on an application filed under this Act, have all the powers set out in [Schedule 1][159].
+    (4A) Every person who is deemed by subsection (3) or subsection (4) to be a manager appointed under this Act shall, subject to any order of the court made on an application filed under this Act, have all the powers set out in [Schedule 1][161].
     
-    (5) Within 3 years after the commencement of this Act, every person, other than a trustee corporation, who is deemed by subsection (3) or subsection (4) to be a manager appointed under this Act shall apply to a court in accordance with [section 87][100] for a review of the original order by which that person was appointed.
+    (5) Within 3 years after the commencement of this Act, every person, other than a trustee corporation, who is deemed by subsection (3) or subsection (4) to be a manager appointed under this Act shall apply to a court in accordance with [section 87][102] for a review of the original order by which that person was appointed.
     
     (6) Within 1 year after the commencement of this Act, every trustee corporation who is deemed by subsection (3) or subsection (4) to be a manager appointed under this Act shall notify a court of each case, and the court and the trustee corporation shall draw up a programme in accordance with regulations made under this Act for the progressive review of all such cases.
     
-    (7) The repeal by [section 116][157] of this Act of the Aged and Infirm Persons Protection Act 1912 shall not affect any of the provisions of section 18 of that Act, and those provisions shall continue to apply, in respect of any period that has not expired at the commencement of this Act.
+    (7) The repeal by [section 116][159] of this Act of the Aged and Infirm Persons Protection Act 1912 shall not affect any of the provisions of section 18 of that Act, and those provisions shall continue to apply, in respect of any period that has not expired at the commencement of this Act.
     
-    (8) The repeal by [section 116][157] of this Act of Part 7 of the Mental Health Act 1969 shall not affect any of the provisions of section 90 of that Act, and those provisions shall continue to apply, in respect of any period that has not expired at the commencement of this Act.
+    (8) The repeal by [section 116][159] of this Act of Part 7 of the Mental Health Act 1969 shall not affect any of the provisions of section 90 of that Act, and those provisions shall continue to apply, in respect of any period that has not expired at the commencement of this Act.
     
     (9) Nothing in [section 45(2)(a)][52] shall apply to any person who is deemed by subsection (3) of this section to be a manager appointed under this Act.
     
@@ -3086,9 +3154,9 @@ Powers of managers
             
         *   (i) to institute or defend in the manager's own name or in the name of the person subject to a property order any action, suit, or other proceeding (either civil or criminal) concerning the property of the person and to suffer judgment to go by default; or to consent to any judgment, decree, or order in the action, suit, or proceeding on such terms as the manager thinks fit:
         
-        *   (ii) to take proceedings to cause to be adjudicated a bankrupt or placed in liquidation any person or company indebted to the person subject to a property order, or to make any application for or in relation to a summary instalment order in respect of any such person under [subpart 3][255] of Part 5 of the Insolvency Act 2006; and to vote and act either personally or by proxy at all meetings of creditors and in all other matters relating to the bankruptcy or liquidation or summary instalment order:
+        *   (ii) to take proceedings to cause to be adjudicated a bankrupt or placed in liquidation any person or company indebted to the person subject to a property order, or to make any application for or in relation to a summary instalment order in respect of any such person under [subpart 3][266] of Part 5 of the Insolvency Act 2006; and to vote and act either personally or by proxy at all meetings of creditors and in all other matters relating to the bankruptcy or liquidation or summary instalment order:
         
-        *   (iii) in the name and on behalf of the person subject to a property order, to lodge a caveat under the [Land Transfer Act 1952][249] or a notice of claim under [section 42][256] of the Property (Relationships) Act 1976:
+        *   (iii) in the name and on behalf of the person subject to a property order, to lodge a caveat under the [Land Transfer Act 1952][259] or a notice of claim under [section 42][267] of the Property (Relationships) Act 1976:
         
         *   (iv) to compromise or otherwise settle any claims or demands made by or against the person subject to a property order, or by or against the manager of the estate, on such terms as the manager thinks fit and on such evidence as the manager considers sufficient; and to submit such claims or demands to arbitration; and to do all acts and things necessary to render any such compromise or arbitration effectual:
         
@@ -3096,7 +3164,7 @@ Powers of managers
         
         *   (vi) to make any election arising out of or give directions with reference to the right, title, share, or interest of the person subject to the property order in or under any policy of assurance, or any pension, superannuation, benefit, benevolent, or other fund, or in any money arising from any such policy or fund:
         
-        *   (vii) to make an application under [section 122][187] of the Land Transfer Act 1952 to have a transmission registered where the manager believes that the person subject to a property order is entitled to any estate or interest in land by virtue of that transmission:
+        *   (vii) to make an application under [section 122][189] of the Land Transfer Act 1952 to have a transmission registered where the manager believes that the person subject to a property order is entitled to any estate or interest in land by virtue of that transmission:
         
         
     
@@ -3130,7 +3198,7 @@ Powers of managers
     
     *   (c) with the prior approval of the court, to invest any money belonging to the person subject to a property order:
         
-        provided that, where the money is to be invested in the manner authorised by the [Trustee Act 1956][257] for the investment of trust funds, it shall not be necessary to obtain the prior approval of the court:
+        provided that, where the money is to be invested in the manner authorised by the [Trustee Act 1956][268] for the investment of trust funds, it shall not be necessary to obtain the prior approval of the court:
     
     *   (d) insure any of the property of the person subject to a property order against loss or damage to its full insurable value or for its full replacement value, or insure against any other risk or liability against which it would be prudent to insure:
     
@@ -3144,7 +3212,7 @@ Powers of managers
         
         *   (iii) to employ such managers, agents, servants, clerks, workmen, and others as the manager thinks fit:
         
-        *   (iv) subject to the [Sharemilking Agreements Act 1937][258], to enter into any sharemilking agreement for such period and on such terms and conditions as the manager thinks fit:
+        *   (iv) subject to the [Sharemilking Agreements Act 1937][269], to enter into any sharemilking agreement for such period and on such terms and conditions as the manager thinks fit:
         
         *   (v) to agree on an alteration of the conditions of any partnership for the purpose of more advantageously carrying on or preserving the business, until the recovery of the person or disposing of it or winding it up:
         
@@ -3160,23 +3228,23 @@ Powers of managers
     
     *   (j) surrender, assign, or otherwise dispose of, with or without consideration, any onerous property belonging to the person subject to a property order or any policy of life insurance:
     
-    *   (k) in the name and on behalf of the person subject to a property order and whether the person is possessed of any estate or not, make any application to the court under the Matrimonial Property Act 1963, the [Property (Relationships) Act 1976][259], or any of the provisions of the [Family Proceedings Act 1980][260] except [Part 4][261] (which relates to the status of marriage or civil union), that the person would be entitled to make if he or she were not subject to a property order:
+    *   (k) in the name and on behalf of the person subject to a property order and whether the person is possessed of any estate or not, make any application to the court under the Matrimonial Property Act 1963, the [Property (Relationships) Act 1976][270], or any of the provisions of the [Family Proceedings Act 1980][271] except [Part 4][272] (which relates to the status of marriage or civil union), that the person would be entitled to make if he or she were not subject to a property order:
     
-    *   (l) in the name and on behalf of the person subject to a property order, enter into an agreement under [Part 6][262] of the Property (Relationships) Act 1976:
+    *   (l) in the name and on behalf of the person subject to a property order, enter into an agreement under [Part 6][273] of the Property (Relationships) Act 1976:
     
     *   (m) in the name and on behalf of the person subject to a property order enter into any scheme of family arrangement to which the person is a necessary or proper party:
     
     *   (n) sell any of the property of the person subject to a property order, either subject to prior encumbrances or not, and either together or in lots, by public auction or public tender or private contract, and subject to any such conditions respecting title or evidence of title or other matters as the manager thinks fit; with power to modify or vary any contract or agreement for sale and purchase, or to agree to do so, and to buy in at any auction, and to cancel or rescind any contract or agreement for sale and purchase, or to agree to do so, and to buy in at any auction, and to cancel or rescind any contract or agreement for sale and purchase and to resell, without being answerable for any loss, and to compromise with or make allowances to any person with whom any such contract or agreement has been made, or who is the assignee thereof, in respect of any unpaid purchase money secured on mortgage or otherwise:
         
-        provided that the manager shall not, without the consent of the court, sell any freehold or leasehold land belonging to the person subject to a property order in any case where the value (as determined in accordance with [section 28][263] of the Trustee Act 1956) of the land or of the share or interest of the person therein exceeds the specified sum; except that the manager may, without the consent of the court, sell any such land or the share or interest of the person therein for more than the specified sum if (in accordance with section 28 of the Trustee Act 1956) the manager has in good faith fixed the value of that land or of that share or interest immediately before the sale at the specified sum or less:
+        provided that the manager shall not, without the consent of the court, sell any freehold or leasehold land belonging to the person subject to a property order in any case where the value (as determined in accordance with [section 28][274] of the Trustee Act 1956) of the land or of the share or interest of the person therein exceeds the specified sum; except that the manager may, without the consent of the court, sell any such land or the share or interest of the person therein for more than the specified sum if (in accordance with section 28 of the Trustee Act 1956) the manager has in good faith fixed the value of that land or of that share or interest immediately before the sale at the specified sum or less:
     
     *   (o) dispose of any of the property of the person subject to a property order by way of exchange for other property in New Zealand of a like nature and a like or better tenure; or, where the person has an undivided share in any property, concur in the partition of the property; and give or take any property by way of equality of exchange or partition:
         
-        provided that the manager shall not, without the consent of the court, exchange any freehold or leasehold land in any case where the value (as determined in accordance with [section 28][263] of the Trustee Act 1956) of the land or of the share or interest of the person therein exceeds the specified sum:
+        provided that the manager shall not, without the consent of the court, exchange any freehold or leasehold land in any case where the value (as determined in accordance with [section 28][274] of the Trustee Act 1956) of the land or of the share or interest of the person therein exceeds the specified sum:
     
     *   (p) subdivide any freehold or leasehold land belonging to the person subject to a property order or in which the person has any share or interest, and construct, dedicate, make, and maintain, or contribute money towards the construction, dedication, making and maintenance of roads, streets, access ways, service lanes, footpaths, and reserves, and sewerage, water, electricity, drainage, and other works (whether on land belonging to the person or elsewhere), and do all such other things and make all such other payments as are required by any law or bylaw relating to subdivisions or as the manager thinks are necessary or are likely to be beneficial to the person or to his or her estate or to any part of it:
     
-    *   (q) grant, reserve, or acquire easements and _profits a prendre_, and enter into party wall agreements and agreements that relate to fencing, or to which [section 4][264] of the Fencing Act 1978 applies, and execute all necessary documents to give effect thereto:
+    *   (q) grant, reserve, or acquire easements and _profits a prendre_, and enter into party wall agreements and agreements that relate to fencing, or to which [section 4][275] of the Fencing Act 1978 applies, and execute all necessary documents to give effect thereto:
     
     *   (r) let or sublet or lease or sublease any property of the person subject to a property order for such term, at such rent (with or without a fine, premium, or foregift) and on and subject to such covenants and conditions as the manager thinks fit, with power at any time to reduce the rent or otherwise vary or modify the terms, and with further power---
             
@@ -3186,7 +3254,7 @@ Powers of managers
         
         *   (iii) to grant to a lessee or sublessee a right to claim compensation for improvements made or to be made by the lessee or sublessee in, upon, or about the property that is leased or subleased:
         
-        provided that the manager shall not, without the consent of the court, grant a lease or sublease for a term of more than 10 years or a lease or sublease with a right or rights of renewal if the aggregate duration of the original and of the renewed terms could exceed 10 years; and shall not, without the consent of the court, grant a lease with an optional or compulsory purchasing clause in any case where the value (as determined in accordance with [section 28][263] of the Trustee Act 1956) of the property to be leased or of the share or interest of the person therein exceeds the specified sum at the time of the granting of the lease:
+        provided that the manager shall not, without the consent of the court, grant a lease or sublease for a term of more than 10 years or a lease or sublease with a right or rights of renewal if the aggregate duration of the original and of the renewed terms could exceed 10 years; and shall not, without the consent of the court, grant a lease with an optional or compulsory purchasing clause in any case where the value (as determined in accordance with [section 28][274] of the Trustee Act 1956) of the property to be leased or of the share or interest of the person therein exceeds the specified sum at the time of the granting of the lease:
     
     *   (s) accept the surrender of any lease, sublease, or tenancy:
     
@@ -3198,29 +3266,29 @@ Powers of managers
         
         provided that the manager shall not, without the consent of the court, exercise the power conferred by this paragraph if the price payable for the property exceeds or may exceed the specified sum:
     
-    *   (w) in the name and on behalf of the person subject to a property order settle or join with his or her spouse in settling any property as a joint family home under the [Joint Family Homes Act 1964][265], or apply for cancellation of the registration of any property as a joint family home; and, in consideration of any such cancellation, or on any other occasion when the manager considers it reasonable or proper to so, enter into such agreement or arrangement as the manager thinks just and equitable concerning the future ownership, occupation, or possession of that property, or concerning the proceeds of the sale, letting, or other disposition of it:
+    *   (w) in the name and on behalf of the person subject to a property order settle or join with his or her spouse in settling any property as a joint family home under the [Joint Family Homes Act 1964][276], or apply for cancellation of the registration of any property as a joint family home; and, in consideration of any such cancellation, or on any other occasion when the manager considers it reasonable or proper to so, enter into such agreement or arrangement as the manager thinks just and equitable concerning the future ownership, occupation, or possession of that property, or concerning the proceeds of the sale, letting, or other disposition of it:
     
     *   (x) grant powers of attorney to any person in or out of New Zealand to do any act or thing with respect to the property of the person subject to a property order that the manager of the estate of the person can do, during any temporary period of absence or incapacity of the manager or in any other circumstances specified by the court:
     
     *   (y) concur or join with any other person or persons in doing any 1 or more of the foregoing things.
     
-    Schedule 1 clause 1(a)(ii): amended, on 3 December 2007, by [section 445][266] of the Insolvency Act 2006 (2006 No 55).
+    Schedule 1 clause 1(a)(ii): amended, on 3 December 2007, by [section 445][277] of the Insolvency Act 2006 (2006 No 55).
     
-    Schedule 1 clause 1(a)(iii): amended, on 1 February 2002, by [section 64(2)][267] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Schedule 1 clause 1(a)(iii): amended, on 1 February 2002, by [section 64(2)][278] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Schedule 1 clause 1(a)(vii): added, on 1 July 1994, by section 13 of the Protection of Personal and Property Rights Amendment Act 1994 (1994 No 54).
     
-    Schedule 1 clause 1(b)(i): amended, on 26 April 2005, by [section 7][169] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Schedule 1 clause 1(b)(i): amended, on 26 April 2005, by [section 7][171] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Schedule 1 clause 1(b)(iii): amended, on 26 April 2005, by [section 7][169] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Schedule 1 clause 1(b)(iii): amended, on 26 April 2005, by [section 7][171] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Schedule 1 clause 1(b)(iv): amended, on 26 April 2005, by [section 7][169] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Schedule 1 clause 1(b)(iv): amended, on 26 April 2005, by [section 7][171] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Schedule 1 clause 1(k): amended, on 26 April 2005, by [section 7][169] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Schedule 1 clause 1(k): amended, on 26 April 2005, by [section 7][171] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Schedule 1 clause 1(k): amended, on 1 February 2002, by [section 64(2)][267] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Schedule 1 clause 1(k): amended, on 1 February 2002, by [section 64(2)][278] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
-    Schedule 1 clause 1(l): amended, on 1 February 2002, by [section 64(2)][267] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Schedule 1 clause 1(l): amended, on 1 February 2002, by [section 64(2)][278] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Schedule 1 clause 1(r) proviso: amended (with effect on 1 October 1988), on 12 December 1989, by section 3 of the Protection of Personal and Property Rights Amendment Act 1989 (1989 No 133).
 
@@ -3228,7 +3296,7 @@ Powers of managers
 
 *   3 In this schedule the expression the specified sum means $120,000 or such other amount as is, from time to time, prescribed by Order in Council for the purposes of this clause.
     
-    Schedule 1 clause 3: amended, on 28 July 1997, by [section 4][268] of the Protection of Personal and Property Rights Amendment Act 1997 (1997 No 52).
+    Schedule 1 clause 3: amended, on 28 July 1997, by [section 4][279] of the Protection of Personal and Property Rights Amendment Act 1997 (1997 No 52).
 
 ---
 
@@ -3237,37 +3305,37 @@ Further powers of Public Trust as manager
 
 [s 39][46]
 
-*   Schedule 2 heading: amended, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+*   Schedule 2 heading: amended, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
 
 *   1 For the purposes of section 39, Public Trust may advance money to the estate of the person subject to a property order in accordance with section 56 of the Public Trust Act 2001; or borrow money in such other manner as Public Trust thinks fit and give security over all or any part of the property of the person, whether by way of mortgage, pledge, or otherwise, for the repayment thereof, with or without interest, and on and subject to such other terms and conditions as Public Trust thinks fit:
     
     provided that Public Trust shall not, without the consent of the court, advance to the estate of the person, or borrow for any purpose connected with the management or administration of that estate, any sum or sums that would, when added to the balance for the time being remaining owing of any money that Public Trust has previously advanced to or borrowed in connection with that estate, amount in all to more than the specified sum.
     
-    Schedule 2 clause 1: amended, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Schedule 2 clause 1: amended, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
     
-    Schedule 2 clause 1 proviso: amended, on 1 March 2002, by [section 170(1)][167] of the Public Trust Act 2001 (2001 No 100).
+    Schedule 2 clause 1 proviso: amended, on 1 March 2002, by [section 170(1)][169] of the Public Trust Act 2001 (2001 No 100).
 
 *   2 In this schedule the expression the specified sum means $120,000 or such other amount as is, from time to time, prescribed by Order in Council for the purposes of this clause.
     
-    Schedule 2 clause 2: amended, on 28 July 1997, by [section 5][269] of the Protection of Personal and Property Rights Amendment Act 1997 (1997 No 52).
+    Schedule 2 clause 2: amended, on 28 July 1997, by [section 5][280] of the Protection of Personal and Property Rights Amendment Act 1997 (1997 No 52).
 
 ---
 
 ## Schedule 3  
 Form of enduring power of attorney in relation to property
 
-[s 95][113]
+[s 95][115]
 
 \[Repealed\]
     
-*   Schedule 3: repealed, on 25 September 2008, by [section 25][270] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
+*   Schedule 3: repealed, on 25 September 2008, by [section 25][281] of the Protection of Personal and Property Rights Amendment Act 2007 (2007 No 90).
 
 ---
 
 ## Schedule 4  
 Enactments repealed
 
-[s 116][157]
+[s 116][159]
 
 ##### Aged and Infirm Persons Protection Act 1912 (1912 No 26)
 
@@ -3277,11 +3345,11 @@ Enactments repealed
 
 ##### Judicature Amendment Act 1972 (1972 No 130)
 
-_Amendment(s) incorporated in the [Act(s)][271]._
+_Amendment(s) incorporated in the [Act(s)][282]._
 
 ##### Judicature Amendment Act (No 2) 1985 (1985 No 112)
 
-_Amendment(s) incorporated in the [Act(s)][272]._
+_Amendment(s) incorporated in the [Act(s)][283]._
 
 ##### Maori Affairs Amendment Act 1974 (1974 No 73)
 
@@ -3318,7 +3386,7 @@ Pursuant to section 91(1) of the Protection of Personal and Property Rights Act 
 
 ##### 1 Title and commencement
     
-*   (1) This order may be cited as the [Protection of Personal and Property Rights (Incapacitated Person in Australia or Great Britain) Order 1989][273].
+*   (1) This order may be cited as the [Protection of Personal and Property Rights (Incapacitated Person in Australia or Great Britain) Order 1989][284].
     
     (2) This order shall come into force on 1 January 1990\.
 
@@ -3330,7 +3398,7 @@ Pursuant to section 91(1) of the Protection of Personal and Property Rights Act 
     
     *   (b) Great Britain.
     
-    Clause 2 heading: amended, on 1 March 2002, pursuant to [section 152(1)][274] of the Public Trust Act 2001 (2001 No 100).
+    Clause 2 heading: amended, on 1 March 2002, pursuant to [section 152(1)][285] of the Public Trust Act 2001 (2001 No 100).
 
 C J Hill,  
 for Clerk of the Executive Council.
@@ -3349,67 +3417,71 @@ Date of notification in _Gazette_: 7 December 1989\.
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][275] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][276] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][286] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][287] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][277] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][278] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][288] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][289] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Companies Amendment Act 2013 (2013 No 111): [section 14][202]
+*   [Protection of Personal and Property Rights Amendment Act 2013][290] (2013 No 83)
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][192]
+    Companies Amendment Act 2013 (2013 No 111): [section 14][204]
     
-    [Protection of Personal and Property Rights Amendment Act 2010][279] (2010 No 77)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][194]
     
-    Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(1), (2)(a)][172]
+    [Protection of Personal and Property Rights Amendment Act 2010][291] (2010 No 77)
     
-    [Protection of Personal and Property Rights Amendment Act 2008][280] (2008 No 84)
+    Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(1), (2)(a)][174]
     
-    Property Law Act 2007 (2007 No 91): [section 364(1)][201]
+    [Protection of Personal and Property Rights Amendment Act 2008][292] (2008 No 84)
     
-    [Protection of Personal and Property Rights Amendment Act 2007][281] (2007 No 90)
+    Property Law Act 2007 (2007 No 91): [section 364(1)][203]
     
-    Wills Act 2007 (2007 No 36): [section 41][198]
+    [Protection of Personal and Property Rights Amendment Act 2007][293] (2007 No 90)
+    
+    Wills Act 2007 (2007 No 36): [section 41][200]
     
     Protection of Personal and Property Rights Order 2007 (SR 2007/196)
     
-    Disabled Persons Employment Promotion Repeal Act 2007 (2007 No 11): [section 11][176]
+    Disabled Persons Employment Promotion Repeal Act 2007 (2007 No 11): [section 11][178]
     
-    Insolvency Act 2006 (2006 No 55): [section 445][266]
+    Insolvency Act 2006 (2006 No 55): [section 445][277]
     
-    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][169]
+    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][171]
     
-    Care of Children Act 2004 (2004 No 90): [section 151][173]
+    Care of Children Act 2004 (2004 No 90): [section 151][175]
     
-    Supreme Court Act 2003 (2003 No 53): [section 48(1)][219]
+    Supreme Court Act 2003 (2003 No 53): [section 48(1)][228]
     
-    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][168]
+    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][170]
     
-    District Courts Amendment Act 2002 (2002 No 63): [section 4][217]
+    District Courts Amendment Act 2002 (2002 No 63): [section 4][226]
     
-    Public Trust Act 2001 (2001 No 100): [section 170(1)][167]
+    Public Trust Act 2001 (2001 No 100): [section 170(1)][169]
     
-    Property (Relationships) Amendment Act 2001 (2001 No 5): [section 64(2)][267]
+    Property (Relationships) Amendment Act 2001 (2001 No 5): [section 64(2)][278]
     
-    Family Courts Amendment Act 2000 (2000 No 65): [section 6][204]
+    Family Courts Amendment Act 2000 (2000 No 65): [section 6][206]
     
-    Department of Child, Youth and Family Services Act 1999 (1999 No 82): [section 13][171]
+    Department of Child, Youth and Family Services Act 1999 (1999 No 82): [section 13][173]
     
-    [Protection of Personal and Property Rights Amendment Act 1998][282] (1998 No 58)
+    [Protection of Personal and Property Rights Amendment Act 1998][294] (1998 No 58)
     
-    [Protection of Personal and Property Rights Amendment Act 1997][283] (1997 No 52)
+    [Protection of Personal and Property Rights Amendment Act 1997][295] (1997 No 52)
     
     Protection of Personal and Property Rights Amendment Act 1994 (1994 No 54)
     
-    Te Ture Whenua Maori Act 1993 (1993 No 4): [section 362(1)][181]
+    Te Ture Whenua Maori Act 1993 (1993 No 4): [section 362(1)][183]
     
-    Social Welfare (Transitional Provisions) Act 1990 (1990 No 26): [section 36(5)][170]
+    Social Welfare (Transitional Provisions) Act 1990 (1990 No 26): [section 36(5)][172]
     
     Protection of Personal and Property Rights Amendment Act 1989 (1989 No 133)
     
-    Public Finance Act 1989 (1989 No 44): [sections 83(7)][179], [86(1)][211]
+    Public Finance Act 1989 (1989 No 44): [sections 83(7)][181], [86(1)][219]
+    
+    Family Courts Act 1980 (1980 No 161): [section 17A(i)][216]
 
 
 
@@ -3488,212 +3560,224 @@ Date of notification in _Gazette_: 7 December 1989\.
 [72]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127084
 [73]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127085
 [74]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127087
-[75]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127092
-[76]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127093
-[77]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127094
-[78]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127095
-[79]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127096
-[80]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127097
-[81]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127098
-[82]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127099
-[83]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127500
-[84]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127501
-[85]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127502
-[86]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127503
-[87]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127504
-[88]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127508
-[89]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127509
-[90]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127511
-[91]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127512
-[92]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127513
-[93]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127514
-[94]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127515
-[95]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127516
-[96]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127519
-[97]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127523
-[98]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127525
-[99]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127527
-[100]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127528
-[101]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127539
-[102]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127540
-[103]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127541
-[104]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127542
-[105]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127549
-[106]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127552
-[107]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127553
-[108]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127554
-[109]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM1634641
-[110]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM1634643
-[111]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127555
-[112]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM1634655
-[113]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127556
-[114]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127558
-[115]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127559
-[116]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM1634667
-[117]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127561
-[118]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM1634675
-[119]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127562
-[120]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM1634680
-[121]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM1634681
-[122]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM1634682
-[123]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM1634683
-[124]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127563
-[125]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM1634692
-[126]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127564
-[127]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127565
-[128]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM1634699
-[129]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127566
-[130]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM1634905
-[131]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM1634906
-[132]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM1634907
-[133]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127567
-[134]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127568
-[135]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127569
-[136]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127570
-[137]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127572
-[138]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM1634935
-[139]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM1634937
-[140]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127574
-[141]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127576
-[142]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127582
-[143]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127584
-[144]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127586
-[145]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127588
-[146]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127590
-[147]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127592
-[148]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127594
-[149]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127595
-[150]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127596
-[151]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127597
-[152]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127599
-[153]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM128101
-[154]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM128103
-[155]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM128104
-[156]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM128105
-[157]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM128107
-[158]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM128108
-[159]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM128110
-[160]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM128124
-[161]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM128130
-[162]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM128137
-[163]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM204329
-[164]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM129718
-[165]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM147087
-[166]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM381179
-[167]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM124529
-[168]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM205009
-[169]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM333795
-[170]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM204518
-[171]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM31416
-[172]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM1583888
-[173]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM317988
-[174]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM119974
-[175]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968904
-[176]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM406418
-[177]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM410710
-[178]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM442847
-[179]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM163167
-[180]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968905
-[181]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM293026
-[182]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM291891
-[183]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM291869
-[184]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM289897
-[185]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM292147
-[186]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM410711
-[187]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM271200
-[188]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM128126
-[189]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM122998
-[190]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM282037
-[191]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM282952
-[192]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM3360714
-[193]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM413519
-[194]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM11588
-[195]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM11589
-[196]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM258703
-[197]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM291745
-[198]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM413569
-[199]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM319576
-[200]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM319999
-[201]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM969644
-[202]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM5620822
-[203]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM123770
-[204]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM76831
-[205]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM1304107
-[206]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM426829
-[207]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM3360276
-[208]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM1304108
-[209]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM426830
-[210]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM3360278
-[211]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM163175
-[212]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM1304109
-[213]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM2061203
-[214]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM1304111
-[215]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM243909
-[216]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM243795
-[217]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM168713
-[218]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM243912
-[219]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM214522
-[220]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM42291
-[221]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM126901
-[222]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968907
-[223]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM262175
-[224]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM203321
-[225]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM364948
-[226]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968911
-[227]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM3043405
-[228]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM305242
-[229]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968922
-[230]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968923
-[231]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968924
-[232]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968926
-[233]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968928
-[234]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968930
-[235]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968931
-[236]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968936
-[237]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968938
-[238]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968939
-[239]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968941
-[240]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM969127
-[241]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968947
-[242]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968948
-[243]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968949
-[244]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM305063
-[245]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968950
-[246]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968952
-[247]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM265835
-[248]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM141134
-[249]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM269031
-[250]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM146607
-[251]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM244468
-[252]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM42296
-[253]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968956
-[254]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM145731
-[255]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM387583
-[256]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM441723
-[257]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM304703
-[258]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM222098
-[259]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM440944
-[260]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM39722
-[261]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM40259
-[262]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM441361
-[263]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM305237
-[264]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM21850
-[265]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM352254
-[266]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM387857
-[267]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM87570
-[268]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM410712
-[269]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM410713
-[270]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968957
-[271]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM408329
-[272]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM75966
-[273]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM133968
-[274]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM124504
-[275]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM2998516
-[276]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM2998515
-[277]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM2998532
-[278]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[279]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM3043400
-[280]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM1304102
-[281]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968896
-[282]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM426823
-[283]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM410704
+[75]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM6027518
+[76]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM6027519
+[77]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127092
+[78]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127093
+[79]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127094
+[80]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127095
+[81]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127096
+[82]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127097
+[83]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127098
+[84]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127099
+[85]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127500
+[86]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127501
+[87]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127502
+[88]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127503
+[89]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127504
+[90]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127508
+[91]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127509
+[92]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127511
+[93]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127512
+[94]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127513
+[95]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127514
+[96]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127515
+[97]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127516
+[98]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127519
+[99]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127523
+[100]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127525
+[101]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127527
+[102]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127528
+[103]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127539
+[104]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127540
+[105]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127541
+[106]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127542
+[107]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127549
+[108]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127552
+[109]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127553
+[110]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127554
+[111]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM1634641
+[112]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM1634643
+[113]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127555
+[114]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM1634655
+[115]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127556
+[116]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127558
+[117]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127559
+[118]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM1634667
+[119]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127561
+[120]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM1634675
+[121]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127562
+[122]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM1634680
+[123]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM1634681
+[124]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM1634682
+[125]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM1634683
+[126]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127563
+[127]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM1634692
+[128]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127564
+[129]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127565
+[130]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM1634699
+[131]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127566
+[132]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM1634905
+[133]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM1634906
+[134]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM1634907
+[135]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127567
+[136]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127568
+[137]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127569
+[138]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127570
+[139]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127572
+[140]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM1634935
+[141]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM1634937
+[142]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127574
+[143]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127576
+[144]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127582
+[145]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127584
+[146]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127586
+[147]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127588
+[148]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127590
+[149]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127592
+[150]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127594
+[151]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127595
+[152]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127596
+[153]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127597
+[154]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM127599
+[155]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM128101
+[156]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM128103
+[157]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM128104
+[158]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM128105
+[159]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM128107
+[160]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM128108
+[161]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM128110
+[162]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM128124
+[163]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM128130
+[164]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM128137
+[165]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM204329
+[166]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM129718
+[167]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM147087
+[168]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM381179
+[169]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM124529
+[170]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM205009
+[171]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM333795
+[172]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM204518
+[173]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM31416
+[174]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM1583888
+[175]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM317988
+[176]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM119974
+[177]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968904
+[178]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM406418
+[179]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM410710
+[180]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM442847
+[181]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM163167
+[182]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968905
+[183]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM293026
+[184]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM291891
+[185]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM291869
+[186]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM289897
+[187]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM292147
+[188]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM410711
+[189]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM271200
+[190]: http://www.legislation.govt.nz/act/public/1988/0004/latest/whole.html#DLM128126
+[191]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM122998
+[192]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM282037
+[193]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM282952
+[194]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM3360714
+[195]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM413519
+[196]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM11588
+[197]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM11589
+[198]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM258703
+[199]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM291745
+[200]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM413569
+[201]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM319576
+[202]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM319999
+[203]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM969644
+[204]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM5620822
+[205]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM123770
+[206]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM76831
+[207]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM5617508
+[208]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM1304107
+[209]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM426829
+[210]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM5617509
+[211]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM6025512
+[212]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM3360276
+[213]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM1304108
+[214]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM5107820
+[215]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM426830
+[216]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM6025517
+[217]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM3360278
+[218]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM5617513
+[219]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM163175
+[220]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM1304109
+[221]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM5617514
+[222]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM2061203
+[223]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM1304111
+[224]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM243909
+[225]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM243795
+[226]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM168713
+[227]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM243912
+[228]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM214522
+[229]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM42291
+[230]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM126901
+[231]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM5617515
+[232]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968907
+[233]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM262175
+[234]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM203321
+[235]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM364948
+[236]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968911
+[237]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM3043405
+[238]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM305242
+[239]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968922
+[240]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968923
+[241]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968924
+[242]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968926
+[243]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968928
+[244]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968930
+[245]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968931
+[246]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968936
+[247]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968938
+[248]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968939
+[249]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968941
+[250]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM969127
+[251]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968947
+[252]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968948
+[253]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968949
+[254]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM305063
+[255]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968950
+[256]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968952
+[257]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM265835
+[258]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM141134
+[259]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM269031
+[260]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM146607
+[261]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM244468
+[262]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM42296
+[263]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM5617516
+[264]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968956
+[265]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM145731
+[266]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM387583
+[267]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM441723
+[268]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM304703
+[269]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM222098
+[270]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM440944
+[271]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM39722
+[272]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM40259
+[273]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM441361
+[274]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM305237
+[275]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM21850
+[276]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM352254
+[277]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM387857
+[278]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM87570
+[279]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM410712
+[280]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM410713
+[281]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968957
+[282]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM408329
+[283]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM75966
+[284]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM133968
+[285]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM124504
+[286]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM2998516
+[287]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM2998515
+[288]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM2998532
+[289]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[290]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM5617503
+[291]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM3043400
+[292]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM1304102
+[293]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM968896
+[294]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM426823
+[295]: http://www.legislation.govt.nz/act/public/1988/0004/latest/link.aspx?id=DLM410704
