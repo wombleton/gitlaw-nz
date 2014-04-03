@@ -1,5 +1,5 @@
 Reprint  
-as at 25 September 2013
+as at 31 March 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -34,425 +34,489 @@ This Act is administered by the Ministry of Justice.
 
 [4][5][][5][Child's welfare and best interests to be paramount][5]
 
-[5][6][][6][Principles relevant to child's welfare and best interests][6]
+[5][6][][6][Principles relating to child's welfare and best interests][6]
 
-[6][7][][7][Child's views][7]
+[5A][7][][7][Domestic violence to be taken into account][7]
 
-[7][8][][8][Lawyer to act for child][8]
+[6][8][][8][Child's views][8]
 
-[8][9][][9][Interpretation][9]
+[7][9][][9][Appointment of lawyer to represent child in proceedings][9]
 
-[9][10][][10][De facto partner defined][10] \[Repealed\]
+[7A][10][][10][Lawyers acting for parties][10]
 
-[10][11][][11][De facto relationship defined][11] \[Repealed\]
+[7B][11][][11][Duties of lawyer when giving advice][11]
 
-[11][12][][12][Application][12]
+[8][12][][12][Interpretation][12]
 
-[12][13][][13][Act binds the Crown][13]
+[9][13][][13][De facto partner defined][13] \[Repealed\]
 
-[13][14][][14][Act a code][14]
+[10][14][][14][De facto relationship defined][14] \[Repealed\]
 
-[14][15][][15][Administration of children's property][15]
+[11][15][][15][Application][15]
 
-[Part 2][16]  
-[Guardianship and care of children][16]
+[12][16][][16][Act binds the Crown][16]
 
-[Subpart 1][17][---][17][Guardianship: Responsibility for children, and decisions about children][17]
+[13][17][][17][Act a code][17]
 
-[Guardianship][18]
+[14][18][][18][Administration of children's property][18]
 
-[15][19][][19][Guardianship defined][19]
+[Part 2][19]  
+[Guardianship and care of children][19]
 
-[16][20][][20][Exercise of guardianship][20]
+[Subpart 1][20][---][20][Guardianship: Responsibility for children, and decisions about children][20]
 
-[Guardianship based on parental status][21]
+[Guardianship][21]
 
-[17][22][][22][Child's father and mother usually joint guardians][22]
+[15][22][][22][Guardianship defined][22]
 
-[18][23][][23][Father identified on birth certificate is guardian][23]
+[16][23][][23][Exercise of guardianship][23]
 
-[19][24][][24][Father who was not mother's spouse, civil union partner, or de facto partner may apply to be appointed as guardian][24]
+[Guardianship based on parental status][24]
 
-[20][25][][25][Declaration that father is guardian because of section 17][25]
+[17][25][][25][Child's father and mother usually joint guardians][25]
 
-[Appointment of eligible spouse or partner of a parent as additional guardian][26]
+[18][26][][26][Father identified on birth certificate is guardian][26]
 
-[21][27][][27][Who may appoint additional guardian under section 23][27]
+[19][27][][27][Father who was not mother's spouse, civil union partner, or de facto partner may apply to be appointed as guardian][27]
 
-[22][28][][28][Restrictions on making appointments under section 23][28]
+[20][28][][28][Declaration that father is guardian because of section 17][28]
 
-[23][29][][29][Appointment of eligible spouse or partner of parent as additional guardian][29]
+[Appointment of eligible spouse or partner of a parent as additional guardian][29]
 
-[24][30][][30][Declarations required by section 23(5)(a)][30]
+[21][30][][30][Who may appoint additional guardian under section 23][30]
 
-[25][31][][31][Appointments under section 23 take effect on approval][31]
+[22][31][][31][Restrictions on making appointments under section 23][31]
 
-[Testamentary guardians and court-appointed guardians][32]
+[23][32][][32][Appointment of eligible spouse or partner of parent as additional guardian][32]
 
-[26][33][][33][Testamentary guardians][33]
+[24][33][][33][Declarations required by section 23(5)(a)][33]
 
-[27][34][][34][Court-appointed guardians][34]
+[25][34][][34][Appointments under section 23 take effect on approval][34]
 
-[Termination of guardianship][35]
+[Testamentary guardians and court-appointed guardians][35]
 
-[28][36][][36][Time at which guardianship ends][36]
+[26][36][][36][Testamentary guardians][36]
 
-[29][37][][37][Court may remove guardians][37]
+[27][37][][37][Court-appointed guardians][37]
 
-[Guardianship of court][38]
+[Termination of guardianship][38]
 
-[30][39][][39][Concurrent jurisdiction under section 31][39]
+[28][39][][39][Time at which guardianship ends][39]
 
-[31][40][][40][Application to court][40]
+[29][40][][40][Court may remove guardians][40]
 
-[32][41][][41][Notice to be given to chief executive in certain cases before Family Court][41]
+[Guardianship of court][41]
 
-[33][42][][42][Orders of court][42]
+[30][42][][42][Concurrent jurisdiction under section 31][42]
 
-[34][43][][43][Powers of court][43]
+[31][43][][43][Application to court][43]
 
-[35][44][][44][Further provisions relating to powers of court][44]
+[32][44][][44][Notice to be given to chief executive in certain cases before Family Court][44]
 
-[Consent to medical procedures][45]
+[33][45][][45][Orders of court][45]
 
-[36][46][][46][Consent to procedures generally][46]
+[34][46][][46][Powers of court][46]
 
-[37][47][][47][Immunity of health practitioners administering certain blood transfusions without consent][47]
+[35][47][][47][Further provisions relating to powers of court][47]
 
-[38][48][][48][Consent to abortion][48]
+[Consent to medical procedures][48]
 
-[Subpart 2][49][---][49][Care of children: Making arrangements and resolving disputes][49]
+[36][49][][49][Consent to procedures generally][49]
 
-[Making arrangements][50]
+[37][50][][50][Immunity of health practitioners administering certain blood transfusions without consent][50]
 
-[39][51][][51][Purpose of sections 40 to 43][51]
+[38][51][][51][Consent to abortion][51]
 
-[40][52][][52][Agreements between parents and guardians][52]
+[Subpart 2][52][---][52][Care of children: Making arrangements and resolving disputes][52]
 
-[41][53][][53][Agreements between parents and donors][53]
+[Making arrangements][53]
 
-[42][54][][54][Definitions for section 41][54]
+[39][54][][54][Purpose of sections 40 to 43][54]
 
-[43][55][][55][Agreements may be entered into by minors][55]
+[40][55][][55][Agreements between parents and guardians][55]
 
-[Resolving disputes][56]
+[41][56][][56][Agreements between parents and donors][56]
 
-[44][57][][57][Disputes between guardians][57]
+[42][57][][57][Definitions for section 41][57]
 
-[45][58][][58][Family Proceedings Act 1980 dispute resolution provisions apply to certain proceedings][58]
+[43][58][][58][Agreements may be entered into by minors][58]
 
-[46][59][][59][Certain children may seek review of parent's or guardian's decision or refusal to give consent][59]
+[Resolving disputes][59]
 
-[Consent to certain decisions][60]
+\[Repealed\]
 
-[46A][61][][61][Consent for de facto relationship][61]
+[44][60][][60][Disputes between guardians][60] \[Repealed\]
 
-[46B][62][][62][Consent where child has no guardian][62]
+[45][61][][61][Family Proceedings Act 1980 dispute resolution provisions apply to certain proceedings][61] \[Repealed\]
 
-[Counselling][63]
+[46][62][][62][Certain children may seek review of parent's or guardian's decision or refusal to give consent][62] \[Repealed\]
 
-[46H][64][][64][Approval of counselling organisation][64]
+[Consent to certain decisions][63]
 
-[46I][65][][65][Suspension or cancellation of approval of counselling organisation][65]
+[46A][64][][64][Consent for de facto relationship][64]
 
-[46K][66][][66][Appointment of counsellors][66]
+[46B][65][][65][Consent where child has no guardian][65]
 
-[Parenting orders][67]
+[46C][66][][66][Certain children may seek review of parent's or guardian's decision or refusal to give consent][66]
 
-[47][68][][68][Who may apply for parenting order][68]
+[Family dispute resolution][67]
 
-[48][69][][69][Parenting orders][69]
+[46D][68][][68][Meaning of family dispute resolution][68]
 
-[49][70][][70][Applications to include statement on others' involvement][70]
+[46E][69][][69][Family dispute resolution mandatory before commencement of proceedings][69]
 
-[50][71][][71][Parenting orders in respect of children of or over 16 years][71]
+[46F][70][][70][Family dispute resolution after proceedings commenced][70]
 
-[51][72][][72][Court must consider protective conditions in certain cases][72]
+[Counselling][71]
 
-[52][73][][73][Court must consider contact arrangements in certain cases][73]
+[46G][72][][72][Counselling after proceedings commenced][72]
 
-[53][74][][74][Orders in proceedings under Family Proceedings Act 1980][74]
+[46H][73][][73][Approval of counselling organisation][73]
 
-[54][75][][75][Orders in proceedings under Domestic Violence Act 1995][75] \[Repealed\]
+[46I][74][][74][Suspension or cancellation of approval of counselling organisation][74]
 
-[55][76][][76][Content and explanation of parenting orders][76]
+[46J][75][][75][Duties of approved counselling organisation][75]
 
-[56][77][][77][Variation or discharge of parenting and other orders][77]
+[46K][76][][76][Appointment of counsellors][76]
 
-[57][78][][78][Procedure if child's parents are parties to interim order][78]
+[46L][77][][77][Privilege][77]
 
-[Cases involving violence][79]
+[46M][78][][78][Number of sessions of counselling][78]
 
-[58][80][][80][Interpretation][80]
+[46N][79][][79][Counselling fees and expenses][79]
 
-[59][81][][81][Application of section 60][81]
+[Parenting information programmes][80]
 
-[60][82][][82][Procedure for dealing with proceedings in section 59(1)][82]
+[46O][81][][81][Judge may direct party to undertake parenting information programme][81]
 
-[61][83][][83][Matters relevant to question in section 60(4)][83]
+[Settlement conferences][82]
 
-[61A][84][][84][Court may make orders to ensure safety of child in other cases][84]
+[46P][83][][83][Purpose of settlement conferences][83]
 
-[62][85][][85][Costs of formal supervised contact][85]
+[46Q][84][][84][Settlement conferences][84]
 
-[Making parenting orders work][86]
+[Guardianship disputes][85]
 
-[63][87][][87][Purpose and overview of sections 64 to 80][87]
+[46R][86][][86][Disputes between guardians][86]
 
-[64][88][][88][Guiding consideration and principles][88]
+[Parenting orders][87]
 
-[65][89][][89][Request for counselling][89]
+[47][88][][88][Who may apply for parenting order][88]
 
-[66][90][][90][Procedure for request under section 65(1) or (2)][90]
+[47A][89][][89][Mandatory statement in applications][89]
 
-[67][91][][91][Registrar may decline requests for counselling and recommend instead applications under section 68][91]
+[47B][90][][90][Mandatory statement and evidence in applications][90]
 
-[68][92][][92][Court may make certain orders or respond in other ways to contravention of parenting orders][92]
+[48][91][][91][Parenting orders][91]
 
-[69][93][][93][Court may require parties to attend for counselling or for hearing of application under section 68][93]
+[49][92][][92][Interim parenting orders][92]
 
-[70][94][][94][Ordering party to enter into bond][94]
+[49A][93][][93][Interim parenting order where parent does not have day-to-day care for, or contact with, child][93]
 
-[71][95][][95][Costs of contravention][95]
+[49B][94][][94][Interim parenting order may become final order on specified date][94]
 
-[72][96][][96][Warrant to enforce role of providing day-to-day care for child][96]
+[49C][95][][95][Final parenting orders][95]
 
-[73][97][][97][Warrant to enforce order for contact with child][97]
+[50][96][][96][Parenting orders in respect of children of or over 16 years][96]
 
-[74][98][][98][Further provisions about warrants][98]
+[51][97][][97][Court must consider protective conditions in certain cases][97]
 
-[75][99][][99][Execution of warrants][99]
+[52][98][][98][Court must consider contact arrangements in certain cases][98]
 
-[76][100][][100][Authority to use faxed copy of warrant][100]
+[53][99][][99][Orders in proceedings under Family Proceedings Act 1980][99]
 
-[77][101][][101][Preventing removal of child from New Zealand][101]
+[54][100][][100][Orders in proceedings under Domestic Violence Act 1995][100] \[Repealed\]
 
-[77A][102][][102][Orders under section 77(3)(c) in respect of children of or over 16 years][102]
+[55][101][][101][Content and explanation of parenting orders][101]
 
-[77B][103][][103][Orders under section 77(3)(c) may be suspended for specified period][103]
+[56][102][][102][Variation or discharge of parenting and other orders][102]
 
-[Offences][104]
+[57][103][][103][Variation of final parenting order by consent memorandum instead of application][103]
 
-[78][105][][105][Contravening parenting order][105]
+[Supervised contact][104]
 
-[79][106][][106][Resisting execution of warrant][106]
+[58][105][][105][Interpretation][105]
 
-[80][107][][107][Taking child from New Zealand][107]
+[59][106][][106][Court may order supervised contact][106]
 
-[Subpart 3][108][---][108][Enforcing orders internationally][108]
+[60][107][][107][Costs of formal supervised contact][107]
 
-[Enforcing overseas parenting orders in New Zealand][109]
+[61][108][][108][Matters relevant to question in section 60(4)][108] \[Repealed\]
 
-[81][110][][110][Registration of overseas parenting orders][110]
+[61A][109][][109][Court may make orders to ensure safety of child in other cases][109] \[Repealed\]
 
-[82][111][][111][Effect of registration][111]
+[62][110][][110][Costs of formal supervised contact][110] \[Repealed\]
 
-[83][112][][112][Exercise of jurisdiction in respect of child subject to registered overseas parenting order][112]
+[Making parenting orders work][111]
 
-[84][113][][113][Variation or discharge of registered overseas parenting order][113]
+[63][112][][112][Purpose and overview of sections 64 to 80][112] \[Repealed\]
 
-[85][114][][114][Registered overseas parenting orders not to be enforced in certain circumstances][114]
+[64][113][][113][Guiding consideration and principles][113]
 
-[86][115][][115][Evidence of orders made in overseas countries][115]
+[65][114][][114][Request for counselling][114] \[Repealed\]
 
-[87][116][][116][Costs of returning child: order for payment when warrant issued under section 72][116]
+[66][115][][115][Procedure for request under section 65(1) or (2)][115] \[Repealed\]
 
-[88][117][][117][Evidence][117]
+[67][116][][116][Registrar may decline requests for counselling and recommend instead applications under section 68][116] \[Repealed\]
 
-[89][118][][118][Proof of documents][118]
+[68][117][][117][Court may make certain orders or respond in other ways to contravention of parenting orders][117]
 
-[90][119][][119][Depositions to be evidence][119]
+[69][118][][118][Court may require parties to attend for hearing of application under section 68][118]
 
-[91][120][][120][Prescribed overseas countries][120]
+[70][119][][119][Ordering party to enter into bond][119]
 
-[Enforcing New Zealand orders overseas][121]
+[71][120][][120][Costs of contravention][120]
 
-[92][122][][122][Enforcement of New Zealand orders overseas][122]
+[72][121][][121][Warrant to enforce role of providing day-to-day care for child][121]
 
-[93][123][][123][Restrictions on right to make request under section 92][123]
+[73][122][][122][Warrant to enforce order for contact with child][122]
 
-[Subpart 4][124][---][124][International child abduction][124]
+[74][123][][123][Further provisions about warrants][123]
 
-[Preliminary provisions][125]
+[75][124][][124][Execution of warrants][124]
 
-[94][126][][126][Purpose of this subpart][126]
+[76][125][][125][Authority to use faxed copy of warrant][125]
 
-[95][127][][127][Interpretation][127]
+[77][126][][126][Preventing removal of child from New Zealand][126]
 
-[96][128][][128][Application of this subpart][128]
+[77A][127][][127][Orders under section 77(3)(c) in respect of children of or over 16 years][127]
 
-[97][129][][129][Rights of custody defined][129]
+[77B][128][][128][Orders under section 77(3)(c) may be suspended for specified period][128]
 
-[98][130][][130][Contracting States][130]
+[Offences][129]
 
-[99][131][][131][Certificates as to Contracting States][131]
+[78][130][][130][Contravening parenting or guardianship order][130]
 
-[100][132][][132][Central Authority for New Zealand][132]
+[79][131][][131][Resisting execution of warrant][131]
 
-[101][133][][133][Courts having jurisdiction to entertain applications under Convention][133]
+[80][132][][132][Taking child from New Zealand][132]
 
-[Application for return of child][134]
+[Subpart 3][133][---][133][Enforcing orders internationally][133]
 
-[102][135][][135][Child abducted from New Zealand][135]
+[Enforcing overseas parenting orders in New Zealand][134]
 
-[103][136][][136][Child abducted to New Zealand][136]
+[81][135][][135][Registration of overseas parenting orders][135]
 
-[104][137][][137][Authority may request further information][137]
+[82][136][][136][Effect of registration][136]
 
-[105][138][][138][Application to court for return of child abducted to New Zealand][138]
+[83][137][][137][Exercise of jurisdiction in respect of child subject to registered overseas parenting order][137]
 
-[106][139][][139][Grounds for refusal of order for return of child][139]
+[84][138][][138][Variation or discharge of registered overseas parenting order][138]
 
-[107][140][][140][Applications to be dealt with speedily][140]
+[85][139][][139][Registered overseas parenting orders not to be enforced in certain circumstances][139]
 
-[108][141][][141][Interim powers][141]
+[86][140][][140][Evidence of orders made in overseas countries][140]
 
-[109][142][][142][No order or decision about role of providing day-to-day care for child to be made until application determined][142]
+[87][141][][141][Costs of returning child: order for payment when warrant issued under section 72][141]
 
-[110][143][][143][Contact with, and role of providing day-to-day care for, child, if application dismissed][143]
+[88][142][][142][Evidence][142]
 
-[111][144][][144][Request for declaration that child wrongfully removed][144]
+[89][143][][143][Proof of documents][143]
 
-[Application for access to child][145]
+[90][144][][144][Depositions to be evidence][144]
 
-[112][146][][146][Child outside New Zealand][146]
+[91][145][][145][Prescribed overseas countries][145]
 
-[113][147][][147][Child in New Zealand][147]
+[Enforcing New Zealand orders overseas][146]
 
-[Miscellaneous provisions][148]
+[92][147][][147][Enforcement of New Zealand orders overseas][147]
 
-[114][149][][149][Translation to accompany application][149]
+[93][148][][148][Restrictions on right to make request under section 92][148]
 
-[115][150][][150][Evidentiary provisions][150]
+[Subpart 4][149][---][149][International child abduction][149]
 
-[116][151][][151][Lawyer to act for applicant][151]
+[Preliminary provisions][150]
 
-[117][152][][152][Preventing concealment of whereabouts of child][152]
+[94][151][][151][Purpose of this subpart][151]
 
-[118][153][][153][Preventing removal of child to defeat application][153]
+[95][152][][152][Interpretation][152]
 
-[119][154][][154][Enforcing order for return of child][154]
+[96][153][][153][Application of this subpart][153]
 
-[120][155][][155][Security for costs, etc][155]
+[97][154][][154][Rights of custody defined][154]
 
-[121][156][][156][Costs of returning child: order for payment or refund when order under section 105(2) applied for or made][156]
+[98][155][][155][Contracting States][155]
 
-[122][157][][157][Order under section 121 may be lodged in High Court][157]
+[99][156][][156][Certificates as to Contracting States][156]
 
-[122A][158][][158][Discharge of order under section 105 for return of child][158]
+[100][157][][157][Central Authority for New Zealand][157]
 
-[123][159][][159][Unfounded applications][159]
+[101][158][][158][Courts having jurisdiction to entertain applications under Convention][158]
 
-[124][160][][160][Other provisions not affected][160]
+[Application for return of child][159]
 
-[Part 3][161]  
-[Jurisdictional, procedural, miscellaneous, and saving and transitional provisions][161]
+[102][160][][160][Child abducted from New Zealand][160]
 
-[Jurisdictional provisions][162]
+[103][161][][161][Child abducted to New Zealand][161]
 
-[125][163][][163][Jurisdiction of courts][163]
+[104][162][][162][Authority may request further information][162]
 
-[126][164][][164][Personal jurisdiction][164]
+[105][163][][163][Application to court for return of child abducted to New Zealand][163]
 
-[127][165][][165][Removal of High Court orders to Family Court][165]
+[106][164][][164][Grounds for refusal of order for return of child][164]
 
-[Procedural provisions][166]
+[107][165][][165][Applications to be dealt with speedily][165]
 
-[128][167][][167][Evidence][167]
+[108][166][][166][Interim powers][166]
 
-[129][168][][168][Court's power to call witnesses][168]
+[109][167][][167][No order or decision about role of providing day-to-day care for child to be made until application determined][167]
 
-[130][169][][169][Counsel to assist court][169]
+[110][168][][168][Contact with, and role of providing day-to-day care for, child, if application dismissed][168]
 
-[131][170][][170][Costs of court-appointed counsel][170]
+[111][169][][169][Request for declaration that child wrongfully removed][169]
 
-[132][171][][171][Reports from chief executive or social worker][171]
+[Application for access to child][170]
 
-[133][172][][172][Reports from other persons][172]
+[112][171][][171][Child outside New Zealand][171]
 
-[134][173][][173][Distribution, etc, of reports under sections 132 and 133][173]
+[113][172][][172][Child in New Zealand][172]
 
-[135][174][][174][Costs of reports under section 133][174]
+[Miscellaneous provisions][173]
 
-[136][175][][175][Court may hear person on child's cultural background][175]
+[114][174][][174][Translation to accompany application][174]
 
-[137][176][][176][Attendance at hearings generally][176]
+[115][175][][175][Evidentiary provisions][175]
 
-[138][177][][177][Attendance at hearings of persons involved in counselling or conciliation under Family Proceedings Act 1980][177]
+[116][176][][176][Lawyer to act for applicant][176]
 
-[139][178][][178][Publication of reports of proceedings][178]
+[117][177][][177][Preventing concealment of whereabouts of child][177]
 
-[140][179][][179][Power to dismiss proceedings][179]
+[118][178][][178][Preventing removal of child to defeat application][178]
 
-[141][180][][180][Power to restrict commencement of proceedings][180]
+[119][179][][179][Enforcing order for return of child][179]
 
-[142][181][][181][Costs][181]
+[120][180][][180][Security for costs, etc][180]
 
-[143][182][][182][Appeals to High Court][182]
+[121][181][][181][Costs of returning child: order for payment or refund when order under section 105(2) applied for or made][181]
 
-[144][183][][183][Effect of High Court's order or decision][183]
+[122][182][][182][Order under section 121 may be lodged in High Court][182]
 
-[145][184][][184][Appeal to Court of Appeal][184]
+[122A][183][][183][Discharge of order under section 105 for return of child][183]
 
-[Miscellaneous provisions][185]
+[123][184][][184][Unfounded applications][184]
 
-[146][186][][186][Rules of court][186]
+[124][185][][185][Other provisions not affected][185]
 
-[147][187][][187][Regulations][187]
+[Part 3][186]  
+[Jurisdictional, procedural, miscellaneous, and saving and transitional provisions][186]
 
-[148][188][][188][Other Acts not affected][188]
+[Jurisdictional provisions][187]
 
-[Amendments to Family Proceedings Act 1980 (extending counselling and conciliation provisions to same-sex de facto partners)][189]
+[125][188][][188][Jurisdiction of courts][188]
 
-[149][190][][190][Amendments in Schedule 2][190]
+[126][189][][189][Personal jurisdiction][189]
 
-[Amendments to Family Proceedings Act 1980 (parentage tests in civil proceedings)][191]
+[127][190][][190][Removal of High Court orders to Family Court][190]
 
-[150][192][][192][Amendments in Schedule 3][192]
+[Procedural provisions][191]
 
-[Other amendments and repeal][193]
+[128][192][][192][Evidence][192] \[Repealed\]
 
-[151][194][][194][Other amendments in Schedule 4][194]
+[129][193][][193][Court's power to call witnesses][193]
 
-[152][195][][195][Repeal][195]
+[130][194][][194][Appointment of lawyer to assist court][194]
 
-[Saving and transitional provisions][196]
+[131][195][][195][Fees and expenses of lawyer appointed under section 7 or 130][195]
 
-[153][197][][197][Orders under 1968 Act appointing person as guardian][197]
+[131A][196][][196][Advice from chief executive or social worker][196]
 
-[154][198][][198][Declarations under section 6A of 1968 Act as to guardianship of fathers][198]
+[132][197][][197][Reports from chief executive or social worker][197]
 
-[155][199][][199][Appointments of testamentary guardians under section 7(2) of 1968 Act][199]
+[133][198][][198][Reports from other persons][198]
 
-[156][200][][200][Orders under 1968 Act about guardianship of court][200]
+[134][199][][199][Distribution, etc, of reports under sections 132 and 133][199]
 
-[157][201][][201][Orders under 1968 Act about custody][201]
+[135][200][][200][Costs of reports requested under section 133][200]
 
-[158][202][][202][Orders under 1968 Act about access][202]
+[135A][201][][201][Order requiring reimbursement of costs payments][201]
 
-[159][203][][203][Other references to custody and access under 1968 Act][203]
+[135B][202][][202][Enforcement of orders made under section 135A][202]
 
-[160][204][][204][Existing proceedings under 1968 Act][204]
+[136][203][][203][Court may hear person on child's cultural background][203]
 
-[161][205][][205][Appointments under section 30 of 1968 Act][205]
+[137][204][][204][Attendance at hearings generally][204]
 
-[162][206][][206][Applications under 1991 Amendment Act][206]
+[138][205][][205][Attendance at hearings of persons involved in counselling or conciliation under Family Proceedings Act 1980][205] \[Repealed\]
 
-[163][207][][207][Appointments under section 23 of 1991 Amendment Act][207]
+[139][206][][206][Publication of reports of proceedings][206]
 
-[164][208][][208][Orders saved by section 31(2) of 1991 Amendment Act][208]
+[139A][207][][207][Leave required in certain cases to commence substantially similar proceedings][207]
 
-[Schedule 1][209]  
-[Convention on the Civil Aspects of International Child Abduction][209]
+[140][208][][208][Power to dismiss proceedings][208]
 
-[Schedule 2][210]  
-[Amendments to Family Proceedings Act 1980 (extending counselling and conciliation provisions to same-sex de facto partners)][210]
+[141][209][][209][Power to restrict commencement of proceedings if vexatious proceedings previously instituted][209]
 
-[Schedule 3][211]  
-[Amendments to Family Proceedings Act 1980 (parentage tests in civil proceedings)][211]
+[142][210][][210][Costs][210]
 
-[Schedule 4][212]  
-[Other amendments][212]
+[143][211][][211][Appeals to High Court][211]
+
+[144][212][][212][Effect of High Court's order or decision][212]
+
+[145][213][][213][Appeal to Court of Appeal][213]
+
+[Miscellaneous provisions][214]
+
+[146][215][][215][Rules of court][215]
+
+[147][216][][216][Regulations][216]
+
+[148][217][][217][Other Acts not affected][217]
+
+[Amendments to Family Proceedings Act 1980 (extending counselling and conciliation provisions to same-sex de facto partners)][218]
+
+[149][219][][219][Amendments in Schedule 2][219]
+
+[Amendments to Family Proceedings Act 1980 (parentage tests in civil proceedings)][220]
+
+[150][221][][221][Amendments in Schedule 3][221]
+
+[Other amendments and repeal][222]
+
+[151][223][][223][Other amendments in Schedule 4][223]
+
+[152][224][][224][Repeals][224]
+
+[Saving and transitional provisions on enactment of this Act][225]
+
+[153][226][][226][Orders under 1968 Act appointing person as guardian][226]
+
+[154][227][][227][Declarations under section 6A of 1968 Act as to guardianship of fathers][227]
+
+[155][228][][228][Appointments of testamentary guardians under section 7(2) of 1968 Act][228]
+
+[156][229][][229][Orders under 1968 Act about guardianship of court][229]
+
+[157][230][][230][Orders under 1968 Act about custody][230]
+
+[158][231][][231][Orders under 1968 Act about access][231]
+
+[159][232][][232][Other references to custody and access under 1968 Act][232]
+
+[160][233][][233][Existing proceedings under 1968 Act][233]
+
+[161][234][][234][Appointments under section 30 of 1968 Act][234]
+
+[162][235][][235][Applications under 1991 Amendment Act][235]
+
+[163][236][][236][Appointments under section 23 of 1991 Amendment Act][236]
+
+[164][237][][237][Orders saved by section 31(2) of 1991 Amendment Act][237]
+
+[Transitional provision applying on enactment of Care of Children Amendment Act (No 2) 2013][238]
+
+[165][239][][239][Proceedings commenced before commencement of this section but not completed][239]
+
+[Schedule 1][240]  
+[Convention on the Civil Aspects of International Child Abduction][240]
+
+[Schedule 2][241]  
+[Amendments to Family Proceedings Act 1980 (extending counselling and conciliation provisions to same-sex de facto partners)][241]
+
+[Schedule 3][242]  
+[Amendments to Family Proceedings Act 1980 (parentage tests in civil proceedings)][242]
+
+[Schedule 4][243]  
+[Other amendments][243]
 
 ---
 
@@ -503,49 +567,79 @@ Preliminary provisions
 
 ##### 4 Child's welfare and best interests to be paramount
     
-*   (1) The welfare and best interests of the child must be the first and paramount consideration---
+*   (1) The welfare and best interests of a child in his or her particular circumstances must be the first and paramount consideration---
         
     *   (a) in the administration and application of this Act, for example, in proceedings under this Act; and
     
     *   (b) in any other proceedings involving the guardianship of, or the role of providing day-to-day care for, or contact with, a child.
     
-    (2) The welfare and best interests of the particular child in his or her particular circumstances must be considered.
-    
-    (3) A parent's conduct may be considered only to the extent (if any) that it is relevant to the child's welfare and best interests.
-    
-    (4) For the purposes of this section, and regardless of a child's age, it must not be presumed that placing the child in the day-to-day care of a particular person will, because of that person's sex, best serve the welfare and best interests of the child.
-    
-    (5) In determining what best serves the child's welfare and best interests, a court or a person must take into account---
+    (2) Any person considering the welfare and best interests of a child in his or her particular circumstances---
         
-    *   (a) the principle that decisions affecting the child should be made and implemented within a time frame that is appropriate to the child's sense of time; and
+    *   (a) must take into account---
+            
+        *   (i) the principle that decisions affecting the child should be made and implemented within a time frame that is appropriate to the child's sense of time; and
+        
+        *   (ii) the principles in [section 5][6]; and
+        
+        
     
-    *   (b) any of the principles specified in [section 5][6] that are relevant to the welfare and best interests of the particular child in his or her particular circumstances.
+    *   (b) may take into account the conduct of the person who is seeking to have a role in the upbringing of the child to the extent that that conduct is relevant to the child's welfare and best interests.
     
-    (6) Subsection (5) does not limit [section 6][7] (child's views) or prevent the court or person from taking into account other matters relevant to the child's welfare and best interests.
+    (3) It must not be presumed that the welfare and best interests of a child (of any age) require the child to be placed in the day-to-day care of a particular person because of that person's gender.
     
-    (7) This section does not limit [section 83][112] or [subpart 4][124] of Part 2\.
+    (4) This section does not---
+        
+    *   (a) limit [section 6][8] or [83][137], or [subpart 4][149] of Part 2; or
     
-    Compare: 1968 No 63 s 23(1), (1A), (3); 1989 No 24 [s 6][213]
+    *   (b) prevent any person from taking into account other matters relevant to the child's welfare and best interests.
+    
+    Section 4: replaced, on 31 March 2014, by [section 4][244] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
-##### 5 Principles relevant to child's welfare and best interests
+##### 5 Principles relating to child's welfare and best interests
     
-*   The principles referred to in [section 4(5)(b)][5] are as follows:
+*   The principles relating to a child's welfare and best interests are that---
         
-    *   (a) the child's parents and guardians should have the primary responsibility, and should be encouraged to agree to their own arrangements, for the child's care, development, and upbringing:
+    *   (a) a child's safety must be protected and, in particular, a child must be protected from all forms of violence (as defined in [section 3(2) to (5)][245] of the Domestic Violence Act 1995) from all persons, including members of the child's family, family group, whānau, hapū, and iwi:
     
-    *   (b) there should be continuity in arrangements for the child's care, development, and upbringing, and the child's relationships with his or her family, family group, whānau, hapu, or iwi, should be stable and ongoing (in particular, the child should have continuing relationships with both of his or her parents):
+    *   (b) a child's care, development, and upbringing should be primarily the responsibility of his or her parents and guardians:
     
-    *   (c) the child's care, development, and upbringing should be facilitated by ongoing consultation and co-operation among and between the child's parents and guardians and all persons exercising the role of providing day-to-day care for, or entitled to have contact with, the child:
+    *   (c) a child's care, development, and upbringing should be facilitated by ongoing consultation and co-operation between his or her parents, guardians, and any other person having a role in his or her care under a parenting or guardianship order:
     
-    *   (d) relationships between the child and members of his or her family, family group, whānau, hapu, or iwi should be preserved and strengthened, and those members should be encouraged to participate in the child's care, development, and upbringing:
+    *   (d) a child should have continuity in his or her care, development, and upbringing:
     
-    *   (e) the child's safety must be protected and, in particular, he or she must be protected from all forms of violence as defined in [section 3(2) to (5)][214] of the Domestic Violence Act 1995 (whether by members of his or her family, family group, whānau, hapu, or iwi, or by other persons):
+    *   (e) a child should continue to have a relationship with both of his or her parents, and that a child's relationship with his or her family group, whānau, hapū, or iwi should be preserved and strengthened:
     
-    *   (f) the child's identity (including, without limitation, his or her culture, language, and religious denomination and practice) should be preserved and strengthened.
+    *   (f) a child's identity (including, without limitation, his or her culture, language, and religious denomination and practice) should be preserved and strengthened.
     
-    Compare: 1989 No 24 [ss 5][215], [13][216], [208][217]; 2003 No 116 [s 12][218]
+    Section 5: replaced, on 31 March 2014, by [section 4][244] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+
+##### 5A Domestic violence to be taken into account
     
-    Section 5(e): amended, on 16 November 2011, by [section 5][219] of the Care of Children Amendment Act 2011 (2011 No 59).
+*   (1) This section applies if---
+        
+    *   (a) an application is made to the court for---
+            
+        *   (i) a guardianship order under [section 19][27] or [27][37]; or
+        
+        *   (ii) a direction under [section 46R][86] in relation to a guardianship dispute; or
+        
+        *   (iii) a parenting order under [section 48][91]; or
+        
+        *   (iv) a variation of a parenting order under [section 56][102]; and
+        
+        
+    
+    *   (b) a final protection order made under [section 14][246] of the Domestic Violence Act 1995 is, or at any time has been, in force against 1 or more parties to the application.
+    
+    (2) In taking into account the principle in [section 5(a)][6], the court must have regard in particular to the following matters:
+        
+    *   (a) whether the protection order is still in force:
+    
+    *   (b) the circumstances in which the protection order was made:
+    
+    *   (c) any written reasons given by the Judge who made the protection order for his or her decision.
+    
+    Section 5A: inserted, on 31 March 2014, by [section 4][244] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 ##### 6 Child's views
     
@@ -565,29 +659,93 @@ Preliminary provisions
     
     Compare: 1968 No 63 s 23(1), (2)
 
-##### 7 Lawyer to act for child
+##### 7 Appointment of lawyer to represent child in proceedings
     
-*   (1) A court may appoint, or direct the Registrar of the court to appoint, a lawyer to act for a child who is the subject of, or who is a party to, proceedings (other than criminal proceedings) under this Act.
-    
-    (2) However, unless it is satisfied the appointment would serve no useful purpose, the court must make an appointment or a direction under subsection (1) if the proceedings---
+*   A court may appoint, or direct the Registrar of the court to appoint, a lawyer to represent a child who is the subject of, or who is a party to, proceedings (other than criminal proceedings) under this Act if the court---
         
-    *   (a) involve the role of providing day-to-day care for the child, or contact with the child; and
+    *   (a) has concerns for the safety or well-being of the child; and
     
-    *   (b) appear likely to proceed to a hearing.
+    *   (b) considers an appointment necessary.
     
-    (3) To facilitate performance of the lawyer's duties and compliance with [section 6][7] (child's views), the lawyer must, unless he or she considers it inappropriate to do so because of exceptional circumstances, meet with the child.
+    Section 7: replaced, on 31 March 2014, by [section 5][247] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+
+##### 7A Lawyers acting for parties
     
-    (4) The lawyer may call any person as a witness in the proceedings, and may cross-examine witnesses called by a party to the proceedings or by the court.
+*   (1) A lawyer may act for a party to a proceeding under this Act that is to be heard and determined in a Family Court only as provided in subsections (2) to (6).
     
-    Compare: 1968 No 63 s 30(1)(b), (2), (3)
+    (2) A lawyer may act for a party to a proceeding commenced by an application made under [subpart 4][149] of Part 2\.
     
-    Section 7(1): amended, on 18 May 2009, by [section 4(1)][220] of the Care of Children Amendment Act 2008 (2008 No 74).
+    (3) A lawyer may act for a party to a proceeding if that party is the Crown.
     
-    Section 7(2): amended, on 18 May 2009, by [section 4(2)][220] of the Care of Children Amendment Act 2008 (2008 No 74).
+    (4) A lawyer may act for a party to a proceeding that is---
+        
+    *   (a) commenced by an application made without notice until such time (if at all) as a Family Court Judge directs that the application proceed on notice:
+    
+    *   (b) commenced by an application made on notice from such time (if at all) as a Family Court Judge directs that---
+            
+        *   (i) the application proceed as if it were an application made without notice; or
+        
+        *   (ii) the application be heard by the court in conjunction with an application that is filed under any other Act; or
+        
+        *   (iii) the application proceed to a hearing:
+        
+        
+    
+    *   (c) commenced by an application made without notice that a Family Court Judge has directed proceed on notice, from such time (if at all) as the Judge makes a direction of a kind specified in paragraph (b)(ii) or (iii).
+    
+    (5) A lawyer may act for a child who is a party to a proceeding if the lawyer has been appointed by the court under [section 7][9] to represent that child.
+    
+    (6) A lawyer may act for a party at a settlement conference convened under [section 46Q][84] if a Judge directs that the parties may be represented at that conference.
+    
+    (7) A direction referred to in subsection (6) may be made by a Judge if the Judge considers that---
+        
+    *   (a) at least 1 of the parties needs legal representation at the settlement conference; and
+    
+    *   (b) the parties having legal representation at the settlement conference will be likely to facilitate settlement of the issues in dispute by agreement between the parties.
+    
+    (8) In this section,---
+    
+    _act_, in relation to a party, means---
+        
+    *   (a) to sign any document for the party:
+    
+    *   (b) to file any document for the party:
+    
+    *   (c) to accept service for the party:
+    
+    *   (d) to represent the party in court, or otherwise attend with the party before a Judge or Registrar
+    
+    _party to a proceeding_ includes a party to a proposed proceeding.
+    
+    (9) To avoid doubt, nothing in this section prevents a lawyer from---
+        
+    *   (a) giving legal advice to a party:
+    
+    *   (b) preparing any document for a party:
+    
+    *   (c) conducting negotiations for a party.
+    
+    Section 7A: inserted, on 31 March 2014, by [section 5][247] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+
+##### 7B Duties of lawyer when giving advice
+    
+*   A lawyer providing legal advice to a person about arrangements for the guardianship or care of a child, or both, must ensure that the person is aware of---
+        
+    *   (a) the need for the child's welfare and best interests to be the first and paramount consideration when settling arrangements; and
+    
+    *   (b) the mechanisms for assisting resolution of family disputes; and
+    
+    *   (c) the steps for commencing a proceeding under this Act and subsequently pursuing the proceeding through the court process to obtain a resolution; and
+    
+    *   (d) the types of directions and orders that the court may make if a proceeding is commenced.
+    
+    Section 7B: inserted, on 31 March 2014, by [section 5][247] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 ##### 8 Interpretation
     
 *   In this Act, unless the context otherwise requires,---
+    
+    _approved counselling organisation_ means a counselling organisation that is approved by the Secretary under [section 46H][73]
     
     _certified copy_, in relation to an order of a court, means a copy certified by the proper officer of the court to be a true copy of the order
     
@@ -597,27 +755,31 @@ Preliminary provisions
     
     _contact_, in relation to a child, includes all forms of direct and indirect interaction with the child
     
+    _counselling services_ means counselling services provided by a counsellor for the purposes specified in [section 46G(2)][72]
+    
+    _counsellor_ means a person who is appointed as a counsellor under [section 46K][76]
+    
     _country_ includes any State, territory, province, or other part of a country
     
-    _court_ means a court having jurisdiction in the proceedings, under [section 125][163]
+    _court_ means a court having jurisdiction in the proceedings, under [section 125][188]
     
     _day-to-day care_ includes care that is provided only for 1 or more specified days or parts of days
     
-    _department_ means the department for the time being responsible for the administration of the [Children, Young Persons, and Their Families Act 1989][221]
+    _department_ means the department for the time being responsible for the administration of the [Children, Young Persons, and Their Families Act 1989][248]
     
     _faxed copy_, in relation to a warrant issued under this Act, means a copy of the warrant that is produced by a fax machine, computer, or other electronic device when the warrant is sent by facsimile transmission
     
-    _guardian_ and _guardianship_ have the meanings given to them by [section 15][19]
+    _guardian_ and _guardianship_ have the meanings given to them by [section 15][22]
     
     _High Court_ includes a Judge of that court
     
-    _lawyer_ has the meaning given to it by [section 6][222] of the Lawyers and Conveyancers Act 2006
+    _lawyer_ has the meaning given to it by [section 6][249] of the Lawyers and Conveyancers Act 2006
     
     _litigation guardian_---
         
     *   (a) has the same meaning as the expression guardian _ad litem_; and
     
-    *   (b) in [section 31(2)(e)][40], includes a next friend
+    *   (b) in [section 31(2)(e)][43], includes a next friend
     
     _overseas parenting order_---
         
@@ -637,9 +799,9 @@ Preliminary provisions
         
         
     
-    _parenting order_ means an order under [section 48(1)][69]
+    _parenting information programme_ means a programme specified as a parenting information programme in regulations made under this Act
     
-    _prescribed_ means prescribed by rules of court, regulations, or Order in Council
+    _parenting order_ means an order under [section 48(1)][91]
     
     _prescribed overseas country_ means---
         
@@ -649,7 +811,7 @@ Preliminary provisions
     
     *   (c) any other country outside New Zealand that is declared by Order in Council to be a prescribed overseas country for the purposes of this Act; and, for the purposes of this paragraph, the Cook Islands, Niue, and Tokelau must each be treated as a country outside New Zealand
     
-    _Registrar-General_ has the meaning given to it by [section 2][223] of the Births, Deaths, Marriages, and Relationships Registration Act 1995
+    _Registrar-General_ has the meaning given to it by [section 2][250] of the Births, Deaths, Marriages, and Relationships Registration Act 1995
     
     _role of providing day-to-day care for a child_---
         
@@ -659,7 +821,7 @@ Preliminary provisions
     
     _Secretary_ means the Secretary for Justice
     
-    _social worker_ means a person employed under [Part 5][224] of the State Sector Act 1988 in the department as a social worker
+    _social worker_ means a person employed under [Part 5][251] of the State Sector Act 1988 in the department as a social worker
     
     _spouse or partner of a parent_ means, in relation to a child, a person who is not the child's parent but---
         
@@ -669,29 +831,39 @@ Preliminary provisions
     
     Compare: 1968 No 63 s 2
     
-    Section 8 **de facto partner**: repealed (without coming into force), on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
+    Section 8 **approved counselling organisation**: inserted, on 31 March 2014, by [section 6(1)][252] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
     
-    Section 8 **de facto relationship**: repealed (without coming into force), on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
+    Section 8 **counselling services**: inserted, on 31 March 2014, by [section 6(1)][252] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
     
-    Section 8 **lawyer**: substituted, on 1 August 2008, by [section 348][226] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
+    Section 8 **counsellor**: inserted, on 31 March 2014, by [section 6(1)][252] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
     
-    Section 8 **partner of a parent**: repealed (without coming into force), on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
+    Section 8 **de facto partner**: repealed (without coming into force), on 1 July 2005, by [section 3][253] of the Care of Children Amendment Act 2005 (2005 No 5).
     
-    Section 8 **Registrar-General**: amended, on 24 January 2009, by [section 47][227] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 8 **de facto relationship**: repealed (without coming into force), on 1 July 2005, by [section 3][253] of the Care of Children Amendment Act 2005 (2005 No 5).
     
-    Section 8 **spouse or partner of a parent**: added, on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
+    Section 8 **lawyer**: substituted, on 1 August 2008, by [section 348][254] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
+    
+    Section 8 **parenting information programme**: inserted, on 31 March 2014, by [section 6(1)][252] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+    
+    Section 8 **partner of a parent**: repealed (without coming into force), on 1 July 2005, by [section 3][253] of the Care of Children Amendment Act 2005 (2005 No 5).
+    
+    Section 8 **prescribed**: repealed, on 31 March 2014, by [section 6(2)][252] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+    
+    Section 8 **Registrar-General**: amended, on 24 January 2009, by [section 47][255] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    
+    Section 8 **spouse or partner of a parent**: added, on 1 July 2005, by [section 3][253] of the Care of Children Amendment Act 2005 (2005 No 5).
 
 ##### 9 De facto partner defined
     
 *   \[Repealed\]
     
-    Section 9: repealed (without coming into force), on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
+    Section 9: repealed (without coming into force), on 1 July 2005, by [section 3][253] of the Care of Children Amendment Act 2005 (2005 No 5).
 
 ##### 10 De facto relationship defined
     
 *   \[Repealed\]
     
-    Section 10: repealed (without coming into force), on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
+    Section 10: repealed (without coming into force), on 1 July 2005, by [section 3][253] of the Care of Children Amendment Act 2005 (2005 No 5).
 
 ##### 11 Application
     
@@ -719,11 +891,11 @@ Preliminary provisions
     
 *   (1) The welfare and best interests of the child must be the first and paramount consideration in proceedings relating to the administration of, or to the allocation of income from, property belonging to, or held in trust for, a child.
     
-    (2) No person may be appointed as, or have any powers as, guardian of the property of a child, except under an order of the kind referred to in [section 33(1)][42] appointing as the agent of the court a named person or a person whom the court thinks fit.
+    (2) No person may be appointed as, or have any powers as, guardian of the property of a child, except under an order of the kind referred to in [section 33(1)][45] appointing as the agent of the court a named person or a person whom the court thinks fit.
     
-    (3) However, nothing in this Act limits any powers of the High Court in relation to, or in relation to the administration of, any property held on trust (for example, the powers of the High Court under [sections 64][228] and [64A][229] of the Trustee Act 1956).
+    (3) However, nothing in this Act limits any powers of the High Court in relation to, or in relation to the administration of, any property held on trust (for example, the powers of the High Court under [sections 64][256] and [64A][257] of the Trustee Act 1956).
     
-    (4) Nothing in this section limits [section 6][7] (child's views).
+    (4) Nothing in this section limits [section 6][8] (child's views).
     
     Compare: 1968 No 63 ss 23(1), (3), 33(2)
 
@@ -750,7 +922,7 @@ Guardianship and care of children
     
 *   (1) The duties, powers, rights, and responsibilities of a guardian of a child include (without limitation) the guardian's---
         
-    *   (a) having the role of providing day-to-day care for the child (however, under [section 26(5)][33], no testamentary guardian of a child has that role just because of an appointment under section 26); and
+    *   (a) having the role of providing day-to-day care for the child (however, under [section 26(5)][36], no testamentary guardian of a child has that role just because of an appointment under section 26); and
     
     *   (b) contributing to the child's intellectual, emotional, physical, social, cultural, and other personal development; and
     
@@ -770,7 +942,7 @@ Guardianship and care of children
     
     (3) A guardian of a child may exercise (or continue to exercise) the duties, powers, rights, and responsibilities of a guardian in relation to the child, whether or not the child lives with the guardian, unless a court order provides otherwise.
     
-    (4) _Court order_ means a court order made under any enactment; and includes, without limitation, a court order that is made under this Act and embodies some or all of the terms of an agreement to which [section 40(2)][52] or [section 41(2)][53] applies.
+    (4) _Court order_ means a court order made under any enactment; and includes, without limitation, a court order that is made under this Act and embodies some or all of the terms of an agreement to which [section 40(2)][55] or [section 41(2)][56] applies.
     
     (5) However, in exercising (or continuing to exercise) the duties, powers, rights, and responsibilities of a guardian in relation to a child, a guardian of the child must act jointly (in particular, by consulting wherever practicable with the aim of securing agreement) with any other guardians of the child.
     
@@ -800,113 +972,113 @@ Guardianship and care of children
         
     *   (a) either parent is under 16; or
     
-    *   (b) either parent is aged 16 or 17 and consent for the relationship (as referred to in [section 29A(2)][230] of the Interpretation Act 1999) has not been given.
+    *   (b) either parent is aged 16 or 17 and consent for the relationship (as referred to in [section 29A(2)][258] of the Interpretation Act 1999) has not been given.
     
     (4) On the death of the father or the mother, the surviving parent, if he or she was then a guardian of the child, is the sole guardian of the child.
     
-    (5) This section is subject to [sections 18 to 34][23], and therefore does not limit or affect the appointment of 1 or more additional guardians (for example, an additional testamentary guardian of the child appointed by the deceased parent under [section 26(2)][33]) or an order (relating to guardianship of the court) under [section 33(1)][42].
+    (5) This section is subject to [sections 18 to 34][26], and therefore does not limit or affect the appointment of 1 or more additional guardians (for example, an additional testamentary guardian of the child appointed by the deceased parent under [section 26(2)][36]) or an order (relating to guardianship of the court) under [section 33(1)][45].
     
     Compare: 1968 No 63 s 6(1), (2), (4)
     
-    Section 17(2)(a): amended, on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
+    Section 17(2)(a): amended, on 1 July 2005, by [section 3][253] of the Care of Children Amendment Act 2005 (2005 No 5).
     
-    Section 17(3)(a): amended, on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
+    Section 17(3)(a): amended, on 1 July 2005, by [section 3][253] of the Care of Children Amendment Act 2005 (2005 No 5).
     
-    Section 17(3A): inserted, on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
+    Section 17(3A): inserted, on 1 July 2005, by [section 3][253] of the Care of Children Amendment Act 2005 (2005 No 5).
 
 ##### 18 Father identified on birth certificate is guardian
     
-*   (1) A child's father who is not a guardian of the child just because of [section 17(2) or (3)][22] becomes a guardian of the child if his particulars are registered after the commencement of this section as part of the child's birth information because he and the child's mother both notified the birth as required by [section 9][231] of the Births, Deaths, Marriages, and Relationships Registration Act 1995\.
+*   (1) A child's father who is not a guardian of the child just because of [section 17(2) or (3)][25] becomes a guardian of the child if his particulars are registered after the commencement of this section as part of the child's birth information because he and the child's mother both notified the birth as required by [section 9][259] of the Births, Deaths, Marriages, and Relationships Registration Act 1995\.
     
     (2) Subsection (1) does not change the guardianship status of a father who became a guardian before the commencement of this section.
     
-    Section 18: substituted, on 24 January 2009, by [section 47][227] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 18: substituted, on 24 January 2009, by [section 47][255] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 19 Father who was not mother's spouse, civil union partner, or de facto partner may apply to be appointed as guardian
     
-*   (1) If, because of [section 17(2) or (3)][22], a child's mother is (or was at the time of her death) the sole guardian of the child, the child's father may apply to the court to be appointed as a guardian of the child.
+*   (1) If, because of [section 17(2) or (3)][25], a child's mother is (or was at the time of her death) the sole guardian of the child, the child's father may apply to the court to be appointed as a guardian of the child.
     
     (2) The father may apply to be appointed---
         
-    *   (a) as a guardian of the child as well as the mother or a testamentary guardian appointed under [section 26][33]; or
+    *   (a) as a guardian of the child as well as the mother or a testamentary guardian appointed under [section 26][36]; or
     
-    *   (b) as a guardian of the child instead of the mother or a testamentary guardian appointed under [section 26][33].
+    *   (b) as a guardian of the child instead of the mother or a testamentary guardian appointed under [section 26][36].
     
-    (3) An application under subsection (2)(b) must include an application under [section 29][37] for an order depriving the mother of the guardianship of her child or (as the case requires) removing the testamentary guardian from office.
+    (3) An application under subsection (2)(b) must include an application under [section 29][40] for an order depriving the mother of the guardianship of her child or (as the case requires) removing the testamentary guardian from office.
     
     (4) In response to an application under subsection (2), the court---
         
     *   (a) must appoint the father as a guardian of the child, unless to do so would be contrary to the child's welfare and best interests; and
     
-    *   (b) must determine any included application under [section 29][37] in accordance with that section.
+    *   (b) must determine any included application under [section 29][40] in accordance with that section.
     
     Compare: 1968 No 63 s 6(3)
     
-    Section 19 heading: amended, on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
+    Section 19 heading: amended, on 1 July 2005, by [section 3][253] of the Care of Children Amendment Act 2005 (2005 No 5).
 
 ##### 20 Declaration that father is guardian because of section 17
     
-*   (1) A man who alleges that he is a guardian of a child because of [section 17][22] (other than because of an order under [section 19][24]) may apply to the court for an order declaring that the man is a guardian of the child because of section 17\.
+*   (1) A man who alleges that he is a guardian of a child because of [section 17][25] (other than because of an order under [section 19][27]) may apply to the court for an order declaring that the man is a guardian of the child because of section 17\.
     
     (2) The court may make the order if satisfied that the man---
         
-    *   (a) is a guardian of a child because of [section 17][22]; and
+    *   (a) is a guardian of a child because of [section 17][25]; and
     
-    *   (b) has not been deprived of his guardianship by an order under [section 29][37].
+    *   (b) has not been deprived of his guardianship by an order under [section 29][40].
     
-    (3) The [Declaratory Judgments Act 1908][232] applies, with all necessary modifications, to applications under subsection (1).
+    (3) The [Declaratory Judgments Act 1908][260] applies, with all necessary modifications, to applications under subsection (1).
     
     Compare: 1968 No 63 s 6A
 
 #### Appointment of eligible spouse or partner of a parent as additional guardian
     
-*   Heading: substituted, on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
+*   Heading: substituted, on 1 July 2005, by [section 3][253] of the Care of Children Amendment Act 2005 (2005 No 5).
 
 ##### 21 Who may appoint additional guardian under section 23
     
-*   (1) In this section, _appointment_ means an appointment of an eligible spouse or partner of a parent as an additional guardian of a child under [section 23][29].
+*   (1) In this section, _appointment_ means an appointment of an eligible spouse or partner of a parent as an additional guardian of a child under [section 23][32].
     
     (2) If both parents of the child are guardians of the child, the appointment must be made by both of them.
     
-    (3) If the mother of the child is the sole guardian of the child just because of [section 17(2) or (3)][22], the appointment must be made by the mother and the father of the child.
+    (3) If the mother of the child is the sole guardian of the child just because of [section 17(2) or (3)][25], the appointment must be made by the mother and the father of the child.
     
-    (4) If a parent of the child is the sole guardian of the child because the other parent of the child is dead, or because of the application of [Part 2][233] of the Status of Children Act 1969, the appointment must be made by the parent.
+    (4) If a parent of the child is the sole guardian of the child because the other parent of the child is dead, or because of the application of [Part 2][261] of the Status of Children Act 1969, the appointment must be made by the parent.
     
-    (5) If, before dying, a parent of the child appointed a testamentary guardian of the child under [section 26(1)][33], and the other parent of the child is alive and is a guardian of the child jointly with the testamentary guardian, the appointment must be made by the surviving parent and the testamentary guardian.
+    (5) If, before dying, a parent of the child appointed a testamentary guardian of the child under [section 26(1)][36], and the other parent of the child is alive and is a guardian of the child jointly with the testamentary guardian, the appointment must be made by the surviving parent and the testamentary guardian.
     
-    Section 21(1): amended, on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
+    Section 21(1): amended, on 1 July 2005, by [section 3][253] of the Care of Children Amendment Act 2005 (2005 No 5).
 
 ##### 22 Restrictions on making appointments under section 23
     
-*   (1) No appointment of an additional guardian of a child may be made under [section 23][29] if the child---
+*   (1) No appointment of an additional guardian of a child may be made under [section 23][32] if the child---
         
-    *   (a) has a testamentary guardian appointed by the court under [section 26(3)][33]; or
+    *   (a) has a testamentary guardian appointed by the court under [section 26(3)][36]; or
     
-    *   (b) has a court-appointed guardian because of an appointment under [section 27][34]; or
+    *   (b) has a court-appointed guardian because of an appointment under [section 27][37]; or
     
-    *   (c) is or has been involved in proceedings under [Part 2][234] of the Children, Young Persons, and Their Families Act 1989; or
+    *   (c) is or has been involved in proceedings under [Part 2][262] of the Children, Young Persons, and Their Families Act 1989; or
     
-    *   (d) is or has been an applicant for, or the subject of, a protection order under the [Domestic Violence Act 1995][235].
+    *   (d) is or has been an applicant for, or the subject of, a protection order under the [Domestic Violence Act 1995][263].
     
-    (2) No appointment of an additional guardian of a child may be made under [section 23][29] if a parent authorised by [section 21][27] to make the appointment---
+    (2) No appointment of an additional guardian of a child may be made under [section 23][32] if a parent authorised by [section 21][30] to make the appointment---
         
-    *   (a) has already appointed an additional guardian for the child under [section 23][29]; or
+    *   (a) has already appointed an additional guardian for the child under [section 23][32]; or
     
-    *   (b) has been deprived of his or her guardianship by an order under [section 29][37]; or
+    *   (b) has been deprived of his or her guardianship by an order under [section 29][40]; or
     
-    *   (c) is or has been involved in proceedings concerning a child under this Act, a former Act corresponding to this Act, or [Part 2][234] of the Children, Young Persons, and Their Families Act 1989; or
+    *   (c) is or has been involved in proceedings concerning a child under this Act, a former Act corresponding to this Act, or [Part 2][262] of the Children, Young Persons, and Their Families Act 1989; or
     
-    *   (d) is or has been a respondent or associated respondent in proceedings under the [Domestic Violence Act 1995][235].
+    *   (d) is or has been a respondent or associated respondent in proceedings under the [Domestic Violence Act 1995][263].
     
-    (3) No appointment of an additional guardian of a child may be made under [section 23][29] unless the child, or a parent of the child, is either a New Zealand citizen or a person who is ordinarily resident in New Zealand.
+    (3) No appointment of an additional guardian of a child may be made under [section 23][32] unless the child, or a parent of the child, is either a New Zealand citizen or a person who is ordinarily resident in New Zealand.
     
-    (4) No appointment of an additional guardian of a child may be made under [section 23][29] if any of the statutory declarations required by section 23(5) cannot be made in the affirmative.
+    (4) No appointment of an additional guardian of a child may be made under [section 23][32] if any of the statutory declarations required by section 23(5) cannot be made in the affirmative.
     
-    (5) An appointment of an additional guardian under [section 23][29] is void if the proposed additional guardian is disqualified under section 23(2)(d), even though the relevant statutory declarations under [section 24(d)(i)][30] were all made in the affirmative.
+    (5) An appointment of an additional guardian under [section 23][32] is void if the proposed additional guardian is disqualified under section 23(2)(d), even though the relevant statutory declarations under [section 24(d)(i)][33] were all made in the affirmative.
 
 ##### 23 Appointment of eligible spouse or partner of parent as additional guardian
     
-*   (1) An eligible spouse or partner of a parent may be appointed as an additional guardian of a child under this section by the following person or persons, but only if that person is, or those persons are, authorised by [section 21][27] to make the appointment:
+*   (1) An eligible spouse or partner of a parent may be appointed as an additional guardian of a child under this section by the following person or persons, but only if that person is, or those persons are, authorised by [section 21][30] to make the appointment:
         
     *   (a) both parents of the child:
     
@@ -918,19 +1090,19 @@ Guardianship and care of children
         
     *   (a) shares responsibility for the child's day-to-day care, and has done so for not less than 1 year; and
     
-    *   (b) is not, and has never been, involved in proceedings concerning a child under this Act, a former Act corresponding to this Act, or [Part 2][234] of the Children, Young Persons, and Their Families Act 1989; and
+    *   (b) is not, and has never been, involved in proceedings concerning a child under this Act, a former Act corresponding to this Act, or [Part 2][262] of the Children, Young Persons, and Their Families Act 1989; and
     
-    *   (c) is not, and has never been, either a respondent or an associated respondent in proceedings under the [Domestic Violence Act 1995][235]; and
+    *   (c) is not, and has never been, either a respondent or an associated respondent in proceedings under the [Domestic Violence Act 1995][263]; and
     
     *   (d) has never been convicted of an offence involving harm to a child, including (without limitation),---
             
         *   (i) an offence involving violence (that is, physical abuse or sexual abuse), ill-treatment, abuse, neglect, or deprivation in relation to a child; or
         
-        *   (ii) an offence against the [Films, Videos, and Publications Classification Act 1993][236] involving a child pornography publication.
+        *   (ii) an offence against the [Films, Videos, and Publications Classification Act 1993][264] involving a child pornography publication.
         
         
     
-    (3) _Child pornography publication_ means a publication that is objectionable (as those terms are defined in [section 2][237] of the Films, Videos, and Publications Classification Act 1993)---
+    (3) _Child pornography publication_ means a publication that is objectionable (as those terms are defined in [section 2][265] of the Films, Videos, and Publications Classification Act 1993)---
         
     *   (a) because it promotes or supports, or tends to promote or support, the exploitation of children, or young persons, or both, for sexual purposes; or
     
@@ -948,51 +1120,53 @@ Guardianship and care of children
     
     *   (b) agrees to the appointment in writing.
     
-    (5) The appointment must be in the prescribed form (which must include the agreements in writing referred to in subsection (4)(b)), and must be accompanied by---
+    (5) The appointment must be in a form approved by the Secretary (which must include the agreements in writing referred to in subsection (4)(b)), and must be accompanied by---
         
-    *   (a) the declarations specified in [section 24][30]; and
+    *   (a) the declarations specified in [section 24][33]; and
     
     *   (b) the proposed additional guardian's criminal record.
     
     (6) _Criminal record_ means a document giving all details recorded in law enforcement information held by or on behalf of the Ministry of Justice of every criminal conviction (if any) of the proposed additional guardian (whether a conviction in New Zealand or overseas).
     
-    (7) If the proposed additional guardian is an eligible individual (as defined in [section 4][238] of the Criminal Records (Clean Slate) Act 2004), then for the purposes of [section 19(3)(e)][239] of that Act (exceptions to general effect of clean slate scheme) the appointment is an application the proposed additional guardian has made to act in a role predominantly involving the care and protection of, but not predominantly involving the delivery of education to, the child.
+    (7) If the proposed additional guardian is an eligible individual (as defined in [section 4][266] of the Criminal Records (Clean Slate) Act 2004), then for the purposes of [section 19(3)(e)][267] of that Act (exceptions to general effect of clean slate scheme) the appointment is an application the proposed additional guardian has made to act in a role predominantly involving the care and protection of, but not predominantly involving the delivery of education to, the child.
     
-    Section 23 heading: amended, on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
+    Section 23 heading: amended, on 1 July 2005, by [section 3][253] of the Care of Children Amendment Act 2005 (2005 No 5).
     
-    Section 23(1): amended, on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
+    Section 23(1): amended, on 1 July 2005, by [section 3][253] of the Care of Children Amendment Act 2005 (2005 No 5).
     
-    Section 23(2): amended, on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
+    Section 23(2): amended, on 1 July 2005, by [section 3][253] of the Care of Children Amendment Act 2005 (2005 No 5).
+    
+    Section 23(5): amended, on 31 March 2014, by [section 7][268] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 ##### 24 Declarations required by section 23(5)(a)
     
-*   The declarations required by [section 23(5)(a)][29] are statutory declarations by every person making the appointment and by the proposed additional guardian declaring---
+*   The declarations required by [section 23(5)(a)][32] are statutory declarations by every person making the appointment and by the proposed additional guardian declaring---
         
     *   (a) whether, in his or her opinion, the appointment is conducive to the welfare and best interests of the child; and
     
     *   (b) whether, in his or her opinion, he or she has taken all reasonable steps to ascertain and consider any views expressed on it by the child; and
     
-    *   (c) (for a person making the appointment only) that he or she has seen the criminal record referred to in [section 23(5)(b)][29]; and
+    *   (c) (for a person making the appointment only) that he or she has seen the criminal record referred to in [section 23(5)(b)][32]; and
     
     *   (d) that, to the best of his or her knowledge,---
             
-        *   (i) the proposed additional guardian has never been convicted of an offence of the kind referred to in [section 23(2)(d)][29], and
+        *   (i) the proposed additional guardian has never been convicted of an offence of the kind referred to in [section 23(2)(d)][32], and
         
-        *   (ii) there is no other reason why the proposed additional guardian is not an eligible spouse or partner of a parent (as defined in [section 23(2)][29]) in relation to the child.
+        *   (ii) there is no other reason why the proposed additional guardian is not an eligible spouse or partner of a parent (as defined in [section 23(2)][32]) in relation to the child.
         
         
     
-    Section 24(d)(ii): amended, on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
+    Section 24(d)(ii): amended, on 1 July 2005, by [section 3][253] of the Care of Children Amendment Act 2005 (2005 No 5).
 
 ##### 25 Appointments under section 23 take effect on approval
     
-*   (1) An appointment under [section 23][29] takes effect only on the Registrar of a Family Court approving the form and declarations referred to in section 23(5).
+*   (1) An appointment under [section 23][32] takes effect only on the Registrar of a Family Court approving the form and declarations referred to in section 23(5).
     
     (2) The Registrar must not approve those documents unless, having made all reasonable inquiries, he or she is satisfied---
         
-    *   (a) that the form and declarations are accompanied by the proposed additional guardian's criminal record (as required by [section 23(5)][29]), and have been properly completed and appear to be in order; and
+    *   (a) that the form and declarations are accompanied by the proposed additional guardian's criminal record (as required by [section 23(5)][32]), and have been properly completed and appear to be in order; and
     
-    *   (b) in particular, that the Family Court case-management system appears to hold no information that, in the light of [section 22][28] or [section 23][29], would prevent the appointment.
+    *   (b) in particular, that the Family Court case-management system appears to hold no information that, in the light of [section 22][31] or [section 23][32], would prevent the appointment.
     
     (3) Nothing in this section requires the Registrar to inquire into details of a conviction in the proposed additional guardian's criminal record.
     
@@ -1010,7 +1184,7 @@ Guardianship and care of children
     
     (4) Despite any enactment or rule of law, a person under the age of 18 years may make an appointment under subsection (1).
     
-    (5) Despite [section 16(1)][20], no testamentary guardian of a child has, just because of an appointment under this section, the role of providing day-to-day care for the child.
+    (5) Despite [section 16(1)][23], no testamentary guardian of a child has, just because of an appointment under this section, the role of providing day-to-day care for the child.
     
     Compare: 1968 No 63 ss 3, 7
 
@@ -1020,7 +1194,7 @@ Guardianship and care of children
         
     *   (a) on an application for the purpose by any person; or
     
-    *   (b) on its own initiative, on making an order removing a guardian under [section 29][37].
+    *   (b) on its own initiative, on making an order removing a guardian under [section 29][40].
     
     (2) The court may appoint the person as a guardian of the child---
         
@@ -1044,15 +1218,15 @@ Guardianship and care of children
     
     *   (c) the child lives with another person as a de facto partner:
     
-    *   (d) the guardian is removed by an order under [section 29][37]:
+    *   (d) the guardian is removed by an order under [section 29][40]:
     
-    *   (e) if the guardian was appointed under [section 27(2)][34] for a specific period or a specific purpose, the period expires or the purpose is achieved.
+    *   (e) if the guardian was appointed under [section 27(2)][37] for a specific period or a specific purpose, the period expires or the purpose is achieved.
     
     (2) However, nothing in this section affects the appointment of, or the High Court's powers in respect of, a litigation guardian.
     
     Compare: 1968 No 63 ss 8(1), 21
     
-    Section 28(1)(b): amended, on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
+    Section 28(1)(b): amended, on 1 July 2005, by [section 3][253] of the Care of Children Amendment Act 2005 (2005 No 5).
 
 ##### 29 Court may remove guardians
     
@@ -1062,7 +1236,7 @@ Guardianship and care of children
     
     *   (b) an order removing from office a testamentary guardian or court-appointed guardian; or
     
-    *   (c) an order revoking an appointment of an additional guardian made under [section 23][29].
+    *   (c) an order revoking an appointment of an additional guardian made under [section 23][32].
     
     (2) In this section, _eligible person_, in relation to a child, means any of the following persons:
         
@@ -1086,23 +1260,23 @@ Guardianship and care of children
     
     (4) An order under subsection (1)(b) or (c) must not be made unless the court is satisfied that the order will serve the welfare and best interests of the child.
     
-    (5) On making an order under subsection (1), the court may also make on its own initiative an order under [section 27][34].
+    (5) On making an order under subsection (1), the court may also make on its own initiative an order under [section 27][37].
     
     Compare: 1968 No 63 s 10
     
-    Section 29(2)(e): amended, on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
+    Section 29(2)(e): amended, on 1 July 2005, by [section 3][253] of the Care of Children Amendment Act 2005 (2005 No 5).
 
 #### Guardianship of court
 
 ##### 30 Concurrent jurisdiction under section 31
     
-*   (1) The following courts have jurisdiction under [section 31][40]:
+*   (1) The following courts have jurisdiction under [section 31][43]:
         
     *   (a) the High Court:
     
     *   (b) each Family Court.
     
-    (2) A Family Court does not have jurisdiction under [section 31][40] if---
+    (2) A Family Court does not have jurisdiction under [section 31][43] if---
         
     *   (a) the application is filed in the Family Court; and
     
@@ -1110,13 +1284,13 @@ Guardianship and care of children
     
     (3) The High Court may order proceedings to be removed to a Family Court if---
         
-    *   (a) an application is made under [section 31][40] to the High Court; and
+    *   (a) an application is made under [section 31][43] to the High Court; and
     
     *   (b) the High Court is satisfied that the proceedings would be more appropriately dealt with in a Family Court.
     
     (4) The High Court must order proceedings to be removed to the High Court if---
         
-    *   (a) an application is made under [section 31][40] to a Family Court; and
+    *   (a) an application is made under [section 31][43] to a Family Court; and
     
     *   (b) a party to the proceedings applies to the High Court to have the proceedings removed to the High Court; and
     
@@ -1152,9 +1326,9 @@ Guardianship and care of children
     
     Compare: 1968 No 63 s 10B
     
-    Section 31(1)(a): amended, on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
+    Section 31(1)(a): amended, on 1 July 2005, by [section 3][253] of the Care of Children Amendment Act 2005 (2005 No 5).
     
-    Section 31(2)(d): amended, on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
+    Section 31(2)(d): amended, on 1 July 2005, by [section 3][253] of the Care of Children Amendment Act 2005 (2005 No 5).
 
 ##### 32 Notice to be given to chief executive in certain cases before Family Court
     
@@ -1162,13 +1336,13 @@ Guardianship and care of children
         
     *   (a) an application is---
             
-        *   (i) made under [section 31][40] to a Family Court; or
+        *   (i) made under [section 31][43] to a Family Court; or
         
-        *   (ii) removed under [section 30(3)][39] to a Family Court; and
+        *   (ii) removed under [section 30(3)][42] to a Family Court; and
         
         
     
-    *   (b) neither [section 30(2)][39] nor section 30(4) applies to the application; and
+    *   (b) neither [section 30(2)][42] nor section 30(4) applies to the application; and
     
     *   (c) any of the following applies:
             
@@ -1176,9 +1350,9 @@ Guardianship and care of children
         
         *   (ii) the application does not seek an order of the kind described in subparagraph (i), but the court considers, at any stage of the proceedings, that it is likely to make such an order; or
         
-        *   (iii) the child who is the subject of the application is in the custody or under the guardianship or in the care of the chief executive or any other person under the [Children, Young Persons, and Their Families Act 1989][221]; or
+        *   (iii) the child who is the subject of the application is in the custody or under the guardianship or in the care of the chief executive or any other person under the [Children, Young Persons, and Their Families Act 1989][248]; or
         
-        *   (iv) a warrant in respect of the child who is the subject of the application has been issued under any of [sections 39][240], [40][241], [122][242], [157(2)][243], [205(2)(b)][244], and [386][245] of that Act.
+        *   (iv) a warrant in respect of the child who is the subject of the application has been issued under any of [sections 39][269], [40][270], [122][271], [157(2)][272], [205(2)(b)][273], and [386][274] of that Act.
         
         
     
@@ -1200,15 +1374,15 @@ Guardianship and care of children
 
 ##### 33 Orders of court
     
-*   (1) A court to which an application is made under [section 31][40] may---
+*   (1) A court to which an application is made under [section 31][43] may---
         
-    *   (a) make an order described in [section 31(1)(a)][40]; or
+    *   (a) make an order described in [section 31(1)(a)][43]; or
     
-    *   (b) make orders described in [section 31(1)(a) and (b)][40]; or
+    *   (b) make orders described in [section 31(1)(a) and (b)][43]; or
     
     *   (c) make---
             
-        *   (i) an order described in [section 31(1)(a)][40]; and
+        *   (i) an order described in [section 31(1)(a)][43]; and
         
         *   (ii) an order appointing any person whom the court thinks fit to be the agent of the court either generally or for any particular purpose.
         
@@ -1226,11 +1400,11 @@ Guardianship and care of children
     
     Compare: 1968 No 63 s 10D
     
-    Section 33(2)(c): amended, on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
+    Section 33(2)(c): amended, on 1 July 2005, by [section 3][253] of the Care of Children Amendment Act 2005 (2005 No 5).
 
 ##### 34 Powers of court
     
-*   (1) A court to which an application is made under [section 31][40] has the rights and powers specified in subsection (2)---
+*   (1) A court to which an application is made under [section 31][43] has the rights and powers specified in subsection (2)---
         
     *   (a) between the making of the application for an order and its disposal; and
     
@@ -1242,17 +1416,17 @@ Guardianship and care of children
     
     *   (b) commit for contempt of court a child or the child's spouse for marrying without the court's consent while the child is under the guardianship of the court.
     
-    (3) The High Court has all the powers of a Family Court in relation to who has the role of providing day-to-day care for, or contact with, a child who is the subject of an application under [section 31][40] or an order under [section 33][42]. An order of the High Court about providing day-to-day care for, or contact with, any child of that kind may be enforced under this Act as if it were an order of a Family Court.
+    (3) The High Court has all the powers of a Family Court in relation to who has the role of providing day-to-day care for, or contact with, a child who is the subject of an application under [section 31][43] or an order under [section 33][45]. An order of the High Court about providing day-to-day care for, or contact with, any child of that kind may be enforced under this Act as if it were an order of a Family Court.
     
     Compare: 1968 No 63 s 10E
 
 ##### 35 Further provisions relating to powers of court
     
-*   (1) This section applies to a court if it is a Family Court or the High Court hearing or otherwise dealing with proceedings under [section 31][40].
+*   (1) This section applies to a court if it is a Family Court or the High Court hearing or otherwise dealing with proceedings under [section 31][43].
     
     (2) The court may, before or by or after the principal order, make any interim or final order it thinks fit about the role of providing day-to-day care for, or about contact with, or about the upbringing of, a child who is the subject of the proceedings.
     
-    (3) [Section 50][71] applies with all necessary modifications to an order under subsection (2), and an order of that kind may be subject to any terms or conditions the court thinks fit.
+    (3) [Section 50][96] applies with all necessary modifications to an order under subsection (2), and an order of that kind may be subject to any terms or conditions the court thinks fit.
     
     (4) The court may, if in all the circumstances it thinks it appropriate to do so, make an order vesting the sole guardianship of the child in 1 of the parents, or make any other order with respect to the guardianship of the child that it thinks fit. However, if the court makes no order with respect to the guardianship of the child, every person who was a guardian of the child continues to be a guardian of the child.
     
@@ -1268,7 +1442,7 @@ Guardianship and care of children
         
     *   (a) any donation of blood by the child:
     
-    *   (b) any medical, surgical, or dental treatment or procedure (including a blood transfusion, which, in this section, has the meaning given to it by [section 37(1)][47]) to be carried out on the child for the child's benefit by a person professionally qualified to carry it out.
+    *   (b) any medical, surgical, or dental treatment or procedure (including a blood transfusion, which, in this section, has the meaning given to it by [section 37(1)][50]) to be carried out on the child for the child's benefit by a person professionally qualified to carry it out.
     
     (2) A child's consent, or refusal to consent, to any donation of blood, or to any medical, surgical, or dental treatment or procedure (including a blood transfusion), whether to be carried out on the child or on any other person, has the same effect as if the child were of full age if the child is or has been---
         
@@ -1294,21 +1468,21 @@ Guardianship and care of children
     
     *   (c) subject to subsection (2), the consent of any other person instead of the consent of the child is sufficient.
     
-    (6) Except to the extent that this section enables a blood transfusion to be administered to a child without the consent of any other person, nothing in this section affects [section 37][47].
+    (6) Except to the extent that this section enables a blood transfusion to be administered to a child without the consent of any other person, nothing in this section affects [section 37][50].
     
     (7) Subsection (1) is subject to subsection (6).
     
     Compare: 1968 No 63 s 25
     
-    Section 36(2)(a): amended, on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
+    Section 36(2)(a): amended, on 1 July 2005, by [section 3][253] of the Care of Children Amendment Act 2005 (2005 No 5).
 
 ##### 37 Immunity of health practitioners administering certain blood transfusions without consent
     
-*   (1) In this section and [section 36][46],---
+*   (1) In this section and [section 36][49],---
     
     _blood transfusion_, or _transfusion_, means the injection of whole human blood, or any constituent part or parts of it, into the bloodstream of a person
     
-    _health practitioner_ has the meaning given to it by [section 5(1)][246] of the Health Practitioners Competence Assurance Act 2003\.
+    _health practitioner_ has the meaning given to it by [section 5(1)][275] of the Health Practitioners Competence Assurance Act 2003\.
     
     (2) Except by leave of a Judge of the High Court, no civil, criminal, or disciplinary proceedings may be brought against a person in respect of the administration by a health practitioner of any blood transfusion to a person under the age of 18 years (in this section called the _patient_) by reason of the lack of consent of a person whose consent is required by law.
     
@@ -1344,7 +1518,7 @@ Guardianship and care of children
     
     *   (b) to any matter of justification or excuse.
     
-    Compare: 1956 No 65 [s 126B][247]
+    Compare: 1956 No 65 [s 126B][276]
 
 ##### 38 Consent to abortion
     
@@ -1354,7 +1528,7 @@ Guardianship and care of children
     
     *   (b) a refusal to consent to the carrying out on her of any procedure of that kind.
     
-    (2) This section overrides [section 36][46].
+    (2) This section overrides [section 36][49].
     
     Compare: 1968 No 63 s 25A
 
@@ -1364,19 +1538,15 @@ Guardianship and care of children
 
 ##### 39 Purpose of sections 40 to 43
     
-*   The purpose of [sections 40 to 43][52] is to encourage parents, guardians, and donors to agree to their own arrangements for the child's care, development, and upbringing.
+*   The purpose of [sections 40 to 43][55] is to encourage parents, guardians, and donors to agree to their own arrangements for the child's care, development, and upbringing.
 
 ##### 40 Agreements between parents and guardians
     
-*   (1) A party to an agreement to which subsection (2) applies---
-        
-    *   (a) may request counselling in respect of a dispute relating to the agreement, under [section 65(1)][89]; and
-    
-    *   (b) may seek to have terms of the agreement embodied in an order of the court that may be enforced, as provided in subsections (3) and (4).
+*   (1) A party to an agreement to which subsection (2) applies may seek to have the terms of the agreement embodied in an order of the court that may be enforced, as provided in subsections (3) and (4).
     
     (2) This subsection applies to an agreement between parents or guardians of a child so far as it relates to when 1 or more specified persons have the role of providing day-to-day care for the child or have contact with the child, or to the upbringing of the child, or to any combination of those matters.
     
-    (3) An agreement to which subsection (2) applies cannot be enforced under this Act, but some or all of the terms of the agreement may be embodied in an order of the court if, under 1 or more provisions of this Act other than this section (for example, under [section 48(1)][69]),---
+    (3) An agreement to which subsection (2) applies cannot be enforced under this Act, but some or all of the terms of the agreement may be embodied in an order of the court if, under 1 or more provisions of this Act other than this section (for example, under [section 48(1)][91]),---
         
     *   (a) some or all of the parties to the agreement may apply for the order; and
     
@@ -1385,6 +1555,8 @@ Guardianship and care of children
     (4) The order may be enforced under this Act in the same way as an order that does not embody terms of an agreement to which subsection (2) applies.
     
     Compare: 1968 No 63 s 18
+    
+    Section 40(1): replaced, on 31 March 2014, by [section 8][277] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 ##### 41 Agreements between parents and donors
     
@@ -1408,13 +1580,13 @@ Guardianship and care of children
     
     (6) On an application under subsection (5), the court may make any order relating to the matter that it thinks proper.
     
-    Compare: 1968 No 63 s 18; 1980 No 94 [s 15][19]
+    Compare: 1968 No 63 s 18; 1980 No 94 [s 15][22]
 
 ##### 42 Definitions for section 41
     
-*   In this section and [section 41][53],---
+*   In this section and [section 41][56],---
     
-    _AHR procedure_ has the same meaning as in [section 14(1)][248] of the Status of Children Act 1969
+    _AHR procedure_ has the same meaning as in [section 14(1)][278] of the Status of Children Act 1969
     
     _child_ means a child conceived, or proposed to be conceived, as a result of an AHR procedure
     
@@ -1440,65 +1612,41 @@ Guardianship and care of children
     
     *   (c) does not include a person who has adopted, or intends to adopt, the child (whenever the adoption or intention to adopt occurs).
     
-    Section 42: amended, on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
+    Section 42: amended, on 1 July 2005, by [section 3][253] of the Care of Children Amendment Act 2005 (2005 No 5).
 
 ##### 43 Agreements may be entered into by minors
     
-*   [Sections 40(2)][52] and [41(2)][53] apply to an agreement even though some or all of the parties to it are minors.
+*   [Sections 40(2)][55] and [41(2)][56] apply to an agreement even though some or all of the parties to it are minors.
     
-    Compare: 1976 No 166 [s 21I(1)][249]
+    Compare: 1976 No 166 [s 21I(1)][279]
 
 #### Resolving disputes
 
+\[Repealed\]
+    
+*   Heading: repealed, on 31 March 2014, by [section 9][280] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+
 ##### 44 Disputes between guardians
     
-*   (1) If 2 or more guardians of a child are unable to agree on a matter concerning the exercise of their guardianship, any of them may---
-        
-    *   (a) request counselling in respect of their dispute under [section 65(2)][89]; or
+*   \[Repealed\]
     
-    *   (b) apply to the court for its direction.
-    
-    (2) Subsection (1)(a) does not limit [section 45][58] (which relates to counselling between certain spouses, civil union partners, or de facto partners).
-    
-    (3) On an application under subsection (1)(b), the court may make any order relating to the matter that it thinks proper.
-    
-    (4) If, under an order of the High Court, 2 or more persons are guardians of, or have the role of providing day-to-day care for, a child, the High Court has exclusive jurisdiction to settle disputes, unless the order has been removed into a Family Court under [section 127][165].
-    
-    Compare: 1968 No 63 s 13(1), (3)
-    
-    Section 44(2): amended, on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
+    Section 44: repealed, on 31 March 2014, by [section 9][280] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 ##### 45 Family Proceedings Act 1980 dispute resolution provisions apply to certain proceedings
     
-*   (1) This subsection applies to proceedings resulting from a spouse, civil union partner, or de facto partner applying for an order under this Act relating to the role of providing day-to-day care for a child of the marriage, civil union, or de facto relationship, or contact with a child of that kind, or both of those matters.
+*   \[Repealed\]
     
-    (2) The following sections of the [Family Proceedings Act 1980][250] apply to proceedings to which subsection (1) applies:
-        
-    *   (a) [section 10(4) and (5)][251] (under which a Family Court Judge may refer the matter to a counsellor, in which case a Family Court hearing generally does not proceed unless either spouse, civil union partner, or de facto partner, not less than 28 days after the date of the reference, requests that the hearing should proceed); and
-    
-    *   (b) [section 19(1)][252] (which, among other things, requires the court to consider the possibility of a reconciliation between the spouses, civil union partners, or de facto partners, or of conciliation between them on any matter in issue).
-    
-    Section 45(1): amended, on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
-    
-    Section 45(2)(a): amended, on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
-    
-    Section 45(2)(b): amended, on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
+    Section 45: repealed, on 31 March 2014, by [section 9][280] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 ##### 46 Certain children may seek review of parent's or guardian's decision or refusal to give consent
     
-*   (1) A child of or over the age of 16 years who is affected by a decision or by a refusal of consent by a parent or guardian in an important matter may (unless the child is under the guardianship of the court) apply to a Family Court Judge who may, if he or she thinks it reasonable in all the circumstances to do so, review the decision or refusal and make any order in respect of it that he or she thinks fit.
+*   \[Repealed\]
     
-    (2) A consent given by a Family Court Judge under this section has the same effect as if it had been given by the parent or guardian.
-    
-    (3) This section does not apply where a parent or guardian refuses to give consent to a child's marriage, civil union, or entry into a de facto relationship. In those cases, [sections 18 to 20][253] of the Marriage Act 1955, [sections 19][254] and [20][255] of the Civil Union Act 2004, and [section 46A][61] of this Act, respectively, apply instead.
-    
-    Compare: 1968 No 63 s 14
-    
-    Section 46(3): substituted, on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
+    Section 46: repealed, on 31 March 2014, by [section 9][280] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 #### Consent to certain decisions
     
-*   Heading: inserted, on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
+*   Heading: inserted, on 1 July 2005, by [section 3][253] of the Care of Children Amendment Act 2005 (2005 No 5).
 
 ##### 46A Consent for de facto relationship
     
@@ -1510,11 +1658,11 @@ Guardianship and care of children
     
     (4) A consent given by a Family Court Judge under this section has the same effect as if it had been given by all of the child's guardians.
     
-    Section 46A: inserted, on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
+    Section 46A: inserted, on 1 July 2005, by [section 3][253] of the Care of Children Amendment Act 2005 (2005 No 5).
 
 ##### 46B Consent where child has no guardian
     
-*   (1) This section applies to a child who does not have a guardian because guardianship of the child has ended under [section 28(1)][36].
+*   (1) This section applies to a child who does not have a guardian because guardianship of the child has ended under [section 28(1)][39].
     
     (2) If an enactment requires that the child obtains the consent of 1 or more guardians for a particular purpose, the child may---
         
@@ -1526,43 +1674,247 @@ Guardianship and care of children
     
     (4) A consent given to a child for a purpose referred to in subsection (2), either by the child's former guardians or by a Family Court Judge under subsection (3), has the same effect as if it had been given by all the people whose consent was required for that purpose.
     
-    Section 46B: inserted, on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
+    Section 46B: inserted, on 1 July 2005, by [section 3][253] of the Care of Children Amendment Act 2005 (2005 No 5).
+
+##### 46C Certain children may seek review of parent's or guardian's decision or refusal to give consent
+    
+*   (1) A child of or over the age of 16 years who is affected by a decision or by a refusal of consent by a parent or guardian in an important matter may (unless the child is under the guardianship of the court) apply to a Family Court Judge, who may, if he or she thinks it reasonable in all the circumstances to do so, review the decision or refusal and make any order in respect of it that he or she thinks fit.
+    
+    (2) A consent given by a Family Court Judge under this section has the same effect as if it had been given by the parent or guardian.
+    
+    (3) This section does not apply where a parent or guardian refuses to give consent to a child's marriage, civil union, or entry into a de facto relationship. In those cases, [sections 18 to 20][281] of the Marriage Act 1955, [sections 19][282] and [20][283] of the Civil Union Act 2004, and [section 46A][64] of this Act, respectively, apply instead.
+    
+    Section 46C: inserted, on 31 March 2014, by [section 10][284] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+
+#### Family dispute resolution
+    
+*   Heading: inserted, on 31 March 2014, by [section 10][284] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+
+##### 46D Meaning of family dispute resolution
+    
+*   In [sections 46E][69] and [46F][70], _family dispute resolution_, _family dispute resolution form_, and _FDR provider_ have the meanings given to them by the [Family Dispute Resolution Act 2013][285].
+    
+    Section 46D: inserted, on 31 March 2014, by [section 10][284] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+
+##### 46E Family dispute resolution mandatory before commencement of proceedings
+    
+*   (1) This section applies to an application under [section 46R][86] or [48][91].
+    
+    (2) The application must be accompanied by a family dispute resolution form that has been signed by an FDR provider within the preceding 12 months.
+    
+    (3) Subsection (2) does not apply if subsection (4) applies.
+    
+    (4) A family dispute resolution form is not required to accompany an application that---
+        
+    *   (a) is in response to an application that another party to the proceedings has made for an order under [section 46R][86] or [48][91]; or
+    
+    *   (b) is without notice; or
+    
+    *   (c) is for a consent order; or
+    
+    *   (d) seeks the enforcement of an existing order; or
+    
+    *   (e) relates to a child who is the subject of proceedings already begun under [Part 2][262] of the Children, Young Persons, and Their Families Act 1989; or
+    
+    *   (f) is accompanied by an affidavit that provides evidence of either of the following matters:
+            
+        *   (i) that at least 1 of the parties to the family dispute is unable to participate effectively in family dispute resolution:
+        
+        *   (ii) that at least 1 of the parties to the family dispute, or a child of one of the parties, has been subject to domestic violence by one of the other parties to the dispute.
+        
+        
+    
+    (5) A Registrar may refuse to accept for filing an application that is accompanied by an affidavit of the kind referred to in subsection (4)(f) if the affidavit does not provide sufficient evidence of either of the matters set out in subparagraphs (i) and (ii) of that paragraph.
+    
+    (6) A Registrar who is unsure, under subsection (5), whether to refuse to accept an application for filing may refer that application and accompanying affidavit to a Judge, and the Judge must determine whether the affidavit provides sufficient evidence of either of the matters set out in subsection (4)(f).
+    
+    Section 46E: inserted, on 31 March 2014, by [section 10][284] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+
+##### 46F Family dispute resolution after proceedings commenced
+    
+*   (1) This section applies after an application has been made to a Family Court for---
+        
+    *   (a) a direction under [section 46R][86]; or
+    
+    *   (b) a parenting order under [section 48][91].
+    
+    (2) At any time before the application is finally determined, a Family Court Judge may direct the parties to attend family dispute resolution.
+    
+    (3) A direction under subsection (2) may only be made by a Judge if---
+        
+    *   (a) the Judge considers that there is a reasonable prospect that family dispute resolution will assist the parties in reaching an agreement on the resolution of the matters in dispute; and
+    
+    *   (b) the parties---
+            
+        *   (i) have not participated in family dispute resolution in the preceding 12 months; or
+        
+        *   (ii) have participated in family dispute resolution in the preceding 12 months but consent to the direction being made.
+        
+        
+    
+    (4) A direction under subsection (2) may be made only once.
+    
+    Section 46F: inserted, on 31 March 2014, by [section 10][284] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 #### Counselling
     
-*   Heading: inserted, on 25 September 2013, by [section 10][256] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+*   Heading: inserted, on 25 September 2013, by [section 10][284] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+
+##### 46G Counselling after proceedings commenced
+    
+*   (1) This section applies after an application has been made to a Family Court for---
+        
+    *   (a) a direction under [section 46R][86]; or
+    
+    *   (b) a parenting order under [section 48][91].
+    
+    (2) A Family Court Judge may direct the Registrar of the court to refer the parties to the application to counselling services for either or both of the following purposes:
+        
+    *   (a) to improve the relationship between the parties:
+    
+    *   (b) to encourage compliance with any direction or order made by the court.
+    
+    (3) A direction under subsection (2) may only be made by a Family Court Judge if the Judge considers that the provision of counselling services is the best means of assisting the parties with their relationship or the implementation of any decision of the court, or both of those matters.
+    
+    (4) A Family Court Judge may make a direction under subsection (2)---
+        
+    *   (a) at any stage of the proceedings, including when making a final order; but
+    
+    *   (b) once only.
+    
+    (5) On receipt of a direction under subsection (2), the Registrar must---
+        
+    *   (a) arrange for the parties to be referred to a counsellor or an approved counselling organisation; and
+    
+    *   (b) inform the parties accordingly.
+    
+    Section 46G: inserted, on 31 March 2014, by [section 10][284] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 ##### 46H Approval of counselling organisation
     
 *   (1) The Secretary may, by notice in the _Gazette_, approve any organisation (whether incorporated or unincorporated) as an approved counselling organisation.
     
-    (2) In deciding whether to approve an organisation under subsection (1), the Secretary must apply any criteria prescribed by regulations made under [section 147(2)(aa)][187].
+    (2) In deciding whether to approve an organisation under subsection (1), the Secretary must apply any criteria prescribed by regulations made under [section 147(2)(aa)][216].
     
     (3) An approval under subsection (1) may be made on any terms and conditions the Secretary thinks fit.
     
-    Section 46H: inserted, on 25 September 2013, by [section 10][256] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+    Section 46H: inserted, on 25 September 2013, by [section 10][284] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 ##### 46I Suspension or cancellation of approval of counselling organisation
     
-*   (1) The Secretary may, by notice in the _Gazette_, suspend or cancel the approval of an organisation as an approved counselling organisation on any ground prescribed by regulations made under [section 147(2)(ab)][187].
+*   (1) The Secretary may, by notice in the _Gazette_, suspend or cancel the approval of an organisation as an approved counselling organisation on any ground prescribed by regulations made under [section 147(2)(ab)][216].
     
     (2) If under subsection (1) the Secretary suspends the approval of an organisation, the organisation is not an approved counselling organisation during the period for which the approval is suspended.
     
-    Section 46I: inserted, on 25 September 2013, by [section 10][256] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+    Section 46I: inserted, on 25 September 2013, by [section 10][284] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+
+##### 46J Duties of approved counselling organisation
+    
+*   An approved counselling organisation to which any parties are referred under [section 46G(5)(a)][72] must---
+        
+    *   (a) nominate a counsellor to provide counselling services to the parties; and
+    
+    *   (b) arrange for the counsellor to meet with the parties.
+    
+    Section 46J: inserted, on 31 March 2014, by [section 10][284] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 ##### 46K Appointment of counsellors
     
 *   (1) The Secretary or an approved counselling organisation may appoint a person as a counsellor if the Secretary or approved counselling organisation is satisfied that the person is qualified and competent to provide counselling services.
     
-    (2) In deciding whether a person meets the criteria in subsection (1), the Secretary or approved counselling organisation must apply the qualification and competency requirements prescribed by regulations made under [section 147(2)(ac) and (ad)][187].
+    (2) In deciding whether a person meets the criteria in subsection (1), the Secretary or approved counselling organisation must apply the qualification and competency requirements prescribed by regulations made under [section 147(2)(ac) and (ad)][216].
     
-    Section 46K: inserted, on 25 September 2013, by [section 10][256] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+    Section 46K: inserted, on 25 September 2013, by [section 10][284] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+
+##### 46L Privilege
+    
+*   (1) This section applies to a statement a party makes to a counsellor for the purpose of enabling the counsellor to provide counselling services.
+    
+    (2) No evidence of the statement is admissible in any court or before any person acting judicially.
+    
+    (3) A counsellor commits an offence and is liable on conviction to a fine not exceeding $500 who discloses to any other person a statement made to the counsellor for the purpose of enabling the counsellor to provide counselling services.
+    
+    Section 46L: inserted, on 31 March 2014, by [section 10][284] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+
+##### 46M Number of sessions of counselling
+    
+*   The maximum number of sessions of counselling to be carried out under [section 46G][72] must be determined in accordance with regulations made under [section 147(2)(ae)][216] or, if no such regulations are made, by the Registrar of the court.
+    
+    Section 46M: inserted, on 31 March 2014, by [section 10][284] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+
+##### 46N Counselling fees and expenses
+    
+*   Fees in respect of counselling carried out under [section 46G][72], and reasonable expenses incurred, must---
+        
+    *   (a) be determined in accordance with regulations made under [section 147(2)(af)][216] or, if no such regulations are made, by the Registrar of the court; and
+    
+    *   (b) be paid in accordance with that determination out of public money appropriated by Parliament for the purpose.
+    
+    Section 46N: inserted, on 31 March 2014, by [section 10][284] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+
+#### Parenting information programmes
+    
+*   Heading: inserted, on 31 March 2014, by [section 10][284] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+
+##### 46O Judge may direct party to undertake parenting information programme
+    
+*   (1) At any time after an application has been made to the court for a parenting order under [section 48][91], a Family Court Judge may direct 1 or more parties to the application to attend a parenting information programme.
+    
+    (2) However, the Family Court Judge may not make a direction under subsection (1) in respect of a party if that party has undertaken a parenting information programme within the preceding 2 years.
+    
+    Section 46O: inserted, on 31 March 2014, by [section 10][284] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+
+#### Settlement conferences
+    
+*   Heading: inserted, on 31 March 2014, by [section 10][284] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+
+##### 46P Purpose of settlement conferences
+    
+*   The purpose of a settlement conference is to enable a Family Court Judge to---
+        
+    *   (a) ascertain whether any or all of the issues in dispute between the parties can be settled; and
+    
+    *   (b) settle those issues.
+    
+    Section 46P: inserted, on 31 March 2014, by [section 10][284] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+
+##### 46Q Settlement conferences
+    
+*   (1) A Family Court Judge may, before the hearing of a proceeding, direct the Registrar to convene a settlement conference.
+    
+    (2) However, a settlement conference may be convened under subsection (1) on 1 occasion only, but may be adjourned at any time and to any place.
+    
+    (3) At a settlement conference, a Family Court Judge may, with the consent of the parties, make an order settling some or all of the issues in dispute between the parties.
+    
+    (4) Before a party consents to the making of an order, a Family Court Judge may advise that party to obtain legal advice.
+    
+    Section 46Q: inserted, on 31 March 2014, by [section 10][284] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+
+#### Guardianship disputes
+    
+*   Heading: inserted, on 31 March 2014, by [section 10][284] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+
+##### 46R Disputes between guardians
+    
+*   (1) If 2 or more guardians of a child are unable to agree on a matter concerning the exercise of their guardianship, any of them may apply to the court for its direction.
+    
+    (2) An application under subsection (1) must be made to a Family Court unless subsection (3) applies.
+    
+    (3) An application under subsection (1) must be made to the High Court, and the High Court has exclusive jurisdiction to settle the dispute, where,---
+        
+    *   (a) under an order of the High Court, 2 or more persons are guardians of, or have the role of providing day-to-day care for, a child, and that order has not been removed into a Family Court under [section 127][190]; or
+    
+    *   (b) a child is under the guardianship of the High Court.
+    
+    (4) On an application under subsection (1), the court may make any order relating to the matter that it thinks proper.
+    
+    Section 46R: inserted, on 31 March 2014, by [section 10][284] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 #### Parenting orders
 
 ##### 47 Who may apply for parenting order
     
-*   (1) In [section 48(1)][69], _eligible person_, in relation to a child, means any of the following persons:
+*   (1) In [section 48(1)][91], _eligible person_, in relation to a child, means any of the following persons:
         
     *   (a) a parent of the child:
     
@@ -1574,7 +1926,7 @@ Guardianship and care of children
     
     *   (e) any other person granted leave to apply by the court.
     
-    (2) However, if a parent of a child has died or has been refused contact with the child by a court, or if a parent entitled to have contact with a child is making no attempt to have that contact, then each of the following persons is, for the purposes of an application for an order under [section 48(1)][69] determining who may have contact with the child, also an _eligible person_ in relation to the child:
+    (2) However, if a parent of a child has died or has been refused contact with the child by a court, or if a parent entitled to have contact with a child is making no attempt to have that contact, then each of the following persons is, for the purposes of an application for an order under [section 48(1)][91] determining who may have contact with the child, also an _eligible person_ in relation to the child:
         
     *   (a) the parents of that parent of the child; and
     
@@ -1584,7 +1936,41 @@ Guardianship and care of children
     
     Compare: 1968 No 63 ss 11(1), 15(1), 16(1)
     
-    Section 47(1)(c): amended, on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
+    Section 47(1)(c): amended, on 1 July 2005, by [section 3][253] of the Care of Children Amendment Act 2005 (2005 No 5).
+
+##### 47A Mandatory statement in applications
+    
+*   (1) This section applies to an application for a parenting order under [section 48][91].
+    
+    (2) The application must include a statement made by or on behalf of the applicant for the order about whether and how the order can and should provide for any other person or persons to have the role of providing day-to-day care for, or contact with, the child.
+    
+    Section 47A: inserted, on 31 March 2014, by [section 11][286] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+
+##### 47B Mandatory statement and evidence in applications
+    
+*   (1) This section applies to---
+        
+    *   (a) an application for a parenting order under [section 48][91]:
+    
+    *   (b) an application to vary a parenting order under [section 56][102].
+    
+    (2) The application must include a statement made by or on behalf of the applicant for the order---
+        
+    *   (a) that the applicant has undertaken a parenting information programme within the preceding 2 years; or
+    
+    *   (b) that the applicant is not required to undertake a parenting information programme because---
+            
+        *   (i) the applicant is unable to participate effectively in a parenting information programme; or
+        
+        *   (ii) the applicant is making the application without notice.
+        
+        
+    
+    (3) Evidence in support of a statement made under subsection (2)(a) or (b)(i) must be included in the application.
+    
+    (4) A Registrar may refuse to accept an application if the Registrar considers that the evidence provided does not adequately support the statement.
+    
+    Section 47B: inserted, on 31 March 2014, by [section 11][286] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 ##### 48 Parenting orders
     
@@ -1604,17 +1990,75 @@ Guardianship and care of children
     
     *   (c) any arrangements that are necessary or desirable to facilitate that contact.
     
-    (4) A parenting order may be a final order or it may be an interim order that has effect until a specified date or event or until the court orders otherwise.
+    (4) A parenting order (whether an interim parenting order or a final parenting order) may be made subject to any terms or conditions the court considers appropriate (for example, a condition requiring a party to enter into a bond).
     
-    (5) A parenting order may also be subject to any other terms or conditions (including, without limitation, a condition requiring a party to enter into a bond) the court determines.
+    (5) \[Repealed\]
     
-    (6) This section is subject to [sections 50 to 52][71] and [60][82].
+    (6) \[Repealed\]
     
     Compare: 1968 No 63 ss 11, 15, 16
-
-##### 49 Applications to include statement on others' involvement
     
-*   An application for a parenting order must include a statement made by or on behalf of the applicant for the order about whether and how the order can and should provide for any other person or persons to have the role of providing day-to-day care for, or contact with, the child.
+    Section 48(4): replaced, on 31 March 2014, by [section 12][287] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+    
+    Section 48(5): repealed, on 31 March 2014, by [section 12][287] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+    
+    Section 48(6): repealed, on 31 March 2014, by [section 12][287] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+
+##### 49 Interim parenting orders
+    
+*   (1) At any time before an application for a parenting order is finally determined in a court, a Judge may make an interim parenting order that has effect until---
+        
+    *   (a) a specified date; or
+    
+    *   (b) a specified event; or
+    
+    *   (c) it is replaced by---
+            
+        *   (i) another interim order; or
+        
+        *   (ii) a final order.
+        
+        
+    
+    (2) However, a Judge must not make an interim order unless the Judge is satisfied that an interim order serves the welfare and best interests of the child better than a final order.
+    
+    Section 49: replaced, on 31 March 2014, by [section 13][288] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+
+##### 49A Interim parenting order where parent does not have day-to-day care for, or contact with, child
+    
+*   (1) This section applies if---
+        
+    *   (a) an interim parenting order is made; and
+    
+    *   (b) the parents of the child in respect of whom the interim parenting order is made are parties to the order; and
+    
+    *   (c) under the interim parenting order, one of the parents has neither the role of providing day-to-day care for nor contact with the child.
+    
+    (2) If this section applies, the court must, as soon as practicable, assign a hearing date that is not more than 3 months after the date of the interim parenting order, and at the hearing on that date the court may replace the interim order with---
+        
+    *   (a) a further interim order; or
+    
+    *   (b) a final parenting order.
+    
+    Section 49A: inserted, on 31 March 2014, by [section 13][288] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+
+##### 49B Interim parenting order may become final order on specified date
+    
+*   (1) When making an interim parenting order that has effect until a specified date (the _specified date_), a Family Court Judge may direct that the interim parenting order is to become a final parenting order on the specified date unless before that date a party to the proceeding or any lawyer appointed under [section 7][9] notifies the court that he or she wishes to be heard.
+    
+    (2) If a party to the proceeding or any lawyer appointed under [section 7][9] does not, before the specified date, notify the court that he or she wishes to be heard, the interim parenting order becomes a final parenting order on the specified date.
+    
+    (3) When an interim parenting order becomes a final parenting order under subsection (2), the final parenting order comes into effect immediately.
+    
+    Section 49B: inserted, on 31 March 2014, by [section 13][288] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+
+##### 49C Final parenting orders
+    
+*   (1) At any time during a proceeding, a Judge may make a final parenting order if the parties consent.
+    
+    (2) When an application for a parenting order is finally determined by the court, a Judge must make a final parenting order.
+    
+    Section 49C: inserted, on 31 March 2014, by [section 13][288] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 ##### 50 Parenting orders in respect of children of or over 16 years
     
@@ -1636,11 +2080,13 @@ Guardianship and care of children
     
     (2) The court must consider whether the order should be subject to conditions imposed for the purpose of protecting the safety of person B while person A's contact with the child takes place (including while the child is being collected from, or returned to, person B).
     
-    (3) This section does not limit [section 48(4) or (5)][69] or [section 60][82].
+    (3) \[Repealed\]
     
     Compare: 1968 No 63 s 15(2B)
     
-    Section 51(1)(b): amended, on 16 November 2011, by [section 6][257] of the Care of Children Amendment Act 2011 (2011 No 59).
+    Section 51(1)(b): amended, on 16 November 2011, by [section 6][289] of the Care of Children Amendment Act 2011 (2011 No 59).
+    
+    Section 51(3): repealed, on 31 March 2014, by [section 14][290] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 ##### 52 Court must consider contact arrangements in certain cases
     
@@ -1648,33 +2094,33 @@ Guardianship and care of children
 
 ##### 53 Orders in proceedings under Family Proceedings Act 1980
     
-*   (1) This section applies to a court if it is a Family Court hearing or otherwise dealing with proceedings under the [Family Proceedings Act 1980][250] for a separation order, an order declaring a marriage or civil union to be void _ab initio_, or an order dissolving a marriage or civil union.
+*   (1) This section applies to a court if it is a Family Court hearing or otherwise dealing with proceedings under the [Family Proceedings Act 1980][291] for a separation order, an order declaring a marriage or civil union to be void _ab initio_, or an order dissolving a marriage or civil union.
     
-    (2) The court may, before or by or after the principal order, make any interim or final order it thinks fit about the role of providing day-to-day care for, or about contact with, or about the upbringing of, a child of the marriage or a child of the civil union (as defined in [section 2][258] of the Family Proceedings Act 1980).
+    (2) The court may, before or by or after the principal order, make any interim or final order it thinks fit about the role of providing day-to-day care for, or about contact with, or about the upbringing of, a child of the marriage or a child of the civil union (as defined in [section 2][292] of the Family Proceedings Act 1980).
     
-    (3) [Section 50][71] applies with all necessary modifications to an order under subsection (2), and an order of that kind may be subject to any terms or conditions the court thinks fit.
+    (3) [Section 50][96] applies with all necessary modifications to an order under subsection (2), and an order of that kind may be subject to any terms or conditions the court thinks fit.
     
     (4) The court may, if in all the circumstances it thinks it appropriate to do so, make an order vesting the sole guardianship of the child in 1 of the parents, or make any other order with respect to the guardianship of the child that it thinks fit. However, if the court makes no order with respect to the guardianship of the child, every person who was a guardian of the child continues to be a guardian of the child.
     
-    (5) Despite subsection (4), an order depriving a parent of the guardianship of his or her child may be made under that subsection only if the court is satisfied of the matters stated in [section 29(3)(a) and (b)][37].
+    (5) Despite subsection (4), an order depriving a parent of the guardianship of his or her child may be made under that subsection only if the court is satisfied of the matters stated in [section 29(3)(a) and (b)][40].
     
     (6) An order may be made under this section, and an order made under this section may be varied or discharged, even though the court has refused to make the principal order or to give any other relief sought.
     
     Compare: 1968 No 63 s 12(1), (2)--(5), (6)(b)
     
-    Section 53(1): amended, on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
+    Section 53(1): amended, on 1 July 2005, by [section 3][253] of the Care of Children Amendment Act 2005 (2005 No 5).
     
-    Section 53(2): amended, on 1 July 2005, by [section 3][225] Care of Children Amendment Act 2005 (2005 No 5).
+    Section 53(2): amended, on 1 July 2005, by [section 3][253] Care of Children Amendment Act 2005 (2005 No 5).
 
 ##### 54 Orders in proceedings under Domestic Violence Act 1995
     
 *   \[Repealed\]
     
-    Section 54: repealed, on 16 November 2011, by [section 7][259] of the Care of Children Amendment Act 2011 (2011 No 59).
+    Section 54: repealed, on 16 November 2011, by [section 7][293] of the Care of Children Amendment Act 2011 (2011 No 59).
 
 ##### 55 Content and explanation of parenting orders
     
-*   (1) An order under [section 48(1)][69]---
+*   (1) An order under [section 48(1)][91]---
         
     *   (a) must contain an explanation, based on the precise terms of the particular order, of---
             
@@ -1686,17 +2132,19 @@ Guardianship and care of children
         
         
     
-    *   (b) without limiting paragraph (a), must be accompanied by general information, in the prescribed form, about the matters stated in paragraph (a)(i) to (iii).
+    *   (b) without limiting paragraph (a), must be accompanied by general information, in a form approved by the Secretary, about the matters stated in paragraph (a)(i) to (iii).
     
-    (2) A lawyer acting for, or other person representing, a party to an order under [section 48(1)][69] must explain to the party the effect of the order.
+    (2) A lawyer acting for, or other person representing, a party to an order under [section 48(1)][91] must explain to the party the effect of the order.
     
     (3) Explanations required by subsections (1)(a) and (2) must be given in a manner and in language that the recipients of those explanations understand.
     
-    (4) A lawyer acting for, or other person representing, a child, must take all reasonable steps to ensure that the effect of an order under [section 48(1)][69] is explained to the child, to an extent and in a manner and in language that the child understands.
+    (4) A lawyer acting for, or other person representing, a child, must take all reasonable steps to ensure that the effect of an order under [section 48(1)][91] is explained to the child, to an extent and in a manner and in language that the child understands.
     
     (5) A failure to comply with a requirement imposed by this section does not affect the validity of the order concerned.
     
-    Compare: 1989 No 24 [s 10][260]; 1995 No 86 [s 87][261]
+    Compare: 1989 No 24 [s 10][294]; 1995 No 86 [s 87][295]
+    
+    Section 55(1)(b): amended, on 31 March 2014, by [section 15][296] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 ##### 56 Variation or discharge of parenting and other orders
     
@@ -1718,333 +2166,147 @@ Guardianship and care of children
     
     (4) Subsections (1) and (2) apply to orders of the kind referred to in those subsections whether or not the orders were made after the commencement of this Act, but nothing in those subsections applies to---
         
-    *   (a) any order under the [Children, Young Persons, and Their Families Act 1989][221]; or
+    *   (a) any order under the [Children, Young Persons, and Their Families Act 1989][248]; or
     
-    *   (b) any interim order or adoption order under the [Adoption Act 1955][262].
+    *   (b) any interim order or adoption order under the [Adoption Act 1955][297].
     
-    (5) Subsection (2) does not limit [section 29][37].
+    (5) Subsection (2) does not limit [section 29][40].
     
     Compare: 1968 No 63 s 17
 
-##### 57 Procedure if child's parents are parties to interim order
+##### 57 Variation of final parenting order by consent memorandum instead of application
     
-*   (1) If the parents of a child are parties to an interim order and, under the order, each of them has either the role of providing day-to-day care for, or contact with, the child,---
+*   (1) This section applies if the parties to a final parenting order made under this Act agree to a variation of the order, or to a variation of any term or condition to which the order is subject (the **proposed variation**).
+    
+    (2) A party to the final parenting order may, instead of applying under [section 56][102] for a variation of the order, file a consent memorandum seeking an order in terms of the proposed variation.
+    
+    (3) The consent memorandum must---
         
-    *   (a) the order ceases to have effect (if it has not ceased to have effect sooner) on the following date:
-            
-        *   (i) the date that is 1 year after the day on which the order is made (the _specified date_); or
-        
-        *   (ii) a later date the court appoints, before or after the specified date, on an application for the purpose under this subsection before the specified date; and
-        
-        
+    *   (a) set out the proposed variation; and
     
-    *   (b) the parents must take all reasonable steps to obtain a final order as soon as practicable.
+    *   (b) state that all persons affected by the final parenting order (other than children) agree to the proposed variation; and
     
-    (2) In making an order as to costs, the court may have regard to a failure to comply with subsection (1)(b); but nothing in this subsection limits the court's powers under [section 142][181].
+    *   (c) be signed by all parties.
     
-    (3) The court must, as soon as practicable, assign a date that is within the next 3 months as the date for a hearing on whether a final order should be substituted for the interim order if---
-        
-    *   (a) an interim order is made on an application with notice or an application without notice; and
+    (4) On the filing of a consent memorandum, the Registrar may make and seal an order varying the final parenting order in terms of the proposed variation set out in the memorandum.
     
-    *   (b) the parents of a child are parties to the order and, under it, one of them (_parent A_) has neither the role of providing day-to-day care for, nor contact with, the child.
-    
-    (4) However, if the interim order referred to in subsection (3)(a) was made on an application without notice, parent A may notify the court that he or she wishes to be heard on whether a final order should be substituted for that interim order and, if he or she does so, the Registrar of the court must, as soon as practicable, assign a hearing date that is---
-        
-    *   (a) as soon as practicable; and
-    
-    *   (b) unless there are special circumstances, within 42 days after parent A's notice is received by the court.
-    
-    (5) In this section, _interim order_ means---
-        
-    *   (a) an interim parenting order under [section 48(1)][69]; or
-    
-    *   (b) an interim order under [section 53(2)][74].
-    
-    Compare: 1995 No 86 [s 76(1), (3)][263]
-    
-    Section 57(5)(b): amended, on 16 November 2011, by [section 8][264] of the Care of Children Amendment Act 2011 (2011 No 59).
+    Section 57: replaced, on 31 March 2014, by [section 16][298] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
-#### Cases involving violence
+#### Supervised contact
+    
+*   Heading: replaced, on 31 March 2014, by [section 16][298] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 ##### 58 Interpretation
     
-*   In this section and [sections 59 to 62][81], unless the context otherwise requires,---
-    
-    _allegation of violence_, in relation to a party to proceedings, means an allegation that that party has physically or sexually abused---
-        
-    *   (a) another party to the proceedings; or
-    
-    *   (b) a child who is the subject of the proceedings; or
-    
-    *   (c) a child of the family
+*   In this section and [sections 59][106] and [60][107],---
     
     _approved provider_ means a supervised contact service provider who is---
         
     *   (a) approved---
             
-        *   (i) by the chief executive as a Community Service under [section 403][265] of the Children, Young Persons, and Their Families Act 1989; or
+        *   (i) by the chief executive as a community service under [section 403][299] of the Children, Young Persons, and Their Families Act 1989; or
         
         *   (ii) by the Secretary; or
         
-        *   (iii) by an officer of the court appointed under [section 8(2)][266] of the Family Courts Act 1980; and
+        *   (iii) by an officer of the court appointed under [section 8(2)][300] of the Family Courts Act 1980; and
         
         
     
     *   (b) nominated by the court or Registrar for the particular case
     
-    _child of the family_, in relation to any proceedings, means---
-        
-    *   (a) a child of the applicant and the respondent, or of either of them; or
-    
-    *   (b) any child who was a member of the family of the applicant and the respondent, or either of them, immediately before the commencement of the proceedings
-    
-    _protection order_ means---
-        
-    *   (a) a protection order, including a temporary protection order, made under [section 14][267] of the Domestic Violence Act 1995:
-    
-    *   (b) a protection order made under [section 123B][268] of the Sentencing Act 2002
-    
-    _supervised contact_ means direct (that is, face to face) contact between a party and a child, being contact that occurs---
-        
-    *   (a) under the supervision of an approved provider; or
-    
-    *   (b) in the immediate presence of a person approved by the court (for example, a relative, a friend of the family of the child, or any other person whom the court considers suitable)
-    
-    _violent party_ means a party to the proceedings against whom---
-        
-    *   (a) there is currently in force a protection order for the protection of any of the following persons:
-            
-        *   (i) another party to the proceedings:
-        
-        *   (ii) a child who is the subject of the proceedings:
-        
-        *   (iii) a child of the family; or
-        
-        
-    
-    *   (b) an allegation of violence is made that, on the basis of the evidence presented by, or on behalf of, the parties to the proceedings (without the court being required to make inquiries on its own initiative), the court is satisfied is proved
-    
-    Compare: 1968 No 63 s 16A
-    
-    Section 58 **allegation of violence**: inserted, on 16 November 2011, by [section 9(1)][269] of the Care of Children Amendment Act 2011 (2011 No 59).
-    
-    Section 58 **approved provider**: substituted, on 18 May 2009, by [section 9][270] of the Care of Children Amendment Act 2008 (2008 No 74).
-    
-    Section 58 **protection order**: inserted, on 16 November 2011, by [section 9(1)][269] of the Care of Children Amendment Act 2011 (2011 No 59).
-    
-    Section 58 **violence**: repealed, on 16 November 2011, by [section 9(2)][269] of the Care of Children Amendment Act 2011 (2011 No 59).
-    
-    Section 58 **violent party**: added, on 16 November 2011, by [section 9(1)][269] of the Care of Children Amendment Act 2011 (2011 No 59).
-
-##### 59 Application of section 60
-    
-*   (1) [Section 60][82] applies to proceedings---
-        
-    *   (a) relating to an application under this Act for any of the following:
-            
-        *   (i) an order about the person or persons who have the role of providing day-to-day care for a child:
-        
-        *   (ii) an order about contact with a child:
-        
-        *   (iii) the variation or discharge of, or of any condition of, an order in subparagraph (i) or subparagraph (ii); and
-        
-        
-    
-    *   (b) in which there is a violent party.
-    
-    (2) [Section 60][82] applies to proceedings specified in subsection (1) whether or not those proceedings also relate to any other matter (whether arising under this Act or any other enactment).
-    
-    Compare: 1968 No 63 s 16B(1), (2)
-    
-    Section 59 heading: substituted, on 16 November 2011, by [section 10(1)][271] of the Care of Children Amendment Act 2011 (2011 No 59).
-    
-    Section 59(1)(b): substituted, on 16 November 2011, by [section 10(2)][271] of the Care of Children Amendment Act 2011 (2011 No 59).
-
-##### 60 Procedure for dealing with proceedings in section 59(1)
-    
-*   (1) \[Repealed\]
-    
-    (2) \[Repealed\]
-    
-    (3) In proceedings to which this section applies in accordance with section 59 (the **proceedings**), the court must not make---
-        
-    *   (a) an order giving the violent party the role of providing day-to-day care for the child to whom the proceedings relate; or
-    
-    *   (b) any order allowing the violent party contact (other than supervised contact) with that child.
-    
-    (3A) Subsection (3) is subject to subsection (4).
-    
-    (4) In the situation in subsection (3), the court may make an order in subsection (3)(a) or (b) if, after complying with [section 61][83], the court is satisfied that the child will be safe while the violent party---
-        
-    *   (a) provides day-to-day care for the child; or (as the case may be)
-    
-    *   (b) has contact with the child.
-    
-    (5) If, in the situation in subsection (3), the court is not satisfied as provided in subsection (4), it may make an order for supervised contact between the child and the violent party, and, if it does so, the court must specify in the order whether the supervised contact is to occur---
+    _supervised contact_ means direct (that is, face-to-face) contact between a party and a child, being contact that occurs---
         
     *   (a) under the supervision of an approved provider; or
     
     *   (b) in the immediate presence of a person approved by the court (for example, a relative, a friend of the family of the child, or any other person whom the court considers suitable).
     
-    (6) \[Repealed\]
-    
-    Compare: 1968 No 63 s 16B(2)--(6)
-    
-    Section 60(1): repealed, on 16 November 2011, by [section 11(1)][272] of the Care of Children Amendment Act 2011 (2011 No 59).
-    
-    Section 60(2): repealed, on 16 November 2011, by [section 11(1)][272] of the Care of Children Amendment Act 2011 (2011 No 59).
-    
-    Section 60(3): substituted, on 16 November 2011, by [section 11(2)][272] of the Care of Children Amendment Act 2011 (2011 No 59).
-    
-    Section 60(3A): inserted, on 16 November 2011, by [section 11(2)][272] of the Care of Children Amendment Act 2011 (2011 No 59).
-    
-    Section 60(6): repealed, on 16 November 2011, by [section 11(3)][272] of the Care of Children Amendment Act 2011 (2011 No 59).
+    Section 58: replaced, on 31 March 2014, by [section 16][298] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
-##### 61 Matters relevant to question in section 60(4)
+##### 59 Court may order supervised contact
     
-*   In considering, for the purposes of [section 60(4)][82], whether a child will be safe if a violent party provides day-to-day care for, or has contact (other than supervised contact) with, the child, the court must, so far as is practicable, have regard to the following matters:
+*   (1) This section applies if the court---
         
-    *   (a) the nature and seriousness of the violence used:
+    *   (a) is making or varying a parenting order determining the time or times when a person may have contact with a child; and
     
-    *   (b) how recently the violence occurred:
+    *   (b) is not satisfied that the child will be safe with that person.
     
-    *   (c) the frequency of the violence:
-    
-    *   (d) the likelihood of further violence occurring:
-    
-    *   (e) the physical or emotional harm caused to the child by the violence:
-    
-    *   (f) whether the other party to the proceedings---
-            
-        *   (i) considers that the child will be safe while the violent party provides day-to-day care for, or has contact with, the child; and
+    (2) The court may make an order for supervised contact between the child and that person, and, if it does so, the court must specify in the order whether the supervised contact is to occur---
         
-        *   (ii) consents to the violent party providing day-to-day care for, or having contact (other than supervised contact) with, the child:
-        
-        
+    *   (a) under the supervision of an approved provider; or
     
-    *   (g) any views the child expresses on the matter (as required by [section 6][7]):
+    *   (b) in the immediate presence of a person approved by the court (for example, a relative, a friend of the family of the child, or any other person whom the court considers suitable).
     
-    *   (h) any steps taken by the violent party to prevent further violence occurring:
-    
-    *   (i) all other matters the court considers relevant.
-    
-    Compare: 1968 No 63 s 16B(5)
+    Section 59: replaced, on 31 March 2014, by [section 16][298] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
-##### 61A Court may make orders to ensure safety of child in other cases
+##### 60 Costs of formal supervised contact
     
-*   (1) This section applies if---
-        
-    *   (a) there are proceedings before the court relating to any of the kinds of application specified in [section 59(1)(a)][81]; and
+*   (1) This section applies only to supervised contact that is ordered under [section 59][106] and supervised by an approved provider.
     
-    *   (b) [section 60][82] does not apply to the proceedings because---
-            
-        *   (i) the court is not satisfied that an allegation of violence (as defined in [section 58][80]) is proved; and
-        
-        *   (ii) there is not otherwise a violent party (as defined in [section 58][80]) to the proceedings.
-        
-        
-    
-    (2) If the court is satisfied that there is a real risk to the safety of a child, the court may make any order under this Act that it thinks fit in order to ensure the safety of the child.
-    
-    Section 61A: inserted, on 16 November 2011, by [section 12][273] of the Care of Children Amendment Act 2011 (2011 No 59).
-
-##### 62 Costs of formal supervised contact
-    
-*   (1) This section applies only to supervised contact that is ordered under [section 60(5)][82] and supervised by an approved provider.
-    
-    (2) The number of sessions of the contact that will be funded out of public money must be determined in accordance with regulations made under [section 147(2)(a)][187] or, in the absence of regulations of that kind, by the Registrar or the court.
+    (2) The number of sessions of the contact that will be funded out of public money must be determined in accordance with regulations made under [section 147(2)(a)][216] or, in the absence of regulations of that kind, by the Registrar or the court.
     
     (3) Fees in respect of the contact---
         
-    *   (a) must be determined in accordance with regulations made under [section 147(2)(b)][187] or, in the absence of regulations of that kind, by the Registrar or the court; and
+    *   (a) must be determined in accordance with regulations made under [section 147(2)(b)][216] or, in the absence of regulations of that kind, by the Registrar or the court; and
     
     *   (b) are payable out of public money appropriated by Parliament for the purpose.
     
-    Compare: 1980 No 94 [ss 12A][274], [12B][275]
+    Section 60: replaced, on 31 March 2014, by [section 16][298] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+
+##### 61 Matters relevant to question in section 60(4)
+    
+*   \[Repealed\]
+    
+    Section 61: repealed, on 31 March 2014, by [section 16][298] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+
+##### 61A Court may make orders to ensure safety of child in other cases
+    
+*   \[Repealed\]
+    
+    Section 61A: repealed, on 31 March 2014, by [section 16][298] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+
+##### 62 Costs of formal supervised contact
+    
+*   \[Repealed\]
+    
+    Section 62: repealed, on 31 March 2014, by [section 16][298] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 #### Making parenting orders work
 
 ##### 63 Purpose and overview of sections 64 to 80
     
-*   (1) The purpose of [sections 64 to 80][88] is to provide to the court, and to parties to a parenting order, a range of options for making the order work.
+*   \[Repealed\]
     
-    (2) To that end, [sections 64 to 80][88]---
-        
-    *   (a) provide for the parties to request counselling to resolve a dispute over observing and carrying out the order:
-    
-    *   (b) provide for the court to make orders of various kinds, or to respond in various other ways, if a dispute over contravention of a parenting order is not resolved by the parties themselves:
-    
-    *   (c) make it an offence for a party to the parenting order to intentionally---
-            
-        *   (i) contravene the order; or
-        
-        *   (ii) prevent compliance with the order:
-        
-        
-    
-    *   (d) make it an offence to knowingly resist or obstruct the execution of---
-            
-        *   (i) a warrant to enforce the role of providing day-to-day care for, or an order for contact with, a child; or
-        
-        *   (ii) a warrant relating to preventing removal of a child from New Zealand:
-        
-        
-    
-    *   (e) make it an offence to knowingly fail or refuse to afford immediate entrance to (all or a part of) any premises to a person executing a warrant of that kind:
-    
-    *   (f) make it an offence in certain circumstances to take or attempt to take a child out of New Zealand.
-    
-    
+    Section 63: repealed, on 31 March 2014, by [section 17][301] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 ##### 64 Guiding consideration and principles
     
-*   (1) In determining whether to make an order or to issue a warrant or to respond in another way under any of [sections 68 to 77][92], the court must (as required by [section 4][5]) consider whether the order or other response would serve the welfare and best interests of the child who is the subject of the parenting order concerned.
+*   (1) In determining whether to make an order or to issue a warrant or to respond in another way under any of [sections 68 to 77][117], the court must (as required by [section 4][5]) consider whether the order or other response would serve the welfare and best interests of the child who is the subject of the parenting order concerned.
     
-    (2) The court must, unless the circumstances are exceptional, make orders or issue warrants under any of [sections 70 to 77][94] only as a matter of last resort.
+    (2) \[Repealed\]
     
-    (3) The court may not make orders or issue warrants under any of [sections 72 to 77][96] contrary to the views of a child of or over the age of 16 years, unless the circumstances are exceptional.
+    (3) The court may not make orders or issue warrants under any of [sections 72 to 77][121] contrary to the views of a child of or over the age of 16 years, unless the circumstances are exceptional.
     
     Compare: 1968 No 63 s 23(1), (1A)
+    
+    Section 64(2): repealed, on 31 March 2014, by [section 18][302] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 ##### 65 Request for counselling
     
-*   (1) A party to a parenting order (or to an agreement of the kind described in [section 40(2)][52]) may ask a Registrar of a Family Court to arrange counselling in respect of a dispute arising from another party to the order (or to the agreement) contravening or appearing to contravene the order (or the agreement).
+*   \[Repealed\]
     
-    (2) If 2 or more guardians of a child are unable to agree on a matter concerning the exercise of their guardianship, any of them may ask a Registrar of a Family Court to arrange counselling in respect of their dispute.
+    Section 65: repealed, on 31 March 2014, by [section 19][303] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 ##### 66 Procedure for request under section 65(1) or (2)
     
-*   The following sections of the [Family Proceedings Act 1980][250] apply, with the following and all other necessary modifications, to a request under [section 65(1) or (2)][89] as if the request were one under [section 9(1)][276] of that Act by a party to a marriage, civil union, or de facto relationship for counselling in respect of the marriage, civil union, or de facto relationship:
-        
-    *   (a) [section 9(2)][276] (which requires the Registrar to whom the request is made, on the person making the request completing the prescribed form, to arrange for the matter to be referred to a counsellor):
+*   \[Repealed\]
     
-    *   (b) [section 11][277] (which relates to the procedure the counsellor must follow on being referred the matter), except that the reference in subsection (2)(a) to whether or not the parties wish to resume or continue the marriage, civil union, or de facto relationship must be read as a reference to whether or not the parties to the parenting order (or the agreement), or the 2 or more guardians, have resolved the dispute:
-    
-    *   (c) [section 12][278] (which relates to the counsellor's duties in relation to reconciliation or conciliation):
-    
-    *   (d) [section 12A][274] (which relates to the number of sessions of counselling):
-    
-    *   (e) [section 12B][275] (which relates to counselling fees and expenses).
-    
-    Section 66: amended, on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
-    
-    Section 66(b): amended, on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
+    Section 66: repealed, on 31 March 2014, by [section 19][303] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 ##### 67 Registrar may decline requests for counselling and recommend instead applications under section 68
     
-*   (1) The Registrar may decline a request under [section 65(1)][89] that relates to a parenting order if he or she considers that arranging for the matter to be referred to a counsellor is unlikely to help the parties to resolve the dispute.
+*   \[Repealed\]
     
-    (2) Without limiting the discretion in subsection (1), in exercising that discretion the Registrar must have regard to whether a party to the order has used violence (as defined in [section 3(2)][214] of the Domestic Violence Act 1995) against---
-        
-    *   (a) another party to the order; or
-    
-    *   (b) a child in the care of another party to the order; or
-    
-    *   (c) both.
-    
-    (3) In declining a request under subsection (1), the Registrar may recommend that any or all of the parties to the order make an application under [section 68][92].
-    
-    (4) This section overrides [sections 65][89] and [66][90].
+    Section 66: repealed, on 31 March 2014, by [section 19][303] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 ##### 68 Court may make certain orders or respond in other ways to contravention of parenting orders
     
@@ -2052,9 +2314,9 @@ Guardianship and care of children
         
     *   (a) admonish the party who has contravened the order:
     
-    *   (b) vary or discharge the parenting order under [section 56][77] (for example, by reducing the time during which the child is in the care of, or has contact with, the party who has contravened the order).
+    *   (b) vary or discharge the parenting order under [section 56][102] (for example, by reducing the time during which the child is in the care of, or has contact with, the party who has contravened the order).
     
-    (2) The court may (as well as, or instead of, exercising its powers under subsection (1)) consider making an order or issuing a warrant under any of [sections 70 to 77][94] if---
+    (2) The court may (as well as, or instead of, exercising its powers under subsection (1)) consider making an order or issuing a warrant under any of [sections 70 to 77][119] if---
         
     *   (a) the contravention that is the subject of the application under this section is of a serious nature; or
     
@@ -2070,19 +2332,23 @@ Guardianship and care of children
     
     
 
-##### 69 Court may require parties to attend for counselling or for hearing of application under section 68
+##### 69 Court may require parties to attend for hearing of application under section 68
     
 *   (1) On an application for the purpose or on its own initiative, the court may issue a summons requiring a person to attend at a time and place to be specified in the summons if the person fails to comply with---
         
-    *   (a) a request under [section 11(1)(b)][277] of the Family Proceedings Act 1980 (as modified and applied by [section 66(b)][90] of this Act) that the person attend before a counsellor; or
+    *   (a) \[Repealed\]
     
-    *   (b) a request under [section 68(4)(b)][92] to attend the hearing of an application under section 68\.
+    *   (b) a request under [section 68(4)(b)][117] to attend the hearing of an application under section 68\.
     
-    (2) [Section 159][279] of the Criminal Procedure Act 2011 applies to a summons under this section as if it were a witness summons issued under that section.
+    (2) [Section 159][304] of the Criminal Procedure Act 2011 applies to a summons under this section as if it were a witness summons issued under that section.
     
-    Compare: 1980 No 94 [s 17][280]
+    Compare: 1980 No 94 [s 17][305]
     
-    Section 69(2): amended, on 1 July 2013, by [section 413][281] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 69 heading: amended, on 31 March 2014, by [section 20(1)][306] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+    
+    Section 69(1)(a): repealed, on 31 March 2014, by [section 20(2)][306] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+    
+    Section 69(2): amended, on 1 July 2013, by [section 413][307] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 70 Ordering party to enter into bond
     
@@ -2096,7 +2362,7 @@ Guardianship and care of children
     
     *   (b) the conditions the breach of which may lead to some or all of that money being forfeited to the Crown; and
     
-    *   (c) that, if that money is forfeited by a direction under subsection (4), the court may, by an order under [section 71(1)][95] made at the same time as that direction, require costs incurred by another party to the parenting order to be satisfied from that money; and
+    *   (c) that, if that money is forfeited by a direction under subsection (4), the court may, by an order under [section 71(1)][120] made at the same time as that direction, require costs incurred by another party to the parenting order to be satisfied from that money; and
     
     *   (d) a date after which the bond will no longer be required (if the bond does not cease to be required earlier, because the parenting order ceases to have effect earlier).
     
@@ -2130,11 +2396,11 @@ Guardianship and care of children
     
     (2) An order under subsection (1) (the _costs order_) may require costs (being costs party A incurred and is, under the order, entitled to be reimbursed for by party B) to be satisfied from money---
         
-    *   (a) deposited in the court by party B as a bond required by an order under [section 70(1)][94]; and
+    *   (a) deposited in the court by party B as a bond required by an order under [section 70(1)][119]; and
     
-    *   (b) forfeited by a direction under [section 70(4)][94] made at the same time as the costs order is made.
+    *   (b) forfeited by a direction under [section 70(4)][119] made at the same time as the costs order is made.
     
-    (3) Nothing in this section limits [section 121][156] or [section 142][181].
+    (3) Nothing in this section limits [section 121][181] or [section 142][210].
 
 ##### 72 Warrant to enforce role of providing day-to-day care for child
     
@@ -2142,7 +2408,7 @@ Guardianship and care of children
         
     *   (a) through being a guardian (other than a testamentary guardian) whose role of providing day-to-day care for the child has not been removed by a court order; or
     
-    *   (b) under a parenting order, some other order of a New Zealand court, or an overseas parenting order registered under [section 81][110].
+    *   (b) under a parenting order, some other order of a New Zealand court, or an overseas parenting order registered under [section 81][135].
     
     (2) On an application for the purpose by an eligible person, a Family Court or a District Court may issue a warrant authorising a constable or a social worker or any other person named in the warrant to take the child (using reasonable force if necessary) and to deliver the child---
         
@@ -2158,11 +2424,11 @@ Guardianship and care of children
     
     Compare: 1968 No 63 s 19(1), (5)
     
-    Section 72(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][282] of the Policing Act 2008 (2008 No 72).
+    Section 72(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][308] of the Policing Act 2008 (2008 No 72).
 
 ##### 73 Warrant to enforce order for contact with child
     
-*   (1) In this section, _eligible person_, in relation to a child, means a person who, at the time of the application, is entitled to have direct contact with the child under a parenting order, an order for supervised contact, or an overseas parenting order registered under [section 81][110].
+*   (1) In this section, _eligible person_, in relation to a child, means a person who, at the time of the application, is entitled to have direct contact with the child under a parenting order, an order for supervised contact, or an overseas parenting order registered under [section 81][135].
     
     (2) On an application for the purpose by an eligible person, a Family Court or a District Court may issue a warrant authorising a constable or a social worker or any other person named in the warrant to take the child (using reasonable force if necessary) and to deliver the child---
         
@@ -2172,27 +2438,27 @@ Guardianship and care of children
     
     Compare: 1968 No 63 s 19(2)
     
-    Section 73(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][282] of the Policing Act 2008 (2008 No 72).
+    Section 73(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][308] of the Policing Act 2008 (2008 No 72).
 
 ##### 74 Further provisions about warrants
     
-*   (1) The court may issue a warrant under [section 72][96] or [section 73][97] either on or after making a parenting order or an order for supervised contact.
+*   (1) The court may issue a warrant under [section 72][121] or [section 73][122] either on or after making a parenting order or an order for supervised contact.
     
-    (2) Neither [section 72][96] nor [section 73][97] affects any other power---
+    (2) Neither [section 72][121] nor [section 73][122] affects any other power---
         
     *   (a) to enforce the role of providing day-to-day care for, or an order for contact with, a child; and
     
     *   (b) that was exercisable by a court immediately before the commencement, on 1 January 1970, of the Guardianship Act 1968\.
     
-    (3) If a Family Court declines under [section 72][96] or [section 73][97] or in the exercise of a power to which subsection (2) relates to enforce the role of providing day-to-day care for, or an order for contact with, a child, it may, on its own initiative but subject to [section 83(2) and (3)][112], vary or discharge any existing order relating to that role or contact accordingly.
+    (3) If a Family Court declines under [section 72][121] or [section 73][122] or in the exercise of a power to which subsection (2) relates to enforce the role of providing day-to-day care for, or an order for contact with, a child, it may, on its own initiative but subject to [section 83(2) and (3)][137], vary or discharge any existing order relating to that role or contact accordingly.
     
     Compare: 1968 No 63 ss 19(3), (6), 19A
 
 ##### 75 Execution of warrants
     
-*   (1) For the purpose of executing a warrant issued under [section 72][96] or [section 73][97], a constable or a social worker or any other person named in the warrant may enter and search any building, aircraft, ship, vehicle, premises, or place, with or without assistance, and by force if necessary.
+*   (1) For the purpose of executing a warrant issued under [section 72][121] or [section 73][122], a constable or a social worker or any other person named in the warrant may enter and search any building, aircraft, ship, vehicle, premises, or place, with or without assistance, and by force if necessary.
     
-    (2) The constable, social worker, or other person executing the warrant under [section 72][96] or [section 73][97]---
+    (2) The constable, social worker, or other person executing the warrant under [section 72][121] or [section 73][122]---
         
     *   (a) must have that warrant with him or her; and
     
@@ -2208,17 +2474,17 @@ Guardianship and care of children
     
     Compare: 1968 No 63 s 19B(1), (2)
     
-    Section 75(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][282] of the Policing Act 2008 (2008 No 72).
+    Section 75(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][308] of the Policing Act 2008 (2008 No 72).
     
-    Section 75(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][282] of the Policing Act 2008 (2008 No 72).
+    Section 75(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][308] of the Policing Act 2008 (2008 No 72).
     
-    Section 75(2)(d): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][282] of the Policing Act 2008 (2008 No 72).
+    Section 75(2)(d): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][308] of the Policing Act 2008 (2008 No 72).
     
-    Section 75(2)(f): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][282] of the Policing Act 2008 (2008 No 72).
+    Section 75(2)(f): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][308] of the Policing Act 2008 (2008 No 72).
 
 ##### 76 Authority to use faxed copy of warrant
     
-*   (1) An authority (as defined in [section 77(1)][101]) may authorise the use, for the purpose of executing the warrant, of a faxed copy of a warrant issued under [section 72][96] or [73][97] or 77\.
+*   (1) An authority (as defined in [section 77(1)][126]) may authorise the use, for the purpose of executing the warrant, of a faxed copy of a warrant issued under [section 72][121] or [73][122] or 77\.
     
     (2) However, no authorisation may be granted under subsection (1) in relation to a warrant unless the authority is satisfied, having regard to the circumstances of the case, that any delay in executing the warrant that may be caused if a faxed copy is not able to be used for that purpose would or might unduly prejudice the purpose for which the warrant was issued.
     
@@ -2234,29 +2500,29 @@ Guardianship and care of children
     
     *   (b) the date and time at which the authorisation expires, which must be the close of the third day after the day on which the authorisation is granted.
     
-    (5) A faxed copy of a warrant in respect of which an authorisation granted under this section is in force must, for all purposes, be treated as if it were the warrant, and the provisions of this Act (for example, [sections 75][99] and [79][106]) apply accordingly with all necessary modifications.
+    (5) A faxed copy of a warrant in respect of which an authorisation granted under this section is in force must, for all purposes, be treated as if it were the warrant, and the provisions of this Act (for example, [sections 75][124] and [79][131]) apply accordingly with all necessary modifications.
     
-    (6) Without limiting any other enactment or rule of law, [section 44][283] of the Policing Act 2008 (which relates to protection of Police employees for acts pursuant to process) applies in relation to a faxed copy of a warrant in respect of which an authorisation granted under this section is in force as if that faxed copy were the warrant.
+    (6) Without limiting any other enactment or rule of law, [section 44][309] of the Policing Act 2008 (which relates to protection of Police employees for acts pursuant to process) applies in relation to a faxed copy of a warrant in respect of which an authorisation granted under this section is in force as if that faxed copy were the warrant.
     
     (7) Subsection (6) is for the avoidance of doubt.
     
     Compare: 1968 No 63 s 19C
     
-    Section 76(1): substituted, on 20 September 2007, by [section 4(1)][284] of the Care of Children Amendment Act 2007 (2007 No 44).
+    Section 76(1): substituted, on 20 September 2007, by [section 4(1)][310] of the Care of Children Amendment Act 2007 (2007 No 44).
     
-    Section 76(3): substituted, on 20 September 2007, by [section 4(2)][284] of the Care of Children Amendment Act 2007 (2007 No 44).
+    Section 76(3): substituted, on 20 September 2007, by [section 4(2)][310] of the Care of Children Amendment Act 2007 (2007 No 44).
     
-    Section 76(6): amended, on 1 October 2008, by [section 130(1)][285] of the Policing Act 2008 (2008 No 72).
+    Section 76(6): amended, on 1 October 2008, by [section 130(1)][311] of the Policing Act 2008 (2008 No 72).
 
 ##### 77 Preventing removal of child from New Zealand
     
-*   (1) In this section and [section 76][100], _authority_ means a High Court Judge or District Court Judge or Family Court Judge or, if no High Court Judge or District Court Judge or Family Court Judge is available, any Registrar of the High Court or of a District Court (not being a constable).
+*   (1) In this section and [section 76][125], _authority_ means a High Court Judge or District Court Judge or Family Court Judge or, if no High Court Judge or District Court Judge or Family Court Judge is available, any Registrar of the High Court or of a District Court (not being a constable).
     
     (2) An authority may, on an application for the purpose by any person, exercise the powers stated in subsection (3) if the authority believes on reasonable grounds that a person may take a child out of New Zealand with intent to, or in circumstances where the taking of the child out of New Zealand would be likely to,---
         
     *   (a) defeat the claim of a person who has applied for, or is about to apply for, the role of providing day-to-day care for, or an order for contact with, the child; or
     
-    *   (b) prevent any order of any court (including an order registered under [section 81][110]) about the role of providing day-to-day care for, or about contact with, the child from being complied with.
+    *   (b) prevent any order of any court (including an order registered under [section 81][135]) about the role of providing day-to-day care for, or about contact with, the child from being complied with.
     
     (3) In the situation stated in subsection (2), the authority---
         
@@ -2278,7 +2544,7 @@ Guardianship and care of children
     
     *   (b) a further order is made by an authority.
     
-    (4) [Sections 75][99] and [79][106] apply, with all necessary modifications, to every warrant under subsection (3)(a) as if every warrant of that kind were a warrant under [section 72][96] or [section 73][97].
+    (4) [Sections 75][124] and [79][131] apply, with all necessary modifications, to every warrant under subsection (3)(a) as if every warrant of that kind were a warrant under [section 72][121] or [section 73][122].
     
     (5) A person against whom an order under subsection (3)(b) or (c) is in force may apply to the authority for the discharge of the order, and the authority may, if it thinks fit, discharge the order accordingly.
     
@@ -2286,67 +2552,85 @@ Guardianship and care of children
     
     Compare: 1968 No 63 s 20(1)--(2), (4)
     
-    Section 77(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][282] of the Policing Act 2008 (2008 No 72).
+    Section 77(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][308] of the Policing Act 2008 (2008 No 72).
     
-    Section 77(2): amended, on 16 November 2011, by [section 13(1)][286] of the Care of Children Amendment Act 2011 (2011 No 59).
+    Section 77(2): amended, on 16 November 2011, by [section 13(1)][312] of the Care of Children Amendment Act 2011 (2011 No 59).
     
-    Section 77(3)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][282] of the Policing Act 2008 (2008 No 72).
+    Section 77(3)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][308] of the Policing Act 2008 (2008 No 72).
     
-    Section 77(3)(c): substituted, on 16 November 2011, by [section 13(2)][286] of the Care of Children Amendment Act 2011 (2011 No 59).
+    Section 77(3)(c): substituted, on 16 November 2011, by [section 13(2)][312] of the Care of Children Amendment Act 2011 (2011 No 59).
     
-    Section 77(3A): inserted, on 16 November 2011, by [section 13(3)][286] of the Care of Children Amendment Act 2011 (2011 No 59).
+    Section 77(3A): inserted, on 16 November 2011, by [section 13(3)][312] of the Care of Children Amendment Act 2011 (2011 No 59).
 
 ##### 77A Orders under section 77(3)(c) in respect of children of or over 16 years
     
-*   (1) An order under [section 77(3)(c)][101] must not be made in respect of a child of or over the age of 16 years unless there are special circumstances.
+*   (1) An order under [section 77(3)(c)][126] must not be made in respect of a child of or over the age of 16 years unless there are special circumstances.
     
-    (2) An order under [section 77(3)(c)][101] made in respect of a child under the age of 16 years expires when the child attains that age unless the court in special circumstances orders otherwise on or after making the order.
+    (2) An order under [section 77(3)(c)][126] made in respect of a child under the age of 16 years expires when the child attains that age unless the court in special circumstances orders otherwise on or after making the order.
     
-    Section 77A: inserted, on 16 November 2011, by [section 14][287] of the Care of Children Amendment Act 2011 (2011 No 59).
+    Section 77A: inserted, on 16 November 2011, by [section 14][313] of the Care of Children Amendment Act 2011 (2011 No 59).
 
 ##### 77B Orders under section 77(3)(c) may be suspended for specified period
     
-*   (1) On an application for the purpose by any person, a High Court Judge, a District Court Judge, or a Family Court Judge may suspend an order made under [section 77(3)(c)][101].
+*   (1) On an application for the purpose by any person, a High Court Judge, a District Court Judge, or a Family Court Judge may suspend an order made under [section 77(3)(c)][126].
     
-    (2) On an application for the purpose, a Registrar of the High Court, or of a District Court, may suspend an order made under [section 77(3)(c)][101] if---
+    (2) On an application for the purpose, a Registrar of the High Court, or of a District Court, may suspend an order made under [section 77(3)(c)][126] if---
         
-    *   (a) the application is made by a party to the proceedings under [section 77][101] in which the order was made (the **earlier proceedings**); and
+    *   (a) the application is made by a party to the proceedings under [section 77][126] in which the order was made (the **earlier proceedings**); and
     
     *   (b) every other person who was a party to the earlier proceedings consents.
     
-    (3) A suspension of an order made under [section 77(3)(c)][101] must be---
+    (3) A suspension of an order made under [section 77(3)(c)][126] must be---
         
     *   (a) for a specified time; and
     
     *   (b) in relation to a specified person.
     
-    Section 77B: inserted, on 16 November 2011, by [section 14][287] of the Care of Children Amendment Act 2011 (2011 No 59).
+    Section 77B: inserted, on 16 November 2011, by [section 14][313] of the Care of Children Amendment Act 2011 (2011 No 59).
 
 #### Offences
 
-##### 78 Contravening parenting order
+##### 78 Contravening parenting or guardianship order
     
-*   (1) Every person commits an offence and is liable on conviction to the penalty stated in subsection (2) who, without reasonable excuse and with intent to prevent a parenting order from being complied with, contravenes, or prevents compliance with, the parenting order.
+*   (1) A person commits an offence who, without reasonable excuse, intentionally---
+        
+    *   (a) contravenes---
+            
+        *   (i) a parenting order; or
+        
+        *   (ii) a guardianship order made under [section 40][55] or [46R][86]; or
+        
+        
     
-    (2) The penalty is imprisonment for a term not exceeding 3 months, or a fine not exceeding $2,500\.
+    *   (b) prevents compliance with---
+            
+        *   (i) a parenting order; or
+        
+        *   (ii) a guardianship order made under [section 40][55] or [46R][86].
+        
+        
+    
+    (2) A person who commits an offence under subsection (1) is liable on conviction to---
+        
+    *   (a) a term of imprisonment not exceeding 3 months; or
+    
+    *   (b) a fine not exceeding $2,500\.
     
     (3) Nothing in this section limits the power of a court to punish a person for contempt of court.
     
-    Compare: 1968 No 63 s 20A
-    
-    Section 78(1): amended, on 1 July 2013, by [section 413][281] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 78: replaced, on 31 March 2014, by [section 21][314] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 ##### 79 Resisting execution of warrant
     
 *   Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months, or a fine not exceeding $2,500 who---
         
-    *   (a) knowingly resists or obstructs any person executing a warrant under [section 72][96] or [section 73][97] or [section 77][101]; or
+    *   (a) knowingly resists or obstructs any person executing a warrant under [section 72][121] or [section 73][122] or [section 77][126]; or
     
-    *   (b) knowingly fails or refuses to afford immediate entrance to (all or a part of) any premises to any person executing a warrant under [section 72][96] or [section 73][97] or [section 77][101].
+    *   (b) knowingly fails or refuses to afford immediate entrance to (all or a part of) any premises to any person executing a warrant under [section 72][121] or [section 73][122] or [section 77][126].
     
     Compare: 1968 No 63 s 19B(3)
     
-    Section 79: amended, on 1 July 2013, by [section 413][281] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 79: amended, on 1 July 2013, by [section 413][307] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 80 Taking child from New Zealand
     
@@ -2354,13 +2638,13 @@ Guardianship and care of children
         
     *   (a) knowing that proceedings are pending or are about to be commenced under this Act in respect of the child; or
     
-    *   (b) knowing that there is in force an order of a court (including an order registered under [section 81][110]) giving any other person the role of providing day-to-day care for, or contact with, the child; or
+    *   (b) knowing that there is in force an order of a court (including an order registered under [section 81][135]) giving any other person the role of providing day-to-day care for, or contact with, the child; or
     
-    *   (c) with intent to prevent an order of a court (including an order registered under [section 81][110]) about the role of providing day-to-day care for, or about contact with, the child, from being complied with.
+    *   (c) with intent to prevent an order of a court (including an order registered under [section 81][135]) about the role of providing day-to-day care for, or about contact with, the child, from being complied with.
     
     Compare: 1968 No 63 s 20(3)
     
-    Section 80: amended, on 1 July 2013, by [section 413][281] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 80: amended, on 1 July 2013, by [section 413][307] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ### Subpart 3---Enforcing orders internationally
 
@@ -2398,33 +2682,33 @@ Guardianship and care of children
 
 ##### 82 Effect of registration
     
-*   (1) If an overseas parenting order is registered in a court under [section 81][110], then, so long as the registration is not cancelled, the order may be enforced, varied, or discharged as if it were an order made by that court under this Act.
+*   (1) If an overseas parenting order is registered in a court under [section 81][135], then, so long as the registration is not cancelled, the order may be enforced, varied, or discharged as if it were an order made by that court under this Act.
     
-    (2) This section is subject to [sections 83][112] and [85(1)][114].
+    (2) This section is subject to [sections 83][137] and [85(1)][139].
     
     Compare: 1968 No 63 s 22B
 
 ##### 83 Exercise of jurisdiction in respect of child subject to registered overseas parenting order
     
-*   (1) If an overseas parenting order is registered in New Zealand under [section 81][110] and that order relates to the role of providing day-to-day care for a child, or to having contact with a child, or to both of those matters, no court in New Zealand (other than in proceedings under any of [sections 72 to 76][96]) may, in respect of any matter determined by the overseas parenting order, exercise jurisdiction in relation to the child who is the subject of the order unless---
+*   (1) If an overseas parenting order is registered in New Zealand under [section 81][135] and that order relates to the role of providing day-to-day care for a child, or to having contact with a child, or to both of those matters, no court in New Zealand (other than in proceedings under any of [sections 72 to 76][121]) may, in respect of any matter determined by the overseas parenting order, exercise jurisdiction in relation to the child who is the subject of the order unless---
         
     *   (a) every person having the role of providing day-to-day care for, or who may have contact with, the child, under the overseas parenting order consents to the exercise of jurisdiction by the court in the proceedings; or
     
     *   (b) the court is satisfied that there are substantial grounds for believing that the welfare and best interests of the child will be adversely affected if the court does not exercise jurisdiction in the proceedings.
     
-    (2) If a court in New Zealand exercises jurisdiction in proceedings relating to the role of providing day-to-day care for, or relating to having contact with, a child who is the subject of an overseas parenting order that is registered in New Zealand under [section 81][110], the court must not make an order about the role of providing day-to-day care for, or about contact with, the child unless the person who commenced the proceedings satisfies the court---
+    (2) If a court in New Zealand exercises jurisdiction in proceedings relating to the role of providing day-to-day care for, or relating to having contact with, a child who is the subject of an overseas parenting order that is registered in New Zealand under [section 81][135], the court must not make an order about the role of providing day-to-day care for, or about contact with, the child unless the person who commenced the proceedings satisfies the court---
         
     *   (a) that the child's welfare and best interests are likely to be adversely affected if the order is not made; or
     
     *   (b) that there has been such a change in the child's circumstances that the order ought to be made.
     
-    (3) If a court in New Zealand exercises jurisdiction in proceedings relating to the role of providing day-to-day care for, or relating to having contact with, a child, and does so without notice of the existence of an overseas parenting order relating to that child and that is registered in New Zealand under [section 81][110], any order made by the court on or after the date of the registration of the overseas parenting order and that is in respect of any matter determined by the overseas parenting order is of no effect.
+    (3) If a court in New Zealand exercises jurisdiction in proceedings relating to the role of providing day-to-day care for, or relating to having contact with, a child, and does so without notice of the existence of an overseas parenting order relating to that child and that is registered in New Zealand under [section 81][135], any order made by the court on or after the date of the registration of the overseas parenting order and that is in respect of any matter determined by the overseas parenting order is of no effect.
     
     Compare: 1968 No 63 s 22C
 
 ##### 84 Variation or discharge of registered overseas parenting order
     
-*   (1) If a court exercising jurisdiction under [sections 56][77] and [82][111] makes an order varying or discharging an overseas parenting order, the Registrar of the court exercising that jurisdiction---
+*   (1) If a court exercising jurisdiction under [sections 56][102] and [82][136] makes an order varying or discharging an overseas parenting order, the Registrar of the court exercising that jurisdiction---
         
     *   (a) must forward to the court, or to the appropriate authority, in the prescribed overseas country---
             
@@ -2442,7 +2726,7 @@ Guardianship and care of children
 
 ##### 85 Registered overseas parenting orders not to be enforced in certain circumstances
     
-*   (1) A court must not enforce an overseas parenting order under [section 72][96] or [section 73][97], and must not exercise jurisdiction in respect of the order under [sections 56][77] and [82][111], if the court is satisfied that the order---
+*   (1) A court must not enforce an overseas parenting order under [section 72][121] or [section 73][122], and must not exercise jurisdiction in respect of the order under [sections 56][102] and [82][136], if the court is satisfied that the order---
         
     *   (a) was not, at the time of its registration in New Zealand, enforceable in the country in which it was made; or
     
@@ -2452,7 +2736,7 @@ Guardianship and care of children
         
     *   (a) documentary evidence the Registrar has received; or
     
-    *   (b) the refusal of a New Zealand court, on the grounds stated in subsection (1), to enforce the order under [section 72][96] or [section 73][97], or to exercise jurisdiction under [sections 56][77] and [82][111] in respect of the order.
+    *   (b) the refusal of a New Zealand court, on the grounds stated in subsection (1), to enforce the order under [section 72][121] or [section 73][122], or to exercise jurisdiction under [sections 56][102] and [82][136] in respect of the order.
     
     (3) For the purposes of subsection (1), an overseas parenting order is not unenforceable in the country in which it was made just because the child to whom the order relates or any other person affected by the order is no longer in that country.
     
@@ -2460,13 +2744,13 @@ Guardianship and care of children
 
 ##### 86 Evidence of orders made in overseas countries
     
-*   Nothing in [section 81][110] prevents a court from receiving evidence of an order made in an overseas country (whether or not that country is a prescribed overseas country) and relating to the role of providing day-to-day care for, or relating to contact with, a child.
+*   Nothing in [section 81][135] prevents a court from receiving evidence of an order made in an overseas country (whether or not that country is a prescribed overseas country) and relating to the role of providing day-to-day care for, or relating to contact with, a child.
     
     Compare: 1968 No 63 s 22F
 
 ##### 87 Costs of returning child: order for payment when warrant issued under section 72
     
-*   (1) This section applies to a court if, for the purpose of enforcing the role, conferred by an overseas parenting order that is registered in New Zealand, of providing day-to-day care for a child, the court issues, or has issued, in relation to any child, a warrant under [section 72][96].
+*   (1) This section applies to a court if, for the purpose of enforcing the role, conferred by an overseas parenting order that is registered in New Zealand, of providing day-to-day care for a child, the court issues, or has issued, in relation to any child, a warrant under [section 72][121].
     
     (2) The court may, if it thinks just, make, against any person who has knowingly abducted the child, or who is deliberately holding the child, in contravention of the overseas parenting order, an order for the payment of some or all of the costs of returning the child to the person who, under the overseas parenting order, has the role of providing day-to-day care for the child.
     
@@ -2476,29 +2760,29 @@ Guardianship and care of children
 
 ##### 88 Evidence
     
-*   If an application under either [sections 56][77] and [81][110] or [section 87][116] is heard in a District Court,---
+*   If an application under either [sections 56][102] and [81][135] or [section 87][141] is heard in a District Court,---
         
     *   (a) the evidence of a person beyond New Zealand may be taken in accordance with the rules of the High Court covering the examination of witnesses beyond New Zealand; and
     
-    *   (b) the [High Court Rules][288], as far as they are applicable and with all necessary modifications, apply accordingly.
+    *   (b) the [High Court Rules][315], as far as they are applicable and with all necessary modifications, apply accordingly.
     
     Compare: 1968 No 63 s 22H
 
 ##### 89 Proof of documents
     
-*   (1) For the purposes of [sections 72 to 76][96] and [sections 81 to 88][110],---
+*   (1) For the purposes of [sections 72 to 76][121] and [sections 81 to 88][135],---
         
     *   (a) a document purporting to be signed by a Judge, District Court Judge, or officer of a court in a prescribed overseas country must, unless the contrary is proved, be treated as having been so signed without proof of the signature, or judicial or official character, of the person appearing to have signed it; and
     
     *   (b) the officer of a court by whom a document purports to be signed must, unless the contrary is proved, be treated as having been the proper officer of the court to sign the document.
     
-    (2) A document purporting to be signed, certified, or verified by a person in subsection (1) must be admitted in evidence in proceedings for the purposes of [sections 72 to 76][96] or [sections 81 to 88][110] if it appears to be relevant to those proceedings.
+    (2) A document purporting to be signed, certified, or verified by a person in subsection (1) must be admitted in evidence in proceedings for the purposes of [sections 72 to 76][121] or [sections 81 to 88][135] if it appears to be relevant to those proceedings.
     
     Compare: 1968 No 63 s 22I
 
 ##### 90 Depositions to be evidence
     
-*   Depositions taken for the purposes of any of [sections 72 to 76][96] or [sections 81 to 87][110] in a court in any prescribed overseas country may be received in evidence in proceedings for the purposes of any of [sections 72 to 76][96] or [sections 81 to 87][110].
+*   Depositions taken for the purposes of any of [sections 72 to 76][121] or [sections 81 to 87][135] in a court in any prescribed overseas country may be received in evidence in proceedings for the purposes of any of [sections 72 to 76][121] or [sections 81 to 87][135].
     
     Compare: 1968 No 63 s 22J
 
@@ -2522,11 +2806,11 @@ Guardianship and care of children
         
     *   (a) made by a court in New Zealand and about the role of providing day-to-day care for, or about contact with, a child; and
     
-    *   (b) that may be enforced in a particular prescribed overseas country under provisions corresponding to [sections 81][110] and [82][111].
+    *   (b) that may be enforced in a particular prescribed overseas country under provisions corresponding to [sections 81][135] and [82][136].
     
-    (2) The Registrar of the court in which the order was made, or last varied, or filed in accordance with [section 127][165], must send to the Secretary for transmission to an appropriate court or authority in that particular prescribed overseas country the information specified in subsection (3) if---
+    (2) The Registrar of the court in which the order was made, or last varied, or filed in accordance with [section 127][190], must send to the Secretary for transmission to an appropriate court or authority in that particular prescribed overseas country the information specified in subsection (3) if---
         
-    *   (a) that Registrar is requested to do so in accordance with [section 93][123]; and
+    *   (a) that Registrar is requested to do so in accordance with [section 93][148]; and
     
     *   (b) the request is made in writing by, or on behalf of, a person who, under the order, has the role of providing day-to-day care for, or may have contact with, the child.
     
@@ -2542,7 +2826,7 @@ Guardianship and care of children
     
     *   (e) any other documents and information that the Registrar believes are necessary for securing the enforcement of the order in that prescribed overseas country.
     
-    (4) If a court in a prescribed overseas country has made an order in proceedings about the role of providing day-to-day care for, or about having contact with, a child, being proceedings to which a provision corresponding to [section 83(1) and (2)][112] applies, a court in New Zealand---
+    (4) If a court in a prescribed overseas country has made an order in proceedings about the role of providing day-to-day care for, or about having contact with, a child, being proceedings to which a provision corresponding to [section 83(1) and (2)][137] applies, a court in New Zealand---
         
     *   (a) may treat the order as if it were an overseas parenting order registered in New Zealand; and
     
@@ -2566,7 +2850,7 @@ Guardianship and care of children
 
 ##### 93 Restrictions on right to make request under section 92
     
-*   (1) A request may not be made to the Registrar under [section 92][122] in respect of an order about the role of providing day-to-day care for, or about contact with, a child unless,---
+*   (1) A request may not be made to the Registrar under [section 92][147] in respect of an order about the role of providing day-to-day care for, or about contact with, a child unless,---
         
     *   (a) in the case of a request made by, or on behalf of, a person who, under the order, has the role of providing day-to-day care for the child, the person by whom or on whose behalf the request is made---
             
@@ -2578,7 +2862,7 @@ Guardianship and care of children
     
     *   (b) in the case of a request made by, or on behalf of, a person who, under the order, may have contact with the child, the person by whom or on whose behalf the request is made believes, on reasonable grounds, that it is necessary to register the order in a prescribed overseas country in order to ensure that the order may be enforced in that country.
     
-    (2) If a request is made to the Registrar under [section 92][122],---
+    (2) If a request is made to the Registrar under [section 92][147],---
         
     *   (a) the Registrar may require the person by whom or on whose behalf the request is made to supply to the Registrar any evidence in support of that request that may be necessary to enable the Registrar to determine whether or not the requirements of this section, as they relate to the making of that request, are met; and
     
@@ -2606,17 +2890,17 @@ Guardianship and care of children
     
 *   In this subpart, unless the context otherwise requires,---
     
-    _applicant_ means a person by whom or on whose behalf an application has been made under [section 102][135] or, as the case requires, [section 103][136] or [section 105][138] or [section 112][146] or [section 113][147]
+    _applicant_ means a person by whom or on whose behalf an application has been made under [section 102][160] or, as the case requires, [section 103][161] or [section 105][163] or [section 112][171] or [section 113][172]
     
-    _Authority_ means the Central Authority for New Zealand designated by [section 100(1)][132]
+    _Authority_ means the Central Authority for New Zealand designated by [section 100(1)][157]
     
     _Central Authority_ has the meaning it has in the Convention
     
     _child_ means a person under the age of 16 years
     
-    _Contracting State_ means a country that, under [section 98][130], is a Contracting State
+    _Contracting State_ means a country that, under [section 98][155], is a Contracting State
     
-    _Convention_ means the Convention on the Civil Aspects of International Child Abduction signed at The Hague on 25 October 1980, a copy of which is set out in [Schedule 1][209]
+    _Convention_ means the Convention on the Civil Aspects of International Child Abduction signed at The Hague on 25 October 1980, a copy of which is set out in [Schedule 1][240]
     
     _habitual residence_, in relation to a Contracting State that in matters relating to the custody of children has 2 or more systems of law applicable in different territorial units, means habitual residence in a territorial unit of that State
     
@@ -2636,7 +2920,7 @@ Guardianship and care of children
     
     *   (b) the right to take a child for a limited period of time to a place other than the child's habitual residence (for example, under an order for contact made under this Act)
     
-    _rights of custody_ has the meaning given to it by [section 97][129]
+    _rights of custody_ has the meaning given to it by [section 97][154]
     
     _United Nations International Covenants on Human Rights_ means the following, adopted by the General Assembly of the United Nations on 16 December 1966:
         
@@ -2698,7 +2982,7 @@ Guardianship and care of children
     
     (2) Every Family Court and every District Court has the jurisdiction, and has and may exercise the powers, that is or are reasonably necessary or expedient to enable the court to carry out its functions and duties under the Convention.
     
-    (3) Subsection (2) is subject to this subpart and to any rules made under [section 146(4)][186].
+    (3) Subsection (2) is subject to this subpart and to any rules made under [section 146(4)][215].
     
     Compare: 1991 No 19 s 8
 
@@ -2716,11 +3000,13 @@ Guardianship and care of children
     
     *   (d) that the child was habitually resident in New Zealand immediately before the removal.
     
-    (2) Every application under subsection (1) must be in the form prescribed by rules made under, or referred to in, [section 146][186].
+    (2) Every application under subsection (1) must be in a form approved by the Secretary.
     
     (3) If the Authority is satisfied that an application made under subsection (1) is in accordance with the requirements of the Convention, the Authority must take on behalf of the applicant any action required to be taken by the Authority under the Convention.
     
     Compare: 1991 No 19 s 9
+    
+    Section 102(2): replaced, on 31 March 2014, by [section 22][316] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 ##### 103 Child abducted to New Zealand
     
@@ -2734,7 +3020,7 @@ Guardianship and care of children
     
     *   (d) that the child was habitually resident in that other Contracting State immediately before the removal.
     
-    (2) Subsection (1) is subject to [sections 104][137] and [123][159].
+    (2) Subsection (1) is subject to [sections 104][162] and [123][184].
     
     (3) In particular, the Authority must take or cause to be taken all appropriate measures---
         
@@ -2744,7 +3030,7 @@ Guardianship and care of children
     
     *   (c) to secure the voluntary return of the child to that other Contracting State, or to bring about an amicable resolution of the issues; and
     
-    *   (d) to facilitate the making of an application under [section 105][138] by, or on behalf of, the applicant.
+    *   (d) to facilitate the making of an application under [section 105][163] by, or on behalf of, the applicant.
     
     Compare: 1991 No 19 s 10
 
@@ -2752,7 +3038,7 @@ Guardianship and care of children
     
 *   (1) The Authority may return the application concerned to the applicant or the Central Authority by which it was transmitted, and may request that the information or documents concerned be made available, if---
         
-    *   (a) an application to which [section 103(1)][136] applies is received by the Authority; and
+    *   (a) an application to which [section 103(1)][161] applies is received by the Authority; and
     
     *   (b) the application---
             
@@ -2794,7 +3080,7 @@ Guardianship and care of children
     
     *   (d) that the child was habitually resident in that other Contracting State immediately before the removal.
     
-    (2) Subject to [section 106][139], a court must make an order that the child in respect of whom the application is made be returned promptly to the person or country specified in the order if---
+    (2) Subject to [section 106][164], a court must make an order that the child in respect of whom the application is made be returned promptly to the person or country specified in the order if---
         
     *   (a) an application under subsection (1) is made to the court; and
     
@@ -2812,7 +3098,7 @@ Guardianship and care of children
 
 ##### 106 Grounds for refusal of order for return of child
     
-*   (1) If an application under [section 105(1)][138] is made to a court in relation to the removal of a child from a Contracting State to New Zealand, the court may refuse to make an order under section 105(2) for the return of the child if any person who opposes the making of the order establishes to the satisfaction of the court---
+*   (1) If an application under [section 105(1)][163] is made to a court in relation to the removal of a child from a Contracting State to New Zealand, the court may refuse to make an order under section 105(2) for the return of the child if any person who opposes the making of the order establishes to the satisfaction of the court---
         
     *   (a) that the application was made more than 1 year after the removal of the child, and the child is now settled in his or her new environment; or
     
@@ -2832,31 +3118,31 @@ Guardianship and care of children
         
         
     
-    *   (d) that the child objects to being returned and has attained an age and degree of maturity at which it is appropriate, in addition to taking them into account in accordance with [section 6(2)(b)][7], also to give weight to the child's views; or
+    *   (d) that the child objects to being returned and has attained an age and degree of maturity at which it is appropriate, in addition to taking them into account in accordance with [section 6(2)(b)][8], also to give weight to the child's views; or
     
     *   (e) that the return of the child is not permitted by the fundamental principles of New Zealand law relating to the protection of human rights and fundamental freedoms.
     
-    (2) In determining whether subsection (1)(e) applies in respect of an application made under [section 105(1)][138] in respect of a child, the court may consider, among other things,---
+    (2) In determining whether subsection (1)(e) applies in respect of an application made under [section 105(1)][163] in respect of a child, the court may consider, among other things,---
         
     *   (a) whether the return of the child would be inconsistent with any rights that the child, or any other person, has under the law of New Zealand relating to refugees or protected persons:
     
     *   (b) whether the return of the child would be likely to result in discrimination against the child or any other person on any of the grounds on which discrimination is not permitted by the United Nations International Covenants on Human Rights.
     
-    (3) On hearing an application made under [section 105(1)][138] in respect of a child, a court must not refuse to make an order under section 105(2) in respect of the child just because there is in force or enforceable in New Zealand an order about the role of providing day-to-day care for that child, but the court may have regard to the reasons for the making of that order.
+    (3) On hearing an application made under [section 105(1)][163] in respect of a child, a court must not refuse to make an order under section 105(2) in respect of the child just because there is in force or enforceable in New Zealand an order about the role of providing day-to-day care for that child, but the court may have regard to the reasons for the making of that order.
     
     Compare: 1991 No 19 s 13
     
-    Section 106(1): amended, on 20 September 2007, by [section 5(1)][289] of the Care of Children Amendment Act 2007 (2007 No 44).
+    Section 106(1): amended, on 20 September 2007, by [section 5(1)][317] of the Care of Children Amendment Act 2007 (2007 No 44).
     
-    Section 106(1)(d): amended, on 20 September 2007, by [section 5(2)][289] of the Care of Children Amendment Act 2007 (2007 No 44).
+    Section 106(1)(d): amended, on 20 September 2007, by [section 5(2)][317] of the Care of Children Amendment Act 2007 (2007 No 44).
     
-    Section 106(2)(a): amended, at 2 am on 29 November 2010, by [section 406(1)][290] of the Immigration Act 2009 (2009 No 51).
+    Section 106(2)(a): amended, at 2 am on 29 November 2010, by [section 406(1)][318] of the Immigration Act 2009 (2009 No 51).
 
 ##### 107 Applications to be dealt with speedily
     
-*   (1) A court to which an application under [section 105(1)][138] is made must, so far as practicable, give priority to the proceedings in order to ensure that they are dealt with speedily.
+*   (1) A court to which an application under [section 105(1)][163] is made must, so far as practicable, give priority to the proceedings in order to ensure that they are dealt with speedily.
     
-    (2) Subsection (3) applies to an application made to a court under [section 105(1)][138] in respect of a child if the application is not determined within the period of 6 weeks commencing on the date on which the application is made.
+    (2) Subsection (3) applies to an application made to a court under [section 105(1)][163] in respect of a child if the application is not determined within the period of 6 weeks commencing on the date on which the application is made.
     
     (3) The Authority may, and must if requested by the applicant or the Central Authority of the Contracting State from which the child was removed, request the Registrar of the court to supply a statement of the reasons why the application has not been determined within that period, and the Registrar must, as soon as practicable, supply the statement to the Authority.
     
@@ -2866,25 +3152,25 @@ Guardianship and care of children
 
 ##### 108 Interim powers
     
-*   A court to which an application under [section 105(1)][138] is made may, at any time before the application is determined, give any interim directions it thinks fit for the purpose of securing the welfare and best interests of the child concerned or of preventing changes in the circumstances relevant to the determination of the application.
+*   A court to which an application under [section 105(1)][163] is made may, at any time before the application is determined, give any interim directions it thinks fit for the purpose of securing the welfare and best interests of the child concerned or of preventing changes in the circumstances relevant to the determination of the application.
     
     Compare: 1991 No 19 s 15
 
 ##### 109 No order or decision about role of providing day-to-day care for child to be made until application determined
     
-*   (1) A court to which an application under [section 105(1)][138] is made in respect of a child---
+*   (1) A court to which an application under [section 105(1)][163] is made in respect of a child---
         
     *   (a) must not, while those proceedings are pending, make any order or decision about the role of providing day-to-day care for that child in any other proceedings that are before that court (whether those proceedings were commenced before, after, or at the same time as, the application was made); and
     
     *   (b) may adjourn those other proceedings pending the determination of the application.
     
-    (2) Subsection (1)(a) does not limit or affect the court's power under [section 108][141] to give interim directions.
+    (2) Subsection (1)(a) does not limit or affect the court's power under [section 108][166] to give interim directions.
     
     Compare: 1991 No 19 s 16
 
 ##### 110 Contact with, and role of providing day-to-day care for, child, if application dismissed
     
-*   If a court to which an application under [section 105(1)][138] is made in respect of a child refuses to make an order under section 105(2) for the return of the child, the court may, on an application for the purpose by a party to the proceedings or on its own initiative, make any interim or final parenting order that it thinks fit with respect to the child.
+*   If a court to which an application under [section 105(1)][163] is made in respect of a child refuses to make an order under section 105(2) for the return of the child, the court may, on an application for the purpose by a party to the proceedings or on its own initiative, make any interim or final parenting order that it thinks fit with respect to the child.
     
     Compare: 1991 No 19 s 17
 
@@ -2906,11 +3192,13 @@ Guardianship and care of children
     
     *   (c) that the child is present in the Contracting State other than New Zealand.
     
-    (2) Every application under subsection (1) must be in the form prescribed by rules made under, or referred to in, [section 146][186].
+    (2) Every application under subsection (1) must be in a form approved by the Secretary.
     
     (3) If the Authority is satisfied that an application made under subsection (1) is in accordance with the requirements of the Convention, the Authority must take on behalf of the applicant any action required to be taken by the Authority under the Convention.
     
     Compare: 1991 No 19 s 19
+    
+    Section 112(2): replaced, on 31 March 2014, by [section 23][319] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 ##### 113 Child in New Zealand
     
@@ -2928,7 +3216,7 @@ Guardianship and care of children
 
 ##### 114 Translation to accompany application
     
-*   Every application under [section 102][135] or [section 112][146] in respect of a child must be accompanied by a translation of the application, being a translation---
+*   Every application under [section 102][160] or [section 112][171] in respect of a child must be accompanied by a translation of the application, being a translation---
         
     *   (a) into the official language, or one of the official languages, of the Contracting State to which the application is intended to be sent; or
     
@@ -2938,7 +3226,7 @@ Guardianship and care of children
 
 ##### 115 Evidentiary provisions
     
-*   (1) In determining whether, under the law of a Contracting State, an applicant has rights of custody in respect of a child, a court may, despite anything in [sections 37 to 41][291] of the Evidence Act 1908, take direct notice of---
+*   (1) In determining whether, under the law of a Contracting State, an applicant has rights of custody in respect of a child, a court may, despite anything in [sections 37 to 41][320] of the Evidence Act 1908, take direct notice of---
         
     *   (a) the law of that Contracting State:
     
@@ -2956,13 +3244,13 @@ Guardianship and care of children
     
 *   (1) This section applies to an applicant who---
         
-    *   (a) makes an application under [section 102][135] or [section 103][136] or [section 105][138] or [section 112][146] or [section 113][147]; but
+    *   (a) makes an application under [section 102][160] or [section 103][161] or [section 105][163] or [section 112][171] or [section 113][172]; but
     
     *   (b) has not appointed a lawyer to act for the applicant for the purposes of the application.
     
-    (2) The Authority must, if the circumstances so require, appoint a lawyer to act for the applicant for the purposes of the application, including (in the case of an application under [section 103][136] or [section 105][138]) any proceedings under section 105\.
+    (2) The Authority must, if the circumstances so require, appoint a lawyer to act for the applicant for the purposes of the application, including (in the case of an application under [section 103][161] or [section 105][163]) any proceedings under section 105\.
     
-    (3) [Sections 7(4)][8], [131][170], [137(1)(c)][176], and [147(2)(c)][187] apply, so far as applicable and with all necessary modifications, to a lawyer appointed under subsection (2) as if the lawyer were appointed under section 7(1).
+    (3) [Sections 7(4)][9], [131][195], [137(1)(c)][204], and [147(2)(c)][216] apply, so far as applicable and with all necessary modifications, to a lawyer appointed under subsection (2) as if the lawyer were appointed under section 7(1).
     
     Compare: 1991 No 19 s 23
 
@@ -2970,7 +3258,7 @@ Guardianship and care of children
     
 *   (1) A District Court Judge or Family Court Judge may issue a warrant of the kind referred to in subsection (2) if---
         
-    *   (a) an application under [section 103][136] in respect of a child is made to, and received by, the Authority; and
+    *   (a) an application under [section 103][161] in respect of a child is made to, and received by, the Authority; and
     
     *   (b) a person applies in writing and on oath to the Judge for a warrant of the kind referred to in subsection (2); and
     
@@ -2980,69 +3268,69 @@ Guardianship and care of children
     
     (3) A Registrar of a District Court (not being a constable) may exercise the power given to a District Court Judge or Family Court Judge by this section (which applies with all necessary modifications), but only if no District Court Judge or Family Court Judge is available.
     
-    (4) [Sections 75][99], [76][100], and [79][106] apply, so far as applicable and with all necessary modifications, to every warrant issued under subsection (1) as if every warrant of that kind were a warrant issued under [section 72][96].
+    (4) [Sections 75][124], [76][125], and [79][131] apply, so far as applicable and with all necessary modifications, to every warrant issued under subsection (1) as if every warrant of that kind were a warrant issued under [section 72][121].
     
     Compare: 1991 No 19 ss 24, 26A
     
-    Section 117(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][282] of the Policing Act 2008 (2008 No 72).
+    Section 117(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][308] of the Policing Act 2008 (2008 No 72).
     
-    Section 117(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][282] of the Policing Act 2008 (2008 No 72).
+    Section 117(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][308] of the Policing Act 2008 (2008 No 72).
 
 ##### 118 Preventing removal of child to defeat application
     
 *   (1) This section applies to a High Court Judge or District Court Judge or Family Court Judge who is satisfied that there are reasonable grounds for believing that a person is about to take a child out of New Zealand with intent to, or in circumstances where the taking of the child out of New Zealand would be likely to,---
         
-    *   (a) defeat the claim of a person who has made, or is about to make, an application under [section 103][136] or [section 105][138] or [section 113][147]; or
+    *   (a) defeat the claim of a person who has made, or is about to make, an application under [section 103][161] or [section 105][163] or [section 113][172]; or
     
-    *   (b) prevent an order under [section 105(2)][138] from being complied with.
+    *   (b) prevent an order under [section 105(2)][163] from being complied with.
     
     (2) A Judge to whom this section applies---
         
-    *   (a) may exercise, in respect of that child, the power referred to in [section 77(3)(a)][101]; and
+    *   (a) may exercise, in respect of that child, the power referred to in [section 77(3)(a)][126]; and
     
-    *   (b) may exercise, in respect of that child, or the person believed to be about to take the child out of New Zealand, or both, the power referred to in [section 77(3)(b)][101]; and
+    *   (b) may exercise, in respect of that child, or the person believed to be about to take the child out of New Zealand, or both, the power referred to in [section 77(3)(b)][126]; and
     
-    *   (c) may, whether or not the power referred to in paragraph (a) has been exercised (with or without the exercise of the power referred to in paragraph (b)), make an order of the kind referred to in [section 77(3)(c)][101] in respect of that child.
+    *   (c) may, whether or not the power referred to in paragraph (a) has been exercised (with or without the exercise of the power referred to in paragraph (b)), make an order of the kind referred to in [section 77(3)(c)][126] in respect of that child.
     
-    (3) If a power referred to in subsection (2)(a) or (b) or (c) is exercised, [sections 77(4) and (5)][101], [77A][102], and [77B][103], so far as applicable and with all necessary modifications, apply accordingly.
+    (3) If a power referred to in subsection (2)(a) or (b) or (c) is exercised, [sections 77(4) and (5)][126], [77A][127], and [77B][128], so far as applicable and with all necessary modifications, apply accordingly.
     
     (4) A Registrar of the High Court or of a District Court (not being a constable) may exercise the power given by this section (which applies with all necessary modifications), but only if no High Court Judge or District Court Judge or Family Court Judge is available.
     
     Compare: 1991 No 19 s 25
     
-    Section 118(3): amended, on 16 November 2011, by [section 15(a)][292] of the Care of Children Amendment Act 2011 (2011 No 59).
+    Section 118(3): amended, on 16 November 2011, by [section 15(a)][321] of the Care of Children Amendment Act 2011 (2011 No 59).
     
-    Section 118(3): amended, on 16 November 2011, by [section 15(b)][292] of the Care of Children Amendment Act 2011 (2011 No 59).
+    Section 118(3): amended, on 16 November 2011, by [section 15(b)][321] of the Care of Children Amendment Act 2011 (2011 No 59).
     
-    Section 118(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][282] of the Policing Act 2008 (2008 No 72).
+    Section 118(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][308] of the Policing Act 2008 (2008 No 72).
 
 ##### 119 Enforcing order for return of child
     
-*   (1) If, in proceedings under [section 105][138], a court makes an order under section 105(2) for the return of a child, a Family Court or a District Court may, at any time, issue a warrant of the kind referred to in subsection (2), either on its own initiative or on an application for the purpose by a party to the proceedings.
+*   (1) If, in proceedings under [section 105][163], a court makes an order under section 105(2) for the return of a child, a Family Court or a District Court may, at any time, issue a warrant of the kind referred to in subsection (2), either on its own initiative or on an application for the purpose by a party to the proceedings.
     
     (2) The warrant referred to in subsection (1) is a warrant that authorises any constable or any social worker or any other person named in the warrant to take possession of the child and to deliver the child to a person or authority named in the warrant for the purpose of returning the child in accordance with the order.
     
-    (3) The powers conferred on a court by subsection (1) may, if the court thinks fit, be exercised on the making of an order under [section 105(2)][138] for the return of a child.
+    (3) The powers conferred on a court by subsection (1) may, if the court thinks fit, be exercised on the making of an order under [section 105(2)][163] for the return of a child.
     
-    (4) [Sections 75][99], [76][100], and [79][106] apply, so far as applicable and with all necessary modifications, to every warrant issued under subsection (1) as if every warrant of that kind were a warrant issued under [section 72][96].
+    (4) [Sections 75][124], [76][125], and [79][131] apply, so far as applicable and with all necessary modifications, to every warrant issued under subsection (1) as if every warrant of that kind were a warrant issued under [section 72][121].
     
     Compare: 1991 No 19 ss 26, 26A
     
-    Section 119(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][282] of the Policing Act 2008 (2008 No 72).
+    Section 119(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][308] of the Policing Act 2008 (2008 No 72).
 
 ##### 120 Security for costs, etc
     
-*   (1) A person who makes an application under [section 102][135] or [section 103][136] or [section 105][138] or [section 112][146] or [section 113][147] must not be required to provide any security, bond, or deposit for the purpose of guaranteeing the payment of, or to make any payment towards, the costs or expenses of (or incidental to) any proceedings relating to that application.
+*   (1) A person who makes an application under [section 102][160] or [section 103][161] or [section 105][163] or [section 112][171] or [section 113][172] must not be required to provide any security, bond, or deposit for the purpose of guaranteeing the payment of, or to make any payment towards, the costs or expenses of (or incidental to) any proceedings relating to that application.
     
-    (2) Subsection (1) is subject to [section 131(4)][170] (as applied by [section 116(3)][151]).
+    (2) Subsection (1) is subject to [section 131(4)][195] (as applied by [section 116(3)][176]).
     
     Compare: 1991 No 19 s 27
 
 ##### 121 Costs of returning child: order for payment or refund when order under section 105(2) applied for or made
     
-*   (1) A court that makes an order under [section 105(2)][138] for the return of a child may, if it thinks just, make an order directing that the whole or part of any costs of (or incidental to) returning the child in accordance with the order (for example, the cost and travelling expenses of any necessary escort) must be paid by the person who removed the child to New Zealand.
+*   (1) A court that makes an order under [section 105(2)][163] for the return of a child may, if it thinks just, make an order directing that the whole or part of any costs of (or incidental to) returning the child in accordance with the order (for example, the cost and travelling expenses of any necessary escort) must be paid by the person who removed the child to New Zealand.
     
-    (2) If a court makes an order under [section 105(2)][138] for the return of a child, and the whole or part of any costs of (or incidental to) returning the child in accordance with the order (for example, the cost and travelling expenses of any necessary escort) are paid by the Crown,---
+    (2) If a court makes an order under [section 105(2)][163] for the return of a child, and the whole or part of any costs of (or incidental to) returning the child in accordance with the order (for example, the cost and travelling expenses of any necessary escort) are paid by the Crown,---
         
     *   (a) the court may, on an application by the Authority, order the person who removed the child to New Zealand to refund to the Crown any amount the court specifies in respect of the costs so paid by the Crown; and
     
@@ -3050,7 +3338,7 @@ Guardianship and care of children
     
     (3) Subsection (4) applies to a District Court if---
         
-    *   (a) an application is made under [section 103][136] in respect of a child; and
+    *   (a) an application is made under [section 103][161] in respect of a child; and
     
     *   (b) the child is returned voluntarily; and
     
@@ -3068,7 +3356,7 @@ Guardianship and care of children
 
 ##### 122 Order under section 121 may be lodged in High Court
     
-*   (1) A copy of an order made under [section 121][156] may be lodged in the High Court.
+*   (1) A copy of an order made under [section 121][181] may be lodged in the High Court.
     
     (2) On being so lodged, the order must be treated, from the date on which it is lodged, as an order of the High Court.
     
@@ -3080,9 +3368,9 @@ Guardianship and care of children
 
 ##### 122A Discharge of order under section 105 for return of child
     
-*   (1) This section applies where a court makes an order under [section 105(2)][138] for the return of a child (the _return order_).
+*   (1) This section applies where a court makes an order under [section 105(2)][163] for the return of a child (the _return order_).
     
-    (2) A party to the proceedings under [section 105][138] in which the return order was made (the _return proceedings_) may apply to the court for the discharge of the return order.
+    (2) A party to the proceedings under [section 105][163] in which the return order was made (the _return proceedings_) may apply to the court for the discharge of the return order.
     
     (3) On an application under subsection (2), the court may discharge the return order if---
         
@@ -3096,7 +3384,7 @@ Guardianship and care of children
     
     *   (b) every other person who was a party to the return proceedings consents.
     
-    Section 122A: inserted, on 16 November 2011, by [section 16][293] of the Care of Children Amendment Act 2011 (2011 No 59).
+    Section 122A: inserted, on 16 November 2011, by [section 16][322] of the Care of Children Amendment Act 2011 (2011 No 59).
 
 ##### 123 Unfounded applications
     
@@ -3141,15 +3429,15 @@ Jurisdictional, procedural, miscellaneous, and saving and transitional provision
             
         *   (i) subsection (2) or subsection (4):
         
-        *   (ii) [sections 27][34], [30][39], [35][44], [72][96], [73][97], [76][100], and [77][101]:
+        *   (ii) [sections 27][37], [30][42], [35][47], [72][121], [73][122], [76][125], and [77][126]:
         
-        *   (iii) [subpart 4][124] of Part 2\.
+        *   (iii) [subpart 4][149] of Part 2\.
         
         
     
     (2) A Family Court must not entertain an application in respect of a child (except an application specified in subsection (3))---
         
-    *   (a) if an order of the High Court about the guardianship of, or about the role of providing day-to-day care for, or about contact with, the child (other than an order under [section 44][57]) is in force, and has not been removed into a Family Court under [section 127][165]; or
+    *   (a) if an order of the High Court about the guardianship of, or about the role of providing day-to-day care for, or about contact with, the child (other than an order under [section 46R][86]) is in force, and has not been removed into a Family Court under [section 127][190]; or
     
     *   (b) if the child is under the guardianship of the High Court.
     
@@ -3157,15 +3445,17 @@ Jurisdictional, procedural, miscellaneous, and saving and transitional provision
         
     *   (a) an application for an interim order about the role of providing day-to-day care for, or about contact with, the child; or
     
-    *   (b) an application under [section 72][96] or [section 73][97] or [section 105][138]
+    *   (b) an application under [section 72][121] or [section 73][122] or [section 105][163]
     
-    (4) If a Family Court Judge (or, in proceedings under [subpart 4][124] of Part 2 before a District Court, a District Court Judge) is of the opinion that proceedings under this Act, or a question in proceedings under this Act, would be more appropriately or speedily dealt with in the High Court, the Family Court Judge (or District Court Judge) may, on an application by a party to the proceedings or without any application of that kind, in the prescribed manner refer the proceedings or the question to the High Court.
+    (4) If a Family Court Judge (or, in proceedings under [subpart 4][149] of Part 2 before a District Court, a District Court Judge) is of the opinion that proceedings under this Act, or a question in proceedings under this Act, would be more appropriately or speedily dealt with in the High Court, the Family Court Judge (or District Court Judge) may, on an application by a party to the proceedings or without any application of that kind, in the prescribed manner refer the proceedings or the question to the High Court.
     
     (5) On a reference of that kind, the High Court has the same power to adjudicate on the proceedings or question as the Family Court (or, as the case may require, the District Court) had.
     
     (6) Nothing in this section limits the power of a Family Court to punish a person for contempt of court.
     
     Compare: 1968 No 63 s 4
+    
+    Section 125(2)(a): amended, on 31 March 2014, by [section 24][323] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 ##### 126 Personal jurisdiction
     
@@ -3183,11 +3473,11 @@ Jurisdictional, procedural, miscellaneous, and saving and transitional provision
     
     *   (b) the court is of the opinion that no useful purpose would be served by making an order or that in the circumstances the making of an order would be undesirable.
     
-    (3) Nothing in this section applies to an appointment (of an eligible spouse or partner of a parent as an additional guardian) under [section 23][29].
+    (3) Nothing in this section applies to an appointment (of an eligible spouse or partner of a parent as an additional guardian) under [section 23][32].
     
     Compare: 1968 No 63 s 5
     
-    Section 126(3): amended, on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
+    Section 126(3): amended, on 1 July 2005, by [section 3][253] of the Care of Children Amendment Act 2005 (2005 No 5).
 
 ##### 127 Removal of High Court orders to Family Court
     
@@ -3215,9 +3505,9 @@ Jurisdictional, procedural, miscellaneous, and saving and transitional provision
 
 ##### 128 Evidence
     
-*   In all proceedings under this Act (other than criminal proceedings, but including appeals or any other proceedings), the court may receive any evidence that it thinks fit, whether or not it is otherwise admissible in a court of law.
+*   \[Repealed\]
     
-    Compare: 1968 No 63 s 28
+    Section 128: repealed, on 31 March 2014, by [section 17A(b)][324] of the Family Courts Act 1980 (1980 No 161).
 
 ##### 129 Court's power to call witnesses
     
@@ -3233,41 +3523,69 @@ Jurisdictional, procedural, miscellaneous, and saving and transitional provision
     
     *   (b) may be cross-examined by, or on behalf of, a party to the proceedings or by a lawyer appointed to act for a child who is the subject of the proceedings.
     
-    (5) [Sections 159][279] and [161 to 165][294] of the Criminal Procedure Act 2011, so far as applicable and with all necessary modifications, apply with respect to every person called as a witness by the court under this section as if the witness had been called by a party to the proceedings.
+    (5) [Sections 159][304] and [161 to 165][325] of the Criminal Procedure Act 2011, so far as applicable and with all necessary modifications, apply with respect to every person called as a witness by the court under this section as if the witness had been called by a party to the proceedings.
     
     (6) The expenses of a witness called by the court under this section, in accordance with the prescribed scale of witnesses' expenses, are in the first instance payable out of public money appropriated by Parliament for the purpose.
     
     Compare: 1968 No 63 s 28A
     
-    Section 129(2): amended, on 1 July 2005, by [section 3][225] of the Care of Children Amendment Act 2005 (2005 No 5).
+    Section 129(2): amended, on 1 July 2005, by [section 3][253] of the Care of Children Amendment Act 2005 (2005 No 5).
     
-    Section 129(5): amended, on 1 July 2013, by [section 413][281] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 129(5): amended, on 1 July 2013, by [section 413][307] of the Criminal Procedure Act 2011 (2011 No 81).
 
-##### 130 Counsel to assist court
+##### 130 Appointment of lawyer to assist court
     
-*   (1) In proceedings before it under this Act (other than criminal proceedings), a court may appoint, or direct the Registrar of the court to appoint, a lawyer to assist the court.
-    
-    (2) The lawyer may call a person as a witness in the proceedings, and may cross-examine witnesses called by a party to the proceedings or by the court.
-    
-    Compare: 1968 No 63 s 30(1)(a), (3)
-    
-    Section 130(1): amended, on 18 May 2009, by [section 14][295] of the Care of Children Amendment Act 2008 (2008 No 74).
-
-##### 131 Costs of court-appointed counsel
-    
-*   (1) Fees for professional services provided by lawyers appointed under [section 7(1)][8] or [section 130(1)][169], and reasonable expenses incurred,---
+*   In any proceedings under this Act (other than criminal proceedings), a court may---
         
-    *   (a) may be determined in accordance with regulations made under [section 147(2)(c)][187]; and
+    *   (a) appoint a lawyer to assist the court; or
     
-    *   (b) are payable out of public money appropriated by Parliament for the purpose.
+    *   (b) direct the Registrar of the court to appoint a lawyer to assist the court.
     
-    (2) The bill of costs rendered by a lawyer appointed under [section 7(1)][8] or [section 130(1)][169] must be given to the Registrar of the court in which the proceedings were heard, and the Registrar may tax the bill of costs.
+    Section 130: replaced, on 31 March 2014, by [section 25][326] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+
+##### 131 Fees and expenses of lawyer appointed under section 7 or 130
     
-    (3) A lawyer who is dissatisfied with the decision of the Registrar as to the amount of the bill may, within 14 days after the date of the decision, apply to a Judge of the court to review the decision; and the Judge may on the application make any order varying or confirming the decision the Judge considers fair and reasonable.
+*   (1) The fees and expenses of a lawyer appointed under [section 7][9] or [130][194] must---
+        
+    *   (a) be determined in accordance with regulations made under [section 16D][327] of the Family Courts Act 1980 or, if no such regulations are made, by the Registrar of the court; and
     
-    (4) Despite subsection (1), the court may, if it thinks proper, order a party to the proceedings to refund to the Crown an amount the court specifies in respect of any fees and expenses paid under subsection (1), and the amount ordered to be refunded is a debt due to the Crown by that party and, in default of payment of the amount, payment of it may be enforced, by order of a District Court or the High Court as the case may require, in the same manner as a judgment of that court.
+    *   (b) be paid in accordance with that determination out of public money appropriated by Parliament for the purpose.
     
-    Compare: 1968 No 63 s 30(4)--(7)
+    (2) An invoice rendered by a lawyer appointed under [section 7][9] or [130][194] for fees and expenses must be given to the Registrar of the court in which the proceedings were heard, and the Registrar may decide to adjust the amount of the invoice.
+    
+    (3) A lawyer who is dissatisfied with the decision of the Registrar as to the amount of the invoice may, within 14 days after the date of the decision, apply to a Family Court Judge to review the decision, and the Judge may on the application make any order varying or confirming the decision that the Judge considers fair and reasonable.
+    
+    (4) Where in any proceedings a lawyer has been appointed under [section 7][9] or [130][194] and the fees and expenses relating to that appointment have been paid under subsection (1), the court must make an order under [section 135A][201], unless the court declines to do so in accordance with that section.
+    
+    (5) However, no order under [section 135A][201] may be made---
+        
+    *   (a) in any proceedings commenced by an application under [section 105][163] or a request under [section 111][169]; or
+    
+    *   (b) against---
+            
+        *   (i) the Crown, whether acting through the department for the time being responsible for the administration of the [Children, Young Persons, and Their Families Act 1989][248] or otherwise; or
+        
+        *   (ii) a person in whose custody the child concerned has been placed pursuant to an order made under the [Children, Young Persons, and Their Families Act 1989][248]; or
+        
+        
+    
+    *   (c) in respect of an appointment under [section 130][194], where a lawyer has been appointed under that section to provide to the court independent advice on any complex legal issue.
+    
+    Section 131: replaced, on 31 March 2014, by [section 26][328] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+
+##### 131A Advice from chief executive or social worker
+    
+*   (1) For the purpose of expediting an application for a guardianship order or parenting order, a Registrar, on his or her own initiative, may---
+        
+    *   (a) refer the application to the chief executive; and
+    
+    *   (b) request the chief executive to provide brief written advice on the nature and extent of any involvement that the department has had with the parties.
+    
+    (2) On receipt of a request for advice made under subsection (1), the chief executive or a social worker must provide the advice.
+    
+    (3) The Registrar must refer advice received under subsection (2) to the Family Court Judge who is considering the application.
+    
+    Section 131A: inserted, on 31 March 2014, by [section 27][329] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 ##### 132 Reports from chief executive or social worker
     
@@ -3279,33 +3597,157 @@ Jurisdictional, procedural, miscellaneous, and saving and transitional provision
 
 ##### 133 Reports from other persons
     
-*   (1) This section applies to the following applications:
+*   ###### Definitions
+    
+    (1) In this section,---
+    
+    _application_---
         
-    *   (a) an application for guardianship:
-    
-    *   (b) an application for a parenting order (other than an application for an interim order about the role of providing day-to-day care for a child):
-    
-    *   (c) an application under [section 105(1)][138].
-    
-    (2) If satisfied that it is necessary for the proper disposition of an application, the court may---
+    *   (a) means---
+            
+        *   (i) an application for guardianship; or
         
-    *   (a) request a person whom the court considers qualified for the purpose to prepare a written cultural, medical, psychiatric, or psychological report on the child who is the subject of the application; or
+        *   (ii) an application for a parenting order; or
+        
+        *   (iii) an application under [section 105(1)][163]; but
+        
+        
     
-    *   (b) direct the Registrar of the court to request a person whom the Registrar considers qualified for the purpose to prepare a written cultural, medical, psychiatric, or psychological report on the child who is the subject of the application.
+    *   (b) does not include an application for an interim order about the role of providing day-to-day care for a child
     
-    (3) A cultural report on the child who is the subject of the application may address any aspect or aspects of that child's cultural background (for example, that child's religious denomination and practice).
+    _approval_ means an approval under subsection (10)
     
-    (4) In deciding whether to request a report or to direct the Registrar of the court to request a report, the court must, if the wishes of the parties are known to the court or can be speedily ascertained, have regard to those wishes.
+    _cultural report_ means a report that is about the child who is the subject of an application and that covers an aspect or aspects of the child's cultural background, including the child's religious denomination and practice
     
-    Compare: 1968 No 63 s 29A(1), (2)
+    _materials_ means---
+        
+    *   (a) the psychological report; and
     
-    Section 133(2): substituted, on 18 May 2009, by [section 15(1)][296] of the Care of Children Amendment Act 2008 (2008 No 74).
+    *   (b) the report writer's notes; and
     
-    Section 133(4): amended, on 18 May 2009, by [section 15(2)][296] of the Care of Children Amendment Act 2008 (2008 No 74).
+    *   (c) other materials the report writer used in preparing the psychological report
+    
+    _medical report_ means a medical report that is about the child who is the subject of an application
+    
+    _psychiatric report_ means a psychiatric report that is about the child who is the subject of an application
+    
+    _psychological report_ means a report that is about the child who is the subject of an application and that covers any or all of the following matters:
+        
+    *   (a) how current arrangements for the child's care are working for the child:
+    
+    *   (b) the child's relationship with each party, including, if appropriate, the child's attachment to each party: 
+    
+    *   (c) the child's relationship with other significant persons in the child's life:
+    
+    *   (d) the effect or likely effect on the child of each party's parenting skills:
+    
+    *   (e) the effect or likely effect on the child of the parties' ability or otherwise to co-operate in the parenting of the child:
+    
+    *   (f) the advantages and disadvantages for the child of the options for the care of the child:
+    
+    *   (g) any matter that the court specifies under subsection (5)(b)(ii)
+    
+    _report writer_ means---
+        
+    *   (a) the person requested under subsection (2) to prepare a report:
+    
+    *   (b) the psychologist requested under subsection (5) to prepare a report
+    
+    _second opinion_ means---
+        
+    *   (a) a critique of a psychological report; and
+    
+    *   (b) a report covering the same matters as those covered by a psychological report.
+    
+    ###### Court's power to obtain cultural reports, medical reports, or psychiatric reports
+    
+    (2) To obtain a written cultural report, medical report, or psychiatric report, the court may---
+        
+    *   (a) request a person whom the court considers qualified for the purpose to prepare one; or
+    
+    *   (b) direct the Registrar to request a person whom the Registrar considers qualified for the purpose to prepare one.
+    
+    (3) The court may act under subsection (2) only if satisfied that---
+        
+    *   (a) the information that the report will provide is essential for the proper disposition of the application; and
+    
+    *   (b) the report is the best source of the information, having regard to the quality, timeliness, and cost of other sources; and
+    
+    *   (c) the proceedings will not be unduly delayed by the time taken to prepare the report; and
+    
+    *   (d) any delay in the proceedings will not have an unacceptable effect on the child.
+    
+    (4) If the court is entitled by subsection (3) to act under subsection (2) and if the court knows the parties' wishes about the obtaining of a report or can speedily ascertain them, the court must have regard to the parties' wishes before deciding whether or not to act under subsection (2).
+    
+    ###### Court's power to obtain psychological reports
+    
+    (5) To obtain a written psychological report,---
+        
+    *   (a) the court may---
+            
+        *   (i) request a psychologist whom the court considers qualified for the purpose to prepare one; or
+        
+        *   (ii) direct the Registrar to request a psychologist whom the Registrar considers qualified for the purpose to prepare one; and
+        
+        
+    
+    *   (b) the court---
+            
+        *   (i) must specify which of the matters listed in paragraphs (a) to (f) of the definition of psychological report in subsection (1) that the report is to cover; and
+        
+        *   (ii) may specify any matter not listed in paragraphs (a) to (f) of the definition of psychological report in subsection (1) that the report is to cover.
+        
+        
+    
+    (6) The court may act under subsection (5) only if---
+        
+    *   (a) the court is satisfied that the information that the psychological report will provide is essential for the proper disposition of the application; and
+    
+    *   (b) the court is satisfied that the psychological report is the best source of the information, having regard to the quality, timeliness, and cost of other sources; and
+    
+    *   (c) the court is satisfied that the proceedings will not be unduly delayed by the time taken to prepare the psychological report; and
+    
+    *   (d) the court is satisfied that any delay in the proceedings will not have an unacceptable effect on the child; and
+    
+    *   (e) the court does not seek the psychological report solely or primarily to ascertain the child's wishes.
+    
+    (7) If the court is entitled by subsection (6) to act under subsection (5) and if the court knows the parties' wishes about the obtaining of a psychological report or can speedily ascertain them, the court must have regard to the parties' wishes before deciding whether or not to act under subsection (5).
+    
+    ###### Court's power to direct meetings
+    
+    (8) If the court acts under subsection (2) or (5), it may give directions at the same time on arrangements for---
+        
+    *   (a) the child to meet with the report writer; or
+    
+    *   (b) 1 or more of the parties to meet with the report writer; or
+    
+    *   (c) the child and 1 or more of the parties to meet with the report writer.
+    
+    (9) If a party or the child fails to meet with the report writer as directed by the court,---
+        
+    *   (a) the report writer must notify the court; and
+    
+    *   (b) the court may make further directions.
+    
+    ###### Second opinions
+    
+    (10) The approval of the court must be obtained before a second opinion may be prepared and presented.
+    
+    (11) The court may give approval only if there are exceptional circumstances.
+    
+    (12) A party who obtains the approval of the court for the preparation and presentation of a second opinion is liable for the costs of that opinion.
+    
+    (13) If the court gives approval, it may permit disclosure of the materials to the psychologist preparing the second opinion.
+    
+    (14) If the court declines to give approval to a party, or if a party does not seek approval, the court may permit disclosure of the materials to a psychologist who is employed by the party and who is not the report writer.
+    
+    (15) The court may permit disclosure under subsection (14) only if the court is satisfied that the psychologist requires the materials to assist the party to prepare the party's cross-examination.
+    
+    Section 133: replaced, on 31 March 2014, by [section 28][330] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 ##### 134 Distribution, etc, of reports under sections 132 and 133
     
-*   (1) The Registrar of the court must copy a report under [section 132][171] or [section 133][172] (the _report_)---
+*   (1) The Registrar of the court must copy a report under [section 132][197] or [section 133][198] (the _report_)---
         
     *   (a) to the lawyer acting for each party to the proceedings or, subject to subsection (3), if a party has no lawyer acting for that party, to that party; and
     
@@ -3317,7 +3759,7 @@ Jurisdictional, procedural, miscellaneous, and saving and transitional provision
         
     *   (a) order that the report not be copied to that party under subsection (1)(a); and
     
-    *   (b) appoint counsel to assist the court under [section 130(1)][169] for the purpose of explaining the contents of the report to that party.
+    *   (b) appoint counsel to assist the court under [section 130][194] for the purpose of explaining the contents of the report to that party.
     
     (4) Before the report is copied to a lawyer under subsection (1)(b), the court must consider whether the report may be given or shown to the child for whom the lawyer is acting.
     
@@ -3328,18 +3770,78 @@ Jurisdictional, procedural, miscellaneous, and saving and transitional provision
     (7) The court may, if it thinks fit, call as a witness the person who made or prepared the report.
     
     Compare: 1968 No 63 ss 29(3)--(7), 29A(3)--(5), (7), (8)
+    
+    Section 134(3)(b): amended, on 31 March 2014, by [section 29][331] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
-##### 135 Costs of reports under section 133
+##### 135 Costs of reports requested under section 133
     
-*   (1) Fees for reports prepared under a request under [section 133(2)][172], and reasonable expenses incurred,---
+*   (1) Fees for the preparation of reports requested under [section 133][198], and reasonable expenses incurred, must---
         
-    *   (a) may be determined in accordance with regulations made under [section 147(2)(d)][187]; and
+    *   (a) be determined in accordance with regulations made under [section 16D][327] of the Family Courts Act 1980 or, if no such regulations are made, by the Registrar of the court; and
     
-    *   (b) are payable by any party or parties to the proceedings the court orders or, if the court so decides, are payable out of public money appropriated by Parliament for the purpose.
+    *   (b) be paid in accordance with that determination out of public money appropriated by Parliament for the purpose.
     
-    (2) An amount of any fees and expenses ordered to be paid by a party under subsection (1)(b) is, if paid by the Crown, a debt due to the Crown by that party and, in default of payment of the amount, payment of the amount may be enforced, by order of a District Court or the High Court as the case may require, in the same manner as a judgment of that court.
+    (2) Where in any proceedings a report requested under [section 133][198] has been prepared and the fees and expenses relating to that report have been paid under subsection (1), the court must make an order under [section 135A][201] unless the court declines to do so in accordance with that section.
     
-    Compare: 1968 No 63 s 29A(6), (6A)
+    Section 135: replaced, on 31 March 2014, by [section 30][332] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+
+##### 135A Order requiring reimbursement of costs payments
+    
+*   (1) An order referred to in [section 131(4)][195] or [135(2)][200] must require the parties to reimburse to the Crown the prescribed proportion of the amount paid by the Crown,---
+        
+    *   (a) under [section 131(1)(b)][195], in respect of the fees and expenses of a lawyer appointed under [section 7][9] or [130][194]:
+    
+    *   (b) under [section 135(1)(b)][200], in respect of a report requested under [section 133][198].
+    
+    (2) Despite subsection (1), the court may decline to make an order against a party if satisfied that the order would cause serious hardship to the party or to a dependent child of the party.
+    
+    (3) Each party against whom an order is made under subsection (1) must pay an equal share of the prescribed proportion.
+    
+    (4) Despite subsection (3), if the court is satisfied that, in view of the circumstances of the case, including the conduct of any party, it would be inappropriate to require a party to pay the amount payable in accordance with that subsection, the court may substitute, for that party, a different amount not exceeding the prescribed proportion.
+    
+    (5) In this section,---
+    
+    _dependent child_, in relation to a party, means a child whose day-to-day care is substantially the responsibility of the party
+    
+    _prescribed proportion_ means the proportion that is prescribed by regulations made under [section 147][216] for the purposes of this section
+    
+    _serious hardship_, in relation to a party or a dependent child of a party,---
+        
+    *   (a) includes significant financial difficulties that arise because of---
+            
+        *   (i) the party's inability to meet minimum living expenses according to normal community standards; or
+        
+        *   (ii) the cost of medical treatment for an illness or injury of the party or a dependent child of the party; or
+        
+        *   (iii) a serious illness suffered by the party or by a dependent child of the party; or
+        
+        *   (iv) the cost of education for a dependent child of the party:
+        
+        
+    
+    *   (b) does not include significant financial difficulties that arise because---
+            
+        *   (i) the social activities and entertainment of the party or those of a dependent child of the party may be limited; or
+        
+        *   (ii) the party is unable to afford goods or services that are expensive or of a high quality or standard according to normal community standards.
+        
+        
+    
+    Section 135A: inserted, on 31 March 2014, by [section 30][332] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+
+##### 135B Enforcement of orders made under section 135A
+    
+*   (1) The amount that a party is ordered to reimburse under [section 135A][201] is a debt due to the Crown by that party and may be enforced in a District Court or the High Court, as the case may require, in the same manner as a judgment of that court.
+    
+    (2) Despite [section 113][333] or [123][334] of the District Courts Act 1947 or [section 100A][335] of the Judicature Act 1908, no court fee is payable by a person who seeks to enforce, on behalf of the Crown, an order referred to in subsection (1), but the fee that would otherwise be payable---
+        
+    *   (a) is to be added to the amount sought to be enforced; and
+    
+    *   (b) must be paid to the Registrar of the court out of any proceeds that result from the enforcement.
+    
+    (3) For the purposes of [section 14(1)(b)][336] of the Crown Proceedings Act 1950, the Secretary may, on behalf of the Crown, enforce a debt under this section.
+    
+    Section 135B: inserted, on 31 March 2014, by [section 30][332] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 ##### 136 Court may hear person on child's cultural background
     
@@ -3353,7 +3855,7 @@ Jurisdictional, procedural, miscellaneous, and saving and transitional provision
     
     (3) Despite subsection (1), if no party makes a request under this section, the court may, at any time during the proceedings, suggest to a party to the proceedings that it may be of assistance to the court to hear a person or persons called by the party on any of the matters specified in subsection (1).
     
-    Compare: 2002 No 9 [s 27(1), (4), (5)][297]
+    Compare: 2002 No 9 [s 27(1), (4), (5)][337]
 
 ##### 137 Attendance at hearings generally
     
@@ -3361,15 +3863,17 @@ Jurisdictional, procedural, miscellaneous, and saving and transitional provision
         
     *   (a) officers of the court:
     
-    *   (b) parties to the proceedings and their lawyers:
+    *   (b) parties to the proceedings:
     
-    *   (c) lawyers appointed under [section 7(1)][8] or [section 130(1)][169]:
+    *   (ba) lawyers acting for the parties (if any):
+    
+    *   (c) lawyers appointed under [section 7][9] or [130][194]:
     
     *   (d) witnesses:
     
-    *   (e) persons the court agrees to hear under [section 136][175]:
+    *   (e) persons the court agrees to hear under [section 136][203]:
     
-    *   (f) persons who may attend under [section 138(2)(b)][177]:
+    *   (f) \[Repealed\]
     
     *   (g) accredited news media reporters:
     
@@ -3385,15 +3889,15 @@ Jurisdictional, procedural, miscellaneous, and saving and transitional provision
         
     *   (a) a witness:
     
-    *   (b) a person the court agrees to hear under [section 136][175]:
+    *   (b) a person the court agrees to hear under [section 136][203]:
     
-    *   (c) a person who may attend under [section 138(2)(b)][177]:
+    *   (c) \[Repealed\]
     
     *   (d) an accredited news media reporter:
     
     *   (e) a support person whom the Judge permits to be present under subsection (1)(h).
     
-    (5) However, in considering, at or before a hearing, whether to exclude from the courtroom a person who may attend under [section 138(2)(b)][177], the Judge must take into account all relevant objections under section 138(3)(b).
+    (5) \[Repealed\]
     
     (6) Nothing in this section limits any other power of the court---
         
@@ -3405,39 +3909,69 @@ Jurisdictional, procedural, miscellaneous, and saving and transitional provision
     
     Compare: 1968 No 63 s 27
     
-    Section 137(6)(ab): inserted, on 18 May 2009, by [section 16][298] of the Care of Children Amendment Act 2008 (2008 No 74).
+    Section 137(1)(b): replaced, on 31 March 2014, by [section 31(1)][338] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+    
+    Section 137(1)(ba): inserted, on 31 March 2014, by [section 31(1)][338] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+    
+    Section 137(1)(c): replaced, on 31 March 2014, by [section 31(2)][338] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+    
+    Section 137(1)(f): repealed, on 31 March 2014, by [section 31(3)][338] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+    
+    Section 137(4)(c): repealed, on 31 March 2014, by [section 31(4)][338] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+    
+    Section 137(5): repealed, on 31 March 2014, by [section 31(5)][338] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+    
+    Section 137(6)(ab): inserted, on 18 May 2009, by [section 16][339] of the Care of Children Amendment Act 2008 (2008 No 74).
 
 ##### 138 Attendance at hearings of persons involved in counselling or conciliation under Family Proceedings Act 1980
     
-*   (1) This subsection applies to a person (other than a party to the proceedings, the counsellor, or the Family Court Judge who presided over the mediation conference) who attended one of the following kinds of event involving a matter under this Act that is to proceed to a hearing:
-        
-    *   (a) 1 or more sessions of counselling carried out under [section 9][276] or [section 10][251] or [section 19][252] of the Family Proceedings Act 1980:
+*   \[Repealed\]
     
-    *   (b) a mediation conference held under [section 13][299] of that Act.
-    
-    (2) A person to whom subsection (1) applies---
-        
-    *   (a) must be given reasonable prior notice in writing of the date and time of the hearing and of the period within which he or she must advise the court whether he or she intends to attend the hearing; and
-    
-    *   (b) may attend the hearing if he or she has, within the period specified in that notice, advised the court that he or she intends to do so.
-    
-    (3) Each party to the proceedings must, before the hearing, be given---
-        
-    *   (a) details of all persons (if any) who have advised under subsection (2) that they intend to attend the hearing; and
-    
-    *   (b) a reasonable opportunity to object to those persons attending.
-    
-    
+    Section 138: repealed, on 31 March 2014, by [section 32][340] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 ##### 139 Publication of reports of proceedings
     
-*   Sections 11B to 11D of the Family Courts Act 1980 apply to the publication of a report of any proceedings under this Act (other than criminal proceedings)---
+*   [Sections 11B to 11D][341] of the Family Courts Act 1980 apply to the publication of a report of any proceedings under this Act (other than criminal proceedings)---
         
     *   (a) in a Family Court:
     
     *   (b) in any other court, in which case references in those sections to the Family Court or court must be read as references to that other court.
     
-    Section 139: substituted, on 18 May 2009, by [section 17][300] of the Care of Children Amendment Act 2008 (2008 No 74).
+    Section 139: substituted, on 18 May 2009, by [section 17][342] of the Care of Children Amendment Act 2008 (2008 No 74).
+
+##### 139A Leave required in certain cases to commence substantially similar proceedings
+    
+*   (1) A proceeding (a _new proceeding_) may not be commenced under [section 46R][86], [48][91], or [56][102]without the leave of the court if that new proceeding---
+        
+    *   (a) is substantially similar to a proceeding previously filed in a Family Court by any person (a **previous proceeding**); and
+    
+    *   (b) is to be commenced less than 2 years after the final direction or order was given in the previous proceeding.
+    
+    (2) The leave of the court may only be given under subsection (1) if, since the final direction or order was given in the previous proceeding, there has been a material change in the circumstances of---
+        
+    *   (a) any party to the previous proceeding:
+    
+    *   (b) any child who was the subject of the previous proceeding.
+    
+    (3) In this section, a new proceeding is **substantially similar** to a previous proceeding if---
+        
+    *   (a) the party commencing the new proceeding was a party to the previous proceeding; and
+    
+    *   (b) a child who is the subject of the new proceeding was the subject of the previous proceeding; and
+    
+    *   (c) the new proceeding---
+            
+        *   (i) is commenced under the same provision of this Act as the previous proceeding; or
+        
+        *   (ii) is for an order varying the order made in the previous proceeding; or
+        
+        *   (iii) is for an order discharging the order made in the previous proceeding.
+        
+        
+    
+    (4) This section does not apply if every party to the new proceeding consents to its commencement.
+    
+    Section 139A: inserted, on 31 March 2014, by [section 33][343] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 ##### 140 Power to dismiss proceedings
     
@@ -3447,9 +3981,9 @@ Jurisdictional, procedural, miscellaneous, and saving and transitional provision
     
     *   (b) that the proceedings are frivolous or vexatious or an abuse of the procedure of the court.
     
-    Compare: 1980 No 94 [s 163][301]; 1989 No 24 [s 207][302]
+    Compare: 1980 No 94 [s 163][344]; 1989 No 24 [s 207][345]
 
-##### 141 Power to restrict commencement of proceedings
+##### 141 Power to restrict commencement of proceedings if vexatious proceedings previously instituted
     
 *   (1) This section applies to a court if, and only if, the court---
         
@@ -3463,19 +3997,25 @@ Jurisdictional, procedural, miscellaneous, and saving and transitional provision
     
     *   (b) proceedings under this Act of any specified kind or in respect of any specified person or matter.
     
-    (3) Nothing in this section limits [section 88B][303] of the Judicature Act 1908 (which empowers the High Court to make orders restricting the institution or continuation of vexatious proceedings).
+    (3) Nothing in this section limits [section 88B][346] of the Judicature Act 1908 (which empowers the High Court to make orders restricting the institution or continuation of vexatious proceedings).
     
-    Compare: 1980 No 94 [s 163][301]; 1989 No 24 [s 207][302]
+    Compare: 1980 No 94 [s 163][344]; 1989 No 24 [s 207][345]
     
-    Section 141(3): amended, on 15 December 2005, by [section 5(2)][304] of the Judicature Amendment Act (No 2) 2005 (2005 No 107).
+    Section 141 heading: amended, on 31 March 2014, by [section 34][347] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+    
+    Section 141(3): amended, on 15 December 2005, by [section 5(2)][348] of the Judicature Amendment Act (No 2) 2005 (2005 No 107).
 
 ##### 142 Costs
     
 *   (1) In any proceedings under this Act, the court may make any order as to costs it thinks fit.
     
-    (2) An order under this section may be made either in addition to, or instead of, an order under [section 71][95] or [section 87][116] or [section 121][156].
+    (2) An order under this section may be made either in addition to, or instead of, an order under [section 71][120] or [section 87][141] or [section 121][181].
+    
+    (3) This section is subject to [sections 131][195] and [135][200].
     
     Compare: 1968 No 63 s 27B
+    
+    Section 142(3): inserted, on 31 March 2014, by [section 35][349] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 ##### 143 Appeals to High Court
     
@@ -3487,21 +4027,51 @@ Jurisdictional, procedural, miscellaneous, and saving and transitional provision
     
     *   (c) otherwise finally determine the proceedings.
     
-    (2) A party to proceedings in which there is made a decision to which subsection (1) applies, or a child to whom those proceedings relate, may appeal to the High Court against the decision. However, if the proceedings are under [section 44][57] or [section 46][59], the party or child may appeal only with the leave of the High Court.
+    (2) A party to proceedings in which there is made a decision to which subsection (1) applies, or a child to whom those proceedings relate, may appeal to the High Court against the decision. However, if the proceedings are under [section 46C][66] or [46R][86], the party or child may appeal only with the leave of the High Court.
     
-    (3) A party to proceedings under this Act in a Family Court or District Court (other than criminal proceedings or proceedings under [section 44][57] or [section 46][59]) in which an interlocutory or interim order is made, or a child to whom those proceedings relate, may, with the leave of the Family Court or District Court (as the case requires), appeal to the High Court against the order.
+    (3) A party to proceedings under this Act in a Family Court or District Court in which an interlocutory or interim order is made, or a child to whom those proceedings relate, may, with the leave of the Family Court or District Court (as the case requires), appeal to the High Court against the order.
     
-    (4) The [High Court Rules][288] and [sections 73 to 78][305] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under this section as if it were an appeal under [section 72][306] of that Act.
+    (3A) However, no appeal may be made to the High Court under subsection (3) in relation to---
+        
+    *   (a) any interlocutory or interim order made in the following kinds of proceedings:
+            
+        *   (i) criminal proceedings; or
+        
+        *   (ii) proceedings under [section 46C][66]; or
+        
+        *   (iii) proceedings under [section 46R][86]; or
+        
+        
     
-    (5) On the _ex parte_ application of the appellant, the Family Court or District Court (as the case may be) may order that the appellant must not be required under [section 74(1)][307] of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
+    *   (b) a decision under---
+            
+        *   (i) [section 7][9] to appoint, or to direct the Registrar of the court to appoint, a lawyer to represent a child; or
+        
+        *   (ii) [section 130][194] to appoint, or to direct the Registrar of the court to appoint, a lawyer to assist the court; or
+        
+        *   (iii) [section 133][198] to obtain a written cultural report, medical report, psychiatric report, or psychological report; or
+        
+        
+    
+    *   (c) a direction under [section 7A(6)][10] that the parties may, or may not, be represented at a settlement conference.
+    
+    (4) The [High Court Rules][315] and [sections 73 to 78][350] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under this section as if it were an appeal under [section 72][351] of that Act.
+    
+    (5) On the _ex parte_ application of the appellant, the Family Court or District Court (as the case may be) may order that the appellant must not be required under [section 74(1)][352] of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
     
     (6) Subsection (5) overrides subsection (4).
     
     Compare: 1968 No 63 s 31
+    
+    Section 143(2): amended, on 31 March 2014, by [section 36(1)][353] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+    
+    Section 143(3): amended, on 31 March 2014, by [section 36(2)][353] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+    
+    Section 143(3A): inserted, on 31 March 2014, by [section 36(3)][353] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 ##### 144 Effect of High Court's order or decision
     
-*   Except as provided in [section 145(1)(b)][184], an order or decision of the High Court on an appeal under [section 143][182] is final.
+*   Except as provided in [section 145(1)(b)][213], an order or decision of the High Court on an appeal under [section 143][211] is final.
     
     Compare: 1968 No 63 s 31A
 
@@ -3509,7 +4079,7 @@ Jurisdictional, procedural, miscellaneous, and saving and transitional provision
     
 *   (1) An appeal lies to the Court of Appeal from an order or decision of the High Court under this Act, but---
         
-    *   (a) no appeal lies from an order or decision under [section 44][57] or [section 46][59]:
+    *   (a) no appeal lies from an order or decision under [section 46C][66] or [46R][86]:
     
     *   (b) if the order or decision was made on appeal from a Family Court or a District Court, an appeal lies only with the leave of the Court of Appeal.
     
@@ -3520,34 +4090,38 @@ Jurisdictional, procedural, miscellaneous, and saving and transitional provision
     *   (b) receive further evidence.
     
     Compare: 1968 No 63 s 31B
+    
+    Section 145(1)(a): amended, on 31 March 2014, by [section 37][354] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 #### Miscellaneous provisions
 
 ##### 146 Rules of court
     
-*   (1) Rules may be made in the manner prescribed by the [Judicature Act 1908][308] relating to the procedure of the High Court under this Act and to appeals to the Court of Appeal under this Act.
+*   (1) Rules may be made in the manner prescribed by the [Judicature Act 1908][355] relating to the procedure of the High Court under this Act and to appeals to the Court of Appeal under this Act.
     
-    (2) Rules may be made under [section 16A][309] of the Family Courts Act 1980 regulating the practice and procedure of Family Courts in proceedings under this Act.
+    (2) Rules may be made under [section 16A][356] of the Family Courts Act 1980 regulating the practice and procedure of Family Courts in proceedings under this Act.
     
-    (3) An application or other document required to be made in a form prescribed by rules made under this Act must instead, if it relates to proceedings in a Family Court, be made in a form prescribed by rules made under the [Family Courts Act 1980][310].
+    (3) \[Repealed\]
     
-    (4) In addition to the powers conferred by [section 122][311] of the District Courts Act 1947, the Governor-General may, by Order in Council, make rules---
+    (4) In addition to the powers conferred by [section 122][357] of the District Courts Act 1947, the Governor-General may, by Order in Council, make rules---
         
     *   (a) regulating the practice and procedure of District Courts in proceedings under this Act; and
     
     *   (b) providing for any matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
     
     Compare: 1968 No 63 s 32(1)--(1B), (4)
+    
+    Section 146(3): repealed, on 31 March 2014, by [section 38][358] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 ##### 147 Regulations
     
-*   (1) The Governor-General may, by Order in Council, make regulations under [section 100A][312] of the Judicature Act 1908 (that is, in general terms, regulations prescribing fees for the purposes of proceedings before the High Court or the Court of Appeal) for the purposes of this Act.
+*   (1) The Governor-General may, by Order in Council, make regulations under [section 100A][335] of the Judicature Act 1908 (that is, in general terms, regulations prescribing fees for the purposes of proceedings before the High Court or the Court of Appeal) for the purposes of this Act.
     
     (2) The Governor-General may, by Order in Council, make regulations---
         
-    *   (aa) prescribing for the purposes of [section 46H][64] any criteria that the Secretary must apply when deciding whether to approve an organisation as an approved counselling organisation:
+    *   (aa) prescribing for the purposes of [section 46H][73] any criteria that the Secretary must apply when deciding whether to approve an organisation as an approved counselling organisation:
     
-    *   (ab) prescribing for the purposes of [section 46I][65] the grounds on which the Secretary may suspend or cancel the approval of an organisation as an approved counselling organisation, which may include---
+    *   (ab) prescribing for the purposes of [section 46I][74] the grounds on which the Secretary may suspend or cancel the approval of an organisation as an approved counselling organisation, which may include---
             
         *   (i) that the approval was given on the basis of information that was false or misleading in a material respect; or
         
@@ -3559,7 +4133,7 @@ Jurisdictional, procedural, miscellaneous, and saving and transitional provision
         
         
     
-    *   (ac) prescribing for the purposes of [section 46K][66] the qualification and competency requirements that must be met for a person to be appointed as a counsellor, which, without limitation, may require a person---
+    *   (ac) prescribing for the purposes of [section 46K][76] the qualification and competency requirements that must be met for a person to be appointed as a counsellor, which, without limitation, may require a person---
             
         *   (i) to be a member of a professional body that the Secretary identifies as a professional body by notice in the _Gazette_:
         
@@ -3569,13 +4143,13 @@ Jurisdictional, procedural, miscellaneous, and saving and transitional provision
         
         
     
-    *   (ad) prescribing for the purposes of [section 46K][66] any matters that disqualify a person from being appointed as a counsellor, which, without limitation, may include having a conviction for certain types of offences:
+    *   (ad) prescribing for the purposes of [section 46K][76] any matters that disqualify a person from being appointed as a counsellor, which, without limitation, may include having a conviction for certain types of offences:
     
-    *   (ae) prescribing for the purposes of section 46M the maximum number of counselling sessions that may be carried out under section 46G:
+    *   (ae) prescribing for the purposes of [section 46M][78] the maximum number of counselling sessions that may be carried out under [section 46G][72]:
     
-    *   (af) prescribing for the purposes of section 46N the amount of fees and expenses payable for counselling services provided under section 46G:
+    *   (af) prescribing for the purposes of [section 46N][79] the amount of fees and expenses payable for counselling services provided under [section 46G][72]:
     
-    *   (ag) specifying for the purposes of sections 46O and 47B(2) 1 or more parenting information programmes that provide information about the effects of a relationship breakdown, including---
+    *   (ag) specifying for the purposes of [sections 46O][81] and [47B(2)][90] 1 or more parenting information programmes that provide information about the effects of a relationship breakdown, including---
             
         *   (i) how a child may be affected when parents separate; and
         
@@ -3583,87 +4157,105 @@ Jurisdictional, procedural, miscellaneous, and saving and transitional provision
         
         
     
-    *   (a) providing for the determination, for the purposes of [section 62(2)][85], of the number of sessions of supervised contact (ordered under [section 60(5)][82], and supervised by an approved provider) that will be funded out of public money:
+    *   (a) providing for the determination, for the purposes of [section 60(2)][107], of the number of sessions of supervised contact (ordered under [section 59(2)][106], and supervised by an approved provider) that will be funded out of public money:
     
-    *   (b) providing for the determination, for the purposes of [section 62(3)][85], of the amount of fees and expenses, including minimum and maximum amounts, payable to approved providers in respect of supervised contact carried out under an order under [section 60(5)][82], which fees and expenses may differ---
+    *   (b) providing for the determination, for the purposes of [section 60(3)][107], of the amount of fees and expenses, including minimum and maximum amounts, payable to approved providers in respect of supervised contact carried out under an order under [section 59(2)][106], which fees and expenses may differ---
             
-        *   (i) according to the number of sessions of supervised contact determined to be carried out under [section 62(2)][85]; and
+        *   (i) according to the number of sessions of supervised contact determined to be carried out under [section 60(2)][107]; and
         
         *   (ii) according to whether supervision services are to be provided in a specified number of proceedings during a specified period:
         
         
     
-    *   (c) providing for the determination of the amount of fees and expenses, including minimum and maximum amounts, payable in respect of professional services provided by lawyers appointed under [section 7(1)][8] or [section 130(1)][169], which fees and expenses may differ---
-            
-        *   (i) according to the complexity of the proceedings and the time spent; and
-        
-        *   (ii) according to whether professional services are to be provided in a specified number of proceedings during a specified period:
-        
-        
+    *   (c) \[Repealed\]
     
-    *   (d) prescribing, for the purposes of section 135A, the proportion of any amount paid by the Crown under---
+    *   (d) prescribing, for the purposes of [section 135A][201], the proportion of any amount paid by the Crown under---
             
-        *   (i) [section 131(1)(b)][170]:
+        *   (i) [section 131(1)(b)][195]:
         
-        *   (ii) [section 135(1)(b)][174]:
+        *   (ii) [section 135(1)(b)][200]:
         
         
     
     *   (e) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
     
-    Compare: 1968 No 63 s 32(2), (3); 1980 No 94 [s 187(ca), (cc)][313]
+    Compare: 1968 No 63 s 32(2), (3); 1980 No 94 [s 187(ca), (cc)][359]
     
-    Section 147(2)(aa): inserted, on 25 September 2013, by [section 39(1)][314] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+    Section 147(2)(aa): inserted, on 25 September 2013, by [section 39(1)][360] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
     
-    Section 147(2)(ab): inserted, on 25 September 2013, by [section 39(1)][314] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+    Section 147(2)(ab): inserted, on 25 September 2013, by [section 39(1)][360] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
     
-    Section 147(2)(ac): inserted, on 25 September 2013, by [section 39(1)][314] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+    Section 147(2)(ac): inserted, on 25 September 2013, by [section 39(1)][360] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
     
-    Section 147(2)(ad): inserted, on 25 September 2013, by [section 39(1)][314] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+    Section 147(2)(ad): inserted, on 25 September 2013, by [section 39(1)][360] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
     
-    Section 147(2)(ae): inserted, on 25 September 2013, by [section 39(1)][314] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+    Section 147(2)(ae): inserted, on 25 September 2013, by [section 39(1)][360] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
     
-    Section 147(2)(af): inserted, on 25 September 2013, by [section 39(1)][314] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+    Section 147(2)(af): inserted, on 25 September 2013, by [section 39(1)][360] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
     
-    Section 147(2)(ag): inserted, on 25 September 2013, by [section 39(1)][314] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+    Section 147(2)(ag): inserted, on 25 September 2013, by [section 39(1)][360] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
     
-    Section 147(2)(d): replaced, on 25 September 2013, by [section 39(5)][314] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+    Section 147(2)(a): amended, on 31 March 2014, by [section 39(2)(a)][360] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+    
+    Section 147(2)(a): amended, on 31 March 2014, by [section 39(2)(b)][360] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+    
+    Section 147(2)(b): amended, on 31 March 2014, by [section 39(3)(a)][360] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+    
+    Section 147(2)(b): amended, on 31 March 2014, by [section 39(3)(b)][360] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+    
+    Section 147(2)(b)(i): amended, on 31 March 2014, by [section 39(3)(c)][360] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+    
+    Section 147(2)(c): repealed, on 31 March 2014, by [section 39(4)][360] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+    
+    Section 147(2)(d): replaced, on 25 September 2013, by [section 39(5)][360] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 ##### 148 Other Acts not affected
     
 *   (1) Nothing in this Act affects the following Acts:
         
-    *   (a) [Children, Young Persons, and Their Families Act 1989][221]:
+    *   (a) [Children, Young Persons, and Their Families Act 1989][248]:
     
-    *   (b) [Family Proceedings Act 1980][250].
+    *   (b) [Family Proceedings Act 1980][291].
     
-    (2) This section is subject to [sections 66][90] and [69][93] and [149 to 151][190] and [Schedules 2 to 4][210].
+    (2) This section is subject to [sections 66][115] and [149 to 151][219] and [Schedules 2 to 4][241].
     
     Compare: 1968 No 63 s 34
+    
+    Section 148(2): amended, on 31 March 2014, by [section 40][361] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 #### Amendments to Family Proceedings Act 1980 (extending counselling and conciliation provisions to same-sex de facto partners)
 
 ##### 149 Amendments in Schedule 2
     
-*   The [Family Proceedings Act 1980][250] is amended in the manner specified in [Schedule 2][210].
+*   The [Family Proceedings Act 1980][291] is amended in the manner specified in [Schedule 2][241].
 
 #### Amendments to Family Proceedings Act 1980 (parentage tests in civil proceedings)
 
 ##### 150 Amendments in Schedule 3
     
-*   The [Family Proceedings Act 1980][250] is amended in the manner specified in [Schedule 3][211].
+*   The [Family Proceedings Act 1980][291] is amended in the manner specified in [Schedule 3][242].
 
 #### Other amendments and repeal
 
 ##### 151 Other amendments in Schedule 4
     
-*   The Acts listed in [Schedule 4][212] are amended in the manner specified in that schedule.
+*   The Acts listed in [Schedule 4][243] are amended in the manner specified in that schedule.
 
-##### 152 Repeal
+##### 152 Repeals
     
-*   The Guardianship Act 1968 (1968 No 63) is repealed.
+*   The following Acts are repealed:
+        
+    *   (a) Guardianship Act 1968 (1968 No 63):
+    
+    *   (b) [Care of Children Amendment Act 2008][362] (2008 No 74):
+    
+    *   (c) [Care of Children Amendment Act 2013][363] (2013 No 45).
+    
+    Section 152: replaced, on 31 March 2014, by [section 41][364] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
-#### Saving and transitional provisions
+#### Saving and transitional provisions on enactment of this Act
+    
+*   Heading: replaced, on 31 March 2014, by [section 42][365] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 ##### 153 Orders under 1968 Act appointing person as guardian
     
@@ -3671,27 +4263,27 @@ Jurisdictional, procedural, miscellaneous, and saving and transitional provision
     
     **Kind of guardian** **Provision of 1968 Act** **Provision of this Act**
     
-    father section 6(3) [section 19(4)][24]
+    father section 6(3) [section 19(4)][27]
     
-    testamentary section 7(3) [section 26(3)][33]
+    testamentary section 7(3) [section 26(3)][36]
     
-    court-appointed section 8 [section 27][34]
+    court-appointed section 8 [section 27][37]
     
-    (2) The guardianship of a person appointed as guardian by an order referred to in subsection (1) terminates in accordance with [section 28][36] of this Act and, in particular, if the order is expressed to continue in force until the child concerned turns 20 years or attains full age, it has effect as if the reference to the child attaining that age were a reference to the child turning 18 years.
+    (2) The guardianship of a person appointed as guardian by an order referred to in subsection (1) terminates in accordance with [section 28][39] of this Act and, in particular, if the order is expressed to continue in force until the child concerned turns 20 years or attains full age, it has effect as if the reference to the child attaining that age were a reference to the child turning 18 years.
 
 ##### 154 Declarations under section 6A of 1968 Act as to guardianship of fathers
     
-*   Declarations made under section 6A of the Guardianship Act 1968 and that are in force immediately before the commencement of this Act must be treated as if they were made under [section 20][25] of this Act.
+*   Declarations made under section 6A of the Guardianship Act 1968 and that are in force immediately before the commencement of this Act must be treated as if they were made under [section 20][28] of this Act.
 
 ##### 155 Appointments of testamentary guardians under section 7(2) of 1968 Act
     
-*   (1) Appointments of testamentary guardians under section 7(2) of the Guardianship Act 1968 and that are in force immediately before the commencement of this Act must be treated as if they were appointments made under [section 26(2)][33] of this Act.
+*   (1) Appointments of testamentary guardians under section 7(2) of the Guardianship Act 1968 and that are in force immediately before the commencement of this Act must be treated as if they were appointments made under [section 26(2)][36] of this Act.
     
-    (2) The guardianship of a testamentary guardian appointed under section 7(2) of the Guardianship Act 1968 terminates in accordance with [section 28][36] of this Act.
+    (2) The guardianship of a testamentary guardian appointed under section 7(2) of the Guardianship Act 1968 terminates in accordance with [section 28][39] of this Act.
 
 ##### 156 Orders under 1968 Act about guardianship of court
     
-*   An order that is made under section 10B(1)(a) or (as the case requires) section 10B(1)(b) or section 10D(1)(c)(ii) of the Guardianship Act 1968 and that is in force immediately before the date on which this Act comes into force must be treated as if it were an order described in [section 31(1)(a)][40] or (as the case requires) section 31(1)(b) or [section 33(1)(c)(ii)][42] of this Act and, in particular, an order of that kind ceases to have effect in accordance with section 33(2) of this Act.
+*   An order that is made under section 10B(1)(a) or (as the case requires) section 10B(1)(b) or section 10D(1)(c)(ii) of the Guardianship Act 1968 and that is in force immediately before the date on which this Act comes into force must be treated as if it were an order described in [section 31(1)(a)][43] or (as the case requires) section 31(1)(b) or [section 33(1)(c)(ii)][45] of this Act and, in particular, an order of that kind ceases to have effect in accordance with section 33(2) of this Act.
 
 ##### 157 Orders under 1968 Act about custody
     
@@ -3703,7 +4295,7 @@ Jurisdictional, procedural, miscellaneous, and saving and transitional provision
 
 ##### 159 Other references to custody and access under 1968 Act
     
-*   Unless the context otherwise requires, every reference in any document whatsoever (other than in this Act or in an enactment specified in [Schedule 4][212])---
+*   Unless the context otherwise requires, every reference in any document whatsoever (other than in this Act or in an enactment specified in [Schedule 4][243])---
         
     *   (a) to ""custody of"" a child under the Guardianship Act 1968 is, after this Act comes into force, to be read as a reference to ""the role of providing day-to-day care for"" the child under this Act; and
     
@@ -3723,9 +4315,9 @@ Jurisdictional, procedural, miscellaneous, and saving and transitional provision
 
 ##### 161 Appointments under section 30 of 1968 Act
     
-*   (1) Appointments of a barrister or solicitor under section 30(1)(a) of the Guardianship Act 1968 and that are in force immediately before this Act comes into force must be treated as if they were made under [section 130(1)][169] of this Act.
+*   (1) Appointments of a barrister or solicitor under section 30(1)(a) of the Guardianship Act 1968 and that are in force immediately before this Act comes into force must be treated as if they were made under [section 130(1)][194] of this Act.
     
-    (2) Appointments of a barrister and solicitor under section 30(1)(b) of the Guardianship Act 1968 and that are in force immediately before this Act comes into force must be treated as if they were made under [section 7(1)][8] of this Act.
+    (2) Appointments of a barrister and solicitor under section 30(1)(b) of the Guardianship Act 1968 and that are in force immediately before this Act comes into force must be treated as if they were made under [section 7(1)][9] of this Act.
 
 ##### 162 Applications under 1991 Amendment Act
     
@@ -3735,30 +4327,66 @@ Jurisdictional, procedural, miscellaneous, and saving and transitional provision
     
     *   (b) that are not withdrawn or finally determined by the date on which this Act comes into force.
     
-    (2) Applications to which this section applies continue under this Act as if they were made under this Act to the Central Authority for New Zealand designated by [section 100(1)][132].
+    (2) Applications to which this section applies continue under this Act as if they were made under this Act to the Central Authority for New Zealand designated by [section 100(1)][157].
 
 ##### 163 Appointments under section 23 of 1991 Amendment Act
     
-*   Appointments of a barrister or solicitor under section 23 of the Guardianship Amendment Act 1991 and that are in force immediately before this Act comes into force must be treated as if they were made under [section 116][151] of this Act.
+*   Appointments of a barrister or solicitor under section 23 of the Guardianship Amendment Act 1991 and that are in force immediately before this Act comes into force must be treated as if they were made under [section 116][176] of this Act.
 
 ##### 164 Orders saved by section 31(2) of 1991 Amendment Act
     
-*   The repeal of the Guardianship Amendment Act 1991 by [section 152][195] of this Act does not affect an order saved by section 31(2) of that Act, and this Act applies to an order of that kind---
+*   The repeal of the Guardianship Amendment Act 1991 by [section 152][224] of this Act does not affect an order saved by section 31(2) of that Act, and this Act applies to an order of that kind---
         
     *   (a) as if the United Kingdom of Great Britain and Northern Ireland were a prescribed country under this Act; and
     
-    *   (b) if the order was registered under section 22A of the Guardianship Act 1968, as if the order were registered under [section 81][110] of this Act; and
+    *   (b) if the order was registered under section 22A of the Guardianship Act 1968, as if the order were registered under [section 81][135] of this Act; and
     
-    *   (c) if the order was not registered under section 22A of the Guardianship Act 1968, as if section 31(2) of the Guardianship Amendment Act 1991 continued in force and permitted the order to be registered under [section 81][110] of this Act.
+    *   (c) if the order was not registered under section 22A of the Guardianship Act 1968, as if section 31(2) of the Guardianship Amendment Act 1991 continued in force and permitted the order to be registered under [section 81][135] of this Act.
     
     
+
+#### Transitional provision applying on enactment of Care of Children Amendment Act (No 2) 2013
+    
+*   Heading: inserted, on 31 March 2014, by [section 43][366] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
+
+##### 165 Proceedings commenced before commencement of this section but not completed
+    
+*   (1) This section applies to proceedings under this Act that were commenced before the date of commencement of this section but were not by that date completed (a **pending proceeding**).
+    
+    (2) The following provisions do not apply to a pending proceeding:
+        
+    *   (a) [section 7A][10]; and
+    
+    *   (b) [section 135A][201]; and
+    
+    *   (c) [section 135B][202].
+    
+    (3) The following provisions, as in force immediately before the date of commencement of this section, continue to apply to a pending proceeding with any necessary modifications as if the [Care of Children Amendment Act (No 2) 2013][367] had not been enacted:
+        
+    *   (a) [section 131][195]; and
+    
+    *   (b) [section 135][200]; and
+    
+    *   (c) [section 137][204].
+    
+    (4) If [section 57][103], as in force immediately before the date of commencement of this section, applied in respect of any interim order, section 57 continues to apply in respect of that order as if the [Care of Children Amendment Act (No 2) 2013][367] had not been enacted.
+    
+    (5) If in any pending proceeding there is in force immediately before the date of commencement of this section an order for supervised contact between a child who is the subject of the proceeding and any party, [sections 62][110] and [147(2)(a) and (b)][216] continue to apply in respect of that proceeding as if the [Care of Children Amendment Act (No 2) 2013][367] had not been enacted.
+    
+    (6) If in any pending proceeding a referral to counselling was made either on the court's initiative (under [section 45][61]) or on the request of a party (under [section 65][114]) and that counselling was arranged or was in progress immediately before the date of commencement of this section,---
+        
+    *   (a) [sections 66][115], [67][116], [69][118], and [138][205] continue to apply as if the [Care of Children Amendment Act (No 2) 2013][367] had not been enacted; but
+    
+    *   (b) the counselling may not start or continue 4 months after the date of commencement of this section.
+    
+    Section 165: inserted, on 31 March 2014, by [section 43][366] of the Care of Children Amendment Act (No 2) 2013 (2013 No 74).
 
 ---
 
 ## Schedule 1  
 Convention on the Civil Aspects of International Child Abduction
 
-[s 95][127]
+[s 95][152]
 
 The States signatory to the present Convention,
 
@@ -4073,83 +4701,83 @@ The Ministry of Foreign Affairs of the Kingdom of the Netherlands shall notify t
 ## Schedule 2  
 Amendments to Family Proceedings Act 1980 (extending counselling and conciliation provisions to same-sex de facto partners)
 
-[s 149][190]
+[s 149][219]
 
-*   Schedule 2: substituted, on 26 April 2005, by [section 45][315] of the Civil Union Act 2004 (2004 No 102).
+*   Schedule 2: substituted, on 26 April 2005, by [section 45][368] of the Civil Union Act 2004 (2004 No 102).
 
-_Amendment(s) incorporated in the [Act(s)][258]_.
+_Amendment(s) incorporated in the [Act(s)][292]_.
 
 ---
 
 ## Schedule 3  
 Amendments to Family Proceedings Act 1980 (parentage tests in civil proceedings)
 
-[s 150][192]
+[s 150][221]
 
-_Amendment(s) incorporated in the [Act(s)][258]_.
+_Amendment(s) incorporated in the [Act(s)][292]_.
 
 ---
 
 ## Schedule 4  
 Other amendments
 
-[s 151][194]
+[s 151][223]
 
 ##### Administration Act 1969 (1969 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][316]_.
+_Amendment(s) incorporated in the [Act(s)][369]_.
 
 ##### Adoption Act 1955 (1955 No 93)
 
-_Amendment(s) incorporated in the [Act(s)][317]_.
+_Amendment(s) incorporated in the [Act(s)][370]_.
 
 ##### Births, Deaths, and Marriages Registration Act 1995 (1995 No 16)
 
-_Amendment(s) incorporated in the [Act(s)][318]_.
+_Amendment(s) incorporated in the [Act(s)][371]_.
 
 ##### Children, Young Persons, and Their Families Act 1989 (1989 No 24)
 
-_Amendment(s) incorporated in the [Act(s)][319]_.
+_Amendment(s) incorporated in the [Act(s)][372]_.
 
 ##### Civil Union Act 2004 (2004 No 102)
 
-_Amendment(s) incorporated in the [Act(s)][320]_.
+_Amendment(s) incorporated in the [Act(s)][373]_.
 
 ##### Defence Act 1990 (1990 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][321]_.
+_Amendment(s) incorporated in the [Act(s)][374]_.
 
 ##### Department of Child, Youth and Family Services Act 1999 (1999 No 82)
 
-_Amendment(s) incorporated in the [Act(s)][322]_.
+_Amendment(s) incorporated in the [Act(s)][375]_.
 
 ##### Domestic Violence Act 1995 (1995 No 86)
 
-_Amendment(s) incorporated in the [Act(s)][323]_.
+_Amendment(s) incorporated in the [Act(s)][376]_.
 
 ##### Evidence Amendment Act 1994 (1994 No 31)
 
-_Amendment(s) incorporated in the [Act(s)][324]_.
+_Amendment(s) incorporated in the [Act(s)][377]_.
 
 ##### Family Courts Act 1980 (1980 No 161)
 
-_Amendment(s) incorporated in the [Act(s)][325]_.
+_Amendment(s) incorporated in the [Act(s)][378]_.
 
 ##### Family Proceedings Act 1980 (1980 No 94)
 
-_Amendment(s) incorporated in the [Act(s)][258]_.
+_Amendment(s) incorporated in the [Act(s)][292]_.
 
 ##### Fencing Act 1978 (1978 No 50)
 
-_Amendment(s) incorporated in the [Act(s)][326]_.
+_Amendment(s) incorporated in the [Act(s)][379]_.
 
 ##### Habeas Corpus Act 2001 (2001 No 31)
 
-_Amendment(s) incorporated in the [Act(s)][327]_.
+_Amendment(s) incorporated in the [Act(s)][380]_.
 
 ##### Health Act 1956 (1956 No 65)
 
-_Amendment(s) incorporated in the [Act(s)][247]_.
+_Amendment(s) incorporated in the [Act(s)][276]_.
 
 ##### Income Tax Act 1994 (1994 No 164)
 
@@ -4157,15 +4785,15 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Income Tax Act 2004 (2004 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][328]_.
+_Amendment(s) incorporated in the [Act(s)][381]_.
 
 ##### Judicature Act 1908 (1908 No 89)
 
-_Amendment(s) incorporated in the [Act(s)][329]_.
+_Amendment(s) incorporated in the [Act(s)][382]_.
 
 ##### Legal Services Act 2000 (2000 No 42)
 
-_Amendment(s) incorporated in the [Act(s)][330]_.
+_Amendment(s) incorporated in the [Act(s)][383]_.
 
 ##### Marriage Act 1955 (1955 No 92)
 
@@ -4173,7 +4801,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46)
 
-_Amendment(s) incorporated in the [Act(s)][331]_.
+_Amendment(s) incorporated in the [Act(s)][384]_.
 
 ##### Minors' Contracts Act 1969 (1969 No 41)
 
@@ -4181,21 +4809,21 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Protection of Personal and Property Rights Act 1988 (1988 No 4)
 
-_Amendment(s) incorporated in the [Act(s)][332]_.
+_Amendment(s) incorporated in the [Act(s)][385]_.
 
 ##### Sale of Liquor Act 1989 (1989 No 63)
 
-_Amendment(s) incorporated in the [Act(s)][333]_.
+_Amendment(s) incorporated in the [Act(s)][386]_.
 
 ##### Social Security Act 1964 (1964 No 136)
 
-_Amendment(s) incorporated in the [Act(s)][334]_.
+_Amendment(s) incorporated in the [Act(s)][387]_.
 
 ##### Victims' Rights Act 2002 (2002 No 39)
 
-_Amendment(s) incorporated in the [Act(s)][335]_.
+_Amendment(s) incorporated in the [Act(s)][388]_.
 
-Schedule 2 **Civil Union Act 2004**: inserted, on 26 April 2005, by [section 46][336] of the Civil Union Act 2004 (2004 No 102).
+Schedule 2 **Civil Union Act 2004**: inserted, on 26 April 2005, by [section 46][389] of the Civil Union Act 2004 (2004 No 102).
 
 #### 
 
@@ -4209,37 +4837,39 @@ Schedule 2 **Civil Union Act 2004**: inserted, on 26 April 2005, by [section 46]
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][337] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][338] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][390] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][391] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][339] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][340] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][392] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][393] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [Care of Children Amendment Act (No 2) 2013][341] (2013 No 74)
+*   [Care of Children Amendment Act (No 2) 2013][367] (2013 No 74)
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][281]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][307]
     
-    [Care of Children Amendment Act 2011][342] (2011 No 59)
+    [Care of Children Amendment Act 2011][394] (2011 No 59)
     
-    Immigration Act 2009 (2009 No 51): [section 406(1)][290]
+    Immigration Act 2009 (2009 No 51): [section 406(1)][318]
     
-    [Care of Children Amendment Act 2008][343] (2008 No 74)
+    [Care of Children Amendment Act 2008][362] (2008 No 74)
     
-    Policing Act 2008 (2008 No 72): [sections 116(a)(ii)][282], [130(1)][285]
+    Policing Act 2008 (2008 No 72): [sections 116(a)(ii)][308], [130(1)][311]
     
-    Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][227]
+    Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][255]
     
-    [Care of Children Amendment Act 2007][344] (2007 No 44)
+    [Care of Children Amendment Act 2007][395] (2007 No 44)
     
-    Lawyers and Conveyancers Act 2006 (2006 No 1): [section 348][226]
+    Lawyers and Conveyancers Act 2006 (2006 No 1): [section 348][254]
     
-    Judicature Amendment Act (No 2) 2005 (2005 No 107): [section 5(2)][304]
+    Judicature Amendment Act (No 2) 2005 (2005 No 107): [section 5(2)][348]
     
-    [Care of Children Amendment Act 2005][345] (2005 No 5)
+    [Care of Children Amendment Act 2005][396] (2005 No 5)
     
-    Civil Union Act 2004 (2004 No 102): [sections 45][315], [46][336]
+    Civil Union Act 2004 (2004 No 102): [sections 45][368], [46][389]
+    
+    Family Courts Act 1980 (1980 No 161): [section 17A(b)][324]
 
 
 
@@ -4250,342 +4880,393 @@ Schedule 2 **Civil Union Act 2004**: inserted, on 26 April 2005, by [section 46]
 [4]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317239
 [5]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317240
 [6]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317241
-[7]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317242
-[8]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317243
-[9]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317244
-[10]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317400
-[11]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317402
-[12]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317404
-[13]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317405
-[14]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317406
-[15]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317407
-[16]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317408
-[17]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317409
-[18]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317410
-[19]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317411
-[20]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317414
-[21]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317417
-[22]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317418
-[23]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317421
-[24]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317422
-[25]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317424
-[26]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317425
-[27]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317427
-[28]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317430
-[29]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317431
-[30]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317438
-[31]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317440
-[32]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317442
-[33]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317443
-[34]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317444
-[35]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317445
-[36]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317446
-[37]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317448
-[38]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317451
-[39]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317452
-[40]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317453
-[41]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317457
-[42]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317458
-[43]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317460
-[44]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317461
-[45]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317462
-[46]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317463
-[47]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317465
-[48]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317472
-[49]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317473
-[50]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317474
-[51]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317475
-[52]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317476
-[53]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317477
-[54]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317478
-[55]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317488
-[56]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317489
-[57]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317490
-[58]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317492
-[59]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317497
-[60]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317499
-[61]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317601
-[62]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317603
-[63]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM5649000
-[64]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM5649002
-[65]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM5649003
-[66]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM5649006
-[67]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317605
-[68]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317606
-[69]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317610
-[70]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317611
-[71]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317612
-[72]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317613
-[73]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317616
-[74]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317617
-[75]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317620
-[76]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317621
-[77]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317622
-[78]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317624
-[79]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317628
-[80]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317629
-[81]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317638
-[82]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317639
-[83]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317642
-[84]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM4169376
-[85]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317643
-[86]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317644
-[87]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317645
-[88]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317646
-[89]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317647
-[90]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317648
-[91]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317650
-[92]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317651
-[93]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317652
-[94]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317653
-[95]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317654
-[96]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317658
-[97]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317660
-[98]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317662
-[99]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317663
-[100]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317664
-[101]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317665
-[102]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM4169377
-[103]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM4169378
-[104]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317667
-[105]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317668
-[106]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317669
-[107]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317670
-[108]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317671
-[109]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317672
-[110]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317673
-[111]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317674
-[112]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317675
-[113]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317676
-[114]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317677
-[115]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317678
-[116]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317679
-[117]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317680
-[118]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317681
-[119]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317682
-[120]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317683
-[121]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317684
-[122]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317685
-[123]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317686
-[124]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317687
-[125]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317688
-[126]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317689
-[127]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317690
-[128]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317917
-[129]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317918
-[130]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317920
-[131]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317921
-[132]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317922
-[133]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317923
-[134]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317924
-[135]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317925
-[136]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317926
-[137]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317927
-[138]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317928
-[139]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317929
-[140]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317930
-[141]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317931
-[142]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317932
-[143]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317933
-[144]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317934
-[145]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317935
-[146]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317936
-[147]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317937
-[148]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317938
-[149]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317939
-[150]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317940
-[151]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317941
-[152]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317942
-[153]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317943
-[154]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317944
-[155]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317945
-[156]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317946
-[157]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317947
-[158]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM4169379
-[159]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317948
-[160]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317949
-[161]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317950
-[162]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317951
-[163]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317952
-[164]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317953
-[165]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317955
-[166]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317956
-[167]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317957
-[168]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317958
-[169]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317960
-[170]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317961
-[171]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317962
-[172]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317963
-[173]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317964
-[174]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317966
-[175]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317967
-[176]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317968
-[177]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317969
-[178]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317970
-[179]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317972
-[180]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317973
-[181]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317975
-[182]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317976
-[183]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317977
-[184]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317978
-[185]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317979
-[186]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317980
-[187]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317981
-[188]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317982
-[189]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317983
-[190]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317984
-[191]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317985
-[192]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317986
-[193]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317987
-[194]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317988
-[195]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317989
-[196]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317990
-[197]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317991
-[198]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317993
-[199]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317994
-[200]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317995
-[201]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317996
-[202]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317997
-[203]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317998
-[204]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317999
-[205]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM318100
-[206]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM318101
-[207]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM318102
-[208]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM318103
-[209]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM318104
-[210]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM318163
-[211]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM318177
-[212]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM318199
-[213]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM149441
-[214]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM372117
-[215]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM149440
-[216]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM149454
-[217]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM152193
-[218]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM225187
-[219]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM3315008
-[220]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM1301607
-[221]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM147087
-[222]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM364948
-[223]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM359378
-[224]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM129718
-[225]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM334765
-[226]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM367849
-[227]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM1048943
-[228]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM305547
-[229]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM305550
-[230]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM31861
-[231]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM364101
-[232]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM176192
-[233]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM391031
-[234]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM149452
-[235]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM371925
-[236]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM312894
-[237]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM313301
-[238]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM280848
-[239]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM293515
-[240]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM150002
-[241]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM150005
-[242]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM150481
-[243]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM151074
-[244]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM151666
-[245]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM154515
-[246]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM203321
-[247]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM308483
-[248]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM391036
-[249]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM441403
-[250]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM39722
-[251]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM40089
-[252]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM40225
-[253]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM292097
-[254]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM323431
-[255]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM323432
-[256]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM4897310
-[257]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM3315009
-[258]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM39728
-[259]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM3315010
-[260]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM149449
-[261]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM372462
-[262]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM292660
-[263]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM372448
-[264]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM3315011
-[265]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM154574
-[266]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM42273
-[267]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM372148
-[268]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM3051172
-[269]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM3315012
-[270]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM1301649
-[271]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM3315020
-[272]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM3315021
-[273]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM3315030
-[274]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM40203
-[275]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM40205
-[276]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM40085
-[277]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM40094
-[278]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM40200
-[279]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM3360276
-[280]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM40223
-[281]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM3360714
-[282]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM1102349
-[283]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM1102245
-[284]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM968106
-[285]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM1102383
-[286]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM3315024
-[287]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM3315025
-[288]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM147653
-[289]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM968107
-[290]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM1441347
-[291]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM143094
-[292]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM3315028
-[293]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM3315029
-[294]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM3360278
-[295]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM1301657
-[296]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM1301658
-[297]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM135583
-[298]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM1301659
-[299]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM40209
-[300]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM1301660
-[301]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM41846
-[302]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM151672
-[303]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM147394
-[304]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM362212
-[305]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM243901
-[306]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM243795
-[307]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM243909
-[308]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM144692
-[309]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM42296
-[310]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM42253
-[311]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM244468
-[312]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM147641
-[313]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM42205
-[314]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM4897383
-[315]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM323482
-[316]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM393030
-[317]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM293129
-[318]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM364112
-[319]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM147094
-[320]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM323391
-[321]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM206046
-[322]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM31285
-[323]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM372149
-[324]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM331063
-[325]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM42279
-[326]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM21861
-[327]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM91789
-[328]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM264309
-[329]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM146092
-[330]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM71830
-[331]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM263818
-[332]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM126577
-[333]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM165121
-[334]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM361253
-[335]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM157820
-[336]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM323483
-[337]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM2998516
-[338]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM2998515
-[339]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM2998532
-[340]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[341]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM4896268
-[342]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM3315002
-[343]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM1301602
-[344]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM968099
-[345]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM334759
+[7]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM6027309
+[8]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317242
+[9]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317243
+[10]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM6027320
+[11]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM6027325
+[12]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317244
+[13]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317400
+[14]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317402
+[15]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317404
+[16]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317405
+[17]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317406
+[18]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317407
+[19]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317408
+[20]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317409
+[21]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317410
+[22]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317411
+[23]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317414
+[24]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317417
+[25]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317418
+[26]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317421
+[27]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317422
+[28]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317424
+[29]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317425
+[30]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317427
+[31]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317430
+[32]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317431
+[33]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317438
+[34]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317440
+[35]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317442
+[36]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317443
+[37]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317444
+[38]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317445
+[39]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317446
+[40]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317448
+[41]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317451
+[42]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317452
+[43]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317453
+[44]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317457
+[45]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317458
+[46]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317460
+[47]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317461
+[48]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317462
+[49]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317463
+[50]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317465
+[51]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317472
+[52]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317473
+[53]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317474
+[54]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317475
+[55]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317476
+[56]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317477
+[57]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317478
+[58]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317488
+[59]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317489
+[60]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317490
+[61]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317492
+[62]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317497
+[63]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317499
+[64]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317601
+[65]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317603
+[66]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM6027362
+[67]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM6027365
+[68]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM6027366
+[69]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM6027370
+[70]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM6027371
+[71]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM5649000
+[72]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM6027380
+[73]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM5649002
+[74]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM5649003
+[75]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM6027383
+[76]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM5649006
+[77]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM6027386
+[78]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM6027387
+[79]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM6027388
+[80]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM6027389
+[81]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM6027390
+[82]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM6027391
+[83]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM6027392
+[84]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM6027393
+[85]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM6027394
+[86]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM6027395
+[87]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317605
+[88]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317606
+[89]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM6027816
+[90]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM6027817
+[91]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317610
+[92]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317611
+[93]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM6027830
+[94]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM6027831
+[95]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM6027833
+[96]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317612
+[97]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317613
+[98]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317616
+[99]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317617
+[100]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317620
+[101]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317621
+[102]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317622
+[103]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317624
+[104]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317628
+[105]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317629
+[106]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317638
+[107]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317639
+[108]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317642
+[109]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM4169376
+[110]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317643
+[111]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317644
+[112]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317645
+[113]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317646
+[114]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317647
+[115]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317648
+[116]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317650
+[117]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317651
+[118]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317652
+[119]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317653
+[120]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317654
+[121]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317658
+[122]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317660
+[123]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317662
+[124]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317663
+[125]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317664
+[126]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317665
+[127]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM4169377
+[128]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM4169378
+[129]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317667
+[130]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317668
+[131]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317669
+[132]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317670
+[133]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317671
+[134]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317672
+[135]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317673
+[136]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317674
+[137]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317675
+[138]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317676
+[139]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317677
+[140]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317678
+[141]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317679
+[142]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317680
+[143]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317681
+[144]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317682
+[145]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317683
+[146]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317684
+[147]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317685
+[148]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317686
+[149]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317687
+[150]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317688
+[151]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317689
+[152]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317690
+[153]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317917
+[154]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317918
+[155]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317920
+[156]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317921
+[157]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317922
+[158]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317923
+[159]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317924
+[160]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317925
+[161]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317926
+[162]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317927
+[163]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317928
+[164]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317929
+[165]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317930
+[166]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317931
+[167]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317932
+[168]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317933
+[169]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317934
+[170]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317935
+[171]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317936
+[172]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317937
+[173]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317938
+[174]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317939
+[175]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317940
+[176]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317941
+[177]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317942
+[178]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317943
+[179]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317944
+[180]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317945
+[181]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317946
+[182]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317947
+[183]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM4169379
+[184]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317948
+[185]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317949
+[186]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317950
+[187]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317951
+[188]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317952
+[189]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317953
+[190]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317955
+[191]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317956
+[192]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317957
+[193]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317958
+[194]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317960
+[195]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317961
+[196]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM6027885
+[197]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317962
+[198]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317963
+[199]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317964
+[200]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317966
+[201]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM6028012
+[202]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM6028019
+[203]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317967
+[204]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317968
+[205]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317969
+[206]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317970
+[207]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM6028038
+[208]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317972
+[209]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317973
+[210]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317975
+[211]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317976
+[212]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317977
+[213]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317978
+[214]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317979
+[215]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317980
+[216]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317981
+[217]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317982
+[218]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317983
+[219]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317984
+[220]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317985
+[221]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317986
+[222]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317987
+[223]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317988
+[224]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317989
+[225]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317990
+[226]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317991
+[227]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317993
+[228]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317994
+[229]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317995
+[230]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317996
+[231]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317997
+[232]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317998
+[233]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM317999
+[234]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM318100
+[235]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM318101
+[236]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM318102
+[237]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM318103
+[238]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM6028076
+[239]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM6028077
+[240]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM318104
+[241]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM318163
+[242]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM318177
+[243]: http://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html#DLM318199
+[244]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM4896287
+[245]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM372117
+[246]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM372148
+[247]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM4896290
+[248]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM147087
+[249]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM364948
+[250]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM359378
+[251]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM129718
+[252]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM4896299
+[253]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM334765
+[254]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM367849
+[255]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM1048943
+[256]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM305547
+[257]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM305550
+[258]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM31861
+[259]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM364101
+[260]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM176192
+[261]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM391031
+[262]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM149452
+[263]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM371925
+[264]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM312894
+[265]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM313301
+[266]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM280848
+[267]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM293515
+[268]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM5574201
+[269]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM150002
+[270]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM150005
+[271]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM150481
+[272]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM151074
+[273]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM151666
+[274]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM154515
+[275]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM203321
+[276]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM308483
+[277]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM4897308
+[278]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM391036
+[279]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM441403
+[280]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM4897309
+[281]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM292097
+[282]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM323431
+[283]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM323432
+[284]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM4897310
+[285]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM5616800
+[286]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM4897319
+[287]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM5574205
+[288]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM4897323
+[289]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM3315009
+[290]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM4897326
+[291]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM39722
+[292]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM39728
+[293]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM3315010
+[294]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM149449
+[295]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM372462
+[296]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM5574208
+[297]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM292660
+[298]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM4897327
+[299]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM154574
+[300]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM42273
+[301]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM4897337
+[302]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM4897338
+[303]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM4897339
+[304]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM3360276
+[305]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM40223
+[306]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM4897340
+[307]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM3360714
+[308]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM1102349
+[309]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM1102245
+[310]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM968106
+[311]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM1102383
+[312]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM3315024
+[313]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM3315025
+[314]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM4897341
+[315]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM147653
+[316]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM5574209
+[317]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM968107
+[318]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM1441347
+[319]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM5574210
+[320]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM143094
+[321]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM3315028
+[322]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM3315029
+[323]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM5574211
+[324]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM6025517
+[325]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM3360278
+[326]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM4897343
+[327]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM6025512
+[328]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM5242823
+[329]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM5242825
+[330]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM4897346
+[331]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM4897366
+[332]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM4897367
+[333]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM244437
+[334]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM244478
+[335]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM147641
+[336]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM261944
+[337]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM135583
+[338]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM4897378
+[339]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM1301659
+[340]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM4897379
+[341]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM2061203
+[342]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM1301660
+[343]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM4897380
+[344]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM41846
+[345]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM151672
+[346]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM147394
+[347]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM4897382
+[348]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM362212
+[349]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM5242829
+[350]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM243901
+[351]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM243795
+[352]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM243909
+[353]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM5574214
+[354]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM5574215
+[355]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM144692
+[356]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM42296
+[357]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM244468
+[358]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM5574216
+[359]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM42205
+[360]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM4897383
+[361]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM4897384
+[362]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM1301602
+[363]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM5300502
+[364]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM5574217
+[365]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM5574219
+[366]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM4897386
+[367]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM4896268
+[368]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM323482
+[369]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM393030
+[370]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM293129
+[371]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM364112
+[372]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM147094
+[373]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM323391
+[374]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM206046
+[375]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM31285
+[376]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM372149
+[377]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM331063
+[378]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM42279
+[379]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM21861
+[380]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM91789
+[381]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM264309
+[382]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM146092
+[383]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM71830
+[384]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM263818
+[385]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM126577
+[386]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM165121
+[387]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM361253
+[388]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM157820
+[389]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM323483
+[390]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM2998516
+[391]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM2998515
+[392]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM2998532
+[393]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[394]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM3315002
+[395]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM968099
+[396]: http://www.legislation.govt.nz/act/public/2004/0090/latest/link.aspx?id=DLM334759
