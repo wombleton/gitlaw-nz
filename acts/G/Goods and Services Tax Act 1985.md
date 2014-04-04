@@ -1,5 +1,5 @@
 Reprint  
-as at 1 January 2014
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencement3 December 1985
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -253,113 +253,117 @@ This Act is administered by the Inland Revenue Department.
 
 [54][109][][109][Liabilities not affected by ceasing to be registered person][109]
 
-[Part 9][110]  
-[Special cases][110]
+[54B][110][][110][Non-residents: registration ][110]
 
-[55][111][][111][Group of companies][111]
+[54C][111][][111][Non-residents: cancellation of registration][111]
 
-[56][112][][112][Branches and divisions][112]
+[Part 9][112]  
+[Special cases][112]
 
-[56B][113][][113][Branches and divisions in relation to certain imported services][113]
+[55][113][][113][Group of companies][113]
 
-[57][114][][114][Unincorporated bodies][114]
+[56][114][][114][Branches and divisions][114]
 
-[58][115][][115][Personal representative, liquidator, receiver, etc][115]
+[56B][115][][115][Branches and divisions in relation to certain imported services][115]
 
-[59][116][][116][Liability of agent of absentee principal for returns and tax][116]
+[57][116][][116][Unincorporated bodies][116]
 
-[60][117][][117][Agents and auctioneers][117]
+[58][117][][117][Personal representative, liquidator, receiver, etc][117]
 
-[60B][118][][118][Nominated recipients of supplies][118]
+[59][118][][118][Liability of agent of absentee principal for returns and tax][118]
 
-[61][119][][119][Liability for tax payable by company left with insufficient assets][119]
+[60][119][][119][Agents and auctioneers][119]
 
-[61A][120][][120][Company amalgamations][120]
+[60B][120][][120][Nominated recipients of supplies][120]
 
-[61B][121][][121][Application of Part 9 of Tax Administration Act 1994][121] \[Repealed\]
+[61][121][][121][Liability for tax payable by company left with insufficient assets][121]
 
-[Part 10][122]  
-[Penalties][122]
+[61A][122][][122][Company amalgamations][122]
+
+[61B][123][][123][Application of Part 9 of Tax Administration Act 1994][123] \[Repealed\]
+
+[Part 10][124]  
+[Penalties][124]
 
 \[Repealed\]
 
-[62][123][][123][Offences][123] \[Repealed\]
+[62][125][][125][Offences][125] \[Repealed\]
 
-[63][124][][124][Officers and employees of corporate bodies][124] \[Repealed\]
+[63][126][][126][Officers and employees of corporate bodies][126] \[Repealed\]
 
-[64][125][][125][Proceedings to be taken summarily][125] \[Repealed\]
+[64][127][][127][Proceedings to be taken summarily][127] \[Repealed\]
 
-[65][126][][126][Information may charge several offences][126] \[Repealed\]
+[65][128][][128][Information may charge several offences][128] \[Repealed\]
 
-[66][127][][127][Information may be laid within 10 years][127] \[Repealed\]
+[66][129][][129][Information may be laid within 10 years][129] \[Repealed\]
 
-[67][128][][128][Penal tax in case of evasion][128] \[Repealed\]
+[67][130][][130][Penal tax in case of evasion][130] \[Repealed\]
 
-[68][129][][129][Nature of penal tax][129] \[Repealed\]
+[68][131][][131][Nature of penal tax][131] \[Repealed\]
 
-[69][130][][130][Assessment of penal tax][130] \[Repealed\]
+[69][132][][132][Assessment of penal tax][132] \[Repealed\]
 
-[70][131][][131][Objections to penal tax][131] \[Repealed\]
+[70][133][][133][Objections to penal tax][133] \[Repealed\]
 
-[71][132][][132][Recovery of penal tax][132] \[Repealed\]
+[71][134][][134][Recovery of penal tax][134] \[Repealed\]
 
-[72][133][][133][Recovery of penal tax from executors or administrators][133] \[Repealed\]
+[72][135][][135][Recovery of penal tax from executors or administrators][135] \[Repealed\]
 
-[73][134][][134][Recovery of penal tax not affected by conviction of registered person][134] \[Repealed\]
+[73][136][][136][Recovery of penal tax not affected by conviction of registered person][136] \[Repealed\]
 
-[74][135][][135][Publication of names of tax evaders][135] \[Repealed\]
+[74][137][][137][Publication of names of tax evaders][137] \[Repealed\]
 
-[Part 11][136]  
-[General provisions][136]
+[Part 11][138]  
+[General provisions][138]
 
-[75][137][][137][Keeping of records][137]
+[75][139][][139][Keeping of records][139]
 
-[76][138][][138][Avoidance][138]
+[76][140][][140][Avoidance][140]
 
-[77][139][][139][New Zealand currency][139]
+[77][141][][141][New Zealand currency][141]
 
-[78][140][][140][Effect of imposition or alteration of tax][140]
+[78][142][][142][Effect of imposition or alteration of tax][142]
 
-[78AA][141][][141][Exceptions to effect of increase of tax][141]
+[78AA][143][][143][Exceptions to effect of increase of tax][143]
 
-[78A][142][][142][Returns to be furnished in 2 parts for taxable period in which change in rate of tax occurs][142]
+[78A][144][][144][Returns to be furnished in 2 parts for taxable period in which change in rate of tax occurs][144]
 
-[78B][143][][143][Adjustments to tax payable for persons furnishing returns following change in rate of tax][143]
+[78B][145][][145][Adjustments to tax payable for persons furnishing returns following change in rate of tax][145]
 
-[78BA][144][][144][Adjustments to tax payable in relation to credit and debit notes following change in rate of tax][144]
+[78BA][146][][146][Adjustments to tax payable in relation to credit and debit notes following change in rate of tax][146]
 
-[78C][145][][145][Change in accounting basis coinciding with or occurring after change in rate of tax][145]
+[78C][147][][147][Change in accounting basis coinciding with or occurring after change in rate of tax][147]
 
-[78D][146][][146][Liability to pay past tax, etc, not affected by alteration in the law][146]
+[78D][148][][148][Liability to pay past tax, etc, not affected by alteration in the law][148]
 
-[78E][147][][147][Alteration of agreed price in relation to supply mistakenly believed to be of a going concern][147]
+[78E][149][][149][Alteration of agreed price in relation to supply mistakenly believed to be of a going concern][149]
 
-[78F][148][][148][Liability in relation to supplies of land][148]
+[78F][150][][150][Liability in relation to supplies of land][150]
 
-[78G][149][][149][Railways vesting: zero-rating and timing of tax calculations and documents][149]
+[78G][151][][151][Railways vesting: zero-rating and timing of tax calculations and documents][151]
 
-[79][150][][150][Disclosure of information][150]
+[79][152][][152][Disclosure of information][152]
 
-[80][151][][151][Power to extend time for doing anything under Act][151] \[Repealed\]
+[80][153][][153][Power to extend time for doing anything under Act][153] \[Repealed\]
 
-[81][152][][152][Regulations][152] \[Repealed\]
+[81][154][][154][Regulations][154] \[Repealed\]
 
-[Part 12][153]  
-[Transitional provisions][153]
+[Part 12][155]  
+[Transitional provisions][155]
 
-[82][154][][154][Registration of persons liable to be registered on 1 October 1986][154] \[Repealed\]
+[82][156][][156][Registration of persons liable to be registered on 1 October 1986][156] \[Repealed\]
 
-[83][155][][155][Deduction for sales tax][155] \[Repealed\]
+[83][157][][157][Deduction for sales tax][157] \[Repealed\]
 
-[84][156][][156][Supplies prior to 1 October 1986][156]
+[84][158][][158][Supplies prior to 1 October 1986][158]
 
-[84B][157][][157][Supplies of services made before insertion of section 8(4B)][157]
+[84B][159][][159][Supplies of services made before insertion of section 8(4B)][159]
 
-[85][158][][158][Certain contracts entered into on or before 20 August 1985][158]
+[85][160][][160][Certain contracts entered into on or before 20 August 1985][160]
 
-[86][159][][159][Alternative method of accounting for transitional supplies][159]
+[86][161][][161][Alternative method of accounting for transitional supplies][161]
 
-[87][160][][160][Change of accounting basis: transitional provision for certain local authorities][160]
+[87][162][][162][Change of accounting basis: transitional provision for certain local authorities][162]
 
 ---
 
@@ -369,15 +373,15 @@ An Act to make provision for the imposition and collection of goods and services
     
 *   (1) This Act may be cited as the Goods and Services Tax Act 1985\.
     
-    (2) This Act, other than [section 12][23], is hereby declared to be one of the Inland Revenue Acts within the meaning of the [Tax Administration Act 1994][161].
+    (2) This Act, other than [section 12][23], is hereby declared to be one of the Inland Revenue Acts within the meaning of the [Tax Administration Act 1994][163].
     
-    (3) [Section 12][23] shall be deemed to be part of the [Customs and Excise Act 1996][162].
+    (3) [Section 12][23] shall be deemed to be part of the [Customs and Excise Act 1996][164].
     
     Section 1(2): substituted, on 1 April 1995 (applying with respect to the tax on income derived in 1995--96 and subsequent income years), by section YB 1 of the Income Tax Act 1994 (1994 No 164).
     
-    Section 1(2): amended (with effect on 1 October 1996), on 27 March 1998, by [section 51][163] of the Taxation (Remedial Provisions) Act 1998 (1998 No 7).
+    Section 1(2): amended (with effect on 1 October 1996), on 27 March 1998, by [section 51][165] of the Taxation (Remedial Provisions) Act 1998 (1998 No 7).
     
-    Section 1(3): substituted, on 1 October 1996, by [section 289(1)][164] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 1(3): substituted, on 1 October 1996, by [section 289(1)][166] of the Customs and Excise Act 1996 (1996 No 27).
 
 ## Part 1  
 Interpretation
@@ -404,7 +408,7 @@ Interpretation
     
     _challenge_ means---
         
-    *   (a) to commence proceedings under [Part 8A][165] of the Tax Administration Act 1994 challenging a disputable decision (as defined in [section 3(1)][166] of that Act); or
+    *   (a) to commence proceedings under [Part 8A][167] of the Tax Administration Act 1994 challenging a disputable decision (as defined in [section 3(1)][168] of that Act); or
     
     *   (b) the proceedings,---
     
@@ -416,7 +420,7 @@ Interpretation
             
         *   (i) a hotel, motel, homestay, farmstay, bed and breakfast establishment, inn, hostel, or boardinghouse:
         
-        *   (ii) a serviced apartment managed or operated by a third party for which services in addition to the supply of accommodation are provided and in relation to which a resident does not have quiet enjoyment, as that term is used in [section 38][167] of the Residential Tenancies Act 1986:
+        *   (ii) a serviced apartment managed or operated by a third party for which services in addition to the supply of accommodation are provided and in relation to which a resident does not have quiet enjoyment, as that term is used in [section 38][169] of the Residential Tenancies Act 1986:
         
         *   (iii) a convalescent home, nursing home, rest home, or hospice:
         
@@ -434,9 +438,9 @@ Interpretation
         
         
     
-    _Commissioner_ means the Commissioner of Inland Revenue as defined in the [Tax Administration Act 1994][161]
+    _Commissioner_ means the Commissioner of Inland Revenue as defined in the [Tax Administration Act 1994][163]
     
-    _company_ means any body corporate, whether incorporated in New Zealand or elsewhere, and any limited partnership registered under the [Limited Partnerships Act 2008][168]; but does not include a local authority or a public authority
+    _company_ means any body corporate, whether incorporated in New Zealand or elsewhere, and any limited partnership registered under the [Limited Partnerships Act 2008][170]; but does not include a local authority or a public authority
     
     _consideration_, in relation to the supply of goods and services to any person, includes any payment made or any act or forbearance, whether or not voluntary, in respect of, in response to, or for the inducement of, the supply of any goods and services, whether by that person or by any other person; but does not include any payment made by any person as an unconditional gift to any non-profit body
     
@@ -450,7 +454,7 @@ Interpretation
     
     _debit note_ means a document provided pursuant to [section 25(3)(b)][69], and includes a document deemed to be a debit note under section 25(3A)
     
-    _document_ means a document as defined in the [Tax Administration Act 1994][161]
+    _document_ means a document as defined in the [Tax Administration Act 1994][163]
     
     _domestic goods and services_ means the right to occupy the whole or part of any commercial dwelling, including, where it is provided as part of the right to so occupy, the supply of---
         
@@ -466,11 +470,11 @@ Interpretation
     
     _dwelling_, for a person,---
         
-    *   (a) means premises, as defined in [section 2][169] of the Residential Tenancies Act 1986,---
+    *   (a) means premises, as defined in [section 2][171] of the Residential Tenancies Act 1986,---
             
         *   (i) that the person occupies, or that it can reasonably be foreseen that the person will occupy, as their principal place of residence; and
         
-        *   (ii) in relation to which the person has quiet enjoyment, as that term is used in [section 38][167] of the Residential Tenancies Act 1986; and
+        *   (ii) in relation to which the person has quiet enjoyment, as that term is used in [section 38][169] of the Residential Tenancies Act 1986; and
         
         
     
@@ -484,7 +488,7 @@ Interpretation
     
     *   (c) excludes a commercial dwelling
     
-    _emissions unit_ means a unit as defined in [section 4(1)][170] of the Climate Change Response Act 2002
+    _emissions unit_ means a unit as defined in [section 4(1)][172] of the Climate Change Response Act 2002
     
     _exempt supply_ means a supply that is exempt from tax pursuant to [section 14][25]
     
@@ -510,13 +514,13 @@ Interpretation
     
     _hire_, in relation to goods, includes a letting on any terms, including a lease
     
-    _hire purchase agreement_ has the same meaning as in [section YA 1][171] of the Income Tax Act 2007; but includes an agreement that would be a hire purchase agreement but for the exclusion in paragraph (f) of the definition of that term in that section
+    _hire purchase agreement_ has the same meaning as in [section YA 1][173] of the Income Tax Act 2007; but includes an agreement that would be a hire purchase agreement but for the exclusion in paragraph (f) of the definition of that term in that section
     
     _hospital_---
         
     *   (a) means an institution---
             
-        *   (i) that is a hospital care institution within the meaning of [section 58(4)][172] of the Health and Disability Services (Safety) Act 2001; or
+        *   (i) that is a hospital care institution within the meaning of [section 58(4)][174] of the Health and Disability Services (Safety) Act 2001; or
         
         *   (ii) whose principal purpose is to receive and treat people needing medical treatment or suffering from a disease; and
         
@@ -524,7 +528,7 @@ Interpretation
     
     *   (b) includes all clinics, dispensaries, offices, outpatient departments, services, and undertakings, maintained in connection with, or incidental to, such an institution
     
-    _income year_ means an income year as defined in [section YA 1][171] of the Income Tax Act 2007
+    _income year_ means an income year as defined in [section YA 1][173] of the Income Tax Act 2007
     
     _insurance_ means insurance or guarantee against loss, damage, injury, or risk of any kind whatever, whether pursuant to any contract or any enactment; and includes reinsurance; and _contract of insurance_ includes a policy of insurance, an insurance cover, and a renewal of a contract of insurance:
     
@@ -542,7 +546,7 @@ Interpretation
         
         *   (iii) an option to acquire land or an estate or interest in land:
         
-        *   (iv) a share in the share capital of a flat-owning or office-owning company, as defined in [section 121A][173] of the Land Transfer Act 1952:
+        *   (iv) a share in the share capital of a flat-owning or office-owning company, as defined in [section 121A][175] of the Land Transfer Act 1952:
         
         
     
@@ -556,33 +560,33 @@ Interpretation
         
         
     
-    _late payment penalty_ has the meaning given to it in [section 3(1)][166] of the Tax Administration Act 1994
+    _late payment penalty_ has the meaning given to it in [section 3(1)][168] of the Tax Administration Act 1994
     
     _licence to occupy_ means the right to exclusive personal occupancy
     
     _local authority_---
         
-    *   (a) means a local authority within the meaning of the [Local Government Act 2002][174]; and
+    *   (a) means a local authority within the meaning of the [Local Government Act 2002][176]; and
     
     *   (b) includes---
             
-        *   (i) the administering body within the meaning of the [Reserves Act 1977][175] of any reserve classified under that Act as a scenic reserve or a recreation reserve:
+        *   (i) the administering body within the meaning of the [Reserves Act 1977][177] of any reserve classified under that Act as a scenic reserve or a recreation reserve:
         
-        *   (ii) an airport authority (other than an airport company) within the meaning of the [Airport Authorities Act 1966][176]:
+        *   (ii) an airport authority (other than an airport company) within the meaning of the [Airport Authorities Act 1966][178]:
         
-        *   (iii) the Aotea Centre Board of Management established by the [Auckland Aotea Centre Empowering Act 1985][177]:
+        *   (iii) the Aotea Centre Board of Management established by the [Auckland Aotea Centre Empowering Act 1985][179]:
         
-        *   (iv) the Canterbury Museum Trust Board continued in existence by [section 5(1)][178] of the Canterbury Museum Trust Board Act 1993:
+        *   (iv) the Canterbury Museum Trust Board continued in existence by [section 5(1)][180] of the Canterbury Museum Trust Board Act 1993:
         
-        *   (v) the Council of the Auckland Institute and Museum constituted under the [Charitable Trusts Act 1957][179]:
+        *   (v) the Council of the Auckland Institute and Museum constituted under the [Charitable Trusts Act 1957][181]:
         
-        *   (vi) the Otago Museum Trust Board continued in existence by [section 5(1)][180] of the Otago Museum Trust Board Act 1996:
+        *   (vi) the Otago Museum Trust Board continued in existence by [section 5(1)][182] of the Otago Museum Trust Board Act 1996:
         
-        *   (vii) Auckland Transport (as established by [section 38][181] of the Local Government (Auckland Council) Act 2009):
+        *   (vii) Auckland Transport (as established by [section 38][183] of the Local Government (Auckland Council) Act 2009):
         
-        *   (viii) Auckland Regional Holdings established by [section 18][182] of the Local Government (Auckland) Amendment Act 2004:
+        *   (viii) Auckland Regional Holdings established by [section 18][184] of the Local Government (Auckland) Amendment Act 2004:
         
-        *   (ix) the Auckland Council Independent Maori Statutory Board established by [section 81][183] of the Local Government (Auckland Council) Act 2009
+        *   (ix) the Auckland Council Independent Maori Statutory Board established by [section 81][185] of the Local Government (Auckland Council) Act 2009
         
         
     
@@ -608,7 +612,7 @@ Interpretation
     
     _new fine metal_ means any fine metal which has been refined into fine metal by a refiner of fine metal
     
-    _New Zealand_ means New Zealand as defined in [section YA 1][171] of the Income Tax Act 2007
+    _New Zealand_ means New Zealand as defined in [section YA 1][173] of the Income Tax Act 2007
     
     _non-profit body_ means any society, association, or organisation, whether incorporated or not,---
         
@@ -628,11 +632,11 @@ Interpretation
     
     *   (d) the Controller and Auditor-General
     
-    _officer of the department_ means an officer of the department as defined in the [Tax Administration Act 1994][161]
+    _officer of the department_ means an officer of the department as defined in the [Tax Administration Act 1994][163]
     
     _output tax_, in relation to any registered person, means the tax charged pursuant to [section 8(1)][14] in respect of the supply of goods and services made by that person
     
-    _partnership_ and _partner_ have the meanings set out in the [Partnership Act 1908][184]
+    _partnership_ and _partner_ have the meanings set out in the [Partnership Act 1908][186]
     
     _percentage actual use_ is defined in [section 21G(1)(a)][59] for the purposes of [sections 8(4B)(b)][14], [9(2)(h)][16], and [21 to 21H][51]
     
@@ -660,13 +664,13 @@ Interpretation
         
         
     
-    _provisional tax_ means provisional tax as defined in [section YA 1][171] of the Income Tax Act 2007
+    _provisional tax_ means provisional tax as defined in [section YA 1][173] of the Income Tax Act 2007
     
     _public authority_ means all instruments of the Crown in respect of the Government of New Zealand, whether departments, Crown entities, State enterprises, or other instruments; and includes offices of Parliament, the Parliamentary Service, and the Office of the Clerk of the House of Representatives; but does not include the Governor-General, members of the Executive Council, Ministers of the Crown, or members of Parliament
     
-    _Railways assets and liabilities, Railways assets_, and _Railways liabilities_ have the same meaning as in [section EZ 68][185] of the Income Tax Act 2007
+    _Railways assets and liabilities, Railways assets_, and _Railways liabilities_ have the same meaning as in [section EZ 68][187] of the Income Tax Act 2007
     
-    _Railways vesting_ has the same meaning as in [section EZ 68][185] of the Income Tax Act 2007
+    _Railways vesting_ has the same meaning as in [section EZ 68][187] of the Income Tax Act 2007
     
     _recipient_, in relation to any supply of goods and services, means the person receiving the supply
     
@@ -676,7 +680,7 @@ Interpretation
     
     _registration number_, in relation to any registered person, means the number allocated to that registered person for the purposes of this Act
     
-    _resident_ means resident as determined in accordance with [sections YD 1][186] and [YD 2][187] (excluding section YD 2(2)) of the Income Tax Act 2007:
+    _resident_ means resident as determined in accordance with [sections YD 1][188] and [YD 2][189] (excluding section YD 2(2)) of the Income Tax Act 2007:
     
     provided that, notwithstanding anything in those sections,---
         
@@ -688,9 +692,9 @@ Interpretation
     
     _return_ means any return required to be furnished under [Part 3][26]
     
-    _return of income_ means a return of income required under [section 33][188] of the Tax Administration Act 1994
+    _return of income_ means a return of income required under [section 33][190] of the Tax Administration Act 1994
     
-    _revenue from the Crown_ means any amount brought to charge from the Crown (not being revenue received from any other public authority) by any public authority for the supply of outputs (within the meaning of the [Public Finance Act 1989][189]) by that public authority; but does not include---
+    _revenue from the Crown_ means any amount brought to charge from the Crown (not being revenue received from any other public authority) by any public authority for the supply of outputs (within the meaning of the [Public Finance Act 1989][191]) by that public authority; but does not include---
         
     *   (a) any goods and services tax, chargeable in accordance with the provisions of this Act, on the supply of outputs by that public authority:
     
@@ -708,13 +712,13 @@ Interpretation
     
     _services_ means anything which is not goods or money
     
-    _shortfall penalty_ has the meaning given to it in [section 3(1)][166] of the Tax Administration Act 1994
+    _shortfall penalty_ has the meaning given to it in [section 3(1)][168] of the Tax Administration Act 1994
     
     _supplier_, in relation to any supply of goods and services, means the person making the supply
     
     _tax_ means goods and services tax
     
-    _tax file number_ has the meaning assigned to that term by [section YA 1][171] of the Income Tax Act 2007
+    _tax file number_ has the meaning assigned to that term by [section YA 1][173] of the Income Tax Act 2007
     
     _tax fraction_ means the fraction calculated in accordance with the following formula:
     
@@ -734,15 +738,15 @@ Interpretation
     
     *   (b) any late payment penalty or shortfall penalty:
     
-    *   (c) any amount of tax refundable by the Commissioner pursuant to [section 19C][41] or [section 20][43]; and, for the purposes of [section 57][114], includes interest payable under [Part 7][190] of the Tax Administration Act 1994
+    *   (c) any amount of tax refundable by the Commissioner pursuant to [section 19C][41] or [section 20][43]; and, for the purposes of [section 57][116], includes interest payable under [Part 7][192] of the Tax Administration Act 1994
     
-    _tax year_ means a tax year as defined in [section YA 1][171] of the Income Tax Act 2007
+    _tax year_ means a tax year as defined in [section YA 1][173] of the Income Tax Act 2007
     
     _taxable period_, in relation to a registered person, means a taxable period determined under [sections 15 to 15E][27]
     
     _taxable supply_ means a supply of goods and services in New Zealand that is charged with tax under [section 8][14] and includes a supply that [section 11][18], [11A][19], [11AB][20] or [11B][21] requires to be charged at the rate of 0%
     
-    _Taxation Review Authority_ or _Authority_ means a Taxation Review Authority established under the [Taxation Review Authorities Act 1994][191]
+    _Taxation Review Authority_ or _Authority_ means a Taxation Review Authority established under the [Taxation Review Authorities Act 1994][193]
     
     _telecommunications services_ means the transmission, emission or reception, and the transfer or assignment of the right to use capacity for the transmission, emission or reception, of signals, writing, images, sounds or information of any kind by wire, cable, radio, optical or other electromagnetic system, or by a similar technical system, and includes access to global information networks but does not include the content of the telecommunication
     
@@ -764,35 +768,35 @@ Interpretation
     
     *   (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year
     
-    _zero-rating of land rules_ means [sections 5(24)][9], [11(1)(mb)][18], [60B(6)][118], [75(3B)][137], and [78F][148].
+    _zero-rating of land rules_ means [sections 5(24)][9], [11(1)(mb)][18], [60B(6)][120], [75(3B)][139], and [78F][150].
     
     (2) For the purposes of this Act, a reference to goods and services includes a reference to goods or services.
     
-    Section 2(1): amended, on 1 October 2000 (applying on and after 10 October 1996), by [section 82(2)][192] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 2(1): amended, on 1 October 2000 (applying on and after 10 October 1996), by [section 82(2)][194] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 2(1) **additional tax**: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 2(1)][193] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 2(1) **additional tax**: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 2(1)][195] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
     
-    Section 2(1) **adjustment period**: inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 4(2)][194] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 2(1) **adjustment period**: inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 4(2)][196] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 2(1) **associated persons**: repealed, on 10 October 2000 (applying on 10 October 2000), by [section 82(3)][192] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 2(1) **associated persons**: repealed, on 10 October 2000 (applying on 10 October 2000), by [section 82(3)][194] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 2(1) **associated supply**: inserted, on 3 April 2006, by [section 283(2)][195] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 2(1) **associated supply**: inserted, on 3 April 2006, by [section 283(2)][197] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 2(1) **balance date**: substituted, on 1 October 2007, by [section 283(4)][195] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 2(1) **balance date**: substituted, on 1 October 2007, by [section 283(4)][197] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 2(1) **challenge**: inserted, on 1 October 1996 (applying on and after 1 October 1996 (unless necessary for the enforcement of other provisions in this Act)), by [section 2(2)][193] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 2(1) **challenge**: inserted, on 1 October 1996 (applying on and after 1 October 1996 (unless necessary for the enforcement of other provisions in this Act)), by [section 2(2)][195] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
     
-    Section 2(1) **commercial dwelling**: substituted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 4(3)][194] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 2(1) **commercial dwelling**: substituted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 4(3)][196] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
     Section 2(1) **Commissioner**: amended, on 1 April 1995 (applying with respect to the tax on income derived in 1995--96 and subsequent income years), by section YB 1 of the Income Tax Act 1994 (1994 No 164).
     
-    Section 2(1) **company**: amended, on 1 April 2008, by [section 30][196] of the Taxation (Limited Partnerships) Act 2008 (2008 No 2).
+    Section 2(1) **company**: amended, on 1 April 2008, by [section 30][198] of the Taxation (Limited Partnerships) Act 2008 (2008 No 2).
     
     Section 2(1) **consideration**: amended, on 1 October 1988 (applying with respect to payments made on or after 1 October 1988), by section 2(1) of the Goods and Services Tax Amendment Act (No 3) 1988 (1988 No 125).
     
     Section 2(1) **consideration**: amended (with effect on 3 December 1985), on 8 August 1986, by section 2(4) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 2(1) **content**: inserted, on 1 July 2003, by [section 152(2)][197] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 2(1) **content**: inserted, on 1 July 2003, by [section 152(2)][199] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Section 2(1) **credit note**: inserted, on 13 March 1992, by section 2 of the Goods and Services Tax Amendment Act 1992 (1992 No 2).
     
@@ -800,119 +804,119 @@ Interpretation
     
     Section 2(1) **debit note**: inserted, on 13 March 1992, by section 2 of the Goods and Services Tax Amendment Act 1992 (1992 No 2).
     
-    Section 2(1) **District Commissioner**: repealed (with effect on 1 April 1995), on 2 September 1996, by [section 51(1)][198] of the Taxation (Remedial Provisions) Act 1996 (1996 No 159).
+    Section 2(1) **District Commissioner**: repealed (with effect on 1 April 1995), on 2 September 1996, by [section 51(1)][200] of the Taxation (Remedial Provisions) Act 1996 (1996 No 159).
     
-    Section 2(1) **document**: substituted, on 29 August 2011, by [section 235(1)(a)][199] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 2(1) **document**: substituted, on 29 August 2011, by [section 235(1)(a)][201] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 2(1) **due date**: substituted, on 10 October 2000 (applying on and after 10 October 2000), by [section 82(4)][192] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 2(1) **due date**: substituted, on 10 October 2000 (applying on and after 10 October 2000), by [section 82(4)][194] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 2(1) **dwelling**: substituted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 4(4)][194] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 2(1) **dwelling**: substituted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 4(4)][196] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 2(1) **emissions unit**: substituted (with effect on 1 January 2009), on 6 October 2009, by [section 704(2)][200] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 2(1) **emissions unit**: substituted (with effect on 1 January 2009), on 6 October 2009, by [section 704(2)][202] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 2(1) **fine metal**: inserted (with effect on 3 December 1985), on 8 August 1986, by section 2(9) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
     Section 2(1) **going concern**: inserted, on 10 April 1995 (applying with respect to supplies made pursuant to a contract or agreement entered into on or after 10 April 1995), by section 2(1) of the Goods and Services Tax Amendment Act 1995 (1995 No 22).
     
-    Section 2(1) **goods**: amended, on 1 January 2005, by [section 140(2)][201] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 2(1) **goods**: amended, on 1 January 2005, by [section 140(2)][203] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 2(1) **hire purchase agreement**: inserted, on 1 April 2005, by [section 139][202] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
+    Section 2(1) **hire purchase agreement**: inserted, on 1 April 2005, by [section 139][204] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
     
-    Section 2(1) **hire purchase agreement**: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][203] of the Income Tax Act 2007 (2007 No 97).
+    Section 2(1) **hire purchase agreement**: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][205] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 2(1) **hospital**: substituted, on 1 October 2002, by [section 58(1)][172] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
+    Section 2(1) **hospital**: substituted, on 1 October 2002, by [section 58(1)][174] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
     
-    Section 2(1) **income year**: inserted, on 1 October 2007, by [section 283(5)][195] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 2(1) **income year**: inserted, on 1 October 2007, by [section 283(5)][197] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 2(1) **income year**: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][203] of the Income Tax Act 2007 (2007 No 97).
+    Section 2(1) **income year**: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][205] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 2(1) **input tax**: repealed, on 10 October 2000 (applying on 10 October 2000), by [section 82(3)][192] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 2(1) **input tax**: repealed, on 10 October 2000 (applying on 10 October 2000), by [section 82(3)][194] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 2(1) **land**: inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 4(5)][204] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 2(1) **land**: inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 4(5)][206] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 2(1) **land**: amended (with effect on 1 April 2011), on 2 November 2012, by [section 207(2)(a)][205] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 2(1) **land**: amended (with effect on 1 April 2011), on 2 November 2012, by [section 207(2)(a)][207] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 2(1) **land** paragraph (b)(iii): repealed (with effect on 1 April 2011), on 2 November 2012, by [section 207(2)(b)][205] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 2(1) **land** paragraph (b)(iii): repealed (with effect on 1 April 2011), on 2 November 2012, by [section 207(2)(b)][207] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 2(1) **late payment penalty**: inserted, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 2(3)][193] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 2(1) **late payment penalty**: inserted, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 2(3)][195] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
     
-    Section 2(1) **licence to occupy**: inserted, on 1 August 1990 (applying to supplies made on or after 1 August 1990), by [section 2(2)][206] of the Goods and Services Tax Amendment Act 1990 (1990 No 64).
+    Section 2(1) **licence to occupy**: inserted, on 1 August 1990 (applying to supplies made on or after 1 August 1990), by [section 2(2)][208] of the Goods and Services Tax Amendment Act 1990 (1990 No 64).
     
-    Section 2(1) **local authority**: substituted, on 1 July 2003, by [section 262][207] of the Local Government Act 2002 (2002 No 84).
+    Section 2(1) **local authority**: substituted, on 1 July 2003, by [section 262][209] of the Local Government Act 2002 (2002 No 84).
     
-    Section 2(1) **local authority** paragraph (b)(vii): substituted, on 1 November 2010, by [section 113(1)][208] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 2(1) **local authority** paragraph (b)(vii): substituted, on 1 November 2010, by [section 113(1)][210] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 2(1) **local authority** paragraph (b)(viii): added, on 1 July 2004, by [section 47][209] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 2(1) **local authority** paragraph (b)(viii): added, on 1 July 2004, by [section 47][211] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
     
-    Section 2(1) **local authority** paragraph (b)(viii): amended (with effect on 1 November 2010), on 2 November 2012, by [section 207(3)][205] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 2(1) **local authority** paragraph (b)(viii): amended (with effect on 1 November 2010), on 2 November 2012, by [section 207(3)][207] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 2(1) **local authority** paragraph (b)(ix): inserted (with effect on 1 November 2010), on 2 November 2012, by [section 207(3)][205] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 2(1) **local authority** paragraph (b)(ix): inserted (with effect on 1 November 2010), on 2 November 2012, by [section 207(3)][207] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 2(1) **loyalty programme**: inserted, on 6 October 2009, by [section 704(3)][200] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 2(1) **loyalty programme**: inserted, on 6 October 2009, by [section 704(3)][202] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 2(1) **member**: inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 82(5)][192] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 2(1) **member**: inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 82(5)][194] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
     Section 2(1) **name**: inserted, on 13 March 1992, by section 2 of the Goods and Services Tax Amendment Act 1992 (1992 No 2).
     
     Section 2(1) **new fine metal**: inserted (with effect on 3 December 1985), on 8 August 1986, by section 2(9) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 2(1) **New Zealand**: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][203] of the Income Tax Act 2007 (2007 No 97).
+    Section 2(1) **New Zealand**: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][205] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 2(1) **New Zealand unit**: repealed (with effect on 1 January 2009), on 6 October 2009, by [section 704(4)][200] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 2(1) **New Zealand unit**: repealed (with effect on 1 January 2009), on 6 October 2009, by [section 704(4)][202] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 2(1) **non-profit body** paragraph (b): amended (with effect on 1 July 1994), on 14 September 1994, by [section 2(b)][210] of the Goods and Services Tax Amendment Act 1994 (1994 No 77).
+    Section 2(1) **non-profit body** paragraph (b): amended (with effect on 1 July 1994), on 14 September 1994, by [section 2(b)][212] of the Goods and Services Tax Amendment Act 1994 (1994 No 77).
     
-    Section 2(1) **non-resident**: inserted, on 25 November 2003, by [section 140(3)][201] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 2(1) **non-resident**: inserted, on 25 November 2003, by [section 140(3)][203] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
     Section 2(1) **Office of Parliament**: inserted, on 1 July 1991, by section 2(2) of the Goods and Services Tax Amendment Act 1991 (1991 No 11).
     
-    Section 2(1) **Office of Parliament** paragraph (b): repealed, on 1 July 1993, by [section 129(1)][211] of the Privacy Act 1993 (1993 No 28).
+    Section 2(1) **Office of Parliament** paragraph (b): repealed, on 1 July 1993, by [section 129(1)][213] of the Privacy Act 1993 (1993 No 28).
     
-    Section 2(1) **officer of the department**: inserted (with effect on 1 April 1995), on 2 September 1996, by [section 51(2)][198] of the Taxation (Remedial Provisions) Act 1996 (1996 No 159).
+    Section 2(1) **officer of the department**: inserted (with effect on 1 April 1995), on 2 September 1996, by [section 51(2)][200] of the Taxation (Remedial Provisions) Act 1996 (1996 No 159).
     
-    Section 2(1) **partnership** and **partner**: inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 82(6)][192] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 2(1) **partnership** and **partner**: inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 82(6)][194] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 2(1) **penal tax**: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 2(4)][193] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 2(1) **penal tax**: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 2(4)][195] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
     
-    Section 2(1) **percentage actual use**: inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 4(6)][212] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 2(1) **percentage actual use**: inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 4(6)][214] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 2(1) **percentage difference**: inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 4(6)][212] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 2(1) **percentage difference**: inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 4(6)][214] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 2(1) **percentage intended use**: inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 4(6)][212] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 2(1) **percentage intended use**: inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 4(6)][214] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 2(1) **previous actual use**: inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 4(6)][212] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 2(1) **previous actual use**: inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 4(6)][214] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 2(1) **principal place of residence**: inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 4(7)][213] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 2(1) **principal place of residence**: inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 4(7)][215] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 2(1) **principal place of residence**: amended (with effect from 1 April 2011), on 29 August 2011, by [section 235(1)(c)][199] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 2(1) **principal place of residence**: amended (with effect from 1 April 2011), on 29 August 2011, by [section 235(1)(c)][201] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 2(1) **prize competition**: inserted, on 17 July 2013, by [section 120(1)][214] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
+    Section 2(1) **prize competition**: inserted, on 17 July 2013, by [section 120(1)][216] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
-    Section 2(1) **provisional tax**: inserted, on 1 October 2007, by [section 283(6)][195] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 2(1) **provisional tax**: inserted, on 1 October 2007, by [section 283(6)][197] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 2(1) **provisional tax**: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][203] of the Income Tax Act 2007 (2007 No 97).
+    Section 2(1) **provisional tax**: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][205] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 2(1) **public authority**: amended (with effect in relation to the Parliamentary Service on 1 October 1986 and in relation to the Office of the Clerk of the House of Representatives on 1 August 1988), on 6 October 2009, by [section 704(5)][200] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 2(1) **public authority**: amended (with effect in relation to the Parliamentary Service on 1 October 1986 and in relation to the Office of the Clerk of the House of Representatives on 1 August 1988), on 6 October 2009, by [section 704(5)][202] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 2(1) **public authority**: amended, on 10 April 1995, by section 2(2)(a) of the Goods and Services Tax Amendment Act 1995 (1995 No 22).
     
-    Section 2(1) **Railways assets and liabilities, Railways assets**, and **Railways liabilities**: inserted (with effect on 31 December 2012), on 17 July 2013, by [section 120(2)][214] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
+    Section 2(1) **Railways assets and liabilities, Railways assets**, and **Railways liabilities**: inserted (with effect on 31 December 2012), on 17 July 2013, by [section 120(2)][216] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
-    Section 2(1) **Railways vesting**: inserted (with effect on 31 December 2012), on 17 July 2013, by [section 120(3)][214] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
+    Section 2(1) **Railways vesting**: inserted (with effect on 31 December 2012), on 17 July 2013, by [section 120(3)][216] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
     Section 2(1) **refiner of fine metal**: inserted (with effect on 3 December 1985), on 8 August 1986, by section 2(9) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 2(1) **resident**: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][203] of the Income Tax Act 2007 (2007 No 97).
+    Section 2(1) **resident**: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][205] of the Income Tax Act 2007 (2007 No 97).
     
     Section 2(1) **resident** proviso: substituted (with effect on 3 December 1985), on 8 August 1986, by section 2(6) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 2(1) **resident** proviso: amended, on 21 December 2004, by [section 144(1)][215] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 2(1) **resident** proviso: amended, on 21 December 2004, by [section 144(1)][217] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
-    Section 2(1) **resident** proviso paragraph (b): substituted, on 10 October 2000 (applying on and after 10 October 2000), by [section 82(7)][192] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 2(1) **resident** proviso paragraph (b): substituted, on 10 October 2000 (applying on and after 10 October 2000), by [section 82(7)][194] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
     Section 2(1) **residential establishment**: inserted (with effect on 3 December 1985), on 8 August 1986, by section 2(9) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 2(1) **return of income**: inserted, on 1 October 2007, by [section 283(7)][195] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 2(1) **return of income**: inserted, on 1 October 2007, by [section 283(7)][197] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
     Section 2(1) **revenue from the Crown**: substituted (with effect on 1 July 1989), on 19 December 1989 (applying to supplies made on or after 1 July 1989), by section 2(1) of the Goods and Services Tax Amendment Act (No 2) 1989 (1989 No 152).
     
@@ -926,57 +930,57 @@ Interpretation
     
     Section 2(1) **service occupancy agreement**: inserted, on 19 December 1989, by section 2(2) of the Goods and Services Tax Amendment Act (No 2) 1989 (1989 No 152).
     
-    Section 2(1) **shortfall penalty**: inserted, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 2(5)][193] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 2(1) **shortfall penalty**: inserted, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 2(5)][195] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
     
-    Section 2(1) **tax file number**: inserted, on 23 September 1997, by [section 109][216] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 2(1) **tax file number**: inserted, on 23 September 1997, by [section 109][218] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
-    Section 2(1) **tax file number**: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][203] of the Income Tax Act 2007 (2007 No 97).
+    Section 2(1) **tax file number**: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][205] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 2(1) **tax invoice**: amended, on 19 December 2007, by [section 271(2)][217] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 2(1) **tax invoice**: amended, on 19 December 2007, by [section 271(2)][219] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Section 2(1) **tax payable**: amended, on 1 April 1991, by section 2(4) of the Goods and Services Tax Amendment Act 1991 (1991 No 11).
     
-    Section 2(1) **tax payable** paragraph (a): amended, on 21 December 2004 (applying for taxable periods beginning on or after 1 April 2005), by [section 144(2)][215] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 2(1) **tax payable** paragraph (a): amended, on 21 December 2004 (applying for taxable periods beginning on or after 1 April 2005), by [section 144(2)][217] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
-    Section 2(1) **tax payable** paragraph (b): substituted, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 2(6)][193] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 2(1) **tax payable** paragraph (b): substituted, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 2(6)][195] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
     
     Section 2(1) **tax payable** paragraph (c): added (with effect on 3 December 1985), on 8 August 1986, by section 2(8) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 2(1) **tax payable** paragraph (c): amended, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 2(7)][193] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 2(1) **tax payable** paragraph (c): amended, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 2(7)][195] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
     
     Section 2(1) **tax payable** paragraph (c): amended, on 1 April 1991, by section 2(4) of the Goods and Services Tax Amendment Act 1991 (1991 No 11).
     
-    Section 2(1) **tax year**: inserted, on 1 October 2007, by [section 283(8)][195] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 2(1) **tax year**: inserted, on 1 October 2007, by [section 283(8)][197] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 2(1) **tax year**: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][203] of the Income Tax Act 2007 (2007 No 97).
+    Section 2(1) **tax year**: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][205] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 2(1) **taxable period**: amended, on 1 October 2007, by [section 283(9)][195] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 2(1) **taxable period**: amended, on 1 October 2007, by [section 283(9)][197] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 2(1) **taxable supply**: substituted, on 10 October 2000 (applying on and after 10 October 2000), by [section 82(8)][192] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 2(1) **taxable supply**: substituted, on 10 October 2000 (applying on and after 10 October 2000), by [section 82(8)][194] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 2(1) **taxable supply**: amended, on 1 July 2003, by [section 152(3)][197] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 2(1) **taxable supply**: amended, on 1 July 2003, by [section 152(3)][199] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Section 2(1) **Taxation Review Authority**: amended, on 1 April 1995 (applying with respect to the tax on income derived in 1995--96 and subsequent income years), by section YB 1 of the Income Tax Act 1994 (1994 No 164).
     
-    Section 2(1) **telecommunications services**: inserted, on 1 July 2003, by [section 152(4)][197] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 2(1) **telecommunications services**: inserted, on 1 July 2003, by [section 152(4)][199] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 2(1) **telecommunications supplier**: inserted, on 1 July 2003, by [section 152(4)][197] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 2(1) **telecommunications supplier**: inserted, on 1 July 2003, by [section 152(4)][199] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 2(1) **trustee**: amended, on 1 July 2009, pursuant to [section 30(2)(a)][218] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 2(1) **trustee**: amended, on 1 July 2009, pursuant to [section 30(2)(a)][220] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 2(1) **trustee**: amended, on 1 March 2002, by [section 170(1)][219] of the Public Trust Act 2001 (2001 No 100).
+    Section 2(1) **trustee**: amended, on 1 March 2002, by [section 170(1)][221] of the Public Trust Act 2001 (2001 No 100).
     
     Section 2(1) **unconditional gift**: inserted (with effect on 3 December 1985), on 8 August 1986, by section 2(9) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
     Section 2(1) **unconditional gift**: amended (with effect on 3 December 1985), on 22 June 1987 (applying to supplies made on or after 3 December 1985), by section 2(1) of the Goods and Services Tax Amendment Act 1987 (1987 No 103).
     
-    Section 2(1) **unincorporated body**: inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 82(9)][192] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 2(1) **unincorporated body**: inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 82(9)][194] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 2(1) **warranty**: inserted, on 17 October 2002 (applying on and after 1 August 2002), by [section 96(1)][220] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 2(1) **warranty**: inserted, on 17 October 2002 (applying on and after 1 August 2002), by [section 96(1)][222] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
-    Section 2(1) **working day** paragraph (ab): inserted, on 1 January 2014, by [section 8][221] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
+    Section 2(1) **working day** paragraph (ab): inserted, on 1 January 2014, by [section 8][223] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
     
-    Section 2(1) **zero-rating of land rules**: inserted (with effect on 1 April 2011), on 2 November 2012, by [section 207(4)][205] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 2(1) **zero-rating of land rules**: inserted (with effect on 1 April 2011), on 2 November 2012, by [section 207(4)][207] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
 
 ##### 2A Meaning of associated persons
     
@@ -1000,7 +1004,7 @@ Interpretation
         
         
     
-    *   (bb) a person, or a branch or division of the person that is treated as a separate person under [section 56B][113], and another branch or division of the person that is treated as a separate person under section 56B:
+    *   (bb) a person, or a branch or division of the person that is treated as a separate person under [section 56B][115], and another branch or division of the person that is treated as a separate person under section 56B:
     
     *   (c) two persons who are---
             
@@ -1052,15 +1056,15 @@ Interpretation
         
         
     
-    (2) For the purpose of subsection (1)(a), _group of persons_ has the meaning set out in [section YA 1][171] of the Income Tax Act 2007\.
+    (2) For the purpose of subsection (1)(a), _group of persons_ has the meaning set out in [section YA 1][173] of the Income Tax Act 2007\.
     
     (3) For the purpose of subsection (1)(a) and (1)(b)---
         
-    *   (a) _market value circumstance_ has the meaning set out in [section YA 1][171] of the Income Tax Act 2007, as if the reference to ""this Act"" in paragraph (e) of the definition were to ""the Goods and Services Tax Act 1985"":
+    *   (a) _market value circumstance_ has the meaning set out in [section YA 1][173] of the Income Tax Act 2007, as if the reference to ""this Act"" in paragraph (e) of the definition were to ""the Goods and Services Tax Act 1985"":
     
-    *   (b) _market value interest_ has the meaning set out in paragraph (a) of the definition of **market value interest** in [section YA 1][171] of the Income Tax Act 2007:
+    *   (b) _market value interest_ has the meaning set out in paragraph (a) of the definition of **market value interest** in [section YA 1][173] of the Income Tax Act 2007:
     
-    *   (c) _voting interest_ has the meaning set out in paragraph (a) of the definition of **voting interest** in [section YA 1][171] of the Income Tax Act 2007\.
+    *   (c) _voting interest_ has the meaning set out in paragraph (a) of the definition of **voting interest** in [section YA 1][173] of the Income Tax Act 2007\.
     
     (4) For the purpose of subsection (1)(a) and (1)(b), if a person (person A) and another person (person B) are _associated persons_ under any of subsection (1)(c) to (1)(i), person A is treated as holding anything held by person B.
     
@@ -1074,43 +1078,43 @@ Interpretation
     
     *   (c) persons are connected by adoption if one has been adopted as the child of the other or as a child of a person who is within the first degree of relationship to the other.
     
-    (7) For the purpose of subsection (1)(g) and (1)(h), _settlor_ has the meaning set out in [section YA 1][171] of the Income Tax Act 2007\.
+    (7) For the purpose of subsection (1)(g) and (1)(h), _settlor_ has the meaning set out in [section YA 1][173] of the Income Tax Act 2007\.
     
     (8) Subsection (1)(i) does not apply if 2 persons (persons A and B) are both associated with a third person (person C) under subsection (1)(c).
     
-    Section 2A: inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 83(1)][222] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 2A: inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 83(1)][224] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 2A(1)(bb): inserted, on 1 January 2005, by [section 141][223] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 2A(1)(bb): inserted, on 1 January 2005, by [section 141][225] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 2A(1)(c): substituted, on 26 April 2005, by [section 3(1)][224] of the Goods and Services Tax Amendment Act 2005 (2005 No 9).
+    Section 2A(1)(c): substituted, on 26 April 2005, by [section 3(1)][226] of the Goods and Services Tax Amendment Act 2005 (2005 No 9).
     
-    Section 2A(1)(c)(iv): repealed, on 18 December 2006, by [section 211(a)][225] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Section 2A(1)(c)(iv): repealed, on 18 December 2006, by [section 211(a)][227] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
     
-    Section 2A(1)(cb): inserted, on 18 December 2006, by [section 211(b)][225] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Section 2A(1)(cb): inserted, on 18 December 2006, by [section 211(b)][227] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
     
-    Section 2A(1)(f): substituted, on 8 December 2009, by [section 145(1)][226] of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63).
+    Section 2A(1)(f): substituted, on 8 December 2009, by [section 145(1)][228] of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63).
     
-    Section 2A(1)(g): substituted, on 27 March 2001 (applying on and after 10 October 2000), by [section 61(1)][227] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
+    Section 2A(1)(g): substituted, on 27 March 2001 (applying on and after 10 October 2000), by [section 61(1)][229] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
     
-    Section 2A(1)(h): substituted, on 8 December 2009, by [section 145(2)][226] of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63).
+    Section 2A(1)(h): substituted, on 8 December 2009, by [section 145(2)][228] of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63).
     
-    Section 2A(2): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][203] of the Income Tax Act 2007 (2007 No 97).
+    Section 2A(2): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][205] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 2A(3)(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][203] of the Income Tax Act 2007 (2007 No 97).
+    Section 2A(3)(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][205] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 2A(3)(a): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][228] of the Income Tax Act 2004 (2004 No 35).
+    Section 2A(3)(a): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][230] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 2A(3)(b): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][203] of the Income Tax Act 2007 (2007 No 97).
+    Section 2A(3)(b): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][205] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 2A(3)(c): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][203] of the Income Tax Act 2007 (2007 No 97).
+    Section 2A(3)(c): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][205] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 2A(5): repealed, on 26 April 2005, by [section 3(1)][224] of the Goods and Services Tax Amendment Act 2005 (2005 No 9).
+    Section 2A(5): repealed, on 26 April 2005, by [section 3(1)][226] of the Goods and Services Tax Amendment Act 2005 (2005 No 9).
     
-    Section 2A(6): amended, on 26 April 2005, by [section 3(1)][224] of the Goods and Services Tax Amendment Act 2005 (2005 No 9).
+    Section 2A(6): amended, on 26 April 2005, by [section 3(1)][226] of the Goods and Services Tax Amendment Act 2005 (2005 No 9).
     
-    Section 2A(6)(b): substituted, on 1 April 2007, by [section 3(2)][224] of the Goods and Services Tax Amendment Act 2005 (2005 No 9).
+    Section 2A(6)(b): substituted, on 1 April 2007, by [section 3(2)][226] of the Goods and Services Tax Amendment Act 2005 (2005 No 9).
     
-    Section 2A(7): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][203] of the Income Tax Act 2007 (2007 No 97).
+    Section 2A(7): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][205] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 3 Meaning of term financial services
     
@@ -1164,7 +1168,7 @@ Interpretation
     
     (2) For the purposes of this section---
     
-    _cheque_ means a cheque as defined in the [Bills of Exchange Act 1908][229], an instrument specified in [section 5(2)][230] of the Cheques Act 1960, a postal note, a money order, a traveller's cheque, or any order or authorisation (whether in writing, by electronic means, or otherwise) to a financial institution to credit or debit any account
+    _cheque_ means a cheque as defined in the [Bills of Exchange Act 1908][231], an instrument specified in [section 5(2)][232] of the Cheques Act 1960, a postal note, a money order, a traveller's cheque, or any order or authorisation (whether in writing, by electronic means, or otherwise) to a financial institution to credit or debit any account
     
     _credit contract_ means a credit contract as defined in section 3 of the Credit Contracts Act 1981 immediately before the repeal of that Act
     
@@ -1188,9 +1192,9 @@ Interpretation
     
     _life insurance contract_ means a contract lawfully entered into to the extent that it places a sum or sums at risk upon the contingency of the termination or continuance of human life, marriage, civil union or de facto relationship, or the birth of a child, but not to the extent that it provides for entitlements under Schedule 1, Part 5 of the Accident Insurance Act 1998 (which relates to entitlements arising from fatal injuries)
     
-    _participatory security_ means any interest or right to participate in any capital, assets, earnings, or other property of any person where that interest or right forms part of a contributory scheme (as defined in [section 2][231] of the Securities Act 1978); and includes an interest in a unit trust within the meaning of the [Unit Trusts Act 1960][232]; but does not include an equity security, a debt security, money, or a cheque
+    _participatory security_ means any interest or right to participate in any capital, assets, earnings, or other property of any person where that interest or right forms part of a contributory scheme (as defined in [section 2][233] of the Securities Act 1978); and includes an interest in a unit trust within the meaning of the [Unit Trusts Act 1960][234]; but does not include an equity security, a debt security, money, or a cheque
     
-    _superannuation scheme_ means a superannuation scheme as defined in the [Superannuation Schemes Act 1989][233].
+    _superannuation scheme_ means a superannuation scheme as defined in the [Superannuation Schemes Act 1989][235].
     
     (3) Notwithstanding subsection (2), the terms _debt security_, _equity security_, and _participatory security_ do not include any of the following:
         
@@ -1198,13 +1202,13 @@ Interpretation
     
     *   (b) \[Repealed\]
     
-    *   (c) a share in the share capital of a flat-owning or office-owning company (as defined in [section 121A][173] of the Land Transfer Act 1952):
+    *   (c) a share in the share capital of a flat-owning or office-owning company (as defined in [section 121A][175] of the Land Transfer Act 1952):
     
     *   (d) an interest in a superannuation scheme.
     
-    (3B) Despite subsection (2), a person who is a party to an arrangement that is a credit contract but is not a credit contract under [section 7][234] of the Credit Contracts and Consumer Finance Act 2003 may elect that the arrangement be treated under this section as not being a credit contract in relation to the person.
+    (3B) Despite subsection (2), a person who is a party to an arrangement that is a credit contract but is not a credit contract under [section 7][236] of the Credit Contracts and Consumer Finance Act 2003 may elect that the arrangement be treated under this section as not being a credit contract in relation to the person.
     
-    (3C) Despite subsection (2), a person who is a party to an arrangement that is not a credit contract but is a credit contract under [section 7][234] of the Credit Contracts and Consumer Finance Act 2003 may elect that the arrangement be treated under this section as being a credit contract in relation to the person.
+    (3C) Despite subsection (2), a person who is a party to an arrangement that is not a credit contract but is a credit contract under [section 7][236] of the Credit Contracts and Consumer Finance Act 2003 may elect that the arrangement be treated under this section as being a credit contract in relation to the person.
     
     (4) Despite this section, _financial services_ does not include---
         
@@ -1214,39 +1218,39 @@ Interpretation
     
     (5) Notwithstanding anything in this section, where any person supplies goods and services (being the supply of general accounting and record package services) to any person who is a supplier of financial services, or to a customer of the person who is a supplier of financial services, that supply shall, for the purposes of this Act, be deemed not to be a supply of financial services.
     
-    Section 3(1)(k): substituted, on 10 October 2000 (applying on and after 10 October 2000), by [section 84(1)][235] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 3(1)(k): substituted, on 10 October 2000 (applying on and after 10 October 2000), by [section 84(1)][237] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 3(1)(kaa): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 84(1)][235] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 3(1)(kaa): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 84(1)][237] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
     Section 3(1)(ka): inserted (with effect on 3 December 1985), on 8 August 1986, by section 3(1) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 3(1)(l): amended, on 18 December 2006, by [section 212][236] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Section 3(1)(l): amended, on 18 December 2006, by [section 212][238] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
     
     Section 3(1)(l): amended (with effect on 3 December 1985), on 8 August 1986, by section 3(2) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 3(1)(m): added, on 18 December 2006, by [section 212][236] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Section 3(1)(m): added, on 18 December 2006, by [section 212][238] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
     
-    Section 3(1)(n): added, on 18 December 2006, by [section 212][236] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Section 3(1)(n): added, on 18 December 2006, by [section 212][238] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
     
-    Section 3(2) **credit contract**: substituted (with effect on 1 April 2005), on 3 April 2006, by [section 284(1)][237] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 3(2) **credit contract**: substituted (with effect on 1 April 2005), on 3 April 2006, by [section 284(1)][239] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
     Section 3(2) **general accounting and record package services**: inserted, on 19 December 1989 (applying to supplies made on or after 19 December 1989), by section 3(1) of the Goods and Services Tax Amendment Act (No 2) 1989 (1989 No 152).
     
-    Section 3(2) **life insurance contract**: substituted, on 8 September 1999 (applying on and after 1 April 1999), by [section 78(1)][238] of the Taxation (Remedial Matters) Act 1999 (1999 No 98).
+    Section 3(2) **life insurance contract**: substituted, on 8 September 1999 (applying on and after 1 April 1999), by [section 78(1)][240] of the Taxation (Remedial Matters) Act 1999 (1999 No 98).
     
-    Section 3(2) **life insurance contract**: amended, on 1 April 2007, by [section 3(2)][224] of the Goods and Services Tax Amendment Act 2005 (2005 No 9).
+    Section 3(2) **life insurance contract**: amended, on 1 April 2007, by [section 3(2)][226] of the Goods and Services Tax Amendment Act 2005 (2005 No 9).
     
-    Section 3(2) **superannuation scheme**: substituted, on 1 August 1990, by [section 2(3)][206] of the Goods and Services Tax Amendment Act 1990 (1990 No 64).
+    Section 3(2) **superannuation scheme**: substituted, on 1 August 1990, by [section 2(3)][208] of the Goods and Services Tax Amendment Act 1990 (1990 No 64).
     
-    Section 3(3)(b): repealed, on 3 April 2006 (applying for supplies of financial services that are made on or after 3 April 2006), by [section 284(2)][237] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 3(3)(b): repealed, on 3 April 2006 (applying for supplies of financial services that are made on or after 3 April 2006), by [section 284(2)][239] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 3(3)(c): amended (with effect on 1 July 1994), on 25 November 2003, by [section 142][239] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 3(3)(c): amended (with effect on 1 July 1994), on 25 November 2003, by [section 142][241] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 3(3B): inserted (with effect on 1 April 2005), on 3 April 2006, by [section 284(3)][237] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 3(3B): inserted (with effect on 1 April 2005), on 3 April 2006, by [section 284(3)][239] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 3(3C): inserted (with effect on 1 April 2005), on 3 April 2006, by [section 284(3)][237] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 3(3C): inserted (with effect on 1 April 2005), on 3 April 2006, by [section 284(3)][239] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 3(4): substituted, on 10 October 2000 (applying on and after 10 October 2000), by [section 84(2)][235] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 3(4): substituted, on 10 October 2000 (applying on and after 10 October 2000), by [section 84(2)][237] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
     Section 3(5): added, on 19 December 1989 (applying to supplies made on or after 19 December 1989), by section 3(2) of the Goods and Services Tax Amendment Act (No 2) 1989 (1989 No 152).
 
@@ -1256,7 +1260,7 @@ Interpretation
         
     *   (a) tax charged under [section 8(1)][14] on a supply of goods or services acquired by the person:
     
-    *   (b) tax levied under [section 12(1)][23] on goods entered for home consumption under the [Customs and Excise Act 1996][162] by the person:
+    *   (b) tax levied under [section 12(1)][23] on goods entered for home consumption under the [Customs and Excise Act 1996][164] by the person:
     
     *   (c) an amount determined under subsection (3) after applying subsection (2).
     
@@ -1266,7 +1270,7 @@ Interpretation
     
     *   (b) the supply is not---
             
-        *   (i) a supply of goods previously supplied to a registered person who has entered them for home consumption under the [Customs and Excise Act 1996][162], whether the person is registered at the time they enter the goods for home consumption or later; and
+        *   (i) a supply of goods previously supplied to a registered person who has entered them for home consumption under the [Customs and Excise Act 1996][164], whether the person is registered at the time they enter the goods for home consumption or later; and
         
         *   (ii) a supply of goods made by a non-resident, whether or not they made the earlier supply referred to in subparagraph (i); and
         
@@ -1332,25 +1336,25 @@ Interpretation
     
     (5) For the purpose of subsection (3), _tax fraction_ means the tax fraction that applies at the time of supply.
     
-    Section 3A: inserted, on 10 October 2000 (applying to supplies made on and after 10 October 2000), by [section 85(1)][240] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 3A: inserted, on 10 October 2000 (applying to supplies made on and after 10 October 2000), by [section 85(1)][242] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 3A(1)(a): substituted, on 1 April 2011, by [section 5(1)][204] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 3A(1)(a): substituted, on 1 April 2011, by [section 5(1)][206] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 3A(1)(b): substituted, on 1 April 2011, by [section 5(1)][204] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 3A(1)(b): substituted, on 1 April 2011, by [section 5(1)][206] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 3A(2)(b): replaced (with effect on 14 September 2011), on 2 November 2012, by [section 208(1)][241] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 3A(2)(b): replaced (with effect on 14 September 2011), on 2 November 2012, by [section 208(1)][243] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 3A(2)(c): substituted, on 1 April 2011, by [section 5(2)][204] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 3A(2)(c): substituted, on 1 April 2011, by [section 5(2)][206] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 3A(3B): inserted, on 1 April 2011, by [section 5(3)][204] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 3A(3B): inserted, on 1 April 2011, by [section 5(3)][206] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 3A(3C): inserted, on 1 April 2011, by [section 5(3)][204] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 3A(3C): inserted, on 1 April 2011, by [section 5(3)][206] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 3A(3C): amended (with effect on 1 April 2011), on 2 November 2012, by [section 208(2)][241] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 3A(3C): amended (with effect on 1 April 2011), on 2 November 2012, by [section 208(2)][243] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 3A(4): repealed (with effect on 1 April 2011), on 2 November 2012, by [section 208(3)][241] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 3A(4): repealed (with effect on 1 April 2011), on 2 November 2012, by [section 208(3)][243] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 3A(4A): repealed, on 1 April 2011, by [section 5(4)][204] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 3A(4A): repealed, on 1 April 2011, by [section 5(4)][206] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
 
 ##### 4 Meaning of term open market value
     
@@ -1382,17 +1386,23 @@ Interpretation
     
     *   (b) where the second person has been unable to obtain the written statement referred to in paragraph (a), that person may determine, in relation to any reasonable information held, that the supply of those goods would not have been a taxable supply if those goods had been sold by the first person (notwithstanding that the first person may not be the owner of those goods).
     
-    (3) For the purposes of this Act, where a person ceases to be a registered person, any goods and services then forming part of the assets of a taxable activity carried on by that person shall be deemed to be supplied by that person in the course of that taxable activity at a time immediately before that person ceases to be a registered person, unless the taxable activity is carried on by another person who, pursuant to [section 58][115], is deemed to be a registered person.
+    (3) For the purposes of this Act, where a person ceases to be a registered person, any goods and services then forming part of the assets of a taxable activity carried on by that person shall be deemed to be supplied by that person in the course of that taxable activity at a time immediately before that person ceases to be a registered person, unless the taxable activity is carried on by another person who, pursuant to [section 58][117], is deemed to be a registered person.
     
     (3A) \[Repealed\]
     
-    (4) For the purposes of this Act, a credit agreement to which the [Door to Door Sales Act 1967][242] applies shall not constitute a supply of goods and services unless the purchaser has failed to exercise the right under [section 7][243] of that Act to cancel the agreement within the period made available to the purchaser by that section.
+    (3B) For the purposes of this Act, when a person who is a non-resident ceases to be a registered person,---
+        
+    *   (a) any goods that are part of the assets of the taxable activity carried on by the person that are present in New Zealand at the time the person ceases to be registered are treated as supplied by the person in the course of the taxable activity at a time immediately before the person ceases to be registered:
     
-    (5) For the purposes of this Act, any contract that is a layby sale to which the [Layby Sales Act 1971][244] applies shall not constitute a supply of goods and services unless the goods which are the subject of the contract are delivered to the buyer and the property therein is transferred to the buyer:
+    *   (b) any services that would be performed in New Zealand as part of the taxable activity carried on by the person at the time the person ceases to be registered are treated as performed by the person in the course of the taxable activity at a time immediately before the person ceases to be registered.
+    
+    (4) For the purposes of this Act, a credit agreement to which the [Door to Door Sales Act 1967][244] applies shall not constitute a supply of goods and services unless the purchaser has failed to exercise the right under [section 7][245] of that Act to cancel the agreement within the period made available to the purchaser by that section.
+    
+    (5) For the purposes of this Act, any contract that is a layby sale to which the [Layby Sales Act 1971][246] applies shall not constitute a supply of goods and services unless the goods which are the subject of the contract are delivered to the buyer and the property therein is transferred to the buyer:
     
     provided that a supply of services shall, in respect of any such contract, be deemed to have taken place where---
         
-    *   (a) a layby sale is cancelled pursuant to the [Layby Sales Act 1971][244]; and
+    *   (a) a layby sale is cancelled pursuant to the [Layby Sales Act 1971][246]; and
     
     *   (b) the seller either---
             
@@ -1400,33 +1410,33 @@ Interpretation
         
         *   (ii) recovers any amount (including, or in addition to, the amount referred to in subparagraph (i)) from the buyer,---
         
-        pursuant to [section 9(1)(b)][245] of the Layby Sales Act 1971\.
+        pursuant to [section 9(1)(b)][247] of the Layby Sales Act 1971\.
     
-    (6) For the purposes of this Act, every public authority is deemed to supply goods and services where, within the meaning of the [Public Finance Act 1989][189], any amount is brought to charge by the public authority as revenue from the Crown for the supply of outputs.
+    (6) For the purposes of this Act, every public authority is deemed to supply goods and services where, within the meaning of the [Public Finance Act 1989][191], any amount is brought to charge by the public authority as revenue from the Crown for the supply of outputs.
     
-    (6AA) For the purposes of this Act, a levy that is paid under the [Climate Change Response Act 2002][246] is treated as if it were consideration for a supply of services in furtherance of a taxable activity carried on by---
+    (6AA) For the purposes of this Act, a levy that is paid under the [Climate Change Response Act 2002][248] is treated as if it were consideration for a supply of services in furtherance of a taxable activity carried on by---
         
     *   (a) the New Zealand Transport Agency, if the levy is paid under section 228 of that Act; or
     
-    *   (b) the Environmental Protection Authority established by [section 7][247] of the Environmental Protection Authority Act 2011, if the levy is recovered under section 230 of that Act.
+    *   (b) the Environmental Protection Authority established by [section 7][249] of the Environmental Protection Authority Act 2011, if the levy is recovered under section 230 of that Act.
     
-    (6A) For the purposes of this Act, any registration fee paid pursuant to [section 243(1)(b)(i)][248] of the Land Transport Act 1998 and any licence fees paid pursuant to [section 244(2)][249] of that Act are deemed to be consideration for a supply of services in the course or furtherance of a taxable activity carried on by the New Zealand Transport Agency.
+    (6A) For the purposes of this Act, any registration fee paid pursuant to [section 243(1)(b)(i)][250] of the Land Transport Act 1998 and any licence fees paid pursuant to [section 244(2)][251] of that Act are deemed to be consideration for a supply of services in the course or furtherance of a taxable activity carried on by the New Zealand Transport Agency.
     
-    (6AB) For the purposes of this Act, a levy that is paid to the New Zealand Fire Service Commission under [section 48][250] of the Fire Service Act 1975 and is not a penalty surcharge or interest payable under that Act is treated as being consideration for a supply of services to the insured person in the course or furtherance of a taxable activity carried on by the Commission.
+    (6AB) For the purposes of this Act, a levy that is paid to the New Zealand Fire Service Commission under [section 48][252] of the Fire Service Act 1975 and is not a penalty surcharge or interest payable under that Act is treated as being consideration for a supply of services to the insured person in the course or furtherance of a taxable activity carried on by the Commission.
     
-    (6AC) For the purposes of this Act, a levy that is paid under the [Waste Minimisation Act 2008][251] is treated as being consideration for a supply of services in the course or furtherance of a taxable activity. For the purposes of this subsection, the payment of the levy includes, and is for, the following transactions:
+    (6AC) For the purposes of this Act, a levy that is paid under the [Waste Minimisation Act 2008][253] is treated as being consideration for a supply of services in the course or furtherance of a taxable activity. For the purposes of this subsection, the payment of the levy includes, and is for, the following transactions:
         
     *   (a) a payment made by a waste disposal facility user to a waste disposal facility operator; and
     
     *   (b) a payment made by a waste disposal facility operator to the Secretary for the Ministry for the Environment; and
     
-    *   (c) a payment made by the Secretary to a funding recipient or territorial authority to fund waste minimisation activities in the community as described in [section 30][252] of the Waste Minimisation Act 2008\.
+    *   (c) a payment made by the Secretary to a funding recipient or territorial authority to fund waste minimisation activities in the community as described in [section 30][254] of the Waste Minimisation Act 2008\.
     
-    (6B) For the purposes of this Act, any amount of road user charges paid pursuant to the [Road User Charges Act 2012][253] is deemed to be a consideration for a supply of services in the course or furtherance of a taxable activity carried on by the New Zealand Transport Agency.
+    (6B) For the purposes of this Act, any amount of road user charges paid pursuant to the [Road User Charges Act 2012][255] is deemed to be a consideration for a supply of services in the course or furtherance of a taxable activity carried on by the New Zealand Transport Agency.
     
-    (6C) For the purposes of this Act, the amount of any deposit specified in, and paid under, [section 127A][254] or [section 144][255] or [section 146F][256] of the Electoral Act 1993 is deemed to be consideration (inclusive of tax) for a supply of services by the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of the [Electoral Act 1993][257] in the course or furtherance of a taxable activity, and that supply is deemed to take place when and if the deposit is forfeited under section 127A(3) or section 144(3) or section 146F(3) of that Act.
+    (6C) For the purposes of this Act, the amount of any deposit specified in, and paid under, [section 127A][256] or [section 144][257] or [section 146F][258] of the Electoral Act 1993 is deemed to be consideration (inclusive of tax) for a supply of services by the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of the [Electoral Act 1993][259] in the course or furtherance of a taxable activity, and that supply is deemed to take place when and if the deposit is forfeited under section 127A(3) or section 144(3) or section 146F(3) of that Act.
     
-    (6CA) For the purposes of this Act, the amount of any deposit referred to in, and paid under, [section 55][258] of the Local Electoral Act 2001 is deemed to be consideration (inclusive of tax) for a supply of services by the relevant local authority in the course or furtherance of a taxable activity, and that supply is deemed to take place when and if the deposit is forfeited under [section 59][259] of that Act.
+    (6CA) For the purposes of this Act, the amount of any deposit referred to in, and paid under, [section 55][260] of the Local Electoral Act 2001 is deemed to be consideration (inclusive of tax) for a supply of services by the relevant local authority in the course or furtherance of a taxable activity, and that supply is deemed to take place when and if the deposit is forfeited under [section 59][261] of that Act.
     
     (6D) For the purposes of this Act, where any payment in the nature of a grant or subsidy is made on behalf of the Crown or by any public authority to---
         
@@ -1448,9 +1458,9 @@ Interpretation
     
     *   (b) does not include---
             
-        *   (i) any payment of a benefit paid under the [Social Security Act 1964][260]; or
+        *   (i) any payment of a benefit paid under the [Social Security Act 1964][262]; or
         
-        *   (ii) subject to paragraph (a)(ii), any other payment made to a person where the payment is for the personal use and benefit of the person or, as the case may be, a relative (as defined in paragraphs (c) and (d) of the definition of that term in [section YA 1][171] of the Income Tax Act 2007) of the person; or
+        *   (ii) subject to paragraph (a)(ii), any other payment made to a person where the payment is for the personal use and benefit of the person or, as the case may be, a relative (as defined in paragraphs (c) and (d) of the definition of that term in [section YA 1][173] of the Income Tax Act 2007) of the person; or
         
         *   (iii) any payment of a kind that is declared by the Governor-General by Order in Council not to be a taxable grant or subsidy for the purposes of subsection (6D).
         
@@ -1460,39 +1470,39 @@ Interpretation
         
     *   (a) every local authority is deemed to supply goods and services to any person where any amount of rates is payable by that person to that local authority:
     
-    *   (b) the Chatham Islands Council is treated as supplying goods and services to a person if an amount of council dues, as defined in [section 2][261] of the Chatham Islands Council Act 1995, is payable by the person to the Chatham Islands Council.
+    *   (b) the Chatham Islands Council is treated as supplying goods and services to a person if an amount of council dues, as defined in [section 2][263] of the Chatham Islands Council Act 1995, is payable by the person to the Chatham Islands Council.
     
     (7B) For the purposes of this Act, a local authority is treated as supplying goods and services to a person if the local authority requires a contribution from the person as---
         
-    *   (a) a financial contribution that is a condition of a resource consent under the [Resource Management Act 1991][262]:
+    *   (a) a financial contribution that is a condition of a resource consent under the [Resource Management Act 1991][264]:
     
-    *   (b) a development contribution under the [Local Government Act 2002][174].
+    *   (b) a development contribution under the [Local Government Act 2002][176].
     
     (7C) For the purposes of this Act, a person who makes a contribution to a local authority is treated as supplying goods and services to the local authority to the extent that the contribution consists of land and is---
         
-    *   (a) a financial contribution that is a condition of a resource consent under the [Resource Management Act 1991][262]:
+    *   (a) a financial contribution that is a condition of a resource consent under the [Resource Management Act 1991][264]:
     
-    *   (b) a development contribution under the [Local Government Act 2002][174].
+    *   (b) a development contribution under the [Local Government Act 2002][176].
     
     (7D) \[Repealed\]
     
     (7E) \[Repealed\]
     
-    (8) Despite any other provision of this Act, for the purposes of this Act, if any racing betting or sports betting (within the meaning of [section 5][263] of the Racing Act 2003) is conducted by the Board (as defined in section 5 of the Racing Act 2003), the betting must be regarded as a supply of services by the Board.
+    (8) Despite any other provision of this Act, for the purposes of this Act, if any racing betting or sports betting (within the meaning of [section 5][265] of the Racing Act 2003) is conducted by the Board (as defined in section 5 of the Racing Act 2003), the betting must be regarded as a supply of services by the Board.
     
     (9) \[Repealed\]
     
     (10) For the purposes of this Act, an amount of money paid by a person to participate in gambling (including a New Zealand lottery) or in a prize competition is treated as a payment for a supply of services by the following:
         
-    *   (a) for gambling, by the person, society, licensed promoter, or organiser who under the [Gambling Act 2003][264] conducts the gambling:
+    *   (a) for gambling, by the person, society, licensed promoter, or organiser who under the [Gambling Act 2003][266] conducts the gambling:
     
     *   (b) for a prize competition, by the person who conducts the prize competition.
     
     (11) For the purposes of subsection (10)---
         
-    *   (a) the terms _gambling_, _New Zealand lottery_, _licensed promoter_, and _society_ have the meanings set out in [section 4(1)][265] of the Gambling Act 2003:
+    *   (a) the terms _gambling_, _New Zealand lottery_, _licensed promoter_, and _society_ have the meanings set out in [section 4(1)][267] of the Gambling Act 2003:
     
-    *   (b) the term _organiser_ means the New Zealand Lotteries Commission continued by [section 236][266] of the Gambling Act 2003\.
+    *   (b) the term _organiser_ means the New Zealand Lotteries Commission continued by [section 236][268] of the Gambling Act 2003\.
     
     (11A) \[Repealed\]
     
@@ -1504,7 +1514,7 @@ Interpretation
     
     the money paid must be treated as payment for the supply of services by the holder of the casino operator's licence.
     
-    (11C) For the purposes of subsection (11B), the terms _casino venue_, _chip_, and _gambling_ have the meanings set out in [section 4(1)][265] of the Gambling Act 2003\.
+    (11C) For the purposes of subsection (11B), the terms _casino venue_, _chip_, and _gambling_ have the meanings set out in [section 4(1)][267] of the Gambling Act 2003\.
     
     (11D) Subsections (11E) to (11I) apply to a token, stamp or voucher that gives the recipient the right to receive goods and services, other than a token, stamp or voucher issued for no consideration.
     
@@ -1552,11 +1562,11 @@ Interpretation
         
     *   (a) the supply of that contract of insurance is not a supply charged with tax pursuant to [section 8(1)][14]; or
     
-    *   (b) that payment is in respect of an entitlement for any loss of earnings (being earnings within the meaning of the Accident Compensation Act 1982 or the Accident Rehabilitation and Compensation Insurance Act 1992 or the Accident Insurance Act 1998 or the [Accident Compensation Act 2001][267]); or
+    *   (b) that payment is in respect of an entitlement for any loss of earnings (being earnings within the meaning of the Accident Compensation Act 1982 or the Accident Rehabilitation and Compensation Insurance Act 1992 or the Accident Insurance Act 1998 or the [Accident Compensation Act 2001][269]); or
     
     *   (c) the supply of the contract of insurance is a supply that is chargeable with tax only because [sections 5B][10] and [8(4B)][14] apply to it.
     
-    (13A) For the purposes of this Act, if a registered person receives any refund of excise duty or excise-equivalent duty paid out of a Crown Bank Account under [section 41][268] of the Land Transport Management Act 2003, that refund is, to the extent that it relates to excise duty or excise-equivalent duty incurred for the principal purpose of making taxable supplies, deemed to be consideration received for a supply of services by that registered person in the course or furtherance of that person's taxable activity.
+    (13A) For the purposes of this Act, if a registered person receives any refund of excise duty or excise-equivalent duty paid out of a Crown Bank Account under [section 41][270] of the Land Transport Management Act 2003, that refund is, to the extent that it relates to excise duty or excise-equivalent duty incurred for the principal purpose of making taxable supplies, deemed to be consideration received for a supply of services by that registered person in the course or furtherance of that person's taxable activity.
     
     (13B) For the purposes of this Act, where---
         
@@ -1614,153 +1624,155 @@ Interpretation
     
     Section 5(2): substituted, on 19 December 1989, by section 4(1) of the Goods and Services Tax Amendment Act (No 2) 1989 (1989 No 152).
     
-    Section 5(2): amended, on 1 April 2005, by [section 139][202] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
+    Section 5(2): amended, on 1 April 2005, by [section 139][204] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
     
     Section 5(3): amended (with effect on 3 December 1985), on 22 June 1987 (applying to supplies made on or after 3 December 1985), by section 3(3) of the Goods and Services Tax Amendment Act 1987 (1987 No 103).
     
-    Section 5(3A): repealed, on 10 October 2000 (applying on 10 October 2000), by [section 86(1)][269] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 5(3A): repealed, on 10 October 2000 (applying on 10 October 2000), by [section 86(1)][271] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    
+    Section 5(3B): inserted, on 1 April 2014, by [section 121(1)][272] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
     Section 5(6): substituted, on 10 April 1995, by section 3(1) of the Goods and Services Tax Amendment Act 1995 (1995 No 22).
     
-    Section 5(6AA): inserted, on 1 January 2013, by [section 103][270] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 5(6AA): inserted, on 1 January 2013, by [section 103][273] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 5(6A): substituted, on 1 May 2011, by [section 35(4)][271] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 5(6A): substituted, on 1 May 2011, by [section 35(4)][274] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 5(6AB): inserted (with effect on 1 October 1986), on 21 June 2005, by [section 155][272] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
+    Section 5(6AB): inserted (with effect on 1 October 1986), on 21 June 2005, by [section 155][275] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
     
-    Section 5(6AC): inserted (with effect on 1 July 2009), on 8 December 2009, by [section 147][273] of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63).
+    Section 5(6AC): inserted (with effect on 1 July 2009), on 8 December 2009, by [section 147][276] of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63).
     
-    Section 5(6B): replaced, on 1 August 2012, by [section 94][274] of the Road User Charges Act 2012 (2012 No 1).
+    Section 5(6B): replaced, on 1 August 2012, by [section 94][277] of the Road User Charges Act 2012 (2012 No 1).
     
-    Section 5(6C): substituted, on 28 February 2002, by [section 102(1)][275] of the Electoral Amendment Act 2002 (2002 No 1).
+    Section 5(6C): substituted, on 28 February 2002, by [section 102(1)][278] of the Electoral Amendment Act 2002 (2002 No 1).
     
-    Section 5(6CA): inserted, on 28 February 2002, by [section 102(1)][275] of the Electoral Amendment Act 2002 (2002 No 1).
+    Section 5(6CA): inserted, on 28 February 2002, by [section 102(1)][278] of the Electoral Amendment Act 2002 (2002 No 1).
     
-    Section 5(6D): inserted (with effect on 1 October 1986), on 28 June 1991, by [section 2(1)][276] of the Goods and Services Tax Amendment Act (No 3) 1991 (1991 No 48).
+    Section 5(6D): inserted (with effect on 1 October 1986), on 28 June 1991, by [section 2(1)][279] of the Goods and Services Tax Amendment Act (No 3) 1991 (1991 No 48).
     
-    Section 5(6E): inserted (with effect on 1 October 1986), on 28 June 1991, by [section 2(1)][276] of the Goods and Services Tax Amendment Act (No 3) 1991 (1991 No 48).
+    Section 5(6E): inserted (with effect on 1 October 1986), on 28 June 1991, by [section 2(1)][279] of the Goods and Services Tax Amendment Act (No 3) 1991 (1991 No 48).
     
-    Section 5(6E)(b)(i): amended, on 1 October 1998, by [section 57][277] of the Social Security Amendment Act 1998 (1998 No 19).
+    Section 5(6E)(b)(i): amended, on 1 October 1998, by [section 57][280] of the Social Security Amendment Act 1998 (1998 No 19).
     
-    Section 5(6E)(b)(ii): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][203] of the Income Tax Act 2007 (2007 No 97).
+    Section 5(6E)(b)(ii): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][205] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 5(6E)(b)(ii): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][228] of the Income Tax Act 2004 (2004 No 35).
+    Section 5(6E)(b)(ii): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][230] of the Income Tax Act 2004 (2004 No 35).
     
     Section 5(7)(a): substituted (with effect on 3 December 1985), on 8 August 1986, by section 5(2) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 5(7)(a) proviso: repealed, on 1 July 2003, by [section 262][207] of the Local Government Act 2002 (2002 No 84).
+    Section 5(7)(a) proviso: repealed, on 1 July 2003, by [section 262][209] of the Local Government Act 2002 (2002 No 84).
     
-    Section 5(7)(b): substituted, on 10 October 2000 (applying on and after 1 November 1995), by [section 86(3)][269] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 5(7)(b): substituted, on 10 October 2000 (applying on and after 1 November 1995), by [section 86(3)][271] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 5(7B): inserted, on 25 November 2003, by [section 144(1)][278] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 5(7B): inserted, on 25 November 2003, by [section 144(1)][281] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 5(7C): inserted, on 25 November 2003, by [section 144(1)][278] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 5(7C): inserted, on 25 November 2003, by [section 144(1)][281] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 5(7D): repealed, on 6 August 2010, by [section 5(2)][279] of the Affordable Housing: Enabling Territorial Authorities Act Repeal Act 2010 (2010 No 101).
+    Section 5(7D): repealed, on 6 August 2010, by [section 5(2)][282] of the Affordable Housing: Enabling Territorial Authorities Act Repeal Act 2010 (2010 No 101).
     
-    Section 5(7E): repealed, on 6 August 2010, by [section 5(2)][279] of the Affordable Housing: Enabling Territorial Authorities Act Repeal Act 2010 (2010 No 101).
+    Section 5(7E): repealed, on 6 August 2010, by [section 5(2)][282] of the Affordable Housing: Enabling Territorial Authorities Act Repeal Act 2010 (2010 No 101).
     
-    Section 5(8): substituted, on 1 August 2003, by [section 69(1)][280] of the Racing Act 2003 (2003 No 3).
+    Section 5(8): substituted, on 1 August 2003, by [section 69(1)][283] of the Racing Act 2003 (2003 No 3).
     
-    Section 5(9): repealed, on 1 August 2003, by [section 69(1)][280] of the Racing Act 2003 (2003 No 3).
+    Section 5(9): repealed, on 1 August 2003, by [section 69(1)][283] of the Racing Act 2003 (2003 No 3).
     
-    Section 5(10): replaced, on 17 July 2013, by [section 121(2)][281] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
+    Section 5(10): replaced, on 17 July 2013, by [section 121(2)][272] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
-    Section 5(11): substituted, on 1 July 2004, by [section 374][282] of the Gambling Act 2003 (2003 No 51).
+    Section 5(11): substituted, on 1 July 2004, by [section 374][284] of the Gambling Act 2003 (2003 No 51).
     
-    Section 5(11A): repealed, on 1 August 1990, by [section 3(1)][283] of the Goods and Services Tax Amendment Act 1990 (1990 No 64).
+    Section 5(11A): repealed, on 1 August 1990, by [section 3(1)][285] of the Goods and Services Tax Amendment Act 1990 (1990 No 64).
     
-    Section 5(11B): substituted, on 1 July 2004, by [section 374][282] of the Gambling Act 2003 (2003 No 51).
+    Section 5(11B): substituted, on 1 July 2004, by [section 374][284] of the Gambling Act 2003 (2003 No 51).
     
-    Section 5(11C): substituted, on 1 July 2004, by [section 374][282] of the Gambling Act 2003 (2003 No 51).
+    Section 5(11C): substituted, on 1 July 2004, by [section 374][284] of the Gambling Act 2003 (2003 No 51).
     
-    Section 5(11D): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 86(4)][269] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 5(11D): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 86(4)][271] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 5(11D): amended, on 27 March 2001 (applying on and after 10 October 2000), by [section 62(1)][284] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
+    Section 5(11D): amended, on 27 March 2001 (applying on and after 10 October 2000), by [section 62(1)][286] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
     
-    Section 5(11E): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 86(4)][269] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 5(11E): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 86(4)][271] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 5(11E): amended, on 27 March 2001 (applying on and after 10 October 2000), by [section 62(2)][284] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
+    Section 5(11E): amended, on 27 March 2001 (applying on and after 10 October 2000), by [section 62(2)][286] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
     
-    Section 5(11EA): inserted, on 27 March 2001 (applying on and after 10 October 2000), by [section 62(3)][284] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
+    Section 5(11EA): inserted, on 27 March 2001 (applying on and after 10 October 2000), by [section 62(3)][286] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
     
-    Section 5(11F): substituted, on 27 March 2001 (applying on and after 10 October 2000), by [section 62(4)][284] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
+    Section 5(11F): substituted, on 27 March 2001 (applying on and after 10 October 2000), by [section 62(4)][286] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
     
-    Section 5(11G): substituted, on 27 March 2001 (applying on and after 10 October 2000), by [section 62(5)][284] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
+    Section 5(11G): substituted, on 27 March 2001 (applying on and after 10 October 2000), by [section 62(5)][286] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
     
-    Section 5(11G): amended, on 24 October 2001 (applying on and after 10 October 2000), by [section 238(1)(a)][285] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 5(11G): amended, on 24 October 2001 (applying on and after 10 October 2000), by [section 238(1)(a)][287] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
-    Section 5(11G)(a): amended, on 24 October 2001 (applying on and after 10 October 2000), by [section 238(1)(b)][285] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 5(11G)(a): amended, on 24 October 2001 (applying on and after 10 October 2000), by [section 238(1)(b)][287] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
-    Section 5(11G)(b): amended, on 24 October 2001 (applying on and after 10 October 2000), by [section 238(1)(c)][285] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 5(11G)(b): amended, on 24 October 2001 (applying on and after 10 October 2000), by [section 238(1)(c)][287] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
-    Section 5(11GA): inserted, on 27 March 2001 (applying on and after 10 October 2000), by [section 62(5)][284] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
+    Section 5(11GA): inserted, on 27 March 2001 (applying on and after 10 October 2000), by [section 62(5)][286] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
     
-    Section 5(11H): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 86(4)][269] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 5(11H): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 86(4)][271] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 5(11I): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 86(4)][269] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 5(11I): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 86(4)][271] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 5(11I)(a): substituted, on 3 April 2006 (applying for supplies that are made on or after 3 April 2006), by [section 285(1)][286] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 5(11I)(a): substituted, on 3 April 2006 (applying for supplies that are made on or after 3 April 2006), by [section 285(1)][288] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 5(13): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 86(5)][269] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 5(13): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 86(5)][271] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
     Section 5(13) proviso: substituted (with effect on 23 September 1987), on 11 December 1987 (applying to supplies made on or after 23 September 1987), by section 2(1) of the Goods and Services Tax Amendment Act (No 2) 1987 (1987 No 191).
     
-    Section 5(13) proviso: amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 86(6)][269] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 5(13) proviso: amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 86(6)][271] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
     Section 5(13) proviso paragraph (b): substituted, on 19 December 1998, by section 416(1) of the Accident Insurance Act 1998 (1998 No 114).
     
-    Section 5(13) proviso paragraph (b): amended, on 3 March 2010, pursuant to [section 5(1)(b)][287] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 5(13) proviso paragraph (b): amended, on 3 March 2010, pursuant to [section 5(1)(b)][289] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 5(13) proviso paragraph (b): amended (with effect on 1 January 2005), on 2 November 2012, by [section 209(1)][288] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 5(13) proviso paragraph (b): amended (with effect on 1 January 2005), on 2 November 2012, by [section 209(1)][290] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 5(13) proviso paragraph (b): amended, on 1 April 2002, by [section 338][289] of the Accident Compensation Act 2001 (2001 No 49).
+    Section 5(13) proviso paragraph (b): amended, on 1 April 2002, by [section 338][291] of the Accident Compensation Act 2001 (2001 No 49).
     
-    Section 5(13) proviso paragraph (c): inserted (with effect on 1 January 2005), on 2 November 2012, by [section 209(1)][288] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 5(13) proviso paragraph (c): inserted (with effect on 1 January 2005), on 2 November 2012, by [section 209(1)][290] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 5(13A): substituted, on 13 November 2003, by [section 90][290] of the Land Transport Management Act 2003 (2003 No 118).
+    Section 5(13A): substituted, on 13 November 2003, by [section 90][292] of the Land Transport Management Act 2003 (2003 No 118).
     
-    Section 5(13A): amended, on 25 January 2005, pursuant to [section 65R(3)][291] of the Public Finance Act 1989 (1989 No 44).
+    Section 5(13A): amended, on 25 January 2005, pursuant to [section 65R(3)][293] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 5(13B): inserted, on 2 September 1996 (applying to supplies made on or after 1 October 1986), by [section 52(1)][292] of the Taxation (Remedial Provisions) Act 1996 (1996 No 159).
+    Section 5(13B): inserted, on 2 September 1996 (applying to supplies made on or after 1 October 1986), by [section 52(1)][294] of the Taxation (Remedial Provisions) Act 1996 (1996 No 159).
     
-    Section 5(13B)(b): substituted, on 10 October 2000 (applying on and after 10 October 2000), by [section 86(8)][269] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 5(13B)(b): substituted, on 10 October 2000 (applying on and after 10 October 2000), by [section 86(8)][271] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 5(14): substituted, on 6 October 2009, by [section 705][293] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 5(14): substituted, on 6 October 2009, by [section 705][295] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 5(14B): inserted, on 3 April 2006 (applying for supplies of financial services that are made on or after 3 April 2006), by [section 285(2)][286] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 5(14B): inserted, on 3 April 2006 (applying for supplies of financial services that are made on or after 3 April 2006), by [section 285(2)][288] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 5(15): substituted (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 236(1)][294] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 5(15): substituted (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 236(1)][296] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 5(16): added, on 12 December 1995, by [section 3(1)][295] of the Goods and Services Tax Amendment Act (No 2) 1995 (1995 No 75).
+    Section 5(16): added, on 12 December 1995, by [section 3(1)][297] of the Goods and Services Tax Amendment Act (No 2) 1995 (1995 No 75).
     
-    Section 5(17): repealed, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 6(2)][212] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 5(17): repealed, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 6(2)][214] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 5(18): added, on 12 December 1995, by [section 3(1)][295] of the Goods and Services Tax Amendment Act (No 2) 1995 (1995 No 75).
+    Section 5(18): added, on 12 December 1995, by [section 3(1)][297] of the Goods and Services Tax Amendment Act (No 2) 1995 (1995 No 75).
     
-    Section 5(19): added, on 12 December 1995, by [section 3(1)][295] of the Goods and Services Tax Amendment Act (No 2) 1995 (1995 No 75).
+    Section 5(19): added, on 12 December 1995, by [section 3(1)][297] of the Goods and Services Tax Amendment Act (No 2) 1995 (1995 No 75).
     
-    Section 5(20): added, on 17 October 2002 (applying on and after 1 August 2002), by [section 98(1)][296] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 5(20): added, on 17 October 2002 (applying on and after 1 August 2002), by [section 98(1)][298] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
-    Section 5(21): added, on 17 October 2002 (applying on and after 1 August 2002), by [section 98(1)][296] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 5(21): added, on 17 October 2002 (applying on and after 1 August 2002), by [section 98(1)][298] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
-    Section 5(22): added, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 6(3)][212] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 5(22): added, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 6(3)][214] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 5(23): added, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 6(3)][212] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 5(23): added, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 6(3)][214] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 5(24): added, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 6(3)][212] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 5(24): added, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 6(3)][214] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 5(25): inserted (with effect on 1 April 2003), on 2 November 2012, by [section 209(2)][288] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 5(25): inserted (with effect on 1 April 2003), on 2 November 2012, by [section 209(2)][290] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 5(26): inserted (with effect on 1 April 2003), on 2 November 2012, by [section 209(2)][288] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 5(26): inserted (with effect on 1 April 2003), on 2 November 2012, by [section 209(2)][290] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
 
 ##### 5B Supply of certain imported services
     
-*   For the purpose of the definition of output tax and [sections 8(1)][14], [15A to 15E][28], [19A][38], [20(4)][43], [20B][45], [25AA][70], [51][105], [52][107], [57][114], [75][137], [76(6)][138], [78B][143], [78BA][144] and [78C][145], a supply of services that is treated by [section 8(4B)][14] as being made in New Zealand is treated as being made by the recipient of the supply in the course or furtherance of a taxable activity carried on by the recipient.
+*   For the purpose of the definition of output tax and [sections 8(1)][14], [15A to 15E][28], [19A][38], [20(4)][43], [20B][45], [25AA][70], [51][105], [52][107], [57][116], [75][139], [76(6)][140], [78B][145], [78BA][146] and [78C][147], a supply of services that is treated by [section 8(4B)][14] as being made in New Zealand is treated as being made by the recipient of the supply in the course or furtherance of a taxable activity carried on by the recipient.
     
-    Section 5B: inserted, on 1 January 2005, by [section 145][297] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 5B: inserted, on 1 January 2005, by [section 145][299] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 5B: amended (with effect on 1 April 2007), on 6 October 2009, by [section 706][298] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 5B: amended (with effect on 1 April 2007), on 6 October 2009, by [section 706][300] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 6 Meaning of term taxable activity
     
@@ -1784,11 +1796,11 @@ Interpretation
     
     *   (c) any engagement, occupation, or employment---
             
-        *   (i) pursuant to the [Members of Parliament (Remuneration and Services) Act 2013][299] or the [Governor-General Act 2010][300]:
+        *   (i) pursuant to the [Members of Parliament (Remuneration and Services) Act 2013][301] or the [Governor-General Act 2010][302]:
         
         *   (ii) as a Judge, Solicitor-General, Controller and Auditor-General, or Ombudsman:
         
-        *   (iia) pursuant to an appointment made by the Governor-General or the Governor-General in Council and evidenced by a warrant or by an Order in Council or by a notice published in the _Gazette_ in accordance with [section 2(2)][301] of the Official Appointments and Documents Act 1919:
+        *   (iia) pursuant to an appointment made by the Governor-General or the Governor-General in Council and evidenced by a warrant or by an Order in Council or by a notice published in the _Gazette_ in accordance with [section 2(2)][303] of the Official Appointments and Documents Act 1919:
         
         *   (iii) as a Chairman or member of any local authority or any statutory board, council, committee, or other body; or
         
@@ -1798,15 +1810,15 @@ Interpretation
     
     Section 6(1)(b): amended (with effect on 3 December 1985), on 8 August 1986, by section 6 of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 6(2): substituted, on 10 October 2000 (applying on and after 10 October 2000), by [section 87(1)][302] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 6(2): substituted, on 10 October 2000 (applying on and after 10 October 2000), by [section 87(1)][304] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
     Section 6(3)(a): amended (with effect on 3 December 1985), on 24 March 1988 (applying to supplies made on or after 24 March 1988), by section 5(1) of the Goods and Services Tax Amendment Act 1988 (1988 No 7).
     
     Section 6(3)(aa): inserted (with effect on 3 December 1985), on 24 March 1988 (applying to supplies made on or after 24 March 1988), by section 5(2) of the Goods and Services Tax Amendment Act 1988 (1988 No 7).
     
-    Section 6(3)(c)(i): amended, on 16 December 2013, by [section 66][303] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
+    Section 6(3)(c)(i): amended, on 16 December 2013, by [section 66][305] of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
     
-    Section 6(3)(c)(i): amended, on 23 November 2010, by [section 21(2)][304] of the Governor-General Act 2010 (2010 No 122).
+    Section 6(3)(c)(i): amended, on 23 November 2010, by [section 21(2)][306] of the Governor-General Act 2010 (2010 No 122).
     
     Section 6(3)(c)(iia): inserted (with effect on 3 December 1985), on 24 March 1988 (applying to supplies made on or after 24 March 1988), by section 5(3) of the Goods and Services Tax Amendment Act 1988 (1988 No 7).
 
@@ -1843,7 +1855,7 @@ Imposition of tax
     
     *   (b) for any days in the person's taxable period that fall outside the transitional period, apportioned on a pro rata basis.
     
-    (2E) If a registered person has supplied services in the transitional period by way of the facilitation of inbound tour operations and tax was paid under this section in relation to the services, the person is entitled to a refund of the amount of tax paid. They must apply for the refund in writing within the period that starts on the date of Royal assent of the [Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009][305] and ends 6 months after that date.
+    (2E) If a registered person has supplied services in the transitional period by way of the facilitation of inbound tour operations and tax was paid under this section in relation to the services, the person is entitled to a refund of the amount of tax paid. They must apply for the refund in writing within the period that starts on the date of Royal assent of the [Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009][307] and ends 6 months after that date.
     
     (2F) For the purposes of subsections (2B) and (2C), services that consist of the facilitation of inbound tour operations means the services that a registered person provides in packaging 1 or more domestic tourism products and services in New Zealand and selling them outside New Zealand to a non-resident person. The tourism products and services may include accommodation, meals, transport, and other activities.
     
@@ -1893,55 +1905,55 @@ Imposition of tax
     
     *   (b) if more than 1 person satisfies paragraph (a), is the person who appears highest on the list in that paragraph.
     
-    Section 8(1): amended, on 20 May 2010 (applying to supplies made on or after 1 October 2010), by [section 45(1)][306] of the Taxation (Budget Measures) Act 2010 (2010 No 27).
+    Section 8(1): amended, on 20 May 2010 (applying to supplies made on or after 1 October 2010), by [section 45(1)][308] of the Taxation (Budget Measures) Act 2010 (2010 No 27).
     
-    Section 8(1): amended, on 1 July 1989 (applying to supplies made on or after 1 July 1989), by [section 15(1)][307] of the Finance Act 1989 (1989 No 13).
+    Section 8(1): amended, on 1 July 1989 (applying to supplies made on or after 1 July 1989), by [section 15(1)][309] of the Finance Act 1989 (1989 No 13).
     
-    Section 8(2): amended, on 25 November 2003, by [section 146(1)][308] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 8(2): amended, on 25 November 2003, by [section 146(1)][310] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 8(2) proviso: repealed, on 1 July 2003, by [section 154][309] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 8(2) proviso: repealed, on 1 July 2003, by [section 154][311] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 8(2B): inserted (with effect on 1 July 2007), on 8 December 2009, by [section 146][310] of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63).
+    Section 8(2B): inserted (with effect on 1 July 2007), on 8 December 2009, by [section 146][312] of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63).
     
-    Section 8(2C): inserted (with effect on 1 July 2007), on 8 December 2009, by [section 146][310] of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63).
+    Section 8(2C): inserted (with effect on 1 July 2007), on 8 December 2009, by [section 146][312] of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63).
     
-    Section 8(2D): inserted (with effect on 1 July 2007), on 8 December 2009, by [section 146][310] of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63).
+    Section 8(2D): inserted (with effect on 1 July 2007), on 8 December 2009, by [section 146][312] of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63).
     
-    Section 8(2E): inserted (with effect on 1 July 2007), on 8 December 2009, by [section 146][310] of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63).
+    Section 8(2E): inserted (with effect on 1 July 2007), on 8 December 2009, by [section 146][312] of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63).
     
-    Section 8(2F): inserted (with effect on 1 July 2007), on 8 December 2009, by [section 146][310] of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63).
+    Section 8(2F): inserted (with effect on 1 July 2007), on 8 December 2009, by [section 146][312] of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63).
     
-    Section 8(3): added, on 1 July 2003, by [section 154][309] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 8(3): added, on 1 July 2003, by [section 154][311] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 8(3): amended, on 25 November 2003, by [section 146(1)][308] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 8(3): amended, on 25 November 2003, by [section 146(1)][310] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 8(4): added, on 1 July 2003, by [section 154][309] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 8(4): added, on 1 July 2003, by [section 154][311] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 8(4): amended, on 25 November 2003, by [section 146(1)][308] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 8(4): amended, on 25 November 2003, by [section 146(1)][310] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 8(4B): inserted, on 1 January 2005, by [section 146(2)][308] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 8(4B): inserted, on 1 January 2005, by [section 146(2)][310] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 8(4B)(b): substituted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 7(1)][213] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 8(4B)(b): substituted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 7(1)][215] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 8(4B)(b)(ii): amended (with effect on 1 April 2011), on 2 November 2012, by [section 210][311] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 8(4B)(b)(ii): amended (with effect on 1 April 2011), on 2 November 2012, by [section 210][313] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 8(4C): inserted, on 1 January 2005, by [section 146(2)][308] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 8(4C): inserted, on 1 January 2005, by [section 146(2)][310] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 8(5): added, on 1 July 2003, by [section 154][309] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 8(5): added, on 1 July 2003, by [section 154][311] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 8(5): amended, on 1 January 2005, by [section 146(3)][308] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 8(5): amended, on 1 January 2005, by [section 146(3)][310] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 8(6): added, on 1 July 2003, by [section 154][309] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 8(6): added, on 1 July 2003, by [section 154][311] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 8(6): amended, on 25 November 2003, by [section 146(4)][308] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 8(6): amended, on 25 November 2003, by [section 146(4)][310] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 8(7): added, on 1 July 2003, by [section 154][309] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 8(7): added, on 1 July 2003, by [section 154][311] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 8(8): added, on 1 July 2003, by [section 154][309] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 8(8): added, on 1 July 2003, by [section 154][311] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 8(8): amended (with effect on 1 July 2003), on 25 November 2003, by [section 146(5)][308] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 8(8): amended (with effect on 1 July 2003), on 25 November 2003, by [section 146(5)][310] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 8(9): substituted (with effect on 1 July 2003), on 25 November 2003, by [section 146(6)][308] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 8(9): substituted (with effect on 1 July 2003), on 25 November 2003, by [section 146(6)][310] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
 
 ##### 8A Certain supplies of telecommunications services
     
@@ -1953,7 +1965,7 @@ Imposition of tax
     
     (4) In this section, _address_ means the physical residential or business address of a person to which invoices are sent, and does not include a post office box number.
     
-    Section 8A: inserted, on 1 July 2003, by [section 155][312] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 8A: inserted, on 1 July 2003, by [section 155][314] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
 
 ##### 9 Time of supply
     
@@ -1973,17 +1985,17 @@ Imposition of tax
         
         provided that this paragraph shall not apply in any case where an invoice is issued, or any payment is made, in respect of that supply, on or before the last day for furnishing the return in relation to the taxable period during which, but for this proviso, that supply would have been made:
     
-    *   (b) where that supply is a supply to which [section 5(4)][9] refers, on the day after the last day of the period during which the recipient may exercise the right under [section 7][243] of the Door to Door Sales Act 1967 to cancel the agreement:
+    *   (b) where that supply is a supply to which [section 5(4)][9] refers, on the day after the last day of the period during which the recipient may exercise the right under [section 7][245] of the Door to Door Sales Act 1967 to cancel the agreement:
     
     *   (c) where that supply is a supply to which [section 5(5)][9] refers, at the time at which the property in the goods is transferred to the recipient:
         
-        provided that in any case in which a supply of services is deemed to take place pursuant to the proviso to that subsection, that supply of services shall be deemed to take place at the time that the layby sale is cancelled pursuant to the [Layby Sales Act 1971][244]:
+        provided that in any case in which a supply of services is deemed to take place pursuant to the proviso to that subsection, that supply of services shall be deemed to take place at the time that the layby sale is cancelled pursuant to the [Layby Sales Act 1971][246]:
     
     *   (d) where that supply is deemed to be made pursuant to [section 5(8)][9], when and to the extent that the amount of the money is dealt with as specified in that section:
     
     *   (e) if the supply is made under [section 5(10)][9],---
             
-        *   (i) for an amount of money paid by a person to participate in gambling (including a New Zealand lottery), on the date on which the first drawing or determination of a result commences, but this subparagraph does not apply to an instant game that is a **New Zealand lottery** or **gambling** played by means of a gaming machine as defined in [section 4(1)][265] of the Gambling Act 2003:
+        *   (i) for an amount of money paid by a person to participate in gambling (including a New Zealand lottery), on the date on which the first drawing or determination of a result commences, but this subparagraph does not apply to an instant game that is a **New Zealand lottery** or **gambling** played by means of a gaming machine as defined in [section 4(1)][267] of the Gambling Act 2003:
         
         *   (ii) for an amount of money paid by a person to participate in a prize competition on the date on which the first drawing or determination of the prize competition commences:
         
@@ -2047,29 +2059,29 @@ Imposition of tax
     
     Section 9(1): amended, on 24 March 1988 (applying to supplies made on or after 24 March 1988), by section 6(1) of the Goods and Services Tax Amendment Act 1988 (1988 No 7).
     
-    Section 9(2)(a): amended, on 3 April 2006, by [section 286][313] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 9(2)(a): amended, on 3 April 2006, by [section 286][315] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 9(2)(a)(iii): amended, on 1 January 2005, by [section 147][314] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 9(2)(a)(iii): amended, on 1 January 2005, by [section 147][316] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 9(2)(a)(iv): added, on 1 January 2005, by [section 147][314] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 9(2)(a)(iv): added, on 1 January 2005, by [section 147][316] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
     Section 9(2)(d): substituted (with effect on 3 December 1985), on 8 August 1986, by section 7(1) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 9(2)(e): replaced, on 17 July 2013, by [section 122][315] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
+    Section 9(2)(e): replaced, on 17 July 2013, by [section 122][317] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
-    Section 9(2)(g): substituted, on 1 July 2004, by [section 374][282] of the Gambling Act 2003 (2003 No 51).
+    Section 9(2)(g): substituted, on 1 July 2004, by [section 374][284] of the Gambling Act 2003 (2003 No 51).
     
-    Section 9(2)(g): amended, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 8(1)][316] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 9(2)(g): amended, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 8(1)][318] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 9(2)(h): added, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 8(1)][316] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 9(2)(h): added, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 8(1)][318] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 9(2)(h): amended (with effect on 1 April 2011), on 2 November 2012, by [section 211(a)][317] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 9(2)(h): amended (with effect on 1 April 2011), on 2 November 2012, by [section 211(a)][319] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 9(2)(h): amended (with effect on 1 April 2011), on 2 November 2012, by [section 211(b)][317] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 9(2)(h): amended (with effect on 1 April 2011), on 2 November 2012, by [section 211(b)][319] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 9(2A): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 88(1)][318] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 9(2A): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 88(1)][320] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 9(2B): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 88(1)][318] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 9(2B): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 88(1)][320] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
     Section 9(3)(a): amended (with effect on 3 December 1985), on 8 August 1986, by section 7(2)(a) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
@@ -2079,31 +2091,31 @@ Imposition of tax
     
     Section 9(3)(aa)(ii): amended, on 19 December 1989, by section 5 of the Goods and Services Tax Amendment Act (No 2) 1989 (1989 No 152).
     
-    Section 9(3)(b): amended, on 1 April 2005, by [section 139][202] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
+    Section 9(3)(b): amended, on 1 April 2005, by [section 139][204] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
     
     Section 9(3)(b): amended (with effect on 3 December 1985), on 8 August 1986, by section 7(4)(a) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
     Section 9(3)(c)(i): amended (with effect on 3 December 1985), on 8 August 1986, by section 7(4)(b) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 9(3)(c)(ii): amended, on 1 April 2005, by [section 139][202] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
+    Section 9(3)(c)(ii): amended, on 1 April 2005, by [section 139][204] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
     
     Section 9(4): repealed (with effect on 3 December 1985), on 8 August 1986, by section 7(5) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
     Section 9(5): repealed (with effect on 3 December 1985), on 8 August 1986, by section 7(5) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 9(6): amended, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 8(2)][316] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 9(6): amended, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 8(2)][318] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
     Section 9(6): amended, on 24 March 1988 (applying to supplies made on or after 24 March 1988), by section 6(2) of the Goods and Services Tax Amendment Act 1988 (1988 No 7).
     
-    Section 9(7): added (with effect on 1 July 1989), on 26 July 1989 (applying to supplies made on or after 1 July 1989), by [section 86(1)][319] of the Public Finance Act 1989 (1989 No 44).
+    Section 9(7): added (with effect on 1 July 1989), on 26 July 1989 (applying to supplies made on or after 1 July 1989), by [section 86(1)][321] of the Public Finance Act 1989 (1989 No 44).
     
     Section 9(7): amended, on 10 April 1995, by section 4 of the Goods and Services Tax Amendment Act 1995 (1995 No 22).
     
-    Section 9(8): added, on 10 October 2000 (applying on and after 10 October 2000), by [section 88(3)][318] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 9(8): added, on 10 October 2000 (applying on and after 10 October 2000), by [section 88(3)][320] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 9(9): added, on 6 October 2009, by [section 707][320] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 9(9): added, on 6 October 2009, by [section 707][322] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 9(10): added, on 6 October 2009, by [section 707][320] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 9(10): added, on 6 October 2009, by [section 707][322] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 10 Value of supply of goods and services
     
@@ -2141,7 +2153,7 @@ Imposition of tax
     
     *   (b) the supply is an associated supply; and
     
-    *   (c) the supply is not a fringe benefit that the supplier has, or is deemed to have, provided or granted under the FBT rules of the [Income Tax Act 2007][321] to the recipient, being a person employed under a contract of service by the supplier.
+    *   (c) the supply is not a fringe benefit that the supplier has, or is deemed to have, provided or granted under the FBT rules of the [Income Tax Act 2007][323] to the recipient, being a person employed under a contract of service by the supplier.
     
     (3A) Subsection (3) does not apply to a supply if---
         
@@ -2179,17 +2191,17 @@ Imposition of tax
     
     (3C) Subsection (3) does not apply to a supply of services that is treated by [section 8(4B)][14] as being made in New Zealand if---
         
-    *   (a) the amount of the consideration for the supply is a deduction under the [Income Tax Act 2007][321] for the recipient of the supply; or
+    *   (a) the amount of the consideration for the supply is a deduction under the [Income Tax Act 2007][323] for the recipient of the supply; or
     
-    *   (b) the amount of the consideration for the supply would have been a deduction under the [Income Tax Act 2007][321] for the recipient of the supply if the recipient had given any consideration for the supply.
+    *   (b) the amount of the consideration for the supply would have been a deduction under the [Income Tax Act 2007][323] for the recipient of the supply if the recipient had given any consideration for the supply.
     
     (3D) Subsection (3) does not apply to a supply of services that is treated by [section 8(4B)][14] as being made in New Zealand if---
         
-    *   (a) the recipient of the supply is a branch or division that is treated by [section 56B][113] as being a separate person; and
+    *   (a) the recipient of the supply is a branch or division that is treated by [section 56B][115] as being a separate person; and
     
-    *   (b) the amount of the consideration for the supply would have been a deduction under the [Income Tax Act 2007][321] for the branch or division if---
+    *   (b) the amount of the consideration for the supply would have been a deduction under the [Income Tax Act 2007][323] for the branch or division if---
             
-        *   (i) the branch or division were entitled to deductions under the [Income Tax Act 2007][321]:
+        *   (i) the branch or division were entitled to deductions under the [Income Tax Act 2007][323]:
         
         *   (ii) the branch or division had given any consideration for the supply.
         
@@ -2207,13 +2219,13 @@ Imposition of tax
     
     (5A) In subsection (5),---
     
-    _cash price_ has the same meaning as in [section 5][322] of the Credit Contracts and Consumer Finance Act 2003
+    _cash price_ has the same meaning as in [section 5][324] of the Credit Contracts and Consumer Finance Act 2003
     
     _credit contract_ has the same meaning as in section 3 of the Credit Contracts Act 1981 immediately before the repeal of that Act.
     
-    (5B) Despite subsection (5A), a person who is a party to an arrangement that is a credit contract but is not a credit contract under [section 7][234] of the Credit Contracts and Consumer Finance Act 2003 may elect that the arrangement be treated under this section as not being a credit contract in relation to the person.
+    (5B) Despite subsection (5A), a person who is a party to an arrangement that is a credit contract but is not a credit contract under [section 7][236] of the Credit Contracts and Consumer Finance Act 2003 may elect that the arrangement be treated under this section as not being a credit contract in relation to the person.
     
-    (5C) Despite subsection (5A), a person who is a party to an arrangement that is not a credit contract but is a credit contract under [section 7][234] of the Credit Contracts and Consumer Finance Act 2003 may elect that the arrangement be treated under this section as being a credit contract in relation to the person.
+    (5C) Despite subsection (5A), a person who is a party to an arrangement that is not a credit contract but is a credit contract under [section 7][236] of the Credit Contracts and Consumer Finance Act 2003 may elect that the arrangement be treated under this section as being a credit contract in relation to the person.
     
     (6) Where and to the extent that any supply of goods and services consists of the supply, to any individual, of domestic goods and services in a commercial dwelling, the value attributable to that part of that supply of domestic goods and services that is for a period in excess of 4 weeks shall be deemed to be reduced to an amount equal to 60% of the amount that would, if that part of that supply were chargeable with tax at the rate of 9%, be the value of that part of that supply of domestic goods and services:
     
@@ -2221,11 +2233,11 @@ Imposition of tax
     
     (7) If goods and services are treated by [section 21I(1)][62] as being supplied by a person, the consideration in money for the supply is---
         
-    *   (a) an amount equal to the taxable value of the fringe benefit as determined by [sections CX 20][323], and [RD 54 to RD 57][324] of the Income Tax Act 2007, if paragraph (b) does not apply; or
+    *   (a) an amount equal to the taxable value of the fringe benefit as determined by [sections CX 20][325], and [RD 54 to RD 57][326] of the Income Tax Act 2007, if paragraph (b) does not apply; or
     
     *   (b) nil, if the person would not have a deduction under [section 20(3)][43] relating to the supply of the fringe benefit if the consideration in money for the supply were given by paragraph (a).
     
-    (7A) If goods and services are deemed to be supplied by a person under [section 5(3)][9], the consideration in money for the supply is treated as being the open market value of the supply.
+    (7A) If goods and services are deemed to be supplied by a person under [section 5(3) and (3B)][9], the consideration in money for the supply is treated as being the open market value of the supply.
     
     (7B) If goods and services are treated as supplied by a person under [section 5(23)][9], the value of the supply is an amount equal to the consideration for the supply first made to the recipient.
     
@@ -2249,7 +2261,7 @@ Imposition of tax
     
     (12A) \[Repealed\]
     
-    (13) In [section 12][23], **equalisator betting**, **New Zealand Racing Board**, **racing club**, **racing betting**, and **sports betting** have the meanings set out in [section 5][263] of the Racing Act 2003\.
+    (13) In [section 12][23], **equalisator betting**, **New Zealand Racing Board**, **racing club**, **racing betting**, and **sports betting** have the meanings set out in [section 5][265] of the Racing Act 2003\.
     
     (14) If a supply of services is treated as having been made under [section 5(10)][9], the consideration for the supply is calculated using the formula---
     
@@ -2263,7 +2275,7 @@ Imposition of tax
     > 
     > _amounts received_ is the total of all amounts in money received in relation to the supply---
     >     
-    > *   (i) for gambling, by the person, society, licensed promoter, or organiser who under the [Gambling Act 2003][264] conducts the gambling:
+    > *   (i) for gambling, by the person, society, licensed promoter, or organiser who under the [Gambling Act 2003][266] conducts the gambling:
     > 
     > *   (ii) for a prize competition, by the person who conducts the prize competition:
     > 
@@ -2273,7 +2285,7 @@ Imposition of tax
     > 
     > _prizes_ is the total amount of all prizes paid and payable in money in relation to the supply.
     
-    (15) For the purposes of subsection (14), the terms **gambling** and **New Zealand lottery** have the meanings set out in [section 4(1)][265] of the Gambling Act 2003\.
+    (15) For the purposes of subsection (14), the terms **gambling** and **New Zealand lottery** have the meanings set out in [section 4(1)][267] of the Gambling Act 2003\.
     
     (15A) If a supply is treated as having been made under [section 5(11B)][9], the consideration in money for the supply (less any amount paid out by the casino as winnings in respect of gambling or for the redemption of chips) must be treated---
         
@@ -2281,15 +2293,15 @@ Imposition of tax
     
     *   (b) as commission for participation in the gambling.
     
-    (15B) For the purposes of subsection (15A), the terms _casino venue_, _chip_, and _gambling_ have the meanings set out in [section 4(1)][265] of the Gambling Act 2003\.
+    (15B) For the purposes of subsection (15A), the terms _casino venue_, _chip_, and _gambling_ have the meanings set out in [section 4(1)][267] of the Gambling Act 2003\.
     
-    (15C) If a non-resident makes a supply of services to a resident who is a member of the same group of companies under [section IA 6][325] of the Income Tax Act 2007 as the supplier, or who is treated by [section 56B][113] as being a separate person from the supplier, and the supply is treated by [sections 5B][10] and [8(4B)][14] as being made in New Zealand by the recipient of the supply, the value of the supply is determined as if the consideration for the supply did not include---
+    (15C) If a non-resident makes a supply of services to a resident who is a member of the same group of companies under [section IA 6][327] of the Income Tax Act 2007 as the supplier, or who is treated by [section 56B][115] as being a separate person from the supplier, and the supply is treated by [sections 5B][10] and [8(4B)][14] as being made in New Zealand by the recipient of the supply, the value of the supply is determined as if the consideration for the supply did not include---
         
     *   (a) the amount of the consideration for the supply that represents salary or wages paid to an employee of---
             
         *   (i) the non-resident:
         
-        *   (ii) a company that is in a wholly-owned group with the non-resident under [section IA 6][325] of the Income Tax Act 2007; and
+        *   (ii) a company that is in a wholly-owned group with the non-resident under [section IA 6][327] of the Income Tax Act 2007; and
         
         
     
@@ -2297,7 +2309,7 @@ Imposition of tax
             
         *   (i) the non-resident:
         
-        *   (ii) a company that is in a wholly-owned group with the non-resident under [section IA 6][325] of the Income Tax Act 2007\.
+        *   (ii) a company that is in a wholly-owned group with the non-resident under [section IA 6][327] of the Income Tax Act 2007\.
         
         
     
@@ -2315,137 +2327,139 @@ Imposition of tax
     
     (20) \[Repealed\]
     
-    Section 10(2)(b): substituted (with effect on 1 July 2010), on 29 August 2011, by [section 237(1)][326] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 10(2)(b): substituted (with effect on 1 July 2010), on 29 August 2011, by [section 237(1)][328] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 10(2B): inserted (with effect on 1 July 2010), on 29 August 2011, by [section 237(2)][326] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 10(2B): inserted (with effect on 1 July 2010), on 29 August 2011, by [section 237(2)][328] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 10(3): substituted, on 10 October 2000 (applying on and after 10 October 2000), by [section 89(1)][327] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 10(3): substituted, on 10 October 2000 (applying on and after 10 October 2000), by [section 89(1)][329] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 10(3): amended, on 3 April 2006 (applying for supplies made on or after 1 October 1986), by [section 287(1)][328] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 10(3): amended, on 3 April 2006 (applying for supplies made on or after 1 October 1986), by [section 287(1)][330] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 10(3): amended, on 1 January 2005, by [section 148(1)][329] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 10(3): amended, on 1 January 2005, by [section 148(1)][331] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 10(3)(b): substituted, on 3 April 2006, by [section 287(2)][328] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 10(3)(b): substituted, on 3 April 2006, by [section 287(2)][330] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 10(3)(c): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][203] of the Income Tax Act 2007 (2007 No 97).
+    Section 10(3)(c): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][205] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 10(3A): substituted, on 1 January 2005, by [section 148(2)][329] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 10(3A): substituted, on 1 January 2005, by [section 148(2)][331] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 10(3AB): inserted, on 3 April 2006 (applying for supplies made on or after 1 October 1986), by [section 287(3)][328] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 10(3AB): inserted, on 3 April 2006 (applying for supplies made on or after 1 October 1986), by [section 287(3)][330] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 10(3B): inserted, on 1 January 2005, by [section 148(2)][329] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 10(3B): inserted, on 1 January 2005, by [section 148(2)][331] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 10(3C): inserted, on 1 January 2005, by [section 148(2)][329] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 10(3C): inserted, on 1 January 2005, by [section 148(2)][331] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 10(3C)(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][203] of the Income Tax Act 2007 (2007 No 97).
+    Section 10(3C)(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][205] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 10(3C)(b): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][203] of the Income Tax Act 2007 (2007 No 97).
+    Section 10(3C)(b): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][205] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 10(3D): inserted, on 1 January 2005, by [section 148(2)][329] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 10(3D): inserted, on 1 January 2005, by [section 148(2)][331] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 10(3D)(b): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][203] of the Income Tax Act 2007 (2007 No 97).
+    Section 10(3D)(b): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][205] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 10(3D)(b)(i): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][203] of the Income Tax Act 2007 (2007 No 97).
+    Section 10(3D)(b)(i): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][205] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 10(3E): inserted, on 1 January 2005, by [section 148(2)][329] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 10(3E): inserted, on 1 January 2005, by [section 148(2)][331] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
     Section 10(4): substituted (with effect on 3 December 1985), on 8 August 1986, by section 8(4) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 10(4): amended, on 6 October 2009, by [section 708][330] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 10(4): amended, on 6 October 2009, by [section 708][332] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 10(4) first proviso: amended, on 1 April 1993, by section 4 of the Goods and Services Tax Amendment Act 1993 (1993 No 10).
     
-    Section 10(5): substituted, on 10 October 2000 (applying on and after 10 October 2000), by [section 89(4)][327] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 10(5): substituted, on 10 October 2000 (applying on and after 10 October 2000), by [section 89(4)][329] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 10(5A): substituted, on 1 April 2005, by [section 139][202] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
+    Section 10(5A): substituted, on 1 April 2005, by [section 139][204] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
     
-    Section 10(5A) **credit contract**: substituted (with effect on 1 April 2005), on 3 April 2006, by [section 287(4)][328] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 10(5A) **credit contract**: substituted (with effect on 1 April 2005), on 3 April 2006, by [section 287(4)][330] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 10(5B): inserted (with effect on 1 April 2005), on 3 April 2006, by [section 287(5)][328] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 10(5B): inserted (with effect on 1 April 2005), on 3 April 2006, by [section 287(5)][330] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 10(5C): inserted (with effect on 1 April 2005), on 3 April 2006, by [section 287(5)][328] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 10(5C): inserted (with effect on 1 April 2005), on 3 April 2006, by [section 287(5)][330] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
     Section 10(6): substituted (with effect on 3 December 1985), on 8 August 1986, by section 8(6) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 10(6): amended, on 20 May 2010 (applying to supplies made on or after 1 October 2010), by [section 46(1)][331] of the Taxation (Budget Measures) Act 2010 (2010 No 27).
+    Section 10(6): amended, on 20 May 2010 (applying to supplies made on or after 1 October 2010), by [section 46(1)][333] of the Taxation (Budget Measures) Act 2010 (2010 No 27).
     
-    Section 10(6): amended, on 1 July 1989 (applying to supplies made on and after 1 July 1989), by [section 16(1)][332] of the Finance Act 1989 (1989 No 13).
+    Section 10(6): amended, on 1 July 1989 (applying to supplies made on and after 1 July 1989), by [section 16(1)][334] of the Finance Act 1989 (1989 No 13).
     
-    Section 10(6) proviso: amended, on 20 May 2010 (applying to supplies made on or after 1 October 2010), by [section 46(1)][331] of the Taxation (Budget Measures) Act 2010 (2010 No 27).
+    Section 10(6) proviso: amended, on 20 May 2010 (applying to supplies made on or after 1 October 2010), by [section 46(1)][333] of the Taxation (Budget Measures) Act 2010 (2010 No 27).
     
-    Section 10(6) proviso: amended, on 1 July 1989 (applying to supplies made on and after 1 July 1989), by [section 16(1)][332] of the Finance Act 1989 (1989 No 13).
+    Section 10(6) proviso: amended, on 1 July 1989 (applying to supplies made on and after 1 July 1989), by [section 16(1)][334] of the Finance Act 1989 (1989 No 13).
     
-    Section 10(7): substituted, on 18 December 2006 (applying for fringe benefits provided or granted on or after 18 December 2006), by [section 213(1)][333] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Section 10(7): substituted, on 18 December 2006 (applying for fringe benefits provided or granted on or after 18 December 2006), by [section 213(1)][335] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
     
-    Section 10(7)(a): amended, on 1 April 2008, by [section 272(2)][334] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 10(7)(a): amended, on 1 April 2008, by [section 272(2)][336] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 10(7)(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][203] of the Income Tax Act 2007 (2007 No 97).
+    Section 10(7)(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][205] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 10(7A): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 89(6)][327] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 10(7A): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 89(6)][329] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 10(7B): inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 9(1)][335] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 10(7A): amended, on 1 April 2014, by [section 124][337] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
-    Section 10(8): amended, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 9(2)][335] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 10(7B): inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 9(1)][338] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 10(8): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 89(7)][327] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 10(8): amended, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 9(2)][338] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 10(8)(a): amended, on 12 December 1995, by [section 4(1)][336] of the Goods and Services Tax Amendment Act (No 2) 1995 (1995 No 75).
+    Section 10(8): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 89(7)][329] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    
+    Section 10(8)(a): amended, on 12 December 1995, by [section 4(1)][339] of the Goods and Services Tax Amendment Act (No 2) 1995 (1995 No 75).
     
     Section 10(8)(a): amended (with effect on 3 December 1985), on 8 August 1986, by section 8(7)(b) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
     Section 10(10): substituted, on 10 April 1995, by section 5(1) of the Goods and Services Tax Amendment Act 1995 (1995 No 22).
     
-    Section 10(12): substituted, on 1 August 2003, by [section 69(1)][280] of the Racing Act 2003 (2003 No 3).
+    Section 10(12): substituted, on 1 August 2003, by [section 69(1)][283] of the Racing Act 2003 (2003 No 3).
     
-    Section 10(12A): repealed, on 1 August 2003, by [section 69(1)][280] of the Racing Act 2003 (2003 No 3).
+    Section 10(12A): repealed, on 1 August 2003, by [section 69(1)][283] of the Racing Act 2003 (2003 No 3).
     
-    Section 10(13): substituted, on 1 August 2003, by [section 69(1)][280] of the Racing Act 2003 (2003 No 3).
+    Section 10(13): substituted, on 1 August 2003, by [section 69(1)][283] of the Racing Act 2003 (2003 No 3).
     
-    Section 10(14): replaced, on 17 July 2013, by [section 123][337] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
+    Section 10(14): replaced, on 17 July 2013, by [section 123][340] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
-    Section 10(15): substituted, on 1 July 2004, by [section 374][282] of the Gambling Act 2003 (2003 No 51).
+    Section 10(15): substituted, on 1 July 2004, by [section 374][284] of the Gambling Act 2003 (2003 No 51).
     
-    Section 10(15A): substituted, on 1 July 2004, by [section 374][282] of the Gambling Act 2003 (2003 No 51).
+    Section 10(15A): substituted, on 1 July 2004, by [section 374][284] of the Gambling Act 2003 (2003 No 51).
     
-    Section 10(15B): substituted, on 1 July 2004, by [section 374][282] of the Gambling Act 2003 (2003 No 51).
+    Section 10(15B): substituted, on 1 July 2004, by [section 374][284] of the Gambling Act 2003 (2003 No 51).
     
-    Section 10(15C): inserted, on 1 January 2005, by [section 148(3)][329] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 10(15C): inserted, on 1 January 2005, by [section 148(3)][331] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 10(15C): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][203] of the Income Tax Act 2007 (2007 No 97).
+    Section 10(15C): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][205] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 10(15C)(a)(ii): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][203] of the Income Tax Act 2007 (2007 No 97).
+    Section 10(15C)(a)(ii): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][205] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 10(15C)(b)(ii): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][203] of the Income Tax Act 2007 (2007 No 97).
+    Section 10(15C)(b)(ii): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][205] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 10(16): repealed, on 10 October 2000 (applying on 10 October 2000), by [section 89(9)][327] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 10(16): repealed, on 10 October 2000 (applying on 10 October 2000), by [section 89(9)][329] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 10(16A): repealed, on 10 October 2000 (applying on 10 October 2000), by [section 89(9)][327] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 10(16A): repealed, on 10 October 2000 (applying on 10 October 2000), by [section 89(9)][329] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 10(17): repealed, on 10 October 2000 (applying on 10 October 2000), by [section 89(9)][327] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 10(17): repealed, on 10 October 2000 (applying on 10 October 2000), by [section 89(9)][329] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 10(17A): repealed, on 10 October 2000 (applying on 10 October 2000), by [section 89(9)][327] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 10(17A): repealed, on 10 October 2000 (applying on 10 October 2000), by [section 89(9)][329] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 10(20): repealed, on 10 October 2000 (applying on 10 October 2000), by [section 89(9)][327] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 10(20): repealed, on 10 October 2000 (applying on 10 October 2000), by [section 89(9)][329] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
 
 ##### 11 Zero-rating of goods
     
 *   (1) A supply of goods that is chargeable with tax under [section 8][14] must be charged at the rate of 0% in the following situations:
         
-    *   (a) the supplier has entered the goods for export under the [Customs and Excise Act 1996][162] and the goods have been exported by the supplier; or
+    *   (a) the supplier has entered the goods for export under the [Customs and Excise Act 1996][164] and the goods have been exported by the supplier; or
     
-    *   (b) the goods have been deemed to be entered for export under the [Customs and Excise Act 1996][162] and the goods have been exported by the supplier; or
+    *   (b) the goods have been deemed to be entered for export under the [Customs and Excise Act 1996][164] and the goods have been exported by the supplier; or
     
     *   (c) the supplier has satisfied the Commissioner that the goods have been exported by the supplier to a place outside New Zealand; or
     
-    *   (d) subject to subsection (4), the supplier will enter the goods for export under the [Customs and Excise Act 1996][162] in the course of, or as a condition of, making the supply, and will export the goods; or
+    *   (d) subject to subsection (4), the supplier will enter the goods for export under the [Customs and Excise Act 1996][164] in the course of, or as a condition of, making the supply, and will export the goods; or
     
-    *   (e) subject to subsection (4), the goods will be deemed to be entered for export under the [Customs and Excise Act 1996][162] and will be exported by the supplier in the course of, or as a condition of, making the supply; or
+    *   (e) subject to subsection (4), the goods will be deemed to be entered for export under the [Customs and Excise Act 1996][164] and will be exported by the supplier in the course of, or as a condition of, making the supply; or
     
     *   (eb) subject to subsection (4), the goods supplied---
             
         *   (i) are supplied to a recipient who is a non-resident; and
         
-        *   (ii) have been entered for export under the [Customs and Excise Act 1996][162] by the supplier or will be entered for export by the supplier in the course of or as a condition of making the supply; and
+        *   (ii) have been entered for export under the [Customs and Excise Act 1996][164] by the supplier or will be entered for export by the supplier in the course of or as a condition of making the supply; and
         
         *   (iii) are exported by the recipient; and
         
@@ -2461,21 +2475,21 @@ Imposition of tax
     
     *   (f) goods that would otherwise have been exported are destroyed, die or cease to exist in circumstances beyond the control of both the supplier and the recipient; or
     
-    *   (g) subject to subsection (6), the goods are supplied by a supplier who is licensed under [section 12][338] of the Customs and Excise Act 1996, if---
+    *   (g) subject to subsection (6), the goods are supplied by a supplier who is licensed under [section 12][341] of the Customs and Excise Act 1996, if---
             
         *   (i) the supplier has been licensed by the chief executive of the New Zealand Customs Service to operate a sealed bag system; and
         
         *   (ii) the goods are supplied in accordance with the sealed bag system; and
         
-        *   (iii) the goods are entered, or are deemed to be entered, for export under the [Customs and Excise Act 1996][162]; or
+        *   (iii) the goods are entered, or are deemed to be entered, for export under the [Customs and Excise Act 1996][164]; or
         
         
     
     *   (h) the goods and services are supplied---
             
-        *   (i) by a supplier who is licensed under [section 12][338] of the Customs and Excise Act 1996; and
+        *   (i) by a supplier who is licensed under [section 12][341] of the Customs and Excise Act 1996; and
         
-        *   (ii) within an area licensed under [section 12][338] of the Customs and Excise Act 1996 as a customs controlled area for the processing of persons arriving in or departing from New Zealand; and
+        *   (ii) within an area licensed under [section 12][341] of the Customs and Excise Act 1996 as a customs controlled area for the processing of persons arriving in or departing from New Zealand; and
         
         *   (iii) to either---
                 
@@ -2505,7 +2519,7 @@ Imposition of tax
         
         
     
-    *   (ka) the goods are supplied for use on, or the use of, a pleasure craft, being a temporary import within the meaning of [section 116][339] of the Customs and Excise Act 1996, that cause or enable the craft to sail, or that ensure the safety of passengers and crew on the craft; or
+    *   (ka) the goods are supplied for use on, or the use of, a pleasure craft, being a temporary import within the meaning of [section 116][342] of the Customs and Excise Act 1996, that cause or enable the craft to sail, or that ensure the safety of passengers and crew on the craft; or
     
     *   (l) the goods supplied are consumable stores intended for use on---
             
@@ -2517,7 +2531,7 @@ Imposition of tax
         
         *   (iii) a foreign-going ship; or
         
-        *   (iv) a pleasure craft that is a temporary import within the meaning of [section 116][339] of the Customs and Excise Act 1996 going to a destination outside New Zealand fisheries waters; or
+        *   (iv) a pleasure craft that is a temporary import within the meaning of [section 116][342] of the Customs and Excise Act 1996 going to a destination outside New Zealand fisheries waters; or
         
         
     
@@ -2543,7 +2557,15 @@ Imposition of tax
             
         *   (i) for which there is no payment of a price; and
         
-        *   (ii) that is chargeable at the rate of 0% under [section 11A(1)(s) or (t)][19].
+        *   (ii) that is chargeable at the rate of 0% under [section 11A(1)(s) or (t)][19]; or
+        
+        
+    
+    *   (p) the goods are---
+            
+        *   (i) jigs, patterns, templates, dies, punches, and similar machine tools to be used in New Zealand solely to manufacture goods that will be for export from New Zealand; and
+        
+        *   (ii) supplied to a recipient who is a non-resident, and is not registered.
         
         
     
@@ -2601,7 +2623,7 @@ Imposition of tax
     
     (8B) Whether a supply of goods is zero-rated under subsection (1)(mb) is determined at the time of settlement of the transaction relating to the supply.
     
-    (8C) Despite subsections (1)(mb) and (8B), a supplier may choose to apply the provisions of this Act applying before the changes made by the [Taxation (GST and Remedial Matters) Act 2010][340] if they enter into a binding agreement before 1 April 2011 for which the time of supply is on or after that date.
+    (8C) Despite subsections (1)(mb) and (8B), a supplier may choose to apply the provisions of this Act applying before the changes made by the [Taxation (GST and Remedial Matters) Act 2010][343] if they enter into a binding agreement before 1 April 2011 for which the time of supply is on or after that date.
     
     (8D) For the purposes of the zero-rating of land rules,---
         
@@ -2625,7 +2647,7 @@ Imposition of tax
     
     (9) For the purpose of this section---
     
-    _aircraft_ has the meaning set out in [section 2][341] of the Civil Aviation Act 1990
+    _aircraft_ has the meaning set out in [section 2][344] of the Civil Aviation Act 1990
     
     _consumable stores_ means---
         
@@ -2633,13 +2655,13 @@ Imposition of tax
     
     *   (b) goods necessary to operate or maintain an aircraft or a ship, including fuel and lubricants but excluding spare parts and equipment
     
-    _fishing ship_ has the meaning set out in [section 2][342] of the Maritime Transport Act 1994
+    _fishing ship_ has the meaning set out in [section 2][345] of the Maritime Transport Act 1994
     
     _foreign-going ship_ means a ship on a voyage, or going, to a destination outside New Zealand, other than a pleasure craft or a fishing ship
     
-    _New Zealand fisheries waters_ has the meaning set out in [section 2][343] of the Fisheries Act 1996
+    _New Zealand fisheries waters_ has the meaning set out in [section 2][346] of the Fisheries Act 1996
     
-    _pleasure craft_ has the meaning set out in [section 2][344] of the Maritime Transport Act 1994
+    _pleasure craft_ has the meaning set out in [section 2][347] of the Maritime Transport Act 1994
     
     _sealed bag system_ means a system under which a supplier---
         
@@ -2649,61 +2671,65 @@ Imposition of tax
     
     *   (c) must provide evidence that the goods have been exported from New Zealand within 5 days beginning on the day of the time of supply, and if conditions have been specified by the chief executive of the New Zealand Customs Service, in accordance with those conditions
     
-    _ship_ has the meaning set out in [section 2][345] of the Maritime Transport Act 1994\.
+    _ship_ has the meaning set out in [section 2][348] of the Maritime Transport Act 1994\.
     
-    Section 11: substituted, on 10 October 2000 (applying on and after 10 October 2000), by [section 90(1)][346] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 11: substituted, on 10 October 2000 (applying on and after 10 October 2000), by [section 90(1)][349] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 11(1)(eb): inserted (with effect on 17 May 2007), on 19 December 2007, by [section 273(1)][347] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 11(1)(eb): inserted (with effect on 17 May 2007), on 19 December 2007, by [section 273(1)][350] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 11(1)(f): amended, on 27 March 2001 (applying on and after 10 October 2000), by [section 63(1)][348] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
+    Section 11(1)(f): amended, on 27 March 2001 (applying on and after 10 October 2000), by [section 63(1)][351] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
     
-    Section 11(1)(j): substituted, on 3 April 2006 (applying for supplies made on or after 19 May 2005), by [section 288(1)][349] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 11(1)(j): substituted, on 3 April 2006 (applying for supplies made on or after 19 May 2005), by [section 288(1)][352] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 11(1)(ka): inserted, on 24 October 2001 (applying on and after 24 October 2001), by [section 240(1)][350] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 11(1)(ka): inserted, on 24 October 2001 (applying on and after 24 October 2001), by [section 240(1)][353] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
-    Section 11(1)(l): substituted, on 24 October 2001 (applying on and after 24 October 2001), by [section 240(2)][350] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 11(1)(l): substituted, on 24 October 2001 (applying on and after 24 October 2001), by [section 240(2)][353] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
-    Section 11(1)(l): amended (with effect on 24 October 2001), on 19 December 2007, by [section 273(2)][347] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 11(1)(l): amended (with effect on 24 October 2001), on 19 December 2007, by [section 273(2)][350] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 11(1)(l)(i): substituted (with effect on 24 October 2001), on 19 December 2007, by [section 273(2)][347] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 11(1)(l)(i): substituted (with effect on 24 October 2001), on 19 December 2007, by [section 273(2)][350] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 11(1)(l)(ii): substituted (with effect on 24 October 2001), on 19 December 2007, by [section 273(2)][347] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 11(1)(l)(ii): substituted (with effect on 24 October 2001), on 19 December 2007, by [section 273(2)][350] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 11(1)(l)(iib): inserted (with effect on 24 October 2001), on 19 December 2007, by [section 273(2)][347] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 11(1)(l)(iib): inserted (with effect on 24 October 2001), on 19 December 2007, by [section 273(2)][350] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 11(1)(mb): inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 10(1)][351] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 11(1)(mb): inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 10(1)][354] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 11(1)(n): amended, on 1 January 2009 (applying to supplies made on or after 1 January 2009), by [section 79(1)][352] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 11(1)(n): amended, on 1 January 2009 (applying to supplies made on or after 1 January 2009), by [section 79(1)][355] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 11(1)(o): substituted (with effect on 1 July 2010), on 21 December 2010, by [section 10(2)][351] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 11(1)(o): substituted (with effect on 1 July 2010), on 21 December 2010, by [section 10(2)][354] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 11(3B): inserted, on 6 October 2009, by [section 709][353] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 11(1)(o)(ii): amended, on 1 April 2014, by [section 125][356] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
-    Section 11(3C): inserted, on 6 October 2009, by [section 709][353] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 11(1)(p): inserted, on 1 April 2014, by [section 125][356] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
-    Section 11(3D): inserted, on 6 October 2009, by [section 709][353] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 11(3B): inserted, on 6 October 2009, by [section 709][357] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 11(4): amended (with effect on 17 May 2007), on 19 December 2007, by [section 273(3)(a)][347] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 11(3C): inserted, on 6 October 2009, by [section 709][357] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 11(4): amended (with effect on 17 May 2007), on 19 December 2007, by [section 273(3)(b)][347] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 11(3D): inserted, on 6 October 2009, by [section 709][357] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 11(8B): inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 10(3)][351] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 11(4): amended (with effect on 17 May 2007), on 19 December 2007, by [section 273(3)(a)][350] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 11(8C): inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 10(3)][351] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 11(4): amended (with effect on 17 May 2007), on 19 December 2007, by [section 273(3)(b)][350] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 11(8C): amended (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 238(1)][354] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 11(8B): inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 10(3)][354] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 11(8D): inserted (with effect on 1 April 2011), on 2 November 2012, by [section 212][355] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 11(8C): inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 10(3)][354] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 11(9) **consumable stores**: inserted, on 24 October 2001 (applying on and after 24 October 2001), by [section 240(3)][350] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 11(8C): amended (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 238(1)][358] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 11(9) **consumable stores** paragraph (a): amended (with effect on 24 October 2001), on 19 December 2007, by [section 273(4)][347] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 11(8D): inserted (with effect on 1 April 2011), on 2 November 2012, by [section 212][359] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 11(9) **foreign-going ship**: substituted (with effect on 24 October 2001), on 19 December 2007, by [section 273(5)][347] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 11(9) **consumable stores**: inserted, on 24 October 2001 (applying on and after 24 October 2001), by [section 240(3)][353] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
-    Section 11(9) **pleasure craft**: inserted, on 24 October 2001 (applying on and after 24 October 2001), by [section 240(5)][350] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 11(9) **consumable stores** paragraph (a): amended (with effect on 24 October 2001), on 19 December 2007, by [section 273(4)][350] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 11(9) **ship**: added, on 24 October 2001 (applying on and after 24 October 2001), by [section 240(6)][350] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 11(9) **foreign-going ship**: substituted (with effect on 24 October 2001), on 19 December 2007, by [section 273(5)][350] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    
+    Section 11(9) **pleasure craft**: inserted, on 24 October 2001 (applying on and after 24 October 2001), by [section 240(5)][353] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    
+    Section 11(9) **ship**: added, on 24 October 2001 (applying on and after 24 October 2001), by [section 240(6)][353] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
 
 ##### 11A Zero-rating of services
     
@@ -2719,7 +2745,7 @@ Imposition of tax
         
         
     
-    *   (b) the services are the transport of passengers from a place in New Zealand to another place in New Zealand to the extent that the transport is by **aircraft**, as defined in [section 2][341] of the Civil Aviation Act 1990, and is **international carriage** for the purpose of that Act; or
+    *   (b) the services are the transport of passengers from a place in New Zealand to another place in New Zealand to the extent that the transport is by **aircraft**, as defined in [section 2][344] of the Civil Aviation Act 1990, and is **international carriage** for the purpose of that Act; or
     
     *   (bb) the services are the transport of passengers from a place in New Zealand to another place in New Zealand by sea as part of an international cruise if either the first place of departure, or the final place of destination, of the cruise is outside New Zealand; or
     
@@ -2729,7 +2755,7 @@ Imposition of tax
             
         *   (i) the services are supplied to a person who, at the time of the supply, is non-resident and outside New Zealand; and
         
-        *   (ii) the goods are entered for home consumption under the [Customs and Excise Act 1996][162]; and
+        *   (ii) the goods are entered for home consumption under the [Customs and Excise Act 1996][164]; and
         
         *   (iii) the arrangement for the supply of the services is made before the goods are entered; and
         
@@ -2747,7 +2773,7 @@ Imposition of tax
     
     *   (h) the services are supplied directly in connection with goods supplied from outside New Zealand and whose destination is outside New Zealand, including stores for craft, only if the goods are not removed from the ship or aircraft in which they arrived while the ship or aircraft is in New Zealand; or
     
-    *   (i) the services are supplied directly in connection with goods referred to in [section 116][339] of the Customs and Excise Act 1996; or
+    *   (i) the services are supplied directly in connection with goods referred to in [section 116][342] of the Customs and Excise Act 1996; or
     
     *   (j) the services are physically performed outside New Zealand or are the arranging of services that are physically performed outside New Zealand; or
     
@@ -2805,7 +2831,7 @@ Imposition of tax
         
         
     
-    *   (r) the services are financial services that are supplied in respect of a taxable period, by a registered person who has made an election under [section 20F][49], to a person who is a member of a group of companies for the purposes of [section IA 6][325] of the Income Tax Act 2007 and---
+    *   (r) the services are financial services that are supplied in respect of a taxable period, by a registered person who has made an election under [section 20F][49], to a person who is a member of a group of companies for the purposes of [section IA 6][327] of the Income Tax Act 2007 and---
             
         *   (i) the members of the group make supplies of goods and services to persons who are not members of the group in respect of---
                 
@@ -2827,7 +2853,7 @@ Imposition of tax
         
         
     
-    *   (t) the services are an emissions unit, and the supply is the surrender of the emissions unit under [section 63][356] of the Climate Change Response Act 2002; or
+    *   (t) the services are an emissions unit, and the supply is the surrender of the emissions unit under [section 63][360] of the Climate Change Response Act 2002; or
     
     *   (u) the services are supplied to or by the Crown as consideration for a supply---
             
@@ -2875,59 +2901,59 @@ Imposition of tax
     
     (6) The availability of a deduction under subsection (1)(q) and (r) must be determined using a method allowed by [section 20E][48].
     
-    Section 11A: inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 90(1)][346] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 11A: inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 90(1)][349] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 11A(1)(b): amended, on 1 June 2004, by [section 41(3)][357] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 11A(1)(b): amended, on 1 June 2004, by [section 41(3)][361] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 11A(1)(bb): inserted, on 26 March 2003, by [section 156(1)][358] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 11A(1)(bb): inserted, on 26 March 2003, by [section 156(1)][362] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 11A(1)(cb): inserted, on 25 November 2003 (applying to supplies made on or after 25 November 2003), by [section 149(1)][359] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 11A(1)(cb): inserted, on 25 November 2003 (applying to supplies made on or after 25 November 2003), by [section 149(1)][363] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 11A(1)(d): amended, on 25 November 2003 (applying to supplies made on or after 25 November 2003), by [section 149(2)][359] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 11A(1)(d): amended, on 25 November 2003 (applying to supplies made on or after 25 November 2003), by [section 149(2)][363] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 11A(1)(k): amended, on 25 November 2003, by [section 149(3)][359] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 11A(1)(k): amended, on 25 November 2003, by [section 149(3)][363] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 11A(1)(l): amended, on 25 November 2003, by [section 149(3)][359] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 11A(1)(l): amended, on 25 November 2003, by [section 149(3)][363] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 11A(1)(m): substituted, on 25 November 2003, by [section 149(4)][359] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 11A(1)(m): substituted, on 25 November 2003, by [section 149(4)][363] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 11A(1)(m)(i): amended (with effect on 17 May 2007), on 19 December 2007, by [section 274][360] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 11A(1)(m)(i): amended (with effect on 17 May 2007), on 19 December 2007, by [section 274][364] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 11A(1)(ma): inserted, on 17 October 2002 (applying on and after 1 August 2002), by [section 100(1)][361] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 11A(1)(ma): inserted, on 17 October 2002 (applying on and after 1 August 2002), by [section 100(1)][365] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
-    Section 11A(1)(ma)(ii): amended, on 25 November 2003, by [section 149(3)][359] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 11A(1)(ma)(ii): amended, on 25 November 2003, by [section 149(3)][363] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 11A(1)(p): amended, on 1 January 2005, by [section 149(5)][359] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 11A(1)(p): amended, on 1 January 2005, by [section 149(5)][363] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 11A(1)(q): added, on 1 January 2005, by [section 149(5)][359] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 11A(1)(q): added, on 1 January 2005, by [section 149(5)][363] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 11A(1)(r): added, on 1 January 2005, by [section 149(5)][359] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 11A(1)(r): added, on 1 January 2005, by [section 149(5)][363] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 11A(1)(r): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][203] of the Income Tax Act 2007 (2007 No 97).
+    Section 11A(1)(r): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][205] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 11A(1)(r)(ii): amended, on 1 January 2009 (applying to supplies made on or after 1 January 2009), by [section 80(1)][362] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 11A(1)(r)(ii): amended, on 1 January 2009 (applying to supplies made on or after 1 January 2009), by [section 80(1)][366] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 11A(1)(s): substituted (with effect on 1 July 2010), on 7 September 2010, by [section 191(1)][363] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
+    Section 11A(1)(s): substituted (with effect on 1 July 2010), on 7 September 2010, by [section 191(1)][367] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
-    Section 11A(1)(t): added, on 1 January 2009 (applying to supplies made on or after 1 January 2009), by [section 80(1)][362] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
+    Section 11A(1)(t): added, on 1 January 2009 (applying to supplies made on or after 1 January 2009), by [section 80(1)][366] of the Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85).
     
-    Section 11A(1)(u): substituted (with effect on 1 July 2010), on 21 December 2010, by [section 11][364] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 11A(1)(u): substituted (with effect on 1 July 2010), on 21 December 2010, by [section 11][368] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 11A(1)(v): repealed (with effect on 1 July 2010), on 7 September 2010, by [section 191(2)][363] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
+    Section 11A(1)(v): repealed (with effect on 1 July 2010), on 7 September 2010, by [section 191(2)][367] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
-    Section 11A(1)(w): added, on 1 April 2010, by [section 710(3)][365] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 11A(1)(w): added, on 1 April 2010, by [section 710(3)][369] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 11A(1B): substituted, on 1 January 2005, by [section 145(1)][366] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 11A(1B): substituted, on 1 January 2005, by [section 145(1)][370] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
-    Section 11A(2): amended, on 25 November 2003, by [section 149(7)][359] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 11A(2): amended, on 25 November 2003, by [section 149(7)][363] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 11A(3): amended, on 17 October 2002 (applying on and after 1 August 2002), by [section 100(2)][361] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 11A(3): amended, on 17 October 2002 (applying on and after 1 August 2002), by [section 100(2)][365] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
-    Section 11A(4)(b): amended, on 25 November 2003, by [section 149(7)][359] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 11A(4)(b): amended, on 25 November 2003, by [section 149(7)][363] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 11A(5): added, on 1 July 2003, by [section 156(2)][358] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 11A(5): added, on 1 July 2003, by [section 156(2)][362] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 11A(6): added, on 1 January 2005, by [section 145(2)][366] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 11A(6): added, on 1 January 2005, by [section 145(2)][370] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
 
 ##### 11AB Zero-rating of telecommunications services
     
@@ -2937,15 +2963,15 @@ Imposition of tax
     
     *   (b) the services are the supply of telecommunications services to a person, not being an overseas telecommunications supplier, for a telecommunications service that is initiated outside New Zealand under [section 8(9)][14].
     
-    Section 11AB: inserted, on 1 July 2003, by [section 157][367] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 11AB: inserted, on 1 July 2003, by [section 157][371] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 11AB(a): amended, on 25 November 2003, by [section 150(1)][368] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 11AB(a): amended, on 25 November 2003, by [section 150(1)][372] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 11AB(b): amended (with effect on 1 July 2003), on 25 November 2003, by [section 150(2)][368] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 11AB(b): amended (with effect on 1 July 2003), on 25 November 2003, by [section 150(2)][372] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
 
 ##### 11B Zero-rating of some supplies by territorial authorities, some supplies involving contributions to local authorities
     
-*   (1) A supply of services that is chargeable with tax under [section 8][14] must be charged at the rate of 0% if the supplier is a territorial authority and the consideration for the supply is proceeds from the local authorities petroleum tax paid to the supplier under [section 198][369] of the Local Government Act 1974\.
+*   (1) A supply of services that is chargeable with tax under [section 8][14] must be charged at the rate of 0% if the supplier is a territorial authority and the consideration for the supply is proceeds from the local authorities petroleum tax paid to the supplier under [section 198][373] of the Local Government Act 1974\.
     
     (1B) If a supply under [section 5(7B)][9] of goods and services by a local authority to a registered person is chargeable with tax under [section 8][14], the supply must be charged at the rate of 0% to the extent that the contribution made by the registered person to the local authority consists of land.
     
@@ -2957,23 +2983,23 @@ Imposition of tax
     
     (2) For the purpose of subsection (1)---
     
-    _local authorities petroleum tax_ is local authorities petroleum tax levied in accordance with [Part 11][370] of the Local Government Act 1974
+    _local authorities petroleum tax_ is local authorities petroleum tax levied in accordance with [Part 11][374] of the Local Government Act 1974
     
-    _territorial authority_ means a territorial authority within the meaning of the [Local Government Act 2002][174].
+    _territorial authority_ means a territorial authority within the meaning of the [Local Government Act 2002][176].
     
-    Section 11B: inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 90(1)][346] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 11B: inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 90(1)][349] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 11B heading: amended, on 25 November 2003, by [section 151(1)][371] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 11B heading: amended, on 25 November 2003, by [section 151(1)][375] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 11B(1B): inserted, on 25 November 2003 (applying to contributions that are made on or after 25 November 2003), by [section 151(2)][371] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 11B(1B): inserted, on 25 November 2003 (applying to contributions that are made on or after 25 November 2003), by [section 151(2)][375] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 11B(1C): inserted, on 25 November 2003 (applying to contributions that are made on or after 25 November 2003), by [section 151(2)][371] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 11B(1C): inserted, on 25 November 2003 (applying to contributions that are made on or after 25 November 2003), by [section 151(2)][375] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 11B(1D): repealed, on 6 August 2010, by [section 5(3)][279] of the Affordable Housing: Enabling Territorial Authorities Act Repeal Act 2010 (2010 No 101).
+    Section 11B(1D): repealed, on 6 August 2010, by [section 5(3)][282] of the Affordable Housing: Enabling Territorial Authorities Act Repeal Act 2010 (2010 No 101).
     
-    Section 11B(1E): repealed, on 6 August 2010, by [section 5(3)][279] of the Affordable Housing: Enabling Territorial Authorities Act Repeal Act 2010 (2010 No 101).
+    Section 11B(1E): repealed, on 6 August 2010, by [section 5(3)][282] of the Affordable Housing: Enabling Territorial Authorities Act Repeal Act 2010 (2010 No 101).
     
-    Section 11B(2) **territorial authority**: substituted, on 1 July 2003, by [section 262][207] of the Local Government Act 2002 (2002 No 84).
+    Section 11B(2) **territorial authority**: substituted, on 1 July 2003, by [section 262][209] of the Local Government Act 2002 (2002 No 84).
 
 ##### 11C Treatment of supplies by operators of loyalty programmes
     
@@ -3001,21 +3027,21 @@ Imposition of tax
     
     (6) If the operator has a partner in an associated loyalty programme, the second requirement is still treated as met if, in addition to those requirements, loyalty points supplied by the operator are able to be redeemed for reward by the partner.
     
-    Section 11C: inserted, on 6 October 2009, by [section 711][372] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 11C: inserted, on 6 October 2009, by [section 711][376] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 12 Imposition of goods and services tax on imports
     
 *   (1) Notwithstanding anything in this Act, a tax to be known as goods and services tax shall be levied, collected, and paid in accordance with the provisions of this section at the rate of 15% on the importation of goods (not being fine metal) into New Zealand, being goods that are---
         
-    *   (a) entered therein, or delivered, for home consumption under the [Customs and Excise Act 1996][162]; or
+    *   (a) entered therein, or delivered, for home consumption under the [Customs and Excise Act 1996][164]; or
     
-    *   (b) entered for delivery to a manufacturing area licensed under [section 12][338] of the Customs and Excise Act 1996; or
+    *   (b) entered for delivery to a manufacturing area licensed under [section 12][341] of the Customs and Excise Act 1996; or
     
-    *   (c) before their entry, or delivery, for home consumption or, as the case may be, entry for delivery to a manufacturing area licensed under [section 12][338] of the Customs and Excise Act 1996, dealt with in breach of any provision of the [Customs and Excise Act 1996][162],---
+    *   (c) before their entry, or delivery, for home consumption or, as the case may be, entry for delivery to a manufacturing area licensed under [section 12][341] of the Customs and Excise Act 1996, dealt with in breach of any provision of the [Customs and Excise Act 1996][164],---
     
     by reference to the value of the goods as determined under subsection (2).
     
-    (1A) Goods and services tax is not payable under subsection (1) for any goods if the chief executive of the New Zealand Customs Service is satisfied that, at the time of importation or entry for home consumption under the [Customs and Excise Act 1996][162],---
+    (1A) Goods and services tax is not payable under subsection (1) for any goods if the chief executive of the New Zealand Customs Service is satisfied that, at the time of importation or entry for home consumption under the [Customs and Excise Act 1996][164],---
         
     *   (a) the goods are intended solely for the use of an organisation, visiting force, expedition, or other body approved by the chief executive of the New Zealand Customs Service that may be established or temporarily based in New Zealand under an agreement or arrangement entered into by or on behalf of the Government of New Zealand with the Government of another State, the United Nations, or any other international organisation; or
     
@@ -3023,21 +3049,21 @@ Imposition of tax
     
     (2) For the purposes of subsection (1), the value of goods imported into New Zealand shall be the sum of the following amounts (excluding any tax charged under this Act):
         
-    *   (a) the amount of the value of the goods determined in accordance with [Schedule 2][373] of the Customs and Excise Act 1996 (whether or not duty is payable under that Act); and
+    *   (a) the amount of the value of the goods determined in accordance with [Schedule 2][377] of the Customs and Excise Act 1996 (whether or not duty is payable under that Act); and
     
-    *   (b) the amounts of duty (if any) and tax (if any) payable on those goods under the [Customs and Excise Act 1996][162], but not including any tax levied or charged under this Act; and
+    *   (b) the amounts of duty (if any) and tax (if any) payable on those goods under the [Customs and Excise Act 1996][164], but not including any tax levied or charged under this Act; and
     
     *   (c) the amount paid or payable to transport the goods to New Zealand and to insure the goods for such transport, if not already included under paragraph (a); and
     
-    *   (d) the amount of levy paid or payable on goods under the [Climate Change Response Act 2002][246].
+    *   (d) the amount of levy paid or payable on goods under the [Climate Change Response Act 2002][248].
     
-    (3) Subject to this section, tax levied under subsection (1) shall be collected and paid in accordance with the [Customs and Excise Act 1996][162].
+    (3) Subject to this section, tax levied under subsection (1) shall be collected and paid in accordance with the [Customs and Excise Act 1996][164].
     
     (4) The following provisions shall apply to the collection, payment, and enforcement of goods and services tax levied under subsection (1):
         
-    *   (a) [sections 2][374] and [3][375], [Parts 1][376] and [2][377], [Part 3][378] (except for [section 38)][379], [Part 4][380], [Part 5][381], [Part 6][382], [Part 7][383] (except for [section 81][384]), [Part 8][385] (except for [sections 107][386], [108][387], [109][388], [111][389], [112][390], [113][391], [114][392], [115][393], [117][394], [118][395]), [Parts 10][396], [11][397], [12][398], [13][399], [14][400], [15][401], [16][402], and [17][403] of the Customs and Excise Act 1996; and
+    *   (a) [sections 2][378] and [3][379], [Parts 1][380] and [2][381], [Part 3][382] (except for [section 38)][383], [Part 4][384], [Part 5][385], [Part 6][386], [Part 7][387] (except for [section 81][388]), [Part 8][389] (except for [sections 107][390], [108][391], [109][392], [111][393], [112][394], [113][395], [114][396], [115][397], [117][398], [118][399]), [Parts 10][400], [11][401], [12][402], [13][403], [14][404], [15][405], [16][406], and [17][407] of the Customs and Excise Act 1996; and
     
-    *   (b) [section 109][388] of the Customs and Excise Act 1996:
+    *   (b) [section 109][392] of the Customs and Excise Act 1996:
         
         provided that this paragraph shall apply only in respect of goods that are imported by the same person as the person who exported them from New Zealand if, at the time of their export from New Zealand, those goods were not---
             
@@ -3047,11 +3073,11 @@ Imposition of tax
         
         
     
-    *   (c) [sections 111][389], [112][390], [113][391], [115][393], and [118][395] of the Customs and Excise Act 1996:
+    *   (c) [sections 111][393], [112][394], [113][395], [115][397], and [118][399] of the Customs and Excise Act 1996:
         
         provided that this paragraph shall not apply to any registered person in respect of goods imported for the purpose of carrying on that person's taxable activity if the person is entitled to make an input tax deduction under [section 20(3)][43] in respect of the goods; and
     
-    *   (d) [section 117][394] of the Customs and Excise Act 1996, where---
+    *   (d) [section 117][398] of the Customs and Excise Act 1996, where---
             
         *   (i) the specifications of the imported goods are not in accordance with the specifications of the goods ordered, or the imported goods are faulty; and
         
@@ -3067,17 +3093,17 @@ Imposition of tax
         
         
     
-    *   (e) reference numbers 40, 45, 70, 75, 80, 81, and 82 of Part 2 of the Tariff (as defined in [section 2(1)][404] of the Tariff Act 1988) if---
+    *   (e) reference numbers 40, 45, 70, 75, 80, 81, and 82 of Part 2 of the Tariff (as defined in [section 2(1)][408] of the Tariff Act 1988) if---
             
         *   (i) the goods are entitled to be entered under any of these reference numbers; or
         
-        *   (ii) the goods are entitled to be entered duty free under [Part 1][405] of the Tariff (as so defined), but would have been entitled to be entered under any of these reference numbers if the goods had been dutiable under Part 1 of the Tariff (as so defined).
+        *   (ii) the goods are entitled to be entered duty free under [Part 1][409] of the Tariff (as so defined), but would have been entitled to be entered under any of these reference numbers if the goods had been dutiable under Part 1 of the Tariff (as so defined).
         
         
     
     *   (f) \[Repealed\]
     
-    (5) No liability to goods and services tax shall arise under any provision of the [Customs and Excise Act 1996][162] by virtue of the operation of subsection (3) or subsection (4).
+    (5) No liability to goods and services tax shall arise under any provision of the [Customs and Excise Act 1996][164] by virtue of the operation of subsection (3) or subsection (4).
     
     (6) For the purposes of this section---
         
@@ -3085,35 +3111,35 @@ Imposition of tax
     
     *   (b) the term _taxable activity_ has the same meaning as defined in [section 6][11].
     
-    Section 12: substituted, on 1 October 1996, by [section 289(1)][164] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 12: substituted, on 1 October 1996, by [section 289(1)][166] of the Customs and Excise Act 1996 (1996 No 27).
     
-    Section 12(1): amended, on 20 May 2010 (applying to the importation of goods on or after 1 October 2010), by [section 47(1)][406] of the Taxation (Budget Measures) Act 2010 (2010 No 27).
+    Section 12(1): amended, on 20 May 2010 (applying to the importation of goods on or after 1 October 2010), by [section 47(1)][410] of the Taxation (Budget Measures) Act 2010 (2010 No 27).
     
-    Section 12(1A): inserted, on 27 September 2001, by [section 3][407] of the Goods and Services Tax Amendment Act 2001 (2001 No 68).
+    Section 12(1A): inserted, on 27 September 2001, by [section 3][411] of the Goods and Services Tax Amendment Act 2001 (2001 No 68).
     
-    Section 12(2)(c): amended, on 1 January 2013, by [section 103][270] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 12(2)(c): amended, on 1 January 2013, by [section 103][273] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 12(2)(d): inserted, on 1 January 2013, by [section 103][270] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
+    Section 12(2)(d): inserted, on 1 January 2013, by [section 103][273] of the Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89).
     
-    Section 12(4)(a): amended, on 10 October 2000 (applying on and after 1 October 1996), by [section 91(1)][408] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 12(4)(a): amended, on 10 October 2000 (applying on and after 1 October 1996), by [section 91(1)][412] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 12(4)(c): amended, on 1 October 1996, by [section 53(1)][409] of the Taxation (Remedial Provisions) Act 1996 (1996 No 159).
+    Section 12(4)(c): amended, on 1 October 1996, by [section 53(1)][413] of the Taxation (Remedial Provisions) Act 1996 (1996 No 159).
     
-    Section 12(4)(c) proviso: amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 91(2)][408] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 12(4)(c) proviso: amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 91(2)][412] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 12(4)(d): amended, on 1 October 1996, by [section 53(2)][409] of the Taxation (Remedial Provisions) Act 1996 (1996 No 159).
+    Section 12(4)(d): amended, on 1 October 1996, by [section 53(2)][413] of the Taxation (Remedial Provisions) Act 1996 (1996 No 159).
     
-    Section 12(4)(d)(ii): amended, on 21 June 2005, by [section 156][410] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
+    Section 12(4)(d)(ii): amended, on 21 June 2005, by [section 156][414] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
     
-    Section 12(4)(e): substituted, on 1 January 2010, by [section 9(6)][411] of the Tariff Amendment Act 2009 (2009 No 62).
+    Section 12(4)(e): substituted, on 1 January 2010, by [section 9(6)][415] of the Tariff Amendment Act 2009 (2009 No 62).
     
-    Section 12(4)(f): repealed, on 10 October 2000 (applying on and after 10 October 2000), by [section 91(3)][408] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 12(4)(f): repealed, on 10 October 2000 (applying on and after 10 October 2000), by [section 91(3)][412] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
 
 ##### 13 Imposition of goods and services tax on goods liable to excise duty and supplied at in bond prices
     
 *   \[Repealed\]
     
-    Section 13: repealed, on 1 October 1996, by [section 289(1)][164] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 13: repealed, on 1 October 1996, by [section 289(1)][166] of the Customs and Excise Act 1996 (1996 No 27).
 
 ##### 14 Exempt supplies
     
@@ -3177,35 +3203,35 @@ Imposition of tax
         
         
     
-    *   (b) a penalty imposed on unpaid rates under the [Local Government (Rating) Act 2002][412]:
+    *   (b) a penalty imposed on unpaid rates under the [Local Government (Rating) Act 2002][416]:
     
-    *   (c) a postponement fee, or a part of a postponement fee, that is imposed under [section 88][413] of the Local Government (Rating) Act 2002 and that relates to financial costs of the local authority arising from a postponement of rates.
+    *   (c) a postponement fee, or a part of a postponement fee, that is imposed under [section 88][417] of the Local Government (Rating) Act 2002 and that relates to financial costs of the local authority arising from a postponement of rates.
     
     Section 14(1)(a): substituted, on 19 December 1989 (applying to supplies made on or after 19 December 1989), by section 8(1) of the Goods and Services Tax Amendment Act (No 2) 1989 (1989 No 152).
     
-    Section 14(1)(a): amended, on 3 April 2006, by [section 289(1)(a)][414] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 14(1)(a): amended, on 3 April 2006, by [section 289(1)(a)][418] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 14(1)(a)(i): repealed, on 3 April 2006, by [section 289(1)(b)][414] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 14(1)(a)(i): repealed, on 3 April 2006, by [section 289(1)(b)][418] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 14(1)(a)(ii): repealed, on 3 April 2006, by [section 289(1)(b)][414] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 14(1)(a)(ii): repealed, on 3 April 2006, by [section 289(1)(b)][418] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 14(1)(c): substituted, on 1 August 1990 (applying to supplies made on or after 1 August 1990), by [section 6(1)][415] of the Goods and Services Tax Amendment Act 1990 (1990 No 64).
+    Section 14(1)(c): substituted, on 1 August 1990 (applying to supplies made on or after 1 August 1990), by [section 6(1)][419] of the Goods and Services Tax Amendment Act 1990 (1990 No 64).
     
     Section 14(1)(ca): inserted (with effect on 3 December 1985), on 8 August 1986, by section 12(1) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 14(1)(cb): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 92(3)][416] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 14(1)(cb): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 92(3)][420] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 14(1)(d): substituted, on 1 August 1990 (applying to supplies made on or after 1 August 1990), by [section 6(2)][415] of the Goods and Services Tax Amendment Act 1990 (1990 No 64).
+    Section 14(1)(d): substituted, on 1 August 1990 (applying to supplies made on or after 1 August 1990), by [section 6(2)][419] of the Goods and Services Tax Amendment Act 1990 (1990 No 64).
     
     Section 14(1)(e): added (with effect on 3 December 1985), on 8 August 1986, by section 12(3) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 14(1)(e): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 92(4)][416] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 14(1)(e): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 92(4)][420] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 14(1B): inserted, on 3 April 2006 (applying in relation to the insertion of section 14(1B)(b) for supplies of financial services that are made on or after 3 April 2006), by [section 289(2)][414] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 14(1B): inserted, on 3 April 2006 (applying in relation to the insertion of section 14(1B)(b) for supplies of financial services that are made on or after 3 April 2006), by [section 289(2)][418] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 14(2): added, on 10 October 2000 (applying on and after 10 October 2000), by [section 92(5)][416] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 14(2): added, on 10 October 2000 (applying on and after 10 October 2000), by [section 92(5)][420] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 14(3): substituted, on 25 November 2003 (applying to an amount of penalty, interest, charge or fee that is imposed on or after 1 July 2003), by [section 152(1)][417] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 14(3): substituted, on 25 November 2003 (applying to an amount of penalty, interest, charge or fee that is imposed on or after 1 July 2003), by [section 152(1)][421] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
 
 ## Part 3  
 Returns and payment of tax
@@ -3246,27 +3272,27 @@ Returns and payment of tax
     
     *   (c) the Governor-General, from time to time, may declare by Order in Council another amount as the limit applying to the value of a person's taxable supplies.
     
-    Section 15: substituted, on 1 October 2007, by [section 291(1)][418] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 15: substituted, on 1 October 2007, by [section 291(1)][422] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 15(2)(a): amended, on 30 March 2009, by [section 25][419] of the Taxation (Business Tax Measures) Act 2009 (2009 No 5).
+    Section 15(2)(a): amended, on 30 March 2009, by [section 25][423] of the Taxation (Business Tax Measures) Act 2009 (2009 No 5).
 
 ##### 15A Change in registered person's taxable period
     
 *   \[Repealed\]
     
-    Section 15A: repealed, on 1 October 2007, by [section 291(1)][418] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 15A: repealed, on 1 October 2007, by [section 291(1)][422] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
 
 ##### 15AB Transitional provision: alignment of taxable periods with balance dates
     
 *   \[Repealed\]
     
-    Section 15AB: repealed, on 1 October 2007, by [section 291(1)][418] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 15AB: repealed, on 1 October 2007, by [section 291(1)][422] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
 
 ##### 15B Taxable periods aligned with balance dates
     
 *   (1) Unless [section 15(3) or (4)][27] applies, a person with a provisional tax liability must have a taxable period that is either a 2-month period or a 6-month period.
     
-    (2) A person must have a taxable period that is aligned with the person's balance date under [section 33][188] or [38][420] of the Tax Administration Act 1994, reflecting the applicable payment dates in [Schedule 3][421], Part A of the Income Tax Act 2007\.
+    (2) A person must have a taxable period that is aligned with the person's balance date under [section 33][190] or [38][424] of the Tax Administration Act 1994, reflecting the applicable payment dates in [Schedule 3][425], Part A of the Income Tax Act 2007\.
     
     (3) For the purposes of subsection (2), a person whose balance date changes during an income year must,---
         
@@ -3284,15 +3310,15 @@ Returns and payment of tax
     
     (6) In this section, _balance date_, for a registered person mean,---
         
-    *   (a) if neither of paragraphs (b) and (c) applies, the person's annual balance date for their accounts for the income year corresponding to the tax year for which the person must provide a return of income under the [Tax Administration Act 1994][161]:
+    *   (a) if neither of paragraphs (b) and (c) applies, the person's annual balance date for their accounts for the income year corresponding to the tax year for which the person must provide a return of income under the [Tax Administration Act 1994][163]:
     
     *   (b) if the person has an income year that coincides with the tax year or is not required to provide a return of income for the tax year, 31 March:
     
     *   (c) if the person is a non-resident company that does not have a fixed establishment in New Zealand, 31 March.
     
-    Section 15B: inserted, on 1 October 2007, by [section 291(1)][418] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 15B: inserted, on 1 October 2007, by [section 291(1)][422] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 15B(2): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][203] of the Income Tax Act 2007 (2007 No 97).
+    Section 15B(2): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][205] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 15C Changes in taxable periods
     
@@ -3322,11 +3348,11 @@ Returns and payment of tax
     
     (5) A return provided after a change in taxable period must not include amounts for a period for which a return has already been provided.
     
-    Section 15C: inserted, on 1 October 2007, by [section 291(1)][418] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 15C: inserted, on 1 October 2007, by [section 291(1)][422] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 15C(3B): inserted, on 1 October 2007, by [section 214(1)][422] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Section 15C(3B): inserted, on 1 October 2007, by [section 214(1)][426] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
     
-    Section 15C(3C): inserted, on 1 October 2007, by [section 214(1)][422] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Section 15C(3C): inserted, on 1 October 2007, by [section 214(1)][426] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
 
 ##### 15D When change in taxable period takes effect
     
@@ -3334,19 +3360,19 @@ Returns and payment of tax
         
     *   (a) applies under [section 15B(5)(b)][30] or [15C][31] to change the basis on which the person's taxable period is set; or
     
-    *   (b) is required because of [section 39B][423] of the Tax Administration Act 1994 to change the basis on which the person's taxable period is set.
+    *   (b) is required because of [section 39B][427] of the Tax Administration Act 1994 to change the basis on which the person's taxable period is set.
     
     (2) A change in taxable period takes effect at the end of the taxable period in which the person applies or is required to change the basis on which the person's taxable period is set.
     
     (3) Despite subsection (2), for a person to whom [section 15B][30] applies, the Commissioner must adjust the effective date of the change in taxable period if, as a result of the change, the person's taxable period is not aligned with the person's balance date.
     
-    (4) [Section RC 27][424] of the Income Tax Act 2007 override this section.
+    (4) [Section RC 27][428] of the Income Tax Act 2007 override this section.
     
-    Section 15D: inserted, on 1 October 2007, by [section 291(1)][418] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 15D: inserted, on 1 October 2007, by [section 291(1)][422] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 15D(1)(a): amended, on 1 October 2007, by [section 215(1)][425] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Section 15D(1)(a): amended, on 1 October 2007, by [section 215(1)][429] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
     
-    Section 15D(4): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][203] of the Income Tax Act 2007 (2007 No 97).
+    Section 15D(4): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][205] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 15E Meaning of end of taxable period
     
@@ -3358,13 +3384,13 @@ Returns and payment of tax
         
     *   (a) the natural person dies or is made bankrupt:
     
-    *   (b) the company goes into liquidation or receivership, or ceases to exist on amalgamation (as defined in [section YA 1][171] of the Income Tax Act 2007).
+    *   (b) the company goes into liquidation or receivership, or ceases to exist on amalgamation (as defined in [section YA 1][173] of the Income Tax Act 2007).
     
     (4) Despite subsection (1), if an event referred to in subsection (3) occurs, the date of the event is treated as the end of the person's taxable period.
     
-    Section 15E: inserted, on 1 October 2007, by [section 291(1)][418] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 15E: inserted, on 1 October 2007, by [section 291(1)][422] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 15E(3)(b): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][203] of the Income Tax Act 2007 (2007 No 97).
+    Section 15E(3)(b): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][205] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 16 Taxable period returns
     
@@ -3390,21 +3416,21 @@ Returns and payment of tax
     
     *   (c) 7 May, if the month following the end of the taxable period is April.
     
-    (6) A return must contain a notice of the assessment that must be made under [section 92B][426] of the Tax Administration Act 1994\.
+    (6) A return must contain a notice of the assessment that must be made under [section 92B][430] of the Tax Administration Act 1994\.
     
-    Section 16: substituted, on 31 March 2007 (applying for taxable periods ending on or after 31 March 2007), by [section 292(1)][427] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 16: substituted, on 31 March 2007 (applying for taxable periods ending on or after 31 March 2007), by [section 292(1)][431] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 16(2)(a): substituted, on 31 March 2007 (applying for taxable periods ending on or after 31 March 2007), by [section 216(1)][428] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Section 16(2)(a): substituted, on 31 March 2007 (applying for taxable periods ending on or after 31 March 2007), by [section 216(1)][432] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
     
-    Section 16(2)(b): substituted, on 31 March 2007 (applying for taxable periods ending on or after 31 March 2007), by [section 216(1)][428] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Section 16(2)(b): substituted, on 31 March 2007 (applying for taxable periods ending on or after 31 March 2007), by [section 216(1)][432] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
     
-    Section 16(2)(c): added, on 31 March 2007 (applying for taxable periods ending on or after 31 March 2007), by [section 216(1)][428] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Section 16(2)(c): added, on 31 March 2007 (applying for taxable periods ending on or after 31 March 2007), by [section 216(1)][432] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
     
-    Section 16(5)(a): substituted, on 31 March 2007 (applying for taxable periods ending on or after 31 March 2007), by [section 216(2)][428] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Section 16(5)(a): substituted, on 31 March 2007 (applying for taxable periods ending on or after 31 March 2007), by [section 216(2)][432] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
     
-    Section 16(5)(b): substituted, on 31 March 2007 (applying for taxable periods ending on or after 31 March 2007), by [section 216(2)][428] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Section 16(5)(b): substituted, on 31 March 2007 (applying for taxable periods ending on or after 31 March 2007), by [section 216(2)][432] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
     
-    Section 16(5)(c): added, on 31 March 2007 (applying for taxable periods ending on or after 31 March 2007), by [section 216(2)][428] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Section 16(5)(c): added, on 31 March 2007 (applying for taxable periods ending on or after 31 March 2007), by [section 216(2)][432] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
 
 ##### 17 Special returns
     
@@ -3442,9 +3468,9 @@ Returns and payment of tax
     
     (2) Any amount of tax charged on any supply of goods to which this section applies shall be deemed, for the purposes of this Act, to be tax payable and shall be recoverable as a debt due to the Crown.
     
-    (3) A return must contain a notice of the assessment that must be made under [section 92B][426] of the Tax Administration Act 1994\.
+    (3) A return must contain a notice of the assessment that must be made under [section 92B][430] of the Tax Administration Act 1994\.
     
-    Section 17(1): amended (with effect on 30 November 2007), on 19 December 2007 (applying for taxable periods ending on or after 30 November 2007), by [section 275(1)][429] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 17(1): amended (with effect on 30 November 2007), on 19 December 2007 (applying for taxable periods ending on or after 30 November 2007), by [section 275(1)][433] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Section 17(1): amended, on 22 June 1987, by section 5(a) of the Goods and Services Tax Amendment Act 1987 (1987 No 103).
     
@@ -3458,21 +3484,23 @@ Returns and payment of tax
     
     Section 17(1)(c): substituted, on 19 December 1989, by section 10 of the Goods and Services Tax Amendment Act (No 2) 1989 (1989 No 152).
     
-    Section 17(1B): inserted (with effect on 30 November 2007), on 19 December 2007 (applying for taxable periods ending on or after 30 November 2007), by [section 275(2)][429] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 17(1B): inserted (with effect on 30 November 2007), on 19 December 2007 (applying for taxable periods ending on or after 30 November 2007), by [section 275(2)][433] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 17(1B): amended (with effect on 30 November 2007), on 21 December 2010 (applying to taxable periods ending on or after 30 November 2007), by [section 12(1)][430] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 17(1B): amended (with effect on 30 November 2007), on 21 December 2010 (applying to taxable periods ending on or after 30 November 2007), by [section 12(1)][434] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 17(3): added, on 21 December 2004 (applying for taxable periods beginning on or after 1 April 2005), by [section 147(1)][431] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 17(3): added, on 21 December 2004 (applying for taxable periods beginning on or after 1 April 2005), by [section 147(1)][435] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
 
 ##### 18 Other returns
     
 *   In addition to the returns specified in [sections 16][34], [17][35], and [19B][40], the Commissioner may require any person, whether a registered person or not, to furnish (whether on that person's own behalf or as an agent or trustee) to the Commissioner such further or other returns in the prescribed form as and when the Commissioner requires for the purposes of this Act.
     
-    Section 18: amended, on 25 November 2003, by [section 153][432] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 18: amended, on 25 November 2003, by [section 153][436] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
 
 ##### 19 Accounting basis
     
 *   (1) Subject to [sections 19A to 19D][38], every registered person must account for tax payable on an invoice basis for the purpose of [section 20][43].
+    
+    (1B) Despite subsection (1), if the Commissioner registers a non-resident person under [section 54B][110], the person must account for tax payable on a payments basis for the purpose of [section 20][43].
     
     (2) The Commissioner may, on application in writing in that behalf by a registered person, direct that for the purposes of [section 20][43] the registered person account for tax payable---
         
@@ -3488,7 +3516,7 @@ Returns and payment of tax
     
     *   (c) on a payments basis, if the registered person satisfies the requirements of [section 19A(1)][38].
     
-    (3B) Despite subsection (3), a liquidator, receiver, or administrator (as defined in [section 239B][433] of the Companies Act 1993) of a registered person who accounts for tax payable on a payments basis may not apply to change the registered person's accounting basis to an invoice basis.
+    (3B) Despite subsection (3), a liquidator, receiver, or administrator (as defined in [section 239B][437] of the Companies Act 1993) of a registered person who accounts for tax payable on a payments basis may not apply to change the registered person's accounting basis to an invoice basis.
     
     (4) Where the Commissioner gives a direction in respect of a registered person's accounting basis under subsection (2) or subsection (3) of this section or under [section 19A(2)][38], the registered person shall account for tax payable on the accounting basis directed by the Commissioner with effect from---
         
@@ -3500,9 +3528,11 @@ Returns and payment of tax
     
     Section 19: substituted, on 1 April 1991 (applying to allow changes in a registered person's accounting basis in respect of taxable periods commencing on and after 1 April 1991), by section 3(1) of the Goods and Services Tax Amendment Act 1991 (1991 No 11).
     
-    Section 19(1): substituted, on 10 October 2000 (applying on and after 10 October 2000), by [section 95(1)][434] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 19(1): substituted, on 10 October 2000 (applying on and after 10 October 2000), by [section 95(1)][438] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 19(3B): inserted, on 2 November 2012 (applying in relation to an application for a change to a registered person's accounting basis received on or after that date), by [section 213][435] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 19(1B): inserted, on 1 April 2014, by [section 126][439] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
+    
+    Section 19(3B): inserted, on 2 November 2012 (applying in relation to an application for a change to a registered person's accounting basis received on or after that date), by [section 213][440] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
 
 ##### 19A Requirements for accounting on payments basis
     
@@ -3515,6 +3545,8 @@ Returns and payment of tax
         *   (ii) \[Repealed\]
         
         *   (iii) a non-profit body; or
+        
+        *   (iv) a non-resident; or
         
         
     
@@ -3544,19 +3576,21 @@ Returns and payment of tax
     
     Section 19A(1)(a)(i): repealed, on 10 April 1995, by section 7 of the Goods and Services Tax Amendment Act 1995 (1995 No 22).
     
-    Section 19A(1)(a)(ii): repealed (with effect on 1 July 2013), on 17 July 2013, by [section 127(1)][436] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
+    Section 19A(1)(a)(ii): repealed (with effect on 1 July 2013), on 17 July 2013, by [section 127(1)][441] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
-    Section 19A(1)(b)(i): amended, on 30 March 2009, by [section 26][437] of the Taxation (Business Tax Measures) Act 2009 (2009 No 5).
+    Section 19A(1)(a)(iv): inserted, on 1 April 2014, by [section 127(2)][441] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
-    Section 19A(2): amended, on 23 September 1997, by [section 111][438] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 19A(1)(b)(i): amended, on 30 March 2009, by [section 26][442] of the Taxation (Business Tax Measures) Act 2009 (2009 No 5).
     
-    Section 19A(3)(a): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 96(3)][439] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 19A(2): amended, on 23 September 1997, by [section 111][443] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    
+    Section 19A(3)(a): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 96(3)][444] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
 
 ##### 19AB Local authorities accounting on payments basis on and after 1 July 2001
     
 *   \[Repealed\]
     
-    Section 19AB: repealed, on 17 July 2013, by [section 128][440] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
+    Section 19AB: repealed, on 17 July 2013, by [section 128][445] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
 
 ##### 19B Particulars to be furnished and prepared where change in accounting basis
     
@@ -3564,7 +3598,7 @@ Returns and payment of tax
     
     (2) The particulars required to be furnished under subsection (1) shall be furnished to the Commissioner not later than the last day for furnishing a return pursuant to [section 16][34] for the taxable period preceding that in which the direction of the Commissioner takes effect.
     
-    (2B) The particulars required by subsection (1) must be furnished in a return that contains a notice of the assessment that must be made under [section 92B][426] of the Tax Administration Act 1994\.
+    (2B) The particulars required by subsection (1) must be furnished in a return that contains a notice of the assessment that must be made under [section 92B][430] of the Tax Administration Act 1994\.
     
     (3) Where the Commissioner directs a change in a registered person's accounting basis under [section 19][37] or [section 19A][38], the registered person shall---
         
@@ -3582,11 +3616,11 @@ Returns and payment of tax
     
     Section 19B: inserted, on 1 April 1991 (applying to allow changes in a registered person's accounting basis in respect of taxable periods commencing on and after 1 April 1991), by section 3(1) of the Goods and Services Tax Amendment Act 1991 (1991 No 11).
     
-    Section 19B(2B): inserted, on 21 December 2004 (applying for taxable periods beginning on or after 1 April 2005), by [section 148(1)][441] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 19B(2B): inserted, on 21 December 2004 (applying for taxable periods beginning on or after 1 April 2005), by [section 148(1)][446] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
 
 ##### 19C Tax payable, or refund, where change in accounting basis
     
-*   (1) Every registered person whose accounting basis is changed pursuant to [section 19][37], [19A][38], or [87][160], as applicable, shall, not later than the last day allowed under [section 19B(2)][40] for furnishing particulars in respect of the change, pay to the Commissioner the tax payable (if any) as determined pursuant to this section.
+*   (1) Every registered person whose accounting basis is changed pursuant to [section 19][37], [19A][38], or [87][162], as applicable, shall, not later than the last day allowed under [section 19B(2)][40] for furnishing particulars in respect of the change, pay to the Commissioner the tax payable (if any) as determined pursuant to this section.
     
     (2) Where a registered person changes from an invoice basis to a payments basis of accounting, the tax payable under subsection (1) shall be an amount determined in accordance with the following formula:
     
@@ -3686,7 +3720,7 @@ Returns and payment of tax
     
     Section 19C: inserted, on 1 April 1991 (applying to allow changes in a registered person's accounting basis in respect of taxable periods commencing on and after 1 April 1991), by section 3(1) of the Goods and Services Tax Amendment Act 1991 (1991 No 11).
     
-    Section 19C(1): amended, on 17 July 2013, by [section 129][442] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
+    Section 19C(1): amended, on 17 July 2013, by [section 129][447] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
     Section 19C(2): substituted, on 13 March 1992, by section 6 of the Goods and Services Tax Amendment Act 1992 (1992 No 2).
     
@@ -3704,7 +3738,7 @@ Returns and payment of tax
     
 *   (1) A registered person who makes a supply of goods and services for a consideration of more than $225,000 must account for tax payable on an invoice basis for that supply.
     
-    (2) Subsection (1) does not apply if the supply of goods and services is a short term agreement for the sale and purchase of property or services, as that term is defined in [section YA 1][171] of the Income Tax Act 2007, except that the reference to ""93rd day"" is to be read as ""on or before the day that is 1 year"".
+    (2) Subsection (1) does not apply if the supply of goods and services is a short term agreement for the sale and purchase of property or services, as that term is defined in [section YA 1][173] of the Income Tax Act 2007, except that the reference to ""93rd day"" is to be read as ""on or before the day that is 1 year"".
     
     (2B) Subsection (1) does not apply if the supplier is a non-profit body that determines on the basis of reasonable information that, at the time of supply, the recipient---
         
@@ -3724,13 +3758,13 @@ Returns and payment of tax
     
     *   (b) the Commissioner considers that the person made more than 1 supply to avoid the application of subsection (1).
     
-    Section 19D: inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 98(1)][443] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 19D: inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 98(1)][448] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 19D(2): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][203] of the Income Tax Act 2007 (2007 No 97).
+    Section 19D(2): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][205] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 19D(2): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][228] of the Income Tax Act 2004 (2004 No 35).
+    Section 19D(2): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][230] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 19D(2B): inserted, on 21 December 2010, by [section 13][444] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 19D(2B): inserted, on 21 December 2010, by [section 13][449] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
 
 ##### 20 Calculation of tax payable
     
@@ -3746,9 +3780,9 @@ Returns and payment of tax
     
     *   (d) the supply is a supply of services that is treated by [section 5B][10] as being made by the recipient and the recipient has accounted for the output tax charged in respect of the supply; or
     
-    *   (e) the supply is a supply of goods and services that is treated as made under [section 60B][118] to a nominated person and that person maintains sufficient records as required by [section 24(7B)][66]:
+    *   (e) the supply is a supply of goods and services that is treated as made under [section 60B][120] to a nominated person and that person maintains sufficient records as required by [section 24(7B)][66]:
     
-    provided that where a tax invoice or debit note or credit note in relation to that supply has been provided in accordance with this Act, the Commissioner may determine that no deduction for input tax in relation to that supply shall be made unless that tax invoice or debit note or credit note is retained in accordance with the provisions of [section 75][137].
+    provided that where a tax invoice or debit note or credit note in relation to that supply has been provided in accordance with this Act, the Commissioner may determine that no deduction for input tax in relation to that supply shall be made unless that tax invoice or debit note or credit note is retained in accordance with the provisions of [section 75][139].
     
     (3) Subject to this section, in calculating the amount of tax payable in respect of each taxable period, there shall be deducted from the amount of output tax of a registered person attributable to the taxable period---
         
@@ -3792,7 +3826,7 @@ Returns and payment of tax
         
         *   (iva) does not apply if the payment is made to a person who, on the date the payment is made, is not a registered person and is a non-resident:
         
-        *   (v) does not apply where that payment is made in respect of any entitlement for any loss of earnings (being earnings within the meaning of the Accident Compensation Act 1982 or the Accident Rehabilitation and Compensation Insurance Act 1992 or the Accident Insurance Act 1998 or the [Accident Compensation Act 2001][267]):
+        *   (v) does not apply where that payment is made in respect of any entitlement for any loss of earnings (being earnings within the meaning of the Accident Compensation Act 1982 or the Accident Rehabilitation and Compensation Insurance Act 1992 or the Accident Insurance Act 1998 or the [Accident Compensation Act 2001][269]):
         
         *   (vi) does not apply to the supply of a contract of insurance when the supplier is not required to account for output tax on the supply; and
         
@@ -3838,13 +3872,13 @@ Returns and payment of tax
         
         
     
-    (3A) For the purpose of subsection (3), output tax does not include the tax on the taxable value of a fringe benefit provided or granted to another person under the FBT rules of the [Income Tax Act 1994][445].
+    (3A) For the purpose of subsection (3), output tax does not include the tax on the taxable value of a fringe benefit provided or granted to another person under the FBT rules of the [Income Tax Act 1994][450].
     
     (3AB) \[Repealed\]
     
     (3B) \[Repealed\]
     
-    (3C) For the purposes of subsection (3), and if subsection (3D) does not apply,---
+    (3C) For the purposes of subsection (3), and if subsections (3D) or (3L) do not apply,---
         
     *   (a) input tax as defined in [section 3A(1)(a) or (c)][7] may be deducted to the extent to which the goods or services are used for, or are available for use in, making taxable supplies:
     
@@ -3910,7 +3944,11 @@ Returns and payment of tax
     
     *   (b) make adjustments under [section 20G(4) and (5)][50] in relation to the taxable supply referred to in paragraph (a).
     
-    (3K) For the purposes of subsections (3) and (3C), to the extent to which a non-profit body uses goods or services other than for making exempt supplies, the goods or services are treated as being used for making taxable supplies.
+    (3K) For the purposes of subsections (3) and (3C), to the extent to which a non-profit body that is resident in New Zealand uses goods or services other than for making exempt supplies, the goods or services are treated as being used for making taxable supplies.
+    
+    (3L) For the purposes of subsection (3), for a non-resident person who is registered under [section 54B][110], input tax may be deducted only to the extent to which the goods or services are used for, or are available for use in, making taxable supplies, treating all the supplies made by the person as if they were made and received in New Zealand.
+    
+    (3M) Despite subsection (3L), a non-resident person who is registered under [section 54B][110] and who principally makes supplies of financial services may, for the purposes of calculating the amount of input tax, choose to use a fair and reasonable method of apportionment agreed with the Commissioner, as set out in subsection (3E).
     
     (4) For the purpose of subsection (3), output tax in relation to a supply made by a registered person must be attributed to a taxable period---
         
@@ -3932,9 +3970,9 @@ Returns and payment of tax
     
     (5) If, in relation to any taxable period and any registered person, the total amount that may be deducted under subsection (3) exceeds the aggregate amount of the output tax of that registered person attributable to that taxable period, the amount of the excess shall, subject to this Act, be refunded to that registered person by the Commissioner pursuant to [section 46][98].
     
-    Section 20(2): amended, on 25 November 2003, by [section 154(1)][446] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 20(2): amended, on 25 November 2003, by [section 154(1)][451] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 20(2)(a): amended, on 19 December 2007, by [section 276][447] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 20(2)(a): amended, on 19 December 2007, by [section 276][452] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Section 20(2)(a): amended (with effect on 3 December 1985), on 8 August 1986, by section 17(1) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
@@ -3942,153 +3980,161 @@ Returns and payment of tax
     
     Section 20(2)(c): added (with effect on 3 December 1985), on 8 August 1986, by section 17(3) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 20(2)(c): amended, on 1 January 2005, by [section 154(2)][446] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 20(2)(c): amended, on 1 January 2005, by [section 154(2)][451] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 20(2)(d): added, on 1 January 2005, by [section 154(2)][446] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 20(2)(d): added, on 1 January 2005, by [section 154(2)][451] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 20(2)(d): amended, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 14(1)][448] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 20(2)(d): amended, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 14(1)][453] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 20(2)(e): added, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 14(1)][449] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 20(2)(e): added, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 14(1)][454] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 20(3)(a): amended, on 25 November 2003, by [section 154(3)(a)][446] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 20(3)(a): amended, on 25 November 2003, by [section 154(3)(a)][451] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 20(3)(a)(i): amended, on 25 November 2003, by [section 154(3)(b)][446] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 20(3)(a)(i): amended, on 25 November 2003, by [section 154(3)(b)][451] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 20(3)(a)(i): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 99(1)][450] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 20(3)(a)(i): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 99(1)][455] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
     Section 20(3)(a)(i): amended, on 22 March 1989 (applying to supplies made on or after 22 March 1989), by section 6(1) of the Goods and Services Tax Amendment Act 1989 (1989 No 8).
     
     Section 20(3)(a)(ia): inserted, on 22 March 1989 (applying to supplies made on or after 22 March 1989), by section 6(2) of the Goods and Services Tax Amendment Act 1989 (1989 No 8).
     
-    Section 20(3)(a)(ia): amended, on 25 November 2003, by [section 154(3)(c)][446] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 20(3)(a)(ia): amended, on 25 November 2003, by [section 154(3)(c)][451] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 20(3)(a)(ia): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 99(1)][450] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 20(3)(a)(ia): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 99(1)][455] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 20(3)(a)(ii): amended, on 25 November 2003, by [section 154(3)(d)][446] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 20(3)(a)(ii): amended, on 25 November 2003, by [section 154(3)(d)][451] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 20(3)(a)(ii): amended, on 1 October 1996, by [section 289(1)][164] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 20(3)(a)(ii): amended, on 1 October 1996, by [section 289(1)][166] of the Customs and Excise Act 1996 (1996 No 27).
     
     Section 20(3)(a)(ii): amended (with effect on 3 December 1985), on 8 August 1986, by section 17(4)(a) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
     Section 20(3)(a)(ii): amended (with effect on 3 December 1985), on 8 August 1986, by section 17(4)(b) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 20(3)(a)(iii): substituted, on 25 November 2003, by [section 154(3)(e)][446] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 20(3)(a)(iii): substituted, on 25 November 2003, by [section 154(3)(e)][451] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 20(3)(b): amended, on 25 November 2003, by [section 154(4)(a)][446] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 20(3)(b): amended, on 25 November 2003, by [section 154(4)(a)][451] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
     Section 20(3)(b): amended, on 1 April 1991, by section 4(1) of the Goods and Services Tax Amendment Act 1991 (1991 No 11).
     
-    Section 20(3)(b)(i): amended, on 25 November 2003, by [section 154(4)(b)][446] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 20(3)(b)(i): amended, on 25 November 2003, by [section 154(4)(b)][451] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
     Section 20(3)(b)(i): amended (with effect on 3 December 1985), on 8 August 1986, by section 17(6) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 20(3)(b)(ii): amended, on 25 November 2003, by [section 154(4)(c)][446] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 20(3)(b)(ii): amended, on 25 November 2003, by [section 154(4)(c)][451] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 20(3)(b)(ii): amended, on 1 October 1996, by [section 289(1)][164] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 20(3)(b)(ii): amended, on 1 October 1996, by [section 289(1)][166] of the Customs and Excise Act 1996 (1996 No 27).
     
-    Section 20(3)(b)(iii): amended, on 25 November 2003, by [section 154(4)(d)][446] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 20(3)(b)(iii): amended, on 25 November 2003, by [section 154(4)(d)][451] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
     Section 20(3)(b)(iii): amended (with effect on 3 December 1985), on 8 August 1986, by section 17(7) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 20(3)(b)(iv): substituted, on 25 November 2003, by [section 154(4)(e)][446] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 20(3)(b)(iv): substituted, on 25 November 2003, by [section 154(4)(e)][451] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
     Section 20(3)(c): repealed (with effect on 3 December 1985), on 8 August 1986, by section 17(9)(a) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 20(3)(d): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 99(2)][450] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 20(3)(d): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 99(2)][455] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
     Section 20(3)(d) proviso subparagraph (i): amended (with effect on 3 December 1985), on 8 August 1986, by section 17(9)(b) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
     Section 20(3)(d) proviso subparagraph (iii): added (with effect on 3 December 1985), on 8 August 1986, by section 17(10) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 20(3)(d) proviso subparagraph (iii): amended, on 25 November 2003, by [section 154(5)][446] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 20(3)(d) proviso subparagraph (iii): amended, on 25 November 2003, by [section 154(5)][451] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 20(3)(d) proviso subparagraph (iii): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 99(3)][450] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 20(3)(d) proviso subparagraph (iii): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 99(3)][455] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
     Section 20(3)(d) proviso subparagraph (iv): added (with effect on 3 December 1985), on 8 August 1986, by section 17(10) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 20(3)(d) proviso subparagraph (iva): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 99(5)][450] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 20(3)(d) proviso subparagraph (iva): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 99(5)][455] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 20(3)(d) proviso subparagraph (iva): amended, on 25 November 2003, by [section 154(5)][446] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 20(3)(d) proviso subparagraph (iva): amended, on 25 November 2003, by [section 154(5)][451] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
     Section 20(3)(d) proviso subparagraph (v): substituted, on 19 December 1998, by section 416(1) of the Accident Insurance Act 1998 (1998 No 114).
     
-    Section 20(3)(d) proviso subparagraph (v): amended (with effect on 1 January 2005), on 2 November 2012, by [section 214(1)][451] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 20(3)(d) proviso subparagraph (v): amended (with effect on 1 January 2005), on 2 November 2012, by [section 214(1)][456] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 20(3)(d) proviso subparagraph (v): amended, on 3 March 2010, pursuant to [section 5(1)(b)][287] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 20(3)(d) proviso subparagraph (v): amended, on 3 March 2010, pursuant to [section 5(1)(b)][289] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 20(3)(d) proviso subparagraph (v): amended, on 1 April 2002, by [section 338][289] of the Accident Compensation Act 2001 (2001 No 49).
+    Section 20(3)(d) proviso subparagraph (v): amended, on 1 April 2002, by [section 338][291] of the Accident Compensation Act 2001 (2001 No 49).
     
-    Section 20(3)(d) proviso subparagraph (vi): inserted (with effect on 1 January 2005), on 2 November 2012, by [section 214(1)][451] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 20(3)(d) proviso subparagraph (vi): inserted (with effect on 1 January 2005), on 2 November 2012, by [section 214(1)][456] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 20(3)(da): repealed, on 1 August 1990, by [section 8(1)][452] of the Goods and Services Tax Amendment Act 1990 (1990 No 64).
+    Section 20(3)(da): repealed, on 1 August 1990, by [section 8(1)][457] of the Goods and Services Tax Amendment Act 1990 (1990 No 64).
     
-    Section 20(3)(db): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 99(4)][450] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 20(3)(db): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 99(4)][455] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 20(3)(e): substituted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 14(2)][449] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 20(3)(e): substituted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 14(2)][454] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 20(3)(ea): repealed, on 10 October 2000 (applying on 10 October 2000), by [section 99(7)][450] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 20(3)(ea): repealed, on 10 October 2000 (applying on 10 October 2000), by [section 99(7)][455] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
     Section 20(3)(g): added, on 24 March 1988 (applying to supplies made on or after 24 March 1988), by section 11(2) of the Goods and Services Tax Amendment Act 1988 (1988 No 7).
     
-    Section 20(3)(g): amended, on 25 November 2003, by [section 154(6)][446] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 20(3)(g): amended, on 25 November 2003, by [section 154(6)][451] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 20(3)(h): added, on 25 November 2003, by [section 154(6)][446] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 20(3)(h): added, on 25 November 2003, by [section 154(6)][451] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 20(3)(hb): inserted (with effect on 1 April 2013, applying in relation to supplies of goods other than land or improvements to land made on or after 1 April 2014; for supplies of land or improvements to land, applying from 17 July 2013), on 17 July 2013, by [section 130(1)][453] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
+    Section 20(3)(hb): inserted (with effect on 1 April 2013, applying in relation to supplies of goods other than land or improvements to land made on or after 1 April 2014; for supplies of land or improvements to land, applying from 17 July 2013), on 17 July 2013, by [section 130(1)][458] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
-    Section 20(3)(i): added, on 25 November 2003, by [section 154(6)][446] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 20(3)(i): added, on 25 November 2003, by [section 154(6)][451] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 20(3) proviso: substituted, on 21 December 2004 (applying for taxable periods beginning on or after 1 April 2005), by [section 149(1)][454] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 20(3) proviso: substituted, on 21 December 2004 (applying for taxable periods beginning on or after 1 April 2005), by [section 149(1)][459] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
     Section 20(3) second proviso: repealed (with effect on 1 April 1988), on 24 March 1988 (applying to supplies made on or after 1 April 1988), by section 10(2) of the Goods and Services Tax Amendment Act 1988 (1988 No 7).
     
     Section 20(3) third proviso: repealed (with effect on 1 April 1988), on 24 March 1988 (applying to supplies made on or after 1 April 1988), by section 10(2) of the Goods and Services Tax Amendment Act 1988 (1988 No 7).
     
-    Section 20(3A): substituted, on 27 March 2001, by [section 64(1)][455] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
+    Section 20(3A): substituted, on 27 March 2001, by [section 64(1)][460] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
     
-    Section 20(3AB): repealed, on 10 October 2000 (applying on 10 October 2000), by [section 99(7)][450] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 20(3AB): repealed, on 10 October 2000 (applying on 10 October 2000), by [section 99(7)][455] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 20(3B): repealed, on 10 October 2000 (applying on 10 October 2000), by [section 99(7)][450] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 20(3B): repealed, on 10 October 2000 (applying on 10 October 2000), by [section 99(7)][455] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 20(3C): replaced (with effect on 1 April 2011), on 2 November 2012, by [section 214(2)][451] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 20(3C): replaced (with effect on 1 April 2011), on 2 November 2012, by [section 214(2)][456] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 20(3D): inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 14(3)][448] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 20(3C): amended, on 1 April 2014, by [section 130(2)][458] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
-    Section 20(3E): inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 14(3)][448] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 20(3D): inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 14(3)][453] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 20(3F): inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 14(3)][448] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 20(3E): inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 14(3)][453] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 20(3G): inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 14(3)][448] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 20(3F): inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 14(3)][453] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 20(3H): inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 14(3)][448] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 20(3G): inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 14(3)][453] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 20(3I): inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 14(3)][448] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 20(3H): inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 14(3)][453] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 20(3J): inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 14(3)][448] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 20(3I): inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 14(3)][453] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 20(3J)(a)(iii): amended (with effect on 1 April 2011), on 2 November 2012, by [section 214(3)][451] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 20(3J): inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 14(3)][453] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 20(3J)(b): amended (with effect on 1 April 2013, applying in relation to supplies of goods other than land or improvements to land made on or after 1 April 2014; for supplies of land or improvements to land, applying from 17 July 2013), on 17 July 2013, by [section 130(3)][453] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
+    Section 20(3J)(a)(iii): amended (with effect on 1 April 2011), on 2 November 2012, by [section 214(3)][456] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 20(3JB): inserted (with effect on 1 April 2013, applying in relation to supplies of goods other than land or improvements to land made on or after 1 April 2014; for supplies of land or improvements to land, applying from 17 July 2013), on 17 July 2013, by [section 130(4)][453] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
+    Section 20(3J)(b): amended (with effect on 1 April 2013, applying in relation to supplies of goods other than land or improvements to land made on or after 1 April 2014; for supplies of land or improvements to land, applying from 17 July 2013), on 17 July 2013, by [section 130(3)][458] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
-    Section 20(3K): inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 14(3)][448] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 20(3JB): inserted (with effect on 1 April 2013, applying in relation to supplies of goods other than land or improvements to land made on or after 1 April 2014; for supplies of land or improvements to land, applying from 17 July 2013), on 17 July 2013, by [section 130(4)][458] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
-    Section 20(4): substituted, on 10 October 2000 (applying on and after 10 October 2000), by [section 99(8)][450] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 20(3K): inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 14(3)][453] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 20(4)(b)(i): amended, on 25 November 2003, by [section 154(7)(a)][446] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 20(3K): amended, on 1 April 2014, by [section 130(5)][458] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
-    Section 20(4)(b)(ib): inserted, on 25 November 2003, by [section 154(7)(a)][446] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 20(3L): inserted, on 1 April 2014, by [section 130(6)][458] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
-    Section 20(4)(b)(ii): substituted, on 25 November 2003, by [section 154(7)(b)][446] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 20(3M): inserted, on 1 April 2014, by [section 130(6)][458] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
-    Section 20(4)(b)(ii): amended, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 14(4)][448] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 20(4): substituted, on 10 October 2000 (applying on and after 10 October 2000), by [section 99(8)][455] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 20(4)(c): added, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 14(4)][448] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 20(4)(b)(i): amended, on 25 November 2003, by [section 154(7)(a)][451] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 20(4B): inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 14(5)][448] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 20(4)(b)(ib): inserted, on 25 November 2003, by [section 154(7)(a)][451] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 20(5): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 99(9)][450] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 20(4)(b)(ii): substituted, on 25 November 2003, by [section 154(7)(b)][451] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    
+    Section 20(4)(b)(ii): amended, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 14(4)][453] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    
+    Section 20(4)(c): added, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 14(4)][453] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    
+    Section 20(4B): inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 14(5)][453] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    
+    Section 20(5): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 99(9)][455] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
 
 ##### 20A Goods and services tax incurred relating to determination of liability to tax
     
@@ -4106,7 +4152,7 @@ Returns and payment of tax
         
         
     
-    _taxable income_, _tax year_ and _taxpayer_ have the same meanings as in [section YA 1][171] of the Income Tax Act 2007\.
+    _taxable income_, _tax year_ and _taxpayer_ have the same meanings as in [section YA 1][173] of the Income Tax Act 2007\.
     
     (2) Subject to this section, any goods and services acquired by the registered person in connection with---
         
@@ -4114,13 +4160,13 @@ Returns and payment of tax
     
     *   (b) the calculation or determination of the goods and services tax payable by the registered person for any taxable period:
     
-    *   (c) the preparation, institution, or presentation of an objection or challenge to or an appeal against or in consequence of any determination or assessment made, in respect of the registered person, by the Commissioner under the provisions of the [Tax Administration Act 1994][161] or the Goods and Services Tax Act 1985:
+    *   (c) the preparation, institution, or presentation of an objection or challenge to or an appeal against or in consequence of any determination or assessment made, in respect of the registered person, by the Commissioner under the provisions of the [Tax Administration Act 1994][163] or the Goods and Services Tax Act 1985:
     
     *   (d) any contribution by the registered person towards the expenditure incurred by any other taxpayer or registered person, as the case may be, where---
             
         *   (i) if the expenditure were incurred by the first-mentioned registered person, it would be an allowable deduction in calculating the taxable income of that person or allowable in the calculation or determination of any goods and services tax payable by that person; and
         
-        *   (ii) the first-mentioned registered person has objected to or challenged or appealed against an assessment or determination made, in relation to the matter by, the Commissioner under the provisions of the [Income Tax Act 1976][456] or the [Tax Administration Act 1994][161] or the Goods and Services Tax Act 1985,---
+        *   (ii) the first-mentioned registered person has objected to or challenged or appealed against an assessment or determination made, in relation to the matter by, the Commissioner under the provisions of the [Income Tax Act 1976][461] or the [Tax Administration Act 1994][163] or the Goods and Services Tax Act 1985,---
         
         
     
@@ -4128,13 +4174,13 @@ Returns and payment of tax
     
     (3) This section shall not apply in relation to any goods and services acquired by the registered person in connection with---
         
-    *   (a) any matter or assessment arising from a return (being a return of income furnished under the provisions of the [Income Tax Act 1976][456] or the [Tax Administration Act 1994][161] or a return furnished under the provisions of the Goods and Services Tax Act 1985) that, in the opinion of the Commissioner, was fraudulent or wilfully misleading:
+    *   (a) any matter or assessment arising from a return (being a return of income furnished under the provisions of the [Income Tax Act 1976][461] or the [Tax Administration Act 1994][163] or a return furnished under the provisions of the Goods and Services Tax Act 1985) that, in the opinion of the Commissioner, was fraudulent or wilfully misleading:
     
     *   (b) any offence under any of the Inland Revenue Acts:
     
-    *   (c) any assessment of penal tax under the [Income Tax Act 1976][456] or the [Tax Administration Act 1994][161] or the Goods and Services Tax Act 1985 (not being an assessment which is subsequently cancelled):
+    *   (c) any assessment of penal tax under the [Income Tax Act 1976][461] or the [Tax Administration Act 1994][163] or the Goods and Services Tax Act 1985 (not being an assessment which is subsequently cancelled):
     
-    *   (ca) any assessment of a shortfall penalty under the [Tax Administration Act 1994][161] (not being an assessment which is subsequently cancelled):
+    *   (ca) any assessment of a shortfall penalty under the [Tax Administration Act 1994][163] (not being an assessment which is subsequently cancelled):
     
     *   (d) any objection or challenge or appeal which, in the opinion of the Commissioner, is of an inconsequential or frivolous nature.
     
@@ -4146,29 +4192,29 @@ Returns and payment of tax
     
     Section 20A(1) **goods and services tax payable** paragraph (a): amended, on 1 April 1991, by section 5(1)(a) of the Goods and Services Tax Amendment Act 1991 (1991 No 11).
     
-    Section 20A(1) **goods and services tax payable** paragraph (b): amended, on 21 December 2004 (applying for taxable periods beginning on or after 1 April 2005), by [section 150(1)][457] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 20A(1) **goods and services tax payable** paragraph (b): amended, on 21 December 2004 (applying for taxable periods beginning on or after 1 April 2005), by [section 150(1)][462] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
     Section 20A(1) **goods and services tax payable** paragraph (b)(ii): amended, on 1 April 1991, by section 5(1)(b) of the Goods and Services Tax Amendment Act 1991 (1991 No 11).
     
     Section 20A(1) **taxable income**, **income year** and **taxpayer**: inserted, on 26 July 1996 (applying to the 1997--98 and subsequent income years), by section 484 of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
-    Section 20A(1) **taxable income**, **tax year** and **taxpayer**: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][203] of the Income Tax Act 2007 (2007 No 97).
+    Section 20A(1) **taxable income**, **tax year** and **taxpayer**: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][205] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 20A(1) **taxable income**, **tax year** and **taxpayer**: amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][228] of the Income Tax Act 2004 (2004 No 35).
+    Section 20A(1) **taxable income**, **tax year** and **taxpayer**: amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][230] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 20A(2): amended (with effect on 1 April 2011), on 2 November 2012, by [section 215][458] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 20A(2): amended (with effect on 1 April 2011), on 2 November 2012, by [section 215][463] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 20A(2)(a): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][228] of the Income Tax Act 2004 (2004 No 35).
+    Section 20A(2)(a): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][230] of the Income Tax Act 2004 (2004 No 35).
     
     Section 20A(2)(a): amended, on 26 July 1996 (applying to the 1997--98 and subsequent income years), by section 484 of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
-    Section 20A(2)(c): amended, on 1 October 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 3(1)(a)][459] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 20A(2)(c): amended, on 1 October 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 3(1)(a)][464] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
     
     Section 20A(2)(c): amended, on 26 July 1996 (applying to the 1997--98 and subsequent income years), by section 484 of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
     Section 20A(2)(d)(i): substituted, on 26 July 1996 (applying to the 1997--98 and subsequent income years), by section 484 of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
-    Section 20A(2)(d)(ii): amended, on 1 October 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 3(1)(b)][459] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 20A(2)(d)(ii): amended, on 1 October 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 3(1)(b)][464] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
     
     Section 20A(2)(d)(ii): amended, on 26 July 1996 (applying to the 1997--98 and subsequent income years), by section 484 of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
@@ -4176,9 +4222,9 @@ Returns and payment of tax
     
     Section 20A(3)(c): amended, on 26 July 1996 (applying to the 1997--98 and subsequent income years), by section 484 of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
-    Section 20A(3)(ca): inserted, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 3(2)][459] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 20A(3)(ca): inserted, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 3(2)][464] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
     
-    Section 20A(3)(d): amended, on 1 October 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 3(3)][459] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 20A(3)(d): amended, on 1 October 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 3(3)][464] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
 
 ##### 20B Allocation of taxable supplies following investigation by Commissioner
     
@@ -4236,17 +4282,17 @@ Returns and payment of tax
     > 
     > is the total value of supplies by the direct supplier in respect of the taxable period, determined under [section 20D][47].
     
-    Section 20C: inserted, on 1 January 2005, by [section 155][460] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 20C: inserted, on 1 January 2005, by [section 155][465] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 20C formula item a: substituted, on 1 January 2005, by [section 151][461] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 20C formula item a: substituted, on 1 January 2005, by [section 151][466] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
-    Section 20C formula item c: substituted (with effect on 1 January 2005), on 7 September 2010 (applying for taxable periods beginning on or after 1 January 2005), by [section 192(1)][462] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
+    Section 20C formula item c: substituted (with effect on 1 January 2005), on 7 September 2010 (applying for taxable periods beginning on or after 1 January 2005), by [section 192(1)][467] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
 
 ##### 20D Determining availability of deduction under section 20C from supplies by another person
     
 *   If a person makes a return that includes a figure for a deduction under [section 20C][46] based on the value of supplies made by the person to other persons, the availability of the deduction under section 20C for supplies made by the person to each other person must be determined on the basis of the statistics of the supplies made by the other person.
     
-    Section 20D: inserted, on 1 January 2005, by [section 155][460] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 20D: inserted, on 1 January 2005, by [section 155][465] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
 
 ##### 20E Determining supplies charged at 0% under section 11A(1)(q) and (r) from supplies by another person
     
@@ -4256,7 +4302,7 @@ Returns and payment of tax
     
     *   (b) using a method that is approved by the Commissioner.
     
-    Section 20E: inserted, on 1 January 2005, by [section 155][460] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 20E: inserted, on 1 January 2005, by [section 155][465] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
 
 ##### 20F Election that sections 11A(1)(q) and (r) and 20C apply
     
@@ -4276,19 +4322,19 @@ Returns and payment of tax
         
         
     
-    Section 20F: inserted, on 1 January 2005, by [section 155][460] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 20F: inserted, on 1 January 2005, by [section 155][465] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 20F(1): amended, on 18 December 2006, by [section 217][463] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Section 20F(1): amended, on 18 December 2006, by [section 217][468] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
     
-    Section 20F(1): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][228] of the Income Tax Act 2004 (2004 No 35).
+    Section 20F(1): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][230] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 20F(2)(b)(ii): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][228] of the Income Tax Act 2004 (2004 No 35).
+    Section 20F(2)(b)(ii): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][230] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 20F(2)(b)(iii): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][228] of the Income Tax Act 2004 (2004 No 35).
+    Section 20F(2)(b)(iii): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][230] of the Income Tax Act 2004 (2004 No 35).
 
 ##### 20G Treatment of supplies of certain assets
     
-*   (1) A registered person who uses an asset described in [section DG 3][464] of the Income Tax Act 2007 for making taxable supplies has a deduction under [section 20(3)(hb)][43] of an amount calculated using the formula---
+*   (1) A registered person who uses an asset described in [section DG 3][469] of the Income Tax Act 2007 for making taxable supplies has a deduction under [section 20(3)(hb)][43] of an amount calculated using the formula---
     
     input tax for asset × total income-earning days
     
@@ -4298,15 +4344,15 @@ Returns and payment of tax
         
     *   (a) _input tax for asset_ is the input tax on expenditure that the person incurs in relation to the use of the asset, other than expenditure that is----
             
-        *   (i) related solely to the income-earning use of the asset as described in[section DG 7][465] of that Act; or
+        *   (i) related solely to the income-earning use of the asset as described in[section DG 7][470] of that Act; or
         
-        *   (ii) related solely to the private use of the asset, as that term is defined in [section DG 4][466] of that Act:
+        *   (ii) related solely to the private use of the asset, as that term is defined in [section DG 4][471] of that Act:
         
         
     
-    *   (b) **total income-earning days** is the total number of days in the period on which the person supplies the asset for use and derives consideration for the supply, whether at, above, or below market value as that term is defined in [section DG 3(5)][464] of that Act, including any days on which---
+    *   (b) **total income-earning days** is the total number of days in the period on which the person supplies the asset for use and derives consideration for the supply, whether at, above, or below market value as that term is defined in [section DG 3(5)][469] of that Act, including any days on which---
             
-        *   (i) the use made of the asset is described in [section DG 4(3) to (5)][466] of that Act:
+        *   (i) the use made of the asset is described in [section DG 4(3) to (5)][471] of that Act:
         
         *   (ii) the asset has become unavailable for use because another person who had earlier reserved the asset for their own use, subsequently did not take advantage of that reservation:
         
@@ -4314,7 +4360,7 @@ Returns and payment of tax
         
         
     
-    *   (c) **total private days** is the total number of days in the period on which the asset is in active use as described in [section DG 3(7)][464] of that Act and the day is not an income-earning day as described in paragraph (b).
+    *   (c) **total private days** is the total number of days in the period on which the asset is in active use as described in [section DG 3(7)][469] of that Act and the day is not an income-earning day as described in paragraph (b).
     
     (3) A unit of measurement of time other than days, whether relating to hours, or nights, or anything else is to be used in the formula and in subsection (2)(b) and (c), if the use of the unit provides a fair and reasonable result. For this purpose, the same unit must be used in relation to both total income-earning days and total private days.
     
@@ -4332,9 +4378,9 @@ Returns and payment of tax
     
     (7) [Sections 8][14] and [21F][58] apply to the disposal of the asset, treating the disposal as in the course or furtherance of a taxable activity.
     
-    (8) For the purposes of this section, a registered person does not include a widely-held company, as that term is defined in [section YA 1][171] of the Income Tax Act 2007\.
+    (8) For the purposes of this section, a registered person does not include a widely-held company, as that term is defined in [section YA 1][173] of the Income Tax Act 2007\.
     
-    Section 20G: inserted (with effect on 1 April 2013, applying in relation to supplies of goods other than land or improvements to land made on or 1 April 2014; for supplies of land or improvements to land, applying from 17 July 2013), on 17 July 2013, by [section 131][467] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
+    Section 20G: inserted (with effect on 1 April 2013, applying in relation to supplies of goods other than land or improvements to land made on or 1 April 2014; for supplies of land or improvements to land, applying from 17 July 2013), on 17 July 2013, by [section 131][472] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
 
 ##### 21 Adjustments for apportioned supplies
     
@@ -4358,11 +4404,11 @@ Returns and payment of tax
     
     *   (b) the person may include a group of companies.
     
-    (5) In determining the extent of percentage actual use and percentage intended use of a motor vehicle, a registered person may refer to a logbook as provided for in [sections DE 6 to DE 11][468] of the Income Tax Act 2007\.
+    (5) In determining the extent of percentage actual use and percentage intended use of a motor vehicle, a registered person may refer to a logbook as provided for in [sections DE 6 to DE 11][473] of the Income Tax Act 2007\.
     
-    Section 21: substituted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 15(1)][469] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 21: substituted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 15(1)][474] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 21(5): inserted (with effect on 1 April 2011), on 2 November 2012, by [section 216][470] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 21(5): inserted (with effect on 1 April 2011), on 2 November 2012, by [section 216][475] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
 
 ##### 21A When adjustments required
     
@@ -4374,9 +4420,9 @@ Returns and payment of tax
     
     *   (c) if a percentage difference arises and [section 21(2)(c) or (d)][51] does not apply, make an adjustment for any percentage difference for the adjustment period.
     
-    Section 21A: substituted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 15(1)][469] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 21A: substituted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 15(1)][474] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 21A(c): amended (with effect on 1 April 2011), on 2 November 2012, by [section 217][471] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 21A(c): amended (with effect on 1 April 2011), on 2 November 2012, by [section 217][476] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
 
 ##### 21B Adjustments when person or partnership becomes registered after acquiring goods and services
     
@@ -4386,7 +4432,7 @@ Returns and payment of tax
             
         *   (i) goods or services on which tax has been charged under [section 8(1)][14]:
         
-        *   (ii) goods entered by them for home consumption under the [Customs and Excise Act 1996][162] on which tax has been levied under [section 12(1)][23]:
+        *   (ii) goods entered by them for home consumption under the [Customs and Excise Act 1996][164] on which tax has been levied under [section 12(1)][23]:
         
         *   (iii) secondhand goods---
                 
@@ -4424,27 +4470,27 @@ Returns and payment of tax
     
     (5) In relation to a supply of secondhand goods, the tax fraction applying to the supply is the tax fraction that applied at the time the goods were purchased by the person.
     
-    Section 21B: substituted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 15(1)][469] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 21B: substituted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 15(1)][474] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 21B heading: amended (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 239(1)][472] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 21B heading: amended (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 239(1)][477] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 21B(1)(a): replaced (with effect on 1 April 2011), on 2 November 2012, by [section 218(1)][473] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 21B(1)(a): replaced (with effect on 1 April 2011), on 2 November 2012, by [section 218(1)][478] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 21B(1)(b): amended (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 239(2)][472] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 21B(1)(b): amended (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 239(2)][477] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 21B(2): amended (with effect on 1 April 2013, applying in relation to supplies of goods other than land or improvements to land made on or 1 April 2014; for supplies of land or improvements to land, applying from 17 July 2013), on 17 July 2013, by [section 132][474] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
+    Section 21B(2): amended (with effect on 1 April 2013, applying in relation to supplies of goods other than land or improvements to land made on or 1 April 2014; for supplies of land or improvements to land, applying from 17 July 2013), on 17 July 2013, by [section 132][479] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
-    Section 21B(2): amended (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 239(3)][472] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 21B(2): amended (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 239(3)][477] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 21B(3)(a): amended (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 239(3)][472] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 21B(3)(a): amended (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 239(3)][477] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 21B(3)(a)(ii): amended (with effect on 1 April 2011), on 2 November 2012, by [section 218(2)][473] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 21B(3)(a)(ii): amended (with effect on 1 April 2011), on 2 November 2012, by [section 218(2)][478] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 21B(3)(b): amended (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 239(3)][472] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 21B(3)(b): amended (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 239(3)][477] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 21B(4): repealed (with effect on 1 April 2011), on 2 November 2012, by [section 218(3)][473] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 21B(4): repealed (with effect on 1 April 2011), on 2 November 2012, by [section 218(3)][478] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 21B(5): inserted (with effect on 1 April 2011), on 2 November 2012, by [section 218(4)][473] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 21B(5): inserted (with effect on 1 April 2011), on 2 November 2012, by [section 218(4)][478] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
 
 ##### 21C Adjustments for first and subsequent adjustment periods
     
@@ -4460,13 +4506,13 @@ Returns and payment of tax
         
         
     
-    Section 21C: substituted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 15(1)][469] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 21C: substituted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 15(1)][474] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
 
 ##### 21CB Rate for change of use before 1 October 2010
     
 *   \[Repealed\]
     
-    Section 21CB: repealed, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 15(1)][469] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 21CB: repealed, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 15(1)][474] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
 
 ##### 21D Calculating amount of adjustment
     
@@ -4486,11 +4532,11 @@ Returns and payment of tax
     
     *   (b) if the adjustment is negative and the percentage actual taxable use is less than the person's percentage intended use or previous actual use, as applicable, the person must treat the amount as a positive amount of output tax and account for it under [section 21A][52].
     
-    Section 21D: substituted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 15(1)][469] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 21D: substituted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 15(1)][474] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 21D(3): amended (with effect on 1 April 2013, applying in relation to supplies of goods other than land or improvements to land made on or after 1 April 2014; for supplies of land or improvements to land, applying from 17 July 2013), on 17 July 2013, by [section 133(1)][475] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
+    Section 21D(3): amended (with effect on 1 April 2013, applying in relation to supplies of goods other than land or improvements to land made on or after 1 April 2014; for supplies of land or improvements to land, applying from 17 July 2013), on 17 July 2013, by [section 133(1)][480] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
-    Section 21D(3)(a): amended (with effect on 1 April 2013, applying in relation to supplies of goods other than land or improvements to land made on or after 1 April 2014; for supplies of land or improvements to land, applying from 17 July 2013), on 17 July 2013, by [section 133(2)][475] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
+    Section 21D(3)(a): amended (with effect on 1 April 2013, applying in relation to supplies of goods other than land or improvements to land made on or after 1 April 2014; for supplies of land or improvements to land, applying from 17 July 2013), on 17 July 2013, by [section 133(2)][480] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
 
 ##### 21E Concurrent uses of land
     
@@ -4538,9 +4584,9 @@ Returns and payment of tax
     
     *   (b) _total months_ is the total number of months since acquisition.
     
-    Section 21E: substituted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 15(1)][469] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 21E: substituted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 15(1)][474] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 21E(1): amended, on 2 November 2012, by [section 219][476] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 21E(1): amended, on 2 November 2012, by [section 219][481] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
 
 ##### 21F Treatment on disposal
     
@@ -4582,19 +4628,19 @@ Returns and payment of tax
     
     (7) In the formulas in subsections (2) and (4), on the disposal of the goods or services, if the supply is charged at the rate of 0%, the item **tax fraction** is treated as 15%.
     
-    Section 21F: substituted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 15(1)][469] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 21F: substituted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 15(1)][474] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 21F(3): amended (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 240(1)(a)][477] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 21F(3): amended (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 240(1)(a)][482] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 21F(3)(a): amended (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 240(1)(b)][477] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 21F(3)(a): amended (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 240(1)(b)][482] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 21F(4): added (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 240(2)][477] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 21F(4): added (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 240(2)][482] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 21F(5): added (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 240(2)][477] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 21F(5): added (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 240(2)][482] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 21F(6): added (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 240(2)][477] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 21F(6): added (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 240(2)][482] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 21F(7): added (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 240(2)][477] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 21F(7): added (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 240(2)][482] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
 
 ##### 21G Definitions and requirements for apportioned supplies and adjustment periods
     
@@ -4638,7 +4684,7 @@ Returns and payment of tax
         
         
     
-    (3) For the purposes of subsection (2)(b), a registered person who chooses under [section 38(1)][420] of the Tax Administration Act 1994 to change their balance date at some time in an income year may realign their subsequent adjustment periods with the new balance date. However, an affected adjustment period must be of at least 12 months duration and, if the new balance date causes an adjustment period to be shorter than 12 months, the relevant period is extended to the balance date of the following income year.
+    (3) For the purposes of subsection (2)(b), a registered person who chooses under [section 38(1)][424] of the Tax Administration Act 1994 to change their balance date at some time in an income year may realign their subsequent adjustment periods with the new balance date. However, an affected adjustment period must be of at least 12 months duration and, if the new balance date causes an adjustment period to be shorter than 12 months, the relevant period is extended to the balance date of the following income year.
     
     (4) The number of adjustment periods in which a registered person must determine whether an adjustment is required under [sections 20G][50] and [21A][52], as applicable, may, as the person chooses, be limited to---
         
@@ -4652,7 +4698,7 @@ Returns and payment of tax
         
         
     
-    *   (b) the relevant adjustment periods that is equal to the number of years for the estimated useful life of the relevant asset as determined under the Tax Depreciation Rates Determinations set by the Commissioner under [section 91AAF][478] of the Tax Administration Act 1994\.
+    *   (b) the relevant adjustment periods that is equal to the number of years for the estimated useful life of the relevant asset as determined under the Tax Depreciation Rates Determinations set by the Commissioner under [section 91AAF][483] of the Tax Administration Act 1994\.
     
     (5) Subsection (4) does not apply in relation to a supply of land.
     
@@ -4668,21 +4714,21 @@ Returns and payment of tax
     
     (8) If a person does not choose the number of adjustment periods for an apportioned supply, the limits set out in subsection (4)(a) apply.
     
-    Section 21G: substituted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 15(1)][469] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 21G: substituted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 15(1)][474] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 21G(1): amended (with effect on 1 April 2013, applying in relation to supplies of goods other than land or improvements to land made on or after 1 April 2014; for supplies of land or improvements to land, applying from 17 July 2013), on 17 July 2013, by [section 134(1)][479] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
+    Section 21G(1): amended (with effect on 1 April 2013, applying in relation to supplies of goods other than land or improvements to land made on or after 1 April 2014; for supplies of land or improvements to land, applying from 17 July 2013), on 17 July 2013, by [section 134(1)][484] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
-    Section 21G(2): amended (with effect on 1 April 2013, applying in relation to supplies of goods other than land or improvements to land made on or after 1 April 2014; for supplies of land or improvements to land, applying from 17 July 2013), on 17 July 2013, by [section 134(2)][479] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
+    Section 21G(2): amended (with effect on 1 April 2013, applying in relation to supplies of goods other than land or improvements to land made on or after 1 April 2014; for supplies of land or improvements to land, applying from 17 July 2013), on 17 July 2013, by [section 134(2)][484] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
-    Section 21G(4): amended (with effect on 1 April 2013, applying in relation to supplies of goods other than land or improvements to land made on or after 1 April 2014; for supplies of land or improvements to land, applying from 17 July 2013), on 17 July 2013, by [section 134(3)][479] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
+    Section 21G(4): amended (with effect on 1 April 2013, applying in relation to supplies of goods other than land or improvements to land made on or after 1 April 2014; for supplies of land or improvements to land, applying from 17 July 2013), on 17 July 2013, by [section 134(3)][484] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
-    Section 21G(7B): inserted, on 2 November 2012, by [section 220][480] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 21G(7B): inserted, on 2 November 2012, by [section 220][485] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
 
 ##### 21H Transitional accounting rules
     
 *   (1) This section applies in relation to goods or services acquired before 1 April 2011 when---
         
-    *   (a) a registered person determines the extent to which goods or services are applied for the purposes of making supplies other than taxable supplies under [sections 21 to 21H][51] (the **old apportionment rules**) as they were before the enactment of the [Taxation (GST and Remedial Matters) Act 2010][340]:
+    *   (a) a registered person determines the extent to which goods or services are applied for the purposes of making supplies other than taxable supplies under [sections 21 to 21H][51] (the **old apportionment rules**) as they were before the enactment of the [Taxation (GST and Remedial Matters) Act 2010][343]:
     
     *   (b) no adjustment was made or was required to be made under the old apportionment rules before 1 April 2011 for goods or services other than those referred to in [section 21HB][61].
     
@@ -4708,27 +4754,27 @@ Returns and payment of tax
     
     (3) Subsection (2)(a) to (c) do not apply to a supply that wholly or partly consists of land.
     
-    Section 21H: substituted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 15(1)][469] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 21H: substituted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 15(1)][474] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 21H(1): replaced (with effect on 1 April 2011), on 2 November 2012, by [section 221(1)][481] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 21H(1): replaced (with effect on 1 April 2011), on 2 November 2012, by [section 221(1)][486] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 21H(2B): inserted (with effect on 1 April 2011), on 2 November 2012, by [section 221(2)][481] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 21H(2B): inserted (with effect on 1 April 2011), on 2 November 2012, by [section 221(2)][486] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 21H(2C): inserted (with effect on 1 April 2011), on 2 November 2012, by [section 221(2)][481] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 21H(2C): inserted (with effect on 1 April 2011), on 2 November 2012, by [section 221(2)][486] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
 
 ##### 21HB Transitional rule related to treatment of dwellings
     
-*   (1) This section applies when goods or services acquired or produced before 1 April 2011 were not acquired or produced for the principal purpose of making taxable supplies but, because of the changes made by [section 4(3) and (4)][194] of the Taxation (GST and Remedial Matters) Act 2010 to the definitions of _commercial dwelling_ and _dwelling_, the goods or services are treated from 1 April 2011 as being used for making taxable supplies. For the purposes of this section, the person must be a person registered under [section 51(1)][105] before or after 1 April 2011\.
+*   (1) This section applies when goods or services acquired or produced before 1 April 2011 were not acquired or produced for the principal purpose of making taxable supplies but, because of the changes made by [section 4(3) and (4)][196] of the Taxation (GST and Remedial Matters) Act 2010 to the definitions of _commercial dwelling_ and _dwelling_, the goods or services are treated from 1 April 2011 as being used for making taxable supplies. For the purposes of this section, the person must be a person registered under [section 51(1)][105] before or after 1 April 2011\.
     
     (2) Input tax in relation to the acquisition referred to in subsection (3) may be deducted under [section 20(3C)][43] to the extent to which a deduction has not been made under the old apportionment rules.
     
     (3) The person must treat the goods or services as acquired on 1 April 2011 at the original cost of the supply.
     
-    Section 21HB: inserted (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 241(1)][482] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 21HB: inserted (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 241(1)][487] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
 
 ##### 21I Fringe benefits and entertainment expenses
     
-*   (1) If a registered person has or is deemed to have provided or granted a fringe benefit to another person under the FBT rules of the [Income Tax Act 2007][321], the providing or granting of the fringe benefit is treated as being a supply of goods and services made by the registered person in the course or furtherance of their taxable activity.
+*   (1) If a registered person has or is deemed to have provided or granted a fringe benefit to another person under the FBT rules of the [Income Tax Act 2007][323], the providing or granting of the fringe benefit is treated as being a supply of goods and services made by the registered person in the course or furtherance of their taxable activity.
     
     (2) Subsection (1) does not apply to the extent that---
         
@@ -4742,15 +4788,15 @@ Returns and payment of tax
     
     (3) Despite [sections 9][16] and [21C][54], the supply of goods and services is treated as taking place at the time the fringe benefit is or is deemed to be provided or granted.
     
-    (4) If [sections DD 1 to DD 3][483] of the Income Tax Act 2007 apply to limit the deduction under that Act for expenditure or loss (including depreciation loss) that a registered person is allowed in the course of or furtherance of a taxable activity with respect to entertainment, as described by [section DD 2][484] of that Act,---
+    (4) If [sections DD 1 to DD 3][488] of the Income Tax Act 2007 apply to limit the deduction under that Act for expenditure or loss (including depreciation loss) that a registered person is allowed in the course of or furtherance of a taxable activity with respect to entertainment, as described by [section DD 2][489] of that Act,---
         
-    *   (a) the registered person is treated as having supplied entertainment for a consideration in money equal to the amount of the deduction prevented by [sections DD 1][483] and [DD 2][484] of that Act; and
+    *   (a) the registered person is treated as having supplied entertainment for a consideration in money equal to the amount of the deduction prevented by [sections DD 1][488] and [DD 2][489] of that Act; and
     
     *   (b) unless subsection (4B) applies, the time of the supply is treated as being the earlier of---
             
-        *   (i) the date on which the person furnishes a return of income under [section 37][485] of the Tax Administration Act 1994 for the tax year for which the deduction is allowed; and
+        *   (i) the date on which the person furnishes a return of income under [section 37][490] of the Tax Administration Act 1994 for the tax year for which the deduction is allowed; and
         
-        *   (ii) the date by which the person must furnish a return of income under [section 37][485] of the Tax Administration Act 1994 for the tax year for which the deduction is allowed.
+        *   (ii) the date by which the person must furnish a return of income under [section 37][490] of the Tax Administration Act 1994 for the tax year for which the deduction is allowed.
         
         
     
@@ -4760,27 +4806,27 @@ Returns and payment of tax
     
     *   (b) the registered person chooses to apply this section.
     
-    (5) For the purpose of subsection (4), expenditure does not include an entertainment allowance to an employee or a reimbursing payment that is exempt income under [section CW 17][486], [CW 17B][487], [CW 17C][488], or [CW 18][489] of the Income Tax Act 2007\.
+    (5) For the purpose of subsection (4), expenditure does not include an entertainment allowance to an employee or a reimbursing payment that is exempt income under [section CW 17][491], [CW 17B][492], [CW 17C][493], or [CW 18][494] of the Income Tax Act 2007\.
     
-    Section 21I: inserted, on 10 October 2000 (applying to goods and services treated as being supplied on and after 10 October 2000), by [section 100(1)][490] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 21I: inserted, on 10 October 2000 (applying to goods and services treated as being supplied on and after 10 October 2000), by [section 100(1)][495] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 21I(1): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][203] of the Income Tax Act 2007 (2007 No 97).
+    Section 21I(1): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][205] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 21I(2)(c): amended, on 1 July 2003, by [section 158][491] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 21I(2)(c): amended, on 1 July 2003, by [section 158][496] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 21I(3): substituted, on 27 March 2001, by [section 68(1)][492] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
+    Section 21I(3): substituted, on 27 March 2001, by [section 68(1)][497] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
     
-    Section 21I(4): substituted, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][228] of the Income Tax Act 2004 (2004 No 35).
+    Section 21I(4): substituted, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][230] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 21I(4): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][203] of the Income Tax Act 2007 (2007 No 97).
+    Section 21I(4): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][205] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 21I(4)(b): amended, on 20 May 2010, by [section 50(1)][493] of the Taxation (Budget Measures) Act 2010 (2010 No 27).
+    Section 21I(4)(b): amended, on 20 May 2010, by [section 50(1)][498] of the Taxation (Budget Measures) Act 2010 (2010 No 27).
     
-    Section 21I(4B): inserted, on 20 May 2010, by [section 50(2)][493] of the Taxation (Budget Measures) Act 2010 (2010 No 27).
+    Section 21I(4B): inserted, on 20 May 2010, by [section 50(2)][498] of the Taxation (Budget Measures) Act 2010 (2010 No 27).
     
-    Section 21I(5): amended (with effect on 1 April 2005), on 6 October 2009, by [section 712][494] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 21I(5): amended (with effect on 1 April 2005), on 6 October 2009, by [section 712][499] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 21I(5): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][203] of the Income Tax Act 2007 (2007 No 97).
+    Section 21I(5): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][205] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 22 Goods and services acquired before incorporation
     
@@ -4800,7 +4846,7 @@ Returns and payment of tax
     
     *   (e) the company does not hold sufficient records to establish the particulars relating to the deduction to be made.
     
-    Section 22: amended, on 1 October 1996, by [section 289(1)][164] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 22: amended, on 1 October 1996, by [section 289(1)][166] of the Customs and Excise Act 1996 (1996 No 27).
 
 ##### 23 Payment of tax
     
@@ -4812,23 +4858,23 @@ Returns and payment of tax
     
     (4) A return purporting to be made by or on behalf of any person shall for all purposes be deemed to have been made by that person or by that person's authority, as the case may be, unless the contrary is proved.
     
-    Section 23(2): repealed, on 10 October 2000 (applying on 10 October 2000), by [section 101(1)][495] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 23(2): repealed, on 10 October 2000 (applying on 10 October 2000), by [section 101(1)][500] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 23(3): repealed, on 21 December 2004 (applying for taxable periods beginning on or after 1 April 2005), by [section 153(1)][496] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 23(3): repealed, on 21 December 2004 (applying for taxable periods beginning on or after 1 April 2005), by [section 153(1)][501] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
 
 ##### 23A Payment of tax relating to fringe benefits
     
-*   (1) A registered person who provides or grants a fringe benefit to another person under the [Income Tax Act 2007][321] must pay the tax on the taxable value of the fringe benefit in the person's FBT return by the time specified in [sections RA 15][497], and [RD 59 to RD 62][498] of the Income Tax Act 2007 and [sections 46B to 46D][499] of the Tax Administration Act 1994 as is appropriate.
+*   (1) A registered person who provides or grants a fringe benefit to another person under the [Income Tax Act 2007][323] must pay the tax on the taxable value of the fringe benefit in the person's FBT return by the time specified in [sections RA 15][502], and [RD 59 to RD 62][503] of the Income Tax Act 2007 and [sections 46B to 46D][504] of the Tax Administration Act 1994 as is appropriate.
     
-    (2) Payment of the tax on the taxable value of the fringe benefit is treated as a payment of FBT for the purposes of filing the fringe benefit return and [Parts 4A][500], [6][501], [7][190], [9][502], [10][503] and [11][504] of the Tax Administration Act 1994\.
+    (2) Payment of the tax on the taxable value of the fringe benefit is treated as a payment of FBT for the purposes of filing the fringe benefit return and [Parts 4A][505], [6][506], [7][192], [9][507], [10][508] and [11][509] of the Tax Administration Act 1994\.
     
-    Section 23A: inserted, on 27 March 2001, by [section 69(1)][505] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
+    Section 23A: inserted, on 27 March 2001, by [section 69(1)][510] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
     
-    Section 23A(1): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][203] of the Income Tax Act 2007 (2007 No 97).
+    Section 23A(1): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][205] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 23A(2): added, on 17 October 2002, by [section 105(1)][506] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 23A(2): added, on 17 October 2002, by [section 105(1)][511] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
-    Section 23A(2): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][203] of the Income Tax Act 2007 (2007 No 97).
+    Section 23A(2): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][205] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 24 Tax invoices
     
@@ -4916,7 +4962,7 @@ Returns and payment of tax
     
     provided that this subsection shall not require that recipient to keep such records where the consideration in money for that supply does not exceed $50 (or such greater amount as the Governor-General may, from time to time, by Order in Council declare).
     
-    (7B) Despite subsections (1) and (3), if a tax invoice is not available in relation to a supply of goods to which [section 60B(3), (4), and (6)][118] apply, the nominated person must maintain sufficient records to enable the following particulars to be ascertained:
+    (7B) Despite subsections (1) and (3), if a tax invoice is not available in relation to a supply of goods to which [section 60B(3), (4), and (6)][120] apply, the nominated person must maintain sufficient records to enable the following particulars to be ascertained:
         
     *   (a) the name and address of the supplier; and
     
@@ -4950,17 +4996,17 @@ Returns and payment of tax
     
     Section 24(2A): inserted, on 19 December 1989, by section 11(3) of the Goods and Services Tax Amendment Act (No 2) 1989 (1989 No 152).
     
-    Section 24(2B): substituted, on 23 September 1997, by [section 112][507] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 24(2B): substituted, on 23 September 1997, by [section 112][512] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
     Section 24(3)(b): amended (with effect on 3 December 1985), on 8 August 1986, by section 19(1)(a) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
     Section 24(3)(d): amended (with effect on 3 December 1985), on 8 August 1986, by section 19(1)(b) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 24(4): amended, on 10 October 2000 (applying on and after 1 October 2000), by [section 102(1)][508] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 24(4): amended, on 10 October 2000 (applying on and after 1 October 2000), by [section 102(1)][513] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 24(4) proviso: amended, on 1 July 2003, by [section 159][509] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 24(4) proviso: amended, on 1 July 2003, by [section 159][514] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 24(4) proviso: amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 102(2)][508] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 24(4) proviso: amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 102(2)][513] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
     Section 24(5): amended, on 8 August 1990 (applying with respect to taxable supplies made on or after 1 October 1990), by section 7(1)(b) of the Goods and Services Tax Amendment Act (No 2) 1990 (1990 No 93).
     
@@ -4974,9 +5020,9 @@ Returns and payment of tax
     
     Section 24(7) proviso: amended, on 28 September 1993 (applying with respect to supplies of secondhand goods made on or after 28 September 1993), by section 3(1) of the Goods and Services Tax Amendment Act (No 2) 1993 (1993 No 131).
     
-    Section 24(7B): inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 16(1)][510] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 24(7B): inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 16(1)][515] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 24(7B): amended (with effect on 1 April 2011), on 2 November 2012, by [section 222][511] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 24(7B): amended (with effect on 1 April 2011), on 2 November 2012, by [section 222][516] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
     Section 24(8): added (with effect on 3 December 1985), on 8 August 1986, by section 19(5) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
@@ -5016,15 +5062,15 @@ Returns and payment of tax
         
     *   (a) the supplier responsible for issuing the invoice, unless paragraph (b) applies:
     
-    *   (b) the representative member of a group of companies for the purposes of [section 55][111]
+    *   (b) the representative member of a group of companies for the purposes of [section 55][113]
     
     _shared invoice_ means a single invoice for goods and services (other than goods deemed to be supplied pursuant to [section 5(2)][9]) supplied by 2 or more suppliers, if the suppliers use a single invoice because they---
         
     *   (a) have statutory obligations which make it practical to use a single invoice:
     
-    *   (b) are part of the same group of companies for the purposes of [section 55][111].
+    *   (b) are part of the same group of companies for the purposes of [section 55][113].
     
-    Section 24BA: inserted, on 19 December 2007, by [section 277][512] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 24BA: inserted, on 19 December 2007, by [section 277][517] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
 
 ##### 24B Records to be kept by recipient of imported services
     
@@ -5044,7 +5090,7 @@ Returns and payment of tax
     
     *   (g) the amount of the consideration for the supply that the registered person has treated as not affecting the value of the supply in reliance on [section 10(15C)(b)][17].
     
-    Section 24B: inserted, on 1 January 2005, by [section 158][513] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 24B: inserted, on 1 January 2005, by [section 158][518] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
 
 ##### 25 Credit and debit notes
     
@@ -5172,11 +5218,11 @@ Returns and payment of tax
     
     Section 25(1)(aa): inserted (with effect on 3 December 1985), on 8 August 1986, by section 20(1) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 25(1)(ab): inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 17(1)][514] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 25(1)(ab): inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 17(1)][519] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 25(2)(a): amended, on 21 June 2005, by [section 157][515] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
+    Section 25(2)(a): amended, on 21 June 2005, by [section 157][520] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
     
-    Section 25(2)(b): amended, on 25 November 2003, by [section 159(1)][516] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 25(2)(b): amended, on 25 November 2003, by [section 159(1)][521] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
     Section 25(3)(a)(ii): amended, on 24 March 1988 (applying to supplies made on or after 24 March 1988), by section 12 of the Goods and Services Tax Amendment Act 1988 (1988 No 7).
     
@@ -5196,7 +5242,7 @@ Returns and payment of tax
     
     Section 25(3)(e): amended (with effect on 3 December 1985), on 8 August 1986, by section 20(6) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 25(3)(f): added, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 17(2)][514] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 25(3)(f): added, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 17(2)][519] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
     Section 25(3A): inserted (with effect on 3 December 1985), on 8 August 1986, by section 20(7) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
@@ -5206,7 +5252,7 @@ Returns and payment of tax
     
     Section 25(4): substituted (with effect on 3 December 1985), on 8 August 1986, by section 20(8) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 25(5): amended, on 25 November 2003, by [section 159(2)][516] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 25(5): amended, on 25 November 2003, by [section 159(2)][521] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
     Section 25(5): amended (with effect on 3 December 1985), on 8 August 1986, by section 20(9) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
@@ -5242,7 +5288,7 @@ Returns and payment of tax
     
     *   (b) more than the deduction actually claimed by the person, the amount of the excess is a deduction under [section 20(3)][43] for the person.
     
-    Section 25AA: inserted, on 1 January 2005, by [section 160][517] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 25AA: inserted, on 1 January 2005, by [section 160][522] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
 
 ##### 25A Commissioner may approve use of symbols, etc, on electronically transmitted invoices and credit and debit notes
     
@@ -5278,7 +5324,7 @@ Returns and payment of tax
     
     (1A) Where a registered person has, in respect of the supply by that registered person of any contract of insurance (being a supply charged with tax pursuant to [section 8(1)][14]),---
         
-    *   (a) paid any amount to the Earthquake and War Damage Commission pursuant to the Earthquake and War Damage Act 1944 or to the Fire Service Commission pursuant to the [Fire Service Act 1975][518]; and
+    *   (a) paid any amount to the Earthquake and War Damage Commission pursuant to the Earthquake and War Damage Act 1944 or to the Fire Service Commission pursuant to the [Fire Service Act 1975][523]; and
     
     *   (b) sought to recover that amount, together with the consideration for that supply, from the recipient of that supply; and
     
@@ -5288,21 +5334,21 @@ Returns and payment of tax
     
     (2) Where any amount in respect of which a deduction has been made in accordance with subsection (1) is at any time wholly or partly recovered by the registered person, that portion of the amount of the deduction allowable under subsection (1) as the amount of the bad debt recovered bears to the bad debt written off shall be deemed to be the tax charged in relation to a taxable supply made during the taxable period in which the bad debt is wholly or partly recovered.
     
-    (3) This section does not apply when the taxable supply is one made by a principal to an agent as described in [section 60(1B)(a)][117] if the agent has been paid for the supply described in section 60(1B)(b).
+    (3) This section does not apply when the taxable supply is one made by a principal to an agent as described in [section 60(1B)(a)][119] if the agent has been paid for the supply described in section 60(1B)(b).
     
     Section 26(1): amended (with effect on 3 December 1985), on 8 August 1986, by section 21(1) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 26(1) first proviso: amended, on 1 April 2005, by [section 139][202] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
+    Section 26(1) first proviso: amended, on 1 April 2005, by [section 139][204] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
     
-    Section 26(1) second proviso: repealed, on 10 October 2000 (applying on 10 October 2000), by [section 103(1)][519] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 26(1) second proviso: repealed, on 10 October 2000 (applying on 10 October 2000), by [section 103(1)][524] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 26(1AA): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 103(2)][519] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 26(1AA): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 103(2)][524] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 26(1AB): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 103(2)][519] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 26(1AB): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 103(2)][524] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
     Section 26(1A): inserted (with effect on 3 December 1985), on 8 August 1986, by section 21(3) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 26(3): inserted, on 17 July 2013, by [section 135][520] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
+    Section 26(3): inserted, on 17 July 2013, by [section 135][525] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
 
 ##### 26A Factored debts
     
@@ -5318,111 +5364,111 @@ Returns and payment of tax
     
     *   (b) on which the amount of tax charged is the tax fraction of the remaining book value of the debt.
     
-    Section 26A: substituted, on 21 June 2005, by [section 158][521] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
+    Section 26A: substituted, on 21 June 2005, by [section 158][526] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
 
 ## Part 4  
 Assessment of tax
 
 \[Repealed\]
     
-*   Part 4: repealed, on 21 December 2004 (applying for taxable periods beginning on or after 1 April 2005), by [section 154(1)][522] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+*   Part 4: repealed, on 21 December 2004 (applying for taxable periods beginning on or after 1 April 2005), by [section 154(1)][527] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
 
 ##### 27 Assessment of tax
     
 *   \[Repealed\]
     
-    Section 27: repealed, on 21 December 2004 (applying for taxable periods beginning on or after 1 April 2005), by [section 154(1)][522] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 27: repealed, on 21 December 2004 (applying for taxable periods beginning on or after 1 April 2005), by [section 154(1)][527] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
 
 ##### 28 Validity of assessments not affected by failure to comply with Act
     
 *   \[Repealed\]
     
-    Section 28: repealed, on 21 December 2004 (applying for taxable periods beginning on or after 1 April 2005), by [section 154(1)][522] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 28: repealed, on 21 December 2004 (applying for taxable periods beginning on or after 1 April 2005), by [section 154(1)][527] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
 
 ##### 29 Assessments deemed correct except in proceedings on objection
     
 *   \[Repealed\]
     
-    Section 29: repealed, on 21 December 2004 (applying for taxable periods beginning on or after 1 April 2005), by [section 154(1)][522] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 29: repealed, on 21 December 2004 (applying for taxable periods beginning on or after 1 April 2005), by [section 154(1)][527] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
 
 ##### 30 Evidence of returns and assessments
     
 *   \[Repealed\]
     
-    Section 30: repealed, on 21 December 2004 (applying for taxable periods beginning on or after 1 April 2005), by [section 154(1)][522] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 30: repealed, on 21 December 2004 (applying for taxable periods beginning on or after 1 April 2005), by [section 154(1)][527] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
 
 ##### 31 Application of Parts 4A and 8A of Tax Administration Act 1994
     
 *   \[Repealed\]
     
-    Section 31: repealed, on 21 December 2004 (applying for taxable periods beginning on or after 1 April 2005), by [section 154(1)][522] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 31: repealed, on 21 December 2004 (applying for taxable periods beginning on or after 1 April 2005), by [section 154(1)][527] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
 
 ## Part 5  
 Objections
 
 \[Repealed\]
     
-*   Part 5: repealed, on 1 October 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 8(1)][523] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+*   Part 5: repealed, on 1 October 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 8(1)][528] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
 
 ##### 32 Objections to certain decisions
     
 *   \[Repealed\]
     
-    Section 32: repealed, on 1 October 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 8(1)][523] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 32: repealed, on 1 October 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 8(1)][528] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
 
 ##### 33 Objections to assessments
     
 *   \[Repealed\]
     
-    Section 33: repealed, on 1 October 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 8(1)][523] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 33: repealed, on 1 October 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 8(1)][528] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
 
 ##### 34 Commissioner may amend assessment, or objections may be submitted to Taxation Review Authority
     
 *   \[Repealed\]
     
-    Section 34: repealed, on 1 October 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 8(1)][523] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 34: repealed, on 1 October 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 8(1)][528] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
 
 ##### 35 Powers of Taxation Review Authority on determination of objection or case stated
     
 *   \[Repealed\]
     
-    Section 35: repealed, on 1 October 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 8(1)][523] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 35: repealed, on 1 October 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 8(1)][528] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
 
 ##### 36 When objection may be referred in first instance to High Court
     
 *   \[Repealed\]
     
-    Section 36: repealed, on 1 October 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 8(1)][523] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 36: repealed, on 1 October 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 8(1)][528] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
 
 ##### 36A Test case procedure
     
 *   \[Repealed\]
     
-    Section 36A: repealed, on 1 October 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 8(1)][523] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 36A: repealed, on 1 October 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 8(1)][528] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
 
 ##### 37 Obligation to pay tax where objection lodged
     
 *   \[Repealed\]
     
-    Section 37: repealed, on 1 October 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 8(1)][523] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 37: repealed, on 1 October 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 8(1)][528] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
 
 ##### 38 Interest on certain excess tax
     
 *   \[Repealed\]
     
-    Section 38: repealed, on 1 October 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 8(1)][523] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 38: repealed, on 1 October 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 8(1)][528] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
 
 ##### 39 Determination of objection not to affect other assessments or decisions
     
 *   \[Repealed\]
     
-    Section 39: repealed, on 1 October 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 8(1)][523] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 39: repealed, on 1 October 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 8(1)][528] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
 
 ##### 40 Objections to which this Part does not apply
     
 *   \[Repealed\]
     
-    Section 40: repealed, on 1 October 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 8(1)][523] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 40: repealed, on 1 October 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 8(1)][528] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
 
 ## Part 6  
 Recovery of tax
@@ -5431,7 +5477,7 @@ Recovery of tax
     
 *   \[Repealed\]
     
-    Section 41: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 9(1)][524] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 41: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 9(1)][529] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
 
 ##### 42 Recovery of tax
     
@@ -5441,9 +5487,9 @@ Recovery of tax
         
     *   (a) where the person is an individual, whether or not a member of an unincorporated body, upon that person's bankruptcy or upon that person making an assignment for the benefit of that person's creditors, the amount of the tax payable shall rank without limitation in amount, in order of priority immediately after preferential claims for wages or other sums payable to or on account of any servant or worker or apprentice or articled clerk, and in priority to all other claims:
     
-    *   (b) where the person is a company, upon the liquidation of the company, the amount of the tax payable shall have the ranking provided for in [Schedule 7][525] of the Companies Act 1993 (whether or not the company has been incorporated or registered under that Act):
+    *   (b) where the person is a company, upon the liquidation of the company, the amount of the tax payable shall have the ranking provided for in [Schedule 7][530] of the Companies Act 1993 (whether or not the company has been incorporated or registered under that Act):
     
-    *   (ba) where the person is a company, upon the appointment of a receiver on behalf of the holder of any debenture given by the company secured by a charge over any property of the company or upon possession being taken on behalf of the debenture holder of the property, the amount of the tax payable shall have the ranking provided for in [Schedule 7][525] of the Companies Act 1993 (whether or not the company has been incorporated or registered under that Act), as if the receiver or person taking possession were a liquidator:
+    *   (ba) where the person is a company, upon the appointment of a receiver on behalf of the holder of any debenture given by the company secured by a charge over any property of the company or upon possession being taken on behalf of the debenture holder of the property, the amount of the tax payable shall have the ranking provided for in [Schedule 7][530] of the Companies Act 1993 (whether or not the company has been incorporated or registered under that Act), as if the receiver or person taking possession were a liquidator:
     
     *   (c) if a person is an unincorporated body, on the appointment of a receiver on behalf of any person, the amount of tax payable---
             
@@ -5453,9 +5499,9 @@ Recovery of tax
                 
             *   (A) is over all or any part of the unincorporated body's accounts receivable and inventory or all or any part of either of them; and
             
-            *   (B) is not a purchase money security interest that has been perfected at the time specified in [section 74][526] of the Personal Property Securities Act 1999; and
+            *   (B) is not a purchase money security interest that has been perfected at the time specified in [section 74][531] of the Personal Property Securities Act 1999; and
             
-            *   (C) is not a security interest that has been perfected under the [Personal Property Securities Act 1999][527] at the time of the receiver's appointment and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation); and
+            *   (C) is not a security interest that has been perfected under the [Personal Property Securities Act 1999][532] at the time of the receiver's appointment and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation); and
             
             
         
@@ -5465,27 +5511,27 @@ Recovery of tax
     
     (3) This section shall apply notwithstanding anything in any other Act.
     
-    (4) In subsection (2)(c), the terms _account receivable_, _inventory_, _new value_, _proceeds_, _purchase money security interest_, and _security interest_ have the same meanings as in the [Personal Property Securities Act 1999][527].
+    (4) In subsection (2)(c), the terms _account receivable_, _inventory_, _new value_, _proceeds_, _purchase money security interest_, and _security interest_ have the same meanings as in the [Personal Property Securities Act 1999][532].
     
-    (5) The provisions of this section, as in force immediately before the commencement of the [Personal Property Securities Act 1999][527], continue to apply in respect of a person that is a body or an unincorporated body whose property was subject to a floating charge that, before the commencement of that Act, became a fixed or specific charge.
+    (5) The provisions of this section, as in force immediately before the commencement of the [Personal Property Securities Act 1999][532], continue to apply in respect of a person that is a body or an unincorporated body whose property was subject to a floating charge that, before the commencement of that Act, became a fixed or specific charge.
     
     Section 42(2): amended, on 30 March 1995, by section 3(5) of the Customs Amendment Act 1995 (1995 No 7).
     
-    Section 42(2)(a): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 106(1)][528] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 42(2)(a): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 106(1)][533] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 42(2)(b): substituted (with effect on 1 July 1994), on 14 September 1994, by [section 5][529] of the Goods and Services Tax Amendment Act 1994 (1994 No 77).
+    Section 42(2)(b): substituted (with effect on 1 July 1994), on 14 September 1994, by [section 5][534] of the Goods and Services Tax Amendment Act 1994 (1994 No 77).
     
-    Section 42(2)(ba): inserted (with effect on 1 July 1994), on 14 September 1994, by [section 5][529] of the Goods and Services Tax Amendment Act 1994 (1994 No 77).
+    Section 42(2)(ba): inserted (with effect on 1 July 1994), on 14 September 1994, by [section 5][534] of the Goods and Services Tax Amendment Act 1994 (1994 No 77).
     
-    Section 42(2)(c): substituted, on 1 May 2002, by [section 191(1)][530] of the Personal Property Securities Act 1999 (1999 No 126).
+    Section 42(2)(c): substituted, on 1 May 2002, by [section 191(1)][535] of the Personal Property Securities Act 1999 (1999 No 126).
     
-    Section 42(2)(c)(ii)(B): amended, on 3 December 2007, by [section 445][531] of the Insolvency Act 2006 (2006 No 55).
+    Section 42(2)(c)(ii)(B): amended, on 3 December 2007, by [section 445][536] of the Insolvency Act 2006 (2006 No 55).
     
-    Section 42(2)(c)(ii)(C): amended, on 3 December 2007, by [section 445][531] of the Insolvency Act 2006 (2006 No 55).
+    Section 42(2)(c)(ii)(C): amended, on 3 December 2007, by [section 445][536] of the Insolvency Act 2006 (2006 No 55).
     
-    Section 42(4): substituted, on 1 May 2002, by [section 191(1)][530] of the Personal Property Securities Act 1999 (1999 No 126).
+    Section 42(4): substituted, on 1 May 2002, by [section 191(1)][535] of the Personal Property Securities Act 1999 (1999 No 126).
     
-    Section 42(5): added, on 1 May 2002, by [section 191(1)][530] of the Personal Property Securities Act 1999 (1999 No 126).
+    Section 42(5): added, on 1 May 2002, by [section 191(1)][535] of the Personal Property Securities Act 1999 (1999 No 126).
 
 ##### 43 Deduction of tax from payment due to defaulters
     
@@ -5511,11 +5557,11 @@ Recovery of tax
         
     *   (d) a Home Layby Account within the meaning of the Post Office Act 1959; or
     
-    *   (e) a Home Ownership Account within the meaning of the [Home Ownership Savings Act 1974][532]; or
+    *   (e) a Home Ownership Account within the meaning of the [Home Ownership Savings Act 1974][537]; or
     
-    *   (f) a Farm Ownership Account within the meaning of the [Farm Ownership Savings Act 1974][533]; or
+    *   (f) a Farm Ownership Account within the meaning of the [Farm Ownership Savings Act 1974][538]; or
     
-    *   (g) a Fishing Vessel Ownership Account within the meaning of the [Fishing Vessel Ownership Savings Act 1977][534]
+    *   (g) a Fishing Vessel Ownership Account within the meaning of the [Fishing Vessel Ownership Savings Act 1977][539]
     
     _bank_ means---
         
@@ -5525,7 +5571,7 @@ Recovery of tax
     
     *   (c) \[Repealed\]
     
-    *   (d) any building society registered under the [Building Societies Act 1965][535], in respect of any deposits with the building society:
+    *   (d) any building society registered under the [Building Societies Act 1965][540], in respect of any deposits with the building society:
     
     *   (e) any person (not being a person of any of the kinds referred to in paragraphs (a) to (d)) that is a bank within the meaning of the Banking Act 1982\.
     
@@ -5535,9 +5581,9 @@ Recovery of tax
     
     *   (b) can be withdrawn from the account by or on behalf of the registered person without a signature or other authorisation being required at the time of the withdrawal from, or on behalf of, the other person or persons.
     
-    (1C) Subsection (1B) does not apply when the joint bank account is an account of a partnership that files a return of income under [section 33(1)][188] of the Tax Administration Act 1994\.
+    (1C) Subsection (1B) does not apply when the joint bank account is an account of a partnership that files a return of income under [section 33(1)][190] of the Tax Administration Act 1994\.
     
-    (2) Where any registered person has made default in the payment to the Commissioner of any tax or interest or late payment penalty or shortfall penalty payable by the registered person under this Act or the [Tax Administration Act 1994][161], or any part of any such interest or tax or penalty, (collectively referred to in this section as **unpaid tax**), the Commissioner may from time to time by notice in writing require any person to---
+    (2) Where any registered person has made default in the payment to the Commissioner of any tax or interest or late payment penalty or shortfall penalty payable by the registered person under this Act or the [Tax Administration Act 1994][163], or any part of any such interest or tax or penalty, (collectively referred to in this section as **unpaid tax**), the Commissioner may from time to time by notice in writing require any person to---
         
     *   (a) deduct or extract, in one sum, from any amount that is, or becomes, an amount payable in relation to that registered person such sum as is equal to the lesser of---
             
@@ -5575,7 +5621,7 @@ Recovery of tax
     
     (4) Any notice under this section may be at any time revoked by the Commissioner by a subsequent notice to the person to whom the original notice was given (in this section referred to as **the debtor**), and shall be so revoked at the request of the registered person at any time when the Commissioner is satisfied that all unpaid tax then due and payable by the registered person has been paid.
     
-    (5) A copy of every notice given, under subsection (2) or subsection (4), to any person in respect of any unpaid tax shall be given forthwith by the Commissioner to the registered person; and, for the purposes of [section 17][536] of the Tax Administration Act 1994, every such copy shall be deemed to be a notice required by this Act to be given by the Commissioner to the registered person.
+    (5) A copy of every notice given, under subsection (2) or subsection (4), to any person in respect of any unpaid tax shall be given forthwith by the Commissioner to the registered person; and, for the purposes of [section 17][541] of the Tax Administration Act 1994, every such copy shall be deemed to be a notice required by this Act to be given by the Commissioner to the registered person.
     
     (6) Whenever, pursuant to a notice under this section, any deduction or extraction is made from any amount payable to any registered person, that registered person shall be entitled to receive from the debtor a statement in writing of the fact of the deduction or extraction and of the purpose for which it was made.
     
@@ -5597,21 +5643,21 @@ Recovery of tax
     
     any amount is, or becomes, an amount payable in relation to the registered person, that amount or, as the case may be, the aggregate of all such amounts shall, until the expiry of that period and to the extent of an amount that is equal to the amount of the sum that, in compliance with the notice, is required to be deducted or extracted, be deemed to be an amount held in trust for the Crown and, without prejudice to any other remedies against the debtor or any person, shall, if the deduction or extraction required to be made therefrom pursuant to the notice is not so made, be recoverable in the same manner in all respects as if it were tax payable by the debtor.
     
-    Section 43(1) **bank** paragraph (a): repealed (with effect on 1 July 1994), on 14 September 1994, by [section 6][537] of the Goods and Services Tax Amendment Act 1994 (1994 No 77).
+    Section 43(1) **bank** paragraph (a): repealed (with effect on 1 July 1994), on 14 September 1994, by [section 6][542] of the Goods and Services Tax Amendment Act 1994 (1994 No 77).
     
-    Section 43(1) **bank** paragraph (b): repealed (with effect on 1 July 1994), on 14 September 1994, by [section 6][537] of the Goods and Services Tax Amendment Act 1994 (1994 No 77).
+    Section 43(1) **bank** paragraph (b): repealed (with effect on 1 July 1994), on 14 September 1994, by [section 6][542] of the Goods and Services Tax Amendment Act 1994 (1994 No 77).
     
-    Section 43(1) **bank** paragraph (c): repealed (with effect on 1 July 1994), on 14 September 1994, by [section 6][537] of the Goods and Services Tax Amendment Act 1994 (1994 No 77).
+    Section 43(1) **bank** paragraph (c): repealed (with effect on 1 July 1994), on 14 September 1994, by [section 6][542] of the Goods and Services Tax Amendment Act 1994 (1994 No 77).
     
-    Section 43(1B): inserted, on 21 December 2010, by [section 18][538] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 43(1B): inserted, on 21 December 2010, by [section 18][543] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 43(1C): inserted, on 21 December 2010, by [section 18][538] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 43(1C): inserted, on 21 December 2010, by [section 18][543] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 43(2): amended, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 10][539] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 43(2): amended, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 10][544] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
     
-    Section 43(2A): inserted (with effect on 1 April 1997), on 23 September 1997, by [section 114(1)][540] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 43(2A): inserted (with effect on 1 April 1997), on 23 September 1997, by [section 114(1)][545] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
-    Section 43(2B): inserted (with effect on 1 April 1997), on 23 September 1997, by [section 114(1)][540] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 43(2B): inserted (with effect on 1 April 1997), on 23 September 1997, by [section 114(1)][545] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
     Section 43(5): amended, on 1 April 1995 (applying with respect to the tax on income derived in 1995--96 and subsequent income years), by section YB 1 of the Income Tax Act 1994 (1994 No 164).
 
@@ -5619,18 +5665,18 @@ Recovery of tax
     
 *   \[Repealed\]
     
-    Section 44: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 11][541] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 44: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 11][546] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
 
 ## Part 7  
 Refunds and relief from tax
 
 ##### 45 Refund of excess tax
     
-*   (1) Subject to this Part, and to [Part 11][504] of the Tax Administration Act 1994, the Commissioner must refund an amount that a person has paid as tax if---
+*   (1) Subject to this Part, and to [Part 11][509] of the Tax Administration Act 1994, the Commissioner must refund an amount that a person has paid as tax if---
         
     *   (a) the Commissioner is satisfied that the amount represents an excess over the amount properly payable for a taxable period; and
     
-    *   (b) the 4-year period referred to in [section 108A][542] of the Tax Administration Act 1994 has not ended.
+    *   (b) the 4-year period referred to in [section 108A][547] of the Tax Administration Act 1994 has not ended.
     
     (2) Despite [section 20(5)][43], the Commissioner must refund an amount that a person has paid as tax if---
         
@@ -5662,25 +5708,25 @@ Refunds and relief from tax
         
         
     
-    Section 45: substituted, on 21 December 2004 (applying for taxable periods beginning on or after 1 April 2005), by [section 155(1)][543] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 45: substituted, on 21 December 2004 (applying for taxable periods beginning on or after 1 April 2005), by [section 155(1)][548] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
-    Section 45(1)(a): amended (with effect on 21 December 2004), on 21 June 2005 (applying for taxable periods beginning on or after 1 April 2005), by [section 159(1)][544] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
+    Section 45(1)(a): amended (with effect on 21 December 2004), on 21 June 2005 (applying for taxable periods beginning on or after 1 April 2005), by [section 159(1)][549] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
     
-    Section 45(1)(b): amended (with effect on 21 December 2004), on 21 June 2005 (applying for taxable periods beginning on or after 1 April 2005), by [section 159(2)][544] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
+    Section 45(1)(b): amended (with effect on 21 December 2004), on 21 June 2005 (applying for taxable periods beginning on or after 1 April 2005), by [section 159(2)][549] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
     
-    Section 45(2)(a): amended (with effect on 21 December 2004), on 21 June 2005 (applying for taxable periods beginning on or after 1 April 2005), by [section 159(3)][544] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
+    Section 45(2)(a): amended (with effect on 21 December 2004), on 21 June 2005 (applying for taxable periods beginning on or after 1 April 2005), by [section 159(3)][549] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
     
-    Section 45(2)(b): amended (with effect on 21 December 2004), on 21 June 2005 (applying for taxable periods beginning on or after 1 April 2005), by [section 159(4)][544] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
+    Section 45(2)(b): amended (with effect on 21 December 2004), on 21 June 2005 (applying for taxable periods beginning on or after 1 April 2005), by [section 159(4)][549] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
     
-    Section 45(2)(c): amended (with effect on 21 December 2004), on 21 June 2005 (applying for taxable periods beginning on or after 1 April 2005), by [section 159(5)][544] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
+    Section 45(2)(c): amended (with effect on 21 December 2004), on 21 June 2005 (applying for taxable periods beginning on or after 1 April 2005), by [section 159(5)][549] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
     
-    Section 45(3): amended (with effect on 21 December 2004), on 21 June 2005 (applying for taxable periods beginning on or after 1 April 2005), by [section 159(6)][544] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
+    Section 45(3): amended (with effect on 21 December 2004), on 21 June 2005 (applying for taxable periods beginning on or after 1 April 2005), by [section 159(6)][549] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
     
-    Section 45(3)(a): repealed (with effect on 21 December 2004), on 21 June 2005 (applying for taxable periods beginning on or after 1 April 2005), by [section 159(6)][544] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
+    Section 45(3)(a): repealed (with effect on 21 December 2004), on 21 June 2005 (applying for taxable periods beginning on or after 1 April 2005), by [section 159(6)][549] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
     
-    Section 45(3)(c): substituted (with effect on 21 December 2004), on 21 June 2005 (applying for taxable periods beginning on or after 1 April 2005), by [section 159(7)][544] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
+    Section 45(3)(c): substituted (with effect on 21 December 2004), on 21 June 2005 (applying for taxable periods beginning on or after 1 April 2005), by [section 159(7)][549] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
     
-    Section 45(3)(d): amended (with effect on 21 December 2004), on 21 June 2005 (applying for taxable periods beginning on or after 1 April 2005), by [section 159(8)][544] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
+    Section 45(3)(d): amended (with effect on 21 December 2004), on 21 June 2005 (applying for taxable periods beginning on or after 1 April 2005), by [section 159(8)][549] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
 
 ##### 46 Commissioner's right to withhold payments
     
@@ -5702,6 +5748,8 @@ Refunds and relief from tax
         
         
     
+    (1B) For the purposes of subsections (1)(a), (4)(a), and (5), when a registered person is non-resident, the reference to a 15-day period is treated as a reference to a 90-day period following the day on which the registered person's return was received by the Commissioner.
+    
     (2) If the Commissioner is not satisfied with a return made by a registered person, the Commissioner---
         
     *   (a) may investigate the circumstances of the return:
@@ -5710,9 +5758,9 @@ Refunds and relief from tax
     
     (3) If a registered person fails to provide a return for any taxable period as required by this Act, the Commissioner may withhold payment---
         
-    *   (a) of any tax otherwise refundable under this Act or the [Tax Administration Act 1994][161]; or
+    *   (a) of any tax otherwise refundable under this Act or the [Tax Administration Act 1994][163]; or
     
-    *   (b) of any interest payable under [Part 7][190] of the Tax Administration Act 1994---
+    *   (b) of any interest payable under [Part 7][192] of the Tax Administration Act 1994---
     
     until the registered person complies with the requirement.
     
@@ -5730,13 +5778,13 @@ Refunds and relief from tax
     
     within 15 working days following the day on which the return is received by the Commissioner.
     
-    (6) If, but for this subsection, a registered person would be entitled to an amount as a refund under [section 19C(8)][41] or [20(5)][43] or [45][97] or [78B(5)(c)][143] or under the [Tax Administration Act 1994][161], or as a payment of interest under [Part 7][190] of the Tax Administration Act 1994, the Commissioner may apply the amount, in accordance with a request under [section 173T][545] of the Tax Administration Act 1994 or in the absence of a request in such order or manner as the Commissioner may determine, in payment of---
+    (6) If, but for this subsection, a registered person would be entitled to an amount as a refund under [section 19C(8)][41] or [20(5)][43] or [45][97] or [78B(5)(c)][145] or under the [Tax Administration Act 1994][163], or as a payment of interest under [Part 7][192] of the Tax Administration Act 1994, the Commissioner may apply the amount, in accordance with a request under [section 173T][550] of the Tax Administration Act 1994 or in the absence of a request in such order or manner as the Commissioner may determine, in payment of---
         
     *   (a) tax that is payable by the person:
     
     *   (b) an amount that is payable by the person under another Inland Revenue Act.
     
-    (7) If, but for this subsection, a person who is a specified agent of an incapacitated person, as those terms are defined in [section 58(1)][115], would be allowed an amount as a deduction under [section 20(3)][43] by virtue of section 58(1C), the Commissioner may apply the amount in payment of---
+    (7) If, but for this subsection, a person who is a specified agent of an incapacitated person, as those terms are defined in [section 58(1)][117], would be allowed an amount as a deduction under [section 20(3)][43] by virtue of section 58(1C), the Commissioner may apply the amount in payment of---
         
     *   (a) tax that is payable by the incapacitated person:
     
@@ -5746,17 +5794,19 @@ Refunds and relief from tax
     
     (9) \[Repealed\]
     
-    Section 46: substituted, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 13(1)][546] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 46: substituted, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 13(1)][551] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
     
-    Section 46(6): substituted, on 25 November 2003 (applying to refunds, interest and deductions relating to supplies made in taxable periods beginning on or after 1 April 2002), by [section 161(1)][547] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 46(1B): inserted, on 1 April 2014, by [section 136][552] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
-    Section 46(6): amended, on 20 May 2010, by [section 51][548] of the Taxation (Budget Measures) Act 2010 (2010 No 27).
+    Section 46(6): substituted, on 25 November 2003 (applying to refunds, interest and deductions relating to supplies made in taxable periods beginning on or after 1 April 2002), by [section 161(1)][553] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 46(7): substituted, on 25 November 2003 (applying to refunds, interest and deductions relating to supplies made in taxable periods beginning on or after 1 April 2002), by [section 161(1)][547] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 46(6): amended, on 20 May 2010, by [section 51][554] of the Taxation (Budget Measures) Act 2010 (2010 No 27).
     
-    Section 46(8): repealed, on 25 November 2003 (applying to refunds, interest and deductions relating to supplies made in taxable periods beginning on or after 1 April 2002), by [section 161(1)][547] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 46(7): substituted, on 25 November 2003 (applying to refunds, interest and deductions relating to supplies made in taxable periods beginning on or after 1 April 2002), by [section 161(1)][553] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 46(9): repealed, on 25 November 2003 (applying to refunds, interest and deductions relating to supplies made in taxable periods beginning on or after 1 April 2002), by [section 161(1)][547] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 46(8): repealed, on 25 November 2003 (applying to refunds, interest and deductions relating to supplies made in taxable periods beginning on or after 1 April 2002), by [section 161(1)][553] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    
+    Section 46(9): repealed, on 25 November 2003 (applying to refunds, interest and deductions relating to supplies made in taxable periods beginning on or after 1 April 2002), by [section 161(1)][553] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
 
 ##### 47 Tax paid in excess may be credited towards tax payable when assessment re-opened
     
@@ -5768,19 +5818,19 @@ Refunds and relief from tax
     
     the Commissioner may, in the Commissioner's discretion and to the extent that in the opinion of the Commissioner is equitable, allow any amount so paid in excess to be credited towards satisfying the registered person's liability to pay any tax payable for any taxable period or taxable periods, notwithstanding that the time limited for the making of a refund of any tax so paid in excess may have expired.
     
-    Section 47 heading: amended, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 14][549] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 47 heading: amended, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 14][555] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
     
-    Section 47: amended, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 14][549] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 47: amended, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 14][555] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
 
 ##### 48 Power of Commissioner in respect of small amounts
     
 *   \[Repealed\]
     
-    Section 48: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 15][550] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 48: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 15][556] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
 
 ##### 48A Relief from tax where new start grant made
     
-*   (1) In this section, _new start grant_ has the meaning given to the term by [section YA 1][171] of the Income Tax Act 2007\.
+*   (1) In this section, _new start grant_ has the meaning given to the term by [section YA 1][173] of the Income Tax Act 2007\.
     
     (2) Where, in respect of a taxable activity, a registered person---
         
@@ -5800,7 +5850,7 @@ Refunds and relief from tax
     
     (3) Where, in relation to a taxable activity in respect of which a person has received a new start grant,---
         
-    *   (a) any registered person is a person or entity associated with the person who received the new start grant within the meaning of [section CX 48(4)][551] or [EW 46(4)][552] of the Income Tax Act 2007; and
+    *   (a) any registered person is a person or entity associated with the person who received the new start grant within the meaning of [section CX 48(4)][557] or [EW 46(4)][558] of the Income Tax Act 2007; and
     
     *   (b) that registered person is liable for tax in respect of---
             
@@ -5812,37 +5862,37 @@ Refunds and relief from tax
     
     *   (c) that registered person has furnished all returns required under this Act,---
     
-    the Commissioner may, having regard to the matters referred to in [section CX 48(4) and (5)][551] or [EW 46(4) and (5)][552] of the Income Tax Act 2007, remit in whole or in part any amount of tax payable by that registered person that relates to that taxable activity on that land.
+    the Commissioner may, having regard to the matters referred to in [section CX 48(4) and (5)][557] or [EW 46(4) and (5)][558] of the Income Tax Act 2007, remit in whole or in part any amount of tax payable by that registered person that relates to that taxable activity on that land.
     
     Section 48A: inserted (with effect on 4 November 1988), on 22 March 1989 (applying to supplies made on or after 22 March 1989), by section 9(1) of the Goods and Services Tax Amendment Act 1989 (1989 No 8).
     
-    Section 48A heading: amended (with effect on 1 February 2004), on 21 December 2004 (applying for the 2003--04 and subsequent income years), by [section 156(1)][553] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 48A heading: amended (with effect on 1 February 2004), on 21 December 2004 (applying for the 2003--04 and subsequent income years), by [section 156(1)][559] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
-    Section 48A(1): substituted (with effect on 1 February 2004), on 21 December 2004 (applying for the 2003--04 and subsequent income years), by [section 156(2)][553] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 48A(1): substituted (with effect on 1 February 2004), on 21 December 2004 (applying for the 2003--04 and subsequent income years), by [section 156(2)][559] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
-    Section 48A(1): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][203] of the Income Tax Act 2007 (2007 No 97).
+    Section 48A(1): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][205] of the Income Tax Act 2007 (2007 No 97).
     
     Section 48A(2): amended (with effect on 4 November 1988), on 19 December 1989, by section 13(2) of the Goods and Services Tax Amendment Act (No 2) 1989 (1989 No 152).
     
-    Section 48A(2)(c)(ii): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 108(1)][554] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 48A(2)(c)(ii): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 108(1)][560] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 48A(3): amended, on 1 April 2008, by [section 278(2)][555] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 48A(3): amended, on 1 April 2008, by [section 278(2)][561] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 48A(3)(a): amended, on 1 April 2008, by [section 278(1)][555] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 48A(3)(a): amended, on 1 April 2008, by [section 278(1)][561] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 48A(3)(b)(i): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 108(1)][554] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 48A(3)(b)(i): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 108(1)][560] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
 
 ##### 49 Relief from additional tax
     
 *   \[Repealed\]
     
-    Section 49: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 16][556] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 49: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 16][562] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
 
 ##### 50 Appropriation of refunds
     
 *   \[Repealed\]
     
-    Section 50: repealed, on 21 December 2004, by [section 157][557] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 50: repealed, on 21 December 2004, by [section 157][563] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
 
 ## Part 8  
 Registration
@@ -5877,7 +5927,7 @@ Registration
     
     (4) Where any person has---
         
-    *   (a) made application for registration pursuant to subsection (2) or subsection (3), and the Commissioner is satisfied that that person is eligible to be registered under this Act, that person shall be a registered person for the purposes of this Act with effect from such date as the Commissioner may determine; or
+    *   (a) made application for registration pursuant to subsection (2), (3), or section 54B, and the Commissioner is satisfied that that person is eligible to be registered under this Act, that person shall be a registered person for the purposes of this Act with effect from such date as the Commissioner may determine; or
     
     *   (b) not made application for registration pursuant to subsection (2), and the Commissioner is satisfied that that person is liable to be registered under this Act, that person shall be a registered person for the purposes of this Act with effect from the date on which that person first became liable to be registered under this Act:
         
@@ -5889,19 +5939,21 @@ Registration
     
     (7) An application for registration under this Act purporting to be made by or on behalf of any person shall for all purposes be deemed to have been made by that person or by that person's authority, as the case may be, unless the contrary is proved.
     
-    Section 51(1)(a): amended, on 30 March 2009, by [section 27][558] of the Taxation (Business Tax Measures) Act 2009 (2009 No 5).
+    Section 51(1)(a): amended, on 30 March 2009, by [section 27][564] of the Taxation (Business Tax Measures) Act 2009 (2009 No 5).
     
     Section 51(1)(a): amended (with effect on 3 December 1985), on 8 August 1986, by section 26(a) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
     Section 51(1)(b): amended (with effect on 3 December 1985), on 8 August 1986, by section 26(b) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 51(1)(c): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 109(2)][559] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 51(1)(c): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 109(2)][565] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 51(1)(d): amended, on 1 July 2003, by [section 160][560] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 51(1)(d): amended, on 1 July 2003, by [section 160][566] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 51(1)(e): added, on 1 July 2003, by [section 160][560] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 51(1)(e): added, on 1 July 2003, by [section 160][566] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 51(1)(e): amended, on 25 November 2003, by [section 162][561] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 51(1)(e): amended, on 25 November 2003, by [section 162][567] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    
+    Section 51(4)(a): amended, on 1 April 2014, by [section 137][568] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
     Section 51(4)(b): amended, on 24 March 1988 (applying to every person who becomes liable to be registered under this Act on or after 24 March 1988), by section 15(1) of the Goods and Services Tax Amendment Act 1988 (1988 No 7).
     
@@ -5909,7 +5961,7 @@ Registration
 
 ##### 51B Persons treated as registered
     
-*   (1) For the purposes of [Parts 3][26] and [6][91], and of [Part 9][502] of the Tax Administration Act 1994, the following are treated as registered persons:
+*   (1) For the purposes of [Parts 3][26] and [6][91], and of [Part 9][507] of the Tax Administration Act 1994, the following are treated as registered persons:
         
     *   (a) a person who is not otherwise a registered person but who supplies goods or services, representing that tax is charged on the supply:
     
@@ -5921,7 +5973,9 @@ Registration
         
         
     
-    *   (c) a person whose registration has been cancelled under [section 52(5)][107] with effect from the original date of registration.
+    *   (c) a person whose registration has been cancelled under [section 52(5)][107] with effect from the original date of registration:
+    
+    *   (d) a non-resident person referred to in [section 54B(2)][110].
     
     (2) If a person referred to in subsection (1) represents that tax is being charged on a supply that they make in a taxable period, the person is liable to pay the amount of the tax.
     
@@ -5941,13 +5995,15 @@ Registration
     
     *   (b) the Commissioner so determines, on application by the person.
     
-    Section 51B: inserted, on 21 December 2004 (applying for taxable periods beginning on or after 1 April 2005), by [section 158(1)][562] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 51B: inserted, on 21 December 2004 (applying for taxable periods beginning on or after 1 April 2005), by [section 158(1)][569] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
-    Section 51B(4): added, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 19(1)][563] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 51B(1)(d): inserted, on 1 April 2014, by [section 138][570] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
-    Section 51B(5): added, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 19(1)][563] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 51B(4): added, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 19(1)][571] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 51B(6): added, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 19(1)][563] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 51B(5): added, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 19(1)][571] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    
+    Section 51B(6): added, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 19(1)][571] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
 
 ##### 52 Cancellation of registration
     
@@ -5971,25 +6027,27 @@ Registration
     
     (6) \[Repealed\]
     
-    (7) In subsections (5) and (5A), for a person who is a non-resident, a taxable activity means a taxable activity carried on in New Zealand.
+    (7) In subsections (5) and (5A), for a non-resident person who is not registered under [section 54B][110], a taxable activity means a taxable activity carried on in New Zealand.
     
     Section 52(1): amended, on 22 June 1987, by section 9 of the Goods and Services Tax Amendment Act 1987 (1987 No 103).
     
-    Section 52(2): amended, on 25 November 2003, by [section 163(1)][564] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 52(2): amended, on 25 November 2003, by [section 163(1)][572] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 52(3): amended, on 25 November 2003, by [section 163(2)][564] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 52(3): amended, on 25 November 2003, by [section 163(2)][572] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
     Section 52(3): amended (with effect on 3 December 1985), on 8 August 1986, by section 27(1) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 52(4): substituted, on 25 November 2003, by [section 163(3)][564] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 52(4): substituted, on 25 November 2003, by [section 163(3)][572] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 52(5): substituted, on 1 August 1990, by [section 13][565] of the Goods and Services Tax Amendment Act 1990 (1990 No 64).
+    Section 52(5): substituted, on 1 August 1990, by [section 13][573] of the Goods and Services Tax Amendment Act 1990 (1990 No 64).
     
-    Section 52(5A): inserted, on 1 August 1990, by [section 13][565] of the Goods and Services Tax Amendment Act 1990 (1990 No 64).
+    Section 52(5A): inserted, on 1 August 1990, by [section 13][573] of the Goods and Services Tax Amendment Act 1990 (1990 No 64).
     
     Section 52(6): repealed (with effect on 3 December 1985), on 8 August 1986, by section 27(2) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 52(7): added, on 21 June 2005 (applying to a person who becomes registered under this Act on or after 21 June 2005), by [section 160(1)][566] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
+    Section 52(7): added, on 21 June 2005 (applying to a person who becomes registered under this Act on or after 21 June 2005), by [section 160(1)][574] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
+    
+    Section 52(7): amended, on 1 April 2014, by [section 140][575] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
 
 ##### 53 Registered person to notify change of status
     
@@ -6005,7 +6063,7 @@ Registration
     
     *   (cb) any change whereby that registered person ceases to satisfy the conditions of [section 19A][38], where the Commissioner has made a direction in respect of that registered person under that section:
     
-    *   (d) any change where that registered person, being a member of a group within the meaning of [section 55][111], ceases to be eligible to be a member of that group:
+    *   (d) any change where that registered person, being a member of a group within the meaning of [section 55][113], ceases to be eligible to be a member of that group:
     
     provided that paragraphs (a) to (cb) shall not apply to the notification of any changes in the ownership of any company.
     
@@ -6015,25 +6073,77 @@ Registration
     
     *   (b) the date from which that new trading name is to be used by the person for the purposes of this Act.
     
-    Section 53(1)(c): substituted (with effect on 17 March 1988), on 24 March 1988, by [section 2(4)][567] of the Goods and Services Tax Amendment Act (No 2) 1988 (1988 No 15).
+    Section 53(1)(c): substituted (with effect on 17 March 1988), on 24 March 1988, by [section 2(4)][576] of the Goods and Services Tax Amendment Act (No 2) 1988 (1988 No 15).
     
-    Section 53(1)(c): amended (with effect on 1 October 2007), on 17 July 2013, by [section 139][568] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
+    Section 53(1)(c): amended (with effect on 1 October 2007), on 17 July 2013, by [section 139][577] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
-    Section 53(1)(c): amended, on 1 October 2007, by [section 294][569] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 53(1)(c): amended, on 1 October 2007, by [section 294][578] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 53(1)(ca): inserted (with effect on 17 March 1988), on 24 March 1988, by [section 2(4)][567] of the Goods and Services Tax Amendment Act (No 2) 1988 (1988 No 15).
+    Section 53(1)(ca): inserted (with effect on 17 March 1988), on 24 March 1988, by [section 2(4)][576] of the Goods and Services Tax Amendment Act (No 2) 1988 (1988 No 15).
     
-    Section 53(1)(cb): inserted (with effect on 17 March 1988), on 24 March 1988, by [section 2(4)][567] of the Goods and Services Tax Amendment Act (No 2) 1988 (1988 No 15).
+    Section 53(1)(cb): inserted (with effect on 17 March 1988), on 24 March 1988, by [section 2(4)][576] of the Goods and Services Tax Amendment Act (No 2) 1988 (1988 No 15).
     
     Section 53(1)(cb): amended, on 1 April 1991, by section 5(6) of the Goods and Services Tax Amendment Act 1991 (1991 No 11).
     
-    Section 53(1) proviso: amended (with effect on 17 March 1988), on 24 March 1988, by [section 2(5)][567] of the Goods and Services Tax Amendment Act (No 2) 1988 (1988 No 15).
+    Section 53(1) proviso: amended (with effect on 17 March 1988), on 24 March 1988, by [section 2(5)][576] of the Goods and Services Tax Amendment Act (No 2) 1988 (1988 No 15).
     
     Section 53(2): added, on 13 March 1992, by section 9 of the Goods and Services Tax Amendment Act 1992 (1992 No 2).
 
 ##### 54 Liabilities not affected by ceasing to be registered person
     
 *   The obligations and liabilities under this Act of any person in respect of anything done, or omitted to be done, by that person while that person is a registered person shall not be affected by the fact that that person ceases to be a registered person, or by the fact that, being a registered person, the Commissioner cancels that person's registration.
+
+##### 54B Non-residents: registration 
+    
+*   (1) Despite [section 51(3)][105], the Commissioner may register a person who is a non-resident and has not become liable to be registered under section 51(1) if the Commissioner is satisfied that the person meets the following requirements:
+        
+    *   (a) the person---
+            
+        *   (i) is registered for a consumption tax in the country or territory in which they are resident; or
+        
+        *   (ii) if the country or territory in which the person is resident does not have a consumption tax, or has a consumption tax that does not apply to the person's activities, is carrying on a taxable activity, and has a level of taxable activity in a country or territory that would render them liable to be registered under [section 51(1)][105] if they were carrying out the taxable activity in New Zealand; and
+        
+        
+    
+    *   (b) the amount of the person's input tax for the first taxable period after the date of registration in New Zealand is likely to be more than $500; and
+    
+    *   (c) the person's taxable activity does not involve a performance of services in relation to which it is reasonably foreseeable that the performance of the services will be received in New Zealand by a person who is not a registered person; and
+    
+    *   (d) the person---
+            
+        *   (i) is not carrying on a taxable activity in New Zealand, or intending to carry on a taxable activity in New Zealand; and
+        
+        *   (ii) is not, and does not intend to become, a member of a group of companies that is carrying on a taxable activity in New Zealand.
+        
+        
+    
+    (2) If a non-resident person who is registered under this section starts making taxable supplies, or becomes a member of a group of companies that is making taxable supplies, they are treated as registered on the date specified by the Commissioner under subsection (1), and not being registered under this section from the date on which they start making taxable supplies or the date on which they join the group, as applicable.
+    
+    (3) For timing purposes, the following days are treated as the end of a taxable period:
+        
+    *   (a) the day on which a person ceases to be eligible to be registered under this section:
+    
+    *   (b) the day on which a person who is otherwise registered becomes registered under this section.
+    
+    Section 54B: inserted, on 1 April 2014, by [section 141][579] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
+
+##### 54C Non-residents: cancellation of registration
+    
+*   (1) [Section 52][107] applies to the cancellation of registration of a non-resident person registered under [section 54B][110] as modified by this section.
+    
+    (2) The Commissioner may, in addition to the powers provided under [section 52(5)][107] and (5A), cancel the person's registration if---
+        
+    *   (a) the Commissioner is satisfied that the person no longer meets the requirements of [section 54B(1)(a)][110]:
+    
+    *   (b) for 3 consecutive taxable periods, the person has either not filed a return or has filed a late return.
+    
+    (3) When a person's registration is cancelled under subsection (2)(b),---
+        
+    *   (a) the effective date of the cancellation is the first day of the third period:
+    
+    *   (b) the person may not apply to become a registered person again until a period of 5 years has expired, starting on the date of cancellation, and this exclusion period also applies to a non-resident associate of the person.
+    
+    Section 54C: inserted, on 1 April 2014, by [section 141][579] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
 
 ## Part 9  
 Special cases
@@ -6042,7 +6152,7 @@ Special cases
     
 *   (1) For the purposes of this Act, 2 or more companies (the _companies_) are eligible to be a group of companies at a time if,---
         
-    *   (a) at the time and under [section IC 3][570] of the Income Tax Act 2007, the companies---
+    *   (a) at the time and under [section IC 3][580] of the Income Tax Act 2007, the companies---
             
         *   (i) are a group of companies:
         
@@ -6061,6 +6171,8 @@ Special cases
         *   (ii) in a 12-month period that includes the time, make a total value of taxable supplies to persons other than the companies that is at least 75% of the total value of all supplies made in that period by the companies to persons other than the companies.
         
         
+    
+    (1B) Despite subsections (1) and (4)(a), a person registered under [section 54B][110] may not apply to be a member of a group of companies or for a further company to be a member of a group of companies, if the resulting group would have both resident and non-resident persons as members.
     
     (2) Where 2 or more companies apply to be members of a group of companies for the purposes of this section, and the Commissioner is satisfied that they are eligible to be members of a group of companies pursuant to subsection (1), they shall be members of a group of companies from the beginning of such taxable period as is determined by the Commissioner.
     
@@ -6084,7 +6196,7 @@ Special cases
     
     (4AA) \[Repealed\]
     
-    (4A) The appointment of a specified agent, as defined in [section 58(1)][115], does not affect the membership of a group of companies.
+    (4A) The appointment of a specified agent, as defined in [section 58(1)][117], does not affect the membership of a group of companies.
     
     (5) Where any member of a group of companies has ceased to be eligible to be a member of that group, and---
         
@@ -6114,9 +6226,9 @@ Special cases
     
     *   (dc) to the extent that goods and services acquired or produced on or after 1 October 1986 by any member of a group other than for the principal purpose of making taxable supplies are applied by the representative member of that group for a purpose of making taxable supplies, that acquisition or production of those goods and services shall, for the purposes of [section 21E][57], be deemed to have been made by the representative member of that group; and
     
-    *   (dd) any statement or other information provided to a member of the group under [section 78F][148] shall be deemed to be provided to the representative member; and
+    *   (dd) any statement or other information provided to a member of the group under [section 78F][150] shall be deemed to be provided to the representative member; and
     
-    *   (de) any statement or other information provided by a member of the group under [section 78F][148] shall be deemed to be provided by the representative member; and
+    *   (de) any statement or other information provided by a member of the group under [section 78F][150] shall be deemed to be provided by the representative member; and
     
     *   (e) any input tax paid or payable by a member of the group shall be deemed to be paid or payable by the representative member; and
     
@@ -6126,7 +6238,7 @@ Special cases
         
     *   (g) all members of the group shall remain liable jointly and severally for any tax payable by the representative member; and
     
-    *   (h) the provisions of [section 24][66], [section 75][137], and [Part 8][104] shall continue to apply to all such members of the group.
+    *   (h) the provisions of [section 24][66], [section 75][139], and [Part 8][104] shall continue to apply to all such members of the group.
     
     (7B) Subsection (7), apart from paragraphs (b) and (e) to (h), does not apply to a group of companies in relation to a supply of services that is treated by [section 8(4B)][14] as being made in New Zealand.
     
@@ -6140,65 +6252,67 @@ Special cases
     
     the Commissioner may deem those registered persons to be members of a group, and subsections (2) to (7) shall apply as if every reference in the said subsections to a group of companies were a reference to that group, and as if every reference in the said subsections (2) to (7) to companies were a reference to the members of the group.
     
-    Section 55(1): substituted (with effect on 1 October 2007), on 19 December 2007, by [section 279(1)][571] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 55(1): substituted (with effect on 1 October 2007), on 19 December 2007, by [section 279(1)][581] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 55(1)(a): amended, on 1 April 2008, by [section 279(2)][571] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 55(1)(a): amended, on 1 April 2008, by [section 279(2)][581] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 55(1)(a)(iii): amended (with effect on 1 April 2011), on 2 November 2012, by [section 223(1)][572] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 55(1)(a)(iii): amended (with effect on 1 April 2011), on 2 November 2012, by [section 223(1)][582] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 55(1)(a)(iv): added, on 29 August 2011, by [section 242][573] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 55(1)(a)(iv): added, on 29 August 2011, by [section 242][583] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 55(3): substituted (with effect on 1 October 2001), on 18 December 2006, by [section 218(3)][574] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Section 55(1B): inserted, on 1 April 2014, by [section 142][584] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
-    Section 55(4): amended, on 18 December 2006, by [section 218(6)(b)][574] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Section 55(3): substituted (with effect on 1 October 2001), on 18 December 2006, by [section 218(3)][585] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
     
-    Section 55(4)(d): amended, on 18 December 2006, by [section 218(6)(a)][574] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Section 55(4): amended, on 18 December 2006, by [section 218(6)(b)][585] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
     
-    Section 55(4AA): repealed, on 18 December 2006, by [section 218(7)][574] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Section 55(4)(d): amended, on 18 December 2006, by [section 218(6)(a)][585] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
     
-    Section 55(4A): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 110(1)][575] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 55(4AA): repealed, on 18 December 2006, by [section 218(7)][585] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
     
-    Section 55(5)(a): substituted, on 23 September 1997, by [section 115][576] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 55(4A): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 110(1)][586] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 55(7): amended, on 1 January 2005, by [section 164(1)][577] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 55(5)(a): substituted, on 23 September 1997, by [section 115][587] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
-    Section 55(7)(b): amended, on 1 October 2007, by [section 295][578] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 55(7): amended, on 1 January 2005, by [section 164(1)][588] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    
+    Section 55(7)(b): amended, on 1 October 2007, by [section 295][589] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
     Section 55(7)(b): amended, on 1 April 1991, by section 5(7) of the Goods and Services Tax Amendment Act 1991 (1991 No 11).
     
     Section 55(7)(c): substituted, on 22 March 1989 (applying to supplies made on or after 22 March 1989), by section 10(1) of the Goods and Services Tax Amendment Act 1989 (1989 No 8).
     
-    Section 55(7)(d): amended, on 1 January 2005, by [section 164(2)][577] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 55(7)(d): amended, on 1 January 2005, by [section 164(2)][588] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
     Section 55(7)(da): inserted (with effect on 3 December 1985), on 8 August 1986, by section 29(3) of the Goods and Services Act Amendment Act 1986 (1986 No 43).
     
-    Section 55(7)(dab): inserted, on 1 January 2005, by [section 164(3)][577] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 55(7)(dab): inserted, on 1 January 2005, by [section 164(3)][588] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
     Section 55(7)(db): inserted, on 22 March 1989 (applying to supplies made on or after 22 March 1989), by section 10(2) of the Goods and Services Tax Amendment Act 1989 (1989 No 8).
     
-    Section 55(7)(db): amended, on 25 November 2003, by [section 164(4)(a)][577] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 55(7)(db): amended, on 25 November 2003, by [section 164(4)(a)][588] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 55(7)(db): amended, on 25 November 2003, by [section 164(4)(b)][577] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 55(7)(db): amended, on 25 November 2003, by [section 164(4)(b)][588] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 55(7)(db): amended, on 25 November 2003, by [section 164(4)(c)][577] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 55(7)(db): amended, on 25 November 2003, by [section 164(4)(c)][588] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
     Section 55(7)(dc): inserted, on 22 March 1989 (applying to supplies made on or after 22 March 1989), by section 10(2) of the Goods and Services Tax Amendment Act 1989 (1989 No 8).
     
-    Section 55(7)(dc): amended, on 25 November 2003, by [section 164(5)][577] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 55(7)(dc): amended, on 25 November 2003, by [section 164(5)][588] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 55(7)(dc): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 110(2)][575] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 55(7)(dc): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 110(2)][586] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 55(7)(dd): inserted (with effect on 1 April 2011), on 2 November 2012, by [section 223(2)][572] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 55(7)(dd): inserted (with effect on 1 April 2011), on 2 November 2012, by [section 223(2)][582] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 55(7)(de): inserted (with effect on 1 April 2011), on 2 November 2012, by [section 223(2)][572] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 55(7)(de): inserted (with effect on 1 April 2011), on 2 November 2012, by [section 223(2)][582] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 55(7B): inserted, on 1 January 2005, by [section 164(6)][577] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 55(7B): inserted, on 1 January 2005, by [section 164(6)][588] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 55(8): amended (with effect on 1 July 1994), on 14 September 1994, by [section 7][579] of the Goods and Services Tax Amendment Act 1994 (1994 No 77).
+    Section 55(8): amended (with effect on 1 July 1994), on 14 September 1994, by [section 7][590] of the Goods and Services Tax Amendment Act 1994 (1994 No 77).
     
     Section 55(8): amended (with effect on 3 December 1985), on 8 August 1986, by section 29(4) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 55(8)(c): amended, on 1 August 1990, by [section 14][580] of the Goods and Services Tax Amendment Act 1990 (1990 No 64).
+    Section 55(8)(c): amended, on 1 August 1990, by [section 14][591] of the Goods and Services Tax Amendment Act 1990 (1990 No 64).
 
 ##### 56 Branches and divisions
     
@@ -6218,7 +6332,7 @@ Special cases
     
     Section 56(6): amended, on 1 April 1991, by section 5(8) of the Goods and Services Tax Amendment Act 1991 (1991 No 11).
     
-    Section 56(6): amended (with effect on 17 March 1988), on 24 March 1988, by [section 2(7)(b)][567] of the Goods and Services Tax Amendment Act (No 2) 1988 (1988 No 15).
+    Section 56(6): amended (with effect on 17 March 1988), on 24 March 1988, by [section 2(7)(b)][576] of the Goods and Services Tax Amendment Act (No 2) 1988 (1988 No 15).
 
 ##### 56B Branches and divisions in relation to certain imported services
     
@@ -6236,9 +6350,9 @@ Special cases
     
     (3) For the purpose of this section, a head office of a company is a branch or division of the company.
     
-    (4) This section applies whether or not a branch or division of the person is registered under [section 56][112].
+    (4) This section applies whether or not a branch or division of the person is registered under [section 56][114].
     
-    Section 56B: inserted, on 1 January 2005, by [section 165][581] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 56B: inserted, on 1 January 2005, by [section 165][592] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
 
 ##### 57 Unincorporated bodies
     
@@ -6276,31 +6390,31 @@ Special cases
     
     provided that if it is done by any official or committee member, referred to in paragraph (a) or paragraph (b), that shall be sufficient compliance with any such requirement.
     
-    Section 57(1): repealed, on 10 October 2000 (applying on 10 October 2000), by [section 111(1)][582] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 57(1): repealed, on 10 October 2000 (applying on 10 October 2000), by [section 111(1)][593] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 57(2): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 111(2)][582] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 57(2): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 111(2)][593] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 57(2)(e): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 111(3)][582] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 57(2)(e): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 111(3)][593] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 57(3): substituted, on 10 October 2000 (applying on and after 10 October 2000), by [section 111(4)][582] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 57(3): substituted, on 10 October 2000 (applying on and after 10 October 2000), by [section 111(4)][593] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 57(3A): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 111(4)][582] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 57(3A): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 111(4)][593] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 57(3B): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 111(4)][582] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 57(3B): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 111(4)][593] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 57(4): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 111(5)][582] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 57(4): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 111(5)][593] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 57(5): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 111(6)][582] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 57(5): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 111(6)][593] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 57(6): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 111(6)][582] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 57(6): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 111(6)][593] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 57(6): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 111(7)][582] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 57(6): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 111(7)][593] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
     Section 57(6): amended (with effect on 3 December 1985), on 8 August 1986, by section 30 of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
 
 ##### 58 Personal representative, liquidator, receiver, etc
     
-*   (1) In this section and [sections 46][98] and [55][111]---
+*   (1) In this section and [sections 46][98] and [55][113]---
     
     _agency period_ means the period beginning on the date on which a person becomes entitled to act as a specified agent carrying on a taxable activity in relation to an incapacitated person and ending on the earlier of---
         
@@ -6312,7 +6426,7 @@ Special cases
     
     _specified agent_ means a person carrying on any taxable activity in a capacity as personal representative, liquidator, or receiver of an incapacitated person, or otherwise as agent for or on behalf of or in the stead of an incapacitated person.
     
-    (1A) Despite [sections 5(2)][9] and [60][117], a person who becomes a specified agent is treated as being a registered person carrying on the taxable activity of the incapacitated person during the agency period, and the incapacitated person is not treated as carrying on the taxable activity during the period.
+    (1A) Despite [sections 5(2)][9] and [60][119], a person who becomes a specified agent is treated as being a registered person carrying on the taxable activity of the incapacitated person during the agency period, and the incapacitated person is not treated as carrying on the taxable activity during the period.
     
     (1B) If a person becomes a specified agent and has been appointed to carry on part of the incapacitated person's taxable activity only, subsection (1A) applies only to the part of the taxable activity the person has been appointed to carry on.
     
@@ -6326,19 +6440,19 @@ Special cases
     
     Section 58(1): substituted, on 14 December 1992, by section 11(1) of the Goods and Services Tax Amendment Act (No 2) 1992 (1992 No 116).
     
-    Section 58(1): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 112(1)(a)][583] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 58(1): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 112(1)(a)][594] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 58(1) **agency period** paragraph (b): substituted, on 10 October 2000 (applying on and after 10 October 2000), by [section 112(1)(b)][583] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 58(1) **agency period** paragraph (b): substituted, on 10 October 2000 (applying on and after 10 October 2000), by [section 112(1)(b)][594] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 58(1A): substituted, on 10 October 2000 (applying on and after 10 October 2000), by [section 112(2)][583] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 58(1A): substituted, on 10 October 2000 (applying on and after 10 October 2000), by [section 112(2)][594] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 58(1B): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 112(2)][583] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 58(1B): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 112(2)][594] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 58(1C): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 112(2)][583] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 58(1C): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 112(2)][594] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 58(1C): amended, on 25 November 2003 (applying to deductions relating to supplies made in taxable periods beginning on or after 1 April 2002), by [section 166(1)][584] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 58(1C): amended, on 25 November 2003 (applying to deductions relating to supplies made in taxable periods beginning on or after 1 April 2002), by [section 166(1)][595] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 58(1D): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 112(2)][583] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 58(1D): inserted, on 10 October 2000 (applying on and after 10 October 2000), by [section 112(2)][594] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
     Section 58(3): amended, on 14 December 1992, by section 11(2) of the Goods and Services Tax Amendment Act (No 2) 1992 (1992 No 116).
 
@@ -6404,7 +6518,7 @@ Special cases
     
     Section 60(1): substituted (with effect on 3 December 1985), on 8 August 1986, by section 31(1) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 60(1B): inserted, on 17 July 2013, by [section 143][585] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
+    Section 60(1B): inserted, on 17 July 2013, by [section 143][596] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
     Section 60(2) proviso: amended (with effect on 3 December 1985), on 8 August 1986, by section 31(2)(a) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
@@ -6412,17 +6526,17 @@ Special cases
     
     Section 60(6): added (with effect on 3 December 1985), on 8 August 1986, by section 31(3) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 60(6): amended, on 1 July 2003, by [section 161][586] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 60(6): amended, on 1 July 2003, by [section 161][597] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 60(6): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 113(1)][587] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 60(6): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 113(1)][598] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 60(6)(a): amended, on 25 November 2003, by [section 167(1)][588] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 60(6)(a): amended, on 25 November 2003, by [section 167(1)][599] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 60(7): added, on 10 October 2000 (applying on and after 10 October 2000), by [section 113(2)][587] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 60(7): added, on 10 October 2000 (applying on and after 10 October 2000), by [section 113(2)][598] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 60(7)(a): amended, on 25 November 2003, by [section 167(1)][588] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 60(7)(a): amended, on 25 November 2003, by [section 167(1)][599] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 60(7)(b): amended, on 25 November 2003, by [section 167(2)][588] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 60(7)(b): amended, on 25 November 2003, by [section 167(2)][599] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
 
 ##### 60B Nominated recipients of supplies
     
@@ -6438,25 +6552,25 @@ Special cases
     
     (6) Despite subsections (2) to (4), for a supply that wholly or partly consists of land, the supply is treated as made by person A to person C.
     
-    (7) [Section 60][117] overrides this section.
+    (7) [Section 60][119] overrides this section.
     
-    Section 60B: inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 20(1)][589] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 60B: inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 20(1)][600] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 60B(5): repealed (with effect on 1 April 2011), on 2 November 2012, by [section 224(1)][590] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 60B(5): repealed (with effect on 1 April 2011), on 2 November 2012, by [section 224(1)][601] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 60B(6): amended (with effect on 1 April 2011), on 2 November 2012, by [section 224(2)][590] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 60B(6): amended (with effect on 1 April 2011), on 2 November 2012, by [section 224(2)][601] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
 
 ##### 61 Liability for tax payable by company left with insufficient assets
     
-*   [Section HD 15][591] of the Income Tax Act 2007, with any necessary modifications, applies for the purpose of this Act as if the terms income tax or tax read goods and services tax.
+*   [Section HD 15][602] of the Income Tax Act 2007, with any necessary modifications, applies for the purpose of this Act as if the terms income tax or tax read goods and services tax.
     
-    Section 61: substituted, on 10 October 2000 (applying on and after 10 October 2000), by [section 114(1)][592] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 61: substituted, on 10 October 2000 (applying on and after 10 October 2000), by [section 114(1)][603] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 61: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][203] of the Income Tax Act 2007 (2007 No 97).
+    Section 61: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][205] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 61A Company amalgamations
     
-*   (1) For the purposes of this section, the terms _amalgamated company_, _amalgamating company_, and _amalgamation_ have the same meanings as in [section YA 1][171] of the Income Tax Act 2007\.
+*   (1) For the purposes of this section, the terms _amalgamated company_, _amalgamating company_, and _amalgamation_ have the same meanings as in [section YA 1][173] of the Income Tax Act 2007\.
     
     (2) In any case where---
         
@@ -6518,106 +6632,106 @@ Special cases
     
     (6) Where an amalgamating company ceases to exist on an amalgamation, [section 51(1)(a)][105] shall apply as if all supplies made by the amalgamating company had been made by the amalgamated company.
     
-    Section 61A: inserted (with effect on 1 July 1994), on 14 September 1994, by [section 8][593] of the Goods and Services Tax Amendment Act 1994 (1994 No 77).
+    Section 61A: inserted (with effect on 1 July 1994), on 14 September 1994, by [section 8][604] of the Goods and Services Tax Amendment Act 1994 (1994 No 77).
     
     Section 61A(1): substituted, on 1 April 1995 (applying with respect to the tax on income derived in 1995--96 and subsequent income years), by section YB 1 of the Income Tax Act 1994 (1994 No 164).
     
-    Section 61A(1): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][203] of the Income Tax Act 2007 (2007 No 97).
+    Section 61A(1): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][205] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 61A(2)(f): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 115(1)][594] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 61A(2)(f): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 115(1)][605] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 61A(4)(b): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 115(2)][594] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 61A(4)(b): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 115(2)][605] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
 
 ##### 61B Application of Part 9 of Tax Administration Act 1994
     
 *   \[Repealed\]
     
-    Section 61B: repealed, on 21 December 2004, by [section 159][595] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 61B: repealed, on 21 December 2004, by [section 159][606] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
 
 ## Part 10  
 Penalties
 
 \[Repealed\]
     
-*   Part 10: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 19(1)][596] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+*   Part 10: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 19(1)][607] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
 
 ##### 62 Offences
     
 *   \[Repealed\]
     
-    Section 62: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 19(1)][596] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 62: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 19(1)][607] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
 
 ##### 63 Officers and employees of corporate bodies
     
 *   \[Repealed\]
     
-    Section 63: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 19(1)][596] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 63: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 19(1)][607] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
 
 ##### 64 Proceedings to be taken summarily
     
 *   \[Repealed\]
     
-    Section 64: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 19(1)][596] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 64: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 19(1)][607] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
 
 ##### 65 Information may charge several offences
     
 *   \[Repealed\]
     
-    Section 65: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 19(1)][596] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 65: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 19(1)][607] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
 
 ##### 66 Information may be laid within 10 years
     
 *   \[Repealed\]
     
-    Section 66: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 19(1)][596] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 66: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 19(1)][607] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
 
 ##### 67 Penal tax in case of evasion
     
 *   \[Repealed\]
     
-    Section 67: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 19(1)][596] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 67: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 19(1)][607] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
 
 ##### 68 Nature of penal tax
     
 *   \[Repealed\]
     
-    Section 68: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 19(1)][596] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 68: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 19(1)][607] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
 
 ##### 69 Assessment of penal tax
     
 *   \[Repealed\]
     
-    Section 69: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 19(1)][596] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 69: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 19(1)][607] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
 
 ##### 70 Objections to penal tax
     
 *   \[Repealed\]
     
-    Section 70: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 19(1)][596] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 70: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 19(1)][607] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
 
 ##### 71 Recovery of penal tax
     
 *   \[Repealed\]
     
-    Section 71: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 19(1)][596] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 71: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 19(1)][607] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
 
 ##### 72 Recovery of penal tax from executors or administrators
     
 *   \[Repealed\]
     
-    Section 72: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 19(1)][596] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 72: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 19(1)][607] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
 
 ##### 73 Recovery of penal tax not affected by conviction of registered person
     
 *   \[Repealed\]
     
-    Section 73: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 19(1)][596] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 73: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 19(1)][607] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
 
 ##### 74 Publication of names of tax evaders
     
 *   \[Repealed\]
     
-    Section 74: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 19(1)][596] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
+    Section 74: repealed, on 26 July 1996 (applying with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997 (unless necessary for the enforcement of other provisions in this Act)), by [section 19(1)][607] of the Goods and Services Tax Amendment Act 1996 (1996 No 59).
 
 ## Part 11  
 General provisions
@@ -6632,7 +6746,7 @@ General provisions
     
     *   (b) the charts and codes of account, the accounting instruction manuals, and the system and programme documentation which describes the accounting system used in each taxable period in the supply of goods and services; and
     
-    *   (c) any list required to be prepared in accordance with [section 19B(3)][40] or [section 78B(7)][143].
+    *   (c) any list required to be prepared in accordance with [section 19B(3)][40] or [section 78B(7)][145].
     
     (3) Subject to subsections (4) to (7), every registered person must keep, for a period of at least 7 years after the end of the taxable period to which they relate, the records listed in subsection (2) and records that are sufficient to enable ready ascertainment by the Commissioner or an officer authorised by the Commissioner of the registered person's liability to tax.
     
@@ -6710,31 +6824,31 @@ General provisions
     
     Section 75(2)(c): amended, on 28 July 1988, by section 4(2) of the Goods and Services Tax Amendment Act (No 3) 1988 (1988 No 125).
     
-    Section 75(3): replaced (with effect on 2 November 2012), on 17 July 2013, by [section 144(1)][597] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
+    Section 75(3): replaced (with effect on 2 November 2012), on 17 July 2013, by [section 144(1)][608] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
-    Section 75(3BA): inserted (with effect on 2 November 2012), on 17 July 2013, by [section 144(2)][597] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
+    Section 75(3BA): inserted (with effect on 2 November 2012), on 17 July 2013, by [section 144(2)][608] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
-    Section 75(3B): inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 21(1)][598] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 75(3B): inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 21(1)][609] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 75(3B)(c): amended (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 243(1)][599] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 75(3B)(c): amended (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 243(1)][610] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 75(3C): inserted (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 243(2)][599] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 75(3C): inserted (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 243(2)][610] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 75(3D): inserted (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 243(2)][599] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 75(3D): inserted (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 243(2)][610] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 75(3D): amended (with effect on 1 April 2011), on 2 November 2012, by [section 225(1)][600] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 75(3D): amended (with effect on 1 April 2011), on 2 November 2012, by [section 225(1)][611] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 75(3E): inserted (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 243(2)][599] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 75(3E): inserted (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 243(2)][610] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 75(3E): amended (with effect on 1 April 2011), on 2 November 2012, by [section 225(2)][600] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 75(3E): amended (with effect on 1 April 2011), on 2 November 2012, by [section 225(2)][611] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 75(4)(b): amended (with effect on 1 July 1994), on 14 September 1994, by [section 9][601] of the Goods and Services Amendment Act 1994 (1994 No 77).
+    Section 75(4)(b): amended (with effect on 1 July 1994), on 14 September 1994, by [section 9][612] of the Goods and Services Amendment Act 1994 (1994 No 77).
     
     Section 75(5): added, on 1 April 1992, by section 10(2) of the Goods and Services Tax Amendment Act 1992 (1992 No 2).
     
-    Section 75(6): inserted (with effect on 2 November 2012), on 17 July 2013, by [section 144(3)][597] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
+    Section 75(6): inserted (with effect on 2 November 2012), on 17 July 2013, by [section 144(3)][608] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
-    Section 75(7): inserted (with effect on 2 November 2012), on 17 July 2013, by [section 144(3)][597] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
+    Section 75(7): inserted (with effect on 2 November 2012), on 17 July 2013, by [section 144(3)][608] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
 
 ##### 76 Avoidance
     
@@ -6790,7 +6904,7 @@ General provisions
     
     *   (e) a reduction in the total consideration payable by a person for a supply of goods and services.
     
-    Section 76: substituted, on 10 October 2000 (applying on and after 10 October 2000), by [section 116(1)][602] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 76: substituted, on 10 October 2000 (applying on and after 10 October 2000), by [section 116(1)][613] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
 
 ##### 77 New Zealand currency
     
@@ -6816,7 +6930,7 @@ General provisions
     
     provided further that this subsection shall not apply to require a public authority to alter any amount agreed to be paid by the authority in respect of any supply of goods and services where the consideration for that supply is in the nature of a grant or subsidy.
     
-    (3) Where an alteration in the law is made, any fee, charge, or other amount, prescribed by, or determined pursuant to, any Act or by any legislative instrument (within the meaning of the [Legislation Act 2012][603]) or by any regulation (within the meaning of the Regulations Act 1936), in respect of any supply of goods and services shall, unless provision to the contrary is contained in that Act or regulation, be deemed to be modified as follows:
+    (3) Where an alteration in the law is made, any fee, charge, or other amount, prescribed by, or determined pursuant to, any Act or by any legislative instrument (within the meaning of the [Legislation Act 2012][614]) or by any regulation (within the meaning of the Regulations Act 1936), in respect of any supply of goods and services shall, unless provision to the contrary is contained in that Act or regulation, be deemed to be modified as follows:
         
     *   (a) where the alteration in the law renders the fee, charge, or other amount prescribed by, or determined pursuant to, that Act or regulation liable to be charged with tax or increases the amount of tax charged or chargeable, the said fee, charge, or other amount so prescribed or determined shall be increased by that amount of tax charged or chargeable; or
     
@@ -6826,21 +6940,21 @@ General provisions
     
     provided further that this subsection shall not apply to any fee, charge, or other amount prescribed or determined which is required by virtue of that Act or regulation to be paid by any public authority to any person other than a public authority.
     
-    (4) Where any alteration in the law takes place so as to operate retrospectively from any date, this section shall also apply retrospectively in the same manner and from the same date, and [section 94A(1)][604] of the Judicature Act 1908 shall apply to any money paid by a recipient to a supplier in excess of the amount which by virtue of the application of this section is properly payable in respect of that agreement, contract, Act or regulation, notwithstanding section 94A(2) of the Judicature Act 1908\.
+    (4) Where any alteration in the law takes place so as to operate retrospectively from any date, this section shall also apply retrospectively in the same manner and from the same date, and [section 94A(1)][615] of the Judicature Act 1908 shall apply to any money paid by a recipient to a supplier in excess of the amount which by virtue of the application of this section is properly payable in respect of that agreement, contract, Act or regulation, notwithstanding section 94A(2) of the Judicature Act 1908\.
     
     (5) Where any supply is or becomes charged with tax pursuant to this Act, the amount of any increase in consideration in respect of that supply attributable to the tax charged on that supply shall be recoverable by the supplier from the recipient of the taxable supply.
     
     (6) This section does not apply to a supply of services that is treated by [section 8(4B)][14] as being made in New Zealand.
     
-    Section 78(2): amended, on 20 May 2010, by [section 52][605] of the Taxation (Budget Measures) Act 2010 (2010 No 27).
+    Section 78(2): amended, on 20 May 2010, by [section 52][616] of the Taxation (Budget Measures) Act 2010 (2010 No 27).
     
     Section 78(2): amended (with effect on 3 December 1985), on 8 August 1986, by section 34(1)(a) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 78(2) first proviso: substituted, on 23 March 1989, by [section 20][606] of the Finance Act 1989 (1989 No 13).
+    Section 78(2) first proviso: substituted, on 23 March 1989, by [section 20][617] of the Finance Act 1989 (1989 No 13).
     
-    Section 78(2) second proviso: added, on 23 March 1989, by [section 20][606] of the Finance Act 1989 (1989 No 13).
+    Section 78(2) second proviso: added, on 23 March 1989, by [section 20][617] of the Finance Act 1989 (1989 No 13).
     
-    Section 78(3): amended, on 5 August 2013, by [section 77(3)][607] of the Legislation Act 2012 (2012 No 119).
+    Section 78(3): amended, on 5 August 2013, by [section 77(3)][618] of the Legislation Act 2012 (2012 No 119).
     
     Section 78(3): amended (with effect on 3 December 1985), on 8 August 1986, by section 34(3)(a) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
@@ -6848,7 +6962,7 @@ General provisions
     
     Section 78(3) second proviso: added (with effect on 3 December 1985), on 8 August 1986, by section 34(4) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 78(3) second proviso: amended (with effect on 1 October 2010), on 21 December 2010, by [section 22][608] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 78(3) second proviso: amended (with effect on 1 October 2010), on 21 December 2010, by [section 22][619] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
     Section 78(3)(a): amended (with effect on 3 December 1985), on 8 August 1986, by section 34(3)(a) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
@@ -6860,7 +6974,7 @@ General provisions
     
     Section 78(5): substituted (with effect on 3 December 1985), on 8 August 1986, by section 34(5) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 78(6): added, on 25 November 2003, by [section 168][609] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 78(6): added, on 25 November 2003, by [section 168][620] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
 
 ##### 78AA Exceptions to effect of increase of tax
     
@@ -6912,7 +7026,7 @@ General provisions
     
     (5) Each successive supply under the agreement that is deemed to take place on or after the rate change day is charged with tax at the original rate.
     
-    (6) Despite [section 5(5)][9], subsection (7) applies to a supply of goods under an agreement that is a layby sale to which the [Layby Sales Act 1971][244] applies if---
+    (6) Despite [section 5(5)][9], subsection (7) applies to a supply of goods under an agreement that is a layby sale to which the [Layby Sales Act 1971][246] applies if---
         
     *   (a) the agreement is made before the day on which the increase in the rate of tax is announced; and
     
@@ -6962,7 +7076,7 @@ General provisions
     
     *   (b) the registered person is treated as issuing a tax invoice as required by [section 24][66] for the supply on the day before the rate change day.
     
-    (12) Despite [section 25(3) and (3C)][69], and [section 143A(1)(f)][610] of the Tax Administration Act 1994, subsection (13) applies to a supply by a registered person who has provided a tax invoice in relation to the supply if---
+    (12) Despite [section 25(3) and (3C)][69], and [section 143A(1)(f)][621] of the Tax Administration Act 1994, subsection (13) applies to a supply by a registered person who has provided a tax invoice in relation to the supply if---
         
     *   (a) the rate change day occurs after the registered person provides the tax invoice for the supply; and
     
@@ -6988,11 +7102,11 @@ General provisions
     
     *   (b) the registered person receives the payment on or before the second Monday after the rate change day.
     
-    Section 78AA: inserted, on 7 September 2010, by [section 193][611] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
+    Section 78AA: inserted, on 7 September 2010, by [section 193][622] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
-    Section 78AA(5): amended (with effect on 7 September 2010), on 21 December 2010, by [section 23(1)][608] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 78AA(5): amended (with effect on 7 September 2010), on 21 December 2010, by [section 23(1)][619] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 78AA(12): amended (with effect on 7 September 2010), on 21 December 2010, by [section 23(2)][608] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 78AA(12): amended (with effect on 7 September 2010), on 21 December 2010, by [section 23(2)][619] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
 
 ##### 78A Returns to be furnished in 2 parts for taxable period in which change in rate of tax occurs
     
@@ -7022,13 +7136,13 @@ General provisions
     
     Section 78A: inserted, on 28 July 1988, by section 4(1) of the Goods and Services Tax Amendment Act (No 3) 1988 (1988 No 125).
     
-    Section 78A(1): amended, on 23 March 1989, by [section 21(1)][612] of the Finance Act 1989 (1989 No 13).
+    Section 78A(1): amended, on 23 March 1989, by [section 21(1)][623] of the Finance Act 1989 (1989 No 13).
     
-    Section 78A(4): amended, on 31 March 2007 (applying for taxable periods ending on or after 31 March 2007), by [section 297(1)(a)][613] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 78A(4): amended, on 31 March 2007 (applying for taxable periods ending on or after 31 March 2007), by [section 297(1)(a)][624] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 78A(5): added, on 23 March 1989, by [section 21(2)][612] of the Finance Act 1989 (1989 No 13).
+    Section 78A(5): added, on 23 March 1989, by [section 21(2)][623] of the Finance Act 1989 (1989 No 13).
     
-    Section 78A(5): amended, on 1 April 2008, by [section 297(1)(b)][613] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 78A(5): amended, on 1 April 2008, by [section 297(1)(b)][624] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
 
 ##### 78B Adjustments to tax payable for persons furnishing returns following change in rate of tax
     
@@ -7062,13 +7176,13 @@ General provisions
         
         *   (iii) any supply made to the registered person that is a supply of secondhand goods to which [section 3A(1)(c)][7] of the input tax definition applies; or
         
-        *   (iv) any supply made by the registered person that is a specified supply within the meaning of [section 86][159]; and
+        *   (iv) any supply made by the registered person that is a specified supply within the meaning of [section 86][161]; and
         
         
     
     *   (aa) in relation to a person who, as at the date on which the new rate of tax comes into force, is required to account for tax payable on a hybrid basis,---
             
-        *   (ia) any supply that is made by the registered person as a private training establishment granted registration by the Qualifications Authority under [section 236][614] of the Education Act 1989 and for which consideration is held in trust on the day before that date, if the registered person includes such supplies in the form referred to in subsection (2); or
+        *   (ia) any supply that is made by the registered person as a private training establishment granted registration by the Qualifications Authority under [section 236][625] of the Education Act 1989 and for which consideration is held in trust on the day before that date, if the registered person includes such supplies in the form referred to in subsection (2); or
         
         *   (i) any taxable supply made to the registered person; or
         
@@ -7078,7 +7192,7 @@ General provisions
     
     *   (b) in relation to a person who, as at the date on which the new rate of tax comes into force, is required to account for tax payable on an invoice basis,---
             
-        *   (i) any supply made by the registered person as a private training establishment granted registration by the Qualifications Authority under [section 236][614] of the Education Act 1989 and for which consideration is held in trust on the day before that date, if the registered person includes such supplies in the form referred to in subsection (2); or
+        *   (i) any supply made by the registered person as a private training establishment granted registration by the Qualifications Authority under [section 236][625] of the Education Act 1989 and for which consideration is held in trust on the day before that date, if the registered person includes such supplies in the form referred to in subsection (2); or
         
         *   (ii) any supply made to the registered person that is a supply of secondhand goods to which [section 3A(1)(c)][7] applies,---
         
@@ -7096,7 +7210,7 @@ General provisions
     
     *   (d) the supply is not required to be taken into account (otherwise than pursuant to this section) in calculating the tax payable by the registered person in respect of---
             
-        *   (i) that part of the taxable period in which the new rate of tax comes into force that is required by [section 78A][142] to be covered by a Part 1 return; or
+        *   (i) that part of the taxable period in which the new rate of tax comes into force that is required by [section 78A][144] to be covered by a Part 1 return; or
         
         *   (ii) any other taxable period ending before the new rate of tax comes into force; and
         
@@ -7122,7 +7236,7 @@ General provisions
     
     (2B) For the purposes of this section, a taxable supply made by a registered person on or after the date on which the new rate of tax comes into force is treated as being made before that date if---
         
-    *   (a) the registered person makes the supply as a private training establishment granted registration by the Qualifications Authority under [section 236][614] of the Education Act 1989; and
+    *   (a) the registered person makes the supply as a private training establishment granted registration by the Qualifications Authority under [section 236][625] of the Education Act 1989; and
     
     *   (b) the consideration for the supply is held in trust on the day before that date; and
     
@@ -7138,7 +7252,7 @@ General provisions
     
     (4) Where the amount of any adjustment calculated in accordance with this section is a positive amount, that amount shall, in relation to the registered person, be deemed to be output tax attributable to the taxable period for,----
         
-    *   (a) the person's Part 1 return furnished under [section 78A][142]; or
+    *   (a) the person's Part 1 return furnished under [section 78A][144]; or
     
     *   (b) the return for the taxable period ending with the day preceding the date on which the new rate of tax comes into force, if the person is not required to furnish a Part 1 return.
     
@@ -7186,43 +7300,43 @@ General provisions
     
     Section 78B: inserted, on 28 July 1988, by section 4(1) of the Goods and Services Tax Amendment Act (No 3) 1988 (1988 No 125).
     
-    Section 78B heading: amended, on 7 September 2010, by [section 194(1)][615] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
+    Section 78B heading: amended, on 7 September 2010, by [section 194(1)][626] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
-    Section 78B(1): substituted, on 23 March 1989, by [section 22(1)][616] of the Finance Act 1989 (1989 No 13).
+    Section 78B(1): substituted, on 23 March 1989, by [section 22(1)][627] of the Finance Act 1989 (1989 No 13).
     
     Section 78B(1)(a)(ii): amended, on 1 April 1991, by section 6(1)(a) of the Goods and Services Tax Amendment Act 1991 (1991 No 11).
     
     Section 78B(1)(a) second subparagraph (ii): added, on 1 April 1991, by section 6(1)(b) of the Goods and Services Tax Amendment Act 1991 (1991 No 11).
     
-    Section 78B(2): substituted, on 23 March 1989, by [section 22(1)][616] of the Finance Act 1989 (1989 No 13).
+    Section 78B(2): substituted, on 23 March 1989, by [section 22(1)][627] of the Finance Act 1989 (1989 No 13).
     
-    Section 78B(2)(b): repealed, on 20 May 2010, by [section 53(1)][617] of the Taxation (Budget Measures) Act 2010 (2010 No 27).
+    Section 78B(2)(b): repealed, on 20 May 2010, by [section 53(1)][628] of the Taxation (Budget Measures) Act 2010 (2010 No 27).
     
-    Section 78B(2A): inserted, on 23 March 1989, by [section 22(1)][616] of the Finance Act 1989 (1989 No 13).
+    Section 78B(2A): inserted, on 23 March 1989, by [section 22(1)][627] of the Finance Act 1989 (1989 No 13).
     
-    Section 78B(2A)(a)(iii): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 117(1)][618] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 78B(2A)(a)(iii): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 117(1)][629] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
     Section 78B(2A)(aa): inserted, on 1 April 1991, by section 6(2) of the Goods and Services Tax Amendment Act 1991 (1991 No 11).
     
-    Section 78B(2A)(aa)(ia): inserted, on 7 September 2010, by [section 194(2)][615] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
+    Section 78B(2A)(aa)(ia): inserted, on 7 September 2010, by [section 194(2)][626] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
-    Section 78B(2A)(aa)(ii): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 117(1)][618] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 78B(2A)(aa)(ii): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 117(1)][629] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 78B(2A)(b): substituted, on 7 September 2010, by [section 194(3)][615] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
+    Section 78B(2A)(b): substituted, on 7 September 2010, by [section 194(3)][626] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
-    Section 78B(2A)(e): substituted, on 7 September 2010, by [section 194(4)][615] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
+    Section 78B(2A)(e): substituted, on 7 September 2010, by [section 194(4)][626] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
-    Section 78B(2B): inserted, on 7 September 2010, by [section 194(5)][615] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
+    Section 78B(2B): inserted, on 7 September 2010, by [section 194(5)][626] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
-    Section 78B(4): amended, on 20 May 2010, by [section 53(2)][617] of the Taxation (Budget Measures) Act 2010 (2010 No 27).
+    Section 78B(4): amended, on 20 May 2010, by [section 53(2)][628] of the Taxation (Budget Measures) Act 2010 (2010 No 27).
     
-    Section 78B(4)(a): added, on 20 May 2010, by [section 53(2)][617] of the Taxation (Budget Measures) Act 2010 (2010 No 27).
+    Section 78B(4)(a): added, on 20 May 2010, by [section 53(2)][628] of the Taxation (Budget Measures) Act 2010 (2010 No 27).
     
-    Section 78B(4)(b): added, on 20 May 2010, by [section 53(2)][617] of the Taxation (Budget Measures) Act 2010 (2010 No 27).
+    Section 78B(4)(b): added, on 20 May 2010, by [section 53(2)][628] of the Taxation (Budget Measures) Act 2010 (2010 No 27).
     
-    Section 78B(5): amended, on 20 May 2010, by [section 53(3)][617] of the Taxation (Budget Measures) Act 2010 (2010 No 27).
+    Section 78B(5): amended, on 20 May 2010, by [section 53(3)][628] of the Taxation (Budget Measures) Act 2010 (2010 No 27).
     
-    Section 78B(5)(c): substituted, on 20 May 2010, by [section 53(3)][617] of the Taxation (Budget Measures) Act 2010 (2010 No 27).
+    Section 78B(5)(c): substituted, on 20 May 2010, by [section 53(3)][628] of the Taxation (Budget Measures) Act 2010 (2010 No 27).
     
     Section 78B(6): amended (with effect on 1 July 1989), on 19 December 1989, by section 16(2) of the Goods and Services Tax Amendment Act (No 2) 1989 (1989 No 152).
     
@@ -7240,11 +7354,11 @@ General provisions
 
 ##### 78BA Adjustments to tax payable in relation to credit and debit notes following change in rate of tax
     
-*   (1) Subject to subsection (6) of [section 78B][143], where---
+*   (1) Subject to subsection (6) of [section 78B][145], where---
         
     *   (a) there is a change in the rate of tax imposed by [section 8][14]; and
     
-    *   (b) any registered person (being a supplier) has made an adjustment pursuant to [section 78B][143] in respect of any qualifying supply made by that person; and
+    *   (b) any registered person (being a supplier) has made an adjustment pursuant to [section 78B][145] in respect of any qualifying supply made by that person; and
     
     *   (c) that registered person subsequently issues a debit note or credit note (in accordance with [section 25][69]) in respect of a qualifying supply made for which payment has not been received as at the time of the issue of that debit note or credit note,---
     
@@ -7254,7 +7368,7 @@ General provisions
         
     *   (a) there is a change in the rate of tax imposed by [section 8][14]; and
     
-    *   (b) any registered person (being a recipient) has made an adjustment pursuant to [section 78B][143] in respect of any qualifying supply received by that person; and
+    *   (b) any registered person (being a recipient) has made an adjustment pursuant to [section 78B][145] in respect of any qualifying supply received by that person; and
     
     *   (c) that registered person has subsequently, in respect of any qualifying supply,---
             
@@ -7292,7 +7406,7 @@ General provisions
         
     *   (a) there is a change in the rate of tax imposed by [section 8][14]; and
     
-    *   (b) a registered person is required pursuant to [section 78A][142] to furnish both a Part 1 return and a Part 2 return for any taxable period during which the new rate of tax comes into force; and
+    *   (b) a registered person is required pursuant to [section 78A][144] to furnish both a Part 1 return and a Part 2 return for any taxable period during which the new rate of tax comes into force; and
     
     *   (c) the Commissioner has during that taxable period, at any time before the date on which the new rate of tax comes into force, pursuant to [section 19][37] or [section 19A][38] directed the person to change---
             
@@ -7316,11 +7430,11 @@ General provisions
         
         notwithstanding that the supply may have occurred during any taxable period or part of a taxable period occurring before the date on which the new rate came into force; and
     
-    *   (b) for the purpose of determining the amount of any such input or output tax deducted or accounted for, or that would have been deducted or accounted for, no account shall be taken of the amount of any adjustment under [section 78B][143]; and
+    *   (b) for the purpose of determining the amount of any such input or output tax deducted or accounted for, or that would have been deducted or accounted for, no account shall be taken of the amount of any adjustment under [section 78B][145]; and
     
     *   (c) any payments that are made or received by that registered person after that change in accounting basis shall be deemed, notwithstanding any other provision of this Act, to be consideration for a supply made or received by that registered person on or after the date on which the new rate of tax comes into force, and the amount of any input tax or output tax in respect of any such supply shall accordingly be determined on the basis of the new rate of tax.
     
-    Section 78C: inserted, on 23 March 1989, by [section 23][619] of the Finance Act 1989 (1989 No 13).
+    Section 78C: inserted, on 23 March 1989, by [section 23][630] of the Finance Act 1989 (1989 No 13).
     
     Section 78C(1): amended, on 1 April 1991, by section 7(2)(a) of the Goods and Services Tax Amendment Act 1991 (1991 No 11).
     
@@ -7330,7 +7444,7 @@ General provisions
     
     Section 78C(2)(a): amended, on 1 April 1991, by section 7(2)(c) of the Goods and Services Tax Amendment Act 1991 (1991 No 11).
     
-    Section 78C(2)(a)(i): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 118(1)][620] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 78C(2)(a)(i): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 118(1)][631] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
     Section 78C(2)(b): amended (with effect on 1 July 1989), on 19 December 1989, by section 18(1) of the Goods and Services Tax Amendment Act (No 2) 1989 (1989 No 152).
     
@@ -7344,7 +7458,7 @@ General provisions
     
     *   (b) all acts and proceedings for the assessment or recovery of any revenue, tax, fine, or penalty assessed or assessable or paid or payable pursuant to the repealed or amended provision, and all proceedings in respect of offences committed or alleged to be committed in respect of the repealed or amended provision, may be instituted or continued as if the provision had not been repealed or amended.
     
-    Section 78D: inserted, on 23 March 1989, by [section 23][619] of the Finance Act 1989 (1989 No 13).
+    Section 78D: inserted, on 23 March 1989, by [section 23][630] of the Finance Act 1989 (1989 No 13).
 
 ##### 78E Alteration of agreed price in relation to supply mistakenly believed to be of a going concern
     
@@ -7358,13 +7472,13 @@ General provisions
     
     the supplier may increase the consideration for the supply by an amount equal to the agreed price in the contract or agreement multiplied by a percentage equal to the percentage specified in [section 8(1)][14] applicable to that supply.
     
-    Section 78E: substituted, on 12 December 1995 (applying with respect to supplies made under a contract or agreement entered into on or after 10 April 1995), by [section 6(1)][621] of the Goods and Services Tax Amendment Act (No 2) 1995 (1995 No 75).
+    Section 78E: substituted, on 12 December 1995 (applying with respect to supplies made under a contract or agreement entered into on or after 10 April 1995), by [section 6(1)][632] of the Goods and Services Tax Amendment Act (No 2) 1995 (1995 No 75).
     
-    Section 78E(a): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 119(1)][622] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 78E(a): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 119(1)][633] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 78E(b): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 119(1)][622] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 78E(b): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 119(1)][633] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 78E(c): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 119(1)][622] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 78E(c): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 119(1)][633] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
 
 ##### 78F Liability in relation to supplies of land
     
@@ -7384,7 +7498,7 @@ General provisions
     
     (4) For the purposes of [section 5(2)][9], the statement referred to in subsection (2) must be provided to the second person referred to in section 5(2).
     
-    (5) For the purposes of [section 60B][118] and a contract for a supply that wholly or partly consists of land, when the person who enters the contract (**person B**) nominates another person (**person C**) to receive the supply, the requirements of subsection (2) are met if---
+    (5) For the purposes of [section 60B][120] and a contract for a supply that wholly or partly consists of land, when the person who enters the contract (**person B**) nominates another person (**person C**) to receive the supply, the requirements of subsection (2) are met if---
         
     *   (a) person B provides the required information as it relates to their expectation of the circumstances of person C:
     
@@ -7400,19 +7514,19 @@ General provisions
     
     (7) When a supply is made to a person who is, for the purposes of the supply, an agent acting on behalf of an undisclosed principal, the agent must provide their registration number to the supplier at or before the date of settlement. If the agent does not have a registration number, their tax file number may be provided in its place. On meeting the requirements of this subsection, the person is treated as having met the requirements of subsection (2B).
     
-    Section 78F: inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 24(1)][623] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 78F: inserted, on 1 April 2011 (applying to supplies made on or after 1 April 2011), by [section 24(1)][634] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 78F(2B): inserted, on 29 August 2011, by [section 244(1)][624] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 78F(2B): inserted, on 29 August 2011, by [section 244(1)][635] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 78F(3): amended (with effect on 1 April 2011), on 2 November 2012, by [section 226(1)][625] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 78F(3): amended (with effect on 1 April 2011), on 2 November 2012, by [section 226(1)][636] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 78F(5): replaced (with effect on 1 April 2011), on 2 November 2012, by [section 226(2)][625] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 78F(5): replaced (with effect on 1 April 2011), on 2 November 2012, by [section 226(2)][636] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 78F(6): added (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 244(2)][624] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 78F(6): added (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 244(2)][635] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 78F(7): added (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 244(2)][624] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 78F(7): added (with effect on 1 April 2011), on 29 August 2011 (applying to supplies made on or after 1 April 2011), by [section 244(2)][635] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 78F(7): amended (with effect on 1 April 2011), on 2 November 2012, by [section 226(3)][625] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 78F(7): amended (with effect on 1 April 2011), on 2 November 2012, by [section 226(3)][636] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
 
 ##### 78G Railways vesting: zero-rating and timing of tax calculations and documents
     
@@ -7424,7 +7538,7 @@ General provisions
     
     (4) If a document purporting to be a tax invoice, a credit note, or a debit note (the **issued document**) is issued by or to New Zealand Railways Corporation in respect of a supply that is made by or to KiwiRail Holdings Limited on or after 31 December 2012, the issued document is treated as if it is a tax invoice, a credit note, or a debit note, as appropriate, that is issued by or to KiwiRail Holdings Limited, if the supply is in respect of or in relation to Railways assets and liabilities.
     
-    Section 78G: inserted (with effect on 31 December 2012), on 17 July 2013, by [section 145][626] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
+    Section 78G: inserted (with effect on 31 December 2012), on 17 July 2013, by [section 145][637] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
 
 ##### 79 Disclosure of information
     
@@ -7442,19 +7556,19 @@ General provisions
     
     *   (b) for the purpose of any proceedings connected with a matter in relation to which those persons so authorised perform their duties.
     
-    Section 79(1)(b): amended, on 1 October 1996, by [section 289(1)][164] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 79(1)(b): amended, on 1 October 1996, by [section 289(1)][166] of the Customs and Excise Act 1996 (1996 No 27).
 
 ##### 80 Power to extend time for doing anything under Act
     
 *   \[Repealed\]
     
-    Section 80: repealed, on 21 December 2004, by [section 160][627] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 80: repealed, on 21 December 2004, by [section 160][638] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
 
 ##### 81 Regulations
     
 *   \[Repealed\]
     
-    Section 81: repealed, on 21 December 2004, by [section 161][628] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 81: repealed, on 21 December 2004, by [section 161][639] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
 
 ## Part 12  
 Transitional provisions
@@ -7463,13 +7577,13 @@ Transitional provisions
     
 *   \[Repealed\]
     
-    Section 82: repealed, on 10 October 2000 (applying on 10 October 2000), by [section 120(1)][629] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 82: repealed, on 10 October 2000 (applying on 10 October 2000), by [section 120(1)][640] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
 
 ##### 83 Deduction for sales tax
     
 *   \[Repealed\]
     
-    Section 83: repealed, on 10 October 2000 (applying on 10 October 2000), by [section 121(1)][630] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 83: repealed, on 10 October 2000 (applying on 10 October 2000), by [section 121(1)][641] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
 
 ##### 84 Supplies prior to 1 October 1986
     
@@ -7541,13 +7655,13 @@ Transitional provisions
     
     Section 84(1B): inserted (with effect on 3 December 1985), on 8 August 1986, by section 36(2) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 84(3): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 122(1)][631] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 84(3): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 122(1)][642] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
     Section 84(3): amended (with effect on 3 December 1985), on 8 August 1986, by section 36(4) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
-    Section 84(3)(a): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 122(1)][631] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 84(3)(a): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 122(1)][642] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 84(3)(b): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 122(1)][631] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 84(3)(b): amended, on 10 October 2000 (applying on and after 10 October 2000), by [section 122(1)][642] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
     Section 84(3)(b)(iii): substituted (with effect on 3 December 1985), on 8 August 1986, by section 36(3) of the Goods and Services Tax Amendment Act 1986 (1986 No 43).
     
@@ -7559,7 +7673,7 @@ Transitional provisions
     
 *   (1) This section applies to a supply of services that is treated by [section 8(4B)][14] as being made in New Zealand if---
         
-    *   (a) the supply has a time of performance under [section 84(1) to (1B)][156] that is, or would be if the supply were made by a registered person, before the date on which [section 146(2)][308] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 came into force and---
+    *   (a) the supply has a time of performance under [section 84(1) to (1B)][158] that is, or would be if the supply were made by a registered person, before the date on which [section 146(2)][310] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 came into force and---
             
         *   (i) the supply would, but for this section, be treated by [section 9][16] or [sections 21 to 21H][51] as taking place on or after that date; and
         
@@ -7567,7 +7681,7 @@ Transitional provisions
         
         
     
-    *   (b) the supply has a time of performance under [section 84(1) to (1B)][156] that is, or would be if the supply were made by a registered person, on or after the date on which [section 146(2)][308] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 came into force and the supply would, but for this section, be treated by [section 9][16] or [sections 21 to 21H][51] as taking place before that date.
+    *   (b) the supply has a time of performance under [section 84(1) to (1B)][158] that is, or would be if the supply were made by a registered person, on or after the date on which [section 146(2)][310] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 came into force and the supply would, but for this section, be treated by [section 9][16] or [sections 21 to 21H][51] as taking place before that date.
     
     (2) A supply of services that satisfies subsection (1)(a) is made at the time the services are performed.
     
@@ -7575,17 +7689,17 @@ Transitional provisions
         
     *   (a) the time the services are performed, for the purpose of [section 8][14]:
     
-    *   (b) the date on which [section 146(2)][308] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 came into force, for the purpose of [section 20][43].
+    *   (b) the date on which [section 146(2)][310] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 came into force, for the purpose of [section 20][43].
     
-    (4) A payment that is in respect of a supply that satisfies subsection (1)(b), and is made or received by a person before the date on which [section 146(2)][308] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 came into force, is treated for the purpose of [section 20(3)(b)(i)][43] and (4)(b)(i) as having been made or received by the person on that date.
+    (4) A payment that is in respect of a supply that satisfies subsection (1)(b), and is made or received by a person before the date on which [section 146(2)][310] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 came into force, is treated for the purpose of [section 20(3)(b)(i)][43] and (4)(b)(i) as having been made or received by the person on that date.
     
-    Section 84B: inserted, on 25 November 2003, by [section 169][632] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 84B: inserted, on 25 November 2003, by [section 169][643] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 84B(2): amended, on 21 December 2004, by [section 162(1)][633] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 84B(2): amended, on 21 December 2004, by [section 162(1)][644] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
-    Section 84B(3): amended, on 21 December 2004, by [section 162(2)][633] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 84B(3): amended, on 21 December 2004, by [section 162(2)][644] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
-    Section 84B(3)(a): amended, on 21 December 2004, by [section 162(3)][633] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 84B(3)(a): amended, on 21 December 2004, by [section 162(3)][644] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
 
 ##### 85 Certain contracts entered into on or before 20 August 1985
     
@@ -7627,11 +7741,11 @@ Transitional provisions
     
     (2) For the purposes of this Act, in respect of any specified supply, where the Commissioner has made a determination in accordance with subsection (1),---
         
-    *   (a) the supplier shall be deemed to be required to account for tax payable on an invoice basis pursuant to [section 19][37] for each such specified supply to which [section 84][156] applies and in respect of which an invoice has been issued or any payment received prior to 1 October 1986, and shall be deemed to have received payment in full on 1 October 1986 for each such supply:
+    *   (a) the supplier shall be deemed to be required to account for tax payable on an invoice basis pursuant to [section 19][37] for each such specified supply to which [section 84][158] applies and in respect of which an invoice has been issued or any payment received prior to 1 October 1986, and shall be deemed to have received payment in full on 1 October 1986 for each such supply:
     
     *   (b) where any amount of the consideration in money for that supply (not being a supply to which paragraph (c) applies) remains unpaid as at the end of 30 September 1986 (not being an amount written off as a bad debt as at that date), the supplier shall set off against any amount of tax payable by that supplier in respect of the taxable period in which 1 October 1986 occurs, an amount equal to the tax fraction of the amount of such consideration remaining unpaid, and to the extent that it cannot be so set off, that amount shall be carried forward to the next taxable period and set off against any amount of tax payable by that supplier in respect of that next taxable period, and so on:
     
-    *   (c) where any supply to which [section 84][156] applies and in respect of which no invoice has been issued nor any payment received prior to 1 October 1986, the supplier shall, in any one taxable period ending prior to 1 October 1987, set off against any amount of tax payable by that supplier in respect of that taxable period, an amount equal to the tax fraction of the portion of the consideration in money in respect of any such supply that, by virtue of section 84(3)(a), is not subject to tax pursuant to [section 8(1)][14], and to the extent that it cannot be so set off, that amount shall be carried forward to the next taxable period and set off against any amount of tax payable by that supplier in respect of that next taxable period, and so on:
+    *   (c) where any supply to which [section 84][158] applies and in respect of which no invoice has been issued nor any payment received prior to 1 October 1986, the supplier shall, in any one taxable period ending prior to 1 October 1987, set off against any amount of tax payable by that supplier in respect of that taxable period, an amount equal to the tax fraction of the portion of the consideration in money in respect of any such supply that, by virtue of section 84(3)(a), is not subject to tax pursuant to [section 8(1)][14], and to the extent that it cannot be so set off, that amount shall be carried forward to the next taxable period and set off against any amount of tax payable by that supplier in respect of that next taxable period, and so on:
     
     *   (d) any payment received on or after 1 October 1986 in respect of any specified supply to which paragraph (b) or paragraph (c) applies shall, notwithstanding anything in this Act, be deemed to be consideration in money for a taxable supply made by that supplier and charged with tax pursuant to [section 8(1)][14], and the supplier shall include as output tax, in the taxable period during which that payment has been received, an amount equal to the tax fraction of that payment:
     
@@ -7641,7 +7755,7 @@ Transitional provisions
 
 ##### 87 Change of accounting basis: transitional provision for certain local authorities
     
-*   (1) This section applies to a local authority referred to in the [Goods and Services Tax (Local Authorities Accounting on Payments Basis) Order 2009][634].
+*   (1) This section applies to a local authority referred to in the [Goods and Services Tax (Local Authorities Accounting on Payments Basis) Order 2009][645].
     
     (2) From 1 July 2013, the local authority must account for tax payable on an invoice basis.
     
@@ -7649,9 +7763,9 @@ Transitional provisions
     
     (4) If a local authority changes their accounting basis before 1 July 2013, the amount of the tax payable must be calculated on the day before the date on which the change is to take effect, although the amount remains available to be paid as described in subsection (3).
     
-    (5) No late payment penalty, shortfall penalty, or interest under [Part 7][190] of the Tax Administration Act 1994 arises for the local authority as a result of its application of the spreading provision in subsection (3), whether or not the authority incurs a tax liability because it changes its accounting basis before 1 July 2013\.
+    (5) No late payment penalty, shortfall penalty, or interest under [Part 7][192] of the Tax Administration Act 1994 arises for the local authority as a result of its application of the spreading provision in subsection (3), whether or not the authority incurs a tax liability because it changes its accounting basis before 1 July 2013\.
     
-    Section 87: inserted, on 17 July 2013, by [section 146][635] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
+    Section 87: inserted, on 17 July 2013, by [section 146][646] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
 
 ---
 
@@ -7663,7 +7777,7 @@ Commencement28 June 1991
 
 ##### 1 Short Title
     
-*   This Act may be cited as the [Goods and Services Tax Amendment Act (No 3) 1991][636], and shall be read together with and deemed part of the Goods and Services Tax Act 1985 (hereinafter referred to as ""the principal Act"").
+*   This Act may be cited as the [Goods and Services Tax Amendment Act (No 3) 1991][647], and shall be read together with and deemed part of the Goods and Services Tax Act 1985 (hereinafter referred to as ""the principal Act"").
 
 ##### 2 Meaning of term supply
     
@@ -7683,7 +7797,7 @@ Commencement12 December 1995
 
 ##### 1 Short Title
     
-*   This Act may be cited as the [Goods and Services Tax Amendment Act (No 2) 1995][637], and shall be read together with and deemed part of the Goods and Services Tax Act 1985 (hereinafter referred to as ""the principal Act"").
+*   This Act may be cited as the [Goods and Services Tax Amendment Act (No 2) 1995][648], and shall be read together with and deemed part of the Goods and Services Tax Act 1985 (hereinafter referred to as ""the principal Act"").
 
 ##### 3 Meaning of term supply
     
@@ -7709,7 +7823,7 @@ Commencement12 December 1995
     
     (4) Nothing in subsection (2) or subsection (3) limits the ability of any person to make an election under section 5(19) of the principal Act in respect of a supply made before 11 August 1995\.
     
-    Section 3(3): substituted (with effect on 11 August 1995), on 2 September 1996, by [section 49(1)][638] of the Taxation (Remedial Provisions) Act 1996 (1996 No 159).
+    Section 3(3): substituted (with effect on 11 August 1995), on 2 September 1996, by [section 49(1)][649] of the Taxation (Remedial Provisions) Act 1996 (1996 No 159).
 
 ---
 
@@ -7721,7 +7835,7 @@ Commencementsee section 1
 
 ##### 1 Short Title, application, and commencement
     
-*   (1) This Act may be cited as the [Goods and Services Tax Amendment Act 1996][639], and shall be read together with and deemed part of the Goods and Services Tax Act 1985 (in this Act referred to as ""the principal Act"").
+*   (1) This Act may be cited as the [Goods and Services Tax Amendment Act 1996][650], and shall be read together with and deemed part of the Goods and Services Tax Act 1985 (in this Act referred to as ""the principal Act"").
     
     (2) Except as provided in subsections (3) and (4), the provisions of this Act shall apply with respect to tax obligations, liabilities, and rights that are to be performed under or arise in relation to supplies made in respect of taxable periods commencing on or after 1 April 1997\.
     
@@ -7821,7 +7935,7 @@ Commencement2 September 1996
 
 ##### 1 Short Title
     
-*   This Act may be cited as the [Taxation (Remedial Provisions) Act 1996][640].
+*   This Act may be cited as the [Taxation (Remedial Provisions) Act 1996][651].
 
 ## Part 6  
 Amendments to Goods and Services Tax Act 1985
@@ -7856,7 +7970,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001][641].
+*   This Act is the [Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001][652].
 
 ##### 2 Commencement
     
@@ -7879,7 +7993,7 @@ Amendments to Goods and Services Tax Act 1985
     
     (3) If a fringe benefit is provided or granted before the relevant time in subsection (2) and the tax payable for the taxable period in which the fringe benefit is provided or granted has not yet been paid, a registered person must treat the fringe benefit as one to which subsection (1) applies.
     
-    Section 64(3): amended, on 24 October 2001 (applying on and after 27 March 2001), by [section 269(2)][642] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 64(3): amended, on 24 October 2001 (applying on and after 27 March 2001), by [section 269(2)][653] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
 
 ##### 68 Fringe benefits and entertainment expenses
     
@@ -7917,7 +8031,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002][643].
+*   This Act is the [Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002][654].
 
 ##### 2 Commencement
     
@@ -7950,7 +8064,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003][644].
+*   This Act is the [Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003][655].
 
 ##### 2 Commencement
     
@@ -8025,7 +8139,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006][645].
+*   This Act is the [Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006][656].
 
 ##### 2 Commencement
     
@@ -8138,7 +8252,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Taxation (Savings Investment and Miscellaneous Provisions) Act 2006][646].
+*   This Act is the [Taxation (Savings Investment and Miscellaneous Provisions) Act 2006][657].
 
 ##### 2 Commencement
     
@@ -8225,7 +8339,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Taxation (Tax Administration and Remedial Matters) Act 2011][647].
+*   This Act is the [Taxation (Tax Administration and Remedial Matters) Act 2011][658].
 
 ##### 2 Commencement
     
@@ -8318,7 +8432,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012][648].
+*   This Act is the [Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012][659].
 
 ##### 2 Commencement
     
@@ -8453,135 +8567,135 @@ Amendments to Goods and Services Tax Act 1985
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][649] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][650] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][660] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][661] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][651] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][652] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][662] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][663] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93): [section 66][303]
+*   Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93): [section 66][305]
     
-    Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52): [sections 120][214], [121(2)][281], [123][337], [127(1)][436], [128][440], [129][442], [130(1), (3), (4), (7)][453], [131--135][467], [139][568], [143--146][585]
+    Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52): [sections 120--146][216]
     
-    Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][221]
+    Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][223]
     
-    Legislation Act 2012 (2012 No 119): [section 77(3)][607]
+    Legislation Act 2012 (2012 No 119): [section 77(3)][618]
     
-    Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89): [section 103][270]
+    Climate Change Response (Emissions Trading and Other Matters) Amendment Act 2012 (2012 No 89): [section 103][273]
     
-    Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88): [Part 4][653]
+    Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88): [Part 4][664]
     
-    Road User Charges Act 2012 (2012 No 1): [section 94][274]
+    Road User Charges Act 2012 (2012 No 1): [section 94][277]
     
-    Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63): [sections 234--244][654]
+    Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63): [sections 234--244][665]
     
-    Taxation (GST and Remedial Matters) Act 2010 (2010 No 130): [sections 4--24][194], [189][655]
+    Taxation (GST and Remedial Matters) Act 2010 (2010 No 130): [sections 4--24][196], [189][666]
     
-    Governor-General Act 2010 (2010 No 122): [section 21][304]
+    Governor-General Act 2010 (2010 No 122): [section 21][306]
     
-    Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109): [sections 191--194][363]
+    Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109): [sections 191--194][367]
     
-    Affordable Housing: Enabling Territorial Authorities Act Repeal Act 2010 (2010 No 101): [section 5][279]
+    Affordable Housing: Enabling Territorial Authorities Act Repeal Act 2010 (2010 No 101): [section 5][282]
     
-    Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37): [section 113(1)][208]
+    Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37): [section 113(1)][210]
     
-    Taxation (Budget Measures) Act 2010 (2010 No 27): [sections 45--47][306], [50--53][493]
+    Taxation (Budget Measures) Act 2010 (2010 No 27): [sections 45--47][308], [50--53][498]
     
-    Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63): [sections 145--147][226]
+    Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63): [sections 145--147][228]
     
-    Tariff Amendment Act 2009 (2009 No 62): [section 9(6)][411]
+    Tariff Amendment Act 2009 (2009 No 62): [section 9(6)][415]
     
-    Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34): [sections 704--712][200]
+    Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34): [sections 704--712][202]
     
-    Land Transport Amendment Act 2009 (2009 No 17): [section 35(4)][271]
+    Land Transport Amendment Act 2009 (2009 No 17): [section 35(4)][274]
     
-    Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(2)(a)][218]
+    Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(2)(a)][220]
     
-    Taxation (Business Tax Measures) Act 2009 (2009 No 5): [sections 25--27][419]
+    Taxation (Business Tax Measures) Act 2009 (2009 No 5): [sections 25--27][423]
     
-    Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85): [sections 79][352], [80][362]
+    Climate Change Response (Emissions Trading) Amendment Act 2008 (2008 No 85): [sections 79][355], [80][366]
     
-    Taxation (Limited Partnerships) Act 2008 (2008 No 2): [section 30][196]
+    Taxation (Limited Partnerships) Act 2008 (2008 No 2): [section 30][198]
     
-    Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109): [sections 271--279][217]
+    Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109): [sections 271--279][219]
     
-    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][203]
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][205]
     
-    Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81): [sections 211--218][225]
+    Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81): [sections 211--218][227]
     
-    Insolvency Act 2006 (2006 No 55): [section 445][531]
+    Insolvency Act 2006 (2006 No 55): [section 445][536]
     
-    Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3): [sections 283--289][195], [291][418], [292(1)][427], [294--297][569]
+    Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3): [sections 283--289][197], [291][422], [292(1)][431], [294--297][578]
     
-    Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79): [sections 155--160][272]
+    Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79): [sections 155--160][275]
     
-    [Goods and Services Tax Amendment Act 2005][656] (2005 No 9)
+    [Goods and Services Tax Amendment Act 2005][667] (2005 No 9)
     
-    Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111): [sections 144][215], [145][366], [147--151][431], [153--162][496]
+    Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111): [sections 144][217], [145][370], [147--151][435], [153--162][501]
     
-    Local Government (Auckland) Amendment Act 2004 (2004 No 57): [section 47][209]
+    Local Government (Auckland) Amendment Act 2004 (2004 No 57): [section 47][211]
     
-    Income Tax Act 2004 (2004 No 35): [section YA 2][228]
+    Income Tax Act 2004 (2004 No 35): [section YA 2][230]
     
-    Civil Aviation Amendment Act 2004 (2004 No 8): [section 41(3)][357]
+    Civil Aviation Amendment Act 2004 (2004 No 8): [section 41(3)][361]
     
-    Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122): [sections 140--155][201], [158--169][513]
+    Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122): [sections 140--155][203], [158--169][518]
     
-    Land Transport Management Act 2003 (2003 No 118): [section 90][290]
+    Land Transport Management Act 2003 (2003 No 118): [section 90][292]
     
-    Credit Contracts and Consumer Finance Act 2003 (2003 No 52): [section 139][202]
+    Credit Contracts and Consumer Finance Act 2003 (2003 No 52): [section 139][204]
     
-    Gambling Act 2003 (2003 No 51): [section 374][282]
+    Gambling Act 2003 (2003 No 51): [section 374][284]
     
-    Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5): [sections 152][197], [154--161][309]
+    Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5): [sections 152][199], [154--161][311]
     
-    Racing Act 2003 (2003 No 3): [section 69(1)][280]
+    Racing Act 2003 (2003 No 3): [section 69(1)][283]
     
-    Local Government Act 2002 (2002 No 84): [section 262][207]
+    Local Government Act 2002 (2002 No 84): [section 262][209]
     
-    Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32): [sections 96][220], [98][296], [100][361], [105][506]
+    Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32): [sections 96][222], [98][298], [100][365], [105][511]
     
-    Electoral Amendment Act 2002 (2002 No 1): [section 102(1)][275]
+    Electoral Amendment Act 2002 (2002 No 1): [section 102(1)][278]
     
-    Public Trust Act 2001 (2001 No 100): [section 170(1)][219]
+    Public Trust Act 2001 (2001 No 100): [section 170(1)][221]
     
-    Health and Disability Services (Safety) Act 2001 (2001 No 93): [section 58(1)][172]
+    Health and Disability Services (Safety) Act 2001 (2001 No 93): [section 58(1)][174]
     
-    Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85): [sections 238][285], [240][350]
+    Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85): [sections 238][287], [240][353]
     
-    [Goods and Services Tax Amendment Act 2001][657] (2001 No 68)
+    [Goods and Services Tax Amendment Act 2001][668] (2001 No 68)
     
-    Accident Compensation Act 2001 (2001 No 49): [section 338][289]
+    Accident Compensation Act 2001 (2001 No 49): [section 338][291]
     
-    Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4): [sections 61--64][227], [68][492], [69][505]
+    Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4): [sections 61--64][229], [68][497], [69][510]
     
-    Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39): [Part 3][658]
+    Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39): [Part 3][669]
     
-    Personal Property Securities Act 1999 (1999 No 126): [section 191(1)][530]
+    Personal Property Securities Act 1999 (1999 No 126): [section 191(1)][535]
     
-    Taxation (Remedial Matters) Act 1999 (1999 No 98): [section 78(1)][238]
+    Taxation (Remedial Matters) Act 1999 (1999 No 98): [section 78(1)][240]
     
     Accident Insurance Act 1998 (1998 No 114): section 416(1)
     
-    Social Security Amendment Act 1998 (1998 No 19): [section 57][277]
+    Social Security Amendment Act 1998 (1998 No 19): [section 57][280]
     
-    Taxation (Remedial Provisions) Act 1998 (1998 No 7): [section 51][163]
+    Taxation (Remedial Provisions) Act 1998 (1998 No 7): [section 51][165]
     
-    Taxation (Remedial Provisions) Act 1997 (1997 No 74): [sections 109][216], [111][438], [112][507], [114][540], [115][576]
+    Taxation (Remedial Provisions) Act 1997 (1997 No 74): [sections 109][218], [111][443], [112][512], [114][545], [115][587]
     
-    Taxation (Remedial Provisions) Act 1996 (1996 No 159): [sections 51--53][198]
+    Taxation (Remedial Provisions) Act 1996 (1996 No 159): [sections 51--53][200]
     
     Taxation (Core Provisions) Act 1996 (1996 No 67): section 484
     
-    [Goods and Services Tax Amendment Act 1996][639] (1996 No 59)
+    [Goods and Services Tax Amendment Act 1996][650] (1996 No 59)
     
-    Customs and Excise Act 1996 (1996 No 27): [section 289(1)][164]
+    Customs and Excise Act 1996 (1996 No 27): [section 289(1)][166]
     
-    [Goods and Services Tax Amendment Act (No 2) 1995][637] (1995 No 75)
+    [Goods and Services Tax Amendment Act (No 2) 1995][648] (1995 No 75)
     
-    Banking Act Repeal Act 1995 (1995 No 32): [section 2(2)][659]
+    Banking Act Repeal Act 1995 (1995 No 32): [section 2(2)][670]
     
     Goods and Services Tax Amendment Act 1995 (1995 No 22)
     
@@ -8589,11 +8703,11 @@ Amendments to Goods and Services Tax Act 1985
     
     Income Tax Act 1994 (1994 No 164): section YB 1
     
-    [Goods and Services Tax Amendment Act 1994][660] (1994 No 77)
+    [Goods and Services Tax Amendment Act 1994][671] (1994 No 77)
     
     Goods and Services Tax Amendment Act (No 2) 1993 (1993 No 131)
     
-    Privacy Act 1993 (1993 No 28): [section 129(1)][211]
+    Privacy Act 1993 (1993 No 28): [section 129(1)][213]
     
     Goods and Services Tax Amendment Act 1993 (1993 No 10)
     
@@ -8601,19 +8715,19 @@ Amendments to Goods and Services Tax Act 1985
     
     Goods and Services Tax Amendment Act 1992 (1992 No 2)
     
-    [Goods and Services Tax Amendment Act (No 3) 1991][636] (1991 No 48)
+    [Goods and Services Tax Amendment Act (No 3) 1991][647] (1991 No 48)
     
     Goods and Services Tax Amendment Act 1991 (1991 No 11)
     
     Goods and Services Tax Amendment Act (No 2) 1990 (1990 No 93)
     
-    [Goods and Services Tax Amendment Act 1990][661] (1990 No 64)
+    [Goods and Services Tax Amendment Act 1990][672] (1990 No 64)
     
     Goods and Services Tax Amendment Act (No 2) 1989 (1989 No 152)
     
-    Public Finance Act 1989 (1989 No 44): [sections 65R(3)][291], [86][319]
+    Public Finance Act 1989 (1989 No 44): [sections 65R(3)][293], [86][321]
     
-    Finance Act 1989 (1989 No 13): [sections 15][307], [16][332], [20--23][606]
+    Finance Act 1989 (1989 No 13): [sections 15][309], [16][334], [20--23][617]
     
     Goods and Services Tax Amendment Act 1989 (1989 No 8)
     
@@ -8741,555 +8855,566 @@ Amendments to Goods and Services Tax Act 1985
 [107]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM84836
 [108]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM84846
 [109]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM84851
-[110]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM84852
-[111]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM84853
-[112]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM84888
-[113]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM84891
-[114]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM84893
-[115]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85203
-[116]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85219
-[117]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85221
-[118]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM3645112
-[119]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85233
-[120]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85237
-[121]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85246
-[122]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85249
-[123]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85251
-[124]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85255
-[125]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85257
-[126]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85259
-[127]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85261
-[128]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85263
-[129]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85265
-[130]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85267
-[131]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85269
-[132]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85272
-[133]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85274
-[134]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85276
-[135]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85278
-[136]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85280
-[137]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85281
-[138]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85289
-[139]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85296
-[140]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85298
-[141]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM3238203
-[142]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85507
-[143]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85512
-[144]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85527
-[145]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85529
-[146]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85537
-[147]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85539
-[148]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM3645186
-[149]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM5499559
-[150]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85543
-[151]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85545
-[152]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85547
-[153]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85549
-[154]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85550
-[155]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85552
-[156]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85556
-[157]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85564
-[158]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85569
-[159]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85578
-[160]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM5499561
-[161]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM348342
-[162]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM377336
-[163]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM424950
-[164]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM380185
-[165]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM355922
-[166]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM348353
-[167]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM95082
-[168]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1139100
-[169]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM94283
-[170]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM158592
-[171]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1520575
-[172]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM120905
-[173]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM271049
-[174]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM170872
-[175]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM444304
-[176]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM379823
-[177]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM76787
-[178]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM81360
-[179]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM308795
-[180]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM83331
-[181]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2044961
-[182]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM300989
-[183]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3338663
-[184]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM172479
-[185]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5505269
-[186]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1523134
-[187]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1523137
-[188]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM351027
-[189]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM160808
-[190]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM354985
-[191]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM347443
-[192]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM70851
-[193]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM393227
-[194]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123418
-[195]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM370704
-[196]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1185187
-[197]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM187107
-[198]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM407439
-[199]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3819781
-[200]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1401698
-[201]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232924
-[202]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM213532
-[203]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1523176
-[204]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123437
-[205]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3986013
-[206]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM212698
-[207]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM174088
-[208]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3016880
-[209]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM301337
-[210]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM333514
-[211]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM298439
-[212]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123438
-[213]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123439
-[214]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166115
-[215]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM326441
-[216]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM412952
-[217]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1172269
-[218]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1583888
-[219]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM124529
-[220]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM149764
-[221]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM4929207
-[222]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM70862
-[223]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232927
-[224]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM335510
-[225]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM401648
-[226]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2226670
-[227]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM86462
-[228]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM277147
-[229]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM137810
-[230]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM324671
-[231]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM26805
-[232]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM325263
-[233]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM143291
-[234]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM212734
-[235]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM70872
-[236]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM401651
-[237]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM370719
-[238]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM39099
-[239]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232928
-[240]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM70874
-[241]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3986015
-[242]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM384145
-[243]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM384199
-[244]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM405080
-[245]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM405305
-[246]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM158583
-[247]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3366850
-[248]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3705369
-[249]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3701424
-[250]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM433735
-[251]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM999800
-[252]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1154598
-[253]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3394800
-[254]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM309440
-[255]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM309498
-[256]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM309617
-[257]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM307518
-[258]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM94331
-[259]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM94350
-[260]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM359106
-[261]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM367671
-[262]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM230264
-[263]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM184063
-[264]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM207496
-[265]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM207804
-[266]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM209730
-[267]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM99493
-[268]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM227543
-[269]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM70879
-[270]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM4677378
-[271]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2015063
-[272]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM356092
-[273]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2226671
-[274]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3395080
-[275]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM131139
-[276]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM229837
-[277]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM426000
-[278]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232930
-[279]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2925109
-[280]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM185072
-[281]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166118
-[282]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM210735
-[283]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM213000
-[284]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM86463
-[285]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM116834
-[286]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM370722
-[287]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2773701
-[288]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3986016
-[289]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM104118
-[290]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM228040
-[291]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM162942
-[292]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM407441
-[293]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1401706
-[294]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3819788
-[295]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM371275
-[296]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM149768
-[297]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232931
-[298]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2178965
-[299]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM4034212
-[300]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2999100
-[301]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM190788
-[302]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM70881
-[303]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM4034653
-[304]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3324300
-[305]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2226500
-[306]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2981085
-[307]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM145376
-[308]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232933
-[309]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM187115
-[310]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2586227
-[311]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3986017
-[312]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM187116
-[313]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM370723
-[314]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232934
-[315]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166119
-[316]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123440
-[317]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3986018
-[318]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM70882
-[319]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM163175
-[320]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1401707
-[321]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1512300
-[322]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM211520
-[323]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1513374
-[324]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1520110
-[325]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1517703
-[326]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3819789
-[327]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM70883
-[328]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM370724
-[329]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232935
-[330]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1401708
-[331]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2981086
-[332]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM145377
-[333]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM401652
-[334]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1172270
-[335]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123441
-[336]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM371278
-[337]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166120
-[338]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378164
-[339]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378907
-[340]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123402
-[341]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM215308
-[342]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM335302
-[343]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM395066
-[344]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM335375
-[345]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM335399
-[346]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM70886
-[347]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1172271
-[348]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM86464
-[349]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM370727
-[350]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM116837
-[351]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123442
-[352]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1585529
-[353]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1401709
-[354]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3819790
-[355]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM4505230
-[356]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1662493
-[357]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM240092
-[358]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM187118
-[359]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232936
-[360]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1172274
-[361]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM149770
-[362]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1585530
-[363]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3186465
-[364]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3425500
-[365]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1914433
-[366]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM326442
-[367]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM187119
-[368]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232937
-[369]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM419409
-[370]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM419245
-[371]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232938
-[372]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1401711
-[373]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM380217
-[374]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM377342
-[375]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378145
-[376]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378149
-[377]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378154
-[378]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378191
-[379]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378250
-[380]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378406
-[381]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378459
-[382]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378485
-[383]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378607
-[384]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378653
-[385]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378663
-[386]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378694
-[387]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378695
-[388]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378696
-[389]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378699
-[390]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378900
-[391]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378901
-[392]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378905
-[393]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378906
-[394]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378909
-[395]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378911
-[396]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378922
-[397]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378933
-[398]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378945
-[399]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM379506
-[400]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM379910
-[401]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM379939
-[402]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM379945
-[403]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM379980
-[404]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM136773
-[405]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM137538
-[406]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2981087
-[407]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM81823
-[408]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71209
-[409]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM407443
-[410]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM356093
-[411]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2584133
-[412]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM131393
-[413]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM132762
-[414]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM370728
-[415]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM213005
-[416]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71210
-[417]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232939
-[418]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM370731
-[419]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1825921
-[420]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM351171
-[421]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1523249
-[422]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM401653
-[423]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM351183
-[424]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1519893
-[425]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM401654
-[426]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM354432
-[427]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM370738
-[428]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM401655
-[429]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1172275
-[430]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123443
-[431]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM326444
-[432]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232940
-[433]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM321194
-[434]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71213
-[435]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3986019
-[436]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166126
-[437]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1826030
-[438]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM412956
-[439]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71214
-[440]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166127
-[441]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM326445
-[442]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166128
-[443]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71217
-[444]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123444
-[445]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1184504
-[446]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232941
-[447]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1172276
-[448]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123445
-[449]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM83078
-[450]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71220
-[451]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3986020
-[452]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM213007
-[453]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166129
-[454]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM326446
-[455]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM86465
-[456]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2474800
-[457]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM326447
-[458]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3986021
-[459]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM393228
-[460]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232942
-[461]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM326448
-[462]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2546449
-[463]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM401656
-[464]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5494506
-[465]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5494520
-[466]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5494511
-[467]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166130
-[468]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1513867
-[469]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123449
-[470]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3986022
-[471]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3986023
-[472]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3819791
-[473]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3986024
-[474]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166134
-[475]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166135
-[476]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM4691380
-[477]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3819792
-[478]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM353642
-[479]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166136
-[480]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3986026
-[481]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3986027
-[482]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3819797
-[483]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1513809
-[484]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1513812
-[485]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM351161
-[486]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1513183
-[487]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2539604
-[488]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2539606
-[489]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1513185
-[490]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71221
-[491]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM187121
-[492]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM86471
-[493]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2981092
-[494]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2178966
-[495]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71235
-[496]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM326450
-[497]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1519761
-[498]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1520127
-[499]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1258153
-[500]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM353135
-[501]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM354188
-[502]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM356110
-[503]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM356976
-[504]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM358317
-[505]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM86472
-[506]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM149775
-[507]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM412957
-[508]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71236
-[509]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM187122
-[510]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123472
-[511]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3986028
-[512]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1172277
-[513]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232952
-[514]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3353305
-[515]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM356094
-[516]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232954
-[517]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232955
-[518]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM432647
-[519]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71237
-[520]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166137
-[521]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM356095
-[522]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM326451
-[523]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM393234
-[524]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM393235
-[525]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM323545
-[526]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM46737
-[527]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM45599
-[528]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71241
-[529]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM333517
-[530]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM47639
-[531]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM387857
-[532]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM414821
-[533]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM413766
-[534]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM444051
-[535]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM367767
-[536]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM350197
-[537]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM333518
-[538]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123473
-[539]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM393236
-[540]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM412959
-[541]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM393237
-[542]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM354908
-[543]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM326452
-[544]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM356097
-[545]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM358313
-[546]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM393239
-[547]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232957
-[548]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2981093
-[549]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM393240
-[550]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM393241
-[551]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1513450
-[552]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1515343
-[553]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM326454
-[554]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71245
-[555]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1172283
-[556]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM393242
-[557]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM326456
-[558]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1825922
-[559]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71246
-[560]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM187123
-[561]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232958
-[562]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM326457
-[563]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123474
-[564]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232959
-[565]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM213014
-[566]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM356098
-[567]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM128766
-[568]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5256427
-[569]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM370741
-[570]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1517723
-[571]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1172284
-[572]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3986029
-[573]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3819801
-[574]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM401657
-[575]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71247
-[576]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM412960
-[577]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232960
-[578]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM370742
-[579]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM333519
-[580]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM213015
-[581]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232961
-[582]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71249
-[583]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71250
-[584]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232963
-[585]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166144
-[586]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM187124
-[587]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71251
-[588]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232964
-[589]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123475
-[590]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3986030
-[591]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1517413
-[592]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71252
-[593]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM333520
-[594]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71257
-[595]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM326459
-[596]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM393245
-[597]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166145
-[598]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123477
-[599]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3819802
-[600]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM4505231
-[601]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM333521
-[602]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71258
-[603]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2997643
-[604]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM147610
-[605]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2981094
-[606]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM145383
-[607]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2998633
-[608]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3425502
-[609]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232965
-[610]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM356691
-[611]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3186466
-[612]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM145384
-[613]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM370744
-[614]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM185745
-[615]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3186468
-[616]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM145385
-[617]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2981095
-[618]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71264
-[619]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM145386
-[620]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71265
-[621]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM371280
-[622]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71266
-[623]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123478
-[624]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3819803
-[625]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3986031
-[626]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5256430
-[627]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM326460
-[628]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM326461
-[629]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71267
-[630]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71268
-[631]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71269
-[632]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232966
-[633]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM326462
-[634]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2143709
-[635]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166146
-[636]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM229831
-[637]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM371267
-[638]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM407434
-[639]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM393219
-[640]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM407230
-[641]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM85952
-[642]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM116888
-[643]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM149037
-[644]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM231360
-[645]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM368803
-[646]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM398969
-[647]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3388802
-[648]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3985802
-[649]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2998516
-[650]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2998515
-[651]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2998532
-[652]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[653]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3986011
-[654]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3819780
-[655]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123614
-[656]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM335504
-[657]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM112770
-[658]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM70849
-[659]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM366890
-[660]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM333508
-[661]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM212692
+[110]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM6032729
+[111]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM6032730
+[112]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM84852
+[113]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM84853
+[114]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM84888
+[115]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM84891
+[116]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM84893
+[117]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85203
+[118]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85219
+[119]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85221
+[120]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM3645112
+[121]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85233
+[122]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85237
+[123]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85246
+[124]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85249
+[125]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85251
+[126]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85255
+[127]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85257
+[128]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85259
+[129]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85261
+[130]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85263
+[131]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85265
+[132]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85267
+[133]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85269
+[134]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85272
+[135]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85274
+[136]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85276
+[137]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85278
+[138]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85280
+[139]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85281
+[140]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85289
+[141]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85296
+[142]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85298
+[143]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM3238203
+[144]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85507
+[145]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85512
+[146]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85527
+[147]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85529
+[148]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85537
+[149]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85539
+[150]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM3645186
+[151]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM5499559
+[152]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85543
+[153]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85545
+[154]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85547
+[155]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85549
+[156]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85550
+[157]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85552
+[158]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85556
+[159]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85564
+[160]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85569
+[161]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM85578
+[162]: http://www.legislation.govt.nz/act/public/1985/0141/latest/whole.html#DLM5499561
+[163]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM348342
+[164]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM377336
+[165]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM424950
+[166]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM380185
+[167]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM355922
+[168]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM348353
+[169]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM95082
+[170]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1139100
+[171]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM94283
+[172]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM158592
+[173]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1520575
+[174]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM120905
+[175]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM271049
+[176]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM170872
+[177]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM444304
+[178]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM379823
+[179]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM76787
+[180]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM81360
+[181]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM308795
+[182]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM83331
+[183]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2044961
+[184]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM300989
+[185]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3338663
+[186]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM172479
+[187]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5505269
+[188]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1523134
+[189]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1523137
+[190]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM351027
+[191]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM160808
+[192]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM354985
+[193]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM347443
+[194]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM70851
+[195]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM393227
+[196]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123418
+[197]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM370704
+[198]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1185187
+[199]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM187107
+[200]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM407439
+[201]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3819781
+[202]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1401698
+[203]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232924
+[204]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM213532
+[205]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1523176
+[206]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123437
+[207]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3986013
+[208]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM212698
+[209]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM174088
+[210]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3016880
+[211]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM301337
+[212]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM333514
+[213]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM298439
+[214]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123438
+[215]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123439
+[216]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166115
+[217]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM326441
+[218]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM412952
+[219]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1172269
+[220]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1583888
+[221]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM124529
+[222]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM149764
+[223]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM4929207
+[224]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM70862
+[225]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232927
+[226]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM335510
+[227]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM401648
+[228]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2226670
+[229]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM86462
+[230]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM277147
+[231]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM137810
+[232]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM324671
+[233]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM26805
+[234]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM325263
+[235]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM143291
+[236]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM212734
+[237]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM70872
+[238]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM401651
+[239]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM370719
+[240]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM39099
+[241]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232928
+[242]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM70874
+[243]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3986015
+[244]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM384145
+[245]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM384199
+[246]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM405080
+[247]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM405305
+[248]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM158583
+[249]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3366850
+[250]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3705369
+[251]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3701424
+[252]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM433735
+[253]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM999800
+[254]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1154598
+[255]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3394800
+[256]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM309440
+[257]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM309498
+[258]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM309617
+[259]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM307518
+[260]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM94331
+[261]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM94350
+[262]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM359106
+[263]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM367671
+[264]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM230264
+[265]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM184063
+[266]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM207496
+[267]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM207804
+[268]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM209730
+[269]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM99493
+[270]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM227543
+[271]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM70879
+[272]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166118
+[273]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM4677378
+[274]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2015063
+[275]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM356092
+[276]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2226671
+[277]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3395080
+[278]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM131139
+[279]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM229837
+[280]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM426000
+[281]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232930
+[282]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2925109
+[283]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM185072
+[284]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM210735
+[285]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM213000
+[286]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM86463
+[287]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM116834
+[288]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM370722
+[289]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2773701
+[290]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3986016
+[291]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM104118
+[292]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM228040
+[293]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM162942
+[294]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM407441
+[295]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1401706
+[296]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3819788
+[297]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM371275
+[298]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM149768
+[299]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232931
+[300]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2178965
+[301]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM4034212
+[302]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2999100
+[303]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM190788
+[304]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM70881
+[305]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM4034653
+[306]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3324300
+[307]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2226500
+[308]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2981085
+[309]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM145376
+[310]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232933
+[311]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM187115
+[312]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2586227
+[313]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3986017
+[314]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM187116
+[315]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM370723
+[316]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232934
+[317]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166119
+[318]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123440
+[319]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3986018
+[320]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM70882
+[321]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM163175
+[322]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1401707
+[323]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1512300
+[324]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM211520
+[325]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1513374
+[326]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1520110
+[327]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1517703
+[328]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3819789
+[329]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM70883
+[330]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM370724
+[331]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232935
+[332]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1401708
+[333]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2981086
+[334]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM145377
+[335]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM401652
+[336]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1172270
+[337]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5256424
+[338]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123441
+[339]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM371278
+[340]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166120
+[341]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378164
+[342]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378907
+[343]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123402
+[344]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM215308
+[345]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM335302
+[346]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM395066
+[347]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM335375
+[348]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM335399
+[349]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM70886
+[350]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1172271
+[351]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM86464
+[352]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM370727
+[353]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM116837
+[354]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123442
+[355]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1585529
+[356]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166124
+[357]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1401709
+[358]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3819790
+[359]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM4505230
+[360]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1662493
+[361]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM240092
+[362]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM187118
+[363]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232936
+[364]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1172274
+[365]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM149770
+[366]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1585530
+[367]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3186465
+[368]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3425500
+[369]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1914433
+[370]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM326442
+[371]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM187119
+[372]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232937
+[373]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM419409
+[374]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM419245
+[375]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232938
+[376]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1401711
+[377]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM380217
+[378]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM377342
+[379]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378145
+[380]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378149
+[381]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378154
+[382]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378191
+[383]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378250
+[384]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378406
+[385]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378459
+[386]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378485
+[387]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378607
+[388]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378653
+[389]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378663
+[390]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378694
+[391]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378695
+[392]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378696
+[393]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378699
+[394]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378900
+[395]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378901
+[396]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378905
+[397]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378906
+[398]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378909
+[399]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378911
+[400]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378922
+[401]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378933
+[402]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM378945
+[403]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM379506
+[404]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM379910
+[405]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM379939
+[406]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM379945
+[407]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM379980
+[408]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM136773
+[409]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM137538
+[410]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2981087
+[411]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM81823
+[412]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71209
+[413]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM407443
+[414]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM356093
+[415]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2584133
+[416]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM131393
+[417]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM132762
+[418]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM370728
+[419]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM213005
+[420]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71210
+[421]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232939
+[422]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM370731
+[423]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1825921
+[424]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM351171
+[425]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1523249
+[426]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM401653
+[427]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM351183
+[428]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1519893
+[429]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM401654
+[430]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM354432
+[431]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM370738
+[432]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM401655
+[433]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1172275
+[434]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123443
+[435]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM326444
+[436]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232940
+[437]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM321194
+[438]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71213
+[439]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166125
+[440]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3986019
+[441]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166126
+[442]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1826030
+[443]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM412956
+[444]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71214
+[445]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166127
+[446]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM326445
+[447]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166128
+[448]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71217
+[449]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123444
+[450]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1184504
+[451]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232941
+[452]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1172276
+[453]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123445
+[454]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM83078
+[455]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71220
+[456]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3986020
+[457]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM213007
+[458]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166129
+[459]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM326446
+[460]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM86465
+[461]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2474800
+[462]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM326447
+[463]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3986021
+[464]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM393228
+[465]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232942
+[466]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM326448
+[467]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2546449
+[468]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM401656
+[469]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5494506
+[470]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5494520
+[471]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5494511
+[472]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166130
+[473]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1513867
+[474]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123449
+[475]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3986022
+[476]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3986023
+[477]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3819791
+[478]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3986024
+[479]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166134
+[480]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166135
+[481]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM4691380
+[482]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3819792
+[483]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM353642
+[484]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166136
+[485]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3986026
+[486]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3986027
+[487]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3819797
+[488]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1513809
+[489]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1513812
+[490]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM351161
+[491]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1513183
+[492]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2539604
+[493]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2539606
+[494]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1513185
+[495]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71221
+[496]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM187121
+[497]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM86471
+[498]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2981092
+[499]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2178966
+[500]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71235
+[501]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM326450
+[502]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1519761
+[503]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1520127
+[504]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1258153
+[505]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM353135
+[506]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM354188
+[507]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM356110
+[508]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM356976
+[509]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM358317
+[510]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM86472
+[511]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM149775
+[512]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM412957
+[513]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71236
+[514]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM187122
+[515]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123472
+[516]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3986028
+[517]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1172277
+[518]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232952
+[519]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3353305
+[520]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM356094
+[521]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232954
+[522]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232955
+[523]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM432647
+[524]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71237
+[525]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166137
+[526]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM356095
+[527]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM326451
+[528]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM393234
+[529]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM393235
+[530]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM323545
+[531]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM46737
+[532]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM45599
+[533]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71241
+[534]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM333517
+[535]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM47639
+[536]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM387857
+[537]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM414821
+[538]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM413766
+[539]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM444051
+[540]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM367767
+[541]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM350197
+[542]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM333518
+[543]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123473
+[544]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM393236
+[545]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM412959
+[546]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM393237
+[547]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM354908
+[548]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM326452
+[549]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM356097
+[550]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM358313
+[551]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM393239
+[552]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166138
+[553]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232957
+[554]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2981093
+[555]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM393240
+[556]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM393241
+[557]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1513450
+[558]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1515343
+[559]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM326454
+[560]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71245
+[561]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1172283
+[562]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM393242
+[563]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM326456
+[564]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1825922
+[565]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71246
+[566]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM187123
+[567]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232958
+[568]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5256425
+[569]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM326457
+[570]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5256426
+[571]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123474
+[572]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232959
+[573]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM213014
+[574]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM356098
+[575]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166139
+[576]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM128766
+[577]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5256427
+[578]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM370741
+[579]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166140
+[580]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1517723
+[581]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1172284
+[582]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3986029
+[583]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3819801
+[584]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166143
+[585]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM401657
+[586]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71247
+[587]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM412960
+[588]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232960
+[589]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM370742
+[590]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM333519
+[591]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM213015
+[592]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232961
+[593]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71249
+[594]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71250
+[595]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232963
+[596]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166144
+[597]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM187124
+[598]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71251
+[599]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232964
+[600]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123475
+[601]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3986030
+[602]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM1517413
+[603]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71252
+[604]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM333520
+[605]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71257
+[606]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM326459
+[607]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM393245
+[608]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166145
+[609]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123477
+[610]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3819802
+[611]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM4505231
+[612]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM333521
+[613]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71258
+[614]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2997643
+[615]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM147610
+[616]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2981094
+[617]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM145383
+[618]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2998633
+[619]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3425502
+[620]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232965
+[621]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM356691
+[622]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3186466
+[623]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM145384
+[624]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM370744
+[625]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM185745
+[626]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3186468
+[627]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM145385
+[628]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2981095
+[629]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71264
+[630]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM145386
+[631]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71265
+[632]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM371280
+[633]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71266
+[634]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123478
+[635]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3819803
+[636]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3986031
+[637]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5256430
+[638]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM326460
+[639]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM326461
+[640]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71267
+[641]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71268
+[642]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM71269
+[643]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM232966
+[644]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM326462
+[645]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2143709
+[646]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM5166146
+[647]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM229831
+[648]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM371267
+[649]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM407434
+[650]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM393219
+[651]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM407230
+[652]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM85952
+[653]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM116888
+[654]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM149037
+[655]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM231360
+[656]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM368803
+[657]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM398969
+[658]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3388802
+[659]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3985802
+[660]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2998516
+[661]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2998515
+[662]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM2998532
+[663]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[664]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3986011
+[665]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3819780
+[666]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM3123614
+[667]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM335504
+[668]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM112770
+[669]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM70849
+[670]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM366890
+[671]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM333508
+[672]: http://www.legislation.govt.nz/act/public/1985/0141/latest/link.aspx?id=DLM212692
