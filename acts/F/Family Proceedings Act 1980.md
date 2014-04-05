@@ -1,5 +1,5 @@
 Reprint  
-as at 19 August 2013
+as at 31 March 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1(2), (3)
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -36,7 +36,7 @@ This Act is administered by the Ministry of Justice.
 
 [4][6][][6][Jurisdiction of courts][6]
 
-[5][7][][7][Marriage or civil union guidance or counselling organisations][7]
+[5][7][][7][Marriage or civil union guidance or counselling organisations][7] \[Repealed\]
 
 [6][8][][8][Maintenance officers][8] \[Repealed\]
 
@@ -45,41 +45,47 @@ This Act is administered by the Ministry of Justice.
 [Part 2][10]  
 [Dispute resolution][10]
 
+\[Repealed\]
+
 [7A][11][][11][Definition of marriage][11] \[Repealed\]
 
-[8][12][][12][Duty of legal advisers to promote reconciliation and conciliation][12]
+[8][12][][12][Duty of legal advisers to promote reconciliation and conciliation][12] \[Repealed\]
 
 [Counselling][13]
 
-[9][14][][14][Requests for counselling][14]
+\[Repealed\]
 
-[10][15][][15][Counselling where proceedings commenced][15]
+[9][14][][14][Requests for counselling][14] \[Repealed\]
 
-[11][16][][16][Reference to counsellor][16]
+[10][15][][15][Counselling where proceedings commenced][15] \[Repealed\]
 
-[12][17][][17][Duty on counsellors][17]
+[11][16][][16][Reference to counsellor][16] \[Repealed\]
 
-[12A][18][][18][Number of sessions of counselling][18]
+[12][17][][17][Duty on counsellors][17] \[Repealed\]
 
-[12B][19][][19][Counselling fees and expenses][19]
+[12A][18][][18][Number of sessions of counselling][18] \[Repealed\]
+
+[12B][19][][19][Counselling fees and expenses][19] \[Repealed\]
 
 [Mediation conferences][20]
 
-[13][21][][21][Mediation conference][21]
+\[Repealed\]
 
-[14][22][][22][Procedure at mediation conference][22]
+[13][21][][21][Mediation conference][21] \[Repealed\]
 
-[15][23][][23][Power of chairperson to make consent orders][23]
+[14][22][][22][Procedure at mediation conference][22] \[Repealed\]
 
-[16][24][][24][Proceedings after mediation conference][24]
+[15][23][][23][Power of chairperson to make consent orders][23] \[Repealed\]
 
-[17][25][][25][Power to require attendance for counselling or mediation][25]
+[16][24][][24][Proceedings after mediation conference][24] \[Repealed\]
 
-[18][26][][26][Privilege][26]
+[17][25][][25][Power to require attendance for counselling or mediation][25] \[Repealed\]
 
-[19][27][][27][Duty of courts as to reconciliation and conciliation][27]
+[18][26][][26][Privilege][26] \[Repealed\]
 
-[19A][28][][28][Circumstances where joint counselling not to be required][28]
+[19][27][][27][Duty of courts as to reconciliation and conciliation][27] \[Repealed\]
+
+[19A][28][][28][Circumstances where joint counselling not to be required][28] \[Repealed\]
 
 [Part 3][29]  
 [Separation][29]
@@ -512,79 +518,91 @@ This Act is administered by the Ministry of Justice.
 
 [161][232][][232][Intervention][232]
 
-[162][233][][233][Appointment of barrister or solicitor to assist court or represent children][233]
+[162][233][][233][Appointment of lawyer to represent child in proceedings][233]
 
-[163][234][][234][Vexatious proceedings][234]
+[162A][234][][234][Appointment of lawyer to assist court][234]
 
-[164][235][][235][Evidence][235]
+[162B][235][][235][Fees and expenses of lawyer appointed under section 162 or 162A][235]
 
-[165][236][][236][Power of District Court or Family Court to call witnesses][236]
+[162C][236][][236][Order requiring reimbursement of costs payments][236]
 
-[166][237][][237][Proof of certain matters][237]
+[162D][237][][237][Enforcement of orders made under section 162C][237]
 
-[167][238][][238][Standard of proof][238]
+[163][238][][238][Vexatious proceedings][238]
 
-[168][239][][239][Claim by respondent for relief][239]
+[164][239][][239][Evidence][239] \[Repealed\]
 
-[169][240][][240][Publication of reports of proceedings][240]
+[165][240][][240][Power of District Court or Family Court to call witnesses][240]
 
-[170][241][][241][Orders by consent][241]
+[166][241][][241][Proof of certain matters][241]
 
-[171][242][][242][Costs][242]
+[167][242][][242][Standard of proof][242]
 
-[172][243][][243][Dismissal of application in District Court or Family Court no bar to further proceedings][243]
+[168][243][][243][Claim by respondent for relief][243]
 
-[173][244][][244][Rehearings][244]
+[169][244][][244][Publication of reports of proceedings][244]
 
-[Part 10][245]  
-[Appeals][245]
+[170][245][][245][Orders by consent][245]
 
-[174][246][][246][Appeals from decisions of District Courts and Family Courts][246]
+[171][246][][246][Costs][246]
 
-[175][247][][247][Appeals from decisions of High Court][247]
+[172][247][][247][Dismissal of application in District Court or Family Court no bar to further proceedings][247]
 
-[Part 11][248]  
-[Miscellaneous provisions][248]
+[173][248][][248][Rehearings][248]
 
-[176][249][][249][Non-molestation orders][249] \[Repealed\]
+[Part 10][249]  
+[Appeals][249]
 
-[177][250][][250][Interim non-molestation orders][250] \[Repealed\]
+[174][250][][250][Appeals from decisions of District Courts and Family Courts][250]
 
-[178][251][][251][Orders in respect of matrimonial homes and tenancies][251] \[Repealed\]
+[175][251][][251][Appeals from decisions of High Court][251]
 
-[179][252][][252][Orders in respect of matrimonial homes and tenancies where parties living apart][252] \[Repealed\]
+[Part 11][252]  
+[Miscellaneous provisions][252]
 
-[180][253][][253][Recovery of money from estate of deceased party][253]
+[176][253][][253][Non-molestation orders][253] \[Repealed\]
 
-[181][254][][254][Incidence of maintenance due by estate of deceased party][254]
+[177][254][][254][Interim non-molestation orders][254] \[Repealed\]
 
-[182][255][][255][Court may make orders as to settled property, etc][255]
+[178][255][][255][Orders in respect of matrimonial homes and tenancies][255] \[Repealed\]
 
-[183][256][][256][Dispositions may be restrained][256]
+[179][256][][256][Orders in respect of matrimonial homes and tenancies where parties living apart][256] \[Repealed\]
 
-[184][257][][257][Dispositions may be set aside][257]
+[180][257][][257][Recovery of money from estate of deceased party][257]
 
-[185][258][][258][Separation agreements by persons of unsound mind][258]
+[181][258][][258][Incidence of maintenance due by estate of deceased party][258]
 
-[186][259][][259][Court fees][259] \[Repealed\]
+[182][259][][259][Court may make orders as to settled property, etc][259]
 
-[187][260][][260][Regulations][260]
+[183][260][][260][Dispositions may be restrained][260]
 
-[188][261][][261][Rules of procedure][261]
+[184][261][][261][Dispositions may be set aside][261]
 
-[189][262][][262][Amendments to other enactments, and repeals][262]
+[185][262][][262][Separation agreements by persons of unsound mind][262]
 
-[190][263][][263][Related amendments to Domestic Actions Act 1975][263]
+[186][263][][263][Court fees][263] \[Repealed\]
 
-[191][264][][264][Savings][264]
+[187][264][][264][Regulations][264]
 
-[192][265][][265][Transitional provisions][265]
+[188][265][][265][Rules of procedure][265]
 
-[Schedule 1][266]  
-[Enactments amended][266]
+[189][266][][266][Amendments to other enactments, and repeals][266]
 
-[Schedule 2][267]  
-[Enactments repealed][267]
+[190][267][][267][Related amendments to Domestic Actions Act 1975][267]
+
+[191][268][][268][Savings][268]
+
+[192][269][][269][Transitional provisions][269]
+
+[193][270][][270][Transitional provision for counselling or mediation arranged before commencement of Family Proceedings Amendment Act (No 2) 2013][270]
+
+[194][271][][271][Transitional provision for proceedings commenced before commencement of Family Proceedings Amendment Act (No 2) 2013][271]
+
+[Schedule 1][272]  
+[Enactments amended][272]
+
+[Schedule 2][273]  
+[Enactments repealed][273]
 
 ---
 
@@ -594,21 +612,17 @@ An Act to revise the law relating to matrimonial and domestic proceedings
     
 *   (1) This Act may be cited as the Family Proceedings Act 1980\.
     
-    (2) Except as provided in subsection (3) and in [section 190(3)][263], this Act shall come into force on 1 October 1981\.
+    (2) Except as provided in subsection (3) and in [section 190(3)][267], this Act shall come into force on 1 October 1981\.
     
     (3) [Sections 144 to 146][197] and [149][218] shall come into force on a date to be appointed by the Governor-General by Order in Council.
     
-    Section 2: sections 144--146 and 149 brought into force, on 1 March 1986, by the [Family Proceedings Act (United Nations Convention) Commencement Order 1986][268] (1986 No 9).
+    Section 2: sections 144--146 and 149 brought into force, on 1 March 1986, by the [Family Proceedings Act (United Nations Convention) Commencement Order 1986][274] (SR 1986/9).
 
 ##### 2 Interpretation
     
 *   In this Act, unless the context otherwise requires,---
     
     _affiliation order_ includes an order declaring a person to be a parent of a child (however the order is described, and whether or not it also provides for the maintenance of the child)
-    
-    _approved marriage or civil union guidance organisation or counselling organisation_ means an organisation approved under [section 5][7] by the Minister of the Crown who is responsible for the Ministry of Justice
-    
-    _attachment order_ means an attachment order made under [section 105][140]
     
     _blood sample_ means any of the following, taken in accordance with normal medical procedures:
         
@@ -621,10 +635,6 @@ An Act to revise the law relating to matrimonial and domestic proceedings
     _buccal sample_ means a sample of epithelial cells from inside the mouth taken by a device, or provided by other means
     
     _certified copy_, in relation to an order of a court, means a copy of the order certified by the proper officer of the court to be a true copy
-    
-    _charging order_ means a charging order made under [section 118][157]
-    
-    _child of the civil union_ means, in relation to a civil union (including a void civil union), a child of both civil union partners, and includes, in relation to any proceedings under this Act, a child (whether or not a child of the partners) who was a member of the family of the partners to the civil union or void civil union at the time the partners ceased to live together or at the time immediately preceding the institution of proceedings, whichever first occurred
     
     _child of the de facto relationship_ means a child of both de facto partners, and includes, in relation to any proceedings under this Part, a child (whether or not a child of either de facto partner) who was a member of the family of the de facto partners at the time when they ceased to live together or at the time immediately before the institution of proceedings, whichever first occurred
     
@@ -664,20 +674,6 @@ An Act to revise the law relating to matrimonial and domestic proceedings
     
     *   (b) does not include Australia
     
-    _counsellor_ means---
-        
-    *   (a) a person---
-            
-        *   (i) nominated by an approved marriage or civil union guidance organisation or counselling organisation; or
-        
-        *   (ii) nominated by a court from a list of counsellors prepared by an officer of the court appointed under [section 8(2)][269] of the Family Courts Act 1980,---
-        
-        
-    
-    to act as a counsellor under this Act; or
-        
-    *   (b) a counsellor or counselling supervisor appointed pursuant to the [Family Courts Act 1980][270]
-    
     _country_ includes any State, territory, province, or other part of a country
     
     _court_, in [Part 8][176], includes any body or person exercising judicial functions, outside New Zealand, in relation to maintenance orders
@@ -696,27 +692,17 @@ An Act to revise the law relating to matrimonial and domestic proceedings
         
     *   (a) means---
             
-        *   (i) a benefit granted under [section 27B][271] or [section 27C][272] of the Social Security Act 1964; or
+        *   (i) a benefit granted under [section 27B][275] or [section 27C][276] of the Social Security Act 1964; or
         
-        *   (ii) a benefit which is granted under [section 61][273] of the Social Security Act 1964 and which corresponds to a benefit granted under [section 27B][271] or [section 27C][272] of that Act; and
+        *   (ii) a benefit which is granted under [section 61][277] of the Social Security Act 1964 and which corresponds to a benefit granted under [section 27B][275] or [section 27C][276] of that Act; and
         
         
     
-    *   (b) includes a benefit described in paragraph (a)(i) or (ii) as increased by a child supplement under [section 61A][274] of the Social Security Act 1964
+    *   (b) includes a benefit described in paragraph (a)(i) or (ii) as increased by a child supplement under [section 61A][278] of the Social Security Act 1964
     
-    _employer_, for the purposes of [sections 105 to 117][140], in relation to a respondent, includes---
-        
-    *   (a) a person by whom a retiring allowance or pension or other payment of a like nature is payable to the respondent:
+    _Family Court_ means the division of a District Court known, in accordance with [section 4][279] of the Family Courts Act 1980, as a Family Court
     
-    *   (b) the Accident Compensation Corporation in relation to weekly compensation payable to the respondent under the [Injury Prevention, Rehabilitation, and Compensation Act 2001][275]
-    
-    _family chattels_ has the meaning given to it by [section 2][276] of the Property (Relationships) Act 1976
-    
-    _Family Court_ means the division of a District Court known, in accordance with [section 4][277] of the Family Courts Act 1980, as a Family Court
-    
-    _Family Court Judge_ means a Family Court Judge appointed under [section 5][278] of the Family Courts Act 1980; and includes the Principal Family Court Judge
-    
-    _family home_ has the meaning given to it by [section 2][276] of the Property (Relationships) Act 1976
+    _Family Court Judge_ means a Family Court Judge appointed under [section 5][280] of the Family Courts Act 1980; and includes the Principal Family Court Judge
     
     _interim order_, in relation to maintenance, means an order made under [section 82][110]
     
@@ -768,8 +754,6 @@ An Act to revise the law relating to matrimonial and domestic proceedings
     
     where the law of the country in which each of the parties is domiciled at the time of the union then permits polygamy
     
-    _mediation conference_ means a conference held under [section 13][21]
-    
     _parentage tests_ means tests carried out on blood samples or buccal samples to help to determine the parentage of a child
     
     _paternity order_ means an order made under [section 51][70]
@@ -782,31 +766,23 @@ An Act to revise the law relating to matrimonial and domestic proceedings
     
     _responsible authority_, in relation to a country other than New Zealand, means the appropriate authority in that country for the discharge of the functions contemplated by [Part 8][176] in relation to that authority
     
-    _salary_ or _wages_, for the purposes of [sections 105 to 117][140], includes---
-        
-    *   (a) a retiring allowance or pension or other payment of a like nature:
-    
-    *   (b) weekly compensation under the [Injury Prevention, Rehabilitation, and Compensation Act 2001][275]
-    
     _Secretary_ means the chief executive of the Ministry of Justice
     
     _separation order_ means a separation order made under [Part 3][29]
     
     _social worker_ means---
         
-    *   (a) a social worker employed as such under [Part 5][279] of the State Sector Act 1988 in the department for the time being responsible for the administration of the [Children, Young Persons, and Their Families Act 1989][280]; or
+    *   (a) a social worker employed as such under [Part 5][281] of the State Sector Act 1988 in the department for the time being responsible for the administration of the [Children, Young Persons, and Their Families Act 1989][282]; or
     
-    *   (b) a community officer appointed under [section 4][281] of the Maori Community Development Act 1962; or
+    *   (b) a community officer appointed under [section 4][283] of the Maori Community Development Act 1962; or
     
-    *   (c) an honorary community officer appointed under [section 5][282] of the Maori Community Development Act 1962\.
+    *   (c) an honorary community officer appointed under [section 5][284] of the Maori Community Development Act 1962\.
     
     Compare: 1963 No 71 s 2; 1968 No 62 ss 2, 3, 54, 61, 80, 94; 1971 No 59 s 9(1)
     
-    Section 2 **approved marriage or civil union guidance organisation or counselling organisation**: amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 2 **approved marriage or civil union guidance organisation or counselling organisation**: repealed, on 31 March 2014, by [section 4(a)][285] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
     
-    Section 2 **approved marriage or civil union guidance organisation or counselling organisation**: amended, on 1 October 2003, pursuant to [section 14(1)][284] of the State Sector Amendment Act 2003 (2003 No 41).
-    
-    Section 2 **approved marriage or civil union guidance organisation or counselling organisation**: amended, on 1 July 1995, by [section 10(1)][285] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 2 **attachment order**: repealed, on 31 March 2014, by [section 4(b)][285] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
     
     Section 2 **blood sample**: inserted, on 1 July 2005, by [section 150][286] of the Care of Children Act 2004 (2004 No 90).
     
@@ -814,7 +790,9 @@ An Act to revise the law relating to matrimonial and domestic proceedings
     
     Section 2 **buccal sample**: inserted, on 1 July 2005, by [section 150][286] of the Care of Children Act 2004 (2004 No 90).
     
-    Section 2 **child of the civil union**: inserted, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 2 **charging order**: repealed, on 31 March 2014, by [section 4(c)][285] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
+    
+    Section 2 **child of the civil union**: repealed, on 31 March 2014, by [section 4(d)][285] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
     
     Section 2 **child of the de facto relationship**: inserted, on 1 July 2005, by [section 149][287] of the Care of Children Act 2004 (2004 No 90).
     
@@ -822,41 +800,39 @@ An Act to revise the law relating to matrimonial and domestic proceedings
     
     Section 2 **Convention country**: replaced, on 1 July 2000, by [section 37][289] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 2 **counsellor** paragraph (a)(i): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
-    
-    Section 2 **counsellor** paragraph (a)(ii): replaced, on 1 July 1994, by section 2 of the Family Proceedings Amendment Act 1994 (1994 No 32).
+    Section 2 **counsellor**: repealed, on 31 March 2014, by [section 4(e)][285] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
     
     Section 2 **DNA profile**: inserted, on 1 July 2005, by [section 150][286] of the Care of Children Act 2004 (2004 No 90).
     
-    Section 2 **employer**: replaced, on 6 November 1986, by section 2(1) of the Family Proceedings Amendment Act 1986 (1986 No 88).
+    Section 2 **employer**: repealed, on 31 March 2014, by [section 4(f)][285] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
     
-    Section 2 **employer** paragraph (b): replaced, on 1 April 2002, by [section 337(1)][290] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
+    Section 2 **family chattels**: repealed, on 31 March 2014, by [section 4(g)][285] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
     
-    Section 2 **family chattels**: replaced, on 1 February 2002, by [section 3][291] of the Family Proceedings Amendment Act 2001 (2001 No 7).
+    Section 2 **family home**: repealed, on 31 March 2014, by [section 4(h)][285] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
     
-    Section 2 **family home**: inserted, on 1 February 2002, by [section 3][291] of the Family Proceedings Amendment Act 2001 (2001 No 7).
+    Section 2 **maintenance agreement**: amended, on 1 July 2005, by [section 151][290] of the Care of Children Act 2004 (2004 No 90).
     
-    Section 2 **maintenance agreement**: amended, on 1 July 2005, by [section 151][292] of the Care of Children Act 2004 (2004 No 90).
-    
-    Section 2 **maintenance agreement**: amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 2 **maintenance agreement**: amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
     Section 2 **maintenance agreement**: amended, on 1 July 1992, by section 2(2) of the Family Proceedings Amendment Act 1991 (1991 No 144).
     
-    Section 2 **maintenance agreement** paragraph (a): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 2 **maintenance agreement** paragraph (a): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 2 **maintenance agreement** paragraph (b): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 2 **maintenance agreement** paragraph (b): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
     Section 2 **maintenance agreement** paragraph (c): repealed, on 1 July 1992, by section 2(1) of the Family Proceedings Amendment Act 1991 (1991 No 144).
     
-    Section 2 **maintenance agreement** paragraph (d)(i): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 2 **maintenance agreement** paragraph (d)(i): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 2 **maintenance agreement** paragraph (d)(ii): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 2 **maintenance agreement** paragraph (d)(ii): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
     Section 2 **maintenance agreement** paragraph (e): repealed, on 1 July 1992, by section 2(1) of the Family Proceedings Amendment Act 1991 (1991 No 144).
     
-    Section 2 **maintenance order** paragraph (a)(i): repealed, on 1 July 1992, by [section 2(3)][293] of the Family Proceedings Amendment Act 1991 (1991 No 144).
+    Section 2 **maintenance order** paragraph (a)(i): repealed, on 1 July 1992, by [section 2(3)][292] of the Family Proceedings Amendment Act 1991 (1991 No 144).
     
-    Section 2 **matrimonial home**: repealed, on 1 February 2002, by [section 3][291] of the Family Proceedings Amendment Act 2001 (2001 No 7).
+    Section 2 **matrimonial home**: repealed, on 1 February 2002, by [section 3][293] of the Family Proceedings Amendment Act 2001 (2001 No 7).
+    
+    Section 2 **mediation conference**: repealed, on 31 March 2014, by [section 4(i)][285] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
     
     Section 2 **parentage tests**: inserted, on 1 July 2005, by [section 150][286] of the Care of Children Act 2004 (2004 No 90).
     
@@ -866,19 +842,15 @@ An Act to revise the law relating to matrimonial and domestic proceedings
     
     Section 2 **report on parentage tests**: inserted, on 1 July 2005, by [section 150][286] of the Care of Children Act 2004 (2004 No 90).
     
-    Section 2 **salary **or **wages**: replaced, on 6 November 1986, by section 2(2) of the Family Proceedings Amendment Act 1986 (1986 No 88).
+    Section 2 **salary** or **wages**: repealed, on 31 March 2014, by [section 4(j)][285] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
     
-    Section 2 **salary **or **wages** paragraph (b): replaced, on 1 July 1999, by section 415(1) of the Accident Insurance Act 1998 (1998 No 114).
+    Section 2 **Secretary**: inserted, on 1 July 1995, by [section 10(1)][294] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 2 **salary **or **wages** paragraph (b): amended, on 1 April 2002, by [section 337(1)][290] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
+    Section 2 **Secretary**: amended, on 1 October 2003, pursuant to [section 14(1)][295] of the State Sector Amendment Act 2003 (2003 No 41).
     
-    Section 2 **Secretary**: inserted, on 1 July 1995, by [section 10(1)][285] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 2 **social worker** paragraph (a): replaced, on 1 April 1990, by [section 36(3)][296] of the Social Welfare (Transitional Provisions) Act 1990 (1990 No 26).
     
-    Section 2 **Secretary**: amended, on 1 October 2003, pursuant to [section 14(1)][284] of the State Sector Amendment Act 2003 (2003 No 41).
-    
-    Section 2 **social worker** paragraph (a): replaced, on 1 April 1990, by [section 36(3)][294] of the Social Welfare (Transitional Provisions) Act 1990 (1990 No 26).
-    
-    Section 2 **social worker** paragraph (a): amended, on 1 October 1999, by [section 13][295] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
+    Section 2 **social worker** paragraph (a): amended, on 1 October 1999, by [section 13][297] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
 
 ##### 3 Act to bind the Crown
     
@@ -907,21 +879,9 @@ Administration
 
 ##### 5 Marriage or civil union guidance or counselling organisations
     
-*   (1) The Minister of the Crown who is responsible for the Ministry of Justice may from time to time, by notice in the _Gazette_, approve any body of persons (whether incorporated or unincorporated) as a marriage or civil union guidance organisation or counselling organisation for the purposes of this Act.
+*   \[Repealed\]
     
-    (2) Any approved marriage or civil union guidance organisation or counselling organisation may nominate any person to act as a counsellor under this Act.
-    
-    Compare: 1968 No 62 s 2
-    
-    Section 5 heading: amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
-    
-    Section 5(1): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
-    
-    Section 5(1): amended, on 1 October 2003, pursuant to [section 14(1)][284] of the State Sector Amendment Act 2003 (2003 No 41).
-    
-    Section 5(1): amended, on 1 July 1995, by [section 10(1)][285] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
-    
-    Section 5(2): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 5: repealed, on 31 March 2014, by [section 5][298] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
 
 ##### 6 Maintenance officers
     
@@ -937,8 +897,10 @@ Administration
 
 ## Part 2  
 Dispute resolution
+
+\[Repealed\]
     
-*   Part 2 heading: replaced, on 18 May 2009, by [section 5][296] of the Family Proceedings Amendment Act 2008 (2008 No 79).
+*   Part 2: repealed, on 31 March 2014, by [section 6][299] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
 
 ##### 7A Definition of marriage
     
@@ -948,349 +910,105 @@ Dispute resolution
 
 ##### 8 Duty of legal advisers to promote reconciliation and conciliation
     
-*   (1) In all matters in issue between spouses, civil union partners, or de facto partners that are or may become the subject of proceedings under this Act or the [Care of Children Act 2004][297], every barrister or solicitor acting for either spouse, civil union partner, or de facto partner shall---
-        
-    *   (a) ensure that the spouse, civil union partner, or de facto partner for whom the barrister or solicitor is acting is aware of the facilities that exist for promoting reconciliation and conciliation; and
+*   \[Repealed\]
     
-    *   (b) take such further steps as in the opinion of the barrister or solicitor may assist in promoting reconciliation or, if reconciliation is not possible, conciliation.
-    
-    (2) Every barrister or solicitor who---
-        
-    *   (a) is acting for a spouse, civil union partner, or de facto partner; and
-    
-    *   (b) applies to the court to have set down for hearing any matter in issue between the spouses, civil union partners, or de facto partners under this Act or the [Care of Children Act 2004][297]---
-    
-    shall certify on the application that he has carried out his responsibilities under subsection (1).
-    
-    Compare: 1968 No 62 s 13
-    
-    Section 8(1): amended, on 1 July 2005, by [section 149][287] of the Care of Children Act 2004 (2004 No 90).
-    
-    Section 8(1): amended, on 1 July 2005, by [section 151][292] of the Care of Children Act 2004 (2004 No 90).
-    
-    Section 8(1)(a): amended, on 1 July 2005, by [section 149][287] of the Care of Children Act 2004 (2004 No 90).
-    
-    Section 8(2)(a): amended, on 1 July 2005, by [section 149][287] of the Care of Children Act 2004 (2004 No 90).
-    
-    Section 8(2)(b): amended, on 1 July 2005, by [section 149][287] of the Care of Children Act 2004 (2004 No 90).
-    
-    Section 8(2)(b): amended, on 1 July 2005, by [section 151][292] of the Care of Children Act 2004 (2004 No 90).
+    Section 8: repealed, on 31 March 2014, by [section 6][299] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
 
 #### Counselling
+
+\[Repealed\]
     
-*   Heading: inserted, on 18 May 2009, by [section 7][298] of the Family Proceedings Amendment Act 2008 (2008 No 79).
+*   Heading: repealed, on 31 March 2014, by [section 6][299] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
 
 ##### 9 Requests for counselling
     
-*   (1) Either party to a marriage, civil union, or de facto relationship may request a Registrar of a Family Court to arrange counselling in respect of the marriage, civil union, or de facto relationship.
+*   \[Repealed\]
     
-    (2) Where a request has been made to a Registrar of a Family Court under subsection (1), the Registrar shall, on the completion by the person making the request of the prescribed form, arrange for the matter to be referred to a counsellor.
-    
-    (3) \[Repealed\]
-    
-    Compare: 1968 No 62 s 14
-    
-    Section 9(1): amended, on 1 July 2005, by [section 149][287] of the Care of Children Act 2004 (2004 No 90).
-    
-    Section 9(3): repealed, on 1 July 1994, by section 3 of the Family Proceedings Amendment Act 1994 (1994 No 32).
+    Section 9: repealed, on 31 March 2014, by [section 6][299] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
 
 ##### 10 Counselling where proceedings commenced
     
-*   (1) On the filing of an application for a separation order, the Registrar shall arrange for the matter to be referred to a counsellor.
+*   \[Repealed\]
     
-    (2) Subsection (1) shall not apply if---
-        
-    *   (a) the Registrar is satisfied that, not more than 12 months before the date of the application, either---
-            
-        *   (i) the applicant or the respondent has requested counselling in respect of the marriage or civil union under [section 9][14]; or
-        
-        *   (ii) the applicant and the respondent have attended counselling before a counsellor without a request under [section 9][14] having been made; or
-        
-        
-    
-    *   (b) a Family Court Judge gives a direction that the matter be not referred under subsection (1) or that a reference made by the Registrar be revoked.
-    
-    (3) A direction may be given under subsection (2)(b) if the Family Court Judge is satisfied, on the application of the Registrar or of either party to the marriage or civil union, that---
-        
-    *   (a) the respondent has used violence (within the meaning of [section 3(2)][299] of the Domestic Violence Act 1995) against the applicant or a child of the marriage or civil union; or
-    
-    *   (b) delay in hearing the application for a separation order would be undesirable or unlikely to serve a useful purpose; or
-    
-    *   (c) other reasonable cause exists to dispense with a reference to counselling.
-    
-    (4) On an application under [section 67][90] for a maintenance order or on an application by a party to a marriage, civil union, or de facto relationship for an order under the [Care of Children Act 2004][297] with respect to the role of providing day-to-day care for a child of the marriage, civil union, or de facto relationship, a Family Court Judge may, if he thinks it expedient to do so, and without limiting his power to make an interim maintenance order, direct the Registrar to arrange for the matter to be referred to a counsellor and, on receipt of a direction under this subsection, the Registrar shall refer the matter accordingly.
-    
-    (5) If, not less than 28 days after the date on which the Registrar has arranged for a matter to be referred to a counsellor under subsection (1) or subsection (4), either party to the marriage, civil union, or de facto relationship requests that the hearing should proceed, the hearing shall be commenced or resumed unless the court otherwise directs.
-    
-    (6) Nothing in subsection (5) shall prevent the commencement or resumption of the hearing before the expiration of the period of 28 days if the court, upon application made to it, so directs.
-    
-    Compare: 1968 No 62 s 15
-    
-    Section 10(2)(a)(i): amended, on 1 July 2005, by [section 149][287] of the Care of Children Act 2004 (2004 No 90).
-    
-    Section 10(3): amended, on 1 July 2005, by [section 149][287] of the Care of Children Act 2004 (2004 No 90).
-    
-    Section 10(3)(a): replaced, on 1 July 1996, by section 2 of the Family Proceedings Amendment Act 1995 (1995 No 90).
-    
-    Section 10(3)(a): amended, on 1 July 2005, by [section 149][287] of the Care of Children Act 2004 (2004 No 90).
-    
-    Section 10(4): amended, on 1 July 2005, by [section 149][287] of the Care of Children Act 2004 (2004 No 90).
-    
-    Section 10(4): amended, on 1 July 2005, by [section 151][292] of the Care of Children Act 2004 (2004 No 90).
-    
-    Section 10(5): amended, on 1 July 2005, by [section 149][287] of the Care of Children Act 2004 (2004 No 90).
+    Section 10: repealed, on 31 March 2014, by [section 6][299] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
 
 ##### 11 Reference to counsellor
     
-*   (1) A counsellor to whom a matter is referred under [section 9][14] or [section 10][15] shall---
-        
-    *   (a) arrange to meet either or both of the spouses or civil union partners or de facto partners at such times and places (including the home of either party) as the counsellor thinks fit; or
+*   \[Repealed\]
     
-    *   (b) by letter sent by post request the either or both of the spouses or civil union partners or de facto partners to attend before the counsellor at a specified time and place---
-    
-    for the purposes of counselling.
-    
-    (2) As soon as reasonably practicable after the matter has been referred to the counsellor, the counsellor shall submit a written report to the Registrar stating---
-        
-    *   (a) whether or not the parties wish to resume or continue the marriage, civil union, or de facto relationship; and
-    
-    *   (b) if not, whether any understandings have been reached between them on matters in issue.
-    
-    (3) The Registrar shall give a copy of the report to each party or to each party's barrister or solicitor.
-    
-    Compare: 1968 No 62 s 16(1)--(3), (6)--(8)
-    
-    Section 11(1)(a): amended, on 1 July 2005, by [section 149][287] of the Care of Children Act 2004 (2004 No 90).
-    
-    Section 11(1)(a): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
-    
-    Section 11(1)(b): amended, on 1 July 2005, by [section 149][287] of the Care of Children Act 2004 (2004 No 90).
-    
-    Section 11(1)(b): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
-    
-    Section 11(2)(a): replaced, on 1 July 2005, by [section 149][287] of the Care of Children Act 2004 (2004 No 90).
+    Section 11: repealed, on 31 March 2014, by [section 6][299] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
 
 ##### 12 Duty on counsellors
     
-*   A counsellor to whom a matter is referred under [section 9][14] or [section 10][15]---
-        
-    *   (a) shall explore the possibility of reconciliation between the spouses, civil union partners, or de facto partners; and
+*   \[Repealed\]
     
-    *   (b) if reconciliation does not appear to be possible, shall attempt to promote conciliation between the spouses, civil union partners, or de facto partners.
-    
-    Section 12(a): amended, on 1 July 2005, by [section 149][287] of the Care of Children Act 2004 (2004 No 90).
-    
-    Section 12(a): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
-    
-    Section 12(b): amended, on 1 July 2005, by [section 149][287] of the Care of Children Act 2004 (2004 No 90).
-    
-    Section 12(b): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 12: repealed, on 31 March 2014, by [section 6][299] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
 
 ##### 12A Number of sessions of counselling
     
-*   The number of sessions of counselling to be carried out pursuant to [section 9][14] or [section 10][15] or [section 19][27] shall be determined in accordance with such regulations as may be made under this Act or, if no regulations apply, by the Registrar or the court.
+*   \[Repealed\]
     
-    Section 12A: inserted, on 1 July 1994, by section 4 of the Family Proceedings Amendment Act 1994 (1994 No 32).
+    Section 12A: repealed, on 31 March 2014, by [section 6][299] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
 
 ##### 12B Counselling fees and expenses
     
-*   Fees in respect of counselling services carried out pursuant to [section 9][14] or [section 10][15] or [section 19][27], and reasonable expenses incurred,---
-        
-    *   (a) may be determined in accordance with regulations made under this Act; and
+*   \[Repealed\]
     
-    *   (b) are payable out of public money appropriated by Parliament for the purpose.
-    
-    Section 12B: inserted, on 1 July 1994, by section 4 of the Family Proceedings Amendment Act 1994 (1994 No 32).
-    
-    Section 12B(b): replaced, on 3 June 1998, by [section 2][300] of the Family Proceedings Amendment Act 1998 (1998 No 44).
+    Section 12B: repealed, on 31 March 2014, by [section 6][299] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
 
 #### Mediation conferences
+
+\[Repealed\]
     
-*   Heading: inserted, on 18 May 2009, by [section 13][301] of the Family Proceedings Amendment Act 2008 (2008 No 79).
+*   Heading: repealed, on 31 March 2014, by [section 6][299] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
 
 ##### 13 Mediation conference
     
-*   (1) Where any of the following applications has been made in a Family Court, either party to the proceedings, or a Family Court Judge, may ask the Registrar of the court to arrange for a mediation conference to be convened:
-        
-    *   (a) an application for a separation order:
+*   \[Repealed\]
     
-    *   (b) an application for a maintenance order:
-    
-    *   (c) an application by one parent of a child against the other parent under [section 48(1)][302] of the Care of Children Act 2004 about the role of providing day-to-day care for the child, or about contact with the child.
-    
-    (2) On receiving a request under subsection (1), the Registrar must---
-        
-    *   (a) appoint a time and place for the holding of a mediation conference in accordance with [section 14][22]; and
-    
-    *   (b) by letters sent by post to each of the parties to the application, inform them of the time and place of the mediation conference and request them to attend.
-    
-    (3) The time appointed under subsection (2)(a) must be as soon as reasonably practicable.
-    
-    Section 13: replaced, on 1 February 2002, by [section 4][303] of the Family Proceedings Amendment Act 2001 (2001 No 7).
-    
-    Section 13(1)(c): amended, on 1 July 2005, by [section 151][292] of the Care of Children Act 2004 (2004 No 90).
+    Section 13: repealed, on 31 March 2014, by [section 6][299] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
 
 ##### 14 Procedure at mediation conference
     
-*   (1) At each mediation conference a Family Court Judge shall be the chairperson.
+*   \[Repealed\]
     
-    (2) The objectives of the conference shall be---
-        
-    *   (a) to identify the matters in issue between the parties; and
-    
-    *   (b) to try to obtain agreement between the parties on the resolution of those matters.
-    
-    (3) Any barrister or solicitor representing a party may, at the request of that party, be present at the conference to assist and advise that party.
-    
-    (4) Where the role of providing day-to-day care for, or contact with, a child is in issue at the conference, any barrister or solicitor appointed to represent the child may be present.
-    
-    (5) Subject to subsections (3) and (4), every mediation conference shall, unless the chairman otherwise directs, be held in private.
-    
-    (6) The chairperson may from time to time adjourn the conference to a time and place to be appointed by the chairperson.
-    
-    (7) The chairperson shall record in writing the matters in issue at the conference, showing separately---
-        
-    *   (a) those matters on which agreement is reached between the parties; and
-    
-    *   (b) those matters on which no agreement is reached between the parties---
-    
-    and the record shall be filed in the District Court in which the relevant proceedings are filed.
-    
-    Section 14(1): amended, on 18 May 2009, by [section 15(1)][304] of the Family Proceedings Amendment Act 2008 (2008 No 79).
-    
-    Section 14(4): replaced, on 1 July 2005, by [section 151][292] of the Care of Children Act 2004 (2004 No 90).
-    
-    Section 14(6): amended, on 18 May 2009, by [section 15(3)][304] of the Family Proceedings Amendment Act 2008 (2008 No 79).
-    
-    Section 14(7): amended, on 18 May 2009, by [section 15(4)][304] of the Family Proceedings Amendment Act 2008 (2008 No 79).
+    Section 14: repealed, on 31 March 2014, by [section 6][299] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
 
 ##### 15 Power of chairperson to make consent orders
     
-*   (1) Subject to subsection (2), the chairperson presiding at a mediation conference may, by consent of the parties, make any orders that could have been made by a Family Court and that relate to an application by either party for---
-        
-    *   (a) a separation order; or
+*   \[Repealed\]
     
-    *   (b) the role of providing day-to-day care for any child of the parties, whether or not the child is a child of the marriage, civil union, or de facto relationship, or contact with that child; or
-    
-    *   (c) a maintenance order; or
-    
-    *   (d) the possession or disposition of property under the [Property (Relationships) Act 1976][305].
-    
-    (2) Where a party has no barrister or solicitor, or a party's barrister or solicitor is not present at the conference, a consent order shall not be made unless that party states expressly that that party does not wish the conference to be adjourned to provide an opportunity for legal advice to be taken.
-    
-    (3) An order made under this section shall for all purposes have the same effect as if it were made by the consent of the parties in proceedings before a Family Court.
-    
-    Section 15 heading: amended, on 18 May 2009, by [section 17(1)][306] of the Family Proceedings Amendment Act 2008 (2008 No 79).
-    
-    Section 15(1): amended, on 18 May 2009, by [section 17(2)][306] of the Family Proceedings Amendment Act 2008 (2008 No 79).
-    
-    Section 15(1)(b): amended, on 1 July 2005, by [section 149][287] of the Care of Children Act 2004 (2004 No 90).
-    
-    Section 15(1)(b): amended, on 1 July 2005, by [section 151][292] of the Care of Children Act 2004 (2004 No 90).
-    
-    Section 15(1)(c): replaced, on 1 February 2002, by [section 5][307] of the Family Proceedings Amendment Act 2001 (2001 No 7).
-    
-    Section 15(1)(d): replaced, on 1 February 2002, by [section 5][307] of the Family Proceedings Amendment Act 2001 (2001 No 7).
+    Section 15: repealed, on 31 March 2014, by [section 6][299] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
 
 ##### 16 Proceedings after mediation conference
     
-*   The Family Court Judge who presides over a mediation conference between the parties to an application shall be entitled to hear any subsequent proceedings between those parties under that application unless in all the circumstances he decides, on his own motion or on the application of any party,---
-        
-    *   (a) that it would be inappropriate for him to do so; or
+*   \[Repealed\]
     
-    *   (b) that there is some other sufficient reason for the application to be heard by another Judge.
-    
-    
+    Section 16: repealed, on 31 March 2014, by [section 6][299] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
 
 ##### 17 Power to require attendance for counselling or mediation
     
-*   (1) Where a person fails to comply with---
-        
-    *   (a) a request under [section 11(1)(b)][16] to attend before a counsellor; or
+*   \[Repealed\]
     
-    *   (b) a request under [section 13(2)(b)][21] to attend a mediation conference---
-    
-    a District Court Judge may, on the request of a counsellor or Registrar, issue a summons requiring the person to attend before the counsellor or to attend a mediation conference at a time and place to be specified in the summons.
-    
-    (2) [Section 159][308] of the Criminal Procedure Act 2011 applies to a summons under this section as if it were a witness summons issued under that section.
-    
-    Compare: 1968 No 62 s 16(4)
-    
-    Section 17(2): amended, on 1 July 2013, by [section 413][309] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 17: repealed, on 31 March 2014, by [section 6][299] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
 
 ##### 18 Privilege
     
-*   (1) No evidence shall be admissible in any court, or before any person acting judicially, of any information, statement, or admission disclosed or made---
-        
-    *   (a) to a counsellor exercising his functions under this Part; or
+*   \[Repealed\]
     
-    *   (b) in the course of a mediation conference.
-    
-    (2) Nothing in subsection (1) shall apply to a record made by a Family Court Judge under [section 14(7)][22], or to any consent order made under [section 15][23], or to any proceedings for the review of such an order.
-    
-    (3) Except to the extent that it is necessary for a counsellor to do so in the proper discharge of that counsellor's functions, every counsellor commits an offence and is liable on conviction to a fine not exceeding $500 who discloses to any other person any information, statement, or admission received by or made to the counsellor in the exercise of the counsellor's functions under this Part.
-    
-    Compare: 1963 No 71 s 5; 1968 No 62 s 18
-    
-    Section 18(3): amended, on 1 July 2013, by [section 413][309] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 18: repealed, on 31 March 2014, by [section 6][299] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
 
 ##### 19 Duty of courts as to reconciliation and conciliation
     
-*   (1) In all proceedings under this Act between spouses or civil union partners (other than proceedings under [section 27][39] or [section 29][42] or [section 32][46]), and in all proceedings under the [Care of Children Act 2004][297] between spouses, civil union partners, or de facto partners for any order about the role of providing day-to-day care for a child, or about contact with a child, the court shall---
-        
-    *   (a) consider from time to time the possibility of a reconciliation between the spouses, civil union partners, or de facto partners, or of conciliation between them on any matter in issue; and
+*   \[Repealed\]
     
-    *   (b) take such further steps as in its opinion may assist in promoting reconciliation or, if reconciliation is not possible, conciliation.
-    
-    (2) In all proceedings under this Act between spouses, civil union partners, or de facto partners for the dissolution of their marriage or civil union, where it appears to the court from the nature of the case, the evidence, or the attitude of either or both of the spouses, civil union partners, or de facto partners, that there is a reasonable possibility of a reconciliation between them, or of conciliation between them on any matter in issue, the court may---
-        
-    *   (a) adjourn the proceedings to afford the spouses, civil union partners, or de facto partners an opportunity for reconciliation, or for conciliation; and
-    
-    *   (b) nominate a counsellor or, in special circumstances, any other suitable person, to explore the possibility of reconciliation or, if reconciliation does not appear to be possible, to attempt to promote conciliation.
-    
-    (3) Where, not less than 28 days after any proceedings have been adjourned under subsection (2), either spouse, civil union partner, or de facto partner so requests, the hearing shall, unless the court otherwise directs, be resumed.
-    
-    (4) Where the court considers that special circumstances exist, the court may, on the application of either spouse, civil union partner, or de facto partner, resume the hearing before the expiration of the period of 28 days mentioned in subsection (3).
-    
-    Compare: 1963 No 71 s 4; 1968 No 62 ss 13, 15
-    
-    Section 19(1): amended, on 1 July 2005, by [section 149][287] of the Care of Children Act 2004 (2004 No 90).
-    
-    Section 19(1): amended, on 1 July 2005, by [section 151][292] of the Care of Children Act 2004 (2004 No 90).
-    
-    Section 19(1): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
-    
-    Section 19(1)(a): amended, on 1 July 2005, by [section 149][287] of the Care of Children Act 2004 (2004 No 90).
-    
-    Section 19(1)(a): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
-    
-    Section 19(2): amended, on 1 July 2005, by [section 149][287] of the Care of Children Act 2004 (2004 No 90).
-    
-    Section 19(2): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
-    
-    Section 19(2): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
-    
-    Section 19(2)(a): amended, on 1 July 2005, by [section 149][287] of the Care of Children Act 2004 (2004 No 90).
-    
-    Section 19(2)(a): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
-    
-    Section 19(3): amended, on 1 July 2005, by [section 149][287] of the Care of Children Act 2004 (2004 No 90).
-    
-    Section 19(3): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
-    
-    Section 19(4): amended, on 1 July 2005, by [section 149][287] of the Care of Children Act 2004 (2004 No 90).
-    
-    Section 19(4): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 19: repealed, on 31 March 2014, by [section 6][299] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
 
 ##### 19A Circumstances where joint counselling not to be required
     
-*   (1) Notwithstanding anything in this Part, a party to a marriage, civil union, or de facto relationship shall not be required, under any provision of this Part, to attend counselling at which the other party to the marriage, civil union, or de facto relationship is also present, in any case where the other party to the marriage, civil union, or de facto relationship has used violence (within the meaning of [section 3(2)][299] of the Domestic Violence Act 1995) against the first-mentioned party, or against a child of the marriage, civil union, or de facto relationship.
+*   \[Repealed\]
     
-    (2) Nothing in this section prevents the provision of counselling in the circumstances referred to in subsection (1) with the agreement of the first-mentioned party.
-    
-    Section 19A: inserted, on 1 July 1996, by section 3 of the Family Proceedings Amendment Act 1995 (1995 No 90).
-    
-    Section 19A(1): amended, on 1 July 2005, by [section 149][287] of the Care of Children Act 2004 (2004 No 90).
+    Section 19A: repealed, on 31 March 2014, by [section 6][299] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
 
 ## Part 3  
 Separation
@@ -1301,7 +1019,7 @@ Separation
     
     Compare: 1968 No 62 s 19(1)
     
-    Section 20: amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 20: amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 21 Power of Family Court to make separation order
     
@@ -1315,7 +1033,7 @@ Separation
     
     Compare: 1968 No 62 s 19(1)(a); 1971 No 59 s 2
     
-    Section 22: amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 22: amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 23 Effect of separation order
     
@@ -1323,7 +1041,7 @@ Separation
     
     Compare: 1968 No 62 s 20
     
-    Section 23: amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 23: amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 24 Discharge of separation order on resumption of cohabitation
     
@@ -1339,11 +1057,11 @@ Separation
     
     Section 24(1)(a): amended, on 19 August 2013, by [section 9][288] of the Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20).
     
-    Section 24(1)(a): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 24(1)(a): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
     Section 24(2): amended, on 19 August 2013, by [section 9][288] of the Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20).
     
-    Section 24(2): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 24(2): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 25 Discharge of separation order by court
     
@@ -1353,7 +1071,7 @@ Separation
     
     Compare: 1968 No 62 s 22
     
-    Section 25(2): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 25(2): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 26 Effect of separation order on property rights
     
@@ -1361,24 +1079,24 @@ Separation
     
     (2) Notwithstanding subsection (1),---
         
-    *   (a) in any case to which that subsection applies the High Court, on the application of the survivor made within the time specified in the [Family Protection Act 1955][310] in relation to applications under that Act, may, at its discretion, order that such provision as the court thinks fit shall be made for the survivor out of the estate of the deceased spouse or civil union partner; and
+    *   (a) in any case to which that subsection applies the High Court, on the application of the survivor made within the time specified in the [Family Protection Act 1955][300] in relation to applications under that Act, may, at its discretion, order that such provision as the court thinks fit shall be made for the survivor out of the estate of the deceased spouse or civil union partner; and
     
     *   (b) the provisions of that Act, as far as they are applicable and with the necessary modifications, shall apply with respect to every application under this subsection.
     
     Compare: 1968 No 62 s 24(2)--(3)
     
-    Section 26(1): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 26(1): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 26(2)(a): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 26(2)(a): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ## Part 4  
 Proceedings relating to the status of marriage or civil union
     
-*   Part 4 heading: amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+*   Part 4 heading: amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
 
 #### Validity of marriage or civil union
     
-*   Heading: amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+*   Heading: amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 27 Application for declaration as to validity of marriage or civil union
     
@@ -1394,13 +1112,13 @@ Proceedings relating to the status of marriage or civil union
     
     Compare: 1963 No 71 s 17(1), (3)
     
-    Section 27 heading: amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 27 heading: amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 27(1): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 27(1): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 27(1)(a): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 27(1)(a): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 27(1)(b): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 27(1)(b): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 28 Power of Family Court to make declaration as to validity of marriage or civil union
     
@@ -1408,15 +1126,15 @@ Proceedings relating to the status of marriage or civil union
     
     (2) The jurisdiction to make a declaration on an application under [section 27][39] is discretionary, and a Family Court may, on any grounds which it considers sufficient, refuse to make such a declaration.
     
-    (3) [Section 4][311] of the Declaratory Judgments Act 1908 shall apply, with the necessary modifications, to every declaration made on an application under [section 27][39].
+    (3) [Section 4][301] of the Declaratory Judgments Act 1908 shall apply, with the necessary modifications, to every declaration made on an application under [section 27][39].
     
     Compare: 1963 No 71 s 17(1)--(2)
     
-    Section 28 heading: amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 28 heading: amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
 
 #### Void marriages and civil unions
     
-*   Heading: amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+*   Heading: amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 29 Application for order declaring marriage or civil union void
     
@@ -1428,11 +1146,11 @@ Proceedings relating to the status of marriage or civil union
     
     Compare: 1963 No 71 s 6
     
-    Section 29 heading: amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 29 heading: amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 29: amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 29: amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 29(b): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 29(b): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 30 Power of Family Court to make order declaring marriage or civil union void
     
@@ -1440,7 +1158,7 @@ Proceedings relating to the status of marriage or civil union
     
     Compare: 1963 No 71 s 6
     
-    Section 30 heading: amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 30 heading: amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 31 Grounds on which marriage or civil union void
     
@@ -1452,39 +1170,39 @@ Proceedings relating to the status of marriage or civil union
         
         *   (ii) by reason of duress, mistake, or insanity, or for any other reason, there was at the time of the marriage or civil union an absence of consent by either party to marriage or civil union to the other party; or
         
-        *   (iii) the parties to the marriage are within the prohibited degrees of relationship set out in [Schedule 2][312] of the Marriage Act 1955, and no order is in force under [section 15(2)][313] of that Act dispensing with the prohibition; or
+        *   (iii) the parties to the marriage are within the prohibited degrees of relationship set out in [Schedule 2][302] of the Marriage Act 1955, and no order is in force under [section 15(2)][303] of that Act dispensing with the prohibition; or
         
-        *   (iv) the parties to the civil union are within the prohibited degrees of civil union set out in [Schedule 2][314] of the Civil Union Act 2004, and no order is in force under [section 10][315] of that Act dispensing with the prohibition; or
+        *   (iv) the parties to the civil union are within the prohibited degrees of civil union set out in [Schedule 2][304] of the Civil Union Act 2004, and no order is in force under [section 10][305] of that Act dispensing with the prohibition; or
         
         
     
-    *   (b) in the case of a marriage or civil union that is governed by New Zealand law so far as it relates to the formalities of marriage or civil union, the parties knowingly and wilfully married without a marriage or civil union licence, or in the absence of a marriage or civil union celebrant or Registrar of Marriages, in contravention of the [Marriage Act 1955][316]; or
+    *   (b) in the case of a marriage or civil union that is governed by New Zealand law so far as it relates to the formalities of marriage or civil union, the parties knowingly and wilfully married without a marriage or civil union licence, or in the absence of a marriage or civil union celebrant or Registrar of Marriages, in contravention of the [Marriage Act 1955][306]; or
     
-    *   (c) in the case of a civil union that is governed by New Zealand law so far as it relates to the formalities of civil union, the parties knowingly and wilfully entered into a civil union without a licence, or in the absence of a Registrar (as defined in [section 3][317] of the Civil Union Act 2004) or civil union celebrant, or otherwise than in accordance with the rules and procedures of an exempt body (as also defined in section 3 of that Act).
+    *   (c) in the case of a civil union that is governed by New Zealand law so far as it relates to the formalities of civil union, the parties knowingly and wilfully entered into a civil union without a licence, or in the absence of a Registrar (as defined in [section 3][307] of the Civil Union Act 2004) or civil union celebrant, or otherwise than in accordance with the rules and procedures of an exempt body (as also defined in section 3 of that Act).
     
     (2) Nothing in subsection (1) shall affect the law as to the validity in New Zealand of a marriage or civil union that is not governed by the law of New Zealand, or the jurisdiction of a Family Court to make an order declaring any such marriage or civil union to be void _ab initio_.
     
     Compare: 1963 No 71 s 7(1)--(2)
     
-    Section 31 heading: amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 31 heading: amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 31(1): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 31(1): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 31(1)(a): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 31(1)(a): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 31(1)(a)(i): replaced, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 31(1)(a)(i): replaced, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 31(1)(a)(ii): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 31(1)(a)(ii): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 31(1)(a)(iv): inserted, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 31(1)(a)(iv): inserted, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 31(1)(b): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 31(1)(b): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 31(1)(b): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 31(1)(b): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 31(1)(c): inserted, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 31(1)(c): inserted, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 31(2): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 31(2): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
 
 #### Presumption of death
 
@@ -1494,9 +1212,9 @@ Proceedings relating to the status of marriage or civil union
     
     Compare: 1963 No 71 s 19(1)
     
-    Section 32: amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 32: amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 32: amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 32: amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 33 Power of Family Court to make declaration of presumption of death
     
@@ -1510,7 +1228,7 @@ Proceedings relating to the status of marriage or civil union
     
     Compare: 1963 No 71 s 19(2)
     
-    Section 34: amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 34: amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 35 Evidence of death
     
@@ -1518,7 +1236,7 @@ Proceedings relating to the status of marriage or civil union
     
     Compare: 1963 No 71 s 19(3)
     
-    Section 35: amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 35: amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 36 Application of other provisions
     
@@ -1526,11 +1244,11 @@ Proceedings relating to the status of marriage or civil union
     
     Compare: 1963 No 71 s 19(4)
     
-    Section 36: amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 36: amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
 
 #### Dissolution of marriage or civil union
     
-*   Heading: amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+*   Heading: amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 37 Application for dissolution of marriage or civil union
     
@@ -1542,21 +1260,21 @@ Proceedings relating to the status of marriage or civil union
     
     (2) An application under subsection (1) may be made only where, at the time of the filing of the application, at least one party to the marriage or civil union is domiciled in New Zealand.
     
-    (3) For the purposes of [sections 38(2)][53], [42][57], and [174(3)][246], proceedings for an order dissolving a marriage or civil union that are commenced by a joint application shall be treated as undefended proceedings.
+    (3) For the purposes of [sections 38(2)][53], [42][57], and [174(3)][250], proceedings for an order dissolving a marriage or civil union that are commenced by a joint application shall be treated as undefended proceedings.
     
     Compare: 1963 No 71 ss 18(1), 20
     
-    Section 37 heading: amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 37 heading: amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 37(1): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 37(1): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 37(1)(a): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 37(1)(a): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 37(1)(b): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 37(1)(b): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 37(2): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 37(2): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 37(3): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 37(3): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
     Section 37(3): amended, on 1 July 1994, by section 5 of the Family Proceedings Amendment Act 1994 (1994 No 32).
 
@@ -1582,13 +1300,13 @@ Proceedings relating to the status of marriage or civil union
     
     (3) If there is a change of circumstances between the time of the filing of the application for the order and the date on which an order made under subsection (2) takes effect as a final order, either party may seek a hearing at any time before the order takes effect as a final order notwithstanding that the person consented to the order being made in his or her absence or did not request an appearance.
     
-    Section 38 heading: amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 38 heading: amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
     Section 38: replaced, on 1 July 1994, by section 6 of the Family Proceedings Amendment Act 1994 (1994 No 32).
     
-    Section 38(1): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 38(1): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 38(2): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 38(2): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 39 Grounds for dissolution
     
@@ -1602,15 +1320,15 @@ Proceedings relating to the status of marriage or civil union
     
     Section 39: replaced, on 11 June 1985, by section 2 of the Family Proceedings Amendment Act (No 2) 1985 (1985 No 85).
     
-    Section 39 heading: amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 39 heading: amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 39(1): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 39(1): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 39(2): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 39(2): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 39(3): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 39(3): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 39(4): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 39(4): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 40 Effect of resumption of cohabitation
     
@@ -1618,19 +1336,19 @@ Proceedings relating to the status of marriage or civil union
     
     Compare: 1963 No 71 s 26; 1968 No 60 s 3
     
-    Section 40: amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 40: amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 40: amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 40: amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 41 Effect of sexual connection without resumption of cohabitation
     
 *   For the purposes of [section 39][54], there shall be no presumption that the parties to a marriage or civil union have ceased to live apart by reason of acts of sexual connection between them (whether or not the sole or principal motive was reconciliation) without the resumption of cohabitation.
     
-    Section 41 heading: amended, on 26 April 2005, pursuant to [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 41 heading: amended, on 26 April 2005, pursuant to [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 41: amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 41: amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 41: amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 41: amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 42 Orders dissolving marriage or civil union
     
@@ -1642,7 +1360,7 @@ Proceedings relating to the status of marriage or civil union
     
     *   (c) if made by a Registrar in undefended proceedings, shall, subject to subsection (4), take effect as a final order at the expiration of 1 month from the date on which it is made.
     
-    (2) Where a party to any defended proceedings for an order dissolving a marriage or civil union appeals to the High Court, within the time provided by [section 174][246], against the making of an order dissolving that marriage or civil union, the following provisions shall apply:
+    (2) Where a party to any defended proceedings for an order dissolving a marriage or civil union appeals to the High Court, within the time provided by [section 174][250], against the making of an order dissolving that marriage or civil union, the following provisions shall apply:
         
     *   (a) the order shall not take effect as a final order while the appeal is pending:
     
@@ -1664,19 +1382,19 @@ Proceedings relating to the status of marriage or civil union
     
     Compare: 1963 No 71 ss 18(5), 33, 34
     
-    Section 42 heading: amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 42 heading: amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
     Section 42(1): replaced, on 1 July 1994, by section 7(1) of the Family Proceedings Amendment Act 1994 (1994 No 32).
     
-    Section 42(1): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 42(1): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 42(2): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 42(2): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 42(3): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 42(3): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
     Section 42(4): inserted, on 1 July 1994, by section 7(2) of the Family Proceedings Amendment Act 1994 (1994 No 32).
     
-    Section 42(4): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 42(4): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 43 Entering new relationship after dissolution
     
@@ -1686,11 +1404,11 @@ Proceedings relating to the status of marriage or civil union
     
     Compare: 1963 No 71 s 35
     
-    Section 43 heading: replaced, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 43 heading: replaced, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 43(1): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 43(1): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 43(2): inserted, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 43(2): inserted, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
 
 #### Overseas orders
 
@@ -1720,21 +1438,21 @@ Proceedings relating to the status of marriage or civil union
     
     Compare: 1963 No 71 s 82; 1968 No 60 s 12
     
-    Section 44(1): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 44(1): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 44(1)(b)(i): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 44(1)(b)(i): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 44(1)(b)(ii): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 44(1)(b)(ii): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 44(1)(b)(iii): replaced, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 44(1)(b)(iii): replaced, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 44(1)(b)(iv): replaced, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 44(1)(b)(iv): replaced, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 44(1)(b)(v): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 44(1)(b)(v): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 44(1)(c): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 44(1)(c): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 44(2): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 44(2): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ## Part 5  
 Children
@@ -1767,25 +1485,25 @@ Children
     
     Compare: 1963 No 71 s 49; 1968 No 60 s 5
     
-    Section 45 heading: amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 45 heading: amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 45(1): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 45(1): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 45(1)(a): amended, on 1 July 2005, by [section 151][292] of the Care of Children Act 2004 (2004 No 90).
+    Section 45(1)(a): amended, on 1 July 2005, by [section 151][290] of the Care of Children Act 2004 (2004 No 90).
     
-    Section 45(1)(a): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 45(1)(a): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 45(1)(c): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 45(1)(c): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
     Section 45(1A): inserted, on 1 July 1994, by section 8(1) of the Family Proceedings Amendment Act 1994 (1994 No 32).
     
-    Section 45(1A): amended, on 1 July 2005, by [section 151][292] of the Care of Children Act 2004 (2004 No 90).
+    Section 45(1A): amended, on 1 July 2005, by [section 151][290] of the Care of Children Act 2004 (2004 No 90).
     
-    Section 45(1A): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 45(1A): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 45(2): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 45(2): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 45(3): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 45(3): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
     Section 45(3)(a): amended, on 1 July 1994, by section 8(2) of the Family Proceedings Amendment Act 1994 (1994 No 32).
 
@@ -1809,7 +1527,7 @@ Children
     
     Compare: 1963 No 71 s 50; 1968 No 62 s 8(1), (3), (4)
     
-    Section 46(1): amended, on 1 July 2005, by [section 151][292] of the Care of Children Act 2004 (2004 No 90).
+    Section 46(1): amended, on 1 July 2005, by [section 151][290] of the Care of Children Act 2004 (2004 No 90).
 
 #### Determination of paternity
 
@@ -1843,13 +1561,13 @@ Children
     
     Compare: 1968 No 62 ss 45, 47
     
-    Section 47(1)(b): amended, on 1 July 2005, by [section 151][292] of the Care of Children Act 2004 (2004 No 90).
+    Section 47(1)(b): amended, on 1 July 2005, by [section 151][290] of the Care of Children Act 2004 (2004 No 90).
     
-    Section 47(2)(a): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 47(2)(a): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 47(2)(b): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 47(2)(b): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 47(2)(b): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 47(2)(b): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 48 Jurisdiction to establish paternity
     
@@ -1879,13 +1597,13 @@ Children
     
     *   (b) where at any time before the making of the application, the respondent has admitted expressly or by implication that he is the father of the child :
     
-    *   (c) where, at any time before 1 July 1992, the respondent has been named as a liable parent for the purposes of [sections 27I to 27ZI][318] of the Social Security Act 1964, and the bringing of an application for a paternity order is subsequently necessary as a consequence of the enactment of the [Child Support Act 1991][319].
+    *   (c) where, at any time before 1 July 1992, the respondent has been named as a liable parent for the purposes of [sections 27I to 27ZI][308] of the Social Security Act 1964, and the bringing of an application for a paternity order is subsequently necessary as a consequence of the enactment of the [Child Support Act 1991][309].
     
     (3) For the purposes of computing any period specified in this section, no account shall be taken of any period during which the respondent is absent from New Zealand.
     
     Compare: 1968 No 62 s 48; 1971 No 59 s 8
     
-    Section 49(2)(a)(ii): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 49(2)(a)(ii): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
     Section 49(2)(b): amended, on 1 July 1992, pursuant to section 6 of the Family Proceedings Amendment Act 1991 (1991 No 144).
     
@@ -1911,7 +1629,7 @@ Children
     
     Compare: 1968 No 62 ss 51, 52
     
-    Section 51(1): replaced, on 1 July 2005, by [section 17][320] of the Status of Children Amendment Act 2004 (2004 No 91).
+    Section 51(1): replaced, on 1 July 2005, by [section 17][310] of the Status of Children Amendment Act 2004 (2004 No 91).
 
 ##### 52 Evidence of mother
     
@@ -1925,11 +1643,11 @@ Children
 
 ##### 53 False statement in application for paternity order
     
-*   Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who, in any application for a paternity order under this Act, makes any statement that, if made on oath in the proceedings, would amount to perjury as defined in [section 108][321] of the Crimes Act 1961\.
+*   Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who, in any application for a paternity order under this Act, makes any statement that, if made on oath in the proceedings, would amount to perjury as defined in [section 108][311] of the Crimes Act 1961\.
     
     Compare: 1968 No 62 s 127
     
-    Section 53: amended, on 1 July 2013, by [section 413][309] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 53: amended, on 1 July 2013, by [section 413][312] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Parentage tests in civil proceedings
     
@@ -2059,18 +1777,18 @@ Children
     
     Section 59 heading: amended, on 1 July 2005, by [section 150][286] of the Care of Children Act 2004 (2004 No 90).
     
-    Section 59: amended, on 1 July 2013, by [section 413][309] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 59: amended, on 1 July 2013, by [section 413][312] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 59: amended, on 1 July 2005, by [section 150][286] of the Care of Children Act 2004 (2004 No 90).
 
 ## Part 6  
 Maintenance of spouses and de facto partners
     
-*   Part 6 heading: replaced, on 1 February 2002, by [section 6][322] of the Family Proceedings Amendment Act 2001 (2001 No 7).
+*   Part 6 heading: replaced, on 1 February 2002, by [section 6][313] of the Family Proceedings Amendment Act 2001 (2001 No 7).
 
 ##### 60 Interpretation
     
-*   (1) In this Part, unless the context otherwise requires, _de facto partner_ and _de facto relationship_ have the same meaning as in [section 2][276] of the Property (Relationships) Act 1976\.
+*   (1) In this Part, unless the context otherwise requires, _de facto partner_ and _de facto relationship_ have the same meaning as in [section 2][314] of the Property (Relationships) Act 1976\.
     
     (2) In this Part, unless the context otherwise requires, _child of the de facto relationship_,---
         
@@ -2086,11 +1804,11 @@ Maintenance of spouses and de facto partners
     
     Compare: 1963 No 71 s 48; 1968 No 62 s 35(3)
     
-    Section 60: replaced, on 1 February 2002, by [section 7][323] of the Family Proceedings Amendment Act 2001 (2001 No 7).
+    Section 60: replaced, on 1 February 2002, by [section 7][315] of the Family Proceedings Amendment Act 2001 (2001 No 7).
     
-    Section 60(3)(a): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 60(3)(a): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 60(3)(b): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 60(3)(b): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 61 Application of principles
     
@@ -2106,7 +1824,7 @@ Maintenance of spouses and de facto partners
 
 #### Maintenance of spouses and de facto partners
     
-*   Heading: replaced, on 1 February 2002, by [section 8][324] of the Family Proceedings Amendment Act 2001 (2001 No 7).
+*   Heading: replaced, on 1 February 2002, by [section 8][316] of the Family Proceedings Amendment Act 2001 (2001 No 7).
 
 ##### 63 Maintenance during marriage or civil union
     
@@ -2150,17 +1868,17 @@ Maintenance of spouses and de facto partners
     
     Compare: 1968 No 62 ss 27, 30, 31, 32
     
-    Section 63: replaced, on 1 February 2002, by [section 8][324] of the Family Proceedings Amendment Act 2001 (2001 No 7).
+    Section 63: replaced, on 1 February 2002, by [section 8][316] of the Family Proceedings Amendment Act 2001 (2001 No 7).
     
-    Section 63 heading: amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 63 heading: amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 63(1): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 63(1): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 63(2)(a)(i): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 63(2)(a)(i): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 63(2)(b): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 63(2)(b): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 63(3): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 63(3): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 64 Maintenance after marriage or civil union dissolved or de facto relationship ends
     
@@ -2200,39 +1918,39 @@ Maintenance of spouses and de facto partners
     
     Compare: 1963 No 71 ss 43, 44
     
-    Section 64: replaced, on 1 February 2002, by [section 8][324] of the Family Proceedings Amendment Act 2001 (2001 No 7).
+    Section 64: replaced, on 1 February 2002, by [section 8][316] of the Family Proceedings Amendment Act 2001 (2001 No 7).
     
-    Section 64 heading: amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 64 heading: amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 64(1): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 64(1): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 64(1): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 64(1): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 64(2)(a): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 64(2)(a): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 64(2)(a)(i): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 64(2)(a)(i): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 64(2)(a)(i): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 64(2)(a)(i): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 64(2)(a)(ii): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 64(2)(a)(ii): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 64(2)(b): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 64(2)(b): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 64(2)(b): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 64(2)(b): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 64(2)(c): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 64(2)(c): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 64(2)(d): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 64(2)(d): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 64(2)(d)(i): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 64(2)(d)(i): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 64(2)(d)(ii): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 64(2)(d)(ii): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 64(3): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 64(3): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 64(3): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 64(3): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 64(4)(a): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 64(4)(a): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 64A Spouses, civil union partners, or de facto partners must assume responsibility for own needs within reasonable time
     
@@ -2272,43 +1990,43 @@ Maintenance of spouses and de facto partners
     
     *   (b) for the purposes of subsection (3)(c)(i), the effects of the division of functions within the marriage or civil union include the effects of the division of functions within that de facto relationship.
     
-    Section 64A: inserted, on 1 February 2002, by [section 8][324] of the Family Proceedings Amendment Act 2001 (2001 No 7).
+    Section 64A: inserted, on 1 February 2002, by [section 8][316] of the Family Proceedings Amendment Act 2001 (2001 No 7).
     
-    Section 64A heading: amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 64A heading: amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 64A(1): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 64A(1): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 64A(1)(a): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 64A(1)(a): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 64A(1)(b): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 64A(1)(b): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 64A(2): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 64A(2): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 64A(2): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 64A(2): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 64A(3)(a): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 64A(3)(a): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 64A(3)(b): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 64A(3)(b): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 64A(3)(c): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 64A(3)(c): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 64A(3)(c)(i): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 64A(3)(c)(i): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 64A(3)(c)(i): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 64A(3)(c)(i): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 64A(2)(c)(ii): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 64A(2)(c)(ii): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 64A(3)(c)(iii): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 64A(3)(c)(iii): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 64A(3)(c)(iii): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 64A(3)(c)(iii): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
     Section 64A(4): amended, on 19 August 2013, by [section 9][288] of the Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20).
     
-    Section 64A(4): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 64A(4): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 64A(4)(a): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 64A(4)(a): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 64A(4)(b): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 64A(4)(b): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 65 Assessment of maintenance payable to spouse, civil union partner, or de facto partner
     
@@ -2324,7 +2042,7 @@ Maintenance of spouses and de facto partners
             
         *   (i) potential earning capacity:
         
-        *   (ii) means derived from any division of property between the spouses or de facto partners under the [Property (Relationships) Act 1976][305]:
+        *   (ii) means derived from any division of property between the spouses or de facto partners under the [Property (Relationships) Act 1976][317]:
         
         
     
@@ -2344,33 +2062,33 @@ Maintenance of spouses and de facto partners
     
     Compare: 1963 No 71 ss 43, 44; 1968 No 62 ss 27, 30, 31, 32
     
-    Section 65: replaced, on 1 February 2002, by [section 8][324] of the Family Proceedings Amendment Act 2001 (2001 No 7).
+    Section 65: replaced, on 1 February 2002, by [section 8][316] of the Family Proceedings Amendment Act 2001 (2001 No 7).
     
-    Section 65 heading: amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 65 heading: amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 65(1)(a): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 65(1)(a): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 65(1)(a): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 65(1)(a): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 65(2)(a): amended, on 26 April 2005, by[section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 65(2)(a): amended, on 26 April 2005, by[section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 65(2)(b): amended, on 26 April 2005, by[section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 65(2)(b): amended, on 26 April 2005, by[section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 65(2)(c): amended, on 26 April 2005, by[section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 65(2)(c): amended, on 26 April 2005, by[section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 65(2)(d): amended, on 26 April 2005, by[section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 65(2)(d): amended, on 26 April 2005, by[section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 65(2)(e): amended, on 26 April 2005, by[section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 65(2)(e): amended, on 26 April 2005, by[section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 65(3): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 65(3): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 65(3): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 65(3): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 65(4): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 65(4): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 65(4): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 65(4): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 65(5): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 65(5): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 66 Relevance of conduct to maintenance of spouses, civil union partners, or de facto partners
     
@@ -2388,17 +2106,17 @@ Maintenance of spouses and de facto partners
     
     Compare: 1968 No 62 s 28
     
-    Section 66: replaced, on 1 February 2002, by [section 8][324] of the Family Proceedings Amendment Act 2001 (2001 No 7).
+    Section 66: replaced, on 1 February 2002, by [section 8][316] of the Family Proceedings Amendment Act 2001 (2001 No 7).
     
-    Section 66 heading: amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 66 heading: amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 66(1)(a): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 66(1)(a): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 66(1)(a): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 66(1)(a): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 66(2)(a): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 66(2)(a): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 66(2)(b): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 66(2)(b): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 67 Application by either spouse or civil union partner for maintenance during marriage or civil union
     
@@ -2406,17 +2124,17 @@ Maintenance of spouses and de facto partners
     
     Compare: 1968 No 62 ss 25(1), 31(1)
     
-    Section 67 heading: amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 67 heading: amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 67 heading: amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 67 heading: amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 67: amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 67: amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 68 Power of Family Court to make maintenance order in favour of either spouse or civil union partner
     
 *   Every application under [section 67][90] shall be heard and determined in a Family Court.
     
-    Section 68 heading: amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 68 heading: amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 69 Maintenance order in favour of either spouse or civil union partner
     
@@ -2440,9 +2158,9 @@ Maintenance of spouses and de facto partners
     
     Compare: 1963 No 71 s 40(2); 1968 No 62 ss 26, 31(1), (2)
     
-    Section 69 heading: amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 69 heading: amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 69(3): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 69(3): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 70 Order for maintenance after marriage or civil union dissolved or de facto relationship ends
     
@@ -2466,13 +2184,13 @@ Maintenance of spouses and de facto partners
     
     Compare: 1963 No 71 s 40
     
-    Section 70: replaced, on 1 February 2002, by [section 9][325] of the Family Proceedings Amendment Act 2001 (2001 No 7).
+    Section 70: replaced, on 1 February 2002, by [section 9][318] of the Family Proceedings Amendment Act 2001 (2001 No 7).
     
-    Section 70 heading: amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 70 heading: amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 70(1)(a): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 70(1)(a): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 70(4): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 70(4): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 70A Effect of entering into new marriage or civil union or de facto relationship
     
@@ -2498,21 +2216,21 @@ Maintenance of spouses and de facto partners
     
     Compare: 1963 No 71 s 40
     
-    Section 70A: inserted, on 1 February 2002, by [section 9][325] of the Family Proceedings Amendment Act 2001 (2001 No 7).
+    Section 70A: inserted, on 1 February 2002, by [section 9][318] of the Family Proceedings Amendment Act 2001 (2001 No 7).
     
-    Section 70A heading: amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 70A heading: amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 70A(1)(a): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 70A(1)(a): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 70A(1)(b): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 70A(1)(b): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 70A(2)(a): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 70A(2)(a): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 70A(2)(b): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 70A(2)(b): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 70B Restriction on maintenance orders in favour of de facto partners
     
-*   (1) This section applies to a de facto relationship that is a relationship of short duration as defined in [section 2][276] of the Property (Relationships) Act 1976\.
+*   (1) This section applies to a de facto relationship that is a relationship of short duration as defined in [section 2][314] of the Property (Relationships) Act 1976\.
     
     (2) If this section applies to a de facto relationship, the court cannot make an order under [section 70][93] in favour of a de facto partner to that relationship unless---
         
@@ -2526,9 +2244,9 @@ Maintenance of spouses and de facto partners
     
     *   (b) the court is satisfied that failure to make the order would result in serious injustice to that de facto partner.
     
-    (3) In subsection (2)(a)(ii), _contribution_ has the same meaning as it has in [section 2][276] of the Property (Relationships) Act 1976\.
+    (3) In subsection (2)(a)(ii), _contribution_ has the same meaning as it has in [section 2][314] of the Property (Relationships) Act 1976\.
     
-    Section 70B: inserted, on 1 February 2002, by [section 9][325] of the Family Proceedings Amendment Act 2001 (2001 No 7).
+    Section 70B: inserted, on 1 February 2002, by [section 9][318] of the Family Proceedings Amendment Act 2001 (2001 No 7).
 
 ##### 71 Time limit for applying for order against estate of deceased party
     
@@ -2538,7 +2256,7 @@ Maintenance of spouses and de facto partners
     
     (3) No extension shall be granted under subsection (2) unless the application for an extension is made before the final distribution of the estate.
     
-    (4) Where the estate has been distributed before the personal representative receives notice that any application has been made to a Family Court for an extension under subsection (2) and after every notice (if any) of an intention to make an application has lapsed in accordance with [section 48(1)][326] of the Administration Act 1969---
+    (4) Where the estate has been distributed before the personal representative receives notice that any application has been made to a Family Court for an extension under subsection (2) and after every notice (if any) of an intention to make an application has lapsed in accordance with [section 48(1)][319] of the Administration Act 1969---
         
     *   (a) the distribution shall not be disturbed by reason of the making of the application or any order in respect of the application; and
     
@@ -2616,17 +2334,17 @@ Maintenance of spouses and de facto partners
     
     *   (b) has never been married to, or in a civil union with, the mother or (if he has been married to, or in a civil union with, the mother) whose marriage or civil union was dissolved before the conception of the child.
     
-    (6) On hearing an application under subsection (5), a Family Court may, where it is satisfied that the respondent is a person to whom any of paragraphs (a), (d), (e), or (i) of [section 7(1)][327] of the Child Support Act 1991 applies, make any order specified under subsection (1) or subsection (2) of this section against the respondent.
+    (6) On hearing an application under subsection (5), a Family Court may, where it is satisfied that the respondent is a person to whom any of paragraphs (a), (d), (e), or (i) of [section 7(1)][320] of the Child Support Act 1991 applies, make any order specified under subsection (1) or subsection (2) of this section against the respondent.
     
     Compare: 1968 No 62 s 53(1), (2), (3), (5)
     
     Section 78(1): replaced, on 1 July 1992, by section 11(1) of the Family Proceedings Amendment Act 1991 (1991 No 144).
     
-    Section 78(5)(a): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 78(5)(a): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 78(5)(b): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 78(5)(b): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 78(5)(b): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 78(5)(b): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
     Section 78(6): amended, on 1 July 1992, by section 11(2) of the Family Proceedings Amendment Act 1991 (1991 No 144).
 
@@ -2636,7 +2354,7 @@ Maintenance of spouses and de facto partners
         
     *   (a) the natural parents of a child are not married to, or in a civil union with, each other; and
     
-    *   (b) the natural father of the child is a person who is a parent from whom the payment of child support may be sought in respect of the child under [section 6][328] of the Child Support Act 1991; and
+    *   (b) the natural father of the child is a person who is a parent from whom the payment of child support may be sought in respect of the child under [section 6][321] of the Child Support Act 1991; and
     
     *   (c) either natural parent has or has had the role of providing day-to-day care for the child,---
     
@@ -2644,15 +2362,15 @@ Maintenance of spouses and de facto partners
     
     Compare: 1968 No 62 s 53(2)(b), (4), (5); 1975 No 70 s 2
     
-    Section 79 heading: amended, on 1 February 2002, by [section 10][329] of the Family Proceedings Amendment Act 2001 (2001 No 7).
+    Section 79 heading: amended, on 1 February 2002, by [section 10][322] of the Family Proceedings Amendment Act 2001 (2001 No 7).
     
-    Section 79: amended, on 1 July 2005, by [section 151][292] of the Care of Children Act 2004 (2004 No 90).
+    Section 79: amended, on 1 July 2005, by [section 151][290] of the Care of Children Act 2004 (2004 No 90).
     
-    Section 79(a): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 79(a): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
     Section 79(b): replaced, on 1 July 1992, by section 12 of the Family Proceedings Amendment Act 1991 (1991 No 144).
     
-    Section 79(c): amended, on 1 July 2005, by [section 151][292] of the Care of Children Act 2004 (2004 No 90).
+    Section 79(c): amended, on 1 July 2005, by [section 151][290] of the Care of Children Act 2004 (2004 No 90).
 
 ##### 80 Power of Family Court to make maintenance orders against natural parent
     
@@ -2660,7 +2378,7 @@ Maintenance of spouses and de facto partners
     
     Compare: 1968 No 62 s 53(2)(b); 1975 No 70 s 2
     
-    Section 80 heading: amended, on 1 February 2002, by [section 11][330] of the Family Proceedings Amendment Act 2001 (2001 No 7).
+    Section 80 heading: amended, on 1 February 2002, by [section 11][323] of the Family Proceedings Amendment Act 2001 (2001 No 7).
 
 ##### 81 Maintenance order against natural parent
     
@@ -2688,11 +2406,11 @@ Maintenance of spouses and de facto partners
     
     Compare: 1968 No 62 s 53(2)(b), (4), (5); 1975 No 70 s 2
     
-    Section 81 heading: amended, on 1 February 2002, by [section 12(2)][331] of the Family Proceedings Amendment Act 2001 (2001 No 7).
+    Section 81 heading: amended, on 1 February 2002, by [section 12(2)][324] of the Family Proceedings Amendment Act 2001 (2001 No 7).
     
-    Section 81(3): replaced, on 1 February 2002, by [section 12(1)][331] of the Family Proceedings Amendment Act 2001 (2001 No 7).
+    Section 81(3): replaced, on 1 February 2002, by [section 12(1)][324] of the Family Proceedings Amendment Act 2001 (2001 No 7).
     
-    Section 81(3): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 81(3): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
 
 #### Interim maintenance
 
@@ -2710,9 +2428,9 @@ Maintenance of spouses and de facto partners
     
     Compare: 1968 No 62 s 77; 1976 No 87 s 2; 1978 No 91 s 2
     
-    Section 82(1): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 82(1): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 82(1): amended, on 1 February 2002, by [section 13][332] of the Family Proceedings Amendment Act 2001 (2001 No 7).
+    Section 82(1): amended, on 1 February 2002, by [section 13][325] of the Family Proceedings Amendment Act 2001 (2001 No 7).
     
     Section 82(1): amended, on 1 July 1992, by section 13 of the Family Proceedings Amendment Act 1991 (1991 No 144).
     
@@ -2778,7 +2496,7 @@ Maintenance of spouses and de facto partners
 
 ##### 91 Reports as to maintenance
     
-*   (1) In any proceedings under this Act relating to maintenance, the court may request any officer of the department for the time being responsible for the administration of the [Social Security Act 1964][333] to submit to the court a report in writing on the means, earning capacity, and economic circumstances of a party to the proceedings, and on any matter relevant thereto.
+*   (1) In any proceedings under this Act relating to maintenance, the court may request any officer of the department for the time being responsible for the administration of the [Social Security Act 1964][326] to submit to the court a report in writing on the means, earning capacity, and economic circumstances of a party to the proceedings, and on any matter relevant thereto.
     
     (2) The officer shall report accordingly.
     
@@ -2790,7 +2508,7 @@ Maintenance of spouses and de facto partners
     
     Compare: 1968 No 62 s 8(2)--(4)
     
-    Section 91(1): amended, on 1 October 1998, by [section 11][334] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
+    Section 91(1): amended, on 1 October 1998, by [section 11][327] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
 
 ##### 92 Discretion of court as to orders
     
@@ -2800,7 +2518,7 @@ Maintenance of spouses and de facto partners
 
 ##### 93 Person to whom money payable under maintenance order
     
-*   (1) The money payable under a maintenance order shall, unless a direction of the court otherwise requires, be payable to the Commissioner of Inland Revenue in accordance with the [Child Support Act 1991][319].
+*   (1) The money payable under a maintenance order shall, unless a direction of the court otherwise requires, be payable to the Commissioner of Inland Revenue in accordance with the [Child Support Act 1991][309].
     
     (2) A court may, on or at any time after making a maintenance order, direct that the money payable under the order shall be paid---
         
@@ -2828,11 +2546,11 @@ Maintenance of spouses and de facto partners
     
     Section 93(1): replaced, on 1 July 1992, by section 15 of the Family Proceedings Amendment Act 1991 (1991 No 144).
     
-    Section 93(5): replaced, on 1 March 2002, by [section 170(1)][335] of the Public Trust Act 2001 (2001 No 100).
+    Section 93(5): replaced, on 1 March 2002, by [section 170(1)][328] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 93(7): replaced, on 1 March 2002, by [section 170(1)][335] of the Public Trust Act 2001 (2001 No 100).
+    Section 93(7): replaced, on 1 March 2002, by [section 170(1)][328] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 93(9): amended, on 1 March 2002, by [section 170(1)][335] of the Public Trust Act 2001 (2001 No 100).
+    Section 93(9): amended, on 1 March 2002, by [section 170(1)][328] of the Public Trust Act 2001 (2001 No 100).
 
 ##### 93A Copy of order to be sent to Commissioner of Inland Revenue
     
@@ -2846,11 +2564,11 @@ Maintenance of spouses and de facto partners
     
     Compare: 1968 No 62 s 81
     
-    Section 94 heading: amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 94 heading: amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
     Section 94: amended, on 19 August 2013, by [section 9][288] of the Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20).
     
-    Section 94: amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 94: amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 95 Maintenance where order refused
     
@@ -2862,7 +2580,7 @@ Maintenance of spouses and de facto partners
 
 ##### 96 Maintenance order in favour of mentally disordered person
     
-*   Where a maintenance order is made by a court for the payment of a periodical sum in favour of a person who at the date of the making of the order is receiving care and treatment in a hospital as defined in [section 2][336] of the Mental Health (Compulsory Assessment and Treatment) Act 1992, the order may provide for---
+*   Where a maintenance order is made by a court for the payment of a periodical sum in favour of a person who at the date of the making of the order is receiving care and treatment in a hospital as defined in [section 2][329] of the Mental Health (Compulsory Assessment and Treatment) Act 1992, the order may provide for---
         
     *   (a) the payment of a periodical sum in respect of periods while that person is receiving care and treatment in such a hospital; and
     
@@ -2870,7 +2588,7 @@ Maintenance of spouses and de facto partners
     
     Compare: 1968 No 62 s 82; 1971 No 59 s 15
     
-    Section 96: amended, on 1 November 1992, pursuant to [section 137(1)][337] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
+    Section 96: amended, on 1 November 1992, pursuant to [section 137(1)][330] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
 
 ##### 97 Security for maintenance
     
@@ -2949,13 +2667,13 @@ Enforcement of maintenance orders from 1 July 1992
 
 ##### 101 Orders enforceable under Child Support Act 1991
     
-*   (1) The provisions of the [Child Support Act 1991][319] shall apply to the manner in which orders made under [Part 6][80] and [Part 8][176] may be enforced on and after 1 July 1992\.
+*   (1) The provisions of the [Child Support Act 1991][309] shall apply to the manner in which orders made under [Part 6][80] and [Part 8][176] may be enforced on and after 1 July 1992\.
     
-    (2) If a court makes an order under [Part 6][80] or [Part 8][176], the Commissioner of Inland Revenue must, as soon as practicable, take any action necessary to give effect to the order for the purposes of the [Child Support Act 1991][319].
+    (2) If a court makes an order under [Part 6][80] or [Part 8][176], the Commissioner of Inland Revenue must, as soon as practicable, take any action necessary to give effect to the order for the purposes of the [Child Support Act 1991][309].
     
     Section 101: replaced, on 1 July 1992, by section 19 of the Family Proceedings Amendment Act 1991 (1991 No 144).
     
-    Section 101(2): inserted, on 15 November 2000, by [section 3][338] of the Family Proceedings Amendment Act 2000 (2000 No 66).
+    Section 101(2): inserted, on 15 November 2000, by [section 3][331] of the Family Proceedings Amendment Act 2000 (2000 No 66).
 
 ##### 101A Deductions from benefits
     
@@ -2965,11 +2683,11 @@ Enforcement of maintenance orders from 1 July 1992
 
 ##### 101B Power to issue deduction notices under Social Security Act 1964
     
-*   Without limiting [section 101][133] or [section 110][146] (as saved by [section 259(1)][339] of the Child Support Act 1991), where any payment under a maintenance order is in arrear and unpaid, the chief executive of the department for the time being responsible for the administration of the [Social Security Act 1964][333] may issue a deduction notice under [section 86A][340] of the Social Security Act 1964 to any person (other than the employer of the person against whom the order was made in the capacity of the employer of that person) as if the payment in arrear and unpaid were a debt due to the Crown under that Act.
+*   Without limiting [section 101][133] or [section 110][146] (as saved by [section 259(1)][332] of the Child Support Act 1991), where any payment under a maintenance order is in arrear and unpaid, the chief executive of the department for the time being responsible for the administration of the [Social Security Act 1964][326] may issue a deduction notice under [section 86A][333] of the Social Security Act 1964 to any person (other than the employer of the person against whom the order was made in the capacity of the employer of that person) as if the payment in arrear and unpaid were a debt due to the Crown under that Act.
     
-    Section 101B: inserted, on 17 September 1997, by [section 2][341] of the Family Proceedings Amendment Act 1997 (1997 No 66).
+    Section 101B: inserted, on 17 September 1997, by [section 2][334] of the Family Proceedings Amendment Act 1997 (1997 No 66).
     
-    Section 101B: amended, on 1 October 1998, by [section 11][334] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
+    Section 101B: amended, on 1 October 1998, by [section 11][327] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
 
 ##### 102 Bankruptcy
     
@@ -3224,13 +2942,13 @@ Overseas maintenance
     
     Compare: 1968 No 62 s 71
     
-    Section 135(1): amended, on 1 October 2003, pursuant to [section 14(1) ][284]of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 135(1): amended, on 1 October 2003, pursuant to [section 14(1) ][295]of the State Sector Amendment Act 2003 (2003 No 41).
     
-    Section 135(1): amended, on 1 July 1995, by [section 10(1)][285] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 135(1): amended, on 1 July 1995, by [section 10(1)][294] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 135(2): amended, on 1 October 2003, pursuant to [section 14(1) ][284]of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 135(2): amended, on 1 October 2003, pursuant to [section 14(1) ][295]of the State Sector Amendment Act 2003 (2003 No 41).
     
-    Section 135(2): amended, on 1 July 1995, by [section 10(1)][285] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 135(2): amended, on 1 July 1995, by [section 10(1)][294] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
 
 ##### 136 Registration of orders made in Commonwealth or designated countries
     
@@ -3300,9 +3018,9 @@ Overseas maintenance
     
     Compare: 1968 No 62 s 64; 1975 No 70 s 3(1)
     
-    Section 138(2): amended, on 1 July 1995, by [section 10(1)][285] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 138(2): amended, on 1 July 1995, by [section 10(1)][294] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 138(3)(a): amended, on 30 June 1998, by [section 7][342] of the District Courts Amendment Act 1998 (1998 No 76).
+    Section 138(3)(a): amended, on 30 June 1998, by [section 7][335] of the District Courts Amendment Act 1998 (1998 No 76).
     
     Section 138(3)(b): amended, on 1 July 1994, by section 9 of the Family Proceedings Amendment Act 1994 (1994 No 32).
 
@@ -3332,9 +3050,9 @@ Overseas maintenance
     
     Compare: 1968 No 62 s 65
     
-    Section 139(2): amended, on 1 July 1995, by [section 10(1)][285] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 139(2): amended, on 1 July 1995, by [section 10(1)][294] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 139(6): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 139(6): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
     Section 139(6): amended, on 1 July 1994, by section 10 of the Family Proceedings Amendment Act 1994 (1994 No 32).
 
@@ -3354,7 +3072,7 @@ Overseas maintenance
 
 ##### 140 Rehearings and appeals in respect of confirmation of order
     
-*   [Sections 173][244] and [174][246] shall apply to the confirmation of an order or the refusal to confirm any order under [section 138][181] or [section 139][182] as if the confirmation or the refusal were an order made on application under this Act or the dismissal of such an application respectively.
+*   [Sections 173][248] and [174][250] shall apply to the confirmation of an order or the refusal to confirm any order under [section 138][181] or [section 139][182] as if the confirmation or the refusal were an order made on application under this Act or the dismissal of such an application respectively.
     
     Compare: 1968 No 62 s 66
 
@@ -3370,7 +3088,7 @@ Overseas maintenance
 
 #### Discharge or variation of overseas maintenance order
     
-*   Heading: inserted, on 15 November 2000, by [section 4][343] of the Family Proceedings Amendment Act 2000 (2000 No 66).
+*   Heading: inserted, on 15 November 2000, by [section 4][336] of the Family Proceedings Amendment Act 2000 (2000 No 66).
 
 ##### 142 Discharge or variation of registered or confirmed order
     
@@ -3402,7 +3120,7 @@ Overseas maintenance
     
     (2A) An order proposed to be made under subsection (1) must be a provisional order if---
         
-    *   (a) a reciprocal agreement is in force with the country in which the maintenance order was made (pursuant to an Order in Council made under [section 215][344] of the Child Support Act 1991); and
+    *   (a) a reciprocal agreement is in force with the country in which the maintenance order was made (pursuant to an Order in Council made under [section 215][337] of the Child Support Act 1991); and
     
     *   (b) under that agreement only a provisional order may be made.
     
@@ -3422,19 +3140,19 @@ Overseas maintenance
     
     Compare: 1968 No 62 s 68
     
-    Section 142(1): replaced, on 15 November 2000, by [section 5][345] of the Family Proceedings Amendment Act 2000 (2000 No 66).
+    Section 142(1): replaced, on 15 November 2000, by [section 5][338] of the Family Proceedings Amendment Act 2000 (2000 No 66).
     
-    Section 142(1A): inserted, on 15 November 2000, by [section 5][345] of the Family Proceedings Amendment Act 2000 (2000 No 66).
+    Section 142(1A): inserted, on 15 November 2000, by [section 5][338] of the Family Proceedings Amendment Act 2000 (2000 No 66).
     
-    Section 142(1B): inserted, on 15 November 2000, by [section 5][345] of the Family Proceedings Amendment Act 2000 (2000 No 66).
+    Section 142(1B): inserted, on 15 November 2000, by [section 5][338] of the Family Proceedings Amendment Act 2000 (2000 No 66).
     
-    Section 142(2): replaced, on 18 May 2009, by [section 21][346] of the Family Proceedings Amendment Act 2008 (2008 No 79).
+    Section 142(2): replaced, on 18 May 2009, by [section 21][339] of the Family Proceedings Amendment Act 2008 (2008 No 79).
     
-    Section 142(2A): inserted, on 18 May 2009, by [section 21][346] of the Family Proceedings Amendment Act 2008 (2008 No 79).
+    Section 142(2A): inserted, on 18 May 2009, by [section 21][339] of the Family Proceedings Amendment Act 2008 (2008 No 79).
     
-    Section 142(2B): inserted, on 18 May 2009, by [section 21][346] of the Family Proceedings Amendment Act 2008 (2008 No 79).
+    Section 142(2B): inserted, on 18 May 2009, by [section 21][339] of the Family Proceedings Amendment Act 2008 (2008 No 79).
     
-    Section 142(2C): inserted, on 18 May 2009, by [section 21][346] of the Family Proceedings Amendment Act 2008 (2008 No 79).
+    Section 142(2C): inserted, on 18 May 2009, by [section 21][339] of the Family Proceedings Amendment Act 2008 (2008 No 79).
 
 ##### 142A Definition of child maintenance order
     
@@ -3446,7 +3164,7 @@ Overseas maintenance
     
     *   (c) has been registered or confirmed in New Zealand.
     
-    Section 142A: inserted, on 15 November 2000, by [section 6][347] of the Family Proceedings Amendment Act 2000 (2000 No 66).
+    Section 142A: inserted, on 15 November 2000, by [section 6][340] of the Family Proceedings Amendment Act 2000 (2000 No 66).
 
 ##### 142B Discharge, variation, etc, of child maintenance order
     
@@ -3470,7 +3188,7 @@ Overseas maintenance
     
     (4) If an application is made under this section,---
         
-    *   (a) the court may, if it thinks fit, require the Commissioner of Inland Revenue to provide it with a report on the relevant financial implications of the application for the position of any person under the [Child Support Act 1991][319]; and
+    *   (a) the court may, if it thinks fit, require the Commissioner of Inland Revenue to provide it with a report on the relevant financial implications of the application for the position of any person under the [Child Support Act 1991][309]; and
     
     *   (b) the Commissioner must provide that report to the court within any period that the court directs.
     
@@ -3478,9 +3196,9 @@ Overseas maintenance
     
     (6) This section is subject to [section 142E][192].
     
-    Section 142B: inserted, on 15 November 2000, by [section 6][347] of the Family Proceedings Amendment Act 2000 (2000 No 66).
+    Section 142B: inserted, on 15 November 2000, by [section 6][340] of the Family Proceedings Amendment Act 2000 (2000 No 66).
     
-    Section 142B(6): inserted, on 18 May 2009, by [section 22][348] of the Family Proceedings Amendment Act 2008 (2008 No 79).
+    Section 142B(6): inserted, on 18 May 2009, by [section 22][341] of the Family Proceedings Amendment Act 2008 (2008 No 79).
 
 ##### 142C Conditions relating to variation of child maintenance order
     
@@ -3488,7 +3206,7 @@ Overseas maintenance
     
     (2) An order varying a child maintenance order by increasing the amount payable under it may, if the court thinks fit, take effect from a date that is earlier than the date of the order of variation, but must not be earlier than the date on which the grounds for the variation arose.
     
-    Section 142C: inserted, on 15 November 2000, by [section 6][347] of the Family Proceedings Amendment Act 2000 (2000 No 66).
+    Section 142C: inserted, on 15 November 2000, by [section 6][340] of the Family Proceedings Amendment Act 2000 (2000 No 66).
 
 ##### 142D Payment of arrears on child maintenance orders
     
@@ -3502,7 +3220,7 @@ Overseas maintenance
     
     *   (c) any suspension may be on any terms and conditions that the court specifies.
     
-    Section 142D: inserted, on 15 November 2000, by [section 6][347] of the Family Proceedings Amendment Act 2000 (2000 No 66).
+    Section 142D: inserted, on 15 November 2000, by [section 6][340] of the Family Proceedings Amendment Act 2000 (2000 No 66).
 
 ##### 142E Provisional order discharging, etc, child maintenance order
     
@@ -3510,7 +3228,7 @@ Overseas maintenance
     
     (1A) An order proposed to be made under subsection (1) must be a provisional order if---
         
-    *   (a) a reciprocal agreement is in force with the country in which the maintenance order was made (pursuant to an Order in Council made under [section 215][344] of the Child Support Act 1991); and
+    *   (a) a reciprocal agreement is in force with the country in which the maintenance order was made (pursuant to an Order in Council made under [section 215][337] of the Child Support Act 1991); and
     
     *   (b) under that agreement only a provisional order may be made.
     
@@ -3518,21 +3236,21 @@ Overseas maintenance
     
     (3) Subsections (5) to (9) of [section 147][215] apply, except that the court must, instead of sending the statement referred to in subsection (6)(c), send a statement of the grounds on which the provisional order has been made.
     
-    Section 142E: inserted, on 15 November 2000, by [section 6][347] of the Family Proceedings Amendment Act 2000 (2000 No 66).
+    Section 142E: inserted, on 15 November 2000, by [section 6][340] of the Family Proceedings Amendment Act 2000 (2000 No 66).
     
-    Section 142E heading: amended, on 18 May 2009, by [section 23(1)][349] of the Family Proceedings Amendment Act 2008 (2008 No 79).
+    Section 142E heading: amended, on 18 May 2009, by [section 23(1)][342] of the Family Proceedings Amendment Act 2008 (2008 No 79).
     
-    Section 142E(1A): inserted, on 18 May 2009, by [section 23(2)][349] of the Family Proceedings Amendment Act 2008 (2008 No 79).
+    Section 142E(1A): inserted, on 18 May 2009, by [section 23(2)][342] of the Family Proceedings Amendment Act 2008 (2008 No 79).
 
 ##### 142F Copies of orders to be forwarded to Commissioner
     
 *   If a court makes an order under any of [sections 142 to 142E][187], the Registrar or other responsible officer of the court must, within 14 days after the date on which the order is made, send a certified or sealed copy of the order to the Commissioner of Inland Revenue.
     
-    Section 142F: inserted, on 15 November 2000, by [section 6][347] of the Family Proceedings Amendment Act 2000 (2000 No 66).
+    Section 142F: inserted, on 15 November 2000, by [section 6][340] of the Family Proceedings Amendment Act 2000 (2000 No 66).
 
 #### Steps to be taken if respondent not residing in New Zealand
     
-*   Heading: inserted, on 15 November 2000, by [section 7][350] of the Family Proceedings Amendment Act 2000 (2000 No 66).
+*   Heading: inserted, on 15 November 2000, by [section 7][343] of the Family Proceedings Amendment Act 2000 (2000 No 66).
 
 ##### 143 Steps to be taken by Secretary if respondent not residing in New Zealand
     
@@ -3554,7 +3272,7 @@ Overseas maintenance
     
     (3) If the documents specified in subsection (2) are sent to a responsible authority in a Commonwealth or designated country other than the one in which the maintenance order was made, the Secretary must inform the responsible authority in the country in which the order was made of where the documents have been sent.
     
-    Section 143: replaced, on 15 November 2000, by [section 7][350] of the Family Proceedings Amendment Act 2000 (2000 No 66).
+    Section 143: replaced, on 15 November 2000, by [section 7][343] of the Family Proceedings Amendment Act 2000 (2000 No 66).
 
 #### Applications from persons in Convention countries
 
@@ -3562,9 +3280,9 @@ Overseas maintenance
     
 *   In any proceedings under this Part, a certificate signed by the Secretary of Foreign Affairs and Trade or by a Deputy Secretary of Foreign Affairs and Trade, stating that a country is a Convention country, or was a Convention country on a date specified in the certificate, shall be conclusive evidence that the country is or was a Convention country.
     
-    Section 144 heading: amended, on 1 July 1993, pursuant to [section 9(4)][351] of the Foreign Affairs Amendment Act 1993 (1993 No 48).
+    Section 144 heading: amended, on 1 July 1993, pursuant to [section 9(4)][344] of the Foreign Affairs Amendment Act 1993 (1993 No 48).
     
-    Section 144: amended, on 1 July 1993, pursuant to [section 9(4)][351] of the Foreign Affairs Amendment Act 1993 (1993 No 48).
+    Section 144: amended, on 1 July 1993, pursuant to [section 9(4)][344] of the Foreign Affairs Amendment Act 1993 (1993 No 48).
 
 ##### 145 Applications for maintenance by applicants residing in Convention countries
     
@@ -3578,7 +3296,7 @@ Overseas maintenance
     
     Section 145: replaced, on 1 July 1992, by section 21 of the Family Proceedings Amendment Act 1991 (1991 No 144).
     
-    Section 145: amended, on 1 July 1995, by [section 10(1)][285] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 145: amended, on 1 July 1995, by [section 10(1)][294] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
 
 ##### 145A Treatment of applications for maintenance by applicants residing in Convention countries
     
@@ -3590,7 +3308,7 @@ Overseas maintenance
     
     Section 145A: inserted, on 1 July 1992, by section 21 of the Family Proceedings Amendment Act 1991 (1991 No 144).
     
-    Section 145A: amended, on 1 July 1995, by [section 10(1)][285] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 145A: amended, on 1 July 1995, by [section 10(1)][294] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
 
 #### Maintenance of children in respect of applications from persons in Convention countries
     
@@ -3608,11 +3326,11 @@ Overseas maintenance
     
     Section 145B: inserted, on 1 July 1992, by section 21 of the Family Proceedings Amendment Act 1991 (1991 No 144).
     
-    Section 145B(b): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 145B(b): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 145B(c): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 145B(c): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 145B(c): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 145B(c): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 145C Maintenance of children
     
@@ -3658,7 +3376,7 @@ Overseas maintenance
     
     Section 145C: inserted, on 1 July 1992, by section 21 of the Family Proceedings Amendment Act 1991 (1991 No 144).
     
-    Section 145C(3)(d): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 145C(3)(d): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 145D Limitations on liability as father
     
@@ -3670,7 +3388,7 @@ Overseas maintenance
     
     *   (c) a court has, before or at the time of making a maintenance order against him, made a paternity order against him; or
     
-    *   (d) his name has at any time been entered pursuant to the [Births, Deaths, Marriages, and Relationships Registration Act 1995][352] in the Register of Births as the father of the child; or
+    *   (d) his name has at any time been entered pursuant to the [Births, Deaths, Marriages, and Relationships Registration Act 1995][345] in the Register of Births as the father of the child; or
     
     *   (e) he has been declared to be the father of the child by an order made in a country outside New Zealand (being an order to which this section applies pursuant to subsection (2)); or
     
@@ -3682,11 +3400,11 @@ Overseas maintenance
     
     Section 145D: inserted, on 1 July 1992, by section 21 of the Family Proceedings Amendment Act 1991 (1991 No 144).
     
-    Section 145D(1): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 145D(1): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 145D(1): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 145D(1): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 145D(1)(d): amended, on 24 January 2009, by [section 47][353] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 145D(1)(d): amended, on 24 January 2009, by [section 47][346] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 145E Applications for maintenance orders in respect of children
     
@@ -3750,13 +3468,13 @@ Overseas maintenance
     
     Section 145G: inserted, on 1 July 1992, by section 21 of the Family Proceedings Amendment Act 1991 (1991 No 144).
     
-    Section 145G(2): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 145G(2): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 145G(2)(b): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 145G(2)(b): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 145G(9): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 145G(9): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 145G(10): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 145G(10): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 145H Contributions by other parent
     
@@ -3802,7 +3520,7 @@ Overseas maintenance
     
     Section 145J: inserted, on 1 July 1992, by section 21 of the Family Proceedings Amendment Act 1991 (1991 No 144).
     
-    Section 145J(3): amended, on 1 July 1995, by [section 10(1)][285] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 145J(3): amended, on 1 July 1995, by [section 10(1)][294] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
 
 ##### 146 Provisions where service not effected
     
@@ -3818,9 +3536,9 @@ Overseas maintenance
     
     Section 146: replaced, on 1 July 1992, by section 21 of the Family Proceedings Amendment Act 1991 (1991 No 144).
     
-    Section 146(1)(b): amended, on 1 July 1995, by [section 10(1)][285] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 146(1)(b): amended, on 1 July 1995, by [section 10(1)][294] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 146(3): amended, on 1 July 1995, by [section 10(1)][285] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 146(3): amended, on 1 July 1995, by [section 10(1)][294] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
 
 #### Applications for child maintenance in respect of persons residing overseas
     
@@ -3836,7 +3554,7 @@ Overseas maintenance
     
     (2) Any such application shall be dealt with in accordance with [sections 145B to 145I][201] as if those sections applied with necessary modifications, except that, in determining whether or not to make an order and its duration, the court shall also have regard to---
         
-    *   (a) whether the respondent is a person from whom child support under the [Child Support Act 1991][319] may be sought in respect of the child; and
+    *   (a) whether the respondent is a person from whom child support under the [Child Support Act 1991][309] may be sought in respect of the child; and
     
     *   (b) whether the respondent is resident in a country with which New Zealand has entered into a reciprocal agreement for enforcement of child support.
     
@@ -3888,19 +3606,19 @@ Overseas maintenance
     
     *   (b) except where the court discharges the order, the depositions shall be dealt with in the same manner as the original depositions.
     
-    (9) [Section 174][246] shall apply to the refusal to make a provisional order under this section or the discharge of such an order under subsection (8).
+    (9) [Section 174][250] shall apply to the refusal to make a provisional order under this section or the discharge of such an order under subsection (8).
     
     (10) Nothing in this section shall limit the jurisdiction of a New Zealand court to make an order under [section 157][228] against a person who is absent from New Zealand.
     
     Compare: 1968 No 62 s 73
     
-    Section 147(3)(b): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 147(3)(b): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
     Section 147(3)(b): amended, on 1 July 1994, by section 12 of the Family Proceedings Amendment Act 1994 (1994 No 32).
     
     Section 147(4): repealed, on 1 July 1992, by section 22 of the Family Proceedings Amendment Act 1991 (1991 No 144).
     
-    Section 147(6): amended, on 1 July 1995, by [section 10(1)][285] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 147(6): amended, on 1 July 1995, by [section 10(1)][294] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
 
 ##### 148 Effect in New Zealand of confirmation overseas of provisional order
     
@@ -3920,7 +3638,7 @@ Overseas maintenance
     
     Compare: 1968 No 62 s 74
     
-    Section 148(5): amended, on 1 July 1995, by [section 10(1)][285] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 148(5): amended, on 1 July 1995, by [section 10(1)][294] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
 
 #### Transmission of applications to Convention countries
 
@@ -3950,15 +3668,15 @@ Overseas maintenance
     
     (5) Nothing in this section shall limit the jurisdiction of a District Court to make an order under [section 157][228] against a person who is absent from New Zealand.
     
-    Section 149(1): amended, on 1 July 1995, by [section 10(1)][285] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 149(1): amended, on 1 July 1995, by [section 10(1)][294] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 149(2): amended, on 1 July 1995, by [section 10(1)][285] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 149(2): amended, on 1 July 1995, by [section 10(1)][294] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 149(2)(b): amended, on 1 July 1995, by [section 10(1)][285] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 149(2)(b): amended, on 1 July 1995, by [section 10(1)][294] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 149(3): amended, on 1 July 1995, by [section 10(1)][285] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 149(3): amended, on 1 July 1995, by [section 10(1)][294] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 149(4): amended, on 1 July 1995, by [section 10(1)][285] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 149(4): amended, on 1 July 1995, by [section 10(1)][294] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
 
 #### Miscellaneous provisions as to overseas maintenance
 
@@ -3972,7 +3690,7 @@ Overseas maintenance
     
     Compare: 1968 No 62 s 72(8)
     
-    Section 150(2): amended, on 1 July 1995, by [section 10(1)][285] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 150(2): amended, on 1 July 1995, by [section 10(1)][294] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
 
 ##### 151 Proof of documents
     
@@ -3982,7 +3700,7 @@ Overseas maintenance
     
     Compare: 1968 No 62 s 69
     
-    Section 151(1): amended, on 1 April 1980, pursuant to [section 18(2)][354] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 151(1): amended, on 1 April 1980, pursuant to [section 18(2)][347] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 152 Depositions to be evidence
     
@@ -4013,27 +3731,27 @@ Procedure
     
     (2) If a person is incapable of authorising an agent under subsection (1) to make an application on that person's behalf---
         
-    *   (a) the manager of that person's estate under the [Protection of Personal and Property Rights Act 1988][355] may make the application; or
+    *   (a) the manager of that person's estate under the [Protection of Personal and Property Rights Act 1988][348] may make the application; or
     
     *   (b) where there is no such manager, the next friend of the person may make the application.
     
     Compare: 1968 No 62 ss 25, 31(1), (3); 1971 No 59 ss 3, 4
     
-    Section 155(2)(a): amended, on 1 October 1988, pursuant to [section 113][356] of the Protection of Personal and Property Rights Act 1988 (1988 No 4).
+    Section 155(2)(a): amended, on 1 October 1988, pursuant to [section 113][349] of the Protection of Personal and Property Rights Act 1988 (1988 No 4).
 
 ##### 156 Service on disabled person
     
-*   (1) Where a person against whom an order is sought under this Act (other than an order under [Part 4][37]) is a person whose estate is being administered by Public Trust under the [Protection of Personal and Property Rights Act 1988][355], or in respect of whose estate there is a manager appointed under the Protection of Personal and Property Rights Act 1988, notice of the application under this Act shall be served on Public Trust or the manager, as the case may be, instead of on the respondent, and Public Trust or manager shall then represent and act for the respondent, in all the proceedings under this Act, and the like proceedings may be taken and the like order made as if the estate of the respondent were not being administered by Public Trust, or, as the case may be, there were no manager of that person's estate and that person had been duly served with notice of the application.
+*   (1) Where a person against whom an order is sought under this Act (other than an order under [Part 4][37]) is a person whose estate is being administered by Public Trust under the [Protection of Personal and Property Rights Act 1988][348], or in respect of whose estate there is a manager appointed under the Protection of Personal and Property Rights Act 1988, notice of the application under this Act shall be served on Public Trust or the manager, as the case may be, instead of on the respondent, and Public Trust or manager shall then represent and act for the respondent, in all the proceedings under this Act, and the like proceedings may be taken and the like order made as if the estate of the respondent were not being administered by Public Trust, or, as the case may be, there were no manager of that person's estate and that person had been duly served with notice of the application.
     
     (2) All money payable under any order so made shall be paid by Public Trust or the manager, as the case may be, out of the estate of the respondent according to the tenor of the order, subject to all other debts and liabilities of the respondent so far as Public Trust or the manager, as the case may be, has notice of them.
     
     Compare: 1968 No 62 s 118
     
-    Section 156(1): amended, on 1 March 2002, by [section 170(1)][335] of the Public Trust Act 2001 (2001 No 100).
+    Section 156(1): amended, on 1 March 2002, by [section 170(1)][328] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 156(1): amended, on 1 October 1988, pursuant to [section 113][356] of the Protection of Personal and Property Rights Act 1988 (1988 No 4).
+    Section 156(1): amended, on 1 October 1988, pursuant to [section 113][349] of the Protection of Personal and Property Rights Act 1988 (1988 No 4).
     
-    Section 156(2): amended, on 1 March 2002, by [section 170(1)][335] of the Public Trust Act 2001 (2001 No 100).
+    Section 156(2): amended, on 1 March 2002, by [section 170(1)][328] of the Public Trust Act 2001 (2001 No 100).
 
 ##### 157 Proceedings where respondent is absent from New Zealand or cannot be found
     
@@ -4065,7 +3783,7 @@ Procedure
 
 ##### 159 Conduct of proceedings
     
-*   (1) The business of courts and of Judges shall, so far as is consistent with the due despatch of business, be arranged in such manner as may be necessary for the separating of the hearing of proceedings under this Act, under the [Care of Children Act 2004][297], and under the [Property (Relationships) Act 1976][305] from other business.
+*   (1) The business of courts and of Judges shall, so far as is consistent with the due despatch of business, be arranged in such manner as may be necessary for the separating of the hearing of proceedings under this Act, under the [Care of Children Act 2004][350], and under the [Property (Relationships) Act 1976][317] from other business.
     
     (2) No person shall be present during the hearing of any proceedings under this Act (other than criminal proceedings or proceedings under [section 130][171]) except---
         
@@ -4103,27 +3821,27 @@ Procedure
     
     Compare: 1968 No 62 s 111; 1971 No 59 s 22
     
-    Section 159(1): amended, on 1 July 2005, by [section 151][292] of the Care of Children Act 2004 (2004 No 90).
+    Section 159(1): amended, on 1 July 2005, by [section 151][290] of the Care of Children Act 2004 (2004 No 90).
     
-    Section 159(1): amended, on 1 February 2002, by [section 14][357] of the Family Proceedings Amendment Act 2001 (2001 No 7).
+    Section 159(1): amended, on 1 February 2002, by [section 14][351] of the Family Proceedings Amendment Act 2001 (2001 No 7).
     
-    Section 159(2)(ca): inserted, on 18 May 2009, by [section 24(1)][358] of the Family Proceedings Amendment Act 2008 (2008 No 79).
+    Section 159(2)(ca): inserted, on 18 May 2009, by [section 24(1)][352] of the Family Proceedings Amendment Act 2008 (2008 No 79).
     
-    Section 159(2)(cb): inserted, on 18 May 2009, by [section 24(1)][358] of the Family Proceedings Amendment Act 2008 (2008 No 79).
+    Section 159(2)(cb): inserted, on 18 May 2009, by [section 24(1)][352] of the Family Proceedings Amendment Act 2008 (2008 No 79).
     
-    Section 159(3): replaced, on 18 May 2009, by [section 24(2)][358] of the Family Proceedings Amendment Act 2008 (2008 No 79).
+    Section 159(3): replaced, on 18 May 2009, by [section 24(2)][352] of the Family Proceedings Amendment Act 2008 (2008 No 79).
     
-    Section 159(4): replaced, on 18 May 2009, by [section 24(2)][358] of the Family Proceedings Amendment Act 2008 (2008 No 79).
+    Section 159(4): replaced, on 18 May 2009, by [section 24(2)][352] of the Family Proceedings Amendment Act 2008 (2008 No 79).
     
-    Section 159(5): replaced, on 18 May 2009, by [section 24(2)][358] of the Family Proceedings Amendment Act 2008 (2008 No 79).
+    Section 159(5): replaced, on 18 May 2009, by [section 24(2)][352] of the Family Proceedings Amendment Act 2008 (2008 No 79).
     
-    Section 159(6): inserted, on 18 May 2009, by [section 24(2)][358] of the Family Proceedings Amendment Act 2008 (2008 No 79).
+    Section 159(6): inserted, on 18 May 2009, by [section 24(2)][352] of the Family Proceedings Amendment Act 2008 (2008 No 79).
 
 ##### 160 Applications may be heard together
     
-*   (1) An application under this Act may be joined with an application under the [Care of Children Act 2004][297] or under the [Property (Relationships) Act 1976][305], and, subject to any rules of procedure made under this Act or under the [Family Courts Act 1980][270], it shall not be necessary to file separate applications.
+*   (1) An application under this Act may be joined with an application under the [Property (Relationships) Act 1976][317], and, subject to any rules of procedure made under this Act or under the [Family Courts Act 1980][353], it shall not be necessary to file separate applications.
     
-    (2) A court may hear and determine any proceedings before it under this Act in conjunction with any other proceedings under this Act or under the [Care of Children Act 2004][297] or under the [Property (Relationships) Act 1976][305] in any case where---
+    (2) A court may hear and determine any proceedings before it under this Act in conjunction with any other proceedings under this Act or under the [Care of Children Act 2004][350] or under the [Property (Relationships) Act 1976][317] in any case where---
         
     *   (a) all the proceedings are between the same parties; or
     
@@ -4131,17 +3849,17 @@ Procedure
     
     (3) Subsection (2) shall apply whether or not any other person is also a party to the proceedings.
     
-    Compare: 1968 No 62 s 117; 1976 No 166 [s 56][359]
+    Compare: 1968 No 62 s 117; 1976 No 166 [s 56][354]
     
-    Section 160(1): amended, on 1 July 2005, by [section 151][292] of the Care of Children Act 2004 (2004 No 90).
+    Section 160(1): amended, on 31 March 2014, by [section 7][355] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
     
-    Section 160(1): amended, on 13 September 2002, by [section 6][360] of the Family Courts Amendment Act 2000 (2000 No 65).
+    Section 160(1): amended, on 13 September 2002, by [section 6][356] of the Family Courts Amendment Act 2000 (2000 No 65).
     
-    Section 160(1): amended, on 1 February 2002, by [section 15][361] of the Family Proceedings Amendment Act 2001 (2001 No 7).
+    Section 160(1): amended, on 1 February 2002, by [section 15][357] of the Family Proceedings Amendment Act 2001 (2001 No 7).
     
-    Section 160(2): amended, on 1 July 2005, by [section 151][292] of the Care of Children Act 2004 (2004 No 90).
+    Section 160(2): amended, on 1 July 2005, by [section 151][290] of the Care of Children Act 2004 (2004 No 90).
     
-    Section 160(2): amended, on 1 February 2002, by [section 15][361] of the Family Proceedings Amendment Act 2001 (2001 No 7).
+    Section 160(2): amended, on 1 February 2002, by [section 15][357] of the Family Proceedings Amendment Act 2001 (2001 No 7).
 
 ##### 161 Intervention
     
@@ -4149,35 +3867,103 @@ Procedure
     
     Compare: 1963 No 71 s 71(1)
 
-##### 162 Appointment of barrister or solicitor to assist court or represent children
+##### 162 Appointment of lawyer to represent child in proceedings
     
-*   (1) In any proceedings under this Act (not being criminal proceedings) a court may, if the court is satisfied that it is necessary or desirable to do so, appoint a barrister or solicitor---
+*   (1) In any proceedings under this Act (other than criminal proceedings), a court may appoint a lawyer to represent any child who is---
         
-    *   (a) to assist the court; or
+    *   (a) the subject of the proceedings; or
     
-    *   (b) to represent any child who is the subject of or who is otherwise a party to the proceedings.
+    *   (b) a party to the proceedings.
     
-    (2) A barrister or solicitor appointed under this section may call any person as a witness in the proceedings, and may cross-examine witnesses called by any party to the proceedings or by the court.
+    (2) An appointment under subsection (1) may be made only if the court is satisfied that the appointment is necessary or desirable.
     
-    (3) Fees for professional services provided by barristers or solicitors appointed under this section, and reasonable expenses incurred,---
+    Section 162: replaced, on 31 March 2014, by [section 8][358] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
+
+##### 162A Appointment of lawyer to assist court
+    
+*   In any proceedings under this Act (other than criminal proceedings), a court may---
         
-    *   (a) may be determined in accordance with regulations made under this Act; and
+    *   (a) appoint a lawyer to assist the court; or
     
-    *   (b) are payable out of public money appropriated by Parliament for the purpose.
+    *   (b) direct the Registrar of the court to appoint a lawyer to assist the court.
     
-    (4) The bill of costs rendered by a barrister or solicitor appointed under this section shall be given to the Registrar of the court in which the proceedings were heard and the Registrar may tax the bill of costs.
+    Section 162A: inserted, on 31 March 2014, by [section 8][358] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
+
+##### 162B Fees and expenses of lawyer appointed under section 162 or 162A
     
-    (5) If the barrister or solicitor is dissatisfied with the decision of the Registrar as to the amount of the bill of costs, that person may within 14 days after the date of the decision apply to a Family Court Judge to review the decision; and the Judge may thereupon make such order varying or confirming the decision as the Judge considers fair and reasonable.
+*   (1) The fees and expenses of a lawyer appointed under [section 162][233] or [162A][234] must---
+        
+    *   (a) be determined in accordance with regulations made under [section 16D][359] of the Family Courts Act 1980 or, if no such regulations are made, by the Registrar of the court; and
     
-    (6) Notwithstanding subsection (3), the court may, if it thinks proper, order any party to the proceedings to refund to the Crown such amount as the court specifies in respect of any fees and expenses paid under that subsection, and the amount ordered to be refunded shall be a debt due to the Crown by that party and, in default of payment of the amount, payment thereof may be enforced, by order of a District Court or the High Court as the case may require, in the same manner as a judgment of that court.
+    *   (b) be paid in accordance with that determination out of public money appropriated by Parliament for the purpose.
     
-    Section 162: replaced, on 1 July 1992, by section 23 of the Family Proceedings Amendment Act 1991 (1991 No 144).
+    (2) An invoice rendered by a lawyer appointed under [section 162][233] or [162A][234] for fees and expenses must be given to the Registrar of the court in which the proceedings were heard, and the Registrar may decide to adjust the amount of the invoice.
     
-    Section 162(3): replaced, on 1 July 1994, by section 13(1) of the Family Proceedings Amendment Act 1994 (1994 No 32).
+    (3) A lawyer who is dissatisfied with the decision of the Registrar as to the amount of the invoice may, within 14 days after the date of the decision, apply to a Family Court Judge to review the decision, and the Judge may on the application make any order varying or confirming the decision that the Judge considers fair and reasonable.
     
-    Section 162(3)(b): replaced, on 3 June 1998, by [section 3][362] of the Family Proceedings Amendment act 1998 (1998 No 44).
+    (4) Where in any proceedings a lawyer has been appointed under [section 162][233] or [162A][234] and the fees and expenses relating to that appointment have been paid under subsection (1), the court must make an order under [section 162C][236], unless the court declines to do so in accordance with that section.
     
-    Section 162(6): amended, on 1 July 1994, by section 13(2) of the Family Proceedings Amendment Act 1994 (1994 No 32).
+    (5) However, no order under [section 162C][236] may be made---
+        
+    *   (a) against the Crown, whether acting through the department for the time being responsible for the administration of this Act or otherwise; or
+    
+    *   (b) in respect of an appointment under [section 162A][234], where a lawyer has been appointed under that section to provide to the court independent legal advice on any complex legal issue.
+    
+    Section 162B: inserted, on 31 March 2014, by [section 8][358] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
+
+##### 162C Order requiring reimbursement of costs payments
+    
+*   (1) An order referred to in [section 162B(4)][235] must require the parties to reimburse to the Crown the prescribed proportion of the amount paid by the Crown, under section 162B(1)(b), in respect of the fees and expenses of a lawyer appointed under [section 162][233] or [162A][234].
+    
+    (2) Despite subsection (1), the court may decline to make an order against a party if satisfied that the order would cause serious hardship to the party or to a dependent child of the party.
+    
+    (3) Each party against whom an order is made under subsection (1) must pay an equal share of the prescribed proportion.
+    
+    (4) Despite subsection (3), if the court is satisfied that, in view of the circumstances of the case, including the conduct of any party, it would be inappropriate to require a party to pay the amount payable in accordance with that subsection, the court may substitute, for that party, a different amount not exceeding the prescribed proportion.
+    
+    (5) In this section,---
+    
+    _dependent child,_ in relation to a party, means a child whose day-to-day care is substantially the responsibility of the party
+    
+    _prescribed proportion_ means the same proportion that is prescribed by regulations made under [section 147][360] of the Care of Children Act 2004 for the purposes of [section 135A][361] of that Act
+    
+    _serious hardship_, in relation to a party or a dependent child of the party,---
+        
+    *   (a) includes significant financial difficulties that arise because of---
+            
+        *   (i) the party's inability to meet minimum living expenses according to normal community standards; or
+        
+        *   (ii) the cost of medical treatment for an illness or injury of the party or a dependent child of the party; or
+        
+        *   (iii) a serious illness suffered by the party or by a dependent child of the party; or
+        
+        *   (iv) the cost of education for a dependent child of the party:
+        
+        
+    
+    *   (b) does not include significant financial difficulties that arise because---
+            
+        *   (i) the social activities and entertainment of the party or those of a dependent child of the party may be limited; or
+        
+        *   (ii) the party is unable to afford goods or services that are expensive or of a high quality or standard according to normal community standards.
+        
+        
+    
+    Section 162C: inserted, on 31 March 2014, by [section 8][358] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
+
+##### 162D Enforcement of orders made under section 162C
+    
+*   (1) The amount that a party is ordered to reimburse under [section 162C][236] is a debt due to the Crown by that party and may be enforced in a District Court or the High Court, as the case may require, in the same manner as a judgment of that court.
+    
+    (2) Despite [section 113][362] or [123][363] of the District Courts Act 1947 or [section 100A][364] of the Judicature Act 1908, no court fee is payable by a person who seeks to enforce, on behalf of the Crown, an order referred to in subsection (1), but the fee that would otherwise be payable---
+        
+    *   (a) is to be added to the amount sought to be enforced; and
+    
+    *   (b) must be paid to the Registrar of the court out of any proceeds that result from the enforcement.
+    
+    (3) For the purposes of [section 14(1)(b)][365] of the Crown Proceedings Act 1950, the Secretary for Justice may, on behalf of the Crown, enforce a debt under this section.
+    
+    Section 162D: inserted, on 31 March 2014, by [section 8][358] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
 
 ##### 163 Vexatious proceedings
     
@@ -4189,9 +3975,9 @@ Procedure
 
 ##### 164 Evidence
     
-*   In any proceedings under this Act (other than criminal proceedings or proceedings under [section 130][171]), and whether by way of hearing in the first instance or by way of appeal, or otherwise, the court may receive any evidence that it thinks fit, whether it is otherwise admissible in a court of law or not.
+*   \[Repealed\]
     
-    Compare: 1968 No 62 s 114
+    Section 164: repealed, on 31 March 2014, by [section 17A(g)][366] of the Family Courts Act 1980 (1980 No 161).
 
 ##### 165 Power of District Court or Family Court to call witnesses
     
@@ -4201,19 +3987,25 @@ Procedure
     
     (3) A witness called by the court under this section shall have the same privilege to refuse to answer any question as the witness would have if the witness had been called by a party to the proceedings.
     
-    (4) A witness called by the court under this section may be examined and re-examined by the court, or by any barrister or solicitor assisting the court, and may be cross-examined by or on behalf of any party to the proceedings or by any barrister or solicitor appointed to represent a child who is involved in the proceedings.
+    (4) A witness called by the court under this section may be---
+        
+    *   (a) examined and re-examined by the court, or by a lawyer appointed to assist the court; and
     
-    (5) [Sections 159][308] and [161 to 165][363] of the Criminal Procedure Act 2011, so far as they are applicable and with the necessary modifications, shall apply with respect to every person called as a witness by the court under this section as if that person had been called by a party to the proceedings.
+    *   (b) cross-examined by or on behalf of any party to the proceedings.
+    
+    (5) [Sections 159][367] and [161 to 165][368] of the Criminal Procedure Act 2011, so far as they are applicable and with the necessary modifications, shall apply with respect to every person called as a witness by the court under this section as if that person had been called by a party to the proceedings.
     
     (6) The expenses of any witness called by the court under this section, in accordance with the prescribed scale of witnesses' expenses, shall be paid in the first instance out of public money appropriated by Parliament.
     
     Compare: 1968 No 62 s 9
     
-    Section 165(2): amended, on 26 April 2005, by [section 44(2)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 165(2): amended, on 26 April 2005, by [section 44(2)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 165(5): amended, on 1 July 2013, by [section 413][309] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 165(4): replaced, on 31 March 2014, by [section 9][369] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
     
-    Section 165(6): amended, on 1 July 1989, by [section 86(1)][364] of the Public Finance Act 1989 (1989 No 44).
+    Section 165(5): amended, on 1 July 2013, by [section 413][312] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 165(6): amended, on 1 July 1989, by [section 86(1)][370] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 166 Proof of certain matters
     
@@ -4229,7 +4021,7 @@ Procedure
     
     Compare: 1968 No 62 s 116
     
-    Section 166(1): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 166(1): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
     Section 166(3): repealed, on 1 July 1992, by section 24 of the Family Proceedings Amendment Act 1991 (1991 No 144).
 
@@ -4249,13 +4041,13 @@ Procedure
 
 ##### 169 Publication of reports of proceedings
     
-*   [Sections 11B to 11D][365] of the Family Courts Act 1980 apply to the publication of a report of any proceedings under this Act (other than criminal proceedings under [section 130][171])---
+*   [Sections 11B to 11D][371] of the Family Courts Act 1980 apply to the publication of a report of any proceedings under this Act (other than criminal proceedings under [section 130][171])---
         
     *   (a) in a Family Court:
     
     *   (b) in any other court, in which case references in those sections to the Family Court or court must be read as references to that other court.
     
-    Section 169: replaced, on 18 May 2009, by [section 25][366] of the Family Proceedings Amendment Act 2008 (2008 No 79).
+    Section 169: replaced, on 18 May 2009, by [section 25][372] of the Family Proceedings Amendment Act 2008 (2008 No 79).
 
 ##### 170 Orders by consent
     
@@ -4269,7 +4061,11 @@ Procedure
     
     (2) An order made by a District Court or Family Court under subsection (1) shall be enforceable in the same manner as money ordered to be paid by a maintenance order under this Act, and all the provisions of this Act as to recovery of such money shall apply.
     
+    (3) This section is subject to [section 162B][235].
+    
     Compare: 1963 No 71 s 74; 1968 No 62 s 121
+    
+    Section 171(3): inserted, on 31 March 2014, by [section 10][373] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
 
 ##### 172 Dismissal of application in District Court or Family Court no bar to further proceedings
     
@@ -4292,7 +4088,7 @@ Appeals
 
 ##### 174 Appeals from decisions of District Courts and Family Courts
     
-*   (1AA) This subsection applies to a decision of a Family Court or District Court, in proceedings under this Act (other than criminal proceedings or proceedings under [section 130][171]), to---
+*   (1AA) This subsection applies to a decision of a Family Court or District Court, in proceedings under this Act, to---
         
     *   (a) make or refuse to make an order; or
     
@@ -4300,11 +4096,23 @@ Appeals
     
     *   (c) otherwise finally determine the proceedings.
     
-    (1) A party to proceedings in which there is made a decision to which subsection (1A) applies, or any other person prejudicially affected by the decision, may appeal to the High Court against the decision.
+    (1) A party to proceedings in which there is made a decision to which subsection (1AA) applies, or any other person prejudicially affected by the decision, may appeal to the High Court against the decision.
     
-    (1A) The [High Court Rules][367] and [sections 74 to 78][368] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under [section 72][369] of that Act.
+    (1A) However, no appeal may be made to the High Court under subsection (1) in relation to---
+        
+    *   (a) criminal proceedings; or
     
-    (2) On the _ex parte_ application of the appellant, the District Court may order that the appellant must not be required under [section 74(1)][368] of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
+    *   (b) a decision under---
+            
+        *   (i) [section 162][233] to appoint a lawyer to represent a child; or
+        
+        *   (ii) [section 162A][234] to appoint, or to direct the Registrar of the court to appoint, a lawyer to assist the court.
+        
+        
+    
+    (1B) The [High Court Rules][374] and [sections 74 to 78][375] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under [section 72][376] of that Act.
+    
+    (2) On the _ex parte_ application of the appellant, the District Court may order that the appellant must not be required under [section 74(1)][375] of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
     
     (2A) Subsection (2) overrides subsection (1A).
     
@@ -4328,37 +4136,43 @@ Appeals
     
     Compare: 1963 No 71 s 73; 1968 No 62 s 124
     
-    Section 174(1AA): inserted, on 24 November 2003, by [section 4][370] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 174(1AA): inserted, on 24 November 2003, by [section 4][377] of the District Courts Amendment Act 2002 (2002 No 63).
     
-    Section 174(1): replaced, on 24 November 2003, by [section 4][370] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 174(1AA): amended, on 31 March 2014, by [section 11(1)][378] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
     
-    Section 174(1A): inserted, on 24 November 2003, by [section 4][370] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 174(1): replaced, on 24 November 2003, by [section 4][377] of the District Courts Amendment Act 2002 (2002 No 63).
     
-    Section 174(2): replaced, on 24 November 2003, by [section 4][370] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 174(1): amended, on 31 March 2014, by [section 11(2)][378] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
     
-    Section 174(2A): inserted, on 24 November 2003, by [section 4][370] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 174(1A): replaced, on 31 March 2014, by [section 11(3)][378] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
     
-    Section 174(3): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 174(1B): inserted, on 31 March 2014, by [section 11(3)][378] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
+    
+    Section 174(2): replaced, on 24 November 2003, by [section 4][377] of the District Courts Amendment Act 2002 (2002 No 63).
+    
+    Section 174(2A): inserted, on 24 November 2003, by [section 4][377] of the District Courts Amendment Act 2002 (2002 No 63).
+    
+    Section 174(3): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
     Section 174(3): amended, on 1 July 1994, by section 14 of the Family Proceedings Amendment Act 1994 (1994 No 32).
     
-    Section 174(3A): inserted, on 24 November 2003, by [section 4][370] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 174(3A): inserted, on 24 November 2003, by [section 4][377] of the District Courts Amendment Act 2002 (2002 No 63).
     
-    Section 174(4): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 174(4): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 174(4A): inserted, on 24 November 2003, by [section 4][370] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 174(4A): inserted, on 24 November 2003, by [section 4][377] of the District Courts Amendment Act 2002 (2002 No 63).
     
-    Section 174(5): amended, on 1 January 2004, by [section 47][371] of the Supreme Court Act 2003 (2003 No 53).
+    Section 174(5): amended, on 1 January 2004, by [section 47][379] of the Supreme Court Act 2003 (2003 No 53).
     
-    Section 174(7): repealed, on 1 January 2004, by [section 47][371] of the Supreme Court Act 2003 (2003 No 53).
+    Section 174(7): repealed, on 1 January 2004, by [section 47][379] of the Supreme Court Act 2003 (2003 No 53).
     
-    Section 174(8): repealed, on 1 January 2004, by [section 47][371] of the Supreme Court Act 2003 (2003 No 53).
+    Section 174(8): repealed, on 1 January 2004, by [section 47][379] of the Supreme Court Act 2003 (2003 No 53).
 
 ##### 175 Appeals from decisions of High Court
     
-*   (1) Subject to subsections (2) to (5), a party to any proceedings under this Act before the High Court (other than proceedings on an appeal under [section 174][246]) may appeal to the Court of Appeal, against any order or decision of the court or of a Judge of the court, within 28 days after the making of the order or decision.
+*   (1) Subject to subsections (2) to (5), a party to any proceedings under this Act before the High Court (other than proceedings on an appeal under [section 174][250]) may appeal to the Court of Appeal, against any order or decision of the court or of a Judge of the court, within 28 days after the making of the order or decision.
     
-    (2) Where an order dissolving a marriage or civil union is made in the High Court under [section 34][48] or [section 39(4)][54] in any proceedings that have been transferred to that court under [section 14][372] of the Family Courts Act 1980, [section 42][57] of this Act shall apply in respect of that order and shall have effect as if, for the words "High Court", there were substituted the words "Court of Appeal".
+    (2) Where an order dissolving a marriage or civil union is made in the High Court under [section 34][48] or [section 39(4)][54] in any proceedings that have been transferred to that court under [section 14][380] of the Family Courts Act 1980, [section 42][57] of this Act shall apply in respect of that order and shall have effect as if, for the words "High Court", there were substituted the words "Court of Appeal".
     
     (3) Notwithstanding subsection (1), where an order dissolving a marriage or civil union is made by the High Court in undefended proceedings, no appeal shall lie to the Court of Appeal against the order.
     
@@ -4370,15 +4184,15 @@ Appeals
     
     Compare: 1963 No 71 s 73
     
-    Section 175(2): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 175(2): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 175(3): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 175(3): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
     Section 175(3): amended, on 1 October 1981, by section 3(1) of the Family Proceedings Amendment Act 1981 (1981 No 64).
     
-    Section 175(4): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 175(4): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 175(6): repealed, on 1 January 2004, by [section 47][371] of the Supreme Court Act 2003 (2003 No 53).
+    Section 175(6): repealed, on 1 January 2004, by [section 47][379] of the Supreme Court Act 2003 (2003 No 53).
 
 ## Part 11  
 Miscellaneous provisions
@@ -4421,11 +4235,11 @@ Miscellaneous provisions
     
     (6) Nothing in this section shall restrict the power of the court to make, in respect of any order to which this section applies, an order under [section 99][130] after the death of the person liable under the first-mentioned order.
     
-    Compare: 1963 No 71 s 76; 1968 No 62 s 92; 1976 No 166 [s 56][359]
+    Compare: 1963 No 71 s 76; 1968 No 62 s 92; 1976 No 166 [s 56][354]
 
 ##### 181 Incidence of maintenance due by estate of deceased party
     
-*   (1) The incidence of the payments under any order to which [section 180(3)][253] applies shall fall upon the assets of the estate of the deceased as follows:
+*   (1) The incidence of the payments under any order to which [section 180(3)][257] applies shall fall upon the assets of the estate of the deceased as follows:
         
     *   (a) where the will of the deceased contains directions relating specifically to the incidence of those payments, the incidence of the payments shall fall upon the assets of the estate in accordance with the directions of the will:
     
@@ -4433,9 +4247,9 @@ Miscellaneous provisions
     
     provided that the incidence of any such payments in respect of which security has been ordered to be given under this Act shall fall primarily on the assets of the estate over which security has been ordered to be given.
     
-    (2) Notwithstanding anything in subsection (1) or in the will of the deceased, but subject to [section 180(3) to (6)][253], the court may at any time---
+    (2) Notwithstanding anything in subsection (1) or in the will of the deceased, but subject to [section 180(3) to (6)][257], the court may at any time---
         
-    *   (a) fix or vary as between the assets of the estate of the deceased, in such manner as it thinks fit, the incidence of the payments under an order to which [section 180(3)][253] applies:
+    *   (a) fix or vary as between the assets of the estate of the deceased, in such manner as it thinks fit, the incidence of the payments under an order to which [section 180(3)][257] applies:
     
     *   (b) exonerate any part of the estate, in whole or in part, from the incidence of the payments under any such order:
     
@@ -4445,7 +4259,7 @@ Miscellaneous provisions
     
     (4) An order under subsection (2) or subsection (3), or any provision of any such order, may be made on and subject to such terms and conditions as the court thinks fit.
     
-    (5) An application for an order under subsection (2) or subsection (3) may be made by the personal representative of the deceased or by any person who is interested in the distribution of the estate or by the person who is entitled to the benefit of the order to which [section 180(3)][253] applies.
+    (5) An application for an order under subsection (2) or subsection (3) may be made by the personal representative of the deceased or by any person who is interested in the distribution of the estate or by the person who is entitled to the benefit of the order to which [section 180(3)][257] applies.
     
     (6) Before making any such order, the court shall hear such of the persons who may be affected by the order as it thinks necessary, and may for that purpose direct any personal representative to represent, or appoint any person to represent, any such person.
     
@@ -4465,27 +4279,27 @@ Miscellaneous provisions
     
     (5) An order made under this section may from time to time be reviewed by the court on the application of either party to the marriage or civil union or of either party's personal representative.
     
-    (6) Notwithstanding subsections (1) to (5), the court shall not exercise its powers under this section so as to defeat or vary any agreement, entered into under [Part 6][373] of the Property (Relationships) Act 1976, between the parties to the marriage or civil union unless it is of the opinion that the interests of any child of the marriage or civil union so require.
+    (6) Notwithstanding subsections (1) to (5), the court shall not exercise its powers under this section so as to defeat or vary any agreement, entered into under [Part 6][381] of the Property (Relationships) Act 1976, between the parties to the marriage or civil union unless it is of the opinion that the interests of any child of the marriage or civil union so require.
     
-    Compare: 1963 No 71 s 79; 1968 No 60 s 11; 1976 No 166 [s 56][359]
+    Compare: 1963 No 71 s 79; 1968 No 60 s 11; 1976 No 166 [s 56][354]
     
-    Section 182(1): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 182(1): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
     Section 182(1): amended, on 23 November 1982, by section 2(1) of the Family Proceedings Amendment Act 1982 (1982 No 70).
     
     Section 182(2): amended, on 23 November 1982, by section 2(2) of the Family Proceedings Amendment Act 1982 (1982 No 70).
     
-    Section 182(4): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 182(4): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 182(5): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 182(5): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 182(6): amended, on 26 April 2005, by [section 44(1)][283] of the Civil Union Act 2004 (2004 No 102).
+    Section 182(6): amended, on 26 April 2005, by [section 44(1)][291] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 182(6): amended, on 1 February 2002, by [section 16][374] of the Family Proceedings Amendment Act 2001 (2001 No 7).
+    Section 182(6): amended, on 1 February 2002, by [section 16][382] of the Family Proceedings Amendment Act 2001 (2001 No 7).
 
 ##### 183 Dispositions may be restrained
     
-*   (1) Where it appears to the court that a disposition of any property is about to be made, whether for value or not, by or on behalf of or by direction of or in the interests of a party to any proceedings under this Act in order to defeat the claim or rights of any person under [Part 6][80] or under the [Child Support Act 1991][319] or in respect of costs, the court may, on the application of that person and on such notice being given as the court may direct, by order restrain the making of the disposition or may order any proceeds of the disposition to be paid into court to be dealt with as the court directs.
+*   (1) Where it appears to the court that a disposition of any property is about to be made, whether for value or not, by or on behalf of or by direction of or in the interests of a party to any proceedings under this Act in order to defeat the claim or rights of any person under [Part 6][80] or under the [Child Support Act 1991][309] or in respect of costs, the court may, on the application of that person and on such notice being given as the court may direct, by order restrain the making of the disposition or may order any proceeds of the disposition to be paid into court to be dealt with as the court directs.
     
     (2) A disposition made after an order of the court under subsection (1) restraining the making of the disposition has been served on or come to the notice of the person disposing of the property, or any auctioneer, agent, or solicitor acting in connection with the disposition, shall be void; and the court may consider any claim of any person interested and may make such order as it thinks just.
     
@@ -4495,7 +4309,7 @@ Miscellaneous provisions
 
 ##### 184 Dispositions may be set aside
     
-*   (1) Where the court is satisfied that any disposition of any property has been made, whether for value or not, by or on behalf of or by direction of or in the interests of a party to proceedings under this Act in order to defeat the claim or rights of any person under [Part 6][80] or under the [Child Support Act 1991][319] or in respect of costs, the court may, on the application of that person, make an order under subsection (2).
+*   (1) Where the court is satisfied that any disposition of any property has been made, whether for value or not, by or on behalf of or by direction of or in the interests of a party to proceedings under this Act in order to defeat the claim or rights of any person under [Part 6][80] or under the [Child Support Act 1991][309] or in respect of costs, the court may, on the application of that person, make an order under subsection (2).
     
     (2) In any case to which subsection (1) applies, the court may, subject to the provisions of subsection (4),---
         
@@ -4511,7 +4325,7 @@ Miscellaneous provisions
     
     (5) The court may, on any application under this section, make such order as to costs as it thinks fit.
     
-    Compare: 1963 No 71 s 81; 1976 No 166 [s 56][359]
+    Compare: 1963 No 71 s 81; 1976 No 166 [s 56][354]
     
     Section 184(1): amended, on 1 July 1992, by section 26 of the Family Proceedings Amendment Act 1991 (1991 No 144).
 
@@ -4535,29 +4349,29 @@ Miscellaneous provisions
     
     Compare: 1963 No 71 s 85
     
-    Section 185(4): amended, on 1 March 2002, by [section 170(1)][335] of the Public Trust Act 2001 (2001 No 100).
+    Section 185(4): amended, on 1 March 2002, by [section 170(1)][328] of the Public Trust Act 2001 (2001 No 100).
 
 ##### 186 Court fees
     
 *   \[Repealed\]
     
-    Section 186: repealed, on 18 May 2009, by [section 26][375] of the Family Proceedings Amendment Act 2008 (2008 No 79).
+    Section 186: repealed, on 18 May 2009, by [section 26][383] of the Family Proceedings Amendment Act 2008 (2008 No 79).
 
 ##### 187 Regulations
     
 *   The Governor-General may from time to time, by Order in Council, make regulations---
         
-    *   (a) prescribing expenses to be paid to any person summoned under [section 17][25], and prescribing by whom those expenses shall be paid:
+    *   (a) \[Repealed\]
     
     *   (b) prescribing the matters in respect of which fees are payable under this Act:
     
     *   (c) prescribing fees and expenses for the purposes of this Act:
     
-    *   (ca) making provision for the determination of the amount of fees and expenses, including minimum and maximum amounts, payable in respect of counselling services carried out pursuant to [section 9][14] or [section 10][15] or [section 19][27], which fees and expenses may differ according to the number of sessions of counselling determined to be carried out pursuant to [section 12A][18] and according to whether or not counselling services are to be provided in a specified number of proceedings during a specified period:
+    *   (ca) \[Repealed\]
     
-    *   (cb) making provision for the determination of the amount of fees and expenses, including minimum and maximum amounts, payable in respect of professional services provided by barristers and solicitors appointed under [section 162][233], which fees and expenses may differ according to the complexity of the proceedings and the time spent, and according to whether or not professional services are to be provided in a specified number of proceedings during a specified period:
+    *   (cb) \[Repealed\]
     
-    *   (cc) making provision for the determination of the number of sessions of counselling that may be carried out pursuant to [section 9][14] or [section 10][15] or [section 19][27]:
+    *   (cc) \[Repealed\]
     
     *   (d) prescribing parentage tests to be carried out for the purposes of [sections 54 to 57][74]:
     
@@ -4569,13 +4383,15 @@ Miscellaneous provisions
     
     Compare: 1968 No 62 ss 16(5), 50(8), 131
     
+    Section 187(a): repealed, on 31 March 2014, by [section 12][384] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
+    
     Section 187(c): replaced, on 1 July 1992, by section 27 of the Family Proceedings Amendment Act 1991 (1991 No 144).
     
-    Section 187(ca): inserted, on 1 July 1994, by section 15 of the Family Proceedings Amendment Act 1994 (1994 No 32).
+    Section 187(ca): repealed, on 31 March 2014, by [section 12][384] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
     
-    Section 187(cb): inserted, on 1 July 1994, by section 15 of the Family Proceedings Amendment Act 1994 (1994 No 32).
+    Section 187(cb): repealed, on 31 March 2014, by [section 12][384] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
     
-    Section 187(cc): inserted, on 1 July 1994, by section 15 of the Family Proceedings Amendment Act 1994 (1994 No 32).
+    Section 187(cc): repealed, on 31 March 2014, by [section 12][384] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
     
     Section 187(d): amended, on 1 July 2005, by [section 150][286] of the Care of Children Act 2004 (2004 No 90).
     
@@ -4587,9 +4403,9 @@ Miscellaneous provisions
     
 *   (1) Subject to [Part 9][225], the Governor-General may from time to time, by Order in Council, make rules regulating the practice and procedure of District Courts in proceedings under this Act.
     
-    (1A) Subject to [Part 9][225], rules may be made under [section 16A][376] of the Family Courts Act 1980 regulating the practice and procedure of Family Courts in proceedings under this Act.
+    (1A) Subject to [Part 9][225], rules may be made under [section 16A][385] of the Family Courts Act 1980 regulating the practice and procedure of Family Courts in proceedings under this Act.
     
-    (2) Without limiting the generality of the powers conferred by subsection (1) or [section 16A][376] of the Family Courts Act 1980, rules made under either of those provisions may:
+    (2) Without limiting the generality of the powers conferred by subsection (1) or [section 16A][385] of the Family Courts Act 1980, rules made under either of those provisions may:
         
     *   (a) prescribe such forms as are necessary for the purposes of this Act:
     
@@ -4613,17 +4429,17 @@ Miscellaneous provisions
     
     Compare: 1963 No 71 s 87; 1968 No 62 s 110
     
-    Section 188(1): amended, on 13 September 2002, by [section 6][360] of the Family Courts Amendment Act 2000 (2000 No 65).
+    Section 188(1): amended, on 13 September 2002, by [section 6][356] of the Family Courts Amendment Act 2000 (2000 No 65).
     
-    Section 189(1A): inserted, on 13 September 2002, by [section 6][360] of the Family Courts Amendment Act 2000 (2000 No 65).
+    Section 189(1A): inserted, on 13 September 2002, by [section 6][356] of the Family Courts Amendment Act 2000 (2000 No 65).
     
-    Section 189(2): amended, on 13 September 2002, by [section 6][360] of the Family Courts Amendment Act 2000 (2000 No 65).
+    Section 189(2): amended, on 13 September 2002, by [section 6][356] of the Family Courts Amendment Act 2000 (2000 No 65).
 
 ##### 189 Amendments to other enactments, and repeals
     
-*   (1) The enactments specified in [Schedule 1][266] are hereby amended in the manner indicated in that schedule.
+*   (1) The enactments specified in [Schedule 1][272] are hereby amended in the manner indicated in that schedule.
     
-    (2) Subject to [sections 191][264] and [192][265], unless the context otherwise requires, in any other enactment, or in any regulation, rule, order, agreement, deed, instrument, application or other document in force at the commencement of this Act---
+    (2) Subject to [sections 191][268] and [192][269], unless the context otherwise requires, in any other enactment, or in any regulation, rule, order, agreement, deed, instrument, application or other document in force at the commencement of this Act---
         
     *   (a) every reference to the Matrimonial Proceedings Act 1963 or the Domestic Proceedings Act 1968 shall hereafter be read as a reference to this Act:
     
@@ -4633,7 +4449,7 @@ Miscellaneous provisions
     
     *   (d) every reference to a decree absolute made under any former Act shall hereafter be read as a reference to an order dissolving a marriage that has taken effect as a final order.
     
-    (3) The enactments specified in [Schedule 2][267] are hereby repealed.
+    (3) The enactments specified in [Schedule 2][273] are hereby repealed.
     
     (4) In this section, _former Act_ means the Matrimonial Proceedings Act 1963 or any other enactment governing matrimonial causes in New Zealand before the commencement of that Act.
     
@@ -4647,13 +4463,13 @@ Miscellaneous provisions
 
 ##### 191 Savings
     
-*   (1) Notwithstanding [section 118(6)][157], or the repeal of section 101(5) of the Domestic Proceedings Act 1968 by [section 189(3)][262], the provisions of section 246(2) of the Mining Act 1971 shall continue in force according to their tenor.
+*   (1) Notwithstanding [section 118(6)][157], or the repeal of section 101(5) of the Domestic Proceedings Act 1968 by [section 189(3)][266], the provisions of section 246(2) of the Mining Act 1971 shall continue in force according to their tenor.
     
-    (2) The repeal of any enactment by [section 189(3)][262] shall not affect any amendments made by the enactment repealed to any other enactment.
+    (2) The repeal of any enactment by [section 189(3)][266] shall not affect any amendments made by the enactment repealed to any other enactment.
     
-    (3) Notwithstanding [section 189(3)][262], every decree of separation that was in force under the Matrimonial Proceedings Act 1963 immediately before the commencement of that section shall continue in force according to its tenor and sections 11, 12, 14, 15, and 26(1) of the Matrimonial Proceedings Act 1963 shall continue to apply to it as if this Act had not been passed.
+    (3) Notwithstanding [section 189(3)][266], every decree of separation that was in force under the Matrimonial Proceedings Act 1963 immediately before the commencement of that section shall continue in force according to its tenor and sections 11, 12, 14, 15, and 26(1) of the Matrimonial Proceedings Act 1963 shall continue to apply to it as if this Act had not been passed.
     
-    (4) The repeal of the Domestic Proceedings Amendment Act 1971 by [section 189(3)][262] shall not affect the saving effected by section 25 of that Act and every application under subsection (2) of that section may be made and shall proceed as if---
+    (4) The repeal of the Domestic Proceedings Amendment Act 1971 by [section 189(3)][266] shall not affect the saving effected by section 25 of that Act and every application under subsection (2) of that section may be made and shall proceed as if---
         
     *   (a) section 25 of that Act were still in force; and
     
@@ -4665,13 +4481,13 @@ Miscellaneous provisions
 
 ##### 192 Transitional provisions
     
-*   (1) Notwithstanding [section 189(3)][262],---
+*   (1) Notwithstanding [section 189(3)][266],---
         
-    *   (a) all criminal proceedings that have been commenced under the Matrimonial Proceedings Act 1963 or the Domestic Proceedings Act 1968 and are pending at the commencement of [section 189][262] shall, subject to subsection (2) of this section, be heard and determined as if those provisions had not been repealed; and
+    *   (a) all criminal proceedings that have been commenced under the Matrimonial Proceedings Act 1963 or the Domestic Proceedings Act 1968 and are pending at the commencement of [section 189][266] shall, subject to subsection (2) of this section, be heard and determined as if those provisions had not been repealed; and
     
-    *   (b) all proceedings that have been commenced under Part 2 or Part 4 of the Matrimonial Proceedings Act 1963 and are pending at the commencement of [section 189][262] shall be heard and determined and shall have the same effect at law as if the Matrimonial Proceedings Act 1963 had not been repealed; and
+    *   (b) all proceedings that have been commenced under Part 2 or Part 4 of the Matrimonial Proceedings Act 1963 and are pending at the commencement of [section 189][266] shall be heard and determined and shall have the same effect at law as if the Matrimonial Proceedings Act 1963 had not been repealed; and
     
-    *   (c) all other proceedings that have been commenced under any other provision of the Matrimonial Proceedings Act 1963 or the Domestic Proceedings Act 1968, and are pending at the commencement of [section 189][262] shall, notwithstanding [section 18(2)][377] of the Family Courts Act 1980, but subject to subsection (3) of this section, be heard and determined---
+    *   (c) all other proceedings that have been commenced under any other provision of the Matrimonial Proceedings Act 1963 or the Domestic Proceedings Act 1968, and are pending at the commencement of [section 189][266] shall, notwithstanding [section 18(2)][386] of the Family Courts Act 1980, but subject to subsection (3) of this section, be heard and determined---
             
         *   (i) if the hearing of those proceedings has not commenced, under this Act; and
         
@@ -4679,9 +4495,9 @@ Miscellaneous provisions
         
         
     
-    (2) On the commencement of [section 189(3)][262], every prosecution that is then pending under section 107(1) of the Domestic Proceedings Act 1968 shall be deemed to have been stayed.
+    (2) On the commencement of [section 189(3)][266], every prosecution that is then pending under section 107(1) of the Domestic Proceedings Act 1968 shall be deemed to have been stayed.
     
-    (3) On the commencement of [section 189(3)][262], all proceedings that are then pending under Part 3 of the Matrimonial Proceedings Act 1963 (other than section 17 of that Act) shall lapse, except that in any such case the court may make such order as to costs and witnesses' expenses as it thinks fit.
+    (3) On the commencement of [section 189(3)][266], all proceedings that are then pending under Part 3 of the Matrimonial Proceedings Act 1963 (other than section 17 of that Act) shall lapse, except that in any such case the court may make such order as to costs and witnesses' expenses as it thinks fit.
     
     (4) Subject to subsections (1) to (3), this Act shall apply to every order---
         
@@ -4699,12 +4515,40 @@ Miscellaneous provisions
     
     Section 192(1)(c): amended, on 1 October 1981, by section 3(2) of the Family Proceedings Amendment Act 1981 (1981 No 64).
 
+##### 193 Transitional provision for counselling or mediation arranged before commencement of Family Proceedings Amendment Act (No 2) 2013
+    
+*   If any counselling or mediation has been arranged under [Part 2][10] before the date of commencement of the [Family Proceedings Amendment Act (No 2) 2013][387], but that counselling or mediation has not been commenced or completed by that date,---
+        
+    *   (a) the counselling or mediation may be commenced or completed on or after the date of commencement of the [Family Proceedings Amendment Act (No 2) 2013][387] as if the Family Proceedings Amendment Act (No 2) 2013 had not come into force; but
+    
+    *   (b) the counselling or mediation may not be commenced or continued 4 months after the date of commencement of the [Family Proceedings Amendment Act (No 2) 2013][387].
+    
+    Section 193: inserted, on 31 March 2014, by [section 13][388] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
+
+##### 194 Transitional provision for proceedings commenced before commencement of Family Proceedings Amendment Act (No 2) 2013
+    
+*   (1) This section applies to proceedings under this Act that were commenced before the date of commencement of the [Family Proceedings Amendment Act (No 2) 2013][387] but were not by that date completed (a **pending proceeding**).
+    
+    (2) The following provisions do not apply to a pending proceeding:
+        
+    *   (a) [section 162A][234]:
+    
+    *   (b) [section 162B][235]:
+    
+    *   (c) [section 162C][236]:
+    
+    *   (d) [section 162D][237].
+    
+    (3) [Section 162][233], as in force immediately before the date of commencement of the [Family Proceedings Amendment Act (No 2) 2013][387], continues to apply to a pending proceeding with any necessary modifications as if the Family Proceedings Amendment Act (No 2) 2013 had not come into force.
+    
+    Section 194: inserted, on 31 March 2014, by [section 13][388] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
+
 ---
 
 ## Schedule 1  
 Enactments amended
 
-[s 189(1)][262]
+[s 189(1)][266]
 
 ##### Accident Compensation Act 1972 (1972 No 43) (Reprinted 1975, Vol 2, p 1409)
 
@@ -4712,7 +4556,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Administration Act 1969 (1969 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][378]._
+_Amendment(s) incorporated in the [Act(s)][389]._
 
 ##### Coal Mines Act 1979 (1979 No 21)
 
@@ -4720,19 +4564,19 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Crimes Act 1961 (1961 No 43) (Reprinted RS Vol 1, p 635)
 
-_Amendment(s) incorporated in the [Act(s)][379]._
+_Amendment(s) incorporated in the [Act(s)][390]._
 
 ##### Department of Social Welfare Act 1971 (1971 No 60)
 
-_Amendment(s) incorporated in the [Act(s)][380]._
+_Amendment(s) incorporated in the [Act(s)][391]._
 
 ##### Evidence Amendment Act 1945 (1945 No 16) (Reprinted RS Vol 2, p 369
 
-_Amendment(s) incorporated in the [Act(s)][381]._
+_Amendment(s) incorporated in the [Act(s)][392]._
 
 ##### Insolvency Act 1967 (1967 No 54)
 
-_Amendment(s) incorporated in the [Act(s)][382]._
+_Amendment(s) incorporated in the [Act(s)][393]._
 
 ##### Legal Aid Act 1969 (1969 No 47) (Reprinted 1975, Vol 3, p 2111)
 
@@ -4748,18 +4592,18 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Social Security Act 1964 (1964 No 136) (Reprinted 1975, Vol 4, p 2951)
 
-_Amendment(s) incorporated in the [Act(s)][333]._
+_Amendment(s) incorporated in the [Act(s)][326]._
 
 ##### Summary Proceedings Act 1957 (1957 No 87) (Reprinted 1975, Vol 4, p 3107)
 
-_Amendment(s) incorporated in the [Act(s)][383]._
+_Amendment(s) incorporated in the [Act(s)][394]._
 
 ---
 
 ## Schedule 2  
 Enactments repealed
 
-[s 189(3)][262]
+[s 189(3)][266]
 
 ##### Domestic Proceedings Act 1968 (1968 No 62)
 
@@ -4773,7 +4617,7 @@ Enactments repealed
 
 ##### Domestic Proceedings Amendment Act 1975 (1975 No 70)
 
-##### Domestic Proceedings Amendment Act 1976 (1976 No 87) 
+##### Domestic Proceedings Amendment Act 1976 (1976 No 87)
 
 ##### Matrimonial Proceedings Act 1963 (1963 No 71)
 
@@ -4782,6 +4626,12 @@ Enactments repealed
 ##### Matrimonial Proceedings Amendment Act 1968 (1968 No 60)
 
 ##### Matrimonial Proceedings Amendment Act 1970 (1970 No 86)
+
+##### Family Proceedings Amendment Act 2008 (2008 No 79)
+
+##### Family Proceedings Amendment Act 2013 (2013 No 47)
+
+Schedule 2: amended, on 31 March 2014, by [section 14][395] of the Family Proceedings Amendment Act (No 2) 2013 (2013 No 80).
 
 ---
 
@@ -4820,9 +4670,9 @@ Transitional and savings provisions
     
     (2) In this section, **maintenance order** has the same meaning as it had in section 2 of the Family Proceedings Act 1980 immediately before the amendment of that definition by the Family Proceedings Amendment Act 1991\.
     
-    Section 259(1)(a): amended, on 17 September 1997, by [section 3(a)][384] of the Child Support Amendment Act (No 2) 1997 (1997 No 67).
+    Section 259(1)(a): amended, on 17 September 1997, by [section 3(a)][396] of the Child Support Amendment Act (No 2) 1997 (1997 No 67).
     
-    Section 259(1)(b): amended, on 17 September 1997, by [section 3(b)][384] of the Child Support Amendment Act (No 2) 1997 (1997 No 67).
+    Section 259(1)(b): amended, on 17 September 1997, by [section 3(b)][396] of the Child Support Amendment Act (No 2) 1997 (1997 No 67).
 
 #### 
 
@@ -4836,79 +4686,73 @@ Transitional and savings provisions
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][385] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][386] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][397] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][398] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][387] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][388] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][399] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][400] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20): [section 9][288]
+*   [Family Proceedings Amendment Act (No 2) 2013][387] (2013 No 80)
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][309]
+    Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20): [section 9][288]
     
-    [Family Proceedings Amendment Act 2008][389] (2008 No 79)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][312]
     
-    Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][353]
+    [Family Proceedings Amendment Act 2008][401] (2008 No 79)
     
-    Civil Union Act 2004 (2004 No 102): [sections 44][283], [45][390]
+    Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][346]
     
-    Status of Children Amendment Act 2004 (2004 No 91): [section 17][391]
+    Civil Union Act 2004 (2004 No 102): [sections 44][291], [45][402]
+    
+    Status of Children Amendment Act 2004 (2004 No 91): [section 17][403]
     
     Care of Children Act 2004 (2004 No 90): [sections 149--151][287]
     
-    Supreme Court Act 2003 (2003 No 53): [section 47][371]
+    Supreme Court Act 2003 (2003 No 53): [section 47][379]
     
-    State Sector Amendment Act 2003 (2003 No 41): [section 14(1)][284]
+    State Sector Amendment Act 2003 (2003 No 41): [section 14(1)][295]
     
-    District Courts Amendment Act 2002 (2002 No 63): [section 4][370]
+    District Courts Amendment Act 2002 (2002 No 63): [section 4][377]
     
-    Public Trust Act 2001 (2001 No 100): [section 170(1)][335]
+    Public Trust Act 2001 (2001 No 100): [section 170(1)][328]
     
-    Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49): [section 337(1)][290]
+    [Family Proceedings Amendment Act 2001][404] (2001 No 7)
     
-    [Family Proceedings Amendment Act 2001][392] (2001 No 7)
+    [Family Proceedings Amendment Act 2000][405] (2000 No 66)
     
-    [Family Proceedings Amendment Act 2000][393] (2000 No 66)
+    Family Courts Amendment Act 2000 (2000 No 65): [section 6][356]
     
-    Family Courts Amendment Act 2000 (2000 No 65): [section 6][360]
-    
-    Department of Child, Youth and Family Services Act 1999 (1999 No 82): [section 13][295]
+    Department of Child, Youth and Family Services Act 1999 (1999 No 82): [section 13][297]
     
     Child Support Amendment Act 1999 (1999 No 81): [section 37][289]
     
-    Accident Insurance Act 1998 (1998 No 114): section 415(1)
+    Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96): [section 11][327]
     
-    Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96): [section 11][334]
+    District Courts Amendment Act 1998 (1998 No 76): [section 7][335]
     
-    District Courts Amendment Act 1998 (1998 No 76): [section 7][342]
+    [Family Proceedings Amendment Act 1997][406] (1997 No 66)
     
-    [Family Proceedings Amendment Act 1998][394] (1998 No 44)
-    
-    [Family Proceedings Amendment Act 1997][395] (1997 No 66)
-    
-    Family Proceedings Amendment Act 1995 (1995 No 90)
-    
-    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(1)][285]
+    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(1)][294]
     
     Family Proceedings Amendment Act 1994 (1994 No 32)
     
-    Foreign Affairs Amendment Act 1993 (1993 No 48): [section 9(4)][351]
+    Foreign Affairs Amendment Act 1993 (1993 No 48): [section 9(4)][344]
     
-    Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46): [section 137(1)][337]
+    Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46): [section 137(1)][330]
     
     Family Proceedings Amendment Act 1991 (1991 No 144)
     
-    Social Welfare (Transitional Provisions) Act 1990 (1990 No 26): [section 36(3)][294]
+    Social Welfare (Transitional Provisions) Act 1990 (1990 No 26): [section 36(3)][296]
     
-    Public Finance Act 1989 (1989 No 44): [section 86(1)][364]
+    Public Finance Act 1989 (1989 No 44): [section 86(1)][370]
     
-    Protection of Personal and Property Rights Act 1988 (1988 No 4): [section 113][356]
+    Protection of Personal and Property Rights Act 1988 (1988 No 4): [section 113][349]
     
     Family Proceedings Amendment Act 1986 (1986 No 88)
     
-    [Family Proceedings Act (United Nations Convention) Commencement Order 1986][268] (SR 1986/9) 
+    [Family Proceedings Act (United Nations Convention) Commencement Order 1986][274] (SR 1986/9)
     
     Family Proceedings Amendment Act (No 2) 1985 (1985 No 85)
     
@@ -4920,7 +4764,9 @@ Transitional and savings provisions
     
     Family Proceedings Amendment Act 1981 (1981 No 64)
     
-    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][354]
+    Family Courts Act 1980 (1980 No 161): [section 17A(g)][366]
+    
+    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][347]
 
 
 
@@ -5158,165 +5004,176 @@ Transitional and savings provisions
 [231]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41833
 [232]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41839
 [233]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41840
-[234]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41846
-[235]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41847
-[236]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41848
-[237]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41851
-[238]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41854
-[239]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41855
-[240]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41856
-[241]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41860
-[242]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41861
-[243]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41862
-[244]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41863
-[245]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41864
-[246]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41865
-[247]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41878
-[248]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41882
-[249]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41883
-[250]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41885
-[251]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41887
-[252]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41889
-[253]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41891
-[254]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41892
-[255]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41893
-[256]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41898
-[257]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM42200
-[258]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM42202
-[259]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM42204
-[260]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM42205
-[261]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM42209
-[262]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM42213
-[263]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM42215
-[264]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM42217
-[265]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM42218
-[266]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM42220
-[267]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM42223
-[268]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM103982
-[269]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM42273
-[270]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM42253
-[271]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM361221
-[272]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM361260
-[273]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM362536
-[274]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM362550
-[275]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM99493
-[276]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM441012
-[277]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM42268
-[278]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM42269
-[279]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM129718
-[280]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM147087
-[281]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM341079
-[282]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM341082
-[283]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM323481
-[284]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM201378
-[285]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM367235
+[234]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM6029205
+[235]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM6029206
+[236]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM6029207
+[237]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM6029214
+[238]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41846
+[239]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41847
+[240]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41848
+[241]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41851
+[242]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41854
+[243]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41855
+[244]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41856
+[245]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41860
+[246]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41861
+[247]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41862
+[248]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41863
+[249]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41864
+[250]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41865
+[251]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41878
+[252]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41882
+[253]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41883
+[254]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41885
+[255]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41887
+[256]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41889
+[257]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41891
+[258]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41892
+[259]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41893
+[260]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM41898
+[261]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM42200
+[262]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM42202
+[263]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM42204
+[264]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM42205
+[265]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM42209
+[266]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM42213
+[267]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM42215
+[268]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM42217
+[269]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM42218
+[270]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM6031436
+[271]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM6031437
+[272]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM42220
+[273]: http://www.legislation.govt.nz/act/public/1980/0094/latest/whole.html#DLM42223
+[274]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM103982
+[275]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM361221
+[276]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM361260
+[277]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM362536
+[278]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM362550
+[279]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM42268
+[280]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM42269
+[281]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM129718
+[282]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM147087
+[283]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM341079
+[284]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM341082
+[285]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM5617008
 [286]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM317986
 [287]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM317984
 [288]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM5045103
 [289]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM31269
-[290]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM104117
-[291]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM88148
-[292]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM317988
-[293]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM253157
-[294]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM204518
-[295]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM31416
-[296]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM1302410
-[297]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM317232
-[298]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM1302412
-[299]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM372117
-[300]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM426498
-[301]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM1302431
-[302]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM317610
-[303]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM88153
-[304]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM1302433
-[305]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM440944
-[306]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM1302436
-[307]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM88155
-[308]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM3360276
-[309]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM3360714
-[310]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM291745
-[311]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM176501
-[312]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM292639
-[313]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM292093
-[314]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM323488
-[315]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM323419
-[316]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM292027
-[317]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM323391
-[318]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM361340
-[319]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM253150
-[320]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM319235
-[321]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM328793
-[322]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM88156
-[323]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM88157
-[324]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM88162
-[325]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM88171
-[326]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM392883
-[327]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM253518
-[328]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM253517
-[329]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM88176
-[330]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM88177
-[331]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM88178
-[332]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM88179
-[333]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM359106
-[334]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM429013
-[335]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM124529
-[336]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM262181
-[337]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM264250
-[338]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM76861
-[339]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM257735
-[340]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM364857
-[341]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM411756
-[342]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM427920
-[343]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM76862
-[344]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM257306
-[345]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM76863
-[346]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM1302441
-[347]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM76864
-[348]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM1302442
-[349]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM1302443
-[350]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM76872
-[351]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM302528
-[352]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM359368
-[353]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM1048943
-[354]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM35085
-[355]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM126527
-[356]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM128103
-[357]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM88180
-[358]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM1302444
-[359]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM441948
-[360]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM76831
-[361]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM88181
-[362]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM426499
-[363]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM3360278
-[364]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM163175
-[365]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM2061203
-[366]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM1302445
-[367]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM147655
-[368]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM243909
-[369]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM243795
-[370]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM168713
-[371]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM214520
-[372]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM42291
-[373]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM441361
-[374]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM88182
-[375]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM1302447
-[376]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM42296
-[377]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM43502
-[378]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM392629
-[379]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM327381
-[380]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM404806
-[381]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM237874
-[382]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM382333
-[383]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM310742
-[384]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM411764
-[385]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM2998516
-[386]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM2998515
-[387]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM2998532
-[388]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[389]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM1302402
-[390]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM323482
-[391]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM319206
-[392]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM88145
-[393]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM76858
-[394]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM426496
-[395]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM411754
+[290]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM317988
+[291]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM323481
+[292]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM253157
+[293]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM88148
+[294]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM367235
+[295]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM201378
+[296]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM204518
+[297]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM31416
+[298]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM5617020
+[299]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM5617021
+[300]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM291745
+[301]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM176501
+[302]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM292639
+[303]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM292093
+[304]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM323488
+[305]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM323419
+[306]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM292027
+[307]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM323391
+[308]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM361340
+[309]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM253150
+[310]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM319235
+[311]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM328793
+[312]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM3360714
+[313]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM88156
+[314]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM441012
+[315]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM88157
+[316]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM88162
+[317]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM440944
+[318]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM88171
+[319]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM392883
+[320]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM253518
+[321]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM253517
+[322]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM88176
+[323]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM88177
+[324]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM88178
+[325]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM88179
+[326]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM359106
+[327]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM429013
+[328]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM124529
+[329]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM262181
+[330]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM264250
+[331]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM76861
+[332]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM257735
+[333]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM364857
+[334]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM411756
+[335]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM427920
+[336]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM76862
+[337]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM257306
+[338]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM76863
+[339]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM1302441
+[340]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM76864
+[341]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM1302442
+[342]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM1302443
+[343]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM76872
+[344]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM302528
+[345]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM359368
+[346]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM1048943
+[347]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM35085
+[348]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM126527
+[349]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM128103
+[350]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM317232
+[351]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM88180
+[352]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM1302444
+[353]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM42253
+[354]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM441948
+[355]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM5617022
+[356]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM76831
+[357]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM88181
+[358]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM5617023
+[359]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM6025512
+[360]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM317981
+[361]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM6028012
+[362]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM244437
+[363]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM244478
+[364]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM147641
+[365]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM261944
+[366]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM6025517
+[367]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM3360276
+[368]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM3360278
+[369]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM5617037
+[370]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM163175
+[371]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM2061203
+[372]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM1302445
+[373]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM5617038
+[374]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM147653
+[375]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM243909
+[376]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM243795
+[377]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM168713
+[378]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM5617039
+[379]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM214520
+[380]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM42291
+[381]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM441361
+[382]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM88182
+[383]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM1302447
+[384]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM5617040
+[385]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM42296
+[386]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM43502
+[387]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM5617003
+[388]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM5617041
+[389]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM392629
+[390]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM327381
+[391]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM404806
+[392]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM237874
+[393]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM382333
+[394]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM310742
+[395]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM5617045
+[396]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM411764
+[397]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM2998516
+[398]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM2998515
+[399]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM2998532
+[400]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[401]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM1302402
+[402]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM323482
+[403]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM319206
+[404]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM88145
+[405]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM76858
+[406]: http://www.legislation.govt.nz/act/public/1980/0094/latest/link.aspx?id=DLM411754
