@@ -1,5 +1,5 @@
 Reprint  
-as at 18 December 2013
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -37,7 +37,7 @@ This Act is administered by the Ministry of Consumer Affairs.
 
 [5][7][][7][Application of Act to Crown corporations][7]
 
-[5A][8][][8][No liability under Act if not liable under Securities Act 1978 or Securities Markets Act 1988][8]
+[5A][8][][8][No liability under Act if not liable under Securities Act 1978 or Securities Markets Act 1988][8] \[Repealed\]
 
 [5B][9][][9][Act does not apply to certain conduct regulated by Takeovers Code][9]
 
@@ -255,34 +255,42 @@ This Act is administered by the Ministry of Consumer Affairs.
 
 [48O][113][][113][Maintenance of privilege][113]
 
-[49][114][][114][Repeals and consequential amendments][114]
+[48P][114][][114][Proceedings relating to financial products or financial services][114]
 
-[50][115][][115][Saving of other laws][115]
+[48Q][115][][115][No pecuniary penalty and fine for same conduct involving financial products or financial services][115]
 
-[51][116][][116][Application of Act to goods that are, or may be, exported to China][116]
+[48R][116][][116][Unsubstantiated representations prohibition does not apply to financial markets disclosure][116]
 
-[Schedule 1][117]  
-[Enactment amended][117]
+[48S][117][][117][Certain conduct under Financial Markets Conduct Act 2013 does not contravene various provisions of this Act][117]
+
+[49][118][][118][Repeals and consequential amendments][118]
+
+[50][119][][119][Saving of other laws][119]
+
+[51][120][][120][Application of Act to goods that are, or may be, exported to China][120]
+
+[Schedule 1][121]  
+[Enactment amended][121]
 
 \[Repealed\]
 
-[Schedule 2][118]  
-[Enactments repealed][118]
+[Schedule 2][122]  
+[Enactments repealed][122]
 
-[Schedule 3][119]  
-[Orders and notices revoked][119]
+[Schedule 3][123]  
+[Orders and notices revoked][123]
 
 ---
 
 Title \[Repealed\]
     
-*   Title: repealed, on 18 December 2013, by [section 4][120] of the Fair Trading Amendment Act 2013 (2013 No 143).
+*   Title: repealed, on 18 December 2013, by [section 4][124] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 ##### 1 Short Title and commencement
     
 *   (1) This Act may be cited as the Fair Trading Act 1986\.
     
-    (2) Except as provided in [section 49(3)][114], this Act shall come into force on 1 March 1987\.
+    (2) Except as provided in [section 49(3)][118], this Act shall come into force on 1 March 1987\.
 
 ##### 1A Purpose
     
@@ -304,7 +312,7 @@ Title \[Repealed\]
     
     *   (d) promotes safety in respect of goods and services.
     
-    Section 1A: inserted, on 18 December 2013, by [section 5][121] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 1A: inserted, on 18 December 2013, by [section 5][125] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 ##### 2 Interpretation
     
@@ -334,7 +342,7 @@ Title \[Repealed\]
     
     _chief executive_ means the chief executive of the Ministry
     
-    _Commission_ means the Commerce Commission established by [section 8][122] of the Commerce Act 1986
+    _Commission_ means the Commerce Commission established by [section 8][126] of the Commerce Act 1986
     
     _consumer_ means a person who---
         
@@ -398,9 +406,9 @@ Title \[Repealed\]
     
     _official standard_ means---
         
-    *   (a) a New Zealand Standard within the meaning of [section 2][123] of the Standards Act 1988; or
+    *   (a) a New Zealand Standard within the meaning of [section 2][127] of the Standards Act 1988; or
     
-    *   (b) a standard specification prescribed by a body, organisation, or association having or performing similar functions to those of the Standards Council within the meaning of [section 2][123] of the Standards Act 1988
+    *   (b) a standard specification prescribed by a body, organisation, or association having or performing similar functions to those of the Standards Council within the meaning of [section 2][127] of the Standards Act 1988
     
     _person_ includes a local authority, and any association of persons whether incorporated or not
     
@@ -464,41 +472,41 @@ Title \[Repealed\]
         
         
     
-    Section 2(1) **chief executive**: inserted, on 18 December 2013, by [section 6(2)][124] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 2(1) **chief executive**: inserted, on 18 December 2013, by [section 6(2)][128] of the Fair Trading Amendment Act 2013 (2013 No 143).
     
-    Section 2(1) **Commission**: amended, on 25 January 2005, by [section 200][125] of the Crown Entities Act 2004 (2004 No 115).
+    Section 2(1) **Commission**: amended, on 25 January 2005, by [section 200][129] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 2(1) **consumer**: inserted, on 18 December 2013, by [section 6(2)][124] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 2(1) **consumer**: inserted, on 18 December 2013, by [section 6(2)][128] of the Fair Trading Amendment Act 2013 (2013 No 143).
     
-    Section 2(1) **court**: repealed, on 18 December 2013, by [section 6(1)][124] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 2(1) **court**: repealed, on 18 December 2013, by [section 6(1)][128] of the Fair Trading Amendment Act 2013 (2013 No 143).
     
-    Section 2(1) **extended warranty agreement**: inserted, on 18 December 2013, by [section 6(2)][124] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 2(1) **extended warranty agreement**: inserted, on 18 December 2013, by [section 6(2)][128] of the Fair Trading Amendment Act 2013 (2013 No 143).
     
-    Section 2(1) **goods**: substituted, on 8 July 2003, by [section 3(1)][126] of the Fair Trading Amendment Act (No 2) 2003 (2003 No 34).
+    Section 2(1) **goods**: substituted, on 8 July 2003, by [section 3(1)][130] of the Fair Trading Amendment Act (No 2) 2003 (2003 No 34).
     
-    Section 2(1) **infringement fee**, **infringement notice**, and **infringement offence**: inserted, on 18 December 2013, by [section 6(2)][124] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 2(1) **infringement fee**, **infringement notice**, and **infringement offence**: inserted, on 18 December 2013, by [section 6(2)][128] of the Fair Trading Amendment Act 2013 (2013 No 143).
     
-    Section 2(1) **layby sale agreement**: inserted, on 18 December 2013, by [section 6(2)][124] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 2(1) **layby sale agreement**: inserted, on 18 December 2013, by [section 6(2)][128] of the Fair Trading Amendment Act 2013 (2013 No 143).
     
-    Section 2(1) **Ministry**: inserted, on 18 December 2013, by [section 6(2)][124] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 2(1) **Ministry**: inserted, on 18 December 2013, by [section 6(2)][128] of the Fair Trading Amendment Act 2013 (2013 No 143).
     
-    Section 2(1) **negotiation**: inserted, on 18 December 2013, by [section 6(2)][124] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 2(1) **negotiation**: inserted, on 18 December 2013, by [section 6(2)][128] of the Fair Trading Amendment Act 2013 (2013 No 143).
     
-    Section 2(1) **officer of the Commission**: repealed, on 25 January 2005, by [section 200][125] of the Crown Entities Act 2004 (2004 No 115).
+    Section 2(1) **officer of the Commission**: repealed, on 25 January 2005, by [section 200][129] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 2(1) **official standard**: inserted, on 28 July 1997, by [section 2][127] of the Fair Trading Amendment Act 1997 (1997 No 43).
+    Section 2(1) **official standard**: inserted, on 28 July 1997, by [section 2][131] of the Fair Trading Amendment Act 1997 (1997 No 43).
     
     Section 2(1) **place**: inserted, on 1 July 1990, by section 2 of the Fair Trading Amendment Act 1990 (1990 No 42).
     
-    Section 2(1) **services** paragraph (a)(iv): added, on 8 July 2003, by [section 3(2)][126] of the Fair Trading Amendment Act (No 2) 2003 (2003 No 34).
+    Section 2(1) **services** paragraph (a)(iv): added, on 8 July 2003, by [section 3(2)][130] of the Fair Trading Amendment Act (No 2) 2003 (2003 No 34).
 
 ##### 3 Application of Act to conduct outside New Zealand
     
 *   (1) This Act extends to the engaging in conduct outside New Zealand by any person resident or carrying on business in New Zealand to the extent that such conduct relates to the supply of goods or services, or the granting of interests in land, within New Zealand.
     
-    (2) _See_ [section 51][116] for the application of this Act in relation to an international trade instrument.
+    (2) _See_ [section 51][120] for the application of this Act in relation to an international trade instrument.
     
-    Section 3(2): added, on 1 October 2008, by [section 5][128] of the Fair Trading Amendment Act 2008 (2008 No 52).
+    Section 3(2): added, on 1 October 2008, by [section 5][132] of the Fair Trading Amendment Act 2008 (2008 No 52).
 
 ##### 4 Application of Act to the Crown
     
@@ -508,7 +516,7 @@ Title \[Repealed\]
     
     Compare: 1975 No 113 s 20B; 1979 No 140 s 12; Trade Practices Act 1974 s 2A (Aust)
     
-    Section 4(2): amended, on 18 December 2013, by [section 7][129] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 4(2): amended, on 18 December 2013, by [section 7][133] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 ##### 5 Application of Act to Crown corporations
     
@@ -520,19 +528,15 @@ Title \[Repealed\]
 
 ##### 5A No liability under Act if not liable under Securities Act 1978 or Securities Markets Act 1988
     
-*   A court hearing a proceeding brought against a person under this Act must not find that person liable for conduct---
-        
-    *   (a) that is regulated by the [Securities Act 1978][130] if that person would not be liable for that conduct under that Act:
+*   \[Repealed\]
     
-    *   (b) that is regulated by the [Securities Markets Act 1988][131] if that person would not be liable for that conduct under that Act.
-    
-    Section 5A: inserted, on 29 February 2008, by [section 4][132] of the Fair Trading Amendment Act 2006 (2006 No 49).
+    Section 5A: repealed, on 1 April 2014, by [section 7][134] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
 
 ##### 5B Act does not apply to certain conduct regulated by Takeovers Code
     
-*   Nothing in this Act applies to conduct in relation to any transaction or event regulated by the [Takeovers Code][133] that is in force under the [Takeovers Act 1993][134] or incidental or preliminary to a transaction or event that is or is likely to be regulated by that code.
+*   Nothing in this Act applies to conduct in relation to any transaction or event regulated by the [Takeovers Code][135] that is in force under the [Takeovers Act 1993][136] or incidental or preliminary to a transaction or event that is or is likely to be regulated by that code.
     
-    Section 5B: inserted, on 29 February 2008, by [section 4][132] of the Fair Trading Amendment Act 2006 (2006 No 49).
+    Section 5B: inserted, on 29 February 2008, by [section 4][137] of the Fair Trading Amendment Act 2006 (2006 No 49).
 
 ##### 6 Functions of Commission in relation to dissemination of information
     
@@ -556,18 +560,18 @@ Title \[Repealed\]
     
 *   \[Repealed\]
     
-    Section 7: repealed, on 25 January 2005, by [section 200][125] of the Crown Entities Act 2004 (2004 No 115).
+    Section 7: repealed, on 25 January 2005, by [section 200][129] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 8 Annual report
     
 *   \[Repealed\]
     
-    Section 8: repealed, on 25 January 2005, by [section 200][125] of the Crown Entities Act 2004 (2004 No 115).
+    Section 8: repealed, on 25 January 2005, by [section 200][129] of the Crown Entities Act 2004 (2004 No 115).
 
 ## Part 1  
 Unfair conduct
     
-*   Part 1 heading: replaced, on 18 December 2013, by [section 9][135] of the Fair Trading Amendment Act 2013 (2013 No 143).
+*   Part 1 heading: replaced, on 18 December 2013, by [section 9][138] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 #### Misleading and deceptive conduct
 
@@ -623,19 +627,19 @@ Unfair conduct
     
     Compare: Trade Practices Act 1974 s 53 (Aust)
     
-    Section 13 heading: amended, on 15 November 2000, by [section 3(b)][136] of the Fair Trading Amendment Act 2000 (2000 No 64).
+    Section 13 heading: amended, on 15 November 2000, by [section 3(b)][139] of the Fair Trading Amendment Act 2000 (2000 No 64).
     
-    Section 13(a): amended, on 15 November 2000, by [section 3(a)][136] of the Fair Trading Amendment Act 2000 (2000 No 64).
+    Section 13(a): amended, on 15 November 2000, by [section 3(a)][139] of the Fair Trading Amendment Act 2000 (2000 No 64).
     
-    Section 13(b): amended, on 15 November 2000, by [section 3(a)][136] of the Fair Trading Amendment Act 2000 (2000 No 64).
+    Section 13(b): amended, on 15 November 2000, by [section 3(a)][139] of the Fair Trading Amendment Act 2000 (2000 No 64).
     
-    Section 13(c): amended, on 15 November 2000, by [section 3(a)][136] of the Fair Trading Amendment Act 2000 (2000 No 64).
+    Section 13(c): amended, on 15 November 2000, by [section 3(a)][139] of the Fair Trading Amendment Act 2000 (2000 No 64).
     
-    Section 13(d): amended, on 15 November 2000, by [section 3(a)][136] of the Fair Trading Amendment Act 2000 (2000 No 64).
+    Section 13(d): amended, on 15 November 2000, by [section 3(a)][139] of the Fair Trading Amendment Act 2000 (2000 No 64).
     
-    Section 13(e): amended, on 15 November 2000, by [section 3(a)][136] of the Fair Trading Amendment Act 2000 (2000 No 64).
+    Section 13(e): amended, on 15 November 2000, by [section 3(a)][139] of the Fair Trading Amendment Act 2000 (2000 No 64).
     
-    Section 13(f): amended, on 15 November 2000, by [section 3(a)][136] of the Fair Trading Amendment Act 2000 (2000 No 64).
+    Section 13(f): amended, on 15 November 2000, by [section 3(a)][139] of the Fair Trading Amendment Act 2000 (2000 No 64).
 
 ##### 14 False representations and other misleading conduct in relation to land
     
@@ -655,7 +659,7 @@ Unfair conduct
     
     Compare: Trade Practices Act 1974 s 53A (Aust)
     
-    Section 14(1)(a): amended, on 8 July 2003, by [section 3][137] of the Fair Trading Amendment Act 2003 (2003 No 31).
+    Section 14(1)(a): amended, on 8 July 2003, by [section 3][140] of the Fair Trading Amendment Act 2003 (2003 No 31).
 
 ##### 14A When vendor bids are misrepresentations
     
@@ -677,7 +681,7 @@ Unfair conduct
     
     (5) In this section, _vendor bid_ means a bid made by the vendor or any person (including an auctioneer) acting as agent for the vendor.
     
-    Section 14A: inserted, on 18 December 2013, by [section 12][138] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 14A: inserted, on 18 December 2013, by [section 12][141] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 ##### 15 Limited application of sections 9 to 14 to news media
     
@@ -709,19 +713,19 @@ Unfair conduct
         
     *   (a) the expressions _broadcasting_ and _broadcasting body_ shall have the same meanings as they have in section 2 of the Broadcasting Act 1976:
     
-    *   (b) _newspaper_ has the meaning given to that term by [section 2][139] of the Films, Videos, and Publications Classification Act 1993:
+    *   (b) _newspaper_ has the meaning given to that term by [section 2][142] of the Films, Videos, and Publications Classification Act 1993:
     
     *   (ba) _publisher_, in relation to a newspaper, means its proprietor:
     
-    *   (c) any 2 or more bodies corporate are to be treated as interconnected if one of them is a body corporate of which the other is a subsidiary (within the meaning of [section 5][140] of the Companies Act 1993), or if both of them are subsidiaries (within the meaning of that section) of one and the same body corporate; and _interconnected body corporate_ shall be construed accordingly.
+    *   (c) any 2 or more bodies corporate are to be treated as interconnected if one of them is a body corporate of which the other is a subsidiary (within the meaning of [section 5][143] of the Companies Act 1993), or if both of them are subsidiaries (within the meaning of that section) of one and the same body corporate; and _interconnected body corporate_ shall be construed accordingly.
     
-    Section 15(3)(b): substituted, on 27 April 1995, by [section 4(3)][141] of the Newspapers and Printers Act Repeal Act 1995 (1995 No 13).
+    Section 15(3)(b): substituted, on 27 April 1995, by [section 4(3)][144] of the Newspapers and Printers Act Repeal Act 1995 (1995 No 13).
     
-    Section 15(3)(ba): inserted, on 27 April 1995, by [section 4(3)][141] of the Newspapers and Printers Act Repeal Act 1995 (1995 No 13).
+    Section 15(3)(ba): inserted, on 27 April 1995, by [section 4(3)][144] of the Newspapers and Printers Act Repeal Act 1995 (1995 No 13).
     
-    Section 15(3)(c): substituted, on 1 July 1994, by [section 2][142] of the Company Law Reform (Transitional Provisions) 1994 (1994 No 16).
+    Section 15(3)(c): substituted, on 1 July 1994, by [section 2][145] of the Company Law Reform (Transitional Provisions) 1994 (1994 No 16).
     
-    Section 15(3)(c): amended, on 5 December 2013, by [section 14][143] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 15(3)(c): amended, on 5 December 2013, by [section 14][146] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 16 Certain conduct in relation to trade marks prohibited
     
@@ -747,7 +751,7 @@ Unfair conduct
     
     *   (b) any combination of signs
     
-    _trade mark_ means a trade mark within the meaning of the [Trade Marks Act 2002][144]; and includes,---
+    _trade mark_ means a trade mark within the meaning of the [Trade Marks Act 2002][147]; and includes,---
         
     *   (a) in the case of goods, any sign used upon or in connection with the goods for the purpose of indicating that they are---
             
@@ -769,11 +773,11 @@ Unfair conduct
     
     Section 16(1): substituted, on 1 May 1988, by section 33(1) of the Trade Marks Amendment Act 1987 (1987 No 156).
     
-    Section 16(1)(b): amended, on 1 January 1995, by [section 2][145] of the Fair Trading Amendment Act 1994 (1994 No 124).
+    Section 16(1)(b): amended, on 1 January 1995, by [section 2][148] of the Fair Trading Amendment Act 1994 (1994 No 124).
     
-    Section 16(1)(c): amended, on 1 January 1995, by [section 2][145] of the Fair Trading Amendment Act 1994 (1994 No 124).
+    Section 16(1)(c): amended, on 1 January 1995, by [section 2][148] of the Fair Trading Amendment Act 1994 (1994 No 124).
     
-    Section 16(2)(a): amended, on 1 January 1995, by [section 2][145] of the Fair Trading Amendment Act 1994 (1994 No 124).
+    Section 16(2)(a): amended, on 1 January 1995, by [section 2][148] of the Fair Trading Amendment Act 1994 (1994 No 124).
     
     Section 16(3) **certification trade mark**: repealed, on 1 April 2000, by section 8(1) of the Trade Marks Amendment Act 1999 (1999 No 121).
     
@@ -781,7 +785,7 @@ Unfair conduct
     
     Section 16(3) **trade mark**: substituted, on 1 April 2000, by section 8(1) of the Trade Marks Amendment Act 1999 (1999 No 121).
     
-    Section 16(3) **trade mark**: amended, on 20 August 2003, by [section 201][146] of the Trade Marks Act 2002 (2002 No 49).
+    Section 16(3) **trade mark**: amended, on 20 August 2003, by [section 201][149] of the Trade Marks Act 2002 (2002 No 49).
 
 #### Unfair practices
 
@@ -801,7 +805,7 @@ Unfair conduct
     
 *   \[Repealed\]
     
-    Section 18: repealed, on 8 July 2003, by [section 4][147] of the Fair Trading Amendment Act 2003 (2003 No 31).
+    Section 18: repealed, on 8 July 2003, by [section 4][150] of the Fair Trading Amendment Act 2003 (2003 No 31).
 
 ##### 19 Bait advertising
     
@@ -895,7 +899,7 @@ Unfair conduct
     
     Compare: 1975 No 113 s 48A; 1979 No 140 s 22(1)
     
-    Section 24(2)(a)(ii): substituted, on 8 July 2003, by [section 5][148] of the Fair Trading Amendment Act 2003 (2003 No 31).
+    Section 24(2)(a)(ii): substituted, on 8 July 2003, by [section 5][151] of the Fair Trading Amendment Act 2003 (2003 No 31).
 
 ##### 25 Provisions of this Part not limited by reference to other provisions of this Part
     
@@ -905,7 +909,7 @@ Unfair conduct
     
 *   (1) This section applies to any goods to which a false trade description is applied.
     
-    (2) All goods to which this section applies are hereby prohibited to be imported into New Zealand, and shall be deemed to be included among goods prohibited to be imported under [section 54][149] of the Customs and Excise Act 1996 and the provisions of that Act shall apply to such goods accordingly.
+    (2) All goods to which this section applies are hereby prohibited to be imported into New Zealand, and shall be deemed to be included among goods prohibited to be imported under [section 54][152] of the Customs and Excise Act 1996 and the provisions of that Act shall apply to such goods accordingly.
     
     (3) In this section, _false trade description_ means any representation which if made in connection with the supply or possible supply of goods or with the promotion by any means of the supply or use of goods would constitute a contravention of [section 13(a), (d), or (j)][20].
     
@@ -917,14 +921,14 @@ Unfair conduct
     
     (5) For the purposes of this section, a trade mark is not a representation.
     
-    Section 26: substituted, on 1 January 1995, by [section 3(1)][150] of the Fair Trading Amendment Act 1994 (1994 No 124).
+    Section 26: substituted, on 1 January 1995, by [section 3(1)][153] of the Fair Trading Amendment Act 1994 (1994 No 124).
     
-    Section 26(2): amended, on 1 October 1996, by [section 289(1)][151] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 26(2): amended, on 1 October 1996, by [section 289(1)][154] of the Customs and Excise Act 1996 (1996 No 27).
 
 ## Part 2  
 Consumer information
     
-*   Part 2: substituted, on 28 July 1997, by [section 3][152] of the Fair Trading Amendment Act 1997 (1997 No 43).
+*   Part 2: substituted, on 28 July 1997, by [section 3][155] of the Fair Trading Amendment Act 1997 (1997 No 43).
 
 ##### 27 Consumer information standards
     
@@ -964,13 +968,13 @@ Consumer information
     
     (4) A failure to comply with subsection (3) does not affect the validity of any Order in Council made under this section.
     
-    (5) No Order in Council may be made under this section in respect of any medicine or related product, within the meaning of the [Medicines Act 1981][153], except in relation to the price of the medicine or related product.
+    (5) No Order in Council may be made under this section in respect of any medicine or related product, within the meaning of the [Medicines Act 1981][156], except in relation to the price of the medicine or related product.
     
-    Section 27: substituted, on 28 July 1997, by [section 3][152] of the Fair Trading Amendment Act 1997 (1997 No 43).
+    Section 27: substituted, on 28 July 1997, by [section 3][155] of the Fair Trading Amendment Act 1997 (1997 No 43).
     
-    Section 27(1): replaced, on 18 December 2013, by [section 15][154] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 27(1): replaced, on 18 December 2013, by [section 15][157] of the Fair Trading Amendment Act 2013 (2013 No 143).
     
-    Section 27(1A): inserted, on 18 December 2013, by [section 15][154] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 27(1A): inserted, on 18 December 2013, by [section 15][157] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 ##### 28 Compliance with consumer information standards
     
@@ -992,11 +996,11 @@ Consumer information
     
     *   (b) applied to a covering, label, reel, or thing in or with which the goods are supplied.
     
-    Section 28: substituted, on 28 July 1997, by [section 3][152] of the Fair Trading Amendment Act 1997 (1997 No 43).
+    Section 28: substituted, on 28 July 1997, by [section 3][155] of the Fair Trading Amendment Act 1997 (1997 No 43).
     
-    Section 28(1): amended, on 18 December 2013, by [section 16][155] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 28(1): amended, on 18 December 2013, by [section 16][158] of the Fair Trading Amendment Act 2013 (2013 No 143).
     
-    Section 28(2): amended, on 18 December 2013, by [section 16][155] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 28(2): amended, on 18 December 2013, by [section 16][158] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 ##### 28A Regulations relating to disclosure by fund-raisers making requests for charitable purposes
     
@@ -1036,7 +1040,7 @@ Consumer information
     
     (5) In this section,---
     
-    _charitable entity_ has the meaning given to it in [section 4(1)][156] of the Charities Act 2005
+    _charitable entity_ has the meaning given to it in [section 4(1)][159] of the Charities Act 2005
     
     _charitable organisation_---
         
@@ -1074,7 +1078,7 @@ Consumer information
     
     *   (c) requests, by suppliers of goods or services, for donations that are included as part of the price of goods or services.
     
-    Section 28A: inserted, on 30 June 2012, by [section 4][157] of the Fair Trading (Soliciting on Behalf of Charities) Amendment Act 2012 (2012 No 48).
+    Section 28A: inserted, on 30 June 2012, by [section 4][160] of the Fair Trading (Soliciting on Behalf of Charities) Amendment Act 2012 (2012 No 48).
 
 ## Part 3  
 Product safety
@@ -1107,7 +1111,7 @@ Product safety
     
     (4) A failure to comply with subsection (3) does not affect the validity of any Order in Council made under this section.
     
-    Section 29: substituted, on 28 July 1997, by [section 4][158] of the Fair Trading Amendment Act 1997 (1997 No 43).
+    Section 29: substituted, on 28 July 1997, by [section 4][161] of the Fair Trading Amendment Act 1997 (1997 No 43).
 
 ##### 30 Compliance with product safety standards
     
@@ -1129,7 +1133,7 @@ Product safety
     
     *   (b) applied to a covering, label, reel, or thing in or with which the goods are supplied.
     
-    Section 30: substituted, on 28 July 1997, by [section 4][158] of the Fair Trading Amendment Act 1997 (1997 No 43).
+    Section 30: substituted, on 28 July 1997, by [section 4][161] of the Fair Trading Amendment Act 1997 (1997 No 43).
 
 ##### 30A Product safety policy statements
     
@@ -1153,7 +1157,7 @@ Product safety
     
     *   (b) may make copies of statements available in any other way that the chief executive considers appropriate in the circumstances.
     
-    Section 30A: inserted, on 18 December 2013, by [section 18][159] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 30A: inserted, on 18 December 2013, by [section 18][162] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 ##### 30B Review of product safety policy statements
     
@@ -1179,7 +1183,7 @@ Product safety
     
     *   (c) ensure that the Minister's decision is available to the public, at all reasonable times, on an Internet site maintained by or on behalf of the Ministry.
     
-    Section 30B: inserted, on 18 December 2013, by [section 18][159] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 30B: inserted, on 18 December 2013, by [section 18][162] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 ##### 31 Unsafe goods
     
@@ -1227,15 +1231,15 @@ Product safety
     
     Compare: Trade Practices Act 1974 s 62(1)(b), (2D), (2E) (Aust)
     
-    Section 31(1A): inserted, on 18 December 2013, by [section 19(1)][160] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 31(1A): inserted, on 18 December 2013, by [section 19(1)][163] of the Fair Trading Amendment Act 2013 (2013 No 143).
     
-    Section 31(1B): inserted, on 18 December 2013, by [section 19(1)][160] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 31(1B): inserted, on 18 December 2013, by [section 19(1)][163] of the Fair Trading Amendment Act 2013 (2013 No 143).
     
-    Section 31(3)(a): amended, on 18 December 2013, by [section 19(2)][160] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 31(3)(a): amended, on 18 December 2013, by [section 19(2)][163] of the Fair Trading Amendment Act 2013 (2013 No 143).
     
-    Section 31(3A): inserted, on 18 December 2013, by [section 19(3)][160] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 31(3A): inserted, on 18 December 2013, by [section 19(3)][163] of the Fair Trading Amendment Act 2013 (2013 No 143).
     
-    Section 31(3B): inserted, on 18 December 2013, by [section 19(3)][160] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 31(3B): inserted, on 18 December 2013, by [section 19(3)][163] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 ##### 31A Voluntary product recall
     
@@ -1287,7 +1291,7 @@ Product safety
     
     (5) In subsection (1)(b), _government agency_ means a department or Crown entity.
     
-    Section 31A: inserted, on 18 December 2013, by [section 20][161] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 31A: inserted, on 18 December 2013, by [section 20][164] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 ##### 32 Compulsory product recall
     
@@ -1339,25 +1343,25 @@ Product safety
     
     *   (b) in any other case, supply goods of a kind to which the notice relates.
     
-    Section 32(1A): inserted, on 18 December 2013, by [section 21(1)][162] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 32(1A): inserted, on 18 December 2013, by [section 21(1)][165] of the Fair Trading Amendment Act 2013 (2013 No 143).
     
-    Section 32(1B): inserted, on 18 December 2013, by [section 21(1)][162] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 32(1B): inserted, on 18 December 2013, by [section 21(1)][165] of the Fair Trading Amendment Act 2013 (2013 No 143).
     
-    Section 32(3): amended, on 18 December 2013, by [section 21(2)][162] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 32(3): amended, on 18 December 2013, by [section 21(2)][165] of the Fair Trading Amendment Act 2013 (2013 No 143).
     
-    Section 32(4): amended, on 18 December 2013, by [section 21(3)][162] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 32(4): amended, on 18 December 2013, by [section 21(3)][165] of the Fair Trading Amendment Act 2013 (2013 No 143).
     
-    Section 32(5): amended, on 18 December 2013, by [section 21(4)][162] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 32(5): amended, on 18 December 2013, by [section 21(4)][165] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 ##### 33 Importation of certain goods prohibited
     
-*   All goods the supply of which would constitute a contravention of this Part are hereby prohibited to be imported into New Zealand and shall be deemed to be included among goods prohibited to be imported under [section 54][149] of the Customs and Excise Act 1996 and the provisions of that Act shall apply to such goods accordingly.
+*   All goods the supply of which would constitute a contravention of this Part are hereby prohibited to be imported into New Zealand and shall be deemed to be included among goods prohibited to be imported under [section 54][152] of the Customs and Excise Act 1996 and the provisions of that Act shall apply to such goods accordingly.
     
-    Section 33: amended, on 1 October 1996, by [section 289(1)][151] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 33: amended, on 1 October 1996, by [section 289(1)][154] of the Customs and Excise Act 1996 (1996 No 27).
 
 #### Product safety officers
     
-*   Heading: inserted, on 18 December 2013, by [section 22][163] of the Fair Trading Amendment Act 2013 (2013 No 143).
+*   Heading: inserted, on 18 December 2013, by [section 22][166] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 ##### 33A Appointment of product safety officers
     
@@ -1367,9 +1371,9 @@ Product safety
     
     (3) For the purposes of this Act, a trainee product safety officer acting under the supervision of a product safety officer is deemed to be a product safety officer.
     
-    Compare: 1987 No 15 [s 26][164]
+    Compare: 1987 No 15 [s 26][167]
     
-    Section 33A: inserted, on 18 December 2013, by [section 22][163] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 33A: inserted, on 18 December 2013, by [section 22][166] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 ##### 33B Certificates of appointment
     
@@ -1383,11 +1387,11 @@ Product safety
     
     *   (c) a reference to the powers of the appointee under [sections 33C][52] and [33D][53]; and
     
-    *   (d) a statement of the powers (if any) of the product safety officer under the [Search and Surveillance Act 2012][165].
+    *   (d) a statement of the powers (if any) of the product safety officer under the [Search and Surveillance Act 2012][168].
     
-    Compare: 1987 No 15 [s 27][166]
+    Compare: 1987 No 15 [s 27][169]
     
-    Section 33B: inserted, on 18 December 2013, by [section 22][163] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 33B: inserted, on 18 December 2013, by [section 22][166] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 ##### 33C Powers of product safety officers
     
@@ -1425,19 +1429,19 @@ Product safety
     
     (3) If a product safety officer enters a dwellinghouse with the permission of the occupier or under a warrant issued under subsection (4), the product safety officer may, for the purpose described in subsection (1)(b), exercise the powers listed in subsection (2).
     
-    (4) An issuing officer (within the meaning of [section 3][167] of the Search and Surveillance Act 2012) may issue a warrant authorising a product safety officer to enter a dwellinghouse if the issuing officer is satisfied, on application made in accordance with subsection (5), that there are reasonable grounds for believing that it is necessary for the product safety officer to enter the dwellinghouse for the purpose of ascertaining---
+    (4) An issuing officer (within the meaning of [section 3][170] of the Search and Surveillance Act 2012) may issue a warrant authorising a product safety officer to enter a dwellinghouse if the issuing officer is satisfied, on application made in accordance with subsection (5), that there are reasonable grounds for believing that it is necessary for the product safety officer to enter the dwellinghouse for the purpose of ascertaining---
         
     *   (a) whether there are any suspect goods at the dwellinghouse that are or may be available to consumers for supply, or are or may be being dispatched for supply to consumers; and
     
     *   (b) if there are, whether the goods are unsafe.
     
-    (5) The application for a warrant must be made in writing in the manner provided for an application for a search warrant in [subpart 3][168] of Part 4 of the Search and Surveillance Act 2012\.
+    (5) The application for a warrant must be made in writing in the manner provided for an application for a search warrant in [subpart 3][171] of Part 4 of the Search and Surveillance Act 2012\.
     
-    (6) [Part 4][169] of the Search and Surveillance Act 2012 (except [sections 118][170] and [119][171]) applies.
+    (6) [Part 4][172] of the Search and Surveillance Act 2012 (except [sections 118][173] and [119][174]) applies.
     
-    Compare: 1987 No 15 [s 28][172]
+    Compare: 1987 No 15 [s 28][175]
     
-    Section 33C: inserted, on 18 December 2013, by [section 22][163] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 33C: inserted, on 18 December 2013, by [section 22][166] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 ##### 33D Suspension of supply notices
     
@@ -1489,7 +1493,7 @@ Product safety
     
     *   (b) may not renew the notice so that the total prohibition exceeds 9 consecutive working days.
     
-    Section 33D: inserted, on 18 December 2013, by [section 22][163] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 33D: inserted, on 18 December 2013, by [section 22][166] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 ## Part 4  
 Safety of services
@@ -1530,7 +1534,7 @@ Safety of services
     
     (4) A failure to comply with subsection (3) does not affect the validity of any Order in Council made under this section.
     
-    Section 35: substituted, on 28 July 1997, by [section 5][173] of the Fair Trading Amendment Act 1997 (1997 No 43).
+    Section 35: substituted, on 28 July 1997, by [section 5][176] of the Fair Trading Amendment Act 1997 (1997 No 43).
 
 ##### 36 Compliance with services safety standards
     
@@ -1538,7 +1542,7 @@ Safety of services
     
     (2) If 2 or more services safety standards in respect of services are prescribed under [section 35(1)][56], a person must not supply, or offer to supply, or advertise to supply those services unless that person complies with one of those services safety standards.
     
-    Section 36: substituted, on 28 July 1997, by [section 5][173] of the Fair Trading Amendment Act 1997 (1997 No 43).
+    Section 36: substituted, on 28 July 1997, by [section 5][176] of the Fair Trading Amendment Act 1997 (1997 No 43).
 
 ## Part 5  
 Enforcement and remedies
@@ -1557,7 +1561,7 @@ Enforcement and remedies
     
     *   (c) applications for orders under [sections 42][68] and [43][69]:
     
-    *   (d) applications for orders under section 46B to enforce an undertaking involving a sum that, in total, exceeds $200,000 or, if greater, the amount specified in [section 29][174] of the District Courts Act 1947:
+    *   (d) applications for orders under section 46B to enforce an undertaking involving a sum that, in total, exceeds $200,000 or, if greater, the amount specified in [section 29][177] of the District Courts Act 1947:
     
     *   (e) appeals from any order of a District Court under section 46B:
     
@@ -1565,17 +1569,17 @@ Enforcement and remedies
     
     *   (g) applications by the Commission for a declaration under section 46I.
     
-    Section 37(a): amended, on 8 July 2003, by [section 6(1)][175] of the Fair Trading Amendment Act 2003 (2003 No 31).
+    Section 37(a): amended, on 8 July 2003, by [section 6(1)][178] of the Fair Trading Amendment Act 2003 (2003 No 31).
     
-    Section 37(ab): inserted, on 8 July 2003, by [section 6(2)][175] of the Fair Trading Amendment Act 2003 (2003 No 31).
+    Section 37(ab): inserted, on 8 July 2003, by [section 6(2)][178] of the Fair Trading Amendment Act 2003 (2003 No 31).
     
-    Section 37(d): inserted, on 18 December 2013, by [section 24][176] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 37(d): inserted, on 18 December 2013, by [section 24][179] of the Fair Trading Amendment Act 2013 (2013 No 143).
     
-    Section 37(e): inserted, on 18 December 2013, by [section 24][176] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 37(e): inserted, on 18 December 2013, by [section 24][179] of the Fair Trading Amendment Act 2013 (2013 No 143).
     
-    Section 37(f): inserted, on 18 December 2013, by [section 24][176] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 37(f): inserted, on 18 December 2013, by [section 24][179] of the Fair Trading Amendment Act 2013 (2013 No 143).
     
-    Section 37(g): inserted, on 18 December 2013, by [section 24][176] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 37(g): inserted, on 18 December 2013, by [section 24][179] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 ##### 38 Jurisdiction of District Courts
     
@@ -1585,7 +1589,7 @@ Enforcement and remedies
     
     *   (b) applications for orders under [sections 40A][65], [42][68], and [43][69]:
     
-    *   (c) applications for orders under section 46B to enforce an undertaking involving a sum that, in total, does not exceed $200,000 or, if greater, the amount specified in [section 29][174] of the District Courts Act 1947:
+    *   (c) applications for orders under section 46B to enforce an undertaking involving a sum that, in total, does not exceed $200,000 or, if greater, the amount specified in [section 29][177] of the District Courts Act 1947:
     
     *   (d) applications under sections 46C and 46G:
     
@@ -1593,29 +1597,29 @@ Enforcement and remedies
     
     (2) This section is subject to section 43B.
     
-    Section 38(1)(a): amended, on 8 July 2003, by [section 7(a)][177] of the Fair Trading Amendment Act 2003 (2003 No 31).
+    Section 38(1)(a): amended, on 8 July 2003, by [section 7(a)][180] of the Fair Trading Amendment Act 2003 (2003 No 31).
     
-    Section 38(1)(b): amended, on 8 July 2003, by [section 7(b)][177] of the Fair Trading Amendment Act 2003 (2003 No 31).
+    Section 38(1)(b): amended, on 8 July 2003, by [section 7(b)][180] of the Fair Trading Amendment Act 2003 (2003 No 31).
     
-    Section 38(1)(c): inserted, on 18 December 2013, by [section 25(1)][178] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 38(1)(c): inserted, on 18 December 2013, by [section 25(1)][181] of the Fair Trading Amendment Act 2013 (2013 No 143).
     
-    Section 38(1)(d): inserted, on 18 December 2013, by [section 25(1)][178] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 38(1)(d): inserted, on 18 December 2013, by [section 25(1)][181] of the Fair Trading Amendment Act 2013 (2013 No 143).
     
-    Section 38(1)(e): inserted, on 18 December 2013, by [section 25(1)][178] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 38(1)(e): inserted, on 18 December 2013, by [section 25(1)][181] of the Fair Trading Amendment Act 2013 (2013 No 143).
     
-    Section 38(2): inserted, on 18 December 2013, by [section 25(2)][178] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 38(2): inserted, on 18 December 2013, by [section 25(2)][181] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 ##### 39 Jurisdiction of Disputes Tribunals
     
-*   (1) In accordance with this Part, a Disputes Tribunal established under [section 4][179] of the Disputes Tribunals Act 1988 shall have jurisdiction to hear and determine applications for orders under [section 43][69].
+*   (1) In accordance with this Part, a Disputes Tribunal established under [section 4][182] of the Disputes Tribunals Act 1988 shall have jurisdiction to hear and determine applications for orders under [section 43][69].
     
     (2) This section is subject to section 43B.
     
-    Section 39: substituted, on 1 March 1989, by [section 82(2)][180] of the Disputes Tribunals Act 1988 (1988 No 110).
+    Section 39: substituted, on 1 March 1989, by [section 82(2)][183] of the Disputes Tribunals Act 1988 (1988 No 110).
     
-    Section 39(1): amended, on 18 December 2013, by [section 26(1)][181] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 39(1): amended, on 18 December 2013, by [section 26(1)][184] of the Fair Trading Amendment Act 2013 (2013 No 143).
     
-    Section 39(2): inserted, on 18 December 2013, by [section 26(2)][181] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 39(2): inserted, on 18 December 2013, by [section 26(2)][184] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 #### Offences
 
@@ -1635,19 +1639,19 @@ Enforcement and remedies
     
     Compare: Trade Practices Act 1974 s 79(3) (Aust)
     
-    Section 40(1): amended, on 1 July 2013, by [section 413][182] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 40(1): amended, on 1 July 2013, by [section 413][185] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 40(1): amended, on 8 July 2003, by [section 8(1)(a)][183] of the Fair Trading Amendment Act 2003 (2003 No 31).
+    Section 40(1): amended, on 8 July 2003, by [section 8(1)(a)][186] of the Fair Trading Amendment Act 2003 (2003 No 31).
     
-    Section 40(1)(a): amended, on 8 July 2003, by [section 8(1)(b)][183] of the Fair Trading Amendment Act 2003 (2003 No 31).
+    Section 40(1)(a): amended, on 8 July 2003, by [section 8(1)(b)][186] of the Fair Trading Amendment Act 2003 (2003 No 31).
     
-    Section 40(1)(b): amended, on 8 July 2003, by [section 8(1)(c)][183] of the Fair Trading Amendment Act 2003 (2003 No 31).
+    Section 40(1)(b): amended, on 8 July 2003, by [section 8(1)(c)][186] of the Fair Trading Amendment Act 2003 (2003 No 31).
     
-    Section 40(1A): inserted, on 8 July 2003, by [section 8(2)][183] of the Fair Trading Amendment Act 2003 (2003 No 31).
+    Section 40(1A): inserted, on 8 July 2003, by [section 8(2)][186] of the Fair Trading Amendment Act 2003 (2003 No 31).
     
-    Section 40(1A): amended, on 1 July 2013, by [section 413][182] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 40(1A): amended, on 1 July 2013, by [section 413][185] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 40(3): repealed, on 1 July 2013, by [section 413][182] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 40(3): repealed, on 1 July 2013, by [section 413][185] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 40A Additional penalty for contravention of section 24 involving commercial gain
     
@@ -1659,9 +1663,9 @@ Enforcement and remedies
     
     (4) \[Repealed\]
     
-    Section 40A: inserted, on 8 July 2003, by [section 9][184] of the Fair Trading Amendment Act 2003 (2003 No 31).
+    Section 40A: inserted, on 8 July 2003, by [section 9][187] of the Fair Trading Amendment Act 2003 (2003 No 31).
     
-    Section 40A(4): repealed, on 18 December 2013, by [section 28][185] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 40A(4): repealed, on 18 December 2013, by [section 28][188] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 #### Civil proceedings
 
@@ -1703,13 +1707,13 @@ Enforcement and remedies
     
     (6) However, in determining the Commission's application for the grant of an interim injunction, the court must not take into account that the Commission is not required to give an undertaking as to damages.
     
-    Compare: 1986 No 5 [s 88A][186]; Trade Practices Act 1974 s 80(1)--(5) (Aust)
+    Compare: 1986 No 5 [s 88A][189]; Trade Practices Act 1974 s 80(1)--(5) (Aust)
     
-    Section 41(5): added, on 8 July 2003, by [section 10][187] of the Fair Trading Amendment Act 2003 (2003 No 31).
+    Section 41(5): added, on 8 July 2003, by [section 10][190] of the Fair Trading Amendment Act 2003 (2003 No 31).
     
-    Section 41(6): added, on 8 July 2003, by [section 10][187] of the Fair Trading Amendment Act 2003 (2003 No 31).
+    Section 41(6): added, on 8 July 2003, by [section 10][190] of the Fair Trading Amendment Act 2003 (2003 No 31).
     
-    Section 41 compare note: amended, on 8 July 2003, by [section 10][187] of the Fair Trading Amendment Act 2003 (2003 No 31).
+    Section 41 compare note: amended, on 8 July 2003, by [section 10][190] of the Fair Trading Amendment Act 2003 (2003 No 31).
 
 ##### 42 Order to disclose information or publish advertisement
     
@@ -1725,9 +1729,9 @@ Enforcement and remedies
     
     Compare: Trade Practices Act 1974 s 80A(1) (Aust)
     
-    Section 42(2): added, on 8 July 2003, by [section 11][188] of the Fair Trading Amendment Act 2003 (2003 No 31).
+    Section 42(2): added, on 8 July 2003, by [section 11][191] of the Fair Trading Amendment Act 2003 (2003 No 31).
     
-    Section 42(3): repealed, on 18 December 2013, by [section 31][189] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 42(3): repealed, on 18 December 2013, by [section 31][192] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 ##### 43 Other orders
     
@@ -1789,29 +1793,29 @@ Enforcement and remedies
     
     (6) This section does not limit or affect---
         
-    *   (a) the [Illegal Contracts Act 1970][190]; or
+    *   (a) the [Illegal Contracts Act 1970][193]; or
     
-    *   (b) [section 317][191] of the Accident Compensation Act 2001\.
+    *   (b) [section 317][194] of the Accident Compensation Act 2001\.
     
-    Section 43: replaced, on 18 December 2013, by [section 32][192] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 43: replaced, on 18 December 2013, by [section 32][195] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 ##### 43A Application for order under section 43
     
 *   A person may apply to a court or a Disputes Tribunal for an order under [section 43][69] at any time within 3 years after the date on which the loss or damage, or the likelihood of loss or damage, was discovered or ought reasonably to have been discovered.
     
-    Section 43A: inserted, on 18 December 2013, by [section 32][192] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 43A: inserted, on 18 December 2013, by [section 32][195] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 ##### 43B Limits on jurisdiction of District Court and Disputes Tribunal to make orders under section 43
     
-*   (1) A District Court must not make an order under [section 43][69] if a value or amount described in subsection (3) exceeds $200,000 or, if greater, the amount specified in [section 29][174] of the District Courts Act 1947\.
+*   (1) A District Court must not make an order under [section 43][69] if a value or amount described in subsection (3) exceeds $200,000 or, if greater, the amount specified in [section 29][177] of the District Courts Act 1947\.
     
     (2) A Disputes Tribunal must not make an order under [section 43][69] if a value or amount described in subsection (3) exceeds whichever is the greatest of the following:
         
     *   (a) $15,000:
     
-    *   (b) the amount specified in [section 10(1A)(b)][193] of the Disputes Tribunals Act 1988:
+    *   (b) the amount specified in [section 10(1A)(b)][196] of the Disputes Tribunals Act 1988:
     
-    *   (c) the amount specified in [section 13(2)][194] of the Disputes Tribunals Act 1988, if the jurisdiction of the Disputes Tribunal is extended by an agreement between the parties under section 13 of that Act.
+    *   (c) the amount specified in [section 13(2)][197] of the Disputes Tribunals Act 1988, if the jurisdiction of the Disputes Tribunal is extended by an agreement between the parties under section 13 of that Act.
     
     (3) The values and amounts are as follows:
         
@@ -1825,7 +1829,7 @@ Enforcement and remedies
     
     *   (e) in the case of an order under [section 43(3)(h)][69] directing a person to supply services, the value of the services.
     
-    Section 43B: inserted, on 18 December 2013, by [section 32][192] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 43B: inserted, on 18 December 2013, by [section 32][195] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 ##### 44 Defences
     
@@ -1867,11 +1871,11 @@ Enforcement and remedies
     
     Compare: Trade Practices Act 1974 s 85(1)--(5) (Aust)
     
-    Section 44(3): amended, on 1 July 2013, by [section 413][182] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 44(3): amended, on 1 July 2013, by [section 413][185] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 44(5): amended, on 8 July 2003, by [section 12][195] of the Fair Trading Amendment Act 2003 (2003 No 31).
+    Section 44(5): amended, on 8 July 2003, by [section 12][198] of the Fair Trading Amendment Act 2003 (2003 No 31).
     
-    Section 44(6): amended, on 1 July 2013, by [section 413][182] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 44(6): amended, on 1 July 2013, by [section 413][185] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 45 Conduct by servants or agents
     
@@ -1905,13 +1909,13 @@ Enforcement and remedies
     
     Compare: Trade Practices Act 1974 s 83 (Aust)
     
-    Section 46: amended, on 18 December 2013, by [section 34][196] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 46: amended, on 18 December 2013, by [section 34][199] of the Fair Trading Amendment Act 2013 (2013 No 143).
     
-    Section 46: amended, on 8 July 2003, by [section 13][197] of the Fair Trading Amendment Act 2003 (2003 No 31).
+    Section 46: amended, on 8 July 2003, by [section 13][200] of the Fair Trading Amendment Act 2003 (2003 No 31).
 
 #### Enforceable undertakings
     
-*   Heading: inserted, on 18 December 2013, by [section 35][198] of the Fair Trading Amendment Act 2013 (2013 No 143).
+*   Heading: inserted, on 18 December 2013, by [section 35][201] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 ##### 46A Commission may accept undertakings
     
@@ -1919,9 +1923,9 @@ Enforcement and remedies
     
     (2) The person may withdraw or vary the undertaking with the consent of the Commission.
     
-    Compare: 1978 No 103 [s 69J][199]
+    Compare: 1978 No 103 [s 69J][202]
     
-    Section 46A: inserted, on 18 December 2013, by [section 35][198] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 46A: inserted, on 18 December 2013, by [section 35][201] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 ##### 46B Enforcement of undertakings
     
@@ -1937,13 +1941,13 @@ Enforcement and remedies
     
     *   (d) an order for any consequential relief that the court thinks appropriate.
     
-    Compare: 1978 No 103 [s 69K][200]
+    Compare: 1978 No 103 [s 69K][203]
     
-    Section 46B: inserted, on 18 December 2013, by [section 35][198] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 46B: inserted, on 18 December 2013, by [section 35][201] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 #### Management banning orders
     
-*   Heading: inserted, on 18 December 2013, by [section 35][198] of the Fair Trading Amendment Act 2013 (2013 No 143).
+*   Heading: inserted, on 18 December 2013, by [section 35][201] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 ##### 46C Management banning orders
     
@@ -1957,21 +1961,21 @@ Enforcement and remedies
     
     (2) The court may make the order only if it is satisfied that the order is necessary to protect the public from the risk that the person, or any incorporated or unincorporated body of which the person is a director, or the management of which the person is concerned in, will commit further offences against [section 40(1) or (1A)][64].
     
-    Section 46C: inserted, on 18 December 2013, by [section 35][198] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 46C: inserted, on 18 December 2013, by [section 35][201] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 ##### 46D Terms of management banning orders
     
 *   A management banning order must prohibit the person to whom it applies from being, without the leave of a District Court, a director of, or being in any way (whether directly or indirectly) concerned in or taking part in the management of, an incorporated or unincorporated body that carries on business in New Zealand, for a period specified in the order, which must be no more than 10 years.
     
-    Compare: 1978 No 103 [s 60B][201]
+    Compare: 1978 No 103 [s 60B][204]
     
-    Section 46D: inserted, on 18 December 2013, by [section 35][198] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 46D: inserted, on 18 December 2013, by [section 35][201] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 ##### 46E Offence to breach management banning order
     
 *   A person who breaches a management banning order made against him or her commits an offence and is liable on summary conviction to a fine not exceeding $60,000\.
     
-    Section 46E: inserted, on 18 December 2013, by [section 35][198] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 46E: inserted, on 18 December 2013, by [section 35][201] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 ##### 46F Procedures relating to management banning order
     
@@ -1989,9 +1993,9 @@ Enforcement and remedies
     
     (4) The Commission must publish every management banning order made under [section 46C][79] in the _Gazette_ as soon as practicable after it is made.
     
-    Compare: 1978 No 103 [s 60F][202]
+    Compare: 1978 No 103 [s 60F][205]
     
-    Section 46F: inserted, on 18 December 2013, by [section 35][198] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 46F: inserted, on 18 December 2013, by [section 35][201] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 ##### 46G Seeking leave of court
     
@@ -1999,9 +2003,9 @@ Enforcement and remedies
     
     (2) The Commission, and any other persons that the court thinks fit, may attend and be heard at the hearing of the application.
     
-    Compare: 1978 No 103 [s 60F][202]
+    Compare: 1978 No 103 [s 60F][205]
     
-    Section 46G: inserted, on 18 December 2013, by [section 35][198] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 46G: inserted, on 18 December 2013, by [section 35][201] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 ## Part 6  
 Miscellaneous provisions
@@ -2010,7 +2014,7 @@ Miscellaneous provisions
     
 *   (1) The Commission may, from time to time, authorise an employee of the Commission to search, under a warrant issued under subsection (2), any place named in the warrant for any of the purposes set out in that subsection.
     
-    (2) An issuing officer (within the meaning of [section 3][167] of the Search and Surveillance Act 2012) may, by warrant, authorise a person who is authorised under subsection (1) to search a place specified in the warrant if he or she is satisfied on application made in the manner provided for an application for a search warrant in [subpart 3][168] of Part 4 of that Act by that employee that there are reasonable grounds to believe that a search is necessary for the purpose of---
+    (2) An issuing officer (within the meaning of [section 3][170] of the Search and Surveillance Act 2012) may, by warrant, authorise a person who is authorised under subsection (1) to search a place specified in the warrant if he or she is satisfied on application made in the manner provided for an application for a search warrant in [subpart 3][171] of Part 4 of that Act by that employee that there are reasonable grounds to believe that a search is necessary for the purpose of---
         
     *   (a) investigating---
             
@@ -2028,53 +2032,53 @@ Miscellaneous provisions
         
         
     
-    (3) [Part 4][169] of the Search and Surveillance Act 2012 (except [sections 118][170] and [119][171]) applies.
+    (3) [Part 4][172] of the Search and Surveillance Act 2012 (except [sections 118][173] and [119][174]) applies.
     
     (4) For the purpose of allowing the Commission to provide, under [section 48I][107], compulsorily acquired information and investigative assistance to a recognised overseas regulator, every reference in this section to a contravention of this Act must be taken to include a reference to a contravention of any foreign enactment that is identified (as required by [section 48G(1)(b)][105]) in the co-operation arrangement concerning that recognised overseas regulator.
     
     Section 47: substituted, on 1 July 1990, by section 3 of the Fair Trading Amendment Act 1990 (1990 No 42).
     
-    Section 47(1): substituted, on 8 July 2003, by [section 14][203] of the Fair Trading Amendment Act 2003 (2003 No 31).
+    Section 47(1): substituted, on 8 July 2003, by [section 14][206] of the Fair Trading Amendment Act 2003 (2003 No 31).
     
-    Section 47(2): substituted, on 8 July 2003, by [section 14][203] of the Fair Trading Amendment Act 2003 (2003 No 31).
+    Section 47(2): substituted, on 8 July 2003, by [section 14][206] of the Fair Trading Amendment Act 2003 (2003 No 31).
     
-    Section 47(2): amended, on 1 October 2012, by [section 316(2)(a)][204] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 47(2): amended, on 1 October 2012, by [section 316(2)(a)][207] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 47(2): amended, on 1 October 2012, by [section 316(2)(b)][204] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 47(2): amended, on 1 October 2012, by [section 316(2)(b)][207] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 47(3): replaced, on 1 October 2012, by [section 316(3)][204] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 47(3): replaced, on 1 October 2012, by [section 316(3)][207] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 47(4): inserted, on 24 October 2012, by [section 4][205] of the Fair Trading (International Co-operation) Amendment Act 2012 (2012 No 86).
+    Section 47(4): inserted, on 24 October 2012, by [section 4][208] of the Fair Trading (International Co-operation) Amendment Act 2012 (2012 No 86).
 
 ##### 47A Powers conferred by warrant
     
 *   \[Repealed\]
     
-    Section 47A: repealed, on 1 October 2012, by[section 316(4)][204] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 47A: repealed, on 1 October 2012, by[section 316(4)][207] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 47B Warrant to be produced
     
 *   \[Repealed\]
     
-    Section 47B: repealed, on 1 October 2012, by[section 316(4)][204] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 47B: repealed, on 1 October 2012, by[section 316(4)][207] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 47C Other duties of person who executes a warrant
     
 *   \[Repealed\]
     
-    Section 47C: repealed, on 1 October 2012, by[section 316(4)][204] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 47C: repealed, on 1 October 2012, by[section 316(4)][207] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 47D Duty to assist
     
 *   \[Repealed\]
     
-    Section 47D: repealed, on 1 October 2012, by[section 316(4)][204] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 47D: repealed, on 1 October 2012, by[section 316(4)][207] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 47E Power to inspect documents and goods
     
 *   \[Repealed\]
     
-    Section 47E: repealed, on 1 October 2012, by[section 316(4)][204] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 47E: repealed, on 1 October 2012, by[section 316(4)][207] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 47F Offence to resist, obstruct, or delay
     
@@ -2088,7 +2092,7 @@ Miscellaneous provisions
     
     (2) A person who commits an offence against this section is liable on conviction to a fine not exceeding $10,000 in the case of an individual, or $30,000 in the case of a body corporate.
     
-    Section 47F: replaced, on 18 December 2013, by [section 37][206] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 47F: replaced, on 18 December 2013, by [section 37][209] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 ##### 47G Commission may require person to supply information or documents or give evidence
     
@@ -2108,21 +2112,21 @@ Miscellaneous provisions
     
     (5) Subsections (3) and (4) prevail over subsection (2).
     
-    Compare: 1986 No 5 [s 98][207]; 1994 No 143 [s 138(2)][208]
+    Compare: 1986 No 5 [s 98][210]; 1994 No 143 [s 138(2)][211]
     
-    Section 47G: inserted, on 8 July 2003, by [section 15][209] of the Fair Trading Amendment Act 2003 (2003 No 31).
+    Section 47G: inserted, on 8 July 2003, by [section 15][212] of the Fair Trading Amendment Act 2003 (2003 No 31).
     
-    Section 47G heading: amended, on 18 December 2013, by [section 38(1)][210] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 47G heading: amended, on 18 December 2013, by [section 38(1)][213] of the Fair Trading Amendment Act 2013 (2013 No 143).
     
-    Section 47G(1)(b): amended, on 18 December 2013, by [section 38(2)][210] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 47G(1)(b): amended, on 18 December 2013, by [section 38(2)][213] of the Fair Trading Amendment Act 2013 (2013 No 143).
     
-    Section 47G(1)(c): inserted, on 18 December 2013, by [section 38(2)][210] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 47G(1)(c): inserted, on 18 December 2013, by [section 38(2)][213] of the Fair Trading Amendment Act 2013 (2013 No 143).
     
-    Section 47G(3): inserted, on 18 December 2013, by [section 38(3)][210] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 47G(3): inserted, on 18 December 2013, by [section 38(3)][213] of the Fair Trading Amendment Act 2013 (2013 No 143).
     
-    Section 47G(4): inserted, on 18 December 2013, by [section 38(3)][210] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 47G(4): inserted, on 18 December 2013, by [section 38(3)][213] of the Fair Trading Amendment Act 2013 (2013 No 143).
     
-    Section 47G(5): inserted, on 18 December 2013, by [section 38(3)][210] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 47G(5): inserted, on 18 December 2013, by [section 38(3)][213] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 ##### 47H Notices
     
@@ -2146,9 +2150,9 @@ Miscellaneous provisions
     
     (2) In all courts and in all proceedings under this Act, notices given under [section 47G][92] that purport to be signed by, or on behalf of, the Commission or to be sealed with the seal of the Commission must be treated as having been signed or sealed with due authority in accordance with subsection (1)(b) unless the contrary is proved.
     
-    Compare: 1986 No 5 [s 101][211]
+    Compare: 1986 No 5 [s 101][214]
     
-    Section 47H: inserted, on 8 July 2003, by [section 15][209] of the Fair Trading Amendment Act 2003 (2003 No 31).
+    Section 47H: inserted, on 8 July 2003, by [section 15][212] of the Fair Trading Amendment Act 2003 (2003 No 31).
 
 ##### 47I Service of notices
     
@@ -2178,9 +2182,9 @@ Miscellaneous provisions
     
     *   (b) service on the association or body must, unless otherwise directed by the Commission, be treated as service on all persons who are members of the association or body, or who are represented on the association or body by those members.
     
-    Compare: 1986 No 5 [s 102][212]
+    Compare: 1986 No 5 [s 102][215]
     
-    Section 47I: inserted, on 8 July 2003, by [section 15][209] of the Fair Trading Amendment Act 2003 (2003 No 31).
+    Section 47I: inserted, on 8 July 2003, by [section 15][212] of the Fair Trading Amendment Act 2003 (2003 No 31).
 
 ##### 47J Offence to contravene section 47G
     
@@ -2194,13 +2198,13 @@ Miscellaneous provisions
     
     (3) \[Repealed\]
     
-    Compare: 1986 No 5 [s 103][213]
+    Compare: 1986 No 5 [s 103][216]
     
-    Section 47J: inserted, on 8 July 2003, by [section 15][209] of the Fair Trading Amendment Act 2003 (2003 No 31).
+    Section 47J: inserted, on 8 July 2003, by [section 15][212] of the Fair Trading Amendment Act 2003 (2003 No 31).
     
-    Section 47J(2): amended, on 1 July 2013, by [section 413][182] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 47J(2): amended, on 1 July 2013, by [section 413][185] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 47J(3): repealed, on 1 July 2013, by [section 413][182] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 47J(3): repealed, on 1 July 2013, by [section 413][185] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 47K Commission may authorise employees for monitoring and enforcement purposes
     
@@ -2228,7 +2232,7 @@ Miscellaneous provisions
     
     *   (d) a statement of the powers (if any) of the authorised employee under the Search and Surveillance Act 2012\.
     
-    Section 47K: inserted, on 18 December 2013, by [section 39][214] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 47K: inserted, on 18 December 2013, by [section 39][217] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 ##### 47L Powers of authorised employees
     
@@ -2266,13 +2270,13 @@ Miscellaneous provisions
     
     (4) If an authorised employee enters a dwellinghouse with the permission of the occupier or under a warrant issued under subsection (5), the authorised employee may, for the purpose described in subsection (2), exercise the powers listed in subsection (3).
     
-    (5) An issuing officer (within the meaning of [section 3][167] of the Search and Surveillance Act 2012) may, by warrant, authorise an authorised employee to enter and inspect a dwellinghouse or any other place specified in the warrant if the issuing officer is satisfied, on application made in accordance with subsection (6), that there are reasonable grounds to believe that a search of the place is necessary for the purpose described in subsection (2).
+    (5) An issuing officer (within the meaning of [section 3][170] of the Search and Surveillance Act 2012) may, by warrant, authorise an authorised employee to enter and inspect a dwellinghouse or any other place specified in the warrant if the issuing officer is satisfied, on application made in accordance with subsection (6), that there are reasonable grounds to believe that a search of the place is necessary for the purpose described in subsection (2).
     
-    (6) The application for a warrant must be made in writing in the manner provided for an application for a search warrant in [subpart 3][168] of Part 4 of the Search and Surveillance Act 2012\.
+    (6) The application for a warrant must be made in writing in the manner provided for an application for a search warrant in [subpart 3][171] of Part 4 of the Search and Surveillance Act 2012\.
     
-    (7) [Part 4][169] of the Search and Surveillance Act 2012 (except [sections 118][170] and [119][171]) applies.
+    (7) [Part 4][172] of the Search and Surveillance Act 2012 (except [sections 118][173] and [119][174]) applies.
     
-    Section 47L: inserted, on 18 December 2013, by [section 39][214] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 47L: inserted, on 18 December 2013, by [section 39][217] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 ##### 48 Proceedings privileged
     
@@ -2282,25 +2286,25 @@ Miscellaneous provisions
     
     (3) Nothing in subsections (1) and (2) applies in respect of proceedings for---
         
-    *   (a) an offence against [section 78][215] or [section 78A][216] or [section 105][217] or [section 105A][218] of the Crimes Act 1961; or
+    *   (a) an offence against [section 78][218] or [section 78A][219] or [section 105][220] or [section 105A][221] of the Crimes Act 1961; or
     
-    *   (b) the offence of conspiring to commit an offence against [section 78][215] or [section 78A][216] or [section 105][217] or [section 105A][218] of the Crimes Act 1961; or
+    *   (b) the offence of conspiring to commit an offence against [section 78][218] or [section 78A][219] or [section 105][220] or [section 105A][221] of the Crimes Act 1961; or
     
-    *   (c) the offence of attempting to commit an offence against [section 78][215] or [section 78A][216] or [section 105][217] or [section 105A][218] of the Crimes Act 1961\.
+    *   (c) the offence of attempting to commit an offence against [section 78][218] or [section 78A][219] or [section 105][220] or [section 105A][221] of the Crimes Act 1961\.
     
-    (4) [Section 59(3)][219] of the Crown Entities Act 2004 (which provides that a statutory entity may bring an action against a member for breach of an individual duty) does not apply, unless it is shown by the Commission that the person acted in bad faith.
+    (4) [Section 59(3)][222] of the Crown Entities Act 2004 (which provides that a statutory entity may bring an action against a member for breach of an individual duty) does not apply, unless it is shown by the Commission that the person acted in bad faith.
     
-    (5) [Sections 122 to 126][220] of the Crown Entities Act 2004 apply as if the conduct for which a person may be indemnified or insured under those sections were conduct that is covered by the protection from liability in this section.
+    (5) [Sections 122 to 126][223] of the Crown Entities Act 2004 apply as if the conduct for which a person may be indemnified or insured under those sections were conduct that is covered by the protection from liability in this section.
     
-    (6) This section contains an exception to [section 121][221] of the Crown Entities Act 2004\.
+    (6) This section contains an exception to [section 121][224] of the Crown Entities Act 2004\.
     
-    Section 48(2): substituted, on 25 January 2005, by [section 200][125] of the Crown Entities Act 2004 (2004 No 115).
+    Section 48(2): substituted, on 25 January 2005, by [section 200][129] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 48(4): added, on 25 January 2005, by [section 200][125] of the Crown Entities Act 2004 (2004 No 115).
+    Section 48(4): added, on 25 January 2005, by [section 200][129] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 48(5): added, on 25 January 2005, by [section 200][125] of the Crown Entities Act 2004 (2004 No 115).
+    Section 48(5): added, on 25 January 2005, by [section 200][129] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 48(6): added, on 25 January 2005, by [section 200][125] of the Crown Entities Act 2004 (2004 No 115).
+    Section 48(6): added, on 25 January 2005, by [section 200][129] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 48A Sharing of information and documents with Financial Markets Authority or Takeovers Panel
     
@@ -2308,15 +2312,15 @@ Miscellaneous provisions
         
     *   (a) holds in relation to the exercise of the Commission's powers, or the performance of its functions and duties, in respect of this Act; and
     
-    *   (b) considers may assist the Financial Markets Authority or the Takeovers Panel in the exercise of its powers, or the performance of its functions and duties, under the [Financial Markets Authority Act 2011][222], any enactment listed in [Schedule 1][223] of that Act, the [Takeovers Act 1993][134], or the [Takeovers Code][133] in force under that Act.
+    *   (b) considers may assist the Financial Markets Authority or the Takeovers Panel in the exercise of its powers, or the performance of its functions and duties, under the [Financial Markets Authority Act 2011][225], any enactment listed in [Schedule 1][226] of that Act, the [Takeovers Act 1993][136], or the [Takeovers Code][135] in force under that Act.
     
-    (2) The Commission may use any information, or a copy of any document, provided to it by the Financial Markets Authority under [section 30][224] of the Financial Markets Authority Act 2011 or by the Takeovers Panel under [section 15B][225] of the Takeovers Act 1993 in the Commission's exercise of its powers, or the performance of its functions and duties, in respect of this Act.
+    (2) The Commission may use any information, or a copy of any document, provided to it by the Financial Markets Authority under [section 30][227] of the Financial Markets Authority Act 2011 or by the Takeovers Panel under [section 15B][228] of the Takeovers Act 1993 in the Commission's exercise of its powers, or the performance of its functions and duties, in respect of this Act.
     
     (3) This section applies despite anything to the contrary in any contract, deed, or document.
     
-    (4) Nothing in this section limits the [Privacy Act 1993][226].
+    (4) Nothing in this section limits the [Privacy Act 1993][229].
     
-    Section 48A: substituted, on 1 May 2011, by [section 82][227] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 48A: substituted, on 1 May 2011, by [section 82][230] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 48B Purpose of sections 48C to 48O (which relate to assistance to overseas regulators)
     
@@ -2326,7 +2330,7 @@ Miscellaneous provisions
     
     *   (b) to clarify other matters relating to sharing other kinds of information with overseas regulators.
     
-    Section 48B: inserted, on 24 October 2012, by [section 5][228] of the Fair Trading (International Co-operation) Amendment Act 2012 (2012 No 86).
+    Section 48B: inserted, on 24 October 2012, by [section 5][231] of the Fair Trading (International Co-operation) Amendment Act 2012 (2012 No 86).
 
 ##### 48C Definitions of terms used in sections 48B to 48O
     
@@ -2350,7 +2354,7 @@ Miscellaneous provisions
     
     _recognised overseas regulator_ means an overseas regulator that is the subject of a co-operation arrangement.
     
-    Section 48C: inserted, on 24 October 2012, by [section 5][228] of the Fair Trading (International Co-operation) Amendment Act 2012 (2012 No 86).
+    Section 48C: inserted, on 24 October 2012, by [section 5][231] of the Fair Trading (International Co-operation) Amendment Act 2012 (2012 No 86).
 
 ##### 48D Restrictions on providing compulsorily acquired information and investigative assistance
     
@@ -2360,7 +2364,7 @@ Miscellaneous provisions
     
     *   (b) in accordance with [sections 48I to 48K][107].
     
-    Section 48D: inserted, on 24 October 2012, by [section 5][228] of the Fair Trading (International Co-operation) Amendment Act 2012 (2012 No 86).
+    Section 48D: inserted, on 24 October 2012, by [section 5][231] of the Fair Trading (International Co-operation) Amendment Act 2012 (2012 No 86).
 
 ##### 48E Government-to-government co-operation arrangements
     
@@ -2380,7 +2384,7 @@ Miscellaneous provisions
     
     (3) The Minister must not enter into a co-operation arrangement unless he or she is satisfied that entering into the arrangement is not inconsistent with any of New Zealand's obligations under international agreements, conventions, or treaties.
     
-    Section 48E: inserted, on 24 October 2012, by [section 5][228] of the Fair Trading (International Co-operation) Amendment Act 2012 (2012 No 86).
+    Section 48E: inserted, on 24 October 2012, by [section 5][231] of the Fair Trading (International Co-operation) Amendment Act 2012 (2012 No 86).
 
 ##### 48F Regulator-to-regulator co-operation arrangements
     
@@ -2392,7 +2396,7 @@ Miscellaneous provisions
     
     *   (b) is satisfied of the matter specified in s[ection 48E(3)][103].
     
-    Section 48F: inserted, on 24 October 2012, by [section 5][228] of the Fair Trading (International Co-operation) Amendment Act 2012 (2012 No 86).
+    Section 48F: inserted, on 24 October 2012, by [section 5][231] of the Fair Trading (International Co-operation) Amendment Act 2012 (2012 No 86).
 
 ##### 48G Content of co-operation arrangements
     
@@ -2410,7 +2414,7 @@ Miscellaneous provisions
     
     *   (b) include other conditions on the provision of compulsorily acquired information or investigative assistance.
     
-    Section 48G: inserted, on 24 October 2012, by [section 5][228] of the Fair Trading (International Co-operation) Amendment Act 2012 (2012 No 86).
+    Section 48G: inserted, on 24 October 2012, by [section 5][231] of the Fair Trading (International Co-operation) Amendment Act 2012 (2012 No 86).
 
 ##### 48H Procedures relating to co-operation arrangements
     
@@ -2438,7 +2442,7 @@ Miscellaneous provisions
     
     (3) Subsections (1) and (2) apply with all necessary modifications to every amendment to a co-operation arrangement.
     
-    Section 48H: inserted, on 24 October 2012, by [section 5][228] of the Fair Trading (International Co-operation) Amendment Act 2012 (2012 No 86).
+    Section 48H: inserted, on 24 October 2012, by [section 5][231] of the Fair Trading (International Co-operation) Amendment Act 2012 (2012 No 86).
 
 ##### 48I Providing compulsorily acquired information and investigative assistance
     
@@ -2466,9 +2470,9 @@ Miscellaneous provisions
     
     *   (b) whether the recognised overseas regulator could more conveniently obtain the information or assistance from another source; and
     
-    *   (c) whether the request would, in the opinion of the Commission, be more appropriately dealt with under the [Mutual Assistance in Criminal Matters Act 1992][229].
+    *   (c) whether the request would, in the opinion of the Commission, be more appropriately dealt with under the [Mutual Assistance in Criminal Matters Act 1992][232].
     
-    Section 48I: inserted, on 24 October 2012, by [section 5][228] of the Fair Trading (International Co-operation) Amendment Act 2012 (2012 No 86).
+    Section 48I: inserted, on 24 October 2012, by [section 5][231] of the Fair Trading (International Co-operation) Amendment Act 2012 (2012 No 86).
 
 ##### 48J Conditions on providing compulsorily acquired information and investigative assistance
     
@@ -2494,7 +2498,7 @@ Miscellaneous provisions
     
     *   (b) that, to the extent that it is within the ability of the overseas regulator to do so, it will ensure that the information is not used by any other person, authority, or agency as evidence in proceedings referred to in paragraph (a).
     
-    Section 48J: inserted, on 24 October 2012, by [section 5][228] of the Fair Trading (International Co-operation) Amendment Act 2012 (2012 No 86).
+    Section 48J: inserted, on 24 October 2012, by [section 5][231] of the Fair Trading (International Co-operation) Amendment Act 2012 (2012 No 86).
 
 ##### 48K Notice to persons affected by provision of information
     
@@ -2512,7 +2516,7 @@ Miscellaneous provisions
     
     *   (c) it is not practicable in the circumstances to give notice to the person.
     
-    Section 48K: inserted, on 24 October 2012, by [section 5][228] of the Fair Trading (International Co-operation) Amendment Act 2012 (2012 No 86).
+    Section 48K: inserted, on 24 October 2012, by [section 5][231] of the Fair Trading (International Co-operation) Amendment Act 2012 (2012 No 86).
 
 ##### 48L Reporting on use of co-operation arrangements
     
@@ -2522,7 +2526,7 @@ Miscellaneous provisions
     
     *   (b) the number and general nature of requests for information and investigative assistance that the Commission has made to recognised overseas regulators.
     
-    Section 48L: inserted, on 24 October 2012, by [section 5][228] of the Fair Trading (International Co-operation) Amendment Act 2012 (2012 No 86).
+    Section 48L: inserted, on 24 October 2012, by [section 5][231] of the Fair Trading (International Co-operation) Amendment Act 2012 (2012 No 86).
 
 ##### 48M Sharing of non-compulsorily acquired information not affected
     
@@ -2532,35 +2536,99 @@ Miscellaneous provisions
     
     *   (b) whether or not the overseas regulator is a recognised overseas regulator.
     
-    Section 48M: inserted, on 24 October 2012, by [section 5][228] of the Fair Trading (International Co-operation) Amendment Act 2012 (2012 No 86).
+    Section 48M: inserted, on 24 October 2012, by [section 5][231] of the Fair Trading (International Co-operation) Amendment Act 2012 (2012 No 86).
 
 ##### 48N Information provided by consent
     
 *   Nothing in [sections 48B to 48L][87] or any co-operation arrangement prevents the Commission providing any information to an overseas regulator with the consent of the person who is the subject of the information.
     
-    Section 48N: inserted, on 24 October 2012, by [section 5][228] of the Fair Trading (International Co-operation) Amendment Act 2012 (2012 No 86).
+    Section 48N: inserted, on 24 October 2012, by [section 5][231] of the Fair Trading (International Co-operation) Amendment Act 2012 (2012 No 86).
 
 ##### 48O Maintenance of privilege
     
-*   (1) If the Commission provides to an overseas regulator, for the purpose of assisting the overseas regulator to perform its fair trading law functions, a communication or information in respect of which the Commission has any privilege referred to in [section 54][230], [56][231], or [57][232] of the Evidence Act 2006, the Commission is not to be taken as having waived its privilege in relation to that communication or information merely by providing it to the overseas regulator.
+*   (1) If the Commission provides to an overseas regulator, for the purpose of assisting the overseas regulator to perform its fair trading law functions, a communication or information in respect of which the Commission has any privilege referred to in [section 54][233], [56][234], or [57][235] of the Evidence Act 2006, the Commission is not to be taken as having waived its privilege in relation to that communication or information merely by providing it to the overseas regulator.
     
-    (2) If the Commission receives from an overseas regulator, for the purpose of assisting the Commission to perform its fair trading law functions under this Act, a communication or information that, under the law of the country of the overseas regulator is subject to a privilege analogous to a privilege of a kind referred to in [section 54][230], [56][231], or [57][232] of the Evidence Act 2006, that communication or information is subject to the analogous privilege in New Zealand, and the [Evidence Act 2006][233] applies accordingly.
+    (2) If the Commission receives from an overseas regulator, for the purpose of assisting the Commission to perform its fair trading law functions under this Act, a communication or information that, under the law of the country of the overseas regulator is subject to a privilege analogous to a privilege of a kind referred to in [section 54][233], [56][234], or [57][235] of the Evidence Act 2006, that communication or information is subject to the analogous privilege in New Zealand, and the [Evidence Act 2006][236] applies accordingly.
     
-    (3) The Commission must not provide a communication or information that is subject to the privilege referred to in [section 57][232] of the Evidence Act 2006 (which relates to settlement negotiation and mediation) to an overseas regulator unless every other party that has a privilege in relation to that communication or information consents to the Commission providing the communication or information to the overseas regulator.
+    (3) The Commission must not provide a communication or information that is subject to the privilege referred to in [section 57][235] of the Evidence Act 2006 (which relates to settlement negotiation and mediation) to an overseas regulator unless every other party that has a privilege in relation to that communication or information consents to the Commission providing the communication or information to the overseas regulator.
     
     (4) To avoid doubt, this section applies whether or not a communication or information is provided under a co-operation arrangement.
     
-    Section 48O: inserted, on 24 October 2012, by [section 5][228] of the Fair Trading (International Co-operation) Amendment Act 2012 (2012 No 86).
+    Section 48O: inserted, on 24 October 2012, by [section 5][231] of the Fair Trading (International Co-operation) Amendment Act 2012 (2012 No 86).
+
+##### 48P Proceedings relating to financial products or financial services
+    
+*   (1) This section applies if---
+        
+    *   (a) the Commission is considering commencing civil or criminal proceedings in relation to conduct that constitutes, or may constitute, a contravention of any of [sections 9 to 13][15]; and
+    
+    *   (b) the Commission considers that that conduct is in relation to a financial product or a financial service.
+    
+    (2) The Commission must, before commencing those proceedings, obtain the consent of the Financial Markets Authority (the _FMA_).
+    
+    (3) However, a failure to obtain consent under subsection (2) does not affect any proceedings commenced by the Commission.
+    
+    (4) The FMA, when considering whether to give its consent, must have regard to the following matters to the extent that the FMA considers that those matters are relevant:
+        
+    *   (a) the purposes of the Financial Markets Conduct Act 2013 specified in [sections 3][237] and [4][238] of that Act:
+    
+    *   (b) any warning, report, or guideline issued, or comment or statement made, under [section 9(1)(a)(ii) or (v)][239] of the Financial Markets Authority Act 2011:
+    
+    *   (c) any undertaking accepted under [section 46][240] of the Financial Markets Authority Act 2011:
+    
+    *   (d) any exemption granted under the [Financial Markets Conduct Act 2013][241]:
+    
+    *   (e) any other action that the FMA has taken, or intends to take, in relation to the conduct:
+    
+    *   (f) any other matters that the FMA considers relevant.
+    
+    (5) The FMA's consent may relate to particular conduct or a class of conduct (whether or not the conduct has already occurred).
+    
+    (6) In this section,---
+    
+    _financial product_---
+        
+    *   (a) has the same meaning as in [section 7][242] of the Financial Markets Conduct Act 2013; and
+    
+    *   (b) includes, in relation to any provision of [sections 9 to 13][15], any class or classes of financial product declared by regulations made under [section 548(1)(a)][243] of that Act to be a financial product for the purposes of the provision of [Part 2][244] of that Act that corresponds to that provision of this Act
+    
+    _financial service_ has the same meaning as in [section 6(1)][245] of the Financial Markets Conduct Act 2013\.
+    
+    Section 48P: inserted, on 1 April 2014, by [section 8][246] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+
+##### 48Q No pecuniary penalty and fine for same conduct involving financial products or financial services
+    
+*   (1) A person cannot be ordered to pay a pecuniary penalty, or be liable for a fine, under the [Financial Markets Conduct Act 2013][241] and be liable for a fine under this Act for the same conduct.
+    
+    (2) A person that has, in respect of certain conduct, paid an amount in lieu of a pecuniary penalty under section 46A(1)(b) of the Financial Markets Authority Act 2011 is not liable for a fine under this Act for the same conduct.
+    
+    Section 48Q: inserted, on 1 April 2014, by [section 8][246] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+
+##### 48R Unsubstantiated representations prohibition does not apply to financial markets disclosure
+    
+*   (1) The provision of this Act that corresponds to [section 23][247] of the Financial Markets Conduct Act 2013 does not apply to a representation made in a disclosure document or a register entry.
+    
+    (2) In this section, _disclosure document_ and _register entry_ have the same meanings as in [section 6(1)][245] of the Financial Markets Conduct Act 2013\.
+    
+    Section 48R: inserted, on 1 April 2014, by [section 8][246] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+
+##### 48S Certain conduct under Financial Markets Conduct Act 2013 does not contravene various provisions of this Act
+    
+*   (1) Conduct that contravenes [section 82][248], [99][249], [262][250], [265][251], or [427][252] or [clause 27][253] of Schedule 1 of the Financial Markets Conduct Act 2013 does not contravene any of [sections 9 to 13][15] of this Act.
+    
+    (2) For the purpose of this section, conduct must be treated as contravening [section 82][248], [99][249], [262][250], [265][251], or [427][252] or [clause 27][253] of Schedule 1 of the Financial Markets Conduct Act 2013 even if the conduct does not constitute an offence, or does not lead to any liability, because of the availability of a defence.
+    
+    Section 48S: inserted, on 1 April 2014, by [section 8][246] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
 
 ##### 49 Repeals and consequential amendments
     
-*   (1) The enactment specified in [Schedule 1][117] is hereby amended in the manner indicated in that schedule.
+*   (1) The enactment specified in [Schedule 1][121] is hereby amended in the manner indicated in that schedule.
     
-    (2) The enactments specified in [Part A][234] of Schedule 2 are hereby repealed with effect from the commencement of this Act.
+    (2) The enactments specified in [Part A][254] of Schedule 2 are hereby repealed with effect from the commencement of this Act.
     
-    (3) The enactments specified in [Part B][235] of Schedule 2 are hereby repealed with effect from 1 May 1987\.
+    (3) The enactments specified in [Part B][255] of Schedule 2 are hereby repealed with effect from 1 May 1987\.
     
-    (4) The orders and notices specified in [Schedule 3][119] are hereby revoked.
+    (4) The orders and notices specified in [Schedule 3][123] are hereby revoked.
 
 ##### 50 Saving of other laws
     
@@ -2568,11 +2636,11 @@ Miscellaneous provisions
     
     (2) Nothing in this Act limits or affects any liability that any person may incur under any rule of law or enactment other than this Act.
     
-    (3) However, subsection (1) does not apply in relation to any provision in Part 4A that limits or affects the operation of the [Sale of Goods Act 1908][236] or the [Contractual Remedies Act 1979][237].
+    (3) However, subsection (1) does not apply in relation to any provision in Part 4A that limits or affects the operation of the [Sale of Goods Act 1908][256] or the [Contractual Remedies Act 1979][257].
     
-    Compare: 1978 No 103 [s 65][238]; Trade Practices Act 1974 s 75 (Aust)
+    Compare: 1978 No 103 [s 65][258]; Trade Practices Act 1974 s 75 (Aust)
     
-    Section 50(3): inserted, on 18 December 2013, by [section 40][239] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    Section 50(3): inserted, on 18 December 2013, by [section 40][259] of the Fair Trading Amendment Act 2013 (2013 No 143).
 
 ##### 51 Application of Act to goods that are, or may be, exported to China
     
@@ -2586,31 +2654,31 @@ Miscellaneous provisions
     
     (2) In this section, _Conformity Cooperation Agreement_ means the Agreement between the Government of New Zealand and the Government of the People's Republic of China on Cooperation in the Field of Conformity Assessment in Relation to Electrical and Electronic Equipment and Components, which is Annex 14 of the Free Trade Agreement between the Government of New Zealand and the Government of the People's Republic of China done at Beijing on 7 April 2008\.
     
-    Section 51: added, on 1 October 2008, by [section 6][240] of the Fair Trading Amendment Act 2008 (2008 No 52).
+    Section 51: added, on 1 October 2008, by [section 6][260] of the Fair Trading Amendment Act 2008 (2008 No 52).
 
 ---
 
 ## Schedule 1  
 Enactment amended
 
-[s 49(1)][114]
+[s 49(1)][118]
 
 \[Repealed\]
     
-*   Schedule 1: repealed, on 1 April 1993, by [section 62(1)][241] of the Health and Safety in Employment Act 1992 (1992 No 96).
+*   Schedule 1: repealed, on 1 April 1993, by [section 62(1)][261] of the Health and Safety in Employment Act 1992 (1992 No 96).
 
 ---
 
 ## Schedule 2  
 Enactments repealed
 
-[s 49(2), (3)][114]
+[s 49(2), (3)][118]
 
 ## Part A
 
 ##### Commerce Act 1986 (1986 No 5)
 
-_Amendment(s) incorporated in the [Act(s)][242]_.
+_Amendment(s) incorporated in the [Act(s)][262]_.
 
 ##### Consumer Information Act 1969 (1969 No 12)
 
@@ -2632,13 +2700,13 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Medicines Act 1981 (1981 No 118)
 
-_Amendment(s) incorporated in the [Act(s)][243]_.
+_Amendment(s) incorporated in the [Act(s)][263]_.
 
 ##### Merchandise Marks Act 1954 (1954 No 43) (RS Vol 10, p 113)
 
 ##### Unsolicited Goods and Services Act 1975 (1975 No 46)
 
-_Amendment(s) incorporated in the [Act(s)][244]_.
+_Amendment(s) incorporated in the [Act(s)][264]_.
 
 ## Part B
 
@@ -2651,7 +2719,7 @@ _Amendment(s) incorporated in the [Act(s)][244]_.
 ## Schedule 3  
 Orders and notices revoked
 
-[s 49(4)][114]
+[s 49(4)][118]
 
 ##### Clothing Marking Order 1956 (SR 1956/118)
 
@@ -2662,6 +2730,46 @@ Orders and notices revoked
 ##### Dry Cell Batteries Marking Order (No 2) 1957 (SR 1957/205)
 
 ##### Footwear Marking Order 1955 (SR 1955/208)
+
+---
+
+# Financial Markets (Repeals and Amendments) Act 2013Public Act2013 No 70
+
+Date of assent13 September 2013
+
+Commencementsee section 2
+
+##### 1 Title
+    
+*   This Act is the [Financial Markets (Repeals and Amendments) Act 2013][265].
+
+##### 2 Commencement
+    
+*   (1) Sections 4(2) to (4), 91, 101(3), (6), and (7), 105, and 107 come into force on the day after the date on which this Act receives the Royal assent.
+    
+    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council; and 1 or more orders may be made appointing different dates for different provisions and for different purposes.
+    
+    (3) To the extent that it is not previously brought into force under subsection (1) or (2), the rest of this Act comes into force on 1 April 2017\.
+    
+    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
+    
+    Section 2(2): sections 6 to 9, 10, 11, 13, 35, 37 to 39, 41, 42(1) to (3), 43 to 47, 49, 52, 53, 58, and 61(2) to (10), 42(4) (other than as far as it relates to new subsection (1A)), sections 62, 64, 65, 66(1), 67 to 69, 70(1), (4), and (6), and 71, 150 (but only for the purpose of the items that are coming into force under paragraph (f)), certain items in the Schedule brought into force, on 1 April 2014, by [clause 3][266] of the Financial Markets Legislation (Phase 1) Commencement Order 2014 (LI 2014/51).
+
+#### Amendments to Fair Trading Act 1986
+
+##### 9 Transitional provision for existing offences and contraventions
+    
+*   (1) This section applies to an offence committed under, or a contravention of, the principal Act before the commencement of section 7\.
+    
+    (2) The principal Act continues to have effect as if it had not been amended by sections 7 and 8 for the purpose of---
+        
+    *   (a) investigating an offence or a contravention to which this section applies:
+    
+    *   (b) commencing or completing proceedings for an offence or a contravention to which this section applies:
+    
+    *   (c) imposing a penalty or other remedy, or making an order, in relation to an offence or a contravention to which this section applies.
+    
+    
 
 #### 
 
@@ -2675,59 +2783,61 @@ Orders and notices revoked
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][245] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][246] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][267] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][268] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][247] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][248] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][269] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][270] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [Fair Trading Amendment Act 2013][249] (2013 No 143)
+*   [Fair Trading Amendment Act 2013][271] (2013 No 143)
     
-    Companies Amendment Act 2013 (2013 No 111): [section 14][143]
+    Companies Amendment Act 2013 (2013 No 111): [section 14][146]
     
-    [Fair Trading (International Co-operation) Amendment Act 2012][250] (2012 No 86)
+    Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70): [sections 7][134], [8][246]
     
-    [Fair Trading (Soliciting on Behalf of Charities) Amendment Act 2012][251] (2012 No 48)
+    [Fair Trading (International Co-operation) Amendment Act 2012][272] (2012 No 86)
     
-    Search and Surveillance Act 2012 (2012 No 24): [section 316][204]
+    [Fair Trading (Soliciting on Behalf of Charities) Amendment Act 2012][273] (2012 No 48)
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][182]
+    Search and Surveillance Act 2012 (2012 No 24): [section 316][207]
     
-    Financial Markets Authority Act 2011 (2011 No 5): [section 82][227]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][185]
     
-    [Fair Trading Amendment Act 2008][252] (2008 No 52)
+    Financial Markets Authority Act 2011 (2011 No 5): [section 82][230]
     
-    [Fair Trading Amendment Act 2006][253] (2006 No 49)
+    [Fair Trading Amendment Act 2008][274] (2008 No 52)
     
-    Crown Entities Act 2004 (2004 No 115): [section 200][125]
+    [Fair Trading Amendment Act 2006][275] (2006 No 49)
     
-    [Fair Trading Amendment Act (No 2) 2003][254] (2003 No 34)
+    Crown Entities Act 2004 (2004 No 115): [section 200][129]
     
-    [Fair Trading Amendment Act 2003][255] (2003 No 31)
+    [Fair Trading Amendment Act (No 2) 2003][276] (2003 No 34)
     
-    Trade Marks Act 2002 (2002 No 49): [section 201][146]
+    [Fair Trading Amendment Act 2003][277] (2003 No 31)
     
-    [Fair Trading Amendment Act 2000][256] (2000 No 64)
+    Trade Marks Act 2002 (2002 No 49): [section 201][149]
+    
+    [Fair Trading Amendment Act 2000][278] (2000 No 64)
     
     Trade Marks Amendment Act 1999 (1999 No 121): section 8(1)
     
-    [Fair Trading Amendment Act 1997][257] (1997 No 43)
+    [Fair Trading Amendment Act 1997][279] (1997 No 43)
     
-    Customs and Excise Act 1996 (1996 No 27): [section 289(1)][151]
+    Customs and Excise Act 1996 (1996 No 27): [section 289(1)][154]
     
-    Newspapers and Printers Act Repeal Act 1995 (1995 No 13): [section 4(3)][141]
+    Newspapers and Printers Act Repeal Act 1995 (1995 No 13): [section 4(3)][144]
     
-    [Fair Trading Amendment Act 1994][258] (1994 No 124)
+    [Fair Trading Amendment Act 1994][280] (1994 No 124)
     
-    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][142]
+    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][145]
     
-    Health and Safety in Employment Act 1992 (1992 No 96): [section 62(1)][241]
+    Health and Safety in Employment Act 1992 (1992 No 96): [section 62(1)][261]
     
     Fair Trading Amendment Act 1990 (1990 No 42)
     
-    Disputes Tribunals Act 1988 (1988 No 110): [section 82(2)][180]
+    Disputes Tribunals Act 1988 (1988 No 110): [section 82(2)][183]
     
     Trade Marks Amendment Act 1987 (1987 No 156): section 33(1)
 
@@ -2847,148 +2957,170 @@ Orders and notices revoked
 [111]: http://www.legislation.govt.nz/act/public/1986/0121/latest/whole.html#DLM4854626
 [112]: http://www.legislation.govt.nz/act/public/1986/0121/latest/whole.html#DLM4854627
 [113]: http://www.legislation.govt.nz/act/public/1986/0121/latest/whole.html#DLM4854628
-[114]: http://www.legislation.govt.nz/act/public/1986/0121/latest/whole.html#DLM97350
-[115]: http://www.legislation.govt.nz/act/public/1986/0121/latest/whole.html#DLM97351
-[116]: http://www.legislation.govt.nz/act/public/1986/0121/latest/whole.html#DLM1657501
-[117]: http://www.legislation.govt.nz/act/public/1986/0121/latest/whole.html#DLM97352
-[118]: http://www.legislation.govt.nz/act/public/1986/0121/latest/whole.html#DLM97354
-[119]: http://www.legislation.govt.nz/act/public/1986/0121/latest/whole.html#DLM97359
-[120]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3672923
-[121]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3672924
-[122]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM87970
-[123]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM128144
-[124]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3672927
-[125]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM331111
-[126]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198934
-[127]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM410341
-[128]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM1448008
-[129]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM4777819
-[130]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM25999
-[131]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM139726
-[132]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM384857
-[133]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM10100
-[134]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM325508
-[135]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3672951
-[136]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM76809
-[137]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198377
-[138]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM5787415
-[139]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM313301
-[140]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM319999
-[141]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM359363
-[142]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM328986
-[143]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM5620822
-[144]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM164239
-[145]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM344675
-[146]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM165256
-[147]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198378
-[148]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198379
-[149]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM378460
-[150]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM344676
-[151]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM380185
-[152]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM410342
-[153]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM53789
-[154]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3672972
-[155]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM4777826
-[156]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM344376
-[157]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3606902
-[158]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM410343
-[159]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3672974
-[160]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3672978
-[161]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3672980
-[162]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3672982
-[163]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3672984
-[164]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM102594
-[165]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM2136500
-[166]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM102599
-[167]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM2136542
-[168]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM2136781
-[169]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM2136770
-[170]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM2136813
-[171]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM2136815
-[172]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM102900
-[173]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM410344
-[174]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM243611
-[175]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198380
-[176]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3673055
-[177]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198381
-[178]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3673056
-[179]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM133619
-[180]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM134169
-[181]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3673057
-[182]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3360714
-[183]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198382
-[184]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198383
-[185]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM4777838
-[186]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM89493
-[187]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198385
-[188]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198386
-[189]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM4777841
-[190]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM396434
-[191]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM103473
-[192]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3673075
-[193]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM133638
-[194]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM133648
-[195]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198387
-[196]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM4777842
-[197]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198388
-[198]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3673085
-[199]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM29797
-[200]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM29799
-[201]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM29438
-[202]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM29446
-[203]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198389
-[204]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM2137105
-[205]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM4484406
-[206]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM96981
-[207]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM89917
-[208]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM346648
-[209]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198390
-[210]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM4777852
-[211]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM89948
-[212]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM89950
-[213]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM89951
-[214]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3673099
-[215]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM328526
-[216]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM328528
-[217]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM328753
-[218]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM328755
-[219]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM329990
-[220]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM330374
-[221]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM330373
-[222]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3231004
-[223]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3232235
-[224]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3231705
-[225]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM325842
-[226]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM296638
-[227]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3231793
-[228]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM4484407
-[229]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM273056
-[230]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM393659
-[231]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM393663
-[232]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM393664
-[233]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM393462
-[234]: http://www.legislation.govt.nz/act/public/1986/0121/latest/whole.html#DLM97355
-[235]: http://www.legislation.govt.nz/act/public/1986/0121/latest/whole.html#DLM97358
-[236]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM173957
-[237]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM31565
-[238]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM29497
-[239]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3673106
-[240]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM1448009
-[241]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM279941
-[242]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM89991
-[243]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM56592
-[244]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM434460
-[245]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM2998516
-[246]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM2998515
-[247]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM2998532
-[248]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[249]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3672903
-[250]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM4484400
-[251]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM2571100
-[252]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM1448000
-[253]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM384850
-[254]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198928
-[255]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198369
-[256]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM76803
-[257]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM410335
-[258]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM344669
+[114]: http://www.legislation.govt.nz/act/public/1986/0121/latest/whole.html#DLM6033255
+[115]: http://www.legislation.govt.nz/act/public/1986/0121/latest/whole.html#DLM6033257
+[116]: http://www.legislation.govt.nz/act/public/1986/0121/latest/whole.html#DLM6033259
+[117]: http://www.legislation.govt.nz/act/public/1986/0121/latest/whole.html#DLM6033261
+[118]: http://www.legislation.govt.nz/act/public/1986/0121/latest/whole.html#DLM97350
+[119]: http://www.legislation.govt.nz/act/public/1986/0121/latest/whole.html#DLM97351
+[120]: http://www.legislation.govt.nz/act/public/1986/0121/latest/whole.html#DLM1657501
+[121]: http://www.legislation.govt.nz/act/public/1986/0121/latest/whole.html#DLM97352
+[122]: http://www.legislation.govt.nz/act/public/1986/0121/latest/whole.html#DLM97354
+[123]: http://www.legislation.govt.nz/act/public/1986/0121/latest/whole.html#DLM97359
+[124]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3672923
+[125]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3672924
+[126]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM87970
+[127]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM128144
+[128]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3672927
+[129]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM331111
+[130]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198934
+[131]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM410341
+[132]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM1448008
+[133]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM4777819
+[134]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM5561120
+[135]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM10100
+[136]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM325508
+[137]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM384857
+[138]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3672951
+[139]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM76809
+[140]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198377
+[141]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM5787415
+[142]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM313301
+[143]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM319999
+[144]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM359363
+[145]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM328986
+[146]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM5620822
+[147]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM164239
+[148]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM344675
+[149]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM165256
+[150]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198378
+[151]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198379
+[152]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM378460
+[153]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM344676
+[154]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM380185
+[155]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM410342
+[156]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM53789
+[157]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3672972
+[158]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM4777826
+[159]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM344376
+[160]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3606902
+[161]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM410343
+[162]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3672974
+[163]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3672978
+[164]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3672980
+[165]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3672982
+[166]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3672984
+[167]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM102594
+[168]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM2136500
+[169]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM102599
+[170]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM2136542
+[171]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM2136781
+[172]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM2136770
+[173]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM2136813
+[174]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM2136815
+[175]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM102900
+[176]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM410344
+[177]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM243611
+[178]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198380
+[179]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3673055
+[180]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198381
+[181]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3673056
+[182]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM133619
+[183]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM134169
+[184]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3673057
+[185]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3360714
+[186]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198382
+[187]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198383
+[188]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM4777838
+[189]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM89493
+[190]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198385
+[191]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198386
+[192]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM4777841
+[193]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM396434
+[194]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM103473
+[195]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3673075
+[196]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM133638
+[197]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM133648
+[198]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198387
+[199]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM4777842
+[200]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198388
+[201]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3673085
+[202]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM29797
+[203]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM29799
+[204]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM29438
+[205]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM29446
+[206]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198389
+[207]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM2137105
+[208]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM4484406
+[209]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM96981
+[210]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM89917
+[211]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM346648
+[212]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198390
+[213]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM4777852
+[214]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM89948
+[215]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM89950
+[216]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM89951
+[217]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3673099
+[218]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM328526
+[219]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM328528
+[220]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM328753
+[221]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM328755
+[222]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM329990
+[223]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM330374
+[224]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM330373
+[225]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3231004
+[226]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3232235
+[227]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3231705
+[228]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM325842
+[229]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM296638
+[230]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3231793
+[231]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM4484407
+[232]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM273056
+[233]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM393659
+[234]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM393663
+[235]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM393664
+[236]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM393462
+[237]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM4090585
+[238]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM4090586
+[239]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3231068
+[240]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3231729
+[241]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM4090503
+[242]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM4090909
+[243]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM4091810
+[244]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM4090947
+[245]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM4090590
+[246]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM5561123
+[247]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM5155241
+[248]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM4091033
+[249]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM4091069
+[250]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM4091370
+[251]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM4091373
+[252]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM4091616
+[253]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM4092438
+[254]: http://www.legislation.govt.nz/act/public/1986/0121/latest/whole.html#DLM97355
+[255]: http://www.legislation.govt.nz/act/public/1986/0121/latest/whole.html#DLM97358
+[256]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM173957
+[257]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM31565
+[258]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM29497
+[259]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3673106
+[260]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM1448009
+[261]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM279941
+[262]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM89991
+[263]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM56592
+[264]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM434460
+[265]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM5561103
+[266]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM5945616
+[267]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM2998516
+[268]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM2998515
+[269]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM2998532
+[270]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[271]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM3672903
+[272]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM4484400
+[273]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM2571100
+[274]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM1448000
+[275]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM384850
+[276]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198928
+[277]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM198369
+[278]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM76803
+[279]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM410335
+[280]: http://www.legislation.govt.nz/act/public/1986/0121/latest/link.aspx?id=DLM344669
