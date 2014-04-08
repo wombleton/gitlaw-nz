@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -2284,9 +2284,15 @@ Investigation and enforcement
 
 ##### 44G Terms of management banning orders
     
-*   A management banning order may, for a period stated in the order of 10 years or less, prohibit or restrict the person (without the leave of the court) from being a director or promoter of, or in any way (whether directly or indirectly) being concerned or taking part in the management of, an incorporated or unincorporated body (other than an overseas company, or an incorporated or unincorporated body, that does not carry on business in New Zealand).
+*   (1) A management banning order may, permanently or for a period specified in the order, prohibit or restrict the person (without the leave of the court) from being a director or promoter of, or in any way (whether directly or indirectly) being concerned or taking part in the management of, an incorporated or unincorporated body (other than an overseas company, or an incorporated or unincorporated body, that does not carry on business in New Zealand).
+    
+    (2) The court may make a management banning order permanent or for a period longer than 10 years only in the most serious of cases for which an order may be made.
     
     Section 44G: inserted, on 25 October 2006, by [section 24][291] of the Takeovers Amendment Act 2006 (2006 No 48).
+    
+    Section 44G(1): amended, on 1 April 2014, by [section 150][296] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
+    
+    Section 44G(2): inserted, on 1 April 2014, by [section 150][296] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
 
 ##### 44H Offence of contravening management banning order
     
@@ -2298,7 +2304,7 @@ Investigation and enforcement
 
 ##### 44I Only 1 management banning order may be made for same conduct
     
-*   If conduct by a person constitutes grounds for making an order under any 1 or more of [section 44F][134] of this Act, [section 60A][296] of the Securities Act 1978, [section 43F][297] of the Securities Markets Act 1988, and [section 383][298] of the Companies Act 1993, proceedings may be brought against that person under any 1 or more of those provisions, but no person is liable to more than 1 order under those provisions for the same conduct.
+*   If conduct by a person constitutes grounds for making an order under any 1 or more of [section 44F][134] of this Act, [section 60A][297] of the Securities Act 1978, [section 43F][298] of the Securities Markets Act 1988, and [section 383][299] of the Companies Act 1993, proceedings may be brought against that person under any 1 or more of those provisions, but no person is liable to more than 1 order under those provisions for the same conduct.
     
     Section 44I: inserted, on 25 October 2006, by [section 24][291] of the Takeovers Amendment Act 2006 (2006 No 48).
 
@@ -2352,7 +2358,7 @@ Investigation and enforcement
         
     *   (a) persons who are relatives within the meaning of the Income Tax Act 2007 or de facto partners; or
     
-    *   (b) persons who are partners to whom the [Partnership Act 1908][299] applies; or
+    *   (b) persons who are partners to whom the [Partnership Act 1908][300] applies; or
     
     *   (c) bodies corporate that consist of substantially the same shareholders or are under the control of the same persons; or
     
@@ -2368,7 +2374,7 @@ Investigation and enforcement
     
     Section 44L: inserted, on 25 October 2006, by [section 24][291] of the Takeovers Amendment Act 2006 (2006 No 48).
     
-    Section 44L(3) **associated persons** paragraph (a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][300] of the Income Tax Act 2007 (2007 No 97).
+    Section 44L(3) **associated persons** paragraph (a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][301] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 44M What orders may be made
     
@@ -2426,7 +2432,7 @@ Investigation and enforcement
     
 *   (1) Nothing in [sections 44L to 44N][141] affects the powers that the court has apart from those sections.
     
-    (2) This section has effect subject to the [Insolvency Act 1967][301].
+    (2) This section has effect subject to the [Insolvency Act 1967][302].
     
     Compare: Corporations Act 2001 s 1323(7), (8) (Aust)
     
@@ -2452,7 +2458,7 @@ Investigation and enforcement
 
 ##### 44PA Time limit for commencing proceedings for offence under section 44H, 44J, or 44P
     
-*   Despite anything to the contrary in [section 25][302] of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence against [section 44H][136], [44J][138], or [44P][145] of this Act.
+*   Despite anything to the contrary in [section 25][303] of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence against [section 44H][136], [44J][138], or [44P][145] of this Act.
     
     Section 44PA: inserted, on 1 July 2013, by [section 413][251] of the Criminal Procedure Act 2011 (2011 No 81).
 
@@ -2516,15 +2522,15 @@ Investigation and enforcement
     
     Section 44V: inserted, on 25 October 2006, by [section 24][291] of the Takeovers Amendment Act 2006 (2006 No 48).
     
-    Section 44V(c): amended, on 7 July 2010, by [section 19(1)][303] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 44V(c): amended, on 7 July 2010, by [section 19(1)][304] of the Takeovers Amendment Act 2010 (2010 No 88).
     
     Section 44V(c): amended, on 24 November 2009, by [section 23(1)][178] of the Securities Markets Amendment Act 2009 (2009 No 54).
     
-    Section 44V(d): amended, on 7 July 2010, by [section 19(2)][303] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 44V(d): amended, on 7 July 2010, by [section 19(2)][304] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 44V(f): amended, on 7 July 2010, by [section 19(2)][303] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 44V(f): amended, on 7 July 2010, by [section 19(2)][304] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 44V(g): amended, on 7 July 2010, by [section 19(2)][303] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 44V(g): amended, on 7 July 2010, by [section 19(2)][304] of the Takeovers Amendment Act 2010 (2010 No 88).
 
 ##### 44W Knowledge of matters presumed if employee or agent knows matters
     
@@ -2541,7 +2547,7 @@ Investigation and enforcement
 ## Part 4  
 Miscellaneous
     
-*   Part 4 heading: substituted, on 25 October 2006, by [section 25][304] of the Takeovers Amendment Act 2006 (2006 No 48).
+*   Part 4 heading: substituted, on 25 October 2006, by [section 25][305] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 45 Panel may grant exemptions
     
@@ -2555,7 +2561,7 @@ Miscellaneous
     
     (2) An exemption may be granted in respect of past acts or omissions only under subsection (1)(a).
     
-    (3) An exemption under this section is a disallowable instrument for the purposes of the [Legislation Act 2012][305] and must be presented to the House of Representatives under [section 41][306] of that Act.
+    (3) An exemption under this section is a disallowable instrument for the purposes of the [Legislation Act 2012][306] and must be presented to the House of Representatives under [section 41][307] of that Act.
     
     (4) An exemption under subsection (1)(a) or (b) must, as soon as practicable after being granted, be---
         
@@ -2565,7 +2571,7 @@ Miscellaneous
     
     *   (c) made available in printed form for purchase on request by members of the public.
     
-    (5) An exemption under subsection (1)(c) is of general application and must be published under [section 6][307] of the Legislation Act 2012\.
+    (5) An exemption under subsection (1)(c) is of general application and must be published under [section 6][308] of the Legislation Act 2012\.
     
     (6) The Panel's reasons for granting an exemption under this section must be published together with the exemption, and the reasons must include---
         
@@ -2611,13 +2617,13 @@ Miscellaneous
     
     *   (d) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
     
-    Section 46(a): repealed, on 1 June 2001, by [section 11(1)][308] of the Takeovers Amendment Act 2001 (2001 No 30).
+    Section 46(a): repealed, on 1 June 2001, by [section 11(1)][309] of the Takeovers Amendment Act 2001 (2001 No 30).
     
-    Section 46(c): substituted, on 1 June 2001, by [section 11(2)][308] of the Takeovers Amendment Act 2001 (2001 No 30).
+    Section 46(c): substituted, on 1 June 2001, by [section 11(2)][309] of the Takeovers Amendment Act 2001 (2001 No 30).
     
-    Section 46(ca): inserted, on 1 June 2001, by [section 11(2)][308] of the Takeovers Amendment Act 2001 (2001 No 30).
+    Section 46(ca): inserted, on 1 June 2001, by [section 11(2)][309] of the Takeovers Amendment Act 2001 (2001 No 30).
     
-    Section 46(cb): inserted, on 1 June 2001, by [section 11(2)][308] of the Takeovers Amendment Act 2001 (2001 No 30).
+    Section 46(cb): inserted, on 1 June 2001, by [section 11(2)][309] of the Takeovers Amendment Act 2001 (2001 No 30).
 
 ##### 47 Amendment to Official Information Act 1982
     
@@ -2637,13 +2643,13 @@ Miscellaneous
     
     (2) Despite subsection (1), Part 1 of the Companies Amendment Act 1963 continues in force in respect of the acquisition of shares in a company in any case where notice of a takeover scheme has, before the commencement of this section, been served on the company under section 4 of the Companies Amendment Act 1963\.
     
-    Section 49: substituted, on 1 July 2001, by [section 12(1)][309] of the Takeovers Amendment Act 2001 (2001 No 30).
+    Section 49: substituted, on 1 July 2001, by [section 12(1)][310] of the Takeovers Amendment Act 2001 (2001 No 30).
 
 ##### 50 Amendment to Public Finance Act 1989
     
 *   \[Repealed\]
     
-    Section 50: repealed, on 1 July 2001, by [section 12(1)][309] of the Takeovers Amendment Act 2001 (2001 No 30).
+    Section 50: repealed, on 1 July 2001, by [section 12(1)][310] of the Takeovers Amendment Act 2001 (2001 No 30).
 
 ---
 
@@ -2680,7 +2686,7 @@ Provisions applying to Takeovers Panel
     
     (3) At any meeting of the Panel the quorum shall be 3 members.
     
-    (4) Subclause (3) applies despite [clause 9][310] of Schedule 5 of the Crown Entities Act 2004\.
+    (4) Subclause (3) applies despite [clause 9][311] of Schedule 5 of the Crown Entities Act 2004\.
     
     Schedule clause 4(1): repealed, on 25 January 2005, by [section 200][177] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -2736,7 +2742,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Takeovers Amendment Act 2002][311].
+*   (1) This Act is the [Takeovers Amendment Act 2002][312].
     
     (2) In this Act, the Takeovers Act 1993 is called "the principal Act".
 
@@ -2764,7 +2770,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Takeovers Amendment Act 2006][312].
+*   This Act is the [Takeovers Amendment Act 2006][313].
 
 ##### 2 Commencement
     
@@ -2778,9 +2784,9 @@ Commencementsee section 2
     
     (3) For the purposes of subsection (2), 1 or more orders may be made bringing different provisions into force on different dates.
     
-    Section 2(2)(a): sections 44B to 44E of the Takeovers Act 1993 as inserted by section 24 brought into force, on 29 February 2008, by [clause 2(1)][313] of the Takeovers Amendment Act 2006 Commencement Order 2007 (SR 2007/368).
+    Section 2(2)(a): sections 44B to 44E of the Takeovers Act 1993 as inserted by section 24 brought into force, on 29 February 2008, by [clause 2(1)][314] of the Takeovers Amendment Act 2006 Commencement Order 2007 (SR 2007/368).
     
-    Section 2(2)(b): section 29 brought into force, on 29 February 2008, by [clause 2(2)][313] of the Takeovers Amendment Act 2006 Commencement Order 2007 (SR 2007/368).
+    Section 2(2)(b): section 29 brought into force, on 29 February 2008, by [clause 2(2)][314] of the Takeovers Amendment Act 2006 Commencement Order 2007 (SR 2007/368).
 
 #### Transitional provisions
 
@@ -2792,9 +2798,9 @@ Commencementsee section 2
     
     *   (b) by reason of the acquisition of securities in a code company, whether by that person or any other person, on or after the commencement of this section, if the acquisition arises from the performance of a contractual obligation incurred, or the exercise of a right acquired, before the commencement of this section.
     
-    Section 31(a): amended, on 7 July 2010, by [section 20][314] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 31(a): amended, on 7 July 2010, by [section 20][315] of the Takeovers Amendment Act 2010 (2010 No 88).
     
-    Section 31(b): amended, on 7 July 2010, by [section 20][314] of the Takeovers Amendment Act 2010 (2010 No 88).
+    Section 31(b): amended, on 7 July 2010, by [section 20][315] of the Takeovers Amendment Act 2010 (2010 No 88).
 
 ##### 32 Transitional provision for existing offences and contraventions
     
@@ -2820,17 +2826,19 @@ Commencementsee section 2
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][315] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][316] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][316] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][317] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][317] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][318] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][318] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][319] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][197]
+*   Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70): [section 150][296]
     
-    [Takeovers Amendment Act 2012][319] (2012 No 68)
+    Legislation Act 2012 (2012 No 119): [section 77(3)][197]
+    
+    [Takeovers Amendment Act 2012][320] (2012 No 68)
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][251]
     
@@ -2838,23 +2846,23 @@ Commencementsee section 2
     
     Financial Markets Authority Act 2011 (2011 No 5): [section 82][175]
     
-    [Takeovers Amendment Act 2010][320] (2010 No 88)
+    [Takeovers Amendment Act 2010][321] (2010 No 88)
     
     Financial Advisers Amendment Act 2010 (2010 No 40): [section 50][293]
     
     Securities Markets Amendment Act 2009 (2009 No 54): [section 23(1)][178]
     
-    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][300]
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][301]
     
-    [Takeovers Amendment Act 2006][312] (2006 No 48)
+    [Takeovers Amendment Act 2006][313] (2006 No 48)
     
     Crown Entities Act 2004 (2004 No 115): section 200
     
-    [Takeovers Amendment Act 2002][321] (2002 No 45)
+    [Takeovers Amendment Act 2002][322] (2002 No 45)
     
     Securities Markets Amendment Act 2002 (2002 No 44): [section 30][179]
     
-    [Takeovers Amendment Act 2001][322] (2001 No 30) 
+    [Takeovers Amendment Act 2001][323] (2001 No 30) 
     
     Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][176]
 
@@ -3156,30 +3164,31 @@ Commencementsee section 2
 [293]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM2607873
 [294]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM2651100
 [295]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM2651320
-[296]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM29434
-[297]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM141877
-[298]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM323252
-[299]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM172479
-[300]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM1523176
-[301]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM382333
-[302]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3360067
-[303]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044624
-[304]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384828
-[305]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM2997643
-[306]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM2998573
-[307]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM2997696
-[308]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM91746
-[309]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM91747
-[310]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM331142
-[311]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162660
-[312]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384516
-[313]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM1061129
-[314]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044625
-[315]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM2998516
-[316]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM2998515
-[317]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM2998532
-[318]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[319]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM4444800
-[320]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044600
-[321]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162662
-[322]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM91709
+[296]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM5561603
+[297]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM29434
+[298]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM141877
+[299]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM323252
+[300]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM172479
+[301]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM1523176
+[302]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM382333
+[303]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3360067
+[304]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044624
+[305]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384828
+[306]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM2997643
+[307]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM2998573
+[308]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM2997696
+[309]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM91746
+[310]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM91747
+[311]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM331142
+[312]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162660
+[313]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM384516
+[314]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM1061129
+[315]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044625
+[316]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM2998516
+[317]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM2998515
+[318]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM2998532
+[319]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[320]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM4444800
+[321]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM3044600
+[322]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM162662
+[323]: http://www.legislation.govt.nz/act/public/1993/0107/latest/link.aspx?id=DLM91709
