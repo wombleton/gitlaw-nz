@@ -1,5 +1,5 @@
 Reprint  
-as at 5 December 2013
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -333,39 +333,39 @@ This Act is administered by the Ministry of Business, Innovation, and Employment
 
 [89][142][][142][Office management][142]
 
-[Accounts and audit][143]
+[Accounting records and financial reporting][143]
 
-[90][144][][144][Accounts][144]
+[90][144][][144][Accounting records must be kept][144]
 
-[91][145][][145][Annual financial statements][145]
+[91][145][][145][Financial reporting][145]
 
-[91A][146][][146][Summary financial statements][146]
+[91A][146][][146][Summary financial statements][146] \[Repealed\]
 
-[92][147][][147][Half-yearly financial statements][147]
+[92][147][][147][Half-yearly financial statements must be prepared][147]
 
-[93][148][][148][Form and content of financial statements][148]
+[93][148][][148][Form and content of financial statements][148] \[Repealed\]
 
-[94][149][][149][Offences under sections 90 to 93][149]
+[94][149][][149][Offences under sections 90 to 93][149] \[Repealed\]
 
-[95][150][][150][Signing of financial statements][150]
+[95][150][][150][Directors' report][150]
 
-[96][151][][151][Documents required to be annexed to statements of financial position][151]
+[96][151][][151][Distribution of copies of financial statements and reports][151]
 
-[97][152][][152][Directors' report][152]
+[97][152][][152][Depositors and members entitled to be supplied with copy of financial statements][152]
 
-[97A][153][][153][Distribution of copies of financial statements and reports][153]
+[97A][153][][153][Offences relating to laying financial statements before annual general meeting, half-yearly financial statements, directors' report, and distribution of financial statements][153]
 
-[97B][154][][154][Election to receive summary financial statements][154]
+[97B][154][][154][Election to receive summary financial statements][154] \[Repealed\]
 
 [98][155][][155][Appointment of auditors][155]
 
 [99][156][][156][Resolutions as to appointment and removal of auditors][156]
 
-[100][157][][157][Disqualifications for appointment as auditor][157]
+[100][157][][157][Qualifications of auditors and access to information][157]
 
-[101][158][][158][Auditors' report, right of access to books, and right to attend meetings][158]
+[101][158][][158][Auditors' report and right to attend meetings][158]
 
-[102][159][][159][Accounts of groups in terminating society][159]
+[102][159][][159][Accounts of groups in terminating society][159] \[Repealed\]
 
 [Annual return][160]
 
@@ -572,6 +572,8 @@ Preliminary
     
     _annual return_ means the annual return required to be made by a society pursuant to [section 103][161]
     
+    _applicable auditing and assurance standard_ has the same meaning as in [section 5][243] of the Financial Reporting Act 2013
+    
     _board of directors_, in relation to a society managed by a committee of management, means that committee
     
     _bonus ballot_ means a ballot, held by or on behalf of a society, of eligible bonus balloting shares for the purpose of ascertaining which of the holders of those shares are entitled to receive any prizes arising in respect of those shares
@@ -580,17 +582,21 @@ Preliminary
     
     _building society_, or _society_, means a building society incorporated under this Act or under the Building Societies Act 1908
     
-    _court_ means a District Court in any case where District Courts have jurisdiction under the [District Courts Act 1947][243] in relation to this Act or to building societies; and in any other case means the High Court or a Judge thereof
+    _court_ means a District Court in any case where District Courts have jurisdiction under the [District Courts Act 1947][244] in relation to this Act or to building societies; and in any other case means the High Court or a Judge thereof
     
-    _debt security_ has the same meaning as in [section 2][244] of the Securities Act 1978
+    _debt security_ has the same meaning as in [section 2][245] of the Securities Act 1978
     
     _director_ includes a member of a committee of management of a society, and any other person occupying the position of director, by whatever name called
     
     _disposition_, in relation to any land, means any disposition of that land _inter vivos_, and includes the grant of a lease or underlease; and _acquisition_ has a corresponding meaning
     
-    _financial year_, in relation to any society, means the period in respect of which any revenue and appropriation account of the society laid before it at the annual general meeting is made up, whether that period is a year or not
+    _financial statements_ has the same meaning as in [section 6][246] of the Financial Reporting Act 2013
     
-    _FMA_ means the Financial Markets Authority established under [Part 2][245] of the Financial Markets Authority Act 2011
+    _financial year_, in relation to a society, means a year ending on a balance date of the society (within the meaning of [section 41][247] of the Financial Reporting Act 2013), and if, as a result of the date of the incorporation of the society or a change of the balance date of the society, the period ending on that date is longer or shorter than a year, that longer or shorter period is a financial year
+    
+    _FMA_ means the Financial Markets Authority established under [Part 2][248] of the Financial Markets Authority Act 2011
+    
+    _generally accepted accounting practice_ has the same meaning as in [section 8][249] of the Financial Reporting Act 2013
     
     _instrument_ includes---
         
@@ -604,15 +610,13 @@ Preliminary
     
     *   (b) a licensee's interest under---
             
-        *   (i) a licence to occupy (within the meaning of [section 121A][246] of the Land Transfer Act 1952); or
+        *   (i) a licence to occupy (within the meaning of [section 121A][250] of the Land Transfer Act 1952); or
         
-        *   (ii) a deferred payment licence (within the meaning of [section 2][247] of the Land Act 1948)
+        *   (ii) a deferred payment licence (within the meaning of [section 2][251] of the Land Act 1948)
         
         
     
     _liabilities_ means liabilities, debts, charges, duties, and obligations of every description (whether present or future, actual or contingent, and whether payable or to be observed or performed in New Zealand or elsewhere)
-    
-    _licensed auditor_ has the same meaning as in [section 6][248] of the Auditor Regulation Act 2011
     
     _member_, in relation to a society, includes---
         
@@ -624,7 +628,7 @@ Preliminary
     
     _officer_, in relation to a society, includes a director, manager, or secretary
     
-    _participatory security_ has the same meaning as in [section 2][244] of the Securities Act 1978
+    _participatory security_ has the same meaning as in [section 2][245] of the Securities Act 1978
     
     _permanent society_ has the meaning assigned to it by [section 10][20]
     
@@ -640,9 +644,7 @@ Preliminary
     
     _purchase price_, in respect of any leasehold estate in land, means any sum payable as the consideration, or as part of the consideration, for the grant or assignment of the lease
     
-    _registered audit firm_ has the same meaning as in [section 6][248] of the Auditor Regulation Act 2011
-    
-    _registered valuer_ means a valuer for the time being registered under the [Valuers Act 1948][249]
+    _registered valuer_ means a valuer for the time being registered under the [Valuers Act 1948][252]
     
     _Registrar_ means the Registrar of Building Societies under this Act
     
@@ -656,7 +658,7 @@ Preliminary
     
     _terminating society_ has the meaning assigned to it by [section 10][20]; and, where a permanent society in existence at the commencement of this Act had, on 1 August 1965, shareholders in terminating groups, includes that part of the society's activities which relates to terminating groups.
     
-    (2) For the purposes of [Part 7A][174], _conversion date_ means the date shown on the certificate of incorporation of a society as a company under the [Companies Act 1993][250] issued pursuant to [section 113D][178].
+    (2) For the purposes of [Part 7A][174], _conversion date_ means the date shown on the certificate of incorporation of a society as a company under the [Companies Act 1993][253] issued pursuant to [section 113D][178].
     
     (3) For the purposes of any enactment in this Act which provides that an officer of a society who is in default shall be liable on conviction to imprisonment or to a fine, the expression _officer who is in default_ means any officer of the society who knowingly and wilfully authorises or permits the default, refusal, or contravention mentioned in the enactment.
     
@@ -664,57 +666,65 @@ Preliminary
     
     (5) Any reference in this Act to contravention of any provision of this Act, or of any regulations or directions thereunder, shall include a reference to failure to comply with that provision.
     
-    Section 2: replaced, on 1 September 1987, by [section 2][251] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 2: replaced, on 1 September 1987, by [section 2][254] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 2(1) **appropriate District Registrar of Companies**: repealed, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 2(1) **applicable auditing and assurance standard**: inserted, on 1 April 2014, by [section 5(3)][255] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 2(1) **FMA**: inserted, on 1 May 2011, by [section 82][253] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 2(1) **appropriate District Registrar of Companies**: repealed, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
     
-    Section 2(1) **land**: replaced, on 1 January 2008, by [section 364(1)][254] of the Property Law Act 2007 (2007 No 91).
+    Section 2(1) **financial statements**: inserted, on 1 April 2014, by [section 5(3)][255] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 2(1) **licensed auditor**: inserted, on 1 July 2012, by [section 82][255] of the Auditor Regulation Act 2011 (2011 No 21).
+    Section 2(1) **financial year**: replaced, on 1 April 2014, by [section 5(1)][255] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 2(1) **Minister**: replaced, on 1 October 1995, by [section 10(3)][256] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 2(1) **FMA**: inserted, on 1 May 2011, by [section 82][257] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 2(1) **registered audit firm**: inserted, on 1 July 2012, by [section 82][255] of the Auditor Regulation Act 2011 (2011 No 21).
+    Section 2(1) **generally accepted accounting practice**: inserted, on 1 April 2014, by [section 5(3)][255] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 2(1) **security**: amended, on 1 May 2002, by [section 191(1)][257] of the Personal Property Securities Act 1999 (1999 No 126).
+    Section 2(1) **land**: replaced, on 1 January 2008, by [section 364(1)][258] of the Property Law Act 2007 (2007 No 91).
     
-    Section 2(2): amended, on 5 December 2013, by [section 14][258] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 2(1) **licensed auditor**: repealed, on 1 April 2014, by [section 5(2)][255] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 2(3): amended, on 1 July 2013, by [section 413][259] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 2(1) **Minister**: replaced, on 1 October 1995, by [section 10(3)][259] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    
+    Section 2(1) **registered audit firm**: repealed, on 1 April 2014, by [section 5(2)][255] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 2(1) **security**: amended, on 1 May 2002, by [section 191(1)][260] of the Personal Property Securities Act 1999 (1999 No 126).
+    
+    Section 2(2): amended, on 5 December 2013, by [section 14][261] of the Companies Amendment Act 2013 (2013 No 111).
+    
+    Section 2(3): amended, on 1 July 2013, by [section 413][262] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 2(4): repealed, on 20 November 1989, by section 2(1) of the Building Societies Amendment Act 1989 (1989 No 111).
 
 ##### 3 Registrar of Building Societies
     
-*   For the purposes of this Act, there shall from time to time be appointed under the [State Sector Act 1988][260] a Registrar of Building Societies.
+*   For the purposes of this Act, there shall from time to time be appointed under the [State Sector Act 1988][263] a Registrar of Building Societies.
     
     Compare: 1908 No 18 s 4; 1955 No 97 s 3(1)
     
-    Section 3: amended, on 1 April 1988, pursuant to [section 90(a)][261] of the State Sector Act 1988 (1988 No 20).
+    Section 3: amended, on 1 April 1988, pursuant to [section 90(a)][264] of the State Sector Act 1988 (1988 No 20).
 
 ##### 4 Deputy Registrars of Building Societies
     
-*   (1) There may also be 1 or more Deputy Registrars of Building Societies appointed under the [State Sector Act 1988][260].
+*   (1) There may also be 1 or more Deputy Registrars of Building Societies appointed under the [State Sector Act 1988][263].
     
     (2) A Deputy Registrar has and may exercise the powers, duties, and functions of the Registrar under this Act (subject to the control of the Registrar).
     
     (3) The fact that a Deputy Registrar exercises those powers, duties, or functions is conclusive evidence of the authority to do so.
     
-    Section 4: replaced, on 20 September 2007, by [section 4][262] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 4: replaced, on 20 September 2007, by [section 4][265] of the Building Societies Amendment Act 2007 (2007 No 43).
 
 ##### 5 Official seal
     
 *   \[Repealed\]
     
-    Section 5: repealed, on 20 September 2007, by [section 5][263] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 5: repealed, on 20 September 2007, by [section 5][266] of the Building Societies Amendment Act 2007 (2007 No 43).
 
 ##### 6 Registers to be kept
     
 *   \[Repealed\]
     
-    Section 6: repealed, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 6: repealed, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
 
 ##### 7 Annual report by Registrar
     
@@ -726,20 +736,20 @@ Preliminary
     
 *   \[Repealed\]
     
-    Section 8: repealed, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 8: repealed, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
 
 ## Part 2  
 Constitution of building societies
 
 #### Functions and general powers of building societies
     
-*   Heading: replaced, on 1 September 1987, by [section 4(1)][264] of the Building Societies Amendment Act 1987 (1987 No 175).
+*   Heading: replaced, on 1 September 1987, by [section 4(1)][267] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 9 Purpose for which building society may be established
     
 *   \[Repealed\]
     
-    Section 9: repealed, on 1 September 1987, by [section 4(1)][264] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 9: repealed, on 1 September 1987, by [section 4(1)][267] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 9A Functions of building societies
     
@@ -775,7 +785,7 @@ Constitution of building societies
     
     (2) No society registered under this Act shall be required to carry on all of the functions referred to in subsection (1) if the society carries on 1 or more of those functions.
     
-    Section 9A: inserted, on 1 September 1987, by [section 4(1)][264] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 9A: inserted, on 1 September 1987, by [section 4(1)][267] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 9B Powers of building societies
     
@@ -787,7 +797,7 @@ Constitution of building societies
     
     *   (b) by or through an agent, attorney, contractor, trustee, or otherwise.
     
-    Section 9B: inserted, on 1 September 1987, by [section 4(1)][264] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 9B: inserted, on 1 September 1987, by [section 4(1)][267] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 9C Ultra vires transactions
     
@@ -813,11 +823,11 @@ Constitution of building societies
     
     (5) Every proceeding to which subsection (2)(a) or subsection (2)(b) applies shall, notwithstanding anything to the contrary in the rules of the society or in [sections 108 to 113][168], be heard and determined by the court and not by arbitration.
     
-    Section 9C: inserted (with effect on 1 January 1966 and applying to any thing done by a society and any conveyance or transfer of any property to or by a society whether before or after this date, but not applying to or affecting any proceedings instituted or commenced before 1 September 1987), on 1 September 1987, by [section 4(1)][264] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 9C: inserted (with effect on 1 January 1966 and applying to any thing done by a society and any conveyance or transfer of any property to or by a society whether before or after this date, but not applying to or affecting any proceedings instituted or commenced before 1 September 1987), on 1 September 1987, by [section 4(1)][267] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 9C(2)(c): replaced, on 1 July 1994, by [section 2][265] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 9C(2)(c): replaced, on 1 July 1994, by [section 2][268] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
-    Section 9C(2)(c): amended, on 1 May 2011, by [section 82][253] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 9C(2)(c): amended, on 1 May 2011, by [section 82][257] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 9D Registration of documents not to constitute constructive notice
     
@@ -835,9 +845,9 @@ Constitution of building societies
     
     *   (b) available for inspection at an office of the society.
     
-    Section 9D: inserted (with effect on 1 January 1966, but not applying to or affecting any proceedings instituted or commenced before 1 September 1987), on 1 September 1987, by [section 4(1)][264] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 9D: inserted (with effect on 1 January 1966, but not applying to or affecting any proceedings instituted or commenced before 1 September 1987), on 1 September 1987, by [section 4(1)][267] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 9D(a)(iii): repealed, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 9D(a)(iii): repealed, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
 
 ##### 9E Dealings between society and other persons
     
@@ -895,7 +905,7 @@ Constitution of building societies
     
     *   (g) a person referred to in paragraph (c)(ii) was not a director or secretary of the society, as the case may be.
     
-    Section 9E: inserted (with effect on 1 January 1966, but not applying to or affecting any proceedings instituted or commenced before 1 September 1987), on 1 September 1987, by [section 4(1)][264] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 9E: inserted (with effect on 1 January 1966, but not applying to or affecting any proceedings instituted or commenced before 1 September 1987), on 1 September 1987, by [section 4(1)][267] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 9F Effect of fraud
     
@@ -907,7 +917,7 @@ Constitution of building societies
     
     unless the person dealing with the society or with the person who has acquired any property, rights, or interests from the society has actual knowledge of the fraud or forgery.
     
-    Section 9F: inserted (with effect on 1 January 1966, but not applying to or affecting any proceedings instituted or commenced before 1 September 1987), on 1 September 1987, by [section 4(1)][264] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 9F: inserted (with effect on 1 January 1966, but not applying to or affecting any proceedings instituted or commenced before 1 September 1987), on 1 September 1987, by [section 4(1)][267] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 10 Permanent and terminating societies
     
@@ -931,7 +941,7 @@ Constitution of building societies
     
     (5) Notwithstanding subsection (1), no terminating society shall be first registered under this Act on or after 1 April 1981\.
     
-    Section 10: replaced, on 22 December 1980, by [section 3][266] of the Building Societies Amendment Act 1980 (1980 No 92).
+    Section 10: replaced, on 22 December 1980, by [section 3][269] of the Building Societies Amendment Act 1980 (1980 No 92).
 
 ##### 11 Power to raise and repay funds
     
@@ -947,7 +957,7 @@ Constitution of building societies
     
 *   \[Repealed\]
     
-    Section 12: repealed, on 1 September 1987, by [section 5][267] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 12: repealed, on 1 September 1987, by [section 5][270] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 #### Establishment and incorporation of societies
 
@@ -961,7 +971,7 @@ Constitution of building societies
     
     Compare: 1908 No 18 ss 7, 13; 1955 No 97 s 5(a); Building Societies Act 1962 s 1(3) (UK)
     
-    Section 13(b): amended, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 13(b): amended, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
 
 ##### 14 Registration of rules of society
     
@@ -975,7 +985,7 @@ Constitution of building societies
     
     *   (b) send a certificate of incorporation to the building society.
     
-    Section 14: replaced, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 14: replaced, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
 
 ##### 15 Incorporation of society
     
@@ -991,7 +1001,7 @@ Constitution of building societies
     
     Compare: 1908 No 18 s 15
     
-    Section 16: amended, on 1 April 1980, pursuant to [section 12][268] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 16: amended, on 1 April 1980, pursuant to [section 12][271] of the Judicature Amendment Act 1979 (1979 No 124).
 
 #### Rules of society
 
@@ -1091,45 +1101,45 @@ Constitution of building societies
     
     Compare: 1908 No 18 ss 11, 21; Building Societies Act 1962 ss 4, 130, Eighth Schedule (para 3) (UK)
     
-    Section 17(1)(f): repealed, on 1 September 1987, by [section 6(1)][269] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 17(1)(f): repealed, on 1 September 1987, by [section 6(1)][272] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 17(1)(g): repealed, on 1 September 1987, by [section 6(1)][269] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 17(1)(g): repealed, on 1 September 1987, by [section 6(1)][272] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 17(1)(h): amended, on 1 September 1987, by [section 38][270] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 17(1)(h): amended, on 1 September 1987, by [section 38][273] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 17(1)(h): amended, on 22 December 1980, by [section 4(1)][271] of the Building Societies Amendment Act 1980 (1980 No 92).
+    Section 17(1)(h): amended, on 22 December 1980, by [section 4(1)][274] of the Building Societies Amendment Act 1980 (1980 No 92).
     
-    Section 17(1)(j): repealed, on 1 September 1987, by [section 6(2)][269] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 17(1)(j): repealed, on 1 September 1987, by [section 6(2)][272] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 17(1)(k): repealed, on 1 September 1987, by [section 6(2)][269] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 17(1)(k): repealed, on 1 September 1987, by [section 6(2)][272] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 17(1)(ka): inserted, on 1 September 1987, by [section 6(2)][269] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 17(1)(ka): inserted, on 1 September 1987, by [section 6(2)][272] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 17(1)(kb): inserted, on 1 September 1987, by [section 6(2)][269] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 17(1)(kb): inserted, on 1 September 1987, by [section 6(2)][272] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 17(1)(kc): inserted, on 1 September 1987, by [section 6(2)][269] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 17(1)(kc): inserted, on 1 September 1987, by [section 6(2)][272] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 17(1)(kd): inserted, on 1 September 1987, by [section 6(2)][269] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 17(1)(kd): inserted, on 1 September 1987, by [section 6(2)][272] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 17(1)(ke): inserted, on 1 September 1987, by [section 6(2)][269] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 17(1)(ke): inserted, on 1 September 1987, by [section 6(2)][272] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 17(1)(p): amended, on 27 November 1970, by [section 8(2)(a)][272] of the Building Societies Amendment Act 1970 (1970 No 117).
+    Section 17(1)(p): amended, on 27 November 1970, by [section 8(2)(a)][275] of the Building Societies Amendment Act 1970 (1970 No 117).
     
-    Section 17(1)(t): inserted, on 22 December 1980, by [section 4(2)][271] of the Building Societies Amendment Act 1980 (1980 No 92).
+    Section 17(1)(t): inserted, on 22 December 1980, by [section 4(2)][274] of the Building Societies Amendment Act 1980 (1980 No 92).
     
-    Section 17(5): replaced, on 22 December 1980, by [section 4(3)][271] of the Building Societies Amendment Act 1980 (1980 No 92).
+    Section 17(5): replaced, on 22 December 1980, by [section 4(3)][274] of the Building Societies Amendment Act 1980 (1980 No 92).
     
-    Section 17(5): amended, on 1 September 1987, by [section 38][270] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 17(5): amended, on 1 September 1987, by [section 38][273] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 17(5A): inserted, on 22 December 1980, by [section 4(3)][271] of the Building Societies Amendment Act 1980 (1980 No 92).
+    Section 17(5A): inserted, on 22 December 1980, by [section 4(3)][274] of the Building Societies Amendment Act 1980 (1980 No 92).
     
-    Section 17(5B): inserted, on 22 December 1980, by [section 4(3)][271] of the Building Societies Amendment Act 1980 (1980 No 92).
+    Section 17(5B): inserted, on 22 December 1980, by [section 4(3)][274] of the Building Societies Amendment Act 1980 (1980 No 92).
     
-    Section 17(5B)(c): repealed, on 1 September 1987, by [section 6(3)][269] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 17(5B)(c): repealed, on 1 September 1987, by [section 6(3)][272] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 17(6): repealed, on 22 December 1980, by [section 4(4)][271] of the Building Societies Amendment Act 1980 (1980 No 92).
+    Section 17(6): repealed, on 22 December 1980, by [section 4(4)][274] of the Building Societies Amendment Act 1980 (1980 No 92).
     
-    Section 17(7): repealed, on 22 December 1980, by [section 4(4)][271] of the Building Societies Amendment Act 1980 (1980 No 92).
+    Section 17(7): repealed, on 22 December 1980, by [section 4(4)][274] of the Building Societies Amendment Act 1980 (1980 No 92).
 
 ##### 18 Effect of rules
     
@@ -1137,7 +1147,7 @@ Constitution of building societies
     
     (2) No lender or other person dealing with a society shall be concerned to see or inquire whether any restriction on the power of a society to borrow money imposed by the rules of a society is observed.
     
-    Section 18: replaced, on 1 September 1987, by [section 7][273] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 18: replaced, on 1 September 1987, by [section 7][276] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 19 Alteration of rules
     
@@ -1161,17 +1171,17 @@ Constitution of building societies
     
     Compare: 1908 No 18 ss 18, 19, 20; 1955 No 97 ss 2(3), 5(c), (d); Building Societies Act 1962 s 17 (UK)
     
-    Section 19(2): replaced, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 19(2): replaced, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
     
-    Section 19(3): replaced, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 19(3): replaced, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
     
-    Section 19(3A): inserted, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 19(3A): inserted, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
     
-    Section 19(4): replaced, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 19(4): replaced, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
     
-    Section 19(5): replaced, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 19(5): replaced, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
     
-    Section 19(6): amended, on 1 April 1980, pursuant to [section 12][268] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 19(6): amended, on 1 April 1980, pursuant to [section 12][271] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 20 Copies of rules to be supplied on request
     
@@ -1183,7 +1193,7 @@ Constitution of building societies
     
     Compare: 1908 No 18 s 17; Building Societies Act 1962 s 107 (UK)
     
-    Section 20(3): amended, on 1 July 2013, by [section 413][259] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 20(3): amended, on 1 July 2013, by [section 413][262] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Name of society
 
@@ -1205,11 +1215,11 @@ Constitution of building societies
     
     Compare: 1908 No 18 s 16; 1951 No 37; Building Societies Act 1962 s 2(2) (UK)
     
-    Section 21(1)(b): repealed, on 31 December 1981, by [section 5(1)][274] of the Building Societies Amendment Act 1980 (1980 No 92).
+    Section 21(1)(b): repealed, on 31 December 1981, by [section 5(1)][277] of the Building Societies Amendment Act 1980 (1980 No 92).
     
-    Section 21(1A): repealed, on 1 September 1987, by [section 9][275] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 21(1A): repealed, on 1 September 1987, by [section 9][278] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 21(4): inserted, on 31 December 1981, by [section 5(3)][274] of the Building Societies Amendment Act 1980 (1980 No 92).
+    Section 21(4): inserted, on 31 December 1981, by [section 5(3)][277] of the Building Societies Amendment Act 1980 (1980 No 92).
 
 ##### 22 Society to use registered name
     
@@ -1221,7 +1231,7 @@ Constitution of building societies
     
     Compare: Building Societies Act 1962 s 15 (UK)
     
-    Section 22(2): amended, on 1 July 2013, by [section 413][259] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 22(2): amended, on 1 July 2013, by [section 413][262] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 23 Change of name
     
@@ -1241,11 +1251,11 @@ Constitution of building societies
     
     Compare: 1908 No 18 s 24; Building Societies Act 1962 s 16 (UK)
     
-    Section 23(3): amended, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 23(3): amended, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
     
-    Section 23(4): amended, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 23(4): amended, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
     
-    Section 23(5): repealed, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 23(5): repealed, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
 
 #### Membership
 
@@ -1257,7 +1267,7 @@ Constitution of building societies
     
     Compare: Building Societies Act 1962 s 8 (UK)
     
-    Section 24(2): amended, on 1 September 1987, by [section 38][270] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 24(2): amended, on 1 September 1987, by [section 38][273] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 25 Members under age of 20
     
@@ -1265,11 +1275,11 @@ Constitution of building societies
     
     Compare: 1908 No 18 s 42; Building Societies Act 1962 s 9 (UK)
     
-    Section 25 heading: amended, on 1 January 1971, by [section 6][276] of the Age of Majority Act 1970 (1970 No 137).
+    Section 25 heading: amended, on 1 January 1971, by [section 6][279] of the Age of Majority Act 1970 (1970 No 137).
     
-    Section 25: amended, on 22 December 1980, by [section 6][277] of the Building Societies Amendment Act 1980 (1980 No 92).
+    Section 25: amended, on 22 December 1980, by [section 6][280] of the Building Societies Amendment Act 1980 (1980 No 92).
     
-    Section 25: amended, on 1 January 1971, by [section 6][276] of the Age of Majority Act 1970 (1970 No 137).
+    Section 25: amended, on 1 January 1971, by [section 6][279] of the Age of Majority Act 1970 (1970 No 137).
 
 ##### 26 Joint shareholders
     
@@ -1289,53 +1299,53 @@ Constitution of building societies
     
     Compare: 1908 No 18 s 9; Building Societies Act 1962 s 11 (UK)
     
-    Section 27(1): amended, on 1 September 1987, by [section 38][270] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 27(1): amended, on 1 September 1987, by [section 38][273] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 27(2): amended, on 1 September 1987, by [section 38][270] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 27(2): amended, on 1 September 1987, by [section 38][273] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 27(3): amended, on 1 September 1987, by [section 38][270] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 27(3): amended, on 1 September 1987, by [section 38][273] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 #### Purchase of shares in terminating societies
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 April 1981, by [section 7(1)(a)][278] of the Building Societies Amendment Act 1980 (1980 No 92).
+*   Heading: repealed, on 1 April 1981, by [section 7(1)(a)][281] of the Building Societies Amendment Act 1980 (1980 No 92).
 
 ##### 27A Interpretation
     
 *   \[Repealed\]
     
-    Section 27A: repealed, on 1 April 1981, by [section 7(1)(a)][278] of the Building Societies Amendment Act 1980 (1980 No 92).
+    Section 27A: repealed, on 1 April 1981, by [section 7(1)(a)][281] of the Building Societies Amendment Act 1980 (1980 No 92).
 
 ##### 27B Agreements to purchase shares
     
 *   \[Repealed\]
     
-    Section 27B: repealed, on 1 April 1981, by [section 7(1)(a)][278] of the Building Societies Amendment Act 1980 (1980 No 92).
+    Section 27B: repealed, on 1 April 1981, by [section 7(1)(a)][281] of the Building Societies Amendment Act 1980 (1980 No 92).
 
 ##### 27C Right of purchaser to cancel agreement
     
 *   \[Repealed\]
     
-    Section 27C: repealed, on 1 April 1981, by [section 7(1)(a)][278] of the Building Societies Amendment Act 1980 (1980 No 92).
+    Section 27C: repealed, on 1 April 1981, by [section 7(1)(a)][281] of the Building Societies Amendment Act 1980 (1980 No 92).
 
 ##### 27D Effect of cancellation of agreement
     
 *   \[Repealed\]
     
-    Section 27D: repealed, on 1 April 1981, by [section 7(1)(a)][278] of the Building Societies Amendment Act 1980 (1980 No 92).
+    Section 27D: repealed, on 1 April 1981, by [section 7(1)(a)][281] of the Building Societies Amendment Act 1980 (1980 No 92).
 
 ##### 27E No contracting out
     
 *   \[Repealed\]
     
-    Section 27E: repealed, on 1 April 1981, by [section 7(1)(a)][278] of the Building Societies Amendment Act 1980 (1980 No 92).
+    Section 27E: repealed, on 1 April 1981, by [section 7(1)(a)][281] of the Building Societies Amendment Act 1980 (1980 No 92).
 
 ##### 27F Schedule 7 may be amended
     
 *   \[Repealed\]
     
-    Section 27F: repealed, on 1 April 1981, by [section 7(1)(a)][278] of the Building Societies Amendment Act 1980 (1980 No 92).
+    Section 27F: repealed, on 1 April 1981, by [section 7(1)(a)][281] of the Building Societies Amendment Act 1980 (1980 No 92).
 
 #### Commencement of business
 
@@ -1349,9 +1359,9 @@ Constitution of building societies
     
     Compare: 1908 No 18 s 49; Building Societies Act 1962 s 12(1) (UK)
     
-    Section 28(2): replaced, on 1 July 2013, by [section 413][259] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 28(2): replaced, on 1 July 2013, by [section 413][262] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 28(3): inserted, on 1 July 2013, by [section 413][259] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 28(3): inserted, on 1 July 2013, by [section 413][262] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 29 Minimum subscription by founding members
     
@@ -1375,29 +1385,29 @@ Constitution of building societies
     
     Compare: Building Societies Act 1962 s 13 (UK)
     
-    Section 29(1): replaced, on 22 December 1980, by [section 8(1)][279] of the Building Societies Amendment Act 1980 (1980 No 92).
+    Section 29(1): replaced, on 22 December 1980, by [section 8(1)][282] of the Building Societies Amendment Act 1980 (1980 No 92).
     
-    Section 29(1): amended, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 29(1): amended, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
     
-    Section 29(3): amended, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 29(3): amended, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
     
-    Section 29(5): amended, on 1 July 2013, by [section 413][259] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 29(5): amended, on 1 July 2013, by [section 413][262] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 30 Commencement of advertising
     
 *   \[Repealed\]
     
-    Section 30: repealed, on 1 September 1987, by [section 10][280] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 30: repealed, on 1 September 1987, by [section 10][283] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 31 Commencement of balloting for appropriations
     
 *   \[Repealed\]
     
-    Section 31: repealed, on 1 April 1981, by [section 7(1)(c)][278] of the Building Societies Amendment Act 1980 (1980 No 92).
+    Section 31: repealed, on 1 April 1981, by [section 7(1)(c)][281] of the Building Societies Amendment Act 1980 (1980 No 92).
 
 #### Bonus balloting shares and bonus ballots
     
-*   Heading: inserted, on 1 April 1981, by [section 9(1)][281] of the Building Societies Amendment Act 1980 (1980 No 92).
+*   Heading: inserted, on 1 April 1981, by [section 9(1)][284] of the Building Societies Amendment Act 1980 (1980 No 92).
 
 ##### 31A Bonus balloting shares and bonus ballots
     
@@ -1419,13 +1429,13 @@ Constitution of building societies
     
     (6) Notwithstanding subsection (5), it shall not be unlawful for a society, at the request of a prizewinner and instead of a cash prize, to advance money to that prizewinner, on the security of a mortgage of land, on such terms and conditions as may be agreed and as will yield to the prizewinner benefits approximately equivalent in value to the cash prize.
     
-    (7) The provisions of this section shall apply notwithstanding anything to the contrary in the [Gambling Act 2003][282].
+    (7) The provisions of this section shall apply notwithstanding anything to the contrary in the [Gambling Act 2003][285].
     
     (8) \[Repealed\]
     
-    Section 31A: inserted, on 1 April 1981, by [section 9(1)][281] of the Building Societies Amendment Act 1980 (1980 No 92).
+    Section 31A: inserted, on 1 April 1981, by [section 9(1)][284] of the Building Societies Amendment Act 1980 (1980 No 92).
     
-    Section 31A(7): amended, on 1 July 2004, by [section 374][283] of the Gambling Act 2003 (2003 No 51).
+    Section 31A(7): amended, on 1 July 2004, by [section 374][286] of the Gambling Act 2003 (2003 No 51).
     
     Section 31A(8): repealed (with effect on 1 April 1981 and applying with respect to the tax on income derived in the income year that commenced on that date and in every subsequent year), on 29 September 1981, by section 12(3) of the Income Tax Amendment Act 1981 (1981 No 33).
 
@@ -1439,9 +1449,9 @@ Constitution of building societies
     
     (3) If any society fails to send notice to the Registrar under subsection (2), the society, and every officer of the society who is in default, shall be guilty of an offence against this Act.
     
-    Section 32: replaced, on 1 September 1987, by [section 11][284] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 32: replaced, on 1 September 1987, by [section 11][287] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 32(2): amended, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 32(2): amended, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
 
 ##### 33 Transfer of engagements
     
@@ -1455,9 +1465,9 @@ Constitution of building societies
     
     (5) If a society fails to comply with subsection (3), the society, and every officer of the society who is in default, shall be guilty of an offence against this Act.
     
-    Section 33: replaced, on 1 September 1987, by [section 11][284] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 33: replaced, on 1 September 1987, by [section 11][287] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 33(3): amended, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 33(3): amended, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
 
 ##### 34 Supplementary provisions as to union and transfer of engagements
     
@@ -1483,13 +1493,13 @@ Constitution of building societies
     
     (7) A failure to comply with any of the provisions of subsections (1) and (2) shall not invalidate the union or transfer of engagements; but if the relevant society fails to comply with any of those provisions the society, and every officer of the society who is in default, shall be guilty of an offence against this Act.
     
-    Section 34: replaced, on 1 September 1987, by [section 11][284] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 34: replaced, on 1 September 1987, by [section 11][287] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 34(3): replaced, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 34(3): replaced, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
 
 #### Disposal of part of business undertaking
     
-*   Heading: inserted, on 1 September 1987, by [section 11][284] of the Building Societies Amendment Act 1987 (1987 No 175).
+*   Heading: inserted, on 1 September 1987, by [section 11][287] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 34A Power to dispose of part of business undertaking
     
@@ -1497,14 +1507,14 @@ Constitution of building societies
     
     (2) Nothing in subsection (1) authorises a society to sell or dispose of any part of the business undertaking of the society if that sale or disposition would result in the society uniting with any other society or transferring any of the society's engagements.
     
-    Section 34A: inserted, on 1 September 1987, by [section 11][284] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 34A: inserted, on 1 September 1987, by [section 11][287] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ## Part 3  
 Advances
 
 \[Repealed\]
     
-*   Part 3: repealed, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+*   Part 3: repealed, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 #### Special advances on mortgage
 
@@ -1516,7 +1526,7 @@ Advances
     
 *   \[Repealed\]
     
-    Section 35: repealed, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 35: repealed, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 36 Ordinary limitations on special advances
     
@@ -1538,55 +1548,55 @@ Advances
 
 #### General provisions as to advances on mortgage
     
-*   Heading: repealed, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+*   Heading: repealed, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 39 Meaning of **member** for the purposes of this Part
     
 *   \[Repealed\]
     
-    Section 39: repealed, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 39: repealed, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 40 Valuation of security
     
 *   \[Repealed\]
     
-    Section 40: repealed, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 40: repealed, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 41 Additional security for advances
     
 *   \[Repealed\]
     
-    Section 41: repealed, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 41: repealed, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 42 Record of advances
     
 *   \[Repealed\]
     
-    Section 42: repealed, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 42: repealed, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 43 Security taken from third party
     
 *   \[Repealed\]
     
-    Section 43: repealed, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 43: repealed, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 44 Arrangement for excess advance in connection with sale of property
     
 *   \[Repealed\]
     
-    Section 44: repealed, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 44: repealed, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 45 Implied warranty on advance to purchaser, unless notice given to the contrary
     
 *   \[Repealed\]
     
-    Section 45: repealed, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 45: repealed, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 46 Representation as to sufficiency of security
     
 *   \[Repealed\]
     
-    Section 46: repealed, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 46: repealed, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 47 Restrictions on second or subsequent mortgages
     
@@ -1598,80 +1608,80 @@ Advances
     
 *   \[Repealed\]
     
-    Section 48: repealed, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 48: repealed, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 49 Restriction on commissions for introduction of mortgage business
     
 *   \[Repealed\]
     
-    Section 49: repealed, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 49: repealed, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 50 Provisions as to sale of mortgaged property
     
 *   \[Repealed\]
     
-    Section 50: repealed, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 50: repealed, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 #### Advances on security of members' shares
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+*   Heading: repealed, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 51 Limitation on advances on security of members' shares
     
 *   \[Repealed\]
     
-    Section 51: repealed, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 51: repealed, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 #### Unsecured or other advances
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+*   Heading: repealed, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 51A Advances on security other than mortgage of land or members' shares, or without security
     
 *   \[Repealed\]
     
-    Section 51A: repealed, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 51A: repealed, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 #### Supplementary provisions
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+*   Heading: repealed, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 52 Power of Registrar to require actuary's certificate as to appropriations by ballot
     
 *   \[Repealed\]
     
-    Section 52: repealed, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 52: repealed, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 53 Memorandum of discharge of mortgage
     
 *   \[Repealed\]
     
-    Section 53: repealed, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 53: repealed, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ## Part 4  
 Investment and banking of surplus funds
 
 \[Repealed\]
     
-*   Part 4: repealed, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+*   Part 4: repealed, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 54 Interpretation
     
 *   \[Repealed\]
     
-    Section 54: repealed, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 54: repealed, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 55 Investment and banking of surplus funds
     
 *   \[Repealed\]
     
-    Section 55: repealed, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 55: repealed, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 55A Societies to hold certain public securities
     
@@ -1682,7 +1692,7 @@ Investment and banking of surplus funds
 ## Part 5A  
 Investment and borrowing
     
-*   Part 5A: inserted, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+*   Part 5A: inserted, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 56A Investment powers
     
@@ -1692,19 +1702,19 @@ Investment and borrowing
     
     *   (b) to the extent that any money is not immediately required for the performance of the functions of the society, in any other manner that the society thinks fit.
     
-    Section 56A: inserted, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 56A: inserted, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 56B Borrowing powers
     
 *   Without limiting the generality of [section 9A][14] or [section 9B][15], but subject to any restriction contained in the rules of the society, a society may borrow money on such terms and conditions as the society thinks fit.
     
-    Section 56B: inserted, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 56B: inserted, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 56C Power to give security
     
 *   A society may secure the payment of money and the performance of any other obligation of the society in such manner as the society thinks fit.
     
-    Section 56C: inserted, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 56C: inserted, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 56D Home ownership accounts and farm ownership accounts
     
@@ -1716,143 +1726,143 @@ Investment and borrowing
     
     (4) If any society contravenes any provision of this section that is applicable to it, the society, and every officer of the society who is in default, shall be guilty of an offence against this Act.
     
-    Section 56D: inserted, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 56D: inserted, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 56E Depositor under age of 20
     
 *   A receipt or acknowledgment given to a society by a person under the age of 20 years, in respect of the payment to that person of any sum due in respect of the principal of or interest on sums lent by that person to the society, shall not be invalid on the ground that that person is under the age of 20 years.
     
-    Section 56E: inserted, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 56E: inserted, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 56F Designation of societies for investments by trustees
     
 *   \[Repealed\]
     
-    Section 56F: repealed, on 1 October 1988, by [section 16(1)][286] of the Trustee Amendment Act 1988 (1988 No 119).
+    Section 56F: repealed, on 1 October 1988, by [section 16(1)][289] of the Trustee Amendment Act 1988 (1988 No 119).
 
 ##### 56G Memorandum of discharge of mortgage
     
-*   For the purposes of [section 83][287] of the Property Law Act 2007, and without affecting [section 9][288] of that Act, a memorandum of discharge of a mortgage to a society shall be deemed to be duly executed if it is under the society's seal and countersigned by the manager or secretary of the society.
+*   For the purposes of [section 83][290] of the Property Law Act 2007, and without affecting [section 9][291] of that Act, a memorandum of discharge of a mortgage to a society shall be deemed to be duly executed if it is under the society's seal and countersigned by the manager or secretary of the society.
     
-    Section 56G: inserted, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 56G: inserted, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 56G: amended, on 1 January 2008, by [section 364(1)][254] of the Property Law Act 2007 (2007 No 91).
+    Section 56G: amended, on 1 January 2008, by [section 364(1)][258] of the Property Law Act 2007 (2007 No 91).
 
 ## Part 5  
 Borrowing powers. Investors and depositors
 
 \[Repealed\]
     
-*   Part 5: repealed, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+*   Part 5: repealed, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 56 Borrowing powers
     
 *   \[Repealed\]
     
-    Section 56: repealed, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 56: repealed, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 57 Restrictions on savings bank deposits
     
 *   \[Repealed\]
     
-    Section 57: repealed, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 57: repealed, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 57A Home ownership accounts and farm ownership accounts
     
 *   \[Repealed\]
     
-    Section 57A: repealed, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 57A: repealed, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 58 Interest on deposits
     
 *   \[Repealed\]
     
-    Section 58: repealed, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 58: repealed, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 59 Liability for borrowing in excess of powers
     
 *   \[Repealed\]
     
-    Section 59: repealed, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 59: repealed, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 60 Assistance to other building societies
     
 *   \[Repealed\]
     
-    Section 60: repealed, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 60: repealed, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 61 New investors and depositors to receive copies of accounts
     
 *   \[Repealed\]
     
-    Section 61: repealed, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 61: repealed, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 62 Depositor under age of 20
     
 *   \[Repealed\]
     
-    Section 62: repealed, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 62: repealed, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 63 Designation of societies for investments by trustees
     
 *   \[Repealed\]
     
-    Section 63: repealed, on 1 September 1987, by [section 12][285] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 63: repealed, on 1 September 1987, by [section 12][288] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ## Part 6  
 Powers of control of Registrar
 
 \[Repealed\]
     
-*   Part 6: repealed, on 1 September 1987, by [section 13][289] of the Building Societies Amendment Act 1987 (1987 No 175).
+*   Part 6: repealed, on 1 September 1987, by [section 13][292] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 64 Power to order suspension of borrowing and subscriptions for shares
     
 *   \[Repealed\]
     
-    Section 64: repealed, on 1 September 1987, by [section 13][289] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 64: repealed, on 1 September 1987, by [section 13][292] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 65 Procedure to be followed in making order
     
 *   \[Repealed\]
     
-    Section 65: repealed, on 1 September 1987, by [section 13][289] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 65: repealed, on 1 September 1987, by [section 13][292] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 66 Provisions consequential on Registrar's order
     
 *   \[Repealed\]
     
-    Section 66: repealed, on 1 September 1987, by [section 13][289] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 66: repealed, on 1 September 1987, by [section 13][292] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 67 Power to give directions as to advertising
     
 *   \[Repealed\]
     
-    Section 67: repealed, on 1 September 1987, by [section 13][289] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 67: repealed, on 1 September 1987, by [section 13][292] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 68 Procedure to be followed in giving direction
     
 *   \[Repealed\]
     
-    Section 68: repealed, on 1 September 1987, by [section 13][289] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 68: repealed, on 1 September 1987, by [section 13][292] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 69 Power to require documents and information
     
 *   \[Repealed\]
     
-    Section 69: repealed, on 1 September 1987, by [section 13][289] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 69: repealed, on 1 September 1987, by [section 13][292] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 70 Special powers of direction in relation to small societies
     
 *   \[Repealed\]
     
-    Section 70: repealed, on 1 September 1987, by [section 13][289] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 70: repealed, on 1 September 1987, by [section 13][292] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 71 Supplementary provisions as to small societies
     
 *   \[Repealed\]
     
-    Section 71: repealed, on 1 September 1987, by [section 13][289] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 71: repealed, on 1 September 1987, by [section 13][292] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ## Part 7  
 Management and administration
@@ -1881,9 +1891,9 @@ Management and administration
     
     Compare: Building Societies Act 1962 s 108 (UK)
     
-    Section 73(1): replaced, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 73(1): replaced, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
     
-    Section 73(2): repealed, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 73(2): repealed, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
 
 #### Register of members
 
@@ -1899,7 +1909,7 @@ Management and administration
     
     Compare: Building Societies Act 1962 s 62 (UK)
     
-    Section 74(3): amended, on 1 May 2011, by [section 82][253] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 74(3): amended, on 1 May 2011, by [section 82][257] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 75 Inspection of register of members
     
@@ -1909,7 +1919,7 @@ Management and administration
     
     (3) If any inspection required under this section is refused, or if any copy required under this section is not sent within the proper period, the court may by order compel an immediate inspection of the register or direct that the copies required shall be sent to the member requiring them.
     
-    Section 75: replaced, on 1 September 1987, by [section 14][290] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 75: replaced, on 1 September 1987, by [section 14][293] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 #### Meetings and resolutions
 
@@ -1931,9 +1941,9 @@ Management and administration
     
     Compare: Building Societies Act 1962 s 64 (UK)
     
-    Section 76(4): replaced, on 1 May 2011, by [section 82][253] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 76(4): replaced, on 1 May 2011, by [section 82][257] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 76(5): amended, on 1 May 2011, by [section 82][253] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 76(5): amended, on 1 May 2011, by [section 82][257] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 77 Length of notice of meetings
     
@@ -1971,13 +1981,13 @@ Management and administration
     
     Compare: Building Societies Act 1962 s 66 (UK)
     
-    Section 78(2) proviso paragraph (a): amended, on 1 September 1987, by [section 15][291] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 78(2) proviso paragraph (a): amended, on 1 September 1987, by [section 15][294] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 78(2) proviso paragraph (b): amended, on 1 September 1987, by [section 38][270] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 78(2) proviso paragraph (b): amended, on 1 September 1987, by [section 38][273] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 78(2) proviso paragraph (b): amended, on 22 December 1980, by [section 15(1)][292] of the Building Societies Amendment Act 1980 (1980 No 92).
+    Section 78(2) proviso paragraph (b): amended, on 22 December 1980, by [section 15(1)][295] of the Building Societies Amendment Act 1980 (1980 No 92).
     
-    Section 78(2) proviso paragraph (c): inserted, on 22 December 1980, by [section 15(2)][292] of the Building Societies Amendment Act 1980 (1980 No 92).
+    Section 78(2) proviso paragraph (c): inserted, on 22 December 1980, by [section 15(2)][295] of the Building Societies Amendment Act 1980 (1980 No 92).
 
 ##### 79 Proxies
     
@@ -2029,9 +2039,9 @@ Management and administration
     
     Compare: Building Societies Act 1962 s 69 (UK)
     
-    Section 81(2): amended, on 1 September 1987, by [section 16][293] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 81(2): amended, on 1 September 1987, by [section 16][296] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 81(2): amended, on 22 December 1980, by [section 16(a)][294] of the Building Societies Amendment Act 1980 (1980 No 92).
+    Section 81(2): amended, on 22 December 1980, by [section 16(a)][297] of the Building Societies Amendment Act 1980 (1980 No 92).
 
 ##### 82 Notices of special resolutions
     
@@ -2055,13 +2065,13 @@ Management and administration
     
 *   \[Repealed\]
     
-    Section 84: repealed, on 1 September 1987, by [section 17][295] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 84: repealed, on 1 September 1987, by [section 17][298] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 85 Duty of officers to account
     
 *   \[Repealed\]
     
-    Section 85: repealed, on 1 September 1987, by [section 18][296] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 85: repealed, on 1 September 1987, by [section 18][299] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 86 Disclosure of interest by directors
     
@@ -2099,13 +2109,13 @@ Management and administration
     
     (4) In this section, _commission_ includes any gift, bonus, or benefit.
     
-    Section 87: replaced, on 1 September 1987, by [section 19][297] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 87: replaced, on 1 September 1987, by [section 19][300] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 87(2)(a): amended, on 1 July 2013, by [section 413][259] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 87(2)(a): amended, on 1 July 2013, by [section 413][262] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 87(2)(b): amended, on 1 July 2013, by [section 413][259] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 87(2)(b): amended, on 1 July 2013, by [section 413][262] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 87(3): amended, on 1 July 2013, by [section 413][259] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 87(3): amended, on 1 July 2013, by [section 413][262] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 88 Notice of changes in holding of certain offices
     
@@ -2119,11 +2129,11 @@ Management and administration
     
     Compare: Building Societies Act 1962 s 75 (UK)
     
-    Section 88(1): replaced, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 88(1): replaced, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
     
-    Section 88(1A): inserted, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 88(1A): inserted, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
     
-    Section 88(2): repealed, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 88(2): repealed, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
 
 #### Office management
 
@@ -2145,227 +2155,129 @@ Management and administration
     
     Compare: Building Societies Act 1962 ss 76(3)--(5), 79(1) (UK)
     
-    Section 89(3): amended, on 1 July 2013, by [section 413][259] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 89(3): amended, on 1 July 2013, by [section 413][262] of the Criminal Procedure Act 2011 (2011 No 81).
 
-#### Accounts and audit
+#### Accounting records and financial reporting
+    
+*   Heading: replaced, on 1 April 2014, by [section 6][301] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
-##### 90 Accounts
+##### 90 Accounting records must be kept
     
-*   (1) Every society shall---
-        
-    *   (a) cause to be kept proper books of account with respect to its transactions and its assets and liabilities; and
+*   Every society must comply with [subpart 2][302] of Part 7 of the Financial Markets Conduct Act 2013 (which relates to accounting records).
     
-    *   (b) establish and maintain a system of control and inspection of its books of account and a system for supervising its cash holdings and all receipts and remittances.
-    
-    (2) For the purposes of paragraph (a) of subsection (1), the books of account must---
-        
-    *   (a) correctly record and explain the transactions of the society; and
-    
-    *   (b) in the case of a society that is not an issuer within the meaning of [section 4][298] of the Financial Reporting Act 1993, be such as are necessary to give a true and fair view of the affairs of the society; and
-    
-    *   (c) in the case of a society that is an issuer within the meaning of [section 4][298] of the Financial Reporting Act 1993, be such as are necessary to ensure that the financial statements of the society within the meaning of that Act comply with that Act.
-    
-    Compare: 1908 No 18 s 44(1); Building Societies Act 1962 s 76(1), (2) (UK)
-    
-    Section 90(2): replaced, on 1 July 1994, by [section 49][299] of the Financial Reporting Act 1993 (1993 No 106).
+    Section 90: replaced, on 1 April 2014, by [section 6][301] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
-##### 91 Annual financial statements
+##### 91 Financial reporting
     
-*   (1) Every society shall, not later than 4 months after the end of each financial year, prepare the following financial statements:
-        
-    *   (a) a revenue and appropriation account for that financial year; and
+*   (1) Every society must comply with [subpart 3][303] of Part 7 of the Financial Markets Conduct Act 2013 (which relates to the preparation, audit, and lodgement of financial statements).
     
-    *   (b) a statement of financial position as at the end of that financial year; and
+    (2) The directors of every society must ensure that the financial statements of the society are laid before the society at the annual general meeting.
     
-    *   (c) a statement of cash flows for that financial year; and
-    
-    *   (d) such other financial statements in respect of the financial year as may be prescribed by regulations made under this Act---
-    
-    including any notes or documents giving information relating to the statements.
-    
-    (2) The directors of every society shall lay all such financial statements before the society at the annual general meeting.
-    
-    (3) In the case of a terminating society whose shares are divided into groups, this section shall be read subject to [section 102][159].
-    
-    Section 91: replaced, on 1 September 1987, by [section 20][300] of the Building Societies Amendment Act 1987 (1987 No 175).
-    
-    Section 91(1): replaced, on 1 July 1994, by [section 49][299] of the Financial Reporting Act 1993 (1993 No 106).
-    
-    Section 91(1)(b): amended, on 1 October 1997, pursuant to [section 6(1)][301] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 91: replaced, on 1 April 2014, by [section 6][301] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 91A Summary financial statements
     
-*   (1) In addition to the financial statements required under [section 91][145], a society may also prepare summary financial statements.
+*   \[Repealed\]
     
-    (2) Any summary financial statements must be prepared within 4 months after the end of the financial year.
-    
-    (3) The directors of every society must lay any summary financial statements before the society at the annual general meeting.
-    
-    Section 91A: inserted, on 15 April 2004, by [section 3][302] of the Building Societies Amendment Act 2004 (2004 No 22).
+    Section 91A: repealed, on 1 April 2014, by [section 6][301] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
-##### 92 Half-yearly financial statements
+##### 92 Half-yearly financial statements must be prepared
     
-*   (1) Every society shall, not later than 4 months after the end of the first half of each financial year, prepare, in respect of the first half of that financial year, such financial statements as may be prescribed by regulations made under this Act.
+*   (1) Every society must ensure that, within 3 months after the end of the first half of the financial year, financial statements that comply with generally accepted accounting practice are---
+        
+    *   (a) completed in relation to the society and that first half of the financial year; and
     
-    (2) Such financial statements shall be published in such manner, or distributed to such persons, as may be prescribed.
+    *   (b) dated and signed on behalf of the society by 2 directors of the society.
     
-    (3) Such regulations may prescribe requirements for the auditing of the financial statements and may confer on the auditors such powers, including the power of inspection of documents and records, as may be necessary or desirable for the purposes of auditing those financial statements.
+    (2) The financial statements referred to in subsection (1) must be---
+        
+    *   (a) published in the manner, or distributed to the persons, that are prescribed; and
     
-    Section 92: replaced, on 1 September 1987, by [section 20][300] of the Building Societies Amendment Act 1987 (1987 No 175).
+    *   (b) audited by a qualified auditor if required by regulations made under this Act.
+    
+    Section 92: replaced, on 1 April 2014, by [section 6][301] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 93 Form and content of financial statements
     
-*   (1) The financial statements required by [section 91][145] must---
-        
-    *   (a) give a true and fair view of---
-            
-        *   (i) the society's income and expenditure for; and
-        
-        *   (ii) the state of the society's affairs as at the end of; and
-        
-        *   (iii) the cash flows of the society for---
-        
-        the financial year to which they relate; and
+*   \[Repealed\]
     
-    *   (b) be in such form and contain such information as may be prescribed; and
-    
-    *   (c) in the case of a society that is an issuer within the meaning of [section 4][298] of the Financial Reporting Act 1993, comply with the requirements of that Act.
-    
-    (1A) Summary financial statements prepared under [section 91A][146] must---
-        
-    *   (a) give a true and fair view of the matters to which they relate; and
-    
-    *   (b) comply with generally accepted accounting practice, as defined in [section 3][303] of the Financial Reporting Act 1993; and
-    
-    *   (c) be in the form and contain the information that may be prescribed.
-    
-    (2) Any financial statements required under [section 92][147] shall---
-        
-    *   (a) give a true and fair view,---
-            
-        *   (i) in the case of any revenue and appropriation account, of the society's income and expenditure for; and
-        
-        *   (ii) in the case of any statement of financial position, of the state of the society's affairs as at the end of---
-        
-        the half-year to which they relate; and
-    
-    *   (b) be in such form and contain such information as may be prescribed.
-    
-    Section 93: replaced, on 1 July 1994, by [section 49][299] of the Financial Reporting Act 1993 (1993 No 106).
-    
-    Section 93(1A): inserted, on 15 April 2004, by [section 4][304] of the Building Societies Amendment Act 2004 (2004 No 22).
-    
-    Section 93(2)(a)(ii): amended, on 1 October 1997, pursuant to [section 6(1)][301] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 93: repealed, on 1 April 2014, by [section 6][301] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 94 Offences under sections 90 to 93
     
-*   (1) Every director of a society commits an offence, and shall be liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $400, who---
-        
-    *   (a) fails to take all reasonable steps to comply or, as the case may require, to ensure compliance by the society, with the requirements of any of the provisions of [sections 90 to 93][144]; or
+*   \[Repealed\]
     
-    *   (b) has by any wilful act been the cause of any default by the society under any such provision.
-    
-    (2) In any proceedings against any person in respect of an offence against subsection (1)(a), it shall be a defence to prove that the person charged had reasonable grounds to believe, and did believe, that a competent and reliable person was charged with the duty of seeing that the requirements of the provision in question were complied with and was in a position to discharge that duty.
-    
-    Section 94: replaced, on 1 September 1987, by [section 20][300] of the Building Societies Amendment Act 1987 (1987 No 175).
-    
-    Section 94(1): amended, on 1 July 2013, by [section 413][259] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 94: repealed, on 1 April 2014, by [section 6][301] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
-##### 95 Signing of financial statements
+##### 95 Directors' report
     
-*   (1) The financial statements required by [sections 91][145] and [92][147] and any summary financial statements prepared under [section 91A][146] must be signed on behalf of the board of directors by 2 directors of the society.
+*   (1) The directors must prepare for submission at the annual general meeting a report on the state of the affairs of the society.
     
-    (2) The financial statements referred to in subsection (1) must be approved by the board of directors before they are signed on their behalf.
+    (2) The directors' report must be attached to the financial statements laid before that meeting.
     
-    (3) If the financial statements referred to in subsection (1) have not been signed and a copy of them is issued, circulated, or published, the society and every officer of the society who is in default is guilty of an offence.
-    
-    Section 95: replaced, on 15 April 2004, by [section 5][305] of the Building Societies Amendment Act 2004 (2004 No 22).
-
-##### 96 Documents required to be annexed to statements of financial position
-    
-*   (1) The revenue and appropriation account, statement of cash flows, and such other financial statements as are required under [section 91][145], and the auditor's report shall be annexed to the statement of financial position required by that section.
-    
-    (2) Any revenue and appropriation account required pursuant to regulations made under [section 92][147] and such other financial statements as are required pursuant to those regulations shall be annexed to any statement of financial position required pursuant to those regulations.
-    
-    (3) If any copy of a statement of financial position is issued, circulated, or published without having annexed to it a copy of the financial statements required to be annexed to it, and, in the case of a statement of financial position required by [section 91(1)(b)][145], a copy of the auditor's report, the society, and every officer of the society who is in default, shall be guilty of an offence against this Act.
-    
-    Section 96: replaced, on 1 July 1994, by [section 49][299] of the Financial Reporting Act 1993 (1993 No 106).
-    
-    Section 96 heading: amended, on 1 October 1997, pursuant to [section 6(1)][301] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 96(1): amended, on 1 October 1997, pursuant to [section 6(1)][301] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 96(2): amended, on 1 October 1997, pursuant to [section 6(1)][301] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 96(3): amended, on 1 October 1997, pursuant to [section 6(1)][301] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-
-##### 97 Directors' report
-    
-*   (1) The directors shall prepare for submission at the annual general meeting a report of the state of the affairs of the society.
-    
-    (2) The directors' report shall be attached to the statement of financial position laid before that meeting.
-    
-    (3) If any copy of a statement of financial position required by [section 91(1)(b)][145] is issued, circulated, or published without having attached to it a copy of the directors' report, the society, and every officer of the society who is in default, shall be guilty of an offence against this Act.
-    
-    Section 97: replaced, on 1 September 1987, by [section 20][300] of the Building Societies Amendment Act 1987 (1987 No 175).
-    
-    Section 97(2): amended, on 1 October 1997, pursuant to [section 6(1)][301] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 97(3): amended, on 1 October 1997, pursuant to [section 6(1)][301] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-
-##### 97A Distribution of copies of financial statements and reports
-    
-*   (1) Except as provided in [section 97B][154], a copy of the financial statements required by [section 91][145] to be laid before a society at the annual general meeting, together with a copy of the auditor's report and of the directors' report, or a copy of the summary financial statements prepared under [section 91A][146] (if any) and of the directors' report, must, not less than 14 days before the date of the meeting,---
+    (3) The directors of every society must ensure that every copy of the financial statements of the society referred to in [section 91][145] that is issued, circulated, or published has attached to it, or is accompanied by,---
         
-    *   (a) be sent to the members of the society; or
+    *   (a) a copy of the directors' report; and
     
-    *   (b) subject to the society's rules and to any conditions or requirements that may be prescribed, be published in major daily newspapers circulating generally in those parts of New Zealand where the members reside.
+    *   (b) a copy of the auditor's report on those statements.
     
-    (2) The society (unless it is an issuer within the meaning of [section 4][298] of the Financial Reporting Act 1993) must send to the Registrar for registration at the same time a copy of those financial statements and reports, certified by a director and the manager or secretary of the society as being a true copy.
+    Section 95: replaced, on 1 April 2014, by [section 7][304] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 96 Distribution of copies of financial statements and reports
     
-    (3) The directors of a society that is an issuer within the meaning of [section 4][298] of the Financial Reporting Act 1993 must attach to the financial statements to be delivered to the Registrar of Companies under that Act any financial statements required by [section 91(1)(d)][145].
-    
-    (4) Every depositor in or member of a society, including a depositor or member who has made an election under [section 97B][154], is entitled, on demand and without charge, to be supplied a copy of the last financial statements required under [section 91][145] and reports of the society required to be laid before that society at the annual general meeting.
-    
-    (5) However, subsection (4) does not apply if the depositor in or member of a society---
+*   (1) The directors of every society must ensure that a copy of the financial statements to be laid before the society at the annual general meeting, a copy of the auditor's report on those statements, and a copy of the directors' report are, not less than 14 days before the date of the meeting,---
         
-    *   (a) has previously been sent a copy of the last financial statements required under [section 91][145] and the reports referred to in subsection (1); or
+    *   (a) sent to each member of the society; or
     
-    *   (b) has already demanded and received a copy of the financial statements and reports under subsection (4).
+    *   (b) published in major daily newspapers circulating generally in those parts of New Zealand where members reside.
     
-    (6) The society, and every officer of the society, is guilty of an offence if default is made---
+    (2) The directors of every society must ensure that a copy of the directors' report is sent to the Registrar for registration within the time frame referred to in subsection (1).
+    
+    (3) Subsection (1)(b) is subject to the society's rules and to any conditions or requirements that may be prescribed.
+    
+    Section 96: replaced, on 1 April 2014, by [section 7][304] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 97 Depositors and members entitled to be supplied with copy of financial statements
+    
+*   (1) Every depositor in or member of a society is entitled, on demand and without charge, to be supplied with copies of the last financial statements and reports of the society that are required to be laid before that society at the annual general meeting.
+    
+    (2) The directors of the society must ensure that the depositor or member is sent copies of the financial statements and reports within 7 days after the demand is made.
+    
+    (3) However, this section does not apply if the depositor in or member of the society---
         
-    *   (a) in complying with subsection (1) or subsection (2); or
+    *   (a) has previously been sent copies of the financial statements and reports; or
     
-    *   (b) in supplying to any depositor or member, within 7 days after a demand is made under subsection (4), a copy of the financial statements and reports with which that depositor or member is entitled to be supplied.
+    *   (b) has already demanded and received copies of the financial statements and reports under this section.
     
-    Section 97A: replaced, on 15 April 2004, by [section 6][306] of the Building Societies Amendment Act 2004 (2004 No 22).
+    Section 97: replaced, on 1 April 2014, by [section 7][304] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 97A Offences relating to laying financial statements before annual general meeting, half-yearly financial statements, directors' report, and distribution of financial statements
     
-    Section 97A(2): replaced, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+*   (1) If any of [sections 91(2)][145], [92][147], [95][150], [96][151], and [97][152] are not complied with, every director of the society commits an offence and is liable on conviction to a fine not exceeding $10,000\.
+    
+    (2) It is a defence to a director of a society charged with an offence under this section in respect of a requirement referred to in [section 91(2)][145], [92][147], [95][150], [96][151], or [97][152] if the director proves that---
+        
+    *   (a) the society took all reasonable and proper steps to ensure that the requirement would be complied with; or
+    
+    *   (b) the director took all reasonable steps to ensure that the requirement would be complied with; or
+    
+    *   (c) in the circumstances, the director could not reasonably have been expected to take steps to ensure that the requirement would be complied with.
+    
+    Section 97A: replaced, on 1 April 2014, by [section 7][304] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 97B Election to receive summary financial statements
     
-*   (1) A member of a society may, by written notice to the society, elect to be sent each year, in place of the financial statements prepared under [section 91][145], summary financial statements prepared under [section 91A][146] (if any) and a directors' report, and the society must cause those documents to be sent to the member in accordance with [section 97A(1)][153].
+*   \[Repealed\]
     
-    (2) The society must cause to be sent to a member of the society financial statements prepared under [section 91][145] and any reports required to be attached to those statements if the member---
-        
-    *   (a) has not made any election under subsection (1); or
-    
-    *   (b) has made an election under subsection (1) to receive summary financial statements prepared under [section 91A][146], but the society has not produced any summary financial statements.
-    
-    Section 97B: inserted, on 15 April 2004, by [section 6][306] of the Building Societies Amendment Act 2004 (2004 No 22).
+    Section 97B: repealed, on 1 April 2014, by [section 7][304] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 98 Appointment of auditors
     
 *   (1) Every society shall at each annual general meeting appoint an auditor or auditors to hold office from the conclusion of that meeting until the conclusion of the next annual general meeting.
     
-    (2) The appointment of a partnership by the firm name to be the auditors of a society shall be taken to be the appointment of all the persons who are partners in the firm from time to time.
+    (2) \[Repealed\]
     
-    (2A) However, if the society is an issuer (within the meaning of [section 4][298] of the Financial Reporting Act 1993),---
-        
-    *   (a) a partnership appointed by its firm name to be the auditors of the society must be a registered audit firm; and
-    
-    *   (b) the appointment of a registered audit firm by its firm name to be the auditors of the society is to be taken to be the appointment of all the partners in the firm, from time to time, who are licensed auditors.
+    (2A) \[Repealed\]
     
     (3) At any annual general meeting a retiring auditor, however appointed, shall be reappointed without any resolution being passed unless---
         
@@ -2389,9 +2301,9 @@ Management and administration
     
     Compare: Building Societies Act 1962 s 84 (UK)
     
-    Section 98(2): amended, on 1 July 2012, by [section 82][255] of the Auditor Regulation Act 2011 (2011 No 21).
+    Section 98(2): repealed, on 1 April 2014, by [section 8][305] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 98(2A): inserted, on 1 July 2012, by [section 82][255] of the Auditor Regulation Act 2011 (2011 No 21).
+    Section 98(2A): repealed, on 1 April 2014, by [section 8][305] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 99 Resolutions as to appointment and removal of auditors
     
@@ -2423,75 +2335,31 @@ Management and administration
     
     Compare: Building Societies Act 1962 s 85 (UK)
     
-    Section 99(5): amended, on 1 April 1980, pursuant to [section 12][268] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 99(5): amended, on 1 April 1980, pursuant to [section 12][271] of the Judicature Amendment Act 1979 (1979 No 124).
 
-##### 100 Disqualifications for appointment as auditor
+##### 100 Qualifications of auditors and access to information
     
-*   (1) No person is qualified for appointment as auditor of a society unless he or she is,---
-        
-    *   (a) in the case of a society that is an issuer (within the meaning of [section 4][298] of the Financial Reporting Act 1993), a licensed auditor:
+*   (1) No person is qualified for appointment as auditor of a society unless he or she is a qualified auditor (within the meaning of [section 35][306] of the Financial Reporting Act 2013).
     
-    *   (b) in any other case,---
-            
-        *   (i) a chartered accountant (within the meaning of [section 19][307] of the New Zealand Institute of Chartered Accountants Act 1996); or
-        
-        *   (ii) a member, fellow, or associate of an association of accountants constituted outside New Zealand that is for the time being approved for the purposes of [section 199][308] of the Companies Act 1993\.
-        
-        
+    (2) _See_ [sections 37 to 39][307] of the Financial Reporting Act 2013 (which provide for the appointment of a partnership and access to information in relation to a society).
     
-    (2) Nothing in subsection (1) shall disqualify any person appointed as auditor of a society before the commencement of this Act from acting as auditor of that society, or from being at any time and from time to time reappointed as auditor thereof.
-    
-    (3) None of the following persons shall be qualified for appointment as auditor of a society:
-        
-    *   (a) an officer or servant of the society:
-    
-    *   (b) a person who is a partner of or in the employment of an officer or servant of the society:
-    
-    *   (c) a body corporate.
-    
-    (4) References in this section to an officer or servant shall be construed as not including references to an auditor.
-    
-    (5) Subsections (1) and (3) shall have effect notwithstanding anything in the rules of any society.
-    
-    (6) Any unqualified person who acts as auditor of a society commits an offence against this Act.
-    
-    (7) If a society appoints any unqualified person to be an auditor---
-        
-    *   (a) the appointment shall be void, and the FMA may appoint a qualified person to fill the vacancy:
-    
-    *   (b) the society, and every officer of the society who is in default, shall be guilty of an offence against this Act.
-    
-    Compare: Building Societies Act 1962 s 86 (UK)
-    
-    Section 100(1): replaced, on 1 July 2012, by [section 82][255] of the Auditor Regulation Act 2011 (2011 No 21).
-    
-    Section 100(7)(a): amended, on 1 May 2011, by [section 82][253] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 100: replaced, on 1 April 2014, by [section 9][308] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
-##### 101 Auditors' report, right of access to books, and right to attend meetings
+##### 101 Auditors' report and right to attend meetings
     
-*   (1) The auditors of a society shall make a report to the members on the accounts examined by them, and on the financial statements laid before the society at the annual general meeting during their tenure of office.
+*   (1) The auditors of a society shall make a report to the members on the financial statements laid before the society at the annual general meeting during their tenure of office.
     
-    (2) The auditors' report shall be read before the society at the annual general meeting and shall be open to inspection by any member.
+    (2) An auditor must, in carrying out an audit for the purposes of subsection (1) or [section 92][147], comply with all applicable auditing and assurance standards.
     
-    (3) In the case of a society that is not an issuer within the meaning of [section 4][298] of the Financial Reporting Act 1993, the report shall state whether the financial statements are properly prepared in accordance with the requirements of this Act and any regulations made thereunder, and whether, in the opinion of the auditors, they give a true and fair view,---
-        
-    *   (a) in the case of the revenue and appropriation account of the society's income and expenditure for the financial year; and
+    (3) The auditor's report must comply with the requirements of all applicable auditing and assurance standards.
     
-    *   (b) in the case of the statement of financial position, of the state of the society's affairs as at the end of the financial year; and
+    (4) \[Repealed\]
     
-    *   (c) in the case of the statement of cash flows, of the society's cash flows for the financial year.
+    (4A) \[Repealed\]
     
-    (4) In the case of a society that is an issuer within the meaning of [section 4][298] of the Financial Reporting Act 1993, the auditor's report shall state whether the financial statements are properly prepared in accordance with the requirements of this Act and any regulations made thereunder and shall also state the matters required to be stated in an auditors' report under the [Financial Reporting Act 1993][309].
+    (5) \[Repealed\]
     
-    (4A) It shall be the duty of the auditors in preparing the report referred to in subsection (3) or subsection (4), as the case may be, to carry out such investigations as will enable them to complete those reports.
-    
-    (5) Every auditor of a society---
-        
-    *   (a) shall have a right of access at all times to the books, accounts, and vouchers of the society, and to all other documents relating to its affairs, including the instruments relating to property mortgaged to the society; and
-    
-    *   (b) shall be entitled to require from the society's officers such information and explanations as he or she thinks necessary for the performance of the auditors' duties.
-    
-    (6) If the auditors fail to obtain all the information and explanations which, to the best of their knowledge and belief, are necessary for the purposes of their audit, they shall state that fact in their report.
+    (6) \[Repealed\]
     
     (7) The auditors of a society shall be entitled---
         
@@ -2501,43 +2369,29 @@ Management and administration
     
     Compare: Building Societies Act 1962 s 87 (UK)
     
+    Section 101 heading: amended, on 1 April 2014, by [section 10(1)][309] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
     Section 101(1): replaced, on 1 September 1987, by [section 21][310] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 101(2): replaced, on 1 September 1987, by [section 21][310] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 101(1): amended, on 1 April 2014, by [section 10(2)][309] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 101(3): replaced, on 1 July 1994, by [section 49][299] of the Financial Reporting Act 1993 (1993 No 106).
+    Section 101(2): replaced, on 1 April 2014, by [section 10(3)][309] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 101(3)(b): amended, on 1 October 1997, pursuant to [section 6(1)][301] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 101(3): replaced, on 1 April 2014, by [section 10(3)][309] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 101(4): replaced, on 1 July 1994, by [section 49][299] of the Financial Reporting Act 1993 (1993 No 106).
+    Section 101(4): repealed, on 1 April 2014, by [section 10(3)][309] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 101(4A): inserted, on 1 July 1994, by [section 49][299] of the Financial Reporting Act 1993 (1993 No 106).
+    Section 101(4A): repealed, on 1 April 2014, by [section 10(3)][309] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 101(5): repealed, on 1 April 2014, by [section 10(3)][309] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 101(6): repealed, on 1 April 2014, by [section 10(3)][309] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 102 Accounts of groups in terminating society
     
-*   (1) Where the shares of a terminating society are divided into groups, there shall be prepared, in addition to the financial statements referred to in [section 91][145], corresponding financial statements in respect of each such group.
+*   \[Repealed\]
     
-    (2) Every financial statement prepared in respect of a group shall be laid before the society at the annual general meeting.
-    
-    (3) Subject to the provisions of this section, the provisions of [sections 93 to 96][148], [section 97A(2)][153], and [section 101][158], with all necessary modifications, shall apply to every financial statement prepared in respect of a group.
-    
-    (4) For the purposes of [sections 96][151] and [101][158] (as applied by this section),---
-        
-    *   (a) it shall not be necessary for the auditors' report on the financial statements prepared in respect of each group to be attached to the statement of financial position or to be read before the society at the annual general meeting, if the auditors' report attached to the society's statement of financial position includes a report on all financial statements prepared in respect of each group:
-    
-    *   (b) where in the auditors' opinion any financial statements prepared in respect of a group are not properly prepared, or do not give a true and fair view of the affairs, income and expenditure, and cash flows of the group, or are not in agreement with the books and records of the society, the auditors shall state that fact in their report attached to the society's statement of financial position as well as in their report on the financial statements prepared in respect of the group.
-    
-    (5) Any member of any group in a terminating society shall be entitled, on demand and without charge, to be supplied with a copy of the last financial statements relating to that group and, on payment to the society of a fee not exceeding $2, with copies of the last financial statements relating to all other groups; but no such member shall be entitled to more than 1 copy of any such statements in respect of any one financial year.
-    
-    (6) If default is made in supplying to any such member, within 1 month after a demand is made under subsection (5), a copy of any financial statement with which the member is entitled to be so supplied, the society, and every officer of the society who is in default, shall be guilty of an offence against this Act.
-    
-    Section 102: replaced, on 1 September 1987, by [section 22][311] of the Building Societies Amendment Act 1987 (1987 No 175).
-    
-    Section 102(4)(a): amended, on 1 October 1997, pursuant to [section 6(1)][301] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 102(4)(b): amended, on 1 October 1997, pursuant to [section 6(1)][301] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 102(4)(b): amended, on 1 July 1994, by [section 49][299] of the Financial Reporting Act 1993 (1993 No 106).
+    Section 102: repealed, on 1 April 2014, by [section 11][311] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 #### Annual return
 
@@ -2555,11 +2409,11 @@ Management and administration
     
     Compare: 1908 No 18 ss 44, 45; Building Societies Act 1962 s 88(1)--(3), (5), (6) (UK)
     
-    Section 103(1): amended, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 103(1): amended, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
     
-    Section 103(2): amended, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 103(2): amended, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
     
-    Section 103(3): repealed, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 103(3): repealed, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
 
 ##### 104 Annual return to disclose loans or other investments to certain officers or companies
     
@@ -2571,7 +2425,7 @@ Management and administration
     
     *   (c) to a company or other body corporate in which, when the loan or other investment was made, or at any later time in the relevant financial year, a director or manager or secretary of the society held (either directly or through a nominee),---
             
-        *   (i) in the case of a company registered under the [Companies Act 1993][250], shares on which the amount paid under the constitution of the company or under the terms of issue exceeded 2.5% of the amount paid on the issued shares of the company under the constitution or under the terms of issue; or
+        *   (i) in the case of a company registered under the [Companies Act 1993][253], shares on which the amount paid under the constitution of the company or under the terms of issue exceeded 2.5% of the amount paid on the issued shares of the company under the constitution or under the terms of issue; or
         
         *   (ii) in the case of any other body corporate, shares or other equity instruments on which the amount paid under the terms of issue exceeded 2.5% of the amount paid on the issue of all shares and equity instruments of the body corporate; or
         
@@ -2591,23 +2445,23 @@ Management and administration
     
     Compare: Building Societies Act 1962 s 89 (UK)
     
-    Section 104 heading: amended, on 1 September 1987, by [section 38][270] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 104 heading: amended, on 1 September 1987, by [section 38][273] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 104(1): amended, on 1 September 1987, by [section 38][270] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 104(1): amended, on 1 September 1987, by [section 38][273] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 104(1)(b): amended, on 1 September 1987, by [section 38][270] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 104(1)(b): amended, on 1 September 1987, by [section 38][273] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 104(1)(c): replaced, on 1 July 1994, by [section 2][265] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 104(1)(c): replaced, on 1 July 1994, by [section 2][268] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
-    Section 104(1)(c)(i): replaced, on 5 December 2013, by [section 14][258] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 104(1)(c)(i): replaced, on 5 December 2013, by [section 14][261] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 104(1)(c)(ii): replaced, on 5 December 2013, by [section 14][258] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 104(1)(c)(ii): replaced, on 5 December 2013, by [section 14][261] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 104(1)(d): amended, on 1 September 1987, by [section 38][270] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 104(1)(d): amended, on 1 September 1987, by [section 38][273] of the Building Societies Amendment Act 1987 (1987 No 175).
     
     Section 104(2): repealed, on 1 September 1987, by [section 23(1)][312] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 104(4): amended, on 1 September 1987, by [section 38][270] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 104(4): amended, on 1 September 1987, by [section 38][273] of the Building Societies Amendment Act 1987 (1987 No 175).
     
     Section 104(5): amended, on 1 September 1987, by [section 23(2)][312] of the Building Societies Amendment Act 1987 (1987 No 175).
 
@@ -2629,9 +2483,11 @@ Management and administration
     
     *   (b) whether the annual return gives a true and fair view of the matters to which it is to be addressed, other than those with which the auditors, by virtue of regulations made under this Act, are not required to deal:
     
-    *   (c) whether the annual return is in agreement with the books of account and records of the society.
+    *   (c) whether the annual return is in agreement with the accounting and other records of the society.
     
     Compare: 1908 No 18 s 44(2); Building Societies Act 1962 s 91 (UK)
+    
+    Section 106(3)(c): amended, on 1 April 2014, by [section 12][314] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 #### Liability of officers
 
@@ -2653,7 +2509,7 @@ Management and administration
     
     Compare: Building Societies Act 1962 ss 92, 130, Eighth Schedule (para 10) (UK)
     
-    Section 107(5): amended, on 5 December 2013, by [section 14][258] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 107(5): amended, on 5 December 2013, by [section 14][261] of the Companies Amendment Act 2013 (2013 No 111).
 
 #### Determination of disputes
 
@@ -2675,7 +2531,7 @@ Management and administration
     
     Compare: 1908 No 18 s 2(2); Building Societies Act 1962 s 93 (UK)
     
-    Section 108(3): amended, on 27 November 1970, by [section 8(2)(b)][272] of the Building Societies Amendment Act 1970 (1970 No 117).
+    Section 108(3): amended, on 27 November 1970, by [section 8(2)(b)][275] of the Building Societies Amendment Act 1970 (1970 No 117).
 
 ##### 109 Determination of disputes by arbitration
     
@@ -2693,15 +2549,15 @@ Management and administration
     
     (5) For the purposes of any such arbitration, this section shall be deemed to be a submission within the meaning of the Arbitration Act 1908, and the provisions of that Act, so far as they are applicable, shall apply accordingly.
     
-    Section 109: replaced, on 27 November 1970, by [section 7(1)][314] of the Building Societies Amendment Act 1970 (1970 No 117).
+    Section 109: replaced, on 27 November 1970, by [section 7(1)][315] of the Building Societies Amendment Act 1970 (1970 No 117).
     
-    Section 109(4): replaced, on 1 September 1987, by [section 25][315] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 109(4): replaced, on 1 September 1987, by [section 25][316] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 110 Determination of disputes by Registrar
     
 *   \[Repealed\]
     
-    Section 110: repealed, on 27 November 1970, by [section 8(1)][272] of the Building Societies Amendment Act 1970 (1970 No 117).
+    Section 110: repealed, on 27 November 1970, by [section 8(1)][275] of the Building Societies Amendment Act 1970 (1970 No 117).
 
 ##### 111 Determination of disputes by court
     
@@ -2719,34 +2575,34 @@ Management and administration
     
     Compare: 1908 No 18 s 40(1); Building Societies Act 1962 s 97 (UK)
     
-    Section 112: amended, on 27 November 1970, by [section 8(2)(c)][272] of the Building Societies Amendment Act 1970 (1970 No 117).
+    Section 112: amended, on 27 November 1970, by [section 8(2)(c)][275] of the Building Societies Amendment Act 1970 (1970 No 117).
 
 ##### 113 Statement of case for High Court
     
 *   (1) At the request of either party to the dispute, the arbitrators, or the District Court Judge where a District Court is hearing the dispute, may state a case for the opinion of the High Court on any question of law.
     
-    (2) [Clause 4][316] of Schedule 2 of the Arbitration Act 1996 shall not apply to any dispute that is so referred.
+    (2) [Clause 4][317] of Schedule 2 of the Arbitration Act 1996 shall not apply to any dispute that is so referred.
     
     Compare: 1908 No 18 s 40(1); Building Societies Act 1962 s 98 (UK)
     
-    Section 113 heading: amended, on 1 April 1980, pursuant to [section 12][268] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 113 heading: amended, on 1 April 1980, pursuant to [section 12][271] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 113(1): amended, on 1 April 1980, pursuant to [section 18(2)][317] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 113(1): amended, on 1 April 1980, pursuant to [section 18(2)][318] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 113(1): amended, on 1 April 1980, pursuant to [section 12][268] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 113(1): amended, on 1 April 1980, pursuant to [section 12][271] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 113(1): amended, on 27 November 1970, by [section 8(2)(d)][272] of the Building Societies Amendment Act 1970 (1970 No 117).
+    Section 113(1): amended, on 27 November 1970, by [section 8(2)(d)][275] of the Building Societies Amendment Act 1970 (1970 No 117).
     
-    Section 113(2): replaced, on 1 July 1997, by [section 17][318] of the Arbitration Act 1996 (1996 No 99).
+    Section 113(2): replaced, on 1 July 1997, by [section 17][319] of the Arbitration Act 1996 (1996 No 99).
 
 ## Part 7A  
 Conversion to company
     
-*   Part 7A: inserted, on 1 September 1987, by [section 26][319] of the Building Societies Amendment Act 1987 (1987 No 175).
+*   Part 7A: inserted, on 1 September 1987, by [section 26][320] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 113A Building society may approve scheme for conversion of society into company under Companies Act 1993
     
-*   (1) A society may, by special resolution, approve a scheme for conversion of the society into a company having limited liability under the [Companies Act 1993][250].
+*   (1) A society may, by special resolution, approve a scheme for conversion of the society into a company having limited liability under the [Companies Act 1993][253].
     
     (2) Every scheme shall---
         
@@ -2796,13 +2652,13 @@ Conversion to company
     
     (7) For the purposes of subsection (6), _expert_ means any person who holds himself or herself out to be of a profession or calling that gives authority to a statement made by him or her; and includes an accountant or valuer; but does not include a person acting in his or her capacity as an auditor or as a director or officer of a society.
     
-    Section 113A: inserted, on 1 September 1987, by [section 26][319] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 113A: inserted, on 1 September 1987, by [section 26][320] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 113A heading: amended, on 1 July 1994, by [section 2][320] of the Building Societies Amendment Act 1993 (1993 No 111).
+    Section 113A heading: amended, on 1 July 1994, by [section 2][321] of the Building Societies Amendment Act 1993 (1993 No 111).
     
-    Section 113A(1): replaced, on 1 July 1994, by [section 2][320] of the Building Societies Amendment Act 1993 (1993 No 111).
+    Section 113A(1): replaced, on 1 July 1994, by [section 2][321] of the Building Societies Amendment Act 1993 (1993 No 111).
     
-    Section 113A(2): replaced, on 1 July 1994, by [section 2][320] of the Building Societies Amendment Act 1993 (1993 No 111).
+    Section 113A(2): replaced, on 1 July 1994, by [section 2][321] of the Building Societies Amendment Act 1993 (1993 No 111).
 
 ##### 113B Cancellation of approval of scheme for conversion by High Court
     
@@ -2846,7 +2702,7 @@ Conversion to company
     
     (7) Except by special leave of the court by whom the judgment or order appealed from was made, or by special leave of the Court of Appeal, no appeal from any judgment or order made under subsection (5) shall be brought after the expiration of 30 days from the time the decision of the court is given.
     
-    Section 113B: inserted, on 1 September 1987, by [section 26][319] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 113B: inserted, on 1 September 1987, by [section 26][320] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 113C Special resolution approving scheme for conversion to be registered by Registrar of Building Societies
     
@@ -2870,9 +2726,9 @@ Conversion to company
     
     (5) If a society makes default in delivering to the Registrar any document required by this section to be delivered to the Registrar, the society, and every officer of the society who is in default, shall be guilty of an offence against this Act.
     
-    Section 113C: inserted, on 1 September 1987, by [section 26][319] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 113C: inserted, on 1 September 1987, by [section 26][320] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 113C(4): amended, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 113C(4): amended, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
 
 ##### 113D Registrar of Companies to register society as company on receipt of certain documents
     
@@ -2882,11 +2738,11 @@ Conversion to company
     
     *   (b) the constitution of the proposed company, if it is proposed to have one, annexed to the scheme approved by the society:
     
-    *   (c) confirmation from the Registrar of Companies that the name of the proposed company has been reserved pursuant to [section 22][321] of the Companies Act 1993:
+    *   (c) confirmation from the Registrar of Companies that the name of the proposed company has been reserved pursuant to [section 22][322] of the Companies Act 1993:
     
     *   (d) the address of the registered office and the address for service of the proposed company:
     
-    *   (e) the written consents to act as directors as required by [section 152][322] of the Companies Act 1993 of all persons to be appointed directors of the proposed company:
+    *   (e) the written consents to act as directors as required by [section 152][323] of the Companies Act 1993 of all persons to be appointed directors of the proposed company:
     
     *   (f) the certificate of incorporation of the society issued under this Act:
     
@@ -2894,9 +2750,9 @@ Conversion to company
     
     (2) The Registrar of Companies, on being satisfied that the documents delivered under subsection (1) are in accordance with that subsection, shall retain and register them and issue a certificate of incorporation for the company.
     
-    (3) The certificate of incorporation shall be conclusive evidence that the requirements of this section have been complied with and that the society was, on the date shown in the certificate, duly registered as a company under the [Companies Act 1993][250].
+    (3) The certificate of incorporation shall be conclusive evidence that the requirements of this section have been complied with and that the society was, on the date shown in the certificate, duly registered as a company under the [Companies Act 1993][253].
     
-    (4) From the commencement of the date shown in the certificate of incorporation, the society shall cease to be incorporated under this Act and shall be a company incorporated under [Part 2][323] of the Companies Act 1993 and that Act shall apply to it accordingly.
+    (4) From the commencement of the date shown in the certificate of incorporation, the society shall cease to be incorporated under this Act and shall be a company incorporated under [Part 2][324] of the Companies Act 1993 and that Act shall apply to it accordingly.
     
     (5) The Registrar shall forthwith publish notice of the registration of the society as a company pursuant to this section in the _Gazette_.
     
@@ -2932,7 +2788,7 @@ Conversion to company
     
     *   (b) a statutory declaration by a director of the company to the effect that the consideration provided is not less than the amount by which the shares have been paid up otherwise than in cash and describing the consideration for the issue of the shares (or, where the effect of the issue of the shares is to satisfy the whole or part of a liability of the company, for the liability) in sufficient detail to identify it and stating an estimate of its value and how that value was assessed.
     
-    (8) Notwithstanding anything contained in subsection (7)(a) of this section or [section 87][324] of the Companies Act 1993, no company into which a society has become converted pursuant to this Part shall be required---
+    (8) Notwithstanding anything contained in subsection (7)(a) of this section or [section 87][325] of the Companies Act 1993, no company into which a society has become converted pursuant to this Part shall be required---
         
     *   (a) to show on the list required to be delivered to the Registrar of Companies by subsection (7)(a); or
     
@@ -2940,7 +2796,7 @@ Conversion to company
     
     the description of any person who immediately before the conversion date was a member of the society if the register of members of the society did not contain a description of that person.
     
-    Section 113D: replaced, on 1 July 1994, by [section 3][325] of the Building Societies Amendment Act 1993 (1993 No 111).
+    Section 113D: replaced, on 1 July 1994, by [section 3][326] of the Building Societies Amendment Act 1993 (1993 No 111).
 
 ##### 113E Consequential provisions on conversion of society
     
@@ -2978,7 +2834,7 @@ Conversion to company
     
     *   (h) any action, arbitration or proceedings, or cause of action which immediately before the conversion date is pending or existing by, against, or in favour of the society or to which the society is a party may be prosecuted, and without amendment of any writ, pleading, or other document, continued and enforced by, against, or in favour of the company.
     
-    Section 113E: inserted, on 1 September 1987, by [section 26][319] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 113E: inserted, on 1 September 1987, by [section 26][320] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 113F Enforceability of rights and liabilities altered by or arising under scheme for conversion
     
@@ -2986,15 +2842,15 @@ Conversion to company
     
     (2) Where a scheme for conversion approved under [section 113A][175] provides for any rights or liabilities to arise immediately after the conversion date those rights and liabilities shall be enforceable by, against, or in favour of the company on and after the conversion date.
     
-    Section 113F: inserted, on 1 September 1987, by [section 26][319] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 113F: inserted, on 1 September 1987, by [section 26][320] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 113G Liability of members of company
     
 *   No shares in the capital of a company into which a society has become converted pursuant to this Part that are issued in respect of shares held by a person as a member of the society shall require a contribution from that person to the assets of the company in the event of the company being put into liquidation that exceeds the amount undertaken to be contributed by that person in respect of that person's shares in the capital of the society to the assets of the society in the event of the society being dissolved.
     
-    Section 113G: inserted, on 1 September 1987, by [section 26][319] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 113G: inserted, on 1 September 1987, by [section 26][320] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 113G: amended, on 1 July 1994, by [section 4][326] of the Building Societies Amendment Act 1993 (1993 No 111).
+    Section 113G: amended, on 1 July 1994, by [section 4][327] of the Building Societies Amendment Act 1993 (1993 No 111).
 
 ##### 113H Prohibition on issue of terminating or bonus balloting shares in company to which society converts
     
@@ -3004,11 +2860,11 @@ Conversion to company
     
     *   (b) entitle the holder to participate in a ballot for the purpose of ascertaining which of the holders of such shares are entitled to receive any prizes arising in respect of those shares.
     
-    (2) Nothing in subsection (1) prevents a company into which a society has become converted from issuing any shares that a company incorporated under the [Companies Act 1993][250] is authorised or permitted to issue.
+    (2) Nothing in subsection (1) prevents a company into which a society has become converted from issuing any shares that a company incorporated under the [Companies Act 1993][253] is authorised or permitted to issue.
     
-    Section 113H: inserted, on 1 September 1987, by [section 26][319] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 113H: inserted, on 1 September 1987, by [section 26][320] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 113H(2): replaced, on 5 December 2013, by [section 14][258] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 113H(2): replaced, on 5 December 2013, by [section 14][261] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 113I Preservation of rights of terminating shareholders
     
@@ -3036,11 +2892,11 @@ Conversion to company
     
     *   (b) of the nature of the interest into which that person's shares may be converted if that person so consents.
     
-    Section 113I: inserted, on 1 September 1987, by [section 26][319] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 113I: inserted, on 1 September 1987, by [section 26][320] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 113I(2)(a): amended, on 1 July 1994, by [section 6][327] of the Building Societies Amendment Act 1993 (1993 No 111).
+    Section 113I(2)(a): amended, on 1 July 1994, by [section 6][328] of the Building Societies Amendment Act 1993 (1993 No 111).
     
-    Section 113I(2)(b): amended, on 1 July 1994, by [section 6][327] of the Building Societies Amendment Act 1993 (1993 No 111).
+    Section 113I(2)(b): amended, on 1 July 1994, by [section 6][328] of the Building Societies Amendment Act 1993 (1993 No 111).
 
 ##### 113J Terms and conditions of bonus balloting securities not to be substantially different from terms and conditions of bonus balloting shares
     
@@ -3068,11 +2924,11 @@ Conversion to company
     
     *   (b) of the nature of the interest into which that person's shares may be converted if that person so consents.
     
-    Section 113J: inserted, on 1 September 1987, by [section 26][319] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 113J: inserted, on 1 September 1987, by [section 26][320] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 113J(2)(a): amended, on 1 July 1994, by [section 7][328] of the Building Societies Amendment Act 1993 (1993 No 111).
+    Section 113J(2)(a): amended, on 1 July 1994, by [section 7][329] of the Building Societies Amendment Act 1993 (1993 No 111).
     
-    Section 113J(2)(b): amended, on 1 July 1994, by [section 7][328] of the Building Societies Amendment Act 1993 (1993 No 111).
+    Section 113J(2)(b): amended, on 1 July 1994, by [section 7][329] of the Building Societies Amendment Act 1993 (1993 No 111).
 
 ##### 113K Employees
     
@@ -3084,39 +2940,39 @@ Conversion to company
     
     *   (c) no such employee shall be entitled to receive any payment or other benefit by reason only of that employee ceasing to be an employee of the society by virtue of the society becoming converted into a company under this Part.
     
-    Section 113K: inserted, on 1 September 1987, by [section 26][319] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 113K: inserted, on 1 September 1987, by [section 26][320] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 113L Application of Gambling Act 2003 to company ballots
     
-*   (1) The [Gambling Act 2003][282] shall not apply to any ballot which is conducted at any time before the expiry of 3 years from the conversion date by a company into which a society has become converted pursuant to this Part for the purpose of determining the entitlement for prizes of any person who, immediately before the conversion date, was a holder of any bonus balloting share in the capital of the society and which is conducted in accordance with any regulations relating to bonus ballots made under this Act.
+*   (1) The [Gambling Act 2003][285] shall not apply to any ballot which is conducted at any time before the expiry of 3 years from the conversion date by a company into which a society has become converted pursuant to this Part for the purpose of determining the entitlement for prizes of any person who, immediately before the conversion date, was a holder of any bonus balloting share in the capital of the society and which is conducted in accordance with any regulations relating to bonus ballots made under this Act.
     
-    (2) The [Gambling Act 2003][282] shall not apply to any ballot which is conducted by a company into which a society has become converted pursuant to this Part for the purpose of determining the entitlement for loans of any person who, immediately before the conversion date, was a holder of any share in the society of a group that was to terminate at the end of a given period or on the attainment of specified results.
+    (2) The [Gambling Act 2003][285] shall not apply to any ballot which is conducted by a company into which a society has become converted pursuant to this Part for the purpose of determining the entitlement for loans of any person who, immediately before the conversion date, was a holder of any share in the society of a group that was to terminate at the end of a given period or on the attainment of specified results.
     
-    Section 113L: inserted, on 1 September 1987, by [section 26][319] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 113L: inserted, on 1 September 1987, by [section 26][320] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 113L heading: amended, on 1 July 2004, by [section 374][283] of the Gambling Act 2003 (2003 No 51).
+    Section 113L heading: amended, on 1 July 2004, by [section 374][286] of the Gambling Act 2003 (2003 No 51).
     
-    Section 113L(1): amended, on 1 July 2004, by [section 374][283] of the Gambling Act 2003 (2003 No 51).
+    Section 113L(1): amended, on 1 July 2004, by [section 374][286] of the Gambling Act 2003 (2003 No 51).
     
-    Section 113L(2): amended, on 1 July 2004, by [section 374][283] of the Gambling Act 2003 (2003 No 51).
+    Section 113L(2): amended, on 1 July 2004, by [section 374][286] of the Gambling Act 2003 (2003 No 51).
 
 ##### 113M Prohibition on opening of new bonus balloting accounts after conversion date
     
 *   No company into which a society has become converted pursuant to this Part shall permit any person to open an account with the company to which a number is given that is drawn in any ballot conducted for the purpose of determining entitlements for prizes.
     
-    Section 113M: inserted, on 1 September 1987, by [section 26][319] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 113M: inserted, on 1 September 1987, by [section 26][320] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 113N Retention of trustee investment status for 5 years from conversion
     
 *   \[Repealed\]
     
-    Section 113N: repealed, on 1 October 1988, by [section 16(1)][286] of the Trustee Amendment Act 1988 (1988 No 119).
+    Section 113N: repealed, on 1 October 1988, by [section 16(1)][289] of the Trustee Amendment Act 1988 (1988 No 119).
 
 ##### 113O Retention of approved status for accepting deposits in home ownership or farm ownership accounts
     
 *   Where a society becomes converted into a company pursuant to this Part and that society was, immediately before the conversion date, a society approved by Order in Council made under [section 56D][96], or deemed to be so approved, as a society that may accept deposits from its members in home ownership accounts or farm ownership accounts, the company into which the society has become converted shall be deemed to be an approved society that may accept deposits from its members or from any other person in home ownership accounts or farm ownership accounts, and the provisions of this Act and any regulations made under this Act relating to the approval of societies as societies that may accept deposits in home ownership or farm ownership accounts, and the operation of such accounts, shall apply to that company in all respects as if it were a society.
     
-    Section 113O: inserted, on 1 September 1987, by [section 26][319] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 113O: inserted, on 1 September 1987, by [section 26][320] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 113P Prohibition of bonus ballots after expiry of 3 years from conversion date
     
@@ -3130,9 +2986,9 @@ Conversion to company
     
     *   (b) fails to comply with the provisions of subsection (2).
     
-    Section 113P: inserted, on 1 September 1987, by [section 26][319] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 113P: inserted, on 1 September 1987, by [section 26][320] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 113P(3): amended, on 1 July 2013, by [section 413][259] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 113P(3): amended, on 1 July 2013, by [section 413][262] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 113Q Regulations for purposes of this Part
     
@@ -3156,17 +3012,17 @@ Conversion to company
     
     *   (f) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Part.
     
-    Section 113Q: inserted, on 1 September 1987, by [section 26][319] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 113Q: inserted, on 1 September 1987, by [section 26][320] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 113R Taxes and duties
     
-*   For the purposes of the Acts of Parliament specified in the [Schedule][329] of the Tax Administration Act 1994, and any other enactment that imposes or provides for the collection of a tax, duty, levy, rate, or other charge---
+*   For the purposes of the Acts of Parliament specified in the [Schedule][330] of the Tax Administration Act 1994, and any other enactment that imposes or provides for the collection of a tax, duty, levy, rate, or other charge---
         
     *   (a) any society that has become converted into a company and the company into which the society has become converted shall be deemed to be the same person; and
     
     *   (b) all transactions entered into by, and acts of, the society before the conversion date shall be deemed to have been entered into by, or to be those of, the company and to have been entered into or performed by the company at the time when they were entered into or performed by the society.
     
-    Section 113R: inserted, on 1 September 1987, by [section 26][319] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 113R: inserted, on 1 September 1987, by [section 26][320] of the Building Societies Amendment Act 1987 (1987 No 175).
     
     Section 113R: amended, on 1 April 1995 (applying with respect to the tax on income derived in the 1995--96 and subsequent income years), by section YB 1 of the Income Tax Act 1994 (1994 No 164).
 
@@ -3184,13 +3040,13 @@ Conversion to company
     
     shall, in the absence of evidence to the contrary, be sufficient proof that the property is vested in the company.
     
-    (3) No fee shall be payable to any District Land Registrar under the [Land Transfer Act 1952][330] or any regulations made under that Act for any act, matter, or thing in respect of which a fee is prescribed if the act or thing is done or the matter arises---
+    (3) No fee shall be payable to any District Land Registrar under the [Land Transfer Act 1952][331] or any regulations made under that Act for any act, matter, or thing in respect of which a fee is prescribed if the act or thing is done or the matter arises---
         
     *   (a) solely by reason of the change of name of a society to that of a company pursuant to this Part; and
     
     *   (b) other than at the request of the society or the company into which the society has become converted.
     
-    Section 113S: inserted, on 1 September 1987, by [section 26][319] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 113S: inserted, on 1 September 1987, by [section 26][320] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ## Part 8  
 Dissolution and winding up
@@ -3245,19 +3101,19 @@ Dissolution and winding up
     
     Compare: Building Societies Act 1962 s 102 (UK)
     
-    Section 116(3): amended, on 1 July 2013, by [section 413][259] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 116(3): amended, on 1 July 2013, by [section 413][262] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 116(3): amended, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 116(3): amended, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
     
-    Section 116(3): amended, on 1 October 1997, pursuant to [section 6(1)][301] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 116(3): amended, on 1 October 1997, pursuant to [section 6(1)][332] of the Financial Reporting Amendment Act 1997 (1997 No 17).
     
-    Section 116(4): repealed, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 116(4): repealed, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
 
 ##### 117 Dissolution on award of Registrar
     
 *   \[Repealed\]
     
-    Section 117: repealed, on 1 September 1987, by [section 27][331] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 117: repealed, on 1 September 1987, by [section 27][333] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 118 Dissolution by appointment of liquidator
     
@@ -3273,7 +3129,7 @@ Dissolution and winding up
     
     *   (c) the FMA in the exercise of any power conferred by this Act.
     
-    (4) Subject to the provisions of this Act and of any regulations made under this Act, a society shall be deemed for the purposes of any liquidation under this section to be a company, and the provisions of [Parts 16][332] and [17][333] of the Companies Act 1993 relating to the liquidation of companies, so far as they are applicable and with the necessary modifications, shall apply accordingly.
+    (4) Subject to the provisions of this Act and of any regulations made under this Act, a society shall be deemed for the purposes of any liquidation under this section to be a company, and the provisions of [Parts 16][334] and [17][335] of the Companies Act 1993 relating to the liquidation of companies, so far as they are applicable and with the necessary modifications, shall apply accordingly.
     
     (5) Where in the exercise of any power conferred by this Act the FMA makes an application under this section, the court may, if it thinks fit, having regard to the interests of those members of the society (if any) who were not responsible for the relevant default, and to all the other circumstances, refuse to make an order appointing a liquidator, and may make its refusal subject to any conditions.
     
@@ -3287,17 +3143,17 @@ Dissolution and winding up
     
     (7) In this section, the expression _the relevant default_, in relation to an application for the appointment of a liquidator, means the default that was the occasion of the application being made.
     
-    Section 118: replaced, on 1 July 1994, by [section 8][334] of the Building Societies Amendment Act 1993 (1993 No 111).
+    Section 118: replaced, on 1 July 1994, by [section 8][336] of the Building Societies Amendment Act 1993 (1993 No 111).
     
-    Section 118(3)(c): amended, on 1 May 2011, by [section 82][253] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 118(3)(c): amended, on 1 May 2011, by [section 82][257] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 118(5): amended, on 1 May 2011, by [section 82][253] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 118(5): amended, on 1 May 2011, by [section 82][257] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 119 Liability of members on dissolution or liquidation
     
 *   Where a society is being dissolved or is in liquidation, a member to whom a loan or other investment has been made under a mortgage or other security, or under the rules of the society, shall not be liable to pay the amount payable thereunder except at the time or times and subject to the conditions set out in the mortgage or other security, or in the rules, as the case may be.
     
-    Section 119: replaced, on 1 July 1994, by [section 8][334] of the Building Societies Amendment Act 1993 (1993 No 111).
+    Section 119: replaced, on 1 July 1994, by [section 8][336] of the Building Societies Amendment Act 1993 (1993 No 111).
 
 ##### 120 Notice of dissolution or liquidation
     
@@ -3307,11 +3163,11 @@ Dissolution and winding up
     
     (3) If a society fails to send any such notice, the society, and every officer of the society who is in default, commits an offence against this Act.
     
-    Section 120: replaced, on 1 July 1994, by [section 8][334] of the Building Societies Amendment Act 1993 (1993 No 111).
+    Section 120: replaced, on 1 July 1994, by [section 8][336] of the Building Societies Amendment Act 1993 (1993 No 111).
     
-    Section 120(1): amended, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 120(1): amended, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
     
-    Section 120(2): repealed, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 120(2): repealed, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
 
 ##### 121 Provision as to terminating societies
     
@@ -3322,7 +3178,7 @@ Dissolution and winding up
 ## Part 8A  
 Register of building societies
     
-*   Part 8A: inserted, on 20 September 2007, by [section 6][335] of the Building Societies Amendment Act 2007 (2007 No 43).
+*   Part 8A: inserted, on 20 September 2007, by [section 6][337] of the Building Societies Amendment Act 2007 (2007 No 43).
 
 ##### 121A Register of building societies
     
@@ -3336,7 +3192,7 @@ Register of building societies
     
     (3) The Registrar must take all reasonable steps to ensure that the information contained in the register is available to members of the public at all reasonable times.
     
-    Section 121A: inserted, on 20 September 2007, by [section 6][335] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 121A: inserted, on 20 September 2007, by [section 6][337] of the Building Societies Amendment Act 2007 (2007 No 43).
 
 ##### 121B Registration of documents
     
@@ -3344,13 +3200,15 @@ Register of building societies
         
     *   (a) register the document in the register; and
     
-    *   (b) give written advice of the registration to the person from whom the document was received (except in the case of an annual return or the financial statements and reports referred to in [section 97A(1)][153]).
+    *   (b) give written advice of the registration to the person from whom the document was received (except in the case of an annual return or the financial statements and reports referred to in [section 96(1)][151]).
     
     (2) Neither registration nor refusal of registration of a document by the Registrar affects, or creates a presumption as to, the validity or invalidity of the document or the correctness or otherwise of the information contained in it.
     
     (3) In this section, a _registration condition_ for a document is a matter of which the Registrar must be satisfied under this Act before registering that document.
     
-    Section 121B: inserted, on 20 September 2007, by [section 6][335] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 121B: inserted, on 20 September 2007, by [section 6][337] of the Building Societies Amendment Act 2007 (2007 No 43).
+    
+    Section 121B(1)(b): amended, on 1 April 2014, by [section 13][338] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 121C Registrar may require document to be registrable or otherwise comply before registration
     
@@ -3374,7 +3232,7 @@ Register of building societies
     
     *   (b) that a fresh document be submitted in its place.
     
-    Section 121C: inserted, on 20 September 2007, by [section 6][335] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 121C: inserted, on 20 September 2007, by [section 6][337] of the Building Societies Amendment Act 2007 (2007 No 43).
 
 ##### 121D When documents are registered
     
@@ -3384,7 +3242,7 @@ Register of building societies
     
     *   (b) particulars of the document are entered in an electronic register.
     
-    Section 121D: inserted, on 20 September 2007, by [section 6][335] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 121D: inserted, on 20 September 2007, by [section 6][337] of the Building Societies Amendment Act 2007 (2007 No 43).
 
 ##### 121E Alterations to register
     
@@ -3394,7 +3252,7 @@ Register of building societies
     
     *   (b) to correct an obvious error in or omission from the register.
     
-    Section 121E: inserted, on 20 September 2007, by [section 6][335] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 121E: inserted, on 20 September 2007, by [section 6][337] of the Building Societies Amendment Act 2007 (2007 No 43).
 
 ##### 121F Inspection of register
     
@@ -3404,7 +3262,7 @@ Register of building societies
     
     *   (b) particulars of a registered document entered into an electronic register.
     
-    Section 121F: inserted, on 20 September 2007, by [section 6][335] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 121F: inserted, on 20 September 2007, by [section 6][337] of the Building Societies Amendment Act 2007 (2007 No 43).
 
 ##### 121G Obtaining certified copy or extract from register
     
@@ -3424,7 +3282,7 @@ Register of building societies
     
     must not issue from the court without the leave of the court and, if it does, it must have a statement attached to it that it is issued with the leave of the court.
     
-    Section 121G: inserted, on 20 September 2007, by [section 6][335] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 121G: inserted, on 20 September 2007, by [section 6][337] of the Building Societies Amendment Act 2007 (2007 No 43).
 
 ##### 121H Certified copy or extract is evidence
     
@@ -3432,7 +3290,7 @@ Register of building societies
     
     (2) A certificate purporting to be signed by the Registrar as to the particulars of a registered document in an electronic register or any other matters in the register is conclusive evidence, in the absence of proof to the contrary, of the entry of those particulars or those other matters.
     
-    Section 121H: inserted, on 20 September 2007, by [section 6][335] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 121H: inserted, on 20 September 2007, by [section 6][337] of the Building Societies Amendment Act 2007 (2007 No 43).
 
 ## Part 9  
 Miscellaneous provisions
@@ -3441,7 +3299,7 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 122: repealed, on 1 September 1987, by [section 28][336] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 122: repealed, on 1 September 1987, by [section 28][339] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 122A Powers of inspection of Registrar
     
@@ -3455,7 +3313,7 @@ Miscellaneous provisions
     
     *   (d) for the purpose of making records thereof, take possession of and remove from the premises where they are kept, for such period of time as is reasonable in the circumstances, any such registers, records, accounts, books, or papers.
     
-    (2) Nothing in subsection (1) limits or affects the [Tax Administration Act 1994][337] or the [Statistics Act 1975][338].
+    (2) Nothing in subsection (1) limits or affects the [Tax Administration Act 1994][340] or the [Statistics Act 1975][341].
     
     (3) Subsection (1) shall apply also in relation to any registers, records, accounts, books, or papers of a person carrying on the business of banking so far as they relate to the society's affairs.
     
@@ -3483,29 +3341,29 @@ Miscellaneous provisions
     
     (10) Nothing in this section limits or affects legal professional privilege.
     
-    Section 122A: inserted, on 1 September 1987, by [section 29][339] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 122A: inserted, on 1 September 1987, by [section 29][342] of the Building Societies Amendment Act 1987 (1987 No 175).
     
     Section 122A(2): amended, on 1 April 1995 (applying with respect to the tax on income derived in the 1995--96 and subsequent income years), by section YB 1 of the Income Tax Act 1994 (1994 No 164).
     
-    Section 122A(4)(b): amended, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 122A(4)(b): amended, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
     
-    Section 122A(5)(b): replaced, on 1 October 1995, by [section 10(3)][256] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 122A(5)(b): replaced, on 1 October 1995, by [section 10(3)][259] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 122A(6): replaced, on 1 October 1995, by [section 10(3)][256] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 122A(6): replaced, on 1 October 1995, by [section 10(3)][259] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 122A(7): amended, on 1 July 2013, by [section 413][259] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 122A(7): amended, on 1 July 2013, by [section 413][262] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 122A(8): amended, on 1 July 2013, by [section 413][259] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 122A(8): amended, on 1 July 2013, by [section 413][262] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 122A(9): amended, on 1 July 2013, by [section 413][259] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 122A(9): amended, on 1 July 2013, by [section 413][262] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 122B Registrar may refuse to disclose information relating to inspection
     
-*   (1) Notwithstanding anything in the [Official Information Act 1982][340], but subject to subsections (4) and (5) of [section 122A][214], any person who makes an inspection under section 122A(1), and any person to whom that person has, pursuant to subsection (4) or subsection (5) of section 122A or otherwise, given, divulged, or communicated any information that the first-mentioned person has acquired as a result of that inspection, may refuse to disclose any such information to any other person until the purpose for which that inspection is carried out has been satisfied.
+*   (1) Notwithstanding anything in the [Official Information Act 1982][343], but subject to subsections (4) and (5) of [section 122A][214], any person who makes an inspection under section 122A(1), and any person to whom that person has, pursuant to subsection (4) or subsection (5) of section 122A or otherwise, given, divulged, or communicated any information that the first-mentioned person has acquired as a result of that inspection, may refuse to disclose any such information to any other person until the purpose for which that inspection is carried out has been satisfied.
     
-    (2) Notwithstanding anything in the [Official Information Act 1982][340], where any person requests the Registrar or any person referred to in subsection (4)(a) or (b) or subsection (5)(a) or (b) of [section 122A][214] to disclose whether an inspection under section 122A(1) is being, or is proposed to be, or has been carried out, the Registrar or, as the case may require, that person shall not be required to disclose that information under the Official Information Act 1982 unless the disclosure of that information would not be likely to prejudice the commercial position of any society or other person, and there is no other good reason for withholding that information under that Act.
+    (2) Notwithstanding anything in the [Official Information Act 1982][343], where any person requests the Registrar or any person referred to in subsection (4)(a) or (b) or subsection (5)(a) or (b) of [section 122A][214] to disclose whether an inspection under section 122A(1) is being, or is proposed to be, or has been carried out, the Registrar or, as the case may require, that person shall not be required to disclose that information under the Official Information Act 1982 unless the disclosure of that information would not be likely to prejudice the commercial position of any society or other person, and there is no other good reason for withholding that information under that Act.
     
-    Section 122B: inserted, on 1 September 1987, by [section 29][339] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 122B: inserted, on 1 September 1987, by [section 29][342] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 122C Appeals from decisions under section 122B
     
@@ -3513,7 +3371,7 @@ Miscellaneous provisions
     
     (2) On hearing the appeal, the court may confirm the refusal, or give such directions or make such determination in the matter as the court thinks fit.
     
-    Section 122C: inserted, on 1 September 1987, by [section 29][339] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 122C: inserted, on 1 September 1987, by [section 29][342] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 122D Power of FMA to require actuary's certificate as to appropriations by ballot
     
@@ -3525,25 +3383,25 @@ Miscellaneous provisions
     
     (4) If a society or the company, as the case may be, fails to comply with a further notice under subsection (3) and to supply the certificate within the said period of 3 months, the FMA may,---
         
-    *   (a) in the case of a society, apply to have the society put into liquidation under the [Companies Act 1993][250]; or
+    *   (a) in the case of a society, apply to have the society put into liquidation under the [Companies Act 1993][253]; or
     
-    *   (b) in the case of a company, apply to have the company put into liquidation under the [Companies Act 1993][250].
+    *   (b) in the case of a company, apply to have the company put into liquidation under the [Companies Act 1993][253].
     
-    Section 122D: inserted, on 1 September 1987, by [section 29][339] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 122D: inserted, on 1 September 1987, by [section 29][342] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 122D heading: amended, on 1 May 2011, by [section 82][253] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 122D heading: amended, on 1 May 2011, by [section 82][257] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 122D(1): amended, on 1 May 2011, by [section 82][253] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 122D(1): amended, on 1 May 2011, by [section 82][257] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 122D(2): amended, on 1 May 2011, by [section 82][253] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 122D(2): amended, on 1 May 2011, by [section 82][257] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 122D(3): amended, on 1 May 2011, by [section 82][253] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 122D(3): amended, on 1 May 2011, by [section 82][257] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 122D(4): replaced, on 1 July 1994, by [section 2][265] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 122D(4): replaced, on 1 July 1994, by [section 2][268] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
-    Section 122D(4): amended, on 1 May 2011, by [section 82][253] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 122D(4): amended, on 1 May 2011, by [section 82][257] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 122D(4)(b): replaced, on 5 December 2013, by [section 14][258] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 122D(4)(b): replaced, on 5 December 2013, by [section 14][261] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 123 Inspections and special meetings
     
@@ -3587,27 +3445,27 @@ Miscellaneous provisions
     
     *   (c) the meeting has all the powers of a meeting called according to the society's rules.
     
-    (6A) Nothing in this section limits any power that the FMA has under the [Financial Markets Authority Act 2011][341] or any other enactment.
+    (6A) Nothing in this section limits any power that the FMA has under the [Financial Markets Authority Act 2011][344] or any other enactment.
     
     (7) If a society fails to allow an inspector appointed under this section to do anything that he or she is authorised to do thereunder, the society, and every officer of the society who is in default, shall be guilty of an offence against this Act.
     
     Compare: Building Societies Act 1962 s 110 (UK)
     
-    Section 123(1): amended, on 1 May 2011, by [section 82][253] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 123(1): amended, on 1 May 2011, by [section 82][257] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 123(3)(a): amended, on 1 May 2011, by [section 82][253] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 123(3)(a): amended, on 1 May 2011, by [section 82][257] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 123(3)(b): amended, on 1 May 2011, by [section 82][253] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 123(3)(b): amended, on 1 May 2011, by [section 82][257] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 123(3)(c): amended, on 1 May 2011, by [section 82][253] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 123(3)(c): amended, on 1 May 2011, by [section 82][257] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 123(3)(d): amended, on 1 May 2011, by [section 82][253] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 123(3)(d): amended, on 1 May 2011, by [section 82][257] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 123(4): replaced, on 1 May 2011, by [section 82][253] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 123(4): replaced, on 1 May 2011, by [section 82][257] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 123(6): replaced, on 1 May 2011, by [section 82][253] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 123(6): replaced, on 1 May 2011, by [section 82][257] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 123(6A): inserted, on 1 May 2011, by [section 82][253] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 123(6A): inserted, on 1 May 2011, by [section 82][257] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 124 Compulsory cancellation or suspension of registration
     
@@ -3635,9 +3493,9 @@ Miscellaneous provisions
     
     Compare: Building Societies Act 1962 s 113 (UK)
     
-    Section 124(6): amended, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 124(6): amended, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
     
-    Section 124(7): amended, on 1 April 1980, pursuant to [section 12][268] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 124(7): amended, on 1 April 1980, pursuant to [section 12][271] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 125 Cancellation of registration at request of society
     
@@ -3671,15 +3529,15 @@ Miscellaneous provisions
     
     (8) In the register to be maintained under [section 74][124], it shall not be necessary to enter the name and address of a person who is one of the joint holders, other than the first named joint holder, by reason only that that person is a joint holder of those shares; and if that person's name and address are entered in the register in respect of those shares the entry shall indicate that that person is a joint holder who is not the first named joint holder.
     
-    Section 127: replaced, on 1 September 1987, by [section 30][342] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 127: replaced, on 1 September 1987, by [section 30][345] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 127(4): amended, on 1 October 1997, pursuant to [section 6(1)][301] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 127(4): amended, on 1 October 1997, pursuant to [section 6(1)][332] of the Financial Reporting Amendment Act 1997 (1997 No 17).
 
 ##### 128 Land acquired by exercise of powers as mortgagee to be sold
     
 *   \[Repealed\]
     
-    Section 128: repealed, on 1 September 1987, by [section 31][343] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 128: repealed, on 1 September 1987, by [section 31][346] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ##### 129 Evidence of rules
     
@@ -3691,21 +3549,25 @@ Miscellaneous provisions
     
     Compare: 1908 No 18 s 22; Building Societies Act 1962 s 121 (UK)
     
-    Section 129 heading: amended, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 129 heading: amended, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
     
-    Section 129(1): repealed, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 129(1): repealed, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
     
-    Section 129(2): repealed, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 129(2): repealed, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
 
 ##### 130 Form in which records may be kept
     
-*   (1) Any register, record, or book of account to be kept by a society may be kept either by making entries in bound books or by recording the matters in question in any other manner.
+*   (1) Any register, record, or accounting record to be kept by a society may be kept either by making entries in bound books or by recording the matters in question in any other manner.
     
-    (2) Where any such register, record, or book of account is not kept by making records in a bound book but is kept by some other means, adequate precautions shall be taken for guarding against falsification and for facilitating its discovery.
+    (2) Where any such register, record, or accounting record is not kept by making records in a bound book but is kept by some other means, adequate precautions shall be taken for guarding against falsification and for facilitating its discovery.
     
     (3) Where default is made in complying with subsection (2), the society, and every officer of the society who is in default, shall be guilty of an offence against this Act.
     
     Compare: Building Societies Act 1962 s 122 (UK)
+    
+    Section 130(1): amended, on 1 April 2014, by [section 14][347] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 130(2): amended, on 1 April 2014, by [section 14][347] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 131 Exemptions from stamp duties
     
@@ -3729,9 +3591,9 @@ Miscellaneous provisions
     
     Compare: 1908 No 18 s 32; Building Societies Act 1962 s 111 (UK)
     
-    Section 132(2): amended, on 1 July 2013, by [section 413][259] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 132(2): amended, on 1 July 2013, by [section 413][262] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 132(4): amended, on 1 July 2013, by [section 413][259] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 132(4): amended, on 1 July 2013, by [section 413][262] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 133 False statements in documents
     
@@ -3745,17 +3607,17 @@ Miscellaneous provisions
     
     Compare: 1908 No 18 s 49(1)(c); Building Societies Act 1962 s 112 (UK)
     
-    Section 133(1): amended, on 1 July 2013, by [section 413][259] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 133(1): amended, on 1 July 2013, by [section 413][262] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 134 Summary jurisdiction in respect of indictable offences
     
 *   \[Repealed\]
     
-    Section 134: repealed, on 1 July 2013, by [section 413][259] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 134: repealed, on 1 July 2013, by [section 413][262] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 135 Time for filing charging document
     
-*   (1) Despite anything to the contrary in [section 25][344] of the Criminal Procedure Act 2011,---
+*   (1) Despite anything to the contrary in [section 25][348] of the Criminal Procedure Act 2011,---
         
     *   (a) a charging document may be filed at any time in respect of an offence against [section 29(5)][51], [132(2)][227], or [133(1)][228]; and
     
@@ -3765,13 +3627,13 @@ Miscellaneous provisions
     
     (3) Subsection (1) is subject to subsection (2).
     
-    Section 135: replaced, on 1 July 2013, by [section 413][259] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 135: replaced, on 1 July 2013, by [section 413][262] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 136 General penalty for offences
     
 *   Every society or person who commits an offence against this Act, or against any regulations made under this Act, for which no penalty is provided elsewhere than in this section is liable on conviction to a fine not exceeding $1,000\.
     
-    Section 136: amended, on 1 July 2013, by [section 413][259] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 136: amended, on 1 July 2013, by [section 413][262] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 137 Regulations
     
@@ -3779,11 +3641,11 @@ Miscellaneous provisions
         
     *   (a) prescribing the forms of, and the particulars to be included in, applications, notices, certificates, returns, reports, or other documents made or issued under or for the purposes of this Act (and those regulations may require the inclusion in, or attachment to, forms of specified information or documents and forms to be signed by specified persons), and prescribing requirements, not inconsistent with this Act, with which those documents must comply:
     
-    *   (aa) prescribing the financial statements to be prepared by a society, and prescribing the forms of, and the information and particulars to be included in, such financial statements:
+    *   (aa) \[Repealed\]
     
     *   (ab) prescribing the manner in which any financial statements required under [section 92][147] are to be published or distributed:
     
-    *   (ac) prescribing requirements for the auditing of any financial statements required under [section 92][147], and conferring on the auditors such powers, including the power of inspection of documents and records, as may be necessary or desirable for the purposes of auditing those statements:
+    *   (ac) requiring financial statements required under [section 92][147] to be audited by a qualified auditor:
     
     *   (b) prescribing the procedure to be followed in respect of applications to and proceedings before the Registrar:
     
@@ -3805,21 +3667,21 @@ Miscellaneous provisions
     
     Compare: 1908 No 18 s 51; Building Societies Act 1962 s 123 (UK)
     
-    Section 137(1)(a): amended, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 137(1)(a): amended, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
     
-    Section 137(1)(aa): inserted, on 1 September 1987, by [section 32][345] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 137(1)(aa): repealed, on 1 April 2014, by [section 15(1)][349] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 137(1)(ab): inserted, on 1 September 1987, by [section 32][345] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 137(1)(ab): inserted, on 1 September 1987, by [section 32][350] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 137(1)(ac): inserted, on 1 September 1987, by [section 32][345] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 137(1)(ac): replaced, on 1 April 2014, by [section 15(2)][349] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 137(1)(c): amended, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 137(1)(c): amended, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
     
-    Section 137(1)(ca): inserted, on 22 December 1980, by [section 19][346] of the Building Societies Amendment Act 1980 (1980 No 92).
+    Section 137(1)(ca): inserted, on 22 December 1980, by [section 19][351] of the Building Societies Amendment Act 1980 (1980 No 92).
     
-    Section 137(2): inserted, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 137(2): inserted, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
     
-    Section 137(3): inserted, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 137(3): inserted, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
 
 ##### 138 Filing of rules of existing societies with District Registrars of Companies
     
@@ -3833,11 +3695,11 @@ Miscellaneous provisions
     
 *   (1) The enactments specified in [Schedule 6][240] are hereby repealed.
     
-    (2) _Amendment(s) incorporated in the [Act(s)][347]._
+    (2) _Amendment(s) incorporated in the [Act(s)][352]._
     
-    (3) _Amendment(s) incorporated in the [Act(s)][348]._
+    (3) _Amendment(s) incorporated in the [Act(s)][353]._
     
-    (4) _Amendment(s) incorporated in the [Act(s)][349]._
+    (4) _Amendment(s) incorporated in the [Act(s)][354]._
     
     (5) Every reference in any enactment or document to the Registrar of Building Societies under the Building Societies Act 1908, or to any District Registrar or Assistant Registrar of Building Societies under that Act shall hereafter, unless the context otherwise requires, be read as a reference to the Registrar of Building Societies under this Act.
     
@@ -3851,11 +3713,11 @@ Miscellaneous provisions
     
     Compare: Building Societies Act 1962 s 132(2) (UK)
     
-    Section 139(6): amended, on 20 September 2007, by [section 7][252] of the Building Societies Amendment Act 2007 (2007 No 43).
+    Section 139(6): amended, on 20 September 2007, by [section 7][256] of the Building Societies Amendment Act 2007 (2007 No 43).
     
-    Section 139(8): repealed, on 1 September 1987, by [section 33][350] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 139(8): repealed, on 1 September 1987, by [section 33][355] of the Building Societies Amendment Act 1987 (1987 No 175).
     
-    Section 139(9): repealed, on 1 September 1987, by [section 33][350] of the Building Societies Amendment Act 1987 (1987 No 175).
+    Section 139(9): repealed, on 1 September 1987, by [section 33][355] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ---
 
@@ -3866,7 +3728,7 @@ Standard rules for meetings
 
 \[Repealed\]
     
-*   Schedule 1: repealed, on 1 September 1987, by [section 34][351] of the Building Societies Amendment Act 1987 (1987 No 175).
+*   Schedule 1: repealed, on 1 September 1987, by [section 34][356] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ---
 
@@ -3895,7 +3757,7 @@ Requirements relating to founders' and directors' shares
 
 *   5(1) If at any time before the end of the relevant period of 5 years there is a failure to comply with clauses 2 to 4 of this schedule in relation to any of the relevant shares, the Registrar may, subject to the succeeding provisions of this schedule, apply to the court for the appointment of a liquidator under Part 16 of the Companies Act 1993\.
     
-    (2) Not less than 1 month before making the application, the Registrar shall send to the society notice of his or her decision, and may, if he or she thinks fit, afford to the society an opportunity of submitting, as an alternative to the liquidation of the society under the [Companies Act 1993][250], proposals for---
+    (2) Not less than 1 month before making the application, the Registrar shall send to the society notice of his or her decision, and may, if he or she thinks fit, afford to the society an opportunity of submitting, as an alternative to the liquidation of the society under the [Companies Act 1993][253], proposals for---
         
     *   (a) dissolving the society in one of the ways mentioned in [sections 114][195] and [115][196] of this Act; or
     
@@ -3903,9 +3765,9 @@ Requirements relating to founders' and directors' shares
     
     and the Registrar may, having regard to the proposals, postpone his or her decision to make the application.
     
-    Schedule 2 clause 5(1): amended, on 1 July 1994, by [section 10(1)][352] of the Building Societies Amendment Act 1993 (1993 No 111).
+    Schedule 2 clause 5(1): amended, on 1 July 1994, by [section 10(1)][357] of the Building Societies Amendment Act 1993 (1993 No 111).
     
-    Schedule 2 clause 5(2): replaced, on 1 July 1994, by [section 10(2)][352] of the Building Societies Amendment Act 1993 (1993 No 111).
+    Schedule 2 clause 5(2): replaced, on 1 July 1994, by [section 10(2)][357] of the Building Societies Amendment Act 1993 (1993 No 111).
 
 *   6(1) Until the end of the relevant period of 5 years, the society shall not, without the consent of the Registrar, unite with another society under section 32, or transfer its engagements to another society under section 33, unless the other society (or, in the case of a union with 2 or more societies, one of those societies) has been incorporated for more than 5 years and has assets which exceed $200,000 in value.
     
@@ -3917,11 +3779,11 @@ Requirements relating to founders' and directors' shares
     
     the Registrar may attach to his or her consent conditions that are in his or her opinion equivalent to the conditions that under the foregoing provisions of this schedule attach to the relevant shares.
     
-    (3) If at any time during the remainder of the relevant period of 5 years any conditions attached by virtue of subclause (2) are broken, the Registrar may apply to the court for the appointment of a liquidator under the [Companies Act 1993][250] of the society formed on the union, or of the society to which the engagements are transferred, as the case may be.
+    (3) If at any time during the remainder of the relevant period of 5 years any conditions attached by virtue of subclause (2) are broken, the Registrar may apply to the court for the appointment of a liquidator under the [Companies Act 1993][253] of the society formed on the union, or of the society to which the engagements are transferred, as the case may be.
     
     Compare: Building Societies Act 1962 First Schedule (UK)
     
-    Schedule 2 clause 6(3): amended, on 1 July 1994, by [section 10(3)][352] of the Building Societies Amendment Act 1993 (1993 No 111).
+    Schedule 2 clause 6(3): amended, on 1 July 1994, by [section 10(3)][357] of the Building Societies Amendment Act 1993 (1993 No 111).
 
 ---
 
@@ -3932,7 +3794,7 @@ Requirements relating to advertising
 
 \[Repealed\]
     
-*   Schedule 3: repealed, on 1 September 1987, by [section 35][353] of the Building Societies Amendment Act 1987 (1987 No 175).
+*   Schedule 3: repealed, on 1 September 1987, by [section 35][358] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ---
 
@@ -3943,7 +3805,7 @@ Societies authorised to accept savings bank deposits
 
 \[Repealed\]
     
-*   Schedule 4: repealed, on 1 September 1987, by [section 36][354] of the Building Societies Amendment Act 1987 (1987 No 175).
+*   Schedule 4: repealed, on 1 September 1987, by [section 36][359] of the Building Societies Amendment Act 1987 (1987 No 175).
 
 ---
 
@@ -3952,7 +3814,7 @@ Amendment to Part 2 of Schedule 1 of the Summary Proceedings Act 1957
 
 [s 134][229]
 
-_Amendment(s) incorporated in the [Act(s)][355]._
+_Amendment(s) incorporated in the [Act(s)][360]._
 
 ---
 
@@ -3969,7 +3831,7 @@ Enactments repealed
 
 ##### Finance Act 1930 (No 2) (1930 No 40) (1957 Reprint, Vol 1, p 716; Vol 5, p 78)
 
-_Amendment(s) incorporated in the [Act(s)][356]._
+_Amendment(s) incorporated in the [Act(s)][361]._
 
 ##### Finance Act 1932 (No 2) (1932 No 30) (1957 Reprint, Vol 1, pp 699, 717; Vol 5, p 93)
 
@@ -3977,7 +3839,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Finance Act 1933 (No 2) (1933 No 41) (1957 Reprint, Vol 1, pp 697, 717; Vol 5, p 98)
 
-_Amendment(s) incorporated in the [Act(s)][357]._
+_Amendment(s) incorporated in the [Act(s)][362]._
 
 ##### Finance Act (No 3) 1944 (1944 No 31) (1957 Reprint, Vol 1, p 718; Vol 5, p 132)
 
@@ -3985,11 +3847,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Finance Act 1957 (1957 No 106) (1957 Reprint, Vol 1, p 719; Vol 5, p 177)
 
-_Amendment(s) incorporated in the [Act(s)][358]._
+_Amendment(s) incorporated in the [Act(s)][363]._
 
 ##### National Expenditure Adjustment Act 1932 (1932 No 8) (1957 Reprint, Vol 10, pp 723, 724)
 
-_Amendment(s) incorporated in the [Act(s)][347]._
+_Amendment(s) incorporated in the [Act(s)][352]._
 
 ---
 
@@ -3999,7 +3861,7 @@ _Amendment(s) incorporated in the [Act(s)][347]._
 
 \[Repealed\]
     
-*   Schedule 7: repealed, on 1 April 1981, by [section 7(1)(b)][278] of the Building Societies Amendment Act 1980 (1980 No 92).
+*   Schedule 7: repealed, on 1 April 1981, by [section 7(1)(b)][281] of the Building Societies Amendment Act 1980 (1980 No 92).
 
 ---
 
@@ -4013,7 +3875,7 @@ An Act to amend the Building Societies Act 1965
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Building Societies Amendment Act 1980][359], and shall be read together with and deemed part of the Building Societies Act 1965 (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the [Building Societies Amendment Act 1980][364], and shall be read together with and deemed part of the Building Societies Act 1965 (hereinafter referred to as ""the principal Act"").
     
     (2) Except as provided in sections 5(4), 7(6), and 9(2) of this Act, this Act shall come into force on the day on which it receives the Governor-General's assent.
 
@@ -4035,7 +3897,7 @@ An Act to amend the Building Societies Act 1965
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Building Societies Amendment Act 1987][360], and shall be read together with and deemed part of the Building Societies Act 1965 (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the [Building Societies Amendment Act 1987][365], and shall be read together with and deemed part of the Building Societies Act 1965 (hereinafter referred to as ""the principal Act"").
     
     (2) This Act shall come into force on 1 September 1987\.
 
@@ -4059,7 +3921,7 @@ An Act to amend the Building Societies Act 1965
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Building Societies Amendment Act 1993][361], and shall be read together with and deemed part of the Building Societies Act 1965 (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the [Building Societies Amendment Act 1993][366], and shall be read together with and deemed part of the Building Societies Act 1965 (hereinafter referred to as ""the principal Act"").
     
     (2) This Act shall come into force on 1 July 1994\.
 
@@ -4079,7 +3941,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Building Societies Amendment Act 2007][362].
+*   This Act is the [Building Societies Amendment Act 2007][367].
 
 ##### 2 Commencement
     
@@ -4105,53 +3967,49 @@ Commencementsee section 2
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][363] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][364] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][368] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][369] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][365] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][366] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][370] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][371] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Companies Amendment Act 2013 (2013 No 111): [section 14][258]
+*   Companies Amendment Act 2013 (2013 No 111): [section 14][261]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][259]
+    Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [sections 5--15][255]
     
-    Auditor Regulation Act 2011 (2011 No 21): [section 82][255]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][262]
     
-    Financial Markets Authority Act 2011 (2011 No 5): [section 82][253]
+    Financial Markets Authority Act 2011 (2011 No 5): [section 82][257]
     
-    Property Law Act 2007 (2007 No 91): [section 364(1)][254]
+    Property Law Act 2007 (2007 No 91): [section 364(1)][258]
     
-    [Building Societies Amendment Act 2007][362] (2007 No 43)
+    [Building Societies Amendment Act 2007][367] (2007 No 43)
     
-    [Building Societies Amendment Act 2004][367] (2004 No 22)
+    Gambling Act 2003 (2003 No 51): [section 374][286]
     
-    Gambling Act 2003 (2003 No 51): [section 374][283]
+    Personal Property Securities Act 1999 (1999 No 126): [section 191(1)][260]
     
-    Personal Property Securities Act 1999 (1999 No 126): [section 191(1)][257]
+    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6(1)][332]
     
-    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6(1)][301]
+    Arbitration Act 1996 (1996 No 99): [section 17][319]
     
-    Arbitration Act 1996 (1996 No 99): [section 17][318]
-    
-    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][256]
+    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][259]
     
     Income Tax Act 1994 (1994 No 164): section YB 1
     
-    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][265]
+    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][268]
     
-    [Building Societies Amendment Act 1993][361] (1993 No 111)
-    
-    Financial Reporting Act 1993 (1993 No 106): [section 49][299]
+    [Building Societies Amendment Act 1993][366] (1993 No 111)
     
     Building Societies Amendment Act 1989 (1989 No 111)
     
-    Trustee Amendment Act 1988 (1988 No 119): [section 16(1)][286]
+    Trustee Amendment Act 1988 (1988 No 119): [section 16(1)][289]
     
-    State Sector Act 1988 (1988 No 20): [section 90(a)][261]
+    State Sector Act 1988 (1988 No 20): [section 90(a)][264]
     
-    [Building Societies Amendment Act 1987][360] (1987 No 175)
+    [Building Societies Amendment Act 1987][365] (1987 No 175)
     
     Constitution Act 1986 (1986 No 114): [section 29(2)][242]
     
@@ -4159,17 +4017,17 @@ Commencementsee section 2
     
     Income Tax Amendment Act 1981 (1981 No 33): section 12(3)
     
-    [Building Societies Amendment Act 1980][359] (1980 No 92)
+    [Building Societies Amendment Act 1980][364] (1980 No 92)
     
-    District Courts Amendment Act 1979 (1979 No 125) [section 18(2)][317]
+    District Courts Amendment Act 1979 (1979 No 125) [section 18(2)][318]
     
-    Judicature Amendment Act 1979 (1979 No 124): [section 12][268]
+    Judicature Amendment Act 1979 (1979 No 124): [section 12][271]
     
     Reserve Bank of New Zealand Amendment Act 1973 (1973 No 16): section 14(2)
     
-    Age of Majority Act 1970 (1970 No 137): [section 6][276]
+    Age of Majority Act 1970 (1970 No 137): [section 6][279]
     
-    [Building Societies Amendment Act 1970][368] (1970 No 117)
+    [Building Societies Amendment Act 1970][372] (1970 No 117)
     
     Stamp Duties Amendment Act 1968 (1968 No 6): section 2
 
@@ -4418,129 +4276,133 @@ Commencementsee section 2
 [240]: http://www.legislation.govt.nz/act/public/1965/0022/latest/whole.html#DLM372535
 [241]: http://www.legislation.govt.nz/act/public/1965/0022/latest/whole.html#DLM372536
 [242]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM94263
-[243]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM242775
-[244]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM26805
-[245]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM3231062
-[246]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM271049
-[247]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM250592
-[248]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM3230581
-[249]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM249941
-[250]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM319569
-[251]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123666
-[252]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM968067
-[253]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM3231793
-[254]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM969644
-[255]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM3231525
-[256]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM367235
-[257]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM47639
-[258]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM5620822
-[259]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM3360714
-[260]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM129109
-[261]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM130377
-[262]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM968052
-[263]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM968054
-[264]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123668
-[265]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM328986
-[266]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM39705
-[267]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123669
-[268]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM35049
-[269]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123670
-[270]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM124102
-[271]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM39706
-[272]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM395783
-[273]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123671
-[274]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM39707
-[275]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123673
-[276]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM396805
-[277]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM39708
-[278]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM39709
-[279]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM39710
-[280]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123674
-[281]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM39711
-[282]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM207496
-[283]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM210735
-[284]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123675
-[285]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123676
-[286]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM135631
-[287]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM969243
-[288]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM969116
-[289]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123677
-[290]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123678
-[291]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123679
-[292]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM39717
-[293]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123680
-[294]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM39718
-[295]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123681
-[296]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123682
-[297]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123683
-[298]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM324887
-[299]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM325176
-[300]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123684
-[301]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM408960
-[302]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM243599
-[303]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM324886
-[304]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM244101
-[305]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM244102
-[306]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM244104
-[307]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM391422
-[308]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM320887
-[309]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM323597
+[243]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM4632837
+[244]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM242775
+[245]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM26805
+[246]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM4632890
+[247]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM4632954
+[248]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM3231062
+[249]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM4632894
+[250]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM271049
+[251]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM250592
+[252]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM249941
+[253]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM319569
+[254]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123666
+[255]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM5739911
+[256]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM968067
+[257]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM3231793
+[258]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM969644
+[259]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM367235
+[260]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM47639
+[261]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM5620822
+[262]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM3360714
+[263]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM129109
+[264]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM130377
+[265]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM968052
+[266]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM968054
+[267]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123668
+[268]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM328986
+[269]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM39705
+[270]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123669
+[271]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM35049
+[272]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123670
+[273]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM124102
+[274]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM39706
+[275]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM395783
+[276]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123671
+[277]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM39707
+[278]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123673
+[279]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM396805
+[280]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM39708
+[281]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM39709
+[282]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM39710
+[283]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123674
+[284]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM39711
+[285]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM207496
+[286]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM210735
+[287]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123675
+[288]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123676
+[289]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM135631
+[290]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM969243
+[291]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM969116
+[292]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123677
+[293]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123678
+[294]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123679
+[295]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM39717
+[296]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123680
+[297]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM39718
+[298]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123681
+[299]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123682
+[300]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123683
+[301]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM5739922
+[302]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM4702243
+[303]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM4702249
+[304]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM5739929
+[305]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM5739934
+[306]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM4632944
+[307]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM4632947
+[308]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM5739935
+[309]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM5739937
 [310]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123685
-[311]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123686
+[311]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM5739938
 [312]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123687
 [313]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123688
-[314]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM395782
-[315]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123689
-[316]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM405762
-[317]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM35085
-[318]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM405707
-[319]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123690
-[320]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM327416
-[321]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM320125
-[322]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM320694
-[323]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM320106
-[324]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM320447
-[325]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM327417
-[326]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM327418
-[327]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM327420
-[328]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM327421
-[329]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM359333
-[330]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM269031
-[331]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123691
-[332]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM321666
-[333]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM322825
-[334]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM327422
-[335]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM968055
-[336]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123692
-[337]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM348342
-[338]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM430704
-[339]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123693
-[340]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM64784
-[341]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM3231004
-[342]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123694
-[343]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123695
-[344]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM3360067
-[345]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123696
-[346]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM39721
-[347]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM212211
-[348]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM212845
-[349]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM304703
-[350]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123697
-[351]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123698
-[352]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM327424
-[353]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123699
-[354]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM124100
-[355]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM310742
-[356]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM208585
-[357]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM214785
-[358]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM317313
-[359]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM39498
-[360]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123660
-[361]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM327410
-[362]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM968045
-[363]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM2998516
-[364]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM2998515
-[365]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM2998532
-[366]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[367]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM243593
-[368]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM395769
+[314]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM5739939
+[315]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM395782
+[316]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123689
+[317]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM405762
+[318]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM35085
+[319]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM405707
+[320]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123690
+[321]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM327416
+[322]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM320125
+[323]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM320694
+[324]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM320106
+[325]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM320447
+[326]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM327417
+[327]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM327418
+[328]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM327420
+[329]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM327421
+[330]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM359333
+[331]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM269031
+[332]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM408960
+[333]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123691
+[334]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM321666
+[335]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM322825
+[336]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM327422
+[337]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM968055
+[338]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM5739940
+[339]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123692
+[340]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM348342
+[341]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM430704
+[342]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123693
+[343]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM64784
+[344]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM3231004
+[345]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123694
+[346]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123695
+[347]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM5739941
+[348]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM3360067
+[349]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM5739942
+[350]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123696
+[351]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM39721
+[352]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM212211
+[353]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM212845
+[354]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM304703
+[355]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123697
+[356]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123698
+[357]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM327424
+[358]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123699
+[359]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM124100
+[360]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM310742
+[361]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM208585
+[362]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM214785
+[363]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM317313
+[364]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM39498
+[365]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM123660
+[366]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM327410
+[367]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM968045
+[368]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM2998516
+[369]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM2998515
+[370]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM2998532
+[371]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[372]: http://www.legislation.govt.nz/act/public/1965/0022/latest/link.aspx?id=DLM395769
