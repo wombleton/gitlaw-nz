@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Business, Innovation, and Employment.
 
@@ -51,19 +51,23 @@ This Act is administered by the Ministry of Business, Innovation, and Employment
 
 [Financial provisions][14]
 
-[11][15][][15][Annual accounts, etc][15]
+[11][15][][15][Accounting records must be kept][15]
 
-[12][16][][16][Auditors and auditing of accounts][16]
+[11A][16][][16][Financial statements must be prepared][16]
 
-[13][17][][17][Copy of statement of financial position to be sent to Minister and members][17]
+[12][17][][17][Appointment of auditor][17]
 
-[14][18][][18][Copy of rules to be sent to Minister][18]
+[12A][18][][18][Auditing of financial statements][18]
 
-[15][19][][19][Financial provisions to apply notwithstanding anything to the contrary in association's rules][19]
+[13][19][][19][Copy of financial statements to be sent to Minister and members][19]
 
-[Miscellaneous provision][20]
+[14][20][][20][Copy of rules to be sent to Minister][20]
 
-[16][21][][21][Offences by officers of the association][21]
+[15][21][][21][Financial provisions to apply notwithstanding anything to the contrary in association's rules][21]
+
+[Miscellaneous provision][22]
+
+[16][23][][23][Offences by officers of the association][23]
 
 ---
 
@@ -79,7 +83,9 @@ An Act to authorise the levying of building contractors to provide money for res
     
 *   In this Act, unless the context otherwise requires,---
     
-    _association_ means the Building Research Association of New Zealand (Incorporated), a society incorporated under the [Incorporated Societies Act 1908][22]; and, where appropriate, includes the board of the association
+    _applicable auditing and assurance standard_ has the same meaning as in [section 5][24] of the Financial Reporting Act 2013
+    
+    _association_ means the Building Research Association of New Zealand (Incorporated), a society incorporated under the [Incorporated Societies Act 1908][25]; and, where appropriate, includes the board of the association
     
     _builder_, in relation to any construction work, means---
         
@@ -89,21 +95,25 @@ An Act to authorise the levying of building contractors to provide money for res
     
     *   (c) in all other cases, the person responsible for the carrying out of the construction work
     
-    _building consent_ means a building consent in terms of the [Building Act 2004][23]; but does not include a consent issued in respect of any demolition
+    _building consent_ means a building consent in terms of the [Building Act 2004][26]; but does not include a consent issued in respect of any demolition
     
-    _chief executive_ means the chief executive of the Ministry (within the meaning of the Research, Science, and Technology Act 2010)
+    _chief executive_ means the chief executive of the Ministry (within the meaning of the [Research, Science, and Technology Act 2010][27])
     
     _consideration_, in relation to any contract, means the amount agreed between the employer and the builder at the time at which the contract is entered into as being the amount payable to the contractor under the contract; but does not include any addition to or reduction in the amount so agreed which is subsequently agreed on as a result of any variation of the contract made after the levy payable in respect of the contract becomes due
     
-    _construction work_ or _work_ means any work in connection with the construction, erection, renewal, alteration, or improvement of a building for which a building consent is required under the [Building Act 2004][23]
+    _construction work_ or _work_ means any work in connection with the construction, erection, renewal, alteration, or improvement of a building for which a building consent is required under the [Building Act 2004][26]
     
     _contract_ means a contract between an employer and a builder which is for the performance of construction work and which determines the amount of consideration payable to the builder in respect of the work
     
     _employer_ means any owner or other person who contracts with a builder for the performance of construction work by the builder, or at whose request, or on whose behalf or on whose credit, with his privity or consent, construction work is performed; and includes all persons claiming under him whose rights are acquired after the commencement of the work
     
+    _financial statements_ has the same meaning as in [section 6][28] of the Financial Reporting Act 2013
+    
     _financial year_ means the period of 12 months ending with 31 March in any year
     
-    _local authority_ means a territorial authority within the meaning of the [Local Government Act 2002][24]
+    _generally accepted accounting practice_ has the same meaning as in [section 8][29] of the Financial Reporting Act 2013
+    
+    _local authority_ means a territorial authority within the meaning of the [Local Government Act 2002][30]
     
     _Minister_ means, subject to any enactment, the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
     
@@ -111,25 +121,31 @@ An Act to authorise the levying of building contractors to provide money for res
     
     _prescribed_, in relation to any levy imposed under this Act, means the rate of levy for the time being prescribed by the Minister by notice in the _Gazette_.
     
+    Section 2 **applicable auditing and assurance standard**: inserted, on 1 April 2014, by [section 125][31] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
     Section 2 **builder**: substituted, on 9 October 1975, by section 2(1) of the Building Research Levy Amendment Act 1975 (1975 No 62).
     
     Section 2 **building consent**: inserted, on 1 July 1992, by section 92(1) of the Building Act 1991 (1991 No 150).
     
-    Section 2 **building consent**: amended, on 31 March 2005, by [section 414][25] of the Building Act 2004 (2004 No 72).
+    Section 2 **building consent**: amended, on 31 March 2005, by [section 414][32] of the Building Act 2004 (2004 No 72).
     
-    Section 2 **chief executive**: inserted, on 2 August 1990, by [section 14(1)][26] of the Foundation for Research, Science, and Technology Act 1990 (1990 No 72).
+    Section 2 **chief executive**: inserted, on 2 August 1990, by [section 14(1)][33] of the Foundation for Research, Science, and Technology Act 1990 (1990 No 72).
     
-    Section 2 **chief executive**: amended, on 1 February 2011, by [section 18][27] of the Research, Science, and Technology Act 2010 (2010 No 131).
+    Section 2 **chief executive**: amended, on 1 February 2011, by [section 18][34] of the Research, Science, and Technology Act 2010 (2010 No 131).
     
     Section 2 **construction work** or **work**: substituted, on 1 July 1992, by section 92(1) of the Building Act 1991 (1991 No 150).
     
-    Section 2 **construction work** or **work**: amended, on 31 March 2005, by [section 414][25] of the Building Act 2004 (2004 No 72).
+    Section 2 **construction work** or **work**: amended, on 31 March 2005, by [section 414][32] of the Building Act 2004 (2004 No 72).
     
-    Section 2 **Director-General**: repealed, on 2 August 1990, by [section 14(1)][26] of the Foundation for Research, Science, and Technology Act 1990 (1990 No 72).
+    Section 2 **Director-General**: repealed, on 2 August 1990, by [section 14(1)][33] of the Foundation for Research, Science, and Technology Act 1990 (1990 No 72).
     
-    Section 2 **local authority**: substituted, on 1 July 2003, by [section 262][28] of the Local Government Act 2002 (2002 No 84).
+    Section 2 **financial statements**: inserted, on 1 April 2014, by [section 125][31] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 2 **Minister**: substituted, on 2 August 1990, by [section 14(1)][26] of the Foundation for Research, Science, and Technology Act 1990 (1990 No 72).
+    Section 2 **generally accepted accounting practice**: inserted, on 1 April 2014, by [section 125][31] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 2 **local authority**: substituted, on 1 July 2003, by [section 262][35] of the Local Government Act 2002 (2002 No 84).
+    
+    Section 2 **Minister**: substituted, on 2 August 1990, by [section 14(1)][33] of the Foundation for Research, Science, and Technology Act 1990 (1990 No 72).
 
 ##### 3 Act to bind the Crown
     
@@ -189,9 +205,9 @@ An Act to authorise the levying of building contractors to provide money for res
     
     Section 5(3): substituted, on 1 July 1992, by section 92(1) of the Building Act 1991 (1991 No 150).
     
-    Section 5(4)(a): amended, on 1 April 1988, by [section 8(2)][29] of the Finance Act 1987 (1987 No 200).
+    Section 5(4)(a): amended, on 1 April 1988, by [section 8(2)][36] of the Finance Act 1987 (1987 No 200).
     
-    Section 5(4)(b): amended, on 1 April 1988, by [section 8(2)][29] of the Finance Act 1987 (1987 No 200).
+    Section 5(4)(b): amended, on 1 April 1988, by [section 8(2)][36] of the Finance Act 1987 (1987 No 200).
 
 ##### 6 Submissions to arbitration
     
@@ -203,9 +219,9 @@ An Act to authorise the levying of building contractors to provide money for res
     
     (4) Each party to the arbitration shall pay the costs, charges, and expenses of the arbitrator appointed by him. The costs, charges, and expenses of the umpire (if any) shall be borne equally by the parties.
     
-    (5) Every arbitration under this section shall be carried out in the manner prescribed by the [Arbitration Act 1996][30]; and the provisions of that Act shall, subject to the provisions of this section, extend and apply to any such arbitration and to the arbitrators and to the umpire (if any).
+    (5) Every arbitration under this section shall be carried out in the manner prescribed by the [Arbitration Act 1996][37]; and the provisions of that Act shall, subject to the provisions of this section, extend and apply to any such arbitration and to the arbitrators and to the umpire (if any).
     
-    Section 6(5): amended, on 1 July 1997, pursuant to [section 20][31] of the Arbitration Act 1996 (1996 No 99).
+    Section 6(5): amended, on 1 July 1997, pursuant to [section 20][38] of the Arbitration Act 1996 (1996 No 99).
 
 ##### 7 Power to obtain information in order to assess amount of levy payable
     
@@ -239,9 +255,9 @@ An Act to authorise the levying of building contractors to provide money for res
     
     Section 7(2): amended, on 1 July 1992, by section 92(1) of the Building Act 1991 (1991 No 150).
     
-    Section 7(5): amended, on 1 July 2013, by [section 413][32] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 7(5): amended, on 1 July 2013, by [section 413][39] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 7(6): amended, on 1 July 2013, by [section 413][32] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 7(6): amended, on 1 July 2013, by [section 413][39] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 8 Expenditure of levies
     
@@ -309,59 +325,101 @@ An Act to authorise the levying of building contractors to provide money for res
 
 #### Financial provisions
 
-##### 11 Annual accounts, etc
+##### 11 Accounting records must be kept
     
-*   (1) The association shall at all times ensure that full and correct records of all its financial transactions, assets, liabilities, and funds are kept.
+*   (1) The association must ensure that there are kept at all times accounting records that---
+        
+    *   (a) correctly record the transactions of the association; and
     
-    (2) The association shall appoint some fit person to act as its secretary and to keep all records and books of account.
+    *   (b) will enable the association to ensure that the financial statements of the association comply with this Act; and
     
-    (3) At the end of each financial year, the association shall prepare an income and expenditure account showing its financial transactions for that year, together with a statement of financial position as at the last day of that year. Every such statement of financial position shall give a true and fair view of the state of affairs of the association as at the end of its financial year, and every such income and expenditure account shall give a true and fair view of the income and expenditure for that year.
+    *   (c) will enable the financial statements of the association to be readily and properly audited.
     
-    Section 11(3): amended, on 1 October 1997, pursuant to [section 6(1)][33] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    (2) The association must establish and maintain a satisfactory system of control of its accounting records.
+    
+    (3) The accounting records must be kept---
+        
+    *   (a) in written form in English; or
+    
+    *   (b) in a form or manner in which they are easily accessible and convertible into written form in English.
+    
+    Section 11: replaced, on 1 April 2014, by [section 125][31] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
-##### 12 Auditors and auditing of accounts
+##### 11A Financial statements must be prepared
     
-*   (1) The association shall, at its annual general meeting, appoint a chartered accountant or chartered accountants (within the meaning of [section 19][34] of the New Zealand Institute of Chartered Accountants Act 1996) to hold office until its next annual general meeting as its auditor or auditors for the purpose of auditing its accounts:
+*   The association must ensure that, within 3 months after the end of the financial year, financial statements that comply with generally accepted accounting practice are---
+        
+    *   (a) completed in relation to the association and that financial year; and
     
-    provided that no person who is an officer, member, or servant of the association shall be capable of being appointed as an auditor under this subsection.
+    *   (b) dated and signed on behalf of the association by 2 members of the board of the association.
+    
+    Section 11A: inserted, on 1 April 2014, by [section 125][31] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 12 Appointment of auditor
+    
+*   (1) The association must, at its annual general meeting, appoint a person to hold office until its next annual general meeting as its auditor for the purpose of auditing its financial statements.
+    
+    (1A) No person is qualified for appointment as the auditor unless the person is a qualified auditor within the meaning of [section 35][40] of the Financial Reporting Act 2013\.
+    
+    (1B) _See_ [sections 37 to 39][41] of the Financial Reporting Act 2013 (which provide for the appointment of a partnership and access to information in relation to the association).
     
     (2) In the event of there being a vacancy in the office of auditor due to death, resignation, removal from office for misconduct, or inability to act, the board of the association may appoint a person qualified to hold office as auditor under subsection (1) to fill the vacancy until the next annual general meeting of the association. While any such vacancy continues the surviving or continuing auditor or auditors (if any) may act.
     
     (3) The remuneration of any auditor appointed under subsection (1) shall be fixed by the association at its annual general meeting. The remuneration of any auditor appointed under subsection (2) shall be fixed by the board of the association.
     
-    (4) As soon as practicable after the end of each financial year the board of the association shall cause the income and expenditure account and the statement of financial position for that year to be sent to the auditor or auditors who shall thereupon audit and report on those documents. The auditor or auditors shall, on completion of the audit, return the audited income and expenditure account and statement of financial position to the board, which shall then cause those documents and the report of the auditor or auditors to be submitted to the next annual general meeting of the association for the approval of the meeting.
+    (4) \[Repealed\]
     
-    (5) All the provisions of section 166 of the Companies Act 1955 (which section relates to auditors' reports and auditors' rights of access to books of account and to attend and be heard at general meetings), so far as they are applicable and with the necessary modifications, shall apply to the association as if it were a company registered under the Companies Act 1955\. For the purposes of this subsection the term **profit and loss account** in the said section 166 shall be construed as meaning income and expenditure account.
+    (5) \[Repealed\]
     
-    (6) Any unqualified person who acts as auditor of the association commits an offence and is liable on conviction to a fine not exceeding $200\.
+    (6) \[Repealed\]
     
-    Section 12(1): amended, on 7 July 2010, by [section 10][35] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
+    Section 12 heading: replaced, on 1 April 2014, by [section 125][31] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 12(1): amended, on 1 October 1996, by [section 23][36] of the Institute of Chartered Accountants of New Zealand Act 1996 (1996 No 39).
+    Section 12(1): replaced, on 1 April 2014, by [section 125][31] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 12(4): amended, on 1 October 1997, pursuant to [section 6(1)][33] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 12(1A): inserted, on 1 April 2014, by [section 125][31] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 12(6): amended, on 1 July 2013, by [section 413][32] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 12(1B): inserted, on 1 April 2014, by [section 125][31] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 12(4): repealed, on 1 April 2014, by [section 125][31] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 12(5): repealed, on 1 April 2014, by [section 125][31] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 12(6): repealed, on 1 April 2014, by [section 125][31] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
-##### 13 Copy of statement of financial position to be sent to Minister and members
+##### 12A Auditing of financial statements
     
-*   (1) The association shall, within 3 months after the expiration of each financial year or within such extended period as the Minister may allow, provide the Minister and the chief executive with a report on its proceedings and activities during that financial year. There shall be annexed to the report copies of the income and expenditure account and statement of financial position of the association together with a copy of the report of the auditor and auditors thereon.
+*   (1) As soon as practicable after the end of each financial year, the board of the association must send the financial statements for the financial year to the auditor.
     
-    (2) The Minister shall lay before Parliament a copy of the report sent to him under subsection (1) (together with a copy of the association's income and expenditure account and statement of financial position for the year to which the report relates) within 28 days after the date of his receiving the report if Parliament is then in session or, if Parliament is not in session, within 28 days after the date of the commencement of the next ensuing session.
+    (2) The auditor must, in carrying out an audit for the purposes of subsection (1), comply with all applicable auditing and assurance standards.
     
-    (3) Within 3 months after the expiration of its financial year, the association shall send to each of its members a copy of the report sent to the Minister under subsection (1), together with a copy of its income and expenditure account and statement of financial position for that year and a copy of the report of the auditor or auditors in respect thereof.
+    (3) The auditor's report must comply with the requirements of all applicable auditing and assurance standards.
     
-    (4) Nothing in this section shall be construed so as to limit the application of the provisions of the [Incorporated Societies Act 1908][22] to the association.
+    (4) The board of the association must, after receiving a copy of the auditor's report, submit the financial statements and the report to the next annual general meeting of the association for the approval of the meeting.
     
-    Section 13 heading: amended, on 1 October 1997, pursuant to [section 6(1)][33] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    (5) [Section 207W][42] of the Companies Act 1993 (which relates to the auditor's right to attend a meeting of shareholders) applies with all necessary modifications to the association as if it were a company registered under that Act.
     
-    Section 13(1): amended, on 1 October 1997, pursuant to [section 6(1)][33] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 12A: inserted, on 1 April 2014, by [section 125][31] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 13 Copy of financial statements to be sent to Minister and members
     
-    Section 13(1): amended, on 2 August 1990, by [section 14(1)][26] of the Foundation for Research, Science, and Technology Act 1990 (1990 No 72).
+*   (1) The association shall, within 3 months after the expiration of each financial year or within such extended period as the Minister may allow, provide the Minister and the chief executive with a report on its proceedings and activities during that financial year. There shall be annexed to the report copies of the financial statements of the association together with a copy of the report of the auditor and auditors thereon.
     
-    Section 13(2): amended, on 1 October 1997, pursuant to [section 6(1)][33] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    (2) The Minister shall lay before Parliament a copy of the report sent to him under subsection (1) (together with a copy of the association's financial statements for the year to which the report relates) within 28 days after the date of his receiving the report if Parliament is then in session or, if Parliament is not in session, within 28 days after the date of the commencement of the next ensuing session.
     
-    Section 13(3): amended, on 1 October 1997, pursuant to [section 6(1)][33] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    (3) Within 3 months after the expiration of its financial year, the association shall send to each of its members a copy of the report sent to the Minister under subsection (1), together with a copy of its financial statements for that year and a copy of the report of the auditor or auditors in respect thereof.
+    
+    (4) Nothing in this section shall be construed so as to limit the application of the provisions of the [Incorporated Societies Act 1908][25] to the association.
+    
+    Section 13 heading: amended, on 1 April 2014, by [section 125][31] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 13(1): amended, on 1 April 2014, by [section 125][31] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 13(1): amended, on 2 August 1990, by [section 14(1)][33] of the Foundation for Research, Science, and Technology Act 1990 (1990 No 72).
+    
+    Section 13(2): amended, on 1 April 2014, by [section 125][31] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 13(3): amended, on 1 April 2014, by [section 125][31] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 14 Copy of rules to be sent to Minister
     
@@ -383,98 +441,51 @@ An Act to authorise the levying of building contractors to provide money for res
     
     (2) For the purposes of this section, the term _officer_ means any member of the board of the association and any paid secretary thereof.
     
-    Section 16(1): amended, on 1 July 2013, by [section 413][32] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 16(1): amended, on 1 July 2013, by [section 413][39] of the Criminal Procedure Act 2011 (2011 No 81).
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Building Research Levy Act 1969\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][37] ![](/images/external_link.gif).
+*   This is a reprint of the Building Research Levy Act 1969 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][38] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][43] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][44] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][39] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][45] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][46] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][40] and [17E][41] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 125][31]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][39]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Research, Science, and Technology Act 2010 (2010 No 131): [section 18][34]
     
+    Building Act 2004 (2004 No 72): [section 414][32]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    Local Government Act 2002 (2002 No 84): [section 262][35]
     
-*   Criminal Procedure Act 2011 (2011 No 81): [section 413][32]
-    
-    Research, Science, and Technology Act 2010 (2010 No 131): [section 18][27]
-    
-    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][35]
-    
-    Building Act 2004 (2004 No 72): [section 414][25]
-    
-    Local Government Act 2002 (2002 No 84): [section 262][28]
-    
-    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6(1)][33]
-    
-    Arbitration Act 1996 (1996 No 99): [section 20][31]
-    
-    Institute of Chartered Accountants of New Zealand Act 1996 (1996 No 39): section 23
+    Arbitration Act 1996 (1996 No 99): [section 20][38]
     
     Building Act 1991 (1991 No 150): section 92(1)
     
-    Foundation for Research, Science, and Technology Act 1990 (1990 No 72): [section 14(1)][26]
+    Foundation for Research, Science, and Technology Act 1990 (1990 No 72): [section 14(1)][33]
     
-    Finance Act 1987 (1987 No 200): [section 8(2)][29]
+    Finance Act 1987 (1987 No 200): [section 8(2)][36]
     
     Building Research Levy Amendment Act 1969 (1975 No 62)
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1969/0023/latest/whole.html#DLM391233
 [2]: http://www.legislation.govt.nz/act/public/1969/0023/latest/whole.html#DLM391235
 [3]: http://www.legislation.govt.nz/act/public/1969/0023/latest/whole.html#DLM391236
@@ -490,29 +501,34 @@ An Act to authorise the levying of building contractors to provide money for res
 [13]: http://www.legislation.govt.nz/act/public/1969/0023/latest/whole.html#DLM391290
 [14]: http://www.legislation.govt.nz/act/public/1969/0023/latest/whole.html#DLM3527406
 [15]: http://www.legislation.govt.nz/act/public/1969/0023/latest/whole.html#DLM391292
-[16]: http://www.legislation.govt.nz/act/public/1969/0023/latest/whole.html#DLM391294
-[17]: http://www.legislation.govt.nz/act/public/1969/0023/latest/whole.html#DLM391298
-[18]: http://www.legislation.govt.nz/act/public/1969/0023/latest/whole.html#DLM391600
-[19]: http://www.legislation.govt.nz/act/public/1969/0023/latest/whole.html#DLM391601
-[20]: http://www.legislation.govt.nz/act/public/1969/0023/latest/whole.html#DLM3527407
-[21]: http://www.legislation.govt.nz/act/public/1969/0023/latest/whole.html#DLM391603
-[22]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM175774
-[23]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM306035
-[24]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM170872
-[25]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM309090
-[26]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM213940
-[27]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM3431046
-[28]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM174088
-[29]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM125678
-[30]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM403280
-[31]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM405710
-[32]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM3360714
-[33]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM408960
-[34]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM391422
-[35]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM3043113
-[36]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM391427
-[37]: http://www.pco.parliament.govt.nz/reprints/
-[38]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM195439
-[39]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[40]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM195468
-[41]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM195470
+[16]: http://www.legislation.govt.nz/act/public/1969/0023/latest/whole.html#DLM6044519
+[17]: http://www.legislation.govt.nz/act/public/1969/0023/latest/whole.html#DLM391294
+[18]: http://www.legislation.govt.nz/act/public/1969/0023/latest/whole.html#DLM6044538
+[19]: http://www.legislation.govt.nz/act/public/1969/0023/latest/whole.html#DLM391298
+[20]: http://www.legislation.govt.nz/act/public/1969/0023/latest/whole.html#DLM391600
+[21]: http://www.legislation.govt.nz/act/public/1969/0023/latest/whole.html#DLM391601
+[22]: http://www.legislation.govt.nz/act/public/1969/0023/latest/whole.html#DLM3527407
+[23]: http://www.legislation.govt.nz/act/public/1969/0023/latest/whole.html#DLM391603
+[24]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM4632837
+[25]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM175774
+[26]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM306035
+[27]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM3166910
+[28]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM4632890
+[29]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM4632894
+[30]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM170872
+[31]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM5740664
+[32]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM309090
+[33]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM213940
+[34]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM3431046
+[35]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM174088
+[36]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM125678
+[37]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM403280
+[38]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM405710
+[39]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM3360714
+[40]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM4632944
+[41]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM4632947
+[42]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM6041598
+[43]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM2998516
+[44]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM2998515
+[45]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM2998532
+[46]: http://www.pco.parliament.govt.nz/editorial-conventions/
