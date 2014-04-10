@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2003
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -15,11 +15,11 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][1] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][1] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-This Act is administered by the Ministry of Economic Development.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -27,59 +27,63 @@ This Act is administered by the Ministry of Economic Development.
 
 [Title][2]
 
-[1][3] [Short Title and commencement][3]
+[1][3][][3][Short Title and commencement][3]
 
-[2][4] [Interpretation][4]
+[2][4][][4][Interpretation][4]
 
-[3][5] [Administration of Act][5] \[Repealed\]
+[3][5][][5][Administration of Act][5] \[Repealed\]
 
-[4][6] [Institute established][6]
+[4][6][][6][Institute established][6]
 
-[5][7] [Membership of Institute][7]
+[5][7][][7][Membership of Institute][7]
 
-[6][8] [Terms of office of members][8]
+[6][8][][8][Terms of office of members][8]
 
-[7][9] [Extraordinary vacancies][9]
+[7][9][][9][Extraordinary vacancies][9]
 
-[8][10] [Chairman of Institute][10]
+[8][10][][10][Chairman of Institute][10]
 
-[9][11] [Deputy chairman of Institute][11]
+[9][11][][11][Deputy chairman of Institute][11]
 
-[10][12] [Deputies of members][12]
+[10][12][][12][Deputies of members][12]
 
-[11][13] [Meetings of Institute][13]
+[11][13][][13][Meetings of Institute][13]
 
-[12][14] [Committees, and delegation of powers][14]
+[12][14][][14][Committees, and delegation of powers][14]
 
-[13][15] [Proceedings of Institute not affected by certain irregularities][15]
+[13][15][][15][Proceedings of Institute not affected by certain irregularities][15]
 
-[14][16] [Functions of Institute][16]
+[14][16][][16][Functions of Institute][16]
 
-[15][17] [Powers of Institute][17]
+[15][17][][17][Powers of Institute][17]
 
-[16][18] [Contracts of Institute and members][18] \[Repealed\]
+[16][18][][18][Contracts of Institute and members][18] \[Repealed\]
 
-[17][19] [Rules of Institute][19]
+[17][19][][19][Rules of Institute][19]
 
-[18][20] [Appointment of officers][20]
+[18][20][][20][Appointment of officers][20]
 
-[19][21] [Grants to Institute][21]
+[19][21][][21][Grants to Institute][21]
 
-[20][22] [Unauthorised expenditure][22]
+[20][22][][22][Unauthorised expenditure][22]
 
-[21][23] [Investment of funds][23]
+[21][23][][23][Investment of funds][23]
 
-[22][24] [Money to be banked][24]
+[22][24][][24][Money to be banked][24]
 
-[23][25] [Borrowing powers][25]
+[23][25][][25][Borrowing powers][25]
 
-[24][26] [Accounts][26]
+[24][26][][26][Accounting records must be kept][26]
 
-[25][27] [Annual report][27]
+[24A][27][][27][Financial statements must be prepared][27]
 
-[26][28] [Fees and travelling allowances][28]
+[24B][28][][28][Financial statements must be audited][28]
 
-[27][29] [Members of Institute not personally liable][29]
+[25][29][][29][Annual report][29]
+
+[26][30][][30][Fees and travelling allowances][30]
+
+[27][31][][31][Members of Institute not personally liable][31]
 
 ---
 
@@ -99,7 +103,11 @@ An Act to establish the New Zealand Maori Arts and Crafts Institute and to presc
     
 *   In this Act, unless the context otherwise requires,---
     
+    _financial statements_ has the same meaning as in [section 6][32] of the Financial Reporting Act 2013
+    
     _financial year_ means a period of 12 months ending with the last day of March
+    
+    _generally accepted accounting practice_ has the same meaning as in [section 8][33] of the Financial Reporting Act 2013
     
     _Institute_ means the New Zealand Maori Arts and Crafts Institute
     
@@ -109,17 +117,21 @@ An Act to establish the New Zealand Maori Arts and Crafts Institute and to presc
     
     Section 2 **appointed member**: repealed, on 15 December 1994, by section 2(2)(a) of the New Zealand Maori Arts and Crafts Institute Amendment Act 1994 (1994 No 155).
     
+    Section 2 **financial statements**: inserted, on 1 April 2014, by [section 125][34] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 2 **generally accepted accounting practice**: inserted, on 1 April 2014, by [section 125][34] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
     Section 2 **Institute**: amended, on 23 November 1967, by [section 2(4)][0] of the New Zealand Maori Arts and Crafts Institute Amendment Act 1967 (1967 No 104).
     
-    Section 2 **Minister**: replaced, on 1 November 1991, by [section 18(2)][30] of the New Zealand Tourism Board Act 1991 (1991 No 110).
+    Section 2 **Minister**: replaced, on 1 November 1991, by [section 18(2)][35] of the New Zealand Tourism Board Act 1991 (1991 No 110).
     
-    Section 2 **Secretary**: inserted, on 1 November 1991, by [section 18(2)][30] of the New Zealand Tourism Board Act 1991 (1991 No 110).
+    Section 2 **Secretary**: inserted, on 1 November 1991, by [section 18(2)][35] of the New Zealand Tourism Board Act 1991 (1991 No 110).
 
 ##### 3 Administration of Act
     
 *   \[Repealed\]
     
-    Section 3: repealed, on 1 November 1991, by [section 18(2)][30] of the New Zealand Tourism Board Act 1991 (1991 No 110).
+    Section 3: repealed, on 1 November 1991, by [section 18(2)][35] of the New Zealand Tourism Board Act 1991 (1991 No 110).
 
 ##### 4 Institute established
     
@@ -133,13 +145,13 @@ An Act to establish the New Zealand Maori Arts and Crafts Institute and to presc
     
 *   (1) The Institute shall comprise not fewer than 5 and not more than 7 members, appointed by the Governor-General on the recommendation of the Minister.
     
-    (2) No person, by reason only of his being a member of the Institute, shall be deemed to be employed in the State services for the purposes of the [State Sector Act 1988][31] or in the Government service for the purposes of the [Government Superannuation Fund Act 1956][32].
+    (2) No person, by reason only of his being a member of the Institute, shall be deemed to be employed in the State services for the purposes of the [State Sector Act 1988][36] or in the Government service for the purposes of the [Government Superannuation Fund Act 1956][37].
     
     Section 5(1): replaced, on 15 December 1994, by section 2(1) of the New Zealand Maori Arts and Crafts Institute Amendment Act 1994 (1994 No 155).
     
-    Section 5(2): amended, on 1 April 1988, pursuant to [section 88(2)][33] of the State Sector Act 1988 (1988 No 20).
+    Section 5(2): amended, on 1 April 1988, pursuant to [section 88(2)][38] of the State Sector Act 1988 (1988 No 20).
     
-    Section 5(2): amended, on 1 November 1976, pursuant to [section 3(3)][34] of the Government Superannuation Fund Amendment Act 1976 (1976 No 30).
+    Section 5(2): amended, on 1 November 1976, pursuant to [section 3(3)][39] of the Government Superannuation Fund Amendment Act 1976 (1976 No 30).
 
 ##### 6 Terms of office of members
     
@@ -161,7 +173,7 @@ An Act to establish the New Zealand Maori Arts and Crafts Institute and to presc
     
     (4) Every person appointed to fill an extraordinary vacancy shall be appointed for the residue of the term for which the vacating member was appointed.
     
-    Section 7(1): amended, on 1 January 2002, by [section 70(1)][35] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 7(1): amended, on 1 January 2002, by [section 70(1)][40] of the Human Rights Amendment Act 2001 (2001 No 96).
     
     Section 7(1): amended, on 15 December 1994, by section 2(2)(b) of the New Zealand Maori Arts and Crafts Institute Amendment Act 1994 (1994 No 155).
     
@@ -335,17 +347,17 @@ An Act to establish the New Zealand Maori Arts and Crafts Institute and to presc
     
     (2) The Institute may pay to its officers and servants such salaries and allowances as it thinks fit.
     
-    (3) For the purpose of providing superannuation or retiring allowances for its officers or servants, the Institute may make payments to or subsidise any superannuation scheme which is registered under the [Superannuation Schemes Act 1989][36].
+    (3) For the purpose of providing superannuation or retiring allowances for its officers or servants, the Institute may make payments to or subsidise any superannuation scheme which is registered under the [Superannuation Schemes Act 1989][41].
     
-    Section 18(3): replaced, on 1 April 1991, by [section 80][37] of the National Provident Fund Restructuring Act 1990 (1990 No 126).
+    Section 18(3): replaced, on 1 April 1991, by [section 80][42] of the National Provident Fund Restructuring Act 1990 (1990 No 126).
 
 ##### 19 Grants to Institute
     
-*   (1) Any local authority within the meaning of the [Local Government Act 2002][38], or other public body, any public corporation, any company or other incorporated body, any unincorporated body of persons, or any other person may, unless expressly prohibited by any Act or instrument of trust affecting the donor, make to the Institute donations, gifts, or loans and the Institute may accept any such donations, gifts, or loans.
+*   (1) Any local authority within the meaning of the [Local Government Act 2002][43], or other public body, any public corporation, any company or other incorporated body, any unincorporated body of persons, or any other person may, unless expressly prohibited by any Act or instrument of trust affecting the donor, make to the Institute donations, gifts, or loans and the Institute may accept any such donations, gifts, or loans.
     
     (2) Without limiting the power conferred by subsection (1) or by any other enactment, the Rotorua City Council may make grants of money or advances to the Institute upon such terms or conditions as it thinks fit and may give to the Institute such guarantee, indemnity, or security as it thinks fit to any person in respect of advances made by that person to the Institute.
     
-    Section 19(1): amended, on 1 July 2003, by [section 262][39] of the Local Government Act 2002 (2002 No 84).
+    Section 19(1): amended, on 1 July 2003, by [section 262][44] of the Local Government Act 2002 (2002 No 84).
 
 ##### 20 Unauthorised expenditure
     
@@ -353,7 +365,7 @@ An Act to establish the New Zealand Maori Arts and Crafts Institute and to presc
 
 ##### 21 Investment of funds
     
-*   Subject to the terms of any trust or endowment, any money belonging to the Institute that is not immediately required for expenditure by the Institute may be invested in accordance with the provisions of the [Trustee Act 1956][40] as to the investment of trust funds.
+*   Subject to the terms of any trust or endowment, any money belonging to the Institute that is not immediately required for expenditure by the Institute may be invested in accordance with the provisions of the [Trustee Act 1956][45] as to the investment of trust funds.
 
 ##### 22 Money to be banked
     
@@ -377,121 +389,104 @@ An Act to establish the New Zealand Maori Arts and Crafts Institute and to presc
     
     
 
-##### 24 Accounts
+##### 24 Accounting records must be kept
     
-*   (1) The Institute must keep full and correct accounts of all money received and expended by it.
+*   (1) The Institute must ensure that there are kept at all times accounting records that---
+        
+    *   (a) correctly record the transactions of the Institute; and
     
-    (2) The Institute shall, as soon as possible after the end of every financial year, cause the accounts of the Institute for that financial year to be balanced and prepare a statement of the assets and liabilities of the Institute as at the end of that financial year, together with an account of income and expenditure showing the financial transactions for that year.
+    *   (b) will enable the Institute to ensure that the financial statements of the Institute comply with this Act; and
     
-    (3) The Institute is a public entity as defined in [section 4][41] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+    *   (c) will enable the financial statements of the Institute to be readily and properly audited.
     
-    Section 24(1): replaced, on 1 July 2001, by [section 53][42] of the Public Audit Act 2001 (2001 No 10).
+    (2) The Institute must establish and maintain a satisfactory system of control of those accounting records.
     
-    Section 24(3): inserted, on 1 July 2001, by [section 53][42] of the Public Audit Act 2001 (2001 No 10).
+    Section 24: replaced, on 1 April 2014, by [section 125][34] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 24A Financial statements must be prepared
+    
+*   The Institute must ensure that, within 5 months after the end of the financial year, financial statements that comply with generally accepted accounting practice are---
+        
+    *   (a) completed in relation to the Institute and that financial year; and
+    
+    *   (b) dated and signed on behalf of the Institute by 2 members of the Institute.
+    
+    Section 24A: inserted, on 1 April 2014, by [section 125][34] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 24B Financial statements must be audited
+    
+*   (1) The Institute must ensure that the financial statements of the Institute are audited.
+    
+    (2) The Institute is a public entity as defined in [section 4][46] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+    
+    Section 24B: inserted, on 1 April 2014, by [section 125][34] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 25 Annual report
     
-*   (1) The Institute shall, not later than 1 June in every year, furnish to the Minister a report of its proceedings and operations for its preceding financial year, together with a copy of its accounts for that year certified by the Auditor-General.
+*   (1) The Institute shall, not later than 1 June in every year, furnish to the Minister a report of its proceedings and operations for its preceding financial year, together with a copy of its financial statements for that year certified by the Auditor-General.
     
-    (2) A copy of the report and of the accounts so certified shall be laid before Parliament if then sitting, and, if not, within 28 days after the commencement of the next ensuing session.
+    (2) A copy of the report and of the financial statements so certified shall be laid before Parliament if then sitting, and, if not, within 28 days after the commencement of the next ensuing session.
     
-    Section 25(1): amended, on 1 July 2001, pursuant to [section 52][43] of the Public Audit Act 2001 (2001 No 10).
+    Section 25(1): amended, on 1 April 2014, by [section 125][34] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 25(1): amended, on 1 July 2001, pursuant to [section 52][47] of the Public Audit Act 2001 (2001 No 10).
+    
+    Section 25(2): amended, on 1 April 2014, by [section 125][34] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 26 Fees and travelling allowances
     
-*   (1) The Institute is hereby declared to be a statutory Board within the meaning of the [Fees and Travelling Allowances Act 1951][44].
+*   (1) The Institute is hereby declared to be a statutory Board within the meaning of the [Fees and Travelling Allowances Act 1951][48].
     
-    (2) There may be paid to the members of the Institute and of any committee appointed by the Institute, out of the funds of the Institute, remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][44], and the provisions of that Act shall apply accordingly.
+    (2) There may be paid to the members of the Institute and of any committee appointed by the Institute, out of the funds of the Institute, remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][48], and the provisions of that Act shall apply accordingly.
 
 ##### 27 Members of Institute not personally liable
     
 *   No member of the Institute shall be personally liable for any act or default done or made by the Institute or by any member thereof in good faith in the course of operations of the Institute.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the New Zealand Maori Arts and Crafts Institute Act 1963\. The reprint incorporates all the amendments to the Act as at 1 July 2003, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][45] ![](/images/external_link.gif).
+*   This is a reprint of the New Zealand Maori Arts and Crafts Institute Act 1963 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][46] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][1] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][49] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][50] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][47] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][51] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][52] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][1] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][48] and [17E][49] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 125][34]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][1] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Local Government Act 2002 (2002 No 84): [section 262][44]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][1] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][40]
     
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Local Government Act 2002 (2002 No 84): [section 262][39]
-    
-    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][35]
-    
-    Public Audit Act 2001 (2001 No 10): [sections 52][43], [53][42]
+    Public Audit Act 2001 (2001 No 10): [sections 52][47], [53][53]
     
     New Zealand Maori Arts and Crafts Institute Amendment Act 1994 (1994 No 155)
     
-    New Zealand Tourism Board Act 1991 (1991 No 110): [section 18(2)][30]
+    New Zealand Tourism Board Act 1991 (1991 No 110): [section 18(2)][35]
     
-    National Provident Fund Restructuring Act 1990 (1990 No 126): [section 80][37]
+    National Provident Fund Restructuring Act 1990 (1990 No 126): [section 80][42]
     
-    State Sector Act 1988 (1988 No 20): [section 88(2)][33]
+    State Sector Act 1988 (1988 No 20): [section 88(2)][38]
     
-    Government Superannuation Fund Amendment Act 1976 (1976 No 30): [section 3(3)][34]
+    Government Superannuation Fund Amendment Act 1976 (1976 No 30): [section 3(3)][39]
     
-    [New Zealand Maori Arts and Crafts Institute Amendment Act 1967][50] (1967 No 104)
+    [New Zealand Maori Arts and Crafts Institute Amendment Act 1967][54] (1967 No 104)
 
 
 
 [0]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM384141
-[1]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM195466
+[1]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM2998524
 [2]: http://www.legislation.govt.nz/act/public/1963/0051/latest/whole.html#DLM348785
 [3]: http://www.legislation.govt.nz/act/public/1963/0051/latest/whole.html#DLM348788
 [4]: http://www.legislation.govt.nz/act/public/1963/0051/latest/whole.html#DLM348790
@@ -517,27 +512,31 @@ An Act to establish the New Zealand Maori Arts and Crafts Institute and to presc
 [24]: http://www.legislation.govt.nz/act/public/1963/0051/latest/whole.html#DLM349445
 [25]: http://www.legislation.govt.nz/act/public/1963/0051/latest/whole.html#DLM349447
 [26]: http://www.legislation.govt.nz/act/public/1963/0051/latest/whole.html#DLM349448
-[27]: http://www.legislation.govt.nz/act/public/1963/0051/latest/whole.html#DLM349450
-[28]: http://www.legislation.govt.nz/act/public/1963/0051/latest/whole.html#DLM349451
-[29]: http://www.legislation.govt.nz/act/public/1963/0051/latest/whole.html#DLM349452
-[30]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM249395
-[31]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM129109
-[32]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM446000
-[33]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM130375
-[34]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM439001
-[35]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM122579
-[36]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM143291
-[37]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM226616
-[38]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM170872
-[39]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM174088
-[40]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM304703
-[41]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM88548
-[42]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM88957
-[43]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM88956
-[44]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM264952
-[45]: http://www.pco.parliament.govt.nz/reprints/
-[46]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM195439
-[47]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[48]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM195468
-[49]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM195470
-[50]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM384135
+[27]: http://www.legislation.govt.nz/act/public/1963/0051/latest/whole.html#DLM6046318
+[28]: http://www.legislation.govt.nz/act/public/1963/0051/latest/whole.html#DLM6046320
+[29]: http://www.legislation.govt.nz/act/public/1963/0051/latest/whole.html#DLM349450
+[30]: http://www.legislation.govt.nz/act/public/1963/0051/latest/whole.html#DLM349451
+[31]: http://www.legislation.govt.nz/act/public/1963/0051/latest/whole.html#DLM349452
+[32]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM4632890
+[33]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM4632894
+[34]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM5740664
+[35]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM249395
+[36]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM129109
+[37]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM446000
+[38]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM130375
+[39]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM439001
+[40]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM122579
+[41]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM143291
+[42]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM226616
+[43]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM170872
+[44]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM174088
+[45]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM304703
+[46]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM88548
+[47]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM88956
+[48]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM264952
+[49]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM2998516
+[50]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM2998515
+[51]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM2998532
+[52]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[53]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM88957
+[54]: http://www.legislation.govt.nz/act/public/1963/0051/latest/link.aspx?id=DLM384135
