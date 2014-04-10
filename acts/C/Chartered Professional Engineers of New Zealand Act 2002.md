@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -160,7 +160,7 @@ This Act is administered by the Ministry of Business, Innovation, and Employment
 
 [54][67][][67][Obligation for Council to prepare own annual report][67]
 
-[55][68][][68][Annual financial statements and statement of responsibility][68]
+[55][68][][68][Financial statements and statement of responsibility][68]
 
 [56][69][][69][Audit][69]
 
@@ -1010,49 +1010,53 @@ Registration Authority and Chartered Professional Engineers Council
         
     *   (a) a report on its operations, including the information that is necessary to enable an informed assessment to be made of the Council's performance and exercise of its functions and powers under this Act during the financial year; and
     
-    *   (b) annual financial statements and a statement of responsibility for them prepared in accordance with [section 55][68]; and
+    *   (b) financial statements and a statement of responsibility for them prepared in accordance with [section 55][68]; and
     
     *   (c) the auditor's report in accordance with [section 56][69].
     
     (3) The annual report must be dated and signed on behalf of the Council's board by 2 members.
+    
+    Section 54(2)(b): amended, on 1 April 2014, by [section 126][110] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
-##### 55 Annual financial statements and statement of responsibility
+##### 55 Financial statements and statement of responsibility
     
-*   (1) The Council must prepare its annual financial statements with respect to the affairs of the Council for each financial year in accordance with generally accepted accounting practice (within the meaning of [section 3][110] of the Financial Reporting Act 1993, applied as if the Council were a reporting entity).
-    
-    (2) The annual financial statements must contain---
+*   (1) The Council must ensure that, within 3 months after the end of the financial year, financial statements that comply with generally accepted accounting practice are---
         
-    *   (a) a statement of the financial position at the balance date; and
+    *   (a) completed in relation to the Council and that financial year; and
     
-    *   (b) a statement of financial performance for the financial year; and
+    *   (b) dated and signed on behalf of the Council by 2 members of the Council.
     
-    *   (c) a statement of cash flows reflecting cash flows for the financial year; and
+    (2) The financial statements must contain, in relation to each financial statement, budgeted figures for the financial year.
     
-    *   (d) a statement of the commitments as at the balance date; and
+    (2A) In this Act,---
     
-    *   (e) a statement of the contingent liabilities as at the balance date; and
+    _financial statements_ has the same meaning as in [section 6][111] of the Financial Reporting Act 2013
     
-    *   (f) a statement of accounting policies; and
-    
-    *   (g) any other statements that are necessary to fairly reflect its financial operations for the financial year and its financial position at the end of the financial year; and
-    
-    *   (h) in relation to each statement required by paragraphs (a) to (c) and, if appropriate, paragraph (g), budgeted figures for the financial year; and
-    
-    *   (i) in relation to each statement required by this subsection (other than by paragraph (f)), comparative actual figures for the previous financial year.
+    _generally accepted accounting practice_ has the same meaning as in [section 8][112] of the Financial Reporting Act 2013\.
     
     (3) The statement of responsibility for the financial statements must---
         
-    *   (a) contain a statement of the board's responsibility for the preparation of the annual financial statements and the judgements in them; and
+    *   (a) contain a statement of the board's responsibility for the preparation of the financial statements and the judgements in them; and
     
     *   (b) contain a statement of the board's responsibility for establishing and maintaining a system of internal control that is designed to provide reasonable assurance as to the integrity and reliability of financial reporting.
     
+    Section 55 heading: amended, on 1 April 2014, by [section 126][110] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
+    Section 55(1): replaced, on 1 April 2014, by [section 126][110] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 55(2): replaced, on 1 April 2014, by [section 126][110] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 55(2A): inserted, on 1 April 2014, by [section 126][110] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 55(3)(a): amended, on 1 April 2014, by [section 126][110] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 56 Audit
     
-*   (1) The Council must, within 90 days after the end of each financial year, submit the report on operations, the annual financial statements, and the statement of responsibility required under [section 54(2)(a) and (b)][67] to the Auditor-General for audit.
+*   (1) The Council must, within 3 months after the end of each financial year, submit the report on operations, the financial statements, and the statement of responsibility required under [section 54(2)(a) and (b)][67] to the Auditor-General for audit.
     
     (2) The Auditor-General must audit those documents, and provide an audit report on them to the Council, within 30 days after receiving them.
+    
+    Section 56(1): amended, on 1 April 2014, by [section 126][110] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 57 Obligation for Council to provide own annual report to Minister
     
@@ -1078,11 +1082,11 @@ Registration Authority and Chartered Professional Engineers Council
     
     (2) However, a request may be refused if---
         
-    *   (a) withholding the information is necessary to protect the privacy of any person (whether or not a natural person or a deceased natural person) and there would, under the [Official Information Act 1982][111], be good reason for withholding the information if---
+    *   (a) withholding the information is necessary to protect the privacy of any person (whether or not a natural person or a deceased natural person) and there would, under the [Official Information Act 1982][113], be good reason for withholding the information if---
             
-        *   (i) the request had been made under [section 12][112] of that Act; and
+        *   (i) the request had been made under [section 12][114] of that Act; and
         
-        *   (ii) [section 9(2)(a)][113] of that Act applied to all persons, whether natural persons or not; and
+        *   (ii) [section 9(2)(a)][115] of that Act applied to all persons, whether natural persons or not; and
         
         *   (iii) the need to protect the privacy of any person is not outweighed by the Minister's need to have the information in order to discharge the Minister's ministerial duties; or
         
@@ -1209,7 +1213,7 @@ Miscellaneous provisions
 
 ##### 72 Related amendment to Privacy Act 1993 at end of establishment period
     
-*   _Amendment(s) incorporated in the [Act(s)][114]._
+*   _Amendment(s) incorporated in the [Act(s)][116]._
 
 #### Transitional and consequential provisions relating to ending of title of registered engineer
 
@@ -1274,7 +1278,7 @@ Further provisions applying to Council and its board
         
     *   (a) state the date on which the appointment takes effect; and
     
-    *   (b) be given only after the person to be appointed has consented in writing to being a member, certified in writing that he or she is not disqualified from being a member, and disclosed to the Minister all interests that the person would, if he or she were a member, have to disclose under [clauses 13 to 16][115] at the time of the certificate.
+    *   (b) be given only after the person to be appointed has consented in writing to being a member, certified in writing that he or she is not disqualified from being a member, and disclosed to the Minister all interests that the person would, if he or she were a member, have to disclose under [clauses 13 to 16][117] at the time of the certificate.
     
     
 
@@ -1284,17 +1288,17 @@ Further provisions applying to Council and its board
         
     *   (a) a person who is an undischarged bankrupt:
     
-    *   (b) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the [Companies Act 1993][116], or the [Securities Act 1978][117], or the [Securities Markets Act 1988][118], or the [Takeovers Act 1993][119]:
+    *   (b) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the [Companies Act 1993][118], or the [Securities Act 1978][119], or the [Securities Markets Act 1988][120], or the [Takeovers Act 1993][121]:
     
-    *   (c) a person who is subject to a property order made under [section 10][120], [11][121], [12][122], [30][123], or [31][124] of the Protection of Personal and Property Rights Act 1988, or whose property is managed by a trustee corporation under [section 32][125] of that Act:
+    *   (c) a person who is subject to a property order made under [section 10][122], [11][123], [12][124], [30][125], or [31][126] of the Protection of Personal and Property Rights Act 1988, or whose property is managed by a trustee corporation under [section 32][127] of that Act:
     
     *   (d) a person who has been convicted of an offence punishable by imprisonment for a term of 2 years or more or who has been sentenced to imprisonment for any other offence, unless that person has obtained a pardon or served the sentence or otherwise suffered the penalty imposed on the person:
     
-    *   (e) a person who has failed to disclose all interests under [clause 1][126]:
+    *   (e) a person who has failed to disclose all interests under [clause 1][128]:
     
     *   (f) a person who is not a natural person.
     
-    Schedule 1 clause 2(b): substituted, on 25 October 2006, by [section 25][127] of the Securities Amendment Act 2006 (2006 No 46).
+    Schedule 1 clause 2(b): substituted, on 25 October 2006, by [section 25][129] of the Securities Amendment Act 2006 (2006 No 46).
 
 ##### 3 Term of appointment
     
@@ -1314,7 +1318,7 @@ Further provisions applying to Council and its board
         
         
     
-    (2) This section is subject to [clause 8][128].
+    (2) This section is subject to [clause 8][130].
 
 ##### 4 Concurrent offices
     
@@ -1358,11 +1362,11 @@ Further provisions applying to Council and its board
     
 *   A member ceases to hold office if he or she---
         
-    *   (a) resigns in accordance with [clause 6][129]; or
+    *   (a) resigns in accordance with [clause 6][131]; or
     
-    *   (b) is removed from office in accordance with [clause 7][130] or any other enactment; or
+    *   (b) is removed from office in accordance with [clause 7][132] or any other enactment; or
     
-    *   (c) becomes disqualified from being a member under [clause 2][131]; or
+    *   (c) becomes disqualified from being a member under [clause 2][133]; or
     
     *   (d) otherwise ceases to hold office in accordance with any enactment.
     
@@ -1374,13 +1378,13 @@ Further provisions applying to Council and its board
     
 *   (1) A member is accountable to the Minister for performing his or her duties and responsibilities as a member.
     
-    (2) If the board breaches any of its duties under [clause 11][132],---
+    (2) If the board breaches any of its duties under [clause 11][134],---
         
     *   (a) each member of that board is accountable to the Minister for the breach; and
     
     *   (b) that breach justifies all or any of the members being removed from office.
     
-    (3) The duties of members and the board under this schedule are duties owed only to the Minister (in the case of duties under [clause 11][132]) and only to the Minister and the Council (in the case of all other duties), and do not provide any ground of action for any other person.
+    (3) The duties of members and the board under this schedule are duties owed only to the Minister (in the case of duties under [clause 11][134]) and only to the Minister and the Council (in the case of all other duties), and do not provide any ground of action for any other person.
 
 ##### 10 Duties of members
     
@@ -1462,11 +1466,11 @@ Further provisions applying to Council and its board
 
 ##### 14 Obligation to disclose interest
     
-*   A member who is interested in a transaction or proposed transaction of, or other matter relating to, the Council must disclose the nature of the interest in accordance with [clause 15][133] as soon as practicable after the member becomes aware that he or she is interested.
+*   A member who is interested in a transaction or proposed transaction of, or other matter relating to, the Council must disclose the nature of the interest in accordance with [clause 15][135] as soon as practicable after the member becomes aware that he or she is interested.
 
 ##### 15 Method of disclosure of interest
     
-*   (1) If [clause 14][134] applies, the member must disclose the details listed in subclause (2) in an interests register and to---
+*   (1) If [clause 14][136] applies, the member must disclose the details listed in subclause (2) in an interests register and to---
         
     *   (a) the chairperson or, if there is no chairperson, the deputy chairperson; or
     
@@ -1502,7 +1506,7 @@ Further provisions applying to Council and its board
     
     *   (c) in accordance with subclause (2); or
     
-    *   (d) in complying with [clauses 14][134] and [15][133].
+    *   (d) in complying with [clauses 14][136] and [15][135].
     
     (2) A member may disclose, make use of, or act on the information if---
         
@@ -1642,7 +1646,7 @@ Further provisions applying to Council and its board
 
 ##### 34 Effect of delegation
     
-*   (1) If any functions or powers are delegated under [clause 33][135], the delegate---
+*   (1) If any functions or powers are delegated under [clause 33][137], the delegate---
         
     *   (a) may, unless the delegation provides otherwise, perform the function or exercise the power in the same manner, subject to the same restrictions and duties, and with the same effect as if the delegate were the Council or the board; and
     
@@ -1650,7 +1654,7 @@ Further provisions applying to Council and its board
     
     (2) A delegate who purports to perform a function or exercise a power under a delegation is, in the absence of proof to the contrary, presumed to do so in accordance with the terms of that delegation.
     
-    (3) A delegation under [clause 33][135]---
+    (3) A delegation under [clause 33][137]---
         
     *   (a) may be revoked at will by resolution of the board and written notice to the delegate; but
     
@@ -1668,7 +1672,7 @@ Further provisions applying to Council and its board
         
     *   (a) 2 or more of its members; or
     
-    *   (b) 1 or more attorneys appointed by the Council in accordance with [clause 36][136].
+    *   (b) 1 or more attorneys appointed by the Council in accordance with [clause 36][138].
     
     (3) An obligation that, if entered into by an individual, is required to be in writing may be entered into on behalf of the Council in writing by a person acting under the Council's express or implied authority.
     
@@ -1684,7 +1688,7 @@ Further provisions applying to Council and its board
 
 ##### 36 Attorneys
     
-*   (1) The Council may, by an instrument in writing executed in accordance with [clause 35(2)][137], appoint a person as its attorney either generally or in relation to a specified matter.
+*   (1) The Council may, by an instrument in writing executed in accordance with [clause 35(2)][139], appoint a person as its attorney either generally or in relation to a specified matter.
     
     (2) An act of the attorney in accordance with the instrument binds the Council.
 
@@ -1734,7 +1738,7 @@ Further provisions applying to Council and its board
 
 ##### 39 Application of Acts to members and employees
     
-*   No person is, by reason only of that person's appointment as a member of, or employment by, the Council, deemed to be employed in the State services for the purposes of the [State Sector Act 1988][138] or in the Government service for the purposes of the [Government Superannuation Fund Act 1956][139].
+*   No person is, by reason only of that person's appointment as a member of, or employment by, the Council, deemed to be employed in the State services for the purposes of the [State Sector Act 1988][140] or in the Government service for the purposes of the [Government Superannuation Fund Act 1956][141].
 
 #### Financial provisions
 
@@ -1752,7 +1756,7 @@ Further provisions applying to Council and its board
 
 ##### 41 Bank accounts
     
-*   (1) The Council must establish, maintain, and operate 1 or more bank accounts at 1 or more registered banks (within the meaning of the [Reserve Bank of New Zealand Act 1989][140]).
+*   (1) The Council must establish, maintain, and operate 1 or more bank accounts at 1 or more registered banks (within the meaning of the [Reserve Bank of New Zealand Act 1989][142]).
     
     (2) All money received by the Council must be paid into that bank account or 1 of those bank accounts as soon as practicable after it has been received.
     
@@ -1760,9 +1764,9 @@ Further provisions applying to Council and its board
 
 ##### 42 Investment of money
     
-*   Any money that belongs to the Council and that is not immediately required may be invested subject to the restrictions in [section 161][141] of the Crown Entities Act 2004 (applied as if the Council were a Crown entity).
+*   Any money that belongs to the Council and that is not immediately required may be invested subject to the restrictions in [section 161][143] of the Crown Entities Act 2004 (applied as if the Council were a Crown entity).
     
-    Schedule 1 clause 42: amended, on 25 January 2005, by [section 37(1)][142] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Schedule 1 clause 42: amended, on 25 January 2005, by [section 37(1)][144] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 43 Council not to borrow without consent of Minister of Finance
     
@@ -1770,7 +1774,7 @@ Further provisions applying to Council and its board
 
 ##### 44 Auditor-General to be auditor of Council
     
-*   The Council is a public entity as defined in [section 4][143] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+*   The Council is a public entity as defined in [section 4][145] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
 
 #### Subsidiaries
 
@@ -1790,11 +1794,11 @@ Acts amended
 
 ##### Auckland Metropolitan Drainage Act 1960 (1960 No 15 (L))
 
-_Amendment(s) incorporated in the [Act(s)][144]._
+_Amendment(s) incorporated in the [Act(s)][146]._
 
 ##### Electricity Act 1992 (1992 No 122)
 
-_Amendment(s) incorporated in the [Act(s)][145]._
+_Amendment(s) incorporated in the [Act(s)][147]._
 
 ##### Fire Service Act 1975 (1975 No 42)
 
@@ -1802,38 +1806,38 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Hutt Valley Drainage Act 1967 (1967 No 3 (L))
 
-_Amendment(s) incorporated in the [Act(s)][146]._
+_Amendment(s) incorporated in the [Act(s)][148]._
 
 ##### North Shore Drainage Act 1963 (1963 No 15 (L))
 
-_Amendment(s) incorporated in the [Act(s)][147]._
+_Amendment(s) incorporated in the [Act(s)][149]._
 
 ##### Public Works Act 1981 (1981 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][148]._
+_Amendment(s) incorporated in the [Act(s)][150]._
 
 ##### Securities Act 1978 (1978 No 103)
 
-_Amendment(s) incorporated in the [Act(s)][149]._
+_Amendment(s) incorporated in the [Act(s)][119]._
 
 ##### Soil Conservation and Rivers Control Act 1941 (1941 No 12)
 
-_Amendment(s) incorporated in the [Act(s)][150]._
+_Amendment(s) incorporated in the [Act(s)][151]._
 
 ##### Transit New Zealand Act 1989 (1989 No 75)
 
-_Amendment(s) incorporated in the [Act(s)][151]._
+_Amendment(s) incorporated in the [Act(s)][152]._
 
 ##### Wellington Regional Water Board Act 1972 (1972 No 3 (L))
 
-_Amendment(s) incorporated in the [Act(s)][152]._
+_Amendment(s) incorporated in the [Act(s)][153]._
 
 ## Part 2  
 Regulations amended
 
 ##### Amusement Devices Regulations 1978 (SR 1978/294)
 
-_Amendment(s) incorporated in the [regulations][153]._
+_Amendment(s) incorporated in the [regulations][154]._
 
 ##### Electricity Regulations 1997 (SR 1997/60)
 
@@ -1845,15 +1849,15 @@ _Amendment(s) incorporated in the notice(s)._
 
 ##### Health and Safety in Employment (Pressure Equipment, Cranes, and Passenger Ropeways) Regulations 1999 (SR 1999/128)
 
-_Amendment(s) incorporated in the [regulations][154]._
+_Amendment(s) incorporated in the [regulations][155]._
 
 ##### Health and Safety in Employment Regulations 1995 (SR 1995/167)
 
-_Amendment(s) incorporated in the [regulations][155]._
+_Amendment(s) incorporated in the [regulations][156]._
 
 ##### Heavy Motor Vehicle Regulations 1974 (SR 1974/218)
 
-_Amendment(s) incorporated in the [regulations][156]._
+_Amendment(s) incorporated in the [regulations][157]._
 
 ##### Surveyors Professional Regulations 1977 (SR 1977/290)
 
@@ -1861,7 +1865,7 @@ _Amendment(s) incorporated in the regulations._
 
 ##### Water Supplies Protection Regulations 1961 (SR 1961/86)
 
-_Amendment(s) incorporated in the [regulations][157]._
+_Amendment(s) incorporated in the [regulations][158]._
 
 #### 
 
@@ -1875,21 +1879,23 @@ _Amendment(s) incorporated in the [regulations][157]._
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][158] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][159] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][159] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][160] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][160] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][161] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][161] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][162] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][109]
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][110]
+    
+    Legislation Act 2012 (2012 No 119): [section 77(3)][109]
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][99]
     
-    Securities Amendment Act 2006 (2006 No 46): [section 25][127]
+    Securities Amendment Act 2006 (2006 No 46): [section 25][129]
     
-    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][142]
+    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][144]
     
     Building Act 2004 (2004 No 72): [section 414][101]
 
@@ -2005,55 +2011,56 @@ _Amendment(s) incorporated in the [regulations][157]._
 [107]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM2997643
 [108]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM2998573
 [109]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM2998633
-[110]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM324886
-[111]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM64784
-[112]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM65382
-[113]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM65371
-[114]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM298477
-[115]: http://www.legislation.govt.nz/act/public/2002/0017/latest/whole.html#DLM145145
-[116]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM319569
-[117]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM25999
-[118]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM139726
-[119]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM325508
-[120]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM126583
-[121]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM126585
-[122]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM126587
-[123]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM127009
-[124]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM127010
-[125]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM127016
-[126]: http://www.legislation.govt.nz/act/public/2002/0017/latest/whole.html#DLM145130
-[127]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM383050
-[128]: http://www.legislation.govt.nz/act/public/2002/0017/latest/whole.html#DLM145138
-[129]: http://www.legislation.govt.nz/act/public/2002/0017/latest/whole.html#DLM145136
-[130]: http://www.legislation.govt.nz/act/public/2002/0017/latest/whole.html#DLM145137
-[131]: http://www.legislation.govt.nz/act/public/2002/0017/latest/whole.html#DLM145131
-[132]: http://www.legislation.govt.nz/act/public/2002/0017/latest/whole.html#DLM145142
-[133]: http://www.legislation.govt.nz/act/public/2002/0017/latest/whole.html#DLM145148
-[134]: http://www.legislation.govt.nz/act/public/2002/0017/latest/whole.html#DLM145147
-[135]: http://www.legislation.govt.nz/act/public/2002/0017/latest/whole.html#DLM145172
-[136]: http://www.legislation.govt.nz/act/public/2002/0017/latest/whole.html#DLM145176
-[137]: http://www.legislation.govt.nz/act/public/2002/0017/latest/whole.html#DLM145175
-[138]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM129109
-[139]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM446000
-[140]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM199363
-[141]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM330566
-[142]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM328867
-[143]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM88548
-[144]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM58870
-[145]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM281866
-[146]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM65074
-[147]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM61115
-[148]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM45426
-[149]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM30446
-[150]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM230364
-[151]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM173368
-[152]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM70083
-[153]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM64229
-[154]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM284468
-[155]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM202256
-[156]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM44715
-[157]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM15443
-[158]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM2998516
-[159]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM2998515
-[160]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM2998532
-[161]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[110]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM5740665
+[111]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM4632890
+[112]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM4632894
+[113]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM64784
+[114]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM65382
+[115]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM65371
+[116]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM298477
+[117]: http://www.legislation.govt.nz/act/public/2002/0017/latest/whole.html#DLM145145
+[118]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM319569
+[119]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM25999
+[120]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM139726
+[121]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM325508
+[122]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM126583
+[123]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM126585
+[124]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM126587
+[125]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM127009
+[126]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM127010
+[127]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM127016
+[128]: http://www.legislation.govt.nz/act/public/2002/0017/latest/whole.html#DLM145130
+[129]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM383050
+[130]: http://www.legislation.govt.nz/act/public/2002/0017/latest/whole.html#DLM145138
+[131]: http://www.legislation.govt.nz/act/public/2002/0017/latest/whole.html#DLM145136
+[132]: http://www.legislation.govt.nz/act/public/2002/0017/latest/whole.html#DLM145137
+[133]: http://www.legislation.govt.nz/act/public/2002/0017/latest/whole.html#DLM145131
+[134]: http://www.legislation.govt.nz/act/public/2002/0017/latest/whole.html#DLM145142
+[135]: http://www.legislation.govt.nz/act/public/2002/0017/latest/whole.html#DLM145148
+[136]: http://www.legislation.govt.nz/act/public/2002/0017/latest/whole.html#DLM145147
+[137]: http://www.legislation.govt.nz/act/public/2002/0017/latest/whole.html#DLM145172
+[138]: http://www.legislation.govt.nz/act/public/2002/0017/latest/whole.html#DLM145176
+[139]: http://www.legislation.govt.nz/act/public/2002/0017/latest/whole.html#DLM145175
+[140]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM129109
+[141]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM446000
+[142]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM199363
+[143]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM330566
+[144]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM328867
+[145]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM88548
+[146]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM58870
+[147]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM281866
+[148]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM65074
+[149]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM61115
+[150]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM45426
+[151]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM230364
+[152]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM173368
+[153]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM70083
+[154]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM64229
+[155]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM284468
+[156]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM202256
+[157]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM44715
+[158]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM15443
+[159]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM2998516
+[160]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM2998515
+[161]: http://www.legislation.govt.nz/act/public/2002/0017/latest/link.aspx?id=DLM2998532
+[162]: http://www.pco.parliament.govt.nz/editorial-conventions/
