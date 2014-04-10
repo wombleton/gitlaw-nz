@@ -1,5 +1,5 @@
 Reprint  
-as at 10 December 2013
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencement22 March 1989
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -1558,7 +1558,7 @@ General
     
     (4) \[Repealed\]
     
-    (5) Nothing in [sections 120][150], [196 to 209B][151], and [214][152] of the Companies Act 1993 shall apply to a company that is subject to statutory management.
+    (5) Nothing in [sections 120][150], [207P to 209B][151], and [214][152] of the Companies Act 1993 shall apply to a company that is subject to statutory management.
     
     (6) Nothing in the [Receiverships Act 1993][153] shall apply to a company that is subject to statutory management.
     
@@ -1574,9 +1574,11 @@ General
     
     Section 71(4): repealed, on 1 July 1994, by section 4 of the Corporations (Investigation and Management) Amendment Act 1994 (1994 No 26).
     
-    Section 71(5): amended, on 18 June 2007, by [section 17][157] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
+    Section 71(5): amended, on 1 April 2014, by [section 126][157] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 71(7): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][158] of the Income Tax Act 2007 (2007 No 97).
+    Section 71(5): amended, on 18 June 2007, by [section 17][158] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
+    
+    Section 71(7): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][159] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 71A Application of reporting requirements in other Acts
     
@@ -1594,7 +1596,7 @@ General
     
     Section 71A: inserted, on 1 July 1994, by section 5 of the Corporations (Investigation and Management) Amendment Act 1994 (1994 No 26).
     
-    Section 71A(2): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][158] of the Income Tax Act 2007 (2007 No 97).
+    Section 71A(2): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][159] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 72 Proof of transactions
     
@@ -1654,15 +1656,15 @@ General
 
 ##### 76 Act subject to application of Cape Town Convention and Aircraft Protocol
     
-*   (1) [Sections 42][51], [43][52], [44][53], and [51][60] and all other provisions of this Act are subject to [section 106][159] of the Civil Aviation Act 1990 (which provides for the primacy of the provisions of the Cape Town Convention and the Aircraft Protocol) and the rest of [Part 12][160] of the Civil Aviation Act 1990 (which implements the Cape Town Convention and the Aircraft Protocol).
+*   (1) [Sections 42][51], [43][52], [44][53], and [51][60] and all other provisions of this Act are subject to [section 106][160] of the Civil Aviation Act 1990 (which provides for the primacy of the provisions of the Cape Town Convention and the Aircraft Protocol) and the rest of [Part 12][161] of the Civil Aviation Act 1990 (which implements the Cape Town Convention and the Aircraft Protocol).
     
     (2) In this section,---
     
-    _Aircraft Protocol_ has the same meaning as in [section 104(1)][161] of the Civil Aviation Act 1990
+    _Aircraft Protocol_ has the same meaning as in [section 104(1)][162] of the Civil Aviation Act 1990
     
-    _Cape Town Convention_ has the same meaning as in [section 104(1)][161] of the Civil Aviation Act 1990\.
+    _Cape Town Convention_ has the same meaning as in [section 104(1)][162] of the Civil Aviation Act 1990\.
     
-    Section 76: added, on 1 November 2010, by [section 14(1)][162] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
+    Section 76: added, on 1 November 2010, by [section 14(1)][163] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
 
 ---
 
@@ -1691,15 +1693,17 @@ Enactments repealed
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][163] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][164] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][164] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][165] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][165] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][166] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][166] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][167] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
 *   Reserve Bank of New Zealand (Covered Bonds) Amendment Act 2013 (2013 No 103): [section 12][101]
+    
+    Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][157]
     
     Companies Amendment Act 2013 (2013 No 111): [section 14][94]
     
@@ -1711,19 +1715,19 @@ Enactments repealed
     
     Insurance (Prudential Supervision) Act 2010 (2010 No 111): [section 241(2)][100]
     
-    Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42): [section 14(1)][162]
+    Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42): [section 14(1)][163]
     
     Accident Compensation Amendment Act 2010 (2010 No 1): [section 5(1)(b)][145]
     
     Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53): [sections 13][118], [14][124]
     
-    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][167]
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][168]
     
     Property Law Act 2007 (2007 No 91): [section 364(1)][114]
     
-    [Corporations (Investigation and Management) Amendment Act 2007][168] (2007 No 50)
+    [Corporations (Investigation and Management) Amendment Act 2007][169] (2007 No 50)
     
-    Companies Amendment Act (No 2) 2006 (2006 No 62): [section 17][157]
+    Companies Amendment Act (No 2) 2006 (2006 No 62): [section 17][158]
     
     Companies Amendment Act 2006 (2006 No 56): [section 41][113]
     
@@ -1737,15 +1741,15 @@ Enactments repealed
     
     Personal Property Securities Act 1999 (1999 No 126): [section 191(1)][130]
     
-    [Corporations (Investigation and Management) Amendment Act 1999][169] (1999 No 20)
+    [Corporations (Investigation and Management) Amendment Act 1999][170] (1999 No 20)
     
-    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][170]
+    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][171]
     
     Corporations (Investigation and Management) Amendment Act 1994 (1994 No 26)
     
     Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][96]
     
-    [Corporations (Investigation and Management) Amendment Act 1993][171] (1993 No 113)
+    [Corporations (Investigation and Management) Amendment Act 1993][172] (1993 No 113)
     
     Public Finance Act 1989 (1989 No 44): [section 65R(3)][149]
 
@@ -1902,24 +1906,25 @@ Enactments repealed
 [148]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM327446
 [149]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM162942
 [150]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM320614
-[151]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM320877
+[151]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM6041591
 [152]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM321131
 [153]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM327640
 [154]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM1512300
 [155]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM430704
 [156]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM327447
-[157]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM392177
-[158]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM1523176
-[159]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM3378214
-[160]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM3378654
-[161]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM3378200
-[162]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM3005756
-[163]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM2998516
-[164]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM2998515
-[165]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM2998532
-[166]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[167]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM1523174
-[168]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM968172
-[169]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM22788
-[170]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM367235
-[171]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM327434
+[157]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM5740665
+[158]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM392177
+[159]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM1523176
+[160]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM3378214
+[161]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM3378654
+[162]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM3378200
+[163]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM3005756
+[164]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM2998516
+[165]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM2998515
+[166]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM2998532
+[167]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[168]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM1523174
+[169]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM968172
+[170]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM22788
+[171]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM367235
+[172]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM327434
