@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the New Zealand Defence Force.
 
@@ -129,37 +129,43 @@ This Act is administered by the New Zealand Defence Force.
 
 [39][49][][49][Travelling expenses of members of Councils][49]
 
-[40][50][][50][Accounts][50]
+[40][50][][50][Accounting records must be kept][50]
 
-[41][51][][51][Annual report to Minister][51] \[Repealed\]
+[40A][51][][51][Financial statements must be prepared][51]
 
-[42][52][][52][Investigation of administration and accounts of provincial Councils][52]
+[40B][52][][52][Financial statements must be audited][52]
 
-[43][53][][53][Rules][53]
+[40C][53][][53][Accounts for money expended or property applied under section 38(2)][53]
 
-[44][54][][54][Authority to make contributions for patriotic purposes][54]
+[41][54][][54][Annual report to Minister][54] \[Repealed\]
 
-[45][55][][55][Exemptions from stamp duty, gift duty, and death duties][55] \[Repealed\]
+[42][55][][55][Investigation of administration and accounts of provincial Councils][55]
 
-[45A][56][][56][Local authorities may exempt Boards and Councils from rates][56] \[Repealed\]
+[43][56][][56][Rules][56]
 
-[46][57][][57][Council to have sole authority in its district][57]
+[44][57][][57][Authority to make contributions for patriotic purposes][57]
 
-[47][58][][58][Raising of money for patriotic purposes][58]
+[45][58][][58][Exemptions from stamp duty, gift duty, and death duties][58] \[Repealed\]
 
-[48][59][][59][Saving existing functions of ex-servicemen's organisations][59]
+[45A][59][][59][Local authorities may exempt Boards and Councils from rates][59] \[Repealed\]
 
-[49][60][][60][Penalties][60]
+[46][60][][60][Council to have sole authority in its district][60]
 
-[50][61][][61][Regulations][61]
+[47][61][][61][Raising of money for patriotic purposes][61]
 
-[51][62][][62][Revocation of Emergency Regulations and savings][62]
+[48][62][][62][Saving existing functions of ex-servicemen's organisations][62]
 
-[Schedule 1][63]  
-[Provincial districts][63]
+[49][63][][63][Penalties][63]
 
-[Schedule 2][64]  
-[Regulations revoked][64]
+[50][64][][64][Regulations][64]
+
+[51][65][][65][Revocation of Emergency Regulations and savings][65]
+
+[Schedule 1][66]  
+[Provincial districts][66]
+
+[Schedule 2][67]  
+[Regulations revoked][67]
 
 ---
 
@@ -177,11 +183,17 @@ An Act to make provision for the administration and control of moneys raised for
     
     _discharged serviceman_ means a serviceman who, whether before or after the passing of this Act, has ceased to serve as a serviceman
     
+    _financial statements_ has the same meaning as in [section 6][68] of the Financial Reporting Act 2013
+    
     _financial year_ means a year ending on 30 September
+    
+    _generally accepted accounting practice_ has the same meaning as in [section 8][69] of the Financial Reporting Act 2013
     
     _Funds_ means the Patriotic and Canteen Funds established under this Act
     
     _Minister_ means the Minister who is, with the authority of the Prime Minister, for the time being responsible for the administration of this Act
+    
+    _non-GAAP standard_ has the same meaning as in [section 5][70] of the Financial Reporting Act 2013
     
     _patriotic purpose_ means any purpose for which the Patriotic and Canteen Funds or any Provincial Fund may be used under this Act
     
@@ -199,98 +211,108 @@ An Act to make provision for the administration and control of moneys raised for
     
     *   (c) any person who, by reason of service rendered (while he was ordinarily resident in New Zealand or elsewhere) as a member of the naval, military, or air forces of New Zealand or any other part of the Commonwealth during any emergency, whether arising out of the obligations undertaken by New Zealand or that other part of the Commonwealth in the Charter of the United Nations or otherwise, would have been such a serviceman if that service had been rendered during the Second World War and if he had then been ordinarily resident in New Zealand. If any question arises as to whether service rendered as aforesaid was rendered during an emergency for the purposes of this paragraph, that question shall be decided by the Minister
     
+    _specified not-for-profit entity_ has the same meaning as in [section 46][71] of the Financial Reporting Act 2013
+    
     _the War_ means the Second World War; and expressions relating to the duration or termination thereof have the same meaning as in section 16 of the Finance Act 1945\.
     
-    Section 2 **Board**: repealed, on 17 May 2005, by [section 3(1)][65] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 2 **Board**: repealed, on 17 May 2005, by [section 3(1)][72] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 2 **Canteen Fund**: repealed, on 1 October 1987, by [section 2(1)][66] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
+    Section 2 **Canteen Fund**: repealed, on 1 October 1987, by [section 2(1)][73] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
     
-    Section 2 **Funds**: inserted, on 1 October 1987, by [section 2(1)][66] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
+    Section 2 **financial statements**: inserted, on 1 April 2014, by [section 125][74] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 2 **Minister**: replaced, on 1 October 2000, by [section 12][67] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
+    Section 2 **Funds**: inserted, on 1 October 1987, by [section 2(1)][73] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
     
-    Section 2 **New Zealand Fund**: repealed, on 1 October 1987, by [section 2(1)][66] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
+    Section 2 **generally accepted accounting practice**: inserted, on 1 April 2014, by [section 125][74] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 2 **patriotic purpose**: replaced, on 1 October 1987, by [section 2(1)][66] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
+    Section 2 **Minister**: replaced, on 1 October 2000, by [section 12][75] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
+    
+    Section 2 **New Zealand Fund**: repealed, on 1 October 1987, by [section 2(1)][73] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
+    
+    Section 2 **non-GAAP standard**: inserted, on 1 April 2014, by [section 125][74] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 2 **patriotic purpose**: replaced, on 1 October 1987, by [section 2(1)][73] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
     
     Section 2 **serviceman**: replaced, on 26 October 1956, by section 2(1) of the Patriotic and Canteen Funds Amendment Act 1956 (1956 No 93).
     
-    Section 2 **serviceman** paragraph (c): amended, on 17 May 2005, by [section 3(2)][65] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 2 **serviceman** paragraph (c): amended, on 17 May 2005, by [section 3(2)][72] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
     Section 2 **serviceman** paragraph (c): amended, on 23 November 1967, by section 2 of the Patriotic and Canteen Funds Amendment Act 1967 (1967 No 107).
+    
+    Section 2 **specified not-for-profit entity**: inserted, on 1 April 2014, by [section 125][74] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ## Part 1  
 Patriotic and Canteen Funds Board
 
 \[Repealed\]
     
-*   Part 1: repealed, on 17 May 2005, by [section 4][68] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+*   Part 1: repealed, on 17 May 2005, by [section 4][76] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
 
 ##### 3 Incorporation of Patriotic and Canteen Funds Board
     
 *   \[Repealed\]
     
-    Section 3: repealed, on 17 May 2005, by [section 4][68] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 3: repealed, on 17 May 2005, by [section 4][76] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
 
 ##### 4 Membership of Board
     
 *   \[Repealed\]
     
-    Section 4: repealed, on 17 May 2005, by [section 4][68] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 4: repealed, on 17 May 2005, by [section 4][76] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
 
 ##### 5 Chairman and Deputy Chairman
     
 *   \[Repealed\]
     
-    Section 5: repealed, on 17 May 2005, by [section 4][68] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 5: repealed, on 17 May 2005, by [section 4][76] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
 
 ##### 6 Functions of Board
     
 *   \[Repealed\]
     
-    Section 6: repealed, on 17 May 2005, by [section 4][68] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 6: repealed, on 17 May 2005, by [section 4][76] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
 
 ##### 7 Powers of Board
     
 *   \[Repealed\]
     
-    Section 7: repealed, on 17 May 2005, by [section 4][68] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 7: repealed, on 17 May 2005, by [section 4][76] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
 
 ##### 8 Officers of Board
     
 *   \[Repealed\]
     
-    Section 8: repealed, on 17 May 2005, by [section 4][68] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 8: repealed, on 17 May 2005, by [section 4][76] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
 
 ##### 9 Vesting property in Board
     
 *   \[Repealed\]
     
-    Section 9: repealed, on 17 May 2005, by [section 4][68] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 9: repealed, on 17 May 2005, by [section 4][76] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
 
 ##### 10 Patriotic and Canteen Funds established
     
 *   \[Repealed\]
     
-    Section 10: repealed, on 17 May 2005, by [section 4][68] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 10: repealed, on 17 May 2005, by [section 4][76] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
 
 ##### 10A Patriotic and Canteen Funds Account
     
 *   \[Repealed\]
     
-    Section 10A: repealed, on 17 May 2005, by [section 4][68] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 10A: repealed, on 17 May 2005, by [section 4][76] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
 
 ##### 10B Board may establish subsidiary accounts
     
 *   \[Repealed\]
     
-    Section 10B: repealed, on 17 May 2005, by [section 4][68] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 10B: repealed, on 17 May 2005, by [section 4][76] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
 
 ##### 10C Trustees of war funds may transfer funds to Board
     
 *   \[Repealed\]
     
-    Section 10C: repealed, on 17 May 2005, by [section 4][68] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 10C: repealed, on 17 May 2005, by [section 4][76] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
 
 ## Part 2  
 Provincial Patriotic Councils
@@ -299,7 +321,7 @@ Provincial Patriotic Councils
 
 ##### 11 Provincial districts
     
-*   For the purposes of this Act New Zealand shall be divided into provincial districts with the names specified in [Schedule 1][63] and with such boundaries as are specified in that behalf by the Minister by notice published in the _Gazette_.
+*   For the purposes of this Act New Zealand shall be divided into provincial districts with the names specified in [Schedule 1][66] and with such boundaries as are specified in that behalf by the Minister by notice published in the _Gazette_.
 
 ##### 12 Union of provincial districts
     
@@ -329,7 +351,7 @@ Provincial Patriotic Councils
     
 *   \[Repealed\]
     
-    Section 16: repealed, on 1 October 1987, by [section 5(4)][69] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
+    Section 16: repealed, on 1 October 1987, by [section 5(4)][77] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
 
 ##### 17 Constitution of Council
     
@@ -472,55 +494,55 @@ The Canteen Fund Board
 
 \[Repealed\]
     
-*   Part 3: repealed, on 1 October 1987, by [section 5(4)][69] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
+*   Part 3: repealed, on 1 October 1987, by [section 5(4)][77] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
 
 ##### 25 Incorporation of Canteen Fund Board
     
 *   \[Repealed\]
     
-    Section 25: repealed, on 1 October 1987, by [section 5(4)][69] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
+    Section 25: repealed, on 1 October 1987, by [section 5(4)][77] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
 
 ##### 26 Membership of the Board
     
 *   \[Repealed\]
     
-    Section 26: repealed, on 1 October 1987, by [section 5(4)][69] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
+    Section 26: repealed, on 1 October 1987, by [section 5(4)][77] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
 
 ##### 27 Chairman and Deputy Chairman
     
 *   \[Repealed\]
     
-    Section 27: repealed, on 1 October 1987, by [section 5(4)][69] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
+    Section 27: repealed, on 1 October 1987, by [section 5(4)][77] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
 
 ##### 28 Functions of the Board
     
 *   \[Repealed\]
     
-    Section 28: repealed, on 1 October 1987, by [section 5(4)][69] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
+    Section 28: repealed, on 1 October 1987, by [section 5(4)][77] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
 
 ##### 29 Powers of the Board
     
 *   \[Repealed\]
     
-    Section 29: repealed, on 1 October 1987, by [section 5(4)][69] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
+    Section 29: repealed, on 1 October 1987, by [section 5(4)][77] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
 
 ##### 30 Officers of the Board
     
 *   \[Repealed\]
     
-    Section 30: repealed, on 1 October 1987, by [section 5(4)][69] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
+    Section 30: repealed, on 1 October 1987, by [section 5(4)][77] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
 
 ##### 31 Canteen Fund established
     
 *   \[Repealed\]
     
-    Section 31: repealed, on 1 October 1987, by [section 5(4)][69] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
+    Section 31: repealed, on 1 October 1987, by [section 5(4)][77] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
 
 ##### 32 Canteen Board may pay surplus profits to Fund and transfer property to Canteen Fund Board
     
 *   \[Repealed\]
     
-    Section 32: repealed, on 1 October 1987, by [section 5(4)][69] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
+    Section 32: repealed, on 1 October 1987, by [section 5(4)][77] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
 
 ## Part 4  
 General provisions
@@ -535,13 +557,13 @@ General provisions
     
     (4) Notwithstanding anything to the contrary in this Act, every member of any Council, unless he sooner vacates his office, shall continue in office until his successor comes into office.
     
-    Section 33(1): amended, on 17 May 2005, by [section 5(1)][70] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 33(1): amended, on 17 May 2005, by [section 5(1)][78] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 33(2): amended, on 17 May 2005, by [section 5(2)][70] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 33(2): amended, on 17 May 2005, by [section 5(2)][78] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 33(2): amended, on 1 October 1987, by [section 5(1)][69] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
+    Section 33(2): amended, on 1 October 1987, by [section 5(1)][77] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
     
-    Section 33(4): amended, on 17 May 2005, by [section 5(3)][70] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 33(4): amended, on 17 May 2005, by [section 5(3)][78] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
 
 ##### 34 Meetings
     
@@ -561,19 +583,19 @@ General provisions
     
     (8) At every meeting the Chairman shall have a deliberative vote, and, in case of an equality of votes, shall also have a casting vote.
     
-    Section 34(1): amended, on 17 May 2005, by [section 6(1)(a)][71] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 34(1): amended, on 17 May 2005, by [section 6(1)(a)][79] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 34(1): amended, on 17 May 2005, by [section 6(1)(b)][71] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 34(1): amended, on 17 May 2005, by [section 6(1)(b)][79] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 34(2): amended, on 17 May 2005, by [section 6(2)(a)][71] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 34(2): amended, on 17 May 2005, by [section 6(2)(a)][79] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 34(2): amended, on 17 May 2005, by [section 6(2)(b)][71] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 34(2): amended, on 17 May 2005, by [section 6(2)(b)][79] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 34(4): amended, on 17 May 2005, by [section 6(3)][71] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 34(4): amended, on 17 May 2005, by [section 6(3)][79] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 34(5): amended, on 17 May 2005, by [section 6(4)][71] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 34(5): amended, on 17 May 2005, by [section 6(4)][79] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 34(6): amended, on 17 May 2005, by [section 6(5)][71] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 34(6): amended, on 17 May 2005, by [section 6(5)][79] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
 
 ##### 35 Additional powers of each Council: superannuation
     
@@ -589,27 +611,27 @@ General provisions
     
     (3) \[Repealed\]
     
-    Section 35 heading: replaced, on 17 May 2005, by [section 7(1)][72] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 35 heading: replaced, on 17 May 2005, by [section 7(1)][80] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 35(1): amended, on 17 May 2005, by [section 7(2)(a)][72] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 35(1): amended, on 17 May 2005, by [section 7(2)(a)][80] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 35(1)(a): amended, on 17 May 2005, by [section 7(2)(b)][72] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 35(1)(a): amended, on 17 May 2005, by [section 7(2)(b)][80] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 35(1)(a): amended, on 1 October 1987, by [section 5(1)][69] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
+    Section 35(1)(a): amended, on 1 October 1987, by [section 5(1)][77] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
     
-    Section 35(1)(c): amended, on 17 May 2005, by [section 7(2)(b)][72] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 35(1)(c): amended, on 17 May 2005, by [section 7(2)(b)][80] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 35(2): repealed, on 17 May 2005, by [section 7(3)][72] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 35(2): repealed, on 17 May 2005, by [section 7(3)][80] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 35(3): repealed, on 1 October 1987, by [section 5(1)][69] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
+    Section 35(3): repealed, on 1 October 1987, by [section 5(1)][77] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
 
 ##### 36 Unauthorised expenditure
     
 *   Each Council may, in any financial year, expend out of its general fund for purposes not authorised by this or any other Act, any sum or sums not amounting in the whole to more than $1,000\.
     
-    Section 36: amended, on 17 May 2005, by [section 8][73] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 36: amended, on 17 May 2005, by [section 8][81] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 36: amended, on 1 October 1987, by [section 5(1)][69] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
+    Section 36: amended, on 1 October 1987, by [section 5(1)][77] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
 
 ##### 37 Contracts of any Council
     
@@ -623,29 +645,29 @@ General provisions
     
     provided that no person shall be concerned to inquire whether the execution of any document attested by 2 members of any such committee is within an authority granted under this subsection to the committee by the Council, as the case may be, to execute documents on its behalf.
     
-    Section 37 heading: amended, on 17 May 2005, by [section 9(1)][74] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 37 heading: amended, on 17 May 2005, by [section 9(1)][82] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 37(1): amended, on 17 May 2005, by [section 9(2)(a)][74] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 37(1): amended, on 17 May 2005, by [section 9(2)(a)][82] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 37(1): amended, on 17 May 2005, by [section 9(2)(b)][74] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 37(1): amended, on 17 May 2005, by [section 9(2)(b)][82] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 37(2): amended, on 17 May 2005, by [section 9(2)(a)][74] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 37(2): amended, on 17 May 2005, by [section 9(2)(a)][82] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 37(2): amended, on 17 May 2005, by [section 9(2)(b)][74] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 37(2): amended, on 17 May 2005, by [section 9(2)(b)][82] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 37(3): amended, on 17 May 2005, by [section 9(2)(a)][74] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 37(3): amended, on 17 May 2005, by [section 9(2)(a)][82] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 37(3): amended, on 17 May 2005, by [section 9(2)(b)][74] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 37(3): amended, on 17 May 2005, by [section 9(2)(b)][82] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
     Section 37(4): replaced, on 5 November 1953, by section 2 of the Patriotic and Canteen Funds Amendment Act 1953 (1953 No 37).
     
-    Section 37(4): amended, on 17 May 2005, by [section 9(2)(b)][74] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 37(4): amended, on 17 May 2005, by [section 9(2)(b)][82] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 37(4): amended, on 17 May 2005, by [section 9(3)(a)][74] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 37(4): amended, on 17 May 2005, by [section 9(3)(a)][82] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 37(4): amended, on 17 May 2005, by [section 9(3)(b)][74] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 37(4): amended, on 17 May 2005, by [section 9(3)(b)][82] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 37(4) proviso: amended, on 17 May 2005, by [section 9(3)(b)][74] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 37(4) proviso: amended, on 17 May 2005, by [section 9(3)(b)][82] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
 
 ##### 38 Vesting, management, and investment of property
     
@@ -653,69 +675,91 @@ General provisions
     
     (2) Each Council may from time to time appoint such person or body of persons (whether incorporated or not) as it thinks fit, being in the opinion of the Council specially qualified for the purpose, to manage, carry on, or maintain any property or institution or to expend any moneys or apply any personal property on behalf of the Council on such terms and conditions as may be agreed upon by the Council and that person or body.
     
-    (3) Subject to the terms of any trust or endowment affecting the same, all money belonging to the Funds or any Provincial Fund and not immediately required for expenditure by the Council concerned may be invested in accordance with the provisions of the [Trustee Act 1956][75] as to the investment of trust funds.
+    (3) Subject to the terms of any trust or endowment affecting the same, all money belonging to the Funds or any Provincial Fund and not immediately required for expenditure by the Council concerned may be invested in accordance with the provisions of the [Trustee Act 1956][83] as to the investment of trust funds.
     
-    Section 38(1): replaced, on 1 October 1987, by [section 5(1)][69] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
+    Section 38(1): replaced, on 1 October 1987, by [section 5(1)][77] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
     
-    Section 38(1): amended, on 17 May 2005, by [section 10(1)(a)][76] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 38(1): amended, on 17 May 2005, by [section 10(1)(a)][84] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 38(1): amended, on 17 May 2005, by [section 10(1)(b)][76] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 38(1): amended, on 17 May 2005, by [section 10(1)(b)][84] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 38(2): amended, on 17 May 2005, by [section 10(2)(a)][76] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 38(2): amended, on 17 May 2005, by [section 10(2)(a)][84] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 38(2): amended, on 17 May 2005, by [section 10(2)(b)][76] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 38(2): amended, on 17 May 2005, by [section 10(2)(b)][84] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 38(3): replaced, on 1 October 1988, by [section 14(1)][77] of the Trustee Amendment Act 1988 (1988 No 119).
+    Section 38(3): replaced, on 1 October 1988, by [section 14(1)][85] of the Trustee Amendment Act 1988 (1988 No 119).
     
-    Section 38(3): amended, on 17 May 2005, by [section 10(3)][76] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 38(3): amended, on 17 May 2005, by [section 10(3)][84] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
 
 ##### 39 Travelling expenses of members of Councils
     
-*   There shall be paid out of the appropriate Provincial Fund to the members of each Council travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][78], and the provisions of that Act shall apply accordingly as if the members of each Council were members of a statutory Board within the meaning of that Act.
+*   There shall be paid out of the appropriate Provincial Fund to the members of each Council travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][86], and the provisions of that Act shall apply accordingly as if the members of each Council were members of a statutory Board within the meaning of that Act.
     
-    Section 39: replaced, on 1 April 1952, by [section 10(1)][79] of the Fees and Travelling Allowances Act 1951 (1951 No 79).
+    Section 39: replaced, on 1 April 1952, by [section 10(1)][87] of the Fees and Travelling Allowances Act 1951 (1951 No 79).
     
-    Section 39 heading: amended, on 17 May 2005, by [section 11(1)][80] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 39 heading: amended, on 17 May 2005, by [section 11(1)][88] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 39: amended, on 17 May 2005, by [section 11(2)(a)][80] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 39: amended, on 17 May 2005, by [section 11(2)(a)][88] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 39: amended, on 17 May 2005, by [section 11(2)(b)][80] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 39: amended, on 17 May 2005, by [section 11(2)(b)][88] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
 
-##### 40 Accounts
+##### 40 Accounting records must be kept
     
-*   (1) Each Council must keep full and correct accounts of all money received and expended by it.
+*   (1) Each Council must ensure that there are kept at all times accounting records that---
+        
+    *   (a) correctly record the transactions of the Council; and
     
-    (1A) Each person or body of persons authorised to expend any moneys or apply any property on behalf of any Council under subsection (2) of [section 38][48] shall keep full and correct accounts of all such moneys or property received and expended or applied by him or it, and the accounts shall be audited by the Auditor-General or by an auditor appointed for the purpose by the Auditor-General, in the same manner as if those moneys and that property were the money and property of a public entity as defined in [section 4][81] of the Public Audit Act 2001\.
+    *   (b) will enable the Council to ensure that the financial statements of the Council comply with this Act; and
     
-    (2) Each Council shall, as soon as possible after the end of any financial year, cause its accounts for that year to be balanced, and full and true statements and accounts of all the moneys received and expended by it in that year and of its assets and liabilities at the end of that year, to be prepared and submitted to the Auditor-General.
+    *   (c) will enable the financial statements of the Council to be readily and properly audited.
     
-    (3) Each Council is a public entity as defined in [section 4][81] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is their auditor.
+    (2) Each Council must establish and maintain a satisfactory system of control of those accounting records.
     
-    Section 40(1): replaced, on 1 July 2001, by [section 53][82] of the Public Audit Act 2001 (2001 No 10).
+    (3) The accounting records must be kept---
+        
+    *   (a) in written form in English; or
     
-    Section 40(1): amended, on 17 May 2005, by [section 12(1)][83] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    *   (b) in a form or manner in which they are easily accessible and convertible into written form in English.
     
-    Section 40(1A): inserted, on 1 December 1950, by section 6 of the Patriotic and Canteen Funds Amendment Act 1950 (1950 No 64).
+    Section 40: replaced, on 1 April 2014, by [section 125][74] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 40A Financial statements must be prepared
     
-    Section 40(1A): amended, on 17 May 2005, by [section 12(2)][83] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+*   (1) Each Council must ensure that, within 5 months after the end of the financial year, financial statements are---
+        
+    *   (a) completed in relation to the Council and that financial year; and
     
-    Section 40(1A): amended, on 1 July 2001, pursuant to [section 52][84] of the Public Audit Act 2001 (2001 No 10).
+    *   (b) dated and signed on behalf of the Council by 2 members of the Council.
     
-    Section 40(1A): amended, on 1 July 2001, by [section 53][82] of the Public Audit Act 2001 (2001 No 10).
+    (2) The financial statements must be prepared in accordance with,---
+        
+    *   (a) in the case of a specified not-for-profit entity, generally accepted accounting practice; or
     
-    Section 40(2): amended, on 17 May 2005, by [section 12(3)][83] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    *   (b) in any other case, either generally accepted accounting practice or a non-GAAP standard that applies for the purposes of this section.
     
-    Section 40(2): amended, on 1 July 2001, pursuant to [section 52][84] of the Public Audit Act 2001 (2001 No 10).
+    Section 40A: inserted, on 1 April 2014, by [section 125][74] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 40B Financial statements must be audited
     
-    Section 40(3): inserted, on 1 July 2001, by [section 53][82] of the Public Audit Act 2001 (2001 No 10).
+*   (1) Each Council must ensure that the financial statements of the Council are audited.
     
-    Section 40(3): amended, on 17 May 2005, by [section 12(4)][83] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    (2) Each Council is a public entity as defined in [section 4][89] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+    
+    Section 40B: inserted, on 1 April 2014, by [section 125][74] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 40C Accounts for money expended or property applied under section 38(2)
+    
+*   (1) Each person or body of persons authorised to expend any money or apply any property on behalf of any Council under [section 38(2)][48] must keep full and correct accounts of all such money or property received and expended or applied by him, her, or it. 
+    
+    (2) The accounts must be audited by the Auditor-General or by an auditor appointed for the purpose by the Auditor-General, in the same manner as if that money and that property were the money and property of a public entity as defined in [section 4][89] of the Public Audit Act 2001\.
+    
+    Section 40C: inserted, on 1 April 2014, by [section 125][74] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 41 Annual report to Minister
     
 *   \[Repealed\]
     
-    Section 41: repealed, on 17 May 2005, by [section 13][85] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 41: repealed, on 17 May 2005, by [section 13][90] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
 
 ##### 42 Investigation of administration and accounts of provincial Councils
     
@@ -725,17 +769,17 @@ General provisions
     
     (3) If, on considering the report of the investigation, the Minister is of the opinion that any person has been guilty of a breach of trust or negligence or other culpability, he may apply to a District Court Judge for an order directing that the costs and expenses of the investigation, or any part of such costs and expenses, be paid by that person to the Minister, and any order made on any such application shall be enforceable as a judgment of the District Court. Any such order may be made against 2 or more persons so as to impose a joint and several liability upon them.
     
-    Section 42 heading: amended, on 17 May 2005, by [section 14(1)][86] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 42 heading: amended, on 17 May 2005, by [section 14(1)][91] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 42(1): amended, on 17 May 2005, by [section 14(2)(a)][86] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 42(1): amended, on 17 May 2005, by [section 14(2)(a)][91] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 42(1): amended, on 17 May 2005, by [section 14(2)(b)][86] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 42(1): amended, on 17 May 2005, by [section 14(2)(b)][91] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 42(1): amended, on 1 October 1987, by [section 5(1)][69] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
+    Section 42(1): amended, on 1 October 1987, by [section 5(1)][77] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
     
-    Section 42(3): amended, on 1 July 2001, by [section 53][82] of the Public Audit Act 2001 (2001 No 10).
+    Section 42(3): amended, on 1 July 2001, by [section 53][92] of the Public Audit Act 2001 (2001 No 10).
     
-    Section 42(3): amended, on 1 April 1980, pursuant to [section 18(2)][87] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 42(3): amended, on 1 April 1980, pursuant to [section 18(2)][93] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 43 Rules
     
@@ -751,13 +795,13 @@ General provisions
     
     (2) Notice of every resolution proposed to be submitted to any meeting of any Council for the making, amendment, or revocation of any such rules as aforesaid shall be given to every member of the Council for the time being in New Zealand not less than 14 clear days before the day fixed for the meeting, by sending the same to him by post addressed to him at his last known place of abode or business in New Zealand, and shall be deemed to have been received when it would in the ordinary course of post be delivered.
     
-    Section 43(1): amended, on 17 May 2005, by [section 15(1)(a)][88] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 43(1): amended, on 17 May 2005, by [section 15(1)(a)][94] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 43(1)(d): amended, on 17 May 2005, by [section 15(1)(b)][88] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 43(1)(d): amended, on 17 May 2005, by [section 15(1)(b)][94] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 43(2): amended, on 17 May 2005, by [section 15(2)(a)][88] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 43(2): amended, on 17 May 2005, by [section 15(2)(a)][94] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 43(2): amended, on 17 May 2005, by [section 15(2)(b)][88] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 43(2): amended, on 17 May 2005, by [section 15(2)(b)][94] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
 
 ##### 44 Authority to make contributions for patriotic purposes
     
@@ -765,21 +809,21 @@ General provisions
     
     (2) \[Repealed\]
     
-    (3) For the purposes of this section, **local authority** means a local authority within the meaning of the [Local Government Act 2002][89].
+    (3) For the purposes of this section, **local authority** means a local authority within the meaning of the [Local Government Act 2002][95].
     
-    Section 44(1): amended, on 17 May 2005, by [section 16][90] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 44(1): amended, on 17 May 2005, by [section 16][96] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 44(1): amended, on 1 October 1987, by [section 5(1)][69] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
+    Section 44(1): amended, on 1 October 1987, by [section 5(1)][77] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
     
     Section 44(2): repealed, on 1 April 1949, by section 39(1) of the Trustee Savings Banks Act 1948 (1948 No 62).
     
-    Section 44(3): replaced, on 1 July 2003, by [section 262][91] of the Local Government Act 2002 (2002 No 84).
+    Section 44(3): replaced, on 1 July 2003, by [section 262][97] of the Local Government Act 2002 (2002 No 84).
 
 ##### 45 Exemptions from stamp duty, gift duty, and death duties
     
 *   \[Repealed\]
     
-    Section 45: repealed, on 1 January 1972, pursuant to [section 101(1)][92] of the Stamp and Cheque Duties Act 1971 (1971 No 51).
+    Section 45: repealed, on 1 January 1972, pursuant to [section 101(1)][98] of the Stamp and Cheque Duties Act 1971 (1971 No 51).
 
 ##### 45A Local authorities may exempt Boards and Councils from rates
     
@@ -797,7 +841,7 @@ General provisions
     
     *   (c) generally the power to do all things necessary for the effective carrying out of patriotic purposes and the administration of the Fund.
     
-    Section 46(c): replaced, on 17 May 2005, by [section 17][93] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 46(c): replaced, on 17 May 2005, by [section 17][99] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
 
 ##### 47 Raising of money for patriotic purposes
     
@@ -821,21 +865,21 @@ General provisions
     
     (10) If any society, association, or body of persons fails or refuses to conform to any requirement of the Minister or any authorised person under the last preceding subsection, every officer and every member of the committee or other governing body thereof commits an offence against this Act.
     
-    Section 47(1): amended, on 17 May 2005, by [section 18(1)(a)][94] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 47(1): amended, on 17 May 2005, by [section 18(1)(a)][100] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 47(1): amended, on 17 May 2005, by [section 18(1)(b)][94] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 47(1): amended, on 17 May 2005, by [section 18(1)(b)][100] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 47(1): amended, on 17 May 2005, by [section 18(1)(c)][94] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 47(1): amended, on 17 May 2005, by [section 18(1)(c)][100] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 47(1): amended, on 1 October 1987, by [section 5(1)][69] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
+    Section 47(1): amended, on 1 October 1987, by [section 5(1)][77] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
     
-    Section 47(3): amended, on 17 May 2005, by [section 18(2)][94] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 47(3): amended, on 17 May 2005, by [section 18(2)][100] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 47(3): amended, on 1 October 1987, by [section 5(1)][69] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
+    Section 47(3): amended, on 1 October 1987, by [section 5(1)][77] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
 
 ##### 48 Saving existing functions of ex-servicemen's organisations
     
-*   Nothing contained in [sections 46][57] and [47][58] shall operate in any way to limit the New Zealand Returned Services Association or any provincial Returned Services Association, or the New Zealand Homeservicemen's Association, or the Second New Zealand Expeditionary Force Association, or the Air Force Association, or the Ex-Royal Naval Men's Association, or the Merchant Service Guild in the powers, duties, and functions of those Associations or of that Guild or to render unlawful any appeal for funds or collection of money or goods by any such Association or Guild for any of its purposes or functions.
+*   Nothing contained in [sections 46][60] and [47][61] shall operate in any way to limit the New Zealand Returned Services Association or any provincial Returned Services Association, or the New Zealand Homeservicemen's Association, or the Second New Zealand Expeditionary Force Association, or the Air Force Association, or the Ex-Royal Naval Men's Association, or the Merchant Service Guild in the powers, duties, and functions of those Associations or of that Guild or to render unlawful any appeal for funds or collection of money or goods by any such Association or Guild for any of its purposes or functions.
 
 ##### 49 Penalties
     
@@ -847,13 +891,13 @@ General provisions
     
     (4) Every person who commits an offence against this Act shall be liable on conviction to a fine not exceeding $100, and, where the offence is a continuing one, to a further fine not exceeding $10 for every day during which the offence continues.
     
-    Section 49(1): amended, on 17 May 2005, by [section 19(a)][95] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 49(1): amended, on 17 May 2005, by [section 19(a)][101] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 49(1): amended, on 17 May 2005, by [section 19(b)][95] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+    Section 49(1): amended, on 17 May 2005, by [section 19(b)][101] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
     
-    Section 49(1): amended, on 1 October 1987, by [section 5(1)][69] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
+    Section 49(1): amended, on 1 October 1987, by [section 5(1)][77] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
     
-    Section 49(4): amended, on 1 July 2013, by [section 413][96] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 49(4): amended, on 1 July 2013, by [section 413][102] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 50 Regulations
     
@@ -861,7 +905,7 @@ General provisions
 
 ##### 51 Revocation of Emergency Regulations and savings
     
-*   (1) The regulations specified in [Schedule 2][64] are hereby revoked.
+*   (1) The regulations specified in [Schedule 2][67] are hereby revoked.
     
     (2) All provincial districts, provincial Councils appointments, orders, approvals, rules, notices defining or amending the boundaries of provincial districts or constituting new provincial districts, and other acts of authority that originated under or for the purposes of the Regulations, and are subsisting or in force at the commencement of this Act, shall enure for the purposes of this Act as if they had originated under this Act and accordingly shall, where necessary, be deemed to have so originated.
     
@@ -895,7 +939,7 @@ TaranakiSouthland
 ## Schedule 2  
 Regulations revoked
 
-[s 51][62]
+[s 51][65]
 
 ##### Patriotic Purposes Emergency Regulations 1939 (SR 1939/194)
 
@@ -911,88 +955,47 @@ Regulations revoked
 
 ##### Patriotic Purposes Emergency Regulations 1939, Amendment No 7 (SR 1944/104)
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Patriotic and Canteen Funds Act 1947\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][97] ![](/images/external_link.gif).
+*   This is a reprint of the Patriotic and Canteen Funds Act 1947 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][98] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][103] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][104] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][99] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][105] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][106] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][100] and [17E][101] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 125][74]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][102]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    [Patriotic and Canteen Funds Amendment Act 2005][107] (2005 No 65)
     
+    Local Government Act 2002 (2002 No 84): [section 262][97]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    Public Audit Act 2001 (2001 No 10): [sections 52][108], [53][92]
     
-*   Criminal Procedure Act 2011 (2011 No 81): [section 413][96]
+    Archives, Culture, and Heritage Reform Act 2000 (2000 No 32): [section 12][75]
     
-    [Patriotic and Canteen Funds Amendment Act 2005][102] (2005 No 65)
+    Trustee Amendment Act 1988 (1988 No 119): [section 14(1)][85]
     
-    Local Government Act 2002 (2002 No 84): [section 262][91]
+    [Patriotic and Canteen Funds Amendment Act 1987][109] (1987 No 4)
     
-    Public Audit Act 2001 (2001 No 10): [sections 52][84], [53][82]
-    
-    Archives, Culture, and Heritage Reform Act 2000 (2000 No 32): [section 12][67]
-    
-    Trustee Amendment Act 1988 (1988 No 119): [section 14(1)][77]
-    
-    [Patriotic and Canteen Funds Amendment Act 1987][103] (1987 No 4)
-    
-    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][87]
+    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][93]
     
     Patriotic and Canteen Funds Amendment Act 1973 (1973 No 84)
     
-    Stamp and Cheque Duties Act 1971 (1971 No 51): [section 101(1)][92]
+    Stamp and Cheque Duties Act 1971 (1971 No 51): [section 101(1)][98]
     
     Patriotic and Canteen Funds Amendment Act 1970 (1970 No 97)
     
@@ -1004,7 +1007,7 @@ Regulations revoked
     
     Patriotic and Canteen Funds Amendment Act 1953 (1953 No 37)
     
-    Fees and Travelling Allowances Act 1951 (1951 No 79): [section 10(1)][79]
+    Fees and Travelling Allowances Act 1951 (1951 No 79): [section 10(1)][87]
     
     Patriotic and Canteen Funds Amendment Act 1950 (1950 No 64)
     
@@ -1012,7 +1015,7 @@ Regulations revoked
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM246647
 [2]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM246649
 [3]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM246650
@@ -1063,56 +1066,62 @@ Regulations revoked
 [48]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM247242
 [49]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM247253
 [50]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM247259
-[51]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM247271
-[52]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM247275
-[53]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM247282
-[54]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM247289
-[55]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM247294
-[56]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM247298
-[57]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM247500
-[58]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM247503
-[59]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM247511
-[60]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM247512
-[61]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM247516
-[62]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM247517
-[63]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM247518
-[64]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM247520
-[65]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348915
-[66]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM100571
-[67]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM67196
-[68]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348916
-[69]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM100574
-[70]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348917
-[71]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348918
-[72]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348919
-[73]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348920
-[74]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348921
-[75]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM304703
-[76]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348922
-[77]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM135629
-[78]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM264952
-[79]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM264982
-[80]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348923
-[81]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM88548
-[82]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM88957
-[83]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348924
-[84]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM88956
-[85]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348925
-[86]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348926
-[87]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM35085
-[88]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348927
-[89]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM170872
-[90]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348928
-[91]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM174088
-[92]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM401040
-[93]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348929
-[94]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348930
-[95]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348931
-[96]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM3360714
-[97]: http://www.pco.parliament.govt.nz/reprints/
-[98]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM195439
-[99]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[100]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM195468
-[101]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM195470
-[102]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348909
-[103]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM100565
+[51]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM6046829
+[52]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM6046831
+[53]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM6046833
+[54]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM247271
+[55]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM247275
+[56]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM247282
+[57]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM247289
+[58]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM247294
+[59]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM247298
+[60]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM247500
+[61]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM247503
+[62]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM247511
+[63]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM247512
+[64]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM247516
+[65]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM247517
+[66]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM247518
+[67]: http://www.legislation.govt.nz/act/public/1947/0063/latest/whole.html#DLM247520
+[68]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM4632890
+[69]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM4632894
+[70]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM4632837
+[71]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM4632962
+[72]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348915
+[73]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM100571
+[74]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM5740664
+[75]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM67196
+[76]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348916
+[77]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM100574
+[78]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348917
+[79]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348918
+[80]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348919
+[81]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348920
+[82]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348921
+[83]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM304703
+[84]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348922
+[85]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM135629
+[86]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM264952
+[87]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM264982
+[88]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348923
+[89]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM88548
+[90]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348925
+[91]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348926
+[92]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM88957
+[93]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM35085
+[94]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348927
+[95]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM170872
+[96]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348928
+[97]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM174088
+[98]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM401040
+[99]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348929
+[100]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348930
+[101]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348931
+[102]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM3360714
+[103]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM2998516
+[104]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM2998515
+[105]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM2998532
+[106]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[107]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM348909
+[108]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM88956
+[109]: http://www.legislation.govt.nz/act/public/1947/0063/latest/link.aspx?id=DLM100565
