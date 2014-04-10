@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -159,24 +159,26 @@ This Act is administered by the Ministry for Primary Industries.
 
 [56][66][][66][Unauthorised expenditure][66]
 
-[57][67][][67][Audit of accounts][67]
+[57][67][][67][Financial statements must be prepared][67]
 
-[58][68][][68][Annual report and statement of accounts][68]
+[57A][68][][68][Financial statements must be audited][68]
 
-[59][69][][69][Taxation][69] \[Repealed\]
+[58][69][][69][Annual report and financial statements][69]
 
-[Part 5][70]  
-[Miscellaneous provisions][70]
+[59][70][][70][Taxation][70] \[Repealed\]
 
-[60][71][][71][Act not to derogate from or limit Commerce Act 1986][71]
+[Part 5][71]  
+[Miscellaneous provisions][71]
 
-[61][72][][72][Service of notices][72]
+[60][72][][72][Act not to derogate from or limit Commerce Act 1986][72]
 
-[62][73][][73][Regulations][73]
+[61][73][][73][Service of notices][73]
 
-[63][74][][74][Offences and penalties][74]
+[62][74][][74][Regulations][74]
 
-[64][75][][75][Consequential amendments][75]
+[63][75][][75][Offences and penalties][75]
+
+[64][76][][76][Consequential amendments][76]
 
 ---
 
@@ -203,6 +205,10 @@ An Act to establish the New Zealand Horticulture Export Authority and to provide
     *   (b) gifts of product:
     
     *   (c) product which forms part of the personal baggage of a passenger
+    
+    _financial statements_ has the same meaning as in [section 6][77] of the Financial Reporting Act 2013
+    
+    _generally accepted accounting practice_ has the same meaning as in [section 8][78] of the Financial Reporting Act 2013
     
     _grade_ means an indication of the degree of refinement of a product
     
@@ -250,37 +256,41 @@ An Act to establish the New Zealand Horticulture Export Authority and to provide
         
     *   (a) recognised for a prescribed product by an Order in Council under [section 24][28]; or
     
-    *   (b) declared (by such an Order in Council made before the commencement of the [New Zealand Horticulture Export Authority Amendment Act 1992][76]) to be a product group recognised under [section 25][29] as suitable to carry out the functions of a recognised product group in relation to a product;---
+    *   (b) declared (by such an Order in Council made before the commencement of the [New Zealand Horticulture Export Authority Amendment Act 1992][79]) to be a product group recognised under [section 25][29] as suitable to carry out the functions of a recognised product group in relation to a product;---
     
     and, in relation to a prescribed product, means the product group recognised for or declared in relation to that product
     
     _sale_ includes every method of disposition for valuable consideration including barter; and includes the disposition to an agent for sale on consignment; and also includes offering or attempting to sell, or receiving or having in possession for sale, or exposing for sale, or sending or delivering for sale, or causing or permitting to be sold, offered, or exposed for sale; and _sell_ and _sold_ have corresponding meanings.
     
-    Section 2 **Minister**: substituted, on 19 December 2002, by [section 3(1)][77] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 2 **financial statements**: inserted, on 1 April 2014, by [section 125][80] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 2 **generally accepted accounting practice**: inserted, on 1 April 2014, by [section 125][80] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 2 **Minister**: substituted, on 19 December 2002, by [section 3(1)][81] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
     
     Section 2 **processed** paragraph (b)(i): amended, on 29 June 1990, by section 2 of the New Zealand Horticulture Export Authority Amendment Act (No 2) 1990 (1990 No 47).
     
-    Section 2 **product**: substituted, on 27 October 1992, by [section 2][78] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
+    Section 2 **product**: substituted, on 27 October 1992, by [section 2][82] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
     
-    Section 2 **product** paragraph (ba): inserted, on 19 December 2002, by [section 3(2)][77] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 2 **product** paragraph (ba): inserted, on 19 December 2002, by [section 3(2)][81] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
     
-    Section 2 **product** paragraph (c): amended, on 31 October 2003, by [section 3][79] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
+    Section 2 **product** paragraph (c): amended, on 31 October 2003, by [section 3][83] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
     
-    Section 2 **product** paragraph (d): added, on 31 October 2003, by [section 3][79] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
+    Section 2 **product** paragraph (d): added, on 31 October 2003, by [section 3][83] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
     
-    Section 2 **recognised product group**: substituted, on 27 October 1992, by [section 5(3)][80] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
+    Section 2 **recognised product group**: substituted, on 27 October 1992, by [section 5(3)][84] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
 
 ##### 3 Application and limitation of Act
     
 *   This Act applies to the extent that it does not conflict with any other enactment (being an Act or a legislative instrument made by Order in Council) relating to the export of any particular product.
     
-    Section 3: replaced, on 5 August 2013, by [section 77(3)][81] of the Legislation Act 2012 (2012 No 119).
+    Section 3: replaced, on 5 August 2013, by [section 77(3)][85] of the Legislation Act 2012 (2012 No 119).
 
 ##### 4 Administration of Act
     
 *   This Act shall be administered by the Ministry of Agriculture and Forestry.
     
-    Section 4: amended, on 1 March 1998, pursuant to [section 5(1)(c)][82] of the Ministries of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100).
+    Section 4: amended, on 1 March 1998, pursuant to [section 5(1)(c)][86] of the Ministries of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100).
 
 ## Part 1  
 New Zealand Horticulture Export Authority
@@ -319,7 +329,7 @@ New Zealand Horticulture Export Authority
     
     *   (f) such other functions as may be conferred on the Authority by or under this or any other Act.
     
-    Section 6(2)(e): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 6(2)(e): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
 
 ##### 7 Additional special functions of Authority in relation to prescribed products
     
@@ -361,9 +371,9 @@ New Zealand Horticulture Export Authority
     
     (2) Where a notice is given to the Authority under subsection (1), the Ministers shall, as soon as practicable after the giving of the notice, publish in the _Gazette_ and lay before the House of Representatives a copy of the notice.
     
-    Section 9(1): amended, on 19 December 2002, by [section 4(1)][84] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 9(1): amended, on 19 December 2002, by [section 4(1)][88] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
     
-    Section 9(1A): inserted, on 19 December 2002, by [section 4(2)][84] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 9(1A): inserted, on 19 December 2002, by [section 4(2)][88] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
 
 ##### 10 Membership
     
@@ -379,23 +389,23 @@ New Zealand Horticulture Export Authority
     
     *   (b) 2 members, each of whom has been nominated by 1 or more of the bodies specified in subsection (3):
     
-    *   (c) 1 member nominated by the body that, on the commencement of the [New Zealand Horticulture Export Authority Amendment Act 1992][76], was known as the Horticulture Exporters Council Incorporated:
+    *   (c) 1 member nominated by the body that, on the commencement of the [New Zealand Horticulture Export Authority Amendment Act 1992][79], was known as the Horticulture Exporters Council Incorporated:
     
     *   (d) 1 other member.
     
     (2) The Minister shall not appoint any person a member of the Authority unless satisfied that the person has a knowledge of and experience in marketing.
     
-    (3) The bodies referred to in subsection (1)(a)(ii) and (b) are the bodies that, on the commencement of the [New Zealand Horticulture Export Authority Amendment Act 2008][85], were known, respectively, as Horticulture New Zealand Incorporated and The Nursery and Garden Industry Association of New Zealand Incorporated.
+    (3) The bodies referred to in subsection (1)(a)(ii) and (b) are the bodies that, on the commencement of the [New Zealand Horticulture Export Authority Amendment Act 2008][89], were known, respectively, as Horticulture New Zealand Incorporated and The Nursery and Garden Industry Association of New Zealand Incorporated.
     
-    Section 10: substituted, on 27 October 1992, by [section 3(1)][86] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
+    Section 10: substituted, on 27 October 1992, by [section 3(1)][90] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
     
-    Section 10(1): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 10(1): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
     
-    Section 10(1)(a)(ii): amended, on 27 March 2008, by [section 4(1)][87] of the New Zealand Horticulture Export Authority Amendment Act 2008 (2008 No 15).
+    Section 10(1)(a)(ii): amended, on 27 March 2008, by [section 4(1)][91] of the New Zealand Horticulture Export Authority Amendment Act 2008 (2008 No 15).
     
-    Section 10(2): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 10(2): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
     
-    Section 10(3): substituted, on 27 March 2008, by [section 4(2)][87] of the New Zealand Horticulture Export Authority Amendment Act 2008 (2008 No 15).
+    Section 10(3): substituted, on 27 March 2008, by [section 4(2)][91] of the New Zealand Horticulture Export Authority Amendment Act 2008 (2008 No 15).
 
 ##### 11 Terms of office
     
@@ -415,7 +425,7 @@ New Zealand Horticulture Export Authority
     
     *   (c) that member is informed in writing by the Minister that he or she is not to be reappointed and is not to hold office until a successor is appointed.
     
-    Section 11(3)(c): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 11(3)(c): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
 
 ##### 12 Vacation of office
     
@@ -429,11 +439,11 @@ New Zealand Horticulture Export Authority
     
     (5) The functions and powers of the Authority shall not be affected by any vacancy in its membership.
     
-    Section 12(1): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 12(1): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
     
-    Section 12(1): amended, on 1 January 2002, by [section 70(1)][88] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 12(1): amended, on 1 January 2002, by [section 70(1)][92] of the Human Rights Amendment Act 2001 (2001 No 96).
     
-    Section 12(3): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 12(3): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
 
 ##### 13 Deputies of members
     
@@ -443,9 +453,9 @@ New Zealand Horticulture Export Authority
     
     (3) Any person appointed as a deputy under this section shall, while so acting, be deemed to be a member of the Authority appointed under the same conditions as the member for whom that person is deputising.
     
-    Section 13(1): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 13(1): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
     
-    Section 13(2): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 13(2): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
 
 ##### 14 Meetings of Authority
     
@@ -463,9 +473,9 @@ New Zealand Horticulture Export Authority
     
     (7) Subject to this Act, the Authority may regulate its own procedure.
     
-    Section 14(1): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 14(1): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
     
-    Section 14(3): amended, on 27 October 1992, by [section 3(2)][86] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
+    Section 14(3): amended, on 27 October 1992, by [section 3(2)][90] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
 
 ##### 15 Authority may appoint committees
     
@@ -503,9 +513,9 @@ New Zealand Horticulture Export Authority
 
 ##### 19 Superannuation and retiring allowances
     
-*   The Authority may, for the purpose of providing superannuation or retiring allowances for its officers or employees appointed under [section 16][18] or [section 17][19], from time to time pay sums of money by way of subsidy into any superannuation scheme which is registered under the [Superannuation Schemes Act 1989][89].
+*   The Authority may, for the purpose of providing superannuation or retiring allowances for its officers or employees appointed under [section 16][18] or [section 17][19], from time to time pay sums of money by way of subsidy into any superannuation scheme which is registered under the [Superannuation Schemes Act 1989][93].
     
-    Section 19: substituted, on 1 April 1991, by [section 80][90] of the National Provident Fund Restructuring Act 1990 (1990 No 126).
+    Section 19: substituted, on 1 April 1991, by [section 80][94] of the National Provident Fund Restructuring Act 1990 (1990 No 126).
 
 ##### 20 Remuneration and travelling allowances
     
@@ -539,17 +549,17 @@ New Zealand Horticulture Export Authority
         
     *   (a) uses any information to which this section applies other than for the purposes of carrying out that person's functions under this Act; or
     
-    *   (b) discloses any such information other than for the purposes of carrying out that person's functions under this Act, or in accordance with the [Official Information Act 1982][91] or any other enactment,---
+    *   (b) discloses any such information other than for the purposes of carrying out that person's functions under this Act, or in accordance with the [Official Information Act 1982][95] or any other enactment,---
     
     commits an offence and shall be liable on conviction to a fine not exceeding $10,000\.
     
-    Section 22(1)(a)(ii): amended, on 31 October 2003, by [section 4][92] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
+    Section 22(1)(a)(ii): amended, on 31 October 2003, by [section 4][96] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
     
-    Section 22(2): amended, on 1 July 2013, by [section 413][93] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 22(2): amended, on 1 July 2013, by [section 413][97] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 23 Contracts of Authority and members
     
-*   (1) The Authority is hereby declared to be a public body for the purposes of the [Public Bodies Contracts Act 1959][94] and to be a local authority for the purposes of the [Local Authorities (Members' Interests) Act 1968][95].
+*   (1) The Authority is hereby declared to be a public body for the purposes of the [Public Bodies Contracts Act 1959][98] and to be a local authority for the purposes of the [Local Authorities (Members' Interests) Act 1968][99].
     
     (2) Where---
         
@@ -565,9 +575,9 @@ New Zealand Horticulture Export Authority
     
     *   (b) the interest is not different in kind from the interests of other people in the body (or one of the bodies) by which the person was nominated for appointment,---
     
-    [section 6][96] of the Local Authorities (Members' Interests) Act 1968 does not prohibit the person from voting on or taking part in the discussion of the matter.
+    [section 6][100] of the Local Authorities (Members' Interests) Act 1968 does not prohibit the person from voting on or taking part in the discussion of the matter.
     
-    Section 23(2): substituted, on 27 October 1992, by [section 3(3)][86] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
+    Section 23(2): substituted, on 27 October 1992, by [section 3(3)][90] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
 
 ##### 23A Performance reviews
     
@@ -627,25 +637,25 @@ New Zealand Horticulture Export Authority
     
     *   (b) the person's reasonable costs in doing so.
     
-    Section 23A: inserted, on 27 October 1992, by [section 4][97] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
+    Section 23A: inserted, on 27 October 1992, by [section 4][101] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
     
-    Section 23A(5)(a): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 23A(5)(a): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
     
-    Section 23A(5)(b): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 23A(5)(b): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
     
-    Section 23A(6): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 23A(6): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
     
-    Section 23A(6)(a): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 23A(6)(a): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
     
-    Section 23A(6)(b): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 23A(6)(b): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
     
-    Section 23A(7): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 23A(7): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
     
-    Section 23A(8): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 23A(8): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
     
-    Section 23A(10): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 23A(10): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
     
-    Section 23A(12)(a): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 23A(12)(a): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
 
 ## Part 2  
 Prescribed products
@@ -668,9 +678,9 @@ Prescribed products
     
     (3) An Order in Council made under this section may be amended or revoked only in accordance with [section 31(2)][37] or [section 32][38] or [section 33][39].
     
-    Section 24(1): substituted, on 27 October 1992, by [section 5(1)][80] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
+    Section 24(1): substituted, on 27 October 1992, by [section 5(1)][84] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
     
-    Section 24(2)(b): repealed, on 27 October 1992, by [section 5(2)][80] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
+    Section 24(2)(b): repealed, on 27 October 1992, by [section 5(2)][84] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
 
 ##### 25 Requirements to be met before product may become a prescribed product
     
@@ -710,25 +720,25 @@ Prescribed products
     
     *   (f) such other matters as appear relevant to the Minister.
     
-    Section 25(1): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 25(1): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
     
-    Section 25(1)(a): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 25(1)(a): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
     
-    Section 25(1)(b): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 25(1)(b): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
     
-    Section 25(1)(c): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 25(1)(c): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
     
-    Section 25(1)(c)(ii): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 25(1)(c)(ii): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
     
-    Section 25(1)(d): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 25(1)(d): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
     
-    Section 25(2): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 25(2): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
     
-    Section 25(3): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 25(3): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
     
-    Section 25(3): amended, on 27 October 1992, by [section 5(4)][80] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
+    Section 25(3): amended, on 27 October 1992, by [section 5(4)][84] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
     
-    Section 25(3)(f): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 25(3)(f): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
 
 #### Export marketing strategy to be formulated where product subject to export licensing
 
@@ -762,13 +772,13 @@ Prescribed products
     
     (4) The recognised product group shall, after formulating the export marketing strategy, submit it to the Authority for approval under [section 28][33], together with details of its consultations with the associations, persons, and bodies referred to in subsection (3).
     
-    Section 26(2)(a): amended, on 31 October 2003, by [section 5(1)][98] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
+    Section 26(2)(a): amended, on 31 October 2003, by [section 5(1)][102] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
     
-    Section 26(2A): inserted, on 27 October 1992, by [section 6][99] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
+    Section 26(2A): inserted, on 27 October 1992, by [section 6][103] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
     
-    Section 26(2A): amended, on 31 October 2003, by [section 5(2)][98] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
+    Section 26(2A): amended, on 31 October 2003, by [section 5(2)][102] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
     
-    Section 26(2B): repealed, on 31 October 2003, by [section 5(3)][98] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
+    Section 26(2B): repealed, on 31 October 2003, by [section 5(3)][102] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
 
 ##### 27 Export marketing strategy to be kept under review
     
@@ -786,11 +796,11 @@ Prescribed products
     
     (5) \[Repealed\]
     
-    Section 27(2): amended, on 27 October 1992, by [section 7(1)][100] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
+    Section 27(2): amended, on 27 October 1992, by [section 7(1)][104] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
     
-    Section 27(4): repealed, on 31 October 2003, by [section 6][101] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
+    Section 27(4): repealed, on 31 October 2003, by [section 6][105] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
     
-    Section 27(5): repealed, on 31 October 2003, by [section 6][101] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
+    Section 27(5): repealed, on 31 October 2003, by [section 6][105] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
 
 ##### 28 Approval of export marketing strategy or proposal to replace, amend, or revoke strategy
     
@@ -820,9 +830,9 @@ Prescribed products
         
         
     
-    Section 28(2): amended, on 27 October 1992, by [section 8(1)][102] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
+    Section 28(2): amended, on 27 October 1992, by [section 8(1)][106] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
     
-    Section 28(2)(c): substituted, on 27 October 1992, by [section 8(2)][102] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
+    Section 28(2)(c): substituted, on 27 October 1992, by [section 8(2)][106] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
 
 ##### 29 Date of coming into force of approved strategy or proposal for purposes of export licensing
     
@@ -884,7 +894,7 @@ Prescribed products
     
     *   (b) in every case, notify the amended date as soon as possible to the recognised product group and to all licensed exporters of the product.
     
-    Section 30(1)(b): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 30(1)(b): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
 
 #### Amendment or revocation of Order in Council declaring product to be prescribed product
 
@@ -906,7 +916,7 @@ Prescribed products
     
     (2) Notwithstanding subsection (1), or anything in [sections 32][38] and [33][39], the Governor-General may from time to time, by Order in Council, amend any Order in Council made under [section 24][28] for the purpose of correcting any error or making any minor or technical amendment.
     
-    Section 31(1): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 31(1): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
 
 ##### 32 Requirements to be met before Minister may recommend amendment of Order in Council
     
@@ -930,19 +940,19 @@ Prescribed products
     
     *   (b) have regard to the matters specified in [section 25(2)][29].
     
-    Section 32 heading: amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 32 heading: amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
     
-    Section 32(1): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 32(1): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
     
-    Section 32(2): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 32(2): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
     
-    Section 32(2)(b): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 32(2)(b): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
     
-    Section 32(3): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 32(3): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
     
-    Section 32(3)(b): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 32(3)(b): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
     
-    Section 32(4): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 32(4): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
 
 ##### 33 Requirements to be met before Minister may recommend revocation of Order in Council
     
@@ -962,13 +972,13 @@ Prescribed products
         
         
     
-    Section 33 heading: amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 33 heading: amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
     
-    Section 33: amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 33: amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
     
-    Section 33(b): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 33(b): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
     
-    Section 33(c): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 33(c): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
 
 ## Part 3  
 Export licensing
@@ -989,7 +999,7 @@ Export licensing
     
     (4) Every person who exports any prescribed product in contravention of subsection (1) commits an offence and shall be liable on conviction to a fine not exceeding $10,000\.
     
-    Section 34(4): amended, on 1 July 2013, by [section 413][93] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 34(4): amended, on 1 July 2013, by [section 413][97] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 35 Application for export licence
     
@@ -1003,7 +1013,7 @@ Export licensing
     
     (3) An applicant may make a statement in writing to the Authority, setting forth such information or comment as the applicant considers will assist the Authority in its consideration of the application.
     
-    Section 35(2): substituted, on 27 October 1992, by [section 9(7)][103] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
+    Section 35(2): substituted, on 27 October 1992, by [section 9(7)][107] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
 
 ##### 36 Grant of licence or provisional licence
     
@@ -1059,7 +1069,7 @@ Export licensing
     
     (6) Unless earlier revoked or cancelled,---
         
-    *   (a) every export licence granted before the commencement of the [New Zealand Horticulture Export Authority Amendment Act 1992][76] shall expire with the close of the fifth anniversary of that commencement; and
+    *   (a) every export licence granted before the commencement of the [New Zealand Horticulture Export Authority Amendment Act 1992][79] shall expire with the close of the fifth anniversary of that commencement; and
     
     *   (b) every other export licence shall expire with the close of the fifth anniversary of the day on which it was granted.
     
@@ -1071,27 +1081,27 @@ Export licensing
     
     to apply for and be granted another.
     
-    Section 36(1): amended, on 31 October 2003, by [section 7(1)][104] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
+    Section 36(1): amended, on 31 October 2003, by [section 7(1)][108] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
     
-    Section 36(1): amended, on 27 October 1992, by [section 9(1)(a)][103] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
+    Section 36(1): amended, on 27 October 1992, by [section 9(1)(a)][107] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
     
-    Section 36(1): amended, on 27 October 1992, by [section 9(1)(b)][103] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
+    Section 36(1): amended, on 27 October 1992, by [section 9(1)(b)][107] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
     
-    Section 36(1)(ba): inserted, on 27 October 1992, by [section 9(2)][103] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
+    Section 36(1)(ba): inserted, on 27 October 1992, by [section 9(2)][107] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
     
-    Section 36(1)(bb): inserted, on 27 October 1992, by [section 9(2)][103] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
+    Section 36(1)(bb): inserted, on 27 October 1992, by [section 9(2)][107] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
     
-    Section 36(1A): inserted, on 27 October 1992, by [section 9(3)][103] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
+    Section 36(1A): inserted, on 27 October 1992, by [section 9(3)][107] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
     
-    Section 36(2): amended, on 27 October 1992, by [section 9(4)][103] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
+    Section 36(2): amended, on 27 October 1992, by [section 9(4)][107] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
     
-    Section 36(3): amended, on 31 October 2003, by [section 7(2)][104] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
+    Section 36(3): amended, on 31 October 2003, by [section 7(2)][108] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
     
-    Section 36(4A): repealed, on 31 October 2003, by [section 7(3)][104] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
+    Section 36(4A): repealed, on 31 October 2003, by [section 7(3)][108] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
     
-    Section 36(6): added, on 27 October 1992, by [section 9(6)][103] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
+    Section 36(6): added, on 27 October 1992, by [section 9(6)][107] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
     
-    Section 36(7): added, on 27 October 1992, by [section 9(6)][103] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
+    Section 36(7): added, on 27 October 1992, by [section 9(6)][107] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
 
 ##### 37 Conditions of licences
     
@@ -1123,13 +1133,13 @@ Export licensing
     
     *   (b) must notify the exporter in writing of its decision (giving reasons if the decision is adverse to the exporter).
     
-    Section 37(3): added, on 31 October 2003, by [section 8][105] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
+    Section 37(3): added, on 31 October 2003, by [section 8][109] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
     
-    Section 37(4): added, on 31 October 2003, by [section 8][105] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
+    Section 37(4): added, on 31 October 2003, by [section 8][109] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
     
-    Section 37(5): added, on 31 October 2003, by [section 8][105] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
+    Section 37(5): added, on 31 October 2003, by [section 8][109] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
     
-    Section 37(6): added, on 31 October 2003, by [section 8][105] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
+    Section 37(6): added, on 31 October 2003, by [section 8][109] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
 
 ##### 38 Additional conditions may be imposed where prejudice to export marketing strategy
     
@@ -1215,9 +1225,9 @@ Export licensing
     
     (8) The Authority may at any time revoke or vary a condition imposed under this section after giving such notice to the licensed exporter as is reasonable in all the circumstances.
     
-    Section 38(2)(c): amended, on 27 October 1992, by [section 10(2)][106] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
+    Section 38(2)(c): amended, on 27 October 1992, by [section 10(2)][110] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
     
-    Section 38(2A): inserted, on 27 October 1992, by [section 10(1)][106] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
+    Section 38(2A): inserted, on 27 October 1992, by [section 10(1)][110] of the New Zealand Horticulture Export Authority Amendment Act 1992 (1992 No 100).
 
 ##### 39 Revocation, suspension, and cancellation of licences
     
@@ -1263,9 +1273,9 @@ Export licensing
         
         
     
-    Section 39(5)(b): amended, on 31 October 2003, by [section 9(1)][107] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
+    Section 39(5)(b): amended, on 31 October 2003, by [section 9(1)][111] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
     
-    Section 39(6)(b): substituted, on 31 October 2003, by [section 9(2)][107] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
+    Section 39(6)(b): substituted, on 31 October 2003, by [section 9(2)][111] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
 
 ##### 40 Exemption for single operation or trial shipment
     
@@ -1275,7 +1285,7 @@ Export licensing
     
     (3) The Authority may at any time, for reasonable cause, revoke a certificate of exemption issued under this section, or revoke or vary any conditions attached to any such certificate, after giving such notice to the holder of the certificate as is reasonable in all the circumstances.
     
-    Section 40(2): amended, on 31 October 2003, by [section 10][108] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
+    Section 40(2): amended, on 31 October 2003, by [section 10][112] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
 
 ##### 41 Exemption from compliance with export marketing strategy
     
@@ -1321,7 +1331,7 @@ Export licensing
     
     *   (c) must notify the person in writing of its decision (giving reasons if the decision is adverse to the person).
     
-    Section 41A: inserted, on 31 October 2003, by [section 11][109] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
+    Section 41A: inserted, on 31 October 2003, by [section 11][113] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
 
 ##### 42 Register of export licences
     
@@ -1407,15 +1417,15 @@ Export licensing
     
     (9) Where the decision of the Authority appealed against is a decision to revoke or suspend a licence or an exemption, or to impose conditions on a licence under [section 38][45], the operation of that decision shall be suspended until the final determination of the appeal by the arbitrator.
     
-    Section 43(1): amended, on 31 October 2003, by [section 12(1)][110] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
+    Section 43(1): amended, on 31 October 2003, by [section 12(1)][114] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
     
-    Section 43(2): amended, on 31 October 2003, by [section 12(2)][110] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
+    Section 43(2): amended, on 31 October 2003, by [section 12(2)][114] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
     
-    Section 43(4): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 43(4): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
     
-    Section 43(6): substituted, on 31 October 2003, by [section 12(3)][110] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
+    Section 43(6): substituted, on 31 October 2003, by [section 12(3)][114] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
     
-    Section 43(6A): inserted, on 31 October 2003, by [section 12(3)][110] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
+    Section 43(6A): inserted, on 31 October 2003, by [section 12(3)][114] of the New Zealand Horticulture Export Authority Amendment Act 2003 (2003 No 117).
 
 ##### 44 Appeals to High Court on question of law
     
@@ -1425,7 +1435,7 @@ Export licensing
     
     (3) Subject to this Act, the procedure in respect of any such appeal shall be in accordance with the rules of court.
     
-    Section 44(2): amended, on 15 August 1991, pursuant to [section 3(5)][111] of the Judicature Amendment Act 1991 (1991 No 60).
+    Section 44(2): amended, on 15 August 1991, pursuant to [section 3(5)][115] of the Judicature Amendment Act 1991 (1991 No 60).
 
 ##### 45 Notice of appeal
     
@@ -1534,7 +1544,7 @@ Financial provisions
 
 ##### 53 Investment of money
     
-*   The Authority may invest any of its money not immediately required in the exercise of its functions and powers in any investment authorised as a trustee investment under the [Trustee Act 1956][112], or in any other investment that may from time to time be authorised by the Minister of Finance for the purpose.
+*   The Authority may invest any of its money not immediately required in the exercise of its functions and powers in any investment authorised as a trustee investment under the [Trustee Act 1956][116], or in any other investment that may from time to time be authorised by the Minister of Finance for the purpose.
 
 ##### 54 Borrowing powers
     
@@ -1544,13 +1554,13 @@ Financial provisions
         
     *   (a) advance money to the Authority:
     
-    *   (b) give, in respect of any amounts borrowed by the Authority, a guarantee, indemnity, or security pursuant to the [Public Finance Act 1989][113].
+    *   (b) give, in respect of any amounts borrowed by the Authority, a guarantee, indemnity, or security pursuant to the [Public Finance Act 1989][117].
     
     (3) All money advanced by the Minister of Finance under subsection (2)(a) shall be paid from money appropriated by Parliament for the purpose.
     
-    Section 54(1): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 54(1): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
     
-    Section 54(2)(b): amended, on 1 July 1989, by [section 86(1)][114] of the Public Finance Act 1989 (1989 No 44).
+    Section 54(2)(b): amended, on 1 July 1989, by [section 86(1)][118] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 55 Financial year
     
@@ -1560,31 +1570,43 @@ Financial provisions
     
 *   The Authority may, in any financial year, expend out of the funds of the Authority for purposes not authorised by this Act or any other enactment any sum or sums not amounting in the whole to more than $5,000\.
 
-##### 57 Audit of accounts
+##### 57 Financial statements must be prepared
     
-*   (1) Within 6 months after the end of each financial year or within such further period as the Minister may allow, the Authority shall prepare a statement of financial position and such other statements of accounts as are necessary to show fully the financial position of the Authority, and the financial results of its operations during the year.
+*   The Authority must ensure that, within 5 months after the end of the financial year, financial statements that comply with generally accepted accounting practice are---
+        
+    *   (a) completed in relation to the Authority and that financial year; and
     
-    (2) The Authority is a public entity as defined in [section 4][115] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+    *   (b) dated and signed on behalf of the Authority by 2 members of the Authority.
     
-    Section 57(1): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
-    
-    Section 57(1): amended, on 1 October 1997, pursuant to [section 6(1)][116] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 57(2): substituted, on 1 July 2001, by [section 53][117] of the Public Audit Act 2001 (2001 No 10).
+    Section 57: replaced, on 1 April 2014, by [section 125][80] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
-##### 58 Annual report and statement of accounts
+##### 57A Financial statements must be audited
     
-*   (1) As soon as reasonably practicable after the end of each financial year the Authority shall deliver to the Minister a general report of its operations during the year together with a copy of its duly audited accounts for that year and the report of the Auditor-General on those accounts.
+*   (1) The Authority must ensure that the financial statements of the Authority are audited.
     
-    (2) A copy of the general report and of the accounts of the Authority, together with a copy of the report of the Auditor-General on the accounts, shall be laid before the House of Representatives as soon as practicable after their receipt by the Minister.
+    (2) The Authority is a public entity as defined in [section 4][119] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
     
-    Section 58(1): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    Section 57A: inserted, on 1 April 2014, by [section 125][80] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 58 Annual report and financial statements
     
-    Section 58(1): amended, on 1 July 2001, pursuant to [section 52][118] of the Public Audit Act 2001 (2001 No 10).
+*   (1) As soon as reasonably practicable after the end of each financial year the Authority shall deliver to the Minister a general report of its operations during the year together with a copy of its duly audited financial statements for that year and the report of the Auditor-General on those financial statements.
     
-    Section 58(2): amended, on 19 December 2002, by [section 5][83] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    (2) A copy of the general report and of the financial statements of the Authority, together with a copy of the report of the Auditor-General on the financial statements, shall be laid before the House of Representatives as soon as practicable after their receipt by the Minister.
     
-    Section 58(2): amended, on 1 July 2001, pursuant to [section 52][118] of the Public Audit Act 2001 (2001 No 10).
+    Section 58 heading: amended, on 1 April 2014, by [section 125][80] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 58(1): amended, on 1 April 2014, by [section 125][80] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 58(1): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    
+    Section 58(1): amended, on 1 July 2001, pursuant to [section 52][120] of the Public Audit Act 2001 (2001 No 10).
+    
+    Section 58(2): amended, on 1 April 2014, by [section 125][80] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 58(2): amended, on 19 December 2002, by [section 5][87] of the New Zealand Horticulture Export Authority Amendment Act 2002 (2002 No 70).
+    
+    Section 58(2): amended, on 1 July 2001, pursuant to [section 52][120] of the Public Audit Act 2001 (2001 No 10).
 
 ##### 59 Taxation
     
@@ -1597,9 +1619,9 @@ Miscellaneous provisions
 
 ##### 60 Act not to derogate from or limit Commerce Act 1986
     
-*   (1) Nothing in this Act shall derogate from or limit any of the provisions of the [Commerce Act 1986][119].
+*   (1) Nothing in this Act shall derogate from or limit any of the provisions of the [Commerce Act 1986][121].
     
-    (2) Nothing in the provisions of any export marketing strategy, or in [section 37(1)(a)][44] or [section 38][45], shall, for the purposes of [section 43(1)][120] of the Commerce Act 1986, be taken to specifically authorise the doing of any act, matter, or thing in contravention of the provisions of [Part 2][121] of that Act.
+    (2) Nothing in the provisions of any export marketing strategy, or in [section 37(1)(a)][44] or [section 38][45], shall, for the purposes of [section 43(1)][122] of the Commerce Act 1986, be taken to specifically authorise the doing of any act, matter, or thing in contravention of the provisions of [Part 2][123] of that Act.
 
 ##### 61 Service of notices
     
@@ -1647,7 +1669,7 @@ Miscellaneous provisions
     
     (2) Every person who commits an offence against this Act or against any regulations made under this Act for which no penalty is provided elsewhere than in this subsection shall be liable on conviction to a fine not exceeding $4,000\.
     
-    Section 63(2): amended, on 1 July 2013, by [section 413][93] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 63(2): amended, on 1 July 2013, by [section 413][97] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 64 Consequential amendments
     
@@ -1669,37 +1691,37 @@ Miscellaneous provisions
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][122] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][123] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][124] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][125] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][124] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][125] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][126] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][127] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][81]
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 125][80]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][93]
+    Legislation Act 2012 (2012 No 119): [section 77(3)][85]
     
-    [New Zealand Horticulture Export Authority Amendment Act 2008][85] (2008 No 15)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][97]
     
-    [New Zealand Horticulture Export Authority Amendment Act 2003][126] (2003 No 117)
+    [New Zealand Horticulture Export Authority Amendment Act 2008][89] (2008 No 15)
     
-    [New Zealand Horticulture Export Authority Amendment Act 2002][127] (2002 No 70)
+    [New Zealand Horticulture Export Authority Amendment Act 2003][128] (2003 No 117)
     
-    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][88]
+    [New Zealand Horticulture Export Authority Amendment Act 2002][129] (2002 No 70)
     
-    Public Audit Act 2001 (2001 No 10): [sections 52][118], [53][117]
+    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][92]
     
-    Ministries of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100): [section 5(1)(c)][82]
+    Public Audit Act 2001 (2001 No 10): [sections 52][120], [53][130]
     
-    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6(1)][116]
+    Ministries of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100): [section 5(1)(c)][86]
     
-    [New Zealand Horticulture Export Authority Amendment Act 1992][76] (1992 No 100)
+    [New Zealand Horticulture Export Authority Amendment Act 1992][79] (1992 No 100)
     
-    Judicature Amendment Act 1991 (1991 No 60): [section 3(5)][111]
+    Judicature Amendment Act 1991 (1991 No 60): [section 3(5)][115]
     
-    National Provident Fund Restructuring Act 1990 (1990 No 126): [section 80][90]
+    National Provident Fund Restructuring Act 1990 (1990 No 126): [section 80][94]
     
     Ministry of Agriculture and Fisheries Amendment Act 1990 (1990 No 53): section 2(4)(n)
     
@@ -1707,7 +1729,7 @@ Miscellaneous provisions
     
     Land Tax Amendment Act 1989 (1989 No 50): section 10
     
-    Public Finance Act 1989 (1989 No 44): [section 86(1)][114]
+    Public Finance Act 1989 (1989 No 44): [section 86(1)][118]
 
 
 
@@ -1779,63 +1801,66 @@ Miscellaneous provisions
 [65]: http://www.legislation.govt.nz/act/public/1987/0093/latest/whole.html#DLM118163
 [66]: http://www.legislation.govt.nz/act/public/1987/0093/latest/whole.html#DLM118164
 [67]: http://www.legislation.govt.nz/act/public/1987/0093/latest/whole.html#DLM118165
-[68]: http://www.legislation.govt.nz/act/public/1987/0093/latest/whole.html#DLM118168
-[69]: http://www.legislation.govt.nz/act/public/1987/0093/latest/whole.html#DLM118170
-[70]: http://www.legislation.govt.nz/act/public/1987/0093/latest/whole.html#DLM118172
-[71]: http://www.legislation.govt.nz/act/public/1987/0093/latest/whole.html#DLM118173
-[72]: http://www.legislation.govt.nz/act/public/1987/0093/latest/whole.html#DLM118174
-[73]: http://www.legislation.govt.nz/act/public/1987/0093/latest/whole.html#DLM118175
-[74]: http://www.legislation.govt.nz/act/public/1987/0093/latest/whole.html#DLM118176
-[75]: http://www.legislation.govt.nz/act/public/1987/0093/latest/whole.html#DLM118177
-[76]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM280613
-[77]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM169059
-[78]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM280620
-[79]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM226215
-[80]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM280624
-[81]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM2998633
-[82]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM418619
-[83]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM169063
-[84]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM169062
-[85]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM1209240
-[86]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM280622
-[87]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM1209247
-[88]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM122579
-[89]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM143291
-[90]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM226616
-[91]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM64784
-[92]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM226217
-[93]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM3360714
-[94]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM324218
-[95]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM390002
-[96]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM390047
-[97]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM280623
-[98]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM226218
-[99]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM280625
-[100]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM280626
-[101]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM226219
-[102]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM280627
-[103]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM280628
-[104]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM226220
-[105]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM226221
-[106]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM280629
-[107]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM226222
-[108]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM226223
-[109]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM226224
-[110]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM226226
-[111]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM230219
-[112]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM304703
-[113]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM160808
-[114]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM163175
-[115]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM88548
-[116]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM408960
-[117]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM88957
-[118]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM88956
-[119]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM87622
-[120]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM88405
-[121]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM88261
-[122]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM2998516
-[123]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM2998515
-[124]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM2998532
-[125]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[126]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM226208
-[127]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM169053
+[68]: http://www.legislation.govt.nz/act/public/1987/0093/latest/whole.html#DLM6046118
+[69]: http://www.legislation.govt.nz/act/public/1987/0093/latest/whole.html#DLM118168
+[70]: http://www.legislation.govt.nz/act/public/1987/0093/latest/whole.html#DLM118170
+[71]: http://www.legislation.govt.nz/act/public/1987/0093/latest/whole.html#DLM118172
+[72]: http://www.legislation.govt.nz/act/public/1987/0093/latest/whole.html#DLM118173
+[73]: http://www.legislation.govt.nz/act/public/1987/0093/latest/whole.html#DLM118174
+[74]: http://www.legislation.govt.nz/act/public/1987/0093/latest/whole.html#DLM118175
+[75]: http://www.legislation.govt.nz/act/public/1987/0093/latest/whole.html#DLM118176
+[76]: http://www.legislation.govt.nz/act/public/1987/0093/latest/whole.html#DLM118177
+[77]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM4632890
+[78]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM4632894
+[79]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM280613
+[80]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM5740664
+[81]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM169059
+[82]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM280620
+[83]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM226215
+[84]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM280624
+[85]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM2998633
+[86]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM418619
+[87]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM169063
+[88]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM169062
+[89]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM1209240
+[90]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM280622
+[91]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM1209247
+[92]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM122579
+[93]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM143291
+[94]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM226616
+[95]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM64784
+[96]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM226217
+[97]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM3360714
+[98]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM324218
+[99]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM390002
+[100]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM390047
+[101]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM280623
+[102]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM226218
+[103]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM280625
+[104]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM280626
+[105]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM226219
+[106]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM280627
+[107]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM280628
+[108]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM226220
+[109]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM226221
+[110]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM280629
+[111]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM226222
+[112]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM226223
+[113]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM226224
+[114]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM226226
+[115]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM230219
+[116]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM304703
+[117]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM160808
+[118]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM163175
+[119]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM88548
+[120]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM88956
+[121]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM87622
+[122]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM88405
+[123]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM88261
+[124]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM2998516
+[125]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM2998515
+[126]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM2998532
+[127]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[128]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM226208
+[129]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM169053
+[130]: http://www.legislation.govt.nz/act/public/1987/0093/latest/link.aspx?id=DLM88957
