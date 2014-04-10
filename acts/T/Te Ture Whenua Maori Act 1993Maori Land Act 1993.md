@@ -1,5 +1,5 @@
 Reprint  
-as at 5 December 2013
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -14,7 +14,7 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -799,232 +799,236 @@ This Act is administered by Te Puni Kōkiri.
 
 [275][381][][381][Conduct of meetings of shareholders][381]
 
-[276][382][][382][Accounts and statement of financial position][382]
+[276][382][][382][Accounting records to be kept][382]
 
-[277][383][][383][Appointment and duties of auditor][383]
+[276A][383][][383][Financial statements must be prepared][383]
 
-[278][384][][384][Appointment of share valuer][384]
+[276B][384][][384][Financial statements must be filed][384]
 
-[278A][385][][385][Adjustment of shareholding][385]
+[277][385][][385][Appointment and duties of auditor][385]
 
-[Duties and powers of court][386]
+[278][386][][386][Appointment of share valuer][386]
 
-[279][387][][387][Register of Maori incorporations][387]
+[278A][387][][387][Adjustment of shareholding][387]
 
-[280][388][][388][Investigation of incorporation's affairs][388]
+[Duties and powers of court][388]
 
-[281][389][][389][Power of court to require officers to attend to explain non-compliance with statutory requirements][389]
+[279][389][][389][Register of Maori incorporations][389]
 
-[282][390][][390][Winding up of incorporation][390]
+[280][390][][390][Investigation of incorporation's affairs][390]
 
-[283][391][][391][Disposal of land on winding up of incorporation][391]
+[281][391][][391][Power of court to require officers to attend to explain non-compliance with statutory requirements][391]
 
-[284][392][][392][Regulations][392]
+[282][392][][392][Winding up of incorporation][392]
 
-[Part 14][393]  
-[Title reconstruction and improvement][393]
+[283][393][][393][Disposal of land on winding up of incorporation][393]
 
-[285][394][][394][Interpretation][394]
+[284][394][][394][Regulations][394]
 
-[286][395][][395][Purpose of this Part][395]
+[Part 14][395]  
+[Title reconstruction and improvement][395]
 
-[287][396][][396][Jurisdiction of courts][396]
+[285][396][][396][Interpretation][396]
 
-[288][397][][397][Matters to be considered][397]
+[286][397][][397][Purpose of this Part][397]
 
-[Partition][398]
+[287][398][][398][Jurisdiction of courts][398]
 
-[289][399][][399][Partition orders][399]
+[288][399][][399][Matters to be considered][399]
 
-[290][400][][400][Modes of partition][400]
+[Partition][400]
 
-[291][401][][401][Discretionary powers of court in making partitions][401]
+[289][401][][401][Partition orders][401]
 
-[292][402][][402][Allotment of interests on partition][402]
+[290][402][][402][Modes of partition][402]
 
-[293][403][][403][Power to award additional land as compensation for improvements, etc][403]
+[291][403][][403][Discretionary powers of court in making partitions][403]
 
-[294][404][][404][Saving of interests charged on partitioned land][404]
+[292][404][][404][Allotment of interests on partition][404]
 
-[295][405][][405][Court may apportion rights and obligations][405]
+[293][405][][405][Power to award additional land as compensation for improvements, etc][405]
 
-[296][406][][406][Dwelling sites for Maori][406]
+[294][406][][406][Saving of interests charged on partitioned land][406]
 
-[297][407][][407][Partition orders may be made in respect of land held in trust][407]
+[295][407][][407][Court may apportion rights and obligations][407]
 
-[298][408][][408][Partition of combined areas][408]
+[296][408][][408][Dwelling sites for Maori][408]
 
-[299][409][][409][Registration of partition orders][409]
+[297][409][][409][Partition orders may be made in respect of land held in trust][409]
 
-[300][410][][410][Plan approved by court prerequisite to partition of Maori land][410]
+[298][410][][410][Partition of combined areas][410]
 
-[301][411][][411][Compliance with provisions of Resource Management Act 1991 relating to subdivisions][411]
+[299][411][][411][Registration of partition orders][411]
 
-[302][412][][412][Contributions for reserve purposes][412]
+[300][412][][412][Plan approved by court prerequisite to partition of Maori land][412]
 
-[303][413][][413][Subdivision consent and conditions of subdivision consent][413]
+[301][413][][413][Compliance with provisions of Resource Management Act 1991 relating to subdivisions][413]
 
-[304][414][][414][Power to impose restrictions in respect of other partitions][414]
+[302][414][][414][Contributions for reserve purposes][414]
 
-[305][415][][415][Reserves contributions, roads, etc][415] \[Repealed\]
+[303][415][][415][Subdivision consent and conditions of subdivision consent][415]
 
-[306][416][][416][Cancellation of partition orders][416]
+[304][416][][416][Power to impose restrictions in respect of other partitions][416]
 
-[Amalgamation and aggregation][417]
+[305][417][][417][Reserves contributions, roads, etc][417] \[Repealed\]
 
-[307][418][][418][Amalgamation orders][418]
+[306][418][][418][Cancellation of partition orders][418]
 
-[308][419][][419][Aggregation orders][419]
+[Amalgamation and aggregation][419]
 
-[309][420][][420][Orders to specify relative interests of owners][420]
+[307][420][][420][Amalgamation orders][420]
 
-[Exchange orders][421]
+[308][421][][421][Aggregation orders][421]
 
-[310][422][][422][Court may make exchange orders][422]
+[309][422][][422][Orders to specify relative interests of owners][422]
 
-[311][423][][423][Land and interests that may be exchanged][423]
+[Exchange orders][423]
 
-[312][424][][424][Conditions precedent to making of exchange orders][424]
+[310][424][][424][Court may make exchange orders][424]
 
-[313][425][][425][Effect of exchange order][425]
+[311][425][][425][Land and interests that may be exchanged][425]
 
-[314][426][][426][Money payable by way of equality of exchange to be charge on land][426]
+[312][426][][426][Conditions precedent to making of exchange orders][426]
 
-[Easements and roadways][427]
+[313][427][][427][Effect of exchange order][427]
 
-[315][428][][428][Court may create easements][428]
+[314][428][][428][Money payable by way of equality of exchange to be charge on land][428]
 
-[315A][429][][429][Court may cancel or vary easements][429]
+[Easements and roadways][429]
 
-[316][430][][430][Court may lay out roadways][430]
+[315][430][][430][Court may create easements][430]
 
-[317][431][][431][Required consents][431]
+[315A][431][][431][Court may cancel or vary easements][431]
 
-[318][432][][432][Effect of laying out roadway][432]
+[316][432][][432][Court may lay out roadways][432]
 
-[319][433][][433][Compensation in respect of roadway][433]
+[317][433][][433][Required consents][433]
 
-[320][434][][434][Roadways may be declared roads or streets][434]
+[318][434][][434][Effect of laying out roadway][434]
 
-[321][435][][435][Land that has been used but not set apart as a road may be declared a road or street][435]
+[319][435][][435][Compensation in respect of roadway][435]
 
-[322][436][][436][Court may cancel roadways][436]
+[320][436][][436][Roadways may be declared roads or streets][436]
 
-[323][437][][437][Powers of court on cancellation of roadway][437]
+[321][437][][437][Land that has been used but not set apart as a road may be declared a road or street][437]
 
-[324][438][][438][Unused road or street over Maori land may be stopped by court][438]
+[322][438][][438][Court may cancel roadways][438]
 
-[325][439][][439][Court may make vesting orders for lands comprised in roads or streets stopped otherwise than under foregoing provisions][439]
+[323][439][][439][Powers of court on cancellation of roadway][439]
 
-[326][440][][440][Alienation of land to include alienation of interest in roadway giving access to that land][440]
+[324][440][][440][Unused road or street over Maori land may be stopped by court][440]
 
-[Landlocked Maori land][441]
+[325][441][][441][Court may make vesting orders for lands comprised in roads or streets stopped otherwise than under foregoing provisions][441]
 
-[326A][442][][442][Meaning of certain terms][442]
+[326][442][][442][Alienation of land to include alienation of interest in roadway giving access to that land][442]
 
-[326B][443][][443][Reasonable access may be granted in cases of landlocked Maori land][443]
+[Landlocked Maori land][443]
 
-[326C][444][][444][Conditions and other matters][444]
+[326A][444][][444][Meaning of certain terms][444]
 
-[326D][445][][445][Additional provisions relating to orders under sections 326B or 326C][445]
+[326B][445][][445][Reasonable access may be granted in cases of landlocked Maori land][445]
 
-[327][446][][446][Part 21 of Local Government Act 1974 modified in its application to Maori land][446] \[Repealed\]
+[326C][446][][446][Conditions and other matters][446]
 
-[Part 15][447]  
-[Occupation orders][447]
+[326D][447][][447][Additional provisions relating to orders under sections 326B or 326C][447]
 
-[328][448][][448][Occupation orders][448]
+[327][448][][448][Part 21 of Local Government Act 1974 modified in its application to Maori land][448] \[Repealed\]
 
-[329][449][][449][Matters to be considered][449]
+[Part 15][449]  
+[Occupation orders][449]
 
-[330][450][][450][Power to amend or cancel occupation order][450]
+[328][450][][450][Occupation orders][450]
 
-[330A][451][][451][Review of occupation orders][451]
+[329][451][][451][Matters to be considered][451]
 
-[331][452][][452][Regulations][452]
+[330][452][][452][Power to amend or cancel occupation order][452]
 
-[Part 16][453]  
-[Surveys of Maori land][453]
+[330A][453][][453][Review of occupation orders][453]
 
-[332][454][][454][Power to require surveys][454]
+[331][454][][454][Regulations][454]
 
-[333][455][][455][Power of court to make charging orders on land in respect of costs of survey][455]
+[Part 16][455]  
+[Surveys of Maori land][455]
 
-[334][456][][456][Interest on survey charges][456]
+[332][456][][456][Power to require surveys][456]
 
-[335][457][][457][Power of Minister of Lands to remit survey charges][457]
+[333][457][][457][Power of court to make charging orders on land in respect of costs of survey][457]
 
-[336][458][][458][Contribution from owners in respect of surveys][458]
+[334][458][][458][Interest on survey charges][458]
 
-[337][459][][459][Survey notices][459]
+[335][459][][459][Power of Minister of Lands to remit survey charges][459]
 
-[Part 17][460]  
-[Maori reservations][460]
+[336][460][][460][Contribution from owners in respect of surveys][460]
 
-[338][461][][461][Maori reservations for communal purposes][461]
+[337][461][][461][Survey notices][461]
 
-[338A][462][][462][Regulations relating to trustees of Maori reservations][462]
+[Part 17][462]  
+[Maori reservations][462]
 
-[339][463][][463][Court may consider proposal for Maori reservation on application of Minister][463]
+[338][463][][463][Maori reservations for communal purposes][463]
 
-[340][464][][464][Maori reservation may be held for common use and benefit of people of New Zealand][464]
+[338A][464][][464][Regulations relating to trustees of Maori reservations][464]
 
-[341][465][][465][Further provisions relating to Maori reservation for marae or meeting place][465]
+[339][465][][465][Court may consider proposal for Maori reservation on application of Minister][465]
 
-[Part 18][466]  
-[Miscellaneous provisions][466]
+[340][466][][466][Maori reservation may be held for common use and benefit of people of New Zealand][466]
 
-[342][467][][467][Protection of Maori land against execution for debt][467]
+[341][467][][467][Further provisions relating to Maori reservation for marae or meeting place][467]
 
-[343][468][][468][Maori land available in bankruptcy][468]
+[Part 18][468]  
+[Miscellaneous provisions][468]
 
-[344][469][][469][Co-owners of Maori land not bound by Limitation Act 2010 or other limitation enactments][469]
+[342][469][][469][Protection of Maori land against execution for debt][469]
 
-[345][470][][470][Presumptions as to Maori freehold land held by 2 or more owners][470]
+[343][470][][470][Maori land available in bankruptcy][470]
 
-[346][471][][471][Prevention of waste on Maori land][471]
+[344][471][][471][Co-owners of Maori land not bound by Limitation Act 2010 or other limitation enactments][471]
 
-[347][472][][472][Orders in Council and Proclamations affecting title to be registered][472]
+[345][472][][472][Presumptions as to Maori freehold land held by 2 or more owners][472]
 
-[Transitional and consequential provisions][473]
+[346][473][][473][Prevention of waste on Maori land][473]
 
-[348][474][][474][Savings of effect of Land Titles Protection Act 1908][474]
+[347][474][][474][Orders in Council and Proclamations affecting title to be registered][474]
 
-[349][475][][475][Declaratory Judgments Act 1908 not affected][475]
+[Transitional and consequential provisions][475]
 
-[350][476][][476][Trustees of persons under disability][476]
+[348][476][][476][Savings of effect of Land Titles Protection Act 1908][476]
 
-[351][477][][477][Periodic review of trusts constituted under section 438 of Maori Affairs Act 1953][477]
+[349][477][][477][Declaratory Judgments Act 1908 not affected][477]
 
-[352][478][][478][Representation of owners of Maori land][478]
+[350][478][][478][Trustees of persons under disability][478]
 
-[353][479][][479][Existing trusts of Maori land not affected][479]
+[351][479][][479][Periodic review of trusts constituted under section 438 of Maori Affairs Act 1953][479]
 
-[354][480][][480][Existing trusts to continue as ahu whenua trusts][480]
+[352][480][][480][Representation of owners of Maori land][480]
 
-[355][481][][481][Provision for completion of sales and subdivisions][481]
+[353][481][][481][Existing trusts of Maori land not affected][481]
 
-[356][482][][482][Part 9 not to apply to Maori reserves][482]
+[354][482][][482][Existing trusts to continue as ahu whenua trusts][482]
 
-[357][483][][483][Maori incorporations in existence at commencement of Act][483]
+[355][483][][483][Provision for completion of sales and subdivisions][483]
 
-[358][484][][484][Land acquired by Maori incorporation before commencement of Act][484]
+[356][484][][484][Part 9 not to apply to Maori reserves][484]
 
-[358A][485][][485][Transitional provisions in relation to objects of Maori incorporations][485]
+[357][485][][485][Maori incorporations in existence at commencement of Act][485]
 
-[359][486][][486][Provisions of certain enactments not affected by this Act][486]
+[358][486][][486][Land acquired by Maori incorporation before commencement of Act][486]
 
-[360][487][][487][Application of Limitation Act 1950 to Maori customary land][487] \[Repealed\]
+[358A][487][][487][Transitional provisions in relation to objects of Maori incorporations][487]
 
-[361][488][][488][Limitation of actions in relation to Maori customary land][488] \[Repealed\]
+[359][488][][488][Provisions of certain enactments not affected by this Act][488]
 
-[362][489][][489][Amendments and repeals][489]
+[360][489][][489][Application of Limitation Act 1950 to Maori customary land][489] \[Repealed\]
 
-[Schedule 1][490]  
-[Enactments amended][490]
+[361][490][][490][Limitation of actions in relation to Maori customary land][490] \[Repealed\]
 
-[Schedule 2][491]  
-[Enactments repealed][491]
+[362][491][][491][Amendments and repeals][491]
+
+[Schedule 1][492]  
+[Enactments amended][492]
+
+[Schedule 2][493]  
+[Enactments repealed][493]
 
 ---
 
@@ -1032,15 +1036,15 @@ An Act to reform the laws relating to Maori land in accordance with the principl
     
 *   #### Preamble
     
-    Nā te mea i riro nā [te Tiriti o Waitangi][492] i motuhake ai te noho a te iwi me te Karauna: ā, nā te mea e tika ana kia whakaūtia anō te wairua o te wā i riro atu ai te kāwanatanga kia riro mai ai te mau tonu o te rangatiratanga e takoto nei i roto i [te Tiriti o Waitangi][492]: ā, nā te mea e tika ana kia mārama ko te whenua he taonga tuku iho e tino whakaaro nuitia ana e te iwi Māori, ā, nā tērā he whakahau kia mau tonu taua whenua ki te iwi nōna, ki ō rātou whānau, hapū hoki, a, a ki te whakangungu i ngā wāhi tapu hei whakamāmā i te nohotanga, i te whakahaeretanga, i te whakamahitanga o taua whenua hei painga mō te hunga nōna, mō ō rātou whānau, hapū hoki: ā, nā te mea e tika ana kia tū tonu he Te Kooti, ā, kia whakatakototia he tikanga hei āwhina i te iwi Māori kia taea ai ēnei kaupapa te whakatinana.
+    Nā te mea i riro nā [te Tiriti o Waitangi][494] i motuhake ai te noho a te iwi me te Karauna: ā, nā te mea e tika ana kia whakaūtia anō te wairua o te wā i riro atu ai te kāwanatanga kia riro mai ai te mau tonu o te rangatiratanga e takoto nei i roto i [te Tiriti o Waitangi][494]: ā, nā te mea e tika ana kia mārama ko te whenua he taonga tuku iho e tino whakaaro nuitia ana e te iwi Māori, ā, nā tērā he whakahau kia mau tonu taua whenua ki te iwi nōna, ki ō rātou whānau, hapū hoki, a, a ki te whakangungu i ngā wāhi tapu hei whakamāmā i te nohotanga, i te whakahaeretanga, i te whakamahitanga o taua whenua hei painga mō te hunga nōna, mō ō rātou whānau, hapū hoki: ā, nā te mea e tika ana kia tū tonu he Te Kooti, ā, kia whakatakototia he tikanga hei āwhina i te iwi Māori kia taea ai ēnei kaupapa te whakatinana.
     
-    Whereas the [Treaty of Waitangi][492] established the special relationship between the Maori people and the Crown: And whereas it is desirable that the spirit of the exchange of kawanatanga for the protection of rangatiratanga embodied in the [Treaty of Waitangi][492] be reaffirmed: And whereas it is desirable to recognise that land is a taonga tuku iho of special significance to Maori people and, for that reason, to promote the retention of that land in the hands of its owners, their whanau, and their hapu, and to protect wahi tapu: and to facilitate the occupation, development, and utilisation of that land for the benefit of its owners, their whanau, and their hapu: And whereas it is desirable to maintain a court and to establish mechanisms to assist the Maori people to achieve the implementation of these principles.
+    Whereas the [Treaty of Waitangi][494] established the special relationship between the Maori people and the Crown: And whereas it is desirable that the spirit of the exchange of kawanatanga for the protection of rangatiratanga embodied in the [Treaty of Waitangi][494] be reaffirmed: And whereas it is desirable to recognise that land is a taonga tuku iho of special significance to Maori people and, for that reason, to promote the retention of that land in the hands of its owners, their whanau, and their hapu, and to protect wahi tapu: and to facilitate the occupation, development, and utilisation of that land for the benefit of its owners, their whanau, and their hapu: And whereas it is desirable to maintain a court and to establish mechanisms to assist the Maori people to achieve the implementation of these principles.
     
-    Preamble: amended, on 1 July 2002, by [section 3(1)(a)][493] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Preamble: amended, on 1 July 2002, by [section 3(1)(a)][495] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Preamble: amended, on 1 July 2002, by [section 3(1)(b)][493] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Preamble: amended, on 1 July 2002, by [section 3(1)(b)][495] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Preamble: amended, on 1 July 2002, by [section 3(2)][493] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Preamble: amended, on 1 July 2002, by [section 3(2)][495] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 1 Short Title and commencement
     
@@ -1060,13 +1064,13 @@ An Act to reform the laws relating to Maori land in accordance with the principl
     
     (3) In the event of any conflict in meaning between the Maori and the English versions of the [Preamble][2], the Maori version shall prevail.
     
-    Section 2(2): amended, on 1 July 2002, by [section 4][494] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 2(2): amended, on 1 July 2002, by [section 4][496] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 3 Interpretation of Maori terms
     
 *   \[Repealed\]
     
-    Section 3: repealed, on 1 July 2002, by [section 58(a)][495] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 3: repealed, on 1 July 2002, by [section 58(a)][497] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 4 Interpretation
     
@@ -1088,7 +1092,7 @@ An Act to reform the laws relating to Maori land in accordance with the principl
         
         *   (v) a deed of family arrangement relating to succession to Maori land or any interest in Maori land on the death of an owner; and
         
-        *   (vi) an agreement to the taking under the [Public Works Act 1981][496] of Maori land or any interest in Maori land; and
+        *   (vi) an agreement to the taking under the [Public Works Act 1981][498] of Maori land or any interest in Maori land; and
         
         *   (vii) the granting, renewal, variation, transfer, assignment, or mortgage of a forestry right over Maori land; and
         
@@ -1114,6 +1118,10 @@ An Act to reform the laws relating to Maori land in accordance with the principl
         
         
     
+    _applicable auditing and assurance standard_ has the same meaning as in [section 5][499] of the Financial Reporting Act 2013
+    
+    _applicable financial reporting standard_ has the same meaning as in [section 5][499] of the Financial Reporting Act 2013
+    
     _beneficial estate_ or _beneficial interest_ does not include an estate or interest vested in any person by way of trust, mortgage, or charge
     
     _block_, in relation to any Maori freehold land, means the whole parcel of land comprised and described in an instrument of title
@@ -1124,19 +1132,23 @@ An Act to reform the laws relating to Maori land in accordance with the principl
     
     _Chief Surveyor_ has the meaning given to that term by section 2 of the Survey Act 1986
     
-    _common marine and coastal area_ has the meaning given in [section 9(1)][497] of the Marine and Coastal Area (Takutai Moana) Act 2011
+    _common marine and coastal area_ has the meaning given in [section 9(1)][500] of the Marine and Coastal Area (Takutai Moana) Act 2011
     
     _court_ means, as the case may require, the Maori Land Court or the Maori Appellate Court or both
     
     _Crown land_ means land that, in terms of [Part 6][209], has the status of Crown land
     
-    _District Land Registrar_ means the District Land Registrar of the land registration district under the [Land Transfer Act 1952][498] within which any land to be dealt with or affected is situated
+    _District Land Registrar_ means the District Land Registrar of the land registration district under the [Land Transfer Act 1952][501] within which any land to be dealt with or affected is situated
     
-    _forestry right_ has the same meaning as in [section 2][499] of the Forestry Rights Registration Act 1983
+    _financial statements_ has the same meaning as in [section 6][502] of the Financial Reporting Act 2013
+    
+    _forestry right_ has the same meaning as in [section 2][503] of the Forestry Rights Registration Act 1983
     
     _General land_ means land that, in terms of [Part 6][209], has the status of General land
     
     _General land owned by Maori_ means General land that is owned for a beneficial estate in fee simple by a Maori or by a group of persons of whom a majority are Maori
+    
+    _generally accepted accounting practice_ has the same meaning as in [section 8][504] of the Financial Reporting Act 2013
     
     _Judge_ means a Judge of the Maori Land Court; and includes the Chief Judge and the Deputy Chief Judge
     
@@ -1172,15 +1184,17 @@ An Act to reform the laws relating to Maori land in accordance with the principl
     
     _Maori land_ means Maori customary land and Maori freehold land
     
-    _Maori reserve_ means any lands that are for the time being vested in the Māori Trustee as or for the purposes of a Maori reserve; and, in particular, includes all lands that are for the time being subject to the provisions of the [Maori Reserved Land Act 1955][500]
+    _Maori reserve_ means any lands that are for the time being vested in the Māori Trustee as or for the purposes of a Maori reserve; and, in particular, includes all lands that are for the time being subject to the provisions of the [Maori Reserved Land Act 1955][505]
     
-    _Māori Trustee_ means the Māori Trustee appointed under the [Maori Trustee Act 1953][501]
+    _Māori Trustee_ means the Māori Trustee appointed under the [Maori Trustee Act 1953][506]
     
     _Minister_ means the Minister of Maori Affairs
     
     _Ministry_ means Te Puni Kōkiri
     
-    _occupation order_ means an order made under [section 328][448]
+    _non-GAAP standard_ has the same meaning as in [section 5][499] of the Financial Reporting Act 2013
+    
+    _occupation order_ means an order made under [section 328][450]
     
     _order_, in relation to the court,---
         
@@ -1230,7 +1244,9 @@ An Act to reform the laws relating to Maori land in accordance with the principl
     
     _Registrar_ means a Registrar of the Maori Land Court; and includes the Chief Registrar and a Deputy Registrar
     
-    _road_ has the same meaning as in [section 315][502] of the Local Government Act 1974
+    _road_ has the same meaning as in [section 315][507] of the Local Government Act 1974
+    
+    _specified not-for-profit entity_ has the same meaning as in [section 46][508] of the Financial Reporting Act 2013
     
     _State Loan Department_ means---
         
@@ -1240,17 +1256,17 @@ An Act to reform the laws relating to Maori land in accordance with the principl
     
     *   (c) the Māori Trustee
     
-    _subdivision consent_ has the same meaning as in [section 2(1)][503] of the Resource Management Act 1991 and includes a certificate of compliance as defined in that Act
+    _subdivision consent_ has the same meaning as in [section 2(1)][509] of the Resource Management Act 1991 and includes a certificate of compliance as defined in that Act
     
     _Surveyor-General_ has the meaning given to that term by section 2 of the Survey Act 1986
     
-    _territorial authority_ means a territorial authority within the meaning of the [Local Government Act 2002][504]
+    _territorial authority_ means a territorial authority within the meaning of the [Local Government Act 2002][510]
     
     _tikanga Maori_ means Maori customary values and practices
     
     _tipuna_ means ancestor
     
-    _wahi tapu_ means land set apart under [section 338(1)(b)][461]
+    _wahi tapu_ means land set apart under [section 338(1)(b)][463]
     
     _whanaunga_ means a person related by blood
     
@@ -1258,61 +1274,73 @@ An Act to reform the laws relating to Maori land in accordance with the principl
     
     _will_ includes any testamentary instrument.
     
-    Compare: 1953 No 94 ss 2(1), 432(15); 1967 No 124 ss 25, 132, 133(1); 1974 No 3 s 50; 1974 No 19 [s 50(1)][505]; 1974 No 73 ss 2, 5; 1978 No 43 [s 3(4)][506]; 1991 No 69 [s 362][507]
+    Compare: 1953 No 94 ss 2(1), 432(15); 1967 No 124 ss 25, 132, 133(1); 1974 No 3 s 50; 1974 No 19 [s 50(1)][511]; 1974 No 73 ss 2, 5; 1978 No 43 [s 3(4)][512]; 1991 No 69 [s 362][513]
     
-    Section 4 heading: amended, on 1 July 2002, by [section 5(4)][508] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 4 heading: amended, on 1 July 2002, by [section 5(4)][514] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 4 **ahi ka**: inserted, on 1 July 2002, by [section 5(1)][508] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 4 **ahi ka**: inserted, on 1 July 2002, by [section 5(1)][514] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 4 **alienation** paragraph (a)(vii): added, on 1 July 2002, by [section 5(2)][508] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 4 **alienation** paragraph (a)(vii): added, on 1 July 2002, by [section 5(2)][514] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 4 **alienation** paragraph (b): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 4 **alienation** paragraph (b): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 4 **alienation** paragraph (c)(iv): amended, on 11 April 2001, by [section 3(1)][510] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
+    Section 4 **alienation** paragraph (c)(iv): amended, on 11 April 2001, by [section 3(1)][516] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
     
-    Section 4 **common marine and coastal area**: inserted, on 1 April 2011, by [section 128][511] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
+    Section 4 **applicable auditing and assurance standard**: inserted, on 1 April 2014, by [section 119][517] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 4 **forestry right**: inserted, on 1 July 2002, by [section 5(1)][508] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 4 **applicable financial reporting standard**: inserted, on 1 April 2014, by [section 119][517] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 4 **General land owned by Maori**: amended, on 1 July 2002, by [section 5(3)][508] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 4 **common marine and coastal area**: inserted, on 1 April 2011, by [section 128][518] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
-    Section 4 **kaitiaki**: inserted, on 1 July 2002, by [section 5(1)][508] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 4 **financial statements**: inserted, on 1 April 2014, by [section 119][517] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 4 **land**: substituted, on 25 November 2004, by [section 103(1)][512] of the Foreshore and Seabed Act 2004 (2004 No 93).
+    Section 4 **forestry right**: inserted, on 1 July 2002, by [section 5(1)][514] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 4 **land** paragraph (b): amended, on 1 April 2011, by [section 128][511] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
+    Section 4 **General land owned by Maori**: amended, on 1 July 2002, by [section 5(3)][514] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 4 **long-term lease**: inserted, on 1 July 2002, by [section 5(1)][508] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 4 **generally accepted accounting practice**: inserted, on 1 April 2014, by [section 119][517] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 4 **Maori reserve**: amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 4 **kaitiaki**: inserted, on 1 July 2002, by [section 5(1)][514] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 4 **Māori Trustee**: substituted, on 1 July 2009, by [section 30(1)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 4 **land**: substituted, on 25 November 2004, by [section 103(1)][519] of the Foreshore and Seabed Act 2004 (2004 No 93).
     
-    Section 4 **order**: substituted, on 11 April 2001, by [section 3(2)][510] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
+    Section 4 **land** paragraph (b): amended, on 1 April 2011, by [section 128][518] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
-    Section 4 **order** paragraph (a)(iv): added, on 26 September 2004, by [section 5(1)][513] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
+    Section 4 **long-term lease**: inserted, on 1 July 2002, by [section 5(1)][514] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 4 **order** paragraph (a)(iv): amended, on 1 January 2005, by [section 5(1)][514] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
+    Section 4 **Maori reserve**: amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 4 **Registrar**: amended, on 25 November 2004, by [section 103(1)][512] of the Foreshore and Seabed Act 2004 (2004 No 93).
+    Section 4 **Māori Trustee**: substituted, on 1 July 2009, by [section 30(1)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 4 **State Loan Department** paragraph (a): substituted, on 1 March 2002, by [section 170(1)][515] of the Public Trust Act 2001 (2001 No 100).
+    Section 4 **non-GAAP standard**: inserted, on 1 April 2014, by [section 119][517] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 4 **State Loan Department** paragraph (b): amended, on 1 July 2001, by [section 24(1)][516] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+    Section 4 **order**: substituted, on 11 April 2001, by [section 3(2)][516] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
     
-    Section 4 **State Loan Department** paragraph (c): amended, on 1 July 2009, pursuant to [section 30(2)(b)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 4 **order** paragraph (a)(iv): added, on 26 September 2004, by [section 5(1)][520] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
     
-    Section 4 **territorial authority**: substituted, on 1 July 2003, by [section 262][517] of the Local Government Act 2002 (2002 No 84).
+    Section 4 **order** paragraph (a)(iv): amended, on 1 January 2005, by [section 5(1)][521] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
     
-    Section 4 **tikanga Maori**: inserted, on 1 July 2002, by [section 5(1)][508] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 4 **Registrar**: amended, on 25 November 2004, by [section 103(1)][519] of the Foreshore and Seabed Act 2004 (2004 No 93).
     
-    Section 4 **tipuna**: inserted, on 1 July 2002, by [section 5(1)][508] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 4 **specified not-for-profit entity**: inserted, on 1 April 2014, by [section 119][517] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 4 **wahi tapu**: inserted, on 1 July 2002, by [section 5(1)][508] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 4 **State Loan Department** paragraph (a): substituted, on 1 March 2002, by [section 170(1)][522] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 4 **whanaunga**: inserted, on 1 July 2002, by [section 5(1)][508] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 4 **State Loan Department** paragraph (b): amended, on 1 July 2001, by [section 24(1)][523] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
-    Section 4 **whangai**: inserted, on 1 July 2002, by [section 5(1)][508] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 4 **State Loan Department** paragraph (c): amended, on 1 July 2009, pursuant to [section 30(2)(b)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    
+    Section 4 **territorial authority**: substituted, on 1 July 2003, by [section 262][524] of the Local Government Act 2002 (2002 No 84).
+    
+    Section 4 **tikanga Maori**: inserted, on 1 July 2002, by [section 5(1)][514] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    
+    Section 4 **tipuna**: inserted, on 1 July 2002, by [section 5(1)][514] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    
+    Section 4 **wahi tapu**: inserted, on 1 July 2002, by [section 5(1)][514] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    
+    Section 4 **whanaunga**: inserted, on 1 July 2002, by [section 5(1)][514] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    
+    Section 4 **whangai**: inserted, on 1 July 2002, by [section 5(1)][514] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 5 Act to bind the Crown
     
@@ -1345,7 +1373,7 @@ The Maori Land Court
     
     *   (c) the aggregate number (for example, 7.5) must not exceed the maximum number of Judges that is for the time being permitted.
     
-    (2A) A person must not be appointed a Judge unless the person is suitable, having regard to the person's knowledge and experience of te reo Maori, tikanga Maori, and the [Treaty of Waitangi][492].
+    (2A) A person must not be appointed a Judge unless the person is suitable, having regard to the person's knowledge and experience of te reo Maori, tikanga Maori, and the [Treaty of Waitangi][494].
     
     (3) No person shall be appointed a Judge unless that person has held a practising certificate as a barrister or solicitor for at least 7 years.
     
@@ -1359,17 +1387,17 @@ The Maori Land Court
     
     Compare: 1953 No 94 s 16; 1974 No 73 s 43(1)
     
-    Section 7(2): substituted, on 25 November 2004, by [section 103(1)][512] of the Foreshore and Seabed Act 2004 (2004 No 93).
+    Section 7(2): substituted, on 25 November 2004, by [section 103(1)][519] of the Foreshore and Seabed Act 2004 (2004 No 93).
     
-    Section 7(2): amended, on 13 December 2006, by [section 4][518] of Te Ture Whenua Maori Amendment Act 2006 (2006 No 76).
+    Section 7(2): amended, on 13 December 2006, by [section 4][525] of Te Ture Whenua Maori Amendment Act 2006 (2006 No 76).
     
-    Section 7(2AA): inserted, on 20 May 2004, by [section 3(1)][519] of Te Ture Whenua Maori Amendment Act 2004 (2004 No 48).
+    Section 7(2AA): inserted, on 20 May 2004, by [section 3(1)][526] of Te Ture Whenua Maori Amendment Act 2004 (2004 No 48).
     
-    Section 7(2A): inserted, on 1 July 2002, by [section 6][520] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 7(2A): inserted, on 1 July 2002, by [section 6][527] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 7(4): amended, on 6 March 2007, by [section 4][521] of Te Ture Whenua Maori Amendment Act 2007 (2007 No 4).
+    Section 7(4): amended, on 6 March 2007, by [section 4][528] of Te Ture Whenua Maori Amendment Act 2007 (2007 No 4).
     
-    Section 7(6): substituted, on 20 May 2004, by [section 3(2)][519] of Te Ture Whenua Maori Amendment Act 2004 (2004 No 48).
+    Section 7(6): substituted, on 20 May 2004, by [section 3(2)][526] of Te Ture Whenua Maori Amendment Act 2004 (2004 No 48).
 
 ##### 7A Judges act on full-time basis but may be authorised to act part-time
     
@@ -1391,7 +1419,7 @@ The Maori Land Court
     
     (7) The basis on which a Judge acts must not be altered during the term of the Judge's appointment without the Judge's consent, but consent under this subsection is not necessary if the alteration is required by subsection (6).
     
-    Section 7A: inserted, on 20 May 2004, by [section 4][522] of Te Ture Whenua Maori Amendment Act 2004 (2004 No 48).
+    Section 7A: inserted, on 20 May 2004, by [section 4][529] of Te Ture Whenua Maori Amendment Act 2004 (2004 No 48).
 
 ##### 8 Chief Judge and deputy
     
@@ -1427,7 +1455,7 @@ The Maori Land Court
     
     (5) Powers exercised, functions performed, or decisions made by the Deputy Chief Judge acting as the Chief Judge may not be questioned in any proceeding on the ground that the occasion for the Deputy Chief Judge so acting had not arisen or had ceased.
     
-    Section 8A: inserted, on 13 December 2006, by [section 5][523] of Te Ture Whenua Maori Amendment Act 2006 (2006 No 76).
+    Section 8A: inserted, on 13 December 2006, by [section 5][530] of Te Ture Whenua Maori Amendment Act 2006 (2006 No 76).
 
 ##### 9 Appointment of temporary Judges
     
@@ -1447,9 +1475,9 @@ The Maori Land Court
     
     (8) A person appointed under this section is to be paid, during the term of the appointment, the salary and allowances payable under [section 13][20] to a Judge other than the Chief Judge and the Deputy Chief Judge.
     
-    Section 9: substituted, on 25 November 2004, by [section 103(1)][512] of the Foreshore and Seabed Act 2004 (2004 No 93).
+    Section 9: substituted, on 25 November 2004, by [section 103(1)][519] of the Foreshore and Seabed Act 2004 (2004 No 93).
     
-    Section 9(5): amended, on 6 March 2007, by [section 5][524] of Te Ture Whenua Maori Amendment Act 2007 (2007 No 4).
+    Section 9(5): amended, on 6 March 2007, by [section 5][531] of Te Ture Whenua Maori Amendment Act 2007 (2007 No 4).
 
 ##### 10 Former Judges
     
@@ -1461,13 +1489,13 @@ The Maori Land Court
     
     (4) Every former Judge appointed under this section shall, during each period when the former Judge acts as a Judge, have all the jurisdiction, powers, protections, privileges, and immunities of a Judge.
     
-    Compare: 1908 No 89 [s 11A][525]; 1981 No 40 [s 2(1)][526]
+    Compare: 1908 No 89 [s 11A][532]; 1981 No 40 [s 2(1)][533]
 
 ##### 11 Certificate by Chief Judge and 1 other Judge prerequisite
     
 *   No appointment may be made under [section 9][15] or [section 10][16] otherwise than on a certificate signed by the Chief Judge and at least 1 other permanent Judge to the effect that, in their opinion, it is necessary for the due conduct of the business of the court that 1 or more temporary Judges, or (as the case may require) 1 or more acting Judges, be appointed.
     
-    Compare: 1908 No 89 [s 11B][527]; 1981 No 40 [s 2(1)][526]
+    Compare: 1908 No 89 [s 11B][534]; 1981 No 40 [s 2(1)][533]
 
 ##### 12 Tenure of office
     
@@ -1475,15 +1503,15 @@ The Maori Land Court
     
     (2) Every Judge shall retire from office on attaining the age of 70 years.
     
-    Compare: 1953 No 94 s 19; 1982 No 124 [s 5(2)][528]
+    Compare: 1953 No 94 s 19; 1982 No 124 [s 5(2)][535]
     
-    Section 12(2): amended, on 6 March 2007, by [section 6][529] of Te Ture Whenua Maori Amendment Act 2007 (2007 No 4).
+    Section 12(2): amended, on 6 March 2007, by [section 6][536] of Te Ture Whenua Maori Amendment Act 2007 (2007 No 4).
 
 ##### 12A Judges to have immunities of High Court Judges
     
 *   The Judges have all the immunities of a Judge of the High Court.
     
-    Section 12A: inserted, on 20 May 2004, by [section 5][530] of Te Ture Whenua Maori Amendment Act 2004 (2004 No 48).
+    Section 12A: inserted, on 20 May 2004, by [section 5][537] of Te Ture Whenua Maori Amendment Act 2004 (2004 No 48).
 
 ##### 13 Salaries and allowances of Judges
     
@@ -1501,21 +1529,21 @@ The Maori Land Court
     
     (2B) For the purpose of subsection (2), the payment of salary and allowances on a pro-rata basis under subsection (2A) is not a diminution of salary.
     
-    (3) Subject to the [Remuneration Authority Act 1977][531], any determination made under subsection (1), and any provision of any such determination, may be made so as to come into force on a date to be specified in that behalf in the determination, being the date of the making of the determination or any other date, whether before or after the date of the making of the determination or the date of the commencement of this section.
+    (3) Subject to the [Remuneration Authority Act 1977][538], any determination made under subsection (1), and any provision of any such determination, may be made so as to come into force on a date to be specified in that behalf in the determination, being the date of the making of the determination or any other date, whether before or after the date of the making of the determination or the date of the commencement of this section.
     
     (4) Every such determination, and every provision of any such determination, in respect of which no date is so specified shall come into force on the date of the making of the determination.
     
     Compare: 1953 No 94 s 21; 1985 No 139 s 2
     
-    Section 13(1)(a): amended, on 1 April 2003, by [section 4(1)][532] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
+    Section 13(1)(a): amended, on 1 April 2003, by [section 4(1)][539] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
     
-    Section 13(1)(b): amended, on 1 April 2003, by [section 4(1)][532] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
+    Section 13(1)(b): amended, on 1 April 2003, by [section 4(1)][539] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
     
-    Section 13(2A): inserted, on 20 May 2004, by [section 6][533] of Te Ture Whenua Maori Amendment Act 2004 (2004 No 48).
+    Section 13(2A): inserted, on 20 May 2004, by [section 6][540] of Te Ture Whenua Maori Amendment Act 2004 (2004 No 48).
     
-    Section 13(2B): inserted, on 20 May 2004, by [section 6][533] of Te Ture Whenua Maori Amendment Act 2004 (2004 No 48).
+    Section 13(2B): inserted, on 20 May 2004, by [section 6][540] of Te Ture Whenua Maori Amendment Act 2004 (2004 No 48).
     
-    Section 13(3): amended, on 1 April 2003, by [section 4(1)][532] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
+    Section 13(3): amended, on 1 April 2003, by [section 4(1)][539] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
 
 ##### 14 Administration of court
     
@@ -1523,7 +1551,7 @@ The Maori Land Court
     
     Compare: 1953 No 94 s 22
     
-    Section 14: amended, on 1 October 2003, pursuant to [section 14(1)][534] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 14: amended, on 1 October 2003, pursuant to [section 14(1)][541] of the State Sector Amendment Act 2003 (2003 No 41).
 
 ##### 15 Court districts
     
@@ -1591,7 +1619,7 @@ The Maori Land Court
     
     *   (f) to determine for the purposes of this Act whether any person is a member of any of the preferred classes of alienees specified in [section 4][6]:
     
-    *   (g) to determine whether any land or interest in land to which [section 8A][535] or [section 8HB][536] of the Treaty of Waitangi Act 1975 applies should, under [section 338][461] of this Act, be set aside as a reservation:
+    *   (g) to determine whether any land or interest in land to which [section 8A][542] or [section 8HB][543] of the Treaty of Waitangi Act 1975 applies should, under [section 338][463] of this Act, be set aside as a reservation:
     
     *   (h) to determine for the purposes of any proceedings in the court or for any other purpose whether any specified land is or is not Maori customary land or Maori freehold land or General land owned by Maori or General land or Crown land:
     
@@ -1599,7 +1627,7 @@ The Maori Land Court
     
     (2) Any proceedings commenced in the Maori Land Court may, if the Judge thinks fit, be removed for hearing into any other court of competent jurisdiction.
     
-    Compare: 1953 No 94 s 30(1), (3); 1956 No 61 [s 89(1)][537]; 1960 No 120 [s 5][538]; 1962 No 45 s 2; 1974 No 73 s 47; 1976 No 148 [s 5][539]
+    Compare: 1953 No 94 s 30(1), (3); 1956 No 61 [s 89(1)][544]; 1960 No 120 [s 5][545]; 1962 No 45 s 2; 1974 No 73 s 47; 1976 No 148 [s 5][546]
 
 ##### 19 Jurisdiction in respect of injunctions
     
@@ -1613,21 +1641,21 @@ The Maori Land Court
     
     *   (d) prohibiting the distribution, by any trustee or agent, of rent, purchase money, royalties, or other proceeds of the alienation of land, or of any compensation payable in respect of other revenue derived from the land, affected by any order to which an application under [section 45][99] or an appeal under [Part 2][107] relates.
     
-    (2) Notwithstanding anything in the [Crown Proceedings Act 1950][540], any injunction made by the court under this section may be expressed to be binding on the Māori Trustee.
+    (2) Notwithstanding anything in the [Crown Proceedings Act 1950][547], any injunction made by the court under this section may be expressed to be binding on the Māori Trustee.
     
     (3) Any injunction made by the court under this section may be expressed to be of interim effect only.
     
     (4) Every injunction made by the court under this section that is not expressed to be of interim effect only shall be of final effect.
     
-    Compare: 1953 No 94 ss 30(1)(d), (f), 449, 452(14); 1961 No 129 [s 10][541]; 1974 No 73 s 62; 1982 No 124 [s 6(3)][542]
+    Compare: 1953 No 94 ss 30(1)(d), (f), 449, 452(14); 1961 No 129 [s 10][548]; 1974 No 73 s 62; 1982 No 124 [s 6(3)][549]
     
-    Section 19(1)(a): amended, on 1 July 2002, by [section 7][543] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 19(1)(a): amended, on 1 July 2002, by [section 7][550] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 19(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 19(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 20 Jurisdiction in actions for recovery of land
     
-*   Notwithstanding anything to the contrary in the [District Courts Act 1947][544], the court shall have jurisdiction to hear and determine any proceeding for the recovery of Maori freehold land in the following cases:
+*   Notwithstanding anything to the contrary in the [District Courts Act 1947][551], the court shall have jurisdiction to hear and determine any proceeding for the recovery of Maori freehold land in the following cases:
         
     *   (a) where---
             
@@ -1647,51 +1675,51 @@ The Maori Land Court
 
 ##### 21 Power of court to grant relief against forfeiture
     
-*   The court may exercise with respect to Maori freehold land all of the powers conferred on the High Court by [sections 253 to 260][545] of the Property Law Act 2007\.
+*   The court may exercise with respect to Maori freehold land all of the powers conferred on the High Court by [sections 253 to 260][552] of the Property Law Act 2007\.
     
-    Section 21: amended, on 1 January 2008, by [section 364(1)][546] of the Property Law Act 2007 (2007 No 91).
+    Section 21: amended, on 1 January 2008, by [section 364(1)][553] of the Property Law Act 2007 (2007 No 91).
 
 ##### 22 Power of court to grant relief against refusal to grant renewal
     
-*   The court may exercise with respect to Maori freehold land all of the powers conferred on the High Court by [section 264][547] of the Property Law Act 2007\.
+*   The court may exercise with respect to Maori freehold land all of the powers conferred on the High Court by [section 264][554] of the Property Law Act 2007\.
     
-    Section 22: amended, on 1 January 2008, by [section 364(1)][546] of the Property Law Act 2007 (2007 No 91).
+    Section 22: amended, on 1 January 2008, by [section 364(1)][553] of the Property Law Act 2007 (2007 No 91).
 
 ##### 22A Power of court to grant specific performance of leases of Maori freehold land
     
 *   The court has the same jurisdiction as that of the High Court to grant and enforce specific performance or to award damages in addition to, or in substitution for, specific performance, in respect of leases of Maori freehold land or leases of General land owned by Maori that ceased to be Maori land under Part 1 of the Maori Affairs Amendment Act 1967\.
     
-    Section 22A: inserted, on 1 July 2002, by [section 8][548] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 22A: inserted, on 1 July 2002, by [section 8][555] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 23 Power of court to authorise entry for erecting or repairing buildings, etc
     
-*   The court may exercise with respect to Maori freehold land all of the powers conferred on a court by [subpart 1][549] of Part 6 of the Property Law Act 2007\.
+*   The court may exercise with respect to Maori freehold land all of the powers conferred on a court by [subpart 1][556] of Part 6 of the Property Law Act 2007\.
     
-    Section 23: amended, on 1 January 2008, by [section 364(1)][546] of the Property Law Act 2007 (2007 No 91).
+    Section 23: amended, on 1 January 2008, by [section 364(1)][553] of the Property Law Act 2007 (2007 No 91).
 
 ##### 24 Power of court to grant relief if building is on wrong land or encroachment exists
     
-*   The court may exercise with respect to Māori freehold land all of the powers conferred on a court by [subpart 2][550] of Part 6 of the Property Law Act 2007\.
+*   The court may exercise with respect to Māori freehold land all of the powers conferred on a court by [subpart 2][557] of Part 6 of the Property Law Act 2007\.
     
-    Section 24: substituted, on 1 January 2008, by [section 364(1)][546] of the Property Law Act 2007 (2007 No 91).
+    Section 24: substituted, on 1 January 2008, by [section 364(1)][553] of the Property Law Act 2007 (2007 No 91).
 
 ##### 24A Powers of court under Contracts (Privity) Act 1982 and Contractual Remedies Act 1979
     
 *   (1) Subject to subsection (2), the court may exercise any power conferred on the High Court---
         
-    *   (a) by the [Contracts (Privity) Act 1982][551]; or
+    *   (a) by the [Contracts (Privity) Act 1982][558]; or
     
-    *   (b) by any of the provisions of [sections 4][552], [7(6), 7(7)][553], and [9][554] of the Contractual Remedies Act 1979\.
+    *   (b) by any of the provisions of [sections 4][559], [7(6), 7(7)][560], and [9][561] of the Contractual Remedies Act 1979\.
     
-    (2) A power conferred on the court by subsection (1) may be exercised only if the occasion for the exercise of that power arises in the course of proceedings (other than an application made for the purposes of [section 7(1)][555] of the Contracts (Privity) Act 1982 or [section 7(6)][553] or [section 9][554] of the Contractual Remedies Act 1979) properly before the court under [section 18(1)(d)][26] of this Act.
+    (2) A power conferred on the court by subsection (1) may be exercised only if the occasion for the exercise of that power arises in the course of proceedings (other than an application made for the purposes of [section 7(1)][562] of the Contracts (Privity) Act 1982 or [section 7(6)][560] or [section 9][561] of the Contractual Remedies Act 1979) properly before the court under [section 18(1)(d)][26] of this Act.
     
-    Section 24A: inserted, on 11 April 2001, by [section 4][556] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
+    Section 24A: inserted, on 11 April 2001, by [section 4][563] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
 
 ##### 24B Power to award interest on debt or damages
     
-*   The court, in its proceedings, has the same powers to award interest on any debt or damages as the District Court has under [section 62B][557] of the District Courts Act 1947 in its own proceedings.
+*   The court, in its proceedings, has the same powers to award interest on any debt or damages as the District Court has under [section 62B][564] of the District Courts Act 1947 in its own proceedings.
     
-    Section 24B: inserted, on 16 September 2011, by [section 4][558] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
+    Section 24B: inserted, on 16 September 2011, by [section 4][565] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
 
 ##### 25 Power of court to make order to restore effect of lost instruments of alienation
     
@@ -1713,75 +1741,75 @@ The Maori Land Court
     
     Compare: 1953 No 94 s 446
     
-    Section 25(1)(b): amended, on 1 July 2002, by [section 9(a)][559] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 25(1)(b): amended, on 1 July 2002, by [section 9(a)][566] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 25(1)(c): repealed, on 1 July 2002, by [section 9(b)][559] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 25(1)(c): repealed, on 1 July 2002, by [section 9(b)][566] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 25(3): substituted, on 11 April 2001, by [section 5][560] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
+    Section 25(3): substituted, on 11 April 2001, by [section 5][567] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
 
 ##### 26 Jurisdiction of court under Fencing Act 1978
     
-*   (1) Notwithstanding anything to the contrary in the [Fencing Act 1978][561], the court shall have exclusive jurisdiction to hear and determine all claims, disputes, and questions arising under that Act where every parcel of land to which the claim, dispute, or question relates is Maori freehold land or General land owned by Maori.
+*   (1) Notwithstanding anything to the contrary in the [Fencing Act 1978][568], the court shall have exclusive jurisdiction to hear and determine all claims, disputes, and questions arising under that Act where every parcel of land to which the claim, dispute, or question relates is Maori freehold land or General land owned by Maori.
     
     (2) In addition to the exclusive jurisdiction conferred on the court by subsection (1), the court shall have jurisdiction, concurrent with that of any other court of competent jurisdiction, to hear and determine any claim, dispute, or question arising under that Act where any parcel of land to which the claim, dispute, or question relates is Maori freehold land or General land owned by Maori.
     
-    (3) In the exercise of its jurisdiction under this section, the court may make an order for the payment of any sum in respect of any claim, dispute, or question under the [Fencing Act 1978][561], and by the same or a subsequent order may direct by whom and to whom respectively any such sum shall be paid.
+    (3) In the exercise of its jurisdiction under this section, the court may make an order for the payment of any sum in respect of any claim, dispute, or question under the [Fencing Act 1978][568], and by the same or a subsequent order may direct by whom and to whom respectively any such sum shall be paid.
     
-    (4) In the exercise of its jurisdiction under this section, the court may order payment to be made in respect of the erection or repair of any fence, notwithstanding that any notice required by the [Fencing Act 1978][561] to be given or served has not been so given or served if the court is satisfied that all reasonable attempts were made to give or serve such notice.
+    (4) In the exercise of its jurisdiction under this section, the court may order payment to be made in respect of the erection or repair of any fence, notwithstanding that any notice required by the [Fencing Act 1978][568] to be given or served has not been so given or served if the court is satisfied that all reasonable attempts were made to give or serve such notice.
     
-    Compare: 1953 No 94 s 441; 1975 No 135 [s 16][562]
+    Compare: 1953 No 94 s 441; 1975 No 135 [s 16][569]
 
 #### Jurisdiction of court under Maori Fisheries Act 2004
     
-*   Heading: inserted, on 26 September 2004, by [section 3][563] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
+*   Heading: inserted, on 26 September 2004, by [section 3][570] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
 
 ##### 26A Interpretation
     
 *   In [sections 26B to 26N][40], unless the context otherwise requires,---
     
-    _Aotearoa Fisheries Limited_ has the meaning given to it in [section 5][564] of the Maori Fisheries Act 2004
+    _Aotearoa Fisheries Limited_ has the meaning given to it in [section 5][571] of the Maori Fisheries Act 2004
     
-    _constitutional documents_ has the meaning given to it in [section 5][564] of the Maori Fisheries Act 2004
+    _constitutional documents_ has the meaning given to it in [section 5][571] of the Maori Fisheries Act 2004
     
-    _income share_ has the meaning given to it in [section 5][564] of the Maori Fisheries Act 2004
+    _income share_ has the meaning given to it in [section 5][571] of the Maori Fisheries Act 2004
     
-    _mandated iwi organisation_ has the meaning given to it in [section 5][564] of the Maori Fisheries Act 2004
+    _mandated iwi organisation_ has the meaning given to it in [section 5][571] of the Maori Fisheries Act 2004
     
-    _settlement assets_ has the meaning given to it in [section 5][564] of the Maori Fisheries Act 2004
+    _settlement assets_ has the meaning given to it in [section 5][571] of the Maori Fisheries Act 2004
     
-    _Te Ohu Kai Moana Trustee Limited_ has the meaning given to it in [section 5][564] of the Maori Fisheries Act 2004
+    _Te Ohu Kai Moana Trustee Limited_ has the meaning given to it in [section 5][571] of the Maori Fisheries Act 2004
     
-    _Te Putea Whakatupu Trustee Limited_ has the meaning given to it in [section 5][564] of the Maori Fisheries Act 2004
+    _Te Putea Whakatupu Trustee Limited_ has the meaning given to it in [section 5][571] of the Maori Fisheries Act 2004
     
-    _Te Wai Maori Trustee Limited_ has the meaning given to it in [section 5][564] of the Maori Fisheries Act 2004
+    _Te Wai Maori Trustee Limited_ has the meaning given to it in [section 5][571] of the Maori Fisheries Act 2004
     
-    _trust income_ has the meaning given to it in [section 78][565] of the Maori Fisheries Act 2004\.
+    _trust income_ has the meaning given to it in [section 78][572] of the Maori Fisheries Act 2004\.
     
-    Section 26A: inserted, on 26 September 2004, by [section 3][563] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
+    Section 26A: inserted, on 26 September 2004, by [section 3][570] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
 
 ##### 26B Advisory jurisdiction of court
     
 *   The court has exclusive jurisdiction to advise on disputes referred to it---
         
-    *   (a) under a dispute resolution process referred to in [section 181(1)][566] of the Maori Fisheries Act 2004:
+    *   (a) under a dispute resolution process referred to in [section 181(1)][573] of the Maori Fisheries Act 2004:
     
-    *   (b) by a party to a dispute under [section 182(2)][567] of the Maori Fisheries Act 2004\.
+    *   (b) by a party to a dispute under [section 182(2)][574] of the Maori Fisheries Act 2004\.
     
-    Section 26B: inserted, on 26 September 2004, by [section 3][563] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
+    Section 26B: inserted, on 26 September 2004, by [section 3][570] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
 
 ##### 26C Jurisdiction of court to make determinations
     
 *   The court has exclusive jurisdiction to hear and determine, and make orders accordingly, in relation to---
         
-    *   (a) disputes referred to it under [section 182][567] of the Maori Fisheries Act 2004:
+    *   (a) disputes referred to it under [section 182][574] of the Maori Fisheries Act 2004:
     
-    *   (b) applications by Te Ohu Kai Moana Trustee Limited under [section 185(1)][568] of the Maori Fisheries Act 2004:
+    *   (b) applications by Te Ohu Kai Moana Trustee Limited under [section 185(1)][575] of the Maori Fisheries Act 2004:
     
-    *   (c) action taken by Te Ohu Kai Moana Trustee Limited in reliance on [section 186][569] of the Maori Fisheries Act 2004:
+    *   (c) action taken by Te Ohu Kai Moana Trustee Limited in reliance on [section 186][576] of the Maori Fisheries Act 2004:
     
-    *   (d) disputes referred to it by any party under [section 187][570] of the Maori Fisheries Act 2004\.
+    *   (d) disputes referred to it by any party under [section 187][577] of the Maori Fisheries Act 2004\.
     
-    Section 26C: inserted, on 26 September 2004, by [section 3][563] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
+    Section 26C: inserted, on 26 September 2004, by [section 3][570] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
 
 ##### 26D Principles applying to exercise of jurisdiction in relation to Maori Fisheries Act 2004
     
@@ -1795,19 +1823,19 @@ The Maori Land Court
     
     (3) The court has the power and authority to give advice or make determinations as it thinks proper.
     
-    (4) The court must determine an application or matter referred to it for advice or determination under [section 26B][40] or [section 26C][41] by applying the same considerations as would be relevant under the [Maori Fisheries Act 2004][571].
+    (4) The court must determine an application or matter referred to it for advice or determination under [section 26B][40] or [section 26C][41] by applying the same considerations as would be relevant under the [Maori Fisheries Act 2004][578].
     
     (5) [Sections 26B][40] and [26C][41] do not limit the right of any person to appeal against any decision of the court.
     
-    (6) The court does not have jurisdiction under [section 26B][40] or [section 26C][41] unless it is satisfied that [section 181(1)][566] of the Maori Fisheries Act 2004 has been complied with by the parties.
+    (6) The court does not have jurisdiction under [section 26B][40] or [section 26C][41] unless it is satisfied that [section 181(1)][573] of the Maori Fisheries Act 2004 has been complied with by the parties.
     
-    (7) Subsection (6) does not limit [section 182][567] or [section 185][568] or [section 186][569] of the Maori Fisheries Act 2004\.
+    (7) Subsection (6) does not limit [section 182][574] or [section 185][575] or [section 186][576] of the Maori Fisheries Act 2004\.
     
-    (8) Where a dispute resolution process contemplated by [section 181(1)][566] of the Maori Fisheries Act 2004 has not been agreed or has not been complied with, the court must order the parties to engage in a dispute resolution process on terms it prescribes unless it believes, for specified reasons, that such a process is inappropriate.
+    (8) Where a dispute resolution process contemplated by [section 181(1)][573] of the Maori Fisheries Act 2004 has not been agreed or has not been complied with, the court must order the parties to engage in a dispute resolution process on terms it prescribes unless it believes, for specified reasons, that such a process is inappropriate.
     
     (9) Nothing in this section or in [section 26B][40] or [section 26C][41] restricts any other right of a person to bring proceedings in the court.
     
-    Section 26D: inserted, on 26 September 2004, by [section 3][563] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
+    Section 26D: inserted, on 26 September 2004, by [section 3][570] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
 
 ##### 26E Procedure of court in its advisory jurisdiction
     
@@ -1825,7 +1853,7 @@ The Maori Land Court
     
     (4) The Chief Judge may appoint 1 or more additional members (not being Judges of the Maori Land Court) who have knowledge of relevant tikanga Maori or other expertise for the purpose of assisting the Judge with the request for advice.
     
-    Section 26E: inserted, on 26 September 2004, by [section 3][563] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
+    Section 26E: inserted, on 26 September 2004, by [section 3][570] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
 
 ##### 26F Procedure of court in making determinations
     
@@ -1851,7 +1879,7 @@ The Maori Land Court
         
     *   (a) the applicant has taken reasonable steps to notify affected parties of the application and those parties do not oppose the application; or
     
-    *   (b) the parties have taken reasonable steps to resolve their dispute, as provided for in [section 182(3)][567] of the Maori Fisheries Act 2004\.
+    *   (b) the parties have taken reasonable steps to resolve their dispute, as provided for in [section 182(3)][574] of the Maori Fisheries Act 2004\.
     
     (6) The Judge may dismiss or defer consideration of an application under subsection (3)(e) if---
         
@@ -1863,9 +1891,9 @@ The Maori Land Court
     
     (7) The Judge may choose not to address an application if the Judge is satisfied that the issues presented by the application are governed by another enactment or are more appropriately addressed in another forum.
     
-    Section 26F: inserted, on 26 September 2004, by [section 3][563] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
+    Section 26F: inserted, on 26 September 2004, by [section 3][570] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
     
-    Section 26F(3)(a): amended, on 13 December 2006, by [section 6][572] of Te Ture Whenua Maori Amendment Act 2006 (2006 No 76).
+    Section 26F(3)(a): amended, on 13 December 2006, by [section 6][579] of Te Ture Whenua Maori Amendment Act 2006 (2006 No 76).
 
 ##### 26G Powers of court if application referred under section 26F(3)(b)
     
@@ -1899,27 +1927,27 @@ The Maori Land Court
     
     (5) The court may, of its own motion or at the request of any party to the proceeding, appoint 1 or more additional members (not being Judges of the Maori Land Court) who have knowledge of relevant tikanga Maori or other expertise to assist the court.
     
-    Section 26G: inserted, on 26 September 2004, by [section 3][563] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
+    Section 26G: inserted, on 26 September 2004, by [section 3][570] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
     
-    Section 26G heading: substituted, on 13 December 2006, by [section 7(1)][573] of Te Ture Whenua Maori Amendment Act 2006 (2006 No 76).
+    Section 26G heading: substituted, on 13 December 2006, by [section 7(1)][580] of Te Ture Whenua Maori Amendment Act 2006 (2006 No 76).
     
-    Section 26G(1): substituted, on 13 December 2006, by [section 7(2)][573] of Te Ture Whenua Maori Amendment Act 2006 (2006 No 76).
+    Section 26G(1): substituted, on 13 December 2006, by [section 7(2)][580] of Te Ture Whenua Maori Amendment Act 2006 (2006 No 76).
     
-    Section 26G(1A): inserted, on 13 December 2006, by [section 7(2)][573] of Te Ture Whenua Maori Amendment Act 2006 (2006 No 76).
+    Section 26G(1A): inserted, on 13 December 2006, by [section 7(2)][580] of Te Ture Whenua Maori Amendment Act 2006 (2006 No 76).
 
 ##### 26H Appointment of mediator
     
 *   (1) A Judge who decides to refer issues to a mediator under [section 26E(3)(c)][43] or [section 26F(3)(d)][44] or [section 26L(3)(a)][50] must consult the parties affected by the application about who to appoint as mediator.
     
-    (2) The parties affected by the application may, by agreement among them, appoint as the mediator 1 or more persons with the skills and experience to undertake mediation on issues arising under the [Maori Fisheries Act 2004][571].
+    (2) The parties affected by the application may, by agreement among them, appoint as the mediator 1 or more persons with the skills and experience to undertake mediation on issues arising under the [Maori Fisheries Act 2004][578].
     
     (3) If a mediator is not appointed by agreement under subsection (2), the Judge must---
         
     *   (a) appoint a mediator; and
     
-    *   (b) before doing so, be satisfied that the mediator has the skills and experience to undertake mediation on issues arising under the [Maori Fisheries Act 2004][571].
+    *   (b) before doing so, be satisfied that the mediator has the skills and experience to undertake mediation on issues arising under the [Maori Fisheries Act 2004][578].
     
-    Section 26H: inserted, on 26 September 2004, by [section 3][563] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
+    Section 26H: inserted, on 26 September 2004, by [section 3][570] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
 
 ##### 26I Judge appointed as mediator
     
@@ -1929,7 +1957,7 @@ The Maori Land Court
     
     (3) Despite subsection (2), a Judge who acts as a mediator must not sit as a Judge of the court on any of the same issues.
     
-    Section 26I: inserted, on 26 September 2004, by [section 3][563] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
+    Section 26I: inserted, on 26 September 2004, by [section 3][570] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
 
 ##### 26J Conduct of mediation
     
@@ -1953,7 +1981,7 @@ The Maori Land Court
     
     (6) Statements made and material presented at a mediation are admissible in a subsequent mediation of the same issues but are not admissible in other proceedings before a person acting judicially, unless the parties participating in the mediation consent to the admission of the statement or material.
     
-    Section 26J: inserted, on 26 September 2004, by [section 3][563] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
+    Section 26J: inserted, on 26 September 2004, by [section 3][570] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
 
 ##### 26K Successful mediation
     
@@ -1965,7 +1993,7 @@ The Maori Land Court
     
     (2) The Judge may include the terms of resolution so delivered in an order signed by the Judge and sealed with the seal of the court.
     
-    Section 26K: inserted, on 26 September 2004, by [section 3][563] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
+    Section 26K: inserted, on 26 September 2004, by [section 3][570] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
 
 ##### 26L Unsuccessful mediation
     
@@ -1985,7 +2013,7 @@ The Maori Land Court
     
     (4) A Judge who refers unresolved issues to the court under subsection (3)(b) may be the Judge who hears the matter or provides advice.
     
-    Section 26L: inserted, on 26 September 2004, by [section 3][563] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
+    Section 26L: inserted, on 26 September 2004, by [section 3][570] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
 
 ##### 26M Orders and interim orders
     
@@ -2009,11 +2037,11 @@ The Maori Land Court
         
         *   (iii) until the Judge or the court is satisfied that the dispute has been satisfactorily resolved, prevent an action---
                 
-            *   (A) to allocate and transfer settlement assets under [section 130][574] or [section 135][575] of the Maori Fisheries Act 2004:
+            *   (A) to allocate and transfer settlement assets under [section 130][581] or [section 135][582] of the Maori Fisheries Act 2004:
             
-            *   (B) to pay income under [section 76][576] of the Maori Fisheries Act 2004:
+            *   (B) to pay income under [section 76][583] of the Maori Fisheries Act 2004:
             
-            *   (C) to distribute trust income under [section 83][577] or [section 98][578] of the Maori Fisheries Act 2004:
+            *   (C) to distribute trust income under [section 83][584] or [section 98][585] of the Maori Fisheries Act 2004:
             
             
         
@@ -2029,7 +2057,7 @@ The Maori Land Court
     
     *   (g) make orders as to costs under [section 79][145]:
     
-    *   (h) make other orders not inconsistent with the [Maori Fisheries Act 2004][571], as the Judge or court considers appropriate.
+    *   (h) make other orders not inconsistent with the [Maori Fisheries Act 2004][578], as the Judge or court considers appropriate.
     
     (2) The Judge or the court, at the request of any party, may also order, as considered appropriate, that an action referred to in subsection (1)(f)(iii) be subject to an interim injunction until---
         
@@ -2043,35 +2071,35 @@ The Maori Land Court
     
     (3) If the court makes an order under subsection (1)(f)(iii) or subsection (2) that an action be prevented or be subject to an interim injunction, as the case may be, the affected assets must be held in trust by Te Ohu Kai Moana Trustee Limited in accordance with [section 118A][194].
     
-    Section 26M: inserted, on 26 September 2004, by [section 3][563] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
+    Section 26M: inserted, on 26 September 2004, by [section 3][570] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
 
 ##### 26N Proceedings where additional members appointed
     
 *   If additional members are appointed under [section 26E(4)][43] or [section 26F(4)][44] or [section 26G(5)][45], the proceedings and processes of the court cannot be challenged on appeal or in any other proceedings on the grounds that an additional member had a tribal affiliation or other relationship with any of the parties unless it is shown that the additional member acted in bad faith.
     
-    Section 26N: inserted, on 26 September 2004, by [section 3][563] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
+    Section 26N: inserted, on 26 September 2004, by [section 3][570] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
 
 #### Jurisdiction of court under Maori Commercial Aquaculture Claims Settlement Act 2004
     
-*   Heading: inserted, on 1 January 2005, by [section 3][579] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
+*   Heading: inserted, on 1 January 2005, by [section 3][586] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
 
 ##### 26O Interpretation
     
-*   In [sections 26P to 26ZB][55], unless the context otherwise requires, _iwi aquaculture organisation_, _settlement assets_, and _trustee_ have the same meaning as in [sections 4][580] and [5][581] of the Maori Commercial Aquaculture Claims Settlement Act 2004\.
+*   In [sections 26P to 26ZB][55], unless the context otherwise requires, _iwi aquaculture organisation_, _settlement assets_, and _trustee_ have the same meaning as in [sections 4][587] and [5][588] of the Maori Commercial Aquaculture Claims Settlement Act 2004\.
     
-    Section 26O: inserted, on 1 January 2005, by [section 3][579] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
+    Section 26O: inserted, on 1 January 2005, by [section 3][586] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
 
 ##### 26P Advisory jurisdiction of court
     
-*   The court has exclusive jurisdiction to advise on disputes referred to it under a dispute resolution process referred to in [section 53][582] of the Maori Commercial Aquaculture Claims Settlement Act 2004\.
+*   The court has exclusive jurisdiction to advise on disputes referred to it under a dispute resolution process referred to in [section 53][589] of the Maori Commercial Aquaculture Claims Settlement Act 2004\.
     
-    Section 26P: inserted, on 1 January 2005, by [section 3][579] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
+    Section 26P: inserted, on 1 January 2005, by [section 3][586] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
 
 ##### 26Q Jurisdiction of court to make determinations
     
-*   The court has exclusive jurisdiction to hear and determine, and make orders accordingly, in relation to disputes referred to it under [section 54][583] of the Maori Commercial Aquaculture Claims Settlement Act 2004\.
+*   The court has exclusive jurisdiction to hear and determine, and make orders accordingly, in relation to disputes referred to it under [section 54][590] of the Maori Commercial Aquaculture Claims Settlement Act 2004\.
     
-    Section 26Q: inserted, on 1 January 2005, by [section 3][579] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
+    Section 26Q: inserted, on 1 January 2005, by [section 3][586] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
 
 ##### 26R Principles applying to exercise of jurisdiction in relation to Maori Commercial Aquaculture Claims Settlement Act 2004
     
@@ -2085,17 +2113,17 @@ The Maori Land Court
     
     (3) The court has the power and authority to give advice or make determinations as it thinks proper.
     
-    (4) The court must determine an application or matter referred to it for advice or determination under [section 26P][55] or [section 26Q][56] by applying the same criteria as would be applied under the [Maori Commercial Aquaculture Claims Settlement Act 2004][584].
+    (4) The court must determine an application or matter referred to it for advice or determination under [section 26P][55] or [section 26Q][56] by applying the same criteria as would be applied under the [Maori Commercial Aquaculture Claims Settlement Act 2004][591].
     
     (5) [Sections 26P][55] and [26Q][56] do not limit the right of any person to appeal against any decision of the court.
     
-    (6) The court does not have jurisdiction under this section unless it is satisfied that [section 53][582] of the Maori Commercial Aquaculture Claims Settlement Act 2004 has been complied with by the parties.
+    (6) The court does not have jurisdiction under this section unless it is satisfied that [section 53][589] of the Maori Commercial Aquaculture Claims Settlement Act 2004 has been complied with by the parties.
     
-    (7) Where a dispute resolution process contemplated by [section 53][582] of the Maori Commercial Aquaculture Claims Settlement Act 2004 has not been agreed or has not been complied with, the court must order the parties to engage in a dispute resolution process on terms it prescribes unless it believes, for specified reasons, that such a process is inappropriate.
+    (7) Where a dispute resolution process contemplated by [section 53][589] of the Maori Commercial Aquaculture Claims Settlement Act 2004 has not been agreed or has not been complied with, the court must order the parties to engage in a dispute resolution process on terms it prescribes unless it believes, for specified reasons, that such a process is inappropriate.
     
     (8) Nothing in this section or in [section 26P][55] or [section 26Q][56] restricts any other right of a person to bring proceedings in the court.
     
-    Section 26R: inserted, on 1 January 2005, by [section 3][579] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
+    Section 26R: inserted, on 1 January 2005, by [section 3][586] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
 
 ##### 26S Procedure of court in its advisory jurisdiction
     
@@ -2113,7 +2141,7 @@ The Maori Land Court
     
     (4) The Chief Judge may appoint 1 or more additional members (not being Judges of the Maori Land Court) who have knowledge of relevant tikanga Maori or other expertise for the purpose of assisting the Judge with the request for advice.
     
-    Section 26S: inserted, on 1 January 2005, by [section 3][579] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
+    Section 26S: inserted, on 1 January 2005, by [section 3][586] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
 
 ##### 26T Procedure of court in making determinations
     
@@ -2139,7 +2167,7 @@ The Maori Land Court
         
     *   (a) the applicant has taken reasonable steps to notify affected parties of the application, and those parties do not oppose the application; or
     
-    *   (b) the parties have taken reasonable steps to resolve their dispute, as provided for in [section 54(3)][583] of the Maori Commercial Aquaculture Claims Settlement Act 2004\.
+    *   (b) the parties have taken reasonable steps to resolve their dispute, as provided for in [section 54(3)][590] of the Maori Commercial Aquaculture Claims Settlement Act 2004\.
     
     (6) The Judge may dismiss or defer consideration of an application under subsection (3)(e) if---
         
@@ -2151,9 +2179,9 @@ The Maori Land Court
     
     (7) The Judge may choose not to address an application if the Judge is satisfied that the issues presented by the application are governed by another enactment or are more appropriately addressed in another forum.
     
-    Section 26T: inserted, on 1 January 2005, by [section 3][579] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
+    Section 26T: inserted, on 1 January 2005, by [section 3][586] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
     
-    Section 26T(3)(a): amended, on 13 December 2006, by [section 8][585] of Te Ture Whenua Maori Amendment Act 2006 (2006 No 76).
+    Section 26T(3)(a): amended, on 13 December 2006, by [section 8][592] of Te Ture Whenua Maori Amendment Act 2006 (2006 No 76).
 
 ##### 26U Powers of court if application referred under section 26T(3)(b)
     
@@ -2187,27 +2215,27 @@ The Maori Land Court
     
     (5) The court may, of its own motion or at the request of any party to the proceeding, appoint 1 or more additional members (not being Judges of the Maori Land Court) who have knowledge of relevant tikanga Maori or other expertise to assist the court.
     
-    Section 26U: inserted, on 1 January 2005, by [section 3][579] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
+    Section 26U: inserted, on 1 January 2005, by [section 3][586] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
     
-    Section 26U heading: substituted, on 13 December 2006, by [section 9(1)][586] of Te Ture Whenua Maori Amendment Act 2006 (2006 No 76).
+    Section 26U heading: substituted, on 13 December 2006, by [section 9(1)][593] of Te Ture Whenua Maori Amendment Act 2006 (2006 No 76).
     
-    Section 26U(1): substituted, on 13 December 2006, by [section 9(2)][586] of Te Ture Whenua Maori Amendment Act 2006 (2006 No 76).
+    Section 26U(1): substituted, on 13 December 2006, by [section 9(2)][593] of Te Ture Whenua Maori Amendment Act 2006 (2006 No 76).
     
-    Section 26U(1A): inserted, on 13 December 2006, by [section 9(2)][586] of Te Ture Whenua Maori Amendment Act 2006 (2006 No 76).
+    Section 26U(1A): inserted, on 13 December 2006, by [section 9(2)][593] of Te Ture Whenua Maori Amendment Act 2006 (2006 No 76).
 
 ##### 26V Appointment of mediator
     
 *   (1) A Judge who decides to refer issues to a mediator under [section 26S(3)(c)][58] or [section 26T(3)(d)][59] or [section 26Z(3)(a)][65] must consult the parties affected by the application about who to appoint as mediator.
     
-    (2) The parties affected by the application may, by agreement among them, appoint as the mediator 1 or more persons with the skills and experience to undertake mediation on issues arising under the [Maori Commercial Aquaculture Claims Settlement Act 2004][584].
+    (2) The parties affected by the application may, by agreement among them, appoint as the mediator 1 or more persons with the skills and experience to undertake mediation on issues arising under the [Maori Commercial Aquaculture Claims Settlement Act 2004][591].
     
     (3) If a mediator is not appointed by agreement under subsection (2), the Judge must---
         
     *   (a) appoint a mediator; and
     
-    *   (b) before doing so, be satisfied that the mediator has the skills and experience to undertake mediation on issues arising under the [Maori Commercial Aquaculture Claims Settlement Act 2004][584].
+    *   (b) before doing so, be satisfied that the mediator has the skills and experience to undertake mediation on issues arising under the [Maori Commercial Aquaculture Claims Settlement Act 2004][591].
     
-    Section 26V: inserted, on 1 January 2005, by [section 3][579] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
+    Section 26V: inserted, on 1 January 2005, by [section 3][586] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
 
 ##### 26W Judge appointed as mediator
     
@@ -2217,7 +2245,7 @@ The Maori Land Court
     
     (3) Despite subsection (2), a Judge who acts as a mediator must not sit as a Judge of the court on any of the same issues.
     
-    Section 26W: inserted, on 1 January 2005, by [section 3][579] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
+    Section 26W: inserted, on 1 January 2005, by [section 3][586] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
 
 ##### 26X Conduct of mediation
     
@@ -2241,7 +2269,7 @@ The Maori Land Court
     
     (6) Statements made and material presented at a mediation are admissible in a subsequent mediation of the same issues, but are not admissible in other proceedings before a person acting judicially, unless the parties participating in the mediation consent to the admission of the statement or material.
     
-    Section 26X: inserted, on 1 January 2005, by [section 3][579] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
+    Section 26X: inserted, on 1 January 2005, by [section 3][586] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
 
 ##### 26Y Successful mediation
     
@@ -2253,7 +2281,7 @@ The Maori Land Court
     
     (2) The Judge may include the terms of resolution so delivered in an order signed by the Judge and sealed with the seal of the court.
     
-    Section 26Y: inserted, on 1 January 2005, by [section 3][579] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
+    Section 26Y: inserted, on 1 January 2005, by [section 3][586] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
 
 ##### 26Z Unsuccessful mediation
     
@@ -2273,7 +2301,7 @@ The Maori Land Court
     
     (4) A Judge who refers unresolved issues to the court under subsection (3)(b) may be the Judge who hears the matter or provides advice.
     
-    Section 26Z: inserted, on 1 January 2005, by [section 3][579] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
+    Section 26Z: inserted, on 1 January 2005, by [section 3][586] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
 
 ##### 26ZA Orders and interim orders
     
@@ -2295,7 +2323,7 @@ The Maori Land Court
         
         *   (ii) require the trustee to suspend recognition of an iwi aquaculture organisation until specified changes are made to its constitutional documents:
         
-        *   (iii) until the Judge or the court is satisfied that the dispute has been satisfactorily resolved, prevent an action to allocate and transfer settlement assets under the [Maori Commercial Aquaculture Claims Settlement Act 2004][584]:
+        *   (iii) until the Judge or the court is satisfied that the dispute has been satisfactorily resolved, prevent an action to allocate and transfer settlement assets under the [Maori Commercial Aquaculture Claims Settlement Act 2004][591]:
         
         *   (iv) specify additional conditions or requirements necessary---
                 
@@ -2309,7 +2337,7 @@ The Maori Land Court
     
     *   (g) make orders as to costs under [section 79][145]:
     
-    *   (h) make other orders not inconsistent with the [Maori Commercial Aquaculture Claims Settlement Act 2004][584], or as the Judge or court considers appropriate.
+    *   (h) make other orders not inconsistent with the [Maori Commercial Aquaculture Claims Settlement Act 2004][591], or as the Judge or court considers appropriate.
     
     (2) The Judge or the court, at the request of any party, may also order, as it considers appropriate, that an action referred to in subsection (1)(f)(iii) be subject to an interim injunction until---
         
@@ -2323,17 +2351,17 @@ The Maori Land Court
     
     (3) If the court makes an order under subsection (1)(f)(iii) or subsection (2) that an action be prevented or be subject to an interim injunction, as the case may be, the affected assets must be held in trust by the trustee in accordance with [section 118B][195].
     
-    Section 26ZA: inserted, on 1 January 2005, by [section 3][579] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
+    Section 26ZA: inserted, on 1 January 2005, by [section 3][586] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
 
 ##### 26ZB Proceedings where additional members appointed
     
 *   If additional members are appointed under [section 26S(4)][58] or [section 26T(4)][59] or [section 26U(5)][60], the proceedings and processes of the court cannot be challenged on appeal or in any other proceedings on the ground that an additional member had a tribal affiliation or other relationship with any of the parties unless it is shown that the additional member acted in bad faith.
     
-    Section 26ZB: inserted, on 1 January 2005, by [section 3][579] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
+    Section 26ZB: inserted, on 1 January 2005, by [section 3][586] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
 
 #### Other provisions about jurisdiction and powers
     
-*   Heading: inserted, on 16 September 2011, by [section 5][587] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
+*   Heading: inserted, on 16 September 2011, by [section 5][594] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
 
 ##### 27 Governor-General may confer special jurisdiction
     
@@ -2377,7 +2405,7 @@ The Maori Land Court
     
     (3) A request for advice or an application for an order under subsection (1) is an application within the ordinary jurisdiction of the Maori Land Court, and the Maori Land Court has the power and authority to give advice and make determinations as the court thinks proper.
     
-    Section 30: substituted, on 1 July 2002, by [section 10][588] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 30: substituted, on 1 July 2002, by [section 10][595] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 30A Intent of sections
     
@@ -2387,13 +2415,13 @@ The Maori Land Court
     
     *   (b) to enable the Chief Judge to facilitate, as far as possible, successful resolution of differences surrounding an application by the persons affected, without adjudication.
     
-    First section 30A: inserted, on 1 July 2002, by [section 11][589] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    First section 30A: inserted, on 1 July 2002, by [section 11][596] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 30A Review of representatives
     
 *   \[Repealed\]
     
-    Second section 30A: repealed, on 26 September 2004, by [section 5(2)][513] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
+    Second section 30A: repealed, on 26 September 2004, by [section 5(2)][520] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
 
 ##### 30B Powers of Judge in addressing requests for advice
     
@@ -2409,9 +2437,9 @@ The Maori Land Court
     
     *   (c) refer some or all of the issues arising from the request to a mediator for mediation.
     
-    Section 30B: inserted, on 1 July 2002, by [section 11][589] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 30B: inserted, on 1 July 2002, by [section 11][596] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 30B(2): substituted, on 26 September 2004, by [section 5(3)][513] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
+    Section 30B(2): substituted, on 26 September 2004, by [section 5(3)][520] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
 
 ##### 30C Powers of Judge in addressing applications for determination
     
@@ -2447,9 +2475,9 @@ The Maori Land Court
     
     *   (c) the Judge considers it appropriate to dismiss or defer consideration of the application for another reason.
     
-    Section 30C: inserted, on 1 July 2002, by [section 11][589] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 30C: inserted, on 1 July 2002, by [section 11][596] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 30C(2): substituted, on 26 September 2004, by [section 5(4)][513] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
+    Section 30C(2): substituted, on 26 September 2004, by [section 5(4)][520] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
 
 ##### 30D Appointment of mediator
     
@@ -2465,7 +2493,7 @@ The Maori Land Court
     
     (6) Despite subsection (5), a Judge who acts as a mediator must not sit as a Judge of a Maori Land Court on some or all of the same issues.
     
-    Section 30D: inserted, on 1 July 2002, by [section 11][589] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 30D: inserted, on 1 July 2002, by [section 11][596] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 30E Conduct of mediation
     
@@ -2489,7 +2517,7 @@ The Maori Land Court
     
     (5) Statements made and material presented at mediation are admissible in a subsequent mediation of the same issues but are not admissible in other proceedings before a person acting judicially unless the parties participating in the mediation consent to the admission of the statement or material.
     
-    Section 30E: inserted, on 1 July 2002, by [section 11][589] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 30E: inserted, on 1 July 2002, by [section 11][596] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 30F Successful mediation
     
@@ -2501,7 +2529,7 @@ The Maori Land Court
     
     (2) The Judge may include the terms of resolution so delivered in an order signed by the Judge and sealed with the seal of the Maori Land Court.
     
-    Section 30F: inserted, on 1 July 2002, by [section 11][589] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 30F: inserted, on 1 July 2002, by [section 11][596] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 30G Unsuccessful mediation
     
@@ -2521,7 +2549,7 @@ The Maori Land Court
     
     (4) A Judge referring unresolved issues to the Maori Land Court under subsection (3)(b) may be the Judge of the Maori Land Court that hears the matter or provides advice.
     
-    Section 30G: inserted, on 1 July 2002, by [section 11][589] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 30G: inserted, on 1 July 2002, by [section 11][596] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 30H Orders
     
@@ -2541,7 +2569,7 @@ The Maori Land Court
     
     (2) Neither a Judge nor the court has jurisdiction to make an order that binds the Crown in relation to applications concerning Treaty settlement negotiations unless the Crown agrees to be bound.
     
-    Section 30H: inserted, on 1 July 2002, by [section 11][589] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 30H: inserted, on 1 July 2002, by [section 11][596] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 30I Review of advice or determination
     
@@ -2559,17 +2587,17 @@ The Maori Land Court
     
     (5) A review under subsection (1) must be completed within 3 months of receipt of the request or application for review.
     
-    (6) This section applies to advice given and determinations made under [section 30][71] before [Te Ture Whenua Maori Amendment Act 2002][590] (the Maori Land Amendment Act 2002) was passed.
+    (6) This section applies to advice given and determinations made under [section 30][71] before [Te Ture Whenua Maori Amendment Act 2002][597] (the Maori Land Amendment Act 2002) was passed.
     
-    Section 30I: inserted, on 1 July 2002, by [section 11][589] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 30I: inserted, on 1 July 2002, by [section 11][596] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 30I(6): amended, on 16 September 2011, by [section 12][591] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
+    Section 30I(6): amended, on 16 September 2011, by [section 12][598] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
 
 ##### 30J Definition of persons affected
     
 *   In [sections 30A to 30G][72], _persons affected_ by, or in relation to, a request for advice or an application for an order under [section 30][71] are the members of the class or group of Maori to which the request or application relates.
     
-    Section 30J: inserted, on 1 July 2002, by [section 11][589] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 30J: inserted, on 1 July 2002, by [section 11][596] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 31 Additional members for purposes of inquiry
     
@@ -2593,23 +2621,23 @@ The Maori Land Court
     
     (3) The Chief Judge shall, before appointing any person under subsection (1) for the purpose of any request, consult, as the case may require, with the parties to the proceedings or with persons involved in the negotiations, consultations, allocation, or other matter about the knowledge and experience that any such person should possess.
     
-    Section 33(1): substituted, on 1 July 2002, by [section 12(1)][592] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 33(1): substituted, on 1 July 2002, by [section 12(1)][599] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 34 Oath to be taken by additional member
     
 *   Before entering upon the exercise of the duties of his or her office, any additional member of the Maori Land Court or Maori Appellate Court appointed under [section 26E(4)][43] or [section 26F(4)][44] or [section 26G(5)][45] or [section 26S(4)][58] or [section 26T(4)][59] or [section 26U(5)][60] or [section 28(1)][69] or [section 31(1)][83] or [section 33(1)][85] or by an Order in Council made under [section 27(1)][68] shall take an oath before a Judge of the Maori Land Court that he or she will faithfully and impartially perform the duties of his or her office.
     
-    Section 34: amended, on 1 January 2005, by [section 5(2)][514] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
+    Section 34: amended, on 1 January 2005, by [section 5(2)][521] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
     
-    Section 34: amended, on 26 September 2004, by [section 5(5)][513] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
+    Section 34: amended, on 26 September 2004, by [section 5(5)][520] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
 
 ##### 35 Fees and allowances
     
-*   There shall be paid to any additional member of the Maori Land Court or Maori Appellate Court appointed under [section 26E(4)][43] or [section 26F(4)][44] or [section 26G(5)][45] or [section 26S(4)][58] or [section 26T(4)][59] or [section 26U(5)][60] or [section 28(1)][69] or [section 31(1)][83] or [section 33(1)][85] or by an Order in Council made under [section 27(1)][68], out of public money, remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][593], and the provisions of that Act shall apply accordingly as if the Maori Land Court or the Maori Appellate Court, as the case may require, were a statutory board within the meaning of that Act.
+*   There shall be paid to any additional member of the Maori Land Court or Maori Appellate Court appointed under [section 26E(4)][43] or [section 26F(4)][44] or [section 26G(5)][45] or [section 26S(4)][58] or [section 26T(4)][59] or [section 26U(5)][60] or [section 28(1)][69] or [section 31(1)][83] or [section 33(1)][85] or by an Order in Council made under [section 27(1)][68], out of public money, remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][600], and the provisions of that Act shall apply accordingly as if the Maori Land Court or the Maori Appellate Court, as the case may require, were a statutory board within the meaning of that Act.
     
-    Section 35: amended, on 1 January 2005, by [section 5(3)][514] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
+    Section 35: amended, on 1 January 2005, by [section 5(3)][521] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
     
-    Section 35: amended, on 26 September 2004, by [section 5(6)][513] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
+    Section 35: amended, on 26 September 2004, by [section 5(6)][520] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
 
 ##### 36 Quorum and decisions
     
@@ -2623,11 +2651,11 @@ The Maori Land Court
     
     (5) Where, for the purposes of any proceedings or matter, an additional member or additional members are appointed to the Maori Appellate Court under [section 28(1)][69] or pursuant to an Order in Council made under [section 27(1)][68], [section 63][126] shall apply in relation to the proceedings or matter as if the Maori Appellate Court were constituted, for the purposes of the proceedings or matter, under [section 62][125].
     
-    Section 36(1): amended, on 1 January 2005, by [section 5(4)][514] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
+    Section 36(1): amended, on 1 January 2005, by [section 5(4)][521] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
     
-    Section 36(1): amended, on 26 September 2004, by [section 5(7)][513] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
+    Section 36(1): amended, on 26 September 2004, by [section 5(7)][520] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
     
-    Section 36(2): amended, on 1 July 2002, by [section 12(2)][592] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 36(2): amended, on 1 July 2002, by [section 12(2)][599] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 37 Exercise of jurisdiction generally
     
@@ -2645,7 +2673,7 @@ The Maori Land Court
     
     (3) In the course of the proceedings on any application, the court may, subject to the rules of court, without further application, and upon such terms as to notice to parties and otherwise as the court thinks fit, proceed to exercise any other part of its jurisdiction the exercise of which in those proceedings the court considers necessary or desirable.
     
-    Compare: 1953 No 94 s 27; 1974 No 73 s 45; 1979 No 136 [s 19(3)][594]
+    Compare: 1953 No 94 s 27; 1974 No 73 s 45; 1979 No 136 [s 19(3)][601]
 
 ##### 38 Powers of court may be exercised by any Judge
     
@@ -2679,7 +2707,7 @@ The Maori Land Court
     
     (3) A Judge may, after deciding or reserving any question of liability, refer to the Registrar or to the Registrar and an accountant any mere matter of account that is in dispute between the parties, and, after deciding the question of liability, may give judgment on the Registrar's report.
     
-    Compare: 1947 No 16 [s 62][595]
+    Compare: 1947 No 16 [s 62][602]
 
 #### Orders and rehearings
 
@@ -2717,11 +2745,11 @@ The Maori Land Court
     
     (7) \[Repealed\]
     
-    Compare: SR 1948/197 r 230(1), (3), (8); 1953 No 94 s 28; 1961 No 129 [s 4][596]; 1974 No 73 s 46
+    Compare: SR 1948/197 r 230(1), (3), (8); 1953 No 94 s 28; 1961 No 129 [s 4][603]; 1974 No 73 s 46
     
-    Section 43(1): amended, on 17 January 2005, by [section 103(1)][512] of the Foreshore and Seabed Act 2004 (2004 No 93).
+    Section 43(1): amended, on 17 January 2005, by [section 103(1)][519] of the Foreshore and Seabed Act 2004 (2004 No 93).
     
-    Section 43(7): repealed, on 1 April 2011, by [section 128][511] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
+    Section 43(7): repealed, on 1 April 2011, by [section 128][518] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
 
 #### Special powers of Chief Judge
 
@@ -2737,11 +2765,11 @@ The Maori Land Court
     
     (5) The Chief Judge may decline to exercise jurisdiction under this section in respect of any application, and no appeal shall lie to the Maori Appellate Court from the dismissal by the Chief Judge of an application under this section.
     
-    Compare: 1953 No 94 s 452(1), (5), (11), (12); 1967 No 124 s 144(a); 1974 No 73 s 64(1); 1981 No 112 [s 6(1)][597]
+    Compare: 1953 No 94 s 452(1), (5), (11), (12); 1967 No 124 s 144(a); 1974 No 73 s 64(1); 1981 No 112 [s 6(1)][604]
     
-    Section 44(1): amended, on 11 April 2001, by [section 7(1)][598] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
+    Section 44(1): amended, on 11 April 2001, by [section 7(1)][605] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
     
-    Section 44(4): amended, on 11 April 2001, by [section 7(2)][598] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
+    Section 44(4): amended, on 11 April 2001, by [section 7(2)][605] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
 
 ##### 45 Applications for exercise of special powers
     
@@ -2759,7 +2787,7 @@ The Maori Land Court
     
     (3) The Chief Judge shall have and may exercise in respect of any application under [section 45][99] the same power as the court possesses under [section 79][145] to make such order as it thinks just as to the payment of costs; and the provisions of that section shall, with any necessary modifications, apply accordingly.
     
-    Compare: 1953 No 94 s 452(2), (3), (4); 1965 No 121 [s 7][599]
+    Compare: 1953 No 94 s 452(2), (3), (4); 1965 No 121 [s 7][606]
 
 ##### 47 Administrative and consequential matters
     
@@ -2771,9 +2799,9 @@ The Maori Land Court
     
     (4) All consequential amendments required to be made in any order, record, or document made, issued, or kept by the court, because of any order made by the Chief Judge under [section 44][98], or made by the Maori Appellate Court on appeal from any such order, may be made by any Judge of the court; and where it becomes necessary to correct the Land Transfer Register, a copy of the order and a note of the consequential amendments made pursuant to this subsection shall be transmitted by the Registrar of the court to the District Land Registrar, who shall thereupon make all necessary amendments in the register of the title to the land affected.
     
-    (5) No fee shall be payable under this Act or the [Land Transfer Act 1952][498] in respect of the making of any necessary amendments in the register of the title to any land under subsection (4).
+    (5) No fee shall be payable under this Act or the [Land Transfer Act 1952][501] in respect of the making of any necessary amendments in the register of the title to any land under subsection (4).
     
-    Compare: 1953 No 92 s 452(10), (13); 1958 No 41 [s 8][600]
+    Compare: 1953 No 92 s 452(10), (13); 1958 No 41 [s 8][607]
 
 ##### 48 Matters already finalised or pending
     
@@ -2789,17 +2817,17 @@ The Maori Land Court
 
 #### Exercise of powers by Deputy Chief Judge
     
-*   Heading: inserted, on 13 December 2006, by [section 10][601] of Te Ture Whenua Maori Amendment Act 2006 (2006 No 76).
+*   Heading: inserted, on 13 December 2006, by [section 10][608] of Te Ture Whenua Maori Amendment Act 2006 (2006 No 76).
 
 ##### 48A Deputy Chief Judge may exercise special powers of Chief Judge
     
 *   The Deputy Chief Judge has and may exercise, subject to the direction of the Chief Judge, the powers, functions, and duties of the Chief Judge under [sections 44 to 48][98].
     
-    Section 48A: inserted, on 13 December 2006, by [section 10][601] of Te Ture Whenua Maori Amendment Act 2006 (2006 No 76).
+    Section 48A: inserted, on 13 December 2006, by [section 10][608] of Te Ture Whenua Maori Amendment Act 2006 (2006 No 76).
 
 #### Right of appeal against exercise of special powers
     
-*   Heading: inserted, on 13 December 2006, by [section 11][602] of Te Ture Whenua Maori Amendment Act 2006 (2006 No 76).
+*   Heading: inserted, on 13 December 2006, by [section 11][609] of Te Ture Whenua Maori Amendment Act 2006 (2006 No 76).
 
 ##### 49 Appeals
     
@@ -2809,9 +2837,9 @@ The Maori Land Court
     
     Compare: 1953 No 94 s 452(6)
     
-    Section 49(1): amended, on 13 December 2006, by [section 12(1)][603] of Te Ture Whenua Maori Amendment Act 2006 (2006 No 76).
+    Section 49(1): amended, on 13 December 2006, by [section 12(1)][610] of Te Ture Whenua Maori Amendment Act 2006 (2006 No 76).
     
-    Section 49(2): amended, on 13 December 2006, by [section 12(2)][603] of Te Ture Whenua Maori Amendment Act 2006 (2006 No 76).
+    Section 49(2): amended, on 13 December 2006, by [section 12(2)][610] of Te Ture Whenua Maori Amendment Act 2006 (2006 No 76).
 
 ## Part 2  
 The Maori Appellate Court
@@ -2922,7 +2950,7 @@ The Maori Appellate Court
     
     (2) On an appeal under subsection (1), the Court of Appeal may make any order or determination it thinks fit.
     
-    Section 58A: inserted, on 1 January 2004, by [section 46][604] of the Supreme Court Act 2003 (2003 No 53).
+    Section 58A: inserted, on 1 January 2004, by [section 46][611] of the Supreme Court Act 2003 (2003 No 53).
 
 ##### 58B Direct appeal to Supreme Court from Maori Appellate Court in exceptional circumstances
     
@@ -2930,9 +2958,9 @@ The Maori Appellate Court
     
     (2) On an appeal under subsection (1), the Supreme Court may make any order or determination it thinks fit.
     
-    (3) This section is subject to [section 14][605] of the Supreme Court Act 2003 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).
+    (3) This section is subject to [section 14][612] of the Supreme Court Act 2003 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).
     
-    Section 58B: inserted, on 1 January 2004, by [section 46][604] of the Supreme Court Act 2003 (2003 No 53).
+    Section 58B: inserted, on 1 January 2004, by [section 46][611] of the Supreme Court Act 2003 (2003 No 53).
 
 ##### 59 Appeals from provisional determinations
     
@@ -2992,7 +3020,7 @@ The Maori Appellate Court
     
     (4) Before entering upon the exercise of the duties of his or her office, any member of the Maori Appellate Court appointed under subsection (1)(b) shall take an oath before a Judge of the Maori Land Court that he or she will faithfully and impartially perform the duties of his or her office.
     
-    (5) There shall be paid to any member of the Maori Appellate Court appointed under subsection (1)(b), out of public money, remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][593], and the provisions of that Act shall apply accordingly as if the Maori Appellate Court were a statutory board within the meaning of that Act.
+    (5) There shall be paid to any member of the Maori Appellate Court appointed under subsection (1)(b), out of public money, remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][600], and the provisions of that Act shall apply accordingly as if the Maori Appellate Court were a statutory board within the meaning of that Act.
 
 ##### 63 Quorum and decision of court
     
@@ -3025,7 +3053,7 @@ Provisions relating to both courts
     
     Compare: 1953 No 94 s 53
     
-    Section 65: amended, on 25 November 2004, by [section 103(1)][512] of the Foreshore and Seabed Act 2004 (2004 No 93).
+    Section 65: amended, on 25 November 2004, by [section 103(1)][519] of the Foreshore and Seabed Act 2004 (2004 No 93).
 
 #### Procedural provisions
 
@@ -3073,11 +3101,11 @@ Provisions relating to both courts
     
     (3) Notwithstanding any of the foregoing provisions of this section, a Judge may, at any time before the hearing of an application has been commenced, exercise any of the powers specified in subsection (2) without holding a conference under subsection (1).
     
-    Compare: 1972 No 130 [s 10][606]; 1977 No 32 [s 14][607]
+    Compare: 1972 No 130 [s 10][613]; 1977 No 32 [s 14][614]
 
 ##### 68 Parties and witnesses may use Maori language
     
-*   Without limiting anything in the [Maori Language Act 1987][608], any party or witness in any proceedings before the court may give evidence or address the court in Maori.
+*   Without limiting anything in the [Maori Language Act 1987][615], any party or witness in any proceedings before the court may give evidence or address the court in Maori.
     
     Compare: 1975 No 147 Schedule 2 cl 6
 
@@ -3087,11 +3115,11 @@ Provisions relating to both courts
     
     (2) The court may itself cause such inquiries to be made, call such witnesses (including expert witnesses), and seek and receive such evidence, as it considers may assist it to deal effectively with the matters before it, but shall ensure that the parties are kept fully informed of all such matters and, where appropriate, given an opportunity to reply.
     
-    (3) Subject to the foregoing provisions of this section, the [Evidence Act 2006][609] shall apply to the court, and to the Judges of the court, and to all proceedings in the court, in the same manner as if the court were a court within the meaning of that Act.
+    (3) Subject to the foregoing provisions of this section, the [Evidence Act 2006][616] shall apply to the court, and to the Judges of the court, and to all proceedings in the court, in the same manner as if the court were a court within the meaning of that Act.
     
     Compare: 1953 No 94 s 54
     
-    Section 69(3): amended, on 1 August 2007, by [section 216][610] of the Evidence Act 2006 (2006 No 69).
+    Section 69(3): amended, on 1 August 2007, by [section 216][617] of the Evidence Act 2006 (2006 No 69).
 
 ##### 70 Representation of parties, etc
     
@@ -3135,9 +3163,9 @@ Provisions relating to both courts
     
     Compare: 1953 No 94 s 67
     
-    Section 72(1): amended, on 1 April 2011, by [section 128][511] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
+    Section 72(1): amended, on 1 April 2011, by [section 128][518] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
-    Section 72(4): repealed, on 1 January 2004, by [section 48(2)][611] of the Supreme Court Act 2003 (2003 No 53).
+    Section 72(4): repealed, on 1 January 2004, by [section 48(2)][618] of the Supreme Court Act 2003 (2003 No 53).
 
 #### General provisions as to orders
 
@@ -3153,7 +3181,7 @@ Provisions relating to both courts
     
     *   (b) extend that period for such further time as the court thinks fit.
     
-    Compare: 1953 No 94 s 34(8A); 1961 No 129 [s 5(2)][612]
+    Compare: 1953 No 94 s 34(8A); 1961 No 129 [s 5(2)][619]
 
 ##### 74 Orders not invalid for want of form, etc
     
@@ -3191,7 +3219,7 @@ Provisions relating to both courts
     
 *   \[Repealed\]
     
-    Section 78: repealed, on 20 May 1999, by [section 7][613] of the Stamp Duty Abolition Act 1999 (1999 No 61).
+    Section 78: repealed, on 20 May 1999, by [section 7][620] of the Stamp Duty Abolition Act 1999 (1999 No 61).
 
 ##### 79 Orders as to costs
     
@@ -3223,7 +3251,7 @@ Provisions relating to both courts
     
     (5) The court or taxing officer shall certify in writing the amount that should, in fairness to the parties, be paid in respect of any such costs, charges, or expenses, and the amount so certified shall be deemed to be the amount properly payable by the person chargeable.
     
-    (6) This section shall not apply to any costs, charges, or expenses that are liable to taxation and review in accordance with the provisions of [Part 8][614] of the Law Practitioners Act 1982\.
+    (6) This section shall not apply to any costs, charges, or expenses that are liable to taxation and review in accordance with the provisions of [Part 8][621] of the Law Practitioners Act 1982\.
     
     Compare: 1953 No 94 s 451
 
@@ -3239,7 +3267,7 @@ Provisions relating to both courts
     
     Compare: 1953 No 94 s 65
     
-    Section 81(2): amended, on 16 September 2011, by [section 6][615] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
+    Section 81(2): amended, on 16 September 2011, by [section 6][622] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
 
 ##### 82 Charging orders
     
@@ -3261,17 +3289,17 @@ Provisions relating to both courts
     
     (4) A charging order may at any time be varied or discharged by the court.
     
-    (5) Nothing in [section 123][616] of the Accident Compensation Act 2001 applies to any charge constituted under this section.
+    (5) Nothing in [section 123][623] of the Accident Compensation Act 2001 applies to any charge constituted under this section.
     
-    (6) Where a charging order is made in respect of a registered estate or interest in any land, a duplicate or copy of the order under the seal of the court may be delivered for registration to the appropriate District Land Registrar if the title to the land is under the [Land Transfer Act 1952][498], or to the appropriate Registrar of Deeds if the title to the land is not under that Act, or, in the case of a mining privilege within the meaning of the Mining Act 1971, may be delivered for recording to the District Land Registrar in whose office the mining privilege is recorded.
+    (6) Where a charging order is made in respect of a registered estate or interest in any land, a duplicate or copy of the order under the seal of the court may be delivered for registration to the appropriate District Land Registrar if the title to the land is under the [Land Transfer Act 1952][501], or to the appropriate Registrar of Deeds if the title to the land is not under that Act, or, in the case of a mining privilege within the meaning of the Mining Act 1971, may be delivered for recording to the District Land Registrar in whose office the mining privilege is recorded.
     
     (7) The Registrar to whom the duplicate or copy is delivered shall, without fee, record it in the register against the appropriate folium of the register book and against any relevant instrument of title, or record it and note its particulars on the filed copy of the mining privilege to which it relates, as the case may require.
     
     (8) An order discharging or varying a charging order may be registered or recorded in the same manner as the charging order.
     
-    Section 82(5): substituted, on 1 April 2002, by [section 337(1)][617] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
+    Section 82(5): substituted, on 1 April 2002, by [section 337(1)][624] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
     
-    Section 82(5): amended, on 3 March 2010, pursuant to [section 5(1)(b)][618] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 82(5): amended, on 3 March 2010, pursuant to [section 5(1)(b)][625] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 ##### 83 Appointment of receiver to enforce charges, etc
     
@@ -3297,29 +3325,29 @@ Provisions relating to both courts
     
     (6) Notwithstanding any of the provisions of this Act as to the alienation of Maori land, a receiver appointed under this section for the purpose of enforcing a charge may, in the receiver's own name and with the leave of the court, grant leases of any land so charged, or licences to remove timber, flax, kauri gum, minerals, or other substances from the land, for any term not exceeding 21 years (including any term or terms of renewal), on such conditions and for such rent or other consideration as the receiver thinks fit.
     
-    (7) Any lease or licence so granted in respect of land subject to the [Land Transfer Act 1952][498] may be registered under that Act, and the District Land Registrar may register the same accordingly without requiring the production of any certificate of title.
+    (7) Any lease or licence so granted in respect of land subject to the [Land Transfer Act 1952][501] may be registered under that Act, and the District Land Registrar may register the same accordingly without requiring the production of any certificate of title.
     
     (8) Where a receiver has performed the functions for which he or she was appointed, or where the court is satisfied for any other reason that the receiver should be discharged, the court may make an order for the discharge of the receiver, and may, if necessary, appoint some other person to be a receiver in place of the receiver so discharged.
     
     (9) Where the receiver applies for discharge, the receiver shall file final accounts with the application, and, except where the receiver is the Māori Trustee, shall pay into court any money held by the receiver in respect of the receivership.
     
-    Compare: 1953 No 94 s 33; 1964 No 46 [s 5][619]
+    Compare: 1953 No 94 s 33; 1964 No 46 [s 5][626]
     
-    Section 83(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 83(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 83(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 83(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 83(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 83(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 83(6): amended, on 11 April 2001, by [section 8][620] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
+    Section 83(6): amended, on 11 April 2001, by [section 8][627] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
     
-    Section 83(9): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 83(9): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 84 Court may order repayment out of money held by trustee, etc
     
 *   If, in any case to which paragraph (a) or paragraph (b) of subsection (1) of [section 83][149] applies, the Māori Trustee or any other person is holding or is entitled to receive, on trust for the owners or any of the owners of the land upon which the charge has been imposed, any money derived from the land, the court may, whether or not it appoints a receiver under that section, cause notice of the charge to be given to the Māori Trustee or that other person, and, by order, may require the Māori Trustee or that other person to apply that money, in accordance with the terms of the order, in or towards the repayment of the amount secured by the charge.
     
-    Section 84: amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 84: amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 85 Enforcement by High Court of injunctions
     
@@ -3349,7 +3377,7 @@ Provisions relating to both courts
     
 *   On the application of an owner of Maori freehold land, the Registrar may by order amend any entry in the records of the court, or in any certificate or other instrument of title relating to the interest of the applicant in the land, if the Registrar is satisfied that an amendment is necessary to show correctly the name or description of the applicant, or the name by which the applicant is or desires to be commonly known, including, where the applicant is a married woman, her married name, or to distinguish between 2 or more persons having the same or similar names.
     
-    Compare: 1953 No 94 s 60A; 1974 No 144 [s 3][621]
+    Compare: 1953 No 94 s 60A; 1974 No 144 [s 3][628]
 
 ##### 88 Amendment or cancellation of orders not to affect acquired rights
     
@@ -3375,9 +3403,9 @@ Provisions relating to both courts
     
     (3) No person summoned to attend the court shall be convicted of an offence against subsection (1) unless at the time of the service of the summons, or at some other reasonable time before the date on which that person was required to attend, there was made to that person a payment or tender of the amount fixed by the rules of court.
     
-    Compare: 1908 No 25 [s 9][622]; 1980 No 2 s 4
+    Compare: 1908 No 25 [s 9][629]; 1980 No 2 s 4
     
-    Section 89(2): amended, on 1 July 2013, by [section 413][623] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 89(2): amended, on 1 July 2013, by [section 413][630] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 90 Power to remove for contempt
     
@@ -3393,7 +3421,7 @@ Provisions relating to both courts
     
     Compare: 1977 No 121 s 142
     
-    Section 90: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][624] of the Policing Act 2008 (2008 No 72).
+    Section 90: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][631] of the Policing Act 2008 (2008 No 72).
 
 ##### 91 Obstructing officers of court
     
@@ -3401,7 +3429,7 @@ Provisions relating to both courts
     
     Compare: 1953 No 94 s 70
     
-    Section 91: amended, on 1 July 2013, by [section 413][623] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 91: amended, on 1 July 2013, by [section 413][630] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Rules of court
 
@@ -3431,29 +3459,29 @@ Provisions relating to both courts
     
     (4) Without limiting [section 8(4)][13], whenever the Chief Judge is unable to attend any meeting of the Rules Committee or to perform any other function of a member of that Committee, the Deputy Chief Judge may attend that meeting or perform that function in place of the Chief Judge.
     
-    Compare: 1953 No 94 s 70A(1)--(2); 1980 No 67 [s 3(1)][625]; 1991 No 39 s 4(1)
+    Compare: 1953 No 94 s 70A(1)--(2); 1980 No 67 [s 3(1)][632]; 1991 No 39 s 4(1)
     
-    Section 92(1)(d): substituted, on 1 October 1995, by [section 10(3)][626] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 92(1)(d): substituted, on 1 October 1995, by [section 10(3)][633] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 92(1)(d): amended, on 1 October 2003, pursuant to [section 14(2)][534] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 92(1)(d): amended, on 1 October 2003, pursuant to [section 14(2)][541] of the State Sector Amendment Act 2003 (2003 No 41).
     
-    Section 92(1)(f): substituted, on 1 October 1995, by [section 10(3)][626] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 92(1)(f): substituted, on 1 October 1995, by [section 10(3)][633] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 92(1)(f): amended, on 1 October 2003, pursuant to [section 14(1)][534] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 92(1)(f): amended, on 1 October 2003, pursuant to [section 14(1)][541] of the State Sector Amendment Act 2003 (2003 No 41).
 
 ##### 93 Fees and travelling allowances
     
-*   (1) The Rules Committee is hereby declared to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][593].
+*   (1) The Rules Committee is hereby declared to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][600].
     
-    (2) There shall be paid out of money appropriated by Parliament for the purpose to the members of the Rules Committee such fees, allowances, travelling allowances, and expenses as may be fixed in accordance with the [Fees and Travelling Allowances Act 1951][593], and the provisions of that Act shall apply accordingly.
+    (2) There shall be paid out of money appropriated by Parliament for the purpose to the members of the Rules Committee such fees, allowances, travelling allowances, and expenses as may be fixed in accordance with the [Fees and Travelling Allowances Act 1951][600], and the provisions of that Act shall apply accordingly.
     
-    Compare: 1953 No 94 s 70A(3), (4); 1980 No 67 [s 3(1)][625]
+    Compare: 1953 No 94 s 70A(3), (4); 1980 No 67 [s 3(1)][632]
 
 ##### 94 Principal function of Rules Committee
     
 *   The principal function of the Rules Committee shall be to review and keep under review the rules of court, and from time to time to make such recommendations to the Minister as it thinks fit for the amendment or revocation of any rules or the making of any new rules, to ensure that the rules are such as to facilitate the prompt, inexpensive, and just dispatch of the business of the court and the administration of justice in the court.
     
-    Compare: 1953 No 94 s 70A(5); 1980 No 67 [s 3(1)][625]
+    Compare: 1953 No 94 s 70A(5); 1980 No 67 [s 3(1)][632]
 
 ##### 95 Rules of court
     
@@ -3487,7 +3515,7 @@ Provisions relating to both courts
     
     *   (l) prescribing, according to the nature of the proceedings and the amount involved, the costs and charges to be paid by any party in any proceedings before the court to any other party, in addition to the money paid out of pocket:
     
-    *   (m) providing for the drawing up in writing, sealing, and signing of orders of the court, or the minuting and other evidencing of any such orders or class of order, and the issuing of duplicate orders for evidentiary and registration purposes; and prohibiting the formal issuing of any order until the time for appeal has expired and any conditions attached to the order have been fulfilled or security for the performance of any such conditions has been given to the satisfaction of the court, or until any necessary plan sufficient for the purposes of registration under the [Land Transfer Act 1952][498] has been prepared:
+    *   (m) providing for the drawing up in writing, sealing, and signing of orders of the court, or the minuting and other evidencing of any such orders or class of order, and the issuing of duplicate orders for evidentiary and registration purposes; and prohibiting the formal issuing of any order until the time for appeal has expired and any conditions attached to the order have been fulfilled or security for the performance of any such conditions has been given to the satisfaction of the court, or until any necessary plan sufficient for the purposes of registration under the [Land Transfer Act 1952][501] has been prepared:
     
     *   (n) prescribing the terms and conditions on which appeals to the Maori Appellate Court may be brought, prosecuted, or withdrawn:
     
@@ -3497,13 +3525,13 @@ Provisions relating to both courts
     
     (4) Rules of court made under this section shall take effect from the date specified in that behalf by the Order in Council by which the rules are made.
     
-    Compare: 1953 No 94 ss 25, 40; 1980 No 67 [s 3(2), (3)][625]
+    Compare: 1953 No 94 ss 25, 40; 1980 No 67 [s 3(2), (3)][632]
     
-    Section 95(3)(b): substituted, on 25 November 2004, by [section 103(1)][512] of the Foreshore and Seabed Act 2004 (2004 No 93).
+    Section 95(3)(b): substituted, on 25 November 2004, by [section 103(1)][519] of the Foreshore and Seabed Act 2004 (2004 No 93).
     
-    Section 95(3)(b): amended, on 16 September 2011, by [section 12][591] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
+    Section 95(3)(b): amended, on 16 September 2011, by [section 12][598] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
     
-    Section 95(3)(m): amended, on 20 May 1999, by [section 7][613] of the Stamp Duty Abolition Act 1999 (1999 No 61).
+    Section 95(3)(m): amended, on 20 May 1999, by [section 7][620] of the Stamp Duty Abolition Act 1999 (1999 No 61).
 
 #### Fees
 
@@ -3527,7 +3555,7 @@ Provisions relating to both courts
     
 *   The Chief Judge, with the concurrence of at least 2 other Judges, may from time to time, for the guidance of parties to any class or classes of proceedings and their advisers, issue such instructions or suggestions (not being inconsistent with this Act or the rules of court) by way of practice notes as may be necessary or desirable for the proper conduct of such proceedings.
     
-    Compare: 1953 No 94 s 25A; 1976 No 148 [s 3][627]
+    Compare: 1953 No 94 s 25A; 1976 No 148 [s 3][634]
 
 ##### 98 Maori Land Court Special Aid Fund
     
@@ -3547,7 +3575,7 @@ Provisions relating to both courts
     
     (4) A duplicate of any order made by the court under subsection (3) shall be forwarded by post to the Legal Services Commissioner as soon as practicable after the making of the order.
     
-    (5) No person in whose favour an order has been made under subsection (3) may apply for or be granted assistance under the [Legal Services Act 2000][628] in respect of the same matter.
+    (5) No person in whose favour an order has been made under subsection (3) may apply for or be granted assistance under the [Legal Services Act 2000][635] in respect of the same matter.
     
     (6) Where an order is made under subsection (3), the court may also make an order charging any real or personal property of the person or class of person in whose favour the first order is made, or of any other owners whose interests are or could have been affected by any order made in the proceedings to which the grant of aid relates, with the whole or any part of the amount so ordered to be paid out of the Fund, and fixing the terms and conditions on which the amount charged is to be repaid.
     
@@ -3569,23 +3597,23 @@ Provisions relating to both courts
     
     *   (d) the reasonable fees and reasonable expenses of any person appointed as a receiver under [section 83][149]; and
     
-    *   (e) the reasonable fees and reasonable expenses of any person appointed as an examining officer under [section 280][388] to investigate the affairs of a Maori incorporation.
+    *   (e) the reasonable fees and reasonable expenses of any person appointed as an examining officer under [section 280][390] to investigate the affairs of a Maori incorporation.
     
     Compare: 1953 No 94 s 57A; 1974 No 73 s 50
     
-    Section 98(3)(c): repealed, on 1 April 2011, by [section 128][511] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
+    Section 98(3)(c): repealed, on 1 April 2011, by [section 128][518] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
-    Section 98(3A): repealed, on 1 April 2011, by [section 128][511] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
+    Section 98(3A): repealed, on 1 April 2011, by [section 128][518] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
     
-    Section 98(4): amended, on 1 July 2011, by [section 144][629] of the Legal Services Act 2011 (2011 No 4).
+    Section 98(4): amended, on 1 July 2011, by [section 144][636] of the Legal Services Act 2011 (2011 No 4).
     
-    Section 98(5): amended, on 1 February 2001, by [section 128][630] of the Legal Services Act 2000 (2000 No 42).
+    Section 98(5): amended, on 1 February 2001, by [section 128][637] of the Legal Services Act 2000 (2000 No 42).
     
-    Section 98(7): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 98(7): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 98(9)(aa): inserted, on 1 July 2002, by [section 13][631] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 98(9)(aa): inserted, on 1 July 2002, by [section 13][638] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 98(9)(ab): inserted, on 1 July 2002, by [section 13][631] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 98(9)(ab): inserted, on 1 July 2002, by [section 13][638] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ## Part 4  
 Administration of estates
@@ -3598,27 +3626,27 @@ Administration of estates
     
     _administrator_ means any person to whom administration is granted; and includes the Māori Trustee or Public Trust or a trustee company where that official or company is deemed to be an executor or administrator by reason of having filed an election to administer
     
-    _Maori freehold land_ includes land that is vested in the Māori Trustee under the [Maori Vested Lands Administration Act 1954][632] or the [Maori Reserved Land Act 1955][500]
+    _Maori freehold land_ includes land that is vested in the Māori Trustee under the [Maori Vested Lands Administration Act 1954][639] or the [Maori Reserved Land Act 1955][505]
     
-    _trustee company_ means a trustee company within the meaning of the [Trustee Companies Act 1967][633].
+    _trustee company_ means a trustee company within the meaning of the [Trustee Companies Act 1967][640].
     
     (2) For the purposes of this Part, a beneficial interest in Maori freehold land shall be deemed to include the interest of the freehold owner in all buildings and other fixtures attached to the land, and all things growing on the land.
     
-    (3) For the purposes of this Part, a beneficial interest in Maori freehold land shall be deemed to include a leasehold interest in Maori freehold land arising from the registration of a cross lease as defined in [section 2][634] of the Resource Management Act 1991\.
+    (3) For the purposes of this Part, a beneficial interest in Maori freehold land shall be deemed to include a leasehold interest in Maori freehold land arising from the registration of a cross lease as defined in [section 2][641] of the Resource Management Act 1991\.
     
     Compare: 1953 No 94 ss 132A(1), 146; 1967 No 124 s 74
     
-    Section 99(1) **administration**: amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 99(1) **administration**: amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 99(1) **administration**: amended, on 1 March 2002, by [section 170(1)][515] of the Public Trust Act 2001 (2001 No 100).
+    Section 99(1) **administration**: amended, on 1 March 2002, by [section 170(1)][522] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 99(1) **administrator**: amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 99(1) **administrator**: amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 99(1) **administrator**: amended, on 1 March 2002, by [section 170(1)][515] of the Public Trust Act 2001 (2001 No 100).
+    Section 99(1) **administrator**: amended, on 1 March 2002, by [section 170(1)][522] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 99(1) **Maori freehold land**: amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 99(1) **Maori freehold land**: amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 99(3): added, on 1 July 1994, by [section 2][635] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 99(3): added, on 1 July 1994, by [section 2][642] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
 
 ##### 100 Application of this Part
     
@@ -3640,11 +3668,11 @@ Administration of estates
     
     Compare: 1953 No 94 ss 113(1), (2), (8), 116(5); 1967 No 124 ss 86(1), 88(14)
     
-    Section 100(2): amended, on 1 July 1994, by [section 3][636] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 100(2): amended, on 1 July 1994, by [section 3][643] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
     
-    Section 100(2)(d): added, on 1 July 1994, by [section 3][636] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 100(2)(d): added, on 1 July 1994, by [section 3][643] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
     
-    Section 100(2)(e): added, on 1 July 1994, by [section 3][636] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 100(2)(e): added, on 1 July 1994, by [section 3][643] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
 
 ##### 101 General law to apply subject to this Part
     
@@ -3660,7 +3688,7 @@ Administration of estates
     
     shall, in relation to estates to which this Part applies, be read subject to this Part.
     
-    Compare: 1953 No 94 ss 110, 132(4); 1962 No 45 s 34(2); 1967 No 124 ss 75, 76(1), 79, 80(1); 1974 No 73 s 25; 1976 No 148 [s 7(2)][637]
+    Compare: 1953 No 94 ss 110, 132(4); 1962 No 45 s 34(2); 1967 No 124 ss 75, 76(1), 79, 80(1); 1974 No 73 s 25; 1976 No 148 [s 7(2)][644]
 
 #### Grant of administration and settlement of claims
 
@@ -3672,13 +3700,13 @@ Administration of estates
     
     *   (b) the hearing and determining of proceedings in respect of testamentary and other matters relating to such estates.
     
-    Compare: 1969 No 52 [s 5][638]
+    Compare: 1969 No 52 [s 5][645]
 
 ##### 103 Jurisdiction of High Court where administration granted by Maori Land Court
     
 *   The High Court may, in respect of any estate of which a grant of administration has previously been made by the Maori Land Court, exercise any jurisdiction that it could have exercised if the grant of administration had been made by the High Court.
     
-    Compare: 1967 No 124 s 87(4); 1972 No 135 [s 13(1)][639]
+    Compare: 1967 No 124 s 87(4); 1972 No 135 [s 13(1)][646]
 
 ##### 104 Liability of Maori land for payment of debts of estate
     
@@ -3708,49 +3736,49 @@ Administration of estates
     
     *   (d) any valid assignment or charge of any money arising out of the alienation of Maori freehold land or any beneficial interest in Maori freehold land, or the revenue derived from that money, made in favour of a State Loan Department or of the Crown.
     
-    (8) For the purposes of this section, an interest in Maori land shall be deemed to include an interest in personal property to which any person is entitled by virtue of an interest in any land that is subject to [Part 2][640] of the Maori Affairs Restructuring Act 1989\.
+    (8) For the purposes of this section, an interest in Maori land shall be deemed to include an interest in personal property to which any person is entitled by virtue of an interest in any land that is subject to [Part 2][647] of the Maori Affairs Restructuring Act 1989\.
     
-    Compare: 1953 No 94 s 132; 1962 No 45 s 34(2); 1963 No 123 [s 8(2)][641]; 1967 No 124 ss 73(3), 77, 88(12)
+    Compare: 1953 No 94 s 132; 1962 No 45 s 34(2); 1963 No 123 [s 8(2)][648]; 1967 No 124 ss 73(3), 77, 88(12)
     
-    Section 104(3): amended, on 1 July 2002, by [section 14][642] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 104(3): amended, on 1 July 2002, by [section 14][649] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 105 Duty payable on succession to Maori land
     
 *   \[Repealed\]
     
-    Section 105: repealed, on 24 May 1999, by [section 15(1)][643] of the Estate Duty Repeal Act 1999 (1999 No 64).
+    Section 105: repealed, on 24 May 1999, by [section 15(1)][650] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 106 Special provisions relating to testamentary promises and family protection
     
-*   (1) Notwithstanding anything in the [Law Reform (Testamentary Promises) Act 1949][644] but subject to subsection (3), no order may be made under that Act in respect of any estate to which this Part applies having the effect of alienating any beneficial interest in Maori freehold land belonging to the estate to any person to whom that interest could not have been left by the deceased owner by will.
+*   (1) Notwithstanding anything in the [Law Reform (Testamentary Promises) Act 1949][651] but subject to subsection (3), no order may be made under that Act in respect of any estate to which this Part applies having the effect of alienating any beneficial interest in Maori freehold land belonging to the estate to any person to whom that interest could not have been left by the deceased owner by will.
     
-    (2) Notwithstanding anything in the [Family Protection Act 1955][645] but subject to subsection (3), no order may be made under that Act in respect of any estate to which this Part applies having the effect of alienating any beneficial interest in Maori freehold land belonging to the estate to any person other than a child or grandchild of the deceased owner.
+    (2) Notwithstanding anything in the [Family Protection Act 1955][652] but subject to subsection (3), no order may be made under that Act in respect of any estate to which this Part applies having the effect of alienating any beneficial interest in Maori freehold land belonging to the estate to any person other than a child or grandchild of the deceased owner.
     
     (3) Nothing in subsection (1) or subsection (2) shall limit the power of the High Court to make an order conferring the right to reside in any dwelling or affecting any income derived from any beneficial interest in Maori freehold land.
     
-    (4) For the purposes of the [Family Protection Act 1955][645], a Maori who, before 1 April 1952, was married to another Maori in accordance with tikanga Maori, and whose marriage to the deceased was subsisting at the time of the death of the deceased, shall be deemed to have been the widower or widow of the deceased unless at the time of the death of the deceased either party was legally married to some other person.
+    (4) For the purposes of the [Family Protection Act 1955][652], a Maori who, before 1 April 1952, was married to another Maori in accordance with tikanga Maori, and whose marriage to the deceased was subsisting at the time of the death of the deceased, shall be deemed to have been the widower or widow of the deceased unless at the time of the death of the deceased either party was legally married to some other person.
     
-    Compare: 1953 No 94 s 118(4), (5); 1962 No 45 s 8(1); 1964 No 46 [s 7][646]; 1967 No 124 s 80(2), (3)
+    Compare: 1953 No 94 s 118(4), (5); 1962 No 45 s 8(1); 1964 No 46 [s 7][653]; 1967 No 124 s 80(2), (3)
     
-    Section 106(1): amended, on 16 September 2011, by [section 7][647] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
+    Section 106(1): amended, on 16 September 2011, by [section 7][654] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
     
-    Section 106(2): amended, on 16 September 2011, by [section 7][647] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
+    Section 106(2): amended, on 16 September 2011, by [section 7][654] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
 
 ##### 107 Special provisions relating to status of children, etc
     
-*   (1) In any will of a Maori that was made before 1 January 1970 (being the date of the commencement of the [Status of Children Act 1969][648]),---
+*   (1) In any will of a Maori that was made before 1 January 1970 (being the date of the commencement of the [Status of Children Act 1969][655]),---
         
     *   (a) the term _child_, in relation to the person who made the will or any other person referred to in the will, or any term of the same meaning, shall, unless a contrary intention appears from the will, be construed as including any child of that person, whether legitimate or illegitimate, who is capable in accordance with tikanga Maori of taking Maori freehold land by way of intestate succession from that person:
     
     *   (b) the term _heir_, or _next of kin_, or any similar term used in relation to the person who made the will with reference to any specific property, shall, unless it is expressly stated to the contrary in the will, be construed as referring to the person or persons who, in accordance with the provisions of this Part, would be entitled to succeed to that property on the death of the person who made the will if that person had died intestate with respect to that property.
     
-    (2) Where any term referred to in paragraph (a) or paragraph (b) of subsection (1) appears in a will of a Maori who died on or after 1 April 1968 but before 24 October 1969 (being the date of the commencement of subsections (1) to (3) of [section 4][649] of the Maori Purposes Act 1969), that term shall be construed in the same manner as it would have been had the person who made the will not been Maori.
+    (2) Where any term referred to in paragraph (a) or paragraph (b) of subsection (1) appears in a will of a Maori who died on or after 1 April 1968 but before 24 October 1969 (being the date of the commencement of subsections (1) to (3) of [section 4][656] of the Maori Purposes Act 1969), that term shall be construed in the same manner as it would have been had the person who made the will not been Maori.
     
-    (3) [Section 65][650] of the Property Law Act 2007 shall be read subject to the provisions of this section.
+    (3) [Section 65][657] of the Property Law Act 2007 shall be read subject to the provisions of this section.
     
-    Compare: 1953 No 94 s 115(1), (2), (3); 1967 No 124 ss 87(2), 88(2); 1969 No 127 [s 4][649]
+    Compare: 1953 No 94 s 115(1), (2), (3); 1967 No 124 ss 87(2), 88(2); 1969 No 127 [s 4][656]
     
-    Section 107(3): amended, on 1 January 2008, by [section 364(1)][546] of the Property Law Act 2007 (2007 No 91).
+    Section 107(3): amended, on 1 January 2008, by [section 364(1)][553] of the Property Law Act 2007 (2007 No 91).
 
 #### Distribution of estates
 
@@ -3782,7 +3810,7 @@ Administration of estates
     
     (2C) An occupation order that passes by will is cancelled automatically on the date of expiry or termination of the occupation order.
     
-    (3) Subsection (2)(e) shall have effect notwithstanding anything in [section 19][651] of the Adoption Act 1955\.
+    (3) Subsection (2)(e) shall have effect notwithstanding anything in [section 19][658] of the Adoption Act 1955\.
     
     (4) Any owner of a beneficial interest in Maori freehold land may by will leave that interest to the owner's spouse, civil union partner, or de facto partner for life or for any shorter period.
     
@@ -3790,13 +3818,13 @@ Administration of estates
     
     (6) Where any beneficial interest in Maori freehold land is left by will to any trustee, the trustee shall not have power under the will or under any Act to sell the interest; and any provision in the will purporting to confer such power shall be void and of no effect.
     
-    Section 108(2A): inserted, on 1 July 2002, by [section 15][652] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 108(2A): inserted, on 1 July 2002, by [section 15][659] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 108(2B): inserted, on 1 July 2002, by [section 15][652] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 108(2B): inserted, on 1 July 2002, by [section 15][659] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 108(2C): inserted, on 1 July 2002, by [section 15][652] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 108(2C): inserted, on 1 July 2002, by [section 15][659] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 108(4): amended, on 26 April 2005, by [section 7][653] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 108(4): amended, on 26 April 2005, by [section 7][660] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 109 Succession to Maori freehold land on intestacy
     
@@ -3814,13 +3842,13 @@ Administration of estates
     
     (4) A surviving spouse or civil union partner shall not be entitled under subsection (2) if, at the date of the death of the owner, a separation order, or a separation agreement made by deed or other writing, is in force in respect of the marriage or civil union between the surviving spouse or civil union partner and the owner.
     
-    Compare: 1967 No 124 s 76A(2); 1974 No 73 s 25; 1976 No 148 [s 18][654]; 1978 No 70 [s 9][655]
+    Compare: 1967 No 124 s 76A(2); 1974 No 73 s 25; 1976 No 148 [s 18][661]; 1978 No 70 [s 9][662]
     
-    Section 109(2): substituted, on 26 April 2005, by [section 7][653] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 109(2): substituted, on 26 April 2005, by [section 7][660] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 109(3): amended, on 26 April 2005, by [section 7][653] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 109(3): amended, on 26 April 2005, by [section 7][660] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 109(4): amended, on 26 April 2005, by [section 7][653] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 109(4): amended, on 26 April 2005, by [section 7][660] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 109A Succession to ota whakanoho on intestacy
     
@@ -3834,7 +3862,7 @@ Administration of estates
     
     (3) An occupation order that passes by succession is cancelled automatically on the date of expiry or termination of the occupation order.
     
-    Section 109A: inserted, on 1 July 2002, by [section 16][656] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 109A: inserted, on 1 July 2002, by [section 16][663] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 110 Succession on intestacy to property other than Maori land
     
@@ -3842,7 +3870,7 @@ Administration of estates
     
     (2) The right of any person to succeed to any property in accordance with subsection (1) shall not be affected by the fact that the claimant or any person through whom his or her claim is derived is or was illegitimate.
     
-    Compare: 1953 No 94 s 116(1); 1964 No 46 [s 6][657]; 1967 No 124 s 88(3)
+    Compare: 1953 No 94 s 116(1); 1964 No 46 [s 6][664]; 1967 No 124 s 88(3)
 
 ##### 111 Interests in General land of deceased Maori
     
@@ -3860,7 +3888,7 @@ Administration of estates
     
     (2) An application under subsection (1) may be dealt with by the court on such conditions as to notice as the court thinks fit, and the court may dispense with the appearance of any party.
     
-    (3) An order made by the court under subsection (1) may be registered under the [Land Transfer Act 1952][498].
+    (3) An order made by the court under subsection (1) may be registered under the [Land Transfer Act 1952][501].
     
     Compare: 1953 No 94 s 134; 1967 No 124 s 81
 
@@ -3912,17 +3940,17 @@ Administration of estates
     
     *   (b) an order that the whangai shall not be entitled to succeed, or shall be entitled to succeed only to a specified lesser extent, to any beneficial interest in Maori freehold land to, or than that, which that person would otherwise be entitled to succeed on the death of that person's parents or either of them.
     
-    (3) Every order under subsection (2) shall have effect notwithstanding anything in [section 19][651] of the Adoption Act 1955\.
+    (3) Every order under subsection (2) shall have effect notwithstanding anything in [section 19][658] of the Adoption Act 1955\.
     
-    Section 115(1): amended, on 1 July 1994, by [section 22][658] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 115(1): amended, on 1 July 1994, by [section 22][665] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
     
-    Section 115(2): amended, on 1 July 1994, by [section 22][658] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 115(2): amended, on 1 July 1994, by [section 22][665] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
 
 ##### 116 Court may make special provision relating to income
     
 *   (1) Subject to subsection (2), in the exercise of its powers under this Part in respect of any estate, the court may make an order conferring on any person the right to the whole or any part of the income derived from any beneficial interest in Maori freehold land, or to the whole or any part of the proceeds of sale of any such interest, belonging to the estate, for life or for any shorter period.
     
-    (2) The court shall not make an order under this section in favour of any person whose claim, in the opinion of the court, fell or falls within the jurisdiction of the High Court under the [Law Reform (Testamentary Promises) Act 1949][644] or the [Family Protection Act 1955][645].
+    (2) The court shall not make an order under this section in favour of any person whose claim, in the opinion of the court, fell or falls within the jurisdiction of the High Court under the [Law Reform (Testamentary Promises) Act 1949][651] or the [Family Protection Act 1955][652].
     
     (3) In enacting this provision, Parliament has in mind particularly the possibility of injustice arising in individual cases from the prohibitions enacted by this Act against the alienation of beneficial interests in Maori freehold land to persons outside defined classes, and is therefore desirous of conferring on the court some flexible, if limited, powers to ameliorate any such injustice.
 
@@ -3952,11 +3980,11 @@ Administration of estates
     
     (9) Nothing in subsection (8) shall impose any liability on the Māori Trustee or other agent in respect of any payment out of the proceeds of sale after the death of the deceased if the payment was made by the Māori Trustee or other agent without knowledge of the owner's death.
     
-    Compare: 1953 No 94 s 136; 1957 No 81 [s 2(1)][659]; 1961 No 129 [s 7][660]; 1963 No 123 [s 4][661]; 1967 No 124 ss 78A(8), 81A(3); 1973 No 106 [s 17][662]; 1974 No 73 ss 22, 26; 1976 No 148 [ss 19][663], [20(1)][664]
+    Compare: 1953 No 94 s 136; 1957 No 81 [s 2(1)][666]; 1961 No 129 [s 7][667]; 1963 No 123 [s 4][668]; 1967 No 124 ss 78A(8), 81A(3); 1973 No 106 [s 17][669]; 1974 No 73 ss 22, 26; 1976 No 148 [ss 19][670], [20(1)][671]
     
-    Section 117(8): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 117(8): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 117(9): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 117(9): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 118 Vesting in persons beneficially entitled where no grant of administration
     
@@ -3982,7 +4010,7 @@ Administration of estates
     
     (6) Where the known estate of a deceased person has previously been administered and additional interests of the deceased in Maori freehold land are discovered, the court, notwithstanding any other provisions of this section, may deal with those interests under this section if it is satisfied that any other course would be unduly expensive or difficult having regard to the value of the interests.
     
-    Compare: 1967 No 124 s 78A; 1973 No 106 [s 17][662]; 1974 No 73 s 26; 1976 No 148 [s 19][663]
+    Compare: 1967 No 124 s 78A; 1973 No 106 [s 17][669]; 1974 No 73 s 26; 1976 No 148 [s 19][670]
 
 ##### 118A Circumstances when certain assets and payments must be held in trust
     
@@ -4002,7 +4030,7 @@ Administration of estates
     
     (2) In this section, _mandated iwi organisation_ and _Te Ohu Kai Moana Trustee Limited_ have the meaning set out in [section 26A][39].
     
-    Section 118A: inserted, on 26 September 2004, by [section 4][665] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
+    Section 118A: inserted, on 26 September 2004, by [section 4][672] of Te Ture Whenua Maori Amendment Act (No 2) 2004 (2004 No 79).
 
 ##### 118B Circumstances when certain transfers and payments must be held in trust
     
@@ -4022,7 +4050,7 @@ Administration of estates
     
     (2) In this section, _iwi aquaculture organisation_ and _trustee_ have the meaning set out in [section 26O][54].
     
-    Section 118B: inserted, on 1 January 2005, by [section 4][666] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
+    Section 118B: inserted, on 1 January 2005, by [section 4][673] of Te Ture Whenua Maori Amendment Act (No 3) 2004 (2004 No 108).
 
 ##### 119 Court's powers in relation to whanau and putea trusts
     
@@ -4042,7 +4070,7 @@ Administration of estates
     
 *   [Sections 117 to 119][192] apply, with all necessary modifications, to an occupation order as if it were a beneficial interest in Maori freehold land.
     
-    Section 119A: inserted, on 1 July 2002, by [section 17][667] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 119A: inserted, on 1 July 2002, by [section 17][674] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 120 Special succession fee where death occurred before 1 April 1968
     
@@ -4054,7 +4082,7 @@ Administration of estates
     
     (4) No vesting order in respect of which a special succession fee is payable under subsection (3) shall issue from the court until the fee has been paid.
     
-    Compare: 1953 No 94 s 131; 1955 No 106 [s 3][668]; 1967 No 124 ss 78(4), 88(13); 1968 No 35 [s 13][669]; 1974 No 73 s 21; 1979 No 136 [s 13][670]
+    Compare: 1953 No 94 s 131; 1955 No 106 [s 3][675]; 1967 No 124 ss 78(4), 88(13); 1968 No 35 [s 13][676]; 1974 No 73 s 21; 1979 No 136 [s 13][677]
 
 ##### 121 Special provisions relating to succession to shares in Maori incorporations
     
@@ -4081,31 +4109,31 @@ Recording of ownership
 
 ##### 123 Orders affecting title to Maori freehold land to be registered
     
-*   (1) Subject to subsection (7A), every order to which this Part applies shall, in accordance with the succeeding provisions of this Part, be registered against the title to that land under the [Land Transfer Act 1952][498] or (as the case may require) the [Deeds Registration Act 1908][671].
+*   (1) Subject to subsection (7A), every order to which this Part applies shall, in accordance with the succeeding provisions of this Part, be registered against the title to that land under the [Land Transfer Act 1952][501] or (as the case may require) the [Deeds Registration Act 1908][678].
     
     (2) For the purposes of registration, the order shall be transmitted by the Registrar of the court to the District Land Registrar or (as the case may require) the Registrar of Deeds; and the District Land Registrar or the Registrar of Deeds shall, except as otherwise provided in this Act, register the same accordingly.
     
-    (3) Notwithstanding anything in [section 99][672] of the Land Transfer Act 1952, the production of the outstanding instrument of title shall not be necessary for the purposes of any such registration under that Act.
+    (3) Notwithstanding anything in [section 99][679] of the Land Transfer Act 1952, the production of the outstanding instrument of title shall not be necessary for the purposes of any such registration under that Act.
     
-    (4) No fee shall be payable under this Act or the [Land Transfer Act 1952][498] in respect of any order to which this Part applies.
+    (4) No fee shall be payable under this Act or the [Land Transfer Act 1952][501] in respect of any order to which this Part applies.
     
-    (5) Until registration has been effected, an order of the court in respect of land subject to the [Land Transfer Act 1952][498] shall affect only the equitable title to the land.
+    (5) Until registration has been effected, an order of the court in respect of land subject to the [Land Transfer Act 1952][501] shall affect only the equitable title to the land.
     
-    (6) Notwithstanding anything in this section or in the [Land Transfer Act 1952][498], no separate certificate of title shall be issued under that Act in respect of any undivided interest in any Maori freehold land.
+    (6) Notwithstanding anything in this section or in the [Land Transfer Act 1952][501], no separate certificate of title shall be issued under that Act in respect of any undivided interest in any Maori freehold land.
     
-    (6A) Nothing in subsection (6) shall prevent the issue of a separate certificate of title in respect of any cross lease within the meaning of [section 2][634] of the Resource Management Act 1991\.
+    (6A) Nothing in subsection (6) shall prevent the issue of a separate certificate of title in respect of any cross lease within the meaning of [section 2][641] of the Resource Management Act 1991\.
     
-    (7) In the case of an aggregation order made under [section 308][419], the District Land Registrar shall enter on each instrument of title affected by the order a memorial to the effect that alienation of the interests comprised in that instrument is restricted by [section 148(4)][231].
+    (7) In the case of an aggregation order made under [section 308][421], the District Land Registrar shall enter on each instrument of title affected by the order a memorial to the effect that alienation of the interests comprised in that instrument is restricted by [section 148(4)][231].
     
     (7A) Where an order to which this Part applies has not been registered in accordance with subsection (1), the registration of that order against the title to the land may, if its effect has been incorporated into a consolidated order, be effected by registering the consolidated order against the title to the land; and subsections (2) to (4) shall, with all necessary modifications, apply in relation to the registration of the consolidated order.
     
     (8) Nothing in this section shall limit or affect any special provisions made elsewhere in this Act or in any other Act for the registration of any such order.
     
-    Compare: 1953 No 94 s 36; 1983 No 146 [s 3(1)][673]
+    Compare: 1953 No 94 s 36; 1983 No 146 [s 3(1)][680]
     
     Section 123(1): amended, on 24 June 1996, by section 2(1) of Te Ture Whenua Maori Amendment Act 1996 (1996 No 35).
     
-    Section 123(6A): inserted, on 1 July 1994, by [section 4][674] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 123(6A): inserted, on 1 July 1994, by [section 4][681] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
     
     Section 123(7A): inserted, on 24 June 1996, by section 2(2) of Te Ture Whenua Maori Amendment Act 1996 (1996 No 35).
     
@@ -4113,9 +4141,9 @@ Recording of ownership
 
 ##### 124 Special provisions where insufficient survey plan
     
-*   (1) Where any order to which this Part applies is presented for registration under the [Land Transfer Act 1952][498], the District Land Registrar shall, if the order is not supported by a plan defining the land affected by the order and sufficient for the purposes of the registration of that order under that Act, embody the order in the provisional register as a separate folium, and, subject to subsection (2), all the provisions of that Act relating to provisional registration shall thereupon apply accordingly.
+*   (1) Where any order to which this Part applies is presented for registration under the [Land Transfer Act 1952][501], the District Land Registrar shall, if the order is not supported by a plan defining the land affected by the order and sufficient for the purposes of the registration of that order under that Act, embody the order in the provisional register as a separate folium, and, subject to subsection (2), all the provisions of that Act relating to provisional registration shall thereupon apply accordingly.
     
-    (2) Where any order to which this Part applies is, in accordance with subsection (1), embodied in the provisional register as a separate folium, any person in whom the beneficial ownership of land or any interest in land is vested by that order may, in accordance with [section 167(5)][675] of the Land Transfer Act 1952, and in accordance with the regulations in force in that behalf, deposit a plan in relation to the land or interest in land to which the order relates, which plan shall define the pieces of land affected.
+    (2) Where any order to which this Part applies is, in accordance with subsection (1), embodied in the provisional register as a separate folium, any person in whom the beneficial ownership of land or any interest in land is vested by that order may, in accordance with [section 167(5)][682] of the Land Transfer Act 1952, and in accordance with the regulations in force in that behalf, deposit a plan in relation to the land or interest in land to which the order relates, which plan shall define the pieces of land affected.
     
     Section 124: substituted, on 28 September 1993, by section 2 of Te Ture Whenua Maori Amendment Act (No 2) 1993 (1993 No 104).
 
@@ -4167,7 +4195,7 @@ Recording of ownership
     
     *   (c) payment of a fee (if any) prescribed, for registration or updating under paragraphs (a) and (b).
     
-    Section 125A: inserted, on 1 July 2002, by [section 18][676] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 125A: inserted, on 1 July 2002, by [section 18][683] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 126 No registration without prior confirmation
     
@@ -4181,7 +4209,7 @@ Recording of ownership
     
     (2) Without limiting subsection (1), it is hereby declared that where the Registrar of the court is satisfied that any interest for life or until remarriage in respect of any beneficial interest in Maori freehold land (including any such interest created by [section 109(2)][183]) has been extinguished or surrendered, the Registrar of the court shall note the extinction or surrender of that interest in the ownership list.
     
-    (3) On the making of an aggregation order under [section 308][419], the Registrar shall establish a common list of owners of all the land affected by the order.
+    (3) On the making of an aggregation order under [section 308][421], the Registrar shall establish a common list of owners of all the land affected by the order.
     
     (4) In all proceedings, an ownership list under the signature of the Registrar and the seal of the court shall be prima facie evidence of the legal and beneficial ownership of the land to which the list relates, and of all trusts affecting the land or any interest in the land recorded in the list, without production of any relevant order of the court or of any relevant instrument of alienation.
     
@@ -4191,7 +4219,7 @@ Recording of ownership
 
 ##### 128 Court may issue declaratory consolidated order
     
-*   (1) This section applies to any case where any instrument of title (whether or not registered under the [Land Transfer Act 1952][498]) issued with respect to any Maori freehold land does not fully disclose the names of the several persons for the time being entitled to any estate or interest in that land and the several shares and interests to which they are so entitled as a result of changes of ownership effected or evidenced by subsequent orders of the court or of a Registrar, or certificates or other documents recorded in the records of the court or in the Land Transfer Office.
+*   (1) This section applies to any case where any instrument of title (whether or not registered under the [Land Transfer Act 1952][501]) issued with respect to any Maori freehold land does not fully disclose the names of the several persons for the time being entitled to any estate or interest in that land and the several shares and interests to which they are so entitled as a result of changes of ownership effected or evidenced by subsequent orders of the court or of a Registrar, or certificates or other documents recorded in the records of the court or in the Land Transfer Office.
     
     (2) In any case to which this section applies, the court may, in accordance with the provisions of this section, make a consolidated order declaring, as at the date of the order, the names of the persons who, by virtue of the instrument of title or the subsequent orders, certificates, or other documents referred to in subsection (1), are then entitled to any estate or interest in the land and the several shares and interests to which they are so entitled.
     
@@ -4199,7 +4227,7 @@ Recording of ownership
     
     (4) The consolidated order shall be made to incorporate the effect of any order affecting the ownership of any interest made by the court subsequent to the drawing up of the draft consolidated order.
     
-    Compare: 1953 No 94 s 445(1), (4), (11); 1957 No 81 [s 6(2)][677]; 1967 No 124 s 126(3)(b); 1982 No 124 [s 9][678]
+    Compare: 1953 No 94 s 445(1), (4), (11); 1957 No 81 [s 6(2)][684]; 1967 No 124 s 126(3)(b); 1982 No 124 [s 9][685]
 
 ## Part 6  
 Status of land
@@ -4238,17 +4266,17 @@ Status of land
     
     Compare: 1953 No 94 s 2(1)
     
-    Section 129(2)(c): amended, on 1 July 2002, by [section 19][679] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 129(2)(c): amended, on 1 July 2002, by [section 19][686] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 130 Certain status not to change except in limited circumstances
     
 *   No land shall acquire or lose the status of Maori customary land or of Maori freehold land otherwise than in accordance with this Act, or as expressly provided in any other Act.
     
-    Compare: 1953 No 94 s 2(2); 1960 No 120 [s 3][680]; 1982 No 124 [s 3][681]
+    Compare: 1953 No 94 s 2(2); 1960 No 120 [s 3][687]; 1982 No 124 [s 3][688]
     
-    Section 130 heading: amended, on 1 July 1994, by [section 5][682] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 130 heading: amended, on 1 July 1994, by [section 5][689] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
     
-    Section 130: amended, on 1 July 1994, by [section 5][682] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 130: amended, on 1 July 1994, by [section 5][689] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
 
 ##### 131 Court may determine status of land
     
@@ -4304,9 +4332,9 @@ Status of land
     
     Compare: 1953 No 94 s 433A; 1974 No 73 s 57
     
-    Section 133 heading: amended, on 1 July 2002, by [section 20(2)][683] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 133 heading: amended, on 1 July 2002, by [section 20(2)][690] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 133(1): amended, on 1 July 2002, by [section 20(1)][683] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 133(1): amended, on 1 July 2002, by [section 20(1)][690] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 134 Change to Maori freehold land by vesting order on change of ownership
     
@@ -4382,13 +4410,13 @@ Status of land
     
     *   (b) neither the land nor any interest is subject to any trust (other than a trust imposed by [section 250(4)][352]); and
     
-    *   (c) the title to the land is registered under the [Land Transfer Act 1952][498] or is capable of being so registered; and
+    *   (c) the title to the land is registered under the [Land Transfer Act 1952][501] or is capable of being so registered; and
     
     *   (d) the land can be managed or utilised more effectively as General land; and
     
     *   (e) the owners have had adequate opportunity to consider the proposed change of status and a sufficient proportion of the owners agree to it.
     
-    Section 136: amended, on 1 July 1994, by [section 22][658] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 136: amended, on 1 July 1994, by [section 22][665] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
 
 ##### 137 Power to change status of Maori land
     
@@ -4396,7 +4424,7 @@ Status of land
         
     *   (a) the legal estate in fee simple in the land is vested in a Maori incorporation or the trustees of a trust constituted under [Part 12][303]; and
     
-    *   (b) the title to the land is registered under the [Land Transfer Act 1952][498] or is capable of being so registered; and
+    *   (b) the title to the land is registered under the [Land Transfer Act 1952][501] or is capable of being so registered; and
     
     *   (c) the alienation of the land is clearly desirable for the purpose of a rationalisation of the land base or of any commercial operation of the Maori incorporation in which or the trustees in whom the legal estate in fee simple in the land is vested; and
     
@@ -4430,21 +4458,21 @@ Status of land
 
 ##### 139 Registration of vesting orders where land formerly Maori customary land
     
-*   (1) The land to which any vesting order made under [section 132][213] applies shall, on the making of the order, become subject to the [Land Transfer Act 1952][498].
+*   (1) The land to which any vesting order made under [section 132][213] applies shall, on the making of the order, become subject to the [Land Transfer Act 1952][501].
     
     (2) Every such order, when sealed, shall be transmitted to the District Land Registrar of the district in which the land is situated.
     
     (3) If the land is situated in 2 or more districts, duplicates or certified copies of the order shall be transmitted to the District Land Registrar of each such district, and shall be dealt with by each such Registrar, so far as the order relates to land in that Registrar's district, in accordance with subsection (4).
     
-    (4) On receipt of the order, the District Land Registrar shall embody the order as a folium in the provisional register, and all the provisions of the [Land Transfer Act 1952][498] as to provisional registration shall, subject to this Act, apply accordingly.
+    (4) On receipt of the order, the District Land Registrar shall embody the order as a folium in the provisional register, and all the provisions of the [Land Transfer Act 1952][501] as to provisional registration shall, subject to this Act, apply accordingly.
     
     Compare: 1953 No 94 ss 164, 165(1)
 
 ##### 140 Registration of other orders
     
-*   Every status order made under this Part, and every vesting order made under [section 134][215], shall be registered under the [Land Transfer Act 1952][498] in accordance with [Part 5][200] of this Act.
+*   Every status order made under this Part, and every vesting order made under [section 134][215], shall be registered under the [Land Transfer Act 1952][501] in accordance with [Part 5][200] of this Act.
     
-    Compare: 1953 No 94 ss 433(4), 433A(3), 436(6), 437(6); 1973 No 106 [s 13(1)][684]; 1974 No 73 s 57
+    Compare: 1953 No 94 ss 433(4), 433A(3), 436(6), 437(6); 1973 No 106 [s 13(1)][691]; 1974 No 73 s 57
 
 ##### 141 Effect of vesting orders upon registration
     
@@ -4464,7 +4492,7 @@ Status of land
     
 *   Every status order made under this Part shall, upon registration, or upon noting under [section 124][203], have the effect of giving to the land the particular status specified in the order.
     
-    Compare: 1953 No 94 ss 433(5), 433A(4); 1973 No 106 [s 13(1)][684]; 1974 No 73 s 57
+    Compare: 1953 No 94 ss 433(5), 433A(4); 1973 No 106 [s 13(1)][691]; 1974 No 73 s 57
 
 ##### 143 Other land deemed Maori freehold land for succession purposes in certain circumstances
     
@@ -4482,7 +4510,7 @@ Status of land
 
 ##### 144 Maori customary land deemed Crown land for certain purposes
     
-*   (1) Notwithstanding any of the foregoing provisions of this Part, but subject to subsection (4), Maori customary land shall be deemed to be Crown land within the meaning of the [Land Act 1948][685] for the purposes of---
+*   (1) Notwithstanding any of the foregoing provisions of this Part, but subject to subsection (4), Maori customary land shall be deemed to be Crown land within the meaning of the [Land Act 1948][692] for the purposes of---
         
     *   (a) recovering possession of the land from any person in wrongful occupation of the land; or
     
@@ -4502,7 +4530,7 @@ Status of land
     
     Compare: 1953 No 94 s 159
     
-    Section 144(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 144(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ## Part 7  
 Alienation of Maori land
@@ -4517,7 +4545,7 @@ Alienation of Maori land
     
 *   No person has the capacity to alienate any interest in Maori freehold land otherwise than in accordance with this Act.
     
-    Compare: 1953 No 94 s 211; 1975 No 135 [s 16][562]
+    Compare: 1953 No 94 s 211; 1975 No 135 [s 16][569]
 
 ##### 147 Alienation of whole or part of block
     
@@ -4537,21 +4565,21 @@ Alienation of Maori land
     
     (3) \[Repealed\]
     
-    Section 147(1)(c): substituted, on 1 July 2002, by [section 21][686] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 147(1)(c): substituted, on 1 July 2002, by [section 21][693] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 147(1)(d): added, on 1 July 2002, by [section 21][686] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 147(1)(d): added, on 1 July 2002, by [section 21][693] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 147(1)(e): added, on 1 July 2002, by [section 21][686] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 147(1)(e): added, on 1 July 2002, by [section 21][693] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 147(2): repealed, on 1 July 2002, by [section 58(b)][495] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 147(2): repealed, on 1 July 2002, by [section 58(b)][497] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 147(3): repealed, on 1 July 2002, by [section 58(b)][495] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 147(3): repealed, on 1 July 2002, by [section 58(b)][497] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 147A Right of first refusal for sale or gift
     
 *   A person referred to in [section 147][229] who seeks to alienate any Maori freehold land by sale or gift must give the right of first refusal to prospective purchasers or donees who belong to 1 or more of the preferred classes of alienees, ahead of those who do not belong to any of those classes.
     
-    Section 147A: inserted, on 1 July 2002, by [section 22][687] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 147A: inserted, on 1 July 2002, by [section 22][694] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 148 Alienation of undivided interests
     
@@ -4561,9 +4589,9 @@ Alienation of Maori land
     
     (3) Except as provided in subsections (1) and (2), no owner of an undivided interest in any Maori freehold land has the capacity to alienate that interest separately.
     
-    (4) Without limiting any of the foregoing provisions of this section, no owner of an undivided interest in any 2 or more areas of Maori freehold land pursuant to an aggregation order made under [section 308][419] has the capacity to alienate that owner's interest in any of those areas separately; and where any such owner alienates less than the whole of that owner's interest in those areas, the alienation shall affect that owner's interests in each of those areas proportionately.
+    (4) Without limiting any of the foregoing provisions of this section, no owner of an undivided interest in any 2 or more areas of Maori freehold land pursuant to an aggregation order made under [section 308][421] has the capacity to alienate that owner's interest in any of those areas separately; and where any such owner alienates less than the whole of that owner's interest in those areas, the alienation shall affect that owner's interests in each of those areas proportionately.
     
-    Compare: 1953 No 94 s 215; 1967 No 124 s 92; 1973 No 106 [s 4][688]; 1974 No 73 s 28(1)
+    Compare: 1953 No 94 s 215; 1967 No 124 s 92; 1973 No 106 [s 4][695]; 1974 No 73 s 28(1)
 
 ##### 149 Alienation of equitable interests
     
@@ -4593,11 +4621,11 @@ Alienation of Maori land
     
     Section 150 heading: substituted, on 28 September 1993, by section 6 of Te Ture Whenua Maori Amendment Act (No 2) 1993 (1993 No 104).
     
-    Section 150(3): repealed, on 1 July 2002, by [section 23][689] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 150(3): repealed, on 1 July 2002, by [section 23][696] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 150(4): repealed, on 1 July 2002, by [section 23][689] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 150(4): repealed, on 1 July 2002, by [section 23][696] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 150(5): repealed, on 1 July 2002, by [section 23][689] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 150(5): repealed, on 1 July 2002, by [section 23][696] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 150A Alienation by trustees
     
@@ -4635,15 +4663,15 @@ Alienation of Maori land
     
     (4) The trustees of a trust constituted under [Part 12][303] who execute or obtain a transfer, variation, discharge, or surrender of anything to which subsection (3)(b) applies must send a copy of the instrument to the Registrar for noting, and the Registrar must note the contents of the instrument.
     
-    Section 150A: inserted, on 1 July 2002, by [section 24][690] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 150A: inserted, on 1 July 2002, by [section 24][697] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 150A(3)(b): amended, on 16 September 2011, by [section 8(1)][691] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
+    Section 150A(3)(b): amended, on 16 September 2011, by [section 8(1)][698] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
     
-    Section 150A(3)(b)(i): added, on 16 September 2011, by [section 8(2)][691] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
+    Section 150A(3)(b)(i): added, on 16 September 2011, by [section 8(2)][698] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
     
-    Section 150A(3)(b)(ii): added, on 16 September 2011, by [section 8(2)][691] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
+    Section 150A(3)(b)(ii): added, on 16 September 2011, by [section 8(2)][698] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
     
-    Section 150A(4): added, on 16 September 2011, by [section 8(3)][691] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
+    Section 150A(4): added, on 16 September 2011, by [section 8(3)][698] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
 
 ##### 150B Alienation by Maori incorporation
     
@@ -4669,15 +4697,15 @@ Alienation of Maori land
     
     (4) A Maori incorporation that executes or obtains a transfer, variation, discharge, or surrender of anything to which subsection (3)(b) applies must send a copy of the instrument to the Registrar for noting, and the Registrar must note the contents of the instrument.
     
-    Section 150B: inserted, on 1 July 2002, by [section 24][690] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 150B: inserted, on 1 July 2002, by [section 24][697] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 150B(3)(b): amended, on 16 September 2011, by [section 9(1)][692] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
+    Section 150B(3)(b): amended, on 16 September 2011, by [section 9(1)][699] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
     
-    Section 150B(3)(b)(i): added, on 16 September 2011, by [section 9(2)][692] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
+    Section 150B(3)(b)(i): added, on 16 September 2011, by [section 9(2)][699] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
     
-    Section 150B(3)(b)(ii): added, on 16 September 2011, by [section 9(2)][692] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
+    Section 150B(3)(b)(ii): added, on 16 September 2011, by [section 9(2)][699] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
     
-    Section 150B(4): added, on 16 September 2011, by [section 9(3)][692] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
+    Section 150B(4): added, on 16 September 2011, by [section 9(3)][699] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
 
 ##### 150C Alienation by other owners
     
@@ -4721,11 +4749,11 @@ Alienation of Maori land
     
     *   (b) a discharge or surrender of anything to which subsection (3)(b) applies.
     
-    Section 150C: inserted, on 1 July 2002, by [section 24][690] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 150C: inserted, on 1 July 2002, by [section 24][697] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 150C(3)(b): amended, on 16 September 2011, by [section 10(1)][693] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
+    Section 150C(3)(b): amended, on 16 September 2011, by [section 10(1)][700] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
     
-    Section 150C(4): added, on 16 September 2011, by [section 10(2)][693] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
+    Section 150C(4): added, on 16 September 2011, by [section 10(2)][700] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
 
 ##### 150D Life interests
     
@@ -4735,7 +4763,7 @@ Alienation of Maori land
     
     *   (b) holds that interest as a kaitiaki in accordance with tikanga Maori.
     
-    Section 150D: inserted, on 1 July 2002, by [section 24][690] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 150D: inserted, on 1 July 2002, by [section 24][697] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ## Part 8  
 Duties and powers of court in relation to alienations of Maori freehold land
@@ -4758,9 +4786,9 @@ Duties and powers of court in relation to alienations of Maori freehold land
     
     (3) Notwithstanding subsection (2)(a), where an instrument of alienation is executed at different times by different parties alienating, successive applications for confirmation may be made in respect of the successive executions of the instrument, and the alienation may be confirmed from time to time accordingly.
     
-    Compare: 1953 No 94 ss 225(1), 317, 321; 1967 No 124 s 99(a); 1976 No 148 [s 8][694]
+    Compare: 1953 No 94 ss 225(1), 317, 321; 1967 No 124 s 99(a); 1976 No 148 [s 8][701]
     
-    Section 151(3): amended, on 1 July 1994, by [section 6][695] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 151(3): amended, on 1 July 1994, by [section 6][702] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
 
 ##### 152 Court to grant confirmation if satisfied of certain matters
     
@@ -4786,25 +4814,25 @@ Duties and powers of court in relation to alienations of Maori freehold land
     
     (2) Before granting confirmation, the court may, with the consent of the parties, vary the terms of the instrument of alienation or resolution.
     
-    (3) The Maori Land Court may confirm an alienation to a person of any Maori freehold land that is, or is part of, an overseas investment in sensitive land within the meaning of the [Overseas Investment Act 2005][696] only if consent to that investment has been obtained, or an exemption from consent applies, under that Act.
+    (3) The Maori Land Court may confirm an alienation to a person of any Maori freehold land that is, or is part of, an overseas investment in sensitive land within the meaning of the [Overseas Investment Act 2005][703] only if consent to that investment has been obtained, or an exemption from consent applies, under that Act.
     
-    Section 152: substituted, on 1 July 2002, by [section 25][697] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 152: substituted, on 1 July 2002, by [section 25][704] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 152(1)(e): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 152(1)(e): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 152(3): substituted, on 25 August 2005, by [section 74][698] of the Overseas Investment Act 2005 (2005 No 82).
+    Section 152(3): substituted, on 25 August 2005, by [section 74][705] of the Overseas Investment Act 2005 (2005 No 82).
 
 ##### 153 Court's general discretion
     
 *   \[Repealed\]
     
-    Section 153: repealed, on 1 July 2002, by [section 58(c)][495] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 153: repealed, on 1 July 2002, by [section 58(c)][497] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 154 Grounds on which court may refuse confirmation
     
 *   \[Repealed\]
     
-    Section 154: repealed, on 1 July 2002, by [section 58(d)][495] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 154: repealed, on 1 July 2002, by [section 58(d)][497] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 155 Manner of confirmation
     
@@ -4816,13 +4844,13 @@ Duties and powers of court in relation to alienations of Maori freehold land
     
     (2) A certificate or order under subsection (1) has full force and effect even though there has been a minor error or irregularity in the procedure followed in making or granting the application for confirmation.
     
-    Section 155: substituted, on 1 July 2002, by [section 26][699] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 155: substituted, on 1 July 2002, by [section 26][706] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 156 Effect of confirmation
     
 *   (1) No instrument of alienation that is required to be confirmed under this Part shall have any force or effect until it is confirmed by the court under this Part.
     
-    (2) Subject to subsection (3), on confirmation being granted, an instrument of alienation shall (if otherwise valid) take effect according to its terms, subject to the requirements (if any) of registration under the [Land Transfer Act 1952][498], as from the date on which it would have taken effect had confirmation not been required.
+    (2) Subject to subsection (3), on confirmation being granted, an instrument of alienation shall (if otherwise valid) take effect according to its terms, subject to the requirements (if any) of registration under the [Land Transfer Act 1952][501], as from the date on which it would have taken effect had confirmation not been required.
     
     (3) The confirmation of a resolution of assembled owners shall not---
         
@@ -4830,7 +4858,7 @@ Duties and powers of court in relation to alienations of Maori freehold land
     
     *   (b) impose any obligations or confer any rights upon the owners, or upon an intending alienee or other person.
     
-    (4) For the purposes of the [Stamp and Cheque Duties Act 1971][700], the date of the certificate or of each successive certificate of confirmation shall be deemed to be the date of the execution of the instrument of alienation.
+    (4) For the purposes of the [Stamp and Cheque Duties Act 1971][707], the date of the certificate or of each successive certificate of confirmation shall be deemed to be the date of the execution of the instrument of alienation.
     
     Compare: 1953 No 94 ss 224(1), 226(2), (3), 322; 1967 No 124 s 98(1)
 
@@ -4852,17 +4880,17 @@ Duties and powers of court in relation to alienations of Maori freehold land
     
     Compare: 1953 No 94 s 323
     
-    Section 157(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 157(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 157(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 157(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 157(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 157(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 157(5): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 157(5): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 157(6): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 157(6): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 157(7): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 157(7): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 158 Special valuation required except in special cases
     
@@ -4878,13 +4906,13 @@ Duties and powers of court in relation to alienations of Maori freehold land
     
     Compare: 1953 No 94 s 228; 1967 No 124 s 101; 1974 No 73 s 32
     
-    Section 158(2): substituted, on 1 July 1998, by [section 54(1)][701] of the Rating Valuations Act 1998 (1998 No 69).
+    Section 158(2): substituted, on 1 July 1998, by [section 54(1)][708] of the Rating Valuations Act 1998 (1998 No 69).
     
-    Section 158(3): amended, on 1 July 1998, by [section 54(1)][701] of the Rating Valuations Act 1998 (1998 No 69).
+    Section 158(3): amended, on 1 July 1998, by [section 54(1)][708] of the Rating Valuations Act 1998 (1998 No 69).
     
-    Section 158(4): amended, on 1 July 1998, by [section 54(1)][701] of the Rating Valuations Act 1998 (1998 No 69).
+    Section 158(4): amended, on 1 July 1998, by [section 54(1)][708] of the Rating Valuations Act 1998 (1998 No 69).
     
-    Section 158(5): amended, on 1 July 1998, by [section 54(1)][701] of the Rating Valuations Act 1998 (1998 No 69).
+    Section 158(5): amended, on 1 July 1998, by [section 54(1)][708] of the Rating Valuations Act 1998 (1998 No 69).
 
 ##### 159 Proceeds of alienation to be paid to Māori Trustee, court appointed agent, or trustees
     
@@ -4894,7 +4922,7 @@ Duties and powers of court in relation to alienations of Maori freehold land
         
     *   (a) is effected by a vesting order under this Part; or
     
-    *   (b) relates to an equitable interest in Maori land that is vested in the Māori Trustee under the [Maori Vested Lands Administration Act 1954][632] or the [Maori Reserved Land Act 1955][500]; or
+    *   (b) relates to an equitable interest in Maori land that is vested in the Māori Trustee under the [Maori Vested Lands Administration Act 1954][639] or the [Maori Reserved Land Act 1955][505]; or
     
     *   (c) is effected by the Official Assignee or by any person as the trustee, executor, or administrator of an owner, otherwise than by an instrument separately executed by more than 1 person in respect of the several interests in the same land of more than 1 owner in common; or
     
@@ -4914,31 +4942,31 @@ Duties and powers of court in relation to alienations of Maori freehold land
     
     (5) All money payable to the Māori Trustee or the court appointed agent or the trustees under this section shall, as it becomes due and payable, constitute a debt due to the Māori Trustee or the court appointed agent or the trustees and shall be recoverable accordingly.
     
-    (6) For services rendered by the Māori Trustee in respect of money received under this section, the Māori Trustee shall be entitled to commission at a rate determined in accordance with the provisions of the [Maori Trustee Act 1953][501]; and any such commission shall be payable by the alienee and shall be recoverable by the Māori Trustee as a debt due by the alienee.
+    (6) For services rendered by the Māori Trustee in respect of money received under this section, the Māori Trustee shall be entitled to commission at a rate determined in accordance with the provisions of the [Maori Trustee Act 1953][506]; and any such commission shall be payable by the alienee and shall be recoverable by the Māori Trustee as a debt due by the alienee.
     
     (7) For services rendered by a court appointed agent in respect of money received under this section, the agent shall likewise be entitled to commission at the rate payable to the Māori Trustee; and any such commission shall be payable by the alienee and shall be recoverable by the agent as a debt due by the alienee.
     
-    Compare: 1953 No 94 s 231; 1967 No 124 s 104; 1982 No 124 [s 7][702]
+    Compare: 1953 No 94 s 231; 1967 No 124 s 104; 1982 No 124 [s 7][709]
     
-    Section 159 heading: amended, on 1 July 2009, by [section 30(1)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 159 heading: amended, on 1 July 2009, by [section 30(1)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 159(1): amended, on 1 July 2009, by [section 30(1)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 159(1): amended, on 1 July 2009, by [section 30(1)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 159(2)(b): amended, on 1 July 2009, by [section 30(1)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 159(2)(b): amended, on 1 July 2009, by [section 30(1)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 159(2)(ea): inserted, on 1 July 1994, by [section 7][703] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 159(2)(ea): inserted, on 1 July 1994, by [section 7][710] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
     
-    Section 159(2)(eb): inserted, on 1 July 1994, by [section 7][703] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 159(2)(eb): inserted, on 1 July 1994, by [section 7][710] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
     
-    Section 159(3): amended, on 1 July 2009, by [section 30(1)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 159(3): amended, on 1 July 2009, by [section 30(1)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 159(4): amended, on 1 July 2009, by [section 30(1)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 159(4): amended, on 1 July 2009, by [section 30(1)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 159(5): amended, on 1 July 2009, by [section 30(1)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 159(5): amended, on 1 July 2009, by [section 30(1)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 159(6): amended, on 1 July 2009, by [section 30(1)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 159(6): amended, on 1 July 2009, by [section 30(1)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 159(7): amended, on 1 July 2009, by [section 30(1)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 159(7): amended, on 1 July 2009, by [section 30(1)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 160 Certain instruments require only certificate of confirmation by Registrar
     
@@ -4980,25 +5008,25 @@ Duties and powers of court in relation to alienations of Maori freehold land
     
     *   (b) where an application in relation to the sealing of that certificate is made under subsection (7) during the period specified in that subsection, before the date on which that application is disposed of.
     
-    (9) For the purposes of the [Stamp and Cheque Duties Act 1971][700], the date of the certificate of confirmation issued and sealed under this section shall be deemed to be the date of the instrument of alienation.
+    (9) For the purposes of the [Stamp and Cheque Duties Act 1971][707], the date of the certificate of confirmation issued and sealed under this section shall be deemed to be the date of the instrument of alienation.
     
     (10) The Registrar may correct accidental clerical errors made in certificates of confirmation under this section, whether or not the relevant certificate of confirmation has become effective.
     
     Compare: 1953 No 94 s 233; 1976 No 124 s 106
     
-    Section 160(1): substituted, on 1 July 2002, by [section 27(1)][704] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 160(1): substituted, on 1 July 2002, by [section 27(1)][711] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 160(2): substituted, on 1 July 2002, by [section 27(1)][704] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 160(2): substituted, on 1 July 2002, by [section 27(1)][711] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 160(3)(d): amended, on 1 July 2002, by [section 27(2)][704] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 160(3)(d): amended, on 1 July 2002, by [section 27(2)][711] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 160(10): added, on 1 July 2002, by [section 27(3)][704] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 160(10): added, on 1 July 2002, by [section 27(3)][711] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 161 Certain instruments require only noting by Registrar
     
 *   \[Repealed\]
     
-    Section 161: repealed, on 1 July 2002, by [section 58(e)][495] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 161: repealed, on 1 July 2002, by [section 58(e)][497] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 162 Failure to act on resolution
     
@@ -5046,13 +5074,13 @@ Duties and powers of court in relation to alienations of Maori freehold land
     
     (8) A person who is entitled to a beneficial interest in the land, or who will be entitled to such an interest if the order is made, shall be entitled to appear and be heard on an application for a vesting order, whether or not that person is a party to any contract or arrangement to which the application relates.
     
-    (9) This section shall be read subject to [section 165][255] of this Act, [section 4A][705] of the Maori Vested Lands Administration Act 1954, and [section 10][706] of the Maori Reserved Land Act 1955\.
+    (9) This section shall be read subject to [section 165][255] of this Act, [section 4A][712] of the Maori Vested Lands Administration Act 1954, and [section 10][713] of the Maori Reserved Land Act 1955\.
     
-    Compare: 1953 No 94 s 213; 1974 No 73 s 28(1); 1975 No 135 [s 3][707]
+    Compare: 1953 No 94 s 213; 1974 No 73 s 28(1); 1975 No 135 [s 3][714]
     
-    Section 164(3): amended, on 1 July 2002, by [section 28][708] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 164(3): amended, on 1 July 2002, by [section 28][715] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 164(5): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 164(5): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 165 Vesting of interest held in representative capacity
     
@@ -5062,7 +5090,7 @@ Duties and powers of court in relation to alienations of Maori freehold land
     
     (3) Where more than 1 person is entitled to the land or interest covered by any application under this section, the court, in making orders, may give effect to any arrangement or agreement whereby the interest of any one person entitled is to be vested in any other person entitled; but no person entitled shall be deprived of an interest without that person's consent.
     
-    Compare: 1953 No 94 s 213A; 1974 No 73 s 28(1); 1976 No 148 [s 20(2)][664]
+    Compare: 1953 No 94 s 213A; 1974 No 73 s 28(1); 1976 No 148 [s 20(2)][671]
 
 ##### 166 Other powers of court to make vesting orders preserved
     
@@ -5078,7 +5106,7 @@ Duties and powers of court in relation to alienations of Maori freehold land
     
 *   \[Repealed\]
     
-    Section 168: repealed, on 20 May 1999, by [section 7][613] of the Stamp Duty Abolition Act 1999 (1999 No 61).
+    Section 168: repealed, on 20 May 1999, by [section 7][620] of the Stamp Duty Abolition Act 1999 (1999 No 61).
 
 ## Part 9  
 Powers of assembled owners
@@ -5091,9 +5119,9 @@ Powers of assembled owners
     
     (3) \[Repealed\]
     
-    Compare: 1953 No 94 s 304; 1967 No 124 s 114; 1975 No 135 [s 16][562]
+    Compare: 1953 No 94 s 304; 1967 No 124 s 114; 1975 No 135 [s 16][569]
     
-    Section 169(3): repealed, on 1 July 1994, by [section 10(1)][709] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 169(3): repealed, on 1 July 1994, by [section 10(1)][716] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
 
 ##### 170 Owners and assembled owners defined
     
@@ -5101,13 +5129,13 @@ Powers of assembled owners
     
     (2) In this Part, the term _assembled owners_, in relation to any land, means the owners of the land assembled together in a meeting called and held in accordance with this Part.
     
-    Compare: 1953 No 94 s 305; 1981 No 112 [s 4(1)][710]
+    Compare: 1953 No 94 s 305; 1981 No 112 [s 4(1)][717]
 
 ##### 171 Sale of timber, etc, to constitute alienation for purposes of this Part
     
 *   For the purposes of this Part, a contract of sale of any timber, flax, minerals, or other valuable thing attached to or forming part of any land, or any contract, licence, or grant conferring upon any person (whether by way of agency or otherwise) the right to enter upon any land for the purpose of removing from it any such timber, flax, minerals, or other valuable thing, shall be deemed to be an alienation of that land, unless the thing so sold or agreed to be sold or authorised to be removed has been severed from the land before the contract, licence, or grant is made or granted.
     
-    Compare: 1953 No 94 s 305A; 1956 No 43 [s 3][711]
+    Compare: 1953 No 94 s 305A; 1956 No 43 [s 3][718]
 
 ##### 172 Matters that may be dealt with by assembled owners
     
@@ -5141,7 +5169,7 @@ Powers of assembled owners
     
     Compare: 1953 No 94 s 315(1); 1967 No 124 s 115; 1974 No 73 s 38
     
-    Section 172(c): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 172(c): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 173 Calling of meetings
     
@@ -5239,7 +5267,7 @@ Powers of assembled owners
     
     (2) The provisions of any regulations made under this section that prescribe quorum and voting requirements in relation to resolutions authorising the sale or lease of Maori freehold land shall not apply where the land to which the resolution relates is vested in a Maori incorporation within the meaning of [section 4][6].
     
-    Section 179(2): added, on 1 July 1994, by [section 10(2)][709] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 179(2): added, on 1 July 1994, by [section 10(2)][716] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
 
 ## Part 10  
 Representation of owners of Maori land
@@ -5342,7 +5370,7 @@ Representation of owners of Maori land
     
     Compare: 1974 No 73 s 73(1)--(3)
     
-    Section 183(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 183(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 184 Provisions applicable where meeting of owners to be summoned
     
@@ -5362,7 +5390,7 @@ Representation of owners of Maori land
     
     (3) Where, in pursuance of subsection (2)(b)(i), an application is made to the court for the appointment of any individual or body to be the agent or one of the agents of the owners, the court shall make the order sought unless it is satisfied that the individual or body to whom the application relates does not have sufficient ability, experience, and knowledge to carry out the duties involved satisfactorily, or that it would not be practicable for that person to act as the agent of the owners in the particular case.
     
-    Section 184(3): amended, on 1 July 1994, by [section 22][658] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 184(3): amended, on 1 July 1994, by [section 22][665] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
 
 ##### 185 Appointment of agents for purposes of alienation, etc
     
@@ -5402,7 +5430,7 @@ Representation of owners of Maori land
     
     (5) An agent appointed for any of the purposes specified in subsection (2)(c) shall not be responsible to any alienee in respect of the default of the owners to perform or observe a covenant in the lease.
     
-    Section 185(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 185(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 186 Order of appointment
     
@@ -5416,7 +5444,7 @@ Representation of owners of Maori land
     
     (2) A copy of every such order shall be served on the Māori Trustee, who shall not be competent to exercise any corresponding powers held by the Māori Trustee in respect of the land while the order remains in force.
     
-    Section 186(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 186(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 187 Powers of agents
     
@@ -5428,7 +5456,7 @@ Representation of owners of Maori land
     
     Compare: 1974 No 73 s 74
     
-    Section 187(3): amended, on 1 July 1994, by [section 22][658] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 187(3): amended, on 1 July 1994, by [section 22][665] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
 
 ##### 188 Service of notice on agents
     
@@ -5444,7 +5472,7 @@ Representation of owners of Maori land
     
 *   The court may, on application made to it, make an order in relation to the costs of any agent (other than the Māori Trustee) appointed under [section 183(4)][275] or [section 185(1)][277], as if those costs were incurred in any proceedings of the court, and the provisions of [sections 79 to 82][145] shall, with any necessary modifications, apply accordingly.
     
-    Section 190: amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 190: amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 191 Termination of agency
     
@@ -5468,9 +5496,9 @@ Representation of owners of Maori land
     
     (2) On the termination of the appointment, an agent or (as the case may require) the agent's legal representative shall deliver all money, books of account, and records held by the agent as agent of the owners to the court.
     
-    Section 191(1)(d): substituted, on 1 July 1994, by [section 11][712] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 191(1)(d): substituted, on 1 July 1994, by [section 11][719] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
     
-    Section 191(1A): inserted, on 1 July 1994, by [section 11][712] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 191(1A): inserted, on 1 July 1994, by [section 11][719] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
 
 ## Part 11  
 Leases
@@ -5499,21 +5527,21 @@ Leases
     
     (3) Where [section 209][302] applies in respect of any lease of any land while that land is vested in trustees under [Part 12][303] or in a Maori incorporation (whether that vesting took place before or after the commencement of this Act), that section shall, with any necessary modifications, apply in relation to that lease as if every reference in that section to the Māori Trustee were in each case a reference to those trustees or that Maori incorporation, as the case may require.
     
-    (4) [Section 50][713] of the Maori Trustee Act 1953 shall be read subject to the provisions of this Part.
+    (4) [Section 50][720] of the Maori Trustee Act 1953 shall be read subject to the provisions of this Part.
     
     Section 193: substituted, on 24 June 1996, by section 6(1) of Te Ture Whenua Maori Amendment Act 1996 (1996 No 35).
     
-    Section 193(2): amended, on 1 July 2009, by [section 30(1)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 193(2): amended, on 1 July 2009, by [section 30(1)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 193(2)(a): amended, on 16 September 2011, by [section 12][591] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
+    Section 193(2)(a): amended, on 16 September 2011, by [section 12][598] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
     
-    Section 193(2)(a): amended, on 1 July 2009, by [section 30(1)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 193(2)(a): amended, on 1 July 2009, by [section 30(1)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 193(2)(b): amended, on 1 July 2009, by [section 30(1)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 193(2)(b): amended, on 1 July 2009, by [section 30(1)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 193(2)(c): amended, on 1 July 2009, by [section 30(1)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 193(2)(c): amended, on 1 July 2009, by [section 30(1)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 193(3): amended, on 1 July 2009, by [section 30(1)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 193(3): amended, on 1 July 2009, by [section 30(1)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 194 Leases not to contain option to purchase
     
@@ -5527,9 +5555,9 @@ Leases
     
 *   The powers and duties conferred by [sections 196 to 199][289] shall be exercised or performed by the Māori Trustee if, but only if, the court has not appointed some other person to be the agent of the owners for the purpose pursuant to [section 185][277].
     
-    Section 195 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 195 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 195: amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 195: amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 196 Execution of renewals
     
@@ -5549,13 +5577,13 @@ Leases
     
     Compare: 1953 No 94 s 237; 1962 No 45 s 21
     
-    Section 196(1)(a): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 196(1)(a): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 196(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 196(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 196(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 196(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 196(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 196(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 197 Appointment of valuers for purposes of lease
     
@@ -5565,9 +5593,9 @@ Leases
     
     Compare: 1953 No 94 s 238; 1962 No 45 s 22
     
-    Section 197(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 197(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 197(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 197(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 198 Enforcement of covenants of lease
     
@@ -5579,11 +5607,11 @@ Leases
     
     Compare: 1953 No 94 s 239; 1974 No 73 s 34
     
-    Section 198(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 198(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 198(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 198(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 198(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 198(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 199 Assignment or sublease of lease
     
@@ -5603,15 +5631,15 @@ Leases
     
     (4) \[Repealed\]
     
-    Compare: 1953 No 94 s 239A; 1962 No 45 s 23; 1964 No 46 [s 9][714]
+    Compare: 1953 No 94 s 239A; 1962 No 45 s 23; 1964 No 46 [s 9][721]
     
-    Section 199(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 199(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 199(2)(a): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 199(2)(a): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 199(3): repealed, on 1 July 2002, by [section 58(f)][495] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 199(3): repealed, on 1 July 2002, by [section 58(f)][497] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 199(4): repealed, on 1 July 2002, by [section 58(f)][495] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 199(4): repealed, on 1 July 2002, by [section 58(f)][497] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 200 Execution of instruments
     
@@ -5623,9 +5651,9 @@ Leases
     
     Compare: 1953 No 94 s 240
     
-    Section 200(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 200(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 200(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 200(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 201 Valuations for revision of rent
     
@@ -5649,19 +5677,19 @@ Leases
     
     (6) Until the revised rent has been determined, the lessee shall remain liable to continue paying rent at the then current rate, with an appropriate adjustment to be made between the parties when the revised rent is determined.
     
-    Compare: 1953 No 94 s 249A; 1959 No 90 [s 21][715]; 1975 No 135 [s 4][716]
+    Compare: 1953 No 94 s 249A; 1959 No 90 [s 21][722]; 1975 No 135 [s 4][723]
     
-    Section 201(2): substituted, on 1 July 1998, by [section 54(1)][701] of the Rating Valuations Act 1998 (1998 No 69).
+    Section 201(2): substituted, on 1 July 1998, by [section 54(1)][708] of the Rating Valuations Act 1998 (1998 No 69).
     
-    Section 201(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 201(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 201(2A): inserted, on 1 July 1998, by [section 54(1)][701] of the Rating Valuations Act 1998 (1998 No 69).
+    Section 201(2A): inserted, on 1 July 1998, by [section 54(1)][708] of the Rating Valuations Act 1998 (1998 No 69).
     
-    Section 201(2B): inserted, on 1 July 1998, by [section 54(1)][701] of the Rating Valuations Act 1998 (1998 No 69).
+    Section 201(2B): inserted, on 1 July 1998, by [section 54(1)][708] of the Rating Valuations Act 1998 (1998 No 69).
     
-    Section 201(3): substituted, on 1 July 1998, by [section 54(1)][701] of the Rating Valuations Act 1998 (1998 No 69).
+    Section 201(3): substituted, on 1 July 1998, by [section 54(1)][708] of the Rating Valuations Act 1998 (1998 No 69).
     
-    Section 201 compare note: substituted, on 16 September 2011, by [section 12][591] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
+    Section 201 compare note: substituted, on 16 September 2011, by [section 12][598] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
 
 ##### 202 New rent payable pending objections
     
@@ -5677,13 +5705,13 @@ Leases
         
         
     
-    Section 202(b)(ii): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 202(b)(ii): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 203 Apportionment of rent
     
 *   Where any Maori freehold land or General land owned by Maori is held under 2 or more separate titles but relates to the same lease, the rent received in respect of that land shall be apportioned to the separate areas in such manner as may be fixed by the lease or, where the proportions are not fixed by the lease, in such manner as the Māori Trustee or the court appointed agent considers equitable.
     
-    Section 203: amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 203: amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 204 Service of notices
     
@@ -5715,9 +5743,9 @@ Leases
     
     (2) The provisions of [sections 207 to 209][300] shall not apply to any lease granted---
         
-    *   (a) under Part 25 of the Maori Affairs Act 1953 (before the repeal of that Part by [section 6][717] of the Maori Purposes Act 1970); or
+    *   (a) under Part 25 of the Maori Affairs Act 1953 (before the repeal of that Part by [section 6][724] of the Maori Purposes Act 1970); or
     
-    *   (b) under [Part 2][640] of the Maori Affairs Restructuring Act 1989 or any corresponding former enactment,---
+    *   (b) under [Part 2][647] of the Maori Affairs Restructuring Act 1989 or any corresponding former enactment,---
     
     except so far as they are expressly incorporated in or applied by the lease.
     
@@ -5747,7 +5775,7 @@ Leases
     
     *   (e) the capital value of the land.
     
-    (3) For the purposes of this section, the expressions _capital value_ and _value of improvements_ shall have the meanings given to them respectively by the Valuation of Land Act 1951 (as in force before its repeal by [section 53][718] of the Rating Valuations Act 1998), and, subject to subsections (5) and (6) of this section, every valuation made under this section shall be made in the same manner as if it were a valuation under that Act.
+    (3) For the purposes of this section, the expressions _capital value_ and _value of improvements_ shall have the meanings given to them respectively by the Valuation of Land Act 1951 (as in force before its repeal by [section 53][725] of the Rating Valuations Act 1998), and, subject to subsections (5) and (6) of this section, every valuation made under this section shall be made in the same manner as if it were a valuation under that Act.
     
     (4) Notwithstanding that the meaning of the expressions _capital value_ and _value of improvements_ or either of them may be amended during the currency of any lease, those expressions shall, for the purposes of valuations to be made under this section in respect of that lease, continue to have the meanings assigned to them by the Valuation of Land Act 1951 as at the commencement of the lease.
     
@@ -5765,23 +5793,23 @@ Leases
     
     Compare: 1953 No 94 s 244; 1967 No 124 s 110
     
-    Section 207(1): substituted, on 1 July 1998, by [section 54(1)][701] of the Rating Valuations Act 1998 (1998 No 69).
+    Section 207(1): substituted, on 1 July 1998, by [section 54(1)][708] of the Rating Valuations Act 1998 (1998 No 69).
     
-    Section 207(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 207(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 207(1A): inserted, on 1 July 1998, by [section 54(1)][701] of the Rating Valuations Act 1998 (1998 No 69).
+    Section 207(1A): inserted, on 1 July 1998, by [section 54(1)][708] of the Rating Valuations Act 1998 (1998 No 69).
     
-    Section 207(1B): inserted, on 1 July 1998, by [section 54(1)][701] of the Rating Valuations Act 1998 (1998 No 69).
+    Section 207(1B): inserted, on 1 July 1998, by [section 54(1)][708] of the Rating Valuations Act 1998 (1998 No 69).
     
-    Section 207(2): amended, on 1 July 1998, by [section 54(1)][701] of the Rating Valuations Act 1998 (1998 No 69).
+    Section 207(2): amended, on 1 July 1998, by [section 54(1)][708] of the Rating Valuations Act 1998 (1998 No 69).
     
-    Section 207(3): amended, on 1 July 1998, by [section 54(1)][701] of the Rating Valuations Act 1998 (1998 No 69).
+    Section 207(3): amended, on 1 July 1998, by [section 54(1)][708] of the Rating Valuations Act 1998 (1998 No 69).
     
-    Section 207(5): amended, on 1 July 1998, by [section 54(1)][701] of the Rating Valuations Act 1998 (1998 No 69).
+    Section 207(5): amended, on 1 July 1998, by [section 54(1)][708] of the Rating Valuations Act 1998 (1998 No 69).
     
-    Section 207(6): amended, on 1 July 1998, by [section 54(1)][701] of the Rating Valuations Act 1998 (1998 No 69).
+    Section 207(6): amended, on 1 July 1998, by [section 54(1)][708] of the Rating Valuations Act 1998 (1998 No 69).
     
-    Section 207(7): amended, on 1 July 1998, by [section 54(1)][701] of the Rating Valuations Act 1998 (1998 No 69).
+    Section 207(7): amended, on 1 July 1998, by [section 54(1)][708] of the Rating Valuations Act 1998 (1998 No 69).
 
 ##### 208 Notice of valuation and right of objection
     
@@ -5797,33 +5825,33 @@ Leases
     
     (6) On the filing of any such objection, the Registrar of the court shall forthwith give to the Māori Trustee or the court appointed agent and to the registered valuer notice of the filing of the objection and of the terms of it, and, where the objection is filed by or on behalf of the owners, shall give a like notice to the lessee.
     
-    (7) For the purposes of the foregoing provisions of this section, the expression _the appropriate office of the District Court_ has the same meaning as in [section 2][719] of the Land Valuation Proceedings Act 1948\.
+    (7) For the purposes of the foregoing provisions of this section, the expression _the appropriate office of the District Court_ has the same meaning as in [section 2][726] of the Land Valuation Proceedings Act 1948\.
     
-    (8) All objections made in the manner prescribed by this section are to be heard and determined in similar manner to objections made to valuations under the [Rating Valuations Act 1998][720], and [sections 34][721], [35][722], [36][723], and [38][724] of that Act (and any regulations made under that Act relating to reviews and objections), as far as they are applicable and with all necessary modifications, are to apply to the objection as if---
+    (8) All objections made in the manner prescribed by this section are to be heard and determined in similar manner to objections made to valuations under the [Rating Valuations Act 1998][727], and [sections 34][728], [35][729], [36][730], and [38][731] of that Act (and any regulations made under that Act relating to reviews and objections), as far as they are applicable and with all necessary modifications, are to apply to the objection as if---
         
     *   (a) the registered valuer had been appointed by a territorial authority to review the objection; and
     
-    *   (b) the review had been made under [section 34][721] of that Act; and
+    *   (b) the review had been made under [section 34][728] of that Act; and
     
-    *   (c) the references to a territorial authority in [sections 34(4)][721], [35][722], and [36][723] of that Act were references to the registered valuer.
+    *   (c) the references to a territorial authority in [sections 34(4)][728], [35][729], and [36][730] of that Act were references to the registered valuer.
     
     (9) If, on the hearing of any objection, any alteration in the valuation is made, the registered valuer shall amend the certificate of valuation accordingly.
     
-    Compare: 1953 No 94 s 245; 1968 No 42 [s 15][725]; 1977 No 15 [s 6(6)][726]
+    Compare: 1953 No 94 s 245; 1968 No 42 [s 15][732]; 1977 No 15 [s 6(6)][733]
     
-    Section 208(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 208(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 208(1): amended, on 1 July 1998, by [section 54(1)][701] of the Rating Valuations Act 1998 (1998 No 69).
+    Section 208(1): amended, on 1 July 1998, by [section 54(1)][708] of the Rating Valuations Act 1998 (1998 No 69).
     
-    Section 208(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 208(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 208(6): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 208(6): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 208(6): amended, on 1 July 1998, by [section 54(1)][701] of the Rating Valuations Act 1998 (1998 No 69).
+    Section 208(6): amended, on 1 July 1998, by [section 54(1)][708] of the Rating Valuations Act 1998 (1998 No 69).
     
-    Section 208(8): substituted, on 1 July 1998, by [section 54(1)][701] of the Rating Valuations Act 1998 (1998 No 69).
+    Section 208(8): substituted, on 1 July 1998, by [section 54(1)][708] of the Rating Valuations Act 1998 (1998 No 69).
     
-    Section 208(9): amended, on 1 July 1998, by [section 54(1)][701] of the Rating Valuations Act 1998 (1998 No 69).
+    Section 208(9): amended, on 1 July 1998, by [section 54(1)][708] of the Rating Valuations Act 1998 (1998 No 69).
 
 ##### 209 Record of improvements, etc
     
@@ -5843,13 +5871,13 @@ Leases
     
     Compare: 1953 No 94 s 249; 1967 No 124 s 112
     
-    Section 209(3): substituted, on 1 July 1998, by [section 54(1)][701] of the Rating Valuations Act 1998 (1998 No 69).
+    Section 209(3): substituted, on 1 July 1998, by [section 54(1)][708] of the Rating Valuations Act 1998 (1998 No 69).
     
-    Section 209(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 209(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 209(5): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 209(5): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 209(7): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 209(7): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ## Part 12  
 Trusts
@@ -5874,7 +5902,7 @@ Trusts
     
     _Maori community purposes_, in relation to any trust constituted under this Part, means the purposes specified or authorised by [section 218][313]
     
-    _person under disability_ means any person (not being a patient within the meaning of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][727])---
+    _person under disability_ means any person (not being a patient within the meaning of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][734])---
         
     *   (a) who is a minor; or
     
@@ -5886,9 +5914,9 @@ Trusts
     
     _responsible trustee_, in relation to any trust constituted under this Part, means a trustee who is responsible for the administration of the trust, whether or not the trust property is vested in that trustee.
     
-    Section 210 **person under disability** paragraph (b): repealed, on 10 September 2008, by [section 21(2)][728] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
+    Section 210 **person under disability** paragraph (b): repealed, on 10 September 2008, by [section 21(2)][735] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
     
-    Section 210 **person under disability** paragraph (c): amended, on 1 June 2005, by [section 206][729] of the Corrections Act 2004 (2004 No 50).
+    Section 210 **person under disability** paragraph (c): amended, on 1 June 2005, by [section 206][736] of the Corrections Act 2004 (2004 No 50).
 
 #### Constitution of trusts
 
@@ -6016,7 +6044,7 @@ Trusts
     
     (8) The constitution of an ahu whenua trust shall not affect any person's entitlement to succeed to any beneficial interest in any land vested in the trustees for the purposes of the trust.
     
-    Section 215(5): amended, on 1 July 1994, by [section 12][730] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 215(5): amended, on 1 July 1994, by [section 12][737] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
 
 ##### 216 Whenua topu trusts
     
@@ -6044,7 +6072,7 @@ Trusts
     
     (8) The court shall not make an order under subsection (7) unless it is satisfied that the order is necessary to protect the interests of any owner of a large interest in the land vested or to be vested in the trustees for the purposes of the trust.
     
-    Section 216(2): amended, on 1 July 2002, by [section 29][731] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 216(2): amended, on 1 July 2002, by [section 29][738] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 217 Kai tiaki trusts
     
@@ -6052,7 +6080,7 @@ Trusts
     
     (2) In determining whether or not it should exercise its jurisdiction under this section in relation to any person, the court may have regard to the degree to which the person is subject, or is liable to be subjected, to undue influence in the management of his or her own affairs in relation to his or her property.
     
-    (3) The court shall not constitute a kai tiaki trust in respect of any interests in Maori land or General land or any shares in a Maori incorporation or any personal property in respect of which a property order is in force under the [Protection of Personal and Property Rights Act 1988][732].
+    (3) The court shall not constitute a kai tiaki trust in respect of any interests in Maori land or General land or any shares in a Maori incorporation or any personal property in respect of which a property order is in force under the [Protection of Personal and Property Rights Act 1988][739].
     
     (4) The court shall not constitute a kai tiaki trust in respect of any interests in General land to which a person under disability is beneficially entitled unless that person is Maori.
     
@@ -6126,13 +6154,13 @@ Trusts
     
     (3) Nothing in this section shall prevent the trustees from applying money for the general benefit of a group or class of persons, notwithstanding that the group or class of persons includes persons other than beneficiaries; but no grant or loan shall be made to any individual for that individual's exclusive benefit unless that individual is a beneficiary or a descendant of a beneficiary.
     
-    Section 218(2)(b)(iii): amended, on 1 July 2002, by [section 30][733] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 218(2)(b)(iii): amended, on 1 July 2002, by [section 30][740] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 219 Trust order
     
 *   (1) The court shall, by order, set out the terms of any trust constituted under this Part.
     
-    (2) Notwithstanding anything in this Act or the [Land Transfer Act 1952][498], no trust order made under this Part shall be capable of registration under that Act.
+    (2) Notwithstanding anything in this Act or the [Land Transfer Act 1952][501], no trust order made under this Part shall be capable of registration under that Act.
 
 ##### 220 Vesting order
     
@@ -6140,7 +6168,7 @@ Trusts
     
     (2) The vesting order shall take effect according to its terms to vest the land or other assets in the person or persons named in the order, solely or as joint tenants, as the case may require, without any conveyance, transfer, or other instrument of assurance, together with all rights and remedies (if any) to which the owners were entitled in respect of the land immediately before the vesting but subject to any lease, licence, mortgage, charge, or other encumbrance to which the land or assets may be subject at the date of the making of the order, and the fact that the land or other assets is or are held by that person or those persons on trust shall be stated in the vesting order.
     
-    (3) When a vesting order is made under this section in respect of any customary land, the land included in the order shall, on the making of the order, become subject to the [Land Transfer Act 1952][498]; and thereupon the provisions of [section 139][220] of this Act shall apply as if the vesting order were made under [section 132][213] of this Act.
+    (3) When a vesting order is made under this section in respect of any customary land, the land included in the order shall, on the making of the order, become subject to the [Land Transfer Act 1952][501]; and thereupon the provisions of [section 139][220] of this Act shall apply as if the vesting order were made under [section 132][213] of this Act.
     
     (4) Where the court is satisfied, on the application of the person or persons in whom any land or other assets are vested by an order made under subsection (1), that the whole or part of that land or the whole or part of those assets is to be sold, the court may, if it thinks fit, by order revoke all or any of the trusts in respect of the land or assets to be sold.
     
@@ -6150,7 +6178,7 @@ Trusts
     
 *   (1) This section applies to land or an interest in land that constitutes the whole or part of the property of a trust.
     
-    (2) The trustees of a trust may give a direction that land that is registered or registrable under the [Land Transfer Act 1952][498]---
+    (2) The trustees of a trust may give a direction that land that is registered or registrable under the [Land Transfer Act 1952][501]---
         
     *   (a) be registered in the name of---
             
@@ -6176,7 +6204,7 @@ Trusts
     
     *   (c) evidence of a resolution of beneficiaries approving the direction.
     
-    (5) Subsections (2) and (3) apply despite anything in the [Land Transfer Act 1952][498] or any other Act or rule of law.
+    (5) Subsections (2) and (3) apply despite anything in the [Land Transfer Act 1952][501] or any other Act or rule of law.
     
     (6) If the documents received under subsection (4) comply with that subsection, the Registrar must---
         
@@ -6204,7 +6232,7 @@ Trusts
     
     *   (b) lodged for registration with the Registrar-General of Land.
     
-    Section 220A: inserted, on 1 July 2002, by [section 31][734] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 220A: inserted, on 1 July 2002, by [section 31][741] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 221 Power of court to amalgamate trusts
     
@@ -6222,7 +6250,7 @@ Trusts
     
     (2) Where any 2 or more ahu whenua or whenua topu trust are amalgamated, the income shall be held for such purposes as are specified in the order for the amalgamation of the trusts.
     
-    Section 221(1): substituted, on 1 July 2002, by [section 32][735] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 221(1): substituted, on 1 July 2002, by [section 32][742] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 #### Appointment and powers of trustees
 
@@ -6232,7 +6260,7 @@ Trusts
         
     *   (a) an individual; or
     
-    *   (b) a Maori Trust Board constituted under the [Maori Trust Boards Act 1955][736] or any other enactment, or any body corporate constituted by or under any enactment; or
+    *   (b) a Maori Trust Board constituted under the [Maori Trust Boards Act 1955][743] or any other enactment, or any body corporate constituted by or under any enactment; or
     
     *   (c) a Maori incorporation; or
     
@@ -6240,7 +6268,7 @@ Trusts
     
     *   (e) Public Trust; or
     
-    *   (f) a trustee company within the meaning of the [Trustee Companies Act 1967][633].
+    *   (f) a trustee company within the meaning of the [Trustee Companies Act 1967][640].
     
     (2) The court, in deciding whether to appoint any individual or body to be a trustee of a trust constituted under this Part,---
         
@@ -6254,11 +6282,11 @@ Trusts
     
     (5) For every trust constituted under this Part the court shall appoint 1 or more responsible trustees, and may appoint 1 or more advisory trustees and 1 or more custodian trustees.
     
-    Section 222(1)(d): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 222(1)(d): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 222(1)(e): substituted, on 1 March 2002, by [section 170(1)][515] of the Public Trust Act 2001 (2001 No 100).
+    Section 222(1)(e): substituted, on 1 March 2002, by [section 170(1)][522] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 222(1)(e): amended, on 16 September 2011, by [section 12][591] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
+    Section 222(1)(e): amended, on 16 September 2011, by [section 12][598] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
 
 ##### 223 General functions of responsible trustees
     
@@ -6300,21 +6328,21 @@ Trusts
     
     *   (h) subject to the order creating the trust and to any further order of the court, in any case where remuneration is payable to the responsible trustees, remuneration or commission may be paid to both the responsible trustees and the advisory trustee, the amount to be determined---
             
-        *   (i) where one of the responsible trustees is the Māori Trustee, by or under regulations made under the [Maori Trustee Act 1953][501]; or
+        *   (i) where one of the responsible trustees is the Māori Trustee, by or under regulations made under the [Maori Trustee Act 1953][506]; or
         
         *   (ia) where one of the responsible trustees is Public Trust, in accordance with Public Trust's scale of charges; or
         
-        *   (ii) where one of the responsible trustees is a trustee company within the meaning of the [Trustee Companies Act 1967][633], in accordance with that company's scale of charges; or
+        *   (ii) where one of the responsible trustees is a trustee company within the meaning of the [Trustee Companies Act 1967][640], in accordance with that company's scale of charges; or
         
         *   (iii) in any other case, by the court.
         
         
     
-    Section 224(h)(i): substituted, on 1 March 2002, by [section 170(1)][515] of the Public Trust Act 2001 (2001 No 100).
+    Section 224(h)(i): substituted, on 1 March 2002, by [section 170(1)][522] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 224(h)(i): amended, on 1 July 2009, by [section 30(1)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 224(h)(i): amended, on 1 July 2009, by [section 30(1)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 224(h)(ia): inserted, on 1 March 2002, by [section 170(1)][515] of the Public Trust Act 2001 (2001 No 100).
+    Section 224(h)(ia): inserted, on 1 March 2002, by [section 170(1)][522] of the Public Trust Act 2001 (2001 No 100).
 
 ##### 225 Special provisions where custodian trustee appointed
     
@@ -6348,21 +6376,21 @@ Trusts
     
     *   (k) subject to the order creating the trust and to any further order of the court, in any case where remuneration is payable to the responsible trustees, remuneration or commission may be paid to both the responsible trustees and the custodian trustee, the amount to be determined---
             
-        *   (i) where the custodian trustee is the Māori Trustee, by or under regulations made under the [Maori Trustee Act 1953][501]; or
+        *   (i) where the custodian trustee is the Māori Trustee, by or under regulations made under the [Maori Trustee Act 1953][506]; or
         
         *   (ia) where the custodian trustee is Public Trust, in accordance with Public Trust's scale of charges; or
         
-        *   (ii) where the custodian trustee is a trustee company within the meaning of the [Trustee Companies Act 1967][633], in accordance with that company's scale of charges; or
+        *   (ii) where the custodian trustee is a trustee company within the meaning of the [Trustee Companies Act 1967][640], in accordance with that company's scale of charges; or
         
         *   (iii) in any other case, by the court.
         
         
     
-    Section 225(k)(i): substituted, on 1 March 2002, by [section 170(1)][515] of the Public Trust Act 2001 (2001 No 100).
+    Section 225(k)(i): substituted, on 1 March 2002, by [section 170(1)][522] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 225(k)(i): amended, on 1 July 2009, by [section 30(1)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 225(k)(i): amended, on 1 July 2009, by [section 30(1)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 225(k)(ia): inserted, on 1 March 2002, by [section 170(1)][515] of the Public Trust Act 2001 (2001 No 100).
+    Section 225(k)(ia): inserted, on 1 March 2002, by [section 170(1)][522] of the Public Trust Act 2001 (2001 No 100).
 
 ##### 226 General powers of trustees
     
@@ -6376,17 +6404,17 @@ Trusts
     
     (1A) \[Repealed\]
     
-    (2) Subject to subsection (3), every instrument to be registered under the [Land Transfer Act 1952][498] shall be executed by all the trustees.
+    (2) Subject to subsection (3), every instrument to be registered under the [Land Transfer Act 1952][501] shall be executed by all the trustees.
     
-    (3) Where the court has, under [section 237][337], made an order or given directions in relation to the execution of any instrument (including an instrument to be registered under the [Land Transfer Act 1952][498]) that instrument shall be executed in accordance with that order or those directions, as the case may require, and the Registrar shall send a copy of every such order and of all such directions to the District Land Registrar or the Registrar of Deeds for registration against the title to that land under the Land Transfer Act 1952 or (as the case may require) the [Deeds Registration Act 1908][671].
+    (3) Where the court has, under [section 237][337], made an order or given directions in relation to the execution of any instrument (including an instrument to be registered under the [Land Transfer Act 1952][501]) that instrument shall be executed in accordance with that order or those directions, as the case may require, and the Registrar shall send a copy of every such order and of all such directions to the District Land Registrar or the Registrar of Deeds for registration against the title to that land under the Land Transfer Act 1952 or (as the case may require) the [Deeds Registration Act 1908][678].
     
     (4) The District Land Registrar or the Registrar of Deeds shall register the same accordingly.
     
-    (5) Notwithstanding anything in [section 99][672] of the Land Transfer Act 1952, the production of the outstanding instrument of title shall not be necessary for the purposes of any such registration under that Act.
+    (5) Notwithstanding anything in [section 99][679] of the Land Transfer Act 1952, the production of the outstanding instrument of title shall not be necessary for the purposes of any such registration under that Act.
     
     (6) Where any trustee dissents in writing from the majority decision of the trustees before the decision is implemented, that trustee shall be absolved from any personal liability arising out of the implementation of that decision.
     
-    Section 227(1A): repealed, on 23 May 2008, by [section 4][737] of Te Ture Whenua Maori Amendment Act 2008 (2008 No 35).
+    Section 227(1A): repealed, on 23 May 2008, by [section 4][744] of Te Ture Whenua Maori Amendment Act 2008 (2008 No 35).
 
 ##### 227A Interested trustees
     
@@ -6394,13 +6422,13 @@ Trusts
     
     (2) A trustee must not vote or participate in the discussion on any matter before the trust that directly or indirectly affects that person's remuneration or the terms of that person's employment as a servant or officer of the trust, or that directly or indirectly affects any contract in which that person may be interested or concerned other than as a trustee of another trust.
     
-    Section 227A: inserted, on 1 July 2002, by [section 33][738] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 227A: inserted, on 1 July 2002, by [section 33][745] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 228 Trustees' powers of alienation
     
 *   \[Repealed\]
     
-    Section 228: repealed, on 1 July 2002, by [section 58(g)][495] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 228: repealed, on 1 July 2002, by [section 58(g)][497] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 #### Miscellaneous provisions relating to trusts constituted under this Part
 
@@ -6428,7 +6456,7 @@ Trusts
     
     *   (c) terminate the trust if the court is satisfied that there is a sufficient degree of support for termination among the beneficiaries.
     
-    Section 231: substituted, on 1 July 2002, by [section 34][739] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 231: substituted, on 1 July 2002, by [section 34][746] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 232 Reports of trustees of kai tiaki trusts
     
@@ -6444,13 +6472,13 @@ Trusts
     
     (2) Subsection (1) is subject to any trust order or other order of the court requiring the Māori Trustee in the Māori Trustee's capacity as the trustee of a kai tiaki trust, to file reports on the operations of that trust at intervals shorter than those specified in subsection (1).
     
-    Section 233 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 233 heading: amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 233(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 233(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 233(1)(a): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 233(1)(a): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 233(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 233(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 234 Kai tiaki trusts to be reviewed periodically
     
@@ -6482,7 +6510,7 @@ Trusts
     
     (2) Nothing in subsection (1) shall limit or affect the jurisdiction of the High Court.
     
-    Section 237(1): amended, on 1 July 1994, by [section 22][658] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 237(1): amended, on 1 July 1994, by [section 22][665] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
 
 ##### 238 Enforcement of obligations of trust
     
@@ -6498,7 +6526,7 @@ Trusts
     
     (3) In exercising the powers in subsections (1) and (2), the court may order the vesting of land or other assets of the trust in any person or persons (with the consent of that person or those persons) upon the terms of the trust, whether or not that person was previously a trustee.
     
-    Section 239: substituted, on 1 July 2002, by [section 35][740] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 239: substituted, on 1 July 2002, by [section 35][747] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 240 Removal of trustee
     
@@ -6508,7 +6536,7 @@ Trusts
     
     *   (b) because of lack of competence or prolonged absence, the trustee is or will be incapable of carrying out those duties satisfactorily.
     
-    Section 240: amended, on 1 July 1994, by [section 22][658] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 240: amended, on 1 July 1994, by [section 22][665] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
 
 ##### 241 Termination of trust
     
@@ -6526,7 +6554,7 @@ Trusts
     
     *   (b) any persons who, at the date of the order, are successors of any of the persons who were, at the creation of the trust, the beneficial owners of the land or the part of the land or the interest in the land.
     
-    Section 241(1): amended, on 1 July 1994, by [section 22][658] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 241(1): amended, on 1 July 1994, by [section 22][665] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
 
 ##### 242 Orders for payment of money held in trust
     
@@ -6564,9 +6592,9 @@ Trusts
     
     (8) Where the trustees of a trust constituted under this Part acquire any land out of the original assets of the trust (whether in substitution or by way of exchange for any other land belonging to the trust or otherwise), that land shall, unless the court otherwise orders, form part of, and follow the destination of, the corpus of the trust.
     
-    Section 243(1): amended, on 1 July 1994, by [section 22][658] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 243(1): amended, on 1 July 1994, by [section 22][665] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
     
-    Section 243(7): amended, on 11 April 2001, by [section 11][741] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
+    Section 243(7): amended, on 11 April 2001, by [section 11][748] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
 
 ##### 244 Variation of trust
     
@@ -6580,7 +6608,7 @@ Trusts
     
     *   (b) that there is a sufficient degree of support for the variation among the beneficiaries.
     
-    Section 244: substituted, on 1 July 2002, by [section 36][742] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 244: substituted, on 1 July 2002, by [section 36][749] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 245 Power of court to approve charitable trust
     
@@ -6592,7 +6620,7 @@ Trusts
     
     *   (b) that there is a sufficient degree of support for the proposal among the beneficiaries.
     
-    Section 245(1): amended, on 1 July 1994, by [section 22][658] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 245(1): amended, on 1 July 1994, by [section 22][665] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
 
 ## Part 13  
 Maori incorporations
@@ -6625,11 +6653,11 @@ Maori incorporations
     
     (4) The court may include in any Maori incorporation to be constituted under this section the owners of any other Maori freehold land (to which the application does not relate) if the court is satisfied that the owners of that other land have consented to their inclusion in the manner prescribed by paragraph (a) or paragraph (b) of subsection (2).
     
-    (5) Where an application is made for the incorporation of the owners of 2 or more areas of land that are not held in common ownership, the court may, in order to facilitate the incorporation of the owners, exercise any jurisdiction conferred on it under [section 306][416] or [section 307][418] or [section 308][419].
+    (5) Where an application is made for the incorporation of the owners of 2 or more areas of land that are not held in common ownership, the court may, in order to facilitate the incorporation of the owners, exercise any jurisdiction conferred on it under [section 306][418] or [section 307][420] or [section 308][421].
     
     (6) Notwithstanding anything to the contrary in [section 42][95], an order of incorporation may be made to take effect on a date specified by the court, which may be a date later than the date of the minute of the order entered in the records of the court.
     
-    Compare: 1953 No 94 s 269; 1967 No 124 s 29; 1976 No 148 [s 15][743]
+    Compare: 1953 No 94 s 269; 1967 No 124 s 29; 1976 No 148 [s 15][750]
 
 ##### 248 Terms of order
     
@@ -6671,7 +6699,7 @@ Maori incorporations
     
     Compare: 1967 No 124 s 32(2), (3)
     
-    Section 249(3): amended, on 16 September 2011, by [section 12][591] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
+    Section 249(3): amended, on 16 September 2011, by [section 12][598] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
 
 ##### 250 Effect of order
     
@@ -6685,13 +6713,13 @@ Maori incorporations
     
     (5) No Maori incorporation acting in accordance with its powers and in compliance with this Act or any other Act shall be in breach of trust.
     
-    (6) Subject to any determination made in accordance with [section 256][359] and to any order made in accordance with [section 358][484], all land vested in an incorporation, whether by virtue of the order of incorporation or by virtue of [section 357][483] or otherwise, shall, while so vested, continue to be or be deemed to be Maori freehold land.
+    (6) Subject to any determination made in accordance with [section 256][359] and to any order made in accordance with [section 358][486], all land vested in an incorporation, whether by virtue of the order of incorporation or by virtue of [section 357][485] or otherwise, shall, while so vested, continue to be or be deemed to be Maori freehold land.
     
     (7) The District Land Registrar shall cancel or amend any existing certificate of title that may be necessary to give effect to any order incorporating the owners of any land under this Part.
     
-    Compare: 1953 No 94 ss 275(2), 276(1); 1967 No 124 s 31; 1975 No 135 [s 17(2)][744]
+    Compare: 1953 No 94 ss 275(2), 276(1); 1967 No 124 s 31; 1975 No 135 [s 17(2)][751]
     
-    Section 250(6): substituted, on 1 July 1994, by [section 14][745] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 250(6): substituted, on 1 July 1994, by [section 14][752] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
 
 ##### 251 Inclusion in incorporation of owners of additional Maori land
     
@@ -6709,7 +6737,7 @@ Maori incorporations
     
     (7) Notwithstanding anything to the contrary in [section 42][95], an amending order may be made to take effect on a date specified by the court, which may be a date earlier than the date of the minute of the order entered in the records of the court.
     
-    Compare: 1967 No 124 s 45; 1970 No 120 [s 9(2)][746]; 1975 No 135 [s 16][562]
+    Compare: 1967 No 124 s 45; 1970 No 120 [s 9(2)][753]; 1975 No 135 [s 16][569]
 
 ##### 252 Incorporations may be amalgamated
     
@@ -6733,7 +6761,7 @@ Maori incorporations
     
     (10) Notwithstanding anything to the contrary in [section 42][95], an order of incorporation under this section may be made to take effect on a date specified by the court, which may be a date earlier than the date of the minute of the order entered in the records of the court.
     
-    Compare: 1967 No 124 s 44; 1970 No 120 [s 9(1)][746]
+    Compare: 1967 No 124 s 44; 1970 No 120 [s 9(1)][753]
 
 ##### 253 Capacity and powers of incorporation
     
@@ -6759,13 +6787,13 @@ Maori incorporations
     
 *   \[Repealed\]
     
-    Section 254: repealed, on 1 July 2002, by [section 58(h)][495] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 254: repealed, on 1 July 2002, by [section 58(h)][497] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 255 Certain instruments require noting by Registrar
     
 *   \[Repealed\]
     
-    Section 255: repealed, on 1 July 2002, by [section 58(i)][495] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 255: repealed, on 1 July 2002, by [section 58(i)][497] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 256 Acquisition of land by incorporation
     
@@ -6803,15 +6831,15 @@ Maori incorporations
     
     (5) Where a Maori incorporation acquires any land out of the original land of the incorporation (whether in substitution or by way of exchange for any other land belonging to the incorporation or otherwise), the land so acquired shall, unless the court otherwise orders, form part of the corpus of the incorporation.
     
-    Section 256(4): substituted, on 1 July 1994, by [section 15(1)][747] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 256(4): substituted, on 1 July 1994, by [section 15(1)][754] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
     
-    Section 256(4A): inserted, on 1 July 1994, by [section 15(1)][747] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 256(4A): inserted, on 1 July 1994, by [section 15(1)][754] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
     
-    Section 256(4B): inserted, on 1 July 1994, by [section 15(1)][747] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 256(4B): inserted, on 1 July 1994, by [section 15(1)][754] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
     
-    Section 256(4C): inserted, on 1 July 1994, by [section 15(1)][747] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 256(4C): inserted, on 1 July 1994, by [section 15(1)][754] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
     
-    Section 256(5): amended, on 1 July 1994, by [section 15(2)][747] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 256(5): amended, on 1 July 1994, by [section 15(2)][754] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
 
 ##### 257 Allocation of land to shareholders
     
@@ -6903,9 +6931,9 @@ Maori incorporations
     
     Compare: 1967 No 124 s 38(2)
     
-    Section 264(2)(b): substituted, on 1 July 1994, by [section 16][748] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 264(2)(b): substituted, on 1 July 1994, by [section 16][755] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
     
-    Section 264(2)(c): added, on 1 July 1994, by [section 16][748] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 264(2)(c): added, on 1 July 1994, by [section 16][755] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
 
 ##### 265 Special rules relating to share registration in certain cases
     
@@ -6939,11 +6967,11 @@ Maori incorporations
     
 *   (1) In this section, unless the context otherwise requires,---
     
-    _dividends_ means money payable to any shareholder of a Maori incorporation by way of dividend; and includes any money that is, by this Part, required to be treated as an amount payable to a shareholder by way of dividend; and also includes any money that, pursuant to [section 15A(6)][749] of the Maori Reserved Land Act 1955, has been paid to the incorporation by the Māori Trustee on behalf of an individual beneficial owner to whom it has been allocated
+    _dividends_ means money payable to any shareholder of a Maori incorporation by way of dividend; and includes any money that is, by this Part, required to be treated as an amount payable to a shareholder by way of dividend; and also includes any money that, pursuant to [section 15A(6)][756] of the Maori Reserved Land Act 1955, has been paid to the incorporation by the Māori Trustee on behalf of an individual beneficial owner to whom it has been allocated
     
     _unclaimed dividends_ means dividends in the hands of an incorporation that have been held by it or by a preceding incorporation or body corporate (including the Māori Trustee) for at least 10 years without payment to the shareholder or other person entitled.
     
-    (2) Every Maori incorporation holding dividends that, at any time after the commencement of this Act, become unclaimed dividends, shall, within 12 months after the dividends have become unclaimed dividends, compile a list of the shareholders to whom those dividends are payable, setting out the amount of unclaimed dividends held for each shareholder, and shall transmit the list to the Registrar of the Maori Land Court district who maintains, under [section 279][387], the Register of Maori Incorporations in which particulars of that Maori incorporation are included.
+    (2) Every Maori incorporation holding dividends that, at any time after the commencement of this Act, become unclaimed dividends, shall, within 12 months after the dividends have become unclaimed dividends, compile a list of the shareholders to whom those dividends are payable, setting out the amount of unclaimed dividends held for each shareholder, and shall transmit the list to the Registrar of the Maori Land Court district who maintains, under [section 279][389], the Register of Maori Incorporations in which particulars of that Maori incorporation are included.
     
     (3) The Registrar of the Maori Land Court district shall include the list transmitted to that Registrar under subsection (2) in the Register of Maori Incorporations in such a manner as to show, in relation to the Maori incorporation by which the list was transmitted, the particulars contained in that list.
     
@@ -6955,11 +6983,11 @@ Maori incorporations
     
     (7) If any unclaimed dividends held for a shareholder have been dealt with in the manner provided by subsection (5) and have become the property of the incorporation, any future dividends payable to that shareholder may be similarly dealt with without the necessity of inclusion in a further list of unclaimed dividends, and the provisions of that subsection shall apply accordingly.
     
-    Compare: 1967 No 124 s 47(1), (3), (4), (5); 1977 No 103 [s 6][750]
+    Compare: 1967 No 124 s 47(1), (3), (4), (5); 1977 No 103 [s 6][757]
     
-    Section 267(1) **dividends**: amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 267(1) **dividends**: amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 267(1) **unclaimed dividends**: amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 267(1) **unclaimed dividends**: amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 #### Internal management
 
@@ -6973,7 +7001,7 @@ Maori incorporations
     
     (4) Any alteration or addition so made to the constitution, and the provisions of any replacement constitution, shall, subject to the provisions of this Act and the regulations, be as valid as if originally contained in the constitution and be subject in like manner to alteration by special resolution.
     
-    (5) Every Maori incorporation shall transmit to the Registrar of the Maori Land Court district who maintains, under [section 279][387], the register of Maori incorporations in which particulars of that Maori incorporation are kept a copy of every special resolution made under subsection (3) of this section, together with---
+    (5) Every Maori incorporation shall transmit to the Registrar of the Maori Land Court district who maintains, under [section 279][389], the register of Maori incorporations in which particulars of that Maori incorporation are kept a copy of every special resolution made under subsection (3) of this section, together with---
         
     *   (a) particulars of the date on which and the place at which the meeting of shareholders was held; and
     
@@ -6987,11 +7015,11 @@ Maori incorporations
     
     *   (c) noted in the register of the incorporation concerned by the secretary of that incorporation.
     
-    Section 268: substituted, on 1 July 1994, by [section 17][751] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 268: substituted, on 1 July 1994, by [section 17][758] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
     
-    Section 268(3): amended, on 16 September 2011, by [section 11][752] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
+    Section 268(3): amended, on 16 September 2011, by [section 11][759] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
     
-    Section 268(5): amended, on 16 September 2011, by [section 12][591] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
+    Section 268(5): amended, on 16 September 2011, by [section 12][598] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
 
 ##### 269 Committee of management
     
@@ -7033,7 +7061,7 @@ Maori incorporations
     
     (4) The 2 members of the committee of management shall sign the instrument to which the seal is affixed.
     
-    (5) The provisions of [section 180][753] of the Companies Act 1993 as to the method of contracting apply to a Maori incorporation as if the incorporation were a limited liability company duly incorporated under the provisions of that Act.
+    (5) The provisions of [section 180][760] of the Companies Act 1993 as to the method of contracting apply to a Maori incorporation as if the incorporation were a limited liability company duly incorporated under the provisions of that Act.
     
     (6) The committee of management of a Maori incorporation shall comply with the terms and conditions of any resolution relating to the powers and functions of the incorporation passed at a general meeting of the shareholders of the incorporation.
     
@@ -7041,7 +7069,7 @@ Maori incorporations
     
     Compare: 1967 No 124 ss 42(2), (3), 46(5), 48(3), 57(1), (3)
     
-    Section 270(5): amended, on 5 December 2013, by [section 14][754] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 270(5): amended, on 5 December 2013, by [section 14][761] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 271 Effect of exercise of powers
     
@@ -7051,7 +7079,7 @@ Maori incorporations
     
     (3) No person lending money to a Maori incorporation shall be concerned to inquire as to the necessity for the loan or as to the application of the proceeds of it.
     
-    (4) Where any instrument of alienation purporting to be executed on behalf of a Maori incorporation is presented for registration under the [Land Transfer Act 1952][498], the Registrar shall not be concerned to inquire whether the alienation has been authorised by a resolution of the shareholders duly passed and confirmed by the court in accordance with this Act.
+    (4) Where any instrument of alienation purporting to be executed on behalf of a Maori incorporation is presented for registration under the [Land Transfer Act 1952][501], the Registrar shall not be concerned to inquire whether the alienation has been authorised by a resolution of the shareholders duly passed and confirmed by the court in accordance with this Act.
     
     Compare: 1967 No 124 ss 48(2), 49(2), 56, 57(2)
 
@@ -7061,13 +7089,13 @@ Maori incorporations
     
     (2) Without limiting the powers of the court under [section 269(4)][374], no person shall be appointed or elected or shall continue to hold office as a member of a committee of management who is or becomes---
         
-    *   (a) a person who is subject to a personal order or a property order made under the [Protection of Personal and Property Rights Act 1988][732] or for whom a trustee corporation is acting as manager under [section 32][755] or [33][756] of that Act; or
+    *   (a) a person who is subject to a personal order or a property order made under the [Protection of Personal and Property Rights Act 1988][739] or for whom a trustee corporation is acting as manager under [section 32][762] or [33][763] of that Act; or
     
     *   (b) a bankrupt who has not obtained an order of discharge, or whose order of discharge is suspended for a term not yet expired or is subject to conditions not yet fulfilled; or
     
     *   (c) a person convicted of any offence punishable by imprisonment for a term of 6 months or more, unless that person has served the sentence or otherwise suffered the penalty imposed upon that person.
     
-    (3) However, if a property order is made in respect of a member of a committee of management under [section 30][757] of the Protection of Personal and Property Rights Act 1988,---
+    (3) However, if a property order is made in respect of a member of a committee of management under [section 30][764] of the Protection of Personal and Property Rights Act 1988,---
         
     *   (a) the member does not cease to hold office as a member of the committee by virtue only of the making of that order; but
     
@@ -7081,13 +7109,13 @@ Maori incorporations
     
     Compare: 1967 No 124 s 53(1)--(3)
     
-    Section 272(2)(a): substituted, on 10 September 2008, by [section 21(3)][728] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
+    Section 272(2)(a): substituted, on 10 September 2008, by [section 21(3)][735] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
     
-    Section 272(2)(b): amended, on 1 July 2002, by [section 37][758] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 272(2)(b): amended, on 1 July 2002, by [section 37][765] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 272(3): added, on 10 September 2008, by [section 21(4)][728] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
+    Section 272(3): added, on 10 September 2008, by [section 21(4)][735] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
     
-    Section 272(4): added, on 10 September 2008, by [section 21(4)][728] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
+    Section 272(4): added, on 10 September 2008, by [section 21(4)][735] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
 
 ##### 273 Election of chairman of committee and appointment of secretary
     
@@ -7119,7 +7147,7 @@ Maori incorporations
     
     (2) A member of a committee of management must not vote or participate in the discussion on any matter before the committee that directly or indirectly affects that person's remuneration or the terms of that person's employment as a servant or officer of the incorporation, or that directly or indirectly affects any contract in which that person may be interested or concerned other than as a member of another committee of management.
     
-    Section 274A: inserted, on 1 July 2002, by [section 38][759] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 274A: inserted, on 1 July 2002, by [section 38][766] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 275 Conduct of meetings of shareholders
     
@@ -7149,59 +7177,55 @@ Maori incorporations
     
     Compare: 1967 No 124 s 63
 
-##### 276 Accounts and statement of financial position
+##### 276 Accounting records to be kept
     
-*   (1) Every Maori incorporation shall cause to be kept proper books of account in which shall be kept full, true, and complete accounts of the affairs and transactions of the incorporation.
-    
-    (2) The committee of management of every Maori incorporation shall, within 18 months after the making of the order of incorporation, and subsequently at least once in every calendar year, submit to a general meeting of shareholders a statement of financial performance made up to a date not earlier than 6 months before the meeting, together with a statement of financial position as at the date to which the statement of financial performance is made up.
-    
-    (3) Every statement of financial position of a Maori incorporation shall, when read in conjunction with the statement required by paragraph (c) of subsection (4), give a true and fair view of the state of affairs of the incorporation as at the end of its financial year, and every statement of financial performance of an incorporation shall give a true and fair view of the profit or loss of the incorporation for the financial year.
-    
-    (4) The statement of financial performance shall be annexed to the statement of financial position, and there shall also be annexed or attached to the statement of financial position---
+*   (1) Every Maori incorporation must ensure that there are kept at all times accounting records that---
         
-    *   (a) the auditor's report made pursuant to [section 277][383]; and
+    *   (a) correctly record the transactions of the incorporation; and
     
-    *   (b) a report by the committee of management with respect to the state of the incorporation's affairs and the amount, if any, that it has determined is available for the purposes of [section 259(1)(c)][362]; and
+    *   (b) will enable the incorporation to ensure that the financial statements of the incorporation comply with this Act; and
     
-    *   (c) with respect to the assets of the incorporation, a statement setting forth the estimated current market value of the assets, together with a statement of the liabilities, if any, of the body corporate charged on or relating particularly to those assets.
+    *   (c) will enable the financial statements of the incorporation to be readily and properly audited.
     
-    (5) Notwithstanding subsection (4)(c), where the statement of financial position is prepared on a basis that includes the information specified in that paragraph, no separate statement need be attached.
+    (2) Every Maori incorporation must establish and maintain a satisfactory system of control of its accounting records.
     
-    (6) Where the assets of the incorporation include any interest in land, the current market value of that interest for the purposes of subsection (4)(c) shall, if it is separately valued in the district valuation roll, be deemed to be the capital value of the interest as appearing on that roll.
+    Section 276: replaced, on 1 April 2014, by [section 120][767] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 276A Financial statements must be prepared
     
-    (7) The committee of management of a Maori incorporation must ensure that copies of the statement of financial position, statement of financial performance, and other documents are filed with the Registrar in whose court district the land is situated, for the purpose of public inspection, within 14 days after their submission to a general meeting of shareholders.
+*   (1) The committee of management of every Maori incorporation must, within 18 months after the making of the order of incorporation, and subsequently at least once in every calendar year, submit to a general meeting of shareholders financial statements for a period ending on a date not earlier than 6 months before the meeting.
     
-    (8) Copies filed under subsection (7) must be available for inspection by the public during the office hours of the court on payment of the fee (if any) prescribed for that purpose.
+    (2) The financial statements must be prepared in accordance with,---
+        
+    *   (a) in the case of a specified not-for-profit entity, generally accepted accounting practice; or
     
-    Compare: 1967 No 124 s 58
+    *   (b) in any other case, either generally accepted accounting practice or a non-GAAP standard that applies for the purposes of this section.
     
-    Section 276 heading: amended, on 1 October 1997, pursuant to [section 6(1)][760] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    (3) The financial statements must be accompanied by---
+        
+    *   (a) the auditor's report made under [section 277][385] (if any); and
     
-    Section 276(1): amended, on 23 May 2008, by [section 5][761] of Te Ture Whenua Maori Amendment Act 2008 (2008 No 35).
+    *   (b) a report by the committee of management in respect of the state of the incorporation's affairs and the amount, if any, that the committee has determined is available for the purposes of [section 259(1)(c)][362]; and
     
-    Section 276(2): amended, on 13 December 2006, by [section 14][762] of Te Ture Whenua Maori Amendment Act 2006 (2006 No 76).
+    *   (c) in respect of the assets of the incorporation, a statement setting out the estimated current market value of the assets, together with a statement of the liabilities, if any, of the body corporate charged on or relating particularly to those assets (unless this information is already included in the financial statements).
     
-    Section 276(2): amended, on 1 October 1997, pursuant to [section 6(1)][760] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    (4) If the assets of the incorporation include any interest in land, the current market value of that interest for the purposes of subsection (3)(c) must, if it is separately valued in the district valuation roll, be treated as the capital value of the interest as appearing on that roll.
     
-    Section 276(3): amended, on 13 December 2006, by [section 14][762] of Te Ture Whenua Maori Amendment Act 2006 (2006 No 76).
+    Section 276A: inserted, on 1 April 2014, by [section 120][767] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 276B Financial statements must be filed
     
-    Section 276(3): amended, on 1 October 1997, pursuant to [section 6(1)][760] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+*   (1) The committee of management of a Maori incorporation must ensure that copies of the financial statements and other documents referred to in [section 276A][383] are filed with the Registrar in whose court district the land is situated, for the purpose of public inspection, within 14 days after their submission to a general meeting of shareholders.
     
-    Section 276(4): amended, on 13 December 2006, by [section 14][762] of Te Ture Whenua Maori Amendment Act 2006 (2006 No 76).
+    (2) Copies filed under this section must be available for inspection by the public during the office hours of the court on payment of the fee (if any) prescribed for that purpose.
     
-    Section 276(4): amended, on 1 October 1997, pursuant to [section 6(1)][760] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 276(5): amended, on 1 October 1997, pursuant to [section 6(1)][760] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 276(7): substituted, on 1 July 2002, by [section 39][763] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
-    
-    Section 276(8): added, on 1 July 2002, by [section 39][763] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 276B: inserted, on 1 April 2014, by [section 120][767] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 277 Appointment and duties of auditor
     
 *   (1) The shareholders of a Maori incorporation (except the Maori incorporations referred to in subsection (1A)) shall, at each annual general meeting, appoint an auditor or auditors to hold office from the conclusion of that meeting until the conclusion of the next annual general meeting.
     
-    (1A) This section does not apply to a Maori incorporation that had gross revenue of $25,000 or less for its most recently completed financial year, unless the shareholders of that Maori incorporation resolve by special resolution that the accounts of the Maori incorporation should be audited under this section.
+    (1A) This section does not apply to a Maori incorporation that is not a specified not-for-profit entity unless the shareholders of the Maori incorporation resolve by special resolution that the financial statements of the Maori incorporation should be audited or reviewed under this section.
     
     (2) At any annual general meeting a retiring auditor, however appointed, shall be reappointed without any resolution being passed unless---
         
@@ -7213,57 +7237,55 @@ Maori incorporations
     
     (3) Notwithstanding subsection (2), where notice is given of an intended resolution to appoint some person or persons in place of a retiring auditor, and by reason of the death, incapacity, or disqualification of that person or of all those persons, as the case may be, the resolution cannot be proceeded with, the retiring auditor shall not be automatically reappointed.
     
-    (4) No person shall be appointed as auditor of a Maori incorporation unless that person is a chartered accountant (within the meaning of [section 19][764] of the New Zealand Institute of Chartered Accountants Act 1996), or a member, fellow, or associate of an association of accountants constituted in some part of the Commonwealth outside New Zealand and, by notice in the _Gazette_, for the time being approved for the purpose of the audit of company accounts by the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the [Companies Act 1993][765].
+    (4) No person may be appointed as auditor of a Maori incorporation unless that person is a qualified auditor (within the meaning of [section 35][768] of the Financial Reporting Act 2013). 
     
-    (5) The appointment of a partnership by the firm name to be the auditors of a Maori incorporation shall be deemed to be the appointment of all the persons who are partners in the firm at the time of the appointment.
+    (5) _See_ [sections 37 to 39][769] of the Financial Reporting Act 2013 (which provide for the appointment of a partnership and access to information in relation to a Maori incorporation).
     
-    (6) The auditor shall make a report to the shareholders on the accounts examined by the auditor, and on every statement of financial position and every statement of financial performance submitted to the shareholders in a general meeting during the auditor's tenure of office, and the report shall state---
+    (6) The auditor must---
         
-    *   (a) whether or not the auditor has obtained all the information and explanations that the auditor has required; and
+    *   (a) audit the financial statements that are to be submitted to the shareholders in a general meeting during the auditor's tenure of office; and
     
-    *   (b) whether or not, in the auditor's opinion, proper books of account have been kept by the incorporation so far as appears from the auditor's examination of those books; and
+    *   (b) in carrying out the audit, comply with all applicable auditing and assurance standards.
     
-    *   (c) whether or not, in the auditor's opinion, according to the best of the auditor's information and the explanations given to the auditor, and as shown by the books of the incorporation,---
-            
-        *   (i) the statement of financial position and any statement required by [section 276(4)(c)][382] are properly drawn up so as to give a true and fair view of the state of the incorporation's affairs as at the end of its financial year; and
-        
-        *   (ii) the statement of financial performance is properly drawn up so as to give a true and fair view of the results of the business of the incorporation for its financial year; and
-        
-        
+    (6A) If a Maori incorporation referred to in subsection (1A) has resolved that the financial statements should be reviewed, subsection (6) applies as if the references to an audit were references to a review.
     
-    *   (d) whether or not the share register and index of shareholders required by [section 263][367] to be kept by the incorporation have been duly and correctly kept.
+    (6B) The auditor's report on the financial statements must---
+        
+    *   (a) comply with the requirements of all applicable auditing and assurance standards; and
+    
+    *   (b) state whether or not, in the auditor's opinion, according to the best of the auditor's information and the explanations given to the auditor, and as shown by the accounting records of the incorporation, any statement required by [section 276A(3)(c)][383] is properly drawn up so as to give a true and fair view of the state of the incorporation's affairs as at the end of its financial year; and
+    
+    *   (c) state whether or not the share register and index of shareholders required by [section 263][367] to be kept by the incorporation have been duly and correctly kept.
     
     (7) The auditor's report shall be read before the general meeting of the shareholders and shall be open to inspection by any shareholder.
     
-    (8) Every auditor of a Maori incorporation shall have a right of access at all times to the books and papers of the incorporation, and shall be entitled to require from the officers of the incorporation such information and explanation as the auditor thinks necessary for the performance of the duties of the auditor.
+    (8) \[Repealed\]
     
     (9) The auditor of a Maori incorporation shall be entitled to attend any general meeting of the shareholders, and to receive all notices of and other communications relating to any general meeting that any shareholder is entitled to receive, and to be heard at any general meeting that the auditor attends on any part of the business of the meeting that concerns him or her as an auditor.
     
     Compare: 1967 No 124 s 59
     
-    Section 277(1): amended, on 1 July 2002, by [section 40(1)][766] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 277(1): amended, on 1 July 2002, by [section 40(1)][770] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 277(1A): inserted, on 23 May 2008, by [section 6][767] of Te Ture Whenua Maori Amendment Act 2008 (2008 No 35).
+    Section 277(1A): replaced, on 1 April 2014, by [section 121(1)][771] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 277(4): substituted, on 1 October 1995, by [section 10(3)][626] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 277(4): replaced, on 1 April 2014, by [section 121(2)][771] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 277(4): amended, on 7 July 2010, by [section 10][768] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
+    Section 277(5): replaced, on 1 April 2014, by [section 121(2)][771] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 277(4): amended, on 1 October 1996, by [section 23][769] of the Institute of Chartered Accountants of New Zealand Act 1996 (1996 No 39).
+    Section 277(6): replaced, on 1 April 2014, by [section 121(2)][771] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 277(6): amended, on 13 December 2006, by [section 14][762] of Te Ture Whenua Maori Amendment Act 2006 (2006 No 76).
+    Section 277(6A): inserted, on 1 April 2014, by [section 121(2)][771] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 277(6): amended, on 1 October 1997, pursuant to [section 6(1)][760] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 277(6B): inserted, on 1 April 2014, by [section 121(2)][771] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 277(6)(c)(i): amended, on 1 October 1997, pursuant to [section 6(1)][760] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 277(6)(c)(ii): amended, on 13 December 2006, by [section 14][762] of Te Ture Whenua Maori Amendment Act 2006 (2006 No 76).
+    Section 277(8): repealed, on 1 April 2014, by [section 121(3)][771] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 278 Appointment of share valuer
     
 *   (1) The shareholders of a Maori incorporation shall, at each annual general meeting, appoint a share valuer for the purpose of this section to hold office from the conclusion of that meeting until the conclusion of the next annual general meeting.
     
-    (2) No person shall be so appointed who is not qualified to be appointed as auditor of a Maori incorporation under [section 277][383].
+    (2) No person shall be so appointed who is not qualified to be appointed as auditor of a Maori incorporation under [section 277][385].
     
     (3) The same person may be appointed in respect of any incorporation to the offices of auditor and share valuer.
     
@@ -7279,11 +7301,11 @@ Maori incorporations
     
     Compare: 1967 No 124 s 60
     
-    Section 278(4): amended, on 1 October 1997, pursuant to [section 6(1)][760] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 278(4): amended, on 1 October 1997, pursuant to [section 6(1)][772] of the Financial Reporting Amendment Act 1997 (1997 No 17).
     
-    Section 278(4)(a): amended, on 1 October 1997, pursuant to [section 6(1)][760] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 278(4)(a): amended, on 1 October 1997, pursuant to [section 6(1)][772] of the Financial Reporting Amendment Act 1997 (1997 No 17).
     
-    Section 278(4)(b): amended, on 1 October 1997, pursuant to [section 6(1)][760] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 278(4)(b): amended, on 1 October 1997, pursuant to [section 6(1)][772] of the Financial Reporting Amendment Act 1997 (1997 No 17).
 
 ##### 278A Adjustment of shareholding
     
@@ -7293,7 +7315,7 @@ Maori incorporations
     
     Compare: 1967 No 124 ss 33(1)(d), 37
     
-    Section 278A: inserted, on 1 July 1994, by [section 18][770] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 278A: inserted, on 1 July 1994, by [section 18][773] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
 
 #### Duties and powers of court
 
@@ -7381,13 +7403,13 @@ Maori incorporations
     
     (11) The appointment of any such member may at any time be terminated by the court, notwithstanding that the period for which the member was appointed has not yet expired.
     
-    Compare: 1967 No 144 s 61; 1970 No 120 [s 10][771]
+    Compare: 1967 No 144 s 61; 1970 No 120 [s 10][774]
     
-    Section 280(3)(b): amended, on 1 July 2002, by [section 41(a)][772] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 280(3)(b): amended, on 1 July 2002, by [section 41(a)][775] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 280(3)(c): repealed, on 1 July 2002, by [section 41(b)][772] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 280(3)(c): repealed, on 1 July 2002, by [section 41(b)][775] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 280(7)(h): amended, on 4 October 2013, by [regulation 3(1)][773] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
+    Section 280(7)(h): amended, on 4 October 2013, by [regulation 3(1)][776] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 ##### 281 Power of court to require officers to attend to explain non-compliance with statutory requirements
     
@@ -7397,15 +7419,15 @@ Maori incorporations
     
     *   (aa) failure to comply with [section 274A(2)][380]:
     
-    *   (b) failure to keep accounts as required by [section 276(1)][382]:
+    *   (b) failure to keep accounting records as required by [section 276][382]:
     
-    *   (c) failure to submit to a general meeting of shareholders a statement of financial position and statement of financial performance and such other statements and reports as are required by [section 276][382]:
+    *   (c) failure to submit to a general meeting of shareholders financial statements and such other statements and reports as are required by [section 276A][383]:
     
-    *   (d) failure to file in the court the statement of financial position and other documents as required by [section 276(7)][382]:
+    *   (d) failure to file in the court the financial statements and other documents as required by [section 276B][384]:
     
-    *   (e) failure to appoint an auditor as required by [section 277][383]:
+    *   (e) failure to appoint an auditor as required by [section 277][385]:
     
-    *   (f) failure to transmit a copy of a special resolution to the Registrar in accordance with [section 279(3)][387]:
+    *   (f) failure to transmit a copy of a special resolution to the Registrar in accordance with [section 279(3)][389]:
     
     *   (g) failure to keep, in the prescribed manner, a register of shareholders, and an index of shareholders:
     
@@ -7419,29 +7441,29 @@ Maori incorporations
     
     *   (b) where the officer fails to attend as required by the court under subsection (1) and either the officer fails to give a reason for the officer's non-attendance or the court is not satisfied with the reason given by that officer for the officer's non-attendance,---
     
-    the court may exercise any of the powers conferred on it by [section 280(7)][388].
+    the court may exercise any of the powers conferred on it by [section 280(7)][390].
     
     (3) For the purposes of this section, the expression _officer of an incorporation_ shall include a member of the committee of management of the incorporation, and the secretary of the incorporation.
     
     Compare: 1967 No 124 s 66(1)--(3)
     
-    Section 281(1)(aa): inserted, on 1 July 2002, by [section 42][774] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 281(1)(aa): inserted, on 1 July 2002, by [section 42][777] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 281(1)(c): amended, on 13 December 2006, by [section 14][762] of Te Ture Whenua Maori Amendment Act 2006 (2006 No 76).
+    Section 281(1)(b): replaced, on 1 April 2014, by [section 122][778] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 281(1)(c): amended, on 1 October 1997, pursuant to [section 6(1)][760] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 281(1)(c): replaced, on 1 April 2014, by [section 122][778] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 281(1)(d): amended, on 1 October 1997, pursuant to [section 6(1)][760] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 281(1)(d): replaced, on 1 April 2014, by [section 122][778] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 282 Winding up of incorporation
     
 *   (1) The court may order the winding up of a Maori incorporation---
         
-    *   (a) pursuant to [section 280(7)(g)][388]; or
+    *   (a) pursuant to [section 280(7)(g)][390]; or
     
     *   (b) if a general meeting of shareholders has by special resolution resolved that the incorporation be wound up; or
     
-    *   (c) if default has been made in the submission to a general meeting of shareholders, or in the filing in the court, of the statement of financial position and other documents required by [section 276][382] to be so submitted and filed; or
+    *   (c) if default has been made in the submission to a general meeting of shareholders, or in the filing in the court, of the financial statements and other documents required by [sections 276A][383] and [276B][384] to be so submitted and filed; or
     
     *   (d) if the number of shareholders is reduced below 2; or
     
@@ -7457,7 +7479,7 @@ Maori incorporations
     
     (5) When a liquidator appointed under this section has completed the winding up of the incorporation, the liquidator shall file in the court a full statement of account relating to the course and fulfilment of the winding up and, upon the court being satisfied that the incorporation has been properly wound up, the court shall make---
         
-    *   (a) an order under [section 283(3)][391] in respect of any remaining land vested in the incorporation; and
+    *   (a) an order under [section 283(3)][393] in respect of any remaining land vested in the incorporation; and
     
     *   (b) an order dissolving the incorporation.
     
@@ -7469,9 +7491,9 @@ Maori incorporations
     
     (9) Any liquidator appointed under this section shall be entitled to be paid, out of the income and other assets of the incorporation, such remuneration as the court may order.
     
-    Compare: 1967 No 124 s 65; 1971 No 151 [s 3][775]; 1975 No 135 [s 17(3)][744]
+    Compare: 1967 No 124 s 65; 1971 No 151 [s 3][779]; 1975 No 135 [s 17(3)][751]
     
-    Section 282(1)(c): amended, on 1 October 1997, pursuant to [section 6(1)][760] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 282(1)(c): replaced, on 1 April 2014, by [section 123][780] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 283 Disposal of land on winding up of incorporation
     
@@ -7481,7 +7503,7 @@ Maori incorporations
     
     (3) Subject to subsections (1) and (2), the court may, at any time during the course of the winding up of a Maori incorporation, make an order vesting in the persons beneficially entitled to any or all of the land vested in the incorporation, in accordance with the respective interests of those persons, and the property shall vest in those persons accordingly.
     
-    Section 283(2): amended, on 11 April 2001, by [section 14][776] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
+    Section 283(2): amended, on 11 April 2001, by [section 14][781] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
 
 ##### 284 Regulations
     
@@ -7535,7 +7557,7 @@ Maori incorporations
     
     *   (u) such other matters as are not inconsistent with this Act or with law.
     
-    Section 284(1): substituted, on 1 July 1994, by [section 19][777] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 284(1): substituted, on 1 July 1994, by [section 19][782] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
 
 ## Part 14  
 Title reconstruction and improvement
@@ -7548,7 +7570,7 @@ Title reconstruction and improvement
     
     *   (b) General land owned by Maori; and
     
-    *   (c) any other land that is for the time being subject to [Part 2][640] of the Maori Affairs Restructuring Act 1989\.
+    *   (c) any other land that is for the time being subject to [Part 2][647] of the Maori Affairs Restructuring Act 1989\.
     
     Compare: 1953 No 94 ss 173(2), 186(1)
 
@@ -7600,9 +7622,9 @@ Title reconstruction and improvement
     
     Compare: 1953 No 94 ss 173(1), 174
     
-    Section 288(1): amended, on 1 July 2002, by [section 43(2)][778] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 288(1): amended, on 1 July 2002, by [section 43(2)][783] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 288(4): substituted, on 1 July 2002, by [section 43(1)][778] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 288(4): substituted, on 1 July 2002, by [section 43(1)][783] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 #### Partition
 
@@ -7614,7 +7636,7 @@ Title reconstruction and improvement
     
     *   (b) an order creating or evidencing the title to any 1 or more of such defined parcels.
     
-    (2) Every partition order shall, upon registration in accordance with [section 299][409], constitute the title to the parcel of the several parcels of land included in it, without any transfer or other instrument of assurance being required.
+    (2) Every partition order shall, upon registration in accordance with [section 299][411], constitute the title to the parcel of the several parcels of land included in it, without any transfer or other instrument of assurance being required.
     
     Compare: 1953 No 94 s 176
 
@@ -7632,7 +7654,7 @@ Title reconstruction and improvement
     
     (2) Nothing in this Part shall prevent any such owner from retaining any interest in the residue of the land.
     
-    Compare: 1953 No 94 s 180; 1961 No 129 [s 8][779]
+    Compare: 1953 No 94 s 180; 1961 No 129 [s 8][784]
 
 ##### 291 Discretionary powers of court in making partitions
     
@@ -7642,7 +7664,7 @@ Title reconstruction and improvement
     
     *   (b) in order to give effect to any agreement or arrangement made by the owners concerned, it may allot the share or any of the shares of any owner to any other owner, subject to such conditions as to payment of compensation or otherwise as may have been agreed to.
     
-    (2) Nothing in subsection (1)(a) shall limit the powers conferred on the court by [section 293][403], or to prevent the court from varying the shares of the several owners with their consent, or otherwise from varying their shares within reasonable limits if, in its opinion, a variation is necessary to enable the court to make an equitable partition.
+    (2) Nothing in subsection (1)(a) shall limit the powers conferred on the court by [section 293][405], or to prevent the court from varying the shares of the several owners with their consent, or otherwise from varying their shares within reasonable limits if, in its opinion, a variation is necessary to enable the court to make an equitable partition.
     
     (3) The court shall make vesting orders for the purpose of giving effect to any arrangement made for the purpose of subsection (1)(b).
     
@@ -7678,7 +7700,7 @@ Title reconstruction and improvement
 
 ##### 294 Saving of interests charged on partitioned land
     
-*   If, on the partition of any land, the share or interest of any person in the land is subject to any right, charge, or interest vested in any other person, that right, charge, or interest shall, subject to any apportionment or adjustment made under [section 292][402], attach to and affect the land or interest that is allocated by the partition order to the owner of the first-mentioned share or interest.
+*   If, on the partition of any land, the share or interest of any person in the land is subject to any right, charge, or interest vested in any other person, that right, charge, or interest shall, subject to any apportionment or adjustment made under [section 292][404], attach to and affect the land or interest that is allocated by the partition order to the owner of the first-mentioned share or interest.
     
     Compare: 1953 No 94 s 185
 
@@ -7686,7 +7708,7 @@ Title reconstruction and improvement
     
 *   (1) When a partition order is made, the court may, in that order or in any subsequent order made on the application of any person interested, or of its own motion, apportion or adjust, as between the several parcels into which the land has been partitioned, all rights, obligations, or liabilities arising from any lease, licence, mortgage, or charge to which the land is subject at the date of the partition.
     
-    (2) Every such order of apportionment or adjustment shall have effect according to its tenor in the same manner in all respects as if all necessary transfers, releases, covenants, and other dispositions or agreements had been duly made in that behalf by all persons concerned, and may be registered under the [Land Transfer Act 1952][498] accordingly.
+    (2) Every such order of apportionment or adjustment shall have effect according to its tenor in the same manner in all respects as if all necessary transfers, releases, covenants, and other dispositions or agreements had been duly made in that behalf by all persons concerned, and may be registered under the [Land Transfer Act 1952][501] accordingly.
     
     (3) Subject to subsection (4), the court may exercise its powers of apportionment or adjustment under this section in such manner as it thinks equitable.
     
@@ -7694,7 +7716,7 @@ Title reconstruction and improvement
     
     Compare: 1953 No 94 s 179
     
-    Section 295(2): amended, on 16 September 2011, by [section 12][591] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
+    Section 295(2): amended, on 16 September 2011, by [section 12][598] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
 
 ##### 296 Dwelling sites for Maori
     
@@ -7716,17 +7738,17 @@ Title reconstruction and improvement
     
     (7) On cancelling a vesting order under subsection (4), the court may, if it considers it necessary, make an order under [section 128][208].
     
-    Compare: 1953 No 94 s 440; 1959 No 90 [s 26][780]; 1976 No 73 s 6(1)
+    Compare: 1953 No 94 s 440; 1959 No 90 [s 26][785]; 1976 No 73 s 6(1)
     
-    Section 296(3): amended, on 19 August 2013, by [section 9][781] of the Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20).
+    Section 296(3): amended, on 19 August 2013, by [section 9][786] of the Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20).
     
-    Section 296(3): amended, on 26 April 2005, by [section 7][653] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 296(3): amended, on 26 April 2005, by [section 7][660] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 296(5): substituted, on 1 July 2002, by [section 44][782] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 296(5): substituted, on 1 July 2002, by [section 44][787] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 296(6): substituted, on 1 July 2002, by [section 44][782] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 296(6): substituted, on 1 July 2002, by [section 44][787] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 296(7): added, on 1 July 2002, by [section 44][782] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 296(7): added, on 1 July 2002, by [section 44][787] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 297 Partition orders may be made in respect of land held in trust
     
@@ -7736,7 +7758,7 @@ Title reconstruction and improvement
     
     Compare: 1953 No 94 s 177(1), (1A); 1962 No 45 s 13(1)
     
-    Section 297(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 297(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 298 Partition of combined areas
     
@@ -7748,15 +7770,15 @@ Title reconstruction and improvement
     
     (4) Where, by a partition order under this section, any General land is acquired by a Maori in severalty or in common with any other person or persons (whether or not Maori), it shall, unless otherwise specified in the order, become Maori freehold land.
     
-    (5) For the purpose of giving effect to any order of partition under this section, the court may cancel or vary any existing partition order or other order, although that order has already been registered or provisionally registered under the [Land Transfer Act 1952][498].
+    (5) For the purpose of giving effect to any order of partition under this section, the court may cancel or vary any existing partition order or other order, although that order has already been registered or provisionally registered under the [Land Transfer Act 1952][501].
     
     (6) The provisions of [section 88][155] shall apply with respect to the cancellation or variation of any partition order or other order under this section, and to any consequential amendments required to be made in the register by the District Land Registrar.
     
-    Compare: 1953 No 94 s 182; 1967 No 124 s 137; 1975 No 135 [s 16][562]
+    Compare: 1953 No 94 s 182; 1967 No 124 s 137; 1975 No 135 [s 16][569]
 
 ##### 299 Registration of partition orders
     
-*   (1) When a partition order affects land that is subject to the [Land Transfer Act 1952][498], the following provisions shall apply in respect of the registration of the order under that Act:
+*   (1) When a partition order affects land that is subject to the [Land Transfer Act 1952][501], the following provisions shall apply in respect of the registration of the order under that Act:
         
     *   (a) the Registrar of the court shall forward the order to the District Land Registrar:
     
@@ -7764,7 +7786,7 @@ Title reconstruction and improvement
     
     *   (c) if, when the order is received by the District Land Registrar, the title to the land partitioned is on the provisional register, the order may either be registered against the title in accordance with that Act or embodied in the provisional register as a separate folio of it; in which latter case---
             
-        *   (i) it shall be numbered accordingly, and when so numbered shall, as provided in [section 50][783] of the Land Transfer Act 1952, be deemed duly registered; and
+        *   (i) it shall be numbered accordingly, and when so numbered shall, as provided in [section 50][788] of the Land Transfer Act 1952, be deemed duly registered; and
         
         *   (ii) the original folium relating to the land partitioned shall thereupon be cancelled so far as it relates to the parcel or any parcel included in the partition order; and
         
@@ -7774,11 +7796,11 @@ Title reconstruction and improvement
     
     *   (d) if, when the order is received by the District Land Registrar, the title to the land partitioned has not been registered either finally or provisionally, the partition order shall be embodied in the provisional register, and shall form a separate folium of it, and shall be numbered accordingly, and when so numbered shall be deemed duly registered:
     
-    *   (e) all the provisions of the [Land Transfer Act 1952][498] as to provisional registration shall, subject to this Act and as far as they are applicable, apply to provisional registration under this section:
+    *   (e) all the provisions of the [Land Transfer Act 1952][501] as to provisional registration shall, subject to this Act and as far as they are applicable, apply to provisional registration under this section:
     
     *   (f) the District Land Registrar may retain on the provisional register any title that has been entered on it under this section, so long as the number of owners exceeds 10\.
     
-    (2) The provisions of subsection (1) shall, as far as they are applicable and with any necessary modifications, extend and apply to any partition order that affects the legal title to any land that is not subject to the [Land Transfer Act 1952][498].
+    (2) The provisions of subsection (1) shall, as far as they are applicable and with any necessary modifications, extend and apply to any partition order that affects the legal title to any land that is not subject to the [Land Transfer Act 1952][501].
     
     (3) For the purposes of subsection (1), a partition order shall be deemed to affect the legal title to land notwithstanding that any other person named in the order is so named as a trustee under the terms of a will.
     
@@ -7798,53 +7820,53 @@ Title reconstruction and improvement
     
 *   (1) This section applies to every partition of land by the court except for a partition into parcels to be held by owners who are members of the same hapu.
     
-    (2) Subject to the provisions of this section, the court shall not partition any land to which this section applies, otherwise than in accordance with the [Resource Management Act 1991][784].
+    (2) Subject to the provisions of this section, the court shall not partition any land to which this section applies, otherwise than in accordance with the [Resource Management Act 1991][789].
     
     (3) Without limiting subsection (2),---
         
-    *   (a) a partition of land shall be deemed to be a subdivision of land within the meaning of [section 218][785] of the Resource Management Act 1991; and
+    *   (a) a partition of land shall be deemed to be a subdivision of land within the meaning of [section 218][790] of the Resource Management Act 1991; and
     
-    *   (b) [sections 120][786] and [121][787] of the Resource Management Act 1991 (relating to appeals to the Environment Court) shall apply to any decision of a territorial authority in relation to any application for a subdivision consent that is required by this section.
+    *   (b) [sections 120][791] and [121][792] of the Resource Management Act 1991 (relating to appeals to the Environment Court) shall apply to any decision of a territorial authority in relation to any application for a subdivision consent that is required by this section.
     
-    Compare: 1953 No 94 s 432(1)--(3); 1991 No 69 [s 362][507]
+    Compare: 1953 No 94 s 432(1)--(3); 1991 No 69 [s 362][513]
     
-    Section 301(3)(b): amended, on 1 July 2002, by [section 45][788] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 301(3)(b): amended, on 1 July 2002, by [section 45][793] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 302 Contributions for reserve purposes
     
-*   (1) Notwithstanding anything in [section 301][411] or in the [Resource Management Act 1991][784], where the court partitions any land to which section 301 of this Act applies, any condition imposed by the court and requiring a contribution of land for reserve purposes or land in lieu of reserves shall only require any such land to be set aside from that part of the land that is to be alienated.
+*   (1) Notwithstanding anything in [section 301][413] or in the [Resource Management Act 1991][789], where the court partitions any land to which section 301 of this Act applies, any condition imposed by the court and requiring a contribution of land for reserve purposes or land in lieu of reserves shall only require any such land to be set aside from that part of the land that is to be alienated.
     
-    (2) Notwithstanding anything in [section 301][411] or in the [Resource Management Act 1991][784], in relation to any partition of land to which section 301 of this Act applies,---
+    (2) Notwithstanding anything in [section 301][413] or in the [Resource Management Act 1991][789], in relation to any partition of land to which section 301 of this Act applies,---
         
     *   (a) the court must not impose any condition requiring a contribution of land for reserve purposes or in lieu of reserves from land that is of special historical significance or spiritual or emotional association with the Maori people or any group or section of the Maori people, which includes all land that is a wahi tapu; and
     
-    *   (b) the Registrar-General of Land and Registrar of Deeds must not require, under [Part 10][789] of the Resource Management Act 1991, the deposit of a survey plan for the partition.
+    *   (b) the Registrar-General of Land and Registrar of Deeds must not require, under [Part 10][794] of the Resource Management Act 1991, the deposit of a survey plan for the partition.
     
     (3) \[Repealed\]
     
-    Compare: 1953 No 94 s 432(4), (5); 1991 No 69 [s 362][507]
+    Compare: 1953 No 94 s 432(4), (5); 1991 No 69 [s 362][513]
     
-    Section 302(2)(a): substituted, on 1 July 2002, by [section 46(1)][790] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 302(2)(a): substituted, on 1 July 2002, by [section 46(1)][795] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 302(2)(b): substituted, on 1 July 2002, by [section 46(1)][790] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 302(2)(b): substituted, on 1 July 2002, by [section 46(1)][795] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 302(3): repealed, on 1 July 2002, by [section 46(2)][790] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 302(3): repealed, on 1 July 2002, by [section 46(2)][795] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 303 Subdivision consent and conditions of subdivision consent
     
-*   (1) Subject to subsection (2), the court may make a partition order to which [section 301][411] applies in respect of any land if a subdivision consent under the [Resource Management Act 1991][784] has been obtained for the partition and the consent has not lapsed.
+*   (1) Subject to subsection (2), the court may make a partition order to which [section 301][413] applies in respect of any land if a subdivision consent under the [Resource Management Act 1991][789] has been obtained for the partition and the consent has not lapsed.
     
     (2) The court must---
         
-    *   (a) make such orders as it considers necessary, having regard to [Part 10][789] of the Resource Management Act 1991, to ensure that, in respect of any conditions of the subdivision consent that have not been complied with, adequate provision is made for such compliance; and
+    *   (a) make such orders as it considers necessary, having regard to [Part 10][794] of the Resource Management Act 1991, to ensure that, in respect of any conditions of the subdivision consent that have not been complied with, adequate provision is made for such compliance; and
     
-    *   (b) have regard to [sections 229 to 237H][791] of the Resource Management Act 1991 in respect of every partition of land to which [section 301][411] applies.
+    *   (b) have regard to [sections 229 to 237H][796] of the Resource Management Act 1991 in respect of every partition of land to which [section 301][413] applies.
     
-    (3) Any land that would be required to be set apart, reserved, or vested in another person, because of subsection (2), must be set apart as a Maori reservation, for the common use and benefit of the people of New Zealand, despite anything in the [Resource Management Act 1991][784].
+    (3) Any land that would be required to be set apart, reserved, or vested in another person, because of subsection (2), must be set apart as a Maori reservation, for the common use and benefit of the people of New Zealand, despite anything in the [Resource Management Act 1991][789].
     
     (4) Land to which subsection (3) applies must be treated---
         
-    *   (a) as if it were land set apart under [section 338(1)][461] and [section 340(1)][464]; and
+    *   (a) as if it were land set apart under [section 338(1)][463] and [section 340(1)][466]; and
     
     *   (b) as if the procedural requirements of those subsections had been satisfied.
     
@@ -7858,19 +7880,19 @@ Title reconstruction and improvement
     
     (9) On the completion of any vesting order made by the court for the purposes of this section, the Registrar must forward the order to the Registrar-General of Land who must register the order.
     
-    Compare: 1953 No 94 s 422(6)--(14); 1991 No 69 [s 362][507]
+    Compare: 1953 No 94 s 422(6)--(14); 1991 No 69 [s 362][513]
     
-    Section 303(2): substituted, on 1 July 2002, by [section 47(1)][792] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 303(2): substituted, on 1 July 2002, by [section 47(1)][797] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 303(3): substituted, on 1 July 2002, by [section 47(1)][792] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 303(3): substituted, on 1 July 2002, by [section 47(1)][797] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 303(4): substituted, on 1 July 2002, by [section 47(1)][792] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 303(4): substituted, on 1 July 2002, by [section 47(1)][797] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 303(5): substituted, on 1 July 2002, by [section 47(1)][792] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 303(5): substituted, on 1 July 2002, by [section 47(1)][797] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 303(8): repealed, on 1 July 2002, by [section 47(2)][792] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 303(8): repealed, on 1 July 2002, by [section 47(2)][797] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 303(9): substituted, on 1 July 2002, by [section 47(3)][792] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 303(9): substituted, on 1 July 2002, by [section 47(3)][797] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 304 Power to impose restrictions in respect of other partitions
     
@@ -7882,13 +7904,13 @@ Title reconstruction and improvement
         
     *   (a) may, if it considers it appropriate, publicly notify the application and invite submissions from the territorial authority and any other person who is likely to be affected by the application; and
     
-    *   (b) may confirm or refuse to confirm the sale under [section 152][241], having regard to [sections 229 to 237H][791] of the Resource Management Act 1991 and the fact that the land has previously been partitioned without a subdivision consent being obtained under that Act.
+    *   (b) may confirm or refuse to confirm the sale under [section 152][241], having regard to [sections 229 to 237H][796] of the Resource Management Act 1991 and the fact that the land has previously been partitioned without a subdivision consent being obtained under that Act.
     
-    (4) If an application involves the sale of land to persons who are not members of the same hapu, and the court decides under subsection (3) that land is required to be set apart, reserved, or vested in another person, the court must set that land apart as a Maori reservation, for the common use and benefit of the people of New Zealand, despite anything in the [Resource Management Act 1991][784].
+    (4) If an application involves the sale of land to persons who are not members of the same hapu, and the court decides under subsection (3) that land is required to be set apart, reserved, or vested in another person, the court must set that land apart as a Maori reservation, for the common use and benefit of the people of New Zealand, despite anything in the [Resource Management Act 1991][789].
     
     (5) Land to which subsection (4) applies must be treated---
         
-    *   (a) as if it were land set apart under [section 338(1)][461] and [section 340(1)][464]; and
+    *   (a) as if it were land set apart under [section 338(1)][463] and [section 340(1)][466]; and
     
     *   (b) as if the procedural requirements of those subsections had been satisfied.
     
@@ -7900,29 +7922,29 @@ Title reconstruction and improvement
     
     (7) \[Repealed\]
     
-    Compare: 1953 No 94 s 432A; 1991 No 69 [s 362][507]
+    Compare: 1953 No 94 s 432A; 1991 No 69 [s 362][513]
     
-    Section 304(2): amended, on 1 July 2002, by [section 48(1)][793] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 304(2): amended, on 1 July 2002, by [section 48(1)][798] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 304(3): substituted, on 1 July 2002, by [section 48(2)][793] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 304(3): substituted, on 1 July 2002, by [section 48(2)][798] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 304(4): substituted, on 1 July 2002, by [section 48(2)][793] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 304(4): substituted, on 1 July 2002, by [section 48(2)][798] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 304(5): substituted, on 1 July 2002, by [section 48(2)][793] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 304(5): substituted, on 1 July 2002, by [section 48(2)][798] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 304(6): substituted, on 1 July 2002, by [section 48(2)][793] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 304(6): substituted, on 1 July 2002, by [section 48(2)][798] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 304(7): repealed, on 1 July 2002, by [section 48(2)][793] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 304(7): repealed, on 1 July 2002, by [section 48(2)][798] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 305 Reserves contributions, roads, etc
     
 *   \[Repealed\]
     
-    Section 305: repealed, on 1 July 2002, by [section 58(j)][495] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 305: repealed, on 1 July 2002, by [section 58(j)][497] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 306 Cancellation of partition orders
     
-*   (1) Subject to the provisions of this section, the court may at any time cancel, wholly or in part, any partition order made under this Act or under the corresponding provisions of any former Act, whether or not that order has been registered under the [Land Transfer Act 1952][498].
+*   (1) Subject to the provisions of this section, the court may at any time cancel, wholly or in part, any partition order made under this Act or under the corresponding provisions of any former Act, whether or not that order has been registered under the [Land Transfer Act 1952][501].
     
     (2) If the whole of the land comprised in the order has been acquired by the present owner or that owner's predecessor in title by any alienation, the court shall not cancel an order under this section without the consent of the present owner.
     
@@ -7940,15 +7962,15 @@ Title reconstruction and improvement
     
 *   (1) Where the court is satisfied that any land to which this Part applies, and that comprises 2 or more areas held under separate titles, can be more conveniently worked or dealt with as if it were held in common ownership under 1 title, the court may cancel the several titles under which the land is held and make an amalgamation order substituting for those titles 1 title for the whole of the land.
     
-    (2) An amalgamation order shall not be made in respect of any land that is for the time being subject to [Part 2][640] of the Maori Affairs Restructuring Act 1989 without the consent of the chief executive.
+    (2) An amalgamation order shall not be made in respect of any land that is for the time being subject to [Part 2][647] of the Maori Affairs Restructuring Act 1989 without the consent of the chief executive.
     
     (3) Where the whole of the land comprised in any separate title is subject to any lease, licence, mortgage, charge, or other encumbrance, the court shall not make an amalgamation order without the consent of the lessee, licensee, mortgagee, or other person entitled to the benefit of the encumbrance, unless it is satisfied that the rights and interests of that person would not be detrimentally affected by the making of the order.
     
-    (4) Where an order is made in respect of land subject to any lease, licence, mortgage, or other encumbrance, the court may make such order as it thinks proper for the apportionment or adjustment of the rights and obligations of any person under any such lease, licence, mortgage, or other encumbrance; and every order of apportionment or adjustment shall have effect according to its tenor in the same manner in all respects as if all necessary transfers, releases, covenants, and other dispositions or agreements had been duly made in that behalf by all persons concerned, and may be registered under the [Land Transfer Act 1952][498] accordingly.
+    (4) Where an order is made in respect of land subject to any lease, licence, mortgage, or other encumbrance, the court may make such order as it thinks proper for the apportionment or adjustment of the rights and obligations of any person under any such lease, licence, mortgage, or other encumbrance; and every order of apportionment or adjustment shall have effect according to its tenor in the same manner in all respects as if all necessary transfers, releases, covenants, and other dispositions or agreements had been duly made in that behalf by all persons concerned, and may be registered under the [Land Transfer Act 1952][501] accordingly.
     
     (5) Notwithstanding anything to the contrary in [section 41][94], an amalgamation order may be made to take effect on a date specified by the court, which may be a date earlier or later than the date of the minute of the order entered in the records of the court.
     
-    (6) Subject to subsection (7), every amalgamation order shall, upon registration under the [Land Transfer Act 1952][498], constitute the title to the land included in it, without any transfer or other instrument of assurance.
+    (6) Subject to subsection (7), every amalgamation order shall, upon registration under the [Land Transfer Act 1952][501], constitute the title to the land included in it, without any transfer or other instrument of assurance.
     
     (7) Where the land is vested in trust for the owners in the Māori Trustee or any other person, the order shall affect only the equitable estate of the beneficial owners.
     
@@ -7960,29 +7982,29 @@ Title reconstruction and improvement
     
     *   (c) in any other case, the whole of the land comprised in the order shall be Crown land.
     
-    (9) The provisions of [section 299][409] relating to the registration of partition orders, so far as they are applicable and with any necessary modifications, shall apply to the registration of amalgamation orders made under this section.
+    (9) The provisions of [section 299][411] relating to the registration of partition orders, so far as they are applicable and with any necessary modifications, shall apply to the registration of amalgamation orders made under this section.
     
-    Compare: 1953 No 94 s 435(1), (3), (6)--(10); 1967 No 124 s 141(1); 1974 No 73 s 52(3); 1975 No 135 [s 16(1)][562]
+    Compare: 1953 No 94 s 435(1), (3), (6)--(10); 1967 No 124 s 141(1); 1974 No 73 s 52(3); 1975 No 135 [s 16(1)][569]
     
-    Section 307(1): amended, on 1 July 1994, by [section 22][658] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 307(1): amended, on 1 July 1994, by [section 22][665] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
     
-    Section 307(7): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 307(7): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ##### 308 Aggregation orders
     
 *   (1) Where the court is satisfied that any 2 or more areas of land to which this Part applies could be more conveniently worked or dealt with if they were held in common ownership, but that there is no reason to cancel the existing titles, it may make an aggregation order vesting the areas of land in the aggregate of the owners of those areas.
     
-    (2) Upon registration under the [Land Transfer Act 1952][498], an aggregation order made under this section shall take effect according to its tenor to vest the land described in the order in the persons and in the shares named in the order.
+    (2) Upon registration under the [Land Transfer Act 1952][501], an aggregation order made under this section shall take effect according to its tenor to vest the land described in the order in the persons and in the shares named in the order.
     
     (3) Any Crown land that, pursuant to this section, is vested in any Maori shall thereupon become Maori freehold land and the aggregation order shall so state.
     
-    (4) Subject to subsection (5), the court may at any time cancel any aggregation order made under this section or under the corresponding provisions of any former enactment, whether or not that order has been registered under the [Land Transfer Act 1952][498]; and, in every such case,---
+    (4) Subject to subsection (5), the court may at any time cancel any aggregation order made under this section or under the corresponding provisions of any former enactment, whether or not that order has been registered under the [Land Transfer Act 1952][501]; and, in every such case,---
         
     *   (a) each area of the land comprised in the order shall be deemed to be held by those persons who held it at the time of the making of the order or by their successors in title, and in the same relative shares; and
     
-    *   (b) [section 306(5)][416] shall apply, with any necessary modifications, as if the aggregation order were a partition order.
+    *   (b) [section 306(5)][418] shall apply, with any necessary modifications, as if the aggregation order were a partition order.
     
-    (5) Despite subsection (4), but subject to subsections (6) and (7), the provisions of [section 293][403] relating to the court's power to award, in a partition order, compensation for improvements effected on the land to which the order relates apply, with any necessary modifications, to the cancellation of any aggregation order under this section.
+    (5) Despite subsection (4), but subject to subsections (6) and (7), the provisions of [section 293][405] relating to the court's power to award, in a partition order, compensation for improvements effected on the land to which the order relates apply, with any necessary modifications, to the cancellation of any aggregation order under this section.
     
     (6) Where land that will be affected by the cancellation of an aggregation order is---
         
@@ -7992,41 +8014,41 @@ Title reconstruction and improvement
     
     the court may not exercise the power conferred on the court by subsection (5) unless it has first consulted the trustees or the management committee of the incorporation, as the case may require.
     
-    (7) The court may not, under [section 293(1)][403] (as applied by subsection (5)), award additional land to any owner unless it is satisfied that the owner of the additional land has been given a reasonable opportunity of recompensing the owner who effected the improvements that would be the basis for the award of additional land.
+    (7) The court may not, under [section 293(1)][405] (as applied by subsection (5)), award additional land to any owner unless it is satisfied that the owner of the additional land has been given a reasonable opportunity of recompensing the owner who effected the improvements that would be the basis for the award of additional land.
     
     Compare: 1953 No 94 s 434A; 1974 No 73 s 58
     
-    Section 308(4): amended, on 11 April 2001, by [section 15(1)][794] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
+    Section 308(4): amended, on 11 April 2001, by [section 15(1)][799] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
     
-    Section 308(5): added, on 11 April 2001, by [section 15(2)][794] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
+    Section 308(5): added, on 11 April 2001, by [section 15(2)][799] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
     
-    Section 308(6): added, on 11 April 2001, by [section 15(2)][794] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
+    Section 308(6): added, on 11 April 2001, by [section 15(2)][799] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
     
-    Section 308(7): added, on 11 April 2001, by [section 15(2)][794] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
+    Section 308(7): added, on 11 April 2001, by [section 15(2)][799] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
 
 ##### 309 Orders to specify relative interests of owners
     
 *   (1) Every amalgamation order and every aggregation order shall set forth the relative interests of the several owners of the land, which, subject to subsection (3), shall be calculated by reference to the relative values of the interests to which they were entitled before the making of the order.
     
-    (2) For the purposes of calculating those relative values, the court may, if it thinks it equitable to do so, adopt values, whether capital or land values, other than those appearing in the district valuation roll for the time being in force under the [Rating Valuations Act 1998][720].
+    (2) For the purposes of calculating those relative values, the court may, if it thinks it equitable to do so, adopt values, whether capital or land values, other than those appearing in the district valuation roll for the time being in force under the [Rating Valuations Act 1998][727].
     
     (3) Instead of calculating the relative interests of the owners by reference to the relative values of the interests to which they were entitled before the making of the order, the court may calculate the relative interests in accordance with any understanding or arrangement between the several groups of owners as to a basis of amalgamation otherwise than as specified in subsection (2), if it is satisfied that the basis is, in all the circumstances, equitable.
     
-    Compare: 1953 No 94 s 435(4), (5); 1967 No 124 s 141(1); 1982 No 124 [s 4(5)][795]
+    Compare: 1953 No 94 s 435(4), (5); 1967 No 124 s 141(1); 1982 No 124 [s 4(5)][800]
     
-    Section 309(2): amended, on 1 July 1998, by [section 54(1)][701] of the Rating Valuations Act 1998 (1998 No 69).
+    Section 309(2): amended, on 1 July 1998, by [section 54(1)][708] of the Rating Valuations Act 1998 (1998 No 69).
 
 #### Exchange orders
 
 ##### 310 Court may make exchange orders
     
-*   (1) For the purpose of giving effect to the exchange of any land to which this Part applies, or of any interest in any such land, for any other land (whether land to which this Part applies or not), or for any other interest in land, the court may make exchange orders in accordance with [sections 311 to 314][423].
+*   (1) For the purpose of giving effect to the exchange of any land to which this Part applies, or of any interest in any such land, for any other land (whether land to which this Part applies or not), or for any other interest in land, the court may make exchange orders in accordance with [sections 311 to 314][425].
     
-    (2) Nothing in this section or in [sections 311 to 314][423] shall prevent the alienation of any Maori freehold land by way of exchange in any manner in which such an alienation could be effected otherwise than under this section and those sections.
+    (2) Nothing in this section or in [sections 311 to 314][425] shall prevent the alienation of any Maori freehold land by way of exchange in any manner in which such an alienation could be effected otherwise than under this section and those sections.
     
     (3) None of the provisions contained in any other Part with respect to the alienation of Maori freehold land, except [section 148][231], shall apply to an exchange under this Part.
     
-    Compare: 1953 No 94 ss 187, 188; 1975 No 135 [s 16(1)][562]
+    Compare: 1953 No 94 ss 187, 188; 1975 No 135 [s 16(1)][569]
 
 ##### 311 Land and interests that may be exchanged
     
@@ -8034,9 +8056,9 @@ Title reconstruction and improvement
     
     (2) Any General land owned by Maori, or any interest in any such land, may be exchanged under this Part for any other General land, or for any other interest in General land, whether or not owned by Maori.
     
-    (3) Any Maori freehold land, or any interest in any such land, may be exchanged under this Part for any Crown land that is subject to [Part 2][640] of the Maori Affairs Restructuring Act 1989, or for any interest in any such land.
+    (3) Any Maori freehold land, or any interest in any such land, may be exchanged under this Part for any Crown land that is subject to [Part 2][647] of the Maori Affairs Restructuring Act 1989, or for any interest in any such land.
     
-    Compare: 1953 No 94 s 189; 1975 No 135 [s 16(1)][562]
+    Compare: 1953 No 94 s 189; 1975 No 135 [s 16(1)][569]
 
 ##### 312 Conditions precedent to making of exchange orders
     
@@ -8058,9 +8080,9 @@ Title reconstruction and improvement
     
     (2) When any General land becomes vested in any Maori or in a trustee for any Maori for an estate in fee simple, whether legal or equitable, in exchange for Maori freehold land in accordance with this Part, the General land so exchanged shall thereupon become Maori freehold land.
     
-    Compare: 1953 No 94 s 191; 1975 No 135 [s 16(1)][562]
+    Compare: 1953 No 94 s 191; 1975 No 135 [s 16(1)][569]
     
-    Section 313(1): amended, on 16 September 2011, by [section 12][591] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
+    Section 313(1): amended, on 16 September 2011, by [section 12][598] of the Te Ture Whenua Maori Amendment Act 2011 (2011 No 76).
 
 ##### 314 Money payable by way of equality of exchange to be charge on land
     
@@ -8088,15 +8110,15 @@ Title reconstruction and improvement
     
     (3) Where an easement is granted under this section for the purpose of providing access to any other land, the grant of the easement shall be made in accordance with the succeeding provisions of this Part.
     
-    Compare: 1953 No 94 s 30(1)(j)(i), (4), (5); 1960 No 120 [s 5][538]; 1975 No 135 [s 16(1)][562]
+    Compare: 1953 No 94 s 30(1)(j)(i), (4), (5); 1960 No 120 [s 5][545]; 1975 No 135 [s 16(1)][569]
 
 ##### 315A Court may cancel or vary easements
     
-*   (1) The court may, on application, vary or cancel an easement created under [section 315][428] except an easement granted for the purpose stated in section 315(3).
+*   (1) The court may, on application, vary or cancel an easement created under [section 315][430] except an easement granted for the purpose stated in section 315(3).
     
     (2) The court may vary or cancel an easement under this section even though the land subject to the easement has ceased to be land to which this Part applies.
     
-    Section 315A: inserted, on 1 July 2002, by [section 49][796] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 315A: inserted, on 1 July 2002, by [section 49][801] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 316 Court may lay out roadways
     
@@ -8108,7 +8130,7 @@ Title reconstruction and improvement
     
     (4) Any order laying out roadways may be a separate order, or may be incorporated in a partition order or other appropriate order of the court.
     
-    Compare: 1953 No 94 ss 415(1), (2), 418--420; 1975 No 135 [s 16(1)][562]
+    Compare: 1953 No 94 ss 415(1), (2), 418--420; 1975 No 135 [s 16(1)][569]
 
 ##### 317 Required consents
     
@@ -8124,13 +8146,13 @@ Title reconstruction and improvement
     
     (6) The court shall not lay out roadways connecting with any public road without the consent of the territorial authority for the district in which the connection would be effected.
     
-    (7) Notwithstanding anything in subsections (5) and (6), where a roadway is laid off as part of a partition to which [section 301][411] applies, a separate consent to the laying out of the roadway shall not be required from the territorial authority for the district in which the land to be partitioned is situated.
+    (7) Notwithstanding anything in subsections (5) and (6), where a roadway is laid off as part of a partition to which [section 301][413] applies, a separate consent to the laying out of the roadway shall not be required from the territorial authority for the district in which the land to be partitioned is situated.
     
-    Compare: 1953 No 94 ss 415(3), 418(2), 419, 420; 1967 No 124 s 22; 1972 No 135 [s 4(1)][797]; 1975 No 135 [s 16(1)][562]; 1978 No 43 [s 3(4)][506]
+    Compare: 1953 No 94 ss 415(3), 418(2), 419, 420; 1967 No 124 s 22; 1972 No 135 [s 4(1)][802]; 1975 No 135 [s 16(1)][569]; 1978 No 43 [s 3(4)][512]
     
-    Section 317(4): amended, on 1 July 2002, by [section 50][798] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 317(4): amended, on 1 July 2002, by [section 50][803] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 317(5): amended, on 1 August 2008, by [section 50(1)][799] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 317(5): amended, on 1 August 2008, by [section 50(1)][804] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 317(7): substituted, on 28 September 1993, by section 15 of Te Ture Whenua Maori Amendment Act (No 2) 1993 (1993 No 104).
 
@@ -8144,9 +8166,9 @@ Title reconstruction and improvement
     
     (4) The laying out of a roadway over any land shall not affect the ownership of the land comprised in the roadway, or its description as Maori land, or Crown land, or General land (as the case may be).
     
-    (5) Notwithstanding anything in this Part, no private road or private way shall be laid out within the district of a territorial authority otherwise than in accordance with [sections 347][800] and [348][801] of the Local Government Act 1974\.
+    (5) Notwithstanding anything in this Part, no private road or private way shall be laid out within the district of a territorial authority otherwise than in accordance with [sections 347][805] and [348][806] of the Local Government Act 1974\.
     
-    Compare: 1953 No 94 s 416; 1975 No 135 [s 16(1)][562]; 1978 No 43 [s 3(4)][506]
+    Compare: 1953 No 94 s 416; 1975 No 135 [s 16(1)][569]; 1978 No 43 [s 3(4)][512]
 
 ##### 319 Compensation in respect of roadway
     
@@ -8156,7 +8178,7 @@ Title reconstruction and improvement
     
     (3) Any such person may waive that person's entitlement to compensation under the court's order.
     
-    (4) On the variation or cancellation, pursuant to [section 322][436] or any other authority, of any order in its relation to a roadway, the court may make such incidental provisions in relation to compensation or any other matters as it considers equitable between the owners of the land comprised in the roadway and any other persons.
+    (4) On the variation or cancellation, pursuant to [section 322][438] or any other authority, of any order in its relation to a roadway, the court may make such incidental provisions in relation to compensation or any other matters as it considers equitable between the owners of the land comprised in the roadway and any other persons.
     
     (5) Any compensation payable pursuant to an order of the court under this section may, in whole or in part, be charged by the court on any land for the benefit of which the roadway has been laid out.
     
@@ -8178,11 +8200,11 @@ Title reconstruction and improvement
     
     (5) On the date of the publication in the _Gazette_ of a Proclamation issued under subsection (1), or on such later date as may be specified in that Proclamation as the date when it shall have effect, all land to which the Proclamation relates shall vest as a road in the territorial authority within whose district the land is situated, but otherwise free from all reservations, restrictions, trusts, rights, titles, estates, or interests of any kind.
     
-    (6) The provisions of [section 57][802] of the Public Works Act 1981 shall, as far as they are applicable and with any necessary modifications, apply to any Proclamation issued under this section.
+    (6) The provisions of [section 57][807] of the Public Works Act 1981 shall, as far as they are applicable and with any necessary modifications, apply to any Proclamation issued under this section.
     
-    Compare: 1953 No 94 s 421; 1953 No 118 ss 2(1), 43(3); 1954 No 76 s 413(6); 1972 No 132 s 8(1); 1972 No 135 [s 10(2)][803]; 1978 No 43 [s 3(4)][506]
+    Compare: 1953 No 94 s 421; 1953 No 118 ss 2(1), 43(3); 1954 No 76 s 413(6); 1972 No 132 s 8(1); 1972 No 135 [s 10(2)][808]; 1978 No 43 [s 3(4)][512]
     
-    Section 320(4)(a): amended, on 1 August 2008, by [section 50(1)][799] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 320(4)(a): amended, on 1 August 2008, by [section 50(1)][804] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 321 Land that has been used but not set apart as a road may be declared a road or street
     
@@ -8190,9 +8212,9 @@ Title reconstruction and improvement
     
     (2) Any such recommendation may be made subject to the condition that compensation by the Crown, or by a territorial authority, or by any person interested, be paid to or on behalf of any person or persons having an estate or interest in the land.
     
-    (3) On compliance with the conditions (if any) imposed by the court, the land to which the recommendation relates may be declared to be a road in accordance with the provisions of [section 320][434] as if it were a roadway laid out by the court.
+    (3) On compliance with the conditions (if any) imposed by the court, the land to which the recommendation relates may be declared to be a road in accordance with the provisions of [section 320][436] as if it were a roadway laid out by the court.
     
-    Compare: 1953 No 94 s 422; 1973 No 44 s 2(4)(a); 1978 No 43 [s 3(4)][506]
+    Compare: 1953 No 94 s 422; 1973 No 44 s 2(4)(a); 1978 No 43 [s 3(4)][512]
 
 ##### 322 Court may cancel roadways
     
@@ -8202,15 +8224,15 @@ Title reconstruction and improvement
     
     (3) The court may vary or cancel any order under this section notwithstanding that, after the order was made, the land over which the roadway was laid out ceased to be land to which this Part applies.
     
-    Compare: 1953 No 94 s 423; 1978 No 43 [s 3(4)][506]
+    Compare: 1953 No 94 s 423; 1978 No 43 [s 3(4)][512]
 
 ##### 323 Powers of court on cancellation of roadway
     
-*   (1) Where, pursuant to [section 322][436], the court cancels an order for the laying out of any roadway for which a separate instrument of title exists, the court may cancel that instrument of title and may amend any other instrument of title so as to include in it the whole or any part of the land comprised in the roadway; and the land so included in any instrument of title shall thereupon vest in the owner or owners as if it had been originally included in it, and shall become subject to any reservations, trusts, rights, titles, interests, or encumbrances to which the land comprised in that instrument of title is then subject.
+*   (1) Where, pursuant to [section 322][438], the court cancels an order for the laying out of any roadway for which a separate instrument of title exists, the court may cancel that instrument of title and may amend any other instrument of title so as to include in it the whole or any part of the land comprised in the roadway; and the land so included in any instrument of title shall thereupon vest in the owner or owners as if it had been originally included in it, and shall become subject to any reservations, trusts, rights, titles, interests, or encumbrances to which the land comprised in that instrument of title is then subject.
     
     (2) Where the land comprised in any roadway is not included in a separate instrument of title, the owners shall thereafter hold the land freed from its reservation as a roadway.
     
-    (3) The foregoing provisions of this section as to the cancellation of orders shall, as far as they are applicable and with any necessary modifications, apply to the variation pursuant to [section 322][436] of an order of the court as to roadways.
+    (3) The foregoing provisions of this section as to the cancellation of orders shall, as far as they are applicable and with any necessary modifications, apply to the variation pursuant to [section 322][438] of an order of the court as to roadways.
     
     (4) Any order made by the court under this section shall, upon production, be registered by the District Land Registrar or the Registrar of Deeds, as the case may be; and the District Land Registrar is hereby authorised to make such amendments in any instrument of title as may be necessary to give effect to any order under this section.
     
@@ -8220,7 +8242,7 @@ Title reconstruction and improvement
     
 *   (1) This section applies to roads that have previously been or that may hereafter be constituted over any Maori freehold land, irrespective of the terms or descriptions used or the procedure adopted when they were constituted as roads.
     
-    (2) With the consent in writing of the Minister of Transport and of the authority having the control of the road under [section 317][804] of the Local Government Act 1974, the court may make an order closing the road or any defined portion of it, and every such order shall have effect according to its tenor.
+    (2) With the consent in writing of the Minister of Transport and of the authority having the control of the road under [section 317][809] of the Local Government Act 1974, the court may make an order closing the road or any defined portion of it, and every such order shall have effect according to its tenor.
     
     (3) By the same or a subsequent order, the court, subject to such terms and conditions as it thinks proper with respect to payment or as to any other matter, may vest the land comprised in the road or portion of the road so closed in such person or persons as it may determine, or may amend any existing title to any Maori land so as to include in it the whole or any part of the road or portion of the road that has been closed.
     
@@ -8228,7 +8250,7 @@ Title reconstruction and improvement
     
     (5) Any order made under this section shall, upon production, be registered by the District Land Registrar or the Registrar of Deeds, as the case may be, and where necessary the District Land Registrar shall amend any certificate of title so as to conform to the amendments made by the court under this section in any existing instrument of title.
     
-    Compare: 1953 No 94 s 425; 1978 No 43 [s 3(4)][506]
+    Compare: 1953 No 94 s 425; 1978 No 43 [s 3(4)][512]
 
 ##### 325 Court may make vesting orders for lands comprised in roads or streets stopped otherwise than under foregoing provisions
     
@@ -8242,13 +8264,13 @@ Title reconstruction and improvement
     
     (5) Unless the court otherwise orders, any land that is vested in any Maori pursuant to this section shall thereupon become Maori freehold land.
     
-    Compare: 1953 No 94 s 426; 1964 No 46 [s 11(1)][805]; 1975 No 135 [s 16][562]; 1978 No 43 [s 3(4)][506]
+    Compare: 1953 No 94 s 426; 1964 No 46 [s 11(1)][810]; 1975 No 135 [s 16][569]; 1978 No 43 [s 3(4)][512]
 
 ##### 326 Alienation of land to include alienation of interest in roadway giving access to that land
     
 *   (1) Where any roadway that is comprised in a separate instrument of title has, whether before or after the commencement of this Act, been laid out by the court over any Maori freehold land, the transfer by sale or otherwise of any land to which the roadway gives access shall, unless the instrument of alienation expressly provides to the contrary, be and be deemed to have been a transfer by the alienor to the alienee of the alienor's interest (if any) in the roadway.
     
-    (2) If any such instrument of title is registered under the [Land Transfer Act 1952][498], the alienee may apply for registration under that Act of any interest to which the alienee has become entitled under this section, and the District Land Registrar may register the same accordingly.
+    (2) If any such instrument of title is registered under the [Land Transfer Act 1952][501], the alienee may apply for registration under that Act of any interest to which the alienee has become entitled under this section, and the District Land Registrar may register the same accordingly.
     
     (3) In any case to which subsection (1) does not apply, the alienee of any land to which any roadway gives access (whether or not a separate title exists in respect of the roadway) shall have the same rights of access and be subject to the same obligations as were enjoyed by or imposed on the alienor in respect of the roadway before the transfer.
     
@@ -8256,13 +8278,13 @@ Title reconstruction and improvement
 
 #### Landlocked Maori land
     
-*   Heading: inserted, on 1 July 2002, by [section 51][806] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+*   Heading: inserted, on 1 July 2002, by [section 51][811] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 326A Meaning of certain terms
     
-*   In this section and [sections 326B][443], [326C][444], and [326D][445], unless the context otherwise requires,---
+*   In this section and [sections 326B][445], [326C][446], and [326D][447], unless the context otherwise requires,---
     
-    _conservation area_ has the same meaning as in [section 2(1)][807] of the Conservation Act 1987; and includes national parks, as defined in [section 2][808] of the National Parks Act 1980; reserves, as defined in [section 2(1)][809] of the Reserves Act 1977; and wildlife management reserves, wildlife refuges, and wildlife sanctuaries, all as defined in [section 2(1)][810] of the Wildlife Act 1953
+    _conservation area_ has the same meaning as in [section 2(1)][812] of the Conservation Act 1987; and includes national parks, as defined in [section 2][813] of the National Parks Act 1980; reserves, as defined in [section 2(1)][814] of the Reserves Act 1977; and wildlife management reserves, wildlife refuges, and wildlife sanctuaries, all as defined in [section 2(1)][815] of the Wildlife Act 1953
     
     _landlocked land_ means a piece of land that has no reasonable access to it and is either---
         
@@ -8270,27 +8292,27 @@ Title reconstruction and improvement
     
     *   (b) General land owned by Maori that ceased to be Maori land under Part 1 of the Maori Affairs Amendment Act 1967
     
-    _national park_ has the same meaning as in [section 2][808] of the National Parks Act 1980
+    _national park_ has the same meaning as in [section 2][813] of the National Parks Act 1980
     
     _occupier_ means the owners or occupier of the landlocked land
     
     _owners_, in relation to any landlocked land, means the legal or beneficial owners of the land
     
-    _public reserve_ has the same meaning as in [section 2(1)][809] of the Reserves Act 1977
+    _public reserve_ has the same meaning as in [section 2(1)][814] of the Reserves Act 1977
     
-    _rail operator_ has the same meaning as in [section 4(1)][811] of the Railways Act 2005
+    _rail operator_ has the same meaning as in [section 4(1)][816] of the Railways Act 2005
     
-    _railway line_ has the same meaning as in [section 4(1)][811] of the Railways Act 2005
+    _railway line_ has the same meaning as in [section 4(1)][816] of the Railways Act 2005
     
     _reasonable access_ means physical access of the nature and quality that may be reasonably necessary to enable the occupier for the time being of the landlocked land to use and enjoy that land.
     
-    Section 326A: inserted, on 1 July 2002, by [section 51][806] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 326A: inserted, on 1 July 2002, by [section 51][811] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 326A **rail operator**: inserted, on 20 July 2005, by [section 103(3)][812] of the Railways Act 2005 (2005 No 37).
+    Section 326A **rail operator**: inserted, on 20 July 2005, by [section 103(3)][817] of the Railways Act 2005 (2005 No 37).
     
-    Section 326A **rail service operator**: repealed, on 20 July 2005, by [section 103(3)][812] of the Railways Act 2005 (2005 No 37).
+    Section 326A **rail service operator**: repealed, on 20 July 2005, by [section 103(3)][817] of the Railways Act 2005 (2005 No 37).
     
-    Section 326A **railway line**: substituted, on 20 July 2005, by [section 103(3)][812] of the Railways Act 2005 (2005 No 37).
+    Section 326A **railway line**: substituted, on 20 July 2005, by [section 103(3)][817] of the Railways Act 2005 (2005 No 37).
 
 ##### 326B Reasonable access may be granted in cases of landlocked Maori land
     
@@ -8316,7 +8338,7 @@ Title reconstruction and improvement
     
     *   (d) the hardship that would be caused to the applicant by the refusal to make an order in relation to the hardship that would be caused to any other person by the making of the order; and
     
-    *   (e) the requirements of [Part 3B][813] of the Conservation Act 1987, if the application affects a conservation area; and
+    *   (e) the requirements of [Part 3B][818] of the Conservation Act 1987, if the application affects a conservation area; and
     
     *   (f) issues of public safety raised by a rail operator, if the application affects a railway line; and
     
@@ -8326,17 +8348,17 @@ Title reconstruction and improvement
         
     *   (a) vesting in the owners of the legal estate in the landlocked land the legal estate in fee simple in any other piece of land (whether or not that piece of land adjoins the landlocked land) except land that is a national park, public reserve or railway line; or
     
-    *   (b) attaching and making appurtenant to the landlocked land an easement over any other piece of land (whether or not that piece of land adjoins the landlocked land), despite [section 75][814] of the Railways Act 2005\.
+    *   (b) attaching and making appurtenant to the landlocked land an easement over any other piece of land (whether or not that piece of land adjoins the landlocked land), despite [section 75][819] of the Railways Act 2005\.
     
-    Section 326B: inserted, on 1 July 2002, by [section 51][806] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 326B: inserted, on 1 July 2002, by [section 51][811] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 326B(4)(f): amended, on 20 July 2005, by [section 103(3)][812] of the Railways Act 2005 (2005 No 37).
+    Section 326B(4)(f): amended, on 20 July 2005, by [section 103(3)][817] of the Railways Act 2005 (2005 No 37).
     
-    Section 326B(5)(b): amended, on 20 July 2005, by [section 103(3)][812] of the Railways Act 2005 (2005 No 37).
+    Section 326B(5)(b): amended, on 20 July 2005, by [section 103(3)][817] of the Railways Act 2005 (2005 No 37).
 
 ##### 326C Conditions and other matters
     
-*   (1) Any order under [section 326B(5)][443] may be made upon such terms and subject to such conditions as the court thinks fit in respect of---
+*   (1) Any order under [section 326B(5)][445] may be made upon such terms and subject to such conditions as the court thinks fit in respect of---
         
     *   (a) the payment of compensation by the applicant to any other person; and
     
@@ -8346,9 +8368,9 @@ Title reconstruction and improvement
     
     *   (d) the upkeep and maintenance of any land over which an easement is to be granted; and
     
-    *   (e) the powers of the court under [Part 16][453] as to Maori land; and
+    *   (e) the powers of the court under [Part 16][455] as to Maori land; and
     
-    *   (f) the carrying out of any survey that may be required by the Registrar-General of Land before the Registrar-General of Land will issue, in respect of any piece of land affected by the order, a certificate of title free of any limitations as to title or parcels within the meaning of [Part 12][815] of the Land Transfer Act 1952; and
+    *   (f) the carrying out of any survey that may be required by the Registrar-General of Land before the Registrar-General of Land will issue, in respect of any piece of land affected by the order, a certificate of title free of any limitations as to title or parcels within the meaning of [Part 12][820] of the Land Transfer Act 1952; and
     
     *   (g) the time in which any work necessary to give effect to the order is to be carried out; and
     
@@ -8356,15 +8378,15 @@ Title reconstruction and improvement
     
     *   (i) such other matters as the court considers relevant.
     
-    (2) Every order made under [section 326B(5)][443] must provide that the reasonable cost of carrying out any work necessary to give effect to the order is to be borne by the applicant for the order, unless the court is satisfied, that it is just and equitable to require any other person to pay the whole or any specified share of the cost of such work.
+    (2) Every order made under [section 326B(5)][445] must provide that the reasonable cost of carrying out any work necessary to give effect to the order is to be borne by the applicant for the order, unless the court is satisfied, that it is just and equitable to require any other person to pay the whole or any specified share of the cost of such work.
     
-    (3) If the court makes an order under [section 326B(5)][443], the court may, in the order,---
+    (3) If the court makes an order under [section 326B(5)][445], the court may, in the order,---
         
     *   (a) declare any estate or interest in any piece of land affected by the order to be free of any mortgage, lease, easement, or other encumbrance affecting that piece of land, or vary, to such extent as it considers necessary in the circumstances, any mortgage, lease, easement, contract, or other instrument affecting or relating to that piece of land; and
     
     *   (b) declare that the legal estate in fee simple in any piece of land to be vested in the owners of the landlocked land is to vest subject to the same terms, conditions, liabilities, and encumbrances as those on and subject to which the owners hold the estate in the landlocked land, and is subject in all respects to any instrument of mortgage, charge, lease, sublease, or other encumbrance affecting that estate in the landlocked land as if the piece of land to be vested had been expressly included in the instrument.
     
-    (4) If the court makes an order (in this subsection referred to as the _principal order_) under [section 326B(5)][443], it may, at the same time or at any other time on an application made to it in that behalf, make---
+    (4) If the court makes an order (in this subsection referred to as the _principal order_) under [section 326B(5)][445], it may, at the same time or at any other time on an application made to it in that behalf, make---
         
     *   (a) an order authorising any person named in the order, or the agents, employees, and contractors of the named person, with or without animals, vehicles, aircraft, hovercraft, and any mode of conveyance and any equipment, to enter upon any piece of land specified in the order for the purpose of carrying out any work necessary to give effect to the principal order; and
     
@@ -8372,27 +8394,27 @@ Title reconstruction and improvement
     
     *   (c) an order requiring the applicant to maintain the land, or meet other obligations affecting the land, failing which the principal order may be revoked.
     
-    Section 326C: inserted, on 1 July 2002, by [section 51][806] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 326C: inserted, on 1 July 2002, by [section 51][811] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 326D Additional provisions relating to orders under sections 326B or 326C
     
-*   (1) Any order made under [section 326B(5)][443] must be registered as an instrument under the [Land Transfer Act 1952][498], the [Deeds Registration Act 1908][671], or the [Crown Minerals Act 1991][816], as the case may require.
+*   (1) Any order made under [section 326B(5)][445] must be registered as an instrument under the [Land Transfer Act 1952][501], the [Deeds Registration Act 1908][678], or the [Crown Minerals Act 1991][821], as the case may require.
     
-    (2) This section and [sections 326A to 326C][442] bind the Crown.
+    (2) This section and [sections 326A to 326C][444] bind the Crown.
     
-    (3) The High Court, and not the Maori Appellate Court, has jurisdiction to hear and determine appeals from any order made under [sections 326B][443] or [326C][444] that affects General land.
+    (3) The High Court, and not the Maori Appellate Court, has jurisdiction to hear and determine appeals from any order made under [sections 326B][445] or [326C][446] that affects General land.
     
     (4) Every appeal to the High Court under subsection (3) is by way of rehearing.
     
-    (5) Nothing in [Part 10][789] of the Resource Management Act 1991 applies to any transfer, exchange, or other disposition of any land required by an order of the court made under [sections 326B][443] or [326C][444].
+    (5) Nothing in [Part 10][794] of the Resource Management Act 1991 applies to any transfer, exchange, or other disposition of any land required by an order of the court made under [sections 326B][445] or [326C][446].
     
-    (6) The court's powers under this section and [sections 326A to 326C][442] are additional to, and not limited by or subject to, [sections 315 to 317][428].
+    (6) The court's powers under this section and [sections 326A to 326C][444] are additional to, and not limited by or subject to, [sections 315 to 317][430].
     
-    (7) The court may appoint expert assessors or valuers, as additional members of the court, to assist it to determine issues of valuation or compensation under [sections 326A to 326D][442].
+    (7) The court may appoint expert assessors or valuers, as additional members of the court, to assist it to determine issues of valuation or compensation under [sections 326A to 326D][444].
     
-    Section 326D: inserted, on 1 July 2002, by [section 51][806] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 326D: inserted, on 1 July 2002, by [section 51][811] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 326D(1): amended, on 24 May 2013, by [section 65][817] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+    Section 326D(1): amended, on 24 May 2013, by [section 65][822] of the Crown Minerals Amendment Act 2013 (2013 No 14).
 
 ##### 327 Part 21 of Local Government Act 1974 modified in its application to Maori land
     
@@ -8429,9 +8451,9 @@ Occupation orders
     
     *   (b) that the occupation order ends on the occurrence of a defined event.
     
-    Section 328(1): amended, on 1 July 2002, by [section 52(1)][818] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 328(1): amended, on 1 July 2002, by [section 52(1)][823] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 328(4): added, on 1 July 2002, by [section 52(2)][818] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 328(4): added, on 1 July 2002, by [section 52(2)][823] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 329 Matters to be considered
     
@@ -8459,9 +8481,9 @@ Occupation orders
     
     *   (c) that, in the circumstances, the extent of the beneficial interest in the land held by the person in whose favour the occupation order is to be made, or to which that person is entitled to succeed, justifies the occupation order.
     
-    Section 329(2)(aa): inserted, on 1 July 2002, by [section 53(1)][819] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 329(2)(aa): inserted, on 1 July 2002, by [section 53(1)][824] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 329(2)(c): added, on 1 July 2002, by [section 53(2)][819] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 329(2)(c): added, on 1 July 2002, by [section 53(2)][824] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 330 Power to amend or cancel occupation order
     
@@ -8473,7 +8495,7 @@ Occupation orders
     
     (2) The Maori Land Court may conduct a review under subsection (1) as if it were exercising its jurisdiction to make the initial occupation order, and must have particular regard to the fact that, after it was made, the occupation order could pass by succession.
     
-    Section 330A: inserted, on 1 July 2002, by [section 54][820] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 330A: inserted, on 1 July 2002, by [section 54][825] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 331 Regulations
     
@@ -8516,7 +8538,7 @@ Surveys of Maori land
     
     (3) On or after any partition, exchange, alienation, or other disposition of the land so charged, the court may in like manner make a further order varying any former order and apportioning the charge in such manner as it thinks just, and any such subsequent order shall supersede all earlier charging orders so far as it is inconsistent with those earlier orders.
     
-    (4) Every charging order under this section shall constitute a charge upon the land or upon the several parcels of the land, according to its tenor, and may be registered against the title to the land under the [Land Transfer Act 1952][498].
+    (4) Every charging order under this section shall constitute a charge upon the land or upon the several parcels of the land, according to its tenor, and may be registered against the title to the land under the [Land Transfer Act 1952][501].
     
     (5) When any charge has been apportioned under this section, each part of that charge shall be deemed to constitute a separate charge.
     
@@ -8524,7 +8546,7 @@ Surveys of Maori land
 
 ##### 334 Interest on survey charges
     
-*   (1) Except as provided in [section 336][458], the amount of any charge under this Part shall bear simple interest at the rate of 5% per annum, computed from the date of the completion of the survey.
+*   (1) Except as provided in [section 336][460], the amount of any charge under this Part shall bear simple interest at the rate of 5% per annum, computed from the date of the completion of the survey.
     
     (2) A certificate signed by the Chief Surveyor shall be conclusive evidence of the date of the completion of the survey.
     
@@ -8540,7 +8562,7 @@ Surveys of Maori land
     
     (4) A certificate given under this section may include any group or class of charging orders.
     
-    Compare: 1953 No 94 s 410; 1987 No 65 [s 65(1)][821]
+    Compare: 1953 No 94 s 410; 1987 No 65 [s 65(1)][826]
 
 ##### 336 Contribution from owners in respect of surveys
     
@@ -8560,11 +8582,11 @@ Surveys of Maori land
     
     Compare: 1953 No 94 s 411A; 1967 No 124 s 140
     
-    Section 337(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 337(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 337(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 337(2): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 337(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 337(3): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
 ## Part 17  
 Maori reservations
@@ -8579,7 +8601,7 @@ Maori reservations
     
     (2) The chief executive may, by notice in the _Gazette_ issued on the recommendation of the court, declare any other Maori freehold land or General land to be included in any Maori reservation, and thereupon the land shall form part of that reservation accordingly.
     
-    (3) Except as provided in [section 340][464], every Maori reservation under this section shall be held for the common use or benefit of the owners or of Maori of the class or classes specified in the notice.
+    (3) Except as provided in [section 340][466], every Maori reservation under this section shall be held for the common use or benefit of the owners or of Maori of the class or classes specified in the notice.
     
     (4) Land may be so set apart as or included in a Maori reservation although it is vested in an incorporated body of owners or in the Māori Trustee or in any other trustees, and notwithstanding any provisions of this Act or any other Act as to the disposition or administration of that land.
     
@@ -8621,23 +8643,23 @@ Maori reservations
     
     *   (b) in relation to any vesting order made in respect of the Maori reservation (under any Act repealed by this Act or the corresponding provisions of any former Act), as if that vesting order were a vesting order made under this section.
     
-    Compare: 1953 No 94 s 439(1)--(11); 1968 No 127 [s 5][822]; 1970 No 120 [s 7][823]; 1972 No 135 [s 11(1)][824]; 1973 No 106 [s 15][825]; 1975 No 135 [s 16][562]
+    Compare: 1953 No 94 s 439(1)--(11); 1968 No 127 [s 5][827]; 1970 No 120 [s 7][828]; 1972 No 135 [s 11(1)][829]; 1973 No 106 [s 15][830]; 1975 No 135 [s 16][569]
     
-    Section 338(1): substituted, on 1 July 2002, by [section 55][826] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 338(1): substituted, on 1 July 2002, by [section 55][831] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 338(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][509] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 338(4): amended, on 1 July 2009, pursuant to [section 30(2)(a)][515] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 338(8): amended, on 11 April 2001, by [section 17(1)][827] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
+    Section 338(8): amended, on 11 April 2001, by [section 17(1)][832] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
     
-    Section 338(12): amended, on 11 April 2001, by [section 16(1)][828] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
+    Section 338(12): amended, on 11 April 2001, by [section 16(1)][833] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
     
-    Section 338(14): amended, on 11 April 2001, by [section 16(2)][828] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
+    Section 338(14): amended, on 11 April 2001, by [section 16(2)][833] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
     
-    Section 338(17): substituted, on 11 April 2001, by [section 17(2)][827] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
+    Section 338(17): substituted, on 11 April 2001, by [section 17(2)][832] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
 
 ##### 338A Regulations relating to trustees of Maori reservations
     
-*   (1) Regulations made under [section 338(15)][461] may, in relation to the trustees of Maori reservations generally or in relation to the trustees of any specified Maori reservation or of any specified class of Maori reservations,---
+*   (1) Regulations made under [section 338(15)][463] may, in relation to the trustees of Maori reservations generally or in relation to the trustees of any specified Maori reservation or of any specified class of Maori reservations,---
         
     *   (a) specify---
             
@@ -8647,27 +8669,27 @@ Maori reservations
         
         *   (iii) circumstances in which those trustees or any of them may be removed from office by the court:
         
-        *   (iv) powers, authorities, and discretions that may be exercised by those trustees (in addition to those conferred on them by this Act) and the manner in which those trustees or any of them may exercise their powers, authorities, and discretions (including those conferred on them by this Act or the [Trustee Act 1956][829] or both):
+        *   (iv) powers, authorities, and discretions that may be exercised by those trustees (in addition to those conferred on them by this Act) and the manner in which those trustees or any of them may exercise their powers, authorities, and discretions (including those conferred on them by this Act or the [Trustee Act 1956][834] or both):
         
-        *   (v) powers, authorities, and discretions conferred by the [Trustee Act 1956][829] that may not be exercised by those trustees:
+        *   (v) powers, authorities, and discretions conferred by the [Trustee Act 1956][834] that may not be exercised by those trustees:
         
         *   (vi) conditions that must be complied with by those trustees:
         
         
     
-    *   (b) authorise the court to exercise in relation to those trustees (but not to the exclusion of the High Court) any of the powers and authorities conferred on the High Court by the [Trustee Act 1956][829].
+    *   (b) authorise the court to exercise in relation to those trustees (but not to the exclusion of the High Court) any of the powers and authorities conferred on the High Court by the [Trustee Act 1956][834].
     
     (2) Nothing in subsection (1) limits---
         
-    *   (a) the powers of the court under [section 338(8)][461]; or
+    *   (a) the powers of the court under [section 338(8)][463]; or
     
-    *   (b) the generality of [section 338(15)][461].
+    *   (b) the generality of [section 338(15)][463].
     
-    Section 338A: inserted, on 11 April 2001, by [section 18][830] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
+    Section 338A: inserted, on 11 April 2001, by [section 18][835] of Te Ture Whenua Maori Amendment Act 2001 (2001 No 11).
 
 ##### 339 Court may consider proposal for Maori reservation on application of Minister
     
-*   (1) On the application of the Minister, the court may consider a proposal that any piece of land (whether Crown land, land or an interest in land to which [section 8A][535] or [section 8HB][536] of the Treaty of Waitangi Act 1975 applies or Maori land) should, by reason of its historical significance or spiritual or emotional association with the Maori people or any group or section thereof, be set aside as a Maori reservation under [section 338][461] of this Act, and make a recommendation to the chief executive or, in the case of land or an interest in land to which section 8A or section 8HB of the Treaty of Waitangi Act 1975 applies, the Minister.
+*   (1) On the application of the Minister, the court may consider a proposal that any piece of land (whether Crown land, land or an interest in land to which [section 8A][542] or [section 8HB][543] of the Treaty of Waitangi Act 1975 applies or Maori land) should, by reason of its historical significance or spiritual or emotional association with the Maori people or any group or section thereof, be set aside as a Maori reservation under [section 338][463] of this Act, and make a recommendation to the chief executive or, in the case of land or an interest in land to which section 8A or section 8HB of the Treaty of Waitangi Act 1975 applies, the Minister.
     
     (2) A recommendation of the court under this section may be to the effect---
         
@@ -8679,44 +8701,44 @@ Maori reservations
     
     *   (d) that some other course be followed.
     
-    Compare: 1953 No 94 s 439A; 1974 No 73 s 60; 1975 No 135 [s 16][562]
+    Compare: 1953 No 94 s 439A; 1974 No 73 s 60; 1975 No 135 [s 16][569]
 
 ##### 340 Maori reservation may be held for common use and benefit of people of New Zealand
     
-*   (1) The notice constituting a Maori reservation (that is not a wahi tapu) under [section 338][461] may, upon the express recommendation of the court, specify that the reservation (that is not a wahi tapu) shall be held for the common use and benefit of the people of New Zealand, and the reservation (that is not a wahi tapu) shall accordingly be held in that fashion.
+*   (1) The notice constituting a Maori reservation (that is not a wahi tapu) under [section 338][463] may, upon the express recommendation of the court, specify that the reservation (that is not a wahi tapu) shall be held for the common use and benefit of the people of New Zealand, and the reservation (that is not a wahi tapu) shall accordingly be held in that fashion.
     
     (2) Before issuing a recommendation that a Maori reservation (that is not a wahi tapu) be held for the common use and benefit of the people of New Zealand, the court shall be satisfied that this course is in accordance with the views of the owners, and that the local authority consents to it.
     
     (3) In appointing trustees for any Maori reservation that is not a wahi tapu that is held for the common use and benefit of the people of New Zealand, the court may, on the nomination of the local authority, appoint a person or persons to represent the local authority.
     
-    Compare: 1953 No 94 s 439(12)--(14); 1972 No 135 [s 11(2)][824]
+    Compare: 1953 No 94 s 439(12)--(14); 1972 No 135 [s 11(2)][829]
     
-    Section 340(1): amended, on 1 July 2002, by [section 56(1)(a)][831] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 340(1): amended, on 1 July 2002, by [section 56(1)(a)][836] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 340(1): amended, on 1 July 2002, by [section 56(1)(b)][831] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 340(1): amended, on 1 July 2002, by [section 56(1)(b)][836] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 340(2): amended, on 1 July 2002, by [section 56(2)][831] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 340(2): amended, on 1 July 2002, by [section 56(2)][836] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
     
-    Section 340(3): amended, on 1 July 2002, by [section 56(3)][831] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 340(3): amended, on 1 July 2002, by [section 56(3)][836] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ##### 341 Further provisions relating to Maori reservation for marae or meeting place
     
-*   (1) Notwithstanding anything in [section 338][461], a Maori reservation for the purposes of a marae or meeting place or as wahi tapu may, in accordance with that section, be constituted over or extended to include any Crown land or other land leased on a perpetually renewable basis to any person, group of persons, body corporate, or organisation for the purpose of a marae or meeting place.
+*   (1) Notwithstanding anything in [section 338][463], a Maori reservation for the purposes of a marae or meeting place or as wahi tapu may, in accordance with that section, be constituted over or extended to include any Crown land or other land leased on a perpetually renewable basis to any person, group of persons, body corporate, or organisation for the purpose of a marae or meeting place.
     
-    (2) On the vesting by the court, in accordance with [section 338(7)][461], in trustees of a Maori reservation created over land leased in the manner referred to in subsection (1) of this section, the lease shall be deemed to have been assigned to the trustees, and thereafter they shall (subject to their fiduciary responsibilities and to the restrictions imposed by section 338) have all the rights and privileges and be subject to all the duties and liabilities of the lessees under the lease.
+    (2) On the vesting by the court, in accordance with [section 338(7)][463], in trustees of a Maori reservation created over land leased in the manner referred to in subsection (1) of this section, the lease shall be deemed to have been assigned to the trustees, and thereafter they shall (subject to their fiduciary responsibilities and to the restrictions imposed by section 338) have all the rights and privileges and be subject to all the duties and liabilities of the lessees under the lease.
     
-    (3) Upon proof of the determination for any reason of the lease in respect of any reservation constituted over land leased in the manner referred to in subsection (1), the chief executive shall, in the manner provided by [section 338][461], cancel the reservation or, as the case may be, exclude from the reservation the land comprised in the lease.
+    (3) Upon proof of the determination for any reason of the lease in respect of any reservation constituted over land leased in the manner referred to in subsection (1), the chief executive shall, in the manner provided by [section 338][463], cancel the reservation or, as the case may be, exclude from the reservation the land comprised in the lease.
     
-    Compare: 1953 No 94 s 439(15)--(17); 1973 No 106 [s 15(2)][825]
+    Compare: 1953 No 94 s 439(15)--(17); 1973 No 106 [s 15(2)][830]
     
-    Section 341(1): amended, on 1 July 2002, by [section 57][832] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
+    Section 341(1): amended, on 1 July 2002, by [section 57][837] of Te Ture Whenua Maori Amendment Act 2002 (2002 No 16).
 
 ## Part 18  
 Miscellaneous provisions
 
 ##### 342 Protection of Maori land against execution for debt
     
-*   (1) Except as provided in [section 343][468], no interest of any person in Maori customary land, and no beneficial freehold interest in Maori freehold land, shall be capable of being taken in execution or otherwise rendered available by any form of judicial process for payment of the owner's debts or liabilities, whether in favour of Her Majesty or of any other person.
+*   (1) Except as provided in [section 343][470], no interest of any person in Maori customary land, and no beneficial freehold interest in Maori freehold land, shall be capable of being taken in execution or otherwise rendered available by any form of judicial process for payment of the owner's debts or liabilities, whether in favour of Her Majesty or of any other person.
     
     (2) Nothing in subsection (1) shall limit or affect the operation of any mortgage or charge to which any Maori land is subject, or shall apply to the recovery of rates or taxes payable in respect of Maori land.
     
@@ -8732,29 +8754,29 @@ Miscellaneous provisions
     
     (2) Any application under this section shall be dealt with by the court without notification or appearance of any person, and, subject to the provisions of this section, the court shall make the order sought as a matter of course.
     
-    (3) Any order made by the court pursuant to this section shall take effect and may be registered under the [Land Transfer Act 1952][498].
+    (3) Any order made by the court pursuant to this section shall take effect and may be registered under the [Land Transfer Act 1952][501].
     
-    (4) Notwithstanding any provision to the contrary in the [Insolvency Act 2006][833], no beneficial freehold interests in Maori freehold land of a bankrupt shall vest or be deemed to have vested in the Official Assignee otherwise than by an order made pursuant to this section, and the Official Assignee shall have no power to disclaim any interest vested in the Official Assignee by such an order.
+    (4) Notwithstanding any provision to the contrary in the [Insolvency Act 2006][838], no beneficial freehold interests in Maori freehold land of a bankrupt shall vest or be deemed to have vested in the Official Assignee otherwise than by an order made pursuant to this section, and the Official Assignee shall have no power to disclaim any interest vested in the Official Assignee by such an order.
     
-    (5) Notwithstanding the provisions of the [Insolvency Act 2006][833], the Official Assignee shall not have power to sell any such beneficial freehold interest entered in Maori freehold land to any person other than a person to whom the bankrupt could have alienated it in accordance with the provisions of [Part 7][226] of this Act.
+    (5) Notwithstanding the provisions of the [Insolvency Act 2006][838], the Official Assignee shall not have power to sell any such beneficial freehold interest entered in Maori freehold land to any person other than a person to whom the bankrupt could have alienated it in accordance with the provisions of [Part 7][226] of this Act.
     
     Compare: 1953 No 94 s 455A; 1967 No 124 s 147; 1974 No 73 s 66
     
-    Section 343(1): amended, on 1 July 1994, by [section 20][834] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 343(1): amended, on 1 July 1994, by [section 20][839] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
     
-    Section 343(4): amended, on 3 December 2007, by [section 445][835] of the Insolvency Act 2006 (2006 No 55).
+    Section 343(4): amended, on 3 December 2007, by [section 445][840] of the Insolvency Act 2006 (2006 No 55).
     
-    Section 343(5): amended, on 3 December 2007, by [section 445][835] of the Insolvency Act 2006 (2006 No 55).
+    Section 343(5): amended, on 3 December 2007, by [section 445][840] of the Insolvency Act 2006 (2006 No 55).
 
 ##### 344 Co-owners of Maori land not bound by Limitation Act 2010 or other limitation enactments
     
 *   (1) Time does not run, and must not be treated as having run, against a co-owner of Maori land who neglects or has at any time neglected to exercise that co-owner's right of entering upon and using the common property while it remains in the occupation of another co-owner or someone claiming through or under that co-owner.
     
-    (2) This section overrides the [Limitation Act 2010][836] and all other enactments that impose on claims a limitation period or other limitation defence.
+    (2) This section overrides the [Limitation Act 2010][841] and all other enactments that impose on claims a limitation period or other limitation defence.
     
     Compare: 1953 No 94 s 458
     
-    Section 344: substituted, on 1 January 2011, by [section 58][837] of the Limitation Act 2010 (2010 No 110).
+    Section 344: substituted, on 1 January 2011, by [section 58][842] of the Limitation Act 2010 (2010 No 110).
 
 ##### 345 Presumptions as to Maori freehold land held by 2 or more owners
     
@@ -8774,17 +8796,17 @@ Miscellaneous provisions
     
     (4) Except as provided in subsection (3), a tenant in common as such shall not be deemed to have lawful authority to do any of the acts referred to in that subsection.
     
-    (5) Despite anything to the contrary in [section 25][838] of the Criminal Procedure Act 2011, any proceedings for an offence constituted by this section, or for the recovery of any penalty, fine, or forfeiture imposed thereunder, may be commenced at any time within 2 years after the commission of the offence.
+    (5) Despite anything to the contrary in [section 25][843] of the Criminal Procedure Act 2011, any proceedings for an offence constituted by this section, or for the recovery of any penalty, fine, or forfeiture imposed thereunder, may be commenced at any time within 2 years after the commission of the offence.
     
-    Compare: 1953 No 94 s 459; 1955 No 106 [s 8][839]; 1974 No 73 s 67
+    Compare: 1953 No 94 s 459; 1955 No 106 [s 8][844]; 1974 No 73 s 67
     
-    Section 346(1): amended, on 1 July 2013, by [section 413][623] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 346(1): amended, on 1 July 2013, by [section 413][630] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 346(5): amended, on 1 July 2013, by [section 413][623] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 346(5): amended, on 1 July 2013, by [section 413][630] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 347 Orders in Council and Proclamations affecting title to be registered
     
-*   Every Order in Council or Proclamation made under the authority of this Act and affecting the title to land that is subject to the [Land Transfer Act 1952][498] shall, on deposit with the District Land Registrar of a copy of the _Gazette_ containing the Order in Council or Proclamation, or a copy of the Order in Council or Proclamation certified under the hand of the chief executive, be registered by the District Land Registrar without fee against the title to that land.
+*   Every Order in Council or Proclamation made under the authority of this Act and affecting the title to land that is subject to the [Land Transfer Act 1952][501] shall, on deposit with the District Land Registrar of a copy of the _Gazette_ containing the Order in Council or Proclamation, or a copy of the Order in Council or Proclamation certified under the hand of the chief executive, be registered by the District Land Registrar without fee against the title to that land.
     
     Compare: 1953 No 94 s 465
 
@@ -8798,7 +8820,7 @@ Miscellaneous provisions
 
 ##### 349 Declaratory Judgments Act 1908 not affected
     
-*   Nothing in this Act shall limit or affect any jurisdiction conferred upon the High Court or the Court of Appeal by the [Declaratory Judgments Act 1908][840].
+*   Nothing in this Act shall limit or affect any jurisdiction conferred upon the High Court or the Court of Appeal by the [Declaratory Judgments Act 1908][845].
     
     Compare: 1953 No 94 s 469
 
@@ -8824,7 +8846,7 @@ Miscellaneous provisions
 
 ##### 354 Existing trusts to continue as ahu whenua trusts
     
-*   Notwithstanding [section 353][479], any trust constituted under section 438(1) of the Maori Affairs Act 1953 and existing at the commencement of this Act, shall continue to exist after the commencement of this Act as an ahu whenua trust, and the provisions of [Part 12][303] of this Act shall apply accordingly.
+*   Notwithstanding [section 353][481], any trust constituted under section 438(1) of the Maori Affairs Act 1953 and existing at the commencement of this Act, shall continue to exist after the commencement of this Act as an ahu whenua trust, and the provisions of [Part 12][303] of this Act shall apply accordingly.
 
 ##### 355 Provision for completion of sales and subdivisions
     
@@ -8832,9 +8854,9 @@ Miscellaneous provisions
 
 ##### 356 Part 9 not to apply to Maori reserves
     
-*   Except as provided in subsection (4) of [section 10][706] of the Maori Reserved Land Act 1955, nothing in [Part 9][259] of this Act shall apply to any Maori reserve.
+*   Except as provided in subsection (4) of [section 10][713] of the Maori Reserved Land Act 1955, nothing in [Part 9][259] of this Act shall apply to any Maori reserve.
     
-    Compare: 1953 No 94 s 471; 1970 No 120 [s 14(2)][841]
+    Compare: 1953 No 94 s 471; 1970 No 120 [s 14(2)][846]
 
 ##### 357 Maori incorporations in existence at commencement of Act
     
@@ -8858,11 +8880,11 @@ Miscellaneous provisions
 
 ##### 358 Land acquired by Maori incorporation before commencement of Act
     
-*   (1) Where a Maori incorporation to which [section 357(1)][483] applies holds, at the commencement of this Act, land that that Maori incorporation acquired after the date on which that Maori incorporation was established, the court may, on application made by that Maori incorporation at any time before 1 July 1996, make an order---
+*   (1) Where a Maori incorporation to which [section 357(1)][485] applies holds, at the commencement of this Act, land that that Maori incorporation acquired after the date on which that Maori incorporation was established, the court may, on application made by that Maori incorporation at any time before 1 July 1996, make an order---
         
     *   (a) authorising the Maori incorporation to hold the whole or any part of that land as an investment; and
     
-    *   (b) declaring that, notwithstanding [section 357][483], any land authorised pursuant to paragraph (a) to be held as an investment---
+    *   (b) declaring that, notwithstanding [section 357][485], any land authorised pursuant to paragraph (a) to be held as an investment---
             
         *   (i) shall not form part of the corpus of the incorporation; and
         
@@ -8870,7 +8892,7 @@ Miscellaneous provisions
         
         
     
-    *   (c) declaring that, notwithstanding [section 357(1)][483], the beneficial interests in any land authorised pursuant to paragraph (a) to be held as an investment shall cease to be vested in the persons in whom those beneficial interests were vested by section 357(1); and
+    *   (c) declaring that, notwithstanding [section 357(1)][485], the beneficial interests in any land authorised pursuant to paragraph (a) to be held as an investment shall cease to be vested in the persons in whom those beneficial interests were vested by section 357(1); and
     
     *   (d) making such other provision in relation to the change in the status of the whole or any part of that land as the court thinks just.
     
@@ -8878,7 +8900,7 @@ Miscellaneous provisions
     
     (2) No restrictions on alienation imposed by any of the provisions of this Act shall apply in respect of any land held by an incorporation as an investment pursuant to an order made under subsection (1).
     
-    (3) Where a Maori incorporation to which [section 357(1)][483] applies acquired any land before the commencement of this Act out of the original land of the incorporation (whether in substitution or by way of exchange for any other land belonging to the incorporation or otherwise), the court shall not order under subsection (1) of this section that the whole or any part of that land shall be held as an investment.
+    (3) Where a Maori incorporation to which [section 357(1)][485] applies acquired any land before the commencement of this Act out of the original land of the incorporation (whether in substitution or by way of exchange for any other land belonging to the incorporation or otherwise), the court shall not order under subsection (1) of this section that the whole or any part of that land shall be held as an investment.
     
     (4) Subsections (1) and (2) shall, subject to the provisions of this Act, have effect notwithstanding anything in the order by which the Maori incorporation was established or in the Act under which that order was made.
     
@@ -8888,9 +8910,9 @@ Miscellaneous provisions
     
     (7) The District Land Registrar is hereby authorised and directed to cancel or amend any existing certificate of title and to issue any new certificate of title that may be necessary to give effect to an order made under subsection (1).
     
-    Section 358(1): amended, on 1 July 1994, by [section 21(1)][842] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 358(1): amended, on 1 July 1994, by [section 21(1)][847] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
     
-    Section 358(1A): inserted, on 1 July 1994, by [section 21(2)][842] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
+    Section 358(1A): inserted, on 1 July 1994, by [section 21(2)][847] of Te Ture Whenua Maori Amendment Act 1994 (1994 No 69).
     
     Section 358(3): amended, on 28 September 1993, by section 17 of Te Ture Whenua Maori Amendment Act (No 2) 1993 (1993 No 104).
 
@@ -8916,13 +8938,13 @@ Miscellaneous provisions
     
     (2) The enactments referred to in subsection (1) are the following:
         
-    *   (a) [Maori Reserved Land Act 1955][500]:
+    *   (a) [Maori Reserved Land Act 1955][505]:
     
-    *   (b) [Kapiti Island Public Reserve Act 1897][843]:
+    *   (b) [Kapiti Island Public Reserve Act 1897][848]:
     
-    *   (c) [Crown Minerals Act 1991][816]:
+    *   (c) [Crown Minerals Act 1991][821]:
     
-    *   (d) [Part 4][844] of the Maori Purposes Act 1931\.
+    *   (d) [Part 4][849] of the Maori Purposes Act 1931\.
     
     Compare: 1953 No 94 s 472
 
@@ -8930,34 +8952,34 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 360: repealed, on 1 January 2011, by [section 58][837] of the Limitation Act 2010 (2010 No 110).
+    Section 360: repealed, on 1 January 2011, by [section 58][842] of the Limitation Act 2010 (2010 No 110).
 
 ##### 361 Limitation of actions in relation to Maori customary land
     
 *   \[Repealed\]
     
-    Section 361: repealed, on 1 January 2011, by [section 58][837] of the Limitation Act 2010 (2010 No 110).
+    Section 361: repealed, on 1 January 2011, by [section 58][842] of the Limitation Act 2010 (2010 No 110).
 
 ##### 362 Amendments and repeals
     
-*   (1) The enactments specified in [Schedule 1][490] are hereby consequentially amended in the manner indicated in that schedule.
+*   (1) The enactments specified in [Schedule 1][492] are hereby consequentially amended in the manner indicated in that schedule.
     
-    (2) The enactments specified in [Schedule 2][491] are hereby consequentially repealed.
+    (2) The enactments specified in [Schedule 2][493] are hereby consequentially repealed.
 
 ---
 
 ## Schedule 1  
 Enactments amended
 
-[s 362(1)][489]
+[s 362(1)][491]
 
 ##### Age of Majority Act 1970 (1970 No 137) (RS Vol 21, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][845]_.
+_Amendment(s) incorporated in the [Act(s)][850]_.
 
 ##### Estate and Gift Duties Act 1968 (1968 No 35) (RS Vol 28, p 341)
 
-_Amendment(s) incorporated in the [Act(s)][846]_.
+_Amendment(s) incorporated in the [Act(s)][851]_.
 
 ##### Historic Places Act 1980 (1980 No 16)
 
@@ -8965,7 +8987,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Housing Corporation Act 1974 (1974 No 19) (RS Vol 24, p 281)
 
-_Amendment(s) incorporated in the [Act(s)][847]_.
+_Amendment(s) incorporated in the [Act(s)][852]_.
 
 ##### Land Settlement Promotion and Land Acquisition Amendment Act 1968 (1968 No 152) (RS Vol 3, p 183)
 
@@ -8973,42 +8995,42 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Land Valuation Proceedings Amendment Act 1977 (1977 No 15) (RS Vol 17, p 267)
 
-_Amendment(s) incorporated in the [Act(s)][848]_.
+_Amendment(s) incorporated in the [Act(s)][853]_.
 
 ##### Property Law Act 1952 (1952 No 51) (RS Vol 22, p 773)
 
-_Amendment(s) incorporated in the [Act(s)][849]._
+_Amendment(s) incorporated in the [Act(s)][854]._
 
 ##### Protection of Personal and Property Rights Act 1988 (1988 No 27)
 
-_Amendment(s) incorporated in the [Act(s)][732]_.
+_Amendment(s) incorporated in the [Act(s)][739]_.
 
 ##### Public Works Act 1981 (1981 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][496]_.
+_Amendment(s) incorporated in the [Act(s)][498]_.
 
 ##### Stamp and Cheque Duties Act 1971 (1971 No 51) (RS Vol 23, p 771)
 
-_Amendment(s) incorporated in the [Act(s)][700]_.
+_Amendment(s) incorporated in the [Act(s)][707]_.
 
 ##### Status of Children Act 1969 (1969 No 18) (RS Vol 4, p 893)
 
-_Amendment(s) incorporated in the [Act(s)][648]_.
+_Amendment(s) incorporated in the [Act(s)][655]_.
 
 ---
 
 ## Schedule 2  
 Enactments repealed
 
-[s 362(2)][489]
+[s 362(2)][491]
 
 ##### Conservation Act 1987 (1987 No 65)
 
-_Amendment(s) incorporated in the [Act(s)][850]_.
+_Amendment(s) incorporated in the [Act(s)][855]_.
 
 ##### Crown Forests Assets Act 1989 (1989 No 99)
 
-_Amendment(s) incorporated in the [Act(s)][851]_.
+_Amendment(s) incorporated in the [Act(s)][856]_.
 
 ##### Legal Services Act 1991 (1991 No 71)
 
@@ -9034,135 +9056,135 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Maori Affairs Restructuring Act 1989 (1989 No 68)
 
-_Amendment(s) incorporated in the [Act(s)][852]_.
+_Amendment(s) incorporated in the [Act(s)][857]_.
 
 ##### Maori Purposes Act 1955 (1955 No 106) (RS Vol 8, p 250)
 
-_Amendment(s) incorporated in the [Act(s)][853]_.
+_Amendment(s) incorporated in the [Act(s)][858]_.
 
 ##### Maori Purposes Act 1956 (1956 No 43) (RS Vol 8, p 251)
 
-_Amendment(s) incorporated in the [Act(s)][711]_.
+_Amendment(s) incorporated in the [Act(s)][718]_.
 
 ##### Maori Purposes Act 1957 (1957 No 81) (RS Vol 8, p 251)
 
-_Amendment(s) incorporated in the [Act(s)][854]_.
+_Amendment(s) incorporated in the [Act(s)][859]_.
 
 ##### Maori Purposes Act 1958 (1958 No 41) (RS Vol 8, p 252)
 
-_Amendment(s) incorporated in the [Act(s)][855]_.
+_Amendment(s) incorporated in the [Act(s)][860]_.
 
 ##### Maori Purposes Act 1959 (1959 No 90) (RS Vol 8, p 253)
 
-_Amendment(s) incorporated in the [Act(s)][856]_.
+_Amendment(s) incorporated in the [Act(s)][861]_.
 
 ##### Maori Purposes Act 1960 (1960 No 120) (RS Vol 8, p 255)
 
-_Amendment(s) incorporated in the [Act(s)][857]_.
+_Amendment(s) incorporated in the [Act(s)][862]_.
 
 ##### Maori Purposes Act 1961 (1961 No 129) (RS Vol 8, p 256)
 
-_Amendment(s) incorporated in the [Act(s)][858]_.
+_Amendment(s) incorporated in the [Act(s)][863]_.
 
 ##### Maori Purposes Act 1963 (1963 No 123) (RS Vol 8, p 260)
 
-_Amendment(s) incorporated in the [Act(s)][859]_.
+_Amendment(s) incorporated in the [Act(s)][864]_.
 
 ##### Maori Purposes Act 1964 (1964 No 46) (RS Vol 8, p 262)
 
-_Amendment(s) incorporated in the [Act(s)][860]_.
+_Amendment(s) incorporated in the [Act(s)][865]_.
 
 ##### Maori Purposes Act 1965 (1965 No 121) (RS Vol 8, p 263)
 
-_Amendment(s) incorporated in the [Act(s)][861]_.
+_Amendment(s) incorporated in the [Act(s)][866]_.
 
 ##### Maori Purposes Act 1966 (1966 No 106) (RS Vol 8, p 264)
 
-_Amendment(s) incorporated in the [Act(s)][862]_.
+_Amendment(s) incorporated in the [Act(s)][867]_.
 
 ##### Maori Purposes Act 1967 (1967 No 145) (RS Vol 8, p 324)
 
-_Amendment(s) incorporated in the [Act(s)][863]_.
+_Amendment(s) incorporated in the [Act(s)][868]_.
 
 ##### Maori Purposes Act 1968 (1968 No 127) (RS Vol 8, p 325)
 
-_Amendment(s) incorporated in the [Act(s)][864]_.
+_Amendment(s) incorporated in the [Act(s)][869]_.
 
 ##### Maori Purposes Act 1969 (1969 No 127) (RS Vol 8, p 326)
 
-_Amendment(s) incorporated in the [Act(s)][865]_.
+_Amendment(s) incorporated in the [Act(s)][870]_.
 
 ##### Maori Purposes Act 1970 (1970 No 120) (RS Vol 8, p 327)
 
-_Amendment(s) incorporated in the [Act(s)][866]_.
+_Amendment(s) incorporated in the [Act(s)][871]_.
 
 ##### Maori Purposes Act 1971 (1971 No 151) (RS Vol 8, p 328)
 
-_Amendment(s) incorporated in the [Act(s)][867]_.
+_Amendment(s) incorporated in the [Act(s)][872]_.
 
 ##### Maori Purposes Act 1972 (1972 No 135) (RS Vol 8, p 329)
 
-_Amendment(s) incorporated in the [Act(s)][868]_.
+_Amendment(s) incorporated in the [Act(s)][873]_.
 
 ##### Maori Purposes Act (No 2) 1973 (1973 No 106) (RS Vol 8, p 331)
 
-_Amendment(s) incorporated in the [Act(s)][869]_.
+_Amendment(s) incorporated in the [Act(s)][874]_.
 
 ##### Maori Purposes Act 1974 (1974 No 144) (RS Vol 8, p 350)
 
-_Amendment(s) incorporated in the [Act(s)][870]_.
+_Amendment(s) incorporated in the [Act(s)][875]_.
 
 ##### Maori Purposes Act 1975 (1975 No 135) (RS Vol 8, p 351)
 
-_Amendment(s) incorporated in the [Act(s)][871]_.
+_Amendment(s) incorporated in the [Act(s)][876]_.
 
 ##### Maori Purposes Act 1976 (1976 No 148) (RS Vol 8, p 353)
 
-_Amendment(s) incorporated in the [Act(s)][872]_.
+_Amendment(s) incorporated in the [Act(s)][877]_.
 
 ##### Maori Purposes Act 1977 (1977 No 103) (RS Vol 8, p 356)
 
-_Amendment(s) incorporated in the [Act(s)][873]_.
+_Amendment(s) incorporated in the [Act(s)][878]_.
 
 ##### Maori Purposes Act 1978 (1978 No 70) (RS Vol 8, p 356)
 
-_Amendment(s) incorporated in the [Act(s)][655]_.
+_Amendment(s) incorporated in the [Act(s)][662]_.
 
 ##### Maori Purposes Act 1979 (1979 No 136) (RS Vol 8, p 357)
 
-_Amendment(s) incorporated in the [Act(s)][874]_.
+_Amendment(s) incorporated in the [Act(s)][879]_.
 
 ##### Maori Purposes Act 1980 (1980 No 67) (RS Vol 8, p 359)
 
-_Amendment(s) incorporated in the [Act(s)][875]_.
+_Amendment(s) incorporated in the [Act(s)][880]_.
 
 ##### Maori Purposes Act 1981 (1981 No 112) (RS Vol 8, p 359)
 
-_Amendment(s) incorporated in the [Act(s)][876]_.
+_Amendment(s) incorporated in the [Act(s)][881]_.
 
 ##### Maori Purposes Act 1982 (1982 No 124)
 
-_Amendment(s) incorporated in the [Act(s)][877]_.
+_Amendment(s) incorporated in the [Act(s)][882]_.
 
 ##### Maori Purposes Act 1983 (1983 No 146)
 
-_Amendment(s) incorporated in the [Act(s)][878]_.
+_Amendment(s) incorporated in the [Act(s)][883]_.
 
 ##### Ministry of Maori Development Act 1991 (1991 No 145)
 
-_Amendment(s) incorporated in the [Act(s)][879]_.
+_Amendment(s) incorporated in the [Act(s)][884]_.
 
 ##### Protection of Personal and Property Rights Act 1988 (1988 No 4)
 
-_Amendment(s) incorporated in the [Act(s)][880]_.
+_Amendment(s) incorporated in the [Act(s)][885]_.
 
 ##### Public Finance Act 1989 (1989 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][881]_.
+_Amendment(s) incorporated in the [Act(s)][886]_.
 
 ##### Resource Management Act 1991 (1991 No 69)
 
-_Amendment(s) incorporated in the [Act(s)][882]_.
+_Amendment(s) incorporated in the [Act(s)][887]_.
 
 ##### State-Owned Enterprises Amendment Act 1987 (1987 No 117)
 
@@ -9180,9 +9202,9 @@ Commencementsee section 2
     
 *   This Act is---
         
-    *   (a) [Te Ture Whenua Maori Amendment Act 2006][883]; or
+    *   (a) [Te Ture Whenua Maori Amendment Act 2006][888]; or
     
-    *   (b) the [Maori Land Amendment Act 2006][883].
+    *   (b) the [Maori Land Amendment Act 2006][888].
     
     
 
@@ -9222,7 +9244,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008][884].
+*   This Act is the [Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008][889].
 
 ##### 2 Commencement
     
@@ -9249,113 +9271,111 @@ Amendments to Statutes
 
 ###### 1 General
     
-*   This is a reprint of Te Ture Whenua Maori Act 1993 that incorporates all the amendments to that Act as at the date of the last amendment to it.
+*   This is a reprint of the Te Ture Whenua Maori Act 1993 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][885] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][886] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][890] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][891] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][887] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][888] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][892] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][893] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Companies Amendment Act 2013 (2013 No 111): [section 14][754]
+*   Companies Amendment Act 2013 (2013 No 111): [section 14][761]
     
-    Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409): [regulation 3(1)][773]
+    Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [sections 119--123][517]
     
-    Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20): [section 9][781]
+    Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409): [regulation 3(1)][776]
     
-    Crown Minerals Amendment Act 2013 (2013 No 14): [section 65][817]
+    Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20): [section 9][786]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][623]
+    Crown Minerals Amendment Act 2013 (2013 No 14): [section 65][822]
     
-    [Te Ture Whenua Maori Amendment Act 2011][889] (2011 No 76)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][630]
     
-    Legal Services Act 2011 (2011 No 4): [section 144][629]
+    [Te Ture Whenua Maori Amendment Act 2011][894] (2011 No 76)
     
-    Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3): [section 128][511]
+    Legal Services Act 2011 (2011 No 4): [section 144][636]
     
-    Limitation Act 2010 (2010 No 110): [section 58][837]
+    Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3): [section 128][518]
     
-    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][768]
+    Limitation Act 2010 (2010 No 110): [section 58][842]
     
-    Accident Compensation Amendment Act 2010 (2010 No 1): [section 5(1)(b)][618]
+    Accident Compensation Amendment Act 2010 (2010 No 1): [section 5(1)(b)][625]
     
-    Māori Trustee Amendment Act 2009 (2009 No 12): [section 30][509]
+    Māori Trustee Amendment Act 2009 (2009 No 12): [section 30][515]
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][624]
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][631]
     
-    Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64): [section 21(2)--(4)][728]
+    Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64): [section 21(2)--(4)][735]
     
-    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][799]
+    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][804]
     
-    [Te Ture Whenua Maori Amendment Act 2008][890] (2008 No 35)
+    [Te Ture Whenua Maori Amendment Act 2008][895] (2008 No 35)
     
-    Property Law Act 2007 (2007 No 91): [section 364(1)][546]
+    Property Law Act 2007 (2007 No 91): [section 364(1)][553]
     
-    [Te Ture Whenua Maori Amendment Act 2007][891] (2007 No 4)
+    [Te Ture Whenua Maori Amendment Act 2007][896] (2007 No 4)
     
-    [Te Ture Whenua Maori Amendment Act 2006][883] (2006 No 76)
+    [Te Ture Whenua Maori Amendment Act 2006][888] (2006 No 76)
     
-    Evidence Act 2006 (2006 No 69): [section 216][610]
+    Evidence Act 2006 (2006 No 69): [section 216][617]
     
-    Insolvency Act 2006 (2006 No 55): [section 445][835]
+    Insolvency Act 2006 (2006 No 55): [section 445][840]
     
-    Overseas Investment Act 2005 (2005 No 82): [section 74][698]
+    Overseas Investment Act 2005 (2005 No 82): [section 74][705]
     
-    Railways Act 2005 (2005 No 37): [section 103(3)][812]
+    Railways Act 2005 (2005 No 37): [section 103(3)][817]
     
-    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][653]
+    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][660]
     
-    [Te Ture Whenua Maori Amendment Act (No 3) 2004][892] (2004 No 108)
+    [Te Ture Whenua Maori Amendment Act (No 3) 2004][897] (2004 No 108)
     
-    Foreshore and Seabed Act 2004 (2004 No 93): [section 103(1)][512]
+    Foreshore and Seabed Act 2004 (2004 No 93): [section 103(1)][519]
     
-    [Te Ture Whenua Maori Amendment Act (No 2) 2004][893] (2004 No 79)
+    [Te Ture Whenua Maori Amendment Act (No 2) 2004][898] (2004 No 79)
     
-    Corrections Act 2004 (2004 No 50): [section 206][729]
+    Corrections Act 2004 (2004 No 50): [section 206][736]
     
-    [Te Ture Whenua Maori Amendment Act 2004][894] (2004 No 48)
+    [Te Ture Whenua Maori Amendment Act 2004][899] (2004 No 48)
     
-    Supreme Court Act 2003 (2003 No 53): [sections 46][604], [48(2)][611]
+    Supreme Court Act 2003 (2003 No 53): [sections 46][611], [48(2)][618]
     
-    State Sector Amendment Act 2003 (2003 No 41): [section 14][534]
+    State Sector Amendment Act 2003 (2003 No 41): [section 14][541]
     
-    Local Government Act 2002 (2002 No 84): [section 262][517]
+    Local Government Act 2002 (2002 No 84): [section 262][524]
     
-    Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54): [section 4(1)][532]
+    Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54): [section 4(1)][539]
     
-    [Te Ture Whenua Maori Amendment Act 2002][590] (2002 No 16)
+    [Te Ture Whenua Maori Amendment Act 2002][597] (2002 No 16)
     
-    Public Trust Act 2001 (2001 No 100): [section 170(1)][515]
+    Public Trust Act 2001 (2001 No 100): [section 170(1)][522]
     
-    Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49): [section 337(1)][617]
+    Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49): [section 337(1)][624]
     
-    Housing Corporation Amendment Act 2001 (2001 No 37): [section 24(1)][516]
+    Housing Corporation Amendment Act 2001 (2001 No 37): [section 24(1)][523]
     
-    [Te Ture Whenua Maori Amendment Act 2001][895] (2001 No 11)
+    [Te Ture Whenua Maori Amendment Act 2001][900] (2001 No 11)
     
-    Legal Services Act 2000 (2000 No 42): [section 128][630]
+    Legal Services Act 2000 (2000 No 42): [section 128][637]
     
-    Estate Duty Repeal Act 1999 (1999 No 64): [section 15(1)][643]
+    Estate Duty Repeal Act 1999 (1999 No 64): [section 15(1)][650]
     
-    Stamp Duty Abolition Act 1999 (1999 No 61): [section 7][613]
+    Stamp Duty Abolition Act 1999 (1999 No 61): [section 7][620]
     
-    Rating Valuations Act 1998 (1998 No 69): [section 54(1)][701]
+    Rating Valuations Act 1998 (1998 No 69): [section 54(1)][708]
     
     Te Ture Whenua Maori Amendment Act (No 2) 1996 (1996 No 153)
     
     Survey Amendment Act 1996 (1996 No 55): section 5
     
-    Institute of Chartered Accountants of New Zealand Act 1996 (1996 No 39): [section 23][769]
-    
     Te Ture Whenua Maori Amendment Act 1996 (1996 No 35)
     
-    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][626]
+    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][633]
     
-    [Te Ture Whenua Maori Amendment Act 1994][896] (1994 No 69)
+    [Te Ture Whenua Maori Amendment Act 1994][901] (1994 No 69)
     
     Te Ture Whenua Maori Amendment Act (No 2) 1993 (1993 No 104)
 
@@ -9744,517 +9764,522 @@ Amendments to Statutes
 [380]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292507
 [381]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292509
 [382]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292510
-[383]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292515
-[384]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292522
-[385]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292524
-[386]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292526
-[387]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292527
-[388]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292528
-[389]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292532
-[390]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292537
-[391]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292538
-[392]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292540
-[393]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292542
-[394]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292543
-[395]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292545
-[396]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292546
-[397]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292547
-[398]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292550
-[399]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292551
-[400]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292552
-[401]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292553
-[402]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292554
-[403]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292555
-[404]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292556
-[405]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292557
-[406]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292558
-[407]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292564
-[408]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292565
-[409]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292566
-[410]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292569
-[411]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292570
-[412]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292572
-[413]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292577
-[414]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292584
-[415]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292590
-[416]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292592
-[417]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292593
-[418]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292594
-[419]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292596
-[420]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292599
-[421]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292801
-[422]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292802
-[423]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292803
-[424]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292804
-[425]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292805
-[426]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292806
-[427]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292807
-[428]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292808
-[429]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292809
-[430]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292811
-[431]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292812
-[432]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292815
-[433]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292816
-[434]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292817
-[435]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292818
-[436]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292819
-[437]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292820
-[438]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292821
-[439]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292822
-[440]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292823
-[441]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292824
-[442]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292826
-[443]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292851
-[444]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292855
-[445]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292858
-[446]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292860
-[447]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292862
-[448]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292863
-[449]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292866
-[450]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292869
-[451]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292870
-[452]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292872
-[453]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292873
-[454]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292874
-[455]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292875
-[456]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292876
-[457]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292877
-[458]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292878
-[459]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292879
-[460]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292880
-[461]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292881
-[462]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292887
-[463]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292889
-[464]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292890
-[465]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292895
-[466]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292897
-[467]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292898
-[468]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292899
-[469]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293001
-[470]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293002
-[471]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293003
-[472]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293004
-[473]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293005
-[474]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293006
-[475]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293007
-[476]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293008
-[477]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293009
-[478]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293010
-[479]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293011
-[480]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293012
-[481]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293013
-[482]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293014
-[483]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293015
-[484]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293016
-[485]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293020
-[486]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293022
-[487]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293023
-[488]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293024
-[489]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293026
-[490]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293027
-[491]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293031
-[492]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM435834
-[493]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143832
-[494]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143833
-[495]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144376
-[496]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM45426
-[497]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM3213146
-[498]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM269031
-[499]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM72469
-[500]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM289716
-[501]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM282037
-[502]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM420326
-[503]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM231740
-[504]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM170872
-[505]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM412430
-[506]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM21254
-[507]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM239393
-[508]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143834
-[509]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM1583888
-[510]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM89682
-[511]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM3213476
-[512]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM320574
-[513]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM314832
-[514]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM324734
-[515]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM124529
-[516]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM96736
-[517]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM174088
-[518]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM398281
-[519]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM294383
-[520]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143854
-[521]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM405102
-[522]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM294384
-[523]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM398282
-[524]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM405103
-[525]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM145701
-[526]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM48668
-[527]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM145705
-[528]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM63926
-[529]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM405104
-[530]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM294386
-[531]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM15636
-[532]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM167443
-[533]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM294388
-[534]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM201378
-[535]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM435544
-[536]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM435597
-[537]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM305825
-[538]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM325974
-[539]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM440363
-[540]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM261466
-[541]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM338467
-[542]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM63928
-[543]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143855
-[544]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM242775
-[545]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM969460
-[546]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM969644
-[547]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM969472
-[548]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143856
-[549]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM969558
-[550]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM969562
-[551]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM63970
-[552]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM31581
-[553]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM31585
-[554]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM31589
-[555]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM63996
-[556]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM89685
-[557]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM243748
-[558]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM4009807
-[559]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143858
-[560]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM89687
-[561]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM21806
-[562]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM437772
-[563]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM314294
-[564]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM311475
-[565]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM312356
-[566]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM313068
-[567]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM313069
-[568]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM313073
-[569]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM313074
-[570]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM313075
-[571]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM311463
-[572]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM398284
-[573]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM398285
-[574]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM312761
-[575]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM312772
-[576]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM312348
-[577]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM312373
-[578]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM312703
-[579]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM324713
-[580]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM324356
-[581]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM324393
-[582]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM324565
-[583]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM324566
-[584]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM324348
-[585]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM398286
-[586]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM398287
-[587]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM4009809
-[588]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143859
-[589]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143861
-[590]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143824
-[591]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM4009817
-[592]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143873
-[593]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM264952
-[594]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM35626
-[595]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM243742
-[596]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM338458
-[597]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM53339
-[598]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM89690
-[599]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM374001
-[600]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM320063
-[601]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM398288
-[602]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM398291
-[603]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM398293
-[604]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM214516
-[605]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM214075
-[606]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM408373
-[607]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM442925
-[608]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM124115
-[609]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM393462
-[610]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM394552
-[611]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM214522
-[612]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM338459
-[613]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM29377
-[614]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM63495
-[615]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM4009811
-[616]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM101801
-[617]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM104117
-[618]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM2773701
-[619]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM353422
-[620]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM89691
-[621]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM430425
-[622]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM139167
-[623]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM3360714
-[624]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM1102349
-[625]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM38550
-[626]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM367235
-[627]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM440359
-[628]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM71806
-[629]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM3143015
-[630]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM73105
-[631]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143875
-[632]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM287740
-[633]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM381179
-[634]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM230272
-[635]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332840
-[636]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332841
-[637]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM440367
-[638]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM392690
-[639]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM409109
-[640]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM170445
-[641]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM349938
-[642]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143877
-[643]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM30504
-[644]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM258703
-[645]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM291745
-[646]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM353424
-[647]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM4009812
-[648]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM390653
-[649]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM394002
-[650]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM969221
-[651]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM293306
-[652]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143878
-[653]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM333795
-[654]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM440391
-[655]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM24087
-[656]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143879
-[657]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM353423
-[658]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332861
-[659]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM310718
-[660]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM338462
-[661]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM349934
-[662]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM411114
-[663]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM440393
-[664]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM440395
-[665]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM314828
-[666]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM324732
-[667]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143881
-[668]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM293845
-[669]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM386363
-[670]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM35617
-[671]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM141134
-[672]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM270684
-[673]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM74878
-[674]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332842
-[675]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM271641
-[676]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143884
-[677]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM310726
-[678]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM63934
-[679]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143886
-[680]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM325972
-[681]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM63922
-[682]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332843
-[683]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143888
-[684]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM411109
-[685]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM250585
-[686]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143890
-[687]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143891
-[688]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM410892
-[689]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143893
-[690]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143894
-[691]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM4009813
-[692]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM4009814
-[693]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM4009815
-[694]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM440369
-[695]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332844
-[696]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM356880
-[697]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144300
-[698]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM358538
-[699]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144302
-[700]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM399728
-[701]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM427717
-[702]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM63930
-[703]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332845
-[704]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144304
-[705]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM287782
-[706]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM289766
-[707]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM437751
-[708]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144305
-[709]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332848
-[710]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM53335
-[711]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM294762
-[712]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332849
-[713]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM282958
-[714]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM353426
-[715]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM323885
-[716]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM437752
-[717]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM395796
-[718]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM427716
-[719]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM249219
-[720]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM427296
-[721]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM427676
-[722]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM427678
-[723]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM427681
-[724]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM427686
-[725]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM388248
-[726]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM442575
-[727]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM262175
-[728]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM1404069
-[729]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM297136
-[730]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332850
-[731]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144307
-[732]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM126527
-[733]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144308
-[734]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144309
-[735]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144311
-[736]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM289314
-[737]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM1297559
-[738]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144312
-[739]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144314
-[740]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144316
-[741]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM89695
-[742]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144318
-[743]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM440385
-[744]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM437773
-[745]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332853
-[746]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM395799
-[747]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332854
-[748]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332855
-[749]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM289790
-[750]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM9056
-[751]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332856
-[752]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM4009816
-[753]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM320845
-[754]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM5620822
-[755]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM127016
-[756]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM127020
-[757]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM127009
-[758]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144321
-[759]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144322
-[760]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM408960
-[761]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM1297560
-[762]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM398295
-[763]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144324
-[764]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM391422
-[765]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM319569
-[766]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144325
-[767]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM1297561
-[768]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM3043113
-[769]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM391427
-[770]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332857
-[771]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM396100
-[772]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144326
-[773]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM5642106
-[774]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144327
-[775]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM405524
-[776]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM89698
-[777]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332858
-[778]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144329
-[779]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM338463
-[780]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM323894
-[781]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM5045103
-[782]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144330
-[783]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM270447
-[784]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM230264
-[785]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM236787
-[786]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM234891
-[787]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM234897
-[788]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144331
-[789]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM236786
-[790]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144332
-[791]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM237253
-[792]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144333
-[793]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144334
-[794]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM89699
-[795]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM63924
-[796]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144335
-[797]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM408885
-[798]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144337
-[799]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM1313622
-[800]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM420673
-[801]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM420676
-[802]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM46327
-[803]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM409101
-[804]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM420367
-[805]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM353428
-[806]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144338
-[807]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM103616
-[808]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM36968
-[809]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM444310
-[810]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM276819
-[811]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM341575
-[812]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM343101
-[813]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM104633
-[814]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM342659
-[815]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM271699
-[816]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM242535
-[817]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM5081570
-[818]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144367
-[819]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144368
-[820]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144369
-[821]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM106995
-[822]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM388296
-[823]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM395797
-[824]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM409104
-[825]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM411112
-[826]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144372
-[827]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM90101
-[828]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM90100
-[829]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM304703
-[830]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM90102
-[831]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144373
-[832]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144374
-[833]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM385298
-[834]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332859
-[835]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM387857
-[836]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM2033100
-[837]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM2033287
-[838]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM3360067
-[839]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM293856
-[840]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM176192
-[841]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM396106
-[842]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332860
-[843]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM134246
-[844]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM210360
-[845]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM396478
-[846]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM385591
-[847]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM411832
-[848]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM442577
-[849]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM268477
-[850]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM107215
-[851]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM192376
-[852]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM170432
-[853]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM293837
-[854]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM310712
-[855]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM320047
-[856]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM323845
-[857]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM325964
-[858]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM338448
-[859]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM349931
-[860]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM353418
-[861]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM373789
-[862]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM380544
-[863]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM385091
-[864]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM388292
-[865]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM393398
-[866]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM395785
-[867]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM405522
-[868]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM408878
-[869]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM410888
-[870]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM430423
-[871]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM437743
-[872]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM440356
-[873]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM9049
-[874]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM35603
-[875]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM38546
-[876]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM53329
-[877]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM63919
-[878]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM74875
-[879]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM257788
-[880]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM128105
-[881]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM163182
-[882]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM242024
-[883]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM398274
-[884]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM1404000
-[885]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM2998516
-[886]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM2998515
-[887]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM2998532
-[888]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[889]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM4009800
-[890]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM1297552
-[891]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM404795
-[892]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM324707
-[893]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM314288
-[894]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM294377
-[895]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM89676
-[896]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332834
+[383]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM6044133
+[384]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM6044134
+[385]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292515
+[386]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292522
+[387]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292524
+[388]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292526
+[389]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292527
+[390]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292528
+[391]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292532
+[392]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292537
+[393]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292538
+[394]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292540
+[395]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292542
+[396]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292543
+[397]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292545
+[398]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292546
+[399]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292547
+[400]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292550
+[401]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292551
+[402]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292552
+[403]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292553
+[404]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292554
+[405]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292555
+[406]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292556
+[407]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292557
+[408]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292558
+[409]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292564
+[410]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292565
+[411]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292566
+[412]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292569
+[413]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292570
+[414]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292572
+[415]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292577
+[416]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292584
+[417]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292590
+[418]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292592
+[419]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292593
+[420]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292594
+[421]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292596
+[422]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292599
+[423]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292801
+[424]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292802
+[425]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292803
+[426]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292804
+[427]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292805
+[428]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292806
+[429]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292807
+[430]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292808
+[431]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292809
+[432]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292811
+[433]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292812
+[434]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292815
+[435]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292816
+[436]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292817
+[437]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292818
+[438]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292819
+[439]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292820
+[440]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292821
+[441]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292822
+[442]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292823
+[443]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292824
+[444]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292826
+[445]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292851
+[446]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292855
+[447]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292858
+[448]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292860
+[449]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292862
+[450]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292863
+[451]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292866
+[452]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292869
+[453]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292870
+[454]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292872
+[455]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292873
+[456]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292874
+[457]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292875
+[458]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292876
+[459]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292877
+[460]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292878
+[461]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292879
+[462]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292880
+[463]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292881
+[464]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292887
+[465]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292889
+[466]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292890
+[467]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292895
+[468]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292897
+[469]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292898
+[470]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM292899
+[471]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293001
+[472]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293002
+[473]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293003
+[474]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293004
+[475]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293005
+[476]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293006
+[477]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293007
+[478]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293008
+[479]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293009
+[480]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293010
+[481]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293011
+[482]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293012
+[483]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293013
+[484]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293014
+[485]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293015
+[486]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293016
+[487]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293020
+[488]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293022
+[489]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293023
+[490]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293024
+[491]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293026
+[492]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293027
+[493]: http://www.legislation.govt.nz/act/public/1993/0004/latest/whole.html#DLM293031
+[494]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM435834
+[495]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143832
+[496]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143833
+[497]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144376
+[498]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM45426
+[499]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM4632837
+[500]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM3213146
+[501]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM269031
+[502]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM4632890
+[503]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM72469
+[504]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM4632894
+[505]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM289716
+[506]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM282037
+[507]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM420326
+[508]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM4632962
+[509]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM231740
+[510]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM170872
+[511]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM412430
+[512]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM21254
+[513]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM239393
+[514]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143834
+[515]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM1583888
+[516]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM89682
+[517]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM5740642
+[518]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM3213476
+[519]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM320574
+[520]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM314832
+[521]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM324734
+[522]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM124529
+[523]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM96736
+[524]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM174088
+[525]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM398281
+[526]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM294383
+[527]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143854
+[528]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM405102
+[529]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM294384
+[530]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM398282
+[531]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM405103
+[532]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM145701
+[533]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM48668
+[534]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM145705
+[535]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM63926
+[536]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM405104
+[537]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM294386
+[538]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM15636
+[539]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM167443
+[540]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM294388
+[541]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM201378
+[542]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM435544
+[543]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM435597
+[544]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM305825
+[545]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM325974
+[546]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM440363
+[547]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM261466
+[548]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM338467
+[549]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM63928
+[550]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143855
+[551]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM242775
+[552]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM969460
+[553]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM969644
+[554]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM969472
+[555]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143856
+[556]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM969558
+[557]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM969562
+[558]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM63970
+[559]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM31581
+[560]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM31585
+[561]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM31589
+[562]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM63996
+[563]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM89685
+[564]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM243748
+[565]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM4009807
+[566]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143858
+[567]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM89687
+[568]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM21806
+[569]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM437772
+[570]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM314294
+[571]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM311475
+[572]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM312356
+[573]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM313068
+[574]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM313069
+[575]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM313073
+[576]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM313074
+[577]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM313075
+[578]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM311463
+[579]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM398284
+[580]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM398285
+[581]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM312761
+[582]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM312772
+[583]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM312348
+[584]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM312373
+[585]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM312703
+[586]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM324713
+[587]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM324356
+[588]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM324393
+[589]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM324565
+[590]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM324566
+[591]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM324348
+[592]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM398286
+[593]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM398287
+[594]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM4009809
+[595]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143859
+[596]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143861
+[597]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143824
+[598]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM4009817
+[599]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143873
+[600]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM264952
+[601]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM35626
+[602]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM243742
+[603]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM338458
+[604]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM53339
+[605]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM89690
+[606]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM374001
+[607]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM320063
+[608]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM398288
+[609]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM398291
+[610]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM398293
+[611]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM214516
+[612]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM214075
+[613]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM408373
+[614]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM442925
+[615]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM124115
+[616]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM393462
+[617]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM394552
+[618]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM214522
+[619]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM338459
+[620]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM29377
+[621]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM63495
+[622]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM4009811
+[623]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM101801
+[624]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM104117
+[625]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM2773701
+[626]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM353422
+[627]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM89691
+[628]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM430425
+[629]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM139167
+[630]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM3360714
+[631]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM1102349
+[632]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM38550
+[633]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM367235
+[634]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM440359
+[635]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM71806
+[636]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM3143015
+[637]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM73105
+[638]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143875
+[639]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM287740
+[640]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM381179
+[641]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM230272
+[642]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332840
+[643]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332841
+[644]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM440367
+[645]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM392690
+[646]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM409109
+[647]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM170445
+[648]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM349938
+[649]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143877
+[650]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM30504
+[651]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM258703
+[652]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM291745
+[653]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM353424
+[654]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM4009812
+[655]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM390653
+[656]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM394002
+[657]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM969221
+[658]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM293306
+[659]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143878
+[660]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM333795
+[661]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM440391
+[662]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM24087
+[663]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143879
+[664]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM353423
+[665]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332861
+[666]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM310718
+[667]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM338462
+[668]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM349934
+[669]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM411114
+[670]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM440393
+[671]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM440395
+[672]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM314828
+[673]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM324732
+[674]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143881
+[675]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM293845
+[676]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM386363
+[677]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM35617
+[678]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM141134
+[679]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM270684
+[680]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM74878
+[681]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332842
+[682]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM271641
+[683]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143884
+[684]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM310726
+[685]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM63934
+[686]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143886
+[687]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM325972
+[688]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM63922
+[689]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332843
+[690]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143888
+[691]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM411109
+[692]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM250585
+[693]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143890
+[694]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143891
+[695]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM410892
+[696]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143893
+[697]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM143894
+[698]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM4009813
+[699]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM4009814
+[700]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM4009815
+[701]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM440369
+[702]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332844
+[703]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM356880
+[704]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144300
+[705]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM358538
+[706]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144302
+[707]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM399728
+[708]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM427717
+[709]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM63930
+[710]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332845
+[711]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144304
+[712]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM287782
+[713]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM289766
+[714]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM437751
+[715]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144305
+[716]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332848
+[717]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM53335
+[718]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM294762
+[719]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332849
+[720]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM282958
+[721]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM353426
+[722]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM323885
+[723]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM437752
+[724]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM395796
+[725]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM427716
+[726]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM249219
+[727]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM427296
+[728]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM427676
+[729]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM427678
+[730]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM427681
+[731]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM427686
+[732]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM388248
+[733]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM442575
+[734]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM262175
+[735]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM1404069
+[736]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM297136
+[737]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332850
+[738]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144307
+[739]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM126527
+[740]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144308
+[741]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144309
+[742]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144311
+[743]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM289314
+[744]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM1297559
+[745]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144312
+[746]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144314
+[747]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144316
+[748]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM89695
+[749]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144318
+[750]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM440385
+[751]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM437773
+[752]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332853
+[753]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM395799
+[754]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332854
+[755]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332855
+[756]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM289790
+[757]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM9056
+[758]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332856
+[759]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM4009816
+[760]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM320845
+[761]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM5620822
+[762]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM127016
+[763]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM127020
+[764]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM127009
+[765]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144321
+[766]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144322
+[767]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM5740655
+[768]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM4632944
+[769]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM4632947
+[770]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144325
+[771]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM5740659
+[772]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM408960
+[773]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332857
+[774]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM396100
+[775]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144326
+[776]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM5642106
+[777]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144327
+[778]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM5740660
+[779]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM405524
+[780]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM5740661
+[781]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM89698
+[782]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332858
+[783]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144329
+[784]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM338463
+[785]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM323894
+[786]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM5045103
+[787]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144330
+[788]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM270447
+[789]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM230264
+[790]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM236787
+[791]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM234891
+[792]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM234897
+[793]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144331
+[794]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM236786
+[795]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144332
+[796]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM237253
+[797]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144333
+[798]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144334
+[799]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM89699
+[800]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM63924
+[801]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144335
+[802]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM408885
+[803]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144337
+[804]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM1313622
+[805]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM420673
+[806]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM420676
+[807]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM46327
+[808]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM409101
+[809]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM420367
+[810]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM353428
+[811]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144338
+[812]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM103616
+[813]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM36968
+[814]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM444310
+[815]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM276819
+[816]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM341575
+[817]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM343101
+[818]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM104633
+[819]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM342659
+[820]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM271699
+[821]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM242535
+[822]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM5081570
+[823]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144367
+[824]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144368
+[825]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144369
+[826]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM106995
+[827]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM388296
+[828]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM395797
+[829]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM409104
+[830]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM411112
+[831]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144372
+[832]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM90101
+[833]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM90100
+[834]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM304703
+[835]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM90102
+[836]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144373
+[837]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM144374
+[838]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM385298
+[839]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332859
+[840]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM387857
+[841]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM2033100
+[842]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM2033287
+[843]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM3360067
+[844]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM293856
+[845]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM176192
+[846]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM396106
+[847]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332860
+[848]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM134246
+[849]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM210360
+[850]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM396478
+[851]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM385591
+[852]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM411832
+[853]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM442577
+[854]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM268477
+[855]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM107215
+[856]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM192376
+[857]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM170432
+[858]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM293837
+[859]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM310712
+[860]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM320047
+[861]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM323845
+[862]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM325964
+[863]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM338448
+[864]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM349931
+[865]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM353418
+[866]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM373789
+[867]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM380544
+[868]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM385091
+[869]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM388292
+[870]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM393398
+[871]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM395785
+[872]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM405522
+[873]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM408878
+[874]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM410888
+[875]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM430423
+[876]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM437743
+[877]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM440356
+[878]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM9049
+[879]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM35603
+[880]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM38546
+[881]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM53329
+[882]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM63919
+[883]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM74875
+[884]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM257788
+[885]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM128105
+[886]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM163182
+[887]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM242024
+[888]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM398274
+[889]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM1404000
+[890]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM2998516
+[891]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM2998515
+[892]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM2998532
+[893]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[894]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM4009800
+[895]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM1297552
+[896]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM404795
+[897]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM324707
+[898]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM314288
+[899]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM294377
+[900]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM89676
+[901]: http://www.legislation.govt.nz/act/public/1993/0004/latest/link.aspx?id=DLM332834
