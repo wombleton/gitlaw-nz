@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2003
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencement6 October 1965
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Department of Internal Affairs.
 
@@ -71,29 +71,33 @@ This Act is administered by the Department of Internal Affairs.
 
 [20A][24][][24][Overdrafts][24]
 
-[21][25][][25][Accounts][25]
+[21][25][][25][Accounting records must be kept][25]
 
-[22][26][][26][Exemption from taxation][26]
+[21A][26][][26][Financial statements must be prepared][26]
 
-[23][27][][27][Annual report][27]
+[21B ][27][][27][Financial statements must be audited][27]
 
-[24][28][][28][Travelling allowances][28]
+[22][28][][28][Exemption from taxation][28]
 
-[25][29][][29][Unauthorised expenditure][29]
+[23][29][][29][Annual report][29]
 
-[Miscellaneous provisions][30]
+[24][30][][30][Travelling allowances][30]
 
-[26][31][][31][Office of Board][31]
+[25][31][][31][Unauthorised expenditure][31]
 
-[27][32][][32][Appointment of officers][32]
+[Miscellaneous provisions][32]
 
-[28][33][][33][Members of Board not personally liable][33]
+[26][33][][33][Office of Board][33]
 
-[29][34][][34][Contracts of Board and members][34]
+[27][34][][34][Appointment of officers][34]
 
-[30][35][][35][Entering into agreements by Board][35]
+[28][35][][35][Members of Board not personally liable][35]
 
-[31][36][][36][Certain assets and liabilities to become assets and liabilities of the Board][36]
+[29][36][][36][Contracts of Board and members][36]
+
+[30][37][][37][Entering into agreements by Board][37]
+
+[31][38][][38][Certain assets and liabilities to become assets and liabilities of the Board][38]
 
 ---
 
@@ -109,9 +113,17 @@ An Act to establish the Winston Churchill Memorial Trust Fund, to constitute a B
     
     _Board_ means the Winston Churchill Memorial Trust Board established by this Act
     
+    _financial statements_ has the same meaning as in [section 6][39] of the Financial Reporting Act 2013
+    
     _Fund_ means the Winston Churchill Memorial Trust Fund established by this Act
     
+    _generally accepted accounting practice_ has the same meaning as in [section 8][40] of the Financial Reporting Act 2013
+    
     _Minister_ means the Minister of Internal Affairs.
+    
+    Section 2 **financial statements**: inserted, on 1 April 2014, by [section 125][41] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 2 **generally accepted accounting practice**: inserted, on 1 April 2014, by [section 125][41] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 #### The Winston Churchill Memorial Trust Board
 
@@ -127,11 +139,11 @@ An Act to establish the Winston Churchill Memorial Trust Fund, to constitute a B
     
     provided that the Minister, after the first members are appointed, shall consult with the Board before recommending the appointment or reappointment of any person as a member.
     
-    (2) No person, by reason only of his being a member of the Board or of any committee appointed by the Board, shall be deemed to be employed in the State services for the purposes of the [State Sector Act 1988][37], or in the Government service for the purposes of the [Government Superannuation Fund Act 1956][38].
+    (2) No person, by reason only of his being a member of the Board or of any committee appointed by the Board, shall be deemed to be employed in the State services for the purposes of the [State Sector Act 1988][42], or in the Government service for the purposes of the [Government Superannuation Fund Act 1956][43].
     
-    Section 4(2): amended, on 1 April 1988, pursuant to [section 90(a)][39] of the State Sector Act 1988 (1988 No 20).
+    Section 4(2): amended, on 1 April 1988, pursuant to [section 90(a)][44] of the State Sector Act 1988 (1988 No 20).
     
-    Section 4(2): amended, on 1 November 1976, pursuant to [section 3(3)][40] of the Government Superannuation Fund Amendment Act 1976 (1976 No 30).
+    Section 4(2): amended, on 1 November 1976, pursuant to [section 3(3)][45] of the Government Superannuation Fund Amendment Act 1976 (1976 No 30).
 
 ##### 5 Terms of office of members
     
@@ -153,7 +165,7 @@ An Act to establish the Winston Churchill Memorial Trust Fund, to constitute a B
     
     (4) Every person appointed to fill an extraordinary vacancy shall be appointed for the residue of the term for which the vacating member was appointed.
     
-    Section 6(1): amended, on 1 January 2002, by [section 70(1)][41] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 6(1): amended, on 1 January 2002, by [section 70(1)][46] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 7 Chairman of the Board
     
@@ -255,15 +267,15 @@ An Act to establish the Winston Churchill Memorial Trust Fund, to constitute a B
 
 ##### 15 Donations to Board
     
-*   Any local authority within the meaning of the [Local Government Act 2002][42] or other public body, any public corporation, any company or other incorporated body, any unincorporated body of persons, or any other person may, unless expressly prohibited by any Act or instrument of trust affecting the donor, make to the Board donations or gifts and the Board may accept any such donations or gifts.
+*   Any local authority within the meaning of the [Local Government Act 2002][47] or other public body, any public corporation, any company or other incorporated body, any unincorporated body of persons, or any other person may, unless expressly prohibited by any Act or instrument of trust affecting the donor, make to the Board donations or gifts and the Board may accept any such donations or gifts.
     
-    Section 15: amended, on 1 July 2003, by [section 262][43] of the Local Government Act 2002 (2002 No 84).
+    Section 15: amended, on 1 July 2003, by [section 262][48] of the Local Government Act 2002 (2002 No 84).
 
 ##### 16 Capital and income of Fund
     
 *   (1) The capital of the Fund shall consist of:
         
-    *   (a) all money vested in the Board pursuant to [section 31][36]:
+    *   (a) all money vested in the Board pursuant to [section 31][38]:
     
     *   (b) all money paid to the Board by way of grants, donations, or gifts under [section 15][18] or otherwise except---
             
@@ -285,7 +297,7 @@ An Act to establish the Winston Churchill Memorial Trust Fund, to constitute a B
     
     *   (b) all income derived from the administration of property held by or on behalf of the Board:
     
-    *   (c) all money derived from the leasing of land or resulting from any agreement entered into by the Board under [section 30][35]:
+    *   (c) all money derived from the leasing of land or resulting from any agreement entered into by the Board under [section 30][37]:
     
     *   (d) all other money not forming part of the capital of the Fund.
     
@@ -293,13 +305,13 @@ An Act to establish the Winston Churchill Memorial Trust Fund, to constitute a B
 
 ##### 17 Powers of investment
     
-*   (1) Any money, being capital of the Fund within the meaning of [section 16][19], held by or on behalf of the Board shall from time to time be invested in accordance with the provisions of the [Trustee Act 1956][44] as to the investment of trust funds:
+*   (1) Any money, being capital of the Fund within the meaning of [section 16][19], held by or on behalf of the Board shall from time to time be invested in accordance with the provisions of the [Trustee Act 1956][49] as to the investment of trust funds:
     
     provided that, notwithstanding any rule of law or equity to the contrary, the Board shall not be obliged to convert any property which is the subject of a gift to the Board and which is not property in which the Board may properly invest money pursuant to this subsection.
     
-    (2) Any money, being income of the Fund within the meaning of [section 16][19], may, at the discretion of the Board, from time to time be invested in accordance with the provisions of the [Trustee Act 1956][44] as to the investment of trust funds.
+    (2) Any money, being income of the Fund within the meaning of [section 16][19], may, at the discretion of the Board, from time to time be invested in accordance with the provisions of the [Trustee Act 1956][49] as to the investment of trust funds.
     
-    Section 17: replaced, on 1 October 1988, by [section 14(1)][45] of the Trustee Amendment Act 1988 (1988 No 119).
+    Section 17: replaced, on 1 October 1988, by [section 14(1)][50] of the Trustee Amendment Act 1988 (1988 No 119).
 
 ##### 18 Authorised expenditure
     
@@ -353,17 +365,43 @@ An Act to establish the Winston Churchill Memorial Trust Fund, to constitute a B
     
     Section 20A: inserted, on 8 March 1985, by section 2 of the Winston Churchill Memorial Trust Amendment Act 1985 (1985 No 7).
 
-##### 21 Accounts
+##### 21 Accounting records must be kept
     
-*   (1) The Board must keep full and correct accounts of all money received and expended by it.
+*   (1) The Board must ensure that there are kept at all times accounting records that---
+        
+    *   (a) correctly record the transactions of the Board; and
     
-    (2) The Board shall, as soon as possible after the end of every financial year ending with 31 March, cause the accounts of the Board for that financial year to be balanced and prepare a statement of the assets and liabilities of the Board as at the end of that financial year, together with an account of income and expenditure showing the financial transactions for that year.
+    *   (b) will enable the Board to ensure that the financial statements of the Board comply with this Act; and
     
-    (3) The Board is a public entity as defined in [section 4][46] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+    *   (c) will enable the financial statements of the Board to be readily and properly audited.
     
-    Section 21(1): replaced, on 1 July 2001, by [section 53][47] of the Public Audit Act 2001 (2001 No 10).
+    (2) The Board must establish and maintain a satisfactory system of control of those accounting records.
     
-    Section 21(3): inserted, on 1 July 2001, by [section 53][47] of the Public Audit Act 2001 (2001 No 10).
+    (3) The accounting records must be kept---
+        
+    *   (a) in written form in English; or
+    
+    *   (b) in a form or manner in which they are easily accessible and convertible into written form in English.
+    
+    Section 21: replaced, on 1 April 2014, by [section 125][41] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 21A Financial statements must be prepared
+    
+*   The Board must ensure that, within 5 months after the end of the financial year ending on 31 March, financial statements that comply with generally accepted accounting practice are---
+        
+    *   (a) completed in relation to the Board and that financial year; and
+    
+    *   (b) dated and signed on behalf of the Board by 2 members of the Board.
+    
+    Section 21A: inserted, on 1 April 2014, by [section 125][41] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 21B Financial statements must be audited
+    
+*   (1) The Board must ensure that the financial statements of the Board are audited.
+    
+    (2) The Board is a public entity as defined in [section 4][51] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+    
+    Section 21B: inserted, on 1 April 2014, by [section 125][41] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 22 Exemption from taxation
     
@@ -371,17 +409,21 @@ An Act to establish the Winston Churchill Memorial Trust Fund, to constitute a B
 
 ##### 23 Annual report
     
-*   (1) The Board shall, not later than 30 June in every year, furnish to the Minister a report of its proceedings and operations for its preceding financial year, together with a copy of its accounts for that year certified by the Auditor-General.
+*   (1) The Board must, not later than 31 August in every year, provide to the Minister a report of its proceedings and operations for its preceding financial year, together with a copy of its financial statements for that year and a copy of the audit report.
     
-    (2) A copy of the report and of the accounts so certified shall be laid before Parliament if then sitting and, if not, within 28 days after the commencement of the next ensuing session.
+    (2) The Minister must present a copy of the report, of the financial statements, and of the audit report to the House of Representatives---
+        
+    *   (a) not later than 10 working days after the Minister receives those documents; or
     
-    Section 23(1): amended, on 1 July 2001, pursuant to [section 52][48] of the Public Audit Act 2001 (2001 No 10).
+    *   (b) if Parliament is not in session, as soon as possible after the commencement of the next session of Parliament.
+    
+    Section 23: replaced, on 1 April 2014, by [section 125][41] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 24 Travelling allowances
     
-*   (1) The Board is hereby declared to be a statutory Board within the meaning of the [Fees and Travelling Allowances Act 1951][49].
+*   (1) The Board is hereby declared to be a statutory Board within the meaning of the [Fees and Travelling Allowances Act 1951][52].
     
-    (2) There may be paid to the members of the Board and of any committee appointed by the Board out of the funds of the Board, travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][49].
+    (2) There may be paid to the members of the Board and of any committee appointed by the Board out of the funds of the Board, travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][52].
 
 ##### 25 Unauthorised expenditure
     
@@ -399,9 +441,9 @@ An Act to establish the Winston Churchill Memorial Trust Fund, to constitute a B
     
     (2) The Board may pay to its officers and servants from the Board's income such salaries and allowances as it thinks fit.
     
-    (3) For the purpose of providing superannuation or retiring allowances for its officers, the Board may make payments to or subsidise any superannuation scheme which is registered under the [Superannuation Schemes Act 1989][50].
+    (3) For the purpose of providing superannuation or retiring allowances for its officers, the Board may make payments to or subsidise any superannuation scheme which is registered under the [Superannuation Schemes Act 1989][53].
     
-    Section 27(3): replaced, on 1 April 1991, by [section 80][51] of the National Provident Fund Restructuring Act 1990 (1990 No 126).
+    Section 27(3): replaced, on 1 April 1991, by [section 80][54] of the National Provident Fund Restructuring Act 1990 (1990 No 126).
 
 ##### 28 Members of Board not personally liable
     
@@ -409,11 +451,11 @@ An Act to establish the Winston Churchill Memorial Trust Fund, to constitute a B
 
 ##### 29 Contracts of Board and members
     
-*   (1) _Amendment(s) incorporated in the [Act(s)][52]._
+*   (1) _Amendment(s) incorporated in the [Act(s)][55]._
     
     (2) \[Repealed\]
     
-    Section 29(2): repealed, on 18 December 1968, by [section 9(1)][53] of the Local Authorities (Members' Interests) Act 1968 (1968 No 147).
+    Section 29(2): repealed, on 18 December 1968, by [section 9(1)][56] of the Local Authorities (Members' Interests) Act 1968 (1968 No 147).
 
 ##### 30 Entering into agreements by Board
     
@@ -431,92 +473,49 @@ An Act to establish the Winston Churchill Memorial Trust Fund, to constitute a B
     
     (5) Notwithstanding the provisions of any enactment or rule of law, all donations and gifts of any description made by any local authority, body, or person before the commencement of this Act and held by or on behalf of the said Organising Committee or the said Interim Board of Trustees are hereby validated and declared to have been lawful.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Winston Churchill Memorial Trust Act 1965\. The reprint incorporates all the amendments to the Act as at 1 July 2003, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][54] ![](/images/external_link.gif).
+*   This is a reprint of the Winston Churchill Memorial Trust Act 1965 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][55] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][57] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][58] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][56] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][59] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][60] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][57] and [17E][58] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 125][41]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Local Government Act 2002 (2002 No 84): [section 262][48]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][46]
     
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Local Government Act 2002 (2002 No 84): [section 262][43]
-    
-    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][41]
-    
-    Public Audit Act 2001 (2001 No 10): [sections 52][48], [53][47]
-    
-    National Provident Fund Restructuring Act 1990 (1990 No 126): [section 80][51]
+    National Provident Fund Restructuring Act 1990 (1990 No 126): [section 80][54]
     
     Winston Churchill Memorial Trust Amendment Act 1988 (1988 No 220)
     
-    Trustee Amendment Act 1988 (1988 No 119): [section 14(1)][45]
+    Trustee Amendment Act 1988 (1988 No 119): [section 14(1)][50]
     
-    State Sector Act 1988 (1988 No 20): [section 90(a)][39]
+    State Sector Act 1988 (1988 No 20): [section 90(a)][44]
     
     Winston Churchill Memorial Trust Amendment Act 1985 (1985 No 47)
     
-    Government Superannuation Fund Amendment Act 1976 (1976 No 30): [section 3(3)][40]
+    Government Superannuation Fund Amendment Act 1976 (1976 No 30): [section 3(3)][45]
     
-    Local Authorities (Members' Interests) Act 1968 (1968 No 147): [section 9(1)][53]
+    Local Authorities (Members' Interests) Act 1968 (1968 No 147): [section 9(1)][56]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1965/0039/latest/whole.html#DLM373163
 [2]: http://www.legislation.govt.nz/act/public/1965/0039/latest/whole.html#DLM373165
 [3]: http://www.legislation.govt.nz/act/public/1965/0039/latest/whole.html#DLM373166
@@ -542,36 +541,38 @@ An Act to establish the Winston Churchill Memorial Trust Fund, to constitute a B
 [23]: http://www.legislation.govt.nz/act/public/1965/0039/latest/whole.html#DLM373198
 [24]: http://www.legislation.govt.nz/act/public/1965/0039/latest/whole.html#DLM373199
 [25]: http://www.legislation.govt.nz/act/public/1965/0039/latest/whole.html#DLM373401
-[26]: http://www.legislation.govt.nz/act/public/1965/0039/latest/whole.html#DLM373403
-[27]: http://www.legislation.govt.nz/act/public/1965/0039/latest/whole.html#DLM373404
-[28]: http://www.legislation.govt.nz/act/public/1965/0039/latest/whole.html#DLM373405
-[29]: http://www.legislation.govt.nz/act/public/1965/0039/latest/whole.html#DLM373406
-[30]: http://www.legislation.govt.nz/act/public/1965/0039/latest/whole.html#DLM4459011
-[31]: http://www.legislation.govt.nz/act/public/1965/0039/latest/whole.html#DLM373409
-[32]: http://www.legislation.govt.nz/act/public/1965/0039/latest/whole.html#DLM373410
-[33]: http://www.legislation.govt.nz/act/public/1965/0039/latest/whole.html#DLM373412
-[34]: http://www.legislation.govt.nz/act/public/1965/0039/latest/whole.html#DLM373413
-[35]: http://www.legislation.govt.nz/act/public/1965/0039/latest/whole.html#DLM373415
-[36]: http://www.legislation.govt.nz/act/public/1965/0039/latest/whole.html#DLM373416
-[37]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM129109
-[38]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM446000
-[39]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM130377
-[40]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM439001
-[41]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM122579
-[42]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM170872
-[43]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM174088
-[44]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM304703
-[45]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM135629
-[46]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM88548
-[47]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM88957
-[48]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM88956
-[49]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM264952
-[50]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM143291
-[51]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM226616
-[52]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM324218
-[53]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM390059
-[54]: http://www.pco.parliament.govt.nz/reprints/
-[55]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM195439
-[56]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[57]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM195468
-[58]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM195470
+[26]: http://www.legislation.govt.nz/act/public/1965/0039/latest/whole.html#DLM6047711
+[27]: http://www.legislation.govt.nz/act/public/1965/0039/latest/whole.html#DLM6047712
+[28]: http://www.legislation.govt.nz/act/public/1965/0039/latest/whole.html#DLM373403
+[29]: http://www.legislation.govt.nz/act/public/1965/0039/latest/whole.html#DLM373404
+[30]: http://www.legislation.govt.nz/act/public/1965/0039/latest/whole.html#DLM373405
+[31]: http://www.legislation.govt.nz/act/public/1965/0039/latest/whole.html#DLM373406
+[32]: http://www.legislation.govt.nz/act/public/1965/0039/latest/whole.html#DLM4459011
+[33]: http://www.legislation.govt.nz/act/public/1965/0039/latest/whole.html#DLM373409
+[34]: http://www.legislation.govt.nz/act/public/1965/0039/latest/whole.html#DLM373410
+[35]: http://www.legislation.govt.nz/act/public/1965/0039/latest/whole.html#DLM373412
+[36]: http://www.legislation.govt.nz/act/public/1965/0039/latest/whole.html#DLM373413
+[37]: http://www.legislation.govt.nz/act/public/1965/0039/latest/whole.html#DLM373415
+[38]: http://www.legislation.govt.nz/act/public/1965/0039/latest/whole.html#DLM373416
+[39]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM4632890
+[40]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM4632894
+[41]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM5740664
+[42]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM129109
+[43]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM446000
+[44]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM130377
+[45]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM439001
+[46]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM122579
+[47]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM170872
+[48]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM174088
+[49]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM304703
+[50]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM135629
+[51]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM88548
+[52]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM264952
+[53]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM143291
+[54]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM226616
+[55]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM324218
+[56]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM390059
+[57]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM2998516
+[58]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM2998515
+[59]: http://www.legislation.govt.nz/act/public/1965/0039/latest/link.aspx?id=DLM2998532
+[60]: http://www.pco.parliament.govt.nz/editorial-conventions/
