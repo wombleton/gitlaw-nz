@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2003
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencement7 December 1945
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Education.
 
@@ -55,9 +55,11 @@ This Act is administered by the Ministry of Education.
 
 [13][16][][16][Members of Board not personally liable][16]
 
-[14][17][][17][Statement of account][17]
+[14][17][][17][Financial statements must be prepared][17]
 
-[15][18][][18][Annual report][18]
+[14A][18][][18][Financial statements must be audited][18]
+
+[15][19][][19][Annual report][19]
 
 ---
 
@@ -85,15 +87,15 @@ An Act to establish a fund to be known as the Ngarimu VC and 28th (Maori) Battal
     
     _Fund_ means the Ngarimu VC and 28th (Maori) Battalion Memorial Scholarship Fund established by this Act
     
-    _local authority_ means a local authority within the meaning of the [Local Government Act 2002][19]
+    _local authority_ means a local authority within the meaning of the [Local Government Act 2002][20]
     
     _Maori_ means a person belonging to the aboriginal race of New Zealand, and includes a person descended from a Maori
     
     _Minister_ means the Minister of Education.
     
-    Section 2 **financial year**: amended, on 12 September 1974, by [section 2][20] of the Ngarimu VC and 28th (Maori) Battalion Memorial Scholarship Fund Amendment Act 1974 (1974 No 52).
+    Section 2 **financial year**: amended, on 12 September 1974, by [section 2][21] of the Ngarimu VC and 28th (Maori) Battalion Memorial Scholarship Fund Amendment Act 1974 (1974 No 52).
     
-    Section 2 **local authority**: replaced, on 1 July 2003, by [section 262][21] of the Local Government Act 2002 (2002 No 84).
+    Section 2 **local authority**: replaced, on 1 July 2003, by [section 262][22] of the Local Government Act 2002 (2002 No 84).
 
 ##### 3 Ngarimu VC and 28th (Maori) Battalion Memorial Scholarship Fund established
     
@@ -109,7 +111,7 @@ An Act to establish a fund to be known as the Ngarimu VC and 28th (Maori) Battal
     
     (3) No moneys shall be paid out of the Fund Account except pursuant to a resolution of the Board established by this Act.
     
-    Section 3(2): amended, on 27 November 1947, pursuant to [section 2(2)][22] of the Maori Purposes Act 1947 (1947 No 59).
+    Section 3(2): amended, on 27 November 1947, pursuant to [section 2(2)][23] of the Maori Purposes Act 1947 (1947 No 59).
 
 ##### 4 Establishment of Board to administer Fund
     
@@ -137,13 +139,13 @@ An Act to establish a fund to be known as the Ngarimu VC and 28th (Maori) Battal
     
     (4) \[Repealed\]
     
-    Section 4(2)(aa): inserted, on 19 December 1998, by [section 2(1)][23] of the Ngarimu VC and 28th (Maori) Battalion Memorial Scholarship Fund Amendment Act 1998 (1998 No 120).
+    Section 4(2)(aa): inserted, on 19 December 1998, by [section 2(1)][24] of the Ngarimu VC and 28th (Maori) Battalion Memorial Scholarship Fund Amendment Act 1998 (1998 No 120).
     
-    Section 4(2)(b): amended, on 1 October 1989, pursuant to [section 144(2)][24] of the Education Act 1989 (1989 No 80).
+    Section 4(2)(b): amended, on 1 October 1989, pursuant to [section 144(2)][25] of the Education Act 1989 (1989 No 80).
     
-    Section 4(2)(c): replaced, on 19 December 1998, by [section 2(2)][23] of the Ngarimu VC and 28th (Maori) Battalion Memorial Scholarship Fund Amendment Act 1998 (1998 No 120).
+    Section 4(2)(c): replaced, on 19 December 1998, by [section 2(2)][24] of the Ngarimu VC and 28th (Maori) Battalion Memorial Scholarship Fund Amendment Act 1998 (1998 No 120).
     
-    Section 4(2)(d): replaced, on 19 December 1998, by [section 2(2)][23] of the Ngarimu VC and 28th (Maori) Battalion Memorial Scholarship Fund Amendment Act 1998 (1998 No 120).
+    Section 4(2)(d): replaced, on 19 December 1998, by [section 2(2)][24] of the Ngarimu VC and 28th (Maori) Battalion Memorial Scholarship Fund Amendment Act 1998 (1998 No 120).
     
     Section 4(2)(e): replaced, on 8 March 1985, by section 2(1) of the Ngarimu VC and 28th (Maori) Battalion Memorial Scholarship Fund Amendment Act 1985 (1985 No 33).
     
@@ -199,7 +201,7 @@ An Act to establish a fund to be known as the Ngarimu VC and 28th (Maori) Battal
     
     (11) Subject to the provisions of this Act, the Committee appointed under this section may regulate its procedure in such manner as it thinks fit.
     
-    Section 6A: inserted, on 12 September 1974, by [section 3][25] of the Ngarimu VC and 28th (Maori) Battalion Memorial Scholarship Fund Amendment Act 1974 (1974 No 52).
+    Section 6A: inserted, on 12 September 1974, by [section 3][26] of the Ngarimu VC and 28th (Maori) Battalion Memorial Scholarship Fund Amendment Act 1974 (1974 No 52).
 
 ##### 7 Functions of Board
     
@@ -239,128 +241,85 @@ An Act to establish a fund to be known as the Ngarimu VC and 28th (Maori) Battal
 
 ##### 12 Travelling expenses of Board
     
-*   The Board shall pay out of the Fund to its members (other than the Minister and the Maori Members of Parliament) travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][26], and the provisions of that Act shall apply accordingly.
+*   The Board shall pay out of the Fund to its members (other than the Minister and the Maori Members of Parliament) travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][27], and the provisions of that Act shall apply accordingly.
     
-    Section 12: replaced, on 1 April 1952, by [section 10(1)][27] of the Fees and Travelling Allowances Act 1951 (1951 No 79).
+    Section 12: replaced, on 1 April 1952, by [section 10(1)][28] of the Fees and Travelling Allowances Act 1951 (1951 No 79).
 
 ##### 13 Members of Board not personally liable
     
 *   No member of the Board shall be personally liable for any act or default done or made by the Board or by any member thereof in good faith in the course of the operations of the Board.
 
-##### 14 Statement of account
+##### 14 Financial statements must be prepared
     
-*   (1) The Board shall, before 1 April in each year, cause to be prepared in respect of the Fund a true statement of account, in a form for the time being approved by the Controller and Auditor-General, which shall include:
+*   The Board must ensure that, within 5 months after the end of the financial year, financial statements that comply with generally accepted accounting practice are---
         
-    *   (a) a statement of financial position showing the assets and liabilities of the Fund at the end of the immediately preceding financial year:
+    *   (a) completed in relation to the Board and that financial year; and
     
-    *   (b) an income and expenditure account showing the financial transactions for the immediately preceding financial year.
+    *   (b) dated and signed on behalf of the Board by 2 members of the Board.
     
-    (2) The Board is a public entity as defined in [section 4][28] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+    Section 14: replaced, on 1 April 2014, by [section 125][29] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 14A Financial statements must be audited
     
-    Section 14: replaced, on 12 September 1974, by [section 4(1)][29] of the Ngarimu VC and 28th (Maori) Battalion Memorial Scholarship Fund Amendment Act 1974 (1974 No 52).
+*   (1) The Board must ensure that the financial statements of the Board are audited.
     
-    Section 14(1)(a): amended, on 1 October 1997, pursuant to [section 6(1)][30] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    (2) The Board is a public entity as defined in [section 4][30] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
     
-    Section 14(2): replaced, on 1 July 2001, by [section 53][31] of the Public Audit Act 2001 (2001 No 10).
+    Section 14A: inserted, on 1 April 2014, by [section 125][29] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 15 Annual report
     
-*   (1) As soon as practicable after the end of each financial year the Board shall furnish to the Minister a report of its operations and proceedings during that year, together with a copy of its statement of account for that year with the report of the Auditor-General thereon.
+*   (1) As soon as practicable after the end of each financial year, the Board must provide to the Minister a report of its operations and proceedings during that year, together with a copy of its financial statements for that year with the audit report on those statements.
     
-    (2) A copy of the annual report and of the statement of account with the report of the Auditor-General thereon shall be laid before Parliament as soon as practicable after their receipt by the Minister.
+    (2) The Minister must present a copy of the report, the financial statements, and the audit report to the House of Representatives---
+        
+    *   (a) not later than 10 working days after the Minister receives those documents; or
     
-    Section 15: inserted, on 12 September 1974, by [section 4(1)][29] of the Ngarimu VC and 28th (Maori) Battalion Memorial Scholarship Fund Amendment Act 1974 (1974 No 52).
+    *   (b) if Parliament is not in session, as soon as possible after the commencement of the next session of Parliament.
     
-    Section 15(1): amended, on 1 July 2001, pursuant to [section 52][32] of the Public Audit Act 2001 (2001 No 10).
-    
-    Section 15(2): amended, on 1 July 2001, pursuant to [section 52][32] of the Public Audit Act 2001 (2001 No 10).
+    Section 15: replaced, on 1 April 2014, by [section 125][29] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Ngarimu VC and 28th (Maori) Battalion Memorial Scholarship Fund Act 1945\. The reprint incorporates all the amendments to the Act as at 1 July 2003, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][33] ![](/images/external_link.gif).
+*   This is a reprint of the Ngarimu VC and 28th (Maori) Battalion Memorial Scholarship Fund Act 1945 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][34] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][31] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][32] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][35] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][33] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][34] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][36] and [17E][37] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 125][29]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Local Government Act 2002 (2002 No 84): [section 262][22]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    [Ngarimu VC and 28th (Maori) Battalion Memorial Scholarship Fund Amendment Act 1998][35] (1998 No 120)
     
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Local Government Act 2002 (2002 No 84): [section 262][21]
-    
-    Public Audit Act 2001 (2001 No 10): [sections 52][32], [53][31]
-    
-    [Ngarimu VC and 28th (Maori) Battalion Memorial Scholarship Fund Amendment Act 1998][38] (1998 No 120)
-    
-    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6(1)][30]
-    
-    Education Act 1989 (1989 No 80): [section 144(2)][24]
+    Education Act 1989 (1989 No 80): [section 144(2)][25]
     
     Ngarimu VC and 28th (Maori) Battalion Memorial Scholarship Fund Amendment Act 1985 (1985 No 33)
     
-    [Ngarimu VC and 28th (Maori) Battalion Memorial Scholarship Fund Amendment Act 1974][39] (1974 No 52)
+    [Ngarimu VC and 28th (Maori) Battalion Memorial Scholarship Fund Amendment Act 1974][36] (1974 No 52)
     
     Local Authorities (Members' Contracts) Act 1954 (1954 No 49): section 7(1)
     
-    Fees and Travelling Allowances Act 1951 (1951 No 79): [section 10(1)][27]
+    Fees and Travelling Allowances Act 1951 (1951 No 79): [section 10(1)][28]
     
-    Maori Purposes Act 1947 (1947 No 59): [section 2(2)][22]
+    Maori Purposes Act 1947 (1947 No 59): [section 2(2)][23]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1945/0033/latest/whole.html#DLM238751
 [2]: http://www.legislation.govt.nz/act/public/1945/0033/latest/whole.html#DLM238752
 [3]: http://www.legislation.govt.nz/act/public/1945/0033/latest/whole.html#DLM238755
@@ -378,25 +337,22 @@ An Act to establish a fund to be known as the Ngarimu VC and 28th (Maori) Battal
 [15]: http://www.legislation.govt.nz/act/public/1945/0033/latest/whole.html#DLM238788
 [16]: http://www.legislation.govt.nz/act/public/1945/0033/latest/whole.html#DLM238790
 [17]: http://www.legislation.govt.nz/act/public/1945/0033/latest/whole.html#DLM238791
-[18]: http://www.legislation.govt.nz/act/public/1945/0033/latest/whole.html#DLM238795
-[19]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM170872
-[20]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM415528
-[21]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM174088
-[22]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM245843
-[23]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM19315
-[24]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM182047
-[25]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM415529
-[26]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM264952
-[27]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM264982
-[28]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM88548
-[29]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM415530
-[30]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM408960
-[31]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM88957
-[32]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM88956
-[33]: http://www.pco.parliament.govt.nz/reprints/
-[34]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM195439
-[35]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[36]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM195468
-[37]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM195470
-[38]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM19309
-[39]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM415522
+[18]: http://www.legislation.govt.nz/act/public/1945/0033/latest/whole.html#DLM6046506
+[19]: http://www.legislation.govt.nz/act/public/1945/0033/latest/whole.html#DLM238795
+[20]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM170872
+[21]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM415528
+[22]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM174088
+[23]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM245843
+[24]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM19315
+[25]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM182047
+[26]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM415529
+[27]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM264952
+[28]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM264982
+[29]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM5740664
+[30]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM88548
+[31]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM2998516
+[32]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM2998515
+[33]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM2998532
+[34]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[35]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM19309
+[36]: http://www.legislation.govt.nz/act/public/1945/0033/latest/link.aspx?id=DLM415522
