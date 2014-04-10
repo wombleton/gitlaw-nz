@@ -1,5 +1,5 @@
 Reprint  
-as at 10 September 2008
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencement20 October 1972
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Education.
 
@@ -89,21 +89,25 @@ This Act is administered by the Ministry of Education.
 
 [27][33][][33][Council may establish imprest accounts][33]
 
-[28][34][][34][Audit of Council's accounts][34]
+[28][34][][34][Accounting records must be kept][34]
 
-[29][35][][35][Exemption from land and income tax][35]
+[28A][35][][35][Financial statements must be prepared][35]
 
-[30][36][][36][Remuneration and travelling expenses of members of the Council and of committees][36]
+[28B ][36][][36][Financial statements must be audited][36]
 
-[31][37][][37][Unauthorised expenditure][37]
+[29][37][][37][Exemption from land and income tax][37]
 
-[Miscellaneous provisions][38]
+[30][38][][38][Remuneration and travelling expenses of members of the Council and of committees][38]
 
-[32][39][][39][Annual report][39]
+[31][39][][39][Unauthorised expenditure][39]
 
-[33][40][][40][Rules][40]
+[Miscellaneous provisions][40]
 
-[34][41][][41][Consequential amendments, savings, and repeals][41]
+[32][41][][41][Annual report][41]
+
+[33][42][][42][Rules][42]
+
+[34][43][][43][Consequential amendments, savings, and repeals][43]
 
 ---
 
@@ -123,11 +127,19 @@ An Act to consolidate and amend the law relating to the powers and functions of 
     
     _electoral college_ means the electoral college constituted under this Act
     
+    _financial statements_ has the same meaning as in [section 6][44] of the Financial Reporting Act 2013
+    
     _financial year_ means a period of 12 consecutive months ending with 31 March
+    
+    _generally accepted accounting practice_ has the same meaning as in [section 8][45] of the Financial Reporting Act 2013
     
     _Minister_ means the Minister of Education.
     
     Compare: 1945 No 26 s 2
+    
+    Section 2 **financial statements**: inserted, on 1 April 2014, by [section 125][46] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 2 **generally accepted accounting practice**: inserted, on 1 April 2014, by [section 125][46] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 #### Constitution of New Zealand Council for Educational Research
 
@@ -149,7 +161,7 @@ An Act to consolidate and amend the law relating to the powers and functions of 
     
 *   The following persons shall be disqualified from appointment as members of the Council:
         
-    *   (a) a person who is subject to a property order made under [section 30][42] or [31][43] of the Protection of Personal and Property Rights Act 1988:
+    *   (a) a person who is subject to a property order made under [section 30][47] or [31][48] of the Protection of Personal and Property Rights Act 1988:
     
     *   (b) a bankrupt who has not obtained his order of discharge or whose order of discharge is suspended for a term not yet expired or is subject to conditions not yet fulfilled:
     
@@ -157,7 +169,7 @@ An Act to consolidate and amend the law relating to the powers and functions of 
     
     *   (d) an officer or servant of the Council employed by it in a full-time capacity for salary or other remuneration.
     
-    Section 5(a): replaced, on 10 September 2008, by [section 12(2)][44] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
+    Section 5(a): replaced, on 10 September 2008, by [section 12(2)][49] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
 
 ##### 6 Constitution of Council
     
@@ -189,7 +201,7 @@ An Act to consolidate and amend the law relating to the powers and functions of 
     
     *   (f) is convicted of any offence punishable by imprisonment for a term of less than 2 years and is sentenced to imprisonment for that offence.
     
-    (1A) If a property order is made in respect of a member under [section 30][42] of the Protection of Personal and Property Rights Act 1988 (which relates to temporary orders),---
+    (1A) If a property order is made in respect of a member under [section 30][47] of the Protection of Personal and Property Rights Act 1988 (which relates to temporary orders),---
         
     *   (a) subsection (1)(c) does not apply to the member by virtue only of the making of that order; but
     
@@ -211,7 +223,7 @@ An Act to consolidate and amend the law relating to the powers and functions of 
     
     Compare: 1945 No 26 s 6
     
-    Section 7(1A): inserted, on 10 September 2008, by [section 12(3)][44] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
+    Section 7(1A): inserted, on 10 September 2008, by [section 12(3)][49] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
 
 ##### 8 Term of office of members of Council
     
@@ -299,13 +311,13 @@ An Act to consolidate and amend the law relating to the powers and functions of 
     
     (1A) Notwithstanding anything in subsection (1), the remuneration payable to the chief executive officer of the Council shall be determined from time to time by the State Services Commission.
     
-    (2) For the purpose of providing superannuation or retiring allowances for its officers and servants, the Council may, out of its own funds, make payments to subsidise or contribute to any superannuation scheme which is registered under the [Superannuation Schemes Act 1989][45].
+    (2) For the purpose of providing superannuation or retiring allowances for its officers and servants, the Council may, out of its own funds, make payments to subsidise or contribute to any superannuation scheme which is registered under the [Superannuation Schemes Act 1989][50].
     
     Compare: 1945 No 26 s 10(c)
     
-    Section 15(1A): inserted, on 1 April 1988, by [section 87][46] of the State Sector Act 1988 (1988 No 20).
+    Section 15(1A): inserted, on 1 April 1988, by [section 87][51] of the State Sector Act 1988 (1988 No 20).
     
-    Section 15(2): replaced, on 1 April 1991, by [section 80][47] of the National Provident Fund Restructuring Act 1990 (1990 No 126).
+    Section 15(2): replaced, on 1 April 1991, by [section 80][52] of the National Provident Fund Restructuring Act 1990 (1990 No 126).
 
 ##### 16 Power to insure members, officers, and servants
     
@@ -355,7 +367,7 @@ An Act to consolidate and amend the law relating to the powers and functions of 
     
     (6) The delegation of a power does not prevent the Council from exercising that power, nor does it affect the responsibility of the Council for the actions of any person acting under the delegation.
     
-    Section 20A: inserted, on 27 September 2001, by [section 4][48] of the New Zealand Council for Educational Research Amendment Act 2001 (2001 No 74).
+    Section 20A: inserted, on 27 September 2001, by [section 4][53] of the New Zealand Council for Educational Research Amendment Act 2001 (2001 No 74).
 
 #### Electoral college
 
@@ -443,9 +455,9 @@ An Act to consolidate and amend the law relating to the powers and functions of 
     
     Compare: 1945 No 26 s 16
     
-    Section 26(1): replaced, on 27 September 2001, by [section 5(1)][49] of the New Zealand Council for Educational Research Amendment Act 2001 (2001 No 74).
+    Section 26(1): replaced, on 27 September 2001, by [section 5(1)][54] of the New Zealand Council for Educational Research Amendment Act 2001 (2001 No 74).
     
-    Section 26(3): amended, on 27 September 2001, by [section 5(2)][49] of the New Zealand Council for Educational Research Amendment Act 2001 (2001 No 74).
+    Section 26(3): amended, on 27 September 2001, by [section 5(2)][54] of the New Zealand Council for Educational Research Amendment Act 2001 (2001 No 74).
 
 ##### 27 Council may establish imprest accounts
     
@@ -457,31 +469,51 @@ An Act to consolidate and amend the law relating to the powers and functions of 
     
     (4) The payment of money out of any imprest account for any purpose not authorised under this section shall be deemed to be a misappropriation of the funds of the Council.
     
-    Section 27(1): amended, on 27 September 2001, by [section 6][50] of the New Zealand Council for Educational Research Amendment Act 2001 (2001 No 74).
+    Section 27(1): amended, on 27 September 2001, by [section 6][55] of the New Zealand Council for Educational Research Amendment Act 2001 (2001 No 74).
     
-    Section 27(1): amended, on 1 July 2001, pursuant to [section 52][51] of the Public Audit Act 2001 (2001 No 10).
+    Section 27(1): amended, on 1 July 2001, pursuant to [section 52][56] of the Public Audit Act 2001 (2001 No 10).
     
-    Section 27(2): amended, on 1 July 2001, pursuant to [section 52][51] of the Public Audit Act 2001 (2001 No 10).
+    Section 27(2): amended, on 1 July 2001, pursuant to [section 52][56] of the Public Audit Act 2001 (2001 No 10).
     
-    Section 27(3): amended, on 1 July 2001, pursuant to [section 52][51] of the Public Audit Act 2001 (2001 No 10).
+    Section 27(3): amended, on 1 July 2001, pursuant to [section 52][56] of the Public Audit Act 2001 (2001 No 10).
 
-##### 28 Audit of Council's accounts
+##### 28 Accounting records must be kept
     
-*   (1) The Council must keep full and correct accounts of all money received and spent by it.
+*   (1) The Council must ensure that there are kept at all times accounting records that---
+        
+    *   (a) correctly record the transactions of the Council; and
     
-    (2) As soon as practicable after the end of each financial year, the Council shall cause the accounts of the Council for that financial year to be balanced and shall prepare a statement of financial position as at the end of the financial year together with an account of income and expenditure showing the financial transactions for that year, which it shall submit to the Auditor-General.
+    *   (b) will enable the Council to ensure that the financial statements of the Council comply with this Act; and
     
-    (3) The Council is a public entity as defined in [section 4][52] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+    *   (c) will enable the financial statements of the Council to be readily and properly audited.
     
-    Compare: 1945 No 26 s 19
+    (2) The Council must establish and maintain a satisfactory system of control of those accounting records.
     
-    Section 28(1): replaced, on 1 July 2001, by [section 53][53] of the Public Audit Act 2001 (2001 No 10).
+    (3) The accounting records must be kept---
+        
+    *   (a) in written form in English; or
     
-    Section 28(2): amended, on 1 July 2001, pursuant to [section 52][51] of the Public Audit Act 2001 (2001 No 10).
+    *   (b) in a form or manner in which they are easily accessible and convertible into written form in English.
     
-    Section 28(2): amended, on 1 October 1997, pursuant to [section 6(1)][54] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 28: replaced, on 1 April 2014, by [section 125][46] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 28A Financial statements must be prepared
     
-    Section 28(3): inserted, on 1 July 2001, by [section 53][53] of the Public Audit Act 2001 (2001 No 10).
+*   The Council must ensure that, within 5 months after the end of the financial year, financial statements that comply with generally accepted accounting practice are---
+        
+    *   (a) completed in relation to the Council and that financial year; and
+    
+    *   (b) dated and signed on behalf of the Council by 2 members of the Council.
+    
+    Section 28A: inserted, on 1 April 2014, by [section 125][46] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 28B Financial statements must be audited
+    
+*   (1) The Council must ensure that the financial statements of the Council are audited.
+    
+    (2) The Council is a public entity as defined in [section 4][57] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+    
+    Section 28B: inserted, on 1 April 2014, by [section 125][46] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 29 Exemption from land and income tax
     
@@ -491,9 +523,9 @@ An Act to consolidate and amend the law relating to the powers and functions of 
 
 ##### 30 Remuneration and travelling expenses of members of the Council and of committees
     
-*   (1) The Council and any committee appointed by the Council under [section 14][17] are hereby declared to be statutory Boards within the meaning of the [Fees and Travelling Allowances Act 1951][55].
+*   (1) The Council and any committee appointed by the Council under [section 14][17] are hereby declared to be statutory Boards within the meaning of the [Fees and Travelling Allowances Act 1951][58].
     
-    (2) The Council shall pay to its members and to the members of any committee appointed under [section 14][17] remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][55], and the provisions of that Act shall apply accordingly.
+    (2) The Council shall pay to its members and to the members of any committee appointed under [section 14][17] remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][58], and the provisions of that Act shall apply accordingly.
     
     Compare: 1945 No 26 s 22
 
@@ -511,15 +543,13 @@ An Act to consolidate and amend the law relating to the powers and functions of 
     
 *   (1) The Council shall, as soon as practicable after the end of each financial year, provide the Minister with a report of its proceedings and operations for the preceding financial year.
     
-    (2) The annual report shall contain the statement of financial position of the Board as at the end of the financial year, together with an account of income and expenditure showing the financial transactions for that year, and shall also contain the report of the Auditor-General on the statement of financial position and account.
+    (2) The annual report must contain the financial statements of the Council for the financial year and the audit report on those statements.
     
     (3) A copy of the annual report shall, after its receipt by the Minister, be laid before Parliament as soon as practicable.
     
     Compare: 1945 No 26 s 20
     
-    Section 32(2): amended, on 1 July 2001, pursuant to [section 52][51] of the Public Audit Act 2001 (2001 No 10).
-    
-    Section 32(2): amended, on 1 October 1997, pursuant to [section 6(1)][54] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 32(2): replaced, on 1 April 2014, by [section 125][46] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 33 Rules
     
@@ -545,9 +575,9 @@ An Act to consolidate and amend the law relating to the powers and functions of 
 
 ##### 34 Consequential amendments, savings, and repeals
     
-*   (1) _Amendment(s) incorporated in the principal [Act(s][56])._
+*   (1) _Amendment(s) incorporated in the principal [Act(s][59])._
     
-    (2) _Amendment(s) incorporated in the principal [Act(s)][57]._
+    (2) _Amendment(s) incorporated in the principal [Act(s)][60]._
     
     (3) \[Repealed\]
     
@@ -557,98 +587,55 @@ An Act to consolidate and amend the law relating to the powers and functions of 
     
     (6) The New Zealand Council for Educational Research Act 1945 is hereby repealed.
     
-    Section 34(3): repealed, on 24 May 1999, by [section 15(1)][58] of the Estate Duty Repeal Act 1999 (1999 No 64).
+    Section 34(3): repealed, on 24 May 1999, by [section 15(1)][61] of the Estate Duty Repeal Act 1999 (1999 No 64).
     
-    Section 34(4): repealed, on 20 May 1999 (applying to instruments executed after 20 May 1999 and instruments executed between 20 May 1991 and 20 May 1999 (both dates inclusive) if the transactions to which the instruments relate are not completed or, in the case of leases are not carried into effect, on or before 20 May 1999), by [section 7][59] of the Stamp Duty Abolition Act 1999 (1999 No 61).
+    Section 34(4): repealed, on 20 May 1999 (applying to instruments executed after 20 May 1999 and instruments executed between 20 May 1991 and 20 May 1999 (both dates inclusive) if the transactions to which the instruments relate are not completed or, in the case of leases are not carried into effect, on or before 20 May 1999), by [section 7][62] of the Stamp Duty Abolition Act 1999 (1999 No 61).
     
-    Section 34(5): repealed, on 20 May 1999 (applying to instruments executed after 20 May 1999 and instruments executed between 20 May 1991 and 20 May 1999 (both dates inclusive) if the transactions to which the instruments relate are not completed or, in the case of leases are not carried into effect, on or before 20 May 1999), by [section 7][59] of the Stamp Duty Abolition Act 1999 (1999 No 61).
+    Section 34(5): repealed, on 20 May 1999 (applying to instruments executed after 20 May 1999 and instruments executed between 20 May 1991 and 20 May 1999 (both dates inclusive) if the transactions to which the instruments relate are not completed or, in the case of leases are not carried into effect, on or before 20 May 1999), by [section 7][62] of the Stamp Duty Abolition Act 1999 (1999 No 61).
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the New Zealand Council for Educational Research Act 1972\. The reprint incorporates all the amendments to the Act as at 10 September 2008, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][60] ![](/images/external_link.gif).
+*   This is a reprint of the New Zealand Council for Educational Research Act 1972 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][61] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][63] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][64] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][62] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][65] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][66] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][63] and [17E][64] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 125][46]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64): [section 12][49]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    [New Zealand Council for Educational Research Amendment Act 2001][67] (2001 No 74)
     
+    Public Audit Act 2001 (2001 No 10): [sections 52][56], [53][68]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    Estate Duty Repeal Act 1999 (1999 No 64): [section 15(1)][61]
     
-*   Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64): [section 12][44]
-    
-    [New Zealand Council for Educational Research Amendment Act 2001][65] (2001 No 74)
-    
-    Public Audit Act 2001 (2001 No 10): [sections 52][51], [53][53]
-    
-    Estate Duty Repeal Act 1999 (1999 No 64): [section 15(1)][58]
-    
-    Stamp Duty Abolition Act 1999 (1999 No 61): [section 7][59]
-    
-    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6(1)][54]
+    Stamp Duty Abolition Act 1999 (1999 No 61): [section 7][62]
     
     New Zealand Council for Educational Research Amendment Act 1991 (1991 No 139)
     
-    National Provident Fund Restructuring Act 1990 (1990 No 126): [section 80][47]
+    National Provident Fund Restructuring Act 1990 (1990 No 126): [section 80][52]
     
-    State Sector Act 1988 (1988 No 20): [section 87][46]
+    State Sector Act 1988 (1988 No 20): [section 87][51]
     
     New Zealand Council for Educational Research Amendment Act 1976 (1976 No 108)
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1972/0035/latest/whole.html#DLM407022
 [2]: http://www.legislation.govt.nz/act/public/1972/0035/latest/whole.html#DLM407024
 [3]: http://www.legislation.govt.nz/act/public/1972/0035/latest/whole.html#DLM407025
@@ -683,34 +670,37 @@ An Act to consolidate and amend the law relating to the powers and functions of 
 [32]: http://www.legislation.govt.nz/act/public/1972/0035/latest/whole.html#DLM407068
 [33]: http://www.legislation.govt.nz/act/public/1972/0035/latest/whole.html#DLM407071
 [34]: http://www.legislation.govt.nz/act/public/1972/0035/latest/whole.html#DLM407073
-[35]: http://www.legislation.govt.nz/act/public/1972/0035/latest/whole.html#DLM407077
-[36]: http://www.legislation.govt.nz/act/public/1972/0035/latest/whole.html#DLM407078
-[37]: http://www.legislation.govt.nz/act/public/1972/0035/latest/whole.html#DLM407079
-[38]: http://www.legislation.govt.nz/act/public/1972/0035/latest/whole.html#DLM3108206
-[39]: http://www.legislation.govt.nz/act/public/1972/0035/latest/whole.html#DLM407082
-[40]: http://www.legislation.govt.nz/act/public/1972/0035/latest/whole.html#DLM407084
-[41]: http://www.legislation.govt.nz/act/public/1972/0035/latest/whole.html#DLM407085
-[42]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM127009
-[43]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM127010
-[44]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM1404050
-[45]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM143291
-[46]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM130374
-[47]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM226616
-[48]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM113316
-[49]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM113318
-[50]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM113319
-[51]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM88956
-[52]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM88548
-[53]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM88957
-[54]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM408960
-[55]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM264952
-[56]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM324222
-[57]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM390006
-[58]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM30504
-[59]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM29377
-[60]: http://www.pco.parliament.govt.nz/reprints/
-[61]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM195439
-[62]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[63]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM195468
-[64]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM195470
-[65]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM113309
+[35]: http://www.legislation.govt.nz/act/public/1972/0035/latest/whole.html#DLM6047016
+[36]: http://www.legislation.govt.nz/act/public/1972/0035/latest/whole.html#DLM6047018
+[37]: http://www.legislation.govt.nz/act/public/1972/0035/latest/whole.html#DLM407077
+[38]: http://www.legislation.govt.nz/act/public/1972/0035/latest/whole.html#DLM407078
+[39]: http://www.legislation.govt.nz/act/public/1972/0035/latest/whole.html#DLM407079
+[40]: http://www.legislation.govt.nz/act/public/1972/0035/latest/whole.html#DLM3108206
+[41]: http://www.legislation.govt.nz/act/public/1972/0035/latest/whole.html#DLM407082
+[42]: http://www.legislation.govt.nz/act/public/1972/0035/latest/whole.html#DLM407084
+[43]: http://www.legislation.govt.nz/act/public/1972/0035/latest/whole.html#DLM407085
+[44]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM4632890
+[45]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM4632894
+[46]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM5740664
+[47]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM127009
+[48]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM127010
+[49]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM1404050
+[50]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM143291
+[51]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM130374
+[52]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM226616
+[53]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM113316
+[54]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM113318
+[55]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM113319
+[56]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM88956
+[57]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM88548
+[58]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM264952
+[59]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM324222
+[60]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM390006
+[61]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM30504
+[62]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM29377
+[63]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM2998516
+[64]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM2998515
+[65]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM2998532
+[66]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[67]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM113309
+[68]: http://www.legislation.govt.nz/act/public/1972/0035/latest/link.aspx?id=DLM88957
