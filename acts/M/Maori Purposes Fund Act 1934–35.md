@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2001
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencement5 April 1935
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by Te Puni Kōkiri.
 
@@ -37,7 +37,7 @@ This Act is administered by Te Puni Kōkiri.
 
 [5][7][][7][Maori Purposes Fund Account][7]
 
-[6][8][][8][Annual accounts of Maori Purposes Fund][8]
+[6][8][][8][Financial statements and audit][8]
 
 [Maori Purposes Fund Board][9]
 
@@ -153,15 +153,29 @@ An Act to reconstitute the Maori Purposes Fund Control Board, to redefine and ex
     
     Section 5(3): amended, on 27 November 1947, pursuant to [section 5(3)][24] of the Maori Purposes Act 1947 (1947 No 59).
 
-##### 6 Annual accounts of Maori Purposes Fund
+##### 6 Financial statements and audit
     
-*   At the close of each financial year the Māori Trustee shall cause to be prepared in respect of the Fund a revenue account for that year, together with a statement of financial position showing the assets and liabilities of the Board. That account and statement of financial position shall be audited by the Auditor-General.
+*   (1) The Māori Trustee must ensure that, within 5 months after the end of the financial year, financial statements are completed in relation to the Board and that financial year.
     
-    Section 6: replaced, on 25 October 1956, by [section 5][26] of the Maori Purposes Act 1956 (1956 No 43).
+    (2) The financial statements must be prepared in accordance with---
+        
+    *   (a) generally accepted accounting practice if the Board is a specified not-for-profit entity; or
     
-    Section 6: amended, on 1 July 2001, pursuant to [section 52][27] of the Public Audit Act 2001 (2001 No 10).
+    *   (b) in any other case, either generally accepted accounting practice or a non-GAAP standard that applies for the purposes of this section.
     
-    Section 6: amended, on 1 October 1997, pursuant to [section 6(1)][28] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    (3) The Māori Trustee must ensure that the financial statements of the Board are audited by the Auditor-General.
+    
+    (4) In this section,---
+    
+    _financial statements_ has the same meaning as in [section 6][26] of the Financial Reporting Act 2013
+    
+    _generally accepted accounting practice_ has the same meaning as in [section 8][27] of the Financial Reporting Act 2013
+    
+    _non-GAAP standard_ has the same meaning as in [section 5][28] of the Financial Reporting Act 2013
+    
+    _specified not-for-profit entity_ has the same meaning as in [section 46][29] of the Financial Reporting Act 2013\.
+    
+    Section 6: replaced, on 1 April 2014, by [section 125][30] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 #### Maori Purposes Fund Board
 
@@ -177,11 +191,11 @@ An Act to reconstitute the Maori Purposes Fund Control Board, to redefine and ex
     
     *   (c) the members of Parliament for the Maori electoral districts:
     
-    *   (d) 1 person to be appointed by the Governor-General in Council on the nomination of the New Zealand Maori Council constituted by [section 17][29] of the Maori Community Development Act 1962:
+    *   (d) 1 person to be appointed by the Governor-General in Council on the nomination of the New Zealand Maori Council constituted by [section 17][31] of the Maori Community Development Act 1962:
     
     *   (e) not more than 6 other persons to be appointed by the Governor-General in Council.
     
-    (3) Any member of the Maori Purposes Fund Control Board as heretofore existing pursuant to [section 46][30] of the Maori Purposes Act 1931, who is in office immediately before the commencement of this Act by virtue of appointment by the Minister of Maori Affairs shall for all purposes be deemed to be a member of the Board established by this Act, and shall continue in office under this Act until a person is appointed to be his successor under paragraph (f) of the last preceding subsection. Any such member may be reappointed pursuant to the said paragraph.
+    (3) Any member of the Maori Purposes Fund Control Board as heretofore existing pursuant to [section 46][32] of the Maori Purposes Act 1931, who is in office immediately before the commencement of this Act by virtue of appointment by the Minister of Maori Affairs shall for all purposes be deemed to be a member of the Board established by this Act, and shall continue in office under this Act until a person is appointed to be his successor under paragraph (f) of the last preceding subsection. Any such member may be reappointed pursuant to the said paragraph.
     
     (4) Every appointed member of the Board shall, save as hereinafter in this section provided, hold office for a term of 3 years from the date of his appointment, and shall be eligible for reappointment.
     
@@ -189,19 +203,19 @@ An Act to reconstitute the Maori Purposes Fund Control Board, to redefine and ex
     
     (6) There shall be paid out of the Fund Account to the members of the Board (other than the Minister) remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly.
     
-    Section 7(2): replaced, on 14 December 1979, by [section 15(1)][31] of the Maori Purposes Act 1979 (1979 No 136).
+    Section 7(2): replaced, on 14 December 1979, by [section 15(1)][33] of the Maori Purposes Act 1979 (1979 No 136).
     
-    Section 7(2)(b): replaced, on 1 January 1992, by [section 9(1)][32] of the Ministry of Maori Development Act 1991 (1991 No 145).
+    Section 7(2)(b): replaced, on 1 January 1992, by [section 9(1)][34] of the Ministry of Maori Development Act 1991 (1991 No 145).
     
-    Section 7(2)(c): replaced, on 11 April 2001, by [section 3][33] of the Maori Purposes Fund Amendment Act 2001 (2001 No 13).
+    Section 7(2)(c): replaced, on 11 April 2001, by [section 3][35] of the Maori Purposes Fund Amendment Act 2001 (2001 No 13).
     
-    Section 7(3): amended, on 27 November 1947, pursuant to [section 3(2)][34] of the Maori Purposes Act 1947 (1947 No 59).
+    Section 7(3): amended, on 27 November 1947, pursuant to [section 3(2)][36] of the Maori Purposes Act 1947 (1947 No 59).
     
     Section 7(3): amended, on 27 November 1947, pursuant to [section 9(1)(b)][25] of the Maori Purposes Act 1947 (1947 No 59).
     
-    Section 7(5): amended, on 27 November 1947, pursuant to [section 3(2)][34] of the Maori Purposes Act 1947 (1947 No 59).
+    Section 7(5): amended, on 27 November 1947, pursuant to [section 3(2)][36] of the Maori Purposes Act 1947 (1947 No 59).
     
-    Section 7(6): replaced, on 1 April 1952, by [section 10(1)][35] of the Fees and Travelling Allowances Act 1951 (1951 No 79).
+    Section 7(6): replaced, on 1 April 1952, by [section 10(1)][37] of the Fees and Travelling Allowances Act 1951 (1951 No 79).
 
 ##### 8 Contracts of Board
     
@@ -233,9 +247,9 @@ An Act to reconstitute the Maori Purposes Fund Control Board, to redefine and ex
     
     provided that no such resolution shall have effect unless notice in writing of the proposed resolution has been given to each member of the Board at least 14 days before the resolution is to become effective and that each resolution passed in accordance with this subsection shall be laid before the Board at the annual meeting next following the date of the passing of the resolution.
     
-    Section 9(4): amended, on 27 November 1947, pursuant to [section 3(2)][34] of the Maori Purposes Act 1947 (1947 No 59).
+    Section 9(4): amended, on 27 November 1947, pursuant to [section 3(2)][36] of the Maori Purposes Act 1947 (1947 No 59).
     
-    Section 9(8): inserted, on 24 October 1957, by [section 8][36] of the Maori Purposes Act 1957 (1957 No 81).
+    Section 9(8): inserted, on 24 October 1957, by [section 8][38] of the Maori Purposes Act 1957 (1957 No 81).
 
 ##### 10 Powers of Board with respect to land and chattels
     
@@ -253,7 +267,7 @@ An Act to reconstitute the Maori Purposes Fund Control Board, to redefine and ex
     
     Section 10(1)(d): amended, on 27 November 1947, pursuant to [section 2][22] of the Maori Purposes Act 1947 (1947 No 59).
     
-    Section 10(1)(d): amended, on 27 November 1947, pursuant to [section 4(1)][37] of the Maori Purposes Act 1947 (1947 No 59).
+    Section 10(1)(d): amended, on 27 November 1947, pursuant to [section 4(1)][39] of the Maori Purposes Act 1947 (1947 No 59).
     
     Section 10(2): amended, on 27 November 1947, pursuant to [section 5(3)][24] of the Maori Purposes Act 1947 (1947 No 59).
 
@@ -261,7 +275,7 @@ An Act to reconstitute the Maori Purposes Fund Control Board, to redefine and ex
     
 *   The Board may, from time to time, invest any money of the Fund in any investments for the time being authorised by law for the investment of trust funds.
     
-    Section 10A: inserted, on 24 October 1957, by [section 9][38] of the Maori Purposes Act 1957 (1957 No 81).
+    Section 10A: inserted, on 24 October 1957, by [section 9][40] of the Maori Purposes Act 1957 (1957 No 81).
 
 ##### 11 Expenditure of moneys of the Fund
     
@@ -365,13 +379,13 @@ An Act to reconstitute the Maori Purposes Fund Control Board, to redefine and ex
 
 ##### 14 Annual report, etc
     
-*   (1) The Board shall in each financial year cause to be prepared a report of its operations and commitments during the preceding financial year, together with an estimate of the moneys that will be required by it for expenditure during such first-mentioned year, and such report and estimate and the audited statements and statement of financial position mentioned in [section 6][8] shall be laid before and considered by the Board at its annual meeting.
+*   (1) The Board shall in each financial year cause to be prepared a report of its operations and commitments during the preceding financial year, together with an estimate of the moneys that will be required by it for expenditure during such first-mentioned year, and such report and estimate and the audited financial statements mentioned in [section 6][8] shall be laid before and considered by the Board at its annual meeting.
     
     (2) Within 14 days after the annual meeting all such documents as aforesaid shall be laid before the House of Representatives, if Parliament is then in session, and if not, then within 14 days after the commencement of the next ensuing session.
     
-    Section 14(1): amended, on 1 October 1997, pursuant to [section 6(1)][28] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 14(1): amended, on 1 April 2014, by [section 125][30] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 14(2): amended, on 1 January 1951, pursuant to [section 2(4)][39] of the Legislative Council Abolition Act 1950 (1950 No 3).
+    Section 14(2): amended, on 1 January 1951, pursuant to [section 2(4)][41] of the Legislative Council Abolition Act 1950 (1950 No 3).
 
 ##### 15 Regulations
     
@@ -393,11 +407,11 @@ An Act to reconstitute the Maori Purposes Fund Control Board, to redefine and ex
     
     (2) \[Repealed\]
     
-    Section 15(2): repealed, on 19 December 1989, by [section 11][40] of the Regulations (Disallowance) Act 1989 (1989 No 143).
+    Section 15(2): repealed, on 19 December 1989, by [section 11][42] of the Regulations (Disallowance) Act 1989 (1989 No 143).
 
 ##### 16 Repeals, abolition of boards, and savings
     
-*   (1) [Sections 46][30], [47][41], and [48][23] of the Maori Purposes Act 1931 are hereby repealed.
+*   (1) [Sections 46][32], [47][43], and [48][23] of the Maori Purposes Act 1931 are hereby repealed.
     
     (2) The Maori Purposes Fund Control Board, the Board of Maori Ethnological Research, and the Maori Arts and Crafts Board, as respectively constituted under those sections, are hereby dissolved.
     
@@ -409,94 +423,47 @@ An Act to reconstitute the Maori Purposes Fund Control Board, to redefine and ex
     
     Section 16(1): amended, on 27 November 1947, pursuant to [section 9(1)(b)][25] of the Maori Purposes Act 1947 (1947 No 59).
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Maori Purposes Fund Act 1934--35\. The reprint incorporates all the amendments to the Act as at 1 July 2001, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][42] ![](/images/external_link.gif).
+*   This is a reprint of the Maori Purposes Fund Act 1934--35 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][43] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][44] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][45] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][44] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][46] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][47] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][45] and [17E][46] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 125][30]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    [Maori Purposes Fund Amendment Act 2001][48] (2001 No 13)
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Ministry of Maori Development Act 1991 (1991 No 145): [section 9(1)][34]
     
+    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][42]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    Maori Purposes Act 1979 (1979 No 136): [section 15(1)][33]
     
-*   [Maori Purposes Fund Amendment Act 2001][47] (2001 No 13)
+    Maori Purposes Act 1957 (1957 No 81): [sections 8][38], [9][40]
     
-    Public Audit Act 2001 (2001 No 10): [section 52][27]
+    Fees and Travelling Allowances Act 1951 (1951 No 79): [section 10(1)][37]
     
-    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6(1)][28]
+    Legislative Council Abolition Act 1950 (1950 No 3): [section 2(4)][41]
     
-    Ministry of Maori Development Act 1991 (1991 No 145): [section 9(1)][32]
-    
-    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][40]
-    
-    Maori Purposes Act 1979 (1979 No 136): [section 15(1)][31]
-    
-    Maori Purposes Act 1957 (1957 No 81): [sections 8][36], [9][38]
-    
-    Maori Purposes Act 1956 (1956 No 43): [section 5][26]
-    
-    Fees and Travelling Allowances Act 1951 (1951 No 79): [section 10(1)][35]
-    
-    Legislative Council Abolition Act 1950 (1950 No 3): [section 2(4)][39]
-    
-    Maori Purposes Act 1947 (1947 No 59): [sections 2][22], [3(2)][34], [4(1)][37], [5(3)][24], [9(1)(b), (d)][25]
+    Maori Purposes Act 1947 (1947 No 59): [sections 2][22], [3(2)][36], [4(1)][39], [5(3)][24], [9(1)(b), (d)][25]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1934/0045/latest/whole.html#DLM217923
 [2]: http://www.legislation.govt.nz/act/public/1934/0045/latest/whole.html#DLM217925
 [3]: http://www.legislation.govt.nz/act/public/1934/0045/latest/whole.html#DLM217926
@@ -522,25 +489,26 @@ An Act to reconstitute the Maori Purposes Fund Control Board, to redefine and ex
 [23]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM210604
 [24]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM245849
 [25]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM245856
-[26]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM294764
-[27]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM88956
-[28]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM408960
-[29]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM341119
-[30]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM210600
-[31]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM35620
-[32]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM257786
-[33]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM90122
-[34]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM245844
-[35]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM264982
-[36]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM310729
-[37]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM245847
-[38]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM310730
-[39]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM260920
-[40]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM195558
-[41]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM210602
-[42]: http://www.pco.parliament.govt.nz/reprints/
-[43]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM195439
-[44]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[45]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM195468
-[46]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM195470
-[47]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM90116
+[26]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM4632890
+[27]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM4632894
+[28]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM4632837
+[29]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM4632962
+[30]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM5740664
+[31]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM341119
+[32]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM210600
+[33]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM35620
+[34]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM257786
+[35]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM90122
+[36]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM245844
+[37]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM264982
+[38]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM310729
+[39]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM245847
+[40]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM310730
+[41]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM260920
+[42]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM195558
+[43]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM210602
+[44]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM2998516
+[45]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM2998515
+[46]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM2998532
+[47]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[48]: http://www.legislation.govt.nz/act/public/1934/0045/latest/link.aspx?id=DLM90116
