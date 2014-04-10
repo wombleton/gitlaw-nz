@@ -1,5 +1,5 @@
 Reprint  
-as at 10 September 2008
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencement25 October 1957
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Education.
 
@@ -73,14 +73,18 @@ This Act is administered by the Ministry of Education.
 
 [20][24][][24][Money to be paid into bank][24]
 
-[21][25][][25][Accounts][25]
+[21][25][][25][Accounting records must be kept][25]
 
-[22][26][][26][Annual report to Minister][26]
+[21A][26][][26][Financial statements must be prepared][26]
 
-[23][27][][27][Repeals][27] \[Repealed\]
+[21B ][27][][27][Financial statements must be audited][27]
 
-[Schedule][28]  
-[Taranaki Scholarships Endowment land][28]
+[22][28][][28][Annual report to Minister][28]
+
+[23][29][][29][Repeals][29] \[Repealed\]
+
+[Schedule][30]  
+[Taranaki Scholarships Endowment land][30]
 
 ---
 
@@ -100,9 +104,17 @@ An Act to incorporate the Taranaki Scholarships Trust Board, and to provide for 
     
     _Chairman_ means the Chairman of the Board
     
+    _financial statements_ has the same meaning as in [section 6][31] of the Financial Reporting Act 2013
+    
+    _generally accepted accounting practice_ has the same meaning as in [section 8][32] of the Financial Reporting Act 2013
+    
     _Taranaki Post-graduate Scholarship_ means a Taranaki Post-graduate Scholarship awarded under [section 15][18].
     
     _Taranaki Scholarship_ means a Taranaki Scholarship awarded under [section 12][15]
+    
+    Section 2 **financial statements**: inserted, on 1 April 2014, by [section 125][33] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 2 **generally accepted accounting practice**: inserted, on 1 April 2014, by [section 125][33] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ## Part 1  
 Constitution of Board
@@ -129,17 +141,17 @@ Constitution of Board
     
     (3) The Board shall be a body corporate with perpetual succession and a common seal, and shall be capable of holding real and personal property, and of suing and being sued, and of doing and suffering all that bodies corporate may do and suffer.
     
-    (4) The Board shall be deemed to be a local authority for the purposes of the National Provident Fund Act 1950 (as continued in certain respects by the [National Provident Fund Restructuring Act 1990][29]), and [section 6][30] of the Finance Act (No 2) 1941\.
+    (4) The Board shall be deemed to be a local authority for the purposes of the National Provident Fund Act 1950 (as continued in certain respects by the [National Provident Fund Restructuring Act 1990][34]), and [section 6][35] of the Finance Act (No 2) 1941\.
     
     (5) Except as provided in [section 5][7], every appointed or elected member of the Board shall hold office for a term of 3 years, but may from time to time be reappointed or re-elected.
     
-    Section 3(2)(b): repealed, on 23 July 1990, by [section 50(1)][31] of the Education Amendment Act 1990 (1990 No 60).
+    Section 3(2)(b): repealed, on 23 July 1990, by [section 50(1)][36] of the Education Amendment Act 1990 (1990 No 60).
     
-    Section 3(2)(c): repealed, on 23 July 1990, by [section 50(1)][31] of the Education Amendment Act 1990 (1990 No 60).
+    Section 3(2)(c): repealed, on 23 July 1990, by [section 50(1)][36] of the Education Amendment Act 1990 (1990 No 60).
     
-    Section 3(2)(d): repealed, on 23 July 1990, by [section 50(1)][31] of the Education Amendment Act 1990 (1990 No 60).
+    Section 3(2)(d): repealed, on 23 July 1990, by [section 50(1)][36] of the Education Amendment Act 1990 (1990 No 60).
     
-    Section 3(4): replaced, on 1 April 1991, by [section 80][32] of the National Provident Fund Restructuring Act 1990 (1990 No 126).
+    Section 3(4): replaced, on 1 April 1991, by [section 80][37] of the National Provident Fund Restructuring Act 1990 (1990 No 126).
 
 ##### 4 Appointments and elections
     
@@ -165,7 +177,7 @@ Constitution of Board
     
     *   (c) is adjudged a bankrupt; or
     
-    *   (d) becomes subject to a property order made under [section 31][33] of the Protection of Personal and Property Rights Act 1988 or becomes a person for whom a trustee corporation is acting as manager under [section 32][34] or[33][35] of that Act; or
+    *   (d) becomes subject to a property order made under [section 31][38] of the Protection of Personal and Property Rights Act 1988 or becomes a person for whom a trustee corporation is acting as manager under [section 32][39] or[33][40] of that Act; or
     
     *   (e) is convicted of any offence punishable by imprisonment,---
     
@@ -179,7 +191,7 @@ Constitution of Board
     
     (5) The powers of the Board shall not be affected by any vacancy in the membership thereof.
     
-    Section 5(1)(d): replaced, on 10 September 2008, by [section 20(2)][36] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
+    Section 5(1)(d): replaced, on 10 September 2008, by [section 20(2)][41] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
 
 ##### 6 Chairman of Board
     
@@ -220,9 +232,9 @@ Administration of Taranaki Scholarships Endowment
     
     (2) The said reserve shall be administered and dealt with by the Commissioner of Crown Lands appointed under section 12A of the Survey Act 1986, and with respect to any of the land in the reserve that Commissioner may either---
         
-    *   (a) grant leases under the provisions of the [Public Bodies Leases Act 1969][37] in the same manner as if that Commissioner were a leasing authority within the meaning of that Act; or
+    *   (a) grant leases under the provisions of the [Public Bodies Leases Act 1969][42] in the same manner as if that Commissioner were a leasing authority within the meaning of that Act; or
     
-    *   (b) grant renewable leases, or licences with or without a right of renewal, under the [Land Act 1948][38] on the same terms and conditions in all respects as in the case of Crown land:
+    *   (b) grant renewable leases, or licences with or without a right of renewal, under the [Land Act 1948][43] on the same terms and conditions in all respects as in the case of Crown land:
         
         provided that the lessee or licensee shall not have the right to acquire the fee simple of the land comprised in his lease or licence.
     
@@ -236,7 +248,7 @@ Administration of Taranaki Scholarships Endowment
     
     Section 9(2)(a): amended on 1 February 1990, pursuant to section 9(2) of the Survey Amendment Act (No 3) 1989 (1989 No 139\.
     
-    Section 9(2)(a): amended, on 1 January 1970, pursuant to [section 28(1)(a)][39] of the Public Bodies Leases Act 1969 (1969 No 141).
+    Section 9(2)(a): amended, on 1 January 1970, pursuant to [section 28(1)(a)][44] of the Public Bodies Leases Act 1969 (1969 No 141).
 
 ##### 10 Taranaki Scholarship endowment money to be paid to Board
     
@@ -294,9 +306,9 @@ Administration of Taranaki Scholarships Endowment
     
     (6) A Taranaki Scholarship is tenable---
         
-    *   (a) at any institution established under [Part 14][40] of the Education Act 1989:
+    *   (a) at any institution established under [Part 14][45] of the Education Act 1989:
     
-    *   (b) at any private training establishment (within the meaning of [section 159(1)][41] of the Education Act 1989) approved for the purposes of this Act by the Minister of Education by notice in the _Gazette_.
+    *   (b) at any private training establishment (within the meaning of [section 159(1)][46] of the Education Act 1989) approved for the purposes of this Act by the Minister of Education by notice in the _Gazette_.
     
     (7) A Taranaki Scholarship (other than a scholarship without emoluments) shall not be tenable with a University Junior Scholarship awarded by the Universities Entrance Board.
     
@@ -354,7 +366,7 @@ Administration of Taranaki Scholarships Endowment
         
     *   (a) to engage and employ on such terms and conditions as it thinks fit such servants and agents as it from time to time thinks fit on such terms and conditions as to remuneration and otherwise as it thinks fit; and from time to time to terminate any such engagement or employment and to vary the terms and conditions thereof:
     
-    *   (b) to invest such part as it thinks fit of any funds for the time being vested in the Board in accordance with the provisions of the [Trustee Act 1956][42] as to the investment of trust funds, and from time to time to realise, alter, or vary any such investments:
+    *   (b) to invest such part as it thinks fit of any funds for the time being vested in the Board in accordance with the provisions of the [Trustee Act 1956][47] as to the investment of trust funds, and from time to time to realise, alter, or vary any such investments:
     
     *   (c) subject to the terms of any instrument creating a trust affecting the same, to sell or lease or let any real or personal property for the time being vested in the Board; and to apply the proceeds of sale either immediately or at any time thereafter either in the purchase of other property or in any investment authorised by paragraph (b):
     
@@ -372,7 +384,7 @@ Administration of Taranaki Scholarships Endowment
     
     (3) The Board may charge a due proportion of its proper expenditure against real and personal property to which subsection (2) or [section 16A][20] applies.
     
-    Section 16(1)(b): replaced, on 1 October 1988, by [section 14(1)][43] of the Trustee Amendment Act 1988 (1988 No 119).
+    Section 16(1)(b): replaced, on 1 October 1988, by [section 14(1)][48] of the Trustee Amendment Act 1988 (1988 No 119).
     
     Section 16(2): inserted, on 18 November 1961, by section 2 of the Taranaki Scholarships Trust Board Amendment Act 1961 (1961 No 63).
     
@@ -400,11 +412,11 @@ Administration of Taranaki Scholarships Endowment
 
 ##### 18 Fees and travelling allowances
     
-*   (1) The Board, and any Committee appointed under [section 8][10], are hereby declared to be statutory Boards within the meaning of the [Fees and Travelling Allowances Act 1951][44].
+*   (1) The Board, and any Committee appointed under [section 8][10], are hereby declared to be statutory Boards within the meaning of the [Fees and Travelling Allowances Act 1951][49].
     
-    (2) The Board may pay to its Chairman remuneration by way of fees, salary, or allowances in accordance with the [Fees and Travelling Allowances Act 1951][44], and the provisions of that Act shall apply accordingly.
+    (2) The Board may pay to its Chairman remuneration by way of fees, salary, or allowances in accordance with the [Fees and Travelling Allowances Act 1951][49], and the provisions of that Act shall apply accordingly.
     
-    (3) The Board may pay to its Chairman, and to members of the Board or of any Committee thereof appointed under [section 8][10], travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][44], and the provisions of that Act shall apply accordingly.
+    (3) The Board may pay to its Chairman, and to members of the Board or of any Committee thereof appointed under [section 8][10], travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][49], and the provisions of that Act shall apply accordingly.
 
 ##### 19 Bylaws
     
@@ -428,31 +440,53 @@ Administration of Taranaki Scholarships Endowment
     
     (2) No money shall be withdrawn from any such account, except by authority of the Board and by cheque signed by such person or persons as the Board from time to time, subject to any requirements of the Auditor-General, may authorise.
     
-    Section 20(2): amended, on 1 July 2001, pursuant to [section 52][45] of the Public Audit Act 2001 (2001 No 10).
+    Section 20(2): amended, on 1 July 2001, pursuant to [section 52][50] of the Public Audit Act 2001 (2001 No 10).
 
-##### 21 Accounts
+##### 21 Accounting records must be kept
     
-*   (1) The Board must keep full and correct accounts of all money received and expended by it.
+*   (1) The Board must ensure that there are kept at all times accounting records that---
+        
+    *   (a) correctly record the transactions of the Board; and
     
-    (1A) The Board is a public entity as defined in [section 4][46] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+    *   (b) will enable the Board to ensure that the financial statements of the Board comply with this Act; and
     
-    (2) The Board shall, as soon as practicable after the end of any financial year ending with such date as the Board may from time to time determine, cause its accounts for that year to be balanced, and full and true statements and accounts of all the money received and expended by it in that year and of its assets and liabilities at the end of that year, to be prepared and submitted to the Auditor-General.
+    *   (c) will enable the financial statements of the Board to be readily and properly audited.
     
-    Section 21(1): replaced, on 1 July 2001, by [section 53][47] of the Public Audit Act 2001 (2001 No 10).
+    (2) The Board must establish and maintain a satisfactory system of control of those accounting records.
     
-    Section 21(1A): inserted, on 1 July 2001, by [section 53][47] of the Public Audit Act 2001 (2001 No 10).
+    (3) The accounting records must be kept---
+        
+    *   (a) in written form in English; or
     
-    Section 21(2): amended, on 1 July 2001, pursuant to [section 52][45] of the Public Audit Act 2001 (2001 No 10).
+    *   (b) in a form or manner in which they are easily accessible and convertible into written form in English.
+    
+    Section 21: replaced, on 1 April 2014, by [section 125][33] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 21A Financial statements must be prepared
+    
+*   (1) The Board must ensure that, within 5 months after the end of the financial year, financial statements that comply with generally accepted accounting practice are---
+        
+    *   (a) completed in relation to the Board and that financial year; and
+    
+    *   (b) dated and signed on behalf of the Board by 2 members of the Board.
+    
+    (2) The financial year of the Board ends on the date that the Board may from time to time determine.
+    
+    Section 21A: inserted, on 1 April 2014, by [section 125][33] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 21B Financial statements must be audited
+    
+*   (1) The Board must ensure that the financial statements of the Board are audited.
+    
+    (2) The Board is a public entity as defined in [section 4][51] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+    
+    Section 21B: inserted, on 1 April 2014, by [section 125][33] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 22 Annual report to Minister
     
-*   (1) The Board shall, within 1 month after the receipt of the accounts certified by the Auditor-General, furnish to the Minister of Education a report of its proceedings and operations for its preceding financial year, together with a copy of its accounts for that year as so certified.
+*   The Board must, within 1 month after the receipt of the audit report on the financial statements, provide to the Minister of Education a report of its proceedings and operations for its preceding financial year, a copy of its financial statements for that year, and a copy of the audit report.
     
-    (2) A copy of the said report and accounts shall be forwarded to the Universities Entrance Board.
-    
-    Section 22(1): amended, on 1 July 2001, pursuant to [section 52][45] of the Public Audit Act 2001 (2001 No 10).
-    
-    Section 22(2): amended, on 1 January 1962, by section 5(2)(b) of the Taranaki Scholarships Trust Board Amendment Act 1961 (1961 No 63).
+    Section 22: replaced, on 1 April 2014, by [section 125][33] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 23 Repeals
     
@@ -503,88 +537,47 @@ Sections 3, 4, and 5, Block XV, Opaku Survey District 2 72400
 
 Section 7, Block XV, Opaku Survey District 2300
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Taranaki Scholarships Trust Board Act 1957\. The reprint incorporates all the amendments to the Act as at 10 September 2008, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][48] ![](/images/external_link.gif).
+*   This is a reprint of the Taranaki Scholarships Trust Board Act 1957 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][49] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][52] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][53] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][50] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][54] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][55] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][51] and [17E][52] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 125][33]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64): [section 20(2)][41]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64): [section 20(2)][36]
-    
-    Public Audit Act 2001 (2001 No 10): [sections 52][45], [53][47]
+    Public Audit Act 2001 (2001 No 10): [sections 52][50], [53][56]
     
     Taranaki Scholarships Trust Board Amendment Act 1993 (1993 No 54)
     
-    National Provident Fund Restructuring Act 1990 (1990 No 126): [section 80][32]
+    National Provident Fund Restructuring Act 1990 (1990 No 126): [section 80][37]
     
-    Education Amendment Act 1990 (1990 No 60): [section 50(1)][31]
+    Education Amendment Act 1990 (1990 No 60): [section 50(1)][36]
     
     Survey Amendment Act (No 3) 1989 (1989 No 139): section 9(2)
     
-    Trustee Amendment Act 1988 (1988 No 119): [section 14(1)][43]
+    Trustee Amendment Act 1988 (1988 No 119): [section 14(1)][48]
     
     Taranaki Scholarships Trust Board Amendment Act 1987 (1987 No 56)
     
     Taranaki Scholarships Trust Board Amendment Act 1982 (1982 No 103)
     
-    Public Bodies Leases Act 1969 (1969 No 141): [section 28(1)(a)][39]
+    Public Bodies Leases Act 1969 (1969 No 141): [section 28(1)(a)][44]
     
     Taranaki Scholarships Trust Board Amendment Act 1969 (1969 No 107)
     
@@ -596,7 +589,7 @@ Section 7, Block XV, Opaku Survey District 2300
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1957/0108/latest/whole.html#DLM317734
 [2]: http://www.legislation.govt.nz/act/public/1957/0108/latest/whole.html#DLM317736
 [3]: http://www.legislation.govt.nz/act/public/1957/0108/latest/whole.html#DLM317737
@@ -622,30 +615,34 @@ Section 7, Block XV, Opaku Survey District 2300
 [23]: http://www.legislation.govt.nz/act/public/1957/0108/latest/whole.html#DLM317789
 [24]: http://www.legislation.govt.nz/act/public/1957/0108/latest/whole.html#DLM317791
 [25]: http://www.legislation.govt.nz/act/public/1957/0108/latest/whole.html#DLM317793
-[26]: http://www.legislation.govt.nz/act/public/1957/0108/latest/whole.html#DLM317795
-[27]: http://www.legislation.govt.nz/act/public/1957/0108/latest/whole.html#DLM317797
-[28]: http://www.legislation.govt.nz/act/public/1957/0108/latest/whole.html#DLM317799
-[29]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM225563
-[30]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM235134
-[31]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM212679
-[32]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM226616
-[33]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM127010
-[34]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM127016
-[35]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM127020
-[36]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM1404067
-[37]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM394841
-[38]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM250585
-[39]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM395424
-[40]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM183661
-[41]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM182904
-[42]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM304703
-[43]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM135629
-[44]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM264952
-[45]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM88956
-[46]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM88548
-[47]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM88957
-[48]: http://www.pco.parliament.govt.nz/reprints/
-[49]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM195439
-[50]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[51]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM195468
-[52]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM195470
+[26]: http://www.legislation.govt.nz/act/public/1957/0108/latest/whole.html#DLM6046912
+[27]: http://www.legislation.govt.nz/act/public/1957/0108/latest/whole.html#DLM6046913
+[28]: http://www.legislation.govt.nz/act/public/1957/0108/latest/whole.html#DLM317795
+[29]: http://www.legislation.govt.nz/act/public/1957/0108/latest/whole.html#DLM317797
+[30]: http://www.legislation.govt.nz/act/public/1957/0108/latest/whole.html#DLM317799
+[31]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM4632890
+[32]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM4632894
+[33]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM5740664
+[34]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM225563
+[35]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM235134
+[36]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM212679
+[37]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM226616
+[38]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM127010
+[39]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM127016
+[40]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM127020
+[41]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM1404067
+[42]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM394841
+[43]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM250585
+[44]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM395424
+[45]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM183661
+[46]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM182904
+[47]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM304703
+[48]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM135629
+[49]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM264952
+[50]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM88956
+[51]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM88548
+[52]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM2998516
+[53]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM2998515
+[54]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM2998532
+[55]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[56]: http://www.legislation.govt.nz/act/public/1957/0108/latest/link.aspx?id=DLM88957
