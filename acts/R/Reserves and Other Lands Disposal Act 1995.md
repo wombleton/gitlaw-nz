@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2001
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencement3 October 1995
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by Land Information New Zealand.
 
@@ -47,18 +47,20 @@ This Act is administered by Land Information New Zealand.
 
 [9][12][][12][Meetings of Ngati Whakaue Education Endowment Trust Board][12]
 
-[10][13][][13][Accounts and audit][13]
+[10][13][][13][Financial statements must be prepared][13]
 
-[11][14][][14][Annual report][14]
+[10A][14][][14][Financial statements must be audited][14]
 
-[12][15][][15][Repeals][15]
+[11][15][][15][Annual report][15]
 
-[Entries in registers][16]
+[12][16][][16][Repeals][16]
 
-[13][17][][17][Entries in registers][17]
+[Entries in registers][17]
 
-[Schedule][18]  
-[Ngati Whakaue Education Endowment][18]
+[13][18][][18][Entries in registers][18]
+
+[Schedule][19]  
+[Ngati Whakaue Education Endowment][19]
 
 ---
 
@@ -72,13 +74,13 @@ An Act to provide for various matters relating to Crown land and other land held
 
 ##### 2 Oke Bay Scenic Reserve
     
-*   (1) The reservation of the land described in subsection (5) as a reserve under the [Reserves Act 1977][19] is hereby revoked.
+*   (1) The reservation of the land described in subsection (5) as a reserve under the [Reserves Act 1977][20] is hereby revoked.
     
     (2) The land described in subsection (5) is hereby vested in the trustees of the Hauai Trust for an estate in fee simple and, subject to subsection (4) and to [section 3][5], shall be held by those trustees on the same trusts as those on which that land was held immediately before the Crown acquired that land from the trustees of the Hauai Trust.
     
-    (3) The land described in subsection (5) shall be deemed to be Maori freehold land within the meaning of the [Maori Land Act 1993][20].
+    (3) The land described in subsection (5) shall be deemed to be Maori freehold land within the meaning of the [Maori Land Act 1993][21].
     
-    (4) Nothing in [section 24][21] of the Conservation Act 1987 shall apply to the vesting, by subsection (2) of this section, in the trustees of the Hauai Trust of the land described in subsection (5) of this section, but, subject to [section 3][5] of this Act, a strip of land 20 metres wide extending along the foreshore of the land described in subsection (5) of this section shall be held by the trustees of the Hauai Trust as a Maori reservation within the meaning of the [Maori Land Act 1993][20] for the common use and benefit of the people of New Zealand.
+    (4) Nothing in [section 24][22] of the Conservation Act 1987 shall apply to the vesting, by subsection (2) of this section, in the trustees of the Hauai Trust of the land described in subsection (5) of this section, but, subject to [section 3][5] of this Act, a strip of land 20 metres wide extending along the foreshore of the land described in subsection (5) of this section shall be held by the trustees of the Hauai Trust as a Maori reservation within the meaning of the [Maori Land Act 1993][21] for the common use and benefit of the people of New Zealand.
     
     (5) This section relates to all the piece of land comprising 25.1180 hectares, more or less, being Hauai 2D8 Block, situated in Block XV, Bay of Islands Survey District, and being all the land comprised and described in _Gazette_ Notice B. 138640.1 (North Auckland Registry) (_New Zealand Gazette_, 1982, page 3627) (M.L. Plan 15060).
     
@@ -94,21 +96,21 @@ An Act to provide for various matters relating to Crown land and other land held
 
 ##### 4 Felix Farm
     
-*   (1) The vesting in the trustees of the Hauai Trust of the land described in subsection (2) is hereby cancelled and that land is hereby vested in the Crown as Crown land subject to the [Land Act 1948][22].
+*   (1) The vesting in the trustees of the Hauai Trust of the land described in subsection (2) is hereby cancelled and that land is hereby vested in the Crown as Crown land subject to the [Land Act 1948][23].
     
     (2) This section relates to all the piece of land comprising 28.2000 hectares, more or less, being Allotment 221, Parish of Whangarei, situated in Block VIII, Purua Survey District, and being the balance of the land comprised and described in Register Book 43B/275 (North Auckland Registry) (SO Plan 51857).
 
 ##### 5 Revocations
     
-*   (1) The Proclamation by which the land described in [section 2(5)][4] of this Act was declared to be Crown land subject to the [Land Act 1948][22], which Proclamation was published in the _Gazette_ of 7 December 1978 at page 3344, is hereby revoked.
+*   (1) The Proclamation by which the land described in [section 2(5)][4] of this Act was declared to be Crown land subject to the [Land Act 1948][23], which Proclamation was published in the _Gazette_ of 7 December 1978 at page 3344, is hereby revoked.
     
     (2) The following notices, namely,---
         
-    *   (a) the notice by which the land described in [section 2(5)][4] of this Act was set apart, pursuant to the [Land Act 1948][22], as a reserve for recreation purposes, which notice was published in the _Gazette_ of 11 April 1979 at page 1095; and
+    *   (a) the notice by which the land described in [section 2(5)][4] of this Act was set apart, pursuant to the [Land Act 1948][23], as a reserve for recreation purposes, which notice was published in the _Gazette_ of 11 April 1979 at page 1095; and
     
-    *   (b) the notice by which the Bay of Islands Maritime and Historic Park Board was, under the [Reserves Act 1977][19], appointed to control and manage, as a reserve for recreation purposes, the land described in [section 2(5)][4] of this Act, which notice was published in the _Gazette_ of 18 October 1979 at page 3021; and
+    *   (b) the notice by which the Bay of Islands Maritime and Historic Park Board was, under the [Reserves Act 1977][20], appointed to control and manage, as a reserve for recreation purposes, the land described in [section 2(5)][4] of this Act, which notice was published in the _Gazette_ of 18 October 1979 at page 3021; and
     
-    *   (c) the notice by which the land described in [section 2(5)][4] of this Act was, under the [Reserves Act 1977][19], declared to be classified as a reserve for scenic purposes and to be thereafter known as the Oke Bay Scenic Reserve, which notice was published in the _Gazette_ of 4 November 1982 at page 3627,---
+    *   (c) the notice by which the land described in [section 2(5)][4] of this Act was, under the [Reserves Act 1977][20], declared to be classified as a reserve for scenic purposes and to be thereafter known as the Oke Bay Scenic Reserve, which notice was published in the _Gazette_ of 4 November 1982 at page 3627,---
     
     are hereby revoked.
 
@@ -162,7 +164,7 @@ An Act to provide for various matters relating to Crown land and other land held
     
     *   (e) the vesting of the land, assets, and liabilities referred to in paragraph (a) of this subsection in the Public Trustee pursuant to the said section 19 is hereby revoked.
     
-    (2) This section relates to all that area in the South Auckland Land District, situated in the District of Rotorua, being Blocks XLIII, XLIV, XLV, XLVI, and XLVII, Town of Rotorua, as more particularly described in the [Schedule][18].
+    (2) This section relates to all that area in the South Auckland Land District, situated in the District of Rotorua, being Blocks XLIII, XLIV, XLV, XLVI, and XLVII, Town of Rotorua, as more particularly described in the [Schedule][19].
 
 ##### 8 Term of office of members of Ngati Whakaue Education Endowment Trust Board
     
@@ -190,29 +192,51 @@ An Act to provide for various matters relating to Crown land and other land held
     
     (8) Subject to the provisions of this section, the Board may regulate its procedure in such manner as it thinks fit.
 
-##### 10 Accounts and audit
+##### 10 Financial statements must be prepared
     
-*   (1) The Ngati Whakaue Education Endowment Trust Board shall, before 1 July in each year, cause to be prepared a true statement of account, in a form for the time being approved by the Controller and Auditor-General, which shall include---
+*   (1) The Ngati Whakaue Education Endowment Trust Board must ensure that, within 5 months after the end of the financial year, financial statements are---
         
-    *   (a) a statement of financial position showing the assets and liabilities of the Board at the end of the immediately preceding period of 12 months; and
+    *   (a) completed in relation to the Board and that financial year; and
     
-    *   (b) an income and expenditure account showing the financial transactions for that immediately preceding period.
+    *   (b) dated and signed on behalf of the Board by 2 members of the Board.
     
-    (2) Ngāti Whakaue Education Endowment Trust Board is a public entity as defined in [section 4][23] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+    (2) The financial statements must be prepared in accordance with---
+        
+    *   (a) generally accepted accounting practice if the Ngati Whakaue Education Endowment Trust Board is a specified not-for-profit entity; or
     
-    Section 10(1)(a): amended, on 1 October 1997, pursuant to [section 6(1)][24] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    *   (b) in any other case, either generally accepted accounting practice or a non-GAAP standard that applies for the purposes of this section.
     
-    Section 10(2): substituted, on 1 July 2001, by [section 53][25] of the Public Audit Act 2001 (2001 No 10).
+    (3) In this section and [sections 10A][14] and [11][15],---
+    
+    _financial statements_ has the same meaning as in [section 6][24] of the Financial Reporting Act 2013
+    
+    _generally accepted accounting practice_ has the same meaning as in [section 8][25] of the Financial Reporting Act 2013
+    
+    _non-GAAP standard_ has the same meaning as in [section 5][26] of the Financial Reporting Act 2013
+    
+    _specified not-for-profit entity_ has the same meaning as in [section 46][27] of the Financial Reporting Act 2013\.
+    
+    Section 10: replaced, on 1 April 2014, by [section 125][28] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 10A Financial statements must be audited
+    
+*   (1) The Ngati Whakaue Education Endowment Trust Board must ensure that the financial statements of the Board are audited.
+    
+    (2) The Ngati Whakaue Education Endowment Trust Board is a public entity as defined in [section 4][29] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+    
+    Section 10A: inserted, on 1 April 2014, by [section 125][28] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 11 Annual report
     
-*   (1) As soon as practicable after 30 June in each year, the Ngati Whakaue Education Endowment Trust Board shall furnish to the Minister of Education a report of its operations and proceedings during that year, together with a copy of its statement of account for that year with the report of the Auditor-General thereon.
+*   (1) The Ngati Whakaue Education Endowment Trust Board must, within 1 month after the receipt of the audit report on the financial statements, provide to the Minister of Education a report of its proceedings and operations for its preceding financial year, a copy of its financial statements for that year, and a copy of the audit report.
     
-    (2) The Minister shall lay before the House of Representatives a copy of the annual report and of the statement of account with the report of the Auditor-General thereon, as soon as practicable after their receipt by the Minister.
+    (2) The Minister must present a copy of the report, of the financial statements, and of the audit report to the House of Representatives---
+        
+    *   (a) not later than 10 working days after the Minister receives those documents; or
     
-    Section 11(1): amended, on 1 July 2001, pursuant to [section 52][26] of the Public Audit Act 2001 (2001 No 10).
+    *   (b) if Parliament is not in session, as soon as possible after the commencement of the next session of Parliament.
     
-    Section 11(2): amended, on 1 July 2001, pursuant to [section 52][26] of the Public Audit Act 2001 (2001 No 10).
+    Section 11: replaced, on 1 April 2014, by [section 125][28] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 12 Repeals
     
@@ -399,76 +423,31 @@ All the land containing 8235 square metres, more or less, being Lot 1, Deposited
 
 All the land containing 1544 square metres, more or less, being Lots 1, 2, and 3, Deposited Plan 31120, situated in Block I, Tarawera Survey District, and being the balance of the land comprised and described in certificate of title, Volume 645, folio 210 (South Auckland Registry) and subject to leases H. 080586.1, H. 080586.2, and H. 080586.3\.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Reserves and Other Lands Disposal Act 1995\. The reprint incorporates all the amendments to the Act as at 1 July 2001, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][27] ![](/images/external_link.gif).
+*   This is a reprint of the Reserves and Other Lands Disposal Act 1995 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][28] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][30] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][31] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][29] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][32] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][33] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][30] and [17E][31] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
-    
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Public Audit Act 2001 (2001 No 10): [sections 52][26], [53][25]
-    
-    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6(1)][24]
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 125][28]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1995/0054/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1995/0054/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1995/0054/latest/whole.html#DLM368682
 [2]: http://www.legislation.govt.nz/act/public/1995/0054/latest/whole.html#DLM368684
 [3]: http://www.legislation.govt.nz/act/public/1995/0054/latest/whole.html#DLM2228100
@@ -482,21 +461,23 @@ All the land containing 1544 square metres, more or less, being Lots 1, 2, and 3
 [11]: http://www.legislation.govt.nz/act/public/1995/0054/latest/whole.html#DLM368694
 [12]: http://www.legislation.govt.nz/act/public/1995/0054/latest/whole.html#DLM368695
 [13]: http://www.legislation.govt.nz/act/public/1995/0054/latest/whole.html#DLM368696
-[14]: http://www.legislation.govt.nz/act/public/1995/0054/latest/whole.html#DLM368698
-[15]: http://www.legislation.govt.nz/act/public/1995/0054/latest/whole.html#DLM368699
-[16]: http://www.legislation.govt.nz/act/public/1995/0054/latest/whole.html#DLM2228102
-[17]: http://www.legislation.govt.nz/act/public/1995/0054/latest/whole.html#DLM368901
-[18]: http://www.legislation.govt.nz/act/public/1995/0054/latest/whole.html#DLM368902
-[19]: http://www.legislation.govt.nz/act/public/1995/0054/latest/link.aspx?id=DLM444304
-[20]: http://www.legislation.govt.nz/act/public/1995/0054/latest/link.aspx?id=DLM289881
-[21]: http://www.legislation.govt.nz/act/public/1995/0054/latest/link.aspx?id=DLM104699
-[22]: http://www.legislation.govt.nz/act/public/1995/0054/latest/link.aspx?id=DLM250585
-[23]: http://www.legislation.govt.nz/act/public/1995/0054/latest/link.aspx?id=DLM88548
-[24]: http://www.legislation.govt.nz/act/public/1995/0054/latest/link.aspx?id=DLM408960
-[25]: http://www.legislation.govt.nz/act/public/1995/0054/latest/link.aspx?id=DLM88957
-[26]: http://www.legislation.govt.nz/act/public/1995/0054/latest/link.aspx?id=DLM88956
-[27]: http://www.pco.parliament.govt.nz/reprints/
-[28]: http://www.legislation.govt.nz/act/public/1995/0054/latest/link.aspx?id=DLM195439
-[29]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[30]: http://www.legislation.govt.nz/act/public/1995/0054/latest/link.aspx?id=DLM195468
-[31]: http://www.legislation.govt.nz/act/public/1995/0054/latest/link.aspx?id=DLM195470
+[14]: http://www.legislation.govt.nz/act/public/1995/0054/latest/whole.html#DLM6047908
+[15]: http://www.legislation.govt.nz/act/public/1995/0054/latest/whole.html#DLM368698
+[16]: http://www.legislation.govt.nz/act/public/1995/0054/latest/whole.html#DLM368699
+[17]: http://www.legislation.govt.nz/act/public/1995/0054/latest/whole.html#DLM2228102
+[18]: http://www.legislation.govt.nz/act/public/1995/0054/latest/whole.html#DLM368901
+[19]: http://www.legislation.govt.nz/act/public/1995/0054/latest/whole.html#DLM368902
+[20]: http://www.legislation.govt.nz/act/public/1995/0054/latest/link.aspx?id=DLM444304
+[21]: http://www.legislation.govt.nz/act/public/1995/0054/latest/link.aspx?id=DLM289881
+[22]: http://www.legislation.govt.nz/act/public/1995/0054/latest/link.aspx?id=DLM104699
+[23]: http://www.legislation.govt.nz/act/public/1995/0054/latest/link.aspx?id=DLM250585
+[24]: http://www.legislation.govt.nz/act/public/1995/0054/latest/link.aspx?id=DLM4632890
+[25]: http://www.legislation.govt.nz/act/public/1995/0054/latest/link.aspx?id=DLM4632894
+[26]: http://www.legislation.govt.nz/act/public/1995/0054/latest/link.aspx?id=DLM4632837
+[27]: http://www.legislation.govt.nz/act/public/1995/0054/latest/link.aspx?id=DLM4632962
+[28]: http://www.legislation.govt.nz/act/public/1995/0054/latest/link.aspx?id=DLM5740664
+[29]: http://www.legislation.govt.nz/act/public/1995/0054/latest/link.aspx?id=DLM88548
+[30]: http://www.legislation.govt.nz/act/public/1995/0054/latest/link.aspx?id=DLM2998516
+[31]: http://www.legislation.govt.nz/act/public/1995/0054/latest/link.aspx?id=DLM2998515
+[32]: http://www.legislation.govt.nz/act/public/1995/0054/latest/link.aspx?id=DLM2998532
+[33]: http://www.pco.parliament.govt.nz/editorial-conventions/
