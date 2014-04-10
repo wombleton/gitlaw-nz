@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Health.
 
@@ -90,118 +90,122 @@ This Act is administered by the Ministry of Health.
 
 [28][32][][32][Finance][32]
 
-[29][33][][33][Accounts and audit][33]
+[29][33][][33][Accounting records must be kept][33]
 
-[30][34][][34][Bylaws made by trustees][34]
+[29A][34][][34][Financial statements][34]
 
-[Part 4][35]  
-[Burial grounds][35]
+[29B ][35][][35][Financial statements must be audited][35]
 
-[31][36][][36][Dedication of denominational burial grounds][36]
+[30][36][][36][Bylaws made by trustees][36]
 
-[32][37][][37][Managers of denominational burial grounds][37]
+[Part 4][37]  
+[Burial grounds][37]
 
-[33][38][][38][Private burial grounds][38]
+[31][38][][38][Dedication of denominational burial grounds][38]
 
-[34][39][][39][Trustees of private burial grounds][39]
+[32][39][][39][Managers of denominational burial grounds][39]
 
-[35][40][][40][Trustees may hold endowments for maintenance of burial ground, etc][40]
+[33][40][][40][Private burial grounds][40]
 
-[36][41][][41][Application of Act to burial grounds][41]
+[34][41][][41][Trustees of private burial grounds][41]
 
-[Part 5][42]  
-[Cremation][42]
+[35][42][][42][Trustees may hold endowments for maintenance of burial ground, etc][42]
 
-[37][43][][43][Regulations as to cremation][43]
+[36][43][][43][Application of Act to burial grounds][43]
 
-[38][44][][44][Erection of crematoria][44]
+[Part 5][44]  
+[Cremation][44]
 
-[39][45][][45][Application of Act in respect of crematoria][45]
+[37][45][][45][Regulations as to cremation][45]
 
-[40][46][][46][Crematorium bylaws][46]
+[38][46][][46][Erection of crematoria][46]
 
-[Part 6][47]  
-[Closing of cemeteries and burial grounds][47]
+[39][47][][47][Application of Act in respect of crematoria][47]
 
-[41][48][][48][Minister may close cemeteries and burial grounds][48]
+[40][48][][48][Crematorium bylaws][48]
 
-[42][49][][49][Saving of rights][49]
+[Part 6][49]  
+[Closing of cemeteries and burial grounds][49]
 
-[43][50][][50][Closed cemeteries][50]
+[41][50][][50][Minister may close cemeteries and burial grounds][50]
 
-[44][51][][51][Closed burial grounds][51]
+[42][51][][51][Saving of rights][51]
 
-[45][52][][52][Clearance of closed cemeteries and closed burial grounds][52]
+[43][52][][52][Closed cemeteries][52]
 
-[45A][53][][53][Minister may reopen closed cemeteries and burial grounds][53]
+[44][53][][53][Closed burial grounds][53]
 
-[45B][54][][54][Control and management of reopened cemeteries and burial grounds][54]
+[45][54][][54][Clearance of closed cemeteries and closed burial grounds][54]
 
-[45C][55][][55][Vesting of title in reopened cemeteries and burial grounds][55]
+[45A][55][][55][Minister may reopen closed cemeteries and burial grounds][55]
 
-[45D][56][][56][Crematoria situated within reopened cemeteries or burial grounds][56]
+[45B][56][][56][Control and management of reopened cemeteries and burial grounds][56]
 
-[Part 7][57]  
-[General provisions][57]
+[45C][57][][57][Vesting of title in reopened cemeteries and burial grounds][57]
 
-[46][58][][58][Unlawful burials][58]
+[45D][58][][58][Crematoria situated within reopened cemeteries or burial grounds][58]
 
-[46AA][59][][59][Doctor's certificate or coroner's authorisation required before body disposed of][59]
+[Part 7][59]  
+[General provisions][59]
 
-[46A][60][][60][Stillborn children][60]
+[46][60][][60][Unlawful burials][60]
 
-[46B][61][][61][Doctor's certificate in relation to illness][61]
+[46AA][61][][61][Doctor's certificate or coroner's authorisation required before body disposed of][61]
 
-[46C][62][][62][Doctor's certificate in relation to accidents to elderly persons][62]
+[46A][62][][62][Stillborn children][62]
 
-[46D][63][][63][No liability for costs incurred in supplying information][63]
+[46B][63][][63][Doctor's certificate in relation to illness][63]
 
-[46E][64][][64][Bodies to be disposed of within reasonable time][64]
+[46C][64][][64][Doctor's certificate in relation to accidents to elderly persons][64]
 
-[46F][65][][65][Transfer of charge of body][65]
+[46D][65][][65][No liability for costs incurred in supplying information][65]
 
-[47][66][][66][Burial in private burial place][66]
+[46E][66][][66][Bodies to be disposed of within reasonable time][66]
 
-[48][67][][67][Burial in special place][67]
+[46F][67][][67][Transfer of charge of body][67]
 
-[49][68][][68][Burial and cremation of poor persons][68]
+[47][68][][68][Burial in private burial place][68]
 
-[50][69][][69][Burials to be registered][69]
+[48][69][][69][Burial in special place][69]
 
-[51][70][][70][Removal of body][70]
+[49][70][][70][Burial and cremation of poor persons][70]
 
-[52][71][][71][Inspection of cemeteries][71]
+[50][71][][71][Burials to be registered][71]
 
-[53][72][][72][Vesting of title in certain cases][72]
+[51][72][][72][Removal of body][72]
 
-[Part 8][73]  
-[Offences and penalties][73]
+[52][73][][73][Inspection of cemeteries][73]
 
-[54AA][74][][74][Offences concerning doctor's certificate or certificate relating to stillbirth][74]
+[53][74][][74][Vesting of title in certain cases][74]
 
-[54][75][][75][Offences concerning burials][75]
+[Part 8][75]  
+[Offences and penalties][75]
 
-[55][76][][76][Unlawful exhumation][76]
+[54AA][76][][76][Offences concerning doctor's certificate or certificate relating to stillbirth][76]
 
-[56][77][][77][Offences concerning cremation][77]
+[54][77][][77][Offences concerning burials][77]
 
-[57][78][][78][Trespass by animals][78]
+[55][78][][78][Unlawful exhumation][78]
 
-[58][79][][79][Offences punishable on summary conviction][79] \[Repealed\]
+[56][79][][79][Offences concerning cremation][79]
 
-[Part 9][80]  
-[Regulations, savings, and repeals][80]
+[57][80][][80][Trespass by animals][80]
 
-[59][81][][81][Regulations][81]
+[58][81][][81][Offences punishable on summary conviction][81] \[Repealed\]
 
-[60][82][][82][Savings][82]
+[Part 9][82]  
+[Regulations, savings, and repeals][82]
 
-[61][83][][83][Repeals and savings][83]
+[59][83][][83][Regulations][83]
 
-[Schedule 1][84]  
+[60][84][][84][Savings][84]
 
-[Schedule 2][85]  
-[Enactments repealed][85]
+[61][85][][85][Repeals and savings][85]
+
+[Schedule 1][86]  
+
+[Schedule 2][87]  
+[Enactments repealed][87]
 
 ---
 
@@ -225,49 +229,57 @@ An Act to consolidate and amend the law relating to the burial and cremation of 
     
     _closed cemetery_ means a cemetery which has been closed by a closing order and _closed burial ground_ has a corresponding meaning
     
-    _closing order_ means an order made under paragraph (a) of subsection (1) of [section 41][48] before 1 January 1969, or a notice published under that paragraph after that date, or an Order in Council made under any corresponding former provision
+    _closing order_ means an order made under paragraph (a) of subsection (1) of [section 41][50] before 1 January 1969, or a notice published under that paragraph after that date, or an Order in Council made under any corresponding former provision
     
-    _coroner's authorisation_, in relation to a body, means an authorisation by a coroner under [section 42][86] of the Coroners Act 2006 for the release of the body
+    _coroner's authorisation_, in relation to a body, means an authorisation by a coroner under [section 42][88] of the Coroners Act 2006 for the release of the body
     
-    _corporation_, in relation to a local authority, means that local authority as constituted a body corporate by [section 12][87] of the Local Government Act 2002
+    _corporation_, in relation to a local authority, means that local authority as constituted a body corporate by [section 12][89] of the Local Government Act 2002
     
     _cremation_ means the reduction to ashes of dead bodies by burning
     
     _crematorium_ means appliances and machinery and furnaces for effecting cremation, and includes any building in which any such appliances, machinery, or furnaces are fixed
     
-    _dead foetus_ has the meaning given to it in [section 2][88] of the Births, Deaths, Marriages, and Relationships Registration Act 1995
+    _dead foetus_ has the meaning given to it in [section 2][90] of the Births, Deaths, Marriages, and Relationships Registration Act 1995
     
     _denominational burial ground_ means any land, outside the boundaries of a cemetery, held, purchased, acquired, set apart, or dedicated, under the provisions of any Act or before the commencement of this Act, for the burial of the dead belonging to 1 or more religious denominations
     
     _disposal_ includes burial and cremation
     
-    _doctor_ means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by [section 114(1)(a)][89] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
+    _doctor_ means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by [section 114(1)(a)][91] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
     
-    _doctor's certificate_, in relation to a death or a body, means a doctor's certificate referred to in [section 46B][61] or [46C][62] relating to the cause of death or, as the case may require, the cause of death of the person whose body it is
+    _doctor's certificate_, in relation to a death or a body, means a doctor's certificate referred to in [section 46B][63] or [46C][64] relating to the cause of death or, as the case may require, the cause of death of the person whose body it is
+    
+    _financial statements_ has the same meaning as in [section 6][92] of the Financial Reporting Act 2013
     
     _funeral director_ means a person whose business is or includes disposing of bodies
+    
+    _generally accepted accounting practice_ has the same meaning as in [section 8][93] of the Financial Reporting Act 2013
     
     _give a doctor's certificate_, in relation to a person's death, means complete and sign a doctor's certificate and give it to the person having charge of the person's body
     
     _guardian_ means a person appointed to be a guardian under [section 14][16]
     
-    _local authority_ means a territorial authority within the meaning of the [Local Government Act 2002][90]
+    _local authority_ means a territorial authority within the meaning of the [Local Government Act 2002][94]
     
     _manager_ means the manager of a denominational burial ground
     
     _Maori burial ground_ means any land set apart for the purposes of a burial ground under section 439 of the Maori Affairs Act 1953 or any corresponding former provision
     
-    _midwife_ means a health practitioner who is, or is deemed to be, registered with the Midwifery Council established by [section 114(3)][89] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of midwifery
+    _midwife_ means a health practitioner who is, or is deemed to be, registered with the Midwifery Council established by [section 114(3)][91] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of midwifery
     
     _Minister_ means the Minister of Health
     
     _monument_ includes any tombstone, headstone, memorial, kerbing, or other erection
     
+    _non-GAAP standard_ has the same meaning as in [section 5][95] of the Financial Reporting Act 2013
+    
     _private burial ground_ means a parcel of land declared to be a private burial ground under the provisions of the Cemeteries Amendment Act 1912
     
     _religious denomination_ means the adherents of any religion and includes any church, sect, or other subdivision of such adherents
     
-    _stillborn child_ has the same meaning as in [section 2][88] of the Births, Deaths, Marriages, and Relationships Registration Act 1995
+    _specified not-for-profit entity_ has the same meaning as in [section 46][96] of the Financial Reporting Act 2013
+    
+    _stillborn child_ has the same meaning as in [section 2][90] of the Births, Deaths, Marriages, and Relationships Registration Act 1995
     
     _tablet_ includes a plaque
     
@@ -281,31 +293,39 @@ An Act to consolidate and amend the law relating to the burial and cremation of 
     
     Section 2(1) **closing order**: amended, on 1 January 1969, by section 2 of the Burial and Cremation Amendment Act 1968 (1968 No 71).
     
-    Section 2(1) **coroner's authorisation**: inserted, on 24 January 2009, by [section 47][91] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 2(1) **coroner's authorisation**: inserted, on 24 January 2009, by [section 47][97] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 2(1) **corporation**: substituted, on 1 July 2003, by [section 262][92] of the Local Government Act 2002 (2002 No 84).
+    Section 2(1) **corporation**: substituted, on 1 July 2003, by [section 262][98] of the Local Government Act 2002 (2002 No 84).
     
-    Section 2(1) **dead foetus**: inserted, on 24 January 2009, by [section 47][91] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 2(1) **dead foetus**: inserted, on 24 January 2009, by [section 47][97] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 2(1) **disposal**: inserted, on 24 January 2009, by [section 47][91] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 2(1) **disposal**: inserted, on 24 January 2009, by [section 47][97] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 2(1) **doctor**: inserted, on 18 September 2004, by [section 175(1)][93] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 2(1) **doctor**: inserted, on 18 September 2004, by [section 175(1)][99] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 2(1) **doctor's certificate**: inserted, on 24 January 2009, by [section 47][91] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 2(1) **doctor's certificate**: inserted, on 24 January 2009, by [section 47][97] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 2(1) **funeral director**: inserted, on 24 January 2009, by [section 47][91] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 2(1) **financial statements**: inserted, on 1 April 2014, by [section 125][100] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 2(1) **give a doctor's certificate**: inserted, on 24 January 2009, by [section 47][91] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 2(1) **funeral director**: inserted, on 24 January 2009, by [section 47][97] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 2(1) **local authority**: substituted, on 1 July 2003, by [section 262][92] of the Local Government Act 2002 (2002 No 84).
+    Section 2(1) **generally accepted accounting practice**: inserted, on 1 April 2014, by [section 125][100] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 2(1) **midwife**: inserted, on 18 September 2004, by [section 175(1)][93] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 2(1) **give a doctor's certificate**: inserted, on 24 January 2009, by [section 47][97] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 2(1) **stillborn child**: substituted, on 28 July 1997, by [section 2][94] of the Burial and Cremation Amendment Act 1997 (1997 No 36).
+    Section 2(1) **local authority**: substituted, on 1 July 2003, by [section 262][98] of the Local Government Act 2002 (2002 No 84).
     
-    Section 2(1) **stillborn child**: amended, on 24 January 2009, by [section 47][91] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 2(1) **midwife**: inserted, on 18 September 2004, by [section 175(1)][99] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 2(1) **unavailable**: added, on 24 January 2009, by [section 47][91] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 2(1) **non-GAAP standard**: inserted, on 1 April 2014, by [section 125][100] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 2(1) **specified not-for-profit entity**: inserted, on 1 April 2014, by [section 125][100] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 2(1) **stillborn child**: substituted, on 28 July 1997, by [section 2][101] of the Burial and Cremation Amendment Act 1997 (1997 No 36).
+    
+    Section 2(1) **stillborn child**: amended, on 24 January 2009, by [section 47][97] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    
+    Section 2(1) **unavailable**: added, on 24 January 2009, by [section 47][97] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 3 Act not to apply to Maori burial grounds
     
@@ -320,19 +340,19 @@ Establishment, maintenance, and regulation of cemeteries
     
     (2) Every local authority is hereby authorised to undertake any work for the purpose of carrying out the duty imposed on it by subsection (1) and to expend such money as it thinks fit on the acquisition of land for cemeteries and on the establishment, maintenance, and improvement of cemeteries.
     
-    (3) A cemetery is a public work within the meaning of the [Public Works Act 1981][95] and land may be acquired or taken for cemeteries under the provisions of that Act.
+    (3) A cemetery is a public work within the meaning of the [Public Works Act 1981][102] and land may be acquired or taken for cemeteries under the provisions of that Act.
     
     (4) \[Repealed\]
     
     Compare: 1908 No 19 ss 49, 50(1), 51, 60; 1922 No 36 s 3
     
-    Section 4(3): substituted, on 1 July 2003, by [section 262][92] of the Local Government Act 2002 (2002 No 84).
+    Section 4(3): substituted, on 1 July 2003, by [section 262][98] of the Local Government Act 2002 (2002 No 84).
     
     Section 4(4): repealed, on 10 December 1976, by section 2(1) of the Burial and Cremation Amendment Act 1976 (1976 No 77).
 
 ##### 5 Functions of local authorities
     
-*   (1) Subject to the provisions of [Parts 3][25] and [6][47], a local authority shall have the control and management of every cemetery---
+*   (1) Subject to the provisions of [Parts 3][25] and [6][49], a local authority shall have the control and management of every cemetery---
         
     *   (a) which is on land to which the corporation of the local authority has title; or
     
@@ -350,7 +370,7 @@ Establishment, maintenance, and regulation of cemeteries
     
     Compare: 1908 No 19 s 9
     
-    Section 5(1): amended, on 1 July 2003, by [section 262][92] of the Local Government Act 2002 (2002 No 84).
+    Section 5(1): amended, on 1 July 2003, by [section 262][98] of the Local Government Act 2002 (2002 No 84).
 
 ##### 6 Cemetery to be open to public
     
@@ -434,7 +454,7 @@ Establishment, maintenance, and regulation of cemeteries
     
     Compare: 1908 No 19 ss 31, 32
     
-    Section 11(2): amended, on 1 April 1980, pursuant to [section 18(2)][96] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 11(2): amended, on 1 April 1980, pursuant to [section 18(2)][103] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 12 Sections may be marked off and consecrated
     
@@ -492,11 +512,11 @@ Establishment, maintenance, and regulation of cemeteries
     
     (3) In subsection (1), _operational service_ means service in a war, armed conflict, peacekeeping force, or other operation specified under subsection (2).
     
-    Section 15: substituted, on 1 November 1997, by [section 3][97] of the Burial and Cremation Amendment Act 1997 (1997 No 36).
+    Section 15: substituted, on 1 November 1997, by [section 3][104] of the Burial and Cremation Amendment Act 1997 (1997 No 36).
     
-    Section 15(1)(a)(ii): substituted, on 26 April 2005, by [section 7][98] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 15(1)(a)(ii): substituted, on 26 April 2005, by [section 7][105] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 15(2): amended, on 22 October 2003, by [section 3][99] of the Burial and Cremation Amendment Act 2003 (2003 No 63).
+    Section 15(2): amended, on 22 October 2003, by [section 3][106] of the Burial and Cremation Amendment Act 2003 (2003 No 63).
 
 ##### 16 Bylaws
     
@@ -514,19 +534,19 @@ Establishment, maintenance, and regulation of cemeteries
     
     *   (f) regulating the burial in the cemetery of the ashes of the dead:
     
-    *   (g) subject to [section 51][70], regulating and restricting the disinterment and removal of bodies:
+    *   (g) subject to [section 51][72], regulating and restricting the disinterment and removal of bodies:
     
     *   (h) fixing a scale of fees payable in respect of any grave or vault dug or made, and any monument or tablet erected or placed, in the cemetery, and in respect of any agreements to maintain graves:
     
     *   (i) prescribing fines for the breach of any such bylaw not exceeding 50 pounds in any case, and, where the breach is a continuing one, not exceeding 5 pounds for every day or part of a day during which the breach has continued:
     
-    *   (j) any of the matters referred to in [section 9][11] or in paragraphs (a), (b), (c), or (e) of [section 59][81].
+    *   (j) any of the matters referred to in [section 9][11] or in paragraphs (a), (b), (c), or (e) of [section 59][83].
     
-    (2) All bylaws made by a local authority under this Act shall be made in the same manner in all respects as if they were bylaws made pursuant to the [Local Government Act 2002][90].
+    (2) All bylaws made by a local authority under this Act shall be made in the same manner in all respects as if they were bylaws made pursuant to the [Local Government Act 2002][94].
     
     Compare: 1908 No 19 ss 22, 30A(1), 56(1)(c); 1922 No 36 s 4
     
-    Section 16(2): amended, on 1 July 2003, by [section 262][92] of the Local Government Act 2002 (2002 No 84).
+    Section 16(2): amended, on 1 July 2003, by [section 262][98] of the Local Government Act 2002 (2002 No 84).
 
 ##### 17 Copies of bylaws
     
@@ -565,23 +585,23 @@ Finance and miscellaneous functions
     
     (2) A local authority may grant leases of any unused portion of the land comprised in a cemetery for any term not exceeding 5 years for such consideration or at such rent and upon such terms and conditions and in such manner as it thinks fit, and may accept surrenders of any such leases.
     
-    (3) Any land comprised in a cemetery, which is not required for cemetery purposes, may, in any case in which [section 24][100] of the Reserves Act 1977 or [section 42][101] or [section 52][102] of the Public Works Act 1981 is otherwise applicable, be dealt with under the section so applicable, with the consequences provided for in those Acts, and any land which has been disposed of or otherwise dealt with in accordance with the provisions of any such section shall thereupon cease to be a cemetery or part of a cemetery as the case may be.
+    (3) Any land comprised in a cemetery, which is not required for cemetery purposes, may, in any case in which [section 24][107] of the Reserves Act 1977 or [section 42][108] or [section 52][109] of the Public Works Act 1981 is otherwise applicable, be dealt with under the section so applicable, with the consequences provided for in those Acts, and any land which has been disposed of or otherwise dealt with in accordance with the provisions of any such section shall thereupon cease to be a cemetery or part of a cemetery as the case may be.
     
     (4) Any land comprised in a cemetery which is held by a corporation or administered by a local authority under the terms of an instrument of trust, and which is not required for cemetery purposes, may, with the prior approval of the Minister, be disposed of, and the proceeds of such disposition shall be applied in accordance with the terms of the instrument or, if the terms of the instrument do not provide for the disposition of those proceeds, in such manner as the Minister shall direct. Any land which is disposed of pursuant to this subsection shall cease to be a cemetery or part of a cemetery as the case may be.
     
     (5) Any land comprised in a cemetery which is held by a corporation, otherwise than subject to the provisions of any enactment (other than this Act or any former Cemeteries Act) or to any instrument of trust, and which is not required for cemetery purposes, may, with the prior approval of the Minister, be disposed of, and the proceeds of such disposition may be applied for the general purposes of the local authority. Any land which is disposed of pursuant to this subsection shall cease to be a cemetery or part of a cemetery as the case may be.
     
-    (6) [Section 45][103] of the Public Works Act 1981 and [section 12][87] of the Local Government Act 2002 must, in their application to land comprised in a cemetery, be read subject to the provisions of this section.
+    (6) [Section 45][110] of the Public Works Act 1981 and [section 12][89] of the Local Government Act 2002 must, in their application to land comprised in a cemetery, be read subject to the provisions of this section.
     
     (7) Nothing in this section shall prevent a local authority disposing of land comprised in a cemetery to another local authority if that land is to be held for cemetery purposes by the local authority acquiring it.
     
     Compare: 1908 No 19 s 13(1)--(2); 1912 No 25 s 7; 1953 No 49 s 2
     
-    Section 21(3): amended, on 1 February 1982, pursuant to [section 248(1)][104] of the Public Works Act 1981 (1981 No 35).
+    Section 21(3): amended, on 1 February 1982, pursuant to [section 248(1)][111] of the Public Works Act 1981 (1981 No 35).
     
-    Section 21(3): amended, on 1 April 1978, pursuant to [section 125(1)][105] of the Reserves Act 1977 (1977 No 66).
+    Section 21(3): amended, on 1 April 1978, pursuant to [section 125(1)][112] of the Reserves Act 1977 (1977 No 66).
     
-    Section 21(6): substituted, on 1 July 2003, by [section 262][92] of the Local Government Act 2002 (2002 No 84).
+    Section 21(6): substituted, on 1 July 2003, by [section 262][98] of the Local Government Act 2002 (2002 No 84).
     
     Section 21(7): added, on 9 October 1975, by section 3 of the Burial and Cremation Amendment Act 1975 (1975 No 63).
 
@@ -666,27 +686,59 @@ Trustees
     
     (2) Subject to the provisions of this Act, trustees may expend out of their funds such money as they think fit on the management and improvement of the cemetery and for the several purposes and objects authorised by this Act, including the appointment of such officers and servants as they think necessary.
     
-    (3) All money received by trustees shall, as soon as practicable after it has come into the hands of the Treasurer or other proper officer of the trustees, be paid into such bank within the meaning of the [Trustee Act 1956][106] as the trustees from time to time determine to an account to be called ""The \[_Name of Cemetery_\] Trustees' Account"", and no money shall be withdrawn from the bank except by authority of the trustees, and any cheque or other withdrawal notice shall be signed by at least 2 of the trustees.
+    (3) All money received by trustees shall, as soon as practicable after it has come into the hands of the Treasurer or other proper officer of the trustees, be paid into such bank within the meaning of the [Trustee Act 1956][113] as the trustees from time to time determine to an account to be called ""The \[_Name of Cemetery_\] Trustees' Account"", and no money shall be withdrawn from the bank except by authority of the trustees, and any cheque or other withdrawal notice shall be signed by at least 2 of the trustees.
     
     (4) Trustees may, unless the Minister otherwise directs, invest any of their funds not for the time being required to be expended in any manner in which trustees are for the time being authorised to invest trust funds.
     
     (5) Trustees may from time to time with the consent of the Minister apply any money received by them under this Act or any regulations or bylaws made under this Act in respect of a cemetery towards the management, administration, or improvement of any other cemetery.
     
-    (6) When land comprised in a cemetery, which is under the control and management of trustees, is disposed of pursuant to subsections (4) or (5) of [section 21][24], or where any such cemetery has been closed under [section 41][48], the trustees shall apply the proceeds of such disposition or any money received by them in respect of such cemetery and unexpended at the time when the closing order takes effect, respectively, in accordance with such directions as may be given to them by the Minister in that behalf.
+    (6) When land comprised in a cemetery, which is under the control and management of trustees, is disposed of pursuant to subsections (4) or (5) of [section 21][24], or where any such cemetery has been closed under [section 41][50], the trustees shall apply the proceeds of such disposition or any money received by them in respect of such cemetery and unexpended at the time when the closing order takes effect, respectively, in accordance with such directions as may be given to them by the Minister in that behalf.
     
     Compare: 1908 No 19 ss 13(3), 17, 19, 30A(2), (3), (4); 1926 No 23 s 4; 1950 No 42 s 4; 1953 No 49 s 2
 
-##### 29 Accounts and audit
+##### 29 Accounting records must be kept
     
-*   (1) Trustees shall keep full accounts of all money received and expended by them.
+*   (1) Trustees must ensure that there are kept at all times accounting records that---
+        
+    *   (a) correctly record the transactions of the trustees; and
     
-    (2) In the month of April in each year trustees shall prepare for audit a statement of accounts, showing full particulars of all money received and paid during the year ending on 31 March then last past, together with a statement of assets and liabilities as at the close of that year.
+    *   (b) will enable the trustees to ensure that the financial statements of the trustees comply with this Act; and
     
-    (3) Trustees are public entities as defined in [section 4][107] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is their auditor.
+    *   (c) will enable the financial statements of the trustees to be readily and properly audited.
     
-    Compare: 1908 No 19 ss 41, 42, 43; 1959 No 54 s 2
+    (2) Trustees must establish and maintain a satisfactory system of control of those accounting records.
     
-    Section 29(3): substituted, on 1 July 2001, by [section 53][108] of the Public Audit Act 2001 (2001 No 10).
+    (3) The accounting records must be kept---
+        
+    *   (a) in written form in English; or
+    
+    *   (b) in a form or manner in which they are easily accessible and convertible into written form in English.
+    
+    Section 29: replaced, on 1 April 2014, by [section 125][100] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 29A Financial statements
+    
+*   (1) Trustees must ensure that, within 5 months after the end of the financial year ending on 31 March, financial statements are---
+        
+    *   (a) completed in relation to the trustees and that financial year; and
+    
+    *   (b) dated and signed on behalf of the trustees by 2 of the trustees.
+    
+    (2) The financial statements must be prepared in accordance with,---
+        
+    *   (a) in the case of a specified not-for-profit entity, generally accepted accounting practice; or
+    
+    *   (b) in any other case, either generally accepted accounting practice or a non-GAAP standard that applies for the purposes of this section.
+    
+    Section 29A: inserted, on 1 April 2014, by [section 125][100] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 29B Financial statements must be audited
+    
+*   (1) Trustees must ensure that the financial statements of the trustees are audited.
+    
+    (2) Trustees are public entities as defined in [section 4][114] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is their auditor.
+    
+    Section 29B: inserted, on 1 April 2014, by [section 125][100] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 30 Bylaws made by trustees
     
@@ -709,11 +761,11 @@ Burial grounds
     
     (2) The Minister may at his discretion approve or disapprove any proposal made to him under subsection (1) having taken into consideration the position of the land, its suitability as a burial ground, its suitability for alternative uses, and such other matters as he deems material.
     
-    (3) Subject to the provisions of [Part 5][42], a crematorium may be erected within the boundaries of a denominational burial ground for the cremation of human remains of such persons or classes of person as the managers of the burial ground think fit.
+    (3) Subject to the provisions of [Part 5][44], a crematorium may be erected within the boundaries of a denominational burial ground for the cremation of human remains of such persons or classes of person as the managers of the burial ground think fit.
     
     (4) A copy of any notice under subsection (1) may be forwarded to the District Land Registrar who shall thereupon, if he is satisfied that the provisions of that subsection have been complied with, without payment of any fee register it against the appropriate title, and such registration shall, subject to the provisions of this Act, have the effect of a perpetual caveat to restrain any dealing with the land manifestly inconsistent with such notice.
     
-    (5) If any land which is the subject of a notice under subsection (1) is only part of the land comprised in a certificate of title, such notice may, at the discretion of the District Land Registrar, be deemed to be a transfer of the land for the purposes of [sections 92 to 94][109] and [section 167][110] of the Land Transfer Act 1952\.
+    (5) If any land which is the subject of a notice under subsection (1) is only part of the land comprised in a certificate of title, such notice may, at the discretion of the District Land Registrar, be deemed to be a transfer of the land for the purposes of [sections 92 to 94][115] and [section 167][116] of the Land Transfer Act 1952\.
     
     Compare: 1908 No 19 s 59
 
@@ -749,7 +801,7 @@ Burial grounds
     
 *   (1) Trustees may, in addition to the private burial ground, hold any real or personal property that may be vested in them as an endowment for the purposes of the burial ground; and may sell, lease, or otherwise dispose of the same on such terms and conditions as they think fit.
     
-    (2) The proceeds of the sale of any part of the endowment may be invested in the purchase of land for the purposes of the endowment or in any of the modes of investment authorised by the [Trustee Act 1956][106].
+    (2) The proceeds of the sale of any part of the endowment may be invested in the purchase of land for the purposes of the endowment or in any of the modes of investment authorised by the [Trustee Act 1956][113].
     
     (3) All rents or other profits derived from the endowment shall be applied by the trustees for the maintenance, control, improvement, and upkeep of the private burial ground in such manner as the trustees in their discretion think fit.
     
@@ -757,9 +809,9 @@ Burial grounds
 
 ##### 36 Application of Act to burial grounds
     
-*   (1) The provisions of this Act specified in [Part 1][111] of Schedule 1 shall so far as they are applicable and with any necessary modifications apply to denominational burial grounds and managers.
+*   (1) The provisions of this Act specified in [Part 1][117] of Schedule 1 shall so far as they are applicable and with any necessary modifications apply to denominational burial grounds and managers.
     
-    (2) The provisions of this Act specified in [Part 2][112] of Schedule 1 shall so far as they are applicable and with any necessary modifications apply to private burial grounds and the trustees of such burial grounds.
+    (2) The provisions of this Act specified in [Part 2][118] of Schedule 1 shall so far as they are applicable and with any necessary modifications apply to private burial grounds and the trustees of such burial grounds.
     
     (3) It shall not be lawful to bury in a private burial ground any body other than the body of a person defined or belonging to a class defined in the notice which constituted such burial ground.
     
@@ -770,11 +822,11 @@ Cremation
 
 ##### 37 Regulations as to cremation
     
-*   (1) Without prejudice to the power to make regulations conferred by [section 59][81] the Governor-General may from time to time, by Order in Council, make regulations controlling or restricting the establishment and closing of crematoria, prescribing the conditions subject to which and the manner in which cremations are to be carried out, and providing for all matters incidental thereto.
+*   (1) Without prejudice to the power to make regulations conferred by [section 59][83] the Governor-General may from time to time, by Order in Council, make regulations controlling or restricting the establishment and closing of crematoria, prescribing the conditions subject to which and the manner in which cremations are to be carried out, and providing for all matters incidental thereto.
     
     (2) No person shall carry out or procure or take part in any cremation except in accordance with regulations made under this section.
     
-    (3) The provisions of [sections 38 to 40][44] shall be subject to any regulations made under this section.
+    (3) The provisions of [sections 38 to 40][46] shall be subject to any regulations made under this section.
     
     Compare: 1908 No 19 s 46
 
@@ -808,7 +860,7 @@ Cremation
     
     *   (f) fixing a scale of fees payable for cremation, and for the use of any building provided for the preservation of the ashes of the dead.
     
-    (2) The powers conferred on a local authority by subsection (1) may be exercised by any person or body of persons owning or exercising control over a crematorium with respect to that crematorium, subject to the same conditions and requirements as are imposed by [section 30][34] on the trustees of a cemetery.
+    (2) The powers conferred on a local authority by subsection (1) may be exercised by any person or body of persons owning or exercising control over a crematorium with respect to that crematorium, subject to the same conditions and requirements as are imposed by [section 30][36] on the trustees of a cemetery.
     
     Compare: 1908 No 19 s 47
 
@@ -827,7 +879,7 @@ Closing of cemeteries and burial grounds
     
     (3) Notwithstanding the provisions of subsection (2), any crematorium situated within the boundaries of the burial ground known as the Purewa Cemetery shall not be closed by a notice published under this section.
     
-    (4) Except as is provided in subsection (2) of [section 42][49] or by the terms of the closing order it shall not be lawful to bury a body in a closed cemetery or in a closed burial ground.
+    (4) Except as is provided in subsection (2) of [section 42][51] or by the terms of the closing order it shall not be lawful to bury a body in a closed cemetery or in a closed burial ground.
     
     Compare: 1908 No 19 s 72
     
@@ -849,7 +901,7 @@ Closing of cemeteries and burial grounds
     
     (2) Notwithstanding the existence of a closing order, where any person has been buried in a cemetery, denominational burial ground, or private burial ground before any such order comes into effect, any survivor of such person, being within the degrees of relationship of husband, wife, civil union partner, de facto partner, parent, child, brother, or sister to the deceased, may be buried in the same plot of ground with the said deceased:
     
-    provided that nothing contained in this subsection shall enable the burial in a denominational burial ground of the body of a person who was not at the time of his death a practising member of the denomination concerned or the burial in a private burial ground of a body the burial of which in such burial ground is prohibited by subsection (3) of [section 36][41].
+    provided that nothing contained in this subsection shall enable the burial in a denominational burial ground of the body of a person who was not at the time of his death a practising member of the denomination concerned or the burial in a private burial ground of a body the burial of which in such burial ground is prohibited by subsection (3) of [section 36][43].
     
     (3) Any person who has acquired a plot of ground wherein no burial has been made in any cemetery which is the subject of a closing order shall be entitled, at any time within 2 years after the date when the closing order came into effect, to select free of charge, in another cemetery under the control and management of the same local authority, subject to any bylaws relating thereto, a plot of ground for the burial of the dead equal in size to that of the use whereof he has been deprived by the order.
     
@@ -857,7 +909,7 @@ Closing of cemeteries and burial grounds
     
     Section 42(1): amended, on 1 January 1969, by section 2 of the Burial and Cremation Amendment Act 1968 (1968 No 71).
     
-    Section 42(2): amended, on 26 April 2005, by [section 7][98] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 42(2): amended, on 26 April 2005, by [section 7][105] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 43 Closed cemeteries
     
@@ -867,7 +919,7 @@ Closing of cemeteries and burial grounds
     
     (3) The Minister may by notice in the _Gazette_ revoke such part of any closing order as purports to vest the control and management of a closed cemetery in any individual, body corporate, or local authority, or any subsequent notice published under subsection (1) or this subsection and may by the same or a subsequent notice in the _Gazette_ vest the said control and management in some other individual, body corporate, or local authority, in lieu of or in addition to the individual, body corporate, or local authority in whom the said control and management have theretofore been vested, and the same consequences shall flow from such vesting as are specified in subsection (1).
     
-    (4) In this section the term _control and management_ includes the power to make bylaws with respect to a closed cemetery conferred by [section 16][18], subject to [section 17][19] where such control and management is vested in a local authority, and in any other case, subject to the application of the provisions of [section 30][34] as if the individual or body corporate having such control and management were trustees of a cemetery.
+    (4) In this section the term _control and management_ includes the power to make bylaws with respect to a closed cemetery conferred by [section 16][18], subject to [section 17][19] where such control and management is vested in a local authority, and in any other case, subject to the application of the provisions of [section 30][36] as if the individual or body corporate having such control and management were trustees of a cemetery.
     
     Compare: 1908 No 19 s 78
     
@@ -881,13 +933,13 @@ Closing of cemeteries and burial grounds
     
     (2) The Minister may by notice in the _Gazette_ revoke such part of any closing order as purports to vest the control and management of a closed burial ground in any individual or body corporate, or any subsequent notice published under subsection (1) or this subsection, and may by the same or a subsequent notice in the _Gazette_ vest the said control and management in some other individual or body corporate, in lieu of or in addition to the individual or body corporate in whom the said control and management have theretofore been vested.
     
-    (3) The Minister may, if he thinks fit, in any notice published under [section 41][48] or this section provide for the future maintenance of a closed burial ground and all matters incidental thereto.
+    (3) The Minister may, if he thinks fit, in any notice published under [section 41][50] or this section provide for the future maintenance of a closed burial ground and all matters incidental thereto.
     
     (4) A closed burial ground shall not be sold or leased or otherwise disposed of or diverted to any other purpose:
     
     provided that the Minister may by the closing order or any subsequent notice in the _Gazette_ exempt a closed burial ground or any part of a closed burial ground from the provisions of this subsection either absolutely or subject to such conditions as he may specify.
     
-    (5) In this section the term _control and management_ includes the power to make bylaws with respect to a closed burial ground conferred by [sections 16][18] and [36][41], subject to the application of the provisions of [section 30][34] as if the individual or body corporate having such control and management were trustees of a cemetery.
+    (5) In this section the term _control and management_ includes the power to make bylaws with respect to a closed burial ground conferred by [sections 16][18] and [36][43], subject to the application of the provisions of [section 30][36] as if the individual or body corporate having such control and management were trustees of a cemetery.
     
     Compare: 1908 No 19 s 78; 1912 No 25 s 10
     
@@ -901,7 +953,7 @@ Closing of cemeteries and burial grounds
 
 ##### 45 Clearance of closed cemeteries and closed burial grounds
     
-*   (1) The Minister may by any closing order or by any subsequent notice in the _Gazette_, on the application of the individual, body corporate, or local authority who has or will have the control and management of a closed cemetery or closed burial ground, direct that, notwithstanding anything in [section 41][48] or [section 42][49], no further burials shall take place in the closed cemetery or closed burial ground, and may in like manner authorise such individual, body corporate, or local authority to remove all or any of the monuments and tablets erected therein.
+*   (1) The Minister may by any closing order or by any subsequent notice in the _Gazette_, on the application of the individual, body corporate, or local authority who has or will have the control and management of a closed cemetery or closed burial ground, direct that, notwithstanding anything in [section 41][50] or [section 42][51], no further burials shall take place in the closed cemetery or closed burial ground, and may in like manner authorise such individual, body corporate, or local authority to remove all or any of the monuments and tablets erected therein.
     
     (2) Any individual, body corporate, or local authority which proposes to make an application for an order under subsection (1) shall give public notice, in such form and in such manner as the Minister shall direct, of the proposed application. The application shall be made to the Minister and shall be accompanied by particulars of any objections to the application.
     
@@ -933,7 +985,7 @@ Closing of cemeteries and burial grounds
     
     *   (b) the local authority has consulted the appropriate persons or organisations; and
     
-    *   (c) the reopening complies with the [Resource Management Act 1991][113].
+    *   (c) the reopening complies with the [Resource Management Act 1991][119].
     
     (2) The reopening order must specify---
         
@@ -945,9 +997,9 @@ Closing of cemeteries and burial grounds
     
     *   (d) the individual, body corporate, or local authority who has or will have control and management of the reopened cemetery or burial ground.
     
-    (3) The Minister may, by notice in the _Gazette_, revoke any notice authorising the removal of monuments and tablets issued under [section 45][52] that applies to the cemetery or burial ground that the Minister reopens under subsection (1).
+    (3) The Minister may, by notice in the _Gazette_, revoke any notice authorising the removal of monuments and tablets issued under [section 45][54] that applies to the cemetery or burial ground that the Minister reopens under subsection (1).
     
-    Section 45A: inserted, on 15 November 2000, by [section 3][114] of the Burial and Cremation Amendment Act 2000 (2000 No 55).
+    Section 45A: inserted, on 15 November 2000, by [section 3][120] of the Burial and Cremation Amendment Act 2000 (2000 No 55).
 
 ##### 45B Control and management of reopened cemeteries and burial grounds
     
@@ -957,7 +1009,7 @@ Closing of cemeteries and burial grounds
     
     *   (b) vest the control and management of a reopened burial ground in any individual or body corporate from the date specified in such order or later notice.
     
-    Section 45B: inserted, on 15 November 2000, by [section 3][114] of the Burial and Cremation Amendment Act 2000 (2000 No 55).
+    Section 45B: inserted, on 15 November 2000, by [section 3][120] of the Burial and Cremation Amendment Act 2000 (2000 No 55).
 
 ##### 45C Vesting of title in reopened cemeteries and burial grounds
     
@@ -965,36 +1017,36 @@ Closing of cemeteries and burial grounds
     
     (2) A notice in the _Gazette_ vesting in any individual or body corporate the control or management of a reopened burial ground has the effect of vesting the land comprising the reopened burial ground in that individual or body corporate unless the notice provides otherwise.
     
-    (3) On the production of a copy of a vesting notice, the District Land Registrar must register the notice under the [Land Transfer Act 1952][115] and, if the case so requires, must issue a certificate of title under that Act in the name of the individual, body corporate, or local authority for the land so vested.
+    (3) On the production of a copy of a vesting notice, the District Land Registrar must register the notice under the [Land Transfer Act 1952][121] and, if the case so requires, must issue a certificate of title under that Act in the name of the individual, body corporate, or local authority for the land so vested.
     
-    Section 45C: inserted, on 15 November 2000, by [section 3][114] of the Burial and Cremation Amendment Act 2000 (2000 No 55).
+    Section 45C: inserted, on 15 November 2000, by [section 3][120] of the Burial and Cremation Amendment Act 2000 (2000 No 55).
 
 ##### 45D Crematoria situated within reopened cemeteries or burial grounds
     
-*   (1) In any case where a closed crematorium is situated within the boundaries of a cemetery or burial ground that is to be reopened, the Minister, if satisfied that the appropriate consent has been obtained under the [Resource Management Act 1991][113], may specify, in the reopening order or in any later notice in the _Gazette_, whether or not the closed crematorium is to be reopened.
+*   (1) In any case where a closed crematorium is situated within the boundaries of a cemetery or burial ground that is to be reopened, the Minister, if satisfied that the appropriate consent has been obtained under the [Resource Management Act 1991][119], may specify, in the reopening order or in any later notice in the _Gazette_, whether or not the closed crematorium is to be reopened.
     
     (2) The Minister may make such other provision as the Minister thinks fit for the future control, management, and use of the reopened crematorium.
     
-    Section 45D: inserted, on 15 November 2000, by [section 3][114] of the Burial and Cremation Amendment Act 2000 (2000 No 55).
+    Section 45D: inserted, on 15 November 2000, by [section 3][120] of the Burial and Cremation Amendment Act 2000 (2000 No 55).
 
 ## Part 7  
 General provisions
 
 ##### 46 Unlawful burials
     
-*   (1) Subject to the provisions of [sections 47][66] and [48][67] of this Act and of [section 85(1)(g)][116] of the Civil Defence Emergency Management Act 2002, it shall not be lawful to bury any body in any land not being a cemetery or a denominational burial ground or a private burial ground or a Maori burial ground if there is a cemetery or any such burial ground within 32 kilometres of the place where the death has occurred, or of the place whence the body is taken for the purpose of burial:
+*   (1) Subject to the provisions of [sections 47][68] and [48][69] of this Act and of [section 85(1)(g)][122] of the Civil Defence Emergency Management Act 2002, it shall not be lawful to bury any body in any land not being a cemetery or a denominational burial ground or a private burial ground or a Maori burial ground if there is a cemetery or any such burial ground within 32 kilometres of the place where the death has occurred, or of the place whence the body is taken for the purpose of burial:
     
-    provided that nothing in this subsection shall compel the burial in a denominational burial ground of the body of a person who was not at the time of his death a practising member of the denomination concerned or the burial in a Maori burial ground of any body which would not otherwise be permitted to be buried therein or permit the burial in a private burial ground of a body the burial of which in such burial ground is prohibited by subsection (3) of [section 36][41].
+    provided that nothing in this subsection shall compel the burial in a denominational burial ground of the body of a person who was not at the time of his death a practising member of the denomination concerned or the burial in a Maori burial ground of any body which would not otherwise be permitted to be buried therein or permit the burial in a private burial ground of a body the burial of which in such burial ground is prohibited by subsection (3) of [section 36][43].
     
     (2) If there is not a cemetery, or any such burial ground in which the body may properly be buried, within the distance mentioned in subsection (1), the body may be buried in other land but notice of every such burial specifying the name of the person buried, if known, the supposed cause of death, and the place of burial, shall, within 3 days after the burial, be given by the person burying the body to the nearest District Court Judge.
     
     Compare: 1908 No 19 ss 80(1), 81(1)
     
-    Section 46(1): amended, on 1 December 2002, by [section 117][117] of the Civil Defence Emergency Management Act 2002 (2002 No 33).
+    Section 46(1): amended, on 1 December 2002, by [section 117][123] of the Civil Defence Emergency Management Act 2002 (2002 No 33).
     
     Section 46(1): amended, on 9 October 1975, by section 2(2) of the Burial and Cremation Amendment Act 1975 (1975 No 63).
     
-    Section 46(2): amended, on 1 April 1980, pursuant to [section 18(2)][96] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 46(2): amended, on 1 April 1980, pursuant to [section 18(2)][103] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 46AA Doctor's certificate or coroner's authorisation required before body disposed of
     
@@ -1002,9 +1054,9 @@ General provisions
     
     (2) The person in charge of the disposal must send a copy of the doctor's certificate or coroner's authorisation to the department administering this Act.
     
-    (3) This section is subject to [section 46A][60].
+    (3) This section is subject to [section 46A][62].
     
-    Section 46AA: inserted, on 24 January 2009, by [section 47][91] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 46AA: inserted, on 24 January 2009, by [section 47][97] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 46A Stillborn children
     
@@ -1018,7 +1070,7 @@ General provisions
         
         
     
-    *   (b) a statutory declaration, made by the person or one of the persons required under the [Births, Deaths, Marriages, and Relationships Registration Act 1995][118] to notify the birth, to the effect that the child was born dead, and that---
+    *   (b) a statutory declaration, made by the person or one of the persons required under the [Births, Deaths, Marriages, and Relationships Registration Act 1995][124] to notify the birth, to the effect that the child was born dead, and that---
             
         *   (i) no doctor or midwife was present at the birth; or
         
@@ -1030,7 +1082,7 @@ General provisions
     
     (2) The person in charge of the disposal must send a copy of the certificate, statutory declaration, or coroner's authorisation to the department administering this Act.
     
-    Section 46A: substituted, on 24 January 2009, by [section 47][91] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 46A: substituted, on 24 January 2009, by [section 47][97] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 46B Doctor's certificate in relation to illness
     
@@ -1050,9 +1102,9 @@ General provisions
     
     (5) A doctor must not give a doctor's certificate under subsection (2) or (3) if the death---
         
-    *   (a) must be reported to the New Zealand Police because [section 13][119] (except subsection (1)(b)) of the Coroners Act 2006 applies; or
+    *   (a) must be reported to the New Zealand Police because [section 13][125] (except subsection (1)(b)) of the Coroners Act 2006 applies; or
     
-    *   (b) has been reported to a coroner under [section 15(2)][120] of that Act.
+    *   (b) has been reported to a coroner under [section 15(2)][126] of that Act.
     
     (6) A doctor may give a doctor's certificate despite subsection (5) if a coroner has decided not to open an inquiry into the death.
     
@@ -1066,13 +1118,13 @@ General provisions
     
     *   (c) examined the person's body.
     
-    Compare: 1995 No 16 [s 37][121]
+    Compare: 1995 No 16 [s 37][127]
     
-    Section 46B: inserted, on 24 January 2009, by [section 47][91] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 46B: inserted, on 24 January 2009, by [section 47][97] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 46C Doctor's certificate in relation to accidents to elderly persons
     
-*   (1) A doctor may give a doctor's certificate for the death of a person even though a death may have been reported to the New Zealand Police under [section 14][122] of the Coroners Act 2006 if the person was 70 years of age or older and, in the opinion of the doctor,---
+*   (1) A doctor may give a doctor's certificate for the death of a person even though a death may have been reported to the New Zealand Police under [section 14][128] of the Coroners Act 2006 if the person was 70 years of age or older and, in the opinion of the doctor,---
         
     *   (a) the death was caused by injuries, or injuries contributed substantially to it; and
     
@@ -1084,19 +1136,19 @@ General provisions
     
     *   (e) the accident was not caused by an act or omission of any other person; and
     
-    *   (f) except to the extent that the death involved injury by accident, it was not violent, unnatural, or in some way a death in respect of which the [Coroners Act 2006][123] requires an inquiry to be conducted.
+    *   (f) except to the extent that the death involved injury by accident, it was not violent, unnatural, or in some way a death in respect of which the [Coroners Act 2006][129] requires an inquiry to be conducted.
     
-    (2) If a doctor is aware that a death has been reported to a coroner under [section 15(2)][120] of the Coroners Act 2006, the doctor must not give a doctor's certificate under subsection (1) without first obtaining the agreement of the designated coroner.
+    (2) If a doctor is aware that a death has been reported to a coroner under [section 15(2)][126] of the Coroners Act 2006, the doctor must not give a doctor's certificate under subsection (1) without first obtaining the agreement of the designated coroner.
     
-    Compare: 1995 No 16 [s 38][124]
+    Compare: 1995 No 16 [s 38][130]
     
-    Section 46C: inserted, on 24 January 2009, by [section 47][91] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 46C: inserted, on 24 January 2009, by [section 47][97] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 46D No liability for costs incurred in supplying information
     
-*   To avoid doubt, the Crown is not liable for the costs incurred by a person in supplying information required by [section 46AA][59], [46A][60], [46B][61], or [46C][62].
+*   To avoid doubt, the Crown is not liable for the costs incurred by a person in supplying information required by [section 46AA][61], [46A][62], [46B][63], or [46C][64].
     
-    Section 46D: inserted, on 24 January 2009, by [section 47][91] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 46D: inserted, on 24 January 2009, by [section 47][97] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 46E Bodies to be disposed of within reasonable time
     
@@ -1110,7 +1162,7 @@ General provisions
             
         *   (i) disposal; or
         
-        *   (ii) removal for anatomical examination under the [Human Tissue Act 2008][125]; or
+        *   (ii) removal for anatomical examination under the [Human Tissue Act 2008][131]; or
         
         *   (iii) removal from New Zealand for disposal outside New Zealand.
         
@@ -1118,9 +1170,9 @@ General provisions
     
     (2) This section is subject to any enactment to the contrary.
     
-    Compare: 1995 No 16 [s 39][126]
+    Compare: 1995 No 16 [s 39][132]
     
-    Section 46E: inserted, on 24 January 2009, by [section 47][91] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 46E: inserted, on 24 January 2009, by [section 47][97] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 46F Transfer of charge of body
     
@@ -1128,7 +1180,7 @@ General provisions
         
     *   (a) gives the other person a doctor's certificate or coroner's authorisation; and
     
-    *   (b) gets from the other person a notice, in the standard form, taking responsibility for notifying a Registrar under [section 42][127] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 of the death of the person whose body it is, and (except where the body is being removed by the other person for anatomical examination under the [Human Tissue Act 2008][125])---
+    *   (b) gets from the other person a notice, in the standard form, taking responsibility for notifying a Registrar under [section 42][133] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 of the death of the person whose body it is, and (except where the body is being removed by the other person for anatomical examination under the [Human Tissue Act 2008][131])---
             
         *   (i) taking responsibility for disposing of the body; and
         
@@ -1152,15 +1204,15 @@ General provisions
     
     (3) Nevertheless, if a person has a doctor's certificate or coroner's authorisation at the time that he or she transfers charge of a body to another person, he or she must give the certificate or authorisation to the other person.
     
-    (4) A person must not take charge of a body for anatomical examination under the [Human Tissue Act 2008][125], or removal from New Zealand for disposal outside New Zealand, without first obtaining a doctor's certificate or coroner's authorisation.
+    (4) A person must not take charge of a body for anatomical examination under the [Human Tissue Act 2008][131], or removal from New Zealand for disposal outside New Zealand, without first obtaining a doctor's certificate or coroner's authorisation.
     
-    (5) In this section, _standard form_ has the same meaning as in [section 2][88] of the Births, Deaths, Marriages, and Relationships Registration Act 1995\.
+    (5) In this section, _standard form_ has the same meaning as in [section 2][90] of the Births, Deaths, Marriages, and Relationships Registration Act 1995\.
     
-    Compare: 1995 No 16 [s 40][128]
+    Compare: 1995 No 16 [s 40][134]
     
-    Section 46F: inserted, on 24 January 2009, by [section 47][91] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 46F: inserted, on 24 January 2009, by [section 47][97] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 46F(2)(b)(i): amended, on 24 January 2009, by [section 130(2)][129] of the Policing Act 2008 (2008 No 72).
+    Section 46F(2)(b)(i): amended, on 24 January 2009, by [section 130(2)][135] of the Policing Act 2008 (2008 No 72).
 
 ##### 47 Burial in private burial place
     
@@ -1172,19 +1224,19 @@ General provisions
     
     Compare: 1908 No 19 s 82(1)--(3)
     
-    Section 47(1): amended, on 1 July 2003, by [section 262][92] of the Local Government Act 2002 (2002 No 84).
+    Section 47(1): amended, on 1 July 2003, by [section 262][98] of the Local Government Act 2002 (2002 No 84).
     
-    Section 47(1): amended, on 1 April 1980, pursuant to [section 18(2)][96] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 47(1): amended, on 1 April 1980, pursuant to [section 18(2)][103] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 47(3): amended, on 1 July 2003, by [section 262][92] of the Local Government Act 2002 (2002 No 84).
+    Section 47(3): amended, on 1 July 2003, by [section 262][98] of the Local Government Act 2002 (2002 No 84).
     
-    Section 47(3): amended, on 1 April 1980, pursuant to [section 18(2)][96] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 47(3): amended, on 1 April 1980, pursuant to [section 18(2)][103] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 48 Burial in special place
     
 *   Notwithstanding anything in this Act, a body may be buried in any place, even though that place was not used for burials before the date of the commencement of this Act, if the Minister first certifies in writing that he is satisfied that there are exceptional circumstances which make the burial of that body in that place particularly appropriate and if, where the proposed place of burial is within a city or part of the district of a territorial authority which was formerly a city or borough or part of a city or borough, the sanction of the mayor, or 2 members of the governing body of the territorial authority is obtained.
     
-    Section 48: amended, on 1 July 2003, by [section 262][92] of the Local Government Act 2002 (2002 No 84).
+    Section 48: amended, on 1 July 2003, by [section 262][98] of the Local Government Act 2002 (2002 No 84).
 
 ##### 49 Burial and cremation of poor persons
     
@@ -1196,7 +1248,7 @@ General provisions
     
     Compare: 1908 No 19 s 25; 1950 No 42 s 3
     
-    Section 49(1): amended, on 1 June 2005, by [section 206][130] of the Corrections Act 2004 (2004 No 50).
+    Section 49(1): amended, on 1 June 2005, by [section 206][136] of the Corrections Act 2004 (2004 No 50).
 
 ##### 50 Burials to be registered
     
@@ -1210,7 +1262,7 @@ General provisions
     
 *   (1) It shall not be lawful to remove from its burial place any body, or the remains of any body, buried in any cemetery, Maori burial ground, or other burial ground or place of burial, without licence under the hand of the Minister, and except in accordance with such conditions as he may prescribe.
     
-    (2) There shall be payable in respect of every licence issued under subsection (1), such fee as may be prescribed in that behalf by the Governor-General by [Order in Council][131]:
+    (2) There shall be payable in respect of every licence issued under subsection (1), such fee as may be prescribed in that behalf by the Governor-General by [Order in Council][137]:
     
     provided that the Minister may, if he thinks fit, in any case waive payment of the whole or part of the fee.
     
@@ -1222,7 +1274,7 @@ General provisions
 
 ##### 52 Inspection of cemeteries
     
-*   (1) An employee of the Public Service appointed by the Minister for the purpose, or any person designated as a Health Protection Officer under the [Health Act 1956][132], may inspect any cemetery or any portion of a cemetery exclusively set apart for any denomination in order to---
+*   (1) An employee of the Public Service appointed by the Minister for the purpose, or any person designated as a Health Protection Officer under the [Health Act 1956][138], may inspect any cemetery or any portion of a cemetery exclusively set apart for any denomination in order to---
         
     *   (a) ascertain the state and condition of it; and
     
@@ -1232,21 +1284,21 @@ General provisions
     
     (2) If any person authorised to inspect a cemetery under subsection (1) finds such cemetery or any part thereof or the fences thereof in a condition of neglect or want of repair, he shall serve a notice in writing on the local authority specifying the particulars of such condition and requiring the same to be remedied, and, if the local authority fails, for the period of 1 month from the receipt of such notice, to comply with any such requirements, he may cause all necessary repairs to be done forthwith and may recover the costs and expenses thereof from the local authority.
     
-    (3) Without prejudice to the powers conferred by subsection (2) the person so authorised shall report any such case of neglect or want of repair to the Minister who shall thereupon consider whether such cemetery ought to be closed under [section 41][48] and take such other lawful steps as he thinks necessary to prevent desecration.
+    (3) Without prejudice to the powers conferred by subsection (2) the person so authorised shall report any such case of neglect or want of repair to the Minister who shall thereupon consider whether such cemetery ought to be closed under [section 41][50] and take such other lawful steps as he thinks necessary to prevent desecration.
     
     Compare: 1908 No 19 ss 69, 71
     
-    Section 52(1) substituted, on 22 October 2003, by [section 4][133] of the Burial and Cremation Amendment Act 2003 (2003 No 63).
+    Section 52(1) substituted, on 22 October 2003, by [section 4][139] of the Burial and Cremation Amendment Act 2003 (2003 No 63).
     
     Section 52(3): amended, on 1 January 1969, by section 2 of the Burial and Cremation Amendment Act 1968 (1968 No 71).
 
 ##### 53 Vesting of title in certain cases
     
-*   (1) A notice in the _Gazette_ of the appointment of a local authority to have the control and management of a cemetery, pursuant to subsection (3) of [section 23][27], shall have the effect of vesting the land comprising the cemetery in the corporation of that local authority for cemetery purposes, and on the production of a copy of such notice the District Land Registrar shall register the same under the [Land Transfer Act 1952][115] and, if the case so requires, shall issue a certificate of title under that Act in the name of the corporation for the land so vested.
+*   (1) A notice in the _Gazette_ of the appointment of a local authority to have the control and management of a cemetery, pursuant to subsection (3) of [section 23][27], shall have the effect of vesting the land comprising the cemetery in the corporation of that local authority for cemetery purposes, and on the production of a copy of such notice the District Land Registrar shall register the same under the [Land Transfer Act 1952][121] and, if the case so requires, shall issue a certificate of title under that Act in the name of the corporation for the land so vested.
     
-    (2) A notice in the _Gazette_ vesting in any individual, body corporate, or local authority the control and management of a closed cemetery or closed burial ground, pursuant to [section 43][50] or [section 44][51], shall, unless it is otherwise provided therein, have the effect of vesting the land comprising the closed cemetery or closed burial ground in that individual or body corporate, or, in the case of a local authority, in the corporation of that local authority, as a closed cemetery or closed burial ground subject to the provisions of this Act, and on the production of a copy of such notice the District Land Registrar shall register the same under the [Land Transfer Act 1952][115] and, if the case so requires, shall issue a certificate of title under that Act in the name of the individual, body corporate, or corporation for the land so vested.
+    (2) A notice in the _Gazette_ vesting in any individual, body corporate, or local authority the control and management of a closed cemetery or closed burial ground, pursuant to [section 43][52] or [section 44][53], shall, unless it is otherwise provided therein, have the effect of vesting the land comprising the closed cemetery or closed burial ground in that individual or body corporate, or, in the case of a local authority, in the corporation of that local authority, as a closed cemetery or closed burial ground subject to the provisions of this Act, and on the production of a copy of such notice the District Land Registrar shall register the same under the [Land Transfer Act 1952][121] and, if the case so requires, shall issue a certificate of title under that Act in the name of the individual, body corporate, or corporation for the land so vested.
     
-    (3) In this section the word _land_ has the same meaning as in [section 2][134] of the Land Transfer Act 1952\.
+    (3) In this section the word _land_ has the same meaning as in [section 2][140] of the Land Transfer Act 1952\.
     
     (4) For the purposes of giving effect to the provisions of this section the District Land Registrar may require the deposit of such plans as may be necessary.
     
@@ -1259,15 +1311,15 @@ Offences and penalties
 
 ##### 54AA Offences concerning doctor's certificate or certificate relating to stillbirth
     
-*   A person who contravenes or fails to comply with [section 46AA][59] or [46A][60] commits an offence and is liable, on conviction, to a fine not exceeding $1,000\.
+*   A person who contravenes or fails to comply with [section 46AA][61] or [46A][62] commits an offence and is liable, on conviction, to a fine not exceeding $1,000\.
     
-    Section 54AA: inserted, on 24 January 2009, by [section 47][91] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 54AA: inserted, on 24 January 2009, by [section 47][97] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 54AA: amended, on 1 July 2013, by [section 413][135] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 54AA: amended, on 1 July 2013, by [section 413][141] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 54 Offences concerning burials
     
-*   Any person who, contrary to any of the provisions of [sections 36][41], [41][48], [46][58], [47][66], and [48][67]:
+*   Any person who, contrary to any of the provisions of [sections 36][43], [41][50], [46][60], [47][68], and [48][69]:
         
     *   (a) buries a body in any place in which the burial of that body is not permitted; or
     
@@ -1279,39 +1331,39 @@ Offences and penalties
     
     Compare: 1908 No 19 ss 75, 80(2), 81(2), 82(4)
     
-    Section 54: amended, on 1 July 2013, by [section 413][135] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 54: amended, on 1 July 2013, by [section 413][141] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 54(b): amended, on 1 April 1980, pursuant to section 18(2) of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 55 Unlawful exhumation
     
-*   (1) Any person who disinters or removes a body or the remains of a body from a place where it is buried without a licence under [section 51][70] or in breach of the conditions of any such licence commits an offence and shall be liable on conviction to a fine not exceeding 200 pounds or to imprisonment for a term not exceeding 3 months.
+*   (1) Any person who disinters or removes a body or the remains of a body from a place where it is buried without a licence under [section 51][72] or in breach of the conditions of any such licence commits an offence and shall be liable on conviction to a fine not exceeding 200 pounds or to imprisonment for a term not exceeding 3 months.
     
     (2) Proceedings for an offence against this section may only be commenced by a member of the Police, an officer of the Ministry of Health, an officer of the Ministry of Māori Development, a member or officer of a local authority, or a trustee, manager, or other person having control of the place where the body was buried before its disinterment or removal.
     
     Compare: 1908 No 19 s 68
     
-    Section 55(1): amended, on 1 July 2013, by [section 413][135] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 55(1): amended, on 1 July 2013, by [section 413][141] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 55(1) proviso: repealed, on 1 July 2013, by [section 413][135] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 55(1) proviso: repealed, on 1 July 2013, by [section 413][141] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 55(2): inserted, on 1 July 2013, by [section 413][135] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 55(2): inserted, on 1 July 2013, by [section 413][141] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 56 Offences concerning cremation
     
-*   (1) Any person who commits a breach of any regulation made pursuant to [section 37][43], or who knowingly carries out or procures or takes part in the burning of any body except in accordance with such regulations, commits an offence and shall be liable on conviction to a fine not exceeding 500 pounds, or to imprisonment for a term not exceeding 12 months.
+*   (1) Any person who commits a breach of any regulation made pursuant to [section 37][45], or who knowingly carries out or procures or takes part in the burning of any body except in accordance with such regulations, commits an offence and shall be liable on conviction to a fine not exceeding 500 pounds, or to imprisonment for a term not exceeding 12 months.
     
     (2) Any person who wilfully signs or utters any false certificate with a view to procuring the cremation of any body commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years.
     
-    (3) Any person who with intent to conceal the commission of an offence, or to impede the prosecution of any person for an offence, procures or attempts to procure the cremation of any body, or with such intent makes any declaration or gives any certificate prescribed by regulations under [section 37][43] commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 5 years.
+    (3) Any person who with intent to conceal the commission of an offence, or to impede the prosecution of any person for an offence, procures or attempts to procure the cremation of any body, or with such intent makes any declaration or gives any certificate prescribed by regulations under [section 37][45] commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 5 years.
     
-    (4) _Amendment(s) incorporated in the [Act(s)][136]_.
+    (4) _Amendment(s) incorporated in the [Act(s)][142]_.
     
-    Section 56(1): amended, on 1 July 2013, by [section 413][135] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 56(1): amended, on 1 July 2013, by [section 413][141] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 56(2): amended, on 1 July 2013, by [section 413][135] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 56(2): amended, on 1 July 2013, by [section 413][141] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 56(3): amended, on 1 July 2013, by [section 413][135] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 56(3): amended, on 1 July 2013, by [section 413][141] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 57 Trespass by animals
     
@@ -1321,13 +1373,13 @@ Offences and penalties
     
     Compare: 1908 No 19 s 89
     
-    Section 57(1): amended, on 1 July 2013, by [section 413][135] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 57(1): amended, on 1 July 2013, by [section 413][141] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 58 Offences punishable on summary conviction
     
 *   \[Repealed\]
     
-    Section 58: repealed, on 1 July 2013, by [section 413][135] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 58: repealed, on 1 July 2013, by [section 413][141] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 9  
 Regulations, savings, and repeals
@@ -1342,11 +1394,11 @@ Regulations, savings, and repeals
     
     *   (c) prohibiting or regulating the admission of animals to any cemetery or burial ground or Maori burial ground:
     
-    *   (d) providing for the removal, after due notice to any known persons entitled to maintain them, of dilapidated or neglected monuments and tablets from cemeteries and burial grounds and from any closed cemetery or closed burial ground in respect of which an notice is not in force under [section 45][52]:
+    *   (d) providing for the removal, after due notice to any known persons entitled to maintain them, of dilapidated or neglected monuments and tablets from cemeteries and burial grounds and from any closed cemetery or closed burial ground in respect of which an notice is not in force under [section 45][54]:
     
     *   (e) regulating the management of any closed cemetery or closed burial ground and any of the matters specified in paragraphs (a) to (c) in relation to any closed cemetery or closed burial ground:
     
-    *   (f) prescribing the conditions subject to which and the manner in which the sanction of the Minister may be obtained for the dedication of a denominational burial ground under [section 31][36]:
+    *   (f) prescribing the conditions subject to which and the manner in which the sanction of the Minister may be obtained for the dedication of a denominational burial ground under [section 31][38]:
     
     *   (g) prescribing forms for the purposes of this Act:
     
@@ -1372,7 +1424,7 @@ Regulations, savings, and repeals
 
 ##### 61 Repeals and savings
     
-*   (1) The enactments specified in [Schedule 2][85] are hereby repealed.
+*   (1) The enactments specified in [Schedule 2][87] are hereby repealed.
     
     (2) All regulations which originated under section 22 of the Cemeteries Act 1908 or section 4 of the Cemeteries Amendment Act 1922 or under any corresponding provisions of any former enactment and are subsisting or in force on the commencement of this Act shall enure for the purposes of this Act as fully and effectually as if they had originated as bylaws under the corresponding provisions of this Act, and accordingly shall, where necessary, be deemed to be bylaws and to have so originated; and every reference to any such regulation in any Act, regulation, order, or other enactment, or in any instrument or document whatsoever shall, after the commencement of this Act, unless inconsistent with the context, be read as a reference to a bylaw made under the corresponding provisions of this Act.
     
@@ -1386,7 +1438,7 @@ Regulations, savings, and repeals
 
 ## Schedule 1
 
-[s 36(1)][41]
+[s 36(1)][43]
 
 ## Part 1  
 Provisions of this Act applied to denominational burial grounds and managers
@@ -1407,18 +1459,18 @@ Provisions of this Act applied to denominational burial grounds and managers
 
 [26(3)][30] Internal management
 
-[30][34] Bylaws
+[30][36] Bylaws
 
-[50][69] Burials to be registered
+[50][71] Burials to be registered
 
-[52][71] Inspection
+[52][73] Inspection
 
 *   Schedule 1 Part 1: amended, on 10 December 1976, by section 2(2) of the Burial and Cremation Amendment Act 1976 (1976 No 77).
 
 ## Part 2  
 Provisions of this Act applied to private burial grounds and the trustees of such burial grounds
 
-[s 36(2)][41]
+[s 36(2)][43]
 
 **Number of section** **Subject matter**
 
@@ -1438,16 +1490,16 @@ Provisions of this Act applied to private burial grounds and the trustees of suc
 
 [28(1), (2)][32] Finance
 
-[50][69] Burials to be registered
+[50][71] Burials to be registered
 
-[52][71] Inspection
+[52][73] Inspection
 
 ---
 
 ## Schedule 2  
 Enactments repealed
 
-[s 61(1)][83]
+[s 61(1)][85]
 
 ##### Cemeteries Act 1908 (1908 No 19) (1957 Reprint, Vol 1, p 761)
 
@@ -1465,11 +1517,11 @@ Enactments repealed
 
 ##### Finance Act 1930 (No 2) (1930 No 40) (1957 Reprint, Vol 1, pp 786, 797)
 
-_Amendment(s) incorporated in the [Act(s)][137]_.
+_Amendment(s) incorporated in the [Act(s)][143]_.
 
 ##### Health Act 1956 (1956 No 65) (1957 Reprint, Vol 6, pp 87, 88)
 
-_Amendment(s) incorporated in the [Act(s)][138]_.
+_Amendment(s) incorporated in the [Act(s)][144]_.
 
 ##### Public Revenues Amendment Act 1958 (1958 No 88)
 
@@ -1477,104 +1529,61 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Statutes Amendment Act 1936 (1936 No 58) (1957 Reprint, Vol 1, pp 770, 797)
 
-_Amendment(s) incorporated in the [Act(s)][139]_.
+_Amendment(s) incorporated in the [Act(s)][145]_.
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Burial and Cremation Act 1964\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][140] ![](/images/external_link.gif).
+*   This is a reprint of the Burial and Cremation Act 1964 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][141] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][146] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][147] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][142] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][148] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][149] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][143] and [17E][144] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 125][100]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][141]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Policing Act 2008 (2008 No 72): [130(2)][135]
     
+    Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][97]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][105]
     
-*   Criminal Procedure Act 2011 (2011 No 81): [section 413][135]
+    Corrections Act 2004 (2004 No 50): [section 206][136]
     
-    Policing Act 2008 (2008 No 72): [130(2)][129]
+    [Burial and Cremation Amendment Act 2003][150] (2003 No 63)
     
-    Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][91]
+    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][99]
     
-    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][98]
+    Local Government Act 2002 (2002 No 84): [section 262][98]
     
-    Corrections Act 2004 (2004 No 50): [section 206][130]
+    Civil Defence Emergency Management Act 2002 (2002 No 33): [section 117][123]
     
-    [Burial and Cremation Amendment Act 2003][145] (2003 No 63)
-    
-    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][93]
-    
-    Local Government Act 2002 (2002 No 84): [section 262][92]
-    
-    Civil Defence Emergency Management Act 2002 (2002 No 33): [section 117][117]
-    
-    Public Audit Act 2001 (2001 No 10): [section 53][108]
-    
-    [Burial and Cremation Amendment Act 2000][146] (2000 No 55)
+    [Burial and Cremation Amendment Act 2000][151] (2000 No 55)
     
     Burial and Cremation Amendment Act 1997 (1997 No 36)
     
     Building Act 1991 (1991 No 150): section 92(1)
     
-    Public Works Act 1981 (1981 No 35): [section 248(1)][104]
+    Public Works Act 1981 (1981 No 35): [section 248(1)][111]
     
-    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][96]
+    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][103]
     
     Burial and Cremation Amendment Act 1979 (1979 No 78)
     
-    Reserves Act 1977 (1977 No 66): [section 125(1)][105]
+    Reserves Act 1977 (1977 No 66): [section 125(1)][112]
     
     Burial and Cremation Amendment Act 1976 (1976 No 77)
     
@@ -1584,7 +1593,7 @@ _Amendment(s) incorporated in the [Act(s)][139]_.
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355081
 [2]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355083
 [3]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355084
@@ -1618,116 +1627,121 @@ _Amendment(s) incorporated in the [Act(s)][139]_.
 [31]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355484
 [32]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355485
 [33]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355486
-[34]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355489
-[35]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355490
-[36]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355491
-[37]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355492
-[38]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355493
-[39]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355494
-[40]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355495
-[41]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355496
-[42]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355497
-[43]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355498
-[44]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355499
-[45]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355801
-[46]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355802
-[47]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355803
-[48]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355804
-[49]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355812
-[50]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355815
-[51]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355821
-[52]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355829
-[53]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355833
-[54]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355835
-[55]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355837
-[56]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355839
-[57]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355841
-[58]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355842
-[59]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM1806626
-[60]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355846
-[61]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM1806631
-[62]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM1806636
-[63]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM1806642
-[64]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM1806648
-[65]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM1806652
-[66]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355850
-[67]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355855
-[68]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355858
-[69]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355860
-[70]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355861
-[71]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355862
-[72]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355867
-[73]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355871
-[74]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM1806660
-[75]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355872
-[76]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355874
-[77]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355877
-[78]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355879
-[79]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355880
-[80]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355881
-[81]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355882
-[82]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355884
-[83]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355885
-[84]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355886
-[85]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355892
-[86]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM377576
-[87]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM171806
-[88]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM359378
-[89]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM204329
-[90]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM170872
-[91]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM1048943
-[92]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM174088
-[93]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM205009
-[94]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM409971
-[95]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM45426
-[96]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM35085
-[97]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM409972
-[98]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM333795
-[99]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM216531
-[100]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM444632
-[101]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM46073
-[102]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM46307
-[103]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM46096
-[104]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM48604
-[105]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM445092
-[106]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM304703
-[107]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM88548
-[108]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM88957
-[109]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM270675
-[110]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM271641
-[111]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355887
-[112]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355890
-[113]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM230264
-[114]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM75765
-[115]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM269031
-[116]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM150798
-[117]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM151437
-[118]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM359368
-[119]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM377532
-[120]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM377534
-[121]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM364162
-[122]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM377533
-[123]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM377056
-[124]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM364165
-[125]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM1152935
-[126]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM364171
-[127]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM364176
-[128]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM364172
-[129]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM1102383
-[130]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM297136
-[131]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM145250
-[132]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM305839
-[133]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM216532
-[134]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM269037
-[135]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM3360714
-[136]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM314307
-[137]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM208915
-[138]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM308767
-[139]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM221360
-[140]: http://www.pco.parliament.govt.nz/reprints/
-[141]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM195439
-[142]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[143]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM195468
-[144]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM195470
-[145]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM216525
-[146]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM75759
+[34]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM6044923
+[35]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM6044924
+[36]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355489
+[37]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355490
+[38]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355491
+[39]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355492
+[40]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355493
+[41]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355494
+[42]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355495
+[43]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355496
+[44]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355497
+[45]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355498
+[46]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355499
+[47]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355801
+[48]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355802
+[49]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355803
+[50]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355804
+[51]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355812
+[52]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355815
+[53]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355821
+[54]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355829
+[55]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355833
+[56]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355835
+[57]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355837
+[58]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355839
+[59]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355841
+[60]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355842
+[61]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM1806626
+[62]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355846
+[63]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM1806631
+[64]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM1806636
+[65]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM1806642
+[66]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM1806648
+[67]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM1806652
+[68]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355850
+[69]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355855
+[70]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355858
+[71]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355860
+[72]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355861
+[73]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355862
+[74]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355867
+[75]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355871
+[76]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM1806660
+[77]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355872
+[78]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355874
+[79]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355877
+[80]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355879
+[81]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355880
+[82]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355881
+[83]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355882
+[84]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355884
+[85]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355885
+[86]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355886
+[87]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355892
+[88]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM377576
+[89]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM171806
+[90]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM359378
+[91]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM204329
+[92]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM4632890
+[93]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM4632894
+[94]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM170872
+[95]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM4632837
+[96]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM4632962
+[97]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM1048943
+[98]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM174088
+[99]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM205009
+[100]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM5740664
+[101]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM409971
+[102]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM45426
+[103]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM35085
+[104]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM409972
+[105]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM333795
+[106]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM216531
+[107]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM444632
+[108]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM46073
+[109]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM46307
+[110]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM46096
+[111]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM48604
+[112]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM445092
+[113]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM304703
+[114]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM88548
+[115]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM270675
+[116]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM271641
+[117]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355887
+[118]: http://www.legislation.govt.nz/act/public/1964/0075/latest/whole.html#DLM355890
+[119]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM230264
+[120]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM75765
+[121]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM269031
+[122]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM150798
+[123]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM151437
+[124]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM359368
+[125]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM377532
+[126]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM377534
+[127]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM364162
+[128]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM377533
+[129]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM377056
+[130]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM364165
+[131]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM1152935
+[132]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM364171
+[133]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM364176
+[134]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM364172
+[135]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM1102383
+[136]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM297136
+[137]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM145250
+[138]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM305839
+[139]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM216532
+[140]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM269037
+[141]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM3360714
+[142]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM314307
+[143]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM208915
+[144]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM308767
+[145]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM221360
+[146]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM2998516
+[147]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM2998515
+[148]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM2998532
+[149]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[150]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM216525
+[151]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM75759
