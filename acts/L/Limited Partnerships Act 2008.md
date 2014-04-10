@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,11 +13,11 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-This Act is administered by the Ministry of Economic Development.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -203,122 +203,138 @@ This Act is administered by the Ministry of Economic Development.
 
 [74][89][][89][Records of limited partnership][89]
 
-[75][90][][90][Obligation to prepare financial statements][90]
+[Financial reporting][90]
 
-[76][91][][91][Annual return][91]
+[75][91][][91][Financial statements must be prepared][91]
 
-[77][92][][92][Registrar may alter register to conform with address contained in annual return][92]
+[75A][92][][92][Financial statements must be audited ][92]
 
-[Registrar's powers of inspection][93]
+[75B][93][][93][Audit must be carried out in accordance with auditing and assurance standards][93]
 
-[78][94][][94][Registrar's powers of inspection][94]
+[75C][94][][94][Distribution of financial statements][94]
 
-[79][95][][95][Disclosure of information and reports][95]
+[75D][95][][95][Financial reporting offences][95]
 
-[80][96][][96][Inspector's report admissible in liquidation proceedings][96]
+[75E][96][][96][Non-application of provisions if alternative financial reporting duties under financial markets legislation][96]
 
-[81][97][][97][Exercise of powers under section 78 not affected by appeal][97]
+[75F][97][][97][Limited partnership may opt in][97]
 
-[Derivative actions][98]
+[75G][98][][98][Large limited partnerships may opt out of audit requirement][98]
 
-[82][99][][99][Derivative actions][99]
+[76][99][][99][Annual return][99]
 
-[83][100][][100][Costs of derivative action to be met by limited partnership][100]
+[77][100][][100][Registrar may alter register to conform with address contained in annual return][100]
 
-[84][101][][101][Powers of Court where leave granted][101]
+[Registrar's powers of inspection][101]
 
-[85][102][][102][Compromise, settlement or withdrawal of derivative action][102]
+[78][102][][102][Registrar's powers of inspection][102]
 
-[Terminating events, liquidation, and deregistration][103]
+[79][103][][103][Disclosure of information and reports][103]
 
-[86][104][][104][Terminating event][104]
+[80][104][][104][Inspector's report admissible in liquidation proceedings][104]
 
-[87][105][][105][Continuing authority of general partners continues after terminating event][105]
+[81][105][][105][Exercise of powers under section 78 not affected by appeal][105]
 
-[88][106][][106][Liquidation following terminating event][106]
+[Derivative actions][106]
 
-[89][107][][107][Court may appoint liquidator][107]
+[82][107][][107][Derivative actions][107]
 
-[90][108][][108][Grounds for Court appointment of liquidator][108]
+[83][108][][108][Costs of derivative action to be met by limited partnership][108]
 
-[91][109][][109][Meaning of inability to pay debts][109]
+[84][109][][109][Powers of Court where leave granted][109]
 
-[92][110][][110][Application of Companies Act 1993][110]
+[85][110][][110][Compromise, settlement or withdrawal of derivative action][110]
 
-[93][111][][111][Power of liquidator to enforce liabilities][111]
+[Terminating events, liquidation, and deregistration][111]
 
-[94][112][][112][Actions stayed on liquidation][112]
+[86][112][][112][Terminating event][112]
 
-[95][113][][113][Distribution of surplus assets on liquidation][113]
+[87][113][][113][Continuing authority of general partners continues after terminating event][113]
 
-[96][114][][114][When Registrar must deregister limited partnership][114]
+[88][114][][114][Liquidation following terminating event][114]
 
-[97][115][][115][Deregistration][115]
+[89][115][][115][Court may appoint liquidator][115]
 
-[98][116][][116][Deregistration on application of partners][116]
+[90][116][][116][Grounds for Court appointment of liquidator][116]
 
-[99][117][][117][Other provisions of Companies Act 1993 apply to deregistration of limited partnership][117]
+[91][117][][117][Meaning of inability to pay debts][117]
 
-[Voluntary administration][118]
+[92][118][][118][Application of Companies Act 1993][118]
 
-[100][119][][119][Part 15A of Companies Act 1993 applies to limited partnership][119]
+[93][119][][119][Power of liquidator to enforce liabilities][119]
 
-[Restoration to register][120]
+[94][120][][120][Actions stayed on liquidation][120]
 
-[101][121][][121][Restoration to register of limited partnerships][121]
+[95][121][][121][Distribution of surplus assets on liquidation][121]
 
-[102][122][][122][When limited partnership restored to register][122]
+[96][122][][122][When Registrar must deregister limited partnership][122]
 
-[Registrar][123]
+[97][123][][123][Deregistration][123]
 
-[103][124][][124][Appeals from Registrar's decisions][124]
+[98][124][][124][Deregistration on application of partners][124]
 
-[Part 3][125]  
-[Overseas limited partnerships][125]
+[99][125][][125][Other provisions of Companies Act 1993 apply to deregistration of limited partnership][125]
 
-[104][126][][126][Overseas limited partnership must register][126]
+[Voluntary administration][126]
 
-[105][127][][127][Meaning of carrying on business][127]
+[100][127][][127][Part 15A of Companies Act 1993 applies to limited partnership][127]
 
-[106][128][][128][Validity of transactions not affected][128]
+[Restoration to register][128]
 
-[107][129][][129][Application for registration][129]
+[101][129][][129][Restoration to register of limited partnerships][129]
 
-[108][130][][130][Registration of overseas limited partnership][130]
+[102][130][][130][When limited partnership restored to register][130]
 
-[109][131][][131][Use of name by overseas limited partnership][131]
+[Registrar][131]
 
-[110][132][][132][Notification of changes relating to overseas limited partnership][132]
+[103][132][][132][Appeals from Registrar's decisions][132]
 
-[111][133][][133][Rectification or correction of name or address of person authorised to accept service][133]
+[Part 3][133]  
+[Overseas limited partnerships][133]
 
-[112][134][][134][Annual return of overseas limited partnership][134]
+[104][134][][134][Overseas limited partnership must register][134]
 
-[113][135][][135][Overseas limited partnership ceasing to carry on business in New Zealand][135]
+[105][135][][135][Meaning of carrying on business][135]
 
-[114][136][][136][Liquidation of overseas limited partnership][136]
+[106][136][][136][Validity of transactions not affected][136]
 
-[Part 4][137]  
-[Miscellaneous][137]
+[107][137][][137][Application for registration][137]
 
-[115][138][][138][Confidentiality of limited partner information][138]
+[108][138][][138][Registration of overseas limited partnership][138]
 
-[116][139][][139][Regulations][139]
+[109][139][][139][Use of name by overseas limited partnership][139]
 
-[117][140][][140][Part 2 of Partnership Act 1908 repealed][140]
+[110][140][][140][Notification of changes relating to overseas limited partnership][140]
 
-[118][141][][141][Orders revoked][141]
+[111][141][][141][Rectification or correction of name or address of person authorised to accept service][141]
 
-[119][142][][142][Companies Act 1993 amended][142]
+[112][142][][142][Annual return of overseas limited partnership][142]
 
-[120][143][][143][Privacy Act 1993 amended][143]
+[113][143][][143][Overseas limited partnership ceasing to carry on business in New Zealand][143]
 
-[121][144][][144][Other consequential amendments][144]
+[114][144][][144][Liquidation of overseas limited partnership][144]
 
-[122][145][][145][Transitional provision for special partnerships][145]
+[Part 4][145]  
+[Miscellaneous][145]
 
-[Schedule][146]  
-[Activities that do not constitute taking part in management of limited partnership][146]
+[115][146][][146][Confidentiality of limited partner information][146]
+
+[116][147][][147][Regulations][147]
+
+[117][148][][148][Part 2 of Partnership Act 1908 repealed][148]
+
+[118][149][][149][Orders revoked][149]
+
+[119][150][][150][Companies Act 1993 amended][150]
+
+[120][151][][151][Privacy Act 1993 amended][151]
+
+[121][152][][152][Other consequential amendments][152]
+
+[122][153][][153][Transitional provision for special partnerships][153]
+
+[Schedule][154]  
+[Activities that do not constitute taking part in management of limited partnership][154]
 
 ---
 
@@ -330,14 +346,14 @@ This Act is administered by the Ministry of Economic Development.
     
 *   This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
     
-    Section 2: Limited Partnerships Act 2008 brought into force, on 2 May 2008, by the [Limited Partnerships Act 2008 Commencement Order 2008][147] (SR 2008/92).
+    Section 2: Limited Partnerships Act 2008 brought into force, on 2 May 2008, by the [Limited Partnerships Act 2008 Commencement Order 2008][155] (SR 2008/92).
 
 ## Part 1  
 Preliminary provisions
 
 ##### 3 Purpose of Act
     
-*   The purpose of this Act is to repeal the special partnership provisions of the [Partnership Act 1908][148] and to establish a modern regulatory regime for limited partnerships that---
+*   The purpose of this Act is to repeal the special partnership provisions of the [Partnership Act 1908][156] and to establish a modern regulatory regime for limited partnerships that---
         
     *   (a) gives the business community in New Zealand the option of a flexible and internationally recognised business structure similar to limited partnerships in use in overseas jurisdictions; and
     
@@ -403,13 +419,13 @@ Preliminary provisions
         
         
     
-    _Registrar_ means the Registrar of Companies holding office under the [Companies Act 1993][149] and includes a Deputy Registrar acting in accordance with [section 357(2)][150] of that Act
+    _Registrar_ means the Registrar of Companies holding office under the [Companies Act 1993][157] and includes a Deputy Registrar acting in accordance with [section 357(2)][158] of that Act
     
     _resolution of the limited partnership_ means, unless the partnership agreement provides otherwise, a resolution passed or signed by partners having contributed at least 75% of the capital contributions of all the partners.
     
-    Section 4 **Deputy Registrar**: repealed, on 25 February 2012, by [section 4(1)][151] of the Limited Partnerships Amendment Act 2012 (2012 No 12).
+    Section 4 **Deputy Registrar**: repealed, on 25 February 2012, by [section 4(1)][159] of the Limited Partnerships Amendment Act 2012 (2012 No 12).
     
-    Section 4 **Registrar**: replaced, on 25 February 2012, by [section 4(2)][151] of the Limited Partnerships Amendment Act 2012 (2012 No 12).
+    Section 4 **Registrar**: replaced, on 25 February 2012, by [section 4(2)][159] of the Limited Partnerships Amendment Act 2012 (2012 No 12).
 
 ##### 5 Act binds the Crown
     
@@ -434,7 +450,7 @@ General
 
 ##### 7 Formation and duration of limited partnership
     
-*   A limited partnership is formed only on its registration and continues in existence until it is deregistered (_see_ [section 97][115]).
+*   A limited partnership is formed only on its registration and continues in existence until it is deregistered (_see_ [section 97][123]).
 
 ##### 8 Requirements for limited partnership
     
@@ -476,7 +492,7 @@ General
     
     *   (e) when a meeting of partners must be held, and the procedure for conducting a meeting of partners:
     
-    *   (f) whether the financial statements of the limited partnership must be audited:
+    *   (f) \[Repealed\]
     
     *   (g) how a partner may leave the limited partnership, including whether a partner may be expelled from the limited partnership, and how a new partner may be admitted to the limited partnership:
     
@@ -484,7 +500,7 @@ General
     
     *   (i) whether the limited partnership has a conflict of interest policy, and the nature of that policy.
     
-    
+    Section 10(f): repealed, on 1 April 2014, by [section 105][160] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 11 Limited partnership is separate legal person
     
@@ -500,19 +516,19 @@ General
     
     *   (b) for the purposes of paragraph (a), full rights, powers, and privileges.
     
-    Compare: 1993 No 105 [s 16(1)][152]
+    Compare: 1993 No 105 [s 16(1)][161]
 
 ##### 13 Partnership agreement may restrict capacity and powers
     
 *   The partnership agreement of a limited partnership may contain a provision relating to the capacity, rights, powers, or privileges of the limited partnership only if the provision restricts the capacity of the limited partnership or those rights, powers, and privileges.
     
-    Compare: 1993 No 105 [s 16(2)][152]
+    Compare: 1993 No 105 [s 16(2)][161]
 
 ##### 14 Validity of actions
     
 *   No act of a limited partnership and no transfer of property to or by a limited partnership is invalid merely because the limited partnership did not have the capacity, the right, or the power to do the act or to transfer or take a transfer of the property.
     
-    Compare: 1993 No 105 [s 17(1)][153]
+    Compare: 1993 No 105 [s 17(1)][162]
 
 ##### 15 Dealings between limited partnership and other persons
     
@@ -548,13 +564,13 @@ General
     
     (4) Nothing in this section applies in relation to the acts of a limited partner.
     
-    Compare: 1993 No 105 [s 18][154]
+    Compare: 1993 No 105 [s 18][163]
 
 ##### 16 No constructive notice
     
 *   A person is not affected by, or deemed to have notice or knowledge of the contents of, the partnership agreement or any other document relating to a limited partnership merely because it may be available for inspection at an office of the limited partnership.
     
-    Compare: 1993 No 105 [s 19][155]
+    Compare: 1993 No 105 [s 19][164]
 
 ##### 17 Method of contracting
     
@@ -578,7 +594,7 @@ General
     
     *   (b) whether or not the law governing the contract or obligation is the law of New Zealand.
     
-    Compare: 1993 No 105 [s 180][156]
+    Compare: 1993 No 105 [s 180][165]
 
 #### Partners in limited partnership
 
@@ -586,7 +602,7 @@ General
     
 *   (1) Any person may be a partner of a limited partnership.
     
-    (2) A partnership governed by the [Partnership Act 1908][148] or an overseas limited partnership may be a partner of a limited partnership.
+    (2) A partnership governed by the [Partnership Act 1908][156] or an overseas limited partnership may be a partner of a limited partnership.
 
 ##### 19 General partner
     
@@ -618,7 +634,7 @@ General
     
     *   (c) the proceeding is an application that the limited partnership be terminated; or
     
-    *   (d) the proceeding is an application or proceeding brought under [section 82][99].
+    *   (d) the proceeding is an application or proceeding brought under [section 82][107].
     
     
 
@@ -694,7 +710,7 @@ General
         
         
     
-    (3) None of the activities listed in the [Schedule][146] constitutes taking part in the management of the limited partnership.
+    (3) None of the activities listed in the [Schedule][154] constitutes taking part in the management of the limited partnership.
 
 #### Name of limited partnership or overseas limited partnership
 
@@ -726,11 +742,11 @@ General
     
     (7) A person who contravenes subsection (2) commits an offence and is liable on conviction to a fine not exceeding $5,000\.
     
-    Section 32(6)(a): amended, on 1 July 2013, by [section 413][157] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 32(6)(a): amended, on 1 July 2013, by [section 413][166] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 32(6)(b): amended, on 1 July 2013, by [section 413][157] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 32(6)(b): amended, on 1 July 2013, by [section 413][166] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 32(7): amended, on 1 July 2013, by [section 413][157] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 32(7): amended, on 1 July 2013, by [section 413][166] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 33 Liability if name of limited partnership incorrectly stated
     
@@ -754,7 +770,7 @@ General
         
     *   (a) the use of which would contravene an enactment; or
     
-    *   (b) that is identical to, or almost identical to, the name of a company registered under the [Companies Act 1993][149] or another limited partnership or an overseas limited partnership registered under this Act; or
+    *   (b) that is identical to, or almost identical to, the name of a company registered under the [Companies Act 1993][157] or another limited partnership or an overseas limited partnership registered under this Act; or
     
     *   (c) that, in the Registrar's opinion, is offensive.
     
@@ -858,7 +874,7 @@ General
     
     (4) A general partner who fails to comply with subsection (3) commits an offence and is liable on conviction to a fine not exceeding $5,000\.
     
-    Section 41(4): amended, on 1 July 2013, by [section 413][157] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 41(4): amended, on 1 July 2013, by [section 413][166] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 42 Solvency test
     
@@ -880,7 +896,7 @@ General
     
     *   (b) any claim that the limited partnership is entitled to make and can reasonably expect to be met to reduce or extinguish a contingent liability.
     
-    Compare: 1993 No 105 [s 4][158]
+    Compare: 1993 No 105 [s 4][167]
 
 ##### 43 Liability of general partner to repay unauthorised distribution
     
@@ -918,7 +934,7 @@ General
     
 *   Notice to any general partner of any matter relating to the affairs of the limited partnership operates as notice to the limited partnership, except in the case of a fraud on the limited partnership committed by or with the consent of that general partner.
     
-    Compare: 1908 No 139 [s 19][159]
+    Compare: 1908 No 139 [s 19][168]
 
 #### Fiduciary obligations
 
@@ -946,7 +962,7 @@ General
     
     (2) The fiduciary obligations described in subsection (1) may be varied or excluded by the partnership agreement.
     
-    Compare: 1908 No 139 [ss 32][160], [33][161], [34][162]
+    Compare: 1908 No 139 [ss 32][169], [33][170], [34][171]
 
 ##### 50 Fiduciary obligations of limited partner excluded
     
@@ -1012,7 +1028,7 @@ General
     
     *   (b) for any other reason that is prescribed by regulations made under this Act.
     
-    (3) Nothing in subsection (2) or [section 103][124] precludes any person from exercising a right under the [Ombudsmen Act 1975][163] or the [Official Information Act 1982][164] in relation to a request for official information, but any such right is subject to [sections 57(2)][71] and [115][138].
+    (3) Nothing in subsection (2) or [section 103][132] precludes any person from exercising a right under the [Ombudsmen Act 1975][172] or the [Official Information Act 1982][173] in relation to a request for official information, but any such right is subject to [sections 57(2)][71] and [115][146].
 
 ##### 56 Certified copy of information on registers
     
@@ -1074,7 +1090,7 @@ General
     
     (3) If the general partners fail to comply with this section, each general partner commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
-    Section 59(3): amended, on 1 July 2013, by [section 413][157] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 59(3): amended, on 1 July 2013, by [section 413][166] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 60 General partners must send written consent of new general partner to Registrar
     
@@ -1086,7 +1102,7 @@ General
     
     (4) If the general partners fail to comply with this section, each general partner commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
-    Section 60(4): amended, on 1 July 2013, by [section 413][157] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 60(4): amended, on 1 July 2013, by [section 413][166] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 61 Rectification or correction of register
     
@@ -1116,7 +1132,7 @@ General
     
     (4) The Registrar must not rectify the register if the Registrar receives a written objection to the proposed rectification by the date specified unless the Registrar is satisfied that the objection has been withdrawn.
     
-    Compare: 1993 No 105 [s 360A][165]
+    Compare: 1993 No 105 [s 360A][174]
 
 ##### 62 Powers of Court
     
@@ -1130,7 +1146,7 @@ General
     
     (3) On an application for an order under subsection (1), the Court may, if it is satisfied that any information has been wrongly entered in, or omitted from, the register, make an order that the register be rectified.
     
-    Compare: 1993 No 105 [s 360B][166]
+    Compare: 1993 No 105 [s 360B][175]
 
 ##### 63 Registrar may note inactivity on register
     
@@ -1190,7 +1206,7 @@ General
 
 ##### 66 When search breaches information privacy principle
     
-*   A person who searches a register for personal information for a purpose that is not a purpose set out in [section 65][79] must be treated, for the purposes of [Part 8][167] of the Privacy Act 1993, as if that person has breached an information privacy principle under [section 66(1)(a)(i)][168] of that Act.
+*   A person who searches a register for personal information for a purpose that is not a purpose set out in [section 65][79] must be treated, for the purposes of [Part 8][176] of the Privacy Act 1993, as if that person has breached an information privacy principle under [section 66(1)(a)(i)][177] of that Act.
 
 #### Administration
 
@@ -1214,7 +1230,7 @@ General
     
     *   (c) if the registered office is not at the offices of a firm or person referred to in paragraph (b) but is located in a building occupied by persons other than the limited partnership, state particulars of its location in the building.
     
-    Compare: 1993 No 105 [s 186][169]
+    Compare: 1993 No 105 [s 186][178]
 
 ##### 68 Change of registered office
     
@@ -1224,7 +1240,7 @@ General
     
     (3) The change in the registered office takes effect on a date stated in the notice not being a date that is earlier than 5 working days after the notice is registered.
     
-    Compare: 1993 No 105 [s 187][170]
+    Compare: 1993 No 105 [s 187][179]
 
 ##### 69 Requirement to change registered office
     
@@ -1238,7 +1254,7 @@ General
     
     *   (b) state the reasons for requiring the change; and
     
-    *   (c) state that the limited partnership has the right to appeal to the Court under [section 103][124]; and
+    *   (c) state that the limited partnership has the right to appeal to the Court under [section 103][132]; and
     
     *   (d) be dated and signed by the Registrar.
     
@@ -1252,9 +1268,9 @@ General
     
     (6) If a limited partnership fails to comply with this section, every general partner of the limited partnership commits an offence and is liable on conviction to a fine not exceeding $5,000\.
     
-    Compare: 1993 No 105 [s 188][171]
+    Compare: 1993 No 105 [s 188][180]
     
-    Section 69(6): amended, on 1 July 2013, by [section 413][157] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 69(6): amended, on 1 July 2013, by [section 413][166] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 70 Address for service
     
@@ -1330,7 +1346,7 @@ General
         
         
     
-    *   (f) the limited partnership's financial statements prepared in accordance with [section 75][90] for---
+    *   (f) the limited partnership's financial statements prepared in accordance with [section 75][91] (if any) for---
             
         *   (i) the last 7 completed accounting periods of the limited partnership; or
         
@@ -1348,41 +1364,133 @@ General
     
     *   (b) each general partner commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
-    Section 74(4)(a): amended, on 1 July 2013, by [section 413][157] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 74(1)(f): amended, on 1 April 2014, by [section 106][181] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 74(4)(b): amended, on 1 July 2013, by [section 413][157] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 74(4)(a): amended, on 1 July 2013, by [section 413][166] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 74(4)(b): amended, on 1 July 2013, by [section 413][166] of the Criminal Procedure Act 2011 (2011 No 81).
 
-##### 75 Obligation to prepare financial statements
+#### Financial reporting
     
-*   (1) The general partners of a limited partnership must ensure that, within 5 months after the balance date of the limited partnership, financial statements are---
+*   Heading: inserted, on 1 April 2014, by [section 107][182] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 75 Financial statements must be prepared
+    
+*   (1) The general partners of a large limited partnership, or of a limited partnership that has opted into compliance with this section under [section 75F][97], must ensure that, within 5 months after the balance date of the limited partnership, financial statements that comply with generally accepted accounting practice are---
         
     *   (a) completed in relation to the limited partnership and that balance date; and
     
     *   (b) dated and signed on behalf of the general partners by 2 general partners of the limited partnership, or, if the limited partnership has only 1 general partner, by that general partner.
     
-    (2) In subsection (1), _financial statements_ has the same meaning as in [section 8(1)][172] of the Financial Reporting Act 1993\.
+    (2) In [sections 75A to 75G][92], _accounting period_, _applicable auditing and assurance standard_, and _applicable financial reporting standard_ have the same meanings as in [section 5][183] of the Financial Reporting Act 2013\.
     
-    (3) For the purposes of this section, [sections 7(1) to (6)][173] and [8(1)][172] of the Financial Reporting Act 1993 apply as if a reference to---
+    (3) In this section and [sections 75A to 75G][92],---
+    
+    _balance date_ has the same meaning as in [section 41][184] of the Financial Reporting Act 2013
+    
+    _financial statements_ has the same meaning as in [section 6][185] of the Financial Reporting Act 2013
+    
+    _generally accepted accounting practice_ has the same meaning as in [section 8][186] of the Financial Reporting Act 2013
+    
+    _large limited partnership_---
         
-    *   (a) an entity or a reporting entity were a reference to a limited partnership:
+    *   (a) means a limited partnership that is large under [section 45][187] of the Financial Reporting Act 2013; and
     
-    *   (b) the directors were a reference to the general partners.
+    *   (b) includes a limited partnership that is a public entity
     
-    (4) Where financial statements in relation to a limited partnership are not completed and signed within the time specified in subsection (1), every general partner of the limited partnership commits an offence and is liable on conviction to a fine not exceeding $10,000\.
+    _public entity_ has the same meaning as in [section 5][188] of the Public Audit Act 2001
     
-    (5) It is a defence to a general partner of a limited partnership charged with an offence under subsection (4) if the general partner proves that---
+    _qualified auditor_ has the same meaning as in [section 35][189] of the Financial Reporting Act 2013\.
+    
+    Section 75: replaced, on 1 April 2014, by [section 107][182] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 75A Financial statements must be audited 
+    
+*   (1) The general partners of a large limited partnership, or of a limited partnership that has opted into compliance with this section under [section 75F][97], must ensure that the financial statements of the limited partnership are audited by a qualified auditor.
+    
+    (2) This section does not apply to a large limited partnership if the limited partnership opts out of this section under [section 75G][98].
+    
+    (3) _See_ [sections 37 to 39][190] of the Financial Reporting Act 2013 (which provide for the appointment of a partnership and access to information in relation to a limited partnership).
+    
+    Section 75A: inserted, on 1 April 2014, by [section 107][182] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 75B Audit must be carried out in accordance with auditing and assurance standards
+    
+*   (1) An auditor must, in carrying out an audit for the purposes of [section 75A][92], comply with all applicable auditing and assurance standards.
+    
+    (2) The auditor's report must comply with the requirements of all applicable auditing and assurance standards.
+    
+    (3) This section does not apply to a limited partnership that is a public entity.
+    
+    Section 75B: inserted, on 1 April 2014, by [section 107][182] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 75C Distribution of financial statements
+    
+*   The general partners of a large limited partnership, or of a limited partnership that has opted into compliance with this section under [section 75F][97], must ensure that, within 5 months after the balance date of the limited partnership, copies of the financial statements of the limited partnership completed in relation to that balance date and a copy of the auditor's report on those statements (if any) are delivered to each general partner and each limited partner.
+    
+    Section 75C: inserted, on 1 April 2014, by [section 107][182] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 75D Financial reporting offences
+    
+*   (1) Subsection (2) applies if---
         
-    *   (a) the general partners of the limited partnership took all reasonable and proper steps to ensure that financial statements in relation to the limited partnership were completed and signed within the time specified in subsection (1); or
+    *   (a) financial statements in relation to a large limited partnership, or a limited partnership that has opted into compliance with [section 75][91], are not completed and signed within the time specified in section 75(1); or
     
-    *   (b) the general partner took all reasonable and proper steps to ensure that financial statements in relation to the limited partnership were completed and signed within the time specified in subsection (1); or
+    *   (b) the financial statements of a limited partnership referred to in paragraph (a) fail to comply with an applicable financial reporting standard; or
     
-    *   (c) in the circumstances the general partner could not reasonably have been expected to take steps to ensure that financial statements in relation to the limited partnership were completed and signed within the time specified in subsection (1).
+    *   (c) the financial statements of a large limited partnership, or of a limited partnership that has opted into compliance with [section 75A][92], are not audited in accordance with section 75A; or
     
-    (6) Despite anything to the contrary in [section 25][174] of the Criminal Procedure Act 2011, the limitation period in respect of an offence under subsection (4) ends on the date that is 3 years after the date on which the offence was committed.
+    *   (d) a copy of the financial statements of a large limited partnership, or of a limited partnership that has opted into compliance with [section 75C][94], and a copy of the auditor's report on those statements are not delivered to each partner in accordance with section 75C.
     
-    Section 75(4): amended, on 1 July 2013, by [section 413][157] of the Criminal Procedure Act 2011 (2011 No 81).
+    (2) Every general partner of the limited partnership commits an offence and is liable on conviction to a fine not exceeding $50,000\.
     
-    Section 75(6): replaced, on 1 July 2013, by [section 413][157] of the Criminal Procedure Act 2011 (2011 No 81).
+    (3) It is a defence to a general partner of a partnership charged with an offence under this section in respect of a requirement referred to in subsection (1) if the partner proves that---
+        
+    *   (a) the general partners took all reasonable and proper steps to ensure that the requirement would be complied with; or
+    
+    *   (b) the general partner took all reasonable steps to ensure that the requirement would be complied with; or
+    
+    *   (c) in the circumstances, the general partner could not reasonably have been expected to take steps to ensure that the requirement would be complied with.
+    
+    Section 75D: inserted, on 1 April 2014, by [section 107][182] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 75E Non-application of provisions if alternative financial reporting duties under financial markets legislation
+    
+*   [Sections 75 to 75D][91] do not apply to a limited partnership in relation to an accounting period if financial statements of the partnership are required to be prepared for that period under [subpart 3][191] of Part 7 of the Financial Markets Conduct Act 2013 or [section 55][192] of the Financial Reporting Act 2013\.
+    
+    Section 75E: inserted, on 1 April 2014, by [section 107][182] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 75F Limited partnership may opt in
+    
+*   (1) A partner of a limited partnership who has, or the partners of a limited partnership who together have, contributed at least 5% of the capital contributions of all the partners may, by written notice given to the limited partnership within 6 months after the start of an accounting period, require the limited partnership to comply with 1 or more of the following provisions in relation to the accounting period:
+        
+    *   (a) [section 75][91] (preparation of financial statements):
+    
+    *   (b) [section 75A][92] (audit requirement):
+    
+    *   (c) [section 75C][94] (distribution of financial statements).
+    
+    (2) If a notice is given under subsection (1) in relation to a provision and an accounting period, the provision applies to the limited partnership in relation to that period.
+    
+    Section 75F: inserted, on 1 April 2014, by [section 107][182] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 75G Large limited partnerships may opt out of audit requirement
+    
+*   (1) This section applies to a large limited partnership unless---
+        
+    *   (a) the partnership agreement for the limited partnership expressly provides that this section does not apply; or
+    
+    *   (b) the limited partnership is a public entity.
+    
+    (2) The limited partnership may, within 6 months from the start of an accounting period, opt out of compliance with [section 75A][92] (audit requirement) in relation to that accounting period by way of a resolution passed or signed by partners who together have contributed at least 95% of the capital contributions of all the partners.
+    
+    (3) If the limited partnership opts out of compliance with [section 75A][92] in relation to an accounting period under this section, the section does not apply to the limited partnership in relation to that period.
+    
+    Section 75G: inserted, on 1 April 2014, by [section 107][182] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+#### Annual return
+    
+*   Heading: inserted, on 1 April 2014, by [section 107][182] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 76 Annual return
     
@@ -1422,9 +1530,9 @@ General
     
     (9) If the general partners of a limited partnership fail to comply with subsection (1) or (2), every general partner of the limited partnership commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
-    Compare: 1993 No 105 [s 214][175]
+    Compare: 1993 No 105 [s 214][193]
     
-    Section 76(9): amended, on 1 July 2013, by [section 413][157] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 76(9): amended, on 1 July 2013, by [section 413][166] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 77 Registrar may alter register to conform with address contained in annual return
     
@@ -1440,7 +1548,7 @@ General
     
     (2) If this section applies, the Registrar may alter the address or addresses on the register to conform with the address or addresses contained in the annual return.
     
-    Compare: 1993 No 105 [s 214A][176]
+    Compare: 1993 No 105 [s 214A][194]
 
 #### Registrar's powers of inspection
 
@@ -1460,7 +1568,7 @@ General
     
     *   (c) taking possession of relevant documents and retaining them for a reasonable time, for the purpose of taking copies.
     
-    (3) Nothing in this section limits or affects the [Tax Administration Act 1994][177] or the [Statistics Act 1975][178].
+    (3) Nothing in this section limits or affects the [Tax Administration Act 1994][195] or the [Statistics Act 1975][196].
     
     (4) A person must not obstruct or hinder the Registrar or a person authorised by the Registrar while exercising a power conferred by subsection (1).
     
@@ -1472,13 +1580,13 @@ General
     
     *   (b) money or other property that is, or has been, managed, supervised, controlled, or held in trust by or for the limited partnership.
     
-    Compare: 1993 No 105 [s 365][179]
+    Compare: 1993 No 105 [s 365][197]
     
-    Section 78(5): amended, on 1 July 2013, by [section 413][157] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 78(5): amended, on 1 July 2013, by [section 413][166] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 79 Disclosure of information and reports
     
-*   (1) A person authorised by the Registrar for the purpose of [section 78][94] who has obtained a document or information in the course of making an inspection under that section or prepared a report in relation to an inspection under that section must, if directed to do so by the Registrar, give the document, information, or report to---
+*   (1) A person authorised by the Registrar for the purpose of [section 78][102] who has obtained a document or information in the course of making an inspection under that section or prepared a report in relation to an inspection under that section must, if directed to do so by the Registrar, give the document, information, or report to---
         
     *   (a) the Minister; or
     
@@ -1488,9 +1596,9 @@ General
     
     *   (d) a liquidator for the purposes of the liquidation of a limited partnership.
     
-    (2) A person authorised by the Registrar for the purposes of [section 78][94] who has obtained a document or information in the course of making an inspection under that section or prepared a report in relation to an inspection under that section must give the document, information, or report to the Registrar when directed to do so by a person holding that office.
+    (2) A person authorised by the Registrar for the purposes of [section 78][102] who has obtained a document or information in the course of making an inspection under that section or prepared a report in relation to an inspection under that section must give the document, information, or report to the Registrar when directed to do so by a person holding that office.
     
-    (3) A person authorised by the Registrar for the purposes of [section 78][94] who has obtained a document or information in the course of making an inspection under that section or prepared a report in relation to an inspection under that section must not disclose that document, information, or report except---
+    (3) A person authorised by the Registrar for the purposes of [section 78][102] who has obtained a document or information in the course of making an inspection under that section or prepared a report in relation to an inspection under that section must not disclose that document, information, or report except---
         
     *   (a) in accordance with subsection (1) or (2); or
     
@@ -1504,21 +1612,21 @@ General
     
     (4) A person who fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
-    Compare: 1993 No 105 [s 366][180]
+    Compare: 1993 No 105 [s 366][198]
     
-    Section 79(2): amended, on 25 February 2012, by [section 5][181] of the Limited Partnerships Amendment Act 2012 (2012 No 12).
+    Section 79(2): amended, on 25 February 2012, by [section 5][199] of the Limited Partnerships Amendment Act 2012 (2012 No 12).
     
-    Section 79(4): amended, on 1 July 2013, by [section 413][157] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 79(4): amended, on 1 July 2013, by [section 413][166] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 80 Inspector's report admissible in liquidation proceedings
     
-*   Notwithstanding any other Act or rule of law, a report prepared by a person in relation to an inspection carried out by him or her under [section 78][94] is admissible in evidence at the hearing of an application to the Court to appoint a liquidator of a limited partnership.
+*   Notwithstanding any other Act or rule of law, a report prepared by a person in relation to an inspection carried out by him or her under [section 78][102] is admissible in evidence at the hearing of an application to the Court to appoint a liquidator of a limited partnership.
     
-    Compare: 1993 No 105 [s 369][182]
+    Compare: 1993 No 105 [s 369][200]
 
 ##### 81 Exercise of powers under section 78 not affected by appeal
     
-*   (1) Subject to subsection (2), but notwithstanding any other provision of any Act or any rule of law, where a person appeals or applies to the Court in relation to an act or decision of the Registrar or a person authorised by the Registrar under [section 78][94], until a decision on the appeal or application is given,---
+*   (1) Subject to subsection (2), but notwithstanding any other provision of any Act or any rule of law, where a person appeals or applies to the Court in relation to an act or decision of the Registrar or a person authorised by the Registrar under [section 78][102], until a decision on the appeal or application is given,---
         
     *   (a) the Registrar, or that person, may continue to exercise the powers under that section as if no such appeal or application had been made; and
     
@@ -1530,7 +1638,7 @@ General
     
     *   (b) no information acquired under that section in relation to that act or decision is admissible in evidence in any proceedings unless the court hearing the proceedings in which it is sought to adduce the evidence is satisfied it was not obtained unfairly.
     
-    Compare: 1993 No 105 [s 371][183]
+    Compare: 1993 No 105 [s 371][201]
 
 #### Derivative actions
 
@@ -1568,17 +1676,17 @@ General
     
     (6) Except as provided in this section, a limited partner is not entitled to bring or intervene in any proceedings in the name of, or on behalf of, a limited partnership.
     
-    Compare: 1993 No 105 [s 165][184]
+    Compare: 1993 No 105 [s 165][202]
 
 ##### 83 Costs of derivative action to be met by limited partnership
     
-*   The Court must, on the application of the partner to whom leave was granted under [section 82][99] to bring or intervene in the proceedings, order that the whole or part of the reasonable costs of bringing or intervening in the proceedings, including any costs relating to any settlement, compromise, or discontinuance approved under [section 85][102], must be met by the limited partnership unless the Court considers that it would be unjust or inequitable for the limited partnership to bear those costs.
+*   The Court must, on the application of the partner to whom leave was granted under [section 82][107] to bring or intervene in the proceedings, order that the whole or part of the reasonable costs of bringing or intervening in the proceedings, including any costs relating to any settlement, compromise, or discontinuance approved under [section 85][110], must be met by the limited partnership unless the Court considers that it would be unjust or inequitable for the limited partnership to bear those costs.
     
-    Compare: 1993 No 105 [s 166][185]
+    Compare: 1993 No 105 [s 166][203]
 
 ##### 84 Powers of Court where leave granted
     
-*   The Court may, at any time, make any order it thinks fit in relation to proceedings brought by a partner or in which a partner intervenes, as the case may be, with leave of the Court under [section 82][99], and without limiting the generality of this section, may---
+*   The Court may, at any time, make any order it thinks fit in relation to proceedings brought by a partner or in which a partner intervenes, as the case may be, with leave of the Court under [section 82][107], and without limiting the generality of this section, may---
         
     *   (a) make an order authorising the partner or any other person to control the conduct of the proceedings:
     
@@ -1588,13 +1696,13 @@ General
     
     *   (d) make an order directing that any amount ordered to be paid by a defendant in the proceedings must be paid, in whole or part, to former and present partners of the limited partnership instead of to the limited partnership.
     
-    Compare: 1993 No 105 [s 167][186]
+    Compare: 1993 No 105 [s 167][204]
 
 ##### 85 Compromise, settlement or withdrawal of derivative action
     
-*   No proceedings brought by a partner or in which a partner intervenes, as the case may be, with leave of the Court under [section 82][99], may be settled or compromised or discontinued without the approval of the Court.
+*   No proceedings brought by a partner or in which a partner intervenes, as the case may be, with leave of the Court under [section 82][107], may be settled or compromised or discontinued without the approval of the Court.
     
-    Compare: 1993 No 105 [s 168][187]
+    Compare: 1993 No 105 [s 168][205]
 
 #### Terminating events, liquidation, and deregistration
 
@@ -1624,9 +1732,9 @@ General
 
 ##### 88 Liquidation following terminating event
     
-*   (1) The limited partnership may, by a resolution of the limited partnership, appoint a liquidator to the limited partnership if a terminating event has occurred under [section 86][104].
+*   (1) The limited partnership may, by a resolution of the limited partnership, appoint a liquidator to the limited partnership if a terminating event has occurred under [section 86][112].
     
-    (2) Nothing in subsection (1) affects the right of a person to apply for deregistration under [section 98][116].
+    (2) Nothing in subsection (1) affects the right of a person to apply for deregistration under [section 98][124].
 
 ##### 89 Court may appoint liquidator
     
@@ -1642,15 +1750,15 @@ General
     
     *   (d) the Registrar:
     
-    *   (e) in the case of a limited partnership that is a financial markets participant (within the meaning of [section 4][188] of the Financial Markets Authority Act 2011, the Financial Markets Authority.
+    *   (e) in the case of a limited partnership that is a financial markets participant (within the meaning of [section 4][206] of the Financial Markets Authority Act 2011, the Financial Markets Authority.
     
-    Section 89(2)(e): added, on 1 May 2011, by [section 82][189] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 89(2)(e): added, on 1 May 2011, by [section 82][207] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 90 Grounds for Court appointment of liquidator
     
-*   (1) The Court may appoint a liquidator to a limited partnership under [section 89(1)][107] on any of the following grounds:
+*   (1) The Court may appoint a liquidator to a limited partnership under [section 89(1)][115] on any of the following grounds:
         
-    *   (a) a terminating event under [section 86][104] has occurred, and a liquidator has not been appointed:
+    *   (a) a terminating event under [section 86][112] has occurred, and a liquidator has not been appointed:
     
     *   (b) the sole general partner is adjudicated bankrupt or placed in liquidation:
     
@@ -1670,17 +1778,17 @@ General
     
     (2) In subsection (1)(c), a general partner is incapacitated if he or she is a person---
         
-    *   (a) who is subject to a compulsory treatment order under the [Mental Health (Compulsory Assessment and Treatment) Act 1992][190]; or
+    *   (a) who is subject to a compulsory treatment order under the [Mental Health (Compulsory Assessment and Treatment) Act 1992][208]; or
     
-    *   (b) who is subject to an order under [section 10(1)(i)][191] or [31][192] of the Protection of Personal and Property Rights Act 1988; or
+    *   (b) who is subject to an order under [section 10(1)(i)][209] or [31][210] of the Protection of Personal and Property Rights Act 1988; or
     
-    *   (c) whose property is managed by a trustee corporation under [section 32][193] or [33][194] of the Protection of Personal and Property Rights Act 1988\.
+    *   (c) whose property is managed by a trustee corporation under [section 32][211] or [33][212] of the Protection of Personal and Property Rights Act 1988\.
     
     
 
 ##### 91 Meaning of inability to pay debts
     
-*   For the purposes of [section 90(1)(h)][108], a limited partnership is unable to pay its debts---
+*   For the purposes of [section 90(1)(h)][116], a limited partnership is unable to pay its debts---
         
     *   (a) if---
             
@@ -1704,11 +1812,11 @@ General
     
     *   (d) if it is proved to the satisfaction of the Court that the limited partnership is unable to pay its debts, and in determining whether a limited partnership is unable to pay its debts, the Court must take into account the contingent and prospective liabilities of the limited partnership.
     
-    Compare: 1908 No 89 [s 17C][195]
+    Compare: 1908 No 89 [s 17C][213]
 
 ##### 92 Application of Companies Act 1993
     
-*   [Part 16][196] of the Companies Act 1993 (except [sections 241(1) to (4)][197], [268][198], [287][199], and [313(4)][200]) applies, with such modifications as may be necessary, in relation to the liquidation of a limited partnership and as if references to---
+*   [Part 16][214] of the Companies Act 1993 (except [sections 241(1) to (4)][215], [268][216], [287][217], and [313(4)][218]) applies, with such modifications as may be necessary, in relation to the liquidation of a limited partnership and as if references to---
         
     *   (a) a company registered under that Act were references to a limited partnership:
     
@@ -1716,11 +1824,11 @@ General
     
     *   (c) a director were references to a general partner:
     
-    *   (d) shareholders or persons entitled to surplus assets under the constitution of a company and the [Companies Act 1993][149] were references to partners:
+    *   (d) shareholders or persons entitled to surplus assets under the constitution of a company and the [Companies Act 1993][157] were references to partners:
     
     *   (e) the constitution of a company were references to the partnership agreement of a limited partnership.
     
-    Compare: 1908 No 89 [s 17B][201]
+    Compare: 1908 No 89 [s 17B][219]
 
 ##### 93 Power of liquidator to enforce liabilities
     
@@ -1734,17 +1842,17 @@ General
     
     (2) The liquidator may, by notice in writing, require a person to whom this section applies to pay or contribute the amount due from that person, and that person is liable to pay or contribute accordingly.
     
-    Compare: 1908 No 89 [s 17D][202]
+    Compare: 1908 No 89 [s 17D][220]
 
 ##### 94 Actions stayed on liquidation
     
-*   Where the Court appoints a liquidator of a limited partnership, an action or proceeding must not be commenced or continued against any person referred to in [section 93][111] in respect of any debt of the limited partnership, except with the leave of the Court, and subject to such terms as the Court may impose.
+*   Where the Court appoints a liquidator of a limited partnership, an action or proceeding must not be commenced or continued against any person referred to in [section 93][119] in respect of any debt of the limited partnership, except with the leave of the Court, and subject to such terms as the Court may impose.
     
-    Compare: 1908 No 89 [s 17E][203]
+    Compare: 1908 No 89 [s 17E][221]
 
 ##### 95 Distribution of surplus assets on liquidation
     
-*   Notwithstanding anything in the [Companies Act 1993][149], the surplus assets of the limited partnership (if any) after all of the limited partnership's debts and liabilities have been paid must be divided---
+*   Notwithstanding anything in the [Companies Act 1993][157], the surplus assets of the limited partnership (if any) after all of the limited partnership's debts and liabilities have been paid must be divided---
         
     *   (a) in accordance with the partnership agreement; or
     
@@ -1774,7 +1882,7 @@ General
         
     *   (a) that the limited partnership has ceased to carry on business, has discharged in full its liabilities to all its known creditors, and has distributed its surplus assets in accordance with the partnership agreement and this Act; or
     
-    *   (b) that the limited partnership has no surplus assets after paying its debts in full or in part, and no creditor has applied to the Court under [section 89][107] for an order appointing a liquidator to the limited partnership.
+    *   (b) that the limited partnership has no surplus assets after paying its debts in full or in part, and no creditor has applied to the Court under [section 89][115] for an order appointing a liquidator to the limited partnership.
     
     (3) The request must be made by---
         
@@ -1786,7 +1894,7 @@ General
     
     (4) A request that a limited partnership be deregistered under this section must be accompanied by a written notice from the Commissioner of Inland Revenue stating that the Commissioner has no objection to the limited partnership being deregistered.
     
-    (5) [Sections 318(5)][204], [320][205] (except subsection (2)), and [321 to 323][206] of the Companies Act 1993 apply, with such modifications as may be necessary, to the deregistration of a limited partnership under this section as if references to---
+    (5) [Sections 318(5)][222], [320][223] (except subsection (2)), and [321 to 323][224] of the Companies Act 1993 apply, with such modifications as may be necessary, to the deregistration of a limited partnership under this section as if references to---
         
     *   (a) a company were references to a limited partnership:
     
@@ -1802,7 +1910,7 @@ General
 
 ##### 99 Other provisions of Companies Act 1993 apply to deregistration of limited partnership
     
-*   [Sections 324 to 326][207] of the Companies Act 1993 apply, with such modifications as may be necessary, when a limited partnership has been deregistered under this Act as if references to---
+*   [Sections 324 to 326][225] of the Companies Act 1993 apply, with such modifications as may be necessary, when a limited partnership has been deregistered under this Act as if references to---
         
     *   (a) a company were references to a limited partnership:
     
@@ -1816,7 +1924,7 @@ General
 
 ##### 100 Part 15A of Companies Act 1993 applies to limited partnership
     
-*   [Part 15A][208] of the Companies Act 1993 applies, with all necessary modifications, to a limited partnership as if references to---
+*   [Part 15A][226] of the Companies Act 1993 applies, with all necessary modifications, to a limited partnership as if references to---
         
     *   (a) a company were references to a limited partnership:
     
@@ -1832,7 +1940,7 @@ General
 
 ##### 101 Restoration to register of limited partnerships
     
-*   [Sections 328][209] (except section 328(3)(a)) and [329][210] of the Companies Act 1993 apply, with all necessary modifications, to a limited partnership as if references to---
+*   [Sections 328][227] (except section 328(3)(a)) and [329][228] of the Companies Act 1993 apply, with all necessary modifications, to a limited partnership as if references to---
         
     *   (a) a company were references to a limited partnership:
     
@@ -1842,9 +1950,9 @@ General
     
     *   (d) the New Zealand register were references to the register of limited partnerships:
     
-    *   (e) the [Companies Act 1993][149] or regulations made under that Act were references to this Act or regulations made under this Act:
+    *   (e) the [Companies Act 1993][157] or regulations made under that Act were references to this Act or regulations made under this Act:
     
-    *   (f) [section 318(1)(d)][204] of the Companies Act 1993 were references to [section 98(2)][116] of this Act.
+    *   (f) [section 318(1)(d)][222] of the Companies Act 1993 were references to [section 98(2)][124] of this Act.
     
     
 
@@ -1873,9 +1981,9 @@ Overseas limited partnerships
 
 ##### 104 Overseas limited partnership must register
     
-*   (1) An overseas limited partnership that, on or after the commencement of this Act, commences to carry on business in New Zealand must apply for registration under this Part in accordance with [section 107][129] within 10 working days of commencing to carry on business.
+*   (1) An overseas limited partnership that, on or after the commencement of this Act, commences to carry on business in New Zealand must apply for registration under this Part in accordance with [section 107][137] within 10 working days of commencing to carry on business.
     
-    (2) An overseas limited partnership that, immediately before the commencement of this Act, was carrying on business in New Zealand and, on the commencement of this Act, continues to carry on business in New Zealand must apply for registration under this Part in accordance with [section 107][129] within 3 months of the commencement of this Act.
+    (2) An overseas limited partnership that, immediately before the commencement of this Act, was carrying on business in New Zealand and, on the commencement of this Act, continues to carry on business in New Zealand must apply for registration under this Part in accordance with [section 107][137] within 3 months of the commencement of this Act.
     
     (3) An overseas limited partnership that changes its name overseas must apply under [section 35][43] within 10 working days of the change to change the name with which it is registered in New Zealand to its overseas name.
     
@@ -1885,11 +1993,11 @@ Overseas limited partnerships
     
     *   (b) every general partner of the overseas limited partnership commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
-    Compare: 1993 No 105 [s 334][211]
+    Compare: 1993 No 105 [s 334][229]
     
-    Section 104(4)(a): amended, on 1 July 2013, by [section 413][157] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 104(4)(a): amended, on 1 July 2013, by [section 413][166] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 104(4)(b): amended, on 1 July 2013, by [section 413][157] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 104(4)(b): amended, on 1 July 2013, by [section 413][166] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 105 Meaning of carrying on business
     
@@ -1921,13 +2029,13 @@ Overseas limited partnerships
         
         
     
-    Compare: 1993 No 105 [s 332][212].
+    Compare: 1993 No 105 [s 332][230].
 
 ##### 106 Validity of transactions not affected
     
-*   A failure by an overseas limited partnership to comply with [section 104][126] does not affect the validity or enforceability of any transaction entered into by the overseas limited partnership.
+*   A failure by an overseas limited partnership to comply with [section 104][134] does not affect the validity or enforceability of any transaction entered into by the overseas limited partnership.
     
-    Compare: 1993 No 105 [s 335][213]
+    Compare: 1993 No 105 [s 335][231]
 
 ##### 107 Application for registration
     
@@ -1949,7 +2057,7 @@ Overseas limited partnerships
     
     *   (g) be accompanied by the prescribed fee (if any).
     
-    Compare: 1993 No 105 [s 336][214]
+    Compare: 1993 No 105 [s 336][232]
 
 ##### 108 Registration of overseas limited partnership
     
@@ -1957,7 +2065,7 @@ Overseas limited partnerships
     
     (2) This section is subject to [section 34][42].
     
-    Compare: 1993 No 105 [s 337(1)][215], (3)
+    Compare: 1993 No 105 [s 337(1)][233], (3)
 
 ##### 109 Use of name by overseas limited partnership
     
@@ -1969,7 +2077,7 @@ Overseas limited partnerships
     
     (2) For the purposes of subsection (1), a generally recognised abbreviation of a word or words may be used in the name of an overseas limited partnership if it is not misleading to do so.
     
-    Compare: 1993 No 105 [s 338][216].
+    Compare: 1993 No 105 [s 338][234].
 
 ##### 110 Notification of changes relating to overseas limited partnership
     
@@ -1987,11 +2095,11 @@ Overseas limited partnerships
     
     *   (b) every general partner of the overseas limited partnership commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
-    Compare: 1993 No 105 [s 339][217]
+    Compare: 1993 No 105 [s 339][235]
     
-    Section 110(2)(a): amended, on 1 July 2013, by [section 413][157] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 110(2)(a): amended, on 1 July 2013, by [section 413][166] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 110(2)(b): amended, on 1 July 2013, by [section 413][157] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 110(2)(b): amended, on 1 July 2013, by [section 413][166] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 111 Rectification or correction of name or address of person authorised to accept service
     
@@ -1999,7 +2107,7 @@ Overseas limited partnerships
     
     (2) The rectification or correction takes effect at the time that the rectification or correction is made to the overseas limited partnerships register.
     
-    Compare: 1993 No 105 [s 339A][218]
+    Compare: 1993 No 105 [s 339A][236]
 
 ##### 112 Annual return of overseas limited partnership
     
@@ -2019,11 +2127,11 @@ Overseas limited partnerships
     
     *   (b) every general partner of the overseas limited partnership commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
-    Compare: 1993 No 105 [s 340][219]
+    Compare: 1993 No 105 [s 340][237]
     
-    Section 112(6)(a): amended, on 1 July 2013, by [section 413][157] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 112(6)(a): amended, on 1 July 2013, by [section 413][166] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 112(6)(b): amended, on 1 July 2013, by [section 413][157] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 112(6)(b): amended, on 1 July 2013, by [section 413][166] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 113 Overseas limited partnership ceasing to carry on business in New Zealand
     
@@ -2037,19 +2145,19 @@ Overseas limited partnerships
         
     *   (a) the date specified in the notice given in accordance with subsection (1)(b); or
     
-    *   (b) receipt of a notice given by a liquidator in accordance with [section 257(1)(a)(ii)(C)][220] of the Companies Act 1993 as modified by [section 114(3)][136].
+    *   (b) receipt of a notice given by a liquidator in accordance with [section 257(1)(a)(ii)(C)][238] of the Companies Act 1993 as modified by [section 114(3)][144].
     
-    Compare: 1993 No 105 [s 341][221]
+    Compare: 1993 No 105 [s 341][239]
 
 ##### 114 Liquidation of overseas limited partnership
     
-*   (1) Subject to subsection (3), [Part 16][196] of the Companies Act 1993 (except [sections 241(1) to (4)][197], [268][198], and [313(4)][200]) applies, with such modifications as may be necessary, in relation to the liquidation of an overseas limited partnership and as if references to---
+*   (1) Subject to subsection (3), [Part 16][214] of the Companies Act 1993 (except [sections 241(1) to (4)][215], [268][216], and [313(4)][218]) applies, with such modifications as may be necessary, in relation to the liquidation of an overseas limited partnership and as if references to---
         
     *   (a) a company registered under that Act were references to an overseas limited partnership:
     
     *   (b) a director were references to a general partner:
     
-    *   (c) shareholders or persons entitled to surplus assets under the constitution of a company and the [Companies Act 1993][149] were references to partners:
+    *   (c) shareholders or persons entitled to surplus assets under the constitution of a company and the [Companies Act 1993][157] were references to partners:
     
     *   (d) references to removal from the New Zealand register were references to ceasing to carry on business in New Zealand.
     
@@ -2057,25 +2165,25 @@ Overseas limited partnerships
         
     *   (a) is registered under this Act; or
     
-    *   (b) has given public notice of an intention to cease to carry on business in New Zealand in accordance with [section 113(1)(a)][135]; or
+    *   (b) has given public notice of an intention to cease to carry on business in New Zealand in accordance with [section 113(1)(a)][143]; or
     
-    *   (c) has given notice to the Registrar of the date on which it will cease to carry on business in New Zealand in accordance with [section 113(1)(b)][135]; or
+    *   (c) has given notice to the Registrar of the date on which it will cease to carry on business in New Zealand in accordance with [section 113(1)(b)][143]; or
     
     *   (d) has been dissolved, or otherwise ceased to exist as a limited partnership, under or by virtue of the laws of any other country.
     
-    (3) [Section 257][220] of the Companies Act 1993 applies to the liquidation of an overseas limited partnership, but instead of making the statement required by section 257(1)(a)(ii)(C), the liquidator must state that the overseas limited partnership has ceased to carry on business in New Zealand and is ready to be removed from the register established under [section 54(1)(b)][68].
+    (3) [Section 257][238] of the Companies Act 1993 applies to the liquidation of an overseas limited partnership, but instead of making the statement required by section 257(1)(a)(ii)(C), the liquidator must state that the overseas limited partnership has ceased to carry on business in New Zealand and is ready to be removed from the register established under [section 54(1)(b)][68].
     
-    (4) Nothing in the [Companies Act 1993][222] as applied to overseas limited partnerships by this section excludes the right of a creditor of an overseas limited partnership to which a liquidator has been appointed---
+    (4) Nothing in the [Companies Act 1993][240] as applied to overseas limited partnerships by this section excludes the right of a creditor of an overseas limited partnership to which a liquidator has been appointed---
         
     *   (a) to bring proceedings outside New Zealand against the overseas limited partnership or its general partners in relation to a debt not claimed in the liquidation, or to the balance of a debt remaining unpaid after the completion of the liquidation; or
     
     *   (b) to bring an action in New Zealand in relation to the balance of a debt remaining unpaid after the completion of the liquidation.
     
-    (5) On the commencement of [section 13][223] of the Insolvency (Cross-Border) Act 2006, the Governor-General may, by Order in Council, amend subsection (1) to omit the words ""the assets in New Zealand of"".
+    (5) On the commencement of [section 13][241] of the Insolvency (Cross-Border) Act 2006, the Governor-General may, by Order in Council, amend subsection (1) to omit the words ""the assets in New Zealand of"".
     
-    Compare: 1993 No 105 [s 342(2)][224], [Schedule 9][225]
+    Compare: 1993 No 105 [s 342(2)][242], [Schedule 9][243]
     
-    Section 114(1): amended, on 24 July 2008, by [clause 3][226] of the Limited Partnerships Act Amendment Order 2008 (SR 2008/172).
+    Section 114(1): amended, on 24 July 2008, by [clause 3][244] of the Limited Partnerships Act Amendment Order 2008 (SR 2008/172).
 
 ## Part 4  
 Miscellaneous
@@ -2084,7 +2192,7 @@ Miscellaneous
     
 *   (1) The Registrar must treat limited partner information as confidential and must not make it available to a member of the public.
     
-    (2) The [Official Information Act 1982][164] does not apply to limited partner information.
+    (2) The [Official Information Act 1982][173] does not apply to limited partner information.
     
     (3) In this section, _limited partner information_ means---
         
@@ -2096,7 +2204,7 @@ Miscellaneous
     
     *   (d) any details relating to a limited partner notified under [section 59(1)][73]; and
     
-    *   (e) the information referred to in [section 76(2)(g)][91] and (h).
+    *   (e) the information referred to in [section 76(2)(g)][99] and (h).
     
     
 
@@ -2140,15 +2248,15 @@ Miscellaneous
 
 ##### 117 Part 2 of Partnership Act 1908 repealed
     
-*   [Part 2][227] of the Partnership Act 1908 is repealed.
+*   [Part 2][245] of the Partnership Act 1908 is repealed.
 
 ##### 118 Orders revoked
     
 *   The following orders are revoked:
         
-    *   (a) [Partnerships (Architects) Order 1972][228] (SR 1972/81):
+    *   (a) [Partnerships (Architects) Order 1972][246] (SR 1972/81):
     
-    *   (b) [Partnerships (Law Practitioners) Order 1982][229] (SR 1982/120).
+    *   (b) [Partnerships (Law Practitioners) Order 1982][247] (SR 1982/120).
     
     
 
@@ -2178,7 +2286,7 @@ Miscellaneous
 
 ##### 122 Transitional provision for special partnerships
     
-*   [Part 2][227] of the Partnerships Act 1908 continues to apply to a special partnership in existence on the commencement of this Act as if that Part had not been repealed, except that a special partnership must not be renewed under [section 57][230] of that Part.
+*   [Part 2][245] of the Partnerships Act 1908 continues to apply to a special partnership in existence on the commencement of this Act as if that Part had not been repealed, except that a special partnership must not be renewed under [section 57][248] of that Part.
 
 ---
 
@@ -2235,82 +2343,41 @@ The following is the list of activities that do not constitute taking part in th
 
 *   (q) bringing a derivative action on behalf of the limited partnership in accordance with this Act.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Limited Partnerships Act 2008\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][231] ![](/images/external_link.gif).
+*   This is a reprint of the Limited Partnerships Act 2008 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][232] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][249] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][250] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][233] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][251] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][252] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][234] and [17E][235] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [sections 105--107][160]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    [Limited Partnerships Amendment Act 2012][253] (2012 No 12)
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][166]
     
+    Financial Markets Authority Act 2011 (2011 No 5): [section 82][207]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    [Limited Partnerships Act Amendment Order 2008][254] (SR 2008/172)
     
-*   [Limited Partnerships Amendment Act 2012][236] (2012 No 12)
-    
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][157]
-    
-    Financial Markets Authority Act 2011 (2011 No 5): [section 82][189]
-    
-    [Limited Partnerships Act Amendment Order 2008][237] (SR 2008/172)
-    
-    [Limited Partnerships Act 2008 Commencement Order 2008][147] (SR 2008/92)
+    [Limited Partnerships Act 2008 Commencement Order 2008][155] (SR 2008/92)
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1184300
 [2]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1187500
 [3]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139108
@@ -2400,151 +2467,168 @@ The following is the list of activities that do not constitute taking part in th
 [87]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139229
 [88]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139231
 [89]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139232
-[90]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139233
-[91]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139235
-[92]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139237
-[93]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139238
-[94]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139239
-[95]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139240
-[96]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139241
-[97]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139242
-[98]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139243
-[99]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139244
-[100]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139245
-[101]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139246
-[102]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139247
-[103]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139248
-[104]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139249
-[105]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139250
-[106]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139252
-[107]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139253
-[108]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139254
-[109]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139255
-[110]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139256
-[111]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139257
-[112]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139258
-[113]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139259
-[114]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139260
-[115]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139261
-[116]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139262
-[117]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139263
-[118]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139264
-[119]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139265
-[120]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139266
-[121]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139267
-[122]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139268
-[123]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139269
-[124]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139270
-[125]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139271
-[126]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139274
-[127]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139275
-[128]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139276
-[129]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139277
-[130]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139278
-[131]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139279
-[132]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139280
-[133]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139281
-[134]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139282
-[135]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139283
-[136]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139284
-[137]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139285
-[138]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139288
-[139]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139290
-[140]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139292
-[141]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139293
-[142]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139294
-[143]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139295
-[144]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1183103
-[145]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139297
-[146]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1187501
-[147]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM1218600
-[148]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM172479
-[149]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM319569
-[150]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM323200
-[151]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM4014407
-[152]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM320117
-[153]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM320119
-[154]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM320120
-[155]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM320121
-[156]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM320845
-[157]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM3360714
-[158]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM319998
-[159]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM172713
-[160]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM172731
-[161]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM172732
-[162]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM172733
-[163]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM430983
-[164]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM64784
-[165]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM323204
-[166]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM323206
-[167]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM297439
-[168]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM297441
-[169]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM320858
-[170]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM320859
-[171]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM320860
-[172]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM324914
-[173]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM324911
-[174]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM3360067
-[175]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM321131
-[176]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM321133
-[177]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM348342
-[178]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM430704
-[179]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM323213
-[180]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM323220
-[181]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM4014412
-[182]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM323225
-[183]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM323227
-[184]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM320825
-[185]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM320826
-[186]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM320827
-[187]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM320828
-[188]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM3231030
-[189]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM3231793
-[190]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM262175
-[191]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM126583
-[192]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM127010
-[193]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM127016
-[194]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM127020
-[195]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM145741
-[196]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM321666
-[197]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM321678
-[198]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM321932
-[199]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM321967
-[200]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM322809
-[201]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM145739
-[202]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM145744
-[203]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM145746
-[204]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM322827
-[205]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM322841
-[206]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM322846
-[207]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM322850
-[208]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM321191
-[209]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM322855
-[210]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM322857
-[211]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM322866
-[212]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM322861
-[213]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM322867
-[214]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM322868
-[215]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM322869
-[216]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM322870
-[217]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM322872
-[218]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM322874
-[219]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM322876
-[220]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM321914
-[221]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM322877
-[222]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM320499
-[223]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM389647
-[224]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM322879
-[225]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM323594
-[226]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM1390606
-[227]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM172748
-[228]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM36572
-[229]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM81591
-[230]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM172758
-[231]: http://www.pco.parliament.govt.nz/reprints/
-[232]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM195439
-[233]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[234]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM195468
-[235]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM195470
-[236]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM4014400
-[237]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM1390600
+[90]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM6043603
+[91]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139233
+[92]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM6043640
+[93]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM6043641
+[94]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM6043642
+[95]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM6043643
+[96]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM6043644
+[97]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM6043645
+[98]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM6043646
+[99]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139235
+[100]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139237
+[101]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139238
+[102]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139239
+[103]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139240
+[104]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139241
+[105]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139242
+[106]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139243
+[107]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139244
+[108]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139245
+[109]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139246
+[110]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139247
+[111]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139248
+[112]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139249
+[113]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139250
+[114]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139252
+[115]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139253
+[116]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139254
+[117]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139255
+[118]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139256
+[119]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139257
+[120]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139258
+[121]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139259
+[122]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139260
+[123]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139261
+[124]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139262
+[125]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139263
+[126]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139264
+[127]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139265
+[128]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139266
+[129]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139267
+[130]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139268
+[131]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139269
+[132]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139270
+[133]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139271
+[134]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139274
+[135]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139275
+[136]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139276
+[137]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139277
+[138]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139278
+[139]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139279
+[140]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139280
+[141]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139281
+[142]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139282
+[143]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139283
+[144]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139284
+[145]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139285
+[146]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139288
+[147]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139290
+[148]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139292
+[149]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139293
+[150]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139294
+[151]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139295
+[152]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1183103
+[153]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1139297
+[154]: http://www.legislation.govt.nz/act/public/2008/0001/latest/whole.html#DLM1187501
+[155]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM1218600
+[156]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM172479
+[157]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM319569
+[158]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM323200
+[159]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM4014407
+[160]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM5740551
+[161]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM320117
+[162]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM320119
+[163]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM320120
+[164]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM320121
+[165]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM320845
+[166]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM3360714
+[167]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM319998
+[168]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM172713
+[169]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM172731
+[170]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM172732
+[171]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM172733
+[172]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM430983
+[173]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM64784
+[174]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM323204
+[175]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM323206
+[176]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM297439
+[177]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM297441
+[178]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM320858
+[179]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM320859
+[180]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM320860
+[181]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM5740552
+[182]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM5740553
+[183]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM4632837
+[184]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM4632954
+[185]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM4632890
+[186]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM4632894
+[187]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM5206501
+[188]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM88578
+[189]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM4632944
+[190]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM4632947
+[191]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM4702249
+[192]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM4632981
+[193]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM321131
+[194]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM321133
+[195]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM348342
+[196]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM430704
+[197]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM323213
+[198]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM323220
+[199]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM4014412
+[200]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM323225
+[201]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM323227
+[202]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM320825
+[203]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM320826
+[204]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM320827
+[205]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM320828
+[206]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM3231030
+[207]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM3231793
+[208]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM262175
+[209]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM126583
+[210]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM127010
+[211]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM127016
+[212]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM127020
+[213]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM145741
+[214]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM321666
+[215]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM321678
+[216]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM321932
+[217]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM321967
+[218]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM322809
+[219]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM145739
+[220]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM145744
+[221]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM145746
+[222]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM322827
+[223]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM322841
+[224]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM322846
+[225]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM322850
+[226]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM321191
+[227]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM322855
+[228]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM322857
+[229]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM322866
+[230]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM322861
+[231]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM322867
+[232]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM322868
+[233]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM322869
+[234]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM322870
+[235]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM322872
+[236]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM322874
+[237]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM322876
+[238]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM321914
+[239]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM322877
+[240]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM320499
+[241]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM389647
+[242]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM322879
+[243]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM323594
+[244]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM1390606
+[245]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM172748
+[246]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM36572
+[247]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM81591
+[248]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM172758
+[249]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM2998516
+[250]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM2998515
+[251]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM2998532
+[252]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[253]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM4014400
+[254]: http://www.legislation.govt.nz/act/public/2008/0001/latest/link.aspx?id=DLM1390600
