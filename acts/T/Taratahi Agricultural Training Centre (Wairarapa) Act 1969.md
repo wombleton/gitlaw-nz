@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -15,11 +15,11 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-This Act is administered by the Ministry of Agriculture and Forestry.
+This Act is administered by the Ministry for Primary Industries.
 
 ---
 
@@ -59,16 +59,20 @@ This Act is administered by the Ministry of Agriculture and Forestry.
 
 [13][17][][17][Banking of money][17]
 
-[14][18][][18][Accounts][18]
+[14][18][][18][Accounting records must be kept][18]
 
-[15][19][][19][Exemption from land tax and income tax][19]
+[14A][19][][19][Financial statements must be prepared][19]
 
-[16][20][][20][Members not personally liable][20]
+[14B ][20][][20][Financial statements must be audited][20]
 
-[17][21][][21][Annual report][21]
+[15][21][][21][Exemption from land tax and income tax][21]
 
-[Schedule][22]  
-[Lands comprising the Taratahi Agricultural Training Centre (Wairarapa)][22]
+[16][22][][22][Members not personally liable][22]
+
+[17][23][][23][Annual report][23]
+
+[Schedule][24]  
+[Lands comprising the Taratahi Agricultural Training Centre (Wairarapa)][24]
 
 ---
 
@@ -78,7 +82,7 @@ An Act to make provision for the control and management of the Taratahi Agricult
 
 *   #### Preamble
     
-    Whereas the lands described in the [Schedule][22] and known as the Wairarapa Cadet Training Farm and certain livestock were in the year 1918 conveyed as a gift to the Crown by certain residents of the Wairarapa district to be held upon the following trusts:
+    Whereas the lands described in the [Schedule][24] and known as the Wairarapa Cadet Training Farm and certain livestock were in the year 1918 conveyed as a gift to the Crown by certain residents of the Wairarapa district to be held upon the following trusts:
         
     *   (a) as a demonstration farm to provide in a practical and efficient manner an object lesson to learners and to farmers in sound, practical, modern profit-earning farming practice, nothing to be done either in the shape of erection of farm buildings or farming methods which is not within the capacity, financially, of the ordinary farmer:
     
@@ -108,13 +112,21 @@ An Act to make provision for the control and management of the Taratahi Agricult
     
 *   In this Act, unless the context otherwise requires,---
     
+    _financial statements_ has the same meaning as in [section 6][25] of the Financial Reporting Act 2013
+    
+    _generally accepted accounting practice_ has the same meaning as in [section 8][26] of the Financial Reporting Act 2013
+    
     _Minister_ means the responsible Minister
     
-    _training centre_ means the Taratahi Agricultural Training Centre (Wairarapa) comprising the lands described in the [Schedule][22]
+    _training centre_ means the Taratahi Agricultural Training Centre (Wairarapa) comprising the lands described in the [Schedule][24]
     
     _trust board_ means the Taratahi Agricultural Training Centre (Wairarapa) Trust Board established by this Act
     
-    Section 2 **Minister**: amended, on 1 July 1995, pursuant to [section 6(1)(b)][23] of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31).
+    Section 2 **financial statements**: inserted, on 1 April 2014, by [section 125][27] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 2 **generally accepted accounting practice**: inserted, on 1 April 2014, by [section 125][27] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 2 **Minister**: amended, on 1 July 1995, pursuant to [section 6(1)(b)][28] of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31).
     
     Section 2 **training centre**: inserted, on 22 October 1981, by section 3(1) of the Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 1981 (1981 No 97).
     
@@ -146,7 +158,7 @@ An Act to make provision for the control and management of the Taratahi Agricult
     
     (2A) The Governor-General may from time to time, by Order in Council, amend any of paragraphs (a) to (d) of subsection (2) to provide for a change of name of any organisation referred to in those paragraphs or for another organisation to be a nominating organisation if the Governor-General considers that the other organisation is a clear successor to the first-mentioned organisation.
     
-    (2B) An Order in Council made under subsection (2A) is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][24] and must be presented to the House of Representatives under [section 41][25] of that Act.
+    (2B) An Order in Council made under subsection (2A) is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][29] and must be presented to the House of Representatives under [section 41][30] of that Act.
     
     (3) The members of the trust board other than the chief executive of the new Ministry shall be appointed by the Minister, they shall be appointed for a term of 4 years, and shall be eligible for reappointment:
     
@@ -160,21 +172,21 @@ An Act to make provision for the control and management of the Taratahi Agricult
     
     Section 3(2): substituted, on 8 March 1985, by section 2 of the Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 1985 (1985 No 39).
     
-    Section 3(2)(d): amended, on 7 July 2010, by [section 4][26] of the Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 2010 (2010 No 89).
+    Section 3(2)(d): amended, on 7 July 2010, by [section 4][31] of the Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 2010 (2010 No 89).
     
-    Section 3(2)(e): repealed, on 2 September 1996, by [section 2(1)(b)][27] of the Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 1996 (1996 No 148).
+    Section 3(2)(e): repealed, on 2 September 1996, by [section 2(1)(b)][32] of the Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 1996 (1996 No 148).
     
-    Section 3(2)(g): amended, on 1 March 1998, pursuant to [section 5(1)(a)][28] of the Ministries of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100).
+    Section 3(2)(g): amended, on 1 March 1998, pursuant to [section 5(1)(a)][33] of the Ministries of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100).
     
-    Section 3(2)(h): substituted, on 2 September 1996, by [section 2(1)(c)][27] of the Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 1996 (1996 No 148).
+    Section 3(2)(h): substituted, on 2 September 1996, by [section 2(1)(c)][32] of the Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 1996 (1996 No 148).
     
-    Section 3(2A): inserted, on 2 September 1996, by [section 2(2)][27] of the Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 1996 (1996 No 148).
+    Section 3(2A): inserted, on 2 September 1996, by [section 2(2)][32] of the Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 1996 (1996 No 148).
     
-    Section 3(2B): replaced, on 5 August 2013, by [section 77(3)][29] of the Legislation Act 2012 (2012 No 119).
+    Section 3(2B): replaced, on 5 August 2013, by [section 77(3)][34] of the Legislation Act 2012 (2012 No 119).
     
-    Section 3(3): amended, on 1 March 1998, pursuant to [section 5(1)(a)][28] of the Ministries of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100).
+    Section 3(3): amended, on 1 March 1998, pursuant to [section 5(1)(a)][33] of the Ministries of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100).
     
-    Section 3(4): repealed, on 12 December 2000, by [section 3(2)][30] of the Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 2000 (2000 No 83).
+    Section 3(4): repealed, on 12 December 2000, by [section 3(2)][35] of the Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 2000 (2000 No 83).
 
 ##### 3A Deputy of chief executive of Ministry of Agriculture and Forestry
     
@@ -192,7 +204,7 @@ An Act to make provision for the control and management of the Taratahi Agricult
     
     (5) This section does not prevent the chief executive from exercising any power or performing any function conferred on the chief executive by this Act.
     
-    Section 3A: inserted, on 12 December 2000, by [section 3(1)][30] of the Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 2000 (2000 No 83).
+    Section 3A: inserted, on 12 December 2000, by [section 3(1)][35] of the Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 2000 (2000 No 83).
 
 ##### 4 Extraordinary vacancies
     
@@ -202,7 +214,7 @@ An Act to make provision for the control and management of the Taratahi Agricult
     
     (3) The powers of the trust board shall not be affected by any vacancy in its membership.
     
-    Section 4(1): amended, on 1 January 2002, by [section 70(1)][31] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 4(1): amended, on 1 January 2002, by [section 70(1)][36] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 5 Chairman
     
@@ -230,9 +242,9 @@ An Act to make provision for the control and management of the Taratahi Agricult
 
 ##### 6A Fees and allowances of trust board members
     
-*   (1) The trust board is hereby declared to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][32].
+*   (1) The trust board is hereby declared to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][37].
     
-    (2) There shall be paid to each member of the trust board who is not an officer of the State services, out of the funds of the trust, remuneration by way of fees or allowances, and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][32], and the provisions of that Act shall apply accordingly.
+    (2) There shall be paid to each member of the trust board who is not an officer of the State services, out of the funds of the trust, remuneration by way of fees or allowances, and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][37], and the provisions of that Act shall apply accordingly.
     
     Section 6A: inserted, on 9 October 1975, by section 2 of the Wairarapa Cadet Training Farm Amendment Act 1975 (1975 No 110).
 
@@ -244,7 +256,7 @@ An Act to make provision for the control and management of the Taratahi Agricult
 
 ##### 8 Vesting of property in trust board
     
-*   (1) The land described in the [Schedule][22] is hereby vested in the trust board for an estate in fee simple, subject to the provisions of this Act.
+*   (1) The land described in the [Schedule][24] is hereby vested in the trust board for an estate in fee simple, subject to the provisions of this Act.
     
     (2) All personal property vested in the Crown immediately before the commencement of this Act and held for the purposes of the trust specified in the [Preamble][2] is hereby vested in the trust board for the purposes of this Act.
     
@@ -284,11 +296,11 @@ An Act to make provision for the control and management of the Taratahi Agricult
     
     Section 9(1)(e): amended, on 22 October 1981, pursuant to section 3(2)(a) of the Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 1981 (1981 No 97).
     
-    Section 9(2)(a): amended, 19 December 2002, by [section 3][33] of the Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 2002 (2002 No 76).
+    Section 9(2)(a): amended, 19 December 2002, by [section 3][38] of the Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 2002 (2002 No 76).
     
     Section 9(2)(c): amended, on 22 October 1981, by section 3(2)(a) of the Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 1981 (1981 No 97).
     
-    Section 9(1)(g): amended, on 7 September 1990, pursuant to [section 34(b)][34] of the National Provident Fund Restructuring Act 1990 (1990 No 126).
+    Section 9(1)(g): amended, on 7 September 1990, pursuant to [section 34(b)][39] of the National Provident Fund Restructuring Act 1990 (1990 No 126).
     
     Section 9(2A): inserted, on 9 October 1975, by section 3(2) of the Wairarapa Cadet Training Farm Amendment Act 1975 (1975 No 110).
 
@@ -308,15 +320,15 @@ An Act to make provision for the control and management of the Taratahi Agricult
     
     (3) For the purpose of securing the repayment of money borrowed pursuant to this section, the trust board may, with the prior consent of the Minister and upon and subject to such conditions as the Minister thinks fit, mortgage or charge any real or personal property owned by the board.
     
-    Section 11(3): amended, on 7 July 2010, by [section 5][35] of the Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 2010 (2010 No 89).
+    Section 11(3): amended, on 7 July 2010, by [section 5][40] of the Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 2010 (2010 No 89).
 
 ##### 12 Contracts of trust board
     
-*   (1) The trust board is hereby declared to be a public body for the purposes of the [Public Bodies Contracts Act 1959][36] and to be a local authority for the purposes of the [Local Authorities (Members' Interests) Act 1968][37].
+*   (1) The trust board is hereby declared to be a public body for the purposes of the [Public Bodies Contracts Act 1959][41] and to be a local authority for the purposes of the [Local Authorities (Members' Interests) Act 1968][42].
     
-    (2) _Amendment(s) incorporated in the [Act(s)][36]_.
+    (2) _Amendment(s) incorporated in the [Act(s)][41]_.
     
-    (3) _Amendment(s) incorporated in the [Act(s)][37]_.
+    (3) _Amendment(s) incorporated in the [Act(s)][42]_.
 
 ##### 13 Banking of money
     
@@ -324,23 +336,43 @@ An Act to make provision for the control and management of the Taratahi Agricult
     
     (2) No money shall be withdrawn from the bank except by authority of the trust board and by cheque signed and countersigned by at least 2 persons whom the board from time to time appoints for that purpose.
 
-##### 14 Accounts
+##### 14 Accounting records must be kept
     
-*   (1) The trust board shall at all times keep full and correct records and accounts of all its financial transactions, assets, liabilities, and funds.
+*   (1) The trust board must ensure that there are kept at all times accounting records that---
+        
+    *   (a) correctly record the transactions of the trust board; and
     
-    (2) The accounts shall be audited by the Auditor-General.
+    *   (b) will enable the trust board to ensure that the financial statements of the trust board comply with this Act; and
     
-    (3) The trust board shall, not later than 3 months after the end of every financial year ending with 31 December, cause its accounts for that year to be balanced, and full and true accounts of its funds, income, and expenditure for that year, with a statement of financial position at the end of that year, to be prepared and submitted to the Auditor-General.
+    *   (c) will enable the financial statements of the trust board to be readily and properly audited.
     
-    Section 14(2): amended, on 1 July 2001, pursuant to [section 52][38] of the Public Audit Act 2001 (2001 No 10).
+    (2) The trust board must establish and maintain a satisfactory system of control of those accounting records.
     
-    Section 14(3): amended, on 1 July 2001, pursuant to [section 52][38] of the Public Audit Act 2001 (2001 No 10).
+    (3) The accounting records must be kept---
+        
+    *   (a) in written form in English; or
     
-    Section 14(3): amended, on 1 October 1997, pursuant to [section 6(1)][39] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    *   (b) in a form or manner in which they are easily accessible and convertible into written form in English.
     
-    Section 14(3): amended, on 2 September 1996, by [section 4(a)][40] of the Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 1996 (1996 No 148).
+    Section 14: replaced, on 1 April 2014, by [section 125][27] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 14A Financial statements must be prepared
     
-    Section 14(3) proviso: repealed, on 2 September 1996, by [section 4(b)][40] of the Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 1996 (1996 No 148).
+*   The trust board must ensure that, within 3 months after the end of the financial year ending on 31 December, financial statements that comply with generally accepted accounting practice are---
+        
+    *   (a) completed in relation to the trust board and that financial year; and
+    
+    *   (b) dated and signed on behalf of the trust board by 2 members of the trust board.
+    
+    Section 14A: inserted, on 1 April 2014, by [section 125][27] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 14B Financial statements must be audited
+    
+*   (1) The trust board must ensure that the financial statements of the trust board are audited.
+    
+    (2) The trust board is a public entity as defined in [section 4][43] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+    
+    Section 14B: inserted, on 1 April 2014, by [section 125][27] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 15 Exemption from land tax and income tax
     
@@ -352,17 +384,9 @@ An Act to make provision for the control and management of the Taratahi Agricult
 
 ##### 17 Annual report
     
-*   The trust board shall furnish to the Minister a report of its operations during each year ending with 31 December, together with a copy of its statement of financial performance for that year and statement of financial position at the end of that year certified by the Auditor-General, as soon as practicable after the end of that year.
+*   The trust board must provide to the Minister a report of its operations during each year ending on 31 December, a copy of its financial statements for that year, and a copy of the audit report on those statements, as soon as practicable after the end of that year.
     
-    Section 17: amended, on 1 July 2001, pursuant to [section 52][38] of the Public Audit Act 2001 (2001 No 10).
-    
-    Section 17: amended, on 1 October 1997, pursuant to [section 6(1)][39] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 17: amended, on 1 October 1997, pursuant to [section 6(2)][39] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 17: amended, on 2 September 1996, by [section 5(a)][41] of the Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 1996 (1996 No 148).
-    
-    Section 17 proviso: repealed, on 2 September 1996, by [section 5(b)][41] of the Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 1996 (1996 No 148).
+    Section 17: replaced, on 1 April 2014, by [section 125][27] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ---
 
@@ -389,31 +413,29 @@ Lands comprising the Taratahi Agricultural Training Centre (Wairarapa)
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][42] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][43] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][44] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][45] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][44] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][45] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][46] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][47] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][29]
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 125][27]
     
-    [Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 2010][46] (2010 No 89)
+    Legislation Act 2012 (2012 No 119): [section 77(3)][34]
     
-    [Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 2002][47] (2002 No 76)
+    [Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 2010][48] (2010 No 89)
     
-    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][31]
+    [Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 2002][49] (2002 No 76)
     
-    [Public Audit Act 2001][48] (2001 No 10): [section 52][38]
+    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][36]
     
-    [Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 2000][49] (2000 No 83)
+    [Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 2000][50] (2000 No 83)
     
-    Ministries of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100): [section 5(1)(a)][28]
+    Ministries of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100): [section 5(1)(a)][33]
     
-    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6][39]
-    
-    [Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 1996][50] (1996 No 148)
+    [Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 1996][51] (1996 No 148)
     
     Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31): section 6(1)(b)
     
@@ -444,35 +466,36 @@ Lands comprising the Taratahi Agricultural Training Centre (Wairarapa)
 [16]: http://www.legislation.govt.nz/act/public/1969/0138/latest/whole.html#DLM394314
 [17]: http://www.legislation.govt.nz/act/public/1969/0138/latest/whole.html#DLM394315
 [18]: http://www.legislation.govt.nz/act/public/1969/0138/latest/whole.html#DLM394316
-[19]: http://www.legislation.govt.nz/act/public/1969/0138/latest/whole.html#DLM394319
-[20]: http://www.legislation.govt.nz/act/public/1969/0138/latest/whole.html#DLM394320
-[21]: http://www.legislation.govt.nz/act/public/1969/0138/latest/whole.html#DLM394321
-[22]: http://www.legislation.govt.nz/act/public/1969/0138/latest/whole.html#DLM394325
-[23]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM366838
-[24]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM2997643
-[25]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM2998573
-[26]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM3044705
-[27]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM407217
-[28]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM418619
-[29]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM2998633
-[30]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM78383
-[31]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM122579
-[32]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM264952
-[33]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM169270
-[34]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM226009
-[35]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM3044706
-[36]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM324218
-[37]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM390002
-[38]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM88956
-[39]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM408960
-[40]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM407219
-[41]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM407220
-[42]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM2998516
-[43]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM2998515
-[44]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM2998532
-[45]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[46]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM3044700
-[47]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM169264
-[48]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM88540
-[49]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM78377
-[50]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM407211
+[19]: http://www.legislation.govt.nz/act/public/1969/0138/latest/whole.html#DLM6047112
+[20]: http://www.legislation.govt.nz/act/public/1969/0138/latest/whole.html#DLM6047113
+[21]: http://www.legislation.govt.nz/act/public/1969/0138/latest/whole.html#DLM394319
+[22]: http://www.legislation.govt.nz/act/public/1969/0138/latest/whole.html#DLM394320
+[23]: http://www.legislation.govt.nz/act/public/1969/0138/latest/whole.html#DLM394321
+[24]: http://www.legislation.govt.nz/act/public/1969/0138/latest/whole.html#DLM394325
+[25]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM4632890
+[26]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM4632894
+[27]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM5740664
+[28]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM366838
+[29]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM2997643
+[30]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM2998573
+[31]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM3044705
+[32]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM407217
+[33]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM418619
+[34]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM2998633
+[35]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM78383
+[36]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM122579
+[37]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM264952
+[38]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM169270
+[39]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM226009
+[40]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM3044706
+[41]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM324218
+[42]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM390002
+[43]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM88548
+[44]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM2998516
+[45]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM2998515
+[46]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM2998532
+[47]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[48]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM3044700
+[49]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM169264
+[50]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM78377
+[51]: http://www.legislation.govt.nz/act/public/1969/0138/latest/link.aspx?id=DLM407211
