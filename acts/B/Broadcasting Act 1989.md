@@ -1,5 +1,5 @@
 Reprint  
-as at 1 January 2014
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -503,7 +503,7 @@ An Act---
     
     *   (b) does not include any news or current affairs programme
     
-    _total revenue_ means all income classified as revenue by the applicable financial reporting standard issued under [section 24][169] of the Financial Reporting Act 1993
+    _total revenue_ means all income classified as revenue by the applicable financial reporting standard (within the meaning of [section 5][169] of the Financial Reporting Act 2013)
     
     _transmit on demand_ means the transmission of content, by any means, made on the demand of a particular person for reception by that person
     
@@ -549,13 +549,11 @@ An Act---
     
     Section 2(1) **total operating revenue**: repealed, on 20 September 2007, by [section 4(1) ][178]of the Broadcasting Amendment Act 2007 (2007 No 42).
     
-    Section 2(1) **total revenue**: inserted, on 20 September 2007, by [section 4(2) ][178]of the Broadcasting Amendment Act 2007 (2007 No 42).
-    
-    Section 2(1) **total revenue**: amended, on 1 July 2011, by [section 12][172] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 2(1) **total revenue**: replaced, on 1 April 2014, by [section 126][179] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
     Section 2(1) **transmit on demand**: inserted, on 14 March 2008, by [section 4][174] of the Broadcasting Amendment Act 2008 (2008 No 3).
     
-    Section 2(1) **working day** paragraph (ab): inserted, on 1 January 2014, by [section 8][179] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
+    Section 2(1) **working day** paragraph (ab): inserted, on 1 January 2014, by [section 8][180] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
     
     Section 2(2): added, on 28 August 1990, by [section 3(3)][173] of the Broadcasting Amendment Act (No 2) 1990 (1990 No 103).
 
@@ -580,7 +578,7 @@ Programme standards
     
     *   (e) any approved code of broadcasting practice applying to the programmes.
     
-    (2) Where, in respect of any film within the meaning of the [Films, Videos, and Publications Classification Act 1993][180],---
+    (2) Where, in respect of any film within the meaning of the [Films, Videos, and Publications Classification Act 1993][181],---
         
     *   (a) there is in force under that Act a decision classifying that film as objectionable; or
     
@@ -598,9 +596,9 @@ Programme standards
     
     Compare: 1976 No 132 ss 24(1)(c), (e), (f), (g), (2), (4), 95(1)(c), (e), (f), (g), (2), (5); 1982 No 178 ss 5, 19; 1983 No 130 s 76(2), (3)
     
-    Section 4(1): amended, on 14 March 2008, by [section 14][181] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 4(1): amended, on 14 March 2008, by [section 14][182] of the Broadcasting Amendment Act 2008 (2008 No 3).
     
-    Section 4(2): substituted, on 1 October 1994, by [section 150(1)][182] of the Films, Videos, and Publications Classification Act 1993 (1993 No 94).
+    Section 4(2): substituted, on 1 October 1994, by [section 150(1)][183] of the Films, Videos, and Publications Classification Act 1993 (1993 No 94).
 
 ## Part 2  
 Complaints
@@ -657,11 +655,11 @@ Complaints
     
     Compare: 1976 No 132 ss 95B(1)(a)(ii), (iv)--(vii), (b), 95C(1)(a)(ii), (iv)--(vii), (b); 1982 No 6 s 11; 1982 No 178 s 20
     
-    Section 6(1)(ba): inserted, on 1 July 1996, by [section 3][183] of the Broadcasting Amendment Act 1996 (1996 No 53).
+    Section 6(1)(ba): inserted, on 1 July 1996, by [section 3][184] of the Broadcasting Amendment Act 1996 (1996 No 53).
     
-    Section 6(1)(ba): amended, on 14 March 2008, by [section 14][181] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 6(1)(ba): amended, on 14 March 2008, by [section 14][182] of the Broadcasting Amendment Act 2008 (2008 No 3).
     
-    Section 6(3): added, on 1 July 1993, by [section 3][184] of the Broadcasting Amendment Act 1993 (1993 No 69).
+    Section 6(3): added, on 1 July 1993, by [section 3][185] of the Broadcasting Amendment Act 1993 (1993 No 69).
 
 ##### 7 Decisions in respect of formal complaints
     
@@ -729,19 +727,19 @@ Complaints
     
     (3) Except as provided in subsection (2), nothing in this section entitles a complainant to refer a complaint about an advertising programme to the Authority.
     
-    Section 8: substituted, on 1 July 1993, by [section 4(1)][185] of the Broadcasting Amendment Act 1993 (1993 No 69).
+    Section 8: substituted, on 1 July 1993, by [section 4(1)][186] of the Broadcasting Amendment Act 1993 (1993 No 69).
     
-    Section 8(1): substituted, on 20 December 2007, by [section 5(1)][186] of the Broadcasting Amendment Act (No 2) 2007 (2007 No 112).
+    Section 8(1): substituted, on 20 December 2007, by [section 5(1)][187] of the Broadcasting Amendment Act (No 2) 2007 (2007 No 112).
     
-    Section 8(1A): substituted, on 20 December 2007, by [section 5(1)][186] of the Broadcasting Amendment Act (No 2) 2007 (2007 No 112).
+    Section 8(1A): substituted, on 20 December 2007, by [section 5(1)][187] of the Broadcasting Amendment Act (No 2) 2007 (2007 No 112).
     
-    Section 8(1B): inserted, on 20 December 2007, by [section 5(1)][186] of the Broadcasting Amendment Act (No 2) 2007 (2007 No 112).
+    Section 8(1B): inserted, on 20 December 2007, by [section 5(1)][187] of the Broadcasting Amendment Act (No 2) 2007 (2007 No 112).
     
-    Section 8(1C): inserted, on 20 December 2007, by [section 5(1)][186] of the Broadcasting Amendment Act (No 2) 2007 (2007 No 112).
+    Section 8(1C): inserted, on 20 December 2007, by [section 5(1)][187] of the Broadcasting Amendment Act (No 2) 2007 (2007 No 112).
     
-    Section 8(1D): inserted, on 20 December 2007, by [section 5(1)][186] of the Broadcasting Amendment Act (No 2) 2007 (2007 No 112).
+    Section 8(1D): inserted, on 20 December 2007, by [section 5(1)][187] of the Broadcasting Amendment Act (No 2) 2007 (2007 No 112).
     
-    Section 8(2): amended, on 20 December 2007, by [section 5(2)][186] of the Broadcasting Amendment Act (No 2) 2007 (2007 No 112).
+    Section 8(2): amended, on 20 December 2007, by [section 5(2)][187] of the Broadcasting Amendment Act (No 2) 2007 (2007 No 112).
 
 ##### 9 Time limits
     
@@ -771,7 +769,7 @@ Complaints
     
     *   (b) ending 60 working days later.
     
-    Section 9: substituted, on 20 December 2007, by [section 6][187] of the Broadcasting Amendment Act (No 2) 2007 (2007 No 112).
+    Section 9: substituted, on 20 December 2007, by [section 6][188] of the Broadcasting Amendment Act (No 2) 2007 (2007 No 112).
 
 ##### 10 Consideration and determination of complaints by Authority
     
@@ -803,11 +801,11 @@ Complaints
 
 ##### 12 Application of Commissions of Inquiry Act 1908
     
-*   [Sections 4B][188], [4C][189], [4D][190], [5][191], [6][192], [7][193], [8][194], and [9][195] of the Commissions of Inquiry Act 1908 shall, for the purposes of the Authority's consideration of any complaint referred to it under [section 8][11], apply to the Authority---
+*   [Sections 4B][189], [4C][190], [4D][191], [5][192], [6][193], [7][194], [8][195], and [9][196] of the Commissions of Inquiry Act 1908 shall, for the purposes of the Authority's consideration of any complaint referred to it under [section 8][11], apply to the Authority---
         
-    *   (a) as if the Authority were a Commission of Inquiry established under the [Commissions of Inquiry Act 1908][196]; and
+    *   (a) as if the Authority were a Commission of Inquiry established under the [Commissions of Inquiry Act 1908][197]; and
     
-    *   (b) as if the Authority's consideration of the complaint were an inquiry for the purposes of the [Commissions of Inquiry Act 1908][196].
+    *   (b) as if the Authority's consideration of the complaint were an inquiry for the purposes of the [Commissions of Inquiry Act 1908][197].
     
     
 
@@ -841,13 +839,13 @@ Complaints
     
     *   (b) give notice in writing to the Authority and the complainant of the manner in which the order has been complied with.
     
-    (4) Every statement published pursuant to an order made under subsection (1) shall be deemed for the purposes of [clause 13][197] of Part 2 of Schedule 1 of the Defamation Act 1992 to be a notice published on the authority of a court.
+    (4) Every statement published pursuant to an order made under subsection (1) shall be deemed for the purposes of [clause 13][198] of Part 2 of Schedule 1 of the Defamation Act 1992 to be a notice published on the authority of a court.
     
     Compare: 1976 No 132 s 95X; 1982 No 6 s 11
     
-    Section 13(1)(a): amended, on 14 March 2008, by [section 14][181] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 13(1)(a): amended, on 14 March 2008, by [section 14][182] of the Broadcasting Amendment Act 2008 (2008 No 3).
     
-    Section 13(4): substituted, on 1 February 1993, by [section 56(1)][198] of the Defamation Act 1992 (1992 No 105).
+    Section 13(4): substituted, on 1 February 1993, by [section 56(1)][199] of the Defamation Act 1992 (1992 No 105).
 
 ##### 13A Additional powers to make orders in respect of series
     
@@ -915,7 +913,7 @@ Complaints
     
     (7) Where the Authority makes, under subsection (4)(a), an order in relation to any series, no broadcaster shall broadcast that series or any programme in that series.
     
-    Section 13A: inserted, on 1 July 1996, by [section 6][199] of the Broadcasting Amendment Act 1996 (1996 No 53).
+    Section 13A: inserted, on 1 July 1996, by [section 6][200] of the Broadcasting Amendment Act 1996 (1996 No 53).
 
 ##### 14 Offences
     
@@ -925,11 +923,11 @@ Complaints
     
     *   (b) who contravenes an order made under [section 13A][17].
     
-    Section 14: substituted, on 1 July 1996, by [section 7][200] of the Broadcasting Amendment Act 1996 (1996 No 53).
+    Section 14: substituted, on 1 July 1996, by [section 7][201] of the Broadcasting Amendment Act 1996 (1996 No 53).
     
-    Section 14: amended, on 1 July 2013, by [section 413][201] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 14: amended, on 1 July 2013, by [section 413][202] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 14(b): amended, on 3 June 1998, by [section 2][202] of the Broadcasting Amendment Act 1998 (1998 No 28).
+    Section 14(b): amended, on 3 June 1998, by [section 2][203] of the Broadcasting Amendment Act 1998 (1998 No 28).
 
 ##### 15 Notice of decisions
     
@@ -937,11 +935,11 @@ Complaints
     
     (2) Copies of the decision of the Authority on each complaint referred to it under [section 8][11], which copies shall include in each case the Authority's reasons for its decision, shall be procurable by purchase from the Authority at a reasonable price.
     
-    (3) Every notice published under subsection (1) shall be deemed for the purposes of [clause 6][203] of Part 1 of Schedule 1 of the Defamation Act 1992 to be a fair and accurate report of the proceedings of a court in New Zealand.
+    (3) Every notice published under subsection (1) shall be deemed for the purposes of [clause 6][204] of Part 1 of Schedule 1 of the Defamation Act 1992 to be a fair and accurate report of the proceedings of a court in New Zealand.
     
     Compare: 1976 No 132 s 67B; 1982 No 6 s 9
     
-    Section 15(3): substituted, on 1 February 1993, by [section 56(1)][198] of the Defamation Act 1992 (1992 No 105).
+    Section 15(3): substituted, on 1 February 1993, by [section 56(1)][199] of the Defamation Act 1992 (1992 No 105).
 
 ##### 16 Power to award costs
     
@@ -959,9 +957,9 @@ Complaints
     
     Compare: 1976 No 132 s 67C; 1982 No 6 s 9
     
-    Section 16(2): amended, on 14 March 2008, by [section 14][181] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 16(2): amended, on 14 March 2008, by [section 14][182] of the Broadcasting Amendment Act 2008 (2008 No 3).
     
-    Section 16(4): added, on 1 July 1996, by [section 8][204] of the Broadcasting Amendment Act 1996 (1996 No 53).
+    Section 16(4): added, on 1 July 1996, by [section 8][205] of the Broadcasting Amendment Act 1996 (1996 No 53).
 
 ##### 17 Enforcement of orders for costs
     
@@ -1005,13 +1003,13 @@ Complaints
     
     (7) Subject to the provisions of this section, the procedure in respect of any appeal under this section shall be in accordance with rules of court.
     
-    Section 18(1)(b): amended, on 1 July 1996, by [section 9][205] of the Broadcasting Amendment Act 1996 (1996 No 53).
+    Section 18(1)(b): amended, on 1 July 1996, by [section 9][206] of the Broadcasting Amendment Act 1996 (1996 No 53).
     
-    Section 18(2): repealed, on 15 August 1991, by [section 3(4)][206] of the Judicature Amendment Act 1991 (1991 No 60).
+    Section 18(2): repealed, on 15 August 1991, by [section 3(4)][207] of the Judicature Amendment Act 1991 (1991 No 60).
     
-    Section 18(3): amended, on 15 August 1991, by [section 3(4)][206] of the Judicature Amendment Act 1991 (1991 No 60).
+    Section 18(3): amended, on 15 August 1991, by [section 3(4)][207] of the Judicature Amendment Act 1991 (1991 No 60).
     
-    Section 18(6): repealed, on 27 September 2001, by [section 3][207] of the Broadcasting Amendment Act 2001 (2001 No 57).
+    Section 18(6): repealed, on 27 September 2001, by [section 3][208] of the Broadcasting Amendment Act 2001 (2001 No 57).
 
 ##### 19 Decision of High Court to be final
     
@@ -1019,11 +1017,11 @@ Complaints
 
 #### Evidence
     
-*   Heading: inserted, on 28 August 1990, by [section 4][208] of the Broadcasting Amendment Act (No 2) 1990 (1990 No 103).
+*   Heading: inserted, on 28 August 1990, by [section 4][209] of the Broadcasting Amendment Act (No 2) 1990 (1990 No 103).
 
 ##### 19A Admissibility of evidence
     
-*   Except in any proceedings for perjury within the meaning of the [Crimes Act 1961][209] in respect of sworn testimony given before the Authority or in any proceedings for the enforcement of an order made under this Part,---
+*   Except in any proceedings for perjury within the meaning of the [Crimes Act 1961][210] in respect of sworn testimony given before the Authority or in any proceedings for the enforcement of an order made under this Part,---
         
     *   (a) no response made by a broadcaster to any complaint made under this Part; and
     
@@ -1041,7 +1039,7 @@ Complaints
     
     shall be admissible in evidence against any person in any court or in any inquiry or other proceedings.
     
-    Section 19A: inserted, on 28 August 1990, by [section 4][208] of the Broadcasting Amendment Act (No 2) 1990 (1990 No 103).
+    Section 19A: inserted, on 28 August 1990, by [section 4][209] of the Broadcasting Amendment Act (No 2) 1990 (1990 No 103).
 
 ## Part 3  
 Broadcasting Standards Authority
@@ -1050,13 +1048,13 @@ Broadcasting Standards Authority
     
 *   (1) There is hereby established an Authority to be called the Broadcasting Standards Authority.
     
-    (2) The Authority is a Crown entity for the purposes of [section 7][210] of the Crown Entities Act 2004\.
+    (2) The Authority is a Crown entity for the purposes of [section 7][211] of the Crown Entities Act 2004\.
     
-    (3) The [Crown Entities Act 2004][211] applies to the Authority except to the extent that this Act expressly provides otherwise.
+    (3) The [Crown Entities Act 2004][212] applies to the Authority except to the extent that this Act expressly provides otherwise.
     
-    Section 20(2): added, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Section 20(2): added, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 20(3): added, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Section 20(3): added, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 21 Functions of Authority
     
@@ -1106,29 +1104,29 @@ Broadcasting Standards Authority
     
     (3) Nothing in subsection (1) shall relate to advertising programmes or any credit in respect of a sponsorship or underwriting arrangement entered into in relation to a programme except where neither the broadcaster nor the advertiser recognise, in relation to a specific complaint, the jurisdiction of the Advertising Standards Complaints Board (a board appointed by the Advertising Standards Authority Incorporated).
     
-    (4) When performing its functions under subsection (1)(e), (f), or (g) in relation to a code of practice of the kind described in subsection (1)(e)(vii), the Authority must consult with the Privacy Commissioner appointed under the [Privacy Act 1993][213].
+    (4) When performing its functions under subsection (1)(e), (f), or (g) in relation to a code of practice of the kind described in subsection (1)(e)(vii), the Authority must consult with the Privacy Commissioner appointed under the [Privacy Act 1993][214].
     
     (5) Except as expressly provided otherwise in this or any other Act, the Authority must act independently in performing its statutory functions and duties, and exercising its statutory powers, under---
         
     *   (a) this Act; and
     
-    *   (b) any other Act that expressly provides for the functions, powers, or duties of the Authority (other than the [Crown Entities Act 2004][211]).
+    *   (b) any other Act that expressly provides for the functions, powers, or duties of the Authority (other than the [Crown Entities Act 2004][212]).
     
-    Section 21(1)(b): replaced, on 20 December 2007, by [section 7][214] of the Broadcasting Amendment Act (No 2) 2007 (2007 No 112).
+    Section 21(1)(b): replaced, on 20 December 2007, by [section 7][215] of the Broadcasting Amendment Act (No 2) 2007 (2007 No 112).
     
-    Section 21(1)(ba): inserted, on 20 December 2007, by [section 7][214] of the Broadcasting Amendment Act (No 2) 2007 (2007 No 112).
+    Section 21(1)(ba): inserted, on 20 December 2007, by [section 7][215] of the Broadcasting Amendment Act (No 2) 2007 (2007 No 112).
     
     Section 21(1)(e)(v): amended, on 18 December 2013, by [section 417(1)][171] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
     
-    Section 21(1)(e)(vii): inserted, on 1 July 2000, by [section 4(1)][215] of the Broadcasting Amendment Act 2000 (2000 No 3).
+    Section 21(1)(e)(vii): inserted, on 1 July 2000, by [section 4(1)][216] of the Broadcasting Amendment Act 2000 (2000 No 3).
     
-    Section 21(2): amended, on 14 March 2008, by [section 14][181] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 21(2): amended, on 14 March 2008, by [section 14][182] of the Broadcasting Amendment Act 2008 (2008 No 3).
     
-    Section 21(3): inserted, on 1 July 1993, by [section 5][216] of the Broadcasting Amendment Act 1993 (1993 No 69).
+    Section 21(3): inserted, on 1 July 1993, by [section 5][217] of the Broadcasting Amendment Act 1993 (1993 No 69).
     
-    Section 21(4): inserted, on 1 July 2000, by [section 4(2)][215] of the Broadcasting Amendment Act 2000 (2000 No 3).
+    Section 21(4): inserted, on 1 July 2000, by [section 4(2)][216] of the Broadcasting Amendment Act 2000 (2000 No 3).
     
-    Section 21(5): inserted, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Section 21(5): inserted, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 22 Notification and publication of approved codes of broadcasting practice
     
@@ -1152,13 +1150,13 @@ Broadcasting Standards Authority
     
 *   \[Repealed\]
     
-    Section 24: repealed, on 25 January 2005, by [section 200 ][212]of the Crown Entities Act 2004 (2004 No 115).
+    Section 24: repealed, on 25 January 2005, by [section 200 ][213]of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 25 Power of Authority to commission surveys
     
 *   \[Repealed\]
     
-    Section 25: repealed, on 25 January 2005, by [section 200 ][212]of the Crown Entities Act 2004 (2004 No 115).
+    Section 25: repealed, on 25 January 2005, by [section 200 ][213]of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 26 Membership of Authority
     
@@ -1170,7 +1168,7 @@ Broadcasting Standards Authority
     
     (2) The person appointed to be Chairperson of the Authority shall be a barrister or solicitor of not less than 7 years' practice of the High Court, whether or not the person holds or has held judicial office.
     
-    (3) Despite [clause 9][217] of Schedule 5 of the Crown Entities Act 2004, a quorum for a meeting of the board of the Authority is 3 members.
+    (3) Despite [clause 9][218] of Schedule 5 of the Crown Entities Act 2004, a quorum for a meeting of the board of the Authority is 3 members.
     
     (4) For the purposes of any matter before the Authority, the Authority may co-opt any 1 or more persons whose qualifications or experience are likely, in the opinion of the Authority, to be of assistance to the Authority in dealing with that matter.
     
@@ -1182,39 +1180,39 @@ Broadcasting Standards Authority
     
     Compare: 1976 No 132 s 61(1), (2), (3), (9), (10), (11), (12); 1982 No 6 s 7(2)
     
-    Section 26(1): substituted, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Section 26(1): substituted, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 26(1A): inserted, on 1 July 1996, by [section 10(1)][218] of the Broadcasting Amendment Act 1996 (1996 No 53).
+    Section 26(1A): inserted, on 1 July 1996, by [section 10(1)][219] of the Broadcasting Amendment Act 1996 (1996 No 53).
     
-    Section 26(1B): inserted, on 1 July 1996, by [section 10(1)][218] of the Broadcasting Amendment Act 1996 (1996 No 53).
+    Section 26(1B): inserted, on 1 July 1996, by [section 10(1)][219] of the Broadcasting Amendment Act 1996 (1996 No 53).
     
-    Section 26(3): substituted, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Section 26(3): substituted, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 26(7): repealed, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Section 26(7): repealed, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 27 Term of office of members of Authority
     
 *   \[Repealed\]
     
-    Section 27: repealed, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Section 27: repealed, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 28 Continuation of membership
     
 *   (1) Where the term of office of a person who is a member of the Authority expires or where a person who is a member of the Authority resigns his or her office, the Minister may request any such person to continue to act as if he or she were a member of the Authority for the purpose of any proceeding in which that person took part and that was commenced before the expiration of his or her term of office or before his or her resignation took effect, as the case may be, and, if any such person agrees to any such request and so acts, he or she shall be deemed, for that purpose and for such period as the Minister determines from time to time, to continue to be a member of the Authority.
     
-    (2) This section applies despite [section 45][219] of the Crown Entities Act 2004\.
+    (2) This section applies despite [section 45][220] of the Crown Entities Act 2004\.
     
     Compare: 1976 No 132 s 63(6); 1982 No 6 s 8(1)
     
-    Section 28(1): amended, on 14 March 2008, by [section 14][181] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 28(1): amended, on 14 March 2008, by [section 14][182] of the Broadcasting Amendment Act 2008 (2008 No 3).
     
-    Section 28(2): added, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Section 28(2): added, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 29 Delegation of functions or powers by Authority
     
 *   \[Repealed\]
     
-    Section 29: repealed, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Section 29: repealed, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 30 Rules in relation to retention of recordings of programmes
     
@@ -1226,15 +1224,15 @@ Broadcasting Standards Authority
     
     (4) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who fails to comply with any rules made under this section.
     
-    (5) Rules made under this section are a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][220] and must be presented to the House of Representatives under [section 41][221] of that Act.
+    (5) Rules made under this section are a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][221] and must be presented to the House of Representatives under [section 41][222] of that Act.
     
-    Section 30(1): substituted, on 1 July 2000, by [section 5(1)][222] of the Broadcasting Amendment Act 2000 (2000 No 3).
+    Section 30(1): substituted, on 1 July 2000, by [section 5(1)][223] of the Broadcasting Amendment Act 2000 (2000 No 3).
     
-    Section 30(3): substituted, on 1 July 2000, by [section 5(2)][222] of the Broadcasting Amendment Act 2000 (2000 No 3).
+    Section 30(3): substituted, on 1 July 2000, by [section 5(2)][223] of the Broadcasting Amendment Act 2000 (2000 No 3).
     
-    Section 30(4): amended, on 1 July 2013, by [section 413][201] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 30(4): amended, on 1 July 2013, by [section 413][202] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 30(5): replaced, on 5 August 2013, by [section 77(3)][223] of the Legislation Act 2012 (2012 No 119).
+    Section 30(5): replaced, on 5 August 2013, by [section 77(3)][224] of the Legislation Act 2012 (2012 No 119).
 
 ##### 30A Return on total revenue
     
@@ -1250,17 +1248,17 @@ Broadcasting Standards Authority
     
     (4) Where a broadcaster gives to the Authority in accordance with subsection (3) the broadcaster's financial statement for any financial year, the broadcaster's total revenue for that financial year, as stated in that financial statement, will, for the purposes of subsection (1), be deemed to be the total revenue derived by that broadcaster in that financial year from broadcasting within New Zealand.
     
-    Section 30A: inserted, on 1 July 1996, by [section 13][224] of the Broadcasting Amendment Act 1996 (1996 No 53).
+    Section 30A: inserted, on 1 July 1996, by [section 13][225] of the Broadcasting Amendment Act 1996 (1996 No 53).
     
-    Section 30A heading: amended, on 20 September 2007, by [section 5(1)][225] of the Broadcasting Amendment Act 2007 (2007 No 42).
+    Section 30A heading: amended, on 20 September 2007, by [section 5(1)][226] of the Broadcasting Amendment Act 2007 (2007 No 42).
     
-    Section 30A(1): amended, on 20 September 2007, by [section 5(2)][225] of the Broadcasting Amendment Act 2007 (2007 No 42).
+    Section 30A(1): amended, on 20 September 2007, by [section 5(2)][226] of the Broadcasting Amendment Act 2007 (2007 No 42).
     
-    Section 30A(2)(b): amended, on 20 September 2007, by [section 5(3)][225] of the Broadcasting Amendment Act 2007 (2007 No 42).
+    Section 30A(2)(b): amended, on 20 September 2007, by [section 5(3)][226] of the Broadcasting Amendment Act 2007 (2007 No 42).
     
-    Section 30A(3): amended, on 20 September 2007, by [section 5(4)][225] of the Broadcasting Amendment Act 2007 (2007 No 42).
+    Section 30A(3): amended, on 20 September 2007, by [section 5(4)][226] of the Broadcasting Amendment Act 2007 (2007 No 42).
     
-    Section 30A(4): amended, on 20 September 2007, by [section 5(5)][225] of the Broadcasting Amendment Act 2007 (2007 No 42).
+    Section 30A(4): amended, on 20 September 2007, by [section 5(5)][226] of the Broadcasting Amendment Act 2007 (2007 No 42).
 
 ##### 30B Payment of annual levy
     
@@ -1272,9 +1270,9 @@ Broadcasting Standards Authority
     
     (4) The annual levy payable under subsection (1) shall be payable by the broadcaster not later than 31 July of the year in which the return is required to be given to the Authority.
     
-    Section 30B: inserted, on 1 July 1996, by [section 13][224] of the Broadcasting Amendment Act 1996 (1996 No 53).
+    Section 30B: inserted, on 1 July 1996, by [section 13][225] of the Broadcasting Amendment Act 1996 (1996 No 53).
     
-    Section 30B(1): amended, on 20 September 2007, by [section 6][226] of the Broadcasting Amendment Act 2007 (2007 No 42).
+    Section 30B(1): amended, on 20 September 2007, by [section 6][227] of the Broadcasting Amendment Act 2007 (2007 No 42).
 
 ##### 30C Annual levy
     
@@ -1288,9 +1286,9 @@ Broadcasting Standards Authority
     
     *   b is .00051\.
     
-    Section 30C: inserted, on 1 July 1996, by [section 13][224] of the Broadcasting Amendment Act 1996 (1996 No 53).
+    Section 30C: inserted, on 1 July 1996, by [section 13][225] of the Broadcasting Amendment Act 1996 (1996 No 53).
     
-    Section 30C formula item a: amended, on 20 September 2007, by [section 7][227] of the Broadcasting Amendment Act 2007 (2007 No 42).
+    Section 30C formula item a: amended, on 20 September 2007, by [section 7][228] of the Broadcasting Amendment Act 2007 (2007 No 42).
 
 ##### 30D Rebates
     
@@ -1302,39 +1300,39 @@ Broadcasting Standards Authority
     
     *   (b) the levy paid by the broadcaster.
     
-    Section 30D: inserted, on 1 July 1996, by [section 13][224] of the Broadcasting Amendment Act 1996 (1996 No 53).
+    Section 30D: inserted, on 1 July 1996, by [section 13][225] of the Broadcasting Amendment Act 1996 (1996 No 53).
 
 ##### 30E Recovery of levies
     
 *   Any annual levy that is not paid in accordance with this Act may be recovered from the broadcaster liable at the suit, and in the name, of the Authority in any court of competent jurisdiction.
     
-    Section 30E: inserted, on 1 July 1996, by [section 13][224] of the Broadcasting Amendment Act 1996 (1996 No 53).
+    Section 30E: inserted, on 1 July 1996, by [section 13][225] of the Broadcasting Amendment Act 1996 (1996 No 53).
 
 ##### 30F Goods and services tax
     
-*   The amount of the levy calculated under [section 30B][40] is exclusive of any goods and services tax payable under the [Goods and Services Tax Act 1985][228].
+*   The amount of the levy calculated under [section 30B][40] is exclusive of any goods and services tax payable under the [Goods and Services Tax Act 1985][229].
     
-    Section 30F: inserted, on 1  July 1996, by [section 13][224] of the Broadcasting Amendment Act 1996 (1996 No 53).
+    Section 30F: inserted, on 1  July 1996, by [section 13][225] of the Broadcasting Amendment Act 1996 (1996 No 53).
 
 ##### 30G Offence
     
 *   Every broadcaster commits an offence and is liable on conviction to a fine not exceeding $100,000 who contravenes [section 30A][39].
     
-    Section 30G: inserted, on 1 July 1996, by [section 13][224] of the Broadcasting Amendment Act 1996 (1996 No 53).
+    Section 30G: inserted, on 1 July 1996, by [section 13][225] of the Broadcasting Amendment Act 1996 (1996 No 53).
     
-    Section 30G: amended, on 1 July 2013, by [section 413][201] of the Criminal Procedure Act 2011 (2011 No  81).
+    Section 30G: amended, on 1 July 2013, by [section 413][202] of the Criminal Procedure Act 2011 (2011 No  81).
 
 ##### 31 Funds of Authority
     
 *   The funds of the Authority include all annual levies paid by broadcasters under [section 30B][40].
     
-    Section 31: substituted, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Section 31: substituted, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 32 Seal
     
 *   \[Repealed\]
     
-    Section 32: repealed, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Section 32: repealed, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 33 Exemption from income tax
     
@@ -1351,13 +1349,13 @@ Broadcasting Commission
     
 *   (1) There is hereby established a Commission to be called the Broadcasting Commission.
     
-    (2) The Commission is a Crown entity for the purposes of [section 7][210] of the Crown Entities Act 2004\.
+    (2) The Commission is a Crown entity for the purposes of [section 7][211] of the Crown Entities Act 2004\.
     
-    (3) The [Crown Entities Act 2004][211] applies to the Commission except to the extent that this Act expressly provides otherwise.
+    (3) The [Crown Entities Act 2004][212] applies to the Commission except to the extent that this Act expressly provides otherwise.
     
-    Section 35(2): substituted, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Section 35(2): substituted, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 35(3): added, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Section 35(3): added, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 36 Functions of Commission
     
@@ -1407,13 +1405,13 @@ Broadcasting Commission
     
     *   (c) archiving content.
     
-    Section 36(1): amended, on 14 March 2008, by [section 5(1)][229] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 36(1): amended, on 14 March 2008, by [section 5(1)][230] of the Broadcasting Amendment Act 2008 (2008 No 3).
     
-    Section 36(1)(c): substituted, on 1 July 2000, by [section 6(1)][230] of the Broadcasting Amendment Act 2000 (2000 No 3).
+    Section 36(1)(c): substituted, on 1 July 2000, by [section 6(1)][231] of the Broadcasting Amendment Act 2000 (2000 No 3).
     
-    Section 36(1)(ca): inserted, on 1 July 2000, by [section 6(2)][230] of the Broadcasting Amendment Act 2000 (2000 No 3).
+    Section 36(1)(ca): inserted, on 1 July 2000, by [section 6(2)][231] of the Broadcasting Amendment Act 2000 (2000 No 3).
     
-    Section 36(2): added, on 14 March 2008, by [section 5(2)][229] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 36(2): added, on 14 March 2008, by [section 5(2)][230] of the Broadcasting Amendment Act 2008 (2008 No 3).
 
 ##### 37 Promotion of New Zealand content in programming
     
@@ -1443,19 +1441,19 @@ Broadcasting Commission
     
     *   (d) ensure that, in its funding of sound radio broadcasting, reasonable provision is made to assist in the production and broadcasting of drama programmes and in the broadcasting of New Zealand music.
     
-    Section 37: amended, on 14 March 2008, by [section 6(1)][231] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 37: amended, on 14 March 2008, by [section 6(1)][232] of the Broadcasting Amendment Act 2008 (2008 No 3).
     
-    Section 37(a)(ia): inserted, on 14 March 2008, by [section 6(2)][231] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 37(a)(ia): inserted, on 14 March 2008, by [section 6(2)][232] of the Broadcasting Amendment Act 2008 (2008 No 3).
     
-    Section 37(a)(ii): amended, on 14 March 2008, by [section 6(3)][231] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 37(a)(ii): amended, on 14 March 2008, by [section 6(3)][232] of the Broadcasting Amendment Act 2008 (2008 No 3).
     
-    Section 37(b): substituted, on 14 March 2008, by [section 6(4)][231] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 37(b): substituted, on 14 March 2008, by [section 6(4)][232] of the Broadcasting Amendment Act 2008 (2008 No 3).
 
 ##### 38 Powers of Commission
     
 *   \[Repealed\]
     
-    Section 38: repealed, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Section 38: repealed, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 39 Matters to be taken into account in relation to funding proposals
     
@@ -1477,31 +1475,31 @@ Broadcasting Commission
     
     *   (e) in the case of a proposal for the production of any programme or content, the likelihood that the proposed programme or content, if produced, would be broadcast or transmitted on demand.
     
-    Section 39: amended, on 14 March 2008, by [section 7(1)][232] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 39: amended, on 14 March 2008, by [section 7(1)][233] of the Broadcasting Amendment Act 2008 (2008 No 3).
     
-    Section 39(d): amended, on 14 March 2008, by [section 7(2)][232] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 39(d): amended, on 14 March 2008, by [section 7(2)][233] of the Broadcasting Amendment Act 2008 (2008 No 3).
     
-    Section 39(d): amended, on 14 March 2008, by [section 7(3)][232] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 39(d): amended, on 14 March 2008, by [section 7(3)][233] of the Broadcasting Amendment Act 2008 (2008 No 3).
     
-    Section 39(d)(i): amended, on 14 March 2008, by [section 7(4)][232] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 39(d)(i): amended, on 14 March 2008, by [section 7(4)][233] of the Broadcasting Amendment Act 2008 (2008 No 3).
     
-    Section 39(d)(ii): amended, on 14 March 2008, by [section 7(5)][232] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 39(d)(ii): amended, on 14 March 2008, by [section 7(5)][233] of the Broadcasting Amendment Act 2008 (2008 No 3).
     
-    Section 39(e): substituted, on 14 March 2008, by [section 7(6)][232] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 39(e): substituted, on 14 March 2008, by [section 7(6)][233] of the Broadcasting Amendment Act 2008 (2008 No 3).
 
 ##### 39A Funding policies
     
 *   The Commission and Te Reo Whakapuaki Irirangi shall, in carrying out their respective functions under this Act, each have regard to the funding policies adopted by the other.
     
-    Section 39A: inserted, on 1  July 1993, by [section 7][233] of the Broadcasting Amendment Act 1993 (1993 No 69).
+    Section 39A: inserted, on 1  July 1993, by [section 7][234] of the Broadcasting Amendment Act 1993 (1993 No 69).
 
 ##### 40 Requirements in relation to standards
     
 *   The Commission shall require from recipients of funding from the Commission in relation to the production of any programme or content for broadcast, in such form as the Commission shall determine, undertakings that the programme or content will be consistent with the standards specified in [section 4(1)][6].
     
-    Section 40: amended, on 14 March 2008, by [section 8(1)][234] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 40: amended, on 14 March 2008, by [section 8(1)][235] of the Broadcasting Amendment Act 2008 (2008 No 3).
     
-    Section 40: amended, on 14 March 2008, by [section 8(2)][234] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 40: amended, on 14 March 2008, by [section 8(2)][235] of the Broadcasting Amendment Act 2008 (2008 No 3).
 
 ##### 41 Requirements in relation to equal employment opportunities
     
@@ -1509,9 +1507,9 @@ Broadcasting Commission
 
 ##### 42 Prohibition in relation to certain directions
     
-*   Nothing in this Act or the [Crown Entities Act 2004][211] authorises the Commission to give a direction to any person to whom the Commission has made funds available under [section 36][52], in respect of the editorial content of a particular programme.
+*   Nothing in this Act or the [Crown Entities Act 2004][212] authorises the Commission to give a direction to any person to whom the Commission has made funds available under [section 36][52], in respect of the editorial content of a particular programme.
     
-    Section 42: amended, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Section 42: amended, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 43 Contracts in relation to use of funds
     
@@ -1541,55 +1539,55 @@ Broadcasting Commission
     
     Compare: 1976 No 132 s 20(1), (2)(a), (b), (c), (4), (5); 1982 No 6 s 4(1)
     
-    Section 44(1): substituted, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Section 44(1): substituted, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 44(1A): inserted, on 1 December 1995, by [section 20][235] of the Radio New Zealand Act 1995 (1995 No 52).
+    Section 44(1A): inserted, on 1 December 1995, by [section 20][236] of the Radio New Zealand Act 1995 (1995 No 52).
     
-    Section 44(1A): amended, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Section 44(1A): amended, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 44(2): amended, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Section 44(2): amended, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 44(2)(a): substituted, on 14 March 2008, by [section 9(1)][236] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 44(2)(a): substituted, on 14 March 2008, by [section 9(1)][237] of the Broadcasting Amendment Act 2008 (2008 No 3).
     
-    Section 44(2)(b): amended, on 14 March 2008, by [section 9(2)][236] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 44(2)(b): amended, on 14 March 2008, by [section 9(2)][237] of the Broadcasting Amendment Act 2008 (2008 No 3).
     
-    Section 44(3): repealed, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Section 44(3): repealed, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 45 Membership of Commission
     
 *   The board of the Commission consists of not less than 3, and not more than 6, members.
     
-    Section 45: substituted, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Section 45: substituted, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 46 Term of office of members of Commission
     
 *   \[Repealed\]
     
-    Section 46: repealed, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Section 46: repealed, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 47 Public broadcasting fees
     
 *   \[Repealed\]
     
-    Section 47: repealed, on 1 July 2000, by [section 11(a)][237] of the Broadcasting Amendment Act 1999 (1999 No 63).
+    Section 47: repealed, on 1 July 2000, by [section 11(a)][238] of the Broadcasting Amendment Act 1999 (1999 No 63).
 
 ##### 48 Funds of Commission
     
 *   \[Repealed\]
     
-    Section 48: repealed, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Section 48: repealed, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 49 Administrative expenses
     
 *   \[Repealed\]
     
-    Section 49: repealed, on 1 July 2000, by [section 11(c)][237] of the Broadcasting Amendment Act 1999 (1999 No 63).
+    Section 49: repealed, on 1 July 2000, by [section 11(c)][238] of the Broadcasting Amendment Act 1999 (1999 No 63).
 
 ##### 50 Refund of amount of administrative expenses
     
 *   \[Repealed\]
     
-    Section 50: repealed, on 1 July 2000, by [section 11(d)][237] of the Broadcasting Amendment Act 1999 (1999 No 63).
+    Section 50: repealed, on 1 July 2000, by [section 11(d)][238] of the Broadcasting Amendment Act 1999 (1999 No 63).
 
 ##### 51 Exemption from income tax
     
@@ -1599,7 +1597,7 @@ Broadcasting Commission
     
 *   \[Repealed\]
     
-    Section 52: repealed, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Section 52: repealed, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 53 Further provisions applying in respect of Commission
     
@@ -1608,21 +1606,21 @@ Broadcasting Commission
 ## Part 4A  
 Te Reo Whakapuaki Irirangi
     
-*   Part 4A: inserted, on 1 July 1993, by [section 8][238] of the Broadcasting Amendment Act 1993 (1993 No 69).
+*   Part 4A: inserted, on 1 July 1993, by [section 8][239] of the Broadcasting Amendment Act 1993 (1993 No 69).
 
 ##### 53A Establishment of Te Reo Whakapuaki Irirangi
     
 *   (1) There is hereby established an agency to be called Te Reo Whakapuaki Irirangi.
     
-    (2) The Agency is a Crown entity for the purposes of [section 7][210] of the Crown Entities Act 2004\.
+    (2) The Agency is a Crown entity for the purposes of [section 7][211] of the Crown Entities Act 2004\.
     
-    (3) The [Crown Entities Act 2004][211] applies to the Agency except to the extent that this Act expressly provides otherwise.
+    (3) The [Crown Entities Act 2004][212] applies to the Agency except to the extent that this Act expressly provides otherwise.
     
-    Section 53A: inserted, on 1 July 1993, by [section 8][238] of the Broadcasting Amendment Act 1993 (1993 No 69).
+    Section 53A: inserted, on 1 July 1993, by [section 8][239] of the Broadcasting Amendment Act 1993 (1993 No 69).
     
-    Section 53A(2): substituted, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Section 53A(2): substituted, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 53A(3): added, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Section 53A(3): added, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 53B Functions of Te Reo Whakapuaki Irirangi
     
@@ -1642,23 +1640,23 @@ Te Reo Whakapuaki Irirangi
     
     *   (c) archiving content.
     
-    Section 53B: substituted, on 14 March 2008, by [section 10][239] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 53B: substituted, on 14 March 2008, by [section 10][240] of the Broadcasting Amendment Act 2008 (2008 No 3).
 
 ##### 53C Consultation
     
 *   Te Reo Whakapuaki Irirangi shall, in the exercise of its functions under [section 53B][73], consult from time to time with representatives of Maori interests, broadcasters, persons who transmit on demand, and others, being in each case persons or representatives who can, in the opinion of Te Reo Whakapuaki Irirangi, assist in the development of Te Reo Whakapuaki Irirangi's funding policies.
     
-    Section 53C: inserted, on 1 July 1993, by [section 8][238] of the Broadcasting Amendment Act 1993 (1993 No 69).
+    Section 53C: inserted, on 1 July 1993, by [section 8][239] of the Broadcasting Amendment Act 1993 (1993 No 69).
     
-    Section 53C: amended, on 14 March 2008, by [section 11(1)][240] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 53C: amended, on 14 March 2008, by [section 11(1)][241] of the Broadcasting Amendment Act 2008 (2008 No 3).
     
-    Section 53C: amended, on 14 March 2008, by [section 11(2)][240] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 53C: amended, on 14 March 2008, by [section 11(2)][241] of the Broadcasting Amendment Act 2008 (2008 No 3).
 
 ##### 53D Powers of Te Reo Whakapuaki Irirangi
     
 *   \[Repealed\]
     
-    Section 53D: repealed, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Section 53D: repealed, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 53E Matters to be taken into account in relation to funding proposals
     
@@ -1682,27 +1680,27 @@ Te Reo Whakapuaki Irirangi
         
         
     
-    Section 53E: inserted, on 1 July 1993, by [section 8][238] of the Broadcasting Amendment Act 1993 (1993 No 69).
+    Section 53E: inserted, on 1 July 1993, by [section 8][239] of the Broadcasting Amendment Act 1993 (1993 No 69).
     
-    Section 53E: amended, on 14 March 2008, by [section 12(1)][241] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 53E: amended, on 14 March 2008, by [section 12(1)][242] of the Broadcasting Amendment Act 2008 (2008 No 3).
     
-    Section 53E(d): substituted, on 14 March 2008, by [section 12(2)][241] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 53E(d): substituted, on 14 March 2008, by [section 12(2)][242] of the Broadcasting Amendment Act 2008 (2008 No 3).
     
-    Section 53E(e): substituted, on 14 March 2008, by [section 12(3)][241] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 53E(e): substituted, on 14 March 2008, by [section 12(3)][242] of the Broadcasting Amendment Act 2008 (2008 No 3).
     
-    Section 53E(f): added, on 8 May 2003, by [section 59][242] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Act 2003 (2003 No 21).
+    Section 53E(f): added, on 8 May 2003, by [section 59][243] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Act 2003 (2003 No 21).
 
 ##### 53F Requirements in relation to standards
     
 *   Te Reo Whakapuaki Irirangi shall require from recipients of funding from Te Reo Whakapuaki Irirangi in relation to the production of a programme or programmes, in such form as Te Reo Whakapuaki Irirangi shall determine, undertakings that the programme or programmes will be consistent with the standards specified in [section 4(1)][6].
     
-    Section 53F: inserted, on 1 July 1993, by [section 8][238] of the Broadcasting Amendment Act 1993 (1993 No 69).
+    Section 53F: inserted, on 1 July 1993, by [section 8][239] of the Broadcasting Amendment Act 1993 (1993 No 69).
 
 ##### 53G Requirements in relation to equal employment opportunities
     
 *   Te Reo Whakapuaki Irirangi may decline to make funds available under [section 53B][73], where it considers that the prospective recipient is not operating an appropriate equal employment opportunities plan in circumstances where it would be practicable for the prospective recipient to do so.
     
-    Section 53G: inserted, on 1 July 1993, by [section 8][238] of the Broadcasting Amendment Act 1993 (1993 No 69).
+    Section 53G: inserted, on 1 July 1993, by [section 8][239] of the Broadcasting Amendment Act 1993 (1993 No 69).
 
 ##### 53H Contracts in relation to use of funds
     
@@ -1714,61 +1712,61 @@ Te Reo Whakapuaki Irirangi
     
     *   (c) adopt measures to ensure that recipients of funds comply with the terms referred to in paragraph (b).
     
-    Section 53H: inserted, on 1 July 1993, by [section 8][238] of the Broadcasting Amendment Act 1993 (1993 No 69).
+    Section 53H: inserted, on 1 July 1993, by [section 8][239] of the Broadcasting Amendment Act 1993 (1993 No 69).
 
 ##### 53I Membership of Te Reo Whakapuaki Irirangi
     
 *   The board of Te Reo Whakapuaki Irirangi consists of not more than 7 members.
     
-    Section 53I: substituted, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Section 53I: substituted, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 53J Term of office of members of Te Reo Whakapuaki Irirangi
     
 *   \[Repealed\]
     
-    Section 53J: repealed, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Section 53J: repealed, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 53K Funds of Te Reo Whakapuaki Irirangi
     
 *   \[Repealed\]
     
-    Section 53K: repealed, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Section 53K: repealed, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 53L Payment of funds to Te Reo Whakapuaki Irirangi by Commission
     
 *   \[Repealed\]
     
-    Section 53L: repealed, on 1 July 2000, by [section 11(f)][237] of the Broadcasting Amendment Act 1999 (1999 No 63).
+    Section 53L: repealed, on 1 July 2000, by [section 11(f)][238] of the Broadcasting Amendment Act 1999 (1999 No 63).
 
 ##### 53M Administrative expenses
     
 *   \[Repealed\]
     
-    Section 53M: repealed, on 1 July 2000, by [section 11(g)][237] of the Broadcasting Amendment Act 1999 (1999 No 63).
+    Section 53M: repealed, on 1 July 2000, by [section 11(g)][238] of the Broadcasting Amendment Act 1999 (1999 No 63).
 
 ##### 53N Refund of amount of administrative expenses
     
 *   \[Repealed\]
     
-    Section 53N: repealed, on 1 July 2000, by [section 11(h)][237] of the Broadcasting Amendment Act 1999 (1999 No 63).
+    Section 53N: repealed, on 1 July 2000, by [section 11(h)][238] of the Broadcasting Amendment Act 1999 (1999 No 63).
 
 ##### 53O Exemption from income tax
     
 *   The income of Te Reo Whakapuaki Irirangi shall be exempt from income tax.
     
-    Section 53O: inserted, on 1 July 1993, by [section 8][238] of the Broadcasting Amendment Act 1993 (1993 No 69).
+    Section 53O: inserted, on 1 July 1993, by [section 8][239] of the Broadcasting Amendment Act 1993 (1993 No 69).
 
 ##### 53P Seal
     
 *   \[Repealed\]
     
-    Section 53P: repealed, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Section 53P: repealed, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 53Q Crown entity
     
 *   \[Repealed\]
     
-    Section 53Q: repealed, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Section 53Q: repealed, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 53R Further provisions applying in respect of Te Reo Whakapuaki Irirangi
     
@@ -1776,9 +1774,9 @@ Te Reo Whakapuaki Irirangi
     
     (2) \[Repealed\]
     
-    Section 53R: inserted, on 1 July 1993, by [section 8][238] of the Broadcasting Amendment Act 1993 (1993 No 69).
+    Section 53R: inserted, on 1 July 1993, by [section 8][239] of the Broadcasting Amendment Act 1993 (1993 No 69).
     
-    Section 53R(2): repealed, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Section 53R(2): repealed, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 53S Te Reo Whakapuaki Irirangi to have regard to Government policy
     
@@ -1790,19 +1788,19 @@ Te Reo Whakapuaki Irirangi
     
     *   (b) the gathering or presentation of news or the preparation or presentation of any current affairs programme or content.
     
-    (3) Subsection (2) applies despite [subpart 1][243] of Part 3 of the Crown Entities Act 2004\.
+    (3) Subsection (2) applies despite [subpart 1][244] of Part 3 of the Crown Entities Act 2004\.
     
-    Section 53S: inserted, on 1 July 2000, by [section 8][244] of the Broadcasting Amendment Act 2000 (2000 No 3).
+    Section 53S: inserted, on 1 July 2000, by [section 8][245] of the Broadcasting Amendment Act 2000 (2000 No 3).
     
-    Section 53S(1): repealed, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Section 53S(1): repealed, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 53S(2): amended, on 10 April 2003, by [section 4(2)][245] of the Broadcasting Amendment Act 2003 (2003 No 14).
+    Section 53S(2): amended, on 10 April 2003, by [section 4(2)][246] of the Broadcasting Amendment Act 2003 (2003 No 14).
     
-    Section 53S(2)(a): substituted, on 14 March 2008, by [section 13(1)][246] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 53S(2)(a): substituted, on 14 March 2008, by [section 13(1)][247] of the Broadcasting Amendment Act 2008 (2008 No 3).
     
-    Section 53S(2)(b): amended, on 14 March 2008, by [section 13(2)][246] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 53S(2)(b): amended, on 14 March 2008, by [section 13(2)][247] of the Broadcasting Amendment Act 2008 (2008 No 3).
     
-    Section 53S(3): substituted, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Section 53S(3): substituted, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ## Part 5  
 Restrictions on broadcasting by overseas persons
@@ -1904,17 +1902,17 @@ Restrictions on broadcasting by overseas persons
 ## Part 6  
 Parliamentary election programmes
     
-*   Part 6: substituted, on 28 August 1990, by [section 8][247] of the Broadcasting Amendment Act (No 2) 1990 (1990 No 103).
+*   Part 6: substituted, on 28 August 1990, by [section 8][248] of the Broadcasting Amendment Act (No 2) 1990 (1990 No 103).
 
 ##### 69 Interpretation
     
 *   (1) In this Part, unless the context otherwise requires,---
     
-    _by-election_ means a by-election within the meaning of [section 3(1)][248] of the Electoral Act 1993
+    _by-election_ means a by-election within the meaning of [section 3(1)][249] of the Electoral Act 1993
     
-    _candidate_ has the meaning given to that term by [section 3][248] of the Electoral Act 1993
+    _candidate_ has the meaning given to that term by [section 3][249] of the Electoral Act 1993
     
-    _constituency candidate_ has the meaning given to that term by [section 3][248] of the Electoral Act 1993
+    _constituency candidate_ has the meaning given to that term by [section 3][249] of the Electoral Act 1993
     
     _election_---
         
@@ -1940,15 +1938,15 @@ Parliamentary election programmes
     
     *   (e) notifies meetings held or to be held in connection with an election
     
-    _Electoral Commission_ means the Electoral Commission established by [section 4B][249] of the Electoral Act 1993
+    _Electoral Commission_ means the Electoral Commission established by [section 4B][250] of the Electoral Act 1993
     
     _free-to-air television broadcasting_ means broadcasting of television programmes by means of radio waves propagated in space without artificial guide, where persons wishing to view programmes are not required to pay to do so
     
-    _general election_ means a general election within the meaning of the [Electoral Act 1993][250]
+    _general election_ means a general election within the meaning of the [Electoral Act 1993][251]
     
     _production costs_, in relation to an opening address or a closing address, includes the costs of linking between venues and broadcasting studios
     
-    _Register_ and _Register of Political Parties_ means the Register of Political Parties established under [section 62(2)][251] of the Electoral Act 1993
+    _Register_ and _Register of Political Parties_ means the Register of Political Parties established under [section 62(2)][252] of the Electoral Act 1993
     
     _RNZ_ means Radio New Zealand Limited
     
@@ -1956,17 +1954,17 @@ Parliamentary election programmes
     
     (2) Notwithstanding [section 2][3], for the purposes of the definition of the term election programme, the term **programme** includes visual images, whether or not combined with sounds, that consist predominantly of alphanumeric text.
     
-    Section 69: substituted, on 1 July 1996, by [section 17][252] of the Broadcasting Amendment Act 1996 (1996 No 53).
+    Section 69: substituted, on 1 July 1996, by [section 17][253] of the Broadcasting Amendment Act 1996 (1996 No 53).
     
-    Section 69(1) **by-election**: inserted, on 7 December 2004, by [section 4(1)][253] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 69(1) **by-election**: inserted, on 7 December 2004, by [section 4(1)][254] of the Broadcasting Amendment Act 2004 (2004 No 100).
     
-    Section 69(1) **election**: substituted, on 7 December 2004, by [section 4(2)][253] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 69(1) **election**: substituted, on 7 December 2004, by [section 4(2)][254] of the Broadcasting Amendment Act 2004 (2004 No 100).
     
-    Section 69(1) **Electoral Commission**: amended, on 1 July 2012, by [section 53(2)][254] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 69(1) **Electoral Commission**: amended, on 1 July 2012, by [section 53(2)][255] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
-    Section 69(1) **RNZ**: added, on 7 December 2004, by [section 4(1)][253] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 69(1) **RNZ**: added, on 7 December 2004, by [section 4(1)][254] of the Broadcasting Amendment Act 2004 (2004 No 100).
     
-    Section 69(1) **TVNZ**: added, on 7 December 2004, by [section 4(1)][253] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 69(1) **TVNZ**: added, on 7 December 2004, by [section 4(1)][254] of the Broadcasting Amendment Act 2004 (2004 No 100).
 
 ##### 69A Limited application of this Part to by-elections
     
@@ -1974,7 +1972,7 @@ Parliamentary election programmes
     
     (2) If there is any inconsistency between subsection (1) and any other provision in this Part, subsection (1) prevails.
     
-    Section 69A: inserted, on 7 December 2004, by [section 5][255] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 69A: inserted, on 7 December 2004, by [section 5][256] of the Broadcasting Amendment Act 2004 (2004 No 100).
 
 ##### 70 Prohibition on paid election programmes
     
@@ -2004,39 +2002,39 @@ Parliamentary election programmes
         
         
     
-    *   (d) any advertisement placed by the Electoral Commission, a Registrar of Electors, a Returning Officer, or other official for the purposes of the [Electoral Act 1993][250]; or
+    *   (d) any advertisement placed by the Electoral Commission, a Registrar of Electors, a Returning Officer, or other official for the purposes of the [Electoral Act 1993][251]; or
     
     *   (e) any non-partisan advertisement broadcast, as a community service, by the broadcaster.
     
     (2A) Nothing in subsection (1) restricts the amount of money that a political party or group of related political parties may spend on the production costs of an election programme.
     
-    (2B) Nothing in this Act derogates from [section 214B][256] of the Electoral Act 1993\.
+    (2B) Nothing in this Act derogates from [section 214B][257] of the Electoral Act 1993\.
     
     (3) Nothing in subsection (1) restricts the broadcasting, in relation to an election, of news or of comments or of current affairs programmes.
     
     (4) For the purposes of subsection (2)(c)(ii), the term _constituency candidate_ includes a person who has declared his or her intention of becoming a constituency candidate.
     
-    Section 70: substituted, on 8 July 1993, by [section 9][257] of the Broadcasting Amendment Act 1993 (1993 No 69).
+    Section 70: substituted, on 8 July 1993, by [section 9][258] of the Broadcasting Amendment Act 1993 (1993 No 69).
     
-    Section 70(1): amended, on 1 July 1996, by [section 18(1)][258] of the Broadcasting Amendment Act 1996 (1996 No 53).
+    Section 70(1): amended, on 1 July 1996, by [section 18(1)][259] of the Broadcasting Amendment Act 1996 (1996 No 53).
     
-    Section 70(2)(a): substituted, on 7 December 2004, by [section 6(1)][259] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 70(2)(a): substituted, on 7 December 2004, by [section 6(1)][260] of the Broadcasting Amendment Act 2004 (2004 No 100).
     
-    Section 70(2)(c)(ii): substituted, on 7 December 2004, by [section 6(2)][259] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 70(2)(c)(ii): substituted, on 7 December 2004, by [section 6(2)][260] of the Broadcasting Amendment Act 2004 (2004 No 100).
     
-    Section 70(2)(c)(iv): amended, on 20 December 2007, by [section 8][260] of the Broadcasting Amendment Act (No 2) 2007 (2007 No 112).
+    Section 70(2)(c)(iv): amended, on 20 December 2007, by [section 8][261] of the Broadcasting Amendment Act (No 2) 2007 (2007 No 112).
     
-    Section 70(2)(d): substituted, on 1 July 1996, by [section 18(2)][258] of the Broadcasting Amendment Act 1996 (1996 No 53).
+    Section 70(2)(d): substituted, on 1 July 1996, by [section 18(2)][259] of the Broadcasting Amendment Act 1996 (1996 No 53).
     
-    Section 70(2)(d): amended, on 1 July 2012, by [section 53(3)][254] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 70(2)(d): amended, on 1 July 2012, by [section 53(3)][255] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
-    Section 70(2)(d): amended, on 1 October 2010, by [section 32(2)(b)][261] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
+    Section 70(2)(d): amended, on 1 October 2010, by [section 32(2)(b)][262] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
     
-    Section 70(2A): inserted, on 1 July 1996, by [section 18(3)][258] of the Broadcasting Amendment Act 1996 (1996 No 53).
+    Section 70(2A): inserted, on 1 July 1996, by [section 18(3)][259] of the Broadcasting Amendment Act 1996 (1996 No 53).
     
-    Section 70(2B): inserted, on 1 July 1996, by [section 18(3)][258] of the Broadcasting Amendment Act 1996 (1996 No 53).
+    Section 70(2B): inserted, on 1 July 1996, by [section 18(3)][259] of the Broadcasting Amendment Act 1996 (1996 No 53).
     
-    Section 70(4): added, on 7 December 2004, by [section 6(3)][259] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 70(4): added, on 7 December 2004, by [section 6(3)][260] of the Broadcasting Amendment Act 2004 (2004 No 100).
 
 ##### 70A Obligation of political parties to give notice to Electoral Commission
     
@@ -2046,13 +2044,13 @@ Parliamentary election programmes
     
     (3) Each political party that considers that it will qualify for an allocation of time under [section 73][120] or of money under [section 74A][123] in respect of an election period shall notify the Electoral Commission in writing that it considers itself to be so qualified.
     
-    Section 70A: substituted, on 1 July 1996, by [section 19][262] of the Broadcasting Amendment Act 1996 (1996 No 53).
+    Section 70A: substituted, on 1 July 1996, by [section 19][263] of the Broadcasting Amendment Act 1996 (1996 No 53).
 
 ##### 70B Time by which notice must be given
     
 *   Every notice given under [section 70A(3)][111] must be given not later than the date specified under [section 70A(1)][111].
     
-    Section 70B: substituted, on 7 December 2004, by [section 7][263] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 70B: substituted, on 7 December 2004, by [section 7][264] of the Broadcasting Amendment Act 2004 (2004 No 100).
 
 ##### 70C Particulars of notice
     
@@ -2076,25 +2074,25 @@ Parliamentary election programmes
         
         
     
-    *   (g) whether or not the political party intends to submit a list under [section 127][264] of the Electoral Act 1993 for the general election to be held in that year.
+    *   (g) whether or not the political party intends to submit a list under [section 127][265] of the Electoral Act 1993 for the general election to be held in that year.
     
-    Section 70C: substituted, on 1 July 1996, by [section 19][262] of the Broadcasting Amendment Act 1996 (1996 No 53).
+    Section 70C: substituted, on 1 July 1996, by [section 19][263] of the Broadcasting Amendment Act 1996 (1996 No 53).
     
-    Section 70C heading: amended, on 14 March 2008, by [section 14][181] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 70C heading: amended, on 14 March 2008, by [section 14][182] of the Broadcasting Amendment Act 2008 (2008 No 3).
     
-    Section 70C(d): repealed, on 7 December 2004, by [section 8(1)][265] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 70C(d): repealed, on 7 December 2004, by [section 8(1)][266] of the Broadcasting Amendment Act 2004 (2004 No 100).
     
-    Section 70C(e): amended, on 14 March 2008, by [section 14][181] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 70C(e): amended, on 14 March 2008, by [section 14][182] of the Broadcasting Amendment Act 2008 (2008 No 3).
     
-    Section 70C(f)(ii): substituted, on 7 December 2004, by [section 8(2)][265] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 70C(f)(ii): substituted, on 7 December 2004, by [section 8(2)][266] of the Broadcasting Amendment Act 2004 (2004 No 100).
     
-    Section 70C(g): substituted, on 7 December 2004, by [section 8(3)][265] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 70C(g): substituted, on 7 December 2004, by [section 8(3)][266] of the Broadcasting Amendment Act 2004 (2004 No 100).
 
 ##### 70D Persons deemed to be candidates
     
 *   \[Repealed\]
     
-    Section 70D: repealed, on 7 December 2004, by [section 9][266] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 70D: repealed, on 7 December 2004, by [section 9][267] of the Broadcasting Amendment Act 2004 (2004 No 100).
 
 ##### 71 Opening addresses and closing addresses to be broadcast free
     
@@ -2106,9 +2104,9 @@ Parliamentary election programmes
     
     (4) Opening addresses and closing addresses must be broadcast in accordance with [section 77A][133] (which sets out when, and at what time, opening addresses and closing addresses are to be broadcast, and certain other provisions relating to the broadcasting of opening addresses and closing addresses).
     
-    Section 71: substituted, on 7 December 2004, by [section 10][267] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 71: substituted, on 7 December 2004, by [section 10][268] of the Broadcasting Amendment Act 2004 (2004 No 100).
     
-    Section 71(4): amended, on 14 March 2008, by [section 14][181] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 71(4): amended, on 14 March 2008, by [section 14][182] of the Broadcasting Amendment Act 2008 (2008 No 3).
 
 ##### 71A Electoral Commission to ascertain time available for opening addresses and closing addresses
     
@@ -2124,7 +2122,7 @@ Parliamentary election programmes
     
     (4) In making proposals under subsection (3)(a), TVNZ or RNZ, as the case requires, must have regard to the provisions of [section 75][125].
     
-    Section 71A: substituted, on 7 December 2004, by [section 10][267] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 71A: substituted, on 7 December 2004, by [section 10][268] of the Broadcasting Amendment Act 2004 (2004 No 100).
 
 ##### 72 Electoral Commission to refer statements to political parties
     
@@ -2136,19 +2134,19 @@ Parliamentary election programmes
     
     (2) The Electoral Commission must ensure, as far as practicable, that each of the intended recipients receives copies of the statements on the same day.
     
-    Section 72: substituted, on 7 December 2004, by [section 10][267] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 72: substituted, on 7 December 2004, by [section 10][268] of the Broadcasting Amendment Act 2004 (2004 No 100).
 
 ##### 72A Limits on amount of time
     
 *   \[Repealed\]
     
-    Section 72A: repealed, on 28 August 1990, by [section 8][247] of the Broadcasting Amendment Act (No 2) 1990 (1990 No 103).
+    Section 72A: repealed, on 28 August 1990, by [section 8][248] of the Broadcasting Amendment Act (No 2) 1990 (1990 No 103).
 
 ##### 72B Radio election programmes confined to broadcasting stations that broadcast advertising programmes
     
 *   \[Repealed\]
     
-    Section 72B: repealed, on 28 August 1990, by [section 8][247] of the Broadcasting Amendment Act (No 2) 1990 (1990 No 103).
+    Section 72B: repealed, on 28 August 1990, by [section 8][248] of the Broadcasting Amendment Act (No 2) 1990 (1990 No 103).
 
 ##### 73 Allocation of time to political parties
     
@@ -2164,13 +2162,13 @@ Parliamentary election programmes
     
     (4) This section is subject to [sections 75][125], [75A][126], and [76][127].
     
-    Section 73: substituted, on 7 December 2004, by [section 10][267] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 73: substituted, on 7 December 2004, by [section 10][268] of the Broadcasting Amendment Act 2004 (2004 No 100).
 
 ##### 73A Obligation of political parties to give notice to Authority
     
 *   \[Repealed\]
     
-    Section 73A: repealed, on 28 August 1990, by [section 8][247] of the Broadcasting Amendment Act (No 2) 1990 (1990 No 103).
+    Section 73A: repealed, on 28 August 1990, by [section 8][248] of the Broadcasting Amendment Act (No 2) 1990 (1990 No 103).
 
 ##### 74 Amount of public money to be allocated to political parties
     
@@ -2180,7 +2178,7 @@ Parliamentary election programmes
     
     (3) Where an amount of money is deemed by subsection (2) to have been appropriated by Parliament for the purpose specified in that subsection, that amount shall be payable out of public money for that purpose without further appropriation than this subsection.
     
-    Section 74: substituted, on 1 July 1996, by [section 19][262] of the Broadcasting Amendment Act 1996 (1996 No 53).
+    Section 74: substituted, on 1 July 1996, by [section 19][263] of the Broadcasting Amendment Act 1996 (1996 No 53).
 
 ##### 74A Allocation of money to political parties
     
@@ -2202,7 +2200,7 @@ Parliamentary election programmes
     
     (5) The Electoral Commission shall not under this section allocate any money to an individual political party if that political party has received an allocation of money under this section as part of a group of related political parties.
     
-    Section 74A: substituted, on 1 July 1996, by [section 19][262] of the Broadcasting Amendment Act 1996 (1996 No 53).
+    Section 74A: substituted, on 1 July 1996, by [section 19][263] of the Broadcasting Amendment Act 1996 (1996 No 53).
 
 ##### 74B Application and payment of allocation
     
@@ -2236,15 +2234,15 @@ Parliamentary election programmes
     
     (4) When the Electoral Commission is satisfied in relation to any account that the account or any part of the account should be paid, the Electoral Commission shall, out of money appropriated by Parliament, or deemed to have been appropriated by Parliament, for the purpose of enabling political parties to meet all or part of the costs of broadcasting election programmes during the election period, pay to the person who issued the account the amount approved by the Electoral Commission for payment.
     
-    (5) An amount of money that has been allocated to a political party under [section 74A][123] on or after the commencement of the [Broadcasting Amendment Act 2004][268] and that is not paid out under subsection (4) must be repaid by the Electoral Commission to the Crown.
+    (5) An amount of money that has been allocated to a political party under [section 74A][123] on or after the commencement of the [Broadcasting Amendment Act 2004][269] and that is not paid out under subsection (4) must be repaid by the Electoral Commission to the Crown.
     
-    Section 74B: substituted, on 1 July 1996, by [section 19][262] of the Broadcasting Amendment Act 1996 (1996 No 53).
+    Section 74B: substituted, on 1 July 1996, by [section 19][263] of the Broadcasting Amendment Act 1996 (1996 No 53).
     
-    Section 74B(2): substituted, on 7 December 2004, by [section 11(1)][269] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 74B(2): substituted, on 7 December 2004, by [section 11(1)][270] of the Broadcasting Amendment Act 2004 (2004 No 100).
     
-    Section 74B(2A): inserted, on 7 December 2004, by [section 11(1)][269] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 74B(2A): inserted, on 7 December 2004, by [section 11(1)][270] of the Broadcasting Amendment Act 2004 (2004 No 100).
     
-    Section 74B(5): added, on 7 December 2004, by [section 11(2)][269] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 74B(5): added, on 7 December 2004, by [section 11(2)][270] of the Broadcasting Amendment Act 2004 (2004 No 100).
 
 ##### 75 Criteria in relation to allocation of time and money to political parties
     
@@ -2270,15 +2268,15 @@ Parliamentary election programmes
     
     (3) Despite anything in subsection (1) or subsection (2), an allocation of time to a political party made under [section 73][120] in respect of an election period, or a decision made under [section 74A][123] in respect of an election period, may be made before the beginning of the election period.
     
-    Section 75: substituted, on 1 July 1996, by [section 19][262] of the Broadcasting Amendment Act 1996 (1996 No 53).
+    Section 75: substituted, on 1 July 1996, by [section 19][263] of the Broadcasting Amendment Act 1996 (1996 No 53).
     
-    Section 75(1): substituted, on 7 December 2004, by [section 12(1)][270] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 75(1): substituted, on 7 December 2004, by [section 12(1)][271] of the Broadcasting Amendment Act 2004 (2004 No 100).
     
-    Section 75(2)(c): substituted, on 7 December 2004, by [section 12(2)][270] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 75(2)(c): substituted, on 7 December 2004, by [section 12(2)][271] of the Broadcasting Amendment Act 2004 (2004 No 100).
     
-    Section 75(2)(f): amended, on 7 December 2004, by [section 12(3)][270] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 75(2)(f): amended, on 7 December 2004, by [section 12(3)][271] of the Broadcasting Amendment Act 2004 (2004 No 100).
     
-    Section 75(3): substituted, on 7 December 2004, by [section 12(4)][270] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 75(3): substituted, on 7 December 2004, by [section 12(4)][271] of the Broadcasting Amendment Act 2004 (2004 No 100).
 
 ##### 75A Consultation with broadcasters
     
@@ -2312,7 +2310,7 @@ Parliamentary election programmes
     
     *   (b) does not affect the validity of any allocation or determination made under any of those sections.
     
-    Section 75A: substituted, on 7 December 2004, by [section 13][271] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 75A: substituted, on 7 December 2004, by [section 13][272] of the Broadcasting Amendment Act 2004 (2004 No 100).
 
 ##### 76 Consultation with political parties
     
@@ -2342,7 +2340,7 @@ Parliamentary election programmes
     
     *   (b) does not affect the validity of any allocation or determination made under any of those sections.
     
-    Section 76: substituted, on 7 December 2004, by [section 13][271] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 76: substituted, on 7 December 2004, by [section 13][272] of the Broadcasting Amendment Act 2004 (2004 No 100).
 
 ##### 76A Power of Electoral Commission to vary allocations
     
@@ -2354,7 +2352,7 @@ Parliamentary election programmes
     
     *   (c) the party ceases to be registered; or
     
-    *   (d) the party fails to submit a list of candidates for election to the seats reserved for those members of Parliament elected from lists pursuant to [section 127][264] of the Electoral Act 1993; or
+    *   (d) the party fails to submit a list of candidates for election to the seats reserved for those members of Parliament elected from lists pursuant to [section 127][265] of the Electoral Act 1993; or
     
     *   (da) the party fails to comply with any conditions imposed by the Electoral Commission under [section 74A(2)(b)][123] requiring the political party or group of related political parties to advise the Electoral Commission of the value of election programme bookings made by the political party or group of related parties; or
     
@@ -2374,21 +2372,21 @@ Parliamentary election programmes
     
     (4) Where effect has been given in whole or in part to an allocation made under [section 73][120] or [section 74A][123] to a political party, the Electoral Commission shall not vary the allocation pursuant to this section unless---
         
-    *   (a) the registration of that political party is cancelled under [section 70][272] of the Electoral Act 1993; or
+    *   (a) the registration of that political party is cancelled under [section 70][273] of the Electoral Act 1993; or
     
-    *   (b) the secretary of a political party has failed to submit a list of candidates for election under [section 127][264] of the Electoral Act 1993\.
+    *   (b) the secretary of a political party has failed to submit a list of candidates for election under [section 127][265] of the Electoral Act 1993\.
     
     *   (c) \[Repealed\]
     
-    Section 76A: substituted, on 1 July 1996, by [section 19][262] of the Broadcasting Amendment Act 1996 (1996 No 53).
+    Section 76A: substituted, on 1 July 1996, by [section 19][263] of the Broadcasting Amendment Act 1996 (1996 No 53).
     
-    Section 76A(1)(da): inserted, on 7 December 2004, by [section 14(1)][273] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 76A(1)(da): inserted, on 7 December 2004, by [section 14(1)][274] of the Broadcasting Amendment Act 2004 (2004 No 100).
     
-    Section 76A(1)(f): repealed, on 7 December 2004, by [section 14(2)][273] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 76A(1)(f): repealed, on 7 December 2004, by [section 14(2)][274] of the Broadcasting Amendment Act 2004 (2004 No 100).
     
-    Section 76A(4)(b): substituted, on 7 December 2004, by [section 14(3)][273] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 76A(4)(b): substituted, on 7 December 2004, by [section 14(3)][274] of the Broadcasting Amendment Act 2004 (2004 No 100).
     
-    Section 76A(4)(c): repealed, on 7 December 2004, by [section 14(3)][273] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 76A(4)(c): repealed, on 7 December 2004, by [section 14(3)][274] of the Broadcasting Amendment Act 2004 (2004 No 100).
 
 ##### 76B Recovery of money from political party
     
@@ -2400,9 +2398,9 @@ Parliamentary election programmes
     
     *   (b) the Secretary for Justice may recover from the political party as a debt due to the Crown the amount specified in the determination as being repayable to the Crown by the political party.
     
-    Section 76B: substituted, on 1 July 1996, by [section 19][262] of the Broadcasting Amendment Act 1996 (1996 No 53).
+    Section 76B: substituted, on 1 July 1996, by [section 19][263] of the Broadcasting Amendment Act 1996 (1996 No 53).
     
-    Section 76B(1): amended, on 14 March 2008, by [section 14][181] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 76B(1): amended, on 14 March 2008, by [section 14][182] of the Broadcasting Amendment Act 2008 (2008 No 3).
 
 ##### 76C Procedure in relation to early elections
     
@@ -2418,7 +2416,7 @@ Parliamentary election programmes
     
     *   (b) any notice given by the Electoral Commission under [section 70A(1)][111] must be disregarded.
     
-    Section 76C: substituted, on 7 December 2004, by [section 15][274] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 76C: substituted, on 7 December 2004, by [section 15][275] of the Broadcasting Amendment Act 2004 (2004 No 100).
 
 ##### 76D Modifications to application of this Part if section 76C applies
     
@@ -2442,7 +2440,7 @@ Parliamentary election programmes
     
     (6) The Electoral Commission may require any political party that wishes to make use of the opportunity to meet with and be heard by the Electoral Commission under [section 76(2)][127] to make use of that opportunity within any reasonable period of time that the Electoral Commission specifies.
     
-    Section 76D: inserted, on 7 December 2004, by [section 15][274] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 76D: inserted, on 7 December 2004, by [section 15][275] of the Broadcasting Amendment Act 2004 (2004 No 100).
 
 ##### 77 Broadcasting of opening addresses and closing addresses
     
@@ -2462,7 +2460,7 @@ Parliamentary election programmes
     
     *   (b) the Electoral Commission's decision is final.
     
-    Section 77: substituted, on 7 December 2004, by [section 15][274] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 77: substituted, on 7 December 2004, by [section 15][275] of the Broadcasting Amendment Act 2004 (2004 No 100).
 
 ##### 77A Opening addresses and closing addresses
     
@@ -2496,13 +2494,13 @@ Parliamentary election programmes
     
     (6) Each amount paid under subsection (5)(b) must be paid out of public money appropriated by Parliament (or deemed by [section 74(2)][122] to have been appropriated by Parliament) for the purpose specified in section 74(1).
     
-    Section 77A: substituted, on 7 December 2004, by [section 15][274] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 77A: substituted, on 7 December 2004, by [section 15][275] of the Broadcasting Amendment Act 2004 (2004 No 100).
 
 ##### 77B Duration of television programmes
     
 *   \[Repealed\]
     
-    Section 77B: repealed, on 28 August 1990, by [section 8][247] of the Broadcasting Amendment Act (No 2) 1990 (1990 No 103).
+    Section 77B: repealed, on 28 August 1990, by [section 8][248] of the Broadcasting Amendment Act (No 2) 1990 (1990 No 103).
 
 ##### 78 Simulcasting of free-to-air television programmes
     
@@ -2514,7 +2512,7 @@ Parliamentary election programmes
     
 *   Nothing in [section 4(1)(d)][6] applies in relation to an election programme broadcast pursuant to this Part.
     
-    Section 79: substituted, on 1 July 1996, by [section 19][262] of the Broadcasting Amendment Act 1996 (1996 No 53).
+    Section 79: substituted, on 1 July 1996, by [section 19][263] of the Broadcasting Amendment Act 1996 (1996 No 53).
 
 ##### 79A Hours during which election programmes prohibited
     
@@ -2546,7 +2544,7 @@ Parliamentary election programmes
     
     *   (c) Easter Sunday.
     
-    Section 79A: substituted, on 1 July 1996, by [section 19][262] of the Broadcasting Amendment Act 1996 (1996 No 53).
+    Section 79A: substituted, on 1 July 1996, by [section 19][263] of the Broadcasting Amendment Act 1996 (1996 No 53).
 
 ##### 79B Obligation to give identical terms to each political party or candidate
     
@@ -2554,9 +2552,9 @@ Parliamentary election programmes
     
     (2) No broadcaster shall offer or give to any candidate terms for broadcasting time that are more favourable than those offered or given to any other candidate who buys or expresses an interest in buying comparable time from that broadcaster.
     
-    Section 79B: substituted, on 1 July 1996, by [section 19][262] of the Broadcasting Amendment Act 1996 (1996 No 53).
+    Section 79B: substituted, on 1 July 1996, by [section 19][263] of the Broadcasting Amendment Act 1996 (1996 No 53).
     
-    Section 79B(1): amended, on 7 December 2004, by [section 16][275] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 79B(1): amended, on 7 December 2004, by [section 16][276] of the Broadcasting Amendment Act 2004 (2004 No 100).
 
 ##### 79C Returns in relation to broadcasting time
     
@@ -2576,15 +2574,15 @@ Parliamentary election programmes
     
     (4) The statement must be signed by or on behalf of the broadcaster.
     
-    Section 79C: substituted, on 7 December 2004, by [section 17][276] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 79C: substituted, on 7 December 2004, by [section 17][277] of the Broadcasting Amendment Act 2004 (2004 No 100).
 
 ##### 79D Returns to be available for public inspection
     
 *   The Electoral Commission must, not later than 3 working days after it receives a statement under [section 79C][139], make the statement available for public inspection, without payment, at any time between 9 am and 5 pm, on any day on which the office of the Electoral Commission is open.
     
-    Section 79D: inserted, on 7 December 2004, by [section 17][276] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 79D: inserted, on 7 December 2004, by [section 17][277] of the Broadcasting Amendment Act 2004 (2004 No 100).
     
-    Section 79D: amended, on 1 October 2010, by [section 32(2)(b)][261] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
+    Section 79D: amended, on 1 October 2010, by [section 32(2)(b)][262] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
 
 ##### 80 Offences
     
@@ -2602,17 +2600,17 @@ Parliamentary election programmes
     
     other than pursuant to, and in conformity with, this Part.
     
-    Section 80: substituted, on 1 July 1996, by [section 19][262] of the Broadcasting Amendment Act 1996 (1996 No 53).
+    Section 80: substituted, on 1 July 1996, by [section 19][263] of the Broadcasting Amendment Act 1996 (1996 No 53).
     
-    Section 80: amended, on 1 July 2013, by [section 413][201] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 80: amended, on 1 July 2013, by [section 413][202] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 80(a): amended, on 7 December 2004, by [section 18][277] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 80(a): amended, on 7 December 2004, by [section 18][278] of the Broadcasting Amendment Act 2004 (2004 No 100).
 
 ##### 80A Duty to report suspected offences
     
 *   Where the Electoral Commission believes that any person has committed an offence against [section 80][141], the Electoral Commission must report to the Police the facts upon which that belief is based.
     
-    Section 80A: inserted, on 7 December 2004, by [section 19][278] of the Broadcasting Amendment Act 2004 (2004 No 100).
+    Section 80A: inserted, on 7 December 2004, by [section 19][279] of the Broadcasting Amendment Act 2004 (2004 No 100).
 
 ## Part 7  
 Miscellaneous provisions
@@ -2663,23 +2661,23 @@ Miscellaneous provisions
     
     Compare: 1976 No 132 s 73A; 1985 No 61 s 6
     
-    Section 81(3): amended, on 1 July 2013, by [section 413][201] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 81(3): amended, on 1 July 2013, by [section 413][202] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 81(5): added, on 8 July 1993, by [section 20][279] of the Broadcasting Amendment Act 1993 (1993 No 69).
+    Section 81(5): added, on 8 July 1993, by [section 20][280] of the Broadcasting Amendment Act 1993 (1993 No 69).
     
-    Section 81(6): added, on 8 July 1993, by [section 20][279] of the Broadcasting Amendment Act 1993 (1993 No 69).
+    Section 81(6): added, on 8 July 1993, by [section 20][280] of the Broadcasting Amendment Act 1993 (1993 No 69).
 
 ##### 82 Regulations
     
 *   \[Repealed\]
     
-    Section 82: repealed, on 1 July 2000, by [section 11(i)][237] of the Broadcasting Amendment Act 1999 (1999 No 63).
+    Section 82: repealed, on 1 July 2000, by [section 11(i)][238] of the Broadcasting Amendment Act 1999 (1999 No 63).
 
 ##### 83 Amendment to Commerce Act 1986
     
 *   \[Repealed\]
     
-    Section 83: repealed, on 1 January 1991, by [section 46][280] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 83: repealed, on 1 January 1991, by [section 46][281] of the Commerce Amendment Act 1990 (1990 No 41).
 
 ##### 84 Amendment to State-Owned Enterprises Amendment Act 1987
     
@@ -2691,11 +2689,11 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 85: repealed, on 21 December 1992, by [section 42][281] of the Public Finance Amendment Act 1992 (1992 No 142).
+    Section 85: repealed, on 21 December 1992, by [section 42][282] of the Public Finance Amendment Act 1992 (1992 No 142).
 
 ##### 86 Amendment to Telecommunications Act 1987
     
-*   _Amendment(s) incorporated in the [Act(s)][282]._
+*   _Amendment(s) incorporated in the [Act(s)][283]._
 
 ##### 87 Amendment to State-Owned Enterprises Amendment Act (No 4) 1988
     
@@ -2709,21 +2707,21 @@ Miscellaneous provisions
     
 *   (1) The enactments specified in [Schedule 3][164] are hereby repealed.
     
-    (2) Without limiting the provisions of the [Interpretation Act 1999][283], it is hereby declared that the repeal of the Broadcasting Amendment Act (No 2) 1988 does not affect the amendments made by section 15 of that Act to---
+    (2) Without limiting the provisions of the [Interpretation Act 1999][284], it is hereby declared that the repeal of the Broadcasting Amendment Act (No 2) 1988 does not affect the amendments made by section 15 of that Act to---
         
     *   (a) \[Repealed\]
     
-    *   (b) the [Local Authorities (Members' Interests) Act 1968][284]; and
+    *   (b) the [Local Authorities (Members' Interests) Act 1968][285]; and
     
     *   (c) the Queen Elizabeth the Second Arts Council of New Zealand Act 1974; and
     
-    *   (d) the [Official Information Act 1982][285]; and
+    *   (d) the [Official Information Act 1982][286]; and
     
     *   (e) the Civil Defence Act 1983\.
     
-    Section 89(2): amended, on 1 November 1999, pursuant to [section 38(1)][286] of the Interpretation Act 1999 (1999 No 85).
+    Section 89(2): amended, on 1 November 1999, pursuant to [section 38(1)][287] of the Interpretation Act 1999 (1999 No 85).
     
-    Section 89(2)(a): repealed, on 1 January 1995, by [section 236(2)][287] of the Copyright Act 1994 (1994 No 143).
+    Section 89(2)(a): repealed, on 1 January 1995, by [section 236(2)][288] of the Copyright Act 1994 (1994 No 143).
 
 ##### 90 Revocations
     
@@ -2733,43 +2731,43 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 91: repealed, on 1 July 2000, by [section 11(j)][237] of the Broadcasting Amendment Act 1999 (1999 No 63).
+    Section 91: repealed, on 1 July 2000, by [section 11(j)][238] of the Broadcasting Amendment Act 1999 (1999 No 63).
 
 ##### 92 Transitional provision in relation to broadcasting station levies
     
 *   \[Repealed\]
     
-    Section 92: repealed, on 14 March 2008, by [section 15(a)][288] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 92: repealed, on 14 March 2008, by [section 15(a)][289] of the Broadcasting Amendment Act 2008 (2008 No 3).
 
 ##### 93 Transitional provisions in relation to Broadcasting Tribunal
     
 *   \[Repealed\]
     
-    Section 93: repealed, on 14 March 2008, by [section 15(b)][288] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 93: repealed, on 14 March 2008, by [section 15(b)][289] of the Broadcasting Amendment Act 2008 (2008 No 3).
 
 ##### 94 Transitional provisions in relation to appeals under Broadcasting Act 1976
     
 *   \[Repealed\]
     
-    Section 94: repealed, on 14 March 2008, by [section 15(c)][288] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 94: repealed, on 14 March 2008, by [section 15(c)][289] of the Broadcasting Amendment Act 2008 (2008 No 3).
 
 ##### 95 Transitional provision in relation to radio apparatus licences
     
 *   \[Repealed\]
     
-    Section 95: repealed, on 14 March 2008, by [section 15(d)][288] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 95: repealed, on 14 March 2008, by [section 15(d)][289] of the Broadcasting Amendment Act 2008 (2008 No 3).
 
 ##### 96 Final Report of Broadcasting Tribunal
     
 *   \[Repealed\]
     
-    Section 96: repealed, on 14 March 2008, by [section 15(e)][288] of the Broadcasting Amendment Act 2008 (2008 No 3).
+    Section 96: repealed, on 14 March 2008, by [section 15(e)][289] of the Broadcasting Amendment Act 2008 (2008 No 3).
 
 ##### 97 Transitional provision relating to funding of New Zealand Symphony Orchestra Limited
     
 *   \[Repealed\]
     
-    Section 97: repealed, on 6 April 2004, by [section 36][289] of the New Zealand Symphony Orchestra Act 2004 (2004 No 20).
+    Section 97: repealed, on 6 April 2004, by [section 36][290] of the New Zealand Symphony Orchestra Act 2004 (2004 No 20).
 
 ##### 98 Transitional provision in relation to restrictions on broadcasting by overseas persons
     
@@ -2788,103 +2786,103 @@ Provisions applying in respect of Broadcasting Standards Authority and Broadcast
     
 *   \[Repealed\]
     
-    Schedule 1 clause 1: repealed, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 1: repealed, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 2 Meetings
     
 *   \[Repealed\]
     
-    Schedule 1 clause 2: repealed, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 2: repealed, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 3 Remuneration and travelling allowances
     
 *   \[Repealed\]
     
-    Schedule 1 clause 3: repealed, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 3: repealed, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 4 Employees
     
 *   \[Repealed\]
     
-    Schedule 1 clause 4: repealed, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 4: repealed, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 5 Personnel policy
     
 *   \[Repealed\]
     
-    Schedule 1 clause 5: repealed, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 5: repealed, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 6 Equal employment opportunities programme
     
 *   \[Repealed\]
     
-    Schedule 1 clause 6: repealed, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 6: repealed, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 7 Choice of procedure
     
 *   \[Repealed\]
     
-    Schedule 1 clause 7: repealed, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 7: repealed, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 8 Superannuation or retiring allowances
     
 *   For the purpose of providing a superannuation fund or retiring allowance for any members of the Authority or the Commission, sums by way of subsidy or contribution may from time to time be paid into any scheme under the National Provident Fund Act 1950 containing provision for employer subsidy, or into any other employer-subsidised scheme.
     
-    Schedule 1 clause 8: amended, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 8: amended, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 9 Application of certain Acts to members and employees
     
 *   \[Repealed\]
     
-    Schedule 1 clause 9: repealed, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 9: repealed, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 10 Bank accounts
     
 *   \[Repealed\]
     
-    Schedule 1 clause 10: repealed, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 10: repealed, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 11 Investment of money
     
 *   \[Repealed\]
     
-    Schedule 1 clause 11: repealed, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 11: repealed, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 11A Crown entity
     
 *   \[Repealed\]
     
-    Schedule 1 clause 11A: repealed, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 11A: repealed, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 12 Financial statements
     
 *   \[Repealed\]
     
-    Schedule 1 clause 12: repealed, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 12: repealed, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 13 Audit of accounts and financial statements
     
 *   \[Repealed\]
     
-    Schedule 1 clause 13: repealed, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 13: repealed, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 14 Annual report
     
 *   \[Repealed\]
     
-    Schedule 1 clause 14: repealed, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 14: repealed, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 15 Statement of Commission's goals
     
 *   \[Repealed\]
     
-    Schedule 1 clause 15: repealed, on 8 July 1993, by [section 21(c)][290] of the Broadcasting Amendment Act 1993 (1993 No 69).
+    Schedule 1 clause 15: repealed, on 8 July 1993, by [section 21(c)][291] of the Broadcasting Amendment Act 1993 (1993 No 69).
 
 ##### 16 Members not personally liable
     
 *   \[Repealed\]
     
-    Schedule 1 clause 16: repealed, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 1 clause 16: repealed, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ---
 
@@ -2895,7 +2893,7 @@ Enactments amended
 
 \[Repealed\]
     
-*   Schedule 2: repealed, on 25 January 2005, by [section 200][212] of the Crown Entities Act 2004 (2004 No 115).
+*   Schedule 2: repealed, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
 ---
 
@@ -2926,7 +2924,7 @@ Repeals
 
 ##### State-Owned Enterprises Act 1986 (1986 No 124)
 
-_Amendment(s) incorporated in the [Act(s)][291]._
+_Amendment(s) incorporated in the [Act(s)][292]._
 
 ##### State-Owned Enterprises Amendment Act 1987 (1987 No 117)
 
@@ -2973,77 +2971,79 @@ Regulations and orders revoked
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][292] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][293] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][293] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][294] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][294] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][295] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][295] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][296] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][179]
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][179]
+    
+    Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][180]
     
     Sale and Supply of Alcohol Act 2012 (2012 No 120): [section 417(1)][171]
     
-    Legislation Act 2012 (2012 No 119): [section 77(3)][223]
+    Legislation Act 2012 (2012 No 119): [section 77(3)][224]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][201]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][202]
     
-    Electoral (Administration) Amendment Act 2011 (2011 No 57): [section 53][254]
+    Electoral (Administration) Amendment Act 2011 (2011 No 57): [section 53][255]
     
     Financial Reporting Amendment Act 2011 (2011 No 22): [section 12][172]
     
-    Electoral (Administration) Amendment Act 2010 (2010 No 26): [section 32(2)(b)][261]
+    Electoral (Administration) Amendment Act 2010 (2010 No 26): [section 32(2)(b)][262]
     
-    [Broadcasting Amendment Act 2008][296] (2008 No 3)
+    [Broadcasting Amendment Act 2008][297] (2008 No 3)
     
-    [Broadcasting Amendment Act (No 2) 2007][297] (2007 No 112)
+    [Broadcasting Amendment Act (No 2) 2007][298] (2007 No 112)
     
-    [Broadcasting Amendment Act 2007][298] (2007 No 42)
+    [Broadcasting Amendment Act 2007][299] (2007 No 42)
     
-    Crown Entities Act 2004 (2004 No 115): [section 200][212]
+    Crown Entities Act 2004 (2004 No 115): [section 200][213]
     
-    [Broadcasting Amendment Act 2004][268] (2004 No 100)
+    [Broadcasting Amendment Act 2004][269] (2004 No 100)
     
-    New Zealand Symphony Orchestra Act 2004 (2004 No 20): [section 36][289]
+    New Zealand Symphony Orchestra Act 2004 (2004 No 20): [section 36][290]
     
-    Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Act 2003 (2003 No 21): [section 59][242]
+    Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Act 2003 (2003 No 21): [section 59][243]
     
-    [Broadcasting Amendment Act 2003][299] (2003 No 14)
+    [Broadcasting Amendment Act 2003][300] (2003 No 14)
     
     Television New Zealand Act 2003 (2003 No 1): [section 30][166]
     
-    [Broadcasting Amendment Act 2001][300] (2001 No 57)
+    [Broadcasting Amendment Act 2001][301] (2001 No 57)
     
-    [Broadcasting Amendment Act 2000][301] (2000 No 3)
+    [Broadcasting Amendment Act 2000][302] (2000 No 3)
     
-    Interpretation Act 1999 (1999 No 85): [section 38(1)][286]
+    Interpretation Act 1999 (1999 No 85): [section 38(1)][287]
     
-    [Broadcasting Amendment Act 1999][302] (1999 No 63)
+    [Broadcasting Amendment Act 1999][303] (1999 No 63)
     
-    [Broadcasting Amendment Act 1998][303] (1998 No 28)
+    [Broadcasting Amendment Act 1998][304] (1998 No 28)
     
-    [Broadcasting Amendment Act 1996][304] (1996 No 53)
+    [Broadcasting Amendment Act 1996][305] (1996 No 53)
     
-    Radio New Zealand Act 1995 (1995 No 52): [section 20][235]
+    Radio New Zealand Act 1995 (1995 No 52): [section 20][236]
     
-    Copyright Act 1994 (1994 No 143):[section 236(2)][287]
+    Copyright Act 1994 (1994 No 143):[section 236(2)][288]
     
-    Films, Videos, and Publications Classification Act 1993 (1993 No 94): [section 150(1)][182]
+    Films, Videos, and Publications Classification Act 1993 (1993 No 94): [section 150(1)][183]
     
-    [Broadcasting Amendment Act 1993][305] (1993 No 69)
+    [Broadcasting Amendment Act 1993][306] (1993 No 69)
     
-    Public Finance Amendment Act 1992 (1992 No 142): [section 42][281]
+    Public Finance Amendment Act 1992 (1992 No 142): [section 42][282]
     
-    Defamation Act 1992 (1992 No 105): [section 56(1)][198]
+    Defamation Act 1992 (1992 No 105): [section 56(1)][199]
     
-    Judicature Amendment Act 1991 (1991 No 60): [section 3(4)][206]
+    Judicature Amendment Act 1991 (1991 No 60): [section 3(4)][207]
     
     Broadcasting Amendment Act 1991 (1991 No 21)
     
-    [Broadcasting Amendment Act (No 2) 1990][306] (1990 No 103)
+    [Broadcasting Amendment Act (No 2) 1990][307] (1990 No 103)
     
-    Commerce Amendment Act 1990 (1990 No 41): [section 46][307]
+    Commerce Amendment Act 1990 (1990 No 41): [section 46][308]
     
     Broadcasting Amendment Act 1990 (1990 No 2)
 
@@ -3218,7 +3218,7 @@ Regulations and orders revoked
 [166]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM184021
 [167]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM3339341
 [168]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM296645
-[169]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM324982
+[169]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM4632837
 [170]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM303777
 [171]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM3339984
 [172]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM3701759
@@ -3228,132 +3228,133 @@ Regulations and orders revoked
 [176]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM53452
 [177]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM392909
 [178]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM968037
-[179]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM4929207
-[180]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM312894
-[181]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1123228
-[182]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM314425
-[183]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM392910
-[184]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM303778
-[185]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM303779
-[186]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1093331
-[187]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1093332
-[188]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM139153
-[189]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM139155
-[190]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM139157
-[191]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM139159
-[192]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM139161
-[193]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM139163
-[194]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM139165
-[195]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM139167
-[196]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM139130
-[197]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM281400
-[198]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM281277
-[199]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM392913
-[200]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM392914
-[201]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM3360714
-[202]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM426244
-[203]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM281285
-[204]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM392915
-[205]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM392916
-[206]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM230219
-[207]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM110976
-[208]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM222619
-[209]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM327381
-[210]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM329641
-[211]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM329630
-[212]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM331111
-[213]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM296638
-[214]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1093334
-[215]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM53457
-[216]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM303780
-[217]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM331142
-[218]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM392917
-[219]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM329972
-[220]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM2997643
-[221]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM2998573
-[222]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM53458
-[223]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM2998633
-[224]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM392920
-[225]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM968040
-[226]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM968041
-[227]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM968042
-[228]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM81034
-[229]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1123217
-[230]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM53459
-[231]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1123218
-[232]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1123219
-[233]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM303782
-[234]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1123220
-[235]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM368655
-[236]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1123221
-[237]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM30068
-[238]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM303783
-[239]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1123222
-[240]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1123224
-[241]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1123225
-[242]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM194563
-[243]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM330349
-[244]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM53461
-[245]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM189252
-[246]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1123226
-[247]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM222625
-[248]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM307525
-[249]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM2997501
-[250]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM307518
-[251]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM308571
-[252]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM392924
-[253]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM322688
-[254]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM3367684
-[255]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM322697
-[256]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM310339
-[257]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM303784
-[258]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM392925
-[259]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM322699
-[260]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1093335
-[261]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM2469790
-[262]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM392926
-[263]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM322901
-[264]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM309429
-[265]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM322903
-[266]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM322904
-[267]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM322905
-[268]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM322681
-[269]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM322910
-[270]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM322911
-[271]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM322912
-[272]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM308804
-[273]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM322915
-[274]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM322916
-[275]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM322921
-[276]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM322922
-[277]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM322925
-[278]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM322926
-[279]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM304205
-[280]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM88416
-[281]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM289849
-[282]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM119011
-[283]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM31458
-[284]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM390002
-[285]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM64784
-[286]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM31885
-[287]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM347117
-[288]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1123229
-[289]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM243147
-[290]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM304206
-[291]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM98662
-[292]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM2998516
-[293]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM2998515
-[294]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM2998532
-[295]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[296]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1123200
-[297]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1093321
-[298]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM968030
-[299]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM189245
-[300]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM110970
-[301]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM53446
-[302]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM30034
-[303]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM426238
-[304]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM392903
-[305]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM303771
-[306]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM222611
-[307]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM210900
+[179]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM5740665
+[180]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM4929207
+[181]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM312894
+[182]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1123228
+[183]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM314425
+[184]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM392910
+[185]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM303778
+[186]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM303779
+[187]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1093331
+[188]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1093332
+[189]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM139153
+[190]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM139155
+[191]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM139157
+[192]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM139159
+[193]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM139161
+[194]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM139163
+[195]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM139165
+[196]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM139167
+[197]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM139130
+[198]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM281400
+[199]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM281277
+[200]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM392913
+[201]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM392914
+[202]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM3360714
+[203]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM426244
+[204]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM281285
+[205]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM392915
+[206]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM392916
+[207]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM230219
+[208]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM110976
+[209]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM222619
+[210]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM327381
+[211]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM329641
+[212]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM329630
+[213]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM331111
+[214]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM296638
+[215]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1093334
+[216]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM53457
+[217]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM303780
+[218]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM331142
+[219]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM392917
+[220]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM329972
+[221]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM2997643
+[222]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM2998573
+[223]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM53458
+[224]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM2998633
+[225]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM392920
+[226]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM968040
+[227]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM968041
+[228]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM968042
+[229]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM81034
+[230]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1123217
+[231]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM53459
+[232]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1123218
+[233]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1123219
+[234]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM303782
+[235]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1123220
+[236]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM368655
+[237]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1123221
+[238]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM30068
+[239]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM303783
+[240]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1123222
+[241]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1123224
+[242]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1123225
+[243]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM194563
+[244]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM330349
+[245]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM53461
+[246]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM189252
+[247]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1123226
+[248]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM222625
+[249]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM307525
+[250]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM2997501
+[251]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM307518
+[252]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM6011512
+[253]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM392924
+[254]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM322688
+[255]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM3367684
+[256]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM322697
+[257]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM6013344
+[258]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM303784
+[259]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM392925
+[260]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM322699
+[261]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1093335
+[262]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM2469790
+[263]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM392926
+[264]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM322901
+[265]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM309429
+[266]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM322903
+[267]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM322904
+[268]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM322905
+[269]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM322681
+[270]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM322910
+[271]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM322911
+[272]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM322912
+[273]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM6011557
+[274]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM322915
+[275]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM322916
+[276]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM322921
+[277]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM322922
+[278]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM322925
+[279]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM322926
+[280]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM304205
+[281]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM88416
+[282]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM289849
+[283]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM119011
+[284]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM31458
+[285]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM390002
+[286]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM64784
+[287]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM31885
+[288]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM347117
+[289]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1123229
+[290]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM243147
+[291]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM304206
+[292]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM98662
+[293]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM2998516
+[294]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM2998515
+[295]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM2998532
+[296]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[297]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1123200
+[298]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM1093321
+[299]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM968030
+[300]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM189245
+[301]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM110970
+[302]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM53446
+[303]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM30034
+[304]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM426238
+[305]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM392903
+[306]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM303771
+[307]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM222611
+[308]: http://www.legislation.govt.nz/act/public/1989/0025/latest/link.aspx?id=DLM210900
