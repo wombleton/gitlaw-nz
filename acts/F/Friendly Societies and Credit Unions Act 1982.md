@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Business, Innovation, and Employment.
 
@@ -119,7 +119,7 @@ This Act is administered by the Ministry of Business, Innovation, and Employment
 
 [40][47][][47][Register of members][47]
 
-[41][48][][48][Inspection of books and accounts of society][48]
+[41][48][][48][Inspection of books and accounts of society][48] \[Repealed\]
 
 [Benefits][49]
 
@@ -159,288 +159,298 @@ This Act is administered by the Ministry of Business, Innovation, and Employment
 
 [58][67][][67][Public Trust or trustee company may hold securities and invest funds for societies][67]
 
-[Accounts, audit, and auditors][68]
+[Accounting records and financial reporting][68]
 
 [59][69][][69][Financial year][69]
 
-[60][70][][70][Accounting records to be kept][70]
+[60][70][][70][Accounting records must be kept][70]
 
-[61][71][][71][General provisions relating to accounts and statement of financial position][71]
+[61][71][][71][Non-application of section 63 if alternative financial reporting duties under financial markets legislation][71]
 
-[62][72][][72][Obligation to appoint auditors][72]
+[62][72][][72][Meaning of specified not-for-profit entity][72]
 
-[63][73][][73][Qualifications for appointment as auditor][73]
+[63][73][][73][Financial statements must be prepared][73]
 
-[64][74][][74][Audit of exempt societies and branches][74]
+[64][74][][74][Registered society or branch may opt out][74]
 
-[65][75][][75][Reappointment and removal of auditors][75]
+[64A][75][][75][Obligation to appoint auditors][75]
 
-[66][76][][76][Notice of resolution relating to appointment and removal of auditors][76]
+[64B][76][][76][Registrar may appoint auditor][76]
 
-[67][77][][77][Proceedings subsequent to notice of intention to move resolution][77]
+[64C][77][][77][Offences relating to accounting records and financial reporting][77]
 
-[68][78][][78][Auditors' report][78]
+[64D][78][][78][Audit must be carried out in accordance with auditing and assurance standards][78]
 
-[69][79][][79][Auditors' rights of access][79]
+[64E][79][][79][Auditor must report to society or branch][79]
 
-[Annual returns and valuations][80]
+[65][80][][80][Reappointment and removal of auditors][80]
 
-[70][81][][81][Annual return][81]
+[66][81][][81][Notice of resolution relating to appointment and removal of auditors][81]
 
-[71][82][][82][Annual return by society under dissolution, etc][82]
+[67][82][][82][Proceedings subsequent to notice of intention to move resolution][82]
 
-[72][83][][83][Annual return to be supplied to members][83]
+[68][83][][83][Auditors' report][83] \[Repealed\]
 
-[73][84][][84][Accounts and statement of financial position to be available][84]
+[69][84][][84][Auditors' rights to attend and be heard at meetings][84]
 
-[74][85][][85][Actuarial valuation and report][85]
+[Annual returns and valuations][85]
 
-[75][86][][86][Obligation on branches to supply particulars for annual return or actuarial valuation and report][86]
+[70][86][][86][Annual return][86]
 
-[76][87][][87][Appropriation and transfer of surplus funds][87]
+[71][87][][87][Annual return by society under dissolution, etc][87]
 
-[77][88][][88][Registrar may advise society on financial position][88]
+[72][88][][88][Annual return to be supplied to members][88]
 
-[Disputes][89]
+[73][89][][89][Financial statements must be available][89]
 
-[78][90][][90][Settlement of disputes generally][90]
+[74][90][][90][Actuarial valuation and report][90]
 
-[79][91][][91][Reference of dispute to Registrar][91]
+[75][91][][91][Obligation on branches to supply particulars for annual return or actuarial valuation and report][91]
 
-[80][92][][92][Statement of case, etc, in settlement of dispute][92]
+[76][92][][92][Appropriation and transfer of surplus funds][92]
 
-[81][93][][93][Reference of disputes to court otherwise than under rules][93]
+[77][93][][93][Registrar may advise society on financial position][93]
 
-[Special resolutions][94]
+[Disputes][94]
 
-[82][95][][95][Special resolutions][95]
+[78][95][][95][Settlement of disputes generally][95]
 
-[Amalgamations, transfers of engagements, and conversions][96]
+[79][96][][96][Reference of dispute to Registrar][96]
 
-[83][97][][97][Amalgamation of societies and transfer of engagements][97]
+[80][97][][97][Statement of case, etc, in settlement of dispute][97]
 
-[84][98][][98][Society may apply to be registered as company][98]
+[81][98][][98][Reference of disputes to court otherwise than under rules][98]
 
-[85][99][][99][Objections to amalgamations and transfers of engagements][99]
+[Special resolutions][99]
 
-[86][100][][100][Registrar may approve amalgamations, transfers, and conversions][100]
+[82][100][][100][Special resolutions][100]
 
-[87][101][][101][Branches amalgamating, transferring engagements, or converting to company][101]
+[Amalgamations, transfers of engagements, and conversions][101]
 
-[88][102][][102][Conversion of society into branch][102]
+[83][102][][102][Amalgamation of societies and transfer of engagements][102]
 
-[Inspection, winding up, and suspension of business][103]
+[84][103][][103][Society may apply to be registered as company][103]
 
-[89][104][][104][Registrar may appoint inspectors or call special meeting][104]
+[85][104][][104][Objections to amalgamations and transfers of engagements][104]
 
-[90][105][][105][Registrar may apply to put society into liquidation][105]
+[86][105][][105][Registrar may approve amalgamations, transfers, and conversions][105]
 
-[90A][106][][106][Transitional provisions applying to liquidation of societies][106]
+[87][106][][106][Branches amalgamating, transferring engagements, or converting to company][106]
 
-[91][107][][107][Registrar may forbid new business or the accepting of new members of society][107]
+[88][107][][107][Conversion of society into branch][107]
 
-[Cancellation and suspension of registration, and dissolution][108]
+[Inspection, winding up, and suspension of business][108]
 
-[92][109][][109][Registrar may cancel or suspend registration][109]
+[89][109][][109][Registrar may appoint inspectors or call special meeting][109]
 
-[93][110][][110][Dissolution of societies and branches][110]
+[90][110][][110][Registrar may apply to put society into liquidation][110]
 
-[94][111][][111][Instrument of dissolution][111]
+[90A][111][][111][Transitional provisions applying to liquidation of societies][111] \[Repealed\]
 
-[95][112][][112][Dissolution by award][112]
+[91][112][][112][Registrar may forbid new business or the accepting of new members of society][112]
 
-[96][113][][113][Notice to Registrar of proceedings to oppose dissolution][113]
+[Cancellation and suspension of registration, and dissolution][113]
 
-[97][114][][114][Property to be transferred before final dissolution][114]
+[92][114][][114][Registrar may cancel or suspend registration][114]
 
-[Part 3][115]  
-[Credit unions][115]
+[93][115][][115][Dissolution of societies and branches][115]
 
-[Registration][116]
+[94][116][][116][Instrument of dissolution][116]
 
-[98][117][][117][Credit unions to be registered][117]
+[95][117][][117][Dissolution by award][117]
 
-[99][118][][118][Exemptions from registration][118]
+[96][118][][118][Notice to Registrar of proceedings to oppose dissolution][118]
 
-[100][119][][119][Society may register as credit union][119]
+[97][119][][119][Property to be transferred before final dissolution][119]
 
-[101][120][][120][Objects of credit union][120]
+[Part 3][120]  
+[Credit unions][120]
 
-[102][121][][121][Qualifications for admission to membership of credit union][121]
+[Registration][121]
 
-[103][122][][122][Name to contain words "credit union"][122]
+[98][122][][122][Credit unions to be registered][122]
 
-[104][123][][123][Registration and rules of credit union][123]
+[99][123][][123][Exemptions from registration][123]
 
-[105][124][][124][Effect of rules on members of credit union][124]
+[100][124][][124][Society may register as credit union][124]
 
-[106][125][][125][Membership of credit union, voting rights][125]
+[101][125][][125][Objects of credit union][125]
 
-[Operation of credit union][126]
+[102][126][][126][Qualifications for admission to membership of credit union][126]
 
-[107][127][][127][Credit union to have shares][127]
+[103][127][][127][Name to contain words "credit union"][127]
 
-[107A][128][][128][Credit union may offer credit union securities][128]
+[104][128][][128][Registration and rules of credit union][128]
 
-[108][129][][129][General prohibition on taking deposits][129] \[Repealed\]
+[105][129][][129][Effect of rules on members of credit union][129]
 
-[109][130][][130][Power of credit union to borrow money][130]
+[106][130][][130][Membership of credit union, voting rights][130]
 
-[109A][131][][131][Power of credit union to appoint trustee for debt securities][131]
+[Operation of credit union][131]
 
-[110][132][][132][Credit union may make loans to members][132]
+[107][132][][132][Credit union to have shares][132]
 
-[111][133][][133][Minister may fix maximum amount of loans to members][133] \[Repealed\]
+[107A][133][][133][Credit union may offer credit union securities][133]
 
-[112][134][][134][Credit union property to vest in trustees][134]
+[108][134][][134][General prohibition on taking deposits][134] \[Repealed\]
 
-[113][135][][135][Credit union may hold land][135]
+[109][135][][135][Power of credit union to borrow money][135]
 
-[114][136][][136][Officers of credit union to give security][136]
+[109A][136][][136][Power of credit union to appoint trustee for debt securities][136]
 
-[115][137][][137][Duty of officers of credit union to account][137]
+[110][137][][137][Credit union may make loans to members][137]
 
-[116][138][][138][Priority on death, bankruptcy, etc, of officer][138]
+[111][138][][138][Minister may fix maximum amount of loans to members][138] \[Repealed\]
 
-[117][139][][139][Investment of surplus funds][139]
+[112][139][][139][Credit union property to vest in trustees][139]
 
-[Distribution to members][140]
+[113][140][][140][Credit union may hold land][140]
 
-[117A][141][][141][Meaning of distribution][141]
+[114][141][][141][Officers of credit union to give security][141]
 
-[117B][142][][142][Distribution must be authorised][142]
+[115][142][][142][Duty of officers of credit union to account][142]
 
-[117C][143][][143][Distribution must not be authorised unless credit union solvent][143]
+[116][143][][143][Priority on death, bankruptcy, etc, of officer][143]
 
-[117D][144][][144][Solvency test][144]
+[117][144][][144][Investment of surplus funds][144]
 
-[Disputes][145]
+[Distribution to members][145]
 
-[118][146][][146][Disputes in relation to credit unions][146]
+[117A][146][][146][Meaning of distribution][146]
 
-[Accounts, audit, and auditors][147]
+[117B][147][][147][Distribution must be authorised][147]
 
-[119][148][][148][Credit union to maintain general reserves][148] \[Repealed\]
+[117C][148][][148][Distribution must not be authorised unless credit union solvent][148]
 
-[120][149][][149][Financial year of credit union][149]
+[117D][149][][149][Solvency test][149]
 
-[121][150][][150][Accounting records and statement of financial position][150]
+[Disputes][150]
 
-[122][151][][151][Credit union to be audited][151]
+[118][151][][151][Disputes in relation to credit unions][151]
 
-[123][152][][152][Qualifications for appointment as auditor][152]
+[Accounting records and financial reporting][152]
 
-[124][153][][153][Audit of certain exempt credit unions][153]
+[119][153][][153][Credit union to maintain general reserves][153] \[Repealed\]
 
-[125][154][][154][General matters relating to auditors, the auditors' report, and auditors' rights of access][154]
+[120][154][][154][Financial year of credit union][154]
 
-[126][155][][155][Registrar may advise credit union on financial position][155]
+[121][155][][155][Accounting records must be kept][155]
 
-[Annual returns][156]
+[122][156][][156][Financial reporting][156]
 
-[127][157][][157][Annual return][157]
+[123][157][][157][Obligation to appoint auditors][157]
 
-[128][158][][158][Annual return by credit union under dissolution][158]
+[124][158][][158][General matters relating to auditors][158]
 
-[129][159][][159][Annual return to be supplied to members][159]
+[125][159][][159][General matters relating to auditors, the auditors' report, and auditors' rights of access][159] \[Repealed\]
 
-[Miscellaneous provisions][160]
+[126][160][][160][Registrar may advise credit union on financial position][160]
 
-[130][161][][161][Register of members of credit union][161]
+[Annual returns][161]
 
-[131][162][][162][Inspection of books and accounts of credit union][162]
+[127][162][][162][Annual return][162]
 
-[132][163][][163][Accounts and statement of financial position to be available][163]
+[128][163][][163][Annual return by credit union under dissolution][163]
 
-[133][164][][164][Credit union to be insured against fraud or other dishonesty][164]
+[129][164][][164][Annual return to be supplied to members][164]
 
-[134][165][][165][Guarantee funds][165]
+[Miscellaneous provisions][165]
 
-[135][166][][166][Amalgamation of credit unions and transfer of engagements][166]
+[130][166][][166][Register of members of credit union][166]
 
-[136][167][][167][Registrar may approve amalgamations or transfers of engagements of credit unions][167]
+[131][167][][167][Inspection of books and accounts of credit union][167] \[Repealed\]
 
-[Inspection, liquidation, and suspension of business][168]
+[132][168][][168][Financial statements must be available][168]
 
-[137][169][][169][Registrar may appoint inspectors or call special meeting][169]
+[133][169][][169][Credit union to be insured against fraud or other dishonesty][169]
 
-[138][170][][170][Registrar may apply to put credit union into liquidation][170]
+[134][170][][170][Guarantee funds][170]
 
-[138A][171][][171][Transitional provisions applying to liquidation of credit unions][171]
+[135][171][][171][Amalgamation of credit unions and transfer of engagements][171]
 
-[139][172][][172][Registrar may suspend business of credit union][172]
+[136][172][][172][Registrar may approve amalgamations or transfers of engagements of credit unions][172]
 
-[140][173][][173][Cancellation or suspension of registration, and dissolution of credit union][173]
+[Inspection, liquidation, and suspension of business][173]
 
-[141][174][][174][Liability of members on winding up][174]
+[137][174][][174][Registrar may appoint inspectors or call special meeting][174]
 
-[Nomination of shares][175]
+[138][175][][175][Registrar may apply to put credit union into liquidation][175]
 
-[142][176][][176][Nomination of shares in credit union][176]
+[138A][176][][176][Transitional provisions applying to liquidation of credit unions][176] \[Repealed\]
 
-[Associations of credit unions][177]
+[139][177][][177][Registrar may suspend business of credit union][177]
 
-[143][178][][178][Associations of credit unions to be registered][178]
+[140][178][][178][Cancellation or suspension of registration, and dissolution of credit union][178]
 
-[144][179][][179][Membership of association][179]
+[141][179][][179][Liability of members on winding up][179]
 
-[145][180][][180][Application for registration of association][180]
+[Nomination of shares][180]
 
-[146][181][][181][Registration of association][181]
+[142][181][][181][Nomination of shares in credit union][181]
 
-[Part 4][182]  
-[Miscellaneous provisions][182]
+[Associations of credit unions][182]
 
-[147][183][][183][Changes of name][183]
+[143][183][][183][Associations of credit unions to be registered][183]
 
-[148][184][][184][Exemptions from Customs duty][184]
+[144][184][][184][Membership of association][184]
 
-[149][185][][185][Recovery of costs, etc, awarded by Registrar][185]
+[145][185][][185][Application for registration of association][185]
 
-[150][186][][186][Certain persons prohibited from managing societies or credit unions][186]
+[146][186][][186][Registration of association][186]
 
-[151][187][][187][Appeals][187]
+[Part 4][187]  
+[Miscellaneous provisions][187]
 
-[152][188][][188][Regulations][188]
+[147][188][][188][Changes of name][188]
 
-[153][189][][189][Offences and penalties][189]
+[148][189][][189][Exemptions from Customs duty][189]
 
-[154][190][][190][Recovery of fines, etc, imposed on society, branch, or credit union][190]
+[149][190][][190][Recovery of costs, etc, awarded by Registrar][190]
 
-[155][191][][191][Status of trustees and officers for purposes of Crimes Act 1961][191]
+[150][191][][191][Certain persons prohibited from managing societies or credit unions][191]
 
-[156][192][][192][Liability of officers and of members of committee on commission of offence][192]
+[151][192][][192][Appeals][192]
 
-[157][193][][193][Institution of legal proceedings by or against society or branch or credit union][193]
+[152][193][][193][Regulations][193]
 
-[158][194][][194][Proof of documents][194]
+[153][194][][194][Offences and penalties][194]
 
-[159][195][][195][Fines imposed under rules recoverable as a debt][195]
+[154][195][][195][Recovery of fines, etc, imposed on society, branch, or credit union][195]
 
-[160][196][][196][Savings and transitional provisions][196]
+[155][196][][196][Status of trustees and officers for purposes of Crimes Act 1961][196]
 
-[161][197][][197][Amendments, repeals, and revocations][197]
+[156][197][][197][Liability of officers and of members of committee on commission of offence][197]
 
-[Schedule 1][198]  
-[Purposes for which friendly societies may be established][198]
+[157][198][][198][Institution of legal proceedings by or against society or branch or credit union][198]
 
-[Schedule 2][199]  
-[Matters to be provided for by the rules of societies registered under Part 2][199]
+[158][199][][199][Proof of documents][199]
 
-[Schedule 3][200]  
-[Matters to be provided for by the rules of or for branches registered under Part 2][200]
+[159][200][][200][Fines imposed under rules recoverable as a debt][200]
 
-[Schedule 4][201]  
-[Matters to be provided for in rules of credit unions][201]
+[160][201][][201][Savings and transitional provisions][201]
 
-[Schedule 5][202]  
-[Persons, societies, or bodies of persons exempt from registration as a credit union][202]
+[161][202][][202][Amendments, repeals, and revocations][202]
 
-[Schedule 6][203]  
-[Enactments amended][203]
+[Schedule 1][203]  
+[Purposes for which friendly societies may be established][203]
 
-[Schedule 7][204]  
-[Enactments repealed][204]
+[Schedule 2][204]  
+[Matters to be provided for by the rules of societies registered under Part 2][204]
+
+[Schedule 3][205]  
+[Matters to be provided for by the rules of or for branches registered under Part 2][205]
+
+[Schedule 4][206]  
+[Matters to be provided for in rules of credit unions][206]
+
+[Schedule 5][207]  
+[Persons, societies, or bodies of persons exempt from registration as a credit union][207]
+
+[Schedule 6][208]  
+[Enactments amended][208]
+
+[Schedule 7][209]  
+[Enactments repealed][209]
 
 ---
 
@@ -460,7 +470,7 @@ An Act to consolidate and amend the law relating to friendly and certain other s
     
     _actuary_ means a person qualified as a Fellow of the Institute of Actuaries of London or as a Fellow of the Faculty of Actuaries in Scotland or as a Fellow of the Institute of Actuaries of Australia or has such other qualification as an actuary as may, subject to such conditions as the Registrar thinks fit, be approved in any particular case by the Registrar for the purposes of this Act
     
-    _actuarial report_ means the report from time to time supplied to the Registrar following an actuarial valuation made pursuant to [section 74(1)][85]
+    _actuarial report_ means the report from time to time supplied to the Registrar following an actuarial valuation made pursuant to [section 74(1)][90]
     
     _adult_ means a person who is at least 20 years of age
     
@@ -468,13 +478,17 @@ An Act to consolidate and amend the law relating to friendly and certain other s
     
     _annual return_ means the return sent to the Registrar---
         
-    *   (a) in the case of societies registered under [Part 2][13], under [section 70][81]:
+    *   (a) in the case of societies registered under [Part 2][13], under [section 70][86]:
     
-    *   (b) in the case of credit unions, under [section 127][157]
+    *   (b) in the case of credit unions, under [section 127][162]
     
-    _association_ means an association of credit unions registered as such under [Part 3][115]
+    _applicable auditing and assurance standard_ has the same meaning as in [section 5][210] of the Financial Reporting Act 2013
     
-    _bank_ means a person carrying on in New Zealand the business of banking; and includes the Reserve Bank of New Zealand, the Post Office Bank Limited, any private savings bank company's successor under the [Private Savings Banks (Transfer of Undertakings) Act 1992][205], and any trustee bank's successor company constituted under the [Companies Act 1993][206]
+    _applicable financial reporting standard_ has the same meaning as in [section 5][210] of the Financial Reporting Act 2013
+    
+    _association_ means an association of credit unions registered as such under [Part 3][120]
+    
+    _bank_ means a person carrying on in New Zealand the business of banking; and includes the Reserve Bank of New Zealand, the Post Office Bank Limited, any private savings bank company's successor under the [Private Savings Banks (Transfer of Undertakings) Act 1992][211], and any trustee bank's successor company constituted under the [Companies Act 1993][212]
     
     _benevolent society_ means a society of the kind specified in [section 11(1)(b)][15]
     
@@ -484,25 +498,27 @@ An Act to consolidate and amend the law relating to friendly and certain other s
     
     _committee_ and _committee of management_ mean the directing body of a society or branch, by whatever name that body is known
     
-    _credit union_ means any society or body of persons registered or deemed to be registered as a credit union under [Part 3][115]; and, unless otherwise provided by this Act and with any necessary modifications, includes an association of credit unions
+    _credit union_ means any society or body of persons registered or deemed to be registered as a credit union under [Part 3][120]; and, unless otherwise provided by this Act and with any necessary modifications, includes an association of credit unions
     
     _document_ includes all instruments by way of security and title, membership and other registers, and all documents and records; but does not include accounting records
     
-    _exempt society_ or _exempt branch_ or _exempt credit union_ means a registered society or branch or credit union exempted from certain audit requirements pursuant to [section 62(4)][72] or, as the case may be, [section 122(2) or (6)][151]; but does not include an association of credit unions
+    _financial statements_ has the same meaning as in [section 6][213] of the Financial Reporting Act 2013
     
     _financial year_ means the financial year of every registered society or branch or credit union, being a period of 12 months ending with 1 December or such other day as may be provided in the rules of the society, branch, or credit union
     
     _friendly society_ means a society of the kind specified in [section 11(1)(a)][15]
     
+    _generally accepted accounting practice_ has the same meaning as in [section 8][214] of the Financial Reporting Act 2013
+    
     _land_ includes any interest in land
     
-    _licensed auditor_ has the same meaning as in [section 6][207] of the Auditor Regulation Act 2011
-    
-    _licensed insurer_ has the same meaning as in [section 6(1)][208] of the Insurance (Prudential Supervision) Act 2010
+    _licensed insurer_ has the same meaning as in [section 6(1)][215] of the Insurance (Prudential Supervision) Act 2010
     
     _meeting_ includes (where the rules of a society or branch so allow) a meeting of delegates appointed by members
     
     _Minister_ means the Minister of the Crown having for the time being charge of the administration of this Act
+    
+    _non-GAAP standard_ has the same meaning as in [section 5][210] of the Financial Reporting Act 2013
     
     _officer_, in relation to a registered society or branch or credit union, includes any trustee, treasurer, secretary, or member of the committee of management of the society, branch, or credit union, and any person appointed by the society or branch or credit union to sue and be sued on its behalf
     
@@ -510,9 +526,9 @@ An Act to consolidate and amend the law relating to friendly and certain other s
     
     _property_ means all property, whether real or personal (including accounting records and all documents)
     
-    _registered_ means received by the Registrar and sealed with his seal of office
+    _qualified auditor_ has the same meaning as in [section 35][216] of the Financial Reporting Act 2013
     
-    _registered audit firm_ has the same meaning as in [section 6][207] of the Auditor Regulation Act 2011
+    _registered_ means received by the Registrar and sealed with his seal of office
     
     _registered society or branch_ means a society or branch registered or deemed to be registered under [Part 2][13]
     
@@ -524,38 +540,52 @@ An Act to consolidate and amend the law relating to friendly and certain other s
     
     _specially authorised society_ means a society of a kind authorised by the Minister pursuant to [section 11(1)(d)][15]; but does not include a credit union
     
-    _special resolution_, where required under this Act, means a resolution passed in the manner prescribed by [section 82][95]
+    _special resolution_, where required under this Act, means a resolution passed in the manner prescribed by [section 82][100]
     
-    _trustee company_ means a trustee company within the meaning of the [Trustee Companies Act 1967][209]
+    _trustee company_ means a trustee company within the meaning of the [Trustee Companies Act 1967][217]
     
     _working men's club_ means a society of the kind specified in [section 11(1)(c)][15].
     
     Compare: 1909 No 12 ss 2, 24; 1915 No 64 s 2; 1970 No 63 s 2(1)
     
-    Section 2 **bank**: amended, on 1 July 1997, pursuant to [section 2(1)][210] of the Companies Act Repeal Act 1993 (1993 No 126).
+    Section 2 **applicable auditing and assurance standard**: inserted, on 1 April 2014, by [section 64(1)][218] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 2 **bank**: amended, on 30 June 1995, pursuant to [section 2(2)][211] of the Banking Act Repeal Act 1995 (1995 No 32).
+    Section 2 **applicable financial reporting standard**: inserted, on 1 April 2014, by [section 64(1)][218] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 2 **bank**: amended, on 10 September 1993, pursuant to [section 23(1)][212] of the Private Savings Banks (Transfer of Undertakings) Act 1992 (1992 No 21).
+    Section 2 **bank**: amended, on 1 July 1997, pursuant to [section 2(1)][219] of the Companies Act Repeal Act 1993 (1993 No 126).
     
-    Section 2 **bank**: amended, on 8 April 1992, pursuant to [section 20][213] of the Private Savings Banks (Transfer of Undertakings) Act 1992 (1992 No 21).
+    Section 2 **bank**: amended, on 30 June 1995, pursuant to [section 2(2)][220] of the Banking Act Repeal Act 1995 (1995 No 32).
+    
+    Section 2 **bank**: amended, on 10 September 1993, pursuant to [section 23(1)][221] of the Private Savings Banks (Transfer of Undertakings) Act 1992 (1992 No 21).
+    
+    Section 2 **bank**: amended, on 8 April 1992, pursuant to [section 20][222] of the Private Savings Banks (Transfer of Undertakings) Act 1992 (1992 No 21).
     
     Section 2 **bank**: amended, on 1 April 1987, by section 11(1) of the State-Owned Enterprises Amendment Act 1987 (1987 No 117).
     
-    Section 2 **Government Actuary**: repealed, on 1 May 2011, by [section 82][214] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 2 **exempt society** or **exempt branch** or **exempt credit union**: repealed, on 1 April 2014, by [section 64(2)][218] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 2 **licensed auditor**: inserted, on 1 July 2012, by [section 82][215] of the Auditor Regulation Act 2011 (2011 No 21).
+    Section 2 **financial statements**: inserted, on 1 April 2014, by [section 64(1)][218] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 2 **licensed insurer**: inserted, on 1 February 2011, by [section 241(2)][216] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
+    Section 2 **generally accepted accounting practice**: inserted, on 1 April 2014, by [section 64(1)][218] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 2 **registered audit firm**: inserted, on 1 July 2012, by [section 82][215] of the Auditor Regulation Act 2011 (2011 No 21).
+    Section 2 **Government Actuary**: repealed, on 1 May 2011, by [section 82][223] of the Financial Markets Authority Act 2011 (2011 No 5).
+    
+    Section 2 **licensed auditor**: repealed, on 1 April 2014, by [section 64(3)][218] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 2 **licensed insurer**: inserted, on 1 February 2011, by [section 241(2)][224] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
+    
+    Section 2 **non-GAAP standard**: inserted, on 1 April 2014, by [section 64(1)][218] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 2 **qualified auditor**: inserted, on 1 April 2014, by [section 64(1)][218] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 2 **registered audit firm**: repealed, on 1 April 2014, by [section 64(3)][218] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ## Part 1  
 Registrar and officers
 
 ##### 3 Registrar of Friendly Societies and Credit Unions
     
-*   (1) There shall from time to time be appointed, pursuant to the [State Sector Act 1988][217], a Registrar of Friendly Societies and Credit Unions.
+*   (1) There shall from time to time be appointed, pursuant to the [State Sector Act 1988][225], a Registrar of Friendly Societies and Credit Unions.
     
     (2) \[Repealed\]
     
@@ -563,13 +593,13 @@ Registrar and officers
     
     Compare: 1909 No 12 ss 3(1), 5(2)
     
-    Section 3(1): amended, on 1 April 1988, pursuant to [section 88(2)][218] of the State Sector Act 1988 (1988 No 20).
+    Section 3(1): amended, on 1 April 1988, pursuant to [section 88(2)][226] of the State Sector Act 1988 (1988 No 20).
     
-    Section 3(2): repealed, on 1 May 2011, by [section 82][214] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 3(2): repealed, on 1 May 2011, by [section 82][223] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 4 Deputy Registrar of Friendly Societies and Credit Unions
     
-*   (1) There may from time to time be appointed, pursuant to the [State Sector Act 1988][217], 1 or more Deputy Registrars of Friendly Societies and Credit Unions.
+*   (1) There may from time to time be appointed, pursuant to the [State Sector Act 1988][225], 1 or more Deputy Registrars of Friendly Societies and Credit Unions.
     
     (2) \[Repealed\]
     
@@ -581,9 +611,9 @@ Registrar and officers
     
     Compare: 1909 No 12 ss 3(2)--(4), 5(2)
     
-    Section 4(1): amended, on 1 April 1988, pursuant to [section 88(2)][218] of the State Sector Act 1988 (1988 No 20).
+    Section 4(1): amended, on 1 April 1988, pursuant to [section 88(2)][226] of the State Sector Act 1988 (1988 No 20).
     
-    Section 4(2): repealed, on 1 May 2011, by [section 82][214] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 4(2): repealed, on 1 May 2011, by [section 82][223] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 5 Registry Office and registers
     
@@ -593,7 +623,7 @@ Registrar and officers
     
     (3) The following documents or information contained in any register shall be open to inspection by the public during ordinary office hours on payment of the prescribed fee (if any):
         
-    *   (a) in respect of any registered society or branch, the rules and any amendments, notices of change of registered office and of the appointment of new trustees, annual returns, actuarial reports (except those requested by the Registrar pursuant to [section 74(4)][85]), notices of change of name and of special resolutions, and any order or award of the Registrar relating to the dissolution or suspension of any business, or the cancellation or suspension of registration of the society or branch:
+    *   (a) in respect of any registered society or branch, the rules and any amendments, notices of change of registered office and of the appointment of new trustees, annual returns, actuarial reports (except those requested by the Registrar pursuant to [section 74(4)][90]), notices of change of name and of special resolutions, and any order or award of the Registrar relating to the dissolution or suspension of any business, or the cancellation or suspension of registration of the society or branch:
     
     *   (b) in respect of any credit union, the rules and any amendments, notices of change of registered office and of the appointment of new trustees, annual returns, notices of change of name and of special resolutions, and any order or award of the Registrar relating to the dissolution or suspension of any business, or the cancellation or suspension of registration of the credit union.
     
@@ -605,11 +635,11 @@ Registrar and officers
 
 ##### 6 Appointment of officers and employees
     
-*   There shall from time to time be appointed under the [State Sector Act 1988][217] such officers and employees as may be necessary for the effective and efficient carrying out of the functions and duties of the Registrar.
+*   There shall from time to time be appointed under the [State Sector Act 1988][225] such officers and employees as may be necessary for the effective and efficient carrying out of the functions and duties of the Registrar.
     
     Compare: 1909 No 12 s 6
     
-    Section 6: amended, on 1 April 1988, pursuant to [section 88(2)][218] of the State Sector Act 1988 (1988 No 20).
+    Section 6: amended, on 1 April 1988, pursuant to [section 88(2)][226] of the State Sector Act 1988 (1988 No 20).
 
 ##### 7 Functions of Registrar
     
@@ -623,11 +653,11 @@ Registrar and officers
     
     *   (b) the power to inspect any accounting records or other documents pursuant to [section 8][10].
     
-    Section 7 heading: amended, on 1 May 2011, by [section 82][214] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 7 heading: amended, on 1 May 2011, by [section 82][223] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 7(2): repealed, on 1 May 2011, by [section 82][214] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 7(2): repealed, on 1 May 2011, by [section 82][223] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 7(3): amended, on 1 May 2011, by [section 82][214] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 7(3): amended, on 1 May 2011, by [section 82][223] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 8 Powers of inspection of records by Registrar
     
@@ -653,23 +683,23 @@ Registrar and officers
     
     Compare: Friendly Societies Act 1974 s 89 (UK)
     
-    Section 8(1): amended, on 1 April 1987, by [section 25(1)][219] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 8(1): amended, on 1 April 1987, by [section 25(1)][227] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 8(2): repealed, on 1 April 1987, by [section 25(1)][219] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 8(2): repealed, on 1 April 1987, by [section 25(1)][227] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 8(3): repealed, on 1 April 1987, by [section 25(1)][219] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 8(3): repealed, on 1 April 1987, by [section 25(1)][227] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 8(4): amended, on 1 July 2013, by [section 413][220] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 8(4): amended, on 1 July 2013, by [section 413][228] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 8(5): amended, on 1 July 2013, by [section 413][220] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 8(5): amended, on 1 July 2013, by [section 413][228] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 8(6): amended, on 1 July 2013, by [section 413][220] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 8(6): amended, on 1 July 2013, by [section 413][228] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 9 Registrar may publish statements, etc
     
 *   The Registrar may from time to time prepare, cause to be circulated, or publish, for the use of registered societies or branches, or credit unions,---
         
-    *   (a) model forms (including forms of accounts, and statements of financial position) and model rules:
+    *   (a) model forms and model rules:
     
     *   (b) information on the subject of the statistics of life and sickness and its application to the business of friendly societies:
     
@@ -677,7 +707,7 @@ Registrar and officers
     
     Compare: 1909 No 12 s 8
     
-    Section 9(a): amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 9(a): amended, on 1 April 2014, by [section 65][229] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 10 Annual report
     
@@ -696,7 +726,7 @@ Friendly and other societies
     
 *   (1) Subject to this Act, the following societies may be registered under this Part---
         
-    *   (a) societies (in this Act called friendly societies) established to provide by voluntary subscriptions of the members, with or without the aid of donations, for any of the purposes specified in [Schedule 1][198]:
+    *   (a) societies (in this Act called friendly societies) established to provide by voluntary subscriptions of the members, with or without the aid of donations, for any of the purposes specified in [Schedule 1][203]:
     
     *   (b) societies (in this Act called benevolent societies) established for any benevolent or charitable purpose:
     
@@ -718,7 +748,7 @@ Friendly and other societies
     
     Compare: 1909 No 12 ss 11, 18(2); 1915 No 64 s 6; 1975 No 21 s 2
     
-    Section 11(3A): inserted, on 1 February 2011, by [section 241(2)][216] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
+    Section 11(3A): inserted, on 1 February 2011, by [section 241(2)][224] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
 
 ##### 12 Applications for registration of societies
     
@@ -728,7 +758,7 @@ Friendly and other societies
     
     (3) The rules of the society so sent shall either---
         
-    *   (a) contain provisions in respect of the matters mentioned in [Schedule 2][199]; or
+    *   (a) contain provisions in respect of the matters mentioned in [Schedule 2][204]; or
     
     *   (b) accord with any model rules applicable to the society as produced by the Registrar pursuant to [section 9][11].
     
@@ -746,7 +776,7 @@ Friendly and other societies
     
     Compare: 1909 No 12 ss 12, 13
     
-    Section 12(2): amended, on 20 September 2007, by [section 4][222] of the Friendly Societies and Credit Unions Amendment Act 2007 (2007 No 59).
+    Section 12(2): amended, on 20 September 2007, by [section 4][230] of the Friendly Societies and Credit Unions Amendment Act 2007 (2007 No 59).
 
 ##### 13 Certain societies not disentitled to registration because of division of funds
     
@@ -768,11 +798,11 @@ Friendly and other societies
     
     (2) The rules in respect of a branch shall either---
         
-    *   (a) contain provisions in respect of the matters mentioned in [Schedule 3][200]; or
+    *   (a) contain provisions in respect of the matters mentioned in [Schedule 3][205]; or
     
     *   (b) accord with any model rules applicable to the branch as produced by the Registrar pursuant to [section 9][11].
     
-    (3) If a branch does not have separate rules, provision in respect of the matters mentioned in [Schedule 3][200] shall be made (with respect to the branch) in the rules of the society or branch of which that branch forms part.
+    (3) If a branch does not have separate rules, provision in respect of the matters mentioned in [Schedule 3][205] shall be made (with respect to the branch) in the rules of the society or branch of which that branch forms part.
     
     (4) No branch shall be registered unless its objects are identical with or comprised in the objects of the society of which it forms part.
     
@@ -780,11 +810,11 @@ Friendly and other societies
     
     Compare: 1909 No 12 ss 18, 20, 21
     
-    Section 14(1)(d): amended, on 20 September 2007, by [section 5][223] of the Friendly Societies and Credit Unions Amendment Act 2007 (2007 No 59).
+    Section 14(1)(d): amended, on 20 September 2007, by [section 5][231] of the Friendly Societies and Credit Unions Amendment Act 2007 (2007 No 59).
 
 ##### 15 Actuary to certify rates of contributions before registration
     
-*   (1) No society, whether a friendly society or otherwise, or branch of that society shall be registered under this Part until the rates of contributions for any benefits to be provided by the society or branch (being in accordance with the purposes specified in [Schedule 1][198] and as set out in the rules submitted with the application for registration), are certified by an actuary as being appropriate for the business to which they relate.
+*   (1) No society, whether a friendly society or otherwise, or branch of that society shall be registered under this Part until the rates of contributions for any benefits to be provided by the society or branch (being in accordance with the purposes specified in [Schedule 1][203] and as set out in the rules submitted with the application for registration), are certified by an actuary as being appropriate for the business to which they relate.
     
     (2) The Registrar may, in writing, exempt wholly or in part from the requirements of subsection (1) any society or branch transacting business in respect of which he thinks those requirements to be inapplicable, and may from time to time review, vary, or revoke any exemption so given.
     
@@ -800,7 +830,7 @@ Friendly and other societies
     
     Compare: 1909 No 12 s 15
     
-    Section 16(1): amended, on 20 September 2007, by [section 6][224] of the Friendly Societies and Credit Unions Amendment Act 2007 (2007 No 59).
+    Section 16(1): amended, on 20 September 2007, by [section 6][232] of the Friendly Societies and Credit Unions Amendment Act 2007 (2007 No 59).
 
 ##### 17 Acknowledgment of registration
     
@@ -822,9 +852,9 @@ Friendly and other societies
     
     Compare: 1909 No 12 ss 16(1), 17, 18(4)
     
-    Section 17(1)(b): repealed, on 20 September 2007, by [section 7(1)][225] of the Friendly Societies and Credit Unions Amendment Act 2007 (2007 No 59).
+    Section 17(1)(b): repealed, on 20 September 2007, by [section 7(1)][233] of the Friendly Societies and Credit Unions Amendment Act 2007 (2007 No 59).
     
-    Section 17(3): amended, on 20 September 2007, by [section 7(2)][225] of the Friendly Societies and Credit Unions Amendment Act 2007 (2007 No 59).
+    Section 17(3): amended, on 20 September 2007, by [section 7(2)][233] of the Friendly Societies and Credit Unions Amendment Act 2007 (2007 No 59).
 
 ##### 18 Refusal to register
     
@@ -888,13 +918,13 @@ Friendly and other societies
     
     *   (b) where notice of such a change is sent to the Registrar under paragraph (a), he shall register it as an amendment of the rules of the society or branch concerned.
     
-    (3) No amendment of the rules of a society or branch shall be registered unless the rules as amended contain all the provisions that would be required, in accordance with [Schedule 2][199] or [Schedule 3][200] or any model rules produced by the Registrar, as the case may be, on an application for the registration of the society or branch.
+    (3) No amendment of the rules of a society or branch shall be registered unless the rules as amended contain all the provisions that would be required, in accordance with [Schedule 2][204] or [Schedule 3][205] or any model rules produced by the Registrar, as the case may be, on an application for the registration of the society or branch.
     
     (4) No amendment of the rules of a branch shall be registered if the objects of the branch thereby cease to be identical with or comprised in the objects of the society of which the branch forms a part.
     
     Compare: 1909 No 12 ss 28(1), 31, 34(2)
     
-    Section 23(1): amended, on 20 September 2007, by [section 8][226] of the Friendly Societies and Credit Unions Amendment Act 2007 (2007 No 59).
+    Section 23(1): amended, on 20 September 2007, by [section 8][234] of the Friendly Societies and Credit Unions Amendment Act 2007 (2007 No 59).
 
 ##### 24 Revising Barrister or actuary may examine amendments
     
@@ -962,9 +992,9 @@ Friendly and other societies
     
 *   (1) Where any person, being a trustee of a registered society or branch,---
         
-    *   (a) becomes a person subject to a property order under the [Protection of Personal and Property Rights Act 1988][227]; or
+    *   (a) becomes a person subject to a property order under the [Protection of Personal and Property Rights Act 1988][235]; or
     
-    *   (b) has had issued in respect of his person a property order under the [Protection of Personal and Property Rights Act 1988][227]; or
+    *   (b) has had issued in respect of his person a property order under the [Protection of Personal and Property Rights Act 1988][235]; or
     
     *   (c) has been adjudicated a bankrupt or is bound by a composition in favour of his creditors; or
     
@@ -976,9 +1006,9 @@ Friendly and other societies
     
     Compare: 1909 No 12 s 47
     
-    Section 30(1)(a): amended, on 1 October 1988, pursuant to [section 117(3)][228] of the Protection of Personal and Property Rights Act 1988 (1988 No 4).
+    Section 30(1)(a): amended, on 1 October 1988, pursuant to [section 117(3)][236] of the Protection of Personal and Property Rights Act 1988 (1988 No 4).
     
-    Section 30(1)(b): amended, on 1 October 1988, pursuant to [section 117(3)][228] of the Protection of Personal and Property Rights Act 1988 (1988 No 4).
+    Section 30(1)(b): amended, on 1 October 1988, pursuant to [section 117(3)][236] of the Protection of Personal and Property Rights Act 1988 (1988 No 4).
 
 ##### 31 Delegation of duties by trustee
     
@@ -1016,11 +1046,11 @@ Friendly and other societies
 
 ##### 33 Dealing with land under Land Transfer Act
     
-*   (1) Land under the [Land Transfer Act 1952][229] may be transferred, leased, or mortgaged to the registered society or branch by memorandum of transfer, lease, or mortgage made to the trustees (denoted by their official titles and not by their own proper names) in whom the property of the society or branch, or any part of that property, is for the time being vested; and such trustees for the time being shall be deemed to be the registered proprietors of the land so transferred, or of such lease or mortgage.
+*   (1) Land under the [Land Transfer Act 1952][237] may be transferred, leased, or mortgaged to the registered society or branch by memorandum of transfer, lease, or mortgage made to the trustees (denoted by their official titles and not by their own proper names) in whom the property of the society or branch, or any part of that property, is for the time being vested; and such trustees for the time being shall be deemed to be the registered proprietors of the land so transferred, or of such lease or mortgage.
     
     (2) Where any instrument affecting the land included in any such transfer, lease, or mortgage is presented to the District Land Registrar for registration, he shall register the same if it purports to be executed by the persons in whom the property thereby affected appears to him to have been vested at the time of the execution of the instrument or by a majority of those persons in any case where the rules of the society or branch authorise the execution of such an instrument by a majority of those persons.
     
-    (3) Notwithstanding subsection (2), any discharge of a mortgage vested in a society or branch of land under the [Land Transfer Act 1952][229] or any alteration in the terms of any such mortgage (or any variation of priority in relation to any such mortgage) shall be registered by the District Land Registrar if it appears to him to be executed by a majority of the trustees for the time being of the society or branch, as the case may require.
+    (3) Notwithstanding subsection (2), any discharge of a mortgage vested in a society or branch of land under the [Land Transfer Act 1952][237] or any alteration in the terms of any such mortgage (or any variation of priority in relation to any such mortgage) shall be registered by the District Land Registrar if it appears to him to be executed by a majority of the trustees for the time being of the society or branch, as the case may require.
     
     (4) No person claiming under any such instrument so registered shall be affected by notice, actual or constructive, that the property of the society or branch was not vested in the persons executing the same, or that the instrument was executed in contravention of the rules of the society or branch.
     
@@ -1044,7 +1074,7 @@ Friendly and other societies
     
     *   (b) any society registered under this Part as a specially authorised society and duly authorised to guarantee the fidelity of officers of registered societies or branches.
     
-    (4) In the case of any registered friendly society which makes provision by its rules in accordance with [clause 8][230] of Schedule 1 for guaranteeing the performance of their duties by officers of the society or its branches, it shall be a sufficient compliance with this section if any officer of the society or of any branch thereof gives the security of the society in accordance with those rules.
+    (4) In the case of any registered friendly society which makes provision by its rules in accordance with clause 8 of [Schedule 1][203] for guaranteeing the performance of their duties by officers of the society or its branches, it shall be a sufficient compliance with this section if any officer of the society or of any branch thereof gives the security of the society in accordance with those rules.
     
     (5) The Registrar may from time to time, either generally or specifically, review any security or bond given pursuant to this section and may require amendments to the sums secured or conditions applying or both.
     
@@ -1098,7 +1128,7 @@ Friendly and other societies
     
     (3) A minor shall not be a trustee nor hold office as treasurer of any registered society or branch.
     
-    Compare: 1909 No 12 s 91; 1970 No 137 [s 6][231]; Friendly Societies Act 1974 s 25 (UK)
+    Compare: 1909 No 12 s 91; 1970 No 137 [s 6][238]; Friendly Societies Act 1974 s 25 (UK)
 
 ##### 40 Register of members
     
@@ -1116,11 +1146,9 @@ Friendly and other societies
 
 ##### 41 Inspection of books and accounts of society
     
-*   (1) Subject to subsection (2), any member or other person having an interest in the funds of a registered society or branch may inspect the books and accounts of the society or branch at all reasonable hours at the registered office of the society or branch or at any place where the books or accounts are kept.
+*   \[Repealed\]
     
-    (2) Unless he is an officer of the society or branch or is specially authorised by resolution of the society or branch to do so, a member or other person having an interest in the funds of a registered society or branch shall not have the right to inspect any account of any other member without the written consent of that member.
-    
-    Compare: 1909 No 12 s 38
+    Section 41: repealed, on 1 April 2014, by [section 66][239] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 #### Benefits
 
@@ -1136,11 +1164,11 @@ Friendly and other societies
     
     Compare: 1909 No 12 s 51; 1972 No 61 s 2(1); 1975 No 21 s 4
     
-    Section 42(1): amended, on 30 October 2008, by [clause 3][232] of the Friendly Societies and Credit Unions (Maximum Gross Sum) Order 2008 (SR 2008/353).
+    Section 42(1): amended, on 30 October 2008, by [clause 3][240] of the Friendly Societies and Credit Unions (Maximum Gross Sum) Order 2008 (SR 2008/353).
     
-    Section 42(1): amended, on 5 August 2004, by [clause 3][233] of the Friendly Societies and Credit Unions (Maximum Annuity) Order 2004 (SR 2004/210).
+    Section 42(1): amended, on 5 August 2004, by [clause 3][241] of the Friendly Societies and Credit Unions (Maximum Annuity) Order 2004 (SR 2004/210).
     
-    Section 42(4): added, on 1 February 2011, by [section 241(2)][216] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
+    Section 42(4): added, on 1 February 2011, by [section 241(2)][224] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
 
 ##### 43 Member may nominate person to receive money on death
     
@@ -1164,9 +1192,9 @@ Friendly and other societies
     
     Compare: 1909 No 12 s 57; 1975 No 21 s 6; Friendly Societies Act 1974 s 66 (UK)
     
-    Section 43(3): amended, on 26 April 2005, by [section 7][234] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 43(3): amended, on 26 April 2005, by [section 7][242] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 43(5): amended, on 26 April 2005, by [section 7][234] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 43(5): amended, on 26 April 2005, by [section 7][242] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 44 Payment on death of nominator
     
@@ -1180,15 +1208,15 @@ Friendly and other societies
     
     Compare: 1909 No 12 s 57(1), (5), (13)
     
-    Section 44(4): amended, on 26 April 2005, by [section 7][234] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 44(4): amended, on 26 April 2005, by [section 7][242] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 45 Evidence of death
     
 *   (1) A registered society or branch shall not pay any sum of money upon the death of a member or other person whose death is, or ought to be, entered in any register of deaths, except upon the production---
         
-    *   (a) of a death certificate (within the meaning of [section 2][235] of the Births, Deaths, Marriages, and Relationships Registration Act 1995) relating to the death of the member or other person; or
+    *   (a) of a death certificate (within the meaning of [section 2][243] of the Births, Deaths, Marriages, and Relationships Registration Act 1995) relating to the death of the member or other person; or
     
-    *   (ab) of a doctor's certificate (within the meaning of [section 2(1)][236] of the Burial and Cremation Act 1964) relating to the death of the member or other person; or
+    *   (ab) of a doctor's certificate (within the meaning of [section 2(1)][244] of the Burial and Cremation Act 1964) relating to the death of the member or other person; or
     
     *   (b) of the grant of probate of the will of the member or other person or of letters of administration to his estate.
     
@@ -1196,19 +1224,19 @@ Friendly and other societies
     
     Compare: 1909 No 12 s 56; Friendly Societies Act 1974 s 70 (UK)
     
-    Section 45(1)(a): substituted, on 24 January 2009, by [section 47][237] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 45(1)(a): substituted, on 24 January 2009, by [section 47][245] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 45(1)(ab): inserted, on 24 January 2009, by [section 47][237] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 45(1)(ab): inserted, on 24 January 2009, by [section 47][245] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 45(2): amended, on 1 July 2007, by [section 146][238] of the Coroners Act 2006 (2006 No 38).
+    Section 45(2): amended, on 1 July 2007, by [section 146][246] of the Coroners Act 2006 (2006 No 38).
 
 ##### 46 Restriction on payments on account of death of minors
     
-*   [Sections 67B to 67E][239] of the Life Insurance Act 1908 shall, with all necessary modifications, apply in respect of a registered society or branch as if---
+*   [Sections 67B to 67E][247] of the Life Insurance Act 1908 shall, with all necessary modifications, apply in respect of a registered society or branch as if---
         
-    *   (a) every reference therein (except [section 67B(1)(b)][239]) to a company were a reference to a registered society or branch; and
+    *   (a) every reference therein (except [section 67B(1)(b)][247]) to a company were a reference to a registered society or branch; and
     
-    *   (b) the reference in [section 67B(1)(a)][239] to premiums paid under the policy issued by the company on the life of the minor were a reference to any contributions paid to the registered society or branch in order to obtain the benefit payable on the death of the minor.
+    *   (b) the reference in [section 67B(1)(a)][247] to premiums paid under the policy issued by the company on the life of the minor were a reference to any contributions paid to the registered society or branch in order to obtain the benefit payable on the death of the minor.
     
     Section 46: substituted, on 1 April 1986, by section 2 of the Friendly Societies and Credit Unions Amendment Act 1985 (1985 No 118).
 
@@ -1234,7 +1262,7 @@ Friendly and other societies
     
     (3) This section shall bind the Crown.
     
-    Compare: 1909 No 12 s 99; 1950 No 54 [s 5(2)][240]
+    Compare: 1909 No 12 s 99; 1950 No 54 [s 5(2)][248]
 
 #### Investment, funds, and property
 
@@ -1242,7 +1270,7 @@ Friendly and other societies
     
 *   (1) The trustees of a registered society or branch may, with the consent given either generally or specifically by the committee or by a majority of the members of the society or branch present and entitled to vote in general meeting, from time to time invest the funds of the society or branch or any part of them in accordance with this Act.
     
-    (2) Without limiting the matters to which a trustee may have regard pursuant to [Part 2][241] of the Trustee Act 1956, in the exercise of his powers of investment a trustee of a registered society or branch shall have regard---
+    (2) Without limiting the matters to which a trustee may have regard pursuant to [Part 2][249] of the Trustee Act 1956, in the exercise of his powers of investment a trustee of a registered society or branch shall have regard---
         
     *   (a) to the need to ensure that sufficient funds are readily available to meet the operating expenses and other outgoings of the society or branch:
     
@@ -1260,7 +1288,7 @@ Friendly and other societies
     
     Compare: 1909 No 12 s 49(1); Trustee Investments Act 1961 s 6 (UK)
     
-    Section 49(2): amended, on 1 October 1988, by [section 14(1)][242] of the Trustee Amendment Act 1988 (1988 No 119).
+    Section 49(2): amended, on 1 October 1988, by [section 14(1)][250] of the Trustee Amendment Act 1988 (1988 No 119).
 
 ##### 50 Trustees of society may make investments for branch, etc
     
@@ -1282,9 +1310,9 @@ Friendly and other societies
 
 ##### 52 Investment powers
     
-*   Subject to this Act, a trustee may invest the funds of a registered society or branch in accordance with the provisions of the [Trustee Act 1956][243] as to the investment of trust funds.
+*   Subject to this Act, a trustee may invest the funds of a registered society or branch in accordance with the provisions of the [Trustee Act 1956][251] as to the investment of trust funds.
     
-    Section 52: substituted, on 1 October 1988, by [section 14(1)][242] of the Trustee Amendment Act 1988 (1988 No 119).
+    Section 52: substituted, on 1 October 1988, by [section 14(1)][250] of the Trustee Amendment Act 1988 (1988 No 119).
 
 ##### 53 Society providing medical or surgical requisites may issue debentures and invest in certain shares
     
@@ -1300,7 +1328,7 @@ Friendly and other societies
     
     Compare: 1909 No 12 s 49(1)(g); 1922 No 56 s 3
     
-    Section 53(1)(b): amended, on 1 October 1988, by [section 14(1)][242] of the Trustee Amendment Act 1988 (1988 No 119).
+    Section 53(1)(b): amended, on 1 October 1988, by [section 14(1)][250] of the Trustee Amendment Act 1988 (1988 No 119).
 
 ##### 54 Subscriptions to hospitals or other institutions
     
@@ -1342,7 +1370,7 @@ Friendly and other societies
     
     (3) No purchaser, assignee, mortgagee, or tenant shall be bound to inquire as to the authority for any sale, exchange, mortgage, or lease by the trustees, and the receipt of the trustees shall be a discharge for all money arising from or in connection with the sale, exchange, mortgage, or lease.
     
-    (4) Subject, in the case of an instrument affecting land under the [Land Transfer Act 1952][229], to the provisions of [section 33][39], every document to be executed by a registered society or branch in the exercise of any powers conferred on it by this section may (if its rules so provide) be executed by a majority of the trustees in whom the property of the society or branch is vested.
+    (4) Subject, in the case of an instrument affecting land under the [Land Transfer Act 1952][237], to the provisions of [section 33][39], every document to be executed by a registered society or branch in the exercise of any powers conferred on it by this section may (if its rules so provide) be executed by a majority of the trustees in whom the property of the society or branch is vested.
     
     Compare: 1909 No 12 s 50(1)--(4); 1949 No 30 s 5; 1953 No 62 s 2; 1963 No 89 s 2(2); 1975 No 21 s 7
     
@@ -1362,17 +1390,19 @@ Friendly and other societies
     
     Compare: Friendly Societies Act 1974 s 55 (UK)
     
-    Section 58 heading: amended, on 1 March 2002, by [section 170(1)][244] of the Public Trust Act 2001 (2001 No 100).
+    Section 58 heading: amended, on 1 March 2002, by [section 170(1)][252] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 58(1): amended, on 1 March 2002, by [section 170(1)][244] of the Public Trust Act 2001 (2001 No 100).
+    Section 58(1): amended, on 1 March 2002, by [section 170(1)][252] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 58(1)(a): amended, on 1 March 2002, by [section 170(1)][244] of the Public Trust Act 2001 (2001 No 100).
+    Section 58(1)(a): amended, on 1 March 2002, by [section 170(1)][252] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 58(2): amended, on 1 March 2002, by [section 170(1)][244] of the Public Trust Act 2001 (2001 No 100).
+    Section 58(2): amended, on 1 March 2002, by [section 170(1)][252] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 58(3): amended, on 1 March 2002, by [section 170(1)][244] of the Public Trust Act 2001 (2001 No 100).
+    Section 58(3): amended, on 1 March 2002, by [section 170(1)][252] of the Public Trust Act 2001 (2001 No 100).
 
-#### Accounts, audit, and auditors
+#### Accounting records and financial reporting
+    
+*   Heading: replaced, on 1 April 2014, by [section 67][253] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 59 Financial year
     
@@ -1380,213 +1410,145 @@ Friendly and other societies
     
     (2) Where the rules of a registered society or branch are amended to alter its financial year, the amendment may provide that the financial year current at the date of amendment shall be extended for such period not exceeding 6 months as may be specified in its rules or that the financial year next following the financial year that is so current shall be for such period exceeding 12 months but not exceeding 18 months as may be specified in its rules.
     
-    (3) Nothing in this section limits or affects the requirements imposed by the [Financial Reporting Act 1993][245] on a registered society or branch which is an issuer within the meaning of [section 4][246] of that Act.
+    (3) \[Repealed\]
     
     Compare: Friendly Societies Act 1912 s 26A (NSW)
     
-    Section 59(3): added, on 1 July 1994, by [section 49][247] of the Financial Reporting Act 1993 (1993 No 106).
+    Section 59(3): repealed, on 1 April 2014, by [section 68][254] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
-##### 60 Accounting records to be kept
+##### 60 Accounting records must be kept
     
-*   (1) Every registered society and branch shall---
+*   (1) Every registered society or branch must ensure that there are kept at all times accounting records that---
         
-    *   (a) cause proper accounting records to be kept relating to its transactions, and its assets and liabilities; and
+    *   (a) correctly record the transactions of the society or branch; and
     
-    *   (b) establish and maintain a satisfactory system of control of its accounting records, its cash holdings, and all its receipts and payments.
+    *   (b) will enable the society or branch to ensure that the financial statements of the society or branch comply with the requirements of this Act or any other Act (if those statements are required to be prepared); and
     
-    (2) For the purposes of subsection (1)(a), the accounting records must---
+    *   (c) will enable the financial statements of the society or branch to be readily and properly audited (if those statements are required to be audited).
+    
+    (2) Every registered society or branch must establish and maintain a satisfactory system of control of its accounting records.
+    
+    (3) The accounting records must be kept---
         
-    *   (a) correctly record and explain the transactions of the society or branch; and
+    *   (a) in written form in English; or
     
-    *   (b) enable the financial position of the society or branch to be determined with reasonable accuracy at any time; and
+    *   (b) in a form or manner in which they are easily accessible and convertible into written form in English.
     
-    *   (c) in the case of a society or branch that is not an issuer within the meaning of [section 4][246] of the Financial Reporting Act 1993, be such as are necessary to give a true and fair view of the state of affairs of the society or branch; and
-    
-    *   (d) in the case of a society or branch that is an issuer within the meaning of [section 4][246] of the Financial Reporting Act 1993, be such as are necessary to ensure that the financial statements of the society or branch within the meaning of that Act comply with that Act; and
-    
-    *   (e) enable the accounts of the society or branch to be readily and properly audited.
-    
-    (3) Any accounting records to be kept by a registered society or branch may be kept either by making entries in bound books or by recording the matters in question in any other manner.
-    
-    (4) Every society or branch shall take adequate precautions for guarding against falsification of any accounting records and for facilitating the discovery of any such falsification.
-    
-    Compare: Friendly Societies Act 1974 s 29 (UK)
-    
-    Section 60(2): substituted, on 1 July 1994, by [section 49][247] of the Financial Reporting Act 1993 (1993 No 106).
+    Section 60: replaced, on 1 April 2014, by [section 69][255] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
-##### 61 General provisions relating to accounts and statement of financial position
+##### 61 Non-application of section 63 if alternative financial reporting duties under financial markets legislation
     
-*   (1) Every registered society or branch shall, in respect of each financial year, cause to be prepared---
-        
-    *   (a) either an income and expenditure account which deals with the affairs of the society or branch as a whole for that year, or 2 or more income and expenditure accounts for that year which deal separately with the particular businesses or activities conducted by the society or branch; and
+*   [Section 63][73] does not apply to a registered society or branch in relation to a financial year if financial statements in relation to the society or branch and that financial year are required to be prepared under [subpart 3][256] of Part 7 of the Financial Markets Conduct Act 2013 or [section 55][257] of the Financial Reporting Act 2013\.
     
-    *   (b) a statement of financial position as at the end of that financial year.
-    
-    (2) Every income and expenditure account of a registered society or branch shall give a true and fair view---
-        
-    *   (a) if it deals with the affairs of the society or branch as a whole, of the income and expenditure of the society or branch as a whole for the period to which the account relates; and
-    
-    *   (b) if it deals with any particular business or activity conducted by the society or branch, of the income and expenditure of the society or branch in respect of that business or activity for the period to which the account relates.
-    
-    (3) Where that part of subsection (1)(a) relating to 2 or more income and expenditure accounts applies, then, without prejudice to the application of subsection (2)(b) to each income and expenditure account dealing with a particular business or activity conducted by a society or branch, the income and expenditure accounts in question, when considered together, shall give a true and fair view of the income and expenditure of the society or branch as a whole for the financial year to which they relate.
-    
-    (4) Every statement of financial position of a registered society or branch shall give a true and fair view, as at the date of the statement of financial position, of the state of the affairs of the society or branch.
-    
-    (5) A registered society or branch shall not publish any income and expenditure account or statement of financial position unless---
-        
-    *   (a) it has been previously audited by the auditor or auditors last appointed to audit the accounts and statement of financial position of the society or branch; and
-    
-    *   (b) it incorporates a report by the auditor or auditors stating whether, in their opinion, it complies with this section; and
-    
-    *   (c) it has been signed by the secretary of the society or branch and either by 2 members of its committee of management acting on behalf of that committee, or by 1 member of its committee of management acting on behalf of that committee and by one of the trustees of the society or branch.
-    
-    (6) Nothing in this section applies to a society or branch that is an issuer within the meaning of [section 4][246] of the Financial Reporting Act 1993\.
-    
-    Compare: Friendly Societies Act 1974 s 30(1)--(4), (6) (UK)
-    
-    Section 61 heading: amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 61(1)(b): amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 61(4): amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 61(5): amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 61(5)(a): amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 61(6): added, on 1 July 1994, by [section 49][247] of the Financial Reporting Act 1993 (1993 No 106).
+    Section 61: replaced, on 1 April 2014, by [section 69][255] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
-##### 62 Obligation to appoint auditors
+##### 62 Meaning of specified not-for-profit entity
     
-*   (1) Subject to this section, every registered society and branch shall, in each financial year, appoint a qualified auditor or qualified auditors to audit its accounts and statement of financial position for that year.
+*   In [sections 63 to 64A][73], a registered society or branch is, in respect of a financial year, a _specified not-for-profit entity_ if it is such an entity in respect of that year under [section 46][258] of the Financial Reporting Act 2013\.
     
-    (2) Subsection (1) shall not apply to a society or branch if---
-        
-    *   (a) the receipts and payments of that society or branch in respect of the preceding financial year did not, in the aggregate, exceed $50,000; and
-    
-    *   (b) the value of its assets at the end of that year did not, in the aggregate, exceed $50,000\.
-    
-    (3) Subsection (1) shall not apply to a registered branch if---
-        
-    *   (a) the conditions specified in subsection (2)(a) are satisfied in respect of that branch; and
-    
-    *   (b) at the end of the preceding financial year at least 75% of its assets had been transferred to the society of which it is a branch or to another registered branch of that society for the purpose of being invested, in accordance with [section 50][59], by that society or other branch, and the value of its assets not so transferred did not, in the aggregate, exceed $50,000; and
-    
-    *   (c) the society or branch to which the assets were transferred is one to which subsection (1) applies in the financial year in question.
-    
-    (4) A registered society or branch to which, by virtue of subsection (2) or subsection (3), subsection (1) does not apply in respect of any financial year shall, in this Act, be referred to as an exempt society or, as the case may be, an exempt branch, in respect of that financial year.
-    
-    (5) For the purposes of subsection (4), where the preceding financial year of a registered society or branch was greater than a period of 12 months, as provided under [section 59][69], the amount of $50,000 referred to in subsection (2) and subsection (3) shall be increased proportionately.
-    
-    (6) The Registrar may give a direction in the case of any particular society or branch which is not an exempt society or branch and which has not complied with subsection (1) requiring it to comply with the said subsection within such period as he may specify in the direction; and any society or branch which fails to so comply within the specified time commits an offence against this Act.
-    
-    (7) The Governor-General, from time to time by Order in Council, may---
-        
-    *   (a) substitute for any sum or percentage for the time being specified in this section, such sum or percentage as may be specified in the order; and
-    
-    *   (b) prescribe what receipts and payments of a society shall be taken into account for the purposes of subsection (2) or subsection (3),---
-    
-    and any such order may make different provision in relation to different cases or different circumstances.
-    
-    Compare: Friendly Societies Act 1974 s 31 (UK)
-    
-    Section 62(1): amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 62(2)(a): amended, on 30 September 2010, by [clause 3(a)][248] of the Friendly Societies and Credit Unions (Threshold for Obligation to Appoint Auditors) Order 2010 (SR 2010/278).
-    
-    Section 62(2)(b): amended, on 30 September 2010, by [clause 3(b)][248] of the Friendly Societies and Credit Unions (Threshold for Obligation to Appoint Auditors) Order 2010 (SR 2010/278).
-    
-    Section 62(3)(b): amended, on 30 September 2010, by [clause 3(c)][248] of the Friendly Societies and Credit Unions (Threshold for Obligation to Appoint Auditors) Order 2010 (SR 2010/278).
-    
-    Section 62(5): amended, on 30 September 2010, by [clause 3(d)][248] of the Friendly Societies and Credit Unions (Threshold for Obligation to Appoint Auditors) Order 2010 (SR 2010/278).
+    Section 62: replaced, on 1 April 2014, by [section 69][255] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
-##### 63 Qualifications for appointment as auditor
+##### 63 Financial statements must be prepared
     
-*   (1) No person is qualified for appointment as auditor of a registered society or branch under this Act unless he or she is,---
+*   (1) Every registered society or branch must ensure that, within 3 months after the end of the financial year of the society or branch, financial statements are---
         
-    *   (a) in the case of a registered society or branch that is an issuer (within the meaning of [section 4][246] of the Financial Reporting Act 1993), a licensed auditor:
+    *   (a) completed in relation to the society or branch and that financial year; and
     
-    *   (b) in any other case,---
+    *   (b) dated and signed on behalf of the society or branch by the secretary of the society or branch and either by 2 members of its committee of management acting on behalf of that committee, or by 1 member of its committee of management acting on behalf of that committee and by 1 of the trustees of the society or branch.
+    
+    (2) The financial statements must be prepared in accordance with,---
+        
+    *   (a) in the case of a specified not-for-profit entity, generally accepted accounting practice; or
+    
+    *   (b) in any other case, either generally accepted accounting practice or a non-GAAP standard that applies for the purposes of this section.
+    
+    (3) A registered society or branch must not publish any financial statements unless---
+        
+    *   (a) those financial statements have been audited by the auditor or auditors last appointed to audit the financial statements of the society or branch; and
+    
+    *   (b) those financial statements include, or are accompanied by, a report by the auditor or auditors.
+    
+    (4) Subsection (3) does not apply if the financial statements are not required to be audited.
+    
+    (5) This section is subject to [sections 61][71] and [64][74].
+    
+    Section 63: replaced, on 1 April 2014, by [section 69][255] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 64 Registered society or branch may opt out
+    
+*   (1) This section applies to a registered society or branch that would, but for this section, be required to comply with [section 63][73] unless the rules of the society or branch expressly provide that this section does not apply.
+    
+    (2) However, this section does not apply to a registered society or branch in respect of a financial year if, in each of the 2 preceding financial years, the total operating expenditure of the society or branch is $30 million or more.
+    
+    (3) The members of a registered society or branch may, at a meeting of the society or branch held within 6 months from the start of a financial year, opt out of compliance with [section 63][73] in relation to that financial year by way of a resolution of a majority of the members of the registered society or branch.
+    
+    (4) If the members opt out of compliance with [section 63][73] in relation to a financial year under this section, the section does not apply to the society or branch in relation to that financial year.
+    
+    (5) A financial reporting standard (or a part of a standard) issued by the External Reporting Board that is expressed as applying for the purposes of this section must be applied in determining whether subsection (2) applies.
+    
+    Section 64: replaced, on 1 April 2014, by [section 69][255] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 64A Obligation to appoint auditors
+    
+*   (1) Every registered society or branch that is a specified not-for-profit entity in respect of a financial year must appoint a qualified auditor to audit its financial statements for that year (whether the financial statements are prepared under this Act or another Act).
+    
+    (2) Subsection (1) does not apply if financial statements for that year are not required to be prepared under any Act.
+    
+    (3) _See_ [sections 37 to 39][259] of the Financial Reporting Act 2013 (which provide for the appointment of a partnership and access to information in relation to a registered society or branch).
+    
+    (4) If a registered society or branch is not a specified not-for-profit entity in respect of a financial year, the society or branch must appoint a qualified auditor to audit its financial statements for that year if the rules of the society or branch require an auditor to be appointed.
+    
+    Section 64A: inserted, on 1 April 2014, by [section 69][255] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 64B Registrar may appoint auditor
+    
+*   The Registrar may appoint an auditor if---
+        
+    *   (a) no auditor is appointed as required by [section 64A][75]; or
+    
+    *   (b) a casual vacancy in the office of auditor is not filled within 1 month of the vacancy occurring.
+    
+    Section 64B: inserted, on 1 April 2014, by [section 69][255] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 64C Offences relating to accounting records and financial reporting
+    
+*   Every registered society or branch commits an offence and is liable on conviction to a fine not exceeding $50,000 if---
+        
+    *   (a) the society or branch fails to comply with [section 60][70], [63(3)][73], or [64A][75]; or
+    
+    *   (b) the society or branch is required to comply with [section 63][73] and the financial statements of the society or branch---
             
-        *   (i) a chartered accountant (within the meaning of section 19 of the [New Zealand Institute of Chartered Accountants Act 1996][249]); or
+        *   (i) are not completed and signed within the time specified in that section; or
         
-        *   (ii) a member, fellow, or associate of an association of accountants constituted outside New Zealand that is for the time being approved for the purposes of [section 199][250] of the Companies Act 1993\.
+        *   (ii) fail to comply with an applicable financial reporting standard or a non-GAAP standard (as the case may be).
         
         
     
-    (2) The appointment of a partnership by the firm name to be the auditors of a registered society or branch shall be taken to be the appointment of all the persons who are partners in the firm from time to time.
-    
-    (2A) However, if the registered society or branch is an issuer (within the meaning of [section 4][246] of the Financial Reporting Act 1993),---
-        
-    *   (a) a partnership appointed by its firm name to be the auditors of the registered society or branch must be a registered audit firm; and
-    
-    *   (b) the appointment of a registered audit firm by its firm name to be the auditors of the registered society or branch is to be taken to be the appointment of all the partners in the firm, from time to time, who are licensed auditors.
-    
-    (3) Nothing in subsection (1) shall disqualify any person appointed as auditor of a registered society or branch and holding office as such immediately before the commencement of this Act from acting as auditor of that society or branch, or from being at any time and from time to time during a period of 5 years after the commencement of this Act reappointed as auditor of that society or branch.
-    
-    (4) None of the following persons shall be qualified for appointment as auditor of a registered society or branch:
-        
-    *   (a) an officer or employee of the society or branch:
-    
-    *   (b) a person who is a partner of or in the employment of an officer or employee of the society or branch:
-    
-    *   (c) a body corporate.
-    
-    (5) Subsections (1), (2A), and (4) shall have effect notwithstanding anything to the contrary in the rules of any society or branch.
-    
-    (6) Subject to [section 64][74], if a registered society or branch appoints any unqualified person to be an auditor---
-        
-    *   (a) the appointment shall be void, and the Registrar may appoint a qualified person to fill the vacancy:
-    
-    *   (b) the society or branch, and every officer of the society or branch who is in default, commits an offence against this Act.
-    
-    (7) Subject to this Act, any unqualified person who acts as auditor of any registered society or branch commits an offence against this Act.
-    
-    Compare: 1965 No 22 [s 100][251]
-    
-    Section 63(1): replaced, on 1 July 2012, by [section 82][215] of the Auditor Regulation Act 2011 (2011 No 21).
-    
-    Section 63(2): amended, on 1 July 2012, by [section 82][215] of the Auditor Regulation Act 2011 (2011 No 21).
-    
-    Section 63(2A): inserted, on 1 July 2012, by [section 82][215] of the Auditor Regulation Act 2011 (2011 No 21).
-    
-    Section 63(5): amended, on 1 July 2012, by [section 82][215] of the Auditor Regulation Act 2011 (2011 No 21).
+    Section 64C: inserted, on 1 April 2014, by [section 69][255] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
-##### 64 Audit of exempt societies and branches
+##### 64D Audit must be carried out in accordance with auditing and assurance standards
     
-*   (1) Subject to any direction given by the Registrar under subsection (2), every exempt society or exempt branch shall, in each financial year, appoint at its option either---
-        
-    *   (a) a qualified auditor or qualified auditors; or
+*   An auditor must, in carrying out an audit of the financial statements of a registered society or branch, comply with all applicable auditing and assurance standards.
     
-    *   (b) 2 or more persons who are not qualified auditors,---
+    Section 64D: inserted, on 1 April 2014, by [section 69][255] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 64E Auditor must report to society or branch
     
-    to audit its accounts and statement of financial position for that year.
+*   (1) The auditor of a registered society or branch must make a report to the society or branch on the financial statements audited by the auditor.
     
-    (2) The Registrar may give a direction in the case of any particular exempt society or exempt branch in respect of the current financial year requiring it to appoint a qualified auditor or auditors to audit its accounts and statement of financial position for that year.
+    (2) The auditor's report must comply with the requirements of all applicable auditing and assurance standards.
     
-    (3) The Registrar may also give a direction in the case of any particular exempt society or exempt branch in respect of any financial year before that in which the direction is given and did not appoint a qualified auditor or qualified auditors to audit its accounts and statement of financial position for that year---
-        
-    *   (a) requiring it to appoint a qualified auditor to audit those accounts and that statement of financial position; and
-    
-    *   (b) in any case where that society or branch has sent to him its annual return for that year before the date of the direction, requiring it (after its accounts and statement of financial position have been audited by a qualified auditor) to send to him within 3 months from receipt of the direction, or within such further period as he may allow in any particular case, a further annual return complying with the requirements of this Act (other than the requirement as to the time at which the annual return must be sent).
-    
-    Compare: Friendly Societies Act 1974 s 32(1)--(3) (UK)
-    
-    Section 64(1): amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 64(2): amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 64(3): amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 64(3)(a): amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 64(3)(b): amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 64E: inserted, on 1 April 2014, by [section 69][255] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 65 Reappointment and removal of auditors
     
-*   (1) Subject to this Act, a qualified auditor appointed to audit the accounts and statement of financial position of a registered society or branch for the preceding financial year shall be deemed to be reappointed as auditor of the society for the current financial year unless---
+*   (1) Subject to this Act, a qualified auditor appointed to audit the financial statements of a registered society or branch for the preceding financial year shall be deemed to be reappointed as auditor of the society for the current financial year unless---
         
     *   (a) a resolution has been passed at a general meeting of the society or branch appointing another auditor or other auditors or providing expressly that the present auditor shall not be reappointed; or
+    
+    *   (ab) financial statements for the current financial year are not required to be prepared; or
+    
+    *   (ac) the society or branch is not required under [section 64A][75] or any other enactment to appoint an auditor for the current financial year; or
     
     *   (b) he has given to the society or branch notice in writing of his unwillingness to be reappointed; or
     
@@ -1598,11 +1560,15 @@ Friendly and other societies
     
     Compare: Friendly Societies Act 1974 s 33 (UK)
     
-    Section 65(1): amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 65(1): amended, on 1 April 2014, by [section 70(1)][260] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 65(1)(ab): inserted, on 1 April 2014, by [section 70(2)][260] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 65(1)(ac): inserted, on 1 April 2014, by [section 70(2)][260] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 66 Notice of resolution relating to appointment and removal of auditors
     
-*   (1) For the purposes of [section 65(1)(a)][75], a resolution at a general meeting of a registered society or branch---
+*   (1) For the purposes of [section 65(1)(a)][80], a resolution at a general meeting of a registered society or branch---
         
     *   (a) appointing another auditor or auditors in place of a retiring qualified auditor; or
     
@@ -1616,7 +1582,7 @@ Friendly and other societies
     
     (4) Where---
         
-    *   (a) for any of the reasons mentioned in [section 65(2)][75], an intended resolution to appoint another auditor or auditors in place of a retiring qualified auditor cannot be proceeded with at the meeting; and
+    *   (a) for any of the reasons mentioned in [section 65(2)][80], an intended resolution to appoint another auditor or auditors in place of a retiring qualified auditor cannot be proceeded with at the meeting; and
     
     *   (b) by the rules of the registered society or branch an auditor can only be appointed by a resolution passed at a general meeting after notice of the intended resolution has been given to the society or branch before the meeting,---
     
@@ -1628,7 +1594,7 @@ Friendly and other societies
 
 ##### 67 Proceedings subsequent to notice of intention to move resolution
     
-*   (1) On receipt by a registered society or branch of notice of intention to move a resolution under [section 66(1)][76], the society or branch shall forthwith send a copy of the notice to the retiring auditor.
+*   (1) On receipt by a registered society or branch of notice of intention to move a resolution under [section 66(1)][81], the society or branch shall forthwith send a copy of the notice to the retiring auditor.
     
     (2) On receipt of a copy of such a notice, the retiring auditor may at any time before the date of the general meeting make concise representations in writing to the society or branch with respect to the intended resolution and may also---
         
@@ -1636,7 +1602,7 @@ Friendly and other societies
     
     *   (b) request that notice of his intention, or of any such representations made by him and received by the society or branch before notice of the intended resolution is given to its members, shall be given to members of the society or branch.
     
-    (3) Subject to subsection (5), a society or branch which receives such representations or such a notification before the date when notice of the intended resolution is required by subsection (2) or (as the case may be) subsection (3) of [section 66][76] is to be given to its members shall---
+    (3) Subject to subsection (5), a society or branch which receives such representations or such a notification before the date when notice of the intended resolution is required by subsection (2) or (as the case may be) subsection (3) of [section 66][81] is to be given to its members shall---
         
     *   (a) in any notice of the resolution given to its members, state that it has received those representations or that notification (as the case may be); and
     
@@ -1654,51 +1620,13 @@ Friendly and other societies
 
 ##### 68 Auditors' report
     
-*   (1) The auditors of a registered society or branch shall make a report to the society or branch on the accounts examined by them and on the income and expenditure account or accounts and the statement of financial position of the society or branch for the financial year in respect of which they are appointed.
+*   \[Repealed\]
     
-    (2) The report shall state whether the income and expenditure account or accounts and the statement of financial position for that year comply with the requirements of this Act and whether, in the opinion of the auditors,---
-        
-    *   (a) the income and expenditure account or accounts give a true and fair view, in accordance with [section 61][71], of the income and expenditure of the society or branch as a whole for that financial year and, in the case of each such account which deals with a particular business or activity conducted by the society or branch, a true and fair view in accordance with that section of the income and expenditure of the society or branch in respect of that business or activity for that year; and
-    
-    *   (b) the statement of financial position gives a true and fair view, in accordance with that section, of the state of the affairs of the society or branch as at the end of that financial year.
-    
-    (3) Where the report of the auditors relates to any accounts other than the income and expenditure account or accounts for the financial year in respect of which they are appointed, that report shall state whether those accounts give a true and fair view of any matter to which they relate.
-    
-    (4) It shall be the duty of the auditors of a registered society or branch, in preparing their report under this section, to carry out such investigations and make such enquiries as will enable them to form an opinion of the following matters:
-        
-    *   (a) whether the society or branch has kept proper accounting records in accordance with [section 60(1)(a) and (2)][70]; and
-    
-    *   (b) whether the society or branch has maintained a satisfactory system of control over its transactions in accordance with [section 60(1)(b)][70] and [section 60(4)][70]; and
-    
-    *   (c) whether the income and expenditure account or accounts, the other accounts (if any) to which the report relates, and the statement of financial position are in agreement with the accounting records of the society or branch,---
-    
-    and, if the auditors are of opinion that the society or branch has failed to comply with paragraph (a) or paragraph (b) of [section 60(1)][70] or, as the case may be, [section 60(4)][70], or if the income and expenditure account or accounts, the other accounts (if any) and the statement of financial position are not in agreement with the accounting records of the society or branch, the auditors shall state that fact in their report.
-    
-    (5) If the auditors fail to obtain all the information and explanations which, to the best of their knowledge and belief, are necessary for the purposes of their audit, they shall state that fact in their report.
-    
-    (6) Nothing in this section applies to a society or branch that is an issuer within the meaning of [section 4][246] of the Financial Reporting Act 1993\.
-    
-    Compare: Friendly Societies Act 1974 s 38 (UK)
-    
-    Section 68(1): amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 68(2): amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 68(2)(b): amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 68(4): amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 68(4)(c): amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 68(6): added, on 1 July 1994, by [section 49][247] of the Financial Reporting Act 1993 (1993 No 106).
+    Section 68: repealed, on 1 April 2014, by [section 71][261] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
-##### 69 Auditors' rights of access
+##### 69 Auditors' rights to attend and be heard at meetings
     
-*   (1) Every auditor of a registered society or branch---
-        
-    *   (a) shall have a right of access at all times to the accounting records of the society or branch and to all other documents relating to its affairs; and
-    
-    *   (b) shall be entitled to require from the officers of the society or branch such information and explanations as he thinks necessary for the performance of the duties of the auditors.
+*   (1) \[Repealed\]
     
     (2) The auditors of a registered society or branch shall be entitled---
         
@@ -1707,6 +1635,10 @@ Friendly and other societies
     *   (b) to be heard at any meeting which they attend on any part of the business of the meeting which concerns them as auditors.
     
     Compare: Friendly Societies Act 1974 s 39 (UK)
+    
+    Section 69 heading: amended, on 1 April 2014, by [section 72(1)][262] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 69(1): repealed, on 1 April 2014, by [section 72(2)][262] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 #### Annual returns and valuations
 
@@ -1720,15 +1652,9 @@ Friendly and other societies
         
     *   (a) shall be made up for the financial year to which the return relates; and
     
-    *   (b) shall contain---
-            
-        *   (i) in the case of a society or branch that is not an issuer within the meaning of [section 4][246] of the Financial Reporting Act 1993, the income and expenditure account or accounts of the society or branch prepared in accordance with [section 61(1)][71] for the financial year to which the return relates and a statement of financial position as at the end of that year; or
-        
-        *   (ii) in the case of a society or branch that is an issuer within the meaning of [section 4][246] of the Financial Reporting Act 1993, the financial statements required to be completed in respect of the issuer and the financial year to which the return relates; and
-        
-        
+    *   (b) must contain, if financial statements are required by this Act or any other Act to be prepared in relation to the society or branch for the financial year to which the return relates, a copy of those financial statements; and
     
-    *   (c) shall not contain any other accounts unless they have been audited by the auditors for the society or branch:
+    *   (c) \[Repealed\]
     
     *   (d) shall have attached a list containing the names, addresses, and designations of the committee of management, the secretary, treasurer, and other principal officers, the trustees, and those persons who are authorised to sue and be sued on behalf of the society or branch; and
     
@@ -1736,71 +1662,35 @@ Friendly and other societies
     
     (4) In the case of a branch, the annual return, list, and statement shall be sent to the Registrar under the hand of the secretary of the society of which the branch forms part or, alternatively, may be comprised in the annual return of that society.
     
-    (5) The annual return to the Registrar shall be accompanied,---
-        
-    *   (a) in the case of a society or branch that is not an issuer within the meaning of [section 4][246] of the Financial Reporting Act 1993, by the report of the auditors on the income and expenditure account or accounts and statement of financial position contained in the annual return; or
-    
-    *   (b) in the case of a society or branch that is an issuer within the meaning of [section 4][246] of the Financial Reporting Act 1993, by the report of the auditors on the financial statements contained in the annual return.
+    (5) The annual return sent to the Registrar must be accompanied by the auditor's report on the financial statements referred to in subsection (3)(b) (if any).
     
     Compare: 1909 No 12 s 36; Friendly Societies Act 1974 s 43(4) (UK)
     
-    Section 70(3)(b): substituted, on 1 July 1994, by [section 49][247] of the Financial Reporting Act 1993 (1993 No 106).
+    Section 70(3)(b): replaced, on 1 April 2014, by [section 73(1)][263] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 70(3)(b)(i): amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 70(3)(c): repealed, on 1 April 2014, by [section 73(1)][263] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 70(3)(c): substituted, on 1 July 1994, by [section 49][247] of the Financial Reporting Act 1993 (1993 No 106).
-    
-    Section 70(5): substituted, on 1 July 1994, by [section 49][247] of the Financial Reporting Act 1993 (1993 No 106).
-    
-    Section 70(5)(a): amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 70(5): replaced, on 1 April 2014, by [section 73(2)][263] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 71 Annual return by society under dissolution, etc
     
-*   (1) Any registered society or branch which is being terminated by an instrument of dissolution under [section 94][111] or the award of the Registrar under [section 95][112] shall make up its annual return to the date of that instrument of dissolution or that award.
+*   (1) Any registered society or branch which is being terminated by an instrument of dissolution under [section 94][116] or the award of the Registrar under [section 95][117] shall make up its annual return to the date of that instrument of dissolution or that award.
     
-    (2) In the case of a society or branch amalgamating or transferring its engagements pursuant to [section 83][97] or converting to a company pursuant to [section 84][98], the Registrar may require an annual return made up to the date of such amalgamation, transfer of engagements, or conversion, or to such other date as he may specify.
+    (2) In the case of a society or branch amalgamating or transferring its engagements pursuant to [section 83][102] or converting to a company pursuant to [section 84][103], the Registrar may require an annual return made up to the date of such amalgamation, transfer of engagements, or conversion, or to such other date as he may specify.
 
 ##### 72 Annual return to be supplied to members
     
-*   (1) On the application of a member or person interested in its funds a registered society or branch shall supply to him without charge either---
-        
-    *   (a) a copy of the last annual return of the society or branch; or
+*   (1) A registered society or branch must, on the application of a member or person interested in its funds, supply to the member or person without charge a copy of the last annual return of the society or branch.
     
-    *   (b) a statement of financial position or other document duly audited containing the same particulars relating to the affairs of the society or branch as are contained in the annual return.
+    (2) A registered society or branch must provide, together with every copy of an annual return supplied under subsection (1), a copy of the auditor's report on the financial statements contained in the return (if any).
     
-    (2) Together with every copy of an annual return supplied in accordance with paragraph (a) of subsection (1), a registered society or branch shall provide---
-        
-    *   (a) in the case of a society or branch that is not an issuer within the meaning of [section 4][246] of the Financial Reporting Act 1993, a copy of the report of the auditors on the accounts and statement of financial position contained in the return; or
-    
-    *   (b) in the case of a society or branch that is an issuer within the meaning of [section 4][246] of the Financial Reporting Act 1993, a copy of the report of the auditors on the financial statements contained in the return.
-    
-    (3) Together with every statement of financial position or other document supplied in accordance with paragraph (b) of subsection (1), a registered society or branch shall provide a copy of the report of the auditors on the statement of financial position or document.
-    
-    Compare: 1909 No 12 s 39
-    
-    Section 72(1)(b): amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 72(2): substituted, on 1 July 1994, by [section 49][247] of the Financial Reporting Act 1993 (1993 No 106).
-    
-    Section 72(2)(a): amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 72(3): added, on 1 July 1994, by [section 49][247] of the Financial Reporting Act 1993 (1993 No 106).
-    
-    Section 72(3): amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 72: replaced, on 1 April 2014, by [section 74][264] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
-##### 73 Accounts and statement of financial position to be available
+##### 73 Financial statements must be available
     
-*   Every registered society or branch shall keep available for inspection (without charge) by a member or person interested in its funds at its office during ordinary office hours,---
-        
-    *   (a) in the case of a society or branch that is not an issuer within the meaning of [section 4][246] of the Financial Reporting Act 1993, a copy of the last statement of financial position for the time being including the income and expenditure account or accounts for the year to which the statement of financial position relates, together with the auditor's report and a copy of the last actuarial report; or
+*   Every registered society or branch must keep available for inspection (without charge), by a member or person interested in its funds, at its office during ordinary office hours a copy of the last financial statements completed and signed in accordance with this Act or any other Act (if any), together with the auditor's report (if any) and a copy of the last actuarial report.
     
-    *   (b) in the case of a society or branch that is an issuer within the meaning of [section 4][246] of the Financial Reporting Act 1993, a copy of the last financial statements completed and signed in accordance with that Act, together with the auditor's report and a copy of the last actuarial report.
-    
-    Section 73: substituted, on 1 July 1994, by [section 49][247] of the Financial Reporting Act 1993 (1993 No 106).
-    
-    Section 73 heading: amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 73(a): amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 73: replaced, on 1 April 2014, by [section 75][265] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 74 Actuarial valuation and report
     
@@ -1822,7 +1712,7 @@ Friendly and other societies
     
     Compare: 1909 No 12 s 37; 1915 No 64 s 3
     
-    Section 74(5): amended, on 1 February 2011, by [section 241(2)][216] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
+    Section 74(5): amended, on 1 February 2011, by [section 241(2)][224] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
 
 ##### 75 Obligation on branches to supply particulars for annual return or actuarial valuation and report
     
@@ -1852,17 +1742,17 @@ Friendly and other societies
     
     Compare: 1909 No 12 ss 41, 41A; 1977 No 152 s 2(1)
     
-    Section 76(5): added, on 1 February 2011, by [section 241(2)][216] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
+    Section 76(5): added, on 1 February 2011, by [section 241(2)][224] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
 
 ##### 77 Registrar may advise society on financial position
     
-*   (1) If, after consideration of the actuarial valuation or any report made in respect of any registered society or branch under [section 74][85] or pursuant to [section 7(3)(a)][9], it appears to the Registrar to be necessary or desirable that the financial structure of the business or activities or any part of them of that society or branch should be amended or improved, he may advise the society or branch of his opinion and require them to submit to him such proposals (whether by way of increase in the rate of contribution or otherwise) as will effect that financial amendment or improvement.
+*   (1) If, after consideration of the actuarial valuation or any report made in respect of any registered society or branch under [section 74][90] or pursuant to [section 7(3)(a)][9], it appears to the Registrar to be necessary or desirable that the financial structure of the business or activities or any part of them of that society or branch should be amended or improved, he may advise the society or branch of his opinion and require them to submit to him such proposals (whether by way of increase in the rate of contribution or otherwise) as will effect that financial amendment or improvement.
     
     (2) This section does not apply to a licensed insurer.
     
     Compare: Friendly Societies Act 1912 s 31 (NSW)
     
-    Section 77(2): added, on 1 February 2011, by [section 241(2)][216] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
+    Section 77(2): added, on 1 February 2011, by [section 241(2)][224] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
 
 #### Disputes
 
@@ -1876,9 +1766,9 @@ Friendly and other societies
     
     (2) Subject to this Act, every dispute between---
         
-    *   (a) a member , or person claiming through a member (unless that member or person is a trustee appointed under [section 33(2)(a)][252] of the Securities Act 1978) or under the rules of a registered society or branch, and the society or branch or an officer thereof; or
+    *   (a) a member , or person claiming through a member (unless that member or person is a trustee appointed under [section 33(2)(a)][266] of the Securities Act 1978) or under the rules of a registered society or branch, and the society or branch or an officer thereof; or
     
-    *   (b) any person aggrieved who has ceased to be a member of a registered society or branch, or any person claiming through such person aggrieved (unless that person aggrieved or other person claiming through that person is a trustee appointed under [section 33(2)(a)][252] of the Securities Act 1978), and the society or branch or an officer thereof; or
+    *   (b) any person aggrieved who has ceased to be a member of a registered society or branch, or any person claiming through such person aggrieved (unless that person aggrieved or other person claiming through that person is a trustee appointed under [section 33(2)(a)][266] of the Securities Act 1978), and the society or branch or an officer thereof; or
     
     *   (c) any registered branch of any society or branch and the society or branch of which it is a branch; or
     
@@ -1892,13 +1782,13 @@ Friendly and other societies
     
     Compare: 1909 No 12 s 72(1), (4); Friendly Societies Act 1974 s 76(4) (UK)
     
-    Section 78(2)(a): amended, on 15 April 2004, by [section 3(1)][253] of the Friendly Societies and Credit Unions Amendment Act 2004 (2004 No 28).
+    Section 78(2)(a): amended, on 15 April 2004, by [section 3(1)][267] of the Friendly Societies and Credit Unions Amendment Act 2004 (2004 No 28).
     
-    Section 78(2)(b): amended, on 15 April 2004, by [section 3(2)][253] of the Friendly Societies and Credit Unions Amendment Act 2004 (2004 No 28).
+    Section 78(2)(b): amended, on 15 April 2004, by [section 3(2)][267] of the Friendly Societies and Credit Unions Amendment Act 2004 (2004 No 28).
 
 ##### 79 Reference of dispute to Registrar
     
-*   (1) Notwithstanding anything to the contrary in the rules of any registered society or branch, any party to a dispute of a kind mentioned in [section 78(2)][90] may refer the dispute to the Registrar---
+*   (1) Notwithstanding anything to the contrary in the rules of any registered society or branch, any party to a dispute of a kind mentioned in [section 78(2)][95] may refer the dispute to the Registrar---
         
     *   (a) with the consent of the other party or parties to the dispute:
     
@@ -1912,25 +1802,25 @@ Friendly and other societies
 
 ##### 80 Statement of case, etc, in settlement of dispute
     
-*   (1) Notwithstanding anything in any other Act, the Registrar, or any arbitrator or umpire to whom a dispute of a kind mentioned in [section 78(2)][90] is referred, shall not be compelled to state a special case on any question of law arising, but may, if he thinks fit, at the request of any party, state a case for the opinion of the High Court.
+*   (1) Notwithstanding anything in any other Act, the Registrar, or any arbitrator or umpire to whom a dispute of a kind mentioned in [section 78(2)][95] is referred, shall not be compelled to state a special case on any question of law arising, but may, if he thinks fit, at the request of any party, state a case for the opinion of the High Court.
     
     (2) The Registrar, or any arbitrator or umpire to whom such a dispute is referred, may grant to any party such discovery as to documents and otherwise, or such inspection of documents, as might be granted by the High Court, and the discovery shall be made on behalf of the society or branch by such of their officers as the Registrar, arbitrator, or umpire may determine.
     
     Compare: 1909 No 12 s 72(6), (7)
     
-    Section 80(1): amended, on 1 July 1997, by [section 17][254] of the Arbitration Act 1996 (1996 No 99).
+    Section 80(1): amended, on 1 July 1997, by [section 17][268] of the Arbitration Act 1996 (1996 No 99).
 
 ##### 81 Reference of disputes to court otherwise than under rules
     
-*   (1) Where, in relation to a dispute of a kind mentioned in [section 78(2)][90], no decision is made on the dispute within 40 days after application to the registered society or branch in question for a reference under its rules or the Registrar has declined a reference under [section 79][91], then, subject to subsection (2), any person, society, or branch such as is mentioned in paragraphs  (a) to (e) of the said section 78(2) who is a party to the dispute may apply to any court of competent jurisdiction, and the court to which the application is made may hear and determine the matter in dispute.
+*   (1) Where, in relation to a dispute of a kind mentioned in [section 78(2)][95], no decision is made on the dispute within 40 days after application to the registered society or branch in question for a reference under its rules or the Registrar has declined a reference under [section 79][96], then, subject to subsection (2), any person, society, or branch such as is mentioned in paragraphs  (a) to (e) of the said section 78(2) who is a party to the dispute may apply to any court of competent jurisdiction, and the court to which the application is made may hear and determine the matter in dispute.
     
     (2) In the case of a society with branches, the period of 40 days referred to in subsection (1) shall not begin to run until application has been made in succession to all the bodies entitled to determine the dispute under the rules of the society or branch; but the rules of the society or branch shall not require a greater delay than 3 months between each successive determination of a dispute by the bodies entitled under the rules to determine the dispute.
     
-    (3) For the purposes of this section, the term _court_ includes a Disputes Tribunal established under the [Disputes Tribunals Act 1988][255].
+    (3) For the purposes of this section, the term _court_ includes a Disputes Tribunal established under the [Disputes Tribunals Act 1988][269].
     
     Compare: 1909 No 12 s 72(5); Friendly Societies Act 1974 s 79 (UK)
     
-    Section 81(3): substituted, on 1 March 1989, by [section 82(2)][256] of the Disputes Tribunals Act 1988 (1988 No 110).
+    Section 81(3): substituted, on 1 March 1989, by [section 82(2)][270] of the Disputes Tribunals Act 1988 (1988 No 110).
 
 #### Special resolutions
 
@@ -1950,13 +1840,13 @@ Friendly and other societies
         
     *   (a) amalgamating with another registered society or societies; or
     
-    *   (b) transferring its engagements to another registered society or company registered under the Companies Act 1955 or the [Companies Act 1993][206], as the case may be---
+    *   (b) transferring its engagements to another registered society or company registered under the [Companies Act 1993][212]---
     
-    the Registrar shall not register the copy before the expiry of a period of 6 weeks commencing with the day on which he receives it, or, where objection has been made under [section 85][99], he shall not register the copy until the period specified in subsection (3) of that section has expired.
+    the Registrar shall not register the copy before the expiry of a period of 6 weeks commencing with the day on which he receives it, or, where objection has been made under [section 85][104], he shall not register the copy until the period specified in subsection (3) of that section has expired.
     
     Compare: 1909 No 12 ss 60, 63(1)(a), (2); Friendly Societies Act 1974 s 86 (UK)
     
-    Section 82(4)(b): amended, on 1 July 1994, by [section 2][257] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 82(4)(b): amended, on 5 December 2013, by [section 14][271] of the Companies Amendment Act 2013 (2013 No 111).
 
 #### Amalgamations, transfers of engagements, and conversions
 
@@ -1966,7 +1856,7 @@ Friendly and other societies
     
     (2) A registered society may by special resolution transfer its engagements to any other registered society which may (by special resolution or in such other manner as may be authorised by its rules) undertake to fulfil the engagements of that society.
     
-    (3) A registered society may by special resolution determine to transfer its engagements to a company registered under the Companies Act 1955 or the [Companies Act 1993][206], as the case may be.
+    (3) A registered society may by special resolution determine to transfer its engagements to a company registered under the [Companies Act 1993][212].
     
     (4) A society which has branches shall not amalgamate or transfer its engagements pursuant to this section except with the consent of the central body of the society.
     
@@ -1986,29 +1876,29 @@ Friendly and other societies
     
     *   (d) the payments (if any) to be made to the members of the relevant society, and of the other society or societies concerned, in consideration of the union or transfer of engagements.
     
-    (7) Subject to [section 97][114], where a registered society transfers all its engagements to a company registered under the Companies Act 1955 or the [Companies Act 1993][206], as the case may be, the registration of that society under this Act and the registration of its branches shall thereupon become void and shall be cancelled by the Registrar.
+    (7) Subject to [section 97][119], where a registered society transfers all its engagements to a company registered under the [Companies Act 1993][212], the registration of that society under this Act and the registration of its branches shall thereupon become void and shall be cancelled by the Registrar.
     
-    (8) Where a registered society transfers part of its engagements to a company registered under the Companies Act 1955 or the [Companies Act 1993][206], as the case may be, then, notwithstanding anything to the contrary in [section 52][61], the society may, with the approval of the Registrar, hold shares in that company subject to such conditions as the Registrar thinks fit.
+    (8) Where a registered society transfers part of its engagements to a company registered under the [Companies Act 1993][212], then, notwithstanding anything to the contrary in [section 52][61], the society may, with the approval of the Registrar, hold shares in that company subject to such conditions as the Registrar thinks fit.
     
     (9) No amalgamation or transfer of engagements shall prejudice any right of a creditor of either or any society which is a party thereto.
     
     Compare: 1909 No 12 ss 62, 63(1); Friendly Societies Act 1974 s 82(4), (5) (UK)
     
-    Section 83(3): amended, on 1 July 1994, by [section 2][257] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 83(3): amended, on 5 December 2013, by [section 14][271] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 83(7): amended, on 1 July 1994, by [section 2][257] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 83(7): amended, on 5 December 2013, by [section 14][271] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 83(8): amended, on 1 July 1994, by [section 2][257] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 83(8): amended, on 5 December 2013, by [section 14][271] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 84 Society may apply to be registered as company
     
-*   (1) A registered society may, by special resolution, determine to apply to be registered as a company under the [Companies Act 1993][206].
+*   (1) A registered society may, by special resolution, determine to apply to be registered as a company under the [Companies Act 1993][212].
     
     (2) A society that has branches shall not pass a resolution of the kind referred to in subsection (1) except with the consent of the central body of the society.
     
-    (3) A copy of every special resolution passed for the purposes of subsection (1) shall be sent or delivered to the Registrar of Companies together with the application for registration under [section 12][258] of the Companies Act 1993\.
+    (3) A copy of every special resolution passed for the purposes of subsection (1) shall be sent or delivered to the Registrar of Companies together with the application for registration under [section 12][272] of the Companies Act 1993\.
     
-    (4) Subject to subsection (5) and to [section 97][114], if a registered society is registered as a company under the [Companies Act 1993][206], the registration of that society under this Act shall thereupon cease and shall be cancelled by the Registrar.
+    (4) Subject to subsection (5) and to [section 97][119], if a registered society is registered as a company under the [Companies Act 1993][212], the registration of that society under this Act shall thereupon cease and shall be cancelled by the Registrar.
     
     (5) Registration of a registered society as a company shall not affect any right or claim subsisting against the society or any penalty incurred by the society, and---
         
@@ -2016,7 +1906,7 @@ Friendly and other societies
     
     *   (b) every such right or claim, or the liability to any such penalty, shall have priority as against the property of the company over all other rights or claims against or liabilities of the company.
     
-    Section 84: substituted, on 1 September 1996, by [section 51][259] of the Co-operative Companies Act 1996 (1996 No 24).
+    Section 84: substituted, on 1 September 1996, by [section 51][273] of the Co-operative Companies Act 1996 (1996 No 24).
 
 ##### 85 Objections to amalgamations and transfers of engagements
     
@@ -2030,15 +1920,15 @@ Friendly and other societies
     
     (2) Every objection under this section shall be made in writing to the Registrar.
     
-    (3) No objection under this section shall be made after the expiry of the period of 6 weeks beginning with the date on which the special resolution concerned is received by the Registrar pursuant to [section 82(4)][95]; but where such an objection is properly made, the special resolution shall not be registered until the expiry of the period of 6 weeks or the objection is finally determined or is withdrawn, whichever is the later.
+    (3) No objection under this section shall be made after the expiry of the period of 6 weeks beginning with the date on which the special resolution concerned is received by the Registrar pursuant to [section 82(4)][100]; but where such an objection is properly made, the special resolution shall not be registered until the expiry of the period of 6 weeks or the objection is finally determined or is withdrawn, whichever is the later.
     
-    (4) Where an objection is made under this section, the Registrar shall have the same powers to hear and determine it as he has under [section 79(2)][91] in relation to a dispute; and he may either dismiss the objection or, after giving the objector and the registered society concerned an opportunity of being heard, and finding the objection to be justified, he may either---
+    (4) Where an objection is made under this section, the Registrar shall have the same powers to hear and determine it as he has under [section 79(2)][96] in relation to a dispute; and he may either dismiss the objection or, after giving the objector and the registered society concerned an opportunity of being heard, and finding the objection to be justified, he may either---
         
     *   (a) so declare, but make no other declaration or order under this subsection; or
     
     *   (b) declare the special resolution to be invalid; or
     
-    *   (c) make such order as he thinks fit modifying the terms of the amalgamation or transfer and, where appropriate, specifying the steps which must be taken before the special resolution may be registered under [section 82][95],---
+    *   (c) make such order as he thinks fit modifying the terms of the amalgamation or transfer and, where appropriate, specifying the steps which must be taken before the special resolution may be registered under [section 82][100],---
     
     and he shall furnish a statement, either written or oral, of the reasons for any decision which he gives under this section.
     
@@ -2048,11 +1938,11 @@ Friendly and other societies
 
 ##### 86 Registrar may approve amalgamations, transfers, and conversions
     
-*   (1) If, after notice has been given of a general meeting at which it is proposed to put a special resolution amalgamating or transferring the engagements of the society pursuant to [section 83][97] or converting the society into a company pursuant to [section 84][98], the meeting lapses for want of the quorum specified in the rules of the society, the committee or trustees of the society may apply to the Registrar to confirm the amalgamation, transfer, or conversion as if the special resolution had been properly passed.
+*   (1) If, after notice has been given of a general meeting at which it is proposed to put a special resolution amalgamating or transferring the engagements of the society pursuant to [section 83][102] or converting the society into a company pursuant to [section 84][103], the meeting lapses for want of the quorum specified in the rules of the society, the committee or trustees of the society may apply to the Registrar to confirm the amalgamation, transfer, or conversion as if the special resolution had been properly passed.
     
     (2) Notice of every such application shall be published by the society in the _Gazette_, and in such newspaper or newspapers as the Registrar may require.
     
-    (3) Objections in writing may be made to the Registrar, and for this purpose the provisions of [section 85][99], with any necessary modifications, shall apply to the application as if it were a special resolution passed in respect of a friendly society and the date of publication of the application were the date the special resolution was received by the Registrar under subsection (3) of that section.
+    (3) Objections in writing may be made to the Registrar, and for this purpose the provisions of [section 85][104], with any necessary modifications, shall apply to the application as if it were a special resolution passed in respect of a friendly society and the date of publication of the application were the date the special resolution was received by the Registrar under subsection (3) of that section.
 
 ##### 87 Branches amalgamating, transferring engagements, or converting to company
     
@@ -2072,7 +1962,7 @@ Friendly and other societies
     
 *   (1) Subject to subsection (2), a registered society may, by resolution, determine to become a branch of another registered society or of any registered branch of that other society.
     
-    (2) A resolution under this section shall be passed in the same manner as if it were a special resolution specified under [section 82(1)][95] with the words "a majority" substituted for the words "75%" in both places where they occur in paragraph (b) of that subsection.
+    (2) A resolution under this section shall be passed in the same manner as if it were a special resolution specified under [section 82(1)][100] with the words "a majority" substituted for the words "75%" in both places where they occur in paragraph (b) of that subsection.
     
     (3) If the rules of the society do not comply with all the provisions of this Act in respect of the registration of branches, the meeting at which the resolution is passed may amend the rules so as to bring them into compliance with this Act.
     
@@ -2096,9 +1986,9 @@ Friendly and other societies
     
     Compare: 1909 No 12 s 71
     
-    Section 88(4)(b): amended, on 20 September 2007, by [section 9(a)][260] of the Friendly Societies and Credit Unions Amendment Act 2007 (2007 No 59).
+    Section 88(4)(b): amended, on 20 September 2007, by [section 9(a)][274] of the Friendly Societies and Credit Unions Amendment Act 2007 (2007 No 59).
     
-    Section 88(4)(b): amended, on 20 September 2007, by [section 9(b)][260] of the Friendly Societies and Credit Unions Amendment Act 2007 (2007 No 59).
+    Section 88(4)(b): amended, on 20 September 2007, by [section 9(b)][274] of the Friendly Societies and Credit Unions Amendment Act 2007 (2007 No 59).
 
 #### Inspection, winding up, and suspension of business
 
@@ -2146,19 +2036,17 @@ Friendly and other societies
 
 ##### 90 Registrar may apply to put society into liquidation
     
-*   (1) If, after an investigation carried out or meeting held pursuant to [section 89][104], or otherwise howsoever, it appears to the Registrar that it is in the best interests of members of the society or of the public that the society should be put into liquidation, then, unless the society has already been put into liquidation, the Registrar may apply to the High Court for the society to be put into liquidation in accordance with the [Companies Act 1993][206] if the court thinks it just and equitable that this should be done.
+*   (1) If, after an investigation carried out or meeting held pursuant to [section 89][109], or otherwise howsoever, it appears to the Registrar that it is in the best interests of members of the society or of the public that the society should be put into liquidation, then, unless the society has already been put into liquidation, the Registrar may apply to the High Court for the society to be put into liquidation in accordance with the [Companies Act 1993][212] if the court thinks it just and equitable that this should be done.
     
     (2) The provisions of this section shall apply in relation to a branch of a registered society as they apply in relation to such a society.
     
-    Section 90: substituted, on 1 July 1994, by [section 2][257] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 90: substituted, on 1 July 1994, by [section 2][275] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
 
 ##### 90A Transitional provisions applying to liquidation of societies
     
-*   (1) Nothing in [section 90][105] shall apply to or affect the winding up of a society commenced before the commencement of the [Company Law Reform (Transitional Provisions) Act 1994][261] or anything done by or in relation to a society under Part 6 of the Companies Act 1955 before the commencement of that Act, and section 90 of this Act and Part 6 of the Companies Act 1955, as in force before the commencement of that Act, shall continue in force in relation thereto as if that Act had not been passed.
+*   \[Repealed\]
     
-    (2) In the liquidation of a society under [Part 16][262] of the Companies Act 1993, nothing in any of [sections 292 to 299][263] of that Act applies in relation to any transaction entered into by a society, or any matter that arose, before the commencement of the [Company Law Reform (Transitional Provisions) Act 1994][261], but sections 309, 310, 311, 311A, 311B, and 311C of the Companies Act 1955, as in force before the commencement of that Act, shall continue to apply in respect of that transaction or matter as if that Act had not been passed.
-    
-    Section 90A: inserted, on 1 July 1994, by [section 2][257] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 90A: repealed, on 5 December 2013, by [section 14][271] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 91 Registrar may forbid new business or the accepting of new members of society
     
@@ -2234,19 +2122,19 @@ Friendly and other societies
     
     *   (b) by the consent of not less than 75% of the members of the society or banch testified by their signatures to the instrument of dissolution and also, in the case of a branch of a society, with the consent of the central body of the society and in accordance with the society's rules; or
     
-    *   (c) by the award of the Registrar under [section 95][112].
+    *   (c) by the award of the Registrar under [section 95][117].
     
     (2) A society which has branches shall not be dissolved except with the consent of the central body of the society.
     
-    (3) If any member of a registered friendly society or branch in respect of which an instrument of dissolution has been registered in accordance with [section 94][111], or if any person claiming any relief, annuity, or other benefit from the funds of such a society or branch is dissatisfied with the provision made for satisfying his claim, he may within the period of 3 months referred to in subsection (6) of that section, make an application to any court of competent jurisdiction, and the court to which the application is made may hear and determine the matter.
+    (3) If any member of a registered friendly society or branch in respect of which an instrument of dissolution has been registered in accordance with [section 94][116], or if any person claiming any relief, annuity, or other benefit from the funds of such a society or branch is dissatisfied with the provision made for satisfying his claim, he may within the period of 3 months referred to in subsection (6) of that section, make an application to any court of competent jurisdiction, and the court to which the application is made may hear and determine the matter.
     
-    (4) For the purposes of subsection (3), the term _court_ includes a Disputes Tribunal established under the [Disputes Tribunals Act 1988][255].
+    (4) For the purposes of subsection (3), the term _court_ includes a Disputes Tribunal established under the [Disputes Tribunals Act 1988][269].
     
     (5) If, as a result of the dissolution of any registered friendly society or branch, any annuity ceases or would cease to be paid or any contract for the payment of an annuity fails or would fail either in whole or in part, no payment shall be made out of the funds of the society or branch to the annuitant or person entitled to the benefit of the contract; but any sum which would otherwise have been paid to that person shall be applied in purchasing for the benefit of the annuitant an annuity (for a similar term and subject to similar conditions against surrender, commutation, or assignment) from any person lawfully carrying on a business in New Zealand of granting annuities on human life.
     
     Compare: 1909 No 12 ss 65, 69; Friendly Societies Act 1974 s 93 (UK)
     
-    Section 93(4): substituted, on 1 March 1989, by [section 82(2)][256] of the Disputes Tribunals Act 1988 (1988 No 110).
+    Section 93(4): substituted, on 1 March 1989, by [section 82(2)][270] of the Disputes Tribunals Act 1988 (1988 No 110).
 
 ##### 94 Instrument of dissolution
     
@@ -2274,7 +2162,7 @@ Friendly and other societies
     
     *   (b) that dissolution is set aside accordingly,---
     
-    the society or branch shall, subject to [section 97][114], be legally dissolved from the date of the advertisement in the _Gazette_, and the requisite consents to the instrument of dissolution shall be deemed to have been duly obtained without proof of the signatures thereto.
+    the society or branch shall, subject to [section 97][119], be legally dissolved from the date of the advertisement in the _Gazette_, and the requisite consents to the instrument of dissolution shall be deemed to have been duly obtained without proof of the signatures thereto.
     
     Compare: 1909 No 12 s 66; Friendly Societies Act 1974 s 94(5) (UK)
 
@@ -2282,7 +2170,7 @@ Friendly and other societies
     
 *   (1) On receipt of an application under this section relating to a registered society or branch and after giving not less than 1 month's notice in writing to the society or branch, the Registrar may cause the affairs of the society or branch to be investigated.
     
-    (2) An application under this section shall be made in writing under the hands of the like proportion or number of members as are required for the making of an application to appoint inspectors under [section 89(1) and (2)][104] and shall---
+    (2) An application under this section shall be made in writing under the hands of the like proportion or number of members as are required for the making of an application to appoint inspectors under [section 89(1) and (2)][109] and shall---
         
     *   (a) state that the funds of the society or branch are insufficient to meet the existing claims on them, or that the rates of contribution fixed in the rules of the society or branch are insufficient to cover the benefits assured; and
     
@@ -2302,7 +2190,7 @@ Friendly and other societies
     
     *   (b) the dissolution is set aside accordingly,---
     
-    the society or branch shall, subject to [section 97][114], be legally dissolved from the date of the advertisement in the _Gazette_, and the requisite consents to the application under this section shall be deemed to have been duly obtained without proof of the signatures thereto.
+    the society or branch shall, subject to [section 97][119], be legally dissolved from the date of the advertisement in the _Gazette_, and the requisite consents to the application under this section shall be deemed to have been duly obtained without proof of the signatures thereto.
     
     (7) The expenses of every investigation and award under this section and of advertising every notice of dissolution shall be paid out of the funds of the society or branch before any other appropriation is made.
     
@@ -2324,7 +2212,7 @@ Friendly and other societies
         
     *   (a) the period of 7 days after the commencement of the proceedings:
     
-    *   (b) the period of 3 months referred to in [section 94(6)(a)][111] or, as the case may require, [section 95(6)(a)][112].
+    *   (b) the period of 3 months referred to in [section 94(6)(a)][116] or, as the case may require, [section 95(6)(a)][117].
     
     (2) Where an order is made setting aside the dissolution of a society or branch, the society or branch shall give notice of the order to the Registrar within 7 days after the order is made.
     
@@ -2332,7 +2220,7 @@ Friendly and other societies
 
 ##### 97 Property to be transferred before final dissolution
     
-*   Where a registered society or branch amalgamates or transfers its engagements pursuant to [section 83][97], converts to a company pursuant to [section 84][98], or is to be dissolved in accordance with [section 94][111] or [section 95][112], the society shall not be dissolved, and the registration of the society shall not be cancelled, until there has been lodged with the Registrar a certificate signed by the liquidator or by the secretary or some other officer of the society approved by the Registrar that all property vested in the society has been duly conveyed or transferred by the society to the persons entitled.
+*   Where a registered society or branch amalgamates or transfers its engagements pursuant to [section 83][102], converts to a company pursuant to [section 84][103], or is to be dissolved in accordance with [section 94][116] or [section 95][117], the society shall not be dissolved, and the registration of the society shall not be cancelled, until there has been lodged with the Registrar a certificate signed by the liquidator or by the secretary or some other officer of the society approved by the Registrar that all property vested in the society has been duly conveyed or transferred by the society to the persons entitled.
     
     Compare: Industrial and Provident Societies Act 1965 s 59 (UK)
 
@@ -2363,21 +2251,21 @@ Credit unions
 
 ##### 99 Exemptions from registration
     
-*   (1) [Section 98][117] shall not apply to---
+*   (1) [Section 98][122] shall not apply to---
         
-    *   (a) any person, society, or body of persons (whether corporate or unincorporate) specified in [Schedule 5][202]; or
+    *   (a) any person, society, or body of persons (whether corporate or unincorporate) specified in [Schedule 5][207]; or
     
     *   (b) any person, society, or body of persons (whether corporate or unincorporate) lawfully carrying on the business of banking; or
     
-    *   (c) any building society registered under the [Building Societies Act 1965][264]; or
+    *   (c) any building society registered under the [Building Societies Act 1965][276]; or
     
-    *   (d) any unit trust within the meaning of the [Unit Trusts Act 1960][265]; or
+    *   (d) any unit trust within the meaning of the [Unit Trusts Act 1960][277]; or
     
     *   (e) the members of any fund in existence as at the commencement of this Act, being a fund which may otherwise be trading or carrying on business as a credit union but which is an integral part of an associated commercial or trading activity involving those members.
     
-    (2) [Schedule 5][202] may, from time to time by the Governor-General by Order in Council, be amended by adding, omitting, or amending the name of any person, society, or body of persons (whether corporate or unincorporate).
+    (2) [Schedule 5][207] may, from time to time by the Governor-General by Order in Council, be amended by adding, omitting, or amending the name of any person, society, or body of persons (whether corporate or unincorporate).
     
-    (3) No person, society, or body of persons to which, by virtue of subsection (1), [section 98][117] does not apply shall use, in reference to itself, any name, title, or descriptive expression containing the words "credit union", "money club", "savings society", or "loan society", or any cognate term or any derivative of those words:
+    (3) No person, society, or body of persons to which, by virtue of subsection (1), [section 98][122] does not apply shall use, in reference to itself, any name, title, or descriptive expression containing the words "credit union", "money club", "savings society", or "loan society", or any cognate term or any derivative of those words:
     
     provided that the prohibition effected by this subsection shall not apply to any person, society, or body of persons using the words "savings society" or "loan society" or any cognate term or derivative of those words in reference to itself as at the commencement of this Act.
     
@@ -2391,23 +2279,23 @@ Credit unions
             
         *   (i) adults; or
         
-        *   (ii) charitable entities as defined by the [Charities Act 2005][266]; or
+        *   (ii) charitable entities as defined by the [Charities Act 2005][278]; or
         
-        *   (iii) incorporated societies registered under the [Incorporated Societies Act 1908][267]; and
+        *   (iii) incorporated societies registered under the [Incorporated Societies Act 1908][279]; and
         
         
     
-    *   (b) the rules of the society comply with [section 104][123]; and
+    *   (b) the rules of the society comply with [section 104][128]; and
     
-    *   (c) the Registrar is satisfied that the only objects of the society are those of a credit union specified in [section 101][120]; and
+    *   (c) the Registrar is satisfied that the only objects of the society are those of a credit union specified in [section 101][125]; and
     
-    *   (d) the rules of the society specify a common bond (as defined in [section 102][121]).
+    *   (d) the rules of the society specify a common bond (as defined in [section 102][126]).
     
     Compare: Credit Unions Act 1979 s 1(1), (2) (UK)
     
-    Section 100(a): substituted, on 22 November 2006, by [section 4(1)][268] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
+    Section 100(a): substituted, on 22 November 2006, by [section 4(1)][280] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
     
-    Section 100(d): substituted, on 22 November 2006, by [section 4(2)][268] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
+    Section 100(d): substituted, on 22 November 2006, by [section 4(2)][280] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
 
 ##### 101 Objects of credit union
     
@@ -2463,11 +2351,11 @@ Credit unions
     
     Compare: Credit Unions Act 1979, ss 1(4), (5), (6), 31 (UK)
     
-    Section 102(1): substituted, on 22 November 2006, by [section 5][269] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
+    Section 102(1): substituted, on 22 November 2006, by [section 5][281] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
     
-    Section 102(2): substituted, on 22 November 2006, by [section 5][269] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
+    Section 102(2): substituted, on 22 November 2006, by [section 5][281] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
     
-    Section 102(4): substituted, on 26 April 2005, by [section 7][234] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 102(4): substituted, on 26 April 2005, by [section 7][242] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 103 Name to contain words "credit union"
     
@@ -2479,15 +2367,15 @@ Credit unions
     
 *   (1) The provisions of [sections 12][16], [16][20], [17][21], [18][22], [22][27], [23][28], [24(1)][29], [25][30], [26][31], [27][32], and [28][34] shall, as far as they are applicable and with any necessary modification, apply in respect of credit unions as if---
         
-    *   (a) the references to societies and [Schedule 2][199] or [Schedule 3][200] were references to credit unions and [Schedule 4][201] respectively; and
+    *   (a) the references to societies and [Schedule 2][204] or [Schedule 3][205] were references to credit unions and [Schedule 4][206] respectively; and
     
     *   (b) the reference in [section 12(1)][16] to 7 adult members were a reference to 21 members and each of the 21 members is---
             
         *   (i) an adult; or
         
-        *   (ii) a charitable entity as defined by the [Charities Act 2005][266]; or
+        *   (ii) a charitable entity as defined by the [Charities Act 2005][278]; or
         
-        *   (iii) an incorporated society registered under the [Incorporated Societies Act 1908][267]; and
+        *   (iii) an incorporated society registered under the [Incorporated Societies Act 1908][279]; and
         
         
     
@@ -2499,7 +2387,7 @@ Credit unions
     
     Compare: Credit Unions Act 1979 s 4 (UK)
     
-    Section 104(1)(b): substituted, on 22 November 2006, by [section 6][270] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
+    Section 104(1)(b): substituted, on 22 November 2006, by [section 6][282] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
 
 ##### 105 Effect of rules on members of credit union
     
@@ -2517,15 +2405,15 @@ Credit unions
     
     Compare: 1915 No 64 s 6; Industrial and Provident Societies Act 1965 s 14(2) (UK)
     
-    Section 105(4): substituted, on 22 November 2006, by [section 7][271] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
+    Section 105(4): substituted, on 22 November 2006, by [section 7][283] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
 
 ##### 106 Membership of credit union, voting rights
     
-*   (1) An individual, a charitable entity as defined by the [Charities Act 2005][266], or an incorporated society registered under the [Incorporated Societies Act 1908][267] can be a member of a credit union, except that---
+*   (1) An individual, a charitable entity as defined by the [Charities Act 2005][278], or an incorporated society registered under the [Incorporated Societies Act 1908][279] can be a member of a credit union, except that---
         
     *   (a) [section 39][46] (which relates to the membership of minors) applies to any credit union as if it were a society registered under [Part 2][13]; and
     
-    *   (b) no charitable entity as defined by the [Charities Act 2005][266] or incorporated society registered under the [Incorporated Societies Act 1908][267] can be an officer of a credit union.
+    *   (b) no charitable entity as defined by the [Charities Act 2005][278] or incorporated society registered under the [Incorporated Societies Act 1908][279] can be an officer of a credit union.
     
     (2) Members need have no more than $10 in fully paid-up shares, although a credit union's rules may allow for a deposit of more or less than $10 in fully paid-up shares.
     
@@ -2545,13 +2433,13 @@ Credit unions
     
     Compare: Credit Unions Act 1979 s 5 (UK)
     
-    Section 106(1): substituted, on 22 November 2006, by [section 8][272] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
+    Section 106(1): substituted, on 22 November 2006, by [section 8][284] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
     
-    Section 106(2): substituted, on 22 November 2006, by [section 8][272] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
+    Section 106(2): substituted, on 22 November 2006, by [section 8][284] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
     
-    Section 106(3): repealed, on 31 August 2012, by [section 4(1)][273] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 106(3): repealed, on 31 August 2012, by [section 4(1)][285] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
     
-    Section 106(7): amended, on 31 August 2012, by [section 4(2)][273] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 106(7): amended, on 31 August 2012, by [section 4(2)][285] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
 
 #### Operation of credit union
 
@@ -2585,55 +2473,55 @@ Credit unions
     
     *   (b) confer no voting rights upon holders.
     
-    (3) In the event of a credit union being wound up, claims for credit union securities must not be paid until all creditors' claims and claims relating to the shares referred to in [section 107][127] have been paid.
+    (3) In the event of a credit union being wound up, claims for credit union securities must not be paid until all creditors' claims and claims relating to the shares referred to in [section 107][132] have been paid.
     
     (4) In the event of a credit union incurring losses that exceed its retained earnings and reserves, the value of the credit union securities must be written down accordingly.
     
     (5) To avoid doubt,---
         
-    *   (a) an offer of securities under subsection (1) is an offer to the public and subject to the provisions of the [Securities Act 1978][274]:
+    *   (a) an offer of securities under subsection (1) is an offer to the public and subject to the provisions of the [Securities Act 1978][286]:
     
-    *   (b) credit union securities do not include shares under [section 107][127].
+    *   (b) credit union securities do not include shares under [section 107][132].
     
-    Section 107A: inserted, on 31 August 2012, by [section 5][275] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 107A: inserted, on 31 August 2012, by [section 5][287] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
 
 ##### 108 General prohibition on taking deposits
     
 *   \[Repealed\]
     
-    Section 108: repealed, on 31 August 2012, by [section 6][276] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 108: repealed, on 31 August 2012, by [section 6][288] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
 
 ##### 109 Power of credit union to borrow money
     
 *   A credit union may borrow money if the borrowing is authorised by, and in accordance with, its rules and trust deed.
     
-    Section 109: replaced, on 31 August 2012, by [section 7][277] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 109: replaced, on 31 August 2012, by [section 7][289] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
 
 ##### 109A Power of credit union to appoint trustee for debt securities
     
-*   Regardless of anything to the contrary in the rules of a credit union, a credit union may appoint a trustee and sign or amend a trust deed for the purposes of [section 33(2)][252] of the Securities Act 1978\.
+*   Regardless of anything to the contrary in the rules of a credit union, a credit union may appoint a trustee and sign or amend a trust deed for the purposes of [section 33(2)][266] of the Securities Act 1978\.
     
-    Section 109A: inserted, on 15 April 2004, by [section 4][278] of the Friendly Societies and Credit Unions Amendment Act 2004 (2004 No 28).
+    Section 109A: inserted, on 15 April 2004, by [section 4][290] of the Friendly Societies and Credit Unions Amendment Act 2004 (2004 No 28).
 
 ##### 110 Credit union may make loans to members
     
 *   A credit union may make loans to members for such purposes and upon such security (or without security) and conditions as the rules of the credit union may provide either generally or specifically.
     
-    Section 110: replaced, on 31 August 2012, by [section 8][279] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 110: replaced, on 31 August 2012, by [section 8][291] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
 
 ##### 111 Minister may fix maximum amount of loans to members
     
 *   \[Repealed\]
     
-    Section 111: repealed, on 31 August 2012, by [section 9][280] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 111: repealed, on 31 August 2012, by [section 9][292] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
 
 ##### 112 Credit union property to vest in trustees
     
 *   (1) All property belonging to a credit union shall vest in the trustees for the time being of the credit union for the use and benefit of its members, and of all persons claiming through the members according to the rules of the credit union.
     
-    (1A) However, regardless of the rules of a credit union, if a trustee has been appointed in respect of a security under [section 33(2)(a)][252] of the Securities Act 1978, then that trustee may exercise any rights it has under that Act in respect of the property of the credit union.
+    (1A) However, regardless of the rules of a credit union, if a trustee has been appointed in respect of a security under [section 33(2)(a)][266] of the Securities Act 1978, then that trustee may exercise any rights it has under that Act in respect of the property of the credit union.
     
-    (2) Upon the death, resignation, or removal of a trustee of a credit union the property vested in that trustee shall, without conveyance, transfer, or assignment, vest (subject to the same trusts) in the succeeding trustees of that credit union, either solely or together with any surviving or continuing trustees, and until the appointment of succeeding trustees pursuant to [section 28(2)][34] (as applied by [section 104][123]), in the surviving or continuing trustees only, or in the executors or administrators of the last surviving or continuing trustee.
+    (2) Upon the death, resignation, or removal of a trustee of a credit union the property vested in that trustee shall, without conveyance, transfer, or assignment, vest (subject to the same trusts) in the succeeding trustees of that credit union, either solely or together with any surviving or continuing trustees, and until the appointment of succeeding trustees pursuant to [section 28(2)][34] (as applied by [section 104][128]), in the surviving or continuing trustees only, or in the executors or administrators of the last surviving or continuing trustee.
     
     (3) For the purposes of this Part, the following provisions of this Act shall, as far as they are applicable and with any necessary modification, apply in respect of credit unions as if they were societies registered under [Part 2][13]:
         
@@ -2645,9 +2533,9 @@ Credit unions
     
     *   (d) [section 32][38] (which requires a District Land Registrar to be advised of the names of trustees); and
     
-    *   (e) [section 33][39] (which relates to dealing with land under the [Land Transfer Act 1952][229]).
+    *   (e) [section 33][39] (which relates to dealing with land under the [Land Transfer Act 1952][237]).
     
-    Section 112(1A): inserted, on 15 April 2004, by [section 5][281] of the Friendly Societies and Credit Unions Amendment Act 2004 (2004 No 28).
+    Section 112(1A): inserted, on 15 April 2004, by [section 5][293] of the Friendly Societies and Credit Unions Amendment Act 2004 (2004 No 28).
 
 ##### 113 Credit union may hold land
     
@@ -2669,21 +2557,21 @@ Credit unions
     
     (7) No purchaser, assignee, mortgagee, or tenant shall be bound to inquire as to the authority for any sale, exchange, mortgage, or lease by the trustees, and the receipt of the trustees shall be a discharge for all money arising from or in connection with the sale, exchange, mortgage, or lease.
     
-    (8) Subject, in the case of an instrument affecting land under the [Land Transfer Act 1952][229], to the provisions of [section 33][39] (as applied by [section 112(3)(e)][134]), every document to be executed by a credit union in the exercise of any powers conferred on it by this section may (if its rules so provide) be executed by a majority of the trustees in whom the property of the credit union is vested.
+    (8) Subject, in the case of an instrument affecting land under the [Land Transfer Act 1952][237], to the provisions of [section 33][39] (as applied by [section 112(3)(e)][139]), every document to be executed by a credit union in the exercise of any powers conferred on it by this section may (if its rules so provide) be executed by a majority of the trustees in whom the property of the credit union is vested.
     
     Compare: Credit Unions Act 1979 s 12 (UK)
     
-    Section 113 heading: amended, on 31 August 2012, by [section 10(1)][282] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 113 heading: amended, on 31 August 2012, by [section 10(1)][294] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
     
-    Section 113(1): amended, on 31 August 2012, by [section 10(2)][282] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 113(1): amended, on 31 August 2012, by [section 10(2)][294] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
     
-    Section 113(3): repealed, on 31 August 2012, by [section 10(3)][282] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 113(3): repealed, on 31 August 2012, by [section 10(3)][294] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
     
-    Section 113(4): repealed, on 31 August 2012, by [section 10(3)][282] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 113(4): repealed, on 31 August 2012, by [section 10(3)][294] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
     
-    Section 113(5): repealed, on 31 August 2012, by [section 10(3)][282] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 113(5): repealed, on 31 August 2012, by [section 10(3)][294] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
     
-    Section 113(6): repealed, on 31 August 2012, by [section 10(3)][282] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 113(6): repealed, on 31 August 2012, by [section 10(3)][294] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
 
 ##### 114 Officers of credit union to give security
     
@@ -2695,7 +2583,7 @@ Credit unions
     
     *   (b) giving the security of a guarantee society in such sum as the credit union directs; or
     
-    *   (c) including a sum, agreed to by the credit union, within the risks insured by the insurance policy required under [section 133][164].
+    *   (c) including a sum, agreed to by the credit union, within the risks insured by the insurance policy required under [section 133][169].
     
     (3) In this section the term _guarantee society_ means---
         
@@ -2703,15 +2591,15 @@ Credit unions
     
     *   (b) any society registered under [Part 2][13] as a specially authorised society and duly authorised to guarantee the fidelity of officers of societies or branches registered under the said Part 2 or credit unions; or
     
-    *   (c) an association of credit unions authorised under [section 143(4)(e)][178] to offer fidelity insurance.
+    *   (c) an association of credit unions authorised under [section 143(4)(e)][183] to offer fidelity insurance.
     
-    (4) Where any registered friendly society makes provision by its rules in accordance with [clause 8][230] of Schedule 1 for guaranteeing the performance of their duties by officers of the society or its branches and membership of that friendly society is the common bond for the membership of a credit union, then the society may resolve to extend the effect of the guarantee to cover officers of the credit union to the same extent as if they were officers of the society, and it shall be a sufficient compliance with this section if any officer of the society or of any branch thereof gives the security of the society in accordance with those rules as extended.
+    (4) Where any registered friendly society makes provision by its rules in accordance with clause 8 of [Schedule 1][203] for guaranteeing the performance of their duties by officers of the society or its branches and membership of that friendly society is the common bond for the membership of a credit union, then the society may resolve to extend the effect of the guarantee to cover officers of the credit union to the same extent as if they were officers of the society, and it shall be a sufficient compliance with this section if any officer of the society or of any branch thereof gives the security of the society in accordance with those rules as extended.
     
     (5) \[Repealed\]
     
-    Section 114(2): replaced, on 31 August 2012, by [section 11(1)][283] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 114(2): replaced, on 31 August 2012, by [section 11(1)][295] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
     
-    Section 114(5): repealed, on 31 August 2012, by [section 11(2)][283] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 114(5): repealed, on 31 August 2012, by [section 11(2)][295] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
 
 ##### 115 Duty of officers of credit union to account
     
@@ -2727,7 +2615,7 @@ Credit unions
     
     (2) In case of any neglect or refusal to deliver the account or to pay over the money or to deliver the property in accordance with subsection (1), the trustees or authorised officers of the credit union---
         
-    *   (a) may sue upon any bond or security given under [section 114][136]; or
+    *   (a) may sue upon any bond or security given under [section 114][141]; or
     
     *   (b) may apply to the District Court for an order requiring the officer to remedy that neglect or to comply with the provisions of subsection (1).
     
@@ -2743,7 +2631,7 @@ Credit unions
     
     (2) The trustees of a credit union may invest its surplus funds if the investment is authorised by, and in accordance with, its rules and trust deed.
     
-    (3) The trustees of a credit union may also invest its surplus funds by depositing them with any association of credit unions of which it is a component member pursuant to [section 143][178].
+    (3) The trustees of a credit union may also invest its surplus funds by depositing them with any association of credit unions of which it is a component member pursuant to [section 143][183].
     
     (4) Any surplus funds of a credit union which are not either---
         
@@ -2753,7 +2641,7 @@ Credit unions
     
     shall be kept by the credit union on current account with, or otherwise on loan to, any bank carrying on business in New Zealand.
     
-    (5) Nothing in this section shall prevent a credit union from making a temporary loan to another credit union pursuant to [section 109][130]:
+    (5) Nothing in this section shall prevent a credit union from making a temporary loan to another credit union pursuant to [section 109][135]:
     
     provided that no association of credit unions shall lend money to another association unless authorised by the rules of the credit union.
     
@@ -2765,19 +2653,19 @@ Credit unions
     
     Compare: Credit Unions Act 1979 s 13 (UK)
     
-    Section 117(2): substituted, on 1 October 1988, by [section 14(1)][242] of the Trustee Amendment Act 1988 (1988 No 119).
+    Section 117(2): substituted, on 1 October 1988, by [section 14(1)][250] of the Trustee Amendment Act 1988 (1988 No 119).
     
-    Section 117(2): amended, on 31 August 2012, by [section 12(1)][284] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 117(2): amended, on 31 August 2012, by [section 12(1)][296] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
     
-    Section 117(5) proviso: amended, on 31 August 2012, by [section 12(2)][284] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 117(5) proviso: amended, on 31 August 2012, by [section 12(2)][296] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
 
 #### Distribution to members
     
-*   Heading: inserted, on 31 August 2012, by [section 13][285] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+*   Heading: inserted, on 31 August 2012, by [section 13][297] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
 
 ##### 117A Meaning of distribution
     
-*   (1) In [sections 117B to 117D][142], unless the context otherwise requires, **distribution**, in relation to a distribution by a credit union to a member, means---
+*   (1) In [sections 117B to 117D][147], unless the context otherwise requires, **distribution**, in relation to a distribution by a credit union to a member, means---
         
     *   (a) the direct or indirect transfer of money or property to or for the benefit of the member; or
     
@@ -2789,25 +2677,25 @@ Credit unions
     
     *   (b) a transfer may be made, or a debt incurred, by means of a purchase of property, the redemption or other acquisition of credit union securities or shares, a distribution of indebtedness, or by some other means.
     
-    Compare: 1993 No 105 [s 2][286]
+    Compare: 1993 No 105 [s 2][298]
     
-    Section 117A: inserted, on 31 August 2012, by [section 13][285] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 117A: inserted, on 31 August 2012, by [section 13][297] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
 
 ##### 117B Distribution must be authorised
     
 *   A distribution must be authorised in writing by the committee, or committee of management, as the case may be, of the credit union.
     
-    Compare: 2008 No 1 [s 40][287]
+    Compare: 2008 No 1 [s 40][299]
     
-    Section 117B: inserted, on 31 August 2012, by [section 13][285] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 117B: inserted, on 31 August 2012, by [section 13][297] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
 
 ##### 117C Distribution must not be authorised unless credit union solvent
     
 *   The committee, or committee of management, as the case may be, of the credit union must not authorise a distribution unless the committee is satisfied on reasonable grounds that, immediately after the distribution is made, the credit union will be solvent.
     
-    Compare: 2008 No 1 [s 41][288]
+    Compare: 2008 No 1 [s 41][300]
     
-    Section 117C: inserted, on 31 August 2012, by [section 13][285] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 117C: inserted, on 31 August 2012, by [section 13][297] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
 
 ##### 117D Solvency test
     
@@ -2829,9 +2717,9 @@ Credit unions
     
     *   (b) any claim that the credit union is entitled to make and can reasonably expect to be met to reduce or extinguish a contingent liability.
     
-    Compare: 2008 No 1 [s 42][289]
+    Compare: 2008 No 1 [s 42][301]
     
-    Section 117D: inserted, on 31 August 2012, by [section 13][285] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 117D: inserted, on 31 August 2012, by [section 13][297] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
 
 #### Disputes
 
@@ -2839,23 +2727,25 @@ Credit unions
     
 *   For the purposes of this Part, the following provisions shall, as far as they are applicable and with any necessary modification, apply in respect of credit unions as if they were societies registered under [Part 2][13]:
         
-    *   (a) [section 78][90] (which relates to the settlement of disputes generally); and
+    *   (a) [section 78][95] (which relates to the settlement of disputes generally); and
     
-    *   (b) [section 79][91] (which provides for a reference of a dispute to the Registrar); and
+    *   (b) [section 79][96] (which provides for a reference of a dispute to the Registrar); and
     
-    *   (c) [section 80][92] (which authorises the statement of a case on a matter of law for the opinion of the High Court); and
+    *   (c) [section 80][97] (which authorises the statement of a case on a matter of law for the opinion of the High Court); and
     
-    *   (d) [section 81][93] (which relates to the reference of disputes to court).
+    *   (d) [section 81][98] (which relates to the reference of disputes to court).
     
     
 
-#### Accounts, audit, and auditors
+#### Accounting records and financial reporting
+    
+*   Heading: replaced, on 1 April 2014, by [section 76][302] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 119 Credit union to maintain general reserves
     
 *   \[Repealed\]
     
-    Section 119: repealed, on 31 August 2012, by [section 14][290] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 119: repealed, on 31 August 2012, by [section 14][303] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
 
 ##### 120 Financial year of credit union
     
@@ -2863,161 +2753,53 @@ Credit unions
     
     (2) Where the rules of a credit union are amended to alter its financial year, the amendment may provide that the financial year current at the date of amendment shall be extended for such period not exceeding 6 months as may be specified in its rules or that the financial year next following the financial year that is so current shall be for such period exceeding 12 months but not exceeding 18 months as may be specified in its rules.
     
-    (3) Nothing in this section limits or affects the requirements imposed by the [Financial Reporting Act 1993][245] on a credit union that is an issuer within the meaning of [section 4][246] of that Act.
+    (3) \[Repealed\]
     
-    Section 120(3): added, on 1 July 1994, by [section 49][247] of the Financial Reporting Act 1993 (1993 No 106).
+    Section 120(3): repealed, on 1 April 2014, by [section 77][304] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
-##### 121 Accounting records and statement of financial position
+##### 121 Accounting records must be kept
     
-*   (1) Every credit union that is not an issuer within the meaning of [section 4][246] of the Financial Reporting Act 1993 shall---
-        
-    *   (a) cause proper accounting records to be kept relating to its transactions and its assets and liabilities; and
+*   Every credit union must comply with [subpart 2][305] of Part 7 of the Financial Markets Conduct Act 2013 (which relates to accounting records).
     
-    *   (b) establish and maintain a satisfactory system of control of its accounting records, its cash holdings, and all its receipts and payments; and
-    
-    *   (c) in respect of each financial year, cause to be prepared an income and expenditure account which deals with the affairs of the credit union for that year, and a statement of financial position---
-    
-    and, for these purposes the provisions of [sections 60][70] and [61][71] shall, as far as they are applicable and with any necessary modification, apply in respect of such credit unions as if they were societies registered under [Part 2][13].
-    
-    (2) Every credit union that is an issuer within the meaning of [section 4][246] of the Financial Reporting Act 1993 shall---
-        
-    *   (a) cause proper accounting records to be kept relating to its transactions and its assets and liabilities; and
-    
-    *   (b) establish and maintain a satisfactory system of control of its accounting records, its cash holdings, and all its receipts and payments; and
-    
-    *   (c) cause financial statements to be completed in accordance with that Act---
-    
-    and, for these purposes the provisions of [section 60][70] shall, as far as they are applicable and with any necessary modification, apply in respect of such credit unions as if they were societies registered under [Part 2][13].
-    
-    Section 121: substituted, on 1 July 1994, by [section 49][247] of the Financial Reporting Act 1993 (1993 No 106).
-    
-    Section 121 heading: amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 121(1)(c): amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 121: replaced, on 1 April 2014, by [section 78][306] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
-##### 122 Credit union to be audited
+##### 122 Financial reporting
     
-*   (1) Subject to this section, every credit union shall, in each financial year, appoint a qualified auditor or qualified auditors to audit its accounts and statement of financial position for that year.
+*   Every credit union must comply with [subpart 3][256] of Part 7 of the Financial Markets Conduct Act 2013 (which relates to the preparation, audit, and lodgement of financial statements).
     
-    (2) Subsection (1) shall not apply to a credit union if---
-        
-    *   (a) the receipts and payments of that credit union in respect of the preceding financial year did not, in the aggregate, exceed $20,000; and
-    
-    *   (b) the value of its assets at the end of that year did not, in the aggregate, exceed $20,000\.
-    
-    (3) A credit union to which, by virtue of subsection (2), subsection (1) does not apply in respect of any financial year shall, in this Part, be referred to as an exempt credit union in respect of that financial year.
-    
-    (4) For the purposes of subsection (3), where the preceding financial year of a credit union was greater than a period of 12 months, as provided under [section 120][149], the amount of $20,000 referred to in subsection (2) shall be increased proportionately.
-    
-    (5) The Governor-General, from time to time by Order in Council, may---
-        
-    *   (a) substitute for any sum for the time being specified in this section, such sum as may be specified in the order; and
-    
-    *   (b) prescribe what receipts and payments of a credit union shall be taken into account for the purpose of subsection (2),---
-    
-    and any such order may make different provision in relation to different cases or different circumstances.
-    
-    (6) Any credit union which is audited under a programme approved by the Registrar (which approval may be reviewed, made subject to conditions, or withdrawn, at any time) and conducted by an association of credit unions of which it is a member, shall be an exempt credit union to which subsection (1) does not apply.
-    
-    (7) No association of credit unions shall be an exempt credit union under this section.
-    
-    Section 122(1): amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 122: replaced, on 1 April 2014, by [section 78][306] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
-##### 123 Qualifications for appointment as auditor
+##### 123 Obligation to appoint auditors
     
-*   (1) For the purposes of [section 122(1)][151], no person is qualified for appointment as auditor of a credit union unless he or she is,---
-        
-    *   (a) in the case of a credit union that is an issuer (within the meaning of [section 4][246] of the Financial Reporting Act 1993), a licensed auditor:
+*   (1) Every credit union must, in each financial year, appoint a qualified auditor to audit its financial statements for that year.
     
-    *   (b) in any other case,---
-            
-        *   (i) a chartered accountant (within the meaning of [section 19][249] of the New Zealand Institute of Chartered Accountants Act 1996); or
-        
-        *   (ii) a member, fellow, or associate of an association of accountants constituted outside New Zealand that is for the time being approved for the purposes of [section 199][250] of the Companies Act 1993\.
-        
-        
+    (2) _See_ [sections 37 to 39][259] of the Financial Reporting Act 2013 (which provide for the appointment of a partnership and access to information in relation to a credit union).
     
-    (2) The appointment of a partnership by the firm name to be auditors shall be taken to be the appointment of all the persons who are partners in the firm from time to time.
-    
-    (2A) However, if the credit union is an issuer (within the meaning of [section 4][246] of the Financial Reporting Act 1993),---
-        
-    *   (a) a partnership appointed by its firm name to be the auditors of the credit union must be a registered audit firm; and
-    
-    *   (b) the appointment of a registered audit firm by its firm name to be the auditors of the credit union is to be taken to be the appointment of all the partners in the firm, from time to time, who are licensed auditors.
-    
-    (3) Nothing in subsection (1) shall disqualify any person appointed as auditor of a credit union and holding office as such immediately before the commencement of this Act from acting as auditor of that credit union, or from being at any time and from time to time during a period of 5 years after the commencement of this Act reappointed as auditor of that credit union.
-    
-    (4) None of the following persons shall be qualified for appointment as auditor of a credit union:
-        
-    *   (a) an officer or employee of the credit union:
-    
-    *   (b) a person who is a partner of or in the employment of an officer or employee of the credit union:
-    
-    *   (c) a body corporate.
-    
-    (5) Subsections (1), (2A), and (4) shall have effect notwithstanding anything to the contrary in the rules of any credit union.
-    
-    (6) If a credit union to which [section 122(1)][151] applies appoints any unqualified person to be an auditor---
-        
-    *   (a) the appointment shall be void, and the Registrar may appoint a qualified person to fill the vacancy:
-    
-    *   (b) the credit union, and every officer of the credit union who is in default, commits an offence against this Act.
-    
-    (7) Subject to this Act, any unqualified person who acts as auditor of any credit union commits an offence against this Act.
-    
-    Section 123(1): replaced, on 1 July 2012, by [section 82][215] of the Auditor Regulation Act 2011 (2011 No 21).
-    
-    Section 123(2): amended, on 1 July 2012, by [section 82][215] of the Auditor Regulation Act 2011 (2011 No 21).
-    
-    Section 123(2A): inserted, on 1 July 2012, by [section 82][215] of the Auditor Regulation Act 2011 (2011 No 21).
-    
-    Section 123(5): amended, on 1 July 2012, by [section 82][215] of the Auditor Regulation Act 2011 (2011 No 21).
+    Section 123: replaced, on 1 April 2014, by [section 78][306] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
-##### 124 Audit of certain exempt credit unions
+##### 124 General matters relating to auditors
     
-*   (1) Subject to any direction given by the Registrar under subsection (2), every credit union exempt under [section 122(3)][151] shall, in each financial year, appoint at its option either---
+*   For the purposes of this Part, the following provisions of this Act, as far as they are applicable and with the necessary modifications, apply in respect of credit unions as if they were societies registered under [Part 2][13]:
         
-    *   (a) a qualified auditor or qualified auditors; or
+    *   (a) [section 64B][76] (which relates to the Registrar appointing an auditor):
     
-    *   (b) 2 or more persons who are not qualified auditors,---
+    *   (b) [sections 64D][78] and [64E][79] (which relate to compliance with auditing and assurance standards):
     
-    to audit its accounts and statement of financial position for that year.
+    *   (c) [section 65][80] (which relates to the reappointment and removal of auditors):
     
-    (2) The Registrar may give a direction in the case of any particular exempt credit union (whether exempt under subsection (3) or subsection (6) of [section 122][151]) in respect of the current financial year requiring it to appoint a qualified auditor or auditors to audit its accounts and statement of financial position for that year.
+    *   (d) [section 66][81] (which relates to notices of resolution affecting the appointment or removal of auditors):
     
-    (3) The Registrar may also give a direction in the case of any particular exempt credit union in respect of any financial year before that in which the direction is given and did not appoint a qualified auditor or qualified auditors to audit its accounts and statement of financial position for that year---
-        
-    *   (a) requiring it to appoint a qualified auditor to audit those accounts and that statement of financial position; and
+    *   (e) [section 67][82] (which relates to proceedings subsequent to a notice of intention to move a resolution):
     
-    *   (b) in any case where that credit union has sent to him its annual return for that year before the date of the direction, requiring it (after its accounts and statement of financial position have been audited by a qualified auditor) to send to him within 3 months from receipt of the direction or within such further period as he may allow a further annual return complying with the requirements of this Act (other than the requirement as to the time at which the annual return must be sent).
+    *   (f) [section 69][307] (which relates to auditors' rights to attend and be heard at meetings).
     
-    Section 124(1): amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 124(2): amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 124(3): amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 124(3)(a): amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 124(3)(b): amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 124: replaced, on 1 April 2014, by [section 78][306] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 125 General matters relating to auditors, the auditors' report, and auditors' rights of access
     
-*   (1) For the purposes of this Part, the following provisions of this Act shall, as far as they are applicable and with the necessary modification, apply in respect of credit unions as if they were societies registered under [Part 2][13]:
-        
-    *   (a) [section 65][75] (which relates to the reappointment and removal of auditors):
+*   \[Repealed\]
     
-    *   (b) [section 66][76] (which relates to notices of resolution affecting the appointment or removal of auditors):
-    
-    *   (c) [section 67][77] (which relates to proceedings subsequent to a notice of intention to move a resolution):
-    
-    *   (d) [section 68][78] (which imposes an obligation on auditors to report to the credit union):
-    
-    *   (e) [section 69][79] (which relates to auditors' rights of access to the accounting records of the credit union).
-    
-    (2) Notwithstanding subsection (1), nothing in [section 68][78] shall apply to a credit union which is an issuer within the meaning of [section 4][246] of the Financial Reporting Act 1993\.
-    
-    Section 125(2): added, on 1 July 1994, by [section 49][247] of the Financial Reporting Act 1993 (1993 No 106).
+    Section 125: repealed, on 1 April 2014, by [section 78][306] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 126 Registrar may advise credit union on financial position
     
@@ -3035,67 +2817,35 @@ Credit unions
         
     *   (a) shall be made up for the financial year to which the return relates; and
     
-    *   (b) shall contain,---
-            
-        *   (i) in the case of a credit union that is not an issuer within the meaning of [section 4][246] of the Financial Reporting Act 1993, the income and expenditure account or accounts of the credit union prepared in accordance with [section 61(1)][71] (as applied by [section 121][150]) for the financial year to which the return relates and a statement of financial position as at the end of that year; or
-        
-        *   (ii) in the case of a credit union which is an issuer within the meaning of [section 4][246] of the Financial Reporting Act 1993, the financial statements required to be completed in respect of the issuer under that Act for the financial year to which the return relates; and
-        
-        
+    *   (b) must contain a copy of the financial statements that are prepared in relation to the credit union for the financial year; and
     
-    *   (c) shall not contain any other accounts unless they have been audited by the auditors for the credit union:
+    *   (c) \[Repealed\]
     
     *   (d) shall have attached a list containing the names, addresses, and designations of the committee of management, the secretary, treasurer, and other principal officers, the trustees, and those persons who are authorised to sue and be sued on behalf of the credit union; and
     
-    *   (e) shall be accompanied by a statement giving details of the total number of members in each category of member as recorded in the register kept pursuant to [section 130][161].
+    *   (e) shall be accompanied by a statement giving details of the total number of members in each category of member as recorded in the register kept pursuant to [section 130][166].
     
-    (4) The annual return to the Registrar shall be accompanied,---
-        
-    *   (a) in the case of a credit union that is not an issuer within the meaning of [section 4][246] of the Financial Reporting Act 1993, by the report of the auditors on the income and expenditure account or accounts and statement of financial position contained in the annual return; or
+    (4) The annual return sent to the Registrar must be accompanied by the auditor's report on the financial statements referred to in subsection (3)(b).
     
-    *   (b) in the case of a credit union that is an issuer within the meaning of [section 4][246] of the Financial Reporting Act 1993, by the report of the auditors on the financial statements contained in the annual return.
+    Section 127(3)(b): replaced, on 1 April 2014, by [section 79(1)][308] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 127(3)(b): substituted, on 1 July 1994, by [section 49][247] of the Financial Reporting Act 1993 (1993 No 106).
+    Section 127(3)(c): repealed, on 1 April 2014, by [section 79(1)][308] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 127(3)(b)(i): amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 127(3)(c): substituted, on 1 July 1994, by [section 49][247] of the Financial Reporting Act 1993 (1993 No 106).
-    
-    Section 127(4): substituted, on 1 July 1994, by [section 49][247] of the Financial Reporting Act 1993 (1993 No 106).
-    
-    Section 127(4)(a): amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 127(4): replaced, on 1 April 2014, by [section 79(2)][308] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 128 Annual return by credit union under dissolution
     
-*   (1) Any credit union which is being terminated by an instrument of dissolution under [section 94][111] or the award of the Registrar under [section 95][112] (each section being as applied by [section 140][173]) shall make up its annual return to the date of that instrument of dissolution or that award.
+*   (1) Any credit union which is being terminated by an instrument of dissolution under [section 94][116] or the award of the Registrar under [section 95][117] (each section being as applied by [section 140][178]) shall make up its annual return to the date of that instrument of dissolution or that award.
     
-    (2) In the case of a credit union amalgamating or transferring its engagements pursuant to [section 135][166], the Registrar may require an annual return made up to the date of such amalgamation or transfer of engagements, or to such other date as he may specify.
+    (2) In the case of a credit union amalgamating or transferring its engagements pursuant to [section 135][171], the Registrar may require an annual return made up to the date of such amalgamation or transfer of engagements, or to such other date as he may specify.
 
 ##### 129 Annual return to be supplied to members
     
-*   (1) On the application of a member or person interested in its funds a credit union shall supply to him without charge either---
-        
-    *   (a) a copy of the last annual return of the credit union; or
+*   (1) A credit union must, on the application of a member or person interested in its funds, supply to the member or person without charge a copy of the last annual return of the credit union.
     
-    *   (b) a statement of financial position or other document duly audited containing the same particulars relating to the affairs of the credit union as are contained in the annual return.
+    (2) A credit union must provide, together with every copy of an annual return supplied under subsection (1), a copy of the auditor's report on the financial statements contained in the return.
     
-    (2) Together with every copy of an annual return supplied in accordance with paragraph (a) of subsection (1), a credit union shall provide,---
-        
-    *   (a) in the case of a credit union that is not an issuer within the meaning of [section 4][246] of the Financial Reporting Act 1993, a copy of the report of the auditors on the accounts and statement of financial position contained in the return; or
-    
-    *   (b) in the case of a credit union that is an issuer within the meaning of [section 4][246] of the Financial Reporting Act 1993, a copy of the report of the auditors on the financial statements contained in the return.
-    
-    (3) Together with every statement of financial position or other document supplied in accordance with paragraph (b) of subsection (1), a credit union shall provide a copy of the report of the auditors on the statement of financial position or document.
-    
-    Section 129(1)(b): amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 129(2): substituted, on 1 July 1994, by [section 49][247] of the Financial Reporting Act 1993 (1993 No 106).
-    
-    Section 129(2)(a): amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 129(3): added, on 1 July 1994, by [section 49][247] of the Financial Reporting Act 1993 (1993 No 106).
-    
-    Section 129(3): amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 129: replaced, on 1 April 2014, by [section 80][309] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 #### Miscellaneous provisions
 
@@ -3105,7 +2855,7 @@ Credit unions
         
     *   (a) ordinary members:
     
-    *   (b) non-qualifying members within the meaning of [section 106(4)][125].
+    *   (b) non-qualifying members within the meaning of [section 106(4)][130].
     
     (2) The register shall show---
         
@@ -3121,23 +2871,15 @@ Credit unions
 
 ##### 131 Inspection of books and accounts of credit union
     
-*   (1) Subject to subsection (2), any member or other person having an interest in the funds of a credit union may inspect the books and accounts of the credit union at all reasonable hours at the registered office of the credit union or at any place where the books or accounts are kept.
+*   \[Repealed\]
     
-    (2) Unless he is an officer of, or is specially authorised by resolution of, the credit union to do so, a member or other person having an interest in the funds of a credit union shall not have the right to inspect any account of any other member without the written consent of that member.
+    Section 131: repealed, on 1 April 2014, by [section 81][310] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
-##### 132 Accounts and statement of financial position to be available
+##### 132 Financial statements must be available
     
-*   Every credit union shall keep available for inspection (without charge) by a member or person interested in its funds at its office during ordinary office hours,---
-        
-    *   (a) in the case of a credit union that is not an issuer within the meaning of [section 4][246] of the Financial Reporting Act 1993, a copy of the last statement of financial position for the time being, including the income and expenditure account for the year to which the statement of financial position relates, together with the report of the auditor or auditors; or
+*   Every credit union must keep available for inspection (without charge), by a member or person interested in its funds, at its office during ordinary office hours a copy of the last financial statements completed and signed in accordance with the [Financial Markets Conduct Act 2013][311] or any other Act, together with the auditor's report.
     
-    *   (b) in the case of a credit union that is an issuer within the meaning of [section 4][246] of the Financial Reporting Act 1993, a copy of the last financial statements completed and signed in accordance with that Act, together with the auditor's report.
-    
-    Section 132: substituted, on 1 July 1994, by [section 49][247] of the Financial Reporting Act 1993 (1993 No 106).
-    
-    Section 132 heading: amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
-    
-    Section 132(a): amended, on 1 October 1997, pursuant to [section 6(1)][221] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 132: replaced, on 1 April 2014, by [section 82][312] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 133 Credit union to be insured against fraud or other dishonesty
     
@@ -3155,13 +2897,13 @@ Credit unions
     
     (3) In this section, _prescribed_ means prescribed from time to time by the Governor-General by Order in Council; and different exceptions, amounts, limits, and conditions may be prescribed in respect of different credit unions or classes of credit union.
     
-    (4) Notwithstanding any amount prescribed for the purpose of subsection (2)(b), a policy of insurance will still comply with this section if that prescribed amount is reduced by the amount the credit union has obtained as security in respect of the fidelity of its officers pursuant to [section 114(2)][136] or section 114(4).
+    (4) Notwithstanding any amount prescribed for the purpose of subsection (2)(b), a policy of insurance will still comply with this section if that prescribed amount is reduced by the amount the credit union has obtained as security in respect of the fidelity of its officers pursuant to [section 114(2)][141] or section 114(4).
     
     (5) Every credit union which, at any time, fails to maintain in force a policy of insurance complying with the requirements of this section, and every member of the committee of management of such a credit union, commits an offence and shall be liable on conviction to a fine not exceeding $1,000\.
     
     Compare: Credit Unions Act 1979 s 15 (UK)
     
-    Section 133(5): amended, on 1 July 2013, by [section 413][220] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 133(5): amended, on 1 July 2013, by [section 413][228] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 134 Guarantee funds
     
@@ -3177,21 +2919,21 @@ Credit unions
     
     (4) Arrangements under this section may provide for the vesting of a fund in trustees appointed under the arrangements.
     
-    (5) Arrangements under this section may provide for the incorporation of a company under the [Companies Act 1993][206]; and a credit union or association shall have power to subscribe for or purchase shares in, or deposit money with, any company so incorporated whether by instalments or not.
+    (5) Arrangements under this section may provide for the incorporation of a company under the [Companies Act 1993][212]; and a credit union or association shall have power to subscribe for or purchase shares in, or deposit money with, any company so incorporated whether by instalments or not.
     
     (6) \[Repealed\]
     
     Compare: Credit Unions Act 1979 s 16 (UK)
     
-    Section 134(1)(a): amended, on 31 August 2012, by [section 15(1)][291] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 134(1)(a): amended, on 31 August 2012, by [section 15(1)][313] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
     
-    Section 134(3): amended, on 31 August 2012, by [section 15(2)][291] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 134(3): amended, on 31 August 2012, by [section 15(2)][313] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
     
-    Section 134(5): amended, on 31 August 2012, by [section 15(3)][291] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 134(5): amended, on 31 August 2012, by [section 15(3)][313] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
     
-    Section 134(5): amended, on 1 July 1994, by [section 2][257] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 134(5): amended, on 1 July 1994, by [section 2][275] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
-    Section 134(6): repealed, on 31 August 2012, by [section 15(4)][291] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 134(6): repealed, on 31 August 2012, by [section 15(4)][313] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
 
 ##### 135 Amalgamation of credit unions and transfer of engagements
     
@@ -3207,39 +2949,39 @@ Credit unions
     
     and an association shall only amalgamate with or transfer its engagements to another association of credit unions.
     
-    (4) For the purposes of this section, [section 83][97], as far as it is applicable and with any necessary modification, applies in respect of a credit union as if it were a society registered under [Part 2][13].
+    (4) For the purposes of this section, [section 83][102], as far as it is applicable and with any necessary modification, applies in respect of a credit union as if it were a society registered under [Part 2][13].
     
-    (4A) The Registrar must not register a special resolution under [section 82][95] if the proposed amalgamation or transfer of engagements would result in a breach of any provision of this Act.
+    (4A) The Registrar must not register a special resolution under [section 82][100] if the proposed amalgamation or transfer of engagements would result in a breach of any provision of this Act.
     
     (5) In this Part the term **non-qualifying member**, in relation to an amalgamated credit union or a credit union which has accepted a transfer of engagements, includes a person who does not fulfil the qualifications for admission to membership of that credit union but became a member of it by virtue of the amalgamation or transfer of engagements, having been immediately before the amalgamation or transfer a non-qualifying member of one of the amalgamating credit unions or, as the case may be, the credit union from which the transfer of engagements was made.
     
     Compare: Credit Unions Act 1979 s 21 (UK)
     
-    Section 135(4): substituted, on 22 November 2006, by [section 9][292] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
+    Section 135(4): substituted, on 22 November 2006, by [section 9][314] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
     
-    Section 135(4A): inserted, on 22 November 2006, by [section 9][292] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
+    Section 135(4A): inserted, on 22 November 2006, by [section 9][314] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
 
 ##### 136 Registrar may approve amalgamations or transfers of engagements of credit unions
     
-*   (1) If, after notice has been given of a general meeting at which it is proposed to put a special resolution amalgamating or transferring the engagements of the credit union pursuant to [section 135][166] the meeting lapses for want of the quorum specified in the rules of the credit union, the committee or trustees of the credit union may apply to the Registrar to confirm the amalgamation or transfer as if the special resolution had been properly passed.
+*   (1) If, after notice has been given of a general meeting at which it is proposed to put a special resolution amalgamating or transferring the engagements of the credit union pursuant to [section 135][171] the meeting lapses for want of the quorum specified in the rules of the credit union, the committee or trustees of the credit union may apply to the Registrar to confirm the amalgamation or transfer as if the special resolution had been properly passed.
     
     (2) Notice of every such application shall be published by the credit union in the _Gazette_, and in such newspaper or newspapers as the Registrar may require.
     
-    (3) Objections in writing may be made to the Registrar, and for this purpose the objection provisions of [section 85][99] with any necessary modifications shall apply to the application as if it were a special resolution passed in respect of a friendly society and the date of publication of the application were the date the special resolution was received by the Registrar under subsection (3) of that section.
+    (3) Objections in writing may be made to the Registrar, and for this purpose the objection provisions of [section 85][104] with any necessary modifications shall apply to the application as if it were a special resolution passed in respect of a friendly society and the date of publication of the application were the date the special resolution was received by the Registrar under subsection (3) of that section.
 
 #### Inspection, liquidation, and suspension of business
     
-*   Heading: substituted, on 1 July 1994, by [section 2][257] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+*   Heading: substituted, on 1 July 1994, by [section 2][275] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
 
 ##### 137 Registrar may appoint inspectors or call special meeting
     
-*   [Section 89][104] (which relates to the appointment of inspectors or the calling of special meetings) shall, as far as it is applicable and with any necessary modification, apply in respect of a credit union as if it were a society registered under [Part 2][13].
+*   [Section 89][109] (which relates to the appointment of inspectors or the calling of special meetings) shall, as far as it is applicable and with any necessary modification, apply in respect of a credit union as if it were a society registered under [Part 2][13].
     
     Compare: Credit Unions Act 1979 s 18 (UK)
 
 ##### 138 Registrar may apply to put credit union into liquidation
     
-*   On the application of the Registrar, the High Court may appoint a liquidator of a credit union for the liquidation of the credit union in accordance with the [Companies Act 1993][206] if---
+*   On the application of the Registrar, the High Court may appoint a liquidator of a credit union for the liquidation of the credit union in accordance with the [Companies Act 1993][212] if---
         
     *   (a) the credit union is unable to pay sums due and payable to its members, or is able to pay such sums only by obtaining further subscriptions for shares or by defaulting in its obligations to creditors; or
     
@@ -3249,15 +2991,13 @@ Credit unions
     
     *   (d) the liquidation of the credit union is in the public interest or is just and equitable having regard to the interests of all members of the credit union.
     
-    Section 138: substituted, on 22 November 2006, by [section 10][293] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
+    Section 138: substituted, on 22 November 2006, by [section 10][315] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
 
 ##### 138A Transitional provisions applying to liquidation of credit unions
     
-*   (1) Nothing in [section 138][170] shall apply to or affect the winding up of a credit union commenced before the commencement of the [Company Law Reform (Transitional Provisions) Act 1994][261] or anything done by or in relation to a credit union under Part 6 of the Companies Act 1955 before the commencement of that Act, and section 138 of this Act and Part 6 of the Companies Act 1955, as in force before the commencement of that Act, shall continue in force in relation thereto as if that Act had not been passed.
+*   \[Repealed\]
     
-    (2) In the liquidation of a credit union under [Part 16][262] of the Companies Act 1993, nothing in any of [sections 292 to 299][263] of that Act applies in relation to any transaction entered into by a credit union, or any matter that arose, before the commencement of the [Company Law Reform (Transitional Provisions) Act 1994][261], but sections 309, 310, 311, 311A, 311B, and 311C of the Companies Act 1955, as in force before the commencement of that Act, shall continue to apply in respect of that transaction or matter as if that Act had not been passed.
-    
-    Section 138A: inserted, on 1 July 1994, by [section 2][257] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 138A: repealed, on 5 December 2013, by [section 14][271] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 139 Registrar may suspend business of credit union
     
@@ -3281,7 +3021,7 @@ Credit unions
     
     (5) Notice of the giving of a direction under subsection (1) shall be published by the Registrar in the _Gazette_ and in some newspaper in general circulation in the neighbourhood of the registered office of the credit union.
     
-    (6) Nothing in any direction given under this section shall make it unlawful for a credit union to borrow from a bank under [section 109(2)][130] if the credit union has first obtained the consent in writing of the Registrar.
+    (6) Nothing in any direction given under this section shall make it unlawful for a credit union to borrow from a bank under [section 109(2)][135] if the credit union has first obtained the consent in writing of the Registrar.
     
     (7) For the purposes of this section and of any direction given under it, if any indebtedness of a member to a credit union is set off to any extent against the share capital credited to him, then, to that extent, the setting off shall be treated as a repayment of that share capital.
     
@@ -3317,25 +3057,25 @@ Credit unions
     
     (1A) Subsection (1) is subject to the following provisions (as far as they are applicable and with any modifications necessary so that they apply to a credit union as if it were a society registered under [Part 2][13]):
         
-    *   (a) [section 92(2) to (9)][109]:
+    *   (a) [section 92(2) to (9)][114]:
     
-    *   (b) [section 93(1)][110]:
+    *   (b) [section 93(1)][115]:
     
-    *   (c) [section 94(1) to (4) and (6)][111]:
+    *   (c) [section 94(1) to (4) and (6)][116]:
     
-    *   (d) [section 95][112]:
+    *   (d) [section 95][117]:
     
-    *   (e) [section 96][113].
+    *   (e) [section 96][118].
     
     (2) Where the registration of a credit union is cancelled pursuant to this section, whether as a result of an award or by agreement or otherwise, every officer of the credit union holding office immediately before such cancellation commits an offence if, at the expiry of a period of 3 months after the date of such cancellation or such extended period as the Registrar may allow, there has not been lodged with the Registrar a certificate signed by the liquidator, secretary, or other officer of the credit union approved by the Registrar that all property vested in the credit union has been duly conveyed or transferred by the credit union to the persons entitled.
     
-    Section 140(1): substituted, on 22 November 2006, by [section 11][294] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
+    Section 140(1): substituted, on 22 November 2006, by [section 11][316] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
     
-    Section 140(1A): inserted, on 22 November 2006, by [section 11][294] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
+    Section 140(1A): inserted, on 22 November 2006, by [section 11][316] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
 
 ##### 141 Liability of members on winding up
     
-*   Where a credit union is wound up pursuant to [section 138][170], the liability of a present or past member of the credit union to contribute for payment of the debts and liabilities of the credit union, the expenses of winding up, and the adjustment of the rights of contributories amongst themselves, shall be qualified as follows:
+*   Where a credit union is wound up pursuant to [section 138][175], the liability of a present or past member of the credit union to contribute for payment of the debts and liabilities of the credit union, the expenses of winding up, and the adjustment of the rights of contributories amongst themselves, shall be qualified as follows:
         
     *   (a) no person who ceased to be a member not less than 1 year before the beginning of the winding up shall be liable to contribute:
     
@@ -3343,17 +3083,17 @@ Credit unions
     
     *   (c) no person who is not a member shall be liable to contribute unless it appears to the court that the contributions of the existing members are insufficient to satisfy the just demands on the credit union:
     
-    *   (d) no contribution shall be required from any person exceeding the amount, if any, unpaid on the shares and the credit union securities referred to in [section 107A][128] in respect of which he is liable as a past or present member, together with any fees or charges or levies payable as such by a member to the credit union as specified in the rules and any money owing by the member to the credit union:
+    *   (d) no contribution shall be required from any person exceeding the amount, if any, unpaid on the shares and the credit union securities referred to in [section 107A][133] in respect of which he is liable as a past or present member, together with any fees or charges or levies payable as such by a member to the credit union as specified in the rules and any money owing by the member to the credit union:
     
     *   (e) in the case of a withdrawable share which has been withdrawn, a person shall be taken to have ceased to be a member in respect of that share as from the date of the notice or application for withdrawal.
     
-    Section 141(d): amended, on 31 August 2012, by [section 16][295] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 141(d): amended, on 31 August 2012, by [section 16][317] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
 
 #### Nomination of shares
 
 ##### 142 Nomination of shares in credit union
     
-*   (1) Notwithstanding that, pursuant to [section 107(2)][127], shares in a credit union are not transferable, a member of a credit union may, by writing under his hand delivered at or sent to the registered office of the credit union, or made in a register kept at that office, nominate a person or persons to receive any shares that the member may have in the credit union at his decease or any sum of money payable by the credit union at that time.
+*   (1) Notwithstanding that, pursuant to [section 107(2)][132], shares in a credit union are not transferable, a member of a credit union may, by writing under his hand delivered at or sent to the registered office of the credit union, or made in a register kept at that office, nominate a person or persons to receive any shares that the member may have in the credit union at his decease or any sum of money payable by the credit union at that time.
     
     (2) For the purposes of subsection (1), [sections 43][51], [44][52], and [45][53] shall, as far as they are applicable and with any necessary modification, apply in respect of a credit union as if---
         
@@ -3403,9 +3143,9 @@ Credit unions
     
     *   (h) arranging, providing, or co-ordinating data processing or computer services for its component members.
     
-    Section 143(3)(e): substituted, on 22 November 2006, by [section 12(1)][296] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
+    Section 143(3)(e): substituted, on 22 November 2006, by [section 12(1)][318] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
     
-    Section 143(4): substituted, on 22 November 2006, by [section 12(2)][296] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
+    Section 143(4): substituted, on 22 November 2006, by [section 12(2)][318] of the Friendly Societies and Credit Unions Amendment Act 2006 (2006 No 65).
 
 ##### 144 Membership of association
     
@@ -3423,7 +3163,7 @@ Credit unions
     
     (4) An association shall not be registered under a name identical with that under which any other existing association, credit union, or society is registered, or so nearly resembling that name as to be likely, or in any name likely, in the opinion of the Registrar, to deceive its component members or the public as to its nature or its identity or in any name which in his opinion is otherwise undesirable.
     
-    Section 145(2): amended, on 20 September 2007, by [section 10][297] of the Friendly Societies and Credit Unions Amendment Act 2007 (2007 No 59).
+    Section 145(2): amended, on 20 September 2007, by [section 10][319] of the Friendly Societies and Credit Unions Amendment Act 2007 (2007 No 59).
 
 ##### 146 Registration of association
     
@@ -3441,17 +3181,19 @@ Credit unions
     
     (3) The following provisions of this Part shall not apply in respect of associations:
         
-    *   (a) [sections 98 to 100][117], [section 101(1)][120], and [sections 102][121] and [103][122]:
+    *   (a) [sections 98 to 100][122], [section 101(1)][125], and [sections 102][126] and [103][127]:
     
-    *   (b) so much of [section 104(1)][123] as relates to [section 12][16] (except subsection (6)), [section 17][21], and [section 23(3) and (4)][28]:
+    *   (b) so much of [section 104(1)][128] as relates to [section 12][16] (except subsection (6)), [section 17][21], and [section 23(3) and (4)][28]:
     
-    *   (c) [section 104(1)(a), (b), and (c), and (2)][123]:
+    *   (c) [section 104(1)(a), (b), and (c), and (2)][128]:
     
-    *   (d) [section 106][125] (except subsection (8)), and [sections 107][127] and [108][129]:
+    *   (d) [section 106][130] (except subsection (8)), and [sections 107][132] and [108][134]:
     
-    *   (e) [sections 124][153] and [142][176].
+    *   (e) [section 142][181].
     
-    Section 146(3)(e): replaced, on 31 August 2012, by [section 17][298] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    Section 146(3)(e): replaced, on 31 August 2012, by [section 17][320] of the Friendly Societies and Credit Unions Amendment Act 2012 (2012 No 64).
+    
+    Section 146(3)(e): amended, on 1 April 2014, by [section 83][321] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ## Part 4  
 Miscellaneous provisions
@@ -3490,9 +3232,9 @@ Miscellaneous provisions
     
     Compare: Friendly Societies Act 1912 s 93A (NSW)
     
-    Section 150(1): amended, on 1 July 2013, by [section 413][220] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 150(1): amended, on 1 July 2013, by [section 413][228] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 150(2): amended, on 1 July 2013, by [section 413][220] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 150(2): amended, on 1 July 2013, by [section 413][228] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 151 Appeals
     
@@ -3560,11 +3302,11 @@ Miscellaneous provisions
     
     (4) Every person who commits an offence against this Act for which no other penalty is prescribed in this Act shall be liable on conviction to a fine not exceeding $750 and, in the case of a continuing offence, to a further fine not exceeding $50 for every week or part of a week during which the offence continues.
     
-    (5) Despite anything to the contrary in [section 25][299] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the offence was actually brought to the knowledge of the Registrar; but no charging document may be filed after the expiration of 3 years after the date on which the offence was committed.
+    (5) Despite anything to the contrary in [section 25][322] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the offence was actually brought to the knowledge of the Registrar; but no charging document may be filed after the expiration of 3 years after the date on which the offence was committed.
     
-    Section 153(4): amended, on 1 July 2013, by [section 413][220] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 153(4): amended, on 1 July 2013, by [section 413][228] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 153(5): replaced, on 1 July 2013, by [section 413][220] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 153(5): replaced, on 1 July 2013, by [section 413][228] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 154 Recovery of fines, etc, imposed on society, branch, or credit union
     
@@ -3572,19 +3314,19 @@ Miscellaneous provisions
     
     Compare: 1909 No 12 s 88
     
-    Section 154: amended, on 1 July 2013, by [section 413][220] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 154: amended, on 1 July 2013, by [section 413][228] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 155 Status of trustees and officers for purposes of Crimes Act 1961
     
-*   (1) The trustees of a registered society or branch or credit union shall be deemed to be trustees within the meaning of [section 229][300] of the Crimes Act 1961\.
+*   (1) The trustees of a registered society or branch or credit union shall be deemed to be trustees within the meaning of [section 229][323] of the Crimes Act 1961\.
     
     (2) \[Repealed\]
     
     Compare: 1909 No 12 ss 79, 80
     
-    Section 155(1): amended, on 1 October 2003, by [section 34][301] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 155(1): amended, on 1 October 2003, by [section 34][324] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 155(2): repealed, on 1 October 2003, by [section 34][301] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 155(2): repealed, on 1 October 2003, by [section 34][324] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 156 Liability of officers and of members of committee on commission of offence
     
@@ -3618,7 +3360,7 @@ Miscellaneous provisions
     
     Compare: 1909 No 12 s 93
     
-    Section 158(2): amended, on 1 May 2011, by [section 82][214] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 158(2): amended, on 1 May 2011, by [section 82][223] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 159 Fines imposed under rules recoverable as a debt
     
@@ -3630,13 +3372,13 @@ Miscellaneous provisions
     
 *   (1) Any society or branch existing at the commencement of this Act and registered or deemed to be registered under the Friendly Societies Act 1909 (not being a society or branch or separate loan fund of a society or branch which, under this Act, would be a credit union), shall be deemed to be registered under [Part 2][13] and shall be subject to this Act accordingly, but shall have 2 years after the commencement of this Act to comply fully with its provisions.
     
-    (2) Any society or branch registered or deemed to be registered under the Friendly Societies Act 1909 as at the commencement of this Act and any separate loan fund of such a society or branch, being in each case a society, branch, or loan fund that would, under this Act, be a credit union (which, in the case of a loan fund, shall have as its first trustees and other officers the trustees and other officers of the society or branch of which it is a loan fund), shall be deemed to be registered under [Part 3][115] and shall---
+    (2) Any society or branch registered or deemed to be registered under the Friendly Societies Act 1909 as at the commencement of this Act and any separate loan fund of such a society or branch, being in each case a society, branch, or loan fund that would, under this Act, be a credit union (which, in the case of a loan fund, shall have as its first trustees and other officers the trustees and other officers of the society or branch of which it is a loan fund), shall be deemed to be registered under [Part 3][120] and shall---
         
     *   (a) comply with all financial limits imposed in respect of credit unions on and from the day of commencement of this Act in relation to any new business entered into on and after that day; and
     
-    *   (b) comply with the provisions of [section 133][164] (which provides for credit unions to be insured against fraud or other dishonesty) within 6 months after the commencement of this Act or within such further period as the Registrar may allow in a particular case; and
+    *   (b) comply with the provisions of [section 133][169] (which provides for credit unions to be insured against fraud or other dishonesty) within 6 months after the commencement of this Act or within such further period as the Registrar may allow in a particular case; and
     
-    *   (c) in relation to any interest in land held in contravention of [section 113][135], dispose of that interest within 6 months after the commencement of this Act; and
+    *   (c) in relation to any interest in land held in contravention of [section 113][140], dispose of that interest within 6 months after the commencement of this Act; and
     
     *   (d) comply with any other relevant provisions of this Act within 2 years after its commencement or within such further period as the Registrar may allow in a particular case.
     
@@ -3644,7 +3386,7 @@ Miscellaneous provisions
     
     (4) Notwithstanding anything to the contrary in this section, any society or body of persons registered under the Friendly Societies Act 1909 between the day this Act receives the Governor-General's assent and the date of its commencement, being a society or body of persons which would be a credit union under this Act, shall comply fully with the provisions of this Act as from that date of commencement.
     
-    (5) Notwithstanding the revocation of the Friendly Societies Regulations 1910 by [section 161(3)][197], any juvenile society registered in accordance with regulations 55 and 56 of those regulations may continue in being as if those regulations had not been revoked.
+    (5) Notwithstanding the revocation of the Friendly Societies Regulations 1910 by [section 161(3)][202], any juvenile society registered in accordance with regulations 55 and 56 of those regulations may continue in being as if those regulations had not been revoked.
     
     (6) Where, in respect of any society, branch, or credit union, subsection (1) or, as the case may be, subsection (2)(d) or subsection (3) would (except for this subsection) apply, the Minister may, if he is satisfied that it would be inequitable or too difficult or too expensive for that society, branch, or credit union to comply fully with the provisions of this Act, exempt the relevant body from compliance with such provisions of this Act as he may specify by notice in the _Gazette_; and the notice shall have effect according to its tenor in respect of the business or activities of the society, branch, or credit union to which it relates.
     
@@ -3652,9 +3394,9 @@ Miscellaneous provisions
 
 ##### 161 Amendments, repeals, and revocations
     
-*   (1) The enactments specified in [Schedule 6][203] are hereby amended in the manner specified.
+*   (1) The enactments specified in [Schedule 6][208] are hereby amended in the manner specified.
     
-    (2) The enactments specified in [Schedule 7][204] are hereby repealed.
+    (2) The enactments specified in [Schedule 7][209] are hereby repealed.
     
     (3) The following Orders in Council are hereby revoked:
         
@@ -3679,7 +3421,7 @@ Purposes for which friendly societies may be established
 
 *   1 For the relief or maintenance of the members of the society, their spouses, civil union partners, or de facto partners (in this schedule referred to as a member's **spouse or partner**) (including any former spouse or partner), children (including step-children), fathers, mothers, brothers, sisters, nephews, nieces, or wards being orphans, during sickness or other infirmity (whether bodily or mental) or at any age after 50 or when their spouse or partner has died, or for the relief or maintenance of the orphan children (including step-children) of members during minority or at any later time while they are receiving full-time education.
 
-*   Schedule 1 clause 1: amended, on 26 April 2005, by [section 7][234] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+*   Schedule 1 clause 1: amended, on 26 April 2005, by [section 7][242] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 *   2 For insuring money to be paid---
         
@@ -3695,17 +3437,17 @@ Purposes for which friendly societies may be established
     
     
 
-*   Schedule 1 clause 2(c): amended, on 26 April 2005, by [section 7][234] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+*   Schedule 1 clause 2(c): amended, on 26 April 2005, by [section 7][242] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 *   3 For the relief or maintenance of members when travelling in search of employment, or when in distressed circumstances.
 
 *   4 For medical or surgical attendance, relief, or requisites for members, their spouses or partners (including any former spouse or partner), children (including step-children), fathers, mothers, brothers, sisters, nephews, nieces, or wards being orphans.
 
-*   Schedule 1 clause 4: amended, on 26 April 2005, by [section 7][234] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+*   Schedule 1 clause 4: amended, on 26 April 2005, by [section 7][242] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 *   5 For the endowment of members or nominees of members at any age or on marriage or entry into civil union.
 
-*   Schedule 1 clause 5: amended, on 26 April 2005, by [section 7][234] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+*   Schedule 1 clause 5: amended, on 26 April 2005, by [section 7][242] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 *   6 For insuring money to be paid to a member of the society on the duration for a specified period of the member's life, either with or without provision for the payment of money in the event of his or her death before the expiry of that period.
 
@@ -3732,7 +3474,7 @@ Matters to be provided for by the rules of societies registered under Part 2
 
 *   5 The appointment and removal of a committee of management (by whatever name), of a treasurer and other officers and of trustees and, in the case of a society with branches, the composition and powers of the central body and the conditions under which a branch may secede or be expelled from the society.
 
-*   6 The investment of the funds, the keeping of the accounts, and the audit of the accounts at least once a year.
+*   6 The investment of the funds, the keeping of the accounts, and the audit (if any) of the financial statements.
 
 *   7 Annual returns to the Registrar relating to the affairs and numbers of members of the society.
 
@@ -3749,6 +3491,8 @@ Matters to be provided for by the rules of societies registered under Part 2
 *   13 In the case of friendly societies, the keeping of a separate account of the expenses of management and of all contributions and other money which may be applied to those expenses.
 
 *   14 Such other matters as may be specified by the Registrar.
+
+*   Schedule 2 item 6: amended, on 1 April 2014, by [section 84][325] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ---
 
@@ -3769,17 +3513,13 @@ Matters to be provided for by the rules of or for branches registered under Part
 
 *   5 The appointment and removal of a committee of management (by whatever name), of a treasurer and other officers and of trustees, the contribution to a fund under the control of the central body, the control of the central body over the branch, and the conditions under which the branch may secede from the society.
 
-*   6 The investment of the funds, the keeping of the accounts, and the audit of the accounts at least once a year.
+*   6 The investment of the funds, the keeping of the accounts, and the audit (if any) of the financial statements.
 
 *   7 Annual returns to the Registrar through the society relating to the affairs and numbers of members of the branch.
 
 *   8 The inspection of the books and accounts of the branch by every person having an interest in the funds of the branch.
 
-*   9 The manner in which disputes of a kind referred to in [section 78(2)][90] must be settled.
-        
-    *   Schedule 3 clause 9: substituted, on 15 April 2004, by [section 6][302] of the Friendly Societies and Credit Unions Amendment Act 2004 (2004 No 28).
-    
-    
+*   9 The manner in which disputes of a kind referred to in [section 78(2)][95] must be settled.
 
 *   10 In the case of dividing societies, a provision for meeting all claims upon the branch existing at the time of division before any such division takes place.
 
@@ -3791,12 +3531,15 @@ Matters to be provided for by the rules of or for branches registered under Part
 
 *   14 Such other matters as may be specified by the Registrar.
 
+*   Schedule 3 item 6: amended, on 1 April 2014, by [section 85][326] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+*   Schedule 3 item 9: replaced, on 15 April 2004, by [section 6][327] of the Friendly Societies and Credit Unions Amendment Act 2004 (2004 No 28).
+
 ---
 
 ## Schedule 4  
 Matters to be provided for in rules of credit unions
 
-[s 104][123]
+[s 104][128]
 
 *   1 The name of the credit union.
 
@@ -3822,9 +3565,9 @@ Matters to be provided for in rules of credit unions
 
 *   12 The inspection of the books and accounts of the credit union by every person having an interest in the funds of the credit union.
 
-*   13 The manner in which disputes of a kind referred to in [section 78(2)][90] must be settled.
+*   13 The manner in which disputes of a kind referred to in [section 78(2)][95] must be settled.
         
-    *   Schedule 4 clause 13: substituted, on 15 April 2004, by [section 7][303] of the Friendly Societies and Credit Unions Amendment Act 2004 (2004 No 28).
+    *   Schedule 4 clause 13: substituted, on 15 April 2004, by [section 7][328] of the Friendly Societies and Credit Unions Amendment Act 2004 (2004 No 28).
     
     
 
@@ -3849,7 +3592,7 @@ Matters to be provided for in rules of credit unions
 ## Schedule 5  
 Persons, societies, or bodies of persons exempt from registration as a credit union
 
-[s 99(1)(a), (2)][118]
+[s 99(1)(a), (2)][123]
 
 The Public Service Investment Society Limited
 
@@ -3860,15 +3603,15 @@ The Consumers' Co-operative Society (Manawatu) Limited
 ## Schedule 6  
 Enactments amended
 
-[s 161(1)][197]
+[s 161(1)][202]
 
 ##### Administration Act 1969 (1969 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][304]._
+_Amendment(s) incorporated in the [Act(s)][329]._
 
 ##### Income Tax Act 1976 (1976 No 65) 
 
-_Amendment(s) incorporated in the [Act(s)][305]._
+_Amendment(s) incorporated in the [Act(s)][330]._
 
 ##### Labour Department Act 1954 (1954 No 71) (RS Vol 7, p 521)
 
@@ -3880,30 +3623,30 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Stamp and Cheque Duties Act 1971 (1971 No 51)
 
-_Amendment(s) incorporated in the [Act(s)][306]._
+_Amendment(s) incorporated in the [Act(s)][331]._
 
 ##### Trade Unions Act 1908 (1908 No 196) (1957 Reprint, Vol 15, p 827)
 
-_Amendment(s) incorporated in the [Act(s)][307]._
+_Amendment(s) incorporated in the [Act(s)][332]._
 
 ##### Unit Trusts Act 1960 (1960 No 99)
 
-_Amendment(s) incorporated in the [Act(s)][308]._
+_Amendment(s) incorporated in the [Act(s)][333]._
 
 ---
 
 ## Schedule 7  
 Enactments repealed
 
-[s 161(2)][197]
+[s 161(2)][202]
 
 ##### Age of Majority Act 1970 (1970 No 137)
 
-_Amendment(s) incorporated in the [Act(s)][309]._
+_Amendment(s) incorporated in the [Act(s)][334]._
 
 ##### Crown Proceedings Act 1950 (1950 No 54) (RS Vol 2, p 51)
 
-_Amendment(s) incorporated in the [Act(s)][310]._
+_Amendment(s) incorporated in the [Act(s)][335]._
 
 ##### Friendly Societies Act 1909 (1909 No 12) (RS Vol 6, p 417)
 
@@ -3951,7 +3694,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Friendly Societies and Credit Unions Amendment Act 2006][311].
+*   This Act is the [Friendly Societies and Credit Unions Amendment Act 2006][336].
 
 ##### 2 Commencement
     
@@ -3965,128 +3708,125 @@ Commencementsee section 2
 
 ---
 
-#### Contents
+# Financial Reporting (Amendments to Other Enactments) Act 2013Public Act2013 No 102
+
+Date of assent3 December 2013
+
+Commencementsee section 2
+
+##### 1 Title
     
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+*   This Act is the [Financial Reporting (Amendments to Other Enactments) Act 2013][337].
+
+##### 2 Commencement
+    
+*   (1) This Act comes into force on a date appointed by the Governor-General by Order in Council; and 1 or more orders may be made appointing different dates for different provisions and for different purposes.
+    
+    (2) To the extent that it is not previously brought into force under subsection (1), the rest of this Act comes into force on 1 April 2017\.
+    
+    (3) In this section, _provision_ includes any item, or any part of an item, in any of the schedules.
+    
+    Section 2(1): this Act (other than sections 18--22) brought into force, on 1 April 2014, by the [Financial Reporting Legislation Commencement Order 2014][338] (LI 2014/52).
+
+#### Amendments to Friendly Societies and Credit Unions Act 1982
+
+##### 63 Principal Act
+    
+*   Sections 64 to 85 amend the Friendly Societies and Credit Unions Act 1982 (the principal Act).
+
+##### 86 Transitional provision for registered societies and branches
+    
+*   (1) The Friendly Societies and Credit Unions Act 1982, as amended by sections 64 to 85, applies to a registered society or branch in relation to financial years that commence on or after the commencement of this section.
+    
+    (2) The Friendly Societies and Credit Unions Act 1982, as in force before the commencement of this section, continues to apply to a registered society or branch in relation to financial years that commenced before the commencement of this section as if this Act and the Financial Reporting Act 2013 had not been enacted.
+    
+    (3) This section is subject to sections 55 and 56 of the Financial Reporting Act 2013 (which require issuers, on a transitional basis, to continue complying with the Financial Reporting Act 1993 and provide transitional rules for FMC reporting entities).
+
+##### 87 Transitional provision for credit unions
+    
+*   (1) The Friendly Societies and Credit Unions Act 1982, as amended by sections 64 to 85, applies to a credit union in relation to financial years that commence on or after the commencement of this section.
+    
+    (2) The Friendly Societies and Credit Unions Act 1982, as in force before the commencement of this section, continues to apply to a credit union in relation to financial years that commenced before the commencement of this section as if this Act and the Financial Reporting Act 2013 had not been enacted.
+    
+    (3) This section is subject to sections 55 and 56 of the Financial Reporting Act 2013 (which require issuers, on a transitional basis, to continue complying with the Financial Reporting Act 1993 and provide transitional rules for FMC reporting entities).
+
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Friendly Societies and Credit Unions Act 1982\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][312] ![](/images/external_link.gif).
+*   This is a reprint of the Friendly Societies and Credit Unions Act 1982 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][313] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][339] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][340] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][314] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][341] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][342] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][315] and [17E][316] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [sections 64--85][218]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Companies Amendment Act 2013 (2013 No 111): [section 14][271]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    [Friendly Societies and Credit Unions Amendment Act 2012][343] (2012 No 64)
     
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][228]
     
-
-###### 5 List of amendments incorporated in this eprint (most recent first)
+    Financial Markets Authority Act 2011 (2011 No 5): [section 82][223]
     
-*   [Friendly Societies and Credit Unions Amendment Act 2012][317] (2012 No 64)
+    Insurance (Prudential Supervision) Act 2010 (2010 No 111): [section 241(2)][224]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][220]
+    [Friendly Societies and Credit Unions (Maximum Gross Sum) Order 2008][344] (SR 2008/353)
     
-    Auditor Regulation Act 2011 (2011 No 21): [section 82][215]
+    Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][245]
     
-    Financial Markets Authority Act 2011 (2011 No 5): [section 82][214]
+    [Friendly Societies and Credit Unions Amendment Act 2007][345] (2007 No 59)
     
-    Insurance (Prudential Supervision) Act 2010 (2010 No 111): [section 241(2)][216]
+    [Friendly Societies and Credit Unions Amendment Act 2006][336] (2006 No 65)
     
-    [Friendly Societies and Credit Unions (Threshold for Obligation to Appoint Auditors) Order 2010][318] (SR 2010/278)
+    Coroners Act 2006 (2006 No 38): [section 146][246]
     
-    [Friendly Societies and Credit Unions (Maximum Gross Sum) Order 2008][319] (SR 2008/353)
+    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][242]
     
-    Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][237]
+    [Friendly Societies and Credit Unions (Maximum Annuity) Order 2004][346] (SR 2004/210)
     
-    [Friendly Societies and Credit Unions Amendment Act 2007][320] (2007 No 59)
+    [Friendly Societies and Credit Unions Amendment Act 2004][347] (2004 No 28)
     
-    [Friendly Societies and Credit Unions Amendment Act 2006][311] (2006 No 65)
+    Crimes Amendment Act 2003 (2003 No 39): [section 34][324]
     
-    Coroners Act 2006 (2006 No 38): [section 146][238]
+    Public Trust Act 2001 (2001 No 100): [section 170(1)][252]
     
-    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][234]
+    Arbitration Act 1996 (1996 No 99): [section 17][268]
     
-    [Friendly Societies and Credit Unions (Maximum Annuity) Order 2004][321] (SR 2004/210)
+    Co-operative Companies Act 1996 (1996 No 24): [section 51][273]
     
-    [Friendly Societies and Credit Unions Amendment Act 2004][322] (2004 No 28)
+    Banking Act Repeal Act 1995 (1995 No 32): [section 2(2)][220]
     
-    Crimes Amendment Act 2003 (2003 No 39): [section 34][301]
+    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][275]
     
-    Public Trust Act 2001 (2001 No 100): [section 170(1)][244]
+    Companies Act Repeal Act 1993 (1993 No 126): [section 2(1)][219]
     
-    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6(1)][221]
+    Private Savings Banks (Transfer of Undertakings) Act 1992 (1992 No 21): [sections 20][222], [23(1)][221]
     
-    Arbitration Act 1996 (1996 No 99): [section 17][254]
+    Trustee Amendment Act 1988 (1988 No 119): [section 14(1)][250]
     
-    Co-operative Companies Act 1996 (1996 No 24): [section 51][259]
+    Disputes Tribunals Act 1988 (1988 No 110): [section 82(2)][270]
     
-    Banking Act Repeal Act 1995 (1995 No 32): [section 2(2)][211]
+    State Sector Act 1988 (1988 No 20): [section 88(2)][226]
     
-    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][257]
-    
-    Companies Act Repeal Act 1993 (1993 No 126): [section 2(1)][210]
-    
-    Financial Reporting Act 1993 (1993 No 106): [section 49][247]
-    
-    Private Savings Banks (Transfer of Undertakings) Act 1992 (1992 No 21): [sections 20][213], [23(1)][212]
-    
-    Trustee Amendment Act 1988 (1988 No 119): [section 14(1)][242]
-    
-    Disputes Tribunals Act 1988 (1988 No 110): [section 82(2)][256]
-    
-    State Sector Act 1988 (1988 No 20): [section 88(2)][218]
-    
-    Protection of Personal and Property Rights Act 1988 (1988 No 4): [section 117(3)][228]
+    Protection of Personal and Property Rights Act 1988 (1988 No 4): [section 117(3)][236]
     
     Friendly Societies and Credit Unions Amendment Act 1987 (1987 No 142)
     
     State-Owned Enterprises Amendment Act 1987 (1987 No 117): section 11(1)
     
-    Official Information Amendment Act 1987 (1987 No 8): [section 25(1)][219]
+    Official Information Amendment Act 1987 (1987 No 8): [section 25(1)][227]
     
     Friendly Societies and Credit Unions Amendment Act (No 2) 1985 (1985 No 177)
     
@@ -4094,7 +3834,7 @@ Commencementsee section 2
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM59734
 [2]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM59736
 [3]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM59737
@@ -4169,251 +3909,276 @@ Commencementsee section 2
 [72]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60209
 [73]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60211
 [74]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60214
-[75]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60216
-[76]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60218
-[77]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60219
-[78]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60220
-[79]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60223
-[80]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60224
-[81]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60225
-[82]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60228
-[83]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60229
-[84]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60232
-[85]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60235
-[86]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60236
-[87]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60237
-[88]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60238
-[89]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60239
-[90]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60240
-[91]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60244
-[92]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60245
-[93]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60247
-[94]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60250
-[95]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60251
-[96]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60253
-[97]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60254
-[98]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60256
-[99]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60260
-[100]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60261
-[101]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60262
-[102]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60263
-[103]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60264
-[104]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60265
-[105]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60266
-[106]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60268
-[107]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60270
-[108]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60271
-[109]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60272
-[110]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60273
-[111]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60276
-[112]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60277
-[113]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60278
-[114]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60279
-[115]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60280
-[116]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60281
-[117]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60282
-[118]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60283
-[119]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60284
-[120]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60287
-[121]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60288
-[122]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60293
-[123]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60294
-[124]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60296
-[125]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60298
-[126]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60803
-[127]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60804
-[128]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM4714643
-[129]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60806
-[130]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60808
-[131]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60809
-[132]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60811
-[133]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60814
-[134]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60815
-[135]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60817
-[136]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60818
-[137]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60820
-[138]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60821
-[139]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60822
-[140]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM4714667
-[141]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM4714624
-[142]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM4714625
-[143]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM4714626
-[144]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM4714627
-[145]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60825
-[146]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60826
-[147]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60827
-[148]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60828
-[149]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60834
-[150]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60836
-[151]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60839
-[152]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60841
-[153]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60844
-[154]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60846
-[155]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60848
-[156]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60849
-[157]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60850
-[158]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60853
-[159]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60854
-[160]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60857
-[161]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60858
-[162]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60859
-[163]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60860
-[164]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60863
-[165]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60865
-[166]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60867
-[167]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60870
-[168]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60871
-[169]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60873
-[170]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60874
-[171]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60877
-[172]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60879
-[173]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60880
-[174]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60883
-[175]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60884
-[176]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60885
-[177]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60886
-[178]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60887
-[179]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60890
-[180]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60891
-[181]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60892
-[182]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60893
-[183]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60894
-[184]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60895
-[185]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60896
-[186]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60897
-[187]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60898
-[188]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60899
-[189]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM61300
-[190]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM61301
-[191]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM61302
-[192]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM61305
-[193]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM61306
-[194]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM61307
-[195]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM61308
-[196]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM61309
-[197]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM61310
-[198]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM61311
-[199]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM61326
-[200]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM61341
-[201]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM61357
-[202]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM61377
-[203]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM61378
-[204]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM61386
-[205]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM260663
-[206]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM319569
-[207]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM3230581
-[208]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM2478128
-[209]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM381179
-[210]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM328327
-[211]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM366890
-[212]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM261024
-[213]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM261021
-[214]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM3231793
-[215]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM3231525
-[216]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM2478612
-[217]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM129109
-[218]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM130375
-[219]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM101353
-[220]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM3360714
-[221]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM408960
-[222]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM968299
-[223]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM968300
-[224]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM968301
-[225]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM968302
-[226]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM968303
-[227]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM126527
-[228]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM128108
-[229]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM269031
-[230]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM61325
-[231]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM396805
-[232]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM1611406
-[233]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM272598
-[234]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM333795
-[235]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM359378
-[236]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM355084
-[237]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM1048943
-[238]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM378303
-[239]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM170361
-[240]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM261923
-[241]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM305061
-[242]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM135629
-[243]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM304703
-[244]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM124529
-[245]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM323597
-[246]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM324887
-[247]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM325176
-[248]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM3178906
-[249]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM391422
-[250]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM320887
-[251]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM372072
-[252]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM28187
-[253]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM244508
-[254]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM405707
-[255]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM133281
-[256]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM134169
-[257]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM328986
-[258]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM320111
-[259]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM377310
-[260]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM968304
-[261]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM328980
-[262]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM321666
-[263]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM321975
-[264]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM367767
-[265]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM325263
-[266]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM344367
-[267]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM175774
-[268]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392480
-[269]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392481
-[270]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392483
-[271]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392484
-[272]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392485
-[273]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444313
-[274]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM25999
-[275]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444314
-[276]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444316
-[277]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444317
-[278]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM244509
-[279]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444319
-[280]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444321
-[281]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM244511
-[282]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444322
-[283]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444323
-[284]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444324
-[285]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444300
-[286]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM319576
-[287]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM1139189
-[288]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM1139190
-[289]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM1139191
-[290]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444325
-[291]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444326
-[292]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392486
-[293]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392487
-[294]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392489
-[295]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444327
-[296]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392490
-[297]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM968305
-[298]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444328
-[299]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM3360067
-[300]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM330233
-[301]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM200436
-[302]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM244512
-[303]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM244514
-[304]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM393030
-[305]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM2474803
-[306]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM399732
-[307]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM175701
-[308]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM325269
-[309]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM396810
-[310]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM262416
-[311]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392473
-[312]: http://www.pco.parliament.govt.nz/reprints/
-[313]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM195439
-[314]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[315]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM195468
-[316]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM195470
-[317]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444306
-[318]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM3178900
-[319]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM1611400
-[320]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM968292
-[321]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM272592
-[322]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM244502
+[75]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM6042833
+[76]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM6042834
+[77]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM6042835
+[78]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM6042836
+[79]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM6042837
+[80]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60216
+[81]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60218
+[82]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60219
+[83]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60220
+[84]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60223
+[85]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60224
+[86]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60225
+[87]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60228
+[88]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60229
+[89]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60232
+[90]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60235
+[91]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60236
+[92]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60237
+[93]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60238
+[94]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60239
+[95]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60240
+[96]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60244
+[97]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60245
+[98]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60247
+[99]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60250
+[100]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60251
+[101]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60253
+[102]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60254
+[103]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60256
+[104]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60260
+[105]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60261
+[106]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60262
+[107]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60263
+[108]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60264
+[109]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60265
+[110]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60266
+[111]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60268
+[112]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60270
+[113]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60271
+[114]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60272
+[115]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60273
+[116]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60276
+[117]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60277
+[118]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60278
+[119]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60279
+[120]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60280
+[121]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60281
+[122]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60282
+[123]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60283
+[124]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60284
+[125]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60287
+[126]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60288
+[127]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60293
+[128]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60294
+[129]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60296
+[130]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60298
+[131]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60803
+[132]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60804
+[133]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM4714643
+[134]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60806
+[135]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60808
+[136]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60809
+[137]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60811
+[138]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60814
+[139]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60815
+[140]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60817
+[141]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60818
+[142]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60820
+[143]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60821
+[144]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60822
+[145]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM4714667
+[146]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM4714624
+[147]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM4714625
+[148]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM4714626
+[149]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM4714627
+[150]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60825
+[151]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60826
+[152]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60827
+[153]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60828
+[154]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60834
+[155]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60836
+[156]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60839
+[157]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60841
+[158]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60844
+[159]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60846
+[160]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60848
+[161]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60849
+[162]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60850
+[163]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60853
+[164]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60854
+[165]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60857
+[166]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60858
+[167]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60859
+[168]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60860
+[169]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60863
+[170]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60865
+[171]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60867
+[172]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60870
+[173]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60871
+[174]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60873
+[175]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60874
+[176]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60877
+[177]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60879
+[178]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60880
+[179]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60883
+[180]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60884
+[181]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60885
+[182]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60886
+[183]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60887
+[184]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60890
+[185]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60891
+[186]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60892
+[187]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60893
+[188]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60894
+[189]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60895
+[190]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60896
+[191]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60897
+[192]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60898
+[193]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM60899
+[194]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM61300
+[195]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM61301
+[196]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM61302
+[197]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM61305
+[198]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM61306
+[199]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM61307
+[200]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM61308
+[201]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM61309
+[202]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM61310
+[203]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM61311
+[204]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM61326
+[205]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM61341
+[206]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM61357
+[207]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM61377
+[208]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM61378
+[209]: http://www.legislation.govt.nz/act/public/1982/0118/latest/whole.html#DLM61386
+[210]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4632837
+[211]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM260663
+[212]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM319569
+[213]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4632890
+[214]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4632894
+[215]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM2478128
+[216]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4632944
+[217]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM381179
+[218]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM5740399
+[219]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM328327
+[220]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM366890
+[221]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM261024
+[222]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM261021
+[223]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM3231793
+[224]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM2478612
+[225]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM129109
+[226]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM130375
+[227]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM101353
+[228]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM3360714
+[229]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM5740417
+[230]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM968299
+[231]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM968300
+[232]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM968301
+[233]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM968302
+[234]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM968303
+[235]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM126527
+[236]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM128108
+[237]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM269031
+[238]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM396805
+[239]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM5740418
+[240]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM1611406
+[241]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM272598
+[242]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM333795
+[243]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM359378
+[244]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM355084
+[245]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM1048943
+[246]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM378303
+[247]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM170361
+[248]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM261923
+[249]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM305061
+[250]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM135629
+[251]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM304703
+[252]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM124529
+[253]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM5740419
+[254]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM5740421
+[255]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM5740422
+[256]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4702249
+[257]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4632981
+[258]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4632962
+[259]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4632947
+[260]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM5740434
+[261]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM5740435
+[262]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM5740436
+[263]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM5740437
+[264]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM5740438
+[265]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM5740440
+[266]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM28187
+[267]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM244508
+[268]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM405707
+[269]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM133281
+[270]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM134169
+[271]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM5620822
+[272]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM320111
+[273]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM377310
+[274]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM968304
+[275]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM328986
+[276]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM367767
+[277]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM325263
+[278]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM344367
+[279]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM175774
+[280]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392480
+[281]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392481
+[282]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392483
+[283]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392484
+[284]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392485
+[285]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444313
+[286]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM25999
+[287]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444314
+[288]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444316
+[289]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444317
+[290]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM244509
+[291]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444319
+[292]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444321
+[293]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM244511
+[294]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444322
+[295]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444323
+[296]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444324
+[297]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444300
+[298]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM319576
+[299]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM1139189
+[300]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM1139190
+[301]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM1139191
+[302]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM5740442
+[303]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444325
+[304]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM5740444
+[305]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4702243
+[306]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM5740445
+[307]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM60223
+[308]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM5740452
+[309]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM5740453
+[310]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM5740455
+[311]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4090503
+[312]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM5740456
+[313]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444326
+[314]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392486
+[315]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392487
+[316]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392489
+[317]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444327
+[318]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392490
+[319]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM968305
+[320]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444328
+[321]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM5740458
+[322]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM3360067
+[323]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM330233
+[324]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM200436
+[325]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM5740459
+[326]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM5740460
+[327]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM244512
+[328]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM244514
+[329]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM393030
+[330]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM2474803
+[331]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM399732
+[332]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM175701
+[333]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM325269
+[334]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM396810
+[335]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM262416
+[336]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM392473
+[337]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM5739901
+[338]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM5927500
+[339]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM2998516
+[340]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM2998515
+[341]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM2998532
+[342]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[343]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM4444306
+[344]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM1611400
+[345]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM968292
+[346]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM272592
+[347]: http://www.legislation.govt.nz/act/public/1982/0118/latest/link.aspx?id=DLM244502
