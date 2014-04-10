@@ -1,5 +1,5 @@
 Reprint  
-as at 26 April 2005
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencement20 October 1972
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Education.
 
@@ -79,11 +79,11 @@ This Act is administered by the Ministry of Education.
 
 [27][28][][28][Estimates of receipts and expenditure][28]
 
-[28][29][][29][Accounts][29]
+[28][29][][29][Accounting records must be kept][29]
 
-[29][30][][30][Annual balance][30]
+[29][30][][30][Financial statements must be prepared][30]
 
-[29A][31][][31][Auditor-General to be auditor of Board][31]
+[29A][31][][31][Financial statements must be audited][31]
 
 [30][32][][32][Annual report][32]
 
@@ -113,9 +113,13 @@ An Act to establish a Pacific Islands Polynesian Education Foundation
     
     _education_ includes pre-school education
     
+    _financial statements_ has the same meaning as in [section 6][37] of the Financial Reporting Act 2013
+    
     _financial year_ means a period of 12 months ending with the last day of December
     
     _Foundation_ means the Pacific Islands Polynesian Education Foundation constituted by this Act
+    
+    _generally accepted accounting practice_ has the same meaning as in [section 8][38] of the Financial Reporting Act 2013
     
     _Polynesian_ means a member of the Polynesian race living in New Zealand who is both---
         
@@ -128,12 +132,16 @@ An Act to establish a Pacific Islands Polynesian Education Foundation
     _Minister_ means the Minister of Education
     
     _trustee_ means a member of the Board.
+    
+    Section 2 **financial statements**: inserted, on 1 April 2014, by [section 125][39] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 2 **generally accepted accounting practice**: inserted, on 1 April 2014, by [section 125][39] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 3 Administration of Act
     
 *   This Act shall be administered by the Ministry of Education under the control of the Minister.
     
-    Section 3: amended, on 1 October 1989, pursuant to [section 144(2)][37] of the Education Act 1989 (1989 No 80).
+    Section 3: amended, on 1 October 1989, pursuant to [section 144(2)][40] of the Education Act 1989 (1989 No 80).
 
 ##### 4 Foundation established
     
@@ -215,17 +223,17 @@ An Act to establish a Pacific Islands Polynesian Education Foundation
     
     (9) The powers of the Board shall not be affected by any vacancy in the membership thereof.
     
-    Section 8(2)(b): amended, on 1 October 1989, pursuant to [section 144(2)][37] of the Education Act 1989 (1989 No 80).
+    Section 8(2)(b): amended, on 1 October 1989, pursuant to [section 144(2)][40] of the Education Act 1989 (1989 No 80).
     
-    Section 8(2)(c): replaced, on 1 January 1992, by [section 9(1)][38] of the Ministry of Maori Development Act 1991 (1991 No 145).
+    Section 8(2)(c): replaced, on 1 January 1992, by [section 9(1)][41] of the Ministry of Maori Development Act 1991 (1991 No 145).
     
-    Section 8(2)(d): amended, on 1 October 1989, pursuant to [section 144(2)][37] of the Education Act 1989 (1989 No 80).
+    Section 8(2)(d): amended, on 1 October 1989, pursuant to [section 144(2)][40] of the Education Act 1989 (1989 No 80).
     
     Section 8(2)(e): amended, on 30 March 1987, by section 2(1) of the Pacific Islands Polynesian Education Foundation Amendment Act 1987 (1987 No 43).
     
     Section 8(4): amended, on 30 March 1987, by section 2(1) of the Pacific Islands Polynesian Education Foundation Amendment Act 1987 (1987 No 43).
     
-    Section 8(6): amended, on 25 October 2001, by [section 81][39] of the Education Standards Act 2001 (2001 No 88).
+    Section 8(6): amended, on 25 October 2001, by [section 81][42] of the Education Standards Act 2001 (2001 No 88).
 
 ##### 9 Chairman at meetings of the Board and contributors
     
@@ -259,7 +267,7 @@ An Act to establish a Pacific Islands Polynesian Education Foundation
 
 ##### 11 Fees and travelling allowances
     
-*   The Board may pay to any trustee, or to any member of a Special Committee, remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][40], and the provisions of that Act shall apply accordingly. The Board and all such committees are hereby declared to be statutory Boards within the meaning of that Act.
+*   The Board may pay to any trustee, or to any member of a Special Committee, remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][43], and the provisions of that Act shall apply accordingly. The Board and all such committees are hereby declared to be statutory Boards within the meaning of that Act.
 
 ##### 12 Executive Committee, Special Committees, and delegation of powers
     
@@ -295,19 +303,19 @@ An Act to establish a Pacific Islands Polynesian Education Foundation
     
     (4) Notwithstanding anything in the foregoing provisions of this section, no contract made by or on behalf of the Foundation shall be invalid by reason only that it was not made in manner provided in the foregoing provisions of this section, if it was made pursuant to a resolution of the Board or to give effect to a resolution of the Board.
     
-    (5) The Board is hereby declared to be a local authority for the purposes of the [Local Authorities (Members' Interests) Act 1968][41].
+    (5) The Board is hereby declared to be a local authority for the purposes of the [Local Authorities (Members' Interests) Act 1968][44].
     
-    (6) _Amendment(s) incorporated in the [Act(s)][42]._
+    (6) _Amendment(s) incorporated in the [Act(s)][45]._
 
 ##### 15 Appointment of officers and collectors
     
-*   (1) There shall be appointed in accordance with the [State Sector Act 1988][43] all such officers and servants of the Board as may be necessary for the efficient exercise and performance of the powers and functions of the Board, including a secretary and a treasurer.
+*   (1) There shall be appointed in accordance with the [State Sector Act 1988][46] all such officers and servants of the Board as may be necessary for the efficient exercise and performance of the powers and functions of the Board, including a secretary and a treasurer.
     
-    (2) The Board may appoint such persons as it thinks fit for the purpose of collecting voluntary contributions and donations from the public for the purposes of the Foundation. No person shall be deemed to be subject to the [State Sector Act 1988][43] by reason of his appointment under this subsection.
+    (2) The Board may appoint such persons as it thinks fit for the purpose of collecting voluntary contributions and donations from the public for the purposes of the Foundation. No person shall be deemed to be subject to the [State Sector Act 1988][46] by reason of his appointment under this subsection.
     
-    Section 15(1): amended, on 1 April 1988, pursuant to [section 90(a)][44] of the State Sector Act 1988 (1988 No 20).
+    Section 15(1): amended, on 1 April 1988, pursuant to [section 90(a)][47] of the State Sector Act 1988 (1988 No 20).
     
-    Section 15(2): amended, on 1 April 1988, pursuant to [section 90(a)][44] of the State Sector Act 1988 (1988 No 20).
+    Section 15(2): amended, on 1 April 1988, pursuant to [section 90(a)][47] of the State Sector Act 1988 (1988 No 20).
 
 ##### 16 Power to accept property in trust
     
@@ -321,7 +329,7 @@ An Act to establish a Pacific Islands Polynesian Education Foundation
     
     (3) The Board may, with the consent of Public Trust and subject to such terms and conditions as may be agreed upon with it, appoint Public Trust to be its agent for the purpose of administering, on behalf of the Foundation, any money, land, or other property, and the Board may authorise Public Trust to exercise in respect of any property vested in the Foundation all or any of the powers, authorities, and discretions that the Board itself may exercise in respect of that property.
     
-    Section 17(3): amended, on 1 March 2002, by [section 170(1)][45] of the Public Trust Act 2001 (2001 No 100).
+    Section 17(3): amended, on 1 March 2002, by [section 170(1)][48] of the Public Trust Act 2001 (2001 No 100).
 
 ##### 18 Power to sell or exchange land
     
@@ -343,9 +351,9 @@ An Act to establish a Pacific Islands Polynesian Education Foundation
     
     (2) Any payment or grant made under paragraph (a) of subsection (1) may, with the approval of the Minister of Finance, be made by the issue of government securities of the appropriate amount to the Foundation. Where any government securities are so issued, the Board shall not sell or otherwise dispose of them without the consent of the Minister of Finance.
     
-    (3) Any local authority within the meaning of the [Local Government Act 2002][46], or other public body, any public corporation, any company or other incorporated body, any unincorporated body of persons, or any other person may, unless expressly prohibited by any Act or instrument of trust affecting it, them, or him, make to the Foundation donations or gifts of money, and the Board may accept any such donations or gifts.
+    (3) Any local authority within the meaning of the [Local Government Act 2002][49], or other public body, any public corporation, any company or other incorporated body, any unincorporated body of persons, or any other person may, unless expressly prohibited by any Act or instrument of trust affecting it, them, or him, make to the Foundation donations or gifts of money, and the Board may accept any such donations or gifts.
     
-    Section 20(3): amended, on 1 July 2003, by [section 262][47] of the Local Government Act 2002 (2002 No 84).
+    Section 20(3): amended, on 1 July 2003, by [section 262][50] of the Local Government Act 2002 (2002 No 84).
 
 ##### 21 Capital and income of Foundation
     
@@ -385,11 +393,11 @@ An Act to establish a Pacific Islands Polynesian Education Foundation
 
 ##### 22 Powers of investment
     
-*   (1) Any money held by or on behalf of the Foundation, whether as capital or unexpended income, may, at the discretion of the Board, from time to time be invested in accordance with the provisions of the [Trustee Act 1956][48] as to the investment of trust funds.
+*   (1) Any money held by or on behalf of the Foundation, whether as capital or unexpended income, may, at the discretion of the Board, from time to time be invested in accordance with the provisions of the [Trustee Act 1956][51] as to the investment of trust funds.
     
     (2) Notwithstanding any rule of law or equity to the contrary, the Board shall not be obliged to convert any property which is the subject of a gift to the Board and which is not property in which the Board may properly invest money pursuant to subsection (1).
     
-    Section 22: replaced, on 1 October 1988, by [section 14(1)][49] of the Trustee Amendment Act 1988 (1988 No 119).
+    Section 22: replaced, on 1 October 1988, by [section 14(1)][52] of the Trustee Amendment Act 1988 (1988 No 119).
 
 ##### 23 Power to borrow
     
@@ -451,7 +459,7 @@ An Act to establish a Pacific Islands Polynesian Education Foundation
     
     (3) Notwithstanding anything in [section 21][22] or in the foregoing provisions of this section, where on or after 1 January 1974 the Foundation receives any money paid by way of grants, subsidies, donations, or gifts, being money that is not contributed or paid subject to any trust or any express direction by the donor as to whether it is to be applied as capital or as income, the Foundation may in its discretion receive the contribution or payment as either capital or income, and the provisions of this Act relating to capital and income shall in either case apply accordingly.
     
-    Section 24(1)(j): amended, on 26 April 2005, by [section 7][50] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 24(1)(j): amended, on 26 April 2005, by [section 7][53] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
     Section 24(3): inserted, on 9 October 1975, by section 2 of the Pacific Islands Polynesian Education Foundation Amendment Act 1975 (1975 No 96).
 
@@ -473,7 +481,7 @@ An Act to establish a Pacific Islands Polynesian Education Foundation
     
     (5) A statement of payments made from the imprest account shall be submitted to the Board for approval at its first ordinary meeting thereafter.
     
-    Section 26(4): amended, on 1 July 2001, pursuant to [section 52][51] of the Public Audit Act 2001 (2001 No 10).
+    Section 26(4): amended, on 1 July 2001, pursuant to [section 52][54] of the Public Audit Act 2001 (2001 No 10).
 
 ##### 27 Estimates of receipts and expenditure
     
@@ -481,47 +489,63 @@ An Act to establish a Pacific Islands Polynesian Education Foundation
     
     (2) The estimate shall be forwarded in duplicate to the Minister on or before 1 May in the financial year to which it relates.
 
-##### 28 Accounts
+##### 28 Accounting records must be kept
     
-*   (1) The Board shall cause books to be provided and kept, and true and regular accounts to be entered therein of the income and expenditure of the Foundation, and of all sums received and paid by the Foundation, and of the several purposes for which those sums were received and paid.
-    
-    (2) A separate account shall be kept in respect of every trust fund or trust property under the control of the Board.
-    
-    (3) The said books of account shall be open at all reasonable times to the inspection of any trustee.
-
-##### 29 Annual balance
-    
-*   (1) The Board shall, before 1 April in every year, cause its accounts for the immediately preceding financial year to be balanced and a true statement of account to be prepared in the form approved by the Controller and Auditor-General showing:
+*   (1) The Board must ensure that there are kept at all times accounting records that---
         
-    *   (a) the source and application of the Foundation's funds during the financial year; and
+    *   (a) correctly record the transactions of the Foundation; and
     
-    *   (b) the income and expenditure of the Foundation for the financial year; and
+    *   (b) will enable the Board to ensure that the financial statements of the Foundation comply with this Act; and
     
-    *   (c) the statement of financial position of the Foundation at the end of the financial year.
+    *   (c) will enable the financial statements of the Foundation to be readily and properly audited.
     
-    (2) \[Repealed\]
+    (2) The Board must establish and maintain a satisfactory system of control of those accounting records.
     
-    Section 29(1)(c): amended, on 1 October 1997, pursuant to [section 6(1)][52] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    (3) The accounting records must be kept---
+        
+    *   (a) in written form in English; or
     
-    Section 29(2): repealed, on 1 July 2001, by [section 53][53] of the Public Audit Act 2001 (2001 No 10).
+    *   (b) in a form or manner in which they are easily accessible and convertible into written form in English.
+    
+    (4) Separate accounting records must be kept in respect of every trust fund or trust property under the control of the Board.
+    
+    (5) The accounting records must be open at all reasonable times to the inspection of any trustee.
+    
+    Section 28: replaced, on 1 April 2014, by [section 125][39] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
-##### 29A Auditor-General to be auditor of Board
+##### 29 Financial statements must be prepared
     
-*   The Board is a public entity as defined in [section 4][54] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+*   The Board must ensure that, within 3 months after the end of the financial year, financial statements that comply with generally accepted accounting practice are---
+        
+    *   (a) completed in relation to the Foundation and that financial year; and
     
-    Section 29A: inserted, on 1 July 2001, by [section 53][53] of the Public Audit Act 2001 (2001 No 10).
+    *   (b) dated and signed on behalf of the Board by 2 members of the Board.
+    
+    Section 29: replaced, on 1 April 2014, by [section 125][39] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 29A Financial statements must be audited
+    
+*   (1) The Board must ensure that the financial statements of the Foundation are audited.
+    
+    (2) The Foundation is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+    
+    Section 29A: replaced, on 1 April 2014, by [section 125][39] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 30 Annual report
     
-*   (1) The Board shall, not later than 30 June in each year, furnish to the Minister and to the Minister of Pacific Island Affairs, a report of its proceedings and operations for its preceding financial year, together with a copy of its accounts for that year with the report of the Auditor-General thereon.
+*   (1) The Board shall, not later than 30 June in each year, furnish to the Minister and to the Minister of Pacific Island Affairs, a report of its proceedings and operations for its preceding financial year, together with a copy of the financial statements of the Foundation for that year with the report of the Auditor-General thereon.
     
-    (2) A copy of the report and of the accounts with the report of the Auditor-General thereon shall be laid before Parliament as soon as practicable after their receipt by the Minister.
+    (2) A copy of the report and of the financial statements with the report of the Auditor-General thereon shall be laid before Parliament as soon as practicable after their receipt by the Minister.
     
-    Section 30(1): amended, on 1 July 2001, pursuant to [section 52][51] of the Public Audit Act 2001 (2001 No 10).
+    Section 30(1): amended, on 1 April 2014, by [section 125][39] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 30(1): amended, on 1 July 2001, pursuant to [section 52][54] of the Public Audit Act 2001 (2001 No 10).
     
     Section 30(1): amended, on 30 March 1987, by section 2(1) of the Pacific Islands Polynesian Education Foundation Amendment Act 1987 (1987 No 43).
     
-    Section 30(2): amended, on 1 July 2001, pursuant to [section 52][51] of the Public Audit Act 2001 (2001 No 10).
+    Section 30(2): amended, on 1 April 2014, by [section 125][39] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 30(2): amended, on 1 July 2001, pursuant to [section 52][54] of the Public Audit Act 2001 (2001 No 10).
 
 ##### 31 Exemption from taxes
     
@@ -547,88 +571,45 @@ An Act to establish a Pacific Islands Polynesian Education Foundation
     
 *   The Governor-General may from time to time, by Order in Council, make all such regulations as he deems to be necessary for the purpose of giving full effect to the provisions of this Act.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Pacific Islands Polynesian Education Foundation Act 1972\. The reprint incorporates all the amendments to the Act as at 26 April 2005, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][56] ![](/images/external_link.gif).
+*   This is a reprint of the Pacific Islands Polynesian Education Foundation Act 1972 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][57] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][56] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][57] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][58] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][58] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][59] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][59] and [17E][60] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 125][39]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][53]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Local Government Act 2002 (2002 No 84):[section 262][50]
     
+    Public Trust Act 2001 (2001 No 100): [section 170(1)][48]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    Education Standards Act 2001 (2001 No 88): [section 81][42]
     
-*   Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][50]
+    Public Audit Act 2001 (2001 No 10): [sections 52][54], [53][60]
     
-    Local Government Act 2002 (2002 No 84):[section 262][47]
+    Ministry of Maori Development Act 1991 (1991 No 145): [section 9(1)][41]
     
-    Public Trust Act 2001 (2001 No 100): [section 170(1)][45]
+    Education Act 1989 (1989 No 80): [section 144(2)][40]
     
-    Education Standards Act 2001 (2001 No 88): [section 81][39]
+    Trustee Amendment Act 1988 (1988 No 119): [section 14(1)][52]
     
-    Public Audit Act 2001 (2001 No 10): [sections 52][51], [53][53]
-    
-    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6(1)][52]
-    
-    Ministry of Maori Development Act 1991 (1991 No 145): [section 9(1)][38]
-    
-    Education Act 1989 (1989 No 80): [section 144(2)][37]
-    
-    Trustee Amendment Act 1988 (1988 No 119): [section 14(1)][49]
-    
-    State Sector Act 1988 (1988 No 20): [section 90(a)][44]
+    State Sector Act 1988 (1988 No 20): [section 90(a)][47]
     
     Pacific Islands Polynesian Education Foundation Amendment Act 1987 (1987 No 43)
     
@@ -638,7 +619,7 @@ An Act to establish a Pacific Islands Polynesian Education Foundation
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1972/0138/latest/whole.html#DLM409227
 [2]: http://www.legislation.govt.nz/act/public/1972/0138/latest/whole.html#DLM409229
 [3]: http://www.legislation.govt.nz/act/public/1972/0138/latest/whole.html#DLM409230
@@ -675,27 +656,27 @@ An Act to establish a Pacific Islands Polynesian Education Foundation
 [34]: http://www.legislation.govt.nz/act/public/1972/0138/latest/whole.html#DLM409292
 [35]: http://www.legislation.govt.nz/act/public/1972/0138/latest/whole.html#DLM409293
 [36]: http://www.legislation.govt.nz/act/public/1972/0138/latest/whole.html#DLM409294
-[37]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM182047
-[38]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM257786
-[39]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM118872
-[40]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM264952
-[41]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM390002
-[42]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM390006
-[43]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM129109
-[44]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM130377
-[45]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM124529
-[46]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM170872
-[47]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM174088
-[48]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM304703
-[49]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM135629
-[50]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM333795
-[51]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM88956
-[52]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM408960
-[53]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM88957
-[54]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM88548
+[37]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM4632890
+[38]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM4632894
+[39]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM5740664
+[40]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM182047
+[41]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM257786
+[42]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM118872
+[43]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM264952
+[44]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM390002
+[45]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM390006
+[46]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM129109
+[47]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM130377
+[48]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM124529
+[49]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM170872
+[50]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM174088
+[51]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM304703
+[52]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM135629
+[53]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM333795
+[54]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM88956
 [55]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM409759
-[56]: http://www.pco.parliament.govt.nz/reprints/
-[57]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM195439
-[58]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[59]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM195468
-[60]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM195470
+[56]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM2998516
+[57]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM2998515
+[58]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM2998532
+[59]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[60]: http://www.legislation.govt.nz/act/public/1972/0138/latest/link.aspx?id=DLM88957
