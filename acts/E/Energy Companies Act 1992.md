@@ -1,5 +1,5 @@
 Reprint  
-as at 5 December 2013
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1(2)--(4)
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -129,7 +129,7 @@ This Act is administered by the Ministry of Business, Innovation, and Employment
 
 [43][51][][51][Savings of certain transactions][51]
 
-[44][52][][52][Reports and accounts][52]
+[44][52][][52][Reports and financial statements][52]
 
 [45][53][][53][Auditor-General to be auditor of energy companies and subsidiaries][53]
 
@@ -375,7 +375,13 @@ Preliminary provisions
     
     _establishment plan_, in relation to an establishing authority, means the plan prepared by that establishing authority pursuant to [section 18][22]; and includes a revised establishment plan prepared pursuant to [section 27][31]
     
-    _gas_ has the same meaning as it has in [section 2][130] of the Gas Act 1992
+    _financial statements_, in relation to an energy company, means---
+        
+    *   (a) group financial statements within the meaning of [section 7][130] of the Financial Reporting Act 2013 for the group comprising the energy company and its subsidiaries; or
+    
+    *   (b) if the energy company does not have any subsidiaries, financial statements within the meaning of [section 6][131] of the Financial Reporting Act 2013 for the energy company
+    
+    _gas_ has the same meaning as it has in [section 2][132] of the Gas Act 1992
     
     _gas undertaking_, in relation to a local authority, means the undertaking of that local authority as it relates to the manufacture, extraction, storage, processing, treatment, distribution, or supply of gas; and includes---
         
@@ -385,7 +391,9 @@ Preliminary provisions
     
     *   (c) all the assets of the local authority used for or in connection with the gas undertaking of that local authority, including all land, buildings, works, machinery, mains, apparatus, fittings, appliances, stocks, by-products, contracts, and every other property, right, or interest, whether real or personal and whether legal or equitable, that is an asset of that gas undertaking
     
-    _Inland Revenue Acts_ means the Acts specified in the [Schedule][131] of the Tax Administration Act 1994
+    _generally accepted accounting practice_ has the same meaning as in [section 8][133] of the Financial Reporting Act 2013
+    
+    _Inland Revenue Acts_ means the Acts specified in the [Schedule][134] of the Tax Administration Act 1994
     
     _instrument_ includes---
         
@@ -397,11 +405,11 @@ Preliminary provisions
     
     _interim trustee_, in relation to a Board, means a person who holds office pursuant to [section 4][7] or [section 8][11] in respect of that Board
     
-    _land_ has the meaning assigned to it in [section 2][132] of the Land Transfer Act 1952
+    _land_ has the meaning assigned to it in [section 2][135] of the Land Transfer Act 1952
     
     _liabilities_ means liabilities, debts, charges, duties, and obligations of every description (whether present or future, actual or contingent, and whether payable or to be observed or performed in New Zealand or elsewhere)
     
-    _local authority_ means a territorial authority within the meaning of the [Local Government Act 2002][133]
+    _local authority_ means a territorial authority within the meaning of the [Local Government Act 2002][136]
     
     _Minister_ means, subject to any enactment, the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
     
@@ -429,11 +437,11 @@ Preliminary provisions
     
     _share allocation plan_ means the recommendations of an establishing authority made pursuant to [section 22][26] and included in an establishment plan
     
-    _special consultative procedure_ means the procedure set out in [section 83][134] of the Local Government Act 2002
+    _special consultative procedure_ means the procedure set out in [section 83][137] of the Local Government Act 2002
     
     _statement of corporate intent_, in relation to an energy company, means the current statement of corporate intent for the energy company prepared pursuant to [section 39][47]
     
-    _subsidiary_ has the same meaning as in [section 5][135] of the Companies Act 1993
+    _subsidiary_ has the same meaning as in [section 5][138] of the Companies Act 1993
     
     _undertaking_, in relation to a Board, means the property, rights, and liabilities of the Board
     
@@ -457,21 +465,25 @@ Preliminary provisions
     
     (3) For the purposes of subsection (2), a person holds equity securities in an energy company if that person is beneficially entitled to, or is beneficially entitled to an interest in, any equity securities in the company (whether or not the whole or any part of the legal ownership of the equity securities is vested in the person).
     
-    Section 2(1) **gas**: amended, on 1 April 1993, by [section 58(2)][136] of the Gas Act 1992 (1992 No 124).
+    Section 2(1) **financial statements**: inserted, on 1 April 2014, by [section 126][139] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 2(1) **gas**: amended, on 1 April 1993, by [section 58(2)][140] of the Gas Act 1992 (1992 No 124).
+    
+    Section 2(1) **generally accepted accounting practice**: inserted, on 1 April 2014, by [section 126][139] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
     Section 2(1) **Inland Revenue Acts**: amended, on 1 April 1995 (applying with respect to the tax on income derived in 1995--96 and subsequent income years), by section YB 1 of the Income Tax Act 1994 (1994 No 164).
     
-    Section 2(1) **local authority**: substituted, on 1 July 2003, by [section 262][137] of the Local Government Act 2002 (2002 No 84).
+    Section 2(1) **local authority**: substituted, on 1 July 2003, by [section 262][141] of the Local Government Act 2002 (2002 No 84).
     
-    Section 2(1) **rules**: replaced, on 5 December 2013, by [section 14][138] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 2(1) **rules**: replaced, on 5 December 2013, by [section 14][142] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 2(1) **special consultative procedure**: substituted, on 1 July 2003, by [section 262][137] of the Local Government Act 2002 (2002 No 84). 
+    Section 2(1) **special consultative procedure**: substituted, on 1 July 2003, by [section 262][141] of the Local Government Act 2002 (2002 No 84). 
     
-    Section 2(1) **subsidiary**: replaced, on 5 December 2013, by [section 14][138] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 2(1) **subsidiary**: replaced, on 5 December 2013, by [section 14][142] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 2(1) **voting equity security** paragraph (d): substituted, on 1 July 1994, by [section 2][139] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 2(1) **voting equity security** paragraph (d): substituted, on 1 July 1994, by [section 2][143] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
-    Section 2(1) **voting equity security** paragraph (f): substituted, on 1 July 1994, by [section 2][139] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 2(1) **voting equity security** paragraph (f): substituted, on 1 July 1994, by [section 2][143] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
 
 ##### 3 Act to bind the Crown
     
@@ -540,21 +552,21 @@ Interim trustees
     
 *   (1) The following persons shall be incapable of being interim trustees:
         
-    *   (a) a person who is mentally disordered within the meaning of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][140]:
+    *   (a) a person who is mentally disordered within the meaning of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][144]:
     
     *   (b) a bankrupt who has not obtained an order of discharge, or whose order of discharge is suspended for a term not yet expired, or is subject to conditions not yet fulfilled:
     
-    *   (c) a person to whom an order made under [section 299][141] of the Insolvency Act 2006 applies:
+    *   (c) a person to whom an order made under [section 299][145] of the Insolvency Act 2006 applies:
     
     *   (d) a person in respect of whom a composition or arrangement with that person's creditors is in force:
     
-    *   (e) a person who is subject to a property order made under [section 30][142] or [section 31][143] of the Protection of Personal and Property Rights Act 1989:
+    *   (e) a person who is subject to a property order made under [section 30][146] or [section 31][147] of the Protection of Personal and Property Rights Act 1989:
     
     *   (f) a person who is convicted of an offence punishable by imprisonment for a term of 2 years or more, unless that person has obtained a pardon or has served the sentence or otherwise suffered the sentence imposed on that person:
     
     *   (g) a person who is convicted of any offence punishable by imprisonment for a term of less than 2 years and is sentenced to imprisonment for that offence, unless that person has obtained a pardon or has served the sentence:
     
-    *   (h) a person who is disqualified from being appointed or holding office as a director of a company by virtue of paragraph (ba) or paragraph (c) or paragraph (d) or paragraph (e) of [section 151(2)][144] of the Companies Act 1993:
+    *   (h) a person who is disqualified from being appointed or holding office as a director of a company by virtue of paragraph (ba) or paragraph (c) or paragraph (d) or paragraph (e) of [section 151(2)][148] of the Companies Act 1993:
     
     *   (i) a person who holds office as a member of the Board in respect of which the person is, or is to be, an interim trustee.
     
@@ -576,21 +588,21 @@ Interim trustees
     
     *   (b) while on leave of absence pursuant to paragraph (f) or paragraph (g) of that subsection.
     
-    Compare: 1989 No 63 [s 200][145]
+    Compare: 1989 No 63 [s 200][149]
     
-    Section 6(1)(a): amended, on 1 November 1992, pursuant to [section 137(1)][146] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
+    Section 6(1)(a): amended, on 1 November 1992, pursuant to [section 137(1)][150] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
     
-    Section 6(1)(c): amended, on 3 December 2007, by [section 445][147] of the Insolvency Act 2006 (2006 No 55).
+    Section 6(1)(c): amended, on 3 December 2007, by [section 445][151] of the Insolvency Act 2006 (2006 No 55).
     
-    Section 6(1)(h): substituted, on 1 July 1994, by [section 2][139] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 6(1)(h): substituted, on 1 July 1994, by [section 2][143] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
-    Section 6(4): amended, on 1 July 2013, by [section 413][148] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 6(4): amended, on 1 July 2013, by [section 413][152] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 7 Removal from office
     
 *   An interim trustee may be removed from office at any time by the Minister for inability to perform the functions of the office, neglect of duty, or misconduct, proved to the satisfaction of the Minister.
     
-    Section 7: amended, on 1 January 2002, by [section 70(1)][149] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 7: amended, on 1 January 2002, by [section 70(1)][153] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 8 Appointment to fill casual vacancies
     
@@ -638,11 +650,11 @@ Interim trustees
 
 ##### 13 Application of certain Acts to interim trustees
     
-*   No person shall be deemed to be employed in the service of the Crown for the purposes of the [State Sector Act 1988][150] or the [Government Superannuation Fund Act 1956][151] by reason only that the person is an interim trustee.
+*   No person shall be deemed to be employed in the service of the Crown for the purposes of the [State Sector Act 1988][154] or the [Government Superannuation Fund Act 1956][155] by reason only that the person is an interim trustee.
 
 ##### 14 Trustee Act 1956, etc, not to apply to interim trustees
     
-*   The fact that a person holds or has held office as an interim trustee shall not, of itself, confer or impose on that person any of the rights, powers, duties, or liabilities of a trustee under the [Trustee Act 1956][152] or under any other enactment or rule of law.
+*   The fact that a person holds or has held office as an interim trustee shall not, of itself, confer or impose on that person any of the rights, powers, duties, or liabilities of a trustee under the [Trustee Act 1956][156] or under any other enactment or rule of law.
 
 ##### 15 Board may meet costs and expenses of interim trustees
     
@@ -652,9 +664,9 @@ Interim trustees
     
 *   (1) Subject to [section 17][20], there shall be paid to interim trustees holding office in respect of a Board salaries and meeting allowances.
     
-    (2) There shall be paid to interim trustees travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][153], and the provisions of that Act shall apply accordingly as if interim trustees were members of a statutory Board within the meaning of that Act.
+    (2) There shall be paid to interim trustees travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][157], and the provisions of that Act shall apply accordingly as if interim trustees were members of a statutory Board within the meaning of that Act.
     
-    (3) [Sections 101ZZO][154] and [101ZZV][155] of the Local Government Act 1974 (which relate to the payment of meeting allowances and travelling expenses where members of a local authority attend a meeting or conference as representatives of the local authority) shall, so far as applicable and with all necessary modifications, apply with respect to the payment, pursuant to this section, of meeting allowances and travelling allowances and expenses to any person who holds office as an interim trustee in respect of a Board and who, with the authority of the interim trustees holding office in respect of that Board, attends any meeting or conference as a representative of those interim trustees.
+    (3) [Sections 101ZZO][158] and [101ZZV][159] of the Local Government Act 1974 (which relate to the payment of meeting allowances and travelling expenses where members of a local authority attend a meeting or conference as representatives of the local authority) shall, so far as applicable and with all necessary modifications, apply with respect to the payment, pursuant to this section, of meeting allowances and travelling allowances and expenses to any person who holds office as an interim trustee in respect of a Board and who, with the authority of the interim trustees holding office in respect of that Board, attends any meeting or conference as a representative of those interim trustees.
     
     (4) Notwithstanding anything in any other enactment, all salaries, allowances, travelling allowances, and travelling expenses payable pursuant to this section to an interim trustee shall be paid out of the funds of the Board in respect of which that person holds office as an interim trustee.
 
@@ -668,11 +680,11 @@ Interim trustees
     
     *   (c) in the case of the other interim trustees, 50%---
     
-    of the salary that, immediately before 8 August 1990, was payable, in accordance with [Part 4C][156] of the Local Government Act 1974, to members of that Board (other than the Chairperson of that Board or the Deputy Chairperson of that Board or the Chairperson of 1 or more committees of that Board).
+    of the salary that, immediately before 8 August 1990, was payable, in accordance with [Part 4C][160] of the Local Government Act 1974, to members of that Board (other than the Chairperson of that Board or the Deputy Chairperson of that Board or the Chairperson of 1 or more committees of that Board).
     
-    (2) The meeting allowance payable pursuant to [section 16][19] to interim trustees holding office in respect of a Board shall be equal in amount to the meeting allowance that, immediately before 8 August 1990, was payable, in accordance with [Part 4C][156] of the Local Government Act 1974, to members of that Board (other than the Chairperson of that Board).
+    (2) The meeting allowance payable pursuant to [section 16][19] to interim trustees holding office in respect of a Board shall be equal in amount to the meeting allowance that, immediately before 8 August 1990, was payable, in accordance with [Part 4C][160] of the Local Government Act 1974, to members of that Board (other than the Chairperson of that Board).
     
-    (3) The payment, to interim trustees holding office in respect of a Board, of meeting allowances pursuant to [section 16][19] shall be subject to the same conditions that, immediately before 8 August 1990, were imposed pursuant to [Part 4C][156] of the Local Government Act 1974 in respect of the payment of meeting allowances to members of that Board (other than the Chairperson of that Board).
+    (3) The payment, to interim trustees holding office in respect of a Board, of meeting allowances pursuant to [section 16][19] shall be subject to the same conditions that, immediately before 8 August 1990, were imposed pursuant to [Part 4C][160] of the Local Government Act 1974 in respect of the payment of meeting allowances to members of that Board (other than the Chairperson of that Board).
     
     (4) Where any interim trustee holds office for only part of a year in respect of which an annual salary is payable, pursuant to [section 16][19], to that trustee, that interim trustee shall be entitled to receive the proportion of the salary that his or her holding of that office during that year bears in relation to that full year.
 
@@ -717,9 +729,9 @@ Establishment plans
     
     wish to submit a joint establishment plan to the Minister, they may do so only if the share allocation plan included in that establishment plan is endorsed by the interim trustees for each such Board.
     
-    (3) For the purposes of the preparation of a joint establishment plan, and for the purposes of the adoption of the special consultative procedure in relation to such a plan, a Board may adopt the procedures set out in [section 114S][157] of the Local Government Act 1974 (which provides for the appointment of joint committees), and that section shall apply accordingly as if a Board were a local authority.
+    (3) For the purposes of the preparation of a joint establishment plan, and for the purposes of the adoption of the special consultative procedure in relation to such a plan, a Board may adopt the procedures set out in [section 114S][161] of the Local Government Act 1974 (which provides for the appointment of joint committees), and that section shall apply accordingly as if a Board were a local authority.
     
-    Section 19(3): added (with effect on 1 July 1992), on 17 December 1992, by [section 2][158] of the Energy Companies Amendment Act 1992 (1992 No 123).
+    Section 19(3): added (with effect on 1 July 1992), on 17 December 1992, by [section 2][162] of the Energy Companies Amendment Act 1992 (1992 No 123).
 
 ##### 20 Local authorities may form 1 or more energy companies
     
@@ -767,9 +779,9 @@ Establishment plans
     
 *   (1) An establishing authority shall not forward an establishment plan to the Minister unless the establishing authority has adopted the special consultative procedure in relation to that plan.
     
-    (2) For the purposes of [section 83][134] of the Local Government Act 2002 (as applied by subsection (1) of this section), a Board shall be deemed to be a local authority.
+    (2) For the purposes of [section 83][137] of the Local Government Act 2002 (as applied by subsection (1) of this section), a Board shall be deemed to be a local authority.
     
-    Section 24(2): amended, on 25 December 2002, pursuant to [section 267(a)][159] of the Local Government Act 2002 (2002 No 84).
+    Section 24(2): amended, on 25 December 2002, pursuant to [section 267(a)][163] of the Local Government Act 2002 (2002 No 84).
 
 ##### 25 Extension of time for submission of establishment plan
     
@@ -854,27 +866,27 @@ Energy companies
     
 *   (1) Notwithstanding anything in the Electric Power Boards Act 1925, but subject to [section 33][39] of this Act, each Board shall, not later than 1 April 1993 or such later date as the Minister in any particular case may allow, form and register under the Companies Act 1955, in respect of that Board, a public company limited by shares in which the subscriber is the Board.
     
-    (1A) Where any Board has not by 1 July 1994, in accordance with subsection (1), formed and registered a company under the Companies Act 1955, in respect of that Board, it shall not later than such date as the Minister in any particular case may allow, form and register a company under the [Companies Act 1993][160] in which the liability of the shareholders is limited and in which the shares shall, on registration, be issued to the Board.
+    (1A) Where any Board has not by 1 July 1994, in accordance with subsection (1), formed and registered a company under the Companies Act 1955, in respect of that Board, it shall not later than such date as the Minister in any particular case may allow, form and register a company under the [Companies Act 1993][164] in which the liability of the shareholders is limited and in which the shares shall, on registration, be issued to the Board.
     
-    (2) Notwithstanding anything in the [Local Government Act 1974][161], but subject to [section 33][39] of this Act, every local authority the operations of which include an energy undertaking shall, not later than 1 April 1993 or such later date as the Minister in any particular case may allow, form and register under the Companies Act 1955, in respect of that local authority, 1 or more public companies limited by shares in which the subscriber is the local authority.
+    (2) Notwithstanding anything in the [Local Government Act 1974][165], but subject to [section 33][39] of this Act, every local authority the operations of which include an energy undertaking shall, not later than 1 April 1993 or such later date as the Minister in any particular case may allow, form and register under the Companies Act 1955, in respect of that local authority, 1 or more public companies limited by shares in which the subscriber is the local authority.
     
     (3) No company shall be formed and registered under this section except in accordance with the terms of an approved establishment plan.
     
     (4) Nothing in section 13(1) of the Companies Act 1955 relating to the minimum number of persons who may form a company shall apply to the formation of a company under this section.
     
-    (5) Except as provided in this Act, the [Companies Act 1993][160] applies to every company formed and registered in accordance with this section.
+    (5) Except as provided in this Act, the [Companies Act 1993][164] applies to every company formed and registered in accordance with this section.
     
     (6) \[Repealed\]
     
     (7) Every Board and every local authority shall have such powers as may be necessary or desirable for the purposes of this section.
     
-    Section 32 heading: amended, on 5 December 2013, by [section 14][138] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 32 heading: amended, on 5 December 2013, by [section 14][142] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 32(1A): inserted, on 1 July 1994, by [section 2][139] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 32(1A): inserted, on 1 July 1994, by [section 2][143] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
-    Section 32(5): amended, on 5 December 2013, by [section 14][138] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 32(5): amended, on 5 December 2013, by [section 14][142] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 32(6): repealed, on 5 December 2013, by [section 14][138] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 32(6): repealed, on 5 December 2013, by [section 14][142] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 33 Use of existing company
     
@@ -900,7 +912,7 @@ Energy companies
     
     (2) In seeking to attain its principal objective, an energy company shall have regard, among other things, to the desirability of ensuring the efficient use of energy.
     
-    Compare: 1974 No 66 [s 594Q][162]; 1988 No 91 [s 5][163]; 1989 No 29 [s 34(1)][164]
+    Compare: 1974 No 66 [s 594Q][166]; 1988 No 91 [s 5][167]; 1989 No 29 [s 34(1)][168]
 
 ##### 37 Directors and their role
     
@@ -910,9 +922,9 @@ Energy companies
     
     (3) All decisions relating to the operation of an energy company shall be made by or pursuant to the authority of the directorate of the company in accordance with the statement of corporate intent (if any).
     
-    (4) For the avoidance of doubt, it is hereby declared that no director of an energy company is, by virtue of holding that office, a statutory officer within the meaning of the [Local Government Official Information and Meetings Act 1987][165].
+    (4) For the avoidance of doubt, it is hereby declared that no director of an energy company is, by virtue of holding that office, a statutory officer within the meaning of the [Local Government Official Information and Meetings Act 1987][169].
     
-    Compare: 1974 No 66 [s 594R][166]; 1988 No 91 [s 6][167]; 1989 No 29 [s 34(1)][164]
+    Compare: 1974 No 66 [s 594R][170]; 1988 No 91 [s 6][171]; 1989 No 29 [s 34(1)][168]
 
 ##### 38 First directors of energy company formed by Board
     
@@ -926,11 +938,11 @@ Energy companies
     
     (5) Subject to subsection (3), during the interim period the Minister shall have the sole right to appoint the directors of an energy company to which this section applies.
     
-    (6) Notwithstanding anything in section 199H of the Companies Act 1955 or [section 156][168] of the Companies Act 1993, as the case may be, or the rules of an energy company, a person who is appointed pursuant to this section, by the Minister, as a director of an energy company shall not be removed from office by the energy company during the interim period unless the Minister consents to his or her removal.
+    (6) Notwithstanding anything in section 199H of the Companies Act 1955 or [section 156][172] of the Companies Act 1993, as the case may be, or the rules of an energy company, a person who is appointed pursuant to this section, by the Minister, as a director of an energy company shall not be removed from office by the energy company during the interim period unless the Minister consents to his or her removal.
     
     (7) In this section, the term _interim period_, in relation to an energy company, means the period of 12 months beginning with the date on which an energy undertaking of an establishing authority vests in that energy company pursuant to [Part 5][57].
     
-    Section 38(6): amended, on 1 July 1994, by [section 2][139] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 38(6): amended, on 1 July 1994, by [section 2][143] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
 
 ##### 38A Directors of existing company
     
@@ -966,7 +978,7 @@ Energy companies
     
     (11) In this section, the term _interim period_, in relation to a company to which this section applies, means the period of 12 months beginning on the date on which an energy undertaking of a Board vests in that company pursuant to [Part 5][57].
     
-    Section 38A: inserted (with effect on 1 July 1992), on 17 December 1992, by [section 3][169] of the Energy Companies Amendment Act 1992 (1992 No 123).
+    Section 38A: inserted (with effect on 1 July 1992), on 17 December 1992, by [section 3][173] of the Energy Companies Amendment Act 1992 (1992 No 123).
 
 ##### 39 Statement of corporate intent
     
@@ -994,7 +1006,7 @@ Energy companies
             
         *   (i) any local authority that is a shareholder in any member of the group:
         
-        *   (ii) every company that, in relation to any member of the group, is a related company (as defined in [section 2(3)][170] of the Companies Act 1993):
+        *   (ii) every company that, in relation to any member of the group, is a related company (as defined in [section 2(3)][174] of the Companies Act 1993):
         
         *   (iii) every company in relation to which any member of the group is a related company (as so defined):
         
@@ -1010,9 +1022,9 @@ Energy companies
     
     *   (b) shall deliver the completed statement of corporate intent to such shareholders within 3 months of the commencement of the financial year.
     
-    Compare: 1974 No 66 [ss 594S--594U][171]; 1989 No 29 [s 34(1)][164]
+    Compare: 1974 No 66 [ss 594S--594U][175]; 1989 No 29 [s 34(1)][168]
     
-    Section 39(2)(i)(ii): replaced, on 5 December 2013, by [section 14][138] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 39(2)(i)(ii): replaced, on 5 December 2013, by [section 14][142] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 40 Modifications of statement of corporate intent
     
@@ -1036,7 +1048,7 @@ Energy companies
     
     *   (b) consult the directorate concerned as to the matters to be referred to in the notice.
     
-    Compare: 1974 No 66 [s 594V][172]; 1989 No 29 [s 34(1)][164]
+    Compare: 1974 No 66 [s 594V][176]; 1989 No 29 [s 34(1)][168]
 
 ##### 41 Obligation to make statement of corporate intent available
     
@@ -1048,7 +1060,7 @@ Energy companies
     
     the directorate shall, not later than 1 month after that completed statement of corporate intent is delivered to the shareholders or, as the case may be, the modification is adopted, make that completed statement of corporate intent or, as the case may be, that modification available to the public.
     
-    Compare: 1974 No 66 [s 594W][173]; 1989 No 29 [s 34(1)][164]
+    Compare: 1974 No 66 [s 594W][177]; 1989 No 29 [s 34(1)][168]
 
 ##### 42 Circumstances in which accountability provisions not to apply
     
@@ -1072,9 +1084,9 @@ Energy companies
     
     shall not affect the validity or enforceability of any deed, agreement, right, or obligation entered into, obtained, or incurred by the energy company.
     
-    Compare: 1974 No 66 [s 594Y][174]; 1989 No 29 [s 34(1)][164]
+    Compare: 1974 No 66 [s 594Y][178]; 1989 No 29 [s 34(1)][168]
 
-##### 44 Reports and accounts
+##### 44 Reports and financial statements
     
 *   (1) Within 3 months after the end of the first half of each financial year of an energy company, the directorate of the energy company shall deliver to the shareholders a report of the company's operations during that half-year.
     
@@ -1084,7 +1096,7 @@ Energy companies
         
     *   (a) a report of the operations of the energy company and those of its subsidiaries (if any) during the financial year; and
     
-    *   (b) audited consolidated financial statements for that financial year in respect of the energy company and its subsidiaries (if any); and
+    *   (b) audited financial statements for that financial year prepared in accordance with generally accepted accounting practice; and
     
     *   (c) the auditor's report on---
             
@@ -1100,43 +1112,21 @@ Energy companies
     
     *   (b) state the maximum dividend (if any) recommended to be payable by the energy company in respect of its equity securities (other than fixed interest securities) for the financial year to which the report relates.
     
-    (5) The audited consolidated financial statements under subsection (3)(b) shall consist of---
-        
-    *   (a) a statement of financial position; and
-    
-    *   (b) a statement of financial performance; and
-    
-    *   (c) an overall operating statement; and
-    
-    *   (d) 1 operating statement in respect of each significant activity; and
-    
-    *   (e) a statement of cash flows; and
-    
-    *   (f) the details of all transactions that, during the financial year, were entered into between the energy company or any of its subsidiaries and---
-            
-        *   (i) any local authority that is a shareholder in the energy company or any of its subsidiaries:
-        
-        *   (ii) every company that, in relation to the energy company or any of its subsidiaries, is a _related company_ (as defined in subsections (5) and (6) of section 2 of the Companies Act 1955 or subsections (3) and (4) of [section 2][170] of the Companies Act 1993, as the case may be):
-        
-        *   (iii) every company in relation to which the energy company, or any of its subsidiaries, is a related company (as so defined):
-        
-        *   (iv) every company that, in relation to any local authority that is a shareholder in the energy company or any of its subsidiaries, would be a related company (as so defined) if that local authority were a company; and
-        
-        
-    
-    *   (g) such other statements as may be necessary to fairly reflect the financial position of the energy company and its subsidiaries (if any), the resources available to them, and the financial results of their operations.
+    (5) \[Repealed\]
     
     (6) If, at any time, [section 39][47] does not apply or ceases to apply in respect of any energy company, the company shall not be required or, as the case may be, shall no longer be required to comply with this section, and, notwithstanding any subsequent change in the shareholding of the energy company, this section shall have no or, as the case may be, no further application to that company at any time.
     
-    Compare: 1974 No 66 [s 594Z][175]; 1989 No 29 [s 34(1)][164]
+    Compare: 1974 No 66 [s 594Z][179]; 1989 No 29 [s 34(1)][168]
     
-    Section 44(5)(b): amended, on 1 October 1997, pursuant to [section 6(2)][176] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 44 heading: amended, on 1 April 2014, by [section 126][139] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 44(5)(f)(ii): substituted, on 1 July 1994, by [section 2][139] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 44(3)(b): replaced, on 1 April 2014, by [section 126][139] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 44(5): repealed, on 1 April 2014, by [section 126][139] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 45 Auditor-General to be auditor of energy companies and subsidiaries
     
-*   (1) Despite [sections 196 to 203][177] of the Companies Act 1993 and subject to subsection (3), every energy company and every subsidiary of every energy company is a public entity as defined in [section 4][178] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+*   (1) Despite [sections 207P to 207V][180] of the Companies Act 1993 and subject to subsection (3), every energy company and every subsidiary of every energy company is a public entity as defined in [section 4][181] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
     
     (2) Without limiting the provisions of this section, the directors of an energy company may, after consultation with the Auditor-General, appoint a person or firm that is qualified for appointment as an auditor of a company to be an additional auditor of the energy company or any subsidiary of it.
     
@@ -1146,23 +1136,29 @@ Energy companies
     
     *   (b) the Auditor-General is not the auditor of the company; and
     
-    *   (c) the directors of the company and of every subsidiary of the company must appoint an auditor or auditors of the company and of every subsidiary of the company and, where such appointment is made consequent on the Auditor-General ceasing to be the auditor of the energy company, every such appointment must be treated as having been made by the directors to fill a casual vacancy in the office of auditor under [section 196(4)][177] of the Companies Act 1993\.
+    *   (c) the directors of the company and of every subsidiary of the company must appoint an auditor or auditors of the company and of every subsidiary of the company and, where such appointment is made consequent on the Auditor-General ceasing to be the auditor of the energy company, every such appointment must be treated as having been made by the directors to fill a casual vacancy in the office of auditor under [section 207R(3)][182] of the Companies Act 1993\.
     
-    (4) Despite subsection (3), if, in respect of any energy company that has ceased to be a public energy company, and its subsidiaries (if any), consolidated financial statements have been submitted to the Auditor-General for audit, the Auditor-General is to continue to be the auditor of the company and every subsidiary of the company until that audit has been completed.
+    (4) Despite subsection (3), if, in respect of any energy company that has ceased to be a public energy company, and its subsidiaries (if any), financial statements have been submitted to the Auditor-General for audit, the Auditor-General is to continue to be the auditor of the company and every subsidiary of the company until that audit has been completed.
     
     (5) In this section, _public energy company_ means an energy company in which a controlling interest is held by any local authority or local authorities, or any approved person or approved persons, or any combination of 1 or more local authorities and 1 or more approved persons.
     
-    Section 45: substituted, on 1 July 2001, by [section 53][179] of the Public Audit Act 2001 (2001 No 10).
+    Section 45: substituted, on 1 July 2001, by [section 53][183] of the Public Audit Act 2001 (2001 No 10).
+    
+    Section 45(1): amended, on 1 April 2014, by [section 126][139] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 45(3)(c): amended, on 1 April 2014, by [section 126][139] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 45(4): amended, on 1 April 2014, by [section 126][139] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 46 Protection from disclosure of sensitive information
     
-*   Nothing in this Act shall be construed as requiring the inclusion, in any statement of corporate intent, annual report, financial statement, or half-yearly report required to be produced under this Act in relation to an energy company, of any information that could be properly withheld if the [Local Government Official Information and Meetings Act 1987][165] applied to energy companies and a request for that information were made under that Act.
+*   Nothing in this Act shall be construed as requiring the inclusion, in any statement of corporate intent, annual report, financial statement, or half-yearly report required to be produced under this Act in relation to an energy company, of any information that could be properly withheld if the [Local Government Official Information and Meetings Act 1987][169] applied to energy companies and a request for that information were made under that Act.
     
-    Compare: 1988 No 91 [s 17][180]
+    Compare: 1988 No 91 [s 17][184]
 
 #### Auditing of approved persons
     
-*   Heading: inserted (with effect on 1 July 1992), on 17 December 1992, by [section 4][181] of the Energy Companies Amendment Act 1992 (1992 No 123).
+*   Heading: inserted (with effect on 1 July 1992), on 17 December 1992, by [section 4][185] of the Energy Companies Amendment Act 1992 (1992 No 123).
 
 ##### 46A Auditing of approved persons
     
@@ -1182,21 +1178,23 @@ Energy companies
         
         and [section 85][105] shall apply accordingly with all necessary modifications.
     
-    (2) In this section, the term _auditor_ means a person who is qualified for appointment as auditor of a company under the Companies Act 1955\.
+    (2) In this section, _auditor_ means a qualified auditor within the meaning of [section 35][186] of the Financial Reporting Act 2013\.
     
     (3) Nothing in this section limits any other enactment or rule of law relating to the maintenance and auditing of the accounts of an approved person.
     
-    (4) This section is subject to [section 104][182] of the Electricity Industry Act 2010\.
+    (4) This section is subject to [section 104][187] of the Electricity Industry Act 2010\.
     
-    Section 46A: inserted (with effect on 1 July 1992), on 17 December 1992, by [section 4][181] of the Energy Companies Amendment Act 1992 (1992 No 123).
+    Section 46A: inserted (with effect on 1 July 1992), on 17 December 1992, by [section 4][185] of the Energy Companies Amendment Act 1992 (1992 No 123).
     
-    Section 46A(1)(b): amended, on 1 October 1997, pursuant to [section 6(1)][176] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 46A(1)(b): amended, on 1 October 1997, pursuant to [section 6(1)][188] of the Financial Reporting Amendment Act 1997 (1997 No 17).
     
-    Section 46A(1)(c): amended, on 1 October 1997, pursuant to [section 6(1)][176] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 46A(1)(c): amended, on 1 October 1997, pursuant to [section 6(1)][188] of the Financial Reporting Amendment Act 1997 (1997 No 17).
     
-    Section 46A(1)(d)(ii): amended, on 1 October 1997, pursuant to [section 6(1)][176] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 46A(1)(d)(ii): amended, on 1 October 1997, pursuant to [section 6(1)][188] of the Financial Reporting Amendment Act 1997 (1997 No 17).
     
-    Section 46A(4): added, on 1 November 2010, by [section 166][183] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 46A(2): replaced, on 1 April 2014, by [section 126][139] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 46A(4): added, on 1 November 2010, by [section 166][189] of the Electricity Industry Act 2010 (2010 No 116).
 
 ## Part 5  
 Transfer of energy undertakings to energy companies
@@ -1253,15 +1251,15 @@ Transfer of energy undertakings to energy companies
     
     (4) \[Repealed\]
     
-    Compare: 1987 No 195 [s 6(4), (5), (8)][184]
+    Compare: 1987 No 195 [s 6(4), (5), (8)][190]
     
-    Section 48(1)(a)(i): substituted, on 1 July 1994, by [section 2][139] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 48(1)(a)(i): substituted, on 1 July 1994, by [section 2][143] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
-    Section 48(1)(a)(i): amended, on 5 December 2013, by [section 14][138] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 48(1)(a)(i): amended, on 5 December 2013, by [section 14][142] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 48(3)(a): substituted, on 1 July 1994, by [section 2][139] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 48(3)(a): substituted, on 1 July 1994, by [section 2][143] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
-    Section 48(4): repealed, on 5 December 2013, by [section 14][138] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 48(4): repealed, on 5 December 2013, by [section 14][142] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 49 Depreciation funds to vest in energy company free of all trusts
     
@@ -1311,7 +1309,7 @@ Transfer of energy undertakings to energy companies
     
     *   (c) no such employee shall be entitled to receive any payment or other benefit by reason only of that employee ceasing by virtue of this Act to be an employee of the Board:
     
-    *   (d) property held on trust or vested in any person under any provident, benefit, superannuation, or retirement fund or scheme for the employees of a Board or their dependants or other persons immediately before the appointed day shall, on and after the appointed day, be deemed to be held on trust or vested in that person for those employees in their capacity as employees of the Board's successor company or their dependants or other persons on the same terms and conditions; and every reference in any instrument constituting that fund or scheme to the Board or an employee of the Board or a dependant of that employee or any other person shall be read and construed as a reference to the Board's successor company or an employee of that company, or a dependant of that employee or any other person, as the case may be; and any superannuation scheme that was, immediately before the appointed day, a registered superannuation scheme within the meaning of the [Superannuation Schemes Act 1989][185] shall continue to be a registered superannuation scheme on and after the appointed day.
+    *   (d) property held on trust or vested in any person under any provident, benefit, superannuation, or retirement fund or scheme for the employees of a Board or their dependants or other persons immediately before the appointed day shall, on and after the appointed day, be deemed to be held on trust or vested in that person for those employees in their capacity as employees of the Board's successor company or their dependants or other persons on the same terms and conditions; and every reference in any instrument constituting that fund or scheme to the Board or an employee of the Board or a dependant of that employee or any other person shall be read and construed as a reference to the Board's successor company or an employee of that company, or a dependant of that employee or any other person, as the case may be; and any superannuation scheme that was, immediately before the appointed day, a registered superannuation scheme within the meaning of the [Superannuation Schemes Act 1989][191] shall continue to be a registered superannuation scheme on and after the appointed day.
     
     Compare: 1988 No 90 s 9
 
@@ -1319,7 +1317,7 @@ Transfer of energy undertakings to energy companies
     
 *   (1) Any document, matter, or thing, which, if this Act had not been passed, would have been admissible in evidence in respect of any matter for or against a Board shall, on and after the appointed day in relation to that Board, be admissible in evidence in respect of the same matter for or against that Board's successor company.
     
-    (2) In this section, _document_ has the same meaning as in [section 2(1)][186] of the Evidence Amendment Act (No 2) 1980\.
+    (2) In this section, _document_ has the same meaning as in [section 2(1)][192] of the Evidence Amendment Act (No 2) 1980\.
     
     Compare: 1988 No 90 s 10
 
@@ -1343,13 +1341,13 @@ Transfer of energy undertakings to energy companies
     
 *   (1) For the purposes of the Inland Revenue Acts, and any other enactment that imposes or provides for the collection of a tax, duty, levy, or other charge, a Board and its successor company shall be deemed to be the same person.
     
-    (2) For the purposes of [section IA 5][187] of the Income Tax Act 2007, the person or persons on whom voting interests or, in any case where a market value circumstance exists, market value interests in a Board's successor company are conferred---
+    (2) For the purposes of [section IA 5][193] of the Income Tax Act 2007, the person or persons on whom voting interests or, in any case where a market value circumstance exists, market value interests in a Board's successor company are conferred---
         
     *   (a) by reason of the vesting in that person or those persons, by virtue of [section 47(1)(b)][59], of shares in that company; or
     
     *   (b) by reason of the issue to that person or those persons, pursuant to [section 48(3)][60], of equity securities in that company---
     
-    shall be deemed to be the same persons as those persons who, immediately before the appointed day in relation to that Board, were treated by the [Income Tax Act 2007][188] as holding shares in that Board.
+    shall be deemed to be the same persons as those persons who, immediately before the appointed day in relation to that Board, were treated by the [Income Tax Act 2007][194] as holding shares in that Board.
     
     (3) Neither---
         
@@ -1357,15 +1355,15 @@ Transfer of energy undertakings to energy companies
     
     *   (b) the issue of equity securities or debt securities pursuant to [section 48(3)][60]---
     
-    shall constitute a dutiable gift for the purposes of the [Estate and Gift Duties Act 1968][189].
+    shall constitute a dutiable gift for the purposes of the [Estate and Gift Duties Act 1968][195].
     
-    (4) In this section, the terms _voting interest_, _market value circumstance_, and _market value interest_ have the same meanings as they have in the [Income Tax Act 2007][188].
+    (4) In this section, the terms _voting interest_, _market value circumstance_, and _market value interest_ have the same meanings as they have in the [Income Tax Act 2007][194].
     
-    Section 54: substituted (with effect on 1 July 1992), on 17 December 1992, by [section 5][190] of the Energy Companies Amendment Act 1992 (1992 No 123).
+    Section 54: substituted (with effect on 1 July 1992), on 17 December 1992, by [section 5][196] of the Energy Companies Amendment Act 1992 (1992 No 123).
     
-    Section 54(2): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][191] of the Income Tax Act 2007 (2007 No 97).
+    Section 54(2): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][197] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 54(4): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][191] of the Income Tax Act 2007 (2007 No 97).
+    Section 54(4): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][197] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 55 Savings as to Board's special rates
     
@@ -1381,7 +1379,7 @@ Transfer of energy undertakings to energy companies
 
 ##### 56 Local authorities to transfer energy undertakings to energy companies
     
-*   (1) Notwithstanding anything in the [Local Government Act 1974][161], every local authority the operations of which include an energy undertaking shall, not later than 1 April 1993 or such later date as the Minister in any particular case may allow, transfer that energy undertaking to 1 or more energy companies.
+*   (1) Notwithstanding anything in the [Local Government Act 1974][165], every local authority the operations of which include an energy undertaking shall, not later than 1 April 1993 or such later date as the Minister in any particular case may allow, transfer that energy undertaking to 1 or more energy companies.
     
     (2) No local authority shall transfer any part of its energy undertaking to an energy company pursuant to subsection (1) except in accordance with the terms of an approved establishment plan.
     
@@ -1393,7 +1391,7 @@ Transfer of energy undertakings to energy companies
     
 *   (1) Where any energy undertaking is to be transferred to an energy company by a local authority, the liabilities of the local authority that relate to the undertaking shall be identified by the local authority and the person or persons to whom the liabilities are owed.
     
-    (2) In the absence of agreement between the local authority and the person or persons to whom the liabilities are owed as to the extent of the liabilities of the local authority that relate to the undertaking, the matter shall be referred to arbitration under the [Arbitration Act 1996][192], with 1 arbitrator to be appointed by each party and an umpire to be appointed by those arbitrators before entering upon their reference.
+    (2) In the absence of agreement between the local authority and the person or persons to whom the liabilities are owed as to the extent of the liabilities of the local authority that relate to the undertaking, the matter shall be referred to arbitration under the [Arbitration Act 1996][198], with 1 arbitrator to be appointed by each party and an umpire to be appointed by those arbitrators before entering upon their reference.
     
     (3) The liabilities so identified shall remain liabilities of the local authority except to the extent of any written agreement to the contrary between all of the following:
         
@@ -1407,9 +1405,9 @@ Transfer of energy undertakings to energy companies
     
     (4) The directorate and members of the energy company shall ensure that sufficient debt securities are issued by the energy company to the local authority as will ensure that the local authority receives from the energy company funds sufficient to meet the liabilities that it is to retain and that relate to the undertaking transferred to the energy company.
     
-    Compare: 1974 No 66 [s 594ZI][193]; 1989 No 29 [s 34(1)][164]
+    Compare: 1974 No 66 [s 594ZI][199]; 1989 No 29 [s 34(1)][168]
     
-    Section 57(2): amended, on 1 July 1997, pursuant to [section 18][194] of the Arbitration Act 1996 (1996 No 99).
+    Section 57(2): amended, on 1 July 1997, pursuant to [section 18][200] of the Arbitration Act 1996 (1996 No 99).
 
 ##### 58 Certain matters not affected by transfer of undertaking to energy company
     
@@ -1427,7 +1425,7 @@ Transfer of energy undertakings to energy companies
     
     unless there is in force an express commitment by the local authority that the undertaking will not be transferred to any such energy company.
     
-    Compare: 1974 No 66 [s 594ZJ][195]; 1989 No 29 [s 34(1)][164]
+    Compare: 1974 No 66 [s 594ZJ][201]; 1989 No 29 [s 34(1)][168]
 
 ##### 59 Consequential provisions on transfer of undertaking of local authority to energy company
     
@@ -1443,9 +1441,9 @@ Transfer of energy undertakings to energy companies
     
     (4) This section shall apply in relation to any company or entity to which [section 81][100] applies as if it were an energy company.
     
-    Compare: 1974 No 66 [s 594ZK][196]; 1989 No 29 [s 34(1)][164]
+    Compare: 1974 No 66 [s 594ZK][202]; 1989 No 29 [s 34(1)][168]
     
-    Section 59(4): added (with effect on 1 July 1992), on 17 December 1992, by [section 6][197] of the Energy Companies Amendment Act 1992 (1992 No 123).
+    Section 59(4): added (with effect on 1 July 1992), on 17 December 1992, by [section 6][203] of the Energy Companies Amendment Act 1992 (1992 No 123).
 
 ##### 60 Protection of conditions of employment upon transfer
     
@@ -1457,7 +1455,7 @@ Transfer of energy undertakings to energy companies
     
     (4) Nothing in subsection (1) shall continue to apply to any transferred employee who receives any subsequent appointment within the energy company to which that employee was transferred.
     
-    Compare: 1988 No 20 [s 61B][198]; 1991 No 31 s 6
+    Compare: 1988 No 20 [s 61B][204]; 1991 No 31 s 6
 
 ##### 61 Employment of transferred employees deemed to be continuous
     
@@ -1469,29 +1467,29 @@ Transfer of energy undertakings to energy companies
     
 *   (1) Where any energy undertaking of a local authority is transferred to an energy company in accordance with this Act, then, for the purposes of the Inland Revenue Acts, and any other enactment that imposes or provides for the collection of a tax, duty, levy, or other charge, that local authority (in its capacity as an energy trading operator within the meaning given to that term by section OB 1 of the Income Tax Act 1994 immediately before the repeal of that Act) and that energy company shall be deemed to be the same person.
     
-    (2) Where an energy undertaking of a local authority is transferred to an energy company in accordance with this Act, then, for the purposes of [section IA 5][187] of the Income Tax Act 2007, the person or persons on whom voting interests or, in any case where a market value circumstance exists, market value interests in that energy company are conferred by reason of the allocation, to that person or those persons, in accordance with an approved establishment plan, of equity securities in that company shall be deemed to be the same persons as those persons who, immediately before the transfer of that undertaking to that energy company, were treated by the [Income Tax Act 2007][188] as holding shares in that local authority (in its capacity as an energy trading operator within the meaning given to that term by section OB 1 of the Income Tax Act 1994 immediately before the repeal of that Act).
+    (2) Where an energy undertaking of a local authority is transferred to an energy company in accordance with this Act, then, for the purposes of [section IA 5][193] of the Income Tax Act 2007, the person or persons on whom voting interests or, in any case where a market value circumstance exists, market value interests in that energy company are conferred by reason of the allocation, to that person or those persons, in accordance with an approved establishment plan, of equity securities in that company shall be deemed to be the same persons as those persons who, immediately before the transfer of that undertaking to that energy company, were treated by the [Income Tax Act 2007][194] as holding shares in that local authority (in its capacity as an energy trading operator within the meaning given to that term by section OB 1 of the Income Tax Act 1994 immediately before the repeal of that Act).
     
-    (3) Notwithstanding anything in subsection (1), where an energy undertaking of a local authority is transferred to 2 or more energy companies in accordance with this Act, then, for the purposes of [section IA 5][187] of the Income Tax Act 2007, if any net loss as defined in [section YA 1][199] of the Income Tax Act 2007 of that local authority (in its capacity as an energy trading operator within the meaning given to that term by section OB 1 of the Income Tax Act 1994 immediately before the repeal of that Act) is taken into account in the accounts of 1 of the energy companies to which that energy undertaking is so transferred, that net loss as defined in section YA 1 of the Income Tax Act 2007 may not be taken into account in the accounts of any other energy company.
+    (3) Notwithstanding anything in subsection (1), where an energy undertaking of a local authority is transferred to 2 or more energy companies in accordance with this Act, then, for the purposes of [section IA 5][193] of the Income Tax Act 2007, if any net loss as defined in [section YA 1][205] of the Income Tax Act 2007 of that local authority (in its capacity as an energy trading operator within the meaning given to that term by section OB 1 of the Income Tax Act 1994 immediately before the repeal of that Act) is taken into account in the accounts of 1 of the energy companies to which that energy undertaking is so transferred, that net loss as defined in section YA 1 of the Income Tax Act 2007 may not be taken into account in the accounts of any other energy company.
     
     (4) This section shall apply in relation to any company or entity to which [section 81][100] applies as if it were an energy company.
     
-    (5) In this section, the terms _voting interest_, _market value circumstance_, and _market value interest_ have the same meanings as they have in the [Income Tax Act 2007][188].
+    (5) In this section, the terms _voting interest_, _market value circumstance_, and _market value interest_ have the same meanings as they have in the [Income Tax Act 2007][194].
     
-    Section 62: substituted (with effect on 1 July 1992), on 17 December 1992, by [section 7][200] of the Energy Companies Amendment Act 1992 (1992 No 123).
+    Section 62: substituted (with effect on 1 July 1992), on 17 December 1992, by [section 7][206] of the Energy Companies Amendment Act 1992 (1992 No 123).
     
-    Section 62(1): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][201] of the Income Tax Act 2004 (2004 No 35).
+    Section 62(1): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][207] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 62(2): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][191] of the Income Tax Act 2007 (2007 No 97).
+    Section 62(2): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][197] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 62(2): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][201] of the Income Tax Act 2004 (2004 No 35).
+    Section 62(2): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][207] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 62(3): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][191] of the Income Tax Act 2007 (2007 No 97).
+    Section 62(3): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][197] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 62(3): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][201] of the Income Tax Act 2004 (2004 No 35).
+    Section 62(3): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][207] of the Income Tax Act 2004 (2004 No 35).
     
     Section 62(3): amended, on 26 July 1996 (applying to the 1997--98 and subsequent income years), by section 484 of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
-    Section 62(5): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][191] of the Income Tax Act 2007 (2007 No 97).
+    Section 62(5): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][197] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 63 Transfer of leases, licences, etc, to energy company
     
@@ -1499,25 +1497,25 @@ Transfer of energy undertakings to energy companies
     
     (2) Notwithstanding anything in any enactment or rule of law, property that is fixed to, or under or over, any land may be transferred pursuant to this Act by a local authority to an energy company, whether or not any interest in the land is also transferred. Where any such property is so transferred, the property and the land shall be regarded as separate property each capable of separate ownership.
     
-    Compare: 1974 No 66 [s 594ZE][202]; 1989 No 29 [s 34(1)][164]
+    Compare: 1974 No 66 [s 594ZE][208]; 1989 No 29 [s 34(1)][168]
 
 ##### 64 Exclusion of Public Bodies Leases Act 1969
     
-*   Nothing in the [Public Bodies Leases Act 1969][203] shall apply to any lease granted by a local authority to an energy company to which that local authority transfers an energy undertaking pursuant to this Act.
+*   Nothing in the [Public Bodies Leases Act 1969][209] shall apply to any lease granted by a local authority to an energy company to which that local authority transfers an energy undertaking pursuant to this Act.
     
-    Compare: 1974 No 66 [s 594ZH][204]; 1989 No 29 [s 34(1)][164]
+    Compare: 1974 No 66 [s 594ZH][210]; 1989 No 29 [s 34(1)][168]
 
 ##### 65 Prohibition on guarantees, etc
     
 *   No local authority shall give any guarantee, indemnity, or security in respect of the performance of any obligation by an energy company in which that local authority is a shareholder.
     
-    Compare: 1974 No 66 [s 594ZP][205]; 1989 No 29 [s 34(1)][164]
+    Compare: 1974 No 66 [s 594ZP][211]; 1989 No 29 [s 34(1)][168]
 
 ##### 65A Restriction on power of local authority to lend to energy company
     
 *   Where a local authority is a shareholder in an energy company, that local authority shall not lend money to, or provide any other financial accommodation to, that energy company on terms and conditions that are more favourable to the energy company than those that would apply if the local authority were (without charging any rate or rate revenue as security) borrowing the money or obtaining the financial accommodation.
     
-    Section 65A: inserted, on 1 July 1998, by [section 16(1)][206] of the Local Government Amendment Act (No 3) 1996 (1996 No 83).
+    Section 65A: inserted, on 1 July 1998, by [section 16(1)][212] of the Local Government Amendment Act (No 3) 1996 (1996 No 83).
 
 ##### 66 Prohibition on transfer of regulatory functions
     
@@ -1527,7 +1525,7 @@ Transfer of energy undertakings to energy companies
     
     (3) Any approval given under subsection (1) may at any time be withdrawn by the Minister; and any condition subject to which any such approval is given may from time to time be revoked, varied, or added to by the Minister.
     
-    Compare: 1974 No 66 [s 594E][207]; 1989 No 29 [s 34(1)][164]
+    Compare: 1974 No 66 [s 594E][213]; 1989 No 29 [s 34(1)][168]
 
 ##### 67 Duty to act in furtherance of objectives of this Part
     
@@ -1551,7 +1549,7 @@ Transfer of energy undertakings to energy companies
     
     (3) The Minister, upon being satisfied that the energy undertaking of a local authority has been transferred to an energy company, shall advise the local authority in writing that the consent of the Minister to any action referred to in subsection (2) is no longer required.
     
-    Compare: 1988 No 91 [s 33][208]
+    Compare: 1988 No 91 [s 33][214]
 
 #### General
 
@@ -1561,31 +1559,31 @@ Transfer of energy undertakings to energy companies
         
     *   (a) \[Repealed\]
     
-    *   (b) in the case of a company registered under the [Companies Act 1993][160], to have been issued in satisfaction of the liability of the applicant for the shares under the constitution or the terms of issue.
+    *   (b) in the case of a company registered under the [Companies Act 1993][164], to have been issued in satisfaction of the liability of the applicant for the shares under the constitution or the terms of issue.
     
     (2) On the transfer by a local authority to an energy company of an energy undertaking of the local authority, the shares subscribed or applied for in the capital of the energy company on its incorporation shall be deemed,---
         
     *   (a) \[Repealed\]
     
-    *   (b) in the case of a company registered under the [Companies Act 1993][160], to have been issued in satisfaction of the liability of the applicant for the shares under the constitution or the terms of issue.
+    *   (b) in the case of a company registered under the [Companies Act 1993][164], to have been issued in satisfaction of the liability of the applicant for the shares under the constitution or the terms of issue.
     
     (3) Nothing in subsection (1) or subsection (2) shall apply in respect of any company that has been incorporated otherwise than pursuant to [section 32][38].
     
     (4) \[Repealed\]
     
-    Section 68: substituted, on 1 July 1994, by [section 2][139] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 68: substituted, on 1 July 1994, by [section 2][143] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
-    Section 68(1)(a): repealed, on 5 December 2013, by [section 14][138] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 68(1)(a): repealed, on 5 December 2013, by [section 14][142] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 68(2)(a): repealed, on 5 December 2013, by [section 14][138] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 68(2)(a): repealed, on 5 December 2013, by [section 14][142] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 68(4): repealed, on 5 December 2013, by [section 14][138] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 68(4): repealed, on 5 December 2013, by [section 14][142] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 69 Modification of provisions of Public Works Act 1981
     
-*   (1) Nothing in [sections 40 to 42][209] of the Public Works Act 1981 shall apply to the vesting of land in, or the transfer of land to, an energy company pursuant to this Act, but [sections 40][209] and [41][210] of that Act shall, after the vesting or transfer, apply to that land as if the energy company were a local authority and the land had not been vested or transferred pursuant to this Act.
+*   (1) Nothing in [sections 40 to 42][215] of the Public Works Act 1981 shall apply to the vesting of land in, or the transfer of land to, an energy company pursuant to this Act, but [sections 40][215] and [41][216] of that Act shall, after the vesting or transfer, apply to that land as if the energy company were a local authority and the land had not been vested or transferred pursuant to this Act.
     
-    (2) If, in relation to land that has been vested in, or transferred to, an energy company pursuant to this Act, an offer made under subsection (2) of [section 40][209] of the Public Works Act 1981 is not accepted---
+    (2) If, in relation to land that has been vested in, or transferred to, an energy company pursuant to this Act, an offer made under subsection (2) of [section 40][215] of the Public Works Act 1981 is not accepted---
         
     *   (a) within 40 working days after the making of the offer or such further period as the energy company considers reasonable; or
     
@@ -1593,9 +1591,9 @@ Transfer of energy undertakings to energy companies
     
     whichever is later, and the parties have not agreed on other terms for the sale of the land, the energy company may sell or otherwise dispose of the land to any person on such terms and conditions as it thinks fit.
     
-    (3) For the purposes of subsection (2), the term _working day_ has the same meaning as it has in [section 2][211] of the Public Works Act 1981\.
+    (3) For the purposes of subsection (2), the term _working day_ has the same meaning as it has in [section 2][217] of the Public Works Act 1981\.
     
-    Compare: 1974 No 66 [s 594ZF][212]; 1989 No 29 [s 34(1)][164]
+    Compare: 1974 No 66 [s 594ZF][218]; 1989 No 29 [s 34(1)][168]
 
 ##### 69A Preparation of accounts
     
@@ -1607,13 +1605,13 @@ Transfer of energy undertakings to energy companies
     
     the energy company in which such undertaking or undertakings has vested, or to which such undertaking or undertakings has been transferred, as the case may be, shall, not later than 6 months after the date of vesting or transfer, prepare financial statements for the Board or Boards or the energy undertaking of the local authority or local authorities, as the case may be, for the period from the end of the last financial year of the Board or local authority to the date of vesting or transfer, as the case may be, and shall have such financial statements audited.
     
-    (2) The Auditor-General shall be the auditor of the financial statements prepared under the authority of subsection (1); and for that purpose shall have and may exercise all of the functions, duties, and powers that it has under the [Public Audit Act 2001][213] in respect of public money.
+    (2) The Auditor-General shall be the auditor of the financial statements prepared under the authority of subsection (1); and for that purpose shall have and may exercise all of the functions, duties, and powers that it has under the [Public Audit Act 2001][219] in respect of public money.
     
     Section 69A: inserted, on 28 September 1993, by section 2 of the Energy Companies Amendment Act 1993 (1993 No 142).
     
-    Section 69A(2): amended, on 1 July 2001, pursuant to [section 52][214] of the Public Audit Act 2001 (2001 No 10).
+    Section 69A(2): amended, on 1 July 2001, pursuant to [section 52][220] of the Public Audit Act 2001 (2001 No 10).
     
-    Section 69A(2): amended, on 1 July 2001, pursuant to [section 54(1)(a)][215] of the Public Audit Act 2001 (2001 No 10).
+    Section 69A(2): amended, on 1 July 2001, pursuant to [section 54(1)(a)][221] of the Public Audit Act 2001 (2001 No 10).
 
 ## Part 6  
 Waikato Electricity Authority
@@ -1628,7 +1626,7 @@ Waikato Electricity Authority
     
     (2) The Waikato Electricity Authority shall not forward a share allocation plan to the Minister unless the Authority has adopted the special consultative procedure in relation to that plan.
     
-    (3) For the purposes of [section 716A][216] of the Local Government Act 1974 (as applied by subsection (2)), the Waikato Electricity Authority shall be deemed to be a local authority.
+    (3) For the purposes of [section 716A][222] of the Local Government Act 1974 (as applied by subsection (2)), the Waikato Electricity Authority shall be deemed to be a local authority.
 
 ##### 72 Approval of plan
     
@@ -1704,11 +1702,11 @@ Waikato Electricity Authority
     
     *   (b) the vesting of money and debt securities by virtue of paragraph (a)(ii) of that subsection---
     
-    shall constitute a dutiable gift for the purposes of the [Estate and Gift Duties Act 1968][189].
+    shall constitute a dutiable gift for the purposes of the [Estate and Gift Duties Act 1968][195].
     
-    Section 76(1): substituted (with effect on 1 July 1992), on 17 December 1992, by [section 8(1)][217] of the Energy Companies Amendment Act 1992 (1992 No 123).
+    Section 76(1): substituted (with effect on 1 July 1992), on 17 December 1992, by [section 8(1)][223] of the Energy Companies Amendment Act 1992 (1992 No 123).
     
-    Section 76(4): added (with effect on 1 July 1992), on 17 December 1992, by [section 8(2)][217] of the Energy Companies Amendment Act 1992 (1992 No 123).
+    Section 76(4): added (with effect on 1 July 1992), on 17 December 1992, by [section 8(2)][223] of the Energy Companies Amendment Act 1992 (1992 No 123).
 
 ##### 77 Provisions to apply in respect of Waikato Electricity Authority and WEL Energy Group Limited
     
@@ -1740,19 +1738,19 @@ Waikato Electricity Authority
     
     *   (e) [section 92][115].
     
-    (2) The enactments specified in [Schedule 1][218] are hereby consequentially amended in the manner indicated in that schedule.
+    (2) The enactments specified in [Schedule 1][224] are hereby consequentially amended in the manner indicated in that schedule.
     
     (3) The repeal, by subsection (1), of the Waikato Electricity Authority Amendment Act 1990 shall not affect the amendment made by section 6 of that Act.
 
 ##### 80 WEL Energy Group Limited declared to be administering body
     
-*   (1) WEL Energy Group Limited is declared to be an administering body within the meaning of [section 2][219] of the Reserves Act 1977 in relation to every reserve, within the meaning of that Act, vested in it pursuant to the Waikato Electricity Authority Act 1988\.
+*   (1) WEL Energy Group Limited is declared to be an administering body within the meaning of [section 2][225] of the Reserves Act 1977 in relation to every reserve, within the meaning of that Act, vested in it pursuant to the Waikato Electricity Authority Act 1988\.
     
-    (1A) Notwithstanding subsection (1), WEL Energy Group Limited shall be a local authority for the purposes of the [Local Government Official Information and Meetings Act 1987][165]---
+    (1A) Notwithstanding subsection (1), WEL Energy Group Limited shall be a local authority for the purposes of the [Local Government Official Information and Meetings Act 1987][169]---
         
-    *   (a) for the purposes of [Parts 1 to 6][220] and [8][221] of that Act, only in relation to any document, official information, or personal information (within the meaning of that Act) which relates to its activities, powers, and responsibilities as an administering body within the meaning of [section 2][219] of the Reserves Act 1977; and
+    *   (a) for the purposes of [Parts 1 to 6][226] and [8][227] of that Act, only in relation to any document, official information, or personal information (within the meaning of that Act) which relates to its activities, powers, and responsibilities as an administering body within the meaning of [section 2][225] of the Reserves Act 1977; and
     
-    *   (b) for the purposes of [Part 7][222] of that Act, only in relation to any portion of any meeting (within the meaning of that Act) at which consideration is given to any resolution or decision on any matter which relates to its activities, powers, and responsibilities as an administering body within the meaning of [section 2][219] of the Reserves Act 1977\.
+    *   (b) for the purposes of [Part 7][228] of that Act, only in relation to any portion of any meeting (within the meaning of that Act) at which consideration is given to any resolution or decision on any matter which relates to its activities, powers, and responsibilities as an administering body within the meaning of [section 2][225] of the Reserves Act 1977\.
     
     (2) This section shall come into force on the date on which [section 79][96] comes into force.
     
@@ -1815,7 +1813,7 @@ Miscellaneous provisions
         
         
     
-    *   (b) shall be equal in amount to 50% of the salary that, immediately before 8 August 1990, was payable, in accordance with [Part 4C][156] of the Local Government Act 1974, to ordinary members of the Board in respect of which the Electric Power Trust of which that person was a member was established; and for the purposes of this paragraph an ordinary member of a Board does not include the Chairperson of a Board or the Deputy Chairperson of a Board or the Chairperson of 1 or more committees of a Board; and
+    *   (b) shall be equal in amount to 50% of the salary that, immediately before 8 August 1990, was payable, in accordance with [Part 4C][160] of the Local Government Act 1974, to ordinary members of the Board in respect of which the Electric Power Trust of which that person was a member was established; and for the purposes of this paragraph an ordinary member of a Board does not include the Chairperson of a Board or the Deputy Chairperson of a Board or the Chairperson of 1 or more committees of a Board; and
     
     *   (c) shall, in respect of any period in respect of which that person is entitled to receive that salary but which is not a complete year, be reduced in proportion to that period; and
     
@@ -1827,7 +1825,7 @@ Miscellaneous provisions
     
 *   During the period beginning on 1 July 1992 and ending with the close of the day before the appointed day in relation to the Central Canterbury Electric Power Board, sections 2 to 4 of the Electric Power Boards Amendment Act 1989 shall, in relation to that Board, have effect as if, for the expression ""30 June 1992"" wherever it appears in those sections, there were substituted in each case the words ""day before the appointed day (within the meaning of the Energy Companies Act 1992) in relation to the Central Canterbury Electric Power Board"".
     
-    Section 84A: inserted (with effect on 1 July 1992), on 17 December 1992, by [section 9(1)][223] of the Energy Companies Amendment Act 1992 (1992 No 123).
+    Section 84A: inserted (with effect on 1 July 1992), on 17 December 1992, by [section 9(1)][229] of the Energy Companies Amendment Act 1992 (1992 No 123).
 
 ##### 85 Public availability of documents
     
@@ -1839,7 +1837,7 @@ Miscellaneous provisions
     
     *   (c) notify by advertisement in a newspaper circulating in the district the fact that copies are so available.
     
-    Compare: 1988 No 91 [s 35][224]
+    Compare: 1988 No 91 [s 35][230]
 
 ##### 86 Supply of information
     
@@ -1865,35 +1863,35 @@ Miscellaneous provisions
     
     *   (d) statistical meshblock details of each elector.
     
-    (3) The provisions of [sections 116][225] and [117][226] of the Electoral Act 1993 and any regulations made under the [Electoral Act 1993][227] prescribing requirements in respect of computer tapes, disks, or diskettes, or prescribing fees, shall apply, with any necessary modifications, as if---
+    (3) The provisions of [sections 116][231] and [117][232] of the Electoral Act 1993 and any regulations made under the [Electoral Act 1993][233] prescribing requirements in respect of computer tapes, disks, or diskettes, or prescribing fees, shall apply, with any necessary modifications, as if---
         
-    *   (a) the information sought or supplied under this section had been sought or supplied pursuant to [section 113(9)][228] of the Electoral Act 1993; and
+    *   (a) the information sought or supplied under this section had been sought or supplied pursuant to [section 113(9)][234] of the Electoral Act 1993; and
     
-    *   (b) the persons to whom information may be supplied under this section were persons to whom [section 113(9)][228] of the Electoral Act 1993 applied; and
+    *   (b) the persons to whom information may be supplied under this section were persons to whom [section 113(9)][234] of the Electoral Act 1993 applied; and
     
-    *   (c) the purposes described in paragraphs (a) and (b) of subsection (1) were purposes for which the supply of information was authorised under [section 113(9)][228] of the Electoral Act 1993\.
+    *   (c) the purposes described in paragraphs (a) and (b) of subsection (1) were purposes for which the supply of information was authorised under [section 113(9)][234] of the Electoral Act 1993\.
     
-    (3A) _Electoral Commission_, in this section, means the Electoral Commission established by[section 4B][229] of the Electoral Act 1993\.
+    (3A) _Electoral Commission_, in this section, means the Electoral Commission established by[section 4B][235] of the Electoral Act 1993\.
     
-    (4) In this section, expressions (other than Electoral Commission) defined in the [Electoral Act 1993][227] have the meanings so defined.
+    (4) In this section, expressions (other than Electoral Commission) defined in the [Electoral Act 1993][233] have the meanings so defined.
     
     Section 86A: inserted, on 28 September 1993, by section 4 of the Energy Companies Amendment Act 1993 (1993 No 142).
     
-    Section 86A(1): amended, on 1 July 2012, by [section 56(2)][230] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 86A(1): amended, on 1 July 2012, by [section 56(2)][236] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
-    Section 86A(3): amended, on 1 July 2012, by [section 56(3)(a)][230] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 86A(3): amended, on 1 July 2012, by [section 56(3)(a)][236] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
-    Section 86A(3): amended, on 1 July 2012, by [section 56(3)(b)][230] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 86A(3): amended, on 1 July 2012, by [section 56(3)(b)][236] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
-    Section 86A(3)(a): amended, on 1 July 2012, by [section 56(3)(c)][230] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 86A(3)(a): amended, on 1 July 2012, by [section 56(3)(c)][236] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
-    Section 86A(3)(b): amended, on 1 July 2012, by [section 56(3)(c)][230] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 86A(3)(b): amended, on 1 July 2012, by [section 56(3)(c)][236] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
-    Section 86A(3)(c): amended, on 1 July 2012, by [section 56(3)(c)][230] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 86A(3)(c): amended, on 1 July 2012, by [section 56(3)(c)][236] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
-    Section 86A(3A): inserted, on 1 July 2012, by [section 56(4)][230] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 86A(3A): inserted, on 1 July 2012, by [section 56(4)][236] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
-    Section 86A(4): amended, on 1 July 2012, by [section 56(5)][230] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 86A(4): amended, on 1 July 2012, by [section 56(5)][236] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
 
 ##### 87 Local authority shareholding in energy companies
     
@@ -1913,21 +1911,21 @@ Miscellaneous provisions
     
     the local authority may deal with that proposal only in accordance with the special consultative procedure.
     
-    Compare: 1974 No 66 [s 594F][231]; 1989 No 29 [s 34(1)][164]
+    Compare: 1974 No 66 [s 594F][237]; 1989 No 29 [s 34(1)][168]
 
 #### Amendments to other enactments
 
 ##### 89 Amendments to Local Government Act 1974
     
-*   (1), (2) _Amendment(s) incorporated in the [Act(s)][232]_.
+*   (1), (2) _Amendment(s) incorporated in the [Act(s)][238]_.
     
     (3) The following enactments are hereby consequentially repealed:
         
-    *   (a) [section 43(2)][233] of the Local Government Amendment Act 1980:
+    *   (a) [section 43(2)][239] of the Local Government Amendment Act 1980:
     
     *   (b) section 23 of the Local Government Amendment Act (No 2) 1982:
     
-    *   (c) [section 10][234] of the Local Government Amendment Act (No 3) 1986\.
+    *   (c) [section 10][240] of the Local Government Amendment Act (No 3) 1986\.
     
     
 
@@ -1935,11 +1933,11 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 89A: repealed, on 1 July 2003, by [section 266][235] of the Local Government Act 2002 (2002 No 84).
+    Section 89A: repealed, on 1 July 2003, by [section 266][241] of the Local Government Act 2002 (2002 No 84).
 
 ##### 90 Amendment to Immigration Act 1987
     
-*   _Amendment(s) incorporated in the [Act(s)][236]_.
+*   _Amendment(s) incorporated in the [Act(s)][242]_.
 
 ##### 91 Amendment to Electric Power Boards Act 1925
     
@@ -1949,7 +1947,7 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 92: repealed, on 26 October 1993, by [section 79(1)(e)][237].
+    Section 92: repealed, on 26 October 1993, by [section 79(1)(e)][243].
 
 ##### 93 Amendments to Electric Power Boards Amendment Act 1989
     
@@ -1971,7 +1969,7 @@ Miscellaneous provisions
     
     *   (c) the Auckland Electric Power Board Amendment Act 1981:
     
-    *   (d) so much of [Part 3][238] of Schedule 3 of the Local Government Amendment Act 1985 as relates to---
+    *   (d) so much of [Part 3][244] of Schedule 3 of the Local Government Amendment Act 1985 as relates to---
             
         *   (i) the Auckland Electric Power Board Act 1978:
         
@@ -1981,7 +1979,7 @@ Miscellaneous provisions
         
         
     
-    *   (e) so much of Schedule 1 of the [Local Government Amendment Act 1986][239] as relates to the Auckland Electric Power Board Act 1978:
+    *   (e) so much of Schedule 1 of the [Local Government Amendment Act 1986][245] as relates to the Auckland Electric Power Board Act 1978:
     
     *   (f) sections 7 to 10 of the Electric Power Boards Amendment Act 1989:
     
@@ -2010,23 +2008,23 @@ Amendments consequential on repeal of Waikato Electricity Authority Act 1988
 
 ##### Local Authorities (Members' Interests) Act 1968 (1968 No 147) (RS Vol 24, p 463)
 
-_Amendment(s) incorporated in the [Act(s)][240]._
+_Amendment(s) incorporated in the [Act(s)][246]._
 
 ##### Local Government Act 1974 (1974 No 66) (RS Vol 25, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][161]._
+_Amendment(s) incorporated in the [Act(s)][165]._
 
 ##### Local Government Official Information and Meetings Act 1987 (1987 No 174)
 
-_Amendment(s) incorporated in the [Act(s)][241]._
+_Amendment(s) incorporated in the [Act(s)][247]._
 
 ##### Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 65)
 
-_Amendment(s) incorporated in the [Act(s)][242]._
+_Amendment(s) incorporated in the [Act(s)][248]._
 
 ##### Public Bodies Contracts Act 1959 (1959 No 98) (RS Vol 27, p 795)
 
-_Amendment(s) incorporated in the [Act(s)][243]._
+_Amendment(s) incorporated in the [Act(s)][249]._
 
 ---
 
@@ -2043,19 +2041,19 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Local Authorities (Members' Interests) Act 1968 (1968 No 147) (RS Vol 24, p 463)
 
-_Amendment(s) incorporated in the [Act(s)][240]._
+_Amendment(s) incorporated in the [Act(s)][246]._
 
 ##### Local Government Act 1974 (1974 No 66) (RS Vol 25, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][161]._
+_Amendment(s) incorporated in the [Act(s)][165]._
 
 ##### Local Government Official Information and Meetings Act 1987 (1987 No 174)
 
-_Amendment(s) incorporated in the [Act(s)][165]._
+_Amendment(s) incorporated in the [Act(s)][169]._
 
 ##### Public Bodies Contracts Act 1959 (1959 No 98) (RS Vol 27, p 795)
 
-_Amendment(s) incorporated in the [Act(s)][244]._
+_Amendment(s) incorporated in the [Act(s)][250]._
 
 ---
 
@@ -2068,7 +2066,7 @@ Consequential amendments
 
 ##### Environment Act 1986 (1986 No 127)
 
-_Amendment(s) incorporated in the [Act(s)][245]._
+_Amendment(s) incorporated in the [Act(s)][251]._
 
 ##### Local Authorities Loans Act 1956 (1956 No 63) (RS Vol 24, p 369)
 
@@ -2076,23 +2074,23 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Local Authorities (Members' Interests) Act 1968 (1968 No 147) (RS Vol 24, p 463)
 
-_Amendment(s) incorporated in the [Act(s)][246]._
+_Amendment(s) incorporated in the [Act(s)][252]._
 
 ##### Local Government Act 1974 (1974 No 66) (RS Vol 25, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][161]._
+_Amendment(s) incorporated in the [Act(s)][165]._
 
 ##### Local Government Official Information and Meetings Act 1987 (1987 No 174)
 
-_Amendment(s) incorporated in the [Act(s)][165]._
+_Amendment(s) incorporated in the [Act(s)][169]._
 
 ##### Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 65)
 
-_Amendment(s) incorporated in the [Act(s)][242]._
+_Amendment(s) incorporated in the [Act(s)][248]._
 
 ##### Public Bodies Contracts Act 1959 (1959 No 98) (RS Vol 27, p 795)
 
-_Amendment(s) incorporated in the [Act(s)][244]._
+_Amendment(s) incorporated in the [Act(s)][250]._
 
 ##### Rating Powers Act 1988 (1988 No 97)
 
@@ -2100,11 +2098,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Stamp and Cheque Duties Act 1971 (1971 No 51) (RS Vol 23, p 771)
 
-_Amendment(s) incorporated in the [Act(s)][247]._
+_Amendment(s) incorporated in the [Act(s)][253]._
 
 ##### Trustee Amendment Act 1988 (1988 No 119)
 
-_Amendment(s) incorporated in the [Act(s)][248]._
+_Amendment(s) incorporated in the [Act(s)][254]._
 
 ---
 
@@ -2157,15 +2155,15 @@ Enactments repealed
 
 ##### Finance Act (No 2) 1933 (1933 No 41) (Reprinted 1976, Vol 4, p 3549)
 
-_Amendment(s) incorporated in the [Act(s)][249]_.
+_Amendment(s) incorporated in the [Act(s)][255]_.
 
 ##### Local Government Amendment Act 1979 (1979 No 59) (RS Vol 25, p 609)
 
-_Amendment(s) incorporated in the [Act(s)][249]_.
+_Amendment(s) incorporated in the [Act(s)][255]_.
 
 ##### Local Government Amendment Act 1985 (1985 No 60)
 
-_Amendment(s) incorporated in the [Act(s)][238]_.
+_Amendment(s) incorporated in the [Act(s)][244]_.
 
 ##### Local Government Amendment Act 1986 (1986 No 21) (RS Vol 25, p 659)
 
@@ -2177,7 +2175,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Statutes Amendment Act 1938 (1938 No 20) (Reprinted 1976, Vol 4, p 3550)
 
-_Amendment(s) incorporated in the [Act(s)][250]_.
+_Amendment(s) incorporated in the [Act(s)][256]_.
 
 ##### Statutes Amendment Act 1941 (1941 No 26) (Reprinted 1976, Vol 4, p 3552)
 
@@ -2195,39 +2193,41 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][251] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][252] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][257] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][258] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][253] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][254] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][259] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][260] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Companies Amendment Act 2013 (2013 No 111): [section 14][138]
+*   Companies Amendment Act 2013 (2013 No 111): [section 14][142]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][148]
+    Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][139]
     
-    Electoral (Administration) Amendment Act 2011 (2011 No 57): [section 56][230]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][152]
     
-    Electricity Industry Act 2010 (2010 No 116): [section 166][183]
+    Electoral (Administration) Amendment Act 2011 (2011 No 57): [section 56][236]
     
-    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][191]
+    Electricity Industry Act 2010 (2010 No 116): [section 166][189]
     
-    Insolvency Act 2006 (2006 No 55): [section 445][147]
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][197]
     
-    Income Tax Act 2004 (2004 No 35): [section YA 2][201]
+    Insolvency Act 2006 (2006 No 55): [section 445][151]
     
-    Local Government Act 2002 (2002 No 84): [sections 262][137], [266][235], [267(a)][159]
+    Income Tax Act 2004 (2004 No 35): [section YA 2][207]
     
-    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][149]
+    Local Government Act 2002 (2002 No 84): [sections 262][141], [266][241], [267(a)][163]
     
-    Public Audit Act 2001 (2001 No 10): [sections 52][214], [53][179], [54(1)(a)][215]
+    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][153]
     
-    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6][176]
+    Public Audit Act 2001 (2001 No 10): [sections 52][220], [53][183], [54(1)(a)][221]
     
-    Arbitration Act 1996 (1996 No 99): [section 18][194]
+    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6][188]
     
-    Local Government Amendment Act (No 3) 1996 (1996 No 83): [section 16(1)][206]
+    Arbitration Act 1996 (1996 No 99): [section 18][200]
+    
+    Local Government Amendment Act (No 3) 1996 (1996 No 83): [section 16(1)][212]
     
     Taxation (Core Provisions) Act 1996 (1996 No 67): section 484
     
@@ -2235,19 +2235,19 @@ _Amendment(s) incorporated in the Act(s)_.
     
     [Energy Companies Act Commencement Order 1994][127] (SR 1994/196)
     
-    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][139]
+    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][143]
     
-    [Energy Companies Act Commencement Order 1993][255] (SR 1993/322)
+    [Energy Companies Act Commencement Order 1993][261] (SR 1993/322)
     
     Energy Companies Amendment Act 1993 (1993 No 142)
     
-    Gas Act 1992 (1992 No 124): [section 58(2)][136]
+    Gas Act 1992 (1992 No 124): [section 58(2)][140]
     
-    [Energy Companies Amendment Act 1992][256] (1992 No 123)
+    [Energy Companies Amendment Act 1992][262] (1992 No 123)
     
     Energy Companies Act 1992 (1992 No 56): [section 79(1)(e)][96]
     
-    Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46): [section 137(1)][146]
+    Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46): [section 137(1)][150]
 
 
 
@@ -2381,130 +2381,136 @@ _Amendment(s) incorporated in the Act(s)_.
 [127]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM195175
 [128]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM425415
 [129]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM26805
-[130]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM285420
-[131]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM359333
-[132]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM269037
-[133]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM170872
-[134]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM172328
-[135]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM319999
-[136]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM286566
-[137]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM174088
-[138]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM5620822
-[139]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM328986
-[140]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM262175
-[141]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM387531
-[142]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM127009
-[143]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM127010
-[144]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM320690
-[145]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM166682
-[146]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM264250
-[147]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM387857
-[148]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM3360714
-[149]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM122579
-[150]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM129109
-[151]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM446000
-[152]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM304703
-[153]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM264952
-[154]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM418126
-[155]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM418151
-[156]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM417969
-[157]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM418262
-[158]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM285400
-[159]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM174093
-[160]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM319569
-[161]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM415531
-[162]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM422581
-[163]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM132141
-[164]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM159253
-[165]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM122241
-[166]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM422590
-[167]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM132142
-[168]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM320699
-[169]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM285401
-[170]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM319576
-[171]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM422594
-[172]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM422603
-[173]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM422606
-[174]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM422613
-[175]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM422616
-[176]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM408960
-[177]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM320877
-[178]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM88548
-[179]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM88957
-[180]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM132163
-[181]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM285402
-[182]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM2634506
-[183]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM2634629
-[184]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM125628
-[185]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM143291
-[186]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM35698
-[187]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM1517695
-[188]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM1512300
-[189]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM385591
-[190]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM285403
-[191]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM1523176
-[192]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM403276
-[193]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM422650
-[194]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM405708
-[195]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM422653
-[196]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM422656
-[197]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM285404
-[198]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM129745
-[199]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM1520575
-[200]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM285405
-[201]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM277147
-[202]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM422638
-[203]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM394841
-[204]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM422647
-[205]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM422676
-[206]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM394152
-[207]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM422541
-[208]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM132186
-[209]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM46055
-[210]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM46068
-[211]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM45433
-[212]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM422641
-[213]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM88540
-[214]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM88956
-[215]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM88959
-[216]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM425273
-[217]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM285406
-[218]: http://www.legislation.govt.nz/act/public/1992/0056/latest/whole.html#DLM268396
-[219]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM444310
-[220]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM122284
-[221]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM123611
-[222]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM123071
-[223]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM285407
-[224]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM132191
-[225]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM309408
-[226]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM309410
-[227]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM307518
-[228]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM309174
-[229]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM2997501
-[230]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM3367687
-[231]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM422544
-[232]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM420324
-[233]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM39457
-[234]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM93861
-[235]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM174092
-[236]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM114323
-[237]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM268363
-[238]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM75663
-[239]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM92829
-[240]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM390522
-[241]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM123625
-[242]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM431685
-[243]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM324284
-[244]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM324218
-[245]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM99782
-[246]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM390062
-[247]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM399728
-[248]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM135611
-[249]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM215135
-[250]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM226322
-[251]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM2998516
-[252]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM2998515
-[253]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM2998532
-[254]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[255]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM181696
-[256]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM284194
+[130]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM4632892
+[131]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM4632890
+[132]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM285420
+[133]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM4632894
+[134]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM359333
+[135]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM269037
+[136]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM170872
+[137]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM172328
+[138]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM319999
+[139]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM5740665
+[140]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM286566
+[141]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM174088
+[142]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM5620822
+[143]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM328986
+[144]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM262175
+[145]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM387531
+[146]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM127009
+[147]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM127010
+[148]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM320690
+[149]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM166682
+[150]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM264250
+[151]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM387857
+[152]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM3360714
+[153]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM122579
+[154]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM129109
+[155]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM446000
+[156]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM304703
+[157]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM264952
+[158]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM418126
+[159]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM418151
+[160]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM417969
+[161]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM418262
+[162]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM285400
+[163]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM174093
+[164]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM319569
+[165]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM415531
+[166]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM422581
+[167]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM132141
+[168]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM159253
+[169]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM122241
+[170]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM422590
+[171]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM132142
+[172]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM320699
+[173]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM285401
+[174]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM319576
+[175]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM422594
+[176]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM422603
+[177]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM422606
+[178]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM422613
+[179]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM422616
+[180]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM6041591
+[181]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM88548
+[182]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM6041593
+[183]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM88957
+[184]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM132163
+[185]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM285402
+[186]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM4632944
+[187]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM2634506
+[188]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM408960
+[189]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM2634629
+[190]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM125628
+[191]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM143291
+[192]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM35698
+[193]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM1517695
+[194]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM1512300
+[195]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM385591
+[196]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM285403
+[197]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM1523176
+[198]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM403276
+[199]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM422650
+[200]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM405708
+[201]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM422653
+[202]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM422656
+[203]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM285404
+[204]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM129745
+[205]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM1520575
+[206]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM285405
+[207]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM277147
+[208]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM422638
+[209]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM394841
+[210]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM422647
+[211]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM422676
+[212]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM394152
+[213]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM422541
+[214]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM132186
+[215]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM46055
+[216]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM46068
+[217]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM45433
+[218]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM422641
+[219]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM88540
+[220]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM88956
+[221]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM88959
+[222]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM425273
+[223]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM285406
+[224]: http://www.legislation.govt.nz/act/public/1992/0056/latest/whole.html#DLM268396
+[225]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM444310
+[226]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM122284
+[227]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM123611
+[228]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM123071
+[229]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM285407
+[230]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM132191
+[231]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM309408
+[232]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM309410
+[233]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM307518
+[234]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM309174
+[235]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM2997501
+[236]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM3367687
+[237]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM422544
+[238]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM420324
+[239]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM39457
+[240]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM93861
+[241]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM174092
+[242]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM114323
+[243]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM268363
+[244]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM75663
+[245]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM92829
+[246]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM390522
+[247]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM123625
+[248]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM431685
+[249]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM324284
+[250]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM324218
+[251]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM99782
+[252]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM390062
+[253]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM399728
+[254]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM135611
+[255]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM215135
+[256]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM226322
+[257]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM2998516
+[258]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM2998515
+[259]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM2998532
+[260]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[261]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM181696
+[262]: http://www.legislation.govt.nz/act/public/1992/0056/latest/link.aspx?id=DLM284194
