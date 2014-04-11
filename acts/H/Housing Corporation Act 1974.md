@@ -1,5 +1,5 @@
 Reprint  
-as at 18 July 2013
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Business, Innovation, and Employment.
 
@@ -1327,15 +1327,19 @@ Restructuring of housing entities
     
     *   (b) for the purposes of [section FE 10][188] of that Act, the company must be treated as having been solvent immediately before the vesting day.
     
-    (3) For the purposes of the [Financial Reporting Act 1993][189], the vesting of the assets and liabilities of an existing company under [section 53][80] is an amalgamation under the [Companies Act 1993][105] of the company and the Corporation.
+    (3) \[Repealed\]
     
-    (4) Subsections (1) to (3) apply as if the Corporation were a company within the meaning of the [Companies Act 1993][105].
+    (4) Subsections (1) and (2) apply as if the Corporation were a company within the meaning of the [Companies Act 1993][105].
     
     (5) Subsections (1) and (2) override [section 45][68].
     
     Section 56: inserted, on 1 July 2001, by [section 22][184] of the Housing Corporation Amendment Act 2001 (2001 No 37).
     
-    Section 56(2)(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), pursuant to [section ZA 2(1)][190] of the Income Tax Act 2007 (2007 No 97).
+    Section 56(2)(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), pursuant to [section ZA 2(1)][189] of the Income Tax Act 2007 (2007 No 97).
+    
+    Section 56(3): repealed, on 1 April 2014, by [section 126][190] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 56(4): amended, on 1 April 2014, by [section 126][190] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 57 Certain matters not affected by vesting
     
@@ -2239,70 +2243,29 @@ Commencementsee section 1
     
     (2) Notwithstanding its repeal by subsection (1), section 23A of the principal Act shall continue to apply in relation to any guarantee or indemnity given by the Corporation before the commencement of this section.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Housing Corporation Act 1974\. The reprint incorporates all the amendments to the Act as at 18 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][275] ![](/images/external_link.gif).
+*   This is a reprint of the Housing Corporation Act 1974 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][276] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][275] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][276] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][277] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][277] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][278] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][278] and [17E][279] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][190]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Crown Entities Amendment Act 2013 (2013 No 51): [section 42][114]
+    Crown Entities Amendment Act 2013 (2013 No 51): [section 42][114]
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][172]
     
@@ -2310,7 +2273,7 @@ Commencementsee section 1
     
     Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(2)(a)][157]
     
-    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][190]
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][189]
     
     Property Law Act 2007 (2007 No 91): [section 364(1)][134]
     
@@ -2322,27 +2285,27 @@ Commencementsee section 1
     
     Local Government Act 2002 (2002 No 84): [section 262][146]
     
-    [Housing Corporation Amendment Act 2001][280] (2001 No 37)
+    [Housing Corporation Amendment Act 2001][279] (2001 No 37)
     
     Public Finance Amendment Act 1992 (1992 No 142): [section 42][169]
     
     Housing Corporation Amendment Act 1992 (1992 No 78)
     
-    [Housing Corporation Amendment Act 1991][281] (1991 No 91)
+    [Housing Corporation Amendment Act 1991][280] (1991 No 91)
     
     State Sector Amendment Act (No 2) 1989 (1989 No 136): [section 32(1)][127]
     
-    Public Finance Act 1989 (1989 No 44): [sections 65R(3)][282], [83(7)][147]
+    Public Finance Act 1989 (1989 No 44): [sections 65R(3)][281], [83(7)][147]
     
     Trustee Amendment Act 1988 (1988 No 119): [section 16(1)][165]
     
     Housing Corporation Amendment Act 1987 (1987 No 68)
     
-    [Housing Corporation Act Commencement Order 1974][283] (SR 1974/245)
+    [Housing Corporation Act Commencement Order 1974][282] (SR 1974/245)
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM411835
 [2]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM411838
 [3]: http://www.legislation.govt.nz/act/public/1974/0019/latest/whole.html#DLM411839
@@ -2531,8 +2494,8 @@ Commencementsee section 1
 [186]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM348353
 [187]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM1516805
 [188]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM262035
-[189]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM323597
-[190]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM1523176
+[189]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM1523176
+[190]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM5740665
 [191]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM296638
 [192]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM58337
 [193]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM130706
@@ -2617,12 +2580,11 @@ Commencementsee section 1
 [272]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM291039
 [273]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM399728
 [274]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM270362
-[275]: http://www.pco.parliament.govt.nz/reprints/
-[276]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM195439
-[277]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[278]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM195468
-[279]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM195470
-[280]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95832
-[281]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM248257
-[282]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM162942
-[283]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM45144
+[275]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM2998516
+[276]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM2998515
+[277]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM2998532
+[278]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[279]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM95832
+[280]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM248257
+[281]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM162942
+[282]: http://www.legislation.govt.nz/act/public/1974/0019/latest/link.aspx?id=DLM45144
