@@ -1,7 +1,7 @@
 Reprint  
-as at 1 April 2008
+as at 1 April 2014
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Farmers' Mutual Group Act 2007Private Act2007 No 1
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 ---
 
@@ -23,109 +23,111 @@ A general outline of these changes is set out in the notes at the end of this re
 
 *   [Preamble][1]
 
-[1][2] [Title][2]
+[1][2][][2][Title][2]
 
-[2][3] [Commencement][3]
+[2][3][][3][Commencement][3]
 
 [Part 1][4]  
 [Preliminary][4]
 
-[3][5] [Interpretation][5]
+[3][5][][5][Interpretation][5]
 
-[4][6] [Adoption of constitution][6]
+[4][6][][6][Adoption of constitution][6]
 
 [Part 2][7]  
 [Incorporation and governance][7]
 
 [Mutual and its members][8]
 
-[5][9] [Transfer of incorporation and change of name][9]
+[5][9][][9][Transfer of incorporation and change of name][9]
 
-[6][10] [Principal business][10]
+[6][10][][10][Principal business][10]
 
-[7][11] [Capacity, powers, and validity of actions][11]
+[7][11][][11][Capacity, powers, and validity of actions][11]
 
-[8][12] [Premium notes][12]
+[8][12][][12][Premium notes][12]
 
-[9][13] [Membership][13]
+[9][13][][13][Membership][13]
 
-[10][14] [Entry on members register][14]
+[10][14][][14][Entry on members register][14]
 
-[11][15] [Liability of members][15]
+[11][15][][15][Liability of members][15]
 
-[12][16] [Name][16]
+[12][16][][16][Name][16]
 
-[13][17] [Constitution][17]
+[13][17][][17][Constitution][17]
 
-[14][18] [Alteration of constitution by members][18]
+[14][18][][18][Alteration of constitution by members][18]
 
-[15][19] [Court may alter constitution][19]
+[15][19][][19][Court may alter constitution][19]
 
-[16][20] [Registration of consolidated constitution][20]
+[16][20][][20][Registration of consolidated constitution][20]
 
-[17][21] [Rights and powers attached to membership][21]
+[17][21][][21][Rights and powers attached to membership][21]
 
-[18][22] [Rebates to members][22]
+[18][22][][22][Rebates to members][22]
 
-[19][23] [Members register][23]
+[19][23][][23][Members register][23]
 
-[20][24] [Powers of members][24]
+[20][24][][24][Powers of members][24]
 
-[21][25] [Meetings of members][25]
+[21][25][][25][Meetings of members][25]
 
-[22][26] [Who is entitled to receive notice and to vote][26]
+[22][26][][26][Who is entitled to receive notice and to vote][26]
 
-[23][27] [Directors and their powers and duties][27]
+[23][27][][27][Directors and their powers and duties][27]
 
-[24][28] [Majority of directors to be members][28]
+[24][28][][28][Majority of directors to be members][28]
 
 [Other provisions of Companies Act 1993 applied][29]
 
-[25][30] [Enforcement][30]
+[25][30][][30][Enforcement][30]
 
-[26][31] [Administration of Mutual][31]
+[26][31][][31][Administration of Mutual][31]
 
-[27][32] [Accounting records and audit][32]
+[27][32][][32][Accounting records and audit][32] \[Repealed\]
 
-[28][33] [Disclosure by Mutual][33]
+[28][33][][33][Disclosure by Mutual][33]
 
-[29][34] [Amalgamations][34]
+[29][34][][34][Amalgamations][34]
 
-[30][35] [Compromises with creditors][35]
+[30][35][][35][Compromises with creditors][35]
 
-[31][36] [Voluntary administration][36]
+[31][36][][36][Voluntary administration][36]
 
-[32][37] [Liquidation][37]
+[32][37][][37][Liquidation][37]
 
-[33][38] [Removal from register][38]
+[33][38][][38][Removal from register][38]
 
-[34][39] [Registrar of Companies][39]
+[34][39][][39][Registrar of Companies][39]
 
-[35][40] [Offences and penalties][40]
+[35][40][][40][Offences and penalties][40]
 
-[36][41] [Miscellaneous][41]
+[36][41][][41][Miscellaneous][41]
 
 [Application of Financial Reporting Act 1993][42]
 
-[37][43] [Reporting entity][43]
+\[Repealed\]
+
+[37][43][][43][Reporting entity][43] \[Repealed\]
 
 [Transitional provisions][44]
 
-[38][45] [Continued existence][45]
+[38][45][][45][Continued existence][45]
 
-[39][46] [Continuation of legal and other proceedings][46]
+[39][46][][46][Continuation of legal and other proceedings][46]
 
-[40][47] [References to Farmers' Mutual Insurance Association in existing instruments, etc][47]
+[40][47][][47][References to Farmers' Mutual Insurance Association in existing instruments, etc][47]
 
-[41][48] [Status of contracts and other instruments][48]
+[41][48][][48][Status of contracts and other instruments][48]
 
-[42][49] [Continuity of appointments][49]
+[42][49][][49][Continuity of appointments][49]
 
-[43][50] [Employees][50]
+[43][50][][50][Employees][50]
 
 [Repeal][51]
 
-[44][52] [Repeal of Farmers' Mutual Group Act 1998][52]
+[44][52][][52][Repeal of Farmers' Mutual Group Act 1998][52]
 
 [Schedule][53]  
 [Form of annual return][53]
@@ -620,11 +622,13 @@ Incorporation and governance
     
     *   (b) the constitution; or
     
-    *   (c) this Act; or
+    *   (c) this Act.
     
-    *   (d) the [Financial Reporting Act 1993][112].
+    *   (d) \[Repealed\]
     
+    Section 25(2)(c): replaced, on 1 April 2014, by [section 126][112] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
+    Section 25(2)(d): repealed, on 1 April 2014, by [section 126][112] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 26 Administration of Mutual
     
@@ -632,71 +636,79 @@ Incorporation and governance
 
 ##### 27 Accounting records and audit
     
-*   [Part 11][115] (accounting records and audit) of the Companies Act 1993, other than [sections 195][116] and [201][117], applies to the Mutual as if it were a company registered under that Act and each member a shareholder of the company.
+*   \[Repealed\]
+    
+    Section 27: repealed, on 1 April 2014, by [section 126][112] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 28 Disclosure by Mutual
     
-*   (1) [Part 12][118] (disclosure by companies) of the Companies Act 1993 applies to the Mutual as if it were a company registered under that Act, each member a shareholder of the company, and the members register the share register.
+*   (1) [Part 12][115] (disclosure by companies) of the Companies Act 1993 applies to the Mutual as if it were a company registered under that Act, each member a shareholder of the company, and the members register the share register.
     
     (2) The annual return set out in the [Schedule][53] is the prescribed form to be used by the Mutual for the purposes of [section 214][62] (annual returns) of the Companies Act 1993\.
 
 ##### 29 Amalgamations
     
-*   (1) [Part 13][119] (amalgamations) of the Companies Act 1993, other than [sections 219][120], [220][121], and [221][122], applies to the Mutual as if it were a company registered under that Act and each member a shareholder of the company, to allow the Mutual and 1 or more companies that are directly or indirectly wholly owned by it to amalgamate and continue as the Mutual.
+*   (1) [Part 13][116] (amalgamations) of the Companies Act 1993, other than [sections 219][117], [220][118], and [221][119], applies to the Mutual as if it were a company registered under that Act and each member a shareholder of the company, to allow the Mutual and 1 or more companies that are directly or indirectly wholly owned by it to amalgamate and continue as the Mutual.
     
-    (2) In the event of such an amalgamation, the Mutual is to be treated as an amalgamated company for the purposes of [Part 13][119] of the Companies Act 1993\.
+    (2) In the event of such an amalgamation, the Mutual is to be treated as an amalgamated company for the purposes of [Part 13][116] of the Companies Act 1993\.
 
 ##### 30 Compromises with creditors
     
-*   [Part 14][123] (compromises with creditors) of the Companies Act 1993 applies to the Mutual as if it were a company registered under that Act and each member a shareholder of the company.
+*   [Part 14][120] (compromises with creditors) of the Companies Act 1993 applies to the Mutual as if it were a company registered under that Act and each member a shareholder of the company.
 
 ##### 31 Voluntary administration
     
-*   [Part 15A][124] (voluntary administration) of the Companies Act 1993 applies to the Mutual as if it were a company registered under that Act and each member a shareholder of the company.
+*   [Part 15A][121] (voluntary administration) of the Companies Act 1993 applies to the Mutual as if it were a company registered under that Act and each member a shareholder of the company.
 
 ##### 32 Liquidation
     
-*   [Part 16][125] (liquidations) of the Companies Act 1993 applies to the Mutual as if it were a company registered under that Act and each member a shareholder of the company.
+*   [Part 16][122] (liquidations) of the Companies Act 1993 applies to the Mutual as if it were a company registered under that Act and each member a shareholder of the company.
 
 ##### 33 Removal from register
     
-*   (1) [Part 17][126] (removal from the New Zealand register) of the Companies Act 1993 applies to the Mutual as if it were a company registered under that Act, each member a shareholder of the company, and the register the New Zealand register.
+*   (1) [Part 17][123] (removal from the New Zealand register) of the Companies Act 1993 applies to the Mutual as if it were a company registered under that Act, each member a shareholder of the company, and the register the New Zealand register.
     
     (2) The Mutual ceases to exist when it is no longer registered on a register.
     
-    Compare: 1993 No 105 [s 15][127]
+    Compare: 1993 No 105 [s 15][124]
 
 ##### 34 Registrar of Companies
     
 *   For the purpose of the following provisions of the [Companies Act 1993][55], the Mutual is to be treated as if it were a company registered under that Act and the register were the New Zealand register:
         
-    *   (a) [section 359][128] (responsible District Registrar):
+    *   (a) [section 359][125] (responsible District Registrar):
     
-    *   (b) [section 360A][129] (rectification or correction of New Zealand register and overseas register):
+    *   (b) [section 360A][126] (rectification or correction of New Zealand register and overseas register):
     
-    *   (c) [section 360B][130] (powers of court):
+    *   (c) [section 360B][127] (powers of court):
     
-    *   (d) [section 361][131] (Registrar may direct transfer):
+    *   (d) [section 361][128] (Registrar may direct transfer):
     
-    *   (e) [section 363][132] (inspection and evidence of registers):
+    *   (e) [section 363][129] (inspection and evidence of registers):
     
-    *   (f) [section 365][133] (Registrar's powers of inspection).
+    *   (f) [section 365][130] (Registrar's powers of inspection).
     
     
 
 ##### 35 Offences and penalties
     
-*   [Part 21][134] (offences and penalties) of the Companies Act 1993 applies to the Mutual as if it were a company registered under that Act and each member a shareholder of the company.
+*   [Part 21][131] (offences and penalties) of the Companies Act 1993 applies to the Mutual as if it were a company registered under that Act and each member a shareholder of the company.
 
 ##### 36 Miscellaneous
     
-*   [Part 22][135] (miscellaneous) of the Companies Act 1993, other than [sections 395][136], [396][137], and [397][138], applies to the Mutual as if it were a company registered under that Act and each member a shareholder of the company.
+*   [Part 22][132] (miscellaneous) of the Companies Act 1993, other than [sections 395][133], [396][134], and [397][135], applies to the Mutual as if it were a company registered under that Act and each member a shareholder of the company.
 
 #### Application of Financial Reporting Act 1993
 
+\[Repealed\]
+    
+*   Heading: repealed, on 1 April 2014, by [section 126][112] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
 ##### 37 Reporting entity
     
-*   The Mutual is required to comply with the [Financial Reporting Act 1993][112] as if it were a reporting entity.
+*   \[Repealed\]
+    
+    Section 37: repealed, on 1 April 2014, by [section 126][112] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 #### Transitional provisions
 
@@ -710,13 +722,13 @@ Incorporation and governance
     
     (2) It is not necessary to amend any application, notice, or other document to do so.
     
-    Compare: 2002 No 3 (P) [s 21][139]
+    Compare: 2002 No 3 (P) [s 21][136]
 
 ##### 40 References to Farmers' Mutual Insurance Association in existing instruments, etc
     
 *   Every reference (expressed or implied) to the Farmers' Mutual Insurance Association in an instrument, enactment, policy, register, communication, or any other thing made, given, passed, or executed before, on, or after the date of incorporation is a reference to the Mutual on and after the date of incorporation.
     
-    Compare: 2002 No 3 (P) [s 20][140]
+    Compare: 2002 No 3 (P) [s 20][137]
 
 ##### 41 Status of contracts and other instruments
     
@@ -750,7 +762,7 @@ Incorporation and governance
 
 ##### 44 Repeal of Farmers' Mutual Group Act 1998
     
-*   The [Farmers' Mutual Group Act 1998][141] (1998 No 4 (P)) is repealed.
+*   The [Farmers' Mutual Group Act 1998][138] (1998 No 4 (P)) is repealed.
 
 ---
 
@@ -762,7 +774,7 @@ Form of annual return
 #### Form  
 Annual return
 
-[Section 28][142], Farmers' Mutual Group Act 2007 and [section 214(1)][62], Companies Act 1993
+[Section 28][139], Farmers' Mutual Group Act 2007 and [section 214(1)][62], Companies Act 1993
 
 \[_If there is insufficient space on the form to supply the information required, attach a separate sheet containing the information set out in the prescribed format_.\]
 
@@ -774,74 +786,33 @@ Address for communication \[This is the postal address to which communications f
 
 ![Form - image 2. ](images/FarmersSchFormG2v1.jpg)
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Farmers' Mutual Group Act 2007\. The reprint incorporates all the amendments to the Farmers' Mutual Group Act 2007 as at 1 April 2008, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
+*   This is a reprint of the Farmers' Mutual Group Act 2007 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][143] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][140] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][141] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ http://www.pco.parliament.govt.nz/legislation/reprints.shtml or Part 8 of the _Tables of Acts and Ordinances and Statutory Regulations, and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][142] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][143] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][144] and [17E][145] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][112]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   [Farmers' Mutual Group Act 2007 Commencement Order 2008][56] (SR 2008/12)
+    [Farmers' Mutual Group Act 2007 Commencement Order 2008][56] (SR 2008/12)
 
 
 
-[0]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/private/2007/0001/latest/whole.html#DLM123533
 [2]: http://www.legislation.govt.nz/act/private/2007/0001/latest/whole.html#DLM123538
 [3]: http://www.legislation.govt.nz/act/private/2007/0001/latest/whole.html#DLM123539
@@ -953,37 +924,35 @@ Address for communication \[This is the postal address to which communications f
 [109]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM320685
 [110]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM320817
 [111]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM320823
-[112]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM323597
+[112]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM5740665
 [113]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM320843
 [114]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM320850
-[115]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM320872
-[116]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM320875
-[117]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM320894
-[118]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM321103
-[119]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM321142
-[120]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM321143
-[121]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM321144
-[122]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM321145
-[123]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM321160
-[124]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM321191
-[125]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM321666
-[126]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM322825
-[127]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM320115
-[128]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM323202
-[129]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM323204
-[130]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM323206
-[131]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM323208
-[132]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM323211
-[133]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM323213
-[134]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM323230
-[135]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM323269
-[136]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM323281
-[137]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM323284
-[138]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM323286
-[139]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM121626
-[140]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM121625
-[141]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM118957
-[142]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM123900
-[143]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM195439
-[144]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM195468
-[145]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM195470
+[115]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM321103
+[116]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM321142
+[117]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM321143
+[118]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM321144
+[119]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM321145
+[120]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM321160
+[121]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM321191
+[122]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM321666
+[123]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM322825
+[124]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM320115
+[125]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM323202
+[126]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM323204
+[127]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM323206
+[128]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM323208
+[129]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM323211
+[130]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM323213
+[131]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM323230
+[132]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM323269
+[133]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM323281
+[134]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM323284
+[135]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM323286
+[136]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM121626
+[137]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM121625
+[138]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM118957
+[139]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM123900
+[140]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM2998516
+[141]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM2998515
+[142]: http://www.legislation.govt.nz/act/private/2007/0001/latest/link.aspx?id=DLM2998532
+[143]: http://www.pco.parliament.govt.nz/editorial-conventions/
